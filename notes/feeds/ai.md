@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-22T09:28:30.464Z
+# AI — harvested 2026-09-22T15:10:18.780Z
 
 ## OpenAI
 
@@ -28,6 +28,9 @@ Mon, 21 Sep 2026 00:00:00 GMT — https://openai.com/index/v7
 Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
 
 ## Hugging Face
+
+### Transformers now runs llama.cpp quants
+Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/transformers-llama-cpp-quants
 
 ### Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
 Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/omlx

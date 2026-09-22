@@ -1,6 +1,21 @@
-# Manga — harvested 2026-09-22T09:28:30.464Z
+# Manga — harvested 2026-09-22T15:10:18.780Z
 
 ## Anime News Network
+
+### Silent Witch Author Matsuri Isora Announces New Fantasy Novel
+Tue, 22 Sep 2026 09:31:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/silent-witch-author-matsuri-isora-announces-new-fantasy-novel/.242065
+
+1st <cite>Bōkyaku no Curse Knight</cite> "knight fantasy" volume ships on November 13
+
+### Iron Wok Jan! ‒ Episode 12
+Tue, 22 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-12/.242072
+
+This bright and cheery final note felt way too saccharine and by-the-numbers from a series which has spent three months zigging whenever I thought it would zag.
+
+### Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists
+Tue, 22 Sep 2026 05:25:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082
+
+Honoka Inoue, Rina Honnizumi, Rina Hidaka sing "Tokimeki Un・Deux・Trois♪" ending as their characters
 
 ### Kojima Productions Issues Statement Amid Speculation on Physint's Publisher Change
 Mon, 21 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-21/kojima-productions-issues-statement-amid-speculation-on-physint-publisher-change/.242041
@@ -47,31 +62,26 @@ Mon, 21 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Manga launched in July 2025
 
-### Draw This, Then Die! ‒ Episode 11
-Mon, 21 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-11/.242033
-
-This is hands down my favorite show of the season, but this episode is a little disappointing.
-
-### Persona 4 Revival Game Adds Aika Nakamura as New Social Link Character
-Mon, 21 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/persona-4-revival-game-adds-aika-nakamura-as-new-social-link-character/.242056
-
-Aika originally appeared in <cite>Persona 4</cite> anime
-
-### 'Luca, the Dragon Vet' Manga Ends in 8th Volume
-Mon, 21 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/luca-the-dragon-vet-manga-ends-in-8th-volume/.242027
-
-Yūna Hirasawa launched manga in 2022
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
 
+### BanG Dream’s millsage Covers "Stellar Stellar" by Hoshimachi Suisei
+Tue, 22 Sep 2026 13:51:05 GMT — https://animecorner.me/bang-dreams-millsage-covers-stellar-stellar-by-hoshimachi-suisei/
+
+BanG Dream!’s millsage released a cover of "Stellar Stellar," a song originally sung by&hellip;
+
 ### Grand Blue Season 4 Announced With Teaser Visual
 Mon, 21 Sep 2026 15:32:34 GMT — https://animecorner.me/grand-blue-season-4/
 
 Grand Blue Season 4 anime was officially announced immediately after the third season's finale finished airing in Japan.
+
+### Ikka Dumb Rock Covers YuYu Hakusho Opening Song "Hohoemi no Bakudan"
+Mon, 21 Sep 2026 13:52:29 GMT — https://animecorner.me/ikka-dumb-rock-covers-yuyu-hakusho-opening-song-hohoemi-no-bakudan/
+
+The newest bang from BanG Dream!, Ikka Dumb Rock, covered the song "Hohoemi no&hellip;
 
 ### Black Clover Season 2 Episode 1 Preview and Synopsis Revealed
 Mon, 21 Sep 2026 12:42:18 GMT — https://animecorner.me/black-clover-season-2-episode-1-preview-and-synopsis-revealed/
@@ -92,21 +102,6 @@ The newest trailer for the previously announced Bride of the Barrier Master anim
 Sun, 20 Sep 2026 15:35:00 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-first-look-january-2027-return-with-the-first-royal-outing-arc/
 
 Toho announced that Though I Am an Inept Villainess will receive a second part&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Twelfth Ending Featuring "Aoi Yume" by Mori Tsubasa
-Sun, 20 Sep 2026 11:34:55 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-twelfth-ending-featuring-aoi-yume-by-mori-tsubasa/
-
-Katekyo Hitman REBORN! anime released the creditless version of its twelfth ending, featuring "Aoi Yume" by Mori Tsubasa.
-
-### My Hero Academia Announces ULTRA EXPO Event for April 2027 to Conclude Anime's 10th Anniversary
-Sun, 20 Sep 2026 11:21:09 GMT — https://animecorner.me/my-hero-academia-announces-ultra-expo-event-for-april-2027-to-conclude-animes-10th-anniversary/
-
-New My Hero Academia anime 10th anniversary project was revealed to be MHA ULTRA EXPO, a new event set to be held in 2027 in Japan.
-
-### Ram Fights Lye in Re:ZERO Season 4 Episode 18 Preview
-Sun, 20 Sep 2026 11:06:29 GMT — https://animecorner.me/ram-fights-lye-in-rezero-season-4-episode-18-preview/
-
-Re:ZERO Season 4 has revealed the Episode 18 (Episode 84 overall) preview ahead of its September 23 2026 premiere.
 
 ## MyAnimeList News
 

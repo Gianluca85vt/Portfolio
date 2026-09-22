@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-09-22T09:28:30.464Z
+# Film & TV — harvested 2026-09-22T15:10:18.780Z
 
 ## Variety
 
-### ‘Tango Metal’ Kickstarts Partnership Between Finland s Helsinki-filmi and Iceland s Glassriver (EXCLUSIVE)
-Tue, 22 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/glassriver-helsinki-filmi-tango-metal-1236871418/
+### Jensen Ackles to Star in Crime Thriller Series Rules of Prey at MGM+
+Tue, 22 Sep 2026 15:09:10 +0000 — https://variety.com/2026/tv/news/jensen-ackles-rules-of-prey-mgm-plus-1236872209/
 
-In a move mirroring European indie producers’ look out for strong partners in an unstable market, Helsinki-filmi (“Tom of Finland,“ “The Summer Book,” “Codename: Annika”), one of the biggest content creators in Finland, and Glassriver (“As Long as I Live,” Black Sands”), one of the leading players in Iceland, have come together to co-produce a [ ]
+Jensen Ackles is set to star in the thriller series Rules of Prey, which has been greenlit at MGM+. The series is based on the book of the same name by John Sandford, which is the first in Sandford s Prey novel series that focus on former police detective Lucas Davenport. The official logline states that [ ]
 
-### U.K. s National Film and TV School and Sean Connery Foundation to Establish Permanent Base in Edinburgh (EXCLUSIVE)
-Tue, 22 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/nfts-sean-connery-foundation-institute-edinburgh-1236871570/
+### Her Road to the Top: How NBCUniversal TV Studio Chief Pearlena Igbokwe Learned to Balance Business and Creative Instincts
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/features/pearlena-igbokwe-nbc-universal-tv-studio-boss-1236860415/
 
-The U.K. s renowned National Film and Television School (NFTS) has partnered with the Sean Connery Foundation to establish a new Scottish filmmaking center in Edinburgh. The NFTS Sean Connery Institute, which will launch in 2027, will bring together and expand the NFTS work in Scotland under one banner, with a mission to discover and develop [ ]
+By the time Pearlena Igbokwe was offered the job of president of Universal Television in 2016, she already had an impressive résumé. She’d climbed the ranks over 20 years at Showtime, and then excelled during a four-year stretch as head of NBC’s drama department. But the prospect of moving out of the network hierarchy to [ ]
 
-### Oscars: Egypt Selects Abu Bakr Shawky s The Stories for International Feature Race
-Tue, 22 Sep 2026 08:53:33 +0000 — https://variety.com/2026/film/awards/oscars-egypt-abu-bakr-shawky-the-stories-intl-feature-1236871790/
+### National Hispanic Media Coalition Announces 2026 Cohort for Series Scriptwriters Program (EXCLUSIVE)
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/national-hispanic-media-coalition-2026-ssp-cohort-1236869748/
 
-Abu Bakr Shawky s drama The Stories — which is inspired by how the director s Egyptian father and Austrian mother began their love affair as pen pals — has been selected as Egypt s entry for the Academy Award for best international feature film. When Shawky s father Ahmed was an aspiring pianist in Cairo in 1967, he [ ]
+The National Hispanic Media Coalition (NHMC) announced its 2026 cohort of participants for its annual Series Scriptwriters Program (SSP). Ten Latine writers from across the country were selected for an eight-week intensive, where they will develop scripts for an original television pilot that will be reviewed by SSP studio partners, including The Walt Disney Company, [ ]
 
-### Apple Reveals Apple Music Hall, a New Live Venue in London
-Tue, 22 Sep 2026 08:37:58 +0000 — https://variety.com/2026/music/global/apple-music-hall-live-venue-london-1236871803/
+### Kim s Convenience Star Andrew Phung Joins Quentin Lee s Zombie Comedy Curse of Undead (EXCLUSIVE)
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/news/kims-convenience-star-andrew-phung-zombie-comedy-curse-of-undead-1236871046/
 
-Apple is bringing a new live music venue to London. Located in Battersea Power Station, Apple Music Hall is a state-of-the-art venue designed to connect artists and fans through bespoke, intimate performances unlike anywhere else, Apple said in its announcement on Tuesday. “Apple’s deep love for music dates all the way back to the very [ ]
+Andrew Phung, an eight-time Canadian Screen Award winner known for Kim s Convenience and Run the Burbs, is boarding Quentin Lee s horror-comedy Curse of Undead as star and producer. Phung will play protagonist Pancho Dang in the Canada-Philippines co-production, which follows a struggling Canadian filmmaker battling a zombie outbreak unleashed by a Filipino sorcerer, while uncovering [ ]
 
-### Juliet Stevenson, Olivia Williams Join Tim Crouch s An Oak Tree at the Other Palace (EXCLUSIVE)
-Tue, 22 Sep 2026 08:30:00 +0000 — https://variety.com/2026/theater/news/juliet-stevenson-olivia-williams-tim-crouch-an-oak-tree-1236871011/
+### Fantastic Fest 2026 Awards Winners List: Ghost in the Cell, Girl in the Night and Adult Supervision Take Top Feature Honors (EXCLUSIVE)
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/news/fantastic-fest-2026-winners-list-1236871546/
 
-Francesca Moody Productions has unveiled further casting for Tim Crouch s An Oak Tree, adding Juliet Stevenson, Olivia Williams, Sean Gilder, Brian Gleeson, Sophie Melville, Rhashan Stone and Ria Zmitrowicz to the roster of guest artists appearing opposite Crouch during the show s run at The Other Palace from Oct. 7-Nov. 15. An Oak Tree hinges on [ ]
+Fantastic Fest, the annual Austin-based celebration of genre filmmaking, has announced top honors for its films in competition. “Our winning films embody distinctive and powerful voices from a wide range of cultures, and the exciting new generation of talent shaping the future of genre cinema,” Annick Mahnert, director of programming, said in a statement. “It [ ]
 
-### Susan Sarandon to Be Honored at Rome Film Festival Sidebar Where The Accompanist Will Bow Internationally (EXCLUSIVE)
-Tue, 22 Sep 2026 08:08:24 +0000 — https://variety.com/2026/film/festivals/susan-sarandon-rome-festival-alice-the-city-the-accompanist-1236871767/
+### Prime Video Snaps Up LatAm Romance Series Starring Agustin Bernasconi, Noa Kirel With Sipur Repping Global Sales (EXCLUSIVE)
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/global/mirame-asi-el-camino-de-noa-prime-video-release-date-1236871842/
 
-Susan Sarandon will be honored by the Rome Film Festival’s independently run Alice in the City sidebar, which is dedicated to films for children and youth. Sarandon will be attending the Eternal City fest to promote the international launch of “Silicon Valley” star Zach Woods feature film debut The Accompanist, in which she stars; and [ ]
+Prime Video has snapped up LatAm romance series “Mírame Así, El Camino de Noa,” which is set for release next month. The 24-part series, which stars international pop sensations Agustin Bernasconi and Noa Kirel, is set to launch on the streaming platform Oct. 9 in Latin America. In Argentina it will also air on the [ ]
 
-### Parvathy Thiruvothu on Playing a Police Officer in Pradhama Drishtiya Kuttakkar and Speaking Out About Misogyny Despite Scrutiny: I Enjoy Watching Patriarchy Fall Apart
-Tue, 22 Sep 2026 08:00:00 +0000 — https://variety.com/2026/film/news/parvathy-thiruvothu-pradhama-drishtiya-kuttakkar-industry-activism-1236870950/
+### Evita on Broadway: West End Stars Diego Rodriguez, James Olivas to Reprise Roles Alongside Rachel Zegler (EXCLUSIVE)
+Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/legit/news/evita-broadway-diego-rodriguez-james-olivas-rachel-zegler-1236871961/
 
-Indian actor Parvathy Thiruvothu has spent two decades fighting the system from outside it – both on screen and off. In Pradhama Drishtiya Kuttakkar ( Prima Facie Guilty ), the Shahad Nilambur-directed thriller now running in theaters, she s finally on the inside, portraying a police officer for the first time in a Malayalam film. But the actor [ ]
+Diego Rodriguez and James Olivas will star alongside Rachel Zegler in Evita, which opens on Broadway next spring. Rodriguez and Olivas are reprising their roles as Che and Juan Perón, respectively, from last summer s acclaimed West End production. As previously announced, Zegler is reprising her Olivier Award-winning role as Argentinian first lady Eva Perón. Director [ ]
 
-### Banijay to Launch Dating Reality Format Date Knight at Mipcom (EXCLUSIVE)
-Tue, 22 Sep 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/banijay-date-knight-mipcom-1236871449/
+### Merged Paramount-Warner Bros. Will Be a Streaming Powerhouse, Wall Street Analysts Say — but Saddled With More Than $77 Billion in Debt
+Tue, 22 Sep 2026 14:42:15 +0000 — https://variety.com/2026/tv/news/merged-paramount-plus-warner-bros-hbo-max-streaming-powerhouse-1236872026/
 
-Media and entertainment group Banijay Entertainment has unveiled a new dating reality format Date Knight, which will join its portfolio of new IP heading to TV market Mipcom. The show is produced by Nordisk Film TV, part of Banijay Nordic, for Danish public broadcaster DR. Date Knight invites singles to step into a spectacular romantasy [ ]
+Paramount Skydance’s David Ellison has prevailed in his dogged pursuit of Warner Bros. Discovery: He’s won the deal. Now comes the hard part: making the economics of the combined company work, given an extremely high debt load of the combined media company. Following the announcement of Paramount s settlement with the 12 Democratic state attorneys general [ ]
 
-### Japan Pitch Heads to Busan Film Festival With Four Co-Production Projects (EXCLUSIVE)
-Tue, 22 Sep 2026 06:51:19 +0000 — https://variety.com/2026/film/markets-festivals/japan-pitch-busan-film-festival-1236871781/
+### Zara Larsson Performs at iHeart in Las Vegas, Jonathan Bailey Attends Burberry Fashion Show in London and More Red Carpet Photos: September 2026
+Tue, 22 Sep 2026 14:30:04 +0000 — https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/
 
-Atmovie Inc. will stage Japan Pitch at the 31st Busan International Film Festival, giving four filmmakers from its Atmovie Global Track accelerator a platform to pitch original feature projects to international buyers and producers. Atmovie Global Track, backed by the Japan Creator Support Fund through the Japan Arts Council, was set up to help Japanese [ ]
+As the summer begins to wind down in September, Hollywood is just getting started with a new crop of awards season movies premiering at the Venice Film Festival. Some of the first arrivals for the 83rd annual Italian fest included George Clooney, Laura Dern, Kate Mara, Claire Foy and jury president Maggie Gyllenhaal. At the [ ]
 
-### Rima Das, Shan Zuolong, Shim Eun-kyung Named to Busan s New Currents Jury
-Tue, 22 Sep 2026 06:20:51 +0000 — https://variety.com/2026/film/festivals/rima-das-shan-zuolong-shim-eun-kyung-busan-new-currents-jury-1236871769/
+### This $760 ‘Handmaid’s Tale’ Box Set Comes With Hand-Signed Artwork and a New Margaret Atwood Introduction
+Tue, 22 Sep 2026 14:23:34 +0000 — https://variety.com/2026/shopping/news/handmaids-tale-testaments-box-set-signed-limited-edition-1236872074/
 
-The 31st Busan International Film Festival (BIFF) has confirmed Indian director Rima Das, Chinese producer Shan Zuolong and Korean actor Shim Eun-kyung as the three jurors for its New Currents Award, a prize that has served as a launchpad for emerging Asian directors. Debut feature films screening in BIFF s Competition or Vision sections are eligible [ ]
+The Folio Society is giving Margaret Atwood’s Gilead novels a lavish makeover. The independent publisher is releasing a new collector’s edition box set of “The Handmaid’s Tale” and “The Testaments,” limited to just 750 hand-signed copies and priced at $760. The set, featuring new artwork from acclaimed Italian illustrators Anna and Elena Balbusso, will be [ ]
 
 ## The Hollywood Reporter
 
-### Elliot Graham, Oscar-Nominated Film Editor on ‘Milk,’ Dies at 50
-Tue, 22 Sep 2026 03:12:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elliot-graham-dead-film-editor-milk-1236707303/
+### Inside Ari Emanuel s Earliest Days in Hollywood: Coffee Runs, Couch Surfing and Replacing Michael Ovitz s Toilet Paper
+Tue, 22 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/inside-ari-emanuels-earliest-days-hollywood-memoir-excerpt-1236707236/
 
-He also worked on the films 'Steve Jobs,' 'Captain Marvel' and 'No Time to Die.'
+In an exclusive excerpt from Emanuel's memoir 'Roll the Calls,' he details his time in the CAA mailroom, writing, "Sometimes it feels as if the yeller is actually getting off, as if they’re a textbook sadist, and sometimes it feels like basic revenge, because the yeller got yelled at when he worked in the mailroom."
 
-### Clavicular Charged With Rape, Drugging Person for Sex in Massachusetts
-Tue, 22 Sep 2026 02:44:07 +0000 — https://www.hollywoodreporter.com/news/general-news/clavicular-charged-rape-drugging-massachusetts-1236707312/
+### Hayden Panettiere Died From Toxic Effects of Fentanyl, Other Drugs
+Tue, 22 Sep 2026 14:30:31 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-cause-of-death-1236707486/
 
-His rep wrote in response, "Clavicular has not been physically served. As usual, the 'Bulwark' is exaggerating the status of a case to boost traffic."
+The actress' death last month has been ruled an accident.
 
-### David Ellison: Me, Move? I Love L.A.
-Mon, 21 Sep 2026 22:17:11 +0000 — https://www.hollywoodreporter.com/business/business-news/david-ellison-me-move-i-love-l-a-1236707241/
+### Billy Bush Joins Fox News As Contributor
+Tue, 22 Sep 2026 14:26:29 +0000 — https://www.hollywoodreporter.com/tv/tv-news/billy-bush-joins-fox-news-1236707487/
 
-After insinuations that he was serious about relocating Paramount from its century-old home if the states' lawsuit proceeded, the mogul has now changed tune.
+The former 'Access Hollywood' correspondent will make his debut Tuesday on Fox News’ 'Jesse Watters Primetime.'
 
-### Resident Evil Star Austin Abrams Breaks Down the Risky and Gutsy Ending
-Mon, 21 Sep 2026 21:06:28 +0000 — https://www.hollywoodreporter.com/movies/movie-features/resident-evil-austin-abrams-breaks-down-ending-1236707140/
+### More Xbox Layoffs Hit as Massive Reorg Continues; Activision to Make Next Halo Game
+Tue, 22 Sep 2026 14:24:20 +0000 — https://www.hollywoodreporter.com/business/business-news/xbox-layoffs-reorg-activision-takes-over-halo-games-1236707478/
 
-"I was surprised by it, but I also loved that he would take that chance," says Abrams of filmmaker Zach Cregger's conclusion to the hit video game adaptation.
+The Microsoft-owned gamemaker is in the process of eliminating 3,200 jobs.
 
-### CNN and CBS News Will Soon Have An Editorial Independence Board. Here s What That Means
-Mon, 21 Sep 2026 20:51:55 +0000 — https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/
+### Peter Berg s Netflix War Movie The Mosquito Bowl to Premiere at AFI Fest (Exclusive)
+Tue, 22 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/peter-berg-netflix-mosquito-bowl-premiere-2026-afi-fest-1236707355/
 
-As part of the settlement between Paramount and the state AGs, the news organizations will have a board of journalists monitoring their work, and disputes with management.
+The film, an adaptation of Buzz Bissinger's bestseller of the same name, will premiere in a Gala slot on Oct. 22.
 
-### Daredevil: Born Again to End With Season 3 (Exclusive)
-Mon, 21 Sep 2026 20:25:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/daredevil-born-again-ending-season-3-showrunner-change-1236705406/
+### Tupac Shakur Murder Trial Doc in The Works
+Tue, 22 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tupac-shakur-trial-documentary-1236707464/
 
-Showrunner Dario Scardapane, who headed up the Marvel show's second season, is no longer working on the series.
+The feature documentary from Passion Pictures and Propagate Content will follow Duane “Keffe D” Davis being tried and eventually convicted in the long-unsolved case following the rapper’s 1996 infamous death.
 
-### Free Streamer Pluto TV Gets a Lifeline in Paramount-Warner Bros. Consent Decree
-Mon, 21 Sep 2026 20:21:37 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-settlement-pluto-tv-protection-1236707112/
+### Mike Leigh Explains Why It s More Than Probable That Tender Loving Care Is His Final Film
+Tue, 22 Sep 2026 13:29:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-final-film-tender-loving-care-1236707446/
 
-The settlement with state attorneys general says the combined company has to maintain the service for the five-year term of the deal.
+At a San Sebastian Film Festival press conference on Tuesday, the British director was asked about his retirement and staying optimistic when "so many things are happening in the world, which are frightening and limiting."
 
-### Taylor Frankie Paul Seemingly Steps Away From The Secret Lives of Mormon Wives
-Mon, 21 Sep 2026 18:53:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-frankie-paul-steps-away-secret-lives-mormon-wives-1236707057/
+### California Vowed to Stop Paramount-Warner Bros. Merger. Why Did It Fold?
+Tue, 22 Sep 2026 13:16:56 +0000 — https://www.hollywoodreporter.com/business/business-news/california-paramount-warner-bros-settle-why-fold-1236707326/
 
-The reality TV personality's season of 'The Bachelorette' was pulled following resurfaced videos of an alleged domestic incident.
+Political pressure, a dice roll of an antitrust trial and competing factions within the alliance of states and the Writers Guild of America all played a part in the states' decision to settle.
 
-### Line of Fire Review: Peter Krause and Hope Davis Lead NBC s Silly but Diverting Law Enforcement Family Drama
-Mon, 21 Sep 2026 18:43:56 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/line-of-fire-review-nbc-hope-davis-peter-krause-1236700815/
+### Neon Sets Paper Tiger Awards Categories, Plans First Real Push for a James Gray Film (Exclusive)
+Tue, 22 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neon-oscars-paper-tiger-awards-categories-james-gray-1236706637/
 
-Created by Joshua Safran ('Quantico'), the series follows the Hollingsworth clan, whose various members belong to the Secret Service, the FBI, the U.S. Marshals and the Department of Justice.
+Miles Teller, Scarlett Johansson and Adam Driver are among the contenders for Gray's crime-thriller, which premiered at the Cannes Festival in May and will open the New York Film Festival on Friday.
 
-### Presley Gerber’s Death Is Being Investigated as a Suspected Overdose: Police
-Mon, 21 Sep 2026 18:40:14 +0000 — https://www.hollywoodreporter.com/news/general-news/presley-gerber-death-investigation-suspected-overdose-1236707072/
+### Heart of the Beast Review: Brad Pitt and His Canine Co-Star Earn Your Tears in David Ayer s Tense, Tender Survival Thriller
+Tue, 22 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/heart-of-the-beast-review-brad-pitt-david-ayer-1236706924/
 
-According to the Los Angeles County Medical Examiner online records, Gerber died Sunday at a "rehabilitation facility."
+A former Special Forces soldier and his combat dog struggle to survive in the Alaskan wilderness in this adventure from the 'Fury' filmmaker.
 
 ## Deadline
 
-### Piers Morgan To Sue Princess Diana s Brother Over Bulls*** Claims In His Bombshell Memoir: Why Should We Believe Anything In This Book?
-Tue, 22 Sep 2026 08:53:23 +0000 — https://deadline.com/2026/09/piers-morgan-charles-spencer-diana-sue-book-swan-song-1237109893/
+### Zurich To Fete Tom Hiddleston With Golden Eye Award At Tenzing Opening Night Gala Screening
+Tue, 22 Sep 2026 15:02:21 +0000 — https://deadline.com/2026/09/zurich-tom-hiddleston-golden-eye-tenzing-1237110106/
 
-Piers Morgan is on the warpath over Swan Song, the bombshell memoir from Charles Spencer, brother of the late Princess Diana. Spencer s book has dominated the headlines in the UK for days following his explosive allegation that King Charles III said Diana would soon be forgotten in the aftermath of her death. Morgan drew attention [ ]
+The Zurich Film Festival (ZFF) will honor Tom Hiddleston with its Golden Eye Award as his latest feature Tenzing opens its 22nd edition on Thursday. Hiddleston, who will attend the European premiere with co-star Willem Dafoe and BAFTA-nominated director filmmaker Jennifer Peedom, will be presented with the award ahead of the screening. The actor plays [ ]
 
-### Brixton Community Cinema Creator Abiba Coulibaly On Why She Decided To End The Popular London Film Club
-Tue, 22 Sep 2026 08:02:56 +0000 — https://deadline.com/2026/09/brixton-community-cinema-abiba-coulibaly-final-season-1237109180/
+### Jensen Ackles To Star In Rules Of Prey Crime Thriller Series Ordered By MGM+ Based On Book
+Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/jensen-ackles-rules-of-prey-series-mgm-plus-1237108451/
 
-Next month, the Brixton Community Cinema, the roving cinema project that has quickly become one of the UK’s most admired film communities under the stewardship of independent programmer Abiba Coulibaly, will close. Coulibaly announced the cinema’s farewell season in August on Instagram. “The closure of Brixton Community Cinema is not to give up and abandon [ ]
+EXCLUSIVE: Jensen Ackles continues to be an Amazon MGM Studios MVP by pulling double duty. The Vought Rising star is set to headline and executive produce original drama series Rules of Prey, which has been greenlighted by MGM+. It is based on the first novel in John Sandford s Prey book series. Created by Bruce Terris [ ]
 
-### Muse Entertainment Unveils Doula: A True Crime Trailer As Boat Rocker Studios Boards CBC Doc
-Tue, 22 Sep 2026 04:01:00 +0000 — https://deadline.com/2026/09/doula-true-crime-trailer-boat-rocker-studios-cbc-1237109202/
+### Canada’s Omnifilm Expands Scripted Slate With English-Language Remake Of Korean Drama ‘The Good Detective’
+Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/the-good-detective-korean-drama-sll-omnifilm-reso-1237109076/
 
-EXCLUSIVE: Here s a trailer for Doula – A True Crime, a Canadian doc series from The Walrus and the Whistleblower filmmaker Nathalie Bibeau about a bizarre criminal case of a woman who faked pregnancies. The three-parter, which will premiere on Canadian pubcaster CBC on October 7, looks into the story of Kaitlyn Braun, who aged [ ]
+EXCLUSIVE: Canada’s Omnifilm Entertainment has announced an English-language adaptation of Korean crime thriller series The Good Detective. Based on the successful Korean format produced by Seoul-based content studio SLL, the project is part of Omnifilm’s move to expand its scripted slate with premium series aimed at global markets. The original series was originally broadcast on [ ]
 
-### Trump TV Promo Uses Clips From The Simpsons, Seinfeld, Friends, The Dark Knight Many More
-Tue, 22 Sep 2026 03:46:44 +0000 — https://deadline.com/2026/09/trump-tv-promo-clips-simpsons-seinfeld-friends-1237109786/
+### ‘Sense And Sensibility’ Review: Director Georgia Oakley Brings A Rebellious Spirit To Jane Austen’s Still-Sharp Social Satire
+Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/sense-and-sensibility-review-georgia-oakley-daisy-edgar-jones-1237110038/
 
-Donald Trump has defied copyright complaints from Neil Young, Ariana Grande, Beyoncé and everyone in between for unauthorized use of their music. Today, it posted a promo video for Trump TV that made use of footage from Friends, The Simpsons, Family Guy, Home Alone, Modern Family, Breaking Bad, The Dark Knight, The Office, SpongeBob SquarePants, [ ]
+Over 30 years have passed since Ang Lee worked his magic on Jane Austen’s 1811 novel, and, aside from a 2008 BBC mini-series, it’s taken until now for someone else to have a bash at a feature film version. It’s surprising it’s taken so long; a quick revisit shows that the 1995 Sense and Sensibility [ ]
 
-### Resident Evil $108.3M WW Opening A Record For Franchise Zach Cregger, Coyote Vs. Acme Nears $100M WW Global Box Office Update
-Tue, 22 Sep 2026 03:00:00 +0000 — https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/
+### Smilla’s Sense Of Snow Series Settles At AMC+
+Tue, 22 Sep 2026 14:45:19 +0000 — https://deadline.com/2026/09/smillas-sense-of-snow-series-premiere-on-amc-plus-us-canada-1237110075/
 
-UPDATED: TriStar Pictures/Constantin Film/Davis Films Resident Evil rang up a massive $108.3M worldwide, not only the best start the franchise has ever seen, but also Zach Cregger s biggest start as filmmaker surpassing the $70M WW reported opening of last year s Weapons. What was the previous biggest opener in the Resident Evil franchise? We re told it [ ]
+AMC+ has picked up drama series Smilla’s Sense of Snow. The dystopian thriller will play on the streaming service in the U.S. and Canada. A new adaptation of Peter Høeg’s bestseller, the series stars Filippa Coster-Waldau, Elyas M’Barek and Henry Lloyd-Hughes. It is directed by BAFTA winner Amma Asante (The Handmaid’s Tale). Smilla’s Sense of [ ]
 
-### Post-Merger Paramount May Overdeliver On Settlement Terms With 36-Film 2027 Slate Amid Speculation About Duplication WB Leadership
-Tue, 22 Sep 2026 02:17:49 +0000 — https://deadline.com/2026/09/paramount-deal-36-film-movie-slate-1237109549/
+### Billy Bush Joins Fox News As A Contributor
+Tue, 22 Sep 2026 14:39:32 +0000 — https://deadline.com/2026/09/billy-bush-joins-fox-news-1237110061/
 
-California Attorney General Rob Bonta can rest easy: A merged Paramount Warner Bros. Discovery would already account for 36 movies on the release schedule for 2027. Note, that s an organic number of theatrical releases which were always set to happen even before the union of the storied studios came together. As for 2028, the combined [ ]
+Billy Bush has joined Fox News as a contributor, in whuch he will offer cultural analysis on the network s shows. That will start on Tuesday evening with an appearance of Jesse Watters Primetime. Bush hosts the digital show Hot Mics with Billy Bush, and previously anchored the syndicated series Extra from 2019 to 2025. After [ ]
 
-### Oscar Winner Barbara Kopple On ‘Union Town,’ Her Third Towering Film On American Labor – Camden Film Festival
-Tue, 22 Sep 2026 00:50:50 +0000 — https://deadline.com/2026/09/union-town-interview-director-barbara-kopple-1237109699/
+### Ari Emanuel On Nikki Finke, Talking To Trump, AI s Upside What Hollywood Exec He Hates The Most
+Tue, 22 Sep 2026 14:34:08 +0000 — https://deadline.com/2026/09/ari-emanuel-interview-nikki-finke-memoir-1237109218/
 
-Fifty years ago, a young director named Barbara Kopple came out with her first film, a documentary she thought would be little seen. “When I started making the film, I thought, ‘Oh, my parents will see it and their friends and maybe a museum will show it,’” she recalls. That film was Harlan County U.S.A., [ ]
+Don t let the kinder gentler Ari Emanuel out there pitching his new memoir fool you. Despite what you may have read during his media tour for Roll the Calls, the WME Group boss hasn t mellowed out. The notoriously combative Emanuel is still taking names, making calls, taking no prisoners and, from Donald Trump and Barack [ ]
 
-### Paramount Settlement Protects Pluto TV, Sets BET Comedy Central As Potential Divesture Targets While Omitting Premium Channels TV Studios
-Tue, 22 Sep 2026 00:27:15 +0000 — https://deadline.com/2026/09/paramount-settlement-pluto-tv-bet-comedy-central-divesture-1237109340/
+### Committed : First Look At Dustin Milligan Diona Doherty As Transatlantic Lovers In CBC BBC Sitcom
+Tue, 22 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/committed-first-look-dustin-milligan-diona-doherty-sitcom-1237109269/
 
-Here is a concession no one really asked for the settlement of state attorneys generals anti-trust lawsuit over the proposed Paramount-Warner Bros. Discovery merger includes a provision ensuring that Paramount will keep Pluto TV or another free, ad-supported streaming service for the next five years. While Pluto TV is protected, the settlement spells out [ ]
+EXCLUSIVE: CBC and BBC Northern Ireland are certainly Committed now. The broadcasters have released first-look images of their comedy series starring Dustin Milligan (Schitt s Creek) and Diona Doherty (Derry Girls). You can see them below and above, and we certainly get the sense of Milligan s Canadian character Peter Hooley falling head-over-heels in love with Doherty s [ ]
 
-### Forgotten Island Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic Toon
-Mon, 21 Sep 2026 23:05:58 +0000 — https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630/
+### Hayden Panettiere s Cause Of Death Confirmed
+Tue, 22 Sep 2026 14:27:03 +0000 — https://deadline.com/2026/09/hayden-panettiere-cause-of-death-confirmed-fentanyl-1237110035/
 
-You have to give points to DreamWorks latest animated feature, Forgotten Island, just simply for being an original from a studio system that rewards familiarity. And it comes from writer/directors Joel Crawford and Januel Mercado who proved with their own sequel, 2022 s Puss In Boots: The Last Wish that you could find clever ways to [ ]
+The official cause of death has been confirmed for Hayden Panettiere. The Greenville County Coroner s Office in South Carolina has determined Panettiere died from the toxic effects of fentanyl, 4-ANPP, Alprazolam, Methocarbamol, and Quetiapine. The manner of death has been ruled accident. Fentanyl is a powerful synthetic opioid painkiller; 4-ANPP is a chemical precursor used [ ]
 
-### Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators
-Mon, 21 Sep 2026 23:01:00 +0000 — https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/
+### You Should Not Be Here Covering Me : Trump Surprised By Presence Of Kaitlan Collins After CNN Gets Credentialed By UN Despite White House Ban
+Tue, 22 Sep 2026 14:24:10 +0000 — https://deadline.com/2026/09/trump-cnn-ban-kaitlan-collins-un-1237110017/
 
-Top UK creators have banded together to launch an independent alliance championing their interests. YouTube UK is backing Creator Voices, which consists of The Sidemen’s rep Jordan Schwarzenberger, DamienTalksMoney, Jade Beason, TLDR News, Grace Andrews and Brandon B. The alliance is being unveiled today at a YouTube Festival in London. Creator Voices said its members [ ]
+When President Donald Trump arrived at the United Nations on Tuesday and went over to speak to reporters, he noted the presence of Kaitlan Collins. The CNN anchor and correspondent was there via a UN credential, despite the president s ban on the network from the White House and the TV pool. I m surprised that CNN [ ]
 
-### Taylor Swift Set For Inaugural MTV VMA Artist Director Honors
-Mon, 21 Sep 2026 22:21:08 +0000 — https://deadline.com/2026/09/taylor-swift-vma-artist-director-honors-1237109638/
+### Taiwan Creative Content Fest Launches Spotlight Screenings At Vieshow Cinemas
+Tue, 22 Sep 2026 14:12:02 +0000 — https://deadline.com/2026/09/taiwan-creative-content-fest-market-spotlight-screenings-1237109966/
 
-Taylor Swift will have to find space for yet another award. MTV said Monday that the Queen of Pop Present will be the first recipient of its MTV VMA Artist Director Honors, set to be presented Sunday during the 2026 MTV Video Music Awards. The inaugural prize celebrates a sustained and influential body of work [ ]
+Taiwan Creative Content Fest (TCCF) is collaborating with Vieshow Cinemas to host new initiative Spotlight Screenings, offering buyers and other key industry professionals an exclusive preview of two high-profile Taiwanese titles. The first screening on November 7 is for April, about a migrant family caregiver working in a Hakka community in Pingtung, Taiwan, who upon [ ]
 
-### John Oliver Calls Out Soon-To-Be Business Daddy David Ellison Throws Stephen Colbert Under The Bus
-Mon, 21 Sep 2026 22:15:57 +0000 — https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634/
+### Susan Sarandon Olivia Colman Join Ronan Bennett s Starry Thriller Series Army Of Shadows , Filming Underway
+Tue, 22 Sep 2026 14:07:42 +0000 — https://deadline.com/2026/09/susan-sarandon-olivia-colman-join-army-of-shadows-1237110005/
 
-John Oliver took a dig at soon-to-be business daddy David Ellison on the latest episode of Last Week Tonight. The comedian is known to take jabs at his business daddies, and amid the Paramount-Warner Bros. merger, Oliver took a swipe at Ellison. While discussing UnitedHealthcare and its denial of insurance claims, Oliver gave an example [ ]
+EXCLUSIVE: A very good-looking project has just become more so. Oscar winners Susan Sarandon and Olivia Colman have joined Paddy Considine, America Ferrera, Alex Hassell and Kit Harington in thriller series Army Of Shadows, which is now filming in Paris and London. This is the project set in a near-future authoritarian Britain from MobLand and [ ]
 
 ## befores & afters
+
+### New cover reveal! All the magazines coming soon from befores afters
+Tue, 22 Sep 2026 11:16:18 +0000 — https://beforesandafters.com/2026/09/22/new-cover-reveal-all-the-magazines-coming-soon-from-befores-afters/
+
+Your first look at the cover for the Masters of the Universe issue! Here s your special reveal for the wrap-around cover for the upcoming issue of befores & afters magazine covering the visual effects of Masters of the Universe! This is a huge issue, featuring visual effects supervisor David Vickery, and in-depth with DNEG, ILM, Rodeo FX, Cinesite and Untold Studios. To get the DIGITAL EDITION of the issue as soon as it s out, subscribe to the befores & afters Patreon here: https://www.patreon.com/c/beforesandafters/membership There s a whole heap of magazines coming soon. Here s just some of the list (with some others I can t announce just yet): The Odyssey Project Hail Mary Backrooms The Mandalorian and Grogu Spider-Man: Brand New Day Disclosure Day Moana Toy Story 5 The Cat in the Hat House of the Dragon, s3 Subscribe to the befores & afters Patreon here: https://www.patreon.com/c/beforesandafters/membership The post New cover reveal! All the magazines coming soon from befores afters appeared first on befores & afters .
 
 ### Here s what befores afters is up to at VIEW Conference!
 Mon, 21 Sep 2026 06:53:05 +0000 — https://beforesandafters.com/2026/09/21/heres-what-befores-afters-is-up-to-at-view-conference/
@@ -174,6 +179,16 @@ Mon, 21 Sep 2026 06:53:05 +0000 — https://beforesandafters.com/2026/09/21/here
 Hosting panels, sessions, workshops and with the mags and book available! I can t wait for VIEW Conference coming up very soon 12-16 October 2026! Here s four sessions I ll be involved with during the week in Turin, plus how you can grab magazines and the book. 1. On stage with director Brad Bird to discuss his upcoming Ray Gunn from Skydance Animation and Cinesite. 2. Behind the VFX of The Odyssey with VFX supe Andrew Jackson to break down his and DNEG s work on the film this is a pre-recorded session played during the conference, and I can tell you it is a SUPER-FUN conversation. I learnt so many new things. 3. Hosting Industry Executives Shaping the Future of Cinema a huge panel of key VFX and animation players from industry Janet Lewin , Senior VP, GM, Head, Industrial Light & Magic Laurens Ehrmann , Founder/Creative Director, The Yard Michelle Grady , President, Sony Pictures Imageworks Holly Edwards , President, Skydance Animation Shawn Walsh , COO VFX/GM Image Engine, Cinesite Group Ron Frankel , Founder/CEO, Proof Inc Henrik Fett , CEO, Opsis Studio 4. A masterclass from me on The Greatest Shots in Visual Effects History come along to find out what shots they will be! (And yes, there will be give-aways of my new book and magazines). Here s where to get your tickets for VIEW: https://www.viewconference.it/pages/registration/ The post Here s what befores afters is up to at VIEW Conference! appeared first on befores & afters .
 
 ## IndieWire
+
+### Forgotten Island Review: A Fun, Hyper, Kid-Friendly Riff on The Hangover Steeped in Filipino Folklore
+Tue, 22 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/forgotten-island-animated-movie-review-1235218021/
+
+There's a LOT going on in Dreamworks Animation's latest film, but the friendship at its center holds the story together.
+
+### Heart of the Beast Review: Brad Pitt and a Very Good Dog Brave the Elements in David Ayer s Predictably Pro-Military Survival Thriller
+Tue, 22 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/heart-of-the-beast-review-brad-pitt-dog-1235218003/
+
+A Special Forces veteran and his highly skilled canine fend off white waters, wolves, and more in an unexpectedly intimate two-hander that eventually careens into pro-military agitprop.
 
 ### Chester Bennington Doesn t Appear in Linkin Park Rock Doc Unshatter, but Director Joe Hahn Made Sure He Was Always, Always Around
 Mon, 21 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/linkin-park-unshatter-joe-hahn-interview-chester-bennington-1235216316/
@@ -225,117 +240,107 @@ Sun, 20 Sep 2026 17:11:43 +0000 — https://www.indiewire.com/features/interview
 
 TIFF: It took almost a decade for the "Moon" and "Mute" filmmaker to get his animated adaptation of "Rogue Trooper" off the ground. Sometimes, the filmmaker tells IndieWire, that's just what the vision entails.
 
-### La Bola Negra Wins the 2026 Toronto International Film Festival People s Choice Award
-Sun, 20 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/awards/results/2026-tiff-awards-winners-full-list-1235217520/
-
-The Spanish epic was already a hit out of its Cannes premiere, but now it's firmly launched into the heart of this year's awards season. Plus: check out the full list of winners.
-
-### John Wilson s The History of Concrete from Magnolia Becomes IFC Center s Second Biggest Debut
-Sun, 20 Sep 2026 12:59:00 +0000 — https://www.indiewire.com/news/box-office/box-office-john-wilson-history-of-concrete-ifc-center-record-1235217860/
-
-The offbeat documentary earned $90,000, second only to "Parasite."
-
 ## The Wrap
+
+### BET s First Microseries Her Baby Will Premiere on Linear Before Going Digital
+Tue, 22 Sep 2026 15:10:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/bet-atwist-microseries-her-baby-linear-premiere-digital-edit/
+
+BET s first microseries in collaboration with aTwist will debut on the network this October. The collaboration is a first of its kind. Psychological thriller series Her Baby will premiere first on BET in four half-hour installments as a horizontal format and will later be reformatted into a microseries for aTwist. Her Baby” follows Naomi and Cory Marsh as they prepare to welcome their child with the help of Imani, their surrogate. Imani starts as a warm, devoted extended member of the family as she moves in to help with the child until Naomi suspects that the woman carrying her baby wants far more than she s letting on. Mia Reese, Destyni Hannah Cooper, and Brandon McGee will appear as series regulars in the series, which premieres on BET Wednesday, Oct. 7. A release date for the aTwist version has yet to be announced. The BET-aTwist partnership will see the two platforms develop microseries that are designed to be viewed across multiple platforms. BET will have a limited first-run window for the long-form versions of the episodes before they are re-edited as microdramas for aTwist’s mobile-first viewing. “The microseries format represents one of the most significant shifts in how content is created, distributed and consumed, and we’re positioning BET at the forefront of that evolution,” Aisha Summers-Burke, EVP and head of creative at BET Studios, said in a statement. “Our partnership with aTwist brings a best-in-class team and a format built for the future. Together we’re c
+
+### Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs
+Tue, 22 Sep 2026 15:08:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hayden-panettiere-cause-of-death-fentanyl/
+
+Hayden Panettiere s death has been ruled an accident caused by toxic effects of fentanyl and other drugs, according to the Greenville County Coroner’s Office. “At autopsy, no signs of trauma were discovered that would have contributed to the death,” officials said in a Tuesday statement. They further determined evidence of 4-ANPP, Alprazolam, Methocarbamol and Quetiapine in her system, per the toxicology report. The Heroes actress died last month on Aug. 16 in Greenville, South Carolina. “It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her — and to the millions who watched her onscreen,” her father Skip Panettiere shared in an initial statement. “We ask for privacy as our family takes time to process this unimaginable loss.” More to come The post Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs appeared first on TheWrap .
+
+### Kelly Clarkson Marvels at the Difficulty of Singing Golden : Made Me Its Bitch, a Little Bit
+Tue, 22 Sep 2026 14:53:51 +0000 — https://www.thewrap.com/creative-content/music/kelly-clarkson-golden-kpop-demon-hunters-hard/
+
+Kelly Clarkson delighted fans everywhere when she sang Golden as her final Kellyoke performance earlier this year and, according to the singer, the song is as hard as people think. In fact, she says the KPop Demon Hunters song made me its bitch, a little bit. Clarkson stopped by Late Night with Seth Meyers on Monday night, in support of the newest season of The Voice, where she is once again a coach. Naturally, Meyers was quick to discuss Clarkson s own show having recently ended, and praised her final Kellyoke performance. It was the most requested, so we saved it for the last one, Clarkson explained. But like, that is that song is basically like humans against AI. Clarkson then laughed as she recalled practicing the song, and getting some pretty honest feedback from her kids as she struggled to place the highest notes of it. It took me forever to place it to where it didn t sound like a dying cat, she joked. The singer admitted that she was actually proud of herself when people enjoyed the performance, considering how hard she worked to pull it off. And then, God s honest truth, no one knows this, I tried to do it twice, just for insurance, you know, just as a backup, and it did not sound as good, she revealed with a laugh. So I just stopped. That song was I don t know if you can say this, but it made me its bitch, a little bit. For the record, yes, EJAE the singing voice of Rumi in KPop Demon Hunters and co-writer of Golden recognizes exactly how hard of a song it is. She 
+
+### Trump Snaps at Kaitlan Collins at UN Press Stop After CNN White House Ban: You Shouldn t Be Here
+Tue, 22 Sep 2026 14:34:58 +0000 — https://www.thewrap.com/media-platforms/politics/trump-cnn-kaitlan-collins-un-press-stop-white-house-ban/
+
+President Donald Trump snapped at Kaitlan Collins on Tuesday morning at the United Nations general assembly, days after banning CNN from The White House. It s an honor to be here. I m surprised that CNN is here covering me. You shouldn t be here, you should not you should not be here covering me, you said you weren t going to cover me. You shouldn t be covering me, Trump told reporters alongside First Lady Melania Trump. But I will tell you: It is an honor to be at the United Nations and we re making a lot of progress. Our country is doing really, really well. Collins subsequently pointed out to her viewers via live shot that CNN was credentialed by the U.N. in this instance, not the Trump administration. We never said we were not going to cover the president, we will do our best to cover him each and every day. We were actually positioned in this spot last year when the president was here, long before all of this back and forth over access to The White House began as it did on Friday, she said. And we will continue to cover the president, despite their efforts to block CNN from accessing The White House grounds, as we are currently fighting in court. On Friday, Trump announced he was banning CNN, MS NOW and Politico from WH press pools due to their coverage of fake news. In turn, the trio of news outlets sued his administration on Monday for violating both the First and Fifth Amendments, in addition to filing a temporary restraining order. “This morning, we notified the gove
+
+### Billy Bush Joins Fox News as Contributor
+Tue, 22 Sep 2026 14:25:28 +0000 — https://www.thewrap.com/media-platforms/journalism/billy-bush-fox-news-contributor/
+
+Billy Bush is joining Fox News Media as a contributor, bringing the longtime TV personality to the cable news network. Bush will provide cultural analysis across Fox News Media’s programming and appear across its platforms, the network announced Tuesday. He will make his debut Tuesday night on Fox News Channel’s “Jesse Watters Primetime” at 8 p.m. ET. “I’m excited to join Fox News Media and its loyal audience to share my perspective on the people, ideas and moments shaping today’s culture…. as well as the ones trying to undo it!” Bush said in a statement. The move gives Fox a veteran in live entertainment with decades of experience covering Hollywood, celebrity and major events. The “Hot Mics With Billy Bush” host previously spent five seasons hosting the syndicated entertainment news program “Extra” from 2019 to 2025. Before that, Bush briefly served as a co-host of the third hour of NBC’s “Today.” He also previously worked as the East Coast correspondent for “Access Hollywood” and hosted the nationally syndicated radio program “The Billy Bush Show.” Bush’s television career was upended in 2016 after the publication of a previously unaired 2005 “Access Hollywood” recording featuring Donald Trump making lewd comments about women during a conversation with Bush. Bush subsequently left NBC. He returned to television in 2019 as host of “Extra.” Bush has also covered some of the entertainment industry’s biggest events, including the Golden Globes, Grammys and Academy Awards. He c
+
+### Seth Meyers Plays 2-Minute Supercut of Bad News From Late Night Hiatus: I Have So Many Questions
+Tue, 22 Sep 2026 14:10:09 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-plays-montage-of-bad-news-from-hiatus/
+
+Seth Meyers returned from an extra-long hiatus on Monday night and, as always, he made a speed run of all the headlines he missed while he was gone. But, to ensure he wasn t just being a hater, he also double checked his feelings against a supercut of real news reporters more specifically, a 2-minute-long supercut of all the headlines that were indeed bad while Meyers was out. To kick off his A Closer Look segment, Meyers did as he often does when returning from a long break, and joked that nothing happened while he was gone. Of course, lots did, so Meyers took a deep breath and sped through it as best he could. Once he finished, the NBC host opted to double check himself. We ve had our fun, but you know what? Maybe I m being too harsh, too cynical, he said. Maybe all that stuff just sounds bad when a crooked left-wing fake news Trump-hater like myself puts it all together in a big list and says it all out loud. I m sure I m just being biased. Things can t be that bad. So to make up for it, let s watch this very short montage of other people talking about how great everything is, Meyers continued. With that, a classic Late Night supercut began. It included headlines about how diesel prices are currently at an all-time high, how oil executives say the Great Fuel Crisis is here, how medicare premiums are expected to jump, how Iranian strikes damaged U.S. structures, how the trade war with Canada is escalating, leading to a possible price hike on toilet paper, and a whole lot mo
+
+### Resident Evil Took a Different Approach to Video Game Films, and It Paid Off Analysis
+Tue, 22 Sep 2026 13:15:00 +0000 — https://www.thewrap.com/industry-news/box-office/resident-evil-box-office-success-explained-zach-cregger/
+
+The reputation of video game film adaptations among gamers has vastly improved since the original Resident Evil first hit theaters back in 2002. Gamers have long seen Hollywood s critically panned takes on their favorite titles as clueless attempts to cash in on their fandom without truly trying to understand it — just look at the reaction to the infamous first Sonic the Hedgehog trailer seven years ago. This weekend s $108.3 million global opening of Sony s Resident Evil is the latest evidence that distrust has largely dissolved thanks to filmmakers like Zach Cregger, who have a better understanding of the games they are adapting. The $60 million domestic opening sets both a franchise record for Resident Evil and a career record for Cregger and ranks as the seventh-highest opening recorded in September, slotting between the $53.8 million opening of The Nun in 2018 and the $70.6 million opening of last year s Sony/Crunchyroll hit Demon Slayer: Infinity Castle. But even with increased gamer goodwill, Hollywood is still figuring out what works and what doesn t with video game films at the box office, and Cregger s looser approach to the world of Capcom s horror games compared to Paul W.S. Anderson s Resident Evil series and the failed 2021 reboot Welcome to Raccoon City was still a risk. Unlike those films, no attempt is made in this new film to bring in characters from the games like Claire Redfield or Albert Wesker. Raccoon City and the evil Umbrella Corporation are reference
+
+### ‘KPop Demon Hunters’ Immersive Experience Coming to Netflix House Locations Later This Year
+Tue, 22 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/kpop-demon-hunters-experience-netflix-house/
+
+Ready to step into the world of “KPop Demon Hunters?” Soon enough, you’ll get your chance. “KPop Demon Hunters:” The Immersive Experience is coming to both the Dallas and Philadelphia Netflix House locations this November. The experience, based on the most popular Netflix film of all time, “will give fans of all ages the opportunity to step into the story of HUNTR/X, complete with singing, dancing and hunting demons.” Ticket sales begin today for Mastercard credit cardholders, September 29 for Netflix members and October 1 for the general public. It will open at Netflix House Dallas on November 12 and at Netflix House Philadelphia on November 20. Just in time for some demon-hunting holiday fun. Fans don t just want to watch ‘KPop Demon Hunters,’ they want to live in the world of HUNTR/X,” said Marian Lee, Netflix s Chief Marketing Officer, in an official statement. “Netflix House is where fandoms like this get to live year-round, so it s the perfect home for everything ‘KPop Demon Hunters’ fans have been asking for. Singing the songs they already know by heart, facing off with demons, hanging out with Derpy Tiger – every detail is built so fans of all ages can feel, hear and see this world exactly the way they imagined it. “Exclusive photo opportunities and all-new merchandise, along with themed food and drink items” inspired by “KPop Demon Hunters,” will also be available at both Netflix House locations timed to the “KPop Demon Hunters:” The Immersive Experience, the announc
+
+### ‘Heart of the Beast’ Review: Brad Pitt and His Dog Pull at Your Heartstrings in Rough Terrain
+Tue, 22 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/heart-of-the-beast-review-brad-pitt-david-ayer/
+
+Relax. I mean it. You can relax. David Ayer’s “Heart of the Beast,” about a man and a dog surviving a plane crash and trudging sixty miles through the Alaskan wilderness, begins with the dog, Odin, finding his way back to civilization. The rest of the movie is a flashback. There’s danger in Ayer’s survival drama, and we won t know until the end if Odin s owner survives, but the filmmakers want you to know, right away, this dog lives. For some of us, that s all we wanted to know in the first place. “Heart of the Beast,” like “The Grey” and “The Edge” before it, treats Alaska like an obstacle course for old men. “The Grey” was about Liam Neeson fighting wolves, “The Edge” was about Anthony Hopkins fighting a bear, and “Heart of the Beast” is about Brad Pitt fighting wolves and a bear. Well, kind of. The dog does most of the work when the bear shows up and the wolves are subpar visual effects, but we get the gist of what David Ayer is going for. Pitt plays James Belmont, an Army Special Forces veteran living a quiet life with his retired combat dog, who s played by a very good boy named Uber. James and Odin both have traumatic nightmares and console each other when they wake. Odin has a prosthetic leg and metal teeth after going through hell on the battlefield. These two love each other in a pure, primal way, and when they have free time they fly a small plane into the Alaskan wilderness to go camping and play fetch. After a brief interaction with a rugged retiree played by J.K.
 
 ### Jimmy Kimmel Roasts Trump and Mamdani’s Friendly Dynamic as the ‘Weirdest Buddy Road Trip Movie’
 Tue, 22 Sep 2026 05:16:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-trump-mamdani-friendly-press-conference/
 
 Jimmy Kimmel mocked President Donald Trump and New York City Mayor Zohran Mamdani s friendly dynamic, roasting it as the weirdest buddy road trip movie of all time. During Monday s monologue for Jimmy Kimmel Live!, the late night host weighed in on the joint press conference held by the president and the mayor amid their meeting in Queens, in which they discussed affordable housing, infrastructure, public safety and immigration. This afternoon, Trump met for the third time with New York Mayor Mamdani. It was another friendly meeting between the socialist who wants to give everyone $5,000 and the mayor of New York, Kimmel quipped. I have to say, he definitely has a thing for Mamdani. I mean, he may be Islamophobic. At least he s not Islamohomophobic . He is absolutely taken with the mayor. And, as the appearance fell amid Trump s controversial White House ban of Politico, CNN and MS NOW , Kimmel made sure to call out the president s statement defending his decision. Namely, Jimmy Kimmel Live! editors played footage of Trump at the press conference bemoaning the fact he gets only negative media coverage. Yeah. Why aren t these so-called journalists gushing over how well he s mishandling the war he said was over seven months ago? It s just not right, Kimmel sarcastically quipped. Some people are Negative Nellies. That s all. As Kimmel went on, he praised Mamdani for inviting all of the press to the event, highlighting the stark differences between the two leaders. And I have to 
 
-### Elliot Graham, Oscar-Nominated Editor on Milk, Dies at 50
-Tue, 22 Sep 2026 04:28:50 +0000 — https://www.thewrap.com/creative-content/movies/elliot-graham-dies-oscar-nominated-milk-editor/
-
-Elliot Graham, the Oscar-nominated film editor for 2008 s Milk, died by suicide on Saturday. He was 50. The County of Los Angeles Medical Examiner confirmed Graham s cause and date of death in a new report . Word of his passing was first shared by Milk producer Dan Jinks, who took to Facebook early Monday morning to pay tribute to the veteran editor. The movie MILK wouldn’t have come together in the way it did without the amazing work of our editor Elliot Graham, he wrote. He was nominated for an Oscar for his role. I learned last night that he took his life over the weekend. I have so many thoughts and feelings about this sweet, kind and quirky man. For now, I’ll just say rest in peace Elliot. A representative for Graham did not immediately respond to TheWrap s request for comment. Graham earned critical acclaim for his work on the aforementioned “Milk” biopic, which starred Sean Penn as Harvey Milk, the first openly gay man elected to public office in California. In addition to Graham’s nomination for Best Film Editing, “Milk” was nominated for eight awards in total, winning Best Actor in a Leading Role for Penn and Best Original Screenplay for writer Dustin Lance Black. Graham collaborated again with “Milk” director Gus Van Sant a handful of years later, editing the 2011 romantic film drama “Restless” starring Henry Hopper and Mia Wasikowska. He received critical acclaim in 2022 for his work editing the James Bond film “No Time to Die, ” taking home the Best Editing prize 
-
-### ‘The Love Hypothesis’ Review: Charming Amazon Romance Sticks to the Formula
-Tue, 22 Sep 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-love-hypothesis-review/
-
-I’m no scientist, but smart people in lab coats think statistics are important, so let’s do some math. Unless you’re one of those weird, lucky freaks who fell completely and healthily in love with the first person you dated on Hinge, the odds of meeting your person these days are slim. I asked a Brainy friend of mine, and he says your chances of finding a long-term romantic partner in the modern dating environment are roughly [ checks notes ] “smurfteen percent.” I know that’s hard to believe, but I trust Brainy. He wears glasses. The good news is I ran some numbers, and according to literally every movie made, there’s a surefire way to find true love. You just have to start with fake love. It’s counterintuitive, but when two people pretend to date, for any reason, there’s a 99.9% chance they’ll live happily ever after. If you don’t believe me, believe the makers of “The Proposal,” “Cactus Flower” and “The Mistletoe Promise.” They would never falsify their research. They’d never do science in this town again. “The Love Hypothesis” is the latest fake-dating romance in a long, long line of fake-dating romances. Lili Reinhart stars as Olive, a Stanford medical student researching pancreatic cancer. (Ahhhh … romance.) Olive is in love with her friend Jeremy (Nicholas Duvernay), but Jeremy is in love with her best friend Anh (Rachel Marsh), and Anh is too loyal to date Olive’s crush. So Olive lies and says she’s moved on and is already seeing somebody. It’s a selfless act that giv
-
-### Jon Stewart Tells Trump to Try ‘Presidenting Better’ Instead of Implementing White House Press Ban
-Tue, 22 Sep 2026 03:51:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-trump-white-house-press-ban/
-
-Jon Stewart laid into Donald Trump’s White House press ban, calling on the president to do “better” at his job after negative media coverage prompted the ousting of CNN, MS NOW and Politico . The comedian addressed the press ban during Monday s monologue for The Daily Show, where he torched Trump for being openly against the Constitution. But first, as many of you have heard, if you ve been following the news, the hottest spot in D.C. has just changed their door policy, Stewart said at the start of his monologue before cutting to news footage recapping the White House press ban. Specifically, The Daily Show played footage of Trump defending his decision to ban CNN, MS NOW and Politico, in which he called the outlets sick for writing purposely negative stories. Have you tried presidenting better? Stewart hit back. You could ban the press or you could be a better f king president. I mean, give the press something to work with. He added: Oh, here s a positive story. I never thought my car could take $140 worth of gas in such a small tank. I had no idea. Hurrah. As Stewart went on, he pondered whether [we ve] ever had a president just flat out in the Oval Office come out against the Constitution. What kind of a sick country doesn t allow unlimited warrantless search and seizure? Stewart quipped. I mean, that s not the North Korea I grew up in. Stewart playfully feigned giving Trump the benefit of the doubt, telling his studio audience: I m sure there s a very thorough and thought
-
-### ‘Line of Fire’ Creator Explains Premiere’s Shocking Reveal and What’s Next
-Tue, 22 Sep 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/line-of-fire-episode-1-joshua-safran-interview/
-
-Note: This story contains spoilers from “Line of Fire” Episode 1. “Line of Fire” creator Joshua Safran always knew the show’s pilot would end with a shocking reveal: The Hollingsworth family is being targeted by a trained assassin, and he happens to be one of their own. NBC’s latest family drama dropped the bomb in the final moments of the series premiere, when Jane (Hope Davis) and Mike Hollingworth (Peter Krause) realized his son from another marriage is the suspect who just killed a man at their home. They opt to keep that information to themselves for now. “When I pitched this iteration of the show that became Line of Fire, [the twist] was baked into the premise immediately,” Safran told TheWrap. “There’s a lot more to the role than what you see in the pilot … not everything is what it appears to be.” The series introduced viewers to Joel (Charlie Barnett), friendly neighbor to Clare Hollingworth’s (Kat Cunning) boyfriend Logan (Pico Alexander). After a chaotic first meeting between Logan and the Hollingsworths, he finds himself alone at their home. He is surprised by Joel, who hinted at Logan having a secret before stabbing and killing him. The murder kicked off the central mystery for “Line of Fire,” which focuses on the lives and dynamics of the Hollingsworths, a family of law enforcement officers. Mike works for the secret service along with his son Micah (Tommy O’Brien). Clare is a special agent in the FBI and son Russ (Taylor Bloom) just started a job at the Departm
-
-### Right-Wing Livestreamer Clavicular Faces Rape and Drugging Charges Involving Minor Report
-Tue, 22 Sep 2026 02:59:19 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/clavicular-rape-drugging-charges-report/
-
-Clavicular, a right-wing livestreamer known for leading the Looksmaxxing trend, is facing charges of rape, drugging a person for sex and providing alcohol to a minor, according to a new report from The Bulwark . Per the report, released Monday evening, charges were filed against the influencer in a Cape Cod courthouse on Sept. 8, with an arraignment date set for Oct. 14. Though, it does not appear that Clavicular has yet to be arrested, with his rep telling TheWrap that the report of the charges is overblown. Clavicular has not stepped foot in Cape Cod this month, his rep told TheWrap Monday evening. He s primarily been in L.A. on a whirlwind media tour. Once again, The Bulwark is exaggerating like a tabloid. We appreciate TheWrap for fact-checking.” The reported charges come nearly five months after the livestreamer was sued for battery and fraud by an influencer, named Aleksandra Vasilevna Mendoza, in Miami, Fla. The lawsuit, which was filed in April in Miami-Dade County, accused Clavicular of battery, intentional infliction of emotional distress, fraud, as well as the unauthorized publication of her name and likeness. Per local reports , Mendoza claimed in her suit that in 2025, back when she was 16 years old, Clavicular paid her $1,000 to film content with him with the plan to make her the female face for looksmaxxing. She alleged that, after creating several videos for the influencer, Clavicular had an Uber bring her to his parents home in Cape Cod, where she claimed she
-
-### Robin Williams’ Daughter Renews Plea for Fans to Stop AI Videos of Late Actor: ‘Have Some Shame’
-Tue, 22 Sep 2026 02:24:16 +0000 — https://www.thewrap.com/industry-news/tech/robin-williams-daughter-slams-ai-videos-of-actor-have-some-shame/
-
-Zelda Williams, daughter of the late actor Robin Williams, once again called on fans to stop making AI videos of the Oscar winner, telling her followers to “have some shame.” That supposedly ‘private video’ of dad that I’ve been shown talking about conspiracies is clearly AI, and not even particularly convincing AI, the Lisa Frankenstein director wrote on X Monday. Anyone who claims to be a fan who believes it clearly listened to his movies on mute because that voice is robotic and terrible. She continued: That said, a human made a robot create it, and to you I say: leave him out of your delusional bulls t and let him rest. If you cannot make your case without making a dead man make it more convincing for you, then tell me: who’s the one manipulating the public thru media now? As Williams went on, she blasted this cesspool of an app, adding, It’s mostly bots and people willingly being duped by bots at this point so not sure why I feel the need to come back to clarify, but I love him, so I will. Before concluding her message, Williams reminded her followers that just because he’s gone does not mean he’s now your puppet. Have some shame, she concluded. This is not the first time the late actor s children have spoken out against AI depictions of the Good Will Hunting star. In fact, back in August, his children specifically revived his Instagram to combat rampant AI abuse of his image . Zak, Zelda and Cody Williams shared a joint statement on their father’s Instagram account at t
-
-### Trump TV Draws Ire Amid White House Press Shutout: State-Run Media
-Tue, 22 Sep 2026 01:53:39 +0000 — https://www.thewrap.com/media-platforms/politics/trump-tv-press-shutout-state-run-media-reactions/
-
-Not every big moment has made it on your tv, now it can. The White House posted this message on X on Monday to announce Trump TV, a 24/7 livestream of top past moments, announcements and the latest and greatest from the administration all in one place. While the Trump administration and members of the political right are calling this feed a win, others have different words for it: state-run media. First, Trump banned independent news from the White House. Now, he s launching what is quite literally state-run TV to try drowning out the fact that he and his corrupt administration are failing the American people, California Governor Gavin Newsom wrote on X Monday evening. This is truly autocratic behavior from a failed President. The timing of Trump TV s creation has been read as a direct continuation of Trump s efforts on Friday to ban journalists from the White House press pool , further removing negative press from his orbit. It s the latest example of the Trump administration s destruction of American norms, installing a state-run media outlet with information curated from the White House. Trump banned journalists from asking him tough questions and is now launching his own propaganda outlet to evade scrutiny, said @MAGALieTracker on X. The smallest man who ever lived. All the top hits, wins, + more, the White House promised on X. You can view the Trump TV announcement below. IT'S LIVE. TRUMP TV IS STREAMING NOW. 24/7, updated in real time, with top past moments, announcemen
-
-### Tom Cruise Weighs AI s Inevitability With Human-Made Art: People Want to See Real Things
-Tue, 22 Sep 2026 00:00:27 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-ai-speech-bafta/
-
-Tom Cruise s name has become somewhat synonymous with film culture, with the action star often referred to as the ambassador of movies or the president of Hollywood. With artificial intelligence threatening to shake up the movie industry as we know it, it s time for the ambassador to weigh in. Cruise was asked about AI in filmmaking at a BAFTA “Life in Pictures” event in London on Monday, where the actor looked back at his filmography and ahead to the forthcoming Oscars play Digger . There, moderator Edith Bowman asked Cruise — who s recently been ramping up his interview presence as he enters the awards circuit — for his take on AI in moviemaking. “Here’s the thing: There is nothing like human,” Cruise started. The Top Gun and Mission: Impossible star went on in a six-minute speech, drawing applause for articulating the importance of humanity in the arts. Cruise, however, did not ignore the reality of the situation, noting that broader use of AI in filmmaking is coming, and it s going to happen. But people want to see real things, he added. Of course, Cruise has made his career on showing people real things — or, at least, real fake things. Top Gun: Maverick, often cited as one of the films to help save cinema after the start of the pandemic, was lauded for its heavy use of practical effects and real stunt aeronautics. The Mission: Impossible franchise eventually became a game of escalation, with each successive film throwing Cruise into crazier and crazier stunts. The final
-
-### Line of Fire Release Schedule: When Do New Episodes Come Out?
-Tue, 22 Sep 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/line-of-fire-episodes-release-date-time-schedule/
-
-The long summer drought is coming to end on TV, thank goodness. That means it s time to jump into returning favorites, as well as newcomers like Line of Fire. Premiering this week, Line of Fire brings Parenthood star Peter Krause back to NBC, alongside Hope Davis, Kat Cunning, Charlie Barnett and more. Per the official synopsis: A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code. Here s what you need to know. When does it premiere? Line of Fire kicks off on Monday, Sep. 21 at 10 p.m. ET on NBC. Can I stream it? Yes, like most NBC shows, it will be available to stream next day on Peacock. How many episodes are there? There will reportedly be 13 episodes in the first season of Line of Fire. It has not yet been renewed for a second season. When do new episodes come out? Episodes will drop weekly, beginning Sep. 21. Episode 2 will air at 10 p.m. ET on Monday, September 28. Who s in it? Peter Krause , Hope Davis, Kat Cunning, Tommy O’Brien, Taylor Bloom and Charlie Barnett all star in Line of Fire. Watch the trailer The post Line of Fire Release Schedule: When Do New Episodes Come Out? appeared fir
-
 ## Collider
 
-### The Greatest James Bond Final Line Officially Redefined the Franchise
-Tue, 22 Sep 2026 09:10:11 GMT — https://collider.com/casino-royale-daniel-craig-best-quote-james-bond-movie/
+### The First Action Figure From 'Transformers: Awakening' Is Officially Ready to Roll Out [Exclusive]
+Tue, 22 Sep 2026 15:00:11 GMT — https://collider.com/transformers-awakening-bumblebee-action-figure-images/
 
-As we await a new reboot of the James Bond franchise, now is the perfect time to revisit the last reboot — and the ingenious way it tied itself to the larger history of the film series. Three months from now marks the 20th anniversary of Casino Royale , which debuted in theaters on November 14, 2006. The franchise reset starred Daniel Craig , portraying the new big-screen iteration of Bond, based on Ian Fleming's original novel of the same name. Craig truly kickstarted his new era of the franchise with a bang . However, no Bond movie and performance is truly complete until the actor utters the iconic line first spoken by Sean Connery in Dr. No , "Bond. James Bond." Craig's iteration redefined the entire franchise.
+Transformers fans who attended last weekend's 40th anniversary screenings of Transformers: The Movie were treated to a special surprise: an all-new animated short, Optimus Prime: Awakening , in which the dying Autobot hero is confronted with dark visions of friends and foes. Now, one of its most striking characters is coming to your home: Collider is proud to exclusively reveal the new Studio Series Optimus Prime: Awakening Bumblebee action figure.
 
-### Quentin Tarantino’s First Movie in 7 Years Officially Hits IMAX in Just 2 Months
-Tue, 22 Sep 2026 09:00:11 GMT — https://collider.com/the-further-mis-adventures-of-cliff-booth-imax-release-date-november-2026/
+### Hulu’s 'M3GAN' Replacement Officially Gets Twisted Sneak Peek [Exclusive]
+Tue, 22 Sep 2026 15:00:11 GMT — https://collider.com/soulm8te-sneak-peek-hulu-streaming-release-date/
 
-Quentin Tarantino has only directed nine movies in his career, but he’s still widely known as one of the most polarizing filmmakers of all time, if not the most. Best known for his work on classic crime thrillers like Pulp Fiction and Kill Bill , Tarantino has also ventured into other genres like WWII movies and epic Westerns for hits like Inglourious Basterds and The Hateful Eight . It’s quickly approaching 10 years since Tarantino directed a feature film — he last helmed Once Upon a Time… in Hollywood , which hit theaters in 2019. Tarantino, who famously makes movies cheaper than most other directors, convinced the studio to invest $90 million into the making of the 2019 showbiz epic, but it more than proved its worth by grossing $409 million at the global box office.
+Back in 2022, one of the most popular horror movies of the year was M3GAN , the AI cyber thriller starring Allison Williams as Gemma, Violet McGraw as Cady, and Ami Donald as the titular android. The film was a massive hit, grossing over $180 million at the box office against a modest $12 million budget, which was enough to make it one of the most profitable films of the entire year. Just three years later, Blumhouse tried to recapture the M3GAN magic by bringing back the android for M3GAN 2.0 , but things didn’t exactly go according to plan, even if it wasn’t a total disaster. The film grossed $39 million at the box office against a $25 million budget, but it did go on to become one of the most-watched movies on Netflix upon its premiere.
 
-### The 15 Best R-Rated Fantasy Movies, Ranked
-Tue, 22 Sep 2026 08:58:11 GMT — https://collider.com/best-r-rated-fantasy-movies-ranked/
+### ‘Halo’ Officially Hits the End of an Era at XBOX
+Tue, 22 Sep 2026 14:37:29 GMT — https://collider.com/halo-next-game-activision-xbox-halo-studios/
 
-There are plenty of family-friendly fantasy movies out there, and it's easy to see why. It's good to get young minds racing with imaginative stories and fantastical worlds, but in no way is the fantasy genre one exclusively enjoyed by younger people. There are fantasy fans who remain attached to the genre and its immense possibilities as they grow older, and this has led to numerous fantasy movies excelling while targeting older audiences.
+2026 has been a roller-coaster of a year for video game fans, especially as the console wars continue to heat up following the news that PlayStation is ditching physical media at the start of 2028. This news has led many fans around the world to proclaim that they are switching to XBOX , especially when the new generation of consoles comes out sometime in the next few years. PlayStation owners were recently treated to a new Marvel game courtesy of Insomniac, the first one in the franchise not centered around Spider-Man . Wolverine is currently the top-selling game on PlayStation right now, and despite some middling reviews from critics, most fans agree that the game is providing exactly what they wanted: a good time with some violent Wolverine-focused claw combat.
 
-### The 6 Best Spy Films of the 2020s So Far, Ranked
-Tue, 22 Sep 2026 04:05:12 GMT — https://collider.com/best-spy-films-2020s-so-far-ranked/
+### Netflix Officially Reveals New 'KPop Demon Hunters' Adventure
+Tue, 22 Sep 2026 13:00:11 GMT — https://collider.com/kpop-demon-hunters-netflix-house-november-2026/
 
-Everyone has had that moment where they are holding something back and suddenly every normal interaction feels harder than it should. You choose your words a little more carefully. You notice how someone looks at you. You wonder if you sounded too calm, too nervous, too quick to answer.
+It's not an easy job saving the world through the power of K-pop. And sadly, it's not a one and done for the people involved. We say sadly, just because they might need a rest. Not us, though. We want more KPop Demon Hunters , the Honmoon isn’t going to protect itself, and somebody needs to make sure Derpy Tiger is doing okay. Netflix has announced the newest Kpop Demon Hunters project at last, and HUNTR/X aren’t going into battle alone.
 
-### Prime Video's 'The Love Hypothesis' Is a Near-Perfect Rom-Com Experiment | Review
-Tue, 22 Sep 2026 04:00:14 GMT — https://collider.com/the-love-hypothesis-movie-review-prime-video/
+### ‘Only Murders in the Building’ Meets 'West Wing’ in Netflix's 8-Episode Mystery Miniseries
+Tue, 22 Sep 2026 12:36:12 GMT — https://collider.com/only-murders-in-the-building-replacement-series-netflix-the-residence/
 
-Within the larger rom-com renaissance that's happening right now, Prime Video's The Love Hypothesis is a pretty unique case. For starters, it's adapted from the New York Times bestselling romance novel by Ali Hazelwood , which actually started out as a piece of Reylo (Rey/Kylo Ren) Star Wars alternate universe fanfic . There's even a bit of irony wrapped up in the fact that Tom Bateman — who is married to Star Wars' Rey herself, Daisy Ridley — plays the character who was originally inspired by Adam Driver 's Sith Lord.
+Comedic murder mystery series seem like an odd concept at first, but the niche genre is gaining ground. From Only Murders in the Building to The Afterparty , each series has its own twist, including the often-forgotten Netflix series, The Residence . The 2025 series combines Only Murders in the Building 's quirky characters and humorous mystery with The West Wing 's focus on daily life in the White House. But instead of exploring the President's senior staff, The Residence offers an upstairs-downstairs twist with a behind-the-scenes look at the White House from the kitchens to the basement .
 
-### 10 Harlan Coben Books That Are 10/10, No Notes
-Tue, 22 Sep 2026 03:55:11 GMT — https://collider.com/harlan-coben-books-perfect-no-notes/
+### 10 Video Games From the '90s That Are Now Considered Classics
+Tue, 22 Sep 2026 12:27:11 GMT — https://collider.com/video-games-90s-classics/
 
-Harlan Coben has a knack for bringing the dead back to "life" in his mystery novels. The New Jersey-born-and-raised writer got his start in novel writing while working in the travel industry, publishing his first book, Play Dead , in 1990. Since then, Coben has released more than 30 novels , ranging from standalone thrillers to character-driven series.
+The 1990s are widely considered the most transformative decade for video games in history, and for good reason. The shift from 2D to 3D, the arrival of optical discs, the birth of all-new genres, the arrival of far more complex stories ... The list of reasons why the '90s saw video gaming completely transform into a proper art form are pretty much endless. And as such, it should come as no surprise that several games from this decade are now considered classics.
 
-### After '9-1-1,' Peter Krause's Newest NBC Action Thriller Is a Twisty, Soapy Blast | Review
-Tue, 22 Sep 2026 03:01:11 GMT — https://collider.com/line-of-fire-nbc-peter-krause-hope-davis-review/
+### The 15 Best Netflix Original Animated Movies, Ranked According to Letterboxd
+Tue, 22 Sep 2026 12:14:11 GMT — https://collider.com/best-netflix-original-animated-movies-letterboxd-ranked/
 
-Editor's Note: The following review contains some spoilers for the pilot of 'Line of Fire'.
+It has become increasingly apparent that the modern era of filmmaking has been defined by the rise and dominance of streaming services and the original content that they provide. Netflix has especially been at the forefront of this endeavor, producing many original films from a variety of genres compared to other services. Netflix has especially excelled in animation, a medium that is largely overlooked by other platforms like Amazon and Max.
 
-### ‘Madam Secretary’ Meets ‘Dharma & Greg’ in Jamie Lee Curtis’ New NBC Sitcom
-Tue, 22 Sep 2026 02:34:08 GMT — https://collider.com/newlyweds-madam-secretary-dharma-greg-jamie-lee-curtis-nbc-tea-leoni-tim-daly/
+### Mahershala Ali Is Finally Getting the Action Movie He Deserves
+Tue, 22 Sep 2026 12:10:11 GMT — https://collider.com/mahershala-ali-your-mother-your-mother-your-mother-giancarlo-esposito-john-cho/
 
-Romance is in the air at NBC . Jamie Lee Curtis has teamed up with Gail Lerner for the upcoming sitcom, Newlyweds . The series is “a later-in-life love story about a free-spirited woman and a buttoned-up professor who marry impetuously after a whirlwind courtship,” NBC teased in a press release. The series will reunite the stars of Madam Secretary while being a later-in-life version of Dharma & Greg . Téa Leoni will star as Jeanie, a middle school teacher and single mother of two, who falls in love with James ( Tim Daly ), a philosophy professor.
+Oscar winner Mahershala Ali ( Green Book ) returns to the big screen in writer-director Bassam Tariq ’s ( Mogul Mowgli ) Your Mother Your Mother Your Mother . At this year’s Toronto International Film Festival , where the movie world-premiered, Collider’s Steve Weintraub had the chance to sit down with Ali, Tariq, and the cast to discuss the making of their near-perfect action-packed crime drama .
 
-### Prime Video Officially Reveals the Fate of Its Sleeper-Hit Action Series Perfect for 'Reacher' Fans
-Tue, 22 Sep 2026 02:00:22 GMT — https://collider.com/prime-video-ride-or-die-season-2-officially-cancelled/
+### Alexander Skarsgård’s Dark Fantasy Epic Officially Gets a Second Chance on Paramount+
+Tue, 22 Sep 2026 12:00:11 GMT — https://collider.com/the-northman-alexander-skarsgrad-anya-taylor-joy-dark-fantasy-epic-paramount-plus-streaming-success/
 
-Prime Video has unfairly canceled another series again, this time targeting a near-perfect adventure hit loved by Reacher fans for its pacing and intense action . Debuting this summer, the show earned critical acclaim and strong viewership, currently holding a Certified Fresh 96% on Rotten Tomatoes and an 85% Popcornmeter score. It also became one of the most-watched shows worldwide soon after its debut and quickly rose to the top of the U.S. charts.
+A few days ago, it was confirmed that the long-gestating World War Z sequel is finally moving ahead with Brad Pitt back in the lead role and Edward Berger set to direct . Previously, David Fincher was attached to helm the project, a sequel to Pitt's 2013 hit, which survived a particularly difficult production. The original World War Z , directed by Marc Forster , emerged as a sturdy hit with $540 million worldwide against a budget that reportedly escalated to around $270 million — the movie was successful at the box office, but given that budget, it barely broke even. However, World War Z has been incredibly successful in its post-release era, which no doubt contributed to a sequel being greenlit. Now, another film that did so-so business at the box office but found major success on home video has re-emerged on the streaming charts.
 
-### 3 Series You Officially Need to Binge on Prime Video This Week (Sep 21-25)
-Tue, 22 Sep 2026 01:11:11 GMT — https://collider.com/prime-video-shows-binge-september-21-2026/
+### 5 Sci-Fi Books I Knew Would Be Masterpieces From the First Chapter
+Tue, 22 Sep 2026 11:52:11 GMT — https://collider.com/sci-fi-books-masterpieces-from-first-chapter/
 
-With the recent release of its Season 4 finale, it’s no surprise that Nick Santora ’s hit crime show Reacher is once again the number one series on Prime Video this week. Starring Alan Ritchson in the title role and inspired by Lee Child ’s Jack Reacher novels, the action show has been a huge success ever since it first premiered in 2022, and the fourth season has continued the show’s winning streak with another popular and acclaimed installment. However, in case you’re bummed out about the season ending, fear not, because there’s no shortage of great series to explore in the streaming platform’s catalog. With that said, here’s a look at three great shows that we think you should binge this week on Prime Video.
+It takes real talent to pull readers in from the first chapter , especially in sci-fi. Writers can create larger-than-life universes, alternate realities, or the most implausible situations, but it also takes heart and skill to convince readers why those scenarios are worth their time.
 

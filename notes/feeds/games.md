@@ -1,6 +1,41 @@
-# Games — harvested 2026-09-22T09:28:30.464Z
+# Games — harvested 2026-09-22T15:10:18.780Z
 
 ## Eurogamer
+
+### Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues
+Tue, 22 Sep 2026 14:44:43 +0000 — https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory
+
+Following reports that further job cuts were imminent at Xbox , Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others are set for closure, and 268 more layoffs have been announced. Read more
+
+### Hellblade developer Ninja Theory heading towards closure in new wave of Xbox cuts, as two separate agreements collapse
+Tue, 22 Sep 2026 14:09:57 +0000 — https://www.eurogamer.net/ninja-theory-closed-shut-down-xbox-layoffs
+
+Ninja Theory - developer of the Hellblade series of games, Enslaved: Odyssey to the West, DmC: Devil May Cry, and Heavenly Sword - is entering consultation in preperation for the studio's closure as part of today's sweeping Xbox cuts and layoffs. Read more
+
+### Next major Halo game being developed by Activision, as Halo Studios all but closes as part of Microsoft's Xbox restructuring
+Tue, 22 Sep 2026 14:07:10 +0000 — https://www.eurogamer.net/next-halo-game-developer-call-of-duty-stuidio-xbox-restructuring
+
+Halo Studios (formerly 343 Industries) won't develop the next mainline Halo game because it's being what sounds like drastically reduced in size. Microsoft has instead given development duty to Activision, which is making "a new purpose-built team" separate to Call of Duty to make it. Read more
+
+### Sony appears to be testing PlayStation Store credit offers when you buy certain games
+Tue, 22 Sep 2026 13:26:17 +0000 — https://www.eurogamer.net/playstation-store-wallet-credits-rewards
+
+Sony appears to be testing a new PlayStation rewards programme. A number of posts on social media and Reddit have recently appeared showing that purchasing certain games from the PlayStation Store now comes with an associated wallet credit bonus. Read more
+
+### Blizzard layoffs are reportedly imminent, days after an exciting BlizzCon and a seemingly popular World of Warcraft: Forever beta
+Tue, 22 Sep 2026 12:10:29 +0000 — https://www.eurogamer.net/blizzard-layoffs-xbox-cuts
+
+UPDATE 4PM BST: Game Developer has reportedly seen an email Blizzard sent to employees that indicates it - or at least the World of Warcraft department - isn't affected by "today's announcements". An Xbox representative apparently verified the email's legitimacy. Read more
+
+### Another Injustice 3 leak reveals two characters in the rumoured DC fighting game - one that's expected and one that's a big surprise
+Tue, 22 Sep 2026 11:17:28 +0000 — https://www.eurogamer.net/injustice-3-supergirl-batwoman-leak
+
+We now have even more confirmation a new Injustice game is in development. Following last week's playtest leak , information has emerged that sheds more light on the upcoming DC fighting game. Read more
+
+### World of Warcraft fans are torn about whether Forever's Skyborne starting zone fits tonally with Classic WoW
+Tue, 22 Sep 2026 09:34:13 +0000 — https://www.eurogamer.net/world-of-warcraft-fans-torn-about-whether-forevers-skyborne-starting-zone-fits-tonally-with-classic-wow
+
+World of Warcraft: Forever's beta is here, offering us our first look at WoW's reimagined vanilla or classic experience, and already it's proving extremely popular. But there are points of contention, one being whether the new Skyborne race's starting zone fits tonally with original-race zones. Read more
 
 ### Second wave of Xbox cuts reported to be happening this week, with "several" studios apparently facing consolidation
 Tue, 22 Sep 2026 08:36:03 +0000 — https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report
@@ -27,47 +62,32 @@ Mon, 21 Sep 2026 16:41:09 +0000 — https://www.eurogamer.net/blood-of-dawnwalke
 
 Speaking to Eurogamer, The Blood of Dawnwalker game director Konrad Tomaszkiewicz has discussed several game improvements coming in a "big patch" currently scheduled for early October - including a brand new difficulty option, combat targeting changes, and making it easier to escape from battles by running away. Read more
 
-### Grand Theft Auto 6 sleuths are torn on whether a famous Florida locale is in the game or not
-Mon, 21 Sep 2026 15:48:09 +0000 — https://www.eurogamer.net/grand-theft-auto-6-key-west-map
-
-Grand Theft Auto fans are known for a love of speculation and information sleuthing at this point, and this certainly hasn't changed since Rockstar released the extended gameplay preview for Grand Theft Auto 6 . The community's current fixation? Whether or not Key West will be in the game. Read more
-
-### Hideo Kojima doesn't know if Physint will be released on PS5, and he hasn't decided if it's going to use Sony's Decima game engine
-Mon, 21 Sep 2026 14:37:11 +0000 — https://www.eurogamer.net/hideo-kojima-physint-playstation-release-decima-engine
-
-Metal Gear and Death Stranding creator Hideo Kojima has spoken about a number of topics concerning Sony's sudden shocking decision to back away from publishing his tactical espionage project, Physint . It was a decision made in June, and though Kojima was able to convince Xbox to pick up the Metal Gear successor and continue funding and publishing it, the transition raised a lot of questions. Read more
-
-### World of Warcraft: Forever players are being naughty with the new naming system
-Mon, 21 Sep 2026 13:49:39 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-character-surnames-naughty
-
-World of Warcraft: Forever's beta has proven exceptionally popular, as 'crazy' numbers of players flock to play this new twist on the beloved MMO . And among Forever's new features is a character naming system that has allowed creative players to get naughty. Read more
-
-### Mystique's lesbian relationship in Marvel's Wolverine is seemingly censored in certain parts of the world
-Mon, 21 Sep 2026 13:45:52 +0000 — https://www.eurogamer.net/marvels-wolverine-mystique-lgbtq-censored-middle-east
-
-Some Marvel's Wolverine players have claimed their game has been altered to censor aspects of Mystique's lesbian relationship and marriage to Tyger. A number of posts on Reddit and social media appear to show how differently the relationship is referenced compared to the uncensored version. Read more
-
-### The Blood of Dawnwalker cost less than expected to make but former NetEase investor defends its status as a top-tier production
-Mon, 21 Sep 2026 13:32:51 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed
-
-UPDATE 22ND SEPTEMBER: Former NetEase studio investor and Rebel Wolves board director Simon Zhu has revealed the "entire budget" of The Blood of Dawnwalker as $45m, and said that: "In Poland, that budget is AAA." Read more
-
-### Microsoft patents idea for in-game PC and Xbox adverts shown during downtime "trigger events"
-Mon, 21 Sep 2026 12:19:43 +0000 — https://www.eurogamer.net/microsoft-patent-ads-in-gameplay
-
-Microsoft has filed a patent for a system that allows PC and Xbox games to serve advertisements during game sessions, seemingly without disrupting gameplay. Read more
-
-### Zach Cregger's quirky Resident Evil film proves sceptics wrong with series-best opening weekend
-Mon, 21 Sep 2026 10:38:55 +0000 — https://www.eurogamer.net/zach-cregger-resident-evil-film-opening-weekend-earnings
-
-Zach Cregger's quirky new Resident Evil film is a big success, recording the best opening weekend for a Resident Evil film ever. Read more
-
 ## GamesIndustry.biz
+
+### Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure
+Tue, 22 Sep 2026 14:06:00 +0000 — https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure
+
+Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios. The news was announced via an Xbox Wire post this morning, and followed earlier reports of planned layoffs . Read more
+
+### "There is no easy answer anymore, there's no kind of playbook" – Secret Mode is hedging its bets with two very different pillars
+Tue, 22 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars
+
+It's all smiles over at Secret Mode right now. Since breaking free from Sumo Digital (and its parent Tencent) last year, the newly independent UK publisher has been going great guns. Read more
+
+### IO Interactive "had no choice" but to delay Switch 2 launch of 007 First Light for a third time
+Tue, 22 Sep 2026 10:55:16 +0000 — https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time
+
+IO Interactive said it "had no choice" but to delay the launch of 007 First Light on Nintendo Switch 2 for a third time, with the game now set to release in March 2027. Read more
+
+### Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content
+Tue, 22 Sep 2026 09:43:57 +0000 — https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content
+
+Three months after Destiny 2's final update, Bungie has announced plans to reinstate vaulted campaigns, raids, and destinations to regain player trust. Read more
 
 ### Xbox reportedly set to announce second round of layoffs this week
 Tue, 22 Sep 2026 07:55:38 +0000 — https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
 
-Xbox is reportedly preparing for a second round of layoffs this week, according to The Information . Read more
+UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory. Read more
 
 ### "It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs
 Mon, 21 Sep 2026 16:24:23 +0000 — https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs
@@ -99,6 +119,31 @@ Hideo Kojima didn't think Physint " would be on the list of being cancelled " by
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Final Fantasy 7 Revelation Dev Considering Customisation Options for Game s Huge Amount of On-Screen Guidance
+Tue, 22 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance
+
+Open world blues. Whether we like it or not, in-game guidance systems have become a staple of modern gaming. Sometimes this stuff can feel incredibly heavy-handed, like the controversial 'fart gas' in Marvel's Wolverine . Other times, it just comes off as a bit annoying, like when Atreus and Mimir constantly offer up puzzle hints in God of War . Read the full article on pushsquare.com
+
+### Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game
+Tue, 22 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game
+
+Halo Studios loses roles, Obsidian now under Bethesda. Microsoft has now confirmed the rumours of the next wave of job layoffs within its Xbox division, as well as important changes to its internal studio makeup. At a top level, 268 employees are losing their jobs across Halo Studios, other first-party developers, and the Xbox Game Studios management and central functions layer. These cuts are part of Xbox's previously announced "Reset" plans, and Matt Booty says in an Xbox Wire article the firm is roughly three-quarters of the way through that process. Read the full article on pushsquare.com
+
+### Dragon s Dogma 2 Dev Says There s a Significant Gap in What Western and Eastern Players Want
+Tue, 22 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want
+
+"We should give players options". There's apparently a really big difference in what players enjoy about Dragon's Dogma 2 , depending on where they're from. This is according to two of the game's key figures, producer Naoto Oyama and director Kento Kinoshita — the latter being in charge of the soon-to-be-released Dark Arisen expansion. Read the full article on pushsquare.com
+
+### One of 2026 s Best-Rated PS5 Games Is Out Today, and You Probably Don t Even Know It
+Tue, 22 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/one-of-2026s-best-rated-ps5-games-is-out-today-and-you-probably-dont-even-know-it
+
+Well Dweller opens to 90+ critic reviews. What if I told you a new PS5 game with a Metacritic rating of 91 and an Opencritic score of 90 is coming out today? Silent Hill: Townfall and Control Resonant are not officially releasing until Thursday, so what could it be? Well Dweller is that game, a Metroidvania experience from single developer Kyle Thompson. Read the full article on pushsquare.com
+
+### Reaction: Did Fans Just Bring Destiny Back from the Dead?
+Tue, 22 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead
+
+Unlock the vaults. If you’ve been paying attention to chats during any live gaming event this year, especially Sony’s State of Plays , you’ll notice a term being spammed continuously – and no, it’s not “no disc, no buy”; it’s actually “we want Destiny 3”. Since Bungie’s announcement to axe continued support for Destiny 2 , many fans, including myself, were baffled that the Destiny franchise had no clear future. In fact, it seemed like it was actually the end of Destiny, considering Bungie itself posted a memorandum-style compilation of our journey over the years. Read the full article on pushsquare.com
 
 ### 2 More September 2026 PS Plus Extra Games Available to Download Now
 Tue, 22 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now
@@ -135,32 +180,17 @@ Mon, 21 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/we-are
 
 "Destiny is foundational to Bungie’s future". Back in May, Bungie revealed that Destiny 3 is not in development , despite the popular assumption that the studio must be working on something alongside Marathon . This triggered an almighty outcry from fans of the sci-fi franchise, many of whom had been banking on Bungie bringing the series back with a bang after Destiny 2 had kind of fizzled out in its later years. Read the full article on pushsquare.com
 
-### Feature: I Was Thinking About the Possibility of Atelier Maomao : How The Apothecary Diaries Became a PS5 Game
-Mon, 21 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/i-was-thinking-about-the-possibility-of-atelier-maomao-how-the-apothecary-diaries-became-a-ps5-game
-
-"The Apothecary Diaries and the original Atelier fans match". Waiting for a delayed flight out of the UK earlier this month, I heard word that Koei Tecmo had announced a game based on the light novel series The Apothecary Diaries , subtitled The False Imperial Brother . As the rest of the Push Square team will attest, I let out a little yelp – both IRL in the busy airport and virtually in our Slack chat. Read the full article on pushsquare.com
-
-### Final Fantasy 7 Revelation Will Offer Automatic Level Ups If You Ignore Side Stuff
-Mon, 21 Sep 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-will-offer-automatic-level-ups-if-you-ignore-side-stuff
-
-Thanks to Rebirth feedback. In a very interesting tidbit from Tokyo Game Show, Final Fantasy 7 Revelation will apparently feature an automatic level-up system, designed specifically for players who just want to experience the main story. Via an interview with IGN Japan , as translated by Genki , director Naoki Hamaguchi spills the beans on said system, which appears as an option at a "certain point in the game". Read the full article on pushsquare.com
-
-### Say Sawadika to Your New PS5 Controller, Feat Lisa from Blackpink
-Mon, 21 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/say-sawadika-to-your-new-ps5-controller-feat-lisa-from-blackpink
-
-Got this DualSense from Geneva. Good news Blinks, there’s a new Lisa x PlayStation merch collection on the way – including a limited edition PS5 controller. Bad news Blinks, your wallet is about to get a lot lighter. Last year, Sony announced the Thai singer had signed on as its global ambassador , but this amounted to very little beyond the odd commercial. (Mostly used in Asia.) Read the full article on pushsquare.com
-
-### Persona 4 Revival Seems to Add a Whole New Social Link
-Mon, 21 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/persona-4-revival-seems-to-add-a-whole-new-social-link
-
-Special delivery. Over the weekend, Atlus dropped a second deep dive video for Persona 4 Revival — and it actually served up a pretty big surprise. As it turns out, the upcoming remake will boast a brand new social link — a character who the protagonist can forge a bond with through repeated interactions. Read the full article on pushsquare.com
-
-### Classic RPGs Lufia and Lufia 2 Are Adventuring to PS5 with Enhanced Gameplay
-Mon, 21 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay
-
-True Luf. Classic SNES RPGs Lufia and Lufia 2 will be reborn on PS5 at some point next year. New publisher Clear River Games, in partnership with original publisher TAITO, is bringing the duology back, and so if you're old enough to remember these relatively ancient adventures, then you're (hopefully) in for a seriously nostalgic treat. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment
+Tue, 22 Sep 2026 14:18:45 GMT — https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment
+
+Activision is developing the next Halo title, and Ninja Theory is being shuttered.
+
+### 'Do not': Rockstar outlines modding rules before GTA VI touches down
+Tue, 22 Sep 2026 12:33:14 GMT — https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down
+
+Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.
 
 ### Bungie declares it's 'not done with Destiny' as it lays out studio's future
 Mon, 21 Sep 2026 20:30:57 GMT — https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future
@@ -200,13 +230,42 @@ no date — https://www.gamedeveloper.comconference.godotengine.org
 ### NarraScope
 no date — https://www.gamedeveloper.comnarrascope.org
 
-### BitSummit
-no date — https://www.gamedeveloper.combitsummit.org
-
-### Tokyo Game Show (TGS)
-no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
-
 ## VGC
+
+### Rainbow Six Siege boss says players who stick around during GTA 6 s launch will be served like kings and queens
+Tue, 22 Sep 2026 14:52:04 +0000 — https://www.videogameschronicle.com/news/rainbow-six-siege-boss-says-players-who-stick-around-during-gta-6s-launch-will-be-served-like-kings-and-queens/
+
+We double down and reward those spending their valuable time with us" Source
+
+### Fire Emblem Fortune’s Weave: Broom Lady locations, A Peculiar Message quest guide
+Tue, 22 Sep 2026 14:09:26 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-broom-lady-locations-a-peculiar-message-quest-guide/
+
+Find the two women holding brooms for the A Peculiar Message quest in Fire Emblem: Fortune's Weave… Source
+
+### Xbox officially announces more layoffs and widespread changes to its entire studio structure
+Tue, 22 Sep 2026 14:00:41 +0000 — https://www.videogameschronicle.com/news/xbox-officially-announces-more-layoffs-and-widespread-changes-to-its-entire-studio-structure/
+
+Halo moves to Activision and Ninja Theory set to close as Obsidian, Rare and Turn 10 are affected by the shuffle… Source
+
+### Fire Emblem Fortune’s Weave: Yaamanthemum location, Petals of Encouragement quest guide
+Tue, 22 Sep 2026 12:37:57 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-yaamanthemum-location-petals-of-encouragement-quest-guide/
+
+Where to find or buy Yaamanthemum in Fire Emblem: Fortune's Weave… Source
+
+### Fire Emblem Fortune’s Weave cast list: Every character and English voice actor
+Tue, 22 Sep 2026 11:38:22 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-cast-list-every-character-and-english-voice-actor/
+
+Every English language voice actor and the characters they play in Fire Emblem: Fortune's Weave… Source
+
+### The Witcher 3 Remastered will also turn the Xbox version into a Play Anywhere title, making the PC version available too
+Tue, 22 Sep 2026 11:33:28 +0000 — https://www.videogameschronicle.com/news/the-witcher-3-remastered-will-also-turn-the-xbox-version-into-a-play-anywhere-title-making-the-pc-version-available-too/
+
+The Xbox version of The Witcher 3 currently doesn't support Play Anywhere… Source
+
+### Trover Saves the Universe, the comedy game from High on Life studio Squanch Games, appears to have been delisted
+Tue, 22 Sep 2026 10:11:07 +0000 — https://www.videogameschronicle.com/news/trover-saves-the-universe-the-comedy-game-from-high-on-life-studio-squanch-games-appears-to-have-been-delisted/
+
+The game is currently unavailable on any PC or console store… Source
 
 ### Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion s time skip
 Tue, 22 Sep 2026 09:25:20 +0000 — https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/
@@ -223,156 +282,161 @@ Tue, 22 Sep 2026 07:00:04 +0000 — https://www.videogameschronicle.com/news/we-
 
 Plaion reveals how the AI-driven chip shortage nearly cancelled NeoGeo AES+ entirely… Source
 
-### Xbox will reportedly consolidate several studios in new major wave of layoffs
-Tue, 22 Sep 2026 04:18:39 +0000 — https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/
-
-Microsoft is reportedly planning to cut hundreds more Xbox jobs this week… Source
-
-### Silent Hill Townfall: Human organ transplant box puzzle solution
-Tue, 22 Sep 2026 00:50:46 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/
-
-How to open the human organ transplant box in Zoe's house in Silent Hill Townfall… Source
-
-### We intend to earn back your trust : Bungie announces plans to bring back Destiny 2 and improve Marathon
-Mon, 21 Sep 2026 19:11:49 +0000 — https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/
-
-The studio will restore vaulted Destiny 2 content then working on "new stories and games" Source
-
-### Sony officially announces a new limited edition PS5 DualSense controller based on K-pop star Lisa
-Mon, 21 Sep 2026 14:54:59 +0000 — https://www.videogameschronicle.com/news/sony-officially-announces-a-new-limited-edition-ps5-dualsense-controller-based-on-k-pop-star-lisa/
-
-The Blackpink singer's controller is coming next month… Source
-
-### Fire Emblem Fortune’s Weave Renown: How to raise Renown fast
-Mon, 21 Sep 2026 13:41:32 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-renown-how-to-raise-renown-fast/
-
-The fastest ways to raise your Renown rank in Fire Emblem: Fortune's Weave… Source
-
-### An officially endorsed box set of Manic Miner creator Matthew Smith s ZX Spectrum games is coming
-Mon, 21 Sep 2026 13:03:46 +0000 — https://www.videogameschronicle.com/news/an-officially-endorsed-box-set-of-manic-miner-creator-matthew-smiths-zx-spectrum-games-is-coming/
-
-The Matthew Smith Collection includes new cassettes of his games… Source
-
-### Fire Emblem Fortune’s Weave: Paradise Fish location to recruit Ninae
-Mon, 21 Sep 2026 12:10:46 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-paradise-fish-location-to-recruit-ninae/
-
-How to find the Paradise Fish for Ninae's Negotiation (Hard) in Fire Emblem: Fortune's Weave… Source
-
 ## Polygon
 
-### The Biggest Anime Movie of 2027 May Have Just Gotten a Release Date
-Tue, 22 Sep 2026 09:12:04 GMT — https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/
+### Garfield’s New Video Game Is GOTY…for 4th Graders
+Tue, 22 Sep 2026 15:00:15 GMT — https://www.polygon.com/garfield-escape-from-monday-review/
 
-While there are still a few months to go before 2026 ends, anime fans know that they have to wait until 2027 for the biggest franchises to release their next blockbusters. At the top of most watchlists must surely be Demon Slayer: Infinity Castle 2 , the sequel to the highest-grossing anime movie of all time, which still does not have a confirmed release window. Meanwhile, One Piece has announced that its next movie will come out in the summer of 2027, and it will be the first direct tie-in with the official story of the manga and anime: One Piece Film: God Valley .
+But I know that there was a time when I wouldn’t have cared about that. As a kid, my entire personality was Garfield. I was a card-carrying member of the official Garfield Fan Club, owned more merchandise than you can imagine, and would love any video game that simply put Garfield’s face on screen. That’s the kind of uncritical cartoon fanatic that a game like Escape From Monday is built for, and perhaps the person whose review matters more than mine.
 
-### 23 Years Later, the Most Addictive Sci-Fi Show Ever Made Officially Blasts Onto Free Streaming
-Tue, 22 Sep 2026 08:00:14 GMT — https://www.polygon.com/battlestar-galactica-free-streaming-pluto-tv/
+### It's The End of An Era For 'Halo' and 'Fallout' As Xbox Reshapes Studios
+Tue, 22 Sep 2026 14:37:24 GMT — https://www.polygon.com/xbox-game-studios-halo-fallout-obsidian-activision-layoffs-series-x/
 
-The show is Battlestar Galactica , Ronald D. Moore’s beloved sci-fi series that ran for four seasons from 2004 to 2009. Once Fred and Carrie start watching , they cannot stop. One episode becomes another and another, until watching Battlestar Galactica completely consumes — and destroys — their lives. The sketch aired in 2012, when binge-watching was still a novel thing that made for a good punchline.
+Five months after laying off 1,600 employees , Xbox has announced that it will continue consolidating its workforce. Xbox chief content officer Matt Booty announced Tuesday that 268 additional employees across various Xbox departments are being laid off, and a number of first-party studios will be reorganized as well.
 
-### Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix
-Tue, 22 Sep 2026 05:00:15 GMT — https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/
+### New 'Injustice 3' Leak Teases Highly Anticipated DC Characters
+Tue, 22 Sep 2026 14:29:25 GMT — https://www.polygon.com/injustice-3-leak-supergirl-batwoman/
 
-Anya Taylor-Joy has firmly established herself as one of her generation’s leading and most versatile actors. At 30, she has built a career across film and television , appearing in franchises like Super Mario and Mad Max , and winning a Golden Globe for her role in The Queen’s Gambit . This year she starred in the Apple TV series Lucky and will also appear in Dune: Part Three . She is one of the few modern stars who comfortably fit the movie-star label. It all began with her career-defining breakout role, which turned the final girl trope on its head — a girl who survives not by fighting, but by giving in.
+We now have even more evidence that a new Injustice game is likely in the works. On Monday, MP1st spotted another mention of the unannounced title on a job resume. In this case, a stunt actor working on the game listed her involvement as a double for Injustice 3 under coordinator Jake Huang, who oversaw stunt work for Mortal Kombat 1 . While the stunt person’s resume has been updated to remove mentions of the game, an Internet Archive backup confirms the Injustice characters were listed as early as July of this year.
 
-### Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube
-Tue, 22 Sep 2026 04:00:20 GMT — https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/
+### Xbox Announces Halo Layoffs and More Changes in Big 'Reset'
+Tue, 22 Sep 2026 14:18:49 GMT — https://www.polygon.com/xbox-layoffs-halo-studios-ninja-theory/
 
-Stephen King is one of the definitive authors of our time. Known as a horror master, he’s worked across all sorts of genres, from high fantasy to dystopian fiction. King's visions of the future are often just as bleak as his work in horror, swapping supernatural monsters for advanced technology and how it complicates the human condition. They're also often eerily prescient — and only get scarier as time goes on.
+Microsoft's sweeping layoffs in its Xbox division are continuing, with chief content officer at Xbox Matt Booty confirming Tuesday that 268 employees are being laid off across Halo Studios, other first-party studios, and the Xbox Games Studios management team. In a memo to Xbox staff published Tuesday, Booty outlines the latest major changes to Microsoft's gaming division, which will now see the Halo franchise going to Activision.
 
-### Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish
-Tue, 22 Sep 2026 00:05:09 GMT — https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/
+### Prime Video's Stargate Reboot Just Got an Exciting Update
+Tue, 22 Sep 2026 13:52:26 GMT — https://www.polygon.com/amazon-stargate-reboot-searching-for-writer/
 
-This summer's Pokémon Winds and Waves rumors and leaks suggested next year’s mainline entry could feature 300 new Pokémon. These leaks, by any rational person’s read, should be taken with an entire Stantler lick of salt. But they’re nevertheless worrying. Hey, even a broken Hoothoot is right twice a day!
+Fans have been waiting a long time for Stargate to return. The sci-fi show was last on TV in 2011 and had a short-lived web series in 2018, meaning the franchise has been largely dormant for almost a decade. That finally seemed like it would change when Amazon announced in November 2025 that Stargate would return with series veteran Martin Gero as showrunner. The excitement lasted until June of this year, when Amazon scrapped Gero's reboot . Now Amazon is back with a glimmer of hope for Stargate 's future.
 
-### 9 Bonkers Video Game DLCs That Completely Rewrote Expectations
-Tue, 22 Sep 2026 00:00:15 GMT — https://www.polygon.com/best-video-game-dlcs/
+### Explosive New Spider-Man Spinoff Will Bridge the Gap After Your Friendly Neighborhood Spider-Man's Finale
+Tue, 22 Sep 2026 13:26:49 GMT — https://www.polygon.com/your-friendly-neighborhood-spider-man-spin-off-comic/
 
-When you grab downloadable content for a game, generally, you’re expecting more of the same experience: a few extra hours, some new gear, perhaps a boss fight the base game didn’t have room for. What if, instead of new outfits and a handful of fetch quests, a DLC decided to crown you the new god of madness? What if it dropped you into hell to stop a president’s wedding, or handed the entire story over to a teenager narrating her own homebrew Dungeons & Dragons campaign (complete with a dragon she very clearly made up five minutes ago)?
+The finale of Marvel Animation's Your Friendly Neighborhood Spider-Man was one of the most explosive we've ever seen, featuring several staggering reveals involving time loops, paradoxes, and even the arrival of Doctor Strange. While we don't know all the details of season 2, showrunner Jeff Trammell confirmed that it will include a time skip , allowing fans to return to the action with a more confident Peter Parker.
 
-### When is the point of no return in Fire Emblem Fortune's Weave
-Mon, 21 Sep 2026 21:37:28 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/
+### 2026's Best Gaming Soundtrack Is From a Steam Game That Isn't Even Out Yet
+Tue, 22 Sep 2026 13:00:15 GMT — https://www.polygon.com/mr-records-preview/
 
-Fire Emblem: Fortune's Weave 's deadline for getting new characters on your side might loom ominously on the horizon, but the game is more flexible than it lets on. There are a few points of no return , but only one of them is irreversible: the one at the start of Act 3. The game doesn't outright tell you that there's no going back, though it does ask you to be quite sure you want to proceed before moving on. There's a good reason for that. The second deadline is inflexible, and there's no going back afterward.
+There is a stark difference between a soundtrack that serves as the backing track while you play a video game, and music that essentially plays the role of another character, interacting with the game itself. Mr. Records , developed by Glee-Cheese Studio, is very much the latter, and is the epitome of a game that lives and dies with its soundtrack. If the vast array of songs spanning a variety of genres weren't extremely well produced and catchy, then this little indie gem about running a record shop by day and running through your records by night — in auto-scrolling platforming levels — would be dead before it even got off the ground.
 
-### Daredevil: Born Again Officially Ending with Season 3
-Mon, 21 Sep 2026 21:14:49 GMT — https://www.polygon.com/daredevil-born-again-season-3-final-season-disney-plus/
+### Former Doom Developer Could Be in Trouble as Bethesda Goes After Doom Memecoin
+Tue, 22 Sep 2026 12:03:52 GMT — https://www.polygon.com/doom-memecoin-sandy-petersen-bethesda-legal-action/
 
-It's the end of an era for the man without fear. According to The Hollywood Reporter , Daredevil: Born Again 's forthcoming third season will also be its last.
+Doom 's open license has allowed the gaming community to get creative with it, making fun games and porting it to unusual devices . Unfortunately, some have tried to exploit Doom to make a profit of their own. This goes against the license terms, which is why Bethesda is now reportedly confronting the creator of Doomsol , a Doom -like browser game used to promote memecoin $DOOM.
 
-### YouTuber Logan Paul's Latest Pokémon Scheme Was A Total Flop
-Mon, 21 Sep 2026 21:01:40 GMT — https://www.polygon.com/pokemon-logan-paul-youtube-twitch-shiny-steelix-what-happened/
+### Star Wars Boss Says Ahsoka Season 2 Will Be 'A Challenge'
+Tue, 22 Sep 2026 11:42:42 GMT — https://www.polygon.com/star-wars-ahsoka-season-2-mortis-gods-dave-filoni/
 
-Just days after a bewildering visit to the Pentagon , controversial YouTuber Logan Paul embarked on a brand-new Pokémon ploy. His new venture would be tougher than anything he'd attempted before, he claimed — a list that includes selling a Pokémon card for a lot of money. This time, Paul wanted to try his hand at shiny hunting in front of a live audience. It didn't go as planned.
+Ahsoka season 2 will answer major questions raised by its first season, which arrived on Disney Plus three years ago. One such question, which Lucasfilm co-CEO Dave Filoni hopes to answer for Star Wars fans on Jan. 20, 2027, is the arrival of the Mortis Gods and what it means for Ahsoka (Rosario Dawson) and her Mandalorian apprentice, Sabine Wren (Natasha Liu Bordizzo), who are both stranded on the planet Peridea in another galaxy.
 
-### The Resident Evil Movie Is a Perfect Video Game Adaptation
-Mon, 21 Sep 2026 21:00:15 GMT — https://www.polygon.com/resident-evil-movie-zach-cregger-adaptation/
+### 5 Perfect 'Far Side' Comics from the 1980s That Prove Gary Larson is a Genius
+Tue, 22 Sep 2026 10:00:15 GMT — https://www.polygon.com/5-far-side-comics-genius-gary-larson/
 
-On paper, Zach Cregger’s Resident Evil shouldn’t be very controversial. It’s not just the best reviewed Resident Evil adaptation of all time, but the best reviewed video game movie of all time by a country mile. If anything, it should be the one game adaptation that fans can finally rally behind rather than another cold body for the pile.
+Larson is a genius, but his success isn’t the only evidence of that; it's also the diversity of his work. The Far Side could be subtle and smart one day, then utterly stupid the next — it was occasionally even surreal. Larson could pull off a hilarious turn of phrase, or draw a brilliant comic without any words at all. His brilliance was abundant throughout The Far Side , and here are five such examples of all the different ways Gary Larson showed his genius.
 
 ## PC Gamer
 
-### Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers
-Tue, 22 Sep 2026 09:17:21 +0000 — https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/
+### Tragedy: Crusader Kings 3's pope DLC will not let you use blood boys to prolong your life, and yes I did ask the devs
+Tue, 22 Sep 2026 15:02:03 +0000 — https://www.pcgamer.com/games/strategy/tragedy-crusader-kings-3s-pope-dlc-will-not-let-you-use-blood-boys-to-prolong-your-life-and-yes-i-did-ask-the-devs/
 
-If you have a Gigabyte motherboard and use the Gigabyte Control Center (GCC) software, you'd better download the latest version of the software. While the risk of a local attacker hacking into your PC is pretty slim, it's best practice to just cover your butt before anything bad happens. Gigabyte has listed a new vulnerability on its website that affects a pair of kernel drivers, GVCIDrv64.sys and gdrv3.sys. It says the drivers are components of the GCC software, which is widely recommended alongside the company's motherboards. "The vulnerabilities exist in the kernel drivers' IOCTL interfaces." Gigabyte says of the cause of the vulnerability. "Due to insufficient access control and improper validation of input parameters, authenticated local attackers can perform unauthorized operations, including arbitrary physical memory mapping and direct hardware access. An attacker can wield those vulnerable drivers through a "specially crafted" IOCTL request. In doing so, bypassing important memory protections and allowing them to elevate themselves to the most trusted level of your PC, the kernel. Gigabyte thanks Mohamed Alzhrani (0xMaz) and Subhan Sultanov (me1n) for discovering the vulnerability and helping the patching effort. This comes at a time when Intel is said to be ending its lucrative bug bounty program . There is a fix available. Any version of GCC from 26.08.28.01, GBT_VGA_26.08.24.01 or later has the mitigation in place. Looks like the current GCC version is 26.09.10.01 
+Crusader Kings 3 will finally let us play as the pope in the By God Alone expansion , launching on September 30. The power! The pageantry! The blood boys! Wait, what? OK, so history has given us a lot of weird pope stories. One of them relates to the declining health of Pope Innocent VIII. As the story goes, in 1492 three boys were hired to bring the pope back to health with their blood. All of their blood. It went badly. All three boys died, of course, and so did the pope. This was long before physicians understood the circulatory system, or even knew it existed, and some versions of the tale have Innocent VIII literally drinking from the lads. It's apocryphal. Obvious nonsense, and likely propaganda. But the story has gone from a tall tale full of inconsistencies to the first example of blood transfusion. It's not true, but it is compelling. One of the reasons for that is the modern trend of wealthy psychopaths hiring blood boys to claw back their youth. The idea that the rich and powerful, the Silicon Valley execs, are literally feeding on us. Inappropriate due to realism, not due to atrocity. Jesse Henning, Paradox PR manager As The Guardian put it in 2024, "What history can teach us is that finding a miracle cure for ageing has long been one of humankind’s most cherished dreams. And wealthy, white men have often been at the forefront of this quest—despite the dubiousness of the effectiveness or safety of anti-ageing treatments." Now, Paradox games can get pretty weird. Y
 
-### I can't wait to play a Kodan in GW3 concept art
-Tue, 22 Sep 2026 09:15:00 +0000 — https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/
+### Zach Cregger explains which two movies inspired his Resident Evil film: 'Like if those movies loved each other very much'
+Tue, 22 Sep 2026 14:47:49 +0000 — https://www.pcgamer.com/games/resident-evil/zach-cregger-explains-which-two-movies-inspired-his-resident-evil-film-like-if-those-movies-loved-each-other-very-much/
 
-I cannot wait to play as a Kodan in Guild Wars 3 and I have learned nothing from trying to do jumping puzzles as a Charr in GW2. Being a polar bear is my ultimate destiny. (Image credit: ArenaNet) ]]>
+#ResidentEvil director Zach Cregger shares he pulled inspiration from '1917' and 'Evil Dead II' for the new horror film. #FantasticFest pic.twitter.com/nsA2RrR2V5 September 20, 2026 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### More games should look like Abyss x Zero
-Tue, 22 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/
+### AMD's market cap just blasted through the $1 trillion barrier
+Tue, 22 Sep 2026 14:45:00 +0000 — https://www.pcgamer.com/hardware/processors/amds-market-cap-just-blasted-through-the-usd1-trillion-barrier/
 
-I'm sure I'll get sick of PS1-core game aesthetics at some point—but it sure as hell hasn't happened yet. Abyss x Zero was already on my Steam wishlist, but seeing a tweet about it earlier still made me stop in my tracks for a couple minutes just to admire its texture work. I reserve the right to change my stance in the future. But for now? The more games there are that look like Mega Man Legends, the better. (Image credit: Studio Pixel Punk) ]]>
+AMD's market cap, the measure of the company's total worth according to its share price, breached $1 trillion on Monday . That's $1,000 billion, to you and me. AMD's stock valuation has been on a roll recently. CNBC reports that AMD's price jumped 10% on Monday, making for a grand total of 25% appreciation in just five days. Overall, AMD shares are up 180% this year. Not bad. The gains are thanks to AMD increasingly raking it in from, yup, you guessed it, AI. It reported revenue of $11.54 billion during Q2, up 50% from the $7.69 billion recorded in the same quarter last year. AMD’s Data Center business, which includes AI chips, reported sales of $6.7 billion, up 107% from a year ago. CNBC also reports that AMD CEO Lisa Su is predicting another doubling from its Data Center business in 2027. So, it's all going pretty well for AMD shareholders, at least. Of course, it says something about the extraordinary times we live in that despite AMD's epic new valuation of $1 trillion, it's still worth less than one-fifth of arch-rival Nvidia. As I type these words, Nvidia's market cap clocks in at $5.4 trillion . As it happens, CEO Jensen Huang last week also predicted that Nvidia will sell twice as many chips in 2027 as in 2026. So, there's apparently no immediate prospect for a return to normality in the chip market. Indeed, as much money as AMD is making from AI chips, it's still well behind Nvidia. So, if AMD can increase its market share, who knows where that market cap might go. H
 
-### Wookiepedia still feels like home
-Tue, 22 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/
+### If Apple's new M6 SoC is anything to go by, next-gen 2nm PC chips are going to be awesome
+Tue, 22 Sep 2026 14:32:57 +0000 — https://www.pcgamer.com/hardware/processors/if-apples-new-m6-soc-is-anything-to-go-by-next-gen-2nm-pc-chips-are-going-to-be-awesome/
 
-The first webpage I ever spent any extensive amount of time looking at was the Wookieepedia entry for Revan , and it makes me feel some type of way that it's still up there. Anyway, I'm also very fond of the Wookieepedia pages for " Human ," " Religion ," " Water ," and " Devaronian's food cake ." Devaronians are the little cantina devil aliens, you see. (Image credit: Fandom ) ]]>
+Reviews of Apple's latest M6 SoC are out, and the new chip looks hella impressive. Sadly, that probably won't be a huge direct benefit to PC gamers, what with the Mac's limited library of titles and patchy game optimisation. But wait, because there's one really important detail regarding the M6 that is highly PC relevant. It uses TSMC's latest N2 silicon node. Historically, of course, a new node was pretty much a nailed-down certainty in terms of the benefits it would bring. You could expect improved transistor density, better power efficiency and even lower cost. More recently, ye olde Moore's Law that pertained to such matters has been looking a bit patchy. Intel famously got stuck on 14 nm for about a decade instead of the usual two-year cadence, a problem so serious the company's future was in doubt. Anyway, the point is that you can no longer safely assume a new node is going to bring killer benefits. So, the fact that TSMC's new N2 node, which is basically its take on a 2 nm class of silicon, looks healthy and then some in the new Apple M6 chip is very good news for the PC. Just to put a few numbers on this, according to Notebookcheck, the M6 clocks in at 4,698 single-core points in Geekbench 6.7. The Ryzen AI 9 HX 470, which is very, very nearly AMD's fastest laptop CPU, returns just 2,872 points. The M6 is also around 10% faster than the old Apple M5 chip in that benchmark. The M6 has a similar advantage over the AMD CPU and the old M5 chip in Cinebench. For the recor
 
-### Trying to pick the perfect autumn game paralysis
-Tue, 22 Sep 2026 08:40:00 +0000 — https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/
+### What's on PC Gamer's desk?
+Tue, 22 Sep 2026 14:28:44 +0000 — https://www.pcgamer.com/hardware/whats-on-pc-gamers-desk/
 
-It's the end of September, so in observance of tradition I'm sitting here staring at my Steam library in search of the game with the perfect autumn vibes and will inevitably spend my entire evening with choice paralysis. Tis the season! ]]>
+I'm of the opinion that your desk space says a lot about you. Be it that you care more about function than style, or you like Hatsune Miku just a tad too much. I'm also of the opinion that someone's desk space speaks volumes about their real life, like one person may be efficient in other areas, or another must just really, really like Hatsune Miku. As such, I tasked the bravest of my coworkers with sharing photos of their desk spaces, alongside some fun facts, because I'm nosy like that. If you are as nosy as I am, here's what some of the PC Gamer team have on their desks. And you can even vote on your favourite desk below. Evan Lahti, Strategic Director Future Rig details: RTX 3080, 32 GB DDR4 RAM, curved ultrawide 3440x1440p monitor, an Uplift standing desk , use two mice , split gaming keyboard , Bose SoundLink Mini speaker , have had the same Corsair cube case for 11 years I need to replace my 650W power supply with a 750W+, which has been causing some first-person games to hard crash when there are power spikes I sometimes use a balance board at my standing desk to recreate my San Francisco skateboarding days I am a big fan of Speks' line of fidget equipment Mollie Taylor, Features Producer Future Future Rig details: Nvidia GeForce RTX3070, AMD Ryzen 9 3900XT, 32 GB RAM. Fun facts: Vertical monitor is exclusively to service my crippling rhythm game addiction (Sound Voltex) I'm a two-mouse gal (one for MMOs, one for FPS of course) This is probably the least tchotchke'd o
 
-### WoW: Forever will live and die by the valley
-Tue, 22 Sep 2026 08:30:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/
+### Woah, here's a tech CEO saying the memory crisis won't be as bad as everyone expects
+Tue, 22 Sep 2026 13:21:39 +0000 — https://www.pcgamer.com/hardware/memory/woah-heres-a-tech-ceo-saying-the-memory-crisis-wont-be-as-bad-as-everyone-expects/
 
-Judging from player interest in the WoW: Forever beta , it seems like Blizzard's got a good start at channeling nostalgia into its retirement home for aging MMO millennials. But there's only one thing that'll determine if it's a successful rebottling of the old lightning, and that'll be whether or not I can find myself shuffled back into the same game of Alterac Valley that I'd logged out of 18 hours earlier, where nothing has changed except the number of times an orc has been cursed out in text chat for wasting effort by fighting over the wrong graveyard. Nothing else matters. ]]>
+"It's impossible for the shortage to last until 2030!" Jason Chen, Acer CEO Show of hands, who is sick of the memory crisis? One, two… ah, all of you. We've been dealing with it for pretty much a year now and it's showing no signs of it stopping soon. Some even suggest the supply shortage won't work its way out of the system until 2030. Except for Acer CEO Jason Chen . I prefer Chen's take on the whole situation. In the Economic Daily , he reportedly said DDR4 and some DDR5 chips aren't actually in short supply. Neither are CPUs, for that matter. Though I don't think we've been worrying about those as much. In regard to the whole affair, Chen is reported to have said (machine translated): "It's impossible for the shortage to last until 2030!" According to DigiTimes and Tom's Hardware , it's high-speed DDR5 chips that Chen says are in short supply. That's more like the sorta memory we see packaged alongside Intel's Panther Lake chips than desktop PCs. "So they keep putting out the message: 'let me tell you, prices won’t come down until the year 20-whatever.' ”. Chen reportedly said of the memory manufacturers, whose margins and share prices are on the line. Chen doesn't expect all this to blow over in a couple of months, mind you. He reckons that PC prices will continue to rise through the final few months of 2026, with an average price increase between 5-20%. That's on top of the already gargantuan price hikes we've seen all year— gaming PC deals are few and far between these
 
-### Just another Tuesday
-Tue, 22 Sep 2026 08:30:00 +0000 — https://www.pcgamer.com/games/just-another-tuesday/
+### Ranking Resident Evil villains based on whether I think I could change them
+Tue, 22 Sep 2026 13:17:36 +0000 — https://www.pcgamer.com/games/resident-evil/ranking-resident-evil-villains-based-on-whether-i-think-i-could-change-them/
 
-I was playing Death Stranding 2: On the Beach last night and accidentally captured what might be the most miserable situation I've ever put Sam Porter Bridges in: Fording a rough river, during a sandstorm, with 150kg of cargo on his back, while lightning strikes the water he's currently in. Also, he has to pee . Frankly, this is one of the best games ever made. (Image credit: Kojima Productions) ]]>
+(Image credit: Capcom | tiermaker) You may have qualms about my top picks for changeable Resident Evil villains, but I will die on this hill. Let me tell you why. Donna Beneviento would be the easiest to change, for sure. I could already tell in Resident Evil Village that her heart wasn't in it, and I think all I'd have to do is say some nice things about her dolls and then bingo, she's on a better, healthier path. Surprisingly, I think the same goes for Alex Wesker. Yes, she's got a god-complex, but I think I could use that to my advantage, because at the end of the day all a god-complex is is a need to be liked mixed in with some good old fashioned narcissism, and I've managed a fair few people with that. Plus I have low blood iron so she probably wouldn't want to snatch my body. Then we get into trickier territory. Albert Wesker and T-00 (Mr. X). My first step with T-00 would be to ditch the rocket launcher. I know this is risky, but fear is not a healthy emotion to build fruitful discussions around, and trust is a two way street. The next course of action I'd take would be giving him a real name. Mr. X is cool if you're a villain in a '90s Saturday morning cartoon, but it's a bit too formal. I think he looks like a Jeff and suspect he'd appreciate being humanised. When it comes to Albert Wesker I have nothing else to back up my claim that I could change him other than a feeling in my bones that I could do it and the fact I have a winning smile and a can-do attitude. But I
 
-### Desktops are meant to be messy
-Tue, 22 Sep 2026 08:00:00 +0000 — https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/
+### It's time to decide the worst graphical effect in games: depth of field vs vignette
+Tue, 22 Sep 2026 11:20:24 +0000 — https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-depth-of-field-vs-vignette/
 
-I really dislike most of the "battlestation" stuff I see online—if you're not familiar with the term, I it's associated with people posting pictures of their PC gaming rigs. But most if it is just too clean! Influencer chic, streamer house style with flawless cable management and no indication that somebody actually plays games or works there. When I see a desk with some clutter or like, something weird propping up the monitor, I know it's real. It's more beautiful to me than the smoothest, most LED RGB hypebeast thing. Basically, my ideal setup is the PC equivalent of the Satoru Iwata Saw basement station . (Image credit: Unattributed Imgur user ) ]]>
+Motion blur, chromatic aberration, bloom… we've discussed many times whether these effects deserve a spot in a game's settings menu or are the hellspawn of satan's computer graphics division. Now it's time for you to chime in. One final reckoning; until I have the same idea again in five years' time. I am nothing if not returning to this well over and over again. It's your classic knockout format: Two effects go head-to-head and only one makes it through to the next round. There are four initial rounds, then we'll move onto semis, then regional semis, regional quarter semis, semi regionals… nah, we'll make it quick. There are three rounds total. Here are the initial head-to-head rounds: Depth of field vs vignette Chromatic aberration vs dirt Motion blur vs lens flare Film grain vs bloom Got it? Get your votes in below. Then y'all can argue about it in the comments, and say stuff like, "well, actually , motion blur serves a very important purpose." Yeah, whatever. Examples Depth of field Here's a good example depth of field in Gray Zone warfare. Depth of field is most visible in FPS games when aiming down sights. On Off Vignette You can see a vignette clearly here in Cyberpunk 2077. It's the dark border—a way to draw player focus into the middle of the frame. On Off ]]>
 
-### I still can't believe we call them 'MOBAs'
-Tue, 22 Sep 2026 08:00:00 +0000 — https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/
+### I've been doing roleplay for 15+ years, and I don't think WoW: Forever needs a ruleset for it
+Tue, 22 Sep 2026 11:01:51 +0000 — https://www.pcgamer.com/games/world-of-warcraft/ive-been-doing-roleplay-for-15-years-i-dont-think-wow-forever-needs-a-ruleset-for-it/
 
-One of media's god-given powers is to coin phrases, one of our last remaining superpowers. Inspired by this post from Kieron Gillen, I wanted to take a moment to recall our noble-but-failed attempt to rename MOBAs (a miserable term that describes every game and no game) more than a decade ago. I am so out the loop that I have just learned folks use the phrase "imsim" now, and I'm tempted to come back to Games Journalism solely to kick everyone's asses. — @kierongillen.bsky.social ( @kierongillen.bsky.social.bsky.social ) 2026-09-21T21:09:28.760Z Just as Superman made the ultimate sacrifice against Doomsday, former PC Gamer editor Chris Thursten gave his editorial life to fix this awkwardly-named genre in his 2014 column, " Why I am deadly serious about the phrase 'wizard-'em-up .'" We also tried "lane-pushing game" for a span, yikes. The media business requires one to place bets. ]]>
+(Image credit: Blizzard) Alright, here's the problem—I'm not sure this really works for its intended purpose. Extra Context: IC/OOC When you're out of character (OOC), you're playing the game normally. If you need to say something OOC while you're roleplaying, you might use brackets, ((like this)) [or this]. When you're in character (IC), you're roleplaying, describing what your character does, and generally trying to write. World of Warcraft has traditionally had roleplay servers, yes, and those servers do traditionally have people acting out their gameplay in-character: But there's a perception, which is being applied here by Blizzard, that this is their—our—main deal. In my experience, most RP communities do have players who are still interested in… well, playing the game. Very few people log on exclusively for the purpose of writing with each other. They'll also do dungeons, raids, and so on—with a clear split between their in-character actions and game time. Basically, nobody's RP-walking in a dungeon on Argent Dawn EU. We're doing the damn dungeon. I won't gripe about the "strict naming conventions and behaviour rules" because there's every chance they're reasonable, although the word "strict" does give me cause for alarm. Roleplay servers tend to work on informal manners without one real "one size fits all" model of in-character/out of character conduct. What gives me actual pause are these clarifications by Blizzard: "Cross-ruleset grouping is not supported, so charac
 
-### Where I'm at
-Tue, 22 Sep 2026 07:45:00 +0000 — https://www.pcgamer.com/games/where-im-at/
+### Steam profiles are beautiful 2000s-era relics
+Tue, 22 Sep 2026 11:00:00 +0000 — https://www.pcgamer.com/games/steam-profiles-are-beautiful-2000s-era-relics/
 
-I like to keep a running tally of my GOTY so far. This isn't everything I've played, but it is everything I've played enough to properly judge. Here's where I'm at. Any glaring omissions I need to correct? (Image credit: Backloggd) ]]>
+I have my own separate issues with the Steam marketplace and points shop, but I can't lie: I love collecting themes that make my Steam profile look like a relic of the early 2000s. It's not quite as satisfying as the complex Dragon Ball Z profiles I styled back in the day on Neopets or LiveJournal, but it may be the closest thing I have to simulating the feeling. (Image credit: Valve) ]]>
 
-### Best cozy games list update september 2026
-Tue, 22 Sep 2026 07:20:00 +0000 — https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/
+### Beyond Good and Evil was never worth 20 years of angst
+Tue, 22 Sep 2026 10:48:10 +0000 — https://www.pcgamer.com/games/adventure/beyond-good-and-evil-was-never-worth-20-years-of-angst/
 
-(Image credit: Something We Made) I just redid my best cozy games list, but Toem 2 comes out this month, sequel to one of my favorites. Actually, there are several more anticipated cozy games right at the end of this month (Nivalis Nights and Songs of Glimmerwick) so I'm going to have to reassess the list yet again no matter what happens. ]]>
+It was a whirlwind dalliance. I picked up Beyond Good and Evil's 20th anniversary edition on Friday and finished it—all pearls collected, all animals snapped—by Sunday. I can't escape the lure of nostalgia: BG&E Cool Original was an important game for me as a kid. I bought it on a whim for my 11th birthday and it's been lodged in my brain ever since. Jade, forever (Image credit: Ubisoft) But it was an odd revisit. BG&E is still fun enough; it's a colourful and unique world that gives you a novel way to interact with it—down the barrel of your camera lens. But that's it. This game is sparse . There simply isn't that much to it. Once you've drilled down past the questionably Rastafarian rhinoceroses and the exciting wildlife photography, what you have is a remarkably brief game with shonky combat, paper-thin characters, and stealth that manages to both be very easy and pretty tedious. Do I still like it? Absolutely. Beyond Good and Evil was a colourful sweet-treat that hit me at just the right age—ephemeral by design, such that its flaws and soggy pockets never linger long enough to bother you. It's a videogame summer romance, but that's all it is. So it's inexplicable that it has become the foundation of the most legendary 20-year development struggle in gaming. There's just not enough game here, not enough quality material to sink your teeth into, to ever warrant more than spending about two-three years on an equally pleasant-but-transient sequel. That's no insult to the orig
 
-### PC Gaming Show Toyko Direct 2026 picks
-Tue, 22 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/
+### I'm calling for an end to smooth-faced dystopias
+Tue, 22 Sep 2026 10:45:00 +0000 — https://www.pcgamer.com/games/im-calling-for-an-end-to-smooth-faced-dystopias/
 
-Four games I wishlisted on Steam out of last weekend's PC Gaming Show : Tenebris Somnia - Genre-mixed horror that alternates between 2D retro art and live action, out next month. Wane - My favorite from the show, a roguelike tactics game with an art style that somehow all at once looks like Dishonored, a Remedy game, and Disco Elysium? Piroker - Multiplayer (but also async) autobattling Pirate Balatro. The UI is a lot to handle at first, but I had the knack of it halfway through my first run. Playtest is live now. Hellcard II - The follow-up to a game I liked a couple of years ago, and one of the only multiplayer deckbuilders outside of Slay the Spire 2. ]]>
+I realize it's poor form of me, but I can't mind my own business, and I'm about to yuck some of y'all's yum. Why does every game need a series of mods turning their respective worlds into smooth-faced dystopias? It's like there's an unwritten rule somewhere that the first batch of fanmade downloads in every game's modding scene must include 'fixes' for no pores, no freckles, no scars, and no wrinkles. I'm sending some of y'all to gamer jail. I ran him through several beauty filters and the Photoshop smoothing tool until I got the one on the right. It's obviously not an actual mod, but I swear it could be. (Image credit: Rebel Wolves / PC Gamer Edit) Where is the flavor ? Where is the character ? Give me your most haggard old men and women who look like they haven't slept in years. I'm downloading eye bags, more scars, and forehead wrinkles. ]]>
 
 ## GameSpot
+
+### Ninja Theory Now Expected To Close As Deal Falls Apart
+Tue, 22 Sep 2026 14:15:31 +0000 — https://www.gamespot.com/articles/ninja-theory-now-expected-to-close-as-deal-falls-apart/
+
+It's yet another sad day in the games industry as Xbox's continued gutting of its subsidiaries gets worse, with acclaimed action game studio Ninja Theory headed for the chopping block. Xbox's chief content officer and executive vice president Matt Booty took to the official Xbox website on September 22 to announce that the Hellblade studio will go forward with the proposed closure. "Unfortunately, two separate agreements for Ninja Theory fell through," Booty wrote. "We will now begin consultation with employees on a proposed closure while continuing to explore other paths forward." Ninja Theory has developed several games since its founding in March 2000. You might know the studio for Heavenly Sword , Enslaved: Odyssey to the West , DmC: Devil May Cry , or Bleeding Edge . The studio is now best known for the Hellblade series, with Senua's Saga: Hellblade 2 launching in 2024. There's a third entry in the works planned for 2027 , but that may be up in the air with considering the studio's fate. Although Booty seems to suggest there may be "other paths forward" for Ninja Theory, it appears the plan is to shutter the Hellblade developer--maybe unless another buyer steps forward. There was a buyer previously , as Xbox CEO Asha Sharma said in July 2026 that Ninja Theory--along with State of Decay 3 developer Undead Labs--had "entered terms to join new ownership with funding." It's worth noting, though, that the language Xbox is using here doesn't explicitly mean Ninja Theory is clo
+
+### GTA 6 Is Taking Over Miami, One Airlifted Letter At A Time
+Tue, 22 Sep 2026 14:25:05 +0000 — https://www.gamespot.com/articles/gta-6-is-taking-over-miami-one-airlifted-letter-at-a-time/
+
+Ahead of its release in November, the marketing for Grand Theft Auto 6 has begun to take over Miami's Kaseya Center. As part of the campaign, developer Rockstar Games and publisher Take-Two Interactive are decking out the stadium in giant GTA 6 letters that will spell out "Welcome to Vice City" once they're fully installed. It's a big task, and one that requires aerial support, as one chopper has been steadily airlifting them up to their designated spot. Onlookers have been documenting the process and posting clips online of it: https://twitter.com/SourceVI/status/2102190668479140216 https://twitter.com/DavidVergel97/status/2102385075006353442 https://twitter.com/OfficialJoelF/status/2102383683806347447 https://twitter.com/OfficialJoelF/status/2102367371222770015 https://twitter.com/videotech/status/2102383223838048471 The advertising campaign is reportedly valued at almost $1 million for Miami-Dade County (via WLRN ), and the funds will go toward developing a plot of land behind the stadium for community use. The deal has been criticized by the county Sheriff’s Office, with Commissioner Bermudez proposing that the funds instead go toward funding gaps in the law division's budget. Alongside Miami-Dade Sheriff Rosie Cordero-Stutz, Bermudez also criticized GTA 6 for glorifying crime and the killing of police officers. While you can commit those acts in GTA 6, it looks like getting away with literal murder will be more challenging , as the game's new Wanted and Honor systems wil
+
+### Halo s Next Game Is Coming From An Unexpected Developer: Activision
+Tue, 22 Sep 2026 14:04:45 +0000 — https://www.gamespot.com/articles/halo-next-game-is-coming-from-an-unexpected-developer-activision/
+
+Microsoft has officially announced a major change to its Halo franchise, as Activision will develop the next game in the series with a new, purpose-built team. A small team at Halo Studios will continue to support the Halo community and existing games. The new studio will also exist separately from the group of developers that work on the annual Call of Duty series. Unfortunately, it's bad news for Halo Studios, as Microsoft has confirmed that it will be impacted by a new wave of layoffs that it had previously announced. In total, 268 people will be laid off across Halo Studios, other Xbox developers, and Xbox Game Studios management. As reported earlier today, studios are also being reorganized under Microsoft's biggest acquisitions, Bethesda and Activision Blizzard . "The goal is to strengthen our franchises and games by operating fewer business units, aligning groups that already work closely together, and focusing our publishing expertise," Xbox chief content officer Matt Booty wrote in a letter sent to Xbox employees. https://www.youtube.com/watch?v=7LimYD3Ycwo Alongside Halo Studios, World's Edge (Age of Empires series) and Rare (Sea of Thieves) will also fall under the Activision umbrella. Obsidian Entertainment and its projects--including a new Fallout game--will fall under Bethesda's remit, while Playground and Turn 10 will merge into a single studio after years of being creative partners on games like Forza and the upcoming Fable. Rumors of Activision Blizzard being
+
+### All The Major Xbox Changes Microsoft Announced Today: Layoffs, Halo Goes To Activision, And Lots More
+Tue, 22 Sep 2026 14:14:08 +0000 — https://www.gamespot.com/articles/all-the-major-xbox-changes-microsoft-announced-today-layoffs-halo-changing-hands-and-more/
+
+Microsoft's "reset" of the Xbox business continued today with the announcement of another giant wave of changes and restructuring to help the business become more successful in the future, or at least that's the plan. The major moves included more layoffs, the planned closure of another developer, and a significant shakeup for the Halo franchise, among others. These major changes were announced just before Microsoft's fiscal Q1 ends on September 30. Here's everything we learned: Layoffs To begin with, Xbox boss Matt Booty said there will be a further 268 layoffs that affect Halo Studios, other first-party developers, and the Xbox Game Studios management and central functions team. This latest round of cuts comes after Microsoft laid off 1,600 Xbox developers in July, including the studios it divested of. With these cuts, Microsoft is now about 3/4 of the way through its planned restructuring of Xbox, so more changes are still to come. "I am deeply grateful for what our colleagues have built, and I know how difficult today will be for those leaving and the teams around them," Booty said. Halo goes to Activision Another major change is that Activision is expanding its remit to now cover developers Rare and World's Edge. Additionally, Activision is making the next Halo game , and it's being made by a "new, purpose-built team." This is separate from Activision's ongoing plans for annual Call of Duty games. Going forward, only a "small team" at Halo Studios will continue, focusing
+
+### GameStop CEO Just Made A Big Move
+Tue, 22 Sep 2026 13:22:20 +0000 — https://www.gamespot.com/articles/gamestop-ceo-just-made-a-big-move/
+
+GameStop CEO Ryan Cohen has executed a gigantic trade, buying more than 1.1 million shares of his own company's stock and spending more than $26.4 million in the process. He now owns more than 40 million shares of the company, according to an SEC filing. He bought the shares at around $23/share. Since the purchase was made public in a regulatory filing on September 21, GameStop's shares shot up, rising more than 3%. This was just the latest massive share purchase by Cohen, as he bought 1 million shares of GameStop earlier in September , when the stock price was lower. Some of GameStop's directors also bought up shares this month. The share-purchase disclosures filed with the SEC do not provide any details on why Cohen or the GameStop directors bought shares. There could be many reasons, but a CEO buying back shares of their own company is often taken as a signal that management is bullish on the company's outlook. Anthony Noto, the CEO of online banking company SoFi, bought back his own company's stock three times so far this year as the price fell. When companies buy back their own shares, this can lead to an immediate boost in the overall share price, as fewer shares are available on the open market. For his part, Cohen now owns about 9% of GameStop through his various buybacks. GameStop and Cohen have been in the news a lot lately, as Cohen has pitched an ambitious bid to buy eBay. However, more recently, Cohen has seemingly cooled off. Bloomberg reported that Cohen was we
+
+### New Injustice 3 Evidence Suggests It May Bring Back A Character Who Died A Very Injustice Death
+Tue, 22 Sep 2026 13:13:27 +0000 — https://www.gamespot.com/articles/new-injustice-3-evidence-suggests-it-may-bring-back-a-character-who-died-a-very-injustice-death/
+
+Just what has NetherRealm Studios been up to since Mortal Kombat 1? All signs currently suggest that Injustice 3 is in development at the Mortal Kombat developer, and to add more fuel to the rumor-fire , a stuntworker's resume has indicated that they worked on the yet-to-be-announced game. As spotted by MP1st , the stuntworker listed "Injustice 3" after performing motion capture sessions for two characters: Supergirl and Batwoman. Those two names make a lot of sense within the Injustice lore, as Supergirl played a big role in stopping Brainiac's invasion in Injustice 2. Batwoman is more of a mystery at this stage, as the character met a grisly fate in the pages of the Injustice comic book, which officially tied into the overall narrative of the fighting game series. This alternate-Earth version of Batwoman --Katherine "Kate" Kane under the cowl and red wig--worked with Batman against Superman's regime, but in the fifth year of the rebellion, she sacrificed herself to manually activate a dimensional transporter that brought the DC Universe's Justice League heroes to the darker dimension. The Regime Superman apparently incinerated her with his heat vision at the last moment, seemingly killing her, but as any comic book reader will know, no one stays dead for long in that medium. The last Injustice game was released back in 2017, and since then, NetherRealm ended the mainline Mortal Kombat universe with the superb Mortal Kombat 11 in 2019, and then gave it a soft reset with Mort
+
+### Xbox s Second Wave Of Planned Layoffs Is Reportedly Starting As Studios Face Major Restructuring
+Tue, 22 Sep 2026 12:21:26 +0000 — https://www.gamespot.com/articles/xbox-layoffs-are-starting-again-report/
+
+The second wave of Xbox layoffs could be imminent, as new reports claim that Microsoft is also looking to further restructure its gaming division by consolidating several of its studios. This would tie into previously announced plans by Xbox boss Asha Sharma to cut 3,200 roles from the division, which started with 1,600 mass layoffs in July . According to The Information --which says that a Microsoft source briefed it on the company's plans--the second wave of 1,600 job cuts will start soon. Prolific leaker NateTheHate has also claimed that the Halo franchise is being moved to Activision Blizzard, and similar reorganizations will happen across the division. If true, then 2026 will mark a year of major changes for Xbox. Since Sharma stepped in to run the division, the goal has been to make it more profitable as part of a "reset" initiative that has seen scores of jobs slashed over the last couple of months. Xbox has also seen several of its first-party studios depart from the organization, with Double Fine Productions and Compulsion Games becoming independent studios again. State of Decay 3 developer Undead Labs and Senua's Blade studio Ninja Theory have also been sold off , while Arkane Lyon is also looking to divest itself from Microsoft once it finishes a mandatory consultation period with the French Local Works Council. Xbox is now focused on its biggest franchises, with Bethesda recently confirming that Fallout 5 and remasters of Fallout 3 and Fallout: New Vegas are in th
+
+### Minecraft s Next Update Could Be Its Biggest In 15 Years, And We ll Find Out This Weekend
+Tue, 22 Sep 2026 09:54:48 +0000 — https://www.gamespot.com/articles/minecrafts-next-update-could-be-its-biggest-in-15-years-and-well-find-out-this-weekend/
+
+With the new Minecraft update now live, players have been eagerly looking forward to the next Minecraft Live to learn what comes next for the sandbox game. We now know that the next stream will be this weekend. The Minecraft Live broadcast will begin on September 26, 2026 at 10 AM PT / 1 PM ET / 6 PM GMT / 7 PM CEST. It hasn't been communicated how long that broadcast will run for, but we have a tiny hint of an idea around what could be coming next. The Minecraft Live broadcast date was revealed at the end of Tubbo's stream , after the Blue Creeper Battle concluded. This promotional event started on September 17, 2026 in person at the Tokyo Game Show, online through YouTube, and in-game in Bedrock Edition worlds. The event saw the Illager High Council open rifts to the real world from the Sift--a new dimension being introduced in the upcoming Minecraft Dungeons 2. Soul-corrupted mobs poured in through those rifts to attack, and at TGS that included a huge Blue Creeper. To celebrate, 1 million Corrupted Creeper Cape codes were awarded to participating players, or to those watching via Twitch in the form of Twitch Drops. The Minecraft Live announcement came at the end of Tubbo's stream. After a showdown that saw players finally take down the Blue Creeper, a short cinematic played thanking players for taking part. That cinematic teased the Illagers finding a portal to the Sift. While we already know that the Sift is coming to Minecraft Dungeons 2 , many are speculating that it c
 
 ### Here s Why A Nightmare On Elm Street Game Hasn t Happened In Decades
 Mon, 21 Sep 2026 19:32:54 +0000 — https://www.gamespot.com/articles/heres-why-a-nightmare-on-elm-street-game-hasnt-happened-in-decades/
@@ -394,47 +458,32 @@ Mon, 21 Sep 2026 16:36:20 +0000 — https://www.gamespot.com/articles/destiny-is
 
 Bungie has admitted that it "lost sight" of what players loved about its games over the past few years, acknowledging that a series of broken promises and shifting promises caused the studio to lose the trust of its community. Now, the Destiny developer promises to refocus on its players, with plans to restore removed Destiny 2 content and evolve Marathon beyond its current extraction-shooter format. In a new video accompanied by a blog post on the Bungie website , Bungie studio head Poria Torkan and Marathon head of product and general manager Josh Dean addressed the studio's recent struggles and outlined its plans for the future. Torkan acknowledges that Bungie's ambitions had stalled as the studio pursued too many different initiatives without enough focus on the things players actually want. "We lost trust. We lost incredible colleagues. And our ambitions as a studio stalled," Torkan said. "We chased vision without enough focus on what players loved, and that's on us. We own that." https://youtu.be/asnrQ1UoBQM Bungie directly acknowledged the frustration surrounding Destiny 2--which received its last content update on June 9, 2026--including the removal of large amounts of content from the game in "sunsetting" processes. "We haven't just heard your feedback. We understand the anger, the disappointment with us," Torkan said. "We're not asking for your trust, we know we have to earn it." Bungie described Destiny as the foundation of the studio and stressed that it is "absol
 
-### Wolverine Dev Denies Using GenAI After Weird-Looking In-Game Sign Discovered
-Mon, 21 Sep 2026 15:42:29 +0000 — https://www.gamespot.com/articles/wolverine-dev-denies-using-genai-after-weird-looking-in-game-sign-discovered/
-
-Fans recently discovered an odd-looking bathroom sign in Marvel's Wolverine, prompting people to wonder if developer Insomniac Games used generative AI. According to Insomniac's community and marketing director James Stevenson, that's a bunch of baloney. The reason the bathroom image looks weird is because of a "UV map bug," he said. A fix is now in the works. "There are no AI-generated assets in Marvel’s Wolverine," Stevenson said. https://twitter.com/JamesStevenson/status/2101048325067751572 Insomniac's last game, 2023's Spider-Man 2, utilized machine-learning to help speed up development , and the company intends to keep doing this going forward. But for now, it sounds like AI-generated assets are off limits. Marvel's Wolverine released on September 15 and became a swift success, reportedly exceeding the lifetime sales of Death Stranding 2 on PS5 right out of the gate. While Marvel's Wolverine might not have featured any AI-created assets, that's not the case for every game. Activision's Call of Duty games use generative AI , as does Sega's upcoming Crazy Taxi: World Tour . GameSpot's Marvel's Wolverine review scored the game an 8/10. Reviewer Tamoor Hussain said of the game, "At best, it’s a fun but forgettable experience that’ll entertain you for a few hours."
-
-### Pokemon Is Celebrating Space Week With Cool Merch, And You Just Know Scalpers Will Ruin It
-Mon, 21 Sep 2026 15:12:00 +0000 — https://www.gamespot.com/articles/pokemon-is-celebrating-space-week-with-cool-merch-and-you-just-know-scalpers-will-ruin-it/
-
-World Space Week kicks off on October 4, and if the idea of exploring the infinite horizon of the cosmos doesn't interest you, then maybe a world-famous Pokemon can inspire you to reach for the stars. As part of the event, the European Space Agency is teaming up with The Pokemon Company to shine a light on space exploration, and it'll feature a very special Pikachu. Back in June, French Astronaut Sophie Adenot traveled to outer space and back with a special Pikachu plush to lay the groundwork for the promotion, capturing several moments on camera. https://youtu.be/mjkDwgStzuo Back on terra firma, there'll be exhibitions at ESA facilities during ESA Open Days, and at museums during World Space Week. This will cover France, Italy, Germany, Spain, the Netherlands, and the United Kingdom. While the goal is to both educate and entertain the next generation of explorers, there's a good chance that exclusive collaboration products will also be a big draw. These will include plushies, Pokemon Trading Card Game accessories, and a replica of Adenot's Pikachu decked out in astronaut gear and a bomber jacket. The ESA online shop will also offer special Pikachu-themed ESA apparel, including T-shirts, a tote bag, a notepad, and pins. Look at all the cool Pokemon stuff you can't have unless you pay a premium for it on eBay. And that's cool! It's also likely to attract the seedier side of the Pokemon fandom, as we've seen several times in the past, as just about everything with Pokemon brand
-
-### Physint Is Biggest-Selling Game Kojima Could Ever Make, He Says
-Mon, 21 Sep 2026 14:42:40 +0000 — https://www.gamespot.com/articles/physint-is-biggest-selling-game-kojima-could-ever-make-he-says/
-
-Gaming legend Hideo Kojima was recently in the news when it was announced that Sony had dropped his new spy game Physint , with Xbox swooping in to sign it. In the aftermath of the shocking announcement, more information has come to light, including how Kojima thought Physint had major commercial appeal. He told The Washington Post , "This is the biggest selling title I could possibly create." He went on to say, as reported by Kotaku , "I didn't think Physint would be on the list of being canceled." Kojima's Physint stars Bill Skarsgard and Charlee Fraser. According to veteran gaming reporter Jason Schreier, Sony abandoned Physint after Kojima Productions reportedly went over budget and missed deadlines . In response, Kojima Productions said people should be skeptical of what they read on the internet , though the Japanese studio did not refute the details of the report. In an interview with IGN, Kojima said Physint is still in the concept phase. He is working out the game's systems, visuals, and design, and added that a "very small team" is working on it right now. "The next cold war begins" is the tagline for Physint. Despite this, Kojima believes a game like Physint has a lot of appeal because, "Anything espionage is going to be fun, period, no matter what game it is." He went on to say that he got the idea for Physint in part due to the overwhelming fan demand for another Metal Gear game. He no longer works at Konami and couldn't make a new Metal Gear, but the interest fr
-
-### We Can Take A Small Bite Of Castlevania: Belmont s Curse Early
-Mon, 21 Sep 2026 14:33:56 +0000 — https://www.gamespot.com/articles/we-can-take-a-small-bite-of-castlevania-belmonts-curse-early/
-
-Konami has revealed that a free demo for Castlevania: Belmont's Curse will become available on October 1. Even better, progress from this early taste of the metroidvania title will carry over to the game's full launch, which is on October 15. The Castlevania: Belmont's Curse demo will offer up the opening chapter, according to Konami. That likely means we see Rose and Trevor Belmont arrive in the burning city of Paris, before being split up. Then it's up to Rose to utilize her sword and magical tarot cards to take on classic franchise foes , like zombies and probably skeletons. The game will also let you turn tough bosses into powerful friends . This small bite of Castlevania: Belmont's Curse will take up between 3GB and 6GB of storage space, depending on your platform. The smaller size is for Switch, while the largest is for PS5. However, the game will only run at 30fps on Nintendo's hybrid console; meanwhile, it runs at 60fps on Sony's system as well as Xbox Series X|S and PC. Here's hoping a Switch 2 version is in the works, though there's nothing official on that front. Evil Empire Studio and Motion Twin are behind this newest entry in the Castlevania series, with the former previously working on the franchise with Dead Cells: Return to Castlevania. The latest project from Evil Empire was The Rogue Prince of Persia . However, even with this pedigree, Castlevania: Belmont's Curse isn't a roguelite . Last month, Konami announced the voice cast for Castlevania: Belmont's Cur
-
-### Hideo Kojima Doesn t Know If Physint Will Be Xbox Exclusive
-Mon, 21 Sep 2026 13:56:26 +0000 — https://www.gamespot.com/articles/hideo-kojima-doesnt-know-if-physint-will-be-xbox-exclusive/
-
-In a big twist, Sony just dropped Hideo Kojima's new spy game Physint , with Xbox swooping in to pick it up. But will Physint be exclusive to Xbox? Kojima himself said in a new interview with IGN that he does not know. "That would be a question for Xbox. But I don't know for sure," he said. Under former Xbox CEO Phil Spencer's leadership, Microsoft began releasing some of its major games on rival platforms. Even Halo is on PlayStation today . New CEO Asha Sharma has signaled a return to exclusives . Choices about exclusivity will be made case by case. Kojima said Microsoft’s ambition is to help its games reach the largest possible audience. "In previous updates from Xbox, I thought that they have this kind of stance where they want to deliver to as many gamers as possible, no matter what the platform is," Kojima said. "I think all of that will be announced at a later time. I'm not sure yet, and I can't really say." https://twitter.com/HIDEO_KOJIMA_EN/status/2099387994188939599 Xbox is publishing not only Physint, but also Kojima's horror game OD. Both games will feature celebrities. Bill Skarsgard will star in Physint, while OD features Hunter Schafer, Sophia Lillis, and the late Udo Kier. Physint was reportedly over budget and late , which contributed to Sony's decision to abandon it. Kojima Productions released a statement in response, saying people should treat the report with skepticism , though the company did not deny or refute the reporting. Kojima himself said he was 
-
-### 007 First Light Dev Says It Had No Choice But To Delay The Game s Switch 2 Edition Again
-Mon, 21 Sep 2026 13:17:02 +0000 — https://www.gamespot.com/articles/007-first-light-dev-says-it-had-no-choice-but-to-delay-the-games-switch-2-edition-again/
-
-IO Interactive recently delayed the Switch 2 edition of 007 First Light yet again , and now the studio's technical producer, Cristina Vega, has shared more details on why the company had "no choice" but to postpone it a second time. Speaking to Inven Global , Vega said the deal is "disappointing news for fans," but it was a decision "also made for their benefit." The game was originally due to arrive alongside the other versions in May 2026, but IO pushed the game to Summer 2026, and now again to March 2027. First Light's Switch 2 edition is now coming in March 2027. Explaining why yet another delay was necessary, Vega said the studio had been grinding hard for a while and "needed a brief breather." She also said there were "requests from marketing and various other factors" that resulted in a scenario where IO had "no choice" but to delay the Switch 2 edition to 2027. "Ultimately, we decided on another delay because we want fans to experience the game in its most polished form on Switch 2, so we ask for your understanding," she said. Vega went on to confirm that First Light for Switch 2 does not utilize the console's mouse functionality. She said the team didn't find a way to utilize this, nor does the studio believe it even "makes particular sense from a gameplay perspective." Finally, Vega acknowledged that the Switch 2 is relatively less powerful than the PS5 or Xbox Series X|S consoles, so "some compromises are inevitable" from a technical perspective. One example is tha
-
-### Sony Turned The DualSense Into Live, Laugh, Love For Lisa s New PS5 Controller
-Mon, 21 Sep 2026 13:03:48 +0000 — https://www.gamespot.com/articles/sony-turned-the-dualsense-into-live-laugh-love-for-lisas-new-ps5-controller/
-
-Last year, Sony announced that it was partnering with Blackpink member and actor Lisa to promote the PlayStation 5, and that collaboration has resulted in an interesting spin on the PS5 DualSense controller. While previous limited-edition controllers for games like Marvel's Wolverine, Marathon, and GTA 6 have used bold, striking designs to capture eyeballs, the Lisa Limited Edition is something else entirely. See for yourself: While it might look like the Live, Laugh, Love of DualSense controllers, Sony says this peripheral incorporates elements from the performer that hold personal meaning for her. The illustration of bangs and eyes on the touchpad are meant to reference Lisa's signature look, and you'll also find stars and "LL" lettering that has been set against her personal favorite DualSense colorway, Chroma Pearl. Like other limited-edition DualSense controllers, you can expect to pay $85 for it--or more if scalpers set their sights on it --and preorders start on October 2 on the PlayStation Direct store , before rolling out to retailers from October 30. Alongside the DualSense controller, you can also grab a collection of PlayStation merchandise featuring Lisa's designs, with T-shirts, hoodies, caps, and keychains all sporting her illustrated gaze and hairline. This isn't the first time that Sony has partnered up with a celebrity to promote the PS5, as the PlayStation Playmakers program includes collaborations with comedian King Bach, NFL player Ja'Marr Chase, and even
-
-### How Many Resident Evil Games Fit In The Popcorn Bucket? Now We Know
-Mon, 21 Sep 2026 12:29:02 +0000 — https://www.gamespot.com/articles/how-many-resident-evil-games-fit-in-the-popcorn-bucket-now-we-know/
-
-In the realm of gaming memorabilia, novelty items often serve as little more than dust collectors once the hype fades. However, Capcom's first aid kit popcorn bucket , launched as a collectible for the release of the Resident Evil movie, might actually be more practical than it first appears. Instagram user pokicourtney has discovered the ultimate purpose for the green bag--storing physical copies of games from the Resident Evil franchise. The popcorn bucket manages to hold a surprisingly dense amount of physical games across multiple console generations--13, in fact. There's a mix of Xbox One, Xbox 360, PS4, and deluxe steelbook editions of titles spanning from the Resident Evil Origins Collection through to Resident Evil Village. https://twitter.com/ch8rileon/status/2101793505244787129?s=20 If you're accustomed to carefully organizing your grid slots in your Resident Evil inventory, seeing a physical copy fit so cleanly into the first aid kit is incredibly satisfying. While it was originally meant to hold snacks for moviegoers, turning the bag into a dedicated Resident Evil media container seems like a pretty good alternative purpose. Despite initial skepticism, the Resident Evil movie surpassed expectations at the box office this weekend, bringing in more than $108 million. In our review , Eric Frederiksen said, "Zach Cregger sheds the camp and artifice to give us a truly exciting, tense, and disgusting Resident Evil movie."
-
 ## Rock Paper Shotgun
+
+### Xbox's consolidation plans might mean you get a new Halo sooner, but history shows production line development makes for boring games
+Tue, 22 Sep 2026 15:00:00 +0000 — https://www.rockpapershotgun.com/xboxs-consolidation-plans-might-mean-you-get-a-new-halo-sooner-but-history-shows-production-line-development-makes-for-boring-games
+
+When I was younger, I loved Chewits. Each parcel of chewy sugar threatened to tear out a tooth, but their punch of strawberry, blackcurrent, and orange flavour was hard to resist. Left to my own devices, I would take packs of Chewits, unwrap all the sweets, and press them together in the palm of my hand until they formed a single Chewit boulder. The different colours and flavours became indistinguishable but the sheer size and density of the thing was attractive to my inner glutton. The first time I did this, I put the whole thing into my mouth and when I tried to bite down on the sweet mass my jaw became almost glued together by the sugary morass. Panicking, I tried to swallow it down and almost choked, as the formless Chewitts filled my oesophagus. Before I turned completely blue, I was able to cough it back up. I want to say I only did this once, but it took a good three or four times before I realised squashing things together, while it seems could only multiply each Chewits' amazingness, can actually make a formless mass that will choke you. So, onto Xbox's plans to consolidate their studios . Read more
+
+### Xbox lay off 268 people as Activision take over Halo and Rare, while Obsidian become part of Bethesda, plus Forza and Fable studios merge
+Tue, 22 Sep 2026 14:53:12 +0000 — https://www.rockpapershotgun.com/xbox-lay-off-268-people-as-activision-take-over-halo-and-rare-while-obsidian-become-part-of-bethesda-plus-forza-and-fable-studios-merge
+
+Well, there you go . Xbox have enacted a second round of layoffs and internal upheaval this year, following July's initial shooting of 1600 staff into the sun and parting ways with multiple studios. This time, 268 staff have been let go, while a bunch of studios still under the Xbox umbrella have been folded into or underneath each other. Meanwhile, the Halo series has been handed to Activision. Read more
+
+### I taught an old man new tunes in rhythm-action shopkeeper sim Mr. Records, and now you can try the demo yourself
+Tue, 22 Sep 2026 13:01:39 +0000 — https://www.rockpapershotgun.com/i-taught-an-old-man-new-tunes-in-rhythm-action-shopkeeper-sim-mr-records-and-now-you-can-try-the-demo-yourself
+
+One of the bright spots of a miserably grey Summer Game Fest 2026 was Mr. Records, a mashup of rhythm-action autorunner and casual vinyl shop management by music game specialists Glee-Cheese Studio. I&rsquo;ve since played a demo &ndash; which you can now try yourself on Steam &ndash; and was pleased by the apparent confirmation that it can induce that head-nodding, foot-tapping thing that rhythm games should. Big fan, usually, of games that force me into involuntary body movements. Read more
+
+### Bungie decide their destiny is to do more Destiny after all, pledging to bring back vaulted Destiny 2 campaigns while declaring that Marathon "needs to evolve"
+Tue, 22 Sep 2026 10:58:45 +0000 — https://www.rockpapershotgun.com/bungie-decide-their-destiny-is-to-do-more-destiny-after-all-pledging-to-bring-back-vaulted-destiny-2-campaigns-while-declaring-that-marathon-needs-to-evolve
+
+Not long after announcing changes to how they'll handle majorly updating Marathon going forwards, Bungie have reversed course on their decision to stop developing Destiny 2 - a move they followed with layoffs . Promising to bring back vaulted bits of Destiny 2 and declaring that the series is "foundational" to their future. A future which they've kicked off with a lot of grovelling for forgiveness. Read more
+
+### Xbox reportedly set to lay off hundreds more staff and "consolidate" several game studios in second round of major cuts this year
+Tue, 22 Sep 2026 09:34:07 +0000 — https://www.rockpapershotgun.com/xbox-reportedly-set-to-lay-off-hundreds-more-staff-and-consolidate-several-game-studios-in-second-round-of-major-cuts-this-year
+
+After laying off around 1600 people and parting ways with a number of studios back in July, Microsoft-owned Xbox are reportedly set for another round of job cuts and internal upheaval this week. Read more
 
 ### Nighthawks review – a series of vignettes that sometimes excel but more often falter
 Tue, 22 Sep 2026 08:33:05 +0000 — https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter
@@ -470,19 +519,4 @@ Hideo Koijima and his studio Kojima Productions have offered a more in-depth ver
 Mon, 21 Sep 2026 12:53:27 +0000 — https://www.rockpapershotgun.com/the-steam-frames-first-post-launch-update-speeds-up-charging-and-ungarbles-a-mic-bug
 
 Having launched though the same system of reservations and waitlists as the Steam Machine , the Steam Frame is still navigating that inscrutable void betixt "on sale" and "actually out." Nevertheless, it&rsquo;s had its first software update, SteamOS 0.3.0 , which brings &ndash; among other technical tidbits &ndash; a microphone bug fix, smoother controller tracking, and "substantially faster" charging to the VR headset. Yeah, nice one Valve. Would have been useful to have that last one when reviewing the thing on a deadline but whatever . Read more
-
-### This week in PC games: Control: Resonant, Silent Hill: Townfall, and the history of Western philosophy as a pinball table
-Mon, 21 Sep 2026 11:18:36 +0000 — https://www.rockpapershotgun.com/this-week-in-pc-games-control-resonant-silent-hill-townfall-and-the-history-of-western-philosophy-as-a-pinball-table
-
-Hello all! Welcome to another week of feeding the Maw, the gluttonous cosmic sinkhole we must keep topped up with videogame news, lest it expand and masticate the entire universe. We're up against it this week, because no less than two RPS writers are taking holiday, leaving the Maw's thousand-ton dumbwaiters and condiment howitzers dangerously understaffed. Senior staff writer Mark is off on Friday - I can already hear the lamentation of various spouses in his on-going game of Crusader Kings 3 . Even worse, Edwin, our breathtakingly insightful and ruggedly handsome news editor, is away from Wednesday (note to self: set this article's author field to anonymous, before publishing). Read more
-
-### Ahead of GTA 6, Rockstar warn modders against making unofficial main story expansions, unauthorised ports and mods that combine GTA maps
-Mon, 21 Sep 2026 10:46:53 +0000 — https://www.rockpapershotgun.com/ahead-of-gta-6-rockstar-warn-modders-against-against-making-unofficial-main-story-expansions-unauthorised-ports-and-mods-that-combine-gta-maps
-
-There still might not yet be a release date for GTA 6 's PC port, but Rockstar appear to be preparing for the massive uptick in mods for their games that'll inevitably accompany it. In new modding guidelines posted this month, the studio have expressly warned against a bunch of things modders could do, including building on established storylines from the base game, pulling over bits of older GTAs, and porting the game to platforms it's not hit yet. Read more
-
-### Silent Hill: Townfall review - an often inspired, if slightly lumbering trek into the fog
-Mon, 21 Sep 2026 08:26:38 +0000 — https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog
-
-Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebrating local culture. I'm still in two minds about whether this licensing outreach project, begun with Silent Hill f , is more inspired than it is vampiric. I picture Konami's invitation being pushed under the door of potential collaborators like Mary's letter to James in Silent Hill 2: "in our restless dreams, we see that town... let's touch base there sometime, expand our concepts further ." There's opportunity and peril for any studio who answers the letter: opportunity, because Silent Hill is an uncommonly rich way of thinking about the past, with its parallel realities, monster metaphors, and woozy grounding in both mysticism and psychoanalysis. And peril, because licenses have a way of engulfing licensees, forcing them into a straitjacket of tropes: fog, sirens, antagonists with geometric heads. Thankfully, Silent Hill: Townfall 's creators Screen Burn (previously No Code) haven't gotten lost in the murk, though I don't think Townfall is their finest creation, not least because it's overreliant on stealth. Like the makers of Silent Hill f, they've taken what they need from Silent Hill to tell a story of their own. Read more
 

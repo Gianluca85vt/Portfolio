@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-22T09:28:30.464Z
+# Source feeds — harvested 2026-09-22T15:10:18.780Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -15,8 +15,6 @@ Already aired, so a round-up rather than a preview:
 
 - GamesIndustry.biz — Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion
 - Game Developer — gamescom
-- Game Developer — Tokyo Game Show (TGS)
-- PC Gamer — PC Gaming Show Toyko Direct 2026 picks
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -26,10 +24,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 29 articles have gone out since the last one.
+**Write Manga and anime next.** 30 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 29 articles since the last one; quota is one in 6. 4 in the archive of 172.
-- **Film & TV** — on track. 4 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 172.
+- **Manga and anime** — BROKEN. 30 articles since the last one; quota is one in 6. 4 in the archive of 173.
+- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 173.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -38,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 25 items
-- [Games](games.md) — 96 items
-- [Tech](tech.md) — 82 items
+- [Manga](manga.md) **owed** — 24 items
+- [Games](games.md) — 102 items
+- [Tech](tech.md) — 81 items
 - [3D](3d.md) — 13 items
-- [AI](ai.md) — 8 items
-- [Film & TV](film-tv.md) — 65 items
+- [AI](ai.md) — 9 items
+- [Film & TV](film-tv.md) — 66 items
 
-Total: 289 items.
+Total: 295 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
