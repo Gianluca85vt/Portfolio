@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1C4F8B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="170" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FB6D4" letter-spacing="6">ROCKSTAR MODDING GUIDELINES</text>
+  <text x="90" y="310" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">No ports.</text>
+  <text x="90" y="440" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">No cross-game</text>
+  <text x="90" y="570" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">assets.</text>
+  <text x="90" y="680" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#C9D8EA">21 September 2026 — GTA VI ships 19 November</text>
+</svg>
