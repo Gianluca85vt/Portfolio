@@ -40,6 +40,11 @@ military roleplay.
 
 ## What a GTA mod is made of
 
+<figure>
+  <img src="/img/blog/gta-6-modding-rules-cross-game-assets/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Grand Theft Auto V, via the official Steam store page (Rockstar Games)</figcaption>
+</figure>
+
 The distinction that matters to anyone who builds these things is not legal. It
 is where the geometry came from.
 
