@@ -4,7 +4,6 @@ date: 2026-09-22
 category: Tech
 excerpt: A Pi 5 compares its fitted memory against a record burned into the chip and stops the boot on a mismatch. The check shipped in 2024. DRAM prices made it news.
 cover: /img/blog/raspberry-pi-5-ram-lock-otp-firmware/shot-01.jpg
-draft: true
 ---
 
 Somebody desoldered the memory package off a Raspberry Pi 5, put a 16GB one in
