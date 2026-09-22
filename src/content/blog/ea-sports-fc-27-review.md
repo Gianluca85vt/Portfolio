@@ -19,7 +19,6 @@ scoreSources:
     score: 7
   - outlet: Eurogamer.de
     score: 6
-draft: true
 ---
 
 The verdicts started landing on 17 September, a week ahead of the game going
