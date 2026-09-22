@@ -1,0 +1,4 @@
+Raspberry Pi 5 board, via Wikimedia Commons (CC BY-SA 4.0)
+
+- /img/blog/raspberry-pi-5-ram-lock-otp-firmware/shot-01.jpg
+- /img/blog/raspberry-pi-5-ram-lock-otp-firmware/shot-02.jpg

@@ -17,6 +17,11 @@ company's forum, was that this is deliberate and has been for a while.
 
 ## What the bootloader is doing
 
+<figure>
+  <img src="/img/blog/raspberry-pi-5-ram-lock-otp-firmware/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Raspberry Pi 5 board, via Wikimedia Commons (CC BY-SA 4.0)</figcaption>
+</figure>
+
 A Pi 5's RAM is a soldered LPDDR4X package. There is no slot, no SPD chip to
 read, nothing you can swap with a screwdriver — changing it means hot air and a
 steady hand.
