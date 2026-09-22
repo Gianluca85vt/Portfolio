@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-21T20:36:27.886Z
+# Manga — harvested 2026-09-22T09:28:30.464Z
 
 ## Anime News Network
 
-### KAIJU GIRL CARAMELISE ‒ Episode 12
-Mon, 21 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/review/kaiju-girl-caramelise/episode-12/.242034
+### Kojima Productions Issues Statement Amid Speculation on Physint's Publisher Change
+Mon, 21 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-21/kojima-productions-issues-statement-amid-speculation-on-physint-publisher-change/.242041
 
-Finding love as a kaiju girl is one thing. Holding onto love as a kaiju girl is another.
+Kojima Productions: “None of the claims written came from any official or on-the-record source and as such we encourage you to take them with a dose of scepticism.”
 
-### Saint Seiya: Dark Wing, Garagarapom Manga Both End in November
-Mon, 21 Sep 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/saint-seiya-dark-wing-garagarapom-manga-both-end-in-november/.242061
+### Star Detective Precure! Joins Street Fighter 6 in 4-Part Collaboration
+Mon, 21 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-21/star-detective-precure-joins-street-fighter-6-in-4-part-collaboration/.242044
 
-Both end in <cite>Champion Red's</cite> January issue on November 19
+Street Fighters, are you ready to take on the toughest challenge ever?
 
-### French Publisher Kana's Founder Yves Schlirf Dies
-Mon, 21 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/french-publisher-kana-founder-yves-schlirf-dies/.242018
+### New Ahare! Meisaku-kun Anime Gets More Episodes Next January
+Mon, 21 Sep 2026 22:26:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/new-ahare-meisaku-kun-anime-gets-more-episodes-next-january/.242070
 
-Schlirf founded Kana in 1996, known for publishing <cite>Naruto</cite>, <cite>Yu Yu Hakusho</cite>, <cite>Saint Seiya</cite>, <cite>Monster</cite>, more in French
+Most recent season in comedy about school for fictional characters debuted on July 5
 
-### Is It Wrong to Try to Pick Up Girls in a Dungeon? Novels Get New Manga
-Mon, 21 Sep 2026 15:30:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-novels-get-new-manga/.242062
+### Netflix's Live-Action Quiztopia Series Unveils More Cast, December 17 Debut
+Mon, 21 Sep 2026 22:14:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/netflix-live-action-quiztopia-series-unveils-more-cast-december-17-debut/.242067
 
-tawaketch debuts "Deep Floors" arc manga on October 2
+Masahiro Takashima, Eiko Koike, Riko Ishida, more join Takayuki Yamada in dystopian drama
 
-### The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 3 ‒ Episode 36
-Mon, 21 Sep 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/the-100-girlfriends-who-really-really-really-really-really-love-you-season-3/episode-36/.242037
+### Akira Failing in Love Manga Tops 1 Million in Circulation Globally
+Mon, 21 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/akira-failing-in-love-manga-tops-1-million-in-circulation-globally/.241837
 
-If Rentaro's fantasy of being looooong enough to let all the girls lie on his lap doesn't count as a finale-level event, I don't know what else will.
+Love comedy manga launched in 2024
 
-### K Manga Adds No-Clipping My Way to Supremacy Manga
-Mon, 21 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/k-manga-adds-no-clipping-my-way-to-supremacy-manga/.242026
+### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 22
+Mon, 21 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-22/.241996
 
-Hata launched manga adaptation in July 2022
+The meeting turns the structure into an impromptu courtroom drama of sorts, laying out the stakes and potential consequences.
 
-### Comikey Adds Tea Princes, Moon Child, More Manga
-Mon, 21 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/comikey-adds-tea-princes-moon-child-more-manga/.242028
+### Writer Tadashi Agi, Artist Jun Nakanishi's Foodies Manga Ends
+Mon, 21 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/writer-tadashi-agi-artist-jun-nakanishi-foodies-manga-ends/.242040
 
-Also: <cite>VTuber Shigemi Kusamura: I'm my Oshi's Favorite</cite>, <cite>Trapped as the Villain in My Favorite Dating SIM: But I Know How to Win over All the Heroines!</cite>
+Manga about "foodie hunters" launched in August 2025
 
-### Sanrio Kawaii Me Live! Rhythm Game Launches for Smartphones in January 2027
-Mon, 21 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/sanrio-kawaii-me-live-rhythm-game-launches-for-smartphones-in-january-2027/.242053
+### Sparks of Tomorrow ‒ Episode 12
+Mon, 21 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-12/.242029
 
-Concept promotional video streamed for Sanrio Games' 1st smartphone game
+This episode, and <i>Sparks of Tomorrow</i> at large, is such a misfire on nearly every level and I cannot wait for it to be over soon.
 
-### Suikoden II Game Gets Stage Play in July 2027
-Mon, 21 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/suikoden-ii-game-gets-stage-play-in-july-2027/.242047
+### Shūichi Shigeno's Subaru and Subaru Manga Goes on Break Until October 26
+Mon, 21 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/shuichi-shigeno-subaru-and-subaru-manga-goes-on-break-until-october-26/.242035
 
-Sequel stage play runs in Tokyo on July 3-19, Osaka on July 24-25
+Manga launched in July 2025
 
-### Grand Blue Dreaming Anime Gets 4th Season
-Mon, 21 Sep 2026 11:43:25 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/grand-blue-dreaming-anime-gets-4th-season/.242050
+### Draw This, Then Die! ‒ Episode 11
+Mon, 21 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-11/.242033
 
-3rd season concluded on Monday
+This is hands down my favorite show of the season, but this episode is a little disappointing.
 
-### Castlevania: Belmont's Curse Took Me on a Trip to My Early Childhood Video Gaming
-Mon, 21 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/castlevania-belmont-curse-took-me-on-a-trip-to-my-early-childhood-video-gaming/.242038
+### Persona 4 Revival Game Adds Aika Nakamura as New Social Link Character
+Mon, 21 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/persona-4-revival-game-adds-aika-nakamura-as-new-social-link-character/.242056
 
-Traumatic "Nintendo Hard" flashbacks included.
+Aika originally appeared in <cite>Persona 4</cite> anime
 
-### 1st 2 Lufia SNES RPGs Get Collection in 2027
-Mon, 21 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/1st-2-lufia-snes-rpgs-get-collection-in-2027/.242046
+### 'Luca, the Dragon Vet' Manga Ends in 8th Volume
+Mon, 21 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/luca-the-dragon-vet-manga-ends-in-8th-volume/.242027
 
-<cite>Lufia 1 and 2 The Sinistrals Saga</cite> includes 1993 original, 1995 prequel
+Yūna Hirasawa launched manga in 2022
 
 ## Crunchyroll News
 
@@ -108,16 +108,6 @@ Sun, 20 Sep 2026 11:06:29 GMT — https://animecorner.me/ram-fights-lye-in-rezer
 
 Re:ZERO Season 4 has revealed the Episode 18 (Episode 84 overall) preview ahead of its September 23 2026 premiere.
 
-### Magic Knight Rayearth 2026 Unveils New Trailer Featuring Theme Songs, Additional Cast
-Sun, 20 Sep 2026 05:27:31 GMT — https://animecorner.me/magic-knight-rayearth-2026-unveils-new-trailer-featuring-theme-songs-additional-cast/
-
-The upcoming Magic Knight Rayearth anime remake unveiled a new trailer that features the&hellip;
-
-### Roshidere Season 2 Reveals Teaser Trailer
-Sun, 20 Sep 2026 03:59:42 GMT — https://animecorner.me/roshidere-season-2-reveals-teaser-trailer/
-
-Alya Sometimes Hides Her Feelings in Russian (Roshidere) Season 2 revealed a teaser trailer on Sunday.&hellip;
-
 ## MyAnimeList News
 
 ### Grand Blue Fourth Season in Production
@@ -128,27 +118,12 @@ The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3)
 ### Kekkaishi no Ichirinka Unveils Additional Cast, Second Teaser Promo
 Sun, 20 Sep 2026 20:21:01 -0700 — https://myanimelist.net/news/74741587?_location=rss
 
-The official website for the television anime adaptation of Kureha s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Kagurabachi) Miyabi:...
+The official website for the television anime adaptation of Kureha s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Onmyou Kaiten Re:Birt...
 
 ### Futsutsuka na Akujo dewa Gozaimasu ga Second Part Announced for Winter 2027
 Sun, 20 Sep 2026 08:44:02 -0700 — https://myanimelist.net/news/74739206?_location=rss
 
 The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajimete no Gaiyuu-hen, will premiere in January 2027. The official website also revealed three additional cast members and a key visual (pictured). Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no Frieren) Produced by Doga Kobo, t...
-
-### Tensei Goblin dakedo Shitsumon Aru? Announces Supporting Cast
-Sun, 20 Sep 2026 01:43:55 -0700 — https://myanimelist.net/news/74738383?_location=rss
-
-The official website for the television anime adaptation of Nazuna Miki s Tensei Goblin dakedo Shitsumon Aru? (So What s Wrong with Getting Reborn as a Goblin?) manga announced supporting cast on Sunday. The anime series is scheduled to premiere on October 5 at 10.00 p.m. on Tokyo MX, followed by broadcasts on BS11, Sun TV, and AT-X. Cast Sandaime Hanzou: Junko Takeuchi (Haigakura) Nanadaime Hanzou: Mariya Ise (Made in Abyss) Rokudaime Masamune: Rin Mizuki (Tomodachi no Imouto ga Ore...
-
-### New Magic Knight Rayearth TV Anime Unveils Additional Cast, Theme Songs, Second Promo, 2 Consecutive Cours
-Sat, 19 Sep 2026 22:08:35 -0700 — https://myanimelist.net/news/74738043?_location=rss
-
-The stage event for the new television anime adaptation of CLAMP s Magic Knight Rayearth at the Kyoto International Manga Anime Fair 2026 unveiled additional cast, the theme songs, and a second promotional video on Sunday. The new anime series will run for two consecutive cours beginning on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" programming block. Cast Alcyone: Mamiko Noto (Kimi ni Todoke) Ascot: Ayumu Murase (Chainsaw Man) Caldina: Hitomi Ueda (Kekkon Yubiwa...
-
-### Winners of Next Manga Award 2026 Announced
-Sat, 19 Sep 2026 14:29:52 -0700 — https://myanimelist.net/news/74737075?_location=rss
-
-The winners of Kadokawa s annual Next Manga Award were announced on Wednesday. The awards ceremony was streamed on Niconico on the same day. Out of the 7,952 titles that were submitted for the award, 100 titles (40 print manga, 60 web manga) were nominated by a special commitee for the final round of voting. A total of 382,581 votes were cast by fans this year. Print Manga &ensp;1. Someone Hertz &ensp;2. Futari Bus &ensp;3. Register! &ensp;4. Parashoppers &ensp;5. Silver Mountain &ensp;6. M...
 
 ## Otaku USA
 
@@ -156,13 +131,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Fruit of the Underworld Volume 2 Review
+Tue, 22 Sep 2026 09:00:34 +0000 — https://animeuknews.net/2026/09/fruit-of-the-underworld-volume-2-review/
+
+Seiji has successfully made it down to the underworld, but there are all kinds of horrors standing between him and rescuing best friend Haru! Including the mighty Cerberus and the revival of the King of the Underworld...
+
 ### From Our TBR Pile… September 2026
 Mon, 21 Sep 2026 09:00:31 +0000 — https://animeuknews.net/2026/09/from-our-tbr-pile-september-2026/
 
 Our reviewers catch up with the latest volumes of The God-Slaying Demon King, Welcome to Demon School! Iruma-kun and other fan favourites…
-
-### The Devil’s in the Lunch Deals Volume 1 Review
-Sun, 20 Sep 2026 09:00:10 +0000 — https://animeuknews.net/2026/09/the-devils-in-the-lunch-deals-volume-1-review/
-
-Every day Lainey sells her delicious box lunches in the plaza; who would guess that she was once a terrifying goddess, now punished for her past crimes to live as a human?
 

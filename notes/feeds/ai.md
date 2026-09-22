@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-21T20:36:27.886Z
+# AI — harvested 2026-09-22T09:28:30.464Z
 
 ## OpenAI
 
@@ -28,6 +28,9 @@ Mon, 21 Sep 2026 00:00:00 GMT — https://openai.com/index/v7
 Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
 
 ## Hugging Face
+
+### Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
+Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/omlx
 
 ### Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
 Mon, 21 Sep 2026 13:44:34 GMT — https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an

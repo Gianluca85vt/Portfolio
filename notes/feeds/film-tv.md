@@ -1,58 +1,83 @@
-# Film & TV — harvested 2026-09-21T20:36:27.886Z
+# Film & TV — harvested 2026-09-22T09:28:30.464Z
 
 ## Variety
 
-### Rob Bonta, Facing Skeptics, Defends Very Strong Paramount Deal
-Mon, 21 Sep 2026 19:37:46 +0000 — https://variety.com/2026/film/news/rob-bonta-defends-paramount-settlement-1236871365/
+### ‘Tango Metal’ Kickstarts Partnership Between Finland s Helsinki-filmi and Iceland s Glassriver (EXCLUSIVE)
+Tue, 22 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/glassriver-helsinki-filmi-tango-metal-1236871418/
 
-Rob Bonta defended the antitrust settlement that allows Paramount to merge with Warner Bros. on Monday, saying in a 45-minute press conference that the deal includes independent monitoring and will result in more jobs in Hollywood. But the deal does not include the three words robust structural remedies that California s attorney general had [ ]
+In a move mirroring European indie producers’ look out for strong partners in an unstable market, Helsinki-filmi (“Tom of Finland,“ “The Summer Book,” “Codename: Annika”), one of the biggest content creators in Finland, and Glassriver (“As Long as I Live,” Black Sands”), one of the leading players in Iceland, have come together to co-produce a [ ]
 
-### Paramount-Warner Bros. Settlement: What the Guilds, AGs and Activists Are Saying
-Mon, 21 Sep 2026 19:06:02 +0000 — https://variety.com/2026/film/news/paramount-warner-bros-settlement-response-guilds-stars-1236871358/
+### U.K. s National Film and TV School and Sean Connery Foundation to Establish Permanent Base in Edinburgh (EXCLUSIVE)
+Tue, 22 Sep 2026 09:00:00 +0000 — https://variety.com/2026/film/global/nfts-sean-connery-foundation-institute-edinburgh-1236871570/
 
-After almost a year in the trenches pulling together his historic combination of Paramount Skydance and Warner Bros. Discovery, David Ellison has finally emerged victorious. On Monday, the Silicon Valley heir confirmed he d reached a settlement with a group of state attorneys general, who sued to block the merger over antitrust concerns. The proposed merger [ ]
+The U.K. s renowned National Film and Television School (NFTS) has partnered with the Sean Connery Foundation to establish a new Scottish filmmaking center in Edinburgh. The NFTS Sean Connery Institute, which will launch in 2027, will bring together and expand the NFTS work in Scotland under one banner, with a mission to discover and develop [ ]
 
-### WGA Settles Antitrust Lawsuit With Paramount Over Warner Bros. Discovery Merger
-Mon, 21 Sep 2026 18:17:44 +0000 — https://variety.com/2026/film/news/wga-settles-lawsuit-paramount-skydance-warner-bros-merger-1236871354/
+### Oscars: Egypt Selects Abu Bakr Shawky s The Stories for International Feature Race
+Tue, 22 Sep 2026 08:53:33 +0000 — https://variety.com/2026/film/awards/oscars-egypt-abu-bakr-shawky-the-stories-intl-feature-1236871790/
 
-The Writers Guild of America East and Writers Guild of America West, jointly the WGA, have settled their lawsuit to block the proposed merger of Paramount Skydance and Warner Bros. Discovery per a statement released by the organization Monday. The settlement comes following the news that Paramount has reached a deal with 12 state attorneys [ ]
+Abu Bakr Shawky s drama The Stories — which is inspired by how the director s Egyptian father and Austrian mother began their love affair as pen pals — has been selected as Egypt s entry for the Academy Award for best international feature film. When Shawky s father Ahmed was an aspiring pianist in Cairo in 1967, he [ ]
 
-### David Ellison Says Paramount Hopes to Close Warner Bros. Deal in Approximately Two Weeks in Staff Memo
-Mon, 21 Sep 2026 18:06:02 +0000 — https://variety.com/2026/film/news/david-ellison-paramount-warner-deal-staff-memo-1236871327/
+### Apple Reveals Apple Music Hall, a New Live Venue in London
+Tue, 22 Sep 2026 08:37:58 +0000 — https://variety.com/2026/music/global/apple-music-hall-live-venue-london-1236871803/
 
-David Ellison s endgame is in sight. Following a dramatic weekend of negotiations with a collection of state attorneys general and the WGA, the mogul s path to combining Paramount Skydance and Warner Bros. Discovery is now clear. In a Monday address to staff, Ellison said his team s goal is to close in approximately two weeks. That [ ]
+Apple is bringing a new live music venue to London. Located in Battersea Power Station, Apple Music Hall is a state-of-the-art venue designed to connect artists and fans through bespoke, intimate performances unlike anywhere else, Apple said in its announcement on Tuesday. “Apple’s deep love for music dates all the way back to the very [ ]
 
-### Neil Jordan on Restoring Interview With the Vampire for 4K and Why the Film Didn t Have Jump Scares
-Mon, 21 Sep 2026 17:58:00 +0000 — https://variety.com/2026/film/news/neil-jordan-interview-with-the-vampire-4k-1236864223/
+### Juliet Stevenson, Olivia Williams Join Tim Crouch s An Oak Tree at the Other Palace (EXCLUSIVE)
+Tue, 22 Sep 2026 08:30:00 +0000 — https://variety.com/2026/theater/news/juliet-stevenson-olivia-williams-tim-crouch-an-oak-tree-1236871011/
 
-Thirty-plus years after its original release, Neil Jordan’s Brad Pitt and Tom Cruise starring gothic vampire movie “Interview with the Vampire” is available in 4K and on 4K UHD Blu-ray. The bonus features include never-before-seen deleted scenes, as well as two special features: “Eternal Night and Deadly Light,” where Jordan and film editor Mick Audsley [ ]
+Francesca Moody Productions has unveiled further casting for Tim Crouch s An Oak Tree, adding Juliet Stevenson, Olivia Williams, Sean Gilder, Brian Gleeson, Sophie Melville, Rhashan Stone and Ria Zmitrowicz to the roster of guest artists appearing opposite Crouch during the show s run at The Other Palace from Oct. 7-Nov. 15. An Oak Tree hinges on [ ]
 
-### What s in the Paramount Settlement With States: Commitment to Not Sell Studio Lots, Additional $300M Yearly Investment in U.S. Film Production, CNN Oversight and More
-Mon, 21 Sep 2026 17:36:36 +0000 — https://variety.com/2026/film/news/paramount-states-settlement-terms-warner-bros-1236871264/
+### Susan Sarandon to Be Honored at Rome Film Festival Sidebar Where The Accompanist Will Bow Internationally (EXCLUSIVE)
+Tue, 22 Sep 2026 08:08:24 +0000 — https://variety.com/2026/film/festivals/susan-sarandon-rome-festival-alice-the-city-the-accompanist-1236871767/
 
-The details of Paramount s deal with 12 states settling their antitrust case paving the way for its takeover of Warner Bros. Discovery, the biggest merger in Hollywood history have been revealed. Among the top-line items: Paramount is agreeing to keep its operations in California and has committed to not sell the Paramount Studios [ ]
+Susan Sarandon will be honored by the Rome Film Festival’s independently run Alice in the City sidebar, which is dedicated to films for children and youth. Sarandon will be attending the Eternal City fest to promote the international launch of “Silicon Valley” star Zach Woods feature film debut The Accompanist, in which she stars; and [ ]
 
-### Taylor Frankie Paul Steps Away From ‘The Secret Lives of Mormon Wives’ After Allegedly Failing Court-Ordered Drug Test, Citing ‘Disgusting’ Bullying From Castmates
-Mon, 21 Sep 2026 17:31:31 +0000 — https://variety.com/2026/tv/news/taylor-frankie-faul-quits-secret-lives-mormon-wives-1236864819/
+### Parvathy Thiruvothu on Playing a Police Officer in Pradhama Drishtiya Kuttakkar and Speaking Out About Misogyny Despite Scrutiny: I Enjoy Watching Patriarchy Fall Apart
+Tue, 22 Sep 2026 08:00:00 +0000 — https://variety.com/2026/film/news/parvathy-thiruvothu-pradhama-drishtiya-kuttakkar-industry-activism-1236870950/
 
-Though Taylor Frankie Paul had just set her return to The Secret Lives of Mormon Wives, she says she has decided to step away from the Hulu reality show after the latest development in her months-long legal scandal with the fathers of her children. In a post on Instagram on Monday, Paul wrote that her [ ]
+Indian actor Parvathy Thiruvothu has spent two decades fighting the system from outside it – both on screen and off. In Pradhama Drishtiya Kuttakkar ( Prima Facie Guilty ), the Shahad Nilambur-directed thriller now running in theaters, she s finally on the inside, portraying a police officer for the first time in a Malayalam film. But the actor [ ]
 
-### SCAD Savannah Film Festival to Open With A Talent for Murder and Legend of Entertainment Honor for Helen Mirren
-Mon, 21 Sep 2026 17:00:00 +0000 — https://variety.com/2026/film/awards/helen-mirren-scad-film-festival-talent-for-murder-1236871208/
+### Banijay to Launch Dating Reality Format Date Knight at Mipcom (EXCLUSIVE)
+Tue, 22 Sep 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/banijay-date-knight-mipcom-1236871449/
 
-The SCAD Savannah Film Festival will open its 29th edition with the Anton Corbijn thriller “A Talent for Murder” and will honor Helen Mirren with its Legend of Entertainment Award. The nation s largest university-led film festival and one of the biggest of any kind in the Southeast will kick off Saturday, Oct. 24, with the [ ]
+Media and entertainment group Banijay Entertainment has unveiled a new dating reality format Date Knight, which will join its portfolio of new IP heading to TV market Mipcom. The show is produced by Nordisk Film TV, part of Banijay Nordic, for Danish public broadcaster DR. Date Knight invites singles to step into a spectacular romantasy [ ]
 
-### Anne Hathaway to Campaign in Supporting Actress for Christopher Nolan s The Odyssey (EXCLUSIVE)
-Mon, 21 Sep 2026 16:45:00 +0000 — https://variety.com/2026/film/awards/anne-hathaway-the-odyssey-supporting-actress-oscars-campaign-1236867058/
+### Japan Pitch Heads to Busan Film Festival With Four Co-Production Projects (EXCLUSIVE)
+Tue, 22 Sep 2026 06:51:19 +0000 — https://variety.com/2026/film/markets-festivals/japan-pitch-busan-film-festival-1236871781/
 
-Support the Queen of Ithaca! Universal Pictures will campaign Anne Hathaway in the supporting actress category for her turn as Penelope in Christopher Nolan s billion-dollar sensation “The Odyssey,” confirmed by representatives to Variety exclusively. The decision puts one of the season s marquee names near the top of the supporting actress conversation, settling a question awards [ ]
+Atmovie Inc. will stage Japan Pitch at the 31st Busan International Film Festival, giving four filmmakers from its Atmovie Global Track accelerator a platform to pitch original feature projects to international buyers and producers. Atmovie Global Track, backed by the Japan Creator Support Fund through the Japan Arts Council, was set up to help Japanese [ ]
 
-### Warner Chappell Co-Chair/COO Carianne Marshall to Step Down From Post
-Mon, 21 Sep 2026 16:44:06 +0000 — https://variety.com/2026/music/news/warner-chappell-carianne-marshall-step-down-1236871254/
+### Rima Das, Shan Zuolong, Shim Eun-kyung Named to Busan s New Currents Jury
+Tue, 22 Sep 2026 06:20:51 +0000 — https://variety.com/2026/film/festivals/rima-das-shan-zuolong-shim-eun-kyung-busan-new-currents-jury-1236871769/
 
-Warner Music Group has announced that Carianne Marshall will transition out of her role as co-chair and chief operating officer of Warner Chappell Music, the company’s publishing division, at the end of this month, “as the company streamlines its leadership structure,” the announcement reads. WCM CEO Guy Moot will become the sole chair of WCM, [ ]
+The 31st Busan International Film Festival (BIFF) has confirmed Indian director Rima Das, Chinese producer Shan Zuolong and Korean actor Shim Eun-kyung as the three jurors for its New Currents Award, a prize that has served as a launchpad for emerging Asian directors. Debut feature films screening in BIFF s Competition or Vision sections are eligible [ ]
 
 ## The Hollywood Reporter
+
+### Elliot Graham, Oscar-Nominated Film Editor on ‘Milk,’ Dies at 50
+Tue, 22 Sep 2026 03:12:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elliot-graham-dead-film-editor-milk-1236707303/
+
+He also worked on the films 'Steve Jobs,' 'Captain Marvel' and 'No Time to Die.'
+
+### Clavicular Charged With Rape, Drugging Person for Sex in Massachusetts
+Tue, 22 Sep 2026 02:44:07 +0000 — https://www.hollywoodreporter.com/news/general-news/clavicular-charged-rape-drugging-massachusetts-1236707312/
+
+His rep wrote in response, "Clavicular has not been physically served. As usual, the 'Bulwark' is exaggerating the status of a case to boost traffic."
+
+### David Ellison: Me, Move? I Love L.A.
+Mon, 21 Sep 2026 22:17:11 +0000 — https://www.hollywoodreporter.com/business/business-news/david-ellison-me-move-i-love-l-a-1236707241/
+
+After insinuations that he was serious about relocating Paramount from its century-old home if the states' lawsuit proceeded, the mogul has now changed tune.
+
+### Resident Evil Star Austin Abrams Breaks Down the Risky and Gutsy Ending
+Mon, 21 Sep 2026 21:06:28 +0000 — https://www.hollywoodreporter.com/movies/movie-features/resident-evil-austin-abrams-breaks-down-ending-1236707140/
+
+"I was surprised by it, but I also loved that he would take that chance," says Abrams of filmmaker Zach Cregger's conclusion to the hit video game adaptation.
+
+### CNN and CBS News Will Soon Have An Editorial Independence Board. Here s What That Means
+Mon, 21 Sep 2026 20:51:55 +0000 — https://www.hollywoodreporter.com/business/business-news/new-cnn-cbs-news-editorial-indepedence-board-who-what-why-1236707168/
+
+As part of the settlement between Paramount and the state AGs, the news organizations will have a board of journalists monitoring their work, and disputes with management.
 
 ### Daredevil: Born Again to End With Season 3 (Exclusive)
 Mon, 21 Sep 2026 20:25:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/daredevil-born-again-ending-season-3-showrunner-change-1236705406/
@@ -79,92 +104,67 @@ Mon, 21 Sep 2026 18:40:14 +0000 — https://www.hollywoodreporter.com/news/gener
 
 According to the Los Angeles County Medical Examiner online records, Gerber died Sunday at a "rehabilitation facility."
 
-### That s All? Team Paramount Nabs Warner Bros. With Only Minor Concessions to States
-Mon, 21 Sep 2026 18:24:15 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-warner-bros-states-1236706935/
-
-The $111 billion megadeal can proceed with guardrails on domestic film production, cable channels, news outlets and studio lots in Los Angeles — but not any divestitures of assets unless it fails at commitments.
-
-### Zendaya Rules All, Once Again, in the Emmys Red Carpet Power Rankings
-Mon, 21 Sep 2026 18:18:39 +0000 — https://www.hollywoodreporter.com/lifestyle/style/emmys-2026-zendaya-red-carpet-power-rankings-1236705365/
-
-Nobody could displace the Prada-clad 'Euphoria' star in THR/Launchmentric's analysis of influence on the carpet, which coldly calculates the impact of star-brand collaborations.
-
-### Paramount-Warner Bros. Merger Opponents React With Dismay About Settlement
-Mon, 21 Sep 2026 17:57:34 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-wbd-merger-opponents-react-settlement-1236706944/
-
-The American Economic Liberties Project and the Block the Merger Coalition slammed the transaction, with one calling it “a bad deal for the future of film, entertainment, independent journalism, and a strong democracy in this country.“
-
-### Deal Terms Revealed: Paramount, 12 States Unveil Warner Bros. Settlement Plan
-Mon, 21 Sep 2026 17:51:45 +0000 — https://www.hollywoodreporter.com/business/business-news/whats-in-paramount-antitrust-settlement-cnn-film-california-1236706918/
-
-The settlement clears the way for Paramount and Warners to merge, creating an entertainment colossus.
-
-### Anjanette Comer, Actress in The Loved One and The Appaloosa, Dies at 86
-Mon, 21 Sep 2026 16:57:18 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anjanette-comer-dead-loved-one-appaloosa-baby-1236697962/
-
-She also starred in 'Quick, Before It Melts,' 'Guns for San Sebastian' and 'The Baby' but made a few career missteps along the way.
-
 ## Deadline
 
-### The Final Stretch: California AG Rob Bonta On How Settlement On Paramount-WBD Merger Came Together After Stalemate
-Mon, 21 Sep 2026 20:25:05 +0000 — https://deadline.com/2026/09/paramount-settlement-deal-timeline-1237109472/
+### Piers Morgan To Sue Princess Diana s Brother Over Bulls*** Claims In His Bombshell Memoir: Why Should We Believe Anything In This Book?
+Tue, 22 Sep 2026 08:53:23 +0000 — https://deadline.com/2026/09/piers-morgan-charles-spencer-diana-sue-book-swan-song-1237109893/
 
-Paramount s settlement with the 12 Democratic state attorneys general appeared to be a Yom Kippur affair, with the final signoff coming after sundown on Sunday. California Attorney General Rob Bonta was cagey when asked about the exact timeline for the agreement following his Monday morning press conference announcing the deal but when he was cheekily [ ]
+Piers Morgan is on the warpath over Swan Song, the bombshell memoir from Charles Spencer, brother of the late Princess Diana. Spencer s book has dominated the headlines in the UK for days following his explosive allegation that King Charles III said Diana would soon be forgotten in the aftermath of her death. Morgan drew attention [ ]
 
-### Midnight Madness Revisited: Which TIFF Title Could Become The Next Box-Office Obsession?
-Mon, 21 Sep 2026 20:14:27 +0000 — https://deadline.com/2026/09/midnight-madness-revisited-tiff-next-box-office-obsession-1237105994/
+### Brixton Community Cinema Creator Abiba Coulibaly On Why She Decided To End The Popular London Film Club
+Tue, 22 Sep 2026 08:02:56 +0000 — https://deadline.com/2026/09/brixton-community-cinema-abiba-coulibaly-final-season-1237109180/
 
-Art dies in the boardroom. That was a dark omen I read on a stranger s poster board last week as I walked Festival Street at the 51st Toronto International Film Festival, heading to a Midnight Madness screening while the fate of Hollywood hangs in the balance of a looming merger. The more film festivals I [ ]
+Next month, the Brixton Community Cinema, the roving cinema project that has quickly become one of the UK’s most admired film communities under the stewardship of independent programmer Abiba Coulibaly, will close. Coulibaly announced the cinema’s farewell season in August on Instagram. “The closure of Brixton Community Cinema is not to give up and abandon [ ]
 
-### Paramount-WBD Settlement Sets Up Editorial Independence Board For CNN And CBS News
-Mon, 21 Sep 2026 19:40:58 +0000 — https://deadline.com/2026/09/cnn-cbs-news-editorial-independence-board-1237109434/
+### Muse Entertainment Unveils Doula: A True Crime Trailer As Boat Rocker Studios Boards CBC Doc
+Tue, 22 Sep 2026 04:01:00 +0000 — https://deadline.com/2026/09/doula-true-crime-trailer-boat-rocker-studios-cbc-1237109202/
 
-The potential ownership of CBS News and CNN under one corporate owner has generated months of fear, anxiety and loathing at both networks, but the Paramount-Warner Bros. Discovery settlement tries to resolve some of the issues with the establishment of an editorial independence board. Per the terms of the consent decree, the board will establish [ ]
+EXCLUSIVE: Here s a trailer for Doula – A True Crime, a Canadian doc series from The Walrus and the Whistleblower filmmaker Nathalie Bibeau about a bizarre criminal case of a woman who faked pregnancies. The three-parter, which will premiere on Canadian pubcaster CBC on October 7, looks into the story of Kaitlyn Braun, who aged [ ]
 
-### Presley Gerber Death Being Investigated As Possible Overdose , Cause Deferred Pending Additional Tests
-Mon, 21 Sep 2026 19:26:44 +0000 — https://deadline.com/2026/09/presley-gerber-cause-of-death-investigation-1237109477/
+### Trump TV Promo Uses Clips From The Simpsons, Seinfeld, Friends, The Dark Knight Many More
+Tue, 22 Sep 2026 03:46:44 +0000 — https://deadline.com/2026/09/trump-tv-promo-clips-simpsons-seinfeld-friends-1237109786/
 
-The death of Presley Gerber, the son of Cindy Crawford and Rande Gerber, is being investigated as a possible overdose, according to a statement Monday from the Santa Monica Police Department. Gerber died at a rehab facility in Santa Monica Sunday. The Los Angeles County Medical Examiner s Office said Monday that an autopsy had been [ ]
+Donald Trump has defied copyright complaints from Neil Young, Ariana Grande, Beyoncé and everyone in between for unauthorized use of their music. Today, it posted a promo video for Trump TV that made use of footage from Friends, The Simpsons, Family Guy, Home Alone, Modern Family, Breaking Bad, The Dark Knight, The Office, SpongeBob SquarePants, [ ]
 
-### David Ellison Hopes To Close Paramount-WBD Deal In Approximately Two Weeks As He Hails Legal Settlement In Company Memo
-Mon, 21 Sep 2026 19:19:19 +0000 — https://deadline.com/2026/09/paramount-ceo-david-ellison-settlement-wbd-deal-1237109485/
+### Resident Evil $108.3M WW Opening A Record For Franchise Zach Cregger, Coyote Vs. Acme Nears $100M WW Global Box Office Update
+Tue, 22 Sep 2026 03:00:00 +0000 — https://deadline.com/2026/09/box-office-global-resident-evil-1237108765/
 
-Paramount CEO David Ellison said Monday s settlement of two lawsuits aimed at blocking the company s pending merger with Warner Bros. Discovery represents an exciting moment for our company and our industry. However, he added in a memo to employees, there is still work ahead to get this deal across the finish line. The tentative forecast, [ ]
+UPDATED: TriStar Pictures/Constantin Film/Davis Films Resident Evil rang up a massive $108.3M worldwide, not only the best start the franchise has ever seen, but also Zach Cregger s biggest start as filmmaker surpassing the $70M WW reported opening of last year s Weapons. What was the previous biggest opener in the Resident Evil franchise? We re told it [ ]
 
-### Paramount-Warner Bros Penalty If Merger Fails To Release 30 Pics A Year: Divest Miramax
-Mon, 21 Sep 2026 19:15:34 +0000 — https://deadline.com/2026/09/paramount-warner-bros-merger-miramax-penalty-1237109424/
+### Post-Merger Paramount May Overdeliver On Settlement Terms With 36-Film 2027 Slate Amid Speculation About Duplication WB Leadership
+Tue, 22 Sep 2026 02:17:49 +0000 — https://deadline.com/2026/09/paramount-deal-36-film-movie-slate-1237109549/
 
-One of the settled terms negotiated by the Gang of Four AGs in Paramount’s union of Warner Bros is that if the combined merger doesn’t yield the annual film commitment of 30-plus films, they may have to divest Par sister label Miramax. Such a divestiture would be required if Paramount fails to make up for [ ]
+California Attorney General Rob Bonta can rest easy: A merged Paramount Warner Bros. Discovery would already account for 36 movies on the release schedule for 2027. Note, that s an organic number of theatrical releases which were always set to happen even before the union of the storied studios came together. As for 2028, the combined [ ]
 
-### WGA Gets No Writer Layoffs At CBS News, $17.5M For Health Fund As Guild Confirms Settlement Of Lawsuit Against Paramount-WBD Merger
-Mon, 21 Sep 2026 18:40:41 +0000 — https://deadline.com/2026/09/wga-settlement-lawsuit-paramount-wbd-merger-concessions-1237109441/
+### Oscar Winner Barbara Kopple On ‘Union Town,’ Her Third Towering Film On American Labor – Camden Film Festival
+Tue, 22 Sep 2026 00:50:50 +0000 — https://deadline.com/2026/09/union-town-interview-director-barbara-kopple-1237109699/
 
-The WGA has confirmed that its own lawsuit over the Paramount-Warner Bros. Discovery merger also has been settled, following the same move by the 12 state attorneys general announced Monday morning by California AG Rob Bonta. In a statement, the guild acknowledged that it could not go it alone. We continue to believe the merger [ ]
+Fifty years ago, a young director named Barbara Kopple came out with her first film, a documentary she thought would be little seen. “When I started making the film, I thought, ‘Oh, my parents will see it and their friends and maybe a museum will show it,’” she recalls. That film was Harlan County U.S.A., [ ]
 
-### Roel Reiné To Direct ‘Lunar Colony’; Billed As Sci-Fi Thriller Meets Space Age ‘Romeo Juliet
-Mon, 21 Sep 2026 18:15:27 +0000 — https://deadline.com/2026/09/roel-reine-lunar-colony-space-thriller-meets-romeo-juliet-1237109406/
+### Paramount Settlement Protects Pluto TV, Sets BET Comedy Central As Potential Divesture Targets While Omitting Premium Channels TV Studios
+Tue, 22 Sep 2026 00:27:15 +0000 — https://deadline.com/2026/09/paramount-settlement-pluto-tv-bet-comedy-central-divesture-1237109340/
 
-EXCLUSIVE: Roel Reiné (Halo) has signed to direct sci-fi thriller Lunar Colony, which takes its cue from an imagined future reality in which mankind had colonized the moon. The production brings together Centerboro Productions, Sintered Steel Productions and Convoke Media, which began talking to buyers about the project at TIFF last week. Set in 2060, [ ]
+Here is a concession no one really asked for the settlement of state attorneys generals anti-trust lawsuit over the proposed Paramount-Warner Bros. Discovery merger includes a provision ensuring that Paramount will keep Pluto TV or another free, ad-supported streaming service for the next five years. While Pluto TV is protected, the settlement spells out [ ]
 
-### Taylor Frankie Paul Says She Doesn’t “Desire To Move Forward” With ‘The Secret Lives Of Mormon Wives’
-Mon, 21 Sep 2026 18:09:57 +0000 — https://deadline.com/2026/09/taylor-frankie-paul-quits-the-secret-lives-of-mormon-wives-1237109412/
+### Forgotten Island Review: H.E.R. And Dave Franco Give Life To Gorgeously Animated And Frenetic Toon
+Mon, 21 Sep 2026 23:05:58 +0000 — https://deadline.com/2026/09/forgotten-island-review-h-e-r-and-dave-franco-frentetic-toon-1237109630/
 
-The drama in the world of The Secret Lives of Mormon Wives continues. Taylor Frankie Paul, the embattled star of the Hulu reality series, revealed on social media that she doesn’t “desire to move forward” with the show as relations within the ensemble have seemingly frayed. This comes only a week after it emerged that [ ]
+You have to give points to DreamWorks latest animated feature, Forgotten Island, just simply for being an original from a studio system that rewards familiarity. And it comes from writer/directors Joel Crawford and Januel Mercado who proved with their own sequel, 2022 s Puss In Boots: The Last Wish that you could find clever ways to [ ]
 
-### Read The Proposed Consent Decree To Settle The Paramount-Warner Bros. Discovery Merger
-Mon, 21 Sep 2026 18:03:52 +0000 — https://deadline.com/2026/09/paramount-warner-bros-discovery-consent-decree-1237109397/
+### Top UK YouTubers Launch Alliance Pushing For Better Conditions For Content Creators
+Mon, 21 Sep 2026 23:01:00 +0000 — https://deadline.com/2026/09/youtubers-inc-sidemen-rep-launch-creator-voices-uk-1237107549/
 
-As entertainment figures and politicos weigh in on the settlement of the Paramount-Warner Bros. Discovery merger, the parties submitted details of a consent decree for a judge s approval. Among other things, the five-year decree requires a minimum number of annual film releases and another to spend $300 million more on domestic U.S. film production than [ ]
+Top UK creators have banded together to launch an independent alliance championing their interests. YouTube UK is backing Creator Voices, which consists of The Sidemen’s rep Jordan Schwarzenberger, DamienTalksMoney, Jade Beason, TLDR News, Grace Andrews and Brandon B. The alliance is being unveiled today at a YouTube Festival in London. Creator Voices said its members [ ]
 
-### David Ellison Says We Have Complete Clearance For This Merger After Settlement With State AGs Over Paramount WBD
-Mon, 21 Sep 2026 18:03:11 +0000 — https://deadline.com/2026/09/david-ellison-reaction-paramount-wbd-settlement-state-ags-1237109392/
+### Taylor Swift Set For Inaugural MTV VMA Artist Director Honors
+Mon, 21 Sep 2026 22:21:08 +0000 — https://deadline.com/2026/09/taylor-swift-vma-artist-director-honors-1237109638/
 
-It wasn t quick, it wasn t pretty, but Paramount s David Ellison got to where he wanted, an acquisition of Warner Bros. Discovery by October 1 when a costly ticking fee was to come into effect. While California Attorney General Bonta was still making the announcement of the anti-trust lawsuit being settled, laying out its terms, Ellison, [ ]
+Taylor Swift will have to find space for yet another award. MTV said Monday that the Queen of Pop Present will be the first recipient of its MTV VMA Artist Director Honors, set to be presented Sunday during the 2026 MTV Video Music Awards. The inaugural prize celebrates a sustained and influential body of work [ ]
 
-### Paramount Settlement Terms Laid Out By CA AG Rob Bonta, Who Says Deal Is Not A Blessing Of WBD Merger
-Mon, 21 Sep 2026 17:55:49 +0000 — https://deadline.com/2026/09/paramount-wbd-deal-california-rob-bonta-1237109313/
+### John Oliver Calls Out Soon-To-Be Business Daddy David Ellison Throws Stephen Colbert Under The Bus
+Mon, 21 Sep 2026 22:15:57 +0000 — https://deadline.com/2026/09/john-oliver-business-daddy-david-ellison-stephen-colbert-1237109634/
 
-California Attorney General Rob Bonta has revealed terms of a settlement with Paramount allowing it to acquire Warner Bros. Discovery, stressing that the agreement is not a blessing of the mega-merger. Speaking at a news conference Monday, Bonta detailed a list of items to which Paramount is committed. The list ranges from stepped-up film production [ ]
+John Oliver took a dig at soon-to-be business daddy David Ellison on the latest episode of Last Week Tonight. The comedian is known to take jabs at his business daddies, and amid the Paramount-Warner Bros. merger, Oliver took a swipe at Ellison. While discussing UnitedHealthcare and its denial of insurance claims, Oliver gave an example [ ]
 
 ## befores & afters
 
@@ -183,7 +183,7 @@ Linkin Park's DJ (and now its documentarian) tells IndieWire why his film only l
 ### Watch an Exclusive Look at NYFF World Premiere I Deserve a Lover Whose Every Rise Sets Fiery Dooms Raging Across the Skies
 Mon, 21 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/news/festivals/i-deserve-a-lover-nyff-world-premiere-exclusive-clip-watch-1235217957/
 
-Mani Haghighi's Iranian documentary centers on an art collector whose immense archive of Persian pieces borders on hoarding; it plays NYFF on September 30.
+Mani Haghighi's Iranian documentary centers on an art collector whose immense archive borders on hoarding; it plays NYFF on September 30.
 
 ### Paramount Reaches Settlement to End States’ Lawsuit, Paving Way for Merger with Warner Bros. Discovery
 Mon, 21 Sep 2026 15:38:14 +0000 — https://www.indiewire.com/news/business/paramount-settlement-states-lawsuit-merger-1235217975/
@@ -237,105 +237,105 @@ The offbeat documentary earned $90,000, second only to "Parasite."
 
 ## The Wrap
 
-### Breaking Down the Paramount-Warner Bros. Merger Settlement Analysis
-Mon, 21 Sep 2026 20:14:14 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-state-ag-settlement-analysis/
+### Jimmy Kimmel Roasts Trump and Mamdani’s Friendly Dynamic as the ‘Weirdest Buddy Road Trip Movie’
+Tue, 22 Sep 2026 05:16:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-trump-mamdani-friendly-press-conference/
 
-Did California Attorney General Rob Bonta cave? Paramount seemingly got over its final hurdle to securing the $110 billion acquisition of Warner Bros. Discovery without sacrificing too much. Notably, the company avoided the “structural remedies” that Bonta had initially sought, such as cable channel divestitures or a break-up of the combined company, so long as it complies with the outlined terms. Bonta lauded the settlement, calling it pro-jobs. “This is a court-enforceable settlement that addresses those concerns by providing more film production that protects Hollywood workers and their livelihoods that places guardrails, allowing for robust cable negotiations that protects competition and creates more choice for consumers about what this merger could mean for the industry.” “Our shared aim was an outcome that best serves consumers, workers and — most importantly — the creative community so vital to the art of visual storytelling,” Paramount CEO David Ellison said in a statement. “We re confident this agreement does exactly that, memorializing a series of commitments that include 30+ films annually and expanded U.S. film production to help revitalize our industry here at home.” The speed at which this came likely came as shock to opponents who held out hope that Bonta could resist the pressure. In response to the announcement Block the Merger group blasted it: “This is a bad deal for the future of film, entertainment, independent journalism, and a strong democracy in this 
+Jimmy Kimmel mocked President Donald Trump and New York City Mayor Zohran Mamdani s friendly dynamic, roasting it as the weirdest buddy road trip movie of all time. During Monday s monologue for Jimmy Kimmel Live!, the late night host weighed in on the joint press conference held by the president and the mayor amid their meeting in Queens, in which they discussed affordable housing, infrastructure, public safety and immigration. This afternoon, Trump met for the third time with New York Mayor Mamdani. It was another friendly meeting between the socialist who wants to give everyone $5,000 and the mayor of New York, Kimmel quipped. I have to say, he definitely has a thing for Mamdani. I mean, he may be Islamophobic. At least he s not Islamohomophobic . He is absolutely taken with the mayor. And, as the appearance fell amid Trump s controversial White House ban of Politico, CNN and MS NOW , Kimmel made sure to call out the president s statement defending his decision. Namely, Jimmy Kimmel Live! editors played footage of Trump at the press conference bemoaning the fact he gets only negative media coverage. Yeah. Why aren t these so-called journalists gushing over how well he s mishandling the war he said was over seven months ago? It s just not right, Kimmel sarcastically quipped. Some people are Negative Nellies. That s all. As Kimmel went on, he praised Mamdani for inviting all of the press to the event, highlighting the stark differences between the two leaders. And I have to 
 
-### Freedom of the Press Foundation Slams Worthless CBS-CNN Paramount Settlement Details
-Mon, 21 Sep 2026 20:02:43 +0000 — https://www.thewrap.com/media-platforms/journalism/freedom-of-the-press-foundation-cbs-cnn-paramount-settlement-details-worthless/
+### Elliot Graham, Oscar-Nominated Editor on Milk, Dies at 50
+Tue, 22 Sep 2026 04:28:50 +0000 — https://www.thewrap.com/creative-content/movies/elliot-graham-dies-oscar-nominated-milk-editor/
 
-The Freedom of the Press Foundation is very unhappy with the CNN and CBS editorial board component of the Paramount settlement. On Monday, Paramount and 12 state attorneys general agreed to a settlement that cleared the final hurdle for the $110 billion merger with Warner Bros. Discovery. A component of that settlement was the establishment of an editorial board to monitor CNN and CBS News’ independence, which will include five established active or retired journalists who have practice journalism for a minimum of 10 years. The FPF took immediate issue with the idea of the board. “A Paramount-appointed editorial independence board for CNN and CBS is worthless, FPF Chief of Advocacy Seth Stern said in a statement obtained by TheWrap. The fish rots from the head, and this particular fish is headed by a compromised oligarch with a history of throwing journalists under the bus to advance his business interests. He added: The editorial board creates the same First Amendment problems it’s supposed to solve – the government meddling in the news. It’s unclear how the attorneys general or courts can constitutionally hold Paramount accountable for the board’s actions or inaction without themselves interfering in content. The attorneys general might be fine with censorship when they’re the ones doing it, but what happens when successors with opposing political views inherit enforcement powers? The settlement further stated that no more than two members of the board may be affiliated wit
+Elliot Graham, the Oscar-nominated film editor for 2008 s Milk, died by suicide on Saturday. He was 50. The County of Los Angeles Medical Examiner confirmed Graham s cause and date of death in a new report . Word of his passing was first shared by Milk producer Dan Jinks, who took to Facebook early Monday morning to pay tribute to the veteran editor. The movie MILK wouldn’t have come together in the way it did without the amazing work of our editor Elliot Graham, he wrote. He was nominated for an Oscar for his role. I learned last night that he took his life over the weekend. I have so many thoughts and feelings about this sweet, kind and quirky man. For now, I’ll just say rest in peace Elliot. A representative for Graham did not immediately respond to TheWrap s request for comment. Graham earned critical acclaim for his work on the aforementioned “Milk” biopic, which starred Sean Penn as Harvey Milk, the first openly gay man elected to public office in California. In addition to Graham’s nomination for Best Film Editing, “Milk” was nominated for eight awards in total, winning Best Actor in a Leading Role for Penn and Best Original Screenplay for writer Dustin Lance Black. Graham collaborated again with “Milk” director Gus Van Sant a handful of years later, editing the 2011 romantic film drama “Restless” starring Henry Hopper and Mia Wasikowska. He received critical acclaim in 2022 for his work editing the James Bond film “No Time to Die, ” taking home the Best Editing prize 
 
-### Trump s Press Pool Ban Immediately Backfires With Inaudible White House Event: Hilarious
-Mon, 21 Sep 2026 19:40:11 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-press-pool-ban-boycott-muted-white-house-event-video/
+### ‘The Love Hypothesis’ Review: Charming Amazon Romance Sticks to the Formula
+Tue, 22 Sep 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-love-hypothesis-review/
 
-President Donald Trump’s escalating fight with the White House press corps had an immediate consequence Monday: People could see the president — but they couldn t hear what he was saying. Clips from Trump’s ribbon-cutting ceremony for a newly constructed White House helipad quickly spread across social media, where journalists, commentators and even some of the president’s supporters pointed out that his remarks were largely drowned out. Here is what happens when you don't have the White House TV Pool. You have video of Trump but you can't hear what the President is saying. pic.twitter.com/3EBuj0iTTd &mdash; Jamie Dupree (@jamiedupree) September 21, 2026 Newsmax ran into the same problem while airing footage of the ceremony. “There’s no microphone because the pool cameras aren’t there,” a Newsmax anchor said during the network’s coverage. Another host suggested the standoff was “backfiring just a little bit.” LMFAO Trump is holding an event at the White House right now but there's no audio because the press pool isn't there. The Newsmax host notes that this is an example of Trump's attacks on the press "backfiring just a little bit" pic.twitter.com/dAy1dvDvFL &mdash; Aaron Rupar (@atrupar) September 21, 2026 Trump supporter Nick Sortor also posted video from the event, but acknowledged that the roar of Marine One made the president impossible for him to understand. “Marine One is VERY loud though, so I have NO idea what POTUS is saying,” Sortor wrote. NOW: President Trump is 
+I’m no scientist, but smart people in lab coats think statistics are important, so let’s do some math. Unless you’re one of those weird, lucky freaks who fell completely and healthily in love with the first person you dated on Hinge, the odds of meeting your person these days are slim. I asked a Brainy friend of mine, and he says your chances of finding a long-term romantic partner in the modern dating environment are roughly [ checks notes ] “smurfteen percent.” I know that’s hard to believe, but I trust Brainy. He wears glasses. The good news is I ran some numbers, and according to literally every movie made, there’s a surefire way to find true love. You just have to start with fake love. It’s counterintuitive, but when two people pretend to date, for any reason, there’s a 99.9% chance they’ll live happily ever after. If you don’t believe me, believe the makers of “The Proposal,” “Cactus Flower” and “The Mistletoe Promise.” They would never falsify their research. They’d never do science in this town again. “The Love Hypothesis” is the latest fake-dating romance in a long, long line of fake-dating romances. Lili Reinhart stars as Olive, a Stanford medical student researching pancreatic cancer. (Ahhhh … romance.) Olive is in love with her friend Jeremy (Nicholas Duvernay), but Jeremy is in love with her best friend Anh (Rachel Marsh), and Anh is too loyal to date Olive’s crush. So Olive lies and says she’s moved on and is already seeing somebody. It’s a selfless act that giv
 
-### Melania Trump s Office Credentials a CNN Reporter Despite Presidential White House Ban
-Mon, 21 Sep 2026 19:26:32 +0000 — https://www.thewrap.com/media-platforms/journalism/melania-trump-office-cnn-reporter-credentialed-ban/
+### Jon Stewart Tells Trump to Try ‘Presidenting Better’ Instead of Implementing White House Press Ban
+Tue, 22 Sep 2026 03:51:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-trump-white-house-press-ban/
 
-Donald Trump s ban on CNN seems to already be taking on water. According to CNN s Brian Stelter on Monday, the news organization has already been credentialed to cover one of the First Lady s events at the United Nations just days after the president announced a White House ban on them, MS NOW and Politico. “We’re going to see reporters get creative, Stelter said. That’s what we do sometimes when we have to. We’re going to see reporters try and get credentialed in other ways. I’m told, for example, a CNN reporter has already been approved by the office of the First Lady to cover an event with Melania Trump on the sidelines of the U.N. tomorrow. You can watch Stelter s segment yourself in the video below. Intriguing: I'm told the Office of the First Lady has approved CNN reporter @betsy_klein 's credential to cover an event with Melania Trump on the sidelines of the UN General Assembly tomorrow. pic.twitter.com/pRlzuDKKFb &mdash; Brian Stelter (@brianstelter) September 21, 2026 He added: “I’m expecting more of those sorts of things to happen. There will still be coverage of what the president and first lady are doing, but it’s not going to be through the official pool, because Trump has instituted this ban.” President Donald Trump announced last Friday that he was banning CNN, MS NOW and Politico from the White House “effective immediately,” accusing the three news organizations of reporting “fake news” about him and his administration. “Media Outlets shouldn’t be able to cons
+Jon Stewart laid into Donald Trump’s White House press ban, calling on the president to do “better” at his job after negative media coverage prompted the ousting of CNN, MS NOW and Politico . The comedian addressed the press ban during Monday s monologue for The Daily Show, where he torched Trump for being openly against the Constitution. But first, as many of you have heard, if you ve been following the news, the hottest spot in D.C. has just changed their door policy, Stewart said at the start of his monologue before cutting to news footage recapping the White House press ban. Specifically, The Daily Show played footage of Trump defending his decision to ban CNN, MS NOW and Politico, in which he called the outlets sick for writing purposely negative stories. Have you tried presidenting better? Stewart hit back. You could ban the press or you could be a better f king president. I mean, give the press something to work with. He added: Oh, here s a positive story. I never thought my car could take $140 worth of gas in such a small tank. I had no idea. Hurrah. As Stewart went on, he pondered whether [we ve] ever had a president just flat out in the Oval Office come out against the Constitution. What kind of a sick country doesn t allow unlimited warrantless search and seizure? Stewart quipped. I mean, that s not the North Korea I grew up in. Stewart playfully feigned giving Trump the benefit of the doubt, telling his studio audience: I m sure there s a very thorough and thought
 
-### David Ellison Says Paramount-WBD Merger Expected to Close in 2 Weeks
-Mon, 21 Sep 2026 18:45:08 +0000 — https://www.thewrap.com/industry-news/deals-ma/david-ellison-paramount-wbd-merger-closed-staff-memo/
+### ‘Line of Fire’ Creator Explains Premiere’s Shocking Reveal and What’s Next
+Tue, 22 Sep 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/line-of-fire-episode-1-joshua-safran-interview/
 
-David Ellison addressed Paramount’s successful settlement with 12 state attorneys general in a Monday memo to staff after clearing the final hurdle for the $110 billion merger with Warner Bros. Discovery. The CEO said the goal is “to close in approximately two weeks, but noted that a merger of this scale between two companies takes time. With both groups’ concerns now addressed, we have complete clearance for this merger and can move toward closing, he shared. There’s still work ahead to get this deal across the finish line, but we’re excited to bring these two iconic companies together, as it means more opportunity for our creatives, production crews and employees across the business and more great entertainment for audiences everywhere. Ellison also thanked California Attorney General Rob Bonta and the other 11 state AGs for engaging in negotiations and detailed some of the settlement details. The agreement includes a number of commitments, including 30+ films annually and expanded U.S. film production – meant to help revitalize our industry and support the people behind it, here at home, he wrote. Since we launched this bid, our goal has been to build a stronger Hollywood: more stories told, greater choice for consumers, stronger competition. Combining these companies gives us the opportunity to do just that. The agreement, which was announced on Monday, includes a minimum investment of at least $300 million annually in domestic TV and film production, or $1.5 billion over
+Note: This story contains spoilers from “Line of Fire” Episode 1. “Line of Fire” creator Joshua Safran always knew the show’s pilot would end with a shocking reveal: The Hollingsworth family is being targeted by a trained assassin, and he happens to be one of their own. NBC’s latest family drama dropped the bomb in the final moments of the series premiere, when Jane (Hope Davis) and Mike Hollingworth (Peter Krause) realized his son from another marriage is the suspect who just killed a man at their home. They opt to keep that information to themselves for now. “When I pitched this iteration of the show that became Line of Fire, [the twist] was baked into the premise immediately,” Safran told TheWrap. “There’s a lot more to the role than what you see in the pilot … not everything is what it appears to be.” The series introduced viewers to Joel (Charlie Barnett), friendly neighbor to Clare Hollingworth’s (Kat Cunning) boyfriend Logan (Pico Alexander). After a chaotic first meeting between Logan and the Hollingsworths, he finds himself alone at their home. He is surprised by Joel, who hinted at Logan having a secret before stabbing and killing him. The murder kicked off the central mystery for “Line of Fire,” which focuses on the lives and dynamics of the Hollingsworths, a family of law enforcement officers. Mike works for the secret service along with his son Micah (Tommy O’Brien). Clare is a special agent in the FBI and son Russ (Taylor Bloom) just started a job at the Departm
 
-### WGA Settles Paramount Merger Lawsuit for 5-Year CBS Layoff Pause, $17.5M Health Fund Contribution
-Mon, 21 Sep 2026 18:17:06 +0000 — https://www.thewrap.com/industry-news/business/wga-settles-paramount-merger-lawsuit/
+### Right-Wing Livestreamer Clavicular Faces Rape and Drugging Charges Involving Minor Report
+Tue, 22 Sep 2026 02:59:19 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/clavicular-rape-drugging-charges-report/
 
-The Writers Guild of America settled its lawsuit against Paramount Skydance opposing the Warner Bros. merger shortly following the settlement between the studio and the 12 state attorneys general that filed their own lawsuit in July. As part of the settlement, Paramount Skydance will pay $17.5 million to the WGA health plan along with the guild s legal fees and has signed an agreement prohibiting layoffs at CBS News broadcast division. We continue to believe the merger will cause damage to writers and the industry at large. Now that the Attorneys General have settled with Paramount, however, as a nonprofit, the WGA must contend with the reality of forging ahead alone, with no backing from government enforcers, with a complex antitrust lawsuit that would cost millions of dollars to pursue through trial, the WGA said in a statement. Though we were not successful in blocking the merger, our advocacy brought more attention to the harms that this merger—and others like it—will cause. We will continue to fight the harms of industry consolidation, the guild s statement continued. As the number of outlets to sell our work to and the corresponding diversity of programming shrinks, we need industry-wide structural separation between streamers and studios in order to promote competition in programming, like the Financial Interest and Syndication Rules once required in broadcast television. We will continue to fight for these goals. The Writers Guild of America has repeatedly voiced its 
+Clavicular, a right-wing livestreamer known for leading the Looksmaxxing trend, is facing charges of rape, drugging a person for sex and providing alcohol to a minor, according to a new report from The Bulwark . Per the report, released Monday evening, charges were filed against the influencer in a Cape Cod courthouse on Sept. 8, with an arraignment date set for Oct. 14. Though, it does not appear that Clavicular has yet to be arrested, with his rep telling TheWrap that the report of the charges is overblown. Clavicular has not stepped foot in Cape Cod this month, his rep told TheWrap Monday evening. He s primarily been in L.A. on a whirlwind media tour. Once again, The Bulwark is exaggerating like a tabloid. We appreciate TheWrap for fact-checking.” The reported charges come nearly five months after the livestreamer was sued for battery and fraud by an influencer, named Aleksandra Vasilevna Mendoza, in Miami, Fla. The lawsuit, which was filed in April in Miami-Dade County, accused Clavicular of battery, intentional infliction of emotional distress, fraud, as well as the unauthorized publication of her name and likeness. Per local reports , Mendoza claimed in her suit that in 2025, back when she was 16 years old, Clavicular paid her $1,000 to film content with him with the plan to make her the female face for looksmaxxing. She alleged that, after creating several videos for the influencer, Clavicular had an Uber bring her to his parents home in Cape Cod, where she claimed she
 
-### Seth Meyers Returns! The Late Night Host on the New Season and the Closer Look Podcast: It Was a Catharsis for Us
-Mon, 21 Sep 2026 18:05:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-interview-why-late-night-off-for-2-months/
+### Robin Williams’ Daughter Renews Plea for Fans to Stop AI Videos of Late Actor: ‘Have Some Shame’
+Tue, 22 Sep 2026 02:24:16 +0000 — https://www.thewrap.com/industry-news/tech/robin-williams-daughter-slams-ai-videos-of-actor-have-some-shame/
 
-It’s been a long seven weeks for fans of “Late Night with Seth Meyers,” but the NBC late night show finally returns with a new episode on Monday night. So what took so long? As it turns out, the longest break in the show’s history was by design, as Meyers and Co. opted for a more “SNL”-like structure to ensure there are fewer breaks in the fall, winter and spring. “There s a nice consistency to our show when it’s rolling, and we want to be able to provide that as much as we can, as much as is in our control, to our audience,” Meyers told TheWrap from his 30 Rock office on Monday morning, where he was back at work. “Obviously we re not going to go straight through, but if we can find our way into that ‘SNL’ schedule that relies on summers off to make sure that when more people are watching TV, we re on with better regularity, we’re going to do that.” Not that Meyers has been completely absent over the last two months. In late August, Meyers and “A Closer Look” head writer Sal Gentile returned on YouTube with “A Closer Look Out of Office,” a weekly podcast where the two would run down topics that might have made an installment of the show’s wildly popular Closer Look segment that week had the show been on the air. It was a hit. Views on some episodes topped over 1 million on YouTube, and Meyers said that while he and Gentile initially envisioned it as a 20-minute show, it easily ballooned into a full hour. “We just didn t want to disappear. We wanted people to know that we want
+Zelda Williams, daughter of the late actor Robin Williams, once again called on fans to stop making AI videos of the Oscar winner, telling her followers to “have some shame.” That supposedly ‘private video’ of dad that I’ve been shown talking about conspiracies is clearly AI, and not even particularly convincing AI, the Lisa Frankenstein director wrote on X Monday. Anyone who claims to be a fan who believes it clearly listened to his movies on mute because that voice is robotic and terrible. She continued: That said, a human made a robot create it, and to you I say: leave him out of your delusional bulls t and let him rest. If you cannot make your case without making a dead man make it more convincing for you, then tell me: who’s the one manipulating the public thru media now? As Williams went on, she blasted this cesspool of an app, adding, It’s mostly bots and people willingly being duped by bots at this point so not sure why I feel the need to come back to clarify, but I love him, so I will. Before concluding her message, Williams reminded her followers that just because he’s gone does not mean he’s now your puppet. Have some shame, she concluded. This is not the first time the late actor s children have spoken out against AI depictions of the Good Will Hunting star. In fact, back in August, his children specifically revived his Instagram to combat rampant AI abuse of his image . Zak, Zelda and Cody Williams shared a joint statement on their father’s Instagram account at t
 
-### Taylor Frankie Paul Says She s Leaving The Secret Lives of Mormon Wives Due to Cast Bullying
-Mon, 21 Sep 2026 17:56:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/taylor-frankie-paul-leaving-the-secret-lives-of-mormon-wives-bullying/
+### Trump TV Draws Ire Amid White House Press Shutout: State-Run Media
+Tue, 22 Sep 2026 01:53:39 +0000 — https://www.thewrap.com/media-platforms/politics/trump-tv-press-shutout-state-run-media-reactions/
 
-Taylor Frankie Paul revealed Monday she will leave The Secret Lives of Mormon Wives due to bullying from the cast of the Hulu reality series. While Paul expressed her gratitude to the streamer for allowing her to return to the series following the controversy surrounding her toxic and sometimes violent relationship with her ex-boyfriend Dakota Mortensen, she revealed in a Monday Instagram post that she would be removing herself from the show. It’s a pleasure to remove myself so they can continue, because I’ve almost convinced myself I’m deserving of all this pain and to a certain degree absolutely this is consequences of my actions, Paul wrote in the Monday post. My question has been how much suffering and scrutiny is going to be enough…I’m just relieved to be out. A representative for Hulu and Jeff Jenkins Productions did not immediately respond to TheWrap s request for comment. Paul s exit from The Secret Lives of Mormon Wives comes less than a week after reports that the reality star allegedly failed a drug test ordered by a Utah court amid her custody battles for her children, one of which she shares with Mortensen. Paul identifies the treatment she s endured from the cast as bullying for months, pointing particularly to messages she was sent from a group that wanted to get [her] to the point of committing suicide. That instance happened while Paul was on the way to shoot the introduction for Season 5, explaining that she wasn t in the introduction because she turned arou
+Not every big moment has made it on your tv, now it can. The White House posted this message on X on Monday to announce Trump TV, a 24/7 livestream of top past moments, announcements and the latest and greatest from the administration all in one place. While the Trump administration and members of the political right are calling this feed a win, others have different words for it: state-run media. First, Trump banned independent news from the White House. Now, he s launching what is quite literally state-run TV to try drowning out the fact that he and his corrupt administration are failing the American people, California Governor Gavin Newsom wrote on X Monday evening. This is truly autocratic behavior from a failed President. The timing of Trump TV s creation has been read as a direct continuation of Trump s efforts on Friday to ban journalists from the White House press pool , further removing negative press from his orbit. It s the latest example of the Trump administration s destruction of American norms, installing a state-run media outlet with information curated from the White House. Trump banned journalists from asking him tough questions and is now launching his own propaganda outlet to evade scrutiny, said @MAGALieTracker on X. The smallest man who ever lived. All the top hits, wins, + more, the White House promised on X. You can view the Trump TV announcement below. IT'S LIVE. TRUMP TV IS STREAMING NOW. 24/7, updated in real time, with top past moments, announcemen
 
-### Taylor Swift to Receive First-Ever Artist Director Award at 2026 VMAs
-Mon, 21 Sep 2026 17:51:16 +0000 — https://www.thewrap.com/culture-lifestyle/culture/taylor-swift-vmas-2026-artist-director-honors/
+### Tom Cruise Weighs AI s Inevitability With Human-Made Art: People Want to See Real Things
+Tue, 22 Sep 2026 00:00:27 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-ai-speech-bafta/
 
-MTV and CBS announced Monday that Taylor Swift will receive the first-ever MTV VMA Artist Director Honors at the 2026 Video Music Awards this Sunday. The new award is designed to honor the groundbreaking musical artists whose contributions and efforts behind the camera have expanded the possibilities of music video and advanced the art of visual storytelling. Swift, who was chosen as the award s inaugural recipient, is a seven-time nominee and four-time VMAs winner for Best Director. Over the years, the Life of a Showgirl singer-songwriter has taken more control of her visual output. She has directed many of her own music videos, including those for songs like The Fate of Ophelia, Opalite, The Man, cardigan, willow, Anti-Hero, Bejeweled, Lavender Haze, I Can See You (Taylor s Version) (From the Vault), Karma (feat. Ice Spice) and Fortnight (feat. Post Malone). In 2021, she also helmed the short film for the 10-minute version of her Red track, All Too Well, which starred Sadie Sink and Dylan O Brien. With its first-ever Artist Director Honors, MTV intends to commemorate the clear directorial voice and expansive approach to storytelling that Swift has honed through her behind-the-camera efforts. The Monday announcement makes Swift the latest starry name expected to appear at the 2026 edition of MTV s Video Music Awards. The awards show will open this year with a special performance from Madonna , who is set to make her long-awaited return to the VMAs stage after a 23-year hiatu
+Tom Cruise s name has become somewhat synonymous with film culture, with the action star often referred to as the ambassador of movies or the president of Hollywood. With artificial intelligence threatening to shake up the movie industry as we know it, it s time for the ambassador to weigh in. Cruise was asked about AI in filmmaking at a BAFTA “Life in Pictures” event in London on Monday, where the actor looked back at his filmography and ahead to the forthcoming Oscars play Digger . There, moderator Edith Bowman asked Cruise — who s recently been ramping up his interview presence as he enters the awards circuit — for his take on AI in moviemaking. “Here’s the thing: There is nothing like human,” Cruise started. The Top Gun and Mission: Impossible star went on in a six-minute speech, drawing applause for articulating the importance of humanity in the arts. Cruise, however, did not ignore the reality of the situation, noting that broader use of AI in filmmaking is coming, and it s going to happen. But people want to see real things, he added. Of course, Cruise has made his career on showing people real things — or, at least, real fake things. Top Gun: Maverick, often cited as one of the films to help save cinema after the start of the pandemic, was lauded for its heavy use of practical effects and real stunt aeronautics. The Mission: Impossible franchise eventually became a game of escalation, with each successive film throwing Cruise into crazier and crazier stunts. The final
 
-### How Resident Evil s Most Emotional Scene Makes It a Perfect Adaptation
-Mon, 21 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/movies/how-resident-evil-is-a-perfect-adaptation-analysis/
+### Line of Fire Release Schedule: When Do New Episodes Come Out?
+Tue, 22 Sep 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/line-of-fire-episodes-release-date-time-schedule/
 
-Warning: This article contains spoilers for Resident Evil. I don t know if you ve heard, but Zach Cregger s Resident Evil movie isn t a one-to-one adaptation of any of the games. For months, Cregger has been lambasted by gamers angry that he would dare to tell a fully original story set inside the survival horror universe. The film s setting, characters and plot all came under fire from fans who would rather see Leon S. Kennedy or Claire Redfield hold the frame than Austin Abrams bumbling medical courier Bryan. But Cregger s latest fits beautifully within the broader Resident Evil franchise, with the Weapons director delivering a madcap horror movie that perfectly evokes the feeling of playing these games. Bryan s arc also fleshes out the story of Raccoon City, with one emotional scene in the third act revealing just how brilliant a piece of adaptation this film is. The scene in question sees Bryan enter a parking garage (evocative of similar locations seen in games like Resident Evil 2) beneath a hospital where the Umbrella Corporation has set up shop. At this point, Bryan has already fought through hordes of infected to deliver a key component of a potential cure to the lab coats waiting at the top of the building. But Bryan himself was bitten by an infected child (one whose head he blows off in one of the film s most outrageous scenes) long before entering the garage, causing him to slowly morph into one of these monsters. Finding no way to reach the Umbrella lab, Bryan si
+The long summer drought is coming to end on TV, thank goodness. That means it s time to jump into returning favorites, as well as newcomers like Line of Fire. Premiering this week, Line of Fire brings Parenthood star Peter Krause back to NBC, alongside Hope Davis, Kat Cunning, Charlie Barnett and more. Per the official synopsis: A family of law enforcement agents bridges personal differences and crosses professional boundaries as they tackle cases for the FBI, US Marshals, Secret Service and Department of Justice. After a seemingly cut-and-dry case turns into a deadly conspiracy, they must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice … even if it means betraying their sworn code. Here s what you need to know. When does it premiere? Line of Fire kicks off on Monday, Sep. 21 at 10 p.m. ET on NBC. Can I stream it? Yes, like most NBC shows, it will be available to stream next day on Peacock. How many episodes are there? There will reportedly be 13 episodes in the first season of Line of Fire. It has not yet been renewed for a second season. When do new episodes come out? Episodes will drop weekly, beginning Sep. 21. Episode 2 will air at 10 p.m. ET on Monday, September 28. Who s in it? Peter Krause , Hope Davis, Kat Cunning, Tommy O’Brien, Taylor Bloom and Charlie Barnett all star in Line of Fire. Watch the trailer The post Line of Fire Release Schedule: When Do New Episodes Come Out? appeared fir
 
 ## Collider
 
-### Harry Potter Officially Returns With New 6-Part Story in October
-Mon, 21 Sep 2026 20:36:03 GMT — https://collider.com/harry-potter-forbidden-forest-experience-new-york-october-2026/
+### The Greatest James Bond Final Line Officially Redefined the Franchise
+Tue, 22 Sep 2026 09:10:11 GMT — https://collider.com/casino-royale-daniel-craig-best-quote-james-bond-movie/
 
-Harry Potter is a franchise unto itself by this point, but while we're used to seeing the stories we know and love transported onto the big — and soon to be small — screens , it's easy to forget that it all started with books. Those stories ended nearly 20 years ago , but we're always looking for an excuse to go back to Hogwarts and to go back into the Forbidden Forest, to join giant spiders, unicorns, Hippogriffs, and whatever else happens to be moving around between the trees after dark. Luckily, we've got a new six-part project coming our way.
+As we await a new reboot of the James Bond franchise, now is the perfect time to revisit the last reboot — and the ingenious way it tied itself to the larger history of the film series. Three months from now marks the 20th anniversary of Casino Royale , which debuted in theaters on November 14, 2006. The franchise reset starred Daniel Craig , portraying the new big-screen iteration of Bond, based on Ian Fleming's original novel of the same name. Craig truly kickstarted his new era of the franchise with a bang . However, no Bond movie and performance is truly complete until the actor utters the iconic line first spoken by Sean Connery in Dr. No , "Bond. James Bond." Craig's iteration redefined the entire franchise.
 
-### The 6 Best Mystery Movies Released Since 2020, Ranked
-Mon, 21 Sep 2026 20:27:11 GMT — https://collider.com/best-mystery-movies-released-since-2020-ranked/
+### Quentin Tarantino’s First Movie in 7 Years Officially Hits IMAX in Just 2 Months
+Tue, 22 Sep 2026 09:00:11 GMT — https://collider.com/the-further-mis-adventures-of-cliff-booth-imax-release-date-november-2026/
 
-Everyone knows how irritating a half-answer can be . Someone says they are fine when they are clearly not. A room goes quiet at the wrong second. A story has one detail that sounds rehearsed. These tiny gaps can sit in the brain for hours, because people are naturally drawn to whatever feels unfinished. Mystery movies take that feeling and turn it into an entire emotional experience.
+Quentin Tarantino has only directed nine movies in his career, but he’s still widely known as one of the most polarizing filmmakers of all time, if not the most. Best known for his work on classic crime thrillers like Pulp Fiction and Kill Bill , Tarantino has also ventured into other genres like WWII movies and epic Westerns for hits like Inglourious Basterds and The Hateful Eight . It’s quickly approaching 10 years since Tarantino directed a feature film — he last helmed Once Upon a Time… in Hollywood , which hit theaters in 2019. Tarantino, who famously makes movies cheaper than most other directors, convinced the studio to invest $90 million into the making of the 2019 showbiz epic, but it more than proved its worth by grossing $409 million at the global box office.
 
-### ‘SNL UK’s Weekend Update Is Boldly Doing What the American Show Can't Pull Off
-Mon, 21 Sep 2026 20:25:11 GMT — https://collider.com/snl-uk-saturday-night-live-weekend-update-ed-sheeran-palestine/
+### The 15 Best R-Rated Fantasy Movies, Ranked
+Tue, 22 Sep 2026 08:58:11 GMT — https://collider.com/best-r-rated-fantasy-movies-ranked/
 
-Saturday Night Live UK ’s second episode of its sophomore season didn’t waste much time finding the line, and then stepping right over it. On Saturday, Weekend Update anchors Ania Magliano and Paddy Young turned the recent Ed Sheeran controversy into some of the sharpest material the series has seen so far. While Young criticized Sheeran’s selective advocacy, Magliano aimed at billionaire tycoon Robert Kraft ’s message about “building bridges” between Israel and Palestine , only to note that those very bridges are the ones being bombed constantly.
+There are plenty of family-friendly fantasy movies out there, and it's easy to see why. It's good to get young minds racing with imaginative stories and fantastical worlds, but in no way is the fantasy genre one exclusively enjoyed by younger people. There are fantasy fans who remain attached to the genre and its immense possibilities as they grow older, and this has led to numerous fantasy movies excelling while targeting older audiences.
 
-### The Stars of Netflix's 'Gilmore Girls' Replacement Officially Break Silence Over Shock Cancellation
-Mon, 21 Sep 2026 20:20:11 GMT — https://collider.com/sweet-magnolias-netflix-cancellation-cast-reaction/
+### The 6 Best Spy Films of the 2020s So Far, Ranked
+Tue, 22 Sep 2026 04:05:12 GMT — https://collider.com/best-spy-films-2020s-so-far-ranked/
 
-Even the most popular shows on streaming don't seem safe from cancellation right now . Over the weekend, the shocking announcement arrived that the Thelma & Louise -esque action-comedy series, Ride or Die , starring Oscar winner Octavia Spencer and Emmy winner Hannah Waddingham , had been cancelled on Prime Video. This announcement came despite the show proving a big hit for the streamer this summer, reportedly becoming Prime Video's most-watched scripted show in its first 14 days of release.
+Everyone has had that moment where they are holding something back and suddenly every normal interaction feels harder than it should. You choose your words a little more carefully. You notice how someone looks at you. You wonder if you sounded too calm, too nervous, too quick to answer.
 
-### 'Destiny 2' Officially Confirms Massive Plan to Release All Vaulted Content
-Mon, 21 Sep 2026 20:04:01 GMT — https://collider.com/destiny-2-vaulted-content-campaigns-raids-returning-bungie/
+### Prime Video's 'The Love Hypothesis' Is a Near-Perfect Rom-Com Experiment | Review
+Tue, 22 Sep 2026 04:00:14 GMT — https://collider.com/the-love-hypothesis-movie-review-prime-video/
 
-Since the release of its sci-fi online first-person shooter RPG sequel, Destiny 2 , in 2017, Bungie hasn't been in a great spot. While the game has long enjoyed a strong player base and a constantly evolving space-faring world through content updates, it's also sparked plenty of backlash for some controversial decisions over its years of operation. Chief among them was the move to "vault" older content, removing entire campaigns and activities from the game in an effort to reduce "bloat." Taking away hours of content that players had purchased was viewed as a wound too deep that, coupled with other poorly received updates from there, led to the announcement back in May that the live-service giant would end active development despite all indications that there was much more story left to tell.
+Within the larger rom-com renaissance that's happening right now, Prime Video's The Love Hypothesis is a pretty unique case. For starters, it's adapted from the New York Times bestselling romance novel by Ali Hazelwood , which actually started out as a piece of Reylo (Rey/Kylo Ren) Star Wars alternate universe fanfic . There's even a bit of irony wrapped up in the fact that Tom Bateman — who is married to Star Wars' Rey herself, Daisy Ridley — plays the character who was originally inspired by Adam Driver 's Sith Lord.
 
-### ‘The Witcher’ Officially Returns With New Geralt Release
-Mon, 21 Sep 2026 20:00:52 GMT — https://collider.com/witcher-new-novel-geralt-andrzej-sapkowski-2027/
+### 10 Harlan Coben Books That Are 10/10, No Notes
+Tue, 22 Sep 2026 03:55:11 GMT — https://collider.com/harlan-coben-books-perfect-no-notes/
 
-The Witcher fans have a lot to be excited about in the next few years between the hit Netflix TV show and the next installment in the Game of the Year-winning fantasy franchise. It was previously thought that the fifth and final season of The Witcher would premiere before the end of 2026, but it was confirmed earlier in the summer that the final batch of episodes would not arrive until 2027. This will hold fans over until one of the most anticipated game launches in history with The Witcher 4 , which will see Ciri take center stage, taking over the role as the titular hero from Geralt of Rivia. CD Projekt Red announced earlier this year that The Witcher 4 is targeting a 2028 release window — this is disappointing, but not all that surprising.
+Harlan Coben has a knack for bringing the dead back to "life" in his mystery novels. The New Jersey-born-and-raised writer got his start in novel writing while working in the travel industry, publishing his first book, Play Dead , in 1990. Since then, Coben has released more than 30 novels , ranging from standalone thrillers to character-driven series.
 
-### DreamWorks’ New Original Fantasy Is Officially One of Its Best-Reviewed Movies
-Mon, 21 Sep 2026 20:00:11 GMT — https://collider.com/forgotten-island-rotten-tomatoes-score-dreamworks/
+### After '9-1-1,' Peter Krause's Newest NBC Action Thriller Is a Twisty, Soapy Blast | Review
+Tue, 22 Sep 2026 03:01:11 GMT — https://collider.com/line-of-fire-nbc-peter-krause-hope-davis-review/
 
-One of the most highly anticipated animated features has officially wowed critics just days before its U.S. debut. The movie premiered at this year's CinemaCon and has already opened in other regions, including Australia. Now, as North America anticipates its release, critics have weighed in on DreamWorks' latest family fantasy film, which showcases Filipino culture and offers a wholly original new world in the age of sequels and recycled IP.
+Editor's Note: The following review contains some spoilers for the pilot of 'Line of Fire'.
 
-### Aaron Sorkin Officially Confirms ‘The Social Reckoning’ Was Changed Over Legal Concerns
-Mon, 21 Sep 2026 19:40:11 GMT — https://collider.com/aaron-sorkin-sony-facebook-censorship-social-reckoning/
+### ‘Madam Secretary’ Meets ‘Dharma & Greg’ in Jamie Lee Curtis’ New NBC Sitcom
+Tue, 22 Sep 2026 02:34:08 GMT — https://collider.com/newlyweds-madam-secretary-dharma-greg-jamie-lee-curtis-nbc-tea-leoni-tim-daly/
 
-After collaborating on the generational classic The Social Network 16 years ago, both director David Fincher and writer Aaron Sorkin have new movies coming out within a few weeks of each other. Incidentally, both sequels, but not to films that either Fincher or Sorkin directed themselves. Fincher, of course, is gearing up for the release of The Further Mis-Adventures of Cliff Booth , a follow-up to Quentin Tarantino 's Once Upon a Time in Hollywood . Sorkin, on the other hand, is all set to release The Social Reckoning , a companion piece to the classic that won him an Oscar. In a new interview, Sorkin spoke about whether there were any hurdles in getting the movie made and admitted that an unusually strict vetting process forced him to make several changes to the movie to avoid any lawsuits from Meta.
+Romance is in the air at NBC . Jamie Lee Curtis has teamed up with Gail Lerner for the upcoming sitcom, Newlyweds . The series is “a later-in-life love story about a free-spirited woman and a buttoned-up professor who marry impetuously after a whirlwind courtship,” NBC teased in a press release. The series will reunite the stars of Madam Secretary while being a later-in-life version of Dharma & Greg . Téa Leoni will star as Jeanie, a middle school teacher and single mother of two, who falls in love with James ( Tim Daly ), a philosophy professor.
 
-### ‘Baldur’s Gate 3’ Gets an Entire New Region With No Official DLC Required
-Mon, 21 Sep 2026 19:23:51 GMT — https://collider.com/baldurs-gate-3-act-2-expansion-mod-new-region/
+### Prime Video Officially Reveals the Fate of Its Sleeper-Hit Action Series Perfect for 'Reacher' Fans
+Tue, 22 Sep 2026 02:00:22 GMT — https://collider.com/prime-video-ride-or-die-season-2-officially-cancelled/
 
-Finishing a playthrough of Baldur’s Gate 3 is difficult enough when another character build, romance, or catastrophically misguided decision is always waiting to drag players back to the Nautiloid. Larian Studios’ RPG already contains enough branching stories and easily missed encounters to occupy fans for hundreds of hours, but the game 's community has spent the years since release finding new ways to make the adventure even larger . One ambitious creator has now added enough content to delay the party’s arrival in Baldur’s Gate for quite some time.
+Prime Video has unfairly canceled another series again, this time targeting a near-perfect adventure hit loved by Reacher fans for its pacing and intense action . Debuting this summer, the show earned critical acclaim and strong viewership, currently holding a Certified Fresh 96% on Rotten Tomatoes and an 85% Popcornmeter score. It also became one of the most-watched shows worldwide soon after its debut and quickly rose to the top of the U.S. charts.
 
-### Netflix's 'Fleabag' Replacement Officially Returns Next Month
-Mon, 21 Sep 2026 19:20:11 GMT — https://collider.com/nobody-wants-this-season-3-netflix-release-date-adam-brody-kristen-bell/
+### 3 Series You Officially Need to Binge on Prime Video This Week (Sep 21-25)
+Tue, 22 Sep 2026 01:11:11 GMT — https://collider.com/prime-video-shows-binge-september-21-2026/
 
-October will be a great month for Netflix subscribers, thanks in part to the return of several acclaimed shows. The most high-profile is the return of The Diplomat , as the Emmy-nominated Keri Russell 's Kate Wyler teams up with First Gentleman Todd Penn to stop a dangerous alliance between President Grace Penn and her husband, Hal Wyler. Season 4 of The Diplomat will premiere on October 15 and feature eight episodes, but it won't be the only worthwhile way for Netflix subscribers to spend their October.
+With the recent release of its Season 4 finale, it’s no surprise that Nick Santora ’s hit crime show Reacher is once again the number one series on Prime Video this week. Starring Alan Ritchson in the title role and inspired by Lee Child ’s Jack Reacher novels, the action show has been a huge success ever since it first premiered in 2022, and the fourth season has continued the show’s winning streak with another popular and acclaimed installment. However, in case you’re bummed out about the season ending, fear not, because there’s no shortage of great series to explore in the streaming platform’s catalog. With that said, here’s a look at three great shows that we think you should binge this week on Prime Video.
 

@@ -1,6 +1,21 @@
-# Tech — harvested 2026-09-21T20:36:27.886Z
+# Tech — harvested 2026-09-22T09:28:30.464Z
 
 ## Ars Technica
+
+### Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
+Mon, 21 Sep 2026 22:24:38 +0000 — https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
+
+Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles customer service,” “proactively takes tasks off your plate,” and can “make purchases, generate images, create documents, and connect with your favorite apps and services.” The macOS app (curiously, there’s no Windows version) also works with a user’s WhatsApp, email, calendar, and social media accounts. When a task requires a tool that doesn’t exist, Muse creates one on the fly. Meta doth hype Muse security too much Of course, for Muse to do any of these things, users must first give it access to their accounts. This includes authenticating the assistant to each service and, because the app runs on macOS, giving it permissions to a broad range of operating system-restricted device resources like writing files to disk, accessing the mic and camera, and monitoring location and calendars. Apple has spent years developing these defenses to prevent installed apps or commands entered into the terminal from accessing these resources, clearly because the company considers them a security threat. Muse co
+
+### Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat
+Mon, 21 Sep 2026 21:07:05 +0000 — https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/
+
+In the world’s first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots. The lopsided battle took place on September 12 when members of Ukraine’s Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was “positively identified” as an Orcan surface drone with a “jet ski type steerable water jet” designed to ram targets and explode, according to naval analyst HI Sutton in Naval News . Such Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones such as Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained. Read full article Comments ]]>
+
+### Saudi Arabia wants a car industry, launches Ceer with two EVs
+Mon, 21 Sep 2026 20:55:36 +0000 — https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/
+
+Ceer provided flights from Detroit to Riyadh, Saudi Arabia, and accommodation so Ars could visit the factory. Ars does not accept paid editorial content. KING ABDULLAH ECONOMIC CITY, Saudi Arabia—It may come as a surprise to some, but Saudi Arabia has never had a domestic automaker. That changes with Ceer. A joint venture between the country’s Public Investment Fund and Foxconn, it’s the Kingdom’s first home-grown automaker and a significant part of Saudi Arabia’s Vision 2030 plan to diversify its economy away from oil production and bring technological innovation locally by the end of the decade. Ceer in Arabic means to “drive forward,” and this forward-looking approach applies to the vehicle lineup. The flagship vehicles you see here—the Exobot sedan and SUV—are demonstrations of what the company is capable of and the vision it sees for future vehicles in the portfolio. It plans to have seven new cars in its portfolio by 2030—some of which will be hybrids—and while that doesn’t currently include sales outside the GCC (Gulf Cooperation Council) region, Ceer says it's building a competitive, world-class product and that if the demand is there, expansion is possible. Read full article Comments ]]>
 
 ### Google confirms Gemini models hacked three companies in May 2026
 Mon, 21 Sep 2026 16:57:26 +0000 — https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
@@ -47,17 +62,27 @@ Sun, 20 Sep 2026 10:00:02 +0000 — https://arstechnica.com/cars/2026/09/dont-ca
 
 Ferrari’s two-seat sports cars might be the brand’s identity, but the Italian automaker has always catered to customers who want to bring more than one passenger along for the ride. It started building cars with back seats in the 1960s with the 250 GT 2+2; as the name suggests, the second row was more for occasional use, something that was true all the way through to the 612 in the early 2000s. Ferrari followed with its first true four-seater, the all-wheel drive FF , which adopted " Breadvan " styling. Its first hatchback was still a three-door, though, and slightly more practical for carrying cargo rather than humans in the rear. That was true for the GTC4 that followed , too. But with the Purosangue, the rear passengers have been given something of an upgrade. For one thing, there is an extra pair of doors, rear-hinged ones that provide direct access to the pair of rear bucket seats. There’s still a rear hatch, so this is technically a five-door. But there’s an immovable firewall between the cargo area and the passenger cabin, and the rear seats do not fold flat. So unlike the 21st century breadvans we have previously reviewed, a Costco run in the Purosangue might be possible, but you’re probably going to want a roof rack if you plan to go skiing, cycling, or anything else that requires bulky equipment. It’s also probably accurate that Ferrari says the Purosangue is not an SUV but an FUV—a Ferrari Utility Vehicle. Underneath that long hood lives a 6.5 L naturally aspirated
 
-### T. rex teeth indicate it ran as warm as an elephant
-Sun, 20 Sep 2026 09:00:11 +0000 — https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/
-
-For most of the last century, T. rex was pictured as a sluggish, tail-dragging reptile that had to warm up in the sun before it could go anywhere. Then, further research changed that view, replacing it with the active, bird-like animal shown in the movie Jurassic Park . But whether T. rex used warm blood to power that activity remained a question. Now we might have gotten closer to an answer. A team of researchers led by Randon J. Flores and Robert A. Eagle, geochemists at the University of California, Los Angeles, has measured the T. rex body temperature by analyzing its teeth. This dental thermometer read about 36° Celsius—roughly the body temperature of a modern elephant. Dental thermometry Paleontologists have long argued about dinosaur physiology based on indirect evidence like bone microstructure, growth rates, and where fossils turn up on the map. Some studies suggested many dinosaurs were endotherms, generating their own body heat like birds and mammals. Others argued that each lineage may have had its own thermal strategy. Read full article Comments ]]>
-
 ## The Verge
+
+### Apple s first live music venue is opening beneath its UK headquarters
+2026-09-22T04:35:54-04:00 — https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea
+
+The venue is opening below Battersea Power Station, also well recognized for featuring on the cover of Pink Floyd’s Animals album. | Image: Apple Apple is preparing to open a new "state-of-the-art" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall , is located underneath Apple's European headquarters in London's iconic Battersea Power Station, and is set to open next week on September 28th . Details about the opening show have yet to be announced. "Apple's deep love for music dates all the way back to the very beginning, from the launch of the iPod to the long-running iTunes Music Festival to the debut of Apple Music," said Oliver Schusser, Apple's vice president of Apple Music and Int … Read the full story at The Verge. ]]>
+
+### A cut cable disrupted hundreds of flights across the US
+2026-09-21T19:48:56-04:00 — https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us
+
+A JetBlue airplane past an FAA air traffic control tower at Philadelphia International Airport (PHL) in Philadelphia, Pennsylvania, US, on Friday, Oct. 24, 2025. JetBlue Airways Corp. is expected to release earnings figures on October 28. Photographer: Ryan Collerd/Bloomberg via Getty Images | Bloomberg via Getty Images Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of the severed fiber cable, ABC News reports . The outage hammered airports across the Northeast, causing ground stops at all three major New York City airports. In a statement to CNBC , Verizon said that it bore "no responsibility for this incident," putting the blame on "construction contractors working in the area" that "dug up and cut our cable." Ironically, it looks like trains make have taken … Read the full story at The Verge. ]]>
+
+### Amazon wants to help the Colorado River, but we still don’t know how much water the company uses
+2026-09-21T19:15:32-04:00 — https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river
+
+Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny over how much water their data centers use. Amazon has a goal of becoming water positive - replenishing more water than it uses - by the end of the decade. It recently disclosed some information about its water use, but we still have an incomplete picture of the company's impact as a whole. Amazon announced the launch of a Colorado River Basin Collaborative today, with a mission to "create one o … Read the full story at The Verge. ]]>
 
 ### California tightens rules on AI data center energy and water use
 2026-09-21T16:29:45-04:00 — https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills
 
-California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times . The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers, while forcing them to pay for upgrades to local power grids and water systems. Other bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption … Read the full story at The Verge. ]]>
+California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times . The package of laws requires the California Public Utilities Commission to introduce a new rate classification for data centers while forcing them to pay for upgrades to local power grids and water systems. Other bills included in the package will require proposed data centers to disclose their estimated water use to local governments, along with information about energy efficiency and drought planning. They must also meet certain energy, water, and fuel consumption … Read the full story at The Verge. ]]>
 
 ### GM can’t ‘bring back’ Apple CarPlay because it never left
 2026-09-21T13:47:54-04:00 — https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google
@@ -67,12 +92,12 @@ Last week, GM announced a new software experience for its upcoming Chevy Silvera
 ### Paramount settles lawsuit blocking $110 billion Warner Bros. merger
 2026-09-21T13:42:15-04:00 — https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement
 
-Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in year one and two, and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i … Read the full story at The Verge. ]]>
+Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. According to the proposed consent decree filed with the court, it includes requirements like minimum numbers of theatrical film releases over the next five years, starting with 30 in years one and two and 32 in the following years, and a commitment to spend at least $300 million more on production in the US compared to what the companies spent in 2025. At least four of the films produced must be i … Read the full story at The Verge. ]]>
 
 ### Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content
 2026-09-21T12:35:59-04:00 — https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations
 
-Months after seemingly giving up on Destiny 2 , Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. "We understand that removing these experiences had a lasting impact on player trust and enjoyment of Destiny," admits Bungie. "We cannot change the decision we made, but we can acknowledge its impact and do the work to make it right by restoring these important parts of Destiny 's history." All Destiny 2 players will ge … Read the full story at The Verge. ]]>
+Months after seemingly giving up on Destiny 2 , Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controversially removing older content from Destiny 2 that players had paid to access. "We understand that removing these experiences had a lasting impact on player trust and enjoyment of Destiny ," admits Bungie. "We cannot change the decision we made, but we can acknowledge its impact and do the work to make it right by restoring these important parts of Destiny 's history." All Destiny 2 players will ge … Read the full story at The Verge. ]]>
 
 ### Grab an Xbox controller and a $50 Xbox gift card together for just $80
 2026-09-21T11:13:32-04:00 — https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale
@@ -89,21 +114,6 @@ Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple r
 
 Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a payout. If you live in the US and purchased an iPhone 15 Pro, iPhone 15 Pro Max, or any iPhone 16 model between June 10th, 2024, and March 29th, 2025, you can file a claim on the settlement's website , as reported earlier by MacRumors . You can receive an estimated $25 per eligible device, but the settlement's website notes that this can increase to $95 depending on how many people file claims. To file a claim, you'll need to enter your name, contact information, and iPhone serial number on the … Read the full story at The Verge. ]]>
 
-### Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo
-2026-09-21T09:16:25-04:00 — https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china
-
-All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor , its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls "true 17 EV ultra-high dynamic range," more than the 16.5 stops claimed by the Xiaomi 17 Ultra . The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge. ]]>
-
-### These are the first five Googlebook laptops
-2026-09-21T09:01:00-04:00 — https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell
-
-Google and partners are finally announcing the first laptops under the new Googlebook banner. There are five models from Acer, Asus, Dell, HP, and Lenovo to kick things off. They're available for preorder starting today and arrive in stores on October 4th. Starting prices range from $899 to $1,299, putting the Googlebooks in the same territory as the MacBook Air and a plethora of Windows laptops. Each Googlebook also comes with 12 months of Google AI Pro with 5TB of cloud storage, along with three-month trials of YouTube Premium, Adobe Photoshop, and CapCut. Google's also promising up to 10 years of updates. Here's a look at the hardwar … Read the full story at The Verge. ]]>
-
-### The long dream of the Googlebook
-2026-09-21T09:00:00-04:00 — https://www.theverge.com/tech/997972/googlebook-laptop-chromeos-android-history
-
-Dell’s XPS Googlebook is just one of the devices Google needs to be great. In late 2010, an up-and-coming Google executive named Sundar Pichai took the stage in front of a bunch of reporters and explained that Google had a big new idea about laptops. In the future, he said, the only thing you'd need on your computer was a web browser - that was where all your apps, data, and connections would live going forward. Your computer didn't need much storage, Pichai explained, or any fancy hardware, because the cloud would do the work. The software designed for these new laptops, Chrome OS , was an enormous bet that the web would eventually overtake everything. Chrome OS (which eventually became ChromeOS ) has been, in many … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
 ### iPhone 18 Pro Max storage can drop lower than a hard drive at 1.1 MB/s during heavy writes — QLC NAND offers higher capacity but reportedly suffers 38% drop compared to TLC-based Pro
@@ -111,10 +121,10 @@ Mon, 21 Sep 2026 17:34:47 +0000 — https://www.tomshardware.com/pc-components/s
 
 Apple’s latest iPhone 18 Pro series went on sale last week, and the company’s decision to use QLC-based NAND for higher-capacity storage variants appears to come with a trade-off. Bilibili channel Homolab recently tested a 1TB iPhone 18 Pro Max and found that its storage performance can drop significantly under sustained heavy workloads. Since QLC stores four bits of data per memory cell when compared to three bits with TLC, it allows manufacturers to offer higher capacities using the same physical space. However, this higher storage density comes at the cost of slower performance, particularly when handling large amounts of data. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps Homolab compared the 1TB QLC-based iPhone 18 Pro Max with a 512GB TLC-based iPhone 18 Pro. While both storage types perform fairly similarly in 4K read tests, the QLC model falls behind by 38% in a low-queue-depth mixed workload, scoring 8,168 compared to 11,285 for the TLC model. Under heavier workloads, the gap narrows, although the TLC storage model still maintains a 12% advantage. The drop in performance is even more apparent when it comes to sustained write tests. The iPhone 18 Pro Max uses a fast SLC cache that can deliver speeds of up to 3,000 MB/s. Once that cache
 
-### Get the world’s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299 — fully loaded powerhouse sports Ryzen 7 9800X3D, RTX 5080 Founders Edition, 32GB RAM, and 1TB SSD
+### Get the world’s fastest gaming CPU and a DLSS 5-capable GPU in a gaming PC for $2,299 — fully loaded powerhouse sports Ryzen 7 9800X3D, RTX 5080 Founders Edition, 32GB RAM, and 1TB SSD [Updated]
 Mon, 21 Sep 2026 17:19:27 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/get-the-worlds-fastest-gaming-cpu-and-a-dlss-5-capable-gpu-in-a-gaming-pc-for-usd2-299-fully-loaded-powerhouse-sports-ryzen-7-9800x3d-rtx-5080-founders-edition-32gb-ram-and-1tb-ssd
 
-Powered by a Ryzen 7 9800X3D and a GeForce RTX 5080 Founders Edition, the $2,299 CyberPowerPC SLC8500WST is one of the best gaming prebuilt deals on the market right now. A custom GeForce RTX 5080, which starts at $1,579, and the $449 Ryzen 7 9800X3D already add up to $2,028. In today’s market, there is no way you will find 32GB of DDR5 memory and a 1TB PCIe 4.0 SSD for $271, much less put together an entire system. Check out the CyberPowerPC gaming PC deals at Walmart The Ryzen 7 9800X3D needs no introduction. The octa-core Zen 5 chip with 96MB of L3 cache has been on the market for two years now and still reigns as the best CPU for gaming. Although Intel and AMD have released many processors, nothing comes close to the Ryzen 7 9800X3D in terms of performance and gaming value that the Zen 5 processor offers. Meanwhile, Nvidia's GeForce RTX 5080 Founders Edition , one of the best graphics cards , joins the Ryzen 7 9800X3D in the SLC8500WST to deliver strong 4K (3840x2160) performance and exceptional frame rates at lower resolutions. It is worth noting that it is the Founders Edition, a coveted model that is rarely available on the market anymore, even if you are willing to overpay for it. It comes with DLSS 5 support, as well, and we've found solid DLSS 5 performance on the RTX 5080 in our testing. SLC8500WST Gaming PC: was $2299 now $2299 The SLC8500WST is a solid 4K gaming machine with the best gaming processor on the market right now and a formidable GeForce RTX 5080 Found
+Powered by a Ryzen 7 9800X3D and a GeForce RTX 5080 Founders Edition, the $2,299 CyberPowerPC SLC8500WST is one of the best gaming prebuilt deals on the market right now. A custom GeForce RTX 5080, which starts at $1,579, and the $449 Ryzen 7 9800X3D already add up to $2,028. In today’s market, there is no way you will find 32GB of DDR5 memory and a 1TB PCIe 4.0 SSD for $271, much less put together an entire system. Check out the CyberPowerPC gaming PC deals at Walmart The Ryzen 7 9800X3D needs no introduction. The octa-core Zen 5 chip with 96MB of L3 cache has been on the market for two years now and still reigns as the best CPU for gaming. Although Intel and AMD have released many processors, nothing comes close to the Ryzen 7 9800X3D in terms of performance and gaming value that the Zen 5 processor offers. Meanwhile, Nvidia's GeForce RTX 5080 Founders Edition , one of the best graphics cards , joins the Ryzen 7 9800X3D in the SLC8500WST to deliver strong 4K (3840x2160) performance and exceptional frame rates at lower resolutions. It is worth noting that it is the Founders Edition, a coveted model that is rarely available on the market anymore, even if you are willing to overpay for it. It comes with DLSS 5 support, as well, and we've found solid DLSS 5 performance on the RTX 5080 in our testing. SLC8500WST Gaming PC: $2299 The SLC8500WST is a solid 4K gaming machine with the best gaming processor on the market right now and a formidable GeForce RTX 5080 Founders Edition gr
 
 ### Local opposition blocked 45 data center projects worth $68 billion in the second quarter of 2026 — data center investments reportedly still on track to hit $32 trillion by 2050
 Mon, 21 Sep 2026 16:00:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/local-opposition-blocked-usd68-billion-worth-of-data-center-projects-in-the-second-quarter-of-2026-data-center-investments-reportedly-still-on-track-to-hit-usd32-trillion-by-2050
@@ -168,6 +178,16 @@ The developers of the open-source PlayStation 3 emulator RPCS3 are celebrating f
 
 ## Phoronix
 
+### Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming
+Mon, 21 Sep 2026 21:00:00 -0400 — https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave
+
+Valve's Steam client beta today introduced Pyrowave as an experimental video codec for high bandwidth, low-latency video streaming...
+
+### AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7
+Mon, 21 Sep 2026 16:52:36 -0400 — https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7
+
+AMD sent out their latest Linux kernel graphics driver patches today for enabling some new hardware IP blocks. And as part of that, preparing for GDDR7 video memory with the AMDGPU driver...
+
 ### Gravity Linux Aims To Provide A Nice Experience For Apple M4 & Newer
 Mon, 21 Sep 2026 15:58:02 -0400 — https://www.phoronix.com/news/Gravity-Linux-M4-Mac-Mini-Alpha
 
@@ -218,17 +238,52 @@ Mon, 21 Sep 2026 05:57:16 -0400 — https://www.phoronix.com/news/Linux-Perf-Pyt
 
 A big patch series sent out this weekend for the Linux kernel's perf subsystem removes the embedded Python and Perl scripting in favor of standalone Python scripts with a new Python perf module. This perf module for Python written in C is much faster than the status quo...
 
-### Linux 7.3-rc4 Released: More Fixes Caught By LLMs, But Nothing Too Scary
-Sun, 20 Sep 2026 17:25:38 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4
-
-Linus Torvalds announced the release today of Linux 7.3-rc4. As usual for recent months, the fixes continue to be quite heavy and scattered all over the place driven in large part by AI/LLMs spotting various code defects. Overall though Linus Torvalds isn't too worried about Linux 7.3-rc4...
-
-### Important x86 Fixes Merged Ahead Of Linux 7.3-rc4
-Sun, 20 Sep 2026 14:19:12 -0400 — https://www.phoronix.com/news/Linux-7.3-rc4-x86-Fixes
-
-Ahead of the Linux 7.3-rc4 kernel release due out in the coming hours, an important batch of x86/x86_64 fixes have been merged to address a few outstanding issues...
-
 ## The Register
+
+### Commodore's forgotten Amiga Unix gets a modern revival
+Tue, 22 Sep 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805
+
+A vintage Unix window manager and an entire vintage UNIX operating system that uses it have received modern updates. Yes, AI helped, but we're here for it. The Commodore Amiga is one of the best-loved computers of the 1980s: The Register celebrated its 30th anniversary in 2015. Its many fans remember it primarily as a home computer and, in its day, the ultimate games machine. Later in the Amiga's life, however, Commodore hoped to sell its more powerful models as Unix workstations. In 1991, Commodore released Amiga Unix, better known as Amix. It was a full port of AT&T UNIX System V Release 4 for a high-end version of the Amiga 3000 called the Amiga 3000UX. A Commodore brochure [PDF] was titled "Commodore A3000UX: Born to run UNIX SVR4." To give you an idea of just how early this was, Amix shipped on DC6150 quarter-inch cartridge tape, so a clean installation required a Commodore 3070 tape drive. CD-ROM drives weren't mainstream yet. Despite the Amiga's video prowess, the built-in ECS video of this $4,998 machine could only run X11 in black and white. Commodore later offered color support through the optional A2410 graphics card, which cost another $998. Amix was a niche product, and relatively few Amiga enthusiasts remember it today. At the one-day Saku 2026 Amiga conference in Oulu, Finland, last weekend, an intrepid group of hackers announced a new update for Amix. It is available from AmigaUX.org. Commodore's final release was Amix 2.1 in 1992, and it looked like this. The
+
+### GOV.UK founder warns AI gold rush could leave Britain locked in
+Tue, 22 Sep 2026 10:30:00 +0200 — https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828
+
+Britain risks swapping its dependence on foreign technology suppliers for an even deeper reliance on a handful of AI providers, according to GOV.UK founder Mike Bracken. Bracken, who founded the Government Digital Service (GDS) and served as the UK's first Government Chief Data Officer, says governments and other institutions are gradually giving up control over critical systems as they pile more technology dependencies onto their operations. "Institutions rarely lose sovereignty in a crisis. They lose it one reasonable decision at a time," Bracken said. "The biggest risk facing many organizations today is not that somebody takes control away from them. It's that they gradually give it away. Every technology decision can make it harder or easier to change direction in the future." The warning comes as governments throw money at "sovereign AI," typically involving domestic compute capacity, homegrown models, or infrastructure intended to reduce reliance on overseas providers. Bracken reckons that misses a more fundamental point. Sovereignty isn't necessarily about owning the infrastructure or technology underneath a service, he said. What matters is whether an organization can still make its own decisions when its circumstances change. That becomes particularly relevant with AI, where organizations increasingly build services around models and platforms controlled by a relatively small group of technology companies. Switching away later may be considerably harder once those sy
+
+### Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them
+Tue, 22 Sep 2026 07:42:32 +0200 — https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062
+
+Chinese tech giant Alibaba has outlined an ambition to expand its datacenter fleet to 20GW of capacity, and chip that will help it get there. CEO Eddie Wu announced those ambitions today at Alibaba’s Apsara conference, where he delivered a speech that likened current AI applications to light bulbs, because electric light was an early application of electricity but the really important stuff came along decades later. He also compared AI to steam engines. “Steam and combustion engines were designed merely to do what horses and laborers were already doing: pumping water, weaving, and hauling,” he said. Over time, the CEO said, engines proliferated to the point at which “machine power already drives 99.9% of the world’s physical work.” The CEO thinks AI – which he prefers to call “Machine Thinking” – will one day do 99.9% of all cognition, and usher in various utopian outcomes. “In the future, every niche domain will have millions of AI scientists and domain experts constantly driving breakthroughs and tackling challenges,” he said, before asking his audience to imagine an AI charged with building a starship capable of reaching Mars. “For such an ultra-complex, long-horizon task, AI will break it down into tens of millions of subtasks, executed by millions of agents working non-stop until completion,” he said. “A human only needs to define the intent and the goal to mobilize massive intellectual resources.” Going large Alibaba Cloud , he said, has decided to play its part by mobi
+
+### Gartner predicts 55 percent of enterprise VMware users will be investigating an exit by 2029
+Tue, 22 Sep 2026 04:39:35 +0200 — https://www.theregister.com/virtualization/2026/09/22/gartner-predicts-55-percent-of-enterprise-vmware-users-will-be-investigating-an-exit-by-2029/5298043
+
+Analyst firm Gartner believes over half of VMware users will start evaluating alternative hybrid cloud platforms yet still rates the Broadcom business unit a leader in two major markets. Gartner predicted increased interest in VMware exits in its Magic Quadrant for Distributed Hybrid Infrastructure (DHI) – aka hybrid clouds – which opens with a “Strategic Planning Assumption” that “By 2029, 55 percent of enterprises will initiate proofs of concept for alternative distributed hybrid infrastructure products to replace their VMware-based deployments and embrace hybrid cloud infrastructure delivery, up from 25 percent in 2026.” Gartner’s mention of 2029 feels noteworthy, because that year will be six years after Broadcom’s acquisition of VMware. As The Register has previously written, plenty of VMware users acquired fresh three-year subscriptions in the months before the deal closed. Migrating from VMware to a rival platform is a risky and complex project, and we often hear of customers deciding it is safer to stick with Broadcom for longer while they hatch plans. If orgs in that position refresh for another three-year sub during 2026, 2029 would be a natural jumping off point. Numerous virtualization contenders are trying to lure Virtzilla’s customers, yet progress is slow. Nutanix CEO Rajiv Ramaswami has often said it will be several years before some are ready to move. While Gartner predicts a majority of VMware customers will contemplate a move, the Broadcom business unit wil
+
+### California tightens datacenter rules on water and power
+Tue, 22 Sep 2026 01:33:47 +0200 — https://www.theregister.com/ai-and-ml/2026/09/22/california-tightens-datacenter-rules-on-water-and-power/5298028
+
+California Governor Gavin Newsom on Monday signed seven state bills that require datacenter operators to report more info about their operations, and to involve communities as they plan future facilities. The California Assembly Bills (AB) and Senate Bills (SB) signed by Newsom require greater disclosure of datacenter water and electricity use, address who pays for grid connections and other power infrastructure, and introduce rules covering electricity rates, water resources, and environmental review. They include: California state senator Steve Padilla, who authored two of the bills, said the bills will ensure that datacenters pay for energy grid connection, for electricity generation costs, and for a larger share of wildfire mitigation and liability costs. The governor's office cited the Trump administration's dismissal of Americans' concerns about AI and datacenters to emphasize Newsom's willingness to constrain an industry of major significance to California's economy. "While the Trump administration moves toward deregulation, communities are left to deal with the consequences — higher electricity demand, grid constraints, water use, and pollution," said Newsom in a statement. "Today we are once again laying the groundwork for a stronger approach, because we know that we don’t have to sell out Californians or sacrifice our well-being to innovate and succeed. California has proven that time and time again." Dr. Nathan Wangusi, who runs the independent water data transpare
+
+### Anthropic-linked CVEs pile up, attackers mostly shrug
+Tue, 22 Sep 2026 00:32:51 +0200 — https://www.theregister.com/security/2026/09/21/anthropic-linked-cves-pile-up-attackers-mostly-shrug/5298018
+
+Despite the concern that advanced AI models’ bug-hunting prowess will lead to attackers exploiting more newly uncovered CVEs, fewer than 0.5 percent of the vulnerabilities linked to Anthropic or Project Glasswing are being batttered in the wild, according to VulnCheck security researcher Patrick Garrity. Garrity began tracking CVEs attributed to Project Glasswing, Anthropic’s initiative to give select partners access to its Claude Mythos Preview model, shortly after the AI company announced the program in April. At the time, Anthropic said the new model was too risky to release publicly because its bug-finding and exploitation skills surpass all but the most skilled humans. As such, Anthropic restricted access to Mythos Preview to vetted Glasswing participants, who use the model for defensive security work, including finding and fixing flaws in their own software products and open source dependencies. Garrity’s Anthropic CVE tracker maintains a list of vulnerabilities credited to the Anthropic team and/or Project Glasswing and also checks these CVEs against the company's known exploited vulnerabilities index "to get a better read on the real Glasswing ‘danger factor.’" As of Monday, the CVE count is 225, and just one, a critical SQL injection bug in Ghost (CVE-2026-26980), has been exploited in the wild. “There's a big difference between finding vulnerabilities and whether they're actually useful to and will be used by threat actors,” Garrity told The Register. “The main thin
+
+### Perpetual underdog AMD nips at Nvidia's heels as it joins the $1T club
+Mon, 21 Sep 2026 22:59:00 +0200 — https://www.theregister.com/systems/2026/09/21/perpetual-underdog-amd-nips-at-nvidias-heels-as-it-joins-the-1t-club/5297998
+
+AMD’s market cap briefly passed $1 trillion on Monday, making the perpetual underdog one of a handful of chip designers to ever hold the distinction. Make no mistake, AMD is still the underdog here, at least relative to Nvidia, which holds the distinction of being the most valuable company in the world with a market cap of nearly $5.5 trillion. But while AMD still trails Nvidia by a wide margin, the House of Zen has taken the lead over its long-time rival turned frenemy Intel, which is currently valued at $640 billion. Riding the AI wave Much of AMD’s success comes on the back of the AI boom. This didn’t happen overnight. AMD was late to the AI party having invested most of its GPU development resources in more traditional high-performance computing applications and national supercomputing projects. That changed in 2023 when it launched the Instinct MI300A — a part that, at least on paper, delivered higher performance, more memory, and greater bandwidth than Nvidia’s then new H100 and H200-series GPUs. But while better on paper, AMD’s products were dogged by un-optimized software, much of which had been designed from the ground up for Nvidia accelerators. AMD’s GPU team has spent the better part of three years changing the narrative around ROCm, helped by large-scale deployments of MI300- and MI350-series GPUs by the likes of Microsoft, OpenAI, Oracle, Anthropic, and Meta, with lower prices and higher memory capacity being key differentiators. Key wins with Neoclouds and smal
+
+### Skip the upgrade? iPhone 18 Pro aperture about as unrepairable as it gets, iFixit finds
+Mon, 21 Sep 2026 22:30:00 +0200 — https://www.theregister.com/personal-tech/2026/09/21/skip-the-upgrade-iphone-18-pro-aperture-about-as-unrepairable-as-it-gets-ifixit-finds/5297970
+
+iFixit has torn down the iPhone 18 Pro and Pro Max and found both wanting on repairability. Fiddly mechanical bits around the new camera, and a repeated design choice forcing internal repairs to go through a screen with a potentially fragile frame, led the iFixit team to conclude that, even with some improvements, Apple’s latest iPhones come with uncomfortable repairability tradeoffs. "This year’s updated camera is a good place to start," iFixit director of sustainability Elizabeth Chamberlain stated in the teardown review. "What does its new mechanism buy you, and how difficult and expensive will repairs be if one tiny blade gets stuck?” The answers to those questions are "not much" and "very", based on what iFixit found. The iPhone 18 Pro series’ main camera has an aperture made of six tiny blades, each about as thick as a human hair, according to iFixit. The tolerances are so fine and the mechanism so fiddly that iFixit said: "We’re reluctant to call a repair 'impossible', but this is about as close as it gets." "Any damage to your main camera will probably mean replacing the whole assembly, which is bound to be expensive," Chamberlain said. That’s not new; iPhone camera assemblies have long been a single replaceable unit, but they’re not cheap. "Apple hasn’t released parts yet, but the camera assembly for the 17 Pro is $249, and the variable aperture will only up that cost." It’s not even clear if the component will be more than a one-off experiment that gets dropped in f
+
+### Meta Muse AI app flaw lets local malware redirect dictation traffic
+Mon, 21 Sep 2026 21:59:52 +0200 — https://www.theregister.com/ai-and-ml/2026/09/21/meta-muse-ai-app-flaw-lets-local-malware-redirect-dictation-traffic/5297980
+
+Meta made much of the security of its AI assistant app Muse at launch earlier this month, calling out the app's reliance on Muse Secure VM. "Each person stays in control of their Muse and decides how much access it gets," the ad biz declared, echoing prior expansive claims about the privacy of its data gathering business. But Meta's musing about Muse appears to be a bit overstated: an attacker capable of executing local code may be able to gain more access than a Muse user might expect. Security researcher Patrick Wardle, founder of nonprofit Objective-See, has devised a proof-of-concept called not-a-mused for what he describes as a local zero-day in the Muse macOS app that allows an unprivileged local process to redirect Muse's dictation traffic and potentially abuse access granted to the app. Muse, he explains in the project repo, has an undocumented setting called endo_voyager_dictation_endpoint that an attacker running code locally can modify without special privileges to redirect dictation traffic to an attacker-controlled endpoint, potentially exposing dictated audio and prompts sent to the backend AI model. The flaw could enable prompt injection, the theft of authentication material, and abuse of whatever access the user has granted to Muse. The vulnerability is not an issue for a remote attacker. It requires the ability to run local code. So the main concern, says Wardle, is that the vulnerability gives local malware far broader access than it would have otherwise. Es
 
 ### Treasury chief says AI bosses, not their bots, will carry the can for criminal acts
 Mon, 21 Sep 2026 21:10:53 +0200 — https://www.theregister.com/security/2026/09/21/treasury-chief-says-ai-bosses-not-their-bots-will-carry-the-can-for-criminal-acts/5297965
@@ -243,54 +298,49 @@ Google is trying once again to escape the Chromebook reputation for cheap, chint
 ### London neocloud Nscale takes its $1B loss to Wall Street
 Mon, 21 Sep 2026 19:15:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/london-neocloud-nscale-takes-its-1b-loss-to-wall-street/5297824
 
-London-based neocloud Nscale has filed to go public on the New York Stock Exchange after expanding rapidly on the back of the AI infrastructure boom. The rent-a-GPU business, which emerged from cryptocurrency miner Arkon Energy, filed a Form S-1 registration statement with the US Securities and Exchange Commission (SEC) on Friday. It intends to list under the ticker NSCL. The document does not specify the number of shares it'll offer, their expected price, or the valuation Nscale hopes to achieve.The Financial Times previously reported that the company was targeting a valuation of up to $35 billion. The filing shows how costly Nscale's expansion has been. Revenue surged from $10.4 million to $140.6 million in the six months to June 30, but its net loss widened from $368.9 million to $1.02 billion over the same period. Nscale reported $103.4 billion in active and contracted total contract value (TCV) as of August 31, up from $38 billion at the end of 2025. That figure is not recognized revenue or a conventional backlog: only $2.6 billion was attached to active contracts, and delivery of the remainder depends on projects being financed and built. Agreements with Anthropic account for up to circa $44.6 billion, although Nscale warned it had not secured binding commitments for the financing required to fulfill them. Goldman Sachs and Morgan Stanley are acting as lead bookrunners for the offering. Nscale, which operates datacenters in Europe and the US, describes itself as a full-
-
-### AI can't outprompt a shortage of power, water, and land
-Mon, 21 Sep 2026 18:35:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/ai-cant-outprompt-a-shortage-of-power-water-and-land/5297811
-
-AI infrastructure growth is running into limits on energy, water, and land, according to researchers at Forrester, which predicts governments will increasingly make datacenter operators pay for the resources they consume. Governments, utilities, datacenter operators, and enterprises will have to rethink how that growth is funded, managed, and regulated, the firm said in its 2027 sustainability predictions. The scale of the infrastructure buildout needed to support AI across businesses, governments, and consumer services is beginning to emerge. Earlier this month, PwC put cumulative global datacenter capital expenditure through 2050 at between $22 trillion and $50 trillion, with a central estimate of $31.6 trillion – roughly equivalent to a year of US economic output. Whether grids and communities can support those ambitions is another matter. "Unlimited AI ambition faces a reckoning with limited resources," Forrester said. Forrester predicts that governments and utilities will require datacenter operators to finance grid upgrades, pay for reserved capacity, and provide guarantees against speculative demand. It also expects community impact reviews to become a gate that new projects must pass before construction. Forrester senior analyst Abhijit Sunil explained the reasoning in a blog post: "With unprecedented growth demands, utilities cannot assume that every proposed datacenter will arrive on schedule or consume its promised load. Building generation and transmission for spe
-
-### AWS bolts together open source agent harness, says it sips fewer tokens than rivals
-Mon, 21 Sep 2026 18:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/21/aws-bolts-together-open-source-agent-harness-says-it-sips-fewer-tokens-than-rivals/5297915
-
-AWS has entered the open source agentic AI game, claiming its new Strands harness matches rivals on benchmarks while using around a quarter fewer tokens. The Strands harness, as its name suggests, is built on AWS’ Strands Harness SDK, but is packaged up and ready to roll out of the box, either locally or deployed to work with whatever AI provider a customer prefers. "The moment you build your own agent, you're on your own," AWS noted in its announcement. "It's tricky wiring up the right primitives just well enough to match that ‘it just worked’ feeling." This new open-source option means that 'all you need is one line of Python or TypeScript to get it working with your choice of model," AWS adds. On top of being relatively plug-and-play in design, AWS claims the Strands harness achieved "nearly equal benchmark scores" versus Claude Code, Codex, and “other popular harnesses” when tested using the Harbor framework, distributed across multiple nodes of AWS’ own EC2 virtual servers for benchmarking tests. Strands consumed 28 percent fewer tokens across six benchmark tests when compared to “Claude or GPT models,” claims AWS, and in some cases had better accuracy than other harnesses too. DeepSeek's harness, AWS admits, was more token efficient but - we're told - was less accurate on the same tests. AWS credits this performance to the Strands harness’ default prompt caching and context management settings. Per the announcement post, it defaults to truncating tool results over 1,500
-
-### RansomHouse picks a fight with Namibia's defense establishment
-Mon, 21 Sep 2026 17:19:06 +0200 — https://www.theregister.com/cyber-crime/2026/09/21/ransomhouse-picks-a-fight-with-namibias-defense-establishment/5297816
-
-Namibia's computer security incident response team has confirmed unauthorized activity in the defense ministry's network and linked it to the RansomHouse cybercrime group. In an unusually direct attribution, NAM-CSIRT named the group after RansomHouse listed the supposed victim on its leak site on September 16. RansomHouse identified the victim as the "Namibian Defence Force," although the domain in its listing belongs to the Ministry of Defence and Veterans Affairs (MODVA), the government department overseeing the military. Either way, openly extorting a country's defense establishment is a bold move even by ransomware standards. RansomHouse's website stated: "Dear management of Namibian Defence Force. We were waiting for you for quite some time, but it seems that your IT department decided to conceal the incident that took place in your company. "We strongly recommend you to contact us to prevent your confidential data, projects documents from being leaked." The listing treated the target as a company with $434 million in annual revenue, but NAM-CSIRT subsequently confirmed unauthorized activity within MODVA's network. NAM-CSIRT said in a statement: "Analysis of the affected systems established that the incident is associated with the RansomHouse ransomware group, a cybercriminal syndicate known internationally for deploying ransomware and engaging in so-called double extortion tactics where threat actors encrypt systems while simultaneously threatening to disclose alleged 
-
-### Schneider says hotter coolant can make AI datacenters less thirsty
-Mon, 21 Sep 2026 16:29:00 +0200 — https://www.theregister.com/on-prem/2026/09/21/schneider-says-hotter-coolant-can-make-ai-datacenters-less-thirsty/5297759
-
-A datacenter's cooling architecture can have a decisive effect on its water and energy use, according to Schneider Electric, which argues that operators should evaluate it early in the design process. In a white paper published today, the energy management specialist compares four modeled 100 MW datacenter designs, ranging from traditional air cooling to optimized liquid-cooling systems. The paper, "Water Usage at AI Scale: Insights from a 100 MW Comparative Analysis," concludes that moving from air to liquid cooling consistently improves energy efficiency and can reduce water consumption in constrained locations. Schneider has a commercial interest in that conclusion. It acquired a 75 percent controlling stake in liquid-cooling specialist Motivair in 2024 and said it intended to buy the remainder by 2028. The assessment also models the effect of location by applying the four designs to the annual weather profiles of Paris, France, and Dallas, Texas. Schneider's model puts the highest onsite water consumption at a traditionally air-cooled facility in Dallas. Switching to liquid cooling with coolant supplied at 45°C (113°F) reduces water use by at least 50 percent, it claims. The firm says the results demonstrate how location, operating temperature, and cooling architecture determine a facility's water requirements, even as rack densities and the demands of power-hungry AI systems increase. Water consumption is determined largely by the equipment used to reject heat outside th
-
-### Amazon shows Meta's Muse AI shopping agent the door
-Mon, 21 Sep 2026 15:28:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/21/amazon-shows-metas-muse-ai-shopping-agent-the-door/5297777
-
-Amazon has blocked Meta's new Muse AI agent from shopping on its website, apparently deciding that having someone else's bot wandering through customer accounts and placing orders is a step too far. The ecommerce giant cut off Muse after unsuccessfully asking Meta to prevent the personal AI agent from accessing its store, GeekWire reported. Users who try anyway are told that access by an "unauthorized AI agent" violates Amazon's Conditions of Use. The Register asked Muse to find the "best-reviewed ergonomic office chair," add it to our cart, and proceed to the final checkout screen. Muse reported: "Hit a snag: Amazon is showing an anti-bot wall that blocks automated browsers outright – the browser couldn't even get to the search page, so no chair was found or added. I didn't push past it, since the notice says continuing would violate Amazon's terms." Meta launched Muse in the US earlier this month as an agent capable of doing more than answering questions. It can act on a user's behalf by shopping, making payments, reading emails, and managing calendars. When a service does not provide a public API, Meta says Muse can operate it through a browser much as a human would. Amazon is not keen on that arrangement. The retailer told GeekWire that Meta had neither informed it that Muse would access the store nor obtained authorization. It also claimed that the agent fails to identify itself while browsing and appears to capture and store customer credentials. Amazon said Muse could 
-
-### Clop gets a taste of its own medicine after ShinyHunters hijack leak site
-Mon, 21 Sep 2026 14:46:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/21/clop-gets-a-taste-of-its-own-medicine-after-shinyhunters-hijack-leak-site/5297702
-
-Clop has discovered what life is like on the receiving end of an extortion demand after rival crew ShinyHunters hijacked its leak site and demanded an eight-figure payout. The takeover surfaced over the weekend, when Clop's dark web leak site displayed a large "DOMAIN SEIZED BY SHINYHUNTERS" banner and the tagline "rooting your systems since '19 ;)." ShinyHunters told Reuters that it broke into the site on Friday by exploiting a vulnerability in the software powering it. The crew claimed this gave it extensive access to Clop's infrastructure. "We basically own them now," it said. Clop has not responded publicly, although two security researchers told Reuters that the clash appeared genuine. The Register has also viewed the defaced site, where ShinyHunters is posting increasingly colorful demands. According to ShinyHunters, the feud dates back to Clop's attacks on Oracle E-Business Suite (EBS) customers last year. ShinyHunters claims it discovered the zero-day first, only for Clop to obtain the exploit and use it against corporate networks. It now wants a share of the proceeds. In a message posted on September 19, ShinyHunters demanded an eight-figure payment, claiming the sum represented 2.333 percent of its own net worth. A later update raised the demand to "all the money you made off the EBS campaign plus more AND WITH INTEREST." ShinyHunters also threatened to identify companies that allegedly paid Clop and publish the sums and Bitcoin addresses involved. ShinyHunters turn
-
-### NASA gives SpaceX a billion reasons to keep flying Crew Dragon
-Mon, 21 Sep 2026 14:01:00 +0200 — https://www.theregister.com/offbeat/2026/09/21/nasa-gives-spacex-a-billion-reasons-to-keep-flying-crew-dragon/5297705
-
-NASA has added almost $1 billion to SpaceX's commercial crew contract for three more Crew Dragon missions to the International Space Station (ISS). The $946 million contract modification covers Crew-15, Crew-16, and Crew-17, along with ground operations, launch, in-orbit services, return and recovery, cargo transportation, and lifeboat capability while the spacecraft is docked to the ISS. The addition brings the value of SpaceX's Commercial Crew Transportation Capability (CCtCap) contract to $5.92 billion. Whether there will be more remains unclear. NASA explicitly said the award does not prevent it from buying additional transportation services if needed. SpaceX has said it ultimately intends to retire Dragon and Falcon 9 in favor of Starship, assuming it can get the vastly larger vehicle operating reliably. NASA plans to retire the ISS around 2030 and use a SpaceX-developed vehicle to perform its controlled deorbit. NASA lists mission readiness dates in 2027 and 2028, with the contract's period of performance running through 2030. NASA awarded CCtCap contracts to SpaceX and Boeing in 2014. SpaceX has since flown numerous crews to the ISS. Boeing, not so much. The aviation giant's calamity capsule, Starliner, finally carried two astronauts to the outpost in 2024. They remained there until a SpaceX Crew Dragon brought them home after NASA decided that returning them aboard the Boeing vehicle posed too much risk. Starliner later returned safely to Earth without a crew. If thes
-
-### American datacenters might be getting dirtier, but at least they'll be efficient
-Mon, 21 Sep 2026 13:15:00 +0200 — https://www.theregister.com/systems/2026/09/21/american-datacenters-might-be-getting-dirtier-but-at-least-theyll-be-efficient/5297526
-
-Just when you thought concerns over datacenter power generation in the US couldn't get any worse, the Trump administration gets rid of emissions restrictions on power plants. You can listen to the latest episode of The Kettle on this page, Spotify, Apple Podcasts, or YouTube. You can also subscribe on those platforms to be notified when a new episode goes live. The EPA is also considering getting rid of reporting requirements on small-scale polluters (e.g., datacenters with on-site power generation), meaning all those unrestricted emissions at new bit barns might not even be mentioned to the public. But hey, at least Nvidia is riding to the rescue with some datacenter energy efficiency improvements, as self-serving as they may be for the company's bottom line. Join host Brandon Vigliarolo, systems editor Tobias Mann, and IT infrastructure reporter Dan Robinson as they discuss these developments and why coal may not come roaring back as a datacenter power source anytime soon. A lightly edited transcript is included below: Brandon (00:01): Hi everyone and welcome to the latest episode of The Register's Kettle Podcast. I'm Reg Reporter Brandon Vigliarolo, and this week we have a couple of stories to review on the topic of datacenter power. AI is driving the construction of massive datacenters around the US, and people are beginning to push back. But recent moves by the Environmental Protection Agency are threatening to keep more people in the dark while making it easier to pollu
-
-### Rustaceans warned of job interviews with a malicious payload
-Mon, 21 Sep 2026 12:33:00 +0200 — https://www.theregister.com/security/2026/09/21/rustaceans-warned-of-job-interviews-with-a-malicious-payload/5297690
-
-The Rust project has warned that attackers appear to be targeting its contributors and crate owners in an attempt to compromise their devices and accounts, potentially allowing malware to be distributed through its package ecosystem. Posting to the Rust blog, security-focused software engineer Adam Harvey said the tactics resemble those used in North Korean fake recruiter campaigns. "A video call is set up for something positive – maybe for a job, maybe for a project, maybe for a contract opportunity – and then that's used as a vector to either get the target to install something on their computer (such as a purportedly missing audio codec) or execute another command (for example, via putting a command on the clipboard)," Harvey wrote. "These attackers are setting up new but legitimate-seeming company profiles, including plausible LinkedIn presences, in order to pass cursory inspection." The warning follows several attacks targeting the Rust community over the summer. In June, Rust developers were targeted with fake interview approaches purporting to come from a Singaporean venture capital firm. Matt Mastracci, who maintains packages on Rust's crates.io registry, said the supposedly recruiting business turned out to be defunct. The initial approach nevertheless appeared convincing and almost led to his machine being infected with a remote access trojan (RAT). The attempted deployment of a RAT resembles activity described in an international advisory issued last week by agenci
+London-based neocloud Nscale has filed to go public on the New York Stock Exchange after expanding rapidly on the back of the AI infrastructure boom. The rent-a-GPU business, which emerged from cryptocurrency miner Arkon Energy, filed a Form S-1 registration statement with the US Securities and Exchange Commission (SEC) on Friday. It intends to list under the ticker NSCL. The document does not specify the number of shares it'll offer, their expected price, or the valuation Nscale hopes to achieve.The Financial Times previously reported that the company was targeting a valuation of up to $35 billion. The filing shows how costly Nscale's expansion has been. Revenue surged from $10.4 million to $140.6 million in the six months to June 30, but its net loss widened from $368.9 million to $1.02 billion over the same period. Nscale reported $103.4 billion in active and contracted total contract value (TCV) as of August 31, up from $38 billion at the end of 2025. That figure is not recognized revenue or a conventional backlog: only $2.6 billion was attached to active contracts, and delivery of the remainder depends on projects being financed and built. Agreements with Anthropic account for up to around $44.6 billion, although Nscale warned it had not secured binding commitments for the financing required to fulfill them. Goldman Sachs and Morgan Stanley are acting as lead bookrunners for the offering. Nscale, which operates datacenters in Europe and the US, describes itself as a full
 
 ## Engadget
+
+### OpenAI faces lawsuit from British Columbia over Tumbler Ridge shooting
+Tue, 22 Sep 2026 08:47:27 +0000 — https://www.engadget.com/2264989/openai-tumbler-ridge-shooting-lawsuit/
+
+The Canadian province of British Columbia has sued OpenAI for failing to notify authorities about the Tumbler Ridge shooter's chats.
+
+### Why it's important to unplug your PC during a power outage
+Tue, 22 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2261632/why-important-unplug-pc-power-outage/
+
+Power outages can damage your tech, but the bigger risk happens when the electricity comes back on. Don't let your tech get fried.
+
+### Why is your laptop fan so loud?
+Tue, 22 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2261591/why-laptop-fan-so-loud/
+
+Laptop fans do an important job, but sometimes they get annoyingly loud. Here's what it might mean and whether you should be concerned.
+
+### These drones could cover up to 98 percent of the world's oceans by 2028
+Mon, 21 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2261587/argo-deep-drones-cover-98-percent-of-oceans-by-2028/
+
+New ocean-sensing drones are being built to withstand the deepest depths of the ocean.
+
+### How to turn your old Windows PC into a Chromebook for free
+Mon, 21 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2261523/how-to-turn-your-old-windows-pc-into-chromebook-free/
+
+Don't count your old Windows laptop out yet. Installing ChromeOS Flex is a great option to keep it usable, even if it's not as fast as it once was.
+
+### Wired vs. wireless keyboards: Is there really a difference in performance?
+Mon, 21 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2261521/wired-vs-wireless-keyboard-performance-differences-explained/
+
+Wireless keyboards introduce convenience and portability, but they can't quite keep up with wired keyboards in some cases.
+
+### How to turn off your Google location history
+Mon, 21 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2261383/how-to-turn-off-google-location-history/
+
+Google Maps' Timeline feature is great for looking back at your past travels, but it's also discomforting to see all that history in one place.
+
+### Bungie leaders now say the studio's 'not done with Destiny'
+Mon, 21 Sep 2026 21:34:50 +0000 — https://www.engadget.com/2264759/bungie-leaders-now-say-the-studio-is-not-done-with-destiny/
+
+It also promised players that Marathon will keep growing and improving.
 
 ### Does your iPhone's Safari browser privacy features actually make you safer?
 Mon, 21 Sep 2026 20:00:00 +0000 — https://www.engadget.com/2261254/do-safari-privacy-features-keep-iphone-safe/
@@ -312,47 +362,17 @@ Mon, 21 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2264291/why-apple-m
 
 A big part of the story is soaring memory and storage prices, but other factors come into play as well.
 
-### Paramount settles US states' antitrust lawsuit, clearing the way for its Warner Bros. acquisition
-Mon, 21 Sep 2026 18:28:27 +0000 — https://www.engadget.com/2264474/paramount-settles-us-state-antitrust-lawsuit-clearing-warner-bros-acquisition-plans/
-
-The mega-merger of the year will apparently go forward.
-
-### How the iPhone Duo's software is different from a standard iPhone
-Mon, 21 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2261250/iphone-duo-vs-standard-software-differences/
-
-The iPhone Duo makes some big changes to iOS to account for the foldable design. It affects the camera, multitasking and more.
-
-### If you don't like using Siri, this iOS 27 feature may change your mind
-Mon, 21 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2261133/dont-like-siri-ai-ios-27-feature-may-change-mind/
-
-Siri has long been known for its stagnation, but that changes with iOS 27 and accompanying releases. Siri has undergone major improvements.
-
-### Tesla will soon roll out FSD Supervised in the Czech Republic
-Mon, 21 Sep 2026 17:17:02 +0000 — https://www.engadget.com/2264292/tesla-will-soon-roll-out-fsd-supervised-in-the-czech-republic/
-
-Its foothold in the EU may be growing, but larger countries are still wary of the self-driving tech.
-
-### Engadget Indie Pitch: Dressmaker
-Mon, 21 Sep 2026 17:00:00 +0000 — https://www.engadget.com/2264203/engadget-indie-pitch-dressmaker/
-
-The viral indie game Dressmaker hits Steam today, so here's a juicy QA with the dev team at Cozy Lives.
-
-### Google Vs Samsung: What features set their digital wallets apart?
-Mon, 21 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2261083/google-vs-samsung-digital-wallet-features-comparison/
-
-Google and Samsung's digital wallets are solid options for storing cards, passes, tickets and IDs on Android devices, but there are some subtle differences.
-
-### Why is there a waitlist for Siri AI in iOS 27?
-Mon, 21 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2261054/why-siri-ai-ios-27-waitlist/
-
-Siri AI brings a lot of improvements, but you might not be able to use it for a while, even with iOS 27 and a compatible device.
-
-### How Nintendo's Game & Watch was inspired by a calculator and boredom
-Mon, 21 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2260782/nintendo-game-watch-explained/
-
-The Game & Watch line was one of Nintendo's most successful early game projects, and the man behind it was inspired from an unlikely source.
-
 ## TechCrunch
+
+### Morphotonics raises €40M to expand its display tech into data centers
+Tue, 22 Sep 2026 06:00:00 +0000 — https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/
+
+Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.
+
+### The man who built Apple s stores doesn t buy Silicon Valley s bet on AI shopping
+Mon, 21 Sep 2026 23:44:28 +0000 — https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/
+
+Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
 
 ### OpenAI forms math advisory group as its AI resolves more than 100 open problems
 Mon, 21 Sep 2026 20:15:58 +0000 — https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/
@@ -403,14 +423,4 @@ Where will the next breakout startup come from? Benchmark’s full partnership w
 Mon, 21 Sep 2026 14:39:22 +0000 — https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/
 
 Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.
-
-### From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026
-Mon, 21 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/
-
-From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.
-
-### Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026
-Mon, 21 Sep 2026 14:15:00 +0000 — https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/
-
-Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch competitions.
 

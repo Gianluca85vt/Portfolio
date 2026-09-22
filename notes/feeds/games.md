@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-21T20:36:27.886Z
+# Games — harvested 2026-09-22T09:28:30.464Z
 
 ## Eurogamer
+
+### Second wave of Xbox cuts reported to be happening this week, with "several" studios apparently facing consolidation
+Tue, 22 Sep 2026 08:36:03 +0000 — https://www.eurogamer.net/xbox-second-wave-cuts-layoffs-report
+
+Xbox is reportedly preparing to lay off hundreds more people this week as the company plans to consolidate several of its studios. Read more
 
 ### Weeks before GTA 6, Rockstar Games imposes new guidelines that restrict mods for missions, maps, updated storylines, and third-party IP
 Mon, 21 Sep 2026 19:23:49 +0000 — https://www.eurogamer.net/gta-6-rockstar-games-mod-guidelines-restrictions
@@ -42,10 +47,10 @@ Mon, 21 Sep 2026 13:45:52 +0000 — https://www.eurogamer.net/marvels-wolverine-
 
 Some Marvel's Wolverine players have claimed their game has been altered to censor aspects of Mystique's lesbian relationship and marriage to Tyger. A number of posts on Reddit and social media appear to show how differently the relationship is referenced compared to the uncensored version. Read more
 
-### The Blood of Dawnwalker cost less than expected to make - it's more of a double-A game than a triple-A blockbuster
+### The Blood of Dawnwalker cost less than expected to make but former NetEase investor defends its status as a top-tier production
 Mon, 21 Sep 2026 13:32:51 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-budget-revealed
 
-Polish developer Rebel Wolves has revealed the budget for dark fantasy vampire role-playing game The Blood of Dawnwalker, and it's lower than expected, aligning it more closely with a double-A production than a triple-A blockbuster. Read more
+UPDATE 22ND SEPTEMBER: Former NetEase studio investor and Rebel Wolves board director Simon Zhu has revealed the "entire budget" of The Blood of Dawnwalker as $45m, and said that: "In Poland, that budget is AAA." Read more
 
 ### Microsoft patents idea for in-game PC and Xbox adverts shown during downtime "trigger events"
 Mon, 21 Sep 2026 12:19:43 +0000 — https://www.eurogamer.net/microsoft-patent-ads-in-gameplay
@@ -57,12 +62,12 @@ Mon, 21 Sep 2026 10:38:55 +0000 — https://www.eurogamer.net/zach-cregger-resid
 
 Zach Cregger's quirky new Resident Evil film is a big success, recording the best opening weekend for a Resident Evil film ever. Read more
 
-### Dead Cells studio's Castlevania: Belmont's Curse is getting a demo in time for the spooky season
-Mon, 21 Sep 2026 09:28:53 +0000 — https://www.eurogamer.net/castlevania-belmonts-curse-demo-october
-
-If you've been hungering for something gothic as we inch towards October, the scariest month of the year, then you're in luck. Castlevania: Belmont's Curse is getting a demo you'll be able to sink your fangs into soon. Read more
-
 ## GamesIndustry.biz
+
+### Xbox reportedly set to announce second round of layoffs this week
+Tue, 22 Sep 2026 07:55:38 +0000 — https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
+
+Xbox is reportedly preparing for a second round of layoffs this week, according to The Information . Read more
 
 ### "It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs
 Mon, 21 Sep 2026 16:24:23 +0000 — https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs
@@ -77,7 +82,7 @@ Activision's Team Ricochet, which manages Call of Duty's anti-cheat initiative, 
 ### Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion
 Mon, 21 Sep 2026 12:01:04 +0000 — https://www.gamesindustry.biz/tokyo-game-show-2026-celebrated-the-past-and-an-uncertain-ai-future-opinion
 
-Tokyo Game Show&rsquo;s 30th anniversary badged itself as "the longest five days of nonstop play", a showcase of the future of gaming. In reality, the event in Japan&rsquo;s largest gaming convention center, Makuhari Messe, ended after only four, the final day canceled due to the risk of an oncoming typhoon , and seemed to be mightily obsessed with the past, only otherwise hinting towards a more uncertain future. Read more
+Tokyo Game Show's 30th anniversary badged itself as "the longest five days of nonstop play", a showcase of the future of gaming. In reality, the event in Japan's largest gaming convention center, Makuhari Messe, ended after only four, the final day canceled due to the risk of an oncoming typhoon , and seemed to be mightily obsessed with the past, only otherwise hinting towards a more uncertain future. Read more
 
 ### Northern Forge Studios and Runaway Play lead Green Games Jam Awards 2026
 Mon, 21 Sep 2026 11:34:05 +0000 — https://www.gamesindustry.biz/northern-forge-studios-and-runaway-play-lead-green-games-jam-awards-2026
@@ -94,6 +99,21 @@ Hideo Kojima didn't think Physint " would be on the list of being cancelled " by
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### 2 More September 2026 PS Plus Extra Games Available to Download Now
+Tue, 22 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/2-more-september-2026-ps-plus-extra-games-available-to-download-now
+
+Ball X Pit! Slitterhead! If you're a PS Plus Extra member in the UK, USA, or Japan territories, you've got another two PS5, PS4 games to play as part of your membership starting today. Ball X Pit and Slitterhead join the service in those regions as of 22nd September, though anyone outside these places already gained access to the full September 2026 lineup last week. This is only in the UK, USA, and Japan, where Sony is experimenting with how it rolls out PS Plus Extra titles. Read the full article on pushsquare.com
+
+### Hundreds More Xbox Layoffs Reportedly on the Way, Studios to Be Consolidated
+Tue, 22 Sep 2026 08:30:00 GMT — https://www.pushsquare.com/news/2026/09/hundreds-more-xbox-layoffs-reportedly-on-the-way-studios-to-be-consolidated
+
+Halo series to go under Activision, it's suggested. Microsoft will confirm another wave of job losses within its Xbox division, affecting "hundreds" of workers, imminently, it is being widely reported. Via outlet The Information , it is claimed hundreds of employees will lose their jobs "this week", and in addition, "several" developers within Xbox Game Studios will be consolidated. Read the full article on pushsquare.com
+
+### Huge 30GB Update Prepares Ghost of Yotei for DLC, Some Features Already Live Now
+Mon, 21 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/huge-30gb-update-prepares-ghost-of-yotei-for-dlc-some-features-already-live-now
+
+Try the Beauty of Yotei mode and transmog now. Ghost of Yotei players were surprised today when their PS5 boxes unexpectedly pulled a 29GB patch for the PS5 game, but this isn't Sucker Punch releasing the Echoes of Sekigahara expansion early. Instead, this appears to be an update to the game that prepares it for the Complete Edition enhancement coming at the start of next month. Some of the advertised features for that refresh have already gone live, though. Read the full article on pushsquare.com
 
 ### Sony Seemingly Incentivising Digital PS5 Purchases with Cashback
 Mon, 21 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/sony-seemingly-incentivising-digital-ps5-purchases-with-cashback
@@ -139,21 +159,6 @@ Special delivery. Over the weekend, Atlus dropped a second deep dive video for P
 Mon, 21 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/classic-rpgs-lufia-and-lufia-2-are-adventuring-to-ps5-with-enhanced-gameplay
 
 True Luf. Classic SNES RPGs Lufia and Lufia 2 will be reborn on PS5 at some point next year. New publisher Clear River Games, in partnership with original publisher TAITO, is bringing the duology back, and so if you're old enough to remember these relatively ancient adventures, then you're (hopefully) in for a seriously nostalgic treat. Read the full article on pushsquare.com
-
-### With the Death of Boxed PlayStation Games Incoming, Sony Records Its Best Physical UK Launch of 2026
-Mon, 21 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/with-the-death-of-boxed-playstation-games-incoming-sony-records-its-best-physical-uk-launch-of-2026
-
-The UK's third strongest release of the year. There are roughly 15-16 months left until Sony kills off physical PlayStation games, so it's always a fun story when news of a disc-based success rolls around for the company. During its first week on the market, Marvel's Wolverine recorded PlayStation's biggest physical sales launch in the UK in 2026. Taking into account every other release and console, Marvel's Wolverine had the third-biggest release in terms of boxed purchases of the year so far. Only Resident Evil Requiem and 007 First Light bettered it. Read the full article on pushsquare.com
-
-### First PS Plus Extra Game for October 2026 Announced
-Mon, 21 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/09/first-ps-plus-extra-game-for-october-2026-announced
-
-Mycopunk gets a PS5 release date. Devolver Digital has confirmed Mycopunk will come to PS5 on 20th October 2026. You can see it in action in the newest trailer above, but another key piece of information is the reveal gives us our first PS Plus Extra game for October 2026. During this month's State of Play livestream , Sony announced Mycopunk would be launching straight into PS Plus Extra on its release date. Now we know that date to be 20th October 2026. Read the full article on pushsquare.com
-
-### Try One of 2026 s Most Anticipated 2D Games in Castlevania PS5 Demo
-Mon, 21 Sep 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/09/try-one-of-2026s-most-anticipated-2d-games-in-castlevania-ps5-demo
-
-Available from 1st October. The promising 2D Metroidvania game Castlevania: Belmont's Curse is being treated to a demo two weeks ahead of its PS5 release date. The demo will be available from 1st October 2026, and it lets you play the opening chapter of the game. If you like what you play, you'll be able to transfer your save data over to the full game, which'll be out for PS5 on 15th October 2026. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -203,6 +208,31 @@ no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
 
 ## VGC
 
+### Monster Hunter Wilds Ascendance devs discuss Switch 2, Wilds feedback, and the expansion s time skip
+Tue, 22 Sep 2026 09:25:20 +0000 — https://www.videogameschronicle.com/features/interviews/monster-hunter-wilds-ascendance-devs-discuss-switch-2-wilds-feedback-and-the-expansions-time-skip/
+
+Capcom's Monster Hunter Wilds leaders discuss the expansion… Source
+
+### Sega wanted to cancel the entire Sonic series but the first movie saved it, says Sonic Team head Iizuka
+Tue, 22 Sep 2026 08:40:07 +0000 — https://www.videogameschronicle.com/news/sega-wanted-to-cancel-the-entire-sonic-series-but-the-first-movie-saved-it-says-sonic-team-head-iizuka/
+
+The live-action Sonic film "definitely changed the course of this franchise… Source
+
+### ‘We were almost dead’: NeoGeo boss reveals forced redesign behind AES+ delay
+Tue, 22 Sep 2026 07:00:04 +0000 — https://www.videogameschronicle.com/news/we-were-almost-dead-neogeo-boss-reveals-forced-redesign-behind-aes-delay/
+
+Plaion reveals how the AI-driven chip shortage nearly cancelled NeoGeo AES+ entirely… Source
+
+### Xbox will reportedly consolidate several studios in new major wave of layoffs
+Tue, 22 Sep 2026 04:18:39 +0000 — https://www.videogameschronicle.com/news/xbox-will-reportedly-consolidate-several-studios-in-new-major-wave-of-layoffs/
+
+Microsoft is reportedly planning to cut hundreds more Xbox jobs this week… Source
+
+### Silent Hill Townfall: Human organ transplant box puzzle solution
+Tue, 22 Sep 2026 00:50:46 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-human-organ-transplant-box-puzzle-solution/
+
+How to open the human organ transplant box in Zoe's house in Silent Hill Townfall… Source
+
 ### We intend to earn back your trust : Bungie announces plans to bring back Destiny 2 and improve Marathon
 Mon, 21 Sep 2026 19:11:49 +0000 — https://www.videogameschronicle.com/news/we-intend-to-earn-back-your-trust-bungie-announces-plans-to-bring-back-destiny-2-and-improve-marathon/
 
@@ -228,151 +258,126 @@ Mon, 21 Sep 2026 12:10:46 +0000 — https://www.videogameschronicle.com/guide/fi
 
 How to find the Paradise Fish for Ninae's Negotiation (Hard) in Fire Emblem: Fortune's Weave… Source
 
-### Final Fantasy 7 Revelation will let players raise their character s level automatically to skip grinding
-Mon, 21 Sep 2026 11:33:47 +0000 — https://www.videogameschronicle.com/news/final-fantasy-revelation-will-let-players-automatically-raise-their-characters-level-to-skip-grinding/
-
-It's designed for players who don't want the side content and just want the main story… Source
-
-### Fire Emblem Fortune’s Weave: Lost Temple Cat location quest guide
-Mon, 21 Sep 2026 10:53:06 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-lost-temple-cat-location-quest-guide/
-
-Where to find the temple's lost cat in Fire Emblem: Fortune's Weave… Source
-
-### Fire Emblem Fortune’s Weave: Wandering Wood dungeon guide
-Mon, 21 Sep 2026 10:36:06 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-wandering-wood-dungeon-guide/
-
-How to get through the Wandering Wood in Fire Emblem: Fortune's Weave… Source
-
-### 007 First Light was delayed on Switch 2 for a third time to let players experience it as fully as possible , IO says
-Mon, 21 Sep 2026 10:10:51 +0000 — https://www.videogameschronicle.com/news/007-first-light-was-delayed-on-switch-2-for-a-third-time-to-let-players-experience-it-as-fully-as-possible-io-says/
-
-The game is now set for release on Switch 2 in March 2027… Source
-
-### I was just shocked and surprised : Hideo Kojima says Sony told him Physint was being cancelled over a Zoom call
-Mon, 21 Sep 2026 09:25:04 +0000 — https://www.videogameschronicle.com/news/i-was-just-shocked-and-surprised-hideo-kojima-says-sony-told-him-physint-was-being-cancelled-over-a-zoom-call/
-
-I didn’t have any anger or sadness. I was just thinking 'what should I do?'" Source
-
 ## Polygon
 
-### Game of Thrones Actor Addresses Marvel's Midnight Sons Movie Rumors
-Mon, 21 Sep 2026 20:26:28 GMT — https://www.polygon.com/marvel-midnight-sons-kit-harington-black-knight/
+### The Biggest Anime Movie of 2027 May Have Just Gotten a Release Date
+Tue, 22 Sep 2026 09:12:04 GMT — https://www.polygon.com/demon-slayer-infinity-castle-release-date-leaked-september-2027-one-piece/
 
-Of the many post-credits scene teases in the Marvel Cinematic Universe , one movie may have the lowest hit rate when it comes to fulfilling its promises: 2021's Eternals . The end of that movie set up some major expansions to the MCU, including the reveal of Harry Styles as Thanos' brother Eros and the briefest tease of Mahershala Ali's Blade and Kit Harington's Black Knight. There was also the giant marble Celestial in the Indian Ocean, but that was nominally addressed in last year's Captain America: Brave New World .
+While there are still a few months to go before 2026 ends, anime fans know that they have to wait until 2027 for the biggest franchises to release their next blockbusters. At the top of most watchlists must surely be Demon Slayer: Infinity Castle 2 , the sequel to the highest-grossing anime movie of all time, which still does not have a confirmed release window. Meanwhile, One Piece has announced that its next movie will come out in the summer of 2027, and it will be the first direct tie-in with the official story of the manga and anime: One Piece Film: God Valley .
 
-### Demon Slayer: Infinity Castle Gets New Official Streaming Home Next Week
-Mon, 21 Sep 2026 20:07:29 GMT — https://www.polygon.com/demon-slayer-infinity-castle-hulu-streaming-release-date-where-to-watch/
+### 23 Years Later, the Most Addictive Sci-Fi Show Ever Made Officially Blasts Onto Free Streaming
+Tue, 22 Sep 2026 08:00:14 GMT — https://www.polygon.com/battlestar-galactica-free-streaming-pluto-tv/
 
-After a year of waiting, Demon Slayer fans finally got to watch Demon Slayer: Kimetsu No Yaiba The Movie: Infinity Castle at home when it landed on Crunchyroll in July. Its arrival on streaming came after a historic opening weekend at the domestic box office and a record-breaking theatrical run, which included it becoming the highest-grossing Japanese film of all time.
+The show is Battlestar Galactica , Ronald D. Moore’s beloved sci-fi series that ran for four seasons from 2004 to 2009. Once Fred and Carrie start watching , they cannot stop. One episode becomes another and another, until watching Battlestar Galactica completely consumes — and destroys — their lives. The sketch aired in 2012, when binge-watching was still a novel thing that made for a good punchline.
 
-### Fire Emblem Fortune's Weave's Support Conversations Are Terrific, Actually
-Mon, 21 Sep 2026 20:00:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weaves-support-conversations/
+### Anya Taylor-Joy's Near-Perfect Breakout Folk Thriller Is Officially Leaving Netflix
+Tue, 22 Sep 2026 05:00:15 GMT — https://www.polygon.com/anya-taylor-joy-the-witch-horror-heroine/
 
-Aside from the four non-playable Flame Lords (that's Orchel, Talimun, Anatolia, and Bertrand), a couple of characters kept showing up in comments from the dismayed: Guzran and Catania. Guzran likes training promising young greenhorns, but has no supports with anyone in Cai's party. Catania lost everything in the Cydonia Massacre (a fact you learn from her character info sheet), but never acknowledges Leda's existence. After spending nearly two months with this game, I've noticed a couple of things about how it handles support conversations. One is that Intelligent Systems minimized filler material as much as possible. You see that mostly in battles, quests (completed quests in one cleared path are automatically completed in another), and dungeons.That applies to relationships and character development, too.
+Anya Taylor-Joy has firmly established herself as one of her generation’s leading and most versatile actors. At 30, she has built a career across film and television , appearing in franchises like Super Mario and Mad Max , and winning a Golden Globe for her role in The Queen’s Gambit . This year she starred in the Apple TV series Lucky and will also appear in Dune: Part Three . She is one of the few modern stars who comfortably fit the movie-star label. It all began with her career-defining breakout role, which turned the final girl trope on its head — a girl who survives not by fighting, but by giving in.
 
-### Fire Emblem: Fortune’s Weave Does One Thing Far Better Than Three Houses
-Mon, 21 Sep 2026 19:47:45 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-sex-queerness-romance/
+### Stephen King's Most Unhinged Sci-Fi Action Masterpiece Is Officially Free to Watch on YouTube
+Tue, 22 Sep 2026 04:00:20 GMT — https://www.polygon.com/stephen-king-the-running-man-arnold-schwarzenegger-streaming-free-youtube/
 
-Fire Emblem: Three Houses infamously launched a thousand ships . The Hogwarts-inspired school setting and emphasis on relationship building spurred tons of fans to create fan art and fiction based on their favorite potential romantic pairings, even if the content of the game itself was mostly kid-friendly. The latest installment of the series, Fire Emblem: Fortune’s Weave , takes things a step further. Though there isn’t a dedicated romance or paired ending mechanic this time around, the characters of Fortune’s Weave wear their hearts on their sleeves, openly discussing their perspectives on sex and romance in a way that feels like a refreshing step forward for the series.
+Stephen King is one of the definitive authors of our time. Known as a horror master, he’s worked across all sorts of genres, from high fantasy to dystopian fiction. King's visions of the future are often just as bleak as his work in horror, swapping supernatural monsters for advanced technology and how it complicates the human condition. They're also often eerily prescient — and only get scarier as time goes on.
 
-### Where to find enrietto in Fire Emblem Fortune's Weave
-Mon, 21 Sep 2026 19:46:59 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-enrietto-where-to-find-location-energy-nuts/
+### Pokémon Winds and Winds Leaks Tease A Pokédex Too Massive To Finish
+Tue, 22 Sep 2026 00:05:09 GMT — https://www.polygon.com/pokemon-winds-waves-big-new-pokedex/
 
-Enrietto is a rare plant in Fire Emblem: Fortune's Weave that only the adventurous — or those with enough coins in their pockets — can obtain. Searching for and collecting materials is an important part of the gameplay loop in this game, since you will need plants, fish and meat to prepare meals, and ores to refine and repair pieces of equipment. There's always also the chance that someone from the Vandahl Trading Co. will be willing to trade rare items for the materials you have.
+This summer's Pokémon Winds and Waves rumors and leaks suggested next year’s mainline entry could feature 300 new Pokémon. These leaks, by any rational person’s read, should be taken with an entire Stantler lick of salt. But they’re nevertheless worrying. Hey, even a broken Hoothoot is right twice a day!
 
-### Persona 4 Revival Is Bringing Back One of the Rpg’s Most Important Actors
-Mon, 21 Sep 2026 19:36:38 GMT — https://www.polygon.com/persona-4-revival-cast-announced-adachi/
+### 9 Bonkers Video Game DLCs That Completely Rewrote Expectations
+Tue, 22 Sep 2026 00:00:15 GMT — https://www.polygon.com/best-video-game-dlcs/
 
-Johnny Yong Bosch will voice Adachi in Persona 4 Revival , Atlus confirmed Monday. Atlus previously made waves amongst fans when it revealed it planned to cast new actors for the remake of the 2008 role-playing game. So it came as quite a shock that Bosch would be returning to the role, though it's a welcome one considering just how big the mark his portrayal of Adachi has left on Persona 4 .
+When you grab downloadable content for a game, generally, you’re expecting more of the same experience: a few extra hours, some new gear, perhaps a boss fight the base game didn’t have room for. What if, instead of new outfits and a handful of fetch quests, a DLC decided to crown you the new god of madness? What if it dropped you into hell to stop a president’s wedding, or handed the entire story over to a teenager narrating her own homebrew Dungeons & Dragons campaign (complete with a dragon she very clearly made up five minutes ago)?
 
-### Birthday cake slice locations in Fortnite Chapter 7 Season 4
-Mon, 21 Sep 2026 19:27:18 GMT — https://www.polygon.com/fortnite-chapter-7-season-4-slice-birthday-cake-location-where-eat/
+### When is the point of no return in Fire Emblem Fortune's Weave
+Mon, 21 Sep 2026 21:37:28 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-point-of-no-return-recruitment-cutoff/
 
-The birthday cake is back as part of Fortnite 's 9th birthday celebration in Chapter 7 Season 4 , and you'll need to eat four slices to complete one of the Fortnite Celebration quests.
+Fire Emblem: Fortune's Weave 's deadline for getting new characters on your side might loom ominously on the horizon, but the game is more flexible than it lets on. There are a few points of no return , but only one of them is irreversible: the one at the start of Act 3. The game doesn't outright tell you that there's no going back, though it does ask you to be quite sure you want to proceed before moving on. There's a good reason for that. The second deadline is inflexible, and there's no going back afterward.
 
-### FF7 Revelation Will Fix One of Rebirth’s Worst Features
-Mon, 21 Sep 2026 17:53:26 GMT — https://www.polygon.com/ff7-final-fantasy-7-revelation-auto-level/
+### Daredevil: Born Again Officially Ending with Season 3
+Mon, 21 Sep 2026 21:14:49 GMT — https://www.polygon.com/daredevil-born-again-season-3-final-season-disney-plus/
 
-One of the biggest questions when Square Enix announced its plan to remake Final Fantasy 7 into a trilogy of full-length RPGs was how the company would be able to stretch the original's limited content. Rebirth , the second entry in the series, introduced players to a massive open-world that solved the time problem by adding numerous side activities. While some of this was typical of an open-world game, there was widespread criticism that the world felt too bloated. With Revelation , the conclusion of the trilogy, Square Enix is fixing the problem.
+It's the end of an era for the man without fear. According to The Hollywood Reporter , Daredevil: Born Again 's forthcoming third season will also be its last.
 
-### A New Witcher Book Is in the Works, and It Might Be out Sooner than Expected
-Mon, 21 Sep 2026 17:40:04 GMT — https://www.polygon.com/witcher-next-book-andrzej-sapkowski-2027/
+### YouTuber Logan Paul's Latest Pokémon Scheme Was A Total Flop
+Mon, 21 Sep 2026 21:01:40 GMT — https://www.polygon.com/pokemon-logan-paul-youtube-twitch-shiny-steelix-what-happened/
 
-The Witcher fans have a lot to look forward to, like a remaster of The Witcher 3 , the Songs of the Past expansion , and The Witcher 4 , expected sometime in 2028 . Those fans probably know by now that their favorite monster-hunting games are based on an iconic book series (as is the Netflix show ), and they'll be glad to learn that author Andrzej Sapkowski has more up his sleeve.
+Just days after a bewildering visit to the Pentagon , controversial YouTuber Logan Paul embarked on a brand-new Pokémon ploy. His new venture would be tougher than anything he'd attempted before, he claimed — a list that includes selling a Pokémon card for a lot of money. This time, Paul wanted to try his hand at shiny hunting in front of a live audience. It didn't go as planned.
 
-### Xbox Patents New Way to Inject Ads Into Gaming
-Mon, 21 Sep 2026 17:34:17 GMT — https://www.polygon.com/microsoft-patent-in-game-ads-load-screens-pauses/
+### The Resident Evil Movie Is a Perfect Video Game Adaptation
+Mon, 21 Sep 2026 21:00:15 GMT — https://www.polygon.com/resident-evil-movie-zach-cregger-adaptation/
 
-Xbox appears to be brainstorming new and creative ways to torment its player base. As per Respawn First , Microsoft recently filed a patent focused on in-game ads. Specifically, the patent covers an “ad credit” system designed to deliver ads on specific triggers. These advertisements would be tied to two main factors: if a player has exceeded a set amount of ad-free playtime and if they’ve hit a somewhat natural stopping point, like a load screen.
+On paper, Zach Cregger’s Resident Evil shouldn’t be very controversial. It’s not just the best reviewed Resident Evil adaptation of all time, but the best reviewed video game movie of all time by a country mile. If anything, it should be the one game adaptation that fans can finally rally behind rather than another cold body for the pile.
 
 ## PC Gamer
 
-### Rockstar asks modders to please take its games very seriously
-Mon, 21 Sep 2026 20:14:25 +0000 — https://www.pcgamer.com/games/grand-theft-auto/rockstar-asks-modders-to-please-take-its-games-very-seriously/
+### Gigabyte admits an oopsie with Gigabyte Control Center software leaving kernel exposed to attackers
+Tue, 22 Sep 2026 09:17:21 +0000 — https://www.pcgamer.com/hardware/motherboards/gigabyte-admits-an-oopsie-with-gigabyte-control-center-software-leaving-kernel-exposed-to-attackers/
 
-What happened On September 10, Rockstar Games published new mod guidelines on its website, which it says are intended to "maintain a fun, creative, and welcoming place for players and content creators." The guidelines are seem primarily targeted at mods for the FiveM and RedM platforms, which Rockstar acquired —along with their developers—in 2023. Rockstar says mods must "respect our games": As part of its "right to set limits on how others can use our games and brand," the studio says mods can't expand or modify official storylines, missions, and characters, and can't combine settings and characters from different Rockstar franchises. Rockstar says modders can't incorporate other intellectual property or real-world likenesses, and forbids cheat menus or modifications that interfere with its official multiplayer and online services. Rockstar calls its official modding platforms "the exclusive licensed home for our community to monetize their mods," forbidding alternative monetization or commercialization of mods for its games. Do these guidelines have any teeth? Like Rockstar's more formal terms of service and platform license agreements , these guidelines are the sort of standard rhetorical armament a company equips itself with when in case it needs a quick fix for something egregious: If a mod emerges that could give the studio a legal or financial headache, all it'll need to do is tap the sign before giving the offending user-generated content the boot. Of course, those gu
+If you have a Gigabyte motherboard and use the Gigabyte Control Center (GCC) software, you'd better download the latest version of the software. While the risk of a local attacker hacking into your PC is pretty slim, it's best practice to just cover your butt before anything bad happens. Gigabyte has listed a new vulnerability on its website that affects a pair of kernel drivers, GVCIDrv64.sys and gdrv3.sys. It says the drivers are components of the GCC software, which is widely recommended alongside the company's motherboards. "The vulnerabilities exist in the kernel drivers' IOCTL interfaces." Gigabyte says of the cause of the vulnerability. "Due to insufficient access control and improper validation of input parameters, authenticated local attackers can perform unauthorized operations, including arbitrary physical memory mapping and direct hardware access. An attacker can wield those vulnerable drivers through a "specially crafted" IOCTL request. In doing so, bypassing important memory protections and allowing them to elevate themselves to the most trusted level of your PC, the kernel. Gigabyte thanks Mohamed Alzhrani (0xMaz) and Subhan Sultanov (me1n) for discovering the vulnerability and helping the patching effort. This comes at a time when Intel is said to be ending its lucrative bug bounty program . There is a fix available. Any version of GCC from 26.08.28.01, GBT_VGA_26.08.24.01 or later has the mitigation in place. Looks like the current GCC version is 26.09.10.01 
 
-### World of Warcraft: Forever players competing over enemies is 'extremely important' to the experience, Blizzard says: 'This is one of those things that we simply must hold the line on'
-Mon, 21 Sep 2026 20:01:38 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-players-competing-over-enemies-is-extremely-important-to-the-experience-blizzard-says-this-is-one-of-those-things-that-we-simply-must-hold-the-line-on/
+### I can't wait to play a Kodan in GW3 concept art
+Tue, 22 Sep 2026 09:15:00 +0000 — https://www.pcgamer.com/games/i-cant-wait-to-play-a-kodan-in-gw3-concept-art/
 
-When the gates opened on the World of Warcraft: Forever beta, it was a free-for-all. Everyone fought to be the first to "tag" enemies with their attacks so they would count for their quests—a problem that is essentially obsolete in modern WoW. My memories of doing this in the real classic WoW came flooding back as I frantically tried to claim enemies before someone else did. But that old frustration also prompted old solutions: Whenever I came across a quest to kill seven wolves or whatever, I invited other players into my group so that everyone got credit. This, according to senior game designer Josh Greenfield on X , is exactly what Blizzard wants to see. Greenfield responded to a conversation about whether or not shared enemy kill credit should be a thing in WoW: Forever to say pretty firmly that it's not going to change. "This is one of those things that we simply must hold the line on," he wrote. "I think there are other things we can do to help alleviate some frustration here but shared tagging is not it." "It's hard to see the value in something like this when you are frustrated in the moment," he added, "but it is extremely important to our social pillar to maintain some of this friction." Getting in line for water from r/classicwow The chaos of the beta launch is a limited-time thing. It'll happen again on November 4 when WoW: Forever fully drops, but eventually it's not going to be as much of a problem as the population of players spreads out across Azeroth. From th
+I cannot wait to play as a Kodan in Guild Wars 3 and I have learned nothing from trying to do jumping puzzles as a Charr in GW2. Being a polar bear is my ultimate destiny. (Image credit: ArenaNet) ]]>
 
-### Wait, how did Lego beat Minecraft to making a city builder?
-Mon, 21 Sep 2026 17:14:31 +0000 — https://www.pcgamer.com/games/city-builder/wait-how-did-lego-beat-minecraft-to-making-a-city-builder/
+### More games should look like Abyss x Zero
+Tue, 22 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/more-games-should-look-like-abyss-x-zero/
 
-Lego announced a city builder called Lego Skylines last month and we all collectively said: " Oh yeah, duh ." A landscape of colorful bricks snapping together into a metropolis from the godlike perspective we already view our real life Legos just makes sense. Hold on, what about the brand I affectionately refer to as "digital Legos"? Minecraft should by rights have spawned a city building spinoff by now. How were Lego and Mojang not competing over this category of PC players years ago? Minecraft as a city builder: It makes sense Templated structures like villages, temples, and fortresses are already a staple in vanilla Minecraft Villagers: we love to exploit 'em and give them jobs Minecraft players love to build, why not cities? The first generation of Minecraft players (me) are Old™ now and we can appreciate slower, strategic games There are Minecraft mods for this, so players definitely like the idea Minecraft already has several spinoffs in other genres (Minecraft Dungeons and Minecraft Legends) Maybe it doesn't? This is so obvious that maybe Mojang has prototyped one internally and it just wasn't great Maybe it's on the to-do list but Mojang hasn't found a partner studio to work on it Minecraft spinoffs have a mixed track record. Minecraft Dungeons is good but Minecraft Legends is not . ]]>
+I'm sure I'll get sick of PS1-core game aesthetics at some point—but it sure as hell hasn't happened yet. Abyss x Zero was already on my Steam wishlist, but seeing a tweet about it earlier still made me stop in my tracks for a couple minutes just to admire its texture work. I reserve the right to change my stance in the future. But for now? The more games there are that look like Mega Man Legends, the better. (Image credit: Studio Pixel Punk) ]]>
 
-### Bungie un-cancels Destiny: Vaulted content is coming back as new leadership promises 'Destiny is foundational to our future'
-Mon, 21 Sep 2026 17:13:29 +0000 — https://www.pcgamer.com/games/bungie-un-cancels-destiny-vaulted-content-is-coming-back-as-new-leadership-promises-destiny-is-foundational-to-our-future/
+### Wookiepedia still feels like home
+Tue, 22 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/wookiepedia-still-feels-like-home/
 
-Bungie's new leadership duo laid out the "next chapter of Bungie" today in a blog post with an accompanying video. The big news is that Bungie has essentially uncanceled Destiny 2, or will at least go the lengths to finally undo its greatest mistake: vaulting a bunch of raids and multiple of its story campaigns. Funnily enough, that work has already begun on the community side with a mod project that makes vaulted content playable through an offline build of Destiny. I got off the Destiny train a long time ago, but its "downward spiral," as PCG's Lincoln Carpenter put it in May , was a series of unforced errors that really began with the widely-hated decision to "sunset" (delete) gigantic chunks of the game in the name of "dealing with bloat." I still remember when a friend told me that the Destiny 2 campaign, I thing I bought and enjoyed in 2017, was simply gone. The news comes just three months after a brutal round of layoffs that affected hundreds of Bungie devs, essentially disbanding the Destiny 2 team. It's unclear if the studio will attempt to rehire the talent it shed with the shortsighted decision to call it quits on Destiny, but at least what's left of Bungie understands that it has lost whatever goodwill it had left, and will need to slowly rebuild trust. On the Marathon side, Bungie reinforced that the extraction shooter is undergoing its own transformation with a permanent PvE mode and social space coming in December. To me, this also serves as a proof of life: M
+The first webpage I ever spent any extensive amount of time looking at was the Wookieepedia entry for Revan , and it makes me feel some type of way that it's still up there. Anyway, I'm also very fond of the Wookieepedia pages for " Human ," " Religion ," " Water ," and " Devaronian's food cake ." Devaronians are the little cantina devil aliens, you see. (Image credit: Fandom ) ]]>
 
-### GTA 5 has true air travel now thanks to the mod I just installed, but they won't let me give me my pals piggybacks onto the plane
-Mon, 21 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-5-has-true-air-travel-now-thanks-to-the-mod-i-just-installed-but-they-wont-let-me-give-me-my-pals-piggybacks-onto-the-plane/
+### Trying to pick the perfect autumn game paralysis
+Tue, 22 Sep 2026 08:40:00 +0000 — https://www.pcgamer.com/games/trying-to-pick-the-perfect-autumn-game-paralysis/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . It might feel minnowish compared to modern open worlds, but Los Santos is still a schlep to get across. Whether you're on a bike, in a car, or hoofing it on-foot, it takes a while to get from the city itself out to the northernmost boonies. Well, no more. Flights V is a mod that turns GTA 5's airports into, ah, airports. That is to say, you can now rock up to a desk in the terminal, pick up a ticket, and jet off (as a passenger) to one of a select few other points on the map: LSIA, Sandy Shore Airfield, McKenzie Airfield, or Paleto Bay International Airport. I'm not entirely sure that the real-world LAX airport maintains routes to podunk personal hangars out in the middle of the desert, but America is a strange and bewildering place. It is a replication of the true airport experience par excellence . You know how in airports you can choose what kind of plane you want to travel on, and how the space between the jet bridge and the plane itself is protected by a vast bank-vault door? We've got that. You know how the departures lounge is filled with dead-eyed half-people staring listlessly into the void? That's here too. Okay, that one actually is accurate, I guess. Pictured: banking. (Image credit: Rockstar) My only issue is tha
+It's the end of September, so in observance of tradition I'm sitting here staring at my Steam library in search of the game with the perfect autumn vibes and will inevitably spend my entire evening with choice paralysis. Tis the season! ]]>
 
-### Oh good, the pervert's back
-Mon, 21 Sep 2026 16:06:21 +0000 — https://www.pcgamer.com/games/action/oh-good-the-perverts-back/
+### WoW: Forever will live and die by the valley
+Tue, 22 Sep 2026 08:30:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-will-live-and-die-by-the-valley/
 
-While I've been pleased to watch Capcom begin teasing out previews of the expanded monster roster we'll face in Monster Hunter Wilds: Ascendance, its returning Elder Dragons have left me with a persistent feeling that something's still missing—something utterly detestable and unsettlingly phallic. Thankfully, that hole in my life has been filled. Over the weekend, Capcom confirmed that Ascendance will be a homecoming for its most hateful horror: Khezu, the flabbiest, drippiest member of the Flying Wyvern family that for years has given hunters cause to ask "why is it like that" and "how did they manage to make it even worse?" If you're not already acquainted with its many unpleasant aspects, allow me to introduce you: I mean, look at it There's a lot I could say here about its nightmarish vascularity, the troublingly flaccid posture, the scrotal silhouette evoked by its stance—but I think you get the point. It sounds like death The only thing more haunting than seeing Khezu for the first time is hearing its roar , which sounds like the living corpse of a flayed wildcat only just now realizing it's been skinned. It stretches Khezu can elongate itself to ensure that it can ruin your day whether it's right here or over there. It's just... so damp A characteristic that's only grown more upsetting as Capcom's graphics tech has advanced, Khezu is constantly, miserably moist. Its rubbery flesh is coated in glistening mucus, and its toothed orifice releases a permanent dribble of cor
+Judging from player interest in the WoW: Forever beta , it seems like Blizzard's got a good start at channeling nostalgia into its retirement home for aging MMO millennials. But there's only one thing that'll determine if it's a successful rebottling of the old lightning, and that'll be whether or not I can find myself shuffled back into the same game of Alterac Valley that I'd logged out of 18 hours earlier, where nothing has changed except the number of times an orc has been cursed out in text chat for wasting effort by fighting over the wrong graveyard. Nothing else matters. ]]>
 
-### Touch grass? Not when AMD has whittled down ray tracing memory usage by 98% for these hardware-sapping bushes and trees
-Mon, 21 Sep 2026 15:47:01 +0000 — https://www.pcgamer.com/hardware/graphics-cards/touch-grass-not-when-amd-has-whittled-down-ray-tracing-memory-usage-by-98-percent-for-these-hardware-sapping-bushes-and-trees/
+### Just another Tuesday
+Tue, 22 Sep 2026 08:30:00 +0000 — https://www.pcgamer.com/games/just-another-tuesday/
 
-As someone who spent a lot of their childhood talking to trees, I'm of the opinion that videogame forestry doesn't need to look any better than Alan Wake 2 's Pacific Northwest woodlands. That hasn't stopped AMD from innovating though; by leveraging 'tetrahedral cages' to help render a vast scene of greenery, researchers at the company say they've managed to cut the potential ray tracing memory usage by 98%. Typically, a scene of around 25,000 independently animated plants made of hundreds of thousands of triangles could hoover up 80 GB of GPU memory. Not only that, but it would take a Radeon RX 9070 XT GPU 300 ms per frame to check which surfaces within a scene are intersecting with a ray (the data structure that organises this information is called a Bounding Volume Hierarchy). In short, using traditional tech to render such a densely populated scene would be slow and choppy. Holger Gruen, a Fellow of AMD's Advanced Graphics Program, recently shared on GPUOpen that the team's tetrahedral cage demos only use "1.7 GB of BVH memory and approximately 3.3 ms for all BVH updates per frame" in comparison. Touch grass? Not when we've got trees like these. Anyway, let me break down how this tech works: a tetrahedral cage essentially wraps around the dense mesh of all that plant matter. Rather than many polygonal leaves bobbing in the simulated breeze, only the simplified cage deforms instead. So, rather than looking straight at the many wibbly-wobbly vertices of a virtual tree, rays
+I was playing Death Stranding 2: On the Beach last night and accidentally captured what might be the most miserable situation I've ever put Sam Porter Bridges in: Fording a rough river, during a sandstorm, with 150kg of cargo on his back, while lightning strikes the water he's currently in. Also, he has to pee . Frankly, this is one of the best games ever made. (Image credit: Kojima Productions) ]]>
 
-### Alright WoW: Forever gamers, are we team HD models or team old school models?
-Mon, 21 Sep 2026 15:31:16 +0000 — https://www.pcgamer.com/games/world-of-warcraft/alright-wow-forever-gamers-are-we-team-hd-models-or-team-old-school-models/
+### Desktops are meant to be messy
+Tue, 22 Sep 2026 08:00:00 +0000 — https://www.pcgamer.com/games/desktops-are-meant-to-be-messy/
 
-World of Warcraft: Forever has a nice little toggle that lets you switch between Classic's old-school models and Retail's newer, shinier ones. But which one are you using? Personally, I'm sporting the HD models. The big braided mohawk style on trolls just looks so much better. You can see a little comparison of my current Forever Shaman up in the ol' header image; peep how she looks in each style and let me know which one you like more! ]]>
+I really dislike most of the "battlestation" stuff I see online—if you're not familiar with the term, I it's associated with people posting pictures of their PC gaming rigs. But most if it is just too clean! Influencer chic, streamer house style with flawless cable management and no indication that somebody actually plays games or works there. When I see a desk with some clutter or like, something weird propping up the monitor, I know it's real. It's more beautiful to me than the smoothest, most LED RGB hypebeast thing. Basically, my ideal setup is the PC equivalent of the Satoru Iwata Saw basement station . (Image credit: Unattributed Imgur user ) ]]>
 
-### WoW: Forever has rendered me a min-maxing hypocrite, and here's how you can join me
-Mon, 21 Sep 2026 15:05:33 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-rendered-me-a-min-maxing-hypocrite-and-heres-how-you-can-join-me/
+### I still can't believe we call them 'MOBAs'
+Tue, 22 Sep 2026 08:00:00 +0000 — https://www.pcgamer.com/games/i-still-cant-believe-we-call-them-mobas/
 
-I swore I'd never become this evil "I think there are some genuine wrinkles in MoP: Remix, for sure. I'd like to see the shared XP buff thing return, for example—but the frog farming is only a problem if you view the event as a competitive experience, which it isn't designed to be." - me, May 21, 2024. (Image credit: Blizzard) Anyway, this beta is not designed to be a competitive experience. For those not in the know, Blizzard will be wiping all of the WoW: Forever progress when the game launches in November. But I am going to be treating it like one, because all of my morals have crumpled into a hole with a sign that says: "I want to be 3 levels higher than everybody in October for like two hours." I'm especially (on paper) against the idea of min-maxing in a beta, where your progress means absolutely nothing. And yet. And yet. Here's the issue—I am currently an inch away from level 19. I have a bunch of quests I'd like to do, including finishing the new Ruins of Lordaeron dungeon. I am not doing this, however, because Blizzard will at some point be increasing the cap from level 20 to level 30. But I also have a massive problem: I don't want to stop playing my Warrior. I'm hitting some absolutely meaty crits. So what is a lad to do? Well, while you can still do quests in the beta, there's nothing to say you actually have to turn them in, especially because Blizzard has increased your journal limit from 20 to 40. If you're picking up what I'm putting down: I will be continuin
+One of media's god-given powers is to coin phrases, one of our last remaining superpowers. Inspired by this post from Kieron Gillen, I wanted to take a moment to recall our noble-but-failed attempt to rename MOBAs (a miserable term that describes every game and no game) more than a decade ago. I am so out the loop that I have just learned folks use the phrase "imsim" now, and I'm tempted to come back to Games Journalism solely to kick everyone's asses. — @kierongillen.bsky.social ( @kierongillen.bsky.social.bsky.social ) 2026-09-21T21:09:28.760Z Just as Superman made the ultimate sacrifice against Doomsday, former PC Gamer editor Chris Thursten gave his editorial life to fix this awkwardly-named genre in his 2014 column, " Why I am deadly serious about the phrase 'wizard-'em-up .'" We also tried "lane-pushing game" for a span, yikes. The media business requires one to place bets. ]]>
 
-### I'm taking Insomniac's Wolverine patch as a sign: This is as bad as it's going to get
-Mon, 21 Sep 2026 14:07:20 +0000 — https://www.pcgamer.com/games/im-taking-insomniacs-wolverine-patch-as-a-sign-this-is-as-bad-as-its-going-to-get/
+### Where I'm at
+Tue, 22 Sep 2026 07:45:00 +0000 — https://www.pcgamer.com/games/where-im-at/
 
-I'm calling it here—this is as bad as it's gonna get. Insomniac's Wolverine has been getting slapped around a fair bit because it's perhaps the summit, the zenith—of 'how much handholding can you put in a game before we all get sick of it'. And listen, I've actually defended yellow paint on this site before. I am in agreement with most developers that a little guidance is good . Players do need environments that guide them, they do need the occasional bit of direction, and while they're smarter than Insomniac's given them credit for? They are also kind of dumb sometimes. But they aren't this dumb. I've seen clips of Wolverine that look ripped straight out of parody videos—Logan does not need a scent trail, red flashing lights, and a snow trail so cleanly placed it might as well have been left by Saint Nicholas himself. Game design trends like this tend to operate like a pendulum swing. It's happening in MMOs at the moment—the seasonal, frictionless structure is growing less popular than the desire for them to waste our time and test our patience again. Similarly, here. We're seeing the top of the arc before it all comes back to earth again. Insomniac walking back some of its handholding, and actively looking into ways to do so further? I take it as a sign, not just for Insomniac's offering, but all blockbuster games, including those on our beloved PC. In five years, I shall be writing about an unassailably complicated game and yearning for the days of scent trails once more—t
+I like to keep a running tally of my GOTY so far. This isn't everything I've played, but it is everything I've played enough to properly judge. Here's where I'm at. Any glaring omissions I need to correct? (Image credit: Backloggd) ]]>
 
-### Resident Evil is the best videogame movie because Bryan sucks
-Mon, 21 Sep 2026 13:43:12 +0000 — https://www.pcgamer.com/games/resident-evil/resident-evil-is-the-best-videogame-movie-because-bryan-sucks/
+### Best cozy games list update september 2026
+Tue, 22 Sep 2026 07:20:00 +0000 — https://www.pcgamer.com/games/best-cozy-games-list-update-september-2026/
 
-My God, they've done it. We're finally in the era when videogame movies can actually be good . Not just good for a videogame movie, or "It's good, but here are 50 caveats." It's simply brilliant. And Resi's lovably feckless protagonist Bryan is the primary reason. But before I dive in, I need to warn you about something. Yep, this is going to be spoiler city . Spoilers for days, folks! Spoilers as big as your head—if your head is exceedingly large. So I'm going to give you ample time to stop scrolling. I am here to protect you. (Image credit: Sony Pictures) (Image credit: Sony Pictures) (Image credit: Sony Pictures) You must have stopped scrolling by now, right? (Image credit: Sony Pictures) OK, this is your last chance to avoid spoilers, folks! (Image credit: Sony Pictures) OK, great, I am now free to spoil the heck out of this excellent movie. Hurray! The best thing filmmaker Zach Cregger did with Resident Evil was leave the heroes in the games. Bryan is not a hero. He's not skilled with firearms like Leon, nor does he have huge, rock-punching arms like Chris. He's just a tired dork trying to complete his last job of the night. Bryan is not some stand-in for the protagonists we know and love—he is effectively a Resident Evil player, transported into a Resident Evil crisis. He's a more specific kind of everyman, one who reflects Resi fans. His ear-demolishing screams, his silly mistakes, his complete lack of knowledge about firearms (he has used them in videogames), his cowa
+(Image credit: Something We Made) I just redid my best cozy games list, but Toem 2 comes out this month, sequel to one of my favorites. Actually, there are several more anticipated cozy games right at the end of this month (Nivalis Nights and Songs of Glimmerwick) so I'm going to have to reassess the list yet again no matter what happens. ]]>
 
-### Who the hell is buying their server memory from Amazon?! Also, can I interest you in a $101,000 kit?
-Mon, 21 Sep 2026 13:38:59 +0000 — https://www.pcgamer.com/hardware/memory/who-the-hell-is-buying-their-server-memory-from-amazon-also-can-i-interest-you-in-a-usd101-000-kit/
+### PC Gaming Show Toyko Direct 2026 picks
+Tue, 22 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/
 
-This appeared on my X feed this morning and it's been bouncing around in my brain since I saw it. Titled as the "first $100,000 RAM kit" it caught my eye. The first thing to note is that this is, inevitably, server grade memory, and 2 TB of the stuff as well. It's DDR5-5600 of ECC RDIMM in a 16-pack kit for precisely $101,451.99 at Amazon , for all you server engineers out there. But the question that has been burning my bonce is who is buying their server farm memory directly from Amazon? But hey, Nemix RAM has been around a while now, and if it really is offering lifetime warranty on your $100k+ purchase that ain't bad. But surely, surely, you're getting a better deal from whoever you deal with, because if you're looking after datacenter hardware you must have been getting your kit from somewhere else originally, right? First $100,000 RAM kit 💀 https://t.co/oxI9q1fKd4 pic.twitter.com/9cKP39N7xz September 20, 2026 But then, I think we're probably at the point in the memory crisis where it really is any port in a storm, and people are getting memory wherever they can find it. So I guess this is just a sign of where we're at right now. ]]>
+Four games I wishlisted on Steam out of last weekend's PC Gaming Show : Tenebris Somnia - Genre-mixed horror that alternates between 2D retro art and live action, out next month. Wane - My favorite from the show, a roguelike tactics game with an art style that somehow all at once looks like Dishonored, a Remedy game, and Disco Elysium? Piroker - Multiplayer (but also async) autobattling Pirate Balatro. The UI is a lot to handle at first, but I had the knack of it halfway through my first run. Playtest is live now. Hellcard II - The follow-up to a game I liked a couple of years ago, and one of the only multiplayer deckbuilders outside of Slay the Spire 2. ]]>
 
 ## GameSpot
 
 ### Here s Why A Nightmare On Elm Street Game Hasn t Happened In Decades
 Mon, 21 Sep 2026 19:32:54 +0000 — https://www.gamespot.com/articles/heres-why-a-nightmare-on-elm-street-game-hasnt-happened-in-decades/
 
-With Friday the 13th, Halloween, and other horror franchises getting video game adaptations in recent years, you might wonder when it'll be Freddy Krueger's turn, but according to Illfonic, the team behind those games, the task is harder than you might think. To do it right, one aspect of the films creates a big roadblock. "There are plenty of IPs that people are like, 'Why aren't you doing this?' and 'Why aren't you doing that?' As much as I love Elm Street, [those movies are] about these big over-the-top kills," Illfonic's chief creative officer Jared Gerritzen told me in a Zoom call. "Same with Terrifier, where it's like these big, over-the-top kills that you would expect that you would have to do [in order] to do it right. That's the most costly thing, in some cases. You'd have to do hundreds of those to build that basis. You'd have to do all these other layers, and then it just becomes like, 'Well, shit.' Like, there are all these quagmires that we can't go into, and so for us, we're very diligent about the IPs that we choose." With Freddy's dream world seeming like a great fit for a game, I'd long envisioned Elm Street as an obvious fit for an asymmetrical multiplayer horror game akin to Illfonic's other titles, but listening to Gerritzen speak on the pitfalls, it occurred to me that he's right. It's hard to imagine a game creating enough elaborate set-piece kills to keep them feeling fresh for players who may play for dozens or hundreds of hours, but neither does it ma
+With Friday the 13th, Halloween, and other horror franchises getting video game adaptations in recent years, you might wonder when it'll be Freddy Krueger's turn, but according to Illfonic, the team behind those games, the task is harder than you might think. To do it right, one aspect of the films creates a big roadblock. "There are plenty of IPs that people are like, 'Why aren't you doing this?' and 'Why aren't you doing that?' As much as I love Elm Street, [those movies are] about these big over-the-top kills," Illfonic's chief creative officer Jared Gerritzen told me in a Zoom call. "Same with Terrifier, where it's like these big, over-the-top kills that you would expect that you would have to do [in order] to do it right. That's the most costly thing, in some cases. You'd have to do hundreds of those to build that basis. You'd have to do all these other layers, and then it just becomes like, 'Well, shit.' Like, there are all these quagmires that we can't go into, and so for us, we're very diligent about the IPs that we choose." With Freddy's dream world seeming like a great fit for a game, I'd long envisioned Elm Street as an obvious candidate for an asymmetrical multiplayer horror game akin to Illfonic's other titles, but listening to Gerritzen speak on the pitfalls, it occurred to me that he's right. It's hard to imagine a game creating enough elaborate set-piece kills to keep them feeling fresh for players who may play for dozens or hundreds of hours, but neither does
 
 ### Comparing Games Like Halloween To Dead By Daylight Doesn t Make Sense, Illfonic Says
 Mon, 21 Sep 2026 19:30:00 +0000 — https://www.gamespot.com/articles/comparing-games-like-halloween-to-dead-by-daylight-doesnt-make-sense-illfonic-says/
@@ -431,6 +436,11 @@ In the realm of gaming memorabilia, novelty items often serve as little more tha
 
 ## Rock Paper Shotgun
 
+### Nighthawks review – a series of vignettes that sometimes excel but more often falter
+Tue, 22 Sep 2026 08:33:05 +0000 — https://www.rockpapershotgun.com/nighthawks-review-a-series-of-vignettes-that-sometimes-excel-but-more-often-falter
+
+Nighthawks , the 1942 painting by Edward Hopper, is generally described as portraying loneliness. The four people at the diner counter are dwarfed by the empty, cold openness of the street. But the inside of the diner looks warm. One man sits apart, but the other two patrons might be a couple, their hands close. The worker seems to be watching them, perhaps thinking of somebody he&rsquo;ll return to after his shift. Nighthawks, the 2026 vampire RPG, takes this same sensation, connection in the middle of isolation, and plays it much less subtly. When it works, it manages to tell sub-stories that will stick with me like the glow of a friendly building late at night. But it doesn&rsquo;t always work. Read more
+
 ### "It wasn't a planned thing": Breaking Benjamin singer on his mid-gig Fallout 4 mod promo being down to a broken drum and his love of VR
 Mon, 21 Sep 2026 16:15:21 +0000 — https://www.rockpapershotgun.com/it-wasnt-a-planned-thing-breaking-benjamin-singer-on-his-mid-gig-fallout-4-mod-promo-being-down-to-a-broken-drum-and-his-love-of-vr
 
@@ -475,9 +485,4 @@ There still might not yet be a release date for GTA 6 's PC port, but Rockstar a
 Mon, 21 Sep 2026 08:26:38 +0000 — https://www.rockpapershotgun.com/silent-hill-townfall-review-an-often-inspired-if-slightly-lumbering-trek-into-the-fog
 
 Once a fictional town in Maine, Silent Hill has broken containment and become a transferable oral history mechanism, offered to videogame developers worldwide as a way of investigating, even celebrating local culture. I'm still in two minds about whether this licensing outreach project, begun with Silent Hill f , is more inspired than it is vampiric. I picture Konami's invitation being pushed under the door of potential collaborators like Mary's letter to James in Silent Hill 2: "in our restless dreams, we see that town... let's touch base there sometime, expand our concepts further ." There's opportunity and peril for any studio who answers the letter: opportunity, because Silent Hill is an uncommonly rich way of thinking about the past, with its parallel realities, monster metaphors, and woozy grounding in both mysticism and psychoanalysis. And peril, because licenses have a way of engulfing licensees, forcing them into a straitjacket of tropes: fog, sirens, antagonists with geometric heads. Thankfully, Silent Hill: Townfall 's creators Screen Burn (previously No Code) haven't gotten lost in the murk, though I don't think Townfall is their finest creation, not least because it's overreliant on stealth. Like the makers of Silent Hill f, they've taken what they need from Silent Hill to tell a story of their own. Read more
-
-### The Sunday Papers
-Sun, 20 Sep 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-828
-
-Sundays - well, very early Sunday mornings - are for watching a whole queue of hungry wild animals pass your kitchen window, because a neighbour has decided to leave a bollard-sized catfood dispenser outside the block entrance while they're away on holiday. I'm pretty sure the neighbour's cat wouldn't eat from the dispenser even if there wasn't a badger wedged eagerly inside it. She's an aloof and disdainful creature, who hates going near the front door because that's where those stinky humans come from. Will I try to feed the poor moggy, denied her dinner by a bunch of Farthing Wood rejects? No I will not, because I'm too busy reading articles about videogames, and things that are vaguely in the orbit of videogames. Here are a few of those articles. Look, please stop fretting about the cat. She's perfectly plump and glossy, whereas that badger looks like he hasn't had a square meal since August. Read more
 
