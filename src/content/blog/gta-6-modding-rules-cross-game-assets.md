@@ -4,7 +4,6 @@ date: 2026-09-22
 category: Games
 cover: /img/blog/gta-6-modding-rules-cross-game-assets/shot-01.jpg
 excerpt: Rockstar's guidelines end the big extraction projects and route paid work through its own storefront. What survives is the mod that brings its own assets.
-draft: true
 sources:
   - outlet: GamesRadar+
     url: https://www.gamesradar.com/games/grand-theft-auto/ahead-of-gta-6-rockstar-releases-modding-guidelines-that-axe-new-missions-maps-ports-and-more-respect-our-games/
