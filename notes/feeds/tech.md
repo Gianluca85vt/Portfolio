@@ -1,115 +1,130 @@
-# Tech — harvested 2026-09-22T15:10:18.780Z
+# Tech — harvested 2026-09-22T19:53:09.181Z
 
 ## Ars Technica
+
+### Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting
+Tue, 22 Sep 2026 19:28:23 +0000 — https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/
+
+The families of victims killed in one of the deadliest mass shootings in Canada’s history have already sued OpenAI over its failure to warn law enforcement after discovering in advance that the shooter was using ChatGPT to plan the violence. Now, British Columbia is suing, explaining for the first time how costly and extreme the disaster response has been. OpenAI and Sam Altman owe the tiny remote mining community shattered by the tragedy much more than an apology, the Canadian province argued. They must make meaningful changes to end ChatGPT-assisted violence and then pay whatever it costs to help Tumbler Ridge to rebuild, recover, and heal. In a complaint filed Monday, British Columbia explained that Tumbler Ridge Secondary School had to be demolished after an 18-year-old transgender shooter, Jesse Van Rootselaar, committed suicide there in February after killing five kids and an education assistant. In total, eight lives were lost, as prior to the school shooting, Van Rootselaar shot their mother and half-brother. Read full article Comments ]]>
+
+### Adobe Premiere finally brings powerful video editing to Android, and it's free
+Tue, 22 Sep 2026 19:08:58 +0000 — https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/
+
+Video editing has never been Android's strong suit. While Apple has long offered iMovie for iPhone and iPad, Google has never had a comparable offering. Adobe is now stepping up to fill this feature gap with a proper version of Premiere. The app is now available in the Play Store for almost all Android devices, and it's free (mostly). Android's version of Premiere doesn't offer all the features you'd get in the desktop application, but it's a big step up from the soon-to-be-retired Premiere Rush app. You can import as many video tracks as you want, trim them, split them, add effects, and export videos in up to 4K resolution. It can even extract audio from clips, reduce background noise, and add voiceovers. The app emphasizes the YouTube Short format, even defaulting your video outputs to portrait 16:9, but you can change that to something more traditional. On a standard smartphone, the app splits the screen with the timeline at the bottom and preview up top. Adobe says that Premiere is optimized for multiple form factors. If you've got a foldable phone, the UI adjusts to give you more breathing room, placing the timeline to the right of the video. That makes sense as the default, as Premiere really wants you to make YouTube Shorts, but if you're working with something wider, there's a layout toggle that puts the widescreen video above the expanded timeline. The split is also adjustable if you want to make your video or timeline larger. Read full article Comments ]]>
+
+### Review: Resident Evil might just be the best gaming adaptation yet
+Tue, 22 Sep 2026 17:30:07 +0000 — https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/
+
+I was on the fence about going to see the latest Resident Evil reboot to review, given how uninspired the prior reboot attempt in 2021 turned out to be. But director Zach Cregger gave us last year's phenomenal Weapons, and early word of mouth was extremely positive, so I took a chance. I'm glad I did, because the film is terrific. Cregger's distinctive sensibility is just what the flagging franchise needed: a truly fresh take on a well-trodden fictional world that blends horror, humor, and some pretty over-the-top gore in just the right ratios. And you don't need to be a Resident Evil franchise fan to enjoy it. (Spoilers below, but we'll give you a heads-up before any major reveals.) When the first Resident Evil game debuted in 1996, it was an immediate commercial and critical success, spawning several sequel games, comics, novels, and a very lucrative film franchise directed by Paul W.S. Anderson and starring Milla Jovovich. Reviews were mixed, despite the films’ massive box office success. The first reboot, Welcome to Raccoon City (2021) , was critically panned and had a disappointing box office, grossing just $42 million globally against its $25 million budget. The studio nixed its plans for a direct sequel, and a 2022 Netflix series was also canceled after a less-than-stellar first season. Read full article Comments ]]>
+
+### Toyota orders workers to train humanoid robots but says humans won't be replaced
+Tue, 22 Sep 2026 17:06:16 +0000 — https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/
+
+Toyota workers are already helping to train humanoid robots as part of the automaker’s race to eventually deploy 400,000 factory robots—but a Toyota executive said the robotic push is not meant to directly replace humans. Starting in 2028, the Toyota Motor group aims to start investing $6.42 billion every year in upgrading factories with the new robotic workforce, according to Nikkei Asia . The company wants to put 150,000 robots in its own automotive plants and deploy another 250,000 at group company facilities that produce various components and materials. Toyota has already begun deploying some of its ELEY humanoid robots across assembly lines to learn from human workers. Nikkei Asia reported that workers are teaching the robots, which roll around on wheels, to perform tasks requiring precise hand movements by wearing “jigs” based on the humanoids’ fingers. Read full article Comments ]]>
+
+### IT mistake erases 11 years of viewing history for hospitals’ maternity records
+Tue, 22 Sep 2026 16:55:40 +0000 — https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/
+
+A “human error” in the IT department led to Nottingham University Hospitals NHS Trust (NUH) losing data from maternity records over an 11-year span. The data loss occurred on August 18, the English hospitals announced in a blog post on Monday spotted by The Register . The blog said the problem is “the result of human error” during routine technical work while “creating a copy of a radiotherapy database for reporting purposes.” The post reads: Read full article Comments ]]>
+
+### Effort begins to fill the void left by terminated US climate report
+Tue, 22 Sep 2026 16:26:30 +0000 — https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/
+
+Last year, the Trump administration did what it could to shut down work on the next US National Climate Assessment, eliminating funding for the US Global Change Research Program and booting hundreds of contributing authors. The administration even took past reports offline, forcing others to host copies so the information would still be accessible. And this all comes despite the fact that these reports are legally required. Later in the year, the American Geophysical Union and American Meteorological Society announced an effort to give researchers a central place to compile the kind of work that would have fed the next US report, as well as potential regional and local reports. This “ US Climate Collection ” works differently from the US Global Change Research Program or the International Panel on Climate Change (IPCC). Rather than facilitating the writing of a giant, coordinated report, the groups are inviting teams of researchers to publish peer-reviewed papers in scientific journals, which will then be added to a centralized resource for future report-writers. The first paper has now been added to that collection. It’s the work of 149 authors (many of whom had been working on the US report), and it is actually being published in two journals—one operated by the American Geophysical Union and one by the American Meteorological Society. That’s because this paper is intended to provide a roadmap to prioritize future contributions. Read full article Comments ]]>
+
+### Shuffling the deck chairs: Xbox continues its "reset" with dramatic restructuring
+Tue, 22 Sep 2026 15:30:53 +0000 — https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/
+
+When Xbox announced sweeping layoffs in July as part of a brutal "reset" for the gaming brand, Xbox CEO Asha Sharma said part of the pre-existing problem in the gaming unit was "teams, studios, and functions [that] often operate independently, [making it] harder to work toward a shared goal." Today, the company announced a radical restructuring of its internal studios that is seemingly designed to reduce that "independence" for the teams behind some of gaming's biggest franchises. The biggest apparent change is for the Halo franchise, which will now be under the remit of Call of Duty maker Activision. Halo Studios (formerly 343 Industries), which recently released Halo: Campaign Evolved , will remain as just a "small team" to support the player community, Microsoft said, with the remaining staffing roles eliminated as part of 268 newly announced layoffs. "For Halo, our goal is clear: make the greatest Halo game ever, worthy of its universe and legacy, while staying true to what made players love it in the first place," Activision President Rob Kostich said in a statement provided to Kotaku . "It is a bold ambition, one that this franchise deserves. We have already begun assembling a purpose-built team, unique in capability and talent, ready and excited to deliver this next chapter with the community." Read full article Comments ]]>
+
+### Protests for Germany’s car industry as job losses loom
+Tue, 22 Sep 2026 14:40:47 +0000 — https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/
+
+The future is looking increasingly bleak for Germany’s automotive industry. Since the turn of the century, car makers have been among the crown jewels of the German economy, punching above their weight in terms of investment and innovation. But those companies are now facing multiple problems at once, from declining demand at home and stronger competition from abroad to the cost of punitive and arbitrary new tariffs, on top of preexisting structural challenges like an aging workforce and a slow recovery from COVID. Total automotive sales in Europe have fallen from a peak of almost 18 million in 2019 to around 13 million in 2025, and some share of that smaller market is increasingly going to new entrants from China, which has its own spare automotive production capacity problem to worry about. And while the US market has always been the most profitable for German car exports, that was before the imposition of new import tariffs, which currently stand at 25 percent but could be subject to change at any time. Factory closures now seem not just possible but likely, something that would have been unthinkable just a few years ago. Earlier this summer, news emerged that Volkswagen Group is considering closing four of its German factories to prepare for the future. Things have not gotten much better for VW Group in the months since that news broke. Read full article Comments ]]>
+
+### Trump’s sneaky plan to gut Endangered Species Act draws from 1995 Scalia dissent
+Tue, 22 Sep 2026 14:29:15 +0000 — https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/
+
+Last week, The New York Times reported that an internal memo had been quietly distributed across US Fish and Wildlife Service (FWS) field offices, directing staff to radically reinterpret the Endangered Species Act (ESA) in a move that blindsided conservationists. Staffers were essentially asked to start looking the other way when private interests cause preventable deaths of vulnerable animals. Instead of prohibiting habitat modifications that injure animals or cause accidental deaths, the ESA will now only prohibit actions “specifically intending to target an animal,” FWS Director Brian Nesvik instructed staff in the September 14 memo. “A vessel that inadvertently strikes a whale has not taken it because the vessel’s course was not set against the whale,” Nesvik’s memo said. “Felling a tree is not a take of the bats roosting in it unless the tree is felled for the purpose of killing or capturing them.” Read full article Comments ]]>
+
+### Dyson’s most overengineered gadget may have a waterproofing problem
+Tue, 22 Sep 2026 13:33:16 +0000 — https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/
+
+There's always a danger in over-complicating products. Simple is so often best. The apocryphal story of NASA spending millions crafting a space pen while Soviet cosmonauts used a pencil is often cited as a prime example, even if it's actually not true . Perhaps it's not surprising that Dyson has got into hot water trying to reinvent the electric toothbrush . The Chinese invented the first bristle toothbrush during the Ming dynasty. That concept muddled along quite nicely until 1937, when Tomlinson Moseley filed a patent for the earliest electric toothbrush. After more than 400 years, the Motodent marked the beginning of an evolutionary shift from manual brushing to powered oral care. Having had considerable success reimagining established product categories such as stick vacuums and premium hair dryers —though not so much air-purifying headphones —the company earlier this month, with great fanfare, unveiled the next leap forward for teeth: the $499 Dyson CameraJet with a tiny camera to aim streams of rinsing fluid into the gaps between your teeth. Read full article Comments ]]>
 
 ### NASA chief: I'm only interested in "good deals" from international partners
 Tue, 22 Sep 2026 11:00:37 +0000 — https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/
 
-NASA must be more selective in the way it forges international partnerships as the race to the Moon transforms from a battle for national prestige between the United States and China into a high-stakes competition for extraterrestrial real estate and resources, the agency's administrator said. Jared Isaacman, now in his 10th month at the helm of the world's largest civilian space agency, told a gathering of military leaders and defense contractors last week near Washington, DC, that the 21st century race to the Moon is more than a battle of ideologies. The sweet spot for a Moon base, Isaacman said, is a relatively small region near the lunar south pole, and there are tangible implications for who gets there first. The Moon's south pole harbors substantial quantities of water ice concentrated on the floors of craters away from the reach of sublimating rays of sunlight. The ice inside these eternally dark craters could be used to supply water, air, and rocket fuel for a Moon base, supporting a permanent settlement and providing a springboard for future expeditions to Mars. Read full article Comments ]]>
+NASA must be more selective in the way it forges international partnerships as the race to the Moon transforms from a battle for national prestige between the United States and China into a high-stakes competition for extraterrestrial real estate and resources, the agency's administrator said. Jared Isaacman, now in his 10th month at the helm of the world's largest civilian space agency, told a gathering of military leaders and defense contractors last week near Washington, DC, that the 21st-century race to the Moon is more than a battle of ideologies. The sweet spot for a Moon base, Isaacman said, is a relatively small region near the lunar south pole, and there are tangible implications for who gets there first. The Moon's south pole harbors substantial quantities of water ice concentrated on the floors of craters away from the reach of sublimating rays of sunlight. The ice inside these eternally dark craters could be used to supply water, air, and rocket fuel for a Moon base, supporting a permanent settlement and providing a springboard for future expeditions to Mars. Read full article Comments ]]>
 
 ### Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
 Mon, 21 Sep 2026 22:24:38 +0000 — https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/
 
-Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles customer service,” “proactively takes tasks off your plate,” and can “make purchases, generate images, create documents, and connect with your favorite apps and services.” The macOS app (curiously, there’s no Windows version) also works with a user’s WhatsApp, email, calendar, and social media accounts. When a task requires a tool that doesn’t exist, Muse creates one on the fly. Meta doth hype Muse security too much Of course, for Muse to do any of these things, users must first give it access to their accounts. This includes authenticating the assistant to each service and, because the app runs on macOS, giving it permissions to a broad range of operating system-restricted device resources like writing files to disk, accessing the mic and camera, and monitoring location and calendars. Apple has spent years developing these defenses to prevent installed apps or commands entered into the terminal from accessing these resources, clearly because the company considers them a security threat. Muse co
-
-### Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat
-Mon, 21 Sep 2026 21:07:05 +0000 — https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/
-
-In the world’s first clash of the drone boats, a Ukrainian naval drone destroyed a Russian explosive drone boat using a remote-controlled machine gun turret. This comes as the war in Ukraine has already seen widespread deployment of such uncrewed surface vessels in combat, along with swarms of flying attack drones and ground robots. The lopsided battle took place on September 12 when members of Ukraine’s Defense Intelligence detected the Russian uncrewed surface vessel (USV) in the Black Sea and directed a Ukrainian Navy drone boat to intercept. The Russian vessel was “positively identified” as an Orcan surface drone with a “jet ski type steerable water jet” designed to ram targets and explode, according to naval analyst HI Sutton in Naval News . Such Orcan drones have already been used to attack Ukrainian ports and ships. These often work in coordination with flying drones such as Russian Geran drones that provide aerial reconnaissance and can boost communication between drone operators and drone boats, Sutton explained. Read full article Comments ]]>
-
-### Saudi Arabia wants a car industry, launches Ceer with two EVs
-Mon, 21 Sep 2026 20:55:36 +0000 — https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/
-
-Ceer provided flights from Detroit to Riyadh, Saudi Arabia, and accommodation so Ars could visit the factory. Ars does not accept paid editorial content. KING ABDULLAH ECONOMIC CITY, Saudi Arabia—It may come as a surprise to some, but Saudi Arabia has never had a domestic automaker. That changes with Ceer. A joint venture between the country’s Public Investment Fund and Foxconn, it’s the Kingdom’s first home-grown automaker and a significant part of Saudi Arabia’s Vision 2030 plan to diversify its economy away from oil production and bring technological innovation locally by the end of the decade. Ceer in Arabic means to “drive forward,” and this forward-looking approach applies to the vehicle lineup. The flagship vehicles you see here—the Exobot sedan and SUV—are demonstrations of what the company is capable of and the vision it sees for future vehicles in the portfolio. It plans to have seven new cars in its portfolio by 2030—some of which will be hybrids—and while that doesn’t currently include sales outside the GCC (Gulf Cooperation Council) region, Ceer says it's building a competitive, world-class product and that if the demand is there, expansion is possible. Read full article Comments ]]>
-
-### Google confirms Gemini models hacked three companies in May 2026
-Mon, 21 Sep 2026 16:57:26 +0000 — https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/
-
-It has become increasingly common for AI firms to announce that their latest and most capable models engaged in unauthorized real-world hacking. Google, which has been slow to release frontier Gemini models in recent months, has been absent from the "rogue AI" conversation until now. Following a Wall Street Journal report, Google has confirmed that Gemini models hacked three companies during a May 2026 test, but the nature of the intrusion isn't as troubling (or impressive) as previous AI hacks. The hack took place during a test conducted by cybersecurity firm Irregular. A collection of Gemini models were taking part in a "capture the flag" exercise intended to test the AI's cybersecurity capabilities in a closed environment. The AI was instructed to retrieve information from a fake company (which shared a name with a real company) within this environment. Irregular was not supposed to allow the model to operate outside its servers, but due to a misconfiguration, Gemini was able to access the Internet. When Gemini started snooping around the web, it targeted real infrastructure instead of the fakes. For one of the three hacks, Gemini simply guessed passwords until it accessed a company's online services. In the other two instances, Gemini searched public software repositories until it found login credentials for companies that had been accidentally included. Read full article Comments ]]>
-
-### Russel Vought will reportedly be given veto power over all NIH grants
-Mon, 21 Sep 2026 16:40:26 +0000 — https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/
-
-On Friday, The Washington Post reported on a contentious White House meeting in which the director of the National Institutes of Health (NIH), Jay Bhattacharya, tried to fend off yet another effort to place funding decisions under political control. The move came from Russell Vought, head of the Office of Management and Budget (OMB), which has sought to limit and control research funds. The Post suggested that Bhattacharya ended up on the losing side of the fight. This initial leak has been confirmed and expanded on by outlets such as The New York Times and Politico . It now appears that the administration is drafting an executive order that would give Vought veto power over every individual grant awarded by the NIH. If at first you don't succeed The NIH is the largest funder of biomedical research on the planet, and its $47 billion budget is larger than that of the next 10 research funders combined. Its funding, distributed largely through grants to academic researchers at universities, supports everything from basic biological research to clinical trials and has helped the biotechnology industry flourish. Read full article Comments ]]>
-
-### California settles lawsuit against Paramount/Warner merger, angering advocates
-Mon, 21 Sep 2026 16:15:26 +0000 — https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/
-
-California and Paramount Skydance have reportedly reached a settlement allowing the company to complete its $111 billion merger with Warner Bros. Discovery. The settlement, which will reportedly be announced later today, drew condemnation from Democrats and media advocates. "The Paramount/Warner Brothers merger seems facially illegal, and the state AG lawsuit challenging it is very strong," Lina Khan, who chaired the Federal Trade Commission during the Biden administration, wrote yesterday. "It’s troubling to hear that the states may now settle for behavioral remedies, allowing the deal to go through subject to various promises from the firms. Behavioral remedies routinely fail, and the stakes here are particularly high given that a strong democracy requires open markets for sound journalism and creative expression." After news of advanced settlement talks was reported over the weekend, Bloomberg reported today that Paramount reached an agreement with California and other states that sued to block the merger. "Settlement talks came to fruition over the weekend after four states that had opposed terms of a deal outlined with California conceded," Bloomberg wrote, citing a person familiar with the matter. Read full article Comments ]]>
-
-### Trump rejects AI slowdown calls, launches "AI Force" instead
-Mon, 21 Sep 2026 15:37:56 +0000 — https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/
-
-Donald Trump has said that the US would appoint a new AI tsar and create an “AI Force” while offering a full-throated defense of the emerging industry in the face of a growing popular backlash. The US president’s announcement comes as leading industry figures have sounded the alarm that humans could lose control over the rapidly advancing technology without a slowdown in development. However, rather than announcing regulation as some have demanded, Trump has dismissed safety concerns as a “hoax.” Read full article Comments ]]>
-
-### Review: Neagley is a worthy spinoff to megahit Reacher
-Mon, 21 Sep 2026 13:53:46 +0000 — https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/
-
-Prime Video looks to have another hit on its hands with Neagley , a new spinoff series set in the same universe as the streaming platform’s critically acclaimed Reacher , now in its fourth season. Both shows are solidly addictive escapist fare, and while Neagley has some uneven elements, it mostly sticks to the successful formula while exploring new ground to give a very different main character her due. (Some spoilers below, but no major reveals.) Reacher fans will already be familiar with Frances Neagley, played to perfection by Maria Sten ( Swamp Thing ). She’s arguably the most diehard friend of former US Army military police officer turned drifter Jack Reacher (Alan Ritchson), coming to his aid again and again as he confronts a bevy of dangerous criminals over four hugely entertaining seasons. (Of course Ritchson’s Reacher makes an appearance in an opening scene, lending his muscle to rescue a kidnapped child.) Read full article Comments ]]>
-
-### Apple Mac mini review: The new M6 impresses, but the price hike is rough
-Mon, 21 Sep 2026 13:00:24 +0000 — https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/
-
-The new Mac mini is the kind of Mac upgrade Apple has done a million times. It’s the same design as before but with new guts. These play-it-safe updates aren’t very exciting, but they’re also usually all upside—you get a year or two's worth of technological improvements for the same price you would have paid for the older version yesterday. Unfortunately, 2026's unprecedented memory crunch has upended that standard operating procedure. The new Mac mini starts at $899 for a version with 16GB of RAM and 256GB of storage, a $300 increase for the same memory and storage specs you could get in the $599 M4 Mac mini in 2024. Read full article Comments ]]>
-
-### Googlebooks launch October 4 starting at $899—here are the five models you can preorder today
-Mon, 21 Sep 2026 13:00:11 +0000 — https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/
-
-Google is ready to take a swing at laptops... again. The company has had a lot of success in phones, but it has struggled to parlay that into an effective strategy for larger screens. Chromebooks have been fine as a budget option, but it seems like Google has accepted they'll never compete with macOS or Windows. That's where Googlebooks come in. These new Android-powered laptops are intended to be "real" computers, featuring premium hardware, on-device apps, and powerful development tools. After the Googlebook reveal at I/O this year , Google's partners are now ready to sell you one. The first Googlebooks are available from several OEMs that have been making Chromebooks over the years, but don't expect Chromebook pricing. There's only one model under a grand, and the rest are well above that. Familiar hardware The bulk of Chromebooks have been budget machines, and they looked the part. Googlebooks, however, feature bright OLED screens, metal builds, big haptic trackpads, and the Glowbar. All the machines have this illuminated bar on the lid, but it doesn't do much for now. It lights up when the device boots and can display battery level, but Google says it's going to release an API for developers to add more features. Read full article Comments ]]>
+Meta founder and CEO Mark Zuckerberg has gone to great lengths to hype the security of its new AI assistant, Muse, claiming it is “built from the ground up for privacy and security.” A zero-day vulnerability that gives locally run apps and terminal commands complete control of the agent raises serious doubts. Further raising questions, Amazon on Sunday began blocking Muse from its site. Meta introduced Muse a few weeks ago. The assistant “books appointments, fills out forms and handles customer service,” “proactively takes tasks off your plate,” and can “make purchases, generate images, create documents, and connect with your favorite apps and services.” The macOS app (curiously, there’s no Windows version) also works with a user’s WhatsApp, email, calendar, and social media accounts. When a task requires a tool that doesn’t exist, Muse creates one on the fly. Meta doth hype Muse security too much Of course, for Muse to do any of these things, users must first give it access to their accounts. This includes authenticating the assistant to each service and, because the app runs on macOS, giving it permissions to a broad range of operating system-restricted device resources, like writing files to disk, accessing the mic and camera, and monitoring location and calendars. Apple has spent years developing these defenses to prevent installed apps or commands entered into the terminal from accessing these resources, clearly because the company considers them a security threat. Muse 
 
 ## The Verge
 
-### Xbox is merging its Forza developers into a single studio
-2026-09-22T10:01:17-04:00 — https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio
+### Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras
+2026-09-22T15:48:08-04:00 — https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style
 
-Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox . Playground Games, which develops Forza Horizon , and Turn 10 Studios, creators of Forza Motorsport , are merging together to focus on Forza Horizon and Fable . "Playground and Turn 10 will come together as one studio focused on the Forza and Fable franchises," explains Xbox chief content officer Matt Booty in a memo . "These two studios have been technological, creative, and franchise partners for over a decade, and today's changes will formally move their work into one team." The closure of Turn 10 Studios leaves big unanswere … Read the full story at The Verge. ]]>
+Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earlier this month, would be "available" on older devices like the iPhone 16 and iPhone Air that "support the latest generation of Photographic Styles." But it turns out that "available" didn't mean that older iPhone models would have full access to those new features. Making texture adjustments to enhance or smooth a subject's skin and adding film grain will only be an option when those phones … Read the full story at The Verge. ]]>
 
-### Microsoft is laying off 268 Xbox staffers and Ninja Theory may close
-2026-09-22T10:01:16-04:00 — https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure
+### Score free Pixel Buds 2A when you preorder a Googlebook at Best Buy
+2026-09-22T15:28:55-04:00 — https://www.theverge.com/gadgets/998932/googlebook-preorder-pixel-buds-2a-deal-sale
 
-Microsoft is laying off around 260 Xbox employees today, as part of an ongoing "reset" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July , with Xbox CEO Asha Sharma describing the cuts as "the most significant restructure in Xbox history." Today's layoffs are part of the 3,200 roles that were previously confirmed to be impacted over the course of Microsoft's 2027 financial year (which ends in June 2027). "We are eliminating 268 roles across Halo Studios, other first-party studios, and the XGS management and central functions layer," says Xbox chief content officer Matt Booty in a memo . "The actions completed since … Read the full story at The Verge. ]]>
+An early look at the first set of Googlebooks The Android-powered Googlebooks are coming soon, with familiar brands and specs that rival Windows Copilot machines. For anyone eager to get their hands on any the new laptops, there’s a preorder perk you may want to know about lasting until October 25th, 2026. When you add a Googlebook to your cart at Best Buy , a pair of Pixel Buds 2A in hazel will be added for free. You can preorder now, with some systems shipping as early as October 5th, 2026. If you’re curious about the new machines, my colleague Antonio G. Di Benedetto got to spend some time with the laptops and shared his thoughts . There are a number of qualifying Googlebooks available at the retailer, including options from Acer, Lenovo, Asus, HP, and Dell. There’s a dedicated category page for the new genre of laptop in case you want to peruse the lineup. The least expensive model is the Acer Googlebook 14 , which starts at $899 and features an Intel Core 5 Ultra, 16GB of LPDDR5X memory, and 512GB of storage. We also compared the specifications and features for each machine, in case you’re having trouble deciding. Read our Googlebook hands-on . ]]>
 
-### Activision is taking over Halo as part of a massive Xbox shake-up
-2026-09-22T10:00:33-04:00 — https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs
+### Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad
+2026-09-22T14:10:57-04:00 — https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale
 
-Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of Empires . Microsoft is also laying off around 268 Xbox employees as part of this restructuring, and likely closing Ninja Theory . Halo Studios will be significantly impacted by today's changes and layoffs. The studio will continue to support existing titles like Halo Infinite and Halo: Campaign Evolved , but the next flagship installment in the Halo franchise will come from Activision instead. "Ac … Read the full story at The Verge. ]]>
+A rare discount on Apple’s dark color keyboard. | Image: The Verge Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID button, numerical pad, arrow keys, plus additional function keys. The Touch ID functionality is compatible with macOS computers running version 15.1 or newer on Apple-made silicon. Apple Magic Keyboard with Touch ID and Numeric Keypad Where to Buy: $199.99 $169.99 at Amazon $199.99 $169.99 at Best Buy The keyboard includes a woven USB-C cable that handles both charging and data, or you can use Bluetooth for a wireless connection. Black-colored Apple accessories tend to carry a higher price premium than their equivalent white models, and go on sale less frequently. Best Buy’s price is only good through 10PM PT on September 22nd, 2026, and the Amazon page is currently shipping one or two days out. Other deals to consider The refurbished 160W Anker Prime Charger is on sale for $75 on eBay via the Anker Outlet Store , $41 lower than the current Prime-exclusive price at Amazon, and half off the list price for a new model. This compact charger sports three USB-C ports, with a maximum output of 140W from a single port. It even has a little display for power monitoring or changing charging modes with the push of a button. For a limited time, you can grab a 512GB microSD E
 
-### The Beats 360 are what I’d bring to the gym if I hated earbuds
-2026-09-22T10:00:00-04:00 — https://www.theverge.com/tech/998566/beats-360-headphones-review
+### San Francisco sues Trump Media for selling early access to Trump posts
+2026-09-22T13:43:50-04:00 — https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco
 
-The Beats 360 are designed to last through your sweaty workouts. Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are durable and built to withstand sweat, with water resistance and swappable knit ear cups. And there aren't many headphones out there like them. IP ratings are a bit out of the ordinary on any headphones, and the Beats 360 are the first IP-certified headphones from the company. Like Beats workout earbuds, the Powerbeats Pro 2 and Powerbeats Fit 2 , the Beats 360 are rated IPX4, which protects against … Read the full story at The Verge. ]]>
+San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that the Truth API feed is a "corrupt business scheme" that violates both California's Unfair Competition Law and federal ethics and anti-corruption laws that prohibit insider trading. White House spokesperson Davis Ingle recently called Truth Social the "most powerful and popular social media platform in the world." While the latter part of that statement is objectively untrue based on any credible e … Read the full story at The Verge. ]]>
 
-### Trump TV is just reruns of the president on YouTube
-2026-09-22T09:54:13-04:00 — https://www.theverge.com/policy/998726/trump-tv-youtube-livestream
+### Apple is reportedly working on a Whoop-like fitness tracker
+2026-09-22T13:04:52-04:00 — https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker
 
-The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling "Trump TV," as reported earlier by Time . The 24/7 station launched just days after Trump banned CNN, MS Now, and Politico from the White House. Following several teasers propping up "Trump TV," Kaelan Dorr, the White House's head of digital strategy, revealed that the administration will air Trump's "greatest hits, unfiltered" on YouTube. "The press, in some cases, reported inaccurately or not at all on the Administration's many record breaking accomplishments on behalf of all Americans," Dorr … Read the full story at The Verge. ]]>
+The Whoop MG fitness band. | Photo by Amelia Holowaty Krales / The Verge Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg . A prototype of the device reportedly has "a thin fabric band with a sensor-equipped computing module." The device is in an early stage of development and likely wouldn't arrive before 2028 if Apple decides to release it, Bloomberg reports. In addition to Whoop's lineup of 5.0 bands , the company also sells MG - or "medical grade" - variants with a built-in EKG feature. The bands are designed to be worn continuously, as they offer more than 14 days of battery life. As pointed out by Bloomberg , Apple has … Read the full story at The Verge. ]]>
 
-### Waymo is offering transit discounts again, this time with Visa
-2026-09-22T09:00:00-04:00 — https://www.theverge.com/transportation/998184/waymo-public-transportation-discount-subway-bus-visa
+### Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta
+2026-09-22T12:34:08-04:00 — https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy
 
-Waymo has made several attempts over the years at offering transit discounts to its customers in the hopes of getting them to more frequently use the company's robotaxis to connect with a train or a bus. The Alphabet-owned company announced the latest effort today, teaming up with Visa to offer a discount on robotaxi rides when they use Waymo to connect with transit. The new incentive is being rolled out first to customers in the San Francisco-Bay Area. When riders use a Visa credit card to take a Waymo trip and public transit within two hours of each other, the company will automatically put a $2.85 credit on their account that can be app … Read the full story at The Verge. ]]>
+Venture capital firm Andreessen Horowitz (a16z) is creating an "academy" positioned as a pipeline for young people to build or join a Silicon Valley startup. The "Horowitz Andreessen Academy" will launch with 10 partners, including Anduril, Anthropic, Coinbase, Google, Meta, NVIDIA, OpenAI, Palantir, Replit, and Stripe, along with $42 million in funding led by a16z. While billed as a "highly selective school," it does not grant any degree or accreditation. Instead, students will attend short classes led by tech figureheads, like OpenAI CEO Sam Altman, as well as "co-ops" that give students roles at tech companies. To partake in the one-year … Read the full story at The Verge. ]]>
 
-### These discreet hearing aid glasses now have better voice boosting and battery life
-2026-09-22T09:00:00-04:00 — https://www.theverge.com/tech/998243/essilorluxottica-nuance-audio-plus-otc-hearing-aid-glasses
+### Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+2026-09-22T12:30:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity
 
-EssilorLuxottica, the company that Meta partnered with for its Ray-Ban smart glasses, announced a new version of its Nuance Audio glasses that are designed to double as discreet over-the-counter hearing aids. The new Nuance Audio Plus still manages to squeeze their FDA cleared hearing aid tech into temple arms that don't look much thicker than what you'll find on a standard pair of glasses. But the new Plus option introduces improved sound boosting, better voice clarity, extra on-device controls, and up to 10 hours of battery life. The Nuance Audio Plus are now available in the US in three frame styles including Square, Pathos, and Upturn i … Read the full story at The Verge. ]]>
+Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday , Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario Amodei announced plans to "pace the frontier," or slow down AI development. In recent weeks, several AI companies, including Anthropic , Google , and OpenAI , have reported that their AI models escaped containment and hacked third-party companies during testing. Anthropic says Opus 5.5 is the "str … Read the full story at The Verge. ]]>
 
-### Oppo’s new phone is the first with three 200-megapixel cameras
-2026-09-22T08:18:35-04:00 — https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china
+### Rivian’s R2 beat its own climate goals four years early
+2026-09-22T12:03:45-04:00 — https://www.theverge.com/transportation/998762/rivian-r2-climate-impact-carbon-lifecycle-half
 
-All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls "DeepPix sensor technology," suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge. ]]>
+Rivian always planned for its all-important R2 vehicle to be less expensive than its pricey R1 predecessors, but also less polluting. The production process for the R2 would rely on more renewable energy, and the vehicle itself would feature more recycled and biodegradable materials than the models that came before it. With this and a few other tricks, Rivian set the target to achieve a 50 percent lifetime carbon reduction for the R2 by 2030. Today, the company released its 2025 impact report outlining its sustainability progress for the year. The main takeaway is that over the entire lifespan - everything from production, driving, and eve … Read the full story at The Verge. ]]>
 
-### Peloton is back with a ‘cheaper’ folding treadmill
-2026-09-22T08:10:08-04:00 — https://www.theverge.com/tech/998272/peloton-tread-flex-fitness-treadmills
+### Trump says the US is officially renaming AI to ‘super intelligence’
+2026-09-22T12:01:10-04:00 — https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence
 
-Peloton said phones aren’t the only things that can fold. Last year, Peloton did a sweeping refresh of its hardware that added cameras, fans, and AI-powered software called Peloton IQ. This year, it's zeroing in on its treadmill lineup - refreshing its two existing Treads and adding the new, more affordable Tread Flex into the fold. At a New York City launch event, Peloton chief product officer Nick Caldwell told the press the $2,195 Flex - which can be folded upright to save 50 percent more floor space - was meant to address user feedback for a more easily stowed machine. When folded, the Flex purportedly has a smaller overall footprint than the Bike Plus. It also has caster wheels so it can be m … Read the full story at The Verge. ]]>
+In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, "globalists," climate change , and transgender people while also claiming that the US is now "officially" renaming artificial intelligence to "super intelligence." Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started on this tangent. Why is he saying this at all? Because, according to Trump, the word artificial makes intelligence fake. Is that what makes it sound fake to you? I can think of a few other reasons. Trump has previously decreed renaming the Gulf of Mexico , Lake Superior , the Kennedy Center, and Denal … Read the full story at The Verge. ]]>
 
-### It’s time for the Mac Neo
-2026-09-22T08:00:00-04:00 — https://www.theverge.com/report/998501/apple-mac-mini-m6-price-mac-neo-concept
+### Xbox is barely Xbox anymore
+2026-09-22T10:50:00-04:00 — https://www.theverge.com/games/998758/xbox-activision-blizzard
 
-Come on, how adorable would this be? | Image: The Verge, Apple The Mac Mini is a great little desktop computer, and back when it cost $599 , it was easy to recommend to anyone who wanted something speedy, simple, and cheap. The new M6 model is even better , but it starts at $899, and its 12-core CPU and 12-core GPU might actually be overkill for someone who just wants macOS and mostly does web stuff. That's why we need a Mac Neo. The MacBook Neo proves Apple can get good-enough laptop performance from an iPhone chip for $699. And you get a great screen, keyboard, trackpad, and battery with that money. Throwing a smartphone chip, a power supply, some basic speakers, and a few ports in a small box shouldn' … Read the full story at The Verge. ]]>
+Xbox has become a shell of its former self - and things are only getting worse. As part of its planned cuts impacting around 3,200 workers , the company announced today more changes that will further dilute the brand. Studios are being consolidated, others are on the brink of being closed altogether, and Xbox's most iconic franchise, Halo , is being moved to a new developer. The future of Xbox looks more uncertain than ever. Today's news includes "eliminating 268 roles across Halo Studios, other first-party studios, and the [Xbox Game Studios] management and central functions layer." But there is also plenty of reorganization happening, parti … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### Beat the Switch 2 storage crisis with this $99 512GB microSD Express card
+Tue, 22 Sep 2026 18:18:55 +0000 — https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9
+
+The flash shortage has driven up prices for nearly all consumer storage devices. Fortunately, for a limited time, Nintendo Switch 2 owners have a rare opportunity to secure a high-performance Samsung P9 512GB microSD Express card for just $99.99 , the original MSRP before the shortage began. Amazon’s $50 checkout discount makes this deal even more enticing, since the microSD Express card typically retails for $149.99. Check out the Samsung P9 512GB deal on Amazon The Samsung P9, one of the best microSD Express cards available, offers blazing-fast sequential read speeds of up to 800 MB/s. That performance is enough to ensure games on your Switch 2 load quickly, and gameplay stays smooth. Samsung does not explicitly state the sequential write speed; however, microSD Express cards in the 512GB class generally offer sustained write speeds of up to 300 MB/s. P9 512GB: was $149.99 now $99.99 The Samsung P9 is a microSD Express card that offers great performance and reliability for its price. The 512GB model is currently priced at its original MSRP of $99.99. View Deal High write speeds mean faster data transfers and game installations. Still, 300 MB/s is more than enough for most Switch 2 owners to install large games and updates with little waiting time. In normal usage, the Switch 2 reads more data than it writes, so high read speeds are always a plus. MicroSD Express card benchmarks MicroSD Express card benchmarks The Samsung P9 512GB is an incredible steal at $99.99 , especiall
+
+### Durabook Z14I-DX3 rugged mobile workstation folds three screens into a 9.8 kg chassis
+Tue, 22 Sep 2026 16:33:41 +0000 — https://www.tomshardware.com/laptops/durabook-z14i-dx3-rugged-mobile-workstation-folds-three-screens-into-a-9-8-kg-chassis-luggable-targets-military-emergency-services-and-field-professionals
+
+Taiwan-based manufacturer Durabook has introduced a highly rugged mobile workstation with not one, not two, but three integrated 14-inch 1080p displays. The Z14I-DX3 comes in a traditional clamshell design with two additional displays attached on either side that fold inwards during transportation. The laptop is MIL-STD-810H and MIL-STD-461G certified and is primarily meant for field professionals including military, public safety and emergency services, engineers, and other industrial operations. All three displays are DynaVue sunlight-readable touchscreens with capacitive multi-touch and built-in OSD controls. Offering up to 1200 nits of peak brightness, all three can be synchronized or adjusted individually. The displays also support finger, water, glove and stylus inputs, which can be useful depending on the working conditions. The additional displays increase the overall weight of the machine to a whopping 21.6 lb or 9.8 kgs, significantly heavier than the standard single-screen model at 3.6 kg. And at 5.4" thick (137.5mm) when closed, this system is best understood as a luggable workstation rather than anything resembling a traditional laptop. The notebook can be configured with Intel’s Meteor Lake Core Ultra 5 or Core Ultra 7 mobile processors with up to 64GB of DDR5-5600 memory. Unusually for a ruggedized system, Durabook also offers several Nvidia discrete GPUs including the RTX A500 AI accelerator, RTX 3500 Ada and RTX 5000 Ada for up to 682 TOPS of AI performance. 
 
 ### Get this spiffy, stealthy MSI Gaming Trio RTX 5090 for just $4,299
 Tue, 22 Sep 2026 15:00:52 +0000 — https://www.tomshardware.com/pc-components/gpus/get-this-spiffy-stealthy-msi-rtx-5090-for-just-usd4-299-geforce-week-at-walmart-serves-up-a-rare-deal-on-nvidias-fastest-gaming-gpu
@@ -161,17 +176,22 @@ Tue, 22 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/s
 
 Enterprise SSD brand DapuStor revealed a new dual-mode configuration for its J5060 enterprise drive that combines SLC (single-level cell) and QLC (quad-level cell) flash on a single drive. The drive’s new firmware runs “selected QLC cells” in a faster pseudo-SLC (pSLC) mode, trading capacity for speed. As an example, the 30.72TB model trades around 4TB of QLC for 800GB of pSLC, a ratio closer to 5:1 than 4:1. The other two configurations put aside 400GB or 1.2TB with a cost between 6% and 20% of the QLC capacity. “No dedicated SLC NAND is required,” as this uses a “software-defined media configuration,” DapuStor said. Announced last month during FMS 2026, the drive still lacks pricing, a named customer, and a general availability date. Typical consumer QLC drives have a pSLC cache that fills with super-fast performance, with the data later transferring over to QLC. However, this pSLC mode is dynamic and variable in size. DapuStor’s implementation uses a fixed region sized by the operator, and the regions are exposed as individual block devices to the host. The J5060 is also higher capacity, from 15.36 to 122.88TB, and in the U.2 form factor for PCIe 4.0 x4. Endurance is rated at 0.5 DWPD (Drive Writes Per Day) over five years. The stock 30.72TB model is rated at 30,000 random-write IOPS at 16KB. Its write latency is 35 microseconds. (Image credit: DapuStor) The capacity trade-off improves what QLC is worse at, random writes, by more than seven times, DapuStor said. It also sa
 
-### China's CXMT hits 12nm-class DRAM milestone
-Tue, 22 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/dram/chinas-cxmt-hits-12nm-class-dram-milestone-new-5th-gen-dram-tech-uses-quadruple-patterning-to-boost-die-capacity-by-50-percent
-
-China's DRAM champion CXMT has begun mass production using its 5th-generation DRAM process technology. CXMT says its new process technology — G5, as the company calls it — reduces DRAM’s active-area half-pitch to 11.95nm using quadruple-patterning lithography. The 11.95nm half-pitch corresponds to an active-area pitch of 23.9nm, something that puts this particular dimension roughly in the range of other advanced 10nm-class DRAM technologies. However, it cannot be directly translated into a conventional DRAM node designation. Separately, CXMT says its DRAM-optimized high-K metal gate (HKMG) process reduced the height of the core cell array to 6,762nm. The company also says it modified its process flow and introduced unspecified new materials to enable storage capacitors with a depth-to-width aspect ratio of about 45:1.The figure is certainly difficult to compare directly with competing DRAM process technologies, but SK hynix says that capacitor aspect ratios will need to exceed 100:1 as DRAM critical dimensions eventually fall below 10nm. A 45:1 aspect ratio means CXMT’s storage capacitors are 45 times deeper than they are wide, which is what enables the company to reduce DRAM cell area and fit more memory arrays onto a wafer and retail predictable capacity. However, increasingly high aspect ratios make etching, deposition, mechanical stability, and ultimately high-yield manufacturing considerably more challenging. The first disclosed mass-produced devices using G5 are said to
-
-### OpenAI and Anthropic scramble for smaller data centers as massive gigawatt projects lag
-Tue, 22 Sep 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/openai-and-anthropic-are-reportedly-seeking-out-smaller-data-center-deals-to-meet-current-demand-20-30-mw-facilities-to-provide-capacity-as-mega-structures-undergo-construction
-
-Anthropic and OpenAI are reportedly scrambling to secure smaller AI data center deployments as they race to bring more compute capacity online while gigawatt-scale projects undergo construction. According to a September 18 CNBC report , the two AI giants are exploring agreements for existing facilities with roughly 20-30 MW of capacity, despite already committing tens of billions of dollars to much larger AI infrastructure projects. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Anthropic has reportedly sounded out potential deals of that size across the UK and Nordic countries, according to CNBC, citing four people familiar with the discussions. OpenAI has also explored smaller deployments in the Nordics, while sources said both companies have discussed similar opportunities in the United States. “We’re building a diversified compute portfolio to meet growing demand for AI around the world,” an OpenAI spokesperson told CNBC. The company added that different workloads require different infrastructure and that it evaluates potential deployments based on performance, reliability, timing, and cost. Anthro
-
 ## Phoronix
+
+### Linux 7.2 vs. Linux 7.3 Shows A Few Improvements With AMD Strix Halo
+Tue, 22 Sep 2026 15:23:48 -0400 — https://www.phoronix.com/news/Linux-7.3-Strix-Halo
+
+Last week I ran some benchmarks showing performance gains for AMD Ryzen AI Max+ "Strix Halo" on Ubuntu 26.10. Then shortly after that testing on its daily state, which used the Linux 7.2 kernel, Canonical switched to Linux 7.3 as the Ubuntu 26.10 kernel. Here are some Linux 7.2 vs. Linux 7.3 benchmarks for the AMD Ryzen AI Max+ 395 "Strix Halo" with the Framework Desktop...
+
+### Ubuntu Linux Maker Canonical Achieved $345M USD In Revenue For 2025
+Tue, 22 Sep 2026 14:26:13 -0400 — https://www.phoronix.com/news/Ubuntu-Canonical-Did-345M-2025
+
+In 2024 Canonical generated nearly $300M USD in revenue for this company behind Ubuntu Linux and other services and software solutions. For 2025, they not only broke $300M but well exceeded it with $345M in revenue...
+
+### Variable Refresh Rate "VRR" Target Limiter Proposed For Linux Graphics Drivers
+Tue, 22 Sep 2026 11:29:30 -0400 — https://www.phoronix.com/news/VRR-Target-Rate-Limiter-uAPI
+
+A new proposal being discussed is introducing a Linux user-space API to be able to specify frame rate targets for Variable Refresh Rate (VRR) handling on the Linux desktop...
 
 ### SPEC Releases SPECviewperf 15.0.1 For Linux
 Tue, 22 Sep 2026 10:36:00 -0400 — https://www.phoronix.com/news/SPECviewperf-15.0.1-Linux
@@ -218,22 +238,32 @@ Tue, 22 Sep 2026 06:03:38 -0400 — https://www.phoronix.com/news/ZLUDA-cuFFT-AP
 
 ZLUDA as the open-source project working on CUDA for non-NVIDIA GPUs like AMD Radeon graphics cards now has implemented support for some of NVIDIA's core cuFFT APIs...
 
-### Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming
-Mon, 21 Sep 2026 21:00:00 -0400 — https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave
-
-Valve's Steam client beta today introduced Pyrowave as an experimental video codec for high bandwidth, low-latency video streaming...
-
-### AMD Begins Preparing Open-Source Linux Driver For Graphics Cards With GDDR7
-Mon, 21 Sep 2026 16:52:36 -0400 — https://www.phoronix.com/news/AMDGPU-Linux-Prep-GDDR7
-
-AMD sent out their latest Linux kernel graphics driver patches today for enabling some new hardware IP blocks. And as part of that, preparing for GDDR7 video memory with the AMDGPU driver...
-
-### Gravity Linux Aims To Provide A Nice Experience For Apple M4 & Newer
-Mon, 21 Sep 2026 15:58:02 -0400 — https://www.phoronix.com/news/Gravity-Linux-M4-Mac-Mini-Alpha
-
-There's a new Linux distribution focused on supporting Linux on Apple Silicon Macs. Gravity Linux is this new distribution that is a spin of Fedora Remix and is catering to the still-experimentally-supported Apple M4 Macs and newer. In addition to leveraging Asahi Linux code and reverse engineering, Gravity Linux also leverages OpenAI Codex and Claude Code...
-
 ## The Register
+
+### ABBYY gives old-school OCR a job in the AI pipeline
+Tue, 22 Sep 2026 19:15:00 +0200 — https://www.theregister.com/applications/2026/09/22/abbyy-gives-old-school-ocr-a-job-in-the-ai-pipeline/5298361
+
+ABBYY has packaged its FineReader OCR engine as a self-hosted tool for turning documents into structured text that AI systems can use. The company's new FineParser runs in a Docker container on a CPU, without requiring a GPU. It aims to preserve the layout of a document as it extracts its contents. It takes images of documents, in multiple languages, and turns them into structured, formatted text – so that they can be processed using, for instance, modern generative AI LLMs. This isn't its sole purpose: the company suggested it could help bring print text into a modern CMS, or for archiving, or as a stage in some form of production pipeline. ABBYY describes FineParser's approach as "deterministic" AI. It extracts text and document structure rather than generating a plausible rendition of them. Its output can then be passed to a generative AI system, whose responses are less predictable. The company also offers its own programmable machine-learning framework, NeoML, which is FOSS and available on GitHub. It also publishes an OCR SDK for companies wanting to embed the FineReader engine into their own products. FineParser itself isn't open source, although ABBYY maintains a GitHub repository for examples and community support. The self-hosted tool has a free tier allowing 1,000 pages per month for one year. ABBYY says its subscription tiers connect to a license server for validation; a fully offline deployment requires an Enterprise plan. Preserving structure means recognizing c
+
+### NightmareEclipse's latest zero-day leaves Microsoft Defender stuck in the past
+Tue, 22 Sep 2026 18:36:00 +0200 — https://www.theregister.com/security/2026/09/22/nightmareeclipses-latest-zero-day-leaves-microsoft-defender-stuck-in-the-past/5298320
+
+Serial Microsoft zero-day leaker NightmareEclipse has found another way to mess with Windows Defender, this time by stopping the antivirus from updating itself. The security researcher, also known as Abdelhamid Naceri, released a proof-of-concept dubbed “BigDiskBuster” that is designed to prevent Microsoft Defender Antivirus from installing platform and security intelligence updates. “Made a funny tool, completely denies defender from updating so you're stuck with your current version if the tool is running in the background,” NightmareEclipse said. The researcher describes BigDiskBuster as similar to their earlier “UnDefend” tool and claims it works on all supported versions of Windows, although they admit the current PoC is “a bit buggy and needs some rewritting [sic].” That compatibility claim has not been independently verified. The trick doesn't disable Defender. Instead, the PoC waits for an update to start, then tries to fill up the drive so there isn't enough space for it to finish. The code does this by creating hidden temporary files sized to consume the drive's free space, spinning up additional threads as needed to claim more. Once it detects that the Defender update has failed, it closes the files and returns the space. BigDiskBuster also opens Microsoft's Malicious Software Removal Tool executable, MRT.exe, in a way that restricts other processes' access to the file while the handle remains open. The result, according to NightmareEclipse, is that Defender stays 
+
+### Z.ai says sorry for slurping up your code, open sources ZCode
+Tue, 22 Sep 2026 17:59:00 +0200 — https://www.theregister.com/security/2026/09/22/zai-says-sorry-for-slurping-up-your-code-open-sources-zcode/5298300
+
+Chinese AI giant Z.ai has apologized after developers caught it pulling a Grok, packaging up and uploading user workspaces to cloud storage. In a case that’s highly reminiscent of the issues over which Elon Musk’s xAI was scrutinized in July, Z.ai’s code-generation harness wing, ZCode, was found packaging and git-encrypting entire user workspaces, including complete project histories, and shipping them off to Alibaba Cloud. Worse still, the private key used to decrypt the data was only held by the server under Z.ai’s control, meaning users could not access the files ZCode had uploaded, nor delete them. Ferstar, the researcher who first highlighted the issue, claimed there was no option for users to disable the behavior in their settings, and there was no disclosure of the practice in ZCode’s privacy policy. They said the core problem lay with the tool’s Repository Index functionality, which triggered the uploading of files after Repo Wiki generated pages in the cloud. ZCode released a statement on Monday apologizing for the “security issues” and confirming the data it uploaded had never been used to train its models. “We sincerely thank the community developers who previously identified issues in ZCode. Going forward, we will establish an ongoing product security vulnerability reporting and response process,” it Xeeted. “We welcome developers to continue reviewing ZCode and reporting potential issues, and we will provide rewards based on the severity of the issues reported.” 
+
+### Privacy group slams EU for changing the data rules to cater to AI
+Tue, 22 Sep 2026 17:30:00 +0200 — https://www.theregister.com/legal/2026/09/22/privacy-group-slams-eu-for-changing-the-data-rules-to-cater-to-ai/5298175
+
+The campaign group which forced the EU's highest court to strike down past US-EU data sharing deals has slammed the latest changes to European data protection laws designed to accommodate AI. Led by Austrian lawyer Max Schrems, None of Your Business (noyb) claims the proposal to alter the data protection legislation “in the context of AI” amounts to an abandonment of data protection principles. In September, the Commission said it would launch an “ambitious program” to strengthen the EU’s competitiveness and “radically lighten the regulatory load for people, businesses and administrations.” It proposed “immediate adjustments” to digital legislation to the boost competitiveness. Earlier, the EU had proposed changes in the legislation governing the processing of personal data, governed by the General Data Protection Regulation (GDPR). “Where the processing of personal data is necessary for the interests of the controller in the context of the development and technical operation of an AI system … or an AI model, such processing may be pursued for legitimate interests,” a briefing note said. Noyb argues the amendments to Article 88c (original here) proposed by the European Commission (a leaked EU Council compromise draft renames it as article 88bis) would allow Big Tech to use all personal data collected over the past decades with virtually no restrictions, as long as this happens “in the context” of AI. Schrems said: “Under these proposals, the profits of AI companies would trum
+
+### UK cops arrest 2 EvilTokens suspects, Microsoft seizes 50 phishing kit websites
+Tue, 22 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/22/uk-cops-arrest-2-eviltokens-suspects-microsoft-seizes-50-phishing-kit-websites/5298317
+
+A coalition of law enforcement and private-sector tech companies led by Microsoft have disrupted the EvilTokens phishing service, arresting suspected website admins, taking down more than 50 websites, and notifying victims of compromised email accounts. EvilTokens is a notorious Microsoft device-code phishing kit that emerged in February, and, within months of launching, had been used by criminals to compromise 12,000 email inboxes across more than 10,000 organizations worldwide. Like other similar phishing subscriptions, EvilTokens was sold as-a-service, and allowed buyers to bypass multi-factor authentication (MFA) and silently authenticate as the victim to the organization's Microsoft 365 applications. What made this one especially insidious, however, was its AI use. EvilTokens featured an AI chatbot that could analyze a victim’s inbox, and help criminals identify who to target, which trusted contacts to impersonate, and even which fraud strategies to use to maximize criminals’ paydays. “Since March 15, 2026, we have observed 10 to 15 distinct campaigns launching every 24 hours," Microsoft VP of security research Tanmay Ganacharya told The Register in an earlier interview about the phishing service. Late last week, in a coordinated effort that spanned the US and UK, Microsoft seized 50 websites used to operate the service and disabled more than 150 additional domains tied to its supporting infrastructure. Meanwhile, London’s Metropolitan Police Service on September 18 arre
 
 ### Who signed off on that AI agent? Nobody? Thought so.
 Tue, 22 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/22/sponsored/5297693
@@ -270,32 +300,47 @@ Tue, 22 Sep 2026 12:45:00 +0200 — https://www.theregister.com/databases/2026/0
 
 Nottingham University Hospitals NHS Trust managed to overwrite a maternity database spanning more than a decade after someone forgot to change a setting in a reused set of computer instructions. The mishap happened on August 18, when staff carrying out routine technical work to copy a radiotherapy database for reporting used a set of pre-written instructions that had previously been run against another hospital system. There was just one problem: a setting needed changing first, and nobody changed it. The process ran against the wrong database and overwrote the Trust's old Medway maternity records database, which contained information about women and babies treated between September 2011 and November 2022. Nottingham University Hospitals (NUH) said the incident was the result of human error and was escalated within minutes of being discovered. The good news is that the Trust has managed to recover the clinical information it needs for patient care, including notes, observations, and test results. Current maternity patients and services are also unaffected, and NUH said no patient information was accessed or used inappropriately as a result of the incident. The bad news is that one part of the database has proved harder to resurrect. NUH has been unable to completely restore the audit history showing who viewed maternity records during the 11-year period covered by the database. That means the Trust may now be unable, in most cases, to establish whether a particular person loo
 
-### Longtime SUSE staff asked if they'd opt for 'voluntary separation'
-Tue, 22 Sep 2026 12:00:00 +0200 — https://www.theregister.com/software/2026/09/22/longtime-suse-staff-asked-if-theyd-opt-for-voluntary-separation/5297457
-
-SUSE has offered "voluntary separation" to eligible employees as the veteran Linux vendor reshapes its business, The Register can confirm. One source said People, Strategy and Transformation Executive Lisa Sherwell contacted them with the offer after an online company meeting broadcast from Singapore, during which executives joked about being past their own sell-by dates. Asked about the program, a SUSE representative told us: "As part of our ongoing efforts to align our business structure with long-term strategic priorities, SUSE has introduced a voluntary separation and early retirement option for eligible team members. Participation is completely voluntary for both employees and the organization, with no predefined targets. Our people remain our key differentiator, supported by industry-leading staff retention globally of 6 percent in core operational areas and an overall rate of 12 percent." The separation program follows another staffing development at SUSE's Czech operation, although there is no evidence that the two are connected. Employees in Prague unionized earlier this year, forming the SUSE Workers Union. The new union is part of the Czech ICT Union, which also organizes a group of Microsoft staff in the country. The ICT Union represents workers in the IT and call-center industries, an important part of the Czech economy. International technology companies with substantial operations in the country include IBM and Red Hat – even before the former acquired the latt
-
-### Commodore's forgotten Amiga Unix gets a modern revival
-Tue, 22 Sep 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/09/22/commodores-forgotten-amiga-unix-gets-a-modern-revival/5297805
-
-A vintage Unix window manager and an entire vintage UNIX operating system that uses it have received modern updates. Yes, AI helped, but we're here for it. The Commodore Amiga is one of the best-loved computers of the 1980s: The Register celebrated its 30th anniversary in 2015. Its many fans remember it primarily as a home computer and, in its day, the ultimate games machine. Later in the Amiga's life, however, Commodore hoped to sell its more powerful models as Unix workstations. In 1991, Commodore released Amiga Unix, better known as Amix. It was a full port of AT&T UNIX System V Release 4 for a high-end version of the Amiga 3000 called the Amiga 3000UX. A Commodore brochure [PDF] was titled "Commodore A3000UX: Born to run UNIX SVR4." To give you an idea of just how early this was, Amix shipped on DC6150 quarter-inch cartridge tape, so a clean installation required a Commodore 3070 tape drive. CD-ROM drives weren't mainstream yet. Despite the Amiga's video prowess, the built-in ECS video of this $4,998 machine could only run X11 in black and white. Commodore later offered color support through the optional A2410 graphics card, which cost another $998. Amix was a niche product, and relatively few Amiga enthusiasts remember it today. At the one-day Saku 2026 Amiga conference in Oulu, Finland, last weekend, an intrepid group of hackers announced a new update for Amix. It is available from AmigaUX.org. Commodore's final release was Amix 2.1 in 1992, and it looked like this. The
-
-### GOV.UK founder warns AI gold rush could leave Britain locked in
-Tue, 22 Sep 2026 10:30:00 +0200 — https://www.theregister.com/public-sector/2026/09/22/govuk-founder-warns-ai-gold-rush-could-leave-britain-locked-in/5297828
-
-Britain risks swapping its dependence on foreign technology suppliers for an even deeper reliance on a handful of AI providers, according to GOV.UK founder Mike Bracken. Bracken, who founded the Government Digital Service (GDS) and served as the UK's first Government Chief Data Officer, says governments and other institutions are gradually giving up control over critical systems as they pile more technology dependencies onto their operations. "Institutions rarely lose sovereignty in a crisis. They lose it one reasonable decision at a time," Bracken said. "The biggest risk facing many organizations today is not that somebody takes control away from them. It's that they gradually give it away. Every technology decision can make it harder or easier to change direction in the future." The warning comes as governments throw money at "sovereign AI," typically involving domestic compute capacity, homegrown models, or infrastructure intended to reduce reliance on overseas providers. Bracken reckons that misses a more fundamental point. Sovereignty isn't necessarily about owning the infrastructure or technology underneath a service, he said. What matters is whether an organization can still make its own decisions when its circumstances change. That becomes particularly relevant with AI, where organizations increasingly build services around models and platforms controlled by a relatively small group of technology companies. Switching away later may be considerably harder once those sy
-
-### Alibaba Cloud plans six-year stroll to 20GW of datacenters, reveals chip to power them
-Tue, 22 Sep 2026 07:42:32 +0200 — https://www.theregister.com/off-prem/2026/09/22/alibaba-cloud-plans-six-year-stroll-to-20gw-of-datacenters-reveals-chip-to-power-them/5298062
-
-Chinese tech giant Alibaba has outlined an ambition to expand its datacenter fleet to 20GW of capacity, and chip that will help it get there. CEO Eddie Wu announced those ambitions today at Alibaba’s Apsara conference, where he delivered a speech that likened current AI applications to light bulbs, because electric light was an early application of electricity but the really important stuff came along decades later. He also compared AI to steam engines. “Steam and combustion engines were designed merely to do what horses and laborers were already doing: pumping water, weaving, and hauling,” he said. Over time, the CEO said, engines proliferated to the point at which “machine power already drives 99.9% of the world’s physical work.” The CEO thinks AI – which he prefers to call “Machine Thinking” – will one day do 99.9% of all cognition, and usher in various utopian outcomes. “In the future, every niche domain will have millions of AI scientists and domain experts constantly driving breakthroughs and tackling challenges,” he said, before asking his audience to imagine an AI charged with building a starship capable of reaching Mars. “For such an ultra-complex, long-horizon task, AI will break it down into tens of millions of subtasks, executed by millions of agents working non-stop until completion,” he said. “A human only needs to define the intent and the goal to mobilize massive intellectual resources.” Going large Alibaba Cloud , he said, has decided to play its part by mobi
-
-### Gartner predicts 55% of enterprise VMware users will be investigating an exit by 2029
-Tue, 22 Sep 2026 04:39:35 +0200 — https://www.theregister.com/virtualization/2026/09/22/gartner-predicts-55-of-enterprise-vmware-users-will-be-investigating-an-exit-by-2029/5298043
-
-Analyst firm Gartner believes over half of VMware users will start evaluating alternative hybrid cloud platforms yet still rates the Broadcom business unit a leader in two major markets. Gartner predicted increased interest in VMware exits in its Magic Quadrant for Distributed Hybrid Infrastructure (DHI) – aka hybrid clouds – which opens with a “Strategic Planning Assumption” that “By 2029, 55 percent of enterprises will initiate proofs of concept for alternative distributed hybrid infrastructure products to replace their VMware-based deployments and embrace hybrid cloud infrastructure delivery, up from 25 percent in 2026.” Gartner’s mention of 2029 feels noteworthy, because that year will be six years after Broadcom’s acquisition of VMware. As The Register has previously written, plenty of VMware users acquired fresh three-year subscriptions in the months before the deal closed. Migrating from VMware to a rival platform is a risky and complex project, and we often hear of customers deciding it is safer to stick with Broadcom for longer while they hatch plans. If orgs in that position refresh for another three-year sub during 2026, 2029 would be a natural jumping off point. Numerous virtualization contenders are trying to lure Virtzilla’s customers, yet progress is slow. Nutanix CEO Rajiv Ramaswami has often said it will be several years before some are ready to move. While Gartner predicts a majority of VMware customers will contemplate a move, the Broadcom business unit wil
-
 ## Engadget
+
+### Anthropic and OpenAI announce more powerful (and cheaper) AI models
+Tue, 22 Sep 2026 19:11:11 +0000 — https://www.engadget.com/2265801/anthropic-and-openai-announce-more-powerful-and-cheaper-ai-models/
+
+I thought we were supposed to be slowing down the frontier.
+
+### How to use Google's Find Hub to locate your Android phone
+Tue, 22 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2261944/how-to-use-google-find-hub-locate-android-phone/
+
+Is your Android phone missing? Here's how you can use Find Hub to look for it.
+
+### How far away should you sit from your computer monitor or laptop?
+Tue, 22 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2264095/how-far-you-should-sit-from-computer-monitor-laptop/
+
+Don't have your monitor sitting just anywhere; the distance, tilt and angles are all important to avoid strain while working.
+
+### The latest PlayStation update made PSSR 2.0 the default for PS5 Pro owners
+Tue, 22 Sep 2026 17:30:00 +0000 — https://www.engadget.com/2263887/playstation-update-made-pssr-2-0-default-ps5-pro/
+
+Your PS5 Pro will now automatically make supported games look even better without you having to dig into menus for an obscure toggle.
+
+### How to add extra Ethernet ports if your router doesn't have enough
+Tue, 22 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2262942/how-to-add-extra-ethernet-ports-router/
+
+Ethernet ports are often in short supply. If you run low, a cheap device lets you add more to your existing router without fuss.
+
+### Improve your Roku TV's image quality by changing these settings
+Tue, 22 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2262814/improve-roku-tv-image-quality-change-settings/
+
+Your Roku TV has lots of settings to make the picture quality look more detailed and clearer, but you have to know where to look.
+
+### Do USB extenders really work and are they safe to use?
+Tue, 22 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2262422/do-usb-extenders-work-safey/
+
+USB extenders will help you connect devices over longer distances, but not all of them have the same capabilities when performing this function.
+
+### Amazon Leo is bringing Elon-free satellite internet to Uzbekistan
+Tue, 22 Sep 2026 15:26:43 +0000 — https://www.engadget.com/2265345/amazon-leo-is-bringing-satellite-internet-to-uzbekistan/
+
+Amazon Leo is teaming up with one of the country's ISPs to connect hard-to-reach regions.
 
 ### Five reasons to stick with your iPhone 17 Pro instead of upgrading to the 18 Pro
 Tue, 22 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2262360/reasons-keep-iphone-17-pro-instead-of-upgrading-iphone-18-pro/
@@ -317,47 +362,47 @@ Tue, 22 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2262080/robotaxi-wh
 
 Robotaxis from companies like Waymo, Xoox and Tesla are always improving, but some riders do experience injuries or find themselves in places they shouldn't.
 
-### Beats 360 review: Customizable headphones capable of double duty
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2265152/beats-360-headphones-review/
-
-Beats goes all in on customization with the Beats 360, offering headphones that are built for use everywhere - including the gym.
-
-### Beats 360 vs AirPods Max 2: How do Apple's flagship headphones compare?
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2263860/beats-360-vs-airpods-max-2-comparison/
-
-We compare the new Beats 360 with the AirPods Max 2. Find out how they stack up in design, comfort and features to see which pair is right for you.
-
-### Beats 360 vs Sony WH-1000XM6: How these high-end wireless headphones compare
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2263867/beats-360-vs-sony-wh-1000xm6-comparison/
-
-See how the Beats 360 stacks up with the popular Sony WH-1000XM6 in design, comfort and features in our hands-on comparison.
-
-### How Beats designed the Beats 360 headphones
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2265155/beats-360-headphones-interivew-oliver-schusser/
-
-Beats VP Oliver Schusser discusses the company's new headphones and what to expect in the future.
-
-### How to enter VR mode on Steam
-Tue, 22 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2262051/how-to-start-vr-mode-steam/
-
-If you've bought a VR headset and already installed Steam, it only takes a few minutes to get everything set up and ready for gaming in virtual reality.
-
-### Sonos Beam Ultra review: A huge Atmos upgrade for $699
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2265077/sonos-beam-ultra-review/
-
-The Sonos Beam Ultra isn't quite mid-range at $699, but it sounds almost as good as the huge Sonos Arc.
-
-### Sonos Ace Ultra review: Giving the people what they want
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2264528/sonos-ace-ultra-headphones-review/
-
-The Ace Ultra is an obvious upgrade over the original Ace headphones, with headphone linking performing reliably already, even in its early phase.
-
-### The creator of Windows Task Manager has 'vibe coded' a new version that runs on macOS and Linux
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2262039/vibe-coded-modern-task-manager-runs-on-mac-and-linux/
-
-Three decades after he wrote the original Windows Task Manager at Microsoft, Dave Plummer is back with a new iteration that works on macOS and Linux too.
-
 ## TechCrunch
+
+### Apple could take on Whoop with a new fitness tracker, report says
+Tue, 22 Sep 2026 19:27:57 +0000 — https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/
+
+Apple may be developing a new fitness tracker as part of its new generation of hardware devices.
+
+### Meta admits Muse s likeness to OpenClaw isn t a coincidence
+Tue, 22 Sep 2026 19:09:11 +0000 — https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/
+
+Meta says Muse was built from scratch, but acknowledges the AI assistant was "heavily inspired" by OpenClaw — down to some of its workspace filenames and content.
+
+### Hacking group ShinyHunters claims it breached the FBI, stole agents and applicants data
+Tue, 22 Sep 2026 18:40:30 +0000 — https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/
+
+The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.
+
+### a16z is challenging Silicon Valley s love for drop-outs by launching a school
+Tue, 22 Sep 2026 18:24:34 +0000 — https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/
+
+This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.
+
+### OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+Tue, 22 Sep 2026 18:00:00 +0000 — https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/
+
+OpenAI is launching two new models, which it says are cut from the same cloth as Astra.
+
+### Waymo s latest expansion strategy: teenagers
+Tue, 22 Sep 2026 17:36:06 +0000 — https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/
+
+Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.
+
+### Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+Tue, 22 Sep 2026 16:30:07 +0000 — https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/
+
+Anthropic called it "the strongest-performing model we've tested to date."
+
+### Stolen passwords are exposing America s water providers to hackers
+Tue, 22 Sep 2026 15:50:58 +0000 — https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/
+
+Researchers say another looming threat hangs over some of America's most important critical infrastructure.
 
 ### Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt
 Tue, 22 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/
@@ -367,7 +412,7 @@ Noble Carbon has developed a smart circuit breaker that allows households to ele
 ### Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda
 Tue, 22 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/
 
-At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, NVIDIA, AWS, Waabi, and more. Register now to save up to $200 before Sept 25.
+At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.
 
 ### AstroForge is putting AI in command of its next spacecraft
 Tue, 22 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/
@@ -378,44 +423,4 @@ Autonomy-1 will have a small, transformer-based AI model taking charge of a spac
 Tue, 22 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/
 
 Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.
-
-### Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026
-Tue, 22 Sep 2026 14:15:00 +0000 — https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/
-
-We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.
-
-### TikTok s US arm joins Lantern, a cross-platform child safety initiative
-Tue, 22 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/
-
-Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.
-
-### 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026
-Tue, 22 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/
-
-Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.
-
-### Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs
-Tue, 22 Sep 2026 13:20:00 +0000 — https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/
-
-Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.
-
-### Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future
-Tue, 22 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/
-
-To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.
-
-### Everyone can find a reason to dislike data center construction
-Tue, 22 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/
-
-Inside two years of fraught AI data center debates in Pennsylvania.
-
-### Nscale’s IPO will test Wall Street s appetite for concentrated AI bets once again
-Tue, 22 Sep 2026 12:23:05 +0000 — https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/
-
-The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.
-
-### Meta deal will help plastics recycling startup MacroCycle build its first factory
-Tue, 22 Sep 2026 11:00:00 +0000 — https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/
-
-Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.
 

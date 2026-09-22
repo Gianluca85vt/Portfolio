@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-22T15:10:18.780Z
+# Manga — harvested 2026-09-22T19:53:09.181Z
 
 ## Anime News Network
+
+### Magilumiere Co. Ltd. Creator Yū Aoki, Ya Boy Kongming! Creator Yuto Yotsuba Launch New Manga
+Tue, 22 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/magilumiere-co-ltd-creator-yu-aoki-ya-boy-kongming-creator-yuto-yotsuba-launch-new-manga/.242066
+
+<cite>Ya Boy Kongming!</cite> creator credited with original story for <cite>Boat Girl</cite> series
+
+### Kakao Entertainment to Shut Down N. American Webtoon Platform Tapas
+Tue, 22 Sep 2026 14:26:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/kakao-entertainment-to-shut-down-n-american-webtoon-platform-tapas/.242090
+
+Kakao Entertainment plans to notify publishers and rights holders about the Tapas shutdown on Tuesday
+
+### This Week in Anime - The Prophetic Visions of Cyberpunk Anime
+Tue, 22 Sep 2026 13:51:34 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-22/.242036
+
+Sylvia and Lucas ask the big questions, like "Is the entire cyberpunk genre prophetic?"
+
+### Though I Am an Inept Villainess ‒ Episode 11
+Tue, 22 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-11/.242089
+
+This world needs both butterflies and rats.
+
+### Singer, Composer Duncan Sheik Dies
+Tue, 22 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/singer-composer-duncan-sheik-dies/.242085
+
+Sheik wrote music/lyrics for upcoming American stage musical of <cite>Memoirs of Amorous Gentlemen</cite> manga
+
+### A Livid Lady's Guide to Getting Even Volumes 1-7 Light Novel Review
+Tue, 22 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/a-livid-lady-guide-to-getting-even/volumes-1-7/.241862
+
+Ellie is perhaps the most morally gray villainess I’ve seen in an otome story. She’s a villainess with a body count: 103. And that’s only counting CHILDREN she’s killed.
+
+### Super Psychic Policeman Chojo Anime's 2nd Promo Video Reveals Theme Songs
+Tue, 22 Sep 2026 11:55:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/super-psychic-policeman-chojo-anime-2nd-promo-video-reveals-theme-songs/.242088
+
+M!LK, Shifuku Poncho perform theme songs for October 6 anime
+
+### Goodbye, Lara ‒ Episode 12
+Tue, 22 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-12/.242087
+
+Through the constant retelling and reimagining of his tales, Andersen lives on. If that isn't true love, I don't know what is.
+
+### Tokyopop's Public Stock Shares Offer Ends on September 24
+Tue, 22 Sep 2026 11:01:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/tokyopop-public-stock-shares-offer-ends-on-september-24/.242086
+
+Publisher revealed plans for public stock shares originated 20 years ago
 
 ### Silent Witch Author Matsuri Isora Announces New Fantasy Novel
 Tue, 22 Sep 2026 09:31:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/silent-witch-author-matsuri-isora-announces-new-fantasy-novel/.242065
@@ -17,56 +62,21 @@ Tue, 22 Sep 2026 05:25:32 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Honoka Inoue, Rina Honnizumi, Rina Hidaka sing "Tokimeki Un・Deux・Trois♪" ending as their characters
 
-### Kojima Productions Issues Statement Amid Speculation on Physint's Publisher Change
-Mon, 21 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-21/kojima-productions-issues-statement-amid-speculation-on-physint-publisher-change/.242041
-
-Kojima Productions: “None of the claims written came from any official or on-the-record source and as such we encourage you to take them with a dose of scepticism.”
-
-### Star Detective Precure! Joins Street Fighter 6 in 4-Part Collaboration
-Mon, 21 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-21/star-detective-precure-joins-street-fighter-6-in-4-part-collaboration/.242044
-
-Street Fighters, are you ready to take on the toughest challenge ever?
-
-### New Ahare! Meisaku-kun Anime Gets More Episodes Next January
-Mon, 21 Sep 2026 22:26:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/new-ahare-meisaku-kun-anime-gets-more-episodes-next-january/.242070
-
-Most recent season in comedy about school for fictional characters debuted on July 5
-
-### Netflix's Live-Action Quiztopia Series Unveils More Cast, December 17 Debut
-Mon, 21 Sep 2026 22:14:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/netflix-live-action-quiztopia-series-unveils-more-cast-december-17-debut/.242067
-
-Masahiro Takashima, Eiko Koike, Riko Ishida, more join Takayuki Yamada in dystopian drama
-
-### Akira Failing in Love Manga Tops 1 Million in Circulation Globally
-Mon, 21 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/akira-failing-in-love-manga-tops-1-million-in-circulation-globally/.241837
-
-Love comedy manga launched in 2024
-
-### Ascendance of a Bookworm Part 3: Adopted Daughter of an Archduke ‒ Episode 22
-Mon, 21 Sep 2026 19:30:00 -0400 — https://www.animenewsnetwork.com/review/ascendance-of-a-bookworm-part-3-adopted-daughter-of-an-archduke/episode-22/.241996
-
-The meeting turns the structure into an impromptu courtroom drama of sorts, laying out the stakes and potential consequences.
-
-### Writer Tadashi Agi, Artist Jun Nakanishi's Foodies Manga Ends
-Mon, 21 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/writer-tadashi-agi-artist-jun-nakanishi-foodies-manga-ends/.242040
-
-Manga about "foodie hunters" launched in August 2025
-
-### Sparks of Tomorrow ‒ Episode 12
-Mon, 21 Sep 2026 18:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-12/.242029
-
-This episode, and <i>Sparks of Tomorrow</i> at large, is such a misfire on nearly every level and I cannot wait for it to be over soon.
-
-### Shūichi Shigeno's Subaru and Subaru Manga Goes on Break Until October 26
-Mon, 21 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-21/shuichi-shigeno-subaru-and-subaru-manga-goes-on-break-until-october-26/.242035
-
-Manga launched in July 2025
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Kakao Entertainment to Shut Down Tapas and Kakao Webtoon, to Consolidate Content on KakaoPage
+Tue, 22 Sep 2026 16:20:42 GMT — https://animecorner.me/kakao-entertainment-to-shut-down-tapas-and-kakao-webtoon-to-consolidate-content-on-kakaopage/
+
+Kakao Entertainment plans to shut down Kakao Webtoon and Tapas to consolidate its services into KakaoPage by the end of 2026.
+
+### Mushoku Tensei Releases Old Rudeus' Full Diary From Light Novel Volume 15 After Season 3 Episode 13
+Tue, 22 Sep 2026 15:54:45 GMT — https://animecorner.me/mushoku-tensei-releases-old-rudeus-full-diary-from-light-novel-volume-15-after-season-3-episode-13/
+
+Mushoku Tensei: Jobless Reincarnation has released the full Old Rudeus diary following the release of Season 3 Episode 13.
 
 ### BanG Dream’s millsage Covers "Stellar Stellar" by Hoshimachi Suisei
 Tue, 22 Sep 2026 13:51:05 GMT — https://animecorner.me/bang-dreams-millsage-covers-stellar-stellar-by-hoshimachi-suisei/
@@ -98,11 +108,6 @@ Mon, 21 Sep 2026 03:48:48 GMT — https://animecorner.me/bride-of-the-barrier-ma
 
 The newest trailer for the previously announced Bride of the Barrier Master anime unveiled&hellip;
 
-### Though I Am an Inept Villainess Cour 2 Reveals First Look, January 2027 Return With The First Royal Outing Arc
-Sun, 20 Sep 2026 15:35:00 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-first-look-january-2027-return-with-the-first-royal-outing-arc/
-
-Toho announced that Though I Am an Inept Villainess will receive a second part&hellip;
-
 ## MyAnimeList News
 
 ### Grand Blue Fourth Season in Production
@@ -114,11 +119,6 @@ The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3)
 Sun, 20 Sep 2026 20:21:01 -0700 — https://myanimelist.net/news/74741587?_location=rss
 
 The official website for the television anime adaptation of Kureha s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Onmyou Kaiten Re:Birt...
-
-### Futsutsuka na Akujo dewa Gozaimasu ga Second Part Announced for Winter 2027
-Sun, 20 Sep 2026 08:44:02 -0700 — https://myanimelist.net/news/74739206?_location=rss
-
-The 11th and final episode of Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den (Though I Am an Inept Villainess) ended with an announcement on Monday that its second part, titled Hajimete no Gaiyuu-hen, will premiere in January 2027. The official website also revealed three additional cast members and a key visual (pictured). Cast Keikou: Yuuichi Nakamura (Jujutsu Kaisen) Keishou: Shunichi Toki (Tokyo Revengers) Unran: Chiaki Kobayashi (Sousou no Frieren) Produced by Doga Kobo, t...
 
 ## Otaku USA
 

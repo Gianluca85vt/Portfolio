@@ -1,16 +1,26 @@
-# AI — harvested 2026-09-22T15:10:18.780Z
+# AI — harvested 2026-09-22T19:53:09.181Z
 
 ## OpenAI
 
-### Advisory Group on Mathematics and Artificial Intelligence
-Mon, 21 Sep 2026 12:00:00 GMT — https://openai.com/index/advisory-group-on-mathematics-and-ai
+### Introducing GPT-6 Sol and Luna
+Tue, 22 Sep 2026 18:00:00 GMT — https://openai.com/index/introducing-gpt-6-sol-and-luna
 
-OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
+Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
+
+### Priorities and principles for effective third party assessments
+Tue, 22 Sep 2026 00:00:00 GMT — https://openai.com/index/priorities-principles-third-party-assessments
+
+OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
 
 ### Higgsfield AI ships new video features in a day with GPT-6 Astra
 Mon, 21 Sep 2026 12:00:00 GMT — https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
 
 With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.
+
+### Advisory Group on Mathematics and Artificial Intelligence
+Mon, 21 Sep 2026 12:00:00 GMT — https://openai.com/index/advisory-group-on-mathematics-and-ai
+
+OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
 
 ### Building standards for the next phase of AI
 Mon, 21 Sep 2026 10:00:00 GMT — https://openai.com/index/building-standards-next-phase-ai
@@ -28,6 +38,9 @@ Mon, 21 Sep 2026 00:00:00 GMT — https://openai.com/index/v7
 Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.
 
 ## Hugging Face
+
+### How UK AISI and EvalEval Are Making Benchmark Results Reproducible
+Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/evaleval-aisi
 
 ### Transformers now runs llama.cpp quants
 Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/transformers-llama-cpp-quants

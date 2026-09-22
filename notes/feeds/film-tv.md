@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-22T15:10:18.780Z
+# Film & TV — harvested 2026-09-22T19:53:09.181Z
 
 ## Variety
 
-### Jensen Ackles to Star in Crime Thriller Series Rules of Prey at MGM+
-Tue, 22 Sep 2026 15:09:10 +0000 — https://variety.com/2026/tv/news/jensen-ackles-rules-of-prey-mgm-plus-1236872209/
+### Mahershala Ali Says I Agree That Marvel Not Making Blade Is the Biggest Failure of Kevin Feige s Career: I Don t Know Why It Didn t Happen
+Tue, 22 Sep 2026 19:46:15 +0000 — https://variety.com/2026/film/news/mahershala-ali-blade-failure-kevin-feige-1236872401/
 
-Jensen Ackles is set to star in the thriller series Rules of Prey, which has been greenlit at MGM+. The series is based on the book of the same name by John Sandford, which is the first in Sandford s Prey novel series that focus on former police detective Lucas Davenport. The official logline states that [ ]
+Mahershala Ali is dumbfounded like the rest of us when it comes to Marvel s inability to get his Blade movie reboot off the ground. Marvel Studios president Kevin Feige told the “Happy Sad Confused” podcast over the summer that he was feeling like a gigantic loser and failure for bungling Ali s Blade, and now the [ ]
 
-### Her Road to the Top: How NBCUniversal TV Studio Chief Pearlena Igbokwe Learned to Balance Business and Creative Instincts
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/features/pearlena-igbokwe-nbc-universal-tv-studio-boss-1236860415/
+### 5 Things the Fall Festivals Told Us About the Oscar Race, From Julianne Moore and John Malkovich to La Bola Negra and I Play Rocky
+Tue, 22 Sep 2026 19:41:46 +0000 — https://variety.com/2026/film/awards/fall-festivals-oscars-2027-takeaways-moore-malkovich-1236870575/
 
-By the time Pearlena Igbokwe was offered the job of president of Universal Television in 2016, she already had an impressive résumé. She’d climbed the ranks over 20 years at Showtime, and then excelled during a four-year stretch as head of NBC’s drama department. But the prospect of moving out of the network hierarchy to [ ]
+The fall festival triple crown ended the way it always does, with a Toronto audience getting the last word. On Sunday, those words were in Spanish. “La Bola Negra,” the sprawling Netflix epic from Los Javis, took TIFF s People s Choice Award, capping three weeks in which Venice handed its Golden Lion to May el-Toukhy s “Woman [ ]
 
-### National Hispanic Media Coalition Announces 2026 Cohort for Series Scriptwriters Program (EXCLUSIVE)
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/national-hispanic-media-coalition-2026-ssp-cohort-1236869748/
+### White House s Trump TV 24-Hour Livestream, Launched After He Banned CNN and MS NOW, Slammed by Critics as Literally State-Run TV
+Tue, 22 Sep 2026 19:30:39 +0000 — https://variety.com/2026/tv/news/trump-tv-white-house-state-run-tv-cnn-ms-now-ban-1236872500/
 
-The National Hispanic Media Coalition (NHMC) announced its 2026 cohort of participants for its annual Series Scriptwriters Program (SSP). Ten Latine writers from across the country were selected for an eight-week intensive, where they will develop scripts for an original television pilot that will be reviewed by SSP studio partners, including The Walt Disney Company, [ ]
+President Donald Trump has banned CNN, MS NOW and Politico from White House coverage, and the three outlets are suing him, alleging it abridges their First Amendment rights. In response to Trump’s ban of the news outlets, ABC News, CBS News, NBC News and Fox News — which along with CNN provide the White House [ ]
 
-### Kim s Convenience Star Andrew Phung Joins Quentin Lee s Zombie Comedy Curse of Undead (EXCLUSIVE)
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/news/kims-convenience-star-andrew-phung-zombie-comedy-curse-of-undead-1236871046/
+### Roshan Sethi s The Surgeon Acquired by Sony Pictures for North America and Beyond
+Tue, 22 Sep 2026 19:30:00 +0000 — https://variety.com/2026/film/news/roshan-sethi-the-surgeon-sony-pictures-north-america-1236872536/
 
-Andrew Phung, an eight-time Canadian Screen Award winner known for Kim s Convenience and Run the Burbs, is boarding Quentin Lee s horror-comedy Curse of Undead as star and producer. Phung will play protagonist Pancho Dang in the Canada-Philippines co-production, which follows a struggling Canadian filmmaker battling a zombie outbreak unleashed by a Filipino sorcerer, while uncovering [ ]
+Sony Pictures has acquired North American rights to Toronto breakout The Surgeon, in what the studio characterized as a highly competitive situation. Sony also acquired rights in Latin America, Italy, China and Hong Kong to the film from Roshan Sethi, the director of A Nice Indian Boy and The Resident, who is also a practicing [ ]
 
-### Fantastic Fest 2026 Awards Winners List: Ghost in the Cell, Girl in the Night and Adult Supervision Take Top Feature Honors (EXCLUSIVE)
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/news/fantastic-fest-2026-winners-list-1236871546/
+### Alec Berg Signs Netflix Overall Deal, to Develop Fraternity Drug Ring Comedy With Charlie Hall
+Tue, 22 Sep 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/alec-berg-netflix-overall-deal-charlie-hall-frat-drug-ring-1236872423/
 
-Fantastic Fest, the annual Austin-based celebration of genre filmmaking, has announced top honors for its films in competition. “Our winning films embody distinctive and powerful voices from a wide range of cultures, and the exciting new generation of talent shaping the future of genre cinema,” Annick Mahnert, director of programming, said in a statement. “It [ ]
+Alec Berg has signed an overall deal with Netflix, Variety has learned. The highly-successful TV writer and producer has previously been under overall deals at 20th Television (formerly ABC Signature) and HBO, the latter of which for nearly a decade. He has already set up his first project under the deal, a comedy series co-written [ ]
 
-### Prime Video Snaps Up LatAm Romance Series Starring Agustin Bernasconi, Noa Kirel With Sipur Repping Global Sales (EXCLUSIVE)
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/global/mirame-asi-el-camino-de-noa-prime-video-release-date-1236871842/
+### Monster: The Lizzie Borden Story Hits 12.1 Million Views in Four Days on Netflix
+Tue, 22 Sep 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/monster-the-lizzie-borden-story-ratings-netflix-views-1236872484/
 
-Prime Video has snapped up LatAm romance series “Mírame Así, El Camino de Noa,” which is set for release next month. The 24-part series, which stars international pop sensations Agustin Bernasconi and Noa Kirel, is set to launch on the streaming platform Oct. 9 in Latin America. In Argentina it will also air on the [ ]
+Monster: The Lizzie Borden Story shot to the No. 1 spot on the Netflix Top 10 after its debut last week, reaching a strong 12.2 million views in its first four days of streaming. That puts the project on par with the two most recent editions of Ryan Murphy s Monster anthology; The Ed Gein Story [ ]
 
-### Evita on Broadway: West End Stars Diego Rodriguez, James Olivas to Reprise Roles Alongside Rachel Zegler (EXCLUSIVE)
-Tue, 22 Sep 2026 15:00:00 +0000 — https://variety.com/2026/legit/news/evita-broadway-diego-rodriguez-james-olivas-rachel-zegler-1236871961/
+### Voices Review: Singing Through Fear and Anxiety in a Detroit-Set Musical Thriller
+Tue, 22 Sep 2026 18:57:11 +0000 — https://variety.com/2026/film/reviews/voices-review-1236867256/
 
-Diego Rodriguez and James Olivas will star alongside Rachel Zegler in Evita, which opens on Broadway next spring. Rodriguez and Olivas are reprising their roles as Che and Juan Perón, respectively, from last summer s acclaimed West End production. As previously announced, Zegler is reprising her Olivier Award-winning role as Argentinian first lady Eva Perón. Director [ ]
+Despite the generic title, “Voices” is quite the novelty. Mixing the rarely combined genres of chamber thriller and musical, the film takes place almost entirely in one location — a Detroit motel room in 1967 — and focuses on just three characters. The actors start singing at the most tense moments, puncturing the perception that, [ ]
 
-### Merged Paramount-Warner Bros. Will Be a Streaming Powerhouse, Wall Street Analysts Say — but Saddled With More Than $77 Billion in Debt
-Tue, 22 Sep 2026 14:42:15 +0000 — https://variety.com/2026/tv/news/merged-paramount-plus-warner-bros-hbo-max-streaming-powerhouse-1236872026/
+### Netflix Sets ‘My Big Day’ Feature Documentary About Supercharged Weddings in Britain’s Traveller Community
+Tue, 22 Sep 2026 18:55:29 +0000 — https://variety.com/2026/tv/global/netflix-my-big-day-traveller-weddings-documentary-1236872464/
 
-Paramount Skydance’s David Ellison has prevailed in his dogged pursuit of Warner Bros. Discovery: He’s won the deal. Now comes the hard part: making the economics of the combined company work, given an extremely high debt load of the combined media company. Following the announcement of Paramount s settlement with the 12 Democratic state attorneys general [ ]
+Netflix has commissioned a new documentary from Optomen focusing on weddings in Britain’s traveller community. Provisionally titled “My Big Day,” the feature-length doc will follow young couples as they prepare for their nuptials, some of which have turned into jaw-dropping spectacles as the pressure of social media encourages the bridge and groom to turn their [ ]
 
-### Zara Larsson Performs at iHeart in Las Vegas, Jonathan Bailey Attends Burberry Fashion Show in London and More Red Carpet Photos: September 2026
-Tue, 22 Sep 2026 14:30:04 +0000 — https://variety.com/gallery/celebrity-pics-red-carpet-photos-september-2026/
+### Jon M. Chu Will Not Cast Britney Spears Actor Until the Story for Movie Biopic Is Locked: Not Even Thinking About Casting
+Tue, 22 Sep 2026 18:52:20 +0000 — https://variety.com/2026/film/columns/jon-m-chu-casting-britney-spears-actor-movie-biopic-1236871260/
 
-As the summer begins to wind down in September, Hollywood is just getting started with a new crop of awards season movies premiering at the Venice Film Festival. Some of the first arrivals for the 83rd annual Italian fest included George Clooney, Laura Dern, Kate Mara, Claire Foy and jury president Maggie Gyllenhaal. At the [ ]
+It may be some time before cameras begin to roll on Jon M. Chu’s Britney Spears movie biopic, but the “Wicked” filmmaker has read some of the script from writer Liz Meriwether. “She’s doing many beautiful things and I may or may have not gotten glimpses of what she’s been doing and it’s incredible,” Chu [ ]
 
-### This $760 ‘Handmaid’s Tale’ Box Set Comes With Hand-Signed Artwork and a New Margaret Atwood Introduction
-Tue, 22 Sep 2026 14:23:34 +0000 — https://variety.com/2026/shopping/news/handmaids-tale-testaments-box-set-signed-limited-edition-1236872074/
+### Austin Film Society Announces $300,000 in Filmmaker Grant Awards, Launches Texas Lights Funding Program (EXCLUSIVE)
+Tue, 22 Sep 2026 18:39:33 +0000 — https://variety.com/2026/film/news/austin-film-society-texas-lights-1236872424/
 
-The Folio Society is giving Margaret Atwood’s Gilead novels a lavish makeover. The independent publisher is releasing a new collector’s edition box set of “The Handmaid’s Tale” and “The Testaments,” limited to just 750 hand-signed copies and priced at $760. The set, featuring new artwork from acclaimed Italian illustrators Anna and Elena Balbusso, will be [ ]
+The Austin Film Society has announced more than $300,000 in new filmmaker grant awards through the launch a new film funding program Texas Lights. Celebrating its 30th anniversary, AFS s grants support emerging filmmakers. The launch of the Texas Lights fund will provide cash for rising artists to create independent films. “Thirty years of the AFS [ ]
 
 ## The Hollywood Reporter
 
-### Inside Ari Emanuel s Earliest Days in Hollywood: Coffee Runs, Couch Surfing and Replacing Michael Ovitz s Toilet Paper
-Tue, 22 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/inside-ari-emanuels-earliest-days-hollywood-memoir-excerpt-1236707236/
+### Broadway Box Office: Titanique Hits New High, Oh, Mary! Jumps As Bowen Yang Takes Over
+Tue, 22 Sep 2026 19:49:05 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-titanique-oh-mary-bowen-yang-1236707781/
 
-In an exclusive excerpt from Emanuel's memoir 'Roll the Calls,' he details his time in the CAA mailroom, writing, "Sometimes it feels as if the yeller is actually getting off, as if they’re a textbook sadist, and sometimes it feels like basic revenge, because the yeller got yelled at when he worked in the mailroom."
+Bowen Yang began performances as Mary Todd Lincoln on Sept. 15.
 
-### Hayden Panettiere Died From Toxic Effects of Fentanyl, Other Drugs
-Tue, 22 Sep 2026 14:30:31 +0000 — https://www.hollywoodreporter.com/news/general-news/hayden-panettiere-cause-of-death-1236707486/
+### Crew Girl Renewed for Second Season at Netflix
+Tue, 22 Sep 2026 19:39:32 +0000 — https://www.hollywoodreporter.com/tv/tv-news/crew-girl-renewed-season-2-netflix-1236707783/
 
-The actress' death last month has been ruled an accident.
+The pickup for the YA series comes less than two weeks after its premiere.
 
-### Billy Bush Joins Fox News As Contributor
-Tue, 22 Sep 2026 14:26:29 +0000 — https://www.hollywoodreporter.com/tv/tv-news/billy-bush-joins-fox-news-1236707487/
+### Sony Lands Michelle Yeoh Action Movie The Surgeon
+Tue, 22 Sep 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sony-lands-michelle-yeoh-action-the-surgeon-1236707752/
 
-The former 'Access Hollywood' correspondent will make his debut Tuesday on Fox News’ 'Jesse Watters Primetime.'
+Filmmaker (and real-life medical doctor) Roshan Sethi is behind the project that bowed at TIFF.
 
-### More Xbox Layoffs Hit as Massive Reorg Continues; Activision to Make Next Halo Game
-Tue, 22 Sep 2026 14:24:20 +0000 — https://www.hollywoodreporter.com/business/business-news/xbox-layoffs-reorg-activision-takes-over-halo-games-1236707478/
+### The Harvard Lampoon Targeted The Hollywood Reporter — Is Hollywood Still Targeting The Lampoon?
+Tue, 22 Sep 2026 19:22:45 +0000 — https://www.hollywoodreporter.com/news/general-news/the-harvard-lampoon-hollywood-reporter-parody-1236707671/
 
-The Microsoft-owned gamemaker is in the process of eliminating 3,200 jobs.
+The Lampoon parody is a tradition going back 50 years, well before the campus humor magazine became a pipeline for Hollywood talent. THR became its latest (willing) victim.
 
-### Peter Berg s Netflix War Movie The Mosquito Bowl to Premiere at AFI Fest (Exclusive)
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/peter-berg-netflix-mosquito-bowl-premiere-2026-afi-fest-1236707355/
+### American Horror Story Season 13: Everything We Know
+Tue, 22 Sep 2026 19:17:20 +0000 — https://www.hollywoodreporter.com/lists/american-horror-story-season-13-everything-we-know-guide/
 
-The film, an adaptation of Buzz Bissinger's bestseller of the same name, will premiere in a Gala slot on Oct. 22.
+The 13th installment of Ryan Murphy and Brad Falchuk's horror anthology series is returning — and in a big way.
 
-### Tupac Shakur Murder Trial Doc in The Works
-Tue, 22 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tupac-shakur-trial-documentary-1236707464/
+### David Dastmalchian s Good Fiend Films Launches Genre Lit Division (Exclusive)
+Tue, 22 Sep 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-dastmalchians-good-fiend-films-launches-genre-lit-division-exclusive-1236707666/
 
-The feature documentary from Passion Pictures and Propagate Content will follow Duane “Keffe D” Davis being tried and eventually convicted in the long-unsolved case following the rapper’s 1996 infamous death.
+The actor, known for 'Oppenheimer,' 'The Dark Knight' and 'The Suicide Squad,' is adding Good Fiend Lit to his portfolio.
 
-### Mike Leigh Explains Why It s More Than Probable That Tender Loving Care Is His Final Film
-Tue, 22 Sep 2026 13:29:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-final-film-tender-loving-care-1236707446/
+### Lionel Richie Postpones Tour Dates After Undergoing Heart Procedure
+Tue, 22 Sep 2026 18:57:47 +0000 — https://www.hollywoodreporter.com/music/music-news/lionel-richie-heart-procedure-postpones-concerts-1236707715/
 
-At a San Sebastian Film Festival press conference on Tuesday, the British director was asked about his retirement and staying optimistic when "so many things are happening in the world, which are frightening and limiting."
+The singer "is doing great but will take some time off and will be back onstage soon," a rep said.
 
-### California Vowed to Stop Paramount-Warner Bros. Merger. Why Did It Fold?
-Tue, 22 Sep 2026 13:16:56 +0000 — https://www.hollywoodreporter.com/business/business-news/california-paramount-warner-bros-settle-why-fold-1236707326/
+### Jessica Lange Reveals She Plays a Mystery Fifth Character in American Horror Story Season 13
+Tue, 22 Sep 2026 18:55:29 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jessica-lange-5th-character-american-horror-story-season-13-1236707668/
 
-Political pressure, a dice roll of an antitrust trial and competing factions within the alliance of states and the Writers Guild of America all played a part in the states' decision to settle.
+The actress is reprising her four previous 'AHS' roles for the new season premiering Thursday and says Ryan Murphy also "promised" her a musical number.
 
-### Neon Sets Paper Tiger Awards Categories, Plans First Real Push for a James Gray Film (Exclusive)
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neon-oscars-paper-tiger-awards-categories-james-gray-1236706637/
+### Taylor Swift Announces New Single Patient Zero
+Tue, 22 Sep 2026 18:34:44 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-announces-single-patient-zero-1236707696/
 
-Miles Teller, Scarlett Johansson and Adam Driver are among the contenders for Gray's crime-thriller, which premiered at the Cannes Festival in May and will open the New York Film Festival on Friday.
+Swift's first single since her 'Toy Story 5' track "I Knew It, I Knew You“ will release this Friday.
 
-### Heart of the Beast Review: Brad Pitt and His Canine Co-Star Earn Your Tears in David Ayer s Tense, Tender Survival Thriller
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/heart-of-the-beast-review-brad-pitt-david-ayer-1236706924/
+### Virginia Film Fest: Jessica Lange Set for Visionary Award, Live Taping of THR s Awards Chatter Podcast (Exclusive)
+Tue, 22 Sep 2026 18:34:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jessica-lange-virginia-film-festival-award-podcast-1236707351/
 
-A former Special Forces soldier and his combat dog struggle to survive in the Alaskan wilderness in this adventure from the 'Fury' filmmaker.
+The fest will also screen two films in which Lange stars: 'Long Day's Journey Into Night,' a new adaptation of the classic play, and 1994's 'Blue Sky,' for which Lange won the second of her two Oscars.
 
 ## Deadline
 
-### Zurich To Fete Tom Hiddleston With Golden Eye Award At Tenzing Opening Night Gala Screening
-Tue, 22 Sep 2026 15:02:21 +0000 — https://deadline.com/2026/09/zurich-tom-hiddleston-golden-eye-tenzing-1237110106/
+### Mary Beth Barone Writes Stars Opposite Joe Alwyn In Rom-Com Still We Met ; Lena Dunham Among EPs
+Tue, 22 Sep 2026 19:45:00 +0000 — https://deadline.com/2026/09/mary-beth-barone-joe-alywn-to-star-still-we-met-rom-com-1237110573/
 
-The Zurich Film Festival (ZFF) will honor Tom Hiddleston with its Golden Eye Award as his latest feature Tenzing opens its 22nd edition on Thursday. Hiddleston, who will attend the European premiere with co-star Willem Dafoe and BAFTA-nominated director filmmaker Jennifer Peedom, will be presented with the award ahead of the screening. The actor plays [ ]
+EXCLUSIVE: Mary Beth Barone, the comedic multi-hyphenate who just set up the A24 rom-com series Hard Feelings at Hulu, has written and will star opposite Hamnet s Joe Alwyn in Still We Met, an original romantic comedy loosely inspired by her own experiences. Marking the narrative feature directorial debut of Zackary Drucker, the filmmaker behind the [ ]
 
-### Jensen Ackles To Star In Rules Of Prey Crime Thriller Series Ordered By MGM+ Based On Book
-Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/jensen-ackles-rules-of-prey-series-mgm-plus-1237108451/
+### Sony Scoops Up TIFF Michelle Yeoh Thunder Road Action Thriller The Surgeon
+Tue, 22 Sep 2026 19:30:00 +0000 — https://deadline.com/2026/09/michelle-yeoh-the-surgeon-sony-1237110527/
 
-EXCLUSIVE: Jensen Ackles continues to be an Amazon MGM Studios MVP by pulling double duty. The Vought Rising star is set to headline and executive produce original drama series Rules of Prey, which has been greenlighted by MGM+. It is based on the first novel in John Sandford s Prey book series. Created by Bruce Terris [ ]
+In another sign of life for films looking for acquisitions out of film festivals, the Thunder Road and Tango thriller The Surgeon starring Oscar winner Michelle Yeoh is seeing its North American and some foreign rights won by Sony Pictures after multiple bids. Sony also took rights in Latin America, Italy, China, and Hong Kong. [ ]
 
-### Canada’s Omnifilm Expands Scripted Slate With English-Language Remake Of Korean Drama ‘The Good Detective’
-Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/the-good-detective-korean-drama-sll-omnifilm-reso-1237109076/
+### Crew Girl Renewed For Season 2 At Netflix
+Tue, 22 Sep 2026 19:02:15 +0000 — https://deadline.com/2026/09/crew-girl-renewed-season-2-netflix-1237110524/
 
-EXCLUSIVE: Canada’s Omnifilm Entertainment has announced an English-language adaptation of Korean crime thriller series The Good Detective. Based on the successful Korean format produced by Seoul-based content studio SLL, the project is part of Omnifilm’s move to expand its scripted slate with premium series aimed at global markets. The original series was originally broadcast on [ ]
+There will be more Crew Girl in our future. Netflix has renewed the popular YA drama for a second season. Written by Vivian Lin, Crew Girl is described as a frothy, coming-of-age teen drama about a 16-year-old female rower Teagan (Miku Martineau) who becomes the coxswain of a dysfunctional all-boys rowing team at an elite [ ]
 
-### ‘Sense And Sensibility’ Review: Director Georgia Oakley Brings A Rebellious Spirit To Jane Austen’s Still-Sharp Social Satire
-Tue, 22 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/sense-and-sensibility-review-georgia-oakley-daisy-edgar-jones-1237110038/
+### Charlie Hall To Star In College Fraternity Drug Ring Comedy Series In Works At Netflix Under Alec Berg Overall Deal
+Tue, 22 Sep 2026 19:00:07 +0000 — https://deadline.com/2026/09/charlie-hall-netflix-comedy-series-alec-berg-overall-deal-1237110459/
 
-Over 30 years have passed since Ang Lee worked his magic on Jane Austen’s 1811 novel, and, aside from a 2008 BBC mini-series, it’s taken until now for someone else to have a bash at a feature film version. It’s surprising it’s taken so long; a quick revisit shows that the 1995 Sense and Sensibility [ ]
+Netflix is developing a Charlie Hall/Alec Berg comedy series. Hall (Maximum Pleasure Guaranteed) will star in and write the untitled project, with Alec Berg (Barry) serving as the executive producer and supervising writer under an overall deal he signed with the streamer earlier this year. The Hall/Berg project is described as a fictional comedy series [ ]
 
-### Smilla’s Sense Of Snow Series Settles At AMC+
-Tue, 22 Sep 2026 14:45:19 +0000 — https://deadline.com/2026/09/smillas-sense-of-snow-series-premiere-on-amc-plus-us-canada-1237110075/
+### Jeremiah Watkins Talks New Special Crazy Pizza Nearly 5-Year Journey Toward Getting Passed At The Comedy Store Comedy Means Business Podcast
+Tue, 22 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/jeremiah-watkins-interview-comedy-means-business-podcast-1237109342/
 
-AMC+ has picked up drama series Smilla’s Sense of Snow. The dystopian thriller will play on the streaming service in the U.S. and Canada. A new adaptation of Peter Høeg’s bestseller, the series stars Filippa Coster-Waldau, Elyas M’Barek and Henry Lloyd-Hughes. It is directed by BAFTA winner Amma Asante (The Handmaid’s Tale). Smilla’s Sense of [ ]
+For Jeremiah Watkins, as for many comics, building a show biz career has been a gradual process — the result of a decades-long, consistent grind in a variety of lanes, rather than one single flash-in-the-pan moment. A Kansas native, Watkins went all-in on the pursuit of his dream after moving to Los Angeles in the [ ]
 
-### Billy Bush Joins Fox News As A Contributor
-Tue, 22 Sep 2026 14:39:32 +0000 — https://deadline.com/2026/09/billy-bush-joins-fox-news-1237110061/
+### Taylor Swift Teases New Single, Patient Zero, Releasing Ahead Of MTV VMA Honors
+Tue, 22 Sep 2026 18:27:10 +0000 — https://deadline.com/2026/09/taylor-swift-patient-zero-new-song-single-1237110452/
 
-Billy Bush has joined Fox News as a contributor, in whuch he will offer cultural analysis on the network s shows. That will start on Tuesday evening with an appearance of Jesse Watters Primetime. Bush hosts the digital show Hot Mics with Billy Bush, and previously anchored the syndicated series Extra from 2019 to 2025. After [ ]
+Taylor Swift s latest single, titled Patient Zero, will release later this week. The singer songwriter put a countdown on her website Tuesday with a deep red background leading up to the announcement, and she previously had changed her Instagram bio to And, baby, that s sh0w business f0r y0u. This will be Swift s first release since [ ]
 
-### Ari Emanuel On Nikki Finke, Talking To Trump, AI s Upside What Hollywood Exec He Hates The Most
-Tue, 22 Sep 2026 14:34:08 +0000 — https://deadline.com/2026/09/ari-emanuel-interview-nikki-finke-memoir-1237109218/
+### Disney Details Consumer Products Reorg With Expanded Roles For Cathleen Taff, Lisa Baldzicki
+Tue, 22 Sep 2026 18:15:00 +0000 — https://deadline.com/2026/09/disney-consumer-products-restructuring-studios-cathleen-taff-1237110430/
 
-Don t let the kinder gentler Ari Emanuel out there pitching his new memoir fool you. Despite what you may have read during his media tour for Roll the Calls, the WME Group boss hasn t mellowed out. The notoriously combative Emanuel is still taking names, making calls, taking no prisoners and, from Donald Trump and Barack [ ]
+Disney Consumer Products global licensing and publishing will move under the studios umbrella effective Oct. 4, with parks merch and Disney Stores remaining under Experiences, the company said as it unveiled new details and expanded roles for two key executives in a major restructuring of DCP. As reported, the move will align the licensing and [ ]
 
-### Committed : First Look At Dustin Milligan Diona Doherty As Transatlantic Lovers In CBC BBC Sitcom
-Tue, 22 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/committed-first-look-dustin-milligan-diona-doherty-sitcom-1237109269/
+### Mark Hamill, Seth Rogen, Lizzie Caplan Lilimar Among Voice Cast For New Darkwing Duck Animated Series Set At Disney+
+Tue, 22 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/mark-hamill-seth-rogen-lizzie-caplan-darkwing-duck-series-1237110368/
 
-EXCLUSIVE: CBC and BBC Northern Ireland are certainly Committed now. The broadcasters have released first-look images of their comedy series starring Dustin Milligan (Schitt s Creek) and Diona Doherty (Derry Girls). You can see them below and above, and we certainly get the sense of Milligan s Canadian character Peter Hooley falling head-over-heels in love with Doherty s [ ]
+Crime-fighting duck Drake Mallard is ready to get dangerous for a new generation of fans as Disney+ has greenlit a Darkwing Duck series, with Mark Hamill (Star Wars franchise) set as the voice of the titular character. The animated series comes from Sean Tretta (Star Trek: Picard) and Borja Peña Gorostegui (Lost Crowned), who [ ]
 
-### Hayden Panettiere s Cause Of Death Confirmed
-Tue, 22 Sep 2026 14:27:03 +0000 — https://deadline.com/2026/09/hayden-panettiere-cause-of-death-confirmed-fentanyl-1237110035/
+### Cinema United Says Paramount-WBD Deal To Settle Lawsuit Checks Many Of Exhibitors Boxes
+Tue, 22 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/cinema-united-paramount-wbd-deal-reaction-1237110369/
 
-The official cause of death has been confirmed for Hayden Panettiere. The Greenville County Coroner s Office in South Carolina has determined Panettiere died from the toxic effects of fentanyl, 4-ANPP, Alprazolam, Methocarbamol, and Quetiapine. The manner of death has been ruled accident. Fentanyl is a powerful synthetic opioid painkiller; 4-ANPP is a chemical precursor used [ ]
+Movie theater trade association Cinema United, who was an opponent of a Warner Bros Discovery acquisition from the onset, released a statement this morning, commending the four AGs work on settling with Paramount. The consent decree includes language on increased film production for five years, meaningful theatrical exclusivity and wide distribution, prohibitions on cost increases, [ ]
 
-### You Should Not Be Here Covering Me : Trump Surprised By Presence Of Kaitlan Collins After CNN Gets Credentialed By UN Despite White House Ban
-Tue, 22 Sep 2026 14:24:10 +0000 — https://deadline.com/2026/09/trump-cnn-ban-kaitlan-collins-un-1237110017/
+### Lionel Richie Recovering From Common Procedure For Atrial Fibrillation; Three Shows Canceled But Vegas Residency On Schedule
+Tue, 22 Sep 2026 17:51:50 +0000 — https://deadline.com/2026/09/lionel-richie-atrial-fibrillation-shows-canceled-1237110385/
 
-When President Donald Trump arrived at the United Nations on Tuesday and went over to speak to reporters, he noted the presence of Kaitlan Collins. The CNN anchor and correspondent was there via a UN credential, despite the president s ban on the network from the White House and the TV pool. I m surprised that CNN [ ]
+Lionel Richie is recovering from a procedure to address atrial fibrillation, or an irregular heartbeat, and has canceled several shows over the next few weeks. The singer still is set to begin a Las Vegas residency next month. In a statement to the press, Richie s rep said: “Lionel underwent a common procedure for Atrial fibrillation [ ]
 
-### Taiwan Creative Content Fest Launches Spotlight Screenings At Vieshow Cinemas
-Tue, 22 Sep 2026 14:12:02 +0000 — https://deadline.com/2026/09/taiwan-creative-content-fest-market-spotlight-screenings-1237109966/
+### ‘America’s Got Talent’ Is Latest Reality Show To Eye California Exit
+Tue, 22 Sep 2026 17:48:21 +0000 — https://deadline.com/2026/09/americas-got-talent-considering-california-exit-1237110428/
 
-Taiwan Creative Content Fest (TCCF) is collaborating with Vieshow Cinemas to host new initiative Spotlight Screenings, offering buyers and other key industry professionals an exclusive preview of two high-profile Taiwanese titles. The first screening on November 7 is for April, about a migrant family caregiver working in a Hakka community in Pingtung, Taiwan, who upon [ ]
+California is struggling to keep its iconic reality competition series filming in the Golden State after it emerged that another long-running series is considering an exit. America’s Got Talent is the latest show that may move production out of California for its next season, coming days after Deadline revealed that American Idol is on its [ ]
 
-### Susan Sarandon Olivia Colman Join Ronan Bennett s Starry Thriller Series Army Of Shadows , Filming Underway
-Tue, 22 Sep 2026 14:07:42 +0000 — https://deadline.com/2026/09/susan-sarandon-olivia-colman-join-army-of-shadows-1237110005/
+### List Of Hollywood Media Layoffs From Paramount To Warner Bros Discovery To CNN More
+Tue, 22 Sep 2026 17:45:24 +0000 — https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/
 
-EXCLUSIVE: A very good-looking project has just become more so. Oscar winners Susan Sarandon and Olivia Colman have joined Paddy Considine, America Ferrera, Alex Hassell and Kit Harington in thriller series Army Of Shadows, which is now filming in Paris and London. This is the project set in a near-future authoritarian Britain from MobLand and [ ]
+Media layoffs across the entertainment industry are hitting hard after the past two years avalanche of job cuts. The unfortunate trend can still be felt following the Covid-19 pandemic, dual Hollywood strikes and — the latest event to hit Los Angeles hard: a series of wildfires that broke out in January 2025. As the entertainment [ ]
 
 ## befores & afters
 
@@ -179,6 +179,21 @@ Mon, 21 Sep 2026 06:53:05 +0000 — https://beforesandafters.com/2026/09/21/here
 Hosting panels, sessions, workshops and with the mags and book available! I can t wait for VIEW Conference coming up very soon 12-16 October 2026! Here s four sessions I ll be involved with during the week in Turin, plus how you can grab magazines and the book. 1. On stage with director Brad Bird to discuss his upcoming Ray Gunn from Skydance Animation and Cinesite. 2. Behind the VFX of The Odyssey with VFX supe Andrew Jackson to break down his and DNEG s work on the film this is a pre-recorded session played during the conference, and I can tell you it is a SUPER-FUN conversation. I learnt so many new things. 3. Hosting Industry Executives Shaping the Future of Cinema a huge panel of key VFX and animation players from industry Janet Lewin , Senior VP, GM, Head, Industrial Light & Magic Laurens Ehrmann , Founder/Creative Director, The Yard Michelle Grady , President, Sony Pictures Imageworks Holly Edwards , President, Skydance Animation Shawn Walsh , COO VFX/GM Image Engine, Cinesite Group Ron Frankel , Founder/CEO, Proof Inc Henrik Fett , CEO, Opsis Studio 4. A masterclass from me on The Greatest Shots in Visual Effects History come along to find out what shots they will be! (And yes, there will be give-aways of my new book and magazines). Here s where to get your tickets for VIEW: https://www.viewconference.it/pages/registration/ The post Here s what befores afters is up to at VIEW Conference! appeared first on befores & afters .
 
 ## IndieWire
+
+### Coyote vs. Acme, Abandoned as a Tax Write-Off by Warner Bros., Grosses $100 Million Globally
+Tue, 22 Sep 2026 18:15:18 +0000 — https://www.indiewire.com/news/box-office/coyote-vs-acme-tax-write-off-100-million-box-office-1235218061/
+
+Revenge is a dish best served by Ketchup Entertainment, which rescued the animation hybrid.
+
+### La Gradiva Trailer: One of 2026 s Most Acclaimed Discoveries Puts a Fresh Twist on Coming-of-Age
+Tue, 22 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/trailers/la-gradiva-trailer-marine-atlan-1235217995/
+
+Marine Atlan's directorial debut and Cannes Critics' Week prize winner narrowly missed out on repping France in the International Oscar race. It will win more critics' prizes stateside.
+
+### James Gray s Paper Tiger Will Screen in 35mm on New York Film Fest Opening Night — Watch the New Trailer
+Tue, 22 Sep 2026 16:39:37 +0000 — https://www.indiewire.com/news/festivals/paper-tiger-nyff-opening-night-screenings-35mm-1235218054/
+
+Exclusive: Starring Miles Teller, Adam Driver, and Scarlett Johansson, Gray's 1980s-set family crime drama opens the festival on Friday, September 25.
 
 ### Forgotten Island Review: A Fun, Hyper, Kid-Friendly Riff on The Hangover Steeped in Filipino Folklore
 Tue, 22 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/forgotten-island-animated-movie-review-1235218021/
@@ -225,122 +240,107 @@ Mon, 21 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/la
 
 Change is in the air as our story shifts to 2026 and a ring-less John Stewart returns to Rushville to investigate Hal Jordan's death — and find closure of his own.
 
-### Zach Cregger s Resident Evil Grossed More in Its Opening Weekend Than the First Film Made in Its Entire Run
-Sun, 20 Sep 2026 18:43:55 +0000 — https://www.indiewire.com/news/box-office/resident-evil-box-office-hit-zach-cregger-opening-weekend-1235217930/
-
-The new film from the "Weapons" and "Barbarian" director opens to $108.3 million, making him one of Hollywood's biggest hitmakers.
-
-### Which Fall Festival Favorites Are Now in the Oscar Race?
-Sun, 20 Sep 2026 18:30:00 +0000 — https://www.indiewire.com/awards/predictions/fall-festival-best-picture-oscar-race-bola-negra-wild-horse-nine-1235217890/
-
-Best Picture frontrunners like "La Bola Negra" and "Wild Horse Nine" emerge as TIFF, Telluride, and Venice come to an end.
-
-### Duncan Jones on Why It s Harder Than Ever to Make His Kind of Movies (and Why He Refused to Use AI for His Newest One)
-Sun, 20 Sep 2026 17:11:43 +0000 — https://www.indiewire.com/features/interviews/duncan-jones-harder-than-ever-rogue-trooper-ai-1235217917/
-
-TIFF: It took almost a decade for the "Moon" and "Mute" filmmaker to get his animated adaptation of "Rogue Trooper" off the ground. Sometimes, the filmmaker tells IndieWire, that's just what the vision entails.
-
 ## The Wrap
 
-### BET s First Microseries Her Baby Will Premiere on Linear Before Going Digital
-Tue, 22 Sep 2026 15:10:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/bet-atwist-microseries-her-baby-linear-premiere-digital-edit/
+### Zach Cregger Explains How He Changed the Resident Evil Ending in Editing
+Tue, 22 Sep 2026 19:51:41 +0000 — https://www.thewrap.com/creative-content/movies/how-resident-evil-2026-ending-changed-zach-cregger/
 
-BET s first microseries in collaboration with aTwist will debut on the network this October. The collaboration is a first of its kind. Psychological thriller series Her Baby will premiere first on BET in four half-hour installments as a horizontal format and will later be reformatted into a microseries for aTwist. Her Baby” follows Naomi and Cory Marsh as they prepare to welcome their child with the help of Imani, their surrogate. Imani starts as a warm, devoted extended member of the family as she moves in to help with the child until Naomi suspects that the woman carrying her baby wants far more than she s letting on. Mia Reese, Destyni Hannah Cooper, and Brandon McGee will appear as series regulars in the series, which premieres on BET Wednesday, Oct. 7. A release date for the aTwist version has yet to be announced. The BET-aTwist partnership will see the two platforms develop microseries that are designed to be viewed across multiple platforms. BET will have a limited first-run window for the long-form versions of the episodes before they are re-edited as microdramas for aTwist’s mobile-first viewing. “The microseries format represents one of the most significant shifts in how content is created, distributed and consumed, and we’re positioning BET at the forefront of that evolution,” Aisha Summers-Burke, EVP and head of creative at BET Studios, said in a statement. “Our partnership with aTwist brings a best-in-class team and a format built for the future. Together we’re c
+For a zombie apocalypse horror movie based on a genre-defining video game, the ending of Zach Cregger s Resident Evil is actually pretty heartbreaking. And while there is a somber inevitability of where it takes our hero Bryan (Austin Abrams), now is a good time to offer a fair SPOILER ALERT: The following interview with Cregger and his star speaks candidly about that ending and exactly how it was made. Believe it or not, Cregger originally had an entirely different ending filmed and didn t land on the berserk, gory, violent and, yes, sad conclusion that the critical and box office hit ended up with. The short of it is Bryan finally makes his way with the antidote to the top floor of the hospital, where a group of scientists is waiting for his delivery: a cure to the zombie virus wrecking havoc on their city. Little do they know that Bryan is infected after being bitten on his travels, and he s increasingly evolving into one of the very beasts that have been tormenting him for the last 80 minutes. Losing control of the beastly tentacles growing off of him and the chest-sized, fanged mouth devouring every living thing around him through his own torso Bryan begins gruesomely killing all the scientists just as they re putting the antidote into its syringe. In a conversation with Collider published over the weekend, Abrams said that it was really important for him to keep Bryan s humanity there right up until the end, even while he s on his killing spree. He s begging for the ant
 
-### Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs
-Tue, 22 Sep 2026 15:08:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hayden-panettiere-cause-of-death-fentanyl/
+### San Francisco Sues Trump Media Over Truth Social Paid Early-Access Service
+Tue, 22 Sep 2026 19:46:01 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/san-francisco-sues-trump-media-truth-social-early-access/
 
-Hayden Panettiere s death has been ruled an accident caused by toxic effects of fentanyl and other drugs, according to the Greenville County Coroner’s Office. “At autopsy, no signs of trauma were discovered that would have contributed to the death,” officials said in a Tuesday statement. They further determined evidence of 4-ANPP, Alprazolam, Methocarbamol and Quetiapine in her system, per the toxicology report. The Heroes actress died last month on Aug. 16 in Greenville, South Carolina. “It is with profound sadness that we share the tragic passing of our beloved Hayden. She was an incredible light and a force of nature who brought immeasurable love and joy to all who knew her — and to the millions who watched her onscreen,” her father Skip Panettiere shared in an initial statement. “We ask for privacy as our family takes time to process this unimaginable loss.” More to come The post Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs appeared first on TheWrap .
+San Francisco sued Trump Media over a Truth Social service that charges trading firms as much as $100,000 a month for early access to President Donald Trump’s posts, alleging the product gives wealthy investors an unfair advantage on potentially market-moving information. City Attorney David Chiu announced the lawsuit Tuesday after filing it Monday in San Francisco Superior Court. The complaint targets Truth API, a data service Trump Media unveiled in July that gives paying subscribers faster access to posts from Trump and other prominent Truth Social accounts. The service promises speed — and a lot of it. Trump Media interim CEO Kevin McGurn has said Truth API gives subscribers a “50 millisecond advantage” that feeds directly into algorithmic trading platforms, according to the complaint. More than 10 customers, primarily high-frequency trading firms, had signed up for the service by late August, according to the complaint. “Trump Media created a marketplace that enables insider trading, which Trump directly profits from,” Chiu said in a statement. “This scheme turns the public trust into private profit.” The lawsuit alleges Trump Media violates California’s Unfair Competition Law by aiding and abetting violations of federal ethics and anti-corruption law and by violating federal insider-trading laws. Trump Media has defended Truth API as a financial data product. McGurn previously said the service was created in response to market demand, while the company has touted it as 
 
-### Kelly Clarkson Marvels at the Difficulty of Singing Golden : Made Me Its Bitch, a Little Bit
-Tue, 22 Sep 2026 14:53:51 +0000 — https://www.thewrap.com/creative-content/music/kelly-clarkson-golden-kpop-demon-hunters-hard/
+### Michelle Yeoh Action-Thriller The Surgeon Acquired by Sony Pictures Out of TIFF
+Tue, 22 Sep 2026 19:30:00 +0000 — https://www.thewrap.com/creative-content/movies/sony-pictures-acquires-michelle-yeoh-tiff-action-thriller-the-surgeon/
 
-Kelly Clarkson delighted fans everywhere when she sang Golden as her final Kellyoke performance earlier this year and, according to the singer, the song is as hard as people think. In fact, she says the KPop Demon Hunters song made me its bitch, a little bit. Clarkson stopped by Late Night with Seth Meyers on Monday night, in support of the newest season of The Voice, where she is once again a coach. Naturally, Meyers was quick to discuss Clarkson s own show having recently ended, and praised her final Kellyoke performance. It was the most requested, so we saved it for the last one, Clarkson explained. But like, that is that song is basically like humans against AI. Clarkson then laughed as she recalled practicing the song, and getting some pretty honest feedback from her kids as she struggled to place the highest notes of it. It took me forever to place it to where it didn t sound like a dying cat, she joked. The singer admitted that she was actually proud of herself when people enjoyed the performance, considering how hard she worked to pull it off. And then, God s honest truth, no one knows this, I tried to do it twice, just for insurance, you know, just as a backup, and it did not sound as good, she revealed with a laugh. So I just stopped. That song was I don t know if you can say this, but it made me its bitch, a little bit. For the record, yes, EJAE the singing voice of Rumi in KPop Demon Hunters and co-writer of Golden recognizes exactly how hard of a song it is. She 
+In a highly competitive situation, Sony Pictures has acquired North American rights to Toronto International Film Festival breakout “The Surgeon,” the studio announced Thursday. The thriller from Thunder Road and Tango is directed by Roshan Sethi, M.D. and stars Michelle Yeoh, Martin Freeman, Laurie Davidson, Yuri Kolokolnikov, and Joseph Mydell. The studio has also acquired rights in Latin America, Italy, China, and Hong Kong. “The Surgeon” is produced by Basil Iwanyk, Erica Lee, and Diarmaid McGrath of Thunder Road, Tango’s Tim Headington, Lia Buman, Tango’s Neil Shah, Steve Klinsky, Adam Kolbrenner of Lit Entertainment Group, John Schoenfelder, and Russell Ackerman. Theresa Page, Kim Szarzynski, Michelle Yeoh, 193’s Patrick Wachsberger and Ashley Stern, Mahal Sourgose, Eric Harbert, Jay Schuminsky, Patrick White, David Martin, Macdara Kelleher, Eoin Egan, Cáit Collins, and Andrew Schwartzberg serve as executive producers. On top of Sethi’s successful previous projects (“A Nice Indian Boy and The Resident”), he is also a practicing radiation oncologist at a Boston hospital. “The Surgeon” stars Yeoh as an expert surgeon who is abducted and forced to operate on a mysterious patient, only to turn 35 years of surgical expertise against her captors and outwit them in a fight for survival. Sethi turned to his colleague Dr. O’Keefe, a surgeon at the Royal College of Surgeons in Dublin, where the movie was shot, to train and prepare Yeoh. Dr. O’Keefe is also a teacher who runs the 
 
-### Trump Snaps at Kaitlan Collins at UN Press Stop After CNN White House Ban: You Shouldn t Be Here
-Tue, 22 Sep 2026 14:34:58 +0000 — https://www.thewrap.com/media-platforms/politics/trump-cnn-kaitlan-collins-un-press-stop-white-house-ban/
+### Mahershala Ali Agrees With Kevin Feige Feeling Like a Failure for Not Making Blade : He Should Feel That Way
+Tue, 22 Sep 2026 19:19:33 +0000 — https://www.thewrap.com/creative-content/movies/mahershala-ali-agrees-kevin-feige-failure-blade/
 
-President Donald Trump snapped at Kaitlan Collins on Tuesday morning at the United Nations general assembly, days after banning CNN from The White House. It s an honor to be here. I m surprised that CNN is here covering me. You shouldn t be here, you should not you should not be here covering me, you said you weren t going to cover me. You shouldn t be covering me, Trump told reporters alongside First Lady Melania Trump. But I will tell you: It is an honor to be at the United Nations and we re making a lot of progress. Our country is doing really, really well. Collins subsequently pointed out to her viewers via live shot that CNN was credentialed by the U.N. in this instance, not the Trump administration. We never said we were not going to cover the president, we will do our best to cover him each and every day. We were actually positioned in this spot last year when the president was here, long before all of this back and forth over access to The White House began as it did on Friday, she said. And we will continue to cover the president, despite their efforts to block CNN from accessing The White House grounds, as we are currently fighting in court. On Friday, Trump announced he was banning CNN, MS NOW and Politico from WH press pools due to their coverage of fake news. In turn, the trio of news outlets sued his administration on Monday for violating both the First and Fifth Amendments, in addition to filing a temporary restraining order. “This morning, we notified the gove
+Mahershala Ali agrees with Kevin Feige that he should feel like a failure for not getting Blade off the ground for the MCU. While speaking with GQ in an interview published Tuesday about his new film “Your Mother Your Mother Your Mother,” Ali got candid about his long-delayed MCU project never getting off the ground. After one push after another, Feige finally admitted the film was dead and that it was one of the biggest failures of his career. Ali was inclined to agree. They had, as you said, a two-time Oscar-winning actor under contract and you got billions of dollars, Ali said. That’s a question for them. I don’t mean anything personal to you, but I don’t know why it didn’t. To this day, I don’t know why it didn’t happen. I just know that it was – Kevin, he said it was the biggest failure of his career and I agree. You can watch Ali s interview below. Mahershala Ali has only done a handful of films in the past eight years—and according to him, there should have been more, including ‘Blade,’ which was announced in 2019 and pulled from Marvel’s release calendar five years later. In this week’s episode of One More Question,… pic.twitter.com/kiKffdLfi4 &mdash; GQ Magazine (@GQMagazine) September 22, 2026 He finished: I agree with him. I agree with him one hundred percent. One hundred percent. He should feel that way. I agree. Back when he was doing press for Spider-Man: Brand New Day, Feige told the Happy Sad Confused podcast that he felt like a failure for not getting the fil
 
-### Billy Bush Joins Fox News as Contributor
-Tue, 22 Sep 2026 14:25:28 +0000 — https://www.thewrap.com/media-platforms/journalism/billy-bush-fox-news-contributor/
+### Every Movie and TV Show Featured in the White House s Trump TV Ad
+Tue, 22 Sep 2026 19:01:37 +0000 — https://www.thewrap.com/culture-lifestyle/culture/trump-tv-launch-ad-video-movies-shows-list/
 
-Billy Bush is joining Fox News Media as a contributor, bringing the longtime TV personality to the cable news network. Bush will provide cultural analysis across Fox News Media’s programming and appear across its platforms, the network announced Tuesday. He will make his debut Tuesday night on Fox News Channel’s “Jesse Watters Primetime” at 8 p.m. ET. “I’m excited to join Fox News Media and its loyal audience to share my perspective on the people, ideas and moments shaping today’s culture…. as well as the ones trying to undo it!” Bush said in a statement. The move gives Fox a veteran in live entertainment with decades of experience covering Hollywood, celebrity and major events. The “Hot Mics With Billy Bush” host previously spent five seasons hosting the syndicated entertainment news program “Extra” from 2019 to 2025. Before that, Bush briefly served as a co-host of the third hour of NBC’s “Today.” He also previously worked as the East Coast correspondent for “Access Hollywood” and hosted the nationally syndicated radio program “The Billy Bush Show.” Bush’s television career was upended in 2016 after the publication of a previously unaired 2005 “Access Hollywood” recording featuring Donald Trump making lewd comments about women during a conversation with Bush. Bush subsequently left NBC. He returned to television in 2019 as host of “Extra.” Bush has also covered some of the entertainment industry’s biggest events, including the Golden Globes, Grammys and Academy Awards. He c
+On Monday night, The White House launched Trump TV , a 24/7 livestream of top past moments, announcements and the latest and greatest from the Trump administration, with an X video featuring clips from some of the most iconic movies and television shows of the last 30 years. Set to a remix of The Buggles Video Killed The Radio Star, the ad opens with a clip of Aaron Paul s Breaking Bad anti-hero Jesse Pinkman turning on his TV. What follows from there are clips of characters from other beloved shows and films either intently watching their television sets or demanding to watch their favorite series, all while the Trump TV logo plays over every scene. Here is the full list of shows and movies featured in the ad: Breaking Bad The Office Seinfeld Family Guy The Dark Knight SpongeBob SquarePants The Simpsons Modern Family Hannah Montana Home Alone 2: Lost in New York Parks and Recreation Drake & Josh Friends That 70s Show You can watch the Trump TV launch video yourself below. IT'S LIVE. TRUMP TV IS STREAMING NOW. 24/7, updated in real time, with top past moments, announcements, and the latest and greatest from the administration all in one place. Not every big moment has made it on your tv, now it can. https://t.co/3KwWkBZ69m pic.twitter.com/g4v7n2J04s &mdash; The White House (@WhiteHouse) September 21, 2026 Not every big moment has made it on your tv, now it can, the White House captioned its X post announcing the launch of Trump TV. The 24/7 livestream s kickoff, notably, come
 
-### Seth Meyers Plays 2-Minute Supercut of Bad News From Late Night Hiatus: I Have So Many Questions
-Tue, 22 Sep 2026 14:10:09 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-plays-montage-of-bad-news-from-hiatus/
+### Monster: The Lizzie Borden Story Debuts at No. 1 on Netflix With 12.1 Million Views, on Par With Previous Seasons
+Tue, 22 Sep 2026 19:00:33 +0000 — https://www.thewrap.com/media-platforms/tv/monster-the-lizzie-borden-story-netflix-ratings-viewership/
 
-Seth Meyers returned from an extra-long hiatus on Monday night and, as always, he made a speed run of all the headlines he missed while he was gone. But, to ensure he wasn t just being a hater, he also double checked his feelings against a supercut of real news reporters more specifically, a 2-minute-long supercut of all the headlines that were indeed bad while Meyers was out. To kick off his A Closer Look segment, Meyers did as he often does when returning from a long break, and joked that nothing happened while he was gone. Of course, lots did, so Meyers took a deep breath and sped through it as best he could. Once he finished, the NBC host opted to double check himself. We ve had our fun, but you know what? Maybe I m being too harsh, too cynical, he said. Maybe all that stuff just sounds bad when a crooked left-wing fake news Trump-hater like myself puts it all together in a big list and says it all out loud. I m sure I m just being biased. Things can t be that bad. So to make up for it, let s watch this very short montage of other people talking about how great everything is, Meyers continued. With that, a classic Late Night supercut began. It included headlines about how diesel prices are currently at an all-time high, how oil executives say the Great Fuel Crisis is here, how medicare premiums are expected to jump, how Iranian strikes damaged U.S. structures, how the trade war with Canada is escalating, leading to a possible price hike on toilet paper, and a whole lot mo
+Monster: The Lizzie Borden Story debuted atop Netflix s TV list as it scored viewership on par with the previous installments of the crime anthology series. The Lizzie Borden Story logged 12.1 million views from its Sept. 17 debut through Sept. 20, landing as the most-watched title globally on Netflix across both series and films for the week of Sept. 14. That viewership is right on par with the past two installments of the Ryan Murphy and Ian Brennan-created anthology series, with The Ed Gein Story debuting to 12.2 million views in October 2025 and The Lyle and Erik Menendez Story debuting to 12.3 million views in September 2024. There isn t an exact apples-to-apples comparison to the first installment, Dahmer – Monster: The Jeffrey Dahmer Story, as Netflix changed its viewing measurement method since the 2022 release, but the season sits as the No. 7 most-watched TV show of all time on Netflix. While Monster: The Lizzie Borden Story dominated the TV list, just behind the thriller series was YA drama series Crew Girl, which scored a Season 2 renewal from Netflix as it more than doubled its initial viewership. Crew Girl debuted to 5.2 million views a week prior, but its viewership skyrocketed to 11.3 million views in its second week, and reached the top 10 in over 90 countries. Next up on the TV list was The Gentlemen Season 2, which scored 6 million views in its third week and pulled Season 1 up to the No. 5 spot this week. After “Fauda” Season 5 reached its highest ranking 
 
-### Resident Evil Took a Different Approach to Video Game Films, and It Paid Off Analysis
-Tue, 22 Sep 2026 13:15:00 +0000 — https://www.thewrap.com/industry-news/box-office/resident-evil-box-office-success-explained-zach-cregger/
+### Why Rob Bonta Caved on the Paramount Settlement Analysis
+Tue, 22 Sep 2026 18:53:51 +0000 — https://www.thewrap.com/industry-news/business/why-rob-bonta-caved-on-paramount-deal/
 
-The reputation of video game film adaptations among gamers has vastly improved since the original Resident Evil first hit theaters back in 2002. Gamers have long seen Hollywood s critically panned takes on their favorite titles as clueless attempts to cash in on their fandom without truly trying to understand it — just look at the reaction to the infamous first Sonic the Hedgehog trailer seven years ago. This weekend s $108.3 million global opening of Sony s Resident Evil is the latest evidence that distrust has largely dissolved thanks to filmmakers like Zach Cregger, who have a better understanding of the games they are adapting. The $60 million domestic opening sets both a franchise record for Resident Evil and a career record for Cregger and ranks as the seventh-highest opening recorded in September, slotting between the $53.8 million opening of The Nun in 2018 and the $70.6 million opening of last year s Sony/Crunchyroll hit Demon Slayer: Infinity Castle. But even with increased gamer goodwill, Hollywood is still figuring out what works and what doesn t with video game films at the box office, and Cregger s looser approach to the world of Capcom s horror games compared to Paul W.S. Anderson s Resident Evil series and the failed 2021 reboot Welcome to Raccoon City was still a risk. Unlike those films, no attempt is made in this new film to bring in characters from the games like Claire Redfield or Albert Wesker. Raccoon City and the evil Umbrella Corporation are reference
+A consensus is emerging that in the settlement of the lawsuit by 12 attorneys general against Paramount Skydance, California Attorney General Rob Bonta caved. That Paramount got what it wanted – a green light to proceed with its $110 billion acquisition of Warner Bros. Discovery, without many restrictions. The consensus isn’t wrong in the sense that Paramount didn’t have to provide any structural changes to the deal to get to a settlement. The consent decree requiring the production of 30 films a year — including both blockbusters and independents — $1.5 billion over five years invested in U.S. production and continuing to operate the cable companies separately were all things Paramount CEO David Ellison would have agreed to months ago. He pretty much said so in his New York Times op-ed piece in August. As for the news “oversight board” meant to ensure editorial independence for CNN and CBS News, I doubt that will be something we hear from very much. A bunch of former journalists are going to stop the 24/7 news juggernaut that is CNN from functioning? Right. From what I’m told on the Paramount side, the intention is to allow CNN to continue functioning as it does. (Though in a world where Trump bans the network from the White House, that may make for some interesting conversations in the board room.) Bonta had been saying for weeks that he was not seeking a remedy. He said he was seeking to actually stop the merger. But that, transparently, became impossible once Paramount th
 
-### ‘KPop Demon Hunters’ Immersive Experience Coming to Netflix House Locations Later This Year
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/kpop-demon-hunters-experience-netflix-house/
+### Cinema United Says Paramount Settlement Is Good for Theaters
+Tue, 22 Sep 2026 18:29:07 +0000 — https://www.thewrap.com/creative-content/movies/cinema-united-paramount-settlement-statement/
 
-Ready to step into the world of “KPop Demon Hunters?” Soon enough, you’ll get your chance. “KPop Demon Hunters:” The Immersive Experience is coming to both the Dallas and Philadelphia Netflix House locations this November. The experience, based on the most popular Netflix film of all time, “will give fans of all ages the opportunity to step into the story of HUNTR/X, complete with singing, dancing and hunting demons.” Ticket sales begin today for Mastercard credit cardholders, September 29 for Netflix members and October 1 for the general public. It will open at Netflix House Dallas on November 12 and at Netflix House Philadelphia on November 20. Just in time for some demon-hunting holiday fun. Fans don t just want to watch ‘KPop Demon Hunters,’ they want to live in the world of HUNTR/X,” said Marian Lee, Netflix s Chief Marketing Officer, in an official statement. “Netflix House is where fandoms like this get to live year-round, so it s the perfect home for everything ‘KPop Demon Hunters’ fans have been asking for. Singing the songs they already know by heart, facing off with demons, hanging out with Derpy Tiger – every detail is built so fans of all ages can feel, hear and see this world exactly the way they imagined it. “Exclusive photo opportunities and all-new merchandise, along with themed food and drink items” inspired by “KPop Demon Hunters,” will also be available at both Netflix House locations timed to the “KPop Demon Hunters:” The Immersive Experience, the announc
+Cinema United, the lobbying group representing theater owners across the country, gave its seal of approval to the settlement reached between Paramount and 12 states attorneys general on Monday that paves the way for the company to buy Warner Bros. Discovery. “For nearly a year, and throughout multiple efforts to acquire the iconic Warner Bros. Studios, Cinema United has remained steadfast in its primary objective to safeguard theatres of all sizes across this great nation and around the world from the harms of legacy studio consolidation, Cinema United CEO and President Michael O Leary said in a statement. The agreement announced yesterday accomplishes many of exhibition’s objectives. The consent decree includes language on increased film production for five years, meaningful theatrical exclusivity and wide distribution, prohibitions on cost increases, and continued access to the catalogs of Paramount and Warner Bros. While no settlement can eliminate all risk from a merger of this size, these conditions will enable our industry to adapt and succeed in a rapidly changing media environment. O Leary said both the lawsuit and the consent decree strongly validates that movie theatres are the beating heart of Main Street America and the entire U.S. film industry. Our focus now shifts back to our bright future, he concluded. For well over 100 years, global exhibition has worked closely with both Paramount and Warner Bros. to deliver amazing big screen experiences to fans around th
 
-### ‘Heart of the Beast’ Review: Brad Pitt and His Dog Pull at Your Heartstrings in Rough Terrain
-Tue, 22 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/heart-of-the-beast-review-brad-pitt-david-ayer/
+### 5 Movies About Female Serial Killers to Watch After Monster: The Lizzie Borden Story
+Tue, 22 Sep 2026 18:18:19 +0000 — https://www.thewrap.com/creative-content/what-to-watch/female-serial-killer-movies-to-watch-after-monster-lizzie-borden/
 
-Relax. I mean it. You can relax. David Ayer’s “Heart of the Beast,” about a man and a dog surviving a plane crash and trudging sixty miles through the Alaskan wilderness, begins with the dog, Odin, finding his way back to civilization. The rest of the movie is a flashback. There’s danger in Ayer’s survival drama, and we won t know until the end if Odin s owner survives, but the filmmakers want you to know, right away, this dog lives. For some of us, that s all we wanted to know in the first place. “Heart of the Beast,” like “The Grey” and “The Edge” before it, treats Alaska like an obstacle course for old men. “The Grey” was about Liam Neeson fighting wolves, “The Edge” was about Anthony Hopkins fighting a bear, and “Heart of the Beast” is about Brad Pitt fighting wolves and a bear. Well, kind of. The dog does most of the work when the bear shows up and the wolves are subpar visual effects, but we get the gist of what David Ayer is going for. Pitt plays James Belmont, an Army Special Forces veteran living a quiet life with his retired combat dog, who s played by a very good boy named Uber. James and Odin both have traumatic nightmares and console each other when they wake. Odin has a prosthetic leg and metal teeth after going through hell on the battlefield. These two love each other in a pure, primal way, and when they have free time they fly a small plane into the Alaskan wilderness to go camping and play fetch. After a brief interaction with a rugged retiree played by J.K.
+The latest season of Monster landed on Netflix, and the completion of the binge-watch means a groundswell of interest in other serial killer stories. The fourth season of the anthology series followed Lizzie Borden and the axe murders of her parents. The show paints a weaving connection between Borden and other female killers, past and present, and what pushes them to the act. So if you re looking for more movies about female serial killers, there are plenty, and many of them are great, bordering on classics. From Monster to Basic Instinct, these are the serial killer movies to check out after The Lizzie Borden Story. Newmarket Films Monster If your favorite part of the Netflix series was Sarah Paulson as Aileen Wuornos , your first stop should be this early-2000s film that netted Charlize Theron an Oscar. Theron famously transformed into the almost unrecognizable Wuornos. The actress fell so deeply into the role that Roger Ebert famously did not even know it was her. If you want something that hews as close as possible to the series, with a focus much more on the topic itself, then this harrowing flick will be the pick for you. Lizzie (Credit: Roadside Attractions) Lizzie Another take on the Lizzie Borden case, this 2018 movie starred Chloë Sevigny as the titular character and Kristen Stewart as the maid Bridget Sullivan. If what you were looking for was a slower build to the murders and an expansion on the early connection between Lizzie and the maid who may have become her
 
-### Jimmy Kimmel Roasts Trump and Mamdani’s Friendly Dynamic as the ‘Weirdest Buddy Road Trip Movie’
-Tue, 22 Sep 2026 05:16:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-trump-mamdani-friendly-press-conference/
+### Disney Expands Roles for Cathleen Taff and Lisa Baldzicki in Consumer Products Shakeup
+Tue, 22 Sep 2026 18:15:00 +0000 — https://www.thewrap.com/industry-news/business/disney-consumer-products-moves-promotes-cathleen-taff-lisa-baldzicki/
 
-Jimmy Kimmel mocked President Donald Trump and New York City Mayor Zohran Mamdani s friendly dynamic, roasting it as the weirdest buddy road trip movie of all time. During Monday s monologue for Jimmy Kimmel Live!, the late night host weighed in on the joint press conference held by the president and the mayor amid their meeting in Queens, in which they discussed affordable housing, infrastructure, public safety and immigration. This afternoon, Trump met for the third time with New York Mayor Mamdani. It was another friendly meeting between the socialist who wants to give everyone $5,000 and the mayor of New York, Kimmel quipped. I have to say, he definitely has a thing for Mamdani. I mean, he may be Islamophobic. At least he s not Islamohomophobic . He is absolutely taken with the mayor. And, as the appearance fell amid Trump s controversial White House ban of Politico, CNN and MS NOW , Kimmel made sure to call out the president s statement defending his decision. Namely, Jimmy Kimmel Live! editors played footage of Trump at the press conference bemoaning the fact he gets only negative media coverage. Yeah. Why aren t these so-called journalists gushing over how well he s mishandling the war he said was over seven months ago? It s just not right, Kimmel sarcastically quipped. Some people are Negative Nellies. That s all. As Kimmel went on, he praised Mamdani for inviting all of the press to the event, highlighting the stark differences between the two leaders. And I have to 
+Disney is restructuring its Consumer Products team, shifting the division under its Entertainment umbrella and expanding roles for execs Cathleen Taff and Lisa Baldzicki in the shakeup. Effective Oct. 4, the global licensing and publishing businesses will be housed under Disney Entertainment Studios. The Disney Parks merchandise team will remain part of Disney Experiences. As part of the restructuring, Taff was named president of Disney Entertainment – Studios and Consumer Products, reporting to Disney Entertainment – Studios Chairman Alan Bergman. Taff is a 32-year Disney veteran, who has held a range of senior executive roles within studios, most recently as president of production services, franchise management and theatrical distribution. The restructuring comes a week after CEO Josh D’Amaro has said he wants his company to embrace a more tech-forward approach , creating expanded roles in tech and AI. In her new role, Taff will lead the incoming Disney Consumer Products businesses and continue to oversee her production services team. The studios she will oversee include Disney, Walt Disney Animation Studios, Pixar Animation Studios, Marvel Studios, Lucasfilm, 20th Century Studios, and Searchlight Pictures. She will also continue to lead Disney Theatrical Group and Disney Music Group. “Cathleen has been an invaluable partner and leader within our team, bringing the same creativity, rigor, and collaborative spirit to everything she does,” Bergman said in a statement. “As we
 
 ## Collider
 
-### The First Action Figure From 'Transformers: Awakening' Is Officially Ready to Roll Out [Exclusive]
-Tue, 22 Sep 2026 15:00:11 GMT — https://collider.com/transformers-awakening-bumblebee-action-figure-images/
+### 8 Classic Movies Nobody Wants a Remake Of
+Tue, 22 Sep 2026 19:44:11 GMT — https://collider.com/classic-movies-nobody-wants-remade/
 
-Transformers fans who attended last weekend's 40th anniversary screenings of Transformers: The Movie were treated to a special surprise: an all-new animated short, Optimus Prime: Awakening , in which the dying Autobot hero is confronted with dark visions of friends and foes. Now, one of its most striking characters is coming to your home: Collider is proud to exclusively reveal the new Studio Series Optimus Prime: Awakening Bumblebee action figure.
+It's no secret that Hollywood loves a remake. If a movie made money, built a fanbase, or left even the slightest cultural footprint, chances are someone, somewhere has pitched a "modern reimagining" of it. Sometimes those remakes work surprisingly well. Other times, they leave audiences wondering why the original needed to be touched in the first place. And then there are movies that feel so perfectly complete that the idea of remaking them feels almost fundamentally wrong.
 
-### Hulu’s 'M3GAN' Replacement Officially Gets Twisted Sneak Peek [Exclusive]
-Tue, 22 Sep 2026 15:00:11 GMT — https://collider.com/soulm8te-sneak-peek-hulu-streaming-release-date/
+### The 10 Most Epic Battle Scenes in Movie History, Ranked
+Tue, 22 Sep 2026 19:41:11 GMT — https://collider.com/most-epic-battle-scenes-movie-history-ranked/
 
-Back in 2022, one of the most popular horror movies of the year was M3GAN , the AI cyber thriller starring Allison Williams as Gemma, Violet McGraw as Cady, and Ami Donald as the titular android. The film was a massive hit, grossing over $180 million at the box office against a modest $12 million budget, which was enough to make it one of the most profitable films of the entire year. Just three years later, Blumhouse tried to recapture the M3GAN magic by bringing back the android for M3GAN 2.0 , but things didn’t exactly go according to plan, even if it wasn’t a total disaster. The film grossed $39 million at the box office against a $25 million budget, but it did go on to become one of the most-watched movies on Netflix upon its premiere.
+War movies frequently have battle scenes, as do fantasy and sci-fi movies that depict some kind of massive fantastical and/or futuristic conflict. If a film happens to belong to the epic genre as well, or goes above and beyond in showcasing spectacle with a single battle it might happen to depict, then what you’ve unsurprisingly got on your hands (in all likelihood) is an epic battle scene.
 
-### ‘Halo’ Officially Hits the End of an Era at XBOX
-Tue, 22 Sep 2026 14:37:29 GMT — https://collider.com/halo-next-game-activision-xbox-halo-studios/
+### NBC's 4-Part Forgotten Western Series Went Where 'Bonanza' Never Could
+Tue, 22 Sep 2026 19:22:11 GMT — https://collider.com/nbc-western-tv-show-high-chaparral-bonanza/
 
-2026 has been a roller-coaster of a year for video game fans, especially as the console wars continue to heat up following the news that PlayStation is ditching physical media at the start of 2028. This news has led many fans around the world to proclaim that they are switching to XBOX , especially when the new generation of consoles comes out sometime in the next few years. PlayStation owners were recently treated to a new Marvel game courtesy of Insomniac, the first one in the franchise not centered around Spider-Man . Wolverine is currently the top-selling game on PlayStation right now, and despite some middling reviews from critics, most fans agree that the game is providing exactly what they wanted: a good time with some violent Wolverine-focused claw combat.
+Everybody who knows anything about the Western genre knows Bonanza . Whether you remember that famous theme tune or recall Lorne Greene , Dan Blocker , and Michael Landon leading cattle to and fro, the impressive 14-season series was the second most popular Old West series, just behind Gunsmoke . But Bonanza 's success didn't stop creator David Dortort from moving on, and in 1967, he developed The High Chaparral for NBC. For four seasons and nearly 100 episodes, Dortort's newest Western aired on the network, and though it eventually fell prey to the infamous rural purge , it's notable for doing a few things that Bonanza just never could . If you've never heard of this one before, it may be worth giving a shot now.
 
-### Netflix Officially Reveals New 'KPop Demon Hunters' Adventure
-Tue, 22 Sep 2026 13:00:11 GMT — https://collider.com/kpop-demon-hunters-netflix-house-november-2026/
+### 7 Movies To Watch Before 'Avengers Endgame: Encore'
+Tue, 22 Sep 2026 19:19:12 GMT — https://collider.com/mcu-movies-to-watch-before-avengers-endgame-encore/
 
-It's not an easy job saving the world through the power of K-pop. And sadly, it's not a one and done for the people involved. We say sadly, just because they might need a rest. Not us, though. We want more KPop Demon Hunters , the Honmoon isn’t going to protect itself, and somebody needs to make sure Derpy Tiger is doing okay. Netflix has announced the newest Kpop Demon Hunters project at last, and HUNTR/X aren’t going into battle alone.
+Before Avengers: Doomsday finally comes out this December, Marvel Studios has decided to do yet another re-release of Avengers: Endgame titled Avengers Endgame: Encore . With three minutes of Avengers: Doomsday content —only for IMAX and Infinity Vision viewers, for some weird reason, and only a small sneak peek for non-premium viewers—people are definitely popping out to see this project before the next big event film.
 
-### ‘Only Murders in the Building’ Meets 'West Wing’ in Netflix's 8-Episode Mystery Miniseries
-Tue, 22 Sep 2026 12:36:12 GMT — https://collider.com/only-murders-in-the-building-replacement-series-netflix-the-residence/
+### Sunny Dancer: One Rule Erased the Star Hierarchy on Set | Collider BTS
+Tue, 22 Sep 2026 19:15:11 GMT — https://collider.com/video/sunny-dancer-one-rule-erased-the-star-hierarchy-on-set-collider-bts/
 
-Comedic murder mystery series seem like an odd concept at first, but the niche genre is gaining ground. From Only Murders in the Building to The Afterparty , each series has its own twist, including the often-forgotten Netflix series, The Residence . The 2025 series combines Only Murders in the Building 's quirky characters and humorous mystery with The West Wing 's focus on daily life in the White House. But instead of exploring the President's senior staff, The Residence offers an upstairs-downstairs twist with a behind-the-scenes look at the White House from the kitchens to the basement .
+Neil Patrick Harris and director George Jaques break down one of Sunny Dancer’s trickiest emotional scenes, including the running joke that led Harris to ask Jaques to stop calling it the “Oscar scene.”
 
-### 10 Video Games From the '90s That Are Now Considered Classics
-Tue, 22 Sep 2026 12:27:11 GMT — https://collider.com/video-games-90s-classics/
+### HBO’s 73-Episode Fantasy Epic Set a Record It Could Never Break
+Tue, 22 Sep 2026 19:14:11 GMT — https://collider.com/hbo-game-of-thrones-record-breaking-emmy-run/
 
-The 1990s are widely considered the most transformative decade for video games in history, and for good reason. The shift from 2D to 3D, the arrival of optical discs, the birth of all-new genres, the arrival of far more complex stories ... The list of reasons why the '90s saw video gaming completely transform into a proper art form are pretty much endless. And as such, it should come as no surprise that several games from this decade are now considered classics.
+For a glorious moment, narrative television was at its peak. Shows like Mad Men and Breaking Bad seemed to define the golden age at the time, but everything changed in 2011 when Game of Thrones premiered on HBO. It wasn’t just a standard that all other shows would try to replicate. It was the first time that fantasy television went mainstream, and it did so because of the character-driven storytelling that was a hallmark of George R.R. Martin ’s book series.
 
-### The 15 Best Netflix Original Animated Movies, Ranked According to Letterboxd
-Tue, 22 Sep 2026 12:14:11 GMT — https://collider.com/best-netflix-original-animated-movies-letterboxd-ranked/
+### Daredevil Fans Officially Campaign to Save ‘Born Again’
+Tue, 22 Sep 2026 19:10:34 GMT — https://collider.com/save-daredevil-born-again-fan-campaign/
 
-It has become increasingly apparent that the modern era of filmmaking has been defined by the rise and dominance of streaming services and the original content that they provide. Netflix has especially been at the forefront of this endeavor, producing many original films from a variety of genres compared to other services. Netflix has especially excelled in animation, a medium that is largely overlooked by other platforms like Amazon and Max.
+Daredevil fans have already proven that canceling Matt Murdock’s series does not necessarily mean they are finished fighting for it, and as is often the case, history is keen on repeating itself. Eight years after Netflix pulled the plug on the original series, Marvel Studios has now decided that Daredevil: Born Again will conclude with its upcoming third season . Somehow, the Devil of Hell’s Kitchen has found himself in an extremely familiar situation.
 
-### Mahershala Ali Is Finally Getting the Action Movie He Deserves
-Tue, 22 Sep 2026 12:10:11 GMT — https://collider.com/mahershala-ali-your-mother-your-mother-your-mother-giancarlo-esposito-john-cho/
+### Disney+ Officially Revives a Beloved '90s Animated Series With Mark Hamill
+Tue, 22 Sep 2026 18:00:11 GMT — https://collider.com/darkwing-duck-disney-plus-mark-hamill-seth-rogen-cast/
 
-Oscar winner Mahershala Ali ( Green Book ) returns to the big screen in writer-director Bassam Tariq ’s ( Mogul Mowgli ) Your Mother Your Mother Your Mother . At this year’s Toronto International Film Festival , where the movie world-premiered, Collider’s Steve Weintraub had the chance to sit down with Ali, Tariq, and the cast to discuss the making of their near-perfect action-packed crime drama .
+Although he first gained fame for his on-screen role as Luke Skywalker in the original Star Wars trilogy, Mark Hamill is one of the most prominent and prolific voice actors in animation. He famously portrayed the Joker on Batman: The Animated Series in 1992, and has gone back to reprise the character numerous times. He's since starred in a number of animated series, often in villainous or supernatural roles, including the Hobgoblin on Spider-Man , Fire Lord Ozai on Avatar: The Last Airbender , Skips on Regular Show , and the Hanukkah Zombie on Futurama . Recently, he played the villainous Flying Dutchman in The SpongeBob Movie: Search for SquarePants . Now, he's set to return as one of the most beloved '90s animated characters ever.
 
-### Alexander Skarsgård’s Dark Fantasy Epic Officially Gets a Second Chance on Paramount+
-Tue, 22 Sep 2026 12:00:11 GMT — https://collider.com/the-northman-alexander-skarsgrad-anya-taylor-joy-dark-fantasy-epic-paramount-plus-streaming-success/
+### Robert Pattinson Officially Confirms a Major Change for 'The Batman Part II' [Exclusive]
+Tue, 22 Sep 2026 17:54:05 GMT — https://collider.com/the-batman-part-2-script-update-robert-pattinson/
 
-A few days ago, it was confirmed that the long-gestating World War Z sequel is finally moving ahead with Brad Pitt back in the lead role and Edward Berger set to direct . Previously, David Fincher was attached to helm the project, a sequel to Pitt's 2013 hit, which survived a particularly difficult production. The original World War Z , directed by Marc Forster , emerged as a sturdy hit with $540 million worldwide against a budget that reportedly escalated to around $270 million — the movie was successful at the box office, but given that budget, it barely broke even. However, World War Z has been incredibly successful in its post-release era, which no doubt contributed to a sequel being greenlit. Now, another film that did so-so business at the box office but found major success on home video has re-emerged on the streaming charts.
+Everyone involved with The Batman Part II seems determined to make the wait for Matt Reeves ’ sequel even more difficult. The script has been called terrifying and a “contemporary genre masterpiece,” but still, everyone involved in the movie has collectively revealed very little ; they certainly know how to make it sound like Reeves is attempting something massive. Robert Pattinson is not about to become the cast member who accidentally gives the entire game away. However, when Collider’s Steve Weintraub asked about Sebastian Stan ’s mysterious comments at the Toronto International Film Festival during an interview for Primetime , Pattinson offered a nice tease of how radically Reeves plans to change his version of Gotham without abandoning what made The Batman work.
 
-### 5 Sci-Fi Books I Knew Would Be Masterpieces From the First Chapter
-Tue, 22 Sep 2026 11:52:11 GMT — https://collider.com/sci-fi-books-masterpieces-from-first-chapter/
+### 10 Video Games You Can Play for 100 Hours
+Tue, 22 Sep 2026 17:52:11 GMT — https://collider.com/video-games-you-can-play-for-100-hours/
 
-It takes real talent to pull readers in from the first chapter , especially in sci-fi. Writers can create larger-than-life universes, alternate realities, or the most implausible situations, but it also takes heart and skill to convince readers why those scenarios are worth their time.
+Video games are a great way to spend time, mainly because they have various lengths, meaning gamers can play as much or as little as they want, including short titles like What Remains of Edith Finch and Batman: Arkham Asylum . On the other hand, sometimes players want a game they can play forever if they want, and there are plenty of great games to spend hours on.
 

@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-22T15:10:18.780Z
+# Source feeds — harvested 2026-09-22T19:53:09.181Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -24,10 +24,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 30 articles have gone out since the last one.
+**Write Manga and anime next.** 31 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 30 articles since the last one; quota is one in 6. 4 in the archive of 173.
-- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 173.
+- **Manga and anime** — BROKEN. 31 articles since the last one; quota is one in 6. 4 in the archive of 174.
+- **Film & TV** — on track. 6 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 174.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -38,11 +38,11 @@ silently skipping it.
 
 - [Manga](manga.md) **owed** — 24 items
 - [Games](games.md) — 102 items
-- [Tech](tech.md) — 81 items
-- [3D](3d.md) — 13 items
-- [AI](ai.md) — 9 items
+- [Tech](tech.md) — 82 items
+- [3D](3d.md) — 14 items
+- [AI](ai.md) — 12 items
 - [Film & TV](film-tv.md) — 66 items
 
-Total: 295 items.
+Total: 300 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
