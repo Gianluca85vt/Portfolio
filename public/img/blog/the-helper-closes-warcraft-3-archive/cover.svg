@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="The Helper closes after 27 years — 100,000 Warcraft 3 threads leave search">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#241A4A"/>
+      <stop offset="100%" stop-color="#2E6BA8"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5FA8FF"/>
+      <stop offset="100%" stop-color="#A6D8FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="90" y="150" fill="#A6D8FF" font-size="34" letter-spacing="6">THE HELPER · 1999–2026</text>
+
+    <text x="90" y="310" fill="url(#accent)" font-size="150" font-weight="700">100,000</text>
+    <text x="90" y="392" fill="#FFFFFF" font-size="58" font-weight="600">Warcraft 3 threads</text>
+    <text x="90" y="458" fill="#FFFFFF" font-size="58" font-weight="600">leave search</text>
+
+    <rect x="90" y="510" width="220" height="5" fill="url(#accent)"/>
+
+    <text x="90" y="590" fill="#CFE4FF" font-size="38">Nothing deleted. Nothing indexed.</text>
+    <text x="90" y="648" fill="#8FB6DE" font-size="32">~859,700 comments, 27 years, no shutdown date</text>
+  </g>
+</svg>
