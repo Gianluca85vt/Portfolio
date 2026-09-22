@@ -1,5 +1,5 @@
 ---
-title: "EA Sports FC 27 review: 7.5, split on The Grounds"
+title: "EA Sports FC 27"
 date: 2026-09-22
 category: Games
 cover: /img/blog/ea-sports-fc-27-review/shot-01.jpg
