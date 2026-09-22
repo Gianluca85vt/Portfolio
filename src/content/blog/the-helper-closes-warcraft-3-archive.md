@@ -3,7 +3,7 @@ title: "The Helper closes: Warcraft 3 archive delisted"
 date: 2026-09-22
 category: 3D
 excerpt: 100,000 threads and roughly 859,700 comments stay online but drop out of Google. For modders the loss is the documentation, not the files.
-cover: /img/blog/the-helper-closes-warcraft-3-archive/cover.svg
+cover: /img/blog/the-helper-closes-warcraft-3-archive/shot-01.jpg
 draft: true
 ---
 
