@@ -19,7 +19,6 @@ scoreSources:
     score: 9
   - outlet: Press Start
     score: 7.5
-draft: true
 ---
 
 This was supposed to be Konami's week, or Remedy's. Silent Hill: Townfall and
