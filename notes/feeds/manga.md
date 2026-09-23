@@ -1,6 +1,56 @@
-# Manga — harvested 2026-09-22T19:53:09.181Z
+# Manga — harvested 2026-09-23T09:32:21.621Z
 
 ## Anime News Network
+
+### The Best Anime of Summer 2026
+Wed, 23 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/summer/.242007
+
+These anime series weren't just the best of the season, a few are contenders for the best of the year.
+
+### BanG Dream! Our Notes Game Teases Lady Gaga Cover
+Tue, 22 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-22/bang-dream-our-notes-game-teases-lady-gaga-cover/.242080
+
+<i>BanG Dream!'s</i> Ave Mujica to perform Lady Gaga's 2025 single “Abracadabra”
+
+### Kura Sushi USA Rolls Out The Apothecary Diaries Collaboration
+Tue, 22 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-22/kura-sushi-usa-rolls-out-the-apothecary-diaries-collaboration/.242084
+
+Don't worry. It's not poison.
+
+### L.A.'s Animation is Film Fest Screens Cherry and Virgin, ghost – end of night
+Tue, 22 Sep 2026 21:41:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/l.a.s-animation-is-film-fest-screens-cherry-and-virgin-ghost-end-of-night/.242093
+
+October 16-19 festival also screens <cite>Vampire Hunter D: Bloodlust</cite>
+
+### Cyberpunk Edgerunners 2 Anime's New Video Teases Escape from Arasaka
+Tue, 22 Sep 2026 21:18:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/cyberpunk-edgerunners-2-anime-new-video-teases-escape-from-arasaka/.242094
+
+Anime debuts on Netflix on October 20
+
+### Persona 4 Revival Game Reveals English Cast for Supporting Characters
+Tue, 22 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/persona-4-revival-game-reveals-english-cast-for-supporting-characters/.242091
+
+Judy Alice Lee, Courtney Shaw, Ray Chase, Johnny Yong Bosch join cast of February 18 game
+
+### Manga Plus Adds KAKAKAKA, The Ura Files, Noisering, 1 More Title
+Tue, 22 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/manga-plus-adds-kakakaka-the-ura-files-noisering-1-more-title/.242092
+
+Also: <cite>Morino-san Just Won't Leave Me Be</cite>
+
+### Yu Hibari's Watashi de Dōtei Suteta Kuse ni Novels Get Manga
+Tue, 22 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/yu-hibari-watashi-de-dotei-suteta-kuse-ni-novels-get-manga/.242083
+
+Shūsei Kirisaki draws manga launching on September 29
+
+### Emma and the Eyes that Bid Farewell's Higure Sakino Launches New Manga
+Tue, 22 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/emma-and-the-eyes-that-bid-farewell-higure-sakino-launches-new-manga/.242081
+
+Manga of Akane Yuzuki's <cite>Elina Sky wa Mō Machigaenai</cite> novel launches on September 28
+
+### Chiruran: Shinsengumi Requiem, Rappa: Yankee Ninpū Chō Manga Artist Eiji Hashimoto Confirms Full Hearing Loss in Right Ear
+Tue, 22 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/chiruran-shinsengumi-requiem-rappa-yankee-ninpu-cho-manga-artist-eiji-hashimoto-confirms-full-/.242079
+
+Hashimoto temporarily lost hearing in right ear after being diagnosed with sudden hearing loss in April
 
 ### Magilumiere Co. Ltd. Creator Yū Aoki, Ya Boy Kongming! Creator Yuto Yotsuba Launch New Manga
 Tue, 22 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/magilumiere-co-ltd-creator-yu-aoki-ya-boy-kongming-creator-yuto-yotsuba-launch-new-manga/.242066
@@ -12,61 +62,26 @@ Tue, 22 Sep 2026 14:26:03 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Kakao Entertainment plans to notify publishers and rights holders about the Tapas shutdown on Tuesday
 
-### This Week in Anime - The Prophetic Visions of Cyberpunk Anime
-Tue, 22 Sep 2026 13:51:34 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-22/.242036
-
-Sylvia and Lucas ask the big questions, like "Is the entire cyberpunk genre prophetic?"
-
-### Though I Am an Inept Villainess ‒ Episode 11
-Tue, 22 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/though-i-am-an-inept-villainess/episode-11/.242089
-
-This world needs both butterflies and rats.
-
-### Singer, Composer Duncan Sheik Dies
-Tue, 22 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/singer-composer-duncan-sheik-dies/.242085
-
-Sheik wrote music/lyrics for upcoming American stage musical of <cite>Memoirs of Amorous Gentlemen</cite> manga
-
-### A Livid Lady's Guide to Getting Even Volumes 1-7 Light Novel Review
-Tue, 22 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/a-livid-lady-guide-to-getting-even/volumes-1-7/.241862
-
-Ellie is perhaps the most morally gray villainess I’ve seen in an otome story. She’s a villainess with a body count: 103. And that’s only counting CHILDREN she’s killed.
-
-### Super Psychic Policeman Chojo Anime's 2nd Promo Video Reveals Theme Songs
-Tue, 22 Sep 2026 11:55:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/super-psychic-policeman-chojo-anime-2nd-promo-video-reveals-theme-songs/.242088
-
-M!LK, Shifuku Poncho perform theme songs for October 6 anime
-
-### Goodbye, Lara ‒ Episode 12
-Tue, 22 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/goodbye-lara/episode-12/.242087
-
-Through the constant retelling and reimagining of his tales, Andersen lives on. If that isn't true love, I don't know what is.
-
-### Tokyopop's Public Stock Shares Offer Ends on September 24
-Tue, 22 Sep 2026 11:01:20 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/tokyopop-public-stock-shares-offer-ends-on-september-24/.242086
-
-Publisher revealed plans for public stock shares originated 20 years ago
-
-### Silent Witch Author Matsuri Isora Announces New Fantasy Novel
-Tue, 22 Sep 2026 09:31:30 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/silent-witch-author-matsuri-isora-announces-new-fantasy-novel/.242065
-
-1st <cite>Bōkyaku no Curse Knight</cite> "knight fantasy" volume ships on November 13
-
-### Iron Wok Jan! ‒ Episode 12
-Tue, 22 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/iron-wok-jan/episode-12/.242072
-
-This bright and cheery final note felt way too saccharine and by-the-numbers from a series which has spent three months zigging whenever I thought it would zag.
-
-### Nia Liston: The Merciless Maiden Anime Announces Ending Song Artists
-Tue, 22 Sep 2026 05:25:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/nia-liston-the-merciless-maiden-anime-announces-ending-song-artists/.242082
-
-Honoka Inoue, Rina Honnizumi, Rina Hidaka sing "Tokimeki Un・Deux・Trois♪" ending as their characters
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Beginning After the End Author TurtleMe Addresses Tapas Shutdown, Says Future of Series Is Unclear
+Wed, 23 Sep 2026 09:19:42 GMT — https://animecorner.me/the-beginning-after-the-end-author-turtleme-addresses-tapas-shutdown-says-future-of-series-is-unclear/
+
+The Beginning After the End (TBATE) creator TurtleMe addressed the Tapas shutdown of Tapas, saying the future of his series is unclear.
+
+### The Exiled Heavy Knight Knows How to Game the System Episode 13 Preview Revealed
+Wed, 23 Sep 2026 07:32:02 GMT — https://animecorner.me/the-exiled-heavy-knight-knows-how-to-game-the-system-episode-13-preview-revealed/
+
+The Exiled Heavy Knight Knows How to Game the System has revealed the preview for Episode 13 ahead of its September 24 premiere.
+
+### Katekyo Hitman Reborn! Anime Reveals Thirteenth Ending Featuring "Yume no Manual" by CHERRYBLOSSOM
+Tue, 22 Sep 2026 22:39:38 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-thirteenth-ending-featuring-yume-no-manual-by-cherryblossom/
+
+Katekyo Hitman REBORN! anime released the creditless version of its thirteenth ending, featuring "Yume no Manual" by CHERRYBLOSSOM.
 
 ### Kakao Entertainment to Shut Down Tapas and Kakao Webtoon, to Consolidate Content on KakaoPage
 Tue, 22 Sep 2026 16:20:42 GMT — https://animecorner.me/kakao-entertainment-to-shut-down-tapas-and-kakao-webtoon-to-consolidate-content-on-kakaopage/
@@ -103,22 +118,17 @@ Mon, 21 Sep 2026 11:20:27 GMT — https://animecorner.me/katekyo-hitman-reborn-a
 
 Katekyo Hitman REBORN! anime released the creditless version of its seventh opening, featuring the song "Funny Sunny Day" by SxOxU.
 
-### Bride of the Barrier Master New Trailer Unveils More Cast
-Mon, 21 Sep 2026 03:48:48 GMT — https://animecorner.me/bride-of-the-barrier-master-new-trailer-unveils-more-cast/
-
-The newest trailer for the previously announced Bride of the Barrier Master anime unveiled&hellip;
-
 ## MyAnimeList News
+
+### Rock Band cinema staff Announces Disbandment After 21 Years
+Wed, 23 Sep 2026 01:44:42 -0700 — https://myanimelist.net/news/74749858?_location=rss
+
+The official website of cinema staff announced on Wednesday that the four-member rock band will disband on September 12, 2027, following their final one-man live concert at Toyasu PIT in Tokyo. According to the statement, the band will conclude their regular activities after an event appearance at LIQUIDROOM on December 17, before holding their farewell performance in September 2027. The decision was made following discussions among the members and staff. Additionally, the band confirmed that th...
 
 ### Grand Blue Fourth Season in Production
 Mon, 21 Sep 2026 08:39:14 -0700 — https://myanimelist.net/news/74743342?_location=rss
 
 The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3) ended with an announcement on Tuesday that a fourth season is in production. The official website also revealed an announcement visual (pictured). Produced by Zero-G, the first season aired in 12 episodes in Summer 2018. The second season aired in Summer 2025. A third season produced by Zero-G and Saber Works premiered on July 7. Amazon Prime Video streamed the first season, with Crunchyroll simulcasted the second a...
-
-### Kekkaishi no Ichirinka Unveils Additional Cast, Second Teaser Promo
-Sun, 20 Sep 2026 20:21:01 -0700 — https://myanimelist.net/news/74741587?_location=rss
-
-The official website for the television anime adaptation of Kureha s Kekkaishi no Ichirinka (Bride of the Barrier Master) novel unveiled additional cast, a third teaser visual (pictured), and second teaser promotional video on Monday. The anime series will premiere on Netflix in January 2027. Cast Hazuki Ichise: Kanon Takao (Haibara-kun no Tsuyokute Seishun New Game) Nozomu Ichinomiya: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Azuha: Yuzuki Tamukai Aoi: Taihi Kimura (Onmyou Kaiten Re:Birt...
 
 ## Otaku USA
 
@@ -126,13 +136,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Demons Crest Volume 2 Review
+Wed, 23 Sep 2026 09:00:24 +0000 — https://animeuknews.net/2026/09/demons-crest-volume-2-review/
+
+Yuuma and his companions have made it through a life-or-death battle, but now they're faced with the reality that Sawa is possessed by a demon...
+
 ### Fruit of the Underworld Volume 2 Review
 Tue, 22 Sep 2026 09:00:34 +0000 — https://animeuknews.net/2026/09/fruit-of-the-underworld-volume-2-review/
 
 Seiji has successfully made it down to the underworld, but there are all kinds of horrors standing between him and rescuing best friend Haru! Including the mighty Cerberus and the revival of the King of the Underworld...
-
-### From Our TBR Pile… September 2026
-Mon, 21 Sep 2026 09:00:31 +0000 — https://animeuknews.net/2026/09/from-our-tbr-pile-september-2026/
-
-Our reviewers catch up with the latest volumes of The God-Slaying Demon King, Welcome to Demon School! Iruma-kun and other fan favourites…
 

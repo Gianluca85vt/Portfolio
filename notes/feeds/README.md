@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-22T19:53:09.181Z
+# Source feeds — harvested 2026-09-23T09:32:21.621Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -15,6 +15,7 @@ Already aired, so a round-up rather than a preview:
 
 - GamesIndustry.biz — Tokyo Game Show 2026 celebrated the past, and an uncertain AI future | Opinion
 - Game Developer — gamescom
+- Polygon — Game Awards 2026: All Game of the Year Front-Runners and Predictions
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -24,10 +25,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 31 articles have gone out since the last one.
+**Write Manga and anime next.** 32 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 31 articles since the last one; quota is one in 6. 4 in the archive of 174.
-- **Film & TV** — on track. 6 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 174.
+- **Manga and anime** — BROKEN. 32 articles since the last one; quota is one in 6. 4 in the archive of 175.
+- **Film & TV** — owed now. 7 articles since the last one; quota is one in 8, never worse than one in 10. 12 in the archive of 175.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -36,12 +37,12 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 24 items
+- [Manga](manga.md) **owed** — 26 items
+- [Film & TV](film-tv.md) **owed** — 65 items
 - [Games](games.md) — 102 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 14 items
-- [AI](ai.md) — 12 items
-- [Film & TV](film-tv.md) — 66 items
+- [AI](ai.md) — 11 items
 
 Total: 300 items.
 
