@@ -1,5 +1,5 @@
 ---
-title: "Well Dweller"
+title: "Well Dweller review: acclaimed, with one firm dissent"
 date: 2026-09-23
 category: Games
 cover: /img/blog/well-dweller-review/shot-01.jpg
