@@ -4,7 +4,6 @@ date: 2026-09-23
 category: Games
 cover: /img/blog/ninja-theory-closure-xbox-268-cuts/shot-01.jpg
 excerpt: Two buyers for the Hellblade studio fell through, so Xbox opened closure consultation on 22 September. Booty says the reset is three-quarters done.
-draft: true
 ---
 
 Xbox published the next stage of its restructure on 22 September. Two hundred
