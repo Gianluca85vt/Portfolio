@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Studio Orange bends its 3D models so the frame reads as hand-drawn">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#5A2410"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="122" fill="#F0B48A" font-size="27" font-weight="600" letter-spacing="5.5">STUDIO ORANGE / CEL-LOOK CG</text>
+
+    <text x="80" y="330" fill="#FFFFFF" font-size="188" font-weight="800" letter-spacing="-6">The model</text>
+    <text x="80" y="472" fill="#FFFFFF" font-size="188" font-weight="800" letter-spacing="-6">is wrong</text>
+    <text x="80" y="558" fill="#FFD3B0" font-size="64" font-weight="700" letter-spacing="-1.5">on purpose, every shot</text>
+  </g>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M80 668 L 1120 668" stroke="#FFFFFF" stroke-width="3" opacity="0.18"/>
+  </g>
+  <g fill="#FFD3B0" opacity="0.85">
+    <rect x="80" y="700" width="112" height="46" rx="6"/>
+    <rect x="228" y="700" width="112" height="46" rx="6"/>
+    <rect x="376" y="700" width="112" height="46" rx="6"/>
+    <rect x="524" y="700" width="112" height="46" rx="6"/>
+  </g>
+  <g fill="#FFFFFF" opacity="0.3">
+    <rect x="672" y="700" width="46" height="46" rx="6"/>
+    <rect x="736" y="700" width="46" height="46" rx="6"/>
+    <rect x="800" y="700" width="46" height="46" rx="6"/>
+    <rect x="864" y="700" width="46" height="46" rx="6"/>
+    <rect x="928" y="700" width="46" height="46" rx="6"/>
+    <rect x="992" y="700" width="46" height="46" rx="6"/>
+    <rect x="1056" y="700" width="46" height="46" rx="6"/>
+  </g>
+  <text x="80" y="800" fill="#F0B48A" font-family="Inter, Helvetica Neue, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="1">held frames, left — every frame new, right</text>
+</svg>
