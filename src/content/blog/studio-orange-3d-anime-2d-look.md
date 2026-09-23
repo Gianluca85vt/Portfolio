@@ -4,7 +4,6 @@ date: 2026-09-23
 category: 3D
 excerpt: Dropped frames, warped models, faces redrawn by hand. Every trick that makes Orange's CG read as anime costs the asset reuse 3D is supposed to buy you.
 cover: /img/blog/studio-orange-3d-anime-2d-look/video-thumb.jpg
-draft: true
 ---
 
 Watch a close-up in BEASTARS and wait for the head turn. A normal CG character
