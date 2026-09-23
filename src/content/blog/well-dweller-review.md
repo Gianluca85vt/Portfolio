@@ -1,5 +1,5 @@
 ---
-title: "Well Dweller review: a 9 drawn by one person"
+title: "Well Dweller"
 date: 2026-09-23
 category: Games
 cover: /img/blog/well-dweller-review/shot-01.jpg
