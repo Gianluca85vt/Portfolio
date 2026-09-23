@@ -4,7 +4,6 @@ date: 2026-09-23
 category: Tech
 excerpt: An analyst chart puts 1b DRAM at $0.654 per mm² against $0.424 for TSMC N2. The arithmetic holds. It measures revenue per area, which changes the reading.
 cover: /img/blog/dram-per-mm2-tsmc-n2-price/shot-01.jpg
-draft: true
 ---
 
 Somebody put two numbers side by side on 20 September and the hardware internet
