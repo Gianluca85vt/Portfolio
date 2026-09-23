@@ -1,6 +1,21 @@
-# AI — harvested 2026-09-23T09:32:21.621Z
+# AI — harvested 2026-09-23T15:11:16.031Z
 
 ## OpenAI
+
+### Two years of OpenAI Academy
+Wed, 23 Sep 2026 16:00:00 GMT — https://openai.com/index/two-years-of-openai-academy
+
+Marking two years of OpenAI Academy and bringing AI skills to even more communities.
+
+### OpenAI extends cyber access to Ukraine for civilian defense
+Wed, 23 Sep 2026 13:00:00 GMT — https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
+
+OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
+
+### Grab and OpenAI bring practical AI skills to Southeast Asia
+Wed, 23 Sep 2026 00:00:00 GMT — https://openai.com/index/grab-openai-ai-skills-southeast-asia
+
+OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.
 
 ### Better prompt caching for GPT-6
 Tue, 22 Sep 2026 21:00:00 GMT — https://openai.com/index/better-prompt-caching-for-gpt-6
@@ -22,22 +37,10 @@ Tue, 22 Sep 2026 00:00:00 GMT — https://openai.com/index/priorities-principles
 
 OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
 
-### Higgsfield AI ships new video features in a day with GPT-6 Astra
-Mon, 21 Sep 2026 12:00:00 GMT — https://openai.com/index/higgsfield-from-prompt-to-production-with-astra
-
-With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.
-
-### Advisory Group on Mathematics and Artificial Intelligence
-Mon, 21 Sep 2026 12:00:00 GMT — https://openai.com/index/advisory-group-on-mathematics-and-ai
-
-OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.
-
-### Building standards for the next phase of AI
-Mon, 21 Sep 2026 10:00:00 GMT — https://openai.com/index/building-standards-next-phase-ai
-
-OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.
-
 ## Hugging Face
+
+### **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**
+Wed, 23 Sep 2026 13:17:01 GMT — https://huggingface.co/blog/nvidia/nemotron-diarization
 
 ### How UK AISI and EvalEval Are Making Benchmark Results Reproducible
 Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/evaleval-aisi
@@ -47,9 +50,6 @@ Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/transformers-llama
 
 ### Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community
 Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/omlx
-
-### Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem
-Mon, 21 Sep 2026 13:44:34 GMT — https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an
 
 ## Google DeepMind
 
