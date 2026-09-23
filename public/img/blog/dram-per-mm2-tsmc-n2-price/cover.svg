@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="DRAM is worth $0.654 per square millimetre against $0.424 for TSMC N2">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3B1060"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C77DFF"/>
+      <stop offset="100%" stop-color="#EBD4FF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- die grid, faint: area is the subject -->
+  <g stroke="#FFFFFF" stroke-opacity="0.06" stroke-width="2">
+    <path d="M0 620H1200M0 700H1200M0 780H1200M0 860H1200"/>
+    <path d="M80 600V900M240 600V900M400 600V900M560 600V900M720 600V900M880 600V900M1040 600V900"/>
+  </g>
+
+  <text x="80" y="150" font-family="Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#C77DFF">MEMORY vs LOGIC</text>
+
+  <text x="80" y="330" font-family="Inter, Helvetica, Arial, sans-serif" font-size="150" font-weight="800" fill="url(#accent)">$0.654</text>
+  <text x="80" y="386" font-family="Inter, Helvetica, Arial, sans-serif" font-size="32" font-weight="600" fill="#FFFFFF" fill-opacity="0.85">1b DRAM, per mm²</text>
+
+  <text x="80" y="540" font-family="Inter, Helvetica, Arial, sans-serif" font-size="110" font-weight="700" fill="#FFFFFF" fill-opacity="0.62">$0.424</text>
+  <text x="80" y="590" font-family="Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#FFFFFF" fill-opacity="0.55">TSMC N2 wafer, per mm²</text>
+
+  <rect x="80" y="640" width="360" height="5" fill="#C77DFF" fill-opacity="0.8"/>
+  <text x="80" y="706" font-family="Inter, Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#FFFFFF" fill-opacity="0.55">Estimates, Kurnal Insights — 20 September 2026</text>
+</svg>
