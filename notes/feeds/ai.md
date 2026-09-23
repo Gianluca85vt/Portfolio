@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-23T15:11:16.031Z
+# AI — harvested 2026-09-23T19:48:35.824Z
 
 ## OpenAI
 
@@ -11,6 +11,21 @@ Marking two years of OpenAI Academy and bringing AI skills to even more communit
 Wed, 23 Sep 2026 13:00:00 GMT — https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense
 
 OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
+
+### How invideo improves color grading 3x with GPT‑6 Astra
+Wed, 23 Sep 2026 12:00:00 GMT — https://openai.com/index/invideo-builds-with-gpt-6-astra
+
+With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.
+
+### Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+Wed, 23 Sep 2026 12:00:00 GMT — https://openai.com/index/ringg
+
+Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
+
+### Harvey turns legal context into stronger drafts with GPT-6 Astra
+Wed, 23 Sep 2026 12:00:00 GMT — https://openai.com/index/harvey-from-context-to-confidence-with-astra
+
+GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.
 
 ### Grab and OpenAI bring practical AI skills to Southeast Asia
 Wed, 23 Sep 2026 00:00:00 GMT — https://openai.com/index/grab-openai-ai-skills-southeast-asia
@@ -39,8 +54,8 @@ OpenAI outlines priorities and principles for rigorous, secure, and independent 
 
 ## Hugging Face
 
-### **Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**
-Wed, 23 Sep 2026 13:17:01 GMT — https://huggingface.co/blog/nvidia/nemotron-diarization
+### How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows
+Wed, 23 Sep 2026 18:41:40 GMT — https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 
 ### How UK AISI and EvalEval Are Making Benchmark Results Reproducible
 Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/evaleval-aisi
@@ -53,7 +68,13 @@ Tue, 22 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/omlx
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Advancing Private AI Compute with secure, server-side memory
+Wed, 23 Sep 2026 16:00:57 +0000 — https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/
+
+Introducing private, server-side memory to Private AI Compute for personal AI.
+
+### Gemini 3.8 text-to-speech says hello
+Wed, 23 Sep 2026 15:25:14 +0000 — https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/
 
 ## VentureBeat AI
 

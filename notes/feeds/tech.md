@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-23T15:11:16.031Z
+# Tech — harvested 2026-09-23T19:48:35.824Z
 
 ## Ars Technica
+
+### After multiple deaths and injuries, NHTSA is investigating comma.ai
+Wed, 23 Sep 2026 14:20:23 +0000 — https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/
+
+Aftermarket devices that can boost or augment a vehicle’s native advanced driver assistance systems are the target of a new federal investigation this week. The National Highway Traffic Safety Administration’s Office of Defects Investigation says it knows of five crashes in which drivers using devices from comma.ai crashed into stopped or slow-moving cars. Two of the crashes resulted in three deaths, and 11 people were injured in four of the five crashes, some seriously. Comma.ai was the brainchild of George Hotz, who rose to prominence at the start of the last decade by jailbreaking iOS and hacking Sony PlayStations. In 2015, Hotz turned his attention to partially automated driver assists, which were gaining attention following Tesla’s exploits with its Autopilot system. Hotz first modified his own Acura to give it a more advanced driver assist that let him take his hands off the wheel, with the goal of selling his system to Tesla and replacing Mobileye as the company’s supplier. (Mobileye dropped Tesla as a customer the following year after becoming unhappy with the way the car company was using Mobileye products in unintended ways.) Read full article Comments ]]>
 
 ### America gave up its rare earth edge. China took full advantage.
 Wed, 23 Sep 2026 13:37:05 +0000 — https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/
@@ -57,64 +62,69 @@ Tue, 22 Sep 2026 17:06:16 +0000 — https://arstechnica.com/ai/2026/09/toyota-cl
 
 Toyota workers are already helping to train humanoid robots as part of the automaker’s race to eventually deploy 400,000 factory robots—but a Toyota executive said the robotic push is not meant to directly replace humans. Starting in 2028, the Toyota Motor group aims to start investing $6.42 billion every year in upgrading factories with the new robotic workforce, according to Nikkei Asia . The company wants to put 150,000 robots in its own automotive plants and deploy another 250,000 at group company facilities that produce various components and materials. Toyota has already begun deploying some of its ELEY humanoid robots across assembly lines to learn from human workers. Nikkei Asia reported that workers are teaching the robots, which roll around on wheels, to perform tasks requiring precise hand movements by wearing “jigs” based on the humanoids’ fingers. Read full article Comments ]]>
 
-### IT mistake erases 11 years of viewing history for hospitals’ maternity records
-Tue, 22 Sep 2026 16:55:40 +0000 — https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/
-
-A “human error” in the IT department led to Nottingham University Hospitals NHS Trust (NUH) losing data from maternity records over an 11-year span. The data loss occurred on August 18, the English hospitals announced in a blog post on Monday spotted by The Register . The blog said the problem is “the result of human error” during routine technical work while “creating a copy of a radiotherapy database for reporting purposes.” The post reads: Read full article Comments ]]>
-
 ## The Verge
+
+### Meta’s AI agent is a cute little guy who’s great at spending my money
+2026-09-23T15:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping
+
+An adorable little bear that wants to help you buy things. Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all , minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the backyard and now I have to figure out what to do with it? The tree just assigned me homework? Oh, our trash collection company canceled our account out of nowhere and now I have to send email about it? Repeatedly? Totally unfair. These are the things that we've been told for years that AI will help us with. We'll all have a smart virtual assistant to triage and handle the tedious tasks we'd rather … Read the full story at The Verge. ]]>
+
+### Data centers are black boxes, but California wants to change that
+2026-09-23T14:22:57-04:00 — https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills
+
+California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communities across the US, they've triggered protests over how the infrastructure underpinning AI might stress power grids and local water systems. That's fueled partly by concerns about how difficult it is to see just how much electricity or water they're actually gobbling up. California's new disclosure rules won't offer a full picture, but starting next year, data center operators will have to start s … Read the full story at The Verge. ]]>
+
+### Anthropic s biolab made a discovery it s comparing to Crispr
+2026-09-23T14:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr
+
+Anthropic says its AI Claude has "autonomously discovered" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness for science as the company prepares to go public. The company says Claude found the enzyme system after searching through a massive database of DNA sequences, adding that its scientists' involvement was limited to the initial prompt and lab work. Over 21 hours, Anthropic said nearly 950 Claude agents worked through 210 million tokens before one spotted an unusual repeating pattern in the datas … Read the full story at The Verge. ]]>
+
+### Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison
+2026-09-23T12:23:05-04:00 — https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act
+
+Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the "destruction or disempowerment of humanity," including by overthrowing the government. Under the Ban Artificial Superintelligence Act , AI leaders would face up to 20 years in prison for violating the law. The bill doesn't just take aim at the more powerful superintelligence, a term President Donald Trump said the US will use in place of "AI" in official documents. It would also pause the development of advanced AI systems, which lawmakers … Read the full story at The Verge. ]]>
+
+### Logitech’s new Blue Yeti 2 mic adjusts itself to where you are
+2026-09-23T12:01:45-04:00 — https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability
+
+The LED control display includes a Yeti mascot, because of course it does. | Image: Logitech G The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, including an interactive LED display, AI de-noising, and a proximity based voice sensor - which resolves a notable flaw with its predecessor's design while still paying homage to it. It's available in black or white color options for $159.99, which is comparatively cheaper than Shure's popular MV7 series USB microphones, which are the current choice for podcasters and start at $299. It's also interest … Read the full story at The Verge. ]]>
+
+### Logitech’s new haptics-based gaming mouse is a little better and $20 more
+2026-09-23T12:00:00-04:00 — https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price
+
+The X3 also comes in black. “Lunar eclipse” remains an option for the $179.99 X2. | Image: Logitech The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the click can be super subtle, more jolty, or turned off entirely). The tech debuted in the G Pro X2 Superstrike in February, and there's already a sequel. Well, it's more like a 1.5 rather than a true successor. The G Pro X3 Superstrike is out October 6th for $199.99, and comes in a bold pink (as pictured) or black color scheme. The X2 will remain available at $179.99. The notable improvements wit … Read the full story at The Verge. ]]>
+
+### Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy
+2026-09-23T11:45:11-04:00 — https://www.theverge.com/news/999404/xbox-mythic-achievement-feature
+
+Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a game. Mythic Achievements appear on screen with a unique unlock sound, and players will reportedly be able to track them through the Xbox dashboard. Xbox players will also be able to display their Mythic count on their profiles. Some Xbox Insider testers have already started spotting references to Mythic Achievements in early versions of the Xbox dashboard. A new update for the Xbox PC App rev … Read the full story at The Verge. ]]>
+
+### One of the best Metroid games for the Switch is 30 percent off
+2026-09-23T11:01:50-04:00 — https://www.theverge.com/gadgets/999329/metroid-prime-remastered-nintendo-flow-usbc-apple-deal-sale
+
+Nintendo’s “Customer Appreciation” sale continues through September 26th. It includes discounts on Switch games and accessories, and I thought I’d call out one of my favorite games that’s cheaper than ever. Metroid Prime Remastered is down to $27.99 in digital format for the Switch and Switch 2, and it’s among the best remasters I’ve played because it makes smart improvements to an already-great game. You can get it for this price at Amazon , Best Buy , and Walmart . The physical version costs around $42 at those retailers. Metroid Prime Remastered Where to Buy: $39.99 $27.99 at Amazon (digital) $39.99 $27.99 at Walmart (digital) $39.99 $27.99 at Best Buy (digital) Most Metroid fans have already played this one — maybe multiple times, even — but if you’ve somehow missed out, here’s your sign to pick it up. It applies a modern coat of updated textures and improved lighting to the 2002 GameCube title, and it runs at a smooth frame rate. Notably, the control scheme doesn’t require motion controls like the Wii re-release did. For about the same price as this digital title, true fans can also buy the Metroid Prime 1-3: A Visual Retrospective hardcover book. Normally $49.99, it’s $28.50 at Amazon and Walmart for the 208-page art book covering the original trilogy, peppered with some fantastic quotes from people who worked on the games. It’s an unusually candid look into Nintendo’s first-person shooter series and the company’s game design philosophy. It’d make for a great holiday gi
+
+### This $199 GPS sports watch is repairable, modular, and open-source
+2026-09-23T11:01:16-04:00 — https://www.theverge.com/gadgets/999380/una-watch-sports-gps-modular
+
+The Una Watch costs less than most Garmin watches now that its price has been lowered from the Kickstarter offer of $350 to $199, but its modular, repairable design grabbed my attention first. It features a 1.2-inch MIP LCD display and up to 10 days of battery life, similar to the Garmin Forerunner 70 or the Pebble Round 2 I preordered earlier this year. Like Pebble's revamped watches , the Una Watch is also open-source , including its SDK, housing, and circuit boards, but it has more fitness features out of the box than Pebble's watches currently offer. Una is also encouraging users to build their own apps for it, including with vibe coding - … Read the full story at The Verge. ]]>
 
 ### YouTube is building AI creator tools that do almost everything for them
 2026-09-23T10:30:00-04:00 — https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests
 
 Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what they should do. At the annual creator-focused Made on YouTube event, the company announced updates to the suite of AI-powered creator tools it unveiled in 2025 . In its initial iteration, the dashboard of creator tools included things like A/B testing for video thumbnails and a chatbot interface to query how content was performing. This year's update adds AI tools for more complex tasks. Perhap … Read the full story at The Verge. ]]>
 
-### Discord will now automatically estimate your age
-2026-09-23T10:27:49-04:00 — https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout
-
-Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign users to an estimated age group based on "multiple account signals," with account restrictions placed on users believed to be between 13 and 17. The updates follow Discord slamming the brakes on its earlier age verification rollout in February in response to data privacy concerns. Its previous system required adults to verify themselves via video selfies or ID documentation , and faced criticism afte … Read the full story at The Verge. ]]>
-
-### McDonald’s is testing ads on its drive-thru menus
-2026-09-23T09:52:39-04:00 — https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads
-
-McDonald's is putting ads on its drive-thru menu as part of a "limited" pilot at company-owned restaurants, according to a report from Bloomberg . Drive-thru locations included in the test will show ads from other brands on digital menu boards after a customer places their order, which they'll see while they wait for their meal. In a statement to Bloomberg , a McDonald's spokesperson says the test allows the company to explore "ways to share post-purchase content that customers may find helpful, relevant, or interesting." As noted by Bloomberg , selling ads on McDonald's menu boards could open up another stream of revenue for the company, whi … Read the full story at The Verge. ]]>
-
-### Nobody does it like Remedy
-2026-09-23T09:45:00-04:00 — https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox
-
-Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant 's twisted version of New York City. It's a game that lets you flip, twist, and fly through the air, while exploring settings that look ripped out of Inception . It's as if you mashed up the meta storytelling of House of Leaves with the inventive platforming of Super Mario Galaxy and somehow turned it into a coherent experience. That strange combination is just the latest example of developer Remedy making games like nobody else out there. Resonant is a sequel to 2019's Control - tho … Read the full story at The Verge. ]]>
-
-### Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display
-2026-09-23T08:04:45-04:00 — https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china
-
-Both 18 Pro phones feature rear displays, just like last year’s 17 Pro models. | Image: Xiaomi Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra . They combine it with returning rear screens, two 200-megapixel cameras, and both of Qualcomm's new Snapdragon 8 Elite Gen 6 chips . A global launch is confirmed for later this year - especially welcome since last year's 17 Pro phones skipped international markets. The two 18 Pro phones look similar to the 17 Pros , with similar compact displays built around the rear cameras, capable of displaying notifications, taking selfies, playing simple games, and more. The bigger … Read the full story at The Verge. ]]>
-
-### OpenAI nabs key Patreon execs ahead of upcoming announcement
-2026-09-23T07:02:39-04:00 — https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam
-
-Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge OpenAI has hired three former Patreon execs to anchor its product strategy for creators. After starting the creator subscription platform 13 years ago, co-founder and technology chief Sam Yam announced on X that he's joining OpenAI to lead Creator Product. He's also bringing Patreon's former product head Drew Rowny and engineering head Shannon Ma with him on the new venture, both of whom stepped down in the past few weeks. "We're going to build together with Creators at OpenAI and share early access to a new set of tools that I think will be critically valuable to Creators and their communities," Yam said in his announcement. "Pay attention … Read the full story at The Verge. ]]>
-
-### Eight Sleep’s new cooling hub is small enough to hide under your bed
-2026-09-23T07:00:00-04:00 — https://www.theverge.com/tech/999018/eight-sleep-pod-6-intelligent-sleep-system-sensors-health-tracking
-
-Eight Sleep announced the next version of its "intelligent sleep system" designed to regulate the temperature of your bed in response to tracked health and sleep metrics like breathing and heart rate. The company calls its new Pod 6 system its "most significant hardware launch to date," and it's centered around a redesigned cooling hub that's now small enough to hide beneath most beds. The new system is cheaper than Eight Sleep's Pod 5 that launched in 2025 , but is still by no means cheap. The Pod 6 is now available through Eight Sleep's online store . The Standard version ranges in price from $2,699 for a full-size mattress to $2,999 for ki … Read the full story at The Verge. ]]>
-
-### OpenAI wants to consult elite mathematicians about how to not fumble again
-2026-09-22T20:17:17-04:00 — https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel
-
-After turning a string of spectacular mathematical results into a reputational crisis , OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathematicians tasked with advising it and other AI companies on their interactions with mathematical research and the wider mathematics community, including how new results are presented and released. Its abrupt arrival caught many mathematicians by surprise. Researchers told The Verge the group is a good first step, but many said they were left with basic questions about what it will actually do, how … Read the full story at The Verge. ]]>
-
-### Paramount will need to release way more movies to make this merger work
-2026-09-22T18:26:07-04:00 — https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails
-
-Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spending at least $300 million more on film and TV projects produced in the US, Paramount says that it will release a minimum of 30 movies annually after it absorbs WBD. On paper, these goals make it sound like Paramount is trying to ensure that the entertainment industry won't be harmed by its WBD acquisition. But when you look at the studios' recent output, it seems very much like Paramount CEO Dav … Read the full story at The Verge. ]]>
-
-### Rabbit’s new AI agent doesn’t need an R1 to run
-2026-09-22T16:52:40-04:00 — https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3
-
-Rabbit, the company behind the underwhelming R1 device , is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired . The startup says its new OS3 "agentic operating system" runs in the cloud but operates locally across Windows, Mac, and Linux devices. According to Rabbit, you can add up to five devices to one account, along with your preferred AI models. OS3 will automatically determine the devices, files, apps, and AI models it needs to complete a task. You can also access OS3 through its dedicated desktop site , a paired messaging app like Telegram or iMessage, as well as on Rabbit's R1 device … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### China's YMTC wins patent battle against Micron in ongoing 3-year legal war over memory patents
+Wed, 23 Sep 2026 15:56:02 +0000 — https://www.tomshardware.com/pc-components/storage/chinas-ymtc-wins-patent-battle-against-micron-in-ongoing-3-year-legal-war-over-memory-patents-new-injunctions-could-restrict-microns-supply-into-germany
+
+A court in Germany has granted court injunctions against Micron, marking a win for YMTC on the European/German front in the 3-year legal war between the two companies over memory technology patents. According to a Digitimes report , the court ruled on Sept. 18 that Micron did infringe YMTC’s 3D NAND technology patents in two instances. The injunctions could restrict Micron’s supply in Germany and impact the broader European NAND market. Micron said it disagreed with the court ruling and has already filed an appeal. It is also challenging the validity of the related patents in separate legal cases across various countries. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible YMTC filed the lawsuit that won the recent injunctions in late 2025 at the Munich 1 Regional Court, opening five cases involving four German utility models and a European patent. The court granted injunctions on two of the utility models with 10-year protection periods — DE202020006166U1 (case No. 7O12615/25) and DE202021004551U1 (case No. 12614/25) — and adjourned the others. The injunctions are only first-instance rulings and can be sus
+
+### Alibaba claims new Qwen Image 2.1 AI model beats Google Nano Banana 2.0 with minuscule 7B parameter model
+Wed, 23 Sep 2026 15:34:36 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/alibaba-claims-new-qwen-image-2-1-ai-model-beats-google-nano-banana-2-0-with-minuscule-7b-parameter-model-benchmarks-show-open-weight-contender-is-competitive-with-openai-and-meta-image-models
+
+Alibaba Cloud has released a new lightweight image generation AI model, called Qwen Image 2.1 . Sporting just 7 billion parameters, it's an extremely lean open-weight model, able to run on even older consumer graphics cards like the RTX 3090. Despite its lightweight design, its developers claim it is more capable than a range of closed-weight models, including Google's Nano Banana 2.0. That is on its own internal benchmark, so we'd like to see some additional testing before making any concrete claims, but early reports suggest it's a very capable image model, with native transparency support and the ability to create unified images from a range of reference images. One area that has raised eyebrows, though, is the change to the Qwen Image 2.1 licensing agreement. Unlike the previous version, this one explicitly forbids commercial resale of the model, requiring anyone who wants to use it for that to obtain a separate license directly from the developer. Competing with the best? Qwen Image 2.1 introduces a number of new features that improve its utility and help it better compete with established alternatives. It supports native transparency, so you can have it generate images with transparent backgrounds, which can make it particularly useful for artists wanting to use AI as part of something else, or for print-on-demand products like stickers. It also improves image editing, with the ability to use up to 10 reference images. Cited examples include taking an existing image of 
 
 ### $14,000 gaming PC features 70 handcrafted titanium cherry blossoms which unfurl as temperatures rise
 Wed, 23 Sep 2026 13:14:43 +0000 — https://www.tomshardware.com/pc-components/case-mods/usd14-000-gaming-pc-features-70-handcrafted-titanium-cherry-blossoms-which-unfurl-as-temperatures-rise-zotac-designed-rtx-5080-system-features-impressive-sculpture-and-an-eye-watering-price-tag-to-match
@@ -144,7 +154,7 @@ While RAM, video cards, and storage have become the most expensive parts of a PC
 ### AMD begins to add GDDR7 support to its Linux GPU drivers
 Wed, 23 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/amd-begins-to-add-gddr7-support-to-its-linux-gpu-drivers-changes-could-herald-use-of-advanced-memory-standard-with-next-gen-radeon-gpus
 
-AMD has started to add support for GDDR7 memory and several new graphics IP blocks to its open-source Linux kernel driver, which indicates that software enablement for the company's next-generation standalone GPUs is underway, reports Phoronix . While AMD does not identify the upcoming architecture, the changes are likely tied to its RDNA 5 project, but they don't necessarily herald an imminent launch. AMD's existing Radeon RX 9000-series graphics processors based on the RDNA 4 architecture use GDDR6 memory, so the addition of GDDR7 identification to drivers is arguably the most explicit confirmation that AMD is setting the stage for its next-generation discrete Radeon graphics processors based on the RDNA 5 architecture. AMD also submitted patches that enable IH 8.0, a new version of its Interrupt Handler IP block, as well as NBIF 7.10, the latest revision of the company's New Bus Interface. Several smaller patches make additional preparations for the new hardware. These changes follow earlier Linux driver work involving Display Core Next 6 (DCN6) as well as GFX 13.0.x, suggesting that AMD is gradually upstreaming support for multiple components of an upcoming GPU architecture. Yet, while enablement of IH8, NBIF 7.10, DCN6, and GFX 13.0.x clearly point to new graphics hardware, it does not necessarily point to new discrete GPUs, unlike the mention of GDDR7. As revealed in August, 2025 , Laks Pappu, Senior Fellow at AMD, is the lead architect for AMD's next generation datacen
+AMD has started to add support for GDDR7 memory and several new graphics IP blocks to its open-source Linux kernel driver, which indicates that software enablement for the company's next-generation standalone GPUs is underway, reports Phoronix . While AMD does not identify the upcoming architecture, the changes are likely tied to its RDNA 5 project — but they don't necessarily herald an imminent launch. AMD's existing Radeon RX 9000-series graphics processors based on the RDNA 4 architecture use GDDR6 memory, so the addition of GDDR7 identification to drivers is arguably the most explicit confirmation that AMD is setting the stage for its next-generation discrete Radeon graphics processors based on the RDNA 5 architecture. AMD also submitted patches that enable IH 8.0, a new version of its Interrupt Handler IP block, as well as NBIF 7.10, the latest revision of the company's New Bus Interface. Several smaller patches make additional preparations for the new hardware. These changes follow earlier Linux driver work involving Display Core Next 6 (DCN6) as well as GFX 13.0.x, suggesting that AMD is gradually upstreaming support for multiple components of an upcoming GPU architecture. Yet, while enablement of IH8, NBIF 7.10, DCN6, and GFX 13.0.x clearly point to new graphics hardware, it does not necessarily point to new discrete GPUs, unlike the mention of GDDR7. As revealed in August, 2025 , Laks Pappu, Senior Fellow at AMD, is the lead architect for AMD's next generation datace
 
 ### Meta's new transoceanic undersea cable boasts a whopping petabit of bandwidth
 Wed, 23 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/networking/metas-new-transoceanic-undersea-cable-boasts-a-whopping-petabit-of-bandwidth-petal-link-between-us-and-france-will-be-twice-as-fast-as-the-last
@@ -165,16 +175,6 @@ China has launched nine satellites — including its first integrated “rocket 
 Wed, 23 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/handheld-gaming/airbus-turned-the-steam-deck-into-a-controller-for-a-prototype-mars-rover-valve-handheld-pc-gives-engineers-command-of-the-exomars-platform-during-testing
 
 Valve's Steam Deck portable PC , the same one you might play your favorite games on, isn't just for fun, as Airbus has just proven. The aerospace firm is using the Deck to control a prototype Mars rover throughout its development and testing process. The ExoMars rover, a device that will be autonomous when it reaches the Red Planet, is being developed in the UK by Airbus. The rover and its Steam Deck companion made an appearance in a video shared by YouTube personality Tom Scott following a visit to Airbus' facility. And while ExoMars is being tested on Earth, it's hoped that it will eventually be capable of controlling itself when it rolls out onto the Martian terrain. For now, engineers need a way to control the rover during its development and testing in a Mars-like environment. And for that, Airbus has settled on a Steam Deck. The video shows a Steam Deck running unspecified custom software. Just like playing the games Steam Deck owners are familiar with, Scott can be seen using the thumbsticks, triggers, and face buttons as a method for controlling the rover. While novel, the decision to use a Steam Deck in this way probably shouldn't be all that surprising. It's a handheld PC in every sense of the word — it's powered by Linux and has both physical and touchscreen controls, not to mention Wi-Fi and Bluetooth support. If you're so inclined, you can even install Windows on a Steam Deck , too. All of these things make the Steam Deck the perfect way to control something as a
-
-### Beat the Switch 2 storage crisis with this $99 512GB microSD Express card
-Tue, 22 Sep 2026 18:18:55 +0000 — https://www.tomshardware.com/pc-components/microsd-cards/beat-the-switch-2-storage-crisis-with-this-usd99-512gb-microsd-express-card-amazon-deal-slashes-33-percent-off-high-performance-samsung-p9
-
-The flash shortage has driven up prices for nearly all consumer storage devices. Fortunately, for a limited time, Nintendo Switch 2 owners have a rare opportunity to secure a high-performance Samsung P9 512GB microSD Express card for just $99.99 , the original MSRP before the shortage began. Amazon’s $50 checkout discount makes this deal even more enticing, since the microSD Express card typically retails for $149.99. Check out the Samsung P9 512GB deal on Amazon The Samsung P9, one of the best microSD Express cards available, offers blazing-fast sequential read speeds of up to 800 MB/s. That performance is enough to ensure games on your Switch 2 load quickly, and gameplay stays smooth. Samsung does not explicitly state the sequential write speed; however, microSD Express cards in the 512GB class generally offer sustained write speeds of up to 300 MB/s. P9 512GB: was $149.99 now $99.99 The Samsung P9 is a microSD Express card that offers great performance and reliability for its price. The 512GB model is currently priced at its original MSRP of $99.99. View Deal High write speeds mean faster data transfers and game installations. Still, 300 MB/s is more than enough for most Switch 2 owners to install large games and updates with little waiting time. In normal usage, the Switch 2 reads more data than it writes, so high read speeds are always a plus. MicroSD Express card benchmarks MicroSD Express card benchmarks The Samsung P9 512GB is an incredible steal at $99.99 , especiall
-
-### Durabook Z14I-DX3 rugged mobile workstation folds three screens into a 9.8 kg chassis
-Tue, 22 Sep 2026 16:33:41 +0000 — https://www.tomshardware.com/laptops/durabook-z14i-dx3-rugged-mobile-workstation-folds-three-screens-into-a-9-8-kg-chassis-luggable-targets-military-emergency-services-and-field-professionals
-
-Taiwan-based manufacturer Durabook has introduced a highly rugged mobile workstation with not one, not two, but three integrated 14-inch 1080p displays. The Z14I-DX3 comes in a traditional clamshell design with two additional displays attached on either side that fold inwards during transportation. The laptop is MIL-STD-810H and MIL-STD-461G certified and is primarily meant for field professionals including military, public safety and emergency services, engineers, and other industrial operations. All three displays are DynaVue sunlight-readable touchscreens with capacitive multi-touch and built-in OSD controls. Offering up to 1200 nits of peak brightness, all three can be synchronized or adjusted individually. The displays also support finger, water, glove and stylus inputs, which can be useful depending on the working conditions. The additional displays increase the overall weight of the machine to a whopping 21.6 lb or 9.8 kgs, significantly heavier than the standard single-screen model at 3.6 kg. And at 5.4" thick (137.5mm) when closed, this system is best understood as a luggable workstation rather than anything resembling a traditional laptop. The notebook can be configured with Intel’s Meteor Lake Core Ultra 5 or Core Ultra 7 mobile processors with up to 64GB of DDR5-5600 memory. Unusually for a ruggedized system, Durabook also offers several Nvidia discrete GPUs including the RTX A500 AI accelerator, RTX 3500 Ada and RTX 5000 Ada for up to 682 TOPS of AI performance. 
 
 ## Phoronix
 
@@ -240,9 +240,92 @@ SPEC back in May 2025 introduced SPECViewPerf 15 as the newest major release of 
 
 ## The Register
 
-_Nothing in the last 48 hours._
+### Thoughts return to forbidden RAM upgrades as Raspberry Pi OS gets fresh lick of paint
+Wed, 23 Sep 2026 17:09:31 +0200 — https://www.theregister.com/systems/2026/09/23/thoughts-return-to-forbidden-ram-upgrades-as-raspberry-pi-os-gets-fresh-lick-of-paint/5298600
+
+Raspberry Pi OS has gained a new desktop layout, while surging memory prices have revived a row over firmware that restricts RAM upgrades. Although Raspberry Pi doesn't emphasize version numbers in its materials, the updated operating system's splash screen identifies it as version 6.3, dated September 2026. Its long-running release notes document details the changes. This time around, the desktop GUI gets a visible revamp. In place of the vintage-Windows-style taskbar, users can now choose a dock centered at the bottom of the screen and a full-screen app launcher. There are three options: just a dock, just a taskbar, or both at once – in which case the panel goes transparent and disappears from view except for the status indicators at the right end. We tried all three configurations, but missed the option to position the dock vertically. We strongly prefer that arrangement. If you too wish to conserve your vertical pixels, then use the raspi-config command to switch to X11 instead of Wayland. You lose the Raspberry Pi Connect feature, but in return you get a vertical LXDE taskbar. It looks pretty good. We suspect the design is intended to be less intimidating to children more familiar with smartphones than desktop Windows – still an important audience for the Pi. Under the hood, the Pi OS Wayland desktop components have been updated – the release notes say "labwc and wlroots updated to version 0.20." That is slightly behind version 0.20.2 of the labwc compositor, and The Reg
+
+### Academic publisher Elsevier hit by LAPSUS$ redirect attack
+Wed, 23 Sep 2026 17:08:00 +0200 — https://www.theregister.com/security/2026/09/23/academic-publisher-elsevier-hit-by-lapsus-redirect-attack/5298592
+
+Academic publishing giant Elsevier confirmed a compromise this week after students found its platform redirecting users to a cybercriminal crew's leak page. One Reddit user, a self-described nursing student, highlighted the issue on September 22, posting a screenshot of LAPSUS$’s leak site after trying to access “homework and textbooks.” “Every time I try to open the Elsevier website, I am met with this,” they wrote. “Anyone know anything or have any explanation? Totally creepy.” Amsterdam-based Elsevier told The Register it was briefly compromised following an attack Monday, but played down the wider impact. “On September 21, Elsevier identified that visitors to select platforms were being redirected to a third-party page,” a spokesperson said. “Our cybersecurity team responded immediately, resolving the issue and restoring normal service. “Our investigation indicates that this was a narrowly scoped, limited-duration event involving the temporary redirection of traffic for certain web properties. There is no indication that core platforms, customer data, research content, or operational systems were compromised.” Elsevier did not respond to additional questions related to the specific platforms that were affected or for how long LAPSUS$’ redirect was in place. The company is best known for its ScienceDirect platform, which hosts scientific, technical, and medical journal articles. It is also behind ClinicalKey, an AI-powered platform designed to provide medical professionals
+
+### Closing the observability gap for the AI-ready enterprise
+Wed, 23 Sep 2026 17:00:00 +0200 — https://www.theregister.com/security/2026/09/23/sponsored-closing-the-observability-gap-for-the-ai-ready-enterprise/5298070
+
+The modern enterprise is a digital enterprise. From the back office to the factory floor, connected systems and digital services form the operational backbone on which all else depends. So when disruption hits, it can have a huge financial, reputational, productivity, and even compliance impact. This has raised observability to a board-level issue. "For a public company, a material cyber incident is a disclosure obligation. You're on a four-business-day clock from the moment you determine its material," explains NETSCOUT director of enterprise strategy, Jack Callahan. "So when you have a disruption, whether that's a cyber-attack, a DDoS attack, or someone pushing a bad update to the network, the first executive problem is the same: figuring out whether it’s material." With each technical team pointing fingers at each other, observability becomes the single source of truth that organizations need to identify root cause, accelerate resolution, and improve reliability. Yet in many enterprises, it’s not having the desired impact. The long-established data foundation of metrics, events, logs, and traces (MELT) can’t by itself keep pace with the complexity and scale of today’s digital infrastructure. Organizations have defaulted to gathering more data, increasing sampling, and extending retention. But they’re not getting better insight. “Executives who would expect to have a lot of data in front of them with which to make a decision don't always find that that data is as conclusive
+
+### The more Americans hear about datacenters, the less they like them
+Wed, 23 Sep 2026 16:01:04 +0200 — https://www.theregister.com/on-prem/2026/09/23/the-more-americans-hear-about-datacenters-the-less-they-like-them/5298588
+
+Americans are growing more and more wary of datacenters, with a Pew Research Center survey finding sharp rises since January in those who view the effect on the environment, energy bills, and nearby communities negatively. Pew surveyed 10,548 US adults between July 20 and August 9. Fifty-four percent said datacenters were mostly bad for the environment, up from 39 percent in January. Half said they were mostly bad for household energy costs, up from 38 percent, while 49 percent viewed them negatively for the quality of life of nearby residents, up from 30 percent. In each category, only 4 percent described their impact as mostly good. Views were more evenly divided on local employment and tax revenue, while 12 percent of respondents said they had not heard of datacenters. The shift spans demographic groups: men and women, adults of every age and education level, and urban, suburban, and rural residents have all grown more negative since the start of the year. The movement also crosses party lines. Democrats and Democratic-leaning independents remain more negative than Republicans and Republican leaners, but among the latter group, 42 percent now say datacenters are mostly bad for nearby residents' quality of life, up from 24 percent in January. The research comes amid growing scrutiny of datacenters' electricity and water consumption and their effects on household utility bills. The Register has reported on US senators investigating rising energy bills, gaps in operators' dis
+
+### A 1980s PDP-11 is still running Unix – and now you can watch
+Wed, 23 Sep 2026 14:40:00 +0200 — https://www.theregister.com/offbeat/2026/09/23/a-1980s-pdp-11-is-still-running-unix-and-now-you-can-watch-1/5298072
+
+Fresh from releasing TMOG, his take on a cross-platform Task Manager upgrade, former Microsoft engineer Dave Plummer has put his PDP-11 on the web. The PDP-11 is a family of minicomputers from Digital Equipment Corporation that became a fixture of computing labs and early Unix history. Plummer's machine is real 1980s hardware, still running a Unix-derived operating system. The website displays the machine's running processes, refreshing the list every few seconds. Think Task Manager for an old Unix box: ps lists what is running, while top keeps that view up to date. Visitors can't issue commands themselves, but they can watch the hardware at work. Plummer explained: "My love for all things Task Manager was born when I was a kid in the 80s, tinkering with the PDP-11/40 at the local university. Ever since I was a kid I was fascinated with multiuser systems, playing with ps and top to get a sense of the machine and what was happening on it. "And since 'top' is where it all started for me, when I came full circle with TMOG, I wanted a tie-in back to my old PDP-11. Ps is the simple process list. Top is an automatically refreshing screen of that process list and a few other stats thrown together." A few years ago, Plummer tried to get an AI to write a version of top for 2.11BSD, the operating system running on his machine. At the time, he said, "it wasn't yet ready or able." "Today it was, and it cranked out a top implementation for me quickly in C, about 400 lines of code." The si
+
+### British regulator takes a hard look at Pornhub's Apple-powered age checks
+Wed, 23 Sep 2026 13:53:37 +0200 — https://www.theregister.com/security/2026/09/23/british-regulator-takes-a-hard-look-at-pornhubs-apple-powered-age-checks/5298558
+
+Ofcom has opened an investigation into whether Pornhub's Apple-based age checks are effective enough to keep children away from its adult content. The investigation will examine whether Pornhub owner Aylo complied with age assurance duties that came into force under the Online Safety Act (OSA) in July 2025. Pornhub introduced a new age assurance process for some UK users in May 2026, relying on signals supplied by Apple. The signals indicate that an iOS user may have completed Apple's age checks. Ofcom stressed that its investigation concerns how Aylo implemented and tested the resulting process, not how Apple operates its system. Aylo restricted Pornhub to new UK users on February 2 after arguing that the OSA had diverted visitors toward less regulated sites rather than protecting children. Existing users who had already verified their age retained access. The decision followed a steep decline in traffic: Pornhub's UK visits fell 47 percent shortly after the rules took effect and were reportedly down 77 percent by October. In May, Aylo partially reversed the restriction for eligible UK users who had confirmed their age through Apple. New users on Android, PCs, and other platforms remain locked out. The Register contacted Aylo for comment. "Online age checks are a vital protection to prevent children from encountering inappropriate or harmful material, including pornography," said George Lusty, director of enforcement at Ofcom. "We expect tech firms to ensure age checks are h
+
+### Southern Water taps fiber network to sniff out leaky pipes
+Wed, 23 Sep 2026 13:29:00 +0200 — https://www.theregister.com/networks/2026/09/23/southern-water-taps-fiber-network-to-sniff-out-leaky-pipes/5298527
+
+UK utility provider Southern Water is turning fiber-optic telecoms cables into underground sensors in an effort to find leaks in its water network. The privatized biz is trialing tech from Lightsonic that uses Openreach's fiber network to detect leaking pipes. Openreach - BT's infrastructure arm - and Affinity Water, which supplies parts of southern England, tested the system in March. As The Register reported at the time, the system analyzes tiny changes in light traveling through fiber-optic cables to detect vibrations caused by nearby underground leaks. Machine learning helps distinguish those signals from traffic, roadworks and other background noise, and estimates where the water is escaping. Lightsonic says the resulting location data allows engineers to investigate and repair leaks more quickly. It claims the tech is already preventing the loss of more than four million liters (about a million gallons) of water per day across 650 km (400 miles) of the UK's water network. Southern Water is adopting the technology after one of Britain's hottest and driest summers on record, with almost three-quarters of England officially under drought conditions. Southern England is among the country's most water-stressed regions. The utility said Lightsonic's work with Affinity Water and Openreach influenced its decision to run the trial. Southern Water hopes the trial will help it meet Ofwat's leakage-reduction targets for 2030 and strengthen its drought resilience by easing pressure 
+
+### Swedish celebs campaign for public rudeness ... to prevent cyber scams
+Wed, 23 Sep 2026 12:45:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/23/swedish-celebs-campaign-for-public-rudeness-to-prevent-cyber-scams-1/5298333
+
+Swedish celebrities will front a national campaign encouraging the public to exercise their rudeness in an effort to drive down rates of cyber scams. According to Polisen, Sweden’s police authority, the country’s cybercriminals profited 5.7 billion SEK ($579.9 million USD) in 2025 alone, and their scams are especially successful when targeting the elderly. “The message is simple: Dare to be rude – it could save you from being scammed,” said the Polisen this week, announcing a relaunch of the campaign with four new faces. Actors Suzanne Reuter, Lennart Jähkel, and Christina Schollin are joined by journalist Claes Elfsberg in the public awareness campaign, which will run through October 11 across print media, social media, and television. “I am part of the police campaign because it is a terrible crime that affects so many people,” said Reuter. “If I can use my voice to help someone not to be scammed, then I want to do it. “Many of us are raised to always be polite and accommodating, and there are many in my generation. But today you have to dare to be a little more questioning. It's not rude – it's self-protection.” Polisen’s national operations leader, Robert Öhman, said fraudsters are skilled social engineers, adept at building trust simultaneously with a sense of stress or urgency. His aim for the campaign is to encourage the public to feel more comfortable with simply hanging up the phone if they feel something might be awry. Telephone-based scams are by far the most commo
+
+### Whisky merchant Master of Malt confirms customer data spilt
+Wed, 23 Sep 2026 12:00:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/23/whisky-merchant-master-of-malt-confirms-customer-data-spilt/5298377
+
+Hackers have raided Master of Malt's customer database after a compromised ecommerce app gave them four days to help themselves to names, addresses, phone numbers, and email addresses. The online booze retailer began notifying customers this week after learning that Ribon, an app connected to its BigCommerce store, had been compromised. According to an email sent to customers, seen by The Register, attackers got hold of a BigCommerce application key held by Ribon and used it to access customer data between September 13 and 17. "I'm sorry to say that the attackers had access to your name, email address, phone number, and address," Master of Malt founder Justin Petszaft told customers. Passwords, credit card details, and other payment information escaped the raid, with Master of Malt saying they are stored in a separate system that was not compromised. Ribon is owned, managed, and operated by Be A Part Of, which Master of Malt says describes itself as a Fastr brand, a corporate family tree best tackled before the whisky. Master of Malt said BigCommerce alerted it to the incident, telling the retailer that Ribon had been hacked. According to the notification, the attackers compromised an application key held by Ribon and were then able to use it to gain access to customer data. Master of Malt said BigCommerce's security team uninstalled the affected app the same day and "assured us there is no ongoing compromise and no further customer data can be accessed." The Register has ask
+
+### BT Tower's rooftop pool plan brings swimmers back down to earth
+Wed, 23 Sep 2026 11:15:00 +0200 — https://www.theregister.com/offbeat/2026/09/23/bt-towers-rooftop-pool-plan-brings-swimmers-back-down-to-earth/5298365
+
+London's iconic BT Tower is set to get a rooftop swimming pool in plans submitted by the developer, but it may not be quite the view that readers expect. MCR Hotels has submitted its planning application to Camden Council more than two years after BT agreed to sell the Fitzrovia landmark for £275 million ($346 million at the time). The proposal covers the Grade II-listed tower and the lower buildings around its base, with plans for a new public square, shops, restaurants, and a rooftop pool. When The Register reported the pool plans earlier this year, we imagined an infinity edge high up the 177 m tower and a swim with a vertigo-inducing view. The developer's images bring us back down to earth: bathers would look up at the tower from the adjoining rooftop. MCR says the public would be able to use the pool. Those hoping for the view from the top needn't despair. MCR also plans to reopen the tower's upper floors to the public for the first time in decades. The application follows two rounds of public consultation, during which the project team spoke to more than 300 attendees and received feedback that has helped to shape the proposals. "Our vision has always been to honour the BT Tower's remarkable history while reimagining its future. Submitting our planning application is an exciting step towards reopening this landmark after almost 50 years, revitalising the area with new jobs and open space for Camden," said MCR chairman and CEO Tyler Morse. Originally known as the Post Of
+
+### UK’s uncrewed experimental sub shows it can fire torpedoes
+Wed, 23 Sep 2026 10:30:00 +0200 — https://www.theregister.com/offbeat/2026/09/23/uks-uncrewed-experimental-sub-shows-it-can-fire-torpedoes/5298308
+
+A British uncrewed submarine has test-fired a torpedo for the first time, demonstrating the ability of undersea drones to attack targets as well as perform reconnaissance and surveillance roles. The XV Excalibur, a 12 meter (40 ft) experimental uncrewed underwater vehicle (UUV), was unveiled last year as the Royal Navy’s first large submarine drone as part of Project CETUS. According to the Prime Minister's Office, the test firing was part of the AUKUS program, a trilateral security partnership between Australia, the UK and America. It involved the Excalibur launching a heavyweight torpedo “jointly developed by the US and Australia,” which implies it was the Mk 48 torpedo currently carried by all US Navy submarines. Also according to Downing Street, this was the first time either the US or UK has launched a torpedo from an underwater drone, rather than a crewed submarine. The Register understands that Excalibur navigated autonomously to its launch position and carried out a pre-programmed launch sequence, but was not responsible for detecting or tracking the target, as target data was provided through external systems. As noted by defense site Navy Lookout, the Excalibur has no torpedo tubes, and its payload bay in the midships section of the hull is too small to accommodate a large torpedo, so it is possible the weapon was carried via some sort of cradle attached to the underside of the sub. We asked the Ministry of Defence for further details, and whether trials were also p
+
+### Why security belongs in the network
+Wed, 23 Sep 2026 10:00:00 +0200 — https://www.theregister.com/security/2026/09/23/sponsored-why-security-belongs-in-the-network/5296790
+
+Every attack leaves a trail across the network, from initial reconnaissance to lateral movement and data exfiltration. That makes the network one of an organization’s richest sources of security intelligence. But visibility is only half the story. Because the network connects every user, device, application, and workload, it is also the natural place to verify identity, apply consistent policy, and contain suspicious activity close to its source. The result is faster detection, stronger enforcement, and a smaller blast radius. So, what does it take to make security an integral part of the network, and where should organizations begin? What is integrated network security? Integrated network security takes security functions that traditionally sat outside the network and embeds them directly into the network fabric to simplify and sharpen protection in the enterprise. Routers, switches, and access points become cybersecurity defenders that identify and prevent threats rather than simply routing and filtering traffic. What challenges does enterprise security face today? Enterprises face a gap as the network perimeter dissolves. The assets that used to reside inside the headquarters LAN have scattered everywhere, from the cloud through to edge-based equipment and on-premises servers. Bolting more security tools onto your infrastructure to protect those assets isn't sustainable. License costs increase, tools overlap and sometimes conflict with each other, or they leave non-obvious
 
 ## Engadget
+
+### Disney+ and Hulu are getting even more expensive (again)
+Wed, 23 Sep 2026 17:41:29 +0000 — https://www.engadget.com/2266737/disney-and-hulu-are-getting-even-more-expensive-again/
+
+So I guess we're just doing this every year now.
+
+### Logitech's Yeti 2 brings the 17-year-old USB mic into the modern age
+Wed, 23 Sep 2026 16:01:00 +0000 — https://www.engadget.com/2265713/logitechs-yeti-2-brings-the-17-year-old-usb-mic-into-the-modern-age/
+
+In case you missed it, Logitech bough Blue, actually kind of a while ago!
+
+### Logitech just unveiled several new gaming accessories in its Pro line
+Wed, 23 Sep 2026 16:01:00 +0000 — https://www.engadget.com/2265768/logitech-just-unveiled-several-new-gaming-accessories-in-its-pro-line/
+
+For $60 it had better be a pretty incredible mouse pad.
+
+### Roland just released a Minions keyboard complete with playable gibberish sounds
+Wed, 23 Sep 2026 16:00:37 +0000 — https://www.engadget.com/2266564/roland-just-released-a-minions-keyboard-complete-with-playable-gibberish-sounds/
+
+That's pretty weird.
+
+### Meta Connect 2026 live: Updates from Mark Zuckerberg's keynote on AI glasses, VR and more
+Wed, 23 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2266105/meta-connect-2026-live-blog-ai-vr/
+
+More smart glasses and possibly a VR headset are expected today
 
 ### YouTube will soon let you generate custom feeds and use GIFs in comments
 Wed, 23 Sep 2026 14:59:02 +0000 — https://www.engadget.com/2266446/youtube-will-soon-let-you-generate-custom-feeds-and-use-gifs-in-comments/
@@ -279,90 +362,65 @@ Wed, 23 Sep 2026 11:00:00 +0000 — https://www.engadget.com/2262478/volkswagen-
 
 Pac-Man is doing sponcon... look how they've massacred my boy.
 
-### How to watch Meta unveil its new smart glasses at Connect 2026
-Wed, 23 Sep 2026 11:00:00 +0000 — https://www.engadget.com/2265769/how-to-watch-meta-connect-2026-unveil-new-smart-glasses/
-
-The company is expected to reveal its first-ever camera-free glasses.
-
-### The pros and cons of using a password manager over an authenticator app
-Wed, 23 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2264763/using-password-manager-instead-of-authenticator-app-pros-cons/
-
-There's no perfect solution, but different authentication methods can work better in some circumstances than others.
-
-### iOS 27: How to hide or replace the audio button in iMessages
-Tue, 22 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2264685/how-to-remove-voice-button-iphone-imessages-ios-27/
-
-The fact that the send button shares real estate with the record button can make dealing with iMessage aggravating.
-
-### Improve your Apple CarPlay experience by doing these simple things
-Tue, 22 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2264598/improve-apple-carplay-experience-doing-simple-things/
-
-CarPlay works well from the start, but you can enjoy a better driving experience by changing some options.
-
-### Riot is pulling voice chat from League of Legends 26.20
-Tue, 22 Sep 2026 22:45:50 +0000 — https://www.engadget.com/2266017/riot-is-pulling-voice-chat-from-league-of-legends-26-20/
-
-So close and yet so far...
-
 ## TechCrunch
+
+### Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
+Wed, 23 Sep 2026 19:31:28 +0000 — https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/
+
+The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.
+
+### Modal Motors is trying to cut China out of electric motors entirely
+Wed, 23 Sep 2026 19:05:00 +0000 — https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/
+
+The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.
+
+### Disney+ and Hulu add to the growing trend of streaming inflation
+Wed, 23 Sep 2026 18:06:27 +0000 — https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/
+
+At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.
+
+### The old cybersecurity model is breaking
+Wed, 23 Sep 2026 17:44:02 +0000 — https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/
+
+As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for an AI-native world. We’re even seeing companies like Instinct and Simile bring in nine-figure checks and valuations that wouldn t have made sense a [ ]
+
+### Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms
+Wed, 23 Sep 2026 17:28:38 +0000 — https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/
+
+The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.
+
+### ChatGPT mobile app gets voice-based agentic features
+Wed, 23 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/
+
+Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.
+
+### Even Americans who use AI every day are worried about it
+Wed, 23 Sep 2026 16:49:58 +0000 — https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/
+
+The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.
+
+### YouTube is making comments more fun — and fandom more lucrative for creators
+Wed, 23 Sep 2026 16:03:44 +0000 — https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/
+
+YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.
+
+### YouTube s conversational video editing tool lets creators make edits in natural language
+Wed, 23 Sep 2026 15:46:57 +0000 — https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/
+
+Creators will be able to use AI in a conversational chat interface to help them edit videos.
+
+### YouTube Music gets more conversational with new AI features
+Wed, 23 Sep 2026 15:19:30 +0000 — https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/
+
+Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.
 
 ### Eight Sleep s new Pod 6 comes in smaller and solo sizes, starting at $1,999
 Wed, 23 Sep 2026 14:45:00 +0000 — https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/
 
-Eight Sleep said the new pod is now 20% faster than the previous generation
+Eight Sleep said the new pod is 20% faster than the previous generation.
 
 ### YouTube releases new AI features for creators within its Studio app
 Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/
 
 YouTube is adding new features to generate ideas and monitor the performance of thumbnails.
-
-### YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts
-Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/
-
-As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announced “Shorts Series,” a new tool that lets creators organize their Shorts into TV-style seasons and episodes. The feature brings a more [ ]
-
-### YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing
-Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/
-
-Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.
-
-### StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital
-Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/
-
-StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.
-
-### YouTube will let you build your own algorithm with AI
-Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/
-
-ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.
-
-### YouTube doubles down on video shopping with AI-powered Ask YouTube feature
-Wed, 23 Sep 2026 14:30:00 +0000 — https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/
-
-YouTube's AI feature can now help you compare products as you shop.
-
-### Here s the trailer for Nathan Fielder s Elizabeth Holmes documentary, in theaters October 16
-Wed, 23 Sep 2026 14:21:41 +0000 — https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/
-
-In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.
-
-### 3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026
-Wed, 23 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/
-
-3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.
-
-### Spotify is giving you the keys to its recommendation algorithm with US launch of Taste Profile
-Wed, 23 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/
-
-Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.
-
-### LinkedIn adds new tools to fight fake profiles and bogus work histories
-Wed, 23 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/
-
-LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.
-
-### PitPro s first tire-changing robot goes live in Canada
-Wed, 23 Sep 2026 13:00:00 +0000 — https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/
-
-The startup says its automated system can change four tires in under 15 minutes.
 

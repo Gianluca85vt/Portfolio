@@ -1,6 +1,46 @@
-# Manga — harvested 2026-09-23T15:11:16.031Z
+# Manga — harvested 2026-09-23T19:48:35.824Z
 
 ## Anime News Network
+
+### Saga of Tanya the Evil Anime Gets Film Concert for 10th Anniversary
+Wed, 23 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/saga-of-tanya-the-evil-anime-gets-film-concert-for-10th-anniversary/.242111
+
+Film concert runs at Ota Civic Hall Aprico in Tokyo on March 20
+
+### Chiikawa Film Earns 15.84 Billion Yen; TV Anime Streams English Dub on YouTube on October 1
+Wed, 23 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/chiikawa-film-earns-15.84-billion-yen-tv-anime-streams-english-dub-on-youtube-on-october-1/.242099
+
+<cite>Chiikawa</cite> anime film is top movie in Japan for 2026
+
+### Beyond the Season Finale: 5 More Manga You Need to Continue Right Now
+Wed, 23 Sep 2026 13:33:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-23/beyond-the-season-finale-5-more-manga-you-need-to-continue-right-now/.240613
+
+Watch the anime, then rush to read these series to find out what happens next. Here are five more series you should continue reading in manga form!
+
+### From Old Country Bumpkin to Master Swordsman Anime Gets 3rd Season
+Wed, 23 Sep 2026 12:42:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/from-old-country-bumpkin-to-master-swordsman-anime-gets-3rd-season/.242109
+
+Anime's 2nd season ended on Wednesday
+
+### My Stepmom's Daughter Is My Ex Light Novel Series Ends With 14th Volume
+Wed, 23 Sep 2026 12:00:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/my-stepmom-daughter-is-my-ex-light-novel-series-ends-with-14th-volume/.242106
+
+Final volume ships on December 1
+
+### Akane-banashi Volumes 1-3 Manga Review
+Wed, 23 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/akane-banashi-volumes-1-3-manga/.241795
+
+Determined to vindicate her father after the humiliating end of his Rakugoka career, Akane Osaki descends into the world of rakugo herself, but will she fare any better?
+
+### Red River ‒ Episode 12
+Wed, 23 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-12/.242105
+
+This really does feel like the barest outline of the story, and by this point, it’s become clear that things tend to follow a distinct pattern.
+
+### hololive VTuber Agency's 1st TV Anime Project Reveals Title, Visual, Cast, Staff
+Wed, 23 Sep 2026 10:58:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/hololive-vtuber-agency-1st-tv-anime-project-reveals-title-visual-cast-staff/.242104
+
+Studio Kai's <cite>hololive: Let's Head Out!</cite> anime stars 29 hololive members
 
 ### One Piece (2026-) ‒ Episode 1179
 Wed, 23 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1179/.242096
@@ -22,51 +62,21 @@ Wed, 23 Sep 2026 07:27:29 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Mansaku Fuwa, Toshiki Ayata, Tamae Ando, Joe Odagiri, more return as cafeteria regulars in new series
 
-### The Best Anime of Summer 2026
-Wed, 23 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/summer/.242007
-
-These anime series weren't just the best of the season, a few are contenders for the best of the year.
-
-### BanG Dream! Our Notes Game Teases Lady Gaga Cover
-Tue, 22 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-22/bang-dream-our-notes-game-teases-lady-gaga-cover/.242080
-
-<i>BanG Dream!'s</i> Ave Mujica to perform Lady Gaga's 2025 single “Abracadabra”
-
-### Kura Sushi USA Rolls Out The Apothecary Diaries Collaboration
-Tue, 22 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-22/kura-sushi-usa-rolls-out-the-apothecary-diaries-collaboration/.242084
-
-Don't worry. It's not poison.
-
-### L.A.'s Animation is Film Fest Screens Cherry and Virgin, ghost – end of night
-Tue, 22 Sep 2026 21:41:46 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/l.a.s-animation-is-film-fest-screens-cherry-and-virgin-ghost-end-of-night/.242093
-
-October 16-19 festival also screens <cite>Vampire Hunter D: Bloodlust</cite>
-
-### Cyberpunk Edgerunners 2 Anime's New Video Teases Escape from Arasaka
-Tue, 22 Sep 2026 21:18:36 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/cyberpunk-edgerunners-2-anime-new-video-teases-escape-from-arasaka/.242094
-
-Anime debuts on Netflix on October 20
-
-### Persona 4 Revival Game Reveals English Cast for Supporting Characters
-Tue, 22 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/persona-4-revival-game-reveals-english-cast-for-supporting-characters/.242091
-
-Judy Alice Lee, Courtney Shaw, Ray Chase, Johnny Yong Bosch join cast of February 18 game
-
-### Manga Plus Adds KAKAKAKA, The Ura Files, Noisering, 1 More Title
-Tue, 22 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/manga-plus-adds-kakakaka-the-ura-files-noisering-1-more-title/.242092
-
-Also: <cite>Morino-san Just Won't Leave Me Be</cite>
-
-### Yu Hibari's Watashi de Dōtei Suteta Kuse ni Novels Get Manga
-Tue, 22 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-22/yu-hibari-watashi-de-dotei-suteta-kuse-ni-novels-get-manga/.242083
-
-Shūsei Kirisaki draws manga launching on September 29
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Ave Mujica Covers Lady Gaga Song "Abracadabra"
+Wed, 23 Sep 2026 15:33:38 GMT — https://animecorner.me/ave-mujica-covers-lady-gaga-song-abracadabra/
+
+Ave Mujica released a cover of the song "Abracadabra" by Lady Gaga on Thursday.&hellip;
+
+### From Old Country Bumpkin to Master Swordsman Season 3 Announced
+Wed, 23 Sep 2026 15:16:02 GMT — https://animecorner.me/from-old-country-bumpkin-to-master-swordsman-season-3-announced/
+
+From Old Country Bumpkin to Master Swordsman Season 3 anime was officially announced immediately after the second season.
 
 ### STEEL BALL RUN JoJo's Bizarre Adventure Opening Video Released, Theme Song by Kroi
 Wed, 23 Sep 2026 14:59:07 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-opening-video-released-theme-song-by-kroi/
@@ -118,12 +128,17 @@ Tue, 22 Sep 2026 13:51:05 GMT — https://animecorner.me/bang-dreams-millsage-co
 
 BanG Dream!’s millsage released a cover of "Stellar Stellar," a song originally sung by&hellip;
 
-### Grand Blue Season 4 Announced With Teaser Visual
-Mon, 21 Sep 2026 15:32:34 GMT — https://animecorner.me/grand-blue-season-4/
-
-Grand Blue Season 4 anime was officially announced immediately after the third season's finale finished airing in Japan.
-
 ## MyAnimeList News
+
+### Light Novel Mamahaha no Tsurego ga Motokano datta Ends with 14th Volume
+Wed, 23 Sep 2026 09:18:06 -0700 — https://myanimelist.net/news/74751890?_location=rss
+
+The official X account for Kyousuke Kamishiro and TakayaKi s Mamahaha no Tsurego ga Motokano datta (My Stepmom s Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...
+
+### Katainaka no Ossan, Kensei ni Naru Gets Third Season
+Wed, 23 Sep 2026 08:49:18 -0700 — https://myanimelist.net/news/74751799?_location=rss
+
+The 12th and final episode of Katainaka no Ossan, Kensei ni Naru II (From Old Country Bumpkin to Master Swordsman Season 2) ended with an announcement on Thursday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Passione and Hayabusa Film, the first season aired in 12 episodes in Spring 2025. The second season premiered on July 8. Amazon Prime streamed the anime worldwide with subtitles. The anime series adapts Shigeru Sagaza...
 
 ### Light Novel Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Concludes with 30th Volume
 Wed, 23 Sep 2026 06:54:27 -0700 — https://myanimelist.net/news/74751339?_location=rss
@@ -139,11 +154,6 @@ The special livestream presentation for the television anime series titled Odeka
 Wed, 23 Sep 2026 01:44:42 -0700 — https://myanimelist.net/news/74749858?_location=rss
 
 The official website of cinema staff announced on Wednesday that the four-member rock band will disband on September 12, 2027, following their final one-man live concert at Toyosu PIT in Tokyo. According to the statement, the band will conclude their regular activities after an event appearance at LIQUIDROOM on December 17, before holding their farewell performance in September 2027. The decision was made following discussions among the members and staff. Additionally, the band confirmed that th...
-
-### Grand Blue Fourth Season in Production
-Mon, 21 Sep 2026 08:39:14 -0700 — https://myanimelist.net/news/74743342?_location=rss
-
-The 12th and final episode of Grand Blue Season 3 (Grand Blue Dreaming Season 3) ended with an announcement on Tuesday that a fourth season is in production. The official website also revealed an announcement visual (pictured). Produced by Zero-G, the first season aired in 12 episodes in Summer 2018. The second season aired in Summer 2025. A third season produced by Zero-G and Saber Works premiered on July 7. Amazon Prime Video streamed the first season, with Crunchyroll simulcasted the second a...
 
 ## Otaku USA
 

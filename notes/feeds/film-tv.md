@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-23T15:11:16.031Z
+# Film & TV — harvested 2026-09-23T19:48:35.824Z
 
 ## Variety
 
-### Brace Your Heart Review: Tradition and Modernity Collide in an Impassioned Ode to Sámi Womanhood
-Wed, 23 Sep 2026 15:06:31 +0000 — https://variety.com/2026/film/reviews/brace-your-heart-review-1236873135/
+### Los Angeles Lakers Release Official Photo Book Chronicling Seven Decades of Purple-and-Gold History
+Wed, 23 Sep 2026 19:43:59 +0000 — https://variety.com/2026/shopping/news/los-angeles-lakers-photo-history-book-taschen-buy-online-1236873647/
 
-For those of us who only ever think about reindeer when December draws in, and even then in a fairly abstract sense, Brace Your Heart arrives as a flinty reality check. Following the life and trials of a young female reindeer herder in the present day, it s stripped of any fairytale essence, and doesn t stint [ ]
+The Los Angeles Lakers are putting nearly eight decades of basketball history on the coffee table. The franchise has teamed with luxury art-book publisher Taschen for Lakers: An Official History of the Purple Gold, a 528-page authorized history spanning the team’s beginnings in Minneapolis through the Showtime era, its turn-of-the-millennium three-peat and its most [ ]
 
-### Disney+ Raises Prices Again, the Fourth Hike in Four Years
-Wed, 23 Sep 2026 15:05:19 +0000 — https://variety.com/2026/tv/news/disney-plus-price-increase-2026-1236873281/
+### Les Misérables Review: A Starry, Lavishly Empty, French-Language Version of Victor Hugo s Epic
+Wed, 23 Sep 2026 19:42:11 +0000 — https://variety.com/2026/film/reviews/les-miserables-review-1236871999/
 
-The streamflation trend continues: Disney is once again asking Disney+ subscribers to pay even more for the streaming service. Disney+ Premium, the plan with without ads, is increasing from $18.99 to $21.49/month, effective Wednesday (Sept. 23) for new subscribers, per a Bloomberg report. Existing customers will see the new pricing on their next monthly bill. [ ]
+Nobody sings in the latest adaptation of Victor Hugo s 1462-page cinder-block classic, but the absence of rousing musical numbers does not mean that Fred Cavayé s Les Misérables is going for gritty realism. The 179-minute film, enjoying a reported $37m budget and a host of Big French Stars trapped in starchily archetypal Big French Roles, spackles [ ]
 
-### Netflix Orders Two New Seasons of Chef s Table, Devoted to Desserts and Icons (EXCLUSIVE)
-Wed, 23 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/netflix-two-new-seasons-chefs-table-desserts-icons-1236872698/
+### Hayley Williams Speaks Out on Death of Ex-Husband Chad Gilbert: Have Not Known If It s Appropriate to Comment, but I Will Forever Be Grateful
+Wed, 23 Sep 2026 19:40:00 +0000 — https://variety.com/2026/music/news/hayley-williams-pays-tribute-chad-gilbert-ex-husband-1236873617/
 
-Netflix has picked up two new standalone seasons of its long-running food series “Chef s Table.” The streamer is set to unroll “Chef s Table: Icons” and “Chef s Table: Desserts,” and for the first time, creator David Gelb is also directing every episode of both seasons himself. It s the first time he s directed an entire run of [ ]
+Hayley Williams has spoken out about the death of her former husband, New Found Glory guitarist Chad Gilbert, who died Sunday. In a social media tribute post, the Paramore singer admitted she put a pause on commenting for a few days because she had not known what to say or if it s appropriate, given their [ ]
 
-### Star Trek New York Comic-Con Panel to Feature William Shatner, Starfleet Academy Season 2 Stars (EXCLUSIVE)
-Wed, 23 Sep 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/star-trek-nycc-william-shatner-starfleet-academy-season-2-1236873226/
+### No, Those Dior x A24 Shirts Aren t Going on Sale
+Wed, 23 Sep 2026 19:32:04 +0000 — https://variety.com/2026/shopping/news/dior-a24-shirt-robert-pattinson-sabrina-carpenter-buy-1236870529/
 
-The Star Trek panel at New York Comic-Con will feature a special conversation with franchise legend William Shatner, Variety has learned exclusively. Shatner s appearance comes as Star Trek is celebrating its 60th anniversary this year. He famously played Capt. James T. Kirk in Star Trek: TOS for three seasons as well as Star Trek: The [ ]
+Have you noticed every indie darling is wearing the same shirt these days? Everyone from Robert Pattinson and Drew Starkey to Anya Taylor-Joy and Mia Goth has been spotted in light pink, navy and forest green T-shirts emblazoned with the Dior and A24 logos coveted merch from the luxury fashion house and indie film [ ]
 
-### YouTube Locks Down Coachella Rights Through 2030 as it Unveils New Microdrama-Inspired Experience for Shorts, AI-Powered Tools for Music and Studio and More
-Wed, 23 Sep 2026 14:30:04 +0000 — https://variety.com/2026/biz/news/youtube-coachella-2030-made-on-youtube-1236872595/
+### Juan Sebastián Mesa, Tatiana Huezo, Felipe Solari Yrigoyen Triumph at San Sebastián Industry Awards
+Wed, 23 Sep 2026 19:22:52 +0000 — https://variety.com/2026/global/global/san-sebastian-industry-juan-sebastian-mesa-tatiana-huezo-1236873619/
 
-YouTube s staying in the Coachella desert for a few more years. The streamer will remain the exclusive free streaming home of Coachella through 2030, continuing its nearly 15-year partnership with the festival’s parent company Goldenvoice. The extension comes nearly six months after YouTube broadcast the Sabrina Carpenter, Justin Bieber, and Karol G-led edition of the [ ]
+Colombia’s Juan Sebastián Mesa and Tatiana Huezo, two leading lights on the Latin American film scene, won San Sebastián’s Industry Awards in the festival’s WIP Latam. Top plaudits at the San Sebastián Co-Production Forum served by contrast to highlight first or second time directors, though two are already fast emerging auteurs. The caliber of production [ ]
 
-### Bad Brains’ Earliest Studio Recordings to Be Released in November
-Wed, 23 Sep 2026 14:03:34 +0000 — https://variety.com/2026/music/news/bad-brains-earliest-studio-recordings-1236873206/
+### Rachel Zegler, Aaron Sorkin, Bradley Whitford, Diego Rodriguez Announced as Speakers at Variety’s Business of Broadway Breakfast
+Wed, 23 Sep 2026 19:01:56 +0000 — https://variety.com/2026/biz/news/rachel-zegler-aaron-sorkin-business-of-broadway-1236873532/
 
-As anyone reading this probably knows, the Bad Brains were one of the most important punk-rock bands of all time, Washington D.C.-bred pioneers of the sound that became hardcore. While they were a complete anomaly at the time — four Black dudes in an overwhelmingly white music scene who seasoned their blistering rock songs with [ ]
+Variety has announced programming for its annual Business of Broadway Breakfast, presented by City National Bank. The program, on Oct. 5 in New York City, will feature Rachel Zegler, Aaron Sorkin, Bradley Whitford and Diego Rodriguez. The event will be hosted by actor Tom Felton (“Harry Potter and the Cursed Child”), who is reprising his [ ]
 
-### Trump Rages at CNN s Kaitlan Collins in Midnight Rant: She Has Trump Addiction
-Wed, 23 Sep 2026 13:51:20 +0000 — https://variety.com/2026/tv/news/trump-cnn-kaitlan-collins-rant-trump-addiction-1236873191/
+### Dick Guttman, Renowned Hollywood Publicist to Stars Including Barbra Streisand, Jay Leno and Clint Eastwood, Dies at 93
+Wed, 23 Sep 2026 18:29:29 +0000 — https://variety.com/2026/film/news/dick-guttman-dead-publicist-barbra-streisand-clint-eastwood-1236873564/
 
-President Donald Trump on Tuesday night was still extremely irate that CNN s Kaitlan Collins tried to ask him a question at the United Nations after he had banned CNN (and MS NOW and Politico) from White House coverage. In a post on his Truth Social platform just before midnight Tuesday, Trump accused the CNN [ ]
+Dick Guttman, the longtime Hollywood publicity executive and screenwriter who worked with clients including Barbra Streisand, Clint Eastwood and Jay Leno, died Sept. 19 in Los Altos, Calif. He was 93. Over his many decades in publicity at Rogers Cowan and his own firms Guttman and Pam and Guttman Associates, he represented Hollywood notables [ ]
 
-### Avengers: Endgame Encore Could Top Box Office, Brad Pitt s Heart of the Beast and Robert Pattinson s Primetime Vie for No. 3
-Wed, 23 Sep 2026 13:50:48 +0000 — https://variety.com/2026/film/box-office/avengers-endgame-box-office-rerelease-projections-resident-evil-primetime-1236872333/
+### CNN Chief Says He s Enthusiastic About Staying Under Paramount, but Not Sure He Can
+Wed, 23 Sep 2026 17:59:58 +0000 — https://variety.com/2026/tv/news/cnn-chief-enthusiastic-staying-paramount-but-not-sure-1236873560/
 
-In a blast from the past, Avengers: Endgame might actually wind up as No. 1 at the domestic box office in 2026. Disney is bringing the Marvel juggernaut back to the big screen ahead of Avengers: Doomsday, which opens in December. The 2019 superhero adventure is tracking to collect $25 million to $28 million over [ ]
+CNN s top executive told staffers Wednesday that he wants to stay at the news giant, but has little knowledge of what the outlet s soon-to-be new corporate parent has in store. I am enthusiastic about staying, CNN CEO Mark Thompson told employees during a town hall meeting, according to two people with knowledge of his remarks. [ ]
 
-### Production Surge in Spain Confirmed by Olsberg SPI Study, but Headwinds Approach
-Wed, 23 Sep 2026 13:45:08 +0000 — https://variety.com/2026/film/global/spain-production-spend-2025-6-6-billion-olsberg-spi-study-1236872765/
+### Jeffrey Katzenberg Says Hollywood Must Accept AI as a Tool: It ‘Is Not Going Away’
+Wed, 23 Sep 2026 17:49:23 +0000 — https://variety.com/2026/biz/news/jeffrey-katzenberg-hollywood-must-accept-not-going-away-1236873535/
 
-Spain’s audiovisual sector is continuing to expand, with production spend expected to reach €5.68 billion ($6.6 billion) in 2025, up 45% from 2022, according to a new study by U.K.-based consultancy Olsberg SPI, commissioned by the Spain Film Commission. At a presentation held at the San Sebastian Festival, Kayleigh Hughes of Olsberg SPI said the [ ]
+Jeffrey Katzenberg, the legendary Hollywood producer and executive, thinks the entertainment industry needs to accept AI if it wants to remain relevant. In a 2,377-word essay posted to X on Wednesday, Katzenberg leaned on his history working through the industry’s various technological changes. He implored his fellow creatives to acknowledge AI as a tool similar [ ]
 
-### Kerry Washington Expands Street You Grew Up On Interview Series Into Weekly Ongoing Podcast From Her Simpson Street Production Company and Daylight
-Wed, 23 Sep 2026 13:30:00 +0000 — https://variety.com/2026/digital/news/kerry-washington-street-you-grew-up-podcast-weekly-1236867010/
+### Man on the Inside to End With Season 3 at Netflix
+Wed, 23 Sep 2026 17:30:00 +0000 — https://variety.com/2026/tv/news/man-on-the-inside-final-season-3-netflix-1236873426/
 
-Kerry Washington is turning her Street You Grew Up On interview show, which she has run in four discrete seasons over the last several years, into an ongoing weekly podcast. The actress, producer and director, best known for her role on ABC s Scandal, first launched the show as a digital series in 2021 during the [ ]
+A Man on the Inside will end with Season 3 at Netflix, which is now in production. The critically-acclaimed comedy was renewed for a third season back in March, with Season 2 having debuted in January. The series is shooting its third season in San Francisco, CA. “This series began with a retiree taking a [ ]
 
 ## The Hollywood Reporter
 
-### YouTube Extends Deal to Stream Coachella Through 2030
-Wed, 23 Sep 2026 14:33:56 +0000 — https://www.hollywoodreporter.com/business/digital/coachella-youtube-deal-2030-1236708276/
+### ‘Conclave’ Director Edward Berger, Matthew Libatique Set for Evolution Mallorca Film Fest Tributes
+Wed, 23 Sep 2026 19:44:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/conclave-director-edward-berger-evolution-mallorca-film-fest-1236708714/
 
-The streaming platform will mark 15 years of streaming the music festival in 2027.
+German actress Iris Berben will also receive the inaugural Evolution Icon Award at the Oct. 28 to Nov. 4 event, with actor and producer Marc Clotet heading up the jury.
 
-### Taylor Swift Announces Encore Edition of Life of a Showgirl With Four New Songs
-Wed, 23 Sep 2026 14:11:17 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-life-of-a-showgirl-the-encore-4-new-songs-1236708341/
+### Dick Guttman, Veteran Hollywood Publicist, Dies at 93
+Wed, 23 Sep 2026 19:42:36 +0000 — https://www.hollywoodreporter.com/business/business-news/dick-guttman-dead-hollywood-publicist-1236708718/
 
-The previously announced "Patient Zero" is joined by "Cleveland!," "Pink Clouding" and "Babylon" on the deluxe version of her 2025 album set to be released on Friday.
+His clients included Audrey Hepburn, William Holden, Barbra Streisand, Paul Newman, Elizabeth Taylor, Clint Eastwood, Gene Hackman and William Shatner.
 
-### Variations on Violence Wins Best Film at Oldenburg
-Wed, 23 Sep 2026 13:42:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/variations-on-violence-best-film-2026-oldenburg-1236708307/
+### Winston Duke, Marianne Jean-Baptiste, Wendell Pierce Starring in Delroy Lindo s Directorial Debut Jabari s People (Exclusive)
+Wed, 23 Sep 2026 19:31:42 +0000 — https://www.hollywoodreporter.com/movies/movie-news/winston-duke-marianne-jean-baptiste-delroy-lindow-movie-1236708629/
 
-The Zachary Nichols' film won the German Independence Award for best film at the fest.
+Rising actor Seyi Andes-Pelumi is also starring in the intergenerational family drama that Lindo has described as filled with "pinch me moments."
 
-### Nathan Fielder s Elizabeth Holmes Doc Drops Full Trailer — and You Will Want to See Everything
-Wed, 23 Sep 2026 13:37:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nathan-fielder-elizabeth-holmes-documentary-trailer-1236708309/
+### ‘A Thousand Blows,’ ‘Man vs. Baby,’ ‘Careme’ Among 2026 International Emmy Nominees
+Wed, 23 Sep 2026 19:16:22 +0000 — https://www.hollywoodreporter.com/tv/tv-news/2026-international-emmy-nominees-1236708664/
 
-The truth is (probably) out there.
+In all, 22 countries are represented among this year's nominees unveiled by the International Academy of Television Arts Sciences ahead of a Nov. 23 ceremony in New York City.
 
-### Digger : Tom Cruise s Brave Gorgeous Misfire Gets Very Mixed First Reactions
-Wed, 23 Sep 2026 13:26:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/digger-reviews-tom-cruise-1236708297/
+### How a Shelved The Glass Hotel Adaptation Helped Emily St. John Mandel Write Her New Novel
+Wed, 23 Sep 2026 19:12:53 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/emily-st-john-mandel-new-novel-glass-hotel-adaptation-1236708101/
 
-Alejandro G. Iñárritu's eco-epic is getting strong responses from early press screenings, which praise Cruise and the film's boldness, yet predict mainstream audience backlash: "I expect a HORRENDOUS CinemaScore."
+The author discusses 'Exit Party,' the latest status of her various page-to-screen adaptations, and what it's like engaging with the "dehumanizing" sides of Hollywood.
 
-### Meet One of the Key Republicans Championing a Federal Film and TV Tax Credit
-Wed, 23 Sep 2026 13:25:00 +0000 — https://www.hollywoodreporter.com/news/politics-news/brian-jack-federal-film-tv-tax-credit-1236707858/
+### Ted Lasso Emotionally Charged Episode Brings a Return to Form for Series
+Wed, 23 Sep 2026 19:08:55 +0000 — https://www.hollywoodreporter.com/tv/tv-features/ted-lasso-season-four-episode-eight-recap-1236708579/
 
-Georgia U.S. Rep. Brian Jack, a former political advisor to President Trump, presides over a production-heavy district including Trilith Studios and is a movie props collector.
+Between Gemma's injury, Alice's breakdown and Roy's confession, episode 8 gives Season 4 the emotional gut-punch it's been missing.
 
-### Broadcast TV Bounces Back: More Orders as Network Fare Drives Streaming Ratings
-Wed, 23 Sep 2026 13:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/broadcast-tv-orders-streaming-ratings-1236707741/
+### Krux Review: An Extremely Bleak, Strikingly Realized Chronicle of a German Village at the End of World War II
+Wed, 23 Sep 2026 18:59:07 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/krux-review-tony-vahl-world-war-ii-germany-1236708260/
 
-An uptick in the number of scripted series and recognition of the strengths of the broadcast model is fueling optimism for the 2026-27 season.
+German writer-director Tony Vahl's debut feature, set in a remote northeastern town while the Nazi regime crumbles, premiered in Toronto before playing in competition at San Sebastian.
 
-### Cineplex Puts Up For Sale Sign as It Names New CEO
-Wed, 23 Sep 2026 12:41:57 +0000 — https://www.hollywoodreporter.com/business/business-news/cineplex-for-sale-sign-new-ceo-1236708288/
+### Phylicia Rashad Tapped to Direct Adaptation of August Wilson’s Fences at Mark Taper Forum
+Wed, 23 Sep 2026 18:56:20 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/phylicia-rashad-august-wilson-fences-ctg-mark-taper-forum-1236708588/
 
-A “review of strategic alternatives” for the Canadian exhibition giant led by Goldman Sachs and TD Securities has started.
+The production will be mounted at the Center Theatre Group venue from May 26-July 3, 2027.
 
-### Jesse Eisenberg Used to Have a Negative Opinion of Acting: They Pay Us Too Much, We re Vain
-Wed, 23 Sep 2026 12:21:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-debut-san-sebastian-social-reckoning-film-1236708271/
+### Bleecker Street Sets Tender Loving Care Awards Categories: Widow s Bay Breakout Kate O Flynn Going Supporting (Exclusive)
+Wed, 23 Sep 2026 18:37:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tender-loving-care-awards-categories-1236707394/
 
-Everything changed when he saw Julianne Moore rehearsing for a scene in his directorial debut 'When You Finish Saving the World': "I remember looking at [the monitor], and I go, 'Oh, wait a second, that's really hard.'"
+Meanwhile, Marion Bailey will pushed for best actress and Alice Bailey Johnson will be pushed for best supporting actress.
 
-### Brad Pitt Says Indie Cinema Feels as Strong as in the 90s
-Wed, 23 Sep 2026 11:08:15 +0000 — https://www.hollywoodreporter.com/movies/movie-news/brad-pitt-san-sebastian-film-festival-heart-of-the-beast-1236708258/
+### Sports Creator Kinsey Wolanski Signs With CAA (Exclusive)
+Wed, 23 Sep 2026 18:36:50 +0000 — https://www.hollywoodreporter.com/business/business-news/sports-creator-kinsey-wolanski-caa-1236708312/
 
-The Hollywood star has hit the San Sebastian Film Festival ahead of the premiere of David Ayer's 'Heart of the Beast.'
+The influencer with 7 million social media followers co-hosts the YouTube NFL debate series 'Gridiron' and the digital series 'Unfiltered.'
 
 ## Deadline
 
-### POTUS Again Lashes Out At Kaitlan Collins And Rants At Judge Who Will Decide Fate Of CNN, Politico and MS NOW Ban
-Wed, 23 Sep 2026 15:04:09 +0000 — https://deadline.com/2026/09/trump-kaitlan-collins-cnn-ban-1237111222/
+### Jalen Brunson Has One Key Problem In New SNL Promo
+Wed, 23 Sep 2026 19:26:42 +0000 — https://deadline.com/2026/09/jalen-brunson-snl-promo-1237111668/
 
-Donald Trump again lashed out at CNN s Kaitlan Collins, just as the Justice Department is defending the president s ban on the network, MS NOW and Politico from the White House. Late on Tuesday, on Truth Social, Trump wrote, All of the SLEAZEBAGS, like Third Rate Reporter, Kaitlan Collins, of Fake News CNN, a truly unhappy [ ]
+Winning his first NBA Championship has opened a lot of doors for Finals MVP Jalen Brunson, including to his first hosting stint on Saturday Night Live this weekend. But there s one door that s still giving him problems: the one leading to Studio 8H. In this week s show promo, the New York Knicks captain tries the [ ]
 
-### Celebrity Sequence Game Show Based On Board Game In Works From Chopped Creators
-Wed, 23 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/celebrity-sequence-game-show-tv-development-chopped-creator-1237110805/
+### Olivia Wilde s A24 Relationship Dramedy The Invite Sets HBO Max Premiere Date
+Wed, 23 Sep 2026 19:23:32 +0000 — https://deadline.com/2026/09/the-invite-streaming-premiere-date-hbo-max-1237111720/
 
-Cleve Keller and Dave Noll, the format creators behind Chopped, America Says and Flip Side, are bringing a new game show format to the small screen. The duo are teaming with Goliath and Perfect Game on Celebrity Sequence, based on Goliath s global hit board game Sequence. The series, which is in development, reimagines Goliath’s Sequence [ ]
+A24 has locked in plans for the next phase of The Invite s release. The relationship dramedy directed by Olivia Wilde will begin streaming exclusively on HBO Max October 23, debuting on HBO linear at 8:00 p.m. ET on October 24. An English-language remake of the 2020 Spanish film The People Upstairs (Sentimental) by Cesc Gay, [ ]
 
-### ‘Closure’ Trailer: In Oscar-Contending Documentary, A Desperate Father Searches For His Missing Son
-Wed, 23 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/closure-trailer-exclusive-1237111054/
+### Dick Guttman Dies: Longtime Hollywood Publicist To Such Stars As Barbra Streisand, Clint Eastwood, Paul Newman, Gary Cooper And Many More Was 93
+Wed, 23 Sep 2026 19:17:26 +0000 — https://deadline.com/2026/09/dick-guttman-dead-1237111640/
 
-EXCLUSIVE: 1-2 Special is releasing a trailer for Closure, the award-winning documentary that has emerged as a strong contender for Oscar consideration. Michał Marczak directed the film that follows a father, Daniel Dymiński, on a relentless search for his missing teenage son Chris, who was last seen on a bridge over the Vistula River in [ ]
+Dick Guttman, the longtime Hollywood publicist whose impressive client roster over the years included Barbra Streisand, Clint Eastwood, Paul Newman, Gary Cooper, Audrey Hepburn, Tony Curtis, Milton Berle, Greer Garson, Simone Signoret, Carroll Baker, Candice Bergen, Peter Ustinov, Tony Randall, Dick Powell, Natalie Wood, William Holden, William Shatner, James Mason and Rex Harrison, died Saturday, [ ]
 
-### Eric Roberts Rom-Com Reimaginings Of Pride Prejudice , Wuthering Heights , Sherlock To Premiere At America s First Microdrama Festival
-Wed, 23 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/alza-microdrama-festival-eric-roberts-pride-prejudice-1237111139/
+### Paramount Eyes Elon Musk For Investment As WBD Deal Nears Finish Line – Report
+Wed, 23 Sep 2026 19:14:59 +0000 — https://deadline.com/2026/09/david-ellison-paramount-elon-musk-investment-warner-merger-1237111566/
 
-An Eric Roberts-starring rom-com and reimaginings of Pride and Prejudice, Wuthering Heights and Sherlock Holmes are set to open America s first microdrama festival next month. Alza Festival, which is run by vets of Tribeca and TikTok, kicks off its first edition with a wealth of content from the buzzy new medium including Former Prodigy Media s [ ]
+Paramount executives have discussed seeking an equity investment from Elon Musk as they prepare to close the acquisition of Warner. Bros. Discovery, according to a Semafor report today. Larry Ellison had personally committed to backstop over $40 billion in equity financing for the mega-deal to get Warner to agree to sell itself to Paramount. A [ ]
 
-### Mikel Gurrea’s ‘Saints’ Lands Distribution Deals Ahead Of San Sebastián Competition Debut — First Look Trailer
-Wed, 23 Sep 2026 14:49:37 +0000 — https://deadline.com/2026/09/mikel-gurrea-saints-san-sebastian-trailer-1237111234/
+### CNN CEO Mark Thompson Addresses Donald Trump s White House Ban, Pending Paramount Merger In Town Hall
+Wed, 23 Sep 2026 19:14:45 +0000 — https://deadline.com/2026/09/mark-thompson-cnn-paramount-merger-1237111678/
 
-EXCLUSIVE: Berlin-based M-Appeal has posted some early sales on Spanish filmmaker Mikel Gurrea’s latest feature, Saints, which debuts this week in competition at the San Sebastián Film Festival. Check out a trailer for the film above. Elastica Films has taken distribution rights in Spain. The company, which this year is also handling Spain’s Cannes breakout [ ]
+CNN Worldwide CEO Mark Thompson told employees on Wednesday that the network was fighting for our fundamental rights as both journalists and citizens following Donald Trump s ban on White House access. CNN, along with Politico and MS NOW, filed suit on Monday, challenging the president s ban on their access as a violation of the First [ ]
 
-### As Living Room Viewing Booms, YouTube Debuts Live Dubbing, Shorts Series And Raft Of Other Features
-Wed, 23 Sep 2026 14:49:30 +0000 — https://deadline.com/2026/09/made-on-youtube-living-room-viewing-live-shorts-1237111143/
+### Reporters Committee And Dozens Of Media Outlets File Legal Brief Urging Judge To End Trump s Ban On CNN, Politico And MS Now
+Wed, 23 Sep 2026 18:39:37 +0000 — https://deadline.com/2026/09/trump-white-house-ban-cnn-ms-now-politico-1237111617/
 
-YouTube CEO Neal Mohan kicked off the company s annual creator-focused product event Wednesday with an emphasis on innovation and the living room. Since the start of the year, we ve launched over 3,000 product updates and improvements, keeping up with evolving viewer taste and increasing creator ambitions, he told attendees at the Made on YouTube event [ ]
+A collection of more than four dozen media groups and news outlets urged a federal judge to rule to end Donald Trump s ban on CNN, Politico and MS Now from the White House grounds. Just hours before U.S. District Judge Timothy Kelly is to hold a hearing, the Reporters Committee for Freedom of the Press, [ ]
 
-### YouTube Extends Exclusive Coachella Livestreams Through 2030
-Wed, 23 Sep 2026 14:31:06 +0000 — https://deadline.com/2026/09/youtube-extends-coachella-livestreams-2030-1237111203/
+### L.A. Law Summit: The Paramount Litigation Is Settled, But Attorneys Say M A Impact Will Be Felt Across The Industry
+Wed, 23 Sep 2026 18:29:03 +0000 — https://deadline.com/2026/09/paramount-warner-bros-hollywood-impact-1237110762/
 
-YouTube is extending its exclusive livestream deal with the Coachella Valley Music and Arts Festival through 2030. Lyor Cohen, Global Head of Music, YouTube, made an appearance at the video giant s Made on YouTube event in New York on Wednesday as the news was being announced. In a blog post, Cohen noted that YouTube will [ ]
+Just days before the lawsuit was settled, the attorneys talked about the impact the litigation had on other transactions and the talk it has generated about the future of Hollywood. Courtney Braun, chief legal officer for WME Group, said that the focus on the massive transaction has triggered many conversations about the future of [ ]
 
-### Wild Horse Nine Trailer: Martin McDonagh s Venice Hit Saddles Up For Awards-Season Run
-Wed, 23 Sep 2026 14:17:00 +0000 — https://deadline.com/2026/09/wild-horse-nine-trailer-martin-mcdonagh-film-1236759951/
+### Comedians Leslie Liao Jason Cheny Team With All Things Comedy On Happy Fun Times Podcast
+Wed, 23 Sep 2026 18:04:52 +0000 — https://deadline.com/2026/09/leslie-liao-jason-cheny-podcast-happy-fun-times-atc-1237111552/
 
-UPDATED with official trailer: Searchlight Pictures has released the official trailer for Martin McDonagh s dark spy comedy Wild Horse Nine, which is coming off its buzzy world premiere at the Venice Film Festival. The pic, which hits theaters November 6, scored an almost 15-minute ovation after its debut screening in Venice. John Malkovich, who co-stars [ ]
+EXCLUSIVE: Comedians Leslie Liao and Jason Cheny have teamed with All Things Comedy on Happy Fun Times with Leslie Liao and Jason Cheny, a new podcast that will release weekly on Tuesdays, everywhere podcasts are found, beginning September 29. On the pod, Liao and Cheny come together — sometimes joined by their funniest friends — [ ]
 
-### Taylor Swift Announces Another Three New Songs For Release Friday
-Wed, 23 Sep 2026 14:08:14 +0000 — https://deadline.com/2026/09/taylor-swift-life-of-a-showgirl-encore-new-songs-1237111175/
+### Plimsoll Studios Promotes Andrea Jackson To Oversee Talent Strategy
+Wed, 23 Sep 2026 18:02:39 +0000 — https://deadline.com/2026/09/plimsoll-studios-promotes-andrea-jackson-1237111582/
 
-Taylor Swift s “Patient Zero, the new tune she announced Tuesday, won t be a one-song-wonder when it s released later this week: Swift said today she will drop three additional new tracks on Friday as part of her expanded album The Life of a Showgirl: The Encore. About a year ago, you guys did a truly unfathomable [ ]
+EXCLUSIVE: Plimsoll Studios, the company behind Disney+’s Pompeii: Out of Time with Tom Hiddleston, has a new head of talent strategy. The company, which also produced Netflix’s Skyscraper Live with Alex Honnold, has appointed Andrea Jackson as Creative Director, Entertainment and Talent Strategy. The move will see Jackson oversee the company’s relationships with on-screen talent, [ ]
 
-### Blue Man Group To Make Broadway Debut With First-Ever Holiday Spectacular
-Wed, 23 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/blue-man-group-broadway-holiday-show-1237110780/
+### Jude Law Joins Scarlett Johansson In Ari Aster s Next Movie Scapegoat At A24 And Square Peg
+Wed, 23 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/jude-law-scarlett-johansson-ari-asters-scapegoat-1237111014/
 
-EXCLUSIVE: Blue Man Group, the lapis lazuli-shaded performance troupe who drummed its way into Off Broadway history, will make its long-in-coming Broadway debut this holiday season. Blue Man Group s A New Holiday Surprise, described as an all-new festive spectacular, will begin performances at the Lunt-Fontanne Theatre on November 12, with an official opening night set [ ]
+EXCLUSIVE: Jude Law is in negotiations to co-star opposite Scarlett Johansson in the Ari Aster and A24 thriller Scapegoat. Aster is directing the pic from a script he penned. A24, who has released Aster’s past four films, is the distributor. Jacob Elordi also recently joined the cast. Aster and partner Lars Knudsen will produce through [ ]
 
-### ‘Ray Gunn’ Trailer: Netflix Adds Limited Theatrical Release For Brad Bird s Sam Rockwell- Scarlett Johansson-Voiced Animated Sci-Fi
-Wed, 23 Sep 2026 13:54:30 +0000 — https://deadline.com/2026/09/ray-gunn-trailer-netflix-trailer-limited-theatrical-release-1237111181/
+### Dolly Parton Tribute By Kacey Musgraves Set For Sunday s VMAs
+Wed, 23 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/dolly-parton-tribute-kacey-musgraves-2026-vmas-1237111340/
 
-Netflix has unveiled the first trailer for Brad Bird’s animated movie Ray Gunn, featuring Sam Rockwell, Scarlett Johansson and Tom Waits in the voice cast, ahead of its previously announced launch on its platform December 18. Additionally, the streamer has revealed that the film will get a limited 70mm theatrical release in select theaters December [ ]
+Kacey Musgraves will pay tribute to Dolly Parton at Sunday s VMAs. It will mark Musgraves first performance at the VMAs in five years. With three VMA career nods, the singer-songwriter is nominated this year in Best Country for “Dry Spell.” It will be the latest in a long line of tributes to Parton, who died [ ]
 
-### You Can See Everything Full Trailer: Elizabeth Holmes Gets Vulnerable In A24 Film Ahead Of October Release
-Wed, 23 Sep 2026 13:51:11 +0000 — https://deadline.com/2026/09/you-can-see-everything-trailer-elizabeth-holmes-a24-1237111173/
+### Lawmakers Expected To Introduce Bill This Week For Federal Film And TV Incentive
+Wed, 23 Sep 2026 17:51:27 +0000 — https://deadline.com/2026/09/federal-film-incentive-congress-legislation-1237111522/
 
-After a teaser for You Can See Everything went extremely viral earlier this month, A24 has dropped a full trailer for the Elizabeth Holmes documentary. The studio has confirmed an October 16 release date for the hugely anticipated Nathan Fielder and Lance Oppenheim picture, which premiered at the Telluride Film Festival. You Can See Everything s [ ]
+Lawmakers in both parties are expected to introduce legislation to establish a federal film TV tax incentive as soon as Thursday, according to sources familiar with the plans. The introduction of the legislation has been anticipated since President Donald Trump announced his support for such an incentive as a way to lure productions back [ ]
 
 ## befores & afters
 
@@ -179,6 +179,31 @@ Tue, 22 Sep 2026 11:16:18 +0000 — https://beforesandafters.com/2026/09/22/new-
 Your first look at the cover for the Masters of the Universe issue! Here s your special reveal for the wrap-around cover for the upcoming issue of befores & afters magazine covering the visual effects of Masters of the Universe! This is a huge issue, featuring visual effects supervisor David Vickery, and in-depth with DNEG, ILM, Rodeo FX, Cinesite and Untold Studios. To get the DIGITAL EDITION of the issue as soon as it s out, subscribe to the befores & afters Patreon here: https://www.patreon.com/c/beforesandafters/membership There s a whole heap of magazines coming soon. Here s just some of the list (with some others I can t announce just yet): The Odyssey Project Hail Mary Backrooms The Mandalorian and Grogu Spider-Man: Brand New Day Disclosure Day Moana Toy Story 5 The Cat in the Hat House of the Dragon, s3 Subscribe to the befores & afters Patreon here: https://www.patreon.com/c/beforesandafters/membership The post New cover reveal! All the magazines coming soon from befores afters appeared first on befores & afters .
 
 ## IndieWire
+
+### Curry Barker to Receive IndieWire s Inaugural Future of Filmmaking Award
+Wed, 23 Sep 2026 17:30:00 +0000 — https://www.indiewire.com/news/events/curry-barker-future-of-filmmaking-award-indiewire-summit-1235217440/
+
+The "Obsession" writer/director will accept the award at IndieWire's Future of Filmmaking Summit on October 17 in Los Angeles.
+
+### Never After Dark Review: A Japanese Medium Is Forced to Confront a Living Threat in This Clever Ghost Story
+Wed, 23 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/never-after-dark-movie-review-1235218254/
+
+“Shōgun” breakout Moeka Hoshi plays a haunted ronin ghostbuster in Dave Boyle's nifty and unnerving Hokkaido chiller.
+
+### John Cassavetes Practically Invented the American Independent Film, but Some of His Best Movies Were Made for Studios
+Wed, 23 Sep 2026 16:30:00 +0000 — https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147/
+
+Half of the director's 12 features were financed and distributed by major studios, and some — like "Minnie and Moskowitz," screening next week at the New Beverly — are as uncompromising as his scrappiest indies.
+
+### Harvey Weinstein Sentenced to 15 Years in Prison in New York Retrial
+Wed, 23 Sep 2026 16:10:40 +0000 — https://www.indiewire.com/news/breaking-news/harvey-weinstein-sentenced-15-years-prison-new-york-retrial-1235218263/
+
+The former film mogul was convicted on a count of criminal sexual assault against Miriam Haley in June 2025.
+
+### Jean Smart Joins The Family Stone Sequel in First Post- Hacks Role
+Wed, 23 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/news/breaking-news/jean-smart-the-family-stone-sequel-1235216384/
+
+The Emmy winner joins Claire Danes, Rachel McAdams, Sarah Jessica Parker, Dermot Mulroney, Craig T. Nelson, and Luke Wilson all returning for the follow-up to the 2005 holiday comedy.
 
 ### A New Physical Media Label Is Releasing Some of Our Favorite Recent Indies — with a New Lineup Every Lunar Cycle
 Wed, 23 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/general-news/video-visions-new-physical-media-company-1235218096/
@@ -215,132 +240,107 @@ Tue, 22 Sep 2026 21:18:04 +0000 — https://www.indiewire.com/news/analysis/para
 
 From $80 billion in debt to 32 film releases a year, breaking down the headaches and hurdles facing a combined WarnerMount.
 
-### LA s Animation Is Film Festival to Feature Oscar Contenders Tangles, Iron Boy, and More
-Tue, 22 Sep 2026 20:42:17 +0000 — https://www.indiewire.com/news/festivals/animation-is-film-festival-2026-lineup-1235218107/
-
-The Los Angeles animation showcase has revealed its 2026 lineup, with competition films, retrospectives, and more.
-
-### Phil Lord and Chris Miller to Deliver Keynote Conversation at IndieWire s Future of Filmmaking Summit
-Tue, 22 Sep 2026 20:00:00 +0000 — https://www.indiewire.com/news/events/phil-lord-chris-miller-keynote-future-of-filmmaking-summit-1235217427/
-
-The "Project Hail Mary" directors and producers will explain how they made their most challenging blockbuster yet at the Los Angeles summit on October 17.
-
-### Coyote vs. Acme, Abandoned as a Tax Write-Off by Warner Bros., Grosses $100 Million Globally
-Tue, 22 Sep 2026 18:15:18 +0000 — https://www.indiewire.com/news/box-office/coyote-vs-acme-tax-write-off-100-million-box-office-1235218061/
-
-Revenge is a dish best served by Ketchup Entertainment, which rescued the animation hybrid.
-
-### La Gradiva Trailer: One of 2026 s Most Acclaimed Discoveries Puts a Fresh Twist on Coming-of-Age
-Tue, 22 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/trailers/la-gradiva-trailer-marine-atlan-1235217995/
-
-Marine Atlan's directorial debut and Cannes Critics' Week prize winner narrowly missed out on repping France in the International Oscar race. It will win more critics' prizes stateside.
-
-### James Gray s Paper Tiger Will Screen in 35mm on New York Film Fest Opening Night — Watch the New Trailer
-Tue, 22 Sep 2026 16:39:37 +0000 — https://www.indiewire.com/news/festivals/paper-tiger-nyff-opening-night-screenings-35mm-1235218054/
-
-Exclusive: Starring Miles Teller, Adam Driver, and Scarlett Johansson, Gray's 1980s-set family crime drama opens the festival on Friday, September 25.
-
 ## The Wrap
 
-### Gavin Newsom Insists He Didn t Pressure Rob Bonta Into Paramount Settlement
-Wed, 23 Sep 2026 15:05:33 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/gavin-newsom-didnt-pressure-rob-bonta-paramount-wbd-settlement/
+### CNN Chief Mark Thompson Wants to Stay at Network ‘If Paramount Finds Me Useful’
+Wed, 23 Sep 2026 19:35:22 +0000 — https://www.thewrap.com/media-platforms/journalism/mark-thompson-stay-cnn-paramount-takeover/
 
-California Gov. Gavin Newsom defended himself on Wednesday morning, insisting he did not pressure state Attorney General Rob Bonta into settling with Paramount over its $110 billion Warner Bros. Discovery merger. I didn t pressure anybody, he told Axios . I made the point, I ve made it very publicly and consistently, and it s been reported maybe two or three hundred different ways that we me, many folks, including the mayor, soon-to-be governor-elect Becerra and others preferred, in the words of Rob Bonta himself, that he focus on getting this done at the boardroom, not the courtroom. The minute that Rob said that on CNBC, we amplified that, said this was a better approach, Newsom added. So that was the framework, and he worked hard to deliver for California and I think he did. More to come The post Gavin Newsom Insists He Didn t Pressure Rob Bonta Into Paramount Settlement appeared first on TheWrap .
+CNN Worldwide chairman and CEO Mark Thompson told staffers Wednesday that he wants to remain at the network after Paramount completes its acquisition of Warner Bros. Discovery, while acknowledging that his future rests with CNN’s incoming owner. Thompson said he remained “fully committed to CNN” and “enthusiastic” about the network, according to New York Times media reporter Ben Mullin. “I want to stay if Paramount finds me useful,” Thompson said. NEWS: CNN C.E.O. Mark Thompson addressed President Trump's press ban on a town hall meeting this morning, as well as the merger with Paramount &mdash; Ben Mullin (@BenMullin) September 23, 2026 The remarks put a spotlight on one of the largest unanswered questions surrounding the $110 billion transaction: who will lead CNN after the network and CBS News come under the same corporate parent. Thompson has sought to reassure employees that CNN’s journalism and digital strategy should remain intact as its incoming owner evaluates the combined company’s leadership, operations and costs. Thompson also said Paramount has not explained to him how it intends to run CNN. He cautioned employees against assuming that CNN and CBS News would be combined, saying there were “arguments for and against” such a move and that much remained to be worked out. CNN said the quarterly town hall had been scheduled before the White House lawsuit and the latest Paramount developments. The meeting came two days after Paramount reached a settlement with 12 state
 
-### Jake Tapper Defends Kaitlan Collins and CNN After Trump s Juvenile Social Tirade: We Are Going to Keep Doing Our Jobs
-Wed, 23 Sep 2026 14:56:05 +0000 — https://www.thewrap.com/media-platforms/journalism/jake-tapper-defends-cnn-kaitlan-collins-from-trump/
+### Dick Guttman, Longtime Hollywood Publicist, Dies at 93
+Wed, 23 Sep 2026 19:27:34 +0000 — https://www.thewrap.com/industry-news/business/dick-guttman-hollywood-publicist-dies-at-93/
 
-After President Trump snapped at CNN s Kaitlan Collins at a press stop on Tuesday, he followed it up with another his often late night social media posts, calling her a SLEAZEBAG and more. So, on Wednesday morning, Collins colleague Jake Tapper came to her defense, as well as the network s. In his post, the president not only called out Collins directly, but also ranted that CNN employees are all sick, treasonous, and demented and shouldn t have even been at the United Nations event, considering they said they wouldn t be covering him. In his response, Tapper kept things brief. Not going to dignify the president’s juvenile social media post about our brilliant @kaitlancollins except to say she and we are going to keep doing our jobs, which is to ask and cover the questions voters care about — like those about the war in Iran and the economy, he wrote. Not going to dignify the president’s juvenile social media post about our brilliant @kaitlancollins except to say she and we are going to keep doing our jobs, which is to ask and cover the questions voters care about — like those about the war in Iran and the economy. &mdash; Jake Tapper (@jaketapper) September 23, 2026 Indeed, during Trump s appearance Tuesday morning at the United Nations general assembly, Collins pressed him on those topics. She also made a point to correct the man, noting that no such promise of not covering him was made instead, he banned the network. “We never said we were not going to cover the president,
+Longtime Hollywood publicist Dick Guttman has died. He was 93. The publicity executive represented clients including Barbra Streisand, Clint Eastwood, Audrey Hepburn and Paul Newman. He passed Sept. 19 in Los Altos, Calif. An immediate cause of death was not given. Born in St. Louis, Guttman moved to Los Angeles at an early age and attended Fairfax High and UCLA. He rode L.A. streetcars to wait by the sound stage doors of popular radio dramas, collecting used scripts and autographs. At Fairfax High, he ran track and decided to pursue journalism, covering high school sports for the Los Angeles Examiner. After graduating from UCLA, he launched his career as a unit publicist in Europe, working on such films as “Paris Holiday” and “The Key” and beginning to collect the tales that would color his conversations. While in Paris as the unit publicist on Billy Wilder’s “Love in the Afternoon,” he met his wife Gisela. They married in 1956. Moving back to Los Angeles, he returned to Rogers & Cowan for more than a decade, representing actors including Paul Newman, Gary Cooper, Audrey Hepburn, Tony Curtis, Milton Berle, Greer Garson, Simone Signoret, Carroll Baker, Candice Bergen, Peter Ustinov, Tony Randall, Dick Powell, Natalie Wood, William Holden, James Mason and Rex Harrison. He often said he was simply in the right place at the right time, becoming a celebrity publicist when Hollywood studios stopped contracting stars and “press agents” became pivotal to successful careers. In 1971,
 
-### How the Possible Love Cast Tackled an Intimate Story That Feels Like a Great Piece of Literature
-Wed, 23 Sep 2026 14:33:55 +0000 — https://www.thewrap.com/creative-content/movies/possible-love-cast-intimate-story-interview/
+### CBS, Fox News, NPR and Dozens More News Media Groups File for Restraining Order to End Trump Press Ban
+Wed, 23 Sep 2026 19:14:00 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/reporters-committee-media-organizations-file-restraining-order-to-end-trump-media-ban/
 
-Possible Love is a hard movie to place. Lee Chang-dong s festival feature has a simple enough premise: a laid-off worker and his life become intertwined with a documentarian and her husband as one family becomes the subject of the other s latest feature. But this logline does a disservice to the quiet complexity bursting from Lee s latest. At nearly three hours in length, Possible Love is a brilliant meditation on class, trauma, truth and, as the title implies, love itself — and its limitations. As (Sul) Kyung-gu said in Venice, I thought that the script definitely had Director Lee Chang-dong s scent on it, star Zo In-sung told me at TheWrap s TIFF studio via an interpreter. It was intriguing. It was gripping. It was very intense. It always feels like when you read the screenplay (from Lee), you have read a wonderful novel, Sul added, speaking via an interpreter. It feels like a great piece of literature. As the actors, along with co-stars Jeon Do-yeon and Cho Yeo-jeong, sat with me in Toronto, their director was an ocean away, that very same day accepting the Silver Lion — Grand Jury Prize for Possible Love at the 83rd Venice Film Festival . The film went on to score first runner up for the International People s Choice Award at TIFF , coming in behind Simon Stone s Elsinore. Lee wrote the film alongside Jungmi Oh. Jeon s Mi-ok lies at the center of Possible Love, a woman who finds her marriage in new territory as her husband suffers under the weight of his trauma. The chara
+The Reporters Committee for Freedom of the Press, the White House Correspondents’ Association and 49 other media organizations filed a legal brief Wednesday to end Trump s ban on CNN, Politico and MS NOW. The brief requested a motion for a temporary restraining order that would reinstate CNN, MS NOW and Politico s credentials to cover the White House. “The public has a vital interest in receiving accurate, independent information about its government. No administration should restrict a news organization because it objects to its reporting,” the brief read. CBS, Fox News, ABC, NBC, NPR, the Associated Press, Reuters, the National Press Club, among others signed the brief in support of the banned outlets. The Dow Jones & Co., Pro Publica, Penguin Random House and the New York Times company were also among the signatories. The brief also noted that barring these three news organizations from access to the White House because they exercised their editorial control and judgment to cover issues in a way that the President views as negative exacts a penalty on the basis of the content of a newspaper. They stated that the penalties of this action are designed to have a chilling effect, with the hope that it discourages other outlets from publishing stories that they fear might provoke similar sanctions. President Trump banned CNN, MS NOW and Politico from the White House grounds Friday. The ban went into effect Saturday. The outlets requested a temporary restraining order against th
 
-### Taylor Tomlinson Thanks Seth Meyers for Laughing Harder at Jokes That Flop: So Supportive or You re Just a Sicko
-Wed, 23 Sep 2026 14:32:31 +0000 — https://www.thewrap.com/creative-content/tv-shows/taylor-tomlinson-thanks-seth-meyers-laugh-harder-at-bad-jokes/
+### Jude Law in Talks for Ari Aster s Scapegoat With Scarlett Johansson at A24
+Wed, 23 Sep 2026 18:28:18 +0000 — https://www.thewrap.com/creative-content/movies/jude-law-to-join-ari-asters-scapegoat-a24/
 
-Seth Meyers will always laugh at his guests jokes, but it seems he ll laugh a little harder if said jokes flop, and it s a habit that Taylor Tomlinson outright thanked the NBC host for on Tuesday night. The comedian appeared on Late Night in support of her new book, Actually, Nevermind, and during the interview, walked Meyers and the audience through her process a bit. At one point, a joke about reading her old diary only got a smattering of laughs, but Meyers himself seemed to really enjoy it. So, Tomlinson called him on it. I love when a joke kind of misses, you laugh even harder, she said happily. It s so it s really lovely. It s so, so nice. At that, Meyers reminded her that he didn t need to buoy an earlier joke, which Tomlinson admitted her brother warned her before the show wasn t that great. And yet, that punchline still landed. Still, Tomlinson doubled down on the praise. No, you re so supportive, she said. Or you re just a sicko who loves it when things bomb. But you seem like you re really supportive over here. It s nice. Meyers then compared himself to a baby laughing on an airplane, which Tomlinson earlier complained about, because no one s trying to stop that particular noise, even if it s still loud. I feel like the one thing that nobody ever tells me to stop doing is laugh, Meyers quipped. You can watch Taylor Tomlinson s full appearance on Late Night in the video above. The post Taylor Tomlinson Thanks Seth Meyers for Laughing Harder at Jokes That Flop: So Su
+Jude Law is in negotiations to co-star opposite Scarlett Johansson in “Scapegoat” from Ari Aster, Square Peg and A24, The Wrap has learned. Jacob Elordi is also slated to star in the filmmaker s follow-up to Eddington. According to an insider, plot details are being kept under wraps but some have speculated that it s about a doctor who operates on an internet-famous person, others say it s sci-fi romance, others have said it’s more of a traditional drama for Aster, though there has been no consensus on the movie s details. This will mark the filmmaker’s fifth movie, with all five landing at A24. Aster started his feature filmmaking career with “Hereditary,” an instant horror classic that grossed roughly $90 million. He followed it with the Florence Pugh-led horror movie “Midsommar” before pivoting to a pair of films starring Joaquin Phoenix: the comic odyssey “Beau Is Afraid” and the polarizing political commentary “Eddington,” which was released last year. Lars Knudsen is producing Aster’s “Scapegoat” for Square Peg. Law most recently starred in the “Star Wars” series “The Skeleton Crew” and the Emmy-nominated Netflix limited series “Black Rabbit.” He also recently played Russian dictator Vladimir Putin in “The Wizard of the Kremlin.” Next up he can be seen in the Apple limited series Wild Things where he portrays Vegas performer Siegfried opposite Andrew Garfield. Law also recently wrapped production on Nancy Meyers new movie. Law is repped by CAA, Julian Belfrage Associate
 
-### Coachella Extends YouTube Streaming Partnership Through 2030
-Wed, 23 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/creative-content/music/coachella-youtube-2030/
+### Business Insider, Politico Staffers Protest Over Peter Thiel Award
+Wed, 23 Sep 2026 17:44:37 +0000 — https://www.thewrap.com/media-platforms/journalism/business-insider-politico-staffers-protest-peter-thiel-axel-springer-award/
 
-YouTube is continuing its partnership with Coachella. The streamer and Goldenvoice renewed their exclusive livestream and content partnership through 2030, the company announced on Wednesday during its annual Made on YouTube conference in New York. Under this new partnership, YouTube will remain the exclusive global livestream destination for both weekends of the Coachella Valley Music and Arts Festival. This news comes ahead of the 2027 installation of the festival, an event that will mark 15 years of YouTube streaming Coachella to fans worldwide. This year s festival set a record for most viewers watching at one time in the history of Coachella on YouTube. What started as a single feed has transformed into a full-blown interactive experience over the past decade and a half. Fans are now able to watch multiple stages at once with YouTube s multiview, experience a set alongside their favorite creators with livestreaming options, see exclusive behind-the-scenes Shorts from artists backstage and purchase festival merchandise, to name a few of the offerings from the partnership. As for artists, YouTube s Coachella partnership gives them a global stage that extends past the festival grounds, letting them reach millions if not billions of international viewers tied to album launches and world tours. As we look toward 2027, YouTube will continue delivering behind-the-scenes access and exclusive artist content, Lyor Cohen, global head of music at YouTube, wrote in a blog post announ
+More than 120 journalists at Business Insider and Politico are protesting parent company Axel Springer’s decision to honor billionaire Peter Thiel, arguing that celebrating the tech investor conflicts with the company’s stated commitment to press freedom. The employees raised their objections in a letter to Axel Springer leadership ahead of Thursday’s ceremony in Berlin, where Thiel is set to receive the company’s annual Axel Springer Award, according to Status . The protest comes two months after Axel Springer announced Thiel as this year’s recipient , praising the PayPal and Palantir co-founder as one of the digital era’s most influential entrepreneurs and investors. CEO Mathias Döpfner said at the time that Thiel “reminds us that progress requires courage and nonconformism.” Thiel’s history with the press has made the decision particularly sensitive inside a company that owns major U.S. news organizations. He secretly financed Hulk Hogan’s lawsuit against Gawker after the site published a 2007 article outing him as gay. Hogan won a $140 million judgment in 2016, helping drive Gawker into bankruptcy and fueling a broader debate over the ability of wealthy individuals to use litigation against news organizations. The employee pushback also comes as one of Axel Springer’s U.S. newsrooms is fighting a separate battle over press access. Politico, CNN and MS NOW sued the Trump administration this week after President Donald Trump barred their journalists from the White House. Wh
 
-### YouTube Will Let You Leave Comments Through Your TV Remote
-Wed, 23 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/industry-news/tech/made-on-youtube-updates-2026/
+### Netflix Stock Downgraded Over Worrying Engagement and YouTube Competition by HSBC, Wells Fargo
+Wed, 23 Sep 2026 17:35:05 +0000 — https://www.thewrap.com/industry-news/business/netflix-stock-wells-fargo-hsbc-downgrade-engagement-trends-youtube-competition/
 
-YouTube is making its platform friendlier for Shorts creators and living room viewers. Shorts creators will be able to turn their videos into series. As for living room viewers, they will soon be able to see posts and images from creators while also having the option to leave comments on videos using their remotes. New features for these two segments headlined Wednesday’s Made on YouTube event, the platform’s annual creator-focused presentation in New York City. Living room viewership has become an increasingly massive part of YouTube’s viewing equation. Nielsen’s Gauge report, which analyzes the most-watched streamers and networks on TV every month, has ranked YouTube as the No. 1 streamer for the past three years. Every day, more than 1 billion YouTube hours are watched globally on televisions alone. For our top creators — the top 100 creators on YouTube — over half of them now have TV as their most watched interface, Kurt Wilms, senior director of product management at YouTube, told TheWrap. First up is Shorts Series. Right now, it s easy to stumble upon the eighth or 12th episode of a creator s shortform show, forcing interested viewers to track down the creators profile and search through their content for Episode 1. Creators will soon be able to add whichever episodes they wish to their series and add custom artwork to the show. This way, when a viewer discovers a Shorts episode they re interested in, they just have to click on the Show Feed to see more. YouTube offers 
+Shares of Netflix are down 40% in the past year and 23% in the past six months as Wall Street continues to sour on the streamer s stock over engagement concerns. On Tuesday, HSBC analyst Mohammed Khallouf downgraded Netflix from a Buy to Hold rating and cut his price target from $96 to $76, which he attributed to YouTube s rapidly expanding living room footprint and Netflix s share of U.S. TV time dropping to 7.8% in July. He argued that the Alphabet-owned video platform has benefitted from a declining reception to Netflix s original content and believes a near-term recovery in engagement looks unlikely.” Khallouf s downgrade of Netflix comes less than a week after Wells Fargo lowered its rating on the stock to underweight from equal weight and its price target from $80 to $57 on worrying engagement trends. On Friday, Wells Fargo analyst Steve Cahall estimated that Netflix s members watched an average of 1.6 hours a day in the first half of 2026, roughly 8% less than the same period in 2023 when adjusting for the extra households brought in by the company s password sharing crackdown. Cahall warned that hours spent watching Netflix s top 100 original programs could fall 21% year over year in the second half of the year. Netflix has lacked big original series and it’s showing,” Cahall wrote. “We see breakout hits as a must for the stock to work again.” The pair of downgrades come as Netflix has pushed into areas like podcasts, live events, sports, vertical video and gaming in 
 
-### ‘Brothers’ Review: Matthew McConaughey and Woody Harrelson’s Apple Sitcom Is a Charming Dud
-Wed, 23 Sep 2026 14:15:00 +0000 — https://www.thewrap.com/creative-content/reviews/brothers-review-matthew-mcconaughey-woody-harrelson-apple/
+### Pluto TV Expands On-Demand Library, Upgrades Product Experience
+Wed, 23 Sep 2026 17:30:35 +0000 — https://www.thewrap.com/media-platforms/tv/pluto-tv-upgrades-product-experience/
 
-It’s almost like a down-home version of a premise Charlie Kaufman (or perhaps more accurately, one of his admirers) might have come up with in the early 2000s: Matthew McConaughey and Woody Harrelson play themselves as best friends with the added wrinkle that they might actually be brothers. Amazingly, Apple TV’s “Brothers” is a riff on a real-life (and apparently unconfirmed) rumor based on McConaughey’s mother knowing Harrelson’s father when they were younger. Family history aside, there’s something satisfyingly silly about the idea of an acting duo whose friendship was crystallized in the dark-hued (if often mordantly funny) first season of “True Detective” reteaming for what is, essentially, an old-fashioned blended-family sitcom. Certainly neither McConaughey, who remains a notable big-screen leading man even after a pandemic-era break; nor Harrelson, who’s an in-demand character actor, needs to do a show like “Brothers.” So they must have co-created it — along with sitcom vets Lee Eisenberg (“The Office”) and David West Read (“Schitt’s Creek”) — out of love. Just like family. That would go a long way towards explaining the homey yet dopey quality of the series itself, which flies in the face of its considerable pedigree. McConaughey and Harrelson are both terrific actors with clear personas that can disguise their surprising range. Harrelson even got his start killing it on a sitcom as a replacement bartender who became a fixture on “Cheers.” But placed together as mild
+Pluto TV has unveiled its new and improved product experience, the company s largest technology investment since its founding 12 years ago. As part of the product rebuild, live and on-demand programming will be available together. This comes as the platform moved to the same technology as its parent company Paramount-Skydance. Pluto TV now operates with the same technology stack as Paramount+. Free streaming is only getting more popular, but people are overwhelmed by choice, said Cindy Holland, chairman of direct-to-consumer Paramount-Skydance. Our answer is proven hits, a library of tried and tested fan favorite titles that people return to over and over again, plus a product built to match it, and a brand people know they can turn to. That s what the new Pluto TV delivers, and it s why we see this as one of the biggest opportunities in our portfolio. The upgrade also comes with an expanded library. Now, television hits like The X-Files, Arrow, Hart of Dixie and Burn Notice will be available on the platform along with blockbuster film franchises such as John Wick, Rocky, Creed and Jump Street. Pluto TV will also see product enhancements like a more intuitive interface, stronger discovery and personalization, while still remaining a free ad-supported streaming television service. Looking ahead, Paramount plans to incorporate content discovery features such as Top 10 Carousels and Content Collections. Paramount-Skydance also plans to share data and capabilities across Pluto TV
 
-### Seth Meyers Thinks Press Boycott of White House Events Accidentally Cracked the Code on Covering Trump
-Wed, 23 Sep 2026 13:48:50 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-white-house-press-pool-boycott-cracked-the-code/
+### A Man on the Inside to End With Season 3 at Netflix
+Wed, 23 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/a-man-on-the-inside-canceled-season-3-netflix/
 
-President Donald Trump spoke at a White House ribbon cutting ceremony this week, but there was no audio from the event , as a result of the press pool boycott. But, Seth Meyers thinks that may be the key to covering the man going forward. Following the president s ban of CNN, Politico and MS NOW from the White House, the rest of the press pool banded together to boycott covering the president, and a result, none of the pool reporters were present at the ribbon cutting nor were their microphones. To kick off his monologue on Tuesday night, the NBC host first made fun of the president for not figuring out this would happen in advance. Yeah, apparently he forgot the press pool is also who brings the microphones. If you re going to ban news organizations from the White House, you really need to learn how to project, he joked. That said, Meyers also thinks this whole debacle may have accidentally cracked the code on how to properly cover the president. We don t need to hear what he s saying. He s either bragging or lying. Let s just lose the sound, he said. Basically, use the media as a baby monitor. We can see where he is and whether he s awake, without hearing all the crying. You know, then if something goes down, we ll pause the movie and go check on him. During his A Closer Look segment on Monday, Meyers also joked that the white noise of the helicopter behind Trump the ribbon cutting was for a new helipad is basically what Trump s speeches sound like anyway. You can watch Set
+The Ted Danson-led A Man on the Inside will conclude at Netflix after three seasons, TheWrap has learned. The comedy series recently began production for Season 3 in San Francisco, and Netflix shared Wednesday a still of Danson behind-the-scenes studying his lines on-set. “This series began with a retiree taking a chance at a new life. By answering a help wanted ad and venturing out into the world, Charles Nieuwendyk made his world bigger and proved that life only slows down if you let it, creator and executive producer Mike Schur said. We are thrilled to be able to conclude his journey with one final chapter, as embodied by the great Ted Danson, who I am legally required to refer to as a ‘National Treasure.’ Season 3 of the Netflix series will bring on some heavy-hitter comedians as guest stars, as well. Broadway star Bernadette Peters joins as Coco Van Beck, the Grand Dame of San Francisco society, who hires Charles (Danson) to find whoever is trying to sabotage her philanthropic work. Nick Offerman ( Margo’s Got Money Troubles , Parks and Recreation ) will join as Jack Spencer, one of Coco s employees who takes a special interest in Charles s investigation. Annette O Toole will play Kitt, one of Coco s high society friends. Other guest stars include Christopher McDonald as Leland, Coco s third ex-husband; Diedrick Bader as Mark Delaurio, a powerful real estate developer; Rachel Dratch as Maud, Coco s assistant; Stephen Root as Dave, Charles estranged brother and Jessica St
 
-### How Zach Cregger Powered Resident Evil to Box Office Records
-Wed, 23 Sep 2026 13:32:25 +0000 — https://www.thewrap.com/creative-content/movies/zach-cregger-resident-evil-box-office-success/
+### New York Times Sued by Shareholders Over Biased Israel Coverage
+Wed, 23 Sep 2026 17:18:33 +0000 — https://www.thewrap.com/media-platforms/journalism/new-york-times-florida-pension-fund-lawsuit-israel-coverage/
 
-Zach Cregger is, once again, the belle of the ball. A year after Weapons exploded in theaters and catapulted Amy Madigan to an Oscar win, his Sony video game adaptation Resident Evil sprinted past expectations to open to $60 million this weekend — the highest opening in the IP s eight-film history. With rave reviews and positive word of mouth, the film is on track to become more than profitable against its $75 million budget. But the big takeaway from the success of Resident Evil isn t the reinvigoration of the franchise. It s that Cregger is now a household name capable of putting butts in seats. The thrilling, funny and genuinely scary 95-minute film is largely devoid of mythology and deliberately steers clear of characters from the games. Instead, Cregger — who pitched his take on the project on a whim — crafted a straight survival journey following one character from Point A to Point Z, making the road as enjoyable (and terrifying) as possible. In other words, he made the ultimate popcorn movie. In David Fincher parlance (which seems fitting given his influence on the filmmaker), if Weapons was his Seven, then Resident Evil is Cregger s Panic Room. The success of the film, which I expect to continue for several weeks given how riled up my sold-out crowd was on Friday night, shows what happens when you hand a talented filmmaker a piece of IP with full trust to put their own spin on the material. That $60 million isn t because Cregger did everything he could to appeal to vi
+The New York Times was sued by a Florida state pension fund on Wednesday, demanding access to internal records to investigate whether the newspaper has adhered to its own editorial standards in its coverage of Israel. The State Board of Administration of Florida filed a 48-page petition in New York County Supreme Court on behalf of the Florida Retirement System Trust Fund, a Times shareholder. The filing seeks the company’s books and records and alleges that repeated publication of what the petitioners characterize as false or unsupported claims raises questions about the Times board’s oversight of its journalism. The lawsuit also cites allegations from an anonymous former Times employee who said her repeated complaints about anti-Israel bias and antisemitism inside the newsroom were dismissed — claims the shareholders are now citing as grounds to examine the board’s oversight. The former employee, who is Jewish and spent nearly a decade working on the Times’ video desk, said she raised concerns about the newspaper’s coverage and workplace culture at least 15 times between 2019 and her departure in March 2026, according to the petition. The petition also states the employee said she brought her concerns to managers, the Times’ standards operation and human resources, and that an HR representative at one point suggested she might “go find a place whose values align with yours.” The former employee, who was not identified in the lawsuit, told The Free Press she remained anonymo
 
-### Elizabeth Holmes Insists She Did Nothing Wrong in New You Can See Everything Trailer
-Wed, 23 Sep 2026 13:16:47 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-trailer-nathan-fielder-elizabeth-holmes/
+### Paramount-Warner Bros. Considers Asking Elon Musk for Equity Investment Report
+Wed, 23 Sep 2026 17:17:26 +0000 — https://www.thewrap.com/industry-news/business/paramount-warner-bros-mulls-elon-musk-equity-investment/
 
-A24 dropped the official first trailer for Nathan Fielder and Lance Oppenheim s Elizabeth Holmes documentary You Can See Everything on Wednesday, and it somehow manages to reveal more and make this three-hour documentary seem more mysterious at the same time. The project was born when Holmes, the convicted fraudster and Theranos founder, invited Fielder to live with her, her partner and her two children in the month right before she went to prison to serve out her 11-year sentence, and document the whole experience. Fielder, whose specialty is uncomfortable comedy, is right at home with the evasive figure who seems incapable of being genuine. Or is that, in fact, her being genuine? Watch the trailer below. The film debuted to rave reviews at the Telluride Film Festival earlier this month, and plenty of those reviews are teased in the trailer with some mighty high praise coming from the pull quotes. Indeed, most critics who saw the film warned that it s best to experience it as coldly as possible, and thankfully this trailer doesn t so much reveal as it teases what to expect. Holmes entered prison in May 2023 and is serving out an over 11-year sentence stemming from her work at her health technology company Theranos. Holmes was accused of defrauding patients with faulty promises — namely that a single small blood sample could be used for a litany of tests with a proprietary machine. A24 will release You Can See Everything only in theaters on Oct. 16. The post Elizabeth Holmes 
+As Paramount prepares to close its Warner Bros. Discovery merger in the next two weeks, the David Ellison-led media giant has considered asking Elon Musk to join its syndicate of equity investors, according to Semafor . The discussions come as the Ellisons are looking for fresh sources of cash to help finance the $110 billion deal. Musk, who is close with David s father and Oracle co-founder Larry Ellison, is one of a number of wealthy individuals under consideration, per the outlet. Semafor said the amount of Musk’s potential investment in Paramount could not be learned. The elder Ellison previously invested in Tesla in 2018 and served on the company s board of directors. He also committed $1 billion in Musk s $44 billion acquisition to take X, formerly Twitter, private in 2022. Musk is the world s richest man with a net worth of $949.5 billion as of Wednesday, per real-time tracking by Forbes, while Larry Ellison ranks eighth with a net worth of $191.8 billion. Representatives for Paramount declined to comment. Musk did not immediately return TheWrap s request for comment. The discussions about adding Musk come as the Paramount-WBD merger s $47 billion of equity financing includes contributions from three Middle Eastern sovereign wealth funds and LionTree Investment Fund, who will have no board seats or governance rights. Foreign investors will own 49.5% of the non-voting equity in Paramount , with 38.5% of that total controlled by the sovereign wealth funds. The FCC also g
 
 ## Collider
 
-### 'Star Trek: Strange New Worlds' Officially Unveils Kirk's Future Enterprise Crew [Exclusive]
-Wed, 23 Sep 2026 15:00:12 GMT — https://collider.com/star-trek-strange-new-worlds-season-4-finale-sneak-peek/
+### 'The Rookie' Meets '9-1-1' in ABC's New Crime Thriller Series From 'Jack Ryan' Showrunner
+Wed, 23 Sep 2026 19:46:12 GMT — https://collider.com/abc-crime-series-dive-jack-ryan-showrunner-steve-kane/
 
-Star Trek: Strange New Worlds ' fourth and penultimate season is warping to its conclusion. It's going to conclude with a bang in "Tomorrow's Enterprise," a season finale that sees the USS Enterprise of the present and future in collision. The episode will premiere exclusively on Paramount+ on Thursday, September 24, but before that stardate, Collider is proud to present an exclusive sneak preview clip from the episode, as we see the future Enterprise crew begin to take shape.
+ABC has had quite the potent one-two punch of emergency services procedurals in recent years thanks to The Rookie and 9-1-1 . Even as new series like High Potential and Will Trent have made their mark as ratings darlings , the two series have been reliable fan favorites on the network heading into their ninth and tenth seasons, respectively. Both have busy years ahead of them, with the former eyeing a midseason return that will introduce some new key characters in John Nolan's ( Nathan Fillion ) story as well as the new spin-off, The Rookie North , while the latter premieres this fall alongside Season 2 of its spin-off, 9-1-1: Nashville , with some big crossover plans in the works . Still, the Disney-owned broadcaster is currently eyeing another addition to its procedural roster.
 
-### Nicole Kidman Teases ‘Lioness’ Season 4 After That “Mic Drop” Finale Twist
-Wed, 23 Sep 2026 13:30:11 GMT — https://collider.com/lioness-season-4-taylor-sheridan-nicole-kidman/
+### Marvel Officially Brings Deadpool to NYCC With New WEBTOON Panel [Exclusive]
+Wed, 23 Sep 2026 19:38:43 GMT — https://collider.com/marvel-webtoon-nycc-panel-deadpool-collider-october-9/
 
-Editor's note: The following contains major spoilers for Season 3 of Lioness.
+Fall has officially begun, which means it's almost time for one of the biggest celebrations of pop culture in the Big Apple. New York Comic Con kicks off in just two weeks on Thursday, October 8, marking the 20th anniversary of the largest fan convention on the East Coast. Plenty of stars, studios, and more from throughout the entertainment world have plans to make their presence known at the event, with panels including a Star Trek showcase featuring William Shatner and the cast of Starfleet Academy Season 2 , a first-look screening of Peacock's Friday the 13th series Crystal Lake , and so much more, and much more from the realm of film, television, anime, comics, and more. On the latter end, comic giants Marvel and WEBTOON will once again have a joint presence to discuss their creative future together, and Collider will have a part to play in the announcements and insights to come.
 
-### Brad Bird’s First Animated Movie in 8 Years Finally Reveals Its Star-Studded Cast
-Wed, 23 Sep 2026 13:00:12 GMT — https://collider.com/brad-bird-ray-gunn-trailer-cast-release-date/
+### Deborah Ann Woll Officially Reveals How She Changed Karen Page's Darkest 'Daredevil' Story [Exclusive]
+Wed, 23 Sep 2026 19:31:11 GMT — https://collider.com/daredevil-deborah-ann-woll-changed-karen-page-dark-past/
 
-Brad Bird has sent a giant robot to Earth and taught it about having a soul , put a superhero family through a midlife crisis , and made a rat one of cinema’s most convincing chefs . Now he is heading somewhere entirely new: a sprawling city built around what people in 1939 thought the future might look like . Somewhere in its streets, a private detective has an alien problem and a murder to solve.
+Deborah Ann Woll has taken on a wide variety of roles in her career, from her breakout turn in HBO's vampire drama True Blood to her more recent presence in gaming as Kratos' wife Faye in the modern God of War saga. The latter is even about to give her a starring role with the upcoming spin-off, God of War Laufey , set to arrive on PlayStation 5 in February. However, there's no character she's more synonymous with than the MCU incarnation of Karen Page from Daredevil . One of Matt Murdock's closest allies, love interests, and partners, she's been an integral part of the Man Without Fear's story , from the original three-season run of the Netflix series to the follow-up, Born Again on Disney+, which is preparing for Season 3.
 
-### Marvel Officially Gives Rogue and Gambit Their Best Storyline in 7 Years
-Wed, 23 Sep 2026 13:00:12 GMT — https://collider.com/marvel-rogue-gambit-best-storyline-7-years/
+### 'The White Lotus' Season 4 Officially Lets One Star Go Completely Off-Script [Exclusive]
+Wed, 23 Sep 2026 18:30:11 GMT — https://collider.com/the-white-lotus-season-4-heather-graham-mike-white-set-story/
 
-Rogue and Gambit have endured enough relationship drama to make even the most devoted X-Men fan nervous whenever Marvel places them in separate universes . The married mutants are currently farther apart than ever after Remy LeBeau traded places with his counterpart from Earth-295, leaving the real Gambit stranded in the Age of Apocalypse universe. Meanwhile, another Remy has walked into Rogue’s life and discovered that stealing her husband’s identity will not be nearly as easy as stealing his place.
+HBO has had a wildly successful year so far in 2026, with shows like The Pitt and DTF St. Louis doing well at the Emmys. HBO has also invested heavily in the fantasy genre with Game of Thrones spin-offs like A Knight of the Seven Kingdoms and House of the Dragon , both of which are set to return in the next two years with new seasons. The platform has become a staple in the last 25 years for being the go-to home of prestige television, which is arguably what it’s best known for. When it comes to shows with a high production value, one of the first to come to mind is The White Lotus , which is written and directed solely by Mike White .
 
-### Marvel Officially Introduces a Brand New Superhero Ally for Spider-Man
-Wed, 23 Sep 2026 13:00:12 GMT — https://collider.com/spectacular-spider-man-brand-new-day-superhero-turncoat-marvel-comics/
+### Forget ‘The Office,’ HBO’s Ambitious 53-Episode Comedy Did Workplace Chaos Better
+Wed, 23 Sep 2026 18:18:11 GMT — https://collider.com/hbo-comedy-workplace-chaos-veep-better-the-office/
 
-Over the years, Spider-Man has been given no shortage of allies to collaborate with in the sprawling metropolis of New York City. The sheer size and density of the Big Apple mean Peter Parker can use all the help he can get, from the street-level vigilantes like Daredevil, Luke Cage, and even The Punisher to the Avengers, The Fantastic Four, and even other Spiders . Even if he can't always call on pals like Tony Stark or the Hulk, given how busy they can be, there's almost always someone available when the wall-crawler needs backup against one or more of the city's many villains. Still, it never hurts to have another crimefighter roaming around, and Marvel Comics ' latest story just gave Spidey a very valuable new ally with the birth of a new superhero.
+NBC 's The Office showed us that every workplace, no matter how mundane, is zany and full of heart on the inside. That concept clearly resonated with audiences, and it has been expanded on in other TV workplace comedies over the last two decades. Looking back now, it's clear that HBO 's Veep took this idea to its greatest extreme, with high stakes for the United States and for the world in its most absurd storylines. Veep aired seven seasons with 65 episodes from 2012 to 2019, and nothing has lived up to it since. The series earned several prestigious awards and critical acclaim, and it's time for it to get the same praise as The Office .
 
-### ‘Lioness’ Season 4 Could Change Everything for Zoe Saldaña's Joe After That Shocking Finale
-Wed, 23 Sep 2026 13:00:12 GMT — https://collider.com/lioness-season-4-zoe-saldana-taylor-sheridan/
+### Netflix Officially Decides the Fate of Its 3-Part Crime Masterpiece
+Wed, 23 Sep 2026 18:17:22 GMT — https://collider.com/netflix-crime-series-man-on-the-inside-season-3-ending/
 
-Editor's note: The following contains major spoilers for Lioness Season 3.
+The cozy mystery genre has had a moment in recent years, spearheaded by Hulu's Only Murders in the Building . Netflix has their own answer to the genre, which is now headed into its third season. Now, we have an update about its progress...and the revelation of whether its third season will be case closed for the series.
 
-### Netflix Just Found Its Next 'KPop Demon Hunters'
-Wed, 23 Sep 2026 13:00:12 GMT — https://collider.com/ray-gunn-netflix-animation-brad-bird-michael-giacchino/
+### The Love Hypothesis: Lili Reinhart's Wig Had to Disappear | Collider BTS
+Wed, 23 Sep 2026 18:15:11 GMT — https://collider.com/video/the-love-hypothesis-lili-reinhart-s-wig-had-to-disappear-collider-bts/
 
-Brad Bird is one of the most renowned and prolific filmmakers, specifically in the animated space. Since the massive success of his directorial debut in 1999 with The Iron Giant , he’s been nominated for four Oscars (winning two for Best Animated Feature for The Incredibles and Ratatouille ) and has emerged as the mastermind behind some of the most beloved, acclaimed movies ever made .
+The Love Hypothesis transformed Lili Reinhart into brunette Olive Smith with a custom wig so convincing that even crew members working inches from the action didn’t realize it wasn’t her real hair.
 
-### This Comic Book Series Is the Perfect Blueprint to Resurrect a Beloved Franchise
-Wed, 23 Sep 2026 12:20:11 GMT — https://collider.com/power-rangers-unlimited-comic-book-series/
+### Star Trek's Unjustly Cancelled 2-Season Sci-Fi Officially Makes the Case for a Revival
+Wed, 23 Sep 2026 18:11:12 GMT — https://collider.com/star-trek-prodigy-revival-streaming-apple-tv-store/
 
-It's hard to find anyone on this Earth who has not heard of Power Rangers. Since it began in 1993, the concept of taking five different teenagers, putting them in brightly colored spandex and pitting them against unique monsters has spawned numerous spin-offs, sequel series, films and comic books. But in recent years, the global franchise has been suffering, with the future of the television show in flux and a recent Disney+ reboot canned during development .
+While Star Trek turned 60 this month, the future of the franchise feels more uncertain than it has in quite some time. Yes, there are technically two series still airing, and they will continue to do so well into 2027. But for the first time in over a decade, no new Trek season is in production, and no new projects have even been greenlit .
 
-### The 10 Greatest Classic Rock Masterpieces of the 1970s
-Wed, 23 Sep 2026 12:12:11 GMT — https://collider.com/greatest-classic-rock-masterpieces-1970s-ranked/
+### Taylor Sheridan Favorite Officially Returns to Westerns in First Image for New Thriller
+Wed, 23 Sep 2026 17:55:58 GMT — https://collider.com/brandon-sklenar-western-the-rescue-first-image/
 
-The 1970s were an incredible decade for music. It was a time of change. Lots of British invasion bands were either breaking up, like The Beatles , while others were deciding to expand their horizons. In America, artists like Bruce Springsteen were finding their voice, and becoming the huge stars they were always meant to be. There were also incredible bands like Queen , who had been around for a while, but were finally being taken seriously. The result was some of the best songs ever written.
+Best known for his role in Taylor Sheridan ’s Yellowstone spin-off, 1923 , Brandon Sklenar is carving himself out a spot as one of the brightest up-and-coming stars in Hollywood. Sklenar is even reuniting with Sheridan for his first original action movie in years, F.A.S.T. , which is coming to theaters in 2027. Sklenar co-stars in the film along with Jason Clarke , LaKeith Stanfield , and even Sam Claflin . Sklenar also teamed up with Sydney Sweeney for one of the most successful movies of 2025, The Housemaid , which hit theaters at the end of last year. The Housemaid came into theaters carrying a modest $35 million budget, but the film grossed over $400 million at the global box office, making it the biggest hit of Sklenar and Sweeney’s career to date.
 
-### Star Wars Officially Brings Back Iconic Bounty Hunter for New Release
-Wed, 23 Sep 2026 12:01:12 GMT — https://collider.com/star-wars-galaxy-of-heroes-embo-return-new-release/
+### The 8 Best Movies About the End of the World, Ranked
+Wed, 23 Sep 2026 17:42:11 GMT — https://collider.com/best-end-of-the-world-movies-ranked/
 
-2026 has been a roller-coaster of a year for Star Wars fans, and it’s about to get even better as the franchise is officially bringing back a beloved character for a new release. Star Wars unleashed the highest-rated Disney+ series in franchise history with Maul — Shadow Lord , and the studio has already confirmed that the show is coming back for Season 2. Star Wars also returned to the big screen for the first time in seven years with the premiere of The Mandalorian and Grogu , which finished its run as the lowest-grossing Star Wars movie in history. The film was added to Disney Plus at the start of this month, though, and it’s still yet to be dethroned as the most-watched movie on the platform in more than 35 countries globally.
+There’s going to be a distinction made here between post-apocalyptic movies and movies about the end of the world. Some movies about the end of the world show the world ending, and then they might spend some time with characters in a post-apocalyptic landscape, but those films that are “just” about being in a post-apocalyptic setting aren’t going to count, for present purposes. If you're confused why the likes of The Road and none of the Mad Max films are here, that’s why.
 

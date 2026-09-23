@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-23T15:11:16.031Z
+# Games — harvested 2026-09-23T19:48:35.824Z
 
 ## Eurogamer
+
+### Discord launches controversial age-verification system "using the most privacy-preserving approach we could build" months after first delay
+Wed, 23 Sep 2026 18:55:20 +0000 — https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving
+
+Discord delayed the rollout of its controversial age verification system back in February after very loud backlash against the company's plans. Those age checks are now back, but this time, co-founder and chief technology officer Stanislav Vishnevskiy says the updated system will give users options that aren't as invasive. Read more
+
+### As Halo goes to Activision, fans are worried about this year's Halo Fest and a potential lore reboot from the Call of Duty publisher
+Wed, 23 Sep 2026 17:50:39 +0000 — https://www.eurogamer.net/activision-new-halo-game-fans-worried-lore-reboot
+
+We're now living in a timeline that would have been impossible to comprehend for a grunt-squashing teen in 2007: Activision is making the next Halo game . And, now, fans have questions about the change. Is this year's Halo Fest still happening, despite sweeping layoffs at Halo Studios? Will Activision's new game reboot the lore? Can Master Chief finally, please, catch a break? Read more
+
+### Obsidian's "creative identity and strengths" will remain intact, promises Bethesda, as it takes control of Fallout: New Vegas studio
+Wed, 23 Sep 2026 16:47:38 +0000 — https://www.eurogamer.net/obsidian-creative-identity-bethesda-fallout-xbox-restructuring
+
+Xbox's massive and still ongoing reorganisation has pushed Obsidian Entertainment under Bethesda's umbrella. Despite the quite drastic corporate shakeup, Bethesda's president is promising folks the iconic RPG developer will hold onto its "creative identity." Read more
 
 ### Beloved cockney-orc Lord of the Rings games Shadow of Mordor and Shadow of War finally make their way to Switch 2
 Wed, 23 Sep 2026 14:23:32 +0000 — https://www.eurogamer.net/lord-of-the-rings-shadow-of-mordor-war-switch-2
@@ -47,22 +62,12 @@ Wed, 23 Sep 2026 08:36:33 +0000 — https://www.eurogamer.net/undead-labs-indepe
 
 State of Decay studio Undead Labs has shared good and bad news following Xbox's second round of job cuts this year . Read more
 
-### Artist who hand-paints some of gaming's best fantasy world maps brings them together in oversized and extremely lavish art book
-Tue, 22 Sep 2026 16:18:06 +0000 — https://www.eurogamer.net/francesca-baerald-game-map-art-book
-
-If you're an enjoyer of video game maps, you might like this: celebrated artist and cartographer Francesca Baerald - who's created in-game (and out) maps for Dragon Age, Warcraft, Octopath Traveler , Diablo, Dungeons & Dragons and many more - is releasing a glossy new art book. It's an oversized, A3 book that features page after page of her sumptuously detailed, hand-painted maps. Read more
-
-### With "a dozen" music levels, Rayman Legends Retold doubles down on the best bit of the original game, and having played it I couldn't be happier
-Tue, 22 Sep 2026 16:00:00 +0000 — https://www.eurogamer.net/rayman-legends-iconic-music-levels-retold-interview
-
-I own Rayman Legends on six platforms. The game, a 2D platformer that launched back in 2013, initially released onto the PS3, Xbox 360, PC, Wii U and PS Vita. A year later, it came to Xbox One and PS4. Fast-forward three years and it's on Switch, and then in 2021 it came to Stadia, too. It's been around the block a few times then, and I've gone with it each time - I have 1000Gs and a Platinum trophy for it. It's just a very, very good game. Read more
-
-### Xbox confirms 268 more layoffs, further studio closures, and Obsidian's shift to Bethesda as major restructuring continues
-Tue, 22 Sep 2026 14:44:43 +0000 — https://www.eurogamer.net/xbox-layoffs-activision-rare-halo-ninja-theory
-
-Following reports that further job cuts were imminent at Xbox , Microsoft has confirmed more sweeping changes as its major restructuring continues. As a result, some Xbox studios will combine, others are set for closure, and 268 more layoffs have been announced. Read more
-
 ## GamesIndustry.biz
+
+### Bethesda boss confirms Obsidian will remain a "distinct" team
+Wed, 23 Sep 2026 18:47:06 +0000 — https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
+
+Bethesda boss Jill Braff has written to all staff to confirm that Grounded developer Obsidian Entertainment will remain a "distinct" team, retaining its existing leadership structure. Read more
 
 ### Age of Empires developer World's Edge hit with layoffs following move to Activision
 Wed, 23 Sep 2026 13:56:13 +0000 — https://www.gamesindustry.biz/age-of-empires-developer-worlds-edge-hit-with-layoffs-following-move-to-activision
@@ -119,16 +124,16 @@ Tue, 22 Sep 2026 07:55:38 +0000 — https://www.gamesindustry.biz/xbox-reportedl
 
 UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory. Read more
 
-### "It's sad and devastating" – Black Myth: Wukong's physical publisher is mourning the loss of PlayStation discs
-Mon, 21 Sep 2026 16:24:23 +0000 — https://www.gamesindustry.biz/its-sad-and-devastating-black-myth-wukongs-physical-publisher-is-mourning-the-loss-of-playstation-discs
-
-PM Studios has been doing physical game publishing for a long time. In its early days, around 20 years ago, the Las Vegas-based publisher brought the Korean rhythm-action series DJMax to the US, and since then it has carved out a healthy business from slapping a wide range of titles onto discs and cartridges. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month
+Wed, 23 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month
+
+Rogue orbiting. It's an important time for Gundam in regards to video games, and not just because the fantastic looking Gundam Rogue Orbit is locked in for a March 2027 release. Indeed, it's apparently been 40 whole years since Gundam first stepped onto the gaming scene (I'm honestly not sure which title is being used as the starting point) and so an official celebratory broadcast has been announced. Read the full article on pushsquare.com
 
 ### Persona 6 Could Get Its Big Reveal in March, as Atlus Announces First Super Live Show in Four Years
 Wed, 23 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/persona-6-could-get-its-big-reveal-in-march-as-atlus-announces-first-super-live-show-in-four-years
@@ -185,12 +190,17 @@ Tue, 22 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/dragon
 
 "We should give players options". There's apparently a really big difference in what players enjoy about Dragon's Dogma 2 , depending on where they're from. This is according to two of the game's key figures, producer Naoto Oyama and director Kento Kinoshita — the latter being in charge of the soon-to-be-released Dark Arisen expansion. Read the full article on pushsquare.com
 
-### Reaction: Did Fans Just Bring Destiny Back from the Dead?
-Tue, 22 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/features/reaction-did-fans-just-bring-destiny-back-from-the-dead
-
-Unlock the vaults. If you’ve been paying attention to chats during any live gaming event this year, especially Sony’s State of Plays , you’ll notice a term being spammed continuously – and no, it’s not “no disc, no buy”; it’s actually “we want Destiny 3”. Since Bungie’s announcement to axe continued support for Destiny 2 , many fans, including myself, were baffled that the Destiny franchise had no clear future. In fact, it seemed like it was actually the end of Destiny, considering Bungie itself posted a memorandum-style compilation of our journey over the years. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Discord re-introduces age verification policy based on 'account signal' methodology
+Wed, 23 Sep 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods
+
+Discord says it has built an age estimation model based on 'account signals' to determine an user's age group.
+
+### Report: Bethesda president tells Obsidian staff it won't lose 'creative identity' after merge
+Wed, 23 Sep 2026 17:03:46 GMT — https://www.gamedeveloper.com/business/report-bethesda-president-tells-obsidian-staff-it-won-t-lose-creative-identity-after-merge
+
+Bethesda president Jill Braff is reportedly calling Obsidian's merging with Bethesda 'primarily a change in reporting structure.'
 
 ### Undead Labs makes 'significant' layoffs after splitting from Xbox
 Wed, 23 Sep 2026 11:22:24 GMT — https://www.gamedeveloper.com/business/undead-labs-makes-significant-layoffs-after-splitting-from-xbox
@@ -222,16 +232,6 @@ Mon, 21 Sep 2026 20:30:57 GMT — https://www.gamedeveloper.com/console/bungie-d
 
 'Destiny is foundational to Bungie's future.'
 
-### Sony appears to censor LGBTQ content in Marvel's Wolverine for some regions
-Mon, 21 Sep 2026 19:00:10 GMT — https://www.gamedeveloper.com/console/sony-appears-to-censor-lgbtq-content-marvel-s-wolverine-for-some-regions
-
-A mutant marriage goes unmentioned in some parts of the world.
-
-### Kojima Productions' survival story may sound strikingly familiar to struggling devs
-Mon, 21 Sep 2026 16:10:05 GMT — https://www.gamedeveloper.com/business/kojima-productions-survival-story-may-sound-strikingly-familiar-to-struggling-devs
-
-Even celebrated auteurs have to pay bank loans on time.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -245,6 +245,26 @@ no date — https://www.gamedeveloper.com/events/slice
 no date — https://www.gamedeveloper.com/events/unreal-fest
 
 ## VGC
+
+### I just assume someone is being greedy : Double Fine s Tim Schafer says he doesn t know why the industry isn t recovering
+Wed, 23 Sep 2026 18:44:10 +0000 — https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/
+
+He also says Double Fine's survival is "worth fighting for" following its split from Xbox… Source
+
+### Silent Hill Townfall: Ordell blood bag transfusion door puzzle solution
+Wed, 23 Sep 2026 18:00:34 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-blood-bag-transfusion-door-puzzle/
+
+Find out which blood bags and blood types are needed for the 'Ordell' door puzzle in Silent Hill Townfall… Source
+
+### Fire Emblem Fortune’s Weave: Bird Time explained, how and why you should do it
+Wed, 23 Sep 2026 17:18:09 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-bird-time-explained-how-and-why-you-should-do-it/
+
+How to get Perfect Bird Time results and why you should bother in Fire Emblem: Fortune's Weave… Source
+
+### Fire Emblem Fortune’s Weave: Alexandra location, Help My Feelings Take Wing quest guide
+Wed, 23 Sep 2026 15:22:00 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-alexandra-location-help-my-feelings-take-wing-quest-guide/
+
+Where to find Alexandra and recruit her during Cai's Part 1 in Fire Emblem: Fortune's Weave… Source
 
 ### Control Resonant Power Lines: Perimeter, Factory, and East Park Station puzzle solutions
 Wed, 23 Sep 2026 13:52:52 +0000 — https://www.videogameschronicle.com/guide/control-resonant-power-lines-perimeter-factory-and-east-park-station-puzzle-solutions/
@@ -276,141 +296,166 @@ Wed, 23 Sep 2026 08:41:41 +0000 — https://www.videogameschronicle.com/news/the
 
 The 3D take on Xevious got a PS1 port but this is the first home release of the arcade version… Source
 
-### Silent Hill Townfall: The Patient surgery puzzle solution
-Tue, 22 Sep 2026 19:49:39 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-the-patient-surgery-puzzle-solution/
-
-How to help Zoe perform the operation on the patient in Silent Hill Townfall… Source
-
-### Silent Hill Townfall: Community Gardens shed combination lock puzzle solution
-Tue, 22 Sep 2026 18:32:50 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-community-gardens-shed-combination-lock-puzzle-solution/
-
-Find out the combination for the lock on the shed in Silent Hill Townfall… Source
-
-### Silent Hill Townfall: Medical clinic scales puzzle solution
-Tue, 22 Sep 2026 18:00:48 +0000 — https://www.videogameschronicle.com/guide/silent-hill-townfall-medical-clinic-scales-puzzle-solution/
-
-How to solve the scales puzzle in Zoe's office in Silent Hill Townfall… Source
-
-### Fire Emblem: Fortune’s Weave complete walkthrough hub
-Tue, 22 Sep 2026 15:14:22 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-complete-walkthrough-hub/
-
-The important information and quest solutions you need to get through Fire Emblem: Fortune's Weave… Source
-
 ## Polygon
 
-### 'Game Changer' Season 8 Episodes, Ranked From Worst to Best
-Wed, 23 Sep 2026 15:00:16 GMT — https://www.polygon.com/game-changer-season-8-best-episodes/
+### Enter Polygon's Point It Out x Secretlab Giveaway
+Wed, 23 Sep 2026 19:35:15 GMT — https://www.polygon.com/secretlab-polygon-point-it-out-titan-evo-chair-contest-giveaway/
 
-With “Last Talent Standing” airing Monday, season 8 of Dropout’s flagship show Game Changer came to an oversized end. The 23-contestant, nearly 90-minute finale was a reflection of the latest season: big casts, big sets, big laughter.
+It's that time again! Polygon has partnered up with Secretlab to give away a number of their top-of-the line gaming chairs. With the dust settling on our first week's contest, we move into our second chance to score one of the best gaming chairs money can buy.
 
-### Next Lord of the Rings Movie's First Set Photos Feature the Return of a Familiar Face
-Wed, 23 Sep 2026 14:31:05 GMT — https://www.polygon.com/lord-of-the-rings-lotr-hunt-for-gollum-first-set-photos-frodo-shire/
+### Leaked Xbox Memo Reveals Obsidian’s Fate Under Bethesda
+Wed, 23 Sep 2026 18:59:51 GMT — https://www.polygon.com/bethesda-obsidian-studio-reorganization-xbox-layoffs/
 
-Filming is well underway for the next Lord of the Rings movie, due out next year. Earlier in the summer, fans got their first behind-the-scenes look at the production of The Hunt for Gollum with a short teaser of director and star Andy Serkis getting into character while wearing his iconic motion-capture suit. On Wednesday, Warner Bros. shared set photos of the film, transporting fans back to one of the series' most beloved locations: the Shire.
+Xbox has not had a good 2026. In early July, the company announced it would lay off 1,600 employees and divest from several of its acclaimed studios , including Double Fine, with more layoffs expected in the coming fiscal year. On Sept. 22, Microsoft finally announced that next wave of job cuts , affecting an additional 268 developers. The layoffs coincided with a major company-wide reorganization that will merge several studios, resulting in big changes like Halo being moved under Activision.
 
-### The Upcoming Godzilla Film Officially Marks a Huge Series First
-Wed, 23 Sep 2026 14:23:33 GMT — https://www.polygon.com/godzilla-minus-zero-r-rating-series-first/
+### Discord's Controversial Age Verification Policy Starts Today
+Wed, 23 Sep 2026 18:49:32 GMT — https://www.polygon.com/discord-controversial-age-verification-starting/
 
-72 years and 38 movies later, The King of the Monsters, Godzilla, has left a permanent mark on film history, defining kaiju cinema and changing sci-fi fiction forever. This atomic lizard has stayed active into his advanced age, with nine movies over the last decade; some of these were even quite good! The next film in the series, Godzilla Minus Zero , is a direct sequel to Godzilla Minus One , which is one of the best entries in the franchise's history.
+In February, Discord announced "teen-by-default" settings and a controversial age-verification policy to change those settings. Backlash was swift, and users immediately tried to find alternative chat services . Eventually, Discord announced it would delay the implementation of its controversial policies to the second half of 2026. Well, here we sit with just a few months left in the year, and the day has come: Discord has begun rolling out its "global age assurance" plans.
 
-### Spider-Man: The Animated Series’ Decades-Old Cliffhanger to Be Officially Resolved in Surprise Sequel
-Wed, 23 Sep 2026 14:03:46 GMT — https://www.polygon.com/spider-man-94-animated-series-cliffhanger-sequel-comic/
+### Where to find pepper leaves in Fire Emblem Fortune's Weave
+Wed, 23 Sep 2026 18:44:49 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-pepper-leaves-location-where-to-find/
 
-On Jan. 31, 1998, audiences tuned in to watch the season 5 finale of Spider-Man: The Animated Series . In typical heroic fashion, Peter Parker defeated the big bad and was last seen preparing to reunite with Mary Jane Watson after being separated due to clone and multiversal shenanigans. That was supposed to be resolved in season 6, but the show never returned. For nearly three decades, fans have been waiting to find out if Peter and Mary Jane reunite. That wait is finally about to be over.
+In Fire Emblem: Fortune's Weave , you can collect pepper leaves from some nodes far from Dagsion. While there's a chance of one of these leaves could come in a crate, the best approach when you want to guarantee that you will have the material is to go to the world map, visit the right nodes and use the "Search" command — at least, this is the best way to obtain this specific material and complete Leda's "Captains' Drink Recipes" quest.
 
-### All recruitable characters in Fire Emblem Fortune's Weave
-Wed, 23 Sep 2026 13:45:58 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-recruitable-characters-all-support-level/
+### Arc Raiders’ Cheating Epidemic Is Being Dealt With 'Quietly and Continuously'
+Wed, 23 Sep 2026 18:09:24 GMT — https://www.polygon.com/arc-raiders-cheating-epidemic-interview/
 
-Recruiting characters in Fire Emblem: Fortune's Weave is an important feature in the early game — but a crucial one in later chapters. Regardless of the path you choose to play in Part 1, you'll have a starting group of characters to play with. However, to win the Heroic Games, the protagonists of each path will need all the allies they can get.
+Arc Raiders has seen a fairly steady decline in its player count throughout 2026, and one potential reason is the sheer number of cheaters. It's an issue that is frequently cited on social media as being rampant in PvP-focused lobbies (as opposed to the friendlier PvE lobbies, since the game has aggression-based matchmaking ), not to mention the content creators who have stopped playing due to being targeted by cheaters.
 
-### 'Toy Story 5' Now Officially Streaming on Disney Plus
-Wed, 23 Sep 2026 13:18:42 GMT — https://www.polygon.com/toy-story-5-disney-plus-streaming-release-date/
+### Acclaimed Pokémon Artist Responds To Heartbreaking TCG Pack Opening
+Wed, 23 Sep 2026 18:05:20 GMT — https://www.polygon.com/pokemon-avery-the-poke-kid-jirachi-30th-tcg-akira-egawa-beard-dad/
 
-After a standout run at the box office, Pixar’s latest animated film is now streaming on Disney Plus.
+The Pokémon trading card community spent late September 2026 mourning the death of Avery The Poke Kid , a 12-year-old personality who had been battling pancreatic cancer for seven years. The tragedy spread across social media in part due to a heartbreaking video recorded by Avery's parents where the youngster pulled a coveted Jirachi card from a Pokémon 30th Anniversary pack just before passing away.
 
-### Netflix Shares First Trailer for New Sci-Fi Hit from Oscar-Winning Director
-Wed, 23 Sep 2026 13:00:15 GMT — https://www.polygon.com/netflix-ray-gunn-trailer-brad-bird/
+### Fire Emblem: Fortune’s Weave Basically Has the Same Plot As Twisted Metal
+Wed, 23 Sep 2026 18:00:16 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-twisted-metal/
 
-Netflix just released the first trailer for Ray Gunn , the upcoming animated movie from Academy Award-winning director Brad Bird ( The Incredibles, The Iron Giant , Ratatouille ). Set in a retro-futuristic megalopolis called Metropia, Ray Gunn follows private eye Raymond Gunn, voiced by Sam Rockwell, as he wrestles with a murder mystery involving multimedia star Venus Nova (Scarlett Johansson).
+Like a lot of Nintendo Switch 2 owners right now, I’m deep in the trenches with Fire Emblem: Fortune’s Weave . The tactical battles are rock solid, and I’m enjoying my weekly dose of Perfect Bird Time, but it’s the story that’s really driven me to sink 30 hours in so far. I’ve already cleared Theodora’s Act 1 path, and now I’m working on Dietrich’s story, which is so immediately and gloriously unhinged that I need to see more. I will guide all of these freaks through the Heroic Games even if it takes me a very, very long time .
 
-### Baldur's Gate 3 Just Got a New Region With 30+ Fights And 70+ Items
-Wed, 23 Sep 2026 12:00:15 GMT — https://www.polygon.com/bg3-act-two-expansion-chionthar-wilds/
+### Some Witcher 3 Fans Aren’t Too Happy With New Remastered Footage
+Wed, 23 Sep 2026 17:57:55 GMT — https://www.polygon.com/witcher-3-remastered-comparison-footage-fan-backlash/
 
-Ask any Baldur’s Gate 3 player about the game’s Act 2, and you’ll get one of two reactions. Some call it their favorite stretch of the game, since it’s moodier, tighter, and more focused than Act 1. Others call it the most linear and devoid of branching pathways: You clear the Shadow Curse, you walk to Rivington, done. Regardless of which camp is correct, it is true that Act 2 lacks Act 1’s room to wander, or Act 3’s sprawl to get lost in. Now, with a new mod that was nearly two years in the making, Baldur’s Gate 3 ’s second act is getting a lot bigger.
+Next week, CD Projekt Red will release The Witcher 3: Wild Hunt — Remastered , a massive overhaul of the 2015 role-playing game. Considering the game is over a decade old, it isn't wild to think the game may need an update to make it feel brand-new to audiences in 2026. Based on fan reaction to a new clip from the remaster, that may not actually be the case.
 
-### 3 Years Ago, Matthew Mercer Faced His Ultimate Critical Role Test
-Wed, 23 Sep 2026 11:00:15 GMT — https://www.polygon.com/critical-role-matthew-mercer-campaign-3/
+### Every Xbox Studio’s Current Status After Multiple Rounds of Layoffs
+Wed, 23 Sep 2026 17:45:28 GMT — https://www.polygon.com/xbox-studio-status-september-2026/
 
-Over the decade that the Critical Role cast has played Dungeons & Dragons together before an audience of fans known as Critters, we've witnessed truly extraordinary moments of love, heartbreak, and devastation: Vax’s (Liam O’Brien) sacrifice in Campaign 1, the death of a beloved party member in Campaign 2, and the eye-opening lore reveals in Campaign 3, to name just a few.
+On July 6, Xbox announced a massive overhaul of its business. The changes would see the company shedding thousands of jobs as it looked to cut 20% of its organization over 12 months. That plan started with a handful of studios leaving the Xbox banner, while others faced deep cuts. The second phase of that operation rolled out on Sept. 22, and it saw Xbox taking similarly drastic measures. In a message shared to Team Xbox employees , chief content officer Matt Booty explained that Xbox was cutting an additional 268 jobs as it continues to restructure its publishing efforts. Booty also revealed that Ninja Theory faces closure after struggling to find a buyer, while talks to offload Arkane are still ongoing.
 
-### Adidas' New Pokémon Drop Is Here — and Already Selling Out
-Wed, 23 Sep 2026 10:15:32 GMT — https://www.polygon.com/pokemon-adidas-collection-scalpers/
+### Persona 6 Excitement Grows as Atlus Announces Return of Major Event
+Wed, 23 Sep 2026 17:32:18 GMT — https://www.polygon.com/persona-6-super-live-2027-announced-atlus-rpg/
 
-Adidas and Pokémon have come together in an awesome way to celebrate Pokémon's 30th anniversary and bring fans all sorts of clothing items based on their favorite pocket monsters. Unfortunately, when demand is high, scalpers quickly get to work to snag as many items as they can and make a profit. Maybe this is the new hot target for speculation, after scalpers have hit a rough patch over the Pokémon 30th anniversary TCG products , due to its high supply.
+At the conclusion of the Tokyo stop of the Persona Live Tour 2026, publisher Atlus made the shocking announcement that it is bringing back Persona Super Live. The concert series based on the Persona role-playing game series was last held in 2022 and could be the perfect venue for the company to share more news about the highly-anticipated Persona 6 .
 
 ## PC Gamer
 
-### I don't care what you lot say, the side buttons on a mouse are for copy and paste (on desktop)
-Wed, 23 Sep 2026 14:39:28 +0000 — https://www.pcgamer.com/hardware/gaming-mice/i-dont-care-what-you-lot-say-the-side-buttons-on-a-mouse-are-for-copy-and-paste-on-desktop/
+### Sometimes it's fun to hit a scorpion with a club for 38 seconds
+Wed, 23 Sep 2026 18:58:40 +0000 — https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/
 
-The PC Gamer hardware team got into a disagreement last week. We were sat around in the office chatting about Razer's new MMO gaming mouse and how we wouldn't know what to do with all its buttons (it has 12). That got us onto the topic of what we do with the two side buttons more commonly found across gaming mice. Turns out, the team I've worked with for years, who I thought I could trust, who I've shared a laugh with, who I thought were my friends, are complete and utter fools. As are most of you—soz. They reckon the best use of the two side buttons are forwards and back, ie. for browsing the web. That tends to be the default assignment for gaming mice out of the box, which goes to show the lack of ingenuity on their part. We asked you lot what you thought about this very important question in the form of a poll. It read: "Jacob wants to know if there are people like him, so do you have your mouse side button set to forward/back or copy/paste?" The results are pretty surprising. Not for the overwhelming majority of you that use these buttons for forward and back (1,343), but the near two hundred kindred spirits—fellow travellers—that are with me on the whole copy and paste thing. Do you have your mouse side button set to forward/back or copy/paste? Turns out that so so so many of you are just wrong Votes (%) CTRL+C / CTRL+V 10 Forward/Back 67 Something else entirely 23 Votes (%) Data Product Value CTRL+C / CTRL+V 10 Forward/Back 67 Something else entirely 23 Hear me out: it 
+Like many others who carry the spiritual stain of prior MMO contact, I've been spending some time in the WoW: Forever beta. After piloting a freshly-minted orc through the introductory quests in the Valley of Trials, I emerged into the wider Durotar scrubland where I soon entered into combat with a hostile scorpion that had strayed too close to the road I was following to Razor Hill. For the next 38 consecutive seconds, I did nothing but watch my orc slowly bludgeon that scorpion to death with a wooden club. And reader, I say this with full sincerity: Those were 38 seconds of peak gaming. (Image credit: Blizzard) I haven't just been playing Forever to sample Blizzard's distillation of year one WoW nostalgia. I've been testing a conviction that I recently forwarded after a week with Star Wars Galaxies: a belief that MMOs would be better off if they rediscovered their lost willingness to burn more of our time. (Image credit: Blizzard) My half-minute and change of scorpid combat has left me feeling pretty confident in the hypothesis. The notion that slower could be better might feel antithetical to current trends in game design, particularly in MMOs. Games have given themselves over to the pursuit of acceleration: the drive to win faster, kill more, and make the numbers bigger as soon as possible—to achieve the most gaming in the least amount of time. Judging from the ecosystems of optimization guides and meta build videos, players seem very eager to indulge. But when the rhythm
 
-### Console rumour time #235
-Wed, 23 Sep 2026 14:10:02 +0000 — https://www.pcgamer.com/hardware/console-rumour-time-235/
-
-Sometimes reliable leaker, KeplerL2, has taken to a Neogaf forum thread to note their predictions/expectations/made-up numbers for the performance of the next-gen consoles: PS6: 40 teraflops | Xbox Project Helix: 56 teraflops. That's RX 9070+ kinda performance, and a theoretical 40% performance delta for the Microsoft console over the Sony slab of silicon. But teraflops are never a perfect measure of relative performance between different products, even if both will have essentially the same AMD architecture under the hood. The next-gen console bunfight is still expected to kick off later next year, so even as a PC Gamer do the new consoles hold any attraction for you? ]]>
-
-### Leon Kennedy is Zach Cregger's choice of bodyguard: 'I would just bear hug myself around him'
-Wed, 23 Sep 2026 14:03:38 +0000 — https://www.pcgamer.com/movies-tv/leon-kennedy-is-zach-creggers-choice-of-bodyguard-i-would-just-bear-hug-myself-around-him/
-
-"If I was stuck in my movie and I could pick any Resident Evil character, I would bring Leon because I would just bear hug myself around him, close my eyes, and just let him protect me." Zach Cregger I think Leon Kennedy may be the only valid answer to the question of which Resident Evil videogame character you'd want protecting you throughout the events of Cregger's Resident Evil film (via PlayStation Blog ). The only other substitution I'd accept is Jill Valentine and maybe Billy Coen—that is if you can lure him out of the woods. ]]>
-
-### A Bretonnia rework is definitely on Creative Assembly's 'to-do list' for Total War: Warhammer: 'It's not quite the finest of wines now'
-Wed, 23 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/strategy/a-bretonnia-rework-is-definitely-on-creative-assemblys-to-do-list-for-total-war-warhammer-its-not-quite-the-finest-of-wines-now/
+### You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'
+Wed, 23 Sep 2026 17:03:52 +0000 — https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/
 
 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### Total War: Warhammer's biggest ever campaign is now $9, but what do actually you get for that?
-Wed, 23 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/strategy/total-war-warhammers-biggest-ever-campaign-is-now-usd9-but-what-do-actually-you-get-for-that/
+### The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate
+Wed, 23 Sep 2026 17:03:48 +0000 — https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/
 
-Back when the Lords of the End Times expansion was revealed, Creative Assembly also announced that anyone who buys a single lord in the new DLC (costing $9 on their individual store pages) when it releases on September 24 will unlock Immortal Empires , Total War: Warhammer's trilogy-spanning grand campaign which comprises all content from the past 10 years of development. But what does buying one of these lords actually get you? No matter who you buy out of Boris , Thanquol , Nagash , or The Glottkin , you'll get the free faction of Bretonnia, their core unit roster, and their four legendary lords: Louen Leoncouer : The king of Bretonnia who starts close to the Empire. Alberic De Bordeleaux : A duke who starts in a colony on the western continent of Lustria. The Fay Enchantress : A spellcaster who starts in southern Bretonnia. Repanse De Lyonesse : A questing knight who starts in the southern desert of Araby. They're all fun campaigns with varied start positions, so you'll be fighting lots of different factions. So, who's the best value? (Image credit: Creative Assembly) Nagash is the best buy in sheer content terms if you're purchasing him for Immortal Empires. He gets units and legendary lords from across the undead roster, and you get Neferata, the new free lord, just in time for the Vampire Counts race rework. In terms of all the other free content that's been released over the years for Immortal Empires, you'll only get the Free-LC associated with the race you purchase .
+Here's the big stuff Pendola Pass: A snowy mountain region north of the Rust Belt flanked on all sides by a gigantic Emperor corpse. Embark says Pendola is its "most ambitious map to date" and has a unique "Flash Freeze" condition that punishes those who stay outside too long. New ARC types: The Frigate is a "massive airborne carrier" that apparently can't be totally destroyed. Embark framed this as a "high-stakes challenge for experienced Raiders." The Bully is a cousin of the Leaper—a four-legged belligerent that uses "hit-and-run tactics" to whittle away at raiders. The Skulker is a small, ground-level pest that keeps its distance and "takes pot shots" at players. The Hydra is a stationary turret that can target three players simultaneously. Outposts: Personal spaces outside of Speranza that players can build up and expand with decor, furniture, trinkets, and upgrade benches. You can't walk around your outpost, at least for now. "That is something we're thinking about as we look to evolve this feature," added executive producer Aleksander Grøndal in a press Q&A. Weapon Amplification : Using the new research bench, guns can be upgraded to a new "amplifaction" tier that grants them unique abilities, like flammable ammo or rapid-fire. Fifteen guns will have amplifications at first. Guns: The Stiletto is a light ammo battle rifle designed as an "early game alternative to the Renegade," and the Bantum is a quickfire revolver meant to compete with the Anvil. Reworked skill tree:
 
-### Waiter, there's some Path of Exile in my Total War: Warhammer 3 DLC
-Wed, 23 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/strategy/waiter-theres-some-path-of-exile-in-my-total-war-warhammer-3-dlc/
+### I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan
+Wed, 23 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/
 
-The Undead Legions don't have a tech tree. Instead, Nagash—the first and most powerful necromancer with the biggest hat and a goatee made of bones—has a personal web of enhancements called the Black Pyramid. When I saw this in the preview build I sent a screenshot to my coworkers who also had access to the preview and said, "This looks like Path of Exile." They said the same, and so has everyone playing Nagash while streaming the Lords of the End Times DLC ahead of release. It's an unavoidable comparison when you see this multipath maze of upgrades so twisted it has its own search bar. It really does look like it came from the kind of action RPG you put 500 hours into then leave a negative review of on Steam. (Image credit: Sega) While some branches are dedicated to improving specific troops and characters as well as your economy, plenty are direct buffs for Nagash himself. The nodes that connect those branches are also buffs for Nagash, so even if you dedicate yourself to activating nodes that let you summon every troop type in his expansive roster—he's got access to all three of Total War: Warhammer's undead flavors, the Tomb Kings, the Vampire Counts, and the piratical Vampire Coast—you'll inevitably be Nagashmaxxing as you go. In no time at all Nagash becomes an absolute beast on the battlefield, casting Abyssal Swarms that create a vortex of bats, which don't harm his own troops but absolutely mince everyone else, then floating in to slice up the survivors with a sword t
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Every nation has its kooks—excepting of course the Swiss—but there's something utterly American to me about the UFO sighting. It's probably something to do with the sheer size of the place. A tired, potentially hopped-up trucker, trundling across the endless plains of… whatever state has endless plains in it, spying something mysterious and illuminated in the canopy above? That's America to me. Also America to me: the Grand Theft Auto videogame series, so it was only natural that I bring real UFO visits to Rockstar's fake LA. I installed UFO Sightings , "a simple script that spawns a UFO at random locations throughout the map." Its aim is to be eerie and mysterious, which is probably why it limits UFOs to appearing at night. I didn't know that at first, though, so I spent quite a lot of time flying around Mount Chiliad at high noon, trying and failing to find visitors from other worlds. I did find the now-ever-present swarms of hitmen trying to kill me, though, so I had fun. Once I realised my error, I nudged the game clock forward. Voila! All of a sudden, a distant part of the map glowed red. "UFO sighting reported" declared a pop-up. My reaction was swift—I immediately took flight (I have Superman powers ; don't worry about
 
-### Lords of the End Times is 'not the end' for Total War: Warhammer: 'You can't get rid of us that easily'
-Wed, 23 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/strategy/lords-of-the-end-times-is-not-the-end-for-total-war-warhammer-you-cant-get-rid-of-us-that-easily/
+### The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing
+Wed, 23 Sep 2026 16:51:00 +0000 — https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/
 
-2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+Like it or not, Zach Cregger's Resident Evil film has been a critical hit. It reached universal acclaim on metacritic and was a smash hit among the PC Gamer team . I wasn't as fond of it as I hoped to be, but even still I loved the ride and appreciated its faithful adaptation of the videogames. After all this time, I never thought a Resident Evil adaptation could be as good as this. Now, its success is mostly thanks to Zach Cregger's genuine admiration and great knowledge of the games, but some accolades also needs to go to Roy Lee, the film's producer and the person who secured the rights to Resident Evil after Cregger expressed interest in it. (Image credit: Sony Pictures Entertainment) Lee has also worked on other videogame adaptations such as A Minecraft Movie and (as reported by the Wall Street Journal ) he currently has 20 movies and TV shows in development and production, which are based on games like Battlefield, God of War, and—my god: Silent Hill. I am even less sure of someone being able to pull off a genuinely good Silent Hill adaptation than I was about Resident Evil, so I am morbidly intrigued to know more about this venture. But sadly that's all we know so far, there's no word on whether this will be a film or a TV series, so we'll just have to sit and wait for the fateful day when more is revealed. But that won't stop fans from speculating or, more realistically, fearing what we now know to be the inevitable. The top comment on a Reddit thread discussing this 
 
-### A tribute to PC Gamer's first MMO characters—may they never be forgotten
-Wed, 23 Sep 2026 13:28:46 +0000 — https://www.pcgamer.com/games/mmo/a-tribute-to-pc-gamers-first-mmo-characters-may-they-never-be-forgotten/
+### The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design
+Wed, 23 Sep 2026 16:27:24 +0000 — https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/
 
-World of Warcraft: Forever's got me feeling nostalgic . In case you've been under a rock this week, Blizzard's released the beta for its reimagining of "Classic"—or, if you're at least 30 years old like me, "Vanilla"—World of Warcraft. It's a trip and a half, seeing these old zones touched up with just the right amount of modernisation. I've been feeling so nostalgic, in fact, that I decided to ask my fellow writers who their first MMO character was. Or, at least, the first one they could remember. In doing so, I have discovered two things: First, we're all a bunch of mid-2000s kids. This much should not surprise you. Secondly: It's amazing how many details we can drum up about these games, especially from 20+ years ago. You always remember your first—and if you feel the warm rose-tinted fuzzies, I encourage you to share your own first MMO character in the comments down below. (Image credit: Blizzard Entertainment) One day, I just stopped playing. You don't realise it's the last time you'll play, but it was—at least for a very long time. I always kept my account details, though. Not too long ago, in 2025, I decided to log back in after God knows how many years. I'm 34 now, but I was 33 then. I must've been 10 or under when I was playing RuneScape. I was banned. My account had been banned for years. Some clown had stolen it and used it to do nefarious things in my name. I don't know why, but I felt a real sadness for losing that account, even despite not logging in for years. 
+Silent Hill: Townfall has a different kind of resonance if you grew up in the UK. Its Scottish island of St Amelia is already my favourite video game environment of the year for how it evokes the atmosphere and time of a place—specifically 1996—and captures the specific details of small town life. From the video rental shop to the bunting sadly hanging from the buildings, it's the kind of run-down fishing town you never normally see in a video game. That's probably because it's not as glamorous as somewhere like Kamurocho in Tokyo (St Amelia regrettably lacks a Sega World) or New York, and not as dreamy as the Stephen King-inflected small town settings of games like Alan Wake or Silent Hill 2. Using the Silent Hill franchise as this trojan horse to smuggle in a location that's clearly of interest to the Glasgow-based development team at Screen Burn was a marvellous idea: given the state of the games industry, it's unlikely that anyone will ever again be given the budget or time to craft an authentic British newsagent or storefront for a fish and chip shop. Still, as eerily authentic as St Amelia's exterior details are, like the telephone boxes and road signs, it's the interiors that I find uniquely settling. Here's why: my grandparents basically lived in the houses in this game. Konami/Screen Burn Konami/Screen Burn Konami/Screen Burn The kitchen tiling, the heaters, the wallpaper, the appliances—it's so forensically accurate to a certain type of house. The kind of places tha
 
-### It's time to decide the worst graphical effect in games: chromatic aberration vs blood/dirt
-Wed, 23 Sep 2026 13:26:38 +0000 — https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-chromatic-aberration-vs-blood-dirt/
+### Razer Chroma Soma lighting
+Wed, 23 Sep 2026 16:26:29 +0000 — https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/
 
-Motion blur, chromatic aberration, bloom… we've discussed many times whether these effects deserve a spot in a game's settings menu or are the hellspawn of satan's computer graphics division. Now it's time for you to chime in. One final reckoning; until I have the same idea again in five years' time. I am nothing if not returning to this well over and over again. It's your classic knockout format: Two effects go head-to-head and only one makes it through to the next round. There are four initial rounds, then we'll move onto semis, then regional semis, regional quarter semis, semi regionals… nah, we'll make it quick. There are three rounds total. Here are the initial head-to-head rounds: Depth of field vs vignette ( voting is open ) Chromatic aberration vs dirt Motion blur vs lens flare Film grain vs bloom Got it? Get your votes in below. Then y'all can argue about it in the comments, and say stuff like, "well, actually , motion blur serves a very important purpose." Yeah, whatever. Examples Chromatic aberration Here's chromatic aberration in Marathon. Bungie loves a bit of chromatic aberration. It's the red/blue border, most visible on the white cabinet on the left on off Blood/dirt effect I've just been shot by a tank in Battlefield 6. I suppose I would be bleeding pretty badly, but what do we reckon of the effect as a health indicator? on off ]]>
+A chair you have to plug into a power source. For why? For the love of RGB of course. Razer's Soma Chroma gaming chair lights up, but does it light you up? Check out the review and let us know what you think. ]]>
 
-### I crammed 20 anime figures inside my gaming PC to see how it affects thermal performance. Yes, you can call me a scientist now
-Wed, 23 Sep 2026 13:25:23 +0000 — https://www.pcgamer.com/hardware/pc-cases/i-crammed-20-anime-figures-inside-my-gaming-pc-to-see-how-it-affects-thermal-performance-yes-you-can-call-me-a-scientist-now/
+### Razer Soma Chroma gaming chair review
+Wed, 23 Sep 2026 16:17:27 +0000 — https://www.pcgamer.com/hardware/gaming-chairs/razer-soma-chroma-review/
 
-During all my time at PC Gamer, there has been but one idea that feels a bit like flying too close to the sun. I am, of course, talking about cramming as many anime figurines as I can into my PC and monitoring the impact on performance. Thankfully, I've got the figurines, a Hyte Y40 PC case with tool-free, pop-off panels, and an otherwise engaged editor. My methodology is straightforward enough: I'm going to gradually add figurines to the inside of my gaming PC, running FurMark 2 to track any thermal fluctuations. Each time I add more figures, I'll run both the 1080p and the 1440p benchmark presets. First, let's establish the base line: I'm testing on the iBuyPower RDY Y40 Valorant VCTA R003 . On the temperate September day I carried out testing, my RTX 4070 Super enjoyed an ambient temperature of about 34°C / 93.2°F. Without even a whiff of anime inside the PC case, temps shot up to 83°C / 181.4°F under a 100% GPU load in Furmark 2. And, let me tell ya, our Jacob really wasn't kidding when he said those iBuyPower fans get loud under load. The 1080p benchmark returned a score of 11568, and 195 fps. The 1440p benchmark finished with a score of 7812, and 132 fps. With the baseline established, I couldn't help but wonder: is it really all downhill from here? To find out, I installed the first of many Miku Hatsune figurines. Immediately after sealing up the machine with one 10 cm figure inside, ambient temperature picked up by a couple of degrees before quickly falling back down 
+Picture the scene. It’s Christmas morning, the sky is still dark, and Santa is heaving his gigantic ass through your central heating ducts. He emerges into the living room; perhaps he oozes like toothpaste, or pops out fully formed like a jelly from a mould. We’ll never know. He looks around, picks a bit of fluff out of his ear, and sees what he’s looking for: there, in the corner of the room it sits, lit up like... well, a Christmas tree. Only it’s not a spruce or fir, but a chair. Razer has reinvented the Christmas tree as something you can sit on, and its name is the Soma Chroma. Yes, literature fans, it’s got the same name as the drug used by the totalitarian state in Aldus Huxley’s Brave New World that keeps citizens perpetually happy, docile, and compliant. Perhaps it is therefore a metaphor for videogames, which famously leave their participants meek and submissive. Or maybe not. The RGB strips are only at the very top, at the sides of your head if you’re tall enough, but something about their shape distinctly recalls the angles of a Nordmann (or one of those car air fresheners that dangle from the rear-view mirror), as do the harder edges you’ll find elsewhere in contrast to the softer curves of something like the Iskur V2 . Otherwise it’s a standard racing-style seat with the usual Razer black and green styling, and this even extends to the thin gloves (Razer calls them ‘building gauntlets, which is so cute ) provided to protect your soft hands during the only bit of
 
-### It's me, I am the whale
-Wed, 23 Sep 2026 11:23:39 +0000 — https://www.pcgamer.com/games/its-me-i-am-the-whale/
+### I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning
+Wed, 23 Sep 2026 16:03:00 +0000 — https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/
 
-I'm Fraser, and I'm a whale. Yesterday saw my current go-to MMO, Star Trek Online, launch a limited loot box for Star Trek's 60th anniversary, featuring an impressive roster of ships and, for the grand prize, the new Constitution Pilot Multi-Mission Cruiser—the version of the Enterprise seen in Strange New Worlds. I'm too embarrassed to admit how much I spent on loot boxes last night. But I did it! I irresponsibly burned my cash and got the ship, along with a bunch of others. I have no regrets (some regrets). And look how pretty she is! (Image credit: Cryptic) ]]>
+Pro X3 Superstrike Analogue switches 135-hour battery life Refined balance $200 Pro X2 Rapid Hall effect Creamy sound Big wrist rest $230 Pro X Control Thick 460 x 400 mm Slow for control $59 Pro X 3 Lightspeed Great mic 70-hour battery life 50 mm graphene drivers $250 Logitech has just announced a whole range of gear, including the Logitech G Pro X3 Superstrike—essentially a buffed version of the X2 that launched just a few months ago . I've already expressed my thoughts about this in full elsewhere , but the long and short of it is that the X2 Superstrike launch now stings a little because it's been quickly rendered all but obsolete. The flip side to this is that while the X3 Superstrike is great, it doesn't exactly fill me with excitement because I already got excited over the technology when it was actually new back in February. Which means that despite me thinking the X3 Superstrike is fantastic, I'm actually more excited about some of the other products Logitech is releasing: the keyboard and the mouse pad. For anyone who knows me, the fact that I'd be keen on a mouse pad will be no surprise: I'm PC Gamer's resident connoisseur of all things rodent surfaces . And Logitech's new one, the G Pro X Control, is even more specifically my kind of jam because, as the name suggests, it's a control pad. I compared different control pads recently, as the slow but consistent movement across them is very beneficial for tactical shooters like Counter-Strike 2, my main game. At the ti
 
-### PC Gaming Show Toyko Direct 2026 picks
-Wed, 23 Sep 2026 11:15:50 +0000 — https://www.pcgamer.com/games/pc-gaming-show-toyko-direct-2026-picks/
+### Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch
+Wed, 23 Sep 2026 16:01:00 +0000 — https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/
 
-Four games I wishlisted on Steam out of last weekend's PC Gaming Show : Tenebris Somnia - Genre-mixed horror that alternates between 2D retro art and live action, out next month. Wane - My favorite from the show, a roguelike tactics game with an art style that somehow all at once looks like Dishonored, a Remedy game, and Disco Elysium? Piroker - Multiplayer (but also async) autobattling Pirate Balatro. The UI is a lot to handle at first, but I had the knack of it halfway through my first run. Playtest is live now. Hellcard II - The follow-up to a game I liked a couple of years ago, and one of the only multiplayer deckbuilders outside of Slay the Spire 2. ]]>
+It's fair to say I was pretty taken by the G Pro X2 Superstrike when Logitech launched it earlier this year. It was the first mouse I'd seen in a long time that did something genuinely revolutionary. But, just seven months later, it is being rendered all but obsolete by the new G Pro X3 Superstrike. The revolutionary part of the original was that it made its switches analogue and paired this with haptic feedback to replicate the feeling of a click. This allows for adjustable actuation, meaning you can set it low for less time between deciding to click and actually clicking, and the haptics make sure you feel the click exactly when you should, whenever it's set to actuate. That being said, it's far from a perfect mouse. I was thoroughly enamoured by it during my testing, and I still think it deserves a heck of a lot of credit for that revolutionary tech alone. But over time its flaws have come to feel more pronounced to me. It's pretty much the same as the Superlight 2 in other respects, from the shape to the weight, side buttons, and scroll wheel. The side buttons are pretty mushy, the scroll wheel has problems with long-presses, and most importantly—and specifically in the case of the original Superstrike, not the Superlight 2—it's quite top-heavy thanks to those new internals. The worst problem for a lot of people was that front-heavy weighting, as that can cause drag and, well, just not feel very smooth when picking up and moving the mouse. Given it's such an expensive mou
+
+### My first MMO character #1: Harvey Randall
+Wed, 23 Sep 2026 16:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/
+
+My first character was... Leetman, Human Rogue Born: ~2004-2006 Game: World of Warcraft My first ever character was in World of Warcraft, after—as my bio states—I pretty much begged my parents to give me a WoW subscription, and was rewarded for my articulation with a proper WoW account and a life-changingly debilitating enthusiasm for videogames. And while I did technically have a Runescape character before this, I can't remember 'em, so Leetman is here. I was not a good rogue. In my defense, I was 10 years old—but I didn't level my poisons, I didn't reach level cap, and the height of my career was spent futzing around Un'Goro Crater. I did, however, manage to get the gold for a mount, which made me feel pretty swanky. That was a big deal back in the day. Leetman would eventually be traded out for the troll shaman Earthborn when The Burning Crusade rolled around, but I shall remember him fondly. Perhaps his reticence to use poison was merely a question of honour—but he's deleted, now, so we shall never know. (Read the full article here) ]]>
+
+### Wistful about Myst VI
+Wed, 23 Sep 2026 15:42:56 +0000 — https://www.pcgamer.com/games/wistful-about-myst-vi/
+
+Wistful about Myst VI . Two months after Cyan posted the 3-minute glimpse of its cancelled Myst project, it still stings to think that I won't see a full performance from Noshir Dalal, the actor who performs the angry, Lex Luthor-style megalomaniac character seen in the trailer. Not nearly enough Andrew Ryans in gaming lately. Let alone ones who are relentlessly in pursuit of a book. Venture capital funding won't let us have anything nice. ]]>
 
 ## GameSpot
+
+### Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2
+Wed, 23 Sep 2026 18:57:43 +0000 — https://www.gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2/
+
+Rockstar's Grand Theft Auto 6 releases this November, and it's expected to take up a lot of time and attention, leading some to worry how other games may fare in its wake. Ubisoft's Joshua Mills, the creative director for Rainbow Six Siege, said it's unquestionable that "you're going to take a hit when that drops." "All of us are going to play it," Mills told The Game Business . So what can Ubisoft do for Siege when GTA 6 comes out? He said, "It's about being smart and with your expectations so you can keep the team and HQ aligned." He said if the developers working on Siege see the game's player numbers drop, "they can get anxious." However, he observed that the effect on player numbers from a big competitor release is "generally temporary." Whatever the case, Mills said the "golden rule" that Ubisoft operates by is by serving "the players who stay like kings and queens." "We don’t go on vacation just because a competitor is swelling the market. We double down and reward those spending their valuable time with us," he said. Siege's fourth season (of year 11) will release around the time that GTA 6 comes out in November 2026. Mills teased that there are "some unannounced surprises" that Ubisoft is not disclosing yet, but he said they will "make a splash." Why there is no Siege 2, at least not yet Also in the interview, Mills discussed why Ubisoft made Siege X--a new and improved version of the game--instead of Siege 2. He said "fundamentally rebuilding our entire system is a 
+
+### 30 Years Later, Collecting Pokemon Cards Hits A Little Different
+Wed, 23 Sep 2026 18:36:06 +0000 — https://www.gamespot.com/articles/30-years-later-collecting-pokemon-cards-hits-a-little-different/
+
+Let me sound like an old for a second. I remember in the late '90s and early '00s, collecting Pokemon cards was a casual hobby. You'd go to your local brick-and-mortar store with the money you made from mowing the lawn or whatever, drop maybe $10 on a couple of packs, rip them open, then go to your middle school to trade cards with your friends. No one knew how to actually play the game; the cards just looked cool, and everyone wanted something. Me? I wanted a holographic Charizard, and I would've traded literally anything to get my hands on such a rarity. It was so low-key back in the day. Saying that grosses me out, as I sound like a Boomer or Gen Xer, but it's true: Collecting Pokemon cards wasn't that serious, and we didn't put much stock in the cards, stuffing them in bags or pockets and watching them turn up in washing machines. Now? Things are totally different. You can't just collect Pokemon cards as a hobbyist anymore. You've got to fight with scalpers looking to make a quick buck off nostalgia, as well as the kids who are either getting into the TCG for the first time or hoping to get something tradeable for their friends. (I don't decry the kids. They're not at fault.) There have been plenty of incidents involving card collecting and violence lately. Robbers stole over $100,000 in rare cards from a California store in December 2025. A different set of robbers made off with nearly $120,000 in rare cards at gunpoint in New York in January 2026. Police broke up a chao
+
+### High On Life Is Helping Make The Case For Bigger Games On Quest
+Wed, 23 Sep 2026 17:40:18 +0000 — https://www.gamespot.com/articles/high-on-life-is-helping-make-the-case-for-bigger-games-on-quest/
+
+High on Life has been a big hit since it first launched in 2022, thanks to its bizarre sense of humor, motor-mouthed guns, and polished gameplay. But can it succeed as a virtual reality port? That's the question Flat2VR is aiming to answer, as the team behind several VR games is now working with Squanch Games to bring High on Life to Meta Quest 3 and 3S headsets. While it's still early days for the project, I took the time to chat to High on Life VR game director Emily O'Neal and Eric Masher, co-founder and chief operating officer for Impact Reality and Flat2VR Studios, about this project and the challenges involved in adapting it for a new platform. And yes, Knifey did make his way into the conversation. https://youtu.be/U9Kcs-XALBA So why VR? High on Life has been available on PC and console for several years now, but it is considered a smaller, niche platform--or so you'd think, as Masher explained that the VR user base has grown considerably over the years. "VR is a smaller market; it doesn't mean that it's a small market," Masher said. "You know, we're looking at numbers now of Quest headsets being in the 30-million to 40-million range. Those are not numbers to take lightly. A game like Gorilla Tag--which is a free-to-play game--has done over $100 million in revenue. We do see that audience that has been playing Gorilla Tag starting to grow up. They started when they were younger kids, and now they're getting older and have disposable income. What are they going to want 
+
+### Arc Raiders Battle Pass Won t Be Totally Free Anymore, But It ll Pay For Itself
+Wed, 23 Sep 2026 17:00:00 +0000 — https://www.gamespot.com/articles/arc-raiders-battle-pass-wont-be-totally-free-anymore-but-itll-pay-for-itself/
+
+When Arc Raiders' next major update, Frozen Trail, goes live on October 8, it'll introduce lots of changes and additions, and while the update itself will be free, the new battle pass system that comes with it won't be--at least not entirely. To date, Arc Raiders has featured three battle pass-like Raider Decks in the game. Players could complete dailies to unlock Creds that then got them rewards like new cosmetics and in-game items. With Frozen Trail, Embark Studios' new Reward Pass is replacing this system with one quite like it, only it'll also have a paid premium track for unlocking additional rewards. Anyone who owns the game gets the Free Pass, naturally, while the paid track will cost 1,150 Raider Tokens, or about $10 USD. Thankfully, Embark is taking the opportunity to sort the rewards responsibly, with the Premium Pass offering only cosmetic items. Players will get gameplay-altering items, like new weapons and gear, exclusively through the Free Pass. This approach avoids any type of pay-to-win debacle. Maybe the best feature of the newly priced Reward Pass is that if you buy access to the Premium Pass, you'll earn back more than you spent on it, pocketing 1,350 Raider Tokens for completing the pass, 200 of which are found in the Free Pass. Of course, your time isn't free either, but since Arc Raiders was my Game of the Year last year , I'm happy to see that sort of player-friendly exchange rate debut in Arc Raiders, especially after it recently left my other live-ser
+
+### Marvel s Wolverine Claws Are Real Now, And Your Groceries Don t Stand A Chance
+Wed, 23 Sep 2026 16:20:11 +0000 — https://www.gamespot.com/articles/marvels-wolverine-claws-are-real-now-and-your-groceries-dont-stand-a-chance/
+
+Contrary to comic book science, you don't need to enroll in a shadowy Canadian black-ops program and undergo excruciating pain to get a set of Wolverine's signature claws. Instead, it's much easier--and less traumatic--to simply hire some blacksmiths to craft you a set, which is exactly what PlayStation did to celebrate the launch of Marvel's Wolverine . Choosing Fiedlero Knives for the job, PlayStation tasked the blacksmith with creating a custom set of Wolverine-inspired claws, and unsurprisingly, the end result looks downright lethal. https://twitter.com/PlayStation/status/2102782668060475678 They may not be made of indestructible adamantium, but these blades made short work of some fresh produce when tested. And best of all, you don't need a mutant healing factor to wield these--although it would be advisable, just in case you equip them and accidentally trip. Similar to the practical props used by Hugh Jackman, these claws are attached to a handle that makes the blades look like they're really coming out of your hands. Plenty of knock-offs are available online, including plastic versions that are slightly safer than the metal ones. Marvel's Wolverine launched earlier this month, but the reception has been lukewarm at best. The game has been criticized for its restrictive level design, excessive hand-holding, and repetitive combat, but developer Insomniac Games is aiming to address these complaints. A new patch for the game recently went live, toning down the intrusive sc
+
+### More Lord Of The Rings Game Re-Releases Revealed, And They re Great
+Wed, 23 Sep 2026 16:13:08 +0000 — https://www.gamespot.com/articles/more-lord-of-the-rings-game-re-releases-revealed-and-theyre-great/
+
+Aspyr Media is on a mission to re-release more The Lord of the Rings games , and now the latest titles have been revealed. The publisher announced on September 22--the shared birthday of Frodo and Bilbo--that Middle-earth: Shadow of Mordor's Game of the Year edition and Middle-earth: Shadow of War's definitive edition are coming to Switch 2 soon. The games are releasing on Switch 2 in what's called the Middle-earth: Shadow Bundle , which releases on September 30 for $70. However, the bundle is half off--bringing it down to $35--through October 6 at 2:59 AM ET. The Switch 2 is getting more The Lord of the Rings games. Aspyr did not detail any technical specifics for the Switch 2 versions. They do come with a range of extra content from each game's DLC model, though, including story missions, skins, weapons, and gear sets. Aspyr's first The Lord of the Rings re-release was the Legacy Edition of 2011's The Lord of the Rings: War in the North back in August. At the time, Aspyr said it planned to re-release even more older The Lord of the Rings games . Shadow of Mordor and Shadow of War were developed by Monolith Productions--people wanted a third game, but Warner Bros. Games shuttered the studio in 2025 . In addition to the re-releases of older games, brand-new The Lord of the Rings games are coming, including a “deeply immersive” RPG from Kingdom Come developer Warhorse. Tomb Raider developer Crystal Dynamics is said to be developing one as well . Outside of the games, Warner Br
+
+### Star Wars Zero Company Reportedly Hits 1 Million Sales, But Will It Be Enough?
+Wed, 23 Sep 2026 16:06:16 +0000 — https://www.gamespot.com/articles/star-wars-zero-company-reportedly-hits-1-million-sales-but-will-it-be-enough/
+
+Star Wars Zero Company released in late August, and the game has evidently found an audience, as market-data firm Alinea Analytics estimates that the game has sold 1 million units. Writing on Twitter, analyst Rhys Elliott shared the estimate , which heavily favors PC. Roughly 70% of sales were on PC--unsurprising given the turn-based-tactics genre--with PlayStation following at roughly 20% and Xbox at about 10%. Elliott called its performance thus far "respectable for the genre and during such a crowded period" that also saw the launch of games like Onimusha: Way of the Sword and The Blood of Dawnwalker. Elliott also noted, however, that Zero Company's appeal is almost entirely to Western audiences, with less than 5% of the game's players being in Asia. https://www.youtube.com/watch?v=QmrvlMbozAs The news comes weeks after developer Bit Reactor furloughed a large portion of its staff , and it isn't yet clear when or if they will be able to resume their work at the studio. Having Zero Company perform well commercially would presumably make publisher EA more interested in a sequel, but it also comes at a very strange time for the company , which was just taken private as part of a deal with the Saudi Arabian Public Investment Fund. Regardless, Star Wars Zero Company is definitely worth playing if you're a fan of XCOM-style games. In our 8/10 Star Wars Zero Company review , Steve Watts said, "Developer Bit Reactor set higher ambitions than simply slapping a Star Wars skin on a t
+
+### Resident Evil Movie Director Reveals His Four Favorite Games
+Wed, 23 Sep 2026 15:38:21 +0000 — https://www.gamespot.com/articles/resident-evil-movie-director-reveals-his-four-favorite-games/
+
+Zach Cregger, the director of the newly released Resident Evil movie, has revealed his top four favorite video games, and he made some solid choices. Before he listed off his top four to Regal, Cregger said they came "off the top of my head," so if he had more time, he might have chosen other games. Or he may not have. In any event, here are the games that Cregger singled out as his four faves: The Binding Of Isaac Dark Souls 3 Resident Evil 4 The Last of Us 2 https://www.youtube.com/shorts/Xdpkc_h1kLM People are saying that Cregger earned his "gamer cred" for these specific choices ( via GamesRadar ). His Dark Souls 3 pick was not surprising given Cregger was known to stream the game on Twitch over the years. It's also not surprising that he called out Resident Evil 4, as he borrowed from that game for his movie . In the same interview, Resident Evil actor Austin Abrams, who plays Bryan, said Cregger asked him to play Resident Evil 2, 4, and 7 to prepare for the movie. Cregger received a lot of backlash from core fans of the Resident Evil series over the direcion he took the movie and how it didn't feature any stories or characters from the games. He said he was naive to think fans would embrace his ideas . Things seemed to work out for Cregger in the end, as Resident Evil scored fantastic reviews and had a gigantic opening weekend at the box office .
+
+### Obsidian s New Fallout Game Is Still Coming, As The Studio Moves Under Bethesda s Umbrella
+Tue, 22 Sep 2026 15:45:13 +0000 — https://www.gamespot.com/articles/obsidians-new-fallout-game-is-still-coming-as-the-studio-moves-under-bethesdas-umbrella/
+
+As Xbox continues its reset and lays off nearly 300 staff , the company announced that some of its subsidiaries have been shaken up as well. This includes Obsidian Entertainment, which will now operate under Bethesda Softworks. On September 22, Xbox chief content officer and executive vice president Matt Booty posted on Xbox's website , outlining a new structure that sees the Bethesda business unit now include Obsidian. "Bethesda will expand its remit to include Obsidian, which will continue its current projects, including Grounded, as well as the new Fallout project made in collaboration with Bethesda Game Studios," Booty wrote on Xbox Wire. This language doesn't appear to suggest that Bethesda gobbled up Obsidian to take ownership over the studio or anything. Instead, it sounds a little closer to the working relationship Bethesda--or rather, the studio's parent company, ZeniMax Media--has with Doom maker id Software. Since the news was made official, Bethesda president Jill Braff reportedly told employees (via Aftermath ) that the "creative identity and strengths that make Obsidian distinct will remain at the core of their work," so it doesn't appear there will be a major shake-up in the development process. Obsidian Entertainment--which developed copious RPGs from Neverwinter Nights 2 to Pillars of Eternity to Star Wars Knights of the Old Republic II: The Sith Lords to The Outer Worlds -- lost 25% of its staff in July after Xbox's first major reset. This resulted in the Av
 
 ### GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says
 Wed, 23 Sep 2026 14:57:50 +0000 — https://www.gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says/
@@ -427,52 +472,12 @@ Wed, 23 Sep 2026 14:04:39 +0000 — https://www.gamespot.com/articles/activision
 
 Microsoft is overhauling its Xbox business in a big--and painful--way . Part of the effort to "reset" Xbox involves enlisting Call of Duty publisher Activision to make the next Halo game . This isn't a spin-off or some kind of other extension of the iconic sci-fi series, but instead the next entry in the main series following 2021's disappointing Halo Infinite. Here's what we know about Activision's Halo game, and what comes next for Halo Studios. What's the new game? The biggest question is what is the new Halo game from Activision? The announcement from Xbox chief content officer Matt Booty didn't reveal any specifics, but a story from The Hollywood Reporter said it is a "full-feature, mainline installment" in the long-running series. Activision boss Rob Kostich said in a statement to Game File that Activision is trying to make the "greatest Halo game ever." He said the ambition is to make a game that is "worthy of its universe and legacy, while staying true to what made players love it in the first place." "It is a bold ambition, one that this franchise deserves. We have already begun assembling a purpose-built team, unique in capability and talent, ready and excited to deliver this next chapter with the community," he added. Who is developing the new Halo game? Booty said Microsoft is putting together a "new, purpose-built team" to make the new Halo game at Activision. He also clarified that efforts to make the new Halo game at Activision are "separate from ongoing develo
 
-### Diablo 5 Wants You To Feel Your Power, Not Just See A Bigger Number
-Wed, 23 Sep 2026 13:50:45 +0000 — https://www.gamespot.com/articles/diablo-5-wants-you-to-feel-your-power-not-just-see-a-bigger-number/
-
-Diablo 5 won't be out until 2029, but Blizzard is already sharing plenty of details on the game following its reveal at BlizzCon earlier this month. The power fantasy of being a demon-slaying warrior is one aspect of the Diablo experience that Blizzard wants to overhaul. Compared to Diablo 4, the developer wants you to feel the might of your newly earned power on the battlefield. Speaking to PC Gamer , game director Joe Shely explained how players should feel and look more powerful as they level up. "Diablo is a game that, in many ways, is about your character getting stronger and when the monsters get stronger at the same time, especially outside of your control," game director Joe Shely said. "You've filled the experience bar, you get stronger, you should feel awesome now, a wave of light pulses out from you, a bunch of monsters die." "That's wonderful, but then you're going to go hit some more monsters, and you should feel powerful. And sometimes automatic scaling can get in the way of that feeling, which is so core to it, and that's why this is a really important question. And so, we're going to take a somewhat different approach to that in Diablo 5." https://www.youtube.com/watch?v=USLXXyEv5ag In Diablo 4, the game was criticized for having an aggressive layer of level-scaling for enemies. Even if you'd optimized your loadout and equipped optimal skills, there was always that friction between the player and the world, with players pointing out that the diminishing return
-
-### Gears of War: E-Day Story Director Laid Off Just Before Launch
-Wed, 23 Sep 2026 13:29:36 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-story-director-laid-off-just-before-launch/
-
-Gears of War: E-Day officially went gold several days ago--indicating that the game is ready to hit its October launch date--but sadly, story director Juan Vaca was caught up in the latest wave of Xbox "reset" layoffs . After posting about the game hittings its new milestone, Vaca revealed that he was one of over 260 people who was impacted by job cuts at Xbox. "I am part of this round of Microsoft Layoffs and am open to new opportunities in games/film/TV," Vaca wrote on LinkedIn . "If your team needs a director/storyteller please reach out." Vanca spent over four years at Gears of War: E-Day developer The Coalition, working as a story director. He'd previously interned at Marvel Studios, worked as a narrative designer at Telltale Games, and was employed at Netflix for three years, where he worked on several series. As mentioned above, he's one of hundreds of people affected by the continued reorganization of Xbox, as this week saw further consolidation of its various studios under Activision Blizzard, Bethesda, and King. The fresh round of layoffs has hit first-party developers, management, and central functions teams at Xbox Game Studios, and they come in the wake of 1,600 people being made redundant back in July. They also aren't over yet, as Xbox boss Matt Booty says that Microsoft is only three-quarters of the way done so far and Blizzard is expected to face cuts next. Another high-profile layoff was that of Halo Studios' cinematic director, Josh Daniels, just a day afte
-
-### Halo Co-Creator Reacts To Franchise Moving To Activision: Shocked But Not Entirely Surprised
-Wed, 23 Sep 2026 11:43:25 +0000 — https://www.gamespot.com/articles/halo-co-creator-reacts-to-franchise-moving-to-activision-shocked-but-not-entirely-surprised/
-
-The Halo franchise has a new home at Activision, as Microsoft announced sweeping changes to its Xbox games division this week. As various Xbox studios are being consolidated under new branches of the company, Halo co-creator Marcus Lehto has commented on the series' move to Activision. "Shocked but not entirely surprised by the news of the Halo Studios closure and moving the franchise to an Activision team," Lehto wrote online . "Wishing the best for all the developers who were affected by this decision. I, as well as you all, am eager to learn more about what’s next." While it's still early days, Activision has confirmed that its Halo game will be developed by a "new, purpose-built team," separate from its army of studios responsible for annual Call of Duty games. Halo Studios will still exist, but in a reduced capacity following a fresh wave of layoffs . Going forward, the studio will be focused on supporting the Halo games that have already been released and the wider Halo community. https://www.youtube.com/watch?v=7LimYD3Ycwo The Halo franchise has had several ups and downs, with 2026 also marking the series' 25th anniversary. Previously, Xbox CEO Asha Sharma had commented on how Microsoft wants to revive Halo as a tentpole franchise, while Lehto spoke about just how expensive it would be to pull off that resurrection. Lehto also called out the Halo: Combat Evolved remake for being "too heavy-handed–pandering to a new era of players with 0% attention span," and he suggest
-
-### KPop Demon Hunters And Ghostbusters Come To Monopoly Go For Spooky Season
-Tue, 22 Sep 2026 19:57:22 +0000 — https://www.gamespot.com/articles/kpop-demon-hunters-and-ghostbusters-come-to-monopoly-go-for-spooky-season/
-
-It is officially the fall season in the northern hemisphere, and that means that Halloween is approaching. Mobile game giant Scopely has announced how it's celebrating, and that includes crossovers with KPop Demon Hunters and Ghostbusters in the uber-popular mobile game Monopoly Go. The "Monster Mash" season, as it's called, runs September 23-November 25. During the event, players can take part in themed minigames and "immersive adventures" featuring Huntr/X and the Saja Boys from KPop Demon Hunters. https://www.youtube.com/watch?v=Bfx2VOlj4dg Naturally, music is a big part of the crossover event, with Huntr/X's "Golden" and "How It's Done" appearing in Monopoly Go during the event. There will also be new items to buy from the Blocks Boutique shop, including themed collectibles based on the movie. The characters Rumi, Mira, and Zoey will appear as well. As for the Ghostbusters crossover, there are Ghostbusters-themed vehicles coming to Monopoly Go, along with locations and characters that will be familiar to fans of the films. And before you even ask, yes, the Proton Blaster is in the update as well. KPop Demon Hunters comes to Monopoly Go. Beyond these licensed crossovers, Monopoly Go's Halloween event adds the Luck-O-Lanter, which players can fill with sweet treats they find on the game board. There is also a new "dice duel" feature where players can roll dice for the chance to trick or treat their opponent based on who rolls the higher number. What's more, the Halloween up
-
-### StarCraft Doesn t Sound Like An Xbox Exclusive
-Tue, 22 Sep 2026 19:54:28 +0000 — https://www.gamespot.com/articles/starcraft-doesnt-sound-like-an-xbox-exclusive/
-
-StarCraft won't be an Xbox exclusive, though Blizzard isn't exactly making it clear what platforms the newly announced shooter will launch on. Announced during BlizzCon 2026 with a 2030 release date, Blizzard's StarCraft reboot won't "be exclusive," according to Kotaku , who received a comment from a Blizzard spokesperson. What exactly that means, however, is still up for debate. When asked for clarification on whether that means StarCraft would be coming to PlayStation as well as Xbox and PC, Blizzard would only say that calling it an Xbox exclusive would be incorrect, according to Kotaku. https://www.youtube.com/watch?v=TIu2tGCCKQw Xbox owner Microsoft acquired Blizzard in 2023 as part of its nearly $75.4 billion purchase of Activision Blizzard. In recent months, Xbox has pivoted away from its multiplatform release strategy that saw franchises like Forza and Halo make their debut on PS5 to one once again making games, like the upcoming Gears of War: E-Day , Xbox-console exclusives . Xbox announced more layoffs today following even larger cuts from this summer as part of CEO Asha Sharma's "reset." Blizzard has yet to be hit by these more recent layoffs, but reporter Jason Schreier indicated earlier this month it could be next. Where that leaves Blizzard's various franchises is unclear. It seems safe to assume StarCraft will launch on PC, as that's where all previous StarCraft RTS games are playable. Blizzard is in many ways a PC-first developer, with a decades long history o
-
-### WoW: Forever Aspires To Have A Mandela Effect On Players
-Tue, 22 Sep 2026 18:53:02 +0000 — https://www.gamespot.com/articles/wow-forever-aspires-to-have-a-mandela-effect-on-players/
-
-World of Warcraft: Forever is reinventing the classic version of Azeroth with all kinds of new content, and if Blizzard does its job, players won't be able to tell the difference between what's old and what's new. Announced during BlizzCon 2026 , Forever introduces four new zones to Azeroth: the Riverglades, Mount Hjyal, Shen'dralas, and Zephras Isle. In an interview with GameSpot, WoW: Forever senior art director Jeff Parrott and senior game designer Josh Greenfield elaborated on how Blizzard approached developing these all-new zones so that they don't feel out of place in a 22-year old game, as well as how they tried to capture how players "remember" Azeroth looking. Parrott said the team spent a lot of time looking back at the original, "vanilla" version of WoW and trying to understand how zones were designed back in 2004 when the game first released. "The team did a great job of just digging in there," Parrott said. "Riverglades is a great example. I think that's a full new zone that we have, and really did a great job of leaning into that Vanilla-era kind of ethos for the design, the flow in the way everything kind of moves through the zone, the quests move you through the zone. It does feel extremely of that era, of that time. So it's really just understanding what we're aiming for and staying faithful to it." https://www.youtube.com/watch?v=buBZRiQXl8U He said the goal was for Forever's new zones to feel "familiar, but new." "It feels like going home," Parrott said. "I
-
-### What Is Xbox Game Studios At This Point?
-Tue, 22 Sep 2026 18:04:36 +0000 — https://www.gamespot.com/articles/what-is-xbox-game-studios-at-this-point/
-
-The organizational structure of Xbox has long been complex and unwieldy, and that hasn't changed after the latest wave of changes and layoffs as part of Xbox's "reset." But Microsoft's latest reshuffling of its studios and workforce does prompt the question of what the "Xbox Game Studios" brand even is now, with apparently only a few studios left under that banner. The Xbox division ( formerly named Microsoft Gaming ) consists of Xbox Game Studios, Bethesda parent company ZeniMax Media, and Activision Blizzard, but after some rearranging, Xbox Game Studios appears to only consist of the following companies: The Coalition (Gears of War) inXile Entertainment (Wasteland, Clockwork Revolution) Playground Games (Forza Horizon, Fable) Not included is Mojang, the Minecraft studio that Microsoft has been leaning heavily on -- that studio now reports directly to Xbox CEO Asha Sharma. Graphics like this official Xbox Game Studios image from 2019 have aged poorly. Former studios under the Xbox Game Studios brand include Rare and World's Edge, the developer of Age of Empires, but both now fall under Activision Blizzard. And while it's unclear if Halo Studios as an organization is now formally an Activision Blizzard entity, it's official that Activision is indeed making the next Halo game . Meanwhile, Xbox studio Obsidian Entertainment has jumped to Bethesda, and Turn 10 has merged with Playground Games. ZeniMax now has the following studios: Bethesda Game Studios id Software Obsidian Ent
-
-### Xbox Layoffs Are Not Done Yet
-Tue, 22 Sep 2026 17:47:36 +0000 — https://www.gamespot.com/articles/xbox-layoffs-are-not-done-yet/
-
-Microsoft's "reset" of the Xbox business entered its next chapter this week with the announcement of 268 more layoffs, along with other drastic organizational and operational changes for the gaming giant. As part of the announcement, Xbox boss Matt Booty said this latest wave of restructuring, combined with the changes completed in July, brings the company up to "roughly three-quarters of the way through" the planned changes. In essence, he’s saying that the Xbox “reset” effort isn't over yet, so further layoffs and other changes are expected. Microsoft's "reset" of the Xbox business is not done yet. In July, Xbox announced that it was laying off 1,600 people immediately , with a further 1,600 layoffs to come during Microsoft's fiscal year 2027, which ends June 30, 2027. With 1,600 cuts in July and 268 more today, that leaves 1,332 still to come. Even if that math isn't totally accurate given how microsoft tallies things, it's definitely true that many more staff reductions are coming. According to comments from reporter Jason Schreier this month , layoffs at the Warcraft and Diablo company Blizzard are coming imminently. This would be just after Blizzard made a series of big announcements at BlizzCon . GameSpot has contacted Microsoft seeking comment on the accounting details for the cuts so far and what could come next. The latest wave of cuts at Xbox hit Halo Studios, other first-party game developers, and the Xbox Game Studios management and central functions teams. The i
-
-### WoW: Forever Doesn t Let Shamans Or Warlocks Tank, But That Could Change
-Tue, 22 Sep 2026 17:34:11 +0000 — https://www.gamespot.com/articles/wow-forever-doesnt-let-shamans-or-warlocks-tank-but-that-could-change/
-
-World of Warcraft: Forever is bringing big changes to the WoW Classic sandbox, but don't expect to see Shamans or Warlocks tanking, at least at launch. New roles for classes, like the above-mentioned tanks, as well as Rogue tank and Mage healer, were something Blizzard experimented with in WoW: Classic Season of Discovery. It certainly helped solve the game's tank shortage problem, with more classes than ever before able to taunt enemies and effectively hold aggro. In an interview with GameSpot, WoW: Forever senior game designer Josh Greenfield said that while the team learned many lessons with Season of Discovery and carried many of those forward into Forever, more "out there" changes like Warlock tank or Mage healer didn't make the jump. “I think in spirit, a lot of the lessons we learned are carried over, but some of the more out-there things that weren’t originally in original WoW, we tone them back a little bit,” Greenfield said. “Because it’s one of those things…It’s in the name: It’s Forever. We can do a lot of things over years, but we wanted to kind of start from a place where the soul of the class is very coded and original-WoW-centric. But there’s still meaningful changes and really exciting kinds of ways to play, the existing ways to play your class and new ways to play your class. But some of [those], like Warlock tank, Shaman tank, not quite yet, but never say never." https://www.youtube.com/watch?v=buBZRiQXl8U Currently in the WoW: Forever beta, the idea of a t
-
 ## Rock Paper Shotgun
+
+### The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown
+Wed, 23 Sep 2026 15:45:39 +0000 — https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown
+
+Control Resonant is almost everything I wanted from a Remedy-flavoured character action game, including several sub-things I didn&rsquo;t initially believe it would pull off. However, one particular ambition has failed to come good: the ability for me to play it in bed. Despite previously expressed plans for Steam Deck support, alas, Resonant needs to render just a bit too much paranturally skew-wiff Manhattan for it to comfortably run on Valve's handheld. The bigger, beefier Steam Machine is a different story, which is good, because otherwise this would be a very short article. But with Control Resonant lacking any public SteamOS hardware compatibility ratings just a day before release, consider this a warning: it&rsquo;s a damn fine game, on almost any modern PC that isn&rsquo;t a Deck. Read more
 
 ### "This one is especially bad": Steam game about mistreating ragdolls suffers second bout of mod-based malware this year
 Wed, 23 Sep 2026 15:09:11 +0000 — https://www.rockpapershotgun.com/this-one-is-especially-bad-steam-game-about-mistreating-ragdolls-suffers-second-bout-of-mod-based-malware-this-year
@@ -528,9 +533,4 @@ If you own a Steam Machine , and still cling to the misconception that my budget
 Tue, 22 Sep 2026 16:32:13 +0000 — https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more
 
 After a rip-roaring start for The Blood of Dawnwalker (one that has seen a bit of pushback against its timer mechanic , and an apparent confirmation of a sequel being in the works ), developer Rebel Wolves are gearing up for the game's first big update, one that'll introduce a new difficult mode and a suite of improvement, most likely arriving early October. Read more
-
-### "I'm still blown away by the amount of talent": Hellblade devs Ninja Theory face closure after Microsoft fail to reach a deal with buyers
-Tue, 22 Sep 2026 16:18:22 +0000 — https://www.rockpapershotgun.com/im-still-blown-away-by-the-amount-of-talent-hellblade-devs-ninja-theory-face-closure-after-microsoft-fail-to-reach-a-deal-with-buyers
-
-Earlier this year, Microsoft announced that they were trying to sell UK-based Hellblade creators Ninja Theory as part of their steady efforts to siphon larger, shinier doubloons from the Xbox gaming business by laying off thousands of people . Today, they are proposing to close Ninja Theory, having ultimately failed to reach an agreement with buyers, though they're still holding out hope of a happier outcome. The news comes as part of the latest round of Microsoft cuts , which have seen Xbox lay off 268 people and merge several of their best-known studios. Read more
 
