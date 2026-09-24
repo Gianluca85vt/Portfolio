@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Undead Labs independent, State of Decay 3 loses staff">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#3A0A2A"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif">
+    <text x="88" y="150" font-size="34" letter-spacing="6" opacity="0.72">UNDEAD LABS</text>
+    <text x="88" y="330" font-size="176" font-weight="700">ONE DAY</text>
+    <text x="88" y="420" font-size="52" font-weight="500" opacity="0.92">independent, then smaller</text>
+    <rect x="88" y="470" width="150" height="5" opacity="0.85"/>
+    <text x="88" y="560" font-size="40" opacity="0.8">State of Decay 3 still says 2027</text>
+  </g>
+</svg>
