@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-24T09:31:48.175Z
+# AI — harvested 2026-09-24T15:29:55.221Z
 
 ## OpenAI
 
@@ -63,6 +63,9 @@ Tue, 22 Sep 2026 18:00:00 GMT — https://openai.com/index/introducing-gpt-6-sol
 Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
 
 ## Hugging Face
+
+### Accelerating vision-language models with LFM2.5-VL-DSpark
+Thu, 24 Sep 2026 14:08:57 GMT — https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
 
 ### How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows
 Wed, 23 Sep 2026 18:41:40 GMT — https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp

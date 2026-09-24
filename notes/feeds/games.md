@@ -1,6 +1,31 @@
-# Games — harvested 2026-09-24T09:31:48.175Z
+# Games — harvested 2026-09-24T15:29:55.221Z
 
 ## Eurogamer
+
+### Roman Sands Re:Build review - a fiendish immersive sim drenched in a vaporwave glitchcore palette
+Thu, 24 Sep 2026 12:38:07 +0000 — https://www.eurogamer.net/roman-sands-rebuild-review
+
+After first hearing about Roman Sands Re:Build, and following along with bits of its development over the last few years, it's been a real ride getting to sit down with it; the demo from a couple years ago gave us a glimpse at both of the game's very different acts, a contrast that I initially misunderstood as a moving continuously back-and-forth between two realities situation (it's not). Fast forward to last night: almost fourteen hours in, Re:Build is already cementing itself in my head as one of those unclassifiable experiences that defies neat or sensible analysis and certainly isn't the sort of game that, in an ideal world, should be scored. (The "Re:Build" appendage is to distinguish this game from 2019's Roman Sands , its first iteration that was reportedly not quite cooked yet.) Read more
+
+### "I assume someone is being greedy somewhere" - Tim Schafer discusses current game industry woes following Double Fine's split with Xbox
+Thu, 24 Sep 2026 12:26:38 +0000 — https://www.eurogamer.net/double-fine-tim-schafer-xbox-greedy
+
+Tim Schafer - the founder of acclaimed developer Double Fine Productions, and the legendary designer behind the likes of Day of the Tentacle and Psychonauts - has spoken out about his studio's recent shift to independence, as well as Game Pass, and industry woes at large. Read more
+
+### Quake Champions ditches free-to-play and kills off its Microsoft Store version eight years after its original release
+Thu, 24 Sep 2026 11:55:59 +0000 — https://www.eurogamer.net/quake-champions-free-to-play-removed-now-paid
+
+In an unusual move, developer id Software's free-to-play shooter Quake Champions is transitioning into a paid product, eight years after its original release. As part of the same move, the Microsoft studio is killing off the Microsoft Store version, meaning it's now only available on Steam. Read more
+
+### Xbox's version of PlayStation's Platinum Trophy achievement seems to leak, and it's got a sound-effect that's 15 seconds long
+Thu, 24 Sep 2026 10:45:03 +0000 — https://www.eurogamer.net/xbox-mythic-platinum-achievement
+
+I'm not sure what's more surprising: that Xbox never had a Platinum Trophy equivalent, that Xbox feels the need to have a Platinum Trophy equivalent, or that it's adding a Platinum Trophy equivalent now while restructuring the company. Read more
+
+### Player discovers game-changing pair of pants in World of Warcraft: Forever
+Thu, 24 Sep 2026 09:43:58 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-pants-smelter-professions
+
+The times when a pair of pants prove newsworthy are tragically rare, and when they are it's usually not a good thing. Thankfully, a community discovery in World of Warcraft: Forever has remedied that. Read more
 
 ### Don't expect regular Destiny 2 updates to return, despite the surprise "unvaulting" of game additions
 Thu, 24 Sep 2026 08:52:40 +0000 — https://www.eurogamer.net/destiny-2-unvaulted-content-details-report
@@ -37,32 +62,22 @@ Wed, 23 Sep 2026 13:22:06 +0000 — https://www.eurogamer.net/halo-studios-closu
 
 Former Halo leaders Bonnie Ross and Kiki Wolfkill have added their voices to the chorus of people wishing laid-off Halo Studios employees well after Microsoft's drastic downsizing of the studio yesterday. Read more
 
-### Stellar Blade is a success now but once came close to the brink: "We could only pay salaries for about three months"
-Wed, 23 Sep 2026 12:36:54 +0000 — https://www.eurogamer.net/stellar-blade-rocky-development-three-months-salary
-
-Shift UP CEO Hyung-Tae Kim has spoken about the troubles faced during Stellar Blade 's development, including doubts from investors about the game's ability to break even, and rapidly depleting funds to pay staff with. Read more
-
-### Age of Empires studio World's Edge reportedly lost "nearly half" of its staff during yesterday's Xbox cuts and move to Activision
-Wed, 23 Sep 2026 12:33:37 +0000 — https://www.eurogamer.net/age-of-empire-worlds-edge-studio-xbox-cuts
-
-Yesterday's Xbox cuts saw organisational restructuring that moved Age of Empires studio World's Edge under Activision's control. The initial announcement did not specify whether the Age of Empire studio would lose any staff as part of this transition, but new information has emerged suggesting many members of the team have been let go. Read more
-
-### Star Wars Zero Company finds success in passing 1m sales, so can the furloughed development team be reinstated and paid now?
-Wed, 23 Sep 2026 11:37:47 +0000 — https://www.eurogamer.net/star-wars-zero-company-xcom-sales-furloughed-staff
-
-Star Wars Zero Company, the XCOM-like turn-based tactics game from Bit Reactor, appears to have been a success, selling more than 1m copies, according to estimates from industry analyst Alinea Analytics . Read more
-
-### Xbox lays off Gears of War: E-Day's story director barely two weeks before the game's launch
-Wed, 23 Sep 2026 09:00:12 +0000 — https://www.eurogamer.net/gears-of-war-e-day-story-director-laid-off-xbox-cuts
-
-The story director for Gears of War: E-Day has been laid off as part of yesterday's Xbox cuts , barely two weeks before the game he's worked on for more than four years is released. Read more
-
-### Resident Evil movie review - the best video game adaptation of playing a video game
-Wed, 23 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/resident-evil-movie-review
-
-There's a bit somewhere in the middle of the rubbish Doom movie, where the perspective suddenly switches to first-person. Look, it seems to say, it's just like you playing the video game! But what Zach Cregger's new Resident Evil movie gets is that, really, it's nothing like me playing the video game. Back on my side of the screen, I might be sitting in a digital space marine suit, gliding around gloomy corridors as monsters leap at my face, but I'm certainly not behaving like one. I am shrieking; I am cringing, I am swearing; I am fumbling the controller, and I'm firing stray bullets at the roof. And while, yes, I might occasionally allow myself a quick celebrity whoop, the power fantasy is hardly a total one. Read more
-
 ## GamesIndustry.biz
+
+### Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation
+Thu, 24 Sep 2026 13:48:19 +0000 — https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
+
+The Dutch consumer group Stichting Massaschade & Consument (SMC) has filed a class action lawsuit against Epic Games, alleging it has misled young Fortnite players. Read more
+
+### Righting old wrongs: MobyGames on letting developers claim games they weren't credited for
+Thu, 24 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for
+
+In March 2022, Atari acquired the video game database MobyGames. Read more
+
+### TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP
+Thu, 24 Sep 2026 10:12:10 +0000 — https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip
+
+TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by "strong catalogue performance and new launches." Read more
 
 ### Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay
 Thu, 24 Sep 2026 07:56:51 +0000 — https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
@@ -104,31 +119,51 @@ Wed, 23 Sep 2026 07:57:04 +0000 — https://www.gamesindustry.biz/undead-labs-co
 
 Undead Labs has announced its independence and is now operating as an "employee-owned game development studio." Read more
 
-### Xbox transfers Rare and Halo franchise to Activision, proposes closure of Ninja Theory, and confirms another 268 roles cut amid studio restructure
-Tue, 22 Sep 2026 14:06:00 +0000 — https://www.gamesindustry.biz/xbox-transfers-rare-and-halo-franchise-to-activision-proposes-closure-of-ninja-theory-and-confirms-another-268-roles-cut-amid-studio-restructure
-
-Original story: Xbox has transferred legendary UK studio Rare and ownership of the Halo franchise to Activision, announced the imminent closure of Ninja Theory, and enacted sweeping cuts at Halo Studios. The news was announced via an Xbox Wire post this morning, and followed earlier reports of planned layoffs . Read more
-
-### "There is no easy answer anymore, there's no kind of playbook" – Secret Mode is hedging its bets with two very different pillars
-Tue, 22 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/there-is-no-easy-answer-anymore-theres-no-kind-of-playbook-secret-mode-is-hedging-its-bets-with-two-very-different-pillars
-
-It's all smiles over at Secret Mode right now. Since breaking free from Sumo Digital (and its parent Tencent) last year, the newly independent UK publisher has been going great guns. Read more
-
-### IO Interactive "had no choice" but to delay Switch 2 launch of 007 First Light for a third time
-Tue, 22 Sep 2026 10:55:16 +0000 — https://www.gamesindustry.biz/io-interactive-had-no-choice-but-to-delay-switch-2-launch-of-007-first-light-for-a-third-time
-
-IO Interactive said it "had no choice" but to delay the launch of 007 First Light on Nintendo Switch 2 for a third time, with the game now set to release in March 2027. Read more
-
-### Bungie says it's "not done with Destiny", aims to earn back player trust by restoring archived Destiny 2 content
-Tue, 22 Sep 2026 09:43:57 +0000 — https://www.gamesindustry.biz/bungie-says-its-not-done-with-destiny-aims-to-earn-back-player-trust-by-restoring-archived-destiny-2-content
-
-Three months after Destiny 2's final update, Bungie has announced plans to reinstate vaulted campaigns, raids, and destinations to regain player trust. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Age of Empires Dev Has Half of Studio Slashed, Project Cancelled Amid Xbox Layoffs
+Thu, 24 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/age-of-empires-dev-has-half-of-studio-slashed-project-cancelled-amid-xbox-layoffs
+
+Age of layoffs. The future of Age of Empires dev World’s Edge appears to be hanging in the balance. The studio – which has released Age of Empires 2: Definitive Edition , Age of Empires 4: Anniversary Edition , and Age of Mythology: Retold all on the PS5 – was part of the latest round of Xbox redundancies , which saw the company cut another 268 jobs. (In addition to the 1,600 earlier in the year.) Read the full article on pushsquare.com
+
+### Control Resonant Made Easier After Player Feedback, PS5 Patch Live Now
+Thu, 24 Sep 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/09/control-resonant-made-easier-after-player-feedback-ps5-patch-live-now
+
+Small update makes a big difference. Control Resonant launches on PS5 today, and developer Remedy is already addressing feedback it's received from critic reviews and early access players. While the game has been received incredibly well, a lot of reports covering the opening hours of the experience mention difficult combat where you die way too easily. I can agree with this as, I started Control Resonant last night and found it surprisingly tough in the first open area. It's also a criticism many reviews and early access players have brought up. Read the full article on pushsquare.com
+
+### This Ultra Realistic Racing Game Will Make Its PS5 Console Exclusive Debut Next Month
+Thu, 24 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/this-ultra-realistic-racing-game-will-make-its-ps5-console-exclusive-debut-next-month
+
+Expect it to sell big. You won’t have to wait much longer to play the ultra-realistic physics-based racing game BeamNG.drive on your PS5. Announced moments ago with an all-new trailer , the cult PC sim will finally get its console exclusive release on 19th October, with expanded support for the PS5 Pro. Read the full article on pushsquare.com
+
+### Rumour: PS6 Hardware Complete, Double the Power of PS5 with Handheld Model
+Thu, 24 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-ps6-hardware-complete-double-the-power-of-ps5-with-handheld-model
+
+Less powerful than new Xbox, but potentially cheaper. According to notorious hardware snoop KeplerL2 , the hardware configuration of the PS6 has been “taped out”. In industry terms, this means Sony’s completed design of the chip and locked down the specs, and it’s now ready for manufacturing. This all points to a November 2027 launch. Read the full article on pushsquare.com
+
+### PSVR2 Misses Out on Virtual Reality Phoenix Wright Release
+Thu, 24 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/psvr2-misses-out-on-virtual-reality-phoenix-wright-release
+
+I wouldn't have objected to it. You won’t be screaming “objection” with your PSVR2 headset equipped next year, as AMATA Games has decided not to release its virtual reality version of Phoenix Wright: Ace Attorney - Dual Destinies for Sony’s headset. Announced for the Meta Quest and new Meta VR Glasses overnight, this is an adaptation of the fifth main entry in Capcom’s courtroom battle series, developed under license. It’s due out in 2027. Read the full article on pushsquare.com
+
+### Obsidian Remains Distinct and Keeps Leadership Team After Being Absorbed by Bethesda
+Thu, 24 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/obsidian-remains-distinct-and-keeps-leadership-team-after-being-absorbed-by-bethesda
+
+Updates on new Fallout game in the coming months. The Outer Worlds and Avowed studio Obsidian should not see too many changes to its day-to-day workings after being absorbed by Bethesda, the publisher claims. Instead, it's more of just a change in Obsidian's reporting structure. In an internal memo seen and published online by IGN , Bethesda boss Jill Braff explained that the "creative identity and strengths that make Obsidian distinct will remain at the core of their studio and work". Obsidian will continue to be run by Feargus Urquhart and his leadership team, and they'll report to Braff. Read the full article on pushsquare.com
+
+### Sony Supposedly Surveying Devs on Death of PS5 Discs
+Thu, 24 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/sony-supposedly-surveying-devs-on-death-of-ps5-discs
+
+Studios may hold some power here. Sony is apparently surveying development partners about its decision to kill physical discs . According to YouTuber Moore’s Law Is Dead , who does appear to have industry contacts, the quiz includes a question about physical media and how studios feel about it. Read the full article on pushsquare.com
+
+### Return to Old School PS2 Musou with Dynasty Warriors 3 Remastered s Demo, Out Now on PS5
+Thu, 24 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/return-to-old-school-ps2-musou-with-dynasty-warriors-3-remastereds-demo-out-now-on-ps5
+
+Blast from the past. A meaty playable demo for Dynasty Warriors 3: Complete Edition Remastered has arrived on PS5. It weighs in at a reasonable 8.8GB. The demo features multiple playable characters, and even a fight with Lu Bu himself if you're up for it, although there's no progress to carry over into the full game, which releases next week on the 1st October. Read the full article on pushsquare.com
 
 ### Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR
 Wed, 23 Sep 2026 20:45:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr
@@ -150,47 +185,12 @@ Wed, 23 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/person
 
 Showtime. Atlus has just announced Persona Super Live 2027. It's dated for the 19th March, running until the 21st, taking place in Yokohama, Japan. This is fairly big news because there hasn't been a Persona Super Live since 2022. And if you hadn't already noticed, it's happening about a month after the release of Persona 4 Revival , which comes out on the 18th February. Read the full article on pushsquare.com
 
-### 600+ PS5 Games Going Cheap in New PS Store Sale, Including Halo and AC Black Flag Resynced
-Wed, 23 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/600plus-ps5-games-going-cheap-in-new-ps-store-sale-including-halo-and-ac-black-flag-resynced
-
-Deals live until 7th October. Sony has pushed a new PS Store sales promotion live as of today: Autumn Adventures. It discounts over 600 PS5 titles, and the deals will be available until 7th October 2026. Below you'll find a selection of the best ones. Halo: Campaign Evolved — £39.99 / $39.99 (20% off) Assassin's Creed: Black Flag Resynced — £44.99 / $53.99 (10% off) Microsoft Flight Simulator 2024 — £55.99 / $55.99 (20% off) The Sinking City 2 — £35.99 / $44.99 (10% off) Hades 2 — £17.49 / $20.99 (30% off) Beast of Reincarnation — £39.99 / $47.99 (20% off) Starfield — £26.99 / $29.99 (40% off) High on Life 2 — £29.74 / $33.99 (15% off) For a full list of all PS5, PS4 games in the PS Store Autumn Adventures sale , click the link. Will you be buying anything this time around? Let us know in the comments below. Read the full article on pushsquare.com
-
-### Resident Evil Film Producer Turns to New Silent Hill Movie, Report Claims
-Wed, 23 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/resident-evil-film-producer-turns-to-new-silent-hill-movie-report-claims
-
-Roy Lee listed as working on Silent Hill. Roy Lee, the producer of Weapons and the latest Resident Evil film from Zack Cregger, might have lined up a new Silent Hill movie as one of his next projects. As part of a new Wall Street Journal article — which documents Lee's career — the Silent Hill franchise is listed as one of the IPs he's currently working on, alongside God of War and Battlefield . Since the awful Return to Silent Hill flick came out at the start of this year (which Lee wasn't involved in), there hasn't been any official mention of another movie in the series. Read the full article on pushsquare.com
-
-### Sudden Demand for Middle-earth: Shadow of Mordor and War PS5 Ports After Switch 2 Bundle Is Revealed
-Tue, 22 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/sudden-demand-for-middle-earth-shadow-of-mordor-and-war-ps5-ports-after-switch-2-bundle-is-revealed
-
-Nemesis. Out of nowhere, Aspyr has revealed Middle-earth: Shadow Bundle — but don't get too excited! As of right now, the collection is exclusive to the Nintendo Switch 2, launching next week on the 30th September. The bundle includes Middle Earth: Shadow of Mordor Game of the Year Edition and Middle Earth: Shadow of War Definitive Edition — but you'll also be able to buy each game separately. Read the full article on pushsquare.com
-
-### State of Decay 3 Dev Hit with Significant Layoffs After Going Independent
-Tue, 22 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/state-of-decay-3-dev-hit-with-significant-layoffs-after-going-independent
-
-Update: Undead Labs suffers job losses. Undead Labs, the Seattle-based developer behind the State of Decay games, has survived the latest round of Xbox layoffs . However, the studio has reiterated that it'll no longer operate under the Xbox umbrella; it's now an independent outfit. This direction of travel was previously confirmed a few months back , when the developer said that it was "transitioning out of Xbox". Read the full article on pushsquare.com
-
-### PS Plus Discount for One of PS5 s Best New Indie Games
-Tue, 22 Sep 2026 18:15:00 GMT — https://www.pushsquare.com/news/2026/09/ps-plus-discount-for-one-of-ps5s-best-new-indie-games
-
-Well Dweller opens to 90+ critic reviews. What if I told you a new PS5 game with a Metacritic rating of 91 and an Opencritic score of 90 is coming out today? Silent Hill: Townfall and Control Resonant are not officially releasing until Thursday, so what could it be? Well Dweller is that game, a Metroidvania experience from single developer Kyle Thompson. Read the full article on pushsquare.com
-
-### Rumour: Next Halo Game Will Be a New Mainline Instalment , Casting Doubt on More Remakes
-Tue, 22 Sep 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-next-halo-game-will-be-a-new-mainline-instalment-casting-doubt-on-more-remakes
-
-Campaign devolved. Given that Halo: Campaign Evolved basically confirms plans for another remake in an unlockable ending scene , it's surprising to hear that the series' next game will apparently be a brand new, mainline title. This fresh rumour comes from The Hollywood Reporter , who credit an unnamed source in their coverage of the newly announced job losses at Xbox . Read the full article on pushsquare.com
-
-### Microsoft Closing Hellblade Dev Ninja Theory After Failed Buyout Talks
-Tue, 22 Sep 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/09/microsoft-closing-hellblade-dev-ninja-theory-after-failed-buyout-talks
-
-Two firms considered acquisition. As part of another wave of Xbox job losses , Microsoft has confirmed it intends to shutter Hellblade studio Ninja Theory. Previously, it was thought the British team had found a buyer, just like the State of Decay 3 team Undead Labs. However, an update from Xbox executive Matt Booty revealed that talks with two separate companies surrounding an acquisition had failed. Read the full article on pushsquare.com
-
-### Final Fantasy 7 Revelation Dev Considering Customisation Options for Game s Huge Amount of On-Screen Guidance
-Tue, 22 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-dev-considering-customisation-options-for-games-huge-amount-of-on-screen-guidance
-
-Open world blues. Whether we like it or not, in-game guidance systems have become a staple of modern gaming. Sometimes this stuff can feel incredibly heavy-handed, like the controversial 'fart gas' in Marvel's Wolverine . Other times, it just comes off as a bit annoying, like when Atreus and Mimir constantly offer up puzzle hints in God of War . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Irish Game Fund expands with additional funding pathways
+Thu, 24 Sep 2026 11:10:22 GMT — https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways
+
+Developers in the region will now be able to take advantage of a Development Fund, Prototype Fund, and Release Fund.
 
 ### Discord re-introduces age verification policy based on 'account signal' methodology
 Wed, 23 Sep 2026 18:30:00 GMT — https://www.gamedeveloper.com/business/discord-re-introduces-age-verification-policy-with-new-methods
@@ -207,26 +207,6 @@ Wed, 23 Sep 2026 11:22:24 GMT — https://www.gamedeveloper.com/business/undead-
 
 Microsoft signalled its intent to divest the Seattle-based studio earlier this year.
 
-### 'We want to keep it very simple:' How Nex Playground is beating expectations during a hardware crisis
-Tue, 22 Sep 2026 15:15:00 GMT — https://www.gamedeveloper.com/business/-we-want-to-keep-it-very-simple-how-nex-playrground-is-beating-expectations-during-a-hardware-crisis
-
-'If we don't create margin we can't continue to invest in software, and our software costs are going up every year—significantly.'
-
-### Escape From Tarkov dev wants to bet on 'risky' games with its new publishing arm
-Tue, 22 Sep 2026 14:34:35 GMT — https://www.gamedeveloper.com/business/escape-from-tarkov-dev-wants-to-bet-on-risky-games-with-its-new-publishing-arm
-
-Battlestate Games Publishing aims to provide publishing support to 'hardcore' games.
-
-### Xbox continues 'reset' with Halo Studios layoffs and Undead Labs divestment
-Tue, 22 Sep 2026 14:18:45 GMT — https://www.gamedeveloper.com/business/xbox-continues-reset-with-halo-studios-layoffs-and-undead-labs-divestment
-
-Activision is developing the next Halo title, and Ninja Theory is being shuttered.
-
-### 'Do not': Rockstar outlines modding rules before GTA VI touches down
-Tue, 22 Sep 2026 12:33:14 GMT — https://www.gamedeveloper.com/production/-do-not-rockstar-outlines-modding-rules-before-gta-vi-touches-down
-
-Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -242,7 +222,31 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 ### GodotCon
 no date — https://www.gamedeveloper.comconference.godotengine.org
 
+### NarraScope
+no date — https://www.gamedeveloper.comnarrascope.org
+
+### BitSummit
+no date — https://www.gamedeveloper.combitsummit.org
+
+### Tokyo Game Show (TGS)
+no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
+
 ## VGC
+
+### Starfield 2 will likely never happen because the first wasn t anywhere near successful enough , former dev says
+Thu, 24 Sep 2026 14:27:39 +0000 — https://www.videogameschronicle.com/news/starfield-2-will-likely-never-happen-because-the-first-wasnt-anywhere-near-successful-enough-former-dev-says/
+
+A sequel could have been much closer to the original vision… Source
+
+### Capcom announces a new Ace Attorney game, but it s a VR remake instead of an entirely new adventure
+Thu, 24 Sep 2026 11:20:36 +0000 — https://www.videogameschronicle.com/news/capcom-announces-a-new-ace-attorney-game-but-its-a-vr-remake-instead-of-an-entirely-new-adventure/
+
+Phoenix Wright Ace Attorney: Dual Destinies VR is coming next year… Source
+
+### The day before EA Sports FC 27 is released, Konami s Switch 2 rival eFootball Kick-Off gets a major new update
+Thu, 24 Sep 2026 09:58:02 +0000 — https://www.videogameschronicle.com/news/the-day-before-ea-sports-fc-27-is-released-konamis-switch-2-rival-efootball-kick-off-gets-a-major-new-update/
+
+A Leagues mode with 25 league tournaments has been added, along with 13 new legends… Source
 
 ### A mixed reality reinvention of Tetris Effect is coming next year
 Thu, 24 Sep 2026 09:11:24 +0000 — https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/
@@ -279,136 +283,131 @@ Wed, 23 Sep 2026 12:57:10 +0000 — https://www.videogameschronicle.com/guide/co
 
 How to reroute the Vanished Station during the Power Lines mission in Control Resonant… Source
 
-### Controller maker CKRD releases the Atom+, a keychain sized controller promising no stick drift
-Wed, 23 Sep 2026 12:24:36 +0000 — https://www.videogameschronicle.com/news/controller-maker-ckrd-releases-the-atom-a-keychain-sized-controller-promising-no-stick-drift/
-
-The Nitro Deck maker's tiny Bluetooth controllers work on Switch, PC… Source
-
-### The producer of Zach Cregger s Resident Evil and Weapons is reportedly working on a new Silent Hill film
-Wed, 23 Sep 2026 11:01:08 +0000 — https://www.videogameschronicle.com/news/the-producer-of-zach-creggers-resident-evil-and-weapons-is-reportedly-working-on-a-new-silent-hill-film/
-
-The last attempt at a Silent Hill film was a critical failure… Source
-
-### Exclusive: The next Pokémon TCG Delta Reign illustration rare officially revealed
-Wed, 23 Sep 2026 08:54:43 +0000 — https://www.videogameschronicle.com/news/exclusive-the-next-pokemon-tcg-delta-reign-illustration-rare-officially-revealed/
-
-Sprigatito will get a new illustration rare in the new set… Source
-
 ## Polygon
 
-### Matthew Lillard's Best Performance of 2026 Deserves to Live on Past Its Canceled Series
-Thu, 24 Sep 2026 09:30:15 GMT — https://www.polygon.com/matthew-lillard-daredevil-born-again-season-3/
+### Capcom Officially Just Let Down Millions of Gamers
+Thu, 24 Sep 2026 15:20:49 GMT — https://www.polygon.com/ace-attorney-7-dual-destinies-vr/
 
-Well, after all that, Daredevil: Born Again is coming to an end. When the original Netflix series was canceled in 2018, fans clamored for Daredevil’s return. Eventually, Marvel greenlit Daredevil: Born Again , which was supposed to be an all-new continuity with the characters, albeit with some of the same cast. Then, late in production for season 1, the show was reworked to have more connective tissue with the Netflix version, effectively making all the Marvel/Netflix shows canon to the Marvel Cinematic Universe. The revival debuted in March 2025, and the second season followed suit a year later. For the most part, the response has been positive ( even with a perplexing season 2 finale ), and it seemed the show could go on for much longer. Charlie Cox has even intimated that he’d be happy to play Daredevil into old age.
+This year's Tokyo Game Show has come and gone, and with it another sterling opportunity for an Ace Attorney 7 announcement. But fans got a flurry of hope earlier this week — followed by yet another wave of disappointment. On Wednesday, Capcom announced a VR port of the fifth game in the series. Ace Attorney: Dual Destinies VR will launch for Meta VR Glasses, Meta Quest 3/3S, Quest Pro, and Quest2 sometime in 2027.
 
-### Gremlins 3 Gets an Official Teaser, But There's Some Bad News
-Thu, 24 Sep 2026 08:46:17 GMT — https://www.polygon.com/gremlins-3-teaser-release-date-delay/
+### Pokémon TCG Card Types Explained: Pokémon, Trainers, and Energy
+Thu, 24 Sep 2026 15:19:19 GMT — https://www.polygon.com/pokemon-tcg-card-types-explained-pokemon-trainers-and-energy/
 
-Gizmo returns to the big screen after decades in the third Gremlins movie, but very little is known about the project. Even though the premiere is still a long way out, Warner Bros. has shared the first teaser for Gremlins 3 . However, it's a bittersweet moment for fans, as the 11-second clip also includes a delayed release date.
+This article was produced in collaboration with our partners.
 
-### 70 Years Later, The Greatest Closing Line In Fantasy History Is Still The Wisest Book Quote Of The 1950s
-Thu, 24 Sep 2026 08:30:14 GMT — https://www.polygon.com/best-fantasy-book-ending-lord-of-the-rings/
+### Best Buy Announces Official 'Pokémon' 30th Anniversary TCG Event With Freebies
+Thu, 24 Sep 2026 15:16:01 GMT — https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/
 
-The fantasy genre is built on unforgettable final acts that leave the stage in a blaze of spectacle. George R.R. Martin famously closes A Game of Thrones by spectacularly reawakening magic with the birth of dragons, while Brandon Sanderson caps the Mistborn trilogy with a universe-altering revelation of godhood. Others lean into existential weight, trapping readers in inescapable loops, much like Stephen King did with The Dark Tower or the metafictional continuity of Andrzej Sapkowski’s The Witcher . These are undeniably some of the greatest closing notes in literature (fantasy or otherwise), designed to leave audiences in awe of the cosmic and mythic scale of the worlds they inhabited.
+Mark your calendars, trainers. Best Buy is keeping the Pokémon 30th Anniversary trading card game festivities going with a new "Trade and Play" event. Here's what you need to know.
 
-### J.J. Abrams' Cult Classic "X-Files Meets Buffy" Sci-Fi Series Is Officially Free on Streaming
-Thu, 24 Sep 2026 08:00:14 GMT — https://www.polygon.com/jennifer-garner-spy-thriller-stream-free/
+### Winter Shimanoyama region treasure hunt location in Forza Horizon 6
+Thu, 24 Sep 2026 15:06:15 GMT — https://www.polygon.com/forza-horizon-6-fh6-treasure-hunt-location/
 
-The early 2000s saw a significant shift in the portrayal of female leads on television . Gone was the one-dimensional damsel-in-distress trope, making space for empowered female protagonists who were allowed to be flawed and multi-dimensional.
+The winter Shimanoyama region treasure hunt is one of the weekly activities in Forza Horizon 6 Series 5, "British Automative." Whenever a new hunt begins, a box appears somewhere on the map and, to locate it, the only hints you have are the region's name and a picture. Completing this challenge helps you get closer to claiming the weekly and the Series cars.
 
-### Magic: The Gathering's 10 Best Counterspells, Ranked
-Thu, 24 Sep 2026 05:00:15 GMT — https://www.polygon.com/mtg-best-counterspells-in-magic-the-gathering/
+### How to solve the Clara Woods puzzles and open the Atlas Way gate in Silent Hill Townfall
+Thu, 24 Sep 2026 15:02:10 GMT — https://www.polygon.com/silent-hill-townfall-clara-woods-puzzles-open-the-atlas-way-strange-gate/
 
-Over 30 years of game design, counterspells have evolved from straightforward two-mana hard answers into format-policing safety valves, color-pie-shattering oddities, and zero-mana emergency brakes.
+The Clara Woods puzzles in Silent Hill: Townfall are all part of the same objective; to open the CEG employee lockers and unlock the Atlas Way gate . This gate, also referred to as the strange gate , leads to the CEG Headquarters, but it requires a special item to open. Only by solving the three smaller Clara Woods puzzles, the floppy disk puzzle , the tape puzzle , and the lamenting poem puzzle , will you be able to craft this item.
 
-### How to solve the blood transfusion puzzle in Silent Hill Townfall
-Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-blood-transfusion-door-puzzle-blood-bags/
+### Epic's New Free PC games Are Now Live, and They're Only Available for a Limited Time
+Thu, 24 Sep 2026 14:59:15 GMT — https://www.polygon.com/epic-games-store-free-games-9-24-2026-download/
 
-The blood transfusion puzzle in Silent Hill: Townfall is more difficult than scary, and that's saying something, as this challenge takes place in a dark and monster-ridden hospital. To solve the blood transfusion puzzle, you must find the missing blood bags, place the blood bags in the correct slots, and find a connection between blood types.
+The Epic Games Store is offering two great free PC games this week for Epic users. For a limited time, you can grab a much-loved mech auto-battler and a unique deck-building roguelike at no charge.
 
-### How to save the patient in Silent Hill Townfall
-Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-patient-puzzle-walkthrough-vitals-medicine/
+### Pokémon TCG Pocket's Next Set Officially Guarantees Rare Cards
+Thu, 24 Sep 2026 14:54:15 GMT — https://www.polygon.com/pokemon-tcg-pocket-deluxe-pack-mega-announced/
 
-To help the patient in Silent Hill: Townfall , Zoe must overcome a series of challenges. Dr. Glenn, who's barking orders over the intercom, isn't especially helpful, so you must figure out how to read the patient's blood pressure, how to make an X-ray, and how to find the correct medicine infusion rates by yourself. The patient puzzle, aka the "Zoe: The Patient" mission, is one of the longest and hardest challenges in St. Amelia.
+Another month, another new expansion for Pokémon Trading Card Game Pocket . On Thursday, The Pokémon Company announced Deluxe Pack: Mega for the mobile digital card game.
 
-### How to unlock the Community Gardens gate in Silent Hill Townfall
-Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-unlock-the-community-gardens-gate-door-key-jane/
+### Where to find sweet leaves in Fire Emblem Fortune's Weave
+Thu, 24 Sep 2026 14:42:51 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-sweet-leaves-location-where-to-find/
 
-Unless you open the Community Gardens gate in Silent Hill: Townfall , Zoe won't be able to find her way to Mr. Stewart's house. Ignoring Mr. Stewart is no option; as a district nurse, Zoe must complete her home visits, and as a player, you must complete the "Zoe: Rounds" mission. On top of finding the Community Garden key, you must solve a door code puzzle to pass through the St. Amelia Community Gardens.
+You need sweet leaves to complete Leda's "Simple Drink Recipes" perform quests in Fire Emblem: Fortune's Weave . As part of her campaign, the Rose of Caelus has access to unique missions that not only unlock new skills but also increase the number of drinks you can buy, which are great consumables to take into battle.
 
-### How to solve the scales puzzle in Silent Hill Townfall
-Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-scales-puzzle-walkthrough-pharmacy-locker-jess/
+### Counter-Strike 2’s Wildest New Update in Years is Officially Live
+Thu, 24 Sep 2026 14:37:19 GMT — https://www.polygon.com/counter-strike-2-update-chickens-valve-cs2/
 
-The scales puzzle in Silent Hill: Townfall involves many steps, and they're far from obvious. First, you must interpret a very cryptic CRTV video, then you must open a pharmacy locker, and then you'll have to find Jess' house, which initially seems unreachable. Even if you've done all of that already, arranging the items on the scales is a challenge on its own.
+Strange things are happening in Counter-Strike 2 . The game’s latest update includes several major changes, including an all-new game mode called Rush Hour, which the patch notes describe as a “fast-paced 3v3 queued mode.” Other notable additions include rule changes around how map bans work and big updates to bullet and blood visual effects.
 
-### Where to find the reception door code in Silent Hill Townfall
-Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-reception-door-code-puzzle-clinic/
+### How to solve the Downtown Atlantis Cafe puzzle in Control Resonant
+Thu, 24 Sep 2026 14:29:51 GMT — https://www.polygon.com/control-resonant-atlantis-cafe-downtown-puzzle-solution-how-to-solve/
 
-The reception door code in Silent Hill: Townfall leads to a telephone, which, in turn, leads to an opportunity to save your game. Conveniently located in the Shorefront Family Clinic, at the start of the "Searching for Zoe" mission, you can already spot the telephone on the reception desk… Too bad the door is locked.
+The Atlantis Cafe puzzle in the Downtown zone is home to one of the many puzzles in Control Resonant . From the outside, it looks like an ordinary coffee shop, but when you head inside, you'll find a note saying that the appliances must be turned on in a specific order. If you discover the correct order, you'll uncover a secret hideout inside.
 
 ## PC Gamer
 
-### My first MMO character #3: Steve Haines
-Thu, 24 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/
+### Apple, Nvidia, Google, Microsoft...pretty much all the big US players in the chip business are reportedly evaluating Intel's new 14A node
+Thu, 24 Sep 2026 15:24:48 +0000 — https://www.pcgamer.com/hardware/processors/apple-nvidia-google-microsoft-pretty-much-all-the-big-us-players-in-the-chip-business-are-reportedly-evaluating-intels-new-14a-node/
 
-My first MMO character was... Ovidlords, Night-elf Druid Born: ~2006 Game: World of Warcraft After a friend bought me a video game bundle that included Diablo 2 and WoW, I jumped into Diablo and thought the Druid seemed like the coolest thing I’d ever seen. When I made the jump to paying a monthly sub for WoW, I was ecstatic to find I could also roll a shape-shifting Druid, so Ovidlords was born. I was a Druid tank at a time when absolutely no one wanted that. I managed to MT Gruul in the Burning Crusade when I was told that was impossible. He also eventually ended up getting our server-first Ashes of Al’ar when we beat Kael-thas. The account has since been deleted, but I’ll absolutely always remember my bear-y first MMO character. (Read the full article here) ]]>
+If this report is even close to being true, Intel could be on the cusp of a whole new and incredibly lucrative era for the company. It's claimed that pretty much all of the biggest players in US chip tech including Amazon, Apple, AMD, Google, Tesla, Microsoft, Nvidia and Qualcomm are evaluating Intel's upcoming 14A node. The report comes from investment bank Piper Sandler (via WCCFTech ). "Foundry 14A datapoints bode well, awaiting anchor customer. All the big US customers (i.e. Amazon, Apple, AMD, Google, Tesla, Microsoft, NVDA, QCOM etc are evaluating Intel's 14A process, given: 1) technical datapoints trending better than expected. 2) Industry looking for alternative foundry / packaging suppliers to TSMC, given TSMC is sold-out through 2028. 3) On-shoring trends given political pressure. "In late 2026 and early 2027, Intel needs to convert these to anchor foundry customer wins ahead of a 2028 ramp-up. We see the $20B share offering last month as an indicator of confidence in landing anchor customers. "This should help fund the tooling cost of a 14A fab (20k wpm) which costs ~$10B. We note Fab-62 shell is almost completed, but still needs to be equipped," the Piper Sandler note said. Aside from confirmation that one of the big drivers in all this is the desire to bring as much chip production back to the US as possible, another important tidbit is the $20 billion share offering. As Piper Sandler says, that should help towards funding a new generation of 14A fabs. Moreover, 
 
-### Micropost: I use my ring finger for right mouse button. Am I okay?
-Thu, 24 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/
+### Discord is not my friend
+Thu, 24 Sep 2026 15:18:52 +0000 — https://www.pcgamer.com/software/platforms/discord-is-not-my-friend/
 
-(Image credit: Future) Some say I hold my mouse weird. I rest my middle finger on the scroll wheel, and I solely use it for the scroll wheel. I use my ring finger for the right mouse button. But I don't think it's weird. It's elite. It's finesse. It's elegance. You wouldn't get it. ]]>
+While it seems unlikely that major web platforms can be discouraged from marching us further into a surveillance dystopia with measures like Discord's age-verification rollout , I wish they'd at least do us the courtesy of dropping the 'I'm just a little guuuy' schtick: when you launch an extremely popular age assurance update that everyone on Discord was really looking forward to and it has bugs https://t.co/I9dVu9ZhET pic.twitter.com/BLAz9fWTSn September 24, 2026 ]]>
 
-### The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™
-Thu, 24 Sep 2026 04:00:25 +0000 — https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/
+### It's time to decide the worst graphical effect in games: motion blur vs lens flare
+Thu, 24 Sep 2026 15:16:11 +0000 — https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-motion-blur-vs-lens-flare/
 
-Causality Chain is a series at PC Gamer exploring the unlikely links between history, culture, and videogames. Every time you cast a meteor spell in Diablo 2 or a cloud of daggers in Baldur's Gate 3, you are taking part in a chain of history—a causality chain, if you will—that dates back to the 18th century, when nobody had thought about taking a "warlock dip" since the Salem witch trials. And at that time, it had a very different meaning. Today we trace the arc of history from the death of the agrarian period, all the way forward to that time you managed to set fire to five goblins at once and felt quite good about how clever you were. We chart the curious contours of cause and effect, and then we put our chins into our hands and we say, "Hmmm. Yes. This is good." Join us as we tip the dominoes that link the past to the present, then watch the huge and intricate Rube Goldberg machine known as "history" fall over into a heap of discarded playing pieces. The industrial revolution 🔗 Area-of-effect spells in RPGs Rise of Industry 1760–1840: Technological advances including improvements to the steam engine and the viability of larger blast furnaces thanks to the substitution of coke for old-fashioned charcoal—combined with various other social and economic factors—radically changes daily life for many people. During this Industrial Revolution, skilled craftsmen are replaced by machine tools and the factory system becomes widespread. Also the social policy trees for Order and Aut
+Motion blur, chromatic aberration, bloom… we've discussed many times whether these effects deserve a spot in a game's settings menu or are the hellspawn of satan's computer graphics division. Now it's time for you to chime in. One final reckoning; until I have the same idea again in five years' time. I am nothing if not returning to this well over and over again. It's your classic knockout format: Two effects go head-to-head and only one makes it through to the next round. There are four initial rounds, then we'll move onto semis, then regional semis, regional quarter semis, semi regionals… nah, we'll make it quick. There are three rounds total. Here are the initial head-to-head rounds: Depth of field vs vignette ( voting is open ) Chromatic aberration vs dirt ( voting is open ) Motion blur vs lens flare Film grain vs bloom Got it? Get your votes in below. Then y'all can argue about it in the comments, and say stuff like, "well, actually , motion blur serves a very important purpose." Yeah, whatever. Examples Motion blur You'll have to take my word for it that both of these screenshots were taken as I aimed swiftly to the side in Hunt: Showdown. The difference is day and night. on off Lens flare There's a lot of neon lights in Cyberpunk 2077. That makes for lots of lens flare. Though it can be quite subtle at times, like in the top left of the image below. Yeah, right there, in the dark patch. on off ]]>
 
-### Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game
-Wed, 23 Sep 2026 23:48:24 +0000 — https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/
+### There are 39* Stardew Valley-shaped farm sims that are still planning to launch in 2026 and I have 234 hours** of gaming time remaining.
+Thu, 24 Sep 2026 15:15:00 +0000 — https://www.pcgamer.com/games/there-are-39-stardew-valley-shaped-farm-sims-that-are-still-planning-to-launch-in-2026-and-i-have-234-hours-of-gaming-time-remaining/
 
-Behold, some wild Quake Champions patch notes Removed Battle Pass Removed Weekly / Event Challenges Removed the Store Removed Platinum and Shard Currencies Removed Loot Boxes Removed Daily Login Rewards Removed Champion Progression (the shard reward path) Most Vanity Content is now Available to All Users "Today’s update marks a new chapter for Quake Champions as we transition the game from a free-to-play service to a paid application on Steam," the update reads. "Quake Champions is now available for one low price on Steam. No additional content updates are planned at this time. If you previously played Quake Champions on Steam, the new version will appear in your Steam Library at no additional cost." After nine years, Quake Champions is a live-service game no more: The free-to-play arena shooter is now even more old school as a regular $10 product on Steam . All champions are unlocked from the jump, so you don't have to buy characters piecemeal like way too many games were asking us to do in the mid-2010s. Recently purchased premium currency will be refunded, but if you spent years dropping cash on skins, it might be a little awkward that everybody else now gets those at no additional cost. This is a nicer ending than I expected for id's live-service experiment, which has received mostly cosmetic updates in recent years for the few hundred people that continue to love it. Though no longer free, it's easily a better game with its loot boxes and store tab gone, and one I'll be 
+There are 39* Stardew Valley-shaped farm sims that are still planning to launch in 2026 and I have 234 hours** of gaming time remaining. Someone who is good at time management please help me budget this. My crops are dying. Songs of Glimmerwick 40 hours Dragon Shelter 20 hours Grave Seasons 20 hours Nivalis Nights 500 hours Harvest Moon: Echoes of Teradea 20 minutes *Steam allows sorting by but not filtering by release date in the upcoming games section , so this was a very manual, fallible count. Also, delays can still happen. **Generously assuming I have 2 hours on weeknight and 4 hours on weekend days, give or take holidays. ]]>
 
-### Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss
-Wed, 23 Sep 2026 23:31:23 +0000 — https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/
+### Where to find the Shimanoyama region Treasure Hunt in Forza Horizon 6
+Thu, 24 Sep 2026 15:04:11 +0000 — https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-shimanoyama-region/
 
-Many are justifiably annoyed about Steam's new age verification requirements in Australia. Whereas most platforms and shopfronts offer several ways to verify one's age, Valve offers only one, and it's amusingly ill-suited to the Australian market. To prove that you're over 18 years old and thus, legally allowed to purchase games like Metal Gear Solid 4, Doom Eternal or Rimworld, you need to provide details for an active credit card. The problem? Very few Australians use credit cards. Even if you opened your Steam account as far back as 2003 and own a handful of R18+ games already, Steam will still require that credit card. I don't want to big up Microsoft for doing slightly more than the bare minimum, but an email I received overnight does at least cast renewed light on how terrible Valve's approach is. An email from Microsoft regarding my "Microsoft Age Verification Status" had this to say: "Due to your longstanding account activity, we’ve estimated your profile to be an adult account and updated its age verification status to “Verified.” At this time, you are no longer required to complete further age verification for uninterrupted access to features across certain Microsoft products, including Microsoft and Xbox storefronts." (I've made no edits to that message, aside from removing the new all-caps in Xbox because it's lame). I don't like having to verify my age to buy videogames, and honestly, I'd prefer to provide credit card details than scan my face or provide a govern
+This week there's another challenge to complete in Forza Horizon 6 . This time we've got the Shimanoyama Treasure Hunt to track down, and doing it will grant you some season progress. The British Automotive Festival Series is currently underway and there are a couple of season reward cars to grab, namely the Vauxhall Astra VXR and Bentley Bentayga. Finding and smashing this chest will get you a little closer to earning them. Forza Horizon 6 Shimanoyama region Treasure Hunt location You can find the chest in south Shimanoyama on a road north of Izu Skyline (Image credit: Playground Games) You can find this treasure chest in the far south of Shimanoyama , on a winding road that goes through the snowy hills. It's north of the Izu Skyline and southwest of Matsumi Great Bridge, just north of the big freeway that connects Tokyo to the stadium in Shimanoyama. You can see the location above, but the best way to get there is: Head northwest out of Tokyo. Continue along the winding trails into the Shimanoyama region. Navigate to the point shown above, keeping an eye off to the side of the road where the chest is easily visible. Simply smash into it as usual and you'll get 100,000 credits, 5,000 XP, and three Season Progress points towards those two season cars. For more progress, make sure to complete the photo challenge at the Bamboo Forest . Forza Horizon 6 car list : All the rides you can collect. Forza Horizon 6 best cars : What to buy and tune. Forza Horizon 6 Treasure Cars : Skip
 
-### World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms
-Wed, 23 Sep 2026 22:06:43 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/
+### My first MMO character #4: Lincoln Carpenter
+Thu, 24 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-4-lincoln-carpenter/
 
-If there's one thing that Blizzard nailed with World of Warcraft: Forever , it's the atmosphere. There's nothing quite like walking under the moonlight in Tirisfal Glades listening to distant howls and flapping wings on the way to your next quest. But many players familiar with the era of WoW it's based on felt like it was missing something. "I miss running through Dun Morogh hearing the iconic music with a massive snowstorm lowering my view distance on my Dwarf hunter, picking up quests from the dwarf next to the fire [and] restoring my inventory," Reddit user Darthbobz wrote in a post pleading Blizzard to bring WoW's old weather effects to WoW: Forever. It's not that it doesn't rain or snow in WoW: Forever, it's that it doesn't rain and snow enough . People like Darthbobz want to be blinded by the amount of weather on screen, not surrounded by the suggestion of a storm. Blizzard even says the core pillars of WoW: Forever are that the world is the main character and that the journey is more important than the destination . For the most part that's true: Over half of the experience involves running around forests and deserts rather than flying across them on a mount like you do in the modern version of the MMO. But the diet weather effects in the beta clash with the rest of Blizzard's commitment to adding friction back into the MMO. It turns out, Blizzard agrees, and will be cranking the weather effects up to 10 in "certain" WoW: Forever beta zones, according to a teaser vide
+My first MMO character was... Maldirr, Orc Warrior Born: ~2005 Game: World of Warcraft Technically, my very first MMO characters were in a RuneScape account (that was later hacked during years of inactivity) and a Trandoshan force-sensitive in Star Wars Galaxies, that I only played long enough to realize the New Game Enhancements were bad. After enough hours of watching cinematic raid clear videos on WarcraftMovies.com and daydreaming about the legendary weapon names I saw after Googling my way to Thottbot, I convinced my parents to foot the bill for a WoW subscription. My intention was to make an Orc hunter. I misclicked. I only realized I was playing a warrior after noticing my new character didn't have a bow. But I rolled with it, and Maldirr remained my WoW main for years, Mortal Striking his way through casual Arms DPS rotations across somewhere in the neighborhood of four expansions. Eventually, however, the thrill of big Execute numbers gave way to other curiosities, and I started putting more time into my Worgen rogue. Then my undead mage. Then my dwarf shaman, who gets the most attention during the couple times a year I pay for a month of subscription time. When I get those resurgent bouts of the WoW bug, I still try to put a few levels into Maldirr for old times' sake. At some point, I changed his hair color from brown to gray—but he's still wearing the same old Stone Guard tabard I'd earned from too many hours in Alterac Valley, when there was nowhere I'd rather be
 
-### Halo needed to change, but Activision faces a huge challenge to fix it
-Wed, 23 Sep 2026 21:50:00 +0000 — https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/
+### My failed Steam Frame teardown... and iFixit's successful one
+Thu, 24 Sep 2026 14:50:39 +0000 — https://www.pcgamer.com/hardware/vr-hardware/my-failed-steam-frame-teardown-and-ifixits-successful-one/
 
-Microsoft has given up on Halo Studios, the team it formed and recently renamed for the express purpose of making new Halo games. Another victim of the Xbox Reset , the studio has been slashed down to its bones as part of another (but not final) wave of layoffs , and what's left of Halo Studios will now oversee the franchise in nebulous-sounding ways. Indeed: Halo Studios is no longer making Halo . Now Activision is in charge, and as both a Halo and Call of Duty fan, the pairing isn't exciting. Though I've been a vocal critic of Halo Studios' take on Halo over the years ("Halo Studios has no discernably new take on Bungie's landmark FPS" -Me, 2026), Halo Infinite eventually grew into a strong multiplayer FPS that I sunk hundreds of hours into, and Halo: Campaign Evolved was the team's best effort yet to embrace the series' quirky traditions while keeping an eye toward evolution. Ripping that work away from them a few months after shipping a Halo remake is a drastic move. Let's take a moment to account for Halo Studios' history. What Halo Studios got right, in my eyes Core Halo multiplayer was in tact: 4v4 arena modes and Big Team Battle Art: By Infinite, the studio had found a striking art direction for Halo, and Spartans looked amazing. Gunplay: Especially in Infinite, Halo Studios raised the bar for the series Maps: Halo maps remained strange, asymmetrical battlegrounds suited for floaty physics Forge: Halo's level creator was so powerful enough by Infinite that the communi
+You can watch my teardown attempt above. I've sped it up at times, mostly through the bits where I have no idea what to do next. That's most of it. My attempts to take apart the Steam Frame ended in me nervously replacing screws on our only review unit. I hadn't broken anything, but I expected I might do if I persisted in stripping the headset down any further. Thankfully, there's no need for me to go through all that again, as iFixit has published its own full teardown . iFixit's Shahram Mokhtari doesn't mind prying things. Things that I didn't dare pry myself. For example, it's pretty easy to get into the Steam Frame's main 'core module', the bit housing the system-on-chip, optics, RAM, memory, and sensors. Beneath the magnetic face mask sit three switches, release these and the core module comes away from the strap. It's then just six Torx screws to remove the plastic cover that exposes most of the headset. The optics (lenses/screens) are attached magnetically to a rail at the top of the headset. They're pretty easy to remove, too; however, the push fit connectors on the back of the are glued onto the back of the optics. I left these in place out of fear—fear of destroying a very valuable object ahead of our review date—whereas iFixit pried those off without a second thought. It's much easier to access the rest of the headset without the optics flapping around. iFixit says: "this design is pretty darn good for such a complex assembly," and notes only the Bigscreen Beyond h
 
-### My first MMO character #2: Joshua Wolens
-Wed, 23 Sep 2026 21:00:00 +0000 — https://www.pcgamer.com/games/my-first-mmo-character-2-joshua-wolens/
+### Join me in meditating on clubbing a WoW scorpion
+Thu, 24 Sep 2026 14:11:59 +0000 — https://www.pcgamer.com/games/world-of-warcraft/join-me-in-meditating-on-clubbing-a-wow-scorpion/
 
-My first MMO character was... Karokan, Half-elf Something Born: 1999 Game: EverQuest Karokan's is a simple tale. When I was six years old, I saw my dad having a good time in a then-new release called EverQuest. Obviously, I wanted in on that, and badgered pops into helping me make a character. My dad played a gnome magician, but I was revulsed by the idea of being as short in the game as I then was in real life. Also, magicianry sounded complicated. I settled on a half-elf whose class I no longer remember, and came up with a basically random series of syllables to serve as a name. And then! I went nowhere. I was terrified . I wasn't so much scared of dying (though I was a bit scared of dying) but of getting lost. EverQuest felt impossibly vast, and I knew for sure that the second I stepped out of Freeport I'd never be able to find my way back. So I spent Karokan's life just outside the city gates, fighting orcs and rats, and never venturing further. It was a simple life, but a happy one. (Read the full article here) ]]>
+Here are those 74 seconds of scorpion-clubbing ASMR you wanted, boss. You may not like it, but this is what peak MMO gaming looks like . ]]>
 
-### Steam game disables mods after facing its second Workshop malware outbreak this year
-Wed, 23 Sep 2026 20:53:49 +0000 — https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/
+### The timeless power of Shiv
+Thu, 24 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/the-timeless-power-of-shiv/
 
-What happened On September 22, Studio Minus—the developer of ragdoll torture sandbox People Playground— posted a Steam news update saying it had disabled the game's Steam Workshop support "due to yet another malicious mod," which the developer said was "especially bad" The developer has since released a new build of People Playground that prevents mods from running , saying on its Discord that Workshop and mod support will only return if "mods are fundamentally safe to run," which "might never happen" A redditor who inspected the malicious Workshop mod claims the mod hijacks the user's Steam account to republish itself on the Workshop along with the user's personal information , destroys files for People Playground and other installed Steam games, and sends slurs to the user's Steam friends Despite initially claiming that the infected mod "does not steal passwords" or other credentials, Studio Minus is urging People Playground users to change their Discord passwords as soon as possible , as well as "the passwords of all your important accounts" This is People Playground's second Workshop malware incident this year: Studio Minus previously disabled the game's Workshop after a similar outbreak of self-replicating malware in February At this point, you're playing People Playground at your own risk And Studio Minus seems to agree. In a blog post from last month , zooi—People Playground's primary developer—called the game a "technical hellscape," which makes it "technically imposs
+A message to a videogame boss: Look, Slay the Spire 2's Knight Gang, if you can't handle being stabbed with 19 tiny little knives that are paradoxically big enough to hit you all simultaneously, maybe you don't belong in the NBA ]]>
 
-### World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'
-Wed, 23 Sep 2026 20:42:58 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/
+### Discord takes a second swing at age verification, but don't worry, this time it'll guess how old you are with 90% accuracy
+Thu, 24 Sep 2026 13:29:05 +0000 — https://www.pcgamer.com/games/discord-takes-a-second-swing-at-age-verification-but-dont-worry-this-time-itll-guess-how-old-you-are-with-90-percent-accuracy/
 
-2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+After some heavy controversy and arguments with the internet writ large, Discord is now trying to fulfil legal obligations to roll out age verification systems that snoop on you as little as possible. How so? Well, with an "age estimation model" that tries to figure out how old you are, which I'm sure will put everyone at ease. "Our age group estimation model looks at patterns of account behaviour on Discord. It does not look at your messages, calls, or other content. For example, the way a typical teen uses Discord will look different in aggregate from how a typical 30-year-old uses Discord. Our model has learned these patterns and uses them to estimate whether a given account most likely belongs to an adult (18+) or a teen (13-17)." "Specifically, the age group estimation model looks at factors such as the communities, servers, and games you're connected to, general activity levels, such as how many channels or servers you're active in, and account history, such as how old your account is." How did we get here? Back on February 9 of this year, Discord announced it'd be locking you into a "teen-appropriate experience" if you didn't verify your age . Notably, this still had an "age inference system" similar to what Discord is proposing now. In February 13, it emerged that the rollout had ties to Palantir co-founder Peter Thiel via Persona. By February 24, Discord had delayed its verification rollout , and also revealed that Persona didn't meet the bar for its privacy concerns
 
-### I apologize in advance for this, but: Introducing Drillposting
-Wed, 23 Sep 2026 20:40:21 +0000 — https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/
+### WoW: Forever has a secret snake druid form
+Thu, 24 Sep 2026 13:13:10 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-secret-snake-druid-form/
 
-The study of philosophy is powerful because you can map its insights onto any aspect of life today, just as you could a hundred or a thousand years ago. French philosopher Descartes, for example, pioneered the theory of mind-body dualism, writing "I have a clear and distinct idea of myself, in so far as I am simply a thinking, non-extended thing... and on the other hand I have a distinct idea of body... accordingly, it is certain that I am really distinct from my body, and can exist without it." Descartes was born about 300 years too early to experience jetlag, but he was definitely onto something. After flying home from Japan, where I spent a few days shooting for the PC Gaming Show Tokyo Direct , I found my separated body and mind capable of little in the way of cogent thought. All I could think of yesterday was a single idea: Drillposting. It's thanks to the preeminent philosopher of the 21st century that we're all now familiar with wisdom like "theres actually zero difference between good & bad things," but I couldn't stop wondering which of Dril's teachings might map to the perspectives of videogame characters who have drills. It's possible this was a bad idea. I made it anyway. Enjoy? Deep Rock Galactic (Image credit: dril, Ghost Ship Games) Bioshock (Image credit: dril, Take Two) Dig Dug (Image credit: dril, Namco) P. P. Hammer and his Pneumatic Weapon (Image credit: dril, Traveling Bits) Pepper Grinder (Image credit: dril, Ahr Ech, MP2 Games) A Game About Digging A Ho
+World of Warcraft: Forever has a lot of clever little surprises in it that players are digging up during the beta, including this one: A hidden druid shapeshift form that activates if you're wearing the five-piece Embrace of the Viper from the Wailing Caverns dungeon. Turns out if you're a druid and get the full "of the Fang" set from Wailing Caverns, you turn into a serpent in Forever https://t.co/EJANXlsVX8 September 19, 2026 This is, in my estimation, sick as hell, and I'm glad that Blizzard's continuing to sneak hidden mechanics and rule-breaking items into its reimagined Azeroth. ]]>
 
-### Shoot the tires, please
-Wed, 23 Sep 2026 20:12:06 +0000 — https://www.pcgamer.com/games/fps/shoot-the-tires-please/
+### Rogue Trader is coming to an end with miracles, madness and 'tears of blood'
+Thu, 24 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/rpg/rogue-trader-is-coming-to-an-end-with-miracles-madness-and-tears-of-blood/
 
-Humvees are a nasty threat in Wardogs. They're fast, have thick enough armor to withstand multiple RPGs, and usually come with a machinegun nest that can easily mow down a squad of infantry in a single reload. But they have a pretty huge weakness that, two weeks in, many players in my matches are unaware of: Shoot the tires. Like, with anything. Popping just one tire will cut the Humvees max speed by over half, and popping two will slow it to a crawl. This won't destroy the vehicle or even interrupt the gunner, but it will make it easier to get an unarmored angle on the gun nest and force the driver to make a tough choice: limp out of danger or go for a very risky repair. As YouTuber Min Max Lab helpfully tested , it takes just eight 5.56 bullets (the ammo used by Wardogs' free starter rifle) to pop a tire , so even a single soldier can deal enough damage to ruin a driver's day. I haven't managed to ruin two tires by myself, but popping one is often enough to convince the Humvee to disengage for repairs. Be sure to watch that whole video below for more useful data, like which guns are best for tire destruction (shotguns are quite good), which direction you should shoot from to increase damage (the front) and just how bulletproof a Humvee's windows are (it depends on the window). ]]>
+Warhammer 40k: Rogue Trader 's three-year run of expansions is drawing to a close this December with Processional of the Damned. Like the previous DLCs, Processional will introduce a new storyline and companion, both integrated into the existing story rather than coming after the end of the campaign. And your new buddy, well, she sounds pretty extra. A bit risky, maybe? Here are some red flags: Cries tears of blood Unstable powers Might be heretical "She will never truly be free from peril and madness" A living weapon But I guess when you're already travelling with a psychotic alien who tried to kill you, another unsanctioned psyker who's been known to lose control of her powers, a blood-obsessed assassin and Judge Dredd, Stella might actually fit in perfectly. Along with Stella, Processional will introduce the new Zealot archetype, letting you forge a character who loves to bludgeon enemies to death. Owlcat has also teased a new feature, "madness", which will affect all your companions—probably not in a good way—as well as new enemies and gear. After a rough start, Rogue Trader has grown into the best of Owlcat's dense CRPGs, and another one is on the way. Warhammer 40k: Dark Heresy doesn't have a release date yet, but it's "coming soon". Beyond CRPGs, we've also got The Expanse: Osiris Reborn to look forward to—it's very different from Owlcat's previous RPGs, but it might have the juice. Owlcat Owlcat Owlcat Owlcat Owlcat 2026 games : All the upcoming games Best PC games : 
 
 ## GameSpot
+
+### Xbox s New Mythic Achievements Take 15 Seconds To Tell You Good Job
+Thu, 24 Sep 2026 12:12:08 +0000 — https://www.gamespot.com/articles/xboxs-new-mythic-achievements-take-15-seconds-to-tell-you-good-job/
+
+Xbox Achievements have remained mostly the same since they were first introduced decades ago, but it looks like they're set to evolve slightly with the introduction of "Mythic" Achievements. Similar to PlayStation's platinum trophies, it looks like players will have to earn every Achievement in a game before they're awarded one of these. How do you know if you've earned this rare level of kudos on your PC or Xbox? Don't worry, unlocking a Mythic Achievement will result in your system rewarding you with a lot of digital fanfare. As spotted by Klobrille, unlocking a Mythic Achievement will trigger a lengthy animation and sound effect, running almost 15 seconds in total: https://twitter.com/klobrille/status/2102548362914365594 On the surface, it looks like adding a Mythic Achievement to your shelf is a sign that you've truly done everything there is to do in a game, so sitting back and enjoying the lengthy applause from your Xbox after you've poured hours into it makes sense. According to TrueAchievements , Mythic Achievements are worth zero Gamerscore and are tracked separately from your usual Achievements. Xbox CEO Asha Sharma had teased the rollout of these new awards back in August, but it looks like they're rolling out during another bleak week at Xbox . As part of ongoing cuts, hundreds of people have been laid off across Xbox Game Studios, studio consolidation has resulted in various developers being grouped under new arms of Xbox, and things are not looking good for Ninj
+
+### Meta s $1,300 VR Glasses Could Be The Most Expensive Way To Play Xbox Games
+Thu, 24 Sep 2026 10:59:20 +0000 — https://www.gamespot.com/articles/meta-1300-vr-glasses-could-be-the-most-expensive-way-to-play-xbox-games/
+
+For years, Meta has had one of the best entry-level virtual reality headsets with the Quest 3 and its slightly lower-specced successor, the Quest 3S. The VR hardware packs a punch, but if you're looking for an even lighter option, the company's new VR glasses could catch your attention. Essentially a Quest 3 that's designed to be easier to carry around, the Meta VR Glasses also come equipped with some impressive screens--and a massive price tag of $1,300 when they launch in Spring 2027. According to Meta, the VR Glasses weigh just 100 grams, thanks to a pocket-sized puck that is tethered to the specs. This unit houses all the tech for running apps and games on the VR Glasses, and inside you'll find a Qualcomm Snapdragon Reality Elite chipset, 128GB of storage, 12GB of RAM, and a battery. The glasses feature 5K Micro OLED lenses, which can output 2412 x 2288 pixels per eye at a 120Hz refresh rate. https://youtu.be/xyD_bmMy5nQ Out of the box, these can access all apps and games from the Meta Quest catalog, and they support Xbox Cloud Gaming. Meta also says that they're "IMAX-Enhanced certified" as they support the Dolby Vision HDR format, and they can be used to watch 3D movies. When they arrive, users will have a library of 75 games that they can play using only their hands, or they can connect it to a gaming console or handheld as an alternate display option. These do not come with controllers by default, but you can buy Touch Plus controllers separately or pair an existing Q
 
 ### Discord Begins Rolling Out Age Verification And A Sponsorship With FanDuel
 Wed, 23 Sep 2026 21:12:45 +0000 — https://www.gamespot.com/articles/discord-begins-rolling-out-age-verification-and-a-sponsorship-with-fanduel/
@@ -460,17 +459,32 @@ Tue, 22 Sep 2026 15:45:13 +0000 — https://www.gamespot.com/articles/obsidians-
 
 As Xbox continues its reset and lays off nearly 300 staff , the company announced that some of its subsidiaries have been shaken up as well. This includes Obsidian Entertainment, which will now operate under Bethesda Softworks. On September 22, Xbox chief content officer and executive vice president Matt Booty posted on Xbox's website , outlining a new structure that sees the Bethesda business unit now include Obsidian. "Bethesda will expand its remit to include Obsidian, which will continue its current projects, including Grounded, as well as the new Fallout project made in collaboration with Bethesda Game Studios," Booty wrote on Xbox Wire. This language doesn't appear to suggest that Bethesda gobbled up Obsidian to take ownership over the studio or anything. Instead, it sounds a little closer to the working relationship Bethesda--or rather, the studio's parent company, ZeniMax Media--has with Doom maker id Software. Since the news was made official, Bethesda president Jill Braff reportedly told employees (via Aftermath ) that the "creative identity and strengths that make Obsidian distinct will remain at the core of their work," so it doesn't appear there will be a major shake-up in the development process. Obsidian Entertainment--which developed copious RPGs from Neverwinter Nights 2 to Pillars of Eternity to Star Wars Knights of the Old Republic II: The Sith Lords to The Outer Worlds -- lost 25% of its staff in July after Xbox's first major reset. This resulted in the Av
 
-### GTA 6 Will Make Pro Athletes Perform Worse, NBA Star Says
-Wed, 23 Sep 2026 14:57:50 +0000 — https://www.gamespot.com/articles/gta-6-will-make-pro-athletes-perform-worse-nba-star-says/
-
-Steven Adams of the NBA's Houston Rockets has predicted that all the major professional sports leagues will experience a dip in quality this November because top athletes will be too focused on GTA 6. Speaking to press, Adams said, "Look at the NFL, look at all the leagues, and watch them plummet. Just for the month of November, performance is gonna go down." He went on to say things should get back to normal after athletes finish the game. "It should come back up though; most of the boys will get it done. Hopefully they finish the game," he said. Adams went on to say that other aspects of professional sports leagues will suffer, too, including coaching and scouting efforts that he said will be "horrendous," but "just for November." Adams is obviously not being totally serious here, but GTA 6 is indeed one of the most highly anticipated game releases ever, and a lot of people--including pro athletes--are going to play it. We'll have to check back in November to see if athletes playing the game had any adverse effect on stats, however. Before this, an NFL player blamed his on-field struggles on video games , while NFL QB Kyler Murray is known for playing too much Call of Duty . https://twitter.com/gta6_premium/status/2102476846902415849?s=46 Adams has previously discussed his interest in video games, singling out titles like Dota 2 and Smite as some of his favorites. "I'm more of a nerd," he told TMZ . GTA 6 releases on November 19. The Rockets do not play that day , but there
-
-### Nintendo Turns 137 Today, Making It Older (And Better) Than Sliced Bread
-Wed, 23 Sep 2026 14:37:51 +0000 — https://www.gamespot.com/articles/nintendo-turns-137-today-making-it-older-and-better-than-sliced-bread/
-
-Nintendo is officially 137 years old today, and while that's an odd number to celebrate, it's certainly an impressive one. While it's a leading producer of video games and gaming hardware, the company originally started life as a maker of hanafuda playing cards in 1889, evolving with the times to eventually become a gaming powerhouse. But to put its age into perspective, it's worth looking at things that Nintendo predates. That makes for a long list, but the biggest surprise, as pointed out online , is that Nintendo is literally older than sliced bread . Technically, this would make sliced bread the best thing since Nintendo, and for double-technicality points, we're referring to commercial pre-sliced bread . According to the history books, pre-sliced bread made its commercial debut 38 years later, on July 7, 1928, when the Missouri-based Chillicothe Baking Company began using Otto Frederick Rohwedder's bread-slicing machine to deliver tasty portions of the household staple to customers. https://www.youtube.com/watch?v=dhw8BfVO_EY Historically, Nintendo also beat the public opening of the Eiffel Tower (June 1893) and the Wright Brothers' first flight (1903), and it outlasted the Ottoman Empire. It also has a big lead on the invention of penicillin (1928), chocolate chip cookies (1938), bubble wrap (1957), and the greatest movie of all time, Guillermo del Toro's Pacific Rim (2013). If there's anything that equals the historical significance of Nintendo, that would be Vincent V
-
 ## Rock Paper Shotgun
+
+### Warhammer 40,000: Rogue Trader's final DLC is now coming in December, with an "unsanctioned psyker" companion who cries tears of blood
+Thu, 24 Sep 2026 15:25:28 +0000 — https://www.rockpapershotgun.com/warhammer-40000-rogue-traders-final-dlc-is-now-coming-in-december-with-an-unsanctioned-psyker-companion-who-cries-tears-of-blood
+
+Warhammer 40,000: Rogue Trader 's story-concluding final DLC has been pushed back to December, developers Owlcat have announced. At the same time, they've introduced the companion around which this last expansion, Processional of the Damned, will revolve. Her name's Stella. She's an "unsanctioned psyker", a "miracle sent by the Emperor himself", and is prone to shedding tears of blood. Read more
+
+### Discord roll out revised age verification following delay due to pushback, pledging to be "safer for teens, same Discord for Adults"
+Thu, 24 Sep 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults
+
+Discord have rolled out a revised global age verification system , having delayed deploying one earlier this year following largely privacy-based backlash. Read more
+
+### Steam Frame-ready VR rhythm game Beat Saber is adding hand-tracking and a punchy new mode in its "biggest update ever"
+Thu, 24 Sep 2026 11:32:32 +0000 — https://www.rockpapershotgun.com/steam-frame-ready-vr-rhythm-game-beat-saber-is-adding-hand-tracking-and-a-punchy-new-mode-in-its-biggest-update-ever
+
+I&rsquo;m not saying that the reveal of Beat Saber &rsquo;s " biggest update ever " was timed to coincide with a swell of VR interest induced by the new Steam Frame . But I am going to infer it, without evidence, before immediately moving on to what the sweaty sword-slashing rhythm game can expect when said update lands in Spring of 2027. First and foremost is an entire new mode, Flux. This sees Beat Saber ditch the sabers and dial up the beating, demanding your own bare hands punch, prod, and slap their way through notes. A Beat Saber Unarmed build, basically. Looks fun! If probably no less tiring. Read more
+
+### Bethesda say new underlings Obsidian will retain their "distinct" creative identity, despite no longer being as free to work on their own creatively distinct series
+Thu, 24 Sep 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/bethesda-say-new-underlings-obsidian-will-retain-their-distinct-creative-identity-despite-no-longer-being-as-free-to-work-on-their-own-creatively-distinct-series
+
+Obsidian will remain a "distinct" Obsidian with their own "creative identity and strengths", despite no longer operating independently of fellow Xbox-owned RPG makers Bethesda. That's according to Jill Braff, president of Bethesda and Microsoft's casual games division, in a memo sent to staff at the former following this week's layoffs and reorganising of studios at Xbox. Read more
+
+### After eighteen years of jaggedy bowling, a new mod bestows GTA 4 with DLSS and FSR support
+Thu, 24 Sep 2026 10:30:09 +0000 — https://www.rockpapershotgun.com/after-eighteen-years-of-jaggedy-bowling-a-new-mod-bestows-gta-4-with-dlss-and-fsr-support
+
+Rockstar&rsquo;s modding guidelines , recently updated in advance of GTA 6 , say much about how you can&rsquo;t dream up unofficial story missions, or give the upcoming instalment a cheeky unofficial PC port. But they don&rsquo;t say a goddamn thing about crowbarring DLSS, DLAA, and FSR into 2008&rsquo;s Grand Theft Auto IV , which is exactly what ChunkLeChuck&rsquo;s DLSS IV mod has gone and done. Read more
 
 ### Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam
 Thu, 24 Sep 2026 09:19:58 +0000 — https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam
@@ -506,29 +520,4 @@ Less than 24 hours after confirming they've managed to secure a future outside o
 Wed, 23 Sep 2026 09:13:14 +0000 — https://www.rockpapershotgun.com/age-of-empires-studio-worlds-edge-reportedly-lose-nearly-half-their-staff-and-a-new-game-project-in-mass-xbox-layoffs
 
 Further details have emerged of the impact that Microsoft&rsquo;s Xbox consolidation and job cuts programme is having on affected workers. World&rsquo;s Edge, the studio that effectively manages strategy megaseries Age of Empires , has allegedly been hit hard, with an unnamed but verified creative director posting on industry forum ResetEra that "just under half" of all staff had been let go in the process of moving from Xbox&rsquo;s direct control to Activision&rsquo;s. Read more
-
-### Stuntboost is a Tech Dech, skateboarding platformer all about doing sick flips on cardboard constructs in your bedroom, and it's out now
-Tue, 22 Sep 2026 21:50:59 +0000 — https://www.rockpapershotgun.com/stuntboost-is-a-tech-dech-skateboarding-platformer-all-about-doing-sick-flips-on-cardboard-constructs-in-your-bedroom-and-its-out-now
-
-I was not a child that was built for skateboarding. Child me was a tad too wimpy to ever do anything so wicked cool as that. What if I scuffed my knee a little bit, or worse, embarrassed myself? So I did what any skateboarding curious child would do and bought a Tech Deck. And then I never learned how to get good at it. I am only slightly bitter about this adolescent failure of mine, yet all is not lost, for there is an entire video game out today that can let me experience such a feat digitally: Stuntboost. Read more
-
-### Furries, magical girls and slick hack 'n' slash combat blend promisingly together in the late 2000s inspired Break The Night
-Tue, 22 Sep 2026 20:32:44 +0000 — https://www.rockpapershotgun.com/furries-magical-girls-and-slick-hack-n-slash-combat-blend-promisingly-together-in-the-late-2000s-inspired-break-the-night
-
-Despite not being one myself, I do seem to write about furry-adjacent games for this ole webbed site , don't I? And I've got another one for you today! It's called Break The Night, a hack 'n' slash with slick movement, roguelike elements, and magical girls inspired by aesthetics from the late 2000s, and while it's still quite early days yet, I've been quite charmed by it. Read more
-
-### Packed Lair, out today, is a Tetris-adjacent base builder about cramming as much as you can into a tiny evil lair to aid your army in conquering the world
-Tue, 22 Sep 2026 18:49:01 +0000 — https://www.rockpapershotgun.com/packed-lair-out-today-is-a-tetris-adjacent-base-builder-about-cramming-as-much-as-you-can-into-a-tiny-evil-lair-to-aid-your-army-in-conquering-the-world
-
-Real estate these days! No matter where you look, there's never enough space any more. I imagine this was the impetus for designing Packed Lair, a dungeony fusion of base building, auto battling, roguelikes and Tetris where you play as an evil lord who is trying to cram an entire empire into an incredibly cramped lair that's out today. Read more
-
-### Love 'em or hate 'em, if it weren't for the Sonic the Hedgehog films, the blue blur might have been canned entirely, so says series boss Takashi Iizuka
-Tue, 22 Sep 2026 17:15:10 +0000 — https://www.rockpapershotgun.com/love-em-or-hate-em-if-it-werent-for-the-sonic-the-hedgehog-films-the-blue-blur-might-have-been-canned-entirely-so-says-series-boss-takashi-iizuka
-
-I like Sonic. He charms me! But that doesn't mean I'm a fool. I know there are very few of his games that could actually be called "good," whatever that word might mean, I just don't care. Except making not good games, and having a reputation for doing so, will obviously result in waning returns financially. So it isn't a surprise to hear from Sonic boss Takashi Iizuka that, once upon a time, the entire series was at risk of cancellation. Which is where those of you that like the games but hate the movies need to say some thank yous. Read more
-
-### Prebuilt Steam Machine faceplate screens are here, delivering decent, surprisingly cheaper alternatives to Valve-approved DIY builds
-Tue, 22 Sep 2026 17:03:16 +0000 — https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds
-
-If you own a Steam Machine , and still cling to the misconception that my budget faceplate ideas aren&rsquo;t good enough for you, you basically have three options for front panel customisation. The first is to grab something off Etsy or suchlike. The second is take advantage of Valve&rsquo;s open-source Inkterface project to build yourself an E-Ink display, onto which you can electronically daub performance monitoring info. The third is to end up with more or less the same panel as option two, but have someone else make it for you. That&rsquo;s what arch accessory makers JSAUX are proposing with their Steam Machine E-Ink and Pixel Matrix faceplates , which go on sale today after a few weeks of preening around the case mod scene. I&rsquo;ve been using both on my Machine at home, and they&rsquo;re quite good fun. The E-Ink faceplate, for which I sense the greater internet buzz, is a crisp, tidy little black-and-white panel, while the PixelMatrix trades detail density for colour and retro charm. Both have a few different display modes, switchable in SteamOS&rsquo;s quick settings menu (via some clever integration with the Decky Loader plugin tool), and while I had to set this up manually, JSAUX say the requisite software will be downloadable via Steam itself from early October. Truly, it&rsquo;s all the results of a DIY mod and more, conveniently pre-prepared for people who don&rsquo;t own soldering irons. Read more
 
