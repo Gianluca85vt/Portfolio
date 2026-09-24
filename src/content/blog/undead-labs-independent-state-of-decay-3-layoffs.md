@@ -4,7 +4,6 @@ date: 2026-09-24
 category: Games
 cover: /img/blog/undead-labs-independent-state-of-decay-3-layoffs/shot-01.jpg
 excerpt: Undead Labs went independent from Xbox and cut staff on the same day, 22 September. That timing follows from how runway funding works.
-draft: true
 ---
 
 Undead Labs completed its separation from Xbox on 22 September and posted the
