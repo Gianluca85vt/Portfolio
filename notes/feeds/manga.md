@@ -1,72 +1,82 @@
-# Manga — harvested 2026-09-23T19:48:35.824Z
+# Manga — harvested 2026-09-24T09:31:48.175Z
 
 ## Anime News Network
 
-### Saga of Tanya the Evil Anime Gets Film Concert for 10th Anniversary
-Wed, 23 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/saga-of-tanya-the-evil-anime-gets-film-concert-for-10th-anniversary/.242111
+### Star Detective Precure! Film Opens at #3, Cosmic Princess Kaguya! Returns at #6 in Japan
+Thu, 24 Sep 2026 03:53:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/star-detective-precure-film-opens-at-no.3-cosmic-princess-kaguya-returns-at-no.6-in-japan/.242124
 
-Film concert runs at Ota Civic Hall Aprico in Tokyo on March 20
+<cite>Madoka Walpurgisnacht: Rising</cite> drops to #8, live-action <cite>Look Back</cite> to #10
 
-### Chiikawa Film Earns 15.84 Billion Yen; TV Anime Streams English Dub on YouTube on October 1
-Wed, 23 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/chiikawa-film-earns-15.84-billion-yen-tv-anime-streams-english-dub-on-youtube-on-october-1/.242099
+### Idol Group WEST. to Cease Activities on September 30
+Thu, 24 Sep 2026 03:06:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/idol-group-west-to-cease-activities-on-september-30/.242131
 
-<cite>Chiikawa</cite> anime film is top movie in Japan for 2026
+Members Ryusei Fujii, Nozomu Kotaki previously announced departure from group
 
-### Beyond the Season Finale: 5 More Manga You Need to Continue Right Now
-Wed, 23 Sep 2026 13:33:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-23/beyond-the-season-finale-5-more-manga-you-need-to-continue-right-now/.240613
+### Qliphah in Providence's Shadow Game Review
+Thu, 24 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/qliphah-in-providence-shadow/.242076
 
-Watch the anime, then rush to read these series to find out what happens next. Here are five more series you should continue reading in manga form!
+Can Stylish Rock-Paper-Scissors combat save <cite>Qliphah in Providence's Shadow’s</cite> dull narrative? No. But can it evoke memories of the PS Vita? Yes, for better or worse.
 
-### From Old Country Bumpkin to Master Swordsman Anime Gets 3rd Season
-Wed, 23 Sep 2026 12:42:49 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/from-old-country-bumpkin-to-master-swordsman-anime-gets-3rd-season/.242109
+### Level 5 Addresses Generative AI Use in Latest Presentation
+Wed, 23 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-23/level-5-addresses-generative-ai-use-in-latest-presentation/.242108
 
-Anime's 2nd season ended on Wednesday
+Level 5: “We offer our deepest apologies for causing suspicions in our production process due to our inexperience with generative AI and simple human errors”
 
-### My Stepmom's Daughter Is My Ex Light Novel Series Ends With 14th Volume
-Wed, 23 Sep 2026 12:00:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/my-stepmom-daughter-is-my-ex-light-novel-series-ends-with-14th-volume/.242106
+### Haganai: I Don't Have Many Friends Author Yomi Hirasaka Retires
+Wed, 23 Sep 2026 23:58:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/haganai-i-dont-have-many-friends-author-yomi-hirasaka-retires/.242122
 
-Final volume ships on December 1
+<i>A Salad Bowl of Eccentrics/A Sister's All You Need</i> novelist explains he achieved financial independence to retire early
 
-### Akane-banashi Volumes 1-3 Manga Review
-Wed, 23 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/akane-banashi-volumes-1-3-manga/.241795
+### Gelpiyo Anime Gets Sequel on October 21
+Wed, 23 Sep 2026 23:31:48 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/gelpiyo-anime-gets-sequel-on-october-21/.242123
 
-Determined to vindicate her father after the humiliating end of his Rakugoka career, Akane Osaki descends into the world of rakugo herself, but will she fare any better?
+New guest cast members include Park Yu Chun, SU, Sumire Yoshida, Aina Yamauchi, Airi Mizushima
 
-### Red River ‒ Episode 12
-Wed, 23 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-12/.242105
+### LEGO Teases Dragon Ball Sets
+Wed, 23 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-23/lego-teases-dragon-ball-sets/.242098
 
-This really does feel like the barest outline of the story, and by this point, it’s become clear that things tend to follow a distinct pattern.
+Do you need to collect 7 Dragon Ball LEGO sets to get a wish?
 
-### hololive VTuber Agency's 1st TV Anime Project Reveals Title, Visual, Cast, Staff
-Wed, 23 Sep 2026 10:58:10 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/hololive-vtuber-agency-1st-tv-anime-project-reveals-title-visual-cast-staff/.242104
+### Amata Games Unveils Phoenix Wright: Ace Attorney – Dual Destinies VR Game for 2027
+Wed, 23 Sep 2026 22:43:16 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/amata-games-unveils-phoenix-wright-ace-attorney-dual-destinies-vr-game-for-2027/.242121
 
-Studio Kai's <cite>hololive: Let's Head Out!</cite> anime stars 29 hololive members
+VR version of 5th <cite>Ace Attorney</cite> game offered with support for English, other languages
 
-### One Piece (2026-) ‒ Episode 1179
-Wed, 23 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1179/.242096
+### Go! Go! Loser Ranger! Manga Resumes After 2-Month Hiatus
+Wed, 23 Sep 2026 21:37:43 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/go-go-loser-ranger-manga-resumes-after-2-month-hiatus/.242120
 
-Gaban’s power comes up against the twin threats of Gunko’s significant capabilities and his own son being held hostage.
+Manga went on hiatus on July 8 due to creator Negi Haruba's health
 
-### The World Is Dancing ‒ Episodes 12-13 - SEASON FINALE
-Wed, 23 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-is-dancing/episodes-12-13-season-finale/.242095
+### My Tiny Senpai Manga to End in 14th Volume Next April
+Wed, 23 Sep 2026 21:32:11 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/my-tiny-senpai-manga-to-end-in-14th-volume-next-april/.242117
 
-This has been a beautiful and often fascinating experience, but it hasn't lately made for particularly incredible television.
+Series debuted in April 2020
 
-### Rock Band Kroi Performs STEEL BALL RUN JoJo's Bizarre Adventure Anime's Opening Song
-Wed, 23 Sep 2026 08:12:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/rock-band-kroi-performs-steel-ball-run-jojo-bizarre-adventure-anime-opening-song/.242103
+### The Exiled Heavy Knight Knows How to Game the System Anime Reveals New Trailer, Cast, Theme Songs for 2nd Part
+Wed, 23 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/the-exiled-heavy-knight-knows-how-to-game-the-system-anime-reveals-new-trailer-cast-theme-songs-for-/.242100
 
-Anime's 2nd, 3rd stage streams on Friday
+Kosuke Tanabe, Tsugumi Sakuragi, Misaki Kuno, Kengo Kawanishi join anime's cast as adventurers
 
-### 6th Live-Action Midnight Diner Series Reveals Returning Cast, Staff, October 20 Debut
-Wed, 23 Sep 2026 07:27:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/6th-live-action-midnight-diner-series-reveals-returning-cast-staff-october-20-debut/.242097
+### Zombie Police: Midsummer Unhappy New Year Game Launches for PC via Steam on November 22
+Wed, 23 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-23/zombie-police-midsummer-unhappy-new-year-game-launches-for-pc-via-steam-on-november-22/.242113
 
-Mansaku Fuwa, Toshiki Ayata, Tamae Ando, Joe Odagiri, more return as cafeteria regulars in new series
+Game gets Switch release at later date
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Phantom Busters Anime Adaptation Announced for 2027
+Thu, 24 Sep 2026 09:04:29 GMT — https://animecorner.me/phantom-busters-anime-adaptation-announced-for-2027/
+
+Neoshoco's Phantom Busters manga is officially getting a TV anime adaptation in 2027, as announced on September 24.
+
+### The Exiled Heavy Knight Knows How to Game the System Part 2 Reveals Main Trailer, Visual, Theme Songs and New Cast
+Wed, 23 Sep 2026 23:19:44 GMT — https://animecorner.me/the-exiled-heavy-knight-knows-how-to-game-the-system-part-2-reveals-main-trailer-visual-theme-songs-and-new-cast/
+
+The Exiled Heavy Knight Knows How to Game the System revealed a new visual and main trailer for Part 2, which will continue in Fall 2026.
 
 ### Ave Mujica Covers Lady Gaga Song "Abracadabra"
 Wed, 23 Sep 2026 15:33:38 GMT — https://animecorner.me/ave-mujica-covers-lady-gaga-song-abracadabra/
@@ -82,6 +92,11 @@ From Old Country Bumpkin to Master Swordsman Season 3 anime was officially annou
 Wed, 23 Sep 2026 14:59:07 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-opening-video-released-theme-song-by-kroi/
 
 STEEL BALL RUN JoJo's Bizarre Adventure revealed the opening video and song ahead of the 2ND and 3RD STAGE premiere on September 25.
+
+### Mugendai MewType Releases Tiger & Bunny Opening Song "Orion wo Nazoru" Cover
+Wed, 23 Sep 2026 13:03:00 GMT — https://animecorner.me/mugendai-mewtype-releases-tiger-bunny-opening-song-orion-wo-nazoru-cover/
+
+Mugendai MewType released a cover of "Orion wo Nazoru" by UNISON SQUARE GARDEN. The&hellip;
 
 ### hololive Anime Reveals Official Title, Teaser Visual and 29 Participating Talents
 Wed, 23 Sep 2026 12:12:11 GMT — https://animecorner.me/hololive-anime-reveals-official-title-teaser-visual-and-29-participating-talents/
@@ -113,22 +128,22 @@ Tue, 22 Sep 2026 22:39:38 GMT — https://animecorner.me/katekyo-hitman-reborn-a
 
 Katekyo Hitman REBORN! anime released the creditless version of its thirteenth ending, featuring "Yume no Manual" by CHERRYBLOSSOM.
 
-### Kakao Entertainment to Shut Down Tapas and Kakao Webtoon, to Consolidate Content on KakaoPage
-Tue, 22 Sep 2026 16:20:42 GMT — https://animecorner.me/kakao-entertainment-to-shut-down-tapas-and-kakao-webtoon-to-consolidate-content-on-kakaopage/
-
-Kakao Entertainment plans to shut down Kakao Webtoon and Tapas to consolidate its services into KakaoPage by the end of 2026.
-
-### Mushoku Tensei Releases Old Rudeus' Full Diary From Light Novel Volume 15 After Season 3 Episode 13
-Tue, 22 Sep 2026 15:54:45 GMT — https://animecorner.me/mushoku-tensei-releases-old-rudeus-full-diary-from-light-novel-volume-15-after-season-3-episode-13/
-
-Mushoku Tensei: Jobless Reincarnation has released the full Old Rudeus diary following the release of Season 3 Episode 13.
-
-### BanG Dream’s millsage Covers "Stellar Stellar" by Hoshimachi Suisei
-Tue, 22 Sep 2026 13:51:05 GMT — https://animecorner.me/bang-dreams-millsage-covers-stellar-stellar-by-hoshimachi-suisei/
-
-BanG Dream!’s millsage released a cover of "Stellar Stellar," a song originally sung by&hellip;
-
 ## MyAnimeList News
+
+### Phantom Busters TV Anime Announced For 2027
+Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss
+
+A television anime adaptation of Shoco s Phantom Busters manga was announced on Thursday through the anime s official website, revealing a commemorative illustration from Shoco (pictured to the right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in the fall 2022 season before beginning serialization in Jump SQ. in August 2023. The seventh volume was released in February 2026, with the eighth one scheduled to be released on October 2. The manga has over 1...
+
+### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast Pair
+Thu, 24 Sep 2026 02:20:26 -0700 — https://myanimelist.net/news/74754105?_location=rss
+
+The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additional pair of cast for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Voice actors Kazuyuki Okitsu (Hidarikiki no Eren) and Shiki Aoki (Helck) are joining the second season as Elliot Arkwright and...
+
+### Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru Unveils Additional Cast, Theme Songs, Main Promo for Second Cour
+Wed, 23 Sep 2026 16:46:28 -0700 — https://myanimelist.net/news/74753120?_location=rss
+
+The official website for the television anime adaptation of Necoco and Lee Brocco s Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru (The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge) manga unveiled additional cast, a key visual (pictured), the theme songs, and main promotional video for second cour on Thursday. The second half began with the 13th episode on October 2 at 12:26 p.m. on MBS and TBS Super Animeism Turbo block, followed by BS Nippon Televis...
 
 ### Light Novel Mamahaha no Tsurego ga Motokano datta Ends with 14th Volume
 Wed, 23 Sep 2026 09:18:06 -0700 — https://myanimelist.net/news/74751890?_location=rss
@@ -165,9 +180,4 @@ _Nothing in the last 48 hours._
 Wed, 23 Sep 2026 09:00:24 +0000 — https://animeuknews.net/2026/09/demons-crest-volume-2-review/
 
 Yuuma and his companions have made it through a life-or-death battle, but now they're faced with the reality that Sawa is possessed by a demon...
-
-### Fruit of the Underworld Volume 2 Review
-Tue, 22 Sep 2026 09:00:34 +0000 — https://animeuknews.net/2026/09/fruit-of-the-underworld-volume-2-review/
-
-Seiji has successfully made it down to the underworld, but there are all kinds of horrors standing between him and rescuing best friend Haru! Including the mighty Cerberus and the revival of the King of the Underworld...
 

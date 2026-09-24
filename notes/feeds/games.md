@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-23T19:48:35.824Z
+# Games — harvested 2026-09-24T09:31:48.175Z
 
 ## Eurogamer
+
+### Don't expect regular Destiny 2 updates to return, despite the surprise "unvaulting" of game additions
+Thu, 24 Sep 2026 08:52:40 +0000 — https://www.eurogamer.net/destiny-2-unvaulted-content-details-report
+
+After announcing the end of Destiny 2 development and laying off almost the game's entire team , Bungie surprised fans earlier this week with news that it's working on "unvaulting" Destiny 2 campaigns, raids and destinations - bringing them back to the game after they were removed. The developer offered few specifics at the time, but new information has now emerged about what we can expect. Read more
 
 ### Discord launches controversial age-verification system "using the most privacy-preserving approach we could build" months after first delay
 Wed, 23 Sep 2026 18:55:20 +0000 — https://www.eurogamer.net/discord-controversial-age-verification-privacy-preserving
@@ -57,12 +62,12 @@ Wed, 23 Sep 2026 09:00:00 +0000 — https://www.eurogamer.net/resident-evil-movi
 
 There's a bit somewhere in the middle of the rubbish Doom movie, where the perspective suddenly switches to first-person. Look, it seems to say, it's just like you playing the video game! But what Zach Cregger's new Resident Evil movie gets is that, really, it's nothing like me playing the video game. Back on my side of the screen, I might be sitting in a digital space marine suit, gliding around gloomy corridors as monsters leap at my face, but I'm certainly not behaving like one. I am shrieking; I am cringing, I am swearing; I am fumbling the controller, and I'm firing stray bullets at the roof. And while, yes, I might occasionally allow myself a quick celebrity whoop, the power fantasy is hardly a total one. Read more
 
-### State of Decay studio Undead Labs goes independent after Xbox restructuring, but lays off "a significant number" of the team in doing so
-Wed, 23 Sep 2026 08:36:33 +0000 — https://www.eurogamer.net/undead-labs-independent-xbox-restructuring-state-of-decay
-
-State of Decay studio Undead Labs has shared good and bad news following Xbox's second round of job cuts this year . Read more
-
 ## GamesIndustry.biz
+
+### Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay
+Thu, 24 Sep 2026 07:56:51 +0000 — https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
+
+Microsoft has patented an "ad-credit" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay. Read more
 
 ### Bethesda boss confirms Obsidian will remain a "distinct" team
 Wed, 23 Sep 2026 18:47:06 +0000 — https://www.gamesindustry.biz/bethesda-boss-confirms-obsidian-will-remain-a-distinct-team
@@ -119,16 +124,21 @@ Tue, 22 Sep 2026 09:43:57 +0000 — https://www.gamesindustry.biz/bungie-says-it
 
 Three months after Destiny 2's final update, Bungie has announced plans to reinstate vaulted campaigns, raids, and destinations to regain player trust. Read more
 
-### Xbox reportedly set to announce second round of layoffs this week
-Tue, 22 Sep 2026 07:55:38 +0000 — https://www.gamesindustry.biz/xbox-reportedly-set-to-announce-second-round-of-layoffs-this-week
-
-UPDATE: Microsoft has confirmed the loss of 268 jobs amid a sweeping reorganisation of its internal studios , including the proposed closure of Ninja Theory. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Final Fantasy 7 Revelation on PS5 Pro Offers a Bespoke 4K, 60fps Mode Thanks to PSSR
+Wed, 23 Sep 2026 20:45:00 GMT — https://www.pushsquare.com/news/2026/09/final-fantasy-7-revelation-on-ps5-pro-offers-a-bespoke-4k-60fps-mode-thanks-to-pssr
+
+Final Fantastic. PS5 Pro users will apparently be spoilt for choice when it comes to picking a graphics mode in Final Fantasy 7 Revelation . The highly anticipated RPG will seemingly feature four different settings on Sony's more expensive system — although one of them is clearly going to be the favourite. Read the full article on pushsquare.com
+
+### Digital PS5 Purchases Kicking Back Cash to More and More Players
+Wed, 23 Sep 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/09/digital-ps5-purchases-kicking-back-cash-to-more-and-more-players
+
+Feeling flash. Sometimes I think Sony is guilty of saying too little. I remember when it announced PS5 backwards compatibility, and it was so cautious with its language that there was concern over how widely supported it’d be. It ended up being superb and working with practically every PS4 game. Read the full article on pushsquare.com
 
 ### Gundam Celebrates 40 Years of Games with a Dedicated Broadcast Next Month
 Wed, 23 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/09/gundam-celebrates-40-years-of-games-with-a-dedicated-broadcast-next-month
@@ -180,16 +190,6 @@ Tue, 22 Sep 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/09/final-
 
 Open world blues. Whether we like it or not, in-game guidance systems have become a staple of modern gaming. Sometimes this stuff can feel incredibly heavy-handed, like the controversial 'fart gas' in Marvel's Wolverine . Other times, it just comes off as a bit annoying, like when Atreus and Mimir constantly offer up puzzle hints in God of War . Read the full article on pushsquare.com
 
-### Xbox Confirms Job Losses and Studio Changes, Activision to Make Next Halo Game
-Tue, 22 Sep 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/09/xbox-confirms-job-losses-and-studio-changes-activision-to-make-next-halo-game
-
-Halo Studios loses roles, Obsidian now under Bethesda. Microsoft has now confirmed the rumours of the next wave of job layoffs within its Xbox division, as well as important changes to its internal studio makeup. At a top level, 268 employees are losing their jobs across Halo Studios, other first-party developers, and the Xbox Game Studios management and central functions layer. These cuts are part of Xbox's previously announced "Reset" plans, and Matt Booty says in an Xbox Wire article the firm is roughly three-quarters of the way through that process. Read the full article on pushsquare.com
-
-### Dragon s Dogma 2 Dev Says There s a Significant Gap in What Western and Eastern Players Want
-Tue, 22 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/dragons-dogma-2-dev-says-theres-a-significant-gap-in-what-western-and-eastern-players-want
-
-"We should give players options". There's apparently a really big difference in what players enjoy about Dragon's Dogma 2 , depending on where they're from. This is according to two of the game's key figures, producer Naoto Oyama and director Kento Kinoshita — the latter being in charge of the soon-to-be-released Dark Arisen expansion. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Discord re-introduces age verification policy based on 'account signal' methodology
@@ -227,11 +227,6 @@ Tue, 22 Sep 2026 12:33:14 GMT — https://www.gamedeveloper.com/production/-do-n
 
 Official Rockstar storylines, characters, and other elements from the studio's 'established continuity' are off-limits.
 
-### Bungie declares it's 'not done with Destiny' as it lays out studio's future
-Mon, 21 Sep 2026 20:30:57 GMT — https://www.gamedeveloper.com/console/bungie-declares-it-s-not-done-with-destiny-as-it-lays-out-studio-s-future
-
-'Destiny is foundational to Bungie's future.'
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -244,7 +239,15 @@ no date — https://www.gamedeveloper.com/events/slice
 ### Unreal Fest
 no date — https://www.gamedeveloper.com/events/unreal-fest
 
+### GodotCon
+no date — https://www.gamedeveloper.comconference.godotengine.org
+
 ## VGC
+
+### A mixed reality reinvention of Tetris Effect is coming next year
+Thu, 24 Sep 2026 09:11:24 +0000 — https://www.videogameschronicle.com/news/a-mixed-reality-reinvention-of-tetris-effect-is-coming-next-year/
+
+Tetris Effect: Mixed Realities is coming to Meta Quest 3 and the upcoming Meta VR Glasses… Source
 
 ### I just assume someone is being greedy : Double Fine s Tim Schafer says he doesn t know why the industry isn t recovering
 Wed, 23 Sep 2026 18:44:10 +0000 — https://www.videogameschronicle.com/news/i-just-assume-someone-is-being-greedy-double-fines-tim-schafer-says-he-doesnt-know-why-the-industry-isnt-recovering/
@@ -291,126 +294,126 @@ Wed, 23 Sep 2026 08:54:43 +0000 — https://www.videogameschronicle.com/news/exc
 
 Sprigatito will get a new illustration rare in the new set… Source
 
-### The next classic polygonal Namco arcade game getting a home release is Xevious 3D/G
-Wed, 23 Sep 2026 08:41:41 +0000 — https://www.videogameschronicle.com/news/the-next-classic-polygonal-namco-arcade-game-getting-a-home-release-is-xevious-3d-g/
-
-The 3D take on Xevious got a PS1 port but this is the first home release of the arcade version… Source
-
 ## Polygon
 
-### Enter Polygon's Point It Out x Secretlab Giveaway
-Wed, 23 Sep 2026 19:35:15 GMT — https://www.polygon.com/secretlab-polygon-point-it-out-titan-evo-chair-contest-giveaway/
+### Matthew Lillard's Best Performance of 2026 Deserves to Live on Past Its Canceled Series
+Thu, 24 Sep 2026 09:30:15 GMT — https://www.polygon.com/matthew-lillard-daredevil-born-again-season-3/
 
-It's that time again! Polygon has partnered up with Secretlab to give away a number of their top-of-the line gaming chairs. With the dust settling on our first week's contest, we move into our second chance to score one of the best gaming chairs money can buy.
+Well, after all that, Daredevil: Born Again is coming to an end. When the original Netflix series was canceled in 2018, fans clamored for Daredevil’s return. Eventually, Marvel greenlit Daredevil: Born Again , which was supposed to be an all-new continuity with the characters, albeit with some of the same cast. Then, late in production for season 1, the show was reworked to have more connective tissue with the Netflix version, effectively making all the Marvel/Netflix shows canon to the Marvel Cinematic Universe. The revival debuted in March 2025, and the second season followed suit a year later. For the most part, the response has been positive ( even with a perplexing season 2 finale ), and it seemed the show could go on for much longer. Charlie Cox has even intimated that he’d be happy to play Daredevil into old age.
 
-### Leaked Xbox Memo Reveals Obsidian’s Fate Under Bethesda
-Wed, 23 Sep 2026 18:59:51 GMT — https://www.polygon.com/bethesda-obsidian-studio-reorganization-xbox-layoffs/
+### Gremlins 3 Gets an Official Teaser, But There's Some Bad News
+Thu, 24 Sep 2026 08:46:17 GMT — https://www.polygon.com/gremlins-3-teaser-release-date-delay/
 
-Xbox has not had a good 2026. In early July, the company announced it would lay off 1,600 employees and divest from several of its acclaimed studios , including Double Fine, with more layoffs expected in the coming fiscal year. On Sept. 22, Microsoft finally announced that next wave of job cuts , affecting an additional 268 developers. The layoffs coincided with a major company-wide reorganization that will merge several studios, resulting in big changes like Halo being moved under Activision.
+Gizmo returns to the big screen after decades in the third Gremlins movie, but very little is known about the project. Even though the premiere is still a long way out, Warner Bros. has shared the first teaser for Gremlins 3 . However, it's a bittersweet moment for fans, as the 11-second clip also includes a delayed release date.
 
-### Discord's Controversial Age Verification Policy Starts Today
-Wed, 23 Sep 2026 18:49:32 GMT — https://www.polygon.com/discord-controversial-age-verification-starting/
+### 70 Years Later, The Greatest Closing Line In Fantasy History Is Still The Wisest Book Quote Of The 1950s
+Thu, 24 Sep 2026 08:30:14 GMT — https://www.polygon.com/best-fantasy-book-ending-lord-of-the-rings/
 
-In February, Discord announced "teen-by-default" settings and a controversial age-verification policy to change those settings. Backlash was swift, and users immediately tried to find alternative chat services . Eventually, Discord announced it would delay the implementation of its controversial policies to the second half of 2026. Well, here we sit with just a few months left in the year, and the day has come: Discord has begun rolling out its "global age assurance" plans.
+The fantasy genre is built on unforgettable final acts that leave the stage in a blaze of spectacle. George R.R. Martin famously closes A Game of Thrones by spectacularly reawakening magic with the birth of dragons, while Brandon Sanderson caps the Mistborn trilogy with a universe-altering revelation of godhood. Others lean into existential weight, trapping readers in inescapable loops, much like Stephen King did with The Dark Tower or the metafictional continuity of Andrzej Sapkowski’s The Witcher . These are undeniably some of the greatest closing notes in literature (fantasy or otherwise), designed to leave audiences in awe of the cosmic and mythic scale of the worlds they inhabited.
 
-### Where to find pepper leaves in Fire Emblem Fortune's Weave
-Wed, 23 Sep 2026 18:44:49 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-pepper-leaves-location-where-to-find/
+### J.J. Abrams' Cult Classic "X-Files Meets Buffy" Sci-Fi Series Is Officially Free on Streaming
+Thu, 24 Sep 2026 08:00:14 GMT — https://www.polygon.com/jennifer-garner-spy-thriller-stream-free/
 
-In Fire Emblem: Fortune's Weave , you can collect pepper leaves from some nodes far from Dagsion. While there's a chance of one of these leaves could come in a crate, the best approach when you want to guarantee that you will have the material is to go to the world map, visit the right nodes and use the "Search" command — at least, this is the best way to obtain this specific material and complete Leda's "Captains' Drink Recipes" quest.
+The early 2000s saw a significant shift in the portrayal of female leads on television . Gone was the one-dimensional damsel-in-distress trope, making space for empowered female protagonists who were allowed to be flawed and multi-dimensional.
 
-### Arc Raiders’ Cheating Epidemic Is Being Dealt With 'Quietly and Continuously'
-Wed, 23 Sep 2026 18:09:24 GMT — https://www.polygon.com/arc-raiders-cheating-epidemic-interview/
+### Magic: The Gathering's 10 Best Counterspells, Ranked
+Thu, 24 Sep 2026 05:00:15 GMT — https://www.polygon.com/mtg-best-counterspells-in-magic-the-gathering/
 
-Arc Raiders has seen a fairly steady decline in its player count throughout 2026, and one potential reason is the sheer number of cheaters. It's an issue that is frequently cited on social media as being rampant in PvP-focused lobbies (as opposed to the friendlier PvE lobbies, since the game has aggression-based matchmaking ), not to mention the content creators who have stopped playing due to being targeted by cheaters.
+Over 30 years of game design, counterspells have evolved from straightforward two-mana hard answers into format-policing safety valves, color-pie-shattering oddities, and zero-mana emergency brakes.
 
-### Acclaimed Pokémon Artist Responds To Heartbreaking TCG Pack Opening
-Wed, 23 Sep 2026 18:05:20 GMT — https://www.polygon.com/pokemon-avery-the-poke-kid-jirachi-30th-tcg-akira-egawa-beard-dad/
+### How to solve the blood transfusion puzzle in Silent Hill Townfall
+Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-blood-transfusion-door-puzzle-blood-bags/
 
-The Pokémon trading card community spent late September 2026 mourning the death of Avery The Poke Kid , a 12-year-old personality who had been battling pancreatic cancer for seven years. The tragedy spread across social media in part due to a heartbreaking video recorded by Avery's parents where the youngster pulled a coveted Jirachi card from a Pokémon 30th Anniversary pack just before passing away.
+The blood transfusion puzzle in Silent Hill: Townfall is more difficult than scary, and that's saying something, as this challenge takes place in a dark and monster-ridden hospital. To solve the blood transfusion puzzle, you must find the missing blood bags, place the blood bags in the correct slots, and find a connection between blood types.
 
-### Fire Emblem: Fortune’s Weave Basically Has the Same Plot As Twisted Metal
-Wed, 23 Sep 2026 18:00:16 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-twisted-metal/
+### How to save the patient in Silent Hill Townfall
+Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-patient-puzzle-walkthrough-vitals-medicine/
 
-Like a lot of Nintendo Switch 2 owners right now, I’m deep in the trenches with Fire Emblem: Fortune’s Weave . The tactical battles are rock solid, and I’m enjoying my weekly dose of Perfect Bird Time, but it’s the story that’s really driven me to sink 30 hours in so far. I’ve already cleared Theodora’s Act 1 path, and now I’m working on Dietrich’s story, which is so immediately and gloriously unhinged that I need to see more. I will guide all of these freaks through the Heroic Games even if it takes me a very, very long time .
+To help the patient in Silent Hill: Townfall , Zoe must overcome a series of challenges. Dr. Glenn, who's barking orders over the intercom, isn't especially helpful, so you must figure out how to read the patient's blood pressure, how to make an X-ray, and how to find the correct medicine infusion rates by yourself. The patient puzzle, aka the "Zoe: The Patient" mission, is one of the longest and hardest challenges in St. Amelia.
 
-### Some Witcher 3 Fans Aren’t Too Happy With New Remastered Footage
-Wed, 23 Sep 2026 17:57:55 GMT — https://www.polygon.com/witcher-3-remastered-comparison-footage-fan-backlash/
+### How to unlock the Community Gardens gate in Silent Hill Townfall
+Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-unlock-the-community-gardens-gate-door-key-jane/
 
-Next week, CD Projekt Red will release The Witcher 3: Wild Hunt — Remastered , a massive overhaul of the 2015 role-playing game. Considering the game is over a decade old, it isn't wild to think the game may need an update to make it feel brand-new to audiences in 2026. Based on fan reaction to a new clip from the remaster, that may not actually be the case.
+Unless you open the Community Gardens gate in Silent Hill: Townfall , Zoe won't be able to find her way to Mr. Stewart's house. Ignoring Mr. Stewart is no option; as a district nurse, Zoe must complete her home visits, and as a player, you must complete the "Zoe: Rounds" mission. On top of finding the Community Garden key, you must solve a door code puzzle to pass through the St. Amelia Community Gardens.
 
-### Every Xbox Studio’s Current Status After Multiple Rounds of Layoffs
-Wed, 23 Sep 2026 17:45:28 GMT — https://www.polygon.com/xbox-studio-status-september-2026/
+### How to solve the scales puzzle in Silent Hill Townfall
+Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-scales-puzzle-walkthrough-pharmacy-locker-jess/
 
-On July 6, Xbox announced a massive overhaul of its business. The changes would see the company shedding thousands of jobs as it looked to cut 20% of its organization over 12 months. That plan started with a handful of studios leaving the Xbox banner, while others faced deep cuts. The second phase of that operation rolled out on Sept. 22, and it saw Xbox taking similarly drastic measures. In a message shared to Team Xbox employees , chief content officer Matt Booty explained that Xbox was cutting an additional 268 jobs as it continues to restructure its publishing efforts. Booty also revealed that Ninja Theory faces closure after struggling to find a buyer, while talks to offload Arkane are still ongoing.
+The scales puzzle in Silent Hill: Townfall involves many steps, and they're far from obvious. First, you must interpret a very cryptic CRTV video, then you must open a pharmacy locker, and then you'll have to find Jess' house, which initially seems unreachable. Even if you've done all of that already, arranging the items on the scales is a challenge on its own.
 
-### Persona 6 Excitement Grows as Atlus Announces Return of Major Event
-Wed, 23 Sep 2026 17:32:18 GMT — https://www.polygon.com/persona-6-super-live-2027-announced-atlus-rpg/
+### Where to find the reception door code in Silent Hill Townfall
+Thu, 24 Sep 2026 04:01:14 GMT — https://www.polygon.com/silent-hill-townfall-reception-door-code-puzzle-clinic/
 
-At the conclusion of the Tokyo stop of the Persona Live Tour 2026, publisher Atlus made the shocking announcement that it is bringing back Persona Super Live. The concert series based on the Persona role-playing game series was last held in 2022 and could be the perfect venue for the company to share more news about the highly-anticipated Persona 6 .
+The reception door code in Silent Hill: Townfall leads to a telephone, which, in turn, leads to an opportunity to save your game. Conveniently located in the Shorefront Family Clinic, at the start of the "Searching for Zoe" mission, you can already spot the telephone on the reception desk… Too bad the door is locked.
 
 ## PC Gamer
 
-### Sometimes it's fun to hit a scorpion with a club for 38 seconds
-Wed, 23 Sep 2026 18:58:40 +0000 — https://www.pcgamer.com/games/world-of-warcraft/sometimes-its-fun-to-hit-a-scorpion-with-a-club-for-38-seconds/
+### My first MMO character #3: Steve Haines
+Thu, 24 Sep 2026 09:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-3-steve-haines/
 
-Like many others who carry the spiritual stain of prior MMO contact, I've been spending some time in the WoW: Forever beta. After piloting a freshly-minted orc through the introductory quests in the Valley of Trials, I emerged into the wider Durotar scrubland where I soon entered into combat with a hostile scorpion that had strayed too close to the road I was following to Razor Hill. For the next 38 consecutive seconds, I did nothing but watch my orc slowly bludgeon that scorpion to death with a wooden club. And reader, I say this with full sincerity: Those were 38 seconds of peak gaming. (Image credit: Blizzard) I haven't just been playing Forever to sample Blizzard's distillation of year one WoW nostalgia. I've been testing a conviction that I recently forwarded after a week with Star Wars Galaxies: a belief that MMOs would be better off if they rediscovered their lost willingness to burn more of our time. (Image credit: Blizzard) My half-minute and change of scorpid combat has left me feeling pretty confident in the hypothesis. The notion that slower could be better might feel antithetical to current trends in game design, particularly in MMOs. Games have given themselves over to the pursuit of acceleration: the drive to win faster, kill more, and make the numbers bigger as soon as possible—to achieve the most gaming in the least amount of time. Judging from the ecosystems of optimization guides and meta build videos, players seem very eager to indulge. But when the rhythm
+My first MMO character was... Ovidlords, Night-elf Druid Born: ~2006 Game: World of Warcraft After a friend bought me a video game bundle that included Diablo 2 and WoW, I jumped into Diablo and thought the Druid seemed like the coolest thing I’d ever seen. When I made the jump to paying a monthly sub for WoW, I was ecstatic to find I could also roll a shape-shifting Druid, so Ovidlords was born. I was a Druid tank at a time when absolutely no one wanted that. I managed to MT Gruul in the Burning Crusade when I was told that was impossible. He also eventually ended up getting our server-first Ashes of Al’ar when we beat Kael-thas. The account has since been deleted, but I’ll absolutely always remember my bear-y first MMO character. (Read the full article here) ]]>
 
-### You can't have everything in Arc Raiders' reworked skill tree: 'We believe that creates more interesting choices and supports more playstyles'
-Wed, 23 Sep 2026 17:03:52 +0000 — https://www.pcgamer.com/games/third-person-shooter/you-cant-have-everything-in-arc-raiders-reworked-skill-tree-we-believe-that-creates-more-interesting-choices-and-supports-more-playstyles/
+### Micropost: I use my ring finger for right mouse button. Am I okay?
+Thu, 24 Sep 2026 07:00:00 +0000 — https://www.pcgamer.com/games/micropost-i-use-my-ring-finger-for-right-mouse-button-am-i-okay/
+
+(Image credit: Future) Some say I hold my mouse weird. I rest my middle finger on the scroll wheel, and I solely use it for the scroll wheel. I use my ring finger for the right mouse button. But I don't think it's weird. It's elite. It's finesse. It's elegance. You wouldn't get it. ]]>
+
+### The Industrial Revolution is the reason RPGs have area-of-effect spells: A PC Gamer Causality Chain™
+Thu, 24 Sep 2026 04:00:25 +0000 — https://www.pcgamer.com/games/rpg/the-industrial-revolution-is-the-reason-rpgs-have-area-of-effect-spells-a-pc-gamer-causality-chaintm/
+
+Causality Chain is a series at PC Gamer exploring the unlikely links between history, culture, and videogames. Every time you cast a meteor spell in Diablo 2 or a cloud of daggers in Baldur's Gate 3, you are taking part in a chain of history—a causality chain, if you will—that dates back to the 18th century, when nobody had thought about taking a "warlock dip" since the Salem witch trials. And at that time, it had a very different meaning. Today we trace the arc of history from the death of the agrarian period, all the way forward to that time you managed to set fire to five goblins at once and felt quite good about how clever you were. We chart the curious contours of cause and effect, and then we put our chins into our hands and we say, "Hmmm. Yes. This is good." Join us as we tip the dominoes that link the past to the present, then watch the huge and intricate Rube Goldberg machine known as "history" fall over into a heap of discarded playing pieces. The industrial revolution 🔗 Area-of-effect spells in RPGs Rise of Industry 1760–1840: Technological advances including improvements to the steam engine and the viability of larger blast furnaces thanks to the substitution of coke for old-fashioned charcoal—combined with various other social and economic factors—radically changes daily life for many people. During this Industrial Revolution, skilled craftsmen are replaced by machine tools and the factory system becomes widespread. Also the social policy trees for Order and Aut
+
+### Quake Champions takes a shower, shedding all its 2017 live-service grime and becoming a $10 game
+Wed, 23 Sep 2026 23:48:24 +0000 — https://www.pcgamer.com/games/fps/quake-champions-takes-a-shower-shedding-all-its-2017-live-service-grime-and-becoming-a-usd10-game/
+
+Behold, some wild Quake Champions patch notes Removed Battle Pass Removed Weekly / Event Challenges Removed the Store Removed Platinum and Shard Currencies Removed Loot Boxes Removed Daily Login Rewards Removed Champion Progression (the shard reward path) Most Vanity Content is now Available to All Users "Today’s update marks a new chapter for Quake Champions as we transition the game from a free-to-play service to a paid application on Steam," the update reads. "Quake Champions is now available for one low price on Steam. No additional content updates are planned at this time. If you previously played Quake Champions on Steam, the new version will appear in your Steam Library at no additional cost." After nine years, Quake Champions is a live-service game no more: The free-to-play arena shooter is now even more old school as a regular $10 product on Steam . All champions are unlocked from the jump, so you don't have to buy characters piecemeal like way too many games were asking us to do in the mid-2010s. Recently purchased premium currency will be refunded, but if you spent years dropping cash on skins, it might be a little awkward that everybody else now gets those at no additional cost. This is a nicer ending than I expected for id's live-service experiment, which has received mostly cosmetic updates in recent years for the few hundred people that continue to love it. Though no longer free, it's easily a better game with its loot boxes and store tab gone, and one I'll be 
+
+### Microsoft's approach to age verification in Australia is further proof that Valve is taking the everloving piss
+Wed, 23 Sep 2026 23:31:23 +0000 — https://www.pcgamer.com/gaming-industry/microsofts-approach-to-age-verification-in-australia-is-further-proof-that-valve-is-taking-the-everloving-piss/
+
+Many are justifiably annoyed about Steam's new age verification requirements in Australia. Whereas most platforms and shopfronts offer several ways to verify one's age, Valve offers only one, and it's amusingly ill-suited to the Australian market. To prove that you're over 18 years old and thus, legally allowed to purchase games like Metal Gear Solid 4, Doom Eternal or Rimworld, you need to provide details for an active credit card. The problem? Very few Australians use credit cards. Even if you opened your Steam account as far back as 2003 and own a handful of R18+ games already, Steam will still require that credit card. I don't want to big up Microsoft for doing slightly more than the bare minimum, but an email I received overnight does at least cast renewed light on how terrible Valve's approach is. An email from Microsoft regarding my "Microsoft Age Verification Status" had this to say: "Due to your longstanding account activity, we’ve estimated your profile to be an adult account and updated its age verification status to “Verified.” At this time, you are no longer required to complete further age verification for uninterrupted access to features across certain Microsoft products, including Microsoft and Xbox storefronts." (I've made no edits to that message, aside from removing the new all-caps in Xbox because it's lame). I don't like having to verify my age to buy videogames, and honestly, I'd prefer to provide credit card details than scan my face or provide a govern
+
+### World of Warcraft: Forever's first patch will bring back the number one thing seasoned players missed from the MMO's past: storms
+Wed, 23 Sep 2026 22:06:43 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-first-patch-will-bring-back-the-number-one-thing-seasoned-players-missed-from-the-mmos-past-storms/
+
+If there's one thing that Blizzard nailed with World of Warcraft: Forever , it's the atmosphere. There's nothing quite like walking under the moonlight in Tirisfal Glades listening to distant howls and flapping wings on the way to your next quest. But many players familiar with the era of WoW it's based on felt like it was missing something. "I miss running through Dun Morogh hearing the iconic music with a massive snowstorm lowering my view distance on my Dwarf hunter, picking up quests from the dwarf next to the fire [and] restoring my inventory," Reddit user Darthbobz wrote in a post pleading Blizzard to bring WoW's old weather effects to WoW: Forever. It's not that it doesn't rain or snow in WoW: Forever, it's that it doesn't rain and snow enough . People like Darthbobz want to be blinded by the amount of weather on screen, not surrounded by the suggestion of a storm. Blizzard even says the core pillars of WoW: Forever are that the world is the main character and that the journey is more important than the destination . For the most part that's true: Over half of the experience involves running around forests and deserts rather than flying across them on a mount like you do in the modern version of the MMO. But the diet weather effects in the beta clash with the rest of Blizzard's commitment to adding friction back into the MMO. It turns out, Blizzard agrees, and will be cranking the weather effects up to 10 in "certain" WoW: Forever beta zones, according to a teaser vide
+
+### Halo needed to change, but Activision faces a huge challenge to fix it
+Wed, 23 Sep 2026 21:50:00 +0000 — https://www.pcgamer.com/games/halo/halo-needed-to-change-but-activision-faces-a-huge-challenge-to-fix-it/
+
+Microsoft has given up on Halo Studios, the team it formed and recently renamed for the express purpose of making new Halo games. Another victim of the Xbox Reset , the studio has been slashed down to its bones as part of another (but not final) wave of layoffs , and what's left of Halo Studios will now oversee the franchise in nebulous-sounding ways. Indeed: Halo Studios is no longer making Halo . Now Activision is in charge, and as both a Halo and Call of Duty fan, the pairing isn't exciting. Though I've been a vocal critic of Halo Studios' take on Halo over the years ("Halo Studios has no discernably new take on Bungie's landmark FPS" -Me, 2026), Halo Infinite eventually grew into a strong multiplayer FPS that I sunk hundreds of hours into, and Halo: Campaign Evolved was the team's best effort yet to embrace the series' quirky traditions while keeping an eye toward evolution. Ripping that work away from them a few months after shipping a Halo remake is a drastic move. Let's take a moment to account for Halo Studios' history. What Halo Studios got right, in my eyes Core Halo multiplayer was in tact: 4v4 arena modes and Big Team Battle Art: By Infinite, the studio had found a striking art direction for Halo, and Spartans looked amazing. Gunplay: Especially in Infinite, Halo Studios raised the bar for the series Maps: Halo maps remained strange, asymmetrical battlegrounds suited for floaty physics Forge: Halo's level creator was so powerful enough by Infinite that the communi
+
+### My first MMO character #2: Joshua Wolens
+Wed, 23 Sep 2026 21:00:00 +0000 — https://www.pcgamer.com/games/my-first-mmo-character-2-joshua-wolens/
+
+My first MMO character was... Karokan, Half-elf Something Born: 1999 Game: EverQuest Karokan's is a simple tale. When I was six years old, I saw my dad having a good time in a then-new release called EverQuest. Obviously, I wanted in on that, and badgered pops into helping me make a character. My dad played a gnome magician, but I was revulsed by the idea of being as short in the game as I then was in real life. Also, magicianry sounded complicated. I settled on a half-elf whose class I no longer remember, and came up with a basically random series of syllables to serve as a name. And then! I went nowhere. I was terrified . I wasn't so much scared of dying (though I was a bit scared of dying) but of getting lost. EverQuest felt impossibly vast, and I knew for sure that the second I stepped out of Freeport I'd never be able to find my way back. So I spent Karokan's life just outside the city gates, fighting orcs and rats, and never venturing further. It was a simple life, but a happy one. (Read the full article here) ]]>
+
+### Steam game disables mods after facing its second Workshop malware outbreak this year
+Wed, 23 Sep 2026 20:53:49 +0000 — https://www.pcgamer.com/games/sim/steam-game-disables-mods-after-facing-its-second-workshop-malware-outbreak-this-year/
+
+What happened On September 22, Studio Minus—the developer of ragdoll torture sandbox People Playground— posted a Steam news update saying it had disabled the game's Steam Workshop support "due to yet another malicious mod," which the developer said was "especially bad" The developer has since released a new build of People Playground that prevents mods from running , saying on its Discord that Workshop and mod support will only return if "mods are fundamentally safe to run," which "might never happen" A redditor who inspected the malicious Workshop mod claims the mod hijacks the user's Steam account to republish itself on the Workshop along with the user's personal information , destroys files for People Playground and other installed Steam games, and sends slurs to the user's Steam friends Despite initially claiming that the infected mod "does not steal passwords" or other credentials, Studio Minus is urging People Playground users to change their Discord passwords as soon as possible , as well as "the passwords of all your important accounts" This is People Playground's second Workshop malware incident this year: Studio Minus previously disabled the game's Workshop after a similar outbreak of self-replicating malware in February At this point, you're playing People Playground at your own risk And Studio Minus seems to agree. In a blog post from last month , zooi—People Playground's primary developer—called the game a "technical hellscape," which makes it "technically imposs
+
+### World of Warcraft: Forever dev addresses the debate over who it's made for: 'I did not spend the last year of my life relearning and mastering how to do things like we did it 20+ years ago for retail players'
+Wed, 23 Sep 2026 20:42:58 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/
 
 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### The Arc Raiders Frozen Trail update is bigger than anyone expected: new ARC, gun upgrades, a map, and personal outposts you can decorate
-Wed, 23 Sep 2026 17:03:48 +0000 — https://www.pcgamer.com/games/third-person-shooter/the-arc-raiders-frozen-trail-update-is-bigger-than-anyone-expected-new-arc-gun-upgrades-a-map-and-personal-outposts-you-can-decorate/
+### I apologize in advance for this, but: Introducing Drillposting
+Wed, 23 Sep 2026 20:40:21 +0000 — https://www.pcgamer.com/games/i-apologize-in-advance-for-this-but-introducing-drillposting/
 
-Here's the big stuff Pendola Pass: A snowy mountain region north of the Rust Belt flanked on all sides by a gigantic Emperor corpse. Embark says Pendola is its "most ambitious map to date" and has a unique "Flash Freeze" condition that punishes those who stay outside too long. New ARC types: The Frigate is a "massive airborne carrier" that apparently can't be totally destroyed. Embark framed this as a "high-stakes challenge for experienced Raiders." The Bully is a cousin of the Leaper—a four-legged belligerent that uses "hit-and-run tactics" to whittle away at raiders. The Skulker is a small, ground-level pest that keeps its distance and "takes pot shots" at players. The Hydra is a stationary turret that can target three players simultaneously. Outposts: Personal spaces outside of Speranza that players can build up and expand with decor, furniture, trinkets, and upgrade benches. You can't walk around your outpost, at least for now. "That is something we're thinking about as we look to evolve this feature," added executive producer Aleksander Grøndal in a press Q&A. Weapon Amplification : Using the new research bench, guns can be upgraded to a new "amplifaction" tier that grants them unique abilities, like flammable ammo or rapid-fire. Fifteen guns will have amplifications at first. Guns: The Stiletto is a light ammo battle rifle designed as an "early game alternative to the Renegade," and the Bantum is a quickfire revolver meant to compete with the Anvil. Reworked skill tree:
+The study of philosophy is powerful because you can map its insights onto any aspect of life today, just as you could a hundred or a thousand years ago. French philosopher Descartes, for example, pioneered the theory of mind-body dualism, writing "I have a clear and distinct idea of myself, in so far as I am simply a thinking, non-extended thing... and on the other hand I have a distinct idea of body... accordingly, it is certain that I am really distinct from my body, and can exist without it." Descartes was born about 300 years too early to experience jetlag, but he was definitely onto something. After flying home from Japan, where I spent a few days shooting for the PC Gaming Show Tokyo Direct , I found my separated body and mind capable of little in the way of cogent thought. All I could think of yesterday was a single idea: Drillposting. It's thanks to the preeminent philosopher of the 21st century that we're all now familiar with wisdom like "theres actually zero difference between good & bad things," but I couldn't stop wondering which of Dril's teachings might map to the perspectives of videogame characters who have drills. It's possible this was a bad idea. I made it anyway. Enjoy? Deep Rock Galactic (Image credit: dril, Ghost Ship Games) Bioshock (Image credit: dril, Take Two) Dig Dug (Image credit: dril, Namco) P. P. Hammer and his Pneumatic Weapon (Image credit: dril, Traveling Bits) Pepper Grinder (Image credit: dril, Ahr Ech, MP2 Games) A Game About Digging A Ho
 
-### I put UFO sightings in Grand Theft Auto 5, though it didn't quite go to plan
-Wed, 23 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-put-ufo-sightings-in-grand-theft-auto-5-though-it-didnt-quite-go-to-plan/
+### Shoot the tires, please
+Wed, 23 Sep 2026 20:12:06 +0000 — https://www.pcgamer.com/games/fps/shoot-the-tires-please/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Every nation has its kooks—excepting of course the Swiss—but there's something utterly American to me about the UFO sighting. It's probably something to do with the sheer size of the place. A tired, potentially hopped-up trucker, trundling across the endless plains of… whatever state has endless plains in it, spying something mysterious and illuminated in the canopy above? That's America to me. Also America to me: the Grand Theft Auto videogame series, so it was only natural that I bring real UFO visits to Rockstar's fake LA. I installed UFO Sightings , "a simple script that spawns a UFO at random locations throughout the map." Its aim is to be eerie and mysterious, which is probably why it limits UFOs to appearing at night. I didn't know that at first, though, so I spent quite a lot of time flying around Mount Chiliad at high noon, trying and failing to find visitors from other worlds. I did find the now-ever-present swarms of hitmen trying to kill me, though, so I had fun. Once I realised my error, I nudged the game clock forward. Voila! All of a sudden, a distant part of the map glowed red. "UFO sighting reported" declared a pop-up. My reaction was swift—I immediately took flight (I have Superman powers ; don't worry about
-
-### The producer behind Cregger's Resident Evil film is working on an unnamed Silent Hill project and players are asking for just one thing
-Wed, 23 Sep 2026 16:51:00 +0000 — https://www.pcgamer.com/games/horror/the-producer-behind-creggers-resident-evil-film-is-working-on-an-unnamed-silent-hill-project-and-players-are-asking-for-just-one-thing/
-
-Like it or not, Zach Cregger's Resident Evil film has been a critical hit. It reached universal acclaim on metacritic and was a smash hit among the PC Gamer team . I wasn't as fond of it as I hoped to be, but even still I loved the ride and appreciated its faithful adaptation of the videogames. After all this time, I never thought a Resident Evil adaptation could be as good as this. Now, its success is mostly thanks to Zach Cregger's genuine admiration and great knowledge of the games, but some accolades also needs to go to Roy Lee, the film's producer and the person who secured the rights to Resident Evil after Cregger expressed interest in it. (Image credit: Sony Pictures Entertainment) Lee has also worked on other videogame adaptations such as A Minecraft Movie and (as reported by the Wall Street Journal ) he currently has 20 movies and TV shows in development and production, which are based on games like Battlefield, God of War, and—my god: Silent Hill. I am even less sure of someone being able to pull off a genuinely good Silent Hill adaptation than I was about Resident Evil, so I am morbidly intrigued to know more about this venture. But sadly that's all we know so far, there's no word on whether this will be a film or a TV series, so we'll just have to sit and wait for the fateful day when more is revealed. But that won't stop fans from speculating or, more realistically, fearing what we now know to be the inevitable. The top comment on a Reddit thread discussing this 
-
-### The scariest part of Silent Hill: Townfall? It's not the monsters—it's British interior design
-Wed, 23 Sep 2026 16:27:24 +0000 — https://www.pcgamer.com/games/horror/the-scariest-part-of-silent-hill-townfall-its-not-the-monsters-its-british-interior-design/
-
-Silent Hill: Townfall has a different kind of resonance if you grew up in the UK. Its Scottish island of St Amelia is already my favourite video game environment of the year for how it evokes the atmosphere and time of a place—specifically 1996—and captures the specific details of small town life. From the video rental shop to the bunting sadly hanging from the buildings, it's the kind of run-down fishing town you never normally see in a video game. That's probably because it's not as glamorous as somewhere like Kamurocho in Tokyo (St Amelia regrettably lacks a Sega World) or New York, and not as dreamy as the Stephen King-inflected small town settings of games like Alan Wake or Silent Hill 2. Using the Silent Hill franchise as this trojan horse to smuggle in a location that's clearly of interest to the Glasgow-based development team at Screen Burn was a marvellous idea: given the state of the games industry, it's unlikely that anyone will ever again be given the budget or time to craft an authentic British newsagent or storefront for a fish and chip shop. Still, as eerily authentic as St Amelia's exterior details are, like the telephone boxes and road signs, it's the interiors that I find uniquely settling. Here's why: my grandparents basically lived in the houses in this game. Konami/Screen Burn Konami/Screen Burn Konami/Screen Burn The kitchen tiling, the heaters, the wallpaper, the appliances—it's so forensically accurate to a certain type of house. The kind of places tha
-
-### Razer Chroma Soma lighting
-Wed, 23 Sep 2026 16:26:29 +0000 — https://www.pcgamer.com/hardware/gaming-chairs/razer-chroma-soma-lighting/
-
-A chair you have to plug into a power source. For why? For the love of RGB of course. Razer's Soma Chroma gaming chair lights up, but does it light you up? Check out the review and let us know what you think. ]]>
-
-### Razer Soma Chroma gaming chair review
-Wed, 23 Sep 2026 16:17:27 +0000 — https://www.pcgamer.com/hardware/gaming-chairs/razer-soma-chroma-review/
-
-Picture the scene. It’s Christmas morning, the sky is still dark, and Santa is heaving his gigantic ass through your central heating ducts. He emerges into the living room; perhaps he oozes like toothpaste, or pops out fully formed like a jelly from a mould. We’ll never know. He looks around, picks a bit of fluff out of his ear, and sees what he’s looking for: there, in the corner of the room it sits, lit up like... well, a Christmas tree. Only it’s not a spruce or fir, but a chair. Razer has reinvented the Christmas tree as something you can sit on, and its name is the Soma Chroma. Yes, literature fans, it’s got the same name as the drug used by the totalitarian state in Aldus Huxley’s Brave New World that keeps citizens perpetually happy, docile, and compliant. Perhaps it is therefore a metaphor for videogames, which famously leave their participants meek and submissive. Or maybe not. The RGB strips are only at the very top, at the sides of your head if you’re tall enough, but something about their shape distinctly recalls the angles of a Nordmann (or one of those car air fresheners that dangle from the rear-view mirror), as do the harder edges you’ll find elsewhere in contrast to the softer curves of something like the Iskur V2 . Otherwise it’s a standard racing-style seat with the usual Razer black and green styling, and this even extends to the thin gloves (Razer calls them ‘building gauntlets, which is so cute ) provided to protect your soft hands during the only bit of
-
-### I thought from Logitech's new Pro products I'd be most excited about the Superstrike, but after using them it's actually the keyboard and mouse pad that have me grinning
-Wed, 23 Sep 2026 16:03:00 +0000 — https://www.pcgamer.com/hardware/i-thought-from-logitechs-new-pro-products-id-be-most-excited-about-the-superstrike-but-after-using-them-its-actually-the-keyboard-and-mouse-pad-that-have-me-grinning/
-
-Pro X3 Superstrike Analogue switches 135-hour battery life Refined balance $200 Pro X2 Rapid Hall effect Creamy sound Big wrist rest $230 Pro X Control Thick 460 x 400 mm Slow for control $59 Pro X 3 Lightspeed Great mic 70-hour battery life 50 mm graphene drivers $250 Logitech has just announced a whole range of gear, including the Logitech G Pro X3 Superstrike—essentially a buffed version of the X2 that launched just a few months ago . I've already expressed my thoughts about this in full elsewhere , but the long and short of it is that the X2 Superstrike launch now stings a little because it's been quickly rendered all but obsolete. The flip side to this is that while the X3 Superstrike is great, it doesn't exactly fill me with excitement because I already got excited over the technology when it was actually new back in February. Which means that despite me thinking the X3 Superstrike is fantastic, I'm actually more excited about some of the other products Logitech is releasing: the keyboard and the mouse pad. For anyone who knows me, the fact that I'd be keen on a mouse pad will be no surprise: I'm PC Gamer's resident connoisseur of all things rodent surfaces . And Logitech's new one, the G Pro X Control, is even more specifically my kind of jam because, as the name suggests, it's a control pad. I compared different control pads recently, as the slow but consistent movement across them is very beneficial for tactical shooters like Counter-Strike 2, my main game. At the ti
-
-### Sorry early adopters, Logitech is releasing an improved Superstrike making the original all but obsolete just months after launch
-Wed, 23 Sep 2026 16:01:00 +0000 — https://www.pcgamer.com/hardware/gaming-mice/sorry-early-adopters-logitech-is-releasing-an-improved-superstrike-making-the-original-all-but-obsolete-just-months-after-launch/
-
-It's fair to say I was pretty taken by the G Pro X2 Superstrike when Logitech launched it earlier this year. It was the first mouse I'd seen in a long time that did something genuinely revolutionary. But, just seven months later, it is being rendered all but obsolete by the new G Pro X3 Superstrike. The revolutionary part of the original was that it made its switches analogue and paired this with haptic feedback to replicate the feeling of a click. This allows for adjustable actuation, meaning you can set it low for less time between deciding to click and actually clicking, and the haptics make sure you feel the click exactly when you should, whenever it's set to actuate. That being said, it's far from a perfect mouse. I was thoroughly enamoured by it during my testing, and I still think it deserves a heck of a lot of credit for that revolutionary tech alone. But over time its flaws have come to feel more pronounced to me. It's pretty much the same as the Superlight 2 in other respects, from the shape to the weight, side buttons, and scroll wheel. The side buttons are pretty mushy, the scroll wheel has problems with long-presses, and most importantly—and specifically in the case of the original Superstrike, not the Superlight 2—it's quite top-heavy thanks to those new internals. The worst problem for a lot of people was that front-heavy weighting, as that can cause drag and, well, just not feel very smooth when picking up and moving the mouse. Given it's such an expensive mou
-
-### My first MMO character #1: Harvey Randall
-Wed, 23 Sep 2026 16:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/my-first-mmo-character-1-harvey-randall/
-
-My first character was... Leetman, Human Rogue Born: ~2004-2006 Game: World of Warcraft My first ever character was in World of Warcraft, after—as my bio states—I pretty much begged my parents to give me a WoW subscription, and was rewarded for my articulation with a proper WoW account and a life-changingly debilitating enthusiasm for videogames. And while I did technically have a Runescape character before this, I can't remember 'em, so Leetman is here. I was not a good rogue. In my defense, I was 10 years old—but I didn't level my poisons, I didn't reach level cap, and the height of my career was spent futzing around Un'Goro Crater. I did, however, manage to get the gold for a mount, which made me feel pretty swanky. That was a big deal back in the day. Leetman would eventually be traded out for the troll shaman Earthborn when The Burning Crusade rolled around, but I shall remember him fondly. Perhaps his reticence to use poison was merely a question of honour—but he's deleted, now, so we shall never know. (Read the full article here) ]]>
-
-### Wistful about Myst VI
-Wed, 23 Sep 2026 15:42:56 +0000 — https://www.pcgamer.com/games/wistful-about-myst-vi/
-
-Wistful about Myst VI . Two months after Cyan posted the 3-minute glimpse of its cancelled Myst project, it still stings to think that I won't see a full performance from Noshir Dalal, the actor who performs the angry, Lex Luthor-style megalomaniac character seen in the trailer. Not nearly enough Andrew Ryans in gaming lately. Let alone ones who are relentlessly in pursuit of a book. Venture capital funding won't let us have anything nice. ]]>
+Humvees are a nasty threat in Wardogs. They're fast, have thick enough armor to withstand multiple RPGs, and usually come with a machinegun nest that can easily mow down a squad of infantry in a single reload. But they have a pretty huge weakness that, two weeks in, many players in my matches are unaware of: Shoot the tires. Like, with anything. Popping just one tire will cut the Humvees max speed by over half, and popping two will slow it to a crawl. This won't destroy the vehicle or even interrupt the gunner, but it will make it easier to get an unarmored angle on the gun nest and force the driver to make a tough choice: limp out of danger or go for a very risky repair. As YouTuber Min Max Lab helpfully tested , it takes just eight 5.56 bullets (the ammo used by Wardogs' free starter rifle) to pop a tire , so even a single soldier can deal enough damage to ruin a driver's day. I haven't managed to ruin two tires by myself, but popping one is often enough to convince the Humvee to disengage for repairs. Be sure to watch that whole video below for more useful data, like which guns are best for tire destruction (shotguns are quite good), which direction you should shoot from to increase damage (the front) and just how bulletproof a Humvee's windows are (it depends on the window). ]]>
 
 ## GameSpot
+
+### Discord Begins Rolling Out Age Verification And A Sponsorship With FanDuel
+Wed, 23 Sep 2026 21:12:45 +0000 — https://www.gamespot.com/articles/discord-begins-rolling-out-age-verification-and-a-sponsorship-with-fanduel/
+
+Discord has officially begun rolling out age-verification measures as of today. The company first announced age verification--and, subsequently, limits placed on accounts of those under 18-- back in February of this year, but delayed a full implementation until just recently. According to the official announcement blog post , this delay was done in order to include more age-assurance options, including several that do not rely on controversial biometric or digital ID systems, which have raised privacy concerns-- especially after a well-publicized hack exposed tens of thousands of Discord users' personal IDs . Instead, they are using an algorithmic combination of factors to determine user age, including how long your account has existed, the servers you're in, the games you play, and other factors, detailed in a technical blog published alongside the announcement . (However, this model is not available in all territories, such as the UK and Austrialia--both of which have enacted strict social media bans and age verification laws.) While Discord assures users that "More than 90% of you won’t be asked to confirm your age," the company also acknowledge that their model isn't flawless, and some accounts will need to verify their age to use a non-age-restricted Discord account. If users want to avoid uploading ID or video, they can use services like Apple Pay, Google Play, Google Wallet, or AgeKey, or enter a credit card number. With any attempt at age verification comes controvers
 
 ### Rainbow Six Siege Dev On Competing With GTA 6 And Why There Are No Plans For Siege 2
 Wed, 23 Sep 2026 18:57:43 +0000 — https://www.gamespot.com/articles/rainbow-six-siege-dev-on-competing-with-gta-6-and-why-there-are-no-plans-for-siege-2/
@@ -467,12 +470,12 @@ Wed, 23 Sep 2026 14:37:51 +0000 — https://www.gamespot.com/articles/nintendo-t
 
 Nintendo is officially 137 years old today, and while that's an odd number to celebrate, it's certainly an impressive one. While it's a leading producer of video games and gaming hardware, the company originally started life as a maker of hanafuda playing cards in 1889, evolving with the times to eventually become a gaming powerhouse. But to put its age into perspective, it's worth looking at things that Nintendo predates. That makes for a long list, but the biggest surprise, as pointed out online , is that Nintendo is literally older than sliced bread . Technically, this would make sliced bread the best thing since Nintendo, and for double-technicality points, we're referring to commercial pre-sliced bread . According to the history books, pre-sliced bread made its commercial debut 38 years later, on July 7, 1928, when the Missouri-based Chillicothe Baking Company began using Otto Frederick Rohwedder's bread-slicing machine to deliver tasty portions of the household staple to customers. https://www.youtube.com/watch?v=dhw8BfVO_EY Historically, Nintendo also beat the public opening of the Eiffel Tower (June 1893) and the Wright Brothers' first flight (1903), and it outlasted the Ottoman Empire. It also has a big lead on the invention of penicillin (1928), chocolate chip cookies (1938), bubble wrap (1957), and the greatest movie of all time, Guillermo del Toro's Pacific Rim (2013). If there's anything that equals the historical significance of Nintendo, that would be Vincent V
 
-### Activision s Halo Game: Everything We Know So Far
-Wed, 23 Sep 2026 14:04:39 +0000 — https://www.gamespot.com/articles/activisions-halo-game-everything-we-know-so-far/
-
-Microsoft is overhauling its Xbox business in a big--and painful--way . Part of the effort to "reset" Xbox involves enlisting Call of Duty publisher Activision to make the next Halo game . This isn't a spin-off or some kind of other extension of the iconic sci-fi series, but instead the next entry in the main series following 2021's disappointing Halo Infinite. Here's what we know about Activision's Halo game, and what comes next for Halo Studios. What's the new game? The biggest question is what is the new Halo game from Activision? The announcement from Xbox chief content officer Matt Booty didn't reveal any specifics, but a story from The Hollywood Reporter said it is a "full-feature, mainline installment" in the long-running series. Activision boss Rob Kostich said in a statement to Game File that Activision is trying to make the "greatest Halo game ever." He said the ambition is to make a game that is "worthy of its universe and legacy, while staying true to what made players love it in the first place." "It is a bold ambition, one that this franchise deserves. We have already begun assembling a purpose-built team, unique in capability and talent, ready and excited to deliver this next chapter with the community," he added. Who is developing the new Halo game? Booty said Microsoft is putting together a "new, purpose-built team" to make the new Halo game at Activision. He also clarified that efforts to make the new Halo game at Activision are "separate from ongoing develo
-
 ## Rock Paper Shotgun
+
+### Following id layoffs, Quake Champions drops free-to-play nonsense and becomes a £9 game on Steam
+Thu, 24 Sep 2026 09:19:58 +0000 — https://www.rockpapershotgun.com/following-id-layoffs-quake-champions-drops-free-to-play-nonsense-and-becomes-a-9-game-on-steam
+
+After nearly a decade as a free-to-play game, Quake Champions is dropping all that nonsense in favour of being a nice and simple premium release on Steam . That means no more battle passes, no more loot boxes, no more premium currencies. They've even got rid of the store. If you've played the game through any free events on Steam in the past, then you will be upgraded to a full version of the game automatically. And if you've bought any premium currencies in the past two months will be refunded. However, while this is a welcome change, it should be seen in the context of Xbox's mission to fire 3200 developers . Read more
 
 ### The Steam Machine handles Control Resonant capably, but the promised Steam Deck support is a letdown
 Wed, 23 Sep 2026 15:45:39 +0000 — https://www.rockpapershotgun.com/the-steam-machine-handles-control-resonant-capably-but-the-promised-steam-deck-support-is-a-letdown
@@ -528,9 +531,4 @@ I like Sonic. He charms me! But that doesn't mean I'm a fool. I know there are v
 Tue, 22 Sep 2026 17:03:16 +0000 — https://www.rockpapershotgun.com/prebuilt-steam-machine-faceplate-screens-are-here-delivering-decent-surprisingly-cheaper-alternatives-to-valve-approved-diy-builds
 
 If you own a Steam Machine , and still cling to the misconception that my budget faceplate ideas aren&rsquo;t good enough for you, you basically have three options for front panel customisation. The first is to grab something off Etsy or suchlike. The second is take advantage of Valve&rsquo;s open-source Inkterface project to build yourself an E-Ink display, onto which you can electronically daub performance monitoring info. The third is to end up with more or less the same panel as option two, but have someone else make it for you. That&rsquo;s what arch accessory makers JSAUX are proposing with their Steam Machine E-Ink and Pixel Matrix faceplates , which go on sale today after a few weeks of preening around the case mod scene. I&rsquo;ve been using both on my Machine at home, and they&rsquo;re quite good fun. The E-Ink faceplate, for which I sense the greater internet buzz, is a crisp, tidy little black-and-white panel, while the PixelMatrix trades detail density for colour and retro charm. Both have a few different display modes, switchable in SteamOS&rsquo;s quick settings menu (via some clever integration with the Decky Loader plugin tool), and while I had to set this up manually, JSAUX say the requisite software will be downloadable via Steam itself from early October. Truly, it&rsquo;s all the results of a DIY mod and more, conveniently pre-prepared for people who don&rsquo;t own soldering irons. Read more
-
-### Following a strong start, Rebel Wolves line up The Blood of Dawnwalker's first big patch for next month, adding in a new, easier difficulty mode and more
-Tue, 22 Sep 2026 16:32:13 +0000 — https://www.rockpapershotgun.com/following-a-strong-start-rebel-wolves-line-up-the-blood-of-dawnwalkers-first-big-patch-for-next-month-adding-in-a-new-easier-difficulty-mode-and-more
-
-After a rip-roaring start for The Blood of Dawnwalker (one that has seen a bit of pushback against its timer mechanic , and an apparent confirmation of a sequel being in the works ), developer Rebel Wolves are gearing up for the game's first big update, one that'll introduce a new difficult mode and a suite of improvement, most likely arriving early October. Read more
 
