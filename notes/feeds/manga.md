@@ -1,6 +1,36 @@
-# Manga — harvested 2026-09-24T15:29:55.221Z
+# Manga — harvested 2026-09-24T20:08:08.968Z
 
 ## Anime News Network
+
+### Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again
+Thu, 24 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/disney-hulu-raise-monthly-pricing-on-streaming-plans-in-u.s-again/.242153
+
+Standalone subscription prices rise to US$12.49 with ads, US$21.49 without ads following last year's increase
+
+### Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program
+Thu, 24 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152
+
+English-subbed trailer streamed for anime inspired by <cite>Alice in Wonderland</cite>
+
+### Global Stage Hollywood Screens World Premiere of Psyren TV Anime's 2nd Episode on October 3 With Original Creator Toshiaki Iwashiro
+Thu, 24 Sep 2026 13:45:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/global-stage-hollywood-screens-world-premiere-of-psyren-tv-anime-2nd-episode-on-october-3-with-/.242150
+
+1st 2 episodes to screen at Global Stage Hollywood Film Fest with Iwashiro in attendance
+
+### Marvelous Announces Story of Seasons: Your Wonderful Life Virtual Reality Farming Game
+Thu, 24 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/marvelous-announces-story-of-seasons-your-wonderful-life-virtual-reality-farming-game/.242148
+
+Farming sim launches for Meta VR Glasses, Meta Quest 3, and Meta Quest 3s in spring 2027
+
+### Billy Bat Volume 2 Manga Review
+Thu, 24 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/billy-bat/volume-2/.241574
+
+What does the bat want? Why does he want it?
+
+### Sekiro: No Defeat Anime Airs in January as 8-Episode TV Series (Updated)
+Thu, 24 Sep 2026 11:28:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/sekiro-no-defeat-anime-airs-in-january-as-8-episode-tv-series/.242149
+
+Crunchyroll to stream series version of film that opened in Japan on September 4
 
 ### Norimitsu Kaihō, Kurageso's Akarui Mirai Manga Ends in Next Chapter
 Thu, 24 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/norimitsu-kaiho-kurageso-akarui-mirai-manga-ends-in-next-chapter/.242118
@@ -32,41 +62,16 @@ Thu, 24 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Series follows powerful sword master who is reincarnated 100 years after his death as boy named Ricardt
 
-### Snowball Earth Manga Heads to Final Arc, Exceeds 1 Million Copies in Circulation
-Thu, 24 Sep 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/snowball-earth-manga-heads-to-final-arc-exceeds-1-million-copies-in-circulation/.242134
-
-Manga launched in 2021, anime adaptation debuted on April 3
-
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episodes 17-18
-Thu, 24 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episodes-17-18/.242126
-
-Memories may have been tampered with, but their biological and spiritual connection remains.
-
-### 'Now That We Draw' Anime's 1st Full Promo Video Unveils More Staff, January 2027 Debut
-Thu, 24 Sep 2026 08:28:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/now-that-we-draw-anime-1st-full-promo-video-unveils-more-staff-january-2027-debut/.242143
-
-Yoshiaki Miura scores music for romantic comedy starring Ayumu Murase, Sayumi Suzushiro
-
-### Bless Anime Reveals 2 More Cast Members
-Thu, 24 Sep 2026 08:14:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/bless-anime-reveals-2-more-cast-members/.242141
-
-Yoshino Aoyama, Momoka Terasawa join cast of January 2027 anime
-
-### The Iceblade Sorcerer Shall Rule the World 2nd Season Anime Casts Shiki Aoki, Kazuyuki Okitsu
-Thu, 24 Sep 2026 07:48:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/the-iceblade-sorcerer-shall-rule-the-world-2nd-season-anime-casts-shiki-aoki-kazuyuki-okitsu/.242139
-
-Aoki, Okitsu join cast of anime debuting on October 8
-
-### Isshiki-san Wants to Know About Love TV Anime Reveals New Visual, 4 More Cast Members
-Thu, 24 Sep 2026 07:40:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/isshiki-san-wants-to-know-about-love-tv-anime-reveals-new-visual-4-more-cast-members/.242138
-
-Haruki Ishiya, Takuma Nagatsuka, more join cast for anime debuting in January 2027
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Most Anticipated Anime Rankings
+Thu, 24 Sep 2026 15:30:00 GMT — https://animecorner.me/fall-2026-most-anticipated-anime-rankings/
+
+Cyberpunk: Edgerunners 2 tops the Fall 2026 Most Anticipated Anime ranking, followed by The Apothecary Diaries Season 3 and Blue Box Season 2.
 
 ### SEKIRO: NO DEFEAT Full TV Anime to Run for 8 Episodes Starting in January 2027, New Visual Revealed
 Thu, 24 Sep 2026 15:12:13 GMT — https://animecorner.me/sekiro-no-defeat-full-tv-anime-to-run-for-8-episodes-starting-in-january-2027-new-visual-revealed/
@@ -123,11 +128,6 @@ Wed, 23 Sep 2026 15:16:02 GMT — https://animecorner.me/from-old-country-bumpki
 
 From Old Country Bumpkin to Master Swordsman Season 3 anime was officially announced immediately after the second season.
 
-### STEEL BALL RUN JoJo's Bizarre Adventure Opening Video Released, Theme Song by Kroi
-Wed, 23 Sep 2026 14:59:07 GMT — https://animecorner.me/steel-ball-run-jojos-bizarre-adventure-opening-video-released-theme-song-by-kroi/
-
-STEEL BALL RUN JoJo's Bizarre Adventure revealed the opening video and song ahead of the 2ND and 3RD STAGE premiere on September 25.
-
 ## MyAnimeList News
 
 ### Kakunaru Ue wa Reveals Additional Staff, First Promo for Winter 2027
@@ -148,12 +148,12 @@ The official website for the television anime adaptation of Ayune Araragi s Issh
 ### Shin Oishinbo Reveals Main Cast, Staff
 Thu, 24 Sep 2026 03:43:09 -0700 — https://myanimelist.net/news/74754201?_location=rss
 
-The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Black Clover) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composition: Taka...
+The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Fujimoto Tatsuki 17-26) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composi...
 
 ### Aoki Denshou Welsh & Shedar Reveals Additional Cast, Theme Songs, Main Promo
 Thu, 24 Sep 2026 02:58:12 -0700 — https://myanimelist.net/news/74754150?_location=rss
 
-The official website for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast, theme songs and the main promotional video on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Japanese musical artist Hironobu Kageyama (Dragon Ball Z) and J-pop singer Masami Okui (Haite Kudas...
+The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...
 
 ### Phantom Busters TV Anime Announced For 2027
 Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss

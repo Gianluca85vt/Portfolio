@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-24T15:29:55.221Z
+# Film & TV — harvested 2026-09-24T20:08:08.968Z
 
 ## Variety
 
-### Ex-Disney CEO Bob Chapek Says Bob Iger Ran Relentless Three-Year Campaign to Fire Him: Made It Seem as If I Had Committed Some Terrible Offense
-Thu, 24 Sep 2026 15:16:31 +0000 — https://variety.com/2026/tv/news/why-disney-ceo-bob-chapek-was-fired-memoir-bob-iger-1236874349/
+### Tamera Mowry-Housley Joins Scrubs Reboot Season 2
+Thu, 24 Sep 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/tamera-mowry-housley-scrubs-season-2-1236874933/
 
-Former Disney CEO Bob Chapek claims his predecessor-turned-successor Bob Iger underwent a relentless three-year campaign to push me out after initially appointing him to the job. The way Disney’s board and Bob Iger handled my firing made it seem as if I had committed some terrible offense, Chapek writes in an excerpt from his upcoming [ ]
+Tamera Mowry-Housley is checking into Season 2 of the Scrubs reboot. The Sister, Sister and Twitches star has boarded the ABC sitcom as a guest star. She will play Dr. Steffie, a pediatric doctor who tries to persuade Tosh (Ava Bunn) to choose peds as her specialty. Season 2 premieres with two episodes on Wednesday, [ ]
 
-### ‘Day Drinker’ Trailer: Johnny Depp s Hollywood Comeback Continues in a Twisty Thriller With Penélope Cruz and Madelyn Cline
-Thu, 24 Sep 2026 15:16:15 +0000 — https://variety.com/2026/film/news/day-drinker-trailer-johnny-depp-madelyn-cline-penelope-cruz-1236873855/
+### Serbia s Screen Industries in Crisis Amid Claims That Blacklists, State-Sponsored Censorship Are Designed to Starve Independent Production
+Thu, 24 Sep 2026 19:48:56 +0000 — https://variety.com/2026/film/global/serbia-screen-industries-crisis-blacklists-censorship-1236851352/
 
-Lionsgate has released a trailer for “Day Drinker,” the Marc Webb-directed thriller starring Johnny Depp, Madelyn Cline and Penélope Cruz. The film will hit theaters on March 26, 2027. “Day Drinker” follows a private-yacht bartender (Cline) as she encounters a mysterious guest (Depp in extra-weird mode). The official logline adds: “They soon find themselves entangled [ ]
+The Serbian film and television industries are in a state of crisis, with independent production in the Balkan powerhouse crippled by what leading industry groups describe as “a coordinated campaign of state-sponsored censorship.” Nearly two years after a devastating train station disaster that killed 16 people and sparked mass demonstrations against the government of President [ ]
 
-### Girl With the Dragon Tattoo Series at Sky to Star David Oyelowo and Viola Prettejohn
-Thu, 24 Sep 2026 15:01:54 +0000 — https://variety.com/2026/tv/global/girl-with-the-dragon-tattoo-series-david-oyelowo-viola-prettejohn-1236874343/
+### Tom Hiddleston Recalls Trekking to Everest for ‘Tenzing’ and Kevin Feige Telling Him ‘Thor’ Wasn’t ‘Going to Be the Only Film’ He Would Play Loki In
+Thu, 24 Sep 2026 19:41:34 +0000 — https://variety.com/2026/film/global/tom-hiddleston-everest-tenzing-kevin-feige-thor-zurich-1236874190/
 
-Sky s The Girl With the Dragon Tattoo series has found its leads in David Oyelowo and Viola Prettejohn. Oyelowo ( Silo, Selma ) will play disgraced journalist Mikael Blomkvist alongside Prettejohn ( The Crown, The Testament of Ann Lee ) as hacker Lisbeth Salander in a TV reimagining of Steig Larsson s hit Millennium book series. The characters were portrayed [ ]
+British actor Tom Hiddleston has a privileged view and understanding of the Marvel Cinematic Universe phenomenon, having starred as Loki in “Thor,” only the second film of a now ever-expanding franchise. Speaking at the Zurich Film Festival, where he is presenting the opening film “Tenzing” and receiving a Golden Eye Award, the actor recalled those [ ]
 
-### Macklemore Announces Free Palestine Tour With All Ticket Sales Being Donated to Charity
-Thu, 24 Sep 2026 14:55:45 +0000 — https://variety.com/2026/music/news/macklemore-free-palestine-tour-1236874352/
+### Shrinking Season 4 Casts Judith Light (EXCLUSIVE)
+Thu, 24 Sep 2026 19:30:00 +0000 — https://variety.com/2026/tv/news/shrinking-season-4-cast-judith-light-1236874733/
 
-Macklemore has announced the Free Palestine tour, with three shows set for Dublin (Oct. 26), Paris (Oct. 29) and London (Oct. 30). The news comes after the Grammy-winning rapper was infamously dropped as opener from Ed Sheeran s U.S. tour after making Free Palestine speeches while on stage at two concerts at MetLife Stadium in New [ ]
+Judith Light has joined Shrinking Season 4 in a recurring role, Variety has learned exclusively. Light will appear in the fourth season of the Apple TV series alongside returning stars Jason Segel, Harrison Ford, Christa Miller, Jessica Williams, Luke Tennie, Michael Urie, Lukita Maxwell, and Ted McGinley. Previously announced Season 4 additions include Christian Slater [ ]
 
-### RedBird Capital Signs Deal to Acquire Majority Stake in Puck, Valuing News Outfit at $250 Million
-Thu, 24 Sep 2026 14:46:37 +0000 — https://variety.com/2026/biz/news/redbird-acquires-puck-250-million-valuation-1236874335/
+### Canada s Oscar Entry, Berlin Prizewinner Nina Roza Acquired in U.S. by Dekanalog (EXCLUSIVE)
+Thu, 24 Sep 2026 19:22:43 +0000 — https://variety.com/2026/film/awards/nina-roza-dekanalog-oscars-1236874872/
 
-Puck, the five-year-old media upstart, has a new owner: RedBird Capital Partners, the investment firm that is a backer of other media companies including Paramount Skydance and its merger bid for Warner Bros. Discovery. RedBird is led by managing partner Gerry Cardinale (pictured above), who sits on the board of Paramount as a director. RedBird [ ]
+New York-based indie distributor Dekanalog has acquired the U.S. rights to “Nina Roza,” Canada s Academy Awards submission. Geneviève Dulude-De Celles’ film won the Silver Bear for best screenplay at the Berlin Film Festival this year. It was screened as a work-in-progress in the First Look program at the 78th Locarno Film Festival in 2025, winning [ ]
 
-### Ancestors Review: An Exquisite Éanna Hardwicke Carries a Queer Elegy for a Lost Generation
-Thu, 24 Sep 2026 14:33:00 +0000 — https://variety.com/2026/film/reviews/ancestors-review-1236873402/
+### Hannah Einbinder and Susan Sarandon Detained by Police While Protesting Benjamin Netanyahu s Speech at the U.N.
+Thu, 24 Sep 2026 19:09:20 +0000 — https://variety.com/2026/film/news/hannah-einbinder-susan-sarandon-detained-police-netanyahu-1236874830/
 
-It s at the tail of its closing credit scroll that Ancestors drops its final, plainly worded message, also setting its title in context: No survivors, only descendants. As the sign-off for this heartbroken drama of connections made and lost as AIDS ravaged London s queer community in the late 1980s, it s a lyrical rejoinder to anyone [ ]
+Hannah Einbinder and Susan Sarandon were among those detained on Sept. 24 in New York City for protesting Israeli Prime Minister Benjamin Netanyahu, who was set to speak at the U.N. General Assembly. Pictures of the actors being led away from protests in cuffs went viral on social media before Netanyahu began speaking, such as [ ]
 
-### Meta Unveils VR Glasses for $1,299, Promises 3D Films From Lionsgate, James Cameron and Enhanced Versions of ‘Avengers’ and ‘Star Wars’
-Thu, 24 Sep 2026 14:26:03 +0000 — https://variety.com/2026/biz/news/meta-unveils-vr-glasses-for-1299-3d-films-1236874307/
+### Oscars Predictions 2027: Post-TIFF Temperature Check as La Bola Negra Surges and Digger Stumbles
+Thu, 24 Sep 2026 19:00:00 +0000 — https://variety.com/lists/2027-oscars-predictions/
 
-Meta’s given its glasses a virtual-reality upgrade. Meta unveiled its new $1,299 VR glasses at its annual Meta Connect event on Wednesday, an upgraded version of its Quest headset line. The product, the company promises, will usher in “a new era for virtual reality” by providing “a cinema, courtside seat, workspace, and console” for users at home. “We [ ]
+Variety Awards Circuit section is the home for all awards news and related content throughout the year, featuring the following: the official predictions for the upcoming Oscars, Emmys, Grammys and Tony Awards ceremonies, curated by Variety chief awards editor Clayton Davis. The prediction pages reflect the current standings in the race and do not reflect personal preferences for any individual [ ]
 
-### The Mick Jagger of Auctions Celebrated in Simon Wallon s ‘The Hammer’: ‘He’s in the Shadows but Also in the Spotlight’ (EXCLUSIVE)
-Thu, 24 Sep 2026 14:08:27 +0000 — https://variety.com/2026/film/global/the-hammer-simon-wallon-auctioneer-simon-de-pury-jagger-1236873592/
+### Judge Questions Legal Points of Paramount s Settlement With States at Hearing, Says a Ruling Will Come in Due Course
+Thu, 24 Sep 2026 18:57:45 +0000 — https://variety.com/2026/film/news/judge-paramount-state-ags-settlement-hearing-1236874529/
 
-Everyone knows Jeff Koons or Marina Abramović, but the art world has been hiding another celebrity: star auctioneer and former Sotheby’s chairman Simon de Pury. “He’s in the shadows but also in the spotlight. It’s precisely this contrast that fascinates me and makes him a good character for a film: someone who’s reserved and almost [ ]
+The judge overseeing the antitrust case filed by 12 state attorneys general seeking to block the Paramount-Warner Bros. Discovery merger questioned the parties about their settlement at a hearing Thursday. U.S. District Judge Araceli Martínez-Olguín has not yet ruled on whether to approve the proposed settlement, and set the virtual hearing to cover outstanding questions [ ]
 
-### Tribeca Festival Opens Submissions for Untold Stories Filmmaker Program With $1.2 Million Prize (EXCLUSIVE)
-Thu, 24 Sep 2026 14:00:00 +0000 — https://variety.com/2026/film/news/tribeca-festival-untold-stories-submissions-open-2026-1236873975/
+### Los Angeles Dodgers Mookie Betts signs with 3 Arts Sports and Sanders Sports Entertainment
+Thu, 24 Sep 2026 18:42:23 +0000 — https://variety.com/2026/sports/news/los-angeles-dodgers-mookie-betts-signs-1236874721/
 
-Tribeca Festival and AT T have opened submissions for the 10th anniversary of AT T Untold Stories, the filmmaker development program that awards one emerging director $1.2 million to produce a feature film. The production prize, which increased from $1 million to $1.2 million in 2026, is billed by Tribeca and AT T as the largest unrestricted film [ ]
+Los Angeles Dodgers player Mookie Betts has signed with 3 Arts Sports and Sanders Sports Entertainment (SSE) for personal representation. “I’ve always believed in surrounding myself with people who understand my vision and bring expertise in areas where I can continue to grow,” Betts said. “As the opportunities around me have continued to evolve, [ ]
 
-### MS NOW Offers Membership Subscribers Chance for Tickets to Power to the People Festival
-Thu, 24 Sep 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/ms-now-membership-subscribers-power-to-the-people-festival-1236874274/
+### Sam Worthington and Sofia Carson to Star in The Parsifal Mosaic TV Show in the Works at Hulu, Legendary (EXCLUSIVE)
+Thu, 24 Sep 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/the-parsifal-mosaic-tv-show-sam-worthington-hulu-1236874353/
 
-The new MS NOW streaming Membership comes with perks. The Versant-backed news outlet will give subscribers to its recently-launched subscription app a chance to win tickets to attend the first Power to the People Festival at Merriweather Post Pavilion in Columbia, Md., on Saturday, Oct. 3. People interested in taking part can enter by answering [ ]
+Sam Worthington and Sofia Carson are executive producing and attached to star in The Parsifal Mosaic, a drama series based on Robert Ludlum s 1982 spy novel in development at Hulu. The small screen adaptation hails from Legendary Entertainment and writer Wes Tooke, who served as showrunner on USA Network s Colony and worked on Amazon s Jean-Claude [ ]
 
 ## The Hollywood Reporter
 
-### Bob Iger Reveals That He Wrote a Six-Page Letter to Josh D Amaro and Left It In His Desk
-Thu, 24 Sep 2026 15:09:54 +0000 — https://www.hollywoodreporter.com/business/business-news/bob-iger-josh-damaro-letter-crisis-disney-1236709322/
+### Buffalo Bills Long-Suffering Fans to Be Focus of Documentary Just One Before I Die (Exclusive)
+Thu, 24 Sep 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/buffalo-bills-fans-nfl-documentary-just-one-before-i-die-1236708924/
 
-In an interview with Harvard Business Review, the former Disney chief also said that the challenges facing CEOs are tougher than ever: "We live in a state of almost perpetual crisis."
+Chad Michael Murray, Ryan Fitzpatrick and Jim Kelly are among those interviewed for the five-episode project that premieres on Tubi next month.
 
-### Johnny Depp s Comeback Rolls On in Day Drinker Trailer With Penélope Cruz
-Thu, 24 Sep 2026 15:07:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/johnny-depp-day-drinker-trailer-penelope-cruz-1236709300/
+### Tamera Mowry-Housley Boards Scrubs Season 2
+Thu, 24 Sep 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/scrubs-season-2-tamera-mowry-housley-1236709608/
 
-First look at Depp and Cruz reuniting in Marc Webb's revenge thriller: "Don't you sometimes want to misbehave?"
+She'll have a guest role as a doctor at Sacred Heart Hospital.
 
-### Taylor Tomlinson on Quitting Late Night and Staying Quiet — Until Now
-Thu, 24 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/taylor-tomlinson-quitting-late-night-staying-quiet-interview-1236707093/
+### Elizabeth Taylor s Legacy Endures as Estate Taps Brilliant Earth for Official Jewelry Collection
+Thu, 24 Sep 2026 19:48:51 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/elizabeth-taylor-jewelry-collection-brilliant-earth-release-1236709490/
 
-The 'After Midnight' host talks openly about her decision to leave the CBS show, write a book and tackle her “worst nightmare” head on.
+The exclusive fine jewelry launch captures her iconic approach to personal style.
 
-### Taylor Tomlinson on the Messy Demise of Her Late Night Career (Exclusive Excerpt)
-Thu, 24 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/taylor-tomlinson-quitting-after-midnight-book-excerpt-1236707229/
+### Susan Sarandon, Hannah Einbinder Detained at United Nations Netanyahu Protest
+Thu, 24 Sep 2026 19:37:27 +0000 — https://www.hollywoodreporter.com/news/general-news/susan-sarandon-hannah-einbinder-arrested-netanyahu-protest-1236709576/
 
-In her new collection of essays, 'Actually, Nevermind,' the top comic and former host of CBS' 'After Midnight' writes candidly about a deeply personal decision that left her "shaking with shame."
+Fellow actor Caleb Hearon was also among the nearly 100 demonstrators taken into custody ahead of the Israeli leader addressing the United Nations General Assembly in New York City.
 
-### RedBird Clinches Deal to Become Lead Investor in Puck
-Thu, 24 Sep 2026 14:35:33 +0000 — https://www.hollywoodreporter.com/business/business-news/redbird-closes-deal-become-lead-investor-puck-1236709304/
+### Felicia Pride on Capturing Innocence, Humanity in A Different World Sequel and Revering the Original: We re Not Replacing It
+Thu, 24 Sep 2026 19:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/a-different-world-sequel-challenges-felicia-pride-interview-1236704454/
 
-“It does not change our editorial independence,” Puck founder Jon Kelly told staff Thursday.
+The showrunner and creator opens up about the challenges making the new Netflix series, and says if audiences take issue with the show, then "when we say we care about Black people and we care about Black work, we're not the same."
 
-### WWE Main Event Moves From YouTube to Rumble, a Conservative Streaming Platform Backed by JD Vance
-Thu, 24 Sep 2026 14:24:31 +0000 — https://www.hollywoodreporter.com/tv/tv-news/wwe-main-event-moves-youtube-conservative-platform-rumble-1236709292/
+### New Saw Movie Ensnares Mike P. Nelson to Direct
+Thu, 24 Sep 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/news/general-news/new-saw-movie-ensnares-mike-p-nelson-1236709578/
 
-Rumble is also home to Dan Bongino (also an investor), Steven Crowder and Andrew Tate.
+The new project counts James Wan as a producer and hails from Lionsgate and Blumhouse Atomic Monster.
 
-### Philo Sets Exclusive Streaming Date for Page Six Virtual Reali-Tea Awards
-Thu, 24 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/philo-page-six-virtual-reali-tea-awards-2026-air-date-stream-1236708603/
+### New York Times and A24 Among Letterboxd Suitors As Deal For Film Community Nears
+Thu, 24 Sep 2026 19:23:30 +0000 — https://www.hollywoodreporter.com/business/digital/new-york-times-a24-circle-letterboxd-deal-1236709571/
 
-The live TV streamer will air the 2026 edition of the fan-voted reality television awards show on Oct. 9.
+Studios and media companies like Sony, Netflix and Versant had been cited as potential buyers of the film community platform in recent months.
 
-### YouTube Bets That a Slew of AI-Powered Features Can Maintain Its Video Domination
-Thu, 24 Sep 2026 13:50:55 +0000 — https://www.hollywoodreporter.com/business/digital/youtube-ai-tools-coming-soon-creators-viewers-1236708783/
+### Ryan Murphy Says He Finished Glee Reboot Script
+Thu, 24 Sep 2026 19:05:55 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ryan-murphy-glee-reboot-script-cast-excited-1236709525/
 
-From custom homepage feeds to automated editing, the Google-owned video platform is seeking to make the content flywheel spin faster, and drive more engagement in the process.
+The prolific creator shared the news while launching the new season of 'American Horror Story.'
 
-### Israel-Gaza War Documentary NAZA Sets Global Theatrical Release Plans
-Thu, 24 Sep 2026 13:20:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naza-documentary-israel-gaza-war-global-streaming-release-1236709268/
+### La Bola Negra Sets Awards Categories: Guitarricadelafuente and Rest of Cast Will All Go Supporting (Exclusive)
+Thu, 24 Sep 2026 19:05:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/la-bola-negra-sets-awards-categories-cast-supporting-1236709159/
 
-Directors Yuval Abraham and Rachel Szor’s Venice award winner will hit cinemas in 56 territories from Sept. 28.
+This approach has previously been employed by four high-profile awards hopefuls that went on to win the best picture Oscar: 'Crash,' 'Spotlight,' 'Moonlight' and 'Parasite.'
 
-### Terence Winter Teams With Age of Disclosure Director to Adapt UFO Insider s Story
-Thu, 24 Sep 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/terence-winter-age-of-disclosure-ufo-1236708412/
+### Inside Tiffany Co. s South Coast Plaza Opening With Zoey Deutch and Charles Melton
+Thu, 24 Sep 2026 19:01:24 +0000 — https://www.hollywoodreporter.com/lifestyle/style/tiffany-south-coast-plaza-store-zoey-deutch-charles-melton-1236709219/
 
-The 'Sopranos' and 'Tulsa King' writer will adapt former U.S. intelligence official Jay Stratton's upcoming memoir into a series.
+The luxury house's largest West Coast location hosted VIPs, press and clients for an elegant dinner prepared by chef Daniel Boulud and an inspired performance by rising pop star Ashe.
 
 ## Deadline
 
-### Judge Gives Trump Deadline To Explain Why White House Credentials Are Still Being Denied Despite Court Order
-Thu, 24 Sep 2026 15:27:40 +0000 — https://deadline.com/2026/09/trump-white-house-ban-judge-violation-1237112523/
+### Tamera Mowry-Housley To Guest Star On Scrubs Season 2
+Thu, 24 Sep 2026 20:00:00 +0000 — https://deadline.com/2026/09/tamera-mowry-housley-cast-scrubs-season-2-1237112985/
 
-A federal judge is giving Donald Trump until 12:30 p.m. ET on Thursday to explain why White House credentials are still being denied to CNN, MS NOW and Politico, even after the court s order to have them restored. The three outlets altered U.S. District Judge Timothy Kelly to the continued denial, hours after he granted [ ]
+ABC s Scrubs will have Tamera Mowry-Housley guest-starring in its upcoming second season. She will play Dr. Steffie, a pediatric doctor who tries to persuade Tosh (Ava Bunn) to choose peds as her specialty. The show will premiere with two episodes on Wednesday, Sept. 30, at 8:00 p.m. EDT/PDT. In Season 2 of the 30-minute revival, [ ]
 
-### Day Drinker Trailer: Johnny Depp Out For Revenge In Lionsgate Ghost Story
-Thu, 24 Sep 2026 15:07:54 +0000 — https://deadline.com/2026/09/day-drinker-trailer-johnny-depp-lionsgate-thriller-1237112490/
+### Saw : New Lionsgate Blumhouse Atomic Monster Pic To Be Directed By Mike P. Nelson
+Thu, 24 Sep 2026 19:30:00 +0000 — https://deadline.com/2026/09/saw-new-movie-mike-p-nelson-directing-1237112899/
 
-Lionsgate has unveiled the first trailer for Day Drinker, a supernatural revenge thriller marking one of Johnny Depp s first starring roles in a studio project in years, which is slated for release in theaters on March 26, 2027. Co-starring Madelyn Cline and Penélope Cruz, the film from director Marc Webb revolves around a private-yacht bartender [ ]
+Mike P. Nelson, the filmmaker behind Lionsgate s upcoming horror pic Beware Boiúna, will be directing the next installment of the studio s Saw as the billion-dollar franchise returns to the hands of its architect, James Wan, who is producing under Blumhouse Atomic Monster. The new Saw movie was written by Gregory Weidman Geoff Tock (Below, [ ]
 
-### Block The Merger Coalition Asks Judge To Give Them Time To Formally Oppose Settlement Of Paramount-Warner Bros. Discovery Merger Lawsuit
-Thu, 24 Sep 2026 15:04:02 +0000 — https://deadline.com/2026/09/block-the-merger-paramount-warner-bros-settlement-1237112453/
+### No ParaBros Decision Today As Judge Delays Settlement Sign-Off; CA AG s Office Insists Deal Not The Result Of Collusion
+Thu, 24 Sep 2026 19:12:47 +0000 — https://deadline.com/2026/09/paramount-merger-settlement-delayed-1237112835/
 
-A coalition of groups opposed to Paramount-Warner Bros. Discovery merger is asking a federal judge to set a briefing schedule so they can formally object to a proposed settlement as too weak. State attorneys general announced a settlement of their antitrust lawsuit seeking to block the transaction, proposing a consent decree to address a myriad [ ]
+Although David Ellison has given a lot of money to Democrats over the years, the Paramount CEO is probably not donating a dime to Sen. Cory Booker s next campaign. The much disparaged state Attorneys General negotiated settlement in Paramount s $111 billion acquisition of Warner Bros Discovery did not receive the court approval today Rob Bonta [ ]
 
-### Linda Cardellini Admits She Wanted To Recreate Pamela Voorhees Haircut For Crystal Lake : We Tried It For A Second
-Thu, 24 Sep 2026 15:03:46 +0000 — https://deadline.com/2026/09/linda-cardellini-wanted-pam-voorhees-haircut-crystal-lake-1237112208/
+### Sam Worthington Sofia Carson To Headline The Parsifal Mosaic Drama In Works At Hulu
+Thu, 24 Sep 2026 19:07:37 +0000 — https://deadline.com/2026/09/sam-worthington-sofia-carson-the-parsifal-mosaic-hulu-1237112897/
 
-While donning the iconic blue sweater for Crystal Lake, Linda Cardellini was ready to go full Pamela Voorhees with her killer 1970s transformation. The Emmy-winning actress told Deadline she originally wanted to recreate Betsy Palmer s iconic crop-style haircut from Friday the 13th (1980), and they even tried it for a second but series creator Brad [ ]
+Hulu is developing The Parsifal Mosaic, a drama series based on Robert Ludlum s bestselling novel, starring and executive produced by Sam Worthington and Sofia Carson, from Legendary Entertainment, Deadline has confirmed. Written by Wes Tooke, in The Parsifal Mosaic, after years of dangerous field work for the CIA, Michael Havelock (Worthington) is ready to get [ ]
 
-### Kunhardts Expand Life Stories Platform With Unseen Footage From Decades Of Documentary Filmmaking
-Thu, 24 Sep 2026 15:03:39 +0000 — https://deadline.com/2026/09/kunhardt-life-stories-digital-platform-documentary-films-1237112228/
+### Apple TV Comedy Protective Custody Rounds Out Cast With Five More Additions
+Thu, 24 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/protective-custody-tv-series-cast-adds-five-1237112583/
 
-Life Stories, the nonprofit created by the Kunhardt family of documentary filmmakers, has relaunched its sprawling digital platform with thousands of films, interviews and personal stories, many new to the site, in an free and more easily searchable collection. LifeStories.org, co-founded by brothers George and Teddy Kunhardt of Kunhardt Films, was built for educators, students [ ]
+EXCLUSIVE: Apple TV s comedy Protective Custody, starring and exec produced by Ben Stiller and Benicio Del Toro, has rounded out its cast with five final additions: Pej Vahdat (Bones), Shawntay Dalon (I Think You Should Leave with Tim Robinson), Isaac Stephen Montgomery (Lucky), Judd Goodstein (You Are So Not Invited to My Bat Mitzvah), and [ ]
 
-### David Oyelowo Viola Prettejohn To Star In The Girl With The Dragon Tattoo TV Series For Sky
-Thu, 24 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/girl-with-the-dragon-tattoo-david-oyelowo-viola-prettejohn-1237112372/
+### Lawmakers Introduce Bill For 20% Federal Film TV Incentive Read The Bill
+Thu, 24 Sep 2026 18:31:07 +0000 — https://deadline.com/2026/09/federal-film-incentive-bill-introduced-1237112724/
 
-EXCLUSIVE: Sky has found its Mikael Blomkvist and Lisbeth Salander for the network s upcoming TV adaptation of Stieg Larsson s The Girl with the Dragon Tattoo. David Oyelowo (Silo) and rising star Viola Prettejohn (The Crown) will play the leads in Sony Pictures Television and Left Bank Pictures’ adaptation, which comes around 15 years after the [ ]
+UPDATED: A bipartisan group of lawmakers officially introduced legislation on Thursday to create a 20% federal film and TV incentive, a first-of-its-kind tax credit designed to lure production back to the United States. The legislation, the Motion Picture, Television, and Entertainment Revitalization Act, would apply to compensation paid directly related to a production, exclusing residuals. [ ]
 
-### Gail MacKinnon To Step Down From Top MPA Post
-Thu, 24 Sep 2026 14:19:37 +0000 — https://deadline.com/2026/09/gail-mackinnon-to-leave-mpa-1237112427/
+### Mekki Leeper Workplace Comedy Set In World Of Private Equity Ordered To Series By Prime Video
+Thu, 24 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/mekki-leeper-new-money-ordered-to-series-prime-video-1237112818/
 
-EXCLUSIVE: Gail MacKinnon will step down as the Motion Picture Association s senior executive vice president for global policy and government affairs at the end of October. MPA Chairman and CEO Charles Rivkin announced her departure in an email to employees on Thursday. He wrote, It’s hard to put into words what Gail has meant to [ ]
+EXCLUSIVE: Prime Video has given a series order for New Money, a new half-hour comedy created, written, and starring Mekki Leeper (Jury Duty, St. Denis Medical). Joe Mande (Hacks, The Running Point) will serve as executive producer and co-showrunner alongside Leeper. The new Amazon MGM Studios-produced project is based on the pilot Fintech, which was [ ]
 
-### Madden Trailer: Boom! Nicolas Cage Transforms In David O. Russell s Biopic Of NFL Icon
-Thu, 24 Sep 2026 14:15:24 +0000 — https://deadline.com/2026/09/madden-trailer-nicolas-cage-john-madden-1236657136/
+### Dealmakers React To Paramount-WBD Settlement: Tech Has Won
+Thu, 24 Sep 2026 18:24:10 +0000 — https://deadline.com/2026/09/paramount-wbd-merger-dealmakers-tech-1237112727/
 
-UPDATED with official trailer: Madden, the biopic of famed NFL coach, TV broadcaster and the man behind EA s Madden video game franchise, showed off its official trailer Thursday ahead of its November 11 release in select theaters and Prime Video streaming launch November 18. Nicolas Cage portrays John Madden as he led the Oakland Raiders, [ ]
+Mergers-and-acquisitions specialists weighed in on the Paramount-Warner Bros. Discovery merger Thursday, which appears just days from closing despite an 11th-hour legal hiccup. The $110 billion deal is on track to close in the next two weeks after a settlement of two antitrust lawsuits on Monday, though a federal judge delayed a hearing where she was [ ]
 
-### Kristen Bell Adam Brody Are Living Under The Same Roof In Nobody Wants This Season 3 Trailer
-Thu, 24 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/nobody-wants-this-season-3-trailer-kristen-bell-adam-brody-1237112084/
+### John Stamos Signs With Untitled
+Thu, 24 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/john-stamos-signs-untitled-1237112770/
 
-Netflix has dropped the first trailer for Season 3 of Nobody Wants This, which finds Joanne (Kristen Bell) and Noah (Adam Brody) both enamored with the fact that they re now living together. We also get a quick glimpse at series creator Erin Foster, who spills a drink on Adam. It s her first on-screen appearance in [ ]
+EXCLUSIVE: Untitled has signed John Stamos for representation in all areas. An actor with three Emmy nominations, Stamos stars alongside Lizzy Caplan and Lucy DeVito in the darkly comedic thriller Drag, about a routine robbery gone wrong, which premiered at SXSW and releases wide via Briarcliff Entertainment on January 29, 2027. Upcoming, Stamos also appears [ ]
 
-### CNN, MS NOW And Politico Say White House Continues To Deny Access To Some Staffers Even After Judge s Order; Outlets Seek New Hearing
-Thu, 24 Sep 2026 13:54:53 +0000 — https://deadline.com/2026/09/trump-white-house-ban-judge-order-1237112390/
+### Writers Guild Of America West Endorses Nithya Raman For Los Angeles Mayor
+Thu, 24 Sep 2026 17:58:16 +0000 — https://deadline.com/2026/09/wgaw-endorses-nithya-raman-1237112825/
 
-UPDATED: The White House has continued to deny access to reporters for CNN, Politico and MS NOW, even after a judge ruled against Donald Trump s ban and that credentials must be restored. CNN s Betsy Klein reported that she was still not being allowed access to the grounds, and did a standup from outside the White [ ]
+The Writers Guild of America West has endorsed Nithya Raman in the Los Angeles mayor s race over incumbent Karen Bass. The WGAW PAC cited her consistent record supporting organized labor and increased local film and television production. Board member Michele Mulroney said in a statement, With organized labor under attack nationally, and television and film [ ]
 
-### Thriller Sender , Starring Britt Lower, Rhea Seehorn, David Dastmalchian Jamie Lee Curtis, Gets U.S. Deal
-Thu, 24 Sep 2026 13:38:26 +0000 — https://deadline.com/2026/09/sender-britt-lower-jamie-lee-curtis-us-deal-dark-sky-1237111448/
+### Netflix’s Bela Bajaria Confirms Interest In Men’s Soccer World Cup Rights
+Thu, 24 Sep 2026 17:52:13 +0000 — https://deadline.com/2026/09/netflixs-bela-bajaria-mens-soccer-world-cup-rights-1237112827/
 
-EXCLUSIVE: Dark Sky Films has acquired U.S. distribution rights to Sender, the psychological thriller from writer-director Russell Goldman, starring Britt Lower, Rhea Seehorn, Anna Baryshnikov, David Dastmalchian, Utkarsh Ambudkar, and Jamie Lee Curtis, who also produces. Following a festival run that began with its world premiere in Narrative Feature Competition at SXSW, Dark Sky Films [ ]
+Bela Bajaria, who grew up in North London, not far from Wembley, the site of England’s last World Cup success in 1966, wants Netflix to be in the conversation for the rights to the biggest soccer tournament in the world. FIFA has held preliminary talks for the U.S. rights to the World Cup in 2030 [ ]
 
-### Taylor Swift s Patient Zero Music Video Featuring Colin Farrell Dakota Johnson To Debut At VMAs; Watch Teaser Clip
-Thu, 24 Sep 2026 13:33:48 +0000 — https://deadline.com/2026/09/taylor-swift-patient-zero-music-video-1237112373/
+### Black Bear Takes Global On Laika s Live-Action Atmosphere From Anna Boden Ryan Fleck
+Thu, 24 Sep 2026 17:45:00 +0000 — https://deadline.com/2026/09/laika-atmosphere-black-bear-anna-boden-ryan-fleck-1237112766/
 
-The music video for Taylor Swift s new song “Patient Zero” will make its world premiere during the MTV Video Music Awards on Sunday on CBS and MTV (streaming on Paramount+ Premium in the U.S.). A teaser clip of the video dropped Thursday, when news of Sunday s full video debut was announced by CBS and MTV [ ]
+Laika s live-action feature take of Taylor Jenkins Reid s bestseller Atmosphere from Captain Marvel filmmakers Anna Boden and Ryan Fleck has seen its global rights scooped up by Black Bear in a competitive situation. Black Bear is also co-financing the project with Laika and will serve as the pic s international sales agent. News about the project, [ ]
 
 ## befores & afters
 
@@ -185,6 +185,51 @@ which I helped make! I got to contribute to the latest Guinness World Records bo
 
 ## IndieWire
 
+### How New York Film Festival Landed Movies Like Controversial OpenAI Biopic Artificial and Toho s Godzilla Minus Zero
+Thu, 24 Sep 2026 19:10:00 +0000 — https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495/
+
+The festival's artistic director walks IndieWire through this year's highlights and buzziest scoops, like the world premiere of Luca Guadagnino's "Artificial." Several titles are also seeking distribution out of NYFF, including Ira Sachs' AIDS-era New York City drama "The Man I Love."
+
+### A24 s V/H/S Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback
+Thu, 24 Sep 2026 18:46:51 +0000 — https://www.indiewire.com/news/analysis/a24-vhs-movie-scp-foundation-licensing-pushback-1235218298/
+
+Admins with the SCP Foundation Wiki tell IndieWire their work is covered by a Creative Commons License — and that it should be respected.
+
+### Your Mother Your Mother Your Mother Review: Faith, Family, and Firearms Drive Bassam Tariq s Intriguingly Strange Action-Drama
+Thu, 24 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/
+
+Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.
+
+### Strand Releasing Buys Distribution Rights to Sparks, a Drama About Time-Travel Obsessed Teens
+Thu, 24 Sep 2026 17:38:53 +0000 — https://www.indiewire.com/news/breaking-news/strand-releasing-buys-sparks-jodie-foster-son-elsie-fisher-1235218473/
+
+Exclusive: "Eighth Grade" breakout Elsie Fisher and Charlie B. Foster star in the indie drama, which will open in theaters next spring.
+
+### Can Brad Pitt and a Cute Dog Save Paramount s Year at the Box Office?
+Thu, 24 Sep 2026 17:15:00 +0000 — https://www.indiewire.com/news/box-office/can-brad-pitt-dog-movie-save-paramount-heart-of-the-beast-1235218312/
+
+While Paramount CEO David Ellison enjoys his WarnerMount merger win, the studio's 2026 box office is not a pretty picture. Enter "Heart of the Beast."
+
+### V/H/S/Mixtape Trailer: Horror s Unkillable Anthology Franchise Returns with a Music-Inspired Twist
+Thu, 24 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/trailers/v-h-s-mixtape-trailer-1235218397/
+
+The latest entry, which includes shorts directed by Flying Lotus, RZA, and Ernest Dickerson, streams on Shudder next month.
+
+### Hold Everything! Paramount Warner Bros. Merger Hits a Delay as Judge Grants Last-Ditch Effort from Block the Merger Coalition
+Thu, 24 Sep 2026 16:45:06 +0000 — https://www.indiewire.com/news/breaking-news/paramount-wbd-merger-delay-judge-grants-last-ditch-lawsuit-1235218472/
+
+An emergency amicus brief was filed just ahead of a hearing this morning to approve the antitrust settlement agreement.
+
+### Primetime Review: Robert Pattinson Is Even Creepier Than IRL Chris Hansen in a Bleakly Invigorating To Catch a Predator Thriller
+Thu, 24 Sep 2026 16:17:07 +0000 — https://www.indiewire.com/criticism/movies/a24-primetime-movie-review-robert-pattinson-chris-hansen-1235215068/
+
+Lance Oppenheim scuzzies up his fiction feature debut about hidden-camera, reality-TV exploitation with a grim style and often twisted performances from Merritt Wever, Skyler Gisondo, and singer/songwriter Phoebe Bridgers.
+
+### Ed Helms Might Be Growing Into More Maturing Adult Roles, but He s Still Ready for That Vacation Sequel
+Thu, 24 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/features/interviews/ed-helms-maturing-vacation-sequel-the-stunt-driver-1235218071/
+
+The "Office" and "Hangover" actor is starting to embrace roles in which he's the grown-up in the room, like in the fact-based "The Stunt Driver," but that doesn't mean the silly stuff is behind him.
+
 ### Do You Like John Travolta? Check Out John Travolto in The Face with Two Left Feet
 Thu, 24 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/features/commentary/disco-italiana-severin-collects-best-disoploitation-1235218035/
 
@@ -200,152 +245,107 @@ Thu, 24 Sep 2026 13:30:18 +0000 — https://www.indiewire.com/news/trailers/madd
 
 He's joined by Christian Bale, Kathryn Hahn, and John Mulaney in the Amazon MGM film, which opens on November 11.
 
-### My Sad Dead Review: Pablo Larraín s Eerie Netflix Ghost Story Just Wants Us to Listen
-Thu, 24 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/shows/my-sad-dead-review-netflix-series-pablo-larrain-1235218182/
-
-A recently retired doctor tries to grieve her mother's passing, protect her neglected community, and connect with her family, all while hounded by loud, tortured spirits who are aching to be heard.
-
-### This Single DVD Is Traveling Around the Country to Find a Sweet Indie Film Its Audience
-Wed, 23 Sep 2026 22:02:44 +0000 — https://www.indiewire.com/features/interviews/handle-with-care-dvd-traveling-indie-film-physical-media-1235216158/
-
-After struggling to break through on the festival circuit, Matthew James Thompson packed his debut feature, "Handle With Care," into a mysterious case that's been bringing strangers together ever since.
-
-### Married All That She Wants Filmmakers Scarlett Bermingham and Andrew Rhymer on Making a Rom-Com About Trying to Get Pregnant
-Wed, 23 Sep 2026 21:21:20 +0000 — https://www.indiewire.com/features/interviews/all-that-she-wants-directors-interview-pregnancy-rom-com-1235218193/
-
-The directing duo's development as artists and parents mirrored that of Annie Murphy and Cooper Raiff's characters.
-
-### Who s Keeping Paramount Honest? A Guide to the Watchdogs Policing David Ellison s $110 Billion Deal
-Wed, 23 Sep 2026 20:32:14 +0000 — https://www.indiewire.com/features/general/paramount-warner-bros-merger-watchdogs-promises-explained-1235218116/
-
-The proposed decree divides oversight between an internal studio monitor, an independent trustee, state attorneys general, and a board of journalists. Here’s what each can do — and where their power stops.
-
-### The Love Hypothesis Breakout Star Rachel Marsh Plays the BFF Every Rom-Com Heroine Needs
-Wed, 23 Sep 2026 20:30:00 +0000 — https://www.indiewire.com/features/interviews/the-love-hypothesis-rachel-marsh-bff-rom-com-interview-1235218084/
-
-In the Ali Hazelwood adaptation, Marsh plays best friend to leading lady Lili Reinhart, but she's no second fiddle. As the rising comedian tells IndieWire, she knows this kind of role is rare, and she really knows how to make it her own.
-
-### Curry Barker to Receive IndieWire s Inaugural Future of Filmmaking Award
-Wed, 23 Sep 2026 17:30:00 +0000 — https://www.indiewire.com/news/events/curry-barker-future-of-filmmaking-award-indiewire-summit-1235217440/
-
-The "Obsession" writer/director will accept the award at IndieWire's Future of Filmmaking Summit on October 17 in Los Angeles.
-
-### Never After Dark Review: A Japanese Medium Is Forced to Confront a Living Threat in This Clever Ghost Story
-Wed, 23 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/movies/never-after-dark-movie-review-1235218254/
-
-“Shōgun” breakout Moeka Hoshi plays a haunted ronin ghostbuster in Dave Boyle's nifty and unnerving Hokkaido chiller.
-
-### John Cassavetes Practically Invented the American Independent Film, but Some of His Best Movies Were Made for Studios
-Wed, 23 Sep 2026 16:30:00 +0000 — https://www.indiewire.com/features/commentary/john-cassavetes-minnie-and-moskowitz-best-movies-1235218147/
-
-Half of the director's 12 features were financed and distributed by major studios, and some — like "Minnie and Moskowitz," screening next week at the New Beverly — are as uncompromising as his scrappiest indies.
-
-### Harvey Weinstein Sentenced to 15 Years in Prison in New York Retrial
-Wed, 23 Sep 2026 16:10:40 +0000 — https://www.indiewire.com/news/breaking-news/harvey-weinstein-sentenced-15-years-prison-new-york-retrial-1235218263/
-
-The former film mogul was convicted on a count of criminal sexual assault against Miriam Haley in June 2025.
-
 ## The Wrap
 
-### Johnny Depp Is Back on the High Seas in ‘Day Drinker’ Trailer
-Thu, 24 Sep 2026 15:17:20 +0000 — https://www.thewrap.com/creative-content/movies/johnny-depp-day-drinker-trailer-penelope-cruz/
+### Saw Reborn: Next Film Taps Silent Night, Deadly Night Director Mike P. Nelson
+Thu, 24 Sep 2026 19:30:00 +0000 — https://www.thewrap.com/industry-news/business/saw-11-director-mike-p-nelson/
 
-Ready to do some day drinking? “Day Drinker,” the new film starring Johnny Depp, arrives in theaters on March 26, 2027. And we have the brand-new trailer for the film, which also stars Madelyn Cline and Penélope Cruz. Watch it below. The official synopsis for “Day Drinker” is deceptively simple (or possibly just deceptive): “a private-yacht bartender (Cline) encounters a mysterious, onboard guest (Depp). They soon find themselves entangled with a criminal figure (Cruz) and connected in ways no one saw coming.” Except that Depp has a bizarre, almost unintelligible Scottish (?) accent, there seems to be “John Wick”-adjacent revenge movie flourishes (“Wick” producers Basil Iwanyk and Erica Lee are among those responsible), some supernatural elements (is Cruz a witch?) and God knows what else. “Day Drinker” was directed by Marc Webb, whose last film was the live-action “Snow White” for Disney; was written by Zach Dean, who has also penned similarly high-concept studio fare like “The Tomorrow War” and “The Gorge;” and was shot by Spanish cinematographer Javier Aguirresarobe, whose credits include “The Others,” “Thor: Ragnarok” and two of the “Twilight” movies. The movie marks the second big project Depp has landed, following this fall’s Scrooge origin story “Ebenezer” (for Paramount). Before “Ebenezer,” his last big studio movie was 2018’s “Fantastic Beasts: The Crimes of Grindlewald.” But following the accusations of domestic abuse from Depp’s ex-wife Amber Heard, Warner Bros. dr
+The next installment in the Saw franchise will be directed by Wrong Turn and Silent Night, Deadly Night filmmaker Mike P. Nelson, Lionsgate and Blumhouse Atomic Monster announced on Thursday. James Wan, who created the horror franchise by directing the first film in 2004, is onboard to produce Saw 11, which is written by Gregory Weidman & Geoff Tock ( Below, Dune: Prophecy ). Alongside Wan, Jason Blum and Leigh Whannell are also producing. Executive producers are Mark Burg, Oren Koules, Stacey Testro, Michael Clear, Judson Scott. Alayna Glasthal and Sarah Paek are the executives overseeing the film for Atomic Monster. Lionsgate Motion Picture Group chair Adam Fogelson said, “It speaks volumes that James Wan is passionate about returning to this franchise, and his belief in Mike evokes his own breakthrough with the original Saw. Mike is one of the promising voices shaping the next generation of horror. He has a singular vision for this film, and we’re incredibly confident in what he’ll deliver.” Wan said, “Making the original Saw was a defining experience for me, so it was essential to find a director who would honor that world. Mike has a raw, distinctive filmmaking voice with an inventive approach to the genre, and I believe he’ll bring something truly unique and special to the franchise.” Nelson added, “Being asked to play in this twisted sandbox with James is nothing short of a dream come true. Greg and Geoff and James have crafted such a wild script that brings the myster
 
-### Morning Joe Skewers Trump s Stupid Press Ban After Judge s Intervention: So Short-Sighted
-Thu, 24 Sep 2026 15:16:42 +0000 — https://www.thewrap.com/media-platforms/politics/morning-joe-trump-press-ban-judge-order-ms-now-video/
+### Hannah Einbinder and Susan Sarandon Arrested While Protesting Netanyahu at the UN
+Thu, 24 Sep 2026 19:13:42 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hannah-einbinder-susan-sarandon-arrested-protest-netanyahu/
 
-The hosts of Morning Joe called out President Trump after a federal judge stepped in Thursday and blocked his ban barring CNN, Politico and MS NOW journalists from the White House, with host Joe Scarborough accusing the president of being so short-sighted. Last Friday, Trump announced he was banning CNN, MS NOW and Politico from the White House effective immediately, accusing them of publishing fake news about him and his administration. In response, the three news organizations filed a joint lawsuit against the Trump administration. On Thursday, a federal judge temporarily blocked Trump s press ban, but MS NOW senior legal reporter Lisa Rubin told Morning Joe viewers to pay close attention to the White House s response to the judge s order. If the White House decides not to obey this order before or unless and until they achieve a stay from an appeals court or the Supreme Court, that will mark to me a new phase of where we are with respect to this administration and its fidelity or lack thereof to the Rule of Law, Rubin said. Be on guard today, throughout the day, for how they behave in response to this. As of Thursday morning, journalists from CNN, MS NOW and Politico were still being denied entry to the White House. The decision by the president was just so short-sighted and just so stupid and actually was against his own best interest, Scarborough argued. It s just bad for him. There are so many images that he would want out for America to see that [they re] not seeing be
+Hannah Einbinder and Susan Sarandon were arrested Thursday during a pro-Palestine protest against Israeli Prime Minister Benjamin Netanyahu s appearance in New York City. Video began circulating midday Thursday of the Hacks star being escorted away from a protest in handcuffs. According to PIX11 , around 100 people were taken into custody during the protest outside the United Nations with Sarandon, comedian Caleb Hearon and New York City Council Member Jen Gutiérrez among them. Elliot Page was also in attendance at the protest but was not arrested, an individual with knowledge confirmed to TheWrap. Free Palestine, Einbinder said in the video as she was being escorted away. Netanyahu out of New York. Jewish actress Hannah Einbinder was arrested at pro Palestine protest for chanting arrest Netanyahu in NYC pic.twitter.com/eMGA71lrmV &mdash; LPC (@landpalestine) September 24, 2026 The protest broke out about two hours before the Israeli prime minister was set to speak at the UN. Einbinder has been a vocal supporter of Palestine for years, speaking out regularly against Israel s military response in Gaza following Hams Oct. 7 terrorist attack. When she won a Supporting Actress Emmy for her part in Hacks in 2025, she spent her acceptance speech declaring f k ICE and free Palestine. I feel like it is my obligation as a Jewish person to distinguish Jews from the State of Israel, because our religion and our culture is such an important and long standing institution that is really se
 
-### Nicolas Cage Gets Fired Up in ‘Madden’ Trailer
-Thu, 24 Sep 2026 15:14:10 +0000 — https://www.thewrap.com/creative-content/movies/madden-trailer-nicolas-cage-christian-bale-prime-video/
+### Judge Holds Off on Paramount-Warner Bros. Merger Settlement Ruling
+Thu, 24 Sep 2026 19:02:23 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-merger-state-ag-settlement-ruling-delayed/
 
-Ready to throw on “Madden?” David O. Russell’s film, which stars Nicolas Cage as the famous coach, arrives on Prime Video on Nov. 18, which means there’s more than a fighting chance that you’ll be watching it with your family after football ends on Thanksgiving Day. The film charts Madden’s life as he goes from virtuosic coach to the face of a multimillion-dollar video game empire. And you can watch the brand-new trailer below. In “Madden” frequent Russell collaborator Christian Bale plays Al Davis, described as “best friend and true original” as the film charts their relationship “from a Super Bowl-winning partnership with the Raiders to becoming football’s most recognizable voice to building the worldwide ‘Madden NFL’ video game,” according to the official synopsis. Madden only recently passed away, in 2021, at the age of 85. He had won the Los Angeles Raiders a Super Bowl, along with seven division titles; won 16 Sports Emmy Awards for his sports commentary on every major network; oversaw the bestselling American football video game in history; and was inducted into the Pro Football Hall of Fame. Not too shabby. Starring alongside Cage and Bale are Kathryn Hahn, Sienna Miller, John Mulaney and Shane Gillis. Russell also co-wrote the script with Cambron Clark and produced “Madden” with Todd Black, Jason Blumenthal, Steve Tisch, Jonathan Shukat, Matthew Budman and Colin Wilson. Executive producers are David Bloomfield, Constance Schwartz-Morini and Michael Strahan. Cage is c
+Judge Araceli Martinez-Olguin is holding off on approving Paramount Skydance s settlement with 12 state attorneys general to resolve antitrust litigation over the $110 billion Warner Bros. Discovery merger. During a Thursday hearing to address “certain outstanding questions regarding the proposed settlement, Martinez-Olguin asked the parties to respond to concerns outlined in a letter from Sen. Corey Booker by Monday at noon. The lawmaker urged the court to “subject the proposed consent decree to an independent public-interest review before entering it. She also asked for a written version of the consent decree to be sent to her with any redlined amendments and said she wants to be notified of the state committee who will be responsible for monitoring compliance with the consent decree. Additionally, she said it would be optional for the parties to respond to amicus briefs from the Block the Merger coalition and The League of United Latin American Citizens (LULAC), which are due no later than 12:01 p.m. PT on Friday. Once that is addressed and she s reviewed everything, Olguin said she d get the parties an official ruling in due course. Under the terms of the settlement, Paramount has agreed to a minimum investment of $300 million per year for five years in U.S. film and TV production, amounting to a total of $1.5 billion. The company will also release at least 30 films per year theatrically in the first two years of the deal and 32 films per year in the three years after tha
 
-### RedBird Capital Takes Majority Stake in Puck at $250 Million Valuation
-Thu, 24 Sep 2026 15:02:37 +0000 — https://www.thewrap.com/industry-news/deals-ma/redbird-capital-puck-majority-stake-250-million/
+### Law Crime President on the Lindsay Clancy Bump and Why Legal Expertise Is More Important Than Ever
+Thu, 24 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/law-and-crime-lindsay-clancy-president-rachel-stockman-interview/
 
-RedBird Capital Partners has struck a deal to acquire a majority stake in Puck, valuing the five-year-old digital media company at $250 million. The investment firm will become Puck’s largest shareholder under the deal, according to Variety . The transaction follows reports last month that RedBird was in advanced talks to invest in the subscription-focused outlet , which launched in 2021. Puck has built its business around subscription journalism from prominent reporters covering media, politics, finance, fashion and Hollywood. Under the deal, RedBird will buy out Puck’s institutional investors, while the company’s founders and employees will retain their equity stakes. RedBird founder and managing partner Gerry Cardinale will also join Puck’s board, according to Variety. The transaction is expected to close in the coming weeks. Puck has roughly 50,000 paying subscribers, according to Reuters . Its acquisition of Air Mail last year brought approximately another 50,000 subscribers to the company. Puck acquired Air Mail , the digital publication founded by former Vanity Fair editor Graydon Carter, in October 2025 in a cash-and-stock deal valued at $16 million. RedBird was already an investor in Air Mail and became an investor in Puck through the transaction. Puck has raised more than $17 million since its launch, according to Axios . Its journalists receive equity in the company and a portion of the subscription revenue they generate, a model designed to give its writers a dire
+If you grew up being fascinated by Court TV, then you ve probably stumbled upon Law&Crime as its modern equivalent in the digital age — but in fact, Law&Crime actually acquired Court TV earlier this year. As the preeminent source on the internet s biggest legal cases, Law&Crime saw significant growth during the Lindsay Clancy trial with 256.1 million views across social platforms. Plus, the Court TV app even recorded its highest viewing week ever, while Law&Crime+ subscriptions more than doubled. According to L&C President Rachel Stockman, this record-breaking interest is proof that Americans want to know what s happening in our judicial system. Since the company s start in 2017 (after launching in 2016 as LawNewz), they have offered high-profile legal analysis across platforms while expanding to documentary programming with networks and services such as Netflix, A+E, Fox Nation and HBO Max. Stockman told Office With a View that offering expertise en masse with trained lawyers and court reporters is as important as ever since anyone can kind of be a true crime creator nowadays, though Law&Crime always make sure to still put the victim first. Read TheWrap’s full conversation, slightly edited for brevity and clarity, below: How did you first get started with Law&Crime? I ve been with Law&Crime since the beginning, so over nine years now. I was one of the founding partners, along with Dan Abrams, who started the company, and I had been a longtime court reporter and went to law s
 
-### Paramount to Raise $7.5 Billion in Debt to Help Fund Warner Bros. Discovery Merger
-Thu, 24 Sep 2026 14:52:20 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-warner-bros-discovery-merger-debt-raise/
+### A24, New York Times Enter the Fray to Buy Letterboxd for Over $300 Million
+Thu, 24 Sep 2026 18:57:06 +0000 — https://www.thewrap.com/industry-news/business/letterboxd-sale-a24-new-york-times/
 
-Paramount Skydance is launching a syndication to raise $7.5 billion through a proposed senior secured incremental tranche of term B loans to help fund its $110 billion Warner Bros. Discovery merger and pay down certain existing debt. In total, the David Ellison-led media giant intends to raise approximately $44.4 billion of additional secured debt, in addition to previously announced financings, subject to market and other conditions. The move comes as Bank of America, Citigroup and Apollo Global Management have already committed to the deal’s $54 billion in debt financing, while three Middle Eastern sovereign wealth funds and LionTree Investment Fund, who will have no board seats or governance rights, committed to the $47 billion in equity financing. The equity financing is backstopped by the Ellison family and RedBird Capital Partners, with Larry Ellison previously making an “irrevocable personal guarantee.” Paramount is also reportedly considering tapping Elon Musk for an equity investment. The latest loans come as the combined company is already expected to carry nearly $80 billion in debt. It also comes just days after Paramount reached a settlement with 12 state attorneys general to resolve their antitrust litigation against the deal, which includes commitments to release at least 30 films per year and set up an editorial board oversee CNN and CBS News, among other things. On Thursday at 11 a.m. PT, Judge Araceli Martinez-Olguin has set a hearing to address “certain out
+A24 and the New York Times are the latest players to emerge that are looking to acquire Letterboxd for over $300 million, according to a report in the New York Times . A rep for A24 declined to comment. The Company regularly reviews potential investments, and it’s our policy not to comment on speculation about potential acquisitions or divestitures, Katie Hill, NYT SVP, Global Head of Communications and External Affairs, told The Wrap in a statement. Others that have participated in the early talks include Sony, Netflix and Paramount, private equity firms RedBird and TPG and Reddit co-creator and Seven Seven Six founder and general partner Alexis Ohanian, according to Puck. Letterboxd is majority-owned by the Canadian holding company Tiny, which took a 60% stake in 2023 in a deal valued at $50 million to $60 million. Meanwhile, Letterboxd co-founders Matthew Buchanan and Karl von Randow own the remaining 40% of the company. As of May, the platform had more than 29 million members globally. The latest meetings come after Semafor reported in April that Tiny spoke with both Versant and the Ankler about their interest in potentially buying the platform, thought it couldn’t agree on sales terms with the latter. More to come The post A24, New York Times Enter the Fray to Buy Letterboxd for Over $300 Million appeared first on TheWrap .
 
-### Block the Merger Coalition Files Emergency Motion to Oppose Weak and Unenforceable Paramount-WB Settlement
-Thu, 24 Sep 2026 14:34:49 +0000 — https://www.thewrap.com/industry-news/deals-ma/block-the-merger-coalition-emergency-motion-paramount-warner-bros-settlement-opposition/
+### Mekki Leeper to Star and Create Comedy Series New Money at Prime Video
+Thu, 24 Sep 2026 18:57:02 +0000 — https://www.thewrap.com/industry-news/business/mekki-leeper-comedy-new-money-prime-video/
 
-The Block the Merger coalition has filed an emergency motion in California federal court on Thursday, asking Judge Araceli Martínez-Olguín for an opportunity to formally oppose a weak and unenforceable settlement between Paramount and 12 state attorneys general. The agreement, which the parties agreed to on Monday to resolve the latter s antitrust lawsuit seeking to block the former s $110 billion merger with Warner Bros. Discovery, includes commitments to release at least 30 films a year in theaters, negotiate the distribution agreements for each company s suite of cable networks separately, set up an independent editorial board to oversee the CNN and CBS News operations and continue to operate each company s studio lots for five years. Failure to comply with the various commitments in the settlement range from a $30 million penalty per film that misses the theatrical goal to forced divestitures of the company’s 49% Miramax stake within a 12-month period as well as BET, Comedy Central, VH1, Smithsonian, Destination America and Science Channel within a 120-day period. “We believe the consent decree fails to meaningfully address or mitigate the harms that will be caused by this monopoly merger to the entertainment industry, diverse storytelling, independent filmmaking, consumer interests, a free press, First Amendment rights, and fundamentally, democracy,” Mara Verheyden-Hilliard, Steering Committee for the Committee for the First Amendment and First Amendment litigator, said 
+Mekki Leeper will make the jump from actor to star, EP, writer and showrunner with his new comedy, New Money at Prime Video. Leeper ( Jury Duty, St. Denis Medical ) will star in the half-hour comedy he created and wrote, while he shares showrunning responsibilities with Joe Mande ( Hacks, The Running Point ), who also serves as an executive producer. New Money is described as an ensemble workplace comedy set in the fast-paced and morally dubious world of private equity, following a trustfund-baby-turned-(self-proclaimed)-mogul and his staff of misguided wannabes at New Money Worldwide, Southern California’s least successful venture capital firm, per the official logline. Delusions of grandeur and complete incompetence will not stop our nepo-baby hero and his team of dedicated misfits, from failing upwards as they recklessly invest money in a desperate attempt to make exponentially more money, the logline reads. Produced by Amazon MGM Studios, New Money is executive produced by Rob Mac for More Better, Jackie Cohn, Nick Frenkel of 3 Arts Entertainment as well as Olivia Doud of Mosaic. Mac was attached as an EP to the pilot Fintech, which New Money is based on and was self-financed, created and directed by Leeper. “Mekki Leeper is a rare talent and a sharp comedic voice who brings an original perspective to everything he does,” Amazon MGM Studios head of global TV Peter Friedlander said in a statement. “Paired with the incredible creative pedigree of Joe Mande, New Money is the
 
-### ‘A Different World’ Review: Netflix Sequel Honors the Original While Finding Its Own Voice
-Thu, 24 Sep 2026 14:30:00 +0000 — https://www.thewrap.com/creative-content/reviews/a-different-world-review-netflix/
+### ‘Interview With the Vampire’ Director Neil Jordan on the ‘Difficult’ Production, Sequel Plans and Wanting to Change the Ending
+Thu, 24 Sep 2026 18:46:07 +0000 — https://www.thewrap.com/creative-content/movies/interview-with-the-vampire-director-neil-jordan-interview/
 
-If you liked “A Different World” the first time, you’ll probably like this updated sequel. Not every reboot lives up to the hype but Netflix’s follow-up to the beloved series may do just that. It has a sexy new cast (check), the return of fan favorites (check), enthralling torn-from-the-headlines storylines (check), a more realistic look at the life of a Black student navigating a Historically Black College (HBC) (needed), a more transparent look at Black culture on a Black campus (appreciated) and not a laugh track within earshot. The original series, a spinoff of “The Cosby Show,” ran from 1987 to 1993 and has since aged like fine wine, becoming legendary among fans on social media who want to know what happened to Whitley and Dwayne after they married. Was the chemistry between Jasmine Guy and Kadeem Hardison real? Who dated who off the set? Charnele Brown, Jasmine Guy, Kadeem Hardison, Darryl M. Bell and Cree Summer in A Different World. (Quantrell Colbert/Netflix) Netflix’s “A Different World” answers this. Whitley and Dwayne pursued careers and had three children. The youngest Deborah, phonetically pronounced “De bor rah” (Maleah Joi Moon), is a freshman at Hillman. So is her handsome on-again-off-again, football star boyfriend Shaquille (Cornelle Young IV). On her first day, Deborah meets feisty roommate and new bestie, Rashida Duvall (Alijah Kai), flirty Ghanian-Nigerian Brit student Kojo (Chibuikem Uche), naive good girl Hazel (Kennedi Reece), and many eager-yet-nerv
+“And then I cast Tom Cruise and everything went insane.” That’s how Neil Jordan describes “Interview With the Vampire,” his decadent 1994 horror epic based on the 1976 novel by Anne Rice, which is now available as a deluxe 4K Blu-ray festooned with delicious new special features and a handful of previously unseen deleted scenes. (And just in time for Halloween!) But Jordan’s version of events isn’t exactly true. At the time, Jordan was coming off the phenomenal global success of “The Crying Game,” which won him the Best Original Screenplay Oscar and made more than $70 million internationally on a budget of £2 million. (It was also, back before the instant echo-chamber of the internet, a provocative, word-of-mouth sensation that sparked countless conversations.) The studios wanted to work with Jordan, recognizing both the artistic and commercial possibilities of such an endeavor. “People were sending me things,” Jordan said in his typically self-deprecating, extremely Irish way. It was during this period of people sending him things that David Geffen, the controversial record executive and film producer, brought up “Interview With the Vampire.” Jordan said that he’d “heard about the legend of it;” how difficult the book had been to adapt and how many iterations had come before. At this point Rice herself had written a screenplay. Jordan read the script. “I thought it was intriguing and then I said, ‘Look, let me read the book,’ because I’d never actually read the book. I sat d
 
-### Seth Meyers Scoffs at Trump s Dramatic Reaction to Kaitlan Collins at UN: Sounds Like He s Complaining About an Ex
-Thu, 24 Sep 2026 14:18:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-mocks-trump-dramatic-reaction-kaitlan-collins-un/
+### Federal Film Tax Credit Introduced in House, Offering Film and TV Shoots Up to 30% Incentive
+Thu, 24 Sep 2026 18:42:09 +0000 — https://www.thewrap.com/industry-news/business/federal-film-tax-credit-introduced-in-congress/
 
-President Trump was none too happy to see CNN s Kaitlan Collins at his UN appearance this week, snapping at her on the press line afterward, and posting a late night tirade on social media hours later. To Seth Meyers, it was all very dramatic, and made the president sound like an angry ex. During his A Closer Look segment on Wednesday night, Meyers dug in on the president s ban of three major media outlets, including CNN, from the White House this week. Of course, despite Trump outright calling it the ban on the free press when asked about it, Trump s allies are insisting that Trump isn t actually banning anyone. Rubio and Vance were very clear. This is not a ban on the free press. It s just a ban from the White House, Meyers said. So, say CNN s Kaitlan Collins showed up to the United Nations, that should be totally cool with Trump, right? I mean, he wouldn t be like a pissy little bitch about it. Predictably, the clip of Trump s exchange with Collins then played, in which Trump complained that CNN shouldn t be there, and claimed they said they wouldn t cover him. Oh my God, he s so dramatic, Meyers mocked. He sounds like he s complaining about an ex showing up at his favorite restaurant. We agreed when we broke up that I got Emilio s! I can t enjoy my linguine when I m looking at your lying face!' The late night host also took issue with the vice president s justification for Trump s press ban. When asked about it in an interview, Vance retorted, If you re going to be a prop
+The legislative process has finally begun on a federal film tax incentive as members of the House Ways & Means Committee have introduced it as a bill to Congress on Thursday. The bill, titled the Motion Picture, Television, and Entertainment Revitalization Act has many, albeit not all, of the asks that Hollywood studios, unions and producers have asked for in an incentive seen as vital to stopping the slow but steady exodus of film and television productions from the United States. The biggest gain in the bill is the inclusion of above-the-line talent salaries in the labor costs that count towards the 20% base rate incentive, a clause that is included in the incentives offered by countries like the United Kingdom and Canada that have led to blockbusters like Barbie and Deadpool & Wolverine being primarily filmed in those countries. Like those countries, the U.S. incentive would stack on top of any incentives offered by the 31 states that currently have them on the books. Along with the base rate, productions can receive additional 5% uplifts up to a maximum of 30% if they met some of the following bonus criteria: At least 30% of principal photography days occur in a rural qualified opportunity zone or a federally declared disaster area; The production is an independent project A project shoots at least 50% of a production’s principal photography and spend at least $10,000,000 in qualified compensation in 10 or more States The production comes from a studio that increases its 
 
-### Taylor Swift s Patient Zero Music Video Teaser Features Colin Farrell, Dakota Johnson and… Emmanuel Lubezki?
-Thu, 24 Sep 2026 13:22:43 +0000 — https://www.thewrap.com/creative-content/music/taylor-swift-patient-zero-music-video-teaser/
+### Can Ultimate Dad Show Reacher Expand Its Universe With Female-Led Neagley Spinoff?
+Thu, 24 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/media-platforms/tv/reacher-expand-universe-female-led-neagley-spinoff-prime-video/
 
-Taylor Swift released the first look at the music video for her new single Patient Zero on Thursday morning, and it features some fairly unexpected faces. The teaser debuted on CBS Mornings and, in true Swift fashion, it was exactly 13 seconds long. The footage features Swift herself, of course, but also revealed that Dakota Johnson and Colin Farrell are starring in the music video as well. Perhaps most surprising though is the cinematographer behind the video: Oscar winner Emmanuel Lubezki. You can see the video below. FIRST LOOK: The Showgirl era continues. #CBSMornings has the exclusive first look at the new music video for Taylor Swift’s “Patient Zero,” from “The Life of a Showgirl: The Encore.” pic.twitter.com/H9E9F70A8M &mdash; CBS Mornings (@CBSMornings) September 24, 2026 Lubezki is the cinematographer behind several massive films, including Gravity, The Revenant, and Tom Cruise s upcoming film Digger (perhaps that s what Swift and Cruise were discussing during the Chiefs game in the video that sent fans into a tizzy recently? Who s to say). The footage is predictably vague, only showing snippets of scenes, including one of Johnson and Swift in a graveyard, and one of the trio sitting down together in a mysterious room. Surely, Swifties will piece together at least parts of the story within a few hours. The full video for Patient Zero will premiere this Sunday, September 27, at the MTV Music Video Awards, but Swifties won t have to wait that long to hear the song itse
+Four seasons in, Prime Video s Reacher has its audience down pat: dads. The Alan Ritchson-led action series has tapped into the same massive demographic that has made series like Yellowstone, Cross and Peaky Blinders into the hits they are. Part of the appeal of these shows is the central rugged protagonist (almost always male), who ruthlessly and expertly navigates antagonists he comes across with a sliding scale of morals. So what happens when that hero is swapped in with a heroine, no less a woman of color? Will that male-dominated audience show up for a female lead in the same way? Prime Video has shown confidence multiple times they will, most recently with Reacher spinoff Neagley, which sees Jack Reacher s protégé Frances Neagley (Maria Sten) take the spotlight as the series titular character in an attempt to expand the franchise s universe. It s not the first time the streamer has gone this route, having made similar bets with female-led offshots for Bosch spinoff Ballard and The Boys extension series Gen V. Prime Video made the smart move to launch Neagley as Reacher Season 4 closed out, making the spinoff the easy next watch, and its debut viewership indicates the audience for the show is indeed crossing over. But beyond giving the dad audience another action series, the streamer is giving its increasingly female audiences a way into the genre as well. Early viewing data for Neagley, which dropped on Sept. 16, suggests Prime Video s bet has paid off, with the spinoff
 
-### NAZA to Stream for Free on The Guardian Website After International Rollout
-Thu, 24 Sep 2026 13:17:47 +0000 — https://www.thewrap.com/creative-content/movies/naza-streaming-free-the-guardian-website/
+### Lili Reinhart s Love Hypothesis TikToks Got Her a Smack on the Wrist – Then the Studio Loved Them
+Thu, 24 Sep 2026 18:13:18 +0000 — https://www.thewrap.com/creative-content/movies/the-love-hypothesis-lili-reinhart-tiktoks-interview/
 
-NAZA, the buzzy Israel/Gaza documentary that received rave reviews after its world premiere at the Venice Film Festival, will be released online for free after its theatrical rollout, The Guardian announced on Thursday. The film, which is produced by The Guardian and mk2, hails from Israeli Oscar-winning No Other Land filmmakers Yuval Abraham and Rachel Szor and features interviews with 24 anonymous IDF sources detailing the killing of Palestinian civilians. The film will receive its North American premiere on Saturday at the New York Film Festival before opening four days later at the IFC Center in New York City, followed by an expansion to Los Angeles and other U.S. cities on Oct. 9 as part of a self-distribution model. NAZA will also be released theatrically in 55 other territories including the UK, Australia, New Zealand, Japan, Canada, Hong Kong, Brazil, Turkey, Thailand, France, Spain, Germany, Turkey, Central America and the Middle East. After its theatrical run has concluded, NAZA will stream for free on The Guardian s website. “NAZA is grounded in rigorous journalism published over the past three years,” said Harry Davies, a Guardian investigations correspondent and one of NAZA’s producers. “But it is also a powerful piece of cinema that will soon be available on screens, large and small, around the world.” The Guardian said the film has been offered to several distributors and theaters in Israel and it is exploring ways to show the film in occupied Palestinian terri
+What s the key to successfully marketing a movie in 2026? That s a debate that people have a whole lot of opinions on, but in the case of The Love Hypothesis, a big piece of the answer was Lili Reinhart. More specifically, Lili Reinhart s TikTok game. The actress, who was also an executive producer on the romantic comedy movie about a student who fake-dates a prickly teacher but ends up falling in love, filmed various trends with her co-star Tom Bateman, often in costume while on set, and picked up tens of millions of views, quite literally overnight. The thing is, while TikTok is now a core part of most movie marketing campaigns, they usually come out after filming has wrapped. Reinhart took a swing. It just was this weird feeling I had where I thought, You know what? If I m doing a trend right now, it s not going to be relevant in a year from now, so I m going to post it right now,' she explained to TheWrap. And did I get a smack on the wrist a little bit at first? Yes. And then once it reached a certain number of views, the slap was taken away. It wasn t just taken away. According to The Love Hypothesis producer Elizabeth Cantillon, Reinhart s preemptive posting actually ended up being a job creator for the project. Because of Lili, we ended up with a guy embedded to shoot the TikToks right with us, Cantillon told TheWrap. We didn t start out that way. But that person and he was lovely joined our crew, and he was shooting TikToks, and I d never done that before. I mean, I 
 
 ## Collider
 
-### Mahershala Ali Shows a Softer Side to His Assassin in New Official Look at Acclaimed Action Thriller [Exclusive]
-Thu, 24 Sep 2026 15:00:11 GMT — https://collider.com/your-mother-your-mother-your-mother-image-mahershala-ali-action-thriller/
+### 'Highlander' Officially Returns With New 4-Part Release Ahead of Henry Cavill's Reboot [Exclusive]
+Thu, 24 Sep 2026 20:03:03 GMT — https://collider.com/highlander-original-screenplay-comic-first-look-images/
 
-Until now, Mahershala Ali hasn't had the chance to headline his own action movie. The Oscar winner has been lauded more for his emotionally complex, character-driven performances, like Chiron's drug-dealing father figure Juan in the Best Picture-winning Moonlight and famed pianist Don Shirley in Green Book . He was originally set to play the Daywalker himself in the MCU's Blade movie, but after years of delays and rumors of cancellation, Ali walked away frustrated by Marvel and Kevin Feige's lack of movement toward actually making the project . This year, though, a new film finally lets him loose in an action-packed turn that still plays to his strengths.
+We're starting to think that when they said "there can be only one," they didn't mean it, because 40 years after the original Highlander movie arrived, we’re about to see Connor MacLeod’s story in a way audiences never have before. Before Christopher Lambert became a French Scotsman, before Sean Connery became a Scottish Spaniard, before Queen created a kind of magic, and way before Henry Cavill wielded a sword, there was this film.
 
-### HBO Max’s Unhinged Thriller Masterpiece ‘Backrooms’ Deserves Kudos for Being Bold and Experimental
-Thu, 24 Sep 2026 14:33:54 GMT — https://collider.com/hbo-max-backrooms-streaming-kane-parsons-edward-douglas/
+### Every Rush Instrumental, Ranked
+Thu, 24 Sep 2026 20:00:11 GMT — https://collider.com/every-rush-instrumental-ranked/
 
-“We went in knowing this was a lean budget film with quite an expansive vision,” production visual effects supervisor Edward Douglas says. “We also knew that much of the aesthetic was driven by what Kane Parsons had done in his YouTube shorts, which were all 100% him in [computer graphics software program] Blender, other than a few little live-action bookends. One of the first things we set about doing was figuring out how we can take advantage of that kind of process and pipeline in a cinematic feature film environment. If we could do long stretches of CG backrooms the same way Kane did in his YouTube series, that would set us so far ahead. If I phone up a VFX vendor and say, ‘We have five minutes of full CG,’ there goes our entire movie budget.”
+Rush developed a singular sound that blended ambitious hard rock, progressive complexity and virtuoso performances. The Canadian trio's musical excellence, creative independence and uncompromising integrity made them one of the most influential rock bands of all time. Their music was built around Geddy Lee 's melodic and highly active bass lines, Alex Lifeson 's expansive guitar work and inventive chord voicings, and Neil Peart 's powerful and intricately constructed drumming.
 
-### Adam Driver's New R-Rated Chris Rock Movie Officially Debuts First Trailer
-Thu, 24 Sep 2026 14:15:55 GMT — https://collider.com/misty-green-movie-trailer/
+### 'Shrinking' Season 4 Officially Sets 'Ugly Betty' Reunion
+Thu, 24 Sep 2026 19:52:51 GMT — https://collider.com/apple-tv-shrinking-season-4-cast-judith-light-ugly-betty-reunion/
 
-Adam Driver fans are on top of the world right now following the news that he will star as Mister Sinister in Marvel’s new X-Men movie, which is coming to theaters in 2028. Driver has a well-established relationship with properties under the Disney umbrella — he starred as Kylo Ren in a trilogy of Star Wars sequel movies, and there were even whispers that he would come back and star in a new film under director Steven Soderbergh , The Hunt for Ben Solo . While Disney has yet to come out and say the film is officially dead, the studio does keep using the term “back burner” to refer to the current development state of The Hunt for Ben Solo , which is never a good sign. With as many projects as Driver has coming in the next year or two, though, he certainly isn’t stressing over it.
+Apple TV may not have anywhere near the same subscriber numbers as other platforms like Netflix or Prime Video , but it’s second only to HBO Max in the quality of its original programming. Apple is a profitable company without its movie and TV division at Apple TV, which allows for the streamer to spend more money on better writers, talent, and higher quality productions than some other services, which have to cut corners due to the lack of income streams. Several popular Apple TV shows have blossomed in the last five or six years, but few have reached the same heights as Ted Lasso , the Jason Sudeikis -starring Emmy-winner that was written and created for TV by Bill Lawrence . Lawrence also penned another popular Apple TV show, Shrinking , which is co-written by Ted Lasso ’s Brett Goldstein , who also stars in the show.
 
-### Jim Henson's Fantasy Classic Officially Unveils 90th Birthday Collectible [Exclusive]
-Thu, 24 Sep 2026 14:00:11 GMT — https://collider.com/jim-henson-labyrinth-collectible-ludo-mask-images/
+### 3 Years Later, ‘Ted Lasso’ Fixes One of Its Biggest Story Mistakes
+Thu, 24 Sep 2026 19:52:11 GMT — https://collider.com/ted-lasso-season-4-roy-kent-keeley-jones-reunion-wedding/
 
-Jim Henson is one of our great creators. The man behind The Muppet Show brought so much joy to audiences who fell in love with his puppetry and one of his most beloved films was the 1986 movie Labyrinth . Starring David Bowie as Jareth the Goblin King with a young Jennifer Connelly as Sarah, the movie told the tale of a young girl wishing her brother would be taken by the goblins, and it brought Henson's puppets to life. To celebrate what would have been Henson's 90th birthday, fans can now buy a mask inspired by Ludo himself!
+Ted Lasso is a sports comedy, but at its core, it’s a show about relationships — friendly, familial, professional, and romantic. No relationship has garnered as much audience attention as the on-again-off-again romance between Roy Kent ( Brett Goldstein ) and Keeley Jones ( Juno Temple ). A true example of opposites attract, Roy is a gruff former footballer-turned-coach who always dons black, while Keeley is an exuberant and optimistic model-turned-marketer. Since the reveal of their split in Season 3, the characters have slowly been inching their way back to each other. In the episode “Follow the Anger,” fans finally saw their long-awaited reunion in a romantic declaration evocative of a wedding.
 
-### 'Luke Cage' Icon Is Officially Back in Business at CBS With New Look at Upcoming 'Lincoln Lawyer' Replacement [Exclusive]
-Thu, 24 Sep 2026 14:00:11 GMT — https://collider.com/cupertino-season-1-episode-2-images/
+### 10 Greatest ‘Calvin and Hobbes’ Comic Strips of All Time, Ranked
+Thu, 24 Sep 2026 19:52:11 GMT — https://collider.com/best-calvin-and-hobbes-comic-strips-all-time-ranked/
 
-Next year, Mike Colter will finally slip back into the impenetrable skin of Luke Cage and reunite with his fellow Defenders in the third and final season of Daredevil: Born Again . Before that, though, he has another date with the Kings of CBS . After breaking out as Harlem's greatest hero in his eponymous Netflix Marvel series, The Good Wife creators Michelle and Robert King tapped Colter as one of the leads of their 2019 supernatural horror drama Evil , a partnership that went well across four acclaimed seasons between the Eye network and Paramount+. Their latest team-up is now just around the corner, but this time, the star will be taking on the boogeymen of Silicon Valley rather than actual demons, and Collider can share an exclusive look.
+For 10 years, between 1985 and 1995, Americans woke up daily to cartoonist Bill Watterson 's imaginative Calvin and Hobbes . The beloved strip follows the adventures of a mischievous six-year-old named Calvin and his wise-cracking stuffed tiger, Hobbes. In each strip, Calvin and Hobbes explore everyday life, childhood, and deep philosophical questions. Most importantly, each strip showcases the incredible bond between the two titular characters.
 
-### Guillermo del Toro Officially Has One Final 'Pan's Labyrinth' Surprise for Fans [Exclusive]
-Thu, 24 Sep 2026 14:00:11 GMT — https://collider.com/guillermo-del-toro-pans-labyrinth-artwork-giveaway/
+### 'Treasure Island' Officially Returns With First Trailer
+Thu, 24 Sep 2026 19:50:08 GMT — https://collider.com/treasure-island-trailer-david-oyelowo-hayley-atwell-mgm-plus/
 
-If you’ve ever wanted a piece of Guillermo del Toro ’s imagination on your wall, your next movie ticket could put one within reach. Pan’s Labyrinth is returning to theaters for its 20th anniversary, and the filmmaker is celebrating by giving fans a chance to win one of his doodles . The first drawing closed almost as quickly as it was announced, but Collider can exclusively reveal that another chance is coming this weekend .
+Prepare to set sail, landlubbers. You're on a course for Treasure Island , starring David Oyelowo as Long John Silver, the most famous fictional pirate in literature. The new TV miniseries adaptation is venturing into the waters of MGM+ next month, but gaze into the spyglass for a new look at the show's new trailer.
 
-### DC's First R-Rated Horror Movie Officially Proves It's a Superhero Game-Changer
-Thu, 24 Sep 2026 13:58:40 GMT — https://collider.com/clayface-movie-trailer/
+### New Saw Movie Officially Confirms Perfect Director
+Thu, 24 Sep 2026 19:42:42 GMT — https://collider.com/saw-new-movie-mike-p-nelson-director/
 
-Gotham has produced plenty of villains with revenge on their minds, but Matt Hagen has a particularly personal reason to hate what he sees in the mirror . A promising acting career ends when a crime boss leaves him disfigured, and the people who helped build that career abandon him. For a man whose face was his livelihood, a treatment that promises to restore it sounds like an offer he can’t refuse.
+Saw X pulled off a tricky bit of franchise math. By setting its story between the first two movies, it brought Tobin Bell’s John Kramer back without having to undo the death that has shaped nearly every sequel since . The result gave fans more time with Jigsaw and the highest rated Saw movie to date according to Rotten Tomatoes , but it also made the question of what came next a lot more interesting.
 
-### Prime Video Officially Releases Christian Bale & Nicolas Cage’s New R-Rated Movie Trailer
-Thu, 24 Sep 2026 13:41:52 GMT — https://collider.com/madden-movie-trailer/
+### Harlan Coben Star Officially Boards Hulu's New James Bond Replacement
+Thu, 24 Sep 2026 19:41:02 GMT — https://collider.com/harlan-coben-star-sam-worthington-cast-hulu-spy-thriller-parsifal-mosaic/
 
-Even people who don't love NFL know John Madden 's name. And they'll know that booming voice. The face of a video game empire and an enthusiasm for the sport that practically came through the television made him into an epic figure, an icon of American sports and pop culture. And so when Hollywood decided to tell his story, it had to cast someone who could live up to that.
+While perhaps not thought of as one of the biggest A-list stars in the world, Sam Worthington has carved out a space as one of the most recognizable actors in Hollywood. This is especially ironic, considering his biggest role is done through motion captures — we’re talking, of course, about Jake Sully in James Cameron ’s Avatar movies. Worthington has played Sully in over $7 billion worth of Avatar films, but the status of the fourth is in jeopardy. Cameron has said that Avatar: Fire and Ash needed to be a smash hit at the box office, and while it nearly grossed $1.5 billion during its run, there’s been no word if this was enough to secure a fourth release. Worthington isn’t letting that stop him from starring in big new projects, though.
 
-### Hugh Laurie’s New Apple TV Crime Thriller Is ‘The Night Manager’ Meets ‘Prison Break’
-Thu, 24 Sep 2026 13:00:12 GMT — https://collider.com/hugh-laurie-the-wanted-man-first-look-release-date/
+### 8 Ignored Video Games That Have Aged Like Fine Wine
+Thu, 24 Sep 2026 19:33:11 GMT — https://collider.com/obscure-video-games-aged-like-fine-wine/
 
-Hugh Laurie is no stranger to playing complex individuals for our enjoyment on television, but this time, his newest part is putting him on the wrong side of the law. The House and The Night Manager star is leading The Wanted Man , a new Apple TV crime drama that will see him playing an organized crime boss who suddenly finds himself behind bars and it's fair to say from the first look at this one, prison isn't treating him too kindly.
+Video games are a modern medium, not because they are new, but because they are the most popular form of entertainment nowadays, with titles such as Elden Ring and Red Dead Redemption 2 pushing the industry forward. However, just because the new games are good doesn’t mean the past doesn’t have anything worthwhile, especially because there are plenty of classics. Unfortunately, gamers usually only remember the biggest titles of the past, like The Legend of Zelda: Ocarina of Time , and tend to forget the lesser-known, yet equally entertaining games.
 
-### Star Trek Officially Continues Captain Seven of Nine's Story in New Release
-Thu, 24 Sep 2026 13:00:12 GMT — https://collider.com/star-trek-legacy-seven-of-nine-enterprise-g-comic-issue-2/
+### 'Doctor Who' Officially Brings David Tennant and Billie Piper Back to Theaters
+Thu, 24 Sep 2026 19:03:44 GMT — https://collider.com/doctor-who-officially-brings-david-tennant-and-billie-piper-back-to-theaters/
 
-Star Trek: Legacy , the proposed spin-off of the final season of Star Trek: Picard , now seems unlikely to happen. However, if you want to follow the adventures of Seven of Nine and the USS Enterprise-G , you still can with a brand-new series from IDW. Their new flagship Star Trek series has just launched, and its second issue is warping your way soon.
+The Doctor has fought Daleks, Cybermen, Weeping Angels, and just about every other nasty thing the universe can throw at him, but it’s difficult to go much bigger than literally meeting the Devil. Twenty years ago, the Tenth Doctor and Rose Tyler landed on a planet that really shouldn’t have existed, met the Ood for the first time, and discovered something ancient waiting beneath the surface . Now we’re finally going back.
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-24T15:29:55.221Z
+# AI — harvested 2026-09-24T20:08:08.968Z
 
 ## OpenAI
 
@@ -57,11 +57,6 @@ Tue, 22 Sep 2026 21:00:00 GMT — https://openai.com/index/better-prompt-caching
 
 Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
 
-### Introducing GPT-6 Sol and Luna
-Tue, 22 Sep 2026 18:00:00 GMT — https://openai.com/index/introducing-gpt-6-sol-and-luna
-
-Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
-
 ## Hugging Face
 
 ### Accelerating vision-language models with LFM2.5-VL-DSpark
@@ -71,6 +66,9 @@ Thu, 24 Sep 2026 14:08:57 GMT — https://huggingface.co/blog/LiquidAI/lfm2-5-vl
 Wed, 23 Sep 2026 18:41:40 GMT — https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp
 
 ## Google DeepMind
+
+### Introducing Gemini 3.8 Live with Live Avatar
+Thu, 24 Sep 2026 16:20:39 +0000 — https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/
 
 ### Advancing Private AI Compute with secure, server-side memory
 Wed, 23 Sep 2026 16:00:57 +0000 — https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/

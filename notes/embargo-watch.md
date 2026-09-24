@@ -20,18 +20,22 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| EA SPORTS FC 27 | Electronic Arts | 2026-09-24 | today | 2026-09-23 | €69.99 |
+| EA SPORTS FC 27 | — | 2026-09-24 | today | 2026-09-23 | €69.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Transport Fever 3 | Paradox Interactive | 2026-09-29 | 5d | 2026-09-28 | €49.99 |
-| Minecraft Dungeons II | Xbox Game Studios | 2026-09-29 | 5d | 2026-09-28 | €29.99 |
+| Transport Fever 3 | — | 2026-09-29 | 5d | 2026-09-28 | €49.99 |
+| Minecraft Dungeons II | — | 2026-09-29 | 5d | 2026-09-28 | €29.99 |
+| DYNASTY WARRIORS 3: Complete Edition Remastered | — | 2026-09-30 | 6d | 2026-09-29 | €39.99 |
+| ACE COMBAT 8: WINGS OF THEVE | — | 2026-10-01 | 7d | 2026-09-30 | €69.99 |
+| Gears of War: E-Day | — | 2026-10-06 | 12d | 2026-10-05 | €69.99 |
+| STAR WARS: Galactic Racer | — | 2026-10-06 | 12d | 2026-10-05 | €59.99 |
 
 ---
 
-*950 upcoming titles scanned, 406 with a firm date inside
-14 days, 3 above the price line. Titles showing
+*1500 upcoming titles scanned, 825 with a firm date inside
+14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
