@@ -4,7 +4,6 @@ date: 2026-09-24
 category: Film & TV
 excerpt: Framestore tried practical fur on Appa in season one and it photographed synthetic. Season two put Aang on a blue-black foam dummy instead.
 cover: /img/blog/avatar-season-2-appa-fur-practical-cg-groom/shot-01.jpg
-draft: true
 ---
 
 There is a shot in the second season of Netflix's *Avatar: The Last Airbender*
