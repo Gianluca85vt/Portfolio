@@ -4,7 +4,6 @@ date: 2026-09-24
 category: AI
 excerpt: Adobe closed its $340M Topaz Labs purchase on 23 September. Topaz keeps its own brand, and nothing was said about what the standalone apps will cost.
 cover: /img/blog/adobe-topaz-labs-acquisition-licences/shot-01.jpg
-draft: true
 ---
 
 Adobe finished buying Topaz Labs on Wednesday 23 September. The agreement was
