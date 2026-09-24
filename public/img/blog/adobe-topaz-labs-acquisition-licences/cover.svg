@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Adobe closes its Topaz Labs acquisition at a reported 340 million dollars">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#4A0A55"/>
+      <stop offset="1" stop-color="#B600A8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="90" y="132" font-size="27" letter-spacing="5" fill="#E9B8E4" opacity="0.85">AI · 24 SEPTEMBER 2026</text>
+    <text x="90" y="300" font-size="180" font-weight="700" letter-spacing="-4">$340M</text>
+    <text x="90" y="372" font-size="42" font-weight="600" fill="#F3D6EF">Adobe closes the Topaz Labs deal</text>
+    <line x1="90" y1="416" x2="470" y2="416" stroke="#E9B8E4" stroke-width="3" opacity="0.7"/>
+    <text x="90" y="472" font-size="34" fill="#EFD3EB" opacity="0.95">Topaz keeps its brand. The apps stay</text>
+    <text x="90" y="518" font-size="34" fill="#EFD3EB" opacity="0.95">standalone. Nothing was said about</text>
+    <text x="90" y="564" font-size="34" fill="#EFD3EB" opacity="0.95">what any of it will cost.</text>
+  </g>
+</svg>
