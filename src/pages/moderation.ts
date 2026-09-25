@@ -6,6 +6,7 @@ import {
   clearedSessionCookie,
   hasValidSession,
 } from '../lib/session';
+import { recordAttempt, tooManyFailures } from '../lib/accounts';
 
 export const prerender = false;
 
@@ -135,14 +136,28 @@ export const GET: APIRoute = async ({ request }) => {
   return html(comments ? listPage(comments) : NOT_CONFIGURED);
 };
 
+/** The name moderation sign-ins are counted under in login_attempts. */
+const MODERATION_LOGIN = 'secret:moderation';
+
 export const POST: APIRoute = async ({ request, url }) => {
   const form = await request.formData();
   const action = String(form.get('action') ?? '');
   const secure = url.protocol === 'https:';
 
   // Signing in is the one action allowed without a session.
+  //
+  // Throttled through the same login_attempts table as the CMS, under a fixed
+  // name instead of an address: ten wrong secrets in fifteen minutes and the
+  // page stops checking until the window passes. Without it the secret could
+  // be guessed as fast as the function answers. If the table is unreachable
+  // both calls do nothing, and sign-in works as it always did.
   if (!action && form.has('password')) {
-    if (!(await passwordMatches(String(form.get('password') ?? '')))) {
+    if (await tooManyFailures(MODERATION_LOGIN)) {
+      return html(loginPage('Too many attempts. Wait fifteen minutes and try again.'));
+    }
+    const ok = await passwordMatches(String(form.get('password') ?? ''));
+    await recordAttempt(MODERATION_LOGIN, ok, null);
+    if (!ok) {
       return html(loginPage('That secret is not right.'));
     }
     const cookie = await createSessionCookie(secure);

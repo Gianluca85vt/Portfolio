@@ -132,11 +132,15 @@ const imageUrl = new URL(image, Astro.site).href;
 
 
     {
+      /* "<" is escaped because this is raw text inside a script element: a
+         headline containing "</script>" would otherwise end the block and
+         turn the rest of the string into markup. \u003c is the same character
+         to a JSON parser. */
       jsonLd && (
         <script
           is:inline
           type="application/ld+json"
-          set:html={JSON.stringify(jsonLd)}
+          set:html={JSON.stringify(jsonLd).replace(/</g, '\\u003c')}
         />
       )
     }
