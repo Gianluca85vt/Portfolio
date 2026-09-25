@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-25T09:47:32.894Z
+# Source feeds — harvested 2026-09-25T15:33:40.630Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -14,6 +14,8 @@ own feed: headline, link, date, and their summary.
 Already aired, so a round-up rather than a preview:
 
 - Game Developer — gamescom
+- PC Gamer — The PC Gaming Show: Most Wanted returns December 3 with 20 of The Council's most hotly anticipated games
+- 80.lv — The Biggest 3D Art & Technology Highlights From Gamescom 2026
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -23,10 +25,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 38 articles have gone out since the last one.
+**Write Manga and anime next.** 39 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 38 articles since the last one; quota is one in 6. 4 in the archive of 181.
-- **Film & TV** — on track. 1 article since the last one; quota is one in 8, never worse than one in 10. 13 in the archive of 181.
+- **Manga and anime** — BROKEN. 39 articles since the last one; quota is one in 6. 4 in the archive of 182.
+- **Film & TV** — on track. 2 articles since the last one; quota is one in 8, never worse than one in 10. 13 in the archive of 182.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +37,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 37 items
-- [Games](games.md) — 104 items
+- [Manga](manga.md) **owed** — 38 items
+- [Games](games.md) — 82 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 12 items
-- [AI](ai.md) — 12 items
-- [Film & TV](film-tv.md) — 67 items
+- [3D](3d.md) — 16 items
+- [AI](ai.md) — 5 items
+- [Film & TV](film-tv.md) — 66 items
 
-Total: 314 items.
+Total: 289 items.
 
-Feeds that did not answer: VentureBeat AI (HTTP 429).
+Feeds that did not answer: Push Square (HTTP 403), VGC (HTTP 403), VentureBeat AI (HTTP 429).

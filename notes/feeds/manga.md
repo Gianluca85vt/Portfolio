@@ -1,72 +1,82 @@
-# Manga — harvested 2026-09-25T09:47:32.894Z
+# Manga — harvested 2026-09-25T15:33:40.630Z
 
 ## Anime News Network
 
-### Chizuna Nakajima's Where is the Elf Teacher's Toilet? Manga Gets TV Anime
-Fri, 25 Sep 2026 02:28:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/chizuna-nakajima-where-is-the-elf-teacher-toilet-manga-gets-tv-anime/.242170
+### That Time I Got Reincarnated as a Slime Season 4 Anime Returns for 3rd Part in July 2027, Clayman's Revenge Spinoff Anime Debuts in April
+Fri, 25 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/that-time-i-got-reincarnated-as-a-slime-season-4-anime-returns-for-3rd-part-in-july-2027-clayman-/.242181
 
-"Toilet fantasy comedy" manga from <cite>Angel Drop</cite> manga creator launched in January 2024
+Wataru Kajika's spinoff manga about Clayman debuted in April 2022
 
-### The Fake Alchemist Anime's Teaser Unveils Cast, Staff
-Thu, 24 Sep 2026 23:46:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/the-fake-alchemist-anime-teaser-unveils-cast-staff/.242165
+### Smoking Behind the Supermarket with You ‒ Episode 12
+Fri, 25 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-12/.242185
 
-Yōhei Matsuoka, Miyari Nemoto stars as Paracelsus, Nora
+Even if the themes and takeaways from this episode are good and important for people to learn, I’m growing tired of this perpetual will-they-won’t-they romance.
 
-### Red River Anime Posts New Video for 2nd Part
-Thu, 24 Sep 2026 23:37:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/red-river-anime-posts-new-video-for-2nd-part/.242163
+### This Week in Games - What's Old is New, What's Evil is Residing
+Fri, 25 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-25/what-old-is-new-what-evil-is-residing/.242073
 
-Video previews new opening song "Akatsuki no Hoshi" by Nana Mizuki
+Jean-Karlo takes a look at the history of <i>Resident Evil</i> and mulls the future of VR games.
 
-### Konami Offers Official Metal Gear Solid Boxes (for Your Cat)
-Thu, 24 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/konami-offers-official-metal-gear-solid-boxes/.242140
+### Game Review: Ace Combat 8: Wings of Theve
+Fri, 25 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x/s-windows/ace-combat-8/wings-of-theve/.242166
 
-Now your cat can become the ultimate spy & special operations soldier
+Few games fly as high or as well as <cite>Wings of Theve</cite>.
 
-### Stop President 'Dramp's' Ambitions in New Mahjong Game for Switch
-Thu, 24 Sep 2026 22:38:16 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/stop-president-dramp-ambitions-in-new-mahjong-game-for-switch/.241975
+### Clevatess Season 2 ‒ Episode 12
+Fri, 25 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-12/.242159
 
-Latest from mahjong manga/game artist Masayuki Katayama also features Elon Musg
+Vorden spent a year frolicking with the most heinous Supervillain Isekai Boyfriend that his universe has ever known. Even after a millennium, who else could possibly compare?
 
-### Chiikawa Anime to Temporarily Halt New Episodes
-Thu, 24 Sep 2026 22:03:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/chiikawa-anime-to-temporarily-halt-new-episodes/.242160
+### Monochrome, Good Smile Unveil Ignisphere Mixed Media Project, Along With Project's Dawngazer Action RPG
+Fri, 25 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/monochrome-good-smile-unveil-ignisphere-mixed-media-project-along-with-project-dawngazer-action-rpg/.242176
 
-25 past episodes to rerun until December 25, with focus on early episodes, episodes tied to recent film
+<cite>Unicorn Overlord</cite> director, character designer Takafumi Noma helms <cite>Dawngazer</cite> 2028 game
 
-### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Kim Kaphwan
-Thu, 24 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-highlights-kim-kaphwan/.242154
+### WIT Studio's George Wada on Attack on Titan, Trust, and Taking on The One Piece
+Fri, 25 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/wit-studio-george-wada-on-attack-on-titan-trust-and-taking-on-the-one-piece/.241031
 
-Kim joins game on Thursday
+"I consider One Piece one of Japan's most precious manga, so I'm really looking forward to bringing it to the world."
 
-### Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again
-Thu, 24 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/disney-hulu-raise-monthly-pricing-on-streaming-plans-in-u.s-again/.242153
+### The Worst Anime of Summer 2026
+Fri, 25 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/summer/.242008
 
-Standalone subscription prices rise to US$12.49 with ads, US$21.49 without ads following last year's increase
+I think we've all gotten a little fed up with seminal shojo classics getting the short end of the animation stick.
 
-### Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program
-Thu, 24 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152
+### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 13
+Fri, 25 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-13/.242158
 
-English-subbed trailer streamed for anime inspired by <cite>Alice in Wonderland</cite>
+There were numerous chances where better choices from Rudeus would have stopped the chain-reaction of despair in his life.
 
-### Global Stage Hollywood Screens World Premiere of Psyren TV Anime's 2nd Episode on October 3 With Original Creator Toshiaki Iwashiro
-Thu, 24 Sep 2026 13:45:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/global-stage-hollywood-screens-world-premiere-of-psyren-tv-anime-2nd-episode-on-october-3-with-/.242150
+### I Want to Love You Till Your Dying Day ‒ Episode 12
+Fri, 25 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-12/.242157
 
-1st 2 episodes to screen at Global Stage Hollywood Film Fest with Iwashiro in attendance
+The show definitely revolves around Mimi, but Mimi herself was almost never a main focus or a character whose journey I feel like I was following.
 
-### Marvelous Announces Story of Seasons: Your Wonderful Life Virtual Reality Farming Game
-Thu, 24 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/marvelous-announces-story-of-seasons-your-wonderful-life-virtual-reality-farming-game/.242148
+### The Apothecary Diaries Season 3 Anime's 2nd Trailer Reveals Eve's Ending Theme
+Fri, 25 Sep 2026 07:08:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/the-apothecary-diaries-season-3-anime-2nd-trailer-reveals-eve-ending-theme/.242175
 
-Farming sim launches for Meta VR Glasses, Meta Quest 3, and Meta Quest 3s in spring 2027
+New season debuts on October 2
 
-### Billy Bat Volume 2 Manga Review
-Thu, 24 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/billy-bat/volume-2/.241574
+### Duel Masters Lost: Danzai no Shōnen Anime Reveals More Cast, Ending Theme in Main Promo Video
+Fri, 25 Sep 2026 05:40:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/duel-masters-lost-danzai-no-shonen-anime-reveals-more-cast-ending-theme-in-main-promo-video/.242179
 
-What does the bat want? Why does he want it?
+4-episode series debuts on October 9
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Summer 2026 Anime Rankings – Week 12
+Fri, 25 Sep 2026 14:00:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-12/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 ends the Summer 2026 weekly rankings with its third consecutive win, narrowly beating Re:ZERO Season 4 by just 0.17 percentage points.
+
+### The Apothecary Diaries Season 3 New Trailer Previews Ending Song by Eve
+Fri, 25 Sep 2026 11:06:53 GMT — https://animecorner.me/the-apothecary-diaries-season-3-new-trailer-previews-ending-song-by-eve/
+
+The Apothecary Diaries Season 3 revealed a new trailer and ending theme song by Eve ahead of its October 2, 2026 premiere.
 
 ### Fall 2026 Most Anticipated Anime Rankings
 Thu, 24 Sep 2026 15:30:00 GMT — https://animecorner.me/fall-2026-most-anticipated-anime-rankings/
@@ -118,17 +128,12 @@ Wed, 23 Sep 2026 23:19:44 GMT — https://animecorner.me/the-exiled-heavy-knight
 
 The Exiled Heavy Knight Knows How to Game the System revealed a new visual and main trailer for Part 2, which will continue in Fall 2026.
 
-### Ave Mujica Covers Lady Gaga Song "Abracadabra"
-Wed, 23 Sep 2026 15:33:38 GMT — https://animecorner.me/ave-mujica-covers-lady-gaga-song-abracadabra/
-
-Ave Mujica released a cover of the song "Abracadabra" by Lady Gaga on Thursday.&hellip;
-
-### From Old Country Bumpkin to Master Swordsman Season 3 Announced
-Wed, 23 Sep 2026 15:16:02 GMT — https://animecorner.me/from-old-country-bumpkin-to-master-swordsman-season-3-announced/
-
-From Old Country Bumpkin to Master Swordsman Season 3 anime was officially announced immediately after the second season.
-
 ## MyAnimeList News
+
+### Yozakura-san Chi no Daisakusen 2nd Season Part 2 Announces Additional Cast, Character Promo
+Fri, 25 Sep 2026 03:08:52 -0700 — https://myanimelist.net/news/74757874?_location=rss
+
+The official website of the Yozakura-san Chi no Daisakusen (Mission: Yozakura Family) television anime announced additional cast members for its second part of second season on Friday. The second part is scheduled to premiere on October 11 at 5.00 p.m. on MBS/TBS Network, followed by BS Nippon Television and AT-X on October 21. Cast Alexandre: Houchuu Ootsuka (Sakamoto Days) Shura: Miku Itou (Nekopara) Cyber Demon King "G": Yumiri Hanamori (Gachiakuta) Dr. Mozu: Sumire Uesaka (Overlord...
 
 ### Manga Elf-sensei no Toilet wa Doko desu ka? Receives TV Anime Adaptation
 Thu, 24 Sep 2026 21:44:47 -0700 — https://myanimelist.net/news/74757191?_location=rss
@@ -185,16 +190,16 @@ Wed, 23 Sep 2026 09:18:06 -0700 — https://myanimelist.net/news/74751890?_locat
 
 The official X account for Kyousuke Kamishiro and TakayaKi s Mamahaha no Tsurego ga Motokano datta (My Stepmom s Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...
 
-### Katainaka no Ossan, Kensei ni Naru Gets Third Season
-Wed, 23 Sep 2026 08:49:18 -0700 — https://myanimelist.net/news/74751799?_location=rss
-
-The 12th and final episode of Katainaka no Ossan, Kensei ni Naru II (From Old Country Bumpkin to Master Swordsman Season 2) ended with an announcement on Thursday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Passione and Hayabusa Film, the first season aired in 12 episodes in Spring 2025. The second season premiered on July 8. Amazon Prime streamed the anime worldwide with subtitles. The anime series adapts Shigeru Sagaza...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Crunchyroll Announces Home Entertainment Release Schedule October-November 2026
+Fri, 25 Sep 2026 14:05:17 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-home-entertainment-release-schedule-october-november-2026/
+
+Crunchyroll announces Suzume in 4K, Clevatess Season 1, Sailor Moon (Steelbook) and more released on Blu-ray™ between October and November for the UK.
 
 ### Hand-in-Hand with Mu-chan: Lessons from My Autistic Daughter Volume 1 Review
 Fri, 25 Sep 2026 09:00:20 +0000 — https://animeuknews.net/2026/09/hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-volume-1-review/
