@@ -25,7 +25,6 @@ artistView:
     - "Staffing: the film went to a different studio from the series, so the feature's crunch and the television crunch never landed on the same desks at the same time."
   misses:
     - "Format economics: per second of finished animation, short-form is the expensive end. Storyboard, timing, voice session, comp and delivery barely shrink when the runtime does, which is why a minute a week is a real load and not a rounding error."
-draft: true
 ---
 
 Three hundred and eighty-one episodes since April 2022. That is the number to
