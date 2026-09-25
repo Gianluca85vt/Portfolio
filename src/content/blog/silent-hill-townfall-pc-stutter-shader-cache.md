@@ -3,7 +3,18 @@ title: "Silent Hill: Townfall stutters at 60fps on a 5090"
 date: 2026-09-25
 category: 3D
 excerpt: A 5090 clears 60fps at native 4K with ray tracing and still hitches. Konami has now confirmed a performance patch. Two separate faults are doing the damage.
-cover: /img/blog/silent-hill-townfall-pc-stutter-shader-cache/shot-01.jpg
+cover: /img/blog/silent-hill-townfall-review/shot-03.jpg
+sources:
+  - outlet: DSOGaming
+    url: https://www.dsogaming.com/articles/silent-hill-townfall-hits-60-fps-at-native-4k-with-max-settings-and-ray-tracing-on-nvidia-rtx-5090-but-has-major-stutters/
+  - outlet: TechPowerUp
+    url: https://www.techpowerup.com/review/silent-hill-townfall-performance-benchmark/9.html
+  - outlet: SILENT HILL Townfall on Steam, upcoming update notice
+    url: https://store.steampowered.com/news/app/1636440/view/702154493559571529
+  - outlet: DualShockers
+    url: https://www.dualshockers.com/silent-hill-townfall-update-coming-after-fans-complain-about-poor-performance-on-pc/
+  - outlet: Notebookcheck
+    url: https://www.notebookcheck.net/Early-access-Silent-Hill-Townfall-reviews-warn-poor-performance-may-sour-release-date.1406359.0.html
 draft: true
 ---
 
@@ -43,7 +54,7 @@ scripts the level designer left in. Players are calling this traversal stutter
 and the reports cluster on zone transitions and on vegetation coming into view.
 
 <figure>
-  <img src="/img/blog/silent-hill-townfall-pc-stutter-shader-cache/shot-02.jpg" loading="lazy" width="1440" height="810" alt="Fog-bound street in SILENT HILL: Townfall" />
+  <img src="/img/blog/silent-hill-townfall-review/shot-04.jpg" loading="lazy" width="1440" height="810" alt="Fog-bound street in SILENT HILL: Townfall" />
   <figcaption>Screen Burn / KONAMI, via the official SILENT HILL: Townfall Steam page</figcaption>
 </figure>
 
