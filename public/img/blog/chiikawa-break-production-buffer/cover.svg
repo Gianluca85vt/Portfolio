@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Chiikawa's three-month break is a production buffer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#3A1330"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="7" fill="#F3E4CC" opacity="0.72">MANGA &#183; PRODUCTION</text>
+  <text x="90" y="360" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">13 weeks</text>
+  <text x="90" y="440" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#F3E4CC">of no new animation</text>
+  <text x="90" y="540" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F3E4CC" opacity="0.88">381 episodes since April 2022.</text>
+  <text x="90" y="596" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F3E4CC" opacity="0.88">The second scheduled break in 18 months.</text>
+</svg>
