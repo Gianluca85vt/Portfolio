@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-25T15:33:40.630Z
+# Film & TV — harvested 2026-09-25T20:07:49.533Z
 
 ## Variety
 
-### Patti LaBelle, Common, Public Enemy Honored at Black Music Action Coalition Gala 2026
-Fri, 25 Sep 2026 15:27:47 +0000 — https://variety.com/2026/music/news/patti-labelle-common-public-enemy-bmac-gala-2026-1236875682/
+### Ari Emanuel Details Hollywood Rise in New Memoir: Harvey Weinstein Feuds, Signing Martin Scorsese and a Tense Evening With Larry David and Elon Musk
+Fri, 25 Sep 2026 19:50:49 +0000 — https://variety.com/2026/shopping/news/ari-emanuel-memoir-hollywood-rise-buy-online-1236875941/
 
-Patti LaBelle, Common and Public Enemy were among the artists and executives who were celebrated on Thursday night at the sixth annual Black Music Action Coalition Gala, held at the Beverly Hilton Hotel in Los Angeles. Throughout the evening, BMAC and its president/CEO Willie Prophet Stiggers recognized key figures in the music industry who have [ ]
+Ari Emanuel has spent more than three decades making deals, building companies and occasionally screaming his way through Hollywood. Now, the superagent-turned-media mogul is telling his own story. In a new memoir Roll the Calls, released Sept. 22, Emanuel chronicles his rise from the CAA mailroom to one of the most powerful positions in entertainment [ ]
 
-### Fox News Assigns Larry Kudlow to Anchor Maria Bartiromo s Sunday Morning Futures Through Midterms
-Fri, 25 Sep 2026 15:24:50 +0000 — https://variety.com/2026/tv/news/larry-kudlow-fox-news-sunday-morning-futures-bartiromo-1236875670/
+### Lance Oppenheim on Primetime, You Can See Everything and How Chris Hansen s Reaction Is Exactly What the Film Is About
+Fri, 25 Sep 2026 19:44:02 +0000 — https://variety.com/2026/film/awards/lance-oppenheim-primetime-you-can-see-everything-1236875739/
 
-Fox News is replacing one opinionated business anchor with another, assigning Larry Kudlow to anchor Sunday Morning Futures on an interim basis following its ouster of longtime staffer Maria Bartiromo. Kudlow will host the 10 a.m. program starting Sunday, and continue through the weekend after the midterm elections on November 8. Fox News Channel says [ ]
+Lance Oppenheim has always lived in reality, but not all his subjects do. The documentarian has built a career out of pointing his camera at people, from the retirees of “Some Kind of Heaven” to the unregulated donors of “Spermworld” and the self-appointed royalty of “Ren Faire.” And this year, he trades obscurity for two [ ]
 
-### ‘The Light in the Darkness’ Holocaust-Narrative Game Launches ‘Director’s Cut’ Version (Gaming News Roundup)
-Fri, 25 Sep 2026 15:13:28 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-september-21-1236874983/
+### Alexander Ludwig on ‘Unabomber’ Movie, His Hunger Games Death Scene and ‘White Lotus’ Season 4: ‘It s F ing Wild’
+Fri, 25 Sep 2026 19:40:09 +0000 — https://variety.com/2026/film/columns/alexander-ludwig-on-unabomber-hunger-games-white-lotus-season-4-wild-1236875192/
 
-“The Light in the Darkness: Director’s Cut,” from game designer Luc Bernard, launched Tuesday. Originally released in 2023, the free Holocaust narrative game puts players in the experience of a Polish-Jewish family in Nazi-occupied France. This newly expanded and enhanced edition features fully voiced scenes, extended narrative content, refined visuals and updated gameplay systems. The [ ]
+Alexander Ludwig is meeting me on Zoom from a small cafe in the south of France. “Apologies, but my internet connection in my Airbnb is so terrible,” he says. “Hopefully it doesn’t get too loud.” Then he cracks, “This is my really hard life right now.” Life is anything but hard for the 34-year-old actor. [ ]
 
-### Box Office: Avengers: Endgame Encore Makes $3.8 Million in Previews, Robert Pattinson s Primetime at $2.7 Million
-Fri, 25 Sep 2026 15:11:44 +0000 — https://variety.com/2026/film/news/avengers-endgame-encore-box-office-previews-1236874581/
+### Florence Pugh Says I Was Never Scared of Publicly Supporting Palestine and I Don’t Know Why It Took So Long for Hollywood to Start Talking
+Fri, 25 Sep 2026 19:32:32 +0000 — https://variety.com/2026/film/news/florence-pugh-supports-palestine-hollywood-silence-1236875602/
 
-Sony s Resident Evil, last week s zombie-infested box office champion, will face a few new challengers as it attempts to stay No. 1 for the second week in a row. Marvel s Avengers: Endgame Encore re-release, Paramount and Brad Pitt s survival thriller Heart of the Beast, A24 and Robert Pattinson s Primetime and Universal and DreamWorks Animation’s animated [ ]
+Florence Pugh revealed in an interview with Vanity Fair that she has likely lost hundreds of thousands of followers on social media over the last few years because she is so outspoken in support of Palestine. The Oscar nominee has routinely shared links for humanitarian aid to Palestinians and made headlines last September for her [ ]
 
-### Ed Sheeran s Concerts Canceled at Robert Kraft s Gillette Stadium Due to Storm
-Fri, 25 Sep 2026 15:05:21 +0000 — https://variety.com/2026/music/news/ed-sheeran-concerts-canceled-storm-1236875556/
+### PBS SoCal Announces Fine Cut Student Filmmaker Winners From USC, CSUN, California College of the Arts
+Fri, 25 Sep 2026 19:30:18 +0000 — https://variety.com/2026/tv/news/pbs-socal-fine-cut-student-filmmaker-winners-2026-1236875863/
 
-Ed Sheeran s challenging month continues as a pair of his high-profile stadium shows have been canceled due to weather. The pop star s Sept. 25 and 26 shows at Gillette Stadium in Foxborough, Mass., have been nixed due to a nor easter that s set to hit the East Coast, with heavy rain and strong winds. Due to [ ]
+Student filmmakers from USC, California College of the Arts and Cal State Northridge were the top winners at PBS SoCal s 27th annual Fine Cut Festival of Films. The winners, revealed during a screening and awards ceremony on Tuesday at Eagle Rock s Vidiots (inside its Eagle Theater), shared prize packages valued at more than $55,000. This [ ]
 
-### ‘Lion King’ Director Rob Minkoff Joins AI-Assisted Film ‘Storm Dogs’ From Tilly Norwood Creator Particle 6
-Fri, 25 Sep 2026 15:03:14 +0000 — https://variety.com/2026/film/news/lion-king-rob-minkoff-ai-film-tilly-norwood-particle-6-1236875607/
+### San Sebastián 10 Takeaways, From Brad Pitt Seducing San Sebastián to AI, Buzz Titles, Deals and Glorious Gastronomy
+Fri, 25 Sep 2026 19:05:04 +0000 — https://variety.com/2026/film/global/san-sebastian-10-takeaways-brad-pitt-jesse-eisenberg-1236875894/
 
-Rob Minkoff, the co-director of the Disney classic “The Lion King” and the director of “Stuart Little,” is in advanced discussions to board the AI-assisted film “Storm Dogs,” the next project by Tilly Norwood creators Particle 6. The family comedy-drama follows toddler Poppy who, after a storm hits her English village and separates her from her adult caretaker, [ ]
+Blessed by warm but hardly sweltering late summer sun — and no typical Basque txirimiri drizzle so common to other editions — the 74th San Sebastián also marks the last under festival director José Luis Rebordinos, who since 2011 has brought stability, sponsors, industry build and a close relationship to Cannes. Fittingly enough, the hallmark [ ]
 
-### Joy Division s Massive Eternal Boxed Set Documents the Band s Brilliant Evolution Over 16 Concerts: Album Review
-Fri, 25 Sep 2026 15:00:00 +0000 — https://variety.com/2026/music/reviews/joy-division-eternal-live-boxed-set-album-review-1236875250/
+### Halle Berry Says Anti-Violence Film and Portraying a Female Way of Dealing With Violence Is Something the World Needs Right Now’ While Presenting Tribeca’s Through Her Lens Winners
+Fri, 25 Sep 2026 18:27:54 +0000 — https://variety.com/2026/film/news/halle-berry-regina-king-tribeca-through-her-lens-winners-1236875480/
 
-Few artists have cast as vast an influence in as short a time as Joy Division, the pioneering Manchester post-punk quartet whose dark, haunting songs and sound helped shape many genres and scenes that were to follow, from the obvious — indie-rock, goth, industrial — to the less-obvious, like electronic dance music. Yet the fact [ ]
+The sun set on a perfect fall evening in New York City as emerging writers, directors and producers mingled with industry giants in a rustic Greenwich Village penthouse. As hors d’oeuvres and a never-ending supply of lemon water were passed around the room, the crowd awaited the announcement of this year s Chanel x Tribeca Through [ ]
 
-### Lena Dunham Is All Business in First Look at Channel 4 s A24 Comedy It Gets Worse
-Fri, 25 Sep 2026 14:51:12 +0000 — https://variety.com/2026/tv/global/lena-dunham-first-look-it-gets-worse-1236875603/
+### Chris Hansen Reacts to Primetime and Robert Pattinson s Portrayal of Him: So Bizarre and Detached From Reality
+Fri, 25 Sep 2026 18:23:17 +0000 — https://variety.com/2026/film/news/chris-hansen-slams-primetime-robert-pattinson-catch-predator-1236875792/
 
-Lena Dunham is all business in first look images from upcoming Channel 4/A24 comedy “It Gets Worse.” Dunham guest stars as Greta in the series, which was written, created by and stars Leo Reich. In the first look at the actor in character she is pictured sitting at a wooden desk with a CEO nameplate [ ]
+Chris Hansen finally took a seat for Primetime, and he was not happy about the portrayal of himself. The former To Catch a Predator host said on Fox News’ “Jesse Watters Primetime” in August that he left the offices of distributor A24 without seeing the film due to the legal agreement they wanted him to [ ]
 
-### Sofia Coppola, Kirsten Dunst Celebrate 20 Years of Marie Antoinette With Reality-Bending Versailles Exhibition
-Fri, 25 Sep 2026 14:44:44 +0000 — https://variety.com/2026/film/global/sofia-coppola-versailles-marie-antoinette-mubi-1236875483/
+### Bleecker Street Names Frank Martinez as Head of Distribution
+Fri, 25 Sep 2026 18:16:38 +0000 — https://variety.com/2026/film/news/frank-martinez-bleecker-street-head-of-distribution-1236875789/
 
-“Marie Antoinette” is back in Versailles. To mark the 20th anniversary of her 2006 film, director Sofia Coppola has partnered with the Château de Versailles on an unusual exhibition of props, costumes and behind-the-scenes materials, staged in the palace the real queen called home. “It’s like Christmas for me,” Coppola says ahead of the exhibition’s [ ]
+Bleecker Street has tapped Frank Martinez as the head of distribution. Martinez will join the film company immediately and will oversee its theatrical distribution strategies, planning and execution across the Bleecker Street and Crosswalk slates. “Frank is one of the most insightful, analytical and creative minds in theatrical distribution,” said Kent Sanderson, the CEO of [ ]
 
-### NAZA Trailer: Yuval Abraham and Rachel Szor’s Venice Prizewinner Explores Gaza Conflict Through Revelatory Interviews With IDF Soldiers
-Fri, 25 Sep 2026 14:38:10 +0000 — https://variety.com/2026/film/global/gaza-naza-trailer-global-release-free-streaming-1236875587/
+### How Never After Dark Dodges Horror Clichés: Shoot Well-Lit Scenes, Challenge Conventional Storytelling and Pull the Rug Out From Under People
+Fri, 25 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/features/never-after-dark-japanese-medium-movie-horror-cliches-1236872636/
 
-British newspaper The Guardian, JW Films and French sales company MK2 have released the trailer for NAZA, the hot-button documentary about the war in Gaza which won a special jury prize at the Venice Film Festival. The doc – which was shot at night on the rooftops of Tel Aviv and explores the killings of [ ]
+As the title implies, “Never After Dark” is a horror film that isn t stuck in the shadows. “There’s something very tactile and direct, and a lot of it takes place during the day or at least fairly bright interiors,” writer and director Dave Boyle says. “We talked a lot about evoking darkness instead of just [ ]
 
 ## The Hollywood Reporter
 
-### How Apple s Eddy Cue Wooed Formula 1
-Fri, 25 Sep 2026 15:27:10 +0000 — https://www.hollywoodreporter.com/business/digital/how-apple-got-formula-1-eddy-cue-1236709884/
+### Carrie-Anne Moss, Hudson Williams Are at the Center of Witchy Yaga Trailer
+Fri, 25 Sep 2026 19:46:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yaga-trailer-carrie-anne-moss-hudson-williams-crave-amc-1236710206/
 
-The Apple executive says that viewership of F1 races is up double digits compared to the previous season on ESPN.
+An Alanis Morissette cover of 'Season of the Witch' soundtracks the full-length trailer of the Crave/AMC+ series from creator Kat Sandler.
 
-### Dolly Parton’s 9 to 5 Comedy Returning to Theaters to Support Late Icon s Foundation
-Fri, 25 Sep 2026 15:04:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dolly-partons-9-to-5-movie-theaters-1236709893/
+### Spend It on Beckham: World Cup Deals Help Global Star Rake In $51 Million
+Fri, 25 Sep 2026 19:13:39 +0000 — https://www.hollywoodreporter.com/business/business-news/david-beckham-business-booming-world-cup-1236710198/
 
-The weeklong theatrical run from Oct. 9 will see net proceeds from ticket sales supporting the flagship Dolly Parton’s Imagination Library launched by the late Queen of Country Music.
+The soccer star and Inter Miami owner saw revenue and profits at his brand business soar even ahead of the 2026 FIFA World Cup.
 
-### ‘NAZA’ Trailer Reveals Harrowing Look at Gaza Documentary: Whatever We Do, They Deserve It
-Fri, 25 Sep 2026 14:53:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naza-trailer-gaza-palestinian-documentary-1236709915/
+### Can Imax, Dolby and New VR Glasses Help Meta Reboot Its Immersive Entertainment Ambitions?
+Fri, 25 Sep 2026 18:50:43 +0000 — https://www.hollywoodreporter.com/business/digital/meta-vr-glasses-imax-entertainment-dolby-1236710076/
 
-Yuval Abraham and Rachel Szor’s harrowing award-winning documentary interviewing 24 Israeli soldiers drops first trailer.
+Mark Zuckerberg unveiled a major VR product this week, with the company turning to Disney, Imax, Dolby, James Cameron and others to help create a cadence of content.
 
-### Alexander Ludwig Was Frustrated by a Lack of Good Roles. Then Mike White Called
-Fri, 25 Sep 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alexander-ludwig-unabomber-white-lotus-season-4-interview-1236708746/
+### Ryan Murphy Debuts American Horror Story: 13, Forgotten Island Premieres and This Week s Best Events
+Fri, 25 Sep 2026 18:36:11 +0000 — https://www.hollywoodreporter.com/gallery/american-horror-story-forgotten-island-red-carpet-events-1236706732/
 
-Ludwig may have had his breakout moment with 2012's 'The Hunger Games,' but feels he just reached his "I made it" moment with a stacked lineup of projects, from 'Unabomber' to 'The White Lotus' to his directorial debut 'Billings.'
+Inside this week's biggest Hollywood premieres, parties and openings.
 
-### American Horror Story Is Back With 13: Here s How All the Seasons Connect (So Far)
-Fri, 25 Sep 2026 14:27:01 +0000 — https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-season-13-connects-explained-1236709801/
+### Global Citizen Festival Canceled Last Minute in New York Due to Extreme Weather Forecast
+Fri, 25 Sep 2026 18:24:28 +0000 — https://www.hollywoodreporter.com/music/music-news/global-citizen-festival-canceled-new-york-weather-forecast-1236710159/
 
-Co-creator Ryan Murphy and castmembers spoke with The Hollywood Reporter about the returning characters and how they fit into the season, which launched its lucky 13th year with a three-episode premiere.
+The nor'easter storm has claimed a slew of high-profile events including the All Things Go music festival and concerts by the likes of Ed Sheeran.
 
-### Warner Music Names Val Blavatnik to Executive Team, Unveils Suite of Leadership Promotions
-Fri, 25 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/wmg-appoints-val-blavatnik-executive-leadership-team-1236709852/
+### Ed Sheeran Gillette Stadium Concerts Canceled
+Fri, 25 Sep 2026 18:13:50 +0000 — https://www.hollywoodreporter.com/music/music-news/ed-sheeran-gillette-stadium-concerts-canceled-weather-1236710158/
 
-Atlantic Music Group CEO Elliot Grainge will also become chairman of distribution arm ADA, while Warner Music Latin America President Alejandro Duque has been named president of Warner Music International.
+The singer's shows tonight and tomorrow in Foxborough, Massachusetts have been axed due to a nor'easter forecast to hit the East Coast. Stadium owner Robert Kraft had objected to former opening act Macklemore's "Free Palestine" statements before he was dropped from the tour.
 
-### NASA Astronaut Victor Glover Signs With CAA (Exclusive)
-Fri, 25 Sep 2026 12:23:56 +0000 — https://www.hollywoodreporter.com/business/business-news/nasa-astronaut-victor-glover-caa-1236709704/
+### I Play Rocky, Ray Gunn, Bunker, Wild Horse Nine and Behemoth! Added to AFI Fest 2026
+Fri, 25 Sep 2026 18:12:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/afi-fest-2026-red-carpet-premieres-screenings-1236710090/
 
-The veteran space explorer in spring 2026 piloted the Artemis II mission around the moon, and has now stepped back from active space exploration as he joins Cal Poly.
+Ahead of the full lineup announcement scheduled for Sept. 29, AFI Fest officials unveiled the titles they handpicked for red carpet galas and special screenings at the Canva presented event.
 
-### How Much Should We Really Be Worried About AI Safety?
-Fri, 25 Sep 2026 11:30:26 +0000 — https://www.hollywoodreporter.com/business/digital/ai-safety-what-are-the-risks-altman-amodei-1236709582/
+### Universal Becomes First Studio to Cross $5B at 2026 Global Box Office
+Fri, 25 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/universal-first-studio-5-billion-2026-box-office-odyssey-1236710059/
 
-Definitely not a rhetorical question.
+The studio's 'The Odyssey,' 'Super Mario Galaxy Movie' and 'Michael' stand as three of the five titles to hit the billion-dollar mark this year.
 
-### “Let Us Not Mistake the Spectacle for the Story”: Hannah Einbinder Calls Out Netanyahu, Israel After UN Protest Arrest
-Fri, 25 Sep 2026 03:28:43 +0000 — https://www.hollywoodreporter.com/news/politics-news/hannah-einbinder-statement-arrest-netanyahu-protest-1236709847/
+### Chris Hansen Strikes Back at Primetime Movie (Again) With I m Chris Hansen Documentary Trailer
+Fri, 25 Sep 2026 17:14:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/chris-hansen-rips-primetime-movie-documentary-trailer-1236710058/
 
-The 'Hacks' star was taken into custody Thursday after participating in a demonstration ahead of the Israeli Prime Minister's address in New York.
+To catch a $4.99/month subscriber.
 
-### David Ellison, Tech Titans and Fox News Hosts Attend White House State Dinner Honoring China s President
-Fri, 25 Sep 2026 01:45:34 +0000 — https://www.hollywoodreporter.com/news/politics-news/david-ellison-elon-musk-fox-news-hosts-white-house-dinner-1236709831/
+### Kill Me Now Review: A Tired Hollywood Suspense Satire Riddled with Borscht Belt Humor
+Fri, 25 Sep 2026 17:12:43 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/kill-me-now-review-1236709865/
 
-Elon Musk, Sam Altman, Tim Cook, Jensen Huang, Jesse Watters and Laura Ingraham were among the attendees of the dinner, hosted by President Trump.
+Mena Suvari, Balthazar Getty, Judd Nelson and Mira Sorvino make cameos in Michael Polish’s deadpan take on movies and murder, written by and starring Jacqueline Singer, which premiered at the Oldenburg Film Festival.
 
 ## Deadline
 
-### Ed Sheeran s Controversial Gillette Stadium Concerts Canceled As Boston Braces For Nor easter
-Fri, 25 Sep 2026 15:28:35 +0000 — https://deadline.com/2026/09/ed-sheeran-gillette-stadium-concerts-canceled-1237113790/
+### Oscars: Helen Mirren To Be Campaigned For Lead Actress As Author Patricia Highsmith In Bleecker Street s A Talent For Murder
+Fri, 25 Sep 2026 20:05:45 +0000 — https://deadline.com/2026/09/oscars-a-talent-for-murders-helen-mirren-lead-actress-1237114029/
 
-Ed Sheeran s beleaguered Gillette Stadium concerts tonight and Saturday have been canceled due to the nor easter threatening New England with severe weather. In an Instagram post, Messina Touring the promotor of Sheeran s tour wrote, Due to the severe weather warnings in place in Boston and across New England through the weekend anf following [ ]
+EXCLUSIVE: Helen Mirren may be returning to the Oscar race. The Best Actress Academy Award winner for 2006 s The Queen, and a four-time nominee will be campaigned by Bleecker Street and LD Entertainment for Lead Actress at the upcoming 99th Oscars as well as other awards shows this year for her performance in A Talent [ ]
 
-### Shares In Barry Diller s People Inc. Surge On Report Of Role-Reversal Acquisition Bid From MGM Resorts
-Fri, 25 Sep 2026 15:27:58 +0000 — https://deadline.com/2026/09/barry-diller-people-inc-merger-mgm-resorts-1237113781/
+### Gilded Age Christmas Album To Feature Carrie Coon, Laura Benanti, Audra McDonald, Adrienne Warren Other Cast Members And Broadway Stars
+Fri, 25 Sep 2026 19:19:38 +0000 — https://deadline.com/2026/09/gilded-age-christmas-album-carrie-coon-laura-benanti-1237113964/
 
-Shares in Barry Diller s People Inc. surged 9% in early trading Friday after a report of an unusual role-reversal acquisition bid from MGM Resorts. Earlier this week, People said it was dropping its $18 billion plan to acquire full control of MGM Resorts, in which it already holds a 27% stake. The overture was made [ ]
+The cast of HBO s drama series The Gilded Age all with strong Broadway backgrounds will be featured on Voices Of The Gilded Age: The Christmas Album, a new collection of holiday classics and original songs from Concord Theatricals Recordings. The album will be released on digital, CD and vinyl Friday, November 6. Produced [ ]
 
-### White House Video Coverage Returns As Networks Resume TV Pool; CNN Says It s Being Allowed Back In After Judge Sidelines Trump Ban
-Fri, 25 Sep 2026 15:09:41 +0000 — https://deadline.com/2026/09/cnn-trump-ban-tv-pool-coverage-white-house-1237113768/
+### Lawmakers Introduce Site-Blocking Legislation To Curb Foreign-Digital Piracy
+Fri, 25 Sep 2026 19:08:24 +0000 — https://deadline.com/2026/09/piracy-site-blocking-bill-introduced-congress-1237113903/
 
-Video footage of presidential events at the White House returned to TV screens on Friday as five TV networks resumed their pool coverage. Major cable networks showed images of an outdoor ceremony featuring Donald Trump and Chinese President Xi Jinping, along with their wives. They later telecast footage from inside the White House of a [ ]
+UPDATED: House and Senate lawmakers are again turning their attention to major anti-piracy legislation, introducing a bill in which content owners can seek a court order to require that internet providers prevent access to foreign digital piracy sites. The Deterring Extraterritorial Foreign Exploitation of Networks Damaging Intellectual Property, or DEFEND IP Act, was introduced by [ ]
 
-### Avengers: Endgame: Encore $3.8M, Primetime $2.7M, Heart Of The Beast $2M Previews In Weekend Where There s Something For Everyone
-Fri, 25 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/
+### Denver Comedy Works Turns 45: How Club Owner Wende Curtis Fought Through Debt, Covid Cancer To Preserve A Comedy Institution
+Fri, 25 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/denver-comedy-works-anniversary-wende-curtis-interview-2-1237107801/
 
-FRIDAY AM UPDATE AFTER EXCLUSIVE: Previews are in with Disney/Marvel Avengers: Endgame: Encore grossing $3.8M yesterday which is ahead of Revenge of the Sith s $3.4M. Mind you, for quite some time before Spider-Man: Brand New Day came along, Avengers: Endgame had the domestic previews record of $60M (now No. 2). A24 s Primetime grossed a solid [ ]
+This weekend, Denver Comedy Works celebrates the 45th anniversary of its original location downtown at Larimer Square. It s a milestone worth recognizing to legions of stand-up comics, including Jeff Arcuri — one of many who tells us that it s easily one of the best clubs in the world. Between the original location and a South [ ]
 
-### James Talarico Leans Into Endorsement From Bill Nye To Launch New Teachers Group
-Fri, 25 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/james-talarico-bill-ny-endorsement-1237113741/
+### From ‘Ha-Chan, Shake Your Booty!’ To The Stunt Driver Mahershala Ali: Inside This Weekend s New Indie Releases – Specialty Preview
+Fri, 25 Sep 2026 19:00:00 +0000 — https://deadline.com/2026/09/indie-films-opening-ha-chan-shake-your-booty-jessica-lange-1237113835/
 
-James Talarico, the Texas Democrat looking for an upset in the U.S. Senate race in the state over Ken Paxton, is drawing on an endorsement from Bill Nye, the Science Guy. The pop culture science figure and TV host appears in a new campaign video for Talarico debuting on Friday, highlighting the candidate s background as [ ]
+A diverse group of new releases join an indie weekend teetering on awards season kickoff at the close of a pretty momentous week for the industry. New in theaters, Sony Pictures Classics Ha-Chan, Shake Your Booty! and Mahershala Ali’s TIFF-premiering Your Mother Your Mother Your Mother, along with stories about a New York location scout [ ]
 
-### James Gray On Opening The New York Film Festival With Paper Tiger , Surviving The Cannes Bubble , Oscar-Season Hopes And Which Filmmakers Inspire Him The Deadline Interview
-Fri, 25 Sep 2026 14:45:00 +0000 — https://deadline.com/2026/09/james-gray-paper-tiger-interview-new-york-film-festival-1237111593/
+### Producers Ross Kauffman, Sarah Sarandos, Scott Veltri Board ‘They Were Good Dogs,’ Lily Blavin Exposé On Beagles Used For Research
+Fri, 25 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/they-were-good-dogs-beagle-documentary-project-1237113589/
 
-James Gray has quite a track record this century when it comes to appearing in the official competition at the Cannes Film Festival. Starting in 2000 with only his second feature The Yards, he has had six films in competition including We Own The Night (2007), Two Lovers (2009), The Immigrant (2013), Armageddon Time (2022) [ ]
+EXCLUSIVE: Oscar winner Ross Kauffman, Sarah Sarandos, and Scott Veltri have signed on to produce They Were Good Dogs, a documentary that exposes cruel treatment of beagles “bred, caged and tested on in the name of research for pharmaceuticals, pesticides, industrial chemicals and household products.” The film now in post-production marks the directorial debut of [ ]
 
-### ‘NAZA’ Trailer: First Look At Yuval Abraham and Rachel Szor s Much-Talked-About Gaza Documentary
-Fri, 25 Sep 2026 14:35:33 +0000 — https://deadline.com/2026/09/naza-trailer-yuval-abraham-rachel-szor-gaza-documentary-1237113754/
+### Universal Becomes First Studio To Pass $5 Billion At Year-To-Date Global Box Office
+Fri, 25 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/universal-box-office-global-2026-record-1237113897/
 
-We have the first trailer for Yuval Abraham and Rachel Szor s NAZA, which debuted to huge acclaim at this year’s Venice Film Festival. Check it out above. Earlier this week, in an unprecedented move, it was announced that The Guardian newspaper will make NAZA available for global audiences for free on its website after its [ ]
+After becoming the first studio to cross the $4 billion global mark at the 2026 box office, Universal is now the first studio again this year, shooting past $5B worldwide. Broken out, Uni counts $1.788B at the domestic box office and $3.218B abroad. The milestone reps the third time in Universal s history that it has [ ]
 
-### Mary Poppins TV Series In The Works, Will Lean Into More Complex Elements Of Source Novels; Showrunners Being Approached The Dish
-Fri, 25 Sep 2026 14:33:17 +0000 — https://deadline.com/2026/09/mary-poppins-tv-series-in-the-works-darker-novels-1237112432/
+### Prototype Hires Regan Frisby, Marisa Sherrier Returns As Agency Moves To New L.A. Location
+Fri, 25 Sep 2026 17:59:00 +0000 — https://deadline.com/2026/09/prototype-talent-agency-hires-relocation-1237114012/
 
-EXCLUSIVE: Here s a fun one. We can reveal that a Mary Poppins TV series is in the works. Rather than retelling the Disney film Mary Poppins starring Julie Andrews and Dick Van Dyke from the 1960s, we understand the live action TV adaptation plans to go back to P. L. Travers’ original eight Mary Poppins [ ]
+EXCLUSIVE: Prototype Talent Agency is bringing on veteran talent agent Regan Frisby and welcoming back talent agent Marisa Sherrier (formerly Patella) to the fold. The staffing expansion coincides with a major infrastructure move for the agency, which recently relocated its headquarters to a new creative space at 6420 Wilshire Blvd on L.A. s Miracle Mile. Frisby [ ]
 
-### Tony Award Nominators Announced For 2026-2027 Season
-Fri, 25 Sep 2026 14:32:29 +0000 — https://deadline.com/2026/09/tony-award-nominators-announced-for-2026-2027-season-1237113722/
+### Global Citizen, All Things Go CBGB Festivals Canceled Due To Extreme Weather Threat For New York City
+Fri, 25 Sep 2026 17:50:29 +0000 — https://deadline.com/2026/09/global-citizen-festival-canceled-1237113928/
 
-This season s Tony Awards Nominating Committee will include, among others, Kimberly Akimbo actor Victoria Clark, playwrights Migdalia Cruz and James Ijames, performer Lorna Luft and former Washington Post theater critic Peter Marks, among others. In all, 65 people drawn from all aspects of the Broadway creative community were named today to the Nominating Committee by [ ]
+UPDATE, with CBGB news: The organizers of three New York City outdoor festivals the Global Citizen Festival, the All Things Go music festival and the CBGB Festival have canceled this weekend s events due to forecasts of extreme weather caused by the unusual September Nor easter expected to hit the East Coast. Global Citizen pulled [ ]
 
-### Scrubs Stars On How Scott Foley Rachel Bilson s Arrival Changes J.D. Elliot s Relationship Impacts Turk s Marriage
-Fri, 25 Sep 2026 14:30:00 +0000 — https://deadline.com/2026/09/scrubs-scott-foley-rachel-bilson-impact-jd-elliot-season-2-1237062674/
+### Scrubs Zach Braff Gives Discouraging Ken Jenkins Return Update, Teases More Dr. Cox, Turk Mental Health Arc In Season 2
+Fri, 25 Sep 2026 17:32:05 +0000 — https://deadline.com/2026/09/scrubs-ken-jenkins-return-zach-braff-dr-cox-turk-season-2-1237062675/
 
-Exes J.D. (Zach Braff) and Elliot (Sarah Chalke) are both getting significant others in Season 2 of Scrubs revival on ABC, and for Elliot, it s a blast from the past and someone J.D. was once jealous of. As Deadline revealed exclusively last month, Scott Foley is returning to the medical comedy, reprising his role as [ ]
+Dr. Kelso may not return to Sacred Heart after all. When ABC announced the Season 2 cast of the Scrubs revival, including OGs coming back, Ken Jenkins name was not among them despite being on show creator Bill Lawrence s wish list. “Dr. Kelso will be back next year,” Lawrence told Deadline in February, ahead of [ ]
 
-### Dolly Parton, Lily Tomlin Jane Fonda Film 9 To 5 Gets One-Week Screen Return For Parton Charity
-Fri, 25 Sep 2026 14:02:23 +0000 — https://deadline.com/2026/09/9-to-5-return-screening-dolly-parton-charity-1237113711/
+### Everything We Know About The ‘Hunger Games: Sunrise On The Reaping’ Movie So Far
+Fri, 25 Sep 2026 17:27:46 +0000 — https://deadline.com/feature/hunger-games-sunrise-on-the-reaping-movie-news-updates-1236376406/
 
-A newly restored 9 to 5, the hit 1980 workplace comedy starring Dolly Parton, Jane Fonda and Lily Tomlin, will return to theaters for a special weeklong theatrical run beginning October 9, with Disney donating net proceeds from each U.S. ticket purchase to The Dollywood Foundation. The proceeds will be used to support Dolly Parton’s [ ]
+Suzanne Collins gave her readers a huge gift in returning to the world of The Hunger Games series, the first three books of which she wrote in 2008, 2009 and 2010, for the prequel story of one Haymitch Abernathy. Haymitch, portrayed by Woody Harrelson in the quartet of films based on Collins’ original book trilogy, [ ]
 
-### Scrubs Stars On Joel Kim Booster X Mayo’s Departures, Ava Bunn’s Promotion, J.D. s New Foe Giving Interns Their Own Episodes In Season 2
-Fri, 25 Sep 2026 14:00:00 +0000 — https://deadline.com/2026/09/scrubs-stars-joel-kim-booster-x-mayo-departures-tosh-grant-1237062497/
+### Starz s Black Rodeo Drama Casts Eight In Recurring Roles
+Fri, 25 Sep 2026 17:15:00 +0000 — https://deadline.com/2026/09/starzs-black-rodeo-drama-series-recurring-cast-1237113161/
 
-ABC s Scrubs revival starring Zach Braff (John “J.D.” Dorian), Donald Faison (Christopher Turk) and Sarah Chalke (Elliot Reid) is undergoing some cast changes heading into its second season. Two prominent recurring players are leaving, Joel Kim Booster, who played scheming attending physician Dr. Kevin Park, and X Mayo as charge nurse Raymond. Meanwhile, as reported [ ]
+EXCLUSIVE: Starz is rounding out the recurring cast for its upcoming Black rodeo drama series with the addition of Patrick Cage (One Of Them Days, Mayor of Kingstown), Mpho Osei-Tutu (Outer Banks, Reasonable Doubt), Keith Arthur Bolden (The Ms. Pat Show, Reasonable Doubt), Tracey Bonner (Raising Dion, Sweet Magnolias), Cris Ruiz (Beyond the Gates, Captain [ ]
 
 ## befores & afters
 
@@ -179,6 +179,21 @@ Wed, 23 Sep 2026 22:49:01 +0000 — https://beforesandafters.com/2026/09/24/real
 Breaking down ILM s work on the film! And yes, a VFX magazine is coming The post Really fun 11.5 minute featurette on the dinos in The End of Oak Street appeared first on befores & afters .
 
 ## IndieWire
+
+### The Scout Review: A Meditative Look at Life as an Oft-Ignored Movie Location Scout
+Fri, 25 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-scout-review-1235218606/
+
+Paula González-Nasser's quiet directorial debut follows a location scout in New York City who becomes a quasi-therapist for every resident she visits.
+
+### Three Decades Ago, He Made a Documentary About Then-Boyfriend Isaac Mizrahi — Now, Douglas Keeve Is Looking Back at Unzipped
+Fri, 25 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/isaac-mizrahi-documentary-unzipped-interview-1235218716/
+
+As Keeve tells IndieWire, his relationship with then-rising fashion mogul Mizrahi fell apart after he made the 1995 fashion-world doc. But the film isn't what split them in two.
+
+### Stanley Kubrick s Five Best Films, Ranked with TCM Host Ben Mankiewicz
+Fri, 25 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/features/podcast/stanley-kubrick-best-movies-ranked-with-tcm-ben-mankiewicz-1235218691/
+
+With his "The Plot Thickens" podcast focused on Kubrick this season, Mankiewicz joins IndieWire's own podcast "Screen Talk" to rank his favorites alongside co-hosts Anne Thompson and Ryan Lattanzio.
 
 ### A24 s Primetime Earns $2.7 Million in Previews as Robert Pattinson s Creepy Chris Hansen Scores at the Box Office
 Fri, 25 Sep 2026 15:27:13 +0000 — https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/
@@ -225,122 +240,107 @@ Thu, 24 Sep 2026 21:00:00 +0000 — https://www.indiewire.com/news/events/bill-h
 
 Hader will participate in a one-on-one conversation with IndieWire about his upcoming horror film 'They Know' at the Los Angeles event on October 17.
 
-### How New York Film Festival Landed Movies Like Controversial OpenAI Biopic Artificial and Toho s Godzilla Minus Zero
-Thu, 24 Sep 2026 19:10:00 +0000 — https://www.indiewire.com/features/general/how-new-york-film-festival-landed-artificial-godzilla-1235218495/
-
-The festival's artistic director walks IndieWire through this year's highlights and buzziest scoops, like the world premiere of Luca Guadagnino's "Artificial." Several titles are also seeking distribution out of NYFF, including Ira Sachs' AIDS-era New York City drama "The Man I Love."
-
-### A24 s V/H/S Movie Inspired by Online Horror Universe SCP Foundation Faces Licensing Pushback
-Thu, 24 Sep 2026 18:46:51 +0000 — https://www.indiewire.com/news/analysis/a24-vhs-movie-scp-foundation-licensing-pushback-1235218298/
-
-Admins with the SCP Foundation Wiki tell IndieWire their work is covered by a Creative Commons License — and that it should be respected.
-
-### Your Mother Your Mother Your Mother Review: Faith, Family, and Firearms Drive Bassam Tariq s Intriguingly Strange Action-Drama
-Thu, 24 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/criticism/movies/your-mother-your-mother-your-mother-movie-review-1235216627/
-
-Messy contradictions and eccentric side characters drive this memorable story of a devout Muslim hitman played by Mahershala Ali.
-
 ## The Wrap
 
-### Avengers: Endgame Returns to Theaters With $3.8 Million at Thursday Box Office
-Fri, 25 Sep 2026 15:33:05 +0000 — https://www.thewrap.com/industry-news/business/avengers-endgame-thursday-box-office/
+### Sarah Paulson Shares the Scream Queen Secret She Learned on American Horror Story
+Fri, 25 Sep 2026 20:01:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/sarah-paulson-american-horror-story-protecting-scream-freak-show/
 
-Disney/Marvel Studios Avengers: Endgame Encore is set to top several new films at the box office as the former all-time box office record holder returned to theaters Thursday night and made $3.8 million. Featuring a new color balance and post-credit sequences teasing Avengers: Doomsday, Endgame Encore is set to earn $25-28 million this weekend. If walk-ups are particularly strong and it can clear $30.2 million, it will set a new unadjusted record for the highest weekend ever for a re-release, topping the 2011 3D reissue of The Lion King. Among newcomers, the highest grossing film is expected to be A24 s Primetime, which stars Robert Pattinson as To Catch a Predator host Chris Hansen, which made $2.8 million from preview screenings as it is looking at an opening weekend of around $20 million. Paramount s Heart of the Beast, a David Ayer survival thriller starring Brad Pitt as an Army vet who crashes with his combat dog in the Alaskan wilderness, earned $2 million from Thursday previews as it is projected for an opening weekend in the high teens. Finally, there s Universal/DreamWorks Forgotten Island, an original animated family film that made $1.5 million from previews and is looking at a $15-17 million opening that would be among the lowest ever for DreamWorks Animation despite strong reviews, holding a 96% Rotten Tomatoes score. More to come.. The post Avengers: Endgame Returns to Theaters With $3.8 Million at Thursday Box Office appeared first on TheWrap .
+Sarah Paulson admitted her biggest rookie mistake on the early seasons of American Horror Story was wrecking her voice with her scream. The Emmy Award winner told AHS newcomer Paul Anthony Kelly that in the early seasons she went full force as a scream queen and did not preserve herself vocally. I would scream like my life depended on it. Bloody murder, she said, And I would then have no voice. The secret to maintaining herself for long shoot dates on set was steroid shots not in the throat but in the butt, she clarified. Paulson also said she went to a voice specialist who advised her not to scream for real on set, but she said her performance was more important. I was like, I don t know how to do that, so just give me the shot in the ass and I ll just keep doing it the way I do it, she quipped. Got to do it for real. Want to be a true scream queen. Kelly also asked the AHS veteran about acting opposite herself in the Freak Show season as conjoined twins, Bette and Dot. She explained that it was her idea to use an earpiece to more authentically act opposite her own voice and dialogue. They were going to have an actress, one of the stand-ins on our show would read off camera for me, and I thought, since it s the same voice as my voice, since I m playing my own twin, it should probably be me, she said. Paulson would come in in the morning pre-record her dialogue and then switch back and forth for whichever twin she was playing for that take. The actress also doubled as a puppe
 
-### NAZA Trailer Reveals Yuval Abraham and Rachel Szor s Hot-Button Doc
-Fri, 25 Sep 2026 14:23:33 +0000 — https://www.thewrap.com/creative-content/movies/naza-trailer-israel-palestine-gaza-documentary/
+### Milan Fashion Week Proves Italian Style Is Not Done With Its Period of Reinvention Just Yet
+Fri, 25 Sep 2026 19:12:57 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/milan-fashion-week-proves-italian-style-is-reinventing-itself/
 
-The trailer for NAZA dropped Friday morning, giving audiences a glimpse of what to expect from Yuval Abraham and Rachel Szor s illuminating documentary with the subtitle, A Window Into Systems of Mass Killing “Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel’s calculated mass killing of Palestinian civilians in Gaza,” per the logline. A text interstitial further adds: “Featuring interviews with 24 Israeli soldiers involved in the remote mass killing of Palestinian civilians in Gaza.” “Believe me, I’m sparing you a lot of things,” one participant says, via translation. The movie premiered at the Venice Film Festival (winning the Special Jury Prize) and will have its North American premiere on Saturday at the New York Film Festival before opening four days later at the IFC Center in NYC, followed by an expansion to Los Angeles and other U.S. cities on Oct. 9 as part of a self-distribution model. The documentary will then stream for free on The Guardian website following its impending international rollout. Israeli Culture Minister Miki Zohar has since moved to revoke Abraham and Szor s citizenship for betraying the state with their follow-up to their Oscar-winning doc No Other Land. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible, the pair shared in a statement. While 
+Milan Fashion Week opens with another edition of Vogue World starring Jennifer Lopez, Cardi B and runway robots. Prada makes a compelling case for skirts for Spring 2027. Artificial director Luca Guadagnino and his go-to film production designer Stefano Baisi launch a wide-ranging collection for Zara and Zara Home. David Lynch’s photographs showcase noir L.A. at Pace Gallery, while Reiko Sudō’s textiles are a must-see (and shop) at LACMA. Lorenzo Musetti and Jennifer Lopez walk the runway during Vogue World: Milano 2026 at Galleria Vittorio Emanuele II on Sept. 22, 2026 in Milan, Italy. Source: Getty Milan s Fashion Flurry Milan Fashion Week opened Tuesday with a celebration of the skirt, a Vogue World extravaganza set at the Galleria Vittorio Emanuele II and a flurry of industry news suggesting that Italian fashion is not done with its period of reinvention just yet. Setting the tone for the week at Prada, Miuccia Prada and Raf Simons put the skirt front and center — literally — every one of the collection’s 63 looks had one. It was fitting for Mrs. Prada, as she’s always called, who has long worn the traditional garment as a personal uniform and reinvented it dozens of times through the years of her collections, with surrealist lipstick prints, painterly postcard prints, dip-dye ombrés, crystal and mirror embellishments, and much more. A model walks the Prada Spring 2027 runway at Milan fashion week, Sept. 22, 2026. Source: Getty This time, the brand didn’t suggest a single
 
-### Does Doctor Doom Appear in Avengers: Endgame Encore?
-Fri, 25 Sep 2026 14:17:45 +0000 — https://www.thewrap.com/creative-content/movies/is-doctor-doom-in-avengers-endgame-encore-new-footage-post-credits/
+### South Park Season 29 Premiere Scores Over 4 Million Viewers, Down 29% From Last Year
+Fri, 25 Sep 2026 19:00:58 +0000 — https://www.thewrap.com/creative-content/tv-shows/south-park-season-29-premiere-ratings/
 
-Note: Massive spoilers ahead for Avengers: Endgame Encore you ve been warned As the countdown to Avengers: Doomsday continues, Avengers: Endgame is officially back in theaters this weekend, with four minutes of new footage that is, by the Russo Brothers own account, required viewing to understand Doomsday. So, does that mean Doctor Doom himself is in those four minutes? To be clear, if you re planning on returning to theaters to see this version of the 2019 film, and you want to go in as unspoiled as you can be, this would be the exit where you get off. Anything you see past this point is of your own accord. Still here? Great. As many expected, the new footage comes primarily in the form of new post-credits scenes. Doctor Doom isn t suddenly a buddy of Thanos in the main story but yes, he does appear in this version of Endgame, kind of. He s a factor in two of the post-credits scenes. One features Bruce Banner (Mark Ruffalo), hidden away in a government facility following the events of Spider-Man: Brand New Day. He s recording videos documenting his experience, when Doom shows up to collect the Hulk. Doom triggers Banner s transformation, kidnaps him, and whatever happens next will be revealed in Doomsday. Doom s second appearance in Avengers: Endgame Encore comes in the next post-credits scene. In it, we here the sound of metal on metal before we see anything. What we do see is Doom working on crafting his mask, in a similar fashion to Tony Stark (Robert Downey Jr.) crafting
+The South Park Season 29 premiere brought in over 4 million viewers, falling 29% from last year s opener. The Season 29 debut scored 4.2 million viewers across Paramount+ and Comedy Central across its first three days of viewing in the U.S., according to multi-platform viewing figures. That s down 29% from the 5.9 million viewers brought across Paramount+ and Comedy Central for the Season 27 opener in July 2025. But the Season 29 opener soared over the Season 28 premiere among both key categories in the 18-49 demo. Ratings for the Season 29 premiere were up 33% from Season 28 — rising from a 0.73 rating to a 0.97 rating — and share was up 20% over the previous opener — rising from a 3.96 share to a 4.77 share. Overall, the Season 29 premiere of South Park ranks as No. 1 non-sports cable telecast of the week among the 18-49 demo. On social media, South Park ranked as the No. 1 most social cable comedy show of the day, scoring 11 million views and 1 million engagements in its first three days. The Season 29 opener scored 63,000 online mentions, rising 40% over the first three days of Season 28. Last year s Season 27 and Season 28 aired back to back, with Season 27 kicking off in July 2025 and airing five episodes before Season 28 debuted its five-episode installment starting in October 2025. The next episodes of South Park will drop on Wednesday, Sept. 30, with subsequent Wednesday premieres including Oct. 14, Oct. 28, Nov. 11 and Nov. 25. New episodes drop 10 p.m. ET/PT on Com
 
-### ‘The Rescue’ Trailer Sees Brandon Sklenar Turn Into a Country Liam Neeson
-Fri, 25 Sep 2026 14:04:30 +0000 — https://www.thewrap.com/creative-content/movies/the-rescue-trailer-brandon-sklenar-paramount/
+### M. Night Shyamalan on His Beyond Fest Retrospective, Why He Still Wants to Self-Finance His Films and Bruce Willis
+Fri, 25 Sep 2026 18:54:09 +0000 — https://www.thewrap.com/creative-content/movies/m-night-shyamalan-interview-beyond-fest-retrospective-bruce-willis/
 
-“The Rescue” is almost here. In the new thriller, Brandon Sklenar plays a cowboy whose daughter is kidnapped by some very bad men, leading him to go on a desperate quest (with her beloved dog) to track her down and bring her home. While the movie hits theaters on Jan. 29, 2027, Paramount released a brand-new trailer on Friday. You can watch it below, although it seems to give away some pretty big twists so tread lightly. Sklenar, probably still best known from his work on “Yellowstone” prequel series “1923,” stars alongside Hassie Harrison as his country music star ex-wife (another veteran of mainline “Yellowstone”), alongside a colorful cast of supporting characters that includes Josh Lucas, Tim Blake Nelson, Spencer Treat Clark and Austin Amelio. “The Rescue” was directed by Potsy Ponciroli, whose mostly silent period action movie “Motor City” was released earlier this year, and was written by John Fusco, a genre veteran whose credits include “Young Guns,” “Thunderheart” and Walter Hill’s underrated “Crossroads,” which went into production while Fusco was still a student at NYU. Sklenar starred in last year’s surprise hit “The Housemaid” and Christopher Landon’s terrific thriller “Drop” and can be seen in “F.A.S.T.” next year, a high-octane action thriller that reunites him with Taylor Sheridan and his “1923” director Ben Richardson, alongside LaKeith Stanfield, Jason Clarke, Juliana Canfield and Sam Claflin. It hits theaters on May 14 from Warner Bros. But before that, you
+M. Night Shyamalan has a museum at his sprawling compound outside of Philadelphia. It’s filled with ephemera from his movies, props and costumes galore from his three-decade-long career. “When I go in there, I go, Whoa , and I see other people s faces when they go in there, and they re surrounded by all these 17 movies,” said Shyamalan. “I am beyond lucky and I really believe every movie is my last movie.” He said he felt this way at the end of “The Sixth Sense,” “because I don t know if they ll ever let me direct again once this movie comes out,” and that he’s driven, in what he describes as an “unhealthy way,” to focus on what comes next. (His 18th film, “Remain,” opens in February courtesy of Warner Bros.) But in the museum, full of stuff, he’s allowed to take it all in. “It s too much to reflect on it,” he said. He motions to a photo of his daughters, when they were younger, that’s sitting on his desk. Now they’re older and have boyfriends and are getting married. “I was reading a book and it was saying how you surround yourself with beauty and people that are beautiful, acts that are beautiful, places that are beautiful to keep that energy in a certain place,” Shyamalan said. “And I m so lucky that I ve had to do this.” For Shyamalan, Los Angeles represents judgment and a yes/no thing, and it s so culturally significant.” “I’m scared of it as a place,” he said matter-of-factly. In his mind, he’s “the nerdy Indian kid” and Los Angeles is full of lacrosse players. Beyond F
 
-### ‘War’ Review: Sienna Miller and Dominic West Excel in Intricate HBO Legal Drama
-Fri, 25 Sep 2026 14:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/war-hbo-sky-review-sienna-miller-dominic-west/
+### Investing in the Next Generation of Soccer Stars
+Fri, 25 Sep 2026 18:34:10 +0000 — https://www.thewrap.com/industry-news/business/nomadar-buys-fox-soccer-academy/
 
-HBO and Sky’s slick British legal drama by prolific creator George Kay has enough going for it to make anyone want to watch. It is set in modern-day London. The first season (of two already ordered for this co-production ) stars two talented and well-known actors and the supporting cast is also superb. There is glamour and the dialogue is witty and crisp in this slow moving, unpredictable series. Although “War” starts brisk with fiery monologues from the lawyers about bringing down the opposing party, the series soon breaks down into subplots, meandering scenes and even more characters. Most move the story along, a few don’t. For example, in the sixth episode, a scene suddenly reveals that barrister David Schill (Miles Jupp) has a premature baby in the hospital. Schill is in scenes before this without a mention of the emergency. These sudden forays risk throwing off what the show proposes, a structured, down-and-dirty look behind the scenes of how law firms handle big, news-making cases. Unlike Kay’s previous shows (“Lupin,” “Killing Eve,” “Hijack”), “War” has no action scenes, no explosives or physical fights, everything relies on the dramatic storytelling. It’s got to be tight or the mind wanders, plus the pace is, did we say, slow? James McArdle, Sienna Miller and Phoebe Fox in War. (Sky/HBO) Let’s fade in: Gorgeous movie star Carla Duval (Sienna Miller) and her handsome tech titan husband, Morgan Henderson (Dominic West) are heading toward divorce after 10 years of marria
+While money is tight in other sectors, investors are pouring dollars into sports and the businesses that support teams and players. Sports technology provider Nomadar is going so far as to bet on the next-generation of growth for soccer in America by buying Fox Soccer Academy, which trains young players hoping for college and professional careers. The theory is that the growing popularity of soccer will get more youngsters to play the game. Better young players will make the American teams stronger and make the game even more popular potentially minting future stars. But the big story in finance was Paramount settling the antitrust lawsuit that had stalled its $110 billion acquisition of Warner Bros. Discovery, with many in Hollywood shocked that California Attorney General Rob Bonta struck an agreement that didn t include any significant divestitures. The deal is now set to clear in the next few weeks but the drama is unlikely to end as the company deals with debt and cuts staff. Thanks for reading and please send tips to jon.lafayette@thewrap.com P.S. Hollywood’s latest round of consolidation is still playing out, and there are plenty of questions about what comes after it. The people who price, finance and navigate these deals take the stage at TheGrill on Sept. 30. Subscribers get 30% off with code WRAPPROVIP THE DEEP DIVE Young players training at the Fox Soccer Academy (Photo courtesy of Fox Soccer Academy) Investing in Soccer by Betting on Youth Sports The World Cup ra
 
-### Seth Meyers Suspects Trump Is Secretly Thrilled by Judge Overturning His Press Ban
-Fri, 25 Sep 2026 13:52:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-trump-secretly-thrilled-judge-overturned-press-ban/
+### Where Does the Best Picture Oscar Race Stand After the Lackluster Festivals?
+Fri, 25 Sep 2026 18:21:59 +0000 — https://www.thewrap.com/creative-content/movies/best-picture-oscar-predictions-2027-after-festivals/
 
-A judge overturned President Trump s ban of CNN, Politico and MS NOW from the White House on Thursday and, though the reporters were still denied access on Thursday morning, Seth Meyers has a hunch that Trump is secretly thrilled about the decision. During his A Closer Look segment on Thursday night, the NBC host noted that the president s ban was overturned, because it was done without constitutionally adequate due process. After joking that Trump likely couldn t even say constitutionally adequate due process and in fact, might actually resign if someone put those words on his teleprompter Meyers added that Trump is probably happy about the call. Now, Trump will pretend to be upset by this ruling, but I bet he s secretly thrilled to have the cameras back because while they were gone, right-wing TV outlets tried to pick up the slack, but they were missing some crucial equipment, Meyers explained. At that, a clip from a White House ribbon cutting ceremony earlier this week began playing one that went viral, because not one word Trump said could be heard , because there were no microphones set up by press. That said, Meyers did offer a rare bit of praise for the president in this case. Seriously, though, I rarely give Trump compliments on this show, but I have to say, best speech he s ever given, Meyers joked. I mean, that s how it should sound when he does his next State of the Union address. You can watch Seth Meyers full A Closer Look segment in the video above. The post Set
+With the Venice, Telluride and Toronto film festivals in the rearview mirror and the New York Film Festival kicking off on Friday, we should have a pretty good idea of what this year’s awards race will look like. Shouldn’t we? In a way, yes, we should. But after a relatively underwhelming Cannes Film Festival back in May, the September trio of festivals was also underwhelming, and the New York lineup is light on much that could alter the race. So let’s pick through what we’ve seen and what we expect to happen when the 10,000+ members of the Academy of Motion Picture Arts and Sciences get around to voting in the Best Picture category in early January. We’ll separate them into groups. Matt Damon in The Odyssey (Credit: Universal Pictures) Contenders that have already been released The big one in this category, of course, is Christopher Nolan’s “The Odyssey,” an epic that became the de facto frontrunner when it was released on July 17 and hasn’t budged from that position since then. It did extremely well at the box office, reviews have been strong and it epitomizes a year in which lots of high-profile films tell stories about how we tell stories, with others in that camp including “The Debut,” “Elsinore,” “Digger,” “Primetime” and “Ink.” Being a wire-to-wire favorite isn’t easy, but Nolan did it three years ago with his previous film, “Oppenheimer,” another third-week-of-July release. Lots of directors earn back-to-back Best Picture nominations – Paul Thomas Anderson did it last
 
-### Forget Quibi; Jeffrey Katzenberg Is Launching a Next-Gen AI Animation Studio
-Fri, 25 Sep 2026 13:26:48 +0000 — https://www.thewrap.com/industry-news/business/jeffrey-katzenberg-ai-animation-studio/
+### Morning Joe Says Justice Will Be Done After Trump s Press Ban: That Time Is Coming
+Fri, 25 Sep 2026 18:21:44 +0000 — https://www.thewrap.com/media-platforms/journalism/morning-joe-trump-press-ban-white-house-dinner-video/
 
-Jeffrey Katzenberg has a vision for the next phase of Hollywood, and he’s jumping in to make it happen. Just after issuing a manifesto on Elon Musk’s X earlier this week urging Hollywood to embrace rather than fear AI, he spoke to WaxWord about his plans to launch a new animation studio focused on making quality film and television programming using the new technology. “For me, it is time for artists, creatives, storytellers, to actually seize the day,” he said. “These new AI tools are about innovation and opportunity. If barriers and cost come down, more films will get made, there will be more jobs, new forms of storytelling will emerge.” Katzenberg, one of the most accomplished Hollywood executives of our time, has spent much of the last 10 years building relationships in Silicon Valley, and the last eight months closely following the evolution of generative AI. And what he has seen of AI output in the last few months convinced him that something revolutionary has arrived. “Up until recently it was slop,” he said. “It didn’t hold any interest for me. That has changed only in the last couple of months for me in ways I don’t think we can ignore anymore. Where they [the technologies] are today, where we are likely to be in coming months, in a year or two or three is a real transformative moment.” It is true that Katzenberg had already seen the future a couple of times, whether in evangelizing for 3D filmmaking in Hollywood, which never really materialized, or in launching the 
+The hosts of Morning Joe took the Trump administration to task Friday morning over its handling of CNN, Politico and MS NOW s press access to the White House yesterday, warning that justice will be done for people in this administration ignoring court orders. On Thursday, a federal judge temporarily blocked President Trump s move to ban CNN, MS NOW and Politico from the White House over the organizations alleged fake news reporting on him and his administration. Despite that, journalists from those outlets struggled to regain access throughout the day Thursday, including during Trump s state dinner with Chinese President Xi Jinping. The Secret Service confiscated the [press] badges of those who tried to get in. Who gave them that order? Because whoever gave them that order should go to jail, host Joe Scarborough said Friday. That s contempt of court. There s an order out there. I really want to know what happened yesterday morning. There will be a time when justice will be done for people in this administration ignoring court orders, Scarborough continued. There will be a time when the masks will be taken off of ICE agents and justice will be done for every person that they beat, for every person that they jailed, for every person that they starved, for every person that they tortured. That time is coming. I want to know, he added. It s time to start writing this down, and it s time to start preparing for that day when Donald Trump is not there to protect you. You can watch t
 
-### Cambridge Abandons Full Investigation Into Hiring of Late Professor Jason Arday
-Fri, 25 Sep 2026 13:20:10 +0000 — https://www.thewrap.com/media-platforms/journalism/cambridge-professor-jason-arday-dead-investigation-update/
+### I Play Rocky, Ray Gunn Close Out AFI Fest s Red Carpet Lineup
+Fri, 25 Sep 2026 18:01:35 +0000 — https://www.thewrap.com/creative-content/movies/i-play-rocky-ray-gunn-afi-fest-lineup/
 
-The University of Cambridge has abandoned plans to fully investigate its hiring of Jason Arday, scaling back an inquiry into the late professor’s appointment amid questions about his academic record and personal history, according to The New York Times . Instead, the university will focus the first part of its review on whether Cambridge provided sufficient support to Arday as he faced accusations that he plagiarized portions of his doctoral thesis and embellished elements of his personal story. A second review will broadly examine the university’s hiring and academic misconduct policies, but Arday himself will not be its focus, the Times reported Friday. A Cambridge spokesperson disputed the Times’ characterization that the university had abandoned plans to fully investigate Arday’s hiring, telling TheWrap that the independent external review would examine “all relevant issues” surrounding his time at Cambridge, including the university’s recruitment and appointment processes for senior academic staff. The university said the terms of reference for the second part of the review have not yet been finalized and will be determined after an independent chair is appointed and has an opportunity to shape them. The Times reported that the approach could leave unanswered questions about how Cambridge hired Arday for a prestigious professorship in education in 2022 and the university’s role in promoting his biography. Vice Chancellor Deborah Prentice had previously promised a “thorou
+The American Film Institute just added a few more films to fill out the Red Carpet Premieres section at AFI Fest. Peter Farrelly’s “I Play Rocky” and Brad Bird’s “Ray Gunn” will join the red carpet lineup, AFI announced Friday. Farrelly’s biographical drama about the creation of Best Picture winner “Rocky,” starring Anthony Ippolito as Sylvester Stallone , recently premiered at the Toronto International Film Festival, where it was the first runner-up for the People’s Choice Award . Bird’s long-gestating animated feature “Ray Gunn,” which just got a first trailer on Wednesday, will screen at AFI Fest shortly after its BFI London Film Festival world premiere on Oct. 10. AFI Fest also announced a number of additions to its Special Screenings section on Friday, including Ava DuVernay s 14th, Tony Gilroy s Behemoth!, Simon Stone s Elsinore, Beth de Araújo s Josephine, Martin McDonagh s Wild Horse Nine and more. AFI FEST is where the world tells stories in the beating heart of Hollywood, said Bob Gazzale, AFI president and CEO, in a statement. This year, we are proud to celebrate 40 years of bringing artists and audiences together to be inspired in a powerful sense of community.” These films join a set of movies already announced as part of the AFI Fest slate. Travis Knight’s PG-13 stop-motion epic “ Wildwood ” will open the festival, while Sian Heder’s “CODA” follow-up “ Being Heumann ” will close it. “Project Hail Mary” filmmakers Phil Lord and Chris Miller will serve as guest ar
 
-### Dateline at 35: How the True Crime Sensation Became an Always-On Franchise
-Fri, 25 Sep 2026 13:15:00 +0000 — https://www.thewrap.com/media-platforms/tv/dateline-35-podcast-fast-multiplatform-franchise/
+### Universal Crosses $5 Billion at 2026 Box Office
+Fri, 25 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/industry-news/box-office/universal-2026-box-office-5-billion/
 
-For some younger true crime fans, Dateline is not a television show that became a podcast. It is a podcast that happens to have a television show attached. That reversal captures how far NBC s newsmagazine has traveled as it enters its 35th season. The franchise that once depended on viewers showing up to NBC at a scheduled hour now reaches audiences through a showcast feed (an audio version of the episodes) that recently surpassed 2 billion lifetime downloads, a dedicated 24/7 streaming channel, syndication and licensing, social platforms and live events. True crime itself is having a cultural moment, from the national attention surrounding the Lindsay Clancy trial to Netflix’s hit “Monster” anthology, and “Dateline” is finding new ways to meet that appetite across audio, streaming and social media. The franchise s multiplatform growth shows how the future of a legacy TV property may be determined not only by who wins the broadcast hour, but by whether it can build younger audiences and new revenue streams beyond television. That has become increasingly important as ABC’s “20/20” has led “Dateline” in total viewers for four consecutive seasons. On free ad-supported streaming, however, the venerable NBC newsmagazine has leapt ahead. Dateline 24/7 was available on 12 U.S. FAST platforms in the second quarter, making it the country s most widely distributed channel devoted to a single television property, according to exclusive Ampere Analysis data provided to TheWrap. That was
+Universal Film just won the $5 billion race at the 2026 box office. The studio announced Friday that it generated $1.788 billion domestically and $3.218 billion internationally, making it the first company to cross the $5 billion-threshold at the global box office. This marks the first time Universal has generated such a sum since 2017 — and only the third time ever after first doing so in 2015. This haul was aided in large part by a trio of box office heavy hitters: Christopher Nolan s The Odyssey (currently the year s No. 2 film at the global box office and Universal s biggest film of all time), Antoine Fuqua s Michael (No. 4 film at the global box office) and Aaron Horvath and Michael Jelenic s The Super Mario Galaxy Movie (No. 5). These three IP-fueled adaptations (if you want to call The Odyssey IP) each made $1 billion hauls on their own, with The Odyssey (still in theaters) earning roughly $1.73 billion, Michael making around $1.03 billion and The Super Mario Galaxy Movie raking in $1.01 billion. Universal Film also had a handful of heavy hitters that were outside the $1 billion club. Pierre Coffin s Minions & Monsters, the third film to star the iconic babbling yellow creatures and the seventh Despicable Me movie overall, has made $523 million globally to date. Curry Barker s Obsession stood out as a sleeper phenomenon, grossing $519 million worldwide. This makes it both the highest-grossing film festival acquisition of all time and the highest-grossing film with a bu
 
-### Trump’s War With the Press Keeps Escalating. How Long Can the Guardrails Hold? Analysis
-Fri, 25 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-press-war-white-house-guardrails-analysis/
+### 5 New Horror Movies to Stream in September
+Fri, 25 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/new-horror-movies-to-stream-september-2026/
 
-The Trump administration’s latest confrontation with the press ended, for now, with the institutional guardrails holding. But not for lack of the president trying to barrel his way through them. A federal judge on Thursday ordered the White House to restore access to CNN, MS NOW and Politico. The major television networks stood together rather than replace CNN in the White House TV pool. And reporters from the three barred outlets were eventually allowed back onto the grounds Thursday after initially being turned away despite the court’s order. But the episode marked the latest escalation in President Donald Trump’s confrontation with the media and raised a more fundamental question about what happens when the White House keeps pushing against both institutional norms and constitutional limits. As the administration keeps escalating its confrontations with the press — including denying CNN and MS NOW reporters access to cover the arrival of Chinese President Xi Jinping for a state dinner even after the ruling — what happens when those protections are tested again? The administration has been remarkably consistent in its clashes with the media. Trump has regularly sued or threatened to sue news organizations. The White House restricted the Associated Press’ access in February 2025 after it declined to adopt Trump’s preferred “Gulf of America” terminology, then took control of selecting which news organizations participate in the presidential press pool, a role previously handl
+The spooky season is nearly upon us, but that doesn t mean the horror movie binges can t happen early. October is reserved as the great horror movie month, but plenty of streamers are getting ahead of the game and adding scary stories to their libraries a month early. And if they re already there, why not just start watching your favorites – both new and old – a bit early? From classics like Carrie to new wonders like Backrooms, there are plenty already up to start Halloween just a bit early. Here are five horror movies to stream in September. Sissy Spacek in Carrie. (Credit: Silver Screen Collection/Getty Images) Carrie This Stephen King story has been done over and over again – but nothing has topped the original. For those looking for a lighter touch with sci-fi elements, “Carrie” follows a girl who develops telekinetic abilities at the same time she begins going through puberty. With an overbearing, religious mother at home and a group of mean-girl bullies at school, Carrie becomes a ticking time bomb as she is pushed further toward unleashing her new powers on the people who torment her. A new iteration of Carrie is coming in October, so now is the perfect time to return to the original. Renate Reinsve in Backrooms (Credit: A24) Backrooms Backrooms was one of the big horror hits of the summer, and it s finally streaming. The film was helmed by 20-year-old Kane Parsons and expanded on his popular YouTube series exploring the lore and concepts of the titular backrooms – a 
 
 ## Collider
 
-### 'Daredevil: Born Again' Star Officially Reacts to Shock Disney+ Cancellation
-Fri, 25 Sep 2026 15:20:12 GMT — https://collider.com/daredevil-born-again-season-3-cancellation-vincent-donofrio-reaction/
+### The 10 Most Quintessential 2000s Blockbusters
+Fri, 25 Sep 2026 19:29:12 GMT — https://collider.com/most-quintessential-2000s-blockbuster-movies/
 
-Marvel's Daredevil hasn't had the smoothest television journey, having faced multiple setbacks and cancellations . The superhero's first series premiered on Netflix in 2015 but was cancelled in 2018 after just three seasons . Four years later, Disney+ revived the series with Daredevil: Born Again , ordering an 18-episode season with Matt Corman and Chris Ord as head writers. Unfortunately, the revival will end next year, as it was announced three days ago that Season 3 would be its last.
+Blockbuster movies have been a huge factor in how Hollywood functions. While the ‘90s served as a huge turning point in the expectations of blockbusters, the turn of the century took the baton and went even harder and faster. The 2000s played host to an assortment of incredible blockbusters, but there are only 10 titles that truly represent the decade .
 
-### 'Forgotten Island' Stars H.E.R. and Liza Soberano on Giving Filipino Culture Its "Flowers"
-Fri, 25 Sep 2026 14:56:33 GMT — https://collider.com/her-liza-soberano-forgotten-island-interview/
+### Officially Ranking Every Original Star Wars Trilogy Theatrical Cut
+Fri, 25 Sep 2026 19:20:11 GMT — https://collider.com/original-star-wars-trilogy-movies-ranked/
 
-"Don't stop believin'. Hold on to the feelin'." These iconic lyrics from Journey are the mantra to DreamWorks' latest movie, Forgotten Island . Set in the Philippines, the original movie centers on two best friends — Jo ( H.E.R. ) and Raissa ( Liza Soberano ) — on the eve of a big move when they find the legendary island of Nakali, a place they had dreamed of finding since they were kids. The longer they stay and interact with Nakali's mystical creatures, the more they risk forgetting each other. With the stylish flair of Puss in Boots: The Last Wish directors and a supporting cast featuring the likes of Dave Franco and Jenny Slate , Forgotten Island is a high-octane magical adventure for all ages.
+Ask the nerdiest person in your circle about the drama surrounding the theatrical versions of the original Star Wars trilogy, and it's possible you'll get an earful of about three decades' worth of history. In the absolutely deafening lead-up to the prequel trilogy (if you lived through that, you remember), George Lucas released much-publicized and enormously successful re-cuts of the films that made him, christened the Star Wars "Special Editions." Released in succession in 1997, this trio of blockbusters, enhanced with deleted scenes and then-state-of-the-art CGI visual effects, the Special Editions grossed what would be equal to nearly $900 million in 2026. Not bad for movies that had been in theaters and on home video for decades.
 
-### 'Scrubs' Greatest Episodes To Watch Before Season 2, According to the Cast
-Fri, 25 Sep 2026 14:01:12 GMT — https://collider.com/best-scrubs-episodes-before-season-2-cast-picks-zach-braff/
+### The 10 Greatest Mario Video Games of All Time, Ranked
+Fri, 25 Sep 2026 19:08:11 GMT — https://collider.com/best-mario-games-all-time-ranked/
 
-With the second season of the Scrubs revival on its way, there's no better time to head back to Sacred Heart and revisit some of the episodes that made the series endure . Who better to guide the rewatch than the people who actually lived it? Zach Braff , Sarah Chalke and Donald Faison share with Collider their picks for the episodes fans should return to ahead of the new season dropping on Disney+ — and you're in for a roller-coaster of emotion.
+In terms of immediate recognition combined with consistent quality and influence throughout the gaming industry, no singular video game franchise comes close to the impact and importance of the Super Mario series. Whether it be the hundreds of memorable spinoffs or the timeless platforming experiences that made the character an icon, each generation of gaming manages to have its own must-play Mario masterpiece that defines the generation.
 
-### ‘Scrubs’ Stars Zach Braff and Donald Faison Officially Confirm Next Revival Series [Exclusive]
-Fri, 25 Sep 2026 14:01:12 GMT — https://collider.com/scrubs-zach-braff-donald-faison-fake-doctors-real-friends-podcast/
+### Javier Bardem and Penélope Cruz Take Their New Thriller to Terrifying Places | TIFF Review
+Fri, 25 Sep 2026 18:50:27 GMT — https://collider.com/bunker-review-javier-bardem-penelope-cruz-thriller/
 
-Before the Scrubs revival was announced by the trades in 2024, fans of the original series had already experienced their own kind of reunion. Zach Braff and Donald Faison had spent years revisiting the show together through their rewatch podcast, Fake Doctors, Real Friends , bringing J.D. and Turk's friendship back to life in a very different format. Speaking to Collider ahead of the Scrubs Season 2 revival, Braff and Faison exclusively revealed that the podcast will be returning , with the pair currently in “final negotiations” to bring it into a studio setting .
+Director Florian Zeller isn’t exactly known for making movies about happy homes. After The Father and The Son , the playwright-turned-filmmaker is back with Bunker , another story about a family struggling behind closed doors. This time, though, we get real-life couple Javier Bardem and Penélope Cruz as Miguel and Sofia, a long-married pair living in London with their two daughters. They’re the epitome of big city wealth, hiring a nanny to look after their kids, going to art gallery openings, and mingling with folks who come from old money. From the outside, they have everything — but on the inside, things are far less settled.
 
-### 'Ghosts' Creators Drop a New CBS Sitcom That's a Spooky Good Time | Review
-Fri, 25 Sep 2026 13:01:12 GMT — https://collider.com/eternally-yours-review-cbs-ghosts-vampire-comedy/
+### Sam Raimi's "Groovy" Horror Sequel Officially Scares HBO Max This October
+Fri, 25 Sep 2026 18:42:08 GMT — https://collider.com/sam-raimi-evil-dead-burn-streaming-hbo-max-october-2026/
 
-While Ghosts Season 6 is still a month away, showrunners Joe Port and Joe Wiseman are about to deliver their second supernatural sitcom for CBS . The new series, titled Eternally Yours , will premiere on October 8 in Ghosts ’ usual Thursday night slot after the Young Sheldon spin-off Georgie and Mandy’s First Marriage . Though it continues to be baffling that CBS isn’t pairing the series with its spooky older sister, after seeing the first episode, it’s clear Port and Wiseman haven’t lost their touch.
+October movie nights have a way of starting with a familiar question: what’s actually scary enough to watch? The Evil Dead franchise has offered a reliable answer for decades, even as it has traded Ash Williams’ cabin for new characters and increasingly terrible family gatherings. This summer’s Evil Dead Burn gave the Deadites another household to tear apart .
 
-### 3 Elite Series to Binge on Netflix This Weekend (Sep 26-27)
-Fri, 25 Sep 2026 12:41:11 GMT — https://collider.com/netflix-shows-binge-weekend-september-26-2026/
+### 10 S-Tier Thriller Movies From the Last 5 Years
+Fri, 25 Sep 2026 18:29:12 GMT — https://collider.com/s-tier-thriller-movies-last-5-years/
 
-After Season 1 focused on Jeffrey Dahmer , Season 2 on the Menendez brothers, and Season 3 on Ed Gein , the prolific Ryan Murphy added a new season to his controversial Monster anthology series last week, and it has, unsurprisingly, shot straight to the streaming summit. Monster: The Lizzie Borden Story , starring If I Had Legs I'd Kick You 's Ella Beatty , is already making headlines for both the right and wrong reasons, proving beyond doubt that Murphy's impact on our streaming habits cannot be understated. But what else should you be watching? Here are three shows you should binge-watch on Netflix this weekend .
+There's a specific feeling I get when a thriller's ending actually clicks , when all the pieces I'd half-noticed earlier suddenly line up at once. It is the best feeling, being honest, when I am amazed at the ending and it’s nowhere close to my imagination . Almost every movie on this list gave me that feeling, a final scene where I ended up thinking about way longer than the runtime itself.
 
-### ‘Lanterns’ Biggest Connection to Superman Isn’t Nathan Fillion’s Guy Gardner
-Fri, 25 Sep 2026 12:24:11 GMT — https://collider.com/lanterns-superman-guy-gardner-phantom-zone-connection-meaning/
+### 'Fallout' Star Officially Boards Horror Icon's Newest Nightmare
+Fri, 25 Sep 2026 18:26:21 GMT — https://collider.com/fallout-star-ella-purnell-cast-ari-aster-scapegoat/
 
-Editor's Note: The following article contains spoilers for Lanterns Episode 6.
+Ari Aster has assembled a cast for Scapegoat that would draw attention even if we knew nothing else about the movie, which is convenient because details outside recent casting announcements are essentially nonexistent at this point. Scarlett Johansson , Jacob Elordi , and Jude Law are already attached to his next A24 project , which he will write and direct. What Aster has been less willing to share is what any of them will actually be doing in it.
 
-### The 5 Best 20-Movie Collections on Apple TV Right Now
-Fri, 25 Sep 2026 12:23:11 GMT — https://collider.com/best-20-movie-collections-apple-tv-september-2026/
+### The Best Sci-Fi Movie of 2026 Officially Passes 6 Months in Global Streaming’s Top 10
+Fri, 25 Sep 2026 18:20:11 GMT — https://collider.com/project-hail-mary-streaming-top-10-six-month-milestone/
 
-The movie business is going through a great period right now, both on the big screen and on streaming. Finally, both businesses seem to have found a balance, a way to coexist that makes sense for everyone, most importantly, the avid movie consumer who is always looking for their next watch. Many exciting movies are currently playing in theaters, from strong summer plays like The Odyssey to new arrivals like Primetime . However, streaming is not falling behind, with services like Apple TV offering great deals.
+Science fiction is on a real tear at the moment. Previously a niche subject that would give us thought-provoking, yet critically unsuccessful films (unless you're George Lucas or Christopher Nolan ), it has truly exploded in the last few years following the work of filmmakers like Denis Villeneuve , whose work on Dune proved that sci-fi could be both critical catnip and commercially prosperous. His work has certainly inspired plenty of filmmakers, and 2026 gave us one of the best and most seen movies in recent times.
 
-### John Wick’ Meets ‘Constantine’ in Paul Bettany’s Fantasy Epic Surging on Free Streaming
-Fri, 25 Sep 2026 12:00:11 GMT — https://collider.com/paul-bettany-fantasy-legion-streaming-success-tubi-september-2026/
+### Taylor Sheridan's 'Landman' Officially Returns After Months of Delays
+Fri, 25 Sep 2026 18:00:11 GMT — https://collider.com/landman-season-3-filming-production-update-taylor-sheridan/
 
-The recent success of Zach Cregger ’s Resident Evil appears to be inspiring audiences to revisit the original Resident Evil movie franchise , headlined by Milla Jovovich . It also seems to be rubbing off on other fantasy horror movies of that era, such as the Underworld series, the forgotten vampire movie Priest , and another movie that was released in 2010. Like Priest , it was directed by Scott Stewart and headlined by MCU alum Paul Bettany . However, while Priest was a box-office underperformer, its predecessor was a modest hit. It’s now among the most-watched titles on the domestic Tubi chart, according to FlixPatrol.
+Taylor Sheridan has left us hanging for long enough, and we're desperate to get back to work down in Texas. After months of uncertainty, Sheridan's most popular new series has delivered the update fans have been waiting for. Considering Season 2 wrapped all the way back in January, it’s fair to say the wait has been a little longer than anyone expected. Production had slipped much later than we're used to seeing, particularly from the first two seasons of the Paramount+ breakout . The show's co-creator, Christian Wallace , had previously acknowledged that Season 3 was running behind, while Jordan said in August that Sheridan was still writing the season and expected filming to begin sometime in September .
 
-### 6 Most Perfect Miniseries Released Since 2010, Ranked
-Fri, 25 Sep 2026 11:52:11 GMT — https://collider.com/most-perfect-miniseries-since-2010-ranked/
+### Robert Pattinson Officially Delivers His Best Performance in 'Primetime' | Review
+Fri, 25 Sep 2026 17:47:51 GMT — https://collider.com/primetime-movie-review-robert-pattinson/
 
-Four of these six are based on real events , actual court cases , disasters, people who had to live through what's on screen, and that adds a kind of pressure most fiction never really has to deal with. Get it wrong and you're not just making bad television, you're distorting someone's actual life or death.
+“There used to be a pillory in every town. Now there’s a television in every home.” The line, delivered by Robert Pattinson ’s Chris Hansen near the end of Primetime , is as close as you’ll get to a thesis statement from the film. Primetime is a deep dive into the 2000s TV phenomenon To Catch a Predator , exploring the controversial program at its peak while examining themes of vigilante justice and true crime as entertainment, delivering its thoughts with an effortless blend of dark comedy and psychological thriller .
 

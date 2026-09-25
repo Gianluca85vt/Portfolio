@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-25T15:33:40.630Z
+# Manga — harvested 2026-09-25T20:07:49.533Z
 
 ## Anime News Network
 
-### That Time I Got Reincarnated as a Slime Season 4 Anime Returns for 3rd Part in July 2027, Clayman's Revenge Spinoff Anime Debuts in April
-Fri, 25 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/that-time-i-got-reincarnated-as-a-slime-season-4-anime-returns-for-3rd-part-in-july-2027-clayman-/.242181
+### Ace Combat 8: Wings of Theve Game Streams Opening Cinematic
+Fri, 25 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/ace-combat-8-wings-of-theve-game-streams-opening-cinematic/.242182
 
-Wataru Kajika's spinoff manga about Clayman debuted in April 2022
+Game launches on October 2 with Deluxe Edition debuting early on September 29
 
-### Smoking Behind the Supermarket with You ‒ Episode 12
-Fri, 25 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-12/.242185
+### New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere
+Fri, 25 Sep 2026 15:35:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201
 
-Even if the themes and takeaways from this episode are good and important for people to learn, I’m growing tired of this perpetual will-they-won’t-they romance.
+Kazuya Nomura directs new anime for <cite>Code Geass'</cite> 20th anniversary
 
-### This Week in Games - What's Old is New, What's Evil is Residing
-Fri, 25 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-09-25/what-old-is-new-what-evil-is-residing/.242073
+### Your Anime Rankings - Best of Summer 2026, Sep 16-22
+Fri, 25 Sep 2026 15:20:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.242195
 
-Jean-Karlo takes a look at the history of <i>Resident Evil</i> and mulls the future of VR games.
+Rebounding from a mid-season drop, <cite>Mushoku Tensei</cite> and <cite>Kaiju Girl Caramelise</cite> are back as strong as they started! Find out how your favorite shows performed in our weekly user rankings.
 
-### Game Review: Ace Combat 8: Wings of Theve
-Fri, 25 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/review/game/playstation-5-xbox-series-x/s-windows/ace-combat-8/wings-of-theve/.242166
+### Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles
+Fri, 25 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183
 
-Few games fly as high or as well as <cite>Wings of Theve</cite>.
+Sweet Shop adds <cite>Pandora, Dream Another Dream, Mothers, Red Riding Hood's Wolf Apprentice</cite>, more manga
 
-### Clevatess Season 2 ‒ Episode 12
-Fri, 25 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-12/.242159
+### The Fall 2026 Anime Trailer Watch Party Premieres Tonight!
+Fri, 25 Sep 2026 14:45:35 -0400 — https://www.animenewsnetwork.com/watch/2026-09-25/the-fall-2026-anime-trailer-party-premieres-tonight/.242200
 
-Vorden spent a year frolicking with the most heinous Supervillain Isekai Boyfriend that his universe has ever known. Even after a millennium, who else could possibly compare?
+The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.
 
-### Monochrome, Good Smile Unveil Ignisphere Mixed Media Project, Along With Project's Dawngazer Action RPG
-Fri, 25 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/monochrome-good-smile-unveil-ignisphere-mixed-media-project-along-with-project-dawngazer-action-rpg/.242176
+### Hell Mode Anime Gets 3rd Season for 'S-Rank Dungeon Conquest Arc'
+Fri, 25 Sep 2026 14:21:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/hell-mode-anime-gets-3rd-season-for-s-rank-dungeon-conquest-arc/.242198
 
-<cite>Unicorn Overlord</cite> director, character designer Takafumi Noma helms <cite>Dawngazer</cite> 2028 game
+Anime's 2nd season ended on Friday
 
-### WIT Studio's George Wada on Attack on Titan, Trust, and Taking on The One Piece
-Fri, 25 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/wit-studio-george-wada-on-attack-on-titan-trust-and-taking-on-the-one-piece/.241031
+### Dentsu Enters Partnership with Kodansha
+Fri, 25 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/dentsu-enters-partnership-with-kodansha/.242186
 
-"I consider One Piece one of Japan's most precious manga, so I'm really looking forward to bringing it to the world."
+Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs
 
-### The Worst Anime of Summer 2026
-Fri, 25 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/summer/.242008
+### Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels
+Fri, 25 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194
 
-I think we've all gotten a little fed up with seminal shojo classics getting the short end of the animation stick.
+Also: <cite>Oh Boy, Was I Wrong About Her</cite>, <cite>The Returned Tyrant Princess Rewrites Her Dark Past</cite>, more
 
-### Mushoku Tensei: Jobless Reincarnation III ‒ Episode 13
-Fri, 25 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei-jobless-reincarnation-iii/episode-13/.242158
+### Historié Volumes 1-2 Digital Manga Review
+Fri, 25 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465
 
-There were numerous chances where better choices from Rudeus would have stopped the chain-reaction of despair in his life.
+Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.
 
-### I Want to Love You Till Your Dying Day ‒ Episode 12
-Fri, 25 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-12/.242157
+### Please Excuse My Younger Brothers TV Anime Reveals More Cast, New Ending Theme
+Fri, 25 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/please-excuse-my-younger-brothers-tv-anime-reveals-more-cast-new-ending-theme/.242184
 
-The show definitely revolves around Mimi, but Mimi herself was almost never a main focus or a character whose journey I feel like I was following.
+Yōko Hikasa joins cast
 
-### The Apothecary Diaries Season 3 Anime's 2nd Trailer Reveals Eve's Ending Theme
-Fri, 25 Sep 2026 07:08:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/the-apothecary-diaries-season-3-anime-2nd-trailer-reveals-eve-ending-theme/.242175
+### 'Draw This, Then Die!' Anime Gets 2nd Season
+Fri, 25 Sep 2026 11:15:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/draw-this-then-die-anime-gets-2nd-season/.242193
 
-New season debuts on October 2
+Season 1 ended on Friday
 
-### Duel Masters Lost: Danzai no Shōnen Anime Reveals More Cast, Ending Theme in Main Promo Video
-Fri, 25 Sep 2026 05:40:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/duel-masters-lost-danzai-no-shonen-anime-reveals-more-cast-ending-theme-in-main-promo-video/.242179
+### Tatsuki Fujimoto 17-26 Anime, My Melody & Kuromi Stop-Motion Animated Series Nominated for International Emmy
+Fri, 25 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/tatsuki-fujimoto-17-26-anime-my-melody-and-kuromi-stop-motion-animated-series-nominated-for-/.242190
 
-4-episode series debuts on October 9
+International Emmy Awards announce winners on November 23
 
 ## Crunchyroll News
 
@@ -130,6 +130,21 @@ The Exiled Heavy Knight Knows How to Game the System revealed a new visual and m
 
 ## MyAnimeList News
 
+### Tensei shitara Slime Datta Ken 4th Season Part 2 Announced for Summer 2027, Clayman Revenge Spin-off Gets TV Anime for Spring 2027
+Fri, 25 Sep 2026 12:11:03 -0700 — https://myanimelist.net/news/74759618?_location=rss
+
+The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere in July 2027. The official website simultaneously announced a television anime adaptation of Wataru Kajika s spin-off manga Tensei shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman s Revenge), revealing the main staff, teaser visual (pictured right)...
+
+### Hell Mode Third Season in Production
+Fri, 25 Sep 2026 10:22:55 -0700 — https://myanimelist.net/news/74759332?_location=rss
+
+The 13th and final episode of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season (Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2) ended with an announcement on Friday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Yokohama Animation Lab, the first season aired in 12 episodes in Winter 2026. The second season premiered on July 4. Sentai Filmworks licens...
+
+### Kore Kaite Shine Gets Second Season
+Fri, 25 Sep 2026 09:47:16 -0700 — https://myanimelist.net/news/74759213?_location=rss
+
+The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda s comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...
+
 ### Yozakura-san Chi no Daisakusen 2nd Season Part 2 Announces Additional Cast, Character Promo
 Fri, 25 Sep 2026 03:08:52 -0700 — https://myanimelist.net/news/74757874?_location=rss
 
@@ -174,21 +189,6 @@ The main promotional video for the Japan and France co-produced original televis
 Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss
 
 Production company TOHO animation opened an official website for a television anime adaptation of Shoco s Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....
-
-### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast Pair
-Thu, 24 Sep 2026 02:20:26 -0700 — https://myanimelist.net/news/74754105?_location=rss
-
-The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additional pair of cast for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Voice actors Kazuyuki Okitsu (Hidarikiki no Eren) and Shiki Aoki (Helck) are joining the second season as Marius Bassett and M...
-
-### Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru Unveils Additional Cast, Theme Songs, Main Promo for Second Cour
-Wed, 23 Sep 2026 16:46:28 -0700 — https://myanimelist.net/news/74753120?_location=rss
-
-The official website for the television anime adaptation of Necoco and Lee Brocco s Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru (The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge) manga unveiled additional cast, a key visual (pictured), the theme songs, and main promotional video for second cour on Thursday. The second half began with the 13th episode on October 2 at 12:26 p.m. on MBS and TBS Super Animeism Turbo block, followed by BS Nippon Televis...
-
-### Light Novel Mamahaha no Tsurego ga Motokano datta Ends with 14th Volume
-Wed, 23 Sep 2026 09:18:06 -0700 — https://myanimelist.net/news/74751890?_location=rss
-
-The official X account for Kyousuke Kamishiro and TakayaKi s Mamahaha no Tsurego ga Motokano datta (My Stepmom s Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...
 
 ## Otaku USA
 
