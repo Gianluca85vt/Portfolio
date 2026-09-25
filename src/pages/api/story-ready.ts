@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { readFile } from '../../lib/github';
 import { notifyStoryReady } from '../../lib/notify';
+import { hookAuthorised } from '../../lib/hook';
 
 export const prerender = false;
 
@@ -9,12 +10,18 @@ export const prerender = false;
  * frames, to have the email sent from here — where the SMTP credentials already
  * live, the same arrangement as the draft review email.
  *
- * No shared secret, for the same reason as draft-notify: every slug in the
- * payload is checked against the repository and must be a published article
- * that exists. The worst a guess can do is make a real evening's frames get
- * emailed twice.
+ * Every slug in the payload is checked against the repository and must be a
+ * published article that exists, and when HOOK_SECRET is set the caller must
+ * also present it — see lib/hook.ts.
  */
 export const POST: APIRoute = async ({ request }) => {
+  if (!(await hookAuthorised(request))) {
+    return new Response(JSON.stringify({ error: 'Not allowed.' }), {
+      status: 401,
+      headers: { 'content-type': 'application/json' },
+    });
+  }
+
   let payload: { day?: string; slugs?: string[] };
   try {
     payload = await request.json();

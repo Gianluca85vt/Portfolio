@@ -101,15 +101,22 @@ jobs:
       # unattended job never needs the mailbox password.
       - name: Email the frames
         if: steps.pick.outputs.slugs != ''
+        # Through the environment rather than interpolated into the script, and
+        # the hook secret with them: the endpoint refuses callers without it
+        # once HOOK_SECRET is set on Vercel (see src/lib/hook.ts).
+        env:
+          PICKED: ${{ steps.pick.outputs.slugs }}
+          HOOK_SECRET: ${{ secrets.HOOK_SECRET }}
         run: |
           set -euo pipefail
           day=$(TZ=Europe/Rome date +%F)
-          slugs=$(printf '%s' "${{ steps.pick.outputs.slugs }}" | tr ' ' '\n' \
+          slugs=$(printf '%s' "$PICKED" | tr ' ' '\n' \
             | grep -v '^$' | sed 's/.*/"&"/' | paste -sd, -)
 
           code=$(curl -s -o /tmp/out -w '%{http_code}' \
             -X POST https://www.gianlucascattarella.it/api/story-ready \
             -H 'content-type: application/json' \
+            -H "x-hook-secret: ${HOOK_SECRET:-}" \
             -d "{\"day\":\"$day\",\"slugs\":[$slugs]}") || true
 
           echo "HTTP $code — $(cat /tmp/out)"

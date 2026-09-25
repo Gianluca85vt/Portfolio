@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { isDraft, readFile } from '../../lib/github';
 import { notifyNewDraft } from '../../lib/notify';
+import { hookAuthorised } from '../../lib/hook';
 
 export const prerender = false;
 
@@ -10,11 +11,18 @@ export const prerender = false;
  * point: an unattended agent running eleven times a day never needs the
  * mailbox password.
  *
- * There is no shared secret either, deliberately. Instead the slug is checked
- * against the repository and must actually exist there as an unpublished draft,
- * so the worst anyone can do by guessing is make a real draft get emailed twice.
+ * The slug is checked against the repository and must actually exist there as
+ * an unpublished draft. When HOOK_SECRET is set the caller must also present it,
+ * so a stranger cannot loop real drafts into the inbox — see lib/hook.ts.
  */
 export const POST: APIRoute = async ({ request }) => {
+  if (!(await hookAuthorised(request))) {
+    return new Response(JSON.stringify({ error: 'Not allowed.' }), {
+      status: 401,
+      headers: { 'content-type': 'application/json' },
+    });
+  }
+
   let payload: { slug?: string };
   try {
     payload = await request.json();

@@ -71,6 +71,11 @@ jobs:
           fi
 
       - name: Email a review link for every draft added or revised
+        # Presented to /api/draft-notify, which refuses callers without it once
+        # HOOK_SECRET is also set on Vercel (see src/lib/hook.ts). Empty until
+        # the secret exists, and an empty one is ignored while Vercel has none.
+        env:
+          HOOK_SECRET: ${{ secrets.HOOK_SECRET }}
         run: |
           set -euo pipefail
 
@@ -163,6 +168,7 @@ jobs:
             code=$(curl -s -o /tmp/out -w '%{http_code}' \
               -X POST https://www.gianlucascattarella.it/api/draft-notify \
               -H 'content-type: application/json' \
+              -H "x-hook-secret: ${HOOK_SECRET:-}" \
               -d "{\"slug\":\"$slug\"}") || true
 
             echo "  HTTP $code — $(cat /tmp/out)"
