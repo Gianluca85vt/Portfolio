@@ -1,9 +1,9 @@
 ---
-title: "EA Sports FC 27"
+title: "EA Sports FC 27 is a good football game with a hub problem"
 date: 2026-09-22
 category: Games
 cover: /img/blog/ea-sports-fc-27-review/shot-01.jpg
-excerpt: Six verdicts average 7.5 across a 2.5-point range. The argument is not about the football — it is about the open-world hub EA spent the year building.
+excerpt: Six verdicts average 7.5 across a 2.5-point range. What splits them is The Grounds, the open-world hub EA spent the year building.
 reviewOf: "EA Sports FC 27"
 score: 7.5
 scoreSources:
