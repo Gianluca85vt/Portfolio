@@ -15,8 +15,12 @@ export const prerender = false;
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="robots" content="noindex, nofollow" />
     <title>{blog.name} — backend</title>
-    <link rel="icon" href="/favicon.ico" />
-    <style>
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <!-- Global, not scoped: this page is its own document, and most of what it
+         styles — the article list, the toolbar, the image chips — is created by
+         the script below. Scoped rules only match elements written in the
+         template, so those were left as bare browser buttons. -->
+    <style is:global>
       :root {
         --ink: #d7e2ea;
         --ground: #0c0c0c;
@@ -117,18 +121,8 @@ export const prerender = false;
       textarea.src { width: 100%; height: 62vh; border: 0; border-radius: 0; resize: vertical;
                      background: #0a0a0c; padding: 16px; line-height: 1.65;
                      font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 13px; }
-      .preview { height: 62vh; overflow: auto; padding: 20px 22px; }
-      .preview h1 { font-size: 1.5rem; line-height: 1.15; margin: 0 0 4px; }
-      .preview h2 { font-size: 1.05rem; margin: 26px 0 8px; }
-      .preview p { margin: 0 0 13px; }
-      .preview img { max-width: 100%; border-radius: 10px; }
-      .preview figure { margin: 18px 0; }
-      .preview figcaption { font-size: .78rem; color: var(--muted); margin-top: 7px; }
-      .preview blockquote { border-left: 2px solid var(--accent); margin: 0 0 13px; padding-left: 14px; color: var(--muted); }
-      .preview code { background: #0a0a0c; padding: 1px 5px; border-radius: 4px; font-size: .88em; }
-      .preview hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
-      .preview .ph { border: 1px dashed var(--line-firm); border-radius: 10px; padding: 22px;
-                     text-align: center; color: var(--muted); font-size: .8rem; }
+      /* The preview is a sandboxed frame, styled from inside — see PREVIEW_CSS. */
+      .preview { display: block; width: 100%; height: 62vh; border: 0; background: var(--panel); }
 
       .foot { display: flex; gap: 9px; align-items: center; flex-wrap: wrap;
               padding: 12px 15px; border-top: 1px solid var(--line); }
@@ -192,7 +186,14 @@ export const prerender = false;
               </div>
               <div class="pane">
                 <div class="toolbar"><span style="font-size:.72rem;color:var(--muted)">Preview</span></div>
-                <div class="preview" id="preview"></div>
+                <!-- A draft is text somebody else may have written, and its body
+                     is HTML. Rendered straight into this page, an onerror in an
+                     editor's draft would run with the admin's session the moment
+                     the admin opened it. The frame is sandboxed without
+                     allow-scripts, so nothing inside it ever executes; same-origin
+                     is allowed only so this page can write into it. -->
+                <iframe class="preview" id="preview" title="Preview"
+                  sandbox="allow-same-origin allow-popups allow-popups-to-escape-sandbox"></iframe>
               </div>
             </div>
 
@@ -247,7 +248,6 @@ export const prerender = false;
       }
       const esc = (s) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]);
 
-      let me = { role: 'editor', name: '' };
       let all = [];
       let filter = 'drafts';
       let open = null;      // slug currently open
@@ -415,7 +415,9 @@ export const prerender = false;
 
         const el = $('gate-msg');
         el.className = 'msg bad';
-        el.innerHTML = lines.map((l, i) => (i === 0 || i === lines.length - 1 ? `<p style="margin:0 0 8px">${l}</p>` : `<div style="font-family:ui-monospace,monospace;font-size:.78rem;opacity:.85">${l}</div>`)).join('');
+        // Escaped: the host and cookie names are echoed back by the server from
+        // the request, so they are not ours to trust as markup.
+        el.innerHTML = lines.map((l, i) => (i === 0 || i === lines.length - 1 ? `<p style="margin:0 0 8px">${esc(l)}</p>` : `<div style="font-family:ui-monospace,monospace;font-size:.78rem;opacity:.85">${esc(l)}</div>`)).join('');
       }
 
       function say(id, text, kind = '') {
@@ -436,7 +438,6 @@ export const prerender = false;
         const { ok, body } = await api('/api/cms/articles');
         if (!ok) return say('msg', body.error ?? 'Could not read the archive.', 'bad');
         all = body.articles ?? [];
-        me = { role: body.role, name: body.name };
         head = body.head;
         $('who').textContent = `${body.name} · ${body.role}`;
         $('publish').classList.toggle('hidden', body.role !== 'admin');
@@ -635,11 +636,46 @@ export const prerender = false;
           .map((p) => (/^\s*<(h2|figure|hr|blockquote|li|div)/.test(p.trim()) ? p : `<p>${p.trim()}</p>`))
           .join('\n');
 
-        $('preview').innerHTML =
+        // Written into the sandboxed frame's own document, where scripting is
+        // off: inline handlers and script tags in the draft stay inert text.
+        const doc = previewDoc();
+        if (!doc) return;
+        doc.body.innerHTML =
           `<h1>${esc(get('title')) || '<span style="color:var(--muted)">Untitled</span>'}</h1>` +
           `<p style="color:var(--muted);font-size:.8rem;margin-bottom:18px">${esc(get('category'))} · ${esc(get('date'))}</p>` +
           html;
       }
+
+      const PREVIEW_CSS = `
+        :root { --ink: #d7e2ea; --muted: rgba(215,226,234,.45); --line: rgba(215,226,234,.14);
+                --line-firm: rgba(215,226,234,.28); --accent: #b600a8; }
+        html, body { margin: 0; background: #141318; color: var(--ink); }
+        body { padding: 20px 22px; font: 15px/1.55 -apple-system, "Segoe UI", Roboto, sans-serif; }
+        a { color: var(--ink); }
+        h1 { font-size: 1.5rem; line-height: 1.15; margin: 0 0 4px; }
+        h2 { font-size: 1.05rem; margin: 26px 0 8px; }
+        p { margin: 0 0 13px; }
+        img { max-width: 100%; height: auto; border-radius: 10px; }
+        figure { margin: 18px 0; }
+        figcaption { font-size: .78rem; color: var(--muted); margin-top: 7px; }
+        blockquote { border-left: 2px solid var(--accent); margin: 0 0 13px; padding-left: 14px; color: var(--muted); }
+        code { background: #0a0a0c; padding: 1px 5px; border-radius: 4px; font-size: .88em; }
+        hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
+        .ph { border: 1px dashed var(--line-firm); border-radius: 10px; padding: 22px;
+              text-align: center; color: var(--muted); font-size: .8rem; }
+      `;
+
+      // The frame's document, once it has loaded. Only its body is replaced on
+      // each keystroke, so the reader's scroll position survives the redraw.
+      function previewDoc() {
+        const doc = $('preview').contentDocument;
+        return doc && doc.body && doc.getElementById('preview-ready') ? doc : null;
+      }
+
+      $('preview').addEventListener('load', render);
+      $('preview').srcdoc =
+        `<!doctype html><html><head><meta charset="utf-8"><base href="${location.origin}/" target="_blank">` +
+        `<style>${PREVIEW_CSS}</style><meta id="preview-ready"></head><body></body></html>`;
 
       // ---------------------------------------------------------------- images
       function drawChips() {
