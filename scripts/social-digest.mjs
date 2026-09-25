@@ -27,7 +27,6 @@ import { readFile, writeFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { pathToFileURL } from 'node:url';
 
-const REPO = 'Gianluca85vt/Portfolio';
 const LEDGER = 'notes/social-posted.json';
 
 /** Frames a viewer will actually tap through before losing interest. */

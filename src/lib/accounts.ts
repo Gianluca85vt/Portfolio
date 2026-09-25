@@ -1,6 +1,6 @@
 import { randomBytes, scrypt as scryptCb, timingSafeEqual } from 'node:crypto';
 import { promisify } from 'node:util';
-import { env } from './env';
+import { supabaseAdmin } from './env';
 
 /**
  * Backend accounts. Articles live in git; this file only answers who may write
@@ -41,19 +41,7 @@ export interface Editor {
   invite_expires_at: string | null;
 }
 
-function db(table: string) {
-  const url = env('PUBLIC_SUPABASE_URL');
-  const key = env('SUPABASE_SERVICE_ROLE_KEY');
-  if (!url || !key) return null;
-
-  const headers: Record<string, string> = {
-    apikey: key,
-    'content-type': 'application/json',
-  };
-  if (key.startsWith('eyJ')) headers.authorization = `Bearer ${key}`;
-
-  return { rest: `${url}/rest/v1/${table}`, headers };
-}
+const db = (table: string) => supabaseAdmin(table);
 
 export function accountsConfigured() {
   return db('editors') !== null;

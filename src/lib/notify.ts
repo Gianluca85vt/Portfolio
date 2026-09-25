@@ -1,5 +1,6 @@
 import nodemailer from 'nodemailer';
 import { env } from './env';
+import { esc } from './html';
 import { reelCaption } from './reel-caption';
 
 /**
@@ -36,15 +37,6 @@ export function notificationsConfigured() {
  */
 function headerSafe(s: string) {
   return s.replace(/[\r\n\t]+/g, ' ').trim().slice(0, 78);
-}
-
-/** HTML-escape, because the comment is text a stranger typed. */
-function esc(s: string) {
-  return s
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
 }
 
 /**

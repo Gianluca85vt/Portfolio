@@ -1,4 +1,5 @@
-import { Facebook, Instagram, Linkedin } from 'lucide-react';
+import { Linkedin } from 'lucide-react';
+import { Facebook, Instagram } from './brand-icons';
 import type { LucideProps } from 'lucide-react';
 import type { ComponentType } from 'react';
 import { socials } from '../../data/portfolio';

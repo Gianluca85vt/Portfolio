@@ -10,8 +10,9 @@ import { env } from './env';
  * notified, you just cannot act from the email" rather than breaking outright.
  */
 
-const OWNER = 'Gianluca85vt';
-const REPO = 'Portfolio';
+/** The repository the blog lives in; repo.ts reads the same constants. */
+export const OWNER = 'Gianluca85vt';
+export const REPO = 'Portfolio';
 const API = `https://api.github.com/repos/${OWNER}/${REPO}/contents`;
 
 function headers(withAuth: boolean) {

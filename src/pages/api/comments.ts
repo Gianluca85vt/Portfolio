@@ -2,6 +2,7 @@ import type { APIRoute } from 'astro';
 import { notifyNewComment } from '../../lib/notify';
 import { env, supabaseAdmin } from '../../lib/env';
 import { screen, REASONS } from '../../lib/moderation';
+import { hashAddress } from '../../lib/ip-hash';
 
 // One of two routes on the site that run as functions rather than static files.
 export const prerender = false;
@@ -14,20 +15,6 @@ function json(body: unknown, status = 200) {
     status,
     headers: { 'content-type': 'application/json' },
   });
-}
-
-/**
- * Salted SHA-256 of the caller's address. Enough to spot the same submitter
- * within a few minutes, useless as personal data — there is no way back to the
- * address, and without the salt the hash cannot be reproduced either.
- */
-async function hashIp(ip: string, salt: string) {
-  const data = new TextEncoder().encode(`${salt}:${ip}`);
-  const digest = await crypto.subtle.digest('SHA-256', data);
-  return [...new Uint8Array(digest)]
-    .map((b) => b.toString(16).padStart(2, '0'))
-    .join('')
-    .slice(0, 32);
 }
 
 export const POST: APIRoute = async ({ request, clientAddress }) => {
@@ -63,7 +50,7 @@ export const POST: APIRoute = async ({ request, clientAddress }) => {
     return json({ error: 'Comment must be between 2 and 4000 characters.' }, 400);
   }
 
-  const ipHash = await hashIp(clientAddress ?? 'unknown', salt);
+  const ipHash = await hashAddress(clientAddress ?? 'unknown', salt);
   const { rest, headers } = db;
 
   // Rate limit: a handful per window, per submitter.

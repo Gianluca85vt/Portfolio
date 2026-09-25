@@ -24,10 +24,11 @@ export function env(name: string): string | undefined {
 }
 
 /**
- * PostgREST credentials for the comments table. Returns null when the server is
- * not configured, so callers can say so instead of failing obscurely.
+ * PostgREST credentials for one table — comments unless told otherwise; the
+ * CMS uses editors and login_attempts. Returns null when the server is not
+ * configured, so callers can say so instead of failing obscurely.
  */
-export function supabaseAdmin() {
+export function supabaseAdmin(table = 'comments') {
   const url = env('PUBLIC_SUPABASE_URL');
   const serviceKey = env('SUPABASE_SERVICE_ROLE_KEY');
   if (!url || !serviceKey) return null;
@@ -43,5 +44,5 @@ export function supabaseAdmin() {
     headers.authorization = `Bearer ${serviceKey}`;
   }
 
-  return { rest: `${url}/rest/v1/comments`, headers };
+  return { rest: `${url}/rest/v1/${table}`, headers };
 }

@@ -1,7 +1,13 @@
 import type { APIRoute } from 'astro';
 import { env } from '../../../lib/env';
-import { passwordMatches } from '../../../lib/session';
-import { createCmsCookie, clearedCmsCookie, clearedHostOnlyCmsCookie, readCmsSession } from '../../../lib/session';
+import { hashAddress } from '../../../lib/ip-hash';
+import {
+  passwordMatches,
+  createCmsCookie,
+  clearedCmsCookie,
+  clearedHostOnlyCmsCookie,
+  readCmsSession,
+} from '../../../lib/session';
 import {
   accountsConfigured,
   countEditors,
@@ -59,9 +65,7 @@ async function hashIp(request: Request) {
     request.headers.get('x-real-ip') ??
     '';
   if (!salt || !ip) return null;
-
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(salt + ip));
-  return [...new Uint8Array(buf)].map((b) => b.toString(16).padStart(2, '0')).join('').slice(0, 32);
+  return hashAddress(ip, salt);
 }
 
 export const POST: APIRoute = async ({ request, url }) => {

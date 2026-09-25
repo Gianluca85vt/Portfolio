@@ -216,7 +216,7 @@ export const prerender = false;
       </main>
     </div>
 
-    <script define:vars={{ siteUrl: site.url }}>
+    <script is:inline define:vars={{ siteUrl: site.url }}>
       // ------------------------------------------------------------------ util
       const $ = (id) => document.getElementById(id);
       const api = async (url, opts) => {

@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { signModeration, safeEqual } from '../../lib/notify';
 import { isDraft, publishDraft, discardDraft, requestRevision, canWrite } from '../../lib/github';
+import { esc } from '../../lib/html';
 
 export const prerender = false;
 
@@ -14,10 +15,6 @@ export const prerender = false;
 
 const ACTIONS = ['approve', 'reject', 'revise'] as const;
 type Action = (typeof ACTIONS)[number];
-
-function esc(s: string) {
-  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-}
 
 function page(title: string, message: string, form = '') {
   return new Response(

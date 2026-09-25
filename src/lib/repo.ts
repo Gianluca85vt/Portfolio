@@ -1,4 +1,5 @@
 import { env } from './env';
+import { OWNER, REPO } from './github';
 
 /**
  * Writing several files in one commit.
@@ -12,8 +13,6 @@ import { env } from './env';
  * update — so an article and its artwork arrive together or not at all.
  */
 
-const OWNER = 'Gianluca85vt';
-const REPO = 'Portfolio';
 const BASE = `https://api.github.com/repos/${OWNER}/${REPO}`;
 const BRANCH = 'main';
 

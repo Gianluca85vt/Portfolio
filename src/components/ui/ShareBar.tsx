@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
-import { Check, Code2, Link2, Share2 } from 'lucide-react';
-import { Facebook, Linkedin } from 'lucide-react';
+import { Check, Code2, Link2, Linkedin, Share2 } from 'lucide-react';
+import { Facebook } from './brand-icons';
 import type { LucideProps } from 'lucide-react';
 
 /** lucide has no WhatsApp or X glyph, so both are drawn here. */

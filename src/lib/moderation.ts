@@ -1,16 +1,18 @@
 /**
- * Decides whether a comment publishes on sight or waits for a human.
+ * Decides which comments are flagged in the notification email.
  *
- * Comments used to wait for approval every time, which meant a reader's comment
- * appeared whenever Gianluca next opened his email. Now the ordinary ones go up
- * immediately and only two kinds are held: obscenity, and abuse aimed at a
- * person.
+ * Nothing is held any more. Every comment publishes the moment it is saved
+ * (see src/pages/api/comments.ts); what this filter changes is how loudly the
+ * email about it asks to be read. Obscenity, abuse aimed at a person and
+ * threats arrive flagged, with the reason in the subject, so they can be read
+ * first and deleted if they deserve it.
  *
- * **A held comment is never deleted and never silently dropped.** It is stored
- * exactly as written, marked unapproved, and emailed for a decision — because
- * this is a word filter, not a judge, and it will be wrong in both directions.
- * Somebody quoting a slur to object to it trips the same wire as somebody using
- * it. A human settles those; the filter only decides who waits.
+ * It flags rather than blocks because it is a word filter, not a judge, and it
+ * will be wrong in both directions: somebody quoting a slur to object to it
+ * trips the same wire as somebody using it. A human settles those.
+ *
+ * `publish: false` in the verdict below therefore means "flag it", not "hold
+ * it" — the name survives from when it did hold.
  *
  * Two languages, because the blog is written in English and read largely by
  * Italians.

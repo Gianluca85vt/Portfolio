@@ -7,6 +7,7 @@ import {
   hasValidSession,
 } from '../lib/session';
 import { recordAttempt, tooManyFailures } from '../lib/accounts';
+import { esc } from '../lib/html';
 
 export const prerender = false;
 
@@ -24,14 +25,6 @@ type Comment = {
   created_at: string;
   approved: boolean;
 };
-
-function esc(s: string) {
-  return s
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;');
-}
 
 const STYLE = `
  *{box-sizing:border-box}

@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
-import { Facebook } from 'lucide-react';
+import { Facebook } from './ui/brand-icons';
 import BlogSearch from './BlogSearch';
 import { colorFor, formatDate } from './blog-format';
 import { blog, blogCategories } from '../data/portfolio';
