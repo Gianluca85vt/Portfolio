@@ -2,18 +2,27 @@
 title: "Chiikawa's 13-week break is a production buffer"
 date: 2026-09-25
 category: Manga
-excerpt: New episodes stop on 2 October and 25 reruns fill the slot until Christmas. Chiikawa did the same thing in 2025, and the regularity is the story.
-cover: /img/blog/chiikawa-break-production-buffer/cover.svg
+excerpt: New episodes stop on 2 October and 25 reruns fill the slot to Christmas, with the Chiikawa film sitting at number one in Japan for 2026.
+cover: /img/blog/chiikawa-break-production-buffer/shot-01.jpg
 sources:
   - outlet: Anime News Network
     url: https://www.animenewsnetwork.com/news/2026-09-24/chiikawa-anime-to-temporarily-halt-new-episodes/.242160
   - outlet: AnimeTV
     url: https://animetv-jp.net/chiikawa-anime-is-taking-a-break-until-january-2027/
+  - outlet: Toy People
+    url: https://www.toy-people.com/en/?p=114793
+  - outlet: Toy People
+    url: https://www.toy-people.com/en/?p=114646
+  - outlet: Anime News Network
+    url: https://www.animenewsnetwork.com/news/2025-03-20/chiikawa-anime-to-air-reruns-until-new-episodes-resume-in-july/.222629
+  - outlet: Anime Corner
+    url: https://animecorner.me/cygamespictures-rebrands-to-cypic-becomes-cyberagent-subsidiary/
 artistView:
-  take: "A one-minute episode is not one twenty-second of a television episode's work, and a schedule that ships one most weeks for four and a half years has to stop somewhere. Doing it on a published date, with the reruns curated in advance, is the version of this that respects the people drawing."
+  take: "A one-minute episode is not one twenty-second of a television episode's work, and a schedule that has shipped 381 of them since April 2022 has to stop somewhere. Doing it on a published date, with the reruns curated in advance, is the version of this that respects the people drawing."
   works:
     - "Pipeline: the break is announced with its end date and its contents, which is a production that knows where its own floor is rather than one discovering it mid-cour."
     - "Scheduling: rerunning episodes tied to the summer film keeps the slot earning while the buffer refills, so the pause does promotional work instead of dead air."
+    - "Staffing: the film went to a different studio from the series, so the feature's crunch and the television crunch never landed on the same desks at the same time."
   misses:
     - "Format economics: per second of finished animation, short-form is the expensive end. Storyboard, timing, voice session, comp and delivery barely shrink when the runtime does, which is why a minute a week is a real load and not a rounding error."
 draft: true
@@ -21,16 +30,23 @@ draft: true
 
 Three hundred and eighty-one episodes since April 2022. That is the number to
 sit with before anything else. Roughly two hundred and thirty-four weeks have
-passed since the Chiikawa anime started, which puts it at a little over one and
-a half episodes a week, every week, for four and a half years, with no cour
-structure to hide behind.
+passed since the Chiikawa anime started, which averages a little over one and a
+half episodes a week, every week, for four and a half years, in a twice-weekly
+morning slot inside Fuji TV's *Mezamashi TV* — Tuesdays and Fridays, around
+7:36am, with a week of catch-up on YouTube, FOD and TVer.
 
-On Friday the official site said the show is stopping. Episode 381 went out on
+This week the official site said the show is stopping. Episode 381 went out on
 25 September; from 2 October the slot carries a "revival" rebroadcast of 25
 older episodes instead, running through 25 December, with new episodes back in
 January 2027. The 25 are curated rather than sequential — early instalments, and
 ones connected to *Eiga Chiikawa: Ningyo no Shima no Himitsu*, the film Toho put
-in Japanese cinemas on 24 July.
+in Japanese cinemas on 24 July. It opens on 2 October with episode 6, "Friends /
+Dorayaki".
+
+The rerun format has a wrinkle worth noting. Television gets the opening
+instalment of each featured storyline; the rest of that storyline goes out on
+streaming on Fridays. So the broadcast slot becomes a trailer for the archive,
+and the archive does the heavy lifting off-air.
 
 Thirteen weeks of no new animation.
 
@@ -46,6 +62,23 @@ trouble — a director off sick, a sponsor pulling out, a studio underwater. Two
 of them, the same length, the same shape, announced the same way, reads as a
 production that has measured its own throughput and built the recovery into the
 calendar.
+
+## The timing is the loudest part
+
+Chiikawa is not stopping because the money got thin.
+
+*Ningyo no Shima no Himitsu* had taken ¥15.84 billion and sold 10.857 million
+tickets by its 59th day in cinemas, which was 20 September. That makes it the
+highest-grossing film released in Japan this year, ahead of the new Detective
+Conan. It crossed ¥10 billion in thirty days — slower than *Demon Slayer*
+managed last year at eight days, which tells you more about *Demon Slayer* than
+about Chiikawa. Getting 4DX and sing-along screenings in September, two months
+into a run, is not the behaviour of a film winding down.
+
+So the series pauses at the property's commercial peak, five days after those
+figures were reported. Every incentive in the short term points at keeping new
+episodes on air while ten million people have just seen the film. Somebody
+looked at that and stopped anyway.
 
 ## Why a minute is not cheap
 
@@ -93,14 +126,19 @@ to sign off on the revenue side of that.
 ## Where the film went
 
 One detail worth pulling out: *Ningyo no Shima no Himitsu* was not made by the
-television team. The series is Doga Kobo. The film went to Cygames Pictures,
-directed by Kei Oikawa.
+television team. The series is Doga Kobo. The film went to Cypic — the studio
+that was CygamesPictures until April this year, when it took the new name and
+became a consolidated subsidiary of CyberAgent rather than of Cygames — directed
+by Kei Oikawa.
 
 That is normal enough — features and weekly television are different disciplines
 with different staffing — but it also means the movie did not consume the TV
-buffer directly. The break is not the film's bill coming due. It is the ordinary
-cadence needing its ordinary recovery, arriving where it was always going to
-arrive.
+buffer directly. The break is the ordinary cadence needing its ordinary
+recovery, arriving where it was always going to arrive.
+
+It does mean the biggest Japanese release of 2026 was delivered by a studio
+going through a change of corporate parent while it finished the picture. Those
+two things are unrelated on paper and rarely feel unrelated from inside.
 
 And the rerun selection has a second job. Twenty-five episodes weighted towards
 the film's material, running from October to Christmas, is a promotional window
