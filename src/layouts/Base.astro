@@ -50,6 +50,8 @@ const imageUrl = new URL(image, Astro.site).href;
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- First, so it sits inside the 1024 bytes a browser scans for it. -->
+    <meta charset="UTF-8" />
     <!-- Analytics runs only with consent, and never on an excluded device.
 
          Consent: the choice made in the banner at the foot of this layout,
@@ -98,7 +100,6 @@ const imageUrl = new URL(image, Astro.site).href;
       })();
     </script>
 
-    <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>{title}</title>
     <meta name="description" content={description} />
