@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Silent Hill: Townfall stutters at 60fps on a 5090">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1F6F6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#9FE8E2" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="6">FRAME TIMES</text>
+  <text x="90" y="330" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="180" font-weight="700">60 fps</text>
+  <text x="90" y="420" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="56" font-weight="600">and still hitching</text>
+  <text x="90" y="500" fill="#C9BFD4" font-family="Helvetica, Arial, sans-serif" font-size="34">SILENT HILL: Townfall on an RTX 5090</text>
+  <g stroke="#9FE8E2" stroke-width="5" fill="none" opacity="0.85">
+    <path d="M90 700 L200 700 L215 560 L230 700 L400 700 L418 545 L436 700 L560 700 L578 590 L596 700 L1110 700"/>
+  </g>
+  <line x1="90" y1="770" x2="1110" y2="770" stroke="#FFFFFF" stroke-opacity="0.2" stroke-width="2"/>
+  <text x="90" y="825" fill="#9E93AA" font-family="Helvetica, Arial, sans-serif" font-size="28">Shader compiles and streaming, landing on the same frame</text>
+</svg>
