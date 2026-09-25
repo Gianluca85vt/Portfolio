@@ -1,4 +1,13 @@
 ---
+// Kanit is served from this site rather than from Google Fonts: the same
+// weights as before, but no visitor's address goes to Google just to draw text.
+import '@fontsource/kanit/300.css';
+import '@fontsource/kanit/400.css';
+import '@fontsource/kanit/500.css';
+import '@fontsource/kanit/600.css';
+import '@fontsource/kanit/700.css';
+import '@fontsource/kanit/800.css';
+import '@fontsource/kanit/900.css';
 import '../styles/global.css';
 
 export interface Props {
@@ -38,40 +47,52 @@ const imageUrl = new URL(image, Astro.site).href;
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Opt-out must run BEFORE the tag loads. ga-disable-<ID> is Google's own
-         switch: set it and gtag.js sends nothing, so the flag is read from
-         localStorage first and the tag is skipped entirely when it is set.
+    <!-- Analytics runs only with consent, and never on an excluded device.
 
-         Device-based rather than IP-based on purpose. A home connection gets a
-         new IP whenever the router restarts and a phone changes IP by the hour,
-         so an IP filter quietly stops working and you never find out. A flag
-         stored on the device keeps holding. Set it at /no-track/. -->
+         Consent: the choice made in the banner at the foot of this layout,
+         kept in localStorage as gs-consent ("granted" or "denied"). GA4 sets
+         cookies and sends the visit to Google, which under the Italian and EU
+         rules needs a yes first. Until there is one, nothing is loaded.
+
+         Exclusion: ga-disable-<ID> is Google's own switch, set from the
+         device flag at /no-track/. Device-based rather than IP-based on
+         purpose — a home connection gets a new IP whenever the router
+         restarts and a phone changes IP by the hour, so an IP filter quietly
+         stops working. A flag stored on the device keeps holding.
+
+         window.__gsLoadAnalytics is what the banner calls on "Accept", so the
+         visit that gave consent is measured without waiting for a reload. -->
     <script is:inline>
       (function () {
+        var ID = 'G-D0BYF0KT6L';
+        var consent = null;
         try {
           if (localStorage.getItem('gs-no-track') === '1') {
-            window['ga-disable-G-D0BYF0KT6L'] = true;
+            window['ga-disable-' + ID] = true;
             window.__gsNoTrack = true;
           }
+          consent = localStorage.getItem('gs-consent');
         } catch (e) {
-          /* private mode with storage blocked: fall through and measure */
+          /* storage blocked: no stored consent, so the banner asks */
         }
+        window.__gsConsent = consent;
+
+        window.__gsLoadAnalytics = function () {
+          if (window.__gsNoTrack || window.__gsAnalyticsLoaded) return;
+          window.__gsAnalyticsLoaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + ID;
+          document.head.appendChild(s);
+
+          window.dataLayer = window.dataLayer || [];
+          window.gtag = function () { dataLayer.push(arguments); };
+          gtag('js', new Date());
+          gtag('config', ID);
+        };
+
+        if (consent === 'granted') window.__gsLoadAnalytics();
       })();
-    </script>
-
-    <!-- Google tag (gtag.js) -->
-    <script is:inline>
-      if (!window.__gsNoTrack) {
-        var s = document.createElement('script');
-        s.async = true;
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-D0BYF0KT6L';
-        document.head.appendChild(s);
-
-        window.dataLayer = window.dataLayer || [];
-        window.gtag = function () { dataLayer.push(arguments); };
-        gtag('js', new Date());
-        gtag('config', 'G-D0BYF0KT6L');
-      }
     </script>
 
     <meta charset="UTF-8" />
@@ -109,12 +130,6 @@ const imageUrl = new URL(image, Astro.site).href;
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={imageUrl} />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800;900&display=swap"
-      rel="stylesheet"
-    />
 
     {
       jsonLd && (
@@ -130,5 +145,78 @@ const imageUrl = new URL(image, Astro.site).href;
     <main style="background:#000000;overflow-x:clip">
       <slot />
     </main>
+
+    <!-- The privacy notice has to be reachable from every page, and this is the
+         one place every page shares. -->
+    <footer class="bg-black pb-8 text-center">
+      <a
+        href="/privacy/"
+        class="text-[#D7E2EA]/35 font-light uppercase tracking-widest text-[0.62rem] transition-colors duration-200 hover:text-[#D7E2EA]/70"
+      >
+        Privacy &amp; analytics
+      </a>
+    </footer>
+
+    <!-- Asked once per browser, answered with one click either way. Declining
+         is as easy as accepting, and nothing is measured until the answer is
+         yes. The choice can be changed at any time from /privacy/. -->
+    <div
+      id="gs-consent"
+      role="dialog"
+      aria-live="polite"
+      aria-label="Analytics consent"
+      hidden
+      class="fixed z-[60] bottom-4 left-4 right-4 sm:right-auto sm:max-w-[420px] rounded-[18px] border border-[#D7E2EA]/15 bg-[#0C0C0C]/95 backdrop-blur-md p-5 shadow-2xl"
+    >
+      <p class="text-[#D7E2EA]/75 font-light text-[0.84rem] leading-relaxed">
+        May I count this visit? Google Analytics would set cookies to tell me which
+        pages get read. Nothing is measured unless you say yes.{' '}
+        <a href="/privacy/" class="underline decoration-[#B600A8]/70 underline-offset-2 hover:text-[#D7E2EA] transition-colors">Privacy</a>
+      </p>
+      <div class="flex gap-3 mt-4">
+        <button
+          type="button"
+          data-consent="granted"
+          class="rounded-full px-6 py-2.5 font-medium uppercase tracking-widest text-[0.68rem] text-white transition-opacity duration-200 hover:opacity-90"
+          style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+        >
+          Accept
+        </button>
+        <button
+          type="button"
+          data-consent="denied"
+          class="rounded-full px-6 py-2.5 font-medium uppercase tracking-widest text-[0.68rem] text-[#D7E2EA] border border-[#D7E2EA]/35 transition-colors duration-200 hover:bg-[#D7E2EA]/10"
+        >
+          Decline
+        </button>
+      </div>
+    </div>
+
+    <script is:inline>
+      (function () {
+        var box = document.getElementById('gs-consent');
+        // An excluded device is never measured, so there is nothing to ask.
+        if (!box || window.__gsNoTrack) return;
+
+        function choose(value) {
+          try {
+            localStorage.setItem('gs-consent', value);
+          } catch (e) {
+            /* storage blocked: the choice holds for this page only */
+          }
+          window.__gsConsent = value;
+          box.hidden = true;
+          if (value === 'granted') window.__gsLoadAnalytics();
+        }
+
+        box.querySelectorAll('[data-consent]').forEach(function (button) {
+          button.addEventListener('click', function () {
+            choose(button.getAttribute('data-consent'));
+          });
+        });
+
+        if (window.__gsConsent !== 'granted' && window.__gsConsent !== 'denied') box.hidden = false;
+      })();
+    </script>
   </body>
 </html>
