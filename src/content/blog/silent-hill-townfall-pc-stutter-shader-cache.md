@@ -15,7 +15,6 @@ sources:
     url: https://www.dualshockers.com/silent-hill-townfall-update-coming-after-fans-complain-about-poor-performance-on-pc/
   - outlet: Notebookcheck
     url: https://www.notebookcheck.net/Early-access-Silent-Hill-Townfall-reviews-warn-poor-performance-may-sour-release-date.1406359.0.html
-draft: true
 ---
 
 A GeForce RTX 5090, a Ryzen 9 7950X3D and 32GB of DDR5 at 6000 will run SILENT
