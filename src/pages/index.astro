@@ -1,4 +1,5 @@
 ---
+import { cardImage } from '../lib/card-image';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
@@ -29,7 +30,8 @@ const posts = published.slice(0, 4).map((entry) => ({
   title: entry.data.title,
   category: entry.data.category,
   excerpt: entry.data.excerpt ?? '',
-  cover: coverFor(entry.data.category, entry.data.cover),
+  // The card-sized WebP when the build made one; see src/lib/card-image.ts.
+  cover: cardImage(coverFor(entry.data.category, entry.data.cover)),
   date: entry.data.date.toISOString(),
   score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
 }));

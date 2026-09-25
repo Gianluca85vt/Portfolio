@@ -35,30 +35,23 @@ const cover = coverFor(entry.data.category, entry.data.cover);
 
 // BlogPosting tells Google this is an article, who wrote it and when — the
 // difference between a page that can rank and one eligible for rich results.
-// A scored piece is also a Review in schema.org terms, and saying so is what
-// makes the number eligible to show in a search result rather than being
-// invisible markup.
+//
+// A scored piece is deliberately NOT marked up as a Review with a rating. The
+// score is the mean of other outlets' scores, and Google's review-snippet rules
+// forbid exactly that: ratings aggregated from other sites, presented as the
+// page's own. Stars earned that way are what a manual action takes away, often
+// with the rest of the site's rich results. The number stays on the page, in
+// the score box, where it is labelled for what it is.
 const scored = entry.data.score !== undefined;
-const rounded = scored ? Math.round(entry.data.score! * 2) / 2 : undefined;
+const modified = entry.data.updated ?? entry.data.date;
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': scored ? ['BlogPosting', 'Review'] : 'BlogPosting',
-  ...(scored
-    ? {
-        itemReviewed: { '@type': 'Thing', name: entry.data.reviewOf ?? entry.data.title },
-        reviewRating: {
-          '@type': 'Rating',
-          ratingValue: rounded,
-          bestRating: 10,
-          worstRating: 1,
-        },
-      }
-    : {}),
+  '@type': 'BlogPosting',
   headline: entry.data.title,
   description: entry.data.excerpt ?? entry.data.title,
   datePublished: entry.data.date.toISOString(),
-  dateModified: entry.data.date.toISOString(),
+  dateModified: modified.toISOString(),
   articleSection: entry.data.category,
   wordCount: (entry.body ?? '').trim().split(/\s+/).length,
   inLanguage: 'en',
@@ -110,6 +103,7 @@ const jsonLd = {
   image={cover}
   type="article"
   publishedAt={entry.data.date.toISOString()}
+  modifiedAt={modified.toISOString()}
   jsonLd={jsonLd}
 >
   <div class="min-h-screen flex flex-col" style="overflow-x:clip">
@@ -158,7 +152,11 @@ const jsonLd = {
         />
 
         {
-          /* Described rather than hidden. This was aria-hidden with an empty
+          /* width/height reserve a 16:9 box while it loads — nearly every
+             cover is a 16:9 still — so the text below does not jump when the
+             image arrives. h-auto lets the real ratio take over once it has.
+
+             Described rather than hidden. This was aria-hidden with an empty
              alt, which is right for pure decoration and wrong here: it is a
              press still or a screenshot of the thing the piece is about, and an
              image with no alt is one Google Images cannot place against any
@@ -167,10 +165,12 @@ const jsonLd = {
             <img
               src={cover}
               alt={`${entry.data.reviewOf ?? entry.data.title} — ${entry.data.category} on Backdrop`}
+              width="1440"
+              height="810"
               loading="eager"
               fetchpriority="high"
               decoding="async"
-              class="w-full rounded-[24px] sm:rounded-[28px] object-cover mt-8 sm:mt-10"
+              class="w-full h-auto rounded-[24px] sm:rounded-[28px] object-cover mt-8 sm:mt-10"
             />
           )
         }

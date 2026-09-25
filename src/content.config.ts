@@ -1,6 +1,7 @@
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { z } from 'astro/zod';
 import { glob } from 'astro/loaders';
 import { blogCategories } from './data/portfolio';
 
@@ -14,6 +15,11 @@ const blog = defineCollection({
   schema: z.object({
     title: z.string(),
     date: z.coerce.date(),
+    // When the piece was last substantively revised, if ever. Feeds
+    // dateModified, article:modified_time and the sitemap's lastmod; without
+    // it all three fall back to `date`. Caught rather than validated, so a
+    // malformed value can never fail the build — it is simply ignored.
+    updated: z.coerce.date().optional().catch(undefined),
     category: z.enum(blogCategories),
     excerpt: z.string().optional(),
     cover: z.string().optional(),
@@ -39,7 +45,7 @@ const blog = defineCollection({
     // see the rule below. Kept as a field rather than counted from links in
     // the body because the body does not link them: of 128 published pieces,
     // 97 name their outlets in prose and link nothing at all.
-    sources: z.array(z.object({ outlet: z.string(), url: z.string().url() })).optional(),
+    sources: z.array(z.object({ outlet: z.string(), url: z.url() })).optional(),
 
     // His reading as a 3D environment and technical artist: what works and what
     // does not at the level of the craft, rendered as a box after the body.

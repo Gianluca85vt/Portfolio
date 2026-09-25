@@ -12,6 +12,7 @@
  * prose, its own title and its own list, and every article now links up into
  * the one it belongs to.
  */
+import { cardImage } from '../../../lib/card-image';
 import { getCollection } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import SiteHeader from '../../../components/SiteHeader.astro';
@@ -72,7 +73,8 @@ const cards = posts.map((entry) => ({
   date: entry.data.date,
   category: entry.data.category,
   excerpt: entry.data.excerpt ?? '',
-  cover: coverFor(entry.data.category, entry.data.cover),
+  // The card-sized WebP when the build made one; see src/lib/card-image.ts.
+  cover: cardImage(coverFor(entry.data.category, entry.data.cover)),
   score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
 }));
 

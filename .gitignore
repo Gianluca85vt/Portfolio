@@ -16,3 +16,6 @@ tsconfig.tsbuildinfo
 
 # Astro's generated content types — regenerated on dev and build
 .astro/
+
+# Card-sized copies of the covers, rebuilt by scripts/card-thumbs.mjs on every build
+public/img/cards/

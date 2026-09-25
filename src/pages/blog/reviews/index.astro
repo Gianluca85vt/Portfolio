@@ -8,6 +8,7 @@
  * reachable from the full archive index or from nowhere. This is the page for
  * "did he review it, and what did it get".
  */
+import { cardImage } from '../../../lib/card-image';
 import { getCollection } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import SiteHeader from '../../../components/SiteHeader.astro';
@@ -29,7 +30,8 @@ const cards = posts.map((entry) => ({
   date: entry.data.date,
   category: entry.data.category,
   excerpt: entry.data.excerpt ?? '',
-  cover: coverFor(entry.data.category, entry.data.cover),
+  // The card-sized WebP when the build made one; see src/lib/card-image.ts.
+  cover: cardImage(coverFor(entry.data.category, entry.data.cover)),
   score: half(entry.data.score as number),
 }));
 
