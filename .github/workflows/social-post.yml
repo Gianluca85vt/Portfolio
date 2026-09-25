@@ -38,7 +38,8 @@ jobs:
     steps:
       - uses: actions/checkout@v5
         with:
-          fetch-depth: 2
+          # Enough history to diff the whole push rather than its last commit.
+          fetch-depth: 50
 
       - uses: actions/setup-node@v5
         with:
@@ -48,23 +49,42 @@ jobs:
         id: pick
         # The dispatch input arrives as an environment variable rather than
         # being interpolated into the script, so a slug can never be read as
-        # shell.
+        # shell — and it is checked against the slug pattern before it is
+        # written out, because every later step reads it back.
         env:
           MANUAL_SLUG: ${{ inputs.slug }}
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.sha }}
         run: |
           set -euo pipefail
 
           if [ -n "${MANUAL_SLUG:-}" ]; then
+            if ! printf '%s' "$MANUAL_SLUG" | grep -Eq '^[a-z0-9][a-z0-9-]{1,120}$'; then
+              echo "::error::'$MANUAL_SLUG' is not a slug"
+              exit 1
+            fi
             echo "slugs=${MANUAL_SLUG}" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          if ! git rev-parse HEAD^ >/dev/null 2>&1; then
+          # The whole push, not its last commit — the same range notify-drafts
+          # uses, for the same reason. Diffing HEAD^ alone meant a push of two
+          # publications posted only the second, with nothing in the log to
+          # say the first had been passed over.
+          if [ -n "${BEFORE:-}" ] \
+            && [ "$BEFORE" != "0000000000000000000000000000000000000000" ] \
+            && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            range="$BEFORE $AFTER"
+          elif git rev-parse "$AFTER^" >/dev/null 2>&1; then
+            echo "::notice::no usable push range, falling back to the last commit"
+            range="$AFTER^ $AFTER"
+          else
             echo "slugs=" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          changed=$(git diff --name-only --diff-filter=AM HEAD^ HEAD -- 'src/content/blog/*.md' || true)
+          echo "diffing $range"
+          changed=$(git diff --name-only --diff-filter=AM $range -- 'src/content/blog/*.md' || true)
 
           live=""
           for file in $changed; do
@@ -100,9 +120,11 @@ jobs:
 
       - name: Draw the portrait cards
         if: steps.pick.outputs.slugs != ''
+        env:
+          SLUGS: ${{ steps.pick.outputs.slugs }}
         run: |
           set -euo pipefail
-          for slug in ${{ steps.pick.outputs.slugs }}; do
+          for slug in $SLUGS; do
             node scripts/social-card.mjs "$slug"
           done
 
@@ -149,7 +171,8 @@ jobs:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-        run: node scripts/social-post.mjs ${{ steps.pick.outputs.slugs }}
+          SLUGS: ${{ steps.pick.outputs.slugs }}
+        run: node scripts/social-post.mjs $SLUGS
 
       - name: Record what was posted
         if: steps.pick.outputs.slugs != ''
