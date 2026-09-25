@@ -5,6 +5,7 @@ import SiteHeader from '../../components/SiteHeader.astro';
 import Comments from '../../components/Comments.astro';
 import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
+import ArtistView from '../../components/ArtistView.astro';
 import ArticleByline from '../../components/ArticleByline.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import { site, blog, categoryPath, coverFor } from '../../data/portfolio';
@@ -177,6 +178,15 @@ const jsonLd = {
         <div class="post-body mt-10 sm:mt-12">
           <Content />
         </div>
+
+        {
+          /* After the story and before the number: the story says what
+             happened, the box says how it was made, the score says what the
+             critics made of it. */
+          entry.data.artistView && (
+            <ArtistView category={entry.data.category} view={entry.data.artistView} />
+          )
+        }
 
         {
           entry.data.score !== undefined && (

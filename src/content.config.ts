@@ -40,6 +40,24 @@ const blog = defineCollection({
     // the body because the body does not link them: of 128 published pieces,
     // 97 name their outlets in prose and link nothing at all.
     sources: z.array(z.object({ outlet: z.string(), url: z.string().url() })).optional(),
+
+    // His reading as a 3D environment and technical artist: what works and what
+    // does not at the level of the craft, rendered as a box after the body.
+    // Each point may open with its area ("Lighting: ..."), which the box shows
+    // as a label.
+    //
+    // `.catch` rather than validation, deliberately. The writer produces this
+    // field, and a field the writer produces must never be able to fail the
+    // build - that is how the whole site froze on 7 September. A malformed box
+    // is dropped from the page and the article publishes without it.
+    artistView: z
+      .object({
+        take: z.string().optional(),
+        works: z.array(z.string()).optional(),
+        misses: z.array(z.string()).optional(),
+      })
+      .optional()
+      .catch(undefined),
   })
     /**
      * A published article must carry a photograph, not the drawn fallback.

@@ -233,6 +233,54 @@ bar.
 
 ---
 
+## The artist's view
+
+Asked for by Gianluca on 25 September 2026. **Every review, and every article
+where there is a piece of work to judge, carries an `artistView` block.** It
+renders as a box after the body, headed "The artist's view" and signed with his
+name and role: what works and what does not at the level of the craft —
+rendering, lighting, animation, art direction, environment and level design,
+UI, VFX, performance, pipeline.
+
+```yaml
+artistView:
+  take: "One to three sentences: his reading of how the thing was made."
+  works:
+    - "Lighting: the fog is doing budget work, hiding the draw distance and setting the mood in one move."
+  misses:
+    - "Animation: faces in the cutscenes are a generation behind the streets they stand in."
+```
+
+Why it matters beyond the reader: on 24 September Search Console showed the
+pieces with a technical reading ranking on page one, positions 3 to 9, and the
+plain review round-ups on page two, 11 to 16, where nobody clicks. Six of that
+window's eight Google clicks went to pieces with a craft angle. The box is the
+part of an article nobody else is writing.
+
+- **Each point opens with its area and a colon** — `Lighting:`, `Art
+  direction:`, `Animation:`, `Performance:` — and the box shows it as a label.
+  Then the judgement, and its reason, in one or two sentences. Two to four
+  points a list. Quote every point: an unquoted colon breaks the YAML.
+- **Only what can be judged from his desk.** He has not played the game or
+  walked the set. Footage, trailers, screenshots, technical analyses, patch
+  notes, and what reviewers describe — and say which, when it matters: "in the
+  launch trailer", "reviewers describe". Never "when I played". This is the
+  physical-presence rule above, applied to the box.
+- **Specific.** Name the scene, the system, the mode. "Great art direction"
+  says nothing.
+- **Balance is not required.** All works or all misses is fine if it is the
+  truth; leave the other list out.
+- **No work to judge, no lists.** A layoff, an acquisition, a price: use
+  `take` alone for what it means for the people making the work, or leave the
+  block out. An empty box is worse than none.
+- **It repeats nothing from the body.** The body is the story; the box is the
+  craft verdict.
+
+A malformed block never fails the build — the schema drops it and the article
+publishes without the box — so a mistake here costs the box, not the site.
+
+---
+
 ## Humanity
 
 The thing he does not want is a wire service — a page of reported facts nobody

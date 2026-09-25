@@ -27,18 +27,10 @@ const REPO = 'Gianluca85vt/Portfolio';
 const SITE = 'https://www.gianlucascattarella.it';
 const LEDGER = 'notes/social-posted.json';
 
-// Modest and specific. A wall of thirty tags reads as a bot and Instagram
-// discounts them anyway.
-const TAGS = {
-  Editorial: ['#gamedev', '#vfx', '#gameart'],
-  '3D': ['#3dart', '#environmentart', '#blender', '#unrealengine', '#gameart'],
-  Tech: ['#tech', '#hardware', '#pcgaming'],
-  AI: ['#ai', '#machinelearning', '#creativetech'],
-  Games: ['#gaming', '#videogames', '#gamedev', '#gameart'],
-  Manga: ['#manga', '#anime', '#animation'],
-  'Film & TV': ['#film', '#vfx', '#cinema', '#filmmaking'],
-  Collecting: ['#collecting', '#collectibles'],
-};
+// Modest and specific. A wall of thirty tags reads as a bot, and since December
+// 2025 Instagram refuses more than five on a post or a Reel anyway. Kept in one
+// file because the evening Reel caption, written on the site, uses the same set.
+const TAGS = JSON.parse(await readFile(new URL('../src/data/social-tags.json', import.meta.url), 'utf8'));
 
 function frontmatter(text) {
   const block = text.replace(/\r\n?/g, '\n').match(/^---\n([\s\S]*?)\n---/);

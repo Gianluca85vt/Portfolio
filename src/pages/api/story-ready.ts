@@ -43,7 +43,7 @@ export const POST: APIRoute = async ({ request }) => {
 
   // Read each one out of the repository rather than trusting the payload for
   // anything that reaches the email.
-  const articles: { title: string; category: string }[] = [];
+  const articles: { title: string; category: string; review: boolean }[] = [];
   for (const slug of slugs) {
     const file = await readFile(`src/content/blog/${slug}.md`);
     if (!file) continue;
@@ -56,7 +56,9 @@ export const POST: APIRoute = async ({ request }) => {
         .replace(/^["']|["']$/g, '') ?? '';
 
     const title = field('title');
-    if (title) articles.push({ title, category: field('category') || 'Games' });
+    // A review leads the Reel caption, so the score field is read only to know
+    // which piece is one.
+    if (title) articles.push({ title, category: field('category') || 'Games', review: field('score') !== '' });
   }
 
   if (articles.length === 0) {

@@ -1,5 +1,6 @@
 import nodemailer from 'nodemailer';
 import { env } from './env';
+import { reelCaption } from './reel-caption';
 
 /**
  * Comment notifications, sent over your own SMTP.
@@ -182,7 +183,7 @@ export async function notifyStoryReady(
   digest: {
     day: string;
     frames: string[];
-    articles: { title: string; category: string }[];
+    articles: { title: string; category: string; review?: boolean }[];
   },
   siteUrl: string
 ) {
@@ -199,6 +200,7 @@ export async function notifyStoryReady(
 
     const urls = digest.frames.map((f) => `${siteUrl}${f}`);
     const count = digest.articles.length;
+    const caption = reelCaption(digest.articles);
 
     const text = [
       `${count} ${count === 1 ? 'article' : 'articles'} today. ${urls.length} frames ready.`,
@@ -210,6 +212,10 @@ export async function notifyStoryReady(
       '',
       'Reel: add them as photos, set each one to land on the beat, pick a track',
       'from the Trending tab. Then reshare it to your story.',
+      '',
+      'Caption for the Reel, ready to paste:',
+      '',
+      caption,
     ].join('\n');
 
     const html = `<div style="font-family:-apple-system,Segoe UI,Roboto,sans-serif;max-width:560px;color:#1a1a1a">
@@ -237,6 +243,9 @@ export async function notifyStoryReady(
     part the API cannot do, and the part that reaches past your followers.
     Then reshare it to your story.
   </div>
+
+  <p style="margin:24px 0 8px;font-size:13px;color:#666">Caption for the Reel — press and hold to copy:</p>
+  <div style="white-space:pre-wrap;border:1px solid #e4dcea;border-radius:8px;padding:14px 16px;background:#fff;font-size:14px;line-height:1.55;-webkit-user-select:all;user-select:all">${esc(caption)}</div>
 </div>`;
 
     await transport.sendMail({

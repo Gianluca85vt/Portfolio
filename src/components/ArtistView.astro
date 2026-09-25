@@ -1,0 +1,118 @@
+---
+import { categoryColors, site } from '../data/portfolio';
+import type { BlogCategory } from '../data/portfolio';
+
+/**
+ * The artist's view: his reading of a piece of work as a 3D environment and
+ * technical artist, set apart from the story so a reader who came for the
+ * craft can find it without reading the news first.
+ *
+ * It is also the part of an article nobody else can write. Search Console on
+ * 24 September showed the difference plainly: pieces with a technical reading
+ * ranked on page one, positions 3 to 9, while review round-ups sat on page two
+ * at 11 to 16, where nobody clicks.
+ */
+export interface Props {
+  category: string;
+  view: { take?: string; works?: string[]; misses?: string[] };
+}
+
+const { category, view } = Astro.props;
+const accent = categoryColors[category as BlogCategory] ?? '#7621B0';
+
+/**
+ * "Lighting: the fog hides the draw distance" becomes a label and a note. A
+ * point with no area before the colon is shown whole. Three words is the
+ * longest area worth a label - "Character animation", "Level design" - and it
+ * keeps an ordinary sentence with a colon in it from being split.
+ */
+function point(raw: string) {
+  const text = raw.trim();
+  const m = /^([A-Z0-9][\w&/'-]*(?: [\w&/'-]+){0,2}):\s+(.+)$/s.exec(text);
+  return m ? { area: m[1], note: m[2] } : { area: '', note: text };
+}
+
+const clean = (list?: string[]) => (list ?? []).map((s) => String(s)).filter((s) => s.trim()).map(point);
+const take = view.take?.trim() ?? '';
+const works = clean(view.works);
+const misses = clean(view.misses);
+const columns = [
+  works.length > 0 && { label: 'What works', mark: '+', points: works, strong: true },
+  misses.length > 0 && { label: "What doesn't", mark: '−', points: misses, strong: false },
+].filter(Boolean) as { label: string; mark: string; points: { area: string; note: string }[]; strong: boolean }[];
+
+const empty = !take && columns.length === 0;
+---
+
+{
+  !empty && (
+    <aside
+      class="artist-view mt-14 sm:mt-16 rounded-[18px] border border-[#D7E2EA]/15 overflow-hidden"
+      aria-labelledby="artist-view-heading"
+    >
+      <div class="p-6 sm:p-7">
+        <h2
+          id="artist-view-heading"
+          class="font-medium uppercase tracking-[0.14em] text-[0.68rem]"
+          style={`color:${accent}`}
+        >
+          The artist's view
+        </h2>
+        <p class="text-[#D7E2EA]/40 font-light text-[0.74rem] tracking-wide mt-1">
+          {site.name} · {site.role}
+        </p>
+        {take && <p class="text-[#D7E2EA]/85 font-light leading-relaxed mt-4 text-[1rem]">{take}</p>}
+      </div>
+
+      {
+        columns.length > 0 && (
+          <div
+            class:list={[
+              'grid border-t border-[#D7E2EA]/12',
+              columns.length === 2 && 'sm:grid-cols-2',
+            ]}
+          >
+            {columns.map((col, i) => (
+              <section
+                class:list={[
+                  'p-6 sm:p-7',
+                  i > 0 && 'border-t sm:border-t-0 sm:border-l border-[#D7E2EA]/12',
+                ]}
+                aria-label={col.label}
+              >
+                <h3 class="flex items-center gap-2.5 text-[#D7E2EA] font-medium text-[0.82rem] tracking-wide">
+                  <span
+                    class="inline-flex items-center justify-center rounded-full w-5 h-5 text-[0.8rem] leading-none"
+                    style={
+                      col.strong
+                        ? `background:${accent};color:#fff`
+                        : 'border:1px solid rgba(215,226,234,0.35);color:rgba(215,226,234,0.7)'
+                    }
+                    aria-hidden="true"
+                  >
+                    {col.mark}
+                  </span>
+                  {col.label}
+                </h3>
+                <ul class="mt-4 flex flex-col gap-4">
+                  {col.points.map((p) => (
+                    <li>
+                      {p.area && (
+                        <span class="block font-medium uppercase tracking-[0.12em] text-[0.6rem] text-[#D7E2EA]/45">
+                          {p.area}
+                        </span>
+                      )}
+                      <span class="block text-[#D7E2EA]/75 font-light leading-relaxed text-[0.9rem] mt-0.5">
+                        {p.note}
+                      </span>
+                    </li>
+                  ))}
+                </ul>
+              </section>
+            ))}
+          </div>
+        )
+      }
+    </aside>
+  )
+}

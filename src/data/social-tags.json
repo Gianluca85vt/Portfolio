@@ -1,0 +1,10 @@
+{
+  "Editorial": ["#gamedev", "#vfx", "#gameart"],
+  "3D": ["#3dart", "#environmentart", "#blender", "#unrealengine", "#gameart"],
+  "Tech": ["#tech", "#hardware", "#pcgaming"],
+  "AI": ["#ai", "#machinelearning", "#creativetech"],
+  "Games": ["#gaming", "#videogames", "#gamedev", "#gameart"],
+  "Manga": ["#manga", "#anime", "#animation"],
+  "Film & TV": ["#film", "#vfx", "#cinema", "#filmmaking"],
+  "Collecting": ["#collecting", "#collectibles"]
+}
