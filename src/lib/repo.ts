@@ -48,11 +48,33 @@ async function api(path: string, init?: RequestInit) {
 }
 
 /**
+ * The blob sha of a path at a given commit, or null when the path does not
+ * exist there. Anything other than a clean "not found" throws, so a rate limit
+ * or an outage can never read as "unchanged".
+ */
+async function blobShaAt(path: string, ref: string): Promise<string | null> {
+  const encoded = path.replace(/^\/+/, '').split('/').map(encodeURIComponent).join('/');
+  const res = await fetch(`${BASE}/contents/${encoded}?ref=${encodeURIComponent(ref)}`, {
+    headers: headers(),
+  });
+  if (res.status === 404) return null;
+  if (!res.ok) throw new Error(`GitHub ${res.status} reading ${path} at ${ref.slice(0, 7)}`);
+  const json = (await res.json()) as { sha?: string; type?: string };
+  return json.type === 'dir' ? null : (json.sha ?? null);
+}
+
+/**
  * Commits every file in one go and returns the new commit sha.
  *
  * `expectedHeadSha` guards against two people saving the same article from two
- * tabs: pass the sha the editor started from and the commit is refused if the
- * branch has moved. Without it the second save would silently erase the first.
+ * tabs: pass the sha the editor started from, and the commit is refused if any
+ * of the files being written changed since then. Without it the second save
+ * would silently erase the first.
+ *
+ * Per file rather than per branch. The scheduled jobs commit to main many times
+ * a day — feeds, the social ledger, cards — and refusing whenever the branch
+ * moved turned every one of those into "someone else changed the repository"
+ * for an editor who had touched nothing they touched.
  */
 export async function commitFiles(
   files: FileWrite[],
@@ -67,10 +89,16 @@ export async function commitFiles(
     const headSha: string = ref.object.sha;
 
     if (options.expectedHeadSha && options.expectedHeadSha !== headSha) {
-      return {
-        error:
-          'Someone else changed the repository while you were writing. Reload the article and reapply your edit.',
-      };
+      const expected = options.expectedHeadSha;
+      const moved = await Promise.all(
+        files.map(async (f) => (await blobShaAt(f.path, expected)) !== (await blobShaAt(f.path, headSha))),
+      );
+      if (moved.some(Boolean)) {
+        return {
+          error:
+            'Someone else changed this article while you were writing. Reload it and reapply your edit.',
+        };
+      }
     }
 
     const headCommit = await api(`/git/commits/${headSha}`);
@@ -139,24 +167,39 @@ export interface ArticleSummary {
   size: number;
 }
 
-export async function listArticles(): Promise<ArticleSummary[] | { error: string }> {
+/**
+ * A file's text at an exact commit.
+ *
+ * By sha, never by branch name. raw.githubusercontent.com caches a branch path
+ * for about five minutes, so reading `main/...` just after a save returned the
+ * text from before it — paired with a fresh head sha, which let the lock above
+ * pass and the next save quietly put the old text back. Content at a sha never
+ * changes, so there is nothing stale to serve.
+ */
+function rawUrl(path: string, ref: string) {
+  return `https://raw.githubusercontent.com/${OWNER}/${REPO}/${ref}/${path}`;
+}
+
+export async function listArticles(): Promise<
+  { articles: ArticleSummary[]; head: string | null } | { error: string }
+> {
   try {
-    const tree = await api(`/git/trees/${BRANCH}?recursive=1`);
+    // One sha for the tree and for every file read from it, so the list and
+    // the head handed to the editor describe the same moment.
+    const head = await headSha();
+    const ref = head ?? BRANCH;
+    const tree = await api(`/git/trees/${ref}?recursive=1`);
     const entries: { path: string; size: number }[] = (tree.tree ?? []).filter(
       (t: { path: string; type: string }) =>
         t.type === 'blob' && t.path.startsWith('src/content/blog/') && t.path.endsWith('.md'),
     );
 
     // The tree gives paths and sizes but not content, so frontmatter comes from
-    // the raw host — which is CDN-cached, unauthenticated and does not count
-    // against the API rate limit.
+    // the raw host — unauthenticated, and not counted against the API rate limit.
     const out = await Promise.all(
       entries.map(async (e) => {
         const slug = e.path.replace('src/content/blog/', '').replace(/\.md$/, '');
-        const res = await fetch(
-          `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/${e.path}`,
-          { headers: { 'user-agent': 'gianlucascattarella.it' } },
-        );
+        const res = await fetch(rawUrl(e.path, ref), { headers: { 'user-agent': 'gianlucascattarella.it' } });
         const text = res.ok ? await res.text() : '';
         const fm = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text)?.[1] ?? '';
         const field = (k: string) =>
@@ -175,19 +218,25 @@ export async function listArticles(): Promise<ArticleSummary[] | { error: string
       }),
     );
 
-    return out.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+    return { articles: out.sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0)), head };
   } catch (err) {
     return { error: err instanceof Error ? err.message : 'Could not read the repository.' };
   }
 }
 
-export async function readArticle(slug: string): Promise<{ text: string } | { error: string }> {
+/**
+ * An article's text, together with the sha it was read at — which is the sha
+ * to hand back as `expectedHeadSha` when saving it.
+ */
+export async function readArticle(
+  slug: string,
+): Promise<{ text: string; head: string | null } | { error: string }> {
   if (!/^[a-z0-9][a-z0-9-]{1,120}$/.test(slug)) return { error: 'That slug is not valid.' };
 
-  const res = await fetch(
-    `https://raw.githubusercontent.com/${OWNER}/${REPO}/${BRANCH}/src/content/blog/${slug}.md`,
-    { headers: { 'user-agent': 'gianlucascattarella.it' } },
-  );
+  const head = await headSha();
+  const res = await fetch(rawUrl(`src/content/blog/${slug}.md`, head ?? BRANCH), {
+    headers: { 'user-agent': 'gianlucascattarella.it' },
+  });
   if (!res.ok) return { error: `No article called ${slug}.` };
-  return { text: await res.text() };
+  return { text: await res.text(), head };
 }

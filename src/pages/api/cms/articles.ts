@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { readCmsSession } from '../../../lib/session';
 import { findEditorById } from '../../../lib/accounts';
-import { commitFiles, headSha, listArticles, readArticle, canCommit } from '../../../lib/repo';
+import { commitFiles, listArticles, readArticle, canCommit } from '../../../lib/repo';
 import { publishRefusal } from '../../../lib/github';
 import type { FileWrite } from '../../../lib/repo';
 import type { Editor } from '../../../lib/accounts';
@@ -51,20 +51,22 @@ export const GET: APIRoute = async ({ request, url }) => {
 
   if (slug) {
     if (!SLUG.test(slug)) return json({ error: 'That slug is not valid.' }, 400);
+    // The head is the sha the text was read at, not a fresh one: handing back
+    // a newer sha with older text is what let a save overwrite the one before.
     const found = await readArticle(slug);
     if ('error' in found) return json(found, 404);
-    return json({ slug, text: found.text, head: await headSha() });
+    return json({ slug, text: found.text, head: found.head });
   }
 
   const all = await listArticles();
   if ('error' in all) return json(all, 502);
 
   return json({
-    articles: all,
+    articles: all.articles,
     role: editor.role,
     name: editor.display_name,
     canCommit: canCommit(),
-    head: await headSha(),
+    head: all.head,
   });
 };
 
@@ -111,11 +113,13 @@ export const POST: APIRoute = async ({ request }) => {
     const refusal = await publishRefusal(found.text);
     if (refusal) return json({ error: refusal }, 422);
 
+    // Locked to the sha the draft was read at, so a save that lands between
+    // reading and committing is refused rather than published over.
     const text = found.text.replace(/^draft:\s*true\s*\r?\n/m, '');
     const done = await commitFiles(
       [{ path: `src/content/blog/${slug}.md`, content: text }],
       `Publish ${slug}`,
-      { author },
+      { author, expectedHeadSha: found.head ?? undefined },
     );
     return 'error' in done ? json(done, 502) : json({ ok: true, sha: done.sha });
   }
