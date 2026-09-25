@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-24T20:08:08.968Z
+# Manga — harvested 2026-09-25T09:47:32.894Z
 
 ## Anime News Network
+
+### Chizuna Nakajima's Where is the Elf Teacher's Toilet? Manga Gets TV Anime
+Fri, 25 Sep 2026 02:28:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/chizuna-nakajima-where-is-the-elf-teacher-toilet-manga-gets-tv-anime/.242170
+
+"Toilet fantasy comedy" manga from <cite>Angel Drop</cite> manga creator launched in January 2024
+
+### The Fake Alchemist Anime's Teaser Unveils Cast, Staff
+Thu, 24 Sep 2026 23:46:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/the-fake-alchemist-anime-teaser-unveils-cast-staff/.242165
+
+Yōhei Matsuoka, Miyari Nemoto stars as Paracelsus, Nora
+
+### Red River Anime Posts New Video for 2nd Part
+Thu, 24 Sep 2026 23:37:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/red-river-anime-posts-new-video-for-2nd-part/.242163
+
+Video previews new opening song "Akatsuki no Hoshi" by Nana Mizuki
+
+### Konami Offers Official Metal Gear Solid Boxes (for Your Cat)
+Thu, 24 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/konami-offers-official-metal-gear-solid-boxes/.242140
+
+Now your cat can become the ultimate spy & special operations soldier
+
+### Stop President 'Dramp's' Ambitions in New Mahjong Game for Switch
+Thu, 24 Sep 2026 22:38:16 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/stop-president-dramp-ambitions-in-new-mahjong-game-for-switch/.241975
+
+Latest from mahjong manga/game artist Masayuki Katayama also features Elon Musg
+
+### Chiikawa Anime to Temporarily Halt New Episodes
+Thu, 24 Sep 2026 22:03:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/chiikawa-anime-to-temporarily-halt-new-episodes/.242160
+
+25 past episodes to rerun until December 25, with focus on early episodes, episodes tied to recent film
+
+### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Kim Kaphwan
+Thu, 24 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-highlights-kim-kaphwan/.242154
+
+Kim joins game on Thursday
 
 ### Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again
 Thu, 24 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/disney-hulu-raise-monthly-pricing-on-streaming-plans-in-u.s-again/.242153
@@ -26,41 +61,6 @@ Farming sim launches for Meta VR Glasses, Meta Quest 3, and Meta Quest 3s in spr
 Thu, 24 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/billy-bat/volume-2/.241574
 
 What does the bat want? Why does he want it?
-
-### Sekiro: No Defeat Anime Airs in January as 8-Episode TV Series (Updated)
-Thu, 24 Sep 2026 11:28:29 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/sekiro-no-defeat-anime-airs-in-january-as-8-episode-tv-series/.242149
-
-Crunchyroll to stream series version of film that opened in Japan on September 4
-
-### Norimitsu Kaihō, Kurageso's Akarui Mirai Manga Ends in Next Chapter
-Thu, 24 Sep 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/norimitsu-kaiho-kurageso-akarui-mirai-manga-ends-in-next-chapter/.242118
-
-Final chapter debuts on October 23
-
-### Hotel Inhumans Anime's 2nd Season Casts Shōya Chiba
-Thu, 24 Sep 2026 10:45:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/hotel-inhumans-anime-2nd-season-casts-shoya-chiba/.242145
-
-Shōya Chiba plays Subaru Yoda in 1st episode of 2nd season
-
-### Fairy Tail Re:Fantasia Manga Miniseries Ends in Next Chapter
-Thu, 24 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/fairy-tail-re-fantasia-manga-miniseries-ends-in-next-chapter/.242119
-
-Miniseries debuted on July 29
-
-### This Week in Anime - The Waiting Game
-Thu, 24 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-24/.242101
-
-Are you ready to play the Waiting Game? Oh, hang on a sec, Chris and Coop have some thoughts.
-
-### Daemons of the Shadow Realm ‒ Episode 24
-Thu, 24 Sep 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/daemons-of-the-shadow-realm/episode-24/.242127
-
-Boy, if any anime feels like it's already run out of steam, it's this one.
-
-### WEBTOON Launches 1st Global Drop With The Warrior's Ballad
-Thu, 24 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/webtoon-launches-1st-global-drop-with-the-warrior-ballad/.242128
-
-Series follows powerful sword master who is reincarnated 100 years after his death as boy named Ricardt
 
 ## Crunchyroll News
 
@@ -130,6 +130,16 @@ From Old Country Bumpkin to Master Swordsman Season 3 anime was officially annou
 
 ## MyAnimeList News
 
+### Manga Elf-sensei no Toilet wa Doko desu ka? Receives TV Anime Adaptation
+Thu, 24 Sep 2026 21:44:47 -0700 — https://myanimelist.net/news/74757191?_location=rss
+
+WWWave Corporation s Deregula animation label announced a television anime adaptation of Chizuna Nakajima s Elf-sensei no Toilet wa Doko desu ka? (Where Is the Elf Teacher s Toilet?) on Friday, revealing a pair of commemorative illustrations by the original creator (pictured above and right). Nakajima began serializing the comedy ecchi series in Comic Cune in January 2024. The series entered hiatus in January 2025 and is scheduled to return on September 26. Kadokawa published the...
+
+### Nisemono no Renkinjutsushi Reveals Main Cast, Staff, Teaser Promo
+Thu, 24 Sep 2026 20:21:53 -0700 — https://myanimelist.net/news/74756971?_location=rss
+
+The official website for the television anime adaptation of Jirou Sugiura and Umemaru s Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotional video on Friday. Voice actors Youhei Matsuoka (Fujimoto Tatsuki 17-26) and Miyari Nemoto (Ruri no Houseki) are starring as Paracelsus and Nora Petan, respectively. Staff Chief Director: Takeo Takahashi (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Director: Hijiri Sanpei (Watashi no Yuri...
+
 ### Kakunaru Ue wa Reveals Additional Staff, First Promo for Winter 2027
 Thu, 24 Sep 2026 05:39:39 -0700 — https://myanimelist.net/news/74754396?_location=rss
 
@@ -158,7 +168,7 @@ The main promotional video for the Japan and France co-produced original televis
 ### Phantom Busters TV Anime Announced For 2027
 Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss
 
-A television anime adaptation of Shoco s Phantom Busters manga was announced on Thursday through the anime s official website, revealing a commemorative illustration from Shoco (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in the fall 2022 season before beginning serialization in Jump SQ. in August 2023. The seventh volume was released in February 2026, with the eighth one scheduled to be released on October 2. The manga has over 1.4 mill...
+Production company TOHO animation opened an official website for a television anime adaptation of Shoco s Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....
 
 ### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast Pair
 Thu, 24 Sep 2026 02:20:26 -0700 — https://myanimelist.net/news/74754105?_location=rss
@@ -180,24 +190,14 @@ Wed, 23 Sep 2026 08:49:18 -0700 — https://myanimelist.net/news/74751799?_locat
 
 The 12th and final episode of Katainaka no Ossan, Kensei ni Naru II (From Old Country Bumpkin to Master Swordsman Season 2) ended with an announcement on Thursday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Passione and Hayabusa Film, the first season aired in 12 episodes in Spring 2025. The second season premiered on July 8. Amazon Prime streamed the anime worldwide with subtitles. The anime series adapts Shigeru Sagaza...
 
-### Light Novel Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita Concludes with 30th Volume
-Wed, 23 Sep 2026 06:54:27 -0700 — https://myanimelist.net/news/74751339?_location=rss
-
-The official X account for Kisetsu Morita and Benio s Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (I ve Been Killing Slimes for 300 Years and Maxed Out My Level) light novel announced on Wednesday that the series will end with its 30th volume, scheduled to be released on October 15. Morita began penning the comedy fantasy novel on the Shousetsuka ni Narou website in June 2016. SB Creative later acquired the series and began publishing the light novel in print und...
-
-### Odekake Hololive Announces Cast Members, Main Staff
-Wed, 23 Sep 2026 05:48:34 -0700 — https://myanimelist.net/news/74750977?_location=rss
-
-The special livestream presentation for the television anime series titled Odekake Hololive revealed the cast members, main staff, and a teaser visual (pictured) on Wednesday. Cast Roboco-san Aki Rosenthal Shirakami Fubuki Natsuiro Matsuri Nakiri Ayame Yuzuki Choco Oozora Subaru AZKi Ookami Mio Sakura Miko Nekomata Okayu Inugami Korone Hoshimachi Suisei Usada Pekora Shiranui Flare Shirogane Noel Houshou Marine Tsunomaki Watame Tokoyami Towa Himemori Luna Yukihana Lamy Momosuzu Nene Shishiro Bota...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### Demons Crest Volume 2 Review
-Wed, 23 Sep 2026 09:00:24 +0000 — https://animeuknews.net/2026/09/demons-crest-volume-2-review/
+### Hand-in-Hand with Mu-chan: Lessons from My Autistic Daughter Volume 1 Review
+Fri, 25 Sep 2026 09:00:20 +0000 — https://animeuknews.net/2026/09/hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-volume-1-review/
 
-Yuuma and his companions have made it through a life-or-death battle, but now they're faced with the reality that Sawa is possessed by a demon...
+A young mother attempts to come to terms with the fact that her infant daughter could be autistic.
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-24T20:08:08.968Z
+# AI — harvested 2026-09-25T09:47:32.894Z
 
 ## OpenAI
 
@@ -36,26 +36,6 @@ Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, an
 Wed, 23 Sep 2026 10:00:00 GMT — https://openai.com/index/introducing-mentalhealthbench
 
 MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.
-
-### ChatGPT Ads expands to Southeast Asia and Taiwan
-Wed, 23 Sep 2026 02:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan
-
-ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.
-
-### Airbnb widens access to GPT-6 Astra and OpenAI frontier models
-Wed, 23 Sep 2026 01:00:00 GMT — https://openai.com/index/airbnb-gpt-6-astra
-
-Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster.
-
-### Grab and OpenAI bring practical AI skills to Southeast Asia
-Wed, 23 Sep 2026 00:00:00 GMT — https://openai.com/index/grab-openai-ai-skills-southeast-asia
-
-OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.
-
-### Better prompt caching for GPT-6
-Tue, 22 Sep 2026 21:00:00 GMT — https://openai.com/index/better-prompt-caching-for-gpt-6
-
-Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
 
 ## Hugging Face
 
