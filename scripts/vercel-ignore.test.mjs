@@ -12,20 +12,46 @@
  * A wrong skip is the expensive failure — the site silently stops matching the
  * repository — so the cases that must BUILD are the ones that matter here.
  */
+import { execFileSync } from 'node:child_process';
 import { decide } from './vercel-ignore.mjs';
 
 let failed = 0;
+let skipped = 0;
+
+/**
+ * Whether a commit is in this clone at all.
+ *
+ * The cases are real commits, so a shallow clone — the default for a CI
+ * checkout, and for a cloud session — simply does not have most of them.
+ * decide() then fails open and says "build", which is right for Vercel and
+ * reads as six failures here. A missing commit is reported as a skip instead;
+ * the CI workflow fetches the full history so that nothing is skipped there.
+ */
+function have(sha) {
+  try {
+    execFileSync('git', ['cat-file', '-e', `${sha}^{commit}`], { stdio: 'ignore' });
+    return true;
+  } catch {
+    return false;
+  }
+}
 
 function check(name, got, want) {
-  if (got === want) console.log(`PASS  ${name}`);
+  if (got === null) {
+    console.log(`SKIP  ${name} (commit not in this clone)`);
+    skipped += 1;
+  } else if (got === want) console.log(`PASS  ${name}`);
   else {
     console.error(`FAIL  ${name}\n        expected ${want ? 'build' : 'skip'}, got ${got ? 'build' : 'skip'}`);
     failed += 1;
   }
 }
 
+/** decide() between two commits, or null when either is missing here. */
+const between = (base, head) => (have(base) && have(head) ? decide(base, head).build : null);
+
 /** decide() against a single commit and its parent. */
-const at = (sha) => decide(`${sha}^`, sha).build;
+const at = (sha) => (have(sha) && have(`${sha}^`) ? decide(`${sha}^`, sha).build : null);
 
 /* ------------------------------------------------------- must not build --- */
 
@@ -60,8 +86,9 @@ check('artwork in a shared folder', at('92b14ab'), true);
  * deployed, the publication is inside the span.
  */
 
-check('the tip alone reads as bookkeeping', decide('0a98bdb', '32ef392').build, false);
-check('the span since the last deploy carries the publication', decide('36aabfb', '32ef392').build, true);
+check('the tip alone reads as bookkeeping', between('0a98bdb', '32ef392'), false);
+check('the span since the last deploy carries the publication', between('36aabfb', '32ef392'), true);
 
+if (skipped) console.log(`\n${skipped} skipped: fetch the full history (git fetch --unshallow) to run them`);
 console.log(failed ? `\n${failed} failing` : '\nall good');
 process.exit(failed ? 1 : 0);

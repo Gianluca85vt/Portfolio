@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro check && astro build && node scripts/strip-blog-images.mjs",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "test": "node --test scripts/*.test.mjs && node scripts/test-moderation.mjs"
   },
   "dependencies": {
     "@astrojs/react": "^6.0.2",

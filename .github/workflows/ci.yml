@@ -1,0 +1,52 @@
+name: CI — type check, tests, build
+
+# Nothing else in the repository builds before it lands. Vercel builds after
+# the fact, and the scheduled jobs, the CMS and the approve link all commit to
+# main directly — so a broken schema or a failing script used to surface as a
+# dead deployment rather than as a red check. This runs the same `npm run
+# build` Vercel runs, plus the script tests, on every push and pull request.
+#
+# It does not gate anything by itself. Make it a required check on main in the
+# branch protection settings if pushes to main should wait for it.
+
+on:
+  push:
+    # Feed harvests and ledgers change nothing that builds or is tested.
+    paths-ignore:
+      - 'notes/**'
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      # Full history, but without every old image: vercel-ignore.test.mjs
+      # replays real commits from the log, and blob:none keeps the clone to
+      # the trees plus the files of the commit being checked out.
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          filter: blob:none
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+          cache: npm
+
+      - name: Install
+        run: npm ci --no-audit --no-fund
+
+      - name: Script tests
+        run: npm test
+
+      # astro check, then astro build — the same command Vercel runs.
+      - name: Build
+        run: npm run build
