@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-26T14:43:50.466Z
+# Tech — harvested 2026-09-26T19:22:40.311Z
 
 ## Ars Technica
+
+### Tesla’s big electric truck faces an even bigger infrastructure challenge
+Sat, 26 Sep 2026 10:45:09 +0000 — https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/
+
+Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. He’s targeted a $20 trillion valuation—nearly four times the value of market leader Nvidia —on that premise. But his Tesla team was in Sparks, Nevada, on Thursday to focus on, well, an electric vehicle: the long-awaited Tesla Semi . The Semi concept first rolled onto a Tesla event stage in late 2017 . Nearly a decade later, Tesla officially launched high-volume production at a livestreamed but invite-only event at the company’s factory. It targeted a niche audience: the cost-conscious people who manage large trucking fleets. A handful of them, all men, trooped across the stage to be thanked for their orders to a pulsing techno beat. “It’s going to be, really, a driver’s truck. It’s like a sports car in truck form.” Musk said in a pre-taped video played during the evening event. (Musk, for years the ringmaster at Tesla’s circus-like events, skipped his second vehicle debut in a row ; he was attending a White House China State Dinner featuring President Xi Jinping .) Read full article Comments ]]>
 
 ### Can Trump ever be wrong? His pick to lead FDA refused to say.
 Fri, 25 Sep 2026 23:00:26 +0000 — https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/
@@ -57,12 +62,17 @@ Fri, 25 Sep 2026 15:21:55 +0000 — https://arstechnica.com/cars/2026/09/us-bein
 
 Hype merchants have a habit of overdoing it , but there’s no denying that China is making the US look more than a little antiquated when it comes to electric vehicles. Some of that is due to a deep integration of connected services and an extension of the car as part of the owner’s digital life—think additional infotainment screens and AI personal assistants, but with an Android phone-maker’s cadence of updates rather than that of a traditional car company. Other advances sound more appealing. China’s OEMs are in a battle over who can charge the fastest, and this week, Geely fired its latest salvo. China might have a much younger driving culture than North America or Europe, but it has still been long enough to condition those drivers to how long it takes to fill a tank of gas. For all their many improvements over internal combustion engine vehicles—far greater efficiency, instant torque, very little NVH, more reliabiity, and so on—EVs do still take longer to recharge than it takes to refuel a car with a liquid. At least until now, it seems. Read full article Comments ]]>
 
-### With PRIMA, NASA will try to build a billion-dollar space telescope in record time
-Fri, 25 Sep 2026 14:07:46 +0000 — https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/
-
-The first in a new class of space telescopes is on track to reach the launch pad in the early 2030s, NASA announced this week. The PRIMA mission will be the first of NASA's Probe Explorers, a new line of observatories intended to do more science for less money. The agency's space telescopes typically fall into lower-cost "Explorer-class" missions, with cost caps in the range of a few hundred million dollars, or flagship observatories like the recently launched Nancy Grace Roman Space Telescope, which came with a price tag of some $4.3 billion. With the Probe Explorers, NASA officials seek to find a better balance between the smaller Explorer missions and multibillion-dollar flagships. NASA has studied potential Probe Explorer mission concepts for several years after an independent panel of scientists recommended the new mission category. But it wasn't clear until recently whether NASA's science budget, which is under pressure from the Trump administration , would be sufficient to actually start developing one. Read full article Comments ]]>
-
 ## The Verge
+
+### Kids turned the comment section of an NPR podcast into a group chat
+2026-09-26T13:32:35-04:00 — https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section
+
+Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life , host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, "We just, like, looked for podcasts that didn't have many comments." Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge. ]]>
+
+### OpenAI pauses training of its ‘most capable models’
+2026-09-26T12:34:59-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
+
+As reports of OpenAI's models breaking containment , hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access . The incident happened on September 20th, and "All training, evaluation, and inference with tool-use" remains paused as of Saturday evening, September 25th. In addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- … Read the full story at The Verge. ]]>
 
 ### Can Cloudflare CEO Matthew Prince save the web from AI?
 2026-09-26T10:00:00-04:00 — https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising
@@ -104,17 +114,12 @@ One of the questionable limitations of the iPhone 18 Pro's new main camera with 
 
 Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced "several hundred robots a week" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues lining up parts precisely, as The Information notes: "Not only are the Optimus production lines new, but the Optimus parts are much smaller and have to fit together far more precisely than car parts." It reports that even in the "V3" Optimus robots it's currently producing, the hands and f … Read the full story at The Verge. ]]>
 
-### Meta makes the Muse filesystem even more accessible
-2026-09-25T12:49:53-04:00 — https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem
-
-Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not least because Muse itself told people, including us, it wasn't supposed to reveal them. But today Muse will eagerly offer up the contents of its file system when you ask for it. That appears to be because, as Meta's Nat Friedman later said, this is the " intended behavior. " In a post on X, Meta Superintelligence Labs' David Singleton elaborated: This was a very deliberate choice - your Muse Secur … Read the full story at The Verge. ]]>
-
-### Leaks reveal a new Apple HomePod mini, iPad mini, and Apple TV 4K
-2026-09-25T12:22:05-04:00 — https://www.theverge.com/tech/1000772/apple-code-leak-homepod-mini-2-ipad-mini-8-apple-tv-4k
-
-Apple is expected to announce more hardware before the end of the year following the debut of the iPhone 18 Pro and folding iPhone Duo earlier this month. The updated products will include a new version of the HomePod mini, the iPad mini 8, and the Apple TV 4K, according to details and images discovered in Apple's own code by MacRumors contributor Aaron Perris. Details from the leaks are sparse, but the HomePod Mini 2 will carry forward a similar design to the original model that debuted in late 2020 . While the current model is available in bright color options including orange, yellow, and blue, the leaked images of the HomePod Mini 2 reve … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### 27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix
+Sat, 26 Sep 2026 15:10:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting
+
+While gamers wait for the release of Grand Theft Auto VI , whether on their consoles or gaming PCs with one of the best graphics cards , they can relive one of the franchise's most memorable titles. Modder gebdag has unveiled GTA2 RTX Remix, a mod that harnesses Nvidia’s RTX Remix technology to add full path tracing and dynamic time-of-day cycles to the 27-year-old classic, Grand Theft Auto 2 . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Grand Theft Auto 2 , released in 1999, used older graphics APIs such as DirectDraw and an earlier version of Direct3D. The problem is that these legacy APIs create a technical barrier to modern technologies like RTX Remix. Nvidia's platform lacks native support for DirectDraw and only plays well with Direct3D 9. It requires a wrapper to interface with previous versions of Direct3D, which is where the GTA2 RTX Remix comes in. Modder gebdag ingeniously developed a custom Direct3D 9 renderer for Grand Theft Auto 2 . It acts as a generational bridge between the original game and Nvidia’s RTX Remix. To do so, the mod relies on two DLLs (gta2dx9.dll and gta2dx9_vid.dll) that serve as translators, converting the game's legacy graphics pipeline into a modern Direct3D 9 renderer that RTX Remix can under
 
 ### Russia bombs Ukrainian data centers in latest escalation
 Sat, 26 Sep 2026 14:30:59 +0000 — https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target
@@ -171,12 +176,17 @@ Sat, 26 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in two days, reports the Crypto Cella . MVUEH was sent by the German Army to the SS-Totenkopf (Death’s Head) Division on July 10, 1941, at the height of the Nazi military power in WWII. This uncracked Enigma message was shared with enthusiasts online in 2005, but its secrets had remained concealed until now. Crypto Cellar researchers highlight that what Astra managed to do in just two days “would take a human researcher weeks or even months.” Currently, the awestruck researchers are still picking through logs to determine how Astra managed this feat and how it did it so quickly. One of the most impressive things about Astra’s tackling of MVUEH was that it “did it entirely on its own,” says the source. It was merely asked whether it could break any of the unbroken Enigma machine messages published on the Crypto Cellar Research web page. In response, Astra picked Nr. 172, MVUEH as a promising target and thought it might be related to the plaintext of Nr. 173, SIPVX. With its target decided and expecting the repeated place name "ROSENOW ROSENOW" as a probable plaintext clue, Astra developed Python and C++ software for an Enigma simulator and an Enigma Bombe. Its hunch appears to have been correct. You can see a demo of the radio message being decrypted online at the MVUEHA Cryptanalysis Case Study site (screenshot below). (Image credit: The MVUEHA Cryptanalysis Case Stu
 
-### Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
-Fri, 25 Sep 2026 15:40:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/elon-musks-spacexai-to-add-another-660-000-ai-gpus-this-year-nearing-a-total-of-1-44-million-in-operation-firm-is-building-1-2-gigawatt-power-plant-to-bring-systems-fully-online
-
-The end goal is finally in sight for Elon Musk, nearly two years after he announced plans to expand the Colossus supercomputer to over a million GPUs . The billionaire said on X that 220,000 Nvidia GB300 GPUs will be operational by next week, with another 220,000 coming online in November. He also added that another 220,000 units will come online by late December “if we get lucky.” Colossus 1 is 150k H100, 50k H200 and 30k GB200. Colossus 2 is 110k GB200 and 440k GB300. Another 220k GB300 will be fully operational next week and another 220k in November. If we get lucky, yet another 220k GB300 by late December. September 25, 2026 These numbers would add to the 110,000 GB200 and 440,000 GB300 GPUs already operating at Colossus 2, plus the 150,000 H100, 50,000 H200, and 30,000 GB200 GPUs at Colossus 1. This would bring SpaceXAI’s GB300 GPUs to 1.1 million units, with its total GPUs in operation to 1,440,000 units. This is quite an achievement, especially given that the company is behind its rivals by several years — SpaceXAI is only three years old, while Anthropic and OpenAI are six and ten years old, respectively. Interestingly, the Colossus 1 site, which features a combination of Hopper and Blackwell GPUs, is inefficient for training Grok, so Musk rented it out to Anthropic for inference instead . On the other hand, Colossus 2 solely uses Blackwell GPUs, ensuring that there won’t be any bottlenecks. While Elon Musk essentially begged for Jensen Huang to give him these GPUs , 
-
 ## Phoronix
+
+### "Toolpak" Being Devised By GNOME OS Developers, Akin To Flatpak For Tools
+Sat, 26 Sep 2026 12:50:00 -0400 — https://www.phoronix.com/news/Toolpak
+
+GNOME developer Jordan Petridis published a blog post today to introduce the world to the Toolpak plans for GNOME OS...
+
+### MM Change Slated For Linux 7.4 Yields +22904539.81% In One Metric, More Modest Wins In Others
+Sat, 26 Sep 2026 11:07:42 -0400 — https://www.phoronix.com/news/Linux-7.4-Refill-Sheaves-Barn
+
+Queued this week into the slab/for-next Git branch ahead of next month's Linux 7.4 merge window is a memory management change for refilling pre-filled sheaves from the barn. In some cases this yields wild improvements to specific synthetic benchmarks...
 
 ### AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM
 Sat, 26 Sep 2026 07:13:16 -0400 — https://www.phoronix.com/news/Linux-7.3-rc5-DRM
@@ -197,6 +207,11 @@ The AMDXDNA open-source Linux kernel accelerator driver is seeing a fair amount 
 Sat, 26 Sep 2026 05:56:52 -0400 — https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes
 
 Even with this week's KDE Akademy conference and releasing KDE Plasma 6.8 Beta 2, KDE developers still found time to land last minute changes for Plasma 6.8 plus ongoing early work toward Plasma 6.9...
+
+### Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing
+Fri, 25 Sep 2026 21:00:26 -0400 — https://www.phoronix.com/news/Autumn-2026-Special-Final-Call
+
+Last call for the Phoronix autumn "Oktoberfest" Premium sale: it runs through end of day Sunday, 27 September (any timezone - I'm not particularly strict). If you have been meaning to support the site, this is the window...
 
 ### New FUTEX Syscalls Back To Being Worked On For Helping Valve s ARM64 Gaming Ambitions
 Fri, 25 Sep 2026 18:42:16 -0400 — https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls
@@ -222,21 +237,6 @@ The coffee window is closing. Going back many years with the time it s taken to 
 Fri, 25 Sep 2026 06:27:51 -0400 — https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches
 
 While Linux 7.2 brought initial Apple M3 support and Linux 7.3 brought M3 Pro / Max / Ultra support, the mainline Linux kernel support for the M3 series hardware remains very basic and not yet ready for daily driving. But more work continues to be upstreamed and today the patches were posted for getting NVMe storage up and running across all Apple M3 hardware...
-
-### AMD Sends Out New Linux Patches Further Enhancing HDMI 2.1 Reliability
-Fri, 25 Sep 2026 06:12:09 -0400 — https://www.phoronix.com/news/AMDGPU-HDMI-2.1-Reliability
-
-Linux 7.4 is going to be the big kernel release where the AMD graphics driver will finally expose HDMI 2.1 by default and comes with features including HDMI FreeSync, VRR, and ALLM. Ahead of that milestone there have been various other last minute tweaks and improvements to its HDMI 2.1 support. Sent out on Thursday was the latest round of AMDGPU DC patches that includes a few more patches for improving the HDMI 2.1 reliability...
-
-### Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing
-Fri, 25 Sep 2026 06:00:26 -0400 — https://www.phoronix.com/news/Autumn-2026-Special-Final-Call
-
-Last call for the Phoronix autumn "Oktoberfest" Premium sale: it runs through end of day Sunday, 27 September (any timezone - I'm not particularly strict). If you have been meaning to support the site, this is the window...
-
-### Go s Improving SIMD Support, Platform-Independent SIMD Interface
-Fri, 25 Sep 2026 05:50:22 -0400 — https://www.phoronix.com/news/Go-SIMD-2026
-
-A new blog post published on Thursday covers the experimental support for SIMD with the Go programming language. This expanding Go SIMD support also includes a platform-independent API for making use of SIMD with modern processors...
 
 ## The Register
 
@@ -302,67 +302,77 @@ Users report that a recent optional update for out-of-date Microsoft 365 applica
 
 ## Engadget
 
+### Minecraft is getting a new dimension called The Sift in 2027
+Sat, 26 Sep 2026 19:19:53 +0000 — https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/
+
+The Sift will first be released with Minecraft Dungeons 2 later this month before arriving in the base game.
+
+### What type of power cord does a PS5 use?
+Sat, 26 Sep 2026 18:45:00 +0000 — https://www.engadget.com/2265348/playstation-power-cord-what-type/
+
+You probably don't think much about your PlayStation's power cord unless it needs to be replaced. If that time comes, here's what to know.
+
+### You can use your old laptop to make a smart home hub
+Sat, 26 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/
+
+An old netbook can automate the devices that otherwise aren't interested in talking to one another.
+
+### How to properly clean your laptop fan
+Sat, 26 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2266513/how-to-clean-laptop-fan/
+
+Start with the vents before you reach for a screwdriver.
+
+### Apple hit with a $5.7 billion verdict for alleged patent infringement
+Sat, 26 Sep 2026 17:02:42 +0000 — https://www.engadget.com/2269826/apple-hit-with-a-57-billion-verdict-for-alleged-patent-infringement/
+
+Apple is reportedly looking to appeal the jury verdict.
+
+### TikTok will pay Alabama $100 million to settle social media addiction lawsuit
+Sat, 26 Sep 2026 16:41:00 +0000 — https://www.engadget.com/2269822/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/
+
+TikTok has settled Alabama's social media addiction lawsuit before it was supposed to go to trial.
+
+### The MacBook models that macOS 27 Golden Gate does not support
+Sat, 26 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2266414/macbook-models-macos-27-golden-gate-does-not-support/
+
+macOS Golden Gate refines the Mac software experience, but not everyone can upgrade.
+
+### Garmin Fenix 9 vs Fenix 8: How much of an upgrade is the new model?
+Sat, 26 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2266039/armin-fenix-9-vs-8-how-much-of-upgrade-new-model/
+
+Which sport smartwatch should you get?
+
+### Why NVIDIA's most powerful GPU is so rarely sold to consumers
+Sat, 26 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2265946/why-most-powerful-nvidia-gpu-rarely-sold-to-consumers/
+
+NVIDIA's $16,000 RTX PRO 6000 can beat the RTX 5090, but gamers aren't who it's built for.
+
+### Get better audio quality from your vinyl by upgrading this part
+Sat, 26 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2265869/vinyl-better-audio-quality-best-upgrade/
+
+Swapping out your turntable's stylus is an easy upgrade.
+
+### Is your Roku TV talking to you? Here's why and how to turn it off
+Sat, 26 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2265732/why-roku-tv-talking-to-you-how-turn-off/
+
+Relax, that voice you're hearing from your Roku is pretty easy to turn off.
+
 ### This app lets you use an Apple Watch with an Android phone
 Sat, 26 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2265684/app-to-use-apple-watch-with-android-phone/
 
 If you switched from iPhone to Android, you don't necessarily need to change watches. There's an app that lets Apple Watch work with Android.
 
-### You can check your Samsung Galaxy's health with a built-in test
-Sat, 26 Sep 2026 13:45:00 +0000 — https://www.engadget.com/2265327/how-to-check-samsung-galaxy-phone-health-diagnostics-test/
-
-If your Samsung phone is acting strangely, you can test just about any element of the phone's hardware using this test.
-
-### Vertical or horizontal: Does it really matter how you set up your gaming console?
-Sat, 26 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2265682/does-gaming-console-orientation-matter-vertical-vs-horizontal/
-
-Your PS5 or Xbox Series console can use either setup, but you should consider what's best for your space first.
-
-### One problem with your iPhone's Always-On Display can easily be fixed
-Sat, 26 Sep 2026 13:00:00 +0000 — https://www.engadget.com/2265555/iphone-always-on-display-one-problem-simple-fix/
-
-The Always-On Display feature of your iPhone should be straightforward, but it can turn off in several situations. You can control some of those.
-
-### Improve your Windows 11 experience by changing these settings
-Sat, 26 Sep 2026 12:45:00 +0000 — https://www.engadget.com/2265283/improve-windows-11-experience-change-these-settings/
-
-Windows 11 is solid out of the box, but it doesn't always get things right. You can get a lot more out of the OS when you enable some things and disable others.
-
-### These Xbox players got GTA 6 for free the hard way
-Sat, 26 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2265444/how-to-get-gta-6-free-xbox-reward-points/
-
-GTA VI could be yours for free, or at least for a big discount, using a few tricks that Xbox offers.
-
-### Sleep mode vs. shutdown: Which is better to use daily for your MacBook?
-Sat, 26 Sep 2026 12:00:00 +0000 — https://www.engadget.com/2265432/sleep-mode-vs-shutdown-macbook-which-is-better-daily/
-
-Whether you do a full shutdown or just put your MacBook to sleep should change with the circumstances we discuss here.
-
-### OpenAI's agents targeted and infiltrated US government websites
-Sat, 26 Sep 2026 11:58:20 +0000 — https://www.engadget.com/2269776/openai-agents-targeted-us-government-websites/
-
-OpenAI's agents targeted websites operated by the Commerce Department, the Securities and Exchange Commission and the Department of Education during testing.
-
-### Control Resonant, rapidfire CEO turnovers and other new indie games worth checking out
-Sat, 26 Sep 2026 11:30:00 +0000 — https://www.engadget.com/2269434/control-resonant-rapidfire-ceo-turnovers-and-other-new-indie-games-worth-checking-out/
-
-Plus, a major Ball x Pit expansion and a release date for a game I can't wait to play more of.
-
-### Engadget review recap: Apple devices, Sonos' return and more
-Sat, 26 Sep 2026 11:30:00 +0000 — https://www.engadget.com/2269326/engadget-review-recap-apple-devices-sonos-return-and-more/
-
-A roundup of recent reviews from Engadget.
-
-### How to stop Meta training its AI models on your smart glasses' visual data
-Fri, 25 Sep 2026 20:35:15 +0000 — https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/
-
-The setting affects whether workers can review photos and videos from your glasses.
-
-### New Mexico jury rules Meta misled state residents about data privacy
-Fri, 25 Sep 2026 20:12:54 +0000 — https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/
-
-The company is still paying for the Cambridge Analytica scandal.
-
 ## TechCrunch
+
+### Meta and YouTube say they will run ads for ‘Musk’ documentary after all
+Sat, 26 Sep 2026 17:44:00 +0000 — https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/
+
+Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.
+
+### Levoit s new air purifier is for the pet odors that have taken over your apartment
+Sat, 26 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/
+
+This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
 
 ### I created an interactive digital avatar of myself — and you can talk to it
 Sat, 26 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/
@@ -413,14 +423,4 @@ Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneursh
 Fri, 25 Sep 2026 18:33:59 +0000 — https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
 
 The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.
-
-### The Aeropod automates soil aeration without robotics — see it at TechCrunch Disrupt
-Fri, 25 Sep 2026 17:30:00 +0000 — https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/
-
-Muju Earth Technologies has developed a deceptively simply pod that can save farmers money while improving crop yields.
-
-### Some Supabase customers are publicly exposing reams of people s data to the web
-Fri, 25 Sep 2026 17:29:46 +0000 — https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/
-
-The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly.
 

@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-26T14:43:50.466Z
+# Manga — harvested 2026-09-26T19:22:40.311Z
 
 ## Anime News Network
+
+### MY HERO ACADEMIA: All's Justice Switch 2 Port Video Game Review
+Sat, 26 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-2-port-video/my-hero-academia/all-justice/.242057
+
+This game is meant to enhance the experience of an established fan rather than draw in potential new ones.
+
+### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 24
+Sat, 26 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-24/.242218
+
+And so ends another season with the Misfit Class. Luckily the English translation of the manga has caught up with the anime, so we won't have to wait to find out what happens next.
 
 ### Chizu Kamikō's Seijo Mellia to Sennen Ōkoku no Kishi Manga Ends
 Sat, 26 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/chizu-kamiko-seijo-mellia-to-sennen-okoku-no-kishi-manga-ends/.240200
@@ -52,21 +62,16 @@ Fri, 25 Sep 2026 14:45:35 -0400 — https://www.animenewsnetwork.com/watch/2026-
 
 The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.
 
-### Hell Mode Anime Gets 3rd Season for 'S-Rank Dungeon Conquest Arc'
-Fri, 25 Sep 2026 14:21:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/hell-mode-anime-gets-3rd-season-for-s-rank-dungeon-conquest-arc/.242198
-
-Anime's 2nd season ended on Friday
-
-### Dentsu Enters Partnership with Kodansha
-Fri, 25 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/dentsu-enters-partnership-with-kodansha/.242186
-
-Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Re:ZERO Season 4 Final Episode to Air as 45-Minute Extended Special on September 30
+Sat, 26 Sep 2026 14:45:52 GMT — https://animecorner.me/rezero-season-4-final-episode-to-air-as-45-minute-extended-special-on-september-30/
+
+Re:ZERO Season 4 will conclude with an extended 45-minute final episode (Episode 19) on September 30, 2026.
 
 ### Netflix Faces New Backlash After Steel Ball Run JoJo Fans Call for Ending Theme Change Due to Dr. Luke Credit
 Sat, 26 Sep 2026 14:03:32 GMT — https://animecorner.me/netflix-faces-new-backlash-after-steel-ball-run-jojo-fans-call-for-ending-theme-change-due-to-dr-luke-credit/
@@ -117,16 +122,6 @@ Mushoku Tensei: Jobless Reincarnation Season 3 ends the Summer 2026 weekly ranki
 Fri, 25 Sep 2026 11:06:53 GMT — https://animecorner.me/the-apothecary-diaries-season-3-new-trailer-previews-ending-song-by-eve/
 
 The Apothecary Diaries Season 3 revealed a new trailer and ending theme song by Eve ahead of its October 2, 2026 premiere.
-
-### Fall 2026 Most Anticipated Anime Rankings
-Thu, 24 Sep 2026 15:30:00 GMT — https://animecorner.me/fall-2026-most-anticipated-anime-rankings/
-
-Cyberpunk: Edgerunners 2 tops the Fall 2026 Most Anticipated Anime ranking, followed by The Apothecary Diaries Season 3 and Blue Box Season 2.
-
-### SEKIRO: NO DEFEAT Full TV Anime to Run for 8 Episodes Starting in January 2027, New Visual Revealed
-Thu, 24 Sep 2026 15:12:13 GMT — https://animecorner.me/sekiro-no-defeat-full-tv-anime-to-run-for-8-episodes-starting-in-january-2027-new-visual-revealed/
-
-The full SEKIRO: NO DEFEAT TV anime will begin in January 2027 with a&hellip;
 
 ## MyAnimeList News
 
