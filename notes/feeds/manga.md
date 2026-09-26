@@ -1,6 +1,21 @@
-# Manga — harvested 2026-09-25T20:07:49.533Z
+# Manga — harvested 2026-09-26T09:31:47.015Z
 
 ## Anime News Network
+
+### Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19
+Sat, 26 Sep 2026 01:37:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205
+
+Short will screen alongside new HD remastered "movie edition" of <cite>Future GPX Cyber Formula: Early Days Renewal</cite> compilation OVA
+
+### Starbucks Japan Introduces 1st Pokémon Collaboration
+Fri, 25 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-25/starbucks-japan-introduces-1st-pokemon-collaboration/.242180
+
+Your favorite Pokémon now come in coffee form
+
+### North American Anime, Manga Releases, September 20-26
+Fri, 25 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/north-american-anime-manga-releases-september-20-26/.242064
+
+<cite>ChaO</cite> anime; <cite>Cells at Work! Cat, Mage of Leda, Servant Beasts</cite> manga ship
 
 ### Ace Combat 8: Wings of Theve Game Streams Opening Cinematic
 Fri, 25 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/ace-combat-8-wings-of-theve-game-streams-opening-cinematic/.242182
@@ -40,33 +55,23 @@ Partnership makes Dentsu central point of contact for brand marketers looking to
 ### Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels
 Fri, 25 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194
 
-Also: <cite>Oh Boy, Was I Wrong About Her</cite>, <cite>The Returned Tyrant Princess Rewrites Her Dark Past</cite>, more
+Also: <cite>Oh Boy, Was I Wrong About Her</cite>; <cite>The Returned Tyrant Princess Rewrites Her Dark Past</cite>; more
 
 ### Historié Volumes 1-2 Digital Manga Review
 Fri, 25 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465
 
 Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.
 
-### Please Excuse My Younger Brothers TV Anime Reveals More Cast, New Ending Theme
-Fri, 25 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/please-excuse-my-younger-brothers-tv-anime-reveals-more-cast-new-ending-theme/.242184
-
-Yōko Hikasa joins cast
-
-### 'Draw This, Then Die!' Anime Gets 2nd Season
-Fri, 25 Sep 2026 11:15:06 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/draw-this-then-die-anime-gets-2nd-season/.242193
-
-Season 1 ended on Friday
-
-### Tatsuki Fujimoto 17-26 Anime, My Melody & Kuromi Stop-Motion Animated Series Nominated for International Emmy
-Fri, 25 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/tatsuki-fujimoto-17-26-anime-my-melody-and-kuromi-stop-motion-animated-series-nominated-for-/.242190
-
-International Emmy Awards announce winners on November 23
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Fake Alchemist Reveals First PV and Key Production Details
+Sat, 26 Sep 2026 00:40:08 GMT — https://animecorner.me/the-fake-alchemist-reveals-first-pv-and-key-production-details/
+
+The production committee for The Fake Alchemist (Nisemono no Renkinjutsushi)has released a promotional video&hellip;
 
 ### Summer 2026 Anime Rankings – Week 12
 Fri, 25 Sep 2026 14:00:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-12/
@@ -117,16 +122,6 @@ Katekyo Hitman REBORN! anime released the creditless version of its eight and fi
 Thu, 24 Sep 2026 10:06:13 GMT — https://animecorner.me/rudy-takes-action-in-mushoku-tensei-season-3-episode-14-preview/
 
 Mushoku Tensei Season 3 revealed the Episode 14 preview images and synopsis ahead of its September 27 premiere.
-
-### Phantom Busters Anime Adaptation Announced for 2027
-Thu, 24 Sep 2026 09:04:29 GMT — https://animecorner.me/phantom-busters-anime-adaptation-announced-for-2027/
-
-Neoshoco's Phantom Busters manga is officially getting a TV anime adaptation in 2027, as announced on September 24.
-
-### The Exiled Heavy Knight Knows How to Game the System Part 2 Reveals Main Trailer, Visual, Theme Songs and New Cast
-Wed, 23 Sep 2026 23:19:44 GMT — https://animecorner.me/the-exiled-heavy-knight-knows-how-to-game-the-system-part-2-reveals-main-trailer-visual-theme-songs-and-new-cast/
-
-The Exiled Heavy Knight Knows How to Game the System revealed a new visual and main trailer for Part 2, which will continue in Fall 2026.
 
 ## MyAnimeList News
 
@@ -185,16 +180,16 @@ Thu, 24 Sep 2026 02:58:12 -0700 — https://myanimelist.net/news/74754150?_locat
 
 The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...
 
-### Phantom Busters TV Anime Announced For 2027
-Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss
-
-Production company TOHO animation opened an official website for a television anime adaptation of Shoco s Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### The Princess Groom Volume 1 Review
+Sat, 26 Sep 2026 09:00:40 +0000 — https://animeuknews.net/2026/09/the-princess-groom-volume-1-review/
+
+Square Enix Manga brings us a new fantasy romance, but with a twist! A prince who dreams of being doted on and a boisterous noble lady who wants to shower her husband-to-be with affection.
 
 ### Crunchyroll Announces Home Entertainment Release Schedule October-November 2026
 Fri, 25 Sep 2026 14:05:17 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-home-entertainment-release-schedule-october-november-2026/

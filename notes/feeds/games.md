@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-25T20:07:49.533Z
+# Games — harvested 2026-09-26T09:31:47.015Z
 
 ## Eurogamer
+
+### What we've been playing - "I curl up on my sofa and breed my army of battle cats"
+Sat, 26 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie's still pretending to be a vampire, Kelsey's been breeding an army of cats, Mat's been melting mounted warriors, Marie's been a willing accomplice, and Connor's been smitten all over again. Read more
 
 ### Skyrim loremaster says The Elder Scrolls never got a Fallout: New Vegas-style game because Bethesda is "very protective" over its golden goose
 Fri, 25 Sep 2026 19:02:39 +0000 — https://www.eurogamer.net/skyrim-elder-scrolls-never-fallout-new-vegas-bethesda
@@ -56,11 +61,6 @@ Is Sony having second thoughts about ending PlayStation disc support? The questi
 Fri, 25 Sep 2026 10:32:41 +0000 — https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction
 
 Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more "approachable" experiences with "different levels of intensity and commitment." Read more
-
-### The Blood of Dawnwalker's divisive time mechanic was once much stricter, but it was loosened because of "fear" around the game
-Thu, 24 Sep 2026 16:52:27 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-time-mechanic-originally-stricter
-
-I've had a hunch ever since playing The Blood of Dawnwalker that its divisive time limit feature - whereby you have 30 in-game days and nights to save your character's family from a nasty pack of vampires - isn't as strict as Rebel Wolves once intended it. And it turns out I was right. Read more
 
 ## GamesIndustry.biz
 
@@ -119,16 +119,31 @@ Thu, 24 Sep 2026 10:12:10 +0000 — https://www.gamesindustry.biz/tinybuild-reve
 
 TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by "strong catalogue performance and new launches." Read more
 
-### Microsoft files patent for "ad-credit" system to show ads on PC and Xbox without disrupting gameplay
-Thu, 24 Sep 2026 07:56:51 +0000 — https://www.gamesindustry.biz/microsoft-files-patent-for-ad-credit-system-to-show-ads-on-pc-and-xbox-without-disrupting-gameplay
-
-Microsoft has patented an "ad-credit" system to display adverts and announcements during PC and Xbox game sessions without disrupting gameplay. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: All PS Plus Games Available Now
+Sat, 26 Sep 2026 00:15:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
+
+Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
+
+### GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots
+Sat, 26 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots
+
+Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns. "Our 14-page cover story features exclusive interviews with Rockstar Games, plus a dozen new screenshots," the outlet teased today. The issue is out on Tuesday, 29th September 2026. Read the full article on pushsquare.com
+
+### Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles
+Fri, 25 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles
+
+Now find them for yourself. Insomniac has pushed live another PS5 patch to Marvel's Wolverine that further addresses the complaints surrounding the scent trail that guides you to objectives and collectibles at certain points. Having downloaded PS5 patch 1.001.006 , there will be a new toggle in the settings that lets you turn off all of the scent trails and indicators that lead you to collectibles. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 651
+Fri, 25 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651
+
+What a horrible night to have a curse. After weeks and weeks of crazy gaming stories, I think it was nice to have a slower one this time. Don’t get me wrong, there’s tons of titles coming out, but the news cycle in particular was a lot steadier these past few days. Let’s WAYP. Jamie O’Neill Portable PS1 games on my PS Vita are serving me well at the moment, so I'm going to follow in Stephen's footsteps – echoing through Dracula's castle's stone flooring from back in WAYP 639 – by returning to Castlevania: Symphony of the Night . Read the full article on pushsquare.com
 
 ### PS5 Fans Encouraged to Give Feedback on Discs in New Sony Survey
 Fri, 25 Sep 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/09/ps5-fans-encouraged-to-give-feedback-on-discs-in-new-sony-survey
@@ -169,26 +184,6 @@ Updates in October and November. Remedy will add an infinite New Game+ option an
 Fri, 25 Sep 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore
 
 It's not out in time for the Golden Joysticks awards. Here's one Game of the Year award GTA 6 can't win in 2026: the Console Game of the Year at the Golden Joysticks . The awards show has today revealed its lineup of nominees for each accolade it has to offer, and GTA 6 is absent. Why? Because the Golden Joysticks take place eight days before the game is even out. Reviewers will still be playing the game at that point, and nominations for the awards had to be submitted by 28th August anyway. Read the full article on pushsquare.com
-
-### Review: Ace Combat 8: Wings of Theve (PS5) - The Series Lands Its Most Confident Entry Yet
-Fri, 25 Sep 2026 14:00:00 GMT — https://www.pushsquare.com/reviews/ps5/ace-combat-8-wings-of-theve
-
-Rex machina. Ace Combat 8: Wings of Theve launches into a reality where its predecessor, Ace Combat 7: Skies Unknown , became easily the most successful entry in the series. That puts it in an odd spot; there's a pressure on the follow-up to outdo what came before, but it's that success that provides Bandai Namco Aces the means to do so. Read the full article on pushsquare.com
-
-### Buy The Witcher 3 for 50% Off on the PS Store Now, Get Its PS5 Remaster for Free Next Week
-Fri, 25 Sep 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/09/buy-the-witcher-3-for-50percent-off-on-the-ps-store-now-get-its-ps5-remaster-for-free-next-week
-
-Best deal in gaming. Here’s a PS5 pro-tip if you’re yet to play CD Projekt RED’s ground-breaking open world RPG The Witcher 3 : buy the game’s Complete Edition for 50% off from the PS Store today, and you’ll automatically be upgraded to its remaster for free on 29th September. The Complete Edition includes all of Geralt’s adventures, including acclaimed expansions Hearts of Stone and Blood and Wine . Read the full article on pushsquare.com
-
-### New PS Portal Firmware Update Will Preserve Portable s Battery Life
-Fri, 25 Sep 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/09/new-ps-portal-firmware-update-will-preserve-portables-battery-life
-
-An important new setting added. Sony’s hit Remote Play handheld PS Portal has an important new update available which should help preserve the battery life of the peripheral. Available as part of v7.1.7, the new system software allows you to restrict charging to 80%, helping to extend the long-term health of the handheld’s battery. Read the full article on pushsquare.com
-
-### Rogue Prince of Persia Dev Now Done with Updates, Castlevania Just Weeks Away
-Fri, 25 Sep 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/09/rogue-prince-of-persia-dev-now-done-with-updates-castlevania-just-weeks-away
-
-Belmont's Curse out on 15th October. The recent anniversary update to The Rogue Prince of Persia will be its last, developer Evil Empire has announced, with its next release just over two weeks away. Castlevania: Belmont's Curse is that next title, and it's shaping up incredibly well, due for a PS5 release on 15th October 2026. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -292,57 +287,102 @@ How to reach the Secret Altar area in Fire Emblem: Fortune's Weave… Source
 
 ## Polygon
 
-### 8 New TV Shows to Watch This Weekend on Netflix, FX, and Apple TV (September 25-27)
-Fri, 25 Sep 2026 20:00:16 GMT — https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-september-25-27/
+### 11 anime to watch if you like Frieren
+Sat, 26 Sep 2026 08:04:15 GMT — https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/
 
-Happy weekend! There are a lot of shows to watch on TV this week, from the return of a long-running franchise to spin-offs to new shows entirely. American Horror Story is back with a 13th season, featuring the return of many fan-favorite characters. There’s also American Hostage , Jon Hamm’s new true-crime thriller based on the 1977 kidnapping that involved radio host Fred Heckman.
+While Frieren remains singular, a handful of anime come close to capturing its laid-back atmosphere or exploring similar themes. Series like Delicious in Dungeon and The Apothecary Diaries aren’t direct analogues for Frieren , but they share its comforting spirit. Some of the following stories send their protagonists on similarly epic journeys; others linger on the warmth that develops between traveling companions. With those qualities in mind, here are 11 anime worth watching before season 3 of Frieren arrives.
 
-### Fortnite Chapter 7 Season 4 birthday power hour times in your time zone
-Fri, 25 Sep 2026 19:02:04 GMT — https://www.polygon.com/fortnite-chapter-7-season-4-birthday-power-hours-what-time/
+### Game Changer Fans Want More ‘Rulette,’ but Dropout CEO Sam Reich Isn't Convinced
+Sat, 26 Sep 2026 08:00:14 GMT — https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/
 
-To celebrate Fortnite 's birthday, there will be two sets of birthday power hours this weekend — and they'll be an hour longer than the usual weekend power hours.
+First played in season 7 with Jeremy Culhane, Anna Garcia, and Oscar Montoya, “Rulette” is ripe for chaos. Players wear velcro suits that get dotted with random rules they receive after spinning a giant, The Price Is Right -style wheel. They’re forced to obey those rules lest they lose points (rules might include being extra polite or not being able to use curse words ).
 
-### Xbox Downplays GTA 6's Massive PS5 Pre-Order Numbers
-Fri, 25 Sep 2026 18:58:32 GMT — https://www.polygon.com/gta-6-preorders-xbox-ps5-sales-matthew-ball-response/
+### CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming
+Sat, 26 Sep 2026 05:07:15 GMT — https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/
 
-Sony has basically spent the last year acting as if Grand Theft Auto 6 is a PlayStation 5 exclusive . Rockstar's open-world action game isn't a platform exclusive, of course: it's coming to Xbox, and perhaps eventually, to PC. Still, with so much pomp and circumstance on PlayStation — and estimates that the PS5 version of GTA 6 is vastly outperforming its competition — one might wonder how leaders at Xbox are feeling about the game's imminent release.
+In the realm of science fiction, pretty much all roads lead to, or derive from, The Twilight Zone . And this landmark show is currently free to stream on Tubi.
 
-### Bird Time correct answers in Fire Emblem Fortune's Weave
-Fri, 25 Sep 2026 18:23:05 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-bird-time-correct-answers/
+### Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free
+Sat, 26 Sep 2026 04:58:15 GMT — https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/
 
-Bird Time is the only way to raise any character's support level with Eshmel during Part 1 in Fire Emblem: Fortune's Weave . Whenever characters interact, either in or out of battle, they can gain support points. However, Eshmel is only a bird throughout the first routes, and you can't control them. Your only option to form a bond between them and the other characters is by having a quick chat with Eshmel at the Perch — an activity similar to the tea time in Fire Emblem: Three Houses .
+By the ‘80s, that pessimism curdled into a fully realized vision, and no film played a larger role in that than Scott’s Blade Runner. Its production is also one of the most infamous studio-creator struggles in Hollywood, with five different cuts released over the years. It wasn’t until 2007 that Blade Runner: Final Cut arrived, delivering the movie that Scott had envisioned all along — the fullest version of a film that, even in its mangled theatrical form, reshaped science fiction forever. That version is currently streaming for free on YouTube, and it's worth checking out if you've ever watched another cut of Blade Runner and wondered what else was hiding beneath its cyberpunk surface.
 
-### 'I Play Rocky' Review: Your Dad's New Favorite Movie Has Officially Arrived
-Fri, 25 Sep 2026 18:00:16 GMT — https://www.polygon.com/i-play-rocky-review/
+### Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name
+Sat, 26 Sep 2026 04:00:20 GMT — https://www.polygon.com/dark-matter-2015-canada/
 
-Let's get this out of the way: I Play Rocky is probably going to get some awards buzz. Peter Farrelly's trademark humor, much more subdued from his early days of teaming with brother Bobby for comedies like Dumb and Dumber and There's Something About Mary , shines brightly in a feel-good, underdog story about perseverance and triumph in the face of overwhelming odds. That probably sounds familiar if you've seen Rocky . It has strong performances and a lot of heart, a script that moves quickly despite a few stumbles, and a message that's punctuated explicitly by the film's final scene.
+Recently, a great many people have recommended that I watch Dark Matter , the second season of which premiered in August on Apple TV. The first couple of times it happened, I was confused, as I'd already seen Dark Matter and it had gone off the air almost a decade ago. Did someone get around to reviving it?
 
-### This 'Overwhelmingly Positive' Steam Cozy Sim Is Officially Outselling Major Game Releases
-Fri, 25 Sep 2026 17:35:16 GMT — https://www.polygon.com/steam-top-sellers-dressmaker-new-releases-cozy-sim-what-is/
+### 10 Free Browser Games That are Actually Fun to Play
+Fri, 25 Sep 2026 23:00:15 GMT — https://www.polygon.com/best-free-browser-games/
 
-There's a new big dog in town, and it's wearing a frilly dress. Dressmaker is a new cozy crafting game on Steam all about sewing together frocks and gowns . The game began as a humble three-week project and has since blown up to a full-fledged release that is tearing up the Steam charts. Currently, Dressmaker is number 10 on the Steam Top Sellers , outdoing recent releases such as Silent Hill: Townfall and The Blood of the Dawnwalker .
+If you do your research, though, you’ll find a treasure trove of easily-accessible gems — like a solo dev’s reworked Diablo village where you watch your party auto-battle its way through catacombs, or an idle game where managing catnip supply chains spirals into deep-space civilization management. Deduction mysteries, language-learning puzzles, and dungeon crawlers usually come with a price tag and a download bar. Tragically for your productivity and spare time, these ten do not.
 
-### All key of the Diadem locations in Fire Emblem Fortune's Weave
-Fri, 25 Sep 2026 17:27:20 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-all-key-of-the-diadem-location-where-to-find/
+### Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube
+Fri, 25 Sep 2026 22:25:20 GMT — https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/
 
-The keys of the Diadem in Fire Emblem: Fortune's Weave are unique items you can find while exploring certain dungeons during the Salvation arc. In Part 3 of the game, most of the time you will be looking for ways to level up your units and prepare for trying to close the many gates appearing in the world map. Because of that, you will want to visit all the dungeons you can, which may lead you to a chest containing one of these mysterious keys.
+Sports movies have a pretty impressive track record when it comes to becoming classics. From Rocky and Field of Dreams to Remember the Titans and Moneyball , there are plenty of movies that have managed to stick around in the cultural conversation long after they first hit theaters.
 
-### Shogun Producer Wants to Turn Mary Poppins Into a ‘Complex’ TV Series?
-Fri, 25 Sep 2026 17:26:51 GMT — https://www.polygon.com/mary-poppins-show-in-development-shogun-disney/
+### Health upgrade point locations in Control Resonant
+Fri, 25 Sep 2026 22:05:45 GMT — https://www.polygon.com/control-resonant-health-upgrade-point-locations/
 
-Winds in the east, mist coming in. Like something is brewing, about to begin. What that something is appears to be a Mary Poppins TV show. Following the bomb that was 2018's Mary Poppins Returns , a new take on the character is reportedly in the works that will bring the iconic nanny more in line with the version from the series of novels from which she originates.
+Health upgrade points are special items that are mostly found in large resource crates around the Control Resonant map.
 
-### All fault locations and traversal abilities in Control Resonant
-Fri, 25 Sep 2026 17:12:16 GMT — https://www.polygon.com/control-resonant-fault-traversal-ability-locations/
+### What time does Honkai Star Rail version 4.6 release in your time zone?
+Fri, 25 Sep 2026 22:01:15 GMT — https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/
 
-Faults are portals that take you to an abstract world in Control Resonant , and they get you one step closer to learning what happened to Jesse, the protagonist from Control and your sister.
+Honkai: Star Rail version 4.6 is coming soon, introducing Pearl as a playable character and continuing the story's Trailblaze Missions. As usual, this patch will also have new events to play to earn Stellar Jade and other sweet rewards.
 
-### 'Evil Dead Burn' Gets Its HBO Max Streaming Date Just in Time for Halloween
-Fri, 25 Sep 2026 17:06:01 GMT — https://www.polygon.com/evil-dead-burn-hbo-max-streaming-date/
+### Power upgrade point locations in Control Resonant
+Fri, 25 Sep 2026 21:59:06 GMT — https://www.polygon.com/control-resonant-power-upgrade-point-locations/
 
-Evil Dead Burn is coming to HBO Max just in time for Halloween. The latest film in the series hit theaters on July 10, 2026, going on to make $72.3 million at the box office on a $20 million budget. It scored generally positive reviews, with critics praising its scares and effects, which mostly made up for its characters falling flat .
+Power upgrade points are special items that are mostly found in large resource crates scattered around the Control Resonant map.
 
 ## PC Gamer
+
+### Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend
+Sat, 26 Sep 2026 02:08:31 +0000 — https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/
+
+I'll make this quick: Whatever you had planned for the weekend, you've got to carve four-and-a-half hours out for a last-minute swerve into the late '90s. Six months in the making, YouTube essayist Majuular is back with the (I believe) penultimate video in his multi-year Ultima series. "This one was a doozy," he wrote in the comments. It's Ultima Online. "From its unlikely formation at the behest of Richard Garriott and Starr Long, to its tempering at the hands of Raph Koster and his team of Multi-User Dungeon enthusiasts, to its changing identity in the face of competition, to its incalculable influence, this is the story of Ultima Online," the description reads. If you get the Ultima Online bug after watching the documentary, good news: it's still very much playable on both official servers and fan ones. Majuular highlighted the server he played on, In Mani Ylem , which aims to recapture the late '90s experience. You can find the entire video series in a playlist here , and I can't recommend watching them highly enough. In late 2025 we published a feature story about Majuular's quest to chronicle the making of Richard Garriott's genre-defining series, and how that mission unexpectedly catapulted him to YouTube success with more than 200,000 followers. It's a good read—and won't take you quite as long as watching all the videos. 'A good idea, infinite drive, and lots of Diet Pepsi': How YouTube essayist Majuular's life changed course telling the story of Ultima across 2 year
+
+### A running tally of the most ridiculous things AI bigwigs have said so far
+Sat, 26 Sep 2026 00:12:34 +0000 — https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/
+
+If there's anything the leaders of the AI era love more than watching the billion-dollar valuations of their companies tick up, it's warning us that the software making them rich might just destroy the world. AI is going to kill us all. Now, can we have more money for data centers, please? Their next favorite activity? Coming up with trendy phrases that either explain how toooootally smart the next upcoming AI model will be or justify why their previous claims of imminent AI sentience haven't quite arrived on schedule. These buzzwords and prognostications are hard to keep track of and even harder to parse. With new whoppers arriving every week, we're spinning up a running log that we can reference whenever we need to recall how often AI thought leaders contradict themselves and each other, and how constantly they move the goal posts. We'll update this blog whenever we notice a particularly absurd, empty, or unbelievable remark from an industry whose astronomical valuation is entirely down to the dubious claim that large language models are both going to destroy and save humanity. We're starting with just the last couple months of gobsmacking quotes, because going much further back would be too miserable. But first, it might be helpful to set the stage: 8 times AI guys declared AGI was right around the corner: AGI, or "artificial general intelligence," is often cited as a goal for AI development and spoken of with near-mythical reverence. Here's how OpenAI describes it: "If AG
+
+### I did the math on my Wardogs XP grind, and now I wish I hadn't
+Fri, 25 Sep 2026 23:47:08 +0000 — https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/
+
+I've had this goal in the back of my head to unlock all the Medic gear in Wardogs so I can become the best sawbones on the server. There's only one piece I still don't have—a medical bag that can both revive and heal teammates in one item. It's unlocked at Medic level 24, which doesn't sound so bad, since I've already reached level 18 over my first 30 hours of Wardogs. But this week I noticed my steady Medic rise had slowed considerably. I had been ranking up every one or two rounds, but now I'm lucky to climb a rank over a whole night of play. I'm doing just as well in matches—better than ever, actually, with the addition of defibrillators and stronger medkits—so that's not the issue. For the first time, I made note of the XP thresholds for leveling up and compared where I'm at to my goal. I wish I hadn't. So far I've gained 17 levels with 177,619 Medic XP. Level 24, just seven ranks later, will require 337,000 XP. So while it looks like I'm gaining on that useful medicine bag, I'm actually just 52% of the way there . So this is the brutal Wardogs grind I've been hearing about. Bummer. The mountain I was curious how that last 48% will translate to playtime and matches—maybe it'll go by faster than it sounds—so I did an unscientific test: I played an average match with my typical focus on revives and healing. For the record: I'm an OK player at best. To maximise XP gains, I also brought an SMG and purchased stims to administer to teammates. Over a 50-minute match on the winni
+
+### How to open the auxiliary lines in Part 6 of Silent Hill: Townfall
+Fri, 25 Sep 2026 23:15:07 +0000 — https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/
+
+Key items Code to the locker in the command centre: 0825 Key to the auxiliary room found in said locker. A floppy disk found in the locker inside the auxiliary room. Opening the auxiliary lines at the end of Part 6 in Silent Hill: Townfall is perhaps its most complicated yet simple puzzle. By this point in the game my brain was completely fried and my nerves were shot. So in case you're also in a bad spot, here are some tips to point you in the right direction. Spoilers ahead for Silent Hill: Townfall How to get to the Auxiliary Room Before you head to the elevator and go up to the auxiliary room, you'll need to get the key. This can be found in the command centre, and the code to get into it is 0825 . Inside, you'll find the key to the auxiliary room. Now you can head downstairs to the elevator, but be warned—this is where The Weight and other monsters are lurking, so you need to be cautious. You can make a mercy dash to the elevator as the doors close quickly, but it'll be tight. Once you've made it to the next floor, there'll be a couple of smaller monsters who you can easily circumvent. Make sure to close the door to the auxiliary room once you're inside. How to open the auxiliary lines (Image credit: Konami) Here you'll find a pipe running across the walls with levers at various intervals. There's also a locker and a desk with a terminal. The first step is to open the locker and find the floppy disk. Then, head to the terminal and use the floppy disk to get your clue: a 
+
+### My favorite $6 RPG on Steam just got a beastmode free 'Enhanced Edition' update
+Fri, 25 Sep 2026 22:26:16 +0000 — https://www.pcgamer.com/games/rpg/my-favorite-usd6-rpg-on-steam-just-got-a-beastmode-free-enhanced-edition-update/
+
+FlyKnight is a $6, first-person RPG in the King's Field/Lunacid mold that whips ass, looks like Old School Runescape, and feels like it could have asked for twice as much money and still been a bargain. That alone makes it one of my easiest recommendations on Steam, but it also just got a free update of the GOTY/Enhanced/Definitive Edition variety, from its solo dev, while still only asking new players for $6 upfront⁠—$4 at the time of writing, thanks to a sale running through September 30. Here are the big Enhanced Edition additions: Multiple difficulties, with a Miyazaki's Choice™ poison swamp exclusive to Hard Item and enemy randomization, with savable procedural generation seeds Four new weapon types, and an unspecified number of additions to previous weapon categories Performance improvements "especially noticeable on Steam Deck"—which is great, because that's definitely where I most recommend playing Graphics, UI, and balance tweaks, plus bugfixes The update's pound-for-pound beefiness is appropriately proportional to FlyKnight's own: I loved the seven hours I spent with this game on Steam Deck last year, and always meant to revisit it⁠—now I have the perfect excuse. FlyKnight has the vibes and the charm down, but so do a lot of entries in this growing subgenre of indie King's Field-alikes . What set it apart for me was its excellent combat. FlyKnight has this very unique, satisfying system of locational limb damage, letting you priority target weak spots or weapon-hold
+
+### Guess who patented a new system for in-game ads
+Fri, 25 Sep 2026 22:10:04 +0000 — https://www.pcgamer.com/gaming-industry/guess-who-patented-a-new-system-for-in-game-ads/
+
+Tom's Hardware and Respawn First recently reported on a fun new patent from those wiz kids at Microsoft, one that would dynamically pause your game to show you advertisements. Here are the big wham lines from the abstract of US 202610260258 A1 , "Contextually Aware Management of Interactive Software Application Access:" "A content management system may suspend a user's interaction with the interactive software application based on the promoted content trigger event." (Emphasis mine) "A content management system may present the promoted audiovisual content to the user." "A content management system may establish a credit … the credit delays suspension of the user's interaction." That's the sort of whimsical creativity that made me fall in love with games in the first place. In plain English: This is a system for showing advertisements during gameplay, one that pauses your game (suspends your interaction). Similar to ad-supported mobile games, Microsoft proposes a credit system where these tokens can be exchanged for more ad-free game time. Microsoft explains that videogames do not lend themselves to regular commercial breaks in the same way as TV shows, necessitating a partially user-controlled, credit-based system for managing advertisement delivery. The other half of the equation: Having it monitor gameplay and avoid deploying ads during climactic or lean-forward moments. How thoughtful. This sounds, quite frankly, god-awful. One of the worst case scenario arguments against 
+
+### The eyes of Valve's creepy portrait are glowing again
+Fri, 25 Sep 2026 22:08:12 +0000 — https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/
+
+The portrait of the man with red gloves is glowing again , which can only mean one thing for Deadlock players: Valve is about to drop a major new update very soon. Real soon, in fact. The last time the portrait in the main hub started glowing was before the Old Gods, New Blood update , which introduced six new heroes, a new mode, and a bunch of other things that elevated the game from Valve's pet project to a real videogame that might actually see the light of day. One of the developers at Valve confirmed it on Discord, too, but when we're talking about the community of players who desperately track pizza orders for signs of new updates, they'll take any extra confirmation they can get. "Heads up we are planning on releasing the major content update early next week," the mysterious developer-ran Discord account Yoshi wrote after weeks of speculation from the community. In typical Valve fashion, however, it hasn't said a word about what will actually be in the new update, just that it will be big. Deadlock recently overhauled its ranked mode and kicked off its first ranked season. Since then, it's just been small balance updates. (Image credit: Tyler C. / Valve) Valve hitting the glowing eyes button sure makes it seem like there could be a new batch of heroes and revisions to the dwindling number of obviously-unfinished bits in the game. Dataminers have dug up new models for Deadlock's version of MOBA towers, which could be part of a broader visual update for the few things th
+
+### 'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam
+Fri, 25 Sep 2026 21:13:49 +0000 — https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/
+
+It's just as fun as you remember and it only costs $5 on Steam . Hopefully all those folks who wishlisted it will dive back in for some gruesome nostalgia, and maybe some younger gamers will find it for the first time. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)
+Fri, 25 Sep 2026 20:02:57 +0000 — https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/
+
+Scottish grandmother Cath Bowie's hunger for bloodshed is celebrated by thousands. Recently named the world's oldest female Fortnite steamer by Guinness World Records, Bowie began playing the battle royale behemoth under the nom de guerre grumpygran1948 in 2017. Now streaming for an audience of over 24,000 followers, she was introduced to the game by her grandson, who—unwisely—doubted his grandmother's prospects as a conqueror. "As a young guy he just couldn't believe that his grandma would do such a thing and suggested that nobody would join me or watch me," Bowie told Guinness World Records . "Saying that was like a red rag to a bull to me. I would show him that I could do it. 24,000+ followers later and he doesn't mention it. I wonder why?" Given Bowie's self-professed singleminded pursuit of glorious slaughter, I can't blame her grandson for his reticence. Bowie says that during her daily Fortnite sessions, she's not playing for Victory Royales. Instead, she has a simpler, purer aim: "The one thing I do like, you see—this is me and my challenging nature—is to go in and eliminate folk," Bowie said in a video interview with the BBC . According to Bowie, her delight over the thunder of gunfire and the lamenting choir of her countless shattered foemen has never waned, even after nine years. "The most important thing of all is that in all these years I have continued to enjoy every day, every week, every month and every year that I have played and streamed," she said. "I’m inc
 
 ### World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'
 Fri, 25 Sep 2026 19:55:45 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/
@@ -359,52 +399,12 @@ Fri, 25 Sep 2026 18:51:15 +0000 — https://www.pcgamer.com/games/sim/i-feel-lik
 
 Papers, Please : Your decisions as a shopkeeper have an effect. If you spot someone on the wanted list coming in to your store, you can report them to security for a reward—but keep in mind they may be members of the resistance fighting against the cruel dystopia. Dredd : With customers coming in from the poverty-stricken lower levels and the wealthier upper levels, it feels like I'm working a shop in one of those massive towers from the Dredd movie, even though in the game's fiction I'm actually working in a cyberpunk space-station. Strange Horticulture : My favorite shopkeeping sim is a fascinating detective game in disguise , and there's a hint of it in Probably Stolen. You can use a magnifying glass to examine items to see if they're counterfeit and as an appraisal tool to judge their value, a bit like how you search for clues to ID plants in Strange Horticulture. Fun! Fallout : You can farm rats for their meat, set up water purification systems, scavenge through trash heaps to find scrap to turn into sellable goods... I know I'm on a space station, but it feels a little like I'm trying to earn a buck in the wasteland. Recettear: An Item Shop's Tale : You're not just selling, you're buying, and you can haggle over prices, sometimes at the expense of your reputation. Demand in the station can change: if a mining expedition docks, for example, you can expect the prices of metals to plunge as supply explodes. You'll have to be nimble and keep your eye on what's valuable from
 
-### For Warhorse's 15th birthday, we chatted with its co-founder about the demand for 'grown-up' RPGs, AI, why games are too cheap, and his role in the collapse of communism
-Fri, 25 Sep 2026 17:35:09 +0000 — https://www.pcgamer.com/gaming-industry/game-development/for-warhorses-15th-birthday-we-chatted-with-its-co-founder-about-the-demand-for-grown-up-rpgs-ai-why-games-are-too-cheap-and-his-role-in-the-collapse-of-communism/
-
-Martin Klíma is an iconoclast. As the co-founder of Warhorse Studios, he's responsible for one of the crunchiest, most peculiar, and best RPGs of the last decade—Kingdom Come: Deliverance 2, a game few other studios would make. As a former student rabblerouser in the old eastern bloc, he's the only person I've ever spoken to for this job who can say they helped overthrow a government. He's celebrating the Warhorse's 15th anniversary, a milestone moment in a life that has a lot of them already. "I'd swear it was just yesterday," he says, that he and his fellow co-founder—the eternally fractious Daniel Vávra—were two disaffected devs striking out on their own. But Klíma's career did not begin with the incorporation of Warhorse Studios. It began in the actually existing socialism of Czechoslovakia, in the 1980s. History check "I was learning English at school, but it was sort of difficult," recalls Klíma. English educational materials had to be imported from friendly countries, and the only friendly English-speaking country at the time was Ghana, whose materials were miles away from the things Klíma was actually interested in. "I mean no disrespect to the people of Ghana, but it's a bit of an unusual approach to teaching kids English, and so our vocabulary was more about combine harvesters and blast furnaces than swords and dwarves." What Klíma wanted to read, more than anything, was The Lord of the Rings. But although The Hobbit had been officially published in Czechoslovakia, 
-
-### I made the hot dog vendors in GTA 5 work because Rockstar never did
-Fri, 25 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-made-the-hot-dog-vendors-in-gta-5-work-because-rockstar-never-did/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . I have filled a yawning void in the soul of Los Santos. I have returned the heart to a heartless world. I am a teacher, a healer, a gardener of human happiness. My efforts have ensured the general flourishing of society and the wellbeing of the spaceship Earth. Grand Theft Auto 5 has Working Hotdog Vendors now. Based on the evidence, Rockstar probably intended the hot-dog-purchasing experience in GTA 5 to work much as it did in GTA 4. Why didn't it? A mystery. Dundee was busy working on horse testicles, or whatever it is they do up there, and forgot. Anyway, it works now. You can now stroll up to the meat-slingers of Los Santos beach and give them five (thanks Obama) dollars for some sort of fleshy tube in a bun. This is electrifying. The hot dogs heal you, just like in real life, but my favourite part is how they interact with the random-teleport mod I hucked onto my teetering GTA 5 pile just yesterday. One moment you'll be handing over your money, the next you will be perched atop the not-Hollywood sign, lazily chowing down on your grub. Also, the bodyguards that the celebrity mod has assigned you will keep manifesting in thin air next to you before plunging to their deaths. This does not interrupt the hot dog consumption p
-
-### 'Everything is hard. But it turns out that’s not society’s problem, that’s my problem,' says Jensen Huang about AI development
-Fri, 25 Sep 2026 16:31:14 +0000 — https://www.pcgamer.com/software/ai/everything-is-hard-but-it-turns-out-thats-not-societys-problem-thats-my-problem-says-jensen-huang-about-ai-development/
-
-Nvidia CEO Jensen Huang has appeared on The Ezra Klein Show to discuss AI development, amid a wider discussion around its responsible usage and safety. Klein spoke to the Nvidia chief about multiple topics, including the AI industry's potential effects on the job market. "I tend to be a bit of a skeptic on mass job loss, but I want to air the case for it out here with you well," says Klein. Klein then asks a question about lessons that could be learned from the past, regarding protecting US jobs from Mexico and China, and the acceleration of AI's ability to be slotted into new roles: "So the lessons of the past that you’re taking some comfort in, they should actually make you more, not less, worried about the future." "I’m always worried about the future," Huang responds. "That’s why I work so hard. I’m a, if you will, responsible optimist. "I have great responsibilities. I take my work extremely seriously. There are a lot of things that can go wrong. We’re pushing across every layer of the technology stack. Everything is hard," Huang continues. "But it turns out that’s not society’s problem, that’s my problem. For society, what they should know is this: We’re going to build our company, we’re going to build our technology, I’m going to do my work so incredibly seriously that what they get to enjoy is my optimism. I do the same with my children. I do the same with my family." (Image credit: Nvidia) Certainly, the current AI debate seems to be dominated by an unease surroundin
-
-### A pro CS2 player told me he ditched his Superstrike gaming mouse for the older Superlight 2 because it was 'inconsistent'
-Fri, 25 Sep 2026 16:30:22 +0000 — https://www.pcgamer.com/hardware/gaming-mice/a-pro-cs2-player-told-me-he-ditched-his-superstrike-gaming-mouse-for-the-older-superlight-2-because-it-was-inconsistent/
-
-I found yxngstxr's candidness fantastic, here, considering we were at a Logitech G Play event when he said these words to me—an event surrounding the launch of the X3 Superstrike, no less. I trusted what he was saying: he liked the Logitech G Pro X2 Superstrike and tried it for a while, but found it inconsistent, and had heard about it having a front-weighted balance. The front balance is something I'd noticed, and it seems Logitech has, too, because the new X3 Superstrike has its weighting more centrally balanced—one of the biggest upgrades to the new one. It will be interesting to see whether yxngstxr switches to the X3 now. Another CS2 pro, Oscar 'Azuwu' Bell, reminded me: "M0nesy [one of the best CS2 players], before the major, he was on the Superstrike, and for the major he went back to the Superlight." For my part, I tend to think that shape is king and whatever fits your hand and your grip most comfortably is what will serve you better. Which is in part why I'm hoping that Logitech releases more mouse shapes with the Superstrike's HITS system in there. I did ask Logi about this—perhaps a 'Dex' shape—but the company wouldn't say yes. Perhaps notably, I didn't get a 'no', either. ]]>
-
-### I've worked at PC Gamer for 18 years. These are the 13 games on my Steam Wishlist
-Fri, 25 Sep 2026 15:18:00 +0000 — https://www.pcgamer.com/games/ive-worked-at-pc-gamer-for-18-years-these-are-the-13-games-on-my-steam-wishlist/
-
-I usually use Steam's wishlisting feature to make sure I don't forget about interesting projects that have open-ended development times, games like Anvil Empires that have been in development for years but still don't have a confirmed date. I'm looking forward to stuff like Dawn of War 4 and Divinity, but I don't tend to wishlist big, obvious games like this. My genres are first-person shooter, deckbuilders, and tactics, which you'll see favored here more than a little. Kriegsfront Tactics A spiritual successor to one of my favorite PlayStation series, Front Mission. I will forever believe that mechs make the best enemies, and the '70s Southeast Asia setting is fresh. Space Station 14 Endearingly old-school multiplayer story generator astro-sandbox. SS13 is one of DayZ creator Dean Hall's favorites, if that tells you something. Hull Rupture Spaceship tower defense with wonderfully intricate, cross-section pixel art. The third game in the quietly-growing Despot's game cinematic universe. Tom Clancy’s Rainbow Six Tactics Hot out of Gamescom. This will be the second Siege spinoff, if you remember Extraction. Anvil Empires Hold up, the Foxhole people are making a persistent medieval strategy MMO? I volunteer to spend most of 2027 operating a scythe in northern Flanders (for the cause). Let's Build a Dungeon Chris on our team turned me onto this one: a management sim where you're running an MMO studio. Apparently your game can be leaked? Love the notion of weird little details lik
-
-### It's time to decide the worst graphical effect in games: film grain vs bloom
-Fri, 25 Sep 2026 14:43:01 +0000 — https://www.pcgamer.com/hardware/its-time-to-decide-the-worst-graphical-effect-in-games-film-grain-vs-bloom/
-
-Motion blur, chromatic aberration, bloom… we've discussed many times whether these effects deserve a spot in a game's settings menu or are the hellspawn of Satan's computer graphics division. Now it's time for you to chime in. One final reckoning; until I have the same idea again in five years' time. I am nothing if not returning to this well over and over again. It's your classic knockout format: Two effects go head-to-head and only one makes it through to the next round. There are four initial rounds, then we'll move onto semis, then regional semis, regional quarter semis, semi regionals… nah, we'll make it quick. There are three rounds total. Here are the initial head-to-head rounds: Depth of field vs vignette ( voting is open ) Chromatic aberration vs dirt ( voting is open ) Motion blur vs lens flare ( voting is open ) Film grain vs bloom Got it? Get your votes in below. Then y'all can argue about it in the comments, and say stuff like, "well, actually , motion blur serves a very important purpose." Yeah, whatever. Examples Bloom Bloom is very easy to overuse, though it can be used smartly at times. Here it is in Deadlock, used for a bright projector on a screen. on off Film grain I don't really care for film grain, yet it was the effect I had the most trouble tracking down. In all the games I tested, it was never as bad as I remembered it to be. Anyways, here it is in Phasmophobia. It's sorta visible at the top of the frame. on Image 2 ]]>
-
-### Ace Combat 8: Wings of Theve review
-Fri, 25 Sep 2026 14:00:00 +0000 — https://www.pcgamer.com/games/action/ace-combat-8-wings-of-theve-review/
-
-Need to know What is it? A masterpiece of arcade flight action Release date: Oct 1, 2026 Expect to pay: $80/£55 Developer: Project Aces Publisher: Bandai Namco Reviewed on: Radeon RX 6600, Ryzen 7 7700X, 32GB DDR4 RAM Multiplayer? Yes Steam Deck: Not Verified Link: Official site The first thing I noticed about Ace Combat 8 was the weight. My F-18C's control yoke felt more like the reins of a mustang, guiding my aircraft's control surfaces while afterburners strained against an ocean's worth of air pressure, desperately pleading for a faster climb or a tighter turn as bandits closed on my six o'clock. If that sounds dramatic, that's because it is. While Ace Combat has always married its arcade flight action to bombastic theatrics, Wings of Theve soars to greater heights than the series ever has before. Most missions had me zig-zagging between deadlocked frontlines, paving the way for allied advances and turning the tide of seemingly unwinnable battles. Diving to street level to unload a salvo of rockets on an advancing enemy tank column will invite fevered cheers from beleaguered comrades, while your retreating foes tremble at your power, cursing your name as you soar back into the safety of the clouds. That cloud cover is given real mechanical importance by way of a dynamic weather engine that permeates almost every mission. Clouds loom over battlefields like skyscrapers, offering moments of much needed reprieve from relentless missile barrages at the cost of blinding and dis
-
-### Speaking to pro Counter-Strike players convinced me to finally increase my mouse's polling rate, but not all the way to 8K
-Fri, 25 Sep 2026 13:57:34 +0000 — https://www.pcgamer.com/hardware/gaming-mice/speaking-to-pro-counter-strike-players-convinced-me-to-finally-increase-my-mouses-polling-rate-but-not-all-the-way-to-8k/
-
-Azuwu - CS2 player for Luminosity "I'd say there's a difference from 1 to 2K and then, after that, 8K you don't even reach anyway. So it's only 2K or 4K, but they're both fine. I play at 4K." yxngstxr - CS2 player for Luminosity "1K is the minimum. If you play 4K, it's going to be way smoother—not 'way' [smoother], but you will notice it. It's a smoother motion than if you put it at 1K... I'm on 800 [DPI], 1 kHz... because usually I like to flick." A couple of days ago I got the chance to speak with two pro Counter-Strike 2 players, Azuwu and yxngstxr , both from team Luminosity Gaming . Amongst other things, I asked them about polling rates. As a long-time (and recently-returned) Counter-Strike player, I've stuck to 1 kHz despite all the hype over 4K and 8K. I've tried 8K for comparison before and couldn't make out much of a difference. I've always stuck to 800 DPI and 1 kHz, just like yxngstxr, in my case mainly because it saves battery life and doesn't risk any lower performance or stuttering which is a risk with 8K on some systems. Our James recently tried out different polling rates and didn't find a consistent benefit, either. Here I am, talking to yxngstxr. (Image credit: Future) But I never tried out higher polling rates for too long, and after now having heard directly from pro players that the difference is noticeable above 1K, I'm thinking I might give it another go. I was a little surprised that yxngstxr sticks to 1K, but he explains that that's because he likes t
-
-### I made two $50 gaming keyboards fight for my average-gamer affections, and for me there's one clear winner
-Fri, 25 Sep 2026 13:45:10 +0000 — https://www.pcgamer.com/hardware/gaming-keyboards/i-made-two-usd50-gaming-keyboards-fight-for-my-average-gamer-affections-and-for-me-theres-one-clear-winner/
-
-Welcome to my own personal battle of the budget gaming keyboards, where I make two reasonably-priced input devices fight to the bitter end for my affections. Okay, so it's more about working out which one I'd actually spend my money on, but that hasn't got the same ring to it. Onwards! In the left corner sits the Gamakay x NaughShark NS68 , a keeb with the silliest name I've ever heard. Still, it's got a surprisingly good specs sheet for its $40 MSRP, although it's gone up since our review and is now often found for $50-$60 instead. It's been our best budget gaming keyboard pick for a while now, mostly because its value proposition is damn hard to beat for the cash—even with the price increase. However, warming up in the right corner is the new kid on the block; the Razer Reclusa X Mini 65% is so fresh to the market, it hasn't even started shaving yet. But, being a proper mechanical mini keeb with a $50 price tag , it's sure swinging for the fences straight out of the gate. Something like that, anyway. The rules I'll be judging this battle based on five rounds. The first will be specs, the second, build quality. The third shall be looks, the fourth will be sound, and the fifth will be a real-world gaming test—judged subjectively by me, a (very) non-pro gamer. You won't find any esports-level, picosecond-measuring switch testing here. I shall use each keeb for a day in the games I usually play, and pick the one I would buy with my own cash. I have 38-year-old reflexes and a te
-
 ## GameSpot
+
+### Microsoft CEO Attempts To Kill Remaining Xbox Goodwill
+Fri, 25 Sep 2026 23:06:32 +0000 — https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/
+
+After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step. "There's some amount of streamlining the team is doing, and Asha is doing, which is great to see," said Nadella during his appearance on the Sources Podcast . He also noted that he feels "fantastic about the IP we have right now. If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic." "We have to invent the right sustainable business model that allows us to deliver gaming to more and more people," added Nadella. Regarding AI, Nadella questioned why Western consumers are so skeptical about the technology compared to other parts of the world. "I think we've not given [AI] breathing space," said Nadella. "In fact ... I was reading the Gallup poll on AI and it's not good in the West. What's also very interesting … it's not a uniform thing around the world. And in fact that's the thing we should ask: 'What did we get wrong in the West that these other countries may not have?' Why are people in Nigeria more optimistic about AI than in the United States?' And I think we should reflect on it and my belief here is the industry [has] to earn the trust [and] show the benefits to both consumers and enterpri
 
 ### This Diablo 4 Trick Lets You Become Stronger Than Ever, But It Might Not Be Intended
 Fri, 25 Sep 2026 19:30:52 +0000 — https://www.gamespot.com/articles/this-diablo-4-trick-lets-you-become-stronger-than-ever-but-it-might-not-be-intended/
@@ -461,12 +461,12 @@ Thu, 24 Sep 2026 18:50:34 +0000 — https://www.gamespot.com/articles/arc-raider
 
 Arc Raiders developer Embark Studios has officially announced that fans of the popular extraction shooter will soon have a more cooperative-focused way to enjoy exploring topside, as a long-awaited PvE mode will be available to test from October 13-20. The announcement comes three months after news that Embark was testing a unique PvE map condition on Chinese beta servers . This time around, though, players won't be forced to seek a specific map condition to get their PvE fix. Instead, a new toggle will be available during the week-long test, allowing the choice between standard matchmaking and the PvE mode. Solos, duos, and trios will all share the same lobbies in PvE mode, as they no longer pose any threat to each other. However, Embark has stated that some major map conditions, such as Night Raids, Hidden Bunker, Locked Gate, and Frigate, will remain only available in standard matchmaking. In a press release, Embark has clarified that there is no guarantee a permanent PvE mode will come to Arc Raiders. "It’s possible that this will not work," the release says. "This test is not a promise that there will be a PvE mode in the future, but take this as an indication that we are seriously considering it. We don’t yet know how the potential future version of this setting might look. It’s plausible that any future version could look very different from what you experience in the beta test." However, I'd be quite shocked if the new mode doesn't land well, given that a substantial 
 
-### March 2027 Could Be Make-Or-Break For Marathon
-Thu, 24 Sep 2026 18:20:49 +0000 — https://www.gamespot.com/articles/march-2027-could-be-make-or-break-for-marathon/
-
-Bungie has big plans to revive not only Destiny 2 , but to also evolve its extraction shooter, Marathon . Following its launch in March 2026, the studio says that it has been reviewing feedback around Marathon, and it revealed how it plans to evolve the experience as it heads toward a big update in March 2027. One of Bungie's major points of focus is a Marathon experience that is more than just an extraction shooter. "PvEvP will remain an important part of Marathon, but it will become one point in a connected set of survival experiences," Bungie wrote in a blog post. "More approachable entry points will help new and returning players understand Marathon’s systems and build confidence before taking on its highest-stakes challenges. At the same time, experienced players will have more opportunities to test their mastery and pursue deeper challenges." https://youtu.be/YaLvrG6-kkM Bungie says it's building out connected PvE, PvP, and PvEvP experiences, as well as options for solo players and crews. A Nightfall Refresh is coming in October and the Symbiosis expansion will add more ways to play in December. Bungie will connect all these pieces together in a big March 2027 update. This will also include deeper progression systems for players, a refactored Cradle, a new onboarding experience, more narrative beats to discover, new enemies to battle, and an entirely new zone to explore. There'll be plenty of new content along the way, but it sounds like March 2027 will be Bungie's chan
-
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 26 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401
+
+I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the back and see if he'll cough them back up again, I'm not quite ready to crack the wax seal on October 2026. Read more
 
 ### Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal
 Fri, 25 Sep 2026 14:04:10 +0000 — https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal
@@ -522,9 +522,4 @@ Control: Resonant is out today, and wouldn't you know it, there's already a hotf
 Thu, 24 Sep 2026 15:25:28 +0000 — https://www.rockpapershotgun.com/warhammer-40000-rogue-traders-final-dlc-is-now-coming-in-december-with-an-unsanctioned-psyker-companion-who-cries-tears-of-blood
 
 Warhammer 40,000: Rogue Trader 's story-concluding final DLC has been pushed back to December, developers Owlcat have announced. At the same time, they've introduced the companion around which this last expansion, Processional of the Damned, will revolve. Her name's Stella. She's an "unsanctioned psyker", a "miracle sent by the Emperor himself", and is prone to shedding tears of blood. Read more
-
-### Discord roll out revised age verification following delay due to pushback, pledging to be "safer for teens, same Discord for Adults"
-Thu, 24 Sep 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/discord-roll-out-revised-age-verification-following-delay-due-to-pushback-pledging-to-be-safer-for-teens-same-discord-for-adults
-
-Discord have rolled out a revised global age verification system , having delayed deploying one earlier this year following largely privacy-based backlash. Read more
 

@@ -1,6 +1,26 @@
-# Tech — harvested 2026-09-25T20:07:49.533Z
+# Tech — harvested 2026-09-26T09:31:47.015Z
 
 ## Ars Technica
+
+### Can Trump ever be wrong? His pick to lead FDA refused to say.
+Fri, 25 Sep 2026 23:00:26 +0000 — https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/
+
+Heidi Overton , President Trump's nominee to lead the Food and Drug Administration, went before the Senate health committee Thursday, facing questions about her stances on vaccines, flavored vapes, birth control, and abortion, among other issues. She spent nearly two hours stonewalling senators, even on softball questions. Overton, a physician with a doctoral degree in clinical investigation, is currently the deputy assistant to the president for domestic policy. She previously worked at a conservative think tank and has taken a clear stance opposing abortion , raising obvious questions about her objectivity. The FDA is currently reviewing the safety of the abortion pill, mifepristone, despite extensive data showing it is extremely safe. Overton also notably stood behind President Trump at a press conference in August during which Trump falsely called the measles, mumps, and rubella (MMR) vaccine " quite lethal ." He further claimed that vaccine doses for infants are "like the size of a soda bottle," and called for the MMR vaccine to be split into three separate immunizations, despite no evidence of benefit from such a split and no such individual immunizations being available in the US. Read full article Comments ]]>
+
+### Court rules Trump can blacklist Anthropic for refusing to enable Claude features
+Fri, 25 Sep 2026 21:36:20 +0000 — https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
+
+A US appeals court today approved the Trump administration's blacklisting of Anthropic technology. Judges decided the US had authority to blacklist Anthropic for withholding certain AI features even if Anthropic had no malicious intent. In a 2-1 ruling issued by the US Court of Appeals for the District of Columbia Circuit, a panel of judges said the "case raises profoundly difficult questions about the appropriate military uses of an almost unimaginably powerful new technology." The US "raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly and thus causing important military operations to fail. Anthropic raises the deeply sobering prospect of unconstrained AI models hallucinating inappropriate targets for lethal military force," the ruling said. Trump and Defense Secretary Pete Hegseth "must determine how best to balance the competing risks," the court said. "In doing so here, the Secretary did not transgress any limits on his authority under the Supply Chain Security Act or the Constitution. Accordingly, we deny the petitions for review." The same court previously denied Anthropic's emergency motion for a stay in April. Read full article Comments ]]>
+
+### Tesla workers balk at training Optimus humanoid robots as replacements
+Fri, 25 Sep 2026 21:10:51 +0000 — https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/
+
+Tesla’s pivot from making electric cars to humanoid robots is facing challenges because of complex robot hands and disgruntled employees pushing back against training their robotic replacements. The struggle to scale up production comes as Tesla CEO Elon Musk has bet the company’s future on AI and robotics. As someone who frequently makes claims that fail to materialize, Musk has described the Optimus humanoid robot as potentially “the biggest product ever” during Tesla’s second-quarter 2026 earnings call . But he also acknowledged that making an autonomous humanoid robot capable of handling many different tasks is “one of the hardest things to solve”—and now extensive reporting by The Information has revealed multiple complications that Tesla is trying to tackle while developing general-purpose robots and scaling up for mass production. Tesla’s Fremont factory in California has already stopped making the Model S sedan and Model X SUV as of May 2026, with the company switching both line workers and engineers over to working on Optimus, according to The Information. Read full article Comments ]]>
+
+### Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?
+Fri, 25 Sep 2026 19:38:59 +0000 — https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/
+
+Researchers say they recently found Google ads delivering a sophisticated tech support scam that freezes the screens of both Windows and Mac devices and displays messages urgently instructing them to phone a bogus call center. The ads were displayed all over the web, including on high-traffic maps, weather, real-estate, document-hosting, and sports sites. Users who called the number were then urged to pay hefty fees, grant remote access to their devices, or divulge personal information. From August 31 to September 14, security firm Netskope observed users from 619 customer organizations click on the malicious ads, although none of them were actually scammed because Netskope blocked the content. Roughly 62 percent of the organizations were based in the US, with Japan and Australia accounting for the Nos. 2 and 3 spots. Since the firm has visibility into only a tiny sliver of Internet activity, the number of people exposed to the ads—including those who fell victim to it—is likely much higher. Netskope tracked more than 250 Google Ads campaign IDs across at least 284 legitimate publisher sites. Read full article Comments ]]>
 
 ### Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)
 Fri, 25 Sep 2026 19:34:42 +0000 — https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/
@@ -10,7 +30,7 @@ As Apple's Tim Cook era draws to a close, we're seeing more experimentation with
 ### AI was supposed to hit new grads hard. So far, unemployment data says otherwise.
 Fri, 25 Sep 2026 19:11:05 +0000 — https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/
 
-Last month, we shared word of a Stanford study that found entry-level employment in so-called "AI-impacted" occupations lagging well behind that in other fields. Now, a new working paper from economics researchers at Munich's CESifo finds the opposite, arguing point blank that "there is no evidence of any significant, widespread displacement or reduction in hiring of recent college graduates in absolute or relative levels." In " The Early Impacts of AI on Employment Among Recent College Graduates ," researchers Robert Fairlie and Jane Wu said they decided to focus on recent graduates "because changes in labor demand may first appear through reductions in hiring." As AI gets good enough to at least perform the "relatively standardized tasks" in many entry-level office jobs, they argue, firms could reduce new hiring for simpler roles rather than laying off more experienced long-term employees. There's some reason to believe 2026's graduating job seekers might be more at risk of AI displacement than those graduating just a year or two prior. The CESifo researchers point to a recent sharp increase in the number of firms "replacing a large number of employee tasks with AI" in a Census survey, as well as broad increases in AI spending per employee and ChatGPT Enterprise token use in the last 12 months. Read full article Comments ]]>
+Last month, we shared word of a Stanford University study that found entry-level employment in so-called "AI-impacted" occupations lagging well behind that in other fields. Now, a new working paper from economics researchers at Munich's CESifo finds the opposite, arguing point blank that "there is no evidence of any significant, widespread displacement or reduction in hiring of recent college graduates in absolute or relative levels." In " The Early Impacts of AI on Employment Among Recent College Graduates ," researchers Robert Fairlie and Jane Wu said they decided to focus on recent graduates "because changes in labor demand may first appear through reductions in hiring." As AI gets good enough to at least perform the "relatively standardized tasks" in many entry-level office jobs, they argue, firms could reduce new hiring for simpler roles rather than laying off more experienced long-term employees. There's some reason to believe 2026's graduating job seekers might be more at risk of AI displacement than those graduating just a year or two prior. The CESifo researchers point to a recent sharp increase in the number of firms "replacing a large number of employee tasks with AI" in a Census survey, as well as broad increases in AI spending per employee and ChatGPT Enterprise token use in the last 12 months. Read full article Comments ]]>
 
 ### Paramount/WBD merger conditions give the public "virtually nothing," judge is told
 Fri, 25 Sep 2026 18:42:57 +0000 — https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/
@@ -42,27 +62,12 @@ Fri, 25 Sep 2026 14:07:46 +0000 — https://arstechnica.com/space/2026/09/nasa-g
 
 The first in a new class of space telescopes is on track to reach the launch pad in the early 2030s, NASA announced this week. The PRIMA mission will be the first of NASA's Probe Explorers, a new line of observatories intended to do more science for less money. The agency's space telescopes typically fall into lower-cost "Explorer-class" missions, with cost caps in the range of a few hundred million dollars, or flagship observatories like the recently launched Nancy Grace Roman Space Telescope, which came with a price tag of some $4.3 billion. With the Probe Explorers, NASA officials seek to find a better balance between the smaller Explorer missions and multibillion-dollar flagships. NASA has studied potential Probe Explorer mission concepts for several years after an independent panel of scientists recommended the new mission category. But it wasn't clear until recently whether NASA's science budget, which is under pressure from the Trump administration , would be sufficient to actually start developing one. Read full article Comments ]]>
 
-### Trump administration takes Musk’s side in fight over EU tech rules
-Fri, 25 Sep 2026 13:45:49 +0000 — https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/
-
-The Trump administration is seeking to join Elon Musk’s appeal against a €120 million EU fine of the billionaire’s social media platform X, the latest escalation in the transatlantic clash over Brussels’ efforts to rein in US tech companies. The US Department of Justice on Thursday filed an application to intervene in a pair of cases brought by Musk and X seeking annulment of the penalty, which will be heard at the EU’s General Court in Luxembourg. “The European Commission inappropriately attempted to expand its regulatory authority to reach American companies not present or operating within its jurisdiction,” assistant attorney general Brett Shumate said. Read full article Comments ]]>
-
-### Trump admin using AI to deny medical care for seniors in disastrous experiment
-Fri, 25 Sep 2026 11:00:28 +0000 — https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/
-
-In January, the Trump administration rolled out a pilot program that uses artificial intelligence to authorize or deny certain types of care for patients with Medicare—a federal healthcare program for seniors that previously hasn't required doctors to get any such pre-approval, called prior authorization. Not long after, media outlets began relaying the disastrous outcomes: technical difficulties, long delays in decisions and care, puzzling denials , frustrated doctors , and patients suffering in pain . Those reports were largely confirmed earlier this month when the Electronic Frontier Foundation released a tranche of federal documents about the program, called WISeR, that the group obtained amid litigation. The documents included feedback from healthcare providers, including one who called the program "a disgrace to the human race" and reported seeing patients crying in pain as they waited for care. Amid the worrying reports, lawmakers have been trying to get answers and shut the program down. Meanwhile, the Government Accountability Office determined in May that Trump officials did not follow proper procedure in setting up the program, calling its legality into question. Still, it appears to be moving ahead unabated, with plans to expand in the years to come. Read full article Comments ]]>
-
-### Rocket Report: Era of cheap launch is over? Astra sets early 2027 target for return
-Fri, 25 Sep 2026 11:00:10 +0000 — https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/
-
-Welcome to Edition 9.12 of the Rocket Report! The big story in the global launch industry remains SpaceX's plans to wind down Falcon 9 operations for commercial launches, possibly within the next two or three years. That has created a scramble among satellite operators and some positioning among up-and-coming launch providers. Notably, in this week's newsletter, there's a story about how Firefly expects launch to become more expensive, and that customers got too used to rapid, reliable launch with the Falcon 9. I'm not sure that philosophy will work out long term. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. The best-named rocket in the world is sadly delayed . French launch startup HyPrSpace announced that it has pushed the inaugural flight of its Baguette One suborbital rocket to 2027, European Spaceflight reports . The 10-meter Baguette One rocket is a single-stage vehicle is capable of carrying up to 300 kg. It is powered by the company’s hybrid propulsion system, which combines liquid oxygen with solid polyethylene fuel. Read full article Comments ]]>
-
-### CDC opens state ordering for COVID-19 vaccines after unexplained delay
-Thu, 24 Sep 2026 22:29:48 +0000 — https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/
-
-After a nearly monthlong delay, states are now able to order this season's COVID-19 vaccines through a federal program that provides free immunizations to low-income children, the US health department says. Trump officials have still not provided a clear explanation for the delay, raising concerns about meddling from anti-vaccine Health Secretary Robert F. Kennedy Jr. On Wednesday, Ars Technica reported that the Centers for Disease Control and Prevention had still not opened ordering for 2026–2027 COVID-19 vaccines through the Vaccines for Children program. That was despite the vaccines having been approved by the Food and Drug Administration in late August. The Department of Health and Human Services (HHS) told Ars on Wednesday that “CDC has not yet finalized procurement decisions" for the shots. The department's statement further suggested Trump officials were questioning whether children should receive them. "HHS and CDC are committed to responsible stewardship of taxpayer resources and to ensuring that vaccines purchased through federally funded programs are appropriate for the populations those programs serve," the department said. Read full article Comments ]]>
-
 ## The Verge
+
+### Can eSUV e-bikes really go from trail to town?
+2026-09-26T03:00:00-04:00 — https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox
+
+Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called "electric SUV" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what I set out to test on a new TL Carbon e-bike from Amflow, the DJI offshoot that upended the mountain bike industry a few years ago with its incredibly small and powerful Avinox motors . After a month of testing in the heart of Amsterdam - including a three day bikepacking trip along coastal bicycle super … Read the full story at The Verge. ]]>
 
 ### Roku s first OLED TVs are up to $400 off, starting at $699
 2026-09-25T14:18:57-04:00 — https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale
@@ -109,11 +114,6 @@ In July, OpenAI revealed that its AI agents had attacked Hugging Face without pe
 
 Cricut announced its first crafting machines with printing capabilities that are primarily designed as all-in-one solutions for turning photos and other images into precut stickers. The Cricut StickerPix Print plus Cut and Cricut StickerPix Print are also two of the smallest machines in the company's current lineup and seem ideal for those whose crafting aspirations may be limited by their available storage space. Starting at $299 , the Cricut StickerPix Print plus Cut is the larger and more expensive of the two new machines and is also available as part of pricier bundles that include more consumables. It's compatible with 4&times;7-inch sticker … Read the full story at The Verge. ]]>
 
-### Gaming’s biggest horror series are more vital than ever
-2026-09-25T10:10:00-04:00 — https://www.theverge.com/entertainment/1000595/silent-hill-townfall-resident-evil
-
-For the third year in a row, I've been scared out of my wits by a new Silent Hill game. First it was the modern remake of Silent Hill 2 , then the Japan-set spinoff Silent Hill F . Now I find myself slowly crawling through a quaint Scottish town in Silent Hill: Townfall , trying my best not to get brutally murdered by demonic creatures chasing me through the streets. It's been a remarkable turnaround for a franchise that once seemed like it was on life support. And when you combine it with a strong run from Resident Evil across games and film, you have gaming's two biggest horror franchises both at the height of their powers. For Resident Evil … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
 ### Elon Musk's SpaceXAI to add another 660,000 AI GPUs this year, nearing a total of 1.44 million in operation
@@ -129,7 +129,7 @@ Tower Semiconductor and the government of Japan plan to co-invest a total of $4 
 ### Meta Muse runs agents on AMD EPYC Turin hosts with two cores and 8GB of memory
 Fri, 25 Sep 2026 14:56:36 +0000 — https://www.tomshardware.com/pc-components/cpus/meta-muse-runs-agents-on-amd-epyc-turin-hosts-with-two-cores-and-8gb-of-memory-ai-agent-can-pass-terminal-commands-to-ubuntu-host-system
 
-Meta's new AI agent Muse is powered by AMD EPYC Turin host systems, with each sandbox sporting two dedicated cores and 8GB of memory. Blogger Evan Hoffman and analyst Tae Kim both discovered that Muse will run some rudimentary Ubuntu commands if prompted, passing along the output to help identify things like the specs of the host system. More concerning is that Muse seems able to execute commands that might be unsafe, with Hoffman claiming that Muse offered to set up SSH to Muse's private VM . Imagine if one billion people used a personal AI agent. That's a lot of CPUs and memory pic.twitter.com/ibozUi3a07 September 24, 2026 Both Kim and Hoffman asked Muse about the VM's specs, and in both instances, Muse revealed that it's running on AMD EPYC 9D25 CPUs, a high-density Turin chip with up to 128 cores. The VMs are running on Ubuntu 24.04 and using Linux kernel 7.0. The systems hosting Muse don't include GPUs. The AI agent revealed that Meta uses separate GPU servers for inference, isolating the agent to CPU-only sandboxes. The agent suggests that each user gets their own private sandbox that's persistent, which allows us to do some math on how many people an individual tray can host. Assuming a 2P system that offers up to 512 vCPUs with 2TB of memory, hosting up to 256 Muse users. Muse has reportedly passed over 500,000 daily active users as of a few days ago, which would come out to somewhere around 2,000 server trays with dual EPYC 9D25 CPUs and 2TB of memory. This is just s
+Meta's new AI agent Muse is powered by AMD EPYC Turin host systems, with each sandbox sporting two dedicated cores and 8GB of memory. Blogger Evan Hoffman and analyst Tae Kim both discovered that Muse will run some rudimentary Ubuntu commands if prompted, passing along the output to help identify things like the specs of the host system. More concerning is that Muse seems able to execute commands that might be unsafe, with Hoffman claiming that Muse offered to set up SSH to Muse's private VM . Imagine if one billion people used a personal AI agent. That's a lot of CPUs and memory pic.twitter.com/ibozUi3a07 September 24, 2026 Both Kim and Hoffman asked Muse about the VM's specs, and in both instances, Muse revealed that it's running on AMD EPYC 9D25 CPUs, a high-density Turin chip with up to 128 cores (two of which are generally fused off or reserved). The VMs are running on Ubuntu 24.04 and using Linux kernel 7.0. The systems hosting Muse don't include GPUs. The AI agent revealed that Meta uses separate GPU servers for inference, isolating the agent to CPU-only sandboxes. The agent suggests that each user gets their own private sandbox that's persistent, which allows us to do some math on how many people an individual tray can host. Assuming a 2P system that offers up to 510 vCPUs with 2TB of memory, hosting up to 254 Muse users. Muse has reportedly passed over 500,000 daily active users as of a few days ago, which would come out to somewhere around 2,000 server trays with du
 
 ### Noctua explores 2,000W micro-channel air cooling
 Fri, 25 Sep 2026 14:42:58 +0000 — https://www.tomshardware.com/pc-components/air-cooling/noctua-explores-2-000w-micro-channel-air-cooling-partners-with-forced-physics-to-develop-vacuum-pump-level-airflow-for-desktop-pcs
@@ -177,6 +177,11 @@ Fri, 25 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/d
 The DataOne data center in Vineland, New Jersey, has just been hit with a record $1.07 million fine for operating unpermitted portable generators on the construction site. According to the New York Times , state inspectors spotted 62 of these units powering the facility back in late July. Residents had already complained about it at a February town hall meeting. Inspectors said that there were no generators on site when they first visited in December last year. However, some residents said that “some type of unit” was spotted by satellite imagery back in February, leading to their complaint at the community assembly. Residents of Vineland have already made multiple complaints about the development . Some of the issues t include the unpermitted construction of a 1.5-million-gallon LNG tank and unacceptable noise levels, especially at night, that affected homes within a half-mile radius of the construction site. They also said that there was little to no public consultation on the project before it went into full swing, with the people only finding out that a data center was being constructed in their neighborhood after Microsoft announced a $33 billion deal with Nebius , which in turn contracted DataOne to supply the compute they need. Despite a record fine, some residents feel that the punishment isn’t enough. “It’s a ‘don’t ask for permission, just ask for forgiveness later’ kind of deal,” longtime Vineland resident Steve Brown told the Times . He also added, “It’s still kin
 
 ## Phoronix
+
+### New FUTEX Syscalls Back To Being Worked On For Helping Valve s ARM64 Gaming Ambitions
+Fri, 25 Sep 2026 18:42:16 -0400 — https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls
+
+Going back to last year the Igalia open-source consulting firm has been working on enhancing the Linux kernel to help Steam Play gaming on ARM64 and ensuring the FEX emulator is operating efficiently for x86/x86_64 games running on the likes of the Steam Frame. After other kernel work in recent months, there's finally an updated round of the FUTEX get_robust_list2 and set_robust_list2 system call patches...
 
 ### GDB 18.1 Debugger Brings Better Windows Support
 Fri, 25 Sep 2026 12:47:52 -0400 — https://www.phoronix.com/news/GNU-Debugger-GDB-18.1
@@ -233,12 +238,22 @@ Thu, 24 Sep 2026 17:43:49 -0400 — https://www.phoronix.com/news/ReactOS-Update
 
 The open-source ReactOS project striving to provide binary compatibility with Microsoft Windows applications/games as well as drivers took a huge step forward today with landing a significant update to its DirectX stack from code leveraged from the Wine project...
 
-### Ubuntu 26.10 Delivers Some Nice Gains For Intel Panther Lake / Framework Laptop 13 Pro
-Thu, 24 Sep 2026 14:46:13 -0400 — https://www.phoronix.com/review/ubuntu-2610-panther-lake
-
-For those with a Framework Laptop 13 Pro or another Intel Core Ultra Series 3 "Panther Lake" laptop, the upcoming Ubuntu 26.10 release is delivering some nice out-of-the-box improvements over Ubuntu 26.04 LTS.
-
 ## The Register
+
+### Space Jam: UK debuts space squadron to protect satellites
+Sat, 26 Sep 2026 10:08:00 +0200 — https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119
+
+Britain’s Royal Air Force has gained some space cadets, in the form of No. III Space Effects Squadron, tasked with protecting critical satellites that the UK relies on for communications and navigation. Air Chief Marshal Sir Harvey Smyth announced the new unit at an inaugural UK Space Power Conference in London, saying it will safeguard the vital benefits that space gives to our armed forces, and be capable of denying those benefits to our adversaries. Smyth added that the RAF’s headquarters at High Wycombe transitioned to become Air and Space Command just a few weeks ago. According to the MoD, the existing No. I Space Operations Squadron and No. II Space Warning Squadron give the RAF the ability to watch and warn of threats in space, but the latest unit will have the ability to act against those threats. How, you might ask, given the UK has limited launch facilities and no anti-satellite missile systems, as far as we are aware? This will be accomplished using “advanced technology,” we are told, including electronic warfare, to “disrupt, degrade and deny hostile actions.” In fact, the government says the UK has formally ruled out destructive anti-satellite missile testing, and instead continues to work through the UN Committee on the Peaceful Uses of Outer Space. That implies the use of ground-based jamming systems to disrupt or neutralize any nefarious foreign satellites. We asked the MoD for further details on what the space force’s capabilities consist of, exactly, but a s
+
+### Valen creator drives 'Golden Spike' to connect new languages with Rust
+Fri, 25 Sep 2026 22:15:44 +0200 — https://www.theregister.com/devops/2026/09/25/valen-creator-drives-golden-spike-to-connect-new-languages-with-rust/5299273
+
+Programming language generics can now ride in style from one language’s compiler to another and back again, thanks to experimental work from Mojo core contributor Evan Ovadia. This former Google engineer has endeavored to turn Rust into a library that other languages can build from, demonstrating a way to pass generic data types and functions between Rust and another language, an action the C ABI doesn’t support. “Technically, this is the most fascinating thing I’ve read in months,” enthused the host of the Let’s Get Rusty YouTube channel, explaining the work, which he characterized as “Rust++.” That's a geeky but hard-won victory to be sure. Ovadia describes his work in an explanatory blog post as the “Golden Spike” that intertwines two different languages, referring to the final spike hammered into the United States’ first transcontinental railroad line. Instead of being stripped down into raw primitives just to be crammed into the coarse wagons of C ABI, libraries of rich capability can be sped to foreign ecosystems on sturdy, high-speed rails. Ditching the C ABI at last The work came about in Ovadia’s effort to create his own language, Valen (an offshoot of an earlier effort called Vale), which he envisions as a speedier, more dev-friendly version of Rust. The problem with creating a new language from scratch, he reasoned, was that he couldn’t use his favorite Rust libraries (notably Rust’s bitchin’ wgpu graphics library). Today, a common way to use a library from one lan
+
+### Microsoft cells out, crams multiple values into Excel boxes
+Fri, 25 Sep 2026 21:58:36 +0200 — https://www.theregister.com/applications/2026/09/25/microsoft-cells-out-crams-multiple-values-into-excel-boxes/5299294
+
+Microsoft has ended 40 years of single-occupancy for Excel cells and is now allowing multiple values to inhabit the same home. "One of the oldest rules of spreadsheets: one cell, one value," said Jake Armstrong, senior product manager for Excel, in a LinkedIn post. "No longer!" "I’m excited to announce a set of new features: Lists, Arrays in Cells and Nested Arrays in Excel." For the time being, this capability is only available in Microsoft Excel for Windows and Mac Beta Channels. And it is opt-in. To make the case for lists in cells, Armstrong in a blog post explained that each Excel project can have multiple owners. "Traditionally, you'd need separate columns, helper tables, or text like 'Carlos, Henrietta, Jacob' packed into a single cell," he explained. "With lists, you can keep those values together in one cell while still working with each item individually. Project owners stay connected to the project they belong to, while remaining available for filtering, calculations, and analysis." And he goes on to cite the potential utility of arrays in cells and nested arrays for expanding the kinds of information that Excel spreadsheets can represent. Armstrong's enthusiasm for multi-value cells comes with a caveat that this is a preview feature and shouldn't be used in important workbooks until general availability. Among those commenting on Armstrong's LinkedIn post, several people suggested the change has the potential to break things and hinder auditability by making busin
 
 ### Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall
 Fri, 25 Sep 2026 21:26:34 +0200 — https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276
@@ -285,22 +300,17 @@ Fri, 25 Sep 2026 17:00:00 +0200 — https://www.theregister.com/storage/2026/09/
 
 EVENT: The Register is hosting a private dinner in New York on Tuesday 27 October for senior technology, infrastructure and data leaders, with LucidLink. Joe Fay takes the chair, it runs under the Chatham House Rule, and nothing said leaves the table. Distributed teams are producing more unstructured file data than ever, and most of them reach it through infrastructure designed for an office: legacy NAS, a VPN, and a sync-and-download habit nobody actually chose. It rarely fails outright. It charges rent somewhere else instead, in duplicated storage, in waiting, in governance gaps, and in the hour somebody loses working out which version of a file is current. The conversation worth having about that is not the architecture diagram. It is what a team did when it stopped being in one building. Which workaround somebody has quietly been paying for ever since. What broke when they tried to retire the NAS, and what they would do differently now. People say that over dinner. They do not say it on a recorded webinar. So this is dinner. Drinks, a handful of questions across the table, then more drinks. Everyone there as a peer, and a chair whose job includes stopping anyone who starts to pitch. The premise is deliberately not rip and replace. The evening is about modernizing around the storage and governance investments an organization already has, rather than pretending they are not there, which is usually the point at which these conversations stop being useful to the people who ha
 
-### Raspberry Pi surfs memory crunch to record first half
-Fri, 25 Sep 2026 16:15:00 +0200 — https://www.theregister.com/storage/2026/09/25/raspberry-pi-surfs-memory-crunch-to-record-first-half/5299155
-
-Raspberry Pi has posted a record first half after a well-timed memory stockpile helped it ride out soaring prices and shortages. The Cambridge-based company reported revenue of $256.9 million for the six months ended June 30, up 90 percent from $135.5 million a year earlier, while pre-tax profit more than tripled to $19.6 million. Raspberry Pi shipped 4.2 million boards during the six-month period, up 17 percent year-on-year, while its order backlog doubled to 2.6 million units. Behind some of those rather healthy numbers is a bet Raspberry Pi made last year, when it built up a sizeable stash of memory before the market tightened. "The decision in FY 2025 to build significant strategic memory inventory has allowed us to maintain product availability at a time when smaller competitors have struggled to secure allocation," CEO Eben Upton said. It also meant Raspberry Pi spent much of the first half burning through memory bought at considerably friendlier prices. Gross profit per board climbed from $8 a year ago to $12.20, helped by price rises on R Pi's products as well as cheaper memory inventory acquired during 2025. Overall gross profit rose 79 percent to $59.4 million. That particular party is winding down. Raspberry Pi said the "exceptional unit economics" seen in the first half have since moderated as the cheaper memory bought during 2025 has been used up. It hasn't stopped stockpiling – it's just paying a lot more to do it. The average cost of memory in its inventory sto
-
-### Windows update leaves some virtual desktops staring into the void
-Fri, 25 Sep 2026 15:32:00 +0200 — https://www.theregister.com/os-platforms/2026/09/25/windows-update-leaves-some-virtual-desktops-staring-into-the-void/5299106
-
-Microsoft has admitted that some Windows 11 virtual desktops may fail to load after sign-in, leaving users staring at a black screen until they launch Explorer manually. The glitch affects devices running the August 2026 non-security preview update or later releases and, according to Microsoft, "has been primarily observed on Azure Virtual Desktop (AVD) hosts, using FSLogix." Windows Explorer crashes may appear in the affected device's Application event log. Users can temporarily recover the desktop by opening Task Manager and running explorer.exe as a new task. Microsoft has also issued a Known Issue Rollback (KIR) that administrators can deploy through Group Policy. This disables the offending change until a permanent fix arrives. "We are working on a resolution for this issue, and it will be released in a future Windows update," the company said. This is distinct from another problem introduced by the same August preview update, which replaced some customized desktop backgrounds with solid black. Microsoft fixed that in September, but has not explained precisely what causes this latest failure. It said only that the problem "appears to occur more frequently with some existing user profiles." That will be of limited comfort to users glumly firing up Task Manager to launch their desktops manually. Windows 11 versions 26H1, 25H2, and 24H2 are affected. Microsoft does not list Windows 10 or Windows Server among the affected platforms. The stream of problems introduced by Micro
-
-### Uncle Sam wants in on Musk's €120M fight with Brussels
-Fri, 25 Sep 2026 14:46:00 +0200 — https://www.theregister.com/legal/2026/09/25/uncle-sam-wants-in-on-musks-120m-fight-with-brussels/5299123
-
-The US government wants to join Elon Musk and X's legal challenge to the European Commission's €120 million fine against the social media platform. The Commission issued its first fine under the Digital Services Act (DSA) in December 2025, finding that X had breached transparency rules through its paid blue checkmarks, advertising repository, and restrictions on researchers' access to public data. X owner Elon Musk described the decision as "crazy" and "insane" in a Xeet, and compared the "woke" Commission to "Stasi commissars," combining two rather different authoritarian references. Before issuing a response, he shared the comments made by FCC chair Brendan Carr, who accused "Europe" of "fining a successful US tech company for being a successful US tech company." "Europe is taxing Americans to subsidize a continent held back by Europe's own suffocating regulations," Carr added. US politicians also rallied around Musk. Senator Ted Cruz called the fine "an abomination" and an attack on American free speech. The US government has now applied to intervene in the cases brought by Musk and X Internet and X Holdings, supporting their attempts to annul the Commission's decision. Assistant Attorney General Brett A. Shumate accused the Commission of regulatory overreach against US companies beyond its jurisdiction. "The European Commission inappropriately attempted to expand its regulatory authority to reach American companies not present or operating within its jurisdiction," he sai
-
 ## Engadget
+
+### How to stop Meta training its AI models on your smart glasses' visual data
+Fri, 25 Sep 2026 20:35:15 +0000 — https://www.engadget.com/2269454/how-to-stop-meta-training-its-ai-models-on-your-smart-glasses-visual-data/
+
+The setting affects whether workers can review photos and videos from your glasses.
+
+### New Mexico jury rules Meta misled state residents about data privacy
+Fri, 25 Sep 2026 20:12:54 +0000 — https://www.engadget.com/2269422/new-mexico-jury-rules-meta-misled-state-residents-about-data-privacy/
+
+The company is still paying for the Cambridge Analytica scandal.
 
 ### Cricut's new DIY machines let you print and cut your own stickers
 Fri, 25 Sep 2026 18:39:54 +0000 — https://www.engadget.com/2269278/cricuts-new-diy-machines-let-you-print-and-cut-your-own-stickers/
@@ -352,17 +362,37 @@ Thu, 24 Sep 2026 21:34:11 +0000 — https://www.engadget.com/2268376/nintendo-wi
 
 It's easy to win when the defendant is a no-show.
 
-### Nicolas Cage is anything but subtle in the Madden trailer
-Thu, 24 Sep 2026 21:10:54 +0000 — https://www.engadget.com/2268356/nicolas-cage-is-anything-but-subtle-in-the-madden-trailer/
-
-The biopic arrives on Prime Video in November.
-
-### Bungie shares more detail about Marathon's Symbiosis update and 2027 plans
-Thu, 24 Sep 2026 20:44:36 +0000 — https://www.engadget.com/2268321/bungie-shares-more-detail-about-marathon-symbiosis-update-and-2027-plans/
-
-Another big overhaul to the game is now due in March.
-
 ## TechCrunch
+
+### At Meta Connect, the company s smart glasses were everywhere
+Sat, 26 Sep 2026 01:08:57 +0000 — https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
+
+The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
+
+### Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+Fri, 25 Sep 2026 23:11:10 +0000 — https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
+
+Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
+
+### Automattic has a new board after failed attempt to put CEO on leave
+Fri, 25 Sep 2026 23:04:34 +0000 — https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
+
+After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
+
+### Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge
+Fri, 25 Sep 2026 22:20:47 +0000 — https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
+
+AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
+
+### Meta opens early access program for new Muse features
+Fri, 25 Sep 2026 20:34:53 +0000 — https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
+
+Anyone interested in joining has to ask Muse to put them on the list.
+
+### The hottest new hangout for middle schoolers is NPR s comment section?
+Fri, 25 Sep 2026 20:33:58 +0000 — https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/
+
+When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
 
 ### Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
 Fri, 25 Sep 2026 19:13:38 +0000 — https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
@@ -393,34 +423,4 @@ The findings highlight how AI-generated and vibe-coded apps can spill and expose
 Fri, 25 Sep 2026 17:24:36 +0000 — https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/
 
 Frontier AI models are finishing Alan Turing's World War II codebreaking work.
-
-### Meta is putting its muscle behind Muse as the AI app takes off
-Fri, 25 Sep 2026 16:16:52 +0000 — https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/
-
-Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.
-
-### Meta’s AI Tamagotchi bet is…working?
-Fri, 25 Sep 2026 16:00:00 +0000 — https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/
-
-When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 model updates just 90 minutes later. But the company that stole the spotlight was Meta, whose personal AI agent Muse is reportedly outpacing ChatGPT’s early numbers and is headed for smart glasses and [ ]
-
-### Kiteworks urges customers to shut down their servers amid imminent threat of cyberattack
-Fri, 25 Sep 2026 15:52:13 +0000 — https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/
-
-The tech giant, which allows companies to send large datasets over the internet, said it received a "credible threat" from law enforcement about an imminent attack.
-
-### For months, OpenAI s agent swarms have been attacking online databases to find obscure facts
-Fri, 25 Sep 2026 15:48:14 +0000 — https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/
-
-The latest unauthorized agent swarms were discovered by researchers.
-
-### Anthropic s founders seek voting control ahead of IPO
-Fri, 25 Sep 2026 15:40:03 +0000 — https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/
-
-Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.
-
-### Tesla finally moves to electrify trucking after a decade of work and delays
-Fri, 25 Sep 2026 15:24:50 +0000 — https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/
-
-Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.
 
