@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Texturing: hex tiling scrambles directional detail — brick courses, plank runs, anything with a grain — because the rotated instances no longer line up."
     - "Scope: it hides the repeat, not the flatness. Large-scale colour variation still wants a macro map on top, and no node builds that for you."
-draft: true
 ---
 
 Only CG Channel has filed on this so far, so the details below rest on one
