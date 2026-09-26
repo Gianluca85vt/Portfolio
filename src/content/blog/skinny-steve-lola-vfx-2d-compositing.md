@@ -3,7 +3,7 @@ title: "Skinny Steve: Lola VFX shrank Chris Evans in 2D"
 date: 2026-09-26
 category: Film & TV
 excerpt: Lola VFX built Skinny Steve across 300-plus shots by warping the photographed plate instead of building a CG double. Fifteen years on it still holds.
-cover: /img/blog/skinny-steve-lola-vfx-2d-compositing/cover.svg
+cover: /img/blog/skinny-steve-lola-vfx-2d-compositing/shot-01.jpg
 sources:
   - outlet: befores & afters
     url: https://beforesandafters.com/2026/09/24/the-making-of-skinny-steve/
@@ -32,6 +32,11 @@ over 300 shots of it. And for the large majority of them there was no double
 in frame and no CG Steve. They took the plate of Evans and made him smaller.
 
 ## Warping a photograph is not the same as replacing it
+
+<figure>
+  <img src="/img/blog/skinny-steve-lola-vfx-2d-compositing/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Chris Evans photographed on location during the filming of Captain America: The First Avenger, via Wikimedia Commons (free licence) — a set photograph, not a still from the film or from the Lola VFX shots discussed.</figcaption>
+</figure>
 
 The technique is mesh warping, which is about as old as digital compositing
 gets. You put a grid over the image, you push the grid around, the pixels
