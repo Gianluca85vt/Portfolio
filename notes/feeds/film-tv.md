@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-09-26T09:31:47.015Z
+# Film & TV — harvested 2026-09-26T14:43:50.466Z
 
 ## Variety
+
+### Obsession, Backrooms Ushering in Shift Similar to Easy Rider in 1970s, Sony Pictures Classics Co-Chief Says
+Sat, 26 Sep 2026 14:19:42 +0000 — https://variety.com/2026/film/global/obsession-backrooms-easy-rider-sony-pictures-classics-1236876312/
+
+There has not been a single major industry event in the last three months where major producers and execs have not brought up the phenomenon of Kane Parsons’ “Backrooms” and Curry Barker’s “Obsession.” The two films, directed by 20-something-year-olds who came from YouTube, exploded all box-office expectations while ushering in droves of Gen Z audiences [ ]
+
+### Ghost Song Review: Fatih Akin Doesn t Find Top Form in This Supernatural Romance, but at Least It Has Beautiful Ghosts
+Sat, 26 Sep 2026 13:20:04 +0000 — https://variety.com/2026/film/news/ghost-song-review-1236875736/
+
+Since hitting an artistic peak with the back-to-back festival triumphs Head-On and Edge of Heaven in the mid-2000s, German-Turkish auteur Fatih Akin has darted all over the map in genre, style and form — occasionally striking commercially, as with the Diane Kruger thriller In the Fade and the local hip-hop biopic Rhinegold, without ever matching [ ]
+
+### Zuffa Boxing 11: Here s Where to Watch Johnny Fisher vs. Michael Pirotton Boxing Live Online for Free
+Sat, 26 Sep 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-fisher-vs-pirotton-sept-2026-boxing-live-online-free-1236872092/
+
+UFC and Zuffa Boxing promoter Dana White takes the show to England with Zuffa Boxing 11. In the main event, English fighter Johnny Fisher (14-1-0) goes head-to-head against Belgium boxer Michael Pirotton (12-2-0) in a marquee heavyweight match. It s scheduled for 10 rounds. On Saturday, Sept. 26, Johnny Fisher vs. Michael Pirotton takes place at [ ]
+
+### Nas, Jeremy Pope, Ashlee Simpson and More Toast Krug’s New Champagne-and-Sound Experience at L.A. s Larrabee Studios
+Sat, 26 Sep 2026 13:00:00 +0000 — https://variety.com/2026/shopping/news/krug-larabee-studios-immersive-experience-manny-marroquin-1236876105/
+
+Krug is pairing Champagne with live music at Larrabee Studios. The luxury Champagne house is opening the doors to one of Los Angeles’ most storied recording studios this month for “The Art of Blending Krug Sound,” a three-night experience at Larrabee Studios that will turn guests’ tasting notes — or, more precisely, whatever memories, [ ]
+
+### Finnish Hit ‘100 Litres of Gold’ Gets Another Round With Sequel ‘200 Litres of Gold’ That’s a ‘Little Bit Darker, a Little Bit Funnier and a Little Bit Bigger’ (EXCLUSIVE)
+Sat, 26 Sep 2026 12:29:30 +0000 — https://variety.com/2026/film/global/200-litres-of-gold-sequel-teemu-nikki-1236876234/
+
+Box-office hit “100 Litres of Gold” – last year’s Finnish Oscar submission – is getting a sequel, downing additional “200 Litres of Gold” as the boozy saga about Finnish beer sahti continues. “In the first one, the sisters were making sahti for their sister’s wedding. Now, they are making it for the Finnish Sahti Championship. [ ]
+
+### Naima Mohamud Explains Why Finland Needs a Film Like ‘Halima’: ‘It Was a Long Time Coming’ (EXCLUSIVE)
+Sat, 26 Sep 2026 12:12:02 +0000 — https://variety.com/2026/film/awards/naima-mohamud-finland-halima-first-look-1236876223/
+
+Finnish-Somali director Naima Mohamud’s debut feature, “Halima,” was named Best Fiction Project at the Finnish Film Affair. It’s not the first award for the film, which has consistently generated buzz also outside of the country. But it’s the first Finnish feature film directed by a Black woman. Produced by It’s Alive Films, No-Office Films and [ ]
+
+### CAA’s Roeg Sutherland on How ‘La Bola Negra’ Should Lead to Optimism About the Market at a Time When There’s ‘More Money Out There Than There Ever Was’
+Sat, 26 Sep 2026 12:07:21 +0000 — https://variety.com/2026/film/global/roeg-sutherland-la-bola-negra-optimism-market-money-1236876282/
+
+Roeg Sutherland, co-head of CAA s media finance department and its international film group, lit a candle of hope at the Zurich Summit this Saturday morning as he spoke about how American audiences are consuming international films and how there is “more money” available than ever before—thanks, in particular, to a rise in private equity. “It [ ]
+
+### How Oscar-Tipped Rising Star Anthony Ippolito Turned ‘I Play Rocky’ Into ‘I Play Sylvester’: ‘You Only Have One Chance to Do This’
+Sat, 26 Sep 2026 11:08:23 +0000 — https://variety.com/2026/film/awards/anthony-ippolito-oscar-buzz-sylvester-stallone-i-play-rocky-1236875841/
+
+The sound of rubber sneakers screeching against hard floor inundates the corridors of a sports center tucked in the suburbs of Zurich. It is then cut by the thudding of a heavy metal door. Tucked in the corner of a four-by-four boxing ring is Anthony Ippolito, wearing a thick cream pullover, a neatly pressed shirt [ ]
 
 ### Tilly Norwood Would Love to Work With Tom Holland and Olivia Colman, but Only If It Were Their Digital Twins on an AI Production
 Sat, 26 Sep 2026 08:28:18 +0000 — https://variety.com/2026/film/global/tilly-norwood-tom-holland-olivia-colman-ai-production-1236876240/
@@ -12,47 +52,22 @@ Sat, 26 Sep 2026 02:09:30 +0000 — https://variety.com/2026/film/news/hanuman-a
 
 Indian devotional film Hanuman Ansh has grossed more than $3.5 million outside its home territory since Hombale Films took it to international audiences, and the company behind the blockbuster K.G.F and Kantara franchises has now detailed how it engineered the run. Written and directed by Vishal Chaturvedi and adapted from his book Divine Detour: That [ ]
 
-### Scarlett Johansson Takes Break From Filming Overseas for ‘Paper Tiger’ NYFF Premiere After Skipping Cannes: ‘I’m Hallucinating’
-Sat, 26 Sep 2026 01:16:41 +0000 — https://variety.com/2026/film/festivals/scarlett-johansson-paper-tiger-new-york-film-festival-premiere-adam-driver-1236872284/
-
-A very jet-lagged Scarlett Johansson reunited with co-stars Adam Driver and Miles Teller for the New York Film Festival premiere of Paper Tiger, which kicked off the festival s 64th edition. “I’m hallucinating,” said Johansson, who just got off a long international flight, where she’s filming another movie. “It’s 5 in the morning — which is [ ]
-
-### Love Hypothesis Director Claire Scanlon Breaks Down the Biggest Star Wars Easter Eggs, From Gracie Abrams Song to Color-Coded Wardrobes
-Sat, 26 Sep 2026 01:09:17 +0000 — https://variety.com/2026/film/features/the-love-hypothesis-star-wars-easter-eggs-1236875151/
-
-“Star Wars” has featured iconic locations throughout the franchise, taking audiences to Tatooine, Naboo and now, a campus biology lab at Stanford University. The romantic comedy “Love Hypothesis” premiered on Amazon Prime on Sept. 23, featuring Lili Reinhart and Tom Bateman as romantic interests who get caught in a fake-dating-turned-real-love trope. On the surface, there [ ]
-
-### Isaac Mizrahi on the ‘Unzipped’ Restoration, the John Galliano Met Gala Fiasco and Why the ‘Devil Wears Prada’ Cerulean Blue Speech ‘Makes Me Want to Kill Somebody’
-Sat, 26 Sep 2026 00:44:22 +0000 — https://variety.com/2026/film/columns/isaac-mizrahi-unzipped-restoration-john-galliano-met-gala-devil-wears-prada-cerulean-blue-1236876106/
-
-No doubt Isaac Mizrahi is excited about the release of the newly restored “Unzipped,” the 1995 documentary chronicling a moment in time when he was one of the fashion world s hottest designers. However, Mizrahi admits he’s not that eager to watch it. “I have to say I hate looking back,” he tells me. “I hate [ ]
-
-### Olivia Rodrigo s Unraveled Tour Setlist: Every Song Played on Opening Night in Connecticut
-Sat, 26 Sep 2026 00:27:23 +0000 — https://variety.com/2026/music/news/olivia-rodrigo-unraveled-tour-setlist-opening-connecticut-1236875900/
-
-Olivia Rodrigo officially kicked off the Unraveled tour on Friday night with her first show at PeoplesBank Arena in Hartford, CT. Scroll down to see the setlist as it s being updated live. The 86-date tour is in support of Rodrigo s third album You Seem Pretty Sad for a Girl So in Love, which she released [ ]
-
-### Taylor Swift Breaks Two Spotify Records for 2026, Including Most-Streamed Female Artist in a Day
-Fri, 25 Sep 2026 23:43:56 +0000 — https://variety.com/2026/music/news/taylor-swift-breaks-spotify-records-most-streamed-female-1236876086/
-
-Taylor Swift has broken two Spotify records for 2026, including most-streamed female artist in a day. Swift broke the records following the midnight release of The Life of a Showgirl: Encore, which featured four new songs, including lead single Patient Zero. That song broke the record for the most-streamed song by a female artist in [ ]
-
-### Five Hilton All-Inclusive Resorts for Destination Weddings: From Mexico to the Dominican Republic
-Fri, 25 Sep 2026 23:36:41 +0000 — https://variety.com/2026/shopping/news/best-hilton-hotels-destination-weddings-book-online-1236875965/
-
-Celebrities have long understood that sometimes the best wedding venue requires a passport. George and Amal Clooney turned Venice into the backdrop for their multi-day 2014 celebration, Priyanka Chopra and Nick Jonas took over Jodhpur’s Umaid Bhawan Palace for their lavish 2018 nuptials, and Kourtney Kardashian and Travis Barker brought their guests to Portofino for [ ]
-
-### Control Resonant Team on Reverse Symmetry of Switching From Jesse to Dylan as Sequel Game s New Protagonist
-Fri, 25 Sep 2026 23:00:00 +0000 — https://variety.com/2026/gaming/news/control-resonant-dylan-jesse-zoe-story-1236875720/
-
-Following a nearly seven-year development journey, Remedy Entertainment has unleashed the sequel to its 2019 hit video game “Control.” Released Thursday for Steam, the Epic Games Store, PlayStation 5 and Xbox Series X and S, “Control Resonant” picks up after Jesse Faden, the protagonist of the original “Control” game, goes missing upon the conclusion of [ ]
-
-### Inside Ryan Murphy s Universe: How Director Max Winkler Found Creative Meaning in Lizzie Borden, Love Story and More
-Fri, 25 Sep 2026 22:54:35 +0000 — https://variety.com/2026/tv/features/lizzie-borden-director-max-winkler-ryan-murphy-1236875327/
-
-In 2019, Max Winkler was an indie film director about to level up. Having cut his teeth directing sitcoms in the 10s — including “New Girl,” “Brooklyn Nine-Nine” and “Fresh Off the Boat” — 2017’s dark comedy “Flower” was warmly received by audiences. His next film was the gritty boxing drama “Jungleland,” which starred Charlie [ ]
-
 ## The Hollywood Reporter
+
+### Kane Parsons Recalls Backrooms Trailer Activated a Desire to See: How Did Hollywood Mess This Up?
+Sat, 26 Sep 2026 13:14:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kane-parsons-backrooms-2-film-sequel-zurich-hollywood-1236712483/
+
+Luckily, the young filmmaker told the Zurich Summit that he likes to think he did the core idea of his iconic YouTube series justice — and touched on the possibility of a sequel.
+
+### Academy CEO Bill Kramer Doubles Down on YouTube Move: You ll See a Very Different-Looking Oscars
+Sat, 26 Sep 2026 12:42:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/academy-ceo-bill-kramer-oscars-youtube-ceremony-zurich-film-1236712484/
+
+Kramer said at the Zurich Film Festival Summit on Saturday afternoon that bringing Hollywood's biggest night to YouTube "gives the Academy more control in engaging with film lovers."
+
+### Texas vs. Tennessee: Where to Watch the Marquee College Football Game Online
+Sat, 26 Sep 2026 12:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-texas-vs-tennessee-game-free-football-streams-2026-1236710097/
+
+Fans, Trump and a whole lot of Secret Service flood to Knoxville's Neyland Stadium for Saturday's SEC showdown between two undefeated powerhouses.
 
 ### Calls From the Dead, a Madrid Dystopia and Kids Swap Among Writers Show Pitches as Iberseries
 Sat, 26 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/iberseries-platino-industria-writers-show-pitches-preview-1236696391/
@@ -84,27 +99,27 @@ Sat, 26 Sep 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The news comes after longtime music booker Brian Siedlecki departed from the series; The Hollywood Reporter previously reported that the program chose not to renew his contract.
 
-### What ‘60 Minutes’ Was Missing In Its First Two New Episodes, According to Its Ex-Managing Editor
+### What ‘60 Minutes’ Was Missing in Its First Two New Episodes, According to Its Ex-Managing Editor
 Fri, 25 Sep 2026 23:49:22 +0000 — https://www.hollywoodreporter.com/business/business-news/what-60-minutes-was-missing-in-its-first-two-new-episodes-according-to-its-ex-managing-editor-1236709835/
 
 Guy Campanile, a famously exacting 34-year veteran of CBS News, offered his view of the new season — and it’s less bleak than you might think.
 
-### The Tonight Show’ Is Bringing Back Its Billionaire Microdrama Satire for a Second Season
-Fri, 25 Sep 2026 23:36:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-tonight-show-microdrama-second-season-1236710367/
-
-‘Who Billionaire? Me Billionaire' will premiere during the upcoming Sunday episode of Jimmy Fallon’s late-night show.
-
-### Florence Pugh Says She Was Not Scared to Show Support for Palestine: I Don’t Know Why It Took So Long for People to Actually Feel Sympathy
-Fri, 25 Sep 2026 21:40:30 +0000 — https://www.hollywoodreporter.com/news/general-news/florence-pugh-palestine-support-hollywood-sympathy-1236710258/
-
-The Oscar-nominated actress appeared on the cover of Vanity Fair, where she said, "because so many people actively weren’t [talking about Palestine], that made me even more confused — and kind of probably even more in the right to talk about it.”
-
-### Narcos Director Andrés Baiz Tackling Police Helicopter Thriller Helo for Netflix (Exclusive)
-Fri, 25 Sep 2026 21:33:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/narcos-director-andres-baiz-helicopter-helo-netflix-1236710205/
-
-Patrick Aison, known for his work on the recent live-action Predator movies, wrote the script.
-
 ## Deadline
+
+### ‘Backrooms’ Director Kane Parsons Distances $400M Hit From Horror Moniker: “I Don t View It As A Horror Project”- Zurich Summit
+Sat, 26 Sep 2026 13:41:28 +0000 — https://deadline.com/2026/09/backrooms-kane-parson-not-horror-project-zurich-summit-1237114440/
+
+Kane Parson’s $400M hit Backrooms, spinning off his web-series inspired by creepypasta horror content on the internet, is invariably and understandably billed as a horror. The director told a panel at the Zurich Summit on Saturday, however, that he does not see it as being aligned with the genre. “I didn t direct like a horror [ ]
+
+### Taylor Swift Breaks Spotify Record With Patient Zero Surprise Release; New Showgirl Songs Take Top Four Spots On Global Streaming List
+Sat, 26 Sep 2026 13:32:31 +0000 — https://deadline.com/2026/09/taylor-swift-spotify-patient-zero-1237114438/
+
+The previously unreleased song released by Taylor Swift yesterday as part of The Life of a Showgirl: Encore record has already scored some records of its own. Spotify says that one of the four Swift songs released yesterday Patient Zero immediately became Spotify s most-streamed song by a female artist in a single day [ ]
+
+### Cinetic Launches Vertical Leap, Investment Vehicle Producing Pathway For Pro Athletes Zurich Summit
+Sat, 26 Sep 2026 10:41:39 +0000 — https://deadline.com/2026/09/cinetic-launches-vertical-leap-pathway-pro-athletes-1237114425/
+
+John Sloss s Cinetic Media has launched Vertical Leap, an investment vehicle and producing pathway for professional athletes. The initiative is designed to give athletes/members a working seat inside Cinetic s slate, with access to rough cuts, creative input, and the same industry guidance the company provides the filmmakers behind its most successful projects. The end goal [ ]
 
 ### One Year On, Does AI Actress Tilly Norwood Have An Agent? We Get Loads Of Offers, But No, We Don t Need It Zurich Summit
 Sat, 26 Sep 2026 08:13:12 +0000 — https://deadline.com/2026/09/tilly-norwood-had-agent-offers-but-doesnt-need-one-1237114411/
@@ -151,29 +166,16 @@ Fri, 25 Sep 2026 22:27:01 +0000 — https://deadline.com/2026/09/paramount-moves
 
 Paramount said Friday it plans to start moving the listing of its Class B shares from the Nasdaq to the New York Stock Exchange in early October. Noting the still-pending $110 billion merger with Warner Bros Discovery as a key variable, the company said in an SEC filing that the date of the shift could [ ]
 
-### NYFF Turns Up The Heat As ‘Godzilla’, ‘Artificial’, ‘NAZA’, ‘You Can See Everything’ Spark Festival Buzz
-Fri, 25 Sep 2026 21:57:26 +0000 — https://deadline.com/2026/09/new-york-film-festival-2026-preview-1237114114/
-
-The New York Film Festival opens Friday night with a lineup featuring great films of 2026 along with heavy-hitting world premieres. Artistic director Dennis Lim insists the global bows are not “the be all, end all, but if they come he credits the vibrant Big Apple audience. “The New York audience engages with a film [ ]
-
-### Adults Star Rachel Marsh On Creating Hiccup Pop Anthem With Director: We Tried All Different Versions
-Fri, 25 Sep 2026 21:18:46 +0000 — https://deadline.com/2026/09/adults-rachel-marsh-creating-hiccup-pop-anthem-1237114145/
-
-After unexpectedly dropping the summer anthem with Season 2 of Adults, Rachel Marsh is looking back on her journey to onscreen pop icon. The actress, who plays dental assistant Carly in the FX comedy series, explained that she and director Paul Briganti tried all different versions of her hit pop single Hiccup , which appeared in [ ]
-
-### Adam Brody Declares Support For Free Palestine Ahead Of Nobody Wants This Season 3
-Fri, 25 Sep 2026 21:00:00 +0000 — https://deadline.com/2026/09/adam-brody-free-palestine-nobody-wants-this-1237114116/
-
-As Netflix prepares to release another season of its mixed-faith Jewish rom-com Nobody Wants This, leading man Adam Brody is using his platform to speak up for Palestinians. The 2x Golden Globe-nominated actor emphasized his support for Free Palestine as the topic of Israel s attacks on Gaza came up in a recent interview ahead of [ ]
-
 ## befores & afters
 
-### The making of Skinny Steve
-Thu, 24 Sep 2026 11:45:07 +0000 — https://beforesandafters.com/2026/09/24/the-making-of-skinny-steve/
-
-How Steve Rogers (before super soldier serum) was made for Captain America: The First Avenger . The latest Great Moment in Effects History is out: how a bulked up Chris Evans was turned into Skinny Steve Rogers using body doubles and incredible 2D compositing VFX by Lola VFX for Captain America: The First Avenger. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post The making of Skinny Steve appeared first on befores & afters .
+_Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Inside NYFF s Buzzy Opening Night with James Gray s Paper Tiger
+Sat, 26 Sep 2026 14:18:50 +0000 — https://www.indiewire.com/awards/industry/nyff-opening-night-paper-tiger-oscars-1235218746/
+
+Neon's "Paper Tiger" played well for the Lincoln Center crowd, who debated its Oscar odds at the Tavern on the Green after-party.
 
 ### Salute 25 Years of Adult Swim by Marathoning the TV Block s Iconic Infomercials Online
 Sat, 26 Sep 2026 03:59:00 +0000 — https://www.indiewire.com/features/best-of/adult-swim-infomercials-rewatch-online-anniversary-1235218775/
@@ -230,11 +232,6 @@ Fri, 25 Sep 2026 01:08:22 +0000 — https://www.indiewire.com/criticism/movies/u
 
 Russell Crowe adds to the confusion in a biopic that gives Ted Kaczynski a dangerously tidy origin story.
 
-### America’s New Federal Film Tax Incentive Bill Might Be the One Thing Everyone Agrees on
-Thu, 24 Sep 2026 23:03:49 +0000 — https://www.indiewire.com/news/analysis/federal-film-tax-incentive-bill-competitive-analysis-1235218557/
-
-With a credit up to 30 percent that's fully stackable, it's a "game-changer" that can compete with anywhere.
-
 ## The Wrap
 
 ### Bill Maher Draws Big Response From Studio Audience After Calling Trump an ‘Arch-Criminal’
@@ -289,53 +286,53 @@ Sabrina Carpenter and Margaret Qualley are set to star as Ginger Rogers and Adel
 
 ## Collider
 
-### Apple TV's "Unfilmable" Sci-Fi Thriller Officially Premieres Next Year
-Sat, 26 Sep 2026 09:20:11 GMT — https://collider.com/apple-tv-sci-fi-neuromancer-release-date-2027/
+### 7 Must-Watch Movies Leaving Netflix in October
+Sat, 26 Sep 2026 14:28:12 GMT — https://collider.com/movies-leaving-netflix-october-2026/
 
-The diversity of settings in Apple TV's sci-fi shows is one of the biggest allures of its stories. From space expeditions on shows like For All Mankind to underground survival thrillers like Silo , Apple has proven it can bring abstract and difficult concepts to the small screen. Other shows like Foundation and Severance have shown just how far the streamer can go with mind-bending concepts and realities. That's why Apple TV's adaptation of what was once an unfilmable story is highly anticipated.
+Summer has officially come to an end, and as the days get shorter and the weather starts to cool down, it's time to trade beach days and summer adventures for cozy nights on the couch. Fall is bringing plenty of its own charm, from changing leaves and sweater weather to pumpkin spice and the perfect excuse to settle in for a movie marathon. But just as the seasons change, so does Netflix 's lineup, and the streamer is turning a new leaf with several great movies preparing to leave the platform .
 
-### The 5 Greatest 5-Season Netflix Shows of All Time, Ranked
-Sat, 26 Sep 2026 09:18:11 GMT — https://collider.com/best-netflix-shows-5-seasons-ranked/
+### Jon Bernthal’s 99-Minute Neo-Western Officially Demolishes Gal Gadot’s Thriller on Streaming Charts
+Sat, 26 Sep 2026 14:10:12 GMT — https://collider.com/those-who-wish-me-dead-streaming-charts-jon-bernthal/
 
-Five seasons is a tricky balancing act for any television show. It's enough time to build a rich world and develop memorable characters, but it also requires a show to avoid the pitfalls that come with success: repetition, declining quality, or simply overstaying its welcome. Luckily, there are some Netflix shows that have found a way to keep evolving while also holding onto what made audiences love them in the first place.
+Not only is Taylor Sheridan enjoying the successful third-season run of his spy thriller series Lioness , but he can also expect continued success with the release of the second season of Marshals this week. This will be followed by the fourth season debut of Tulsa King , which will lead into a new spin-off, titled Frisco King . Further up the horizon is the third season of Landman . So much for Sheridan's exit strategy from Paramount. The mogul is set to begin a new creative partnership with NBCUniversal, but is clearly still keeping the fires burning at his longtime streaming home. Meanwhile, as he also attempts to return to the big screen, Sheridan's most recent movie as director is finding a new life over on Netflix.
 
-### One of the Greatest Historical Epics Ever Made Officially Lands on Free Streaming
-Sat, 26 Sep 2026 09:00:12 GMT — https://collider.com/ben-hur-greatest-epic-ever-made-streaming-free-justwatch-tv/
+### 'Law & Order: SVU’s Biggest Episode Broke the Franchise's Most Frustrating 10-Year Trend
+Sat, 26 Sep 2026 14:10:12 GMT — https://collider.com/law-and-order-svu-christopher-meloni-stabler-return-episode/
 
-We’re in the middle of a particularly momentous new era for faith-based movies, which has been building toward the long-awaited The Passion of the Christ sequels. In recent years, several movies aimed at religious audiences — a rather underserved demographic — have broken through at the box office. The animated movies David and The King of Kings were particularly successful, having grossed around $150 million in combined box-office revenue. Meanwhile, actors such as Alan Ritchson and Sam Worthington have both found success in the field, while shows such as The Chosen and House of David have continued to draw large audiences. All of this is to say that now is the best time to revisit arguably the greatest religious epic of all time, a film that is currently streaming for free around the world on a new platform.
+Law and Order: Special Victims Unit has thrived for years thanks to its ensemble cast, particularly Detectives Olivia Benson ( Mariska Hargitay ) and Elliot Stabler ( Christopher Meloni ). Benson and Stabler's partnership was a major draw for SVU fans; most loved their deep trust, while others hoped for a potential romance to blossom. Naturally, audiences were shocked when Meloni departed the series after Season 12 , since it marked the beginning of a seismic shift in SVU 's storytelling. Eventually, Meloni returned as Stabler in the Season 22 episode "Return of the Prodigal Son."
 
-### Tim Burton’s Gothic Horror Hit Officially Surges Ahead of Sydney Sweeney’s Remake
-Sat, 26 Sep 2026 08:40:11 GMT — https://collider.com/sleepy-hollow-streaming-hit-tubi-september-2026/
+### The 10 Best Game Boy Advance Games of All Time, Ranked
+Sat, 26 Sep 2026 14:04:11 GMT — https://collider.com/best-game-boy-advance-games-all-time-ranked/
 
-For better or for worse, Sydney Sweeney continues to make headlines. Her most recent sports ad has caused outrage on social media, but it feels as if this is just another day in the life of one of Hollywood's most famous names. Earlier this year, Sweeney was part of one of the most controversial seasons of television ever, as she, Zendaya , Hunter Schafer , and Jacob Elordi teamed back up for Euphoria 's third season.
+Released between the legendary original Game Boy and the massively successful Nintendo DS, the Game Boy Advance is largely overlooked compared to the other massively successful Nintendo handheld consoles. However, those who experienced the console at the height of its popularity will be quick to sing its praises, having one of the highest-quality lineups of video games that a handheld console has ever had. Especially when compared to the original Game Boy, whose library has certainly shown its age, many of the Game Boy Advance's best games are still considered all-time classics.
 
-### Chris Pratt's 128-Minute Sci-Fi Blockbuster Officially Dominates Free Streaming
-Sat, 26 Sep 2026 08:20:11 GMT — https://collider.com/chris-pratt-jurassic-world-fallen-kingdom-streaming-success-tubi-september-2026/
+### ‘Scrubs’ Revival Fixes Its Elliot Problem With 1 Major OG Character Return
+Sat, 26 Sep 2026 14:02:11 GMT — https://collider.com/scrubs-revival-season-2-elliot-scott-foley-return/
 
-2026 has been a roller-coaster of a year for Chris Pratt fans, especially after he starred in one of the biggest box office misfires of the year with Mercy . Despite the combined star power of Pratt and Rebecca Ferguson , Mercy failed to turn a profit at the box office, but it did go on to become one of the most-watched movies of the year on Prime Video. Pratt then swiftly found box office redemption with the release of The Super Mario Galaxy Movie , which was also the first feature film of 2026 to reach the fabled $1 billion milestone at the global box office. He will return to streaming soon for the long-awaited second season of his hit Prime Video series, The Terminal List , which is billed as a mash-up of both Reacher and John Wick .
+Scott Foley 's return to Scrubs isn't just another dose of nostalgia for fans of the original series. His return as Sean Kelly could be the key to bringing back a side of Elliot Reid ( Sarah Chalke ) that the revival's first season inadvertently left behind. After Zach Braff admitted to Collider that the production had “overcorrected” by making Sarah Chalke's character too together and mature, Season 2 is set to bring back the neurotic and unhinged Elliot that we fell in love with the first time around.
 
-### 12-Part Sitcom Smash Officially Becomes a Streaming Juggernaut
-Sat, 26 Sep 2026 08:00:11 GMT — https://collider.com/the-big-bang-theory-streaming-success-hbo-max-september-2026/
+### Forget 'Jack Ryan,' Alan Ritchson's 'Reacher' Is Officially the King of Action TV
+Sat, 26 Sep 2026 13:41:11 GMT — https://collider.com/reacher-season-4-alan-ritchson-10-billion-minutes-watched/
 
-Television has changed quite a bit since a socially awkward genius last knocked three times on his neighbor's door. Streaming has grown exponentially, entire services have appeared and disappeared, and hundreds of new shows are fighting for attention every week, and yet people can't help but shake off the feeling that it all started with a big bang.
+The fourth season of Reacher passed the baton to the spin-off series Neagley a few days ago, expanding the franchise after years of build-up. Based on the novels of Lee Child , Reacher and Neagley hold the unique distinction of being both critically acclaimed and viewership juggernauts. Reacher has a remarkable 95% overall score on the aggregator website Rotten Tomatoes, putting it in the same category as highly decorated contemporary titles Slow Horses and Severance . Reacher , however, has an edge over them because it also emerges as the most popular show in the world during its annual return. Season 4 was no different, and with Nielsen now reporting streaming viewership data after a shorter two-week delay, a clear picture of its success is being painted.
 
-### The Lord of the Rings Character Who Was Completely Unrecognizable in the Books
-Sat, 26 Sep 2026 04:46:37 GMT — https://collider.com/lord-of-the-rings-aragorn-book-differences/
+### The Best Horror Movie of Each of the Last 6 Years
+Sat, 26 Sep 2026 13:41:11 GMT — https://collider.com/best-horror-movies-each-last-6-years/
 
-The Lord of the Rings has made a name for itself on the page and on screen alike, and while the trilogy is one of the best book-to-movie adaptations , it does make changes. Fans can point to many examples, and they do; however, Peter Jackson 's film's alterations to one of J. R. R. Tolkien 's characters stand out. Of course, many have a lot to say about the portrayal of Faramir ( David Wenham ), whose temptation by the One Ring is the exact opposite of the books, but there is a more significant character whom the films drastically change.
+There has been a unique phenomenon in the horror genre in the 2020s that the industry has not seen since the ‘70s. Although horror films have always been reliable investments for studios because of their low cost and passionate fanbases, the genre has become even more popular in recent years with a series of massive financial hits and critically acclaimed works. Many of the top directors working today that can sell a film based purely on their name being involved seem to work exclusively in the horror genre, such as Jordan Peele, Ari Aster, Robert Eggers , and Zach Creggar . There’s also been franchises that have retained their popularity, as Scream and The Conjuring have proven to be generational hits that have developed multiple generations of fans.
 
-### The Greatest Adventure Franchise of All Time Is Officially Saying Goodbye
-Sat, 26 Sep 2026 04:08:11 GMT — https://collider.com/the-mummy-brendan-fraser-leaving-leaving-free-streaming-tubi/
+### 'Forgotten Island' Directors Confirm They Have Sequel Plans
+Sat, 26 Sep 2026 13:30:11 GMT — https://collider.com/forgotten-island-2-sequel-ideas-directors-joel-crawford-januel-p-mercado-interview/
 
-If you're looking for the perfect adventure franchise to binge with "spooky season" just around the corner, there's no better reason to revisit The Mummy movies. Currently, all three entries in the original Brendan Fraser trilogy can be found streaming for free on Tubi through the end of the month. That's right, these monster adventure flicks are available on the platform free-of-charge, but only through September 30. Given that we're about a month out from Halloween, the time to revisit these cinematic delights is right now — especially if you don't already own all three at home.
+Finding original stories in the animation space feels rare this decade. Big studios like Pixar and Illumination continue to lean on reliable franchises like Toy Story and Minions to make a dent at the box office. It's a risk to pitch an original idea and have the backing of a big studio to bring it to the screen, something directors Joel Crawford and Januel P. Mercado are up for the challenge. Having proven themselves with the critical and commercial success of Puss in Boots: The Last Wish , the duo are bringing an original story to theaters with Forgotten Island . Inspired by their friendship, the animated movie centers on Filipino teens, Jo ( H.E.R. ) and Raissa ( Liza Soberano ), as they discover the fabled island of Nakali.
 
-### Prime Video’s Newest Mega Streaming Bundle Exposes an Even Bigger Viewership Problem
-Sat, 26 Sep 2026 03:48:11 GMT — https://collider.com/prime-video-new-streaming-bundle-amc-plus-britbox-problem/
+### The 6 Best Science Fantasy Books Released Since 2000, Ranked
+Sat, 26 Sep 2026 13:24:11 GMT — https://collider.com/best-science-fantasy-books-since-2000-ranked/
 
-It's 2026, and it's getting harder than ever to pretend the "streaming revolution" didn't just loop back to where it started. Earlier this week, Prime Video launched a $29.99/month bundle with AMC+ , BritBox , MGM+, PBS Masterpiece, and Starz . The tech giant calls it a deal — and it is, technically, 39% cheaper than subscribing to all five on their own .
+Most people who read fantasy don't really touch actual sci-fi, and most sci-fi readers roll their eyes at swords and prophecies . I get it, mixing the two sounds messy on paper, like nobody bothered deciding what rules the story actually follows. It's an easy genre to be skeptical of before you actually try it.
 
-### The 10 Best War Movie Opening Scenes, Ranked
-Sat, 26 Sep 2026 03:09:12 GMT — https://collider.com/best-war-movie-opening-scenes-ranked/
+### Forget 'Mindhunter,' Russell Crowe's New Crime Thriller Is Officially a Netflix Super-Hit
+Sat, 26 Sep 2026 13:15:11 GMT — https://collider.com/unabomber-netflix-streaming-hit-russell-crowe/
 
-When it comes to writing a story, one of the hardest aspects to nail is the beginning. One would think that's the easiest part, but in fact, it's exceptionally difficult to nail the tone, establish the plot, setting, and characters, and hook your audience all at the same time. Audiences should know what to expect from the story right from the get-go, and should trust the story to maintain its momentum all the way through to the end.
+The memories of The Whisper Man are still fresh, and Netflix has already unveiled a replacement thriller. The new movie landed on the streamer this past Friday and immediately announced that it is here to stay. In recent months, Netflix has experienced tremendous success with mid-budget films — a strategic pivot from the mega-budget tentpoles that the platform had been putting its resources into before. The streamer's biggest hit so far this year is War Machine , starring Alan Ritchson , followed by The Rip , featuring Matt Damon and Ben Affleck . Together with a handful of other mid-budget films, these titles topped the coveted 100-million-views mark. It remains to be seen if Netflix's new thriller is able to match their success, but early signs are encouraging.
 

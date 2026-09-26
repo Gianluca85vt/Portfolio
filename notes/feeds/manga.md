@@ -1,6 +1,16 @@
-# Manga — harvested 2026-09-26T09:31:47.015Z
+# Manga — harvested 2026-09-26T14:43:50.466Z
 
 ## Anime News Network
+
+### Chizu Kamikō's Seijo Mellia to Sennen Ōkoku no Kishi Manga Ends
+Sat, 26 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/chizu-kamiko-seijo-mellia-to-sennen-okoku-no-kishi-manga-ends/.240200
+
+Series about girl who cannot use magic debuted in 2021
+
+### Young Ladies Don't Play Fighting Games ‒ Episode 12
+Sat, 26 Sep 2026 07:31:22 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-12/.242212
+
+Overall thoughts? Not quite anime of the season material, but certainly a weekly highlight all the same.
 
 ### Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19
 Sat, 26 Sep 2026 01:37:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205
@@ -52,21 +62,46 @@ Fri, 25 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs
 
-### Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels
-Fri, 25 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194
-
-Also: <cite>Oh Boy, Was I Wrong About Her</cite>; <cite>The Returned Tyrant Princess Rewrites Her Dark Past</cite>; more
-
-### Historié Volumes 1-2 Digital Manga Review
-Fri, 25 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465
-
-Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Netflix Faces New Backlash After Steel Ball Run JoJo Fans Call for Ending Theme Change Due to Dr. Luke Credit
+Sat, 26 Sep 2026 14:03:32 GMT — https://animecorner.me/netflix-faces-new-backlash-after-steel-ball-run-jojo-fans-call-for-ending-theme-change-due-to-dr-luke-credit/
+
+Netflix is facing new backlash following the release of the ending theme for STEEL&hellip;
+
+### TenSura Season 4 Cour 3 Set for July 2027, Clayman REVENGE Anime Announced for April
+Sat, 26 Sep 2026 13:37:51 GMT — https://animecorner.me/tensura-season-4-cour-3-set-for-july-2027-clayman-revenge-anime-announced-for-april/
+
+TenSura Season 4 will continue with its third cour in July 2027, with a Clayman REVENGE anime adaptation set to begin in April 2027.
+
+### Frieren Celebrates 3rd Anime Anniversary With Special Visual, Season 3 Still One Year Away
+Sat, 26 Sep 2026 11:25:31 GMT — https://animecorner.me/frieren-celebrates-3rd-anime-anniversary-with-special-visual-season-3-still-one-year-away/
+
+Frieren: Beyond Journey’s End revealed a special new visual to mark the third anniversary of the anime’s first broadcast in September 2023.
+
+### October 10 Officially Designated as "Gintama Day" by Japan Anniversary Association
+Sat, 26 Sep 2026 11:14:06 GMT — https://animecorner.me/october-10-officially-designated-as-gintama-day-by-japan-anniversary-association/
+
+October 10 has officially been designated as “Gintama Day” by the Japan Anniversary Association, coinciding with Gintoki's birthday.
+
+### Katekyo Hitman Reborn! Anime Reveals Sixteenth and Final Ending Featuring "Canvas" by +Plus
+Sat, 26 Sep 2026 11:04:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixteenth-and-final-ending-featuring-canvas-by-plus/
+
+Katekyo Hitman REBORN! anime released the creditless version of its sixteenth and final ending, featuring the song "Canvas" by +Plus.
+
+### Katekyo Hitman Reborn! Anime Reveals Fifteenth Ending Featuring "Famiglia" by D-51
+Sat, 26 Sep 2026 10:53:34 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fifteenth-ending-featuring-famiglia-by-d-51/
+
+Katekyo Hitman REBORN! anime has officially released the creditless version of its fifteenth ending, featuring the song "Famiglia" by D-51.
+
+### Code Geass New Anime Announced for 2027 With Teaser Trailer, Visual, and Staff
+Sat, 26 Sep 2026 10:03:03 GMT — https://animecorner.me/code-geass-new-anime-announced-for-2027-with-teaser-trailer-visual-and-staff/
+
+A new Code Geass anime titled Star Chaser Aspal announced for 2027, revealing its teaser trailer, visual, as well as the main staff.
 
 ### The Fake Alchemist Reveals First PV and Key Production Details
 Sat, 26 Sep 2026 00:40:08 GMT — https://animecorner.me/the-fake-alchemist-reveals-first-pv-and-key-production-details/
@@ -92,36 +127,6 @@ Cyberpunk: Edgerunners 2 tops the Fall 2026 Most Anticipated Anime ranking, foll
 Thu, 24 Sep 2026 15:12:13 GMT — https://animecorner.me/sekiro-no-defeat-full-tv-anime-to-run-for-8-episodes-starting-in-january-2027-new-visual-revealed/
 
 The full SEKIRO: NO DEFEAT TV anime will begin in January 2027 with a&hellip;
-
-### Now That We Draw Anime Reveals First Trailer, January 2027 Release Date
-Thu, 24 Sep 2026 13:02:49 GMT — https://animecorner.me/now-that-we-draw-anime-reveals-first-trailer-january-2027-release-date/
-
-Now That We Draw anime revealed the first teaser trailer, along with new character visuals and a January 2027 release date.
-
-### Makeine: Too Many Losing Heroines! Reveals New Visual for Toyohashi Collaboration
-Thu, 24 Sep 2026 12:44:44 GMT — https://animecorner.me/makeine-too-many-losing-heroines-reveals-new-visual-for-toyohashi-collaboration/
-
-Makeine: Too Many Losing Heroines! revealed a new collaboration poster visual with Toyohashi City, the real-world setting of the series.
-
-### Interview: Emiru Talks Anime, Cosplay, and State Farm Gamerhood
-Thu, 24 Sep 2026 12:39:02 GMT — https://animecorner.me/interview-emiru-talks-anime-cosplay-and-state-farm-gamerhood/
-
-Streamer Emiru has made a name for herself in the content creation and cosplay&hellip;
-
-### MyGo!!!!! Covers "Naimononedari" by KANA-BOON
-Thu, 24 Sep 2026 11:17:51 GMT — https://animecorner.me/mygo-covers-naimononedari-by-kana-boon/
-
-BanG Dream!'s MyGO!!!!! released a cover of the song "Naimononedari" by KANA-BOON. The band&hellip;
-
-### Katekyo Hitman Reborn! Anime Reveals Eight and Final Opening Featuring "LISTEN TO THE STEREO!!" by Going Under Ground
-Thu, 24 Sep 2026 11:07:08 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-eight-and-final-opening-featuring-listen-to-the-stereo-by-going-under-ground/
-
-Katekyo Hitman REBORN! anime released the creditless version of its eight and final opening, featuring the song "LISTEN TO THE STEREO!!"
-
-### Rudy Takes Action in Mushoku Tensei Season 3 Episode 14 Preview
-Thu, 24 Sep 2026 10:06:13 GMT — https://animecorner.me/rudy-takes-action-in-mushoku-tensei-season-3-episode-14-preview/
-
-Mushoku Tensei Season 3 revealed the Episode 14 preview images and synopsis ahead of its September 27 premiere.
 
 ## MyAnimeList News
 
@@ -154,31 +159,6 @@ WWWave Corporation s Deregula animation label announced a television anime adapt
 Thu, 24 Sep 2026 20:21:53 -0700 — https://myanimelist.net/news/74756971?_location=rss
 
 The official website for the television anime adaptation of Jirou Sugiura and Umemaru s Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotional video on Friday. Voice actors Youhei Matsuoka (Fujimoto Tatsuki 17-26) and Miyari Nemoto (Ruri no Houseki) are starring as Paracelsus and Nora Petan, respectively. Staff Chief Director: Takeo Takahashi (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Director: Hijiri Sanpei (Watashi no Yuri...
-
-### Kakunaru Ue wa Reveals Additional Staff, First Promo for Winter 2027
-Thu, 24 Sep 2026 05:39:39 -0700 — https://myanimelist.net/news/74754396?_location=rss
-
-The official website for the television anime adaptation of Kyuu Takahata and Yuuji Kaba s Kakunaru Ue wa (Now That We Draw) manga revealed additional staff, a character visual (pictured above), and the first promotional video on Thursday. The anime series will premiere in January 2027. Staff Sub-character Design: Momoka Izumi (Yofukashi no Uta animation director) Color Design: Yurie Matsuura (Koi wa Futago de Warikirenai) Art Director: Arei Saiga (Kabushikigaisha Magi-Lumi&egrave;re backg...
-
-### Bless Unveils Additional Cast, Character Promo
-Thu, 24 Sep 2026 04:26:51 -0700 — https://myanimelist.net/news/74754247?_location=rss
-
-The official website for the television anime adaptation of Yukino Sonoyama s Bless manga unveiled additional cast and the character promotional video on Thursday. The anime series is scheduled to premiere on Fuji TV s NoitaminA programming block at 11.30. p.m. in January 2027. Cast Ginga Yoyogi: Nobuhiko Okamoto (Boku no Hero Academia) Oroka Sumeragi: Yoshino Aoyama (Bocchi the Rock!) Shitataka Sumeragi: Momoka Terasawa (Make Heroine ga Oosugiru!) Shoutarou Kitamura (Make Heroine ga...
-
-### Isshiki-san wa Koi wo Shiritai. Announces Additional Cast
-Thu, 24 Sep 2026 03:44:13 -0700 — https://myanimelist.net/news/74754203?_location=rss
-
-The official website for the television anime adaptation of Ayune Araragi s Isshiki-san wa Koi wo Shiritai. (Ms. Isshiki Wants to Know About Love) manga revealed additional cast and a key visual (pictured) on Thursday. The anime series is scheduled to premiere in January 2027. Cast Iwata Danjuro: Haruki Ishiya (Hibike! Euphonium) Nakatani Masato: Takuma Nagatsuka (SK&infin;) Matsumoto Chikai: Hiiro Ishibashi (Kaoru Hana wa Rin to Saku) Yamakawa Rena: Yuu Wakui (Otonari ni Ginga) Kazuya Koma...
-
-### Shin Oishinbo Reveals Main Cast, Staff
-Thu, 24 Sep 2026 03:43:09 -0700 — https://myanimelist.net/news/74754201?_location=rss
-
-The official website for the television anime adaptation of Tetsu Kariya s Oishinbo manga, titled Shin Oishinbo, revealed the main cast, staff and a teaser visual on Thursday (pictured below). The anime is scheduled to premiere in 2027. Cast Shirou Yamaoka: Youhei Azakami (Kamonohashi Ron no Kindan Suiri) Yuuko Kurita: Hitomi Sasaki (Fujimoto Tatsuki 17-26) Yuuzan Kaibara: Akio Ootsuka (Fate/strange Fake) Staff Director: Kenichi Nishida (Sayounara Ryuusei, Konnichiwa Jinsei) Series Composi...
-
-### Aoki Denshou Welsh & Shedar Reveals Additional Cast, Theme Songs, Main Promo
-Thu, 24 Sep 2026 02:58:12 -0700 — https://myanimelist.net/news/74754150?_location=rss
-
-The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...
 
 ## Otaku USA
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-26T09:31:47.015Z
+# AI — harvested 2026-09-26T14:43:50.466Z
 
 ## OpenAI
 
@@ -9,8 +9,7 @@ With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells m
 
 ## Hugging Face
 
-### Accelerating vision-language models with LFM2.5-VL-DSpark
-Thu, 24 Sep 2026 14:08:57 GMT — https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

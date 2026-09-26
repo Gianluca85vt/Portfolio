@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-26T09:31:47.015Z
+# Games — harvested 2026-09-26T14:43:50.466Z
 
 ## Eurogamer
+
+### MobyGames video game database now lets developers claim their game credits
+Sat, 26 Sep 2026 11:53:56 +0000 — https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio
+
+Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more
+
+### US court orders Redditor to pay Nintendo £3.4m over Switch piracy
+Sat, 26 Sep 2026 10:18:58 +0000 — https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million
+
+A US District Judge has granted Nintendo a &pound;3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as "Archbox", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more
 
 ### What we've been playing - "I curl up on my sofa and breed my army of battle cats"
 Sat, 26 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats
@@ -52,16 +62,6 @@ Fri, 25 Sep 2026 11:33:13 +0000 — https://www.eurogamer.net/world-of-warcraft-
 
 I've had an on-and-off relationship with World of Warcraft ever since I first booted it up in my early teens. I love the size of the world, the joy of exploration, the kick from getting a purple drop from a dungeon at 1am. But more and more, I found myself stepping away from the endless treadmill that is the modern game. World of Warcraft: Classic, however, reunited my enthusiasm, and now Forever has properly dragged me back in. Read more
 
-### Sony reportedly surveying developers about PlayStation disc-ending decision - is it having second thoughts?
-Fri, 25 Sep 2026 11:00:43 +0000 — https://www.eurogamer.net/sony-playstation-disc-ending-survey-report
-
-Is Sony having second thoughts about ending PlayStation disc support? The question has arisen following a report that says Sony sent "a bigger survey than they've sent almost ever before" to developers asking for feedback about the decision to stop producing disc-based games. Read more
-
-### As Marathon's player slump continues, Bungie announces plans to grow it "beyond extraction"
-Fri, 25 Sep 2026 10:32:41 +0000 — https://www.eurogamer.net/marathon-bungie-future-roadmap-beyond-extraction
-
-Bungie has announced drastic changes coming to its struggling shooter Marathon, including a shift away from its extraction roots in the coming months. The new mission statement? Making more "approachable" experiences with "different levels of intensity and commitment." Read more
-
 ## GamesIndustry.biz
 
 ### Here is the full line-up for the GamesIndustry.biz HR Summit 2026
@@ -104,26 +104,21 @@ Fri, 25 Sep 2026 08:04:53 +0000 — https://www.gamesindustry.biz/nintendo-of-am
 
 Nintendo of America has won $4.5 million in damages from Reddit user James C. Williams, also known as 'Archbox,' for copyright violations. Read more
 
-### Dutch consumer group files lawsuit against Epic for misleading young players on Fortnite, seeking more than €100m in compensation
-Thu, 24 Sep 2026 13:48:19 +0000 — https://www.gamesindustry.biz/dutch-consumer-group-files-lawsuit-against-epic-for-misleading-young-players-on-fortnite-seeking-more-than-100m-in-compensation
-
-Original story: The Dutch consumer group Stichting Massaschade & Consument (SMC) has filed a class action lawsuit against Epic Games, alleging it has misled young Fortnite players. Read more
-
-### Righting old wrongs: MobyGames on letting developers claim games they weren't credited for
-Thu, 24 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/righting-old-wrongs-mobygames-on-letting-developers-claim-games-they-werent-credited-for
-
-In March 2022, Atari acquired the video game database MobyGames. Read more
-
-### TinyBuild revenue rises 18% to $20m during H1 2026, with 85% coming from first and second-party owned IP
-Thu, 24 Sep 2026 10:12:10 +0000 — https://www.gamesindustry.biz/tinybuild-revenue-rises-18-to-20m-during-h1-2026-with-85-coming-from-first-and-second-party-owned-ip
-
-TinyBuild reported an 18% revenue increase to $20 million for the six months ending June 30, 2026, driven by "strong catalogue performance and new launches." Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)
+Sat, 26 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october
+
+Ace Combat 8! The Witcher 3! Toem 2! The bumper release schedule continues in earnest next week, with a few giants pulling for your attention. Among them is The Witcher 3: Wild Hunt Remastered and the acclaimed Ace Combat 8: Wings of Theve . Read the full article on pushsquare.com
+
+### Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation
+Sat, 26 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation
+
+Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second anniversary, the developers at Team Jade have been hard at work, listening to two years of player feedback as the game has evolved since its initial PC launch, since coming to mobile and Xbox Series X|S. The second-anniversary celebration kicks off September 26th, with daily tasks that offer players the chance to grab up to 3900 limited-time Delta Tickets, and new collectibles like a new legendary appearance for the AUG, called Golden State. Read the full article on pushsquare.com
 
 ### Guide: All PS Plus Games Available Now
 Sat, 26 Sep 2026 00:15:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
@@ -175,16 +170,6 @@ Fri, 25 Sep 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-what-
 
 Feeling lucky, bub? There's no getting around it: Marvel's Wolverine has been splitting opinion. Critic reviews have been all over the place, and the game's been battered on social media thanks to the usual flood of unflattering gameplay clips. Read the full article on pushsquare.com
 
-### Infinite New Game+, Photo Mode on the Way to Control Resonant, No Word on Proper PS5 DLC
-Fri, 25 Sep 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/09/infinite-new-gameplus-photo-mode-on-the-way-to-control-resonant-no-word-on-proper-ps5-dlc
-
-Updates in October and November. Remedy will add an infinite New Game+ option and a Photo Mode to Control Resonant in the coming months, the studio has confirmed today. These additions form part of the team's post-launch plans now the PS5 sequel is out, as detailed in a blog post . There is no mention of any actual story expansions, though, which Remedy has done for a number of its previous titles. Read the full article on pushsquare.com
-
-### GTA 6 Can t Completely Sweep This Year s GOTY Awards Anymore
-Fri, 25 Sep 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-cant-completely-sweep-this-years-goty-awards-anymore
-
-It's not out in time for the Golden Joysticks awards. Here's one Game of the Year award GTA 6 can't win in 2026: the Console Game of the Year at the Golden Joysticks . The awards show has today revealed its lineup of nominees for each accolade it has to offer, and GTA 6 is absent. Why? Because the Golden Joysticks take place eight days before the game is even out. Reviewers will still be playing the game at that point, and nominations for the awards had to be submitted by 28th August anyway. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GDC Side Quest - Exploring co-development opportunities with Sam Carlisle
@@ -207,11 +192,6 @@ Thu, 24 Sep 2026 17:30:00 GMT — https://www.gamedeveloper.com/business/former-
 
 Francis will step into the role starting October 1st following Thomas Andren's recent appoint as general manager for the creative network.
 
-### Irish Game Fund expands with additional funding pathways
-Thu, 24 Sep 2026 11:10:22 GMT — https://www.gamedeveloper.com/business/irish-game-fund-expands-with-additional-funding-pathways
-
-Developers in the region will now be able to take advantage of a Development Fund, Prototype Fund, and Release Fund.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -233,7 +213,15 @@ no date — https://www.gamedeveloper.comnarrascope.org
 ### BitSummit
 no date — https://www.gamedeveloper.combitsummit.org
 
+### Tokyo Game Show (TGS)
+no date — https://www.gamedeveloper.com/events/tokyo-game-show-tgs-
+
 ## VGC
+
+### Microsoft CEO says streamlining of Xbox business is great to see
+Sat, 26 Sep 2026 12:07:20 +0000 — https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/
+
+Executive says he's feeling good about Xbox's remaining studios and IPs… Source
 
 ### Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide
 Fri, 25 Sep 2026 14:34:40 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/
@@ -280,64 +268,84 @@ Thu, 24 Sep 2026 16:11:38 +0000 — https://www.videogameschronicle.com/news/thi
 
 Both games are now free to claim for a week… Source
 
-### Fire Emblem Fortune’s Weave: Reach Secret Altar, Purloined Spellcaster’s Tools quest guide
-Thu, 24 Sep 2026 16:05:42 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-reach-secret-altar-purloined-spellcasters-tools-quest-guide/
-
-How to reach the Secret Altar area in Fire Emblem: Fortune's Weave… Source
-
 ## Polygon
 
-### 11 anime to watch if you like Frieren
-Sat, 26 Sep 2026 08:04:15 GMT — https://www.polygon.com/best-anime-like-frieren-to-watch-stream-cozy-fantasy/
+### Spider-Man Star Tom Holland's Next Film Adds Sabrina Carpenter To Its Cast
+Sat, 26 Sep 2026 14:39:57 GMT — https://www.polygon.com/tom-holland-sabrina-carpenter-fred-astaire-movie/
 
-While Frieren remains singular, a handful of anime come close to capturing its laid-back atmosphere or exploring similar themes. Series like Delicious in Dungeon and The Apothecary Diaries aren’t direct analogues for Frieren , but they share its comforting spirit. Some of the following stories send their protagonists on similarly epic journeys; others linger on the warmth that develops between traveling companions. With those qualities in mind, here are 11 anime worth watching before season 3 of Frieren arrives.
+Following the record-breaking success of Spider-Man: Brand New Day and The Odyssey , Tom Holland is preparing to star in his next film, a biopic about Fred Astaire. Now, we've learned that he will co-star alongside Sabrina Carpenter and Margaret Qualley in that movie.
 
-### Game Changer Fans Want More ‘Rulette,’ but Dropout CEO Sam Reich Isn't Convinced
-Sat, 26 Sep 2026 08:00:14 GMT — https://www.polygon.com/dropout-game-changer-sam-reich-interview-rulette-2026/
+### Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026
+Sat, 26 Sep 2026 14:30:16 GMT — https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/
 
-First played in season 7 with Jeremy Culhane, Anna Garcia, and Oscar Montoya, “Rulette” is ripe for chaos. Players wear velcro suits that get dotted with random rules they receive after spinning a giant, The Price Is Right -style wheel. They’re forced to obey those rules lest they lose points (rules might include being extra polite or not being able to use curse words ).
+2026 has been, in several crucial ways, an HD remake of the late '90s and early 2000s. My old boot-cut jeans are inexplicably back in fashion, live-action Spider-Man and Resident Evil movies are hitting theaters, no one will shut up about Wolverine , and the last nerd convention I went to hosted a direct battle between several competing collectible card games.
 
-### CBS's Legendary 156-Episode Sci-Fi Anthology Series is Officially Free to Watch on Streaming
-Sat, 26 Sep 2026 05:07:15 GMT — https://www.polygon.com/cbs-sci-fi-shows-twilight-zone-free-streaming-september-2026/
+### Control Resonant Violates the Number One Commandment of Video Game Lore
+Sat, 26 Sep 2026 14:00:15 GMT — https://www.polygon.com/control-resonant-lore-logs/
 
-In the realm of science fiction, pretty much all roads lead to, or derive from, The Twilight Zone . And this landmark show is currently free to stream on Tubi.
+So much of Control , Remedy Entertainment’s 2019 paranatural shooter, sticks with me today, but the one thing I really remember is its lore. Its setting, a Brutalist Manhattan office building called The Oldest House, is littered with paperwork covered in black redactions, so much of which explains (or hides) what exactly is happening at the Federal Bureau of Control. It was so memorable that, these days, I can’t see blacked out text without thinking of Control .
 
-### Ridley Scott's Near-Perfect Sci-Fi Masterpiece is Officially Streaming on YouTube for Free
-Sat, 26 Sep 2026 04:58:15 GMT — https://www.polygon.com/ridley-scott-blade-runner-final-cut-free-youtube-september-2026/
+### Wolverine Now Officially Lets Players Turn Off Its Most-Hated Feature
+Sat, 26 Sep 2026 13:32:45 GMT — https://www.polygon.com/wolverine-turn-off-scent-trails/
 
-By the ‘80s, that pessimism curdled into a fully realized vision, and no film played a larger role in that than Scott’s Blade Runner. Its production is also one of the most infamous studio-creator struggles in Hollywood, with five different cuts released over the years. It wasn’t until 2007 that Blade Runner: Final Cut arrived, delivering the movie that Scott had envisioned all along — the fullest version of a film that, even in its mangled theatrical form, reshaped science fiction forever. That version is currently streaming for free on YouTube, and it's worth checking out if you've ever watched another cut of Blade Runner and wondered what else was hiding beneath its cyberpunk surface.
+The update some Marvel's Wolverine players have been waiting for is finally here. The latest patch for the superhero game gives players the option to turn off directional assist features like scent trails, which should hopefully make the game feel a little less linear.
 
-### Apple's Smartest Sci-Fi Series Is No Match For This Canceled Cult Classic With the Same Name
-Sat, 26 Sep 2026 04:00:20 GMT — https://www.polygon.com/dark-matter-2015-canada/
+### Forgotten Island's directors unpack their 'very personal' anime references
+Sat, 26 Sep 2026 13:00:15 GMT — https://www.polygon.com/forgotten-island-anime-references-director-interview/
 
-Recently, a great many people have recommended that I watch Dark Matter , the second season of which premiered in August on Apple TV. The first couple of times it happened, I was confused, as I'd already seen Dark Matter and it had gone off the air almost a decade ago. Did someone get around to reviving it?
+Most of the new adventure movie Forgotten Island is animated in the style that’s become very familiar to fans of Pixar, Disney, and DreamWorks. The characters and settings are three-dimensional, with a lot of attention paid to convincing textures, depth, lighting, and shadows. But at several points throughout the movie, all of that falls away in favor of flat, simple 2D animation that will be familiar to fans of ’90s anime, in particular. Whenever the characters tell stories about past experiences, their versions of events play out on the screen in comedically exaggerated visuals taken directly from Sailor Moon , Dragon Ball , and Street Fighter .
 
-### 10 Free Browser Games That are Actually Fun to Play
-Fri, 25 Sep 2026 23:00:15 GMT — https://www.polygon.com/best-free-browser-games/
+### World of Warcraft Forever's Plan to Bring 'Classic Plus' to New and Old Players
+Sat, 26 Sep 2026 12:15:17 GMT — https://www.polygon.com/world-of-warcraft-forever-interview-blizzcon-2026-blizzard/
 
-If you do your research, though, you’ll find a treasure trove of easily-accessible gems — like a solo dev’s reworked Diablo village where you watch your party auto-battle its way through catacombs, or an idle game where managing catnip supply chains spirals into deep-space civilization management. Deduction mysteries, language-learning puzzles, and dungeon crawlers usually come with a price tag and a download bar. Tragically for your productivity and spare time, these ten do not.
+World of Warcraft Forever is WoW in a time bubble, without the creep of major expansions and changes that have altered the beloved MMO over the past two decades. Forever will have new content — zones, quests, dungeons, and a new playable race — plus quality-of-life improvements that make the game distinct from the original World of Warcraft . But the developers behind the latest version of Blizzard's MMO are thinking very strategically about how to preserve what was great about WoW in its earliest years. They want to keep players curious, surprise them, and let them play World of Warcraft at their own (leisurely) pace.
 
-### Alan Ritchson's 2019 Sports Comedy is Free to Watch on YouTube
-Fri, 25 Sep 2026 22:25:20 GMT — https://www.polygon.com/alan-ritchson-movies-turkey-bowl-free-youtube-watch/
+### Nintendo Should Make More Games About People
+Sat, 26 Sep 2026 12:00:15 GMT — https://www.polygon.com/switchboard-fire-emblem-fortunes-weave/
 
-Sports movies have a pretty impressive track record when it comes to becoming classics. From Rocky and Field of Dreams to Remember the Titans and Moneyball , there are plenty of movies that have managed to stick around in the cultural conversation long after they first hit theaters.
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
 
-### Health upgrade point locations in Control Resonant
-Fri, 25 Sep 2026 22:05:45 GMT — https://www.polygon.com/control-resonant-health-upgrade-point-locations/
+### Overwatch Seasonal Hero Releases 'The Right Thing for the Game,' Blizzard Says
+Sat, 26 Sep 2026 11:16:16 GMT — https://www.polygon.com/overwatch-2027-new-heroes-every-season/
 
-Health upgrade points are special items that are mostly found in large resource crates around the Control Resonant map.
+2026 has been a big year for Overwatch . In addition to a yearlong power-struggle narrative arc running throughout the revitalized hero shooter, Blizzard Entertainment will make good on plans to release a whopping 10 heroes for Overwatch this year. That's a massive difference from the game's previous cadence, which averaged around three heroes per year. And while the 10th anniversary for Overwatch was something of an anomaly, Blizzard says it plans to stick with seasonal hero releases.
 
-### What time does Honkai Star Rail version 4.6 release in your time zone?
-Fri, 25 Sep 2026 22:01:15 GMT — https://www.polygon.com/honkai-star-rail-version-4-6-release-times-maintenance-end/
+### 3 Perfect Calvin and Hobbes Stories From the 1980S That Prove Bill Watterson Is a Genius
+Sat, 26 Sep 2026 11:00:15 GMT — https://www.polygon.com/calvin-hobbes-best-80s-stories/
 
-Honkai: Star Rail version 4.6 is coming soon, introducing Pearl as a playable character and continuing the story's Trailblaze Missions. As usual, this patch will also have new events to play to earn Stellar Jade and other sweet rewards.
+One of the most interesting parts of any long-running newspaper comic is often its first few years. The first entries in any new comic strip are often significantly different from what they’d later become, especially if they're given time in which to evolve. The jokes are rougher, different characters cycle in and out of the spotlight, and the cartoonist hasn’t quite finalized their art style yet.
 
-### Power upgrade point locations in Control Resonant
-Fri, 25 Sep 2026 21:59:06 GMT — https://www.polygon.com/control-resonant-power-upgrade-point-locations/
+### 'Star Wars' Meets 'Firefly' in this 10/10 Sci-Fi Series That's Free on Streaming Right Now
+Sat, 26 Sep 2026 10:13:14 GMT — https://www.polygon.com/farscape-tubi-free-to-watch-sci-fi-series/
 
-Power upgrade points are special items that are mostly found in large resource crates scattered around the Control Resonant map.
+Each generation has a science fiction show that captures its imagination, and has an impact even when it's off the air. Fans of Stargate SG-1 were probably devastated when the planned reboot skidded to a halt . Some people probably still binge-watch Fringe or Battlestar Galactica . Yet there's one sci-fi show that might have flown under the radar, despite featuring a unique story and a compelling cast of characters. Said series is now available to stream on Tubi, and sci-fi fans owe it to themselves to check it out.
 
 ## PC Gamer
+
+### After Warcraft 3's first new campaign in 23 years, let's normalize releasing new DLC for ancient RTS games
+Sat, 26 Sep 2026 14:17:56 +0000 — https://www.pcgamer.com/games/rts/after-warcraft-3s-first-new-campaign-in-23-years-lets-normalize-releasing-new-dlc-for-ancient-rts-games/
+
+The recent trend of announcing new expansions for older games—most notably Songs of the Past for The Witcher 3 —makes total sense when you look at the long tail on some of yesterday's classics. Beloved games now have a tendency to stick around for so long that new blockbusters are fighting for their lives against perennial Steam favourites that look like they could've been released yesterday. The likes of Cyberpunk 2077 and Baldur's Gate 3 aren't going anywhere, for example, and both would be great candidates for all-new DLC in 10 or so years because people will probably still be talking about them. Quake is a much older game, but its recently added episode is part of the same trend. So too is the newly-revealed Thief campaign in Nightdive's upcoming remaster. Exciting as these expansions are, it's more thrilling to me when a real-time strategy game gets the same treatment. Is this because I love real-time strategy games? Yes. But it's also because the genre has a slightly different relationship with nostalgia. The Warcraft 3 Reforged: Forsaken Kingdom expansion was by far the most exciting announcement to me at BlizzCon 2026. This is partly because I don't play WoW, and partly because the announcement of a 2030 StarCraft open world game might as well be a note that says 'IOU one bag of magic beans, dated 2030'. But it's also because I feel spiritually seen on some level when developers make new content for an RTS game from the early '00s. It's such an unexpected treat. More 
+
+### Microsoft CEO says Xbox's 'streamlining' process is 'great to see' following its most recent round of layoffs
+Sat, 26 Sep 2026 13:21:21 +0000 — https://www.pcgamer.com/gaming-industry/microsoft-ceo-says-xboxs-streamlining-process-is-great-to-see-following-its-most-recent-round-of-layoffs/
+
+Earlier this week, Xbox laid off 268 people on top of the 1,600 jobs it cut earlier this year. It has shoved Obsidian into Bethesda, handed Halo to Activision, said Sayonara to Double Fine and Compulsion Games, and State of Decay developer Undead Labs, and is primed to close Hellblade developer Ninja Theory. All of this is part of Xbox's "reset", under its new(ish) CEO Asha Sharma. Sharma has been the public face of the company's deeply controversial restructuring, defending it with statements like "great technology gets better when it gets simpler, not bigger" which, incidentally, is why aeroplanes always perform better when you rip one of the wings off. But both Sharma and Xbox are ultimately part of a much larger organisation. So what does Microsoft's head honcho Satya Nadella think of all these cuts, closures, and cancellations? Well, he thinks that Xbox's "streamlining" is "great to see". Speaking on the Sources Podcast with Alex Heath (via Kotaku ), Nadella briefly touched upon the subject of the Xbox layoffs as part of a much wider-ranging interview, starting by gassing up all the intellectual property that Xbox has under its belt. "I feel fantastic about the IP we have right now," Nadella stated. "If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic." As for the radical studio reorgs and the cuts which have left thousands of people jobless, Nadella described the process as if Xbox
+
+### Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details
+Sat, 26 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/
+
+I picked up sewing as a hobby in college and, in my youthful cockiness, skipped the pillowcase-and-curtain phase. Instead, I dove right into extravagant cosplay and Renaissance dresses, and most of my first attempts were not fit for the human body. I'm sure some of that hubris came from watching my grandmother make sewing look so easy when, in reality, it requires patience, precision, and a blood sacrifice. But that's what leads me to Dressmaker—a cute and cozy hardcore seamstress sim that respects the technical skill the craft demands while making it accessible to the inexperienced. It's genuinely a good place to start if you're mildly interested in the craft but have never even picked up a needle. You'll learn some seamstress lingo, make tons of cute dresses, and spend significantly less money than I did ruining countless bolts of expensive fabric. I've played a little over six hours, and I've already got a growing list of finely stitched details I adore. Multi-step measurement system Bothering to add just one measurement mechanic was impressive enough, but Dressmaker goes further than simply measuring a client's chest, waist, and hips. You'll also have to adjust the dress form itself so the fabric hangs properly once it's pinned. Pattern placement matters I ignored instructions about cutting along the bias and fabric grain when I first picked up sewing, and some of my stiff garments made that obvious. Dressmaker doesn't let you commit the same design sins. There's no throw
+
+### It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'
+Sat, 26 Sep 2026 12:00:01 +0000 — https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/
+
+One of the most striking early sequences in Cyberpunk 2077: Phantom Liberty is its Chimera Tank boss fight, in which V and President Myers battle an enormous, Ghost in the Shell-inspired spider-tank in the bowels of a Barghest facility. The battle forms the explosive culmination of Phantom Liberty's opening act, and CD Projekt recently revealed just what it took to get the sequence where they wanted it. Speaking on CD Projekt's official AnsweRED podcast (via Eurogamer ), Phantom Liberty's game director Gabe Amatangelo, and creative director Igor Sarzyński discussed various production challenges the studio faced during Cyberpunk 2077 's creation, bringing up the Chimera Tank as an example. "Sometimes we're making content that's a nexus point of different disciplines, the Chimera is a great example of that," Amatangelo said. "It was gameplay, narrative, art, worldbuilding." Amatangelo explained that CD Projekt wanted the Chimera Tank to "terrify" players with its weapons, and that there were "so many moving parts" to balance appropriately for the sequence to work. "Sometimes it was too gameplay [focussed], sometimes it was too narrative, sometimes too art direction. It was about striking a balance and I think the three of us got into it and went: 'Okay, beat-by-beat, let's do this.'" According to Paweł Mielniczuk, Phantom Liberty's art director and the podcast's co-host, creating the boss fight was a years-long process. "I think when we were iterating, it was two years to make 
+
+### Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'
+Sat, 26 Sep 2026 10:43:02 +0000 — https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/
+
+I wasn't expecting to see a Starfield sequel any time soon, given it took Bethesda eight years to make its sci-fi RPG and the studio is currently focussed on The Elder Scrolls 6 . But if the words of Starfield's former systems designer are anything to go by, we may not see a sequel to Bethesda's first new IP in 25 years at all. In an interview with FRVR (via VGC ), Bethesda veteran Kurt Kuhlmann explained why he doubts the studio will ever return to Starfield: "I would be very surprised", said Kuhlmann, who left Bethesda after Starfield was released. "I don't think Starfield was anywhere near successful enough to do a Starfield 2." While specific sales figures for Starfield haven't been released, Bethesda's sci-fi RPG is estimated to have generated $300 million in revenue as of April this year. This would make Starfield profitable based on its reported budget of $200 million , but it still has a long way to go before it reaches Skyrim levels of success . Since Xbox has reportedly expressed a desire to focus on its major franchises , it seems likely that Bethesda will prioritise The Elder Scrolls and Fallout over Starfield. Nonetheless, Kuhlmann thinks this may represent a missed opportunity for Bethesda to build on the lessons learned creating Starfield and create something truly special: "It's in a way, too bad, because I think with the lessons learned on Starfield, a Starfield 2 could have been much closer to the game that Todd had [in mind]." One issue Kuhlmann thinks a se
 
 ### Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend
 Sat, 26 Sep 2026 02:08:31 +0000 — https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/
@@ -373,31 +381,6 @@ Tom's Hardware and Respawn First recently reported on a fun new patent from thos
 Fri, 25 Sep 2026 22:08:12 +0000 — https://www.pcgamer.com/games/moba/the-eyes-of-valves-creepy-portrait-are-glowing-again/
 
 The portrait of the man with red gloves is glowing again , which can only mean one thing for Deadlock players: Valve is about to drop a major new update very soon. Real soon, in fact. The last time the portrait in the main hub started glowing was before the Old Gods, New Blood update , which introduced six new heroes, a new mode, and a bunch of other things that elevated the game from Valve's pet project to a real videogame that might actually see the light of day. One of the developers at Valve confirmed it on Discord, too, but when we're talking about the community of players who desperately track pizza orders for signs of new updates, they'll take any extra confirmation they can get. "Heads up we are planning on releasing the major content update early next week," the mysterious developer-ran Discord account Yoshi wrote after weeks of speculation from the community. In typical Valve fashion, however, it hasn't said a word about what will actually be in the new update, just that it will be big. Deadlock recently overhauled its ranked mode and kicked off its first ranked season. Since then, it's just been small balance updates. (Image credit: Tyler C. / Valve) Valve hitting the glowing eyes button sure makes it seem like there could be a new batch of heroes and revisions to the dwindling number of obviously-unfinished bits in the game. Dataminers have dug up new models for Deadlock's version of MOBA towers, which could be part of a broader visual update for the few things th
-
-### 'I sit in terror looking at the 750,000 wishlists': A nervous dev brings a classic Flash game to Steam
-Fri, 25 Sep 2026 21:13:49 +0000 — https://www.pcgamer.com/games/i-sit-in-terror-looking-at-the-750-000-wishlists-a-nervous-dev-brings-a-classic-flash-game-to-steam/
-
-It's just as fun as you remember and it only costs $5 on Steam . Hopefully all those folks who wishlisted it will dive back in for some gruesome nostalgia, and maybe some younger gamers will find it for the first time. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### This 78-year-old grandmother has an insatiable lust for violence (in Fortnite)
-Fri, 25 Sep 2026 20:02:57 +0000 — https://www.pcgamer.com/games/battle-royale/this-78-year-old-grandmother-has-an-insatiable-lust-for-violence-in-fortnite/
-
-Scottish grandmother Cath Bowie's hunger for bloodshed is celebrated by thousands. Recently named the world's oldest female Fortnite steamer by Guinness World Records, Bowie began playing the battle royale behemoth under the nom de guerre grumpygran1948 in 2017. Now streaming for an audience of over 24,000 followers, she was introduced to the game by her grandson, who—unwisely—doubted his grandmother's prospects as a conqueror. "As a young guy he just couldn't believe that his grandma would do such a thing and suggested that nobody would join me or watch me," Bowie told Guinness World Records . "Saying that was like a red rag to a bull to me. I would show him that I could do it. 24,000+ followers later and he doesn't mention it. I wonder why?" Given Bowie's self-professed singleminded pursuit of glorious slaughter, I can't blame her grandson for his reticence. Bowie says that during her daily Fortnite sessions, she's not playing for Victory Royales. Instead, she has a simpler, purer aim: "The one thing I do like, you see—this is me and my challenging nature—is to go in and eliminate folk," Bowie said in a video interview with the BBC . According to Bowie, her delight over the thunder of gunfire and the lamenting choir of her countless shattered foemen has never waned, even after nine years. "The most important thing of all is that in all these years I have continued to enjoy every day, every week, every month and every year that I have played and streamed," she said. "I’m inc
-
-### World of Warcraft: Forever dev has 'no sympathy' for players kicked from the beta for offensive names: 'If you're genuinely confused, remember that it's our database, we can see every character you've created'
-Fri, 25 Sep 2026 19:55:45 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-has-no-sympathy-for-players-kicked-from-the-beta-for-offensive-names-if-youre-genuinely-confused-remember-that-its-our-database-we-can-see-every-character-youve-created/
-
-One of the developers running the World of Warcraft: Forever beta has no patience for the people who think they can get away with naming their characters something inappropriate. I was surprised at how many awful player names I've seen while playing the beta over the last week. WoW usually has a pretty strict filter that covers a lot of racist or disgusting names and all their permutations. But in the beta, I saw more than usual that felt like they should've been blocked at the character creation screen. It turns out, this was a mistake on Blizzard's part, according to senior game producer Tom Ellis on X : "Our naming filter wasn’t ready to rock for dual names but we naively thought after twenty years folks knew what was and wasn’t OK and we’d be fine for a few weeks of beta till it came online." Things were not fine from day one of the beta, which required Blizzard to manually run every name through their filter system and then double check them just in case, Ellis said. A wave of bans went out alongside the beta's first major patch yesterday to revoke access for the worst names and force the iffy ones to be changed. This prompted some of those players to go on social media and Reddit to complain that they were wrongfully punished. "A couple of us spent the evening reading through everything again and checked every Reddit post and Twitter and so far every one of them who's posted their three cheeky or just inappropriate names has had a 4th character they have accidentally om
-
-### What insiders say Halo Studios was up to before losing Halo: 'The next Halo game was years away'
-Fri, 25 Sep 2026 19:33:54 +0000 — https://www.pcgamer.com/games/halo/what-insiders-say-halo-studios-was-up-to-before-losing-halo-the-next-halo-game-was-years-away/
-
-In the wake of Microsoft gutting Halo Studios to a skeleton crew and passing off the series to Activision, new reports from insiders tell a believable story about what was happening in Halo Studios as the plug got pulled. The accounts come from The Verge's Tom Warren (longtime Microsoft beat writer) and YouTuber Rebs Gaming (whose sources within the Halo machine are often accurate). According to sources The drastic cuts were a surprise to some Halo Studios employees, who had to wait hours to learn if they still had a job: "The first communication came in a public Xbox blog, before notifications were sent to employees throughout the morning." (via Warren) The next mainline Halo game was, at minimum, "years" away (via Warren and Rebs) No games were in full production when the layoffs happened, but work on Halo 2 and Halo 3 remakes, Halo 7, and "spinoff campaigns" was underway (via Rebs) One of the shorter spinoff games would've been based on the First Strike novel, to be released between remakes (via Rebs) Rebs' source also claimed that Halo Studios is now around 30 people, with Warren noting that they'll be servicing existing Halo games Infinite and Campaign Evolved. Meanwhile, Activision is building a new studio dedicated to the future of Halo. Acknowledging that there's always more to a story than a handful of sources can cover, the picture they paint sounds very Halo Studios: slow-moving, scattered, and with one foot firmly in Halo's past. We all assumed that more remakes w
-
-### I feel like I'm running a corner store in Dredd or Cyberpunk 2077
-Fri, 25 Sep 2026 18:51:15 +0000 — https://www.pcgamer.com/games/sim/i-feel-like-im-running-a-corner-store-in-dredd-or-cyberpunk-2077/
-
-Papers, Please : Your decisions as a shopkeeper have an effect. If you spot someone on the wanted list coming in to your store, you can report them to security for a reward—but keep in mind they may be members of the resistance fighting against the cruel dystopia. Dredd : With customers coming in from the poverty-stricken lower levels and the wealthier upper levels, it feels like I'm working a shop in one of those massive towers from the Dredd movie, even though in the game's fiction I'm actually working in a cyberpunk space-station. Strange Horticulture : My favorite shopkeeping sim is a fascinating detective game in disguise , and there's a hint of it in Probably Stolen. You can use a magnifying glass to examine items to see if they're counterfeit and as an appraisal tool to judge their value, a bit like how you search for clues to ID plants in Strange Horticulture. Fun! Fallout : You can farm rats for their meat, set up water purification systems, scavenge through trash heaps to find scrap to turn into sellable goods... I know I'm on a space station, but it feels a little like I'm trying to earn a buck in the wasteland. Recettear: An Item Shop's Tale : You're not just selling, you're buying, and you can haggle over prices, sometimes at the expense of your reputation. Demand in the station can change: if a mining expedition docks, for example, you can expect the prices of metals to plunge as supply explodes. You'll have to be nimble and keep your eye on what's valuable from
 
 ## GameSpot
 
