@@ -1,9 +1,0 @@
-{
-  "slug": "mari-8-hex-tile-node",
-  "urls": [
-    "https://raw.githubusercontent.com/mmikk/mmikk.github.io/master/pictures/hex_demo/splash.png",
-    "https://raw.githubusercontent.com/mmikk/mmikk.github.io/master/pictures/hex_demo/colorhextiling.png"
-  ],
-  "credit": "Morten S. Mikkelsen, from the MIT-licensed hex-tiling reference demo",
-  "comparison": false
-}

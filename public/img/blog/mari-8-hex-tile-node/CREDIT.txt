@@ -1,0 +1,4 @@
+Morten S. Mikkelsen, from the MIT-licensed hex-tiling reference demo
+
+- /img/blog/mari-8-hex-tile-node/shot-01.jpg
+- /img/blog/mari-8-hex-tile-node/shot-02.jpg

@@ -35,6 +35,11 @@ Foundry has put one in Mari.
 
 ## What landed
 
+<figure>
+  <img src="/img/blog/mari-8-hex-tile-node/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Morten S. Mikkelsen, from the MIT-licensed hex-tiling reference demo</figcaption>
+</figure>
+
 Mari 8.0 has been in open beta since July. The update CG Channel wrote up on
 24 September is Beta 2, and it brings a Hex Tile node, a Tri-Planar Tiled node,
 and a Compare node for A/B wipes between two branches of the graph. The whole
