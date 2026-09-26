@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-25T09:47:32.894Z
+# Manga — harvested 2026-09-26T09:31:47.015Z
 
 ## Anime News Network
 
-### Chizuna Nakajima's Where is the Elf Teacher's Toilet? Manga Gets TV Anime
-Fri, 25 Sep 2026 02:28:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/chizuna-nakajima-where-is-the-elf-teacher-toilet-manga-gets-tv-anime/.242170
+### Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19
+Sat, 26 Sep 2026 01:37:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205
 
-"Toilet fantasy comedy" manga from <cite>Angel Drop</cite> manga creator launched in January 2024
+Short will screen alongside new HD remastered "movie edition" of <cite>Future GPX Cyber Formula: Early Days Renewal</cite> compilation OVA
 
-### The Fake Alchemist Anime's Teaser Unveils Cast, Staff
-Thu, 24 Sep 2026 23:46:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/the-fake-alchemist-anime-teaser-unveils-cast-staff/.242165
+### Starbucks Japan Introduces 1st Pokémon Collaboration
+Fri, 25 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-25/starbucks-japan-introduces-1st-pokemon-collaboration/.242180
 
-Yōhei Matsuoka, Miyari Nemoto stars as Paracelsus, Nora
+Your favorite Pokémon now come in coffee form
 
-### Red River Anime Posts New Video for 2nd Part
-Thu, 24 Sep 2026 23:37:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/red-river-anime-posts-new-video-for-2nd-part/.242163
+### North American Anime, Manga Releases, September 20-26
+Fri, 25 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/north-american-anime-manga-releases-september-20-26/.242064
 
-Video previews new opening song "Akatsuki no Hoshi" by Nana Mizuki
+<cite>ChaO</cite> anime; <cite>Cells at Work! Cat, Mage of Leda, Servant Beasts</cite> manga ship
 
-### Konami Offers Official Metal Gear Solid Boxes (for Your Cat)
-Thu, 24 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/konami-offers-official-metal-gear-solid-boxes/.242140
+### Ace Combat 8: Wings of Theve Game Streams Opening Cinematic
+Fri, 25 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/ace-combat-8-wings-of-theve-game-streams-opening-cinematic/.242182
 
-Now your cat can become the ultimate spy & special operations soldier
+Game launches on October 2 with Deluxe Edition debuting early on September 29
 
-### Stop President 'Dramp's' Ambitions in New Mahjong Game for Switch
-Thu, 24 Sep 2026 22:38:16 -0400 — https://www.animenewsnetwork.com/interest/2026-09-24/stop-president-dramp-ambitions-in-new-mahjong-game-for-switch/.241975
+### New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere
+Fri, 25 Sep 2026 15:35:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201
 
-Latest from mahjong manga/game artist Masayuki Katayama also features Elon Musg
+Kazuya Nomura directs new anime for <cite>Code Geass'</cite> 20th anniversary
 
-### Chiikawa Anime to Temporarily Halt New Episodes
-Thu, 24 Sep 2026 22:03:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/chiikawa-anime-to-temporarily-halt-new-episodes/.242160
+### Your Anime Rankings - Best of Summer 2026, Sep 16-22
+Fri, 25 Sep 2026 15:20:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.242195
 
-25 past episodes to rerun until December 25, with focus on early episodes, episodes tied to recent film
+Rebounding from a mid-season drop, <cite>Mushoku Tensei</cite> and <cite>Kaiju Girl Caramelise</cite> are back as strong as they started! Find out how your favorite shows performed in our weekly user rankings.
 
-### Fatal Fury City of the Wolves Game's New Animated Trailer by Masami Ōbari Highlights Kim Kaphwan
-Thu, 24 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/fatal-fury-city-of-the-wolves-game-new-animated-trailer-by-masami-obari-highlights-kim-kaphwan/.242154
+### Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles
+Fri, 25 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183
 
-Kim joins game on Thursday
+Sweet Shop adds <cite>Pandora, Dream Another Dream, Mothers, Red Riding Hood's Wolf Apprentice</cite>, more manga
 
-### Disney+, Hulu Raise Monthly Pricing on Streaming Plans in U.S. Again
-Thu, 24 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/disney-hulu-raise-monthly-pricing-on-streaming-plans-in-u.s-again/.242153
+### The Fall 2026 Anime Trailer Watch Party Premieres Tonight!
+Fri, 25 Sep 2026 14:45:35 -0400 — https://www.animenewsnetwork.com/watch/2026-09-25/the-fall-2026-anime-trailer-party-premieres-tonight/.242200
 
-Standalone subscription prices rise to US$12.49 with ads, US$21.49 without ads following last year's increase
+The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.
 
-### Crunchyroll Screens Dive in Wonderland Film on November 16 in U.S. as Part of Anime Nights Program
-Thu, 24 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/crunchyroll-screens-dive-in-wonderland-film-on-november-16-in-u.s-as-part-of-anime-nights-program/.242152
+### Hell Mode Anime Gets 3rd Season for 'S-Rank Dungeon Conquest Arc'
+Fri, 25 Sep 2026 14:21:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/hell-mode-anime-gets-3rd-season-for-s-rank-dungeon-conquest-arc/.242198
 
-English-subbed trailer streamed for anime inspired by <cite>Alice in Wonderland</cite>
+Anime's 2nd season ended on Friday
 
-### Global Stage Hollywood Screens World Premiere of Psyren TV Anime's 2nd Episode on October 3 With Original Creator Toshiaki Iwashiro
-Thu, 24 Sep 2026 13:45:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/global-stage-hollywood-screens-world-premiere-of-psyren-tv-anime-2nd-episode-on-october-3-with-/.242150
+### Dentsu Enters Partnership with Kodansha
+Fri, 25 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/dentsu-enters-partnership-with-kodansha/.242186
 
-1st 2 episodes to screen at Global Stage Hollywood Film Fest with Iwashiro in attendance
+Partnership makes Dentsu central point of contact for brand marketers looking to work with IPs
 
-### Marvelous Announces Story of Seasons: Your Wonderful Life Virtual Reality Farming Game
-Thu, 24 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-24/marvelous-announces-story-of-seasons-your-wonderful-life-virtual-reality-farming-game/.242148
+### Yen Press Licenses Kafka's Journey, Lilies in Love for 101 Days, Lord Hades's Vernal Honeymoon, More Manga/Novels
+Fri, 25 Sep 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/yen-press-licenses-kafka-journey-lilies-in-love-for-101-days-lord-hades-vernal-honeymoon-more-manga-/.242194
 
-Farming sim launches for Meta VR Glasses, Meta Quest 3, and Meta Quest 3s in spring 2027
+Also: <cite>Oh Boy, Was I Wrong About Her</cite>; <cite>The Returned Tyrant Princess Rewrites Her Dark Past</cite>; more
 
-### Billy Bat Volume 2 Manga Review
-Thu, 24 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/billy-bat/volume-2/.241574
+### Historié Volumes 1-2 Digital Manga Review
+Fri, 25 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/historie/volumes-1-2/.241465
 
-What does the bat want? Why does he want it?
+Iwaaki moves from Parasyte to historical fiction, drawing Eumenes' path to greatness.
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Fake Alchemist Reveals First PV and Key Production Details
+Sat, 26 Sep 2026 00:40:08 GMT — https://animecorner.me/the-fake-alchemist-reveals-first-pv-and-key-production-details/
+
+The production committee for The Fake Alchemist (Nisemono no Renkinjutsushi)has released a promotional video&hellip;
+
+### Summer 2026 Anime Rankings – Week 12
+Fri, 25 Sep 2026 14:00:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-12/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 ends the Summer 2026 weekly rankings with its third consecutive win, narrowly beating Re:ZERO Season 4 by just 0.17 percentage points.
+
+### The Apothecary Diaries Season 3 New Trailer Previews Ending Song by Eve
+Fri, 25 Sep 2026 11:06:53 GMT — https://animecorner.me/the-apothecary-diaries-season-3-new-trailer-previews-ending-song-by-eve/
+
+The Apothecary Diaries Season 3 revealed a new trailer and ending theme song by Eve ahead of its October 2, 2026 premiere.
 
 ### Fall 2026 Most Anticipated Anime Rankings
 Thu, 24 Sep 2026 15:30:00 GMT — https://animecorner.me/fall-2026-most-anticipated-anime-rankings/
@@ -108,27 +123,27 @@ Thu, 24 Sep 2026 10:06:13 GMT — https://animecorner.me/rudy-takes-action-in-mu
 
 Mushoku Tensei Season 3 revealed the Episode 14 preview images and synopsis ahead of its September 27 premiere.
 
-### Phantom Busters Anime Adaptation Announced for 2027
-Thu, 24 Sep 2026 09:04:29 GMT — https://animecorner.me/phantom-busters-anime-adaptation-announced-for-2027/
-
-Neoshoco's Phantom Busters manga is officially getting a TV anime adaptation in 2027, as announced on September 24.
-
-### The Exiled Heavy Knight Knows How to Game the System Part 2 Reveals Main Trailer, Visual, Theme Songs and New Cast
-Wed, 23 Sep 2026 23:19:44 GMT — https://animecorner.me/the-exiled-heavy-knight-knows-how-to-game-the-system-part-2-reveals-main-trailer-visual-theme-songs-and-new-cast/
-
-The Exiled Heavy Knight Knows How to Game the System revealed a new visual and main trailer for Part 2, which will continue in Fall 2026.
-
-### Ave Mujica Covers Lady Gaga Song "Abracadabra"
-Wed, 23 Sep 2026 15:33:38 GMT — https://animecorner.me/ave-mujica-covers-lady-gaga-song-abracadabra/
-
-Ave Mujica released a cover of the song "Abracadabra" by Lady Gaga on Thursday.&hellip;
-
-### From Old Country Bumpkin to Master Swordsman Season 3 Announced
-Wed, 23 Sep 2026 15:16:02 GMT — https://animecorner.me/from-old-country-bumpkin-to-master-swordsman-season-3-announced/
-
-From Old Country Bumpkin to Master Swordsman Season 3 anime was officially announced immediately after the second season.
-
 ## MyAnimeList News
+
+### Tensei shitara Slime Datta Ken 4th Season Part 2 Announced for Summer 2027, Clayman Revenge Spin-off Gets TV Anime for Spring 2027
+Fri, 25 Sep 2026 12:11:03 -0700 — https://myanimelist.net/news/74759618?_location=rss
+
+The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere in July 2027. The official website simultaneously announced a television anime adaptation of Wataru Kajika s spin-off manga Tensei shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman s Revenge), revealing the main staff, teaser visual (pictured right)...
+
+### Hell Mode Third Season in Production
+Fri, 25 Sep 2026 10:22:55 -0700 — https://myanimelist.net/news/74759332?_location=rss
+
+The 13th and final episode of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season (Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2) ended with an announcement on Friday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Yokohama Animation Lab, the first season aired in 12 episodes in Winter 2026. The second season premiered on July 4. Sentai Filmworks licens...
+
+### Kore Kaite Shine Gets Second Season
+Fri, 25 Sep 2026 09:47:16 -0700 — https://myanimelist.net/news/74759213?_location=rss
+
+The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda s comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...
+
+### Yozakura-san Chi no Daisakusen 2nd Season Part 2 Announces Additional Cast, Character Promo
+Fri, 25 Sep 2026 03:08:52 -0700 — https://myanimelist.net/news/74757874?_location=rss
+
+The official website of the Yozakura-san Chi no Daisakusen (Mission: Yozakura Family) television anime announced additional cast members for its second part of second season on Friday. The second part is scheduled to premiere on October 11 at 5.00 p.m. on MBS/TBS Network, followed by BS Nippon Television and AT-X on October 21. Cast Alexandre: Houchuu Ootsuka (Sakamoto Days) Shura: Miku Itou (Nekopara) Cyber Demon King "G": Yumiri Hanamori (Gachiakuta) Dr. Mozu: Sumire Uesaka (Overlord...
 
 ### Manga Elf-sensei no Toilet wa Doko desu ka? Receives TV Anime Adaptation
 Thu, 24 Sep 2026 21:44:47 -0700 — https://myanimelist.net/news/74757191?_location=rss
@@ -165,36 +180,21 @@ Thu, 24 Sep 2026 02:58:12 -0700 — https://myanimelist.net/news/74754150?_locat
 
 The main promotional video for the Japan and France co-produced original television anime Aoki Denshou Welsh &amp; Shedar revealed additional cast and theme songs on Thursday. The anime is scheduled to premiere on October 2 at 9:25 p.m. on Tokyo MX. Cast Zabel: Yuuko Kaida (Gintama) Joris: Makoto Furukawa (Tensei shitara Slime Datta Ken) Bechamel: Risa Kageyama (Black Clover) Karkass Khan: Wataru Takagi (Kishibe Rohan wa Ugokanai) Azalar: Show Hayami (Bleach) Japanese musical artist Hironobu Kag...
 
-### Phantom Busters TV Anime Announced For 2027
-Thu, 24 Sep 2026 02:22:35 -0700 — https://myanimelist.net/news/74754110?_location=rss
-
-Production company TOHO animation opened an official website for a television anime adaptation of Shoco s Phantom Busters manga on Thursday, revealing a commemorative illustration by the original creator (pictured right). Shoco originally published the manga as a one-shot in Jump SQ.Rise magazine in October 2022 before beginning regular serialization in Jump SQ. in August 2023. Shueisha published the seventh volume on February 9, with the eighth volume scheduled to be released on October 2....
-
-### Hyouken no Majutsushi ga Sekai wo Suberu II Announces Additional Cast Pair
-Thu, 24 Sep 2026 02:20:26 -0700 — https://myanimelist.net/news/74754105?_location=rss
-
-The official website for the television anime adaptation of Nana Mikoshiba s Hyouken no Majutsushi ga Sekai wo Suberu (The Iceblade Sorcerer Shall Rule the World) light novel announced an additional pair of cast for its second season on Thursday. The new season is scheduled to premiere on TBS on October 9 at 1.28 a.m., followed by BS11 at 11.00 p.m. on the same day. Voice actors Kazuyuki Okitsu (Hidarikiki no Eren) and Shiki Aoki (Helck) are joining the second season as Marius Bassett and M...
-
-### Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru Unveils Additional Cast, Theme Songs, Main Promo for Second Cour
-Wed, 23 Sep 2026 16:46:28 -0700 — https://myanimelist.net/news/74753120?_location=rss
-
-The official website for the television anime adaptation of Necoco and Lee Brocco s Tsuihou sareta Tensei Juukishi wa Game Chishiki de Musou suru (The Exiled Reincarnated Heavy Knight is Unrivaled in Game Knowledge) manga unveiled additional cast, a key visual (pictured), the theme songs, and main promotional video for second cour on Thursday. The second half began with the 13th episode on October 2 at 12:26 p.m. on MBS and TBS Super Animeism Turbo block, followed by BS Nippon Televis...
-
-### Light Novel Mamahaha no Tsurego ga Motokano datta Ends with 14th Volume
-Wed, 23 Sep 2026 09:18:06 -0700 — https://myanimelist.net/news/74751890?_location=rss
-
-The official X account for Kyousuke Kamishiro and TakayaKi s Mamahaha no Tsurego ga Motokano datta (My Stepmom s Daughter Is My Ex) series announced on Wednesday that the light novel series will end with its 14th volume. The final volume is scheduled to release on December 1. Kamishiro began penning the romantic comedy novel, also known by its short title TsureKano, on the Kakuyomu website in August 2017. Kadokawa began printing the series through its Sneaker Bunko imprint in December...
-
-### Katainaka no Ossan, Kensei ni Naru Gets Third Season
-Wed, 23 Sep 2026 08:49:18 -0700 — https://myanimelist.net/news/74751799?_location=rss
-
-The 12th and final episode of Katainaka no Ossan, Kensei ni Naru II (From Old Country Bumpkin to Master Swordsman Season 2) ended with an announcement on Thursday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Passione and Hayabusa Film, the first season aired in 12 episodes in Spring 2025. The second season premiered on July 8. Amazon Prime streamed the anime worldwide with subtitles. The anime series adapts Shigeru Sagaza...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### The Princess Groom Volume 1 Review
+Sat, 26 Sep 2026 09:00:40 +0000 — https://animeuknews.net/2026/09/the-princess-groom-volume-1-review/
+
+Square Enix Manga brings us a new fantasy romance, but with a twist! A prince who dreams of being doted on and a boisterous noble lady who wants to shower her husband-to-be with affection.
+
+### Crunchyroll Announces Home Entertainment Release Schedule October-November 2026
+Fri, 25 Sep 2026 14:05:17 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-home-entertainment-release-schedule-october-november-2026/
+
+Crunchyroll announces Suzume in 4K, Clevatess Season 1, Sailor Moon (Steelbook) and more released on Blu-ray™ between October and November for the UK.
 
 ### Hand-in-Hand with Mu-chan: Lessons from My Autistic Daughter Volume 1 Review
 Fri, 25 Sep 2026 09:00:20 +0000 — https://animeuknews.net/2026/09/hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-volume-1-review/

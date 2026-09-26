@@ -38,7 +38,7 @@ const cards = posts.map((entry) => ({
 const url = new URL('/blog/reviews/', Astro.site).href;
 const title = `Reviews — every score on Backdrop`;
 const description =
-  'Every scored review on Backdrop, each one an average of the published verdicts converted to a 1–10 scale, with the outlets and the spread shown on the article.';
+  'Every scored review on Backdrop: my own verdict on the games I played, and an average of the published verdicts on the rest, with the outlets shown on the article.';
 
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -97,10 +97,11 @@ const fmt = (d: Date) => d.toLocaleDateString('en-GB', { day: 'numeric', month: 
           </h1>
 
           <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-5 text-[0.98rem]">
-            Every score here is an average of the verdicts published elsewhere, converted to a
-            1–10 scale and rounded to the nearest half point. Each article lists the outlets it
-            counted and the range they spanned, because a game that splits critics is telling you
-            something a midpoint hides.
+            Two kinds of score live here. Where I played the game myself, the number is my own
+            verdict and nobody else's. Everywhere else it is an average of the verdicts published
+            elsewhere, converted to a 1–10 scale and rounded to the nearest half point, and the
+            article lists the outlets it counted and the range they spanned, because a game that
+            splits critics is telling you something a midpoint hides.
           </p>
         </header>
 

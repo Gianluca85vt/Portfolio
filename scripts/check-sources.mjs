@@ -51,6 +51,11 @@ export function outletsIn(text) {
 }
 
 export function report(file, text) {
+  // A hands-on review is Gianluca's own account of a game he played. It
+  // carries no outlets on purpose - quoting other critics there is exactly
+  // what the rule for those reviews forbids - so there is nothing to count.
+  if (/^handsOn:\s*true\s*$/m.test(text)) return `OK   ${file}  ·  hands-on review, first-hand`;
+
   const outlets = outletsIn(text);
   const draft = /^draft:\s*true/m.test(text);
   const head = `${file}  ·  ${outlets.length} outlet${outlets.length === 1 ? '' : 's'}${

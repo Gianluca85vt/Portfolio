@@ -207,7 +207,8 @@ Two links to the same publication count once. That is the whole point: one wire
 story read twice is how a single source gets mistaken for corroboration.
 
 A review satisfies the rule through its `scoreSources`, which names every
-outlet it took a score from.
+outlet it took a score from. A hands-on review (see below) is his own first-hand
+account and needs no outlets at all; `check-sources.mjs` lets it through.
 
 `scripts/check-sources.mjs` counts them, and it runs on every draft alongside
 the prose check, before the review email goes out — so a thin piece is flagged
@@ -230,6 +231,30 @@ carried by two of our outlets. That is a limit of the harvest, not of the
 world - the same story is usually on four sites we do not fetch. If pieces
 start stalling for want of corroboration, the fix is more feeds, not a lower
 bar.
+
+---
+
+## Hands-on reviews
+
+Settled by Gianluca on 26 September 2026. **When he has played the game
+himself, the review is his and nobody else's.** Two review formats exist, and
+they never mix:
+
+- **Round-up** (he has not played it): the score is the mean of the published
+  verdicts, `scoreSources` lists them, and the body reads the critics against
+  each other. This is the default for anything the writer produces alone.
+- **Hands-on** (he played it, usually from a key): `handsOn: true`, the score
+  is his own verdict, and there is **no** `scoreSources`. No other outlet is
+  quoted, cited, averaged or used as a reference anywhere in the piece — not
+  in the score, not in the conclusion, not as support for a point in the body.
+  The score box then reads "My score" instead of an average.
+
+A hands-on review is written only from his own notes on the session: what he
+played it on, what he liked, what broke, his score. Never add an experience he
+did not describe, and never fill the gaps with what critics said. The key is
+disclosed in the body ("from a code <publisher> sent me"). In the artist's
+view box of a hands-on review, his own session counts as evidence; the
+"from his desk" limit below applies to round-ups.
 
 ---
 
