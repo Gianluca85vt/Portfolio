@@ -7,9 +7,15 @@ export interface Props {
   category: string;
   reviewOf?: string;
   sources?: { outlet: string; score: number }[];
+  /**
+   * A review Gianluca played himself: the number is his verdict alone, so the
+   * box says so and never lists another outlet.
+   */
+  handsOn?: boolean;
 }
 
-const { score, category, reviewOf, sources = [] } = Astro.props;
+const { score, category, reviewOf, handsOn = false } = Astro.props;
+const sources = handsOn ? [] : (Astro.props.sources ?? []);
 
 // Half points only. The writer is asked to round, but rounding here as well
 // means a stray 8.37 can never reach the page.
@@ -23,7 +29,7 @@ const shown = rounded.toFixed(1);
 
 <aside
   class="mt-14 sm:mt-16 rounded-[18px] border border-[#D7E2EA]/15 overflow-hidden"
-  aria-label="Average score"
+  aria-label={handsOn ? 'My score' : 'Average score'}
 >
   <div class="flex items-center gap-5 p-6 sm:p-7">
     <div
@@ -42,14 +48,16 @@ const shown = rounded.toFixed(1);
         class="font-medium uppercase tracking-[0.12em] text-[0.62rem]"
         style={`color:${accent}`}
       >
-        Average score
+        {handsOn ? 'My score' : 'Average score'}
       </p>
       <p class="text-[#D7E2EA] font-medium leading-snug mt-1.5 text-[0.98rem]">
         {reviewOf ?? 'The reviews, averaged'}
       </p>
       <p class="text-[#D7E2EA]/45 font-light text-[0.78rem] leading-relaxed mt-1.5">
         {
-          sources.length > 0
+          handsOn
+            ? 'My own verdict, from my time with the game, on a 1-10 scale.'
+            : sources.length > 0
             ? sources.length === 1
               ? 'The one published score, on a 1-10 scale, rounded to the nearest half point.'
               : `The mean of ${sources.length} published scores, on a 1-10 scale, rounded to the nearest half point.`

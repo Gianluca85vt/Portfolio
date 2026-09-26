@@ -28,6 +28,11 @@ const blog = defineCollection({
     // put on a 1-10 scale and rounded to the nearest half point. Anything with
     // a score appears in the "Latest reviews" column on the blog index.
     score: z.number().min(0).max(10).optional(),
+    // Gianluca played it himself. The score is then his own verdict and
+    // nothing else: no scoreSources, and no other outlet quoted or averaged
+    // anywhere in the piece. The score box says "My score" instead of an
+    // average, and the review stands on his own time with the game.
+    handsOn: z.boolean().optional(),
     // What was reviewed, for that column — the headline is usually too long.
     reviewOf: z.string().optional(),
     // The individual scores the mean came from, so the number is auditable.
