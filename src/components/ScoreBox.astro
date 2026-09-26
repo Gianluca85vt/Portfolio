@@ -50,7 +50,9 @@ const shown = rounded.toFixed(1);
       <p class="text-[#D7E2EA]/45 font-light text-[0.78rem] leading-relaxed mt-1.5">
         {
           sources.length > 0
-            ? `The mean of ${sources.length} published scores, on a 1-10 scale, rounded to the nearest half point.`
+            ? sources.length === 1
+              ? 'The one published score, on a 1-10 scale, rounded to the nearest half point.'
+              : `The mean of ${sources.length} published scores, on a 1-10 scale, rounded to the nearest half point.`
             : 'The mean of the published scores quoted above, on a 1-10 scale, rounded to the nearest half point.'
         }
       </p>
