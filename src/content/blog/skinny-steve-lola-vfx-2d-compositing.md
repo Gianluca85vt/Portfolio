@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Pipeline: a per-shot 2D warp leaves no reusable asset behind, so the work does not amortise across the film and carries nothing to the next one."
     - "Cleanup: every pixel the shrunken body stops covering has to be painted back plate by plate, which is invisible when it holds and the first thing to fail when it does not."
-draft: true
 ---
 
 Ian Failes put out another episode of his *Great Moments in Effects History*
