@@ -36,18 +36,34 @@ const cover = coverFor(entry.data.category, entry.data.cover);
 // BlogPosting tells Google this is an article, who wrote it and when — the
 // difference between a page that can rank and one eligible for rich results.
 //
-// A scored piece is deliberately NOT marked up as a Review with a rating. The
-// score is the mean of other outlets' scores, and Google's review-snippet rules
-// forbid exactly that: ratings aggregated from other sites, presented as the
-// page's own. Stars earned that way are what a manual action takes away, often
-// with the rest of the site's rich results. The number stays on the page, in
-// the score box, where it is labelled for what it is.
+// A round-up review is deliberately NOT marked up as a Review with a rating.
+// Its score is the mean of other outlets' scores, and Google's review-snippet
+// rules forbid exactly that: ratings aggregated from other sites, presented as
+// the page's own. Stars earned that way are what a manual action takes away,
+// often with the rest of the site's rich results. The number stays on the
+// page, in the score box, where it is labelled for what it is.
+//
+// A hands-on review is the other case. Gianluca played it and the score is his
+// own verdict, which is precisely what the Review type is for, so those carry
+// the rating.
 const scored = entry.data.score !== undefined;
+const ownReview = scored && entry.data.handsOn === true;
 const modified = entry.data.updated ?? entry.data.date;
 
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'BlogPosting',
+  '@type': ownReview ? ['BlogPosting', 'Review'] : 'BlogPosting',
+  ...(ownReview
+    ? {
+        itemReviewed: { '@type': 'VideoGame', name: entry.data.reviewOf ?? entry.data.title },
+        reviewRating: {
+          '@type': 'Rating',
+          ratingValue: Math.round(entry.data.score! * 2) / 2,
+          bestRating: 10,
+          worstRating: 1,
+        },
+      }
+    : {}),
   headline: entry.data.title,
   description: entry.data.excerpt ?? entry.data.title,
   datePublished: entry.data.date.toISOString(),
