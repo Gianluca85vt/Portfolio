@@ -178,7 +178,7 @@ La home è un'unica isola React, `src/components/HomePage.tsx`, composta dai fil
 | --- | --- | --- |
 | Hero (`#top`) | `Hero.tsx` | Ritratto 3D che gira col puntatore (`ui/AvatarScrub`), vista Shaded/Wireframe con glitch, ultimi articoli, scelta "studio / cliente" |
 | What I do (`#skills`) | `Disciplines.tsx` | Le sei `services`, con anteprime al passaggio e link alla sezione giusta |
-| Work (`#work`) | `Work.tsx` + `Lightbox.tsx` | Concept, 3D e architettura filtrabili; vista valori / due toni; viewer con gli strumenti da art director e la line art originale dove c'è |
+| Work (`#work`) | `Work.tsx` + `WorkSpace.tsx` + `Lightbox.tsx` | Concept, 3D e architettura filtrabili, in una "stanza" 3D a gravità zero (si gira trascinando, con le frecce o la mappa; dietro le immagini sono più scure e sfocate) o in griglia; vista valori / due toni; viewer con gli strumenti da art director e la line art originale dove c'è. Chiudendo il viewer la stanza si gira sull'ultima immagine vista |
 | Showreel (`#showreel`) | `Showreel.tsx` | Player + timeline a tracce (real-time, animazione, motion design) con puntina trascinabile |
 | Try the job (`#lab`) | `Lab.tsx` + `rock-gl.ts` | Line art → colore, budget di triangoli su un sasso in WebGL (flat/smooth, roccia e muschio; `rock.ts` è il ripiego 2D), pianta → stanza |
 | About (`#about`), Direction (`#direction`) | `About.tsx` | Bio, numeri, CV; art direction e strumenti |

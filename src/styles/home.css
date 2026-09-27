@@ -412,6 +412,140 @@
   }
 }
 
+/* ---------------------------------------------------------- work space */
+
+.vp-space {
+  perspective: 1300px;
+  perspective-origin: 50% 46%;
+  cursor: grab;
+}
+
+.vp-space:active {
+  cursor: grabbing;
+}
+
+.vp-float {
+  will-change: transform;
+  backface-visibility: hidden;
+  border-radius: 3px;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.55);
+  transition: box-shadow 0.4s var(--vp-ease);
+  cursor: pointer;
+}
+
+.vp-float.is-hover,
+.vp-float:focus-visible {
+  box-shadow:
+    0 0 0 1px rgba(215, 226, 234, 0.55),
+    0 30px 90px rgba(182, 0, 168, 0.28),
+    0 30px 70px rgba(0, 0, 0, 0.7);
+}
+
+.vp-float-brackets {
+  opacity: 0;
+  transition: opacity 0.35s var(--vp-ease);
+}
+
+.vp-float.is-hover .vp-float-brackets,
+.vp-float:focus-visible .vp-float-brackets {
+  opacity: 1;
+}
+
+.vp-float-label {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(100% + 12px);
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.6rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  opacity: 0;
+  transform: translate3d(0, -4px, 0);
+  transition: opacity 0.3s var(--vp-ease), transform 0.4s var(--vp-ease);
+  pointer-events: none;
+}
+
+.vp-float.is-hover .vp-float-label,
+.vp-float:focus-visible .vp-float-label {
+  opacity: 1;
+  transform: none;
+}
+
+.vp-float-tag {
+  position: absolute;
+  top: 8px;
+  left: 8px;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border-radius: 999px;
+  background: rgba(0, 0, 0, 0.65);
+  color: rgba(215, 226, 234, 0.85);
+  padding: 2px 7px;
+}
+
+/* The picture just seen full size, as the room turns back to it. */
+.vp-float.is-found::after {
+  content: '';
+  position: absolute;
+  inset: -10px;
+  border: 1px solid var(--vp-hot);
+  border-radius: 6px;
+  animation: vp-found 1.5s var(--vp-ease) both;
+  pointer-events: none;
+}
+
+@keyframes vp-found {
+  0% {
+    opacity: 0;
+    transform: scale(1.15);
+  }
+  25% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.04);
+  }
+}
+
+/* Specks of dust drifting in the room, far behind everything. One layer,
+   one slow transform: nearly free. */
+.vp-space-dust {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: calc(100% + 420px);
+  height: calc(100% + 380px);
+  pointer-events: none;
+  background-image:
+    radial-gradient(1px 1px at 12% 18%, rgba(215, 226, 234, 0.35), transparent 60%),
+    radial-gradient(1px 1px at 68% 32%, rgba(215, 226, 234, 0.25), transparent 60%),
+    radial-gradient(1.5px 1.5px at 38% 74%, rgba(255, 138, 61, 0.35), transparent 60%),
+    radial-gradient(1px 1px at 86% 82%, rgba(215, 226, 234, 0.3), transparent 60%),
+    radial-gradient(1px 1px at 22% 58%, rgba(182, 0, 168, 0.4), transparent 60%),
+    radial-gradient(1px 1px at 54% 8%, rgba(215, 226, 234, 0.25), transparent 60%);
+  background-size: 420px 380px;
+  opacity: 0.8;
+  animation: vp-dust 60s linear infinite;
+}
+
+@keyframes vp-dust {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-420px, -380px, 0);
+  }
+}
+
 /* ------------------------------------------------------------- showreel */
 
 .vp-timeline {
@@ -533,7 +667,8 @@
   }
 
   .vp-flow,
-  .vp-pulse {
+  .vp-pulse,
+  .vp-space-dust {
     animation: none;
   }
 

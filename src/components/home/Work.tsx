@@ -3,12 +3,16 @@ import type { CSSProperties } from 'react';
 import { work } from '../../data/home';
 import type { WorkFilter } from '../../data/home';
 import Lightbox, { kindLabel } from './Lightbox';
+import WorkSpace from './WorkSpace';
+import type { SpaceFocus } from './WorkSpace';
 import type { ArchiveItem } from './Lightbox';
 import { Buckets, Reveal, SectionTitle, Slate, pad, useInView, useThumb, useVoiced } from './ui';
 import type { WorkEvent } from './ui';
 
-/** How many pictures a category shows before "Show all". */
+/** How many pictures a category shows before "Show all", in the grid. */
 const PAGE = 16;
+/** How many hang in the room at once; the long categories come in sets. */
+const ROOM = 40;
 
 function Card({ item, index, onOpen }: { item: ArchiveItem; index: number; onOpen: () => void }) {
   const ref = useRef<HTMLButtonElement>(null);
@@ -63,12 +67,21 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
   const [grade, setGrade] = useState('colour');
   const [limit, setLimit] = useState(PAGE);
   const [open, setOpen] = useState<number | null>(null);
+  const [view, setView] = useState<'space' | 'grid'>('space');
+  const [set, setSet] = useState(0);
+  const [focus, setFocus] = useState<SpaceFocus>(null);
   const intro = useVoiced(work.intro);
+
+  const choose = (f: WorkFilter) => {
+    setFilter(f);
+    setLimit(PAGE);
+    setSet(0);
+    setFocus(null);
+  };
 
   useEffect(() => {
     const on = (e: Event) => {
-      setFilter((e as CustomEvent<WorkEvent>).detail.filter);
-      setLimit(PAGE);
+      choose((e as CustomEvent<WorkEvent>).detail.filter);
     };
     window.addEventListener('vp:work', on);
     return () => window.removeEventListener('vp:work', on);
@@ -89,6 +102,19 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
   const list = lists[filter];
   // The selection is short by design; only the long categories are paged.
   const shown = filter === 'selected' ? list : list.slice(0, limit);
+  const sets = Math.ceil(list.length / ROOM);
+  const room = list.slice(set * ROOM, set * ROOM + ROOM);
+
+  // Closing the viewer in the room turns it to the picture last seen there —
+  // switching to its set first if the arrows went past the ones on show.
+  const close = () => {
+    if (view === 'space' && open !== null) {
+      const s = Math.floor(open / ROOM);
+      if (s !== set) setSet(s);
+      setFocus({ index: open % ROOM, n: Date.now() });
+    }
+    setOpen(null);
+  };
   const gradeNote = work.grades.find((g) => g.id === grade)?.note ?? '';
 
   return (
@@ -119,10 +145,7 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
                 type="button"
                 role="tab"
                 aria-selected={on}
-                onClick={() => {
-                  setFilter(f.id);
-                  setLimit(PAGE);
-                }}
+                onClick={() => choose(f.id)}
                 className={`shrink-0 flex items-center gap-2 rounded-full px-3.5 py-2 border transition-colors duration-300 ${
                   on ? 'bg-[#D7E2EA] border-[#D7E2EA] text-black' : 'border-[#D7E2EA]/20 text-[#D7E2EA]/70 hover:text-[#D7E2EA] hover:border-[#D7E2EA]/50'
                 }`}
@@ -136,7 +159,27 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
           })}
         </div>
 
-        <div className="flex items-center gap-3 min-w-0">
+        <div className="flex items-center gap-3 min-w-0 flex-wrap">
+          <div role="group" aria-label="Layout" className="flex gap-1 rounded-full border border-[#D7E2EA]/15 p-0.5 shrink-0">
+            {(
+              [
+                ['space', 'Room'],
+                ['grid', 'Grid'],
+              ] as const
+            ).map(([id, label]) => (
+              <button
+                key={id}
+                type="button"
+                aria-pressed={view === id}
+                onClick={() => setView(id)}
+                className={`vp-label !text-[0.6rem] rounded-full px-2.5 py-1.5 transition-colors duration-300 ${
+                  view === id ? 'bg-[#D7E2EA] text-black' : 'text-[#D7E2EA]/60 hover:text-[#D7E2EA]'
+                }`}
+              >
+                {label}
+              </button>
+            ))}
+          </div>
           <span className="vp-label text-[#D7E2EA]/40 shrink-0 hidden sm:inline">Look at it as</span>
           <div role="group" aria-label="Look at the images as" className="flex gap-1 rounded-full border border-[#D7E2EA]/15 p-0.5 shrink-0">
             {work.grades.map((g) => (
@@ -160,13 +203,45 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
         {grade === 'colour' ? '' : gradeNote}
       </p>
 
-      <div key={filter} className="vp-masonry vp-grade" data-grade={grade}>
-        {shown.map((item, i) => (
-          <Card key={item.src} item={item} index={i} onOpen={() => setOpen(i)} />
-        ))}
-      </div>
+      {view === 'space' ? (
+        <>
+          {sets > 1 ? (
+            <div role="group" aria-label="Which pictures hang in the room" className="flex justify-end gap-1.5 -mt-2 mb-3">
+              {Array.from({ length: sets }, (_, i) => (
+                <button
+                  key={i}
+                  type="button"
+                  aria-pressed={set === i}
+                  onClick={() => {
+                    setSet(i);
+                    setFocus(null);
+                  }}
+                  className={`vp-label !text-[0.6rem] rounded-full border px-3 py-1.5 transition-colors duration-300 ${
+                    set === i ? 'border-[#ff8a3d] text-[#ff8a3d]' : 'border-[#D7E2EA]/20 text-[#D7E2EA]/60 hover:text-[#D7E2EA]'
+                  }`}
+                >
+                  {i * ROOM + 1}–{Math.min(list.length, (i + 1) * ROOM)}
+                </button>
+              ))}
+            </div>
+          ) : null}
+          <WorkSpace
+            key={`${filter}-${set}`}
+            items={room}
+            grade={grade}
+            focus={focus}
+            onOpen={(i) => setOpen(set * ROOM + i)}
+          />
+        </>
+      ) : (
+        <div key={filter} className="vp-masonry vp-grade" data-grade={grade}>
+          {shown.map((item, i) => (
+            <Card key={item.src} item={item} index={i} onOpen={() => setOpen(i)} />
+          ))}
+        </div>
+      )}
 
-      {list.length > shown.length ? (
+      {view === 'grid' && list.length > shown.length ? (
         <div className="flex justify-center mt-8">
           <button
             type="button"
@@ -179,7 +254,7 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
       ) : null}
 
       {open !== null ? (
-        <Lightbox items={list} index={open} onIndex={setOpen} onClose={() => setOpen(null)} />
+        <Lightbox items={list} index={open} onIndex={setOpen} onClose={close} />
       ) : null}
     </section>
   );
