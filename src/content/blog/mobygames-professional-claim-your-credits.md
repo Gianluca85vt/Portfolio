@@ -34,6 +34,11 @@ received.
 
 ## What the roll leaves out
 
+<figure>
+  <img src="/img/blog/mobygames-professional-claim-your-credits/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>MobyGames, via Wikimedia Commons</figcaption>
+</figure>
+
 Game credits are written by the employer, and they are written once. There is
 no appeal after ship. Every artist who has been in the industry more than a
 couple of years knows somebody who missed a roll: the contractor whose
