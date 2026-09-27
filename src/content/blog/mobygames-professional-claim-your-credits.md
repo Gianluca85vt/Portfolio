@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Access: a subscription is a strange gate to put in front of the record of work someone already did, and it lands hardest on the people between contracts who need the record most."
     - "Coverage: the bar for adding an uncredited person is independent evidence, which the outsourcing artists with the thinnest paper trail are least able to clear."
-draft: true
 ---
 
 Zerply shuts down tomorrow. Sixteen years of VFX credits and reels, gone, and
