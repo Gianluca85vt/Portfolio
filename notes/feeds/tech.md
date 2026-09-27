@@ -1,6 +1,11 @@
-# Tech — harvested 2026-09-27T10:12:30.754Z
+# Tech — harvested 2026-09-27T15:17:53.407Z
 
 ## Ars Technica
+
+### How the Smithsonian became the latest front in Trump’s culture war
+Sun, 27 Sep 2026 11:00:12 +0000 — https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/
+
+In November 2021, the Smithsonian’s National Museum of American History opened an exhibit called “The Electric Dr. Franklin,” describing “Benjamin Franklin’s pioneering contributions to electrical science.” The exhibit explained that, prior to becoming an abolitionist, he had enslaved people in his household. “Benjamin Franklin’s remarkable scientific accomplishments were, in part, enabled by slavery,” it declared. The exhibit speculated that Franklin may have used enslaved people in his electrical research. “Franklin wrote about experiments in which he took shocks and used family and friends in these ways, although he seldom identified who in particular assisted him,” stated the exhibit, which closed in 2025 but can still be found online . “Indentured servants and enslaved people in his household could also have been used, although we may never know for certain.” It was an eye-catching conjecture: one of the most revered of the Founding Fathers subjecting people held against their will to possibly painful shocks. And it was one of many details singled out for criticism in a blistering 162-page White House report released in July that argued that the museum had fallen victim to an “ideological capture” that “moved the Museum’s mission away from straightforward historical education and scholarship toward an extreme political activism that seeks to transform our country.” Read full article Comments ]]>
 
 ### Tesla’s big electric truck faces an even bigger infrastructure challenge
 Sat, 26 Sep 2026 10:45:09 +0000 — https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/
@@ -57,12 +62,22 @@ Fri, 25 Sep 2026 15:35:23 +0000 — https://arstechnica.com/space/2026/09/after-
 
 Imagine starting a space company in October 2019 with the aim of changing the world. Then, a few months later, a global pandemic shuts the world down. "Little did we know what the world had in store for us," said Trevor Bennett, an engineer who co-founded Starfish Space after a few years at Blue Origin. "But that's kind of become part of our story, showing some resilience along the way." At Blue Origin, he saw, up close, the ambitions of billionaires to build big rockets and put massive numbers of satellites into orbit. Bennett and his co-founder, another engineer from Blue Origin named Austin Link, began to think about the implications. How would humanity deal with that increased volume of satellites in orbit? Could low-Earth orbit be preserved? Read full article Comments ]]>
 
-### US being left behind in EV charging speeds as China goes sub-5 min to 70%
-Fri, 25 Sep 2026 15:21:55 +0000 — https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/
-
-Hype merchants have a habit of overdoing it , but there’s no denying that China is making the US look more than a little antiquated when it comes to electric vehicles. Some of that is due to a deep integration of connected services and an extension of the car as part of the owner’s digital life—think additional infotainment screens and AI personal assistants, but with an Android phone-maker’s cadence of updates rather than that of a traditional car company. Other advances sound more appealing. China’s OEMs are in a battle over who can charge the fastest, and this week, Geely fired its latest salvo. China might have a much younger driving culture than North America or Europe, but it has still been long enough to condition those drivers to how long it takes to fill a tank of gas. For all their many improvements over internal combustion engine vehicles—far greater efficiency, instant torque, very little NVH, more reliabiity, and so on—EVs do still take longer to recharge than it takes to refuel a car with a liquid. At least until now, it seems. Read full article Comments ]]>
-
 ## The Verge
+
+### Why OLPC’s $100 laptop never stood a chance
+2026-09-27T08:25:00-04:00 — https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance
+
+The idea was big, exciting, and inspiring: What if we could get every kid in the world access to a computer? For a bunch of thinkers and executives in Silicon Valley, it felt like the way to fix everything. But the One Laptop Per Child initiative, and the XO-1 laptop designed to be given away, were both more complicated than anyone expected. In the next episode of Version History, David Pierce is joined by The Verge 's Adi Robertson and tech journalist David Imel to figure out why OLPC didn't work, whether there's anything to learn from the XO-1's innovative design, and if this kind of computer giveaway could ever succeed. We're halfway t … Read the full story at The Verge. ]]>
+
+### Googlebooks might be the real deal
+2026-09-27T08:00:00-04:00 — https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse
+
+Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage .) This week, I flew to San Francisco to try out Meta's new hardware, including the impressive Meta VR Glasses . Along the way, I've been listening to Joanna Stern's interview with Mark Zuckerberg , watching this interview with new Apple CEO John Ternus , revisiting Steve Jobs' "Antennagate" press conference Q&A , playing games on my Steam Deck using the Xreal One Pro glasses, and reading Sarah Wynn-William … Read the full story at The Verge. ]]>
+
+### The smart home graveyard is getting crowded
+2026-09-27T08:00:00-04:00 — https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard
+
+This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started A decade ago, a group of former Apple engineers built a beautiful smart oven. With a built-in scale, restaurant-grade heating elements, a camera, and the intelligence to recognize a chicken breast and cook it perfectly, the June Oven set the standard for smart cooking appliances. At $1,495, it was absurdly expensive, but it quickly grew a smal … Read the full story at The Verge. ]]>
 
 ### Apple hit with $5.7 billion in damages over haptic patents
 2026-09-26T17:30:01-04:00 — https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents
@@ -99,22 +114,47 @@ In Control Resonant , the entire world is at stake. But that didn't stop the dil
 
 Earlier this month, Pok&eacute;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were; other creators claimed that cards Roush had purchased were stolen from the manufacturer and mocked her for trying to sell them at exorbitant prices . The Roush situation was a high-profile example of the way Pok&eacute;mon card collecting culture has been upended by the influencer economy and people trying to profit off the hobby. Th … Read the full story at The Verge. ]]>
 
-### Can eSUV e-bikes really go from trail to town?
-2026-09-26T03:00:00-04:00 — https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox
-
-Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called "electric SUV" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and front and rear suspension, plus practical accessories like fenders and racks. So, that's what I set out to test on a new TL Carbon e-bike from Amflow, the DJI offshoot that upended the mountain bike industry a few years ago with its incredibly small and powerful Avinox motors . After a month of testing in the heart of Amsterdam - including a three day bikepacking trip along coastal bicycle super … Read the full story at The Verge. ]]>
-
-### Roku s first OLED TVs are up to $400 off, starting at $699
-2026-09-25T14:18:57-04:00 — https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale
-
-Roku’s new OLED TVs are already marked down. | Image: The Verge Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The price is even lower right now at Amazon when you enter the code ROKUOLED300 at checkout. It knocks a clean $300 off, as the code indicates, making this the most affordable modern 55-inch OLED you can get right now. If you re more of a 65-inch TV kind of person, you re in luck, as there s a code that knocks $400 off that model to make it just $799 at checkout. Enter the code ROKUOLED400 to bring the $1,299 65-inch Pro Series down to $799. We haven t had a chance to test either model, but they seem respectable if you want great picture quality without breaking the bank. Roku Pro Series OLED (2026) Where to Buy: $999.99 $699.99 at Amazon (55-inch, with code ROKUOLED300) $1199.99 $799.99 at Amazon (65-inch, with code ROKUOLED400) Given that these are Roku TVs, the company s software is built-in, negating the need to stick a streaming device into one of its HDMI ports, unless you prefer hardware from other brands. The Pro Series includes a backlit Roku remote, and it supports auto low latency mode, and has variable refresh rate (AMD FreeSync Premium) for gaming. There s a pricier Pro Series LX coming in October starting at $1,299 that claims to be twice as bright as the Pro Se
-
-### Phones don’t have lights
-2026-09-25T13:42:59-04:00 — https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks
-
-Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the interviews, Joanna Stern notes that, while phones do not always emit a light, someone does have to hold a phone up in the air, which is itself pretty noticeable. On today's Vergecast , we're talking about Meta Connect, the Muse AI assistant, all the new smart glasses hardware, and Zuckerberg's response to the privacy uproar ar … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer
+Sun, 27 Sep 2026 14:40:00 +0000 — https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity
+
+A chrysophile has ordered a special edition mini PC with a pure 24-carat gold passive chassis reports Fanless Tech . It’s a premium custom version of the ~5-inch (120 x 120 x 120mm) Kubb Fanless PC, but costing around $1.7 million with its opulent gold chassis. As well as its choice of materials pumping up price, this mini PC’s weight has increased from its default 4.6 to 28.7 pounds (2.1kg to 13kg). But as a bonus, which probably still doesn’t make it worth it for most folks, gold has significantly better thermal conductivity than aluminum . A rich client asked for a solid gold Kubb Fanless and it's a cooling marvel https://t.co/QyPMRKefTz pic.twitter.com/a9hIdznNYw September 25, 2026 In its social media post, Fanless Tech calls the Kubb Fanless in gold a “cooling marvel.” Its news post on the topic elaborates on this claim, explaining that the thermal conductivity of gold is “about 30% to 50% faster than aluminum.” That might help its Core Ultra chip perform a bit better, all else being equal. However the sacrifice to portability, as this compact gold PC is over 6x heavier, could be a major drawback. As well as the price. We looked up the thermal conductivity of aluminum and gold, as well as some other common materials. The chart below could be useful for your own passive computing projects. Thermal conductivity comparison chart Material Thermal conductivity (W/m K) Diamond 1,000 Silver 406 Copper 385 Gold 314 Aluminum 205 Iron 79 Glass 0.8 Brick 0.6 Wood 0.1 Polyurethane 0
+
+### Thieves steal Nvidia-labeled trailers expecting massive AI GPU payday, but score 40,000 pounds of sand instead
+Sun, 27 Sep 2026 14:14:40 +0000 — https://www.tomshardware.com/pc-components/gpus/thieves-steal-nvidia-labeled-trailers-expecting-massive-ai-gpu-payday-but-score-40-000-pounds-of-sand-instead-crooks-duped-by-20-tons-of-ballast-sand
+
+PlusAI, an autonomous trucking startup, is working with Nvidia to develop its systems and has several trucks and trailers marked with the logos of both companies. This likely caught the attention of thieves who were looking to score big on AI GPUs, with Wired reporting that two of the startup’s trailers got stolen and were found at another location. However, the joke’s on the criminals, as they discovered that the two stolen units contained 20,000 pounds of sand each. The AI data center construction boom has made PC components like RAM and GPUs insanely expensive, which has led to a rise in petty theft involving these components. Enterprises and startups are being targeted, too, especially as they build data centers and local AI servers with millions of dollars’ worth of equipment and hardware. We’ve already seen cargo heists of copper cable and other hardware worth $1.3 million , while other criminals have become more brazen, pushing or spinning security escorts off the road so they can get away with a truck’s worth of AI GPUs. While PlusAI is partnered with Nvidia, it also uses simulated cargo loads for real-world tests, allowing the company to model how a fully loaded semi-trailer would react to various road conditions. The startup’s truck cabs, which likely had advanced AI hardware installed, were parked securely inside its warehouse, while the trailers were apparently left outside and secured with hand locks. “PlusAI uses simulated loads in its trailers to assist with re
+
+### Gigabyte 1000GM PG5 1000W power supply review: Impressive Platinum-level efficiency with T-Guard thermal protection
+Sun, 27 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/power-supplies/gigabyte-1000gm-pg5-1000w-power-supply-review
+
+Gigabyte Technology hardly needs an introduction to anyone who has built a PC in the last three decades. Founded in Taipei in 1986, the company grew into one of the largest motherboard and graphics card manufacturers in the world, and its AORUS brand has become a fixture of the enthusiast market. Power supplies are a comparatively recent and more modest part of its business. Like nearly every PC brand, Gigabyte does not manufacture its own PSUs. Instead, it sources platforms from established OEMs and sells them under its UD, P-series and AORUS lines. The results have been uneven over the years, with some very good units and a few that left a lot to be desired, so the OEM and the target audience behind each model matters more than the badge on the box. The Gaming GM PG5 series is Gigabyte's newest attempt to cover the upper mainstream, and the 1000W model in review today is something of a spiritual successor to the popular UD1000GM PG5. We look closer to determine how it ranks among our best power supplies list. It is built by HEC, a long-established Taiwanese OEM. It is fully compliant with the ATX 3.1 and PCIe 5.1 design guides and comes with a native 12V-2x6 connector, a 135 mm fluid dynamic bearing fan, and (according to Gigabyte) 100% Japanese capacitors. The headline feature, though, is T-Guard, a thermal monitoring system for the 12V-2x6 connector that can cut power to the graphics card if the connector starts overheating. The T-Guard signifies Gigabyte’s proposed solut
+
+### PS5 emulator successfully runs six titles at a playable 60 FPS
+Sun, 27 Sep 2026 12:40:00 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/ps5-emulator-successfully-runs-six-titles-at-a-playable-60-fps-ps5-emulation-continues-to-gather-momentum-as-developers-improve-shader-translation-and-vulkan-support
+
+Developers of SharpEmu — an experimental, open-source PS5 emulator — have successfully run PS5 games at a playable 60 FPS on the emulator. According to an X post on September 25, the developers reached this milestone for six of 55 titles tested, with 12 — including the six playable — reaching gameplay. According to the developer, the six games are yet to be tested from start to finish; the “playable” designation means the games currently run without issues, although minor graphical or audio issues may persist in some. The six 60 FPS titles are Dreaming Sarah, Void Terrarium, New Joe & Mac: Caveman Ninja, Tetris Forever, Hoa, and Tomb Raider IV-VI Remastered . The breakthrough was achieved with SharpEmu v0.0.4-release.2, the emulator’s latest public build released on September 25. According to developers, the build includes upgrades such as improved SPIR-V shader translation and updated Vulkan API support. Developed in C#, the SharpEmu PS5 emulator supports Windows, Linux, and macOS and uses Vulkan and MoltenVK for graphics API calls. PlayStation 5 relies on an AMD Zen 2 x86-64 CPU architecture ; therefore, SharpEmu can execute the console's CPU instructions natively on a standard PC rather than translating them from an unfamiliar instruction set. The emulator focuses on loading a game's eboot.bin executable and required system modules, partially handling kernel functions, and processing the game's shader, resource, and AGC graphics submissions. For now, SharpEmu is still far 
+
+### Linux enthusiasts see 10-second kernel compilation times on the horizon
+Sun, 27 Sep 2026 12:20:00 +0000 — https://www.tomshardware.com/software/linux/linux-enthusiasts-see-10-second-kernel-compilation-times-on-the-horizon-ai-assisted-patches-cut-build-times-by-nearly-a-third-without-a-ramdisk
+
+It won’t be long until Linux enthusiasts will be able to complete a clean kernel build in under 10 seconds. Linux expert and Phoronix head honcho Michael Larabel said that “the coffee window is closing” in recent commentary that weighs computer processor advances and human / AI optimizations of the Kbuild code. What once used to be a computer processing task that provided a decent excuse for a coffee break now only allows enough time for a measured sip. The source site’s determined Linux focus has meant that OS kernel compilation times have become a signature benchmark over the last two decades. Larabel notes that this once time-consuming process “can be done in now roughly 15 seconds.” It isn’t just advances in hardware and core counts pushing the envelope; compiling a defconfig x86-64 Linux kernel build has had many bottlenecks removed thanks to the work of Linux MM developer Lorenzo Stoakes and the assistance of AI/LLMs recently. Even modest processors have seen their compile times cut dramatically thanks to this work. Larabel went hands-on with the latest v4 kernel patches from Lorenzo, and armed with his very powerful EPYC workstation, achieved “a 15-second kernel build!” Before the latest patches, the same system took over 22 seconds for the same compilation task. The test system is extremely potent, though. Your home PC or laptop might still let you have enough time to go brew some coffee, as Larabel’s test rig features the following components: 2x AMD EPYC 9575F 64-co
+
+### Flock seeks to have security researchers' map of Flock cameras taken down
+Sun, 27 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/flock-seeks-to-have-security-researchers-map-of-flock-cameras-taken-down-unauthenticated-flaw-exposed-335-701-camera-locations-nationwide
+
+A security researcher discovered a vulnerability in Flock’s website that gave him an access token without needing login credentials. The researcher used the information gleaned to build a map of Flock cameras and share it on a website he named the Flock Surveillance Map , which now lists the location of 335,701 cameras. Flock has now issued a trademark infringement complaint with the goal of having the researcher close the website. According to The Intercept , Joshua Michael used this to query ArcGIS, a third-party mapping and geospatial layer that Flock uses, to retrieve a database of Flock devices in November 2025. Michael said that he immediately informed the company about the security flaw. He said in his email, dated Nov. 13, 2025, that “all testing was strictly non-intrusive, limited to open unauthenticated endpoints, and did not involve bypassing authentication, modifying data, or invoking any billable ArcGIS or Google operations.” However, the company did not reply to his message, and it took him two more attempts before a representative responded. Flock said in its response, “Thank you for the findings. We are internally triaging them and will reach back out with next steps soon,” but the researcher said that the company still hasn’t replied to this day. Flock apparently fixed the vulnerability in January of this year after Michael published his findings, but the researcher was able to exfiltrate a Flock device location database before that. This information has allo
+
+### Developer says AI decision model Jev beat Pokémon Red in under a week
+Sun, 27 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/developer-says-jev-decision-model-beat-pokemon-red-in-under-a-week-non-llm-engine-succeeds-where-traditional-chatbots-stalled-for-months-but-claude-opus-5-coached-the-model-through-its-dead-ends
+
+TypeSafe AI's Jev "beat the Elite Four and the Champion and entered the Hall of Fame on September 23, 2026" in Pokémon Red, according to the developer's project page . Unlike the chatbots that have taken weeks to months to beat the Blue version of the game, Jev can only pick from a list of choices. It didn't achieve this without help, though. Anthropic's Claude Opus 5 monitored the game log and adjusted options and their wording as Jev played, effectively acting like a coach. The developer, Andrew Boyd, is the founder of Standard Agents Inc., which sells a platform for building AI agents. Boyd initially announced the project on X with victory coming in a week. The gameplay was livestreamed, available in a browser or a terminal, with a chat that Jev moderated. Let's go! Jev Plays Pokemon. Follow along here: https://t.co/64naxTJlDg OR, in your terminal run `npx jev-plays-pokemon` to follow along (with chat!) in a TUI. Github oAuth required to chat. Jev is the player and the chat moderator. Let's catch them all! September 17, 2026 Jev is a recently released decision model that returns solutions with a confidence figure. It is not a chatbot, and it is not an LLM. For the game, Jev refers to a list of options with facts, and it selects the best option based on probability. It doesn't read the screen and does not produce text or images. A traditional LLM, Claude Opus 5, monitored the game log to help Jev when it got stuck. This happened indirectly by modifying the options and data 
+
+### U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first
+Sun, 27 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months
+
+The U.S. Navy and the British Royal Navy have jointly launched an exercise U.S. Mk 48 heavyweight torpedo from the Royal Navy’s uncrewed drone submarine, XV Excalibur, marking a historic milestone in autonomous warfare. According to an official press release , the proof-of-concept launch took place on September 13 at the British Underwater Test & Evaluation Center (BUTEC) in Scotland. “This successful test marks a historic first for allied undersea warfare,” said Chief of Naval Operations Adm. Daryl Caudle. “Proving that we can seamlessly launch a U.S. heavyweight torpedo from a Royal Navy autonomous underwater vehicle validates our shared vision for true interchangeability. By integrating weapons, payloads, and mission architectures across allied platforms, we are increasing the flexibility, scale, and combat power of our combined forces and ensuring they are ready to meet the strategic demands of tomorrow.” The launch was conducted under AUKUS Pillar 2, a military partnership between the United States, the United Kingdom, and Australia aimed at developing and accelerating the deployment of cutting-edge, advanced defense technologies, such as artificial intelligence, quantum computing, and autonomous underwater systems, to maintain a strategic technological edge in the Indo-Pacific region. According to the U.S. Navy, the trial validated the mechanical, electrical, and software integration of an American kinetic payload onto a British autonomous platform, proving weapon inter
 
 ### Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million
 Sun, 27 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers
@@ -136,47 +176,27 @@ Sat, 26 Sep 2026 14:30:59 +0000 — https://www.tomshardware.com/tech-industry/d
 
 The Russian military has started striking data centers within Ukraine in its latest escalation against the country. According to the BBC , a Russian drone hit the data center, which was situated in a central business district in Kyiv, damaging it and killing four people in the area. Multiple reports also suggest that other data centers and network infrastructure have been hit across the country as well, with President Volodymyr Zelensky saying that Moscow wants to maximize disruption for the common people. “All this affects people’s ability to stay connected, study, work,” Zelensky said. He also wrote in a social media post, “The Russians are constantly expanding their escalation operation: American and other businesses, data centers, internet providers — for Russia, all ordinary life is simply a target. It is important that the world responds to all of this and that Russia feels the response to its terror.” Russia, on the other hand, confirmed that it attacked the Datagroup site, claiming that Ukrainian military intelligence used it, and that it’s also targeting other data and telecommunications centers owned by New-Telco, United DC, Kyivstar, and Parkovyi. These attacks have left about 100,000 households in Ukraine without internet connectivity, and some companies have begun migrating their data across the border to avoid disruption. Nevertheless, one government official said that Ukraine’s internet network is highly decentralized, but people should still expect some local 
 
-### Microsoft quietly drops Copilot+ branding from new laptops
-Sat, 26 Sep 2026 14:00:00 +0000 — https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding
-
-Microsoft launched the Copilot+ brand in 2024 to differentiate its offerings with local AI capabilities from other devices that do not have NPUs or fail to meet the minimum 40+ TOPS requirement. But a little over two years after the disastrous launch and poor sales , the company has quietly moved away from the brand. Microsoft Surface CVP Brett Ostrum confirmed this to Windows Central in an interview on the sidelines of Snapdragon Summit 2026. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “These are not called Copilot+ PCs,” Ostrum said. “They do meet all the requirements of our previous bar for what Copilot+ devices are. We still lean into the narrative around AI on the edge and being able to have a hybrid out there.” Even other devices that would’ve been eligible under the branding, including the upcoming Nvidia RTX Spark N1X and Microsoft’s own Project Zenith , are missing the Copilot+ badges. The company also said that it’s scaling back Copilot’s presence in Windows 11 , promising to improve the operating system’s performance, reliability, and updates. Microsoft also vowed to optimize it to run sm
-
-### Open-source AnyPS5 dumps emulation to run PlayStation 5 console games natively on PC
-Sat, 26 Sep 2026 13:59:04 +0000 — https://www.tomshardware.com/video-games/playstation/open-source-anyps5-dumps-emulation-to-run-playstation-5-console-games-natively-on-pc-amd-zen-2-architecture-enables-proton-like-binary-translation-for-windows-and-linux
-
-PlayStation 5 emulation has witnessed massive growth ever since Sony confirmed its plans to end PC ports for its first-party, narrative-driven single-player games. The latest name joining the list is the open source project AnyPS5 , which is claimed to run PS5 games natively on PC without requiring any emulation. The official GitHub page describes it as a tool for automatically porting executables to Linux and Windows. Since the PS5 is powered by AMD’s Zen 2 hardware, it uses the x86-64 architecture, thus allowing AnyPS5 to work as a compatibility translation layer somewhat similar to Proton or Wine. It takes the original PS5 executable files and converts them into Windows and Linux formats, while the shaders are recompiled into SPIR-V for Vulkan. By avoiding emulation altogether, AnyPS5 can potentially eliminate some of the computational overhead, resulting in a smoother experience. That said, development is still in the early stages, with test builds reportedly managing to boot select games as far as the main menu, with some even reaching gameplay with audio. However, the tool still requires a lot of work, particularly when it comes to system libraries and proprietary APIs unique to the PlayStation 5’s operating system. While the project is currently active on GitHub, a working public build is yet to be released. PS5 emulation is still far from being practical, but if you are interested or have been following the topic, make sure to check out KytyPS5 , one of the most promi
-
-### Nvidia patents AI chatbot to streamline PC game optimization
-Sat, 26 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/an-nvidia-chatbot-could-one-day-help-developers-better-optimize-their-games-patent-filing-show-requests-can-be-made-in-plain-english
-
-A newly published patent shows that Nvidia has been working on an AI chatbot that could make it quicker and easier for developers to optimize their PC games. The chatbot would be capable of receiving a plain English request for help before running diagnostics based on the specific issue at hand. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible PC gamers are well aware of the impact of poor optimization on games. And while there are tools available to developers that help them identify issues and then address them, they require specialist knowledge to use. They also take time, something that developers rarely have — especially as they get closer to a release date. The patent, first spotted by Patentlyze , could help. It depicts a chatbot-like interface in which developers would be able to outline the issue that they are seeing. They would be able to do so using normal language, allowing even relatively inexperienced developers to use the tool. Example questions provided by the patent include "What is causing the micro-stutter during camera cuts?" and "Why is frame time spiking when ray-traced reflections 
-
-### Sandisk Optimus GX Pro 850P 2TB SSD review: A PS5 SSD you recognize at a price you don’t
-Sat, 26 Sep 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/ssds/sandisk-optimus-gx-pro-850p-2tb-ssd-review
-
-The good news is that Sandisk is still putting out SSDs for consumers, and these are not just cheap replacements. The Optimus GX Pro 850P is a bona fide high-end Gen 4 SSD that puts Sandisk’s name on the WD Black SN850X ’s legendary design. This means DRAM, TLC flash, and good performance for any role. Like the Black SN850P , which is a Black SN850X made with a heatsink and for the PS5, the 850P is made for the console. Its heatsink is excellent, and it would fit right into your desktop PC, too. We wouldn’t recommend shucking it for use in a laptop, but theoretically it could work there as well. Our main concern would be the pricing, which is a bit steep – this is a nice drive, but you’ll pay a premium for it. Sandisk Optimus GX Pro 850P Specifications Product 1TB 2TB 4TB 8TB Pricing $309.99 $609.99 $1,139.99 $2,249.99 Form Factor M.2 2280-S3-M (PS heatsink) M.2 2280-S3-M (PS heatsink) M.2 2280-D5-M (PS heatsink) M.2 2280-D5-M (PS heatsink) Interface / Protocol PCIe 4.0 x4 / NVMe 1.4 PCIe 4.0 x4 / NVMe 1.4 PCIe 4.0 x4 / NVMe 1.4 PCIe 4.0 x4 / NVMe 1.4 Controller Sandisk Proprietary Sandisk Proprietary Sandisk Proprietary Sandisk Proprietary DRAM Yes Yes Yes Yes Memory Sandisk TLC 3D NAND Sandisk TLC 3D NAND Sandisk TLC 3D NAND Sandisk TLC 3D NAND Sequential Read 7,300 MB/s 7,300 MB/s 7,300 MB/s 7,200 MB/s Sequential Write 6,300 MB/s 6,600 MB/s 6,600 MB/s 6,600 MB/s Random Read 800K 1,200K 1,200K 1,200K Random Write 1,100K 1,100K 1,100K 1,200K Security TCG Opal v2.01 TCG Opal 
-
-### Nvidia’s RTX Mega Geometry 2.0 streams ray-tracing geometry into VRAM on demand
-Sat, 26 Sep 2026 12:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidias-rtx-mega-geometry-2-0-streams-ray-tracing-geometry-into-vram-on-demand-nanite-inspired-design-drops-detail-instead-of-dropping-out
-
-Nvidia has updated its RTX Mega Geometry SDK to 2.0, adding streaming support for “continuous level-of-detail clusters” to handle high-density meshes, according to the developer blog post . Nvidia says it works even for scenes too big for the VRAM budget. The technology is in addition to its RTX Kit, arriving alongside RTX Kit 2026.3. The announcement comes close to the release of Gears of War: E-Day, which makes use of RTX Mega Geometry technology. Nvidia has not explicitly said what version of Mega Geometry the game uses. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Mega Geometry “organizes detailed meshes into clusters so ray-traced scenes can adapt geometric detail efficiently,” according to Nvidia. The SDK appeared at version 0.9.0 beta in 2025 and found its way into Alan Wake 2’s title update 1.2.8 early that same year. Our test on an RTX 4090 found about 1GB of VRAM saved with a performance boost of 13%, at native 4K and with DLSS Quality. On an 8GB graphics card, that 1GB is an eighth of the memory. The SDK is at version 2.0.0 on GitHub as of this week. The technology makes dense scenes less expensive to ray trace, with 2.0 specifically targeting geometry that doesn’t fit in VRAM. This means that “a scene’s source geomet
-
-### Novel attack slashes computing power needed to crack textbook RSA cryptography
-Sat, 26 Sep 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/novel-attack-on-rsa-cryptography-might-bring-computation-requirements-for-cracking-down-to-manageable-levels
-
-Factoring attacks against the RSA algorithm were generally considered infeasible, but that may change dramatically if the findings in a paper from UC San Diego (California) and Inria Nancy (France) prove correct after peer review. The paper outlines a new attack that breaks RSA in record time. That's concerning because RSA-based encryption was in use for quite some time, and although it's been generally deprecated in favor of ECC and post-quantum algorithms , it's still employed today in a substantial portion of services. Go deeper with TH Premium: Silicon Photonics (Image credit: Getty Images / Bloomberg) Photonics and high-speed data movement is the next big AI bottleneck Co-Packaged Optics (CPO) foundry roadmaps Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects How optical interconnects and silicon photonics emerged as AI's next hot commodity Near-packaged optics (NPO) gains ground as the industry hedges against CPO's growing pains Assuming the research holds up and the attack conditions are met, the number of necessary operations for cracking an RSA-encrypted key (and thus, inspecting network traffic encrypted with it) drops dramatically. (From 2 80 , 2 112 , 2 128 , and 2 144 down to 2 65 , 2 90 , 2 105 , and 2 119 — for 1024, 2048, 3072-, and 4096-bit key lengths, respectively.) Even for the 1024-bit keys, performing 2 65 calculations is still a lot , but it starts getting into the range where it's feasible for a
-
-### PNY allegedly refuses to cover melted RTX 5090 powered by native power supply cable
-Sat, 26 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/pc-components/gpus/pny-allegedly-refuses-to-cover-melted-rtx-5090-powered-by-native-power-supply-cable-company-closes-users-ticket-when-questioned-on-policy
-
-When you buy a product, there is a reasonable expectation of warranty service. When you spend multiple thousands of dollars on a computer graphics card (a product category that has only recently entered the multi-thousand-dollar range), there is a reasonable expectation of exceptional service. What if, instead, you got absolutely no service? According to Redditor /u/Melodic_Initial_1767, that's what he got when he tried to RMA his burned GeForce RTX 5090. Like so many others, "Melodic" found his graphics card non-functional after melting the 12V-2x6 connectors on both ends of the modular cable that came with his 1600-watt ASRock power supply (the PG-1600G, which we reviewed last year ). This happened despite the fact that he says he was using the stock BIOS, no overclocking, and, in fact, a manually reduced power limit. Moreover, the card was supposedly sitting idle when it died, although that doesn't really mean anything. He opened a ticket with PNY and says he was denied the next day with this response: All PNY GPUs that require a 16-pin (12VHPWR / 12V-2x6) input include a PNY-approved power cable or adapter in the box. This cable is the only configuration covered under warranty. If a third-party power cable, adapter, or PSU cable is used and damage occurs - including melting, burning, overheating, or deformation of the connector - PNY cannot accept the product under warranty. Damage caused by non-PNY cables falls under the responsibility of the manufacturer of that cable o
-
-### Enthusiast cooled iPhone 18 Pro with cold can of La Croix sparkling water; benchmarks show 25% higher sustained performance
-Sat, 26 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/liquid-cooling/enthusiast-cooled-iphone-18-pro-with-cold-can-of-la-croix-sparkling-water-benchmarks-show-25-percent-higher-sustained-performance-liquid-cooling-surprisingly-reduced-thermal-throttling
-
-Tech enthusiast and developer Matt Birchler has tested an Apple iPhone 18 Pro with a can of La Croix used as a cooling device to address persistent thermal throttling that he noticed during his other tests with the phone. Surprisingly, this yielded much stronger results than one would assume, given that he simply placed the can of sparkling water on top of the phone, providing a 25% improvement in sustained performance. Birchier has been benchmarking the A20 Pro processor inside the iPhone 18 Pro, and it has so far offered excellent transcription results in its normal non-sparkling-water-cooled configuration. In one test run, the latest Apple smartphone hit a maximum speed of 447.9 words per second, before settling down to a little over 320 for the 7th to the 20th runs. The reduced performance during the latter stages of a prolonged benchmark run is normal for nearly every portable device, as they reduce performance to avoid thermally damaging their chips and other components. It’s exactly for this reason that high-performance computers often come with the best CPU coolers , with some enthusiasts preferring the best AIO coolers or custom water-cooling loops to get the most out of their high-end processors. However, this usually isn’t possible with most mainstream phones, unless you’re running a specialized gaming handset like the liquid-cooled Redmagic 11 Pro — but it seems that Birchler found a solution for the iPhone 18 Pro. “I did some benchmarking today and saw how the ne
-
 ## Phoronix
+
+### Linux Kernel s LZ4 Compression Code Being Resynced For Better Performance & Cleanliness
+Sun, 27 Sep 2026 09:16:20 -0400 — https://www.phoronix.com/news/Linux-LZ4-Clean-Resync
+
+In addition to the Linux kernel's Zstd compression code being improved, the LZ4 compression code within the kernel tree is also seeing a separate set of enhancements...
+
+### Intel Delivers A Significant Memory Hotplugging Performance Optimization For Linux
+Sun, 27 Sep 2026 06:49:05 -0400 — https://www.phoronix.com/news/Linux-7.4-Faster-RAM-Hotplug
+
+Adding to the features expected to land for Linux 7.4 is a significant performance optimization for the memory hotplugging speed for adding additional RAM. In particular, the memory hotplugging being most applicable for cases like expanding the amount of memory for VMs or in today's CXL world for adding additional system memory...
+
+### New Linux Patches For Supporting Lenovo ThinkPad X1 Carbon G14 s Second Camera
+Sun, 27 Sep 2026 06:33:00 -0400 — https://www.phoronix.com/news/Linux-X1-Carbon-G14-MIPI-Cam
+
+For those considering Lenovo's recently launched and beautifully crafted ThinkPad X1 Carbon Gen 14 laptop powered by Intel Core Ultra Series 3 "Panther Lake", one of the lingering missing features under Linux will hopefully soon be addressed: its second web camera...
+
+### New Patch Series Working Toward DRBD 9 Support In The Linux Kernel
+Sun, 27 Sep 2026 06:23:07 -0400 — https://www.phoronix.com/news/Linux-Patches-Toward-DRBD-9
+
+Earlier this year developers at LINBIT began working toward a goal of upstreaming ~15 years worth of their Distributed Replicated Block Device changes into the mainline Linux kernel. That major update has yet to land but sent out this week was a new patch series in preparing the trek toward introducing DRBD 9 support in the mainline kernel...
 
 ### Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4
 Sat, 26 Sep 2026 20:45:33 -0400 — https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset
@@ -218,27 +238,12 @@ Fri, 25 Sep 2026 21:00:26 -0400 — https://www.phoronix.com/news/Autumn-2026-Sp
 
 Last call for the Phoronix autumn "Oktoberfest" Premium sale: it runs through end of day Sunday, 27 September (any timezone - I'm not particularly strict). If you have been meaning to support the site, this is the window...
 
-### New FUTEX Syscalls Back To Being Worked On For Helping Valve s ARM64 Gaming Ambitions
-Fri, 25 Sep 2026 18:42:16 -0400 — https://www.phoronix.com/news/FUTEX-Robust-List2-Syscalls
-
-Going back to last year the Igalia open-source consulting firm has been working on enhancing the Linux kernel to help Steam Play gaming on ARM64 and ensuring the FEX emulator is operating efficiently for x86/x86_64 games running on the likes of the Steam Frame. After other kernel work in recent months, there's finally an updated round of the FUTEX get_robust_list2 and set_robust_list2 system call patches...
-
-### GDB 18.1 Debugger Brings Better Windows Support
-Fri, 25 Sep 2026 12:47:52 -0400 — https://www.phoronix.com/news/GNU-Debugger-GDB-18.1
-
-GDB 18.1 is out today as the newest version of the GNU Debugger that works across C/C++, Fortran, Rust, and other languages like Go, Ada, and more...
-
-### Redox OS Adds IO_uring-Like API, NUMA & Gets QEMU Working
-Fri, 25 Sep 2026 11:51:38 -0400 — https://www.phoronix.com/news/Redox-OS-August-2026
-
-The Redox OS open-source, Rust-based operating system has seen a lot of activity in recent weeks with many notable improvements landing...
-
-### Approaching A 10 Second Linux Kernel Build
-Fri, 25 Sep 2026 10:46:26 -0400 — https://www.phoronix.com/review/near-10-sec-kernel-build
-
-The coffee window is closing. Going back many years with the time it s taken to compile the Linux kernel has been a well known opportunity for a coffee break or even eating a meal during the lengthy Linux kernel build process. Even when the Linux kernel was much smaller than it is today, with the hardware at the time it would often be a very time consuming process... Thus incredible to think that we are now on the horizon of a ten second clean, default kernel build on Linux x86_64.
-
 ## The Register
+
+### Apple buried Copland 30 years ago. Now the failed OS boots in a browser
+Sun, 27 Sep 2026 12:30:00 +0200 — https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201
+
+Thirty years after Apple abandoned Copland, its doomed attempt to create a modern Mac operating system, a new emulator lets you try the final developer build in your browser. Copland was intended to replace Apple's System 7 with a PowerPC-native operating system built around a microkernel, protected memory, and preemptive multitasking for system services. Three unfinished developer builds – D7E1, D9, and D11E4 – are publicly known. Relatively few people outside Apple's developer community in the mid-1990s ever had the opportunity to use them. Now you can boot Apple Copland D11E4 in your browser and explore the unstable prerelease OS without installing anything. Developer Michael Steil, also known as Mist, made it possible with an experimental fork of the DingusPPC Power Mac emulator. Steil says the 11 patches that enable DingusPPC to boot Copland were written with AI assistance. The upstream project does not accept AI-assisted patches, so the fixes would have to be rewritten before they could be incorporated. Don't expect miracles. The emulator runs D11E4, the final build Apple distributed to developers, dating from June 1996. It remains very much unfinished: if the emulated system hits an assertion, it drops into a debugger and asks the user to continue manually. Apple CEO Gil Amelio had demonstrated Copland at the company's 1995 Worldwide Developers Conference, but the project never approached the stability required for release. Much of Copland existed as plans and document
 
 ### Big AI's content problem: Take the work, keep the money
 Sun, 27 Sep 2026 11:35:00 +0200 — https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007
@@ -295,12 +300,52 @@ Fri, 25 Sep 2026 19:29:54 +0200 — https://www.theregister.com/security/2026/09
 
 You work in your company's human resources department and use HR software to check employee information, benefits, and payroll. So, when you see a downloadable Windows version promising a faster alternative to the usual web interface, you grab it. Unfortunately, the app isn't what it claims to be. Instead, it silently installs ConnectWise's legitimate ScreenConnect software, giving the operator persistent remote access to your PC. Cybersecurity outfit Allure Security reported the discovery of the campaign Thursday, describing it as the latest evolution in a trend of abusing ScreenConnect and other remote monitoring and management software. This time, the main giveaway is knowing what the vendors actually sell: None offers the Windows app being advertised. According to Allure, the campaign impersonates three unnamed US-based HR and payroll platforms by offering fake desktop clients for those providers’ software. In all three cases, those companies don’t offer a desktop client, meaning all it takes is an unaware HR or payroll clerk tricked by promises of superior performance to potentially expose some incredibly sensitive company data. Allure said that it’s not sure how potential victims are being targeted by the campaign either, but those who have been targeted may not pick up on anything being wrong. Clicking through to the website offering the fake app brings up a legitimate-looking site built using AI app builder Lovable and hosted on Vercel. The site is hidden behind the c
 
-### Bitget blames North Korea for $387.5M crypto wallet raid
-Fri, 25 Sep 2026 19:04:07 +0200 — https://www.theregister.com/cyber-crime/2026/09/25/bitget-blames-north-korea-for-3875m-crypto-wallet-raid/5299218
-
-The CEO of crypto exchange Bitget has confirmed that a cyberattack with all the hallmarks of a North Korean operation resulted in approximately $387.5 million worth of digital assets being stolen from the exchange’s wallets. Bitget initially estimated the loss at $351.6 million, but later revised the figure to $387.5 million after identifying additional affected assets on Zcash and TRON that were not included in the initial estimate. Blockchain intelligence company Arkham published its preliminary observations of the attack, estimating at the time that roughly $350 million was stolen and that $228 million left Bitget’s wallets in 18 minutes, between 18:58 and 19:16 UTC. Arkham said $153 million worth of XRP was taken from a wallet it identified as a Bitget cold wallet, while the stolen assets also included $66.2 million of ETH, $34.8 million of USDT, $12.9 million of USDC, and $12.8 million of Tether Gold on Ethereum. Other affected networks included Arbitrum, Optimism, BNB Smart Chain, Avalanche, and Base. However, Chen said Bitget's cold wallets and customer balances remained unaffected, while its User Protection Fund held more than $464 million worth of assets. “To be transparent about our financial position: beyond the $464M+ Protection Fund – all held in publicly verifiable wallets – Bitget holds over $1 billion in its own assets,” Chen said. “User funds are covered on a 1:1 basis.” Chen also explained that Bitget Wallet, the company’s self-custody product, operates on i
-
 ## Engadget
+
+### How to improve your router's security in 10 minutes
+Sun, 27 Sep 2026 15:15:00 +0000 — https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/
+
+Most internet routers are solid out of the box, but that doesn't mean they can't be made more secure. Often, all you need to do is tweak a few settings.
+
+### Why you should avoid holding down your PC's power button
+Sun, 27 Sep 2026 14:45:00 +0000 — https://www.engadget.com/2267392/why-important-reboot-pc-menu-not-power-button/
+
+There are often times when your PC hangs and you need to perform a hard shutdown, but there are a number of reasons why doing it regularly could cause issues.
+
+### Why letting Claude clean your TV's bloatware isn't the best idea
+Sun, 27 Sep 2026 14:15:00 +0000 — https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/
+
+Don't let an AI bot potentially crash your TV.
+
+### Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?
+Sun, 27 Sep 2026 13:45:00 +0000 — https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/
+
+Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.
+
+### Why it's important to not put your PC on the floor
+Sun, 27 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2267888/why-its-important-to-not-put-pc-floor/
+
+If you're not going to put it on your desk, at least do these things.
+
+### Humanoid robots are getting even creepier (this one can cry on command)
+Sun, 27 Sep 2026 13:15:00 +0000 — https://www.engadget.com/2266933/humanoid-robot-cries-on-command/
+
+Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation.
+
+### How to use the Live Text feature on your iPhone
+Sun, 27 Sep 2026 12:45:00 +0000 — https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/
+
+There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more.
+
+### iPhone Duo vs Microsoft Surface Duo: One name, two very different devices
+Sun, 27 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/
+
+A brief history of Duo foldables.
+
+### How to use Android apps on your Windows PC (and why you might want to)
+Sun, 27 Sep 2026 12:15:00 +0000 — https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/
+
+With the right software, you can run Android apps on your Windows PC. Here's why you may want to and how to get it set up on your own computer.
 
 ### Why we won't know how visible the iPhone Duo's crease is for a long time
 Sun, 27 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/
@@ -317,52 +362,12 @@ Sat, 26 Sep 2026 23:45:00 +0000 — https://www.engadget.com/2267877/your-old-gp
 
 Your old GPU could be a goldmine thanks to the RAMaggedon.
 
-### Why your iPhone hates printer cables
-Sat, 26 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2266565/why-iphone-hates-printer-cables/
-
-AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported.
-
-### How to factory reset your Google Home Mini
-Sat, 26 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/
-
-Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it.
-
-### iPhone 18 Pro vs. iPhone 17 Pro: What's new?
-Sat, 26 Sep 2026 22:45:00 +0000 — https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/
-
-The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?
-
-### How high is too high for speakers in your home sound system?
-Sat, 26 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/
-
-Too much height makes dialogue and fine details sound less direct.
-
-### Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones
-Sat, 26 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/
-
-Phone manufacturers are pretty direct in their guidance on this one.
-
-### This external GPU uses Wi-Fi to transform any device into a gaming rig
-Sat, 26 Sep 2026 19:45:00 +0000 — https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/
-
-The WiCi One is available for preorders starting at $1,999.
-
-### Minecraft is getting a new dimension called The Sift in 2027
-Sat, 26 Sep 2026 19:19:53 +0000 — https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/
-
-The Sift will first be released with Minecraft Dungeons 2 later this month before arriving in the base game.
-
-### What type of power cord does a PS5 use?
-Sat, 26 Sep 2026 18:45:00 +0000 — https://www.engadget.com/2265348/playstation-power-cord-what-type/
-
-You probably don't think much about your PlayStation's power cord unless it needs to be replaced. If that time comes, here's what to know.
-
-### You can use your old laptop to make a smart home hub
-Sat, 26 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2265491/you-can-use-your-old-laptop-to-make-a-smart-home-hub/
-
-An old netbook can automate the devices that otherwise aren't interested in talking to one another.
-
 ## TechCrunch
+
+### Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises
+Sun, 27 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/
+
+I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.
 
 ### PNOE s new face mask wants to make lab-grade breath testing a self-serve affair
 Sun, 27 Sep 2026 01:40:30 +0000 — https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
@@ -418,9 +423,4 @@ After days of upheaval at Automattic, following a failed attempt to remove CEO M
 Fri, 25 Sep 2026 22:20:47 +0000 — https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
 
 AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
-
-### Meta opens early access program for new Muse features
-Fri, 25 Sep 2026 20:34:53 +0000 — https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
-
-Anyone interested in joining has to ask Muse to put them on the list.
 

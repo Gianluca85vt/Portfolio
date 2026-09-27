@@ -1,6 +1,31 @@
-# Manga — harvested 2026-09-27T10:12:30.754Z
+# Manga — harvested 2026-09-27T15:17:53.407Z
 
 ## Anime News Network
+
+### Killing Bites' Shinya Murata Launches New Fantasy Ninja Manga
+Sun, 27 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/killing-bites-shinya-murata-launches-new-fantasy-ninja-manga/.242226
+
+<cite>Shinoblade SHINOBI BLADE</cite> debuted on September 25
+
+### One Peace Books Adds 'My Life Turned Around: After I Was Betrayed and Framed, I Won the Heart of the Most Beautiful Girl at School' Manga
+Sun, 27 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/one-peace-books-adds-my-life-turned-around-after-i-was-betrayed-and-framed-i-won-the-heart-of-the-/.242211
+
+Manga launches in English on July 20, 2027
+
+### Monster Strike Franchise Gets New Mera×Death: Shinigami to Boku no Ijō na Koi TV Anime Starting on January 5
+Sun, 27 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/monster-strike-franchise-gets-new-mera-death-shinigami-to-boku-no-ijo-na-koi-tv-anime-starting-on-/.242234
+
+Promo video, key visual, full staff revealed
+
+### 'Welcome to Demon School, Iruma-kun' Anime Unveils 1st Film Project
+Sun, 27 Sep 2026 06:39:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/welcome-to-demon-school-iruma-kun-anime-unveils-1st-film-project/.242238
+
+Original manga also celebrates 10th anniversary in March 2027
+
+### We Are Aliens Film, Eri Short Anime, Candy Caries Win at Ottawa Int'l Animation Festival
+Sun, 27 Sep 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/we-are-aliens-film-eri-short-anime-candy-caries-win-at-ottawa-intl-animation-festival/.242232
+
+<cite>We Are Aliens</cite> wins Grand Prize for Animated Feature, <cite>Eri</cite> wins Best Animated Short Award, <cite>Candy Caries</cite> won at Animation for Young Audiences 7+ category
 
 ### Millennium Family TV Anime Casts Lynn
 Sun, 27 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/millennium-family-tv-anime-casts-lynn/.242233
@@ -37,36 +62,26 @@ Sat, 26 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/welc
 
 And so ends another season with the Misfit Class. Luckily the English translation of the manga has caught up with the anime, so we won't have to wait to find out what happens next.
 
-### Chizu Kamikō's Seijo Mellia to Sennen Ōkoku no Kishi Manga Ends
-Sat, 26 Sep 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/chizu-kamiko-seijo-mellia-to-sennen-okoku-no-kishi-manga-ends/.240200
-
-Series about girl who cannot use magic debuted in 2021
-
-### Young Ladies Don't Play Fighting Games ‒ Episode 12
-Sat, 26 Sep 2026 07:31:22 -0400 — https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-12/.242212
-
-Overall thoughts? Not quite anime of the season material, but certainly a weekly highlight all the same.
-
-### Future GPX Cyber Formula's New Anime Short Reveals Cast, Staff, Screening on February 19
-Sat, 26 Sep 2026 01:37:39 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/future-gpx-cyber-formula-new-anime-short-reveals-cast-staff-screening-on-february-19/.242205
-
-Short will screen alongside new HD remastered "movie edition" of <cite>Future GPX Cyber Formula: Early Days Renewal</cite> compilation OVA
-
-### Starbucks Japan Introduces 1st Pokémon Collaboration
-Fri, 25 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-25/starbucks-japan-introduces-1st-pokemon-collaboration/.242180
-
-Your favorite Pokémon now come in coffee form
-
-### North American Anime, Manga Releases, September 20-26
-Fri, 25 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/north-american-anime-manga-releases-september-20-26/.242064
-
-<cite>ChaO</cite> anime; <cite>Cells at Work! Cat, Mage of Leda, Servant Beasts</cite> manga ship
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Mushoku Tensei Season 3 Cour 2 Officially Announced
+Sun, 27 Sep 2026 15:08:13 GMT — https://animecorner.me/mushoku-tensei-season-3-cour-2-officially-announced/
+
+Mushoku Tensei: Jobless Reincarnation Season 3 anime announced a Cour 2 after Episode 14 finished airing on September 27.
+
+### One Piece Anime to Continue in 2027, Finished for This Year After Episode 1180
+Sun, 27 Sep 2026 14:53:29 GMT — https://animecorner.me/one-piece-anime-to-continue-in-2027-finished-for-this-year-after-episode-1180/
+
+ONE PIECE TV anime announced a 2027 return following the release of Episode 1180, this year's final episode, on September 27.
+
+### Welcome to Demon School! Iruma-kun First Theatrical Anime Film Project Announced
+Sun, 27 Sep 2026 10:40:28 GMT — https://animecorner.me/welcome-to-demon-school-iruma-kun-first-theatrical-anime-film-project-announced/
+
+Welcome to Demon School! Iruma-kun is officially getting its first theatrical anime film project, with an announcement video revealed.
 
 ### Imu Uses Domi Reversi in One Piece Episode 1180 Preview
 Sun, 27 Sep 2026 08:09:39 GMT — https://animecorner.me/imu-uses-domi-reversi-in-one-piece-episode-1180-preview/
@@ -113,22 +128,17 @@ Sat, 26 Sep 2026 10:03:03 GMT — https://animecorner.me/code-geass-new-anime-an
 
 A new Code Geass anime titled Star Chaser Aspal announced for 2027, revealing its teaser trailer, visual, as well as the main staff.
 
-### The Fake Alchemist Reveals First PV and Key Production Details
-Sat, 26 Sep 2026 00:40:08 GMT — https://animecorner.me/the-fake-alchemist-reveals-first-pv-and-key-production-details/
-
-The production committee for The Fake Alchemist (Nisemono no Renkinjutsushi)has released a promotional video&hellip;
-
-### Summer 2026 Anime Rankings – Week 12
-Fri, 25 Sep 2026 14:00:00 GMT — https://animecorner.me/summer-2026-anime-rankings-week-12/
-
-Mushoku Tensei: Jobless Reincarnation Season 3 ends the Summer 2026 weekly rankings with its third consecutive win, narrowly beating Re:ZERO Season 4 by just 0.17 percentage points.
-
-### The Apothecary Diaries Season 3 New Trailer Previews Ending Song by Eve
-Fri, 25 Sep 2026 11:06:53 GMT — https://animecorner.me/the-apothecary-diaries-season-3-new-trailer-previews-ending-song-by-eve/
-
-The Apothecary Diaries Season 3 revealed a new trailer and ending theme song by Eve ahead of its October 2, 2026 premiere.
-
 ## MyAnimeList News
+
+### New Monster Strike: Mera×Death: Shinigami to Boku no Ijou na Koi Announced for Winter 2027
+Sun, 27 Sep 2026 05:25:21 -0700 — https://myanimelist.net/news/74765539?_location=rss
+
+Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) on Sunday. The official website also revealed the production staff, a key visual (pictured), and the first promotional video. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5, 2027. Staff...
+
+### Mairimashita! Iruma-kun Anime Movie Announced
+Sun, 27 Sep 2026 03:43:31 -0700 — https://myanimelist.net/news/74765400?_location=rss
+
+The Mairimashita! Iruma-kun (Welcome to Demon School! Iruma-kun) special event "Devils Party 2" announced an anime movie project for the franchise on Sunday. The official website also revealed an announcement image (pictured above) and announcement promo. Produced by Bandai Namco Pictures, the first season aired in 23 episodes in Fall 2019. The second and third seasons ran for 21 episodes in Spring 2021 and Fall 2022, respectively. The 24-episode fourth season premiered on April 4 and...
 
 ### Toshio Masuda, Director of Uchuu Senkan Yamato Movies, Dies at 98
 Sat, 26 Sep 2026 18:02:15 -0700 — https://myanimelist.net/news/74764175?_location=rss
@@ -165,9 +175,4 @@ High school basketball team members Sou and his childhood friend Touma are in a 
 Sat, 26 Sep 2026 09:00:40 +0000 — https://animeuknews.net/2026/09/the-princess-groom-volume-1-review/
 
 Square Enix Manga brings us a new fantasy romance, but with a twist! A prince who dreams of being doted on and a boisterous noble lady who wants to shower her husband-to-be with affection.
-
-### Crunchyroll Announces Home Entertainment Release Schedule October-November 2026
-Fri, 25 Sep 2026 14:05:17 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-home-entertainment-release-schedule-october-november-2026/
-
-Crunchyroll announces Suzume in 4K, Clevatess Season 1, Sailor Moon (Steelbook) and more released on Blu-ray™ between October and November for the UK.
 

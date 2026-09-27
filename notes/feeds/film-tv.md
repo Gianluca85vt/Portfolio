@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-09-27T10:12:30.754Z
+# Film & TV — harvested 2026-09-27T15:17:53.407Z
 
 ## Variety
+
+### ‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’
+Sun, 27 Sep 2026 15:12:34 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/
+
+“Godzilla Minus One” made franchise history in 2024 when it won Best Visual Effects at the 96th Academy Awards, becoming the first Godzilla film to win an Oscar. Now, after Takashi Yamazaki’s highly anticipated sequel, “Godzilla Minus Zero,” premiered to rave reviews at the New York Film Festival, some fans are already calling for a [ ]
+
+### Anna Kendrick ‘Over the Moon’ About Directing ‘The Seven Husbands of Evelyn Hugo,’ Compares ‘Pitch Perfect’ Friendships to the Avengers
+Sun, 27 Sep 2026 15:12:33 +0000 — https://variety.com/2026/film/global/anna-kendrick-seven-husbands-of-evelyn-hugo-pitch-perfect-1236876812/
+
+Anna Kendrick, who is at the Zurich Film Festival for the European premiere of Lauren Miller Rogen’s “Babies,” spoke briefly about her next directorial project, “The Seven Husbands of Evelyn Hugo.” Back in June, it was announced that Kendrick would direct the Netflix film, adapted from Taylor Jenkins Reid s best-selling novel. “Obviously, over the moon [ ]
+
+### Naomi Watts Talks Menopause – I Was Crying in the Bathroom, Trying to Scratch Off My Estrogen Patch – Recalls Being Told She ‘Freaked People Out’ Early in Her Career: ‘Yeah, No Shit. I Was Desperate, Behind on My Rent and Getting Evicted’
+Sun, 27 Sep 2026 13:14:13 +0000 — https://variety.com/2026/film/awards/naomi-watts-mullholland-drive-early-career-menopause-1236876797/
+
+Naomi Watts waited a long time to become a star. “It was a grind. That 10 years before I met David, I became so locked up and I felt worthless. My agent pulled me aside and she said: ‘We need to have a heart to heart. Honey, you are too intense. You are freaking people [ ]
+
+### Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’
+Sun, 27 Sep 2026 11:54:24 +0000 — https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/
+
+Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or [ ]
+
+### Beyond Frontman Doc Because of You Ka Kui to Open U.K. s Odyssey Film Festival, Lands Local Distribution (EXCLUSIVE)
+Sun, 27 Sep 2026 10:17:20 +0000 — https://variety.com/2026/film/news/beyond-frontman-doc-because-of-you-ka-kui-odyssey-fest-1236876790/
+
+Because of You Ka Kui, a documentary on the late Beyond frontman Wong Ka Kui, will open the sixth Odyssey Film Festival in the U.K., with NGO U.K.-China Film Collab also picking up the Hong Kong film for local distribution. Discussions began in March at FilMart in Hong Kong, which U.K.-China Film Collab attended with [ ]
 
 ### Jia Zhangke Readies Zhao Tao Road Movie Mamma Dunhuang, Rules Out AI in Production (EXCLUSIVE)
 Sun, 27 Sep 2026 09:19:02 +0000 — https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/
@@ -27,32 +52,22 @@ Sun, 27 Sep 2026 03:58:54 +0000 — https://variety.com/2026/tv/news/jalen-bruns
 
 Jalen Brunson s Saturday Night Live monologue featured some familiar faces, as the remaining members of the Knicks starting five visited Studio 8H to roast their team captain. But before Karl-Anthony Towns, Josh Hart, Mikal Bridges and OG Anunoby appeared on screen, Kenan Thompson took the stage as ESPN pundit Stephen A. Smith. Let me say [ ]
 
-### Jon Watts to Direct Next ‘Star Wars’ Movie
-Sun, 27 Sep 2026 02:04:00 +0000 — https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/
-
-A new “Star Wars” movie is currently in development with director Jon Watts attached. Watts is best known for directing the popular “Spider-Man” trilogy starring Tom Holland, which includes 2017’s Spider-Man: Homecoming,” 2019’s “Spider-Man: Far From Home,” and 2021’s “Spider-Man: No Way Home.” (2026’s “Spider-Man: Brand New Day” was directed by Destin Daniel Cretton.) Before [ ]
-
-### ‘Godzilla Minus Zero Director Champions Franchise’s First R Rating as Sequel Rocks NYFF at World Premiere: ‘Censoring’ the Action ‘Was Not an Option’
-Sun, 27 Sep 2026 01:08:45 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-r-rated-takashi-yamazaki-nyff-1236876643/
-
-“Godzilla Minus Zero” blew the roof off Alice Tully Hall during its rapturous world premiere screening at the New York Film Festival. The long-awaited sequel to 2023’s “Godzilla Minus One” earned rave first reactions from the press earlier in the day, and that adoration rolled right into the world premiere. The movie was met with [ ]
-
-### Godzilla Minus Zero Review: Godzilla and King Ghidorah Battle to the Death in the Even Grander Follow-Up to Godzilla Minus One
-Sun, 27 Sep 2026 00:30:00 +0000 — https://variety.com/2026/film/reviews/godzilla-minus-zero-review-takashi-yamazaki-nyff-1236876075/
-
-Yamazaki, who rebooted the genre and took it to a new peak in the revelatory 2023 retro kaiju classic "Godzilla Minus One," works with a quality that none of the filmmakers of recent decades has summoned: a fairy-tale innocence, an immersion in the annihilating heavy-metal poetry of Godzilla — the way the destruction of a city can become a spectacle out of a dream (which is to say, a national nightmare). In "Godzilla Minus Zero," when Godzilla and King Ghidorah go at it, it’s more than a WWE match of primeval rivals. It’s a clash of the titans that will reduce everyone in the audience to a wide-eyed, jaw-dropped child.
-
-### Robert Pattinson Says It Would Be ‘Tough’ for His Batman to Exist Within James Gunn’s DCU
-Sun, 27 Sep 2026 00:04:39 +0000 — https://variety.com/2026/film/news/robert-pattinson-batman-superman-james-gunn-1236876674/
-
-Superman and Batman might be one of the DC Universe’s most famous partnerships, but Robert Pattinson is officially ending speculation that his take on Bruce Wayne would fit in the cinematic world created by James Gunn. “I think it would be kind of tough to have this version of Bruce outside of that world, Pattinson [ ]
-
-### ‘Jack Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos Film News in Brief
-Sat, 26 Sep 2026 23:52:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-sept-21-2026-1236867385/
-
-“Jack Christine,” a thriller short film starring John Hawkes, released the first trailer ahead of its world premiere at Beyond Fest on Sunday. The trailer shows married couple Jack (Luke Barnett) and Christine (Nikki Lorenzo) hosting a dinner party that suddenly spirals into an intense, chaotic evening when a guest (Hawkes) from the couple’s [ ]
-
 ## The Hollywood Reporter
+
+### WNBA Playoffs 2026: Where to Watch Post-Season Women s Basketball Games Live Online
+Sun, 27 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-stream-wnba-playoffs-2026-basketball-live-online-free-1236710073/
+
+Women's basketball fans have plenty of options to catch games during the playoffs — here's how.
+
+### Where to Watch the Chargers vs. Bills Game Live Online
+Sun, 27 Sep 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chargers-vs-bills-game-live-nfl-streams-2026-1236712793/
+
+The NFL Week 3 game is set for Sunday, Sept. 27 at the Buffalo Bills' new $2.1 billion Highmark Stadium.
+
+### John Turturro on Joining the Oscar Race — and Severance Season 3
+Sun, 27 Sep 2026 10:39:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/john-turturro-oscar-pickpocket-new-york-severance-zurich-1236712804/
+
+The Zurich Golden Eye winner sat down for a masterclass session in Switzerland, where he spoke about the long-overdue buzz for his latest performance in 'The Only Living Pickpocket in New York.'
 
 ### Hints of Sex and the City and Narcos : A Look at Literary Works Being Pitched for Screen Adaptations at Iberseries Platino Industria
 Sun, 27 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/book-screen-adaptation-pitches-iberseries-platino-industria-1236696290/
@@ -89,22 +104,17 @@ Sat, 26 Sep 2026 21:48:36 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The 80-year-old actor recalls the period of his life where his physique became an "obsession."
 
-### Mike Leigh s Tender Loving Care Sweeps San Sebastian Awards as La Bola Negra, NAZA Earn Audience Nods
-Sat, 26 Sep 2026 20:49:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-tender-loving-care-san-sebastian-awards-festival-1236712566/
-
-Amanda Kernell's 'Brace Your Heart' won the Swedish-Sami filmmaker the Silver Shell for best director as the Spanish film fest wrapped up its 74th edition, the last for outgoing director Jose Luis Rebordinos.
-
-### Jalen Brunson and KATSEYE Kick Off SNL Season 52: Where to Watch the Premiere Online
-Sat, 26 Sep 2026 20:43:16 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-jalen-brunson-host-snl-season-52-premiere-free-katseye-1236712478/
-
-Both the Knicks star and girl group are set for their 'Saturday Night Live' debuts, the former as host and the latter as premiere week's musical guest.
-
-### Reba McEntire Reveals She Missed a Call From Dolly Parton Before Her Death: I ll Never Know Why She Called
-Sat, 26 Sep 2026 20:16:47 +0000 — https://www.hollywoodreporter.com/music/music-news/reba-mcentire-missed-call-dolly-parton-before-death-1236712561/
-
-"I tried to get back in touch with her and I couldn’t," McEntire said to Entertainment Tonight.
-
 ## Deadline
+
+### FilmNation CEO Glen Basner Talks Art Of Film Sales Financing: “It s Really Just About Sitting Listening To The Filmmaking Team” Zurich Summit
+Sun, 27 Sep 2026 13:59:44 +0000 — https://deadline.com/2026/09/filmnation-ceo-glen-basner-sales-honor-talk-zurich-summit-1237114682/
+
+FilmNation Entertainment Founder and CEO Glen Basner will receive the Game Changer Award this evening at the Zurich Summit, the annual industry event aimed at fostering transatlantic connections taking place within the Zurich Film Festival. As part of the honor, Basner participated in an onstage conversation on Saturday moderated by German Oscar-winning director Edward Berger. [ ]
+
+### Film Execs Ponder Federal Film Tax Credit Impact, Timeline Potential Price Rises Zurich Summit
+Sun, 27 Sep 2026 11:43:46 +0000 — https://deadline.com/2026/09/federal-film-tax-incentives-impact-timeline-price-rises-1237114676/
+
+At this weekend s Zurich Summit a group of film financiers were asked by Deadline for their thoughts on the prospects of a U.S. federal film incentive. Last week, a bipartisan group of lawmakers unveiled the bill for a 20% incentive, which with bonuses could bring the total rebate to 30%. The move has long been [ ]
 
 ### How SNL Introduced Season 52 s New Cast Members Saidah Belo-Osagie Grace Reiter
 Sun, 27 Sep 2026 05:10:35 +0000 — https://deadline.com/2026/09/snl-new-cast-members-season-52-skits-1237114592/
@@ -156,21 +166,16 @@ Sat, 26 Sep 2026 22:10:21 +0000 — https://deadline.com/2026/09/sylvester-stall
 
 As Sylvester Stallone made his breakout performance in Rocky, there was one person he couldn t quite turn into a fan. While discussing his memoir The Steps, releasing Oct. 23, the 3x Oscar nominee recalled things on set getting really nasty after giving his real father Frank Stallone Sr. a cameo as the bell ringer in [ ]
 
-### UK Prime Minister Andy Burnham Nearly Joins Oasis, But There s Something A Bit Off About The Gallagher Brothers In SNL UK Cold Open
-Sat, 26 Sep 2026 21:21:13 +0000 — https://deadline.com/2026/09/snl-uk-andy-burnham-joins-oasis-russian-spies-1237114551/
-
-There was something a bit off about Oasis sometimes feuding-yet-touring brothers in the Saturday Night Live UK cold open this week. SNL UK kicked off its Season 2 Episode 3 with new UK Prime Minister Andy Burnham, played by George Fouracres, returning to his beloved home of Manchester following a speech to the UN where [ ]
-
-### San Sebastián: Mike Leigh’s ‘Tender Loving Care’ Wins Golden Shell Best Screenplay
-Sat, 26 Sep 2026 20:43:35 +0000 — https://deadline.com/2026/09/san-sebastian-mike-leigh-tender-loving-care-golden-shell-1237114543/
-
-Mike Leigh’s latest and potential last feature, Tender Loving Care, has won the San Sebastián Film Festival’s top prize, the Golden Shell, alongside the award for Best Screenplay. Scroll down for the full list of winners. Leigh’s Tender Loving Care also won the Silver Shell for Best Leading Performance for actress Kate O Flynn, who shared [ ]
-
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### A24 s Primetime Opens to Impressive $19.2 Million, Proving Robert Pattinson s Box Office Drawing Power
+Sun, 27 Sep 2026 14:27:27 +0000 — https://www.indiewire.com/news/box-office/a24-primetime-box-office-opening-robert-pattinson-star-power-1235218868/
+
+Pattinson's road to commercial viability has been bumpy at times, but with "The Drama" and "The Odyssey,” he's having one hell of a 2026.
 
 ### Godzilla Minus Zero Review: The King of the Monsters Returns with a Direct Sequel That s One Better Than the Last Movie in Almost Every Way
 Sun, 27 Sep 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/
@@ -216,21 +221,6 @@ With his "The Plot Thickens" podcast focused on Kubrick this season, Mankiewicz 
 Fri, 25 Sep 2026 15:27:13 +0000 — https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/
 
 "Avengers: Endgame Encore" earns a mighty $3.8 million as it returns to theaters.
-
-### Brad Pitt and David Ayer Had None of Your Typical Film Set Comforts on the Survival Thriller Heart of the Beast
-Fri, 25 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/features/podcast/heart-of-the-beast-director-david-ayer-interview-brad-pitt-1235218183/
-
-Ayer tells IndieWire's Filmmaker Toolkit podcast about the challenges of telling an adventure story about a man and his dog, where the project's stripped-down nature makes every decision exponentially more important.
-
-### Congress Must Act to Support Cinemas Tax Credit and Keep Movies on Main Street
-Fri, 25 Sep 2026 14:24:01 +0000 — https://www.indiewire.com/news/analysis/congress-tax-credit-cinema-theater-upgrades-op-ed-1235218635/
-
-In an op-ed, four independent exhibitors push for the passage of the SCREEN Act, a tax break for movie theater reinvestment.
-
-### The Gilded Age Musical Is Finally Happening — as a Christmas Album
-Fri, 25 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/news/breaking-news/gilded-age-christmas-album-cast-musical-episode-hbo-1235218372/
-
-"Voices of The Gilded Age: The Christmas Album" puts the HBO series' cast of Broadway stars to proper use, with Audra McDonald, Carrie Coon, Christine Baranski, Kelli O'Hara, Morgan Spector, and more performing a slew of holiday classics and two new songs.
 
 ## The Wrap
 
@@ -286,53 +276,53 @@ Backrooms director Kane Parsons voiced his resistance to calling his hit debut f
 
 ## Collider
 
-### 8 Greatest Superhero Movie Trilogies of All Time, Ranked
-Sun, 27 Sep 2026 10:01:11 GMT — https://collider.com/best-superhero-movie-trilogies-all-time-ranked/
+### 'The X-Files’ Most Ambitious Episode Broke Its Most Frustrating 6-Year Trend
+Sun, 27 Sep 2026 15:11:11 GMT — https://collider.com/the-x-files-millennium-episode-mulder-scully-kiss/
 
-Sure, it's one thing to make one good superhero movie — that's challenging enough as it is. However, when it comes to major franchises, the movies never stop at the first release; most studios opt for the trilogy format for their series. Over the many decades that superhero films have reigned over cinema, there have been numerous trilogies that have hit screens.
+TV fans today complaining about slow burns must have missed out on The X-Files craze of the 1990s and early-2000s. The series was infamous for teasing a romance between its two protagonists — Agent Fox Moulder ( David Duchovny ) and Dr. Dana Scully ( Gillian Anderson ) — without ever defining their relationship. In fairness, the agents had other things to worry about. In fact, they were right in the middle of the show's biggest serialized storyline when the producers finally allowed them to share a kiss on screen. This should have been a relief to fans, but many found it maddening. For one thing, the kiss came without much fanfare or commentary, and for another, it happened at the end of the show's most ambitious installment to date.
 
-### Tom Hanks’ Intense 134-Minute Survival Thriller Is Officially Free to Stream
-Sun, 27 Sep 2026 10:00:11 GMT — https://collider.com/tom-hanks-captain-phillips-streaming-free-tubi-september-2026/
+### Nicolas Cage's Bonkers Sci-Fi Classic Is Officially Coming to Free Streaming
+Sun, 27 Sep 2026 15:10:12 GMT — https://collider.com/knowing-free-streaming-nicolas-cage-roger-ebert-tubi-october/
 
-You'd think being a ship's captain might actually be a glamorous job, but alas, no. There's paperwork, weather reports, a heck of a lot of water, and then there are pirates, which are not as fun as Disney has tried to tell us. Even knowing how the true story ends doesn’t make watching it unfold any less stressful.
+With Nicolas Cage in the middle of yet another comeback — he will soon make an awards bid with the upcoming film Madden — it's a great time to revisit one of the most divisive films of his heyday. The movie in question was released in 2009, just a couple of years after National Treasure: Book of Secrets , and one year before the movie that changed the trajectory of Cage's career: The Sorcerer's Apprentice . The critical and commercial failure of the big-budget fantasy film left Cage struggling to secure leading parts in major movies for the next few years. He bounced back with the acclaimed drama Pig , and then with the chilling supernatural thriller Longlegs .
 
-### 17 Years Later, a Dark Horror Fantasy Masterpiece Is Officially a Streaming Hit
-Sun, 27 Sep 2026 09:40:11 GMT — https://collider.com/coraline-streaming-hit-disney-plus-september-2026/
+### 10 Best Whodunits for Beginners, Ranked
+Sun, 27 Sep 2026 15:04:11 GMT — https://collider.com/best-whodunits-for-beginners-ranked/
 
-It's been seven years since we were treated to a theatrical release by the geniuses at Laika . Their last release was Missing Link , an underrated stop-motion adventure featuring the voices of Hugh Jackman , Emma Thompson , Stephen Fry , and more. The film was sadly a big financial misstep, grossing just $25 million worldwide against a reported production budget of $100 million. Next month, Laika are making their big comeback with the most ambitious project in their acclaimed catalog yet.
+Society has always been fascinated by mysteries . Whether it is a case of true crime or a major conspiracy, the cryptic puzzles and thought-provoking stories have a way of hooking us in with pure intrigue. When it comes to movies, the classic whodunit murder mystery stands to be a majority favorite among film fans who are lured in by life-altering stakes and the unwavering sense of suspense and unpredictability.
 
-### The 10 Best Rivalries in Video Game History, Ranked
-Sun, 27 Sep 2026 09:26:11 GMT — https://collider.com/best-game-rivalries-ranked/
+### Taylor Sheridan’s 2-Part ‘Yellowstone’ Spin-Off Returns This Week
+Sun, 27 Sep 2026 14:30:11 GMT — https://collider.com/marshals-yellowstone-spinoff-taylor-sheridan-season-2-premiere/
 
-A classic rivalry between two distinct, memorable characters has been a staple of narrative storytelling long before the advent of video games, yet something about the medium of gaming has made it perfect for the concept and longevity of many memorable rivalries. From an iconic hero constantly going toe-to-toe with an equally iconic villain to the rivalries that eventually form a sense of camaraderie and respect, actively playing as one or both of the characters in these rivalries makes them that much more impactful and memorable.
+While his day-to-day involvement in the Yellowstone franchise appears to be only tangential, Taylor Sheridan remains a vital asset for the Paramount+ streaming service. He's currently in a transitional phase, having severed ties with Paramount and partnered with NBCUniversal, but several of his hit shows continue to air in his former streaming home. This year alone, Sheridan has released the brand-new neo-Western series The Madison , which has been renewed for a second season. He also expanded the Yellowstone franchise with two follow-ups, Marshals and Dutton Ranch . More recently, he delivered the third season of his spy thriller series Lioness , with the fourth season of his crime show Tulsa King lined up next. Around the same time, the Yellowstone franchise will continue its expansion with the return of its least-liked installment.
 
-### One of the Greatest Sci-Fi Nightmares Ever Made Is Officially Streaming for Free
-Sun, 27 Sep 2026 09:20:11 GMT — https://collider.com/alicia-vikander-ex-machina-streaming-free-roku-channel-september-2026/
+### Joel McHale's 'Animal Control' Is Still One of TV's Best-Kept Secrets | Review
+Sun, 27 Sep 2026 14:00:11 GMT — https://collider.com/animal-control-season-5-review-joel-mchale/
 
-Artificial intelligence is perennially in the news at the moment, isn't it? The threat of it becoming sentient is very topical, so imagine giving it a face, locking it underground, and asking a lonely programmer to determine whether it can manipulate him. It feels like actively tempting fate. Add in an eccentric tech billionaire, and you've either got what's happening at OpenAI, or the most eerie sci-fi of the 2010s .
+Five seasons is no small miracle for a sitcom that feels like one of TV’s best-kept secrets. Fox’s Animal Control continues to blend the deliciously funny workplace chaos of Brooklyn Nine-Nine with the easy ensemble chemistry of Parks and Recreation . But amid the wild animal calls and shenanigans that give the series its own brand of nonsense from showrunners Bob Fisher , Rob Greenberg , and Dan Sterling , it’s also delivering one of its best seasons to date . After all, where else can you find a show that makes a puppy mill raid look like a Michael Bay movie, but ends with a $63 citation fee?
 
-### One of Horror’s Most Influential Movies Is Officially Free to Stream
-Sun, 27 Sep 2026 09:00:11 GMT — https://collider.com/nosferatu-fw-murnau-horror-classic-streaming-free-justwatch-tv-september-2026/
+### Alan Ritchson’s ‘John Wick’ Replacement Officially Hits 30-Day Digital Milestone
+Sun, 27 Sep 2026 13:50:11 GMT — https://collider.com/motor-city-alan-ritchson-digital-chart-30-day-streak/
 
-For a worryingly long period, the Dracula IP had begun to feel slightly cursed. Movies such as Dracula Untold , Renfield , and The Last Voyage of the Demeter all underperformed at the box office and fell short of critical expectations. This changed in 2024 with the release of Robert Eggers ’ Nosferatu — not a direct adaptation of Bram Stoker ’s classic novel, but a remake of a 1922 movie . Nosferatu went on to break the Dracula curse by grossing more than $180 million at the box office and scoring excellent reviews. However, we have yet to see a modern movie with “Dracula” in the title breaking the sorry streak.
+While Robert Pattinson continues his terrific year with Primetime , Alan Ritchson is proving his popularity across three different platforms. His latest theatrical release, Runner , is on the verge of hitting the $15 million mark after 10 days of release, while his streaming sensation Reacher remains one of the most-watched shows in the world. According to the latest Nielsen report, Reacher remained at number one for the fifth week in a row on the overall streaming charts, with its spin-off series Neagley set to take over when Nielsen shares updated figures. Meanwhile, with streaming and theatrical in his pocket already, an action movie headlined by Ritchson has passed a major milestone on the domestic PVOD market.
 
-### Arnold Schwarzenegger’s Brutal 44-Year-Old Fantasy Epic Officially Lands on Netflix
-Sun, 27 Sep 2026 08:41:11 GMT — https://collider.com/conan-the-barbarian-arnold-schwarzenegger-netflix-streaming-september-2026/
+### The 6 Most Fun Movies Released Since 2020, Ranked
+Sun, 27 Sep 2026 13:31:11 GMT — https://collider.com/most-fun-movies-since-2020-ranked/
 
-Fantasy heroes these days love a quip, or just talking their way out of trouble, but you know what? Sometimes you just want an enormous Austrian man with a badass sword, a tiny loin cloth, and the most basic desire to kill the ever-loving heck out of the guy responsible for murdering his family. And when you throw in an evil snake cult and one of the greatest fantasy scores ever recorded, you've got 129 wonderfully excessive minutes of the most pure 1980s' fantasy imaginable .
+Entertainment value is a subjective quality among different audiences , and the biggest discrepancy between fans and cinephiles is what constitutes “fun.” Although the term “fun” can be used in an almost disparaging way to describe or defend lazy blockbuster or franchise films that exist only to satisfy Internet commenters , cinema was created as a form of entertainment as much as it was a form of art, and there is no shame in making something that is unabashedly entertaining. The aftermath of the COVID-19 pandemic and the consequences that it had on the global box office has ensured that pure escapism is more desired than ever before, especially when audiences are seeking escapism. Although the box office has taken some significant hits in recent years due to factors that are beyond the control of any one studio, there does seem to be a conscious desire from audiences to turn cinemagoing into a communal experience once more.
 
-### The Divisive Crime Classic That Quentin Tarantino Adores Officially Hits Free Streaming
-Sun, 27 Sep 2026 08:20:11 GMT — https://collider.com/foxy-brown-pam-grier-exploitation-movie-streaming-free-justwatch-tv/
+### Jon Hamm’s New True Crime Series Officially Defeats Titus Welliver's ‘Bosch’ Replacement
+Sun, 27 Sep 2026 13:15:11 GMT — https://collider.com/american-hostage-the-westies-streaming-charts-jon-hamm-titus-welliver/
 
-Director Zack Snyder has described himself in several recent interviews as a self-aware filmmaker, despite the seemingly dour tone of his films. Snyder said that he operates on a high-kitsch wavelength, and that his movies are designed to provoke. He may as well have been talking about his contemporary, Quentin Tarantino . A vocal fan of exploitation cinema that very often wasn’t self-aware , Tarantino has taken these influences and elevated them to high art in his movies. Now, one of his favorite exploitation movies is available to stream for free in the United States on a brand-new platform.
+It's the season of crime on streaming, with the recently released Unabomber movie jumping to the top of the Netflix viewership charts. Meanwhile, the latest seasons of Guy Ritchie 's The Gentlemen and MobLand are enjoying continued success on their respective platforms, while another face-off unfolds on MGM+. The Westies , a crime drama series headlined by J.K. Simmons and Titus Welliver , had been enjoying relative freedom for the past several weeks, facing competition only in the form of the sci-fi series From . More recently, however, a new crime series has offered a fresh challenge to The Westies , replacing it as the number-one series domestically on MGM+.
 
-### 2026's Best Survival Horror Movie Officially Passes a Major Streaming Milestone
-Sun, 27 Sep 2026 08:00:11 GMT — https://collider.com/send-help-streaming-hit-hulu-september-2026/
+### Kevin Costner’s Forgotten ‘Taken’ Dupe Is Officially Leaving Streaming
+Sun, 27 Sep 2026 12:45:11 GMT — https://collider.com/kevin-costner-3-days-to-kill-leaving-starz-october-2026/
 
-It's hard to remember a better year for horror than 2026. Although we are still only nine months in, the devil's favorite genre has been blessed with a selection of decade-defining entries. This includes A24's Backrooms , which transformed a viral internet creepypasta into a box office success that propelled 20-year-old filmmaker Kane Parsons to record-breaking fame. But the standout horror hit of the year, and arguably the greatest horror success story ever, is Curry Barker 's breakout masterpiece, Obsession , which turned a sub-$1 million budget into over $500 million at the box office.
+For all his maverick originality, Kevin Costner can certainly lean into Hollywood trends when he wants to. A few years ago, he and his Man of Steel co-star Diane Lane appeared together in a neo-Western thriller film titled Let Him Go , which was seemingly designed to capitalize on the popularity of Taylor Sheridan 's Yellowstone . Around a decade earlier, following the success of the action thriller Taken , Costner headlined his own alternative. The movie in question is currently streaming in the United States on Starz, but not for much longer.
 
-### 'John Wick' Meets Agatha Christie in This 126-Minute Sleeper Action Hit
-Sun, 27 Sep 2026 04:08:11 GMT — https://collider.com/bullet-train-movie-john-wick-agatha-christie-streaming-hulu-september-2026/
+### Reacher Creator Officially Reveals Why Tom Cruise Finally Took the Role After 7 Years [Exclusive]
+Sun, 27 Sep 2026 12:45:11 GMT — https://collider.com/tom-cruise-jack-reacher-casting-real-reason-lee-child/
 
-If you think your morning commute seems perilous, spare a thought for Brad Pitt’s Ladybug in the 2022 action-comedy Bullet Train . Currently slicing its way up the Hulu charts, the movie takes the world of assassins and puts it on high-speed rails, as a colorful cast of familiar faces clash in the carriages in David Leitch’s inventive, hilarious adaptation of Kōtarō Isaka 's 2010 novel. With kinetic action that evokes the John Wick franchise, and a multi-character mystery worthy of Agatha Christie’s Murder on the Orient Express , it’s been a sleeper hit for action fans.
+Tom Cruise playing Jack Reacher eventually became one of the most controversial casting decisions in modern action movies, but here’s the weird part: he wasn’t originally attached to play him at all. According to Lee Child , Cruise’s involvement with Jack Reacher began behind the scenes, years before he decided he wanted to step in front of the camera.
 

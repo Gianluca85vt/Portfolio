@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-27T10:12:30.754Z
+# Games — harvested 2026-09-27T15:17:53.407Z
 
 ## Eurogamer
+
+### Xbox is reportedly paying a "fraction" of the $400 million Kojima quoted Sony for Physint
+Sun, 27 Sep 2026 14:25:52 +0000 — https://www.eurogamer.net/xbox-kojima-physint-budget-fraction-400-million
+
+A reported $400 million budget for Hideo Kojima 's Physint has already been walked back over the weekend, with multiple outlets now saying Xbox is paying nowhere near that figure for Hideo Kojima's stealth game. Read more
+
+### Minecraft is getting its first new dimension in 14 years, and it's called The Sift
+Sun, 27 Sep 2026 11:20:18 +0000 — https://www.eurogamer.net/minecraft-the-sift-new-dimension-2027
+
+Minecraft maker Mojang has announced The Sift, a new Minecraft dimension that will join the Overworld, the Nether, and The End when it launches on Java and Bedrock in 2027. It's the first new dimension added to the game since The End arrived in 2011. Read more
+
+### Final Fantasy 7 director says Revelation's Platinum trophy will be "easier to get"
+Sun, 27 Sep 2026 10:52:45 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-platinum-trophy-easier-hamaguchi
+
+While Final Fantasy 7 Rebirth was "difficult" to Platinum by "design", sequel Revelation's Platinum trophy will be "easier to get". Read more
 
 ### Minecraft still gains around 300,000 new players a day, Xbox boss reveals
 Sun, 27 Sep 2026 09:32:21 +0000 — https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft
@@ -40,27 +55,12 @@ Skyrim launched almost 15 years ago while The Elder Scrolls 6 is still marinatin
 ### Resident Evil Requiem's made over $500m since release, but the new film didn't have as big of an impact as Capcom's price drops
 Fri, 25 Sep 2026 18:01:19 +0000 — https://www.eurogamer.net/resident-evil-requiem-500-film-capcom-price
 
-Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series has made over $500m (around &pound;377) and counting. Read more
+Resident Evil Requiem is still doing bonkers business while elongating Capcom's generational win streak, but the new big-screen reboot didn't make as big of an impact on game sales as you might expect. Still, according to estimates from Alinea Analytics, the ninth mainline game in the horror series has made over $500m (around &pound;377m) and counting. Read more
 
 ### Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: "Do 665 runs if you want!"
 Fri, 25 Sep 2026 16:58:01 +0000 — https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus
 
 Control Resonant's upside down world is out now, but Remedy Entertainment's not done with the RPG just yet. The Alan Wake and Max Payne maker has detailed some of its post-launch plans for the game, which currently include new outfits, a Photo Mode and a New Game Plus Plus option for anyone who wants to carry their progress over into neverending playthroughs. Read more
-
-### Ubisoft's Mario + Rabbids team reportedly came close to making an "ambitious" Zelda game starring Ganondorf, but it wasn't to be
-Fri, 25 Sep 2026 16:38:48 +0000 — https://www.eurogamer.net/nintendo-ubisoft-mario-rabbids-team-zelda
-
-Ubisoft Milan, the studio behind the acclaimed Mario + Rabbids games, reportedly came close to making a Zelda spin-off starring the series' biggest villain, Ganondorf, instead of regular protagonist Link - but an initially receptive Nintendo eventually pulled the plug on the whole thing. Read more
-
-### Arc Raiders announces a new PvE "test" to accommodate its surprisingly friendly players
-Fri, 25 Sep 2026 15:21:44 +0000 — https://www.eurogamer.net/arc-raiders-pve-matchmaking-test
-
-Embark Studios has announced a new matchmaking test for Arc Raiders that'll allow players to opt into a PvE version featuring none of the usual player-versus-player violence. It's the developer's response to a growing portion of the playerbase apparently uninterested in hurting their raiders-in-arms. Read more
-
-### After nearly 19 years in development hell, Ubisoft's Beyond Good & Evil 2 is somehow still showing signs of life
-Fri, 25 Sep 2026 13:36:42 +0000 — https://www.eurogamer.net/beyond-good-and-evil-2-signs-of-life-writer
-
-Sound the alarm! Alert your loved ones! Nearly 18 years after its original announcement, Beyond Good & Evil 2 apparently still isn't dead, according to a Ubisoft Bordeaux developer who says he's been working on the game for months. Read more
 
 ## GamesIndustry.biz
 
@@ -68,26 +68,6 @@ Sound the alarm! Alert your loved ones! Nearly 18 years after its original annou
 Fri, 25 Sep 2026 15:30:44 +0000 — https://www.gamesindustry.biz/here-is-the-full-line-up-for-the-gamesindustrybiz-hr-summit-2026
 
 The full line-up of this year's GamesIndustry.biz HR Summit has been announced, featuring keynotes from Sarah Venables, founder of the HR Confidence Club; Jonny Hopper, CEO of Glowmade Studio; and Harvey Elliott and Carmen Martino of Playstack. The event is once again sponsored by Amiqus. Read more
-
-### Trophy Games acquires Airport Simulator: First Class developer Playrion from Paradox Interactive
-Fri, 25 Sep 2026 13:56:43 +0000 — https://www.gamesindustry.biz/trophy-games-acquires-airport-simulator-first-class-developer-playrion-from-paradox-interactive
-
-Danish studio Trophy Games has acquired Airport Simulator: First Class developer Playrion from Paradox Interactive. Read more
-
-### Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support
-Fri, 25 Sep 2026 13:07:11 +0000 — https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support
-
-Meta has revealed two AI-powered game tools that let players develop 2D and 3D games using prompts on mobile devices and browsers. Read more
-
-### The Xbox reset doesn't have an end date | Opinion
-Fri, 25 Sep 2026 13:00:00 +0000 — https://www.gamesindustry.biz/the-xbox-reset-doesnt-have-an-end-date-opinion
-
-Asha Sharma marked the conclusion of her first hundred days as Xbox CEO with a public blog post in which she called for the next hundred days to be a "reset" of the business. Highlighting the division's low "accountability margin" and declining revenues, along with macro factors like the hardware component crisis, Sharma's post was a fairly obvious omen of layoffs to come &ndash; corporate executives don't say things like "we have found ourselves over extended" or start talking about "hard truths" unless a whole lot of people are about to lose their jobs. Read more
-
-### "Crowdfunding is fundamentally a marketing and a community exercise" – What developers need to know about funding a game with Kickstarter in 2026
-Fri, 25 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/crowdfunding-is-fundamentally-a-marketing-and-a-community-exercise-what-developers-need-to-know-about-funding-a-game-with-kickstarter-in-2026
-
-We might be long past the days of games companies raising eye-watering figures on Kickstarter, but the platform is still a viable way to raise money to fund &ndash; at last part of &ndash; your game. Read more
 
 ## VG247
 
@@ -212,32 +192,37 @@ Sat, 26 Sep 2026 12:07:20 +0000 — https://www.videogameschronicle.com/news/mic
 
 Executive says he's feeling good about Xbox's remaining studios and IPs… Source
 
-### Fire Emblem Fortune’s Weave: Master location, Missing Master quest guide
-Fri, 25 Sep 2026 14:34:40 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-master-location-missing-master-quest-guide/
-
-How to solve the Missing Master quest and the rewards you'll earn in Fire Emblem: Fortune's Weave… Source
-
-### Podcast: Halo under Activision What s next for Xbox?
-Fri, 25 Sep 2026 12:27:35 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-halo-under-activision-whats-next-for-xbox/
-
-Plus: Are Bungie's Destiny 2 plans too little, too late? Source
-
-### Fire Emblem Fortune’s Weave: Giants’ Meat location to recruit Goliath
-Fri, 25 Sep 2026 12:24:49 +0000 — https://www.videogameschronicle.com/guide/fire-emblem-fortunes-weave-giants-meat-location-to-recruit-goliath/
-
-How to get Giants' Meat to recruit Goliath in Fire Emblem: Fortune's Weave… Source
-
-### Konami is celebrating the 40th anniversary of Castlevania with a big retro sale and a free game
-Fri, 25 Sep 2026 12:01:57 +0000 — https://www.videogameschronicle.com/news/konami-is-celebrating-the-40th-anniversary-of-castlevania-with-a-big-retro-sale-and-a-free-game/
-
-The NES original is free on mobile for a month, while retro titles are heavily discounted on PS and Steam… Source
-
-### When digital becomes the default, what happens to consumer choice?
-Fri, 25 Sep 2026 11:47:30 +0000 — https://www.videogameschronicle.com/news/when-digital-becomes-the-default-what-happens-to-consumer-choice/
-
-SPONSORED: The disc may be disappearing, but consumer choice shouldn' Source
-
 ## Polygon
+
+### The Real Budget Of Hideo Kojima's Physint Remains A Mystery
+Sun, 27 Sep 2026 14:43:45 GMT — https://www.polygon.com/physint-budget-controversy/
+
+After a claim earlier this week suggested that Hideo Kojima's Physint may have cost upwards of $400 million, rampant speculation about the Metal Gear Solid spiritual successor's budget ensued. We still don't know Physint's actual budget, but Bloomberg's Jason Schreier and Windows Central report that it's not quite that high.
+
+### Flying a Helicopter Is 2026’s Most Stressful Gaming Experience
+Sun, 27 Sep 2026 14:00:17 GMT — https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/
+
+2026 has been full of stressful moments in video games. Running away from a huge, flabby monster as Grace Ashcroft in Resident Evil Requiem . Fighting Damien Webb in the sewers in 007 First Light . Losing your grip on the final handhold of a cliff face in Cairn . But none of those come close to the nerve-wracking experience of piloting a helicopter in Wardogs .
+
+### Star Wars Episode 10 Has Found Its Director
+Sun, 27 Sep 2026 13:43:55 GMT — https://www.polygon.com/star-wars-episode-10-director/
+
+Disney and Lucasfilm just brought on a director for an upcoming Star Wars movie reportedly continuing the Skywalker Saga. It's Jon Watts, a director you know best for his work on the Marvel Cinematic Universe's Spider-Man trilogy .
+
+### Control Resonant Has a Secret Weapon in the GOTY Race
+Sun, 27 Sep 2026 13:00:15 GMT — https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/
+
+In 2019, the first Control received an amazing eight nominations, including for Game of the Year, despite only mild acclaim from critics. (It has a Metacritic rating of 82.) It went on to win Best Art Direction. Then, in 2023, Alan Wake 2 converted three of its eight nominations into wins, including in the key Game Direction and Narrative categories.
+
+### The GTA Series is a Game Preservation Nightmare
+Sun, 27 Sep 2026 12:00:17 GMT — https://www.polygon.com/gta-game-preservation-classic-games-availability/
+
+Nor can you play the first GTA and its expansions, or GTA 2 , or the spinoffs Liberty City Stories and Vice City Stories , or the GTA 4 expansions The Lost and Damned and The Ballad of Gay Tony . And you can forget about Grand Theft Auto Advance and Chinatown Wars .
+
+### 58 Years Ago, Star Trek Officially Switched Genres With an All-Time Classic Episode
+Sun, 27 Sep 2026 11:00:15 GMT — https://www.polygon.com/star-trek-enterprise-incident-espionage/
+
+Star Trek has spent decades exploring strange new worlds, seeking out new life and new civilizations, and occasionally doing a little espionage along the way. Long before Section 31 started doing Starfleet's dirty work, Captain Kirk (William Shatner) and Mr. Spock (Leonard Nimoy) discovered that saving the Federation sometimes required borrowing a few tricks from Ethan Hunt.
 
 ### The Witcher 3 Remastered release time in your time zone
 Sun, 27 Sep 2026 10:01:14 GMT — https://www.polygon.com/the-witcher-3-remastered-release-time-when-edt-pdt/
@@ -259,37 +244,27 @@ Sun, 27 Sep 2026 08:07:15 GMT — https://www.polygon.com/jujutsu-kaisen-best-fi
 
 MAPPA’s adaptation has continued raising the bar with each successive arc. Season 1 established the fundamentals through Yuji Itadori and Aoi Todo’s exhilarating teamwork and Satoru Gojo’s casual displays of near-godlike power. Season 2’s Hidden Inventory and Shibuya Incident arcs transformed those abilities into instruments of tragedy. Season 3’s Culling Game arc then unleashed the series’ most tactically complicated and visually audacious battles yet, aided by Shōta Goshozono’s direction and storyboarding.
 
-### DC's Groundbreaking 170-Episode Action Series Is Waiting to Be Discovered on Free Streaming
-Sun, 27 Sep 2026 08:00:15 GMT — https://www.polygon.com/arrow-free-on-pluto-dc-tv-shows/
-
-The CW has produced more than its fair share of DC superhero shows over the years, from The Flash and Supergirl to Legends of Tomorrow and Black Lightning . Some remain favorites in their own right, while others became memorable for just how wonderfully weird the shared universe eventually became. The CW’s superhero stint was packed with crossovers, alternate Earths, time travel, and even multiversal crises, the likes of which Marvel could only dream. It eventually got to a point where keeping track of all the interconnected storylines and varied characters felt like a part-time job.
-
-### 5 Detective Shows to Watch If You Love 'Lanterns'
-Sun, 27 Sep 2026 07:00:15 GMT — https://www.polygon.com/best-detective-shows-like-lanterns/
-
-The show has already established its merits, thanks to a measured slow-burn approach that thrives on the central duo’s riveting chemistry. Although chock-full of comic book references and superhero-isms, Lanterns shines brightest when it leans on its murder mystery elements. The mystery in question is also engaging and unpredictable, keeping audiences on edge at all times.
-
-### 60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves
-Sun, 27 Sep 2026 05:27:14 GMT — https://www.polygon.com/charles-schulz-peanuts-best-quote-ever/
-
-Schulz had announced his retirement two months earlier due to several strokes and advancing colorectal cancer, and he’d created his last strip shortly after he made the announcement. While Schulz knew he was dying, he couldn’t have known two months in advance the exact day he would die and that he’d essentially penned his own obituary by having his last comic run just one day after his death.
-
-### 12 Years Ago, Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst
-Sun, 27 Sep 2026 04:00:21 GMT — https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-anniversary/
-
-Doctor Who has never shied away from occasionally showing the Doctor at his worst. In “A Good Man Goes to War,” Eleven (Matt Smith) reckons with how his choices have made him nearly as monstrous as his enemies. There’s also “The Waters of Mars,” where Ten (David Tennant) is still reeling from the loss of his most recent companion, Donna Noble (Catherine Tate), and determined to win for once. He uses his power over time to save people whose deaths are fixed points in history — consequences be damned — in a genuinely shocking, villainous moment for the Time Lord.
-
-### Tom Holland's 133-Minute Action Movie Masterpiece Is About to Leave Netflix
-Sun, 27 Sep 2026 01:00:15 GMT — https://www.polygon.com/before-it-leaves-netflix-watch-spider-man-homecoming/
-
-There are plenty of reasonable places to begin a Spider-Man marathon. You could go back to the early 2000s era with Sam Raimi’s Spider-Man , or revisit Andrew Garfield’s surprisingly underrated take from 2012. You could even web-sling straight into the animated brilliance of Into the Spider-Verse , which should be getting its third film within the next year. But in the wake of Spider-Man: Brand New Day giving Tom Holland’s Peter Parker his fourth solo outing, there’s no better time to go back to the beginning of his specific chapter.
-
-### 'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel
-Sun, 27 Sep 2026 00:20:16 GMT — https://www.polygon.com/godzilla-minus-zero-review/
-
-Nobody understands that better than Takashi Yamazaki. With his new film, Godzilla Minus Zero , the Japanese filmmaker raises the stakes of the series in every way possible.
-
 ## PC Gamer
+
+### Lords of the End Times' greatest fantasy is letting us rewrite the most hated lore in Warhammer's history
+Sun, 27 Sep 2026 15:00:00 +0000 — https://www.pcgamer.com/games/strategy/lords-of-the-end-times-greatest-fantasy-is-letting-us-rewrite-the-most-hated-lore-in-warhammers-history/
+
+Play This Right Now Welcome to Play This Right Now, the site version of our weekly newsletter in which we celebrate a new game, update, or DLC that we think is well worth checking out. You can subscribe to the newsletter at the link if you want to get our thoughts about a new videogame happening direct to your inbox every Thursday. If you told me 10 years back, when I started playing Total War: Warhammer as a brighter-eyed and bushier-tailed strategy gamer, that we'd eventually reach The End Times period, I wouldn't have believed you. But here we are: three games, 110 legendary lords and factions later, Immortal Empires has successfully sliced and diced the best bits of Warhammer Fantasy and chucked them in a big cooking pot of delicious fantasy goodness. It's both the biggest and best Total War campaign Creative Assembly has ever attempted and you can now play it for just $9 (£7.49) by purchasing any of the characters from the Lords of the End Times expansion. Originally, you had to own all three games, then that was softened to just the third instalment, and now all you need is Boris, Thanquol, Nagash, or The Glottkin, though this version of the campaign doesn't let you play everyone . It's funny, though, while The End Times are a desirable era for a strategy game about bringing chaos to the world, or throwing back an endless tide of destruction, they were supremely unpopular in Warhammer Fantasy. How do you end a setting with 30 years worth of characters and lore? The answ
+
+### This ambitious Half-Life 2 mod asks: what if Iron Lung had a submarine and an airship?
+Sun, 27 Sep 2026 13:43:47 +0000 — https://www.pcgamer.com/games/horror/this-ambitious-half-life-2-mod-asks-what-if-iron-lung-had-a-submarine-and-an-airship/
+
+Like many people, I'm a big fan of quickfire submarine horror adventure Iron Lung . Yet despite receiving rave reviews and spawning a film adaptation by Markiplier, surprisingly few games have picked up its baton of vehicular terror. There are other submarine horror games like Barotrauma , as well as job-based horror games like Klekta and Shift at Midnight . But the former has quite a different vibe, while the latter pair seem more inspired by Lethal Company than David Szymanski's 2022 horror. Which is why I'm so intrigued by The Temple , an upcoming Half-Life 2 total conversion that likewise lets players pilot a terror submarine. But the temple ups the ante by adapting the scares into two other forms of transportation, taking players out of the depths all the way up into space. The Temple is set on an aquatic planet dotted by strange, concrete megastructures, which you're tasked with exploring using three separate vehicles. One, as mentioned, is a submarine that will take you into the depths of its ocean. The others are an airship for exploring its skies and abandoned towers, and a space shuttle that lets you travel to asteroidal moons that orbit the planet. The Temple was originally released as a pair of maps for MapLabs , a mod that collects together maps from various Source engine modding competitions. While that initial version was fairly short—around 20 minutes in length—the total conversion will revamp and expand those two existing maps, while also adding a third map f
+
+### The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million
+Sun, 27 Sep 2026 12:38:05 +0000 — https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/
+
+Armed Fantasia— which was a spiritual successor to the popular JRPG series Wild Arms and not a first-person shooter starring Mickey Mouse—has been cancelled four years after its Kickstarter campaign raised almost $3 million. As reported by Rock Paper Shotgun , Armed Fantasia is one of several titles for which Digital Bros—the parent company of 505 Games—has decided to "discontinue development of" as revealed in its most recent financial statement . The project was headed by Akifumi Kaneko, who was the lead designer on the original Wild Arms and served in the same role through to Wild Arms 4. It was formally revealed alongside its Kickstater campaign back in 2022. Unlike most video game Kickstarters, where the money raised is used to fund the game directly, this Kickstarter aimed to fund two JRPG prototypes. One was for Armed Fantasia, and the other was for a proof-of-concept of Penny Blood. Both prototypes, it was hoped, would lead to signing a publishing deal that would provide full funding for each game. This double Kickstarter went on to raise ¥379,328,385, which converts to just shy of $3 million in 2022 money. Things initially went to plan for both games, with Armed Fantasia being signed by 505 Games, while Penny Blood was picked up by Japanese publisher Dangen Entertainment.Armed Fantasia— which was a spiritual successor to the popular JRPG series Wild Arms and not a first-person shooter starring Mickey Mouse—has been cancelled four years after its Kickstarter campaign 
+
+### Minecraft is getting its first new dimension in 15 years, and it is riotously pink
+Sun, 27 Sep 2026 10:43:25 +0000 — https://www.pcgamer.com/games/survival-crafting/minecraft-is-getting-its-first-new-dimension-in-15-years-and-it-is-riotously-pink/
+
+Since its release in 2011, Minecraft has received countless new biomes, but its number of dimensions has remained consistent over the last fifteen years. But that's all about to change. As of next year, a fourth dimension will soon join the Overworld, the Nether, and the End. It's called the Sift, it is riotously pink, and features bunny-like creatures that walk rather than hop. The Sift was revealed at the end of Saturday's Minecraft Live. In a brief clip showing the perambulating rabbit strolling through tufts of pink grass beneath a turquoise sky. Mojang didn't reveal much else about the Sift, but being a whole new dimension, players can naturally expect to encounter new mobs, blocks, biomes and so forth. While the Sift is coming to both Bedrock and Java versions of Minecraft in 2027, players will be able to explore a variant of the dimension before that. This is because the Sift will also appear in Minecraft Dungeons 2 when it releases next week, and we do know a little more about what form the realm will take in Mojang's ARPG sequel. According to Xbox Wire , The Sift is subject to "shifting tides" that can affect player characters, as well as hazardous new block types and new mobs of both friendly and hostile varieties. The article also names two of the biomes featured in the Sift. One is named Singer's Meadow—a verdant area where all manner of flora grow out of red sculk. The other is called Carapace, which is a desert area dotted with strange blue walls and giant, holl
 
 ### The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants
 Sun, 27 Sep 2026 02:44:25 +0000 — https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/
@@ -331,26 +306,6 @@ Sat, 26 Sep 2026 13:21:21 +0000 — https://www.pcgamer.com/gaming-industry/micr
 
 Earlier this week, Xbox laid off 268 people on top of the 1,600 jobs it cut earlier this year. It has shoved Obsidian into Bethesda, handed Halo to Activision, said Sayonara to Double Fine and Compulsion Games, and State of Decay developer Undead Labs, and is primed to close Hellblade developer Ninja Theory. All of this is part of Xbox's "reset", under its new(ish) CEO Asha Sharma. Sharma has been the public face of the company's deeply controversial restructuring, defending it with statements like "great technology gets better when it gets simpler, not bigger" which, incidentally, is why aeroplanes always perform better when you rip one of the wings off. But both Sharma and Xbox are ultimately part of a much larger organisation. So what does Microsoft's head honcho Satya Nadella think of all these cuts, closures, and cancellations? Well, he thinks that Xbox's "streamlining" is "great to see". Speaking on the Sources Podcast with Alex Heath (via Kotaku ), Nadella briefly touched upon the subject of the Xbox layoffs as part of a much wider-ranging interview, starting by gassing up all the intellectual property that Xbox has under its belt. "I feel fantastic about the IP we have right now," Nadella stated. "If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic." As for the radical studio reorgs and the cuts which have left thousands of people jobless, Nadella described the process as if Xbox
 
-### Dressmaker is a serious seamstress sim with a lot of love stitched into the finer details
-Sat, 26 Sep 2026 13:00:00 +0000 — https://www.pcgamer.com/games/sim/dressmaker-is-a-serious-seamstress-sim-with-a-lot-of-love-stitched-into-the-finer-details/
-
-I picked up sewing as a hobby in college and, in my youthful cockiness, skipped the pillowcase-and-curtain phase. Instead, I dove right into extravagant cosplay and Renaissance dresses, and most of my first attempts were not fit for the human body. I'm sure some of that hubris came from watching my grandmother make sewing look so easy when, in reality, it requires patience, precision, and a blood sacrifice. But that's what leads me to Dressmaker—a cute and cozy hardcore seamstress sim that respects the technical skill the craft demands while making it accessible to the inexperienced. It's genuinely a good place to start if you're mildly interested in the craft but have never even picked up a needle. You'll learn some seamstress lingo, make tons of cute dresses, and spend significantly less money than I did ruining countless bolts of expensive fabric. I've played a little over six hours, and I've already got a growing list of finely stitched details I adore. Multi-step measurement system Bothering to add just one measurement mechanic was impressive enough, but Dressmaker goes further than simply measuring a client's chest, waist, and hips. You'll also have to adjust the dress form itself so the fabric hangs properly once it's pinned. Pattern placement matters I ignored instructions about cutting along the bias and fabric grain when I first picked up sewing, and some of my stiff garments made that obvious. Dressmaker doesn't let you commit the same design sins. There's no throw
-
-### It took CD Projekt two years to design Phantom Liberty's Chimera Tank boss fight: 'We were iterating over and over'
-Sat, 26 Sep 2026 12:00:01 +0000 — https://www.pcgamer.com/games/rpg/it-took-cd-projekt-two-years-to-design-phantom-libertys-chimera-tank-boss-fight-we-were-iterating-over-and-over/
-
-One of the most striking early sequences in Cyberpunk 2077: Phantom Liberty is its Chimera Tank boss fight, in which V and President Myers battle an enormous, Ghost in the Shell-inspired spider-tank in the bowels of a Barghest facility. The battle forms the explosive culmination of Phantom Liberty's opening act, and CD Projekt recently revealed just what it took to get the sequence where they wanted it. Speaking on CD Projekt's official AnsweRED podcast (via Eurogamer ), Phantom Liberty's game director Gabe Amatangelo, and creative director Igor Sarzyński discussed various production challenges the studio faced during Cyberpunk 2077 's creation, bringing up the Chimera Tank as an example. "Sometimes we're making content that's a nexus point of different disciplines, the Chimera is a great example of that," Amatangelo said. "It was gameplay, narrative, art, worldbuilding." Amatangelo explained that CD Projekt wanted the Chimera Tank to "terrify" players with its weapons, and that there were "so many moving parts" to balance appropriately for the sequence to work. "Sometimes it was too gameplay [focussed], sometimes it was too narrative, sometimes too art direction. It was about striking a balance and I think the three of us got into it and went: 'Okay, beat-by-beat, let's do this.'" According to Paweł Mielniczuk, Phantom Liberty's art director and the podcast's co-host, creating the boss fight was a years-long process. "I think when we were iterating, it was two years to make 
-
-### Former Starfield designer says Bethesda's sci-fi RPG probably won't get a sequel, because the original wasn't 'anywhere near successful enough'
-Sat, 26 Sep 2026 10:43:02 +0000 — https://www.pcgamer.com/games/rpg/former-starfield-designer-says-bethesdas-sci-fi-rpg-probably-wont-get-a-sequel-because-the-original-wasnt-anywhere-near-successful-enough/
-
-I wasn't expecting to see a Starfield sequel any time soon, given it took Bethesda eight years to make its sci-fi RPG and the studio is currently focussed on The Elder Scrolls 6 . But if the words of Starfield's former systems designer are anything to go by, we may not see a sequel to Bethesda's first new IP in 25 years at all. In an interview with FRVR (via VGC ), Bethesda veteran Kurt Kuhlmann explained why he doubts the studio will ever return to Starfield: "I would be very surprised", said Kuhlmann, who left Bethesda after Starfield was released. "I don't think Starfield was anywhere near successful enough to do a Starfield 2." While specific sales figures for Starfield haven't been released, Bethesda's sci-fi RPG is estimated to have generated $300 million in revenue as of April this year. This would make Starfield profitable based on its reported budget of $200 million , but it still has a long way to go before it reaches Skyrim levels of success . Since Xbox has reportedly expressed a desire to focus on its major franchises , it seems likely that Bethesda will prioritise The Elder Scrolls and Fallout over Starfield. Nonetheless, Kuhlmann thinks this may represent a missed opportunity for Bethesda to build on the lessons learned creating Starfield and create something truly special: "It's in a way, too bad, because I think with the lessons learned on Starfield, a Starfield 2 could have been much closer to the game that Todd had [in mind]." One issue Kuhlmann thinks a se
-
-### Drop everything and grab the popcorn: Majuular's 4.5-hour documentary on Ultima Online is here to devour your weekend
-Sat, 26 Sep 2026 02:08:31 +0000 — https://www.pcgamer.com/games/rpg/drop-everything-and-grab-the-popcorn-majuulars-4-5-hour-documentary-on-ultima-online-is-here-to-devour-your-weekend/
-
-I'll make this quick: Whatever you had planned for the weekend, you've got to carve four-and-a-half hours out for a last-minute swerve into the late '90s. Six months in the making, YouTube essayist Majuular is back with the (I believe) penultimate video in his multi-year Ultima series. "This one was a doozy," he wrote in the comments. It's Ultima Online. "From its unlikely formation at the behest of Richard Garriott and Starr Long, to its tempering at the hands of Raph Koster and his team of Multi-User Dungeon enthusiasts, to its changing identity in the face of competition, to its incalculable influence, this is the story of Ultima Online," the description reads. If you get the Ultima Online bug after watching the documentary, good news: it's still very much playable on both official servers and fan ones. Majuular highlighted the server he played on, In Mani Ylem , which aims to recapture the late '90s experience. You can find the entire video series in a playlist here , and I can't recommend watching them highly enough. In late 2025 we published a feature story about Majuular's quest to chronicle the making of Richard Garriott's genre-defining series, and how that mission unexpectedly catapulted him to YouTube success with more than 200,000 followers. It's a good read—and won't take you quite as long as watching all the videos. 'A good idea, infinite drive, and lots of Diet Pepsi': How YouTube essayist Majuular's life changed course telling the story of Ultima across 2 year
-
 ## GameSpot
 
 ### Minecraft Is Getting Its First New Dimension In Over 15 Years
@@ -383,17 +338,12 @@ Fri, 25 Sep 2026 16:08:07 +0000 — https://www.gamespot.com/articles/switch-pir
 
 After suing a former Reddit moderator in October 2025 for pirating Switch games , a Washington court has ordered the individual in question to pay Nintendo $4.5 million in damages. According to a September 25 TorrentFreak report , US District Judge Lauren King ordered former r/SwitchPirates moderator James "Archbox" Williams to cough up $4.5 million in damages to Nintendo after the company accused him of operating several pirate shops to illegally decrypt and distribute Switch games to the public. The lawsuit, which was filed in a Washington federal court in June 2024, stated that Williams had been running this racket since at least 2019, using "circumvention device" software to bypass the company's systems and gain access to over 30 Nintendo Switch games. This includes titles like The Legend of Zelda: Tears of the Kingdom , Mario Kart 8 Deluxe , and Super Smash Bros. Ultimate . Williams reportedly ignored the complaint at the time, which prompted Nintendo to seek the statutory maximum of $150,000 per title in October 2025. And just this week, Judge King agreed with Nintendo's request, stating that Williams was aware of the case, as he both hired a lawyer to object to a Google subpoena and continued posting on Reddit but opted to not respond to the company's lawsuit. In one screenshot saved by TorrentFreak , Williams called himself a "pirate" in a Reddit thread, clarifying that he--and others like him--won't "give Nintendo $50 for a game" when there are "months of releases un
 
-### Castlevania Turns 40, And Konami May Have Just Teased A 3D Collection
-Fri, 25 Sep 2026 15:00:37 +0000 — https://www.gamespot.com/articles/castlevania-turns-40-and-konami-may-have-just-teased-a-3d-collection/
-
-Castlevania celebrated its 40th anniversary this week--an impressive milestone in video games and a terrifying pair of numbers for anyone who was born in 1987. Konami marked the occasion with a new video paying tribute to the original whip-slinging hero of the 1986 Famicom game, as well as all of the other influential entries in the Castlevania series over the last four decades. It's a cute little retrospective, and it might also be teasing something else from Konami, if our tinfoil-hat-speculation is right. https://youtu.be/U9hmHw0JFUc Right near the end of the video, Castlevania's first protagonist, Simon Belmont, takes a quick stroll past a series of non-ruined portraits in Dracula's castle. Eagle-eyed observers will note that these feature cover art from three of the 3D-era games--Lament of Innocence, Curse of Darkness, and Lords of Shadow. The fourth one is for Castlevania: Belmont's Curse, which launches in October 2026. Could Konami be teeing up a new compilation that bundles together the PS2 and Xbox 360/PS3-era 3D Castlevania games? Portraits of ruin? Nah, just some really good games. The company isn't saying anything, and there's a good chance that the games were chosen purely because they still have some of the best cover art in the franchise. They're pretty neat, artistically! But a Castlevania collection isn't uncommon, as Konami has released a few of these in the past. The Castlevania Anniversary Collection from 2019 collected eight games spanning the first 10 y
-
-### Gears of War: E-Day Preload Times, Install Size, And Global Launch Dates
-Fri, 25 Sep 2026 11:45:22 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-preload-times-install-size-and-global-launch-dates/
-
-Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon. Like other big upcoming games, you'll also have the option to preload Gears of War: E-Day, so you can jump right into the fray on launch day. Here's a closer look at the timing for this new chapter in the series. Gears of War: E-Day install size According to the official PC requirements for Gears of War: E-Day, the game will require 115GB of storage capacity on that platform. Xbox Series X|S install sizes are typically on par with PC, so overall, you'll want to make sure you have at least 100GB of free space available on your machine. That's a pretty noticeable increase in size, as the previous game, Gears 5, required a chunky 80GB of space when it was first released back in 2019. One other thing to note is that if you're planning to play on PC, the game requires a solid-state drive to be installed on. This is a mandatory requirement for the game to run optimally. Gears of War: E-Day preloading times Preloading will kick off on September 29 at the following times: 11 AM ET 10 AM CT 9 AM MT 4 PM BST 5 PM CEST 3 PM UTC 5 PM SAST 1 AM AEST (September 30) Gears of War: E-Day early access global launch times If you purchase the Premium or Collector's Edition of Gears of War: E-Day, yo
-
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 27 Sep 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-829
+
+Sundays are for recovering from the friend-of-a-spouse&rsquo;s wedding you attended on Saturday while suffering from an acute case of Old Person&rsquo;s Back. Unfortunately, the time for recovery has in fact passed, as you have already moved to the more immediately satisfying phase of assigning blame . Possible suspects: your swivel chair, your mattress, the PC monitor you had to laboriously re-box for transit, your sofa, and that most connviving, spine-bending bastard of all, light walking. Spoiled for choice, you sit down in your untrustworthy chair and begin to read some of the week&rsquo;s writing highlights instead. Read more
 
 ### TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom
 Sat, 26 Sep 2026 21:55:08 +0000 — https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom
@@ -424,24 +374,4 @@ A developer's work is never done! On the very same day it launched, Control Reso
 Sat, 26 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401
 
 I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the back and see if he'll cough them back up again, I'm not quite ready to crack the wax seal on October 2026. Read more
-
-### Microsoft's failure to find a home for Ninja Theory voids the one, very tenuous upside to Senua's SGF reveal
-Fri, 25 Sep 2026 14:04:10 +0000 — https://www.rockpapershotgun.com/microsofts-failure-to-find-a-home-for-ninja-theory-voids-the-one-very-tenuous-upside-to-senuas-sgf-reveal
-
-There&rsquo;s plenty to dislike about this latest round of corporate-mandated Xbox misery . The hundreds more human beings losing their livelihoods. The embracing of risk-averse factory line development. The fact that nobody, still, knows what on earth is happening with Arkane . Read more
-
-### Hytale's Chapter 1 update is all about them goblins, adding its first proper boss and "handcrafted" dungeon in October
-Fri, 25 Sep 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/hytales-chapter-1-update-is-all-about-them-goblins-adding-its-first-proper-boss-and-handcrafted-dungeon-in-october
-
-After months of smaller patches, Hytale &rsquo;s early access phase is getting its inaugural Chapter update, confirmed release date and all. Chapter 1 is out on October 12th, and it&rsquo;s a bundle of (mostly goblin-related) firsts: chiefly the game&rsquo;s first "handcrafted" dungeon, a gruesome underground lair, and Hytale&rsquo;s first bonefide boss fight, against a flamethrowing gob-king. Read more
-
-### I got whomped by an Ork horde in Total War: Warhammer 40,000, definitely on purpose, to teach you a lesson about positioning
-Fri, 25 Sep 2026 11:05:00 +0000 — https://www.rockpapershotgun.com/i-got-whomped-by-an-ork-horde-in-total-war-warhammer-40000-definitely-on-purpose-to-teach-you-a-lesson-about-positioning
-
-Demo sessions are often terrible ways to see a game, doubly so at conferences. You want to sink into a game at your own pace (and with unbroken access to fresh cups of tea), not get dropped into the middle of the action, hoisted up again 20 minutes later and plonked into another section of a game. However, that's the nature of these things sometimes and it suits some games more than others. Total War: Warhammer absolutely does not suit it. Grand strategy games are built for armchair generals. Not just any armchair, either, a wingback one where the leather on the arms is nearly worn through where said general has rested their elbows in deep contemplation. They're not games made to be played in short bursts. As such, I can't really speak to Total War: Warhammer 40,000's end quality from its Gamescom demo, but perhaps it says something that after an hour where I played 20 minutes of the battle tutorial, 20 minutes of the campaign tutorial, and 20 minutes in a scenario where my Space Marine army faced an overwhelming assault from an ork horde, I still came away keen as the baked beans found in an Astra Militarium ration pack to play the full game. Read more
-
-### Colourful JRPG Armed Fantasia has been cancelled, four years after a successful Kickstarter campaign descended into delays and lawsuits
-Fri, 25 Sep 2026 10:12:53 +0000 — https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits
-
-Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms &ndash; and led by former Wild Arms producer Akifumi Kaneko &ndash; has been cancelled. Digital Bros, the parent company of Armed Fantasia publishers 505 Games, announced in a financial statement that it was one of several games for which "The Group decided to discontinue development," the others being a sequel to F2P strategy game Battle Islands and action RPG Directorate Novitiate, which had already revealed its own demise in May. Read more
 
