@@ -106,7 +106,7 @@ function Chooser() {
 
   return (
     <div
-      className="vp-appear w-full md:w-[340px] rounded-2xl border border-[#D7E2EA]/15 bg-black/55 backdrop-blur-md p-3.5 sm:p-4"
+      className="vp-appear w-full sm:max-w-[520px] lg:w-[340px] rounded-2xl border border-[#D7E2EA]/15 bg-black/55 backdrop-blur-md p-3.5 sm:p-4"
       style={{ '--delay': '1.25s' } as CSSProperties}
     >
       {mode ? (
@@ -189,38 +189,21 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
     // in. Nothing between the video and this element may start another — no
     // z-index on the wrappers, no opacity, no transform — or its black field
     // stops being see-through and covers the floor behind it.
+    // Below lg the hero is a column — name, switch, the whole head, then the
+    // copy — because on a narrow screen anything laid over the portrait covers
+    // the face. From lg up there is room either side of the head, and the copy
+    // sits in the corners over it.
     <section
       id="top"
       data-section="Hello"
       data-index="00"
-      className="relative isolate h-[100svh] min-h-[640px] overflow-hidden"
+      className="relative isolate flex flex-col min-h-[100svh] overflow-hidden lg:block lg:h-[100svh] lg:min-h-[640px]"
     >
       <div aria-hidden="true" className="vp-floor" />
       <div
         aria-hidden="true"
         className="absolute inset-0 pointer-events-none"
         style={{ background: 'radial-gradient(42% 46% at 50% 62%, rgba(118,33,176,0.2), transparent 72%)' }}
-      />
-
-      <div className="absolute inset-x-0 bottom-0 flex justify-center pointer-events-none">
-        <div className="relative">
-          <AvatarScrub
-            alt="3D portrait of Gianluca Scattarella that turns to follow the pointer"
-            onReady={() => setReady(true)}
-            wire={wire}
-            glitch
-            onWireReady={setWireReady}
-            className="block h-[60svh] sm:h-[66vh] md:h-[76vh] lg:h-[82vh] w-auto max-w-none select-none"
-          />
-          <Buckets cols={16} rows={9} active={ready} step={6} />
-        </div>
-      </div>
-
-      {/* Keeps the copy at the bottom readable where it crosses the chin. */}
-      <div
-        aria-hidden="true"
-        className="md:hidden absolute inset-x-0 bottom-0 h-[42%] pointer-events-none"
-        style={{ background: 'linear-gradient(to top, rgba(0,0,0,0.94), rgba(0,0,0,0.55) 45%, transparent)' }}
       />
 
       <div className="relative z-20 px-5 sm:px-8 md:px-10 pt-[76px] sm:pt-20">
@@ -230,10 +213,10 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
         </div>
       </div>
 
-      {/* The shading switch, as a 3D viewport has it. Centred under the name
-          on a phone, beside the head on anything wider. */}
-      <div className="absolute z-20 left-1/2 -translate-x-1/2 top-[268px] sm:left-auto sm:translate-x-0 sm:right-8 md:right-10 sm:top-[44%]">
-        <div className="vp-appear flex flex-col items-center sm:items-end gap-2.5" style={{ '--delay': '1.8s' } as CSSProperties}>
+      {/* The shading switch, as a 3D viewport has it: under the name in the
+          column, beside the head on a wide screen. */}
+      <div className="relative z-20 flex justify-center mt-4 sm:mt-6 lg:mt-0 lg:absolute lg:right-10 lg:top-[44%]">
+        <div className="vp-appear flex flex-col items-center lg:items-end gap-2.5" style={{ '--delay': '1.8s' } as CSSProperties}>
           <div role="group" aria-label="Viewport shading" className="inline-flex rounded-full border border-[#D7E2EA]/20 bg-black/50 backdrop-blur-sm p-0.5">
             {[
               { on: false, label: 'Shaded' },
@@ -262,13 +245,29 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
         </div>
       </div>
 
-      <div className="absolute inset-x-0 bottom-0 z-20 px-5 sm:px-8 md:px-10 pb-5 md:pb-14 flex flex-col md:flex-row md:items-end justify-between gap-4 md:gap-8">
-        <div className="vp-appear max-w-[420px]" style={{ '--delay': '1s' } as CSSProperties}>
+      {/* Positioned but with no z-index, in the column as over the floor: the
+          portrait has to share the section's stacking context to blend. */}
+      <div className="relative flex justify-center pointer-events-none mt-3 lg:mt-0 lg:absolute lg:inset-x-0 lg:bottom-0">
+        <div className="relative">
+          <AvatarScrub
+            alt="3D portrait of Gianluca Scattarella that turns to follow the pointer"
+            onReady={() => setReady(true)}
+            wire={wire}
+            glitch
+            onWireReady={setWireReady}
+            className="block h-[46svh] sm:h-[50svh] md:h-[52svh] lg:h-[82vh] w-auto max-w-none select-none"
+          />
+          <Buckets cols={16} rows={9} active={ready} step={6} />
+        </div>
+      </div>
+
+      <div className="relative z-20 mt-auto px-5 sm:px-8 md:px-10 pt-4 pb-8 flex flex-col gap-4 lg:absolute lg:inset-x-0 lg:bottom-0 lg:mt-0 lg:pt-0 lg:pb-14 lg:flex-row lg:items-end lg:justify-between lg:gap-8">
+        <div className="vp-appear max-w-[520px] lg:max-w-[420px]" style={{ '--delay': '1s' } as CSSProperties}>
           <span className="vp-label text-[#ff8a3d]">{hero.role}</span>
           <p className="text-[#D7E2EA] font-light leading-snug mt-2 text-[0.98rem] sm:text-[1.1rem] md:text-[1.2rem]">
             {lede}
           </p>
-          <a href="#skills" className="hidden md:inline-flex items-center gap-2 vp-label text-[#D7E2EA]/50 hover:text-[#D7E2EA] mt-5 transition-colors">
+          <a href="#skills" className="hidden lg:inline-flex items-center gap-2 vp-label text-[#D7E2EA]/50 hover:text-[#D7E2EA] mt-5 transition-colors">
             <ArrowDown className="w-3.5 h-3.5" strokeWidth={1.6} />
             Scroll to see the work
           </a>
