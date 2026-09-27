@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Materials: GTA 2's style data carries colour and nothing else — no normals, no roughness. Every surface response the path tracer computes is a value the wrapper assumed, so the lighting can only be as convincing as somebody's guess about what asphalt from 1999 was meant to be."
     - "Camera: a fixed top-down view throws away most of what path tracing is good at. Bounce light off a wall you cannot see does not reach the frame, and the rooftops take the sun while the streets stay in shadow."
-draft: true
 ---
 
 Nvidia's RTX Remix works by standing between a game and the graphics driver,
