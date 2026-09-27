@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-27T15:17:53.407Z
+# Tech — harvested 2026-09-27T19:52:06.093Z
 
 ## Ars Technica
 
@@ -27,42 +27,12 @@ Fri, 25 Sep 2026 21:10:51 +0000 — https://arstechnica.com/ai/2026/09/tesla-wor
 
 Tesla’s pivot from making electric cars to humanoid robots is facing challenges because of complex robot hands and disgruntled employees pushing back against training their robotic replacements. The struggle to scale up production comes as Tesla CEO Elon Musk has bet the company’s future on AI and robotics. As someone who frequently makes claims that fail to materialize, Musk has described the Optimus humanoid robot as potentially “the biggest product ever” during Tesla’s second-quarter 2026 earnings call . But he also acknowledged that making an autonomous humanoid robot capable of handling many different tasks is “one of the hardest things to solve”—and now extensive reporting by The Information has revealed multiple complications that Tesla is trying to tackle while developing general-purpose robots and scaling up for mass production. Tesla’s Fremont factory in California has already stopped making the Model S sedan and Model X SUV as of May 2026, with the company switching both line workers and engineers over to working on Optimus, according to The Information. Read full article Comments ]]>
 
-### Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?
-Fri, 25 Sep 2026 19:38:59 +0000 — https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/
-
-Researchers say they recently found Google ads delivering a sophisticated tech support scam that freezes the screens of both Windows and Mac devices and displays messages urgently instructing them to phone a bogus call center. The ads were displayed all over the web, including on high-traffic maps, weather, real-estate, document-hosting, and sports sites. Users who called the number were then urged to pay hefty fees, grant remote access to their devices, or divulge personal information. From August 31 to September 14, security firm Netskope observed users from 619 customer organizations click on the malicious ads, although none of them were actually scammed because Netskope blocked the content. Roughly 62 percent of the organizations were based in the US, with Japan and Australia accounting for the Nos. 2 and 3 spots. Since the firm has visibility into only a tiny sliver of Internet activity, the number of people exposed to the ads—including those who fell victim to it—is likely much higher. Netskope tracked more than 250 Google Ads campaign IDs across at least 284 legitimate publisher sites. Read full article Comments ]]>
-
-### Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)
-Fri, 25 Sep 2026 19:34:42 +0000 — https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/
-
-As Apple's Tim Cook era draws to a close, we're seeing more experimentation with the iPhone's design than we've seen in a long time, but you wouldn't know it from the iPhone 18 Pro. This absurdly fast, full-featured handset might be eclipsed by the hype around the iPhone Duo this year, but it's still just as good as its immediate predecessor. Of course, not too much has changed since the iPhone 17 Pro. There's the new variable aperture and other camera controls for those who want to get granular with their mobile photography, a welcome addition given the iPhone's reputation for inflexibly opinionated computational photography. Beyond that, though, all the most important changes are under the hood: a new chip, better battery life, and much-improved thermals that both give the phone better sustained performance and make it cooler to the touch in many situations. Read full article Comments ]]>
-
-### AI was supposed to hit new grads hard. So far, unemployment data says otherwise.
-Fri, 25 Sep 2026 19:11:05 +0000 — https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/
-
-Last month, we shared word of a Stanford University study that found entry-level employment in so-called "AI-impacted" occupations lagging well behind that in other fields. Now, a new working paper from economics researchers at Munich's CESifo finds the opposite, arguing point blank that "there is no evidence of any significant, widespread displacement or reduction in hiring of recent college graduates in absolute or relative levels." In " The Early Impacts of AI on Employment Among Recent College Graduates ," researchers Robert Fairlie and Jane Wu said they decided to focus on recent graduates "because changes in labor demand may first appear through reductions in hiring." As AI gets good enough to at least perform the "relatively standardized tasks" in many entry-level office jobs, they argue, firms could reduce new hiring for simpler roles rather than laying off more experienced long-term employees. There's some reason to believe 2026's graduating job seekers might be more at risk of AI displacement than those graduating just a year or two prior. The CESifo researchers point to a recent sharp increase in the number of firms "replacing a large number of employee tasks with AI" in a Census survey, as well as broad increases in AI spending per employee and ChatGPT Enterprise token use in the last 12 months. Read full article Comments ]]>
-
-### Paramount/WBD merger conditions give the public "virtually nothing," judge is told
-Fri, 25 Sep 2026 18:42:57 +0000 — https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/
-
-Free speech and media advocacy groups urged a judge to block a California settlement with Paramount Skydance that would let the company finalize its $111 billion merger with Warner Bros. Discovery. Twelve states led by California sued to block the deal in July and were able to delay it when US District Judge Araceli Martínez-Olguín ruled that Paramount combining with Warner Bros. would likely reduce competition substantially and violate antitrust laws. Despite that initial victory, California Attorney General Rob Bonta announced a settlement with Paramount earlier this week and the other states involved in the lawsuit signed on to the deal. Martínez-Olguín must decide whether to approve the settlement. A coalition of free speech and media advocacy groups told the judge in a filing yesterday that the deal will give residents of the states that sued Paramount "virtually nothing." The filing was submitted by the Committee for the First Amendment, Free Press, Freedom of the Press Foundation, Future Film Coalition, and International Documentary Association. Read full article Comments ]]>
-
-### Is solar's growth finally slowing in the US?
-Fri, 25 Sep 2026 18:27:18 +0000 — https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/
-
-Normally, we try to update you quarterly on what's going on with the US electric grid since it provides a nice view of developing trends and smooths out some month-to-month randomness. Unfortunately, I was out of the office when last month's data was released, so this will be a seven-month update on 2026 trends. The top line item is that energy use is continuing to rise, albeit not as quickly as headlines about data centers might lead people to believe. Beyond data centers, there's a growing electrification—things like EVs and heat pumps—that is shifting energy demands onto the grid. Despite all of this, electricity use has risen by only 2 percent compared to the same period last year. At this time the previous year, demand had risen by 3 percent compared to the year prior. Some of this may be due to continued improvements in efficiency, which had largely kept electricity demand stable throughout the early 2000s. And some of it may be because more data centers are generating their own power so that demand doesn't show up on the grid. So far, the growth in demand hasn't reached apocalyptic levels. Read full article Comments ]]>
-
-### Microsoft stops insisting you need a "Copilot+ PC"
-Fri, 25 Sep 2026 17:57:37 +0000 — https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/
-
-Since 2024 , Microsoft has tried to sell “Copilot+ PC.” The marketing initiative was aimed at making it easy for people to know which Windows systems were approved to run AI-accelerated workloads locally. But Copilot+ PC branding is nowhere to be found on the new Surface PCs Microsoft announced this week. Speaking with Windows Central , Brett Ostrum, corporate VP of Surface, said that the new Surface computers “are not called Copilot+ PCs” despite meeting the label’s requirements. Read full article Comments ]]>
-
-### After seven years, a spacecraft company is releasing its Otters into the wild
-Fri, 25 Sep 2026 15:35:23 +0000 — https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/
-
-Imagine starting a space company in October 2019 with the aim of changing the world. Then, a few months later, a global pandemic shuts the world down. "Little did we know what the world had in store for us," said Trevor Bennett, an engineer who co-founded Starfish Space after a few years at Blue Origin. "But that's kind of become part of our story, showing some resilience along the way." At Blue Origin, he saw, up close, the ambitions of billionaires to build big rockets and put massive numbers of satellites into orbit. Bennett and his co-founder, another engineer from Blue Origin named Austin Link, began to think about the implications. How would humanity deal with that increased volume of satellites in orbit? Could low-Earth orbit be preserved? Read full article Comments ]]>
-
 ## The Verge
+
+### OpenAI agents tried to ‘bruteforce’ a UN website
+2026-09-27T13:21:07-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
+
+The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June . While the incident doesn't quite rise to the level of the Hugging Face hack , or the recent attacks on US government sites , it's yet another concerning example of AI agents going outside the normal bounds to accomplish a task. According to Howard-Jones, the agents were likely tasked with retrieving publicly available data related to the Productive Capacities Index (PCI) through the UNCTADstat API. However, the agents did not appear to have direct API access and … Read the full story at The Verge. ]]>
 
 ### Why OLPC’s $100 laptop never stood a chance
 2026-09-27T08:25:00-04:00 — https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance
@@ -109,12 +79,12 @@ Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode
 
 In Control Resonant , the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant , but it's where some of the game's best details - and even love stories! - can be found. In the world of Control Resonant and its predecessor, 2019's Control , the FBC deals with mysterious, otherworldly objects and entities that defy explanation. But the FBC itself is still an old-school bureaucratic agency, and that means tons of (often heavily redacted) reports and memos and mi … Read the full story at The Verge. ]]>
 
-### Pokémon card resellers have turned collecting into an online blood sport
-2026-09-26T08:00:00-04:00 — https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers
-
-Earlier this month, Pok&eacute;mon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been officially released, and implores viewers not to be mad. But they were; other creators claimed that cards Roush had purchased were stolen from the manufacturer and mocked her for trying to sell them at exorbitant prices . The Roush situation was a high-profile example of the way Pok&eacute;mon card collecting culture has been upended by the influencer economy and people trying to profit off the hobby. Th … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Grab this 14-inch compact gaming laptop powerhouse for $1000 off
+Sun, 27 Sep 2026 15:21:30 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy
+
+As the memory crisis continues to push up component prices, laptop prices are also rising, making even mainstream models increasingly expensive. However, if you are looking for the right combination of portability and performance, the HP Omen Transcend 14 is currently on sale. The 14-inch powerhouse is available at $1999.99 for a limited period, down from its listed price of $2999.99 at Best Buy, which is a massive saving of $1000. Check out the HP Omen Transcend 14 on Best Buy The HP Omen Transcend 14 is one of the rare compact gaming laptops packing a powerful set of hardware. This particular configuration comes with Intel’s Core Ultra 9 285H processor, paired with 32GB of LPDDR5x memory and an Nvidia RTX 5070 Laptop GPU with 8GB of GDDR7 VRAM. For storage, there is a 1TB PCIe Gen 4 NVMe SSD, while the laptop ships with Windows 11 Home. The combination should make it capable of handling modern games as well as demanding workloads such as video editing and other content-creation tasks. The HP Omen Transcend 14 is a premium gaming laptop offering high-end performance in a compact 14-inch chassis. The laptop comes with Intel’s top-tier Core Ultra 9 285H processor with 32GB of LPDDR5x memory and an Nvidia RTX 5070 Laptop GPU. View Deal A highlight feature of the laptop is the 14-inch 3K OLED display, which has a 2880 x 1800 resolution and a 120 Hz refresh rate. The panel supports a 48-120Hz variable refresh rate, covers 100% of the DCI-P3 color gamut, and offers up to 500 nits 
 
 ### Custom 24-carat gold mini PC costs around $1.7 million, weighs nearly 29 pounds for up to 50% faster heat transfer
 Sun, 27 Sep 2026 14:40:00 +0000 — https://www.tomshardware.com/desktops/mini-pcs/custom-24-carat-gold-mini-pc-costs-around-usd1-7-million-weighs-nearly-29-pounds-for-up-to-50-percent-faster-heat-transfer-copper-would-have-been-far-cheaper-and-offers-even-better-thermal-conductivity
@@ -171,12 +141,12 @@ Sat, 26 Sep 2026 15:10:00 +0000 — https://www.tomshardware.com/video-games/pc-
 
 While gamers wait for the release of Grand Theft Auto VI , whether on their consoles or gaming PCs with one of the best graphics cards , they can relive one of the franchise's most memorable titles. Modder gebdag has unveiled GTA2 RTX Remix, a mod that harnesses Nvidia’s RTX Remix technology to add full path tracing and dynamic time-of-day cycles to the 27-year-old classic, Grand Theft Auto 2 . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Grand Theft Auto 2 , released in 1999, used older graphics APIs such as DirectDraw and an earlier version of Direct3D. The problem is that these legacy APIs create a technical barrier to modern technologies like RTX Remix. Nvidia's platform lacks native support for DirectDraw and only plays well with Direct3D 9. It requires a wrapper to interface with previous versions of Direct3D, which is where the GTA2 RTX Remix comes in. Modder gebdag ingeniously developed a custom Direct3D 9 renderer for Grand Theft Auto 2 . It acts as a generational bridge between the original game and Nvidia’s RTX Remix. To do so, the mod relies on two DLLs (gta2dx9.dll and gta2dx9_vid.dll) that serve as translators, converting the game's legacy graphics pipeline into a modern Direct3D 9 renderer that RTX Remix can under
 
-### Russia bombs Ukrainian data centers in latest escalation
-Sat, 26 Sep 2026 14:30:59 +0000 — https://www.tomshardware.com/tech-industry/data-centers/russia-bombs-ukrainian-data-centers-in-latest-escalation-100-000-households-lose-connectivity-as-firms-migrate-data-abroad-zelensky-says-ordinary-life-is-simply-a-target
-
-The Russian military has started striking data centers within Ukraine in its latest escalation against the country. According to the BBC , a Russian drone hit the data center, which was situated in a central business district in Kyiv, damaging it and killing four people in the area. Multiple reports also suggest that other data centers and network infrastructure have been hit across the country as well, with President Volodymyr Zelensky saying that Moscow wants to maximize disruption for the common people. “All this affects people’s ability to stay connected, study, work,” Zelensky said. He also wrote in a social media post, “The Russians are constantly expanding their escalation operation: American and other businesses, data centers, internet providers — for Russia, all ordinary life is simply a target. It is important that the world responds to all of this and that Russia feels the response to its terror.” Russia, on the other hand, confirmed that it attacked the Datagroup site, claiming that Ukrainian military intelligence used it, and that it’s also targeting other data and telecommunications centers owned by New-Telco, United DC, Kyivstar, and Parkovyi. These attacks have left about 100,000 households in Ukraine without internet connectivity, and some companies have begun migrating their data across the border to avoid disruption. Nevertheless, one government official said that Ukraine’s internet network is highly decentralized, but people should still expect some local 
-
 ## Phoronix
+
+### Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements
+Sun, 27 Sep 2026 13:37:07 -0400 — https://www.phoronix.com/news/Budgie-10.10.3-Released
+
+Budgie 10.10.3 is out today as the newest point release to this open-source desktop...
 
 ### Linux Kernel s LZ4 Compression Code Being Resynced For Better Performance & Cleanliness
 Sun, 27 Sep 2026 09:16:20 -0400 — https://www.phoronix.com/news/Linux-LZ4-Clean-Resync
@@ -233,11 +203,6 @@ Sat, 26 Sep 2026 05:56:52 -0400 — https://www.phoronix.com/news/Plasma-6.8-Las
 
 Even with this week's KDE Akademy conference and releasing KDE Plasma 6.8 Beta 2, KDE developers still found time to land last minute changes for Plasma 6.8 plus ongoing early work toward Plasma 6.9...
 
-### Last Call For The Autumn Special For Ad-Free Viewing & Supporting Linux Hardware Testing
-Fri, 25 Sep 2026 21:00:26 -0400 — https://www.phoronix.com/news/Autumn-2026-Special-Final-Call
-
-Last call for the Phoronix autumn "Oktoberfest" Premium sale: it runs through end of day Sunday, 27 September (any timezone - I'm not particularly strict). If you have been meaning to support the site, this is the window...
-
 ## The Register
 
 ### Apple buried Copland 30 years ago. Now the failed OS boots in a browser
@@ -270,37 +235,42 @@ Fri, 25 Sep 2026 21:58:36 +0200 — https://www.theregister.com/applications/202
 
 Microsoft has ended 40 years of single-occupancy for Excel cells and is now allowing multiple values to inhabit the same home. "One of the oldest rules of spreadsheets: one cell, one value," said Jake Armstrong, senior product manager for Excel, in a LinkedIn post. "No longer!" "I’m excited to announce a set of new features: Lists, Arrays in Cells and Nested Arrays in Excel." For the time being, this capability is only available in Microsoft Excel for Windows and Mac Beta Channels. And it is opt-in. To make the case for lists in cells, Armstrong in a blog post explained that each Excel project can have multiple owners. "Traditionally, you'd need separate columns, helper tables, or text like 'Carlos, Henrietta, Jacob' packed into a single cell," he explained. "With lists, you can keep those values together in one cell while still working with each item individually. Project owners stay connected to the project they belong to, while remaining available for filtering, calculations, and analysis." And he goes on to cite the potential utility of arrays in cells and nested arrays for expanding the kinds of information that Excel spreadsheets can represent. Armstrong's enthusiasm for multi-value cells comes with a caveat that this is a preview feature and shouldn't be used in important workbooks until general availability. Among those commenting on Armstrong's LinkedIn post, several people suggested the change has the potential to break things and hinder auditability by making busin
 
-### Uncle Sam coughs up $1.9B for grid upgrades as datacenters hit a power wall
-Fri, 25 Sep 2026 21:26:34 +0200 — https://www.theregister.com/systems/2026/09/25/uncle-sam-coughs-up-19b-for-grid-upgrades-as-datacenters-hit-a-power-wall/5299276
-
-Bit barn builders can rejoice, because this week the US Department of Energy (DoE) announced $5.25 billion — including $1.9 billion of federal funds and $3.35 billion in cost-share funding — to support dozens of grid improvements across the nation expected to unlock an additional 23 gigawatts of capacity. The program, which spans 31 specific projects in 26 states, is part of the department’s Speed to Power through Accelerated Reconductoring and other Key Advanced Transmission Technology Upgrades (SPARK) initiative with federal funding made available under the Grid Resilience and Innovation Partnerships (GRIP) program. Uncle Sam sure does love his acronyms. “These investments will get more out of the infrastructure we already have, move more electricity across the grid, and help deliver affordable, reliable, and secure power that will fuel American prosperity for decades to come,” US Secretary of Energy Chris Wright said in a statement. Rather than bringing new power generation capacity online, the projects aim to unlock additional capacity by reconductoring or rebuilding more than 1,500 miles of transmission lines and deploying grid-enhancing technologies (GETs), like sensors, power flow control devices, and analytical tools across 21,000 miles of American grid infrastructure. Additionally, participants working in areas prone to natural disasters will work to improve grid resilience and mitigate wildfire risks. The agency claims the program will help improve reliability and l
-
-### Fake Google Security Team ad says 'no script reading' in voice phishing - then prints the script
-Fri, 25 Sep 2026 21:13:20 +0200 — https://www.theregister.com/security/2026/09/25/fake-google-security-team-ad-says-no-script-reading-in-voice-phishing-then-prints-the-script/5299264
-
-Yes, criminals have job listings too. A Telegram user recruiting callers to work in an apparent Google Security Team voice-phishing scam told applicants that they weren’t allowed to read from scripts – in the same ad that also included the exact script they had to read during these scam calls. This and other true-crime tales of criminals making fools of themselves appear in the latest installment of the Trellix Advanced Research Center’s Dark Web Roast, which uses memes and mockery to troll criminals on the dark web. It also acknowledges: “While these incidents are genuinely amusing, they represent real criminal activities causing significant harm.” One of these incidents from August involves a Telegram user identified by Trellix as Derian (@crɑick) who posted an ad in the UK Fraudsters Telegram channel. “Hiring - Female/Male Mail Callers,” the advertisement said, seeking “USA/CA (white sounding)” applicants and, in bold, “NO SCRIPT READING.” The ad then proceeded to print the exact script the callers would read: “Good afternoon, this is [name] reaching you on behalf of the Google Account Security Team on a recorded line. Am I speaking with Larry Boyles?” The Trellix threat-intel analysts note that the “‘recorded line’ flourish is a nice touch, because nothing says legitimacy like a fraudster cosplaying compliance theatre. The pretexting playbook is depressingly effective, but the recruiter’s QA process is roughly as robust as the fake Google team it impersonates.” Burn, baby
-
-### New software dependency validation process increases speeds by 54x
-Fri, 25 Sep 2026 20:57:10 +0200 — https://www.theregister.com/software/2026/09/25/new-software-dependency-validation-process-increases-speeds-by-54x/5299256
-
-As if the pace of software creation hadn't accelerated enough thanks to generative AI coding agents, computer scientists in Japan have devised a way to turbocharge the process of build dependency verification. Speeds can increase by as much as 54x. Software build systems like Make, CMake, and the Zig build system automate the process of turning source code into executable programs. They ensure source files are compiled in the correct order and objects are linked correctly. They provide reproducible rebuilds and handle platform-specific compilation requirements, dependencies, tests, and documentation. But according to Yuta Saito, Kazunori Sakamoto, and Hironori Washizaki from Waseda University, dependency specification management remains a challenge, accounting for more than half of all build errors in large projects. Because existing tools like ptrace impose significant overhead, the researchers have devised a way to improve error detection by analyzing dependencies using extended Berkeley Packet Filter (eBPF)-based system call tracing. They've developed a tool called mkcheck2 that reduces the time and compute cost required to catch software build errors. And they explain their approach in a paper titled "Efficient Build Dependency Verification Using eBPF and Incremental Analysis," published in the Proceedings of the 2026 IEEE/ACM 48th International Conference on Software Engineering. "Our evaluation on a diverse set of open-source projects demonstrates that mkcheck2 reduces 
-
-### ShinyHunters tells The Reg: We hacked the FBI to 'protect our business'
-Fri, 25 Sep 2026 20:23:31 +0200 — https://www.theregister.com/cyber-crime/2026/09/25/shinyhunters-tells-the-reg-we-hacked-the-fbi-to-protect-our-business/5299250
-
-ShinyHunters, the data theft and extortion crew that has stolen sensitive information belonging to millions of cancer patients, university and K-12 students, and Carnival cruisers, wanted to preserve their reputation and keep their “business” afloat. So it hacked the FBI to make a statement, the group told The Register. “It’s a game and it’s the world we live in,” a ShinyHunters spokesperson told us. “We are just protecting our business as any other business would do. It’s about who does their job better.” On Friday, the FBI confirmed the breach to The Register, after earlier in the week saying the bureau was investigating ShinyHunters’ claims. "The FBI is aware of a cyber-criminal enterprise group claiming a compromise of the FBIJobs.gov portal and alleged impact to FBI employee personally identifiable information (PII),” an FBI spokesperson told The Register. "While the point of breach is still undetermined - whether a third-party or the FBI’s enterprise - we are actively and aggressively investigating this matter and working closely with those third-party providers that support FBIJobs.gov to mitigate any and all risk." On Tuesday, the criminals told us that they broke into the bureau via yet another Oracle PeopleSoft zero-day flaw in the FBIJobs.gov portal, which remains down as of Friday. Then, they breached the FBI’s managed servers on AWS GovCloud and swiped thousands of personnel files belonging to current, former, and prospective FBI employees. “We hold very sensitiv
-
-### Google-backed energy outfit brings 33 MW of 4 GW geothermal potential online in Utah
-Fri, 25 Sep 2026 20:02:25 +0200 — https://www.theregister.com/systems/2026/09/25/google-backed-energy-outfit-brings-33-mw-of-4-gw-geothermal-potential-online-in-utah/5299243
-
-Google's bet on geothermal energy is starting to pay off. Fervo Energy, an enhanced geothermal systems (EGS) provider backed by the Chocolate Factory, achieved first power at its Cape Station power plant in Beaver County, Utah this week. The first of three 33 MW GeoBlocks has begun supplying electricity to the grid and is expected to reach commercial operation next week, with another 66 MW of capacity expected to come online by New Year. Fervo says the station has the potential to eventually scale to more than four gigawatts of capacity. For now, the company is working toward fulfilling 900 MW of contracted capacity. The deployment builds on years of research and development into EGS technologies that use heat generated by the Earth's crust to convert water into steam, which, like in most other power plants, is converted into energy using turbines. The trick is getting the water deep enough in the first place. To overcome this challenge, Fervo borrowed technologies originally developed by the oil and gas industry. Two parallel wells are dug to around 8,000 feet (2,438 meters) below the surface. The rock is then fractured to allow water to pass between the two, heating the water to 190 degrees Celsius in the process. Back in 2023, Fervo demonstrated the tech at its Project Red site, which was capable of generating a modest 3.5 MW of power. Fervo’s Cape Station is orders of magnitude larger in scope. While the plan is expected to produce just 100 MW of capacity by January 1, it
-
-### Crooks use fake desktop apps to fool HR staff into giving them remote access
-Fri, 25 Sep 2026 19:29:54 +0200 — https://www.theregister.com/security/2026/09/25/crooks-use-fake-desktop-apps-to-fool-hr-staff-into-giving-them-remote-access/5299226
-
-You work in your company's human resources department and use HR software to check employee information, benefits, and payroll. So, when you see a downloadable Windows version promising a faster alternative to the usual web interface, you grab it. Unfortunately, the app isn't what it claims to be. Instead, it silently installs ConnectWise's legitimate ScreenConnect software, giving the operator persistent remote access to your PC. Cybersecurity outfit Allure Security reported the discovery of the campaign Thursday, describing it as the latest evolution in a trend of abusing ScreenConnect and other remote monitoring and management software. This time, the main giveaway is knowing what the vendors actually sell: None offers the Windows app being advertised. According to Allure, the campaign impersonates three unnamed US-based HR and payroll platforms by offering fake desktop clients for those providers’ software. In all three cases, those companies don’t offer a desktop client, meaning all it takes is an unaware HR or payroll clerk tricked by promises of superior performance to potentially expose some incredibly sensitive company data. Allure said that it’s not sure how potential victims are being targeted by the campaign either, but those who have been targeted may not pick up on anything being wrong. Clicking through to the website offering the fake app brings up a legitimate-looking site built using AI app builder Lovable and hosted on Vercel. The site is hidden behind the c
-
 ## Engadget
+
+### Bill Gates says it's 'completely irresponsible' for AI to not have safeguards
+Sun, 27 Sep 2026 19:12:29 +0000 — https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/
+
+The Microsoft co-founder said that the more present danger is bad actors with access to AI tools.
+
+### Should you ditch your tablet for a foldable phone?
+Sun, 27 Sep 2026 18:45:00 +0000 — https://www.engadget.com/2267889/ditch-tablet-for-foldable-phone/
+
+Foldables expand to almost the size of an iPad Mini.
+
+### BYD says its new solid-state EV battery tech is nearly ready for the open road
+Sun, 27 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2265495/byd-new-solid-state-battery-ev-almost-ready-2027/
+
+The Chinese company is one of several car makers expected to adopt solid-state batteries in the next few years.
+
+### The pros and cons of using a foldable phone
+Sun, 27 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2266434/foldable-phone-pros-cons/
+
+Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider.
+
+### Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8
+Sun, 27 Sep 2026 16:45:00 +0000 — https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/
+
+Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways.
+
+### How to use Android's Desktop mode to turn your phone into a tiny PC
+Sun, 27 Sep 2026 16:15:00 +0000 — https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/
+
+You can plug recent Pixel phones into a monitor to get a desktop-style interface.
+
+### How to use Spotify's Running Mode on iOS and Android
+Sun, 27 Sep 2026 15:45:00 +0000 — https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/
+
+Maximize your stride with Spotify's AI-powered running features.
 
 ### How to improve your router's security in 10 minutes
 Sun, 27 Sep 2026 15:15:00 +0000 — https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/
@@ -327,42 +297,17 @@ Sun, 27 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2267888/why-its-imp
 
 If you're not going to put it on your desk, at least do these things.
 
-### Humanoid robots are getting even creepier (this one can cry on command)
-Sun, 27 Sep 2026 13:15:00 +0000 — https://www.engadget.com/2266933/humanoid-robot-cries-on-command/
-
-Humanoid robots have improved emotional mimicry to the point of being able to cry during an emotional conversation.
-
-### How to use the Live Text feature on your iPhone
-Sun, 27 Sep 2026 12:45:00 +0000 — https://www.engadget.com/2266810/how-to-use-live-text-feature-iphone/
-
-There's no need to manually type text into your iPhone that you see in the real world. Use Live Text to copy it, call phone numbers and much more.
-
-### iPhone Duo vs Microsoft Surface Duo: One name, two very different devices
-Sun, 27 Sep 2026 12:30:00 +0000 — https://www.engadget.com/2267884/apple-iphone-duo-vs-microsoft-surface-duo-comparison/
-
-A brief history of Duo foldables.
-
-### How to use Android apps on your Windows PC (and why you might want to)
-Sun, 27 Sep 2026 12:15:00 +0000 — https://www.engadget.com/2266521/how-to-use-android-apps-on-windows-pc/
-
-With the right software, you can run Android apps on your Windows PC. Here's why you may want to and how to get it set up on your own computer.
-
-### Why we won't know how visible the iPhone Duo's crease is for a long time
-Sun, 27 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/
-
-The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time.
-
-### How powerful of a power bank do you need to safely charge a laptop?
-Sun, 27 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/
-
-A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected.
-
-### Your old GPU could be worth more than you think
-Sat, 26 Sep 2026 23:45:00 +0000 — https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/
-
-Your old GPU could be a goldmine thanks to the RAMaggedon.
-
 ## TechCrunch
+
+### Anthropic s Dario Amodei gets the SNL treatment
+Sun, 27 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/
+
+"AI is the devil and I its maker."
+
+### TechCrunch Mobility: AV companies pick their lanes
+Sun, 27 Sep 2026 16:02:00 +0000 — https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 ### Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises
 Sun, 27 Sep 2026 15:00:00 +0000 — https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/
@@ -413,14 +358,4 @@ The company behind Facebook and Instagram wants to keep consumers connected to t
 Fri, 25 Sep 2026 23:11:10 +0000 — https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
 
 Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
-
-### Automattic has a new board after failed attempt to put CEO on leave
-Fri, 25 Sep 2026 23:04:34 +0000 — https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/
-
-After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.
-
-### Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge
-Fri, 25 Sep 2026 22:20:47 +0000 — https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/
-
-AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.
 

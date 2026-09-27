@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-09-27T15:17:53.407Z
+# Film & TV — harvested 2026-09-27T19:52:06.093Z
 
 ## Variety
+
+### Nat Geo Kicks Off New Multi-Year Doc Franchise With Africa Earth’s Wild Home
+Sun, 27 Sep 2026 18:34:11 +0000 — https://variety.com/2026/tv/news/nat-geo-new-doc-franchise-africa-earths-wild-home-1236876900/
+
+Unlike most conglomerate-owned media companies, National Geographic is still pouring money into documentaries. Their latest docuseries “Africa Earth’s Wild Home” is a seven-parter that took four years to make and employed over 50 people. It’s the first series in a multi-year franchise that will document the planet, one continent at a time. Nat Geo partnered [ ]
+
+### Anthony Mackie Says Chris Evans Gave Him the ‘Avengers: Endgame’ Script Early, Revealing How He’d Become Captain America: ‘It Was Really Great and Really Emotional’
+Sun, 27 Sep 2026 18:17:19 +0000 — https://variety.com/2026/film/news/chris-evans-anthony-mackie-avengers-endgame-script-early-1236876896/
+
+Chris Evans and Anthony Mackie’s bond goes beyond their shared roles as Captain America. They’re also close friends, so much so that Evans gave Mackie early access to the Avengers: Endgame script, which is when the actor learned how he d become the superhero. “Chris Evans is somebody who I hold near and dear,” Mackie said [ ]
+
+### Asian Games 2026 Livestream: Where to Watch the Event In the U.S. Online
+Sun, 27 Sep 2026 18:05:12 +0000 — https://variety.com/2026/shopping/news/where-to-watch-asian-games-2026-usa-livestream-online-free-1236876889/
+
+Some of the best athletes in the world are in Japan this week for the 2026 Asian Games, a multi-sport competition held every four years for countries in Asia. This year s Asian Games take place in Nagoya, located in the Aichi Prefecture in Japan, and Aichi Nagoya 2026 makes the 20th edition of the event. Almost [ ]
+
+### Chris Rock Says Infidelity and Struggling to ‘Make It’ Aren’t Just Hollywood Problems: ‘If You Got No Love, You’re Broke as F—k’
+Sun, 27 Sep 2026 16:52:25 +0000 — https://variety.com/2026/film/news/chris-rock-infidelity-hollywood-misty-green-nyff-1236876867/
+
+Chris Rock’s new movie “Misty Green” centers on a fictional actress (Rosalind Eleazar) mounting a Hollywood comeback after years in the throes of a fading career. Misty’s journey pokes fun at some of the trappings of trying to “make it” in the entertainment industry, a pursuit that Rock himself is rejecting after his decades-spanning career [ ]
+
+### Adam Brody Calls for a ‘Free Palestine,’ Says He’s Never ‘Ducked’ Politics: ‘I Just Answer the Questions I m Asked’
+Sun, 27 Sep 2026 16:28:22 +0000 — https://variety.com/2026/tv/news/adam-brody-calls-for-free-palestine-political-question-1236876872/
+
+Adam Brody is calling for a “free Palestine” and explaining why his political activism doesn’t come up more often during his red-carpet and press appearances. “I just answer the questions I m asked,” the actor told GQ. “And it s true. I m not wearing a pin, so I m not inviting a certain question, and perhaps I should. [ ]
+
+### Avengers: Endgame Encore Scores Massive $86 Million Globally, Brad Pitt’s ‘Heart of the Beast’ Launches to $50 Million Worldwide
+Sun, 27 Sep 2026 16:16:45 +0000 — https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-rerelease-huge-86-million-globally-1236876861/
+
+Avengers: Endgame returned to theaters and assembled a massive $86 million globally, including $26 million in North America and $60 million overseas. Disney and Marvel s 2019 blockbuster was already the second-highest-grossing movie in box office history with $2.79 billion; this weekend s haul brings the movie s staggering tally to $2.88 billion. It s only $39 million behind [ ]
+
+### How to Stream the 2026 MTV VMAs Live Online
+Sun, 27 Sep 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-stream-vmas-live-online-free-1236876095/
+
+The MTV Video Music Awards return Sunday night with one of the show’s biggest lineups in years, including Madonna’s first VMA performance in more than two decades, a Dolly Parton tribute from Kacey Musgraves and the world premiere of a new Taylor Swift music video. The 2026 MTV VMAs air live Sunday, Sept. 27 at [ ]
+
+### Box Office: Avengers: Endgame Encore Returns to No. 1 With $26 Million, Primetime Scores Impressive $19 Million Debut
+Sun, 27 Sep 2026 15:35:35 +0000 — https://variety.com/2026/film/box-office/avengers-endgame-encore-box-office-win-primetime-scores-big-opening-weekend-1236876819/
+
+Avengers: Endgame Encore, a re-release of Disney and Marvel s 2019 blockbuster (with extra footage!), emerged victorious at the domestic box office over several new releases. Avengers: Endgame Encore generated $26 million from 3,060 North American theaters over the weekend, a sizable haul for a movie that s been available to watch online for years. It was [ ]
 
 ### ‘Godzilla Minus Zero’ Sets Sights on Best Picture Oscar Nomination: ‘If the Possibility Is Not Zero, It’s Hard Not to Have a Little Bit of Hope’
 Sun, 27 Sep 2026 15:12:34 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-best-picture-nomination-oscars-nyff-1236876769/
@@ -12,47 +52,42 @@ Sun, 27 Sep 2026 15:12:33 +0000 — https://variety.com/2026/film/global/anna-ke
 
 Anna Kendrick, who is at the Zurich Film Festival for the European premiere of Lauren Miller Rogen’s “Babies,” spoke briefly about her next directorial project, “The Seven Husbands of Evelyn Hugo.” Back in June, it was announced that Kendrick would direct the Netflix film, adapted from Taylor Jenkins Reid s best-selling novel. “Obviously, over the moon [ ]
 
-### Naomi Watts Talks Menopause – I Was Crying in the Bathroom, Trying to Scratch Off My Estrogen Patch – Recalls Being Told She ‘Freaked People Out’ Early in Her Career: ‘Yeah, No Shit. I Was Desperate, Behind on My Rent and Getting Evicted’
-Sun, 27 Sep 2026 13:14:13 +0000 — https://variety.com/2026/film/awards/naomi-watts-mullholland-drive-early-career-menopause-1236876797/
-
-Naomi Watts waited a long time to become a star. “It was a grind. That 10 years before I met David, I became so locked up and I felt worthless. My agent pulled me aside and she said: ‘We need to have a heart to heart. Honey, you are too intense. You are freaking people [ ]
-
-### Martin McDonagh Jokes About His Past – as a Hitman – and Calls ‘Wild Horse Nine’ His Most Political Film: ‘There’s Too Much Artistic Neutrality and Too Much Saying Nothing’
-Sun, 27 Sep 2026 11:54:24 +0000 — https://variety.com/2026/film/awards/martin-mcdonagh-wild-horse-nine-political-john-malkovich-1236876794/
-
-Martin McDonagh is taking a stand with “Wild Horse Nine.” “This is probably my most political film. That’s why I find it very exciting to be releasing this monster into the world,” he said at the Zurich Film Festival. “I feel like, in the modern day, there’s perhaps a little too much artistic neutrality, or [ ]
-
-### Beyond Frontman Doc Because of You Ka Kui to Open U.K. s Odyssey Film Festival, Lands Local Distribution (EXCLUSIVE)
-Sun, 27 Sep 2026 10:17:20 +0000 — https://variety.com/2026/film/news/beyond-frontman-doc-because-of-you-ka-kui-odyssey-fest-1236876790/
-
-Because of You Ka Kui, a documentary on the late Beyond frontman Wong Ka Kui, will open the sixth Odyssey Film Festival in the U.K., with NGO U.K.-China Film Collab also picking up the Hong Kong film for local distribution. Discussions began in March at FilMart in Hong Kong, which U.K.-China Film Collab attended with [ ]
-
-### Jia Zhangke Readies Zhao Tao Road Movie Mamma Dunhuang, Rules Out AI in Production (EXCLUSIVE)
-Sun, 27 Sep 2026 09:19:02 +0000 — https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/
-
-Jia Zhangke will turn his attention to location scouting and production design for his next film, road movie Mamma Dunhuang, once the 10th Pingyao Crouching Tiger Hidden Dragon International Film Festival wraps on Sept. 30. As revealed by Variety, the film follows a woman who drives from Dunhuang, in western China near Central Asia, all [ ]
-
-### Tucker Carlson Returns to SNL to Review The Odyssey, Gender-Neutral Spider-Man and Left-Wing Obsession
-Sun, 27 Sep 2026 04:58:53 +0000 — https://variety.com/2026/tv/news/snl-tucker-carlson-weekend-update-summer-movies-1236876744/
-
-On the first Weekend Update of Saturday Night Live Season 52, Jeremy Culhane revived his fan-favorite impression of Tucker Carlson to offer his thoughts on some of the summer s biggest blockbusters. On The Odyssey, Carlson mentioned the specialty format of Imax 70mm, saying, The Hollywood cabal shoots its filth with millimeters — or as I [ ]
-
-### Here s Where to Livestream Takuma Inoue vs. Tenshin Nasukawa 2 Boxing Online
-Sun, 27 Sep 2026 04:30:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-takuma-inoue-vs-tenshin-nasukawa-2-boxing-live-sept-2026-online-1236873487/
-
-Teiken Promotions has an epic title bout featuring two prime Japanese boxers this weekend. Champion Takuma Inoue defends his WBC bantamweight title belt against former-kickboxer and -mixed martial artist Tenshin Nasukawa in a rematch. The main event is scheduled for 12 rounds. On Sunday, Sept. 27, Inoue (22-2-0) vs. Nasukawa (8-1-0) takes place at Toyota [ ]
-
-### SNL Opens Season With Mamdani Hanging Out With BFF Trump, Natalie Harp Going Obsession Over President
-Sun, 27 Sep 2026 03:59:57 +0000 — https://variety.com/2026/tv/news/snl-mamdani-trump-natalie-harp-obsession-1236876725/
-
-Season 52 of “Saturday Night Live” kicked off with its usual cold open, and it involved two unlikely political BFFs. Ramy Youssef stopped by to play New York City Mayor Zohran Mamdani, whose office was visited by James Austin Johnson s Donald Trump. “For some reason that no one can figure out, I really, really like [ ]
-
-### Jalen Brunson s SNL Monologue Sees Knicks Starting 5 Roasting Each Other
-Sun, 27 Sep 2026 03:58:54 +0000 — https://variety.com/2026/tv/news/jalen-brunson-snl-monologue-knicks-starting-5-1236876727/
-
-Jalen Brunson s Saturday Night Live monologue featured some familiar faces, as the remaining members of the Knicks starting five visited Studio 8H to roast their team captain. But before Karl-Anthony Towns, Josh Hart, Mikal Bridges and OG Anunoby appeared on screen, Kenan Thompson took the stage as ESPN pundit Stephen A. Smith. Let me say [ ]
-
 ## The Hollywood Reporter
+
+### Why Emmy Rossum Says Shameless Nude Scenes Affected Her Dating Life: All These Preconceived Notions
+Sun, 27 Sep 2026 19:16:05 +0000 — https://www.hollywoodreporter.com/tv/tv-news/emmy-rossum-nude-scenes-shameless-affected-dating-life-1236712927/
+
+The actress played Fiona Gallagher in the dramedy for nine seasons.
+
+### Where to Watch the Ravens vs. Cowboys Rio Game Online
+Sun, 27 Sep 2026 19:12:24 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-ravens-vs-cowboys-rio-de-janeiro-nfl-game-free-2026-1236712932/
+
+The NFL Week 3 matchup is set for Sept. 27 at Maracanã Stadium in Rio de Janeiro, Brazil.
+
+### Where to Watch the 2026 VMAs Live Online
+Sun, 27 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-vmas-2026-live-stream-free-mtv-video-music-awards-1236712799/
+
+Snoop Dogg will host, Taylor Swift will receive the inaugural Artist Director Honors, while Dolly Parton and George Michael will be honored with special musical tributes.
+
+### Naomi Watts Praises Husband Billy Crudup for Backing Her Menopause Activism: So Sweet — and Sexy
+Sun, 27 Sep 2026 16:38:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-watts-billy-crudup-menopause-zurich-housewife-film-1236712830/
+
+Zurich's Golden Eye recipient also charted her 10 years of unsuccessful auditions before getting her big break in 'Mulholland Drive': "My agent told me, 'Honey, you're too intense. You're freaking people out.'"
+
+### Avengers: Endgame Powers $26M Return at Crowded Box Office
+Sun, 27 Sep 2026 16:33:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-box-office-primetime-heart-beast-1236712502/
+
+Newcomers 'Heart of the Beast,' 'Primetime' and 'Forgotten Island' entered the fray as returnee 'Resident Evil' snagged second place.
+
+### Israeli Americans Protest Outside NAZA New York Premiere by Screening Oct. 7 Attacks Footage
+Sun, 27 Sep 2026 16:23:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-doc-new-york-premiere-1236712821/
+
+Israeli-American Council (IAC) co-chair Tal Shuster said of the Israel–Gaza war documentary, "We're not saying, don't show the film. We're saying: show all the facts."
+
+### Anna Kendrick Is Over the Moon About Directing The Seven Husbands of Evelyn Hugo
+Sun, 27 Sep 2026 15:39:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/anna-kendrick-seven-husbands-evelyn-hugo-film-babies-zurich-1236712816/
+
+The 'Babies' actress covered George Clooney, 'Twilight' ("what the f*** am I doing here?") and 'Pitch Perfect's "revisionist history" in a career-spanning conversation at the Zurich Film Festival.
 
 ### WNBA Playoffs 2026: Where to Watch Post-Season Women s Basketball Games Live Online
 Sun, 27 Sep 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-stream-wnba-playoffs-2026-basketball-live-online-free-1236710073/
@@ -69,42 +104,47 @@ Sun, 27 Sep 2026 10:39:07 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The Zurich Golden Eye winner sat down for a masterclass session in Switzerland, where he spoke about the long-overdue buzz for his latest performance in 'The Only Living Pickpocket in New York.'
 
-### Hints of Sex and the City and Narcos : A Look at Literary Works Being Pitched for Screen Adaptations at Iberseries Platino Industria
-Sun, 27 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/book-screen-adaptation-pitches-iberseries-platino-industria-1236696290/
-
-Among the featured books are also the memoirs of a Medellín drug cartel founder and Che Guevara’s first wife, plus a graphic novel by the creator of the opening title design for 'Only Murders in the Building.'
-
-### Jalen Brunson Brings the New York Knicks to the Saturday Night Live Season 52 Premiere
-Sun, 27 Sep 2026 03:49:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jalen-brunson-snl-season-52-premiere-knicks-players-1236712688/
-
-Karl-Anthony Towns, Josh Hart, OG Anunoby and Mikal Bridges showed up to support the NBA Finals MVP's first hosting stint.
-
-### Star Wars : Jon Watts to Direct Next Movie for Lucasfilm
-Sun, 27 Sep 2026 00:37:13 +0000 — https://www.hollywoodreporter.com/news/general-news/star-wars-jon-watts-direct-next-movie-lucasfilm-1236712709/
-
-Simon Kinberg is writing the new trilogy that is said to be next episodes of the Skywalker Saga.
-
-### Godzilla Minus Zero Review: Monster Movie Genius Takashi Yamazaki Returns With a Crackling Kaiju Epic Every Bit as Exciting as Its Predecessor
-Sun, 27 Sep 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/godzilla-minus-zero-review-takashi-yamazaki-1236712678/
-
-This direct sequel to the 2023 global sensation picks up in 1949, as a makeshift family finds its domestic harmony again threatened by a rampaging creature’s path of destruction.
-
-### James Gray on Broader Takeaways From Personal Film Paper Tiger : What Connects Us Is What Matters
-Sat, 26 Sep 2026 22:17:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-james-gray-takeaways-ending-1236712649/
-
-As the crime thriller had its North American premiere at the New York Film Festival, the director spoke about how he hoped the domestic drama's open-ended resolution allows the story to continue for the audience after the credits.
-
-### Viral Lesbian Bar Article From Boston Globe Is Piquing Hollywood s Interest
-Sat, 26 Sep 2026 21:54:37 +0000 — https://www.hollywoodreporter.com/business/business-news/viral-lesbian-bar-article-from-boston-globe-1236710331/
-
-The article has spurred thousands of subscriptions to the paper. Now UTA, which reps the Globe, is fielding inquiries about adaptations.
-
-### Sylvester Stallone Says He Became Bulimic While Filming Rocky Movies, Used Steroids
-Sat, 26 Sep 2026 21:48:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-bulimic-steroids-filming-rocky-movies-1236712570/
-
-The 80-year-old actor recalls the period of his life where his physique became an "obsession."
-
 ## Deadline
+
+### Bill Gates Warns Unregulated AI Development Could Cause A Billion Deaths
+Sun, 27 Sep 2026 19:45:47 +0000 — https://deadline.com/2026/09/bill-gates-warns-unregulated-ai-development-billion-deaths-1237114762/
+
+As Trump brushes off the need for additional guardrails around artificial intelligence, Bill Gates is sounding the alarm. In a recent interview, the Microsoft co-founder urged the U.S. government to implement regulations around the development of AI, following a meeting with CEOs of several of biggest AI companies, who agreed it s necessary to slow down [ ]
+
+### Jeff Probst Says Nothing Has Changed On Survivor After Paramount Scrapped DEI: We Need Diversity
+Sun, 27 Sep 2026 19:17:43 +0000 — https://deadline.com/2026/09/jeff-probst-nothing-changed-survivor-paramount-scrapped-dei-1237114732/
+
+Although Paramount was one of several companies to roll back their DEI initiative when Trump was re-elected, Survivor continues to operate by it. Host Jeff Probst recently noted that nothing has changed with how the reality competition series approaches diversity, equity and inclusion, noting that it was one of the biggest positive changes ever for [ ]
+
+### How To Watch Stream The 2026 MTV Video Music Awards
+Sun, 27 Sep 2026 17:19:53 +0000 — https://deadline.com/2026/09/how-to-watch-stream-2026-mtv-video-music-awards-1237114735/
+
+The MTV Video Music Awards are back tonight for the 42nd awards show, celebrating the best music videos of the year. Hosted by 3x VMA winner Snoop Dogg, the ceremony broadcasts live on Sunday night from the Peacock Theater in Los Angeles, with performances from Madonna, Kacey Musgraves, Lisa, Sombr and more. Madonna leads this [ ]
+
+### Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger Zurich Summit
+Sun, 27 Sep 2026 16:57:47 +0000 — https://deadline.com/2026/09/kevin-mayer-paramount-warner-bros-merger-zurich-summit-1237114740/
+
+Former Disney exec Kevin Mayer, who oversaw his former employer’s 2019 acquisition of 20th Century Fox, has shared his thoughts on the Paramount-Warner Bros merger. The pragmatic exec, who has been co-CEO of Blackstone-backed media company Candle Media since 2021, told a panel at the Zurich Summit this weekend that consolidation in the media and [ ]
+
+### Avengers Endgame: Encore Powers $86M WW Re-Release Opening Ahead Of Doomsday Global Domination
+Sun, 27 Sep 2026 16:57:12 +0000 — https://deadline.com/2026/09/box-office-global-avengers-endgame-heart-of-beast-1237114692/
+
+What was old at the global box office this weekend was new as Disney/Marvel Studio s Avengers Endgame: Encore led in an exceptional take for a re-release of $86M WW. Beamed Andrew Cripps, Disney s Global Boss of Distribution, The success of the re-release reiterates that there s a massive fanbase for this franchise, and the fact that [ ]
+
+### Zoe Saldaña Can t Imagine Taking On Another Taylor Sheridan Show: Lioness Is All I Can Handle
+Sun, 27 Sep 2026 16:03:45 +0000 — https://deadline.com/2026/09/zoe-saldana-cant-imagine-another-taylor-sheridan-show-1237114728/
+
+Although Zoe Saldaña speaks highly of collaborating with Taylor Sheridan, don t expect her to make a trip to Dutton Ranch anytime soon. The Lioness star recently explained why starring as Joe McNamara is all that I can handle at this time, noting she doesn t have any plans to pop up elsewhere in the Sheridan TV [ ]
+
+### ‘Musk’ Producer, Atwater-Magnific Exec Gods Don’t Give Gifts Director Talk AI: “It s Important To Get In The Driver s Seat Zurich Summit
+Sun, 27 Sep 2026 15:48:01 +0000 — https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/
+
+Musk producer Nick Shumaker, Hollywood film financier Vania Schlogel, directors Zack London (Gods Don’t Give Gifts) and Nick Holt (AI: Probably Nothing to Worry About) took to the stage at the Zurich Summit this weekend to dig into the implications of AI for film. Schlogel, who is founder and managing partner of L.A.-based Atwater Capital, [ ]
+
+### Avengers Endgame: Encore Assembles $26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace Box Office Update
+Sun, 27 Sep 2026 15:25:00 +0000 — https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/
+
+SUNDAY AM WRITETHRU: after Saturday update. .A Nor-easter wasn t enough to make a dent in the North American box office, which remained in high gear with an unprecedented late September frame, all movies counting an estimated $122.3M per Rentrak. The last time the 39th weekend of the year was this high was 2015 when Hotel [ ]
 
 ### FilmNation CEO Glen Basner Talks Art Of Film Sales Financing: “It s Really Just About Sitting Listening To The Filmmaking Team” Zurich Summit
 Sun, 27 Sep 2026 13:59:44 +0000 — https://deadline.com/2026/09/filmnation-ceo-glen-basner-sales-honor-talk-zurich-summit-1237114682/
@@ -125,46 +165,6 @@ For those wondering how SNL s new cast members factored into tonight s season pr
 Sun, 27 Sep 2026 05:10:17 +0000 — https://deadline.com/2026/09/saturday-night-live-jalen-brunson-high-school-musical-katseye-1237114610/
 
 Following the Knicks big win at Madison Square Garden, Jalen Brunson took the stage at 30 Rockefeller Center for his Saturday Night Live hosting debut. On Saturday s Season 52 premiere, the NBA Finals 2026 MVP showed off some comedic chops in an otherwise business-as-usual episode of the NBC sketch comedy show, which featured Katseye as [ ]
-
-### ‘SNL’s Weekend Update Mocks Paramount+, ‘Spider-Man’, ‘The Odyssey’ ‘Obsession’
-Sun, 27 Sep 2026 04:55:09 +0000 — https://deadline.com/2026/09/snls-weekend-update-spider-man-the-odyssey-obsession-1237114628/
-
-Saturday Night Live’s Weekend Update was back and focused on the movie business. Jeremy Culhane returned as Tucker Carlson and he was giving his thoughts on the summer’s slate of blockbusters. “It’s movie time, let’s find our seats, silence our cell phones and abandon Christian values,” he opened. “Of course, I’m talking about PAW Patrol: [ ]
-
-### ‘SNL’ Season 52 Premiere Delayed In Many Areas Due To College Football
-Sun, 27 Sep 2026 04:21:01 +0000 — https://deadline.com/2026/09/snl-season-52-premiere-delayed-college-football-1237114608/
-
-It wasn’t a great start to the season for Saturday Night Live in many parts of the country after linear viewers suffered a delay thanks to college football running late. The Oregon-USC game finished just over 15 minutes late, meaning that many affiliates started after the Jalen Brunson-hosted opener with a 16-minute delay. USC hosted [ ]
-
-### Saturday Night Live : Jalen Brunson s Knicks Teammates Join Him During Opening Monologue
-Sun, 27 Sep 2026 04:01:03 +0000 — https://deadline.com/2026/09/saturday-night-live-jalen-brunson-knicks-teammates-monologue-1237114598/
-
-Saturday Night Live kicked off its 52nd season with a victory lap for Knicks fans, as host Jalen Brunson was joined onstage by his teammates. The 2026 MVP swapped some quips with teammates Karl-Anthony Towns, Mikal Bridges, OG Anunoby and Josh Hart during his opening monologue on Saturday s episode, which comes after they defeated the [ ]
-
-### Saturday Night Live Opens Season With Riff On Donald Trump s Need For More Time With Zohran Mamdani: Please Let Me Stay Here With You
-Sun, 27 Sep 2026 03:58:55 +0000 — https://deadline.com/2026/09/saturday-night-live-trump-mamdani-1237114593/
-
-The cold open of the new season of Saturday Night Live featured Ramy Youssef as New York Mayor Zohran Mamdani, getting another visit from President Donald Trump (James Austin Johnson). It was a riff on their latest meeting earlier this week, an unlikely lovefest between the left-wing mayor and the right-wing commander in chief. On [ ]
-
-### Star Wars Is Continuing Skywalker Saga With Spider-Man Director Jon Watts
-Sun, 27 Sep 2026 03:07:27 +0000 — https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584/
-
-After eight years and countless entries in the expanding onscreen universe, Star Wars is revisiting the Skywalker family with its next project. Deadline can confirm that Lucasfilm has tapped Skeleton Crew co-creator Jon Watts (director of Spider-Man: Homecoming, Spider-Man: Far From Home and Spider-Man: No Way Home) to helm the first installment in a new [ ]
-
-### Ina Garten Explains Why She s Always Said No To A Biopic: It s My Story
-Sun, 27 Sep 2026 01:00:08 +0000 — https://deadline.com/2026/09/ina-garten-always-said-no-biopic-1237114577/
-
-After sharing her story in her 2024 memoir Be Ready When The Luck Happens, Ina Garten is reluctant to trust a filmmaker with the adaptation. The Barefoot Contessa celebrity chef recently explained why she s never been willing to make a biopic about her life, despite being approached to adapt Be Ready for the big screen. [ ]
-
-### Robert Eggers Wants To Do Romeo Juliet Because Things Got So Dark After Werwulf , Joking: So, I ll Do Something About Two Teenagers Killing Themselves
-Sat, 26 Sep 2026 23:34:30 +0000 — https://deadline.com/2026/09/robert-eggers-making-romeo-juliet-after-so-dark-werwulf-1237114572/
-
-SPOILER ALERT for anyone who skipped freshman English! Robert Eggers is teasing his take on William Shakespeare s Romeo Juliet. During a post-screening Q A for his latest macabre title Werwulf, premiering Christmas Day, the auteur joked that the famously tragic conclusion of Shakespeare s 16th century romance would be a welcome break from his usual horror [ ]
-
-### Sylvester Stallone Thought His Dad Would Be Proud To Make Rocky Cameo: It Got Really Nasty
-Sat, 26 Sep 2026 22:10:21 +0000 — https://deadline.com/2026/09/sylvester-stallone-dad-rocky-cameo-really-nasty-1237114559/
-
-As Sylvester Stallone made his breakout performance in Rocky, there was one person he couldn t quite turn into a fan. While discussing his memoir The Steps, releasing Oct. 23, the 3x Oscar nominee recalled things on set getting really nasty after giving his real father Frank Stallone Sr. a cameo as the bell ringer in [ ]
 
 ## befores & afters
 
@@ -202,27 +202,37 @@ Sat, 26 Sep 2026 03:59:00 +0000 — https://www.indiewire.com/features/best-of/a
 
 From "Unedited Footage of a Bear" to "This House Has People in It," Cartoon Network's late-night programming oddities should outlive the TV format that inspired them.
 
-### The Scout Review: A Meditative Look at Life as an Oft-Ignored Movie Location Scout
-Fri, 25 Sep 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/the-scout-review-1235218606/
-
-Paula González-Nasser's quiet directorial debut follows a location scout in New York City who becomes a quasi-therapist for every resident she visits.
-
-### Three Decades Ago, He Made a Documentary About Then-Boyfriend Isaac Mizrahi — Now, Douglas Keeve Is Looking Back at Unzipped
-Fri, 25 Sep 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/isaac-mizrahi-documentary-unzipped-interview-1235218716/
-
-As Keeve tells IndieWire, his relationship with then-rising fashion mogul Mizrahi fell apart after he made the 1995 fashion-world doc. But the film isn't what split them in two.
-
-### Stanley Kubrick s Five Best Films, Ranked with TCM Host Ben Mankiewicz
-Fri, 25 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/features/podcast/stanley-kubrick-best-movies-ranked-with-tcm-ben-mankiewicz-1235218691/
-
-With his "The Plot Thickens" podcast focused on Kubrick this season, Mankiewicz joins IndieWire's own podcast "Screen Talk" to rank his favorites alongside co-hosts Anne Thompson and Ryan Lattanzio.
-
-### A24 s Primetime Earns $2.7 Million in Previews as Robert Pattinson s Creepy Chris Hansen Scores at the Box Office
-Fri, 25 Sep 2026 15:27:13 +0000 — https://www.indiewire.com/news/box-office/a24-primetime-box-office-previews-robert-pattinson-chris-hansen-1235218692/
-
-"Avengers: Endgame Encore" earns a mighty $3.8 million as it returns to theaters.
-
 ## The Wrap
+
+### Jake Tapper Confronts Trump Official On-Air Over CNN’s Ban From Press Pool
+Sun, 27 Sep 2026 19:07:28 +0000 — https://www.thewrap.com/media-platforms/tv/jake-tapper-confronts-trump-official-cnn-ban/
+
+Jake Tapper made an on-air plea Sunday to United Nations Ambassador Mike Waltz, asking the official to meet with President Donald Trump about allowing CNN back in the White House press pool. The network was barred from flying on Air Force One on Saturday as part of its duties covering the president on behalf of major networks. No outlet was announced to replace CNN for the trip, meaning there was no press pool coverage of the president on Saturday. I would just ask if you could please convey to President Trump to let CNN back in the pool, Tapper told Waltz on CNN s State of the Union Sunday morning. It was not okay when President Obama tried to freeze Fox out of the pool back in 2009. I don t think we want a world where presidents decide who gets to cover them. Waltz, who was nominated by Trump to be U.N. Ambassador in May 2025, was quick to defer to the president s reasoning that CNN was barred from the press pool because it did not give fair and objective and well-sourced reporting. TAPPER: I would ask if you could convey to President Trump to let CNN back in the pool. It was not okay when President Obama tried to freeze Fox out, and I don't think we want a world where presidents get to decide who covers them MIKE WALTZ: I hear you, but I think we need… pic.twitter.com/bHf7MZykZS &mdash; Aaron Rupar (@atrupar) September 27, 2026 We need a free and fair and honest press corps without an agenda that tries to take facts to fit a narrative, Waltz fired back. President Trump s f
+
+### The 3 Best New Movies on Hulu This Week
+Sun, 27 Sep 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-hulu-september-27/
+
+Hulu has welcomed a number of beloved, worthwhile movies to its platform in September. Some of the streamer s best new additions include a 2009 military epic from Pulp Fiction writer-director Quentin Tarantino that may very well be his greatest achievement and a 2009 cult classic horror comedy starring Megan Fox and Amanda Seyfried. Additionally, Hulu s film library also currently includes a 3-hour epic about Hollywood s Silent Era that is as elegant as it is crass and as beautiful as it is ugly. Here are the three best movies you can stream on Hulu this week. “Inglourious Basterds” (The Weinstein Company) Inglourious Basterds (2009) You can make the argument for a few different movies being Quentin Tarantino s greatest achievement, but few of his films engineer such a constant, commanding hold of your attention better than 2009 s Inglourious Basterds. A novelistic World War II epic, the film follows a squad of Jewish American soldiers killing Nazis covertly throughout Europe and a French Jewish cinema owner (Mélanie Laurent) as they both follow through with their own plots to kill Hitler, all while facing resistance from a deviously intelligent, maniacal SS colonel (Christoph Waltz). Featuring at least two or three of the most astounding scenes Tarantino has ever executed onscreen, Inglourious Basterds is a drama overflowing with tension, wit and righteous fury. Jennifer s Body (Credit: 20th Century Studios) Jennifer s Body (2009) A critical and financial failure that has si
+
+### 3 Best Movies to Watch on Paramount+ This Week
+Sun, 27 Sep 2026 18:12:28 +0000 — https://www.thewrap.com/creative-content/movies/best-movies-on-paramount-plus-this-week-september-27/
+
+What shall we watch this week? As always, it can be a daunting scroll when you sign into Paramount+. But, we can help you out. We re feeling a bit more action-heavy this week, so our recommendations include both an action-adventure movie, and an action-fantasy movie. Both are excellent. The third is far less of a thrill ride, though no less of a fun time, and certainly no less beloved. Here are the three best movies to watch on Paramount+ this week. Shia LaBeouf and Megan Fox in 2007 s Transformers (Paramount Pictures) Transformers Be honest, when s the last time you listened to Linkin Park? It s probably been too long, right? Right. Let s put on Transformers tonight. The first in Michael Bay s franchise stars Shia LaBeouf and Megan Fox as Sam Witwicky and Mikaela Banes, respectively. When Sam buys his first car to impress Mikaela, he soon discovers the car is actually Bumblebee, an Autobot hiding on earth. Soon, Sam and Mikaela get sucked into a long-running war between the Autobots and evil Decepticons. For as very 2007 as it is, this action movie holds up. It also features Peter Cullen s Optimus Prime , one of his most beloved characters. Cullen is unfortunately among the legends we ve lost this year, and odds are, revisiting this performance will ease that ache even a little. Chris Pine and Michelle Rodriguez in Dungeons & Dragons: Honor Among Thieves (Paramount Pictures) Dungeons & Dragons: Honor Among Thieves If you recently watched Mayday over on Apple TV, you might fi
+
+### Here s What s in the New Footage in Avengers: Endgame Encore
+Sun, 27 Sep 2026 18:04:39 +0000 — https://www.thewrap.com/creative-content/movies/whats-in-avengers-endgame-encore-new-footage-doomsday/
+
+When Avengers: Endgame hit theaters in 2019, it was celebrated as a masterful finale for the first saga of the MCU. Now, Avengers: Endgame Encore is hitting theaters, including some new footage to set up the next Marvel event, Avengers: Doomsday . Endgame Encore features four all-new, all-different scenes to help tie the last chapter of the MCU into the future. While some of these scenes played in standard theater showings, others were only available on premium formats like IMAX and the recently-created Infinity Vision . So what happens in these new scenes, and how do they set up what s to come? Read on to find out. Spoiler warning: We re going to be talking about the new footage, so don t read on if you re planning on seeing Endgame this weekend. We re also going to be revealing what happens in Endgame, in case you ve somehow made it seven years without finding out. Chris Evans in Avengers: Doomsday (Credit: Marvel/YouTube) Scene 1: The Star-Spangled Man Needs a Plan The first new scene in Endgame Encore comes before the credits even roll. Most of Avengers: Endgame plays out how audiences remember it, with the film building to an emotional dance between Steve Rogers (Chris Evans) and Peggy Carter (Hayley Atwell) after Steve decided to leave superheroing behind once he d dropped off the time-displaced Infinity Stones. But before this scene can conclude, someone knocks at the door of Peggy s home (left slightly ajar to imply that the two got to dancing as soon as Steve returne
+
+### Don t Breathe 3 in the Works With Jane Levy and Stephen Lang Returning, Says Director Fede Álvarez
+Sun, 27 Sep 2026 17:52:59 +0000 — https://www.thewrap.com/creative-content/movies/dont-breathe-3-in-works-stephen-lang-jane-levy-returning/
+
+Hold your breath again! A third Don t Breathe film is in the works, according to franchise director Fede Álvarez. The filmmaker surprised fans with the news on Saturday, revealing the plans during a Q&A that followed a screening of the first Don t Breathe at Beyond Fest in Santa Monica, Calif. Álvarez was joined onstage by the first film s stars Stephen Lang, Jane Levy and Dylan Minnette. There s a screenplay for Don t Breathe 3. Jane will be back and Slang, (Stephen Lang), will be back, Álvarez told the crowd, gesturing to the two actors onstage in videos posted to social media from the Q&A. The announcement drew a round of gasps and applause from the fans in attendance. Representatives for Álvarez and Sony Pictures Releasing did not immediately respond to a request for further comment Released in 2016, the first Don t Breathe starred Minnette and Levy as a team of burglars that find themselves in the death trap residence of a blind Gulf War veteran (Lang) prepared to kill any home intruders. Notably, Álvarez did not note that Minnette would be returning for the threequel so you could guess how the story in the first film goes. The first Don t Breathe was a late summer breakout for Sony Pictures, earning $89 million domestic and $157 million worldwide. The sequel focused on Lang s character and saw Álvarez re-team with his co-writer Rodo Sayagues, who took over directing duties. That follow-up only grossed $32 million domestic and $53 million worldwide, but was released in A
+
+### Avengers: Endgame Adds $86 Million At Global Box Office From Encore Reissue
+Sun, 27 Sep 2026 15:44:49 +0000 — https://www.thewrap.com/industry-news/business/avengers-endgame-encore-86-million-box-office/
+
+On a weekend where all the films in the box office top 5 cleared $10 million, Marvel Studios was king with Avengers: Endgame Encore, which took in $26 million domestically and $86 million worldwide. The domestic total is just a touch above the $25.5 million grossed last year by the 20th anniversary re-release of Star Wars: Episode III Revenge of the Sith and brings the lifetime total of Endgame to $884 million domestic and $2.88 billion worldwide. Taking second is Sony s Resident Evil with $23.3 million in its second weekend, bringing its domestic total to $103.4 million. While the arrival of Endgame Encore may have led to a sharper 61% drop despite the strong reception for Zach Cregger s horror film, it should still be a solid theatrical success as it reaches $103 million domestic. Filling out the rest of the top 5 are a trio of new releases: A24 s Primetime, Paramount s Heart of the Beast and Universal/DreamWorks Forgotten Island. Of the three, Primetime is in the best place to turn a theatrical profit with a reported $15 million budget before marketing, while the other two face a more uphill battle with production spends of $80 million. But it is Heart of the Beast that narrowly leads the bunch with a $20 million domestic and $50 million global opening from 3,435 locations. Domestically, the film will have to leg out with its core audience of white moviegoers over 35, predominantly in rural states. Reception for the film is strong with an A- on CinemaScore and PostTrak sco
 
 ### SNL Weekend Update s Tucker Carlson Shades Summer Box Office Hits: Spider-They, Spider-Them
 Sun, 27 Sep 2026 05:02:22 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-weekend-update-tucker-carlson-summer-movies/
@@ -244,85 +254,55 @@ Sun, 27 Sep 2026 03:06:15 +0000 — https://www.thewrap.com/creative-content/mov
 
 Jon Watts has been tapped to direct the first film in a new “Star Wars” trilogy, TheWrap has learned. Best known as being the director behind the first three Tom Holland “Spider-Man” movies, “The Skeleton Crew” filmmaker will direct from a script written by Simon Kinberg. Lucasfilm previously hired the prolific writer and producer to write and produce a new trilogy of “Star Wars” films. An early report insinuated are that this will actually be chapters 10 – 12 of the Skywalker Saga, continuing the path that most recently concluded with “Star Wars: The Rise of Skywalker” in 2019. But there are others that insist this is a standalone series, something akin to the trilogies that David Benioff and D.B. Weiss and, separately, Rian Johnson, were working on for the company. It is being referred to as a “new saga.” Kinberg is no stranger to “Star Wars.” Following the acquisition of Lucasfilm by Disney, Kinberg was part of a small brain trust that was working on new projects for the studio. He consulted on J.J. Abrams’ “Star Wars: The Force Awakens” and co-created the animated series “Star Wars: Rebels” with Dave Filoni. Since “The Rise of Skywalker’s” release in 2019, a number of “Star Wars” film projects have been announced but have yet to materialize, including a standalone film from Taika Waititi, a movie centered on Rey (Daisy Ridley) from the latest trilogy and a “Lando” movie from Donald Glover. Lucasfilm declined to comment. Knight Edge Media first reported the news. The post 
 
-### NAZA Directors Bring Gaza Destruction Doc to NYFF: This Is Being Done With Taxpayer Money From People Sitting Here
-Sun, 27 Sep 2026 00:18:24 +0000 — https://www.thewrap.com/creative-content/movies/naza-directors-call-out-us-funding-israel-nyff/
-
-Following the premiere of NAZA at New York Film Festival on Saturday, the documentary s co-director Yuval Abraham emphasized the importance of screening the film for a North American audience, underlining that the U.S. government funds the Israeli military attacks in Gaza depicted in the feature. It’s important for us to see this film at this moment, as you were saying, because these older officials are talking about what is being done with taxpayer money from people sitting here,” said Abraham onstage (as reported by Variety ). “This is what your country is supporting and funding … Part of the goal (of this film) is to make denial of what’s going on in Gaza harder.” Abraham s comments came after the screening, when he was joined on-stage for a Q&A by his co-director, Rachel Szor, and NYFF director Dennis Lim. “NAZA” investigates the ongoing Gaza war, featuring testimony from anonymous Israeli military intelligence officers and soldiers, including one subject that states that the IDF approved an airstrike that could kill 500 Palestinians a claim that the IDF has denied . The documentary takes its title from a military acronym used by the IDF to measure the number of civilians expected to be killed as collateral damage in an airstrike. The feature reunites Abraham and Szor, whose prior doc “No Other Land” (co-directed by Palestinian filmmakers Basel Adra and Hamdan Ballaltracked) tracked settler violence in the occupied West Bank and won the Oscar for best documentary feature 
-
-### ‘Godzilla Minus Zero’ Review: One of the Great Godzilla Sequels, but Not One of the Great Godzilla Films
-Sun, 27 Sep 2026 00:14:00 +0000 — https://www.thewrap.com/creative-content/reviews/godzilla-minus-zero-review/
-
-When Ishirō Honda’s original “Gojira” debuted in 1954, it demanded to be taken seriously even though it was about a giant, fire-breathing lizard. Horror movies about enormous animals were big business in the 1950s, and some of the American films in the genre had ideas — not nuanced ideas, but ideas nonetheless — about the dangers of science gone amok in the nuclear era. These anxieties about a destructive radioactive cataclysm were pervasive in the U.S. But Gojira used an eldritch leviathan as an analog for the nuclear bomb s devastating impact on Japan. Its horrors reflected recent, traumatic, excruciatingly real memories. Watching “Gojira” today, in the wake of everything the “Godzilla” franchise later became, can be strange. In the wake of “Gojira’s” success, a sequel was rushed into development, “Godzilla Raids Again,” which found a second Godzilla returning to attack Japan (the original was vaporized by a weapon of mass destruction). Since that was a little repetitive, even for a sequel in the 1950s, Godzilla also fought a giant ankylosaurus named Anguirus. That’s where the metaphor began to strain. Godzilla attacks once and it’s a powerful allegory. Godzilla attacks and also has to wrestle a spiky turtle creature… less so. Over the decades since, Godzilla has starred in over three dozen movies — sometimes with Anguirus, who eventually became Godzilla’s canonical best friend. The monster grew into a reluctant antihero, then an honest-to-goodness hero, then a kids movie i
-
-### Sylvester Stallone Admits to Steroid Use for Rocky III : Nobody Does It Without Additives and Drugs, Period
-Sat, 26 Sep 2026 23:00:08 +0000 — https://www.thewrap.com/creative-content/movies/sylvester-stallone-admits-steroids-rocky-iii/
-
-Sylvester Stallone opened up about his relationship with his body as an action star through the 80s and 90s, admitting that he abused himself in a very masochistic process to stay in shape. The mentality even extended to him using steroids and becoming bulimic while getting down to 2.6% body fat for shooting on 1982 s Rocky III. It became an obsession. Really bad. It got to the point where I became bulimic, Stallone shared on The New York Times podcast The Interview. I couldn’t hold anything down. Or I didn’t want to keep it down because I became so obsessed with staying at that point of fitness, literally an obsessive body-worship kind of thing. And nobody does it without additives and drugs, period. I don’t care what they say. It isn’t as though you’re a junkie, but if you’re going to work out and try to stay in shape for six months straight and you’re eating yogurt and pudding it’s not happening. When asked directly if he was taking steroids at the time, Stallone responded with, Oh, my god, you have to. You do it in a sensitive way — six weeks on, six weeks off. People go, Oh, you don’t get that way naturally. No, you don’t. But that also took a terrible toll, the 80-year-old star continued. I’ve abused my body. I’ve had nine back operations, two shoulder operations, three neck fusions. Everything is held together with baling wire, but I still want to stay in good shape It’s come at a terrible price. If I could do it over again, I would say, Let someone else carry the bann
-
-### Jeff Probst Says Survivor DEI Policy Was One of the Biggest Positive Changes Ever
-Sat, 26 Sep 2026 21:39:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/jeff-probst-says-survivor-dei-policy-was-one-of-the-biggest-positive-changes-ever/
-
-Survivor host Jeff Probst shared that nothing has changed about the show s diversity, equity and inclusion initiative in the years since CBS announced one for all of its reality TV casting in 2020. Probst suggested that the policy has made Survivor even better over its recent seasons. Nothing has changed, Probst told the New York Times when asked about the status of the show s DEI initiative. If you watch our show, you know that we’re so diverse — and it’s not just skin color or ethnicity. It goes much deeper than that. It’s one of the biggest positive changes ever. Our stories are so much more interesting now because we have people from completely different walks of life. In the wake of protests against racial injustice and discrimination after the murder of George Floyd in 2020, CBS was one of many companies to launch DEI policies as a way to formalize corporate accountability for increased diversity. Many of those policies have been abandoned by private companies in the years since, especially after President Donald Trump s 2025 executive order to remove DEI programs from the federal workforce. In November 2o20, CBS announced that it would introduce an initiative for its reality TV programming, requiring its shows to ensure that 50% of its casts are Black, Indigenous or People of Color and committing at least 25% of development budget towards BIPOC creators and producers. The network later ended those policies after David Ellison s Skydance Entertainment ensured the Federa
-
-### YouTube, Meta Restore Ads for Musk Documentary: This Was an Error
-Sat, 26 Sep 2026 20:08:12 +0000 — https://www.thewrap.com/creative-content/movies/musk-documentary-ads-youtube-meta-error/
-
-Advertisements for Bleecker Street s Elon Musk documentary Musk will begin running on Meta and YouTube after previously being rejected by both platforms, according to both companies. The decision comes after a story published by The Hollywood Reporter on Friday detailed that the two tech giants, along with TikTok and the Musk-owned X, were refusing to run ads for Musk. This was an error and we’re restoring the ads, a Meta spokesperson said in a statement to TheWrap on Saturday. The trailer has always been available on YouTube. When submitted as an ad, it was temporarily restricted by our system, reads a statement posted to YouTube s official social media account on Saturday. Following review the ad has been cleared to run. Representatives for TikTok and X did not immediately respond to a request for comment. X is owned by Musk, so there s a clear logic to its rejection of advertisements for a documentary that its leadership has publicly described as dogs t. Musk has also threatened legal action against the documentary, which includes claims that he used his Starlink satellites to influence the 2024 presidential election. The four-hour Musk debuted at Venice Film Festival in early September to strong reviews. Directed by Alex Gibney, whose prior documentary subjects include the Church of Scientology and Elizabeth Holmes, the film will be released in North America by Bleecker Street on Oct. 9. In TheWrap s review out of Venice , contributor and critic Ben Croll wrote that Musk 
-
-### Kane Parsons Doesn t Consider Backrooms a Horror Film: Oblivious to Those Labels
-Sat, 26 Sep 2026 19:18:55 +0000 — https://www.thewrap.com/creative-content/movies/backrooms-director-rejects-horror-label/
-
-Backrooms director Kane Parsons voiced his resistance to calling his hit debut feature a horror film, going on to share plans to skirt such genre labels with his future projects. I didn’t direct like a horror film. I don’t view it as a horror project That s just naturally been the path of least resistance from a marketing perspective and it’s what seems comfortable to people as a framing device, Parsons said, speaking during a panel at Zurich Summit on Saturday (per Deadline ). I’m going to try to stay as oblivious to those labels as possible I have more creative control now with future projects so those sorts of structures will probably be a little less forceful in the future.” Parsons was speaking on a business panel focused on the box office s resurgent year so far, joining the Zurich Summit alongside Bill Kramer, Academy of Motion Picture Arts and Sciences CEO; Robbie Brenner, president and chief content officer for Mattel Studios; and Michael Barker, co-head of Sony Pictures Classics. With a $400 million global gross, Backrooms ranks as A24 s biggest theatrical release ever and, alongside Focus Features Obsession ($519 million worldwide), has been considered a load-bearing moment for the horror genre s popularity among moviegoers. Parsons adapted the feature from his viral Backrooms web series, a number of found-footage videos that traverse caverns of uncanny interior design. The videos drew a strong following and spurred a dedicated online community that speculated on t
-
 ## Collider
 
-### 'The X-Files’ Most Ambitious Episode Broke Its Most Frustrating 6-Year Trend
-Sun, 27 Sep 2026 15:11:11 GMT — https://collider.com/the-x-files-millennium-episode-mulder-scully-kiss/
+### ‘Better Call Saul’s Best Sequel Is Hidden in Its Most Ambitious Episode
+Sun, 27 Sep 2026 19:41:12 GMT — https://collider.com/better-call-saul-best-sequel-most-ambitious-episode-nippy/
 
-TV fans today complaining about slow burns must have missed out on The X-Files craze of the 1990s and early-2000s. The series was infamous for teasing a romance between its two protagonists — Agent Fox Moulder ( David Duchovny ) and Dr. Dana Scully ( Gillian Anderson ) — without ever defining their relationship. In fairness, the agents had other things to worry about. In fact, they were right in the middle of the show's biggest serialized storyline when the producers finally allowed them to share a kiss on screen. This should have been a relief to fans, but many found it maddening. For one thing, the kiss came without much fanfare or commentary, and for another, it happened at the end of the show's most ambitious installment to date.
+For now, the Breaking Bad / Better Call Saul television universe appears to be over. Honestly, with how powerfully the prequel series concluded in 2022, it would be foolish to return after leaving on such a high note . Still, because the worlds created by Vince Gilligan and Peter Gould are so rich and populated by indelible characters, the possibilities for spin-offs and revivals are endless . In a just world, audiences would not be oversaturated with IP cash grabs that overstay their welcome.
 
-### Nicolas Cage's Bonkers Sci-Fi Classic Is Officially Coming to Free Streaming
-Sun, 27 Sep 2026 15:10:12 GMT — https://collider.com/knowing-free-streaming-nicolas-cage-roger-ebert-tubi-october/
+### Only 3 Epic Movies Are More Entertaining Than The Lord of the Rings
+Sun, 27 Sep 2026 19:40:11 GMT — https://collider.com/epic-movies-more-entertaining-than-the-lord-of-the-rings/
 
-With Nicolas Cage in the middle of yet another comeback — he will soon make an awards bid with the upcoming film Madden — it's a great time to revisit one of the most divisive films of his heyday. The movie in question was released in 2009, just a couple of years after National Treasure: Book of Secrets , and one year before the movie that changed the trajectory of Cage's career: The Sorcerer's Apprentice . The critical and commercial failure of the big-budget fantasy film left Cage struggling to secure leading parts in major movies for the next few years. He bounced back with the acclaimed drama Pig , and then with the chilling supernatural thriller Longlegs .
+There are people who think epic cinema should be admired from a respectful distance. Absolutely not. If a movie wants three hours of your life, it should make you forget your phone exists. That is why The Lord of the Rings trilogy remains such a vicious benchmark. You get Moria, Helm’s Deep, the Ride of the Rohirrim, Gollum ( Andy Serkis ) arguing with himself, Aragorn ( Viggo Mortensen ) kicking that helmet like it personally offended him, and a fellowship you genuinely miss when everyone splits up. Those movies are enormous without ever becoming impersonal.
 
-### 10 Best Whodunits for Beginners, Ranked
-Sun, 27 Sep 2026 15:04:11 GMT — https://collider.com/best-whodunits-for-beginners-ranked/
+### 'Fallout' Creator's First Original Sci-Fi Franchise in Decades Is Officially Dead
+Sun, 27 Sep 2026 19:30:11 GMT — https://collider.com/starfield-2-former-bethesda-developer-kurt-kuhlmann/
 
-Society has always been fascinated by mysteries . Whether it is a case of true crime or a major conspiracy, the cryptic puzzles and thought-provoking stories have a way of hooking us in with pure intrigue. When it comes to movies, the classic whodunit murder mystery stands to be a majority favorite among film fans who are lured in by life-altering stakes and the unwavering sense of suspense and unpredictability.
+Bethesda spent years building Starfield as its first major new universe in decades. The result gave players hundreds of planets to visit, ships to build, and a mystery stretching across the Settled Systems. It also left some players wondering what the studio could accomplish if it took everything it learned and tried again.
 
-### Taylor Sheridan’s 2-Part ‘Yellowstone’ Spin-Off Returns This Week
-Sun, 27 Sep 2026 14:30:11 GMT — https://collider.com/marshals-yellowstone-spinoff-taylor-sheridan-season-2-premiere/
+### The 6 Best Romance Books Released Since 1990, Ranked
+Sun, 27 Sep 2026 19:19:11 GMT — https://collider.com/best-romance-books-since-1990-ranked/
 
-While his day-to-day involvement in the Yellowstone franchise appears to be only tangential, Taylor Sheridan remains a vital asset for the Paramount+ streaming service. He's currently in a transitional phase, having severed ties with Paramount and partnered with NBCUniversal, but several of his hit shows continue to air in his former streaming home. This year alone, Sheridan has released the brand-new neo-Western series The Madison , which has been renewed for a second season. He also expanded the Yellowstone franchise with two follow-ups, Marshals and Dutton Ranch . More recently, he delivered the third season of his spy thriller series Lioness , with the fourth season of his crime show Tulsa King lined up next. Around the same time, the Yellowstone franchise will continue its expansion with the return of its least-liked installment.
+A lot of people write off romance as the genre where nothing bad can really happen , just a teeny tiny misunderstanding before everything gets resolved in an instant. All this since you already know the couple ends up together. These six prove that's not really true, a happy ending doesn't mean getting there is easy, painless, or even guaranteed to feel the way you'd expect going in. Some of these authors put their leads through real loss, distance, actual years apart, before ever letting them land somewhere good.
 
-### Joel McHale's 'Animal Control' Is Still One of TV's Best-Kept Secrets | Review
-Sun, 27 Sep 2026 14:00:11 GMT — https://collider.com/animal-control-season-5-review-joel-mchale/
+### Mark Wahlberg’s ‘Sicario’ Meets ‘Lethal Weapon’ Crime Thriller Is Officially Leaving Netflix
+Sun, 27 Sep 2026 19:00:13 GMT — https://collider.com/mark-wahlberg-2-guns-leaving-netflix-september-2026/
 
-Five seasons is no small miracle for a sitcom that feels like one of TV’s best-kept secrets. Fox’s Animal Control continues to blend the deliciously funny workplace chaos of Brooklyn Nine-Nine with the easy ensemble chemistry of Parks and Recreation . But amid the wild animal calls and shenanigans that give the series its own brand of nonsense from showrunners Bob Fisher , Rob Greenberg , and Dan Sterling , it’s also delivering one of its best seasons to date . After all, where else can you find a show that makes a puppy mill raid look like a Michael Bay movie, but ends with a $63 citation fee?
+2026 has been a somewhat quiet year for Mark Wahlberg , especially compared to other years when he’s starred in several of the biggest action blockbusters in theaters and on streaming. Just a few weeks ago, Wahlberg’s second movie of 2026, By Any Means , hit theaters, but despite the combined star power of Wahlberg and Yahya Abdul-Mateen II , the film is struggling to get off the ground at the box office. Wahlberg began the year by teaming up with Paul Walter Hauser for the Prime Video action comedy, Balls Up , which spent weeks in the top 10 despite polarizing reviews. 2025 saw Wahlberg star in several big movies including a sequel to The Family Plan , which was added to Apple TV near the end of last year. There are rumors that a third movie is in the works, but nothing concrete has been announced.
 
-### Alan Ritchson’s ‘John Wick’ Replacement Officially Hits 30-Day Digital Milestone
-Sun, 27 Sep 2026 13:50:11 GMT — https://collider.com/motor-city-alan-ritchson-digital-chart-30-day-streak/
+### 10 Fantasy Series That Are Perfect From Beginning to End, Ranked
+Sun, 27 Sep 2026 18:49:11 GMT — https://collider.com/fantasy-shows-perfect-beginning-to-end-ranked/
 
-While Robert Pattinson continues his terrific year with Primetime , Alan Ritchson is proving his popularity across three different platforms. His latest theatrical release, Runner , is on the verge of hitting the $15 million mark after 10 days of release, while his streaming sensation Reacher remains one of the most-watched shows in the world. According to the latest Nielsen report, Reacher remained at number one for the fifth week in a row on the overall streaming charts, with its spin-off series Neagley set to take over when Nielsen shares updated figures. Meanwhile, with streaming and theatrical in his pocket already, an action movie headlined by Ritchson has passed a major milestone on the domestic PVOD market.
+Fantasy is the oldest and most diverse genre of human storytelling. Limited only by the storyteller's imagination, it takes the familiar aspects of our world and represents them through a fantastical lens to help us make sense of them. Fears and anxieties transform into horrific monsters, virtues become great heroes, and a forbidding forest could conceal an entire enchanted realm within.
 
-### The 6 Most Fun Movies Released Since 2020, Ranked
-Sun, 27 Sep 2026 13:31:11 GMT — https://collider.com/most-fun-movies-since-2020-ranked/
+### 8 Most Original Fantasy TV Shows, Ranked
+Sun, 27 Sep 2026 18:33:11 GMT — https://collider.com/most-original-fantasy-shows-ranked/
 
-Entertainment value is a subjective quality among different audiences , and the biggest discrepancy between fans and cinephiles is what constitutes “fun.” Although the term “fun” can be used in an almost disparaging way to describe or defend lazy blockbuster or franchise films that exist only to satisfy Internet commenters , cinema was created as a form of entertainment as much as it was a form of art, and there is no shame in making something that is unabashedly entertaining. The aftermath of the COVID-19 pandemic and the consequences that it had on the global box office has ensured that pure escapism is more desired than ever before, especially when audiences are seeking escapism. Although the box office has taken some significant hits in recent years due to factors that are beyond the control of any one studio, there does seem to be a conscious desire from audiences to turn cinemagoing into a communal experience once more.
+Television is an excellent medium for adapting fantasy , because it allows the plot time to develop, and has the room to introduce the characters and build this world. Many classic fantasy series have made for fantastic television adaptations, like Game of Thrones , Interview with the Vampire , and Shadow and Bone . Even great fantasy movies can be improved as TV shows, like What We Do in the Shadows and Buffy the Vampire Slayer .
 
-### Jon Hamm’s New True Crime Series Officially Defeats Titus Welliver's ‘Bosch’ Replacement
-Sun, 27 Sep 2026 13:15:11 GMT — https://collider.com/american-hostage-the-westies-streaming-charts-jon-hamm-titus-welliver/
+### Mel Gibson's Sci-Fi Horror Gem Officially Scores Big on Streaming
+Sun, 27 Sep 2026 18:30:12 GMT — https://collider.com/mel-gibson-signs-streaming-hit-peacock-september-2026/
 
-It's the season of crime on streaming, with the recently released Unabomber movie jumping to the top of the Netflix viewership charts. Meanwhile, the latest seasons of Guy Ritchie 's The Gentlemen and MobLand are enjoying continued success on their respective platforms, while another face-off unfolds on MGM+. The Westies , a crime drama series headlined by J.K. Simmons and Titus Welliver , had been enjoying relative freedom for the past several weeks, facing competition only in the form of the sci-fi series From . More recently, however, a new crime series has offered a fresh challenge to The Westies , replacing it as the number-one series domestically on MGM+.
+Hollywood veteran Mel Gibson is no stranger to an epic feat of crowd-pleasing filmmaking . From his work behind the camera on the religious-themed World War II movie Hacksaw Ridge or as director, producer, and star of the multi-Academy Award-winning Braveheart , Gibson has made a name for himself as a key figure in some of Hollywood's most ambitious projects. In 2004, Gibson stole headlines once again with the controversial film of his career, The Passion of the Christ , which to this day angers certain conservative sections of cinephiles.
 
-### Kevin Costner’s Forgotten ‘Taken’ Dupe Is Officially Leaving Streaming
-Sun, 27 Sep 2026 12:45:11 GMT — https://collider.com/kevin-costner-3-days-to-kill-leaving-starz-october-2026/
+### The Gentlemen S2: A Hidden Pool Forced a Script Change | Collider BTS
+Sun, 27 Sep 2026 18:15:11 GMT — https://collider.com/video/the-gentlemen-s2-a-hidden-pool-forced-a-script-change-collider-bts/
 
-For all his maverick originality, Kevin Costner can certainly lean into Hollywood trends when he wants to. A few years ago, he and his Man of Steel co-star Diane Lane appeared together in a neo-Western thriller film titled Let Him Go , which was seemingly designed to capitalize on the popularity of Taylor Sheridan 's Yellowstone . Around a decade earlier, following the success of the action thriller Taken , Costner headlined his own alternative. The movie in question is currently streaming in the United States on Starz, but not for much longer.
+The Gentlemen Season 2 turned broad daylight into moonlight for one of its action-heavy episodes — and doing it convincingly required far more than simply making the image darker.
 
-### Reacher Creator Officially Reveals Why Tom Cruise Finally Took the Role After 7 Years [Exclusive]
-Sun, 27 Sep 2026 12:45:11 GMT — https://collider.com/tom-cruise-jack-reacher-casting-real-reason-lee-child/
+### Bruce Willis’ 126-Minute Sci-Fi Classic Is Officially a Netflix Hit
+Sun, 27 Sep 2026 18:00:12 GMT — https://collider.com/bruce-willis-sci-fi-the-fifth-element-netflix-streaming-september-2026/
 
-Tom Cruise playing Jack Reacher eventually became one of the most controversial casting decisions in modern action movies, but here’s the weird part: he wasn’t originally attached to play him at all. According to Lee Child , Cruise’s involvement with Jack Reacher began behind the scenes, years before he decided he wanted to step in front of the camera.
+Some sci-fi movies like to drown you in their own rules and lore, and expect you to keep up, and then there’s one where John McClane drives a flying taxi, the farting bloke from Slow Horses has possibly the greatest haircut ever committed to film, and one of the Rush Hour guys spends most of his screen time screaming while dressed like an intergalactic leopard. Nearly 30 years later, it still feels completely new and fresh.
 

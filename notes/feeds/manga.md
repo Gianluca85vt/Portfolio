@@ -1,9 +1,24 @@
-# Manga — harvested 2026-09-27T15:17:53.407Z
+# Manga — harvested 2026-09-27T19:52:06.093Z
 
 ## Anime News Network
 
+### 'Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga' Gets Miniseries in October
+Sun, 27 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/destroy-all-humans-they-cant-be-regenerated-a-magic-the-gathering-manga-gets-miniseries-in-october/.242220
+
+Original series based on card game ended in April 2025
+
+### Akaza Samamiya's Mr. Mallow Blue Side Story Manga Ends in Next Chapter
+Sun, 27 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/akaza-samamiya-mr-mallow-blue-side-story-manga-ends-in-next-chapter/.242225
+
+Side story debuted in January
+
+### Orbitals Game Review
+Sun, 27 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/orbitals/.241790
+
+Despite the gorgeous veneer, the characterization and writing in Orbitals don't have anywhere near the same amount of gas that everything else in it does.
+
 ### Killing Bites' Shinya Murata Launches New Fantasy Ninja Manga
-Sun, 27 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/killing-bites-shinya-murata-launches-new-fantasy-ninja-manga/.242226
+Sun, 27 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/killing-bites-shinya-murata-launches-new-fantasy-ninja-manga/.242226
 
 <cite>Shinoblade SHINOBI BLADE</cite> debuted on September 25
 
@@ -46,21 +61,6 @@ Series ended on June 5
 Sat, 26 Sep 2026 20:43:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/overgeared-anime-gets-same-day-english-dub-on-september-27/.242208
 
 Company reveals English dub cast, staff
-
-### Happy Harvest Moon From Around the Anime World
-Sat, 26 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-26/happy-harvest-moon-from-around-the-anime-world/.242210
-
-Featuring <i>Frieren, Gundam, Pragmata, Spice & Wolf, Chiikawa, Pokémon, Bayonetta</i>, Square Enix, & more!
-
-### MY HERO ACADEMIA: All's Justice Switch 2 Port Video Game Review
-Sat, 26 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-2-port-video/my-hero-academia/all-justice/.242057
-
-This game is meant to enhance the experience of an established fan rather than draw in potential new ones.
-
-### Welcome to Demon School, Iruma-kun Season 4 ‒ Episode 24
-Sat, 26 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/welcome-to-demon-school-iruma-kun-season-4/episode-24/.242218
-
-And so ends another season with the Misfit Class. Luckily the English translation of the manga has caught up with the anime, so we won't have to wait to find out what happens next.
 
 ## Crunchyroll News
 
@@ -130,6 +130,11 @@ A new Code Geass anime titled Star Chaser Aspal announced for 2027, revealing it
 
 ## MyAnimeList News
 
+### Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2 Announced for 2027
+Sun, 27 Sep 2026 08:57:54 -0700 — https://myanimelist.net/news/74766124?_location=rss
+
+The 14th and final episode of Mushoku Tensei III: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation Season 3) television anime announced on Sunday that its second part is scheduled for 2027, accompanied by an announcement promotional video. Produced by Studio Bind, the 23-episode first season aired in split cours in Winter 2021 and Fall 2021. The 24-episode second season premiered in two parts, with the first part in Summer 2023 and the second part in Spring 2024. The first part of...
+
 ### New Monster Strike: Mera×Death: Shinigami to Boku no Ijou na Koi Announced for Winter 2027
 Sun, 27 Sep 2026 05:25:21 -0700 — https://myanimelist.net/news/74765539?_location=rss
 
@@ -144,21 +149,6 @@ The Mairimashita! Iruma-kun (Welcome to Demon School! Iruma-kun) special event "
 Sat, 26 Sep 2026 18:02:15 -0700 — https://myanimelist.net/news/74764175?_location=rss
 
 Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday, stating that Masuda died at a hospital in Tokyo. A private funeral service has been held by his close relatives. Born in Kobe in 1927, Masuda was expelled from a technical training school in July 1945 due to a mismatch with its military indoctrination. He later attended the Osaka University of For...
-
-### Tensei shitara Slime Datta Ken 4th Season Part 2 Announced for Summer 2027, Clayman Revenge Spin-off Gets TV Anime for Spring 2027
-Fri, 25 Sep 2026 12:11:03 -0700 — https://myanimelist.net/news/74759618?_location=rss
-
-The 24th and final episode of the Tensei shitara Slime Datta Ken 4th Season (That Time I Got Reincarnated as a Slime Season 4) television anime announced on Friday that its second part will premiere in July 2027. The official website simultaneously announced a television anime adaptation of Wataru Kajika s spin-off manga Tensei shitara Slime Datta Ken: Clayman Revenge (That Time I Got Reincarnated as a Slime: Clayman s Revenge), revealing the main staff, teaser visual (pictured right)...
-
-### Hell Mode Third Season in Production
-Fri, 25 Sep 2026 10:22:55 -0700 — https://myanimelist.net/news/74759332?_location=rss
-
-The 13th and final episode of Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru 2nd Season (Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing Season 2) ended with an announcement on Friday that a third season is in production. The official website also revealed an announcement visual (pictured). Produced by Yokohama Animation Lab, the first season aired in 12 episodes in Winter 2026. The second season premiered on July 4. Sentai Filmworks licens...
-
-### Kore Kaite Shine Gets Second Season
-Fri, 25 Sep 2026 09:47:16 -0700 — https://myanimelist.net/news/74759213?_location=rss
-
-The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda s comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...
 
 ## Otaku USA
 
