@@ -1,10 +1,11 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { CSSProperties } from 'react';
 import { ArrowDown, ArrowRight } from 'lucide-react';
 import AvatarScrub from '../ui/AvatarScrub';
 import { site } from '../../data/portfolio';
 import { chooser, hero } from '../../data/home';
-import { Buckets, useMode, useVoiced } from './ui';
+import { Buckets, Letters, useMode, useVoiced } from './ui';
+import { useLetterGlow } from '../ui/useLetterGlow';
 
 export type LatestPost = { slug: string; title: string; category: string; excerpt: string };
 
@@ -12,21 +13,39 @@ export type LatestPost = { slug: string; title: string; category: string; excerp
 const READY_FALLBACK = 2600;
 const TICKER_EVERY = 5200;
 
+/** When the last letter of the name has finished rising (see .vp-rise). */
+const HEADLINE_SETTLES_MS = 2300;
+
 function Headline() {
+  const ref = useRef<HTMLHeadingElement>(null);
+  const [settled, setSettled] = useState(false);
+  useLetterGlow(ref, settled);
+
+  useEffect(() => {
+    const t = window.setTimeout(() => setSettled(true), HEADLINE_SETTLES_MS);
+    return () => window.clearTimeout(t);
+  }, []);
+
   let i = 0;
   const words = hero.greeting.split(' ');
   return (
     <h1
+      ref={ref}
       aria-label={hero.greeting}
-      className="font-black uppercase tracking-tight leading-[0.86] sm:whitespace-nowrap text-center text-[18vw] sm:text-[11vw] md:text-[11.3vw] lg:text-[11.6vw]"
+      className={`font-black uppercase tracking-tight leading-[0.86] sm:whitespace-nowrap text-center text-[18vw] sm:text-[11vw] md:text-[11.3vw] lg:text-[11.6vw] ${
+        settled ? 'vp-settled' : ''
+      }`}
     >
       {words.map((word, w) => (
         // On a phone the name takes a line of its own, at twice the size.
         <span key={w} aria-hidden="true" className={w === words.length - 1 ? 'block sm:inline' : undefined}>
           <span className="vp-line" style={{ display: 'inline-block' }}>
+            {/* The rise is a CSS animation on the outer span; the glow writes
+                its transform on the inner one, where the animation's fill
+                cannot override it. */}
             {[...word].map((ch) => (
-              <span key={i} className="vp-rise hero-heading" style={{ '--i': i++ } as CSSProperties}>
-                {ch}
+              <span key={i} className="vp-rise" style={{ '--i': i++ } as CSSProperties}>
+                <Letters text={ch} className="hero-heading" />
               </span>
             ))}
           </span>
@@ -156,6 +175,8 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
   const lede = useVoiced(hero.lede);
   const [ready, setReady] = useState(false);
   const [touch, setTouch] = useState(false);
+  const [wire, setWire] = useState(false);
+  const [wireReady, setWireReady] = useState(false);
 
   useEffect(() => {
     setTouch(!window.matchMedia('(hover: hover) and (pointer: fine)').matches);
@@ -186,6 +207,9 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
           <AvatarScrub
             alt="3D portrait of Gianluca Scattarella that turns to follow the pointer"
             onReady={() => setReady(true)}
+            wire={wire}
+            glitch
+            onWireReady={setWireReady}
             className="block h-[60svh] sm:h-[66vh] md:h-[76vh] lg:h-[82vh] w-auto max-w-none select-none"
           />
           <Buckets cols={16} rows={9} active={ready} step={6} />
@@ -206,13 +230,37 @@ export default function Hero({ latest = [] }: { latest?: LatestPost[] }) {
         </div>
       </div>
 
-      <p
-        className="vp-appear vp-label hidden sm:flex absolute z-20 right-8 md:right-10 top-[46%] items-center gap-2 text-[#D7E2EA]/50"
-        style={{ '--delay': '1.8s' } as CSSProperties}
-      >
-        <span aria-hidden="true" className="text-[#ff8a3d]">↔</span>
-        {touch ? hero.turnHint.touch : hero.turnHint.fine}
-      </p>
+      {/* The shading switch, as a 3D viewport has it. Centred under the name
+          on a phone, beside the head on anything wider. */}
+      <div className="absolute z-20 left-1/2 -translate-x-1/2 top-[268px] sm:left-auto sm:translate-x-0 sm:right-8 md:right-10 sm:top-[44%]">
+        <div className="vp-appear flex flex-col items-center sm:items-end gap-2.5" style={{ '--delay': '1.8s' } as CSSProperties}>
+          <div role="group" aria-label="Viewport shading" className="inline-flex rounded-full border border-[#D7E2EA]/20 bg-black/50 backdrop-blur-sm p-0.5">
+            {[
+              { on: false, label: 'Shaded' },
+              { on: true, label: 'Wireframe' },
+            ].map((opt) => {
+              const active = wire === opt.on;
+              return (
+                <button
+                  key={opt.label}
+                  type="button"
+                  aria-pressed={active}
+                  onClick={() => setWire(opt.on)}
+                  className={`vp-label !text-[0.6rem] rounded-full px-3 py-1.5 transition-colors duration-300 ${
+                    active ? 'bg-[#D7E2EA] text-black' : 'text-[#D7E2EA]/60 hover:text-[#D7E2EA]'
+                  }`}
+                >
+                  {opt.on && wire && !wireReady ? 'Loading…' : opt.label}
+                </button>
+              );
+            })}
+          </div>
+          <p className="vp-label hidden sm:flex items-center gap-2 text-[#D7E2EA]/50">
+            <span aria-hidden="true" className="text-[#ff8a3d]">↔</span>
+            {touch ? hero.turnHint.touch : hero.turnHint.fine}
+          </p>
+        </div>
+      </div>
 
       <div className="absolute inset-x-0 bottom-0 z-20 px-5 sm:px-8 md:px-10 pb-5 md:pb-14 flex flex-col md:flex-row md:items-end justify-between gap-4 md:gap-8">
         <div className="vp-appear max-w-[420px]" style={{ '--delay': '1s' } as CSSProperties}>

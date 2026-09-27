@@ -3,7 +3,8 @@ import { ArrowUpRight, Plus } from 'lucide-react';
 import { services } from '../../data/portfolio';
 import { disciplineExtras } from '../../data/home';
 import type { DisciplineLink } from '../../data/home';
-import { Reveal, SectionTitle, Slate, goTo, useMode, useThumb, useVoiced } from './ui';
+import { Letters, Reveal, SectionTitle, Slate, goTo, useMode, useThumb, useVoiced } from './ui';
+import { useLetterGlow } from '../ui/useLetterGlow';
 
 export type DisciplineCounts = Record<string, string>;
 
@@ -95,6 +96,8 @@ function Row({
   const { mode } = useMode();
   const thumb = useThumb();
   const panelId = `discipline-${service.number}`;
+  const nameRef = useRef<HTMLSpanElement>(null);
+  useLetterGlow(nameRef, open);
 
   return (
     <li className="border-b border-[#D7E2EA]/[0.12]">
@@ -110,12 +113,16 @@ function Row({
       >
         <span className="vp-label text-[#ff8a3d] w-8">{service.number}</span>
         <span
-          className={`font-black uppercase leading-[0.95] tracking-tight transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:translate-x-3 ${
-            open ? 'vp-grad-text' : 'text-[#D7E2EA]'
-          }`}
+          ref={nameRef}
+          className="font-black uppercase leading-[0.95] tracking-tight text-[#D7E2EA] transition-transform duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] group-hover:translate-x-3"
           style={{ fontSize: 'clamp(1.7rem, 5.6vw, 5.4rem)' }}
         >
-          {service.name}
+          {service.name.split(' ').map((word, i, all) => (
+            <span key={i} className="inline-block whitespace-nowrap">
+              <Letters text={word} className={open ? 'vp-grad-v' : ''} />
+              {i < all.length - 1 ? '\u00a0' : null}
+            </span>
+          ))}
         </span>
         <span className="flex items-center gap-4">
           {counts[service.name] ? (

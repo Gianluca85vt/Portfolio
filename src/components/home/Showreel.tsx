@@ -1,4 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
+import type React from 'react';
 import type { CSSProperties } from 'react';
 import { showreel } from '../../data/portfolio';
 import { reel } from '../../data/home';
@@ -26,14 +27,23 @@ export default function Showreel() {
   const [playing, setPlaying] = useState(false);
   const stage = useRef<HTMLDivElement>(null);
   const scroller = useRef<HTMLDivElement>(null);
+  const content = useRef<HTMLDivElement>(null);
   const drag = useRef<{ x: number; left: number; moved: boolean } | null>(null);
+  const scrubbing = useRef(false);
+  // Where the playhead stands, in clips from the start. Null while it simply
+  // marks the middle of the loaded clip; a number once it has been dragged.
+  const [head, setHead] = useState<number | null>(null);
+  const [scrub, setScrub] = useState(false);
   const inView = useInView(stage);
   const thumb = useThumb();
 
   const video = showreel[active];
+  const position = head ?? active + 0.5;
 
-  // Keep the loaded clip in view on the timeline, without moving the page.
+  // Keep the loaded clip in view on the timeline, without moving the page —
+  // except while the playhead is being dragged, when the view follows the hand.
   useEffect(() => {
+    if (scrubbing.current) return;
     const box = scroller.current;
     const clip = box?.querySelector<HTMLElement>(`[data-clip="${active}"]`);
     if (!box || !clip) return;
@@ -56,8 +66,60 @@ export default function Showreel() {
 
   const pick = (i: number) => {
     if (drag.current?.moved) return;
+    setHead(null);
     setActive(i);
     setPlaying(true);
+  };
+
+  /**
+   * Scrubbing: the playhead goes where the pointer is, and whichever clip it
+   * stands on is loaded into the player, as in an editor. It starts from the
+   * ruler or from the playhead itself; the tracks below still drag the view.
+   */
+  const scrubTo = (clientX: number) => {
+    const box = scroller.current;
+    const inner = content.current;
+    if (!box || !inner) return;
+    const styles = getComputedStyle(box);
+    const clip = parseFloat(styles.getPropertyValue('--clip')) || 156;
+    const label = parseFloat(styles.getPropertyValue('--label')) || 128;
+    const x = clientX - inner.getBoundingClientRect().left - label;
+    const pos = Math.min(showreel.length - 0.001, Math.max(0, x / clip));
+    setHead(pos);
+    setActive(Math.floor(pos));
+    setPlaying(false);
+    // Near either edge, carry the view along.
+    const r = box.getBoundingClientRect();
+    if (clientX > r.right - 48) box.scrollLeft += 14;
+    else if (clientX < r.left + label + 24) box.scrollLeft -= 14;
+  };
+
+  const scrubHandlers = {
+    onPointerDown: (e: React.PointerEvent) => {
+      e.stopPropagation();
+      e.preventDefault();
+      (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
+      scrubbing.current = true;
+      setScrub(true);
+      scrubTo(e.clientX);
+    },
+    onPointerMove: (e: React.PointerEvent) => {
+      if (scrubbing.current) scrubTo(e.clientX);
+    },
+    onPointerUp: () => {
+      scrubbing.current = false;
+      setScrub(false);
+    },
+    onPointerCancel: () => {
+      scrubbing.current = false;
+      setScrub(false);
+    },
+  };
+
+  const step = (by: number) => {
+    setHead(null);
+    setPlaying(false);
+    setActive((a) => Math.min(showreel.length - 1, Math.max(0, a + by)));
   };
 
   return (
@@ -151,9 +213,14 @@ export default function Showreel() {
           }}
           onPointerLeave={() => (drag.current = null)}
         >
-          <div className="relative pb-3" style={{ width: `calc(var(--label) + var(--clip) * ${showreel.length} + 16px)` }}>
-            {/* ruler */}
-            <div className="flex h-7 border-b border-[#D7E2EA]/[0.12]" style={{ paddingLeft: 'var(--label)' }}>
+          <div ref={content} className="relative pb-3" style={{ width: `calc(var(--label) + var(--clip) * ${showreel.length} + 16px)` }}>
+            {/* ruler: press and drag here to scrub */}
+            <div
+              {...scrubHandlers}
+              data-cursor="Scrub"
+              className="flex h-8 border-b border-[#D7E2EA]/[0.12] cursor-ew-resize touch-none"
+              style={{ paddingLeft: 'var(--label)' }}
+            >
               {showreel.map((v, i) => (
                 <span key={v.id} className="relative shrink-0 h-full" style={{ width: 'var(--clip)' }}>
                   <span className="absolute left-0 bottom-0 h-2 w-px bg-[#D7E2EA]/25" />
@@ -213,13 +280,41 @@ export default function Showreel() {
               </div>
             ))}
 
-            {/* playhead */}
+            {/* playhead: drag it, or focus it and use the arrow keys */}
             <span
-              aria-hidden="true"
-              className="absolute top-0 bottom-3 w-px bg-[#ff8a3d] transition-[left] duration-700 ease-[cubic-bezier(0.16,1,0.3,1)] pointer-events-none"
-              style={{ left: `calc(var(--label) + var(--clip) * ${active} + var(--clip) / 2)` }}
+              {...scrubHandlers}
+              role="slider"
+              tabIndex={0}
+              aria-label="Playhead"
+              aria-valuemin={1}
+              aria-valuemax={showreel.length}
+              aria-valuenow={active + 1}
+              aria-valuetext={`${pad(active + 1)}, ${video.title}`}
+              onKeyDown={(e) => {
+                if (e.key === 'ArrowRight') step(1);
+                else if (e.key === 'ArrowLeft') step(-1);
+                else if (e.key === 'Home') step(-showreel.length);
+                else if (e.key === 'End') step(showreel.length);
+                else if (e.key === 'Enter' || e.key === ' ') setPlaying(true);
+                else return;
+                e.preventDefault();
+              }}
+              data-cursor="Scrub"
+              className={`group/head absolute top-0 bottom-3 w-4 -ml-2 z-[5] cursor-ew-resize touch-none outline-none ${
+                scrub ? '' : 'transition-[left] duration-700 ease-[cubic-bezier(0.16,1,0.3,1)]'
+              }`}
+              style={{ left: `calc(var(--label) + var(--clip) * ${position})` }}
             >
-              <span className="absolute -left-[5px] top-0 w-[11px] h-[11px] bg-[#ff8a3d]" style={{ clipPath: 'polygon(0 0, 100% 0, 50% 100%)' }} />
+              <span className="absolute left-1/2 top-0 bottom-0 w-px -translate-x-1/2 bg-[#ff8a3d]" />
+              <span
+                className="absolute left-1/2 top-0 -translate-x-1/2 w-[15px] h-[15px] bg-[#ff8a3d] transition-transform duration-200 group-hover/head:scale-125 group-focus-visible/head:scale-125"
+                style={{ clipPath: 'polygon(0 0, 100% 0, 100% 55%, 50% 100%, 0 55%)' }}
+              />
+              {scrub ? (
+                <span className="absolute left-3 top-0 vp-label !text-[0.56rem] whitespace-nowrap rounded-sm bg-[#ff8a3d] text-black px-1.5 py-0.5">
+                  {pad(active + 1)} · {video.title}
+                </span>
+              ) : null}
             </span>
           </div>
         </div>

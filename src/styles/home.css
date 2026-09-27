@@ -196,6 +196,24 @@
   display: inline-block;
 }
 
+/* Once the words have risen into place the masks come off, so the letters can
+   lift and glow under the pointer without being cut at the line box. */
+.vp-settled .vp-line {
+  overflow: visible;
+}
+
+/* A gradient that reads the same across separate letters: it runs top to
+   bottom, so every letter carries the whole of it. */
+.vp-grad-v {
+  background: linear-gradient(180deg, #f07ee6 0%, #b600a8 45%, #ff8a3d 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+  padding-inline: 0.05em;
+  margin-inline: -0.05em;
+}
+
 .vp-ready .vp-reveal:not(.is-in) .vp-line > span {
   transform: translate3d(0, 108%, 0);
 }
@@ -286,6 +304,66 @@
   }
   50% {
     opacity: 0.25;
+  }
+}
+
+/* ------------------------------------------------------ head glitch */
+
+/* A quarter of a second: the wireframe cuts in over the render in slices,
+   takes over, and cuts back out. Stepped, not eased — a glitch does not glide. */
+.vp-glitch-wire {
+  animation: vp-glitch-wire 250ms steps(1, end) both;
+}
+
+.vp-glitch-base {
+  animation: vp-glitch-base 250ms steps(1, end) both;
+}
+
+@keyframes vp-glitch-wire {
+  0% {
+    clip-path: inset(8% 0 60% 0);
+    transform: translate3d(-7px, 0, 0);
+  }
+  18% {
+    clip-path: inset(38% 0 30% 0);
+    transform: translate3d(6px, 0, 0);
+  }
+  34% {
+    clip-path: inset(0);
+    transform: translate3d(-3px, 0, 0);
+  }
+  70% {
+    clip-path: inset(0);
+    transform: none;
+  }
+  82% {
+    clip-path: inset(55% 0 12% 0);
+    transform: translate3d(5px, 0, 0);
+  }
+  100% {
+    clip-path: inset(0);
+    transform: none;
+  }
+}
+
+@keyframes vp-glitch-base {
+  0% {
+    opacity: 1;
+    transform: translate3d(3px, 0, 0);
+  }
+  34% {
+    opacity: 0;
+  }
+  70% {
+    opacity: 0;
+  }
+  82% {
+    opacity: 1;
+    transform: translate3d(-4px, 0, 0);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
   }
 }
 

@@ -1,6 +1,7 @@
 import { createContext, createElement, useContext, useEffect, useMemo, useRef, useState } from 'react';
 import type { CSSProperties, ElementType, ReactNode, RefObject } from 'react';
 import type { Mode, Voiced } from '../../data/home';
+import { useLetterGlow } from '../ui/useLetterGlow';
 
 /* ------------------------------------------------------------------ mode */
 
@@ -189,31 +190,68 @@ export function Reveal({
 }
 
 /** A heading whose words rise out of their own masks, one after another. */
+const LETTER: CSSProperties = { display: 'inline-block', transformOrigin: 'center bottom' };
+
+/**
+ * A word as separate letters the pointer can light (see ui/useLetterGlow).
+ * Any gradient class goes on each letter, for the reason given there.
+ */
+export function Letters({ text, className = '' }: { text: string; className?: string }) {
+  return (
+    <>
+      {[...text].map((ch, i) => (
+        <span key={i} data-glow="" className={className} style={LETTER}>
+          {ch}
+        </span>
+      ))}
+    </>
+  );
+}
+
+/**
+ * A heading whose words rise out of their own masks, one after another, and
+ * whose letters then light up under the pointer. The masks are lifted once the
+ * words have landed: they would otherwise clip the glow and the lift.
+ */
 export function SplitTitle({
   text,
   as = 'h2',
   className = '',
   style,
-  wordClassName = '',
+  letterClassName = '',
 }: {
   text: string;
   as?: ElementType;
   className?: string;
   style?: CSSProperties;
-  wordClassName?: string;
+  letterClassName?: string;
 }) {
   const ref = useRef<HTMLElement>(null);
   const inView = useInView(ref);
+  const [settled, setSettled] = useState(false);
   const words = text.split(' ');
+  useLetterGlow(ref, settled);
+
+  useEffect(() => {
+    if (!inView) return;
+    const t = window.setTimeout(() => setSettled(true), 1100 + words.length * 70 + 150);
+    return () => window.clearTimeout(t);
+  }, [inView, words.length]);
+
   return createElement(
     as,
-    { ref, className: `vp-reveal ${inView ? 'is-in' : ''} ${className}`, style, 'aria-label': text },
+    {
+      ref,
+      className: `vp-reveal ${inView ? 'is-in' : ''} ${settled ? 'vp-settled' : ''} ${className}`,
+      style,
+      'aria-label': text,
+    },
     words.map((word, i) => (
       <span key={i} aria-hidden="true" className="vp-line" style={{ display: 'inline-block' }}>
-        <span className={wordClassName} style={{ '--i': i } as CSSProperties}>
-          {word}
+        <span style={{ '--i': i } as CSSProperties}>
+          <Letters text={word} className={letterClassName} />
         </span>
-        {i < words.length - 1 ? ' ' : null}
+        {i < words.length - 1 ? '\u00a0' : null}
       </span>
     ))
   );
@@ -242,7 +280,7 @@ export function SectionTitle({ text, className = '' }: { text: string; className
       text={text}
       className={`font-black uppercase leading-[0.9] tracking-tight ${className}`}
       style={{ fontSize: 'clamp(3rem, 10.5vw, 10rem)' }}
-      wordClassName="hero-heading"
+      letterClassName="hero-heading"
     />
   );
 }

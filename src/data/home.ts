@@ -130,7 +130,7 @@ export const critTools = [
 export type CritTool = (typeof critTools)[number]['id'];
 
 export const reel = {
-  intro: 'Real-time environments built in Unreal Engine, character animation and motion design for clients. Pick a clip on the timeline.',
+  intro: 'Real-time environments built in Unreal Engine, character animation and motion design for clients. Pick a clip on the timeline, or drag the playhead along it.',
   tracks: [
     { tag: 'Unreal Engine' as ReelTag, label: 'Real-time', detail: 'Unreal Engine 5' },
     { tag: 'Animation' as ReelTag, label: 'Animation', detail: 'Blender' },

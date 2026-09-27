@@ -176,11 +176,11 @@ La home è un'unica isola React, `src/components/HomePage.tsx`, composta dai fil
 
 | Sezione (ancora) | Componente | Cosa fa |
 | --- | --- | --- |
-| Hero (`#top`) | `Hero.tsx` | Ritratto 3D che gira col puntatore (`ui/AvatarScrub`), ultimi articoli, scelta "studio / cliente" |
+| Hero (`#top`) | `Hero.tsx` | Ritratto 3D che gira col puntatore (`ui/AvatarScrub`), vista Shaded/Wireframe con glitch, ultimi articoli, scelta "studio / cliente" |
 | What I do (`#skills`) | `Disciplines.tsx` | Le sei `services`, con anteprime al passaggio e link alla sezione giusta |
 | Work (`#work`) | `Work.tsx` + `Lightbox.tsx` | Concept, 3D e architettura filtrabili; vista valori / due toni; viewer con gli strumenti da art director e la line art originale dove c'è |
-| Showreel (`#showreel`) | `Showreel.tsx` | Player + timeline a tracce (real-time, animazione, motion design) |
-| Try the job (`#lab`) | `Lab.tsx` + `rock.ts` | Line art → colore, budget di triangoli su un sasso disegnato in canvas, pianta → stanza |
+| Showreel (`#showreel`) | `Showreel.tsx` | Player + timeline a tracce (real-time, animazione, motion design) con puntina trascinabile |
+| Try the job (`#lab`) | `Lab.tsx` + `rock-gl.ts` | Line art → colore, budget di triangoli su un sasso in WebGL (flat/smooth, roccia e muschio; `rock.ts` è il ripiego 2D), pianta → stanza |
 | About (`#about`), Direction (`#direction`) | `About.tsx` | Bio, numeri, CV; art direction e strumenti |
 | AI (`#ai`) | `Ai.tsx` | Pipeline: dove aiuta il modello e dove decido io |
 | Blog (`#blog`) | `Blog.tsx` | Ultimi quattro articoli di Backdrop |
@@ -191,6 +191,31 @@ chiave `gs-mode`) e cambia qualche frase e l'ordine dei pulsanti: il lavoro è l
 per tutti. Le gallerie usano le miniature WebP fatte da `scripts/card-thumbs.mjs` in
 `public/img/cards/`; senza, la pagina usa gli originali. Nelle gallerie `title` è
 opzionale ed è compilato solo dove il soggetto è certo.
+
+### Asset 3D da Blender
+
+`scripts/blender/portfolio_passes.py` prende una scena salvata e prepara quello che serve al
+sito, senza modificare né salvare il .blend:
+
+- `<nome>.glb`: il modello per il viewer 3D, con compressione Draco, texture al massimo
+  2048 px in WebP e, se supera i 5 MB, decimato fino a starci;
+- `<nome>-clay.png` e `<nome>-wire.png`: la stessa inquadratura del render finale (camera,
+  risoluzione e luci della scena), in clay grigio e in wireframe. Il wireframe disegna gli
+  spigoli veri del modello (quad compresi) con Freestyle, sulla gabbia senza suddivisione.
+
+```sh
+blender -b scena.blend --python scripts/blender/portfolio_passes.py -- --out ~/Desktop/portfolio
+```
+
+Oppure da Blender: Scripting → Open → Run Script (scrive in `portfolio-export/` accanto al
+file). Le opzioni (`--only`, `--objects`, `--max-mb`, `--texture`, `--wire-subdiv`,
+`--turntable`, …) sono descritte in testa allo script.
+
+La testa della home ha anche una versione wireframe (`rotazione faccia wire.mp4`), generata
+da `scripts/wire-head.mjs` a partire dal video: una mesh ricostruita fotogramma per
+fotogramma. Se un giorno esiste il render wireframe vero della stessa rotazione (stessi
+190 fotogrammi, 24 fps, tagliato alla metà centrale dell'inquadratura), basta sostituire il
+file.
 
 ### Note sugli asset
 

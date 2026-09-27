@@ -242,7 +242,10 @@ export function drawRock(ctx: CanvasRenderingContext2D, mesh: Mesh, w: number, h
       shade[t * 3] = shade[t * 3 + 1] = shade[t * 3 + 2] = v * 205;
     } else if (look === 'colour') {
       // Warm key, magenta fill, a purple rim: the site's own palette as light.
-      const grain = 0.85 + hash(mx * 9, my * 9, mz * 9) * 0.3;
+      // The grain is read at the face's position on the rock, not on screen,
+      // so it stays put as the rock turns instead of flickering.
+      const oa = faces[t * 3] * 3;
+      const grain = 0.85 + hash(pos[oa] * 9, pos[oa + 1] * 9, pos[oa + 2] * 9) * 0.3;
       const base = [0.5 * grain, 0.46 * grain, 0.43 * grain];
       shade[t * 3] = (base[0] * (0.08 + key * 1.05 * 1.0 + fill * 0.5 * 0.71) + rim * 0.46) * 255;
       shade[t * 3 + 1] = (base[1] * (0.07 + key * 1.05 * 0.6 + fill * 0.5 * 0.0) + rim * 0.13) * 255;

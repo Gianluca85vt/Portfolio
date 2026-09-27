@@ -2,6 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { CSSProperties, KeyboardEvent as ReactKeyboardEvent } from 'react';
 import { lab } from '../../data/home';
 import { buildRock, drawRock } from './rock';
+import { RockRenderer } from './rock-gl';
 import type { Look, Mesh } from './rock';
 import { Buckets, Reveal, SectionTitle, Slate, fmtCount, pad, useInView, usePrefersReducedMotion, useThumb, useVoiced } from './ui';
 
@@ -88,15 +89,16 @@ function LinesStage({ pick }: { pick: number }) {
 
 /* --------------------------------------------------------- detail budget */
 
-function RockStage({ level, sun, look }: { level: number; sun: number; look: Look }) {
+function RockStage({ level, sun, look, smooth }: { level: number; sun: number; look: Look; smooth: boolean }) {
   const canvas = useRef<HTMLCanvasElement>(null);
   const wrap = useRef<HTMLDivElement>(null);
   const visible = useInView(wrap, { once: false, rootMargin: '0px' });
   const still = usePrefersReducedMotion();
   const meshes = useRef<Map<number, Mesh>>(new Map());
+  const gl = useRef<RockRenderer | null | undefined>(undefined);
   const state = useRef({ yaw: 0.6, pitch: 0.38, vy: 0, dragging: false, lastX: 0, lastY: 0 });
-  const props = useRef({ level, sun, look });
-  props.current = { level, sun, look };
+  const props = useRef({ level, sun, look, smooth });
+  props.current = { level, sun, look, smooth };
 
   const mesh = useCallback((l: number) => {
     let m = meshes.current.get(l);
@@ -107,10 +109,34 @@ function RockStage({ level, sun, look }: { level: number; sun: number; look: Loo
     return m;
   }, []);
 
+  // WebGL2 when the browser has it; the flat-shaded 2D rock when it does not.
+  // The renderer is created once, on the first frame, and dropped with the stage.
+  useEffect(
+    () => () => {
+      gl.current?.dispose();
+      gl.current = undefined;
+    },
+    []
+  );
+
   const draw = useCallback(() => {
     const c = canvas.current;
-    const ctx = c?.getContext('2d');
-    if (!c || !ctx) return;
+    if (!c) return;
+    if (gl.current === undefined) {
+      try {
+        gl.current = new RockRenderer(c);
+      } catch {
+        gl.current = null;
+      }
+    }
+    const { level: l, sun: s, look: k, smooth: sm } = props.current;
+    const view = { yaw: state.current.yaw, pitch: state.current.pitch, sun: s, look: k };
+    if (gl.current) {
+      gl.current.draw(l, { ...view, smooth: sm });
+      return;
+    }
+    const ctx = c.getContext('2d');
+    if (!ctx) return;
     const w = c.clientWidth;
     const h = c.clientHeight;
     const dpr = Math.min(window.devicePixelRatio || 1, 2);
@@ -119,14 +145,13 @@ function RockStage({ level, sun, look }: { level: number; sun: number; look: Loo
       c.height = Math.round(h * dpr);
     }
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    const { level: l, sun: s, look: k } = props.current;
-    drawRock(ctx, mesh(l), w, h, { yaw: state.current.yaw, pitch: state.current.pitch, sun: s, look: k });
+    drawRock(ctx, mesh(l), w, h, view);
   }, [mesh]);
 
   // Redraw on any control change, even when nothing is animating.
   useEffect(() => {
     draw();
-  }, [level, sun, look, draw]);
+  }, [level, sun, look, smooth, draw]);
 
   useEffect(() => {
     const on = () => draw();
@@ -279,6 +304,7 @@ export default function Lab() {
   const [level, setLevel] = useState(2);
   const [sun, setSun] = useState(40);
   const [look, setLook] = useState<Look>('colour');
+  const [smooth, setSmooth] = useState(false);
   const stage = useRef<HTMLDivElement>(null);
   const stageIn = useInView(stage);
 
@@ -349,7 +375,7 @@ export default function Lab() {
             }}
           >
             {tab === 'lines' ? <LinesStage pick={linePick} /> : null}
-            {tab === 'detail' ? <RockStage level={level} sun={(sun * Math.PI) / 180} look={look} /> : null}
+            {tab === 'detail' ? <RockStage level={level} sun={(sun * Math.PI) / 180} look={look} smooth={smooth} /> : null}
             {tab === 'plan' ? <PlanStage pick={roomPick} inside={inside} /> : null}
 
             {tab === 'detail' ? (
@@ -433,6 +459,33 @@ export default function Lab() {
                       </button>
                     ))}
                   </div>
+                </div>
+                <div className="flex flex-col gap-2">
+                  <span className="vp-label text-[#D7E2EA]/55">Shading</span>
+                  <div role="group" aria-label="Shading" className="grid grid-cols-2 gap-1.5">
+                    {[
+                      { on: false, label: 'Flat', note: 'every face shows' },
+                      { on: true, label: 'Smooth', note: 'the faces blend' },
+                    ].map((opt) => (
+                      <button
+                        key={opt.label}
+                        type="button"
+                        aria-pressed={smooth === opt.on}
+                        onClick={() => setSmooth(opt.on)}
+                        className={`rounded-lg border px-2 py-2 text-left transition-colors duration-300 ${
+                          smooth === opt.on ? 'border-[#ff8a3d] bg-[#ff8a3d]/10' : 'border-[#D7E2EA]/15 hover:border-[#D7E2EA]/40'
+                        }`}
+                      >
+                        <span className="block text-[#D7E2EA] font-medium uppercase text-[0.72rem] tracking-wide">{opt.label}</span>
+                        <span className="vp-label block !text-[0.55rem] text-[#D7E2EA]/40">{opt.note}</span>
+                      </button>
+                    ))}
+                  </div>
+                  {smooth && look !== 'wire' ? (
+                    <p className="text-[#D7E2EA]/50 font-light text-[0.84rem] leading-snug">
+                      Smoothing hides the facets inside the outline. The outline itself only gets rounder with more triangles.
+                    </p>
+                  ) : null}
                 </div>
                 <span className="vp-label text-[#D7E2EA]/40">{current.hint}</span>
               </div>
