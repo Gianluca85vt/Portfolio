@@ -1,6 +1,11 @@
-# Games — harvested 2026-09-26T19:22:40.311Z
+# Games — harvested 2026-09-27T10:12:30.754Z
 
 ## Eurogamer
+
+### Minecraft still gains around 300,000 new players a day, Xbox boss reveals
+Sun, 27 Sep 2026 09:32:21 +0000 — https://www.eurogamer.net/minecraft-300000-new-players-daily-minecraft
+
+More than 300,000 try Minecraft for the first time every single day. Read more
 
 ### Microsoft CEO says Xbox's "streamlining" is "great to see" despite cuts and layoffs
 Sat, 26 Sep 2026 19:16:49 +0000 — https://www.eurogamer.net/satya-nadella-xbox-streamlining-great-to-see-layoffs
@@ -57,11 +62,6 @@ Fri, 25 Sep 2026 13:36:42 +0000 — https://www.eurogamer.net/beyond-good-and-ev
 
 Sound the alarm! Alert your loved ones! Nearly 18 years after its original announcement, Beyond Good & Evil 2 apparently still isn't dead, according to a Ubisoft Bordeaux developer who says he's been working on the game for months. Read more
 
-### It took roughly two years and "one of the most expensive art assets ever" to get Cyberpunk 2077: Phantom Liberty's Chimera tank fight right
-Fri, 25 Sep 2026 12:12:55 +0000 — https://www.eurogamer.net/cyberpunk-2077-phantom-liberty-chimera-tank-two-years
-
-CD Projekt Red has shared some insight into Cyberpunk 2077: Phantom Liberty 's fantastic Chimera tank boss fight, explaining it took two years to get the complicated sequence right. Read more
-
 ## GamesIndustry.biz
 
 ### Here is the full line-up for the GamesIndustry.biz HR Summit 2026
@@ -89,26 +89,16 @@ Fri, 25 Sep 2026 12:00:00 +0000 — https://www.gamesindustry.biz/crowdfunding-i
 
 We might be long past the days of games companies raising eye-watering figures on Kickstarter, but the platform is still a viable way to raise money to fund &ndash; at last part of &ndash; your game. Read more
 
-### Build A Rocket Boy has appointed administrators
-Fri, 25 Sep 2026 09:55:07 +0000 — https://www.gamesindustry.biz/build-a-rocket-boy-has-appointed-administrators
-
-MindsEye developer Build A Rocket Boy has appointed administrators following its most recent wave of layoffs. Read more
-
-### King signs collective agreement with Swedish trade unions following call to industrial action last week
-Fri, 25 Sep 2026 09:08:17 +0000 — https://www.gamesindustry.biz/king-signs-collective-agreement-with-swedish-trade-unions-following-call-to-industrial-action-last-week
-
-King has signed a collective agreement with the Swedish trade unions Unionen and Sveriges Ingenj&ouml;rer after last week&rsquo;s call to industrial action . Read more
-
-### Nintendo of America awarded $4.5m in lawsuit from Redditor for pirating Switch hardware and software
-Fri, 25 Sep 2026 08:04:53 +0000 — https://www.gamesindustry.biz/nintendo-of-america-awarded-45m-in-lawsuit-from-redditor-for-pirating-switch-hardware-and-software
-
-Nintendo of America has won $4.5 million in damages from Reddit user James C. Williams, also known as 'Archbox,' for copyright violations. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Xbox Allegedly Paying a Fraction of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint
+Sat, 26 Sep 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint
+
+PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had pulled out of the project, which was first announced in 2024. Read the full article on pushsquare.com
 
 ### Feature: Going Platinum: Sonic Origins Sends Me Back to the Genesis of My Own Gaming History
 Sat, 26 Sep 2026 19:00:00 GMT — https://www.pushsquare.com/features/going-platinum-sonic-origins-sends-me-back-to-the-genesis-of-my-own-gaming-history
@@ -124,11 +114,6 @@ The (Syn)duality of man. Okay, hands up: who remembers Synduality: Echo of Ada ?
 Sat, 26 Sep 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/09/ps5s-welcome-hub-adds-animated-the-last-of-us-wallpaper
 
 It can't be for nothing. Sony’s Welcome Hub – the customisable screen you see upon booting your PS5 – has added a new animated The Last of Us wallpaper. I assume this has been released to celebrate The Last of Us Day , and was first spotted by our very own Rich33 , so kudos to him for pointing this out to me. Read the full article on pushsquare.com
-
-### Sony Spooked by Rumoured $400 Million Budget for Hideo Kojima s Physint
-Sat, 26 Sep 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/09/sony-spooked-by-rumoured-usd400-million-budget-for-hideo-kojimas-physint
-
-PlayStation wouldn't own the IP. It sounds like Hideo Kojima was demanding a significant sum of money from Sony to make the stealth action game Physint – despite him retaining ownership of its IP and intending to release it on multiple platforms. PlayStation announced earlier this month that it had pulled out of the project, which was first announced in 2024. Read the full article on pushsquare.com
 
 ### The Last of Us Day Celebrations Will Bring Partnerships and Collaborations, Season 3 Casting News Announced
 Sat, 26 Sep 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced
@@ -177,11 +162,6 @@ Fri, 25 Sep 2026 18:37:03 GMT — https://www.gamedeveloper.com/production/gdc-s
 
 XDS Spark co-founder Sam Carlisle and GDC Festival of Gaming content marketing manager Beth Elderkin discuss the evolving world of co-development.
 
-### 'This shows the power that comes from employees joining forces:' King signs collective bargaining agreement with union workers
-Fri, 25 Sep 2026 09:42:53 GMT — https://www.gamedeveloper.com/business/-this-shows-the-power-that-comes-from-employees-joining-forces-king-signs-collective-bargaining-agreement-with-union-workers
-
-'This is an important step for King, the gaming industry and for the Swedish model.'
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -212,7 +192,20 @@ no date — https://www.gamedeveloper.comwest.paxsite.com
 ### gamescom latam
 no date — https://www.gamedeveloper.comlatam.gamescom.global
 
+### The Game Awards
+no date — https://www.gamedeveloper.comthegameawards.com
+
 ## VGC
+
+### Sony patents PlayStation controller that accepts credit card payments
+Sun, 27 Sep 2026 07:54:14 +0000 — https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/
+
+New PlayStation controller could accept touch payments from phones and cards… Source
+
+### Minecraft is officially getting its first new dimension in 15 years
+Sun, 27 Sep 2026 07:19:12 +0000 — https://www.videogameschronicle.com/news/minecraft-is-officially-getting-its-first-new-dimension-in-15-years/
+
+New Minecraft dimension The Sift is also coming to Dungeons 2 next week… Source
 
 ### Microsoft CEO says streamlining of Xbox business is great to see
 Sat, 26 Sep 2026 12:07:20 +0000 — https://www.videogameschronicle.com/news/microsoft-ceo-says-streamlining-of-xbox-business-is-great-to-see/
@@ -244,74 +237,74 @@ Fri, 25 Sep 2026 11:47:30 +0000 — https://www.videogameschronicle.com/news/whe
 
 SPONSORED: The disc may be disappearing, but consumer choice shouldn' Source
 
-### Court orders Reddit moderator who widely pirated Switch games to pay Nintendo $4.5 million in damages
-Fri, 25 Sep 2026 10:02:21 +0000 — https://www.videogameschronicle.com/news/court-orders-reddit-moderator-who-widely-pirated-switch-games-to-pay-nintendo-4-5-million-in-damages/
-
-James 'Archbox' Williams copied and distributed "hundreds, or thousands" Source
-
-### Bethesda president tells Obsidian staff that the studio will keep its creative identity after its move
-Fri, 25 Sep 2026 09:21:48 +0000 — https://www.videogameschronicle.com/news/bethesda-president-tells-obsidian-staff-that-the-studio-will-keep-its-creative-identity-after-its-move/
-
-Jill Braff says Obsidian's move to Bethesda is "primarily a change in reporting structure" Source
-
-### Prince of Persia: The Lost Crown is free to play in its entirety on Switch for the next week
-Fri, 25 Sep 2026 08:29:53 +0000 — https://www.videogameschronicle.com/news/prince-of-persia-the-lost-crown-is-free-to-play-in-its-entirety-on-switch-for-the-next-week/
-
-Nintendo's latest Game Trial gives you access to the full game until Wednesday… Source
-
 ## Polygon
 
-### 10 Years Later, Critical Role’S Most Heartbreaking Quote Still Lives in My Mind Rent-Free
-Sat, 26 Sep 2026 19:00:15 GMT — https://www.polygon.com/critical-role-the-legend-of-vox-machina-best-quote/
+### The Witcher 3 Remastered release time in your time zone
+Sun, 27 Sep 2026 10:01:14 GMT — https://www.polygon.com/the-witcher-3-remastered-release-time-when-edt-pdt/
 
-It would be naive to expect zero changes when adapting something as expansive as Critical Role ’s actual play Dungeons & Dragons campaigns. The series has over 100 episodes, and each can run between 2 and 4 hours. So when the group announced plans to turn their first campaign into an animated series, it was obvious that some moments from the original campaign would change or disappear altogether.
+The Witcher 3 Remastered 's release time is coming up fast. It's been 11 years since CD Projekt Red launched the award-winning RPG, and the remastered version brings the game's graphics up to modern standards. It does a lot more than that, though. While CDPR hasn't been forthcoming on all the details, The Witcher 3 Remastered will change combat and skill trees, along with approachability and accessibility features, among other things.
 
-### Minecraft Is Getting Its First New Dimension Since 2011
-Sat, 26 Sep 2026 17:30:15 GMT — https://www.polygon.com/minecraft-live-news-recap-sift-dimension/
+### 63 Years Later, 'The Twilight Zone’s Most Emotional Episode is Still a Bold Masterpiece
+Sun, 27 Sep 2026 10:00:15 GMT — https://www.polygon.com/the-twilight-zone-in-praise-of-pip/
 
-In the wake of layoffs and studio reshuffling at Xbox earlier this week, Mojang held a Minecraft Live showcase to make several Minecraft -related announcements. While we didn't get a look at the next movie , Mojang revealed a game-changing addition to Minecraft . Next year, the Sift dimension from Minecraft Dungeons 2 will come to the survival crafting game, marking the first time a new dimension has been added to Minecraft since it hit 1.0 in 2011.
+The first episode of season 5 — The Twilight Zone ’s final season — was titled “In Praise of Pip” and it was written by The Twilight Zone creator and host, Rod Serling. In the 1963 episode, Jack Klugman stars as Max Phillips, an alcoholic small-time bookie whose son, Pip, is fighting in the still-young Vietnam War. Despite spending much of his life as a reprobate, Max decides to let a young kid slide on a debt he owes, but Max’s boss, Mr. Moran (S. John Launer), won’t allow it and an argument ensues between Max, Moran, and the kid.
 
-### 13 Most Influential Video Games of the Past 45 Years
-Sat, 26 Sep 2026 17:23:35 GMT — https://www.polygon.com/most-influential-video-games/
+### 3 Must-Play September Games You Missed Between Fire Emblem and Wolverine
+Sun, 27 Sep 2026 09:00:15 GMT — https://www.polygon.com/september-2026-hidden-gems/
 
-Developers don’t always set out to make the most influential games they can. A lot of them are just trying to provide players a good time, blissful escapism, mental stimulation, or thoughtful commentary. But sometimes, the sum of those efforts amounts to more than that. Every so often, a game comes along that forever shifts the landscape of the medium, and it doesn’t even have to be as big as Grand Theft Auto 6 to do it (though we’d bet that one will have influence, one way or another). Every new game in a particular subgenre owes something to those trailblazers, and by extension, so do we. Here’s our list of the 13 most influential games of all time.
+Congratulations: You’ve almost made it through one of the busiest Septembers in video game history! For anyone who enjoys keeping up with new games as they come out, September has run a ceaseless pace. Marvel’s Wolverine , Onimusha: Way of the Sword , Fire Emblem: Fortune’s Weave , Control Resonant , and more all made for a fun but nonstop month of action.
 
-### Sega's '90s'-Era Fire Emblem Replacement Needs To Make A Comeback
-Sat, 26 Sep 2026 17:08:29 GMT — https://www.polygon.com/shining-force-sega-tactics-rpg-comeback/
+### The 10 Best Fights in 'Jujutsu Kaisen' History, Ranked
+Sun, 27 Sep 2026 08:07:15 GMT — https://www.polygon.com/jujutsu-kaisen-best-fights-episodes/
 
-Fire Emblem has once again put tactical RPGs back in the limelight. Fire Emblem: Fortune's Weave , the latest tactical RPG in Intelligent Systems' long-running series, just hit Nintendo Switch 2 like a meteor. Seemingly everyone is obsessed with its rich tactical combat , expansive branching story , and coterie of weird little guys .
+MAPPA’s adaptation has continued raising the bar with each successive arc. Season 1 established the fundamentals through Yuji Itadori and Aoi Todo’s exhilarating teamwork and Satoru Gojo’s casual displays of near-godlike power. Season 2’s Hidden Inventory and Shibuya Incident arcs transformed those abilities into instruments of tragedy. Season 3’s Culling Game arc then unleashed the series’ most tactically complicated and visually audacious battles yet, aided by Shōta Goshozono’s direction and storyboarding.
 
-### Larian Officially Ended Baldur's Gate 3 DLC. Modders Missed the Memo
-Sat, 26 Sep 2026 17:00:15 GMT — https://www.polygon.com/bg3-modders-keep-making-dlc-sized-expansions/
+### DC's Groundbreaking 170-Episode Action Series Is Waiting to Be Discovered on Free Streaming
+Sun, 27 Sep 2026 08:00:15 GMT — https://www.polygon.com/arrow-free-on-pluto-dc-tv-shows/
 
-Larian Studios has said goodbye to Baldur’s Gate 3 . They’ve been clear about this: At a GDC panel in 2024, founder Swen Vincke said , “We’re not going to make new expansions, which everybody is expecting us to do. We’re not going to make Baldur’s Gate 4, which everybody is expecting us to do. We’re going to move on, we’re going to move away from D&D, and we’re going to start making a new thing.”
+The CW has produced more than its fair share of DC superhero shows over the years, from The Flash and Supergirl to Legends of Tomorrow and Black Lightning . Some remain favorites in their own right, while others became memorable for just how wonderfully weird the shared universe eventually became. The CW’s superhero stint was packed with crossovers, alternate Earths, time travel, and even multiversal crises, the likes of which Marvel could only dream. It eventually got to a point where keeping track of all the interconnected storylines and varied characters felt like a part-time job.
 
-### Fire Emblem: Fortune's Weave's 5 Weirdest Little Guys, Ranked
-Sat, 26 Sep 2026 16:00:16 GMT — https://www.polygon.com/fire-emblem-fortunes-weaves-weird-little-guys-characters-ranked/
+### 5 Detective Shows to Watch If You Love 'Lanterns'
+Sun, 27 Sep 2026 07:00:15 GMT — https://www.polygon.com/best-detective-shows-like-lanterns/
 
-Fire Emblem Fortune's Weave 's roster of recruitable characters is, as a rule, more grounded than what we’ve seen in most recent Fire Emblem games, but there's still a bunch of goofballs in the mix. Granted, they tend to have really tragic backstories that explain their odd behavior. But until you find out what those are — and sometimes even after you do — they come across as pretty bizarre. So much so that we decided to rank the five best weird little guys in Fortune's Weave .
+The show has already established its merits, thanks to a measured slow-burn approach that thrives on the central duo’s riveting chemistry. Although chock-full of comic book references and superhero-isms, Lanterns shines brightest when it leans on its murder mystery elements. The mystery in question is also engaging and unpredictable, keeping audiences on edge at all times.
 
-### The Last of Us Season 3 Casts Abby And Lev's Game Actors In Different Roles
-Sat, 26 Sep 2026 15:19:05 GMT — https://www.polygon.com/the-last-of-us-season-3-casting/
+### 60 Years Later, the Best 'Peanuts' Quote of All Time Still Doesn't Get the Credit it Deserves
+Sun, 27 Sep 2026 05:27:14 GMT — https://www.polygon.com/charles-schulz-peanuts-best-quote-ever/
 
-The Last of Us season 3 has added more actors to its cast in celebration of The Last of Us Day. While John Goodman's casting will certainly turn heads, fans of the games will be happy to learn that Laura Bailey and Ian Alexander will also show up next season as brand-new characters.
+Schulz had announced his retirement two months earlier due to several strokes and advancing colorectal cancer, and he’d created his last strip shortly after he made the announcement. While Schulz knew he was dying, he couldn’t have known two months in advance the exact day he would die and that he’d essentially penned his own obituary by having his last comic run just one day after his death.
 
-### 26 years ago, 'Buffy the Vampire Slayer's Worst Season Premiere Redefined a Legendary Villain
-Sat, 26 Sep 2026 15:00:15 GMT — https://www.polygon.com/buffy-the-vampire-slayer-season-five-premiere-retrospective/
+### 12 Years Ago, Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst
+Sun, 27 Sep 2026 04:00:21 GMT — https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-anniversary/
 
-Ever since, Dracula has evolved into an enduring figure, often treated as the final boss in most vampiric tier lists. Dracula has appeared in everything from Nosferatu (1922) to Blade (1998). He typically symbolizes a grand threat that must be defeated before it's too late.
+Doctor Who has never shied away from occasionally showing the Doctor at his worst. In “A Good Man Goes to War,” Eleven (Matt Smith) reckons with how his choices have made him nearly as monstrous as his enemies. There’s also “The Waters of Mars,” where Ten (David Tennant) is still reeling from the loss of his most recent companion, Donna Noble (Catherine Tate), and determined to win for once. He uses his power over time to save people whose deaths are fixed points in history — consequences be damned — in a genuinely shocking, villainous moment for the Time Lord.
 
-### Spider-Man Star Tom Holland's Next Film Adds Sabrina Carpenter To Its Cast
-Sat, 26 Sep 2026 14:39:57 GMT — https://www.polygon.com/tom-holland-sabrina-carpenter-fred-astaire-movie/
+### Tom Holland's 133-Minute Action Movie Masterpiece Is About to Leave Netflix
+Sun, 27 Sep 2026 01:00:15 GMT — https://www.polygon.com/before-it-leaves-netflix-watch-spider-man-homecoming/
 
-Following the record-breaking success of Spider-Man: Brand New Day and The Odyssey , Tom Holland is preparing to star in his next film, a biopic about Fred Astaire. Now, we've learned that he will co-star alongside Sabrina Carpenter and Margaret Qualley in that movie.
+There are plenty of reasonable places to begin a Spider-Man marathon. You could go back to the early 2000s era with Sam Raimi’s Spider-Man , or revisit Andrew Garfield’s surprisingly underrated take from 2012. You could even web-sling straight into the animated brilliance of Into the Spider-Verse , which should be getting its third film within the next year. But in the wake of Spider-Man: Brand New Day giving Tom Holland’s Peter Parker his fourth solo outing, there’s no better time to go back to the beginning of his specific chapter.
 
-### Magic: The Gathering Meets D&D-Style Dice Battles in the Best New TCG at PAX West 2026
-Sat, 26 Sep 2026 14:30:16 GMT — https://www.polygon.com/world-of-kylia-ascendant-tcg-pax-west-2026-impressions-review/
+### 'Godzilla Minus Zero' Review: The Best Godzilla Movie of All Time — Until Takashi Yamazaki's Next Sequel
+Sun, 27 Sep 2026 00:20:16 GMT — https://www.polygon.com/godzilla-minus-zero-review/
 
-2026 has been, in several crucial ways, an HD remake of the late '90s and early 2000s. My old boot-cut jeans are inexplicably back in fashion, live-action Spider-Man and Resident Evil movies are hitting theaters, no one will shut up about Wolverine , and the last nerd convention I went to hosted a direct battle between several competing collectible card games.
+Nobody understands that better than Takashi Yamazaki. With his new film, Godzilla Minus Zero , the Japanese filmmaker raises the stakes of the series in every way possible.
 
 ## PC Gamer
+
+### The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants
+Sun, 27 Sep 2026 02:44:25 +0000 — https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/
+
+In the 1990s, Spanish videogame label Gaelco was responsible for a string of arcade games (and also electronic dartboards) that hardly anyone outside Spain knows about, bar perhaps the occasional breakout like World Rally. Retro specialists QUByte Interactive are bringing two of Gaelco's obscurities to Steam this year, resurrecting arcade action games Thunder Hoop and its sequel TH Strikes Back. The genetically engineered and oddly named Thunder Hoop of the title is a hand-blasting hero who fights armies of mutants unleashed by the evil Dr Genbreak. The original Thunder Hoop, from 1992, is a platformer in which the teenage hero has to fight cartoonish monsters across a cityscape that includes the obligatory sewer and underwater levels. The 1994 sequel ages him up to a beefcake adult who has heard of shirts and thinks they're for cowards, and includes a lot more run-and-gun action against women in latex, and a sequence where he goes Super Saiyan than flies into space for a Gradius-style scrolling shooter bit. Both games come with modern quality-of-life features like save states and a rewind function, as well as customizable screen filters for that CRT look. The sequel includes local co-op, while the first game's multiplayer mode has to be played in alternating turns. The Thunder Hoop Collection will be available on Steam from October 8. Steam sale dates : When's the next event? Epic Store free games : What's free right now? Free PC games : The best freebies you can grab 2026 g
+
+### Between 70 and 80% of Blood Bowl 3 games were solo
+Sun, 27 Sep 2026 00:42:55 +0000 — https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/
+
+You'll know this frustration if you've ever been part of the community around a game that has both singleplayer and multiplayer modes. People who prefer one to the other are always convinced the other cohort doesn't exist. "Nobody plays this game in a different way to me and my friends, and anyone who says they do is lying." In the case of the Blood Bowl videogames, the fact the CPU's tactics are so rudimentary has always given people who prefer the multiplayer mode ammunition for claiming the other half doesn't exist. Now we've got proof they're actually the majority. As Cyanide programmer Mathieu Valero recently told Wargamer , between 70 and 80% of Blood Bowl 3 games were played solo in Eternal Leagues. This came up in the context of Blood Bowl 3's imminent replacement by Warhammer Blood Bowl. One of the improvements, Valero suggests, will be the AI. "We didn't have an AI—now we do", as he put it. "There are still a bunch of factions and builds that it's more able to play well: you want to give it Guard and Block, and don't go fancy with the combos that a human would be able to do", he went on to say, but "give something reliable to the AI, and you're gonna have a game to play". Valero is candid about the state of Blood Bowl 3 at launch, saying, "It was a mess, like there's no two ways about it." As well as the AI, Blood Bowl 3's ugly menus are being replaced. "The UI has been significantly revamped," he says, "first and foremost the homepage, which was a gigantic waste of
+
+### Former Elder Scrolls designer Kurt Kuhlmann on Fallout: New Vegas diehards: 'I don't know that Todd wanted to create that situation again for The Elder Scrolls'
+Sat, 26 Sep 2026 21:54:26 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/former-elder-scrolls-designer-kurt-kuhlmann-on-fallout-new-vegas-diehards-i-dont-know-that-todd-wanted-to-create-that-situation-again-for-the-elder-scrolls/
+
+I want to establish my old school RPG sicko bona fides really quick: My favorite Fallout games are 1 and New Vegas. My least favorite is 3 (4 is better than it gets credit for in critical circles). I really did not like Starfield and did not make it past the first planet. Obsidian is one of my favorites to ever do it. Troika Games forever. With that out of the way, it is deranged how a lot of fans talk online about Bethesda as a studio, and Todd Howard as a guy. I have no doubt as to the accuracy of Kuhlmann's assessment of his former boss. And I don't blame Howard one bit for being protective of the series in this way⁠. It's pretty relatable, and I'm sure it wasn't the only consideration around avoiding mainline-style spinoffs, as Kuhlmann's thoughts on ESO indicate. Reading this in bad faith, you could parse it as an admission of weakness or insecurity, but I don't see it that way. I've spoken to senior Bethesda devs myself and watched them in other interviews: They're proud of their own work, speak positively of New Vegas, and seem to respect their peers at Obsidian. I think it's YouTubers impugning their character or calling for their coworkers to be fired over a perceived mishandling of the series that gets on their nerves. Fallout memers seem to have gotten what they wanted, but in a monkey's paw kind of way. Obsidian is making a new Fallout game now, but with a gun to its head. Given all the layoffs and studio closures Xbox has under its belt, with more no doubt on the
 
 ### I saw the future and it literally stinks
 Sat, 26 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/hardware/i-saw-the-future-and-it-literally-stinks/
@@ -358,21 +351,6 @@ Sat, 26 Sep 2026 02:08:31 +0000 — https://www.pcgamer.com/games/rpg/drop-every
 
 I'll make this quick: Whatever you had planned for the weekend, you've got to carve four-and-a-half hours out for a last-minute swerve into the late '90s. Six months in the making, YouTube essayist Majuular is back with the (I believe) penultimate video in his multi-year Ultima series. "This one was a doozy," he wrote in the comments. It's Ultima Online. "From its unlikely formation at the behest of Richard Garriott and Starr Long, to its tempering at the hands of Raph Koster and his team of Multi-User Dungeon enthusiasts, to its changing identity in the face of competition, to its incalculable influence, this is the story of Ultima Online," the description reads. If you get the Ultima Online bug after watching the documentary, good news: it's still very much playable on both official servers and fan ones. Majuular highlighted the server he played on, In Mani Ylem , which aims to recapture the late '90s experience. You can find the entire video series in a playlist here , and I can't recommend watching them highly enough. In late 2025 we published a feature story about Majuular's quest to chronicle the making of Richard Garriott's genre-defining series, and how that mission unexpectedly catapulted him to YouTube success with more than 200,000 followers. It's a good read—and won't take you quite as long as watching all the videos. 'A good idea, infinite drive, and lots of Diet Pepsi': How YouTube essayist Majuular's life changed course telling the story of Ultima across 2 year
 
-### A running tally of the most ridiculous things AI bigwigs have said so far
-Sat, 26 Sep 2026 00:12:34 +0000 — https://www.pcgamer.com/games/live/news/what-are-the-ai-guys-saying-now/
-
-If there's anything the leaders of the AI era love more than watching the billion-dollar valuations of their companies tick up, it's warning us that the software making them rich might just destroy the world. AI is going to kill us all. Now, can we have more money for data centers, please? Their next favorite activity? Coming up with trendy phrases that either explain how toooootally smart the next upcoming AI model will be or justify why their previous claims of imminent AI sentience haven't quite arrived on schedule. These buzzwords and prognostications are hard to keep track of and even harder to parse. With new whoppers arriving every week, we're spinning up a running log that we can reference whenever we need to recall how often AI thought leaders contradict themselves and each other, and how constantly they move the goal posts. We'll update this blog whenever we notice a particularly absurd, empty, or unbelievable remark from an industry whose astronomical valuation is entirely down to the dubious claim that large language models are both going to destroy and save humanity. We're starting with just the last couple months of gobsmacking quotes, because going much further back would be too miserable. But first, it might be helpful to set the stage: 8 times AI guys declared AGI was right around the corner: AGI, or "artificial general intelligence," is often cited as a goal for AI development and spoken of with near-mythical reverence. Here's how OpenAI describes it: "If AG
-
-### I did the math on my Wardogs XP grind, and now I wish I hadn't
-Fri, 25 Sep 2026 23:47:08 +0000 — https://www.pcgamer.com/games/fps/i-did-the-math-on-my-wardogs-xp-grind-and-now-i-wish-i-hadnt/
-
-I've had this goal in the back of my head to unlock all the Medic gear in Wardogs so I can become the best sawbones on the server. There's only one piece I still don't have—a medical bag that can both revive and heal teammates in one item. It's unlocked at Medic level 24, which doesn't sound so bad, since I've already reached level 18 over my first 30 hours of Wardogs. But this week I noticed my steady Medic rise had slowed considerably. I had been ranking up every one or two rounds, but now I'm lucky to climb a rank over a whole night of play. I'm doing just as well in matches—better than ever, actually, with the addition of defibrillators and stronger medkits—so that's not the issue. For the first time, I made note of the XP thresholds for leveling up and compared where I'm at to my goal. I wish I hadn't. So far I've gained 17 levels with 177,619 Medic XP. Level 24, just seven ranks later, will require 337,000 XP. So while it looks like I'm gaining on that useful medicine bag, I'm actually just 52% of the way there . So this is the brutal Wardogs grind I've been hearing about. Bummer. The mountain I was curious how that last 48% will translate to playtime and matches—maybe it'll go by faster than it sounds—so I did an unscientific test: I played an average match with my typical focus on revives and healing. For the record: I'm an OK player at best. To maximise XP gains, I also brought an SMG and purchased stims to administer to teammates. Over a 50-minute match on the winni
-
-### How to open the auxiliary lines in Part 6 of Silent Hill: Townfall
-Fri, 25 Sep 2026 23:15:07 +0000 — https://www.pcgamer.com/games/horror/silent-hill-townfall-open-the-auxiliary-lines/
-
-Key items Code to the locker in the command centre: 0825 Key to the auxiliary room found in said locker. A floppy disk found in the locker inside the auxiliary room. Opening the auxiliary lines at the end of Part 6 in Silent Hill: Townfall is perhaps its most complicated yet simple puzzle. By this point in the game my brain was completely fried and my nerves were shot. So in case you're also in a bad spot, here are some tips to point you in the right direction. Spoilers ahead for Silent Hill: Townfall How to get to the Auxiliary Room Before you head to the elevator and go up to the auxiliary room, you'll need to get the key. This can be found in the command centre, and the code to get into it is 0825 . Inside, you'll find the key to the auxiliary room. Now you can head downstairs to the elevator, but be warned—this is where The Weight and other monsters are lurking, so you need to be cautious. You can make a mercy dash to the elevator as the doors close quickly, but it'll be tight. Once you've made it to the next floor, there'll be a couple of smaller monsters who you can easily circumvent. Make sure to close the door to the auxiliary room once you're inside. How to open the auxiliary lines (Image credit: Konami) Here you'll find a pipe running across the walls with levers at various intervals. There's also a locker and a desk with a terminal. The first step is to open the locker and find the floppy disk. Then, head to the terminal and use the floppy disk to get your clue: a 
-
 ## GameSpot
 
 ### Minecraft Is Getting Its First New Dimension In Over 15 Years
@@ -415,27 +393,17 @@ Fri, 25 Sep 2026 11:45:22 +0000 — https://www.gamespot.com/articles/gears-of-w
 
 Several years have passed since the last new Gears of War game was released, but at long last, that drought is almost over. Gears of War: E-Day will be one of the early highlights of October, and if you're looking to rev your Lancer up and turn back the Locust tide, you can start playing really soon. Like other big upcoming games, you'll also have the option to preload Gears of War: E-Day, so you can jump right into the fray on launch day. Here's a closer look at the timing for this new chapter in the series. Gears of War: E-Day install size According to the official PC requirements for Gears of War: E-Day, the game will require 115GB of storage capacity on that platform. Xbox Series X|S install sizes are typically on par with PC, so overall, you'll want to make sure you have at least 100GB of free space available on your machine. That's a pretty noticeable increase in size, as the previous game, Gears 5, required a chunky 80GB of space when it was first released back in 2019. One other thing to note is that if you're planning to play on PC, the game requires a solid-state drive to be installed on. This is a mandatory requirement for the game to run optimally. Gears of War: E-Day preloading times Preloading will kick off on September 29 at the following times: 11 AM ET 10 AM CT 9 AM MT 4 PM BST 5 PM CEST 3 PM UTC 5 PM SAST 1 AM AEST (September 30) Gears of War: E-Day early access global launch times If you purchase the Premium or Collector's Edition of Gears of War: E-Day, yo
 
-### The Best News For Saw: Genesis Is We Have To Wait Longer To Play It
-Thu, 24 Sep 2026 23:43:43 +0000 — https://www.gamespot.com/articles/the-best-news-for-saw-genesis-is-we-have-to-wait-longer-to-play-it/
-
-Saw: Genesis was set to be the next asymmetrical multiplayer horror game to debut, but its 2026 early-access launch has been pushed to 2027, developer Bloober Team announced. The horror-focused studio said it needs more time to get Saw: Genesis to a place the team is satisfied with. It's an interesting admission, since some teams use Steam Early Access for exactly that purpose: to get the game in good shape. But in the increasingly competitive and crowded space of licensed multiplayer horror games , a bad first impression may be more damaging than a reverse bear trap strapped to your face. We've seen a lot of games like this since Dead by Daylight kicked off a wave of them in 2016, but my appetite remains insatiable because no two are really quite alike. It's exciting to see how studios transpose different horror movies' signature elements into interactive experiences, but when I checked out Saw: Genesis at Summer Game Fest, I came away underwhelmed. The 3v1 gameplay loop wasn't easy to follow in my hands-off demo. It's set about a century before the movies, with one person playing as a Jigsaw-like "Judge" who runs three others through his maze of torture devices and traps, trying to kill them all before any of them can escape the end of his trials. The team of three may have brief windows of opportunity to attack the Judge, though a really skilled Judge may never even give them a chance, lurking in corridors the victims can't access, slinking out to activate his next hellish
-
-### In Saraab: Beyond The Veil, Your Inner Demons Are Coming For You This November
-Thu, 24 Sep 2026 22:00:00 +0000 — https://www.gamespot.com/articles/in-saraab-beyond-the-veil-your-inner-demons-are-coming-for-you-this-november/
-
-Anyone looking for a creepy adventure to play in November will want to check out Saraab: Beyond the Veil. Solo developer Lubna Ahmed has announced a November 3 release date for the game on PC via Steam and Itch.io , and a demo will be available for it during the October edition of Steam Next Fest. An Arabian folklore-inspired horror visual-novel game, Saraab follows Elham, a schoolgirl whose brother has suddenly been kidnapped. Rescuing your sibling means confronting your own inner demons, who have been externalized as monsters born of Elham's own psyche. To overcome them, she'll have to unlock the powers of her bloodline and uncover the truth of who she truly is. "I'm incredibly excited to bring this story to players and share a world shaped by authentic cultural themes, folklore, and emotional experiences that are rarely explored in games," Ahmed said in a press statement. "I hope players everywhere can connect with the game's story and characters, because ultimately, it's a story about the human heart." Horror is the crux of Saraab, but healing also plays a vital role in moving the story forward. As Elham comes to terms with her destiny and beliefs, she'll gain the ability to change reality based on the choices she makes along the way. Saraab's narrative is complemented by hand-drawn, anime-inspired art and an emotional soundtrack, and you can expect branching storylines, gameplay focused around Elham and her shadow, and a story about confronting the past to reclaim the fu
-
-### First Full Madden Movie Trailer Has Us So Very Confused
-Thu, 24 Sep 2026 20:41:53 +0000 — https://www.gamespot.com/articles/first-full-madden-movie-trailer-has-us-so-very-confused/
-
-Madden, the David O. Russell-directed John Madden biopic starring Nic Cage, got its first full-length trailer today, and to be completely honest, I have no idea what to make of this movie. Based on the two minutes seen in the trailer, it could either be a subversive comedic delight or The Room 2, but with even more footballs and fewer tuxedos. https://www.youtube.com/watch?v=xzh7HzLXXpk The trailer, which shows some of John Madden's time as the head coach of the Raiders before shifting to broadcasting, gives us a very good look at the makeup and prosthetics that turned Nic Cage into the most famous NFL broadcaster of all time. Does he look like John Madden? No, but he does look like Nic Cage wearing John Madden's face as his own, so perhaps this is a secret sequel to Face/Off. Madden's name is borderline synonymous with football video games today, and we get a brief look at how the game-development process began. This includes John Mulaney as EA founder Trip Hawkins, and we see how Madden was not interested in the original prototype, as it didn't feature 11 players on a team. David O. Russell hasn't exactly been on a winning streak the last several years, with Amsterdam losing a whole bunch of money . Perhaps viewers' morbid curiosity to see Nic Cage hamming it up as John Madden will improve its performance, but it's getting a Prime Video release on November 18 rather than a theatrical one. How often Madden will mention Brett Favre remans unclear. Alongside Cage and Mulaney, 
-
-### Nintendo Reportedly Canceled A Ubisoft-Developed Zelda Game Starring Ganondorf
-Thu, 24 Sep 2026 20:18:09 +0000 — https://www.gamespot.com/articles/nintendo-reportedly-canceled-a-ubisoft-developed-zelda-game-starring-ganondorf/
-
-Zelda fans have had no shortage of new games to play in recent years, but it appears that one game--starring the franchise's iconic villain--was also in the works at one point. Rather than having Nintendo internally develop the game, however, the project was in the works at Ubisoft. In a September 24 report, Insider Gaming says that Ubisoft Milan was working on a Zelda spin-off with the internal name "Goliath," which was set to star a new protagonist. During the early period of development, this was changed to have longtime big bad Ganondorf be the playable character. Outside of the Super Smash Bros. series, this would be a first and would presumably be quite different from other Zelda games. However, the report says that Nintendo "rejected the prototype" back in late 2023, and the team--including Davide Soliani, who directed the Mario + Rabbids games--opted to leave Ubisoft and form their own studio, Day 4 Night, which is currently developing Bradley the Badger . This occurred despite Ubisoft's attempts to pitch Nintendo on a different IP in its place, with both Star Fox and Mario mentioned, but it wasn't meant to be. It isn't the first time a Zelda spin-off has been canceled, apparently, with Retro Studios' Sheik-focused Project X reportedly getting canned during the Wii's lifespan. We won't have to wait too much longer to play the next game in the Zelda series, of course. The Switch 2 remake of Ocarina of Time is out on November 5, giving a whole new generation the chance 
-
 ## Rock Paper Shotgun
+
+### TALON TOWERS is a Fumito Ueda-coded parkour platformer about hopping around massive structures while avoiding falling to your foggy doom
+Sat, 26 Sep 2026 21:55:08 +0000 — https://www.rockpapershotgun.com/talon-towers-is-a-fumito-ueda-coded-parkour-platformer-about-hopping-around-massive-structures-while-avoiding-falling-to-your-foggy-doom
+
+If your game immediately makes me think of any of Fumito Ueda's in any sort of way, the likelihood is that I am to play it. There are only so many Ueda games (three, by my count) and there will only be so many (hopefully more that upcoming fourth one isn't the last), so when something rocks up that fits into that vibe like TALON TOWERS, a parkour platformer set on dilapidated structures that stand high above an infinitely stretching fog, I'm going to be pulled in. Read more
+
+### Suplex and shatter glass enemies after being in prison for committing a cardinal crime in the psychological horror beat 'em up Brokensides
+Sat, 26 Sep 2026 20:28:05 +0000 — https://www.rockpapershotgun.com/suplex-and-shatter-glass-enemies-after-being-in-prison-for-committing-a-cardinal-crime-in-the-psychological-horror-beat-em-up-brokensides
+
+Just hearing that a game has mashed two genres together does not generally excite me. It's a useful shorthand, maybe, but there's only so many roguelike deckbuilders I can take. Once in a while, however, a mashup comes along that makes me think, "well that doesn't seem right," and my ears perk up like a dog that's learned how to spell walk. Today, that mashup comes in the form of Brokensides, a psychological horror beat 'em up where you play as a violent sea bunny recently freed from imprisonment after committing a Cardinal Crime. Read more
 
 ### Video Game Menu: The Game is all about everyone's favourite gaming pastime: pressing random buttons in the menus and seeing what they change
 Sat, 26 Sep 2026 17:51:31 +0000 — https://www.rockpapershotgun.com/video-game-menu-the-game-is-all-about-everyones-favourite-gaming-pastime-pressing-random-buttons-in-the-menus-and-seeing-what-they-change
@@ -476,19 +444,4 @@ Demo sessions are often terrible ways to see a game, doubly so at conferences. Y
 Fri, 25 Sep 2026 10:12:53 +0000 — https://www.rockpapershotgun.com/colourful-jrpg-armed-fantasia-has-been-cancelled-four-years-after-a-successful-kickstarter-campaign-descended-into-delays-and-lawsuits
 
 Armed Fantasia , a JRPG pitched as a spiritual successor the PS2-era roleplaying series Wild Arms &ndash; and led by former Wild Arms producer Akifumi Kaneko &ndash; has been cancelled. Digital Bros, the parent company of Armed Fantasia publishers 505 Games, announced in a financial statement that it was one of several games for which "The Group decided to discontinue development," the others being a sequel to F2P strategy game Battle Islands and action RPG Directorate Novitiate, which had already revealed its own demise in May. Read more
-
-### Arc Raiders is testing a PvE mode because "a large and growing group" refuse to hunt each other
-Fri, 25 Sep 2026 09:01:56 +0000 — https://www.rockpapershotgun.com/arc-raiders-is-testing-a-pve-mode-because-a-large-and-growing-group-refuse-to-hunt-each-other
-
-Arc Raiders developer Embark Studios is bowing to the pacifists and trialing a PvE mode in their extraction shooter. If you play between October 13th and 20th, you'll be able to flick a toggle that means you load either into the traditional world of Arc Raiders, where human players vie for the valuable scraps left behind in a ruined world watched over by killer robots, or a slightly safer version where the machines are still deadly but the humans can't hurt you. "We&rsquo;re seeing a large and growing group of Raiders who come to the Rust Belt for the co-op and the ARC, not fighting with other Raiders," Embark say in the post announcing the trial . "That group has become a core part of our community, so it&rsquo;s important we learn how to support them properly rather than leave them working around the game." Read more
-
-### LOVE alt delete is a Y2K horror visual novel where you use one AI chatbot to help you date another that, don't worry, doesn't use the nasty generative stuff
-Thu, 24 Sep 2026 21:59:13 +0000 — https://www.rockpapershotgun.com/love-alt-delete-is-a-y2k-horror-visual-novel-where-you-use-one-ai-chatbot-to-help-you-date-another-that-dont-worry-doesnt-use-the-nasty-generative-stuff
-
-I would hope that for most of you it would not be a controversial thing to hear me say I hate generative AI. It stinks! It is rotting everyone's brains, and the people shilling it don't even care (see Nvidia CEO Jensen Huang saying he doesn't think it matters that kids aren't actually learning things like basic math when they use AI ). But - please don't leave yet - it sure does make for some primo storytelling. Like, for example, in the upcoming LOVE alt delete, a psychological horror visual novel where you are beta testing a chatbot that you're trying to date. Read more
-
-### I definitely suck at Iron Bramble's metroidvania grappling hook platforming, but its cyber-gothic megastructure world has me hungry for more
-Thu, 24 Sep 2026 20:34:50 +0000 — https://www.rockpapershotgun.com/i-definitely-suck-at-iron-brambles-metroidvania-grappling-hook-platforming-but-its-cyber-gothic-megastructure-world-has-me-hungry-for-more
-
-If it ain't broke, why fix it? That seems to be the thought process behind Iron Bramble, the next game from the devs behind Rusted Moss . Like its predecessor, Iron Bramble is a pixel art metroidvania , one where you have a grappling hook that lets you swing about the place at rapid pace, only this time the setting is a "cyber-gothic megastructure" and you play a story-eating demon (?) woman in a world where humanity's flesh bodies have all died out and their souls now reside in metal, robotic husks. Read more
 

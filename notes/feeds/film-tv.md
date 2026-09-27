@@ -1,176 +1,181 @@
-# Film & TV — harvested 2026-09-26T19:22:40.311Z
+# Film & TV — harvested 2026-09-27T10:12:30.754Z
 
 ## Variety
 
-### Chuck Varga, Founding Member of Heavy Metal Band Gwar, Dies at 68
-Sat, 26 Sep 2026 19:13:38 +0000 — https://variety.com/2026/music/news/chuck-varga-dead-gwar-founding-member-1236876474/
+### Jia Zhangke Readies Zhao Tao Road Movie Mamma Dunhuang, Rules Out AI in Production (EXCLUSIVE)
+Sun, 27 Sep 2026 09:19:02 +0000 — https://variety.com/2026/film/festivals/jia-zhangke-mamma-dunhuang-ai-production-1236876776/
 
-Chuck Varga, a founding member and vocalist of the heavy metal band Gwar, died on Friday following a battle with cancer. He was 68. Gwar bassist Casey Orr announced his death in a statement shared to Facebook, writing, “Chuck Varga has left this earthly realm. He passed peacefully, his beloved wife Bambi holding his hand. [ ]
+Jia Zhangke will turn his attention to location scouting and production design for his next film, road movie Mamma Dunhuang, once the 10th Pingyao Crouching Tiger Hidden Dragon International Film Festival wraps on Sept. 30. As revealed by Variety, the film follows a woman who drives from Dunhuang, in western China near Central Asia, all [ ]
 
-### How to Watch Henry Cejudo vs. Javon Walton Boxing Live Online
-Sat, 26 Sep 2026 19:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-henry-cejudo-vs-javon-walton-boxing-live-sept-2026-online-1236872320/
+### Tucker Carlson Returns to SNL to Review The Odyssey, Gender-Neutral Spider-Man and Left-Wing Obsession
+Sun, 27 Sep 2026 04:58:53 +0000 — https://variety.com/2026/tv/news/snl-tucker-carlson-weekend-update-summer-movies-1236876744/
 
-Misfits Boxing to South Beach for a prime bout between two elite fighters, as former-wrestler and -mixed martial artist Henry Triple C Cejudo takes on former-actor Javon Wanna Walton in a scheduled for five rounds of boxing. This is also Henry Cejudo s first pro boxing match. On Saturday, Sept. 26, Cejudo (0-0-0) vs. Walton (20-9-0) [ ]
+On the first Weekend Update of Saturday Night Live Season 52, Jeremy Culhane revived his fan-favorite impression of Tucker Carlson to offer his thoughts on some of the summer s biggest blockbusters. On The Odyssey, Carlson mentioned the specialty format of Imax 70mm, saying, The Hollywood cabal shoots its filth with millimeters — or as I [ ]
 
-### Melissa Barrera Says She Would Return to ‘Scream’ Franchise If the Rights ‘Were Ever to Leave’ Spyglass: ‘I Had an Amazing Time Making Those Movies’
-Sat, 26 Sep 2026 18:11:12 +0000 — https://variety.com/2026/film/news/melissa-barrera-scream-return-spyglass-1236876458/
+### Here s Where to Livestream Takuma Inoue vs. Tenshin Nasukawa 2 Boxing Online
+Sun, 27 Sep 2026 04:30:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-takuma-inoue-vs-tenshin-nasukawa-2-boxing-live-sept-2026-online-1236873487/
 
-Despite being fired from the “Scream” franchise in 2023, Melissa Barrera has made it clear that her real issue is with Spyglass Media Group, not the films themselves. When asked if she’d ever return for a future “Scream” film during a recent JustWatch interview, the actress responded, “not with the company that currently holds the [ ]
+Teiken Promotions has an epic title bout featuring two prime Japanese boxers this weekend. Champion Takuma Inoue defends his WBC bantamweight title belt against former-kickboxer and -mixed martial artist Tenshin Nasukawa in a rematch. The main event is scheduled for 12 rounds. On Sunday, Sept. 27, Inoue (22-2-0) vs. Nasukawa (8-1-0) takes place at Toyota [ ]
 
-### Hayley Kiyoko Wants to Make a Lesbian Pirates of the Caribbean : Keira Knightley, But Gay
-Sat, 26 Sep 2026 17:53:02 +0000 — https://variety.com/2026/film/columns/hayley-kiyoko-lesbian-pirates-of-the-caribbean-keira-knightley-gay-queer-1236875611/
+### SNL Opens Season With Mamdani Hanging Out With BFF Trump, Natalie Harp Going Obsession Over President
+Sun, 27 Sep 2026 03:59:57 +0000 — https://variety.com/2026/tv/news/snl-mamdani-trump-natalie-harp-obsession-1236876725/
 
-Hayley Kiyoko wants to sail the same-sex-loving high seas. The musician, novelist and filmmaker says her dream project is a queer take on “Pirates of the Caribbean.” “I would love to do a lesbian pirate show or movie — Keira Knightley, but gay,” she said. “Very gay and fantastical.” Kiyoko’s remarks came Thursday night during [ ]
+Season 52 of “Saturday Night Live” kicked off with its usual cold open, and it involved two unlikely political BFFs. Ramy Youssef stopped by to play New York City Mayor Zohran Mamdani, whose office was visited by James Austin Johnson s Donald Trump. “For some reason that no one can figure out, I really, really like [ ]
 
-### ‘Paper Tiger’ Director James Gray Says He Doesn’t ‘Want to Preach’ Politics To Audiences: ‘Art Is Not Sunday School’
-Sat, 26 Sep 2026 17:32:04 +0000 — https://variety.com/2026/film/news/paper-tiger-james-gray-politics-art-sunday-school-nyff-1236876396/
+### Jalen Brunson s SNL Monologue Sees Knicks Starting 5 Roasting Each Other
+Sun, 27 Sep 2026 03:58:54 +0000 — https://variety.com/2026/tv/news/jalen-brunson-snl-monologue-knicks-starting-5-1236876727/
 
-“Paper Tiger” director James Gray says he doesn’t “want to preach” about politics while making the festival rounds for his latest film, starring Adam Driver, Scarlett Johansson and Miles Teller. “All movies are political in one way or another, but I like movies that exist with subtext,” Gray told Variety at the film’s New York [ ]
+Jalen Brunson s Saturday Night Live monologue featured some familiar faces, as the remaining members of the Knicks starting five visited Studio 8H to roast their team captain. But before Karl-Anthony Towns, Josh Hart, Mikal Bridges and OG Anunoby appeared on screen, Kenan Thompson took the stage as ESPN pundit Stephen A. Smith. Let me say [ ]
 
-### Reba McEntire Says She Missed a Call from Dolly Parton Before Her Death and ‘Couldn’t’ Get Back in Touch: ‘I’ll Never Know Why She Called’
-Sat, 26 Sep 2026 17:27:39 +0000 — https://variety.com/2026/music/news/reba-mcentire-dolly-parton-missed-call-1236876408/
+### Jon Watts to Direct Next ‘Star Wars’ Movie
+Sun, 27 Sep 2026 02:04:00 +0000 — https://variety.com/2026/film/news/jon-watts-to-direct-star-wars-1236876714/
 
-Reba McEntire revealed her longtime friend Dolly Parton tried to get in touch with her just before she died. The country singer and actress shared that she missed a call from Parton, who died Aug. 25 after a “brief battle” with cancer, and was unable to get in touch with her one final time. “She [ ]
+A new “Star Wars” movie is currently in development with director Jon Watts attached. Watts is best known for directing the popular “Spider-Man” trilogy starring Tom Holland, which includes 2017’s Spider-Man: Homecoming,” 2019’s “Spider-Man: Far From Home,” and 2021’s “Spider-Man: No Way Home.” (2026’s “Spider-Man: Brand New Day” was directed by Destin Daniel Cretton.) Before [ ]
 
-### Godzilla Minus Zero First Reactions Go Crazy for Epic and Jaw-Dropping Sequel: Should Be Nominated for Best Picture
-Sat, 26 Sep 2026 17:19:25 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-first-reactions-1236875514/
+### ‘Godzilla Minus Zero Director Champions Franchise’s First R Rating as Sequel Rocks NYFF at World Premiere: ‘Censoring’ the Action ‘Was Not an Option’
+Sun, 27 Sep 2026 01:08:45 +0000 — https://variety.com/2026/film/news/godzilla-minus-zero-r-rated-takashi-yamazaki-nyff-1236876643/
 
-Godzilla is back and better than ever as Takashi Yamazaki s Godzilla Minus Zero is earning rave first reactions after its New York Film Festival press screening. The director s sequel to 2023 s blockbuster Godzilla Minus One wowed journalists with epic thrills and the first R-rated action set pieces in the long-running kaiju franchise. First reactions out [ ]
+“Godzilla Minus Zero” blew the roof off Alice Tully Hall during its rapturous world premiere screening at the New York Film Festival. The long-awaited sequel to 2023’s “Godzilla Minus One” earned rave first reactions from the press earlier in the day, and that adoration rolled right into the world premiere. The movie was met with [ ]
 
-### Sylvester Stallone Says He ‘Became Bulimic’ After Transforming for ‘Rocky’ and Opens Up About the ‘Terrible Toll’ of Steroid Use: It Was An ‘Obsessive Body-Worship Kind of Thing’
-Sat, 26 Sep 2026 17:11:50 +0000 — https://variety.com/2026/film/news/sylvester-stallone-bulimic-rocky-steroid-use-1236876411/
+### Godzilla Minus Zero Review: Godzilla and King Ghidorah Battle to the Death in the Even Grander Follow-Up to Godzilla Minus One
+Sun, 27 Sep 2026 00:30:00 +0000 — https://variety.com/2026/film/reviews/godzilla-minus-zero-review-takashi-yamazaki-nyff-1236876075/
 
-Sylvester Stallone is opening up about the less glamorous side of fame, revealing that he’s struggled with a tumultuous relationship with his body ever since he physically transformed to play the titular boxer in “Rocky.” In a recent interview with The New York Times, the famed actor delved into his “intimate” relationship with his body [ ]
+Yamazaki, who rebooted the genre and took it to a new peak in the revelatory 2023 retro kaiju classic "Godzilla Minus One," works with a quality that none of the filmmakers of recent decades has summoned: a fairy-tale innocence, an immersion in the annihilating heavy-metal poetry of Godzilla — the way the destruction of a city can become a spectacle out of a dream (which is to say, a national nightmare). In "Godzilla Minus Zero," when Godzilla and King Ghidorah go at it, it’s more than a WWE match of primeval rivals. It’s a clash of the titans that will reduce everyone in the audience to a wide-eyed, jaw-dropped child.
 
-### Glen Basner Says FilmNation Will Ramp Up Slate in 2027, Is Ready to ‘Raise His Fist’ for ‘I Play Rocky’ and Celebrate ‘Thoughtful’ and ‘Entertaining’ ‘Bunker’
-Sat, 26 Sep 2026 16:35:44 +0000 — https://variety.com/2026/film/global/glen-basner-filmnation-2027-slate-i-play-rocky-bunker-1236876378/
+### Robert Pattinson Says It Would Be ‘Tough’ for His Batman to Exist Within James Gunn’s DCU
+Sun, 27 Sep 2026 00:04:39 +0000 — https://variety.com/2026/film/news/robert-pattinson-batman-superman-james-gunn-1236876674/
 
-CEO of FilmNation Entertainment Glen Basner was feted by “Conclave” director Edward Berger as he received this year’s Game Changer Award at the Zurich Summit. During the hour-long talk that celebrated the accolade, the exec fondly recalled working with Berger, spoke about buzzy upcoming releases, and revealed that FilmNation will expand its slate for 2027. [ ]
+Superman and Batman might be one of the DC Universe’s most famous partnerships, but Robert Pattinson is officially ending speculation that his take on Bruce Wayne would fit in the cinematic world created by James Gunn. “I think it would be kind of tough to have this version of Bruce outside of that world, Pattinson [ ]
 
-### How To Watch Neil Young, Willie Nelson, Dave Matthews Band and More Perform Live at CNN s ‘Farm Aid Music Festival
-Sat, 26 Sep 2026 16:00:00 +0000 — https://variety.com/2026/music/news/how-to-watch-farm-aid-2026-music-festival-live-1236875088/
+### ‘Jack Christine’ Trailer: John Hawkes Turns A Dinner Party Into A Night of Chaos Film News in Brief
+Sat, 26 Sep 2026 23:52:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-sept-21-2026-1236867385/
 
-CNN has partnered with Farm Aid for a second year to bring audiences the Farm Aid 2026: Music Festival Live on Saturday, Sept. 26. Audiences can watch the annual music festival, which will air live on Saturday, Sept. 26 from 7 p.m. ET to 11 p.m. ET on CNN. Cable-cutters can also stream the fest [ ]
+“Jack Christine,” a thriller short film starring John Hawkes, released the first trailer ahead of its world premiere at Beyond Fest on Sunday. The trailer shows married couple Jack (Luke Barnett) and Christine (Nikki Lorenzo) hosting a dinner party that suddenly spirals into an intense, chaotic evening when a guest (Hawkes) from the couple’s [ ]
 
 ## The Hollywood Reporter
 
-### YouTube and Meta Reverse Course, Will Accept Musk Trailer Ad
-Sat, 26 Sep 2026 18:45:40 +0000 — https://www.hollywoodreporter.com/business/digital/youtube-meta-musk-trailer-ad-1236712540/
+### Hints of Sex and the City and Narcos : A Look at Literary Works Being Pitched for Screen Adaptations at Iberseries Platino Industria
+Sun, 27 Sep 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/book-screen-adaptation-pitches-iberseries-platino-industria-1236696290/
 
-The Google unit says the ad was "temporarily restricted" while Meta calls it "an error." TikTok and X remain silent.
+Among the featured books are also the memoirs of a Medellín drug cartel founder and Che Guevara’s first wife, plus a graphic novel by the creator of the opening title design for 'Only Murders in the Building.'
 
-### Paper Tiger Makes Its Case at NYFF Premiere: A Labor of Love
-Sat, 26 Sep 2026 17:11:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-new-york-film-festival-premiere-1236712523/
+### Jalen Brunson Brings the New York Knicks to the Saturday Night Live Season 52 Premiere
+Sun, 27 Sep 2026 03:49:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jalen-brunson-snl-season-52-premiere-knicks-players-1236712688/
 
-The James Gray film made its North American premiere to a warm reception on Friday evening, standing out as the kind of American indie that’s harder than ever to get made.
+Karl-Anthony Towns, Josh Hart, OG Anunoby and Mikal Bridges showed up to support the NBA Finals MVP's first hosting stint.
 
-### Zurich Summit Game Changer Glen Basner and Edward Berger Reminisce on a Wild Conclave Ride
-Sat, 26 Sep 2026 16:54:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/zurich-summit-game-changer-glen-basner-edward-berger-film-1236712496/
+### Star Wars : Jon Watts to Direct Next Movie for Lucasfilm
+Sun, 27 Sep 2026 00:37:13 +0000 — https://www.hollywoodreporter.com/news/general-news/star-wars-jon-watts-direct-next-movie-lucasfilm-1236712709/
 
-Former Good Machine colleagues treated Zurich Summit attendees to behind-the-scenes anecdotes about making Berger's Vatican-set drama and touched on a busy year for award recipient Basner.
+Simon Kinberg is writing the new trilogy that is said to be next episodes of the Skywalker Saga.
 
-### Aaron Taylor-Johnson s Monstrous Transformation Teased in Robert Eggers’ Werwulf Trailer
-Sat, 26 Sep 2026 16:44:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/aaron-taylor-johnson-robert-eggers-werwulf-trailer-1236712506/
+### Godzilla Minus Zero Review: Monster Movie Genius Takashi Yamazaki Returns With a Crackling Kaiju Epic Every Bit as Exciting as Its Predecessor
+Sun, 27 Sep 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/godzilla-minus-zero-review-takashi-yamazaki-1236712678/
 
-Lily-Rose Depp and Willem Dafoe also star in the upcoming horror film set to release Christmas Day.
+This direct sequel to the 2023 global sensation picks up in 1949, as a makeshift family finds its domestic harmony again threatened by a rampaging creature’s path of destruction.
 
-### Avengers: Endgame Snapping Up $26M at Box Office Amid Crowded Weekend
-Sat, 26 Sep 2026 16:01:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-encore-box-office-primetime-heart-beast-1236712502/
+### James Gray on Broader Takeaways From Personal Film Paper Tiger : What Connects Us Is What Matters
+Sat, 26 Sep 2026 22:17:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/paper-tiger-james-gray-takeaways-ending-1236712649/
 
-'Heart of the Beast,' 'Primetime' and 'Forgotten Island' are among the newcomers battling with returnee 'Resident Evil.'
+As the crime thriller had its North American premiere at the New York Film Festival, the director spoke about how he hoped the domestic drama's open-ended resolution allows the story to continue for the audience after the credits.
 
-### John Goodman Joins The Last of Us Season 3
-Sat, 26 Sep 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-last-of-us-season-3-john-goodman-1236710364/
+### Viral Lesbian Bar Article From Boston Globe Is Piquing Hollywood s Interest
+Sat, 26 Sep 2026 21:54:37 +0000 — https://www.hollywoodreporter.com/business/business-news/viral-lesbian-bar-article-from-boston-globe-1236710331/
 
-Ian Alexander and Laura Bailey, who have voice roles in the video game series, have also been cast.
+The article has spurred thousands of subscriptions to the paper. Now UTA, which reps the Globe, is fielding inquiries about adaptations.
 
-### Jonathan Lipnicki on His Bold Role Opposite Robert Pattinson in Primetime and Why He Left L.A.
-Sat, 26 Sep 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/primetime-movie-robert-pattinson-jonathan-lipnicki-scene-1236710284/
+### Sylvester Stallone Says He Became Bulimic While Filming Rocky Movies, Used Steroids
+Sat, 26 Sep 2026 21:48:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-bulimic-steroids-filming-rocky-movies-1236712570/
 
-The former child star — famous for telling Tom Cruise "a human head weighs eight pounds" in 'Jerry Maguire' — opens up about baring all in the Lance Oppenheim-directed film, being brave and staying stubborn for what he loves most: "I don't quit."
+The 80-year-old actor recalls the period of his life where his physique became an "obsession."
 
-### Kane Parsons Says Backrooms Fans Were Braced for Hollywood to Mess It Up
-Sat, 26 Sep 2026 13:14:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kane-parsons-backrooms-2-film-sequel-zurich-hollywood-1236712483/
+### Mike Leigh s Tender Loving Care Sweeps San Sebastian Awards as La Bola Negra, NAZA Earn Audience Nods
+Sat, 26 Sep 2026 20:49:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-leigh-tender-loving-care-san-sebastian-awards-festival-1236712566/
 
-Luckily, the young filmmaker told the Zurich Summit that he likes to think he did the core idea of his iconic YouTube series justice — and touched on the possibility of a sequel.
+Amanda Kernell's 'Brace Your Heart' won the Swedish-Sami filmmaker the Silver Shell for best director as the Spanish film fest wrapped up its 74th edition, the last for outgoing director Jose Luis Rebordinos.
 
-### Academy CEO Bill Kramer Doubles Down on YouTube Move: You ll See a Very Different-Looking Oscars
-Sat, 26 Sep 2026 12:42:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/academy-ceo-bill-kramer-oscars-youtube-ceremony-zurich-film-1236712484/
+### Jalen Brunson and KATSEYE Kick Off SNL Season 52: Where to Watch the Premiere Online
+Sat, 26 Sep 2026 20:43:16 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-jalen-brunson-host-snl-season-52-premiere-free-katseye-1236712478/
 
-Kramer said at the Zurich Film Festival Summit on Saturday afternoon that bringing Hollywood's biggest night to YouTube "gives the Academy more control in engaging with film lovers."
+Both the Knicks star and girl group are set for their 'Saturday Night Live' debuts, the former as host and the latter as premiere week's musical guest.
 
-### Texas vs. Tennessee: Where to Watch the Marquee College Football Game Online
-Sat, 26 Sep 2026 12:35:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-texas-vs-tennessee-game-free-football-streams-2026-1236710097/
+### Reba McEntire Reveals She Missed a Call From Dolly Parton Before Her Death: I ll Never Know Why She Called
+Sat, 26 Sep 2026 20:16:47 +0000 — https://www.hollywoodreporter.com/music/music-news/reba-mcentire-missed-call-dolly-parton-before-death-1236712561/
 
-Fans, Trump and a whole lot of Secret Service flood to Knoxville's Neyland Stadium for Saturday's SEC showdown between two undefeated powerhouses.
+"I tried to get back in touch with her and I couldn’t," McEntire said to Entertainment Tonight.
 
 ## Deadline
 
-### I Can Promise You, We Had No Idea That Obsession Was Going To Become Obsession , Says Hit Horror Film s Seller Zurich Summit
-Sat, 26 Sep 2026 17:27:03 +0000 — https://deadline.com/2026/09/we-had-no-idea-that-obsession-was-going-to-become-obsession-1237114475/
+### How SNL Introduced Season 52 s New Cast Members Saidah Belo-Osagie Grace Reiter
+Sun, 27 Sep 2026 05:10:35 +0000 — https://deadline.com/2026/09/snl-new-cast-members-season-52-skits-1237114592/
 
-William Goldman s adage that nobody knows anything never gets old. If studios and financiers knew what was going to work every time, everyone would be rich and the industry would be a lot less interesting. The old saying reared its head today at the Zurich Summit when filmmakers and brokers behind the year s horror phenomena [ ]
+For those wondering how SNL s new cast members factored into tonight s season premiere, the answer was: not much. The two new featured players, Saidah Belo-Osagie and Grace Reiter, were introduced together, as part of an early sketch on the search for reality competition The Debut: Dream Academy s next breakout girl group. Belo-Osagie played Neelsa Boyce, [ ]
 
-### How To Watch Farm Aid 2026: Willie Nelson, Neil Young, John Mellencamp, Dave Matthews More To Perform
-Sat, 26 Sep 2026 16:51:21 +0000 — https://deadline.com/2026/09/farm-aid-how-to-watch-1237114491/
+### Saturday Night Live : Jalen Brunson Dunks On High School Musical Lead, Katseye Crowns Awkward New Girl Group In Season 52 Premiere
+Sun, 27 Sep 2026 05:10:17 +0000 — https://deadline.com/2026/09/saturday-night-live-jalen-brunson-high-school-musical-katseye-1237114610/
 
-Farm Aid, the annual music festival to raise funds and awareness for American family farms, will be broadcast tonight on CNN from 7-11 pm/ET, 4-8 pm/PT. The benefit concert marks the second consecutive partnership with CNN. Performers expected to play at the Virginia Beach fest are Willie Nelson Family, Neil Young and the Chrome [ ]
+Following the Knicks big win at Madison Square Garden, Jalen Brunson took the stage at 30 Rockefeller Center for his Saturday Night Live hosting debut. On Saturday s Season 52 premiere, the NBA Finals 2026 MVP showed off some comedic chops in an otherwise business-as-usual episode of the NBC sketch comedy show, which featured Katseye as [ ]
 
-### White House Blocks CNN From Air Force One, Networks Suspend Pool Coverage Again
-Sat, 26 Sep 2026 16:37:00 +0000 — https://deadline.com/2026/09/white-house-again-blocks-cnn-trump-air-force-one-1237114388/
+### ‘SNL’s Weekend Update Mocks Paramount+, ‘Spider-Man’, ‘The Odyssey’ ‘Obsession’
+Sun, 27 Sep 2026 04:55:09 +0000 — https://deadline.com/2026/09/snls-weekend-update-spider-man-the-odyssey-obsession-1237114628/
 
-UPDATED: The White House has blocked CNN from flying on Air Force One as part of the TV pool network traveling with Donald Trump on his trip to Tennessee Saturday. The other four networks in the rotation CBS, NBC, ABC and Fox declined to replace CNN, reviving their suspension of the pool from [ ]
+Saturday Night Live’s Weekend Update was back and focused on the movie business. Jeremy Culhane returned as Tucker Carlson and he was giving his thoughts on the summer’s slate of blockbusters. “It’s movie time, let’s find our seats, silence our cell phones and abandon Christian values,” he opened. “Of course, I’m talking about PAW Patrol: [ ]
 
-### Chuck Varga Dies: Singer With Shock Metal Band GWAR Was 68
-Sat, 26 Sep 2026 15:21:06 +0000 — https://deadline.com/2026/09/chuck-varga-dead-1237114451/
+### ‘SNL’ Season 52 Premiere Delayed In Many Areas Due To College Football
+Sun, 27 Sep 2026 04:21:01 +0000 — https://deadline.com/2026/09/snl-season-52-premiere-delayed-college-football-1237114608/
 
-Chuck Varga, a founding member and vocalist of the shock-rock heavy metal band GWAR, has died following a battle with cancer. A resident of Brooklyn, New York, Varga was 68. His death was announced GWAR bass player Casey Orr, who said Varga, who during his time with the band sometimes played the character Sexicutioner, died [ ]
+It wasn’t a great start to the season for Saturday Night Live in many parts of the country after linear viewers suffered a delay thanks to college football running late. The Oregon-USC game finished just over 15 minutes late, meaning that many affiliates started after the Jalen Brunson-hosted opener with a 16-minute delay. USC hosted [ ]
 
-### Avengers Endgame: Encore Assembles $24M-$26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace Box Office Update
-Sat, 26 Sep 2026 15:20:00 +0000 — https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/
+### Saturday Night Live : Jalen Brunson s Knicks Teammates Join Him During Opening Monologue
+Sun, 27 Sep 2026 04:01:03 +0000 — https://deadline.com/2026/09/saturday-night-live-jalen-brunson-knicks-teammates-monologue-1237114598/
 
-SATURDAY AM: Even if four movies fall short of clearing $20M+ each this weekend, domestic moviegoing remains in high gear. The entire Friday to Sunday span for all titles is expected to clock around $123M which would make it the second-best late September weekend ever behind 2015 s $137.8M when Hotel Transylvania 2 opened (for those [ ]
+Saturday Night Live kicked off its 52nd season with a victory lap for Knicks fans, as host Jalen Brunson was joined onstage by his teammates. The 2026 MVP swapped some quips with teammates Karl-Anthony Towns, Mikal Bridges, OG Anunoby and Josh Hart during his opening monologue on Saturday s episode, which comes after they defeated the [ ]
 
-### The Last Of Us Casts John Goodman, Ian Alexander Laura Bailey For Season 3
-Sat, 26 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/the-last-of-us-season-3-john-goodman-cast-1237114224/
+### Saturday Night Live Opens Season With Riff On Donald Trump s Need For More Time With Zohran Mamdani: Please Let Me Stay Here With You
+Sun, 27 Sep 2026 03:58:55 +0000 — https://deadline.com/2026/09/saturday-night-live-trump-mamdani-1237114593/
 
-Emmy winner John Goodman (The Conners), Ian Alexander and Laura Bailey (The Legend of Vox Machina) have joined the Season 3 cast of HBO s The Last Of Us. The castings are significant, as Alexander and Bailey previously voiced characters from The Last of Us: Part II video game, Alexander as Lev and Bailey as Abby. [ ]
+The cold open of the new season of Saturday Night Live featured Ramy Youssef as New York Mayor Zohran Mamdani, getting another visit from President Donald Trump (James Austin Johnson). It was a riff on their latest meeting earlier this week, an unlikely lovefest between the left-wing mayor and the right-wing commander in chief. On [ ]
 
-### ‘Backrooms’ Director Kane Parsons Distances $400M Hit From Horror Moniker: “I Don t View It As A Horror Project”- Zurich Summit
-Sat, 26 Sep 2026 13:41:28 +0000 — https://deadline.com/2026/09/backrooms-kane-parson-not-horror-project-zurich-summit-1237114440/
+### Star Wars Is Continuing Skywalker Saga With Spider-Man Director Jon Watts
+Sun, 27 Sep 2026 03:07:27 +0000 — https://deadline.com/2026/09/star-wars-continuing-skywalker-saga-director-jon-watts-1237114584/
 
-Kane Parson’s $400M hit Backrooms, spinning off his web-series inspired by creepypasta horror content on the internet, is invariably and understandably billed as a horror. The director told a panel at the Zurich Summit on Saturday, however, that he does not see it as being aligned with the genre. “I didn t direct like a horror [ ]
+After eight years and countless entries in the expanding onscreen universe, Star Wars is revisiting the Skywalker family with its next project. Deadline can confirm that Lucasfilm has tapped Skeleton Crew co-creator Jon Watts (director of Spider-Man: Homecoming, Spider-Man: Far From Home and Spider-Man: No Way Home) to helm the first installment in a new [ ]
 
-### Taylor Swift Breaks Spotify Record With Patient Zero Surprise Release; New Showgirl Songs Take Top Four Spots On Global Streaming List
-Sat, 26 Sep 2026 13:32:31 +0000 — https://deadline.com/2026/09/taylor-swift-spotify-patient-zero-1237114438/
+### Ina Garten Explains Why She s Always Said No To A Biopic: It s My Story
+Sun, 27 Sep 2026 01:00:08 +0000 — https://deadline.com/2026/09/ina-garten-always-said-no-biopic-1237114577/
 
-The previously unreleased song released by Taylor Swift yesterday as part of The Life of a Showgirl: Encore record has already scored some records of its own. Spotify says that one of the four Swift songs released yesterday Patient Zero immediately became Spotify s most-streamed song by a female artist in a single day [ ]
+After sharing her story in her 2024 memoir Be Ready When The Luck Happens, Ina Garten is reluctant to trust a filmmaker with the adaptation. The Barefoot Contessa celebrity chef recently explained why she s never been willing to make a biopic about her life, despite being approached to adapt Be Ready for the big screen. [ ]
 
-### Cinetic Launches Vertical Leap, Investment Vehicle Producing Pathway For Pro Athletes Zurich Summit
-Sat, 26 Sep 2026 10:41:39 +0000 — https://deadline.com/2026/09/cinetic-launches-vertical-leap-pathway-pro-athletes-1237114425/
+### Robert Eggers Wants To Do Romeo Juliet Because Things Got So Dark After Werwulf , Joking: So, I ll Do Something About Two Teenagers Killing Themselves
+Sat, 26 Sep 2026 23:34:30 +0000 — https://deadline.com/2026/09/robert-eggers-making-romeo-juliet-after-so-dark-werwulf-1237114572/
 
-John Sloss s Cinetic Media has launched Vertical Leap, an investment vehicle and producing pathway for professional athletes. The initiative is designed to give athletes/members a working seat inside Cinetic s slate, with access to rough cuts, creative input, and the same industry guidance the company provides the filmmakers behind its most successful projects. The end goal [ ]
+SPOILER ALERT for anyone who skipped freshman English! Robert Eggers is teasing his take on William Shakespeare s Romeo Juliet. During a post-screening Q A for his latest macabre title Werwulf, premiering Christmas Day, the auteur joked that the famously tragic conclusion of Shakespeare s 16th century romance would be a welcome break from his usual horror [ ]
 
-### One Year On, Does AI Actress Tilly Norwood Have An Agent? We Get Loads Of Offers, But No, We Don t Need It Zurich Summit
-Sat, 26 Sep 2026 08:13:12 +0000 — https://deadline.com/2026/09/tilly-norwood-had-agent-offers-but-doesnt-need-one-1237114411/
+### Sylvester Stallone Thought His Dad Would Be Proud To Make Rocky Cameo: It Got Really Nasty
+Sat, 26 Sep 2026 22:10:21 +0000 — https://deadline.com/2026/09/sylvester-stallone-dad-rocky-cameo-really-nasty-1237114559/
 
-One year ago, AI actress Tilly Norwood blew up at the Zurich Summit when she was introduced to the industry. The line that emerged from the event at the time was that agents were circling the AI creation. One year on, Norwood returned to the Summit with her creator Eline van der Velden from AI [ ]
+As Sylvester Stallone made his breakout performance in Rocky, there was one person he couldn t quite turn into a fan. While discussing his memoir The Steps, releasing Oct. 23, the 3x Oscar nominee recalled things on set getting really nasty after giving his real father Frank Stallone Sr. a cameo as the bell ringer in [ ]
 
-### ‘Sunshine’ Director Antoinette Jadaone Launches Ilaya Ilaya; Women-Led Slate Headed By Angelica Panganiban, Kaila Estrada, Eugene Domingo Maris Racal
-Sat, 26 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/maris-racal-sunshine-antoinette-jadaone-ilaya-ilaya-1237113584/
+### UK Prime Minister Andy Burnham Nearly Joins Oasis, But There s Something A Bit Off About The Gallagher Brothers In SNL UK Cold Open
+Sat, 26 Sep 2026 21:21:13 +0000 — https://deadline.com/2026/09/snl-uk-andy-burnham-joins-oasis-russian-spies-1237114551/
 
-EXCLUSIVE: Filipino filmmaker and producer Antoinette Jadaone, whose credits include Berlinale award winner Sunshine, is launching a new production outfit Ilaya Ilaya with a slate spanning genre films, television originals and immersive theatre. Jadaone will run the company with longtime collaborator and producer Reign Anne De Guzman (Sunshine, That Thing Called Tadhana), who has collaborated [ ]
+There was something a bit off about Oasis sometimes feuding-yet-touring brothers in the Saturday Night Live UK cold open this week. SNL UK kicked off its Season 2 Episode 3 with new UK Prime Minister Andy Burnham, played by George Fouracres, returning to his beloved home of Manchester following a speech to the UN where [ ]
 
-### Chris Hansen Finally Saw Primetime , Still Not A Fan: So Detached From Reality
-Sat, 26 Sep 2026 01:55:13 +0000 — https://deadline.com/2026/09/chris-hansen-finally-saw-primetime-still-not-fan-1237114384/
+### San Sebastián: Mike Leigh’s ‘Tender Loving Care’ Wins Golden Shell Best Screenplay
+Sat, 26 Sep 2026 20:43:35 +0000 — https://deadline.com/2026/09/san-sebastian-mike-leigh-tender-loving-care-golden-shell-1237114543/
 
-After weeks of providing A24 s Primetime with free press, Chris Hansen has finally seen the Lance Oppenheim-helmed thriller. On Friday, the former To Catch a Predator host teased his reaction after catching a screening of the movie, which is now in theaters, based on Esquire s depiction of Hansen in the 2007 article Tonight on Dateline [ ]
+Mike Leigh’s latest and potential last feature, Tender Loving Care, has won the San Sebastián Film Festival’s top prize, the Golden Shell, alongside the award for Best Screenplay. Scroll down for the full list of winners. Leigh’s Tender Loving Care also won the Silver Shell for Best Leading Performance for actress Kate O Flynn, who shared [ ]
 
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Godzilla Minus Zero Review: The King of the Monsters Returns with a Direct Sequel That s One Better Than the Last Movie in Almost Every Way
+Sun, 27 Sep 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/godzilla-minus-zero-movie-review-1235218720/
+
+Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.
 
 ### How Taylor Swift s Patient Zero Music Video Will (and Will Not) Impact Her Oscar Chances
 Sat, 26 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/awards/industry/taylor-swift-patient-zero-oscar-chances-1235218787/
@@ -227,112 +232,107 @@ Fri, 25 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/news/breaking-news
 
 "Voices of The Gilded Age: The Christmas Album" puts the HBO series' cast of Broadway stars to proper use, with Audra McDonald, Carrie Coon, Christine Baranski, Kelli O'Hara, Morgan Spector, and more performing a slew of holiday classics and two new songs.
 
-### Filmmaker Lauren Caster Is Spending 30 Days on the Internet Convincing People to Watch Her Indie
-Fri, 25 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/director-lauren-caster-rhythm-is-a-dancer-interview-1235218453/
-
-The "Rhythm Is a Dancer" writer/director talks about how she turned her frustrations over getting her movie seen into a marketing tool, and how she harnessed social media to make millions aware of her film.
-
 ## The Wrap
+
+### SNL Weekend Update s Tucker Carlson Shades Summer Box Office Hits: Spider-They, Spider-Them
+Sun, 27 Sep 2026 05:02:22 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-weekend-update-tucker-carlson-summer-movies/
+
+Conservative commentator Tucker Carlson (Jeremy Culhane) crashed Weekend Update during tonight s Saturday Night Live Season 52 premiere to throw some shade toward this year s biggest summer movies. Let s find our seats, silence our cell phones and abandon Christian values, Culhane s Carlson announced at the top of the segment. When Weekend Update co-host Colin Jost asked him if he had seen Christopher Nolan s The Odyssey this past summer, Carlson responded, Oh yes. The Odyssey in IMAX 70mm. That s right. The Hollywood cabal shoots its filth with millimeters, or as I like to call it, The Gay Inch.' Culhane s Carlson later turned his attention to this summer s biggest movie, Spider-Man: Brand New Day. Unfortunately, the conservative pundit found plenty to dislike with Tom Holland s latest big-screen Spider-Man outing. Everybody loves Spider-Man: Brand New Gender. Spider-They, Spider-Them, uses whatever bathroom it feels like, Carlson cynically joked. Moments later, he ordered the SNL audience to stop clapping after he noted that Holland and Brand New Day co-star Zendaya got married this year. I now pronounce you, Mr. and Mrs Huh? She refused to take his last name? Culhane s Carlson asked. When Jost noted that Zendaya doesn t have a last name, Carlson inquired, But where did it go? And who took it? And why? Sorry, kids, you don t get two names anymore! You only get one name! Like a dog! That s the rule. That s the goal now. You can watch the full SNL segment yourself below. Carl
+
+### SNL : Jalen Brunson and Knicks Teammates Chuckle Through NBA Championship Q A Monologue
+Sun, 27 Sep 2026 04:00:36 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-jalen-brunson-monologue-knicks-teammates/
+
+Saturday Night Live returned for Season 52 this week, hosted by New York Knicks star Jalen Brunson, and for the night s monologue, he brought a few of his teammates with him. Naturally, they couldn t keep a straight face through it. To kick off his monologue, Brunson first joked that he intended to approach SNL the same way he approached the NBA finals: the first three quarters of the show are going to be god awful. The last sketch is going to be amazing. Eventually, Brunson opened things up to an audience Q&A where Josh Hart, OG Anunoby, Mikal Bridges and Karl-Anthony Towns were waiting with questions locked and loaded. First up was Towns, who asked: Can you foul out of SNL? When Brunson confirmed that no, he couldn t, Towns excitedly realized that he could be present for the entire show. Next came Bridges, who didn t really have a question. He just wanted to show off his incredible wingspan, and mourn that, even with it, he ll never fly. Then came Anunoby. Remember in Game Four when you took that shot at the end and you missed it? he taunted Brunson. Brunson confirmed he did, prompting Anunoby to ask what happened next, and Brunson to add that Anunoby himself tipped the ball in. Oh yeah, that was awesome, Anunoby retorted. Finally, it was Hart s turn. He wanted to know if it was true that Brunson took a $113 million pay cut just so he could stick with the Knicks, which Brunson also confirmed. Wow. So is that money like still up for grabs? Hart asked. At that, Brunson fired 
+
+### SNL Cold Open: Trump and Mamdani Cement Friendship Over Press Ban, China President Visit and NYC s Historic Storm
+Sun, 27 Sep 2026 03:44:06 +0000 — https://www.thewrap.com/culture-lifestyle/culture/snl-cold-open-trump-mamdani-natalie-harp/
+
+President Donald Trump (James Austin Johnson) paid a surprise visit to New York City Mayor Zohran Mamdani (Ramy Youssef) in tonight s Saturday Night Live cold open. What reckless lunatic would travel to see me in this kind of weather? Youssef s Mamdani asked at the top of the cold open, before Johnson s Trump arrived to inform the mayor he had traversed through the El Niño storm to pay a visit to his unlikely pal. For some reason that no one can figure out, I really, really like you, the president said. Somehow, when I m with you, I m just firing on all cylinders, Trump told Mamdani. Maybe it s because we re both from Queens. In response, Youssef s NYC mayor said, Isn t it funny to think I could have grown up in one of your apartment buildings? Not with that last name! Johnson s president replied. Later, SNL star Ashley Padilla made her debut as Trump s executive assistant, Natalie Harp . Drenched and yet undaunted, Padilla s Harp warned Youssef s Mamdani, If you hurt him, I will end you. You can watch tonight’s “SNL” cold open yourself below. At one point, Johnson s Trump told Youssef s Mamdani he took his advice on how to deal with Iran. When the mayor excitedly asked if that meant the president had stated that America needs to work towards a ceasefire and sustained peace, Trump replied, Ooh I could have sworn you told me to say, I m going to annihilate you!' Maybe I dreamed it. You re in most of my dreams. I call you Mamdreamy, Johnson s president confessed, continuing, An
+
+### ‘Star Wars’: Jon Watts to Direct First Film in New Trilogy
+Sun, 27 Sep 2026 03:06:15 +0000 — https://www.thewrap.com/creative-content/movies/star-wars-jon-watts-to-direct-first-film-in-new-trilogy-simon-kinberg/
+
+Jon Watts has been tapped to direct the first film in a new “Star Wars” trilogy, TheWrap has learned. Best known as being the director behind the first three Tom Holland “Spider-Man” movies, “The Skeleton Crew” filmmaker will direct from a script written by Simon Kinberg. Lucasfilm previously hired the prolific writer and producer to write and produce a new trilogy of “Star Wars” films. An early report insinuated are that this will actually be chapters 10 – 12 of the Skywalker Saga, continuing the path that most recently concluded with “Star Wars: The Rise of Skywalker” in 2019. But there are others that insist this is a standalone series, something akin to the trilogies that David Benioff and D.B. Weiss and, separately, Rian Johnson, were working on for the company. It is being referred to as a “new saga.” Kinberg is no stranger to “Star Wars.” Following the acquisition of Lucasfilm by Disney, Kinberg was part of a small brain trust that was working on new projects for the studio. He consulted on J.J. Abrams’ “Star Wars: The Force Awakens” and co-created the animated series “Star Wars: Rebels” with Dave Filoni. Since “The Rise of Skywalker’s” release in 2019, a number of “Star Wars” film projects have been announced but have yet to materialize, including a standalone film from Taika Waititi, a movie centered on Rey (Daisy Ridley) from the latest trilogy and a “Lando” movie from Donald Glover. Lucasfilm declined to comment. Knight Edge Media first reported the news. The post 
+
+### NAZA Directors Bring Gaza Destruction Doc to NYFF: This Is Being Done With Taxpayer Money From People Sitting Here
+Sun, 27 Sep 2026 00:18:24 +0000 — https://www.thewrap.com/creative-content/movies/naza-directors-call-out-us-funding-israel-nyff/
+
+Following the premiere of NAZA at New York Film Festival on Saturday, the documentary s co-director Yuval Abraham emphasized the importance of screening the film for a North American audience, underlining that the U.S. government funds the Israeli military attacks in Gaza depicted in the feature. It’s important for us to see this film at this moment, as you were saying, because these older officials are talking about what is being done with taxpayer money from people sitting here,” said Abraham onstage (as reported by Variety ). “This is what your country is supporting and funding … Part of the goal (of this film) is to make denial of what’s going on in Gaza harder.” Abraham s comments came after the screening, when he was joined on-stage for a Q&A by his co-director, Rachel Szor, and NYFF director Dennis Lim. “NAZA” investigates the ongoing Gaza war, featuring testimony from anonymous Israeli military intelligence officers and soldiers, including one subject that states that the IDF approved an airstrike that could kill 500 Palestinians a claim that the IDF has denied . The documentary takes its title from a military acronym used by the IDF to measure the number of civilians expected to be killed as collateral damage in an airstrike. The feature reunites Abraham and Szor, whose prior doc “No Other Land” (co-directed by Palestinian filmmakers Basel Adra and Hamdan Ballaltracked) tracked settler violence in the occupied West Bank and won the Oscar for best documentary feature 
+
+### ‘Godzilla Minus Zero’ Review: One of the Great Godzilla Sequels, but Not One of the Great Godzilla Films
+Sun, 27 Sep 2026 00:14:00 +0000 — https://www.thewrap.com/creative-content/reviews/godzilla-minus-zero-review/
+
+When Ishirō Honda’s original “Gojira” debuted in 1954, it demanded to be taken seriously even though it was about a giant, fire-breathing lizard. Horror movies about enormous animals were big business in the 1950s, and some of the American films in the genre had ideas — not nuanced ideas, but ideas nonetheless — about the dangers of science gone amok in the nuclear era. These anxieties about a destructive radioactive cataclysm were pervasive in the U.S. But Gojira used an eldritch leviathan as an analog for the nuclear bomb s devastating impact on Japan. Its horrors reflected recent, traumatic, excruciatingly real memories. Watching “Gojira” today, in the wake of everything the “Godzilla” franchise later became, can be strange. In the wake of “Gojira’s” success, a sequel was rushed into development, “Godzilla Raids Again,” which found a second Godzilla returning to attack Japan (the original was vaporized by a weapon of mass destruction). Since that was a little repetitive, even for a sequel in the 1950s, Godzilla also fought a giant ankylosaurus named Anguirus. That’s where the metaphor began to strain. Godzilla attacks once and it’s a powerful allegory. Godzilla attacks and also has to wrestle a spiky turtle creature… less so. Over the decades since, Godzilla has starred in over three dozen movies — sometimes with Anguirus, who eventually became Godzilla’s canonical best friend. The monster grew into a reluctant antihero, then an honest-to-goodness hero, then a kids movie i
+
+### Sylvester Stallone Admits to Steroid Use for Rocky III : Nobody Does It Without Additives and Drugs, Period
+Sat, 26 Sep 2026 23:00:08 +0000 — https://www.thewrap.com/creative-content/movies/sylvester-stallone-admits-steroids-rocky-iii/
+
+Sylvester Stallone opened up about his relationship with his body as an action star through the 80s and 90s, admitting that he abused himself in a very masochistic process to stay in shape. The mentality even extended to him using steroids and becoming bulimic while getting down to 2.6% body fat for shooting on 1982 s Rocky III. It became an obsession. Really bad. It got to the point where I became bulimic, Stallone shared on The New York Times podcast The Interview. I couldn’t hold anything down. Or I didn’t want to keep it down because I became so obsessed with staying at that point of fitness, literally an obsessive body-worship kind of thing. And nobody does it without additives and drugs, period. I don’t care what they say. It isn’t as though you’re a junkie, but if you’re going to work out and try to stay in shape for six months straight and you’re eating yogurt and pudding it’s not happening. When asked directly if he was taking steroids at the time, Stallone responded with, Oh, my god, you have to. You do it in a sensitive way — six weeks on, six weeks off. People go, Oh, you don’t get that way naturally. No, you don’t. But that also took a terrible toll, the 80-year-old star continued. I’ve abused my body. I’ve had nine back operations, two shoulder operations, three neck fusions. Everything is held together with baling wire, but I still want to stay in good shape It’s come at a terrible price. If I could do it over again, I would say, Let someone else carry the bann
+
+### Jeff Probst Says Survivor DEI Policy Was One of the Biggest Positive Changes Ever
+Sat, 26 Sep 2026 21:39:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/jeff-probst-says-survivor-dei-policy-was-one-of-the-biggest-positive-changes-ever/
+
+Survivor host Jeff Probst shared that nothing has changed about the show s diversity, equity and inclusion initiative in the years since CBS announced one for all of its reality TV casting in 2020. Probst suggested that the policy has made Survivor even better over its recent seasons. Nothing has changed, Probst told the New York Times when asked about the status of the show s DEI initiative. If you watch our show, you know that we’re so diverse — and it’s not just skin color or ethnicity. It goes much deeper than that. It’s one of the biggest positive changes ever. Our stories are so much more interesting now because we have people from completely different walks of life. In the wake of protests against racial injustice and discrimination after the murder of George Floyd in 2020, CBS was one of many companies to launch DEI policies as a way to formalize corporate accountability for increased diversity. Many of those policies have been abandoned by private companies in the years since, especially after President Donald Trump s 2025 executive order to remove DEI programs from the federal workforce. In November 2o20, CBS announced that it would introduce an initiative for its reality TV programming, requiring its shows to ensure that 50% of its casts are Black, Indigenous or People of Color and committing at least 25% of development budget towards BIPOC creators and producers. The network later ended those policies after David Ellison s Skydance Entertainment ensured the Federa
+
+### YouTube, Meta Restore Ads for Musk Documentary: This Was an Error
+Sat, 26 Sep 2026 20:08:12 +0000 — https://www.thewrap.com/creative-content/movies/musk-documentary-ads-youtube-meta-error/
+
+Advertisements for Bleecker Street s Elon Musk documentary Musk will begin running on Meta and YouTube after previously being rejected by both platforms, according to both companies. The decision comes after a story published by The Hollywood Reporter on Friday detailed that the two tech giants, along with TikTok and the Musk-owned X, were refusing to run ads for Musk. This was an error and we’re restoring the ads, a Meta spokesperson said in a statement to TheWrap on Saturday. The trailer has always been available on YouTube. When submitted as an ad, it was temporarily restricted by our system, reads a statement posted to YouTube s official social media account on Saturday. Following review the ad has been cleared to run. Representatives for TikTok and X did not immediately respond to a request for comment. X is owned by Musk, so there s a clear logic to its rejection of advertisements for a documentary that its leadership has publicly described as dogs t. Musk has also threatened legal action against the documentary, which includes claims that he used his Starlink satellites to influence the 2024 presidential election. The four-hour Musk debuted at Venice Film Festival in early September to strong reviews. Directed by Alex Gibney, whose prior documentary subjects include the Church of Scientology and Elizabeth Holmes, the film will be released in North America by Bleecker Street on Oct. 9. In TheWrap s review out of Venice , contributor and critic Ben Croll wrote that Musk 
 
 ### Kane Parsons Doesn t Consider Backrooms a Horror Film: Oblivious to Those Labels
 Sat, 26 Sep 2026 19:18:55 +0000 — https://www.thewrap.com/creative-content/movies/backrooms-director-rejects-horror-label/
 
-Backrooms director Kane Parsons voiced his resistance to calling his hit debut feature a horror film, going on to share plans to skirt such genre labels with his future projects. I didn’t direct like a horror film. I don’t view it as a horror project That s just naturally been the path of least resistance from a marketing perspective and it’s what seems comfortable to people as a framing device, Parsons said, speaking during a panel at Zurich Summit on Saturday (per Deadline ). I’m going to try to stay as oblivious to those labels as possible I have more creative control now with future projects so those sorts of structures will probably be a little less forceful in the future.” Parsons was speaking on a business panel focused on the box office s resurgent year so far, joining Zurich Summit alongside Bill Kramer, Academy of Motion Picture Arts and Sciences CEO; Robbie Brenner, president and chief content officer for Mattel Studios; and Michael Barker, co-head of Sony Pictures Classics. With a $400 million global gross, Backrooms ranks as A24 s biggest theatrical release ever and, alongside Focus Features Obsession ($519 million worldwide), has been considered a load-bearing moment for the horror genre s popularity among moviegoers. Parsons adapted the feature from his viral Backrooms web series, a number of found-footage videos that traverse caverns of uncanny interior design. The videos drew a strong following and spurred a dedicated online community that speculated on their
-
-### Trump Again Rants About Press After Barring CNN From Air Force One: These Are Sick People
-Sat, 26 Sep 2026 17:35:35 +0000 — https://www.thewrap.com/media-platforms/politics/trump-again-rants-press-barring-cnn/
-
-President Trump again raged at his press coverage Saturday morning, calling on the courts to enforce bans of particular outlets from the White House. The declaration comes several days after a federal judge order required the administration to restore White House access to CNN, MS NOW and Politico. Why should perpetrators of FAKE NEWS, like CNN and MSDNC, be allowed access to a very sacred place, the White House? Despite my big Election Win, almost 100% of TRUMP coverage is negative, and has been for years! Trump wrote in one of several posts about press coverage shared on his social media platform Truth Social. This first post directed to a White House statement declaring that access is a privilege not a right. In a later post, Trump took issue with press coverage of Rep. Byron Donalds (R-Fla.), the Republican nominee in Florida s election for governor, blaming the Woke and Dying USA Today for being the first to cover the Donalds campaign removing mentions and photos of Trump from his website. (Most outlets coverage of the change cited the Miami Herald as the first to report on the story.) Mentions of Trump were restored to the website after the story was reported. This was a Fake Story, with no sources, and the only justification for it is they want to stop my ever upward momentum, Trump claimed . The Fake News Media been doing this for years, I call them out, but they should really be called out by the Courts, and should not be allowed to enter the White House premises, or
-
-### A Different World Creator Explains Those Finale Twists and That ICE Cliffhanger
-Sat, 26 Sep 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/a-different-world-season-1-netflix-felicia-pride-interview/
-
-Note: This story contains spoilers from “A Different World Season 1. Netflix s “A Different World” reboot introduces viewers to the next generation of students at fictional HBCU Hillman, anchored by Deborah (Maleah Joi Moon), the youngest child of Whitley (Jasmine Guy) and Dwayne (Kadeem Hardison), who reprise their roles from the original sitcom. Deborah gets a crash course to Hillman alongside a fresh crop of freshmen that quickly bonds them together, and, as is the case at a college campus, romances are sparked left and right. But, by the end-of-the-year gala in the Season 1 finale, nearly all of those couples are torn apart. It s even more complicated than that for Deborah, who tries to find her way back to Shaquille (Cornelle Young IV) — despite the fact that he hooked up with her RA Candace (Renee Harrison) — but has the double whammy of finding out not only that he block her, but he s said to be transferring out of Hillman. Maleah Joi Moon and Cornell Young IV in A Different World. (Eli Joshua Ade/Netflix) I think that put her in the headspace of, I think it s over,' showrunner Felicia Pride told TheWrap, explaining that by the time she gets to her dorm room and sees Ellington (Vincent Jamal Hooper) making a rose-filled romantic gesture, she can only think, here s Ellington in front of me acknowledging how he feels about me and I have feelings for him too.' But that doesn t mean Shaquille is out of the picture forever, with Pride saying, I think you can write yourself 
-
-### Avengers: Endgame Returns With $26 Million on Busy Box Office Weekend
-Sat, 26 Sep 2026 15:14:50 +0000 — https://www.thewrap.com/creative-content/movies/avengers-endgame-box-office-2/
-
-Disney/Marvel Studios Avengers: Endgame Encore has risen to the top spot on the box office charts on a weekend filled with new films that have given theaters plenty of great business but have left some of them, such as Paramount s Heart of the Beast and Universal/DreamWorks Forgotten Island, facing an uncertain future despite strong reception. Endgame Encore, which features a modified ending and new post-credit scenes to set up the upcoming Avengers: Doomsday, earned $11.2 million from 3,060 locations on Friday as industry estimates project a $26 million weekend for the film. That will bring the Marvel film s lifetime domestic gross to $884 million and bring it within $100 million of the all-time global box office record held by Avatar. Sony/TriStar s Resident Evil is No. 2 with $23.8 million in its second weekend, dropping 60% from its $60 million opening. Endgame Encore may be peeling away general audiences despite the strong early reception for Zach Cregger s horror film, but the film is still pacing to be a theatrical success for Sony as it passes $100 million domestic and $200 million worldwide this weekend. A24 s Primetime and Paramount s Heart of the Beast are in a narrow race for the No. 3 slot, with industry estimates giving Primetime the edge with an $8.5 million opening day and a $20.5 million weekend from 2,874 locations. Heart of the Beast took a $7.4 million opening day from 3,435 locations as it is headed for a $20 million opening. Primetime stars Robert Pattin
-
-### The Last of Us Season 3 Adds John Goodman, Ian Alexander and Laura Bailey
-Sat, 26 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-last-of-us-season-3-john-goodman-ian-alexander-laura-bailey/
-
-John Goodman is joining the cast of HBO s The Last of Us Season 3. The drama series will also see the addition of Laura Bailey and Ian Alexander, who portrayed Abby and Lev in The Last of Us: Part II video game, respectively. Goodman and Alexander will portray Joey and Paco, a friendly duo who dub themselves “Heroes of the Highway.” Meanwhile, Bailey will play Elizabeth, one of the leaders of the Seraphites. Goodman is repped by Gersh, while Alexander is repped by Curate and Bailey is repped by CAA. The Last of Us Season 3, which is set to be the HBO drama s final season, will see Kaitlyn Dever s Abby take the lead as we follow her journey following the events of Season 2. Audiences will remember that the former Firefly and her group of friends, dubbed The Salt Lake crew, went after Joel (Pedro Pascal) after he pulled Ellie (Bella Ramsey) out of the hospital in Season 1. Joel s shocking death would prompt Ellie to go on a journey of revenge in Season 2, which would come to a head as she came face to face with Abby at the end of the season. Season 2 ended with Abby waking up and walking through a football stadium that the W.L.F. uses as both a post-apocalyptic safe haven and base of operation, with the clock winding back to Seattle Day 1 to show the events of Season 2 from her perspective. In addition to Goodman, Bailey, Alexander, Dever and Ramsey, Season 3 will see the return of Ariela Barer, Tati Gabrielle and Spencer Lord, who will return as Mel, Nora and Owen, respectivel
-
-### Robert Eggers ‘Werwulf’ Trailer Promises Extreme Creepiness on Christmas Day
-Sat, 26 Sep 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/movies/werwulf-full-trailer-robert-eggers-aaron-taylor-johnson/
-
-Robert Eggers’ “Werwulf” is creeping nearer. The latest blood-soaked historical tale from the director of “The Witch,” “The Lighthouse” and “Nosferatu” arrives in theaters on Christmas Day. “Werwulf” stars Aaron Taylor-Johnson as the man afflicted, Lily-Rose Depp as his wife and Willem Dafoe as a knight tasked with ridding the countryside of wolves, and promises to be just the right amount of counterprogramming for the holiday season. (“Nosferatu” was released on Christmas Day two years ago and made more than $180 million worldwide.) And ahead of the movie’s release, we have the brand-new trailer, which you can watch below. Might want to keep the lights on, though. TRAILER As the trailer sums up, Taylor-Johnson plays a man afflicted with lycanthropy who is tasked by a hunter to accompany him on a crusade to rid the area of wolves. Eggers regular Ralph Ineson plays a hardscrabble leper who accompanies them on their journey. The whole thing is spoken in a slightly modified version of Old English, and the color is nearly sapped (or is it bled ?) out of the final image. What did you expect? We were able to attend an event on the Universal lot, where Eggers showed off around 20 minutes of footage from the first half of “Werwulf,” which looks appropriately gnarly, and spoke a bit about where the movie came from. “You re always trying to push yourself and challenge yourself and bite off more than you can chew so you can get better,” Eggers explained. After “Nosferatu,” Eggers said t
-
-### Bill Maher Draws Big Response From Studio Audience After Calling Trump an ‘Arch-Criminal’
-Sat, 26 Sep 2026 03:00:22 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-studio-audience-reacts-trump-arch-criminal-joke/
-
-Bill Maher took several shots at Donald Trump during Friday’s “Real Time” monologue, at one point calling the president an “arch-criminal.” The comedian laid into Trump at-length while recapping his recent visit with Chinese President Xi Jinping in Washington, D.C., mocking the president for showing off his many renovation projects, including his Triumphal Arch. Trump thinks that Xi could give a f k about being his friend, Maher ripped Friday evening. So, it s all personal. Trump did everything he could to show him around. He showed him the new spot where the limo drops people off. That s been improved. Really, I m not making this up. Showed him the new helipad. The ballroom. Does he know that China builds like entire cities in a week? And he s showing him the driveway. It s like showing Gordon Ramsay how to reheat pizza. As Maher went on, he roasted the Trump administration for being fixated on redecorating, adding, It s the most macho and the gayest administration ever. The latest redecoration obsession is Trump is like, We need an arch. Yesterday. F k, all the cities in the world have an arch,' Maher said, while doing his best Trump impression. We re looking bad over here without an arch. F king Biden let us go archless for years. Luckily, my good friend President Xi is an understanding man, and he accepts that we don t have an arch. Because to not have one is criminal. At this moment, Maher zeroed in on Trump s past legal woes , quipping: If anybody knows about an arch-cr
-
-### White House Bars CNN From Trump Flight a Day After Credentials Restored
-Sat, 26 Sep 2026 01:14:43 +0000 — https://www.thewrap.com/media-platforms/journalism/white-house-bars-cnn-from-trump-flight/
-
-The White House is blocking CNN from flying aboard Air Force One on Saturday, preventing the network from carrying out its duties covering President Donald Trump on behalf of the other major networks. According to multiple media reports , including CNN’s own , the network was slated to travel with the president to Tennessee for a college football game as part of the White House TV press pool. The decision to bar CNN from the flight was reportedly shared Friday evening in a note that laid out Trump’s schedule. It’s said no outlet had been listed as a replacement for CNN, implying that there will be no TV pool coverage for his trip to Tennessee. A representative for the White House did not immediately respond to TheWrap s request for comment. The update comes a day after CNN, MS NOW and Politico regained their White House credentials under a court order , following Trump’s ban on the outlets last week. The drama all started last Friday, when Trump took to Truth Social and shared that he was banning the three outlets from the White House for constantly writing negatively about his administration. “Media Outlets shouldn’t be able to constantly write or report FICTION and LIES when they’re covering the President of the United States, the Trump Administration, or the United States of America,” Trump wrote at the time. “Other Fake News Media Outlets to follow.” He doubled down on his sentiment while speaking to reporters that same day, noting, “I don’t think a court should allow fak
-
-### Melissa Barrera Reveals What It Would Take to Return to the ‘Scream’ Franchise
-Sat, 26 Sep 2026 00:52:51 +0000 — https://www.thewrap.com/creative-content/movies/melissa-barrera-would-return-scream-franchise-not-under-spyglass/
-
-Melissa Barrera indicated she was open to returning to the Scream franchise nearly three years after being fired for her pro-Palestinian social media posts . However, she made it clear she had one big caveat for that return to ever be possible. “Not with the company [Spyglass] that currently holds the rights,” Barrera, who starred as Samantha Carpenter in 2022 s Scream and 2023 s Scream VI, said on a recent Just Watch appearance. “I love the franchise. I had an amazing time making those movies, she continued. But a lot of the hate and the difficulty that I’ve faced in the last years is because the leadership of that company made it a point to label me something that I’m not, and they never apologized, even when I was proven right.” Barrera then clarified that even if Spyglass did apologize she wouldn’t go back to work with them. So, not that I’m holding my breath. I don’t think they have that ability, she added. But if the franchise were ever to leave those hands and go into hands that I think honor Wes Craven’s legacy more, I think yeah.” Watch her comments below. A representative for Spyglass did not immediately respond to TheWrap s request for comment. View this post on Instagram A post shared by JustWatch (@justwatch) As we previously reported , Spyglass fired Barrera back in November 2023, after the actress shared social media posts amid the Israel-Hamas conflict. In her posts, she called out “atrocities being committed against Palestinians” and compared Gaza to a “conce
-
-### SNL Promotes Keri Powers and Rebecca Schwartz Ahead of Season 52 Premiere
-Sat, 26 Sep 2026 00:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-promotions-keri-powers-rebecca-schwartz-nbc/
-
-Saturday Night Live is promoting two key figures behind the scenes ahead of its Season 52 premiere. The long-running NBC variety sketch series upped talent producer Keri Powers to serve as the sole head of its talent department, expanding her role to lead the team responsible for host, musical guest and guest star bookings. She has worked on the show for 12 years. Additionally, the show promoted Rebecca Schwartz to producer, increasing her responsibilities supporting the show s cast and production efforts. Schwartz has been a key member of the talent team since 2015. The move comes a day before SNL returns with its Season 52 premiere with New York Knicks star Jalen Brunson as host and musical guest KATSEYE. Last week, the show welcomed new cast members Saidah Belo-Osagie and Grace Reiter , and promoted Ashley Padilla and Jane Wickline to main cast. Longtime cast member Chloe Fineman exited the show after a seven-season run, while Martin Herlihy, one third of the “Please Don’t Destroy” group, left his writer position (leaving cast member Ben Marshall as the only one remaining). After the season premiere, the show has three more episodes lined up: an Oct. 3 episode hosted by “Verity” star Dakota Johnson with musical guest Turnstile; an Oct. 10 episode hosted by Shane Gillis with musical guest Rosalía; and a Halloween episode hosted by “Obsession” star Inde Navarrette with musical guest Gracie Abrams. Saturday Night Live airs weekly at 11:30 p.m. ET/8:30 a.m. PT on NBC and Peaco
+Backrooms director Kane Parsons voiced his resistance to calling his hit debut feature a horror film, going on to share plans to skirt such genre labels with his future projects. I didn’t direct like a horror film. I don’t view it as a horror project That s just naturally been the path of least resistance from a marketing perspective and it’s what seems comfortable to people as a framing device, Parsons said, speaking during a panel at Zurich Summit on Saturday (per Deadline ). I’m going to try to stay as oblivious to those labels as possible I have more creative control now with future projects so those sorts of structures will probably be a little less forceful in the future.” Parsons was speaking on a business panel focused on the box office s resurgent year so far, joining the Zurich Summit alongside Bill Kramer, Academy of Motion Picture Arts and Sciences CEO; Robbie Brenner, president and chief content officer for Mattel Studios; and Michael Barker, co-head of Sony Pictures Classics. With a $400 million global gross, Backrooms ranks as A24 s biggest theatrical release ever and, alongside Focus Features Obsession ($519 million worldwide), has been considered a load-bearing moment for the horror genre s popularity among moviegoers. Parsons adapted the feature from his viral Backrooms web series, a number of found-footage videos that traverse caverns of uncanny interior design. The videos drew a strong following and spurred a dedicated online community that speculated on t
 
 ## Collider
 
-### The 10 Best-Looking Movies of the 21st Century, Ranked
-Sat, 26 Sep 2026 19:17:11 GMT — https://collider.com/best-looking-movies-21st-century-ranked/
+### 8 Greatest Superhero Movie Trilogies of All Time, Ranked
+Sun, 27 Sep 2026 10:01:11 GMT — https://collider.com/best-superhero-movie-trilogies-all-time-ranked/
 
-It’s great when a movie looks good, obviously, though it’s also worth noting, whenever talking about visuals, that a movie doesn’t have to look amazing to be amazing. If something gets by with particularly good writing, acting, music, and anything else that might go into a movie, all that can be more than enough, and make a lack of visual spectacle easy to overlook.
+Sure, it's one thing to make one good superhero movie — that's challenging enough as it is. However, when it comes to major franchises, the movies never stop at the first release; most studios opt for the trilogy format for their series. Over the many decades that superhero films have reigned over cinema, there have been numerous trilogies that have hit screens.
 
-### A Taylor Sheridan Star’s $20M Fantasy Movie Is Officially Leaving Netflix
-Sat, 26 Sep 2026 19:00:11 GMT — https://collider.com/netflix-removing-the-shack-september-2026/
+### Tom Hanks’ Intense 134-Minute Survival Thriller Is Officially Free to Stream
+Sun, 27 Sep 2026 10:00:11 GMT — https://collider.com/tom-hanks-captain-phillips-streaming-free-tubi-september-2026/
 
-Taylor Sheridan fans have seen some big stars come and go in his projects in the last 10 years, and as his ever-expanding TV empire at Paramount has grown, it’s unlocked the potential for bigger and bigger stars to join the franchise. Look no further than one of Sheridan’s first Yellowstone spin-offs, 1923 , which was led by iconic stars such as Harrison Ford and Helen Mirren . Even legendary Western actor Sam Elliott has had key roles in another Yellowstone offshoot, 1883 , as well as the second and soon-to-be third season of Landman . One of the stars to feature alongside Elliott in the first and only season of 1883 was Tim McGraw , who played the lead role of James Dutton alongside his wife, Faith Hill , who starred as Margaret Dutton. 1883 is streaming now on Paramount Plus.
+You'd think being a ship's captain might actually be a glamorous job, but alas, no. There's paperwork, weather reports, a heck of a lot of water, and then there are pirates, which are not as fun as Disney has tried to tell us. Even knowing how the true story ends doesn’t make watching it unfold any less stressful.
 
-### ‘The Twilight Zone’s Creepiest Episode Is Still an Unforgettable 25 Minutes
-Sat, 26 Sep 2026 18:38:11 GMT — https://collider.com/twilight-zone-creepiest-episode-the-obsolete-man/
+### 17 Years Later, a Dark Horror Fantasy Masterpiece Is Officially a Streaming Hit
+Sun, 27 Sep 2026 09:40:11 GMT — https://collider.com/coraline-streaming-hit-disney-plus-september-2026/
 
-What defines creepy? Generally speaking, "creepy" is anything, or anyone, that causes unease, nervous fear, or even dread. But on a more specific level, "creepy" is largely subjective. Not everyone gets shivers whenever a spider shows up on a TV screen , for example, with phobias driving that sense of dread for those that do. That said, there are things that most people can agree are creepy. The titular doll from Annabelle ? Creepy. Serial killers? Creepy. Fictional dystopian futures in media that aren't all that far-fetched based on where today's society seems to be heading? You bet, and one of The Twilight Zone 's creepiest episodes hinges on that very idea, only to change the game over the course of its 25 minutes .
+It's been seven years since we were treated to a theatrical release by the geniuses at Laika . Their last release was Missing Link , an underrated stop-motion adventure featuring the voices of Hugh Jackman , Emma Thompson , Stephen Fry , and more. The film was sadly a big financial misstep, grossing just $25 million worldwide against a reported production budget of $100 million. Next month, Laika are making their big comeback with the most ambitious project in their acclaimed catalog yet.
 
-### The 99-Year-Old Classic That Inspired 'Star Wars: The Last Jedi' Is Officially Free to Stream
-Sat, 26 Sep 2026 18:30:11 GMT — https://collider.com/wings-1927-classic-streaming-free-justwatch-tv-september-2026/
+### The 10 Best Rivalries in Video Game History, Ranked
+Sun, 27 Sep 2026 09:26:11 GMT — https://collider.com/best-game-rivalries-ranked/
 
-A memorable shot in director Rian Johnson ’s Star Wars: Episode VIII — The Last Jedi was inspired by a similar moment in a silent movie from 1927. The shot in question was seen in the Canto Bight sequence, when Rey and Finn, played by Daisy Ridley and John Boyega , enter a casino and the camera zooms through a string of characters. Interestingly, the shot stood out even in the mid-2010s, when The Last Jedi was released. Imagine how groundbreaking it was 99 years ago, when it was first seen in the classic film that’s now streaming for free on a brand-new platform. The movie in question is also notable for being the very first winner of the Academy Award for Best Picture . With the Oscars about to turn 100 soon, audiences can expect some form of tribute to be paid to the classic.
+A classic rivalry between two distinct, memorable characters has been a staple of narrative storytelling long before the advent of video games, yet something about the medium of gaming has made it perfect for the concept and longevity of many memorable rivalries. From an iconic hero constantly going toe-to-toe with an equally iconic villain to the rivalries that eventually form a sense of camaraderie and respect, actively playing as one or both of the characters in these rivalries makes them that much more impactful and memorable.
 
-### Prime Video’s ‘One Tree Hill’ Meets ‘10 Things I Hate About You’ Romance Refuses To Back Down on Streaming
-Sat, 26 Sep 2026 18:27:11 GMT — https://collider.com/off-campus-prime-video-romance-series-streaming-success-2026/
+### One of the Greatest Sci-Fi Nightmares Ever Made Is Officially Streaming for Free
+Sun, 27 Sep 2026 09:20:11 GMT — https://collider.com/alicia-vikander-ex-machina-streaming-free-roku-channel-september-2026/
 
-Fresh off the whirlwind popularity of HBO Max's Heated Rivalry , one might think another steamy hockey romance adaptation like Off Campus jumped on the bandwagon a little too early. But after spending more than 100 days on the list of Prime Video’s Top 10 shows , it’s clear the sports romance has its own charm —and its Season 2 renewal makes complete sense.
+Artificial intelligence is perennially in the news at the moment, isn't it? The threat of it becoming sentient is very topical, so imagine giving it a face, locking it underground, and asking a lonely programmer to determine whether it can manipulate him. It feels like actively tempting fate. Add in an eccentric tech billionaire, and you've either got what's happening at OpenAI, or the most eerie sci-fi of the 2010s .
 
-### Heart of the Beast: Brad Pitt Changed His Acting for the Dog | Collider BTS
-Sat, 26 Sep 2026 18:15:11 GMT — https://collider.com/video/heart-of-the-beast-brad-pitt-changed-his-acting-for-the-dog-collider-bts/
+### One of Horror’s Most Influential Movies Is Officially Free to Stream
+Sun, 27 Sep 2026 09:00:11 GMT — https://collider.com/nosferatu-fw-murnau-horror-classic-streaming-free-justwatch-tv-september-2026/
 
-Brad Pitt wasn’t number one on the call sheet for Heart of the Beast. The dog was.
+For a worryingly long period, the Dracula IP had begun to feel slightly cursed. Movies such as Dracula Untold , Renfield , and The Last Voyage of the Demeter all underperformed at the box office and fell short of critical expectations. This changed in 2024 with the release of Robert Eggers ’ Nosferatu — not a direct adaptation of Bram Stoker ’s classic novel, but a remake of a 1922 movie . Nosferatu went on to break the Dracula curse by grossing more than $180 million at the box office and scoring excellent reviews. However, we have yet to see a modern movie with “Dracula” in the title breaking the sorry streak.
 
-### ‘Twilight’ Star Officially Reveals the Story Behind Her Last-Minute MCU Role [Exclusive]
-Sat, 26 Sep 2026 18:15:11 GMT — https://collider.com/wonder-man-ashley-greene-surprise-cameo-hollywood-story/
+### Arnold Schwarzenegger’s Brutal 44-Year-Old Fantasy Epic Officially Lands on Netflix
+Sun, 27 Sep 2026 08:41:11 GMT — https://collider.com/conan-the-barbarian-arnold-schwarzenegger-netflix-streaming-september-2026/
 
-There may never be another Marvel series quite like Wonder Man ever again. The show premiered back in January and was immediately hailed as one of the best small-screen efforts from the MCU to date, paying homage to Hollywood and superhero filmmaking through a meta lens with the story of struggling actor Simon Williams. It even earned Marvel's first acting Emmy nomination since WandaVision , thanks to Yahya Abdul-Mateen II 's excellent turn in the leading role. As a satirical look into the film industry, it also, unsurprisingly, featured its fair share of celebrity cameos, from Josh Gad to Joe Pantoliano and a certain Twilight star who popped up early on in Simon's journey to stardom.
+Fantasy heroes these days love a quip, or just talking their way out of trouble, but you know what? Sometimes you just want an enormous Austrian man with a badass sword, a tiny loin cloth, and the most basic desire to kill the ever-loving heck out of the guy responsible for murdering his family. And when you throw in an evil snake cult and one of the greatest fantasy scores ever recorded, you've got 129 wonderfully excessive minutes of the most pure 1980s' fantasy imaginable .
 
-### 'The Gentlemen' Star's Explosive Heist Thriller Officially Hits Free Streaming
-Sat, 26 Sep 2026 18:00:11 GMT — https://collider.com/theo-james-war-movie-fuze-hbo-max-streaming-september-2026/
+### The Divisive Crime Classic That Quentin Tarantino Adores Officially Hits Free Streaming
+Sun, 27 Sep 2026 08:20:11 GMT — https://collider.com/foxy-brown-pam-grier-exploitation-movie-streaming-free-justwatch-tv/
 
-Apparently one criminal empire isn’t enough for Theo James . While he’s currently back navigating gangsters, drugs, and some extremely questionable business arrangements elsewhere on streaming, another of his recent projects puts him on the other side of an elaborate criminal operation. This one involves diamonds, an evacuated section of London, and a World War II bomb that could turn the whole thing into a considerably shorter movie.
+Director Zack Snyder has described himself in several recent interviews as a self-aware filmmaker, despite the seemingly dour tone of his films. Snyder said that he operates on a high-kitsch wavelength, and that his movies are designed to provoke. He may as well have been talking about his contemporary, Quentin Tarantino . A vocal fan of exploitation cinema that very often wasn’t self-aware , Tarantino has taken these influences and elevated them to high art in his movies. Now, one of his favorite exploitation movies is available to stream for free in the United States on a brand-new platform.
 
-### 8 Perfect Netflix Shows Where Every Episode Is a 10/10 Masterpiece
-Sat, 26 Sep 2026 17:57:11 GMT — https://collider.com/perfect-netflix-shows-every-episode-masterpiece/
+### 2026's Best Survival Horror Movie Officially Passes a Major Streaming Milestone
+Sun, 27 Sep 2026 08:00:11 GMT — https://collider.com/send-help-streaming-hit-hulu-september-2026/
 
-As the first big success of the streaming world, Netflix has long enjoyed a reputation for bringing great content to its subscribers. Over the years, as more competitors appeared on the scene, that reputation has taken some hits. But though its library may not be quite as flawless as it used to be, Netflix still hosts many of the greatest shows of all time.
+It's hard to remember a better year for horror than 2026. Although we are still only nine months in, the devil's favorite genre has been blessed with a selection of decade-defining entries. This includes A24's Backrooms , which transformed a viral internet creepypasta into a box office success that propelled 20-year-old filmmaker Kane Parsons to record-breaking fame. But the standout horror hit of the year, and arguably the greatest horror success story ever, is Curry Barker 's breakout masterpiece, Obsession , which turned a sub-$1 million budget into over $500 million at the box office.
 
-### The 8 Most Fun Comic Book Movies, Ranked
-Sat, 26 Sep 2026 17:52:11 GMT — https://collider.com/the-8-most-fun-comic-book-movies-ranked/
+### 'John Wick' Meets Agatha Christie in This 126-Minute Sleeper Action Hit
+Sun, 27 Sep 2026 04:08:11 GMT — https://collider.com/bullet-train-movie-john-wick-agatha-christie-streaming-hulu-september-2026/
 
-Comic book movies are at their best when you stop noticing the franchise machinery and just start having a stupidly good time . You laugh at the dumb little character beat. You wait for the entrance you already know is coming. You hear the first few notes of a song and immediately sit up because yes, this is that scene ( Tony Stark vibe coding and telling Jarvis “Daddy’s home” ). That feeling is impossible to fake. A movie can have perfect VFX , twenty cameos, and a giant third act and still somehow feel like work.
+If you think your morning commute seems perilous, spare a thought for Brad Pitt’s Ladybug in the 2022 action-comedy Bullet Train . Currently slicing its way up the Hulu charts, the movie takes the world of assassins and puts it on high-speed rails, as a colorful cast of familiar faces clash in the carriages in David Leitch’s inventive, hilarious adaptation of Kōtarō Isaka 's 2010 novel. With kinetic action that evokes the John Wick franchise, and a multi-character mystery worthy of Agatha Christie’s Murder on the Orient Express , it’s been a sleeper hit for action fans.
 

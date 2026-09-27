@@ -1,6 +1,31 @@
-# Manga — harvested 2026-09-26T19:22:40.311Z
+# Manga — harvested 2026-09-27T10:12:30.754Z
 
 ## Anime News Network
+
+### Millennium Family TV Anime Casts Lynn
+Sun, 27 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/millennium-family-tv-anime-casts-lynn/.242233
+
+Lynn voices eldest daughter Eve
+
+### Space Battleship Yamato Film Director Toshio Masuda Dies at 98
+Sun, 27 Sep 2026 02:08:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/space-battleship-yamato-film-director-toshio-masuda-dies-at-98/.242231
+
+<cite>Be Forever Yamato</cite> co-director, scriptwriter also co-directed Japanese side of <cite>Tora! Tora! Tora!</cite> war film
+
+### Gantz Creator Hiroya Oku Confirms He Drew Thunder 3 Manga Under Pen Name Yuki Ikeda
+Sat, 26 Sep 2026 21:03:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/gantz-creator-hiroya-oku-confirms-he-drew-thunder-3-manga-under-pen-name-yuki-ikeda/.242219
+
+Series ended on June 5
+
+### Overgeared Anime Gets Same-Day English Dub on September 27
+Sat, 26 Sep 2026 20:43:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/overgeared-anime-gets-same-day-english-dub-on-september-27/.242208
+
+Company reveals English dub cast, staff
+
+### Happy Harvest Moon From Around the Anime World
+Sat, 26 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-26/happy-harvest-moon-from-around-the-anime-world/.242210
+
+Featuring <i>Frieren, Gundam, Pragmata, Spice & Wolf, Chiikawa, Pokémon, Bayonetta</i>, Square Enix, & more!
 
 ### MY HERO ACADEMIA: All's Justice Switch 2 Port Video Game Review
 Sat, 26 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/switch-2-port-video/my-hero-academia/all-justice/.242057
@@ -37,36 +62,16 @@ Fri, 25 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 <cite>ChaO</cite> anime; <cite>Cells at Work! Cat, Mage of Leda, Servant Beasts</cite> manga ship
 
-### Ace Combat 8: Wings of Theve Game Streams Opening Cinematic
-Fri, 25 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/ace-combat-8-wings-of-theve-game-streams-opening-cinematic/.242182
-
-Game launches on October 2 with Deluxe Edition debuting early on September 29
-
-### New Code Geass Star Chaser Aspal Anime Reveals Teaser Trailer, 2027 Premiere
-Fri, 25 Sep 2026 15:35:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/new-code-geass-star-chaser-aspal-anime-reveals-teaser-trailer-2027-premiere/.242201
-
-Kazuya Nomura directs new anime for <cite>Code Geass'</cite> 20th anniversary
-
-### Your Anime Rankings - Best of Summer 2026, Sep 16-22
-Fri, 25 Sep 2026 15:20:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.242195
-
-Rebounding from a mid-season drop, <cite>Mushoku Tensei</cite> and <cite>Kaiju Girl Caramelise</cite> are back as strong as they started! Find out how your favorite shows performed in our weekly user rankings.
-
-### Sweet Shop Comics Platform Hosts Glacier Bay Books Manga Titles
-Fri, 25 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-25/sweet-shop-comics-platform-hosts-glacier-bay-books-manga-titles/.242183
-
-Sweet Shop adds <cite>Pandora, Dream Another Dream, Mothers, Red Riding Hood's Wolf Apprentice</cite>, more manga
-
-### The Fall 2026 Anime Trailer Watch Party Premieres Tonight!
-Fri, 25 Sep 2026 14:45:35 -0400 — https://www.animenewsnetwork.com/watch/2026-09-25/the-fall-2026-anime-trailer-party-premieres-tonight/.242200
-
-The Fall Anime Trailer Watch Party returns with the trailers for your most anticipated anime series. Watch all the trailers for the upcoming season with special guest Geoff Thew and ANN friends Lynzee Loveridge, Jacki Jing, and James Beckett.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Imu Uses Domi Reversi in One Piece Episode 1180 Preview
+Sun, 27 Sep 2026 08:09:39 GMT — https://animecorner.me/imu-uses-domi-reversi-in-one-piece-episode-1180-preview/
+
+ONE PIECE revealed the preview for Episode 1180, showing Imu using the skill Domi Reversi while facing the giants.
 
 ### Re:ZERO Season 4 Final Episode to Air as 45-Minute Extended Special on September 30
 Sat, 26 Sep 2026 14:45:52 GMT — https://animecorner.me/rezero-season-4-final-episode-to-air-as-45-minute-extended-special-on-september-30/
@@ -125,6 +130,11 @@ The Apothecary Diaries Season 3 revealed a new trailer and ending theme song by 
 
 ## MyAnimeList News
 
+### Toshio Masuda, Director of Uchuu Senkan Yamato Movies, Dies at 98
+Sat, 26 Sep 2026 18:02:15 -0700 — https://myanimelist.net/news/74764175?_location=rss
+
+Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday, stating that Masuda died at a hospital in Tokyo. A private funeral service has been held by his close relatives. Born in Kobe in 1927, Masuda was expelled from a technical training school in July 1945 due to a mismatch with its military indoctrination. He later attended the Osaka University of For...
+
 ### Tensei shitara Slime Datta Ken 4th Season Part 2 Announced for Summer 2027, Clayman Revenge Spin-off Gets TV Anime for Spring 2027
 Fri, 25 Sep 2026 12:11:03 -0700 — https://myanimelist.net/news/74759618?_location=rss
 
@@ -140,26 +150,16 @@ Fri, 25 Sep 2026 09:47:16 -0700 — https://myanimelist.net/news/74759213?_locat
 
 The 12th and final episode of Kore Kaite Shine (Draw This, Then Die!) ended with an announcement on Saturday that a second season is in production. The official website also revealed an announcement visual (pictured right). Produced by Shin-Ei Animation, the television anime adapting Minoru Toyoda s comedy drama manga began airing on July 3. Crunchyroll simulcasted the anime in English subtitles and dubs. Toyoda began serializing the manga in Gessan magazine in November 2021. Shogakukan pub...
 
-### Yozakura-san Chi no Daisakusen 2nd Season Part 2 Announces Additional Cast, Character Promo
-Fri, 25 Sep 2026 03:08:52 -0700 — https://myanimelist.net/news/74757874?_location=rss
-
-The official website of the Yozakura-san Chi no Daisakusen (Mission: Yozakura Family) television anime announced additional cast members for its second part of second season on Friday. The second part is scheduled to premiere on October 11 at 5.00 p.m. on MBS/TBS Network, followed by BS Nippon Television and AT-X on October 21. Cast Alexandre: Houchuu Ootsuka (Sakamoto Days) Shura: Miku Itou (Nekopara) Cyber Demon King "G": Yumiri Hanamori (Gachiakuta) Dr. Mozu: Sumire Uesaka (Overlord...
-
-### Manga Elf-sensei no Toilet wa Doko desu ka? Receives TV Anime Adaptation
-Thu, 24 Sep 2026 21:44:47 -0700 — https://myanimelist.net/news/74757191?_location=rss
-
-WWWave Corporation s Deregula animation label announced a television anime adaptation of Chizuna Nakajima s Elf-sensei no Toilet wa Doko desu ka? (Where Is the Elf Teacher s Toilet?) on Friday, revealing a pair of commemorative illustrations by the original creator (pictured above and right). Nakajima began serializing the comedy ecchi series in Comic Cune in January 2024. The series entered hiatus in January 2025 and is scheduled to return on September 26. Kadokawa published the...
-
-### Nisemono no Renkinjutsushi Reveals Main Cast, Staff, Teaser Promo
-Thu, 24 Sep 2026 20:21:53 -0700 — https://myanimelist.net/news/74756971?_location=rss
-
-The official website for the television anime adaptation of Jirou Sugiura and Umemaru s Nisemono no Renkinjutsushi (The Fake Alchemist) manga revealed the main cast, staff, and a teaser promotional video on Friday. Voice actors Youhei Matsuoka (Fujimoto Tatsuki 17-26) and Miyari Nemoto (Ruri no Houseki) are starring as Paracelsus and Nora Petan, respectively. Staff Chief Director: Takeo Takahashi (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Director: Hijiri Sanpei (Watashi no Yuri...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Reset (Reset/Reboot Volume 1) Review
+Sun, 27 Sep 2026 09:00:01 +0000 — https://animeuknews.net/2026/09/reset-reset-reboot-volume-1-review/
+
+High school basketball team members Sou and his childhood friend Touma are in a secret relationship. What happens when teammate Maki begins to ask Touma questions?
 
 ### The Princess Groom Volume 1 Review
 Sat, 26 Sep 2026 09:00:40 +0000 — https://animeuknews.net/2026/09/the-princess-groom-volume-1-review/
@@ -170,9 +170,4 @@ Square Enix Manga brings us a new fantasy romance, but with a twist! A prince wh
 Fri, 25 Sep 2026 14:05:17 +0000 — https://animeuknews.net/2026/09/crunchyroll-announces-home-entertainment-release-schedule-october-november-2026/
 
 Crunchyroll announces Suzume in 4K, Clevatess Season 1, Sailor Moon (Steelbook) and more released on Blu-ray™ between October and November for the UK.
-
-### Hand-in-Hand with Mu-chan: Lessons from My Autistic Daughter Volume 1 Review
-Fri, 25 Sep 2026 09:00:20 +0000 — https://animeuknews.net/2026/09/hand-in-hand-with-mu-chan-lessons-from-my-autistic-daughter-volume-1-review/
-
-A young mother attempts to come to terms with the fact that her infant daughter could be autistic.
 

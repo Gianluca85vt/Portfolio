@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-26T19:22:40.311Z
+# Tech — harvested 2026-09-27T10:12:30.754Z
 
 ## Ars Technica
 
@@ -64,6 +64,16 @@ Hype merchants have a habit of overdoing it , but there’s no denying that Chin
 
 ## The Verge
 
+### Apple hit with $5.7 billion in damages over haptic patents
+2026-09-26T17:30:01-04:00 — https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents
+
+Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC , "The lawsuit centered around U.S. Patent Nos. 10,659,885 and 10,820,117, which both involve vibration-based, tactile transducer technology that helps users feel a device responding to their input." Taction argued that Apple's Taptic Engine in its Apple Watches and iPhones used technology that it had developed without a proper license, and the jury agreed. It found that Apple had infringed on two claims in one patent and one in the other. However, the j … Read the full story at The Verge. ]]>
+
+### Decap is the man behind the drums behind your favorite song
+2026-09-26T15:30:00-04:00 — https://www.theverge.com/report/1000994/decap-drums-that-knock-interview
+
+Drums on film. | Image: Decap I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists , including Freddie Gibbs, Bad Bunny, Mac Miller, BTS, and even Ludwig G&ouml;ransson's score for Oppenheimer . Nicholas Piantedosi, better known as Decap, is a record producer, but perhaps more importantly, he's the man behind Drums That Knock , a series of sample packs that have found their way onto countless records across genres. The line is so successful that, after debuting in 2016, it's now on its 11th … Read the full story at The Verge. ]]>
+
 ### Kids turned the comment section of an NPR podcast into a group chat
 2026-09-26T13:32:35-04:00 — https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section
 
@@ -104,17 +114,17 @@ Roku’s new OLED TVs are already marked down. | Image: The Verge Roku recently 
 
 Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to signal when a photo is being taken, while phones do not. In one of the interviews, Joanna Stern notes that, while phones do not always emit a light, someone does have to hold a phone up in the air, which is itself pretty noticeable. On today's Vergecast , we're talking about Meta Connect, the Muse AI assistant, all the new smart glasses hardware, and Zuckerberg's response to the privacy uproar ar … Read the full story at The Verge. ]]>
 
-### These camera apps give you more control over the iPhone 18 Pro’s aperture
-2026-09-25T13:23:30-04:00 — https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera
-
-One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are also in place when the app is adjusting the iris itself in Auto aperture mode, but it turns out that's not a strict limitation of the iPhone's camera hardware. Apple's SDK allows third-party camera apps to implement more granular control of the aperture. BlackMagic Design's well-featured and still completely free BlackMagic Camera app for iOS was one of the first third-party options to introduce … Read the full story at The Verge. ]]>
-
-### Tesla s Optimus robot is going through growing pains
-2026-09-25T13:01:36-04:00 — https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands
-
-Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced "several hundred robots a week" last month, after it repurposed its Model S and Model X production lines for Optimus earlier this year. However, this strategy is reportedly creating manufacturing snags, like issues lining up parts precisely, as The Information notes: "Not only are the Optimus production lines new, but the Optimus parts are much smaller and have to fit together far more precisely than car parts." It reports that even in the "V3" Optimus robots it's currently producing, the hands and f … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million
+Sun, 27 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers
+
+With physical media making a comeback, a man in the UK has been sentenced to three years and six months in prison for manufacturing and selling counterfeit vinyl records. Rehan Ahmed, from Southall in west London, was reportedly running a “highly organised, unlicensed operation” since 2017 that produced thousands of fake records featuring music from popular artists including The Beatles, Taylor Swift, Coldplay, and Kendrick Lamar. The operation is estimated to have generated nearly £2.7 million ($3.5 million) in revenue. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Ahmed’s counterfeit business, ‘Phoenix of Vinyl ’, came on the radar in 2024 after a representative from the British Phonographic Industry (BPI) made a test purchase and found evidence of counterfeiting. The City of London Police raided the premises soon after and uncovered the largest stock of fake vinyl ever found in the UK, with 2,791 records by 108 different artists. In addition to the records, police officers also found four vinyl presses roughly 70 years old, along with 3,000 metal stampers, and thousands of sleeves and center labels. A 
+
+### Taiwan's chip talisman snack faces production halt after 94% strike vote
+Sun, 27 Sep 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase
+
+Taiwan’s semiconductor industry is driven by the ruthless application of science, economics, and the dedication of its employees. But superstitious engineers think there’s another key ingredient – strategically placed bags of creamy coconut flavored Guai Guai snacks in their traditional green livery. These bags of snacks are found with surprising regularity around Taiwan, placed on machinery used to make semiconductors and other computing products, as the prevailing superstition is that the snacks bring good luck. Alarmingly, the Taipei Times recently reported that production of these tech talisman snacks could be halted, as the company that makes Guai Guai is facing a severe threat of strike action. The Guai Guai Company factory in Zhongli, Taiwan, has operated since 1968, and more than a third of its workforce have been with the company for 30 years or more. On September 1 this year, the company revealed that it would relocate to Hsinchu , about 45 minutes south by car. Kind of ironically, Guai Guai is relocating to Taiwan's Silicon Valley, yet this action could grind production to a halt. Workers can retain their positions if they relocate or commute to the new factory. Also they have been offered a 5% increase in pay. It is noted by the worker’s union that 5% is merely in line with the newly announced changes to Taiwan’s minimum wage. Another grievance felt by the workers concerns the massive windfall that the company is getting for the sale of its Zhongli site. Taiwan’s 
 
 ### 27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix
 Sat, 26 Sep 2026 15:10:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting
@@ -166,17 +176,12 @@ Sat, 26 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/l
 
 Tech enthusiast and developer Matt Birchler has tested an Apple iPhone 18 Pro with a can of La Croix used as a cooling device to address persistent thermal throttling that he noticed during his other tests with the phone. Surprisingly, this yielded much stronger results than one would assume, given that he simply placed the can of sparkling water on top of the phone, providing a 25% improvement in sustained performance. Birchier has been benchmarking the A20 Pro processor inside the iPhone 18 Pro, and it has so far offered excellent transcription results in its normal non-sparkling-water-cooled configuration. In one test run, the latest Apple smartphone hit a maximum speed of 447.9 words per second, before settling down to a little over 320 for the 7th to the 20th runs. The reduced performance during the latter stages of a prolonged benchmark run is normal for nearly every portable device, as they reduce performance to avoid thermally damaging their chips and other components. It’s exactly for this reason that high-performance computers often come with the best CPU coolers , with some enthusiasts preferring the best AIO coolers or custom water-cooling loops to get the most out of their high-end processors. However, this usually isn’t possible with most mainstream phones, unless you’re running a specialized gaming handset like the liquid-cooled Redmagic 11 Pro — but it seems that Birchler found a solution for the iPhone 18 Pro. “I did some benchmarking today and saw how the ne
 
-### Federal bill would force VPN providers, ISPs, and DNS services to block foreign piracy sites
-Sat, 26 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/software/vpn/federal-bill-would-force-vpn-providers-isps-and-dns-services-to-block-foreign-piracy-sites-yet-fuzzy-location-rules-could-trigger-heavy-handed-bans
-
-A week and change ago, the U.S. Congress saw yet another anti-piracy bill introduced, H.R. 10364 , or by its full name, the American Copyright Protection Act of 2026 (ACPA). It would require internet service providers, DNS resolving services, and virtual private networks, or VPNs, to block foreign websites or services hosting pirated content. The full text for the bill is now public , and it stands out due to its targeting of foreign services and affecting connections "from the United States." That gets complicated pretty quick when VPNs and content delivery networks (CDNs) are in play. In ACPA, a standard blocking order needs to be court-issued, but would apply in 14 to 30 days. There's a special case seemingly targeted at live-streaming of sports events and shows, or "time-sensitive events" in legal parlance, which can shorten the blocking deadline as a judge sees fit, so long as the first leak of copyrighted material appears within 24 hours after going live. Blocking at the ISP and DNS level is relatively straightforward. The vast majority of users utilize their ISP's DNS, so not resolving a given domain if it's in the blocklist for its customers is simple enough. Some people, like yours truly, rely on external DNS servers like Google DNS, Cloudflare's 1.1.1.1, OpenDNS, or NextDNS. These too could ignore specific DNS resolution requests from incoming users in the States, the accuracy of geolocation notwithstanding. Small ISPs and services with less than 100,000 monthly use
-
-### ChatGPT-6 Astra cracks 85-year-old 1941 Enigma-coded message in two days
-Sat, 26 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-6-astra-cracks-1941-enigma-coded-message-in-two-days-autonomous-ai-coded-its-own-simulator-to-crack-code-that-was-unsolved-since-it-was-shared-online-back-in-2005
-
-A German Army Enigma transmission from 85 years ago, known as the MVUEH message, has been cracked by GTP-Astra in two days, reports the Crypto Cella . MVUEH was sent by the German Army to the SS-Totenkopf (Death’s Head) Division on July 10, 1941, at the height of the Nazi military power in WWII. This uncracked Enigma message was shared with enthusiasts online in 2005, but its secrets had remained concealed until now. Crypto Cellar researchers highlight that what Astra managed to do in just two days “would take a human researcher weeks or even months.” Currently, the awestruck researchers are still picking through logs to determine how Astra managed this feat and how it did it so quickly. One of the most impressive things about Astra’s tackling of MVUEH was that it “did it entirely on its own,” says the source. It was merely asked whether it could break any of the unbroken Enigma machine messages published on the Crypto Cellar Research web page. In response, Astra picked Nr. 172, MVUEH as a promising target and thought it might be related to the plaintext of Nr. 173, SIPVX. With its target decided and expecting the repeated place name "ROSENOW ROSENOW" as a probable plaintext clue, Astra developed Python and C++ software for an Enigma simulator and an Enigma Bombe. Its hunch appears to have been correct. You can see a demo of the radio message being decrypted online at the MVUEHA Cryptanalysis Case Study site (screenshot below). (Image credit: The MVUEHA Cryptanalysis Case Stu
-
 ## Phoronix
+
+### Improved GPU Reset Coming For Raspberry Pi Boards With Linux 7.4
+Sat, 26 Sep 2026 20:45:33 -0400 — https://www.phoronix.com/news/Linux-7.4-Better-RPI-GPU-Reset
+
+In addition to this week's DRM-Misc-Next pull request introducing some new HDMI 2.0 helpers for the DRM drivers, the pull request also introduced improved GPU reset support for the Broadcom V3D GPU with the VC4 kernel driver...
 
 ### "Toolpak" Being Devised By GNOME OS Developers, Akin To Flatpak For Tools
 Sat, 26 Sep 2026 12:50:00 -0400 — https://www.phoronix.com/news/Toolpak
@@ -233,12 +238,12 @@ Fri, 25 Sep 2026 10:46:26 -0400 — https://www.phoronix.com/review/near-10-sec-
 
 The coffee window is closing. Going back many years with the time it s taken to compile the Linux kernel has been a well known opportunity for a coffee break or even eating a meal during the lengthy Linux kernel build process. Even when the Linux kernel was much smaller than it is today, with the hardware at the time it would often be a very time consuming process... Thus incredible to think that we are now on the horizon of a ten second clean, default kernel build on Linux x86_64.
 
-### Patches Posted For Enabling NVMe On All Apple M3 Based SoCs With Linux
-Fri, 25 Sep 2026 06:27:51 -0400 — https://www.phoronix.com/news/NVMe-Apple-M3-Linux-Patches
-
-While Linux 7.2 brought initial Apple M3 support and Linux 7.3 brought M3 Pro / Max / Ultra support, the mainline Linux kernel support for the M3 series hardware remains very basic and not yet ready for daily driving. But more work continues to be upstreamed and today the patches were posted for getting NVMe storage up and running across all Apple M3 hardware...
-
 ## The Register
+
+### Big AI's content problem: Take the work, keep the money
+Sun, 27 Sep 2026 11:35:00 +0200 — https://www.theregister.com/columnists/2026/09/27/big-ais-content-problem-take-the-work-keep-the-money/5299007
+
+Big AI has a problem. Its companies must ingest other people’s work. You know, books, news stories, photographs, code, websites, that one original meme you came up with, and practically everything else on the internet to train its large language models (LLMs). We all know that. We also know that AI companies hate paying for any of it, obeying the licenses attached to it, or, God forbid, sharing their revenue with the companies and people who created the work in the first place. Recently, Big AI's default way of doing business: "Take it now, argue about legality later," has become more in your face than ever. Look, for example, at the copyright fight between The New York Times and OpenAI and Microsoft. According to 404 Media’s reporting on recently unsealed court documents - arguments from the plaintiffs that the court has not yet ruled on - Microsoft allegedly knew what it was doing when it was importing the internet willy-nilly. Microsoft's Director of Applied Science, Dr. Brent Hecht, was quoted in the news plaintiffs' 92-page combined brief as saying: the case was about “an astonishing theft of unprecedented proportions." Indeed, it was possibly the “largest theft of labor in human history,” he was quoted as saying in the summary judgment brief from the journalists' lawyers [PDF].This, mind you, wasn't a comment by a member of the press; it was from a senior Microsoft staffer. Hecht wasn't the only one at Microsoft who commented. In an internal Microsoft policy document al
 
 ### How Samsung turned months of inactivity into a very attention-seeking smartphone
 Sat, 26 Sep 2026 12:27:00 +0200 — https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736
@@ -295,12 +300,52 @@ Fri, 25 Sep 2026 19:04:07 +0200 — https://www.theregister.com/cyber-crime/2026
 
 The CEO of crypto exchange Bitget has confirmed that a cyberattack with all the hallmarks of a North Korean operation resulted in approximately $387.5 million worth of digital assets being stolen from the exchange’s wallets. Bitget initially estimated the loss at $351.6 million, but later revised the figure to $387.5 million after identifying additional affected assets on Zcash and TRON that were not included in the initial estimate. Blockchain intelligence company Arkham published its preliminary observations of the attack, estimating at the time that roughly $350 million was stolen and that $228 million left Bitget’s wallets in 18 minutes, between 18:58 and 19:16 UTC. Arkham said $153 million worth of XRP was taken from a wallet it identified as a Bitget cold wallet, while the stolen assets also included $66.2 million of ETH, $34.8 million of USDT, $12.9 million of USDC, and $12.8 million of Tether Gold on Ethereum. Other affected networks included Arbitrum, Optimism, BNB Smart Chain, Avalanche, and Base. However, Chen said Bitget's cold wallets and customer balances remained unaffected, while its User Protection Fund held more than $464 million worth of assets. “To be transparent about our financial position: beyond the $464M+ Protection Fund – all held in publicly verifiable wallets – Bitget holds over $1 billion in its own assets,” Chen said. “User funds are covered on a 1:1 basis.” Chen also explained that Bitget Wallet, the company’s self-custody product, operates on i
 
-### Office 2016 and 2019 holdouts blame update for license deactivation bug
-Fri, 25 Sep 2026 17:01:00 +0200 — https://www.theregister.com/software/2026/09/25/office-2016-and-2019-holdouts-blame-update-for-license-deactivation-bug/5299186
-
-Users report that a recent optional update for out-of-date Microsoft 365 applications might be connected to suddenly deactivated Microsoft Office 2016 and 2019 installations. The activation bug cropped up this week and appears to mostly impact Home and Business perpetual license installations, stripping away their authenticated status and forcing users into a loop where they are asked over and over again to re-enter their product key or face deactivation or reduced-functionality mode. The symptom is that a previously activated copy of Office 2016 and 2019 appears to abruptly lose its activation information, triggering alarming pop-ups and dire warnings that functionality loss is imminent. Affected users say one fix is to re-enter the original product key to restore the activation state. This would be a fine solution, if the user is sufficiently organized and have that number or numbers to hand. It is not so fine if you're faced with dozens, hundreds, or even more devices affected. A Register reader told us the issue "took out our Office 2016 installations." They added: "First indication is a message in the app you are using telling you that normal functionality has been removed. Also Yellow banners saying you have five days left before you can no longer use the apps. "It takes multiple product reactivations, restarts and sign in/sign out of your Office account to get it stable." A glance online shows many users believe the problem is connected to KB5002907. The optional updat
-
 ## Engadget
+
+### Why we won't know how visible the iPhone Duo's crease is for a long time
+Sun, 27 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2266671/iphone-duo-wont-know-how-visible-crease-for-long-time/
+
+The iPhone Duo has an impressively minimal crease, but that's only how it looks at the start. We'll have to wait a while to see what develops over time.
+
+### How powerful of a power bank do you need to safely charge a laptop?
+Sun, 27 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2266595/how-powerful-power-bank-needs-to-be-charge-laptop/
+
+A power bank is more than its capacity. You also need to know how fast it can deliver power so your laptop doesn't drain while it's connected.
+
+### Your old GPU could be worth more than you think
+Sat, 26 Sep 2026 23:45:00 +0000 — https://www.engadget.com/2267877/your-old-gpu-worth-more-than-you-think/
+
+Your old GPU could be a goldmine thanks to the RAMaggedon.
+
+### Why your iPhone hates printer cables
+Sat, 26 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2266565/why-iphone-hates-printer-cables/
+
+AirPrint is the easiest path to printing on iPhone; other apps enable this, but printing with a cable isn't supported.
+
+### How to factory reset your Google Home Mini
+Sat, 26 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2266523/how-to-factory-reset-google-home-mini/
+
+Google Home Mini speakers may have been discontinued, but there are plenty still being used. If you have one, let's talk about how to reset it.
+
+### iPhone 18 Pro vs. iPhone 17 Pro: What's new?
+Sat, 26 Sep 2026 22:45:00 +0000 — https://www.engadget.com/2267863/iphone-18-pro-vs-17-pro-comparison-explained/
+
+The iPhone 18 Pro iterates on the iPhone 17 Pro while making some minor improvements, but what exactly is different?
+
+### How high is too high for speakers in your home sound system?
+Sat, 26 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2266518/how-high-too-high-speakers-home-sound-system/
+
+Too much height makes dialogue and fine details sound less direct.
+
+### Stop bringing your phone in the shower: How steam can ruin 'waterproof' phones
+Sat, 26 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2266522/why-steam-ruins-phone-more-than-water/
+
+Phone manufacturers are pretty direct in their guidance on this one.
+
+### This external GPU uses Wi-Fi to transform any device into a gaming rig
+Sat, 26 Sep 2026 19:45:00 +0000 — https://www.engadget.com/2269877/this-external-gpu-uses-wi-fi-to-transform-any-device-into-a-gaming-rig/
+
+The WiCi One is available for preorders starting at $1,999.
 
 ### Minecraft is getting a new dimension called The Sift in 2027
 Sat, 26 Sep 2026 19:19:53 +0000 — https://www.engadget.com/2269867/minecraft-is-getting-a-new-dimension-called-the-sift-in-2027/
@@ -317,52 +362,27 @@ Sat, 26 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2265491/you-can-use
 
 An old netbook can automate the devices that otherwise aren't interested in talking to one another.
 
-### How to properly clean your laptop fan
-Sat, 26 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2266513/how-to-clean-laptop-fan/
-
-Start with the vents before you reach for a screwdriver.
-
-### Apple hit with a $5.7 billion verdict for alleged patent infringement
-Sat, 26 Sep 2026 17:02:42 +0000 — https://www.engadget.com/2269826/apple-hit-with-a-57-billion-verdict-for-alleged-patent-infringement/
-
-Apple is reportedly looking to appeal the jury verdict.
-
-### TikTok will pay Alabama $100 million to settle social media addiction lawsuit
-Sat, 26 Sep 2026 16:41:00 +0000 — https://www.engadget.com/2269822/tiktok-will-pay-alabama-100-million-to-settle-social-media-addiction-lawsuit/
-
-TikTok has settled Alabama's social media addiction lawsuit before it was supposed to go to trial.
-
-### The MacBook models that macOS 27 Golden Gate does not support
-Sat, 26 Sep 2026 16:30:00 +0000 — https://www.engadget.com/2266414/macbook-models-macos-27-golden-gate-does-not-support/
-
-macOS Golden Gate refines the Mac software experience, but not everyone can upgrade.
-
-### Garmin Fenix 9 vs Fenix 8: How much of an upgrade is the new model?
-Sat, 26 Sep 2026 16:00:00 +0000 — https://www.engadget.com/2266039/armin-fenix-9-vs-8-how-much-of-upgrade-new-model/
-
-Which sport smartwatch should you get?
-
-### Why NVIDIA's most powerful GPU is so rarely sold to consumers
-Sat, 26 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2265946/why-most-powerful-nvidia-gpu-rarely-sold-to-consumers/
-
-NVIDIA's $16,000 RTX PRO 6000 can beat the RTX 5090, but gamers aren't who it's built for.
-
-### Get better audio quality from your vinyl by upgrading this part
-Sat, 26 Sep 2026 15:00:00 +0000 — https://www.engadget.com/2265869/vinyl-better-audio-quality-best-upgrade/
-
-Swapping out your turntable's stylus is an easy upgrade.
-
-### Is your Roku TV talking to you? Here's why and how to turn it off
-Sat, 26 Sep 2026 14:30:00 +0000 — https://www.engadget.com/2265732/why-roku-tv-talking-to-you-how-turn-off/
-
-Relax, that voice you're hearing from your Roku is pretty easy to turn off.
-
-### This app lets you use an Apple Watch with an Android phone
-Sat, 26 Sep 2026 14:00:00 +0000 — https://www.engadget.com/2265684/app-to-use-apple-watch-with-android-phone/
-
-If you switched from iPhone to Android, you don't necessarily need to change watches. There's an app that lets Apple Watch work with Android.
-
 ## TechCrunch
+
+### PNOE s new face mask wants to make lab-grade breath testing a self-serve affair
+Sun, 27 Sep 2026 01:40:30 +0000 — https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/
+
+PNOĒ, the Malden, Mass.-based startup whose breath-analyzing mask used to bear an unfortunate resemblance to Bane's, is launching a sleeker self-serve version on October 1 that lets gym-goers measure their VO₂ max and other metabolic markers in eight minutes without a trained operator.
+
+### Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+Sun, 27 Sep 2026 01:30:00 +0000 — https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/
+
+The limited test covers select products and users, with a broader rollout planned for later in October.
+
+### Insurers claim AI is already increasing healthcare costs
+Sat, 26 Sep 2026 21:02:06 +0000 — https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/
+
+Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.
+
+### TikTok agrees to pay at least $100M in Alabama settlement
+Sat, 26 Sep 2026 20:24:45 +0000 — https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/
+
+TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.
 
 ### Meta and YouTube say they will run ads for ‘Musk’ documentary after all
 Sat, 26 Sep 2026 17:44:00 +0000 — https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/
@@ -403,24 +423,4 @@ AI agents operating in OpenAI's research environment posted user images on publi
 Fri, 25 Sep 2026 20:34:53 +0000 — https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/
 
 Anyone interested in joining has to ask Muse to put them on the list.
-
-### The hottest new hangout for middle schoolers is NPR s comment section?
-Fri, 25 Sep 2026 20:33:58 +0000 — https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/
-
-When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.
-
-### Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
-Fri, 25 Sep 2026 19:13:38 +0000 — https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/
-
-Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that grows as Anthropic spends more.
-
-### Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
-Fri, 25 Sep 2026 18:48:33 +0000 — https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/
-
-Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.
-
-### Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing
-Fri, 25 Sep 2026 18:33:59 +0000 — https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/
-
-The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.
 

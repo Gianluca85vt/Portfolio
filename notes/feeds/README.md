@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-26T19:22:40.311Z
+# Source feeds — harvested 2026-09-27T10:12:30.754Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -16,6 +16,7 @@ Already aired, so a round-up rather than a preview:
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
 - Game Developer — gamescom latam
+- Game Developer — The Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -37,13 +38,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 98 items
+- [Games](games.md) — 89 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 15 items
 - [AI](ai.md) — 1 items
-- [Manga](manga.md) — 32 items
+- [Manga](manga.md) — 31 items
 - [Film & TV](film-tv.md) — 64 items
 
-Total: 292 items.
+Total: 282 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
