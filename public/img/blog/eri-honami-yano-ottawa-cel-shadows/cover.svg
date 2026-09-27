@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Eri wins Ottawa with shadows cast by the cel">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#3A1330"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="7" fill="#F3E4CC" opacity="0.72">MANGA &#183; OTTAWA 2026</text>
+  <text x="90" y="300" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#F7EFE2">ERI</text>
+  <text x="90" y="400" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#F3E4CC">Shadows cast by stacked</text>
+  <text x="90" y="466" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#F3E4CC">sheets of acetate</text>
+  <rect x="92" y="540" width="300" height="10" fill="#C8891B" opacity="0.85"/>
+  <text x="90" y="626" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E9D7BC" opacity="0.9">Honami Yano &#183; Best Animated Short</text>
+</svg>
