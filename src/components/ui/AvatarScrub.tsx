@@ -69,10 +69,16 @@ type Props = {
   className?: string;
   /** Described for anyone who cannot see it; the motion carries no meaning. */
   alt: string;
+  /** Called once, when the opening frame is on screen. */
+  onReady?: () => void;
 };
 
-export default function AvatarScrub({ className = '', alt }: Props) {
+export default function AvatarScrub({ className = '', alt, onReady }: Props) {
   const videoRef = useRef<HTMLVideoElement>(null);
+  // Kept in a ref so a new callback on re-render does not restart the effect,
+  // which would reset the head to the middle of its turn.
+  const readyRef = useRef(onReady);
+  readyRef.current = onReady;
 
   useEffect(() => {
     const video = videoRef.current;
@@ -86,6 +92,7 @@ export default function AvatarScrub({ className = '', alt }: Props) {
     let seeking = false;
     let frame = 0;
     let ready = false;
+    let shown = false;
 
     const middle = () => (video.duration || 0) / 2;
 
@@ -100,6 +107,10 @@ export default function AvatarScrub({ className = '', alt }: Props) {
 
     const onSeeked = () => {
       seeking = false;
+      if (!shown) {
+        shown = true;
+        readyRef.current?.();
+      }
     };
 
     // Pointer events rather than mouse events, so one path serves both.

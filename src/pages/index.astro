@@ -1,10 +1,24 @@
 ---
+import '@fontsource/jetbrains-mono/latin-400.css';
+import '../styles/home.css';
+import sharp from 'sharp';
+import { join } from 'node:path';
 import { cardImage } from '../lib/card-image';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import HomePage from '../components/HomePage';
+import type { ArchiveItem } from '../components/HomePage';
 import SiteDisclaimer from '../components/SiteDisclaimer.astro';
-import { blog, site, socials, coverFor } from '../data/portfolio';
+import {
+  architectureGallery,
+  blog,
+  conceptGallery,
+  coverFor,
+  modelGallery,
+  site,
+  socials,
+} from '../data/portfolio';
+import type { GalleryItem } from '../data/portfolio';
 
 const title = 'Gianluca Scattarella — 3D Environment & Technical Artist';
 const description =
@@ -36,6 +50,78 @@ const posts = published.slice(0, 4).map((entry) => ({
   score: entry.data.score !== undefined ? Math.round(entry.data.score * 2) / 2 : undefined,
 }));
 
+// The work grid. Each picture's size is read from the file, so the grid can
+// reserve its space before anything loads and nothing jumps as it fills in.
+const size = async (src: string) => {
+  try {
+    const m = await sharp(join('public', decodeURIComponent(src))).metadata();
+    return { w: m.width ?? 4, h: m.height ?? 3 };
+  } catch {
+    return { w: 4, h: 3 };
+  }
+};
+
+// Line art that has a finished colour version on the same canvas travels with
+// it, as a view in the full-size viewer, rather than as a second card.
+const lineArt: Record<string, string> = {
+  '/img/concept/xiu-colore.jpg': '/img/concept/xiu-lineart.jpg',
+  '/img/concept/overseerer-color-corpo-def-1.png': '/img/concept/overseerer-lineart-corpo.jpg',
+  '/img/concept/panda-colore.jpg': '/img/concept/panda-lineart.jpg',
+  '/img/concept/jian-posa-colore-2-1.jpg': '/img/concept/jian-posa-1.jpg',
+  '/img/concept/opera-senza-titolo-5.jpg': '/img/concept/opera-senza-titolo-3.jpg',
+};
+const pairedLines = new Set(Object.values(lineArt));
+
+// The opening set: the strongest piece of each kind, alternating so no two
+// neighbours are the same discipline.
+const selected = [
+  '/img/jian/jian-key-art.jpg',
+  '/img/arch/image25-2-2.jpg',
+  '/img/3d/eva01.jpg',
+  '/img/concept/xiu-colore.jpg',
+  '/img/arch/soggiorno-1.jpg',
+  '/img/3d/fiat-500e.png',
+  '/img/concept/opera-senza-titolo-5.jpg',
+  '/img/arch/image1-001.jpg',
+  '/img/3d/brad.jpg',
+  '/img/concept/panda-colore.jpg',
+  '/img/arch/tetto-def-copia.jpg',
+  '/img/3d/umbral-blade.jpg',
+  '/img/concept/overseerer-color-corpo-def-1.png',
+  '/img/arch/camera-1-copia.jpg',
+  '/img/3d/mazda-cx60.png',
+  '/img/concept/aviatore-colore.jpg',
+  '/img/arch/image3-copia.jpg',
+  '/img/3d/render-01.png',
+];
+
+const toItems = (list: GalleryItem[], kind: ArchiveItem['kind']) =>
+  Promise.all(
+    list
+      .filter((g) => !pairedLines.has(g.src))
+      .map(async (g): Promise<ArchiveItem> => {
+        const at = selected.indexOf(g.src);
+        return {
+          src: g.src,
+          ...(await size(g.src)),
+          ...(g.title ? { title: g.title } : {}),
+          kind,
+          ...(lineArt[g.src] ? { line: lineArt[g.src] } : {}),
+          ...(at >= 0 ? { selected: at } : {}),
+        };
+      })
+  );
+
+const items = [
+  ...(await toItems(conceptGallery, 'concept')),
+  ...(await toItems(modelGallery, '3d')),
+  ...(await toItems(architectureGallery, 'arch')),
+];
+
+// Whether this build made the small WebP copies; the page falls back to the
+// originals when it did not (in `astro dev`, for one).
+const thumbs = cardImage('/img/3d/eva01.jpg') !== '/img/3d/eva01.jpg';
+
 // sameAs is how Google links the site to the social profiles behind it
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -59,7 +145,14 @@ const jsonLd = {
 <Base title={title} description={description} jsonLd={jsonLd}>
   <!-- The home page is one continuous animated composition, so it hydrates as a
        single island. Astro still renders it to static HTML at build time. -->
-  <HomePage latest={latest} posts={posts} client:load />
+  <HomePage
+    latest={latest}
+    posts={posts}
+    items={items}
+    thumbs={thumbs}
+    totalPosts={published.length}
+    client:load
+  />
 
   <!-- Rights and AI notice, after the contact footer so it closes the page. -->
   <SiteDisclaimer />

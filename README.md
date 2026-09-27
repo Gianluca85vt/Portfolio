@@ -162,26 +162,35 @@ Se aggiungi un servizio che riceve dati dei visitatori, va aggiunto anche a
 
 ## Portfolio: dove sta cosa
 
-Quasi tutto il contenuto sta in [`src/data/portfolio.ts`](src/data/portfolio.ts): testi,
-email, voci di menu, skill, video, progetti, le due liste del marquee e le categorie del
-blog. Per cambiare un'immagine basta metterne una nuova in `public/img/...` e aggiornare
-il path lì.
+I contenuti stanno in [`src/data/portfolio.ts`](src/data/portfolio.ts) (testi, email,
+skill, video, gallerie, categorie del blog); i testi scritti solo per la home — le righe
+per studio e per cliente, il laboratorio, la pipeline AI — in
+[`src/data/home.ts`](src/data/home.ts). Per cambiare un'immagine basta metterne una nuova
+in `public/img/...` e aggiornare il path lì. I numeri mostrati (pezzi, modelli, video,
+articoli) sono contati dai contenuti, mai scritti a mano.
 
-| Sezione Weebly | Dove finisce ora |
-| --- | --- |
-| About | `HeroSection` (ritratto 3D) + `AboutSection` (bio animata carattere per carattere) |
-| Concept | `ServicesSection` voce 01 + immagini nel marquee e nelle card |
-| 3D | `ServicesSection` voce 02 + immagini nel marquee |
-| Animations | `ServicesSection` voce 03 + `ShowreelSection` |
-| Unreal Engine | `ServicesSection` voce 04 + `ShowreelSection` + card 02 |
-| Architecture | `ServicesSection` voce 05 + card 03 + immagini nel marquee |
-| JIAN: Claws of Destiny | Figura dell'hero + card progetto 01 + testo in `ContactSection` |
-| Resume | Link al CV in `ContactSection` |
-| — | `AiSection` e il blog sono nuovi |
+La home è un'unica isola React, `src/components/HomePage.tsx`, composta dai file in
+`src/components/home/`. Il linguaggio visivo — un viewport: immagini che si rivelano a
+"bucket" come in un render, angoli da mirino, etichette monospace — sta in
+[`src/styles/home.css`](src/styles/home.css), caricato solo dalla home.
 
-Cliccando una card dei progetti si apre un popup: `conceptGallery` e `architectureGallery`
-sono slideshow, la card Unreal apre la lista dei video. Nelle gallerie `title` è
-opzionale ed è compilato solo dove il nome dell'opera è certo.
+| Sezione (ancora) | Componente | Cosa fa |
+| --- | --- | --- |
+| Hero (`#top`) | `Hero.tsx` | Ritratto 3D che gira col puntatore (`ui/AvatarScrub`), ultimi articoli, scelta "studio / cliente" |
+| What I do (`#skills`) | `Disciplines.tsx` | Le sei `services`, con anteprime al passaggio e link alla sezione giusta |
+| Work (`#work`) | `Work.tsx` + `Lightbox.tsx` | Concept, 3D e architettura filtrabili; vista valori / due toni; viewer con gli strumenti da art director e la line art originale dove c'è |
+| Showreel (`#showreel`) | `Showreel.tsx` | Player + timeline a tracce (real-time, animazione, motion design) |
+| Try the job (`#lab`) | `Lab.tsx` + `rock.ts` | Line art → colore, budget di triangoli su un sasso disegnato in canvas, pianta → stanza |
+| About (`#about`), Direction (`#direction`) | `About.tsx` | Bio, numeri, CV; art direction e strumenti |
+| AI (`#ai`) | `Ai.tsx` | Pipeline: dove aiuta il modello e dove decido io |
+| Blog (`#blog`) | `Blog.tsx` | Ultimi quattro articoli di Backdrop |
+| Contact (`#contact`) | `Contact.tsx` | Brief guidato che diventa una mail, o il pannello per chi assume |
+
+La scelta "studio / cliente" resta solo nel browser del visitatore (`localStorage`,
+chiave `gs-mode`) e cambia qualche frase e l'ordine dei pulsanti: il lavoro è lo stesso
+per tutti. Le gallerie usano le miniature WebP fatte da `scripts/card-thumbs.mjs` in
+`public/img/cards/`; senza, la pagina usa gli originali. Nelle gallerie `title` è
+opzionale ed è compilato solo dove il soggetto è certo.
 
 ### Note sugli asset
 
@@ -189,11 +198,10 @@ opzionale ed è compilato solo dove il nome dell'opera è certo.
   così il sito non dipende dal vecchio account.
 - `public/img/me/avatar-3d.png` è il ritratto 3D scontornato dal fondo verde; è il
   sorgente degli altri file e della favicon.
-- **Occhi che seguono il mouse**: per ogni occhio `eye-layer-*.png` è una copia del bulbo
-  ritagliata dal render e `eye-mask-*.png` la sagoma della sclera. `AvatarEyes` fa
-  scorrere il layer sopra il render, tagliato dalla maschera. Le coordinate in
-  `AvatarEyes.tsx` sono in pixel del render sorgente 656x913: da rimisurare se cambi il
-  ritratto.
+- **Occhi che seguono il mouse** (`AvatarEyes`, oggi non usato: la home usa il video
+  `rotazione faccia.mp4`): per ogni occhio `eye-layer-*.png` è una copia del bulbo
+  ritagliata dal render e `eye-mask-*.png` la sagoma della sclera. Le coordinate in
+  `AvatarEyes.tsx` sono in pixel del render sorgente 656x913.
 - Le anteprime dei video sono scaricate da YouTube; l'iframe (youtube-nocookie) viene
   montato solo al click.
 - `public/Resume.pdf` è il CV: per aggiornarlo basta sovrascrivere il file mantenendo il

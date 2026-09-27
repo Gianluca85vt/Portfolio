@@ -351,35 +351,6 @@ export const ai = {
   ],
 } as const;
 
-/** Marquee row 1 — 11 tiles, scrolls right. */
-export const marqueeRowOne = [
-  '/img/3d/render-01.png',
-  '/img/arch/lotto-465-gv24c0019-frontale-1.jpg',
-  '/img/concept/jian-colore-2.jpg',
-  '/img/3d/mazda-cx60.png',
-  '/img/arch/soggiorno-1.jpg',
-  '/img/concept/overseerer-color-corpo-def-1.png',
-  '/img/3d/eva01.jpg',
-  '/img/arch/1-3.jpg',
-  '/img/concept/opera-senza-titolo-5.jpg',
-  '/img/3d/fiat-500e.png',
-  '/img/arch/image1-000-copia.jpg',
-];
-
-/** Marquee row 2 — 10 tiles, scrolls left. */
-export const marqueeRowTwo = [
-  '/img/concept/xiu-colore.jpg',
-  '/img/3d/cute-penguin.png',
-  '/img/arch/2-1rid_1.jpg',
-  '/img/concept/opera-senza-titolo-7.jpg',
-  '/img/3d/render-03.png',
-  '/img/arch/nomentana-3-copertina-sotheby-s_1.jpg',
-  '/img/concept/panda-colore.jpg',
-  '/img/3d/umbral-blade.jpg',
-  '/img/arch/3-1-4k-res.jpg',
-  '/img/concept/aviatore-colore.jpg',
-];
-
 /**
  * Old "Animations" + "Unreal Engine" pages — both were video-only.
  * Titles taken from the YouTube oEmbed data, not guessed from the thumbnails.
@@ -405,24 +376,6 @@ export const showreel = [
 ] as const;
 
 export type GalleryItem = { src: string; title?: string };
-
-/**
- * What a project card opens in the overlay.
- * Titles are only filled in where they are actually known — the rest show a
- * counter rather than an invented name. Add titles here as you like.
- */
-export type ProjectModal =
-  | { kind: 'gallery'; items: GalleryItem[] }
-  | { kind: 'videos'; ids: string[] };
-
-export type Project = {
-  number: string;
-  name: string;
-  category: string;
-  href: string;
-  images: { colOneTop: string; colOneBottom: string; colTwo: string };
-  modal: ProjectModal;
-};
 
 /**
  * Old "Concept" page, plus what has been drawn since — 21 pieces.
@@ -451,6 +404,24 @@ export const conceptGallery: GalleryItem[] = [
   { src: '/img/concept/opera-senza-titolo-3.jpg' },
   { src: '/img/concept/opera-senza-titolo-5.jpg' },
   { src: '/img/concept/opera-senza-titolo-7.jpg' },
+];
+
+/**
+ * The 3D renders. Titles describe what is in the picture; the filenames do not
+ * always match it (umbral-blade.jpg is the portrait, render-01.png the sword),
+ * so they were not used.
+ */
+export const modelGallery: GalleryItem[] = [
+  { src: '/img/3d/eva01.jpg', title: 'EVA-01' },
+  { src: '/img/3d/eva02.png', title: 'EVA-02' },
+  { src: '/img/3d/fiat-500e.png', title: 'Fiat 500e' },
+  { src: '/img/3d/mazda-cx60.png', title: 'Mazda CX-60' },
+  { src: '/img/3d/brad.jpg', title: 'Character sculpt' },
+  { src: '/img/3d/umbral-blade.jpg', title: 'Portrait study' },
+  { src: '/img/3d/render-01.png', title: 'Sword' },
+  { src: '/img/3d/cute-penguin.png', title: 'Penguin' },
+  { src: '/img/3d/joypad.jpg', title: 'Tonberry' },
+  { src: '/img/3d/render-03.png', title: 'Controller' },
 ];
 
 /** Old "Architecture" page — the full set, 74 renders and plans. */
@@ -529,49 +500,6 @@ export const architectureGallery: GalleryItem[] = [
   { src: '/img/arch/image32.png' },
   { src: '/img/arch/image38.jpg' },
   { src: '/img/arch/image48.jpg' },
-];
-
-export const projects: Project[] = [
-  {
-    number: '01',
-    name: 'Concept and 2D Art',
-    category: 'Illustration',
-    href: site.discord,
-    images: {
-      colOneTop: '/img/concept/xiu-colore.jpg',
-      colOneBottom: '/img/concept/panda-colore.jpg',
-      colTwo: '/img/jian/jian-hero.jpg',
-    },
-    modal: { kind: 'gallery', items: conceptGallery },
-  },
-  {
-    number: '02',
-    name: 'Real-Time Environments',
-    category: 'Unreal Engine 5',
-    href: 'https://www.youtube.com/watch?v=U9QQZWzm9Ac',
-    // Frames from the Unreal Engine videos -- Alleyway, Ocean Cliff, Castle Lake.
-    images: {
-      colOneTop: '/img/video/CX4BinF3pSw.jpg',
-      colOneBottom: '/img/video/iPoxXBgmunE.jpg',
-      colTwo: '/img/video/U9QQZWzm9Ac.jpg',
-    },
-    modal: {
-      kind: 'videos',
-      ids: showreel.filter((v) => v.tag === 'Unreal Engine').map((v) => v.id),
-    },
-  },
-  {
-    number: '03',
-    name: 'Architectural Visualization',
-    category: 'Client Work',
-    href: 'https://www.youtube.com/watch?v=EGMtN1-zBcc',
-    images: {
-      colOneTop: '/img/arch/soggiorno-1.jpg',
-      colOneBottom: '/img/arch/camera-1-copia.jpg',
-      colTwo: '/img/arch/lotto-465-gv24c0019-frontale-1.jpg',
-    },
-    modal: { kind: 'gallery', items: architectureGallery },
-  },
 ];
 
 export const contact = {

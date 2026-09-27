@@ -1,5 +1,6 @@
 /**
- * Small WebP copies of the article covers, for the cards that list them.
+ * Small WebP copies of the article covers, for the cards that list them, and
+ * of the portfolio images the home page shows as a grid.
  *
  *   node scripts/card-thumbs.mjs
  *
@@ -24,6 +25,7 @@ import { dirname, join } from 'node:path';
 const WIDTH = 800;
 const QUALITY = 72;
 const RASTER = /\.(jpe?g|png|webp)$/i;
+const PORTFOLIO_DIRS = ['concept', '3d', 'arch', 'jian', 'video', 'me'];
 
 /** /img/blog/x/cover.jpg -> /img/cards/blog/x/cover.webp. Mirrored in src/lib/card-image.ts. */
 export function thumbPath(cover) {
@@ -47,6 +49,18 @@ async function covers() {
   const data = await readFile('src/data/portfolio.ts', 'utf8');
   const block = /columnCovers[^{]*\{([\s\S]*?)\}/.exec(data)?.[1] ?? '';
   for (const m of block.matchAll(/'(\/img\/[^']+)'/g)) found.add(m[1]);
+
+  // The portfolio's own pictures, for the home page grid, which shows dozens of
+  // them at a few hundred pixels wide. The full files stay for the viewer.
+  for (const dir of PORTFOLIO_DIRS) {
+    let files = [];
+    try {
+      files = await readdir(join('public/img', dir));
+    } catch {
+      continue;
+    }
+    for (const file of files) if (RASTER.test(file)) found.add(`/img/${dir}/${file}`);
+  }
 
   return [...found].filter((c) => c.startsWith('/img/') && RASTER.test(c));
 }
