@@ -81,8 +81,8 @@ coexist is the difference between deep being a technique you reach for on locked
 off shots and one you can use on a moving camera.
 
 Which is where this connects to work like Folks rebuilding stadiums for *Chad
-Powers*, where the season's problem was [stands holding upwards of 90,000
-people across more than 600 shots](/blog/chad-powers-folks-cg-crowds-90000-fans/).
+Powers*, where the season's problem was stands holding upwards of 90,000
+people across more than 600 shots.
 Tiered sprite crowds against a real bowl, with players and rails and camera
 moves cutting through them, is exactly the situation where hand-built holdouts
 stop scaling and deep starts earning its storage cost. Eight times faster is not

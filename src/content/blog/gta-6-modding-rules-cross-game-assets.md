@@ -70,8 +70,8 @@ followed built on top of understanding rather than extraction. It is also a
 useful measure of the cost. Six and a half years, for a game that fits in 12
 megabytes.
 
-Scale that against [the 600,000-odd animations Rockstar says are in GTA
-VI](/blog/gta-6-600000-animations-no-generative-ai/) and the reason for the
+Scale that against the 600,000-odd animations Rockstar says are in GTA
+VI and the reason for the
 clause is obvious enough from Rockstar's side. That library is the product.
 
 ## The approved channel already exists

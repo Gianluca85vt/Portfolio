@@ -143,8 +143,8 @@ rock animation, a crowd, and a vision effect that has to read as a different
 mode of seeing without turning the shot into a filter.
 
 A hundred and seventeen crew for a hundred and sixty-three shots, on one
-vendor's portion of one season. Folks managed [more than 600 shots on *Chad
-Powers* as the only vendor](/blog/chad-powers-folks-cg-crowds-90000-fans/) with
+vendor's portion of one season. Folks managed more than 600 shots on *Chad
+Powers* as the only vendor with
 a smaller headcount, which reads like the better deal until you remember that
 crowd extension is a problem you solve once and then repeat across a stadium.
 Creatures do not repeat. Every shot of a furred animal in contact with a human

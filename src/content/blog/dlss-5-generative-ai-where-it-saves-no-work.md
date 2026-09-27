@@ -45,8 +45,6 @@ studio squeezing a budget squeezes there first. Rockstar staffed a building
 instead, which is a payroll decision before it is an artistic one, and they can
 make it because they are Rockstar.
 
-[[ANEDDOTO: a stretch of work that was pure volume — the unglamorous long tail of assets nobody looks at directly — and what it took to get through it]]
-
 Nobody is building the other tool for the studios that cannot. A generative pass
 aimed at that long tail, opted into per project, tuned in the building, with an
 art lead accountable for what comes out of it, would sell itself to every
@@ -80,8 +78,6 @@ models left over from an encounter that got cut two years ago. Every one of
 those is a decision to spend the day on the question in front of you rather than
 on the asset that will eventually answer it.
 
-[[ANEDDOTO: a placeholder or stand-in asset that survived far later into a project than it should have, and what finally forced it out]]
-
 ## What the pixel forgets
 
 Put those two next to each other and the problem with the last stage becomes
@@ -105,8 +101,6 @@ plausibility will helpfully correct.
 
 Stylisation goes first, every time, because from the outside a style and a
 mistake are indistinguishable.
-
-[[ANEDDOTO: a deliberate look-dev or art-direction choice that came back flagged as a bug or an error by somebody outside the art team, and what it took to defend it]]
 
 ## Somebody else's slider
 

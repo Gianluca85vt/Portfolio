@@ -55,7 +55,7 @@ amounts of work for the people who actually build the images.
 
 For scale: one season of a single streaming comedy ran past 600 shots with one
 vendor carrying all of it, three stadiums rebuilt or extended and crowds holding
-ninety thousand — [what Folks did on Chad Powers](/blog/chad-powers-folks-cg-crowds-90000-fans/)
+ninety thousand — what Folks did on *Chad Powers*
 is a useful yardstick precisely because it is television rather than a tentpole.
 A feature can be ten times that workload or a fifth of it, and the settlement
 draws no distinction.

@@ -85,8 +85,6 @@ confidence by Saturday and produced it. Level-5 needed spectacle by Thursday and
 produced that. In both cases the thing with the hard deadline, the thing that
 actually shipped on time, was the presentation.
 
-[[ANEDDOTO: a time you built or fixed an asset that existed only for a trailer or a pitch — something with a hard external date that was never going to run in an engine, and what that felt like next to the production work waiting underneath it.]]
-
 ## Twenty-nine names in a Google Doc
 
 On 11 September Polyarc stopped. Twelve years, or eleven depending on who you
@@ -128,8 +126,6 @@ views and the question in the room will be why the game does not look like it.
 We have all been on the wrong side of that meeting. Not the schedule side — the
 *likeness* side, where the work is measured against a picture made by people who
 never had to run it at sixty.
-
-[[ANEDDOTO: a project where the target was a piece of concept or marketing art rather than anything that had to run, and what had to be cheated or thrown away to get near it.]]
 
 ## Box product
 

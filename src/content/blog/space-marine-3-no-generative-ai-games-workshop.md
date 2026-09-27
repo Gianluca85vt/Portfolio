@@ -102,8 +102,8 @@ put it in writing.
 ## The pattern is getting easier to read
 
 Rockstar is doing something structurally similar at a much larger scale. The
-company [hand-authored more than 600,000 animations for GTA 6 and then said
-generative AI had no hand in it](/blog/gta-6-600000-animations-no-generative-ai/) —
+company hand-authored more than 600,000 animations for GTA 6 and then said
+generative AI had no hand in it —
 a payroll decision first, a marketing line second, and impossible to fake after
 the fact. The studios with the most to lose from a provenance question are the
 ones ruling generation out loudest.

@@ -58,10 +58,6 @@ The studio had to answer it in public, on the store page, because an
 early-access game lives and dies on its Steam percentage and one negative
 review on a small page is a real number with money attached.
 
-[[ANEDDOTO: a time something you made was misread from outside — a bug, a
-deliberate choice, a limitation of the budget — and you had to stand there
-explaining what it really was to somebody who had already decided]]
-
 ## Eighty-five point eight
 
 The number that makes both accusations plausible came out of Tokyo in the same
@@ -132,10 +128,6 @@ from outside: labour visible in the surface.
 
 It is also a seven-year budget, on a game that nearly killed the studio that
 made it.
-
-[[ANEDDOTO: a job where the handcrafted route got cut for time — what the
-schedule was, what got swapped in for it (kit, library asset, procedural,
-generated), and what it felt like to sign that off]]
 
 So here is the position an environment artist is standing in this September.
 The output cannot be attested to. The industry's own headline invites suspicion

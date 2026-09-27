@@ -80,15 +80,11 @@ tape and put away with the quiet confidence of people who did the responsible
 thing. Then the drive dies, and you replace it with the drive that is on sale
 now, and the crate becomes decoration.
 
-[[ANEDDOTO: a time you actually had to go back for old project files or an old archive — what you were asked for, how far back, and what you found when you went looking. Even "it took three days and two of them were finding a machine that would open it" is enough.]]
-
 You already know the software version of this. The scene that needs a renderer
 two majors back. The plugin whose licence server was switched off. The
 project that opens, technically, and comes up with every material slot empty.
 We are the people who make the thing, we hold the only masters that exist, and
 our own retention plan is a shelf and some optimism.
-
-[[ANEDDOTO: the tool or file format that betrayed you specifically — a plugin, a licence server, a scene that wouldn't reopen. One sentence on what it cost.]]
 
 ## Seventeen and a half million
 
