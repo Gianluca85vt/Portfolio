@@ -18,7 +18,6 @@ artistView:
     - "Art direction: paint on acetate holds a narrow and consistent gamut, which buys more coherence across twelve minutes than a grade applied afterwards ever does."
   misses:
     - "Pipeline: with the lighting fixed at exposure there is no separating shadow from drawing later, so a single note costs a repaint and a reshoot. That is why the method stays rare outside shorts."
-draft: true
 ---
 
 The interesting thing about *Eri* is where its shadows come from. Honami Yano
