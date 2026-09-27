@@ -1,0 +1,6 @@
+gebdag, from the official GTA2 RTX Remix project repository
+
+- /img/blog/gta-2-rtx-remix-d3d9-renderer/shot-01.jpg
+- /img/blog/gta-2-rtx-remix-d3d9-renderer/shot-02.jpg
+- /img/blog/gta-2-rtx-remix-d3d9-renderer/shot-03.jpg
+- /img/blog/gta-2-rtx-remix-d3d9-renderer/shot-04.jpg
