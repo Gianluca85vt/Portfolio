@@ -29,7 +29,6 @@ artistView:
   misses:
     - "Polish: Neowin attributes a lower score to bugs and glitches, which is what a five-SKU simultaneous launch usually costs."
     - "Netcode: Shacknews recommends the couch over the internet, and on a day-one Game Pass release that is the part players hit first."
-draft: true
 ---
 
 Reviews for Minecraft Dungeons II appeared on 28 September 2026, a day before
