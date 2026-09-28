@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Amortisation: nothing else in Phantom Liberty reuses this rig. A studio that builds environment kits to be re-dressed a hundred times built its most expensive object for one room."
     - "Pipeline: four full rebuilds driven by weapon and equipment changes suggests the art was committed before the encounter design had settled, which is the expensive order to do it in."
-draft: true
 ---
 
 CD PROJEKT RED made Night City. Tens of thousands of buildings, adverts, awnings
