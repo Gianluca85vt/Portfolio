@@ -89,8 +89,8 @@ had to be widened, not just the camera.
 There is a nice irony in the timing. The expensive problem in path tracing
 right now is geometry — how to keep an acceleration structure for tens of
 gigabytes of mesh inside a consumer card's memory, which is the whole subject
-of [RTX Mega Geometry 2.0 streaming 31GB of mesh through 1.5GB of
-VRAM](/blog/rtx-mega-geometry-2-vram-streaming). GTA 2's Anywhere City is a
+of RTX Mega Geometry 2.0 streaming 31GB of mesh through 1.5GB of
+VRAM. GTA 2's Anywhere City is a
 grid of textured blocks. The BVH for it would fit in a rounding error.
 
 Which is why frame generation is doing the heavy lifting on the performance
