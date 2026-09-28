@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="GTA 2 path tracing needed a whole new D3D9 renderer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1F6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#8FE3C8" letter-spacing="6">GTA 2 · RTX REMIX</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">D3D9</text>
+  <text x="80" y="430" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#FFFFFF">a renderer written</text>
+  <text x="80" y="495" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#FFFFFF">so Remix could see it</text>
+  <text x="80" y="600" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#BFE9DA">1999 game · DirectDraw · two DLLs · path traced</text>
+</svg>

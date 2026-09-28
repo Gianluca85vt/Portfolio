@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Transport Fever 3 ships cross-platform mods on day one">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1C4F8B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" fill="#9FB6D4" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">TRANSPORT FEVER 3</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700">DAY ONE</text>
+  <text x="80" y="430" fill="#C9D8EA" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700">MODS ON PS5 AND XBOX</text>
+  <text x="80" y="520" fill="#9FB6D4" font-family="Helvetica, Arial, sans-serif" font-size="38">Automated approval, built with Sony and Microsoft</text>
+  <rect x="80" y="580" width="220" height="5" fill="#C9D8EA"/>
+</svg>

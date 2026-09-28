@@ -1,0 +1,41 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-week", "kind": "beats", "title": "Seven days",
+    "items": ["21 Sep: cut-off", "26 Sep: $14.99", "28 Sep: dark", "29 Sep: TF3"],
+    "note": "Zerply export deadline; MobyGames Professional announced; Zerply offline 16:00 UTC; Transport Fever 3 launch." },
+
+  { "id": "the-price", "kind": "bars", "title": "The price of the receipt",
+    "rows": [
+      { "label": "MobyGames Professional, one month", "value": 14.99, "display": "$14.99" },
+      { "label": "The same, held for twelve months", "value": 179.88, "display": "$179.88" }
+    ],
+    "note": "Announced 26 September. Zerply, the free place VFX kept the same record, closes today." },
+
+  { "id": "the-cuts", "kind": "beats", "title": "Xbox, this month",
+    "items": ["E-Day goes gold", "Layoffs land", "Studio halved", "Project cut"],
+    "note": "Gears of War: E-Day ships 6 October. World's Edge lost just under half its staff, per former employees." },
+
+  { "id": "two-readings", "kind": "compare", "title": "Who keeps the record",
+    "left": "What the credit roll says",
+    "right": "What the work was",
+    "rows": [
+      ["Environment Artist", "Two years on one boss fight"],
+      ["Shipped 2026", "The exporter you rewrote"],
+      ["Studio name", "A studio that closed in September"]
+    ],
+    "note": "The Chimera tank fight in Phantom Liberty took two years of iteration." },
+
+  { "id": "where-proof-lives", "kind": "timeline", "title": "Where proof lives",
+    "stages": ["Do the work", "Ship it", "Credit roll", "Studio site", "Zerply", "Database", "Your own file"],
+    "markAt": 6,
+    "markLabel": "The only one you control",
+    "note": "Every stage before the last belongs to somebody who can switch it off." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "The one asset that walks out with you is the sentence: I made that.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
