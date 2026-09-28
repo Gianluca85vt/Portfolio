@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Cyberpunk 2077 Chimera: two years, four rebuilds">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#1E2547"/>
+      <stop offset="1" stop-color="#2E6BA8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" fill="#5FA8FF" font-family="Helvetica,Arial,sans-serif" font-size="30" letter-spacing="6">PHANTOM LIBERTY</text>
+  <text x="80" y="310" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="700">4 rebuilds</text>
+  <text x="80" y="400" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="66" font-weight="600" opacity="0.92">over two years</text>
+  <text x="80" y="470" fill="#BFD6F5" font-family="Helvetica,Arial,sans-serif" font-size="34">The Chimera, and what a boss really costs</text>
+  <rect x="80" y="520" width="150" height="5" fill="#5FA8FF"/>
+</svg>
