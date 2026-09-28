@@ -1,9 +1,8 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { CSSProperties, KeyboardEvent as ReactKeyboardEvent } from 'react';
 import { lab } from '../../data/home';
-import { buildRock, drawRock } from './rock';
-import { RockRenderer } from './rock-gl';
-import type { Look, Mesh } from './rock';
+import { ModelRenderer, loadModel } from './model-gl';
+import type { Look, Model } from './model-gl';
 import { Buckets, Reveal, SectionTitle, Slate, fmtCount, pad, useInView, usePrefersReducedMotion, useThumb, useVoiced } from './ui';
 
 type TabId = (typeof lab.tabs)[number]['id'];
@@ -89,28 +88,36 @@ function LinesStage({ pick }: { pick: number }) {
 
 /* --------------------------------------------------------- detail budget */
 
-function RockStage({ level, sun, look, smooth }: { level: number; sun: number; look: Look; smooth: boolean }) {
+// Each level is fetched once per visit, whichever stage asks for it first.
+const levels = new Map<number, Promise<Model>>();
+function level(i: number) {
+  let p = levels.get(i);
+  if (!p) {
+    p = loadModel(lab.detail[i].src);
+    levels.set(i, p);
+    // A failed fetch is not remembered, so choosing the level again retries it.
+    p.catch(() => levels.delete(i));
+  }
+  return p;
+}
+
+function ModelStage({ level: want, sun, look, smooth }: { level: number; sun: number; look: Look; smooth: boolean }) {
   const canvas = useRef<HTMLCanvasElement>(null);
   const wrap = useRef<HTMLDivElement>(null);
   const visible = useInView(wrap, { once: false, rootMargin: '0px' });
   const still = usePrefersReducedMotion();
-  const meshes = useRef<Map<number, Mesh>>(new Map());
-  const gl = useRef<RockRenderer | null | undefined>(undefined);
-  const state = useRef({ yaw: 0.6, pitch: 0.38, vy: 0, dragging: false, lastX: 0, lastY: 0 });
-  const props = useRef({ level, sun, look, smooth });
-  props.current = { level, sun, look, smooth };
+  const thumb = useThumb();
+  const gl = useRef<ModelRenderer | null | undefined>(undefined);
+  const model = useRef<Model | null>(null);
+  // Which level is on screen; the one asked for can still be on its way.
+  const [shown, setShown] = useState<number | null>(null);
+  const [failed, setFailed] = useState(false);
+  const [noGL, setNoGL] = useState(false);
+  const state = useRef({ yaw: 0.5, pitch: 0.16, vy: 0, dragging: false, lastX: 0, lastY: 0 });
+  const props = useRef({ sun, look, smooth });
+  props.current = { sun, look, smooth };
 
-  const mesh = useCallback((l: number) => {
-    let m = meshes.current.get(l);
-    if (!m) {
-      m = buildRock(l);
-      meshes.current.set(l, m);
-    }
-    return m;
-  }, []);
-
-  // WebGL2 when the browser has it; the flat-shaded 2D rock when it does not.
-  // The renderer is created once, on the first frame, and dropped with the stage.
+  // The renderer is created on the first frame and dropped with the stage.
   useEffect(
     () => () => {
       gl.current?.dispose();
@@ -124,34 +131,49 @@ function RockStage({ level, sun, look, smooth }: { level: number; sun: number; l
     if (!c) return;
     if (gl.current === undefined) {
       try {
-        gl.current = new RockRenderer(c);
+        gl.current = new ModelRenderer(c);
       } catch {
         gl.current = null;
+        setNoGL(true);
       }
     }
-    const { level: l, sun: s, look: k, smooth: sm } = props.current;
-    const view = { yaw: state.current.yaw, pitch: state.current.pitch, sun: s, look: k };
-    if (gl.current) {
-      gl.current.draw(l, { ...view, smooth: sm });
-      return;
-    }
-    const ctx = c.getContext('2d');
-    if (!ctx) return;
-    const w = c.clientWidth;
-    const h = c.clientHeight;
-    const dpr = Math.min(window.devicePixelRatio || 1, 2);
-    if (c.width !== Math.round(w * dpr) || c.height !== Math.round(h * dpr)) {
-      c.width = Math.round(w * dpr);
-      c.height = Math.round(h * dpr);
-    }
-    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    drawRock(ctx, mesh(l), w, h, view);
-  }, [mesh]);
+    if (!gl.current) return;
+    const { sun: s, look: k, smooth: sm } = props.current;
+    gl.current.draw(model.current, { yaw: state.current.yaw, pitch: state.current.pitch, sun: s, look: k, smooth: sm });
+  }, []);
+
+  // Swap in the level asked for once it has arrived; until then the last one stays up.
+  useEffect(() => {
+    let live = true;
+    setFailed(false);
+    level(want).then(
+      (m) => {
+        if (!live) return;
+        model.current = m;
+        setShown(want);
+        draw();
+      },
+      () => live && setFailed(true)
+    );
+    return () => {
+      live = false;
+    };
+  }, [want, draw]);
+
+  // Once something is on screen, fetch the lighter levels quietly so the
+  // slider answers at once. The heaviest waits until someone asks for it.
+  useEffect(() => {
+    if (shown === null) return;
+    const t = window.setTimeout(() => {
+      for (let i = 0; i < lab.detail.length - 1; i++) level(i).catch(() => {});
+    }, 1200);
+    return () => window.clearTimeout(t);
+  }, [shown]);
 
   // Redraw on any control change, even when nothing is animating.
   useEffect(() => {
     draw();
-  }, [level, sun, look, smooth, draw]);
+  }, [sun, look, smooth, draw]);
 
   useEffect(() => {
     const on = () => draw();
@@ -180,12 +202,21 @@ function RockStage({ level, sun, look, smooth }: { level: number; sun: number; l
     return () => cancelAnimationFrame(frame);
   }, [visible, still, draw]);
 
+  if (noGL) {
+    return (
+      <div className="absolute inset-0 flex flex-col items-center justify-center gap-3 p-6">
+        <img src={thumb(lab.detailStill)} alt="EVA-01, a finished render" className="max-h-[80%] max-w-full object-contain" />
+        <p className="vp-label text-[#D7E2EA]/50 text-center">This browser can't draw the 3D model, so here is a render of it.</p>
+      </div>
+    );
+  }
+
   return (
     <div ref={wrap} className="absolute inset-0">
       <canvas
         ref={canvas}
         data-cursor="Drag"
-        aria-label="A 3D rock you can turn by dragging"
+        aria-label="EVA-01, a 3D model you can turn by dragging"
         role="img"
         className="w-full h-full touch-pan-y cursor-grab active:cursor-grabbing"
         onPointerDown={(e) => {
@@ -205,12 +236,17 @@ function RockStage({ level, sun, look, smooth }: { level: number; sun: number; l
           s.lastY = e.clientY;
           s.yaw += dx * 0.01;
           s.vy = dx * 0.01;
-          s.pitch = Math.min(0.95, Math.max(-0.1, s.pitch + dy * 0.006));
+          s.pitch = Math.min(0.9, Math.max(-0.2, s.pitch + dy * 0.006));
           if (still) draw();
         }}
         onPointerUp={() => (state.current.dragging = false)}
         onPointerCancel={() => (state.current.dragging = false)}
       />
+      {shown !== want || failed ? (
+        <span className="absolute right-4 top-4 vp-label !text-[0.58rem] rounded-full bg-black/70 text-[#D7E2EA]/80 px-2.5 py-1 pointer-events-none">
+          {failed ? "Couldn't load this level" : 'Loading…'}
+        </span>
+      ) : null}
     </div>
   );
 }
@@ -375,7 +411,7 @@ export default function Lab() {
             }}
           >
             {tab === 'lines' ? <LinesStage pick={linePick} /> : null}
-            {tab === 'detail' ? <RockStage level={level} sun={(sun * Math.PI) / 180} look={look} smooth={smooth} /> : null}
+            {tab === 'detail' ? <ModelStage level={level} sun={(sun * Math.PI) / 180} look={look} smooth={smooth} /> : null}
             {tab === 'plan' ? <PlanStage pick={roomPick} inside={inside} /> : null}
 
             {tab === 'detail' ? (

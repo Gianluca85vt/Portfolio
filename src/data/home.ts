@@ -164,9 +164,9 @@ export const lab = {
         studio:
           'Triangle budgets, LODs and silhouette first: density goes where the camera looks and nowhere else. The light pass is what sells the form.',
         client:
-          'A model that looks great but stutters on a phone is a bad model. I build to where it will be seen: a far-off rock needs a handful of faces, a close-up needs thousands.',
+          'A model that looks great but stutters on a phone is a bad model. I build to where it will be seen: EVA-01 on the horizon needs a few hundred faces, filling the screen it needs a hundred thousand.',
       } satisfies Voiced,
-      hint: 'Drag the rock to turn it',
+      hint: 'Drag EVA-01 to turn it',
     },
     {
       id: 'plan',
@@ -197,14 +197,21 @@ export const lab = {
     { name: 'Studio with kitchen', plan: '/img/arch/stanza-singola-cucina-pianta.png', room: '/img/arch/stanza-singola-cucina.png' },
     { name: 'Small room', plan: '/img/arch/stanza-piccola-pianta.png', room: '/img/arch/stanza-piccola.jpg' },
   ],
-  /** How far away a rock this dense belongs. Distances, not platforms: they hold for any project. */
+  /**
+   * EVA-01 at five levels of detail, and how far from the camera each belongs.
+   * Distances, not platforms: they hold for any project. The files and the
+   * counts come from scripts/blender/detail_levels.py; the counts are what it
+   * printed, so they are the triangles actually drawn.
+   */
   detail: [
-    { faces: 20, fits: 'Seen from far away' },
-    { faces: 80, fits: 'In the background' },
-    { faces: 320, fits: 'In the middle distance' },
-    { faces: 1280, fits: 'Close to the camera' },
-    { faces: 5120, fits: 'A full-screen close-up' },
+    { faces: 500, fits: 'Seen from far away', src: '/models/eva01-0.bin.gz' },
+    { faces: 1999, fits: 'In the background', src: '/models/eva01-1.bin.gz' },
+    { faces: 8000, fits: 'In the middle distance', src: '/models/eva01-2.bin.gz' },
+    { faces: 31999, fits: 'Close to the camera', src: '/models/eva01-3.bin.gz' },
+    { faces: 128000, fits: 'A full-screen close-up', src: '/models/eva01-4.bin.gz' },
   ],
+  /** Shown instead when the browser can't draw the model. */
+  detailStill: '/img/3d/eva01.jpg',
 };
 
 export const aboutLead = {

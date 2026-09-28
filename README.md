@@ -180,7 +180,7 @@ La home è un'unica isola React, `src/components/HomePage.tsx`, composta dai fil
 | What I do (`#skills`) | `Disciplines.tsx` | Le sei `services`, con anteprime al passaggio e link alla sezione giusta |
 | Work (`#work`) | `Work.tsx` + `WorkSpace.tsx` + `Lightbox.tsx` | Concept, 3D e architettura filtrabili, in una "stanza" 3D a gravità zero (si gira trascinando, con le frecce o la mappa; dietro le immagini sono più scure e sfocate) o in griglia; vista valori / due toni; viewer con gli strumenti da art director e la line art originale dove c'è. Chiudendo il viewer la stanza si gira sull'ultima immagine vista |
 | Showreel (`#showreel`) | `Showreel.tsx` | Player + timeline a tracce (real-time, animazione, motion design) con puntina trascinabile |
-| Try the job (`#lab`) | `Lab.tsx` + `rock-gl.ts` | Line art → colore, budget di triangoli su un sasso in WebGL (flat/smooth, roccia e muschio; `rock.ts` è il ripiego 2D), pianta → stanza |
+| Try the job (`#lab`) | `Lab.tsx` + `model-gl.ts` | Line art → colore, budget di triangoli sull'EVA-01 in WebGL (5 livelli da `public/models/`, wireframe/clay/colore in cel shading, flat/smooth; senza WebGL2 mostra un render), pianta → stanza |
 | About (`#about`), Direction (`#direction`) | `About.tsx` | Bio, numeri, CV; art direction e strumenti |
 | AI (`#ai`) | `Ai.tsx` | Pipeline: dove aiuta il modello e dove decido io |
 | Blog (`#blog`) | `Blog.tsx` | Ultimi quattro articoli di Backdrop |
@@ -210,6 +210,19 @@ blender -b scena.blend --python scripts/blender/portfolio_passes.py -- --out ~/D
 Oppure da Blender: Scripting → Open → Run Script (scrive in `portfolio-export/` accanto al
 file). Le opzioni (`--only`, `--objects`, `--max-mb`, `--texture`, `--wire-subdiv`,
 `--turntable`, …) sono descritte in testa allo script.
+
+Il modello del laboratorio "Detail budget" viene da `scripts/blender/detail_levels.py`: prende
+un FBX/GLB/OBJ (o la scena aperta), unisce le mesh, lo decima dalla risoluzione piena a ogni
+conteggio di triangoli e scrive un file compatto per livello (`<nome>-<n>.bin.gz`: posizioni a
+16 bit, normali, indice colore dai materiali). Alla fine stampa i triangoli di ogni livello, da
+copiare in `lab.detail` in `src/data/home.ts`. Per l'EVA-01:
+
+```sh
+blender -b --python scripts/blender/detail_levels.py -- eva_01.fbx --out public/models --name eva01 --front +x
+```
+
+`--front` dice da che parte guarda il modello nel file; `--levels` e `--smooth-angle` sono
+descritti in testa allo script.
 
 La testa della home ha anche una versione wireframe (`rotazione faccia wire.mp4`), generata
 da `scripts/wire-head.mjs` a partire dal video: una mesh ricostruita fotogramma per
