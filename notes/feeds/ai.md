@@ -1,8 +1,11 @@
-# AI — harvested 2026-09-28T11:13:53.104Z
+# AI — harvested 2026-09-28T20:13:46.031Z
 
 ## OpenAI
 
-_Nothing in the last 48 hours._
+### The Lenfest Institute grows landmark program with expanded OpenAI support
+Mon, 28 Sep 2026 07:00:00 GMT — https://openai.com/index/lenfest-ai-collaborative-expansion
+
+OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.
 
 ## Hugging Face
 

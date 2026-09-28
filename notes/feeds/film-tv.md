@@ -1,176 +1,206 @@
-# Film & TV — harvested 2026-09-28T11:13:53.104Z
+# Film & TV — harvested 2026-09-28T20:13:46.031Z
 
 ## Variety
 
-### International Oscar Submissions: Italy, France, Spain, Poland, Indonesia and More Join the List
-Mon, 28 Sep 2026 09:57:36 +0000 — https://variety.com/lists/international-oscar-submissions-2027/
+### James H. Rosenfield, Sr., Former Executive VP of CBS Broadcast Group, Dies at 97
+Mon, 28 Sep 2026 20:11:06 +0000 — https://variety.com/2026/tv/news/james-rosenfield-dead-cbs-1236877582/
 
-The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed [ ]
+James H. Rosenfield, Sr., a former top CBS executive who helped build the network into a cultural powerhouse, died Sept. 26. He was 97. Rosenfield spent two decades at CBS, during the years that brought programs like “All in the Family,” “M*A*S*H” and “60 Minutes.” Rosenfield was born July 18, 1929, in Boston. He attended [ ]
 
-### Florence Pugh Speaks Out Over Cornell University Sexual Assault Case: We Need Our Men to Be as Horrified and Sickened as Us
-Mon, 28 Sep 2026 09:10:30 +0000 — https://variety.com/2026/film/global/florence-pugh-cornell-university-sexual-assault-case-1236877220/
+### Paramount and States Defend Antitrust Settlement From Sen. Booker s Criticisms
+Mon, 28 Sep 2026 20:07:54 +0000 — https://variety.com/2026/film/news/paramount-settlement-cory-booker-response-1236877590/
 
-Florence Pugh has posted a lengthy statement on social media in response to a controversy that has erupted at Cornell University over an alleged sexual assault incident that took place two years ago. Last week, news broke that a former Cornell student had accused seven men of raping and drugging her at a frat house [ ]
+Paramount and a coalition of 12 state attorneys general defended their antitrust settlement on Monday from a series of criticisms raised last week by New Jersey Sen. Cory Booker. In separate filings, the two sides argued that the deal was vigorously negotiated, has teeth, and should not be subjected to an independent public interest review. [ ]
 
-### Banijay Entertainment, Combining All3 Media, Unveils Milestone Mipcom 2026 Lineup, Bowing ’Reputation,’ ‘Date Knight’ and a Formidable Format Franchise Offer (EXCLUSIVE)
-Mon, 28 Sep 2026 08:34:21 +0000 — https://variety.com/2026/tv/global/banijay-entertainment-unveils-milestone-mipcom-2026-lineup-1236877216/
+### Julianne Moore to Receive Icon Award at SCAD Savannah Film Festival With The Debut Set as Centerpiece Selection
+Mon, 28 Sep 2026 20:00:00 +0000 — https://variety.com/2026/film/news/the-debut-scad-centerpiece-julianne-moore-honor-1236877183/
 
-Harnessing its might with a merged All3 Media for the first time at a market, Banijay Entertainment hits Mipcom 2026 with the biggest presence of any company in the world, with its stand in front of the steps of the Palais des Festivals now rebaptized Banijay House, and a formidable combined lineup. One example of [ ]
+The Savannah College of Art and Design will present Julianne Moore with the Icon Award at the SCAD Savannah Film Festival, as it sets her film “The Dead Donkey,” Jesse Eisenberg s musical comedy from A24, as the Centerpiece selection. The news comes following the announcement that SCAD will open with Bleecker Street s “A Talent for [ ]
 
-### China Box Office: Avengers: Endgame Encore Tops Pre-Holiday Weekend
-Mon, 28 Sep 2026 05:43:15 +0000 — https://variety.com/2026/film/box-office/china-box-office-avengers-endgame-encore-1236877185/
+### Bob Chapek Still Feels Let Down by Bob Iger and Disney: They ve Attempted to Erase Me
+Mon, 28 Sep 2026 19:45:16 +0000 — https://variety.com/2026/biz/news/bob-chapek-book-interview-iger-disney-disappointment-1236877387/
 
-Marvel Studios Avengers: Endgame Encore claimed the top spot at the mainland China box office during the Sept. 25–27 frame, grossing RMB83.8 million ($12.5 million) over the weekend, according to Artisan Gateway. The Marvel epic s cumulative lifetime haul in China is now $647.8 million. Dirty Monkeys’ war comedy-drama Once Upon a Time in the Middle [ ]
+When Bob Chapek assumed the helm of the Disney empire in February 2020 as Bob Iger’s personally picked successor, it felt like the well-earned pinnacle of decades of hard work at the Magic Kingdom. But in less than three years, Chapek’s dream was destroyed: He was abruptly dismissed in November 2022, and Iger returned as [ ]
 
-### Taylor Swift Premieres Patient Zero Music Video at VMAs, Turning Her New Showgirl: Encore Single Into a Dramatic Ghost Story
-Mon, 28 Sep 2026 01:55:42 +0000 — https://variety.com/2026/music/news/taylor-swift-vmas-patient-zero-music-video-premiere-1236876944/
+### Disney and Columbia Sportswear Expand Partnership With Mickey Mouse Outdoor Club Collection : Shop the Full Lineup Here
+Mon, 28 Sep 2026 19:27:14 +0000 — https://variety.com/2026/shopping/news/disney-columbia-sportswear-mickey-mouse-collection-shop-1236877627/
 
-It s a love story? Hardly — it s a ghost story. Taylor Swift brought her Patient Zero music video to the MTV Video Music Awards Sunday night for its official world premiere, following up the release of the single at the beginning of the weekend with visuals that take the triangle in the song into more [ ]
+Mickey Mouse is heading to the trail in a new collection from Columbia Sportswear. Disney has teamed up with the outerwear company for “Mickey’s Outdoor Club” collection, a lineup of fleece, rainwear, T-shirts and accessories inspired by a classic family road trip, according to the brand. The collaboration launches Sept. 29 for Columbia Greater Rewards [ ]
 
-### Korea Box Office: The Assassin(s) and Tazza 4 Dominate Chuseok Holiday Weekend Surge
-Mon, 28 Sep 2026 01:23:59 +0000 — https://variety.com/2026/film/box-office/korea-box-office-the-assassins-tazza-4-chuseok-holiday-weekend-1236877125/
+### The Best Celebrity Memoirs of 2026: Sylvester Stallone, Ari Emmanuel, Lena Dunham and More
+Mon, 28 Sep 2026 19:15:12 +0000 — https://variety.com/feature/best-memoirs-celebrity-hollywood-1235052681/
 
-Director Hur Jin-ho s political crime thriller The Assassin(s) powered to the top of the South Korean box office over the weekend of Sep. 25–27, leading a major holiday box office surge across the peak Chuseok festival frame. According to data from KOBIS, the tracking service operated by the Korean Film Council, the newly opened local [ ]
+The memoir has become a new rite of passage for Hollywood stars, who have turned to the medium as a way to tell their stories in their own words, often for the first time ever. One of the most anticipated memoirs this year is Sylvester Stallone s The Steps, in which the beloved actor looks back [ ]
 
-### Kacey Musgraves Pays Heartfelt Tribute to Dolly Parton With I Will Always Love You Performance at MTV Video Music Awards
-Mon, 28 Sep 2026 00:38:08 +0000 — https://variety.com/2026/music/awards/kacey-musgraves-dolly-parton-tribute-mtv-vmas-performance-1236876461/
+### Reacher Renewed for Season 6 Ahead of Season 5 Premiere
+Mon, 28 Sep 2026 19:15:00 +0000 — https://variety.com/2026/tv/news/reacher-renewed-season-6-season-5-premiere-1236877515/
 
-Kacey Musgraves led a touching tribute to Dolly Parton at the MTV Video Music Awards 2026, honoring the late country icon just a month after her death with a rendition of I Will Always Love You. The pre-taped performance began with footage of Parton introducing the classic 1974 tune. I d like to leave you fellas [ ]
+Reacher continues its win streak at Amazon, with Prime Video renewing the action series for a sixth season while Season 5 is still in production. The series, which stars Alan Ritchson in the title role, has been a consistent hit for Amazon since it originally launched in 2022. Amazon says that Season 4 of Reacher [ ]
 
-### Madonna Opens MTV Video Music Awards With Sabrina Carpenter and Charli xcx, Plus Sombr, Debi Mazar and More
-Mon, 28 Sep 2026 00:16:21 +0000 — https://variety.com/2026/music/awards/madonna-sabrina-carpenter-charli-xcx-mtv-vmas-performance-1236876448/
+### Victor Glover, First Black Astronaut to Fly to the Moon, Signs With CAA
+Mon, 28 Sep 2026 18:40:52 +0000 — https://variety.com/2026/biz/news/caa-victor-glover-first-black-astronaut-moon-1236875875/
 
-Madonna performed for the first time in 23 years at the MTV VMAs on Sunday, opening the show by bringing out special guests Sabrina Carpenter and Charli xcx to perform their respective duets. After a 20-minute telecast delay due to the NFL game, the pop icon began her performance perched on the top of a [ ]
+CAA has signed emeritus astronaut Victor Glover for representation in all areas. Glover is a retired U.S. Navy captain and NASA astronaut who made history several times during his career as a space explorer. In 2020, Glover piloted the first operational flight of SpaceX s Crew Dragon spacecraft, Resilience, to the International Space Station. On this [ ]
 
-### ‘Roseanne’ Star Michael Fishman Apologizes to Fans for the ‘Chaos’ of Roseanne Barr Feud: ‘I’m Gonna Keep Pushing Out Love’
-Mon, 28 Sep 2026 00:14:42 +0000 — https://variety.com/2026/tv/news/roseanne-barr-michael-fishman-apologizes-for-feud-1236877099/
+### Kristen Stewart, Riley Keough and Wagner Moura to Star in Olivier Assayas Next Film Spiritual World
+Mon, 28 Sep 2026 18:34:58 +0000 — https://variety.com/2026/film/global/kristen-stewart-riley-keough-olivier-assayas-spiritual-world-1236877487/
 
-Michael Fishman, who played D.J. Conner on the ABC sitcom “Roseanne,” has taken to social media after making headlines for feuding with his former co-star Roseanne Barr earlier this month. In August, Fishman said that the show’s 2018 reboot “was rightfully canceled” after Barr posted a racist tweet, to which Barr responded that Fishman was [ ]
+French director Olivier Assayas ( The Wizard of the Kremlin ) has set his next movie, Spiritual World, with a starry cast including Kristen Stewart, Vicky Krieps, Riley Keough and Wagner Moura. The movie reunites Assayas with Stewart who won a Cesar Award for best supporting actress for her role opposite Juliette Binoche in his 2015 film [ ]
 
-### VMAs 2026 Full Winners List: Taylor Swift Takes Video of the Year, Lisa Gets Best Pop, Madonna Tops Multiple Categories and More
-Sun, 27 Sep 2026 23:58:17 +0000 — https://variety.com/2026/music/news/vmas-winners-list-mtv-awards-2026-show-1236876862/
+### Matt Groening on the Future of Futurama as the Series Gets Another Finale: We Will Rise Again (EXCLUSIVE)
+Mon, 28 Sep 2026 18:30:00 +0000 — https://variety.com/2026/tv/news/matt-groening-futurama-season-14-finale-future-1236877180/
 
-The 2026 MTV Video Music Awards brought the industry s biggest stars together to jockey for awards. The ceremony took place at the Peacock Theater in L.A., and Snoop Dogg was the host for the night. Outside of the normal nominations, Nirvana received the Michael Jackson video vanguard award, and Taylor Swift won the first artist [ ]
+“Futurama” is over. Long live “Futurama!” As the long-running animated series wraps its Season 14 Monday on Hulu, there are no further plans at the moment for it to return as a regular series. (However, three supersized Hulu specials are still to come). But given how often the Matt Groening animated comedy has wrapped — [ ]
 
 ## The Hollywood Reporter
 
-### MTV Video Music Awards: Taylor Swift s Record, Madonna s Domination, Snoop Dogg s Dig, and More Memorable Moments
-Mon, 28 Sep 2026 05:27:35 +0000 — https://www.hollywoodreporter.com/music/music-news/2026-mtv-vmas-best-moments-1236713378/
+### Tulsa King Season 4 Trailer Released: Bad Things Are Going to Happen
+Mon, 28 Sep 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tulsa-king-season-4-trailer-release-date-1236713552/
 
-From performances to tributes, a roundup of the show's highlights.
+Sylvester Stallone returns in Paramount+'s fourth season of 'Tulsa King.'
 
-### NAZA Premieres in the U.S., Seeking Change and Stoking Controversy
-Mon, 28 Sep 2026 04:49:23 +0000 — https://www.hollywoodreporter.com/news/politics-news/naza-premieres-united-states-theaters-release-date-1236713360/
+### Richard Linklater Gives Major Merrily We Roll Along Update
+Mon, 28 Sep 2026 19:55:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/richard-linklater-merrily-we-roll-along-film-update-zurich-1236713752/
 
-The Israeli-army whistleblower doc arrives on these shores via the NYFF, leaving a cloud of explosive smoke in its wake.
+The director provided a Zurich Film Festival audience with a "progress report" on the movie — currently shooting across 20 years with Paul Mescal, Ben Platt and Beanie Feldstein — and explained why he isn't worried about "tempting fate."
 
-### MTV Video Music Awards: Seven Things You Didn t See on TV
-Mon, 28 Sep 2026 03:40:51 +0000 — https://www.hollywoodreporter.com/music/music-news/2026-mtv-vmas-what-you-didnt-see-on-tv-1236713341/
+### Reacher Scores Season 6 Renewal at Prime Video
+Mon, 28 Sep 2026 19:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/reacher-renewed-season-6-prime-video-1236713657/
 
-Taylor Swift and Madonna caught up during a commercial break, while Lisa celebrated after her performance.
+The show keeps up its string of early pickups, with the latest coming soon after the fourth season finale.
 
-### Surprise Adam Lambert Performance Caps Hit-Filled George Michael Tribute at 2026 VMAs
-Mon, 28 Sep 2026 03:26:30 +0000 — https://www.hollywoodreporter.com/music/music-news/adam-lambert-george-michael-tribute-2026-mtv-vmas-1236713332/
+### Chuck Lorre on Paramount-Warner Bros. Merger, New Memoir and Fear Being a Great Motivator for The Big Bang Theory Spin-Off
+Mon, 28 Sep 2026 19:07:26 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chuck-lorre-interview-memoir-sitcom-1236713241/
 
-Raye, Sombr and Teddy Swims took the stage to cover some of the biggest hits from the "Faith" singer, who died in 2016.
+The superproducer and prolific philanthropist dishes on his new tome, 'Sitcom': "I thought I was going to write this book and reveal where all the skeletons are buried. It turns out most of them are mine."
 
-### Taylor Swift Wins Video of the Year at 2026 MTV VMAs, Extends Her Record
-Mon, 28 Sep 2026 02:51:38 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-extends-record-mtv-vmas-win-1236713296/
+### Heil Jupiter! Review: Mexican Arthouse Auteur Carlos Reygadas Takes a Beguiling Cinematic Trip to Nowhere
+Mon, 28 Sep 2026 18:45:14 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/heil-jupiter-review-carlos-reygadas-1236713462/
 
-The Grammy winner dedicated her win to late singer Dolly Parton.
+The latest feature from the director of 'Silent Light' and 'Post Tenebras Lux' was shot across several continents in different languages, including one invented for the film.
 
-### 2026 VMAS: The Night s Most Talked-About Style
-Mon, 28 Sep 2026 02:35:54 +0000 — https://www.hollywoodreporter.com/lifestyle/style/2026-vmas-nights-most-talked-about-style-1236713059/
+### Florence Pugh Speaks Out on Cornell Rape Case, Calls Out Instagram for Censoring Her Social Media Post
+Mon, 28 Sep 2026 18:41:24 +0000 — https://www.hollywoodreporter.com/news/general-news/florence-pugh-speaks-out-cornell-rape-case-1236713592/
 
-From thoroughly stunning to overtly sexy and beyond, we're spotlighting 10 looks that lit up social media on MTV's biggest night.
+"This is really the moment where we need our men to be as horrified and as sickened as us," the actress wrote.
 
-### Off Campus Stars Ella Bright and Belmont Cameli Present at 2026 MTV VMAs
-Mon, 28 Sep 2026 02:33:29 +0000 — https://www.hollywoodreporter.com/tv/tv-news/off-campus-ella-bright-belmont-cameli-present-2026-mtv-vmas-1236713244/
+### Street Fighter Filmmaker Kitao Sakurai, Netflix s Jinny Howe and Women of The Pitt Set as Honorees for Milestone CAPE Gala
+Mon, 28 Sep 2026 18:24:00 +0000 — https://www.hollywoodreporter.com/news/general-news/cape-anniversary-gala-2026-honorees-presenters-1236713636/
 
-The actors have been filming season two of the hit Prime Video series all summer.
+Presented by Lexus, the Oct. 3 gala will also honor actor Ben Wang and Walt Disney Animation Studios' Kalikolehua Hurley and feature presenters Auliʻi Cravalho, Nisha Ganatra, Ali Ahn, Sherry Cola, Lilly Singh and Callina Liang.
 
-### MTV Video Music Awards: Taylor Swift Wins Video of the Year, Madonna Nabs Seven Trophies
-Mon, 28 Sep 2026 02:21:00 +0000 — https://www.hollywoodreporter.com/lists/mtv-vmas-2026-winners-list/
+### Lindsay Lohan to Star in Netflix Romance Return to You for Mean Girls Director Mark Waters
+Mon, 28 Sep 2026 17:46:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lindsay-lohan-henry-golding-netflix-return-to-you-waters-1236713643/
 
-Madonna scooped up three awards during the on-air portion of the ceremony, hosted by Snoop Dogg .
+Henry Golding will also lead the film that has a script from Eric Champnella.
 
-### Taylor Swift at the 2026 MTV VMAs: Pop s Biggest Star Accepts Top Prize and Inaugural Honor, Debuts Patient Zero Music Video
-Mon, 28 Sep 2026 02:08:16 +0000 — https://www.hollywoodreporter.com/music/music-news/taylor-swift-2026-mtv-vmas-artist-director-patient-zero-1236713216/
+### Strap-On and All, Rose Puts Sandra Hüller Back in the Oscar Conversation
+Mon, 28 Sep 2026 17:20:50 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sandra-huller-rose-strap-on-oscar-interview-1236713523/
 
-The superstar singer-songwriter recently released a special edition of her 'Life of a Showgirl' album, 'The Life of a Showgirl: Encore Edition.'
+“It’s part of her personal freedom that she doesn’t tell,” the actress says of her character’s elusive identity. She and director Markus Schleinzer discuss the secrets, sex and survival behind their acclaimed period drama.
 
-### Snoop Dogg Pokes Fun at Madonna in VMAs Monologue: She Ain t a Virgin No More
-Mon, 28 Sep 2026 02:03:22 +0000 — https://www.hollywoodreporter.com/music/music-news/snoop-dogg-mtv-vmas-2026-host-highlights-best-moments-1236713193/
+### Neil Patrick Harris, Julianne Hough, Austin Scott to Return to Broadway in Damn Yankees
+Mon, 28 Sep 2026 16:56:35 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/neil-patrick-harris-julianne-hough-austin-scott-damn-yankees-1236713604/
 
-The “Drop It Like It's Hot” rapper hosted the 2026 awards ceremony on Sunday.
+This is the first Broadway revival of Damn Yankees in more than 30 years.
 
 ## Deadline
 
-### Ludwig Becomes Most-Watched UK Scripted Show Of The Year
-Mon, 28 Sep 2026 10:35:08 +0000 — https://deadline.com/2026/09/bbc-ludwig-most-watched-drama-2026-so-far-david-mitchell-1237115104/
+### Tulsa King Season 4 Trailer: Sylvester Stallone s Dwight Warns Bad Things Are Going To Happen
+Mon, 28 Sep 2026 20:00:00 +0000 — https://deadline.com/2026/09/tulsa-king-season-4-trailer-sylvester-stallone-gretchen-mol-1237115475/
 
-BBC and BritBox comedy-drama Ludwig has gone from strength to strength as it becomes the UK s most-watched scripted launch of the year so far. The first ep of Season 2, which wrapped last week, has now been watched by an audience of 9.1 million, according to Barb data from overnights.tv. The BBC was celebrating the [ ]
+Thing happen, they change the course of a man s life, says Sylvester Stallone s Dwight at the opening of the Season 4 trailer for Tulsa King. If I find out whose fault this is, bad things are gonna happen to bad people, warns the beaten-down Dwight. Per the Season 4 logline, Dwight (Stallone) fights to legitimize [ ]
 
-### VMI Worldwide Partners With Empire Studios, Rascal Entertainment Green 13 On Survival Thriller ‘Snow Predator’
-Mon, 28 Sep 2026 10:25:43 +0000 — https://deadline.com/2026/09/vmi-worldwide-snow-predator-1237115099/
+### Dane Cook s Funny Money : How Comedian Seized His Empire Strikes Back Moment After A Stunning Family Betrayal The Deadline Q A
+Mon, 28 Sep 2026 19:45:00 +0000 — https://deadline.com/2026/09/dane-cook-funny-money-interview-darryl-mccauley-1237102069/
 
-EXCLUSIVE: Empire Studios, Rascal Entertainment, Green 13 Films and VMI Worldwide have partnered on Snow Predator, a survival thriller directed by Coz Greenop. The film has been written by Charley McDougall and is currently shooting at Shinfield Studios in the UK. The film stars Daniel Stisen, Eloise Lovell Anderson, Jason Flemyng, Genevieve Chenneour, Jack McEvoy, [ ]
+In comedian Dane Cook s mind, some people brighten up a room by leaving it. That s certainly been true in his case, considering the devastating personal lows that have come intertwined with dizzying career highs. From a middle-class Massachusetts family, Cook first took the mic in Boston as a teenager, skyrocketing to fame by the mid [ ]
 
-### HLD Talent Signs Content Creator Heather Bowling
-Mon, 28 Sep 2026 09:28:43 +0000 — https://deadline.com/2026/09/hld-talent-signs-heather-bowling-1237113705/
+### Blue State AGs Side With Paramount Scolding Sen. Cory Booker Over Settlement Opposition: A Negotiated Agreement Includes Compromises On Behalf Of All Of The Parties Involved
+Mon, 28 Sep 2026 19:31:14 +0000 — https://deadline.com/2026/09/paramount-antitrust-suit-settlement-reaction-1237115465/
 
-EXCLUSIVE: GK Barry agency HLD Talent has signed content creator and By Babes co-founder Heather Bowling. The social media star, business owner and neurodiversity advocate is joining up with the likes of Barry, Mariam Musa and Shakira Khan at the London-based HLD, which is lead by creators agent Hannah Holland. She is known as a [ ]
+Paramount and Warner Bros Discovery, plus a dozen blue states, want Cory Booker to stay in his own lane when it comes to the antitrust settlement over the companies $111 billion mega-merger. The fact that a proposed consent decree does not contain every outcome that one party may have wanted in a multilateral negotiation does [ ]
 
-### Harry Potter Producer David Barron Backs AI Adaptation Of The Call Of The Wild
-Mon, 28 Sep 2026 08:35:27 +0000 — https://deadline.com/2026/09/harry-potter-david-barron-backs-ai-the-call-of-the-wild-1237115076/
+### James H. Rosenfield Sr. Dies: Former Executive Vice President Of CBS Broadcast Group Was 97
+Mon, 28 Sep 2026 19:20:07 +0000 — https://deadline.com/2026/09/james-rosenfield-dead-cbs-executive-1237115490/
 
-EXCLUSIVE: David Barron, the British film producer with credits on six Harry Potter films, is entering the generative artificial intelligence space. Barron has agreed to produce an AI adaptation of Jack London s 1903 novel The Call of the Wild, which is written and directed by Simon Rumley (Crushed, Red White Blue). The film will be generated [ ]
+James H. Rosenfield Sr., the longtime media executive and former executive vice president of CBS Broadcast Group, died on September 26. He was 97. Rosenfield rose from an account executive in television network sales to President of the CBS Television Network and ultimately Executive Vice President of the CBS Broadcast Group, with responsibility for the [ ]
 
-### Lightdox Acquires Rights To ‘My Home Of Wind And Sand’ Before Zurich Film Festival World Premiere
-Mon, 28 Sep 2026 08:15:15 +0000 — https://deadline.com/2026/09/my-home-of-wind-and-sand-lightdox-sales-acquisition-1237115070/
+### Reacher Gets Early Season 6 Renewal Shortly After Season 4 Wraps With 66M Viewers In 28 Days
+Mon, 28 Sep 2026 19:15:07 +0000 — https://deadline.com/2026/09/reacher-renewed-season-6-alan-ritchson-season-4-viewership-1237115444/
 
-EXCLUSIVE: Lightdox has acquired world sales rights to the documentary My Home of Wind and Sand ahead of its world premiere Tuesday at the Zurich Film Festival. Filmmaker Patrick Wally spent over a decade on his film, a portrait of women’s rights, human rights and climate activist Najla Mohamed Lamin, who was born in a [ ]
+Prime Video is picking up the pace on its Reacher renewals, handing its flagship drama starring Alan Ritchson a Season 6 pickup just 12 days after the Season 4 finale and four months after the early Season 5 order the first time the show has received two renewals in the same year. The expediency [ ]
 
-### ‘The Assassin(s)’ Tops Korea’s Chuseok Holiday Box Office With 1.5 Million Admissions
-Mon, 28 Sep 2026 05:51:36 +0000 — https://deadline.com/2026/09/lee-min-ho-the-assassins-chuseok-holiday-box-office-korea-1237115024/
+### ASIFA-Showcase Set For November, New FYC Event From Annie Awards Group
+Mon, 28 Sep 2026 18:09:58 +0000 — https://deadline.com/2026/09/animation-showcase-asifa-hollywood-fyc-event-1237115446/
 
-Hur Jin-ho’s historical thriller The Assassin(s) topped the Korean box office over the Chuseok holiday weekend pulling in more than 1.5 million admissions since its release on September 23. Fresh from its world premiere at Toronto International Film Festival, the film has grossed $11.3M (KRW15.3BN) from 1,546,614 admissions over the first five days of release, [ ]
+As we draw closer to another awards season, ASIFA-Hollywood has penciled in a new FYC campaign. The group behind the Annie Awards has revealed ASIFA-Showcase, a two-day event of screenings, panels and presentations set for next month in Los Angeles. Billed as bringing together some of the biggest names in animation, ASIFA-Showcase runs November 14-15 [ ]
 
-### Wrestler Benjamin Satterley Dies One Day After Match: AEW Star Known As Pac Was 40
-Mon, 28 Sep 2026 03:29:48 +0000 — https://deadline.com/2026/09/benjamin-satterley-dead-aew-wrestler-pac-1237115047/
+### Netflix s Women Like Us Adds Nine To Cast
+Mon, 28 Sep 2026 18:00:00 +0000 — https://deadline.com/2026/09/women-like-us-netflix-movie-adds-nine-cast-1237115299/
 
-Benjamin Satterley, the high-flying champion wrestler known variously to AEW and WWE fans as Pac, Bastard, Adrian Neville and Neville, has died. That, according to an announcement from All Elite Wrestling. He was 40. Details surrounding his passing are unclear. Pac was featured at AEW s All Out pay-per-view from Chicago on Saturday night. He challenged [ ]
+EXCLUSIVE: Women Like Us, the Netflix film from the Obamas Higher Ground and Charles D. King s Macro Film Studios, has rounded out its cast with nine additions: Greg Tarzan Davis (Top Gun), Melanie Liburd (Bad Boys: Ride or Die), Harry Lennix (The Blacklist), Joy Bryant (Parenthood), Danielle Pinnock (Ghosts), Dewayne Perkins (The Studio), six-time Grammy [ ]
 
-### MTV VMAs 2026 Winners List: Madonna Dominates, Taylor Swift Wins Special Honor
-Mon, 28 Sep 2026 02:41:25 +0000 — https://deadline.com/2026/09/mtv-vmas-2026-winners-list-1237115040/
+### Dan Trachtenberg Developing Original Pic Inspired By Sleeping Beauty At Disney
+Mon, 28 Sep 2026 17:30:00 +0000 — https://deadline.com/2026/09/dan-trachtenberg-sleeping-beauty-disney-1237115289/
 
-It was like 1998 all over again. Madonna won six Video Music Awards that year for Ray of Light. Flash forward to tonight, and the pop icon won seven awards, including Artist of the Year, for Confessions II, the sequel to her 2005 album. Also winning were Sabrina Carpenter for Best Editing and for her [ ]
+EXCLUSIVE: After breathing new life into the Predator franchise at 20th Century, Dan Trachtenberg and Disney have found another property on which to give a fresh spin. Sources tell Deadline the Prey director is coming on to direct an original idea inspired by the classic Disney tale Sleeping Beauty. The untitled project is in early [ ]
 
-### MTV VMAs: Taylor Swift Dedicates Video Of The Year Award To Dolly Parton The Ultimate Showgirl
-Mon, 28 Sep 2026 02:32:03 +0000 — https://deadline.com/2026/09/taylor-swift-video-of-the-year-award-dolly-parton-vmas-1237115037/
+### Resident Evil Producer Carter Swan Developing Keenspot Comic Book The Crying Boy For Film
+Mon, 28 Sep 2026 17:12:07 +0000 — https://deadline.com/2026/09/the-crying-boy-movie-resident-evil-producer-carter-swan-1237115414/
 
-Taylor Swift won the night s top award at the MTV Video Music Awards, taking home a Moonperson trophy for Video of the Year for The Fate of Ophelia. Swift took the stage to accept the award and said she was proud of the work she did on the video, as it was one continuous shot [ ]
+EXCLUSIVE: As Zach Cregger s Resident Evil prepares to cross $200M at the worldwide box office, the film s producer Carter Swan has a new project to announce — a film adaptation of the Keenspot comic book series The Crying Boy by Niall O Rourke Rob Moran. Published in 2024, The Crying Boy follows a grieving widow [ ]
 
-### Lanterns Stars Kyle Chandler Aaron Pierre On Going Deeper Into Hal s Psyche And The Jordan Boys Legacy
-Mon, 28 Sep 2026 02:00:00 +0000 — https://deadline.com/2026/09/lanterns-penultimate-episode-7-kyle-chandler-aaron-pierre-1237111645/
+### Comedian Chris Hardwick Going Back To The Middle Ages In Third Stand-Up Special
+Mon, 28 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/chris-hardwick-new-comedy-special-premiere-date-middle-ages-1237113910/
 
-SPOILER ALERT! This post contains details from the penultimate episode of HBO s Lanterns. HBO s Lanterns gave audiences, and John Stewart (Aaron Pierre), a much deeper understanding of Hal Jordan (Kyle Chandler) in the penultimate episode of the DC series on Sunday night. The episode opens with a flashback to 1975, when Hal gets in trouble [ ]
+EXCLUSIVE: Comedian Chris Hardwick has announced that The Middle Ages — his third stand-up special and first in a decade — will premiere on Gorilla Comedy+ on October 5. It ll then be unveiled on 800 Pound Gorilla s YouTube channel at 7 p.m. CT. on October 20. In The Middle Ages, Hardwick takes on middle age, [ ]
 
-### Taylor Swift s Patient Zero Music Video Drops: Watch It On Apple Music, Amazon Music Or Spotify
-Mon, 28 Sep 2026 01:52:47 +0000 — https://deadline.com/2026/09/taylor-swift-patient-zero-music-video-1237112373/
+### Lindsay Lohan Henry Golding To Lead Netflix Romantic Feature Return To You From Director Mark Waters
+Mon, 28 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/lindsay-lohan-henry-golding-cast-netflix-film-return-to-you-1237115284/
 
-UPDATED with video: The music video for Taylor Swift s new song “Patient Zero” made its world premiere during the MTV Video Music Awards tonight on CBS and MTV. A teaser clip of the video dropped Thursday, when news of Sunday s full video fleshed out the storyline hinted at in the teaser released Thursday: Swift and [ ]
+EXCLUSIVE: Lindsay Lohan (Mean Girls, Freaky Friday) is set to produce and star in the new Netflix romantic feature Return to You, starring opposite Henry Golding (Crazy Rich Asians, Last Christmas). Mark Waters, who directed Lohan in Freaky Friday and Mean Girls, will direct Return to You. She will also re-team with Brad Krevoy, producer [ ]
 
-### ‘Your Mother Your Mother Your Mother’ Starts Strong, Eyes ‘American Fiction’-Style Rollout Specialty Box Office
-Sun, 27 Sep 2026 21:19:13 +0000 — https://deadline.com/2026/09/indie-film-box-office-your-mother-mahershala-ali-amazon-mgm-1237114796/
+### Ben Hardy To Lead Prime Video s Stillwater As Daniel West
+Mon, 28 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/ben-hardy-stillwater-prime-video-series-1237115379/
 
-Bassam Tariq’s Mahershala Ali-starring TIFF favorite Your Mother Your Mother Your Mother had a strong limited opening as distributor Amazon MGM launched the awards contender into a platform release hewing to the path of American Fiction.. Also this weekend, A History of Concrete had a terrific expansion, as did If I Go Will They Miss [ ]
+Ben Hardy (Bohemian Rhapsody, X-Men: Apocalypse) has been cast in the leading role of Daniel West in the upcoming Prime Video series Stillwater, from Berlanti Productions, Warner Bros. Television and Skybound Entertainment. The series is based on the Skybound graphic novel by Chip Zdarsky and Ramón K Pérez. Stillwater is a mind-bending horror thriller that [ ]
 
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema
+Mon, 28 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/general-news/dynasty-sports-film-festival-lineup-hoosiers-the-greatest-1235218922/
+
+Exclusive: The four-day event will include an anniversary screening of "Hoosiers" and the premiere of "The Greatest," a Prime Video series about Muhammad Ali.
+
+### Sundance Favorite Hold Onto Me Is Cyprus First-Ever Best International Feature Oscar Submission
+Mon, 28 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/awards/industry/hold-onto-me-cyprus-first-best-international-feature-oscar-1235218891/
+
+Myrsini Aristidou’s "Hold Onto Me," winner of the World Cinema Dramatic Audience Award at Sundance 2026, has been chosen as the first-ever Best International Feature Oscar submission for Cyprus.
+
+### Broadway Musicals Are in Crisis. Can Major League Baseball and Neil Patrick Harris Help?
+Mon, 28 Sep 2026 15:30:00 +0000 — https://www.indiewire.com/news/general-news/why-damn-yankees-partnering-major-league-baseball-1235218907/
+
+A revival of "Damn Yankees," co-starring Julianne Hough, will partner with the sport to promote the show to its fans.
+
+### Elsinore Trailer: Andrew Scott Plays the Role of Another Actor s Life in TIFF-Winning AIDS Drama
+Mon, 28 Sep 2026 15:01:43 +0000 — https://www.indiewire.com/news/trailers/elsinore-trailer-andrew-scott-ian-charleson-1235218764/
+
+The actor gives a show-stopping, heart-wrenching performance as Ian Charleson in Simon Stone's fact-based feature film.
+
+### La Bola Negra Trailer: Los Javis Queer Spanish Epic and Oscar Frontrunner Hits Theaters This Fall
+Mon, 28 Sep 2026 15:01:00 +0000 — https://www.indiewire.com/news/trailers/la-bola-negra-trailer-los-javis-spanish-1235218898/
+
+Javier Calvo and Javier Ambrossi's lavish historical drama will mark Netflix's longest theatrical window to date once the film opens on October 16.
+
+### John Carpenter and Jamie Lee Curtis Look Back on Shooting Halloween : It Was Independent Filmmaking in Its Marrow
+Mon, 28 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/news/general-news/john-carpenter-and-jamie-lee-curtis-look-back-at-halloween-1235218875/
+
+The director and star of the 1978 horror classic appeared together at the Academy Museum to screen their masterpiece and kick off the museum's new horror exhibit.
 
 ### Lanterns Review: Episode 7 Changes The Jordan Boys Legacy — and Sets Up a Charged Finish
 Mon, 28 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463/
@@ -187,122 +217,107 @@ Sun, 27 Sep 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/g
 
 Godzilla squares off against King Ghidorah in an IMAX-sized melodrama that features some of the most thrilling kaiju fights ever.
 
-### How Taylor Swift s Patient Zero Music Video Will (and Will Not) Impact Her Oscar Chances
-Sat, 26 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/awards/industry/taylor-swift-patient-zero-oscar-chances-1235218787/
-
-Taylor Swift's latest music video stars a recent Best Actor nominee, and was shot by a three-time Best Cinematography Oscar winner. Is this another bid for more film awards?
-
-### Robert Eggers Werwulf Drops New Trailer — and an Interactive Game
-Sat, 26 Sep 2026 15:15:49 +0000 — https://www.indiewire.com/news/trailers/werwulf-second-trailer-interactive-game-1235218761/
-
-Fans can participate in an online scavenger hunt tied to the phases of the moon this fall.
-
-### Inside NYFF s Buzzy Opening Night with James Gray s Paper Tiger
-Sat, 26 Sep 2026 14:18:50 +0000 — https://www.indiewire.com/awards/industry/nyff-opening-night-paper-tiger-oscars-1235218746/
-
-Neon's "Paper Tiger" played well for the Lincoln Center crowd, who debated its Oscar odds at the Tavern on the Green after-party.
-
 ## The Wrap
 
-### The 6 Best Moments From the 2026 VMAs
-Mon, 28 Sep 2026 02:38:42 +0000 — https://www.thewrap.com/creative-content/music/2026-vmas-best-moments/
+### Paramount, State AGs Brush Off Warner Bros. Merger Settlement Concerns, Say Deal Is Reasonable Compromise Negotiated at Arm s Length
+Mon, 28 Sep 2026 19:59:06 +0000 — https://www.thewrap.com/industry-news/business/paramount-state-ags-warner-bros-merger-settlement-corey-booker-response/
 
-It became clear very early on that the 2026 MTV Video Music Awards were going to be a show dedicated to celebrating pop music s past, present and future. For the most part, the ceremony managed to do exactly that. Living pop icons like Taylor Swift and Madonna were honored repeatedly throughout the night, while rising stars like Raye and Sienna Spiro were both able to take full advantage of the moments given to them. Amidst it all, the VMAs also found the time to pay tribute to late, beloved music icons like George Michael, Dolly Parton and Kurt Cobain. While it may have lacked an overwhelming number of truly buzzy performances, the result was a show that, at its best, felt reflective, predictive and joyful all at the same time. Here were the best moments from the 2026 VMAs . Madonna and Sabrina Carpenter at The 2026 MTV Video Music Awards (Francis Specker/CBS) Madonna Calls In Sabrina Carpenter and Charli XCX to Help Her Open the Show The Queen of Pop made her return to the VMAs this year, opening the awards show for the first time in 23 years . To say she did so in style would be an understatement. The music icon brought the past, present and future of pop music together, kicking things off with Sabrina Carpenter for a live rendition of their 2026 duet Bring Your Love. Madonna followed that up with a live performance of her and Charli XCX s dance track Danceteria Afterhours. XCX joined her onstage for the song, as did a number of other guests, including Debi Mazar, Seth Rog
+Paramount and 12 state attorneys general are pushing back against Sen. Corey Booker and the Block the Merger coalition s concerns about their Warner Bros. Discovery merger settlement. In a Monday court filing , the parties noted that the settlement was vigorously negotiated at arm’s length and reflects a reasonable compromise that addresses the competitive issues posed by the proposed merger in the markets alleged in the Complaint. The fact that a proposed consent decree does not contain every outcome that one party may have wanted in a multilateral negotiation does not make it substantively unfair,” the group argued. This is the very essence of a negotiated agreement that includes compromises on behalf of all of the parties involved.” They added that the agreement s enforcement provisions have teeth and urged the court to sign off on it to clear the way for the $110 billion deal s closing. If the benchmark for substantive reasonableness were the maximum relief a plaintiff might theoretically have won after a trial, no pretrial settlement could ever be approved—a result that would be entirely inconsistent with the strong policy favoring negotiated resolution of disputed claims, the response continues. The adequacy of the decree must therefore be assessed against the risk of continued litigation—including the substantial prospect that Plaintiff States would have recovered nothing at all—rather than against an assumed permanent injunction that Plaintiff States did not obtain. U
 
-### Lanterns Team Explains That Heartbreaking Change to Hal Jordan s Origin Story
-Mon, 28 Sep 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-7-hal-jordans-origin-explained/
+### James Rosenfield, Former CBS Broadcast Group Head, Dies at 97
+Mon, 28 Sep 2026 19:49:26 +0000 — https://www.thewrap.com/media-platforms/tv/james-rosenfield-dead-cbs-president/
 
-Note: This story contains spoilers from Lanterns Episode 7. With only one episode left on the clock, Lanterns is barreling toward its grand finale. This week came with a major change to Hal Jordan s origin story that proved the HBO series still has some tricks up its sleeve. With Hal (seemingly) dead and gone, Episode 6 reintroduced the Halogram, a younger version of the Green Lantern veteran played by Kyle Chandler. Through this circa 2006 construct, plus some key flashbacks to Hal s youth, John Stewart (Aaron Pierre) and fans alike got a glimpse into the tragedy that made the senior Lantern the man he was in 2016. It’s more to build into the character. It’s more history. It’s more darkness. It’s more pathology of the character. There’s a lot going on with these two dudes, Chandler told TheWrap. As I’ve said before, and (Aaron) can speak for himself, but Hal had a pretty rough coming up in the world, all the stuff that happened, getting the ring, knowing about my family’s past, but look at his childhood! *laughs* I mean, come on!” Lanterns threw audiences a curveball by revealing the truth behind the episode s namesake: the Jordan Boys Legacy. Hal shared that his father, Martin Jordan, didn t simply die in a test crash accident, as has long been part of Green Lantern s comic book origin. Instead, Martin (created by Christopher Priest and Mark Bright in 1989 s Green Lantern: Emerald Dawn #1 ) took his own life, crashing his plane on purpose. My old man, he was convinced we d 
+James H. Rosenfield, Sr., a former CBS Broadcast Group executive who headed the company through the transformative years of the 70s and 80s, died Saturday in New York City. He was 97 years old. Rosenfield s death was confirmed by CBS. Across two decades at CBS, Rosenfield began as an account executive in network sales before rising to president of the CBS Television Network and, later, executive vice president of the CBS Broadcast Group. Rosenfield headed operating divisions across CBS Television Network, CBS Entertainment, CBS News and CBS Sports. During his tenure, he shepherded the runs of All in the Family, 60 Minutes and M*A*S*H. After his tenure at the network, Rosenfield served as chairman and CEO of John Blair Communications, Inc., a national sales representative for local television stations. He later founded JHR & Associates, a consulting firm for traditional and digital media companies. He also co-founded and served as chairman emeritus of the New York-based nonprofit Reisenbach Philanthropies, headed the International Radio and Television Society and was a board member of the Advertising Council, Internews International and Salon Media. Born and raised in Boston, Mass. on July 18, 1929, Rosenfield was later a graduate of Dartmouth College. Rosenfield is survived by his partner, Charlotte Rosenblatt; his daughter, Laurie Rosenfield, and son-in-law, Peter Falk; his son, Jim Rosenfield Jr., and his wife, Dana Conroy; his grandchildren, Jamie, Kitt, Kristen, Kerrin an
 
-### Taylor Swift Makes History, Wins First-Ever Artist Director Honor at VMAs: I Just Love Making Stuff
-Mon, 28 Sep 2026 01:28:00 +0000 — https://www.thewrap.com/creative-content/music/taylor-swift-makes-history-wins-first-ever-artist-director-honor-at-vmas-i-just-love-making-stuff/
+### Anne Hathaway Says She Can t Do Hot Ones While Pregnant Because She Might Go Into Early Labor
+Mon, 28 Sep 2026 19:23:29 +0000 — https://www.thewrap.com/creative-content/movies/anne-hathaway-cant-do-hot-ones-while-pregnant/
 
-Taylor Swift received the first-ever MTV VMA Artist Director Honors on Sunday night at the Peacock Theater in Los Angeles. The new award is designed to honor the “groundbreaking musical artists” whose contributions and efforts behind the camera have “expanded the possibilities of music video and advanced the art of visual storytelling.” Swift, who was chosen as the award’s inaugural recipient, is a seven-time nominee and four-time VMAs winner for Best Director. Dakota Johnson, Swift s close friend, presented the honor. Taylor has spent the majority of her life on set, telling tales and building worlds. She isn t just one of the most decorated artists in the history of the VMAs. She is the single most recognized video director in this show, Johnson said. She is a visionary with a relentless drive for perfection in everything she does, and still holds the artistry and the cardinal virtue to never lose sight of the ineffable magic spark at the center of it all. In a clip showcasing the artist s work over the years Swift broke down her filmmaking process admitting she just loves making stuff. First of all, I want to say thank you to MTV for giving this platform to music videos so long ago, Swift said in her acceptance speech. I got to start making music videos and being a part of music videos 20 years ago, and since then I ve gotten to be a part of making 60 music videos from 18 of those I wrote and directed, and I really love writing and directing music videos. She continued: I 
+Anne Hathaway will have to wait a bit longer before fulfilling her dream of going on Hot Ones. The actress got to visit the First We Feast set for a scene in Verity where her character, Verity Crawford, appears opposite real-life host Sean Evans to promote her book. Typically, celebrities are asked questions while eating increasingly spicy chicken wings. However, because the scene was being shot for the movie, the actress didn t get to try the full Hot Ones gauntlet since the hot sauces had to be switched out. “We did the first three wings for real, and then I switched to dummy wings, Hathaway told Talk of the Townsends during a press junket for the upcoming Colleen Hoover adaptation. And then I thought that I was gonna be able to do the ‘Hot Ones’ challenge to do press for this film because it just made sense, but then I got pregnant, and my doctor said I couldn’t do it because I might go into early labor. So I still haven’t done the gauntlet yet. I’m not sure when that’s gonna happen. Maybe next year.” In the film, which is based on Hoover s 2018 novel of the same name, Hathaway plays Verity, a mysterious best-selling author who has suffered an accident that has left her unable to finish her last two books. Dakota Johnson co-stars as Lowen Ashleigh, a struggling writer tasked with finishing Verity s novels, while Josh Hartnett plays Jeremy Crawford, Verity s husband. View this post on Instagram A post shared by Talk Of The Townsends (@talkofthetownsends) The goal of getting
 
-### Taylor Swift and Dakota Johnson Share Colin Farrell in Patient Zero Music Video
-Mon, 28 Sep 2026 01:12:44 +0000 — https://www.thewrap.com/creative-content/music/taylor-swift-patient-zero-music-video-premiere-vmas/
+### Reacher Gets Season 6 Renewal at Prime Video Before Season 5 Even Wraps Production
+Mon, 28 Sep 2026 19:15:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/reacher-season-6-renewal-prime-video/
 
-After days of being patient, Taylor Swift dropped her Patient Zero music video Sunday night at the 2026 MTV Video Music Awards . The singer released the single Friday as part of her The Life of a Showgirl: The Encore expansion album. The new, second slate of Life of a Showgirl tracks featured four songs: Patient Zero, Cleveland! Pink Clouding and Babylon. Dakota Johnson stars in the Patient Zero video as the wife of an abusive husband (played by Colin Farrell). Over the course of the video, she is haunted by images of Swift, her husband s former partner. Sick for reasons she does not understand and accused of drinking too much, Johnson s character finds herself caught up in swirl of confusion created by her toxic relationship. It is only revealed in the music video s closing moments that Farrell s character has been poisoning Johnson all along, slowly gaslighting and killing her the same way he did with Swift s departed, former heiress. The video s story ties into the origins of Patient Zero, which Swift shared this week was inspired by a friend s recounting of how an ex-boyfriend s current girlfriend once reached out to her for advice on her relationship. “If you wanna party with somebody / who might know about the devil on his shoulder under his halo,” the lyrics to the moody track read. “When the toxins take their hold / you’d rather die than let it go / But if you’re sick of him, I got you / I was patient zero.” Taylor Swift premieres the music video for ‘Patient Zero’ st
+Prime Video has renewed Reacher for a sixth season. The decision comes especially early, as the action series starring Alan Ritchson is currently in production on its fifth season. Reacher, adapted from Lee Child s novels, has emerged as one of the most viewed programs on Prime Video. After its Season 4 finale debuted on the streamer on Sept. 16, the most recent season reached more than 66 million viewers globally in its first 28 days. That ranks it among the top 5 most-viewed seasons of any original series in the history of Prime Video. Reacher hits hard. said Peter Friedlander, head of global television for Amazon MGM Studios. What Lee Child has built and Nick Santora and his creative teams have brought to life is, simply, incredible. Alan Ritchson is Jack Reacher — he s delivered a performance that has captivated audiences around the world. Together with our partners at Paramount Television Studios, we couldn t be more excited to continue this journey. Reacher is a truly iconic series, and we re thrilled to be on the ride with this extraordinary cast and crew for Season Six, he added. The fifth season of Reacher is currently in production in Toronto, with plans to premiere sometime in late 2027. The fourth season of Reacher is based on Lee Child s Gone Tomorrow novel. The season follows Jack Reacher (Ritchson) as he s drawn into a complex and deadly game that pits him against ruthless foes from the highest echelons of power, according to the logline. Along with Ritchson, t
 
-### Anthropic CEO Dario Amodei to Meet With Trump After Calling for AI Regulations
-Mon, 28 Sep 2026 00:41:39 +0000 — https://www.thewrap.com/industry-news/tech/anthropic-dario-amodei-meets-trump-ai-regulation/
+### Prey Director Dan Trachtenberg to Direct Disney Movie Inspired by Sleeping Beauty
+Mon, 28 Sep 2026 18:09:16 +0000 — https://www.thewrap.com/creative-content/movies/sleeping-beauty-movie-in-works-disney-prey-director/
 
-Anthropic CEO Dario Amodei is meeting with President Donald Trump at the White House Sunday evening, after calling for the AI industry to slow development and partner with the government in developing regulation protocols to address safety concerns regarding the technology. Per Axios , the White House planned to host a one-on-one dinner between Amodei and Trump, marking the pair s first private meeting. Amodei was absent from Trump s state dinner hosting China s president Xi Jinping on Thursday, though rival AI execs like OpenAI s Sam Altman, xAI s Elon Musk, Meta s Mark Zuckerberg and Nvidia s Jensen Huang were all in attendance. A White House official did not immediately respond to a request for comment. Amodei frustrated Trump earlier this month by publishing an extensive essay arguing that the AI industry was gambling with our lives at its current rate of development. In his writing, Amodei sounded the alarm over the potential for AI models’ “recursive self-improvement” to outrun companies’ abilities to control them and recent unsanctioned cyberattacks enacted by OpenAI models. Amodei s suggestion to resolve the matter involved partnering with government to formalize the idea of permanent embedded evaluators to better prevent and document the internal alignment incidents like those that have occurred in the last few months, and to implement regulation focused on keeping capabilities in balance with safety.” Rival executives like Musk and Altman publicly supported Amodei s
+“Prey” director Dan Trachtenberg is developing and will direct The story is by Trachtenberg and Rayna McClendon, with Alex Anfanger and Dan Schimpf, creators of the Comedy Central series “Big Time in Hollywwod, FL” set to write the script. The untitled project is in early development and is inspired by the classic fairy tale, taking the story in an entirely new direction with Trachtenberg’s distinct sensibility. Plot details are currently under wraps. EVP of production Jessica Virtue is overseeing the project with Creative Executive Alina Mota, reporting to Disney Live Action President Daria Cercek. Deadline first reported the news. More to come The post Prey Director Dan Trachtenberg to Direct Disney Movie Inspired by Sleeping Beauty appeared first on TheWrap .
 
-### Robert Pattinson Thinks It d Be Tough to Put His Batman in James Gunn s DC Universe
-Sun, 27 Sep 2026 23:39:09 +0000 — https://www.thewrap.com/creative-content/movies/robert-pattinson-thinks-difficult-batman-dc-universe/
+### Tomi Adeyemi Won t Watch Children of Blood and Bone Movie: It’s Not Really for Me
+Mon, 28 Sep 2026 17:54:09 +0000 — https://www.thewrap.com/creative-content/movies/tomi-adeyemi-children-of-blood-and-bone-movie-no-future-adaptations/
 
-Robert Pattinson is currently filming his return as the Dark Knight for The Batman Part II, but he still believes that it d be tough to integrate his incarnation of Bruce Wayne into the cinematic universe of DC Comics characters launched by last year s Superman. I think it would be kind of tough to have this version of Bruce outside of that world, Pattinson told LADbible when asked about merging the two continuities. It s one of the only characters I guess because of the length of the shoots, but also it s such a specific kind of [style] the tone of it gets inside you I remember that happened to me the last time I did it, it took a while. You’re just in the dark, the whole time. Both mood-wise and light-wise, I can t see anything for like months. Pattinson s The Batman was released by Warner Bros. in 2022, a year before the studio announced the founding of DC Studios and put James Gunn and Peter Safran in charge of launching a new cinematic universe for the comic book characters. The plan was realized with the 2025 release of Superman and continued with Supergirl in June. Though those two films are anchoring a new mainline continuity for DC Studios, Gunn has maintained that he doesn t plan to integrate Pattinson s incarnation of Batman into that timeline. Instead, director Matt Reeves is helming another standalone sequel to the film, with Pattinson returning. It s currently set to release Feb. 18, 2028. Batman’s my biggest issue in all of DC right now, personally. I’m not wri
+Author Tomi Adeyemi has doubled down on her negative comments about the forthcoming Hollywood adaptation of her 2018 fantasy novel Children of Blood and Bone, revealing that she will never let one of her books be adapted again and that she has no plans to watch the new film. Her latest comments come just a few months after Adeyemi posted a TikTok video in late July in which she called the Children of Blood and Bone adaptation process the worst thing I have ever had to live through. She went on to say that her experiences on the film s set had left her hyperventilating and sobbing, adding, I never want to hear about this project again. Adeyemi additionally alleged in the video that she was still being antagonized behind the scenes and that she had suffered such severe somatic pain and so many panic attacks after returning to America, following the completion of the film s principal photography phase. In an interview with The Guardian published Sunday, Adeyemi defended her decision to publicly speak out against the film. I understood that if I didn’t speak up, I couldn’t move forward, the author told the outlet. I can’t really worry about the response, because I don’t have to live with how people respond to me – I have to live with me, every day. I won t go into specifics, the author said when asked about her experiences on the film s set, adding, [But] the whole journey of the trilogy and the adaptation felt biblical … It took all of me. The upcoming adaptation of her best-sel
 
-### 2026 MTV VMAs Winners List: Madonna Wins Artist of the Year, Taylor Swift Nabs Video of the Year
-Sun, 27 Sep 2026 23:29:49 +0000 — https://www.thewrap.com/industry-news/awards/vmas-winners-list-2026/
+### From Taylor Swift and Dakota Johnson Lipsyncing to Off Campus Love: 7 Things Cameras Didn t Catch at the VMAs
+Mon, 28 Sep 2026 17:46:25 +0000 — https://www.thewrap.com/creative-content/music/vmas-behind-the-scenes-taylor-swift-dakota-johnson-off-campus/
 
-Taylor Swift and Madonna were among the biggest winners of the night. Madonna entered the night as the most-nominated artist, with 11 nods. She took home Artist of the Year, Best Collaboration for “Bring Your Love” with Sabrina Carpenter and Best Dance for “Confessions II – The Film.” Taylor Swift followed with nine nominations. Swift won Video of the Year for “The Fate of Ophelia.” She also received the inaugural MTV VMA Artist Director Honor which was presented by her close friend Dakota Johnson . In her acceptance speech for Video of the Year, Swift dedicated the Moon Person award to Dolly Parton, who was “the ultimate showgirl.” “Every single song that she wrote, her storytelling was so vivid and so rich,” Swift said of Parton. “Every single time you hear what she has written, and she, man, she handled this thing with such grace and joy and love and gratitude for the fact that she got to do this, and everything that happened in her life or her career, she channeled back into love and gratitude and appreciation for her fans. I am lucky I got to be one of them, and I will always be one of them.” Swift also premiered the music video for her new single Patient Zero starring Johnson and Colin Farrell . Elsewhere, Lisa took home Best Pop for “Dream feat. Kentaro Sakaguchi,” while Sienna Spiro won Best New Artist. The ceremony also featured tributes to Parton, led by Kacey Musgraves, and George Michael, who was honored with a tribute performance by Sombr, RAYE and Teddy Swims. N
+Some awards shows can blend together, but fans can always count on MTV’s Video Music Awards to bring the energy, star power and risqué moments that it built its reputation on. The 2026 show, which returned to Los Angeles for the first time since 2015, made sure those moments were there from the start, with Madonna s opening performance with Sabrina Carpenter and Charli xcx embracing a signature sensual VMAs vibe. But in the Peacock Theater, audiences were treated to a behind-the-scenes look at how the star-studded performances come together — and apart. Keep on reading for seven moments cameras missed at the 2026 VMAs, several of which were dominated by show-stealer Taylor Swift. A prompt start The CBS broadcast of the VMAs was delayed just over 20 minutes by the NFL s matchup of the Baltimore Ravens and the Dallas Cowboys. But inside the Peacock Theater, the lights went down right at 4:30 p.m. PT for Madonna s opening performance. Two of the night s biggest performances weren t there The audience missed live performances from two of the night s biggest headliners: Bruno Mars and Kacey Musgraves. Instead, the pair were featured in pre-recorded clips shown to both the Peacock Theater audience and viewers at home. The VMAs introduced Mars performance from The Romantic Tour — which will bring him to Los Angeles SoFi Stadium for a string of shows starting Sept. 30 — but there wasn t as obvious a reason for Musgraves performance to be pre-taped. Her tribute to the late Dolly Parto
 
-### How to Watch the 2026 VMAs on TV or Streaming
-Sun, 27 Sep 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/how-to-watch-vmas-2026-tv-streaming-what-time/
+### Morning Joe Eviscerates Trump s Taxpayer-Funded Political Ads: This Is Communism
+Mon, 28 Sep 2026 16:37:34 +0000 — https://www.thewrap.com/media-platforms/politics/morning-joe-trump-political-ads-taxpayer-funded-video/
 
-It is that time of year again. Some of the world s biggest musical artists are set to come together this Sunday for the 2026 MTV Video Music Awards . The annual awards ceremony will aim to celebrate some of the biggest songs and moments from the past year of music, all while honoring living legends like Madonna and Taylor Swift and late icons like Dolly Parton and George Michael. Swifties, in other words, are not the only viewers with reason to tune into this year s VMAs. Here is when, where and how you can watch the 2026 VMAs. Where are the VMAs airing this year? The 2026 Video Music Awards will air this year simultaneously on CBS and MTV. Can I stream the VMAs? Yes! U.S.-based Paramount+ Premium subscribers will be able to stream this year s VMAs live on the platform. Paramount+ Essential subscribers will have to wait until Monday, Sept. 28 to watch the show on-demand. Paramount+ Premium plans are available for $13.99/month or $139.99/year. What time do the VMAs start? This year s VMAs are scheduled to begin at 7:30 p.m. ET/4:30 p.m. PT on Sunday, Sept. 27. Who is hosting this year’s VMAs? Snoop Dogg is set to host this year s VMAs. He is making his VMAs hosting debut, stepping into the role after rapper and actor LL Cool J hosted the 2025 edition of the annual award show. This year s VMAs will also mark the first time the ceremony has been held in Los Angeles since 2017. It will be broadcast live this year from the Peacock Theater in L.A. Who will be performing at the VMAs
+Morning Joe host Joe Scarborough laid into President Trump over his latest, taxpayer-funded political ads, calling them acts of communism and socialism and warning they are bad for America. [During] this thing that we re going through with Donald Trump, very few things surprise me. When I saw, at the end of that ad, Paid for by the U.S. government, that was such an Orbán, Putin move, Scarborough said. We ll see if more conservatives come out and actually criticize this, but every single one should. You have the centralized state, the behemoth centralized state, big government, stealing taxpayer dollars to run a political advertisement, the Morning Joe host added. If you re at home and you pay taxes, you are paying for this political ad. In the black-and-white ad, which shows Trump walking ominously down a hallway while looking toward the camera, the president can be heard telling viewers that this is the final battle and that he will, with voters help, demolish the Deep State, expel the warmongers from our government and cast out the communists, Marxists and fascists. The ad concludes with a message noting that it has been paid for by the U.S. government. For his part, Scarborough argued that the ad may have the exact opposite of its intended effect on voters. They re going to get really pissed off that he s promising no more foreign wars when we re stuck in a foreign war of no end, Scarborough explained, noting, This is socialism, by the way. This is communism. A centralized
 
-### The 3 Best Movies to Watch on Prime Video This Week
-Sun, 27 Sep 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-amazon-prime-video-sept-25-27/
+### Pro Dancers Celebrate the Return of Best Dance Category at 2026 MTV Video Music Awards
+Mon, 28 Sep 2026 16:30:00 +0000 — https://www.thewrap.com/creative-content/music/mtv-video-music-awards-madonna-best-dance-vmas/
 
-Amazon s Prime Video has a number of movies streaming on its platform right now that would be deserving of your time this week. The streamer just premiered a new romantic comedy starring Lili Reinhart and Tom Bateman that has rightly garnered a wave of positive reviews in the wake of its premiere. The streaming service s other best, current titles include a late 1990s crime thriller that effortlessly knows how to hold your attention and a late 2010s drama that still ranks as Greta Gerwig s finest directorial effort to date. Here are the best movies on Prime Video you can watch this week. The Love Hypothesis (Credit: Prime Video) The Love Hypothesis (2026) The Love Hypothesis has brought some rom-com levity to Prime Video this week. Based on the novel of the same name by Ali Hazelwood and directed by Set It Up filmmaker Claire Scanlon, the new film follows a professor (Tom Bateman) and a PhD student (Lili Reinhart) who start up a fake relationship in order to put their theories about love to the test. The film s reviews have been largely positive, and anyone who gives The Love Hypothesis a little bit of their time will likely understand why. Powered by the charisma of its two stars, The Love Hypothesis is a fun, lighthearted rom-com that takes itself just seriously enough. It s a joyful way to spend a few hours this weekend. L.A. Confidential (Warner Bros.) L.A. Confidential (1997) L.A. Confidential is one of the best crime thrillers you can find on streaming right now. Direct
+You may have heard, but Madonna has something she wants to talk about: Dance. The Confessions II singer walked away from the 2026 MTV Video Music Awards as the big winner on Sunday night, taking home seven awards including Artist of the Year, Best Album and Best Collaboration with Sabrina Carpenter. However, Madonna also won Best Dance as the category returned to the awards show for the first time in seven years. I came to New York to be a dancer and dance is where everything happened for me in my life. I came to life on the dance floor, I found my community on the dance floor, I fell in love with people on the dance floor and I lost many people I loved on the dance floor, she told the VMAs crowd at the Peacock Theater in Downtown Los Angeles. Dance brings everybody together. We re all equal on the dance floor. Best Dance was presented by BACARDÍ, who teamed up with pro dancers Dexter Carr, Gabi Barra and Dario Boatner to choreograph fresh moves for some classic, winning tracks with a new twist, of course. Madonna’s generational impact on dance music and pop culture speaks to exactly why this category deserves to be celebrated: dance is an ever-evolving form of connection that continues to bring people together through shared rhythm and movement, Lisa Pfenning, Vice President of BACARDÍ in North America, told TheWrap. This is the fourth year we’ve partnered with the VMAs, and each year we look for new ways to build upon the collaboration, so it feels fresh and meaningful whil
 
-### Florence Pugh Calls on Male Peers to Condemn Cornell After Gang Rape Lawsuit: Stop Damaging Our Souls
-Sun, 27 Sep 2026 21:55:47 +0000 — https://www.thewrap.com/industry-news/business/florence-pugh-calls-men-condemn-cornell-gang-rape/
+### The View Host Sara Haines Trashes Trump s Completely Inappropriate Taxpayer-Funded Ad: Where Is DOGE When You Need It?
+Mon, 28 Sep 2026 16:29:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-trump-taxpayer-funded-ad-completely-inappropriate/
 
-Content Warning: This article discusses allegations of sexual assault. Florence Pugh shared an extensive letter Sunday condemning Cornell University for protecting seven men accused of rape in a new lawsuit by a former student, calling upon male peers to speak up about the soul-destroying allegations. After reading about the young woman who was gang raped at her college by her friend and school peers, I m feeling uneasy and sick and anxious. I m processing quietly and watching everything and everyone and every man, Pugh wrote in a statement posted to social media. This is really the moment where we need our men to be as horrified and as sickened as us. You need to be leading conversations about how we change the allowance and complicity of this behaviour as much as we are. How can you expect us to trust that it s not all men when in moments like this, many of you stay quiet? Pugh s statement was posted with a caption calling the lawsuit a human issue, not a women s issue. We are all involved. Men especially. On Thursday, reports emerged that an anonymous former Cornell student was suing the school and seven Chi Pi fraternity members, claiming the organization failed to protect her and prevent the assault, alleged to have occurred in 2024. The Jane Doe claims that she visited the Chi Pi fraternity house while intoxicated, where she alleges that two frat brothers pressured her into snorting a substance they claimed was ketamine before beginning to sexually assault her. A man th
+President Trump launched a new series of ads ahead of this November s midterm elections, all paid for using taxpayers money, and the hosts of The View are among those criticizing the move . On Monday morning, host Sara Haines even jokingly longed for Elon Musk s DOGE. To kick off the day s Hot Topics, the ABC hosts watched one of the ads, in which Trump promises to cast out the Communists, demolish the deep state and more. As it ended, host Sunny Hostin was quick to remind everyone that Kristi Noem was promptly fired after she used $200 million of taxpayer money for Department of Homeland Security ads. So I don t understand why the president thinks it s okay for him to do when someone in his cabinet was fired, Hostin said. Well where is DOGE when you need it? Sara Haines quipped back. DOGE was, of course, the acronym for the Department of Government Efficiency, created and led by billionaire Elon Musk, and was touted as a means of cutting frivolous spending. In the end, it cut several vital employees and programs , while also ensuring te federal government spent an estimated $9.5 billion for employees to not work last year. The hosts of The View were vocal critics of the agency. Speaking more seriously on the ads, Haines called them completely inappropriate. You can t advertise the feelings people are having at their dinner tables out of them, by saying, No, no, no, things are really going well,' she said. And the way to really piss them off is to make them buy the ads that s
 
 ## Collider
 
-### 5 Movies That Are a Masterclass in How To Adapt a Book
-Mon, 28 Sep 2026 11:04:13 GMT — https://collider.com/movies-masterclass-how-to-adapt-book/
+### Taylor Sheridan’s ‘Mobland’ Replacement Officially Returns With Season 4 Trailer
+Mon, 28 Sep 2026 20:00:11 GMT — https://collider.com/tulsa-king-season-4-trailer-release-date-sylvester-stallone/
 
-The art of adapting a book is genuinely difficult . Follow it too closely, and you risk doing nothing differently, failing to properly translate the literary language into the cinematic form. Conversely, if you change too much, you risk altering the very fabric of the story, not only alienating the fans of the source material but perhaps even offending them. It's no surprise that so many movie adaptations fail these days: they either fail to respect the source material enough or they don't do enough to stand out, merely settling for being "meh" rather than "wow."
+An elderly gentleman retreats from big city living to the Midwest to enjoy his retirement, but his former colleagues keep getting involved in his part-time work that he does to keep himself busy. This sounds like something of a tragedy, but it's actually the plot of one of Paramount+'s biggest hits and one that gave Taylor Sheridan yet another sensation on streaming. Today, the Sylvester Stallone -starring hit has officially set a release date for it's next chapter with the release of an explosive new trailer.
 
-### James Cameron's Sci-Fi Blockbuster Officially Hits a Major Streaming Milestone
-Mon, 28 Sep 2026 11:00:11 GMT — https://collider.com/james-cameron-avatar-fire-and-ash-streaming-success-disney-plus-90-days/
+### Erin Doherty and James McAvoy Lead 2026’s Most Confusing Supernatural Drama | TIFF Review
+Mon, 28 Sep 2026 19:53:44 GMT — https://collider.com/faith-movie-review-james-mcavoy-erin-doherty/
 
-When it comes to making great sci-fi movies, few directors are operating at the same level as James Cameron . The only few directors in the same air as Cameron are Ridley Scott , Christopher Nolan , and Steven Spielberg , but Cameron has added more to his career box office total than any of them except Spielberg. While Cameron’s work on the Avatar movies are the first that come to mind for modern audiences, he’s also famous for his work directing Titanic , which is the sixth-highest-grossing movie of all time. What makes this even more impressive is that it was released all the way back in 1997, so when factoring in inflation, it earned much more than just $2.2 billion. Cameron’s first Avatar movie is still the highest-grossing in history, with a lead of more than $100 million over Avengers: Endgame .
+Of all the films premiering at the Toronto International Film Festival , Paul Andrew Williams ’ Faith might be one of the strangest. What begins as a raw, intimate portrait of a working-class mother in northern England takes a sharp turn into a supernatural drama steeped in religious symbolism and unsettling imagery. That bold shift leaves the film’s first half fighting its increasingly bizarre conclusion, which creates more questions. While James McAvoy navigates that tonal change very well, the best part of this 109-minute kitchen sink drama is Erin Doherty ’s astounding performance, which holds Faith together even when the script around her feels a bit bumpy.
 
-### ‘Rosemary’s Baby’ Meets ‘Interstellar’ in Spielberg’s Forgotten 26-Episode Sci-Fi Series
-Mon, 28 Sep 2026 10:58:11 GMT — https://collider.com/steven-spielberg-forgotten-sci-fi-series-extant-paramount/
+### The 10 Greatest American Epic Movies, Ranked
+Mon, 28 Sep 2026 19:42:11 GMT — https://collider.com/best-american-epic-movies-ranked/
 
-Throughout her career, Halle Berry 's been part of some major blockbusters. Whether it's her role as Storm in the X-Men films , an all-too-brief supporting role in John Wick: Chapter 3 - Parabellum , or multiple roles in the sci-fi epic Cloud Atlas , Berry brings considerable star power to these films. Extant , her first leading role in a television series, features a brain-bending premise that rivals those blockbusters . Extant 's blockbuster bona fides don't just stop at having Berry as a star; it also boasts Steven Spielberg as one of its executive producers.
+America is a country of epic proportions. It may be only the fourth largest and relatively young in comparison to other countries, but there's no doubting its overwhelming presence, for both better and worse. That presence is what informs many of the most epic films produced by American studios. Epics are a major part of America's cinematic history , and they cover everything from its history to biblical events to adventures in galaxies far, far away.
 
-### The 10 Best Nintendo DS Games, Ranked
-Mon, 28 Sep 2026 10:41:12 GMT — https://collider.com/best-nintendo-ds-games-ranked/
+### Russell Crowe’s ‘Memento’ Meets ‘True Detective’ Crime Thriller Is Coming to Paramount+
+Mon, 28 Sep 2026 19:20:11 GMT — https://collider.com/sleeping-dogs-russell-crowe-paramount-plus-streaming-october-2026/
 
-Nintendo is one of the greatest video game companies of all time, and they have further established their name with the Nintendo Switch and Nintendo Switch 2, which changed the game with their hybrid system. With games like The Legend of Zelda: Breath of the Wild , it dominates both markets. However, it used to do this separately with one home and one handheld console.
+A murder mystery absolutely adores having an unreliable protagonist, for that's where a lot of the mystery can come from. And when you take away the detective's ability to trust his own memories and suddenly every clue becomes suspect, that gives you the game played by a recent Russell Crowe ( Gladiator ) thriller that mixes shades of Memento with the grim detective work of True Detective .
 
-### 8 Games From the 2010s That Are Amazing From Start to Finish
-Mon, 28 Sep 2026 10:33:11 GMT — https://collider.com/video-games-2010s-amazing-start-to-finish/
+### 3 Perfect Movies Taking Over Netflix This Week (Sep 28-Oct 2)
+Mon, 28 Sep 2026 19:19:11 GMT — https://collider.com/best-netflix-movies-watch-september-28-2026/
 
-Video games are still such a young medium, one that has evolved so dramatically over the years and whose different eras all have such different gems to offer, that it's practically impossible to point to a single period in gaming history as the art form's true "Golden Age." It's undeniable, though, that the 2010s saw the release of several of the greatest, most foundational, and most influential games the world has ever seen, and may thus be many people's favorite era of video gaming.
+The days of Spider-Man: Brand New Day defeating all the box office competition might be over, but the MCU had another trick up its sleeve to return to the summit this past weekend. Ahead of the December 18 debut of Avengers: Doomsday , Avengers: Endgame — Encore opened in theaters, aiming to add material to the 2019 blockbuster to help bridge the narrative gap. With a $26 million haul domestically, Avengers: Endgame — Encore topped the box office charts this past weekend. With the big-screen news taken care of, what about the best of this week on the small screen? Without further ado, here's a list of three movies you should stream on Netflix this week .
 
-### Netflix Officially Lands Taylor Sheridan’s Brutal 4-Season Crime Thriller
-Mon, 28 Sep 2026 10:30:11 GMT — https://collider.com/taylor-sheridan-mayor-of-kingstown-streaming-netflix-october-2026/
+### After 5 Seasons, 'Reacher's Fate Has Officially Been Decided By Prime Video
+Mon, 28 Sep 2026 19:15:11 GMT — https://collider.com/reacher-season-6-renewed-prime-video/
 
-Streaming wars once relied on exclusivity to drive subscriber growth . Every streaming service tried to upstage competitors, but after several years, it became clear the model was unsustainable. Subscribers weren't willing to pay for multiple streaming services, and those who were canceled a service once their favorite show was over. Streamers tried other methods to stay afloat, and some never did, effectively shuttering after bleeding cash . Then came the era of bundling, which was followed by licensing agreements.
+After five seasons, repeated stabbings, avoiding gunshot wounds, wooing the most beautiful of women, drinking all the coffee, eating all the food, and righting all the wrongs across America, Jack Reacher has finally reached an important crossroads. Alan Ritchson has already spent four books' worth of adventures traveling suspiciously light while finding an extraordinary number of people who need punching, but does that mean that there's a law of diminishing returns for Prime Video's beloved action series?
 
-### 4 Years Later, These Are the 10 Best Movies of 2022
-Mon, 28 Sep 2026 10:11:11 GMT — https://collider.com/best-movies-2022-ranked/
+### Netflix's Forgotten Horror Sitcom Is the Perfect Weekend Binge Before Season 2
+Mon, 28 Sep 2026 19:12:11 GMT — https://collider.com/netflix-perfect-weekend-binge-sitcom-haunted-hotel-series/
 
-2022 is a largely important year for film history, being the first full year when movie theaters as an industry were back in full throttle following the shutdowns of the COVID-19 pandemic. The year had a lot of great films that helped make the year memorable, from massively successful blockbuster films to widely celebrated indie darlings. However, perceptions and appreciation can shift a lot even in a short amount of time, as the 4 years since 2022 have provided a lot of reflection upon the best films released in the year .
+The horror comedy genre is having a huge year, from the unparalleled success of Widow’s Bay to A24 ’s bizarre, darkly comic release, Buddy , to the return of the Scary Movie franchise. Now, just in time for spooky season, Netflix' s underrated animated horror sitcom , Haunted Hotel , is set to kick off its sophomore season on October 9th. Season 2 of Haunted Hotel will consist of eight episodes and continue the show's monster-of-the-week approach as the Freeling family tries to keep their ghost-infested hotel home peaceful(ish) and profitable.
 
-### 'Resident Evil' Director Officially Reveals Killer Pitch for 'Aquamarine' Reboot
-Mon, 28 Sep 2026 10:00:11 GMT — https://collider.com/zach-cregger-aquamarine-horror-movie-idea-sara-paxton/
+### One of the Most Experimental Sci-Fi Movies of the Last 10 Years Is Coming to Paramount+
+Mon, 28 Sep 2026 19:00:12 GMT — https://collider.com/colossal-dan-stevens-paramount-plus-october-2026/
 
-Twenty years ago, Aquamarine gave audiences a mermaid who wanted to find love, two girls determined to help her, and a summer at the beach they would never forget. Sara Paxton played the title character opposite Emma Roberts and JoJo Levesque , and it is about as far from a Zach Cregger horror movie as you can get.
+When a giant monster appears, you don't expect much in the way of subtlety. Let's look at it simply. A huge monster turns up, stomps across a city and flattens it and two hours go by with humanity screaming about how nothing is working and then the monster goes back to sleep. Nacho Vigalondo decided to take that formula somewhere considerably stranger, turning his kaiju movie into a dark comedy about alcoholism, toxic relationships, and what happens when someone's personal problems suddenly become Seoul's problems.
 
-### Tom Hardy’s ‘Peaky Blinders’ Replacement Is Officially a Global Streaming Hit
-Mon, 28 Sep 2026 09:30:11 GMT — https://collider.com/tom-hardy-mobland-global-streaming-success-september-2026/
+### Missed TIFF? These Interviews Will Catch You Up on the Festival’s Most Exciting Movies
+Mon, 28 Sep 2026 18:53:57 GMT — https://collider.com/tiff-2026-interviews-lily-rose-depp-alpha-gang-paradise-lost-gail-documentary/
 
-Tom Hardy brings a certain quality to his roles that has made him one of the most famous actors. Despite his deeply imposing masculine persona, the actor delivers flawless comedy without looking like he's trying too hard. He has given numerous dramatic roles mixed with comedy in TV shows and blockbusters. This charisma makes him the perfect person to play one of the lead characters in Ronan Bennett 's thriller , which is heavily inspired by Guy Ritchie 's aesthetic.
+If you missed out on the Toronto International Film Festival , you're in luck! We returned to the festival this year with Collider's Media Studio, presented by Campari and The Cayman Islands , where our own Steve Weintraub and Perri Nemiroff had the pleasure of sitting down with filmmakers and stars of some of the event's most exciting titles.
 
-### The 15 Scariest Villains in Animated Movies, Ranked
-Mon, 28 Sep 2026 09:11:11 GMT — https://collider.com/scariest-villains-animated-movies-ranked/
+### Disney Officially Brings 'Sleeping Beauty' Back With a New Live-Action Project
+Mon, 28 Sep 2026 18:51:33 GMT — https://collider.com/sleeping-beauty-director-dan-trachtenberg-new-disney-movie/
 
-Animated film has, since its inception, been home to some of cinema's most iconic villains. The virtually boundless nature of animation leaves room for antagonists who are always a mighty obstacle in the hero's way — and sometimes, an absolutely terrifying one, too.
+In its never-ending quest to revitalize and re-imagine its vast animated catalog, Disney is awakening one of its most beloved classics for a new project. There's a new Sleeping Beauty project in the works, with a new angle on the classic story. It's not connected to the recent Maleficent films, but you may be surprised to learn what up-and-coming director is attached to the movie.
 

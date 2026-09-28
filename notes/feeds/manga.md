@@ -1,72 +1,87 @@
-# Manga — harvested 2026-09-28T11:13:53.104Z
+# Manga — harvested 2026-09-28T20:13:46.031Z
 
 ## Anime News Network
 
-### Lone Wolf and Cub Deluxe Edition Manga Wins Ringo Award
-Mon, 28 Sep 2026 06:24:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/lone-wolf-and-cub-deluxe-edition-manga-wins-ringo-award/.242264
+### Cells at Work! Gets Dental Spinoff Manga
+Mon, 28 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279
 
-Deluxe Edition wins 'Best Presentation in Design' award from jury, fans
+<cite>Hataraku Saibō Dental</cite> debuts on October 26
 
-### Zero-sen Hayato Anime Scriptwriter Sō Kuramoto Dies at 91
-Mon, 28 Sep 2026 05:59:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/zero-sen-hayato-anime-scriptwriter-so-kuramoto-dies-at-91/.242263
+### Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October
+Mon, 28 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277
 
-Kuramoto died of multiple organ failure on September 18
+Series entered hiatus after 100th chapter in May
 
-### Psyren TV Anime Reveals Ending Song by Who-ya Extended
-Mon, 28 Sep 2026 05:04:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/psyren-tv-anime-reveals-ending-song-by-who-ya-extended/.242265
+### Live-Action Street Fighter Film Previews Ken vs. Ryu Rivalry in New Trailer
+Mon, 28 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/live-action-street-fighter-film-previews-ken-vs-ryu-rivalry-in-new-trailer/.242276
 
-Artist performs "ICARUS" ending song for October 5 series
+Film opens on October 16
 
-### Manchuria Opium Squad Manga Resumes Serialization With New Artist Tsurushima
-Mon, 28 Sep 2026 03:48:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/manchuria-opium-squad-manga-resumes-serialization-with-new-artist-tsurushima/.242256
+### Stalled Despera Anime Project Gets Manga
+Mon, 28 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/stalled-despera-anime-project-gets-manga/.242273
 
-Tsurushima takes over manga's artist Shikako who died in November 2025
+Manga debuts with new setting/era in 2027
 
-### 4 of Dragon Ball Z's Goku Voice Actors Perform Kamehameha Together
-Sun, 27 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-27/4-of-dragon-ball-z-goku-voice-actors-perform-kamehameha-together/.242240
+### Sparks of Tomorrow ‒ Episode 13
+Mon, 28 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-13/.242250
 
-Masako Nozawa, Sean Schemmel, Mario Castañeda, Ankur Javeri team up
+<i>Sparks of Tomorrow</i> routinely failed to spark any kind of joy or inspiration within me, and I am so glad to be done with this lazy, ahistorical piece of animation.
 
-### Everyone's Darling Has a Secret Manga Gets TV Anime in April
-Sun, 27 Sep 2026 23:58:34 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/everyone-darling-has-a-secret-manga-gets-tv-anime-in-april/.242255
+### S. Korean Gov't Report: Domestic Piracy Webtoon Sites Repeatedly Reopen Under New Addresses
+Mon, 28 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/s-korean-govt-report-domestic-piracy-webtoon-sites-repeatedly-reopen-under-new-addresses/.242253
 
-Reiji Kawashima, Hikaru Tōno star in romantic comedy from Gekkō
+Authorities issued 24,297 access-blocking corrective-action requests for copyright-infringing content from 2023 - August 2026
 
-### Stranger Than Heaven Game Streams In-Depth Video Highlighting 'Showbiz'
-Sun, 27 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/stranger-than-heaven-game-streams-in-depth-video-highlighting-showbiz/.242239
+### Liar Game Anime Gets 2nd Season
+Mon, 28 Sep 2026 12:14:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/liar-game-anime-gets-2nd-season/.242275
 
-Game launches on January 15 for Xbox Series X|S, PS5, PC via Steam
+1st season ended with 26th episode on Monday
 
-### Tetsuya Chiba Puts Hinemosu Notari Nikki Manga on Hiatus Due to Poor Health
-Sun, 27 Sep 2026 21:03:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/tetsuya-chiba-puts-hinemosu-notari-nikki-manga-on-hiatus-due-to-poor-health/.242237
+### Aachi and Ssipak Film Review
+Mon, 28 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/aachi-and-ssipak-film/.242075
 
-Chiba cites summer's severe heat, plans to return to autobiographical manga
+This film isn't for everyone, but it’s like watching someone drop the <i>Rugrats</i> into <i>Akira</i>.
 
-### Sankaku Head Reveals New Himouto! Umaru-chan Manga
-Sun, 27 Sep 2026 20:37:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/sankaku-head-reveals-new-himouto-umaru-chan-manga/.242242
+### Draw This, Then Die! ‒ Episode 12
+Mon, 28 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-12/.242249
 
-<cite>Umaru-chan 100</cite> debuts on <cite>Young Jump+</cite> on October 1
+I think art like this is so important because it serves as a reminder of why we pursue things in the first place.
 
-### CloverWorks' Omnibus Anime Film Grotesqqque Premieres in U.S. on October 8
-Sun, 27 Sep 2026 19:53:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/cloverworks-omnibus-anime-film-grotesqqque-premieres-in-u.s-on-october-8/.242245
+### Manga Up! Global Adds 25 Years in a Dungeon, Wolf Boy's Secret, 6 More Manga
+Mon, 28 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/manga-up-global-adds-25-years-in-a-dungeon-wolf-boy-secret-6-more-manga/.242042
 
-Director Atsushi Nishigori to attend event in-person in New York City
+<cite>A Defeated Saint's Gonna Topple a Kingdom!, Bloody Cross, The After-School Bullying Trial is Now in Session!, Blood Addict</cite>, more manga added
 
-### Mushoku Tensei: Jobless Reincarnation Season 3 Anime's Part 2 Airs in 2027
-Sun, 27 Sep 2026 19:36:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/mushoku-tensei-jobless-reincarnation-season-3-anime-part-2-airs-in-2027/.242246
+### The Elusive Samurai Season 2 ‒ Episode 11
+Mon, 28 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-11/.242224
 
-New season debuted on July 5
+It's fascinating to see Shokan become a genuinely reformed man who is so haunted by his former life as a merciless and cruel bandit.
 
-### Godzilla Minus Zero Live Action Movie Review
-Sun, 27 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/godzilla-minus-zero-live-action-movie/.242227
+### Topco Media Rebrands as Ankey AX, Expanding Webtoon IP Business Into AI
+Mon, 28 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/topco-media-rebrands-as-ankey-ax-expanding-webtoon-ip-business-into-ai/.242254
 
-The King of the Monsters is here to blow you away again—and this time, he’s got company.
+Company stated it plans to further expand its IP × AI business by developing its existing webtoon properties into various forms of AI-generated content
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Black Clover Season 2 Reveals New Pre-Premiere Visual Ahead of October 3 Return
+Mon, 28 Sep 2026 18:18:03 GMT — https://animecorner.me/black-clover-season-2-reveals-new-pre-premiere-visual-ahead-of-october-3-return/
+
+Black Clover Season 2 anime has revealed a new pre-premiere visual ahead of its October 3, 2026 premiere.
+
+### Though I Am an Inept Villainess Anime Reveals Epilogue Visual
+Mon, 28 Sep 2026 11:58:59 GMT — https://animecorner.me/though-i-am-an-inept-villainess-anime-reveals-epilogue-visual/
+
+Though I Am an Inept Villainess anime revealed an epilogue visual featuring the main&hellip;
+
+### Everyone's Darling Has a Secret Gets Anime
+Mon, 28 Sep 2026 11:19:32 GMT — https://animecorner.me/everyones-darling-has-a-secret-gets-anime/
+
+Everyone's Darling Has a Secret manga is getting an anime series. A visual was&hellip;
 
 ### Mushoku Tensei Season 3 Cour 2 Officially Announced
 Sun, 27 Sep 2026 15:08:13 GMT — https://animecorner.me/mushoku-tensei-season-3-cour-2-officially-announced/
@@ -88,32 +103,17 @@ Sun, 27 Sep 2026 08:09:39 GMT — https://animecorner.me/imu-uses-domi-reversi-i
 
 ONE PIECE revealed the preview for Episode 1180, showing Imu using the skill Domi Reversi while facing the giants.
 
-### Re:ZERO Season 4 Final Episode to Air as 45-Minute Extended Special on September 30
-Sat, 26 Sep 2026 14:45:52 GMT — https://animecorner.me/rezero-season-4-final-episode-to-air-as-45-minute-extended-special-on-september-30/
-
-Re:ZERO Season 4 will conclude with an extended 45-minute final episode (Episode 19) on September 30, 2026.
-
-### Netflix Faces New Backlash After Steel Ball Run JoJo Fans Call for Ending Theme Change Due to Dr. Luke Credit
-Sat, 26 Sep 2026 14:03:32 GMT — https://animecorner.me/netflix-faces-new-backlash-after-steel-ball-run-jojo-fans-call-for-ending-theme-change-due-to-dr-luke-credit/
-
-Netflix is facing new backlash following the release of the ending theme for STEEL&hellip;
-
-### TenSura Season 4 Cour 3 Set for July 2027, Clayman REVENGE Anime Announced for April
-Sat, 26 Sep 2026 13:37:51 GMT — https://animecorner.me/tensura-season-4-cour-3-set-for-july-2027-clayman-revenge-anime-announced-for-april/
-
-TenSura Season 4 will continue with its third cour in July 2027, with a Clayman REVENGE anime adaptation set to begin in April 2027.
-
-### Frieren Celebrates 3rd Anime Anniversary With Special Visual, Season 3 Still One Year Away
-Sat, 26 Sep 2026 11:25:31 GMT — https://animecorner.me/frieren-celebrates-3rd-anime-anniversary-with-special-visual-season-3-still-one-year-away/
-
-Frieren: Beyond Journey’s End revealed a special new visual to mark the third anniversary of the anime’s first broadcast in September 2023.
-
-### October 10 Officially Designated as "Gintama Day" by Japan Anniversary Association
-Sat, 26 Sep 2026 11:14:06 GMT — https://animecorner.me/october-10-officially-designated-as-gintama-day-by-japan-anniversary-association/
-
-October 10 has officially been designated as “Gintama Day” by the Japan Anniversary Association, coinciding with Gintoki's birthday.
-
 ## MyAnimeList News
+
+### Liar Game Second Season Announced
+Mon, 28 Sep 2026 09:04:31 -0700 — https://myanimelist.net/news/74770586?_location=rss
+
+The 26th and final episode of Liar Game ended with an announcement on Tuesday that a second season is in production. The animation character designer Kei Tsuchiya drew an illustration to commemorate the announcement (pictured). Produced by Madhouse, the television anime series adapting Shinobu Kaitani s psychological thriller manga aired in 26 episodes on April 7. Crunchyroll simulcast the television anime series with subtitles and an English dub. Kaitani serialized the psychological suspen...
+
+### Bleach: Sennen Kessen-hen - Kashin-tan Announces Additional Cast Pair
+Mon, 28 Sep 2026 07:57:46 -0700 — https://myanimelist.net/news/74770224?_location=rss
+
+The official website of the Bleach: Sennen Kessen-hen - Kashin-tan (Bleach: Thousand-Year Blood War - The Calamity) television anime announced an additional pair of cast on Monday. The anime series premiered on July 25 at 11.00 p.m. on TV Tokyo and its affiliates. The final two episodes of the series will air on October 20 and October 27 at 12:00 a.m. on TV Tokyo Network, respectively. Voice actresses Azusa Tachibana (Kuroneko to Majo no Kyoushitsu) and Ayaka Ohashi (Jishou Akuyaku Reijou na Kon...
 
 ### Web Manga Houkago no Idol ni wa Himitsu ga Aru Gets TV Anime in Spring 2027
 Sun, 27 Sep 2026 20:49:54 -0700 — https://myanimelist.net/news/74768378?_location=rss
