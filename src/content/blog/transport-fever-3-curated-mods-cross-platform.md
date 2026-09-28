@@ -21,7 +21,6 @@ artistView:
   misses:
     - "Performance: reviewers list long loading times and frame-rate dips, and a sim that renders hundreds of moving vehicles pays for every one of them in draw calls. Loading time in this genre is usually the scene graph being rebuilt, not the disk."
     - "Rendering: the visual gain over Transport Fever 2 is described as modest, which for a seven-year gap suggests the budget went into simulation depth rather than the renderer."
-draft: true
 ---
 
 Console mod support has always died at certification. Sony and Microsoft both
