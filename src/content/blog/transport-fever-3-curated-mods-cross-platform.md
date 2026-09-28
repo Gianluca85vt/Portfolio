@@ -44,6 +44,11 @@ kind of work that does not show up in a trailer.
 
 ## The modders were in the room before the tools were finished
 
+<figure>
+  <img src="/img/blog/transport-fever-3-curated-mods-cross-platform/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Urban Games / Paradox Interactive, via the official Steam page</figcaption>
+</figure>
+
 The Curated Mods Program was announced in April. A set of experienced series
 modders got early builds, a financial grant, an in-game marker on their work,
 and the part that matters more than any of it: a say in the final stretch of the
