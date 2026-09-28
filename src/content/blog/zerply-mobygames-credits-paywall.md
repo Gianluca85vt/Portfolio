@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: Zerply switches off today; MobyGames now charges $14.99 a month for the credits studios left off. Nobody is paid to keep the record of who made the work.
-draft: true
 sources:
   - outlet: Eurogamer
     url: https://www.eurogamer.net/mobygames-professional-developer-credits-portfolio
