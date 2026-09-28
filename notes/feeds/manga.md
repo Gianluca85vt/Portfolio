@@ -1,66 +1,66 @@
-# Manga — harvested 2026-09-27T19:52:06.093Z
+# Manga — harvested 2026-09-28T11:13:53.104Z
 
 ## Anime News Network
 
-### 'Destroy All Humans. They Can't Be Regenerated. A Magic: The Gathering Manga' Gets Miniseries in October
-Sun, 27 Sep 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/destroy-all-humans-they-cant-be-regenerated-a-magic-the-gathering-manga-gets-miniseries-in-october/.242220
+### Lone Wolf and Cub Deluxe Edition Manga Wins Ringo Award
+Mon, 28 Sep 2026 06:24:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/lone-wolf-and-cub-deluxe-edition-manga-wins-ringo-award/.242264
 
-Original series based on card game ended in April 2025
+Deluxe Edition wins 'Best Presentation in Design' award from jury, fans
 
-### Akaza Samamiya's Mr. Mallow Blue Side Story Manga Ends in Next Chapter
-Sun, 27 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/akaza-samamiya-mr-mallow-blue-side-story-manga-ends-in-next-chapter/.242225
+### Zero-sen Hayato Anime Scriptwriter Sō Kuramoto Dies at 91
+Mon, 28 Sep 2026 05:59:45 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/zero-sen-hayato-anime-scriptwriter-so-kuramoto-dies-at-91/.242263
 
-Side story debuted in January
+Kuramoto died of multiple organ failure on September 18
 
-### Orbitals Game Review
-Sun, 27 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/orbitals/.241790
+### Psyren TV Anime Reveals Ending Song by Who-ya Extended
+Mon, 28 Sep 2026 05:04:59 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/psyren-tv-anime-reveals-ending-song-by-who-ya-extended/.242265
 
-Despite the gorgeous veneer, the characterization and writing in Orbitals don't have anywhere near the same amount of gas that everything else in it does.
+Artist performs "ICARUS" ending song for October 5 series
 
-### Killing Bites' Shinya Murata Launches New Fantasy Ninja Manga
-Sun, 27 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/killing-bites-shinya-murata-launches-new-fantasy-ninja-manga/.242226
+### Manchuria Opium Squad Manga Resumes Serialization With New Artist Tsurushima
+Mon, 28 Sep 2026 03:48:02 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/manchuria-opium-squad-manga-resumes-serialization-with-new-artist-tsurushima/.242256
 
-<cite>Shinoblade SHINOBI BLADE</cite> debuted on September 25
+Tsurushima takes over manga's artist Shikako who died in November 2025
 
-### One Peace Books Adds 'My Life Turned Around: After I Was Betrayed and Framed, I Won the Heart of the Most Beautiful Girl at School' Manga
-Sun, 27 Sep 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/one-peace-books-adds-my-life-turned-around-after-i-was-betrayed-and-framed-i-won-the-heart-of-the-/.242211
+### 4 of Dragon Ball Z's Goku Voice Actors Perform Kamehameha Together
+Sun, 27 Sep 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-27/4-of-dragon-ball-z-goku-voice-actors-perform-kamehameha-together/.242240
 
-Manga launches in English on July 20, 2027
+Masako Nozawa, Sean Schemmel, Mario Castañeda, Ankur Javeri team up
 
-### Monster Strike Franchise Gets New Mera×Death: Shinigami to Boku no Ijō na Koi TV Anime Starting on January 5
-Sun, 27 Sep 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/monster-strike-franchise-gets-new-mera-death-shinigami-to-boku-no-ijo-na-koi-tv-anime-starting-on-/.242234
+### Everyone's Darling Has a Secret Manga Gets TV Anime in April
+Sun, 27 Sep 2026 23:58:34 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/everyone-darling-has-a-secret-manga-gets-tv-anime-in-april/.242255
 
-Promo video, key visual, full staff revealed
+Reiji Kawashima, Hikaru Tōno star in romantic comedy from Gekkō
 
-### 'Welcome to Demon School, Iruma-kun' Anime Unveils 1st Film Project
-Sun, 27 Sep 2026 06:39:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/welcome-to-demon-school-iruma-kun-anime-unveils-1st-film-project/.242238
+### Stranger Than Heaven Game Streams In-Depth Video Highlighting 'Showbiz'
+Sun, 27 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/stranger-than-heaven-game-streams-in-depth-video-highlighting-showbiz/.242239
 
-Original manga also celebrates 10th anniversary in March 2027
+Game launches on January 15 for Xbox Series X|S, PS5, PC via Steam
 
-### We Are Aliens Film, Eri Short Anime, Candy Caries Win at Ottawa Int'l Animation Festival
-Sun, 27 Sep 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/we-are-aliens-film-eri-short-anime-candy-caries-win-at-ottawa-intl-animation-festival/.242232
+### Tetsuya Chiba Puts Hinemosu Notari Nikki Manga on Hiatus Due to Poor Health
+Sun, 27 Sep 2026 21:03:55 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/tetsuya-chiba-puts-hinemosu-notari-nikki-manga-on-hiatus-due-to-poor-health/.242237
 
-<cite>We Are Aliens</cite> wins Grand Prize for Animated Feature, <cite>Eri</cite> wins Best Animated Short Award, <cite>Candy Caries</cite> won at Animation for Young Audiences 7+ category
+Chiba cites summer's severe heat, plans to return to autobiographical manga
 
-### Millennium Family TV Anime Casts Lynn
-Sun, 27 Sep 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/millennium-family-tv-anime-casts-lynn/.242233
+### Sankaku Head Reveals New Himouto! Umaru-chan Manga
+Sun, 27 Sep 2026 20:37:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/sankaku-head-reveals-new-himouto-umaru-chan-manga/.242242
 
-Lynn voices eldest daughter Eve
+<cite>Umaru-chan 100</cite> debuts on <cite>Young Jump+</cite> on October 1
 
-### Space Battleship Yamato Film Director Toshio Masuda Dies at 98
-Sun, 27 Sep 2026 02:08:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/space-battleship-yamato-film-director-toshio-masuda-dies-at-98/.242231
+### CloverWorks' Omnibus Anime Film Grotesqqque Premieres in U.S. on October 8
+Sun, 27 Sep 2026 19:53:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/cloverworks-omnibus-anime-film-grotesqqque-premieres-in-u.s-on-october-8/.242245
 
-<cite>Be Forever Yamato</cite> co-director, scriptwriter also co-directed Japanese side of <cite>Tora! Tora! Tora!</cite> war film
+Director Atsushi Nishigori to attend event in-person in New York City
 
-### Gantz Creator Hiroya Oku Confirms He Drew Thunder 3 Manga Under Pen Name Yuki Ikeda
-Sat, 26 Sep 2026 21:03:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/gantz-creator-hiroya-oku-confirms-he-drew-thunder-3-manga-under-pen-name-yuki-ikeda/.242219
+### Mushoku Tensei: Jobless Reincarnation Season 3 Anime's Part 2 Airs in 2027
+Sun, 27 Sep 2026 19:36:53 -0400 — https://www.animenewsnetwork.com/news/2026-09-27/mushoku-tensei-jobless-reincarnation-season-3-anime-part-2-airs-in-2027/.242246
 
-Series ended on June 5
+New season debuted on July 5
 
-### Overgeared Anime Gets Same-Day English Dub on September 27
-Sat, 26 Sep 2026 20:43:52 -0400 — https://www.animenewsnetwork.com/news/2026-09-26/overgeared-anime-gets-same-day-english-dub-on-september-27/.242208
+### Godzilla Minus Zero Live Action Movie Review
+Sun, 27 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/godzilla-minus-zero-live-action-movie/.242227
 
-Company reveals English dub cast, staff
+The King of the Monsters is here to blow you away again—and this time, he’s got company.
 
 ## Crunchyroll News
 
@@ -113,29 +113,19 @@ Sat, 26 Sep 2026 11:14:06 GMT — https://animecorner.me/october-10-officially-d
 
 October 10 has officially been designated as “Gintama Day” by the Japan Anniversary Association, coinciding with Gintoki's birthday.
 
-### Katekyo Hitman Reborn! Anime Reveals Sixteenth and Final Ending Featuring "Canvas" by +Plus
-Sat, 26 Sep 2026 11:04:26 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-sixteenth-and-final-ending-featuring-canvas-by-plus/
-
-Katekyo Hitman REBORN! anime released the creditless version of its sixteenth and final ending, featuring the song "Canvas" by +Plus.
-
-### Katekyo Hitman Reborn! Anime Reveals Fifteenth Ending Featuring "Famiglia" by D-51
-Sat, 26 Sep 2026 10:53:34 GMT — https://animecorner.me/katekyo-hitman-reborn-anime-reveals-fifteenth-ending-featuring-famiglia-by-d-51/
-
-Katekyo Hitman REBORN! anime has officially released the creditless version of its fifteenth ending, featuring the song "Famiglia" by D-51.
-
-### Code Geass New Anime Announced for 2027 With Teaser Trailer, Visual, and Staff
-Sat, 26 Sep 2026 10:03:03 GMT — https://animecorner.me/code-geass-new-anime-announced-for-2027-with-teaser-trailer-visual-and-staff/
-
-A new Code Geass anime titled Star Chaser Aspal announced for 2027, revealing its teaser trailer, visual, as well as the main staff.
-
 ## MyAnimeList News
+
+### Web Manga Houkago no Idol ni wa Himitsu ga Aru Gets TV Anime in Spring 2027
+Sun, 27 Sep 2026 20:49:54 -0700 — https://myanimelist.net/news/74768378?_location=rss
+
+Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane s Houkago no Idol ni wa Himitsu ga Aru (Everyone s Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime series will premiere in April 2027. Cast Hiruno Hizashi: Reiji Kawashima (Fumetsu no Anata e) Rei Kuromiya: Hikaru Tono (Make Heroine ga Oosugiru) Sakura Akai: Iori Noguchi (=LOVE) (Hashiri Tsuzukete Yokatta tte.) S...
 
 ### Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2 Announced for 2027
 Sun, 27 Sep 2026 08:57:54 -0700 — https://myanimelist.net/news/74766124?_location=rss
 
 The 14th and final episode of Mushoku Tensei III: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation Season 3) television anime announced on Sunday that its second part is scheduled for 2027, accompanied by an announcement promotional video. Produced by Studio Bind, the 23-episode first season aired in split cours in Winter 2021 and Fall 2021. The 24-episode second season premiered in two parts, with the first part in Summer 2023 and the second part in Spring 2024. The first part of...
 
-### New Monster Strike: Mera×Death: Shinigami to Boku no Ijou na Koi Announced for Winter 2027
+### New Monster Strike Anime Mera×Death - Shinigami to Boku no Ijou na Koi Announced for Winter 2027
 Sun, 27 Sep 2026 05:25:21 -0700 — https://myanimelist.net/news/74765539?_location=rss
 
 Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) on Sunday. The official website also revealed the production staff, a key visual (pictured), and the first promotional video. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5, 2027. Staff...
@@ -156,13 +146,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### The Villainess Who Came to Marry into the Frontier Noble s Household Is an Exceptionally Capable Wife, Isn t She? Volume 1 Review
+Mon, 28 Sep 2026 09:00:51 +0000 — https://animeuknews.net/2026/09/the-villainess-who-came-to-marry-into-the-frontier-nobles-household-is-an-exceptionally-capable-wife-isnt-she-volume-1-review/
+
+After being reborn into an otome game, Ragna needs to takes on his duties as a noble, including marrying the villainess, and surviving whatever this new life throws at him.
+
 ### Reset (Reset/Reboot Volume 1) Review
 Sun, 27 Sep 2026 09:00:01 +0000 — https://animeuknews.net/2026/09/reset-reset-reboot-volume-1-review/
 
 High school basketball team members Sou and his childhood friend Touma are in a secret relationship. What happens when teammate Maki begins to ask Touma questions?
-
-### The Princess Groom Volume 1 Review
-Sat, 26 Sep 2026 09:00:40 +0000 — https://animeuknews.net/2026/09/the-princess-groom-volume-1-review/
-
-Square Enix Manga brings us a new fantasy romance, but with a twist! A prince who dreams of being doted on and a boisterous noble lady who wants to shower her husband-to-be with affection.
 

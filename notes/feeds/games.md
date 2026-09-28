@@ -1,6 +1,16 @@
-# Games — harvested 2026-09-27T19:52:06.093Z
+# Games — harvested 2026-09-28T11:13:53.104Z
 
 ## Eurogamer
+
+### As World of Warcraft: Forever's beta popularity grows, Blizzard has yet again had to increase the server cap
+Mon, 28 Sep 2026 08:56:07 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-beta-server-cap-increase
+
+World of Warcraft: Forever's beta appears to be growing in popularity, as one of Blizzard's leads has revealed the server capacity had to be increased over the weekend. Read more
+
+### Marvel's Wolverine finally lets you turn off "fart gas" scent trails completely, but there's a catch
+Mon, 28 Sep 2026 08:12:52 +0000 — https://www.eurogamer.net/marvels-wolverine-patch-turn-off-scent-trails
+
+Marvel's Wolverine has received a new update that should hopefully bring an end to the "fart gas" scent trails saga. The latest patch, version 1.001.006, includes an option to turn off scent trails for Whiskey Bottle collectibles, Material Crate audio pings as well as Nightmare Door roots using three separate toggles in the Gameplay menu. Read more
 
 ### Five Nights at Freddy's is coming to Fortnite for Fortnitemares
 Sun, 27 Sep 2026 15:25:18 +0000 — https://www.eurogamer.net/fortnite-five-nights-at-freddys-fortnitemares-collab
@@ -42,25 +52,28 @@ Sat, 26 Sep 2026 11:53:56 +0000 — https://www.eurogamer.net/mobygames-professi
 
 Video game database MobyGames will let developers claim video game credits and customise their personal portfolios, albeit only via a new premium tier. Read more
 
-### US court orders Redditor to pay Nintendo £3.4m over Switch piracy
-Sat, 26 Sep 2026 10:18:58 +0000 — https://www.eurogamer.net/nintendo-archbox-reddit-switch-piracy-3-4-million
-
-A US District Judge has granted Nintendo a &pound;3.4 million ($4.5m) default judgment against James Williams, the former Reddit moderator known online as "Archbox", after he failed to respond to a lawsuit over alleged Nintendo Switch piracy. Read more
-
-### What we've been playing - "I curl up on my sofa and breed my army of battle cats"
-Sat, 26 Sep 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-i-curl-up-on-my-sofa-and-breed-my-army-of-battle-cats
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Bertie's still pretending to be a vampire, Kelsey's been breeding an army of cats, Mat's been melting mounted warriors, Marie's been a willing accomplice, and Connor's been smitten all over again. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Microsoft boss Nadella says Xbox has to invent "sustainable business model"
+Mon, 28 Sep 2026 09:05:32 +0000 — https://www.gamesindustry.biz/microsoft-boss-nadella-says-xbox-has-to-invent-sustainable-business-model
+
+The CEO of Microsoft, Satya Nadella, has said that the company's Xbox division needs to "invent" the correct "sustainable business model" to allow it to reach more and more people with its games. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### The Witcher 3 Remastered a 45GB PS5 Patch, Release Times Revealed
+Mon, 28 Sep 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/09/the-witcher-3-remastered-a-45gb-ps5-patch-release-times-revealed
+
+An update to current PS5 version. As a quick reminder, the newly remastered version of The Witcher 3 is an update to the current Complete Edition for the RPG, and that patch will be around 45GB in size. CD Projekt Red executive Marcin Momot revealed the download size of the update across all platforms in time for the weekend just gone, confirming PS5 and Xbox Series X|S players will have the same amount of data to download. It's a bit bigger on Nintendo Switch 2 (50GB), but the same on PC. Read the full article on pushsquare.com
+
+### Sony s Hearing a Lot of the Feedback from Customers : NIS America Boss Weighs in on PS5 Disc Debate
+Sun, 27 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/09/sonys-hearing-a-lot-of-the-feedback-from-customers-nis-america-boss-weighs-in-on-ps5-disc-debate
+
+"We'll have to see what happens". Behemoth publishers like SEGA and Capcom have indicated they’re not particularly fussed about Sony’s decision to cease manufacturing physical media in 2028. But it’s interesting to hear from companies like NIS America, who have built elaborate collector’s editions into their business model. Read the full article on pushsquare.com
 
 ### Xbox Allegedly Paying a Fraction of the $400 Million Budget Kojima Is Rumoured to Have Quoted Sony for Physint
 Sat, 26 Sep 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/09/xbox-allegedly-paying-a-fraction-of-the-usd400-million-budget-kojima-is-rumoured-to-have-quoted-sony-for-physint
@@ -86,36 +99,6 @@ It can't be for nothing. Sony’s Welcome Hub – the customisable screen you se
 Sat, 26 Sep 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/09/the-last-of-us-day-celebrations-will-bring-partnerships-and-collaborations-season-3-casting-news-announced
 
 John Goodman, Ian Alexander, and Laura Bailey join HBO show. A very happy The Last of Us Day everyone – even if the celebrations are somewhat on hold. Naughty Dog has announced that it’s pausing the festivities until Monday, 28th September, where it’ll be hosting a charity stream on Twitch . You can learn more about that through here . Read the full article on pushsquare.com
-
-### Guide: These 21+ PS5 and PS Plus Games Are Coming Out Next Week (28th-4th October)
-Sat, 26 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-21plus-ps5-and-ps-plus-games-are-coming-out-next-week-28th-4th-october
-
-Ace Combat 8! The Witcher 3! Toem 2! The bumper release schedule continues in earnest next week, with a few giants pulling for your attention. Among them is The Witcher 3: Wild Hunt Remastered and the acclaimed Ace Combat 8: Wings of Theve . Read the full article on pushsquare.com
-
-### Feature: Delta Force Celebrates Its Second Anniversary with New Season Reorientation
-Sat, 26 Sep 2026 09:30:00 GMT — https://www.pushsquare.com/features/delta-force-celebrates-its-second-anniversary-with-new-season-reorientation
-
-Gameplay tweaks, new maps, modes and even more content are coming to Delta Force. Delta Force’s mission has always been to incorporate player feedback to create the best experience possible for its players. As Delta Force players prepare for the free-to-play first-person tactical shooter’s second anniversary, the developers at Team Jade have been hard at work, listening to two years of player feedback as the game has evolved since its initial PC launch, since coming to mobile and Xbox Series X|S. The second-anniversary celebration kicks off September 26th, with daily tasks that offer players the chance to grab up to 3900 limited-time Delta Tickets, and new collectibles like a new legendary appearance for the AUG, called Golden State. Read the full article on pushsquare.com
-
-### Guide: All PS Plus Games Available Now
-Sat, 26 Sep 2026 00:15:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
-
-Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
-
-### GTA 6 Fronts Next Game Informer Cover with New Info and Screenshots
-Sat, 26 Sep 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/09/gta-6-fronts-next-game-informer-cover-with-new-info-and-screenshots
-
-Out on 29th September. More information on GTA 6 and new screenshots will be revealed next week as part of a Game Informer issue all about the next Rockstar open worlder. The two protagonists, Jason and Lucia, are on the front cover with yet another stylised image of them in a car equipped with guns. "Our 14-page cover story features exclusive interviews with Rockstar Games, plus a dozen new screenshots," the outlet teased today. The issue is out on Tuesday, 29th September 2026. Read the full article on pushsquare.com
-
-### Newest Wolverine PS5 Update Wipes Out Scent Trails to Collectibles
-Fri, 25 Sep 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/09/newest-wolverine-ps5-update-wipes-out-scent-trails-to-collectibles
-
-Now find them for yourself. Insomniac has pushed live another PS5 patch to Marvel's Wolverine that further addresses the complaints surrounding the scent trail that guides you to objectives and collectibles at certain points. Having downloaded PS5 patch 1.001.006 , there will be a new toggle in the settings that lets you turn off all of the scent trails and indicators that lead you to collectibles. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 651
-Fri, 25 Sep 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-651
-
-What a horrible night to have a curse. After weeks and weeks of crazy gaming stories, I think it was nice to have a slower one this time. Don’t get me wrong, there’s tons of titles coming out, but the news cycle in particular was a lot steadier these past few days. Let’s WAYP. Jamie O’Neill Portable PS1 games on my PS Vita are serving me well at the moment, so I'm going to follow in Stephen's footsteps – echoing through Dracula's castle's stone flooring from back in WAYP 639 – by returning to Castlevania: Symphony of the Night . Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -157,6 +140,26 @@ no date — https://www.gamedeveloper.comfestival.gamesforchange.org
 
 ## VGC
 
+### The Elder Scrolls never got a spin-off like Fallout: New Vegas because Todd Howard is protective of the IP, former dev says
+Mon, 28 Sep 2026 10:40:07 +0000 — https://www.videogameschronicle.com/news/the-elder-scrolls-never-got-a-spin-off-like-fallout-new-vegas-because-todd-howard-is-protective-of-the-ip-former-dev-says/
+
+The Elder Scrolls Online "took the heat off" fan requests for a spin-off game… Source
+
+### The Witcher 3 Remastered release times in your time zone and update file size
+Mon, 28 Sep 2026 10:19:52 +0000 — https://www.videogameschronicle.com/guide/witcher-3-remastered-release-times-in-your-time-zone-and-update-file-size/
+
+When you can start downloading the Remastered update for The Witcher 3 on PC, PS5, Xbox, and Nintendo Switch 2… Source
+
+### Disgaea creator says he sees AI s benefit as a tool but has absolutely no interest in using it to write stories
+Mon, 28 Sep 2026 09:36:20 +0000 — https://www.videogameschronicle.com/news/disgaea-creator-says-he-sees-ais-benefit-as-a-tool-but-has-absolutely-no-interest-in-using-it-to-write-stories/
+
+Sohei Niikawa says it's not fun or interesting to have AI create characters and plots for him… Source
+
+### Video Game Release Dates 2026: New Games Coming in October, November December
+Mon, 28 Sep 2026 09:00:27 +0000 — https://www.videogameschronicle.com/guide/upcoming-game-release-dates-schedule/
+
+UPDATED October 2026: All the biggest game release dates for the end of 2026… Source
+
 ### Sony patents PlayStation controller that accepts credit card payments
 Sun, 27 Sep 2026 07:54:14 +0000 — https://www.videogameschronicle.com/news/sony-patents-playstation-controller-that-accepts-credit-card-payments/
 
@@ -174,57 +177,75 @@ Executive says he's feeling good about Xbox's remaining studios and IPs… Sourc
 
 ## Polygon
 
-### 13 Years Ago, One Dark JRPG Proved Atlus Could Still Be Hardcore
-Sun, 27 Sep 2026 19:00:17 GMT — https://www.polygon.com/shin-megami-tensei-4-3ds-jrpg-retrospective/
+### Fortnite's Spooky Month Kicks off With Five Nights at Freddy's Crossover
+Mon, 28 Sep 2026 11:12:32 GMT — https://www.polygon.com/fortnite-five-nights-at-freddys-collab-fortnitemares/
 
-Today, we recognize Atlus for the Persona , Etrian Odyssey, and Trauma Center franchises, as well as for the years it spent publishing interesting RPGs from smaller Japanese developers that otherwise might never have made it to North America. That history is worthwhile. It also means that when players who grew up loving Social Links and fun school field trips in their JRPGs dig into the publisher’s backlog looking for more of the same, they’ll find a darker side they might not have expected.
+Fortnite has an annual Halloween event called Fortnitemares, and it is one reason many players look forward to the month of October in-game. The event usually consists of crossovers with horror franchises, spooky makeovers to Battle Royale POIs, and limited-time items, like the Pumpkin Launcher and candy. This year's Fortnitemares hasn't even begun, and fans are already on the edge of their seats for its first collab: Five Nights at Freddy 's .
 
-### 'Forgotten Island's Stars Explain "Tayo Na!", the Movie's Biggest Shifting In-Joke
-Sun, 27 Sep 2026 18:00:15 GMT — https://www.polygon.com/forgotten-island-tayo-na-explained/
+### Pokémon's 30th Anniversary Happy Meal Toy Will Unleash Scalper Hell
+Mon, 28 Sep 2026 09:12:09 GMT — https://www.polygon.com/pokemon-tcg-anniversary-mcdonalds-happy-meal-toys-trading-cards-scalpers/
 
-In the new DreamWorks animated movie Forgotten Island , the two teenage leads, Jo and Raissa, say the same phrase to each other over and over: “Tayo na!” As with a lot of the other Filipino cultural elements in the movie, writer-directors Joel Crawford and Januel P. Mercado don’t explain these Tagalog words: They just let viewers pick up the meaning from context.
+As part of Pokémon 's 30th anniversary celebrations, the company is collaborating with McDonald's once again to bring Pokémon Trading Card Game cards to Happy Meals. It's almost a certainty that scalpers will be working overtime to catch 'em all. Perhaps this will be the scalpers' next target after their disappointment with the 30th-anniversary products .
 
-### Control Resonant's Completely Ignores The Most Interesting Character
-Sun, 27 Sep 2026 17:00:15 GMT — https://www.polygon.com/control-resonant-biggest-issue-oldest-house/
+### Dragon Ball Super: Beerus Episode Count and Streaming Details Teased by New Leaks
+Mon, 28 Sep 2026 09:02:11 GMT — https://www.polygon.com/dragon-ball-super-beerus-anime-remake-episode-count-arcs/
 
-As a sequel to 2019’s Control , Control Resonant makes an effort to stand on its own. The lockdown in the Oldest House is over, and Dylan Faden is charged with saving the world (a.k.a. Manhattan), which is now suffering the effects of both the Hiss and a new paranormal entity. While I didn't mind these changes, developer Remedy Entertainment loses track of a precious narrative element that made Control a scary experience in a very particular way. The Oldest House, the most interesting character of the first Control, becomes a piece of memorabilia as Dylan hops around a warped Manhattan.
+It's a strange time to be a Dragon Ball fan. For the first time in years, the franchise will not be featured at Jump Festa, the yearly showcase held by the manga's publisher, Shueisha. Along with the lack of news regarding a continuation of the Dragon Ball Super manga , this does not bode well for the future of the series. At the same time, however, Dragon Ball Super: Beerus , the remake of the Dragon Ball Super anime, is about to start airing this October.
 
-### Witcher Dev Reveals Why CD Projekt Red Doesn't Do Crossovers In Its Own Games
-Sun, 27 Sep 2026 16:31:42 GMT — https://www.polygon.com/the-witcher-cyberpunk-no-crossover-content/
+### 5 Detective Books That Are Page-Turners From Start to Finish
+Mon, 28 Sep 2026 08:00:15 GMT — https://www.polygon.com/best-detective-books-page-turners-start-finish/
 
-CD Projekt Red's The Witcher and Cyberpunk franchises are no stranger to collaborations and crossover with other games. At BlizzCon, we learned that a Geralt-inspired Barbarian skin is coming to Diablo 4 and Cyberpunk: Edgerunners outfits are headed to Overwatch next year. The collaborations don't go the other way, though. The Witcher 3 Remastered , for example, doesn't include any Diablo-inspired outfits for Geralt when you buy it on Battle.net .
+Detective stories can take many forms, but here are five genre books that are engrossing page-turners from start to finish.
 
-### Xbox Almost Spoiled the Best Time of Year for Games
-Sun, 27 Sep 2026 16:00:18 GMT — https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/
+### 35 Years Later, the '90s Remake of a Cult Classic Thriller Is Officially Free to Watch on YouTube
+Mon, 28 Sep 2026 04:00:21 GMT — https://www.polygon.com/dark-shadows-revival-free-youtube-september-2026/
 
-Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here .
+A young woman embarks on an unexpected journey. Despite the excitement and possibilities of her future, there’s also fear. She boards a train that will take her to a new home atop a stormy cliff at the edge of the sea, a place defined by the fog and its history. She’s a governess, and she’ll be responsible for teaching and caring for a wealthy boy.
 
-### Avengers: Endgame Encore's Success Sets The Stage For Doomsday
-Sun, 27 Sep 2026 15:42:23 GMT — https://www.polygon.com/avengers-endgame-encore-box-office/
+### The Definitive ’90s Sci-Fi Action Blockbuster Is Officially Streaming for Free on YouTube
+Mon, 28 Sep 2026 03:17:15 GMT — https://www.polygon.com/stargate-movie-streaming-free-youtube-september-2026/
 
-Avengers: Endgame Encore hit theaters this weekend, and it did well enough to show pent-up anticipation for a new Avengers movie to come out. Thankfully, people won't have to wait that long, as Avengers: Doomsday will be released in December.
+Enter Roland Emmerich's Stargate . The 1994 action-adventure movie with a sci-fi twist drops Egyptologist Daniel Jackson (James Spader) and Special Forces Colonel Jack O'Neil (Kurt Russell) into an otherworldly Egypt after unlocking a portal that allows access across the universe. The basic setup makes the story feel like a lost-civilization adventure before it becomes a traditional alien-invasion story. There are ancient gods, mysterious hieroglyphics, buried secrets, enormous temples, and an entire civilization living under the thumb of a supposed god.
 
-### The Real Budget Of Hideo Kojima's Physint Remains A Mystery
-Sun, 27 Sep 2026 14:43:45 GMT — https://www.polygon.com/physint-budget-controversy/
+### 2024's Best RPG Is a Must-Play for Fire Emblem Fans
+Mon, 28 Sep 2026 03:00:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-metaphor-refantazio/
 
-After a claim earlier this week suggested that Hideo Kojima's Physint may have cost upwards of $400 million, rampant speculation about the Metal Gear Solid spiritual successor's budget ensued. We still don't know Physint's actual budget, but Bloomberg's Jason Schreier and Windows Central report that it's not quite that high.
+There have been plenty of RPGs over the years that include an arena combat segment. It's as much a staple of the genre as a sewer dungeon and a prison break. But most of the time, it's just a brief diversion from the main quest of saving the world and/or killing a wrathful god. That's not the case with Fire Emblem: Fortune's Weave , whose first act lets you experience Dagsion's Heroic Games through the eyes of four rival contenders . If you're enchanted by the concept of an RPG centered around a high-stakes tournament, you absolutely need to check out Atlus's 2024 banger, Metaphor ReFantazio .
 
-### Flying a Helicopter Is 2026’s Most Stressful Gaming Experience
-Sun, 27 Sep 2026 14:00:17 GMT — https://www.polygon.com/wardogs-helicopter-flying-most-stressful-gaming-experience/
+### 'Lanterns' Episode 7 Ending Explained: Antaan, Sinestro, and Who Killed Hal Jordan?
+Mon, 28 Sep 2026 02:00:26 GMT — https://www.polygon.com/lanterns-episode-7-ending-explained-what-planet-is-sinestro-on/
 
-2026 has been full of stressful moments in video games. Running away from a huge, flabby monster as Grace Ashcroft in Resident Evil Requiem . Fighting Damien Webb in the sewers in 007 First Light . Losing your grip on the final handhold of a cliff face in Cairn . But none of those come close to the nerve-wracking experience of piloting a helicopter in Wardogs .
+The penultimate episode of HBO’s Lanterns sees the core duo of John Stewart (Aaron Pierre) and Hal Jordan (Kyle Chandler) reunite in the strangest way imaginable. Now that we’re squarely in the present day, the mystery has shifted from the secret identity of Manhunter to who killed the real Hal Jordan . To help with the investigation, John takes Hal’s Green Lantern ring at the end of episode 6 (after digging up the casket, of course) so he can manifest the Hal-ogram, a backup of Hal’s consciousness from 2006, stored within the ring.
 
-### Star Wars Episode 10 Has Found Its Director
-Sun, 27 Sep 2026 13:43:55 GMT — https://www.polygon.com/star-wars-episode-10-director/
+### HBO Just Officially Changed a Fundamental Rule of Green Lantern Canon
+Mon, 28 Sep 2026 02:00:26 GMT — https://www.polygon.com/hbo-lanterns-episode-7-john-stewart-powers-green-lantern/
 
-Disney and Lucasfilm just brought on a director for an upcoming Star Wars movie reportedly continuing the Skywalker Saga. It's Jon Watts, a director you know best for his work on the Marvel Cinematic Universe's Spider-Man trilogy .
+Ten years later, John Stewart continues to do the impossible.
 
-### Control Resonant Has a Secret Weapon in the GOTY Race
-Sun, 27 Sep 2026 13:00:15 GMT — https://www.polygon.com/control-resonant-goty-game-of-the-year-game-awards/
+### 9 Classic 'Far Side' Comics About Cats Being the Worst
+Mon, 28 Sep 2026 01:00:15 GMT — https://www.polygon.com/best-far-side-comics-about-cats/
 
-In 2019, the first Control received an amazing eight nominations, including for Game of the Year, despite only mild acclaim from critics. (It has a Metacritic rating of 82.) It went on to win Best Art Direction. Then, in 2023, Alan Wake 2 converted three of its eight nominations into wins, including in the key Game Direction and Narrative categories.
+Cats, however, can never be heroes.
 
 ## PC Gamer
+
+### I'm sure whoever chose to charge for WoW: Forever beta access is feeling very chuffed, given Blizzard's had to expand its server size a second time
+Mon, 28 Sep 2026 10:51:25 +0000 — https://www.pcgamer.com/games/world-of-warcraft/im-sure-whoever-chose-to-charge-for-wow-forever-beta-access-is-feeling-very-chuffed-given-blizzards-had-to-expand-its-server-size-a-second-time/
+
+### Steam Week in Review: Great, haystack slop is a thing now
+Mon, 28 Sep 2026 01:57:44 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-great-haystack-slop-is-a-thing-now/
+
+Clones have been a fixture in the games industry forever. For every Mario Bros there's a Giana Sisters, for every Stardew Valley there's a Fields of Mistria, and for every Needle In A Haystack Simulator there's a A Needle In a Haystack, or Needle in a Haystack, or Needle In A Haystack, or Needle In A Haystack - A Time For Goats, or Story of The Needle In a Haystack. The total slopification of Steam continues apace and the recent spray of haystack games is the purest manifestation of this phenomenon. The first—as far as I can tell—was Needle In A Haystack Simulator, which is scheduled for release in Q4 2026. According to developers Studio Bitdot, a playtest in August attracted around 23,000 players , which is an astonishing figure for a game about finding a needle in a haystack. I'm not surprised that Needle In A Haystack Simulator is popular, mind you. Games about meaningless and repetitive labour are all the rage . Needle In A Haystack Simulator hybridises sorting and incremental games: the player must manually sift through hay to find the needle, but sifting will also unearth items that can be sold for profit, all the better to invest in more efficient hay sorting technology. It sounds arduous and annoying, but there is, regrettably, a market for it. (Image credit: Studio Bitdot) At least two needle in a haystack games have beaten Studio Bitdot to release. Needle In A Haystack - A Time For Goats released on September 19 and, according to developer Red Key Games, had sold a 
+
+### Industry insiders and Tokyo gossip suggest Kojima is getting less money from Xbox than original PlayStation budget for Physint
+Mon, 28 Sep 2026 01:19:40 +0000 — https://www.pcgamer.com/games/industry-insiders-and-tokyo-gossip-suggest-kojima-is-getting-less-money-from-xbox-than-original-playstation-budget-for-physint/
+
+The facts: Hideo Kojima's return to stealth-action, Physint, is no longer a PlayStation joint, and Microsoft picked up the ball . It still has big Hollywood talent, with Bill Skarsgård in the lead role . That's literally it. What people are saying: Alright, so what does that mean? Both Corden and Schreier's sources suggest Kojima Productions is working on a tighter budget with Microsoft than it was with Sony It's unclear how much had already been spent on Physint, and how much of the work on it is transferable—Kojima Productions presumably no longer has access to Sony's proprietary Decima Engine, for example. GamesRadar quoted a rumored budget for Death Stranding 2 "somewhere between $150-200 million." Insomniac's Spider-Man 2, with a leaked budget of $300 million , is widely agreed to have been an expensive gamble for PlayStation. Scooping Kojima was a PR victory for Xbox amid its unpopular, studio-killing "Reset," but its continued financial woes would give them incentive for doing it on the cheap. Whether Sony pulling out was a surprise as Kojima says , or preceded by months of negotiations, as alleged by Bloomberg , Kojima would not have been negotiating from a place of strength with Microsoft—his studio's health and employees' livelihoods were on the line. None of this strikes me as conducive to making a good videogame under healthy, happy working conditions. I really stuck on Schreier's phrasing, "certain A-list actors attached," regarding Physint. The game's first publ
+
+### Former Dragon Age executive producer Mark Darrah explains what he'd change about each game: 'It's kind of filler'
+Mon, 28 Sep 2026 00:15:39 +0000 — https://www.pcgamer.com/games/dragon-age/former-dragon-age-executive-producer-mark-darrah-explains-what-hed-change-about-each-game-its-kind-of-filler/
+
+Over on Tiktok , Mark Darrah was asked, "If you could go back in time what would you remove from each of the Dragon Age games and what would you add?" Like everyone who ever installed the Skip the Fade mod for Dragon Age: Origins, Darrah thinks the Lost in Dreams quest needs a snip. "I would be tempted to cut or dramatically reduce the dream sequence part from the Mage Tower," he said. "It's not very good content. It's kind of filler. It was definitely done pretty fast in the end." As for what he'd add to the original, Darrah suggested the planned human origin where you'd get to play one of the avvar in the Korcari Wilds. "I would like to have another human origin," he said, "but wow, what an expensive add." For Dragon Age 2, Darrah would remove one of the things I found frustrating about it—no matter whether you side with the templars or the mages, you're forced to fight both at the end. Even if you side with Orsino and the Circle of Magi he wigs out from blood magic, proving Meredith and the templars right in believing the mages are "barely tethered nuclear bombs" who do deserve "to be treated as non-humans." Darrah's first suggestion for something to add to Dragon Age 2 is "probably just a couple of more levels to use," and yeah, a little more variety in locations would certainly help. He'd also like to have less gold available in the main questline during act two, as the idea was to encourage sidequesting to raise money for the expedition. As it stands, "If you just do th
 
 ### After 12 years, Dark Souls 2 is finally playable in co-op without interruptions
 Sun, 27 Sep 2026 19:28:43 +0000 — https://www.pcgamer.com/games/dark-souls/after-12-years-dark-souls-2-is-finally-playable-in-co-op-without-interruptions/
@@ -266,27 +287,12 @@ Sun, 27 Sep 2026 13:43:47 +0000 — https://www.pcgamer.com/games/horror/this-am
 
 Like many people, I'm a big fan of quickfire submarine horror adventure Iron Lung . Yet despite receiving rave reviews and spawning a film adaptation by Markiplier, surprisingly few games have picked up its baton of vehicular terror. There are other submarine horror games like Barotrauma , as well as job-based horror games like Klekta and Shift at Midnight . But the former has quite a different vibe, while the latter pair seem more inspired by Lethal Company than David Szymanski's 2022 horror. Which is why I'm so intrigued by The Temple , an upcoming Half-Life 2 total conversion that likewise lets players pilot a terror submarine. But the temple ups the ante by adapting the scares into two other forms of transportation, taking players out of the depths all the way up into space. The Temple is set on an aquatic planet dotted by strange, concrete megastructures, which you're tasked with exploring using three separate vehicles. One, as mentioned, is a submarine that will take you into the depths of its ocean. The others are an airship for exploring its skies and abandoned towers, and a space shuttle that lets you travel to asteroidal moons that orbit the planet. The Temple was originally released as a pair of maps for MapLabs , a mod that collects together maps from various Source engine modding competitions. While that initial version was fairly short—around 20 minutes in length—the total conversion will revamp and expand those two existing maps, while also adding a third map f
 
-### The spiritual successor to classic JRPG Wild Arms has seemingly been cancelled, four years after its Kickstarter raised nearly $3 million
-Sun, 27 Sep 2026 12:38:05 +0000 — https://www.pcgamer.com/games/rpg/the-spiritual-successor-to-classic-jrpg-wild-arms-has-seemingly-been-cancelled-four-years-after-its-kickstarter-raised-nearly-usd3-million/
-
-Armed Fantasia— which was a spiritual successor to the popular JRPG series Wild Arms and not a first-person shooter starring Mickey Mouse—has been cancelled four years after its Kickstarter campaign raised almost $3 million. As reported by Rock Paper Shotgun , Armed Fantasia is one of several titles for which Digital Bros—the parent company of 505 Games—has decided to "discontinue development of" as revealed in its most recent financial statement . The project was headed by Akifumi Kaneko, who was the lead designer on the original Wild Arms and served in the same role through to Wild Arms 4. It was formally revealed alongside its Kickstater campaign back in 2022. Unlike most video game Kickstarters, where the money raised is used to fund the game directly, this Kickstarter aimed to fund two JRPG prototypes. One was for Armed Fantasia, and the other was for a proof-of-concept of Penny Blood. Both prototypes, it was hoped, would lead to signing a publishing deal that would provide full funding for each game. This double Kickstarter went on to raise ¥379,328,385, which converts to just shy of $3 million in 2022 money. Things initially went to plan for both games, with Armed Fantasia being signed by 505 Games, while Penny Blood was picked up by Japanese publisher Dangen Entertainment. But Penny Blood has seemingly suffered a rocky development, culminating in developer Studio Wildrose suing Dangen Entertainment in 2024 for withholding those Kickstarter funds (which, according to W
-
-### Minecraft is getting its first new dimension in 15 years, and it is riotously pink
-Sun, 27 Sep 2026 10:43:25 +0000 — https://www.pcgamer.com/games/survival-crafting/minecraft-is-getting-its-first-new-dimension-in-15-years-and-it-is-riotously-pink/
-
-Since its release in 2011, Minecraft has received countless new biomes, but its number of dimensions has remained consistent over the last fifteen years. But that's all about to change. As of next year, a fourth dimension will soon join the Overworld, the Nether, and the End. It's called the Sift, it is riotously pink, and features bunny-like creatures that walk rather than hop. The Sift was revealed at the end of Saturday's Minecraft Live. In a brief clip showing the perambulating rabbit strolling through tufts of pink grass beneath a turquoise sky. Mojang didn't reveal much else about the Sift, but being a whole new dimension, players can naturally expect to encounter new mobs, blocks, biomes and so forth. While the Sift is coming to both Bedrock and Java versions of Minecraft in 2027, players will be able to explore a variant of the dimension before that. This is because the Sift will also appear in Minecraft Dungeons 2 when it releases next week, and we do know a little more about what form the realm will take in Mojang's ARPG sequel. According to Xbox Wire , The Sift is subject to "shifting tides" that can affect player characters, as well as hazardous new block types and new mobs of both friendly and hostile varieties. The article also names two of the biomes featured in the Sift. One is named Singer's Meadow—a verdant area where all manner of flora grow out of red sculk. The other is called Carapace, which is a desert area dotted with strange blue walls and giant, holl
-
-### The next retro games coming to Steam are a pair of extremely 1990s run-and-gunners where Spanish Goku fights mutants
-Sun, 27 Sep 2026 02:44:25 +0000 — https://www.pcgamer.com/games/action/the-next-retro-games-coming-to-steam-are-a-pair-of-extremely-1990s-run-and-gunners-where-spanish-goku-fights-mutants/
-
-In the 1990s, Spanish videogame label Gaelco was responsible for a string of arcade games (and also electronic dartboards) that hardly anyone outside Spain knows about, bar perhaps the occasional breakout like World Rally. Retro specialists QUByte Interactive are bringing two of Gaelco's obscurities to Steam this year, resurrecting arcade action games Thunder Hoop and its sequel TH Strikes Back. The genetically engineered and oddly named Thunder Hoop of the title is a hand-blasting hero who fights armies of mutants unleashed by the evil Dr Genbreak. The original Thunder Hoop, from 1992, is a platformer in which the teenage hero has to fight cartoonish monsters across a cityscape that includes the obligatory sewer and underwater levels. The 1994 sequel ages him up to a beefcake adult who has heard of shirts and thinks they're for cowards, and includes a lot more run-and-gun action against women in latex, and a sequence where he goes Super Saiyan than flies into space for a Gradius-style scrolling shooter bit. Both games come with modern quality-of-life features like save states and a rewind function, as well as customizable screen filters for that CRT look. The sequel includes local co-op, while the first game's multiplayer mode has to be played in alternating turns. The Thunder Hoop Collection will be available on Steam from October 8. Steam sale dates : When's the next event? Epic Store free games : What's free right now? Free PC games : The best freebies you can grab 2026 g
-
-### Between 70 and 80% of Blood Bowl 3 games were solo
-Sun, 27 Sep 2026 00:42:55 +0000 — https://www.pcgamer.com/games/strategy/between-70-and-80-percent-of-blood-bowl-3-games-were-solo/
-
-You'll know this frustration if you've ever been part of the community around a game that has both singleplayer and multiplayer modes. People who prefer one to the other are always convinced the other cohort doesn't exist. "Nobody plays this game in a different way to me and my friends, and anyone who says they do is lying." In the case of the Blood Bowl videogames, the fact the CPU's tactics are so rudimentary has always given people who prefer the multiplayer mode ammunition for claiming the other half doesn't exist. Now we've got proof they're actually the majority. As Cyanide programmer Mathieu Valero recently told Wargamer , between 70 and 80% of Blood Bowl 3 games were played solo in Eternal Leagues. This came up in the context of Blood Bowl 3's imminent replacement by Warhammer Blood Bowl. One of the improvements, Valero suggests, will be the AI. "We didn't have an AI—now we do", as he put it. "There are still a bunch of factions and builds that it's more able to play well: you want to give it Guard and Block, and don't go fancy with the combos that a human would be able to do", he went on to say, but "give something reliable to the AI, and you're gonna have a game to play". Valero is candid about the state of Blood Bowl 3 at launch, saying, "It was a mess, like there's no two ways about it." As well as the AI, Blood Bowl 3's ugly menus are being replaced. "The UI has been significantly revamped," he says, "first and foremost the homepage, which was a gigantic waste of
-
 ## GameSpot
+
+### Is Gears Of War: E-Day On Steam?
+Mon, 28 Sep 2026 10:45:07 +0000 — https://www.gamespot.com/articles/is-gears-of-war-e-day-on-steam/
+
+Anyone looking to play Gears of War: E-Day has several options for which platform they choose to get the game on, and yes , Steam is one of them. While The Coalition's new entry in the Gears universe is exclusive to PC and Xbox Series X|S, PC owners can add Gears of War: E-Day to their Steam library. How does this differ from buying the game from the Xbox PC storefront or on console? Let's break it down. Gears of War: E-Day PC price Unsurprisingly, the Standard and Premium Editions of the game will cost you the same through Steam as it would through the official Xbox storefronts on PC and Xbox Series X|S, and it'll also be a day-one release for Xbox Game Pass subscribers. That works out to: Standard Edition -- $70 Premium Edition -- $100 Gears of War: E-Day PC release date For more detailed info on this, you can check out our Gears of War: E-Day Global launch times guide , but in a nutshell, the Steam version will unlock at the same time as the official Xbox versions. Owners of the Premium Edition can start playing early on October 1, while the Standard Edition unlocks on October 6. You can also check out our Gears of War: E-Day PC requirements guide to see if your rig can handle the visually impressive game. Are there any Gears of War: E-Day preorder bonuses for Steam users? Nice. Preorder the game, and you'll unlock the Exfil Dom Character Skin and the Exfil Weapon Skin Set in-game at launch. Is the Gears of War: E-Day Premium Edition the same as the Xbox console and PC ver
 
 ### Minecraft Is Getting Its First New Dimension In Over 15 Years
 Sat, 26 Sep 2026 18:00:00 +0000 — https://www.gamespot.com/articles/minecraft-is-getting-its-first-new-dimension-in-over-15-years/
@@ -298,12 +304,12 @@ Sat, 26 Sep 2026 17:30:00 +0000 — https://www.gamespot.com/articles/the-next-m
 
 Minecraft's next game drop will add a new underground environment to the sandbox game, along with a new hostile mob, and items that bring frosty mechanics to exploration and combat. Announced during Minecraft Live on September 26, the upcoming game drop is expected to follow the usual drop cadence of once per quarter, releasing in December 2026. Its biggest addition is ice caves--a rare underground extension of Minecraft's existing cold biomes. Ice caves are a new underground biome coming to Minecraft. Ice caves will add more environmental variety to cold areas, giving you another reason to venture underground when exploring snowy regions. The caves will also contain ice crystals, which can be collected and used for decoration. Ice crystals can be placed vertically or horizontally, and they'll also produce light, giving you another way to illuminate your creations. However, ice caves aren't entirely peaceful. A new hostile mob in the form of the Frozen Zombie will lurk underground, bringing new combat mechanics with it. Frozen Zombies can apply a stacking freezing effect with their melee attacks. If you take too many hits you'll eventually freeze, making getting surrounded by Frozen Zombies especially dangerous. They can also throw ice balls, which deal damage and knock players back. Being hit with an ice ball will give you the Frozen effect. To create a Frozen Zombie, a regular Zombie will need to be exposed to powdered snow. Fortunately, when killed the Frozen Zombie will d
 
-### Microsoft CEO Attempts To Kill Remaining Xbox Goodwill
-Fri, 25 Sep 2026 23:06:32 +0000 — https://www.gamespot.com/articles/microsoft-ceo-attempts-to-kill-remaining-xbox-goodwill/
-
-After Xbox laid off 1,600 employees over the summer, Microsoft's gaming division followed up with more layoffs and studio closures this week. In the wake of these events, Microsoft CEO Satya Nadella is taking a look at the bright side and praising Xbox CEO Asha Sharma's actions as a necessary step. "There's some amount of streamlining the team is doing, and Asha is doing, which is great to see," said Nadella during his appearance on the Sources Podcast . He also noted that he feels "fantastic about the IP we have right now. If I look at the studios, the IP portfolio we have, and our ability to then take that and produce great games going forward, I feel fantastic." "We have to invent the right sustainable business model that allows us to deliver gaming to more and more people," added Nadella. Regarding AI, Nadella questioned why Western consumers are so skeptical about the technology compared to other parts of the world. "I think we've not given [AI] breathing space," said Nadella. "In fact ... I was reading the Gallup poll on AI and it's not good in the West. What's also very interesting … it's not a uniform thing around the world. And in fact that's the thing we should ask: 'What did we get wrong in the West that these other countries may not have?' Why are people in Nigeria more optimistic about AI than in the United States?' And I think we should reflect on it and my belief here is the industry [has] to earn the trust [and] show the benefits to both consumers and enterpri
-
 ## Rock Paper Shotgun
+
+### "We clearly handled that responsibility poorly": Paradox ban Discord profile pics of historical figures born after 1800, after bust-up with Hearts of Iron 4 players over Atatürk banning
+Mon, 28 Sep 2026 09:34:25 +0000 — https://www.rockpapershotgun.com/we-clearly-handled-that-responsibility-poorly-paradox-ban-discord-profile-pics-of-historical-figures-born-after-1800-after-bust-up-with-hearts-of-iron-4-players-over-ataturk-banning
+
+Hearts of Iron 4 developers Paradox Interactive have prohibited the use of Discord profile pictures of historical figures born after 1st January 1800, save for official in-game portraits, amid an uproar caused by a moderator banning somebody for using a photograph of Republic of Turkey founder Mustafa Kemal Atat&uuml;rk. Discord server members are still free to "use any official Hearts of Iron IV in-game portraits, including those from after 1800, with the exception of prominent leaders of Nazi Germany," according to a Discord post attributed to game director Laszlo "Batya" Pieper ( copied to Reddit ). In the same post, Pieper notes that "Paradox never aims to review history or take positions on political figures, and we clearly handled that responsibility poorly." Read more
 
 ### The Sunday Papers
 Sun, 27 Sep 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-829
@@ -334,9 +340,4 @@ My first thought when I played through the Chimera tank boss fight in Cyberpunk 
 Sat, 26 Sep 2026 15:57:33 +0000 — https://www.rockpapershotgun.com/do-665-runs-if-you-want-control-resonant-is-getting-a-new-game-mode-next-month-and-dont-worry-you-happy-snappers-a-photo-mode-is-on-the-way-too
 
 A developer's work is never done! On the very same day it launched, Control Resonant received a hotfix that tackled various complaints that were levied against the game's combat , making it slightly more manageable for those having a tougher time. While a fuller update won't be coming until next month, developer Remedy have outlined their plans for the next couple of updates, namely a New Game++ mode, and a photo mode. Read more
-
-### What are we all playing this weekend?
-Sat, 26 Sep 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-401
-
-I'm sure I had at least three more sets of Saturdays and Sundays in my September box. That thief time has snuck in again and picked up all the unattended days. If you see him, give him a whack on the back and see if he'll cough them back up again, I'm not quite ready to crack the wax seal on October 2026. Read more
 

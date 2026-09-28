@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-27
+# Review radar — updated 2026-09-28
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,23 +20,16 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Transport Fever 3 | — | 2026-09-29 | 2d | 2026-09-28 | €49.99 |
-| Minecraft Dungeons II | — | 2026-09-29 | 2d | 2026-09-28 | €29.99 |
-| DYNASTY WARRIORS 3: Complete Edition Remastered | — | 2026-09-30 | 3d | 2026-09-29 | €39.99 |
+| Transport Fever 3 | Paradox Interactive | 2026-09-29 | 1d | 2026-09-28 | €49.99 |
+| Minecraft Dungeons II | Xbox Game Studios | 2026-09-29 | 1d | 2026-09-28 | €29.99 |
 
 ## Further out, within 14 days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| ACE COMBAT 8: WINGS OF THEVE | — | 2026-10-01 | 4d | 2026-09-30 | €69.99 |
-| Gears of War: E-Day | — | 2026-10-06 | 9d | 2026-10-05 | €69.99 |
-| STAR WARS: Galactic Racer | — | 2026-10-06 | 9d | 2026-10-05 | €59.99 |
-| Clive Barker's Hellraiser: Revival | — | 2026-10-08 | 11d | 2026-10-07 | €39.99 |
-| Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 11d | 2026-10-07 | €29.99 |
+_Nothing else dated in the window._
 
 ---
 
-*1499 upcoming titles scanned, 892 with a firm date inside
-14 days, 8 above the price line. Titles showing
+*750 upcoming titles scanned, 170 with a firm date inside
+14 days, 2 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

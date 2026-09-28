@@ -1,4 +1,4 @@
-# Tech — harvested 2026-09-27T19:52:06.093Z
+# Tech — harvested 2026-09-28T11:13:53.104Z
 
 ## Ars Technica
 
@@ -7,27 +7,22 @@ Sun, 27 Sep 2026 11:00:12 +0000 — https://arstechnica.com/tech-policy/2026/09/
 
 In November 2021, the Smithsonian’s National Museum of American History opened an exhibit called “The Electric Dr. Franklin,” describing “Benjamin Franklin’s pioneering contributions to electrical science.” The exhibit explained that, prior to becoming an abolitionist, he had enslaved people in his household. “Benjamin Franklin’s remarkable scientific accomplishments were, in part, enabled by slavery,” it declared. The exhibit speculated that Franklin may have used enslaved people in his electrical research. “Franklin wrote about experiments in which he took shocks and used family and friends in these ways, although he seldom identified who in particular assisted him,” stated the exhibit, which closed in 2025 but can still be found online . “Indentured servants and enslaved people in his household could also have been used, although we may never know for certain.” It was an eye-catching conjecture: one of the most revered of the Founding Fathers subjecting people held against their will to possibly painful shocks. And it was one of many details singled out for criticism in a blistering 162-page White House report released in July that argued that the museum had fallen victim to an “ideological capture” that “moved the Museum’s mission away from straightforward historical education and scholarship toward an extreme political activism that seeks to transform our country.” Read full article Comments ]]>
 
-### Tesla’s big electric truck faces an even bigger infrastructure challenge
-Sat, 26 Sep 2026 10:45:09 +0000 — https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/
-
-Tesla CEO Elon Musk has insisted investors think of his electric automaker as a robotics and autonomous vehicle company now. He’s targeted a $20 trillion valuation—nearly four times the value of market leader Nvidia —on that premise. But his Tesla team was in Sparks, Nevada, on Thursday to focus on, well, an electric vehicle: the long-awaited Tesla Semi . The Semi concept first rolled onto a Tesla event stage in late 2017 . Nearly a decade later, Tesla officially launched high-volume production at a livestreamed but invite-only event at the company’s factory. It targeted a niche audience: the cost-conscious people who manage large trucking fleets. A handful of them, all men, trooped across the stage to be thanked for their orders to a pulsing techno beat. “It’s going to be, really, a driver’s truck. It’s like a sports car in truck form.” Musk said in a pre-taped video played during the evening event. (Musk, for years the ringmaster at Tesla’s circus-like events, skipped his second vehicle debut in a row ; he was attending a White House China State Dinner featuring President Xi Jinping .) Read full article Comments ]]>
-
-### Can Trump ever be wrong? His pick to lead FDA refused to say.
-Fri, 25 Sep 2026 23:00:26 +0000 — https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/
-
-Heidi Overton , President Trump's nominee to lead the Food and Drug Administration, went before the Senate health committee Thursday, facing questions about her stances on vaccines, flavored vapes, birth control, and abortion, among other issues. She spent nearly two hours stonewalling senators, even on softball questions. Overton, a physician with a doctoral degree in clinical investigation, is currently the deputy assistant to the president for domestic policy. She previously worked at a conservative think tank and has taken a clear stance opposing abortion , raising obvious questions about her objectivity. The FDA is currently reviewing the safety of the abortion pill, mifepristone, despite extensive data showing it is extremely safe. Overton also notably stood behind President Trump at a press conference in August during which Trump falsely called the measles, mumps, and rubella (MMR) vaccine " quite lethal ." He further claimed that vaccine doses for infants are "like the size of a soda bottle," and called for the MMR vaccine to be split into three separate immunizations, despite no evidence of benefit from such a split and no such individual immunizations being available in the US. Read full article Comments ]]>
-
-### Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features
-Fri, 25 Sep 2026 21:36:20 +0000 — https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/
-
-A US appeals court today approved the Department of Defense's blacklisting of Anthropic technology. Judges decided the Trump administration had authority to blacklist Anthropic for withholding certain AI features from the military even if Anthropic had no malicious intent. In a 2-1 ruling issued by the US Court of Appeals for the District of Columbia Circuit, a panel of judges said the "case raises profoundly difficult questions about the appropriate military uses of an almost unimaginably powerful new technology." The US "raises the deeply sobering prospect of overly constrained AI models shutting down unexpectedly and thus causing important military operations to fail. Anthropic raises the deeply sobering prospect of unconstrained AI models hallucinating inappropriate targets for lethal military force," the ruling said. Trump and Defense Secretary Pete Hegseth "must determine how best to balance the competing risks," the court said. "In doing so here, the Secretary did not transgress any limits on his authority under the Supply Chain Security Act or the Constitution. Accordingly, we deny the petitions for review." The same court previously denied Anthropic's emergency motion for a stay in April. Read full article Comments ]]>
-
-### Tesla workers balk at training Optimus humanoid robots as replacements
-Fri, 25 Sep 2026 21:10:51 +0000 — https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/
-
-Tesla’s pivot from making electric cars to humanoid robots is facing challenges because of complex robot hands and disgruntled employees pushing back against training their robotic replacements. The struggle to scale up production comes as Tesla CEO Elon Musk has bet the company’s future on AI and robotics. As someone who frequently makes claims that fail to materialize, Musk has described the Optimus humanoid robot as potentially “the biggest product ever” during Tesla’s second-quarter 2026 earnings call . But he also acknowledged that making an autonomous humanoid robot capable of handling many different tasks is “one of the hardest things to solve”—and now extensive reporting by The Information has revealed multiple complications that Tesla is trying to tackle while developing general-purpose robots and scaling up for mass production. Tesla’s Fremont factory in California has already stopped making the Model S sedan and Model X SUV as of May 2026, with the company switching both line workers and engineers over to working on Optimus, according to The Information. Read full article Comments ]]>
-
 ## The Verge
+
+### Honor’s Magic 9 Pro Max has a big camera and a bigger battery
+2026-09-28T04:00:36-04:00 — https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china
+
+This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the "three-lens turret" design first introduced in 1937's Arriflex 35, complete with a knurled texture around the main lens. Arri has played a part in the camera itself, contributing the ability to shoot in Arri LogC3, together with 14 preset Arri Look LUTs, access to Arri's wider library o … Read the full story at The Verge. ]]>
+
+### Out of the Park Baseball lets me enjoy baseball even when the Mets suck
+2026-09-27T17:59:57-04:00 — https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review
+
+If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball ( OOTP ). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB The Show or Super Mega Baseball . It's not graphically impressive. It's not a blast of simple arcade fun. It is basically a spreadsheet pretending to be a video game. It's fantasy baseball, but without having to wait six months to see how disappointing that sleeper draft pick will be, because you can plow through an entire season in as little as a few hours. You can play individual games and dig in … Read the full story at The Verge. ]]>
+
+### Engram is a sampler that turns broken AI hallucinations into music
+2026-09-27T16:46:36-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music
+
+Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram . It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, though. This isn't a "push-button, get-song" device, aimed at creating something that sounds ready for top-40 radio. It's about creating experimental, uncanny sounds and pushing AI audio models beyond their limits. Engram isn't connected to the internet. Instead, it runs a "tiny AI" locally. According to the Kickstarter listing, the model is designed in-house and custom-trained. The company says: … Read the full story at The Verge. ]]>
 
 ### OpenAI agents tried to ‘bruteforce’ a UN website
 2026-09-27T13:21:07-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website
@@ -64,22 +59,27 @@ Drums on film. | Image: Decap I don't think I'm going to hurt anyone's feelings 
 
 Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life , host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, "We just, like, looked for podcasts that didn't have many comments." Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge. ]]>
 
-### OpenAI pauses training of its ‘most capable models’
-2026-09-26T12:34:59-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause
-
-As reports of OpenAI's models breaking containment , hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access . The incident happened on September 20th, and "All training, evaluation, and inference with tool-use" remains paused as of Saturday evening, September 25th. In addition, OpenAI revealed on Friday that its agents had inappropriately uploaded 53nimages from ChatGPT users to image-hosting sites. The company has not stated if the images were AI- … Read the full story at The Verge. ]]>
-
-### Can Cloudflare CEO Matthew Prince save the web from AI?
-2026-09-26T10:00:00-04:00 — https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising
-
-Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point for the internet — and now it turns out things are even wilder because of AI, and Matthew and Cloudflare are right at the center of it. Cloudflare found in June that bots made up more than half of internet traffic. That number just keeps going up as more and more AI companies scrape more and more of the web, and now as more and more AI agents try and do things for people on the web. Cloudflare sits between websites and all those agents, and allows website owners some level of control: Owners can block all those AI tools, allow them, or, as you’ll hear, only allow those that might pay money for access. Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . So Matthew and I talked about how to control all these bots, what kind of mess they’re making of the web, and what kinds of information might be valuable in the future as some of the payment schemes come into focus. You’ll hear me ask pretty directly if some of the outcomes he’s describing are actually good — Matthew is a thoughtful guy, and his answer is something I’m still thinking about well after we had this conversation. AI is also upending everything inside of Cloudflare
-
-### Control Resonant is a great game — it’s even better when you read everything
-2026-09-26T09:00:00-04:00 — https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs
-
-In Control Resonant , the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optional in Resonant , but it's where some of the game's best details - and even love stories! - can be found. In the world of Control Resonant and its predecessor, 2019's Control , the FBC deals with mysterious, otherworldly objects and entities that defy explanation. But the FBC itself is still an old-school bureaucratic agency, and that means tons of (often heavily redacted) reports and memos and mi … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Teenager hacks open Microsoft database with 17 trillion total rows and 25,000 user accounts
+Mon, 28 Sep 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/teenager-hacks-open-microsoft-database-with-17-trillion-total-rows-and-25-000-user-accounts-custom-ai-bot-and-lack-of-jwt-token-validation-yields-a-fruitful-trove-earns-usd5-000-bug-bounty
+
+What do you get when you cross a bored teenager with free time and excellent computer skills? A hack of a Microsoft database with trillions of records on hand and 25,000 records of employee data, of course. Future legend hacker Faav poked around Microsoft's supposedly internal Titan analytics platform, eventually finding that its user validation was... sub-optimal. According to Faav, he's "spent the year hacking Microsoft off and on around school," digging up bugs on the Redmond firm's wares as well as Amazon, Google, Adobe, and others. Much like other hackers, he has his own set of tools, and predictably in this day and age, his sonic screwdriver is Antares, an AI orchestrator bot he concocted for the purpose of scanning and automating boring security legwork. Antares found an endpoint URL in Titan that brought up an error message saying that a VPN was required. Just like a virtual pspspsps , this was enough to get Faav's attention. He got Antares to look for subdomains around this endpoint, coming up with one belonging to an Azure Cloud host, along with a corresponding Swagger/OpenAPI file listing four routes (Swagger is an industry-standard machine-readable instruction on how an API works, for easier third-party integration). While three of those routes needed Azure Active Directory authentication, one did not, and its name was inspiring: /v2/Query. It also accepted raw SQL queries, prompting a collective facepalm from the audience. Faav still needed to know what to query 
+
+### G.Skill wins PC enthusiast as 'customer for life' by simply honoring its warranty replacement policy
+Mon, 28 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/ddr5/g-skill-wins-pc-enthusiast-as-customer-for-life-by-simply-honoring-its-warranty-replacement-policy-enthusiast-gets-new-module-for-kit-that-cost-usd150-but-now-sells-for-usd1-200
+
+A PC RAM maker has honored its guarantee promises despite the memory kit in question’s price rising eightfold since it was bought. This is news in 2026, as we’ve heard of so many companies dealing with AI-inflated component pricing refusing to replace items, instead refunding the original purchasing price despite the products now being worth many multiples of the original price. These glad tidings come via Redditor Double-South8863, who says their $150 G.Skill Trident Z5 Neo RGB 64GB DDR5-6000 RAM kit, now priced at $1,200 on Amazon , was back at full capacity after the company replaced the stick, and they received the replacement within two weeks. I will never buy any RAM other than Gskill for as long as I live. RMA for the RAM from r/pcmasterrace “I will never buy any RAM other than G.Skill for as long as I live,” pledged Double-South8863 on Reddit. They informed their fellow social media posters that one of the 64GB RAM kit’s sticks died at the beginning of September. After some A/B testing, they were sure one of the 32GB sticks was dead. On September 8, about a week after the issue first reared its head, Double-South8863 decided to start an RMA process and get the dud G.Skill Trident Z5 Neo RGB 32GB DDR5-6000 stick replaced. They remember buying this highly desirable RAM kit online in May 2025 for the princely sum of $150. Now it is worth a king’s ransom at $1,200 on Amazon, and price tracker sites show it's even been as high as $1,300. Perhaps the Redditor was aware of t
+
+### Proposed Pennsylvania law targets publishers that kill digital games
+Mon, 28 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/proposed-pennsylvania-law-targets-publishers-that-kill-digital-games-publishers-must-provide-offline-mode-an-independent-server-patch-or-a-25-percent-minimum-refund
+
+Sony’s announcement that it will cease physical disc production by 2028 has got many fans and users outraged and concerned about what will happen to digital-only games once their servers go offline. Because of this, one Pennsylvania state senator filed a bill that would compel publishers to find a way to ensure that gamers would always have access to their games, even if their online support has already ended. According to Local 21 News , Sen. John Kane (D), the Protect Our Games Act will require video game manufacturers to give their customers at least 60-day notice before ending access to the title. More importantly, it says that these companies must provide at least one of these options to affected gamers: allow for offline gaming, patch the title so that it could still be used online independently of the game’s online servers, or to refund the title’s cost at an amount equal to its highest price in the past 12 months, which should also not be lower than 25% of its initial sale price. If this law passes, this will offer some protection to gamers who often have no choice but to accept a game company’s decision to end a title. The bill is only at its early stages, and there’s no telling how far it will go or if it will even be signed by the governor. Nevertheless, if it passes, it will force companies to ensure that their games remain playable even if they remove them from online stores, at least in Pennsylvania. Hopefully, this could set a precedent, and other states would 
+
+### Save $300 on this 1440p-ready gaming PC with an RTX 5060 Ti 16GB, now $1,399.99
+Mon, 28 Sep 2026 09:15:46 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/save-usd300-on-this-1440p-ready-gaming-pc-with-an-rtx-5060-ti-16gb-now-usd1-399-99-newegg-deal-on-abs-cyclone-aqua-rig-nets-you-a-20-core-intel-cpu-along-with-16gb-of-ddr5-and-a-1tb-ssd
+
+There's a real advantage right now to buying a pre-built gaming PC. The RAMpocalypse has made it difficult, from a budget point of view, to build new gaming PCs. Instead, the real value is to buy a rig with the specs that'll allow you to game for the next few years. This ABS Cyclone Aqua machine with an RTX 5060 Ti 16GB GPU is the perfect example, giving you 1440-capable performance for just $1,399.99 . ● Check out this deal at Newegg You're getting a spec sheet that would be tricky to put together if you were building a rig yourself. The RTX 5060 Ti is the star of this particular show, but the rest of the build includes 16GB of DDR5 RAM, a 1TB SSD, and a 20-core Intel Core i7-14700F processor. We're still seeing the 14700F in pre-builts as an affordable option that can still deliver great gaming performance. Cyclone Aqua (RTX 5060 Ti 16GB): was $1699.99 now $1399.99 This ABS Cyclone Aqua gaming PC is ready for 1080p and 1440p gaming. It features an Nvidia GeForce RTX 5060 Ti 16GB, 16GB DDR5 RAM, a 1TB SSD, and a 20-core Intel Core i7-14700F CPU. View Deal The Nvidia GeForce RTX 5060 Ti means you're getting one of Nvidia’s latest-generation cards, with this GPU sitting in the mid-tier. You're getting 4,608 CUDA cores and a boost clock speed of 2,527MHz here. You only need a single eight-pin PCIe connector to deliver power, unlike the RTX 5090, so you don't need to worry about this PC requiring huge amounts of power to run. As our RTX 5060 Ti 16 GB review explains, you're gett
 
 ### Grab this 14-inch compact gaming laptop powerhouse for $1000 off
 Sun, 27 Sep 2026 15:21:30 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/grab-this-14-inch-compact-gaming-laptop-powerhouse-for-usd1000-off-hp-omen-transcend-14-with-rtx-5070-and-3k-oled-display-drops-to-usd1-999-99-at-best-buy
@@ -121,27 +121,27 @@ Sun, 27 Sep 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 TypeSafe AI's Jev "beat the Elite Four and the Champion and entered the Hall of Fame on September 23, 2026" in Pokémon Red, according to the developer's project page . Unlike the chatbots that have taken weeks to months to beat the Blue version of the game, Jev can only pick from a list of choices. It didn't achieve this without help, though. Anthropic's Claude Opus 5 monitored the game log and adjusted options and their wording as Jev played, effectively acting like a coach. The developer, Andrew Boyd, is the founder of Standard Agents Inc., which sells a platform for building AI agents. Boyd initially announced the project on X with victory coming in a week. The gameplay was livestreamed, available in a browser or a terminal, with a chat that Jev moderated. Let's go! Jev Plays Pokemon. Follow along here: https://t.co/64naxTJlDg OR, in your terminal run `npx jev-plays-pokemon` to follow along (with chat!) in a TUI. Github oAuth required to chat. Jev is the player and the chat moderator. Let's catch them all! September 17, 2026 Jev is a recently released decision model that returns solutions with a confidence figure. It is not a chatbot, and it is not an LLM. For the game, Jev refers to a list of options with facts, and it selects the best option based on probability. It doesn't read the screen and does not produce text or images. A traditional LLM, Claude Opus 5, monitored the game log to help Jev when it got stuck. This happened indirectly by modifying the options and data 
 
-### U.S. and UK navies successfully launch 3,700-pound submarine-sinking torpedo from robotic drone submarine in historic first
-Sun, 27 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/u-s-and-uk-navies-successfully-launch-3-700-pound-submarine-sinking-torpedo-from-robotic-drone-submarine-in-historic-first-project-broadsword-proves-weapon-interchangeability-in-just-seven-months
-
-The U.S. Navy and the British Royal Navy have jointly launched an exercise U.S. Mk 48 heavyweight torpedo from the Royal Navy’s uncrewed drone submarine, XV Excalibur, marking a historic milestone in autonomous warfare. According to an official press release , the proof-of-concept launch took place on September 13 at the British Underwater Test & Evaluation Center (BUTEC) in Scotland. “This successful test marks a historic first for allied undersea warfare,” said Chief of Naval Operations Adm. Daryl Caudle. “Proving that we can seamlessly launch a U.S. heavyweight torpedo from a Royal Navy autonomous underwater vehicle validates our shared vision for true interchangeability. By integrating weapons, payloads, and mission architectures across allied platforms, we are increasing the flexibility, scale, and combat power of our combined forces and ensuring they are ready to meet the strategic demands of tomorrow.” The launch was conducted under AUKUS Pillar 2, a military partnership between the United States, the United Kingdom, and Australia aimed at developing and accelerating the deployment of cutting-edge, advanced defense technologies, such as artificial intelligence, quantum computing, and autonomous underwater systems, to maintain a strategic technological edge in the Indo-Pacific region. According to the U.S. Navy, the trial validated the mechanical, electrical, and software integration of an American kinetic payload onto a British autonomous platform, proving weapon inter
-
-### Counterfeit vinyl record maker sentenced to three years in the slammer after making $3.5 million
-Sun, 27 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/counterfeit-vinyl-record-maker-sentenced-to-three-years-in-the-slammer-police-bust-largest-fake-vinyl-operation-in-uk-history-raid-uncovers-four-70-year-old-presses-and-3-000-metal-stampers
-
-With physical media making a comeback, a man in the UK has been sentenced to three years and six months in prison for manufacturing and selling counterfeit vinyl records. Rehan Ahmed, from Southall in west London, was reportedly running a “highly organised, unlicensed operation” since 2017 that produced thousands of fake records featuring music from popular artists including The Beatles, Taylor Swift, Coldplay, and Kendrick Lamar. The operation is estimated to have generated nearly £2.7 million ($3.5 million) in revenue. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent Ahmed’s counterfeit business, ‘Phoenix of Vinyl ’, came on the radar in 2024 after a representative from the British Phonographic Industry (BPI) made a test purchase and found evidence of counterfeiting. The City of London Police raided the premises soon after and uncovered the largest stock of fake vinyl ever found in the UK, with 2,791 records by 108 different artists. In addition to the records, police officers also found four vinyl presses roughly 70 years old, along with 3,000 metal stampers, and thousands of sleeves and center labels. A 
-
-### Taiwan's chip talisman snack faces production halt after 94% strike vote
-Sun, 27 Sep 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/taiwans-chip-talisman-snack-faces-production-halt-after-94-percent-strike-vote-workers-demand-share-of-usd176-million-factory-sale-to-ase
-
-Taiwan’s semiconductor industry is driven by the ruthless application of science, economics, and the dedication of its employees. But superstitious engineers think there’s another key ingredient – strategically placed bags of creamy coconut flavored Guai Guai snacks in their traditional green livery. These bags of snacks are found with surprising regularity around Taiwan, placed on machinery used to make semiconductors and other computing products, as the prevailing superstition is that the snacks bring good luck. Alarmingly, the Taipei Times recently reported that production of these tech talisman snacks could be halted, as the company that makes Guai Guai is facing a severe threat of strike action. The Guai Guai Company factory in Zhongli, Taiwan, has operated since 1968, and more than a third of its workforce have been with the company for 30 years or more. On September 1 this year, the company revealed that it would relocate to Hsinchu , about 45 minutes south by car. Kind of ironically, Guai Guai is relocating to Taiwan's Silicon Valley, yet this action could grind production to a halt. Workers can retain their positions if they relocate or commute to the new factory. Also they have been offered a 5% increase in pay. It is noted by the worker’s union that 5% is merely in line with the newly announced changes to Taiwan’s minimum wage. Another grievance felt by the workers concerns the massive windfall that the company is getting for the sale of its Zhongli site. Taiwan’s 
-
-### 27-year-old GTA 2 gets full path tracing and 60 FPS frame generation via RTX Remix
-Sat, 26 Sep 2026 15:10:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/27-year-old-gta-2-gets-full-path-tracing-and-60-fps-frame-generation-via-rtx-remix-custom-direct3d-9-wrapper-modernizes-classic-with-custom-direct3d-9-bridge-unlocks-dynamic-lighting
-
-While gamers wait for the release of Grand Theft Auto VI , whether on their consoles or gaming PCs with one of the best graphics cards , they can relive one of the franchise's most memorable titles. Modder gebdag has unveiled GTA2 RTX Remix, a mod that harnesses Nvidia’s RTX Remix technology to add full path tracing and dynamic time-of-day cycles to the 27-year-old classic, Grand Theft Auto 2 . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Grand Theft Auto 2 , released in 1999, used older graphics APIs such as DirectDraw and an earlier version of Direct3D. The problem is that these legacy APIs create a technical barrier to modern technologies like RTX Remix. Nvidia's platform lacks native support for DirectDraw and only plays well with Direct3D 9. It requires a wrapper to interface with previous versions of Direct3D, which is where the GTA2 RTX Remix comes in. Modder gebdag ingeniously developed a custom Direct3D 9 renderer for Grand Theft Auto 2 . It acts as a generational bridge between the original game and Nvidia’s RTX Remix. To do so, the mod relies on two DLLs (gta2dx9.dll and gta2dx9_vid.dll) that serve as translators, converting the game's legacy graphics pipeline into a modern Direct3D 9 renderer that RTX Remix can under
-
 ## Phoronix
+
+### openSUSE Leap 16.1 RC Released With New Immutable Mode
+Mon, 28 Sep 2026 06:20:22 -0400 — https://www.phoronix.com/news/openSUSE-Leap-16.1-RC
+
+The release candidate phase has begun for the upcoming openSUSE Leap 16.1 in-step with SUSE Linux Enterprise Server 16.1. Most notable with the openSUSE Leap 16.1 is the introduction of its new immutable mode...
+
+### Linux 7.4 To Introduce The Steal Governor For Helping Virtualized Workloads
+Mon, 28 Sep 2026 06:12:53 -0400 — https://www.phoronix.com/news/Linux-7.4-Land-Steal-Governor
+
+Now queued up for introduction in the Linux 7.4 merge window later in October is the steal governor driver for preferred CPUs and steal-driven vCPU backoff for today's virtualized world...
+
+### Shotcut 26.9 Video Editor Brings UI Improvements, Automatic Audio Ducking
+Mon, 28 Sep 2026 05:44:50 -0400 — https://www.phoronix.com/news/Shotcut-26.9
+
+Following the earlier Shotcut 26.9 beta at the beginning of September, the open-source developers behind the open-source non-linear video editor are out with the Shotcut 26.9 stable release...
+
+### Linux 7.3-rc5 Released: "Another Week, Another Large RC"
+Sun, 27 Sep 2026 17:17:21 -0400 — https://www.phoronix.com/news/Linux-7.3-rc5-Released
+
+In working toward the stable Linux 7.3 kernel release hopefully on 18 October, out today is Linux 7.3-rc5 as the newest weekly test candidate...
 
 ### Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements
 Sun, 27 Sep 2026 13:37:07 -0400 — https://www.phoronix.com/news/Budgie-10.10.3-Released
@@ -183,27 +183,37 @@ Sat, 26 Sep 2026 11:07:42 -0400 — https://www.phoronix.com/news/Linux-7.4-Refi
 
 Queued this week into the slab/for-next Git branch ahead of next month's Linux 7.4 merge window is a memory management change for refilling pre-filled sheaves from the barn. In some cases this yields wild improvements to specific synthetic benchmarks...
 
-### AI Bug Fixes, Crescent Island Power Brake & Nouveau Fixes For Linux 7.3-rc5 DRM
-Sat, 26 Sep 2026 07:13:16 -0400 — https://www.phoronix.com/news/Linux-7.3-rc5-DRM
-
-The Direct Rendering Manager (DRM) subsystem fixes for the week are heavier on the side with many fixes to these kernel graphics/display drivers ahead of Sunday's Linux 7.3-rc5 release...
-
-### Wisp Makes It Easier To Manage Btrfs Snapshots From The GNOME Desktop
-Sat, 26 Sep 2026 06:45:13 -0400 — https://www.phoronix.com/news/GNOME-Wisp-Btrfs-Snapshots
-
-Wisp is a new GNOME Shell extension making it easier to graphically manage Btrfs file-system snapshots...
-
-### AMDXDNA Linux Driver Being Enhanced For Current NPU3 Hardware
-Sat, 26 Sep 2026 06:33:18 -0400 — https://www.phoronix.com/news/AMDXDNA-NPU3-Enhancements
-
-The AMDXDNA open-source Linux kernel accelerator driver is seeing a fair amount of work for better supporting current-generation NPU3 neural processing units. The AMD NPU3 is what's found in current AMD Ryzen AI 300 / Ryzen AI 300 PRO series SoCs...
-
-### KDE Plasma 6.8 Continues With Last Minute Tweaks & Fixes
-Sat, 26 Sep 2026 05:56:52 -0400 — https://www.phoronix.com/news/Plasma-6.8-Last-Minute-UI-Fixes
-
-Even with this week's KDE Akademy conference and releasing KDE Plasma 6.8 Beta 2, KDE developers still found time to land last minute changes for Plasma 6.8 plus ongoing early work toward Plasma 6.9...
-
 ## The Register
+
+### HMRC vowed to break up with Capgemini then paid it another £4.2B
+Mon, 28 Sep 2026 11:15:00 +0200 — https://www.theregister.com/public-sector/2026/09/28/hmrc-vowed-to-break-up-with-capgemini-then-paid-it-another-42b/5299136
+
+As the UK government promises to use public spending to back British business, research indicates that the tax collector has paid French tech giant Capgemini at least £4.2 billion since it began dismantling their flagship outsourcing arrangement. When Andy Burnham became Prime Minister in July, he said in his first speech that public procurement would "back British industry." The government later said businesses winning government contracts would need to show they were creating high-quality British jobs. However, the relationship between His Majesty's Revenue & Customs (HMRC) and Capgemini – which could ultimately span 32 years – shows the scale of that challenge. The Register worked with Otnox, which collects and standardizes public procurement data from more than 80 countries, to analyze HMRC's published transactions above £25,000. The records show that HMRC paid Capgemini at least £4.2 billion across 15,726 transactions between 2014 – when its Aspire contract with Capgemini was initially set to end – and July 2026. Sixteen months of data are missing from that period, so the true total may be higher. HMRC officials told The Reg the contract awards to Capgemini are fully compliant with UK procurement legislation and government policy. An HMRC spokesperson said: “While some strategic suppliers continue to play an important role in delivering critical services, we have moved from a small number of large legacy contracts to a more diverse supplier base. This has increased compe
+
+### Open source datacenters and open source thinking will undo self-inflicted DC damage
+Mon, 28 Sep 2026 10:30:00 +0200 — https://www.theregister.com/columnists/2026/09/28/open-source-datacenters-and-open-source-thinking-will-undo-self-inflicted-dc-damage/5299068
+
+It's hard to make big sheds symbols of oppression, but the datacenter industry's having a jolly good crack at it. Its big boxes of semi-sentient sand are increasingly seen as satanic sandcastles, environmental disasters that inflict drought while boiling oceans. Their role as dark cathedrals of the equally demonic AIs has done nothing to soften attitudes. A new contract of candour is needed between those who build datacenters and those who despise them. Shrugging off concerns, or offering shiny misdirections with no intent of following through, no longer works. Take energy. Without numbers that can be trusted, it's impossible to judge the environmental effect of using datacenters. How much energy does it take to ask Claude to write a limerick or a database? Who knows. TThere are wildly differing estimates, but nothing reliable enough to inform personal choices or public policy on ethical use. We need to know this not just in broad terms, but with enough accuracy and currency to differentiate between models and hardware generations. The only source of data good enough for this purpose is the datacenter operator. Without that cooperation, nobody's going to believe that anything other than a mad dash for gigawatts at any cost is powering build-out decisions. Given projects such as Musk's xAI Colossus clusters in the Deep South, energized by methane-burning turbines installed with scant regard for regulatory permission, the industry can hardly expect the benefit of the doubt. Lot
+
+### Certainties in life: Death, taxes, and critical Citrix vulns under attack
+Mon, 28 Sep 2026 08:49:03 +0200 — https://www.theregister.com/security/2026/09/28/certainties-in-life-death-taxes-and-critical-citrix-vulns-under-attack/5299369
+
+Death and taxes are said to be the only certainties in life. Perhaps it’s time to add attackers targeting newly discovered critical flaws in Citrix’s NetScaler application delivery controller and gateway products to that grim list. On Sunday, the company published a bulletin warning of eight CVEs, the worst of which – CVE-2026-88771 and CVE-2026-88772 – are rated critical with 9.5 CVSS scores. CVE-2026-88771 allows remote code execution and can allow an unauthenticated attacker to execute arbitrary commands. CVE-2026-88772 is a memory overflow vulnerability that can lead to remote code execution or denial of service. A Reddit thread contains an allegation that at least one Citrix channel partner knew of these flaws on Saturday and urged users to take their NetScalers offline - a day before Citrix's disclosure. Citrix has observed that both vulnerabilities are already under attack. That sad fact saw the United States’ Cybersecurity and Infrastructure Security Agency on Sunday issue an alert because it too “has received reports and partner threat intelligence confirming that threat actors are actively exploiting these vulnerabilities globally.” “Because updating Citrix NetScaler appliances can be complex and may require downtime, CISA is issuing this Alert to help organizations assess exposure, prioritize mitigation, and account for these vulnerabilities into their risk-management activities,” the alert adds. Those risk management efforts will also have to consider a third crit
+
+### Techie assumed boss knew what they were talking about and killed Exchange by deleting data
+Mon, 28 Sep 2026 08:35:00 +0200 — https://www.theregister.com/software/2026/09/28/techie-assumed-boss-knew-what-they-were-talking-about-and-killed-exchange-by-deleting-data/5299043
+
+Monday mornings can be filled with trepidation and tension, which is why The Register kicks them off with a little light-hearted fun in the form of a new instalment of “Who, Me?" It’s the reader-contributed column in which you admit to your errors, and reveal the consequences. This week, meet a reader who asked to be Regomized as “Phil” and told us that many years ago he started a new job that, among other things, involved maintaining Microsoft’s magnificent Exchange server. “Exchange servers, especially onsite ones, were nothing new to me or to be worried about,” Phil told The Register. “The clients I worked with at my previous job were still hosting some local Exchange servers on Windows NT systems with 15 GB drives in 2014!” Phil therefore felt confident when, quite late on a Friday, a user reported that email was running slowly, and messages weren’t making it into or out of the building. “This organization had a centralized exchange system for the entire company and on quick inspection I determined that it had run out of space. Further inspection showed that the vast majority of this was due to a rather full log file directory.” Phil’s confidence then ebbed a little. “I hadn’t dealt with a system this large or for this many users,” he admitted. “The usual fix that I knew from previous experience was to ask users to delete emails from their Outlook clients.” That wasn’t going to work late on a Friday when people were racing to wind up their weeks. While Phil pondered the s
+
+### OpenAI pauses some training amid allegations its rogue agents behaved more badly than first thought
+Mon, 28 Sep 2026 07:30:50 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/openai-pauses-some-training-amid-allegations-its-rogue-agents-behaved-more-badly-than-first-thought/5299350
+
+The AI safety debate advanced at high speed over the weekend, amid new allegations that rogue agents have behaved more badly than first thought – and in greater numbers. The fun started on Friday when OpenAI quietly disclosed it had paused training of its most advanced models. The AI upstart buried that news in a “misalignment report” – that’s OpenAI-speak for its reports on rogue agents – titled “An agent used DNS to reach an external chatbot.” The good news is that the agent involved in this incident never reached the open internet. The bad news is that the agent, which was attempting to complete a search-based training task, was able to reach the chatbot due to insufficient DNS filtering in a training sandbox. Or as OpenAI put it, “a gap in our internet-access restrictions” – which was also a problem in the Hugging Face attack. “The incident exposed a gap in our controls over network restrictions,” the report reads. “We therefore stopped the affected training run and have subsequently decided to pause all other training, evaluation, and inference with tool-use (defined broadly) for our most capable models until we have both validated that the gap is resolved and performed additional red-teaming of the system.” Also on Friday, AI startup Parse published an analysis of the Hugging Face attack that the authors claim revealed new details including that OpenAI’s agent swarm gained credentials to Docker Hub and built modified versions of existing images they hoped would make it 
+
+### Amazon evaluating drone deliveries in Australia, Asia
+Mon, 28 Sep 2026 03:12:27 +0200 — https://www.theregister.com/personal-tech/2026/09/28/amazon-evaluating-drone-deliveries-in-australia-asia/5299343
+
+E-commerce giant Amazon.com is preparing to launch drone deliveries in Australia and other nations. “As Prime Air evaluates Australia and other countries, we are hiring a Head of Regulatory Approvals, Australia – the person responsible for navigating Australia's aviation regulatory system and securing every approval required to deliver to Australian customers by drone,” reads a recently published job ad. Whoever gets the gig in Australia will report to someone who holds the title “Leader, Prime Air Expansion – Asia Pacific.” The Register asked Amazon to comment on the ad, and which other Asian countries it plans to enter. The company had not responded at the time of writing. Whoever gets the job “will be measured by the approvals you obtain, the timelines you hit, and – ultimately – Australian customers receiving drone deliveries.” That wording suggests Amazon intends to operate Prime Air in Australia and is doing rather more than market evaluations. In August, Amazon said it plans to operate Prime Air drones in “nearly” 500 cities and towns across the USA this year. Meta and Singapore sling scammers Meta last week announced that information-sharing with Singapore Police helped the social media giant to identify a new variety of attack and led it to take action against more than 113,000 entities and pages connected to fraud and scams on Facebook and Instagram. Meta calls the new scams calls “shell pages” and says they “look empty and harmless” because they don’t include ads o
 
 ### Apple buried Copland 30 years ago. Now the failed OS boots in a browser
 Sun, 27 Sep 2026 12:30:00 +0200 — https://www.theregister.com/os-platforms/2026/09/27/apple-buried-copland-30-years-ago-now-the-failed-os-boots-in-a-browser/5299201
@@ -215,27 +225,52 @@ Sun, 27 Sep 2026 11:35:00 +0200 — https://www.theregister.com/columnists/2026/
 
 Big AI has a problem. Its companies must ingest other people’s work. You know, books, news stories, photographs, code, websites, that one original meme you came up with, and practically everything else on the internet to train its large language models (LLMs). We all know that. We also know that AI companies hate paying for any of it, obeying the licenses attached to it, or, God forbid, sharing their revenue with the companies and people who created the work in the first place. Recently, Big AI's default way of doing business: "Take it now, argue about legality later," has become more in your face than ever. Look, for example, at the copyright fight between The New York Times and OpenAI and Microsoft. According to 404 Media’s reporting on recently unsealed court documents - arguments from the plaintiffs that the court has not yet ruled on - Microsoft allegedly knew what it was doing when it was importing the internet willy-nilly. Microsoft's Director of Applied Science, Dr. Brent Hecht, was quoted in the news plaintiffs' 92-page combined brief as saying: the case was about “an astonishing theft of unprecedented proportions." Indeed, it was possibly the “largest theft of labor in human history,” he was quoted as saying in the summary judgment brief from the journalists' lawyers [PDF].This, mind you, wasn't a comment by a member of the press; it was from a senior Microsoft staffer. Hecht wasn't the only one at Microsoft who commented. In an internal Microsoft policy document al
 
-### How Samsung turned months of inactivity into a very attention-seeking smartphone
-Sat, 26 Sep 2026 12:27:00 +0200 — https://www.theregister.com/personal-tech/2026/09/26/how-samsung-turned-months-of-inactivity-into-a-very-attention-seeking-smartphone/5298736
-
-Our resident Microsoft-watcher Richard Speed last week wrote about his seven-hour odyssey bringing a Windows 11 box up to snuff with the latest patches. I’ll see you that struggle, Richard, and raise you my experience updating a 2022-vintage Samsung Galaxy A33 Android smartphone. I spent about a year using the A33 as my daily driver and while it always did a job, the midrange machine is far from the speediest of smartphones and therefore a little frustrating to use. When a great deal for a premium handset came along I splashed some cash and shelved the A33 as a spare, safe in the knowledge that Samsung has promised to support it with new security updates until 2027. I store the A33 in the Basket Full Of Old Tech I Should Probably Have Thrown Out But Kept Just In Case, which sits on the floor of my home office – a room that gets no direct sunlight but is small, warm, and dry. All through the mild-if-clammy winter here in The Register’s Sydney, Australia, eyrie, the phone insisted it had moisture in its USB-C port and refused to charge. Because it’s a budget model, topping it up with wireless power isn’t an option. Spring has since sprung, so when the mercury topped 30°C (86°F) last weekend I left the phone in a warm and breezy spot for an afternoon. The phantom moisture evaporated, and before long I had the phone charged and running. Within seconds it suggested installing an OS update from April 2025, followed by six more – each of which required manual consent for download an
-
-### Space Jam: UK debuts space squadron to protect satellites
-Sat, 26 Sep 2026 10:08:00 +0200 — https://www.theregister.com/offbeat/2026/09/26/space-jam-uk-debuts-space-squadron-to-protect-satellites/5299119
-
-Britain’s Royal Air Force has gained some space cadets, in the form of No. III Space Effects Squadron, tasked with protecting critical satellites that the UK relies on for communications and navigation. Air Chief Marshal Sir Harvey Smyth announced the new unit at an inaugural UK Space Power Conference in London, saying it will safeguard the vital benefits that space gives to our armed forces, and be capable of denying those benefits to our adversaries. Smyth added that the RAF’s headquarters at High Wycombe transitioned to become Air and Space Command just a few weeks ago. According to the MoD, the existing No. I Space Operations Squadron and No. II Space Warning Squadron give the RAF the ability to watch and warn of threats in space, but the latest unit will have the ability to act against those threats. How, you might ask, given the UK has limited launch facilities and no anti-satellite missile systems, as far as we are aware? This will be accomplished using “advanced technology,” we are told, including electronic warfare, to “disrupt, degrade and deny hostile actions.” In fact, the government says the UK has formally ruled out destructive anti-satellite missile testing, and instead continues to work through the UN Committee on the Peaceful Uses of Outer Space. That implies the use of ground-based jamming systems to disrupt or neutralize any nefarious foreign satellites. We asked the MoD for further details on what the space force’s capabilities consist of, exactly, but a s
-
-### Valen creator drives 'Golden Spike' to connect new languages with Rust
-Fri, 25 Sep 2026 22:15:44 +0200 — https://www.theregister.com/devops/2026/09/25/valen-creator-drives-golden-spike-to-connect-new-languages-with-rust/5299273
-
-Programming language generics can now ride in style from one language’s compiler to another and back again, thanks to experimental work from Mojo core contributor Evan Ovadia. This former Google engineer has endeavored to turn Rust into a library that other languages can build from, demonstrating a way to pass generic data types and functions between Rust and another language, an action the C ABI doesn’t support. “Technically, this is the most fascinating thing I’ve read in months,” enthused the host of the Let’s Get Rusty YouTube channel, explaining the work, which he characterized as “Rust++.” That's a geeky but hard-won victory to be sure. Ovadia describes his work in an explanatory blog post as the “Golden Spike” that intertwines two different languages, referring to the final spike hammered into the United States’ first transcontinental railroad line. Instead of being stripped down into raw primitives just to be crammed into the coarse wagons of C ABI, libraries of rich capability can be sped to foreign ecosystems on sturdy, high-speed rails. Ditching the C ABI at last The work came about in Ovadia’s effort to create his own language, Valen (an offshoot of an earlier effort called Vale), which he envisions as a speedier, more dev-friendly version of Rust. The problem with creating a new language from scratch, he reasoned, was that he couldn’t use his favorite Rust libraries (notably Rust’s bitchin’ wgpu graphics library). Today, a common way to use a library from one lan
-
-### Microsoft cells out, crams multiple values into Excel boxes
-Fri, 25 Sep 2026 21:58:36 +0200 — https://www.theregister.com/applications/2026/09/25/microsoft-cells-out-crams-multiple-values-into-excel-boxes/5299294
-
-Microsoft has ended 40 years of single-occupancy for Excel cells and is now allowing multiple values to inhabit the same home. "One of the oldest rules of spreadsheets: one cell, one value," said Jake Armstrong, senior product manager for Excel, in a LinkedIn post. "No longer!" "I’m excited to announce a set of new features: Lists, Arrays in Cells and Nested Arrays in Excel." For the time being, this capability is only available in Microsoft Excel for Windows and Mac Beta Channels. And it is opt-in. To make the case for lists in cells, Armstrong in a blog post explained that each Excel project can have multiple owners. "Traditionally, you'd need separate columns, helper tables, or text like 'Carlos, Henrietta, Jacob' packed into a single cell," he explained. "With lists, you can keep those values together in one cell while still working with each item individually. Project owners stay connected to the project they belong to, while remaining available for filtering, calculations, and analysis." And he goes on to cite the potential utility of arrays in cells and nested arrays for expanding the kinds of information that Excel spreadsheets can represent. Armstrong's enthusiasm for multi-value cells comes with a caveat that this is a preview feature and shouldn't be used in important workbooks until general availability. Among those commenting on Armstrong's LinkedIn post, several people suggested the change has the potential to break things and hinder auditability by making busin
-
 ## Engadget
+
+### You can now preorder the tiny Boox Picco ereader
+Mon, 28 Sep 2026 07:00:00 +0000 — https://www.engadget.com/2268196/you-can-now-preorder-the-tiny-boox-picco-ereader/
+
+It's so cuuuuuuute!
+
+### Level 1, 2 and 3 EV chargers: Which is better to use?
+Mon, 28 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2267893/level-1-2-vs-3-ev-charger-which-is-better/
+
+Provided you don't drive long distances every day, Level 1 charging could be all you need.
+
+### Are 3D printers worth buying in 2026?
+Mon, 28 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2267835/3d-printer-is-it-still-worth-buying/
+
+3D printers have become more advanced and user-friendly than they were ten years ago, but they may not be ready for the masses.
+
+### What do foldable phone cases actually protect?
+Sun, 27 Sep 2026 23:45:00 +0000 — https://www.engadget.com/2267906/what-foldable-phone-cases-protect/
+
+Foldable phones inherently have more weak points than bar phones, and the hinge mechanisms are susceptible to dust. Getting the right case matters.
+
+### When are surround sound systems actually worth it over soundbars?
+Sun, 27 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2267833/surround-sound-system-worth-it-vs-soundbar/
+
+Choosing between a soundbar and full surround system requires you to evaluate how much you care about convenience, immersion, price and more.
+
+### How to improve CarPlay navigation if you use Google Maps over Apple Maps
+Sun, 27 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2267714/how-to-improve-carplay-navigation-use-google-maps-not-apple-maps/
+
+Google Maps can't be set as the default GPS app in CarPlay in most regions, but you can still make it easier to use while driving.
+
+### When is it worth using a bike computer over a smartphone?
+Sun, 27 Sep 2026 22:45:00 +0000 — https://www.engadget.com/2267892/phone-vs-bike-computer-differences/
+
+Your phone may be all you need until battery life, navigation or rough conditions start getting in the way.
+
+### How to turn your old MacBook into a home NAS server
+Sun, 27 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2266517/how-to-turn-your-old-macbook-into-home-nas-server/
+
+If you have a MacBook sitting around collecting dust, you can give it new life by turning it into a home NAS server. Here's how to get started.
+
+### Here's what happens to your old computer parts you donate to Goodwill
+Sun, 27 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2267008/donated-old-computer-parts-goodwill-what-happens-to-them/
+
+Goodwill has a pretty robust electronics refurbishment program.
 
 ### Bill Gates says it's 'completely irresponsible' for AI to not have safeguards
 Sun, 27 Sep 2026 19:12:29 +0000 — https://www.engadget.com/2270166/bill-gates-says-that-its-completely-irresponsible-for-ai-to-not-have-safeguards/
@@ -252,52 +287,22 @@ Sun, 27 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2265495/byd-new-sol
 
 The Chinese company is one of several car makers expected to adopt solid-state batteries in the next few years.
 
-### The pros and cons of using a foldable phone
-Sun, 27 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2266434/foldable-phone-pros-cons/
-
-Foldable phones are gaining momentum, but have they been refined enough to make it to the mainstream? Here are some things to consider.
-
-### Why the iPhone Duo could be beneficial for Samsung's Galaxy Z Fold 8
-Sun, 27 Sep 2026 16:45:00 +0000 — https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/
-
-Apple's iPhone Duo is far from the first foldable phone, but it could upset the foldable market in all-new ways.
-
-### How to use Android's Desktop mode to turn your phone into a tiny PC
-Sun, 27 Sep 2026 16:15:00 +0000 — https://www.engadget.com/2267572/how-to-use-desktop-mode-android-phone/
-
-You can plug recent Pixel phones into a monitor to get a desktop-style interface.
-
-### How to use Spotify's Running Mode on iOS and Android
-Sun, 27 Sep 2026 15:45:00 +0000 — https://www.engadget.com/2267524/how-to-use-spotify-running-mode-ios-android-guide/
-
-Maximize your stride with Spotify's AI-powered running features.
-
-### How to improve your router's security in 10 minutes
-Sun, 27 Sep 2026 15:15:00 +0000 — https://www.engadget.com/2267401/how-to-improve-router-security-10-minutes/
-
-Most internet routers are solid out of the box, but that doesn't mean they can't be made more secure. Often, all you need to do is tweak a few settings.
-
-### Why you should avoid holding down your PC's power button
-Sun, 27 Sep 2026 14:45:00 +0000 — https://www.engadget.com/2267392/why-important-reboot-pc-menu-not-power-button/
-
-There are often times when your PC hangs and you need to perform a hard shutdown, but there are a number of reasons why doing it regularly could cause issues.
-
-### Why letting Claude clean your TV's bloatware isn't the best idea
-Sun, 27 Sep 2026 14:15:00 +0000 — https://www.engadget.com/2267074/why-claude-cleaning-tv-bloatware-not-best-idea/
-
-Don't let an AI bot potentially crash your TV.
-
-### Gemini Live vs. ChatGPT Voice: Which AI offers a more natural conversation?
-Sun, 27 Sep 2026 13:45:00 +0000 — https://www.engadget.com/2266889/gemini-live-vs-gpt-live-which-offers-more-natural-conversation/
-
-Speaking with an AI chatbot can be a little awkward, but companies like Google and OpenAI are working on fixing that.
-
-### Why it's important to not put your PC on the floor
-Sun, 27 Sep 2026 13:30:00 +0000 — https://www.engadget.com/2267888/why-its-important-to-not-put-pc-floor/
-
-If you're not going to put it on your desk, at least do these things.
-
 ## TechCrunch
+
+### Truecaller takes its scam intelligence to the open web as it looks beyond caller ID
+Mon, 28 Sep 2026 04:30:00 +0000 — https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/
+
+Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.
+
+### Anthropic’s CEO is about to have dinner with President Trump
+Sun, 27 Sep 2026 20:34:28 +0000 — https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/
+
+This will be the first one-on-one meeting between Dario Amodei and Donald Trump
+
+### Can Muse overcome Meta’s trust issues?
+Sun, 27 Sep 2026 19:57:30 +0000 — https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/
+
+On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.
 
 ### Anthropic s Dario Amodei gets the SNL treatment
 Sun, 27 Sep 2026 16:30:00 +0000 — https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/
@@ -343,19 +348,4 @@ Two companies now say they will accept advertising for director Alex Gibney’s 
 Sat, 26 Sep 2026 17:00:00 +0000 — https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/
 
 This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.
-
-### I created an interactive digital avatar of myself — and you can talk to it
-Sat, 26 Sep 2026 14:00:00 +0000 — https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/
-
-After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.
-
-### At Meta Connect, the company s smart glasses were everywhere
-Sat, 26 Sep 2026 01:08:57 +0000 — https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/
-
-The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses.
-
-### Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
-Fri, 25 Sep 2026 23:11:10 +0000 — https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/
-
-Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.
 
