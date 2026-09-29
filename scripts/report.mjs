@@ -18,6 +18,7 @@
 import { writeFile } from 'node:fs/promises';
 import { gather } from './report-data.mjs';
 import { renderReport } from './report-html.mjs';
+import { insights, insightsText } from './report-insights.mjs';
 
 const args = process.argv.slice(2);
 const flag = (name) => {
@@ -51,7 +52,7 @@ async function toPdf(html, path) {
   }
 }
 
-async function email(pdfPath, data) {
+async function email(pdfPath, data, reading) {
   const need = ['SMTP_HOST', 'SMTP_USER', 'SMTP_PASS', 'NOTIFY_TO'];
   const missing = need.filter((n) => !process.env[n]);
   if (missing.length) {
@@ -84,6 +85,10 @@ async function email(pdfPath, data) {
       headline,
       search,
       '',
+      // The reading goes in the body as well, so the verdict and the to-do
+      // list are there without opening the attachment.
+      insightsText(reading),
+      '',
       'The detail is in the attached PDF.',
     ]
       .filter(Boolean)
@@ -106,7 +111,8 @@ for (const [name, source] of [
   console.log(`${name.padEnd(15)} ${source.ok ? 'ok' : `SKIPPED — ${source.why}`}`);
 }
 
-const html = renderReport(data);
+const reading = insights(data);
+const html = renderReport(data, reading);
 
 const htmlOut = flag('--html');
 if (typeof htmlOut === 'string') {
@@ -121,5 +127,5 @@ console.log(`wrote ${pdfOut}`);
 
 if (flag('--pdf')) process.exit(0);
 
-const sent = await email(pdfOut, data);
+const sent = await email(pdfOut, data, reading);
 console.log(sent ? 'emailed' : 'not emailed');

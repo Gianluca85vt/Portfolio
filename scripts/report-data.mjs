@@ -13,6 +13,7 @@
 import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { accessToken, SCOPES } from './lib/google-token.mjs';
+import { assess, publishedArticles } from './editorial-mix.mjs';
 
 const SITE = 'https://www.gianlucascattarella.it/';
 
@@ -370,17 +371,30 @@ export async function editorial(win, root = process.cwd()) {
   const inWindow = [];
   const categories = {};
   let svgCovers = 0;
+  // What the analysis page needs beyond the counts: which drafts are waiting
+  // and since when, and what kind of piece each search result is, so a page
+  // in Search Console can be read as a review, a hands-on review or neither.
+  const draftList = [];
+  const meta = {};
 
   for (const f of files) {
     const text = (await readFile(join(dir, f), 'utf8')).replace(/\r\n?/g, '\n');
     const head = text.match(/^---\n([\s\S]*?)\n---/)?.[1] ?? '';
     const field = (n) => head.match(new RegExp(`^${n}:\\s*(.*)$`, 'm'))?.[1]?.trim().replace(/^["']|["']$/g, '');
+    const slug = f.replace(/\.md$/, '');
 
     if (/^draft:\s*true/m.test(head)) {
       drafts += 1;
+      draftList.push({ slug, title: field('title') ?? slug, date: field('date') ?? '', review: !!field('score') });
       continue;
     }
     published += 1;
+    meta[slug] = {
+      category: field('category') ?? '?',
+      review: !!field('score'),
+      handsOn: /^handsOn:\s*true/m.test(head),
+      date: field('date') ?? '',
+    };
 
     const category = field('category') ?? '?';
     categories[category] = (categories[category] ?? 0) + 1;
@@ -390,6 +404,7 @@ export async function editorial(win, root = process.cwd()) {
     if (date && date >= win.current.start && date <= win.current.end) {
       inWindow.push({
         slug: f.replace(/\.md$/, ''),
+        date,
         title: field('title') ?? f,
         category,
         score: field('score'),
@@ -415,6 +430,9 @@ export async function editorial(win, root = process.cwd()) {
       .sort((a, b) => b.value - a.value),
     inWindow: inWindow.sort((a, b) => a.slug.localeCompare(b.slug)),
     socialPosted: posted,
+    draftList: draftList.sort((a, b) => a.date.localeCompare(b.date)),
+    meta,
+    quotas: assess(await publishedArticles(root)),
   };
 }
 

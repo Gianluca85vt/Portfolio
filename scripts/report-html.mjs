@@ -92,7 +92,32 @@ function missing(label, why) {
   return `<div class="missing"><b>${esc(label)}</b> could not be read — ${esc(why)}</div>`;
 }
 
-export function renderReport(d) {
+/**
+ * The reading: what the numbers mean and what to do, first thing after the
+ * tiles. Italian, like the briefing it replaces.
+ */
+function reading(r) {
+  if (!r) return '';
+  return `<section class="reading" lang="it">
+  <p class="reading-kicker">La lettura</p>
+  <h2 class="reading-head">${esc(r.headline)}</h2>
+  ${r.trend.map((t) => `<p>${esc(t)}</p>`).join('')}
+  ${
+    r.actions.length
+      ? `<h3 class="reading-sub">Cosa fare</h3>
+  <ol class="actions">${r.actions.map((a) => `<li><b>${esc(a.title)}.</b> ${esc(a.body)}</li>`).join('')}</ol>`
+      : ''
+  }
+  ${
+    r.findings.length
+      ? `<h3 class="reading-sub">Cosa ho notato</h3>
+  <ul class="findings">${r.findings.map((f) => `<li><b>${esc(f.title)}.</b> ${esc(f.body)}</li>`).join('')}</ul>`
+      : ''
+  }
+</section>`;
+}
+
+export function renderReport(d, r = null) {
   const { ga, sc, bing, editorial: ed, window: win, days } = d;
 
   const gaps = [
@@ -191,6 +216,15 @@ export function renderReport(d) {
   .pill.drawn { background: ${EMBER}; }
   footer { margin-top: 26px; padding-top: 8px; border-top: 1px solid ${RULE}; font-size: 8pt; color: ${MUTED}; }
   .avoid { break-inside: avoid; }
+
+  .reading { margin-top: 16px; border: 1px solid ${RULE}; border-left: 3px solid ${VIOLET}; padding: 12px 14px 6px; background: #FBF9FC; }
+  .reading p { margin: 0 0 7px; }
+  .reading-kicker { font-size: 7pt; letter-spacing: 0.22em; text-transform: uppercase; color: ${MUTED}; font-weight: 600; }
+  .reading-head { font-size: 14pt; font-weight: 600; line-height: 1.25; margin: 2px 0 8px; border: 0; padding: 0; text-transform: none; letter-spacing: 0; }
+  .reading-sub { font-size: 8pt; letter-spacing: 0.16em; text-transform: uppercase; color: ${ACCENT}; margin: 12px 0 5px; }
+  .actions, .findings { margin: 0 0 8px; padding-left: 18px; }
+  .actions li, .findings li { margin-bottom: 5px; }
+  .findings li::marker { color: ${MUTED}; }
 </style></head>
 <body>
 
@@ -204,6 +238,8 @@ export function renderReport(d) {
 ${gaps.join('')}
 
 ${tiles.length ? `<div class="tiles">${tiles.join('')}</div>` : ''}
+
+${reading(r)}
 
 ${
   ga.ok
