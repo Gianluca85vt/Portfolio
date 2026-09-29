@@ -3,7 +3,7 @@ title: "Toptoon's owner is now Ankey AX, an AI company"
 date: 2026-09-29
 category: Manga
 excerpt: Topco Media became Ankey AX on 10 September and filed virtual humans as a business purpose. Its in-house studio runs Grok, NovelAI and ComfyUI.
-cover: /img/blog/toptoon-owner-ankey-ax-ai-company/video-thumb.jpg
+cover: /img/blog/toptoon-owner-ankey-ax-ai-company/shot-02.jpg
 sources:
   - outlet: Anime News Network
     url: https://www.animenewsnetwork.com/news/2026-09-28/topco-media-rebrands-as-ankey-ax-expanding-webtoon-ip-business-into-ai/.242254
