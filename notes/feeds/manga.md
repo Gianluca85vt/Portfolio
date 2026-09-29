@@ -1,6 +1,41 @@
-# Manga — harvested 2026-09-29T10:54:11.629Z
+# Manga — harvested 2026-09-29T18:52:04.784Z
 
 ## Anime News Network
+
+### The Summer Hikaru Died Volumes 2-7 Manga Review
+Tue, 29 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-summer-hikaru-died/volumes-2-7/.241598
+
+As <i>The Summer Hikaru Died</i> approaches its conclusion, who can say where it will take "Hikaru" and Yoshiki? The monster already ripped his heart out; will Yoshiki be next?
+
+### The Shy Snow Woman And The Cursed Ring Anime Gets English Dub
+Tue, 29 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/the-shy-snow-woman-and-the-cursed-ring-anime-gets-english-dub/.242311
+
+OceanVeil debuts dub starring Jordan Woollen, Leah Booth, CottontailVA on October 4
+
+### A/V Post-Production Company Salami Studios Closes
+Tue, 29 Sep 2026 11:01:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/a-v-post-production-company-salami-studios-closes/.242310
+
+Salami Studios worked on recording for <cite>Cyberpunk 2077: Edgerunners 2</cite> anime
+
+### When Webtoons Step Out of the Screen: A Visit to K-Comics Origin Los Angeles
+Tue, 29 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-29/when-webtoons-step-out-of-the-screen-a-visit-to-k-comics-origin-los-angeles/.242055
+
+The exhibition explores the 100-year history of Korean comics, the evolution of webtoons as a distinct format, and their growing role as an IP source for Korean content.
+
+### This Week in Anime - 1 in 100 (GFs)
+Tue, 29 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-29/.242260
+
+They really, really, really, really, really love you, but which of them is your favorite?
+
+### Interview: Miyu Tomita Becomes Cute Mascot PAGTARO in Uncle's Obsession with Cute Things Anime
+Tue, 29 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/interview-miyu-tomita-becomes-cute-mascot-pagtaro-in-uncle-obsession-with-cute-things-anime/.241871
+
+From <cite>Made in Abyss</cite> to an impossibly adorable pug mascot, Miyu Tomita is putting her all into every "Paguuu!"
+
+### Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members
+Tue, 29 Sep 2026 06:28:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304
+
+Saeko Kamijō, Hitomi Ueda, Azusa Tadokoro, Ayaka Ōhashi join cast of October 6 series
 
 ### The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor
 Tue, 29 Sep 2026 05:57:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303
@@ -27,41 +62,6 @@ Mon, 28 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Will the horse girls achieve Most Speaking Characters in a Short-form Animation Series Based on a Video Game?
 
-### One Piece Anime Confirms New Episodes to Return in 2027
-Mon, 28 Sep 2026 22:55:44 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-28/one-piece-anime-confirms-new-episodes-to-return-in-2027/.242285
-
-The last episode of the anime for this year aired on Fuji TV on Sunday, with the anime continuing next year. The Dragon Ball Super: Beerus anime will take...
-
-### Hirayasumi Anime Unveils Teaser, Key Visual, Cast
-Mon, 28 Sep 2026 19:42:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284
-
-Yuma Uchida, Mayu Takahashi, Rikako Aikawa star in October 7 human drama anime
-
-### Amata Games' Shinjuku Anomaly Game Reveals September 30 Launch in Trailer
-Mon, 28 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/amata-games-shinjuku-anomaly-game-reveals-september-30-launch-in-trailer/.242280
-
-Horror visual novel features anomaly photography gameplay for PC
-
-### You and I Are Polar Opposites Season 2 ‒ Episode 12
-Mon, 28 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-12/.242282
-
-This might not technically be the finale, but you sure could have fooled me into thinking otherwise.
-
-### Smile Up President Noriyuki Higashiyama Steps Down
-Mon, 28 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/smile-up-president-noriyuki-higashiyama-steps-down/.242274
-
-Smile Up continues to handle compensation measures for sexual abuse victims of Johnny Kitagawa
-
-### Cells at Work! Gets Dental Spinoff Manga
-Mon, 28 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279
-
-<cite>Hataraku Saibō Dental</cite> debuts on October 26
-
-### Captain Tsubasa: Rising Sun Finals Manga Resumes Serialization in October
-Mon, 28 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/captain-tsubasa-rising-sun-finals-manga-resumes-serialization-in-october/.242277
-
-Series entered hiatus after 100th chapter in May
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -87,16 +87,6 @@ Though I Am an Inept Villainess anime revealed an epilogue visual featuring the 
 Mon, 28 Sep 2026 11:19:32 GMT — https://animecorner.me/everyones-darling-has-a-secret-gets-anime/
 
 Everyone's Darling Has a Secret manga is getting an anime series. A visual was&hellip;
-
-### Mushoku Tensei Season 3 Cour 2 Officially Announced
-Sun, 27 Sep 2026 15:08:13 GMT — https://animecorner.me/mushoku-tensei-season-3-cour-2-officially-announced/
-
-Mushoku Tensei: Jobless Reincarnation Season 3 anime announced a Cour 2 after Episode 14 finished airing on September 27.
-
-### One Piece Anime to Continue in 2027, Finished for This Year After Episode 1180
-Sun, 27 Sep 2026 14:53:29 GMT — https://animecorner.me/one-piece-anime-to-continue-in-2027-finished-for-this-year-after-episode-1180/
-
-ONE PIECE TV anime announced a 2027 return following the release of Episode 1180, this year's final episode, on September 27.
 
 ## MyAnimeList News
 
@@ -129,16 +119,6 @@ The official website of the Bleach: Sennen Kessen-hen - Kashin-tan (Bleach: Thou
 Sun, 27 Sep 2026 20:49:54 -0700 — https://myanimelist.net/news/74768378?_location=rss
 
 Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane s Houkago no Idol ni wa Himitsu ga Aru (Everyone s Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime series will premiere in April 2027. Cast Hiruno Hizashi: Reiji Kawashima (Fumetsu no Anata e) Rei Kuromiya: Hikaru Tono (Make Heroine ga Oosugiru) Sakura Akai: Iori Noguchi (=LOVE) (Hashiri Tsuzukete Yokatta tte.) S...
-
-### Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2 Announced for 2027
-Sun, 27 Sep 2026 08:57:54 -0700 — https://myanimelist.net/news/74766124?_location=rss
-
-The 14th and final episode of Mushoku Tensei III: Isekai Ittara Honki Dasu (Mushoku Tensei: Jobless Reincarnation Season 3) television anime announced on Sunday that its second part is scheduled for 2027, accompanied by an announcement promotional video. Produced by Studio Bind, the 23-episode first season aired in split cours in Winter 2021 and Fall 2021. The 24-episode second season premiered in two parts, with the first part in Summer 2023 and the second part in Spring 2024. The first part of...
-
-### New Monster Strike Anime Mera×Death - Shinigami to Boku no Ijou na Koi Announced for Winter 2027
-Sun, 27 Sep 2026 05:25:21 -0700 — https://myanimelist.net/news/74765539?_location=rss
-
-Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) on Sunday. The official website also revealed the production staff, a key visual (pictured), and the first promotional video. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5, 2027. Staff...
 
 ## Otaku USA
 

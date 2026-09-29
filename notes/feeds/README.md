@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-09-29T10:54:11.629Z
+# Source feeds — harvested 2026-09-29T18:52:04.784Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -15,8 +15,6 @@ Already aired, so a round-up rather than a preview:
 
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
-- Game Developer — gamescom latam
-- Game Developer — The Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -26,9 +24,9 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 9 articles have gone out since the last one.
+Both quotas are being met. Write whatever the day deserves.
 
-- **Film & TV** — BROKEN. 9 articles since the last one; quota is one in 8, never worse than one in 10. 14 in the archive of 195.
+- **Film & TV** — on track. 2 articles since the last one; quota is one in 8, never worse than one in 10. 15 in the archive of 195.
 - **Manga and anime** — on track. 0 articles since the last one; quota is one in 6. 7 in the archive of 195.
 
 The run is what counts, not the percentage: a burst last month does not
@@ -38,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 63 items
-- [Games](games.md) — 93 items
+- [Games](games.md) — 100 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 15 items
-- [AI](ai.md) — 6 items
-- [Manga](manga.md) — 28 items
+- [3D](3d.md) — 13 items
+- [AI](ai.md) — 11 items
+- [Manga](manga.md) — 24 items
+- [Film & TV](film-tv.md) — 67 items
 
-Total: 287 items.
+Total: 297 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

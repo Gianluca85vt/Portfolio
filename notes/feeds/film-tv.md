@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-09-29T10:54:11.629Z
+# Film & TV — harvested 2026-09-29T18:52:04.784Z
 
 ## Variety
 
-### Rome MIA Market Launches European Investment Hub, With CAA’s Roeg Sutherland and Raj Singh of Media Capital Technologies Set to Attend (EXCLUSIVE)
-Tue, 29 Sep 2026 10:46:34 +0000 — https://variety.com/2026/film/finance/rome-mia-market-european-investment-hub-1236877318/
+### Variety s Pixels and Pencils Animation Panel Returns to SCAD Savannah Film Festival With Directors of Wildwood, Ray Gunn and More
+Tue, 29 Sep 2026 18:35:00 +0000 — https://variety.com/2026/film/awards/variety-pixels-and-pencils-2026-scad-animated-directors-1236878302/
 
-Rome’s MIA Market is launching a new initiative called European Investment Hub, which aims to help European industry professionals navigate the wide range of financial tools — in both the soft money and equity financing spheres — that are currently at their disposal. MIA (which stands for Mercato Internazionale Audiovisivo or International Audiovisual Market) will [ ]
+Variety’s “Pixels and Pencils” panel returns to the SCAD Savannah Film Festival for a fifth year, spotlighting the directors behind the year’s standout animated features. Six filmmakers will join this year’s conversation which include: Brad Bird for Netflix’s “Ray Gunn”; Daniel Chong for Pixar’s “Hoppers”; Joel Crawford and Januel Mercado for DreamWorks Animation’s “Forgotten Island”; [ ]
 
-### BBC Boss Says He Watched a ‘Pretty Good’ AI-Generated Episode of ‘Doctor Who’: ‘Everyone s a Creator, Not All the Creativity Is Bad’
-Tue, 29 Sep 2026 10:22:24 +0000 — https://variety.com/2026/tv/global/matt-brittin-bbc-doctor-who-ai-pretty-good-1236877915/
+### Margot Robbie and Jason Blum Join Cinema United’s Filmmaker Leadership Council Film News in Brief
+Tue, 29 Sep 2026 18:30:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-sept-28-2026-1236877500/
 
-BBC boss Matt Brittin says he was recently sent a fully AI-generated episode of “Doctor Who, which he deemed “pretty good” – although he was quick to add it was “not going to replace humans.” “Everyone s got the ability in their hands or six billion people have to create content at the standard [ ]
+Filmmakers and three-time Academy Award nominees Margot Robbie and Jason Blum have joined Cinema United’s Filmmaker Leadership Council, a group of producers and directors aimed to champion the future of cinema. “We are thrilled and honored to welcome two leaders like Margot and Jason to this influential group,” said Michael O’Leary, the president and CEO [ ]
 
-### Olivia Colman and Alexander Skarsgård on Playing a Fisherwoman and a ‘Very Sexy Basket’ in ‘Wicker’: It’s ‘Two Souls Being Kind to Each Other’
-Tue, 29 Sep 2026 09:52:34 +0000 — https://variety.com/2026/film/global/olivia-colman-wicker-alexander-skarsgard-zurich-1236877898/
+### God of War Laufey Sets Release Date, Preorders Open (Gaming News Roundup)
+Tue, 29 Sep 2026 18:28:11 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-september-28-1236877473/
 
-Ever since its premiere at Sundance, “Wicker” has been generating headlines. Mostly thanks to its erotic scenes featuring Olivia Colman and Alexander Skarsgård as her custom-woven lover, with both characters putting an enthusiastic spin on Taylor Swift’s “Wood.” The film’s raunchiness might have surprised some unsuspecting viewers at Zurich Film Festival. But Colman adored the [ ]
+“God of War Laufey” will release Feb. 16, 2027 from PlayStation s Santa Monica Studios. Pre-orders go live on Sept. 29. The prequel game in the action-adventure franchise centers on Laufey, also known as Faye. “God of War Laufey” follows the legendary warrior beyond death through the Everywhen, the afterlife of the gods. Fans who pre-order [ ]
 
-### Should the BBC and Channel 4 Merge? Sony Pictures Television s International Production Boss Wayne Garvie Thinks So
-Tue, 29 Sep 2026 09:39:20 +0000 — https://variety.com/2026/tv/global/bbc-channel-4-merger-wayne-garvie-1236877905/
+### Pedro Pina, YouTube VP at Iberseries Platino Industria: ‘YouTube is a Greenhouse of the Future of Creativity’
+Tue, 29 Sep 2026 18:14:20 +0000 — https://variety.com/2026/film/global/pedro-pina-youtube-iberseries-obsession-backrooms-1236878255/
 
-The ongoing difficulties faced by the U.K. s public service broadcasters could be partially alleviated by a dramatic merger between two of the four main players, the BBC and Channel 4. Speaking at the RTS London Convention, Sony Pictures Television s international production chief Wayne Garvie argued that for Channel 4 — the publicly-owned, commercially-funded network struggling with [ ]
+Speaking at the Iberseries Platino Industria conference, Pedro Pina, YouTube VP for Europe, the Middle East and Africa, regaled a full house with a striking presentation that traced the evolution of YouTube to the powerhouse platform it has now become after 20 years. He showed milestones that marked its progress, from the first viral [ ]
 
-### Prime Video International Boss Urges TV Industry to Embrace AI: It Doesn t Replace Imagination, It Amplifies It
-Tue, 29 Sep 2026 09:32:05 +0000 — https://variety.com/2026/tv/global/prime-video-tv-industry-embrace-ai-1236877901/
+### NHL Season 2026-2027 Livestream: Here’s Where to Watch Pro Hockey Games Online Free
+Tue, 29 Sep 2026 18:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-nhl-2026-2027-season-online-livestream-free-1236833897/
 
-Prime Video international boss Kelly Day has urged the TV industry to embrace change, including AI. Speaking at the Royal Television Society convention in London, Day, who is VP for international at Prime Video and Amazon MGM Studios, listed the ways that AI is being used to speed up and bring down costs throughout the [ ]
+The NHL 2026-2027 season is going to be very exciting to see which of the 32 teams in the league will win their divisions and make it into the playoffs for a chance to hoist the Stanley Cup in the final series. The Carolina Hurricanes returns as champions of the league, while the new season [ ]
 
-### Durban FilmMart Head on Why This Year s Event Is Looking Inward as African Screen Industries Strive to Create Solutions on Their Own Terms
-Tue, 29 Sep 2026 08:38:44 +0000 — https://variety.com/2026/film/global/durban-filmmart-magdalene-reddy-2-1236874107/
+### ‘Wildwood,’ ‘I Play Rocky,’ ‘Behemoth’ and More Among AFI Fest 2026 Lineup
+Tue, 29 Sep 2026 18:00:00 +0000 — https://variety.com/2026/film/festivals/afi-festival-lineup-wildwood-i-play-rocky-1236878233/
 
-The Durban FilmMart returns for its 17th edition with a full slate of conversations and events looking to build on the legacy of innovation, disruption and industry-defining discussions at what is arguably the most influential film market on the continent. Running from Oct. 9 – 12, this year’s event is organized around the theme “Shifting [ ]
+The American Film Institute has announced the complete lineup for AFI Fest 2026, presented by Canva, taking place in Hollywood from Oct. 21-25. The 40th edition of the festival will screen 157 films across five red-carpet premieres, 12 special screenings, 13 luminaries selections, 18 discovery titles, 16 world cinema selections, 17 documentaries and many more. [ ]
 
-### The Platform Co-Producer David Matamoros of Doce Entertainment Spain Boards Matías Rojas’ ‘Dog Legs’ (EXCLUSIVE)
-Tue, 29 Sep 2026 06:58:39 +0000 — https://variety.com/2026/film/global/the-platform-david-matamoros-spain-matias-rojas-dog-legs-1236876315/
+### Paul McCartney and Judd Apatow Have a Revealing and Free-Wheeling Conversation About Wings and the Beatles in Man on the Run Post-Screening Q A
+Tue, 29 Sep 2026 17:59:46 +0000 — https://variety.com/2026/music/news/paul-mccartney-judd-apatow-conversation-man-on-the-run-1236878304/
 
-In one of the later deals pacted at the San Sebastian Festival, Spain’s David Matamoros of Doce Entertainment boarded Matías Rojas’s adaptation of Chilean cult novel “Dog Legs” (“Patas de perro”), joining four other producers from Chile, France, Germany and Colombia. With this, “Dog Paws” enters the final phase of its financing and is expected [ ]
+Paul McCartney met up with Judd Apatow for a 45-minute conversation following a screening of Man on the Run in Los Angeles Monday night, and it was very much a case of banter on the run. With Apatow at the helm, the chat took some comical turns, as might be expected, and also some unusually [ ]
 
-### Madrid Audiovisual Cluster Dives Deeper Into New Business Models, AI and Emerging Technologies at Iberseries Platino Industria
-Tue, 29 Sep 2026 05:18:27 +0000 — https://variety.com/2026/film/global/ai-new-tech-biz-models-madrid-audiovisual-cluster-1236877481/
+### Mariska Hargitay Condemns the Cornell 7 as Hudson Williams, Josh Gad and More Speak Out on Sexual Assault Case: Arrest Them and F Cornell
+Tue, 29 Sep 2026 17:54:26 +0000 — https://variety.com/2026/tv/news/mariska-hargitay-slams-cornell-7-hudson-williams-arrest-them-1236878141/
 
-The Madrid Audiovisual Cluster (MAC), an economic interest group comprising close to 100 Madrid-based companies, has put together a two-day industry networking and peer-learning program at the Iberseries Platino confab, taking place over Sept. 29 – Oct. 2 in the Spanish capital. AI takes center stage again but the program will attempt to delve [ ]
+Mariska Hargitay, Josh Gad, Hudson Williams and more celebrities are joining the growing list of Hollywood names using social media to condemn the Cornell 7, the name given online to the seven male students accused of drugging and gang raping their female classmate at Cornell University in October 2024. The woman s allegation is making national [ ]
 
-### Mayor Zohran Mamdani Refuses Jimmy Kimmel’s Request to Text Trump a Selfie of Them
-Tue, 29 Sep 2026 05:01:54 +0000 — https://variety.com/2026/tv/news/zohran-mamdani-jimmy-kimmel-live-donald-trump-selfie-text-1236877861/
+### Game of Thrones Movie Aegon s Conquest Sets Summer 2029 Release Date
+Tue, 29 Sep 2026 17:48:10 +0000 — https://variety.com/2026/film/box-office/game-of-thrones-aegons-conquest-release-date-2029-1236878313/
 
-“Jimmy Kimmel Live” is back in Brooklyn. The late-night show has returned to the New York City borough for a week of shows at the Brooklyn Academy of Music. It’s Kimmel’s eighth time filming “Live” in Brooklyn, the place he was born and spent his early years, and the comic is welcoming a number of [ ]
+Winter is coming to the big screen in summer of 2029. Game of Thrones: Aegon s Conquest, the first movie set in the fictional world of Westeros, has been scheduled for June 6, 2029. Owen Harris ( A Knight of the Seven Kingdoms ) will direct the film from a screenplay by Beau Willimon. Little is known about [ ]
 
-### Jon Stewart Takes Aim at Trump’s Meeting With China s President: ‘How Does America Even Stay on the Map?’
-Tue, 29 Sep 2026 04:03:51 +0000 — https://variety.com/2026/tv/news/jon-stewart-donald-trump-xi-jinping-1236877851/
+### New Stanford Prison Experiment Drops Tense First Trailer Ahead of Netflix Release
+Tue, 29 Sep 2026 17:39:48 +0000 — https://variety.com/2026/tv/news/new-stanford-prison-experiment-trailer-netflix-1236878294/
 
-On Monday night’s episode of “The Daily Show,” Jon Stewart gave audiences a comedic rundown of the recent developments in the relationship between Donald Trump and Chinese President Xi Jinping following Trump’s hosting of Jinping in Washington, D.C., for what was called a “reciprocal state visit” by the White House. Stewart kicked off his monologue [ ]
+Netflix has unveiled the first trailer for the upcoming unscripted series The New Stanford Prison Experment. In the trailer, those participating in the series both as guards and inmates are transported to a real prison facility to begin the experiment. The power dynamics and tension quickly shift as the participants settle into their [ ]
 
 ## The Hollywood Reporter
 
-### Amazon MGM Execs Tout New Mercedes Ron Hit, How Spain s Apocalypse Z Became a Hit That s Getting a Sequel: Zombies Have No Nationality
-Tue, 29 Sep 2026 10:21:00 +0000 — https://www.hollywoodreporter.com/business/business-news/amazon-mgm-mercedes-ron-apocalypse-z-sequel-iberseries-2026-1236714230/
+### Lisa Vanderpump Brings Vanderpump Rules to Las Vegas in Bravo Limited Series Trailer
+Tue, 29 Sep 2026 18:34:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lisa-vanderpump-rules-las-vegas-bravo-trailer-1236714561/
 
-The company’s heads of international originals for Southern Europe and for Latin America, Canada and Australia tell Iberseries that Hollywood has no monopoly on action and dystopian fare.
+The three-episode 'Lisa Las Vegas' will run across two nights in October.
 
-### Netflix s The Eternaut Effect: Subscriber Impact Estimate Disclosed at Iberseries
-Tue, 29 Sep 2026 09:17:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-subscriber-impact-the-eternaut-series-argentina-1236713547/
+### Disney Cuts Hundreds More Jobs in New Round of Layoffs as Corporate Streamlining Casualties Mount
+Tue, 29 Sep 2026 18:00:59 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-layoffs-corporate-cuts-1236714541/
 
-Korean demand drives Spanish- and Portuguese-language content growth, while U.S. gains suggest a "semi-saturated" market, a Parrot Analytics expert also tells Iberseries Platino Industria in Madrid.
+Human resources and tech were hit particularly hard by the layoffs.
 
-### Robert Irwin (And His Clones) Team With Qantas
-Tue, 29 Sep 2026 08:05:09 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/robert-irwin-qantas-airlines-campaign-2026-1236713266/
+### Lee Chang-dong’s Venice Film Festival Winner Possible Love Among Selections for AFI Fest 2026
+Tue, 29 Sep 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/afi-fest-2026-full-lineup-schedule-tickets-1236714470/
 
-"Qantas has been part of my life since I was about the size of a loaf of bread," explains the 'Dancing With the Stars' winner. "There is something about the warm Australian hospitality that feels like home."
+The American Film Institute unveiled the full lineup of films that make up the 40th edition of the Canva-presented event at Hollywood's TCL Chinese from Oct. 21 to 25.
 
-### Godzilla Minus Zero : Dodgers Giveaway Draws Lines for Final Home Game
-Tue, 29 Sep 2026 06:20:23 +0000 — https://www.hollywoodreporter.com/news/local-news/godzilla-minus-zero-dodgers-giveaway-lines-final-home-game-1236714124/
+### Game of Thrones Finally Hitting Big Screen in 2029 With Warner Bros. Aegon s Conquest
+Tue, 29 Sep 2026 17:55:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/game-of-thrones-movie-aegons-conquest-warner-bros-release-1236714525/
 
-The two-time defending World Series champs head into the MLB playoffs after causing a stir with the Godzilla-themed evening.
+Owen Harris directs from a script by Beau Willimon.
 
-### Where to Watch The Swan: Behind the Mirror, New Doc Detailing TV s Most Controversial Reality Show in History
-Tue, 29 Sep 2026 06:13:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-the-swan-behind-the-mirror-2026-documentary-streaming-1236713425/
+### Charlie and Martin Sheen Will Star in AMC s First Multi-Camera Comedy
+Tue, 29 Sep 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/charlie-sheen-martin-amc-sitcom-happy-jack-1236714460/
 
-The 2004 reality show subjected self-proclaimed "ugly ducklings" to three months of cosmetic surgery-fueled extreme makeovers. A new Erin Lee Carr documentary revisits it 22 years later.
+The show, called 'Happy Jack,' is set to begin filming in early 2027.
 
-### Jeff Probst Says Nothing Has Changed on Survivor After Paramount Rolled Back DEI Policies
-Tue, 29 Sep 2026 03:41:23 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jeff-probst-nothing-changed-survivor-dei-rolled-back-paramount-1236714072/
+### Tom Cruise Digger Reviews Are Brutally Split: From Insufferable to Terrific
+Tue, 29 Sep 2026 17:20:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-reviews-critics-1236714387/
 
-"If you watch our show, you know that we’re so diverse," said the long-running host and showrunner of the hit reality series.
+Here's a roundup of the top critic reviews for Alejandro G. Iñárritu's bold new movie.
 
-### Tokyo Film Festival to Honor Mohammad Rasoulof and Mipo O With Kurosawa Akira Award
-Tue, 29 Sep 2026 02:58:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-mohammad-rasoulof-mipo-o-honors-1236714063/
+### Mr. Belding Was Everyone s Principal
+Tue, 29 Sep 2026 17:13:57 +0000 — https://www.hollywoodreporter.com/tv/tv-features/mr-belding-americas-principal-dennis-haskins-tribute-1236714337/
 
-'Alice in Borderland’ star Hayato Isomura will also lead the festival’s Ethical Film Award jury, choosing a winner from three nominated titles.
+RIP, Big Bopper.
 
-### Dennis Haskins, Principal Belding on Saved by the Bell, Dies at 75
-Tue, 29 Sep 2026 02:49:15 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dennis-haskins-dead-principal-belding-saved-by-bell-1236714102/
+### Khloé Kardashian s Khloé in Wonder Land Returns for Season 4 With Summer House Alum Paige DeSorbo
+Tue, 29 Sep 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/khloe-kardashian-podcast-season-4-paige-desorbo-1236712538/
 
-“Everyone loved Mr. Belding, and those of us who got to know Dennis loved him even more,” his agent said.
+The 'Giggly Squad' co-host will be the first guest when Kardashian's wide-ranging podcast launches its new season Wednesday.
 
-### BTS Superstar V Named Global Brand Ambassador for Nothing as He Models New Headphones
-Tue, 29 Sep 2026 01:20:42 +0000 — https://www.hollywoodreporter.com/lifestyle/style/bts-superstar-v-global-brand-ambassador-nothing-headphones-1236714058/
+### Theater Owners Lobbying Group Eyes Global Expansion
+Tue, 29 Sep 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/theater-owners-lobbying-group-cinema-united-1236714392/
 
-Praised Nothing co-founder and CEO Carl Pei: "V has an instinct for fearless experimentation. He's always pushing into different sounds and styles."
+Cinema United, led by Michael O'Leary, is aiming to grow its policy advocacy efforts among international exhibitors.
 
-### Why Lioness Star Zoe Saldaña Can’t Imagine Joining Another Taylor Sheridan Show
-Tue, 29 Sep 2026 00:53:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lioness-zoe-saldana-cant-join-another-taylor-sheridan-show-1236714032/
+### Better Than the Movies Author Lynn Painter Spent 15 Years Chasing a Book Deal. Now She s Prepping for Her Cinematic Universe
+Tue, 29 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/lynn-painter-interview-better-than-the-movies-fake-skating-1236713533/
 
-The actress has played CIA operative Joe McNamara for three seasons.
+The bestselling YA and adult rom-com author reflects on her upcoming film adaptation starring David Iacono and Beatrice Kitsos and the "magic" casting of 'Fake Skating."
 
 ## Deadline
 
-### Kaali Kheti , Indian Horror Starring Jackie Shroff, Sharad Kelkar and Neha Sargam, Sets Indian Release Date
-Tue, 29 Sep 2026 10:20:00 +0000 — https://deadline.com/2026/09/kaali-kheti-indian-horror-release-date-jackie-shroff-1237116027/
+### Margot Robbie Jason Blum Join Cinema United s Filmmaker Leadership Council
+Tue, 29 Sep 2026 18:30:00 +0000 — https://deadline.com/2026/09/margot-robbie-jason-blum-cinema-united-1237116440/
 
-EXCLUSIVE: Jackie Shroff, Sharad Kelkar and Neha Sargam are starring in eerie Indian rural horror Kaali Kheti, which has been given a domestic theatrical release date of October 23. Above and below you can see a poster for the pic, which has been quietly shooting with Haris Imtiyaz Khan the writer and director. Sana Khan [ ]
+Oscar nominees Margot Robbie and producer Jason Blum have boarded exhibition trade org Cinema United s Filmmaker Leadership Council, a strategic group of producers and directors united in a single cause to champion the future of theatrical worldwide. The duo join council leaders Jerry Bruckheimer and Emma Thomas, and charter members Ryan Coogler, Brad Bird, Jason [ ]
 
-### BBC Boss Matt Brittin Says He Has Seen A Doctor Who Episode Entirely Generated By AI: It Was Pretty Good
-Tue, 29 Sep 2026 10:03:00 +0000 — https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/
+### Spider-Man Sony Universe TV Series Based On Clone Saga Marvel Comics Storyline Nears Amazon Green Light
+Tue, 29 Sep 2026 18:17:17 +0000 — https://deadline.com/2026/09/spider-man-series-clone-saga-marvel-amazon-sony-ben-kaine-1237115928/
 
-An artificial intelligence-generated episode of Doctor Who was pretty good, according to BBC Director General Matt Brittin. Brittin, who used to run Google EMEA, revealed that somebody had recently sent him a 50-minute ep of the BBC s long-running sci-fi franchise, which was completely AI-generated, and today he refused to slam it. Pretty good was Brittin s [ ]
+EXCLUSIVE: Will the real Ben Reilly please stand up? Prime Video is closing in on an order for a new series set in Sony Pictures’ Universe of Marvel Characters based on the popular Clone Saga storyline from the Marvel Comics, more specifically the second Clone Saga story arc that focuses on two Spider-Man clones, Ben [ ]
 
-### Sony Chief Wayne Garvie: It s Very Difficult To See How Channel 4 Survives In Present Form
-Tue, 29 Sep 2026 09:50:08 +0000 — https://deadline.com/2026/09/sony-wayne-garvie-channel-4-1237116003/
+### Game Of Thrones: Aegon s Conquest Movie Gets 2029 Release Date
+Tue, 29 Sep 2026 17:53:06 +0000 — https://deadline.com/2026/09/game-of-thrones-aegons-conquest-release-date-1237116463/
 
-Channel 4 must embrace radical change or face extinction. That s the message from Sony Pictures Television president Wayne Garvie, who said that it is very difficult to see how Channel 4 survives in its present form. Speaking at the Royal Television Society London Convention, Garvie was asked who Channel 4 needs to partner with to [ ]
+Soon to be taken over by Paramount, Warner Bros just dated a big tentpole: Game of Thrones: Aegon s Conquest is set to hit theaters June 1, 2029. Owen Harris directs off Oscar-nominated scribe Beau Willimon s screenplay. No cast or production start info yet. The movie reportedly centers on, you guessed it, Aegon I, the first [ ]
 
-### Amazon s Kelly Day Says AI Will Unlock Creative Risk Help Free Up Creatives Working On The Next Big Hit
-Tue, 29 Sep 2026 08:53:28 +0000 — https://deadline.com/2026/09/amazon-prime-video-kelly-day-ai-fleabag-spend-in-uk-1237115997/
+### Charlie Martin Sheen To Star As Father Son In Comedy Series ‘Happy Jack’ For AMC
+Tue, 29 Sep 2026 17:30:00 +0000 — https://deadline.com/2026/09/charlie-martin-sheen-comedy-series-happy-jack-amc-1237116382/
 
-Amazon’s Prime Video international chief has unashamedly thrown her weight behind the power of artificial intelligence and its use in Prime Video content. Addressing the RTS London Convention, Kelly Day said the controversial tech brings down costs meaning more stories can be made, more diverse voices can get heard and more creative risks get taken, [ ]
+Charlie Sheen and his father Martin Sheen are back playing father and son for the first time in over a decade. The duo are headlining Happy Jack, a comedy series for AMC and AMC+. The half-hour family comedy has been greenlit for six episodes and will start production at Warner Bros. Studios, in the studio [ ]
 
-### Tony Robinson Rewrites History With Debuting Radar Studios
-Tue, 29 Sep 2026 08:36:03 +0000 — https://deadline.com/2026/09/tony-robinson-rewrites-history-radar-studios-1237115996/
+### ‘The Secret Lives of Mormon Wives: Orange County’ Lands Premiere Date On Hulu
+Tue, 29 Sep 2026 17:22:41 +0000 — https://deadline.com/2026/09/secret-lives-of-mormon-wives-orange-county-premiere-date-1237116439/
 
-EXCLUSIVE: Here s one for the history buffs. The newly-formed Radar Studios is teaming with British broadcaster and historian Tony Robinson for a suite of content. Tony Robinson Rewrites History will launch as a YouTube channel later this year, with an initial 12 half-hour episodes. Meanwhile, Radar Studios will debut a six-part, hour-long TV series to [ ]
+Hulu’s expansion of the Mormon Wives universe has been dated. The streamer will launch The Secret Lives of Mormon Wives: Orange County on November 12. The spinoff of the controversial reality series features Jen Affleck from the original as well as podcaster Bobbi Althoff and McCall DaPron, sister of Mayci Neeley, one of the original [ ]
 
-### Prime Video Plots More Feminine Point Of View In Nordic Originals As Crime Dramas Like Snake Killer Rinnan Draw In Men
-Tue, 29 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/prime-video-nordic-emilia-widstrand-originals-future-1237109935/
+### PaperAirplane s Cinemas Studios Marketing Hub The Hangar Clocks 2 Million-Plus Downloads
+Tue, 29 Sep 2026 17:18:58 +0000 — https://deadline.com/2026/09/paperairplane-the-hangar-1237116343/
 
-Prime Video s push into Danish originals began this year with Pilou Asbæk-starring Snake Killer, which is now serving as a milestone in a charge across the Scandinavian region, according to Amazon MGM Studios Nordics originals chief Emilia Widstrand. We re really trying to build on that psychological thriller and crime vibe, doing it with strong creators [ ]
+EXCLUSIVE: The Hangar, the digital asset management platform from exhibitor and distributor theatrical marketing corp PaperAirplane, has clocked over 2 million downloads. The Hangar is a first-of-its-kind digital interface that connects exhibitors with studio partners whereby the former can access movie marketing materials. Lionsgate distribution vets Mike Polydoros and Will Preuss opened the doors to [ ]
 
-### CNN, MS NOW And Politico Warn That Trump Will Reinstitute A Complete Ban Without Judge s Injunction: An Injury On All News Media
-Tue, 29 Sep 2026 04:24:37 +0000 — https://deadline.com/2026/09/trump-white-house-ban-cnn-ms-now-politico-2-1237115949/
+### True Brit Entertainment, UK Film Distributor Founded By Zygi Kamasa, Files For Administration
+Tue, 29 Sep 2026 17:15:40 +0000 — https://deadline.com/2026/09/true-brit-entertainment-files-administration-1237116174/
 
-CNN, MS NOW and Politico are warning that the Trump administration will reimpose a complete ban on their access to the White House without a judge issuing a preliminary injunction. Last week, U.S. District Judge Timothy Kelly granted a temporary restraining order, forcing the White House to restore access to the White House to the [ ]
+EXCLUSIVE: True Brit Entertainment, the UK theatrical distributor founded by former Lionsgate executive Zygi Kamasa, has effectively filed for Chapter 11 bankruptcy. Deadline understands that True Brit, which has distributed titles including Hugh Jackman s The Death of Robin Hood, has appointed administrators at Simons Muirhead Burton to oversee the company s affairs. True Brit launched in [ ]
 
-### Dennis Haskins Dies: Saved By The Bell s Mr. Belding Was 75
-Tue, 29 Sep 2026 02:52:47 +0000 — https://deadline.com/2026/09/dennis-haskins-dead-saved-by-the-bell-mr-belding-1237115941/
+### Love Me Artist JMSN Fires Off Cease-And-Desist Letter Over Use Of Song In Taxpayer-Funded Spot Touting Donald Trump
+Tue, 29 Sep 2026 17:14:31 +0000 — https://deadline.com/2026/09/jmsn-trump-ad-cease-and-desist-1237116336/
 
-Dennis Haskins, best known for playing Mr. Belding in Saved by the Bell, has died. He was 75. His agent Jay Schachter confirmed the news to Deadline, saying in a statement, It’s a tragic loss. Everyone loved Mr. Belding and those of us who got to know Dennis, loved him even more. He was a [ ]
+The White House has been hit with a cease-and-desist letter from a musician whose song was featured in a promotional ad featuring Donald Trump that was paid for using tax dollars rather than campaign funds. An attorney for JMSN, whose real name is Christian Berishaj, fired off a cease-and-desist letter to White House Chief of [ ]
 
-### Russo Brothers On The Hulk Appearing On Avengers: Doomsday : Certainly Involved In The Story That Revolves Around Doom
-Tue, 29 Sep 2026 02:03:39 +0000 — https://deadline.com/2026/09/russo-brothers-hulk-appearing-avengers-doomsday-1237115931/
+### Graham Norton Says It s Getting Harder To Launch Talk Shows: I Feel Like We Might End Up Being The Last Chat Show On Planet Earth
+Tue, 29 Sep 2026 17:11:59 +0000 — https://deadline.com/2026/09/graham-norton-on-claudia-winkleman-show-future-chat-shows-1237116409/
 
-Many questions surround Avengers: Doomsday, and one major one is whether Mark Ruffalo will reprise his role as Bruce Banner. The actor recently appeared in Spider-Man: Brand New Day as Banner, and the Russo Brothers teased that the Hulk is certainly involved in the story around Doctor Doom. I think [what] we could say is, [Banner] is [ ]
+British chat show host Graham Norton has said booking top guests is getting harder as studios and record labels focus all their energy into other places and platforms, as he ponders how difficult it has become to launch talk shows. Taylor Swift s bestie Norton said it is very hard to stay relevant and say we [ ]
 
-### School Girls; Or, The African Mean Girls Play Broadway Review: When Escape Is Just A Clique Away
-Tue, 29 Sep 2026 01:30:00 +0000 — https://deadline.com/2026/09/school-girls-or-the-african-mean-girls-play-broadway-review-when-escape-is-just-a-clique-away-1237114434/
+### List Of Hollywood Media Layoffs From Paramount To Warner Bros Discovery To CNN More
+Tue, 29 Sep 2026 17:05:39 +0000 — https://deadline.com/feature/hollywood-media-layoffs-list-1236007845/
 
-The battle lines are drawn early and definitively in Jocelyn Bioh s School Girls; Or, The African Mean Girls Play. The cruelties come fast and cut deep in this Ghana school lunch room where all the unspoken rules of adolescent pick-or-be-picked-upon are as strict as they are in high schools the world over. Or in other [ ]
+Media layoffs across the entertainment industry are hitting hard after the past two years avalanche of job cuts. The unfortunate trend can still be felt following the Covid-19 pandemic, dual Hollywood strikes and — the latest event to hit Los Angeles hard: a series of wildfires that broke out in January 2025. As the entertainment [ ]
 
-### Apple TV Claims Largest Weekly Viewership Ever With Mayday , Ted Lasso And Post-Emmys Bump For Widow s Bay Pluribus
-Tue, 29 Sep 2026 01:00:11 +0000 — https://deadline.com/2026/09/apple-tv-viewership-record-ted-lasso-mayday-widows-bay-1237115696/
+### Wayne Brady Withdraws From Off Broadway Production On Doctor s Orders; Ato Blankson-Wood Joins Ms. Blakk For President
+Tue, 29 Sep 2026 17:04:11 +0000 — https://deadline.com/2026/09/wayne-brady-ato-blankson-wood-ms-blakk-for-president-1237116394/
 
-Apple TV had a record-breaking 2026 Emmys with 28 wins (29 if you include the commercials category), the most for the streamer ever and the most for any platform this year. Apple TV s big night at the Emmys, held on September 14, was followed by a big week the biggest in the streamer s seven-year [ ]
+A heartbroken Wayne Brady has withdrawn from the upcoming Off Broadway production of Ms. Blakk For President due to a vocal polyp and the need for vocal rest as ordered by his doctor, producers said today. His role of Terence Alan Smith/Joan Jett Blakk will now be assumed by Tony Award nominee Ato Blankson-Wood (Slave [ ]
 
-### All American s Daniel Ezra On Directing The Series Finale Truly Saying Goodbye To Spencer James: He ll Be With Me Forever
-Tue, 29 Sep 2026 01:00:00 +0000 — https://deadline.com/2026/09/all-american-series-finale-daniel-ezra-director-interview-1237114160/
+### The Now Agency Opens Social Distribution Network As Brands Seek Control Of Content
+Tue, 29 Sep 2026 17:00:00 +0000 — https://deadline.com/2026/09/now-agency-social-distribution-network-brands-entertainment-1237115990/
 
-SPOILER ALERT! This post contains details from the series finale of The CW s All American. That s a wrap on All American. The drama series, produced by Warner Bros. Television, ended its eight-season run on the CW on Monday with an emotional, moving episode directed by none other than Spencer James himself, Daniel Ezra. The rest [ ]
+EXCLUSIVE: As the worlds of entertainment and brands move closer together, The Now Agency has a plan to scale content. The New York-based social media agency is launching a social distribution network (SDN), which is aimed at helping brands push their content towards a network of more than 50,000 third-party publishers. Great content alone is [ ]
 
 ## befores & afters
+
+### Looking back at the VFX of Endgame
+Tue, 29 Sep 2026 12:08:38 +0000 — https://beforesandafters.com/2026/09/29/looking-back-at-the-vfx-of-endgame/
+
+Boom! A new magazine! Issue #66 of befores & afters mag covers the visual effects of Avengers: Endgame. DIGITAL MAGAZINE members can download the issue right now from the shop post. After Anthony and Joe Russo’ Avengers: Endgame was released in 2019, I was lucky enough to explore the visual effects of this massive film in several online articles at befores & afters . A number of stories were published, breaking down the character work and major battles. In anticipation of Avengers: Doomsday , Endgame has been re-released theatrically as an extended version, known as Encore . This seems like the perfect time for befores & afters’ own kind of encore publication relating to Endgame to come out, for the first time in magazine form. In this special issue of the magazine, I’ve collected the various pieces of visual effects coverage about the 2019 film, where I spoke with production visual effects supervisor Dan DeLeeuw and production visual effects producer Jen Underdahl, as well as visual effects vendor supervisors from the studios I was able to speak to at the time: Weta Digital, Digital Domain, Framestore, Industrial Light & Magic and Lola VFX. You can also grab the issue in PRINT from Amazon (that’s the US store, make sure you try your local Amazon store, too). Here’s the links to various Amazon stores: USA: https://www.amazon.com/dp/B0HLCV8GB5 UK: https://www.amazon.co.uk/dp/B0HLCV8GB5 Canada: https://www.amazon.ca/dp/B0HLCV8GB5 Germany: https://www.amazon.de/dp/B0HLCV8GB5 Fra
 
 ### This breakdown of how Blender was used on Backrooms is awesome
 Tue, 29 Sep 2026 06:36:38 +0000 — https://beforesandafters.com/2026/09/29/this-breakdown-of-how-blender-was-used-on-backrooms-is-awesome/
@@ -179,6 +184,36 @@ Tue, 29 Sep 2026 03:38:41 +0000 — https://beforesandafters.com/2026/09/29/on-t
 Director Zach Cregger on the set of Resident Evil. Photo by: Dušan Martinček. © 2026 CTMG, Inc. All Rights Reserved. The post On The Set Pic: Resident Evil appeared first on befores & afters .
 
 ## IndieWire
+
+### After Avengers Endgame: Encore, Infinity Vision Might Turn Out to Be a Thing
+Tue, 29 Sep 2026 18:17:21 +0000 — https://www.indiewire.com/news/box-office/avengers-endgame-encore-infinity-vision-box-office-results-1235218955/
+
+Just over half of the $26 million the Marvel re-release earned from opening weekend came from Disney's special theater designation.
+
+### Why ‘Primetime’ Doesn’t Look Like Any Movie You’ve Seen Before
+Tue, 29 Sep 2026 17:50:21 +0000 — https://www.indiewire.com/features/craft/primetime-cinematography-explained-colonoscopy-camera-robert-pattinson-1235219102/
+
+Lance Oppenheim breaks down how a colonoscopy camera, clips of early aughts TV, a leaked cam-scan of "Die My Love," and Chris Hansen’s manufactured reality inspired the insane cinematography.
+
+### Early Oscar Buzz for Digger Was All About Tom Cruise — but Its Best Chances May Lie Elsewhere
+Tue, 29 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/features/commentary/tom-cruise-digger-oscar-chances-1235219047/
+
+Some elements of Alejandro González Iñárritu's "Digger" will undeniably win favor with Oscar voters. And then there is Tom Cruise's performance.
+
+### Digger Review: Tom Cruise and Alejandro González Iñárritu Almost Hit Rock Bottom in Surreal Misfire About Our Collective Self-Delusion
+Tue, 29 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/digger-movie-review-tom-cruise-1235219051/
+
+Alejandro González Iñárritu desperately needs to ditch postmodernism, but his latest comedy at least rings truer and more tragic than either "Birdman" or "Bardo."
+
+### How Allison Anders Emerged from Personal and Professional Hell to Make One of the 1990s Best Movies
+Tue, 29 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/allison-anders-illeana-douglas-on-grace-of-my-heart-1235218954/
+
+Writer/director Anders, star Illeana Douglas, producer Daniel Hassid, and music producer and composer Larry Klein look back at "Grace of My Heart," a model of personal filmmaking in the studio system that looks better with every passing year.
+
+### For Mike Faist, Choosing Roles Comes Down to Big Feelings: Hell Yes and Total Dread
+Tue, 29 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/mike-faist-east-of-eden-choosing-roles-interview-1235218489/
+
+The "East of Eden" star "fell in love" with the dark and complex Charles Trask. As he tells IndieWire, that kind of immediate attachment and deep emotion is what drives his discerning taste, from "Challengers" to "West Side Story" and beyond.
 
 ### Musk, You Can See Everything, and More to Screen at Inaugural Ojai Documentary Film Festival
 Mon, 28 Sep 2026 21:30:00 +0000 — https://www.indiewire.com/news/festivals/ojai-documentary-film-festival-inaugural-lineup-musk-1235218971/
@@ -210,122 +245,107 @@ Mon, 28 Sep 2026 15:01:00 +0000 — https://www.indiewire.com/news/trailers/la-b
 
 Javier Calvo and Javier Ambrossi's lavish historical drama will mark Netflix's longest theatrical window to date once the film opens on October 16.
 
-### John Carpenter and Jamie Lee Curtis Look Back on Shooting Halloween : It Was Independent Filmmaking in Its Marrow
-Mon, 28 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/news/general-news/john-carpenter-and-jamie-lee-curtis-look-back-at-halloween-1235218875/
-
-The director and star of the 1978 horror classic appeared together at the Academy Museum to screen their masterpiece and kick off the museum's new horror exhibit.
-
-### Lanterns Review: Episode 7 Changes The Jordan Boys Legacy — and Sets Up a Charged Finish
-Mon, 28 Sep 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-episode-7-review-the-jordan-boys-spoilers-1235218463/
-
-The penultimate episode of "Lanterns" Season 1 introduces remarkable oddities like dark matter portals, dead alien worlds, and a dangerous ride across the river Styx, but it's what becomes of Hal and John's late-maturing bond that really lingers.
-
-### A24 s Primetime Opens to Impressive $19.2 Million, Proving Robert Pattinson s Box Office Drawing Power
-Sun, 27 Sep 2026 14:27:27 +0000 — https://www.indiewire.com/news/box-office/a24-primetime-box-office-opening-robert-pattinson-star-power-1235218868/
-
-Pattinson's road to commercial viability has been bumpy at times, but with "The Drama" and "The Odyssey,” he's having one hell of a 2026.
-
 ## The Wrap
 
-### CNN, MS NOW and Politico Seek to Extend White House Access Order, Warn Trump Will Reinstitute a Complete Ban Without It
-Tue, 29 Sep 2026 05:27:25 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/cnn-ms-now-politico-seek-to-extend-white-house-access-order/
+### Margot Robbie and Jason Blum Join Cinema United’s Filmmaker Leadership Council
+Tue, 29 Sep 2026 18:30:00 +0000 — https://www.thewrap.com/industry-news/labor-unions/margot-robbie-jason-blum-join-cinema-united-filmmaker-leadership-council/
 
-CNN, MS NOW and Politico sought to extend a federal judge’s order temporarily restoring their access to the White House Monday, warning in new court documents that President Donald Trump would “reinstitute a complete ban” without it. The news organizations filed the 49-page memorandum late Monday, in which they asked the D.C. federal court to issue a preliminary injunction blocking Trump and his administration from enforcing a ban on their White House access and credentials. On September 24, this Court entered an order temporarily prohibiting enforcement of the President’s ban, correctly holding that the administration’s post hoc letters were too little, too late, to satisfy the Due Process Clause under binding Supreme Court and D.C. Circuit precedent, the filing stated. Despite this Court’s clear direction that the hard passes of CNN, MS NOW, and POLITICO reporters be immediately return[ed], reinstat[ed], and restore[d] the administration continued to confiscate passes and deny access to journalists who came to work at the White House on September 24, before finally coming into compliance roughly 11 hours after this Court’s order. The document continued: And the White House has persisted in unpredictably and inconsistently implementing its ban, including by barring CNN from fulfilling its role as designated television network pooler on September 26—to the detriment of CNN, its fellow pool members and, ultimately, the American public. The White House’s words and actions leave
+Margot Robbie and Jason Blum are adding to their resumes. The actress and producer and the horror producer are joining the Cinema United Filmmaker Leadership Council, “a strategic group of world-class producers and directors united in a single cause to champion the future of cinema worldwide,” according to the official release. They will join council leaders Jerry Bruckheimer and Emma Thomas and charter members Ryan Coogler, Brad Bird, Jason Reitman and Celine Song. Cinema United, formerly the National Association of Theatre Owners (NATO), is “the world’s largest exhibition trade association representing more than 63,000 movie screens worldwide.” “We are thrilled and honored to welcome two leaders like Margot and Jason to this influential group,” said Michael O’Leary, president and CEO of Cinema United, a statement. “Margot is a global superstar and the voice of a generation who loves movies on the big screen. Jason is beloved by fans around the world for creating incredible—and scary—experiences in theatres. They are both well-known, fierce advocates of the theatrical experience. I want to thank them both for their commitment, and I look forward to working closely with them to advance this great industry together.” “It’s an absolute honor to have Margot and Jason join the Filmmaker Leadership Council,” said Bruckheimer. “Their combined impact on this industry is enormous, and I know they will help our efforts immensely.” “For me, the magic of cinema starts with the cinema it
 
-### Jimmy Kimmel Channels Trump, Promises $5,000 to Every Audience Member If Guillermo Wins ‘DWTS’
-Tue, 29 Sep 2026 05:06:43 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-5k-promise-for-guillermo-dwts-win/
+### Erika Kirk Says She Is Fixated and Paranoid on Going to Heaven to Reunite With Husband Charlie
+Tue, 29 Sep 2026 18:18:01 +0000 — https://www.thewrap.com/culture-lifestyle/culture/erika-kirk-charlie-assassination-turning-point-ceo-criticisms-response/
 
-Jimmy Kimmel appeared to pull a Donald Trump on Monday evening in an attempt to keep Guillermo Rodriguez on “Dancing With the Stars.” Specifically, Kimmel promised $5,000 to every audience member at the Brooklyn taping if his sidekick wins the competition. During Monday’s monologue for “Jimmy Kimmel Live!,” which is taping in Brooklyn for a week of shows , the late-night host explained that his longtime sidekick wasn t able to join him Monday because he’s still competing on “Dancing With the Stars. ” I do have some bad news. Our friend Guillermo is not with us tonight. He had to stay back home because he s been dancing up a storm back home, he told his studio audience. I hope you ve been watching, cause he s been going mirrored balls to the wall on Dancing with the Stars – in what many critics are saying is the funniest thing to ever happen. He continued: Guillermo has survived two eliminations despite getting the lowest score both weeks. You know how Mr. Magoo would kind of blindly walk through a construction site and come out unscathed? That s Guillermo every week now on Dancing with the Stars.' Kimmel then cut to a video call with Rodriguez, who shared an update on his progress on the show. I m learning faster. It s good. I like it, Rodriguez shared. Per Kimmel, Rodriguez will be dancing the foxtrot to Rupert Holmes Escape (The Piña Colada Song) on Tuesday. I don t know if you know how popular you are right now, but yesterday after they beat the Bengals, the Steelers, the 
+Turning Point USA CEO Erika Kirk told Vanity Fair in a wide-ranging profile published Tuesday that she is so fixated and paranoid on going to Heaven to be reunited with her late husband, Charlie. Kirk s husband, Turning Point founder and late conservative political activist Charlie Kirk , was shot and killed at a public speaking event last September. Eight days later, she was publicly appointed his successor and the de factor leader of Turning Point USA, a decision that multiple board members and close allies of Turning Point all told Vanity Fair was a wish Charlie made clear before his death. A year later, Kirk told Vanity Fair every decision she makes now as Turning Point CEO, as well as the mother to her and her late husband s two kids, is based on one question: Will this bring me closer to heaven or further away from it? I am so fixated and paranoid of having anything keeping me from going to Heaven to be reunited with my husband, Kirk explained. In the same interview, she described herself as built different, adding, I do not know how to explain it other than this world will not break me. Regarding the video that went viral last year of Kirk kissing her late husband during an open casket ceremony after his death, she told Vanity Fair, I don’t regret doing that. Kirk further revealed that she met her late husband eight years ago, just after she d finished a brief stint filming episodes of Bravo s Summer House, telling Vanity Fair, My role would’ve been the Bible-​banging 
 
-### Trans New York Times Executive Allegedly Shot Dead by In-Laws Amid Bitter Family Dispute
-Tue, 29 Sep 2026 03:57:41 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/new-york-times-executive-fatally-shot-by-in-laws-police-say/
+### International South Asian Film Festival Canada Picks 2026 Winners Exclusive
+Tue, 29 Sep 2026 18:11:00 +0000 — https://www.thewrap.com/creative-content/movies/isaff-award-winners-2026-international-south-asian-film-festival-canada/
 
-Jonathan McKinsey, a transgender engineering executive for the New York Times, was allegedly shot dead by his in-laws amid ongoing legal disputes between him and the family. According to Bay Area police, McKinsey was shot Saturday afternoon just after 3 p.m. in Dublin, Calif. McKinsey, who served as the head of engineering and games player experiences for the Times, was found by a Dublin police officer on the ground outside of the Dublin Sports Grounds after a number of witnesses called in a shooting. McKinsey had multiple gunshot wounds and was pronounced dead at the scene, authorities shared on Monday. Shouyong Zhang, 76, and Shili Chen, 76, were later identified as two suspects in the killing. The married couple were later identified as McKinsey’s in-laws. The pair are currently being held at the Santa Rita Jail amid pending charges. The shooting followed a tense legal dispute between McKinsey and his wife, Candice Jang, who were battling over custody at the time of his death. Per legal documents obtained by NBC News , Jang had been granted a temporary restraining order against McKinsey, who had filed for divorce in December. McKinsey had also pleaded not guilty in 2025 to two charges of misdemeanor child abuse. However, per the New York Times , McKinsey filed his own restraining against Jang, alleging abuse against his wife and her parents. McKinsey, who was a transgender man, alleged in one court filing that his mother-in-law called him, as well as one of his sons, a “pe
+Sarmad Sultan Khoosat s “Lali” and Habiba Nosheen s “The Gymnasts of Fisherman Colony” took two of the top prizes at the International South Asian Film Festival of Canada, which announced its 2026 competition winners on Sunday in Surrey, British Columbia. Co-written and directed by Khoosat, “Lali” won the award for Excellence in Feature Filmmaking at iSAFF. The film had its world premiere at the Berlin International Film Festival earlier this year and gave iSAFF its British Columbia premiere as the festival s opening night selection. “The Gymnasts of Fisherman Colony” enjoyed its Canadian Premiere and took home the Excellence in Documentary Filmmaking after having its world premiere in June at the Tribeca Festival. The feature documentary is executive produced by Malala Yousafzai and recent Emmys host Mariska Hargitay. Other films and filmmakers recognized at Awards Night included Indian actor Sayani Gupta s directorial short film “Aasmani,” as well as director and cinematographer Nausheen Dadabhoy, who received honors from jury members in two different categories. “Over the past 16 years, iSAFF has remained a home for bold filmmakers and unforgettable stories,” festival producer Mannu Sandhu said in a Tuesday statement. “This year’s films and award winners showcase the extraordinary talent and range of South Asian cinema and we’re proud to bring them to the city of Surrey.” iSAFF featured winners and honorable mentions in five categories Excellence in Feature Filmmaking, Exc
 
-### Dennis Haskins, Saved by the Bell Star, Dies at 75
-Tue, 29 Sep 2026 03:03:01 +0000 — https://www.thewrap.com/media-platforms/tv/dennis-haskins-dies-saved-by-the-bell-star/
+### All American Boss Breaks Down Series Finale and What Would Have Happened in Season 9
+Tue, 29 Sep 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/all-american-season-8-finale-nkechi-okoro-carroll-interview/
 
-Dennis Haskins, the actor best known for playing Principal Richard Belding on Saved by the Bell, has died. He was 75. Haskins agent, Jay Schachter, confirmed his passing to media on Monday evening, noting in a statement, It s a tragic loss. Everyone loved Mr. Belding and those of us who got to know Dennis, loved him even more. He was a great person, and he loved, I mean absolutely LOVED his fans. He continued: He always had time for them, no matter what. He was my client and dear friend for over 20 years, and I will miss him terribly. A cause of death is not currently known. Haskins first played the beloved principal character on Disney Channel’s one-season, 1988 show “Good Morning, Miss Bliss,” which later transformed into NBC’s “Saved by the Bell.” The latter ran from 1989 to 1993, with Haskins starring opposite Mark-Paul Gosselaar, Mario Lopez, Dustin Diamond, Tiffani-Amber Thiessen, Elizabeth Berkley and Lark Voorhies. He stepped into the Principal Belding role once more for “Saved by the Bell: The New Class,” which also aired on NBC between 1993 and 2000. Haskins appeared as the character for one last time back in 2015, when he appeared in a “Tonight Show” sketch with his fellow “Saved by the Bell” co-stars Gosselaar, Berkley, Lopez and Thiessen. Haskins, who was born Nov. 18, 1950 in Chattanooga, TN, had a number of other credits under his belt, including 2014 s A Million Ways to Die in the West, Mad Men, Hot in Cleveland, New Girl, It’s Always Sunny in Philadelphia and
+Note: This story contains spoilers from the Season 8 finale of All American. It s hard to find a series sendoff that s sweeter than All American. After eight seasons spent detailing the sacrifices, drama and loyalty that come with following a high school star athlete to the Super Bowl, the CW show concluded in a way that gave both its original and newer, younger characters their own happy ending. Fittingly directed by the series longtime star Daniel Ezra and written by Nkechi Okoro Carroll and Jameal Turner, To Live and Die in L.A. is a sendoff that celebrates the love and kindness that s also been baked into this series. But it also officially marks the end of an era. All American was the last remaining scripted CW show before the network was acquired by Nexstar and shifted its strategy from being a hub for young adult content into a more mainstream platform. The importance and love of shows like Dawson s Creek was baked into All American from the beginning. At the end of the day, these friendships, family bonds and dreams matter, and helping each other get there matters. That s something that TV has done for me my whole life, executive producer Carroll told TheWrap. My whole life, it has been the thing that allowed me to dream. It is the thing that allowed me to hope. It is the thing that made me realize love really can win. And so I want to contribute to being that for the next generation. That hopeful message is entwined into the legacy of All American, even as young adul
 
-### Todd Rundgren Doubles Down on Taylor Swift Criticism: ‘She Ruined Music’
-Tue, 29 Sep 2026 02:28:36 +0000 — https://www.thewrap.com/creative-content/music/todd-rundgren-says-taylor-swift-ruined-music/
+### Here s What s New on Paramount+ in October 2026
+Tue, 29 Sep 2026 17:53:56 +0000 — https://www.thewrap.com/creative-content/what-to-watch/new-on-paramount-plus-october-2026/
 
-Singer-songwriter Todd Rundgren once again criticized Taylor Swift’s musical abilities, claiming she had “ruined music.” Rundgren, who is best known for founding the rock groups Nazz and Utopia, publicly condemned the pop star in a recent interview with Vulture , naming Swift as the artist he would make fun of in a hypothetical 2026 album. Taylor Swift, of course. There’s an argument to be made that she ruined music, Rundgren said. It’s an understandable phenomenon. It’s just that, to me, Taylor Swift is the apotheosis of mediocrity. He continued: It’s the era of the female artists. The biggest artists in the world are female artists at this point, and that’s because of video games. Back in the ’90s, boys stopped spending money on music and started spending it on video games, and that left the music market with, Well, where do we go here? And they said, Well, there’s all these young girls and they’ve got their allowances, too. Why don’t we start making music for young girls instead of Pearl Jam or something like that?' As Rundgren went on, he cited Lady Gaga and P!nk as other artists of that ilk. However, he clarified that he respected Lady Gaga as an artist, noting that she’s a real musician. She’s a classically trained piano player. Taylor Swift doesn’t do anything particularly great except grow hair, he said. She’s not a great singer. She’s not a great songwriter. She’s not a great dancer. Though, he did call Swift a role model for what was a very young generation of women
+Paramount+ is entering spooky season in style, but there is plenty beyond horror to look forward to in October. Every October, streaming services load up on a bounty of horror films for subscribers to dive into, and Paramount+ is no different. Dr. Sleep, Drag Me to Hell and Firestarter are just some of the horror offerings this month to sink some teeth into. If you aren t looking for horror, the latest entry in the Avatar animated series, Seven Havens , also premieres in October. The next entry in Dexter: Resurrection also lands toward the end of the month. Here is everything coming to Paramount+ in October 2026. October 1 A Haunted House A Haunted House 2 A Night At The Roxbury A Simple Plan An Unfinished Life Apocalypse Now Redux Beastly Blink Twice Challengers Colossal Coneheads Crimes of the Future Doctor Sleep Drag Me to Hell Firestarter Grizzly Night Grumpier Old Men Grumpy Old Men Hansel & Gretel: Witch Hunters Horrible Bosses Horrible Bosses 2 Hostage Hotel Transylvania Hotel Transylvania 2 I Was a Stranger It Follows Jumanji: Welcome to the Jungle Killer Joe Kingpin Love & Basketball Magic Mike Magic Mike XXL Marvelous and the Black Hole Mr. Holmes Noah Old School One Mile: Chapter One One Mile: Chapter Two Parasite Paycheck Planes, Trains and Automobiles Rock of Ages Rush Hour Rush Hour 2 Rush Hour 3 She s All That She s Out of My League Side Effects Sleeping Dogs Smoke Signals Stardust Sweeney Todd: The Demon Barber of Fleet Street The Equalizer 2 The Hustle The Id
 
-### OpenAI Shelves Newest AI Model After It Didn’t Quite Meet the Bar for Safety
-Tue, 29 Sep 2026 01:36:05 +0000 — https://www.thewrap.com/industry-news/tech/openai-shelves-newest-ai-model-safety-concerns/
+### Game of Thrones: Aegon s Conquest Film to Hit Theaters in 2029
+Tue, 29 Sep 2026 17:44:27 +0000 — https://www.thewrap.com/creative-content/movies/game-of-thrones-aegons-conquest-movie-release-date-warner-bros/
 
-OpenAI confirmed Monday that it would not release the newest AI model, called GPT-6.1 Astra, after it didn’t quite meet the bar for safety. The company s confirmation came after the Wall Street Journal reported earlier on Monday that the release of GPT-6.1 Astra had been scrapped ahead of its planned October debut. OpenAI previously described the Astra model as state-of-the-art on computer use, browsing, professional work, software engineering, cybersecurity and science. However, in a statement to media , Saachi Jain, OpenAI’s head of safety systems, explained that the new model showed what the company viewed as high levels of deception. Additionally, it s said the model was willing to go beyond what it was originally asked to do, notably not checking back for further directions. “For anything regarding safety and alignment, there’s a trade-off,” Jain told media Monday. “[Astra] didn’t quite meet the bar in terms of staying within scope and authorization, and how it communicates back to the user about the type of work it’s done.” As Jain went on, she noted that there s an extremely high bar for their models, in terms of safety expectations, before it can be released to consumers. She added: Of course we want to make sure our model development is safe no matter whether that’s in the company, or when we ship it to users. The decision to shelve GPT-6.1 Astra comes on the heels of several reports claiming rogue behavior from OpenAI s models amid testing, including hacking website
+Game of Thrones fans only have a few years to wait for their favorite fantasy franchise to hit the big screen. Game of Thrones: Aegon s Conquest will hit theaters on June 1, 2029, Warner Bros. announced Tuesday. The film is helmed by Owen Harris, who previously directed three episodes of A Knight of the Seven Kingdoms (including the action-packed episode featuring the Trial of Seven). Penning the screenplay is Beau Willimon, the House of Cards creator who also wrote the films The Ides of March and Mary Queen of Scots, as well as several episodes of Andor. George R. R. Martin s Fire & Blood includes the story of Aegon s titular conquest, which will be central to the film. Aegon s Conquest saw Aegon I Targaryen take over six of the seven kingdoms of Westeros (with only Dorne escaping his rule) alongside his sisters and wives Rhaenys and Visenya. The campaign was won in large part due to Aegon s trio of dragons: Balerion, Vhagar and Meraxes. This story, which coincides with the Targaryens arrival to Westeros, will take placer prior to Game of Thrones, House of the Dragon and A Knight of the Seven Kingdoms, making it the earliest work in the live-action timeline. Aegon s Conquest marks the latest expansion of Warner Bros. Game of Thrones franchise, which has added two shows since the flagship title ended in 2019. A Knight of the Seven Kingdoms, which scored an Outstanding Drama Series nomination at the 2026 Emmys, is slated to return for a second season in 2027, while House of th
 
-### School Girls Broadway Review: Denée Benton Isn t Just Mean, She s a Teenage Lady Macbeth
-Tue, 29 Sep 2026 01:30:00 +0000 — https://www.thewrap.com/creative-content/theater/school-girls-broadway-review/
+### Charlie Sheen Returns to TV With ‘Happy Jack’ Comedy Series Co-Starring Dad Martin Sheen
+Tue, 29 Sep 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/charlie-sheen-happy-jack-sitcom-amc-martin-sheen/
 
-When did we first hear the term “chick flick”? Wikipedia suggests it was probably sometime in the late 1980s when movies like “Dirty Dancing,” “Beaches,” “Steel Magnolias” and “When Harry Met Sally” flooded the market. Something similar is going on in the theater now with plays like Bess Wohl’s “Liberation, Jocelyn Bioh’s “Jaja’s African Hair Braiding,” Kimberly Belflower’s “John Proctor Is the Villain,” and Bioh’s “School Girls,” which preceded those other three titles by a few years and was quickly preceded by Sarah DeLappe’s “Wolves. The big difference between chick flicks and these Preaching to the Sorority plays is substance. The movies are fluff; they’re about falling in love. The plays, on the other hand, are about women s solidarity in the face of collective oppression. The plays also feature large female casts (by today’s standard) and the number of roles for men can be counted on one hand. Not that the guys don’t make their presence felt. The title “John Proctor Is the Villain” says it all. The first Broadway revival of “School Girls, or, the African Mean Girls Play” opened Monday at MTC’s Samuel J. Friedman Theatre, and the cast here is far starrier than the ensemble assembled Off Broadway for its 2017 world premiere. On Broadway, Denée Benton (HBO’s “The Gilded Age”) plays the ultimate mean school girl, who wages full battle on Jasmine Amy Rogers (Tony nominated for “Betty Boop” and soon-to-be Maria in “The Sound of Music” at Lincoln Center), who plays the beautif
+Father and son duo Charlie and Martin Sheen are teaming up for Happy Jack, a new half-hour family comedy series for AMC and AMC+. The show, which comes from AMC Studios, will begin production in Los Angeles early next year on a six-episode first season, with a premiere slated for 2027. Charlie Sheen plays Jack Chambers, who is described as a bit of a lifelong ne er-do-well with two daughters. His daughter Kate runs his company and keeps him on the rails, while his daughter Sam is a wild child who is more like her dad. Appropriately, Martin Sheen will play Chambers father. When Sam comes home to introduce everyone to her new boyfriend, Jack’s shocked to learn Paul, a former investment banker turned van life guru, is the same age as he is, the logline states. Shocked at first (hypocrisy be damned), Jack soon realizes he s got a choice to make. Will he keep looking out for number one, or embrace this last chance to be a real part of his daughters’ lives? Happy Jack is written by executive producers and co-showrunners Jim Patterson and Matt Ross, who previously worked together on Two and a Half Men and The Ranch. Other EPs include Charlie Sheen, Todd Christopher, The Tannenbaum Company s Eric and Kim Tannenbaum and Jason Wang, and 20th Television. “What a thrill to welcome Charlie Sheen and Martin Sheen to AMC and AMC+, playing a father and son in this original family comedy, Happy Jack, ” AMC Studios President and AMC Global Media Chief Content Officer Dan McDermott said in a st
 
-### Megyn Kelly Drags Madonna s Needy VMAs Performance: How Was This Hot?
-Tue, 29 Sep 2026 00:39:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/megyn-kelly-slams-madonna-vmas-performance/
+### Blue Beetle star Xolo Maridueña to Make Broadway Debut in Buena Vista Social Club
+Tue, 29 Sep 2026 17:22:12 +0000 — https://www.thewrap.com/creative-content/theater/blue-beetle-star-xolo-mariduena-to-make-broadway-debut-in-buena-vista-social-club/
 
-Megyn Kelly ripped into Madonna s appearance at the 2026 Video Music Awards, calling the music icon needy. The Confessions II singer came out on top Sunday night at the awards show with seven trophies, including Artist of the Year and Best Collaboration with Sabrina Carpenter for their song Bring Your Love. Madonna s opening performance during the show featured dancers that had a laser seemingly coming out of their crotch area. Kelly railed into the singer, saying that it was unnecessarily vulgar. It s really more of a butt exercise they re simulating if I m being honest because I don t think most people have sex like that, she said, commenting on the video in real time on Monday s episode of The Megyn Kelly Show. I don t know if this is simulated blow jobs or what. Kelly also said that the singer started bombing while accepting an award later in the night. Madonna pretended to pull the laser out of her butt and drop it. Again, the picture of class. Um, sad, but that s what she thinks is entertaining, she said. During another part of the show, Madonna asked the production team to raise the mic, so she wasn t having to bow down to it, joking that she has been bowing down to people for too long. What the what? Who? You re Madonna, Kelly asserted. Who have you bowed down to? Give me a break. Stop trying to act like you re a victim. Could you please try to find a more empowering narrative for age 68, please? I m begging you, she added. She stinks of desperation. Later the former 
+Television and film star Xolo Maridueña (“Cobra Kai,” “Blue Beetle,” “Practical Magic 2”) will join the acclaimed Broadway production of “Buena Vista Social Club” for seven weeks only in the role of Juan de Marcos from Tuesday, Nov. 17 through Sunday, Jan. 3 at the Schoenfeld Theatre. “I’m honored to be making my Broadway debut with the incredibly talented team at Buena Vista Social Club, ” Maridueña said in a statement. “Broadway has always been a dream, but getting to make that dream come true while being part of such an important and beautiful story feels like hitting the lottery twice. Come ready to laugh, cry, and shake your booty!” Since it opened on Broadway in March 2025, “Buena Vista Social Club” has received significant critical acclaim, a Grammy Award and five Tony Awards, including a Special Tony Award recognizing the band. Inspired by true events, the musical brings to life the story of the legendary Cuban artists behind the Grammy Award-winning “Buena Vista Social Club” album and the music that introduced the sounds of Havana to audiences around the world. Celebrated Latin artists continue to be drawn to the Schoenfeld to help bring this important and authentically Latin story to life. The production also recently announced that television and film star Gina Torres (“Suits,” “Firefly,” “911: Lone Star”) will join the acclaimed Broadway production in the role of Omara Portuondo from Tuesday, Oct. 13, through Sunday, Nov. 29, 2026. Major League Baseball veteran an
 
-### Alan Cumming Admits I Don t Fully Understand the Plot of Avengers: Doomsday After Shooting
-Tue, 29 Sep 2026 00:36:20 +0000 — https://www.thewrap.com/creative-content/movies/alan-cumming-dont-understand-plot-avengers-doomsday/
+### Jon Stewart Urges Media to Stop Telling Voters Republicans Are Turning on Trump: ‘They’re in the F—king Car’
+Tue, 29 Sep 2026 16:54:33 +0000 — https://www.thewrap.com/media-platforms/politics/daily-show-trump-xi-visit-republican-division-video/
 
-Alan Cumming is returning to the Marvel universe to reprise his role as Nightcrawler in Avengers: Doomsday but don t ask him what happens in the movie. The X-Men series actor confessed that he doesn t understand the plot of the film, even after wrapping his principal photography. To be honest, I don t fully understand the plot, Cumming told SiriusXM in an interview last Thursday, drawing a laugh from the hosts. There was a bit when we were shooting a scene. It was one of the rare scenes when it was actually on the backlot and not in front of a blue screen. This man came and said, So right now, these giant robots are blah blah. And I was like, You know what? Thank you so much. But I m just tell me where to point my whatever I point.' Cumming went on to share that he had a comical moment meeting Florence Pugh at the Emmys, as he had only filmed scenes with her stunt double on Doomsday. Gosh, it s so funny. I’ve never met you, but you lay on top of me, or your body double did.’ And she goes, ‘Yeah I lay on top of you as well, but it was your body double,' Cumming said with a smile. Pugh returns as Yelena Belova in Doomsday, after first debuting in Black Widow and later starring in Thunderbolts*. Meanwhile, Cumming s comic book return comes more than two decades after he last appeared in a Marvel in 2003, when he played the teleporting Nightcrawler in the X-Men sequel X2. Doomsday also sees the return of several other X-Men actors, including Patrick Stewart, James Marsden, Ian Mc
+The Daily Show host Jon Stewart urged the mainstream media Monday night to stop telling American voters that Republicans are starting to revolt against President Trump, calling the messaging cruel and noting of GOP officials, They re in the f—king car. Stewart kicked things off this week with a recap of Chinese President Xi Jinping s state visit to Washington, D.C. last week. The Daily Show host rolled a clip of Trump bragging about how impressed Xi was by the White House s new granite helipad, which Stewart found particularly amusing. I m sure you re proud of your new circular granite helicopter parking spot, Stewart said, teeing up a photo of the Great Wall of China and adding, You know, China did used to work in rock about 3,000 years ago? So, again, I m pretty sure Xi Jinping is not like, This used to be grass!?! And now it s rock!?!' Stewart went on to note that China reportedly sent over 1,000 drone and missile parts to Iran between January and June of this year. Taking that into account, the Daily Show host turned his attention to the Republican Party. I seem to remember the Republican Party used to frown on the idea of selling weapons to Communist enemies who are supplying said weapons to other enemies we are currently at war with, Stewart explained, asking, Does anybody on that side have an opinion on this summit? His question was answered by clips of several Republicans doing nothing more than mildly stating their displeasure with Xi s visit to Washington. You can w
 
-### Paramount Pushes $44 Billion Debt Offering to Finance Warner Bros. Acquisition
-Mon, 28 Sep 2026 23:51:09 +0000 — https://www.thewrap.com/industry-news/deals-ma/paramount-44-billion-debt-offering-to-finance-warner-bros-acquisition/
+### The View : Sunny Hostin Says Cornell Gang Rape Case Is Being Reported Inaccurately and Unfairly
+Tue, 29 Sep 2026 16:51:40 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-cornell-gang-rape-case-reported-inaccurately/
 
-As it awaits final approval of its settlement with 12 state attorneys general that will seal its acquisition of Warner Bros. Discovery, Paramount Skydance is putting out a $44 billion debt offering to finance the industry-changing merger. The debt offering, which was filed with the SEC on Monday, includes $32 billion in investment-grade debt and $12.4 billion in high yield bonds. The proceeds from the debt offering will be combined with equity and term loan financing as well as cash on hand to fund the $110 billion purchase of Warner Bros. Discovery. The offering comes as Paramount Skydance awaits word from U.S. District Judge Araceli Martinez-Olguin on whether she will approve the settlement that the company made with California AG Rob Bonta that would clear the final regulatory hurdle for the merger. The judge declined to approve the settlement at a Sep. 24 hearing, instead allowing for a few days for oppositional amicus briefs to be filed by Monday. Martinez-Olguin has not offered a timetable on when she will make a decision, something that Paramount acknowledged in the SEC filing for the debt offering. “The actual closing date of the acquisition is uncertain,” Paramount said in an SEC filing. The merger “will only be consummated following the satisfaction or waiver of the closing conditions in the WBD merger agreement.” For the purposes of the filing, Paramount is estimating that it will close the merger on Oct. 7, which would mean it would have to pay a week s worth of t
+The hosts of The View dug in on the newly reopened investigation into an alleged gang rape at Cornell University on Tuesday morning, and according to host Sunny Hostin, the whole case is being reported inaccurately and unfairly. Cornell is facing serious backlash this week, after a former student filed a civil suit claiming that she was drugged, assaulted and gang-raped by seven fraternity brothers in 2024. In recent days, a fraternity group chat from the night of the incident was leaked, showing members were invited to participate in the assault. While the hosts were disgusted by the messages, Hostin argued that due process hasn t been completed. The pictures of these young men who have not been charged, not been adjudicated, are being plastered all over the internet, she said. I think people are reporting this story inaccurately. I think they re reporting it unfairly. And while this is something that we have to take very seriously, there is no way, according to her statement in 2024, that any prosecutor would have brought forth a case. Hostin used her experience as a former federal prosecutor to explain exactly why a criminal case was never brought, citing the fact that Jane Doe said in her statement that she was drunk and voluntarily snorted ketamine off of one of the fraternity brothers. Under New York law, voluntary intoxication or drug use that merely impairs judgment, does not legally constitute an inability to consent to sexual activity, Hostin recited. Right, so that
 
 ## Collider
 
-### 'Doctor Who' Broke a 52-Year Franchise Rule With One Episode
-Tue, 29 Sep 2026 10:52:12 GMT — https://collider.com/doctor-who-sleep-no-more-title-card-52-year-rule/
+### 'Signs' Biggest Mystery Officially Gets an Answer From M. Night Shyamalan [Exclusive]
+Tue, 29 Sep 2026 18:09:36 GMT — https://collider.com/m-night-shyamalan-signs-aliens-demons-debate-meaning-settled/
 
-Doctor Who is a show that has always managed to evolve, whether through the concept of "regeneration," which allows different actors to inhabit the mantle of the Doctor, or through recent revivals. Even now, the series is about to undergo another evolution, as the BBC has put it out to competitive tender in hopes that another production company will give it a modern refresh. However, the biggest change that Doctor Who made in 52 years happened during the Season 9 episode "Sleep No More," which put Peter Capaldi 's Twelfth Doctor in the middle of a horror movie.
+M. Night Shyamalan is most notoriously known for his twists and turns , revealing over time what's really happening in his movies with a surprise or two, or outright turning the entire plot on its head. His breakout film, The Sixth Sense , remains his most iconic use of the formula with the reveal that Bruce Willis ' character had been dead the entire time, yet nearly every project in his oeuvre has employed the tactic with varying results. On the more polarizing end is his acclaimed alien invasion flick Signs . The story of grieving former pastor Graham Hess ( Mel Gibson ) and his family being shaken by signals of the arrival of extraterrestrials takes a questionable turn when it's revealed that the creatures' weakness is water . While the reveal prompted plenty of questions about why an intelligent species would invade a planet that is mostly water, others have taken it as a sign of a deeper, unspoken twist tying into the film's themes.
 
-### Arthur Morgan Actor Officially Addresses One of 'Red Dead Redemption 2's Biggest Fan Theories [Exclusive]
-Tue, 29 Sep 2026 10:30:11 GMT — https://collider.com/red-dead-redemption-2-roger-clark-dutch-downfall/
+### First 'Game of Thrones' Movie Officially Confirms Release Date
+Tue, 29 Sep 2026 18:01:40 GMT — https://collider.com/game-of-thrones-movie-aegons-conquest-release-date-june-2029/
 
-Dutch van der Linde gives Red Dead Redemption 2 players plenty of reasons to wonder when he lost his way. As the Van der Linde gang falls apart, its leader grows increasingly ruthless, and the failed trolley robbery offers one possible explanation. Did Dutch change after hitting his head, or had Arthur Morgan and John Marston been following a man who was capable of those choices all along? It is a debate fans can revisit every time they play through the gang’s final months. Roger Clark , who played Arthur, has his own answer, and it places far more weight on the people around Dutch than on any injury.
+2026 has been a delightful year for Game of Thrones fans, who have been treated to not one, but two projects for the first time in franchise history. The first Game of Thrones project to capture the hearts of fans around the world was A Knight of the Seven Kingdoms , which is also a personal favorite of George R.R. Martin . The show has already been renewed for Season 2, and it’s even confirmed to premiere before the end of next year. While the same release window can’t be said about House of the Dragon Season 4, HBO has confirmed plans to shoot the fourth and final season next year, allowing it to return in 2028. Showrunner Ryan J. Condal has explicitly confirmed that it will be the final season of the spin-off series.
 
-### The 15 Best Animated TV Shows of the 2020s So Far, Ranked
-Tue, 29 Sep 2026 10:27:11 GMT — https://collider.com/animated-tv-shows-2020s-best-ranked/
+### Disney’s ‘Agatha All Along’ Replacement Officially Premieres in 48 Hours With New Look [Exclusive]
+Tue, 29 Sep 2026 18:01:11 GMT — https://collider.com/disney-coven-academy-sneak-peek-release-date-october-2026/
 
-All in all, the 2020s have been a pretty terrific decade for television all across the board. This includes, of course, one of the most important versions of the medium: Animation. Animated TV shows are plentiful, and this decade has been no exception; but truly exceptional ones, ones that are guaranteed to go down in history as some of the best of their type, are but a precious few.
+2026 has been a roller-coaster year for fans of Marvel Disney+ shows — while newer series like Wonder Man were cancelled after only one season, more established shows like Daredevil: Born Again and X-Men ‘97 are being given the chance to continue, with new seasons coming next year. Marvel also has one more Disney+ show to drop before the end of this year with VisionQuest , which will be the third and final chapter in the Wanda and Vision saga that began back in 2021 with WandaVision . The stepping stone between WandaVision and VisionQuest has been Agatha All Along , the 2024 series starring Kathryn Hahn as her WandaVision character, Agatha Harkness. Disney never officially cancelled the show after Season 1, but all signs point to it being a one-season series.
 
-### 31 Years Later, Martin Scorsese's Greatest Crime Thriller Officially Defines the Genre With This Quote
-Tue, 29 Sep 2026 10:24:13 GMT — https://collider.com/martin-scorsese-casino-best-quote-crime-film-robert-deniro/
+### Shailene Woodley Reveals the Key Detail That Helped Catch the Unabomber
+Tue, 29 Sep 2026 17:56:42 GMT — https://collider.com/shailene-woodley-unabomber-netflix-ted-kaczynski/
 
-Some five years after he delivered Goodfellas , the most electric and intoxicating gangster film of all time , Martin Scorsese once again teamed up with crime reporter and screenwriter Nicholas Pileggi to deliver his dark and definitive masterpiece on America itself: Casino . Arguably Scorsese's finest hour, the bloody, glittering sprawl of Casino perfectly embodies the spiritual rot at the heart of American capitalism.
+This interview contains spoilers for Unabomber.
 
-### 2025's Greatest Psychological Thriller Gave Us This Scene-Stealing Performance
-Tue, 29 Sep 2026 10:06:11 GMT — https://collider.com/sydney-sweeney-the-housemaid-psychological-thriller-sequel-amanda-seyfried-performance/
+### ‘God of War’s First Release in 4 Years Officially Lands Major Update
+Tue, 29 Sep 2026 17:53:09 GMT — https://collider.com/god-of-war-laufey-pre-order-trailer-release-date-february-2027/
 
-The Housemaid hit theaters in December 2025 and critics didn't quite know what to make of it . The Housemaid is schlocky, pulpy, and some moments feel like they're just excuses to get a sex scene with the lead, Sidney Sweeney as Millie Calloway. The Housemaid is undeniably fun and thrilling, however, and as the movie takes a dark turn, it becomes crystal clear that the real star was Amanda Seyfried the entire time.
+2026 has been a busy year for gamers dating back to earlier releases like 007 First Light , but there are new releases on the horizon that continue to expand. The game that has everyone talking right now is Marvel’s Wolverine , the latest Marvel game from Insomniac that’s been divisive to say the least. The game debuted with the lowest review scores of any Insomniac Marvel title, and critics have continued to express mixed opinions on the linear X-Men-adjacent title. Out today is the new remaster of The Witcher 3: Wild Hunt , which brings the best graphics in Witcher history to life thanks to the modern hardware of the PS5 and XBOX Series X|S . This comes before The Witcher 4 , which is now not expected to launch until 2028 at the earliest.
 
-### Legolas Has Been Officially Confirmed for the Next 'The Lord of the Rings' Release
-Tue, 29 Sep 2026 10:00:12 GMT — https://collider.com/lord-of-the-rings-legolas-sixth-scale-figure-sideshow/
+### The 5 Best Movies of the Last 6 Months, Ranked
+Tue, 29 Sep 2026 17:52:11 GMT — https://collider.com/best-movies-last-6-months-ranked/
 
-J.R.R. Tolkien is one of the most revered fantasy authors ever. Among his several inventions were orcs, uruks, Balrogs, dwarfs, dragons, the Elvish languages known as Quenya and Sindarin , and the elves who spoke them. Legolas is almost certainly every Tolkien fan’s favorite elf and for many reasons. Setting aside his good looks, Legolas was equally quite an agile figure, a competent warrior and brilliant archer, who never missed his target nor did his quiver ever run dry. A Sindar elf, Legolas was portrayed by Orlando Bloom in the critically acclaimed The Lord of the Rings trilogy directed by Peter Jackson .
+It isn't exactly a secret that cinema as a medium has been absolutely thriving recently. 2026's summer box-office was breaking all-time records, original filmmaking as a whole is making a triumphant return in popularity, and more than anything else, the films coming out recently have just been really great. From the massively successful blockbusters to the smaller-scale indie darlings, it feels like filmmaking as a medium has been firing on all fronts for the past 6 months .
 
-### One of Tim Burton's First Films Is Also One of the Best Frankenstein Updates Ever Made
-Tue, 29 Sep 2026 09:42:12 GMT — https://collider.com/tim-burton-edward-scissorhands-frankenstein-streaming-disney-plus-september-2026/
+### 6 Perfect Sci-Fi Shows Worth Watching Over and Over
+Tue, 29 Sep 2026 17:37:12 GMT — https://collider.com/perfect-sci-fi-shows-worth-watching-over-and-over-ranked/
 
-Oscar-nominated director Tim Burton possesses a clear affinity for Mary Shelley's iconic tale of Frankenstein , especially the creature Dr. Victor Frankenstein creates in the story. A recurring motif throughout Burton's works concerns characters who resemble Frankenstein's monster , which Burton utilizes in many of his live-action and animated features. However, Burton’s 1990 hit, Edward Scissorhands , his first live-action short feature, Frankenweenie , and its 2012 stop-motion animated remake , demonstrate the best updates to Frankenstein . In many ways, Edward Scissorhands stands out as one of the best spiritual updates of Frankenstein ever made.
+Most people assume a sci-fi universe is fully explored after the first watch. They are wrong. The first time through, you are usually busy figuring out the lore, technology, politics, and rules holding everything together. But, once you know how that world works, something more interesting starts to emerge. You notice the personal stakes right from the start.
 
-### Nia Vardalos Officially Reveals the Truth Behind 'My Big Fat Greek Wedding's Most Famous Joke [Exclusive]
-Tue, 29 Sep 2026 09:31:11 GMT — https://collider.com/my-big-fat-greek-wedding-nia-vardalos-sc-johnson-letter-windex-joke/
+### The 10 Best Classic Rock One-Hit Wonders, Ranked
+Tue, 29 Sep 2026 17:21:11 GMT — https://collider.com/best-one-hit-wonders-classic-rock-ranked/
 
-Nearly 25 years after its release in theaters, My Big Fat Greek Wedding has stood the test of time as a cultural touchstone of a rom-com celebrating Greek heritage and the many loving relationship dynamics within a family. Nia Vardalos wrote the film with heavy inspiration from her family life, giving each character and their little eccentricities a loose but very personal connection to reality that, in the eyes of critics and audiences, made them all the more human. The result was a relatable clash of cultures and search for identity as Toula Portokalos falls for a non-Greek man, played by John Corbett , and her loved ones continue to insert themselves into the wedding plans. Yet, one of the things best remembered about the feature, above its central romance, is its connection to Windex.
+When talking about one-hit wonders, you do have to kick things off with a slightly boring definition, just because you'll otherwise have people going “Why didn’t you include this song?” Even with a definition, you might still have people asking that. Oh well. Anything to make that number of people a little smaller. So, a one-hit wonder… basically, an artist who’s only had a single song make it into the Billboard Top 40.
 
-### Jon Bernthal's 93-Minute Suspense Thriller Deserves Another Shot on Streaming
-Tue, 29 Sep 2026 09:10:11 GMT — https://collider.com/jon-bernthals-93-minute-suspense-thriller-sweet-virginia-amc/
+### The 9 Greatest Dystopian Book Trilogies of All Time, Ranked
+Tue, 29 Sep 2026 16:45:11 GMT — https://collider.com/best-dystopian-book-trilogies-time-ranked/
 
-Set in a snow-covered sleepy town in rural Alaska, the 2017 neo-noir Sweet Virginia captures a slow burn truly unlike any other. With expert actors, Jon Bernthal and Christian Abbott at the helm, it's difficult to imagine ratings going south. However, despite the classically intriguing premise, and the truly gripping performances from both leads, what should've been a lay-up seemed to fall horrendously (and arguably undeservedly) flat. In short, Jamie M. Dagg 's Edge of Your Seat thriller captures a washed-up rodeo star turned motel keeper (Bernthal) and an unpredictable hitman (Abbott) as they develop an increasingly twisted bromance .
+The concept of literature exploring dark imagined futures where Earth has become ravaged by time has existed since the 19th century. However, the modern dystopian genre was born somewhere around the 1920s , following the terrors and trauma of World War I. Since then, the genre has only kept evolving and growing in popularity as the years have passed, and somewhere around the late 20th century, authors started daring to craft entire trilogies set in enrapturing dystopian worlds.
 
-### The Best British Detective Series on Streaming Officially Returns Today
-Tue, 29 Sep 2026 09:00:12 GMT — https://collider.com/blue-lights-season-4-release-date-bbc-iplayer-september-29/
+### Tom Cruise Officially Hits the End of an Era With Divisive New Movie
+Tue, 29 Sep 2026 16:36:03 GMT — https://collider.com/tom-cruise-digger-rotten-tomatoes-score-is-it-good/
 
-Within the confines of the American television space, one of the most successful genres to pursue, with a highly consistent success rate, has been first responder dramas . Be it firefighting, medical services, or the police force, among others, there seems to be an unquenchable thirst for such shows. The successes of franchises such as 9-1-1 , Dick Wolf 's One Chicago trio, and ABC’s Seattle-based firefighting drama, Station 19 , all verify this claim. Outside the United States, such dramas also hold significant appeal, perhaps pointing to our shared humanity across borders and our search for relatable stories.
+Digger is a big swing for Tom Cruise . A satirical comedy from auteur director Alejandro González Iñárritu ( Birdman ), it's in a different galaxy from the audience-friendly action spectacles Cruise has specialized in for the last two decades. Now, with the film set to hit theaters this Friday, and the review embargo dropping, we finally know what the critics think of the film.
 
