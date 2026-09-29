@@ -4,7 +4,7 @@ import { nav, site } from '../data/portfolio';
 export interface Props {
   // '/members' is still accepted: the page is parked as _members.astro, not gone.
   // Left out on pages that belong to no section, such as /privacy/.
-  current?: '/members' | '/blog';
+  current?: '/members' | '/blog' | '/services';
 }
 
 const { current } = Astro.props;

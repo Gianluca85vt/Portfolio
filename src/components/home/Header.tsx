@@ -11,6 +11,7 @@ export const homeNav = [
   { label: 'Try it', href: '#lab' },
   { label: 'About', href: '#about' },
   { label: 'AI', href: '#ai' },
+  { label: 'Services', href: '/services/' },
   { label: 'Blog', href: '/blog/' },
 ];
 

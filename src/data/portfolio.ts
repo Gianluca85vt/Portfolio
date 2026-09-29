@@ -61,6 +61,7 @@ export const nav = [
   { label: 'Work', href: '#work' },
   // Members is parked: src/pages/_members.astro keeps the page but the leading
   // underscore stops Astro routing it. Rename it back and restore this entry.
+  { label: 'Services', to: '/services' },
   { label: 'Blog', to: '/blog' },
   { label: 'Contact', href: '#contact' },
 ] as const;

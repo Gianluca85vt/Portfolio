@@ -1,0 +1,162 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from './SiteHeader.astro';
+import { site } from '../data/portfolio';
+import { servicesCopy, servicePaths, type Lang } from '../data/services';
+
+export interface Props {
+  lang: Lang;
+}
+
+const { lang } = Astro.props;
+const t = servicesCopy[lang];
+const other: Lang = lang === 'en' ? 'it' : 'en';
+const pageUrl = new URL(servicePaths[lang], site.url).href;
+
+// A professional service rather than a local shop: no street address is
+// published, so the areas served carry the location instead. Viterbo and Rome
+// are named because those are the searches this page exists for.
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ProfessionalService',
+  name: `${site.name} — ${t.kicker}`,
+  url: pageUrl,
+  email: site.email,
+  image: new URL('/img/video/U9QQZWzm9Ac.jpg', site.url).href,
+  description: t.description,
+  inLanguage: lang,
+  availableLanguage: ['it', 'en'],
+  areaServed: [
+    { '@type': 'City', name: 'Viterbo' },
+    { '@type': 'City', name: lang === 'it' ? 'Roma' : 'Rome' },
+    { '@type': 'Country', name: lang === 'it' ? 'Italia' : 'Italy' },
+  ],
+  founder: {
+    '@type': 'Person',
+    name: site.name,
+    url: site.url,
+    jobTitle: site.role,
+  },
+  hasOfferCatalog: {
+    '@type': 'OfferCatalog',
+    name: t.heading,
+    itemListElement: t.services.map((s) => ({
+      '@type': 'Offer',
+      itemOffered: { '@type': 'Service', name: s.name, description: s.body, serviceType: s.role },
+    })),
+  },
+};
+
+const alternates = [
+  { lang: 'en' as const, path: servicePaths.en },
+  { lang: 'it' as const, path: servicePaths.it },
+];
+---
+
+<Base title={t.title} description={t.description} jsonLd={jsonLd} lang={lang} alternates={alternates}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/services" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-20 sm:pb-24">
+      <div class="max-w-[1000px] mx-auto">
+        <div class="flex flex-wrap items-start justify-between gap-4">
+          <p class="font-medium uppercase tracking-[0.2em] text-[0.66rem]" style="color:#B600A8">
+            {t.kicker}
+          </p>
+          <a
+            href={servicePaths[other]}
+            hreflang={other}
+            lang={other}
+            class="inline-flex items-center rounded-full border border-[#D7E2EA]/30 text-[#D7E2EA]/75 font-medium uppercase tracking-widest px-4 py-1.5 text-[0.62rem] transition-colors hover:bg-[#D7E2EA]/10 hover:text-[#D7E2EA]"
+          >
+            {t.switchLabel}
+          </a>
+        </div>
+
+        <h1
+          class="hero-heading font-black uppercase leading-none tracking-tight mt-4"
+          style="font-size:clamp(2.2rem, 7vw, 4.2rem)"
+        >
+          {t.heading}
+        </h1>
+
+        <p class="text-[#D7E2EA]/75 font-light leading-relaxed mt-7 text-[1.05rem] max-w-[62ch]">
+          {t.lede}
+        </p>
+
+        <ul class="grid gap-4 sm:grid-cols-2 mt-12">
+          {
+            t.services.map((s) => (
+              <li class="flex flex-col rounded-[18px] border border-[#D7E2EA]/15 p-6 sm:p-7">
+                <p class="text-[#D7E2EA]/45 font-medium uppercase tracking-[0.16em] text-[0.6rem]">{s.role}</p>
+                <h2 class="text-[#D7E2EA] font-semibold leading-snug mt-2 text-[1.15rem]">{s.name}</h2>
+                <p class="text-[#D7E2EA]/65 font-light leading-relaxed mt-3 text-[0.92rem]">{s.body}</p>
+                <p class="text-[#D7E2EA]/45 font-light mt-3 text-[0.82rem]">
+                  <span class="uppercase tracking-widest text-[0.6rem] font-medium text-[#D7E2EA]/35">{t.forLabel}</span>{' '}
+                  {s.forWhom}
+                </p>
+                <a
+                  href={s.link.href}
+                  class="mt-auto pt-5 self-start text-[0.8rem] font-medium text-[#D7E2EA] underline decoration-[#B600A8]/70 underline-offset-4 transition-opacity hover:opacity-75"
+                >
+                  {s.link.label} →
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+
+        <div class="grid gap-10 md:grid-cols-[1fr_1.4fr] mt-16 sm:mt-20">
+          <div>
+            <h2 class="hero-heading font-black uppercase tracking-tight text-[1.35rem]">{t.where.heading}</h2>
+            <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-4 text-[0.95rem]">{t.where.body}</p>
+          </div>
+
+          <div>
+            <h2 class="hero-heading font-black uppercase tracking-tight text-[1.35rem]">{t.process.heading}</h2>
+            <ol class="mt-5 flex flex-col gap-4">
+              {
+                t.process.steps.map((step, i) => (
+                  <li class="grid grid-cols-[2.2rem_1fr] gap-3">
+                    <span
+                      class="text-[0.75rem] font-medium tabular-nums text-[#D7E2EA]/40 pt-0.5"
+                      aria-hidden="true"
+                    >
+                      {String(i + 1).padStart(2, '0')}
+                    </span>
+                    <div>
+                      <p class="text-[#D7E2EA] font-medium text-[0.95rem]">{step.title}</p>
+                      <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-1 text-[0.88rem]">{step.body}</p>
+                    </div>
+                  </li>
+                ))
+              }
+            </ol>
+          </div>
+        </div>
+
+        <div class="rounded-[20px] border border-[#D7E2EA]/15 mt-16 sm:mt-20 p-7 sm:p-10"
+             style="background:linear-gradient(155deg,rgba(24,1,31,0.55),rgba(118,33,176,0.10))">
+          <h2 class="hero-heading font-black uppercase tracking-tight text-[1.5rem] sm:text-[1.8rem]">{t.cta.heading}</h2>
+          <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-4 text-[0.95rem] max-w-[60ch]">{t.cta.body}</p>
+          <div class="flex flex-wrap items-center gap-3 mt-8">
+            <a
+              href={`mailto:${site.email}`}
+              class="inline-flex items-center rounded-full px-7 py-3.5 font-medium uppercase tracking-widest text-[0.7rem] text-white transition-opacity hover:opacity-90"
+              style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+            >
+              {t.cta.email}
+            </a>
+            <a
+              href="/"
+              class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3.5 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10"
+            >
+              {t.cta.portfolio}
+            </a>
+            <span class="text-[#D7E2EA]/40 font-light text-[0.8rem]">{site.email}</span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>

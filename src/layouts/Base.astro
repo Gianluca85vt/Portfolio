@@ -27,6 +27,14 @@ export interface Props {
   jsonLd?: Record<string, unknown>;
   /** keep a utility page out of search results */
   noindex?: boolean;
+  /** the page's language; everything is English except the Italian services page */
+  lang?: 'en' | 'it';
+  /**
+   * The same page in other languages, as absolute paths, for hreflang. The
+   * page itself is listed too, as Google asks, and the English one doubles as
+   * x-default.
+   */
+  alternates?: { lang: 'en' | 'it'; path: string }[];
 }
 
 const {
@@ -41,6 +49,8 @@ const {
   modifiedAt,
   jsonLd,
   noindex = false,
+  lang = 'en',
+  alternates = [],
 } = Astro.props;
 
 const canonical = new URL(Astro.url.pathname, Astro.site).href;
@@ -48,7 +58,7 @@ const imageUrl = new URL(image, Astro.site).href;
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <!-- First, so it sits inside the 1024 bytes a browser scans for it. -->
     <meta charset="UTF-8" />
@@ -107,6 +117,16 @@ const imageUrl = new URL(image, Astro.site).href;
     <link rel="icon" type="image/png" href="/favicon.png" />
     {noindex && <meta name="robots" content="noindex,nofollow" />}
     <link rel="canonical" href={canonical} />
+    {
+      alternates.map((a) => (
+        <link rel="alternate" hreflang={a.lang} href={new URL(a.path, Astro.site).href} />
+      ))
+    }
+    {
+      alternates
+        .filter((a) => a.lang === 'en')
+        .map((a) => <link rel="alternate" hreflang="x-default" href={new URL(a.path, Astro.site).href} />)
+    }
     <link rel="sitemap" href="/sitemap-index.xml" />
     <link
       rel="alternate"
@@ -120,7 +140,7 @@ const imageUrl = new URL(image, Astro.site).href;
     <meta property="og:type" content={type} />
     <meta property="og:site_name" content="Gianluca Scattarella" />
     <meta property="og:url" content={canonical} />
-    <meta property="og:locale" content="en_US" />
+    <meta property="og:locale" content={lang === 'it' ? 'it_IT' : 'en_US'} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:image" content={imageUrl} />
@@ -157,7 +177,24 @@ const imageUrl = new URL(image, Astro.site).href;
 
     <!-- The privacy notice has to be reachable from every page, and this is the
          one place every page shares. -->
-    <footer class="bg-black pb-8 text-center">
+    <footer class="bg-black pb-8 flex flex-wrap items-center justify-center gap-x-5 gap-y-2">
+      <!-- The services pages, in both languages, from every page: the Italian
+           one exists for searches typed in Italian and has no other way in
+           from the English site. -->
+      <a
+        href="/services/"
+        class="text-[#D7E2EA]/35 font-light uppercase tracking-widest text-[0.62rem] transition-colors duration-200 hover:text-[#D7E2EA]/70"
+      >
+        Services
+      </a>
+      <a
+        href="/it/servizi/"
+        hreflang="it"
+        lang="it"
+        class="text-[#D7E2EA]/35 font-light uppercase tracking-widest text-[0.62rem] transition-colors duration-200 hover:text-[#D7E2EA]/70"
+      >
+        Servizi
+      </a>
       <a
         href="/privacy/"
         class="text-[#D7E2EA]/35 font-light uppercase tracking-widest text-[0.62rem] transition-colors duration-200 hover:text-[#D7E2EA]/70"
