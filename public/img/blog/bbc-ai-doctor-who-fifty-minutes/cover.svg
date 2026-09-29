@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="170" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#C9B8F0" letter-spacing="6">FILM &amp; TV</text>
+  <text x="90" y="360" font-family="Helvetica,Arial,sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">50 min</text>
+  <text x="90" y="440" font-family="Helvetica,Arial,sans-serif" font-size="44" fill="#E4DAFA">of AI-generated Doctor Who</text>
+  <text x="90" y="510" font-family="Helvetica,Arial,sans-serif" font-size="38" fill="#B8A4E8">the BBC&#8217;s director general called it &#8220;pretty good&#8221;</text>
+</svg>
