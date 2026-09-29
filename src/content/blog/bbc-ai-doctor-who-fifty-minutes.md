@@ -3,7 +3,7 @@ title: "BBC boss on AI Doctor Who: 50 minutes is the test"
 date: 2026-09-29
 category: Film & TV
 excerpt: The BBC's director general watched a fifty-minute AI-generated Doctor Who and called it pretty good. Fifty minutes is where generated video still falls apart.
-cover: /img/blog/bbc-ai-doctor-who-fifty-minutes/cover.svg
+cover: /img/blog/bbc-ai-doctor-who-fifty-minutes/shot-01.jpg
 sources:
   - outlet: Deadline
     url: https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/
@@ -33,6 +33,11 @@ consumes it. It does not train you to look at a corridor in shot 40 and notice
 it is not the corridor from shot 12.
 
 ## What fifty minutes does that a clip does not
+
+<figure>
+  <img src="/img/blog/bbc-ai-doctor-who-fifty-minutes/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>BBC Broadcasting House, London, via Wikimedia Commons</figcaption>
+</figure>
 
 The interesting number here is the runtime. Generative video crossed the
 single-shot threshold a while ago — a ten-second clip with good light,
