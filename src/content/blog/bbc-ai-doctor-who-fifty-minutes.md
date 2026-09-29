@@ -16,7 +16,6 @@ artistView:
   misses:
     - "Continuity: generated footage does not hold a room's geometry between cuts — a doorway moves, a corridor gains a metre, and the error compounds across a fifty-minute runtime rather than cancelling out."
     - "Art direction: the output averages toward the most photographed version of a thing, which is the opposite of a production designer's job."
-draft: true
 ---
 
 Somebody sent Matt Brittin a fifty-minute episode of *Doctor Who* that no
