@@ -6,6 +6,7 @@ excerpt: Seven scored verdicts average 6.8 across a three-point range, and the p
 cover: /img/blog/nhl-27-review/shot-01.jpg
 reviewOf: "NHL 27"
 score: 7
+verdict: "Solid hockey let down by its presentation, including a commentary booth partly voiced by generative AI that EA never announced. It plays better than it looks and sounds, in a year sold on how it looks and sounds."
 scoreSources:
   - outlet: Analog Stick Gaming
     score: 8

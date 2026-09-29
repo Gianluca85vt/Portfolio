@@ -36,11 +36,17 @@ const blog = defineCollection({
     score: z.number().min(0).max(10).optional(),
     // Gianluca played it himself. The score is then his own verdict and
     // nothing else: no scoreSources, and no other outlet quoted or averaged
-    // anywhere in the piece. The score box says "My score" instead of an
-    // average, and the review stands on his own time with the game.
+    // anywhere in the piece, and the review stands on his own time with the
+    // game.
     handsOn: z.boolean().optional(),
     // What was reviewed, for that column — the headline is usually too long.
     reviewOf: z.string().optional(),
+    // Three lines on what the game is like, shown in the Final Score box under
+    // its name. Asked for on 29 September 2026 in place of the line explaining
+    // how the average was worked out, which now sits in the box's collapsed
+    // source list. `.catch` for the same reason as artistView: the writer
+    // produces it, and a malformed one must cost the line, not the build.
+    verdict: z.string().optional().catch(undefined),
     // The individual scores the mean came from, so the number is auditable.
     scoreSources: z
       .array(z.object({ outlet: z.string(), score: z.number().min(0).max(10) }))

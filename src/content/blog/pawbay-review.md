@@ -6,6 +6,7 @@ excerpt: A palette I'd happily steal, townspeople built from a handful of boxes,
 cover: /img/blog/pawbay-review/shot-01.jpg
 reviewOf: Pawbay
 score: 6
+verdict: "A cat sandbox in a gorgeous little town, and knocking lunches off tables is sweet while it lasts. The townspeople look and react far below the town around them, and loose controls pull the whole thing down."
 handsOn: true
 artistView:
   take: "An environment kit built with real care and a cast built to a much lower bar, sharing the same frames. Pawbay reads like two projects on two budgets, and the town clearly got the bigger one."

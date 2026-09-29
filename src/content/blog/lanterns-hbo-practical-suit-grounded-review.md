@@ -5,6 +5,7 @@ category: Film & TV
 cover: /img/blog/lanterns-hbo/cover.svg
 reviewOf: 'Lanterns (HBO, Season 1)'
 score: 8
+verdict: "A grounded, buddy-cop take on the Green Lanterns, led by Kyle Chandler and Aaron Pierre. Strong performances and a ring suit built for real on set make it a confident start for the new DC universe."
 scoreSources:
   - { outlet: ScreenRant, score: 9 }
   - { outlet: IndieWire, score: 9 }

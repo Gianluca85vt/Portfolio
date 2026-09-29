@@ -6,6 +6,7 @@ cover: /img/blog/silent-hill-townfall-review/shot-01.jpg
 excerpt: Eleven verdicts average 8.0 across a four-point spread. Reviewers agree the atmosphere is franchise-best and argue about the stealth on top of it.
 reviewOf: "SILENT HILL: Townfall"
 score: 8
+verdict: "A Scottish town in 1996, with atmosphere and sound among the best the series has had. The stealth and hiding split reviewers; the town itself convinces everyone."
 scoreSources:
   - outlet: Digital Spy
     score: 10

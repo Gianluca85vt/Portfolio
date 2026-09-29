@@ -6,6 +6,7 @@ cover: /img/blog/orbitals-review/shot-01.jpg
 excerpt: Ten verdicts average 8 and run from 6 to 9.5, a three-and-a-half point spread. The characters animate at 12 and 24fps on purpose.
 reviewOf: Orbitals
 score: 8
+verdict: "A two-player puzzle adventure played entirely in split screen, in the Hazelight mould. Beautiful art direction and puzzles that need real teamwork, though it borrows a lot and the second half repeats itself."
 scoreSources:
   - outlet: CGMagazine
     score: 9.5

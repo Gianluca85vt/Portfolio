@@ -6,6 +6,7 @@ cover: /img/blog/fire-emblem-fortunes-weave-review/video-thumb.jpg
 excerpt: Nine verdicts average 8.8 across a three-point spread. The marks it drops are almost all for the most expensive thing in the game.
 reviewOf: "Fire Emblem: Fortune's Weave"
 score: 9
+verdict: "The longest Fire Emblem yet: four protagonists, four storylines and a huge tactical campaign that looks great on Switch 2. The only complaints are about volume, with slower late chapters and weak real-time dungeons."
 scoreSources:
   - outlet: IGN
     score: 10

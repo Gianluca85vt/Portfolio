@@ -5,6 +5,7 @@ category: Games
 cover: /img/blog/beast-of-reincarnation-review-scores/shot-01.jpg
 reviewOf: Beast of Reincarnation
 score: 7
+verdict: "Game Freak's first action RPG outside Pokémon: real-time fights with Emma and her dog Koo across a ruined Japan. Bold boss staging and an uneven execution split critics almost evenly between delight and disappointment."
 scoreSources:
   - { outlet: GamesRadar+, score: 9 }
   - { outlet: PSU, score: 8.5 }

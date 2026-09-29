@@ -6,6 +6,7 @@ cover: /img/blog/hot-wheels-infinite-rush-review/shot-01.jpg
 excerpt: Six verdicts run from a 6 to a 9 and average 7.5. The disagreement sits over one decision — the playset became four open-world islands.
 reviewOf: "Hot Wheels Infinite Rush"
 score: 7.5
+verdict: "Milestone swaps the garage tracks for four open islands and more than 150 cars. More variety and content, at the cost of the tabletop sense of scale that made Unleashed special."
 scoreSources:
   - outlet: Hardcore Gamer
     score: 9

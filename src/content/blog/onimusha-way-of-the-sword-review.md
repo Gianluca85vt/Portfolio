@@ -6,6 +6,7 @@ cover: /img/blog/onimusha-way-of-the-sword-review/shot-01.jpg
 excerpt: Twelve verdicts average 8.5 and the spread is unusually tight. The complaint that keeps coming back is the one Capcom wrote into the story on purpose.
 reviewOf: "Onimusha: Way of the Sword"
 score: 8.5
+verdict: "Capcom's return to Onimusha is built around the sword: parries, deflects and one-cut kills that make you read every enemy. Superb combat and animation; the grey, overcast Kyoto is the only real complaint."
 scoreSources:
   - outlet: Forbes
     score: 9

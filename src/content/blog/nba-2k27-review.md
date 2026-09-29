@@ -6,6 +6,7 @@ cover: /img/blog/nba-2k27-review/shot-01.jpg
 excerpt: Three scored verdicts average 8.3 a week into paid early access. The defence everyone is praising is built from footage broadcast cameras barely shoot.
 reviewOf: "NBA 2K27"
 score: 8.5
+verdict: "The rebuilt defence is the real upgrade, and the basketball has never played better. Visually it stands still, and the paid progression takes weeks to judge properly."
 scoreSources:
   - outlet: Sports Gamers Online
     score: 9

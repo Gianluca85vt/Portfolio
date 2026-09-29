@@ -6,6 +6,7 @@ excerpt: Five published verdicts average 8/10. The high scores love the cinemati
 cover: /img/blog/captain-tsubasa-2-world-fighters-review/shot-01.jpg
 reviewOf: "CAPTAIN TSUBASA 2: WORLD FIGHTERS"
 score: 8
+verdict: "A football game built like a fighting game, faithful to a manga where one shot on goal takes pages. Spectacular animation and effects, with slow pacing, thin multiplayer and few concessions to newcomers."
 scoreSources:
   - outlet: PlayStation LifeStyle
     score: 9

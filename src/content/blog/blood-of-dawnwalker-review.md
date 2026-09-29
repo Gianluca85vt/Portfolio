@@ -6,6 +6,7 @@ cover: /img/blog/blood-of-dawnwalker-review/shot-01.jpg
 excerpt: Twelve verdicts average 8, running from 6 to 9.5. The thirty-day clock is what splits them, and it is an environment budget problem before it is a design one.
 reviewOf: "The Blood of Dawnwalker"
 score: 8
+verdict: "An open-world RPG on a thirty-day clock, where every quest spends time you can't get back and night plays differently from day. If you like being forced to choose, it's a standout; if you want to see everything, it punishes you."
 scoreSources:
   - outlet: SECTOR.sk
     score: 9.5

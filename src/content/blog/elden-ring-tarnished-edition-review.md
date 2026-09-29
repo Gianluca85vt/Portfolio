@@ -6,6 +6,7 @@ excerpt: The Switch 2 port everyone wrote off after a 15fps demo is reviewing at
 cover: /img/blog/elden-ring-tarnished-edition-review/shot-01.jpg
 reviewOf: "Elden Ring: Tarnished Edition"
 score: 9.5
+verdict: "Elden Ring and Shadow of the Erdtree on Switch 2, with thinner grass and a 30fps target. The port holds up far better than its troubled first showing suggested, and critics recommend it almost unanimously."
 scoreSources:
   - outlet: Nintendo Life
     score: 9

@@ -6,6 +6,7 @@ cover: /img/blog/well-dweller-review/shot-01.jpg
 excerpt: Six verdicts average 9 across a 2.5-point spread, from a perfect score down to a 7.5. Kyle Thompson drew, coded and designed all of it himself.
 reviewOf: Well Dweller
 score: 9
+verdict: "A hand-drawn Metroidvania made almost entirely by one person, with art and animation that look like a much bigger studio's. Critics love it nearly unanimously; the dissent is about how little it adds to the genre."
 scoreSources:
   - outlet: Console Creatures
     score: 10

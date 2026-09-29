@@ -6,6 +6,7 @@ cover: /img/blog/minecraft-dungeons-ii-review/shot-01.jpg
 excerpt: Three verified verdicts average 8 across a 1.25-point spread. The jump button is new to the series, and retrofitting one is real level-design work.
 reviewOf: Minecraft Dungeons II
 score: 8
+verdict: "The dungeon crawler gets a jump button, split armour slots, talismans and a new dimension, the Sift. Movement is more fluid and co-op is fun, though the online side is rough at launch."
 scoreSources:
   - outlet: Loot Level Chill
     score: 8.5

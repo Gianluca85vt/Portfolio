@@ -6,6 +6,7 @@ excerpt: Master Collection Vol. 2 reviewed to a 9.0 average this week, and the h
 cover: /img/blog/mgs-master-collection-2-review/shot-01.jpg
 reviewOf: "Metal Gear Solid: Master Collection Vol. 2"
 score: 9
+verdict: "Metal Gear Solid 4 finally leaves the PS3, alongside Peace Walker and Ghost Babel. MGS4 carries the collection with a careful port; the other two games feel more recycled than remastered."
 scoreSources:
   - { outlet: ComingSoon, score: 9.5 }
   - { outlet: Video Games Chronicle, score: 10 }

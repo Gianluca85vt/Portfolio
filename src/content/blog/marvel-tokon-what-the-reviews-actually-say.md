@@ -5,6 +5,7 @@ category: Games
 cover: /img/blog/marvel-tokon/screen-04.jpg
 reviewOf: 'Marvel Tōkon: Fighting Souls'
 score: 8.5
+verdict: "Arc System Works' Marvel tag fighter: deep, well-taught mechanics that critics love, with a loud visual style some find too busy. The PC launch, with performance trouble, a forced PSN login and kernel anti-cheat, sank its Steam reviews."
 scoreSources:
   - { outlet: IGN, score: 9 }
   - { outlet: "Tom's Guide", score: 9 }

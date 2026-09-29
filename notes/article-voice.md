@@ -247,7 +247,6 @@ they never mix:
   is his own verdict, and there is **no** `scoreSources`. No other outlet is
   quoted, cited, averaged or used as a reference anywhere in the piece — not
   in the score, not in the conclusion, not as support for a point in the body.
-  The score box then reads "My score" instead of an average.
 
 A hands-on review is written only from his own notes on the session: what he
 played it on, what he liked, what broke, his score. Never add an experience he
@@ -255,6 +254,24 @@ did not describe, and never fill the gaps with what critics said. The key is
 disclosed in the body ("from a code <publisher> sent me"). In the artist's
 view box of a hands-on review, his own session counts as evidence; the
 "from his desk" limit below applies to round-ups.
+
+### The Final Score box
+
+Both formats end on the same box, headed **Final Score** (his wording, 29
+September 2026 — never "Average score" or "My score"). Under the game's name
+it shows `verdict:`, which every review carries in its frontmatter: **two or
+three sentences, under 240 characters, on what the game is like** — what you
+do in it, what it does well, what holds it back. It replaced the line that
+explained how the number was worked out; that explanation now sits inside the
+box's collapsed "Where the number comes from", next to the outlets.
+
+```yaml
+verdict: "A cat sandbox in a gorgeous little town, and knocking lunches off tables is sweet while it lasts. The townspeople look and react far below the town around them, and loose controls pull the whole thing down."
+```
+
+In a round-up the verdict describes the game and what the critics found,
+without an "I" he did not earn. In a hands-on review it is his own. Quote it:
+a colon inside breaks the YAML. A malformed one is dropped, never the build.
 
 ---
 

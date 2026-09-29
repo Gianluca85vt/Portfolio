@@ -6,6 +6,7 @@ excerpt: Seven outlets put a number on Cregger's Resident Evil. Five said eight,
 cover: /img/blog/resident-evil-2026-movie-review/video-thumb.jpg
 reviewOf: 'Resident Evil (2026 film)'
 score: 7.5
+verdict: "Zach Cregger's Resident Evil is fast, funny and extremely wet, with gore built practically on set. Critics mostly like it rather than love it, which the 98% Tomatometer hides."
 scoreSources:
   - { outlet: IGN, score: 8 }
   - { outlet: GameSpot, score: 8 }

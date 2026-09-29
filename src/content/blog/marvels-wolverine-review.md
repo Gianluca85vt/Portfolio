@@ -55,6 +55,7 @@ scoreSources:
   - outlet: Giant Bomb
     score: 5
 score: 7.5
+verdict: "A brutal, great-looking action game with excellent combat and performance capture. The story and the repetition hold it back, and critics split between those who came for the fighting and those who wanted more."
 ---
 
 The embargo went up at 8am Pacific on 10 September 2026, five days ahead of the

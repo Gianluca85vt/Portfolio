@@ -6,6 +6,7 @@ excerpt: Frogwares ditched the open-world detective formula for tight survival h
 cover: /img/blog/sinking-city-2-reviews/shot-01.jpg
 reviewOf: The Sinking City 2
 score: 8
+verdict: "Frogwares drops the open-world detective work for tight, resource-hungry survival horror in a drowned 1920s Arkham. Much better paced than the original, though fans of the investigation lose what they came for."
 scoreSources:
   - { outlet: DualShockers, score: 9 }
   - { outlet: Console Creatures, score: 9 }

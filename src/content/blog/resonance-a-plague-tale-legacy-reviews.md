@@ -5,6 +5,7 @@ category: Games
 cover: /img/blog/resonance-a-plague-tale-legacy-reviews/cover.jpg
 reviewOf: "Resonance: A Plague Tale Legacy"
 score: 8.5
+verdict: "Asobo's spin-off drops the rats, Amicia and most of the stealth for a new heroine and deliberate combat. A careful, handsome action-adventure that divides fans of the original games."
 scoreSources:
   - { outlet: Digital Chumps, score: 9.5 }
   - { outlet: DualShockers, score: 9 }

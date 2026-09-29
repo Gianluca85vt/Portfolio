@@ -6,6 +6,7 @@ cover: /img/blog/control-resonant-review/shot-01.jpg
 excerpt: Eight verdicts average 7.5 across a six-point range. Reviewers agree the environments are career-best work and disagree about nearly everything else.
 reviewOf: "CONTROL Resonant"
 score: 7.5
+verdict: "Remedy's sequel trades the Oldest House for a city and pushes combat toward melee. The environments win near-unanimous praise; repetitive fights, busywork and an awkward map divide everything else."
 scoreSources:
   - outlet: Vice
     score: 10

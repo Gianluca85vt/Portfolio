@@ -6,6 +6,7 @@ cover: /img/blog/ea-sports-fc-27-review/shot-01.jpg
 excerpt: Six verdicts average 7.5 across a 2.5-point range. What splits them is The Grounds, the open-world hub EA spent the year building.
 reviewOf: "EA Sports FC 27"
 score: 7.5
+verdict: "The football is solid and familiar. The year's work went into The Grounds, a new open-world hub, and that is what splits reviewers more than any FC in years."
 scoreSources:
   - outlet: Athlon Sports
     score: 8.5

@@ -5,6 +5,7 @@ category: Games
 cover: /img/blog/star-wars-zero-company-review-tactics-camera/shot-01.jpg
 reviewOf: STAR WARS Zero Company
 score: 8.5
+verdict: "Turn-based Clone Wars tactics with a camera that swoops in for every shot. The tactics are strong and the presentation outclasses the genre; bugs and pop-in dent the launch."
 scoreSources:
   - { outlet: IGN, score: 9 }
   - { outlet: GameRant, score: 9 }

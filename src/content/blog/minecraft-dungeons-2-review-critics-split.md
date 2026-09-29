@@ -6,6 +6,7 @@ excerpt: Five verdicts on Minecraft Dungeons II run from 6 to 9. A three-point s
 cover: /img/blog/minecraft-dungeons-2-review-critics-split/shot-01.jpg
 reviewOf: Minecraft Dungeons II
 score: 7.5
+verdict: "A safer, better-built sequel: weightier combat, smoother traversal, more build variety and prettier lighting. It reinvents nothing, and critics disagree on whether doing the same thing better is enough."
 scoreSources:
   - outlet: IGN
     score: 6

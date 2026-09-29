@@ -6,6 +6,7 @@ cover: /img/blog/valheim-1-0-review/shot-01.jpg
 excerpt: Eight launch-day verdicts average 9, running from an 80 to IGN's 10. Five years of early access ended today, and snow is the hardest biome for this art style.
 reviewOf: "Valheim"
 score: 9
+verdict: "Five years of early access end in a complete Viking survival game with a gorgeous art style and enormous scope. The grind, hours of hauling ore before the good part, is all that divides critics."
 scoreSources:
   - outlet: IGN
     score: 10

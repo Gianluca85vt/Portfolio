@@ -5,6 +5,7 @@ category: Games
 cover: /img/blog/mortal-shell-2-reviews/shot-03.jpg
 reviewOf: Mortal Shell II
 score: 8.5
+verdict: "A demanding soulslike that improves on the original in every direction, with striking lighting. Difficulty spikes, bugs and systems that never explain themselves are the recurring complaints."
 scoreSources:
   - { outlet: Giant Bomb, score: 9 }
   - { outlet: GameMAG, score: 9 }
