@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#1F6F8B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="none" stroke="#7FD4E8" stroke-opacity="0.35" stroke-width="3">
+    <path d="M120 250 L300 210 L420 300 L330 420 L150 400 Z"/>
+    <path d="M420 300 L610 260 L700 380 L560 470 L330 420 Z"/>
+    <path d="M700 380 L880 330 L1010 440 L890 540 L560 470 Z"/>
+  </g>
+  <g fill="none" stroke="#FFD166" stroke-opacity="0.75" stroke-width="2">
+    <path d="M560 470 L640 430 L700 470 L660 520 Z"/>
+    <path d="M660 520 L740 500 L780 560 L700 580 Z"/>
+    <path d="M700 470 L790 450 L830 500 L780 560 Z"/>
+  </g>
+  <text x="90" y="140" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="40" font-weight="700" letter-spacing="6">HOUDINI RBD</text>
+  <text x="90" y="640" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="92" font-weight="700">Fracture twice,</text>
+  <text x="90" y="740" fill="#FFD166" font-family="Helvetica,Arial,sans-serif" font-size="92" font-weight="700">solve once</text>
+  <text x="90" y="820" fill="#CFE9F2" font-family="Helvetica,Arial,sans-serif" font-size="34">Jae Jun Yi's multi-layered workflow, SIGGRAPH 2026</text>
+</svg>
