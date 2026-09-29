@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Minecraft Dungeons II review scores run from 6 to 9">
+  <defs>
+    <linearGradient id="bgmd2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#1E3A1B"/>
+      <stop offset="100%" stop-color="#3E8A35"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgmd2)"/>
+
+  <!-- blocky cubes, irregular, faint -->
+  <g fill="#A8E68F" fill-opacity="0.09">
+    <rect x="80" y="600" width="90" height="90"/>
+    <rect x="170" y="600" width="90" height="90"/>
+    <rect x="170" y="510" width="90" height="90"/>
+    <rect x="950" y="660" width="90" height="90"/>
+    <rect x="860" y="660" width="90" height="90"/>
+    <rect x="950" y="570" width="90" height="90"/>
+    <rect x="1040" y="660" width="90" height="90"/>
+    <rect x="430" y="720" width="90" height="90"/>
+  </g>
+
+  <text x="90" y="170" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#A8E68F" letter-spacing="6">MINECRAFT DUNGEONS II</text>
+  <text x="90" y="380" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="bold" fill="#FFFFFF">6 to 9</text>
+  <text x="90" y="455" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#D9F5CC">five verdicts, three points apart</text>
+</svg>
