@@ -178,7 +178,7 @@ git push origin HEAD:main
 
 ## Cose aperte
 
-1. **Tre bozze non toccate**:
+1. **Tre bozze non toccate** — *chiuso il 29 settembre: eliminate tutte e tre, con le immagini, su richiesta di Gianluca*:
    - `ace-combat-8-wings-of-theve-review` (26/9)
    - `rtx-mega-geometry-2-vram-streaming` (27/9)
    - `the-helper-closes-warcraft-3-archive` (22/9)
