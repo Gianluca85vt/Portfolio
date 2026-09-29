@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Animation: motion applied to a finished panel gives you parallax and a mouth flap, not weight. Published short-form promos lean on slow pushes and drifting hair for that reason."
     - "Pipeline: a claimed three-to-five-times output speed only helps if a direction note is still cheap. Regenerating a shot is not the same as correcting one, and retakes are where animation schedules go."
-draft: true
 ---
 
 Only Anime News Network has carried this one in English so far, so the second
