@@ -1,6 +1,56 @@
-# Manga — harvested 2026-09-28T20:13:46.031Z
+# Manga — harvested 2026-09-29T10:54:11.629Z
 
 ## Anime News Network
+
+### The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor
+Tue, 29 Sep 2026 05:57:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303
+
+Tegoshi to appear in upcoming anime's 12th episode
+
+### Monster Hunter Outlanders Game Launches on October 29
+Tue, 29 Sep 2026 03:31:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/monster-hunter-outlanders-game-launches-on-october-29/.242292
+
+Game's mainland China version slated for 2027
+
+### Tomohiro Hata Performs Live-Action Ao no Hana Utsuwa no Mori Series' Theme Song
+Tue, 29 Sep 2026 01:46:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/tomohiro-hata-performs-live-action-ao-no-hana-utsuwa-no-mori-series-theme-song/.242290
+
+October 26 series also presents new visual
+
+### Naruto Gets New 'Limited' TV Anime Series
+Mon, 28 Sep 2026 23:22:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289
+
+Franchise to reveal more details at NYCC panel on October 10
+
+### Uma Musume Anime Aims for Guinness World Record with New Series
+Mon, 28 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-28/uma-musume-anime-aims-for-guinness-world-record-with-new-series/.242272
+
+Will the horse girls achieve Most Speaking Characters in a Short-form Animation Series Based on a Video Game?
+
+### One Piece Anime Confirms New Episodes to Return in 2027
+Mon, 28 Sep 2026 22:55:44 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-09-28/one-piece-anime-confirms-new-episodes-to-return-in-2027/.242285
+
+The last episode of the anime for this year aired on Fuji TV on Sunday, with the anime continuing next year. The Dragon Ball Super: Beerus anime will take...
+
+### Hirayasumi Anime Unveils Teaser, Key Visual, Cast
+Mon, 28 Sep 2026 19:42:22 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/hirayasumi-anime-unveils-teaser-key-visual-cast/.242284
+
+Yuma Uchida, Mayu Takahashi, Rikako Aikawa star in October 7 human drama anime
+
+### Amata Games' Shinjuku Anomaly Game Reveals September 30 Launch in Trailer
+Mon, 28 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/amata-games-shinjuku-anomaly-game-reveals-september-30-launch-in-trailer/.242280
+
+Horror visual novel features anomaly photography gameplay for PC
+
+### You and I Are Polar Opposites Season 2 ‒ Episode 12
+Mon, 28 Sep 2026 17:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-12/.242282
+
+This might not technically be the finale, but you sure could have fooled me into thinking otherwise.
+
+### Smile Up President Noriyuki Higashiyama Steps Down
+Mon, 28 Sep 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/smile-up-president-noriyuki-higashiyama-steps-down/.242274
+
+Smile Up continues to handle compensation measures for sexual abuse victims of Johnny Kitagawa
 
 ### Cells at Work! Gets Dental Spinoff Manga
 Mon, 28 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/cells-at-work-gets-dental-spinoff-manga/.242279
@@ -12,61 +62,16 @@ Mon, 28 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Series entered hiatus after 100th chapter in May
 
-### Live-Action Street Fighter Film Previews Ken vs. Ryu Rivalry in New Trailer
-Mon, 28 Sep 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/live-action-street-fighter-film-previews-ken-vs-ryu-rivalry-in-new-trailer/.242276
-
-Film opens on October 16
-
-### Stalled Despera Anime Project Gets Manga
-Mon, 28 Sep 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/stalled-despera-anime-project-gets-manga/.242273
-
-Manga debuts with new setting/era in 2027
-
-### Sparks of Tomorrow ‒ Episode 13
-Mon, 28 Sep 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/sparks-of-tomorrow/episode-13/.242250
-
-<i>Sparks of Tomorrow</i> routinely failed to spark any kind of joy or inspiration within me, and I am so glad to be done with this lazy, ahistorical piece of animation.
-
-### S. Korean Gov't Report: Domestic Piracy Webtoon Sites Repeatedly Reopen Under New Addresses
-Mon, 28 Sep 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/s-korean-govt-report-domestic-piracy-webtoon-sites-repeatedly-reopen-under-new-addresses/.242253
-
-Authorities issued 24,297 access-blocking corrective-action requests for copyright-infringing content from 2023 - August 2026
-
-### Liar Game Anime Gets 2nd Season
-Mon, 28 Sep 2026 12:14:27 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/liar-game-anime-gets-2nd-season/.242275
-
-1st season ended with 26th episode on Monday
-
-### Aachi and Ssipak Film Review
-Mon, 28 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/aachi-and-ssipak-film/.242075
-
-This film isn't for everyone, but it’s like watching someone drop the <i>Rugrats</i> into <i>Akira</i>.
-
-### Draw This, Then Die! ‒ Episode 12
-Mon, 28 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/draw-this-then-die/episode-12/.242249
-
-I think art like this is so important because it serves as a reminder of why we pursue things in the first place.
-
-### Manga Up! Global Adds 25 Years in a Dungeon, Wolf Boy's Secret, 6 More Manga
-Mon, 28 Sep 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/manga-up-global-adds-25-years-in-a-dungeon-wolf-boy-secret-6-more-manga/.242042
-
-<cite>A Defeated Saint's Gonna Topple a Kingdom!, Bloody Cross, The After-School Bullying Trial is Now in Session!, Blood Addict</cite>, more manga added
-
-### The Elusive Samurai Season 2 ‒ Episode 11
-Mon, 28 Sep 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-11/.242224
-
-It's fascinating to see Shokan become a genuinely reformed man who is so haunted by his former life as a merciless and cruel bandit.
-
-### Topco Media Rebrands as Ankey AX, Expanding Webtoon IP Business Into AI
-Mon, 28 Sep 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/topco-media-rebrands-as-ankey-ax-expanding-webtoon-ip-business-into-ai/.242254
-
-Company stated it plans to further expand its IP × AI business by developing its existing webtoon properties into various forms of AI-generated content
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Re:ZERO Season 4 Episode 19 (Finale) Preview Revealed
+Tue, 29 Sep 2026 09:00:59 GMT — https://animecorner.me/rezero-season-4-episode-19-finale-preview-revealed/
+
+Re:ZERO Season 4 has revealed the Episode 19 (Episode 85 overall) preview ahead of its September 30, 2026 premiere.
 
 ### Black Clover Season 2 Reveals New Pre-Premiere Visual Ahead of October 3 Return
 Mon, 28 Sep 2026 18:18:03 GMT — https://animecorner.me/black-clover-season-2-reveals-new-pre-premiere-visual-ahead-of-october-3-return/
@@ -93,17 +98,22 @@ Sun, 27 Sep 2026 14:53:29 GMT — https://animecorner.me/one-piece-anime-to-cont
 
 ONE PIECE TV anime announced a 2027 return following the release of Episode 1180, this year's final episode, on September 27.
 
-### Welcome to Demon School! Iruma-kun First Theatrical Anime Film Project Announced
-Sun, 27 Sep 2026 10:40:28 GMT — https://animecorner.me/welcome-to-demon-school-iruma-kun-first-theatrical-anime-film-project-announced/
-
-Welcome to Demon School! Iruma-kun is officially getting its first theatrical anime film project, with an announcement video revealed.
-
-### Imu Uses Domi Reversi in One Piece Episode 1180 Preview
-Sun, 27 Sep 2026 08:09:39 GMT — https://animecorner.me/imu-uses-domi-reversi-in-one-piece-episode-1180-preview/
-
-ONE PIECE revealed the preview for Episode 1180, showing Imu using the skill Domi Reversi while facing the giants.
-
 ## MyAnimeList News
+
+### Kyouran Reijou Nia Liston Announces Additional Cast
+Tue, 29 Sep 2026 02:23:01 -0700 — https://myanimelist.net/news/74773120?_location=rss
+
+The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel announced additional cast Tuesday. The anime series will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. Cast Essera Blanket: Saeko Kamijou (Enen no Shouboutai) Raffine Silver: Hitomi Ueda (Uma Musum...
+
+### Light Novel Sekai Saikyou no Majo, Hajimemashita Ends with 6th Volume
+Mon, 28 Sep 2026 22:04:25 -0700 — https://myanimelist.net/news/74772660?_location=rss
+
+Publishing company Square Enix announced on Wednesday that Mochimaru Sakaki s Sekai Saikyou no Majo, Hajimemashita: Watashi dake "Kouryaku Site" wo Mireru Sekai de Jiyuu ni Ikimasu (The World s Strongest Witch: I m Starting My Free Life in a World Where Only I Can See the Online Strategy Guide) light novel will end with its sixth volume on October 7. Sakaki began penning the fantasy adventure series on both the Shousetsuka ni Narou and Kakuyomu websites simultaneously in...
+
+### Hirayasumi Unveils Main Cast, Second Teaser Promo
+Mon, 28 Sep 2026 16:57:54 -0700 — https://myanimelist.net/news/74772034?_location=rss
+
+The official website for the television anime adaptation of Keigo Shinzou s Hirayasumi manga revealed the main cast, a key visual (pictured), and a second teaser promotional video on Tuesday. The anime is scheduled to premiere on NHK-G in January 2027. Cast Hiroto Ikuta: Yuuma Uchida (Fruits Basket 1st Season) Natsumi Kobayashi: Mayu Takahashi (Long Zu II: Daowangzhe Zhi Tong) Hanae Wada: Rikako Aikawa (Pokemon Sun &amp; Moon) Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...
 
 ### Liar Game Second Season Announced
 Mon, 28 Sep 2026 09:04:31 -0700 — https://myanimelist.net/news/74770586?_location=rss
@@ -130,29 +140,19 @@ Sun, 27 Sep 2026 05:25:21 -0700 — https://myanimelist.net/news/74765539?_locat
 
 Game publisher and developer Mixi announced a new television anime adaptation for the Monster Strike smartphone role-playing game, subtitled Monster Strike: Mera&times;Death: Shinigami to Boku no Ijou na Koi (Mera&times;Death: The Unusual Love Between Me and the Grim Reaper) on Sunday. The official website also revealed the production staff, a key visual (pictured), and the first promotional video. The anime series is scheduled to premiere on Tokyo MX and other stations on January 5, 2027. Staff...
 
-### Mairimashita! Iruma-kun Anime Movie Announced
-Sun, 27 Sep 2026 03:43:31 -0700 — https://myanimelist.net/news/74765400?_location=rss
-
-The Mairimashita! Iruma-kun (Welcome to Demon School! Iruma-kun) special event "Devils Party 2" announced an anime movie project for the franchise on Sunday. The official website also revealed an announcement image (pictured above) and announcement promo. Produced by Bandai Namco Pictures, the first season aired in 23 episodes in Fall 2019. The second and third seasons ran for 21 episodes in Spring 2021 and Fall 2022, respectively. The 24-episode fourth season premiered on April 4 and...
-
-### Toshio Masuda, Director of Uchuu Senkan Yamato Movies, Dies at 98
-Sat, 26 Sep 2026 18:02:15 -0700 — https://myanimelist.net/news/74764175?_location=rss
-
-Toshio Masuda, the director behind Uchuu Senkan Yamato (Space Battleship Yamato) movies, died on August 26 due to natural causes. He was 98. The Directors Guild of Japan announced the news on Thursday, stating that Masuda died at a hospital in Tokyo. A private funeral service has been held by his close relatives. Born in Kobe in 1927, Masuda was expelled from a technical training school in July 1945 due to a mismatch with its military indoctrination. He later attended the Osaka University of For...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Villains Are Destined to Die Volumes 6 and 7 Review
+Tue, 29 Sep 2026 09:00:05 +0000 — https://animeuknews.net/2026/09/villains-are-destined-to-die-volumes-6-and-7-review/
+
+After the hunting tournament, Penelope finds herself in the middle of an ancient war that could destroy the world if the re-appearance of the Duke's 'real' daughter doesn't end her first...
+
 ### The Villainess Who Came to Marry into the Frontier Noble s Household Is an Exceptionally Capable Wife, Isn t She? Volume 1 Review
 Mon, 28 Sep 2026 09:00:51 +0000 — https://animeuknews.net/2026/09/the-villainess-who-came-to-marry-into-the-frontier-nobles-household-is-an-exceptionally-capable-wife-isnt-she-volume-1-review/
 
 After being reborn into an otome game, Ragna needs to takes on his duties as a noble, including marrying the villainess, and surviving whatever this new life throws at him.
-
-### Reset (Reset/Reboot Volume 1) Review
-Sun, 27 Sep 2026 09:00:01 +0000 — https://animeuknews.net/2026/09/reset-reset-reboot-volume-1-review/
-
-High school basketball team members Sou and his childhood friend Touma are in a secret relationship. What happens when teammate Maki begins to ask Touma questions?
 

@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-28
+# Review radar — updated 2026-09-29
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,8 +20,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Transport Fever 3 | Paradox Interactive | 2026-09-29 | 1d | 2026-09-28 | €49.99 |
-| Minecraft Dungeons II | Xbox Game Studios | 2026-09-29 | 1d | 2026-09-28 | €29.99 |
+| Transport Fever 3 | Paradox Interactive | 2026-09-29 | today | 2026-09-28 | €49.99 |
 
 ## Further out, within 14 days
 
@@ -29,7 +28,7 @@ _Nothing else dated in the window._
 
 ---
 
-*550 upcoming titles scanned, 112 with a firm date inside
-14 days, 2 above the price line. Titles showing
+*400 upcoming titles scanned, 83 with a firm date inside
+14 days, 1 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

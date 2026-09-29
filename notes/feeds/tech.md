@@ -1,11 +1,36 @@
-# Tech — harvested 2026-09-28T20:13:46.031Z
+# Tech — harvested 2026-09-29T10:54:11.629Z
 
 ## Ars Technica
+
+### Boeing "incredibly excited" to serve as nation's only astronaut transportation
+Mon, 28 Sep 2026 22:24:33 +0000 — https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/
+
+NASA announced on Monday that it will exercise options to purchase two additional flights on Boeing's Starliner spacecraft, as well as financially support the company in its efforts to return the crewed vehicle to flight and find a new rocket after the Atlas V vehicle retires. The space agency's announcement confirms reporting by Ars Technica earlier this month on NASA's plans to maintain access to low-Earth orbit after the impending retirement of SpaceX's Crew Dragon vehicle. "I do not think it's a secret that SpaceX intends to sunset older platforms like Falcon and Dragon as they concentrate on their next-generation capability, Starship," NASA Administrator Jared Isaacman said during a news conference on Monday afternoon. Read full article Comments ]]>
+
+### Experts worry about Nvidia's AI chip sales in China and influence over Trump
+Mon, 28 Sep 2026 21:49:10 +0000 — https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/
+
+On its face, the recent summit between Donald Trump and China’s president Xi Jinping didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect. However, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing controls and allowing some of its biggest AI firms to import perhaps millions more of Nvidia’s banned chips over the next year. Sources familiar with China’s talks told The Information that China’s tech oversight arm, the Ministry of Industry and Information Technology, asked Alibaba and ByteDance to share plans to buy Nvidia’s RTX Pro 5500 chips. Although these are gaming chips, China asked firms to detail how they plan to use them, with expectations that chips could be put into servers to help power the country’s most in-demand AI models. Read full article Comments ]]>
+
+### SpaceX's Starship goes orbital, deploying first next-gen Starlinks
+Mon, 28 Sep 2026 21:26:19 +0000 — https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/
+
+SpaceX's Starship rocket thundered into the sky over South Texas early Monday. It was the 14th test flight of the world's most powerful launch vehicle. This time, however, the rocket's massive upper stage squeezed out some extra oomph from its Raptor engines and accelerated to orbital velocity. On all of Starship's previous flights, SpaceX intentionally dialed back the full capability of the rocket to fly a suborbital trajectory, slow enough for Earth's gravity to pull the vehicle back into the atmosphere before it could complete a full lap around the planet. After several successful suborbital flights in a row, SpaceX officials decided this launch should go all the way to low-Earth orbit. And it did. What's more, SpaceX packed 26 of the company's newest generation of Starlink broadband satellites into the rocket's cargo bay. One by one, the flat-packed satellites —too large to fit inside SpaceX's workhorse Falcon 9 rocket —were released from Starship's payload deployer using a system of pulleys and cables to eject the satellites overboard like a Pez dispenser spits out candy. Read full article Comments ]]>
+
+### Florida invokes extinction fears in legal bid to halt OpenAI development
+Mon, 28 Sep 2026 20:49:39 +0000 — https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/
+
+The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a "reckless, unacceptably risky product" without the deployment of "third-party approved safety guardrails." The new legal motion , filed Monday morning, is part of a civil lawsuit the state of Florida originally filed in June, arguing that ChatGPT represented "a threat to the public safety of Floridians," specifically by preying on vulnerable populations like children and violent or delusional adults. But that original lawsuit came before the Hugging Face hacking incident and the subsequent publicized warnings of catastrophic misalignment risk that have spurred industry-wide calls to slow the development and training of so-called frontier models. Following that string of events, OpenAI on Friday announced it had already halted training of its "most-capable models" until it could validate safety protocols intended to prevent agents from accessing the open Internet during training. But in seeking an injunction from the state court, Florida argues that OpenAI has "repeatedly shown they are incapable of monitoring their AI, and hesitant in revealing rogue activity once discovered." Read full article Comments ]]>
+
+### New device captures carbon dioxide by pumping it across a battery
+Mon, 28 Sep 2026 20:31:06 +0000 — https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/
+
+Equipment to capture carbon dioxide from ambient air or smokestacks generally works through a sort of reversible filter. Air is passed through granules or a liquid that absorbs the CO 2 , then that CO 2 -loaded substance undergoes a process (usually heating) that causes it to let go of all that CO 2 . The resulting gas can be collected in a separated stream. It’s also possible to do a similar sort of operation on a smaller scale—like inside a battery. A new study from a team led by James Buchen of the University of Delaware demonstrates an example of a battery-based electrochemical carbon-capture technique that they say is more viable than previous attempts. It has the potential to require less energy—and therefore be cheaper—than the reversible-filter designs that currently dominate. Carbon chemistry The basic idea behind a device of this type is that hydroxide produced at the battery cathode reacts with CO 2 , converting it to carbonate or bicarbonate that passes through the separator membrane to the anode. There, the lower pH causes the reaction to reverse, with carbonate turning back into CO 2 gas. The role of the cathode is to produce hydroxide ions; the role of the anode is to consume them. Read full article Comments ]]>
 
 ### To keep drug prices high, pharma has been piling up the patents
 Mon, 28 Sep 2026 19:53:37 +0000 — https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/
 
-The cost of healthcare in general is a debilitating, pre-existing condition for Americans. But the high prices of prescription drugs usually stand out as a pain point. While there are many insidious reasons why Americans pay more—often far more—for their medicines than people in peer countries, exploitation of the US patent system is an obvious one. A study published Monday in JAMA highlights just how much patent exploitation has grown since 1990. In that time, researchers found the number of patents on small-molecule drugs have more than tripled, going from an average of 2.1 patents per drug approved in 1990 to 6.9 for those approved in 2019. Most of the growth was in "nonprimary" patents—patents that generally aren't related to a drug's active ingredient, but are instead for things like minor tweaks to a drug's non-active ingredients, updates to the way the drug is used, or the design of specialty delivery devices, such as auto-injectors. Together, those extra patents on an individual drug can create what's called a "patent thicket," which delays the release of affordable generics on the market, keeping drug prices higher for longer without actual clinical advancements. Read full article Comments ]]>
+The cost of healthcare in general is a debilitating, pre-existing condition for Americans. But the high prices of prescription drugs usually stand out as a pain point. While there are many insidious reasons why Americans pay more—often far more—for their medicines than people in peer countries, exploitation of the US patent system is an obvious one. A study published Monday in JAMA highlights just how much patent exploitation has grown since 1990. In that time, researchers found that the number of patents on small-molecule drugs has more than tripled, going from an average of 2.1 patents per drug approved in 1990 to 6.9 for those approved in 2019. Most of the growth was in "nonprimary" patents—patents that generally aren't related to a drug's active ingredient, but are instead for things like minor tweaks to a drug's nonactive ingredients, updates to the way the drug is used, or the design of specialty delivery devices, such as auto-injectors. Together, those extra patents on an individual drug can create what's called a "patent thicket," which delays the release of affordable generics on the market, keeping drug prices higher for longer without actual clinical advancements. Read full article Comments ]]>
 
 ### Trump cuts fuel economy standards back to 2014 levels
 Mon, 28 Sep 2026 19:35:51 +0000 — https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/
@@ -37,22 +62,22 @@ Mon, 28 Sep 2026 16:43:18 +0000 — https://arstechnica.com/ai/2026/09/openai-ha
 
 OpenAI says it has paused all internal training of "our most capable models" as it continues what CEO Sam Altman is calling "an extensive and ongoing review related to our agents’ use of internet access during training and evaluation." The company revealed the pause in a report about a so-called misalignment incident in which an agent attempted to exploit a gap in Internet-access restrictions during a routine research task during training. OpenAI says that improper DNS filtering allowed the agent to attempt to break out of its sandbox and access the wider Internet when asked for biographical details about a blogger. OpenAI says the agent was only able to access the company's offline web cache and that it has implemented additional multi-layered blocking controls to prevent similar incidents in the future. Despite that, though, the company says it has decided to "pause all other training, evaluation, and inference with tool-use" for this frontier model "until we have both validated that the gap is resolved and performed additional red-teaming of the system." Read full article Comments ]]>
 
-### NASA 'troubleshooting' transporter for space station's robotic arm [Updated]
-Mon, 28 Sep 2026 16:03:50 +0000 — https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/
-
-Recently, the astronauts on board the International Space Station performed a routine "walk-off" maneuver with the large, 58-foot-long robotic arm attached to the orbiting laboratory. The robotic arm, known as Canadarm2 because it was supplied by the Canadian Space Agency, is something of a modern engineering miracle—it can effectively move around the exterior of the large space station like an inchworm because both ends are essentially identical. However, after this particular walk-off maneuver, the robotic arm, along with the mobile transporter that guides it along the main truss of the space station, engineers noted some issues with operations. Read full article Comments ]]>
-
-### Microsoft goes quiet after church groups ask for 1% of data center costs
-Mon, 28 Sep 2026 11:00:09 +0000 — https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/
-
-Microsoft has spent all year telling communities that when it brings a new data center into their area, it is committed to being a “good neighbor." It will pay local property taxes that support local hospitals, schools, parks, and libraries, and it will invest in “vital services the community cares about,” the company promised. And it has sent liaisons into those communities to learn what those needs are. But ask those liaisons how much the company is willing to invest, and the answers can be hard to come by. At community meetings, Microsoft representatives have seemed unprepared to answer questions that go beyond the company's “good neighbor” campaign materials, Ars has learned. The company has acknowledged in public-facing documents that simply matching its employees’ charitable donations—which totaled $229 million across 29,000 nonprofits in 2024—isn't enough. But it has been vague about what more substantial local investments might look like. And to critics, Microsoft’s local investments seem especially small compared with the estimated hundreds of millions in state-level tax breaks that data center developers get in 38 states—exemptions that often last more than a decade. Read full article Comments ]]>
-
-### How the Smithsonian became the latest front in Trump’s culture war
-Sun, 27 Sep 2026 11:00:12 +0000 — https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/
-
-In November 2021, the Smithsonian’s National Museum of American History opened an exhibit called “The Electric Dr. Franklin,” describing “Benjamin Franklin’s pioneering contributions to electrical science.” The exhibit explained that, prior to becoming an abolitionist, he had enslaved people in his household. “Benjamin Franklin’s remarkable scientific accomplishments were, in part, enabled by slavery,” it declared. The exhibit speculated that Franklin may have used enslaved people in his electrical research. “Franklin wrote about experiments in which he took shocks and used family and friends in these ways, although he seldom identified who in particular assisted him,” stated the exhibit, which closed in 2025 but can still be found online . “Indentured servants and enslaved people in his household could also have been used, although we may never know for certain.” It was an eye-catching conjecture: one of the most revered of the Founding Fathers subjecting people held against their will to possibly painful shocks. And it was one of many details singled out for criticism in a blistering 162-page White House report released in July that argued that the museum had fallen victim to an “ideological capture” that “moved the Museum’s mission away from straightforward historical education and scholarship toward an extreme political activism that seeks to transform our country.” Read full article Comments ]]>
-
 ## The Verge
+
+### Your car’s data privacy problems are worse than you think
+2026-09-29T06:00:00-04:00 — https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford
+
+You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how aggressively you turn, and much more. The legality of this data harvesting remains hotly debated. Last year, the Federal Trade Commission penalized General Motors for illegally collecting and selling precise location and driving behavior data without informed consent. Other automakers, like Ford and Honda , have faced minor fines for making it overly difficult for customers to opt out. While industr … Read the full story at The Verge. ]]>
+
+### Nothing’s new flagship Headphone 1 Pro put you in the studio
+2026-09-28T21:00:00-04:00 — https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review
+
+The Headphone 1 Pro flagship headphones keep Nothing’s aesthetic while adding some surprises. | Photo: John Higgins / The Verge Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is the Nothing Headphone 1 Pro, the company's new $399 flagship over-ears that surprised me with everything they offer. They include what you'd expect from a pair of flagship headphones, such as active noise cancellation (ANC), multiple sound profiles, and easy-to-use controls. They also have a few things you might not: a triple-driver design, Auracast, and something I've never seen before: a Flat E … Read the full story at The Verge. ]]>
+
+### AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+2026-09-28T17:31:35-04:00 — https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal
+
+World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter of months. The startup launched its first commercial product, a world generation model called Marble that lets users make interactive 3D worlds from a prompt, in 2025 . The deal is expected to close by the end of the year. Li will become EVP and chief scientist at AMD, reporting to AMD CEO Lisa Su, while the World Labs team will "continue to focus on advancing AI model research." AMD also notes t … Read the full story at The Verge. ]]>
 
 ### Bose starts adding Auracast to its headphones
 2026-09-28T15:31:24-04:00 — https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support
@@ -89,22 +114,22 @@ In a chaotic few months, OpenAI has demonstrated it can do two things with remar
 
 Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal . In a letter to customers , Walmart CEO John Furner writes that the company's switch to digital shelf labels is meant to save store associates time, rather than dynamically change prices. "Your income, shopping history, urgency or what we think you could pay won't change the price," Furner writes. "And whether you're buying groceries or electronics on a hot afternoon or in a sudden rush for an item, it's never a reason to charge you more." Furner adds that it won't use conversations with its Sparky … Read the full story at The Verge. ]]>
 
-### Volkswagen replaces ID.4 with all-electric Tiguan
-2026-09-28T11:43:09-04:00 — https://www.theverge.com/transportation/1001418/volkswagen-replaces-id4-id-tiguan-ev
-
-In a widely expected move, Volkswagen announced Monday that it will replace the recently retired ID.4 crossover with the upcoming ID.Tiguan. The decision is an acknowledgment by the German automaker that its more recognizable nameplates like Tiguan are likely an easier sell with consumers, especially when it comes to EVs. When it lands in Europe in early 2027, the ID. Tiguan will join the ID.Polo and ID.Cross to round out Volkswagen's new-and-improved electric lineup. VW also confirmed that the ID.Tiguan will come to the US, where the ID.4 was previously manufactured, "at a later date." Design details remain under wraps, as the ID.Tiguan i … Read the full story at The Verge. ]]>
-
-### Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off
-2026-09-28T10:55:12-04:00 — https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale
-
-It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums , thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty 
-
-### Bose’s first wired earbuds in 11 years add noise canceling
-2026-09-28T10:09:44-04:00 — https://www.theverge.com/tech/1001326/bose-wired-earbuds-noise-canceling-headphones-preorder
-
-Everything old is new again as today Bose announced its first pair of wired earbuds since discontinuing the option in 2015. The new tethered earbuds, which are simply called the Bose Noise Cancelling Wired Earbuds , do away with battery anxiety and the need to remember to charge them every few days. Their functionality is limited, but they do take advantage of the past 11 years of earbud innovation with the addition of active noise canceling. The earbuds are available for preorder today through Bose's online store for $99 in three color options: black, white smoke, and a "limited edition" green shade called dewdrop mint. While a release fro … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Intel patent embeds MicroLEDs in chip packaging — technology may enable embedded optical interconnects through TGVs
+Tue, 29 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/photonics/intel-patent-embeds-microleds-in-chip-packaging-technology-may-enable-embedded-optical-interconnects-through-tgvs
+
+Intel has been granted a U.S. patent that discusses embedding MicroLEDs inside chip packaging, as TrendForce reports . The design embeds semiconductor dies fitted with MicroLEDs directly into a glass substrate and connects them using Through-Glass-Vias (TGV) to provide power and signal connections, allowing them to emit red, green, and blue (RGB) light. Intel suggests this technology could be used for diagnostic testing and to create customized light effects on the chip's surface for personalized electronics and improved aesthetic appeal. The potential for this to support optical signaling is intriguing, and likely holds significant commercial potential for Intel. Taiwanese optoelectronics firm AU Optronics has a technology roadmap that overlaps with Intel's patent, with some rumored collaboration between the pair, suggesting the two companies may be jointly developing companion technologies in this space. AUO recently showcased Micro LED optical communication at SEMICON Taiwan 2026 , with a design goal interconnect range of up to 10 meters, targeting use in AI data centers. Embedding Micro LEDs into a glass substrate could offer an alternative integration approach for co-packaged optics to Intel's previous demonstration of a co-packaged optical I/O chiplet . How Intel wants to build chips with glass In the patent, Intel describes using laser treatment and etching to create the through-holes and die cavities within the glass substrate . It would then use copper electroplating
+
+### Early Nvidia advisor says he's owed $1 billion in stock due to a 1993 vesting error, but Nvidia rejected settlement
+Tue, 29 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/big-tech/early-nvidia-advisor-says-hes-owed-usd1-billion-in-stock-due-to-vesting-error-1993-stock-options-amount-to-around-4-5-million-shares-after-splits
+
+Former Nvidia advisor Eric Gullichsen says that he is “owed a billion dollars in NVDA stock,” according to his blog post titled the same. The post says that Gullichsen, an early Nvidia Technical Advisory Board member, was granted 25,000 options in September 1993. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Re-reading the grant in 2024, he says, showed that it was meant to vest in four quarters, or a year, instead of over four years. An April 1996 CFO letter counted 15,625 vested, so 9,375 more shares should have vested too, he added. After a combined 480x in splits, this would be 4.5 million shares, or about $1.01 billion at Nvidia’s Sept. 25 close of $225.07, in line with his “about a billion dollars.” He says that he and his counsel agreed that the statute of limitations was against him, and “it seemed unlikely we’d make it past a motion to dismiss.” The option grant document provided by Gullichsen on the blog post is dated Sept. 9, 1993, with a No. 7 grant of 25,000 shares, signed for Nvidia by Huang. “All shares shall vest upon the expiration of one year from Grant Date,” which means fully vested by Sept. 9, 1994. It states 25% at three months, then quarterly, which would be four times in the year. Gullichsen also provided 
+
+### Anthropic CEO described Jensen Huang as 'kind of Trump-like' during 2022 meeting
+Tue, 29 Sep 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/anthropic-ceo-described-jensen-huang-as-kind-of-trump-like-during-2022-meeting-nvidia-ceo-reportedly-called-anthropic-executive-a-bean-counter-after-google-tpu-comparison
+
+Nvidia CEO Jensen Huang and Anthropic CEO Dario Amodei had a rocky first meeting, according to an upcoming book. Kevin Roose, the author of the forthcoming book, The AGI Chronicles, published an excerpt on X that their initial rendezvous was filled with disagreements and included some slights. The meeting, which the book says took place in May 2022 at the high-end Chinese restaurant Eight Tables in San Francisco, was to discuss Anthropic's compute needs. Apropos of Jensen/Ezra, here's a story from The AGI Chronicles about the first time Dario Amodei and Jensen met to discuss Anthropic's compute needs. Didn't go well! pic.twitter.com/KQxsHarE9y September 24, 2026 Roose writes that ahead of the dinner, Anthropic's chief compute officer, Tom Brown, had attempted to haggle for a discount on GPUs, showing Huang a spreadsheet suggesting that Tensor Processing Units from Google were, "dollar-for-dollar, a better investment than Nvidia's chips." That's when things reportedly got nasty. The book claims that Huang, angry at the comparison, called Brown a "bean counter," though an Nvidia spokesperson denied that to Roose. The dinner afterward didn't go much better. Huang reportedly talked about building the biggest data center in the world, which Amodei repeatedly pressed Huang on with various questions. Huang "just kept repeating himself," the book alleges, citing a source who saw the dinner. That led Amodei to mutter that Huang was being "kind of Trump-like." While no deal was struck 
 
 ### Early AMD 'Gorgon Halo' AI mini-PC packs 192GB RAM for an eye-watering $7,099
 Mon, 28 Sep 2026 17:20:00 +0000 — https://www.tomshardware.com/desktops/mini-pcs/early-amd-gorgon-halo-ai-mini-pc-packs-192gb-ram-for-an-eye-watering-usd7-099-super-early-bird-deal-cuts-down-price-of-gmktec-evo-x5-with-ryzen-ai-max-pro-495-by-usd425
@@ -151,22 +176,27 @@ Mon, 28 Sep 2026 15:30:00 +0000 — https://www.tomshardware.com/tech-industry/g
 
 From September 28 through October 2, you can read Tom's Hardware Premium 's AI Chip Design Week coverage for free. All you need to do is sign up for a free Tom's Hardware membership to explore our detailed coverage. Headlining the week is our interview with OpenAI hardware boss Richard Ho , who lifts the lid on everything to do with Jalapeño, the company's AI-designed inference ASIC, which made headlines earlier this year at Hot Chips 2026 . We supplement this coverage with a brief history of how AI is being used in EDA tools, the future of artificial intelligence-assisted AI designs ... and there's much more to come. Don't want to miss out on what's happening on the frontier of the semiconductor industry? Just sign up for a Tom's Hardware account, and you'll be all set to read every piece of content as it's published. Every article is crafted by our expert writers, who dig deep into everything to do with the current state of AI in the chip design ecosystem, from Premium News reports to our OpenAI interview, in-depth reports on the state of the industry, and much more. With Tom's Hardware Premium , you get detailed articles full of analysis, which offer insights that you won't ordinarily get from a shorter story. Premium Subcription: $29 Don’t miss out on Tom’s Hardware Premium. Get a full year of access for just $29 per year, or $7 per-month if you pay as you go. Get daily news analysis, deep dives into specialist topics in the semiconductor industry, as well as access to Be
 
-### You can now play Nintendo Switch games on a jailbroken PS5
-Mon, 28 Sep 2026 15:20:00 +0000 — https://www.tomshardware.com/video-games/console-gaming/you-can-now-play-nintendo-switch-games-on-a-jailbroken-ps5-early-alpha-hits-40-fps-in-lighter-titles-but-chokes-on-zelda
-
-PlayStations are traditionally where you go to play PlayStation games, but now you can also use your PS5 to play Nintendo Switch games, too. At least, you can, so long as your PS5 is jailbroken and running the right version of Sony's software. And even then, not all games work, and those that do work might still have performance issues. Backing up slightly, this whole thing is made possible by a project called ProsperoEden, which is based on the Eden open-source Nintendo Switch emulator that already works on Windows, macOS, and Linux. ProsperoEden takes that open-source base and then adapts it to work on the PS5, and while it's only available as an early alpha version right now, it does indeed work, as reported by VideoCardz . According to the project's documentation, a number of games have been tested with varying degrees of compatibility. Cuphead and Metroid Dread are said to run fine, reaching at least 40 FPS. Hollow Knight , Horizon Chase Turbo , Mario Kart 8 Deluxe , and a handful more achieve similar results. At the other end of the scale, The Legend of Zelda: Breath of the Wild is "unplayable," while Animal Crossing: New Horizons runs "with major issues" and a frame rate that sits around the nausea-inducing 15 FPS. The confusing compatibility situation can probably be put down to the fact that the emulator currently uses OpenGL, since there is no Vulkan renderer available to it. The PS5's firmware is also a variable not to be ignored. While most testing was done on a P
-
-### Testing two Thunderbolt 5 docks with M.2 storage — VectoTech V-Core vs Orico TB5
-Mon, 28 Sep 2026 15:00:00 +0000 — https://www.tomshardware.com/peripherals/docking-stations-hubs/testing-thunderbolt-5-docks-vectotech-v-core-vs-orico-tb5-thunderbolt-5-dock
-
-The Thunderbolt 5 market is starting to heat up, as we’re seeing more players enter the increasingly crowded field. We’ve previously looked at docks in the sub-$400 price category , and premium offerings crossing the $600 barrier . Today, we’re focusing on two new entries in the sub-$400 category: the VectoTech V-Core and the Orico TB5, priced at $349 and $399, respectively. Both offer a wealth of USB and Thunderbolt ports, 2.5 GbE Ethernet, and internal M.2 slots. While their specs look similar on paper, at the end of our testing, there was a clear winner. VectoTech V-Core Design of the VectoTech V-Core Thunderbolt 5 Dock The V-Core has what I’d call a traditional, candybar form factor. It’s meant to sit flat on your desk, unlike chunkier docks that can also operate vertically. At first glance, I thought the V-Core was made of lightweight aluminum. However, it wasn’t until I started fumbling around, trying to figure out how to access the internal M.2 SSD slot, that I discovered the unfortunate truth: the V-Core is constructed almost entirely of plastic. That includes the lower and top chassis, and much of the internal structure. Tom's Hardware Tom's Hardware It’s a stark departure from every other Thunderbolt dock that I’ve tested, which are made from aluminum to help dissipate heat – which can be intense when a dock is under load. In addition, the top cover wiggled around when snapped into place (it uses a friction fit to attach to the main chassis). With the top cover remo
-
-### Virginia Tech lab 3D prints a liquid metal composite to guide heat, boost thermal conductivity 40x
-Mon, 28 Sep 2026 14:45:00 +0000 — https://www.tomshardware.com/3d-printing/virginia-tech-lab-3d-prints-a-liquid-metal-composite-to-guide-heat-boost-thermal-conductivity-40x-the-nozzle-stretches-gallium-indium-droplets-inside-soft-silicone-can-also-create-self-healing-traces
-
-Virginia Tech graduate student Hugh Grennan mixed eutectic gallium-indium (EGaIn) into uncured polydimethylsiloxane (PDMS) silicone in a “3D Printing LIQUID METAL!” video on the 3D Printing Nerd YouTube channel hosted by Joel Telling. He cast a slab of the mixture, pressed a line into it to light an LED, sliced that line with a razor blade to show it still conducted, and then printed the same material on a syringe-fed printer to guide heat rather than electricity. The metal is eutectic gallium-indium, which Grennan described as “about three parts gallium, one part indium” that, once mixed, is “liquid at room temperature.” The lab’s website says the droplets give the composite “soft elasticity” and “extreme toughness,” along with “autonomously self-healing electrical circuits.” The metal is mixed into the uncured PDMS, which breaks it into separate droplets, each wrapped in a thin gallium oxide skin. About an hour in an oven turns the silicone from a gel into a solid, but the droplets inside stay liquid. The droplets are “on the order of 10 to 100 microns in diameter,” Grennan said in the video. The video was filmed at VT MADE, the university’s “New Center for Advanced Manufacturing,” a group of labs that includes the Soft Materials and Structures Lab where Grennan works. The printer is a syringe-fed machine built so the lab can load the composite and print straight from the syringe, Grennan said. Droplet shape is determined by a setting that controls the ratio of how fast the
-
 ## Phoronix
+
+### Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4
+Tue, 29 Sep 2026 06:30:23 -0400 — https://www.phoronix.com/news/FUSE-Large-Folios
+
+Following the FUSE improvements in Linux 7.3 for file-systems in user-space, it looks like the upcoming Linux 7.4 kernel will be ready to enable the large folios feature...
+
+### Igalia Improving The Firefox Experience For Valve s Steam Deck
+Tue, 29 Sep 2026 06:15:26 -0400 — https://www.phoronix.com/news/Steam-Deck-Better-Firefox
+
+The Igalia consulting firm working with Valve is aiming to improve the Firefox web browsing experience when running on the Steam Deck handheld Linux-powered device...
+
+### AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux
+Tue, 29 Sep 2026 05:59:57 -0400 — https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning
+
+AMD engineers continue to prepare for upcoming Zen 6 powered Ryzen client processors on Linux...
+
+### "Shiva" Being Developed For Mesa Vulkan Drivers, Akin To Gallium3D
+Mon, 28 Sep 2026 20:32:08 -0400 — https://www.phoronix.com/news/Mesa-Shiva-For-Vulkan
+
+Shiva is entering development for Mesa Vulkan drivers as a new framework akin to Gallium3D but for Vulkan drivers rather than OpenGL. It's going to be some time before the work will come to fruition but should hopefully lead to more code sharing and a better Mesa Vulkan driver development experience in the future...
 
 ### NVIDIA Developing "Display Config Server" To Improve Linux/Wayland On Display Walls
 Mon, 28 Sep 2026 15:22:08 -0400 — https://www.phoronix.com/news/NVIDIA-Display-Config-Server
@@ -208,151 +238,171 @@ Mon, 28 Sep 2026 06:20:22 -0400 — https://www.phoronix.com/news/openSUSE-Leap-
 
 The release candidate phase has begun for the upcoming openSUSE Leap 16.1 in-step with SUSE Linux Enterprise Server 16.1. Most notable with the openSUSE Leap 16.1 is the introduction of its new immutable mode...
 
-### Linux 7.4 To Introduce The Steal Governor For Helping Virtualized Workloads
-Mon, 28 Sep 2026 06:12:53 -0400 — https://www.phoronix.com/news/Linux-7.4-Land-Steal-Governor
-
-Now queued up for introduction in the Linux 7.4 merge window later in October is the steal governor driver for preferred CPUs and steal-driven vCPU backoff for today's virtualized world...
-
-### Shotcut 26.9 Video Editor Brings UI Improvements, Automatic Audio Ducking
-Mon, 28 Sep 2026 05:44:50 -0400 — https://www.phoronix.com/news/Shotcut-26.9
-
-Following the earlier Shotcut 26.9 beta at the beginning of September, the open-source developers behind the open-source non-linear video editor are out with the Shotcut 26.9 stable release...
-
-### Linux 7.3-rc5 Released: "Another Week, Another Large RC"
-Sun, 27 Sep 2026 17:17:21 -0400 — https://www.phoronix.com/news/Linux-7.3-rc5-Released
-
-In working toward the stable Linux 7.3 kernel release hopefully on 18 October, out today is Linux 7.3-rc5 as the newest weekly test candidate...
-
-### Budgie 10.10.3 Released With Favorites In Budgie Menu, Labwc Bridge Improvements
-Sun, 27 Sep 2026 13:37:07 -0400 — https://www.phoronix.com/news/Budgie-10.10.3-Released
-
-Budgie 10.10.3 is out today as the newest point release to this open-source desktop...
-
 ## The Register
+
+### Redmond to millions of Power BI users: You’re Fabric app devs now
+Tue, 29 Sep 2026 12:00:00 +0200 — https://www.theregister.com/applications/2026/09/29/redmond-to-millions-of-power-bi-users-youre-fabric-app-devs-now/5299552
+
+Microsoft is pushing its data analytics and engineering environment to a new set of commercial users that are an “order of magnitude” greater than its current base. Power BI has become a popular biz intelligence system - with more than 425,000 customers worldwide - particularly among customers of the Microsoft Dynamics application portfolio. Now, Microsoft execs are trying to exploit this penetration by offering Power BI customers high-end database services and app building tools available on its Fabric data analytics and engineering platform. Customers who license Power BI Pro and Power BI Premium Per User will get Fabric Apps and Fabric Database capabilities (up to 1GB per app), along with security, at no additional cost. Microsoft argues that the Apps customers are building in Fabric can be ported to Power BI without much additional work or cost. Arun Ulag, exec veep at Microsoft, told The Register: “We have 40,000 Fabric customers today. Power BI is an order of magnitude larger, with 425,000 customers: organizations, not individuals. The usage of Power BI exceeds 35 million business users every month,” he said. Microsoft is now offering this user base the ability to build data analytics-style apps using Rayfin, an open source SDK. The company says Rafin will let users create their own data applications that accept inputs, write back data, preserve shared state, and support operational workflows across to Fabric. Each application gets a 1GB Fabric SQL database, authenticat
+
+### What eldritch horror lurks behind Heathrow's information screens?
+Tue, 29 Sep 2026 11:15:00 +0200 — https://www.theregister.com/offbeat/2026/09/29/what-eldritch-horror-lurks-behind-heathrows-information-screens/5299358
+
+Airport departure boards are supposed to tell passengers where and when their flights will leave. Recent examples spotted by eagle-eyed Reg readers have offered some bonus information: a Windows activation reminder, dates from the past, and a glimpse of what appears to be Windows 7 beneath the signage software. Airport borks, it seems, are like buses: three have arrived in quick succession at Heathrow. The first display shows a Windows activation watermark behind a list of departures to glamorous destinations. Milan? How lovely. Cairo? A place to ponder culture and millennia-old construction techniques. Activate Windows? OK, not quite so lovely. Perhaps the destination board had simply embarked on a journey of self-discovery. But at least the date was correct, right? Er, wrong. Time might be moving forward for the rest of the world, but at Heathrow it appears to be going backward. Perhaps heading to a time when air traffic control wasn't beset by problems and air travel didn't involve increasingly performative security protocols that differ country by country. Our second serving of signage silage shows one page dated September 21 and another stuck on September 12. A number switcheroo? A window into the past? Or simply a display that had stopped receiving updates? Alas, things became more unsettling a few days later when another Heathrow screen revealed the eldritch horror lurking beneath the departures display. Is that... Windows 7? The network dialog looks an awful lot like 
+
+### HMRC bets up to £2.4B on Salesforce for taxpayer CRM overhaul
+Tue, 29 Sep 2026 10:30:00 +0200 — https://www.theregister.com/public-sector/2026/09/29/hmrc-bets-up-to-24b-on-salesforce-for-taxpayer-crm-overhaul/5299389
+
+Salesforce has won a contract worth up to £2.4 billion including VAT to provide the UK tax collector with CRM software and related services for at least ten years. HM Revenue & Customs (HMRC) selected Salesforce to supply a software-as-a-service CRM platform and related capabilities including customer and case management, marketing campaigns, messaging, reporting, analytics, and AI. Additional functions, including identity verification, fraud detection, and data integration, may be supplied by third parties. The contract runs until September 2036, with extensions of up to five years potentially taking it to 2041. The contract award notice says HMRC received two final bids. Salesforce beat Pegasystems, better known as Pega, whose platform also combines low-code development, automation, and AI. HMRC initially estimated the procurement at £1 billion during preliminary market engagement in April 2025. The subsequent tender put its potential 15-year value at £2 billion excluding VAT, or £2.4 billion including it. That notice said the new CRM system would need to "seamlessly integrate with [the] updated customer service platforms, including the future Contact Centre as a Service (CCaaS) … directly enhancing taxpayer interactions, streamlining services, and reducing administrative burdens." The Salesforce award forms part of a broader overhaul of HMRC's customer-facing technology. In April, the department awarded Capgemini a contact-center-as-a-service contract worth up to £600 mill
+
+### Which copy of the file is the real one?
+Tue, 29 Sep 2026 10:00:00 +0200 — https://www.theregister.com/storage/2026/09/29/sponsored-which-copy-of-the-file-is-the-real-one/5299556
+
+EVENT: Somewhere in your organisation right now, somebody is trying to work out which of four copies of a file is the current one. They will probably get it right, after twenty minutes and a message to a colleague in another time zone, and nobody will log the twenty minutes. That is what it costs to run distributed teams on file infrastructure built for an office, and most organisations have stopped noticing. The NAS is still there. So is the VPN, and so is the habit of downloading a file to work on it and syncing it back later, which arrived with the first remote worker and never left. None of it fails outright. The bill turns up somewhere else, as duplicated storage, as time spent waiting, and as a security review that finds one file in three places with three different sets of permissions. The Register is putting that problem to a dinner in Soho on Tuesday 20 October. Joe Fay of The Register chairs. Rupert Watson, VP GTM for EMEA at LucidLink, joins the conversation. It runs under the Chatham House Rule, so what is said can be used and who said it cannot, and the chair’s job includes stopping anyone who starts to pitch. What makes an evening like this useful is the detail people only share in private. The workaround a team adopted the week the office emptied and has been paying for ever since, for instance, and what they did about it once somebody added up the cost. Nobody says that on a recorded webinar. The questions for the table: how organisations are handling the grow
+
+### Fresh CSS constructs move web design beyond ticky-tacky little boxes
+Tue, 29 Sep 2026 08:32:00 +0200 — https://www.theregister.com/devops/2026/09/29/fresh-css-constructs-move-web-design-beyond-ticky-tacky-little-boxes/5299614
+
+The World Wide Web’s decades-long tyranny of box design is finally coming to an end. A new set of CSS features – including the shape() function, and the border-shape and corner-shape properties – offers web designers and their AI agents a broader palette for laying out content in a more fluid manner. When the World Wide Web Consortium (W3C) published its first standard for web page layout in 1996, web sites emulated the grid-defined layouts of academic papers, newspapers, and magazines. At the time, graphics drivers, and browser rendering engines were all in a relatively primitive state. Developers were also trying to grapple with a new medium and generally found that flowing text within a defined space was much easier when the geometric coordinates of that space were kept as simple as possible. But now print is basically dead, webdevs are savvier (and if not, AI is happy to help), and Lord knows GPUs are more powerful. So there's no reason today why a web page has to be square, daddy-o. In Edwin A. Abbott's 1884 proto-Sci-Fi classic Flatland: A Romance of Many Dimensions, the protagonist who lives in flat two-dimensional space is abruptly exposed to the dizzying world of three dimensions, much to his astonishment. Web developers may experience similar emotions when they first use these new CSS constructs. Dev’s choice: vertical or horizontal In their original forms, HTML and CSS could draw only horizontal or vertical lines or borders on a Web page. Fancier layouts required p
+
+### Google ending ChromeOS support two years early
+Tue, 29 Sep 2026 06:55:35 +0200 — https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674
+
+Google’s basic mathematical skills appear a little fragile, after the company revealed its promise of ten years of support for new Chromebooks will only last for eight years. The web giant’s calculation problem appeared in a support document titled “What the Googlebook announcement means for your ChromeOS devices.” Googlebooks are the big G’s replacement for Chromebooks, the web-centric computers it launched in 2011 and which run ChromeOS. Chromebooks have won plenty of admirers in the education sector, especially schools which see them as a fine way to get decent and well-priced computers into kids’ hands without having to take on the burden of managing a full OS. The newer Googlebook range uses more powerful processors than their predecessors, plus a new OS called Googlebook OS that bakes in Google’s Gemini AI – a product the Chocolate Factory is very keen to see succeed as the great AI land grab continues. Google has so far launched Googlebooks only for consumers. None of the web giant’s five current Googlebook hardware partners designed their first models for the education market or other fleet buyers. Those five, and many other OEMs, continue to crank out Chromebooks. Google’s support policy for Chromebooks includes ten years of updates. However the support document states that if you buy a Chromebook today, updates will end in 2034 – eight years into the future, not a decade. “For qualifying devices purchased today whose 10-year support lifecycle extends beyond 2034, Go
+
+### OpenAI’s dirty deeds Down Under included security bypass attempts, using exposed keys, source code siphon
+Tue, 29 Sep 2026 04:13:51 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/openais-dirty-deeds-down-under-included-security-bypass-attempts-using-exposed-keys-source-code-siphon/5299666
+
+OpenAI has detailed the extent of the dirty deeds its agents indulged in Down Under in a Tuesday blog post titled How we will do better for Australia, which addresses last week’s news that one of its models improperly accessed a website that stores data related to national health scheme Medicare. “Our models accessed Australian government websites in ways they were not authorised to,” the post opens. “We also should have handled our response better. We are sorry and working to do better in the future.” The post offers some new detail on the Medicare incident, saying that it involved “an experimental, internal-only OpenAI model that was not intended for public release and without the full set of safeguards used in our publicly available products.” OpenAI gave the model the job of researching government spending per person on medicines for skin conditions in one Australian state. “The model had difficulty obtaining that information, and it took actions that we had not authorised it to take,” OpenAI admitted. “In the course of looking for this information at Services Australia’s Medicare Statistics Reporting Service, it discovered a way to gain non-public access to the service. It then used this access to review technical system information and source code related to the service – all still with the objective of trying to find the information it was originally looking for.” The Register last week asked OpenAI if the company conducted the tests itself or used a partner. The compa
+
+### AMD bets $8.2B that worlds matter more than words in AI
+Tue, 29 Sep 2026 00:01:33 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/amd-bets-82b-that-worlds-matter-more-than-words-in-ai/5299609
+
+AMD dove deeper into AI model development on Monday with an agreement to acquire Fei-Fei Li's World Labs in a deal valued at approximately $8.2 billion. The House of Zen claims the all-stock deal is expected to close by year's end pending regulatory approval, and will guide the development of future AI hardware, software, and systems. "Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving," AMD CEO Lisa Su said in a canned statement. Founded in early 2024, San Francisco-based World Labs has focused its efforts on developing spatial-intelligence models often referred to as "world models," which have applications beyond machine intelligence in adjacent fields like robotics. These models are based on a fundamentally different approach to artificial intelligence than LLMs, and work by generating, reconstructing, and simulating 3D environments from text, image, and video inputs. Put another way, rather than predicting what sequence of words comes next, world models work by imagining the environment and working through the problem that way. This approach to AI has gained momentum in recent years with major proponents of the tech including former Meta chief AI scientist Yann LeCun. As part of the deal, World Labs will continue its work on advanced AI models, while Li will join AMD as executive vice president and chief scientist reporting directly to CEO Lisa Su. "Joining AMD will give our team the resources and engineer
+
+### AWS needs to embrace its place as the Home Depot of AI infrastructure
+Mon, 28 Sep 2026 23:05:00 +0200 — https://www.theregister.com/paas-and-iaas/2026/09/28/aws-needs-to-embrace-its-place-as-the-home-depot-of-ai-infrastructure/5299602
+
+Historically, building an application on top of AWS felt less like buying well-thought-out products, and more like a trip to Home Depot. This was great in an era before we had computers that would handle the "bolting all the parts together for us" parts, but increasingly it's starting to feel a lot more dated. Today, you can use Railway, Vercel (itself a platform built atop AWS), CloudFlare, and a host of other next-generation providers who will no doubt attempt to show up self promotionally in the comments. The thing these new platforms have in common is pretty basic. They don't have the legacy baggage of having to support AWS customers accrued over the past twenty years. What they do have is a customer-forward philosophy that doesn't require customers to prove themselves worthy of using their product first. Institutional arrogance From where I sit, there's almost been a sense of institutional arrogance in AWS' view of the market, of the form "we're AWS, obviously customers will choose us." A recent testimonial on their site cites a YC founder saying "For startups of a certain scale, all roads lead to a hyperscaler like AWS." Note there's some selection bias at play: this is a quote on the AWS site itself, from a vendor whose product is explicitly aimed at making AWS easier to live with. There's clearly a baked-in sense of "we have a right to win here," which means they're in for one heck of a bad day when reality comes crashing in. AWS has shown a track record of missing br
+
+### JadePuffer crims hijacked Azure identities and used them to blow up cloud resources
+Mon, 28 Sep 2026 22:30:00 +0200 — https://www.theregister.com/security/2026/09/28/jadepuffer-crims-hijacked-azure-identities-and-used-them-to-blow-up-cloud-resources/5299591
+
+The cyber criminal behind JadePuffer, the first known agentic ransomware infection reported over the summer, has also used stolen Azure identities to conduct destructive attacks on cloud storage and other resources, according to Microsoft. In July, Sysdig threat hunters uncovered JadePuffer, the first-ever documented agentic ransomware infection in which an LLM drove the entire extortion operation, from gaining initial access to compromising a production database server and destroying data. Now Redmond says that it has detected the same attacker, which it tracks as Storm-3168, up to new mischief. Over an 18-hour period in early June, Storm-3168 compromised two service principals and used these machine identities for “extensive Azure-focused resource destruction” and “cloud credential collection that could be used to facilitate future exfiltration,” researchers Yossi Weizman and Tushar Mudi wrote on Friday. The two compromised service principals belonged to the same cloud tenant. The crims used one of them to conduct reconnaissance and resource discovery, and the other to carry out destructive operations and credential collection. The Redmond researchers don’t know how Storm-3168 initially hijacked the service principals, but noted that an employee of the same organization previously exposed client IDs, client secrets, and tenant IDs in plaintext in a public GitHub issue. “Since the beginning of this year, we also observed repeated probing from Storm-3168 linked infrastructure
+
+### OpenAI GPT-6 Astra really good at supply chain attacks, UK gov warns
+Mon, 28 Sep 2026 21:44:34 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/openai-gpt-6-astra-really-good-at-supply-chain-attacks-uk-gov-warns/5299588
+
+Another LLM has joined the hacking fray. OpenAI's GPT-6 Astra has been spotted performing unsolicited supply chain attacks during security evaluations, according to the UK Artificial Intelligence Security Institute. In such simulations, the model has its standard security classifiers turned off. Nonetheless, Astra was seen attempting undesirable actions more frequently than prior models. "In our simulations, we found that GPT-6 Astra conducted a range of unsanctioned attack activities, and did so at a higher rate than GPT-5.6 Sol and GPT-5.5," the UK government agency said on Monday. "Attack activities included GPT-6 Astra creating fake identities which it used to deceive developers, posting comments from fake accounts arguing against the results of accurate security reviews, and delivering malicious payloads to open-source codebases." Even when the model's cyber evaluation instructions were clarified, Astra still sometimes conducted supply chain attacks during the simulation. This finding calls into question OpenAI's assurance when it launched GPT-6 Astra that "Astra causes fewer misaligned outcomes than any other frontier models tested." AISI speculates that Astra's behavior may be driven by greater awareness of the fact that it's in a simulation environment, making the model more likely to break rules. Such rule breaking appears to be the norm. Over the past few days, various reports have suggested that AI agents from OpenAI and Anthropic have been causing security inciden
 
 ### French dev aims to solve bots' blindness so they can understand GUIs
 Mon, 28 Sep 2026 20:19:40 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/french-dev-aims-to-solve-bots-blindness-so-they-can-understand-guis/5299575
 
 Most LLMs are great at answering prompts, but fall short when it comes to navigating around the desktop in Windows or Linux. French AI model dev H unveiled a pair of computer use models on Monday aimed at handling graphical user interfaces (GUIs). Throughout computing history, computer use largely falls into three categories: command line interfaces (CLIs), application programming interfaces (APIs), and GUIs. AI agents can easily plug into the first two, but navigating desktop environments and applications that often prioritize form before function remains an ongoing challenge. H's Holo 4 family of models aims to address this challenge by enabling relatively small but capable models to tackle all three computer use scenarios including pointing, clicking, scrolling, and typing their way through graphical interfaces originally meant for us meatbags. Fine tuned using supervised training and reinforcement learning, Holo 4 is built atop Alibaba's Qwen 3.8 27B and Qwen 3.6 35B-A3B models. And by optimizing for CLIs, APIs, and GUIs, H claims that its models achieve far greater versatility than pure computer use models might otherwise. Alongside Holo 4, H has also updated its Holotron model, which is based on Nvidia's Nemotron 3, with similar capabilities. In one example, the company showed Holo 4 27B taking advantage of FreeCAD's macro function to programmatically design a 3D model of the Eiffel Tower rather than manually building it using primitives like cubes. In another demo, H d
 
-### How many times are you paying for the same file?
-Mon, 28 Sep 2026 18:45:00 +0200 — https://www.theregister.com/storage/2026/09/28/sponsored-how-many-times-are-you-paying-for-the-same-file/5299562
-
-EVENT: Count the copies. The one on the NAS. The one somebody pulled over the VPN to work on at home. The one in the sync folder, which may or may not still match the one on the NAS. The one attached to an email because the sync was slow that morning. Four copies of one file, four places paying to store it, and one person, eventually, working out which is current. That is the cost most organizations have stopped noticing. Distributed teams produce more unstructured file data than ever, and most of them reach it through infrastructure designed for an office. It rarely fails outright. The bill turns up somewhere else, as duplicated storage and time spent waiting, and as a security review that finds one file in three places with three different sets of permissions. That is the problem The Register is putting to a dinner in New York on Tuesday 27 October. Joe Fay of The Register chairs. Holly Bossert, Commercial Sales US at LucidLink, joins the conversation. It runs under the Chatham House Rule, so what is said can be used and who said it cannot, and the chair’s job includes stopping anyone who starts to pitch. The point of the evening is not the architecture diagram. It is the specific: the workaround a team adopted the week the office emptied and never replaced, and what it has cost since. That gets said across a dinner table. It does not get said on a recorded webinar. On the table: handling the growth in unstructured data, supporting distributed teams without paying for the s
-
-### Microsoft's Copilot super app comes with a meter attached
-Mon, 28 Sep 2026 17:36:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/microsofts-copilot-super-app-comes-with-a-meter-attached/5299515
-
-Microsoft has unveiled its shiny new Copilot super app alongside an “evolved” pricing model to go with it, which means that customers will keep paying for a subscription and then cough up more when they want the really clever stuff. The company outlined the changes alongside its expanded vision for Copilot, which is being turned into a single AI work hub spanning chat, Office apps, coding, and increasingly autonomous agents. Microsoft calls the new pricing setup a combination of a User Subscription License (USL), charged per user per month, and Usage-Based Billing (UBB), which charges according to how much work Copilot does. The regular subscription pays for what Microsoft calls “Everyday AI.” That's Copilot Chat, plus Copilot in Word, Excel, PowerPoint, Outlook, and Teams. Users can pick which model they want, or leave it to Auto, which chooses based on accuracy, speed, and cost. Then there's “Advanced AI.” Customers wanting Copilot to get stuck into more compute-hungry agentic work will also need usage-based billing (UBB). Microsoft says that this includes Cowork, Code, Autopilot, new agentic experiences in SharePoint, and frontier models including Astra and Fable. Crucially, those UBB charges are on top of the user subscription, not an alternative to it. The meter itself isn't entirely new. Microsoft has already used consumption-based pricing for some AI services, including Cowork, and Copilot Credits provide the common currency for eligible services billed by usage. What'
-
-### Dutch government turns to NixOS for a sovereign desktop
-Mon, 28 Sep 2026 17:05:54 +0200 — https://www.theregister.com/os-platforms/2026/09/28/dutch-government-turns-to-nixos-for-a-sovereign-desktop/5299501
-
-The Dutch government is backing an effort to build a FOSS workplace for public administration, including a desktop operating system based on NixOS. The DAWO Project has been gestating for some months, but it just got a lot more visible thanks to an in-depth report on Dutch tech news site Tweakers.net. DAWO stands for "Digitaal Autonome Werkomgeving Overheid," or "Digital Autonomous Government Work Environment." Rather than a single product, its blueprint combines replaceable components for the operating system, cloud infrastructure, AI, communications, and collaborative working. Development remains at an early stage, but small-scale pilots are already under way within Dutch public bodies. The work acquired official status in July, when the Dutch government's ICBR – the Interdepartmental Committee on Government Operations – commissioned three government IT providers to develop a standardized, more sovereign digital workplace: DICTU, SSC-ICT and the ICT division of DUO, the Education Executive Agency. The wider blueprint comes from the Ministry of the Interior and Kingdom Relations, or BZK. Its components include MijnBureau, a self-hosted workplace suite built from projects including Nextcloud, Collabora, Element and OpenProject. The MijnBureau developers are also collaborating with France's La Suite and aligning their work with Germany's openDesk. Regular Register readers will probably recognize the name openDesk: it's featured in several recent stories. OpenDesk is the suite 
-
-### Europe's AI ambitions rest on somebody else's supply chain
-Mon, 28 Sep 2026 16:16:28 +0200 — https://www.theregister.com/systems/2026/09/28/europes-ai-ambitions-rest-on-somebody-elses-supply-chain/5299486
-
-Europe is one of the world's largest markets for AI datacenter infrastructure, but its own local companies capture only a fraction of the value, because overseas suppliers dominate chips, servers, and cloud infrastructure. According to the Global Electronics Association (GEA), EU-headquartered companies account for only six percent of the bloc's datacenter semiconductor market, seven percent of server manufacturing and assembly, and eight percent of cloud infrastructure. Its report, "From Chips to Systems: Building an End-to-End EU Strategy for Data Centre, Cloud Infrastructure and AI," says that Europe's Cloud and AI Development Act (CADA) aims to at least triple the bloc's datacenter capacity within five to seven years. The association argues that Europe needs policies to develop its own industrial ecosystem and capture more of the "unprecedented demand for servers, electronic systems and semiconductor components" CADA is expected to stimulate. Europe has fallen behind other regions in much of the electronics supply chain. Taiwan dominates contract chip manufacturing and produces most of the world's leading-edge processors, many of them designed by American companies, while South Korean and US suppliers dominate the memory market. Most major server makers are American, with China's Lenovo a notable exception. US companies also dominate networking and storage, leaving Europe with few large suppliers of its own. The report recommends that the EU pursue an end-to-end strategy 
-
-### OpenAI agents went the long way round for UN data
-Mon, 28 Sep 2026 15:31:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/openai-agents-went-the-long-way-round-for-un-data/5299452
-
-OpenAI agents apparently spent two months hammering a United Nations (UN) data API, trying increasingly creative ways to bypass the barriers they encountered. Researcher Rowan H-J uncovered the activity by analyzing roughly 16,500 scans of the UN Conference on Trade and Development's UNCTADstat API recorded between April 13 and June 19, 2026. Rowan claims it’s "highly likely" the traffic came from OpenAI agents, based on links to previously documented OpenAI "wiki swarms," overlapping Azure IP addresses, and payloads carrying labels including “CHATGPTTEST1” and “OAI_META_1312.” OpenAI told The Register it is looking into the findings, though it stopped short of explicitly confirming that its agents were responsible for the activity Rowan documented. "We're aware of reports of OpenAI models accessing publicly available information from the United Nations Conference on Trade and Development's Data Hub," an OpenAI spokesperson told us. "We're reviewing these findings and have reached out to the UN to offer a briefing with the team conducting that review." The spokesperson pointed to OpenAI's previously announced review of what it calls "misaligned model activity," saying most of the behavior examined so far involved routine research, including accessing public websites to answer questions. "Some involved government websites because our models often turn to them as authoritative sources of public information," the spokesperson added. Assuming the researcher is right, the interest
-
-### Microsoft tells nonprofits their deleted M365 data isn't coming back
-Mon, 28 Sep 2026 14:55:00 +0200 — https://www.theregister.com/saas/2026/09/28/microsoft-tells-nonprofits-their-deleted-m365-data-isnt-coming-back/5299433
-
-Microsoft accidentally wiped some nonprofit customers' M365 data before their retention period expired – and now says it cannot tell them what disappeared, or even whether they lost anything. The cockup followed Microsoft's retirement of its Microsoft 365 Business Premium grant, which gave eligible nonprofits ten free licenses for the productivity suite. Microsoft announced in May 2025 that the grant would not renew after July 1 that year. It offered eligible nonprofits up to 300 free Microsoft 365 Business Basic licenses, alongside discounted pricing for plans including Business Premium. The company urged customers to move users onto another nonprofit plan before cancellation to avoid disruption or data loss. Organizations could also export anything they did not intend to retain in Microsoft 365. The problem arose after the subscriptions were deactivated. In an email to one affected customer seen by The Register, Microsoft admitted that, "due to an error," it had deleted remaining data before the retention and export window closed. Attempts to recover it had failed. "We have now investigated the recovery options, but unfortunately, the data cannot be recovered," Microsoft said. Redmond cannot determine what disappeared either. The company said it was "currently unable to provide a list showing which data may have been deleted or whether any data was deleted at all." It could say only that the problem involved expired Business Premium subscriptions. Microsoft confirmed the pr
-
-### Ex-soldier's telecom hacking spree earns him 70 months
-Mon, 28 Sep 2026 14:25:00 +0200 — https://www.theregister.com/cyber-crime/2026/09/28/ex-soldiers-telecom-hacking-spree-earns-him-70-months/5299440
-
-A former US Army soldier has been sentenced to 70 months in prison for hacking telecoms companies, stealing sensitive records, and trying to extort more than $1 million from his victims. Cameron John Wagenius, 22, carried out the campaign while serving on active duty. He pleaded guilty in March 2025 to unlawfully transferring confidential phone records, then admitted conspiracy to commit wire fraud, computer-related extortion, and aggravated identity theft in a separate case that July. Court documents say Wagenius conspired with three others to obtain credentials for the protected networks of at least ten organizations between April 2023 and December 2024. During that period, he was stationed in South Korea and Texas. The Justice Department has not publicly identified the victims, describing them as US and overseas telecommunications companies and other organizations. Wagenius has also been linked to the 2024 Snowflake extortion campaign, which affected AT&T, Verizon, and numerous other companies, as The Register previously reported. After two suspects were arrested in connection with the Snowflake attacks, an account controlled by Wagenius claimed to possess AT&T call records belonging to Donald Trump and Kamala Harris. Using online aliases including "kiberphant0m," Wagenius and his co-conspirators obtained login credentials with a hacking tool he helped develop called SSH Brute, among other methods. They exchanged stolen credentials in Telegram group chats and discussed usi
-
-### UK government vows to reclaim services from outsourcing giants
-Mon, 28 Sep 2026 13:55:15 +0200 — https://www.theregister.com/public-sector/2026/09/28/uk-government-vows-to-reclaim-services-from-outsourcing-giants/5299446
-
-The UK government is setting up a new unit it promises will "bring forward the biggest wave of insourcing in a generation." Government outsourcing has long attracted criticism over value for money and service quality, with technology-heavy business processes among the contracts coming under scrutiny. The government said the new unit, based within the Office for the Prime Minister and Cabinet, would "coordinate departmental insourcing activity, unblock barriers to delivery and identify cross-government opportunities to maximize value for money and restore direct operational accountability." The unit will consider bringing critical service contracts back in-house and work alongside the recently announced Public Interest Test, which applies to most central government service contracts worth at least £1 million. The test requires departments to consider factors beyond short-term price, including service quality and public value. The unit is also expected to help reduce spending on consultants and professional services by building capability within the Civil Service. One early candidate is the Cabinet Office's building management work, including cleaning and security, which the government says it will consider bringing in-house when existing contracts end in 2028. The case for insourcing has gained urgency in Whitehall following the disastrous start to Capita's contract to administer the Civil Service Pension Scheme (CSPS). The UK outsourcing company won the seven-year, £239 milli
-
-### Ofcom pulls the plug on Openreach's aggressive fiber discount
-Mon, 28 Sep 2026 13:02:54 +0200 — https://www.theregister.com/networks/2026/09/28/ofcom-pulls-the-plug-on-openreachs-aggressive-fiber-discount/5299427
-
-Ofcom has blocked an Openreach discount for bringing customers onto its fiber network, warning that rivals might be unable to match the price and recover their costs. The "Incremental New to Openreach Customer Offer" was one of several pricing changes due to take effect on October 1. It is the first Openreach commercial offer the regulator has rejected; the others can proceed. Openreach, BT's functionally separate network division and Britain's largest fixed-line infrastructure provider, notified Ofcom of the pricing plans in June. The rejected offer would have rewarded internet service providers (ISPs) for connecting more new fiber-to-the-premises (FTTP) customers to Openreach than an agreed baseline. Ofcom provisionally decided to block the offer in July and consulted the industry. It has now made that decision permanent. The watchdog concluded that the charges were "not fair and reasonable" because a reasonably efficient rival might be unable to match them while recovering its costs. It was particularly concerned about alternative network operators, or altnets, which need to attract customers to grow and compete with Openreach. Openreach proposed a £35 connection discount and a monthly reduction of up to £9.50 for as long as 30 months, applying only to customers above each ISP's normal level of new Openreach signups. Ofcom said the scale and targeting of the discount could impede altnets' efforts to build their customer bases. Ofcom allowed Openreach's other proposed disco
-
-### Jev is rapidly rising to challenge the LLM for enterprise AI supremacy
-Mon, 28 Sep 2026 12:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/28/jev-is-rapidly-rising-to-challenge-the-llm-for-enterprise-ai-supremacy/5299260
-
-As AI is reshaping the tech world, so it in turn waits for something greater to come along and reshape it, and that unstoppable force might just be TypeSafe AI's new model, Jev. You can listen to the latest episode of The Kettle on this page, Spotify, Apple Podcasts, or YouTube. You can also subscribe on those platforms to be notified when a new episode goes live. Jev's not chatty, it doesn't want to tell you a story, and it won't really do much besides answering multiple choice, ranking, and binary yes/no questions to a degree of probability, but in lots of cases that's probably all you need from an AI. Jev is also dirt cheap to run and ultra fast, and has proven to have a lot of use cases in just a week on the scene. This week on The Kettle, join host Brandon Vigliarolo, senior reporter Tom Claburn, and contributor Joab Jackson to chat about how Jev is reshaping the AI landscape and what it might do to the future of the AI industry. A lightly-edited transcript is below: Brandon (00:01) Hey folks, Brandon Vigliarolo here with the latest episode of The Register’s Kettle Podcast. This week, we've got what seems like an AI revolution on our hands. and no, you have not wandered back in time to 2022. We're talking about TypeSafe AI's Jev, which has gone viral in the AI world by promising to do some real work for far cheaper than its large language model cousins. And with me to discuss this seemingly new paradigm in AI, our senior reporter Tom Claburn. And contributor Joab Jackson
-
-### HMRC vowed to break up with Capgemini then paid it another £4.2B
-Mon, 28 Sep 2026 11:15:00 +0200 — https://www.theregister.com/public-sector/2026/09/28/hmrc-vowed-to-break-up-with-capgemini-then-paid-it-another-42b/5299136
-
-As the UK government promises to use public spending to back British business, research indicates that the tax collector has paid French tech giant Capgemini at least £4.2 billion since it began dismantling their flagship outsourcing arrangement. When Andy Burnham became Prime Minister in July, he said in his first speech that public procurement would "back British industry." The government later said businesses winning government contracts would need to show they were creating high-quality British jobs. However, the relationship between His Majesty's Revenue & Customs (HMRC) and Capgemini – which could ultimately span 32 years – shows the scale of that challenge. The Register worked with Otnox, which collects and standardizes public procurement data from more than 80 countries, to analyze HMRC's published transactions above £25,000. The records show that HMRC paid Capgemini at least £4.2 billion across 15,726 transactions between 2014 – when its Aspire contract with Capgemini was initially set to end – and July 2026. Sixteen months of data are missing from that period, so the true total may be higher. HMRC officials told The Reg the contract awards to Capgemini are fully compliant with UK procurement legislation and government policy. An HMRC spokesperson said: “While some strategic suppliers continue to play an important role in delivering critical services, we have moved from a small number of large legacy contracts to a more diverse supplier base. This has increased compe
-
 ## Engadget
+
+### Nothing's flagship $399 Headphone 1 Pro actually have some professional features
+Tue, 29 Sep 2026 10:29:41 +0000 — https://www.engadget.com/2271675/nothing-headphone-1-pro/
+
+Nothing's new 'pro' headphones feature a flat EQ, bucking the trend of custom equalizers.
+
+### Anthropic lost $8 billion last year and said its AI could destroy humanity
+Tue, 29 Sep 2026 09:59:57 +0000 — https://www.engadget.com/2271659/anthropic-lost-8-billion-says-it-could-destroy-humanity/
+
+Despite a $2 trillion valuation ahead of its IPO, Anthropic hasn't been a money-spinning operation so far.
+
+### Meta now has a version of Muse just for small businesses
+Tue, 29 Sep 2026 09:30:00 +0000 — https://www.engadget.com/2271498/meta-now-has-a-version-of-muse-just-for-small-businesses/
+
+The agent can now connect to ad accounts and analytics for Instagram and Facebook.
+
+### OpenAI reportedly cancels GPT-6.1 Astra's release over deceptive behavior
+Tue, 29 Sep 2026 08:15:26 +0000 — https://www.engadget.com/2271626/openai-cancels-gpt-6-1-astra-release-deceptive-behavior/
+
+According to The New York Times, OpenAI scrapped GPT-6.1 Astra's release because it didn't meet safety standards.
+
+### Opera for Android now comes with a free eSIM and 3GB of data
+Tue, 29 Sep 2026 08:00:00 +0000 — https://www.engadget.com/2271064/opera-for-android-now-comes-with-a-free-esim-and-3gb-of-data/
+
+It's limited to Opera users in certain countries, however.
+
+### How to get started with Shortcuts on your MacBook
+Tue, 29 Sep 2026 00:30:00 +0000 — https://www.engadget.com/2269315/how-to-use-macbook-shortcuts/
+
+Your Mac's Shortcuts app is a powerful way to automate tedious tasks, and you can now set up scripts using natural language.
+
+### The warning signs that your iPhone battery needs to be replaced
+Mon, 28 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2269219/warning-signs-replace-iphone-battery/
+
+Your iPhone's battery doesn't have infinite longevity. Over time, it degrades, and you'll know that's happening when you see these signs.
+
+### How to improve your Android phone's battery life
+Mon, 28 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2269187/android-phone-how-to-improve-battery-life/
+
+Don't give up just yet on your Android. If the poor battery is your main complaint, give these usage and settings tips a try.
+
+### California is banning public officials from making memecoins
+Mon, 28 Sep 2026 22:55:33 +0000 — https://www.engadget.com/2271475/california-is-banning-public-officials-from-making-memecoins/
+
+The state has enacted several new rules around cryptocurrencies.
+
+### My iPhone hit 1,000 charge cycles — Here's how it's holding up
+Mon, 28 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2269075/iphone-hit-1000-charge-cycles-how-holding-up/
+
+I've had my iPhone 15 Pro Max for three years and have completed 1,000 battery charge cycles. Here's what the experience has been like.
+
+### How to improve your FPS for better gaming (without buying new hardware)
+Mon, 28 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2268998/how-to-improve-fps-better-gaming-no-new-hardware/
+
+Frame rates and graphical fidelity have an inverse relationship, so making your games look a little less beautiful runs them much better.
 
 ### Discord is testing a lightweight mode to free up resources while gaming
 Mon, 28 Sep 2026 19:51:39 +0000 — https://www.engadget.com/2271273/discord-is-testing-a-lightweight-mode-to-free-up-resources-while-gaming/
 
 Unsurprisingly, it's called Game Mode.
 
-### Google will support ChromeOS until 2034 as it shifts to Googlebook OS
-Mon, 28 Sep 2026 19:36:57 +0000 — https://www.engadget.com/2271249/google-will-support-chromeos-until-2034-as-it-shifts-to-googlebook-os/
-
-Some recent Chromebook devices will be able to switch to the new operating system.
-
-### Meta is starting an enterprise business to justify its massive AI spending
-Mon, 28 Sep 2026 18:37:57 +0000 — https://www.engadget.com/2271136/meta-is-starting-an-enterprise-business-to-justify-its-massive-ai-spending/
-
-Meta wants to sell its AI products and services to other companies.
-
-### Ayaneo shrank down the Game Boy form factor with its latest $89 handheld
-Mon, 28 Sep 2026 18:31:44 +0000 — https://www.engadget.com/2271129/ayaneo-shrank-down-the-game-boy-form-factor-with-its-latest-89-handheld/
-
-The Konkr Pocket Block is now up for preorder and will start shipping in October.
-
-### Where to find YouTube's autoplay settings and how to turn it off and on
-Mon, 28 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2268943/where-to-find-youtubes-autoplay-settings-and-how-to-turn-it-off-and-on/
-
-An annoying feature that's typically on by default.
-
-### This setting change can make your Android phone feel instantly faster
-Mon, 28 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2268945/simple-setting-change-make-android-phone-faster/
-
-This easy Android tweak makes navigating your phone and switching apps feel almost immediate. And it's really easy to set up. Here's how.
-
-### SpaceX's latest Starship mission reached low-Earth orbit
-Mon, 28 Sep 2026 17:14:21 +0000 — https://www.engadget.com/2270992/spacexs-latest-starship-mission-reached-low-earth-orbit/
-
-...with some small hiccups along the way.
-
-### Florida AG requests emergency order to stop OpenAI model development
-Mon, 28 Sep 2026 17:11:33 +0000 — https://www.engadget.com/2270988/florida-ag-requests-emergency-order-to-stop-openai-model-development/
-
-This follows a lawsuit from this summer where ChatGPT was allegedly connected to a mass shooting.
-
-### The safest and easiest way to debloat Windows 11
-Mon, 28 Sep 2026 16:45:00 +0000 — https://www.engadget.com/2268915/debloat-windows-11-safest-easiest-way/
-
-Windows 11 includes a ton of unnecessary junk, some of which you can remove manually and some of which is best handled by a tool.
-
-### How to set up Amazon Alexa's price drop alerts and auto-buy feature
-Mon, 28 Sep 2026 16:15:00 +0000 — https://www.engadget.com/2268766/how-to-set-up-amazon-alexa-price-drop-alerts-auto-buy-feature/
-
-Amazon's Alexa for Shopping can help you catch prices when they're low, and Auto Buy can make sure you don't miss the deal.
-
-### How to improve sound quality on your Android phone during calls
-Mon, 28 Sep 2026 15:45:00 +0000 — https://www.engadget.com/2268686/how-to-improve-android-call-sound-quality/
-
-If you're struggling to hear the person on the other end, try these tweaks on your Android phone to improve your call quality.
-
-### Bose's throwback to wired earbuds add much-needed ANC
-Mon, 28 Sep 2026 15:39:12 +0000 — https://www.engadget.com/2270779/boses-throwback-to-wired-earbuds-add-much-needed-anc/
-
-Everything old is new again.
-
 ## TechCrunch
+
+### Protego Ventures closes debut $125 million fund for Israeli defense tech
+Tue, 29 Sep 2026 10:00:00 +0000 — https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/
+
+Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.
+
+### Ex-Tesla team raises $12.5M to put supply chains on autopilot
+Tue, 29 Sep 2026 09:00:00 +0000 — https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/
+
+Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.
+
+### Anthropic s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
+Tue, 29 Sep 2026 05:13:43 +0000 — https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/
+
+In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.
+
+### Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort
+Tue, 29 Sep 2026 00:30:00 +0000 — https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/
+
+Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.
+
+### OpenAI reportedly ditches model over safety concerns
+Mon, 28 Sep 2026 23:39:20 +0000 — https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/
+
+A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.
+
+### Aurora CFO says 30,000 driverless trucks by 2030 isn t as far-fetched as it sounds
+Mon, 28 Sep 2026 22:58:35 +0000 — https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/
+
+Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.
+
+### Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
+Mon, 28 Sep 2026 21:29:18 +0000 — https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/
+
+The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.
+
+### AMD will acquire Fei-Fei Li s World Labs for $8.2 billion
+Mon, 28 Sep 2026 20:39:33 +0000 — https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/
+
+The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.
 
 ### Shopify opens checkout to browser-based AI agents
 Mon, 28 Sep 2026 19:33:57 +0000 — https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/
@@ -367,50 +417,10 @@ Tesla says the event "can only be held outdoors," as it's expected to show the c
 ### The AI boom took over Climate Week and not everyone is happy about it
 Mon, 28 Sep 2026 19:21:59 +0000 — https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/
 
-Just like the rest of the U.S, data centers and AI are dividing climate tech founders and investors.
+Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.
 
 ### Nvidia launches new platform for reining in rogue AI agents
 Mon, 28 Sep 2026 18:31:23 +0000 — https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/
 
-As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia is offering its own answer to problem. Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to [ ]
-
-### Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner
-Mon, 28 Sep 2026 18:00:00 +0000 — https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/
-
-Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.
-
-### Google is killing off Gemini s Gems in favor of skills
-Mon, 28 Sep 2026 17:29:50 +0000 — https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/
-
-As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.
-
-### OpenAI still doesn t seem to have a handle on all of its rogue AI activity
-Mon, 28 Sep 2026 17:09:02 +0000 — https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/
-
-On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.
-
-### Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative
-Mon, 28 Sep 2026 16:52:38 +0000 — https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/
-
-Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.
-
-### The iPhone Duo may already have its first killer app: a virtual Walkman
-Mon, 28 Sep 2026 16:47:49 +0000 — https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/
-
-The app imitates how Walkmans used to function: You can open up the Duo to pick your music and "insert" your cassette tape, then close the device shut to start listening.
-
-### Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026
-Mon, 28 Sep 2026 15:30:00 +0000 — https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/
-
-Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and get 50% off a second pass.
-
-### Physical AI chip developer SiMa AI hits $1.45B valuation
-Mon, 28 Sep 2026 15:29:21 +0000 — https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/
-
-The edge computing startup raised a $150 million Series C led by Fidelity and Amplify.
-
-### MAVI bets on the AI boom creating demand for a new kind of accountant
-Mon, 28 Sep 2026 15:26:46 +0000 — https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/
-
-Accounting staffing company MAVI emerges from stealth with $4 million in funding.
+Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.
 
