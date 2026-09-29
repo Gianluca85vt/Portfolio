@@ -29,7 +29,6 @@ artistView:
     - "VFX: from the footage, attack telegraphs land as colour and shape changes rather than fine animation detail, which is the correct call when the asset has no face and no weapon glint to work with."
   misses:
     - "Environment: reviewers describe the level layouts as recognisably the first game's, and the generated dungeons still read as tile sets rather than places, which is where a sequel had the most obvious room to move."
-draft: true
 ---
 
 Five scored verdicts on Minecraft Dungeons II were up by the morning of 29
