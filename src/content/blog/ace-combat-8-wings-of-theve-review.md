@@ -41,7 +41,6 @@ artistView:
   misses:
     - "Performance: players report RAM climbing past 20GB across a session, which reads as a streaming or pooling leak rather than a shading cost. An art budget that is simply too heavy shows up as a steady hit, not a climb."
     - "Build packaging: shipping Ace Combat 0 as DLC inside the main depot means a PS2-era game inherits a 150GB install footprint it has no use for."
-draft: true
 ---
 
 Across the eight scored verdicts I could verify on 30 September 2026, ACE
