@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Blender on Android: Vulkan only">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2E7D32"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#9BE7A4" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="6">BLENDER ON ANDROID</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="700">VULKAN</text>
+  <text x="80" y="440" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="86" font-weight="700">or nothing</text>
+  <text x="80" y="530" fill="#C8E6C9" font-family="Helvetica,Arial,sans-serif" font-size="38">arm64 · Android 12 · no OIDN</text>
+</svg>
