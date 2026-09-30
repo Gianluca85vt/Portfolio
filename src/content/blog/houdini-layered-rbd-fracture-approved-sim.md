@@ -23,7 +23,6 @@ artistView:
   misses:
     - "Scope: Yi says himself it degrades on highly interconnected or interactive destruction, and that is the honest limit. If the extra fracture ought to change how the big thing falls, layering it on top is a lie the audience can read."
     - "Craft risk: debris that never feeds back into the mass it came off can look applied rather than caused, and at that point you have bought detail and spent believability on it."
-draft: true
 ---
 
 There is a particular note that arrives in dailies and costs more than anyone in the room
