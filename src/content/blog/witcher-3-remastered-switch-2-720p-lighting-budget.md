@@ -18,7 +18,6 @@ artistView:
     - "Scalability: one lighting rework stretched from a 720p handheld target to full path tracing means the rig was authored to scale rather than hand-tuned per platform."
   misses:
     - "Resolution: on the stated handheld targets, denser foliage at 720p is the worst pairing in real-time rendering — thin vegetation undersampled is where temporal shimmer lives."
-draft: true
 ---
 
 720p.
