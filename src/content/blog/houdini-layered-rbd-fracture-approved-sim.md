@@ -7,8 +7,14 @@ cover: /img/blog/houdini-layered-rbd-fracture-approved-sim/cover.svg
 sources:
   - outlet: 80 Level
     url: https://80.lv/articles/former-pixar-fx-artist-reveals-a-smarter-way-to-refine-destruction
+  - outlet: ACM SIGGRAPH 2026 Posters
+    url: https://dl.acm.org/doi/proceedings/10.1145/3799825
   - outlet: SideFX (Houdini documentation)
     url: https://www.sidefx.com/docs/houdini/destruction/index.html
+  - outlet: SideFX (Multi Layered Destruction tutorial)
+    url: https://www.sidefx.com/tutorials/multi-layered-destruction-in-houdini/
+  - outlet: The Rookies
+    url: https://www.therookies.co/blog/breakdowns/rbd-building-destruction-a-houdini-project
 artistView:
   take: "This is the displacement-pass trick applied to rigid bodies: lock the low frequency once it is approved, then add high frequency on top of it. What makes it a production tool rather than a demo is that Yi built it from stock RBD nodes, so it survives the artist who wrote it leaving the studio."
   works:
@@ -27,12 +33,13 @@ left, where it meets the road?
 
 Everyone nods. Nobody says how expensive that is.
 
-**Jae Jun Yi**, a former Pixar FX technical director, presented a workflow at SIGGRAPH 2026
-aimed squarely at that note. He calls it multi-layered RBD simulation, and 80 Level ran a
-long breakdown of it on 28 September 2026. The short version: run a base simulation for
-composition and large-scale motion only, get that approved, and then fracture selected pieces
-a second time — with the children inheriting the parent's already-blessed movement, and going
-dynamic only when a trigger the artist sets says they should.
+**Jae Jun Yi**, a former Pixar FX technical director, took that note to SIGGRAPH. His workflow
+went up as a poster at SIGGRAPH 2026 in Los Angeles in July — article 24 in the Posters
+proceedings, credited to Yi with three co-authors — and 80 Level ran a long breakdown of it on
+28 September 2026. He calls it multi-layered RBD simulation. The short version: run a base
+simulation for composition and large-scale motion only, get that approved, and then fracture
+selected pieces a second time, with the children inheriting the parent's already-blessed
+movement and going dynamic only when a trigger the artist sets says they should.
 
 ## Why the note is expensive
 
@@ -48,8 +55,8 @@ So a note about one corner returns a different shot.
 And the shot has already grown things on top of it. The dust and the smoke were sourced off
 those pieces, so their emission points moved. The debris pass instanced against them. Lighting
 has a cache on disk it has been working against for a week; comp has a version they have
-already started balancing. The note costs the re-sim, plus everything that was built on the assumption that the
-sim was final.
+already started balancing. The note costs the re-sim, plus everything that was built on the
+assumption that the sim was final.
 
 ## What Yi's layers actually do
 
@@ -73,6 +80,34 @@ normal RBD toolset rather than write a specialised system. A bespoke solver is a
 that belongs to one person, breaks on the next Houdini version, and becomes unmaintainable the
 week that person changes job. A workflow assembled out of stock nodes gets picked up by whoever
 inherits the shot. In a studio, that difference matters more than elegance does.
+
+## "Layered" already meant something else
+
+Worth being precise about the word, because destruction artists have used it for years and they
+did not mean this. In the house sense — the one SideFX teaches in its own
+[Multi Layered Destruction](https://www.sidefx.com/tutorials/multi-layered-destruction-in-houdini/)
+tutorial — a layer is a different *kind* of simulation stacked on the rigid bodies: particles for
+grit, pyro for the dust and the airfield, a second wave of emitted RBDs for small pieces the main
+fracture was too coarse to carry. Vertical layering. Each pass reads the one below it and adds a
+phenomenon the one below it does not have.
+
+Then there is the other established sense, which is spatial. A breakdown on The Rookies of a
+building collapse describes the geometry cut into eleven layers before a single fracture is
+made — eight that destroy and three that stay put — each one clustered and constrained so the
+structure holds together until it is meant not to. That is layering as level design: deciding in
+advance which parts of the building are allowed to participate.
+
+Yi's layering is a third thing, and it runs in time rather than in space or in kind. Same solver,
+same phenomenon, same geometry — run twice, with the second run starting from the first run's
+answer. Nobody had a word free, so it got this one.
+
+<figure>
+  <button class="video-embed" data-video="duZAciX_CuQ" data-title="Vehicle Destruction &amp; Dynamic Rigging with RBDs | Keith Kamholz | Houdini HIVE Worldwide" type="button">
+    <img src="/img/blog/houdini-layered-rbd-fracture-approved-sim/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from SideFX's Houdini HIVE talk on rigid-body destruction" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Keith Kamholz's Houdini HIVE talk for SideFX on art-directing rigid-body destruction. It predates Yi's poster and is about vehicles rather than buildings, but it is a good hour on the same underlying problem: getting a solver to produce a specific collapse rather than a plausible one.</figcaption>
+</figure>
 
 ## The same argument, from the other end
 
