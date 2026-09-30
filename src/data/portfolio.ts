@@ -376,6 +376,12 @@ export const showreel = [
   { id: '1riw_jYpSf8', title: 'ApplaudArt — Word of Mouth Goes Social', tag: 'Motion Design' },
 ] as const;
 
+/**
+ * One picture in a gallery. Pictures of the same project share the part of the
+ * title before " — " ("EVA-01", "EVA-01 — close-up"): the Work section groups
+ * them on that, shows the group as one sphere, and opens them together as the
+ * project's gallery. A title with no " — " is its own project name.
+ */
 export type GalleryItem = { src: string; title?: string };
 
 /**
@@ -409,7 +415,7 @@ export const conceptGallery: GalleryItem[] = [
 
 /**
  * The 3D renders. Titles describe what is in the picture; the filenames do not
- * always match it (umbral-blade.jpg is the portrait, render-01.png the sword),
+ * always match it (brad.jpg is the lion warrior sculpt, render-01.png the sword),
  * so they were not used.
  */
 export const modelGallery: GalleryItem[] = [
@@ -443,10 +449,14 @@ export const modelGallery: GalleryItem[] = [
   { src: '/img/3d/eva02-side.webp', title: 'EVA-02 — side' },
   { src: '/img/3d/eva02-eyes.jpg', title: 'EVA-02 — eyes' },
   { src: '/img/3d/eva02-viewport.jpg', title: 'EVA-02 — in the viewport' },
+  { src: '/img/3d/brad-render.jpg', title: 'Brad' },
+  { src: '/img/3d/brad-clay-front.jpg', title: 'Brad — clay, front' },
+  { src: '/img/3d/brad-clay-three-quarter.jpg', title: 'Brad — clay, three-quarter' },
+  { src: '/img/3d/brad-wire-closeup.jpg', title: 'Brad — wireframe close-up' },
+  { src: '/img/3d/brad-wire-turnaround.jpg', title: 'Brad — wireframe, profile and front' },
   { src: '/img/3d/fiat-500e.png', title: 'Fiat 500e' },
   { src: '/img/3d/mazda-cx60.png', title: 'Mazda CX-60' },
   { src: '/img/3d/brad.jpg', title: 'Character sculpt' },
-  { src: '/img/3d/umbral-blade.jpg', title: 'Portrait study' },
   { src: '/img/3d/render-01.png', title: 'Sword' },
   { src: '/img/3d/cute-penguin.png', title: 'Penguin' },
   { src: '/img/3d/joypad.jpg', title: 'Tonberry' },

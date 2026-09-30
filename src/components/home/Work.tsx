@@ -6,6 +6,8 @@ import Lightbox, { kindLabel } from './Lightbox';
 import WorkSpace from './WorkSpace';
 import type { SpaceFocus } from './WorkSpace';
 import type { ArchiveItem } from './Lightbox';
+import { projectFor, projectsOf, tilesFor, tint } from './projects';
+import type { Project, Tile } from './projects';
 import { Buckets, Reveal, SectionTitle, Slate, pad, useInView, useThumb, useVoiced } from './ui';
 import type { WorkEvent } from './ui';
 
@@ -14,11 +16,22 @@ const PAGE = 16;
 /** How many hang in the room at once; the long categories come in sets. */
 const ROOM = 40;
 
-function Card({ item, index, onOpen }: { item: ArchiveItem; index: number; onOpen: () => void }) {
+function Card({
+  item,
+  index,
+  onOpen,
+  project,
+}: {
+  item: ArchiveItem;
+  index: number;
+  onOpen: () => void;
+  /** Set when the card stands for a whole project: its cover, count and colour. */
+  project?: Project;
+}) {
   const ref = useRef<HTMLButtonElement>(null);
   const inView = useInView(ref, { rootMargin: '0px 0px -6% 0px' });
   const thumb = useThumb();
-  const title = item.title ?? 'Untitled';
+  const title = project ? project.name : item.title ?? 'Untitled';
 
   return (
     <button
@@ -26,7 +39,11 @@ function Card({ item, index, onOpen }: { item: ArchiveItem; index: number; onOpe
       type="button"
       onClick={onOpen}
       data-cursor="View"
-      aria-label={`${title}, ${kindLabel[item.kind]}: open full size`}
+      aria-label={
+        project
+          ? `${title}, ${kindLabel[item.kind]}: open the gallery of ${project.items.length} images`
+          : `${title}, ${kindLabel[item.kind]}: open full size`
+      }
       className="group relative block w-full overflow-hidden rounded-[3px]"
       style={{
         aspectRatio: `${item.w} / ${item.h}`,
@@ -34,6 +51,9 @@ function Card({ item, index, onOpen }: { item: ArchiveItem; index: number; onOpe
           item.kind === '3d'
             ? 'radial-gradient(circle at 50% 38%, #1c1a22, #060606 75%)'
             : '#0b0b0b',
+        ...(project
+          ? { boxShadow: `0 0 0 1px ${tint(project.colour, 0.55)}, 0 0 28px ${tint(project.colour, 0.22)}` }
+          : {}),
       }}
     >
       <img
@@ -53,7 +73,16 @@ function Card({ item, index, onOpen }: { item: ArchiveItem; index: number; onOpe
         <span className="vp-label text-[#D7E2EA] text-left !text-[0.62rem] truncate">{title}</span>
         <span className="vp-label text-[#D7E2EA]/55 !text-[0.62rem] shrink-0">{pad(index + 1)}</span>
       </span>
-      {item.line ? (
+      {project ? (
+        <span className="absolute top-2.5 left-2.5 vp-label !text-[0.55rem] rounded-full bg-black/70 text-[#D7E2EA] px-2 py-0.5 inline-flex items-center gap-1.5">
+          <span
+            aria-hidden="true"
+            className="w-1.5 h-1.5 rounded-full"
+            style={{ background: project.colour, boxShadow: `0 0 8px ${project.colour}` }}
+          />
+          {project.name} · {project.items.length}
+        </span>
+      ) : item.line ? (
         <span className="absolute top-2.5 left-2.5 vp-label !text-[0.55rem] rounded-full bg-black/65 text-[#D7E2EA]/85 px-2 py-0.5">
           + line art
         </span>
@@ -66,7 +95,14 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
   const [filter, setFilter] = useState<WorkFilter>('selected');
   const [grade, setGrade] = useState('colour');
   const [limit, setLimit] = useState(PAGE);
-  const [open, setOpen] = useState<number | null>(null);
+  // What the viewer shows: a project's gallery, or the loose pictures of the
+  // view. `tile` is where it was opened from, so the room can turn back to it.
+  const [opened, setOpened] = useState<{
+    tile: number;
+    items: ArchiveItem[];
+    index: number;
+    project?: Project;
+  } | null>(null);
   const [view, setView] = useState<'space' | 'grid'>('space');
   const [set, setSet] = useState(0);
   const [focus, setFocus] = useState<SpaceFocus>(null);
@@ -99,21 +135,45 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
     } satisfies Record<WorkFilter, ArchiveItem[]>;
   }, [items]);
 
+  const projects = useMemo(() => projectsOf(items), [items]);
   const list = lists[filter];
+  // The hand-picked selection keeps every picture separate; the categories
+  // gather each project into one tile.
+  const tiles = useMemo(() => tilesFor(list, projects, filter !== 'selected'), [list, projects, filter]);
+  const loose = useMemo(() => tiles.flatMap((t) => (t.type === 'single' ? [t.item] : [])), [tiles]);
   // The selection is short by design; only the long categories are paged.
-  const shown = filter === 'selected' ? list : list.slice(0, limit);
-  const sets = Math.ceil(list.length / ROOM);
-  const room = list.slice(set * ROOM, set * ROOM + ROOM);
+  const shown = filter === 'selected' ? tiles : tiles.slice(0, limit);
+  const sets = Math.ceil(tiles.length / ROOM);
+  const room = tiles.slice(set * ROOM, set * ROOM + ROOM);
+
+  // A project opens as its own gallery, from its sphere or from any one of its
+  // pictures. A picture with no project opens among the other loose ones.
+  const openTile = (t: number) => {
+    const tile: Tile | undefined = tiles[t];
+    if (!tile) return;
+    if (tile.type === 'group') {
+      setOpened({ tile: t, items: tile.project.items, index: 0, project: tile.project });
+      return;
+    }
+    const p = projectFor(tile.item, projects);
+    if (p) setOpened({ tile: t, items: p.items, index: Math.max(0, p.items.indexOf(tile.item)), project: p });
+    else setOpened({ tile: t, items: loose, index: Math.max(0, loose.indexOf(tile.item)) });
+  };
 
   // Closing the viewer in the room turns it to the picture last seen there —
   // switching to its set first if the arrows went past the ones on show.
   const close = () => {
-    if (view === 'space' && open !== null) {
-      const s = Math.floor(open / ROOM);
+    if (view === 'space' && opened) {
+      // Among loose pictures the arrows move from tile to tile; in a project
+      // they stay on its sphere.
+      const seen = opened.items[opened.index];
+      const at = opened.project ? -1 : tiles.findIndex((t) => t.type === 'single' && t.item === seen);
+      const tile = at >= 0 ? at : opened.tile;
+      const s = Math.floor(tile / ROOM);
       if (s !== set) setSet(s);
-      setFocus({ index: open % ROOM, n: Date.now() });
+      setFocus({ index: tile % ROOM, n: Date.now() });
     }
-    setOpen(null);
+    setOpened(null);
   };
   const gradeNote = work.grades.find((g) => g.id === grade)?.note ?? '';
 
@@ -220,41 +280,57 @@ export default function Work({ items }: { items: ArchiveItem[] }) {
                     set === i ? 'border-[#ff8a3d] text-[#ff8a3d]' : 'border-[#D7E2EA]/20 text-[#D7E2EA]/60 hover:text-[#D7E2EA]'
                   }`}
                 >
-                  {i * ROOM + 1}–{Math.min(list.length, (i + 1) * ROOM)}
+                  {i * ROOM + 1}–{Math.min(tiles.length, (i + 1) * ROOM)}
                 </button>
               ))}
             </div>
           ) : null}
           <WorkSpace
             key={`${filter}-${set}`}
-            items={room}
+            tiles={room}
             grade={grade}
             focus={focus}
-            onOpen={(i) => setOpen(set * ROOM + i)}
+            onOpen={(i) => openTile(set * ROOM + i)}
           />
         </>
       ) : (
         <div key={filter} className="vp-masonry vp-grade" data-grade={grade}>
-          {shown.map((item, i) => (
-            <Card key={item.src} item={item} index={i} onOpen={() => setOpen(i)} />
-          ))}
+          {shown.map((tile, i) =>
+            tile.type === 'group' ? (
+              <Card
+                key={tile.key}
+                item={tile.project.items[0]}
+                project={tile.project}
+                index={i}
+                onOpen={() => openTile(i)}
+              />
+            ) : (
+              <Card key={tile.key} item={tile.item} index={i} onOpen={() => openTile(i)} />
+            )
+          )}
         </div>
       )}
 
-      {view === 'grid' && list.length > shown.length ? (
+      {view === 'grid' && tiles.length > shown.length ? (
         <div className="flex justify-center mt-8">
           <button
             type="button"
             onClick={() => setLimit(list.length)}
             className="rounded-full border border-[#D7E2EA]/30 px-6 py-3 text-[#D7E2EA] font-medium uppercase tracking-widest text-[0.7rem] transition-colors duration-300 hover:bg-[#D7E2EA] hover:text-black"
           >
-            Show all {list.length}
+            Show all {tiles.length}
           </button>
         </div>
       ) : null}
 
-      {open !== null ? (
-        <Lightbox items={list} index={open} onIndex={setOpen} onClose={close} />
+      {opened ? (
+        <Lightbox
+          items={opened.items}
+          index={opened.index}
+          onIndex={(i) => setOpened((o) => (o ? { ...o, index: i } : o))}
+          onClose={close}
+          project={opened.project ? { name: opened.project.name, colour: opened.project.colour } : undefined}
+        />
       ) : null}
     </section>
   );

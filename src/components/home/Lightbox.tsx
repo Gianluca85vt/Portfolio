@@ -46,17 +46,24 @@ function useViewport() {
  * black and white for values, two tones for composition, a blur for the focal
  * point, the rule of thirds — and the real line art, where there is one. Each
  * is a filter on the actual picture, not a prepared version of it.
+ *
+ * Opened from a project, it is that project's gallery: only its pictures, its
+ * name at the top in its own colour, and a strip of them along the bottom to
+ * jump between.
  */
 export default function Lightbox({
   items,
   index,
   onIndex,
   onClose,
+  project,
 }: {
   items: ArchiveItem[];
   index: number;
   onIndex: (index: number) => void;
   onClose: () => void;
+  /** Set when the pictures are one project's gallery. */
+  project?: { name: string; colour: string };
 }) {
   const [tool, setTool] = useState<CritTool>('colour');
   const [loaded, setLoaded] = useState(false);
@@ -64,8 +71,16 @@ export default function Lightbox({
   const touch = useRef<{ x: number; y: number } | null>(null);
   const thumb = useThumb();
   const vp = useViewport();
+  const strip = useRef<HTMLDivElement>(null);
 
   const item = items[index];
+  // In a project gallery the project is named once, at the top; each picture
+  // then shows only what tells it apart ("close-up", not "EVA-01 — close-up").
+  const caption = !item
+    ? ''
+    : project && item.title?.startsWith(project.name)
+      ? item.title.slice(project.name.length).replace(/^\s*—\s*/, '')
+      : item.title ?? 'Untitled';
   const go = useCallback(
     (step: number) => onIndex((index + step + items.length) % items.length),
     [index, items.length, onIndex]
@@ -98,11 +113,18 @@ export default function Lightbox({
     return () => window.removeEventListener('keydown', onKey);
   }, [go, onClose]);
 
+  // Keep the current picture's thumbnail in view as the gallery moves on.
+  useEffect(() => {
+    const el = strip.current?.querySelector<HTMLElement>(`[data-i="${index}"]`);
+    el?.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+  }, [index]);
+
   if (!item) return null;
 
   const wide = vp.w >= 768;
   const maxW = vp.w - (wide ? 200 : 24);
-  const maxH = vp.h - (wide ? 220 : 250);
+  const hasStrip = items.length > 1;
+  const maxH = vp.h - (wide ? 220 : 250) - (hasStrip ? 72 : 0);
   const scale = Math.min(maxW / item.w, maxH / item.h);
   const box = { width: Math.round(item.w * scale), height: Math.round(item.h * scale) };
 
@@ -132,10 +154,21 @@ export default function Lightbox({
           <span className="vp-label text-[#ff8a3d] tabular-nums shrink-0">
             {pad(index + 1)} / {pad(items.length)}
           </span>
-          <span className="vp-label text-[#D7E2EA]/45 shrink-0 hidden sm:inline">{kindLabel[item.kind]}</span>
-          <span className="text-[#D7E2EA] font-medium uppercase tracking-wide text-[0.86rem] truncate">
-            {item.title ?? 'Untitled'}
-          </span>
+          {project ? (
+            <span className="vp-label shrink-0 inline-flex items-center gap-2" style={{ color: project.colour }}>
+              <span
+                aria-hidden="true"
+                className="w-2 h-2 rounded-full"
+                style={{ background: project.colour, boxShadow: `0 0 10px ${project.colour}` }}
+              />
+              {project.name}
+            </span>
+          ) : (
+            <span className="vp-label text-[#D7E2EA]/45 shrink-0 hidden sm:inline">{kindLabel[item.kind]}</span>
+          )}
+          {caption ? (
+            <span className="text-[#D7E2EA] font-medium uppercase tracking-wide text-[0.86rem] truncate">{caption}</span>
+          ) : null}
         </div>
         <button
           ref={closeRef}
@@ -214,6 +247,31 @@ export default function Lightbox({
       </div>
 
       <footer className="shrink-0 px-4 sm:px-8 pb-5 pt-4 flex flex-col items-center gap-3">
+        {hasStrip ? (
+          <div
+            ref={strip}
+            role="group"
+            aria-label={project ? `${project.name}: all images` : 'All images'}
+            className="flex gap-2 max-w-full overflow-x-auto no-scrollbar px-1 py-1"
+          >
+            {items.map((it, i) => (
+              <button
+                key={it.src}
+                type="button"
+                data-i={i}
+                onClick={() => onIndex(i)}
+                aria-label={`${it.title ?? 'Image'} (${i + 1} of ${items.length})`}
+                aria-current={i === index ? 'true' : undefined}
+                className={`shrink-0 h-14 w-14 rounded-[4px] overflow-hidden border transition-[opacity,border-color] duration-300 ${
+                  i === index ? 'opacity-100' : 'opacity-45 hover:opacity-80 border-transparent'
+                }`}
+                style={i === index ? { borderColor: project?.colour ?? '#ff8a3d' } : undefined}
+              >
+                <img src={thumb(it.src)} alt="" loading="lazy" decoding="async" className="w-full h-full object-cover" />
+              </button>
+            ))}
+          </div>
+        ) : null}
         <div role="group" aria-label="Look at it as" className="flex flex-wrap justify-center gap-1.5">
           {tools.map((t) => (
             <button

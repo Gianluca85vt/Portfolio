@@ -516,6 +516,151 @@
   }
 }
 
+/* ------------------------------------------------------ project spheres */
+
+/* A project with several pictures hangs in the room as one sphere: its cover
+   drifting slowly inside the ball as if the sphere were turning, a highlight up
+   on the left and a rim in the project's own colour, a glow that breathes, and
+   the name above. The colours arrive as --orb-* from WorkSpace, precomputed as
+   rgba() so nothing depends on color-mix(). Everything that moves is transform
+   or opacity. */
+
+.vp-orb {
+  border-radius: 50%;
+  box-shadow: none;
+  background: transparent;
+}
+
+.vp-orb.is-hover,
+.vp-orb:focus-visible {
+  box-shadow: none;
+}
+
+.vp-orb::before {
+  content: '';
+  position: absolute;
+  inset: -38%;
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--orb-glow) 0%, var(--orb-haze) 38%, transparent 68%);
+  opacity: 0.75;
+  animation: vp-orb-breathe 5.5s ease-in-out var(--orb-delay, 0s) infinite alternate;
+  pointer-events: none;
+  transition: opacity 0.4s var(--vp-ease);
+}
+
+.vp-orb.is-hover::before,
+.vp-orb:focus-visible::before {
+  opacity: 1;
+}
+
+.vp-orb-ball {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  overflow: hidden;
+  background: radial-gradient(circle at 50% 40%, #1c1a22, #050505 75%);
+  /* overflow and radius alone do not hold: once the sphere stops and loses its
+     depth filter, Chrome composites the turning picture on its own layer and
+     lets its square corners out. A clip-path clips that layer too. */
+  clip-path: circle(50% at 50% 50%);
+}
+
+/* The rim and the drop shadow sit on their own ring, outside the clip. */
+.vp-orb-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px var(--orb-rim), 0 18px 50px rgba(0, 0, 0, 0.6);
+  pointer-events: none;
+  transition: box-shadow 0.4s var(--vp-ease);
+}
+
+.vp-orb.is-hover .vp-orb-ring,
+.vp-orb:focus-visible .vp-orb-ring {
+  box-shadow: 0 0 0 2px var(--orb), 0 18px 60px rgba(0, 0, 0, 0.65);
+}
+
+.vp-orb-ball img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: scale(1.32);
+  animation: vp-orb-turn 18s ease-in-out var(--orb-delay, 0s) infinite alternate;
+}
+
+/* The sphere itself, painted over the picture: light from the upper left, the
+   project's colour catching the rim, shadow pooling at the base. */
+.vp-orb-ball::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  pointer-events: none;
+  background:
+    radial-gradient(circle at 31% 25%, rgba(255, 255, 255, 0.42), rgba(255, 255, 255, 0) 30%),
+    radial-gradient(circle at 50% 50%, rgba(0, 0, 0, 0) 55%, var(--orb-haze) 82%, var(--orb-rim) 100%),
+    radial-gradient(circle at 66% 80%, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0) 58%);
+}
+
+.vp-orb-title,
+.vp-orb-count {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+  font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  text-transform: uppercase;
+  pointer-events: none;
+}
+
+.vp-orb-title {
+  bottom: calc(100% + 16px);
+  font-size: 0.74rem;
+  letter-spacing: 0.16em;
+  color: var(--vp-mist);
+  text-shadow: 0 0 14px var(--orb-glow), 0 0 2px rgba(0, 0, 0, 0.9);
+}
+
+.vp-orb-count {
+  top: calc(100% + 14px);
+  font-size: 0.56rem;
+  letter-spacing: 0.14em;
+  color: rgba(215, 226, 234, 0.55);
+}
+
+.vp-orb.is-found::after {
+  border-radius: 50%;
+}
+
+@keyframes vp-orb-turn {
+  from {
+    transform: scale(1.32) translate3d(-7%, -1.5%, 0);
+  }
+  to {
+    transform: scale(1.32) translate3d(7%, 1.5%, 0);
+  }
+}
+
+@keyframes vp-orb-breathe {
+  from {
+    opacity: 0.55;
+    transform: scale(0.94);
+  }
+  to {
+    opacity: 0.9;
+    transform: scale(1.06);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .vp-orb::before,
+  .vp-orb-ball img {
+    animation: none;
+  }
+}
+
 /* Specks of dust drifting in the room, far behind everything. One layer,
    one slow transform: nearly free. */
 .vp-space-dust {

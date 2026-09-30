@@ -1,9 +1,10 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
-import type { CSSProperties } from 'react';
+import type { CSSProperties, PointerEvent as ReactPointerEvent } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import type { ArchiveItem } from './Lightbox';
 import { kindLabel } from './Lightbox';
 import { pad, useThumb } from './ui';
+import { tint } from './projects';
+import type { Tile } from './projects';
 
 /**
  * The work as a room without gravity.
@@ -14,6 +15,10 @@ import { pad, useThumb } from './ui';
  * focus — the way a lens would see them — and turning the ring brings them
  * round to the front. Drag to turn it, use the arrows or the map beneath it,
  * or tab to a picture and it comes to the front on its own.
+ *
+ * A project with several pictures hangs as one sphere instead: its cover turning
+ * slowly inside, a glow in the project's own colour, its name above. Opening it
+ * opens that project's pictures as a gallery of their own.
  *
  * It is plain DOM in CSS 3D: every picture stays a button a screen reader can
  * find and a keyboard can reach. Each frame only transforms move, which the
@@ -40,19 +45,21 @@ const shortest = (d: number) => ((((d + Math.PI) % TAU) + TAU) % TAU) - Math.PI;
  * in the list go to different rows, so the first few — the strongest — face
  * the viewer together.
  */
-function arrange(items: ArchiveItem[], small: boolean) {
-  const n = items.length;
+function arrange(tiles: Tile[], small: boolean) {
+  const n = tiles.length;
   const rows = n <= 10 ? 1 : n <= 26 ? 2 : 3;
   const perRow = Math.max(1, Math.ceil(n / rows));
   const base = small ? (rows === 3 ? 112 : 132) : rows === 3 ? 200 : rows === 2 ? 250 : 290;
   const R = Math.max(small ? 280 : 560, (perRow * base * 1.55) / TAU);
   const rowGap = base * (small ? 1.3 : 1.18);
-  const slots: Slot[] = items.map((it, i) => {
+  const slots: Slot[] = tiles.map((tile, i) => {
     const row = i % rows;
     const k = Math.floor(i / rows);
-    const aspect = it.w / it.h || 1;
-    let w = base;
-    let h = base / aspect;
+    // A sphere is round, and a little larger than a picture: it stands for several.
+    const orb = tile.type === 'group';
+    const aspect = orb ? 1 : tile.item.w / tile.item.h || 1;
+    let w = orb ? base * 1.1 : base;
+    let h = w / aspect;
     const maxH = base * 1.25;
     if (h > maxH) {
       h = maxH;
@@ -96,12 +103,12 @@ function pose(s: Slot, R: number, rot: number, t: number, still: number, maxBlur
 export type SpaceFocus = { index: number; n: number } | null;
 
 export default function WorkSpace({
-  items,
+  tiles,
   grade,
   onOpen,
   focus,
 }: {
-  items: ArchiveItem[];
+  tiles: Tile[];
   grade: string;
   onOpen: (index: number) => void;
   /** Bring this picture round to the front, e.g. the last one seen full size. */
@@ -114,7 +121,7 @@ export default function WorkSpace({
   const [small, setSmall] = useState(false);
   const [front, setFront] = useState(0);
 
-  const { slots, R, step } = useMemo(() => arrange(items, small), [items, small]);
+  const { slots, R, step } = useMemo(() => arrange(tiles, small), [tiles, small]);
 
   // Everything the frame loop reads, in one mutable place.
   const live = useRef({
@@ -168,8 +175,8 @@ export default function WorkSpace({
   useEffect(() => {
     const L = live.current;
     L.reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    L.still = items.map(() => 0);
-    L.last = items.map(() => ({ transform: '', filter: '', z: 0 }));
+    L.still = tiles.map(() => 0);
+    L.last = tiles.map(() => ({ transform: '', filter: '', z: 0 }));
     const maxBlur = small ? 2.5 : 5;
     let prev = performance.now();
 
@@ -262,7 +269,7 @@ export default function WorkSpace({
       cancelAnimationFrame(L.frame);
       L.frame = 0;
     };
-  }, [items, slots, R, small]);
+  }, [tiles, slots, R, small]);
 
   // Back from the full-size viewer: turn to the picture last seen, and mark it.
   useEffect(() => {
@@ -297,7 +304,10 @@ export default function WorkSpace({
   // JavaScript and nothing jumps when the loop takes over.
   const initial = useMemo(() => slots.map((s) => pose(s, R, 0, 0, 0, small ? 2.5 : 5, 1)), [slots, R, small]);
 
-  const current = items[front];
+  const current = tiles[front];
+  const orbs = tiles.some((t) => t.type === 'group');
+  const titleOf = (t: Tile | undefined) =>
+    !t ? 'Untitled' : t.type === 'group' ? `${t.project.name} · ${t.project.items.length} images` : t.item.title ?? 'Untitled';
 
   return (
     <div>
@@ -367,42 +377,85 @@ export default function WorkSpace({
           style={{ background: 'radial-gradient(55% 50% at 50% 50%, rgba(118,33,176,0.16), transparent 70%)' }}
         />
 
-        {items.map((item, i) => {
+        {tiles.map((tile, i) => {
           const s = slots[i];
           const p = initial[i];
+          const shared = {
+            ref: (el: HTMLButtonElement | null) => {
+              els.current[i] = el;
+            },
+            type: 'button' as const,
+            'data-cursor': 'View',
+            onPointerEnter: (e: ReactPointerEvent) => e.pointerType === 'mouse' && setHover(i),
+            onPointerLeave: () => live.current.hover === i && setHover(-1),
+            onFocus: () => {
+              rotateTo(i);
+              setHover(i);
+            },
+            onBlur: () => setHover(-1),
+            onClick: () => {
+              if (live.current.moved) return;
+              onOpen(i);
+            },
+          };
+          const place = {
+            width: s.w,
+            height: s.h,
+            marginLeft: -s.w / 2,
+            marginTop: -s.h / 2,
+            transform: p.transform,
+            filter: p.filter,
+            zIndex: p.z,
+          };
+
+          if (tile.type === 'group') {
+            const { project } = tile;
+            const cover = project.items[0];
+            return (
+              <button
+                key={tile.key}
+                {...shared}
+                className="vp-float vp-orb absolute left-1/2 top-1/2"
+                style={
+                  {
+                    ...place,
+                    '--orb': project.colour,
+                    '--orb-glow': tint(project.colour, 0.55),
+                    '--orb-haze': tint(project.colour, 0.22),
+                    '--orb-rim': tint(project.colour, 0.6),
+                    // Each sphere turns and breathes on its own clock.
+                    '--orb-delay': `${-((i * 2.3) % 9).toFixed(1)}s`,
+                  } as CSSProperties
+                }
+                aria-label={`${project.name}, ${kindLabel[cover.kind]}: open the gallery of ${project.items.length} images`}
+              >
+                <span className="vp-orb-title">{project.name}</span>
+                <span className="vp-orb-ball">
+                  <img
+                    src={thumb(cover.src)}
+                    alt=""
+                    width={cover.w}
+                    height={cover.h}
+                    decoding="async"
+                    draggable={false}
+                    data-graded
+                  />
+                </span>
+                <span className="vp-orb-ring" aria-hidden="true" />
+                <span className="vp-orb-count">{project.items.length} images</span>
+              </button>
+            );
+          }
+
+          const { item } = tile;
           const title = item.title ?? 'Untitled';
           return (
             <button
-              key={item.src}
-              ref={(el) => {
-                els.current[i] = el;
-              }}
-              type="button"
+              key={tile.key}
+              {...shared}
               className="vp-float absolute left-1/2 top-1/2"
-              style={
-                {
-                  width: s.w,
-                  height: s.h,
-                  marginLeft: -s.w / 2,
-                  marginTop: -s.h / 2,
-                  transform: p.transform,
-                  filter: p.filter,
-                  zIndex: p.z,
-                } as CSSProperties
-              }
+              style={place as CSSProperties}
               aria-label={`${title}, ${kindLabel[item.kind]}: open full size`}
-              data-cursor="View"
-              onPointerEnter={(e) => e.pointerType === 'mouse' && setHover(i)}
-              onPointerLeave={() => live.current.hover === i && setHover(-1)}
-              onFocus={() => {
-                rotateTo(i);
-                setHover(i);
-              }}
-              onBlur={() => setHover(-1)}
-              onClick={() => {
-                if (live.current.moved) return;
-                onOpen(i);
-              }}
             >
               <img
                 src={thumb(item.src)}
@@ -428,7 +481,9 @@ export default function WorkSpace({
 
       <div className="flex flex-col sm:flex-row items-center justify-between gap-4 mt-4">
         <p className="vp-label text-[#D7E2EA]/45 text-center sm:text-left order-2 sm:order-1">
-          Drag to turn the room · hover to stop a picture · click to open it
+          {orbs
+            ? 'Drag to turn the room · each sphere is a project · click it to open its gallery'
+            : 'Drag to turn the room · hover to stop a picture · click to open it'}
         </p>
 
         <div className="flex items-center gap-3 order-1 sm:order-2">
@@ -475,8 +530,14 @@ export default function WorkSpace({
                 // Rounded: the server and the browser disagree in the last digits.
                 cx={(50 + Math.sin(s.theta) * 38).toFixed(2)}
                 cy={(50 + Math.cos(s.theta) * 38).toFixed(2)}
-                r={i === front ? 3.6 : 2.2}
-                fill={i === front ? '#ff8a3d' : 'rgba(215,226,234,0.55)'}
+                r={i === front ? 3.6 : tiles[i]?.type === 'group' ? 3 : 2.2}
+                fill={
+                  i === front
+                    ? '#ff8a3d'
+                    : tiles[i]?.type === 'group'
+                      ? (tiles[i] as Extract<Tile, { type: 'group' }>).project.colour
+                      : 'rgba(215,226,234,0.55)'
+                }
               />
             ))}
           </svg>
@@ -493,8 +554,8 @@ export default function WorkSpace({
 
         <p className="vp-label text-[#D7E2EA]/60 order-3 min-w-0 truncate max-w-full sm:max-w-[320px]" aria-live="polite">
           <span className="text-[#ff8a3d]">{pad(front + 1)}</span>
-          <span className="text-[#D7E2EA]/30"> / {pad(items.length)} · </span>
-          {current?.title ?? 'Untitled'}
+          <span className="text-[#D7E2EA]/30"> / {pad(tiles.length)} · </span>
+          {titleOf(current)}
         </p>
       </div>
     </div>
