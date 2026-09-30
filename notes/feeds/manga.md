@@ -1,6 +1,26 @@
-# Manga — harvested 2026-09-30T16:31:02.582Z
+# Manga — harvested 2026-09-30T21:00:11.829Z
 
 ## Anime News Network
+
+### Idea Factory Announces New Adventure Game Brand, 1st Project ICONOLOGY
+Wed, 30 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/idea-factory-announces-new-adventure-game-brand-1st-project-iconology/.242355
+
+IFChronicle's <cite>ICONOLOGY</cite> game in development for Switch, PC via Steam
+
+### Kanojo wa Uso o Ai Shisugiteru Manga Gets New Story
+Wed, 30 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/kanojo-wa-uso-o-ai-shisugiteru-manga-gets-new-story/.242323
+
+New work commemorates 10th anniversary of Kotomi Aoki's manga
+
+### Crunchyroll to Stream Super Psychic Policeman Chojo, Dandivine, Full Clearing Another World Under a Goddess with Zero Believers, More Anime
+Wed, 30 Sep 2026 13:20:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347
+
+Also: <cite>TOUGEN ANKI: Nikko Kegon Falls Arc</cite>, <cite>The Cold Sato-san is Only Sweet to Me</cite>, more
+
+### Shonen Jump+ Cuts Ties With Chainsaw Man Editor Shihei Lin, His Company Mix Green
+Wed, 30 Sep 2026 12:24:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/shonen-jump-cuts-ties-with-chainsaw-man-editor-shihei-lin-his-company-mix-green/.242346
+
+Lin states that Mix Green will still handle editorial duties for <cite>SPY×FAMILY, Dandadan, Centuria, WITCHRIV</cite>
 
 ### Horror Collector Volumes 2-4 Light Novel Review
 Wed, 30 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/horror-collector/volumes-2-4/.241914
@@ -42,31 +62,21 @@ Wed, 30 Sep 2026 06:38:21 -0400 — https://www.animenewsnetwork.com/news/2026-0
 
 Mizuki voices world tree spirit Yggdrasil in episode 1 on October 7
 
-### The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime's 1st Video Unveils More Cast & Staff, January Debut
-Wed, 30 Sep 2026 06:08:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-1st-/.242337
-
-Shunichi Toki, Fūka Izumi join anime's cast with music by <i>Skeleton Knight in Another World's</i> Tsubasa Itō
-
-### New Fairy Princess Minky Momo Original Video Anime Delayed
-Wed, 30 Sep 2026 05:33:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/new-fairy-princess-minky-momo-original-video-anime-delayed/.242338
-
-Production issues cited for delay on anime originally slated for November 13
-
-### Voice Actor Kenjirō Tsuda's TikTok Lawsuit Dismissed After AI-Voiced Videos' Removal
-Wed, 30 Sep 2026 05:08:24 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/voice-actor-kenjiro-tsuda-tiktok-lawsuit-dismissed-after-ai-voiced-videos-removal/.242334
-
-Ministry of Justice expert panel had indicated right of publicity protects voices
-
-### Lego Unveils Dragon Ball's Shenron Set
-Wed, 30 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-30/lego-unveils-dragon-ball-shenron-set/.242333
-
-Complete with 7 Dragon Balls & Son Goku riding his Kintoun cloud
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: MindaRyn on her Anisong Music Journey, "Calling Back" Asia Tour, and Jollibee
+Wed, 30 Sep 2026 18:29:55 GMT — https://animecorner.me/interview-mindaryn-on-her-anisong-music-journey-calling-back-asia-tour-and-jollibee/
+
+We had the pleasure of interviewing anisong artist MindaRyn during her visit to the&hellip;
+
+### Cosplay Mania 2026 and the JAM Concert Return This October
+Wed, 30 Sep 2026 16:56:28 GMT — https://animecorner.me/cosplay-mania-2026-and-the-jam-concert-return-this-october/
+
+Cosplay Mania (CosMania) 2025 is returning with a three-day “Dazzling Diamond” celebration of cosplay, anime,&hellip;
 
 ### Re:ZERO Season 4 Rem Epilogue Visual Revealed to Commemorate Finale
 Wed, 30 Sep 2026 14:47:28 GMT — https://animecorner.me/rezero-season-4-rem-epilogue-visual-revealed-to-commemorate-finale/
@@ -93,12 +103,22 @@ Tue, 29 Sep 2026 09:00:59 GMT — https://animecorner.me/rezero-season-4-episode
 
 Re:ZERO Season 4 has revealed the Episode 19 (Episode 85 overall) preview ahead of its September 30, 2026 premiere.
 
-### Black Clover Season 2 Reveals New Pre-Premiere Visual Ahead of October 3 Return
-Mon, 28 Sep 2026 18:18:03 GMT — https://animecorner.me/black-clover-season-2-reveals-new-pre-premiere-visual-ahead-of-october-3-return/
-
-Black Clover Season 2 anime has revealed a new pre-premiere visual ahead of its October 3, 2026 premiere.
-
 ## MyAnimeList News
+
+### Thunder 3 Second Season Announced for 2027
+Wed, 30 Sep 2026 10:28:28 -0700 — https://myanimelist.net/news/74776633?_location=rss
+
+The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Yuuki Ikeda s supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Ikeda serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volu...
+
+### Fall 2026 Simulcast List
+Wed, 30 Sep 2026 10:18:51 -0700 — https://myanimelist.net/news/74776601?_location=rss
+
+In this thread, you ll find a comprehensive list of television anime acquired for simulcast release during the Fall 2026 season. Anime series licensed for home video release can be found here. This post will be continuously updated as more simulcasts are announced. Feel free to post in this thread if you find a series that we are missing. Akiba Pass TV (German-speaking Europe) Mahou Shoujo Ikusei Keikaku: Restart Tensei shitara Ken deshita II (Reincarnated as a Sword Season 2) Ani-One Asia...
+
+### Q4 2026 Anime & Manga Licenses
+Wed, 30 Sep 2026 10:17:45 -0700 — https://myanimelist.net/news/74776596?_location=rss
+
+In this thread, you ll find a comprehensive list of anime and manga licensed in the fourth quarter (Oct-Dec) of 2026. Fall 2026 anime which were licensed before the quarter began will also be carried over for convenience. Please note that the anime licenses are for home video release; simulcast acquisitions for Fall 2026 can be found here. Digital releases are noted with an asterisk (*). This post will be continuously updated as more licenses are announced. If you have a license that we are...
 
 ### Light Novel Jaku-Chara Tomozaki-kun Concludes with 12th Volume
 Wed, 30 Sep 2026 08:11:06 -0700 — https://myanimelist.net/news/74776197?_location=rss
@@ -145,6 +165,11 @@ The official website for the television anime adaptation of Keigo Shinzou s Hira
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### More Titles Join Crunchyroll’s Fall/Autumn 2026 Slate
+Wed, 30 Sep 2026 17:10:17 +0000 — https://animeuknews.net/2026/09/more-titles-join-crunchyrolls-fall-autumn-2026-slate/
+
+New shows include: From Far Away, Super Psychic Policeman Chojo, HORROR COLLECTOR, and more.
 
 ### I Want to Love You Till Your Dying Day Volumes 4, 5 and 6 Review
 Wed, 30 Sep 2026 09:00:12 +0000 — https://animeuknews.net/2026/09/i-want-to-love-you-till-your-dying-day-volumes-4-5-and-6-review/

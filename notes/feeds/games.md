@@ -1,6 +1,21 @@
-# Games — harvested 2026-09-30T16:31:02.582Z
+# Games — harvested 2026-09-30T21:00:11.829Z
 
 ## Eurogamer
+
+### Former Halo lead suggests three ways Activision could revive the legendary series, and urges the company to hire laid off Bungie staff
+Wed, 30 Sep 2026 19:26:32 +0000 — https://www.eurogamer.net/halo-lead-activision-revive-hire-bungie-developers
+
+Halo's ex-franchise director, Frank O'Connor, has given Activision a few pointers now that it's in charge of making the next Halo game with a "purpose-built team." Top of the list, hire some devs who were laid off from Bungie and Halo Studios. Read more
+
+### "Xbox is not for sale": CEO Asha Sharma says "we will do whatever it takes" to turn the console maker's fortunes around
+Wed, 30 Sep 2026 18:35:09 +0000 — https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console
+
+Despite mass layoffs at multiple first-party studios and major internal shakeups, CEO Asha Sharma has shot down speculation about a potential Xbox buyout. Read more
+
+### GTA 6 completely "re-engineered" Rockstar's weather systems to "achieve a sense of scale we haven't felt before," adding hurricanes, rainbows and heavy rain
+Wed, 30 Sep 2026 17:04:55 +0000 — https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain
+
+If you thought Red Dead Redemption 2 's heavy winds and even heavier rain looked impressive, you might be happy to learn that Rockstar Games went back and "re-engineered our weather system" for GTA 6 . Hurricanes, rainbows and "vertiginous cumulonimbus clouds" are all part of the upcoming open worlder. Read more
 
 ### It's not even out yet, but Valve's Deadlock just became one of the most played games on Steam
 Wed, 30 Sep 2026 15:24:38 +0000 — https://www.eurogamer.net/deadlock-update-steam-most-played-games
@@ -47,22 +62,27 @@ Wed, 30 Sep 2026 10:53:43 +0000 — https://www.eurogamer.net/xbox-disc-to-digit
 
 After about a month in testing , Xbox's disc-to-digital feature has officially launched for all owners of Xbox consoles. The feature allows users to turn Xbox One and Xbox Series X discs into digital copies. Read more
 
-### Call of Duty: Modern Warfare 4 is getting a Counter-Strike-inspired game mode that I can't believe it never had before
-Wed, 30 Sep 2026 08:16:08 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-counter-strike-collateral
-
-On top of featuring all the game modes you expect from a Call of Duty game, Modern Warfare 4 is courting the competitive scene with something entirely new for the series: a game mode called Collateral. Read more
-
-### The Witcher 3 surges to its highest Steam concurrent player-count ever, following Remastered edition's release
-Tue, 29 Sep 2026 16:24:48 +0000 — https://www.eurogamer.net/witcher-3-steam-most-played-record-remastered
-
-The Witcher 3 's newly released Remastered edition has dramatically rekindled interest in the 11-year-old role-playing game, which is currently enjoying its highest concurrent player-count on Steam ever. Read more
-
-### You can now watch one of this year's best orchestral game-music performances, celebrating Hades 1 and 2, online for free
-Tue, 29 Sep 2026 15:28:16 +0000 — https://www.eurogamer.net/watch-hades-orchestral-performance-recording
-
-The outrageously enjoyable Hades musical orchestral concert, Ballads of the Underworld , is now available to watch in its entirety, online, for free. Read more
-
 ## GamesIndustry.biz
+
+### Ubisoft renames Creative House 2, home of The Division, Ghost Recon and Splinter Cell, as Massive Entertainment
+Wed, 30 Sep 2026 19:20:00 +0000 — https://www.gamesindustry.biz/ubisoft-renames-creative-house-2-home-of-the-division-ghost-recon-and-splinter-cell-as-massive-entertainment
+
+Ubisoft has announced that its Creative House 2 business unit, which houses Tom Clancy's The Division, Ghost Recon, and Splinter Cell alongside "new original IP including March of Giants", will henceforth be known as Massive Entertainment, adopting the 29-year-old brand of the Swedish studio that originated the Divison franchise. That original studio remains part of the Creative House that takes its name, along with Ubisoft Toronto and teams in Paris and Montreal. Read more
+
+### Alleged hacker arrested over leak that exposed GTA Online's daily revenue
+Wed, 30 Sep 2026 18:59:09 +0000 — https://www.gamesindustry.biz/alleged-hacker-arrested-over-leak-that-exposed-gta-onlines-daily-revenue
+
+Dutch police have arrested a 24-year-old Amsterdam man in connection with an investigation into ShinyHunters, the hacking group the FBI says was behind a data breach that exposed confidential GTA Online revenue figures earlier this year. Read more
+
+### Xbox CEO Asha Sharma insists "Xbox is not for sale"
+Wed, 30 Sep 2026 17:43:08 +0000 — https://www.gamesindustry.biz/xbox-ceo-asha-sharma-insists-xbox-is-not-for-sale
+
+Xbox CEO Asha Sharma has pushed back on speculation that Microsoft could spin off its games division, telling the New York Times : "Xbox is not for sale." Read more
+
+### The Witcher 3 hits its highest-ever Steam concurrent player count following Remastered launch
+Wed, 30 Sep 2026 17:01:57 +0000 — https://www.gamesindustry.biz/the-witcher-3-hits-its-highest-ever-steam-concurrent-player-count-following-remastered-launch
+
+The Witcher 3: Wild Hunt has hit its highest concurrent player count on Steam since launch following the launch of CD Projekt Red's free Remastered edition. Read more
 
 ### Grasshopper Manufacture becomes independent as it splits from NetEase Games
 Wed, 30 Sep 2026 14:06:09 +0000 — https://www.gamesindustry.biz/grasshopper-manufacture-becomes-independent-as-it-splits-from-netease-games
@@ -104,31 +124,26 @@ Tue, 29 Sep 2026 14:39:42 +0000 — https://www.gamesindustry.biz/how-indie-stud
 
 Denis Fedorov founded Unfrozen, the studio behind Iratus: Lord of the Dead and Heroes of Might & Magic: Olden Era. He also leads Nova Assembly, a holding company co-owned and run by five studios that share development and marketing expertise, while retaining their creative freedom. Read more
 
-### "Why should we just give up the entire month of November?" – The indie games going head to head with GTA 6
-Tue, 29 Sep 2026 12:30:00 +0000 — https://www.gamesindustry.biz/why-should-we-just-give-up-the-entire-month-of-november-the-indie-games-going-head-to-head-with-gta-6
-
-Grand Theft Auto 6 is set to launch on November 19, and it's a fairly safe bet that it will be the biggest game launch of all time. Read more
-
-### Sony to skip CES 2027 for first time since expo's inaugural event in 1967
-Tue, 29 Sep 2026 10:15:28 +0000 — https://www.gamesindustry.biz/sony-to-skip-ces-2027-for-first-time-since-expos-inaugural-event-in-1967
-
-Sony will not attend the Consumer Electronics Show (CES) next year, marking its first absence since the event began in 1967. Read more
-
-### National Videogame Museum launches UK-wide survey on game preservation
-Mon, 28 Sep 2026 18:14:39 +0000 — https://www.gamesindustry.biz/national-videogame-museum-launches-uk-wide-survey-on-game-preservation
-
-The National Videogame Museum has launched a UK-wide survey aimed at mapping the state of video game preservation across the country. Read more
-
-### "It's a nice story to tell": How DICE bounced back from Battlefield 2042's disastrous launch to release the blockbuster Battlefield 6
-Mon, 28 Sep 2026 18:09:25 +0000 — https://www.gamesindustry.biz/its-a-nice-story-to-tell-how-dice-bounced-back-from-battlefield-2042s-disastrous-launch-to-release-the-blockbuster-battlefield-6
-
-Rebecka Coutaz joined DICE at a very difficult point in the storied Swedish developer's history. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Rumour: New Uncharted Game in the Works at Naughty Dog, Nathan Drake Not the Lead Character
+Wed, 30 Sep 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/09/rumour-new-uncharted-game-in-the-works-at-naughty-dog-nathan-drake-not-the-lead-character
+
+Shaun Escayag at the helm of project. Once it's got Intergalactic: The Heretic Prophet out the door, it will be a new Uncharted game that Naughty Dog focuses on next, a new report claims. MP1st , a website that has previously reported on the likes of Media Molecule's next title and leaked a Killzone project in recent months, shared the details. According to the outlet, Naughty Dog has a new Uncharted entry in development, and The Lost Legacy director Shaun Escayag is leading it. Read the full article on pushsquare.com
+
+### PS Plus Members Can Claim Free PSN Avatars for Sony s Record-Breaking Spider-Man: Brand New Day
+Wed, 30 Sep 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/09/ps-plus-members-can-claim-free-psn-avatars-for-sonys-record-breaking-spider-man-brand-new-day
+
+Available starting next week. If you’re a PS Plus subscriber, you’ll be able to claim a set of free Spider-Man: Brand New Day avatars starting next week, from 6th October. To mark the digital release of the record-breaking movie in the Sony Pictures Core app, subscribers will be able to claim six PSN profile icons, including Tom Holland’s Spider-Man and Zendaya’s MJ Watson. Read the full article on pushsquare.com
+
+### Analyst Argues Gears of War: E-Day Shouldn t Have Been Cancelled on PS5 After Soft Steam Pre-Orders
+Wed, 30 Sep 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/09/analyst-argues-gears-of-war-e-day-shouldnt-have-been-cancelled-on-ps5-after-soft-steam-pre-orders
+
+"Gears isn't necessarily a console-seller anymore". Gears of War: E-Day launches into advanced access imminently, and I’m sure our colleagues at Pure Xbox will be bringing you a review the moment the embargo lifts. You won’t find one on Push Square , of course, as the PS5 version was infamously cancelled earlier this year. Read the full article on pushsquare.com
 
 ### PS Plus Essential Games for October 2026 Announced
 Wed, 30 Sep 2026 15:35:00 GMT — https://www.pushsquare.com/news/2026/09/ps-plus-essential-games-for-october-2026-announced
@@ -175,22 +190,17 @@ Wed, 30 Sep 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/09/silent
 
 Screen Burn will reduce The Weight. If you've played enough of Silent Hill: Townfall , you'll probably have encountered The Weight. This is a slow, top-heavy enemy that patrols a few sections of the game and gives chase if it spots you. You must avoid alerting it while you're going about your objective; otherwise, it'll be on your tail. Read the full article on pushsquare.com
 
-### Crimson Desert s Huge Expansion Pack Has Been Delayed, But Not By Much
-Wed, 30 Sep 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/09/crimson-deserts-huge-expansion-pack-has-been-delayed-but-not-by-much
-
-Charting the Unknown arrives later than planned. Publisher and developer Pearl Abyss has announced a delay for Crimson Desert's massive DLC pack, but fortunately it won't leave fans waiting for too much longer. The ambitious RPG's expansion, titled Charting the Unknown, is now set for release on 29th October, as per a statement released on social media: Read the full article on pushsquare.com
-
-### Mini Review: Dynasty Warriors 3: Complete Edition Remastered (PS5) - A Strong Case for More Musou Revivals
-Wed, 30 Sep 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/dynasty-warriors-3-complete-edition-remastered
-
-A true warrior of the Three Kingdoms. Playing Dynasty Warriors 3: Complete Edition Remastered is a strange but not at all unpleasant experience. This is a borderline remake of Dynasty Warriors 3 — a fan-favourite PS2 instalment that was at least partly responsible for establishing the series' hardcore following here in the west. Read the full article on pushsquare.com
-
-### Vampire Survivors Fans, Take Note: One of Its Best Clones Is Heading to PS5 Next Month
-Wed, 30 Sep 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/09/vampire-survivors-fans-take-note-one-of-its-best-clones-is-heading-to-ps5-next-month
-
-Deep Rock Galactic: Survivors launches soon. If you're like me, you fell hard for Vampire Survivors when it finally came to PS5. Well, another game in the burgeoning bullet heaven genre is coming soon to Sony's console, and apparently it's a corker. The game in question is Deep Rock Galactic: Survivor , a spin-off from the popular co-op mining game. Here's the console announcement trailer to give you a taste: Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Suda 51's Grasshopper Manufacture splits from NetEase
+Wed, 30 Sep 2026 19:37:37 GMT — https://www.gamedeveloper.com/business/suda-51-s-grasshopper-manufacture-splits-from-netease
+
+Suda51 strikes out on his own again.
+
+### Ubisoft Montreal employees launch collective action to preserve hybrid work schedule
+Wed, 30 Sep 2026 17:54:59 GMT — https://www.gamedeveloper.com/production/ubisoft-montreal-employees-launch-collective-action-to-preserve-hybrid-work-schedule
+
+A petition is the first action.
 
 ### Steam's discounts and events tab will soon be fully algorithm-driven
 Tue, 29 Sep 2026 21:30:00 GMT — https://www.gamedeveloper.com/pc/steam-s-discounts-and-events-tab-will-soon-be-fully-algorithm-driven
@@ -232,13 +242,12 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 ### GodotCon
 no date — https://www.gamedeveloper.comconference.godotengine.org
 
-### NarraScope
-no date — https://www.gamedeveloper.comnarrascope.org
-
-### BitSummit
-no date — https://www.gamedeveloper.combitsummit.org
-
 ## VGC
+
+### Xbox CEO Asha Sharma insists Microsoft s gaming business is not for sale
+Wed, 30 Sep 2026 16:44:37 +0000 — https://www.videogameschronicle.com/news/xbox-ceo-asha-sharma-insists-microsofts-gaming-business-is-not-for-sale/
+
+Asha Sharma denies reports Xbox could be sold… Source
 
 ### October s free PlayStation Plus games include F1 25
 Wed, 30 Sep 2026 15:53:39 +0000 — https://www.videogameschronicle.com/news/octobers-free-playstation-plus-games-include-f1-25/
@@ -285,64 +294,84 @@ Wed, 30 Sep 2026 11:50:11 +0000 — https://www.videogameschronicle.com/guide/wi
 
 Enemy Upscaling explained and whether you should turn it on in The Witcher 3: Wild Hunt Remastered… Source
 
-### Witcher 3 Remastered: How Loot Merge works and should you use it?
-Wed, 30 Sep 2026 11:24:08 +0000 — https://www.videogameschronicle.com/guide/witcher-3-remastered-how-loot-merge-works-if-you-should-use-it/
-
-What is Loot Merge and should you enable it in The Witcher 3: Wild Hunt Remastered… Source
-
 ## Polygon
 
-### PlayStation Plus October 2026 Free Games Lineup Officially Revealed
-Wed, 30 Sep 2026 16:03:57 GMT — https://www.polygon.com/playstation-plus-october-2026-games-announced-ps4-ps5-free-essential/
+### 10 Biggest GTA 6 Questions the Previews Haven't Answered Yet
+Wed, 30 Sep 2026 20:17:58 GMT — https://www.polygon.com/gta-6-major-questions/
 
-On Wednesday, Sony revealed the next batch of PlayStation Plus subscribers' free Essential games. Like most months, there's a little something for everyone on offer: F1 25 , Hunt: Showdown 1896 , and Earth Defense Force: World Brothers 2 will be free for subscribers. You'll be able to start downloading the games on Oct. 6.
+Since Netflix's extended look at Grand Theft Auto 6 debuted back in August, we've heard fairly little from Rockstar Games about 2026's most anticipated video game. That all changed on Sept. 29, when Game Informer shared its 14-page deep dive into GTA 6 . Highlights of the article included fresh details about the game's dynamic weather system, the intricacy of its NPCs, and six unique areas of the world map.
 
-### The Pokémon Center Opens Pre-Orders For Delta Reign, The Next Big TCG Set
-Wed, 30 Sep 2026 16:01:29 GMT — https://www.polygon.com/pokemon-center-delta-reign-preorder-tcg-error-15-17-drawing/
+### New 'Pokémon' Release Is Essential for All Eevee Fans
+Wed, 30 Sep 2026 20:16:07 GMT — https://www.polygon.com/pokemon-red-oops-all-eevees-fan-game-eevelution-types-new-release/
 
-The Pokémon Center has officially opened up pre-orders for Delta Reign , its Rayquaza-themed set that releases on Nov. 4, 2026. Here's what's up for sale — and what you can expect.
+With eight official Eeveelutions, fans of the beloved normal-type Pokémon aren't hurting for options — yet paradoxically, they're also one of the most neglected segments of the fandom. After all, it's been 13 years since Game Freak introduced a new Eevee monster in Pokémon X and Pokémon Y . With 18 standard Pokémon types in the games, that means we haven't seen even half of the possible Eeveelution concepts. Never mind the number of Eeveelutions that would be possible if Pokémon's developers ever started combining Eeveelution types.
 
-### Control Resonant Hides Its Best Part 15 Hours Into the Game
-Wed, 30 Sep 2026 16:01:16 GMT — https://www.polygon.com/control-resonant-the-underpass-opinion/
+### Xbox CEO Officially Responds to Xbox Sale Rumors
+Wed, 30 Sep 2026 20:03:28 GMT — https://www.polygon.com/xbox-not-for-sale-ceo-official-response-asha-sharma/
 
-There are plenty of memorable moments in Control Resonant . Seeing the twisted streets of Manhattan for the first time, a gorgeous area that’s covered in cotton candy-like mold, an astonishing boss fight against a floating head — there’s a lot to love, even if you’re less sold on the moment-to-moment action. But my favorite segment of Resonant isn’t any of its flashy moments designed specifically to blow your mind; it’s the game’s most stripped-down location.
+In a tumultuous year for the Xbox division, in which thousands of employees are being laid off and Xbox Game Studios is being broken up, the new CEO of Microsoft's gaming group is resolute on one thing: Despite rumors and speculation to the contrary, Xbox is not for sale. The company has slimmed down its portfolio this year, divesting from four studios and canceling projects.
 
-### Avatar: Seven Havens Episode Titles Revealed (Exclusive)
-Wed, 30 Sep 2026 16:01:16 GMT — https://www.polygon.com/avatar-seven-havens-episode-titles-exclusive-reveal/
+### Magic’s KPop Demon Hunters Secret Lair Is a Total Letdown
+Wed, 30 Sep 2026 20:00:18 GMT — https://www.polygon.com/mtg-kpop-demon-hunters-secret-lair-letdown/
 
-Avatar: Seven Havens premieres Oct. 9 on Paramount Plus. Ahead of that debut, Polygon is teaming up with Paramount and Avatar Studios to officially reveal all 13 episode titles for the show's first season (in both English and Avatarian). We'll be rolling those out three at a time throughout the week, so check back here each day at 12 p.m. Eastern for the latest reveals.
+Well, that is not how it’s done, done, done.
 
-### 'GTA 5' Modder Cancels Switch Port After Mocking Rockstar Backfires
-Wed, 30 Sep 2026 16:00:02 GMT — https://www.polygon.com/gta-5-nintendo-switch-mod-m0jso-project-canceled-taunt-rockstar/
+### Where to find the mysterious dog's toy in Control Resonant
+Wed, 30 Sep 2026 19:41:19 GMT — https://www.polygon.com/control-resonant-mysterious-dog-toy-locations-where-to-find/
 
-In late September, after their attempt to port Grand Theft Auto 5 to Switch went viral online, a modder named M0jso was feeling invincible. Rockstar Games had recently announced that modifying its games to run on unofficial platforms was against the rules, and that breaking them could lead to a ban or account termination. M0jso evidently didn't care. "Try me rockstar," the modder wrote on social media site X. "idgaf."
+A mysterious dog can be found sitting on a rooftop in Control Resonant . When you interact with her, you decide that you need to find her a toy , which every good dog deserves. Luckily, one can be found nearby. However, it turns out that the mysterious dog will appear in multiple zones, so you'll need to find a bunch of toys in order to complete the "Every Dog Has Her Day" side story quest .
 
-### 'Reacher' Meets 'The Terminator' in Prime Video's New Christmas Heist Movie
-Wed, 30 Sep 2026 15:41:51 GMT — https://www.polygon.com/the-man-bag-prime-video-teaser-trailer/
+### All Dylan's Sketchbook collectible locations in Control Resonant
+Wed, 30 Sep 2026 19:35:44 GMT — https://www.polygon.com/control-resonant-dylans-sketchbook-location-collectible-secret-where-to-find/
 
-Christmas has come early for Reacher and War Machine star Alan Ritchson . His hit Prime Video television series Reacher was renewed for a sixth season just days after the season 4 finale streamed, and the show has become one of the streaming service’s biggest hits. While a release date for season 5 hasn’t been announced yet, Ritchson will return to Prime Video in December as he teams up with Arnold Schwarzenegger to save Christmas.
+Dylan's Sketchbook is one of the many collectibles in Control Resonant . For each one, you need to piece together a set. Finding the items and arranging them in the right order can be a bit tricky, but after you get everything set up correctly, you'll get a drawing by Dylan and learn a bit more about him.
 
-### Secretlab ATLAS Dune+ Review
-Wed, 30 Sep 2026 15:30:17 GMT — https://www.polygon.com/secretlab-atlas-dune-chair-review/
+### 8 Most Entertaining Sci-Fi Books of the 21st Century
+Wed, 30 Sep 2026 19:00:18 GMT — https://www.polygon.com/most-fun-sci-fi-books-21st-century/
 
-I’ve never felt more watched than I do now that I have upgraded from a chair so “budget-friendly” that it could barely be called a chair to a Secretlab ATLAS . It’s wonderfully comfortable, really great for my posture, and super easy to adjust to my build. My only woe now is that I have traded poor back positioning to a hilariously unique smidgen of psychological discomfort.
+Science fiction writers imagine the future in order to explore humanity’s present and past, providing a mix of cautionary tales and social commentary. Books about artificial intelligence, alien encounters, and galaxy-spanning wars are often filled with dense explanations of theoretical technologies or complex political factions. While dry and heavy sci-fi can be extremely rewarding to read, the genre also offers plenty of lighter options filled with humor and adventure. If you want some laughs in your future, check out these eight extremely entertaining sci-fi books that grapple with modern issues facing humanity in the 21st Century.
 
-### Nintendo Officially Reveals New Pokémon Legends: Z-A Physical Release
-Wed, 30 Sep 2026 15:18:46 GMT — https://www.polygon.com/pokemon-legends-z-a-new-switch-2-physical-edition-mega-dimension-dlc/
+### Modern Warfare 4's New 'Counter-Strike' Mode Officially Announced
+Wed, 30 Sep 2026 18:46:56 GMT — https://www.polygon.com/modern-warfare-4-collateral-mode-counter-strike/
 
-Pokémon Legends: Z-A was released last fall and sold over 12 million copies by the end of 2025. An expansion, Mega Dimension , dropped before 2025 was up, and it let players explore a distorted version of Lumiose City filled with new Pokémon.
+Call of Duty: Modern Warfare 4 is taking a page from Counter-Strike with a new multiplayer mode built around one of the classic shooter's defining mechanics: buying your gear with money earned during the match. Called Collateral, the new mode puts an economy system on top of the familiar Search and Destroy formula, creating a version of Call of Duty where every death and purchase could have consequences.
 
-### Resident Evil Director’s New Sci-Fi Thriller Has Found Its Lead
-Wed, 30 Sep 2026 15:00:02 GMT — https://www.polygon.com/the-flood-zach-cregger-sci-fi-casting-jennifer-lawrence/
+### Dressmaker Players Are Having a Blast Secretly Ruining Dresses
+Wed, 30 Sep 2026 18:27:33 GMT — https://www.polygon.com/dressmaker-sabotage-revenge-customers/
 
-Zach Cregger is not one to take a break. Fresh off the success of Resident Evil , which may just be the best video game movie ever, the director is already hard at work on his next project: The Flood . The mysterious sci-fi thriller which Cregger will write, produce, and direct — has revealed its first major casting announcement.
+Every service job has that one customer that really has it coming to them. Dressmaker is the rare game that offers you a hilarious opportunity for catharsis, should you be so inclined. On its surface, this is a cozy little sewing sim: You pick fabric, cut a pattern, and stitch buttons on by hand. You deliver a dress, then get a nice thank-you and a tip. It’s the kind of game you’d expect to play with a cup of tea and zero stakes for the ASMR vibes and quick burst of dopamine a la Powerwash Simulator or Unpacking . But then, when you meet a customer rude enough, you might just find yourself wondering if the fabric you select for their commission absolutely must match their specifications. It would seem the game’s developers were hoping you’d ask that question.
 
-### Every romanceable character in The Witcher 3 Wild Hunt
-Wed, 30 Sep 2026 14:49:13 GMT — https://www.polygon.com/witcher-3-wild-hunt-romance-guide-triss-yennefer/
+### Enter Polygon's Secretlab ATLAS Giveaway
+Wed, 30 Sep 2026 18:08:18 GMT — https://www.polygon.com/polygon-secretlab-atlas-giveaway-point-it-out/
 
-Not all romances in The Witcher 3: Wild Hunt are created equally. While some romanceable characters are mere flings, others may become the love of Geralt's life. Whether you wish to stay faithful to Triss or Yennefer, try to seduce half the female population, or are looking for that one unicorn scene, this Witcher 3 romance guide can help you out.
+It's been a glorious few weeks here at Polygon. Not only have we had the privilege of gracing the airways with more episodes of Point It Out! with Matt Patches and Simone de Rochefort, but we've also been able to give out two top-of-the-line gaming chairs to our listeners. Congratulations to the winners so far!
 
 ## PC Gamer
+
+### Valve says Deadlock is still too unfinished to release publicly, but has hero cosmetics and new game modes in the works
+Wed, 30 Sep 2026 20:52:39 +0000 — https://www.pcgamer.com/games/moba/valve-says-deadlock-is-still-too-unfinished-to-release-publicly-but-has-hero-cosmetics-and-new-game-modes-in-the-works/
+
+Deadlock's massive new update isn't a sign of an imminent public release, according to the MOBA's first proper development update . The invite-only game continues to grow in scope and polish, but Valve says there's still a lot of work to do. "We think building a multiplayer game is very hard and risky, and the best way to minimize that risk [is] to make sure that we are able to have it in players' hands from an early state to help us shape it and tell us what is fun and what isn't," Valve says at the top of the update. Six new heroes and a ton of visual overhauls came to Deadlock earlier this year in the Old Gods, New Blood update . While not everything in the game was touched, the breadth of the update made it seem like Deadlock was entering the next stage in its development. The level of polish in the map and many of the game's systems reached a point where it was hard to call it "unfinished" as far as early access games typically go. But Valve can and will do whatever it wants, and in this case that doesn't involve releasing the game to a wider audience. Looking back at that update in this new post, Valve says "there was still a good amount of work we wanted to do on the core game itself before we moved onto more polish phases of the game development (like updating older hero artwork)." Valve says the Deadlock team shifted away from focusing on specific areas of the game and started working on many things in parallel this year. Most of those things are in the new City Neve
+
+### Agony! Two life sims I really want to play launched back to back
+Wed, 30 Sep 2026 19:34:44 +0000 — https://www.pcgamer.com/games/life-sim/agony-two-life-sims-i-really-want-to-play-launched-back-to-back/
+
+Nivalis Nights Everyone's been waiting years for this cyberpunk "slice of life" and shop sim and I'm logging my nightly progress as my noodle bar empire begins. I enjoy a good shop sim, especially when there's decorating to do too. Nivalis Nights is moody and neon-drenched and has a deeper shop finances simulation than I was expecting. I may be sinking a lot of hours into this! Songs of Glimmerwick This is the wizard school game made specifically for me. It's sort of in the Stardew vein of life sim with gardening and a seasonal schedule. I liked the Songs of Glimmerwick demo I played this year quite a lot . I really enjoy all the voice acting and its musical take on magic but I especially like its hopeful message about a world emerging from a generation of regressive politics. ]]>
+
+### The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything
+Wed, 30 Sep 2026 18:57:58 +0000 — https://www.pcgamer.com/software/ai/the-americans-have-officially-renamed-artificial-intelligence-to-super-intelligence-which-should-fix-everything/
+
+Yup, it's real. They did it. Here's the full executive order , if you want to take it all in. Pity poor Sports Illustrated. It's laughable, up there with similarly demented efforts to rename the Gulf of Mexico , Lake Ontario , and maybe New Mexico —I guess we'll see how that one ultimately shakes out. It's also pretty funny how "super intelligence" jibes with "Super Earth," the fascist homeworld of humanity in Helldivers 2 . Probably just a coincidence, though. Yet somehow, I'm not inclined to laugh. That the leader—ruler, really, at this point—of the most powerful nation on the planet can just whip out bizarre ideas like this and have them treated seriously is kind of frightening, isn't it? And it is being taken seriously, at least insofar as we can describe billionaire tech oligarchs lining up to say and do pretty much whatever it takes to keep juicing the share price as seriousness: A subsequent White House Accord on Super Intelligence was signed by a who's-who of people who have made PC gaming almost impossibly expensive: Sundar Pichai (Google) Dario Amodei (Anthropic) Mark Zuckerberg (Meta) Greg Brockman (OpenAI) Elon Musk (XAI) Jensen Huang (Nvidia) (Image credit: Getty Images - Photo by Kevin Dietsch/Getty Images) And yes, they actually misspelled United States as "Unites States" under Trump's signature. Real pros at work here, top men all around. Musk wasted no time publicly endorsing the rebranding on his X platform, although he was back to calling it AI less than ei
+
+### To celebrate September 30, the day the cop inside of Leon Kennedy died, here's my most traumatic encounters in Resident Evil
+Wed, 30 Sep 2026 17:02:57 +0000 — https://www.pcgamer.com/games/resident-evil/to-celebrate-september-30-the-day-the-cop-inside-of-leon-kennedy-died-heres-my-most-traumatic-encounters-in-resident-evil/
+
+Today's basically a national holiday for Resident Evil fans. September 30 marks 28 years since the day the cop inside Leon S Kennedy died, the day he'll never forget; when Raccoon City was wiped out by Umbrella's classic mishandling of bioweapons in Resident Evil 2 . So to celebrate the day that made Leon S Kennedy who he is, I've collated all the most traumatic experiences I've had in Resident Evil games: The Baby The Baby from Resident Evil Village is probably my most vivid traumatic memory of a Resident Evil game. This is for a few reasons. It was in a pretty recent playthrough of the game that I spent about 45 minutes trying to get through that section while having a panic attack with all my friends—turns out a giant fetus chasing you down is pretty hard to forget. As you'll soon discover, one of my greatest fears is being chased, and this really pushes the fetus baby segment from uncomfortable into truly traumatic. No, giant weird fetus baby, I am not your dada. Spider-Mum I could've easily just put the entirety of Resident Evil 7 on this list, and I just might, but if I had to choose the worst part of that game was the mum, because why does she look like that. I like spiders, we have an agreement, and I don't even think the boss fight was that hard but I absolutely did not care for Mrs. Bakers' look in Biohazard. The spider egg sack hanging from her stomach, her grotesquely long limbs, oh god it's just all bad. The only solace I have is that at the very least Capcom did
+
+### I have saved GTA 5 from death and also added tornadoes
+Wed, 30 Sep 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-saved-gta-5-from-death-and-also-added-tornadoes/
+
+Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Sometimes you have to roll up your sleeves and do what's necessary. No sentimentality, no squeamishness—just pure, solution-oriented bluesky thinking. This philosophy once guided Maximilien de Robespierre and now it guides me, in my equally epochal struggle to simply make Grand Theft Auto 5 boot in spite of the vast cargo of mods I have now encumbered it with. Long story short: the game ceased to launch even in windowed mode, which had hitherto been a surefire way to coax it from its deathbed. After many restarts and a lot of graphics noodling, I was forced to ask myself if this was it. If this was the end of my GTA journey. Then I started deleting essentially random files from the game's directory and now it works. So let that be a lesson to you. Now that's out of the way: new mod. This one is called TornadoV and what it does, you see, is it adds absolutely ginormous tornadoes to the already somewhat hectic map of Los Santos (or what remains of it). Hit F5 to configure your tornadoes, hit F6 to spawn them. (Image credit: Rockstar) That last bit is a point of concern, as F6 is also my button to enable noclip and jet about the map at speed. So I can't do that without summoning a twister now, I guess. Okay. It's good fun, anywa
 
 ### Thanks Logitech, your new AI-fueled game clipping software makes me look trash at Counter-Strike, but I'mma keep it installed
 Wed, 30 Sep 2026 15:58:32 +0000 — https://www.pcgamer.com/software/ai/thanks-logitech-your-new-ai-fueled-game-clipping-software-makes-me-look-trash-at-counter-strike-but-imma-keep-it-installed/
@@ -364,10 +393,10 @@ Wed, 30 Sep 2026 15:21:08 +0000 — https://www.pcgamer.com/hardware/gaming-lapt
 
 "I'm sure you'll enjoy reviewing this single-channel Lenovo laptop," Dave joked, as we ended a call discussing the new PC Gamer benchmark database. I laughed, as you do, because it's one of those things that I've written about extensively in recent months, (and moaned at PC Gamer, a lot more about besides), and one I hoped I wouldn't see here today. Because, you know, it's mildly insane. And yet… Here we are. Oh... oh boy. I'm actually reviewing a slew of mid-range laptops currently. This, the MSI Katana 15 HX , and the Asus TUF Gaming A16 . And you know what those other two plucky little lappies have? Well, you've probably already guessed, 2x 8 GB of DDR5, both running at 5,600 MT/s. Not so with Lenovo's Legion 5. This wee beauty comes in with just a single 16 GB stick running at a "rapid" (that's sarcasm) 4,800 MT/s. The gaming equivalent of buying a Porsche 911 GT3 RS, and fitting it with a diesel engine from a 1997 Peugeot 106 (an exaggeration, yes, but I'm just so passionate about RAM channels this feels like an almost personal betrayal to me). Now the logical assumption here is that, for a gamer, this has minimal impact on the overall result, right? You're not going to see any issue at all, because most of your performance comes from the GPU, and its VRAM doing its job. The likelihood of CPU bottlenecks, particularly at 2560x1600, is fairly muted. In short, doing the tasks that this little laptop was designed to fulfill should be a doddle with or without the extra chann
 
-### LIVE: I'm hunting for the least probable Goku on Nexus Mods and no god or government can stop me
+### I've identified the least probable Goku on Nexus Mods and it only took 5 hours
 Wed, 30 Sep 2026 14:59:17 +0000 — https://www.pcgamer.com/games/live/news/least-probably-goku-nexus-mods/
 
-As I've asserted elsewhere , every game has two lives: The first begins on its launch day; the second when a modder inevitably puts Goku in it. Provided enough time, all games eventually conform to this axiom—sometimes even those that had already hosted a Goku to begin with. But the universal drive to mod Goku into games doesn't always manifest as we'd expect. Goku is a clay molded by countless hands, and though his sculptors share a model, their works are anything but uniform. But which, of the innumerable Gokus we have wrought, is the strangest? Today, I've taken up a grave mission: I am searching Nexus Mods for its unlikeliest Goku. And I'm doing it live. Criteria While some Gokus may be assessed via hands-on mod usage as time and game access allow, this survey will largely be judging the mod listings themselves. To determine the least probable Goku on Nexus Mods, I'll be assigning the contenders a Saiyan Singularity Judgment (SSJ) score, calculated as the average of three ratings: Gokuitude: A measurement of whether the Goku in question is recognizably Goku. Does he look like Goku? Does he move like Goku? Does his model seem to suffer from a skeleton that would cause Goku terrible pain? Limit Breakability: If there's one thing Goku admires, it's the ability to surpass one's limits—and the SSJ Scoring System honors the same. Limit Breakability is a subjective assessment of how thoroughly an individual Goku shouldn't exist within its respective software, yet—through determi
+As I've asserted elsewhere , every game has two lives: The first begins on its launch day; the second when a modder inevitably puts Goku in it. Provided enough time, all games eventually conform to this axiom—sometimes even those that had already hosted a Goku to begin with. But the universal drive to mod Goku into games doesn't always manifest as we'd expect. Goku is a clay molded by countless hands, and though his sculptors share a model, their works are anything but uniform. But which, of the innumerable Gokus we have wrought, is the most singular? The most uncanny? The least probable of all Gokus? On September 30, I undertook a grave mission: I scoured Nexus Mods for its unlikeliest Goku. Here's a recounting of my search. Criteria To determine the least probable Goku on Nexus Mods, I assigned the contenders a Saiyan Singularity Judgment (SSJ) score , calculated as the average of three ratings: Gokuitude: A measurement of whether the Goku in question is recognizably Goku. Does he look like Goku? Does he move like Goku? Does his model seem to suffer from a skeleton that would cause Goku terrible pain? Limit Breakability: If there's one thing Goku admires, it's the ability to surpass one's limits—and the SSJ Scoring System honors the same. Limit Breakability is a subjective assessment of how thoroughly an individual Goku shouldn't exist within its respective software, yet—through determination—was made to. For a time, at least. Wish Grantology: Because the Dragon Balls grant
 
 ### Arc Raiders' executive producer explains how he 'wasn't completely prepared for how hard' a live service game would be and warns against the dangers of burnout
 Wed, 30 Sep 2026 14:24:37 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-executive-producer-explains-how-he-wasnt-completely-prepared-for-how-hard-a-live-service-game-would-be-and-warns-against-the-dangers-of-burnout/
@@ -379,32 +408,32 @@ Wed, 30 Sep 2026 13:56:22 +0000 — https://www.pcgamer.com/games/moba/holy-hell
 
 Deadlock players are eating just about better than anyone else right now, as Valve has finally dropped the huge update we'd been promised and oh boy, it's a doozy. City Never Sleeps has brought six new characters who are waiting to be unlocked by community vote, a bunch of UI reworks, more voicelines , and a sweeping visual update to the map. The bases of the Hidden King and Arch Mother are unchanged (00:13) but they're still very cool nevertheless. The real fun, however, lies outside, within the three reworked lanes and four new districts. Here's a look at the new locations. Valve Valve Valve Valve Valve Valve First up we have York. This may seem pretty familiar as it's kept the industrial vibes of the last map iteration, but it's been polished with vast open spaces, while keeping the griminess so core to Deadlock. It even has the New York Stock Exchange towards the Archmother's base, so if you're feeling particularly evil, head on over there. Valve Valve Then we have Broadway, the central lane which has had a massive facelift, now being the busiest hub of the map complete with a highway, neon signs, and towering skyscrapers. There are even steam vents which can hide and heal you for a short while. This was the first thing I saw when coming into the updated map, and it sure did surprise me in the best way possible, never did I think this map could look this cool. Valve Valve Valve Valve Valve Finally we've got Greenwich, my personal favourite. This lane is the prettiest with
 
-### The Pentagon says 'hold my beer,' falls victim to massive data breach affecting roughly 3,000,000 people
-Wed, 30 Sep 2026 13:49:19 +0000 — https://www.pcgamer.com/software/security/the-pentagon-says-hold-my-beer-falls-victim-to-massive-data-breach-affecting-roughly-3-000-000-people/
-
-After the FBI data breach we reported on last week, in which a hacking group claimed it had stolen data on "all FBI employees", a US defence official has confirmed that the Pentagon also fell victim to a cybersecurity breach. Except this one appears to be much larger, lasted for longer, and is potentially very worrying for many civilian US government employees and serving military personnel alike. According to ABC News , the official said that the "Defense Manpower Data Center (DMDC) information system experienced unauthorized access of personally identifiable information by a small number of unauthorized users between October 2025 and July 2026." The DMDC is one of the Pentagon's main data repositories for personnel records, including info on active-duty and reserve troops, alongside civilian employees, contractors, and military veterans. All told, the breach is said to affect 2.76 million living people, and around 294,000 who are deceased. Once the unauthorized access was discovered, the DMDC "immediately remediated the vulnerability." The data is said to have included Social Security numbers and details about military and civilian job positions, but defence officials say they've found no evidence so far that the exposed information was misused. It could have been worse. The DMDC is said to hold records on more than 60 million people , so the three million affected figure would amount to around one in twenty of the total individual records breached. Still, CNN reports that 
-
-### I spent an unreasonable amount of time testing whether Logitech's Superstrike analogue clicks actually make me react quicker
-Wed, 30 Sep 2026 13:26:52 +0000 — https://www.pcgamer.com/hardware/gaming-mice/i-spent-an-unreasonable-amount-of-time-testing-whether-logitechs-superstrike-analogue-clicks-actually-make-me-react-quicker/
-
-Optical click vs analogue click Reaction times taken and averaged from Human Benchmark Reaction time Sensei Pro 176.4 X3 Superstrike (level 3) 177 X3 Superstrike (level 1) 175.1 0 50 100 150 200 Avg reaction time (ms) Reaction time Data Product Value Sensei Pro 176.4 X3 Superstrike (level 3) 177 X3 Superstrike (level 1) 175.1 I had about the same reaction time with both mice, regardless of the level of actuation I set the X3 Superstrike to. The Logitech G Pro X3 Superstrike (and the X2 Superstrike ) promises a reduction in latency between deciding to click and actually clicking, because you can reduce the button-press distance thanks to the analogue switches. Which is great on paper, but I wanted to see just how much of a difference it makes in practice. I used the X2 Superstrike for a while after it came out, and I felt a difference while playing Counter-Strike, but it was difficult to know how much of that was placebo. So, now the X3 is out, I thought I'd actually test the difference compared to a mouse with regular clicks. I used the Human Benchmark reaction test , and I have done so much reactive clicking this morning that I now feel I never want to engage that part of my brain again. I did 150 reactive clicks total—50 for the SteelSeries Sensei Pro , 50 for the X3 Superstrike at its lowest actuation distance (level 1), and 50 for at level 3. I made sure to swap between the mice quite frequently to ensure it wasn't just a case of me improving over time. All worth it in th
-
-### No Law might be the open-world Deus Ex that Cyberpunk 2077 wasn't
-Wed, 30 Sep 2026 12:47:45 +0000 — https://www.pcgamer.com/games/rpg/no-law-might-be-the-open-world-deus-ex-that-cyberpunk-2077-wasnt/
-
-Like many people, I was initially disappointed by Cyberpunk 2077 . Also like many people, I think CD Projekt did a superb job fixing it. Post- Phantom Liberty Cyberpunk is one of my favourite games, to the point where I might just love it even more than The Witcher 3. That said, even in its superior modern form, Cyberpunk isn't quite the game that I wish it was—namely an open world Deus Ex . CD Projekt's early trailers and gameplay demos implied a more immersive sim-like experience, and there are many elements in the final game that are immersive sim-like. The range of abilities it offers, the mixture of stealth and combat, the playful, mischievous hacking skills, the side-missions that often let you infiltrate or attack a compound from multiple angles of approach. It's all the kind of stuff you'd expect to see in a Deus Ex game with the scope blown out. (Image credit: Neon Giant) Ultimately, though, Cyberpunk 2077 isn't that game. Your progress and prowess is far too tightly bound to your character level to make it a functioning immersive sim. Plugging points into skill trees will transform mechanics like stealth from next to useless to being massively overpowered. And those open-ended missions are very much a side dish. Whenever the central storyline rears its head, Cyberpunk becomes as linear and prescribed as a Call of Duty campaign. Whenever the central storyline rears its head, Cyberpunk becomes as linear and prescribed as a Call of Duty campaign. To be clear, I'm not c
-
-### You're hyped for Deadlock's new heroes and map updates, I'm hyped because of the 800 extra pre-match conversations, we are not the same
-Wed, 30 Sep 2026 11:13:07 +0000 — https://www.pcgamer.com/games/moba/youre-hyped-for-deadlocks-new-heroes-and-map-updates-im-hyped-because-of-the-800-extra-pre-match-conversations-we-are-not-the-same/
-
-I kinda wish Deadlock wasn't a MOBA —not because I don't play MOBAs, you understand. I have a misspent youth of over 2,400 hours in Dota 2 and 340 of the suckers in Deadlock itself. I know ball. Rather, I think Deadlock's universe and characters are so damn charming that I'd love for more people to know about them, and the MOBA genre is kinda unassailable. And while the recent major Deadlock update has me kicking my feet and squealing at the gorgeous new environments—and I am very excited for Baba—there's one thing that makes me even happier: The voice lines. Not only does the update bring a voice line viewer into the game, it also… well, let me just let the official site speak for itself : "Pre-match conversations between new and existing heroes increased from over 700 to 1500." It's Christmas , baby. Here are some of my favourites I've found so far: These samples—the Drifter discovering a Lovecraftian god, Mina and Pocket being the most divorced couple in NYC, Celeste bargaining for her life, and Rem being a freaky little freak—are just some of the excellent conversations I've been flipping through since the update was released. Honestly, I've been digging into them for more time than I've been playing actual matches. And the new cast of five heroes is only bound to add more excellent dynamics to Deadlock's roster—I can't, for instance, wait to see how the prolifically sassy capital punishment survivor Seven and park bench witch Baba interact, or how the "Be Not Afraid" doc
-
-### Amazon's $25 self-propelling speakers gave me the giggles as they tried to walk off the edge of my desk, and that's almost worth the price of entry alone
-Wed, 30 Sep 2026 10:43:00 +0000 — https://www.pcgamer.com/hardware/speakers/amazons-usd25-self-propelling-speakers-gave-me-the-giggles-as-they-tried-to-walk-off-the-edge-of-my-desk-and-thats-almost-worth-the-price-of-entry-alone/
-
-Budget Win or Recycle Bin? (Image credit: Future) Andy Edser is a man with a mission. It's a mission he didn't sign up for, or even want, but I'm his boss so he has to do what I say. And I'm making him test a ton of different cheap tech I might find on Amazon, AliExpress, TikTok Shop, or down the back of my sofa. Out of nowhere it will appear on his doorstep with no warning, and he has no choice but to use whatever it is like his life depends on it. Because it does. Welcome to another episode of Budget Win or Recycle Bin, in which my editor sends me ultra-affordable products to review in an attempt to find decent PC gaming gear that costs less than the rest. Or to get his kicks by forcing me to test cheap rubbish, one of the two. This month, it's the turn of the Amazon Basics Stereo 2.0 desktop speakers —or as I like to call them, "the little speakers that almost could." For a mere $25, you too could be the proud owner of a pair of surprisingly loud little desktop speakers. This miniature conical set is capable of an impressive amount of volume, in combination with some remarkably hefty bass given the diminutive driver size. So much so, the units like to go for a little wander. All on their very own, as evidenced by my timelapse footage below: Look at them go! Even when placed on a flat surface, I've found these speakers love to go running off on a little adventure. Crank the volume, turn your back, and you'll soon find them attempting to escape. Which is downright endearing 
-
 ## GameSpot
+
+### The Splinter Cell Remake Is Still Lurking In The Shadows
+Wed, 30 Sep 2026 18:41:08 +0000 — https://www.gamespot.com/articles/the-splinter-cell-remake-is-still-lurking-in-the-shadows/
+
+A remake of the original Splinter Cell game was first announced nearly five years ago, and since then, we've seen exactly zero seconds of the game in action, or even a trailer. However, as we know with Sam Fisher, silence can be deceiving, and it looks like Ubisoft is actively recruiting for several roles on the project. Spotted by Insider Gaming , job openings for a few different positions, including level designer and producer, have been posted within the last few months. This isn't necessarily indicative of how far along the project is--people are hired and leave all the time--but it does at least let us know that the project is still in active development. It's also not the first time we've seen job listings pop up, but with company in as volatile a state as Ubisoft, you never know. https://www.youtube.com/watch?v=4A9iFjaKeMk It's unclear exactly what shape this remake will take, as geopolitical dynamics have changed quite a bit since 2002. It's also unclear how much influence it would take from the later games in the series, with Conviction and Blacklist both including more action-aligned mechanics like Mark & Execute. Since the release of Splinter Cell Blacklist in 2013, we haven't gotten a new Splinter Cell game. Sam Fisher has made numerous appearances, however, including a few guest missions in Ghost Recon and an inclusion in Rainbow Six Siege. The Netflix animated series also released last year, with Liev Schreiber taking over voice duties from Michael Ironside.
+
+### Xbox CEO Insists It s Not For Sale Amid Studio Closures, Layoffs
+Wed, 30 Sep 2026 18:11:12 +0000 — https://www.gamespot.com/articles/xbox-ceo-insists-its-not-for-sale-amid-studio-closures-layoffs/
+
+The " Xbox reset " has people wondering whether Microsoft is preparing to exit the video game business, but Xbox CEO Asha Sharma has flatly denied that the gaming division will be put up for sale. "Xbox is not for sale," Sharma said to The New York Times . "We will do whatever it takes to set the company up for success, and we will look at the right partnerships, the right operating model, and everything needed to achieve that." Sharma's comments come in the wake of analysts predicting that Microsoft could sell Xbox off entirely . Compared with Microsoft's profitable cloud computing and artificial intelligence businesses, Xbox has paled in comparison, and the gamble on Xbox Game Pass hasn't paid off, despite Microsoft investing tens of billions in acquiring several video game publishers and studios over the years. Xbox’s accountability margins amount to only a 3% profit , a small return on investment for its parent company. https://www.youtube.com/watch?v=XiYNNGR4uLo Microsoft CEO Satya Nadella has said that Xbox will have to start pulling its weight under Sharma's leadership, and the Xbox CEO previously told employees that the Xbox business was not in a healthy state. Nadella has also praised Sharma's cuts at Xbox, saying they have led to a "streamlining" of the division . If Sharma is setting Xbox up to generate more profit for Microsoft, then it's all part of a years-long strategy in the making. Halo is now an Activision project, and is likely several years away as the pub
+
+### You Can Hate The Sonic Movies, But They Help The Games Get Made, Sega Says
+Wed, 30 Sep 2026 17:43:36 +0000 — https://www.gamespot.com/articles/you-can-hate-the-sonic-movies-but-they-help-the-games-get-made-sega-says/
+
+Sonic has had a rough go at things lately, what with the myriad games that haven't been hitting like they used to. Sega appears to be aware of that and has acknowledged that, although the games have struggled recently, the franchise as a whole is back in the zeitgeist again--and it's all thanks to the live-action movies. In an interview with Automaton at the Tokyo Game Show , series producer Takashi Iizuka spoke about the impact that director Jeff Fowler's three live-action movies have had on repopularizing Sonic again. "Thanks to the movies, awareness of the Sonic series has grown, and more people around the world have become interested in Sonic as a character and in the games," Iizuka said when asked about the positive effect other media has had on the franchise. "That has contributed to game sales as well. Strong game sales mean we have more resources available when making the next title, which allows us to deliver something of even higher quality. That creates a positive cycle. In that sense, multimedia and transmedia expansion are majorly beneficial for the games." Iizuka went on to say that movies weren't the only medium that has improved Sonic the Hedgehog's cachet in recent times. Anime has contributed as well, and so has Netflix, which has made film and television production more ubiquitous for Sega. "In the past, even if we decided to make an anime as part of our transmedia strategy, we had to approach television broadcasters and other outlets that would air it, and
+
+### WoW: Forever Is Keeping More Than 12,500 Items Secret
+Wed, 30 Sep 2026 17:24:45 +0000 — https://www.gamespot.com/articles/wow-forever-is-keeping-more-than-12500-items-secret/
+
+World of Warcraft: Forever is looking to keep its secrets, as over 12,500 items in the game's files have been kept hidden from dataminers. The WoW: Forever beta is currently in full swing, and in addition to new dungeons, abilities, and even a whole new playable race, players are quickly discovering there are tons of new items that will completely change how this old-school version of WoW is played. Whether it's items with far more spellpower at early levels or gear tailored towards professions, Blizzard is definitely mixing things up so that the game's leveling journey, and its endgame, are going to feel all new. As broken down in detail by Icy Veins , part of how Blizzard looks to be accomplishing this is by keeping almost 40% of the game's nearly 32,000 items a secret. Dataminers can technically see that these 12,000 plus items exist and even where many of them potentially come from, but can't see what their stats are. Many of these items are assumed to be all-new, though some are likely variants or modified version of items from WoW Classic. https://www.youtube.com/watch?v=dvueCoFTkCk&t Players have already taken a bite out of that 12,500 item total, having discovered over 4,400 "hidden" items in the Forever beta. Once an item has been discovered, it's then revealed in the game's backend. Icy Veins notes that not all the items datamined might actually exist in Forever, as it lists a number of items that were part of WoW Classic's Season of Discovery and might not make it 
+
+### Yes, Guile s Street Fighter Movie Theme Goes With Everything
+Wed, 30 Sep 2026 16:47:31 +0000 — https://www.gamespot.com/articles/yes-guile-street-fighter-movie-theme-goes-with-everything/
+
+The Street Fighter movie is shaping up to be a love letter to Capcom's classic fighting game series, with its goofy action and costumes, but if there's one crucial element it's nailing, it's the franchise's sound. Specifically, Guile's iconic theme, which is legendary for its ability to complement anything in life. How does the movie version match up? It's not straying from what is considered fighting game soundtrack perfection, but it is adding to it with a kickass guitar solo and a few more cinematic tweaks, allowing the main theme to do all the heavy lifting. Listen to it yourself, from one of the streaming links below: Apple Music Spotify Amazon Music YouTube Music Deezer Tidal Guile's Theme is one of those evergreen memes of the late 2000s and early 2010s, and while it's nowhere near as popular as it once was--YouTube probably got sick of all those 10-hour uploads--it's still instantly recognizable. The original theme debuted in the 1991 arcade release of Street Fighter II and was composed by Yoko Shimomura. For the upcoming Street Fighter movie, the score was produced by Leo Birenberg and Zach Robinson (Cobra Kai), who say that the original game soundtracks were instrumental in shaping their musical identities. "As young and budding composers, we listened to Yoko Shimomura's iconic Guile’s Theme probably more than Raiders of the Lost Ark," the duo said in a press statement. "We hope fans will hear the love and reverence we hold for this music within our version of Guile
 
 ### PlayStation Plus Free Games For October 2026 Revealed
 Wed, 30 Sep 2026 10:46:01 +0000 — https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-october-2026/
@@ -440,31 +469,6 @@ More than a decade has passed since The Witcher 3: The Wild Hunt first launched,
 Wed, 30 Sep 2026 13:01:32 +0000 — https://www.gamespot.com/articles/steam-is-finally-changing-how-games-get-their-big-front-page-break/
 
 The front page of Steam has long been a hot commodity for game developers and publishers, but next year, some big changes are coming. Valve has announced that it'll be changing how it handles game discoverability during sales and promotions on Steam, as it'll be moving away from the old model of a tightly controlled page through a manually curated calendar to dynamic, personalized recommendations that'll cater to individual user preferences and their purchase history. Historically, Valve employees selected which games got featured in a limited number of fixed slots on the Steam front page, and only a fraction of discounted games got valuable front-page visibility. According to Valve, preliminary experiments resulted in up to 10 times as many games appearing per day in the Discounts & Events section, leading to measurable increases in store page visits and wishlist additions. Steam deals page What does this mean? For developers, it means that they won't need to rely on relationships, manual pitches, or sheer luck to potentially get a front-page placement. This will also effectively level the playing field for all developers, as smaller teams and publishers typically don't have the budget to compete with AAA blockbuster marketing teams. Valve added that it has already paused scheduling curated placements in the Weekend Deals, Midweek Deals, and Daily Deals sections, and it will soon roll out new and updated tools to help developers better manage their discounts and sale events 
-
-### The Biggest New Game Releases Of October 2026
-Wed, 30 Sep 2026 12:00:00 +0000 — https://www.gamespot.com/articles/the-biggest-new-game-releases-of-october-2026/
-
-If you thought September was a big month for new releases, then you ain't seen nothing yet. As the days tick down to the November launch of Grand Theft Auto 6, numerous games are looking to avoid being caught in the blast radius of the year's biggest release, which has led to an absolutely stacked October. Between original releases, sequels, and hot indie games, the next couple of weeks are loaded with options across a wide variety of genres and ideas. You can check out our top picks below, and if you want to see what's closing out the year, you can also read through our list of upcoming 2026 games . Dynasty Warriors 3: Complete Edition Remastered https://www.youtube.com/watch?v=UTVVw9fsHVA&pp=ygUvRHluYXN0eSBXYXJyaW9ycyAzOiBDb21wbGV0ZSBFZGl0aW9uIFJlbWFzdGVyZWQ%3D Release date: October 1 Platforms: PC, PS5, Xbox Series X|S, Switch 2 We're suckers for a good Dynasty Warriors game, as these one-against-too-damn-many-enemies simulators are perfect for when you want to turn your brain off and revel in being a battlefield badass. There have been many games in the series over the years, and Dynasty Warriors 3 is often considered a high point for the series, as it further refined its musou formula. If you've never played it, you can grab this new remaster, which enhances the original with Unreal Engine 5 graphics, numerous gameplay tweaks, and plenty of cannon-fodder troops to mow down. Ghost of Yotei: Complete Edition https://www.youtube.com/watch?v=2bQrrWCRkMY&pp=ygUgR2hvc3Qgb2YgWW
-
-### Alleged WoW: Forever Survey Teases 11 New Classes, Including Some Deep Cuts
-Tue, 29 Sep 2026 19:43:28 +0000 — https://www.gamespot.com/articles/alleged-wow-forever-survey-teases-11-new-classes-including-some-deep-cuts/
-
-World of Warcraft : Forever's new take on classic Azeroth is opening the door to all kinds of new ideas in the old-school version of Blizzard's MMORPG, and new classes look to be one of them. Blizzard, of course, has added a total of four new classes over the last two decades to the modern version of WoW: Death Knight, Monk, Demon Hunter, and Evoker. But an alleged leaked survey pushed to select WoW players via Blizzard's Battle.net launcher is now asking about potential new classes for WoW: Forever , the recently revealed third version of the MMO that will introduce new quests, zones, and content to the "vanilla" version of WoW. It's not the first time Blizzard has conducted a survey this way, and while Blizzard asks participants not to disclose the survey's details , their contents almost always find their way online. That's the case here, as players were quick to share information about 11 potential new classes listed in the survey, and content creators like Bellular have gone as far as to provide a full breakdown. Information contained about each of these potential classes includes basic lore, what types of weapons they would be able to use, the armor class they would wear, the resources they would use, what roles they would fill, and even signature abilities. The classes listed in the survery are: Bard Death Knight Demon Hunter Illusionist Monk Necromancer Metalborn/Runemaster/Runeknight San'layn Tinker Warden Witch Three of the new classes would essentially be "new," ol
-
-### GTA 6 Won t Spoof Disney World, And That s Too Bad
-Tue, 29 Sep 2026 19:24:02 +0000 — https://www.gamespot.com/articles/gta-6-wont-spoof-disney-world-and-thats-too-bad/
-
-GTA 6 will not include its own spoof on one of Florida's most iconic venues: Walt Disney World. I adore all things Disney, including the parks. But I also appreciate and enjoy Rockstar's penchant for sarcasm and making fun of things. And Disney World? There is a lot to poke fun at. So I am a bit bummed that Walt Disney World--or whatever Rockstar would name its simulacrum--won't appear in GTA 6. Game Informer asked Rockstar if Florida's central region, including Orlando and its tourist destinations like Walt Disney World and Universal Studios, would be represented in GTA 6 in some form, and Jack McPherson said they wouldn't. However, McPherson stressed that GTA 6 will offer the "full Florida experience" in numerous other ways. “We have to constantly evaluate the diversity of landscapes, towns, structures, landmarks, vistas, plant species, rock formations and everything else before we work with design and narrative to distill a list down that best works with and serves the game’s needs. So, while we may not have those exact locations, everything we have is geared to getting that full Florida experience!” Lucia and Jason in GTA 6. GTA 6 also won't feature SeaWorld or Florida's iconic "Space Coast," featuring Cape Canaveral's historic launch pad. I am not too surprised by any of this, though, considering GTA 6 takes place in Vice City, a stand-in for Miami, which is a four-hour, 230-mile drive from Orlando. I know GTA 6 is going to be a big game-- featuring the biggest game map 
-
-### CoD: Modern Warfare 4 Brings Back The Franchise s Most Chaotic And Divisive Multiplayer Map
-Tue, 29 Sep 2026 19:08:41 +0000 — https://www.gamespot.com/articles/cod-modern-warfare-4-brings-back-the-franchises-most-chaotic-and-divisive-multiplayer-map/
-
-Activision has confirmed that one of the Call of Duty franchise's most notorious maps, Shipment , is coming back for this year's Modern Warfare 4. After fans spotted it in the newly released trailer for MW4's PC version , the Call of Duty account directly confirmed its return with a dedicated post. Shipment, which debuted in 2007's Modern Warfare 4, is a tiny map filled with shipping containers that players can dash through. Due to its small size, players can get wiped out in their spawns easily, and the action generally is extremely chaotic. Some people love the map. Others hate it. https://twitter.com/CallofDuty/status/2104969093409648927 Shipment's return in 2026's MW4 is no big surprise, as it's been featured in numerous Modern Warfare games over the years. It also showed up in Call of Duty: Vanguard and Call of Duty: Mobile . While Activision has confirmed that Shipment will return in MW4, the company did not say if it will be among the 12 6v6 maps available at launch, or if it will be released sometime later. For those who enjoy Shipment, its inclusion in MW4 is just the latest piece of good news. Before this, Activision confirmed that MW4 will finally fix how double XP tokens work and the dreaded "update requires restart" notice is going away . Additionally, MW4 will usher in a feature in Warzone that lets you avoid seeing all those wacky skins . The game also has a brand-new, Counter-Strike style mode . Modern Warfare 4 launches on October 23 for PS5, Xbox Series X|S,
-
-### WoW: Forever Players Are Up In Arms Over Streamer Not Being Banned For Illegal Gold
-Tue, 29 Sep 2026 18:35:45 +0000 — https://www.gamespot.com/articles/wow-forever-players-are-up-in-arms-over-streamer-not-being-banned-for-illegal-gold/
-
-World of Warcraft: Forever is opening up old wounds when it comes to Blizzard's actions (or in many players' views, inaction) against bots and real-money gold buying, with a recent incident involving a popular streamer becoming a flashpoint for the MMORPG. WoW Classic streamer Ziqo was recently seen on stream accepting large sums of gold from strangers in the lead up to a $100,000 WoW: Forever beta dueling tournament on October 17. In a clip in which he was traded 380 gold from a level one character (a huge amount in WoW Classic/Forever, particularly in a beta that's only been out for two weeks), Ziqo can be heard saying there's no way that amount of gold is "natty" but accepts the trade anyways. In another clip , he accepts 175 gold from a different level one character named El Delivery. The community immediately saw huge cause for concern. Not only did gold buying already appear to be alive and well in the Forever beta after Blizzard previously said it would be more aggressive in taking action against gold buyers, but the streamer looked to be effectively buying his way to victory in the upcoming tournament. With that amount of gold, Ziqo would be able to essentially buy anything he needed in the lead up to the tournament, giving him an advantage. The WoW Classic subreddit became aflame with calls for Blizzard to take action. https://www.reddit.com/r/wowforever/comments/1wsf0km/ziqo_accepting_rmt_gold/ Without mentioning Ziqo by name, WoW community manager Kaivax shared Bli
 
 ## Rock Paper Shotgun
 
