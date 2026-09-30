@@ -6,6 +6,8 @@ excerpt: CD Projekt Red's second free overhaul of an eleven-year-old game buries
 cover: /img/blog/witcher-3-remastered-2026-lighting-overhaul/shot-01.jpg
 ---
 
+> **Update, 30 September 2026:** the Remastered edition shipped on 29 September. What the lighting rework actually cost on each platform is in [Witcher 3 on Switch 2: 720p buys the lighting](/blog/witcher-3-remastered-switch-2-720p-lighting-budget/).
+
 September 29. That's the date CD Projekt Red gave the Gamescom Opening Night Live crowd for The Witcher 3: Wild Hunt — Remastered, and the number that actually matters isn't the date. It's the count of how many times this specific game has now been rebuilt for current hardware: this is the second free overhaul since the PS5/Series X next-gen update shipped in December 2022. Same base game, same eleven years since launch, and CD Projekt Red is going back in.
 
 Free for existing owners on PC, PS5 and Xbox Series X/S. A native Switch 2 version, also free to anyone upgrading. And, in a move nobody had on their bingo card, a native release on Battle.net — the first Witcher game to sit next to Blizzard's library. Hearts of Stone and Blood and Wine become free additions for everyone who owns the base game, which is either generosity or a way of making sure nobody reviews Songs of the Past, the new 2027 expansion, without the full trilogy of tone sitting behind it.
