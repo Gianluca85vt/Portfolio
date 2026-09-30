@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Interaction: Blender's interface assumes hover, a middle mouse button and a modifier key under each hand. In the conference footage a pen supplies one of those."
     - "Pipeline: with OIDN absent from the Android dependency set, Cycles on a tablet renders without its denoiser, which is exactly the wrong compromise on the weakest hardware in the studio."
-draft: true
 ---
 
 Somebody ran Blender 5.3 on a Wacom Android tablet at the Blender Conference
