@@ -3,7 +3,7 @@ title: "Houdini RBD: add fracture without re-simulating"
 date: 2026-09-29
 category: 3D
 excerpt: Jae Jun Yi's multi-layered RBD workflow, presented at SIGGRAPH 2026, lets a second fracture inherit motion a director has already signed off on.
-cover: /img/blog/houdini-layered-rbd-fracture-approved-sim/cover.svg
+cover: /img/blog/houdini-layered-rbd-fracture-approved-sim/shot-01.jpg
 sources:
   - outlet: 80 Level
     url: https://80.lv/articles/former-pixar-fx-artist-reveals-a-smarter-way-to-refine-destruction
