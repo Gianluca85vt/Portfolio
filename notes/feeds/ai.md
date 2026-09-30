@@ -1,16 +1,21 @@
-# AI — harvested 2026-09-30T10:44:13.005Z
+# AI — harvested 2026-09-30T16:31:02.582Z
 
 ## OpenAI
 
-### Introducing GPT-6.1 Sol
-Tue, 29 Sep 2026 10:00:00 GMT — https://openai.com/index/introducing-gpt-6-1-sol
+### Helping small businesses put AI to work
+Wed, 30 Sep 2026 10:00:00 GMT — https://openai.com/index/helping-small-businesses-put-ai-to-work
 
-Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
+OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
 
 ### DevDay 2026 Recap
 Tue, 29 Sep 2026 10:00:00 GMT — https://openai.com/index/devday-2026-recap
 
 Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
+
+### Introducing GPT-6.1 Sol
+Tue, 29 Sep 2026 10:00:00 GMT — https://openai.com/index/introducing-gpt-6-1-sol
+
+Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
 
 ### Introducing dots
 Tue, 29 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-dots
@@ -29,6 +34,9 @@ OpenAI apologises for incidents involving Australian government websites and out
 
 ## Hugging Face
 
+### Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
+Wed, 30 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/open-tts-leaderboard
+
 ### NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
 Tue, 29 Sep 2026 15:30:38 GMT — https://huggingface.co/blog/nvidia/kumo-tabular
 
@@ -37,7 +45,10 @@ Tue, 29 Sep 2026 13:07:00 GMT — https://huggingface.co/blog/MultiverseComputin
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Introducing SynthID Bio
+Wed, 30 Sep 2026 15:03:07 +0000 — https://deepmind.google/blog/introducing-synthid-bio/
+
+Proof of concept for watermarking AI-generated proteins while preserving biological function.
 
 ## VentureBeat AI
 

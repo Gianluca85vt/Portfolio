@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-09-30T10:44:13.005Z
+# Film & TV — harvested 2026-09-30T16:31:02.582Z
 
 ## Variety
 
-### Ajay Devgn Says Drishyam 3: The Conclusion Surpasses Predecessors, Ends Franchise for Good (EXCLUSIVE)
-Wed, 30 Sep 2026 10:40:32 +0000 — https://variety.com/2026/film/news/ajay-devgn-drishyam-3-conclusion-franchise-ends-ai-1236893332/
+### Sense and Sensibility Inspires Handcrafted Apparel Collection From Designer Sarah Flint, Featuring Embroidered Heels and Painted Scarves
+Wed, 30 Sep 2026 16:30:00 +0000 — https://variety.com/2026/shopping/news/sense-and-sensibility-sarah-flint-collection-shop-online-1236893657/
 
-Top Bollywood star Ajay Devgn tells Variety he is confident Drishyam 3: The Conclusion clears the bar set by its predecessors, calling the psychological thriller s twists unpredictable even for genre-savvy audiences accustomed to guessing outcomes. Speaking ahead of the film s Oct. 2 release, Devgn says the Hindi-language franchise ends definitively, unlike its open-ended Malayalam-language counterpart. [ ]
+Jane Austen is getting a style upgrade just in time for the latest trip to the Dashwood family estate. Designer Sarah Flint has teamed with Focus Features on a new capsule collection inspired by the upcoming “Sense and Sensibility” adaptation, translating the contrasting personalities of sisters Elinor and Marianne Dashwood into shoes, scarves and Georgian-era [ ]
 
-### Beta Film Takes ‘Rex Vienna Calling’ Worldwide as Season 2 Goes Into Production (EXCLUSIVE)
-Wed, 30 Sep 2026 09:29:57 +0000 — https://variety.com/2026/tv/markets-festivals/beta-film-rex-vienna-calling-global-sales-season-2-1236893302/
+### Paramount Deal and U.S. Film Incentive Reflect Hollywood s Deepening Ties to Government
+Wed, 30 Sep 2026 16:15:00 +0000 — https://variety.com/2026/film/news/paramount-film-credit-hollywood-government-ties-1236878443/
 
-Beta Film has unveiled a broad international sales footprint for “Rex Vienna Calling,” the latest incarnation of the three-decade-old “Rex A Cop’s Best Friend” franchise, as production gets underway on a second season. The series has been sold to SBS in Australia, Rai in Italy and TV 2 in Denmark. Elsewhere in Europe, [ ]
+Last week, politicians decided they could not let Hollywood slip away. First, California Gov. Gavin Newsom pushed for a resolution of the Paramount antitrust case out of fear that the studio would leave the state. And in Congress, Republicans and Democrats joined to introduce a U.S. film incentive, recognizing they are at risk of losing [ ]
 
-### Mubi Takes Global on Los Javis ‘La Mesías’ and Rodrigo Sorogoyen’s ‘Riot Police’ as Movistar Plus Rolls Out Iconic Hits Around the World (EXCLUSIVE)
-Wed, 30 Sep 2026 09:21:19 +0000 — https://variety.com/2026/tv/global/mubi-movistar-plus-los-javis-la-mesias-riot-police-1236893317/
+### Funko Unveils Ultra-Limited Marvel NYCC Figures, Including $100 Light-Up Sorcerer Supreme Doom
+Wed, 30 Sep 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/doctor-doom-sorcerer-supreme-doom-funko-pop-buy-online-1236893562/
 
-Mubi has taken worldwide rights to two iconic series from Movistar Plus International, the overseas distributor of the biggest Spanish pay TV and SVOD operator: “La Mesias,” from “La Bola Negra” directors Los Javis, and “Riot Police,” the first premium TV series from “The Beloved” director Rodrigo Sorogoyen. Further headlines: Nominated on Sept. 23 for [ ]
+Funko is bringing some heavy Marvel firepower to New York Comic Con this year, including an ultra-limited light-up Doctor Doom figure that will be one of just 500 produced. The collectibles company has unveiled a new batch of Marvel Pop! figures timed to NYCC 2026, led by the $100 Pop Super Grail SFX Sorcerer Supreme [ ]
 
-### Zygi Kamasa s U.K. Film Distributor True Brit Entertainment Files for Administration Due to Extremely Challenging Market Conditions
-Wed, 30 Sep 2026 07:59:38 +0000 — https://variety.com/2026/film/global/true-brit-entertainment-files-for-administration-1236878460/
+### Drew Carey to Host Undercover Boss Return at CBS, Which Also Orders New Reality Series Stacks of Cash and 24 Hour Millionaire
+Wed, 30 Sep 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/undercover-boss-return-cbs-drew-carey-host-1236893615/
 
-True Brit Entertainment, the U.K. theatrical distributor that launched less than three years ago, has filed for administration, a British legal process similar to Chapter 11 bankruptcy. The company, which was founded by former Lionsgate U.K. Europe CEO and Marv Studios Group CEO Zygi Kamasa, becomes the latest casualty of the U.K. s extremely tough [ ]
+CBS is tripling down on its unscripted lineup, bringing back a new version of “Undercover Boss” — this time hosted by Drew Carey — and greenlighting two new series: “Stacks of Cash,” hosted by Mike O Malley, and “24 Hour Millionaire,” from the producers behind “Big Brother.” In the case of “Undercover Boss,” CBS said it [ ]
 
-### Amazon MGM Execs Javiera Balmaceda, Nicole Morganti Talk Big Spanish-Language Action Swings, the Push for Scale at Iberseries Platino Industria
-Wed, 30 Sep 2026 06:37:02 +0000 — https://variety.com/2026/film/global/amazon-mgm-javiera-balmaceda-nicole-morganti-iberseries-1236878405/
+### David Ellison Recruits Mattel s Ynon Kreiz for Senior Role at Merged Paramount-Warner Bros.
+Wed, 30 Sep 2026 15:43:50 +0000 — https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-senior-role-mattel-1236893607/
 
-Speaking at the Iberseries Platino Industria conference in Madrid, Amazon MGM execs Javiera Balmaceda and Nicole Morganti offered a candid look at how the streamer decides which non-English language projects to back, pointing to “Zeta” in Spain and “Venganza” in Mexico as examples of taking bigger swings in genre. The two executives said Amazon’s [ ]
+Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison s Paramount which is on the brink of closing its mega-merger with Warner Bros. Discovery in a senior management role, according to two industry sources. One source close to the situation told Variety said that Ellison s courting [ ]
 
-### Karan Johar to End Koffee With Karan After 22 Years With Final Season on JioHotstar: The Decision Is Emotional and Personal (EXCLUSIVE)
-Wed, 30 Sep 2026 06:30:00 +0000 — https://variety.com/2026/tv/news/karan-johar-end-koffee-with-karan-22-years-final-season-jiohotstar-1236876708/
+### Ted Animated Series Sets Peacock Release Date
+Wed, 30 Sep 2026 15:30:00 +0000 — https://variety.com/2026/tv/news/ted-animated-series-peacock-release-date-1236878582/
 
-Indian media personality Karan Johar will end Koffee With Karan after 22 years. His celebrity chat show returns for a ninth and final season, streaming on JioHotstar from Oct. 14. Since its 2004 debut, the show has run eight seasons and 161 episodes. On its couch, top Indian stars have talked about friendships, romances, breakups [ ]
+Peacock has set the premiere date for Ted: The Animated Series. The animated followup to the live-action Ted movies will premiere with its first eight episodes on Dec. 17. Additional episodes will air in 2027. Ted: The Animated series was announced in May 2025 and is set 12 years after the events of Ted and [ ]
 
-### Greta Thunberg Makes Surprise Appearance at Zurich Premiere of My Home of Wind and Sand, Denounces Occupation of Western Sahara
-Wed, 30 Sep 2026 06:29:33 +0000 — https://variety.com/2026/film/global/greta-thunberg-zurich-occupied-western-sahara-1236878436/
+### Former CW Bosses Dawn Ostroff and Mark Pedowitz Look Back at the Network s First 20 Years
+Wed, 30 Sep 2026 15:30:00 +0000 — https://variety.com/2026/tv/news/cw-bosses-dawn-ostroff-mark-pedowitz-look-back-20-years-1236880544/
 
-Greta Thunberg made a surprise appearance on Tuesday at Zurich Film Festival, where she joined the screening of a new documentary “My Home of Wind and Sand,” which looks at the occupation of Western Sahara by Morocco. Calling the film “powerful” and able to “create change,” Thunberg minced no words when speaking about the world’s [ ]
+When Warner Bros. and CBS announced the merger of the WB and UPN on the morning of Jan. 24, 2006, the industry was shocked. There had been no rumblings that it might happen, as the two sides behind the deal somehow managed to keep it a secret. “Even then there weren’t many surprises that you [ ]
 
-### Producer-Led The Creatives Enters Jointly Owned Holding Structure as Anton Studios Joins as Partner and Minority Investor (EXCLUSIVE)
-Wed, 30 Sep 2026 06:00:00 +0000 — https://variety.com/2026/film/global/anton-studios-the-creatives-partners-investors-1236877944/
+### Billy Joel Gives Health Update After Brain Surgery: ‘I m OK — It Sounds a Lot Worse Than It Actually Is’
+Wed, 30 Sep 2026 15:12:04 +0000 — https://variety.com/2026/music/news/billy-joel-health-update-brain-surgery-1236893584/
 
-Fast-growing European studio Anton Studios is taking a minority position as a partner and investor in The Creatives. The group, first founded as a long-term strategic partnership in 2021, is moving into a solidified company, with a jointly owned holding structure. The new model will see The Creatives become the first European-rooted producer-owned group of [ ]
+Billy Joel gave a health update during a call-in with fans on his SiriusXM channel this week, noting that he’s doing well after revealing earlier in September that he’d undergone brain surgery to relieve some of the symptoms of normal pressure hydrocephalus, a disorder he was diagnosed with in 2025. “I know people are worried [ ]
 
-### Florence Pugh Credits Tom Holland for ‘Spider-Man: Brand New Day’ Role: ‘This All Happened Because of Tom’
-Wed, 30 Sep 2026 04:57:01 +0000 — https://variety.com/2026/film/news/florence-pugh-credits-tom-holland-spider-man-brand-new-day-1236887794/
+### Barbershop TV Show Sets February Release on Amazon, Drops First Look at Jermaine Fowler
+Wed, 30 Sep 2026 15:07:18 +0000 — https://variety.com/2026/tv/news/barbershop-tv-show-release-date-amazon-1236893553/
 
-Florence Pugh appeared on The Tonight Show Starring Jimmy Fallon Monday night and revealed that fans of her Marvel character, Yelena Belova, really have Tom Holland to thank for her appearance in “Spider-Man: Brand New Day.” “This all happened because of Tom,” said Pugh. “Years ago, when I just started my relationship with Marvel and [ ]
+Barbershop is debuting its new do in early 2027. The comedy series, a continuation of the beloved film franchise, will premiere all eight episodes on Amazon Prime Video on Feb. 10. The streamer made the announcement while dropping two first-look images of the cast. The logline for the show reads, Travis Trav Walker (Jermaine Fowler) [ ]
 
-### Aaron Sorkin Says ‘Social Reckoning’ Reshoots Had Nothing to Do With Trailer Backlash, Explains Why Trump Isn’t Named: It’s Not a Red-Blue Thing’
-Wed, 30 Sep 2026 04:09:25 +0000 — https://variety.com/2026/film/news/aaron-sorkin-social-reckoning-reshoots-trailer-backlash-trump-1236879892/
+### Pete Davidson Grows Up: On Leaving ‘SNL,’ Famous Exes, the Joys of Fatherhood and Why He’s Keeping His Hillary Clinton Tattoo
+Wed, 30 Sep 2026 15:00:00 +0000 — https://variety.com/2026/film/features/pete-davidson-interview-ariana-grande-kim-kardashian-fatherhood-1236877622/
 
-Ahead of the release of “The Social Reckoning” on Oct. 9, director Aaron Sorkin is telling all on the film’s much-discussed reshoots, limited test screenings and why Trump is never named explicitly, despite the January 6 riot playing a part in the plot. In a recent interview with Vanity Fair, Sorkin explained that the reshoots, [ ]
+Say the name “Pete Davidson” aloud, and it will conjure a certain image: a man strutting down the street in baggy pants, swarmed by paparazzi, clenching the hand of a screen beauty with a grin on his face. A man who’s dated everyone from Ariana Grande and Margaret Qualley to Kate Beckinsale and Kim Kardashian, [ ]
 
 ## The Hollywood Reporter
 
-### Ryan Kwanten Signs With Rain for Management
-Wed, 30 Sep 2026 09:28:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ryan-kwanten-representation-rain-management-1236716861/
+### War Review: Sienna Miller and Dominic West Face Off in HBO s Addictively Juicy Legal Drama
+Wed, 30 Sep 2026 16:05:58 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/war-review-dominic-west-sienna-miller-george-kay-hbo-1236713678/
 
-The Australian actor and producer is best known for his work on HBO's beloved hit 'True Blood.'
+Created by George Kay ('Lupin'), the series follows the rival law firms representing either side of an obscenely expensive, extremely high-profile divorce between a tech mogul and a movie star.
 
-### Massive Studios, Garfield Movie Writers and Producer Todd Garner Team on AI Animated Short Films
-Wed, 30 Sep 2026 09:25:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/massive-studios-capcut-ai-films-todd-garner-reza-safai-1236716824/
+### The 10 Best TV Movie Halloween Costumes of 2026 — and Where to Buy Them Online
+Wed, 30 Sep 2026 16:00:54 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-tv-movie-halloween-costumes-buy-online-2026-1236714755/
 
-Massive co-founder Reza Sixo Safai, scribes Paul A. Kaplan and Mark Torgove and Garner detailed the projects and their process during a panel at the Toronto International Film Festival.
+From Freaky Nikki to Dunk and Egg, these are the zeitgeist Halloween costumes of 2026.
 
-### Can Drama Change the World? Creators of Series on Far-Right Politics, Climate Crisis and More Weigh in
-Wed, 30 Sep 2026 08:35:21 +0000 — https://www.hollywoodreporter.com/tv/tv-news/can-drama-series-change-world-iberseries-far-right-politics-1236714321/
+### Undercover Boss Revived at CBS With Drew Carey as Host
+Wed, 30 Sep 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/undercover-boss-returns-cbs-drew-carey-1236717124/
 
-Creatives behind the likes of 'Borgen,' 'The Best Immigrant,' eco-thriller 'After Us,' sexual aggression drama 'Pubertat,' and historical HIV drama 'Henki' shared their motivations and goals at Iberseries.
+The network has also greenlit two new unscripted shows, 'Stacks of Cash' and '24 Hour Millionaire.'
 
-### With ‘Digger,’ Tom Cruise Takes On His Riskiest Business Yet
-Wed, 30 Sep 2026 06:47:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/digger-tom-cruise-academy-museum-alejandro-g-inarritu-1236716822/
+### Donnie Wahlberg Says NKOTB s Final Las Vegas Shows Will Be “Super Emotional, Teases New Elements and Shares What s Next
+Wed, 30 Sep 2026 15:46:54 +0000 — https://www.hollywoodreporter.com/music/music-features/donnie-wahlberg-interview-nkotbs-final-vegas-shows-1236714595/
 
-“I was very successful since I was a kid,” Cruise told a packed Academy Museum screening. With his latest film, the actor, and Oscar-winning director Alejandro G. Iñárritu, are putting that star power to the test.
+New Kids on the Block are set to perform eight final shows in October to close out their residency, “The Right Stuff," at Dolby Live at Park MGM.
 
-### GMA Anchor Will Reeve Opens Up About Testicular Cancer Battle: Fortunate That I Caught This Early
-Wed, 30 Sep 2026 04:52:41 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/gma-anchor-will-reeve-testicular-cancer-diagnosis-1236716787/
+### Being Clarissa Ward: CNN Star Speaks on Gaza, Trump — and Her Ellison-Era Future
+Wed, 30 Sep 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/business/business-news/clarissa-ward-cnn-reporting-video-donald-trump-1236716660/
 
-Will Reeve said he was inspired to share his story after watching his parents, the late Christopher Reeve and Dana Reeve, "take the adversity they faced in their lives and repurpose it into something hopeful."
+The veteran journalist doesn't hold back on the challenges facing the media industry.
 
-### Back by Popular Demand: Last Year s Most Unexpected Hit, Pumpkin Spice 5-Hour Energy
-Wed, 30 Sep 2026 03:08:57 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/viral-pumpkin-spice-5-hour-energy-drink-fall-2026-relaunch-1236715162/
+### Tribeca Festival Sets 2027 Dates, Submission Deadlines
+Wed, 30 Sep 2026 15:41:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tribeca-festival-2027-dates-submission-deadlines-1236717113/
 
-The unusual pairing took social media by storm. Now, it returns for round two.
+Passes, including the new Hudson Opening Weekend option and, in its second year, an Under 25 pass, are now on sale.
 
-### Chad Lowe s Daughter Fiona Dies at 13: She Was the Light of Our Lives
-Wed, 30 Sep 2026 03:00:51 +0000 — https://www.hollywoodreporter.com/news/general-news/chad-lowe-daughter-fiona-dead-1236716759/
+### The Lowdown Season 2 Trailer Plunges Ethan Hawke s Lee into a New Conspiracy
+Wed, 30 Sep 2026 15:22:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-lowdown-season-2-trailer-ethan-hawke-tommy-lee-jones-1236717083/
 
-"We are deeply heartbroken by the loss of our beloved Fiona," her family added in a statement.
+Tommy Lee Jones and Betty Gilpin join the FX series, which premieres Oct. 14.
 
-### Heated Rivalry Producers Launch a Real-Life Irina Foundation
-Wed, 30 Sep 2026 02:41:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/heated-rivalry-producers-launch-irina-foundation-1236716737/
+### Unmasking a Monster : Star, EP, and ID President on Using AI Masks to Perfect Their Aileen Wuornos Look
+Wed, 30 Sep 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/unmasking-a-monster-aileen-wuornos-defending-its-ai-use-1236709653/
 
-The foundation dedicated to championing inclusivity and mental well-being through sports and arts programs is named after the foundation 'Heated Rivalry' characters Shane and Ilya start in Rachel Reid's books.
+Actress Morag Peacock's face was digitally replaced to look more like Wuornos' in three-part Investigation Discovery documentary series 'Unmasking a Monster: Aileen Wuornos.'
 
-### SVU Star Mariska Hargitay Speaks Out on Cornell Rape Case, Says University Failed to Protect Its Students
-Wed, 30 Sep 2026 02:38:47 +0000 — https://www.hollywoodreporter.com/news/general-news/svu-mariska-hargitay-speaks-out-cornell-rape-case-1236716722/
+### San Quentin Film Festival 2026 Lineup Revealed (Exclusive)
+Wed, 30 Sep 2026 14:57:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-quentin-film-festival-2026-official-selections-lineup-1236717015/
 
-A former Cornell University student has accused seven Chi Phi fraternity members of drugging and raping her in October 2024.
+SQFF26 remains the only film festival held inside a U.S. prison.
 
-### Dancing With the Stars Caps Yacht Rock Night With a Shock Elimination: See the Scores, Who Went Home
-Tue, 29 Sep 2026 23:58:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-season-35-yacht-rock-week-3-recap-scores-elimination-1236714613/
+### Netflix s Wednesday Season 3 Wraps Filming, But Fans Still Have a Long Wait
+Wed, 30 Sep 2026 14:45:39 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-wednesday-season-3-release-date-1236717047/
 
-The couples performed dance numbers to classic songs including “You Make My Dreams (Come True)” and “Just the Two of Us.”
+A status update on Jenna Ortega's hit Netflix series.
 
 ## Deadline
 
-### Hearst Networks UK Buys American Chopper Revival Series Orange County Choppers Original
-Wed, 30 Sep 2026 10:11:35 +0000 — https://deadline.com/2026/09/orange-county-choppers-original-hearst-networks-uk-1237142892/
+### Wednesday Wraps Production On Season 3; New Photo Of Jenna Ortega
+Wed, 30 Sep 2026 16:24:42 +0000 — https://deadline.com/2026/09/wednesday-wraps-production-season-3-photo-jenna-ortega-1237143055/
 
-EXCLUSIVE: Orange County Choppers Originals is headed out of the garage and travelling to Europe. Hearst Networks has bought UK rights to the reborn ob doc series from Off The Fence, which has boarded the show after striking an agreement to represent it worldwide (excluding the U.S.). The new series – which aired in the [ ]
+It s a wrap. Production on the third season of Wednesday has officially concluded, Netflix announced today. The streamer also released a new Season 3 photo (see above) of Jenna Ortega (Wednesday) sitting at a typewriter. Season 2 ended with some major cliffhangers, with Enid transforming into a full Alpha werewolf to save Wednesday after she [ ]
 
-### European Film Academy To Honor Beki Probst, Marin Karmitz Sandra den Hamer With New Community Award
-Wed, 30 Sep 2026 10:00:55 +0000 — https://deadline.com/2026/09/european-film-academy-probst-karmitz-den-hamer-1237142894/
+### Ink Helmer Danny Boyle To Receive Gotham Film Awards Director Tribute
+Wed, 30 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/danny-boyle-gotham-film-awards-director-tribute-1237127742/
 
-The European Film Academy has named Beki Probst, Marin Karmitz and Sandra den Hamer as the first recipients of its new Community Award for an Outstanding Contribution to European Film Culture. The award, paying tribute to “a decisive and continuous contribution over many years to the development and expansion of European film culture”, will be [ ]
+EXCLUSIVE: Danny Boyle, whose latest film Ink opened last month s Venice Film Festival, has been tapped to receive the Gotham Director Tribute at the 36th annual Gotham Film Awards in November. The honor recognizes recognizes filmmakers whose bodies of work have made significant contributions to contemporary cinema. It will celebrate Boyle s four-decade career that includes [ ]
 
-### Netflix Renews Indian Reality Breakout Lock Upp For Second Season
-Wed, 30 Sep 2026 09:32:50 +0000 — https://deadline.com/2026/09/netflix-renews-lock-upp-season-2-1237142879/
+### CBS Orders Undercover Boss Reboot With Drew Carey, Stacks Of Cash 24 Hour Millionaire Unscripted Series
+Wed, 30 Sep 2026 16:00:00 +0000 — https://deadline.com/2026/09/cbs-orders-undercover-boss-drew-carey-unscripted-series-1237143171/
 
-Netflix is returning the inmates to the Lock Upp jail. A second season of the captive reality series, whose full title is Lock Upp: Sach Yaa Sazaa has been ordered following Season 1 s breakout summer, where it placed number one of Netflix s TV shows list within two days of the premiere and remained in the [ ]
+CBS is expanding its unscripted slate with series orders to three shows: a reboot of Undercover Boss hosted by Drew Carey and new series Stacks of Cash, hosted by Mike O Malley, and 24 Hour Millionaire (working title) from Big Brother exec producers. Targeted seasons, premiere dates and additional details will be announced at a later [ ]
 
-### Doctor Who : Multiple BBC Studios Labels Likely To Apply For Tender
-Wed, 30 Sep 2026 09:30:16 +0000 — https://deadline.com/2026/09/doctor-who-bbc-studios-labels-tender-multiple-jamie-hall-1237116215/
+### Mike Flanagan s Carrie Envisioned As Three Seasons In Dream Scenario
+Wed, 30 Sep 2026 15:45:35 +0000 — https://deadline.com/2026/09/mike-flanagan-carrie-three-seasons-dream-scenario-1237143183/
 
-EXCLUSIVE: At least one BBC Studios indie will be throwing its hat in the ring to become the next producer of Doctor Who, with scripted boss Jamie Hall telling Deadline he firmly believes the entire BBC group should reap the rewards of the iconic sci-fi series. Hall said we ve probably got one, potentially two companies [ ]
+Mike Flanagan adapted Stephen King s Carrie into a series, and in a dream scenario, he would like it to run as a trilogy. Already counting on King s approval of the adaptation, Flanagan has a specific vision for Carrie that could potentially go beyond the original story. In my dream scenario, Flanagan said in an interview with Collider. [ ]
 
-### Callum Scott Howells Gabrielle Creevy Leading Adaptation Of Vanessa Savage Thriller The Night They Vanished For BBC Studios Channel 4
-Wed, 30 Sep 2026 09:15:00 +0000 — https://deadline.com/2026/09/the-night-they-vanished-callum-scott-howells-channel-4-series-1237116059/
+### Canada s Banger Films Tunes Up Animated Rock Comedy Gone To Hell
+Wed, 30 Sep 2026 15:42:51 +0000 — https://deadline.com/2026/09/gone-to-hell-animated-comedy-banger-tv-1237115994/
 
-EXCLUSIVE: It s a Sin star Callum Scott Howells and Gabrielle Creevy (Black Doves) are leading an adaptation of Vanessa Savage s romantic thriller The Night They Vanished for BBC Studios and Channel 4. Cameras have rolled in Wales on the six-part series that tells the story of Anna (Creevy), whose world is blown apart when she [ ]
+EXCLUSIVE: Gone to Hell, a Canadian adult animation about a world-famous rock band who are sent to the underworld, will launch next month. The series, billed as part supernatural adventure, part rock-and-roll sature, debuts on the BangerTV YouTube channel on October 30. Brian Peco and Craig Mailman are the co-creators and Banger Films is producing [ ]
 
-### BBC Studios Scripted Boss Spotlights Strategy Behind Indie Talent Deals: We re Not Going To Spend Millions Buying A Production Company
-Wed, 30 Sep 2026 09:00:00 +0000 — https://deadline.com/2026/09/bbc-studios-jamie-hall-doctor-who-talent-deals-america-1237112296/
+### Ted: The Animated Series Gets Peacock Release Date First Look
+Wed, 30 Sep 2026 15:30:00 +0000 — https://deadline.com/2026/09/ted-the-animated-series-release-date-peacock-first-look-1237135358/
 
-EXCLUSIVE: BBC Studios’ scripted chief has laid out his strategy for future indie and talent investments that will shy away from going out and spending £20M ($26.5M) on a production company. Speaking exclusively with Deadline for his first interview since taking on the Scripted MD role, Jamie Hall said his plan for the Doctor Who, [ ]
+Peacock has slotted Thursday, December 17, for the premiere of Seth MacFarlane’s Ted: The Animated Series, which reunites MacFarlane with big-screen OGs Mark Wahlberg, Amanda Seyfried and Jessica Barth. All have returned to reprise their roles. The series will launch with eight episodes. Additional episodes will stream in 2027. Watch the first teaser trailer below. [ ]
 
-### Channel 4 Teaming With Stroke Association On Doc Series Spotlighting Young People Recovering From Strokes
-Wed, 30 Sep 2026 08:26:40 +0000 — https://deadline.com/2026/09/channel-4-trauma-my-broken-brain-stroke-documentary-1237142868/
+### HBO Max Developing Spanish Series About Mysterious Tor Mountain Community Produced By La Bola Negra Directors
+Wed, 30 Sep 2026 15:24:35 +0000 — https://deadline.com/2026/09/hbo-max-series-tor-community-la-bola-negra-javis-1237143163/
 
-EXCLUSIVE: Channel 4 is teaming with the Stroke Association on a documentary sereis looking at young people living with the aftermath of a stroke. Trauma: My Broken Brain follows three young survivors through the most frightening days of their lives and the grueling journey back to independence. Every five minutes someone in the UK suffers [ ]
+La Bola Negra directors Javier Calvo and Javier Ambrossi are executive producing an HBO Max TV series development about the Tor remote mountain community. The Javis, whose Cannes award-winning movie has been selected as Spain s Oscar entry, are EPing the project from Goya winners Fran Araújo and Eduard Sola. Tor is a remote mountain community [ ]
 
-### Dori Media Hitting Cannes With Unscripted Shows Like You Show Know New Love
-Wed, 30 Sep 2026 08:00:00 +0000 — https://deadline.com/2026/09/dori-media-mipcom-unscripted-slate-1237115986/
+### Dubai s MForMedia Arcana Labs Sign AI Production Pact For Middle East
+Wed, 30 Sep 2026 15:20:55 +0000 — https://deadline.com/2026/09/mformedia-arcana-labs-sign-ai-production-pact-1237143000/
 
-EXCLUSIVE: Power Couple seller Dori Media is heading to Cannes with the largest unscripted slate in its history. At MIPCOM, the Israeli company will debut the likes of games shows The Hive and You Should Know, docu-series My Hottest Years and primetime reality format New Love, which is from Power Couple maker Abot Hameiri. Also [ ]
+EXCLUSIVE: Dubai s MForMedia will look to add AI workflows into its productions following a deal with Arcana Labs. The two companies have struck a strategic partnership to incorporate Arcana s software into MForMedia s production workflows, Arabic-language co-productions and staff training. The overaching goal is to build AI-native film and television production capabilities across the Middle East [ ]
 
-### ‘Ted Lasso’ Season 4 Shocker: Actor Reflects On Death Of OG Character Who “Went In The Very Best Way”
-Wed, 30 Sep 2026 07:01:00 +0000 — https://deadline.com/2026/09/mae-death-ted-lasso-season-4-annette-badland-interview-1237142578/
+### WME Signs Good Noticings Podcast s Claire Parker Ashley Hamilton
+Wed, 30 Sep 2026 15:15:00 +0000 — https://deadline.com/2026/09/good-noticings-claire-parker-ashley-hamilton-sign-wme-1237143059/
 
-SPOILER ALERT: This post contains spoilers for Ted Lasso Season 4, Episode 9, titled “Mae Rides The Bus,” now streaming on Apple TV. The title of the second-to-last episode of Ted Lasso Season 4 hints at a goodbye to a beloved character who has been around since the first season. Episode 9 bids farewell to [ ]
+EXCLUSIVE: WME today announced that it has signed comedians, writers, and podcasters Claire Parker and Ashley Hamilton, hosts and creators of the Good Noticings podcast, with an eye toward helping them expand across scripted and unscripted TV, while bolstering their touring, literary projects, and brand partnership opportunities. This comes amid Parker and Hamilton s move to [ ]
 
-### Ted Lasso Pays Tribute To Anthony Head Here s Why It Happened In Episode 409
-Wed, 30 Sep 2026 07:00:00 +0000 — https://deadline.com/2026/09/ted-lasso-tribute-anthony-head-why-in-episode-409-1237114670/
+### Daniel Zovatto, Mia Tharia Sonita Henry Join Apple TV s Disavowed As Series Regulars
+Wed, 30 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/daniel-zovatto-mia-tharia-sonita-henry-cast-disavowed-apple-1237118402/
 
-SPOILER ALERT: The story includes details about Episodes 408 and 409 of Apple TV s Ted Lasso. A very emotional Ted Lasso episode that included the death of a beloved original character, The Crown Anchor pub owner Mae Green, played by Annette Badland, also acknowledged the death of the series popular recurring cast member Anthony [ ]
+EXCLUSIVE: Daniel Zovatto (Woman of the Hour, Station Eleven), Mia Tharia (Klara and the Sun, September Says) and Sonita Henry (Silo, Black Cake) have been cast in Apple TV s Disavowed. Character details are being kept under wraps. Starring and executive produced by James Marsden, based on an original idea by Art Marcum and Matt Holloway, [ ]
 
-### ‘Final Payment’, ‘Congo Boy’ Win Top Awards At Pingyao International Film Festival
-Wed, 30 Sep 2026 03:56:55 +0000 — https://deadline.com/2026/09/pingyao-film-festival-jia-zhangke-congo-boy-final-payment-1237142543/
+### Tribeca Festival Sets 2027 Dates, Opens For Submissions
+Wed, 30 Sep 2026 15:00:00 +0000 — https://deadline.com/2026/09/tribeca-festival-sets-2027-dates-opens-for-submissions-1237143054/
 
-Chinese director Niu Niu’s Final Payment scooped the Best Film Award in the Fei Mu Awards of this year’s Pingyao International Film Festival (PYIFF), while Rafiki Fariala’s Congo Boy won Best Film in the festival’s Roberto Rossellini Awards. Final Payment, which also won Best Actor for Niu Jianrong’s performance, revolves around a homeowner clashing with [ ]
+Tribeca Festival’s 26th edition will unspool June 3–12, 2027 in New York City. Submissions across signature programming categories are now open, and Festival passes are on sale today including the returning Under 25 Pass and a new Hudson Opening Weekend Pass. The fest, a destination for emerging and established artists to debut new work and [ ]
 
-### Dancing With The Stars Recap: Yacht Rock Night Sees One Couple Eliminated In Week 3
-Wed, 30 Sep 2026 02:01:26 +0000 — https://deadline.com/2026/09/dancing-with-the-stars-season-35-week-3-yacht-rock-recap-1237111025/
+### The Night Agent s Curtis Lum To Topline Ensemble Horror-Comedy New Diamond Restaurant
+Wed, 30 Sep 2026 14:45:56 +0000 — https://deadline.com/2026/09/curtis-lum-stars-new-diamond-restaurant-milton-ng-1237143100/
 
-SPOILER ALERT! This post contains details from Tuesday night s episode of Dancing with the Stars. It s another exciting night in the ballroom as 13 contestants are still eyeing the Len Goodman Mirrorball Trophy during Week 3 of Dancing with the Stars. Last week, the judges reinforced just how tough they are going to be this [ ]
+EXCLUSIVE: Curtis Lum, a Canadian actor with credits like The Night Agent and The Audacity, is in production in British Columbia on New Diamond Restaurant, an indie genre-bender from writer-director Milton Ng, who makes his feature debut. Blending zombie horror, action and family comedy, New Diamond Restaurant follows Aaron Chan (Lum) as he returns home [ ]
 
 ## befores & afters
 
@@ -184,6 +184,26 @@ Tue, 29 Sep 2026 03:38:41 +0000 — https://beforesandafters.com/2026/09/29/on-t
 Director Zach Cregger on the set of Resident Evil. Photo by: Dušan Martinček. © 2026 CTMG, Inc. All Rights Reserved. The post On The Set Pic: Resident Evil appeared first on befores & afters .
 
 ## IndieWire
+
+### Tribeca Festival Reveals Dates and Details for 26th Edition in 2027
+Wed, 30 Sep 2026 15:00:00 +0000 — https://www.indiewire.com/news/festivals/tribeca-festival-dates-details-for-2027-1235219176/
+
+Submissions are also now open across Features, Shorts Music Videos, Tribeca TV, Tribeca Digital Creators, Tribeca Games, Tribeca Podcasts, and Tribeca X.
+
+### Psycho Killer Is One of the Best Films of 2026 — So Why Did Everyone Hate It?
+Wed, 30 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/correct-opinion-psycho-killer-movie-actually-good-1235218664/
+
+The "Correct Opinion" column returns to heap praise on Andrew Kevin Walker and Gavin Polone's terrifying, audacious, and unjustly maligned horror film from earlier this year.
+
+### Verity Review: Dakota Johnson and Anne Hathaway Co-Star in a Fun and Frigid Psycho-Thriller
+Wed, 30 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/verity-movie-review-anne-hathaway-dakota-johnson-hoover-1235218163/
+
+An obscure author is hired to ghostwrite for a catatonic lit phenom in a Colleen Hoover adaptation that explores the stories we tell ourselves about other people.
+
+### Digger Director Alejandro G. Iñárritu and Riz Ahmed on How the Year s Riskiest Movie Captures Our Demented Reality: We Are Living in a Satire
+Wed, 30 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/features/interviews/digger-alejandro-inarritu-riz-ahmed-tom-cruise-interview-1235219266/
+
+The "Digger" team on Tom Cruise's dramatic transformation and the need to keep its big twist a secret.
 
 ### Paramount s Streaming Plans Get Some Clarity as Cindy Holland Exits with Casey Bloys Likely Taking Over
 Tue, 29 Sep 2026 23:49:41 +0000 — https://www.indiewire.com/news/business/cindy-holland-exits-paramount-casey-bloys-streaming-1235219255/
@@ -225,127 +245,107 @@ Tue, 29 Sep 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/d
 
 Alejandro González Iñárritu desperately needs to ditch postmodernism, but his latest comedy at least rings truer and more tragic than either "Birdman" or "Bardo."
 
-### How Allison Anders Emerged from Personal and Professional Hell to Make One of the 1990s Best Movies
-Tue, 29 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/allison-anders-illeana-douglas-on-grace-of-my-heart-1235218954/
-
-Writer/director Anders, star Illeana Douglas, producer Daniel Hassid, and music producer and composer Larry Klein look back at "Grace of My Heart," a model of personal filmmaking in the studio system that looks better with every passing year.
-
-### For Mike Faist, Choosing Roles Comes Down to Big Feelings: Hell Yes and Total Dread
-Tue, 29 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/mike-faist-east-of-eden-choosing-roles-interview-1235218489/
-
-The "East of Eden" star "fell in love" with the dark and complex Charles Trask. As he tells IndieWire, that kind of immediate attachment and deep emotion is what drives his discerning taste, from "Challengers" to "West Side Story" and beyond.
-
-### Musk, You Can See Everything, and More to Screen at Inaugural Ojai Documentary Film Festival
-Mon, 28 Sep 2026 21:30:00 +0000 — https://www.indiewire.com/news/festivals/ojai-documentary-film-festival-inaugural-lineup-musk-1235218971/
-
-Exclusive: "Tiger King" filmmakers Eric Goode and Jeremy McBride have teamed up with Ojai Playhouse owner David Berger to launch the first-ever Ojai Documentary Film Festival on October 26-30.
-
-### Dynasty Sports Film Festival Launches to Celebrate Intersection of Sports and Cinema
-Mon, 28 Sep 2026 17:00:00 +0000 — https://www.indiewire.com/news/general-news/dynasty-sports-film-festival-lineup-hoosiers-the-greatest-1235218922/
-
-Exclusive: The four-day event will include an anniversary screening of "Hoosiers" and the premiere of "The Greatest," a Prime Video series about Muhammad Ali.
-
 ## The Wrap
 
-### Jimmy Kimmel Rips Trump’s Push to Rename AI ‘Super Intelligence’: OpenAI Must Be ‘Very Excited’
-Wed, 30 Sep 2026 05:01:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-trump-claim-tech-leaders-love-ai-super-intelligence-rebrand/
+### Paramount-Warner Bros. Recruits Mattel CEO Ynon Kreiz
+Wed, 30 Sep 2026 16:22:40 +0000 — https://www.thewrap.com/industry-news/business/mattel-ceo-ynon-kreiz-paramount-warner-bros-discovery/
 
-Jimmy Kimmel zeroed in on President Donald Trump’s push to rebrand artificial intelligence to “super intelligence, joking that OpenAI must be “very excited” about the name change. During Tuesday s monologue for Jimmy Kimmel Live! , which is taping in Brooklyn for a week of shows , the late night host weighed in on Trump s recent AI luncheon with tech leaders, including Elon Musk, Jensen Huang, Mark Zuckerberg, Sundar Pichai, Dario Amodei, Greg Brockman and Lisa Su. The scamburglar had lunch with Mark Zuckerberg and Elon Musk today, Kimmel said. So, at least, we all had a better day than he did. Trump hosted all the top tech executives at the White House. He wanted to show them how good Natalie [Harp] is at using the printer. He added: Along with Zuckerberg and Musk, those invited to dine included Dario Amodei from Anthropic, Greg Brockman from Open AI and squeaker of the house, Mike Johnson, who was there to ask if there was any way AI could turn him into a real boy. As Kimmel went on, he explained that Trump s meeting was meant to be a chance for the president to get to know these leaders of these powerful AI companies. Though, he highlighted that the president was also keen on a boasting about his AI rebrand. [It was also] to get them excited about the awesome new name he came up with for it. SI, Kimmel said, before the show s editors cut to footage of Trump bragging about how much the tech leaders liked the new super intelligence name. Yes. Yes. I am sure the guy whose com
+Mattel CEO Ynon Kreiz is exiting the toymaker to join David Ellison’s Paramount as it merges with Warner Bros. Discovery, according to media reports. On Wednesday, Mattel revealed that Kreiz was leaving for another senior leadership position at an undisclosed public company, effective Friday, and that he would be succeeded by Conde Nast CEO Roger Lynch. Kreiz s role in the combined company could not immediately be learned. Representatives for Mattel and Paramount did not immediately return TheWrap s request for comment. During Kreiz’s tenure, Mattel has ranked number one globally in the Dolls, Vehicles, and Infant, Toddler & Preschool toy categories. Hot Wheels is also on track for its ninth consecutive growth year and the company has continued to build momentum in Action Figures and successfully launched Mattel Brick Shop. Kreiz has also been instrumental in driving Mattel’s move into Hollywood with Greta Gerwig’s smash-hit “Barbie” movie in 2023 and helped spearhead development on several film and TV adaptations that have expanded the brand. The company launched a “Masters of the Universe” film with Amazon this summer, and next out is “Matchbox” starring John Cena for Apple. Additionally, he oversaw the company’s expansion into digital gaming with the full ownership of Mattel163. Mattel’s new or renewed entertainment licenses include Disney Princess and Frozen, Teenage Mutant Ninja Turtles, Toy Story, KPop Demon Hunters and DC, among others. Prior to Mattel, Kreiz was chair
 
-### Chad Lowe and Kim Painter s Daughter Fiona Dies at 13: We Are Deeply Heartbroken
-Wed, 30 Sep 2026 03:30:11 +0000 — https://www.thewrap.com/culture-lifestyle/culture/chad-lowe-kim-painter-daughter-fiona-dies-at-13/
+### Mark Wahlberg and Ted Reunite in First Look at Peacock Animated Series
+Wed, 30 Sep 2026 15:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-macfarlane-ted-the-animated-series-peacock-premiere-date/
 
-Actor Chad Lowe and producer Kim Painter’s 13-year-old daughter, Fiona, has died, according to a statement from the teen’s family. We are deeply heartbroken by the loss of our beloved Fiona, the Lowe family said in a statement to media Tuesday evening. As the family went on, they remembered Fiona as “a loving young girl who was smart, creative and loved to dance.” “She was adored by her sisters and she was deeply loved by her parents,” the family s statement added. “In fact, she was the light of our lives.” While a cause of death was not immediately shared, the Lowes alluded to Fiona s mental health struggles, writing, Her passing is devastating for our entire family and we ask for prayers and privacy at this time. If you or someone you know is struggling with mental health, please reach out to the 988 Suicide & Crisis Lifeline by calling or texting 988.” Lowe, the brother of fellow actor Rob Lowe, and Painter welcomed Fiona in November 2012. She was the couple’s second child, having welcomed eldest daughter Mabel in May 2009 and youngest Nixie in March 2016. The couple has been married since August 2010. Lowe, who is best known for his work in Life Goes On, 24 and Pretty Little Liars, commemorated Fiona s milestone birthday last year on Instagram, writing , Celebrating Fiona officially becoming a teen today!! Keep dancing through life FiBear! Love you soooo much!! The Lowes loss follows a prior trying time for the family, who lost their home in the highly destructive Palisad
+If you thought you saw the last of Seth MacFarlane s foul-mouthed teddy bear, think again. Ted: The Animated Series will premiere on Peacock with eight episodes on Dec. 17, with more set to stream in 2027. The comedy, which is created and executive produced by MacFarlane and co-showrunners Paul Corrigan and Brad Walsh, serves as a sequel to the beloved film franchise. Picking up 12 years after the conclusion of the last movie, John and his thunder-buddy Ted are neighbors, both with families of their own and dead-end jobs, the logline states. Follow these two lovable stoners as they enable each other s bad ideas about marriage, parenting and the challenges of adult life. A new teaser offers a first look at the reunion between the titular teddy bear voiced by MacFarlane and Mark Wahlberg s John. After the former says the pair can do anything in the animation medium with no consequences, the latter decides to do a backflip, but ends up landing flat on his face and left in pain, adding it hurts like real life. As Ted introduces the new series, John questions why the animators would do this to him before an anvil lands on him. Ted replies, An anvil. Ah, they re having fun. This is gonna be fun, as he drags John off screen. In addition to MacFarlane and Wahlberg, Amanda Seyfried, who portrays John s wife Sam, and Jessica Barth, who portrays Ted s wife Tami-Lynn, return. Also joining the voice cast as series regulars are Kyle Mooney and Liz Richman as Apollo and Ruth, respectively. 
 
-### Tom Cruise Dusts Off Risky Business Dance Moves for Packed Jennifer Hudson Show Spirit Tunnel
-Wed, 30 Sep 2026 03:13:19 +0000 — https://www.thewrap.com/creative-content/tv-shows/tom-cruise-jennifer-hudson-show-spirit-tunnel-video/
+### Jimmy Fallon Predicts Title and Content of Karoline Leavitt s Memoir
+Wed, 30 Sep 2026 14:54:13 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-predicts-karoline-leavitt-memoir-title/
 
-Tom Cruise revived his “Risky Business” dance moves for an appearance in “The Jennifer Hudson Show” spirit tunnel, which drew a record number of participants. The Digger star is set to appear on Jennifer Hudson s talk show on Wednesday. And, ahead of the episode s release, the program released footage of Cruise participating in the popular spirit tunnel. In the Instagram video, a hallway packed with Jennifer Hudson Show staffers can be seen cheering on Cruise as he made his way down the hallway. After smiling and throwing on a pair of shades, Cruise brought back the moves he made famous in the 1983 crime comedy, Risky Business. You know the scene, where a 20-year-old Cruise slides across the floor in only his underwear and a shirt while lip-syncing to Bob Seger s Old Time Rock & Roll. It seems as though The Jennifer Hudson Show purposefully paid homage to this movie moment, as the staffers tweaked the lyrics to celebrate Cruise s appearance on the talk show. On Instagram, the talk show teased, The internet is not ready for @tomcruise!!! Fans of The Jennifer Hudson Show were certainly delighted by Cruise s participation in the spirit tunnel, with many remarking on the number of people that turned up for the hallway chant. The only other time the tunnel was full that I can recall was when Michelle Obama came, one fan commented below the post. Another chimed in with, I have never seen so many people in this hallway. A third remarked, Nobody missed work today. Additionally, sever
+Former Trump press secretary Karoline Leavitt is reportedly shopping a tell-all book about her time in the White House and, on Tuesday night, Jimmy Fallon took a swing at what the title might be. The NBC host also had an idea of what might be in the book. Leavitt stepped away from the job in August, reportedly so she could spend time being with her newborn. Rumors began circulating on Monday of this week that Leavitt has a proposal being reviewed by publishers, and it could be explosive. But, Fallon thinks the book might actually be pretty bare. Yep, it s called I m Not Going to Answer That, and it s just 200 blank pages, he joked during his monologue on Tuesday night. Elsewhere in the monologue, Fallon poked fun at the president s new AI-powered website, which was unveiled on Tuesday. Called America.gov, it brings together thousands of government sites all into one place. Russian hackers were like, This will save us so much time. Thank you, thank you so much,' Fallon joked. Yeah, everyone s afraid of AI, and nobody trusts the federal government, so Trump was like, Let s combine them! Like a Reese s peanut butter cup of doom!' The NBC host also had a laugh at the website s home page, which featured an image of a child laying face down in an ice patch, and took a guess at what Trump originally wanted to name the site. You can watch Jimmy Fallon s full monologue in the video above. The post Jimmy Fallon Predicts Title and Content of Karoline Leavitt s Memoir appeared first on T
 
-### ‘The Daily Show’ Mocks Trump Administration for Denying Repurposed Ad Is a Campaign Spot: Exact Same Footage
-Wed, 30 Sep 2026 02:42:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-daily-show-reacts-trump-administration-denying-campaign-ad/
+### Wednesday Season 3 Wraps Production With a Moody New Jenna Ortega Image
+Wed, 30 Sep 2026 14:43:39 +0000 — https://www.thewrap.com/creative-content/tv-shows/wednesday-season-3-filming-wraps-jenna-ortega-image/
 
-“The Daily Show” took aim at the Trump administration for denying that the new spot is a campaign ad, pointing out that it uses the “exact same footage” from the president’s 2024 campaign. During Tuesday’s monologue on “The Daily Show,” host Jordan Klepper weighed in on the controversy surrounding the new spot, quipping that President Donald Trump shouldn’t be spending taxpayer dollars on ads but on getting “water in the reflecting pool. Keep at it, boys, he quipped. We are close to cracking it. As Klepper went on, he took a closer look at the spot in-question, highlighting the questionable artistic choices – including the six-second close up of a storage closet. I mean, is that supposed to be a metaphor for where they re going to lock up the deep state? he ripped. Or is that like the closet Stephen Miller sleeps in during the day? Or is it just where they re storing the footage they shot that doesn t have a f king storage closet in it? He continued: The point is, spending taxpayer money on a campaign ad is clearly indefensible. So, let s see how the White House defensibles it. At this moment, The Daily Show editors played the Trump administration s explanation, in which they defended that the spot was very clearly not [a] campaign ad since Trump is not on the ballot and there s no call to action. Right. Right. It can t be a campaign ad because Trump is not even on the ballot. It s just, I feel like I heard someone say something different, Klepper noted before calling back to
+We may not be getting Wednesday Season 3 in time for this Halloween season, but we do have some good news: the third season of the hit Addams Family series has wrapped production, Netflix announced Wednesday. The creepy, kooky series reimagines the iconic Addams Family through the perspective of the title character, daughter Wednesday Addams, played by Scream and Beetlejuice Beetlejuice star Jenna Ortega, as she navigates teenage life at the Nevermore Academy for outcasts. Along with the Season 3 production wrap announcement, Netflix debuted a new early-look image featuring none other than Ortega s Wednesday, who we find in typical fashion, sitting stone-faced at her typewriter, draped in black-and-white. You can see the new Wednesday Season 3 image above. Season 3 was once again filmed in Dublin, Ireland (production moved to Dublin for Season 2 after Season 1 was filmed in Romania). Production kicked off all the way back in February 2026, welcoming back series creators, showrunners and EPs Al Gough and Miles Millar, as well as Executive Producer and Director Tim Burton. However, there are also a lot of new faces joining the seriously ookie adventures this season. Perhaps the most ancipated character arrival is Eva Green s Ophelia, sister to Morticia (Catherine Zeta Jones), who was long thought dead until the Season 2 finale. This show is such a deliciously dark and witty world, I can’t wait to bring my own touch of cuckooness to the Addams family, Green said when she joined 
 
-### Wolf Blitzer Makes a Rallying Call to Protect Free Press During Hall of Fame Speech: ‘It Is Vital to Our Democracy’
-Wed, 30 Sep 2026 01:43:45 +0000 — https://www.thewrap.com/media-platforms/journalism/wolf-blitzer-broadcasting-cable-hall-of-fame-speech/
+### CNN Taps Pamela Brown for New Women’s Health Streaming Series
+Wed, 30 Sep 2026 14:33:19 +0000 — https://www.thewrap.com/media-platforms/streaming/cnn-pamela-brown-body-language-streaming-series/
 
-Wolf Blitzer called on his fellow journalists to protect the free press amid CNN’s legal battle with the Trump administration over its media restrictions. The CNN anchor addressed the network’s fight to maintain access to the White House during his acceptance speech at the Broadcasting+Cable Hall of Fame ceremony on Tuesday, calling a free press “vital to our democracy.” While reflecting on his 54-year career in journalism, including a stint as CNN s White House correspondent during the Clinton administration, Blitzer admitted that he never imagined that [being barred] was even possible. I spent seven years on that assignment during President Bill Clinton s administration, he said. I can tell you that neither he, nor any of his top aides, were always happy with my coverage, but I can also say they never once threatened to take away my White House press pass. He added: They never once barred me from covering the White House, and I never imagined that that was even possible until recently. Which leads me to what s going on in our country right now. Without naming Donald Trump directly, Blitzer appeared to touch on the current tension between the administration and the media. Undermining a free press in the United States of America is something I never thought would happen, he noted. And, all of us, must do everything we can to protect our constitutional right to a free press. It is vital to our democracy. As the First Amendment of the U.S. Constitution says, and I m quoting now
+CNN is expanding its streaming lineup with “Body Language by CNN,” a new original series hosted by “The Situation Room” co-anchor Pamela Brown. Focused on women’s health, the eight-episode series will premiere Thursday, Oct. 8 exclusively for CNN All Access subscribers, with its first four episodes dropping at launch and another four arriving in November, the network announced Wednesday. “Body Language” will explore health issues affecting women at different stages of their lives, with Brown speaking to doctors, experts and patients about topics including perimenopause, egg freezing, GLP-1 medications, Alzheimer’s disease and postpartum health. The series was inspired in part by Brown’s own experience with postpartum obsessive-compulsive disorder following the birth of her second child. Among the first four episodes, Brown will examine the growing use of GLP-1 medications, the physical and emotional effects of perimenopause and the decisions women face around fertility and egg freezing. Later episodes will turn to breast cancer, Alzheimer’s disease and other health issues. “Women’s health issues have historically been underfunded, understudied and under-discussed,” Brown said in announcing the series. “I want women to feel seen, heard and empowered to advocate for themselves.” Brown, who also serves as CNN’s chief investigative correspondent, will explore breast cancer and other health issues over the course of the series. The show is the latest addition to CNN’s All Access s
 
-### Creators: AI Is the Future. We Need to Be Transparent About Using It
-Wed, 30 Sep 2026 01:30:19 +0000 — https://www.thewrap.com/industry-news/tech/creators-ai-is-the-future-we-need-to-be-transparent-about-using-it/
+### Rachel Maddow Says Trump Is About to Learn a Very Hard Lesson When Dems Re-Take Control of Congress
+Wed, 30 Sep 2026 14:00:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/rachel-maddow-trump-midterms-prediction-seth-meyers/
 
-Artificial intelligence is here and can t be ignored, which one creator summed up neatly with a matter-of-fact comment. I do voice acting as well, and so I m already preparing for my job to not exist, said Vincent Marcus, a creator and comedian who does impersonations, about why he s gone all-in on AI. Marcus was speaking on Tuesday at TheWrap s inaugural AI Creator Day , a part of our annual Grill business conference. The subject of the panel was about voicing AI-generated bot characters for AI social platform Cantina, which offers the potential for him to monetize his creativity. Being able to better monetize creator ideas and imagination was a key theme to the all-day conference. But an undercurrent was the inevitability of AI, and the perils of ignoring the technology that s disrupting every industry. For creators, it s a fine line to walk, with even the hint of using AI eliciting fan backlash. But for those at the panel, the upside of AI is too attractive to ignore. This is where the future is heading, said Rebecca Zamolo, a YouTube and founder of MOLO Fertility. I think it s important that we acknowledge that. I think it s about being transparent with your audience. Moderator Chris Detert with Rebecca Zamolo and Matt Slays, a husband-and-wife creator team. (Credit: Photo by Randy Shropshire for TheWrap) As AI has become more prevalent, more creators have been using the technology in their workflows. Some creators use this tech through third-party companies like Cantina;
+Current polling favors Democrats re-taking control of congress come November s midterm elections and, if and when that happens, Rachel Maddow is predicting a very hard lesson for President Trump. The MS NOW host explained her thinking during her appearance on Late Night on Tuesday, as she and host Seth Meyers marveled at the president refusing to get out of the way to help Republicans up for reelection. Both noted that it s not uncommon for midterms to swing to the opposite party of who s in charge, and usually, the president will step back to help his own party. Instead, Trump is begging voters to pretend it s him on the ballot. In Maddow s eyes, that s because the president is an authoritarian guy, and in every authoritarian government, the one thing they ve all got in common is that the rest of the government doesn t matter. There s all these things that are important about the government, and the military, and the way that we run, Maddow explained. But we run as a country that he doesn t care about because it s not him controlling them, and so he thinks it s irrelevant. And he s about to learn a very hard lesson in that regard once the Democrats take Congress back. She further pointed out that the Trump administration hasn t passed any actual legislation in awhile, despite controlling both the house and the senate. They haven t passed legislation in a very, very long time because he s not interested in that because it s not about him, Maddow said. You can watch Rachel Mad
 
-### AI Creators Want You to Know AI Filmmaking Is Still F king Hard
-Wed, 30 Sep 2026 00:39:26 +0000 — https://www.thewrap.com/industry-news/tech/ai-creator-ai-filmmaking-still-f-king-hard/
+### Nicolle Wallace Gets New MS NOW Monthly Series With 92nd Street Y Exclusive
+Wed, 30 Sep 2026 14:00:00 +0000 — https://www.thewrap.com/media-platforms/journalism/nicolle-wallace-ms-now-92nd-street-y-series/
 
-While skeptics may wave off AI-created content as slop, creators want you to know AI filmmaking is still f king hard. I want to dispel the notion that producing AI cinema is easy. It s f king hard, and it s an egregious amount of work, actor, producer and director David Bianchi said at TheWrap s AI Creator Day, part of our annual Grill business conference during a panel moderated by TheWrap founder and editor-in-chief Sharon Waxman. Bianchi pointed to an AI-created clip from his production company, Exertion Films, whose total runtime is just three minutes and 38 seconds, but includes 1,200 renders that total to 25,000 credits, which roughly equates to $2,500 and 200+ hours of labor from a team of four. He conceded that those costs are still dramatically lower than the $1.5-2 million it would have cost if done with a practical production. But what money can t put a price on, per Bianchi, is taste. As a filmmaker, I see things through a filming lens, and I compose things through a filming lens that speaks to the aesthetic that I want to predict beyond, Bianchi said. So if you have taste and you re willing to work with an emerging technology, now is really the time to bring the ideas to life in a way that you never really could. Likewise, Fairground founder and CEO Colin Petrie-Norris sees stellar storytelling as the key to whether videos from AI studio and distribution platforms succeed. I think that s the lost art just telling good stories, Petrie-Norris said, noting that his 
+MS NOW is teaming up with New York cultural institution the 92nd Street Y for a new monthly series hosted by Nicolle Wallace, TheWrap has learned exclusively. “Nicolle Wallace Presents: 92NY on MS NOW” will bring conversations from the 92nd Street Y to the network’s weekend lineup, beginning Sunday, Oct. 4 at 8 p.m. ET. The series will feature conversations led by Wallace and Rachel Maddow with figures including Robert Downey Jr., Ari Emanuel, Anthony Scaramucci and Malcolm Gladwell. The premiere will open with Wallace in conversation with former Trump White House communications director Scaramucci at 8 p.m., followed at 9 p.m. by Maddow’s conversation with legendary Hollywood agent and dealmaker Emanuel. Additional installments featuring Downey and Gladwell are planned, though MS NOW has not yet announced dates for those conversations. The partnership gives MS NOW another source of longform programming as the network moves away from live, hosted programming on weekend evenings in favor of taped shows and outside content partnerships . Episodes will also be available through the recently launched MS NOW Membership service and on the network’s YouTube channel. “We have long valued our relationship with the 92nd Street Y and the thoughtful conversations it brings to its community, many of them moderated by MS NOW’s own journalists and anchors,” Madeleine Haeringer, MS NOW’s senior vice president of digital, audio and longform, said in a statement. “We’re thrilled to further dee
 
-### ‘Resident Evil’ Star Austin Abrams Understands the Fan Backlash
-Wed, 30 Sep 2026 00:09:26 +0000 — https://www.thewrap.com/creative-content/movies/austin-abrams-resident-evil-interview/
+### Hollywood Faces a Century-Defining Shift as Tech Tips the Power Structure
+Wed, 30 Sep 2026 13:16:56 +0000 — https://www.thewrap.com/industry-news/business/hollywood-century-shift-as-tech-tips-the-power-structure/
 
-Zach Cregger’s “Resident Evil,” in a little more than two weeks, has already amassed nearly $200 million at the global box office . Instead of a straight adaptation of the long-running video game series (or an extension of the already-existing film franchise), Cregger chose to tell a new story within the world of the games – a story that follows a hapless medical courier named Bryan (played by Austin Abrams), who is sent on a desperate mission to the heart of Raccoon City during a zombie outbreak. It is an all-gas, no-brakes rollercoaster ride that is carried along by Abrams’ performance – vulnerable, hilarious, inquisitive, the perfect audience surrogate. Even when things get weird, really weird , Abrams’ oddly emotional performance keeps us engaged. Abrams said that Cregger first mentioned the project while the two were working on “Weapons,” which would go on to be a box office hit and an unlikely Oscar winner. But Cregger didn’t say anything specific about Abrams joining the project. “It wasn t until he was in post-production for ‘Weapons’ that he called and wanted me to read the script basically,” Abrams said. He hadn’t played the games (“Other than seeing it and being too afraid to play it”) but once he got the part it emboldened him to play horror/survival games that had a similar spirit. Whereas “Weapons” was an ensemble piece, with Abrams portraying an unforgettable character (a junkie/thief who stumbles upon the mystery of a missing classroom of kids), with “Resident
+I don’t think it’s too much to say that we are living through a once-in-a-century shift to the entertainment business. And a lot of us are wondering whether in this world of real-life “Hunger Games” we are the ones who get to survive. Change, as we know, happens slowly and then all at once. In the last year or two nearly all of Hollywood s legacy studios have celebrated a century of existence and the many changes that have come through those decades, including the talkies, color television, cable, VHS then DVDs then OTT. But this change is different. What looked like a secular shift a decade and a half ago – the move to streaming – has become something more transformative and profound. The disruption to Hollywood’s major studios are the symptoms and not the cause of this transformation. Paramount and Warner Bros. are the two most impacted in the past 18 months in their highly contested merger, but hardly the only institutions affected. When you pull the lens back, the industry as a whole shows us something bigger: a shift in the balance of power between content and technology. Technology companies have either built alternatives to legacy studios like Netflix or bought them, like Apple and Amazon MGM. This is redefining what the entertainment economy looks like. And of course AI is changing everything inside those studios as well. Part of what we are doing this year at TheGril l is digging down deep to identify what is the core value of what Hollywood offers. Yes, we will expl
 
-### Amy Poehler Hilariously Presses Andrew Garfield on Whether He s Actually a Method Actor: I Mean, Are You Though?
-Tue, 29 Sep 2026 23:50:44 +0000 — https://www.thewrap.com/industry-news/business/amy-poehler-presses-andrew-garfield-on-method-acting/
+### Deepfakes, AI Shorts and YouTube OGs: Best Moments From TheWrap’s AI Creator Day
+Wed, 30 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/industry-news/business/ai-creator-day-2026-recap/
 
-Leave it to Amy Poehler to ask a hard-hitting question in the funniest of ways. The “Good Hang” host welcomed Andrew Garfield on Tuesday’s episode of the podcast and had the “Amazing Spider-Man” actor answer once and for all whether he considers himself a method actor — but not before he sheepishly tried to dodge the question. Do you consider yourself a method actor? Poehler asked. So the method Garfield answered before she cut him off. And if so, who am I speaking to? the host quipped back before pressing on. Because you do go pretty deep in. You do you got that trickster look in your eye, the Uprising actor responded coyly. You re looking for the clickbait head. You re like, Is he going to give me the juice?' But Poehler wasn t deterred and called the actor on some of the training tools he studied during past performances saying, Babe, you lost all this weight. You studied for a year being a monk! You you go for it. Are you method?! At that Garfield responded mimicking her: Are you method? Answer the question. Are you method? It s a yes or no question. I mean, are you though? she pressed on through fits of laughter. Finally, after telling the SNL alum don t try and get cute with it, he relented. Um, in a way, yes. But I think I think the term has been massively mischaracterized, misunderstood, and co-opted by people that don t know. A method is basically having a method, he said. So I feel like yes, but I think there s a way of doing it that s generous. I think there s a wa
+AI is a tool, not a replacement for human experience or creativity As AI-related job insecurity persists, some creators have embraced the technology in an attempt to get ahead of the curve The best way to beat criticism about using AI is to tell good stories Filmmakers and creatives have already started using AI in their pitches to Hollywood execs The worlds of artificial intelligence and creators collided on Tuesday at TheWrap and What s Trending s inaugural AI Creator Day , with executives, creators and entrepreneurs converging to tackle both hot-button topics. Filmmakers and creators embraced the technology wholeheartedly onstage at the Freud Theater at UCLA. Whether it was a sponge stop motion short or a trailer for a full-length, AI-generated sci-fi series, the audience at the conference was enamored with the capabilities of the technology, a response that stands in contrast to the public and Hollywood’s trepidation with the technology. In addition to long-standing concerns that AI will lead to a flurry of layoffs, posts from AI leaders and departing employees have added an extra element of dread. It s with that backdrop that executives from Adobe, Fox, IAB and UTA, among others, broke down how they integrate AI into their workflows and how they handle the pushback from consumers and oftentimes employees. Other panelists discussed the legal ramifications of the technology and how increased regulation could lead to more freedom with AI use. The event took place one day ah
 
-### AI Has Already Impacted How Creatives Are Pitching Films, According to FoxNXT Head
-Tue, 29 Sep 2026 23:36:35 +0000 — https://www.thewrap.com/industry-news/tech/ai-creator-day-fox-entertainment-foxnxt/
+### Verity Review: Anne Hathaway Flirts With Camp in Silly, Sexy and Overstuffed Adaptation
+Wed, 30 Sep 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/reviews/verity-review-anne-hathaway-dakota-johnson/
 
-AI is already starting to affect how filmmakers are pitching movies. That s what Jon Flynn, the executive vice president and head of FoxNXT for Fox Entertainment, revealed during TheWrap and What’s Trending s first-ever AI Creator Day . Launched in April, FoxNXT is Fox s internal AI and next-gen technology studio that s dedicated to building digital media tools. Before leading FoxNXT, Flynn was the head of AI go-to-market strategy for media at Google. During Tuesday s event at UCLA s Ralph Freud Playhouse, Flynn revealed that a creative came to Fox Entertainment to pitch a movie but noted that, due to their AI-focused and budget-conscious approach, radically changed how they dealt with the studio. I ve never seen anybody do this. They did five different meetings, all in one feature meeting, Flynn said during the Rewriting the Studio Model: Upskilling Talent for an AI-Powered Future, which was moderated by TheWrap s Managing Editor for Business and PRO, Roger Cheng. They said, This is the typical budget for what we want to make our feature, but we want to use these [AI] tools, which we think is going to rationalize about 15% of the budget, which we would like to put back in because we do want to go to these two locations We think we found a way not to break that budget that we re putting in front of you as a proposal.' Flynn noted that this one meeting with an unnamed creative wasn t a one-off experience. He s seen filmmakers going into pitch meetings being more conscious of h
+The second Colleen Hoover adaptation in as many years is in theaters this weekend, but folks looking for a “ Regretting You ”-style happy ending should gird their loins. “Verity” is a different kind of story entirely, focusing instead on a twisty, tawdry tale of two authors and their vaguely competent himbo. The fastest way to describe director Michael Showalter’s film adaptation is if the Marie Kondo “I Love Mess” meme met 2026’s version of an erotic thriller. They ain’t what they used to be, but it’s nice to see any film try in our strangely sexless era of cinema. There does appear to be at least a level of self awareness when it comes to realizing that the sexiness of the film is necessary, as “Verity” relies on two things to succeed: the performances of its leads and how hot everyone is. Anne Hathaway’s Verity Crawford is an ailing author who needs a ghostwriter to finish her latest book; Dakota Johnson’s Lowen Ashleigh is a struggling author about to lose her house; and Josh Hartnett s Jeremy is just a boy who is in love with a girl, but also in love with this other girl, and also really does (actually) love his kids. The premise is very silly, and the execution often meets that energy even if it isn’t meant to. Still, “Verity” is, on occasion, very hot. Hathaway is playing Verity as what we’ll call “camp light.” She doesn’t go full Grand High Witch here, but she’s doing the most in every scene we see her in. Specifically, there’s a cadence to her voice that makes nearly
 
 ## Collider
 
-### The 10 Best Slice-of-Life Books, Ranked
-Wed, 30 Sep 2026 10:39:12 GMT — https://collider.com/best-slice-of-life-books-ranked/
+### BritBox’s Bold 11-Part Crime Series Is a Masterpiece From Start to Finish
+Wed, 30 Sep 2026 16:11:11 GMT — https://collider.com/britbox-best-crime-series-the-tower-masterpiece/
 
-Not every great book needs an elaborate plot. Slice-of-life literature finds significance in experiences that might otherwise seem ordinary. Sometimes, simply watching people work, eat, fall in love, grieve, make mistakes, talk to friends, or quietly wonder whether they've made the right choices can be every bit as compelling as a grand adventure.
+While it might be hard to keep up with all the new and upcoming streaming platforms, BritBox is continuing to make a case for itself among its competitors. From enthralling Agatha Christie mysteries like Towards Zero and Murder Is Easy , to original shows like Ludwig and The Other Bennet Sister , the platform is bringing to its viewers the best of what British television and film have to offer.
 
-### Forget 'Obsession,' This Indie Horror Thriller Is the Perfect Replacement
-Wed, 30 Sep 2026 10:05:12 GMT — https://collider.com/starry-eyes-horror-obsession-streaming-free-tubi-october-2026/
+### Johnny Flynn’s New Western Thriller Gets Official Sneak Peek Ahead of October Release [Exclusive]
+Wed, 30 Sep 2026 16:00:11 GMT — https://collider.com/a-prayer-for-the-dying-sneak-peek-john-c-reilly-johnny-flynn/
 
-Obsession is great, and everyone continues to love it—sans the weird section of the internet who decided they don't like Inde Navarrette because she was funny on Hot Ones Versus (the world is confusing). But beyond what happens on screen, part of the film's appeal (and the thing that people always bring up if you mention it in conversation) is how it was made independently, with a $750,000 budget . The horror genre is full of movies with behind-the-scenes micro-budget stories like Obsession, because it's one of the few genres where a movie can be independently made, without any big-name actors or studio backing, but word-of-mouth will get people to check it out. This was the case with another film that dabbled with themes of possession and people getting bludgeoned in the face with hard objects: Starry Eyes .
+A frontier town is stricken with the plague in the new Western movie A Prayer for the Dying . Johnny Flynn and John C. Reilly star in the movie, which is set to premiere in theaters next month. Before it does, Collider is proud to exclusively present one of the film's more surreal moments as a sneak preview. The film takes place in the Wisconsin town of Friendship in the 1870s. Largely populated by Scandinavian immigrants, the town is a peaceful place until residents start dying from diphtheria.
 
-### 3 Years Later, ‘Naruto’ Is Officially Back
-Wed, 30 Sep 2026 10:00:11 GMT — https://collider.com/naruto-reboot-miniseries-nycc-update/
+### Harlan Coben Officially Confirms His One Condition for ‘I Will Find You’ Season 2 [Exclusive]
+Wed, 30 Sep 2026 16:00:11 GMT — https://collider.com/harlan-coben-i-will-find-you-season-2-one-condition/
 
-Naruto fans were five days away from getting four completely new episodes in September 2023 when Studio Pierrot put a full-stop on the project and indefinitely paused it for “quality” control. Fans were left hanging for the four-episode limited series, and ever since then, there has been absolutely no update about the limited series.
+Who doesn't love a mystery? Over the past couple of years, the most indulgent, unmissable mysteries have taken place on Netflix. Whether it's the latest installment in Rian Johnson 's award-winning Knives Out series, titled Wake Up Dead Man: A Knives Out Mystery , the latest in a long line of Agatha Christie adaptations, Seven Dials , or the 2025 crime noir Dept. Q , Netflix hosts some of the very best crime shows perfect for a binge-watch.
 
-### 6 Most Important A24 Horror Movies, Ranked
-Wed, 30 Sep 2026 09:39:12 GMT — https://collider.com/most-important-a24-horror-movies-ranked/
+### Mark Wahlberg Officially Returns for New ‘Ted’ Series
+Wed, 30 Sep 2026 15:30:12 GMT — https://collider.com/ted-the-animated-series-first-teaser-release-date-mark-wahlberg-seth-macfarlane/
 
-The modern era of horror filmmaking has absolutely shifted away from the more basic slashers and jump-scare-centric paranormal films, with a larger focus on insightful messaging and layered symbolism completely dominating the culture of horror. Arguably at the forefront of this style of elevated horror is A24, the indie distribution company that has been specializing in arthouse filmmaking ever since its debut in 2012. However, it's their breakthroughs in the horror genre that have made massive waves and turned them into the icon they are known as today.
+Back in March, Ted returned for its second season on Peacock after a two-year gap and gave the Bennett family a fitting sendoff as John and his rude bear pal enjoyed their last days of high school before college. The series has thrived as a prequel to the 2010s blockbuster comedies starring Mark Wahlberg , with its sophomore outing racking up over 1.2 billion minutes watched within seven weeks of release and becoming the top comedy on television in that time by Nielsen's ratings. Despite being beloved by critics and audiences and being one of the streamer's biggest series to date, creator and star Seth MacFarlane has said there were "no plans" at the time to continue the sitcom with Season 3 and onward. However, he's far from done with his talking stuffed animal.
 
-### 10 Sci-Fi Books That Are Perfect From Start to Finish
-Wed, 30 Sep 2026 09:34:12 GMT — https://collider.com/sci-fi-books-perfect-start-to-finish/
+### Danny Boyle Officially Confirms Cillian Murphy’s Major ‘28 Years Later Part 3’ Return
+Wed, 30 Sep 2026 15:08:36 GMT — https://collider.com/28-years-later-part-3-cillian-murphy-danny-boyle-update/
 
-Science fiction is one of the greatest, most popular fiction genres of all time. The ability to tell stories that audiences can relate to while taking place in worlds unlike anything they know is a great skill. There are some truly phenomenal sci-fi books across the ages, and it is extremely difficult to compare them all, given how many amazing novels are out there.
+After winning the Oscar in 2024 for his performance in Oppenheimer , the last few years have been relatively quiet for Cillian Murphy , who hasn’t followed his Academy Award win with another smash box office hit yet. This has always been the trajectory of Murphy’s career, though, as he prefers to stay out of the spotlight both in his professional and private life. Murphy’s first film after Oppenheimer was Small Things Like These , which he followed last year with Steve , the Netflix original drama that earned millions of views on streaming. Earlier this year, he did return as Tommy Shelby for a Peaky Blinders movie, The Immortal Man , but it wasn’t the most shocking role return for him. Murphy briefly reprised his role as Jim in 28 Years Later: The Bone Temple , showing that he’s survived all this time and even has a daughter.
 
-### ‘Stranger Things’ Producer Officially Becomes the Latest Filmmaker to Leave Netflix
-Wed, 30 Sep 2026 09:30:11 GMT — https://collider.com/shawn-levy-disney-deal-leaving-netflix/
+### Disney+’s 10/10 ‘Adventure Time’ Spin-Off Officially Returns With New Sneak Peek [Exclusive]
+Wed, 30 Sep 2026 15:00:12 GMT — https://collider.com/adventure-time-side-quests-season-2-sneak-peek-tiny-negs/
 
-Right now on Prime Video, the most-watched movie in America is The Love Hypothesis . Following the unorthodox romance between Olive ( Lili Reinhart ) and Professor Adam Carlsen ( Tom Bateman ), the film ticks all the rom-com boxes, including featuring a strong supporting cast that boasts Rachel Marsh as Ahn, Nicholas Duvernay as Jeremy, Jaboukie Young-White , and Arty Froushan . So successful was this adaptation of Ali Hazelwood 's novel that the biggest streamer in the world has now acquired her next adaptation .
+It's almost time to return to the Land of Ooo once more! Earlier this year, Cartoon Network Studios brought Adventure Time back to basics with its new spin-off, Adventure Time: Side Quests , designed to introduce new audiences to Finn and Jake with a new art style and a return to the type of whimsical, lower-stakes adventures that defined the early seasons of the beloved animated fantasy . For the first time, Disney+ and Hulu played host to the fun, and the series became an immediate success on the platforms, earning a perfect 100% from critics on Rotten Tomatoes and plenty of praise for recapturing the feeling of the early days . A second season is now already on its way, with 20 new episodes set to premiere on October 2.
 
-### 15 Movies To Watch if You Love 'Dune'
-Wed, 30 Sep 2026 09:24:12 GMT — https://collider.com/movies-like-dune/
+### 3 Months Before ‘Avengers: Doomsday,’ Disney+’s Greatest Sci-Fi Is Back in the Top 5
+Wed, 30 Sep 2026 14:30:31 GMT — https://collider.com/loki-disney-plus-streaming-charts-top-5-before-avengers-doomsday/
 
-One of the most popular and influential sci-fi novels of all time, Frank Herbert 's massively imaginative Dune is the tale of Paul Atreides, who arrives at a dangerous alien planet after his father, Duke Leto, accepts stewardship of it. It's the galaxy's source of melange, its most precious resource. Chaos ensues after a betrayal that has powerful forces clash over control of the planet.
+Since its creation in 2019, Disney+'s collection of original content could be best described as mixed. Though the streaming service has built its library on the shoulders of some of entertainment's most beloved properties — Star Wars , Pixar , Marvel Studios — many of its original television shows have flown under the radar or earned mixed reviews from fans and critics alike. For every breakout hit like Percy Jackson & the Olympians , Disney+ has released even more titles that prompted shrugs from subscribers.
 
-### 5 Nintendo Switch 2 Exclusives That Justify the Upgrade
-Wed, 30 Sep 2026 09:08:11 GMT — https://collider.com/top-nintendo-switch-2-exclusives-ranked/
+### ‘Alien vs. X-Men’ Officially Unleashes the Deadliest Xenomorph Ever
+Wed, 30 Sep 2026 13:40:11 GMT — https://collider.com/alien-vs-x-men-wolverine-xenomorph-hybrid/
 
-The Nintendo Switch 2 is still the fastest-selling console of all time and there's good reason for it. Outside the excellent hardware capabilities compared to the original, Nintendo has been firing on all cylinders, releasing hot first-party titles you can only play on the hybrid console successor. Even without brand-new mainline entries in Nintendo's staple franchises such as Mario , Zelda , Super Smash Bros. , and Pokémon , they've still managed to deliver a smorgasbord of quality titles that make the new console enticing.
+Wolverine’s claws are usually a reassuring sight when a Marvel story turns into a horror movie. Whatever is lurking in the dark, Logan has a weapon that can reach it and the willingness to get close enough to use it . Put him beside the rest of the X-Men , and even a nightmare scenario comes with some formidable defenses.
 
-### After 70 Years, John Wayne's Best Movie Remains One of the Greatest Westerns Ever
-Wed, 30 Sep 2026 09:08:11 GMT — https://collider.com/john-wayne-best-movie-searchers-great-westerns-john-ford/
+### Godzilla’s Marvel Crossover Officially Adds the Queen of the Monsters
+Wed, 30 Sep 2026 13:30:13 GMT — https://collider.com/godzilla-mothra-marvel-crossover-conquers-multiverse/
 
-The Western genre may not be popping up on modern movie screens very much these days, but it was once the most popular and bankable genre in all of Hollywood . Honestly, you could argue there were a couple periods in time where the Western was at the top of the food chain, with the 1990s renaissance producing some of the genre's all-time great entries. Still, the heights of the careers of John Wayne and Clint Eastwood remain the peaks of Western filmmaking, and nothing the genre has delivered since 1956 can quite stand up to the visual power of the former's greatest film.
+Putting Godzilla in the Marvel Universe immediately raises a question that superhero fans love arguing about: who could actually be able to stop him? Marvel has no shortage of characters accustomed to fighting something larger than themselves, but the King of the Monsters presents a particularly stubborn problem . Assemble enough heroes to bring him down, and there is still no guarantee he will stay down. Now, it seems Earth's mightiest heroes might need their own Kaiju-sized ally.
 
-### Netflix’s Cult Classic Sci-Fi Series Is Officially a Global Streaming Juggernaut
-Wed, 30 Sep 2026 09:00:12 GMT — https://collider.com/netflix-sci-fi-the-eternaut-streaming-success-september-2026/
+### Marvel Officially Reveals Gambit's New Partner
+Wed, 30 Sep 2026 13:20:11 GMT — https://collider.com/marvel-gambit-wanted-elodie-new-partner/
 
-Speculative fiction or science fiction is one of those genres that has offered up some of the tastiest shows and movies. However, as a sub-genre within that broader umbrella, apocalyptic dramas have found a way to thrive massively almost as a genre of its own. While sci-fi franchises like Star Trek , Star Wars , and Stargate , among others, explore the vastness of space. Other shows like The 100 , the multi-award-winning drama series, The Walking Dead and its attendant spin-offs, HBO's The Last of Us , among other similar shows , have launched viewers into a dystopian future wherein humanity is on the brink of total collapse due to its own destructive activities.
+Gambit has a proven history of being good at getting into trouble , which should make the situation he finds himself in on his most recent trip to New Orleans no surprise. A young thief from his past is caught in the orbit of a woman who can turn people into obedient servants, and Remy has already offered up his own freedom to get her out . That bargain has left him exactly where Suzerain wants him.
 

@@ -1,6 +1,51 @@
-# Manga — harvested 2026-09-30T10:44:13.005Z
+# Manga — harvested 2026-09-30T16:31:02.582Z
 
 ## Anime News Network
+
+### Horror Collector Volumes 2-4 Light Novel Review
+Wed, 30 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/horror-collector/volumes-2-4/.241914
+
+That’s part of what makes for successful children’s horror fiction: not even the grown-ups can keep you safe.
+
+### Red River ‒ Episode 13
+Wed, 30 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-13/.242345
+
+True crime fans, this episode of <i>Red River</i> is for you.
+
+### Seirei Gensouki - Spirit Chronicles Anime Gets 3rd Season
+Wed, 30 Sep 2026 11:08:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/seirei-gensouki-spirit-chronicles-anime-gets-3rd-season/.242344
+
+2nd season aired in October 2024
+
+### New Magic Knight Rayearth's Rie Takahashi and Saori Hayami Share the World of Cefiro
+Wed, 30 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/new-magic-knight-rayearth-rie-takahashi-and-saori-hayami-share-the-world-of-cefiro/.239699
+
+We caught up with voice actors Rie Takahashi and Saori Hayami to discuss their roles as the Magic Knight Fū and Princess Emeraude from CLAMP's beloved series.
+
+### One Piece (2026-) ‒ Episode 1180
+Wed, 30 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1180/.242326
+
+The deep shadows and lighting changes alongside shocked expression work from the onlookers all do a great job selling the sheer terror of the events on display.
+
+### Witch on the Holy Night Film's Final Trailer Unveils Staff, Theme Song
+Wed, 30 Sep 2026 08:13:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/witch-on-the-holy-night-film-final-trailer-unveils-staff-theme-song/.242342
+
+supercell performs "Yoru to Ao" theme
+
+### Aoki Denshō Welsh & Shedar Anime Casts Risa Hayamizu
+Wed, 30 Sep 2026 07:34:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/aoki-densho-welsh-and-shedar-anime-casts-risa-hayamizu/.242341
+
+Hayamizu voices Welsh's adoptive mother Mama Caroni in October 2 anime
+
+### The World's Strongest Witch Anime Casts Nana Mizuki
+Wed, 30 Sep 2026 06:38:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/the-world-strongest-witch-anime-casts-nana-mizuki/.242339
+
+Mizuki voices world tree spirit Yggdrasil in episode 1 on October 7
+
+### The Final-Boss Prince is Somehow Obsessed with the Chubby Villainess: Reincarnated Me Anime's 1st Video Unveils More Cast & Staff, January Debut
+Wed, 30 Sep 2026 06:08:38 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/the-final-boss-prince-is-somehow-obsessed-with-the-chubby-villainess-reincarnated-me-anime-1st-/.242337
+
+Shunichi Toki, Fūka Izumi join anime's cast with music by <i>Skeleton Knight in Another World's</i> Tsubasa Itō
 
 ### New Fairy Princess Minky Momo Original Video Anime Delayed
 Wed, 30 Sep 2026 05:33:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/new-fairy-princess-minky-momo-original-video-anime-delayed/.242338
@@ -17,56 +62,21 @@ Wed, 30 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Complete with 7 Dragon Balls & Son Goku riding his Kintoun cloud
 
-### Full Clearing Another World under a Goddess with Zero Believers Anime Streams 1st Promo Video
-Wed, 30 Sep 2026 02:07:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-streams-1st-promo-video/.242331
-
-Artist 310 sings opening in anime debuting on October 11
-
-### Mazenchu Anime Posts Opening Video Narrated by Actress First Summer Uika
-Wed, 30 Sep 2026 01:20:47 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/mazenchu-anime-posts-opening-video-narrated-by-actress-first-summer-uika/.242329
-
-Anime set in school for food ingredients debuts on October 7 within Kansai TV's <cite>Yoidon!</cite> morning program
-
-### Sumikko Gurashi Franchise Gets 5th Anime Film in 2027
-Wed, 30 Sep 2026 00:16:47 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/sumikko-gurashi-franchise-gets-5th-anime-film-in-2027/.242328
-
-New film centers on Neko as protagonist
-
-### Universal Studios Japan Offers 1st Sailor Moon Theme Park Ride in 2027
-Tue, 29 Sep 2026 23:42:13 -0400 — https://www.animenewsnetwork.com/interest/2026-09-29/universal-studios-japan-offers-1st-sailor-moon-theme-park-ride-in-2027/.242327
-
-Universal Cool Japan 2027 also brings back "Moon Place Chapter Deluxe" short, themed food, merchandise
-
-### Mai Kuraki Breaks Own World Record for Most Theme Songs for Detective Conan Anime
-Tue, 29 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-29/mai-kuraki-breaks-own-world-record-for-most-theme-songs-for-detective-conan-anime/.242306
-
-Kuraki takes record from 21 to 30 theme songs for <cite>Detective Conan</cite>
-
-### Marvel, Kadokawa Unveil More Art, Story Details for Spider-Man, Spider-Gwen Manga
-Tue, 29 Sep 2026 21:50:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/marvel-kadokawa-unveil-more-art-story-details-for-spider-man-spider-gwen-manga/.242325
-
-Manga will launch in Kadocomi before end of year
-
-### Kuri Hime Ayakashi Yobanashi Manga Ends on October 28
-Tue, 29 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/kuri-hime-ayakashi-yobanashi-manga-ends-on-october-28/.242302
-
-Adaptation of <cite>The Apothecary Diaries</cite> creator Hyuganatsu's novel launched in 2024
-
-### Manga Plus Adds Digimon Eggs Manga on October 2
-Tue, 29 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/manga-plus-adds-digimon-eggs-manga-on-october-2/.242322
-
-Simulpub title launches on October 2
-
-### Dungeon Farm Manga Artist Mozukuzu Launches New Manga
-Tue, 29 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/dungeon-farm-manga-artist-mozukuzu-launches-new-manga/.242296
-
-Manga adaptation of Mizuho Itsuki's <cite>Kemomimi Miko no Isekai Jinja Saikō-ki</cite> novel launched on Monday
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Re:ZERO Season 4 Rem Epilogue Visual Revealed to Commemorate Finale
+Wed, 30 Sep 2026 14:47:28 GMT — https://animecorner.me/rezero-season-4-rem-epilogue-visual-revealed-to-commemorate-finale/
+
+Re:ZERO Season 4 revealed a new Rem epilogue visual following its final episode (Episode 19) on September 30, 2026.
+
+### Seirei Gensouki: Spirit Chronicles Season 3 Announced
+Wed, 30 Sep 2026 12:45:09 GMT — https://animecorner.me/seirei-gensouki-spirit-chronicles-season-3-announced/
+
+Seirei Gensouki: Spirit Chronicles Season 3 was officially announced, along with a commemorative message from the author.
 
 ### Witch on the Holy Night Movie Reveals Final Trailer, Staff, supercell Theme Song and New Character Visual
 Wed, 30 Sep 2026 10:35:58 GMT — https://animecorner.me/witch-on-the-holy-night-movie-reveals-final-trailer-staff-supercell-theme-song-and-new-character-visual/
@@ -88,17 +98,22 @@ Mon, 28 Sep 2026 18:18:03 GMT — https://animecorner.me/black-clover-season-2-r
 
 Black Clover Season 2 anime has revealed a new pre-premiere visual ahead of its October 3, 2026 premiere.
 
-### Though I Am an Inept Villainess Anime Reveals Epilogue Visual
-Mon, 28 Sep 2026 11:58:59 GMT — https://animecorner.me/though-i-am-an-inept-villainess-anime-reveals-epilogue-visual/
-
-Though I Am an Inept Villainess anime revealed an epilogue visual featuring the main&hellip;
-
-### Everyone's Darling Has a Secret Gets Anime
-Mon, 28 Sep 2026 11:19:32 GMT — https://animecorner.me/everyones-darling-has-a-secret-gets-anime/
-
-Everyone's Darling Has a Secret manga is getting an anime series. A visual was&hellip;
-
 ## MyAnimeList News
+
+### Light Novel Jaku-Chara Tomozaki-kun Concludes with 12th Volume
+Wed, 30 Sep 2026 08:11:06 -0700 — https://myanimelist.net/news/74776197?_location=rss
+
+The official X account for author Yuuki Yaku announced on Wednesday that the Jaku-Chara Tomozaki-kun (Bottom-Tier Character Tomozaki) light novel series will end with its 12th volume, scheduled to be released on October 16. Yaku originally began the romantic comedy series after winning the Excellence Award at the 10th Shogakukan Light Novel Award with the title Manten Kazari no Ganbariron! in March 2016. Shogakukan later published the light novel under its Gagaga Bunko imprint in May 2016, featu...
+
+### Seirei Gensouki Receives Third Anime Season
+Wed, 30 Sep 2026 07:04:05 -0700 — https://myanimelist.net/news/74776019?_location=rss
+
+The official website of the television anime adaptation of Yuri Kitayama s Seirei Gensouki (Seirei Gensouki: Spirit Chronicles) light novel announced a third season on Wednesday. Produced by TMS Entertainment, the first season aired in 12 episodes in Summer 2021. A 12 episodes second season aired in Fall 2024. Crunchyroll simulcast the anime with subtitles, and later with English dub. Kitayama launched the adventure fantasy novel on the Shousetsuka ni Narou website in February 2014 and also...
+
+### Mahoutsukai no Yoru Reveals Production Staff, Final Trailer, Theme Song
+Wed, 30 Sep 2026 03:58:43 -0700 — https://myanimelist.net/news/74775734?_location=rss
+
+The special livestream presentation for the anime movie adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel reveals production staff, theme song, and final promotional video on Wednesday. Produced by ufotable, the film is scheduled to open in Japanese theaters on November 20. Staff Director: Masashi Takeuchi (Kimetsu no Yaiba Movie: Mugen Ressha-hen episode director) Chief Director: Hikaru Kondou (Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai) Script...
 
 ### Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo Theatrical Release Postponed
 Wed, 30 Sep 2026 02:58:34 -0700 — https://myanimelist.net/news/74775666?_location=rss
@@ -124,16 +139,6 @@ Publishing company Square Enix announced on Wednesday that Mochimaru Sakaki s Se
 Mon, 28 Sep 2026 16:57:54 -0700 — https://myanimelist.net/news/74772034?_location=rss
 
 The official website for the television anime adaptation of Keigo Shinzou s Hirayasumi manga revealed the main cast, a key visual (pictured), and a second teaser promotional video on Tuesday. The anime is scheduled to premiere on NHK-G in January 2027. Cast Hiroto Ikuta: Yuuma Uchida (Fruits Basket 1st Season) Natsumi Kobayashi: Mayu Takahashi (Long Zu II: Daowangzhe Zhi Tong) Hanae Wada: Rikako Aikawa (Pokemon Sun &amp; Moon) Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...
-
-### Liar Game Second Season Announced
-Mon, 28 Sep 2026 09:04:31 -0700 — https://myanimelist.net/news/74770586?_location=rss
-
-The 26th and final episode of Liar Game ended with an announcement on Tuesday that a second season is in production. The animation character designer Kei Tsuchiya drew an illustration to commemorate the announcement (pictured). Produced by Madhouse, the television anime series adapting Shinobu Kaitani s psychological thriller manga aired in 26 episodes on April 7. Crunchyroll simulcast the television anime series with subtitles and an English dub. Kaitani serialized the psychological suspen...
-
-### Bleach: Sennen Kessen-hen - Kashin-tan Announces Additional Cast Pair
-Mon, 28 Sep 2026 07:57:46 -0700 — https://myanimelist.net/news/74770224?_location=rss
-
-The official website of the Bleach: Sennen Kessen-hen - Kashin-tan (Bleach: Thousand-Year Blood War - The Calamity) television anime announced an additional pair of cast on Monday. The anime series premiered on July 25 at 11.00 p.m. on TV Tokyo and its affiliates. The final two episodes of the series will air on October 20 and October 27 at 12:00 a.m. on TV Tokyo Network, respectively. Voice actresses Azusa Tachibana (Kuroneko to Majo no Kyoushitsu) and Ayaka Ohashi (Jishou Akuyaku Reijou na Kon...
 
 ## Otaku USA
 
