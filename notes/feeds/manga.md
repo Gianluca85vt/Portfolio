@@ -1,72 +1,82 @@
-# Manga — harvested 2026-09-29T18:52:04.784Z
+# Manga — harvested 2026-09-30T10:44:13.005Z
 
 ## Anime News Network
 
-### The Summer Hikaru Died Volumes 2-7 Manga Review
-Tue, 29 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-summer-hikaru-died/volumes-2-7/.241598
+### New Fairy Princess Minky Momo Original Video Anime Delayed
+Wed, 30 Sep 2026 05:33:44 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/new-fairy-princess-minky-momo-original-video-anime-delayed/.242338
 
-As <i>The Summer Hikaru Died</i> approaches its conclusion, who can say where it will take "Hikaru" and Yoshiki? The monster already ripped his heart out; will Yoshiki be next?
+Production issues cited for delay on anime originally slated for November 13
 
-### The Shy Snow Woman And The Cursed Ring Anime Gets English Dub
-Tue, 29 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/the-shy-snow-woman-and-the-cursed-ring-anime-gets-english-dub/.242311
+### Voice Actor Kenjirō Tsuda's TikTok Lawsuit Dismissed After AI-Voiced Videos' Removal
+Wed, 30 Sep 2026 05:08:24 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/voice-actor-kenjiro-tsuda-tiktok-lawsuit-dismissed-after-ai-voiced-videos-removal/.242334
 
-OceanVeil debuts dub starring Jordan Woollen, Leah Booth, CottontailVA on October 4
+Ministry of Justice expert panel had indicated right of publicity protects voices
 
-### A/V Post-Production Company Salami Studios Closes
-Tue, 29 Sep 2026 11:01:07 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/a-v-post-production-company-salami-studios-closes/.242310
+### Lego Unveils Dragon Ball's Shenron Set
+Wed, 30 Sep 2026 03:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-30/lego-unveils-dragon-ball-shenron-set/.242333
 
-Salami Studios worked on recording for <cite>Cyberpunk 2077: Edgerunners 2</cite> anime
+Complete with 7 Dragon Balls & Son Goku riding his Kintoun cloud
 
-### When Webtoons Step Out of the Screen: A Visit to K-Comics Origin Los Angeles
-Tue, 29 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-09-29/when-webtoons-step-out-of-the-screen-a-visit-to-k-comics-origin-los-angeles/.242055
+### Full Clearing Another World under a Goddess with Zero Believers Anime Streams 1st Promo Video
+Wed, 30 Sep 2026 02:07:15 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/full-clearing-another-world-under-a-goddess-with-zero-believers-anime-streams-1st-promo-video/.242331
 
-The exhibition explores the 100-year history of Korean comics, the evolution of webtoons as a distinct format, and their growing role as an IP source for Korean content.
+Artist 310 sings opening in anime debuting on October 11
 
-### This Week in Anime - 1 in 100 (GFs)
-Tue, 29 Sep 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-09-29/.242260
+### Mazenchu Anime Posts Opening Video Narrated by Actress First Summer Uika
+Wed, 30 Sep 2026 01:20:47 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/mazenchu-anime-posts-opening-video-narrated-by-actress-first-summer-uika/.242329
 
-They really, really, really, really, really love you, but which of them is your favorite?
+Anime set in school for food ingredients debuts on October 7 within Kansai TV's <cite>Yoidon!</cite> morning program
 
-### Interview: Miyu Tomita Becomes Cute Mascot PAGTARO in Uncle's Obsession with Cute Things Anime
-Tue, 29 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/interview-miyu-tomita-becomes-cute-mascot-pagtaro-in-uncle-obsession-with-cute-things-anime/.241871
+### Sumikko Gurashi Franchise Gets 5th Anime Film in 2027
+Wed, 30 Sep 2026 00:16:47 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/sumikko-gurashi-franchise-gets-5th-anime-film-in-2027/.242328
 
-From <cite>Made in Abyss</cite> to an impossibly adorable pug mascot, Miyu Tomita is putting her all into every "Paguuu!"
+New film centers on Neko as protagonist
 
-### Nia Liston: The Merciless Maiden Anime Adds 4 More Cast Members
-Tue, 29 Sep 2026 06:28:41 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/nia-liston-the-merciless-maiden-anime-adds-4-more-cast-members/.242304
+### Universal Studios Japan Offers 1st Sailor Moon Theme Park Ride in 2027
+Tue, 29 Sep 2026 23:42:13 -0400 — https://www.animenewsnetwork.com/interest/2026-09-29/universal-studios-japan-offers-1st-sailor-moon-theme-park-ride-in-2027/.242327
 
-Saeko Kamijō, Hitomi Ueda, Azusa Tadokoro, Ayaka Ōhashi join cast of October 6 series
+Universal Cool Japan 2027 also brings back "Moon Place Chapter Deluxe" short, themed food, merchandise
 
-### The Vermilion Mask Anime Reveals Singer Yuya Tegoshi as Guest Voice Actor
-Tue, 29 Sep 2026 05:57:03 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/the-vermilion-mask-anime-reveals-singer-yuya-tegoshi-as-guest-voice-actor/.242303
+### Mai Kuraki Breaks Own World Record for Most Theme Songs for Detective Conan Anime
+Tue, 29 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-29/mai-kuraki-breaks-own-world-record-for-most-theme-songs-for-detective-conan-anime/.242306
 
-Tegoshi to appear in upcoming anime's 12th episode
+Kuraki takes record from 21 to 30 theme songs for <cite>Detective Conan</cite>
 
-### Monster Hunter Outlanders Game Launches on October 29
-Tue, 29 Sep 2026 03:31:58 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/monster-hunter-outlanders-game-launches-on-october-29/.242292
+### Marvel, Kadokawa Unveil More Art, Story Details for Spider-Man, Spider-Gwen Manga
+Tue, 29 Sep 2026 21:50:37 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/marvel-kadokawa-unveil-more-art-story-details-for-spider-man-spider-gwen-manga/.242325
 
-Game's mainland China version slated for 2027
+Manga will launch in Kadocomi before end of year
 
-### Tomohiro Hata Performs Live-Action Ao no Hana Utsuwa no Mori Series' Theme Song
-Tue, 29 Sep 2026 01:46:14 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/tomohiro-hata-performs-live-action-ao-no-hana-utsuwa-no-mori-series-theme-song/.242290
+### Kuri Hime Ayakashi Yobanashi Manga Ends on October 28
+Tue, 29 Sep 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/kuri-hime-ayakashi-yobanashi-manga-ends-on-october-28/.242302
 
-October 26 series also presents new visual
+Adaptation of <cite>The Apothecary Diaries</cite> creator Hyuganatsu's novel launched in 2024
 
-### Naruto Gets New 'Limited' TV Anime Series
-Mon, 28 Sep 2026 23:22:57 -0400 — https://www.animenewsnetwork.com/news/2026-09-28/naruto-gets-new-limited-tv-anime-series/.242289
+### Manga Plus Adds Digimon Eggs Manga on October 2
+Tue, 29 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/manga-plus-adds-digimon-eggs-manga-on-october-2/.242322
 
-Franchise to reveal more details at NYCC panel on October 10
+Simulpub title launches on October 2
 
-### Uma Musume Anime Aims for Guinness World Record with New Series
-Mon, 28 Sep 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-09-28/uma-musume-anime-aims-for-guinness-world-record-with-new-series/.242272
+### Dungeon Farm Manga Artist Mozukuzu Launches New Manga
+Tue, 29 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-29/dungeon-farm-manga-artist-mozukuzu-launches-new-manga/.242296
 
-Will the horse girls achieve Most Speaking Characters in a Short-form Animation Series Based on a Video Game?
+Manga adaptation of Mizuho Itsuki's <cite>Kemomimi Miko no Isekai Jinja Saikō-ki</cite> novel launched on Monday
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Witch on the Holy Night Movie Reveals Final Trailer, Staff, supercell Theme Song and New Character Visual
+Wed, 30 Sep 2026 10:35:58 GMT — https://animecorner.me/witch-on-the-holy-night-movie-reveals-final-trailer-staff-supercell-theme-song-and-new-character-visual/
+
+Witch on the Holy Night anime film has released its final 90-second trailer and staff ahead of its November 20, 2026 premiere in Japan.
+
+### Interview: Junko Takeuchi, Voice of Naruto, Gon, & Endou Mamoru
+Wed, 30 Sep 2026 04:47:21 GMT — https://animecorner.me/interview-junko-takeuchi-voice-of-naruto-gon-endou-mamoru/
+
+Junko Takeuchi is a voice actor uniquely capable of delivering performances for the kinds&hellip;
 
 ### Re:ZERO Season 4 Episode 19 (Finale) Preview Revealed
 Tue, 29 Sep 2026 09:00:59 GMT — https://animecorner.me/rezero-season-4-episode-19-finale-preview-revealed/
@@ -89,6 +99,16 @@ Mon, 28 Sep 2026 11:19:32 GMT — https://animecorner.me/everyones-darling-has-a
 Everyone's Darling Has a Secret manga is getting an anime series. A visual was&hellip;
 
 ## MyAnimeList News
+
+### Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo Theatrical Release Postponed
+Wed, 30 Sep 2026 02:58:34 -0700 — https://myanimelist.net/news/74775666?_location=rss
+
+The official website for the Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo (Fairy Princess Minky Momo) original video anime announced on Wednesday that its theatrical release has been postponed due to production circumstances. The OVA was originally scheduled to open in Japan on November 13. A new release date will be announced at a later time. The production committee apologized to viewers and related parties for the postponement. Advance tickets that have already been purch...
+
+### Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu Reveals Additional Cast, Staff, First Promo, Winter 2027 Premiere
+Wed, 30 Sep 2026 02:39:21 -0700 — https://myanimelist.net/news/74775638?_location=rss
+
+The official website for the television anime adaptation of Kotoko and Kaname Hanamiya s Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu (The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me) web manga revealed additional cast, staff, a first key visual (pictured), and the first promotional video on Wednesday. The anime will premiere on Tokyo MX, BS Nippon, AT-X, CBC TV, and other stations in January 2027. Voice actors Shuni...
 
 ### Kyouran Reijou Nia Liston Announces Additional Cast
 Tue, 29 Sep 2026 02:23:01 -0700 — https://myanimelist.net/news/74773120?_location=rss
@@ -115,24 +135,19 @@ Mon, 28 Sep 2026 07:57:46 -0700 — https://myanimelist.net/news/74770224?_locat
 
 The official website of the Bleach: Sennen Kessen-hen - Kashin-tan (Bleach: Thousand-Year Blood War - The Calamity) television anime announced an additional pair of cast on Monday. The anime series premiered on July 25 at 11.00 p.m. on TV Tokyo and its affiliates. The final two episodes of the series will air on October 20 and October 27 at 12:00 a.m. on TV Tokyo Network, respectively. Voice actresses Azusa Tachibana (Kuroneko to Majo no Kyoushitsu) and Ayaka Ohashi (Jishou Akuyaku Reijou na Kon...
 
-### Web Manga Houkago no Idol ni wa Himitsu ga Aru Gets TV Anime in Spring 2027
-Sun, 27 Sep 2026 20:49:54 -0700 — https://myanimelist.net/news/74768378?_location=rss
-
-Production company Bushiroad opened an official website for a television anime adaptation of Kashiko Amane s Houkago no Idol ni wa Himitsu ga Aru (Everyone s Darling Has a Secret) web manga on Monday, revealing the main cast, staff, and a teaser visual (pictured). The anime series will premiere in April 2027. Cast Hiruno Hizashi: Reiji Kawashima (Fumetsu no Anata e) Rei Kuromiya: Hikaru Tono (Make Heroine ga Oosugiru) Sakura Akai: Iori Noguchi (=LOVE) (Hashiri Tsuzukete Yokatta tte.) S...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### I Want to Love You Till Your Dying Day Volumes 4, 5 and 6 Review
+Wed, 30 Sep 2026 09:00:12 +0000 — https://animeuknews.net/2026/09/i-want-to-love-you-till-your-dying-day-volumes-4-5-and-6-review/
+
+With its anime adaptation drawing to a close, we return to Nachi Aono's original manga.
+
 ### Villains Are Destined to Die Volumes 6 and 7 Review
 Tue, 29 Sep 2026 09:00:05 +0000 — https://animeuknews.net/2026/09/villains-are-destined-to-die-volumes-6-and-7-review/
 
 After the hunting tournament, Penelope finds herself in the middle of an ancient war that could destroy the world if the re-appearance of the Duke's 'real' daughter doesn't end her first...
-
-### The Villainess Who Came to Marry into the Frontier Noble s Household Is an Exceptionally Capable Wife, Isn t She? Volume 1 Review
-Mon, 28 Sep 2026 09:00:51 +0000 — https://animeuknews.net/2026/09/the-villainess-who-came-to-marry-into-the-frontier-nobles-household-is-an-exceptionally-capable-wife-isnt-she-volume-1-review/
-
-After being reborn into an otome game, Ragna needs to takes on his duties as a noble, including marrying the villainess, and surviving whatever this new life throws at him.
 

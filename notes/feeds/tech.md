@@ -1,8 +1,38 @@
-# Tech — harvested 2026-09-29T18:52:04.784Z
+# Tech — harvested 2026-09-30T10:44:13.005Z
 
 ## Ars Technica
 
-### Apple worked with Trump admin to remove ICE-tracking apps, lawmaker says
+### Most powerful obesity drug yet: People lost up to 25% of weight in trial
+Tue, 29 Sep 2026 22:30:37 +0000 — https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/
+
+Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide—expected to be the most powerful formula yet—and the results appear in line with high expectations. Patients with obesity on the highest retatrutide dose lost an average of 25 percent of their body weight after 80 weeks, and an average of 30 percent after an extension period to 104 weeks. Overall, more than a third of participants taking retatrutide lost 30 percent or more of their weight. The drug also proved effective at reducing knee pain (by up to 62 percent) in a subset of participants with obesity-linked knee osteoarthritis. It reduced the number of sleep apnea events per hour (by up to 57 percent) in a subset of participants with obesity-linked obstructive sleep apnea. The drug improved cardiometabolic measurements across the board, including blood pressure, triglycerides, and low-density lipoprotein cholesterol (bad cholesterol). At the start, more than a third of trial participants had prediabetes and, by the end, the condition had resolved in more than 90 percent of those participants. The trial began in 2023 and included 2,339 participants from 131 clinical trial sites in 11 countries. Participants were broken into four nearly equal groups, given either: 4 mg of retatrutide, 9 mg, 12 mg, or a placebo. Across all groups, the average starting weight was around 113 kg (250 pounds), and the average body mass index (BMI) was 40. For the subset analyses, 574 participants h
+
+### Protests against OpenAI get increasingly creative
+Tue, 29 Sep 2026 21:52:58 +0000 — https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/
+
+Two artists from a Bay Area studio unveiled What Iceberg? , a table-sized installation placed at the public entrance to an OpenAI developer event in San Francisco on Tuesday. According to a description of the piece, the 5-foot-tall sculpture "shows OpenAI's leaders and investors escaping a sinking ship with unimaginable wealth, while everyone else is left to face the cost of AI.” One of the co-creators of the piece, a man in his “late 30s” who gave his name as “Kevin,” said that he and members of the Berkeley-based Odd Friend Studio spent the last five days working to build What Iceberg? out of papier mâché, cardboard, paint—and a repurposed table. Read full article Comments ]]>
+
+### AMD acquires World Labs AI startup, upping the ante against Nvidia
+Tue, 29 Sep 2026 21:14:49 +0000 — https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/
+
+Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval. The transaction is valued at $8.2 billion. In 2024, computer vision scientist Fei-Fei Li founded World Labs with fellow researchers Justin Johnson, Christoph Lassner, and Ben Mildenhall, with $230 million in funding, some of which came from AMD. The company began working on new world models, which are AI models that aim to provide a useful, predictive simulation of the physical world. Competing architectures exist (earlier this year, Ars interviewed World Labs co-founder Ben Mildenhall and others in the field about exactly that), but many involve training a model on vast amounts of video data. Read full article Comments ]]>
+
+### Trump ads paid for by US government allegedly violate anti-propaganda laws
+Tue, 29 Sep 2026 20:23:40 +0000 — https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/
+
+Broadcasters should be ordered to stop running Trump commercials that appear to violate US laws, consumer advocacy group Public Citizen said today in a complaint to the Federal Communications Commission and Federal Trade Commission. The ads appear to violate laws against using taxpayer funds for propaganda and a law that restricts political activity by federal government employees, the group said. "The most recent of these taxpayer-funded campaign ads, entitled 'The Final Battle,' is a copied version of an ad that the Trump campaign committee issued in the 2024 election," Public Citizen wrote . "In dead serious black-and-white footage, Trump is seen marching down a corridor with a stern look, while the audio blares: 'This is the final battle. With you at my side, we will demolish the deep state. We will expel the warmongers from our government.' A notice at the bottom of the screen announces: 'Paid for by the US government.'" Trump also says in the ad, "We will cast out the communists, Marxists, and fascists. We will throw off the sick political class that hates our country, we will rout the fake news media, and we will liberate America from these villains once and for all." It uses the same video and audio from an ad Trump used in 2024 , with the main difference being that the 2024 version was paid for by Trump's campaign committee instead of the US government. The White House claims its recent ads are public service announcements. Read full article Comments ]]>
+
+### NASA has a Dragon dilemma, and there appear to be no good answers
+Tue, 29 Sep 2026 18:34:00 +0000 — https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/
+
+For two decades, largely in service to the International Space Station, NASA has sought to foster an "economy" in low-Earth orbit. Twenty years ago, with a program to develop private spacecraft for cargo delivery to the space station, NASA sought to "stimulate efforts within the private sector to develop and operate safe, reliable, and cost-effective commercial space transportation systems." In recent years this has expanded to creating an entire commercial ecosystem in orbit, with transportation, space stations, manufacturing, tourism, and more, such that NASA is one of many customers in the market. In April 2024, the space agency explicitly laid out its philosophy: "NASA supports a robust commercial space economy that advances American industry and promotes technological discovery through in-space work and research. NASA remains committed to fostering innovation and collaboration within the American space industry." Read full article Comments ]]>
+
+### Here's what actually happened in OpenAI's Australian gov't server hack
+Tue, 29 Sep 2026 18:11:09 +0000 — https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/
+
+Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed "non-public files" from his country's Medicare statistics portal during testing, his description of the incident was a little light on details. Today, we're getting new information on just how far OpenAI's overzealous agent went in attempting to satisfy a rather innocuous-sounding informational prompt. In a newly published blog post , OpenAI says the June incident started when the company asked "an experimental, internal-only OpenAI model" to research government spending statistics in the Australian state of Victoria. When the model ran into trouble finding that data using the publicly published statistics that it was supposed to reference, "it took actions that we had not authorized it to take" to find an answer, OpenAI said. Those unauthorized actions included finding "a way to gain non-public access to the service" and using that access to view "technical system information and source code" alongside credentials and the aggregate statistics it was actually searching for, OpenAI said. Read full article Comments ]]>
+
+### Apple pressured to explain Trump role in ICE-tracking app removals
 Tue, 29 Sep 2026 17:29:14 +0000 — https://arstechnica.com/tech-policy/2026/09/apple-worked-with-trump-admin-to-remove-ice-tracking-apps-lawmaker-says/
 
 Apple continues to face backlash for removing ICE-tracking apps like ICEBlock from the App Store , a drastic step that seemed to be triggered by Trump administration claims that the apps endangered officers. According to US Rep. Jamie Raskin (D-Md.), Apple has no evidence to support claims that apps raised safety concerns. Instead, the lawmaker accused Apple of using immigrant deaths with no connection to the apps to justify censoring Americans who have the right to record ICE activity. It appears that Apple is “working with the government to violate its customers’ First Amendment rights to record and report on the activities of their own government,” Raskin said in a letter to Apple sent Monday, CNN reported . Read full article Comments ]]>
@@ -32,37 +62,32 @@ Tue, 29 Sep 2026 13:00:19 +0000 — https://arstechnica.com/gadgets/2026/09/mozi
 
 Today, the Firefox 157 update will roll out a redesign of the web browser across desktop and mobile platforms. The team that made it hopes it will help expand the browser's audience beyond privacy-conscious techies and open-web or open source advocates to a broader audience who might simply pick the browser because they prefer its user experience over competitors like Chrome, Edge, and Safari. In advance of the redesign's launch, I spent half an hour chatting with Mozilla's head of Firefox, Ajit Varma, about Firefox's current market position and product strategy, and what barriers or opportunities there are for gaining ground in a Chromium-dominated landscape. Read full article Comments ]]>
 
-### Boeing "incredibly excited" to serve as nation's only astronaut transportation
-Mon, 28 Sep 2026 22:24:33 +0000 — https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/
-
-NASA announced on Monday that it will exercise options to purchase two additional flights on Boeing's Starliner spacecraft, as well as financially support the company in its efforts to return the crewed vehicle to flight and find a new rocket after the Atlas V vehicle retires. The space agency's announcement confirms reporting by Ars Technica earlier this month on NASA's plans to maintain access to low-Earth orbit after the impending retirement of SpaceX's Crew Dragon vehicle. "I do not think it's a secret that SpaceX intends to sunset older platforms like Falcon and Dragon as they concentrate on their next-generation capability, Starship," NASA Administrator Jared Isaacman said during a news conference on Monday afternoon. Read full article Comments ]]>
-
-### Experts worry about Nvidia's AI chip sales in China and influence over Trump
-Mon, 28 Sep 2026 21:49:10 +0000 — https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/
-
-On its face, the recent summit between Donald Trump and China’s president, Xi Jinping, didn’t change much in the world of AI regulation. Export controls were not discussed, with neither country seemingly interested in making concessions. An already tenuous trade truce was temporarily extended for just two months, and looming US controls that could drop soon could easily end that and trigger China to retaliate by cutting off exports of rare earths, analysts expect. However, in the background of these shaky talks, Nvidia appeared to notch a big win, as China is currently mulling relaxing controls and allowing some of its biggest AI firms to import perhaps millions more of Nvidia’s banned chips over the next year. Sources familiar with China’s talks told The Information that China’s tech oversight arm, the Ministry of Industry and Information Technology, asked Alibaba and ByteDance to share plans to buy Nvidia’s RTX Pro 5500 chips. Although these are gaming chips, China asked firms to detail how they plan to use them, with expectations that chips could be put into servers to help power the country’s most in-demand AI models. Read full article Comments ]]>
-
-### SpaceX's Starship goes orbital, deploying first next-gen Starlinks
-Mon, 28 Sep 2026 21:26:19 +0000 — https://arstechnica.com/space/2026/09/starships-first-orbital-launch-gives-lift-to-spacexs-next-gen-starlinks/
-
-SpaceX's Starship rocket thundered into the sky over South Texas early Monday. It was the 14th test flight of the world's most powerful launch vehicle. This time, however, the rocket's massive upper stage squeezed out some extra oomph from its Raptor engines and accelerated to orbital velocity. On all of Starship's previous flights, SpaceX intentionally dialed back the full capability of the rocket to fly a suborbital trajectory, slow enough for Earth's gravity to pull the vehicle back into the atmosphere before it could complete a full lap around the planet. After several successful suborbital flights in a row, SpaceX officials decided this launch should go all the way to low-Earth orbit. And it did. What's more, SpaceX packed 26 of the company's newest generation of Starlink broadband satellites into the rocket's cargo bay. One by one, the flat-packed satellites —too large to fit inside SpaceX's workhorse Falcon 9 rocket —were released from Starship's payload deployer using a system of pulleys and cables to eject the satellites overboard like a Pez dispenser spits out candy. Read full article Comments ]]>
-
-### Florida invokes extinction fears in legal bid to halt OpenAI development
-Mon, 28 Sep 2026 20:49:39 +0000 — https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/
-
-The state of Florida is seeking a temporary injunction to stop OpenAI from continuing to develop what it calls a "reckless, unacceptably risky product" without the deployment of "third-party approved safety guardrails." The new legal motion , filed Monday morning, is part of a civil lawsuit the state of Florida originally filed in June, arguing that ChatGPT represented "a threat to the public safety of Floridians," specifically by preying on vulnerable populations like children and violent or delusional adults. But that original lawsuit came before the Hugging Face hacking incident and the subsequent publicized warnings of catastrophic misalignment risk that have spurred industry-wide calls to slow the development and training of so-called frontier models. Following that string of events, OpenAI on Friday announced it had already halted training of its "most-capable models" until it could validate safety protocols intended to prevent agents from accessing the open Internet during training. But in seeking an injunction from the state court, Florida argues that OpenAI has "repeatedly shown they are incapable of monitoring their AI, and hesitant in revealing rogue activity once discovered." Read full article Comments ]]>
-
-### New device captures carbon dioxide by pumping it across a battery
-Mon, 28 Sep 2026 20:31:06 +0000 — https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/
-
-Equipment to capture carbon dioxide from ambient air or smokestacks generally works through a sort of reversible filter. Air is passed through granules or a liquid that absorbs the CO 2 , then that CO 2 -loaded substance undergoes a process (usually heating) that causes it to let go of all that CO 2 . The resulting gas can be collected in a separated stream. It’s also possible to do a similar sort of operation on a smaller scale—like inside a battery. A new study from a team led by James Buchen of the University of Delaware demonstrates an example of a battery-based electrochemical carbon-capture technique that they say is more viable than previous attempts. It has the potential to require less energy—and therefore be cheaper—than the reversible-filter designs that currently dominate. Carbon chemistry The basic idea behind a device of this type is that hydroxide produced at the battery cathode reacts with CO 2 , converting it to carbonate or bicarbonate that passes through the separator membrane to the anode. There, the lower pH causes the reaction to reverse, with carbonate turning back into CO 2 gas. The role of the cathode is to produce hydroxide ions; the role of the anode is to consume them. Read full article Comments ]]>
-
-### To keep drug prices high, pharma has been piling up the patents
-Mon, 28 Sep 2026 19:53:37 +0000 — https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/
-
-The cost of healthcare in general is a debilitating, pre-existing condition for Americans. But the high prices of prescription drugs usually stand out as a pain point. While there are many insidious reasons why Americans pay more—often far more—for their medicines than people in peer countries, exploitation of the US patent system is an obvious one. A study published Monday in JAMA highlights just how much patent exploitation has grown since 1990. In that time, researchers found that the number of patents on small-molecule drugs has more than tripled, going from an average of 2.1 patents per drug approved in 1990 to 6.9 for those approved in 2019. Most of the growth was in "nonprimary" patents—patents that generally aren't related to a drug's active ingredient, but are instead for things like minor tweaks to a drug's nonactive ingredients, updates to the way the drug is used, or the design of specialty delivery devices, such as auto-injectors. Together, those extra patents on an individual drug can create what's called a "patent thicket," which delays the release of affordable generics on the market, keeping drug prices higher for longer without actual clinical advancements. Read full article Comments ]]>
-
 ## The Verge
+
+### Sam Altman says OpenAI won’t go public until its models are safe
+2026-09-29T20:19:13-04:00 — https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety
+
+For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. "We intend to continue with AI progress … but as the models have had this surge forward in capability, and we see more of that ahead of us, we have got to be able to make confident safety claims," Altman said Tuesday during a Q&A with reporters after his DevDay keynote. At the same time, he said, waiting too long for an IPO would be "bad for the world." Altman's comments come after months of controversy about whether or not OpenAI and its rivals can c … Read the full story at The Verge. ]]>
+
+### Trump orders US government to call AI ‘Super Intelligence’
+2026-09-29T18:25:45-04:00 — https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai
+
+Image: Carolyn Van Houten / The Washington Post via Getty Images The US executive branch is no longer acknowledging the existence of "artificial intelligence." Going forward, official policy websites, policy documents, and press releases will refer only to "Super Intelligence," thanks to a new executive order signed by President Donald Trump. "The word super is the best word of all, and it's the simplest," Trump said at an event announcing the launch of America.gov earlier on Tuesday, and said Chinese President Xi Jinping, who visited the White House last week, "loves it" too. "We don't want to hear artificial. Because it's not artificial. It's very powerful, it's very brilliant. It's going to mostly be … Read the full story at The Verge. ]]>
+
+### BMW’s revamped i3 boasts up to 468 miles of range
+2026-09-29T18:01:00-04:00 — https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range
+
+When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting to fill in the blanks on the i3. Let's start with price. BMW says the 2027 i3 50 xDrive will start at $61,500, plus a $1,350 destination fee, putting it firmly in the Mercedes C-Class segment of competition. (Back in March, we could only guess a ballpark starting price around $60,000.) We also weren't certain when the new EV would be available in the US; today, BMW confirmed an official launch … Read the full story at The Verge. ]]>
+
+### Suspected ShinyHunters leader arrested in the Netherlands
+2026-09-29T17:50:31-04:00 — https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested
+
+Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster , Rockstar Games , and more recently, the FBI . In a press release, Dutch authorities state that they arrested the suspect on September 15th - just days before the hacking group claimed to have breached the FBI's website and stolen employee data, as reported earlier by Reuters . Neither Dutch authorities nor the FBI name the suspect, but Krebs on Security and Reuters report that police arrested Pepijn van der Stap, a Dutch man convicted for data theft and extortion in … Read the full story at The Verge. ]]>
+
+### Elon Musk s AI-powered Grokipedia is updating again
+2026-09-29T17:49:09-04:00 — https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again
+
+Elon Musk | Image: Laura Normand / The Verge Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause . In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing various recent changes to pages - though as I write this, many are just a note that says "recheck all references and sources." The site seems to have become active again relatively recently. The page for President Barack Obama has a note that says it was "Fact-checked by Grok" two days ago, and the page for Elon Musk was fact-checked while I was writing this, within the … Read the full story at The Verge. ]]>
 
 ### AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’
 2026-09-29T13:35:03-04:00 — https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews
@@ -89,32 +114,22 @@ On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants
 
 Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a game. "Mythic Achievements have already been added to eligible games you completed in the past, including Xbox 360 titles," says the Xbox team . "The next time you visit your profile, you may discover that some of your favorite games have already reached Mythic status." Xbox profiles will soon include a new gaming tab that lets you track Gamerscore milestones and Mythic A … Read the full story at The Verge. ]]>
 
-### Apple s new CEO could change when it launches phones and laptops
-2026-09-29T12:09:44-04:00 — https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy
-
-John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone launch events in September and often announces products later in the year and in springtime, but "Ternus has indicated that Apple must introduce products more quickly and become more experimental to remain competitive in the artificial intelligence era," Bloomberg says. The shift may not happen right away given Apple's "long-established" development practices. Apple is rumored to have a consider … Read the full story at The Verge. ]]>
-
-### OpenAI DevDay 2026: The biggest news and announcements
-2026-09-29T12:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements
-
-It s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots , its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, Dots will initially be available to paid subscribers of ChatGPT Pro, Business Premium, and Enterprise. The company also revealed its GPT-6.1 Sol model, said that ChatGPT now has 1.2 billion users per week , and announced a new ChatGPT Pro plan that costs $500 per month . DevDay is happening at a tumultuous moment for OpenAI. The AI industry has been rocked by revelations of agents hacking outside companies, including OpenAI s own models, which breached Hugging Face earlier this year. The hacks kicked off a broader conversation about a potential AI development slowdown . You can follow all of our coverage of DevDay 2026 right here. ChatGPT now has 1.2 billion weekly users, OpenAI says. OpenAI launches Dots, its Muse competitor OpenAI is adding a $500 / month ChatGPT Pro tier. Protesters gather at OpenAI’s DevDay OpenAI’s AI agents need to catch up OpenAI’s DevDay 2026 has a date. ]]>
-
-### This might be our first look at Google’s Pixel 11A
-2026-09-29T11:57:10-04:00 — https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look
-
-The only noticable difference is that the camera oval is shorter. | Image: Android Headlines Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines . The image renders made by OnLeaks are potentially our first look at the Pixel 11A, which aside from having a slightly rounder oval-shaped rear camera module, looks almost indistinguishable from both the Pixel 10A and Pixel 9A . It seems the chunky display bezels sported by those predecessors will also carry over as they're present in these leaked images. It makes the phone look very dated compared to the wider Pixel 11 series lineup, but a previous report from Mystic Leaks suggests the Pixel 11A will at … Read the full story at The Verge. ]]>
-
-### Leaked images reveal new colors for Amazon’s next entry-level Kindle
-2026-09-29T10:10:50-04:00 — https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button
-
-Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle model were limited to a brighter backlight, a new dark mode, and faster page turns, but according to leaked images shared by WinFuture , the next version will come with a minor redesign and expanded color options. The last entry-level Kindle model was available in black and matcha green colors, and while the leaked images don't reveal the official names Amazon has given the new colors, they inclu … Read the full story at The Verge. ]]>
-
-### Meta s Muse AI sent a YouTuber’s address to a stranger
-2026-09-29T10:08:21-04:00 — https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns
-
-Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Marketplace account. That's despite Meta placing great emphasis on the security features of Muse when it launched the personal AI agent earlier this month as it tries to catch up with competing AI providers like Anthropic and OpenAI. "Just found out it told people my address and agreed a lowball price and then they showed up without it even telling me until late tonight that it messed up," Robb said on Threads , providing a screenshot of Muse's admission. "[Muse] didn't tell me any of this until … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Pentagon gets pwned as breach exposes sensitive data on nearly three million military and civilian personnel
+Wed, 30 Sep 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/pentagon-gets-pwned-as-breach-exposes-sensitive-data-on-nearly-three-million-military-and-civilian-personnel-stolen-info-includes-social-security-numbers-and-job-related-records
+
+The U.S. Department of Defense’s Defense Manpower Data Center (DMDC) experienced a data breach between October 2025 and July 2026, allowing unauthorized users to access and potentially exfiltrate data on 2.76 million records relating to living personnel, and an additional 294,000 records relating to deceased individuals. According to ABC News , some of the exposed information included Social Security numbers and the job details of both military and civilian personnel. “A Defense Manpower Data Center information system experienced unauthorized access of personally identifiable information by a small number of unauthorized users between October 2025 and July 2026. Upon discovery, DMDC immediately remediated the vulnerability,” a U.S. defense official said in a statement. However, they also added that there hasn’t been any evidence of misuse of the compromised data at this time. DMDC serves as the Pentagon’s central personnel database, storing information on active-duty and reserve members of the military, as well as civilian employees, contractors, retirees, veterans, and even military family members, and holds over 60 million records in its care. This makes any breach of its system potentially significant, putting the privacy and personal security of those affected at risk. But because the repository also lists the roles and job details of the affected personnel, it could also reveal the identities of people assigned to sensitive positions related to national security. While i
+
+### Former EVGA employee recounts company’s degrading relationship with Nvidia before 2022 blow-up
+Wed, 30 Sep 2026 10:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/former-evga-employee-recounts-companys-degrading-relationship-with-nvidia-before-2022-blow-up-founders-editions-pricing-mandates-and-forward-looking-tech-all-led-to-friction
+
+Former EVGA product manager Brendon Ray Hedrick has posted a personal account of his time at the company in which he details the challenges that EVGA encountered near the end of its partnership with Nvidia. When he left the company in 2019, Hedrick predicted that the business relationship between the two companies would eventually implode, which proved to be largely accurate when EVGA exited the GPU market in 2022 . As he tells it, Hedrick's concerns about the relationship between the two companies began when it first released the Founders Edition GPUs in 2016. While EVGA had sold Nvidia reference designs with its own brand on the box before, its primary (and only) GPU supplier was now competing directly against it by selling graphics cards directly to customers, bypassing board partners entirely. However, the biggest challenge that EVGA faced arose, according to Hedrick, was when Nvidia began requiring its partners to sell a model that would hit the announced MSRP, even if it sold at a loss. Companies that did not comply would get reduced chip allocations, so partners needed to produce a loss leader product to ensure that they would get all of the chips they would need to satisfy demand. “The models on which we did not lose money had better circuit boards and cooling of our own, but they also carried a substantial premium,” Hedrick writes. “To a customer comparing them with the advertised starting price, it could look as though EVGA was charging an enormous amount just for t
+
+### AMD acquires AI legend Fei-Fei Li's World Labs for $8.2 billion
+Wed, 30 Sep 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/amd-acquires-ai-legend-fei-fei-lis-world-labs-for-usd8-2-billion-imagenet-pioneer-will-become-amd-chief-scientist-as-the-chipmaker-brings-her-lab-in-house
+
+AMD has agreed to acquire AI model research firm World Labs in an all-stock purchase worth around $8.2 billion. World Labs co-founder Fei-Fei Li will join AMD as executive vice president and chief scientist, reporting to CEO Lisa Su. The deal will be finalized once it passes the usual regulatory hurdles. Su says building compute platforms for the next generation of AI requires “a deep understanding of how models are evolving,” and Li says advancing the technology “requires close collaboration across model research, systems and compute,” and wrote in a separate post that World Labs needs to get “closer to the hardware,” without which AI is “hobbled in efficiency.” Before founding World Labs, Li had already established herself as a luminary in AI research and development. She led the vital ImageNet project in the 2010s and has served as the chief scientist of AI and machine learning at Google Cloud and the director of the Stanford Artificial Intelligence Laboratory. Thanks to her many contributions to the field, she has been dubbed the "Godmother of AI" by several institutions. World Labs develops “spatial-intelligence models that generate, reconstruct and simulate interactive 3D environments,” which are useful in robotics and simulation applications. Its world models build or simulate 3D scenes rather than being text-focused like LLMs. The company’s first commercial product was Marble, launched late last year, which creates persistent, downloadable 3D worlds from source materi
 
 ### Zotac denies warranty support to RTX 3060 owner in India after just one year despite offering three years of coverage
 Tue, 29 Sep 2026 15:17:35 +0000 — https://www.tomshardware.com/pc-components/gpus/zotac-denies-warranty-support-to-rtx-3060-owner-in-india-after-just-one-year-despite-offering-three-years-of-coverage-company-says-gpus-2023-import-date-takes-precedence-over-purchase-date
@@ -161,22 +176,32 @@ Tue, 29 Sep 2026 11:32:05 +0000 — https://www.tomshardware.com/video-games/pla
 
 In the face of strong demand and device shortages, Sony has decided to filter PlayStation 5 Pro purchasers in Japan using a lottery system. We’ve seen such anti-scalper techniques used by the makers of the most treasured tech before, but the Sony Store in Japan is also insisting (machine translation) that those joining the queue for PS5 Pro purchase tickets possess a Japanese PSN account. Furthermore, participants must have logged at least 60 hours of gaming time on a PS4 or PS5 over the last two years. 「PlayStation®5 Pro」のソニーストアでの購入申し込みを、本日9月28日（月）より受け付けます。ご応募・ご購入には条件がございます。ご応募数が販売予定台数を超えた場合は抽選となりますので、あらかじめご了承ください。詳しくはこちら⇒ https://t.co/h4rOIltI9Q pic.twitter.com/71VaLlu5ed September 28, 2026 The Sony Store’s PS5 Pro application and purchase conditions indicate that PS5 Pro purchase lottery ticket applications are limited to gamers who can satisfy the following: “For those using PlayStation Online Services with a Sony account registered in Japan.” “You must be signed in to your Sony account and have played a total of 60 hours or more of games on either a PS5 or PS4, or both, between September 27, 2024 (Friday) and September 27, 2026 (Sunday) at 23:59.” These Sony Store PS5 Pro purchase applications will open on October 7, with sales to ticket holders commencing October 26, 2026. If the applications to purchase Sony’s MSRP stock outstrip supply, then prospective purchasers will be selected via lottery. Successful applicants will have until November 2 to complete the purchase o
 
-### AMD drops an EPYC $15,000, 256-core beast
-Tue, 29 Sep 2026 11:20:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-drops-an-epyc-usd15-000-256-core-bomb-epyc-9006-zen-6-venice-cpus-get-full-spec-and-pricing-treatment-from-usd700-up-to-usd14-904
-
-After unveiling the EPYC 9006 (codenamed Venice) series in July and previewing a few impressive Zen 6 benchmarks , AMD has now released full pricing for its highly anticipated next-generation server chips. According to the list StorageReview obtained, AMD has big plans for the data center, with a wide range of SKUs from eight to 256 cores and pricing from $700 to $14,904. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent As a quick refresher, AMD strategically divided the Venice lineup into two distinct segments. The SP7 platform is the flagship offering, delivering maximum memory capacity and throughput. It supports up to 16 memory channels, accommodating both RDIMMs and MDRDIMMs up to DDR5-12800. The platform offers up to 96 PCIe 6.0 lanes and supports Venice chips with TDPs between 400W and 600W. The Venice parts designed for the SP7 socket offer scalable performance for enterprises. The lineup begins with the 64-core EPYC 9556, priced at $8,008, and extends to the flagship 256-core EPYC 9996, which commands $14,904. In retrospect, the EPYC 9996's price tag does not seem particularly shocking, especially s
-
-### Grab this 4K-ready gaming PC with a 7800X3D and RTX 5070 for under $2,000 right now, saving you $170
-Tue, 29 Sep 2026 11:10:00 +0000 — https://www.tomshardware.com/pc-components/grab-this-4k-ready-gaming-pc-with-a-7800x3d-and-rtx-5070-for-under-usd2-000-right-now-saving-you-usd170-cyberpowerpc-machine-ships-with-32gb-ddr5-and-a-1tb-ssd-ready-for-high-performance-gameplay
-
-There's a brilliantly priced, 4K-capable gaming PC on sale right now at Newegg. The tech retailer has dropped the price on this CyberPowerPC rig to $1,999.99 , giving you specs that include the AMD Ryzen 7 7800X3D and Nvidia GeForce RTX 5070, along with 32GB of DDR5 RAM and a 1TB SSD. ● Check out this deal at Newegg This is a powerful rig for gaming, with the AMD Ryzen 7 7800X3D processor at its core. The 7800X3D isn't quite at the top of the CPU food chain these days, but AMD's 3D V-cache chips continue to massively outperform the competition. The 7800X3D itself ships with eight cores, and all eight are able to use the boosted 96MB of L3 cache capacity. This means the CPU doesn't have to drop down to the slower system RAM while you game, giving you even better performance. Along with those eight cores, you also get a 4.2 GHz clock speed, which can boost up to 5 GHz. Gaming PC (7800X3D w/ RTX 5070 & 32GB DDR5): was $2169.99 now $1999.99 A powerful gaming PC from PC building outfit CyberPowerPC, this formidable rig comes equipped with the specs you'll need for serious 1440p and 4K gameplay. It has an AMD Ryzen 7 7800X3D, Nvidia GeForce RTX 5070, 32GB of DDR5 RAM, and a 1TB NVMe SSD. View Deal The CPU benchmark data below confirms that the 7800X3D is still one of the best options for a gaming rig in 2026. These AMD X3D chips are first-rate, with that L3 cache boost giving you the edge. It's rare to find X3D chips in a gaming PC under $2,000 these days, with the RAMpocalypse con
-
-### Intel patent outlines embedding MicroLEDs directly into CPU package to light up wording or work as an 'extra aesthetic component'
-Tue, 29 Sep 2026 10:50:00 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-patent-outlines-embedding-microleds-directly-into-cpu-package-to-light-up-wording-or-work-as-an-extra-asethic-component-microled-is-embedded-with-die-in-glass-substrate
-
-Intel has published a patent to integrate MicroLEDs directly into a CPU package. Aside from communication functions, Intel lists many possible uses, including using multi-colored lights to light up the wording on a processor. The patent, filed in 2022 but only published earlier this month, describes embedding a MicroLED into the package by using a glass substrate and through-glass vias (TGV), connecting directly to a die for power and signal routing. The patent says the purpose of the LEDs is "either aesthetic components of the electronic device or to indicate certain operations being performed by the electronic device." As is the case with any patents, the purpose of embedding MicroLEDs into a chip is left open-ended. However, Intel interestingly calls out implementing MicroLEDs into a CPU, specifically, and provides several examples of how the tech might be used. The patent says the processor "may operate the micro LEDs so that the micro LEDs visually indicate that certain functions are being performed by the processor or simply for aesthetic effects." In one part of the patent, Intel describes the LEDs being used to "light up wording across a central processing unit," suggesting some sort of read-out available directly on the CPU. How that would work on a standard processor with a heatsink atop remains an open question. In addition, the patent explicitly calls out that the LEDs can be different colors depending on the implementation. That could mean something more akin to 
-
 ## Phoronix
+
+### Proposal To Set ARM64 Kernel Stack Size At Boot Time To Reduce Memory Consumption
+Wed, 30 Sep 2026 06:27:00 -0400 — https://www.phoronix.com/news/ARM64-Linux-Stack-Size-Boot
+
+A proposal was posted this week to the Linux kernel mailing list by a Google engineer to make it easier for ARM64 Linux to adjust the kernel stack size. The motivation for doing so to configure the kernel stack size during boot time is on reducing system memory consumption...
+
+### Intel Media Driver 2026Q3 Introduces Crescent Island Support
+Wed, 30 Sep 2026 06:11:06 -0400 — https://www.phoronix.com/news/Intel-Media-Crescent-Island
+
+Released overnight was the Intel Media Driver 2026Q3 stack for providing the latest open-source video encode/decode capabilities on Intel integrated/discrete graphics hardware. Most notable with the new release is rolling out Crescent Island support...
+
+### Mesa Developers To Work Toward Eliminating TGSI IR
+Wed, 30 Sep 2026 05:55:14 -0400 — https://www.phoronix.com/news/Mesa-Toward-Eliminating-TGSI
+
+TGSI was the intermediate representation (IR) developed for Mesa's Gallium3D drivers by Tungsten Graphics at the time. It worked fine more than a decade ago but since then the Mesa front-ends and hardware drivers have largely transitioned over to the superior NIR format. Work is underway toward eliminating TGSI in the Mesa codebase...
+
+### Archinstall 4.5 For Arch Linux Brings AArch64 Improvements, RT Kernel Options
+Tue, 29 Sep 2026 20:25:51 -0400 — https://www.phoronix.com/news/Arch-Linux-Archinstall-4.5
+
+Ahead of the October ISO refresh of the Arch Linux media, Archinstall 4.5 released today as the newest update to this convenient, text-based Arch Linux installer...
+
+### AMD Boosting AI/LLM Performance For Radeon iGPUs As Much As 18~23% With Linux 7.4
+Tue, 29 Sep 2026 14:57:00 -0400 — https://www.phoronix.com/review/amd-perfopt
+
+If you have an AMD Ryzen laptop/desktop and looking to leverage AI/LLM capabilities with the integrated graphics, Linux 7.4 is going to be a real treat especially for lower-end hardware. AMD s new PerfOpt feature being introduced in Linux 7.4 is set to provide some solid gains as shown in these benchmarks today across different AMD Ryzen/Radeon hardware.
 
 ### Microsoft Announces General Availability Of WSLC: Linux Containers On Windows
 Tue, 29 Sep 2026 13:09:12 -0400 — https://www.phoronix.com/news/Microsoft-WSLC-Linux-Containers
@@ -213,166 +238,176 @@ Tue, 29 Sep 2026 08:31:30 -0400 — https://www.phoronix.com/news/Mesa-26.3-Inte
 
 Over the past year Jay has been in development as a new open-source shader compiler for Intel GPUs. Alyssa Rosenzweig has been leading its development since joining Intel in 2025. For Mesa 26.3 the Jay shader compiler is being enabled by default for modern Intel graphics hardware and is around ~10% faster than the existing BRW compiler code...
 
-### BPF-Based Display Panel Drivers Being Explored For Linux
-Tue, 29 Sep 2026 08:10:26 -0400 — https://www.phoronix.com/news/Linux-BPF-Panel-Drivers
-
-BPF-based HID drivers have helped to deliver quirks/fixes for different HID devices more quickly than being bound by the conventional kernel cycle. Loading these eBPF programs from user-space have shown a lot of potential for innovating and iterating more quickly with BPF drivers for different subsystems. The latest area now seeing the BPF treatment are display panel drivers...
-
-### D7VK Reaches Maturity For Older Direct3D APIs Atop Vulkan
-Tue, 29 Sep 2026 07:43:30 -0400 — https://www.phoronix.com/news/D7VK-2.3-Released
-
-D7VK as a Vulkan-based implementation of the Microsoft Direct3D 7 / 6 / 5 / 3 APIs for Linux/Wine (Steam Play) usage is out with version 2.3 and the developer now believing its marking the point that the project is rather mature...
-
-### Large Folios Able To Deliver Big Performance Gains For FUSE With Linux 7.4
-Tue, 29 Sep 2026 06:30:23 -0400 — https://www.phoronix.com/news/FUSE-Large-Folios
-
-Following the FUSE improvements in Linux 7.3 for file-systems in user-space, it looks like the upcoming Linux 7.4 kernel will be ready to enable the large folios feature...
-
-### Igalia Improving The Firefox Experience For Valve s Steam Deck
-Tue, 29 Sep 2026 06:15:26 -0400 — https://www.phoronix.com/news/Steam-Deck-Better-Firefox
-
-The Igalia consulting firm working with Valve is aiming to improve the Firefox web browsing experience when running on the Steam Deck handheld Linux-powered device...
-
-### AMD Ryzen Zen 6 CPU Power Values Being Further Tuned For Linux
-Tue, 29 Sep 2026 05:59:57 -0400 — https://www.phoronix.com/news/AMD-Zen-6-More-Client-Tuning
-
-AMD engineers continue to prepare for upcoming Zen 6 powered Ryzen client processors on Linux...
-
 ## The Register
 
-### Custom malware used in Citrix 0-day attacks targeting govt, banks, professional services
-Tue, 29 Sep 2026 19:49:45 +0200 — https://www.theregister.com/security/2026/09/29/custom-malware-used-in-citrix-0-day-attacks-targeting-govt-banks-professional-services/5299867
+### KDE turns 30 with Plasma 6.8, but the X11 session isn't invited
+Wed, 30 Sep 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/09/30/kde-turns-30-with-plasma-68-but-the-x11-session-isnt-invited/5299781
 
-The public still doesn’t know who is abusing a critical Citrix vulnerability exploited as a zero-day weeks before disclosure, but we now know that the unknown digital intruders have used CVE-2026-88772 to break into government agencies, financial services firms, education organizations, and legal and professional services sectors across North America and Europe. And everyone agrees that the vendor took way too long to disclose the security holes. GreyNoise said it spotted an attempt to exploit CVE-2026-88771 against a Citrix NetScaler Gateway on September 24. Google researchers, meanwhile, said the CVE-2026-88772 campaign has been ongoing “since at least early September.” “Why Citrix took so long to disclose these vulnerabilities is a question only Citrix can answer,” Benjamin Harris, founder and CEO of exposure management firm watchTowr, told The Register. Citrix did not respond to our questions about this. “The vulnerabilities were discovered during incident response and forensic investigations at organizations already compromised, meaning both the exploitation and Citrix’s awareness of it predated public disclosure,” Harris said. “Citrix has a history of delaying the publication of vulnerabilities, even when they’re being exploited in the wild and affecting customers.” So if you use Citrix NetScaler ADC and NetScaler Gateway appliances, and haven’t already applied the security updates, do that ASAP. But first, check your systems for signs of compromise, warns Mandiant Cons
+KDE Plasma 6.8 is nearly here, bringing the revived Oxygen theme and dropping its X11 session. For those who prefer an older look, a new project called Klassik recreates the KDE 3 experience using modern Plasma technology. KDE has released the second and final beta of Plasma 6.8, while developers have already begun landing changes for Plasma 6.9, according to the latest This Week in Plasma update. Barring delays, the release is scheduled for October 14, KDE's 30th anniversary, as we mentioned ahead of the Akademy conference. Plasma 6.8 will also be the first release without an X11 desktop session, a change we warned about last November. Plasma 6.7 still offers the session as an optional installation, but, from 6.8, the desktop itself will run on Wayland. X11 applications will continue to work through XWayland. KDE's anniversary celebrations will also include a feature-length documentary about the project from Irish video producer Cult.Repo. A trailer is already available. The beta continues the public preview of the Union theme engine, which can now style QtWidgets applications such as Dolphin and Kate, although KDE warns that the support remains preliminary. The revived Oxygen theme is also receiving further polish for Plasma 6.8. KDE 3 returns in Klassik form If all that new shiny is not your speed, a newly announced project called Klassik may be more appealing. Klassik is not a fork or port of KDE 3. It recreates the old desktop's appearance and behavior within Plasma 6 us
 
-### Open source tool distills Jev so you can run it locally
-Tue, 29 Sep 2026 19:28:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/open-source-tool-distills-jev-so-you-can-run-it-locally/5299856
+### UK rail cops' £320K face-scanning spree nets zero matches
+Wed, 30 Sep 2026 10:30:00 +0200 — https://www.theregister.com/security/2026/09/30/uk-rail-cops-320k-face-scanning-spree-nets-zero-matches/5299793
 
-Sure, Jev is cheap and quick to respond to queries, but you know what would be even better? How about a local student model that learns from your Jev requests and runs familiar ones on your hardware instead? Jevstiller is an open source project that, as its name suggests, distills Jev’s outputs into a local model that can do some of Jev’s arguably fast work even more quickly and efficiently - no need to spend $42 per billion input tokens or wait around 300 ms for a response on requests it can handle locally, say Jevstiller’s creators. Answering locally means no Jev tokens get spent, however cheap they may be, and answers can come in as little as 15 ms directly from a device’s CPU. The model that Jevstiller constructs on a user’s machine is small and fast, and, if its developers’ claims are to be believed, helps the system achieve 98 percent overall agreement with Jev by handling familiar requests locally and forwarding others to Jev. Jev, as we’ve detailed in several stories recently, is a new paradigm of AI design that foregoes all the chattiness and free-form text generation that come with the typical modern LLM in favor of being able to answer just a few basic types of questions: Choice, Score, and Noul. Because it doesn’t generate a bunch of text and need to ruminate on the structure of human language, Jev is quick, cheap, and rapidly attracting developer interest as a practical application of AI for structured decision workloads where a full-blown generative LLM may be o
+British Transport Police (BTP) spent more than £320,000 putting half a million commuters through live facial recognition cameras, only for the system to identify precisely nobody it was looking for. Figures obtained by civil liberties group Liberty through Freedom of Information requests, and reported by The Guardian, show BTP's six-month trial scanned more than 500,000 faces at London railway stations and generated just one alert. That turned out to be a false positive, meaning the technology produced no correct matches and no arrests directly resulting from an LFR alert. The exercise wasn't exactly light on resources either. According to the figures, deployments swallowed almost 100 hours of police officers' time and cost more than £320,000. Privacy campaigners at Big Brother Watch told The Register the results would be funny if the implications weren't more serious. "The figures from the British Transport Police's live facial recognition pilot would be laughable, if they didn't have such troubling implications for our rights and freedoms," said Jasleen Chaggar, senior legal and policy officer at the campaign group. "Millions of Londoners use the city's stations every day and may have already found themselves caught in a digital police line-up, likely without even realizing." Then there's the small matter of what taxpayers got for their £320,000. "It's not fair to subject innocent people to intrusive identity checks during their commute, but it's even more insulting to wast
 
-### Boeing's Calamity Capsule gets another shot at the ISS taxi business
-Tue, 29 Sep 2026 19:00:00 +0200 — https://www.theregister.com/offbeat/2026/09/29/boeings-calamity-capsule-gets-another-shot-at-the-iss-taxi-business/5299778
+### Spectre bug is back, this time to haunt JIT engines
+Wed, 30 Sep 2026 09:01:00 +0200 — https://www.theregister.com/security/2026/09/30/spectre-bug-is-back-this-time-to-haunt-jit-engines/5299937
 
-SpaceX might not be the ISS's only ride after NASA and Boeing claimed that Starliner - aka the aerospace giant's Calamity Capsule - will fly again and carry a crew in 2028. The plan is to launch an uncrewed vehicle, the Starliner-1, in the December 2026 / January 2027 timeframe, and a crewed vehicle, Starliner-2, sometime in 2028. Starliner-1 will ferry cargo to the International Space Station (ISS) and, if all goes well, humans will take their turn on Starliner-2. NASA also intends to exercise options for a fifth and sixth flight to and from the ISS and to get the Vulcan rocket certified for use after the Atlas V, which has launched Starliner to date, is finally phased out. In 2025, NASA pared back the Starliner contract and modified its order from six to four missions. At the time, Boeing was aiming for no earlier than April 2026 for Starliner-1, something that has now slipped to the end of the year and might go beyond. An observer might wonder what the point is of splashing cash on a program that has managed one crewed flight since the contract was awarded in 2014. 2024's flight test ended with an empty capsule returning to Earth after controllers decided multiple failures had made it too risky for humans. The crew, Butch Wilmore and Suni Williams, had to wait on the ISS for months until returning as part of the SpaceX Crew-9 mission. Boeing's Starliner has struggled, but SpaceX's Crew Dragon is proven and essential for getting crews to and from the ISS. Its run may be end
+The Spectre microarchitecture vulnerability has returned yet again, this time to vex just-in-time (JIT) engines that generate machine code for browsers, runtimes, and kernels. The vulnerability is found in many CPUs that use speculative execution, the process of executing code before it is called to boost performance. Researchers found speculative execution opens the door to side channel attacks through which secrets can be exposed or inferred. When news of that risk became known, chipmakers and OS developers scrambled to fix these vulnerabilities, which were referred to as Spectre and Meltdown. And since then, researchers have found two or three dozen variations, such as 2025's VMScape, one of several so-called "Spectre v2" attacks that attempt to exploit indirect branch prediction, where program control is passed indirectly by pointing to an address where the next instruction can be found rather than specifying the instruction itself. The attacker trains the branch predictor to execute speculatively to a chosen address in order to leak data about the microarchitecture state. Researchers from Vrije Universiteit in the Netherlands and Scuola Superiore Sant’Anna in Italy have revived Spectre in a form called Branch Target Reuse (BTR), which they describe as the first practical in-place Spectre v2 attack that attacks just-in-time (JIT) compilers. An in-place attack is confined to the victim's branch while an out-of-place attack relies on speculation directed toward a target on 
 
-### Microsoft sends PDFs to strange new worlds instead of SharePoint
-Tue, 29 Sep 2026 18:32:00 +0200 — https://www.theregister.com/software/2026/09/29/microsoft-sends-pdfs-to-strange-new-worlds-instead-of-sharepoint/5299735
+### Airbus gets a new freighter – and its giant door – into the air for the first time
+Wed, 30 Sep 2026 08:22:16 +0200 — https://www.theregister.com/offbeat/2026/09/30/airbus-gets-a-new-freighter-and-its-giant-door-into-the-air-for-the-first-time/5299972
 
-Microsoft has confirmed a bug where saving a PDF from Word for Windows can send the file to an unexpected location with a random name when using SharePoint Online. The Windows giant's odyssey of bork has continued, following issues that included a less-than-ideal September for its flagship operating system and a paste problem in Excel. The latest breakage affects the document format PDF in Word for Windows. After a user updates to version 2609 of Word, saving documents as PDFs to SharePoint Online locations can produce a nasty surprise. For starters, the file is saved in C:\Users\[username]\AppData\Local\Microsoft\Windows\INetCache\Content.MSO instead, with a random filename. Worse, Word shows no error to indicate anything went wrong. According to Microsoft, "The issue only occurs when using Save/Save As, choosing the PDF file type, and selecting a SharePoint location." Use the Export option, or save somewhere else, and all will be well. The Register asked Microsoft if it is working on a fix and when one might be incoming, but the company has yet to respond. Some affected users have reported that rolling back the update resolves the issue. Microsoft's customers have had a torrid time of it lately. As well as the paste glitch, a seemingly innocuous Microsoft 365 update inadvertently deactivated Office 2016 and 2019, and the company recently admitted it had accidentally wiped out some customers' Microsoft 365 data before the expiry of their retention period. Then there is the o
+Airbus has successfully flown a new freighter based on its A350 passenger jet. The first A350F yesterday rolled down the runway at Airbus HQ in Toulouse, France, bringing the aerospace giant closer to delivering a high-capacity freighter. Airbus already makes two freighters, based on its A330 and A321 planes. In the past, it also made custom freighters that featured a bulbous enclosure atop a fuselage adapted from an A330 or A300. Airbus named the planes “Beluga” because they looked a little like a whale. The BelugaST, based on the A300, mostly did duty carrying Airbus’ own cargo between factories. The company later operated a commercial cargo service using the planes but discontinued that in 2024. Airbus built five of the larger BelugaXL, which is based on the A330F. The last entered service in 2024 and Airbus intends to fly them for 30 years. The XL’s design allows it to carry large components of the A350. The new A350F can carry a payload of 109 tonnes, compared to 64 tonnes for the A330F. The new plane also has longer range, and a bigger door. As Airbus explained in May, the 4.3-metre door is big enough that it’s possible to slot a turbofan engine straight into the plane. The aerospace giant also suggests the giant door makes it “perfectly suited to accommodate high-value, time-sensitive cargo critical to the modern economy, from high-density computer servers to large-scale electronic chip manufacturing machines.” There’s your IT angle, dear reader. The plane’s capacity i
 
-### AI models keep posting screenshots showing sensitive data from inside tech companies
-Tue, 29 Sep 2026 18:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/ai-models-keep-posting-screenshots-showing-sensitive-data-from-inside-tech-companies/5299640
+### OpenClaw slips on a suit to evade widespread business bans
+Wed, 30 Sep 2026 07:04:22 +0200 — https://www.theregister.com/ai-and-ml/2026/09/30/openclaw-slips-on-a-suit-to-evade-widespread-business-bans/5299962
 
-Amid the growing concern about AI models escaping security simulations to hack websites comes word that these "superintelligent" blobs of code have no understanding of privacy or security. Researchers affiliated with Glow Security, a startup whose backers include venture capital funds Sequoia and Greenoaks, have found more than 13,000 sensitive screenshots of corporate software projects from 343 companies that were posted to public GitHub repos by AI models. They're calling the discovery PixelLeak. "We started seeing this behavior where AI agents, not from a particular model, but from multiple models, were releasing internal sensitive developer screenshots to public GitHub repositories," said Omer Singer, co-founder and CTO, in an interview with The Register. "And we said, 'Okay, well that's strange. Why are they doing that?'" When developers work on interface code, said Singer, they often ask their AI agent to show them before and after images. But these AI agents couldn't attach images to a pull request in a private repository via the CLI. GitHub doesn't have an API for uploading images to pull requests, issues, or comments. "So the agents, being helpful the way that they are, they found a workaround," Singer explained. "And that workaround was to put these screenshots in a public repository, even though the original repository was private. They put them in a public repository and then they show the developer, 'Look, here you see the before and after. What do you think look
+The OpenClaw project has started work on an enterprise edition in the hope that businesses lose their fear of the agentic AI project. OpenClaw was one of the first “AI harnesses” – tools that use a large language model to create a digital assistant that automates tasks. If users allow OpenClaw to access their email account, it can analyze messages and fire off AI-generated replies, even responding to meeting invitations and reserving time in a calendar app. The tool is the creation of developer Peter Steinberger, who released it to initial acclaim – and then consternation as security analysts found OpenClaw was a mess. Analyst firm Gartner labelled the project a source of “unacceptable cybersecurity risk” for business users, and China’s Computer Emergency Response Team warned of “extremely weak default security configurations.” That didn’t stop OpenAI hiring Steinberger and making OpenClaw the center of its plans to build personal AI agents. Speaking of OpenAI, news of work on OpenClaw Enterprise (OCE) came from a post by one of its staffers, Kevin Lin, who admitted “actual deployment of persistent agents remains limited.” “The main feedback we hear from organizations is that a stronger common security, safety, and governance standard is needed before agents can be fully adopted. As a consequence, the default stance of IT in most organizations is to ban agentic platforms like OpenClaw altogether.” “This is the problem we are trying to solve with OCE: how do we safely deploy p
 
-### Schneider gives datacenter switchgear the software-defined treatment
-Tue, 29 Sep 2026 17:15:00 +0200 — https://www.theregister.com/on-prem/2026/09/29/schneider-gives-datacenter-switchgear-the-software-defined-treatment/5299756
+### Trump administration gets Big Tech to sign weak, non-binding, AI regulations
+Wed, 30 Sep 2026 04:11:23 +0200 — https://www.theregister.com/ai-and-ml/2026/09/30/trump-administration-gets-big-tech-to-sign-weak-non-binding-ai-regulations/5299955
 
-Schneider Electric is piloting software-defined medium voltage (MV) switchgear with Equinix, promising faster datacenter construction and electrical systems where you can add new capabilities without having to modify the hardware. The energy infrastructure biz unveiled its software-defined MV architecture along with other new power products at the YOTTA 2026 digital infrastructure event in Las Vegas. Switchgear controls and protects the flow of electricity through a facility, isolating faulty equipment when necessary. Medium-voltage systems typically operate between 1 kV and 36 kV, bridging the high-voltage grid connection and the low-voltage supplies feeding server racks. Conventional switchgear is engineered for the requirements of a particular site. Schneider's approach instead uses standardized hardware, with protection, automation, metering, monitoring, and control functions configured through software. The standardized modules can be mass-produced and configured after arriving at the datacenter. Schneider claims that over-the-air updates will add features and improve performance without physical modifications or operational downtime. The architecture is already operating in an Equinix colocation facility as part of a pilot deployment. "The challenge facing datacenter operators today is not just keeping pace with AI growth, but building the resilient, efficient and scalable power infrastructure needed for an increasingly digital world," said Schneider EVP of Energy Manag
+US president Donald Trump has convinced six leading AI companies to sign up for non-binding and vague regulation called the “White House Accord on Superintelligence” that doesn’t require them to do anything but does let them set their own rules. Meta, Google, OpenAI, Anthropic, Nvidia, and XAI signed the document, which appeared on Trump’s Truth Social account. The document, subtitled the "Joint Commitment on Frontier Responsibilities,” opens with the observation that “every company is responsible for developing its own technology safely and in a way that builds trust with customers and the public.” “This starts with every company that is training and deploying frontier models having robust internal processes and controls to ensure that their technology behaves as intended and that any issues are promptly identified and resolved.” The document then outlines four “layers of controls and audits” the White House believes signatories should implement “in addition to any other precautions.” The four are: Implement robust internal controls to monitor the capabilities and alignment of its models during training and deployment around areas like cybersecurity, biosecurity, and chemical threats, and to ensure that its models do not hack or access technical systems in unintended ways. Empower an internal team to ensure all of the controls, monitoring, and detection are operating as intended, and that any issues are remediated. Partner with an independent external auditor or evaluator to
 
-### Apple patches CoreGraphics zero-day already exploited in targeted attacks
-Tue, 29 Sep 2026 16:30:00 +0200 — https://www.theregister.com/security/2026/09/29/apple-patches-coregraphics-zero-day-already-exploited-in-targeted-attacks/5299721
+### Add one more AI worry to the nightmare scenario: self-replicating prompt injections
+Tue, 29 Sep 2026 23:34:39 +0200 — https://www.theregister.com/security/2026/09/29/add-one-more-ai-worry-to-the-nightmare-scenario-self-replicating-prompt-injections/5299922
 
-Apple has patched a CoreGraphics zero-day after warning that attackers may already have used the bug to compromise a small number of carefully chosen targets. The vulnerability, tracked as CVE-2026-86950, is an out-of-bounds write flaw in CoreGraphics, Apple's framework for handling graphics across its operating systems. According to Apple's advisory, processing a maliciously crafted file could allow an attacker to execute arbitrary code on a vulnerable device. The fruity vendor said it addressed the problem with improved bounds checking, though the bug appears to have made it out into the wild before Apple could squash it. "Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27," the company said. As is customary when Cupertino encounters the sort of security bug somebody has apparently found useful, further details are thin on the ground. Apple didn't say who was targeted, how many people were affected, who was behind the attacks, or exactly how the vulnerability was being exploited. However, its choice of words suggests this wasn't a bug being exploited indiscriminately across the internet, and raises the possibility that it was used as part of a targeted spyware campaign. Meta Product Security reported CVE-2026-86950 to Apple, but neither Apple's advisory nor Meta has provided further technical details on how the flaw was discovered or the attacks in whi
+Imagine a prompt injection that keeps replicating itself like a worm. It's not just the stuff of bad dreams. “We have found instances of our GPT models being susceptible to an AI-version of a worm attack that we call ‘self-replicating prompt injection,’” OpenAI said in a Friday alignment research blog. There’s no indication that these indirect prompt-injection attacks occurred in any real-life security incident, or anywhere outside of the models’ training environments, according to the AI lab. To address this threat before it turns into a security nightmare, OpenAI said that it's using its automated red-teaming agent, GPT-Red, to train future models on self-reproduction as an example of attacker goals. “This means that future models we release will have seen prompt injections like these during training,” according to the blog. “We therefore expect them to be more robust to self-reproducing prompt injections, as a facet of prompt injections in general.” Of course, there’s also the possibility that this training could backfire, and instead of recognizing and blocking these types of prompt-injection attacks, models will simply get more stealthy at carrying them out without humans noticing. Time will tell - or AI will kill us all, so it won’t matter anyway. OpenAI says it discovered self-replicating injections back in June while using the red-teaming agent - which is trained to discover novel prompt injection attacks against frontier LLMs - to adversarially train GPT-5.6. This is
 
-### OpenAI benches GPT-6.1 Astra for overstepping the mark
-Tue, 29 Sep 2026 15:43:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/openai-benches-gpt-61-astra-for-overstepping-the-mark/5299743
+### OpenAI tries disarming AI angst with cute graphics and always-on agents
+Tue, 29 Sep 2026 23:12:58 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/openai-tries-disarming-ai-angst-with-cute-graphics-and-always-on-agents/5299915
 
-OpenAI has killed off the planned release of GPT-6.1 Astra after the model got better at doggedly pursuing tasks but worse at knowing when it should stop. The decision means the model won't get its planned October release after falling short of OpenAI's safety and alignment requirements. OpenAI confirmed the decision to The Register, saying its research and safety bosses ultimately decided this particular Astra was better left on the bench. The problem, according to the AI lab, was partly an awkward consequence of trying to make the model more useful. OpenAI had improved what it calls "model laziness," where an AI gives up or hands a task back to the user when it encounters an obstacle. GPT-6.1 Astra was better at pressing on, but that persistence came with a rather important catch: it wasn't as good at staying within the boundaries of what it had actually been authorized to do. “For anything regarding safety and alignment, there’s a trade off. You really do need to find what’s the right line between staying within scope, but also avoiding laziness in terms of how the model actually pursues tasks even when it hits friction,” Saachi Jain, head of safety systems at OpenAI, told The Register. “While [GPT-6.1 Astra] improved on axes such as model laziness, it didn't quite meet the bar in terms of staying within scope and authorization, and how it communicates back to the user about the type of work it's done.” Reg readers might be forgiven for thinking that OpenAI should improve 
+OpenAI, among those sounding the alarm about existential AI risk as its models run riot on third-party websites, on Tuesday introduced dots, which are cute-looking, hosted AI agents. When dots take visual form in mobile, desktop, or web applications, they look like colorful anthropomorphized shapes with accessories like glasses, hats, or bow ties. But behind the inviting graphics, dots are just persistent compute tasks that consume tokens. Speaking at the company's Dev Day in San Francisco, CEO Sam Altman said dots are "like an AI helper that always has your back, inspired by the cool versions of what we all watched in movies growing up." So, more "Tea, Earl Grey, hot" than "Open the pod bay doors, HAL." As AI agents, dots rely on a model (GPT-6 Astra), have access to software tools, and can operate on long-running tasks. Each gets its own cloud computer, can work toward goals 24/7, and retains context over time. And they can use some 4,000 apps via connectors. Think OpenClaw (whose founder Peter Steinberger joined OpenAI), but less open, more contained, and more user-friendly. "What feels new about my dot is that it gets to know how I like to work over time and where I want to focus my attention," Altman said. "It can do things like review what came in overnight and ping me in the morning with anything urgent before I start my day. I've been really surprised at what a difference this makes to my life. "I feel like I've finally gotten some of my attention back. I no longer fe
 
-### Leaked IPO docs: Anthropic tempts investors with existential risk warning
-Tue, 29 Sep 2026 14:53:13 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/leaked-ipo-docs-anthropic-tempts-investors-with-existential-risk-warning/5299763
+### Trump launches America.gov with AI chatbots at its core
+Tue, 29 Sep 2026 22:14:32 +0200 — https://www.theregister.com/public-sector/2026/09/29/trump-launches-americagov-with-ai-chatbots-at-its-core/5299907
 
-After an unusual pitch to investors, Anthropic has laid bare its challenges in becoming anything like a profitable, normal business in its IPO prospectus that was leaked to the FT on Tuesday. Posing an “existential risk to humanity” was among the messages reportedly intended to allure investors, as if to say, “We could make you rich, but also you might not live to spend it.” The Reg has long suspected the apocalyptic schtick which has become de rigueur among AI model builders is suspiciously self-serving. It focuses attention on the supposed power of their technologies while also encouraging regulation of the sector once their claimed-to-be-race-winning horses have bolted. Nonetheless, the Financial Times points out that a third of Anthropic's prospectus talks about AI models with the ability to manipulate, blackmail and exhibit other unpredictable behaviours. Happy days. But what about brass tacks? According to the leaked figures, the maker of the Claude model favored among AI-assisted coders said it plans to spend $518 billion on cloud, computing and infrastructure obligations in the coming years. That’s more than a quarter of its hoped-for value of $2 trillion. The company spent $7.33 billion on compute and infrastructure last year. Also according to the leaked doc, Anthropic made an operating loss of more than $8 billion last year, although revenue increased 12x to around $4.6 billion. While Anthropic courts investors with the end-of-the-world spiel, other news suggests w
+If you want accurate information about life-changing government services, a potentially hallucinating chatbot might not be your first choice. However, the Trump administration is rolling out a new digital portal for access to federal government tasks that puts AI front and center, even though there are concerns that existing federal digital services may be in danger. Trump announced the launch of America.gov in an executive order on Tuesday, describing the new site as a “unified digital front door to the Federal Government for every individual in the US seeking Federal information or services.” As to what that front door will look like, the key thing to pay attention to in the EO is that the site is a place to “communicate in plain language” and ostensibly “receive accurate answers,” and we all know what that means: It’s an AI chatbot. Google confirmed as much in its own announcement that it was a technology partner in the America.gov initiative, "leveraging Gemini to help more than 100 million people access critical public resources with greater speed and ease.” A White House spokesperson told The Register that xAI’s Grok is the other tech partner on the initiative, so watch out for vulgar responses when you ask a simple question. “Advances in technology now make possible a fundamentally different relationship between the people and the Federal Government,” Trump’s EO read in part. It says individuals will be able to “where authorized and technically available, complete Gove
 
-### Investors are pricing in a 32.6% AI productivity boost for software engineers
-Tue, 29 Sep 2026 14:30:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/investors-are-pricing-in-a-326-ai-productivity-boost-for-software-engineers/5299645
+### FBI to ShinyHunters: 'We know how to find you'
+Tue, 29 Sep 2026 21:38:33 +0200 — https://www.theregister.com/security/2026/09/29/fbi-to-shinyhunters-we-know-how-to-find-you/5299901
 
-Investors appear to be betting that AI will deliver substantial gains in software engineering productivity, according to economists who used stock market movements to estimate the technology's expected impact. Economists affiliated with the University of California, Berkeley (UCB) and the London School of Economics and Political Science (LSE) say that between November 2022 and December 2025, "AI increased the market's expected present value of software engineering productivity by the equivalent of a permanent 32.6 percent productivity increase." Alex Blumenfeld (UCB), Jonathon Hazell (LSE), Chen Lian (UCB), and Andreas Schaab (UCB) describe their findings in a National Bureau of Economics Research paper titled "The Macroeconomic Effect of AI: Sizing the Software Engineering Channel." The authors argue that investors have increasingly priced anticipated gains from AI development tools into company valuations since the introduction of ChatGPT in November 2022. "We empirically measure whether firms with larger software engineering payroll shares experience larger stock-price increases when the AI stock index rises," explained Chen Lian, assistant professor of finance at UC Berkeley, in an email to The Register. "We then use an economic model to translate that relationship into the AI-driven software engineering productivity gains investors anticipate. "A preliminary look at our data suggests that total software engineering employment among the firms covered has increased over th
+The FBI’s cyber chief has a message for the criminals that hacked the bureau’s jobs portal last week: "We know how to find you," so turn yourself in. In a video message following the Dutch National Police’s arrest of a 24-year-old whom the FBI described as “one of the alleged leaders of ShinyHunters,” Brett Leatherman, assistant director of the FBI's Cyber Division, had some advice for the “remaining members” of the data theft and extortion gang. “We're confident you've seen or heard things in recent days that the public has not,” Leatherman said. “Other groups believed anonymity or their friends would protect them, and they were wrong. Arrests have a way of changing who is willing to talk, and seized infrastructure has a way of showing us who's left. The longer you stay in this, the more we learn about you. You know how to find us, and we know how to find you. I suggest you reach out first while the choice is still yours.” The FBI declined to answer The Register’s questions about the video message, including whether it had seized any of the cybercrime group’s infrastructure, and whether any of ShinyHunters’ members had taken Leatherman up on his offer to “reach out first.” After the Dutch suspect’s arrest, police said on Tuesday that they uncovered “a large amount of information” on the man’s laptop, “including details about two murders that were to be committed abroad. There are indications that the suspect gave the order for this.” According to FBI Director Kash Patel, the
 
-### Starship finally makes orbit but engine trouble cuts the victory lap short
-Tue, 29 Sep 2026 14:01:00 +0200 — https://www.theregister.com/offbeat/2026/09/29/starship-finally-makes-orbit-but-engine-trouble-cuts-the-victory-lap-short/5299708
+### Zuckerberg touts enterprise AI push because Meta would never do anything to damage your reputation
+Tue, 29 Sep 2026 21:35:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/zuckerberg-touts-enterprise-ai-push-because-meta-would-never-do-anything-to-damage-your-reputation/5299655
 
-SpaceX's Starship reached orbit for the first time yesterday and deployed 26 Starlink V3 satellites, although engine trouble cut short a planned six-orbit flight. Super Heavy had problems of its own. All 33 Raptor 3 engines ignited at 07:48 CT, but one shut down during ascent. The booster later reignited 26 of the 28 engines planned for its boostback maneuver. During descent, it reignited 11 of the planned 13 engines for the high-thrust portion of its landing burn before stepping down to five and then three. It splashed down in the Gulf of Mexico, after which its flight termination system was deliberately triggered to test the safety hardware. More consequential was the premature shutdown of one of Starship's three vacuum-optimized Raptors during ascent. The remaining five engines burned longer to compensate, leaving the spacecraft on its planned suborbital trajectory. This ensured it would return to Earth even if controllers lost control, but also meant a further burn was required to enter orbit. Controllers then had to decide whether enough propulsion redundancy remained to perform both the orbital insertion maneuver and, crucially, the later deorbit burn. According to SpaceX, all three sea-level Raptors remained healthy, so controllers gave the go-ahead to relight one and complete the climb to orbit. After deploying the satellites, Starship began its coast around Earth, but controllers cut short most of the intended ten-hour flight "out of an abundance of caution." It perf
+Meta continued its search for profits at the bottom of the AI rabbit hole on Monday when CEO Mark Zuckerberg announced the formation of an enterprise services business built on the back of its Muse models and agent harnesses. Meta uses its social networking and messaging services to gather data about users so it can use AI-powered recommender systems to present targeted ads, a service its advertiser customers find valuable. The company's online businesses (excluding virtual reality) earned $50.3 billion in profits in the first half of 2026, essentially all from advertising, and its ad revenue amounted to $114.4 billion during the same period. The company has edged toward having LLMs write those ads and also imagines AI managing some aspects of advertisers' businesses – such as responding to customer inquiries. With the new Meta Enterprise Platform, the company is now trying to capitalize on more than the fact businesses can't help but to have a presence on its social media properties. In addition to companion agents, Zuckerberg sees opportunities to sell business and coding agents, and even power customer applications through its API platform. This puts Meta in a position not only to compete with other model builders but the likes of Microsoft, Amazon, and Google – all of which have a head start in bringing AI-powered services to enterprise customers. "Initially, we will focus on bringing our full technology stack, including the Muse agent, Meta Business Agent, Muse API, Muse
 
-### Former X-Force hackers chase the offensive cyber gold rush
-Tue, 29 Sep 2026 13:30:00 +0200 — https://www.theregister.com/security/2026/09/29/former-x-force-hackers-chase-the-offensive-cyber-gold-rush/5299662
+### Close the observability gap with agentic observability
+Tue, 29 Sep 2026 21:02:00 +0200 — https://www.theregister.com/ai-and-ml/2026/09/29/sponsored-close-the-observability-gap-with-agentic-observability/5299410
 
-Two former leaders of IBM's X-Force Red team have launched RemoteThreat, an offensive cybersecurity startup backed by $7 million in pre-seed funding. CEO Chris Thompson and CTO Shawn Jones say the company's platform uses AI to plan, execute, and adapt offensive cyber operations, extending beyond the continuous penetration testing and vulnerability detection offered by other automated security tools. Thompson and Jones previously ran X-Force Red, where their team was hired to test nuclear power plants, critical infrastructure, and major banks. In May 2024, Thompson told The Register how X-Force used AI to break into a semiconductor manufacturer's network in eight hours. The pair subsequently created Offensive AI Con, an invitation-only research event whose second edition is scheduled for early October. "We're looking at how noisy but very capable frontier models are right now, and we started to think: What happens when they can do what we can do as one of the best groups of red-teamers in the world?" Thompson told The Register in an interview. He said the concern was that AI could produce custom malware approaching the quality used by state-sponsored attackers, then deploy it at unprecedented speed and scale. RemoteThreat's 15 employees include senior operators, security researchers, engineers, and malware developers from X-Force Adversary Services, Mandiant, SpecterOps, Dreadnode, Bugcrowd, Microsoft, defense contractors, and government agencies. RemoteThreat says its platfor
+When a critical application fails, the last thing an IT team needs is a debate over who's responsible. Yet in complex enterprise environments, network, application, and compute teams often rely on separate legacy monitoring tools, each providing only part of the picture. Identifying the root cause can become a time-consuming exercise while essential services remain unavailable. As organizations expand their use of AI, hybrid infrastructure, and sovereign cloud environments, the challenge is becoming more pressing. The systems supporting critical services are growing more interconnected, while the need for resilience, operational efficiency, and effective governance continues to increase. AI agents are starting to take on some of that operational load, but an agent reasoning from legacy monitoring data sees the same partial picture the humans do. But are enterprise leaders seeing the same risks as the teams responsible for keeping these systems running? Research by Virtana suggests a significant observability gap between what boardrooms believe they know about their IT environments and what frontline operators experience. In this interview, The Register's Tim Phillips speaks with Paul Appleby, CEO of Virtana, about the limitations of legacy monitoring approaches and how agentic observability could help organizations gain a clearer picture of their infrastructure. Appleby explores why fragmented legacy monitoring can leave IT teams struggling to distinguish the cause of an inci
 
 ## Engadget
 
-### There's now an official US government AI chatbot
-Tue, 29 Sep 2026 18:43:58 +0000 — https://www.engadget.com/2272424/america-gov-is-us-government-ai-chatbot/
+### Apple Pay finally arrives in India on a limited basis
+Wed, 30 Sep 2026 10:30:18 +0000 — https://www.engadget.com/2272991/apple-pay-arrives-india/
 
-The administration wants America.gov to be the main portal for federal services.
+Apple Pay is now available in India, but it only supports cards by Axis Bank for now.
 
-### Gemini and Find Hub can help you locate your important documents — here's how
-Tue, 29 Sep 2026 18:30:00 +0000 — https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/
+### The US government's new AI chatbot gives Minecraft's end poem a bureaucratic twist
+Wed, 30 Sep 2026 09:48:35 +0000 — https://www.engadget.com/2272978/the-us-governments-new-ai-chatbot-gives-minecrafts-end-poem-a-bureaucratic-twist/
 
-You can use Find Hub and Gemini to keep track of your documents without the need for a compatible tag.
+The new America.gov chatbot will write you a remixed version of Minecraft's end poem, then deny ever doing it.
 
-### Apple's new iPhone and iPad security feature can protect you from scammers
-Tue, 29 Sep 2026 18:00:00 +0000 — https://www.engadget.com/2271157/apple-iphone-ipad-impersonator-risk-detection-new-security-feature/
+### Sony implements a lottery system to deal with the PS5 Pro shortage in Japan
+Wed, 30 Sep 2026 07:55:04 +0000 — https://www.engadget.com/2272946/sony-lottery-system-ps5-pro-japan/
 
-One of iOS 27's coolest security features didn't make headlines, but it could stop you from falling for a scam.
+Gamers in Japan will have to prove they actually use their PS consoles to be able to buy a PS5 Pro.
 
-### ChatGPT Space is a shared hub for work projects and personal AI agents
-Tue, 29 Sep 2026 17:15:00 +0000 — https://www.engadget.com/2272248/chatgpt-space-for-work/
+### Don't throw away your old router — Do this instead
+Wed, 30 Sep 2026 00:00:00 +0000 — https://www.engadget.com/2271811/dont-throw-away-old-router-do-this-instead/
 
-ChatGPT is coming to Slack and Microsoft Teams too.
+Your old router shouldn't be destined for the recycling bin. You can repurpose it to extend your current network and much more.
 
-### OpenAI adds $500(!) Pro subscription, nerfs its existing $200 tier
-Tue, 29 Sep 2026 17:15:00 +0000 — https://www.engadget.com/2272106/openai-adds-dollar500-pro-subscription-nerfs-its-existing-dollar200-tier/
+### The AI industry wants models to assist in legal battles, but will they help?
+Tue, 29 Sep 2026 23:30:00 +0000 — https://www.engadget.com/2271692/ai-industry-want-use-models-legal-battle-law-assistance/
 
-How long until every other AI company does the same?
+After lawyers were fined for submitting AI filings packed with fictitious case law, AI companies are releasing new tools to ensure that doesn't happen again.
 
-### Dots are OpenAI's new personal agents and soon you'll be able to control several of them
-Tue, 29 Sep 2026 17:15:00 +0000 — https://www.engadget.com/2272230/dots-are-openais-new-personal-agents-and-soon-youll-be-able-to-control-several-of-them/
+### Can you still use your router if it doesn't get firmware updates?
+Tue, 29 Sep 2026 23:00:00 +0000 — https://www.engadget.com/2271679/router-no-firmware-updates-can-still-use/
 
-Sure, seems safe.
+Internet router manufacturers often do a good job of keeping their devices updated, but what should you do once they cease support? Here are some simple tips.
 
-### McDonald's is reportedly using AI to "dynamically" price its burgers
-Tue, 29 Sep 2026 17:00:25 +0000 — https://www.engadget.com/2272211/mcdonalds-is-reportedly-using-ai-to-dynamically-price-its-burgers/
+### How to prepare your Samsung Galaxy for the One UI 9 update
+Tue, 29 Sep 2026 22:30:00 +0000 — https://www.engadget.com/2271451/prepare-samsung-galaxy-one-ui-9-update/
 
-Its food isn't the only thing leaving a bad taste in customers' mouths.
+With Samsung's One UI 9 rollout chugging along the globe, there's no better time to make a few quick checks before you make the switch.
 
-### How to get your money's worth from Xbox Game Pass Ultimate
-Tue, 29 Sep 2026 16:45:00 +0000 — https://www.engadget.com/2270994/xbox-game-pass-ultimate-get-moneys-worth/
+### How do translation earbuds actually work?
+Tue, 29 Sep 2026 22:00:00 +0000 — https://www.engadget.com/2271253/translation-earbuds-how-work-explained/
 
-If you don't value day-one releases or the other perks on offer, Ultimate might not be the tier for you.
+Translation earbuds are gaining momentum, but actually using them may not be quite the experience you're expecting.
 
-### The reason why prebuilt PCs might be a better buy in 2026
-Tue, 29 Sep 2026 16:15:00 +0000 — https://www.engadget.com/2270975/prebuilt-pcs-why-better-buy-in-2026/
+### Codenames Party is the latest addition to Netflix Games
+Tue, 29 Sep 2026 21:00:07 +0000 — https://www.engadget.com/2272720/codenames-party-is-the-latest-addition-to-netflix-games/
 
-Building a PC has long provided a better value while letting you get exactly what you want. But off-the-shelf PCs can be more affordable in today's climate.
+The word association game introduces a new Party Mode for streaming subscribers.
 
-### Do you really need a travel router? Here's what to know
-Tue, 29 Sep 2026 15:45:00 +0000 — https://www.engadget.com/2270789/travel-router-do-you-need-one/
+### Apple's iOS 27.0.1 update arrives with fixes for Face ID and touchscreen issues
+Tue, 29 Sep 2026 20:51:37 +0000 — https://www.engadget.com/2272713/ios-27-0-1-iphone-update-face-id-touchscreen-issue-fixes/
 
-Travel routers simplify the process of connecting a half-dozen devices to hotel Wi-Fi, but they aren't necessary in simpler setups.
+Why you should update your iPhone 18 Pro to iOS 27.0.1.
 
-### How IMAX Dome theaters offer a different experience to regular IMAX
-Tue, 29 Sep 2026 15:45:00 +0000 — https://www.engadget.com/2270867/how-imax-dome-different-experience-regular-compared/
+### Apple updates Final Cut Camera to support the iPhone 18 Pro's variable aperture
+Tue, 29 Sep 2026 20:17:31 +0000 — https://www.engadget.com/2272667/apple-updates-final-cut-camera-to-support-the-iphone-18-pro-s-variable-aperture/
 
-It's a less-cinematic experience that's been the highlight of many museum field trips.
+The company is also rolling out new features across several of its Creator Studio apps.
 
-### Affordable alternatives to Sonos speakers
-Tue, 29 Sep 2026 15:30:00 +0000 — https://www.engadget.com/2269365/affordable-alternatives-to-sonos-speakers/
+### Mozilla deploys a new-look Firefox across desktop and mobile
+Tue, 29 Sep 2026 20:16:45 +0000 — https://www.engadget.com/2272664/mozilla-deploys-a-new-look-firefox-across-desktop-and-mobile/
 
-Getting good multi-room audio doesn't have to break the bank.
+The redesigned browser brings back compact mode and adds a theme picker.
 
 ## TechCrunch
+
+### Apple Pay finally launches in India after years on the sidelines
+Wed, 30 Sep 2026 04:08:00 +0000 — https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/
+
+Some of India's largest banks are holding off on supporting Apple Pay initially.
+
+### America.gov gets really weird when you ask it about Minecraft, but it s not a glitch
+Tue, 29 Sep 2026 23:30:55 +0000 — https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/
+
+For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.
+
+### The internet is convinced Elon Musk s xAI trolled OpenAI s Dots launch
+Tue, 29 Sep 2026 22:20:59 +0000 — https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/
+
+Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name "dot.com," which now redirects to the Grok chatbot download page.
+
+### Your car and its mobile app are probably handing over all kinds of data to tech companies
+Tue, 29 Sep 2026 22:18:35 +0000 — https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/
+
+Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.
+
+### a16z-backed EliseAI raises $350M, doubles valuation to $4B
+Tue, 29 Sep 2026 21:51:36 +0000 — https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/
+
+EliseAI raises $350M, doubles valuation in a year.
+
+### Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus
+Tue, 29 Sep 2026 21:20:12 +0000 — https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/
+
+The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.
+
+### OpenAI s latest features take direct aim at the app store model
+Tue, 29 Sep 2026 20:15:47 +0000 — https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/
+
+OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.
+
+### OpenAI reportedly in talks to raise $30B round at $1.4T valuation
+Tue, 29 Sep 2026 19:52:37 +0000 — https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/
+
+The new round is anticipated to be the company's last before its delayed 2027 public debut.
 
 ### More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope
 Tue, 29 Sep 2026 18:48:03 +0000 — https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/
 
 Disrupt doesn’t end when you leave Moscone West. 👀 Founder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week. See what’s happening, find your people, and start building your calendar.
-
-### Apple Pay set to launch in India with Axis Bank today, sources say
-Tue, 29 Sep 2026 18:45:00 +0000 — https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/
-
-Some of India's largest banks are holding off on supporting Apple Pay initially.
 
 ### Here s why OpenAI is absent from Nvidia s industry-wide effort to end rogue AI agents
 Tue, 29 Sep 2026 18:35:00 +0000 — https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/
@@ -382,45 +417,10 @@ OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it i
 ### OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT s own office suite
 Tue, 29 Sep 2026 17:45:51 +0000 — https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/
 
-OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.
+OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.
 
 ### Dutch police arrest ShinyHunters hacker accused of planning two murders
 Tue, 29 Sep 2026 17:27:09 +0000 — https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/
 
 Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.
-
-### AI-powered app maker Wabi pivots to a messaging experience
-Tue, 29 Sep 2026 17:20:00 +0000 — https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/
-
-Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.
-
-### OpenAI launches Dots, its bubbly agentic avatar
-Tue, 29 Sep 2026 17:17:15 +0000 — https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/
-
-Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.
-
-### OpenAI gives Codex reusable cloud environments that work across devices
-Tue, 29 Sep 2026 17:15:00 +0000 — https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/
-
-OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.
-
-### OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less
-Tue, 29 Sep 2026 17:15:00 +0000 — https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/
-
-OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.
-
-### OpenAI expands ChatGPT s plugins with app-like interfaces and automations
-Tue, 29 Sep 2026 17:15:00 +0000 — https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/
-
-OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.
-
-### Can a chatbot fix the government maze? The White House is about to find out
-Tue, 29 Sep 2026 16:55:56 +0000 — https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/
-
-America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.
-
-### Instinct founder said more than 50% of transactions on the platform are travel-related
-Tue, 29 Sep 2026 15:12:07 +0000 — https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/
-
-Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.
 

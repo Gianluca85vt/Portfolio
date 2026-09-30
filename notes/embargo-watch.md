@@ -1,4 +1,4 @@
-# Review radar — updated 2026-09-29
+# Review radar — updated 2026-09-30
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,21 +20,23 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| DYNASTY WARRIORS 3: Complete Edition Remastered | KOEI TECMO GAMES CO., LTD. | 2026-09-30 | 1d | 2026-09-29 | €39.99 |
-| ACE COMBAT 8: WINGS OF THEVE | Bandai Namco Entertainment Inc. | 2026-10-01 | 2d | 2026-09-30 | €69.99 |
+| DYNASTY WARRIORS 3: Complete Edition Remastered | KOEI TECMO GAMES CO., LTD. | 2026-09-30 | today | 2026-09-29 | €39.99 |
+| ACE COMBAT 8: WINGS OF THEVE | Bandai Namco Entertainment Inc. | 2026-10-01 | 1d | 2026-09-30 | €69.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Gears of War: E-Day | Xbox Game Studios | 2026-10-06 | 7d | 2026-10-05 | €69.99 |
-| STAR WARS: Galactic Racer | Secret Mode | 2026-10-06 | 7d | 2026-10-05 | €59.99 |
-| Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | 9d | 2026-10-07 | €39.99 |
-| Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 9d | 2026-10-07 | €29.99 |
+| Gears of War: E-Day | Xbox Game Studios | 2026-10-06 | 6d | 2026-10-05 | €69.99 |
+| STAR WARS: Galactic Racer | Secret Mode | 2026-10-06 | 6d | 2026-10-05 | €59.99 |
+| Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | 8d | 2026-10-07 | €39.99 |
+| Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 8d | 2026-10-07 | €29.99 |
+| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 13d | 2026-10-12 | €49.99 |
+| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 14d | 2026-10-13 | €29.99 |
 
 ---
 
-*1499 upcoming titles scanned, 943 with a firm date inside
-14 days, 6 above the price line. Titles showing
+*1149 upcoming titles scanned, 1077 with a firm date inside
+14 days, 8 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
