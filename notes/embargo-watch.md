@@ -29,13 +29,14 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 | Gears of War: E-Day | Xbox Game Studios | 2026-10-06 | 5d | 2026-10-05 | €69.99 |
 | STAR WARS: Galactic Racer | Secret Mode | 2026-10-06 | 5d | 2026-10-05 | €59.99 |
 | Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | 7d | 2026-10-07 | €39.99 |
+| Silver Pines - Artbook | Wych Elm | 2026-10-08 | 7d | 2026-10-07 | €31.99 |
 | Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 7d | 2026-10-07 | €29.99 |
 | Planet Zoo 2 | Frontier Developments | 2026-10-13 | 12d | 2026-10-12 | €49.99 |
 | Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 13d | 2026-10-13 | €29.99 |
 
 ---
 
-*1149 upcoming titles scanned, 1043 with a firm date inside
-14 days, 7 above the price line. Titles showing
+*1049 upcoming titles scanned, 984 with a firm date inside
+14 days, 8 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

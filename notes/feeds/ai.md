@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-01T11:10:41.722Z
+# AI — harvested 2026-10-01T19:02:06.619Z
 
 ## OpenAI
+
+### The eternal complement
+Thu, 01 Oct 2026 17:00:00 GMT — https://openai.com/index/the-eternal-complement
+
+Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
+
+### How Albertsons Companies is reimagining retail from the inside out
+Thu, 01 Oct 2026 16:00:00 GMT — https://openai.com/index/albertsons-reimagining-retail
+
+Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
 
 ### Disrupting a coordinated model-distillation campaign
 Wed, 30 Sep 2026 10:30:00 GMT — https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
@@ -14,14 +24,11 @@ OpenAI is partnering with America’s SBDC to expand hands-on AI training and lo
 
 ## Hugging Face
 
+### Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
+Thu, 01 Oct 2026 15:01:43 GMT — https://huggingface.co/blog/allenai/olmocore3
+
 ### Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
 Wed, 30 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/open-tts-leaderboard
-
-### NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction
-Tue, 29 Sep 2026 15:30:38 GMT — https://huggingface.co/blog/nvidia/kumo-tabular
-
-### Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents
-Tue, 29 Sep 2026 13:07:00 GMT — https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source
 
 ## Google DeepMind
 

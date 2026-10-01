@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-01T11:10:41.722Z
+# Manga — harvested 2026-10-01T19:02:06.619Z
 
 ## Anime News Network
 
-### Shin Oishinbo TV Anime Streams Teaser Video
-Thu, 01 Oct 2026 05:57:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/shin-oishinbo-tv-anime-streams-teaser-video/.242377
+### Tasokare Hotel -Tsubomi- Smartphone Game Ends Service
+Thu, 01 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/tasokare-hotel-tsubomi-smartphone-game-ends-service/.242385
 
-New anime starring Yōhei Azakami as protagonist Shirō Yamaoka debuts next year
+Sequel game ends service on November 30
 
-### Netflix to Stream Dragon Ball Super: Beerus Anime
-Thu, 01 Oct 2026 05:17:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/netflix-to-stream-dragon-ball-super-beerus-anime/.242369
+### The Ramparts of Ice Season 2 Anime Streams English Dub Trailer
+Thu, 01 Oct 2026 12:22:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/the-ramparts-of-ice-season-2-anime-streams-english-dub-trailer/.242386
 
-Anime starts streaming in U.S. on October 17, in selected areas on October 14
+2nd season debuted on Thursday
 
-### Yasuaki Mikami's Looks like a Job for a Maid! Light Novels Get TV Anime
-Thu, 01 Oct 2026 05:03:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/yasuaki-mikami-looks-like-a-job-for-a-maid-light-novels-get-tv-anime/.242376
+### Hell Mode Season 1 Anime Series Review
+Thu, 01 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hell-mode-season-1-anime-series/.242074
 
-Story of falsely accused then dismissed supermaid launched in 2021
+Nothing says thrilling like watching someone throw rocks at trees while they think about their stats.
 
-### Twice's TZUYU Sings for DAN DA DAN's Atlassian Williams F1 Racing Team Collaboration
-Thu, 01 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-01/twice-tzuyu-sings-for-dan-da-dan-atlassian-williams-f1-racing-team-collaboration/.242309
+### GlobalComix Adds Tomb Raider King, Overgeared, Love Tattoo, The Insipid Prince's Furtive Grab for The Throne, More Titles
+Thu, 01 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/globalcomix-adds-tomb-raider-king-overgeared-love-tattoo-the-insipid-prince-furtive-grab-for-the-/.242382
 
-Atlassian Williams: “Speed Meets Supernatural ... and now, it has a voice🔥”
+Also: <cite>To Sir, Without Love: I'm Divorcing You</cite>, <cite>The Return of the Disaster-Class Hero</cite>
 
-### Glasses With a Chance of Delinquent Anime's Teaser Reveals Cast, April 2027 TV Debut
-Wed, 30 Sep 2026 23:45:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-cast-april-2027-tv-debut/.242364
+### Hideki Arai's SPUNK! Manga Gets Live-Action Film
+Thu, 01 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/hideki-arai-spunk-manga-gets-live-action-film/.242359
 
-Hiroto Shimizu, Suzuko Hara, Yuma Tomochika join cast
+Crowdfunding project also launched for film
 
-### Smells Like Green Spirit's Saburō Nagai Launches New Manga
-Wed, 30 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/smells-like-green-spirit-saburo-nagai-launches-new-manga/.242324
+### This Week in Anime - Unhappy with Endings
+Thu, 01 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-01/.242335
 
-<cite>Iei ga Nai!</cite> BL manga debuted on September 29
+In the wake of <i>Goodbye, Lara</i> 's finale, Sylvia and Coop discuss anime endings that left viewers wanting.
 
-### Thunder 3 Anime Gets 2nd Season in 2027
-Wed, 30 Sep 2026 19:16:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/thunder-3-anime-gets-2nd-season-in-2027/.242360
+### A Bride's Story Manga Gets New Volume Under New Publisher This Winter
+Thu, 01 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361
 
-Season 1 from Gantz creator Hiroya Oku (as Yuki Ikeda) ended on Wednesday
+New <cite>Otoyomegatari Zoku no 1</cite> volume will have 3 chapters, about 80 pages, larger A4 size, with planned 16th volume
 
-### Bottom-Tier Character Tomozaki Novels End with 12th Volume
-Wed, 30 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/bottom-tier-character-tomozaki-novels-end-with-12th-volume/.242356
+### The Fall 2026 Anime Preview Guide
+Thu, 01 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248
 
-Final novel ships on October 16
+The season's just started, and we have nine featured shows! Read our reviews for <cite>STEEL BALL RUN</cite>, <cite>Firefly Wedding</cite>, <cite>Overgeared</cite>, <cite>Vermilion Mask</cite>, <cite>Reincarnated as a Sword</cite>, and more!
 
-### Chiikawa Anime Film Drops to #2, Star Detective Precure! Film Stays at #3
-Wed, 30 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/chiikawa-anime-film-drops-to-no.2-star-detective-precure-film-stays-at-no.3/.242305
+### Bless TV Anime Casts Kentarō Kumagai
+Thu, 01 Oct 2026 08:12:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380
 
-<cite>Cosmic Princess Kaguya!</cite> drops to #10
+Kumagai as MM in January 2027 anime
 
-### New Obocchama-kun Anime Airs on TV in Japan in 2027 (Updated)
-Wed, 30 Sep 2026 16:48:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/new-obocchama-kun-anime-airs-on-tv-in-japan-in-2027/.242357
+### Grandgear Film by Godzilla Minus One's Takashi Yamazaki Opens in January 2028
+Thu, 01 Oct 2026 07:38:32 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362
 
-Chie Kōjiro reprises role of Obocchama-kun from original 1989 anime
+Sony Pictures announced on Wednesday that&nbsp;Godzilla Minus One director Takashi Yamazaki's first English-language film Grandgear has moved up its release...
 
-### Thunder 3 ‒ Episode 12
-Wed, 30 Sep 2026 16:32:40 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-12/.242358
+### Seiji Ebisu's Bishōjo shika Inai Seitokai no Gidai ga Itsumo Ore na Ken Novel Gets Manga Adaptation
+Thu, 01 Oct 2026 07:33:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332
 
-For any other poor souls who endured this first season with me to the end, I'm sure they're just as dissatisfied with the lack of an actual conclusion.
+Manga adaptation by Tarara launched on Monday
 
-### Idea Factory Announces New Adventure Game Brand, 1st Project ICONOLOGY
-Wed, 30 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/idea-factory-announces-new-adventure-game-brand-1st-project-iconology/.242355
+### I Want to Love You Till Your Dying Day ‒ Episode 13
+Thu, 01 Oct 2026 07:30:38 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365
 
-IFChronicle's <cite>ICONOLOGY</cite> game in development for Switch, PC via Steam
+The show could've ended last week, and that probably would've been more fitting.
 
 ## Crunchyroll News
 
@@ -160,6 +160,11 @@ The official website for the television anime adaptation of Kotoko and Kaname Ha
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### “Dragon Ball Super: Beerus” Streaming on Crunchyroll 11th October
+Thu, 01 Oct 2026 11:40:44 +0000 — https://animeuknews.net/2026/10/dragon-ball-super-beerus-streaming-on-crunchyroll-11th-october/
+
+A remaster of the series Dragon Ball Super, from the legendary Akira Toriyama, Dragon Ball Super: Beerus, features updated visuals and a re-worked narrative while remaining true to Toriyama’s original vision.
 
 ### More Titles Join Crunchyroll’s Fall/Autumn 2026 Slate
 Wed, 30 Sep 2026 17:10:17 +0000 — https://animeuknews.net/2026/09/more-titles-join-crunchyrolls-fall-autumn-2026-slate/
