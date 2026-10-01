@@ -16,7 +16,6 @@ artistView:
     - "Camera: the interior moves keep their perspective through the whole push, the signature of a drawn layer riding a 3D set rather than a panned cel."
   misses:
     - "House style: the diffusion and glow that make a ufotable fight sing also sand the tooth off line art, and this story spends most of its length in rooms with two people talking."
-draft: true
 ---
 
 Aniplex ran an information programme for the *Witch on the Holy Night* film on
