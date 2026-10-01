@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1E6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FE8D2" letter-spacing="6">GRAND THEFT AUTO VI</text>
+  <text x="80" y="310" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">localized</text>
+  <text x="80" y="430" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">&amp; persistent</text>
+  <text x="80" y="520" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#C9F3E6">The two words that rewrote the weather system</text>
+  <text x="80" y="600" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#7FBFAC">Owen Shepherd, VP of art for lighting and rendering &#183; 30 September 2026</text>
+</svg>
