@@ -1,4 +1,4 @@
-# AI — harvested 2026-09-30T21:00:11.829Z
+# AI — harvested 2026-10-01T11:10:41.722Z
 
 ## OpenAI
 
@@ -11,21 +11,6 @@ Learn how OpenAI disrupted a campaign to extract protected model reasoning and i
 Wed, 30 Sep 2026 10:00:00 GMT — https://openai.com/index/helping-small-businesses-put-ai-to-work
 
 OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
-
-### Introducing GPT-6.1 Sol
-Tue, 29 Sep 2026 10:00:00 GMT — https://openai.com/index/introducing-gpt-6-1-sol
-
-Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.
-
-### DevDay 2026 Recap
-Tue, 29 Sep 2026 10:00:00 GMT — https://openai.com/index/devday-2026-recap
-
-Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.
-
-### Introducing dots
-Tue, 29 Sep 2026 00:00:00 GMT — https://openai.com/index/introducing-dots
-
-Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.
 
 ## Hugging Face
 

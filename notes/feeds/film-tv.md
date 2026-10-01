@@ -1,189 +1,209 @@
-# Film & TV — harvested 2026-09-30T21:00:11.829Z
+# Film & TV — harvested 2026-10-01T11:10:41.722Z
 
 ## Variety
 
-### 24 Jump Street, Hugh Jackman s Treasure Island Remake Get Holiday 2027 Release Dates
-Wed, 30 Sep 2026 20:46:54 +0000 — https://variety.com/2026/film/news/24-jump-street-hugh-jackman-treasure-island-release-dates-1236893958/
+### After ‘I Swear’ Scores 7 BAFTA Scotland Nods, Tourette’s Campaigner John Davidson to Watch Ceremony From Separate Area Within Venue Following N-Word Controversy
+Thu, 01 Oct 2026 10:13:22 +0000 — https://variety.com/2026/film/global/john-davidson-attend-bafta-scotland-ceremony-separate-area-1236894584/
 
-Sony has slated the highly anticipated comedy sequel 24 Jump Street and Ridley Scott s Treasure Island remake starring Hugh Jackman for release around the 2027 holiday season. Treasure Island hits theaters first on Nov. 11, 2027, while 24 Jump Street releases on Dec. 10, 2027. Variety exclusively revealed in June that 24 Jump Street was [ ]
+Just over than seven months after the British Academy faced one of its biggest controversies in years after the N-word was shouted out during the BAFTA Film awards ceremony, BAFTA has had to revisit the moment as it contends with the upcoming BAFTA Scotland awards. The incident — which came to significantly overshadow the 2026 [ ]
 
-### SCP Foundation Anthology Movie in the Works at Neon, Based on Online Horror Forum
-Wed, 30 Sep 2026 20:45:00 +0000 — https://variety.com/2026/film/news/scp-foundation-movie-neon-horror-anthology-1236893734/
+### International Oscar Submissions: Cuba, Denmark, Vietnam, Italy, France and More Join the List
+Thu, 01 Oct 2026 09:02:27 +0000 — https://variety.com/lists/international-oscar-submissions-2027/
 
-Neon is developing an anthology movie based on the community-driven horror forum The SCP Foundation. The project, which will focus on platforming emerging filmmakers, is slated for release in 2027. The SCP Wiki, created in 2008, is a collaborative speculative fiction website where users submit written works that expand the lore of the SCP Foundation, [ ]
+The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed [ ]
 
-### David Ellison Taps Mattel s Ynon Kreiz to Be Co-CEO of Merged Paramount-Warner Bros.
-Wed, 30 Sep 2026 20:13:33 +0000 — https://variety.com/2026/film/news/paramount-david-ellison-ynon-kreiz-co-ceo-mattel-1236893607/
+### Ballet Star Tiler Peck to Make London West End Debut in Susan Stroman s Little Dancer (EXCLUSIVE)
+Thu, 01 Oct 2026 08:30:00 +0000 — https://variety.com/2026/theater/news/tiler-peck-west-end-debut-little-dancer-musical-1236893451/
 
-Ynon Kreiz, who is stepping down as CEO of Mattel after eight years, will join David Ellison’s Paramount which is expected to close its mega-merger with Warner Bros. Discovery on Oct. 6 as co-CEO of the new company, Paramount announced. As chairman and CEO, Ellison will lead all strategy, creative and technology functions. [ ]
+New York City Ballet principal dancer Tiler Peck will make her West End debut in Little Dancer, the Lynn Ahrens and Stephen Flaherty musical about the girl who posed for Edgar Degas famous sculpture. It opens at London s Theatre Royal Haymarket on Feb. 15, 2027. Susan Stroman directs and choreographs the limited run, which will [ ]
 
-### Big Brother Ratings Average 5.1 Million Multiplatform Viewers This Summer, Up 8% From Last Year (EXCLUSIVE)
-Wed, 30 Sep 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/big-brother-ratings-5-million-viewers-summer-up-last-year-1236893873/
+### Grup Mediapro Companies Bet on Big Ideas, Local Voices and Cross Border Muscle
+Thu, 01 Oct 2026 07:46:02 +0000 — https://variety.com/2026/film/global/mediapro-studio-globomedia-cimarron-cine-el-terrat-1236893936/
 
-“Big Brother” is ending its Season 28 run with an average multiplatform audience of 5.1 million in live+7 viewers, up 8% from last summer. According to CBS, that’s 46% higher than summer rival “Love Island USA” Season 8 on Peacock (3.5 million). According to the Eye network, viewership of “Big Brother” Season 28 full episodes [ ]
+Spain’s independent production scene is leaning into a familiar playbook — strong creators, distinctive local stories and plenty of hustle — while looking for new ways to make those stories travel. At the 6th Iberseries Platino Industria confab in Madrid, executives from Imagina (Imagina becomes the new corporate name of Grup Mediapro from Jan. [ ]
 
-### Naomi Bulochnikov-Paul Exits Disney TV for New Opportunty After Eight Years as Head of Communications
-Wed, 30 Sep 2026 19:51:22 +0000 — https://variety.com/2026/tv/news/naomi-bulochnikov-paul-exits-disney-tv-head-communications-1236893906/
+### Banijay Entertainment’s Scripted Secret: Find the Talent, Then Back the Ideas
+Thu, 01 Oct 2026 07:37:26 +0000 — https://variety.com/2026/film/global/banijay-scripted-secret-groenlandia-pokeepsie-a-fabrica-1236894116/
 
-Naomi Bulochnikov-Paul is exiting Disney TV as head of communications after eight years. Bulochnikov-Paul has spent eight years at the company, most recently as executive vice president, communications, for Disney Entertainment Television. In a memo to staff she said she was exiting to pursue a new opportunity. Bulochnikov-Paul s exit is the latest shift at Disney s [ ]
+With 170 labels across 25 territories, Banijay Entertainment has plenty of scale. But at Iberseries Platino Industria, Steve Matthews, head of scripted, creative, made clear that the company’s global strategy doesn’t begin with scale, platforms or market trends. It begins with writers. “Good writers, I mean, it really boils down to that,” said Maria [ ]
 
-### Alec Baldwin s Claims Against Rust Prosecutor Dismissed on Immunity Grounds
-Wed, 30 Sep 2026 19:39:46 +0000 — https://variety.com/2026/film/news/alec-baldwin-kari-morrissey-misconduct-lawsuit-dismiss-1236893779/
+### Venice Golden Lion Winner Milcho Manchevski s Sister Brother Manhole Cover Heads to Tokyo for World Premiere, Trailer Unveiled (EXCLUSIVE)
+Thu, 01 Oct 2026 07:02:00 +0000 — https://variety.com/2026/film/festivals/golden-lion-winner-sister-brother-manhole-cover-tokyo-1236893474/
 
-A federal judge on Wednesday threw out much of Alec Baldwin s civil rights lawsuit against prosecutors in the Rust case, finding they are entitled to prosecutorial immunity. Baldwin sued last year, alleging he was the victim of an out-of-control prosecution that wrongly sought to convict him for the accidental shooting of cinematographer Halyna Hutchins in [ ]
+Sister Brother Manhole Cover, the new feature from Venice Golden Lion winner Milcho Manchevski, will world premiere in the Tokyo International Film Festival s main competition. Variety is debuting the trailer. Francesca Breccia s Coccinelle Film Sales is handling the film and will start selling it to international buyers during Busan s Asian Contents Film Market. Manchevski [ ]
 
-### Paramount-Warner Bros. Merger Set to Close Next Week After Judge OKs Settlement With State AGs
-Wed, 30 Sep 2026 19:32:42 +0000 — https://variety.com/2026/film/news/paramount-warner-bros-merger-judge-approves-settlement-ags-1236893467/
+### Indonesian Director Ariani Darmawan Ends 15-Year Hiatus With Jani Be Good, Debuts Trailer Ahead of Tokyo World Premiere (EXCLUSIVE)
+Thu, 01 Oct 2026 07:01:00 +0000 — https://variety.com/2026/film/news/jani-be-good-trailer-indonesian-director-returns-15-years-1236893464/
 
-Paramount chief David Ellison, after a fierce year-long battle, is finally about to get his hands on Warner Bros. Discovery in the most expensive takeover in Hollywood history. On Wednesday, U.S. District Judge Araceli Martínez-Olguín, who is overseeing the antitrust case aimed at blocking the Paramount-Warner Bros. deal approved Paramount s settlement with the 12 [ ]
+Indonesian director Ariani Darmawan is ending a 15-year absence from filmmaking with her debut feature, Jani Be Good, which will world premiere in the Asian Future competition at the 39th Tokyo International Film Festival. Variety is debuting the film s first trailer. The drama is titled Desember Jani in Indonesian and produced by Jakarta outfit Palari [ ]
 
-### God of War Laufey Sets Release Date, Preorders Open (Gaming News Roundup)
-Wed, 30 Sep 2026 19:23:00 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-september-28-1236877473/
+### Florence Pugh and Hoon Lee Form the Beating Heart of Netflix s Rich East of Eden Adaptation: TV Review
+Thu, 01 Oct 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/east-of-eden-review-netflix-florence-pugh-1236893918/
 
-“God of War Laufey” will release Feb. 16, 2027 from PlayStation s Santa Monica Studios. Pre-orders go live on Sept. 29. The prequel game in the action-adventure franchise centers on Laufey, also known as Faye. “God of War Laufey” follows the legendary warrior beyond death through the Everywhen, the afterlife of the gods. Fans who pre-order [ ]
+“East of Eden,” the John Steinbeck novel, opens with a place: the author’s native Salinas Valley, the fertile terrain transitioning from the nation’s frontier to its bread basket at the turn of the 20th century. “East of Eden,” the Netflix limited series created by actor and screenwriter Zoe Kazan, opens with a person: Cathy Ames [ ]
 
-### Ubisoft Adopts Massive Entertainment as Name of Studio Group Led by Christoph Hartmann
-Wed, 30 Sep 2026 19:20:00 +0000 — https://variety.com/2026/gaming/news/ubisoft-massive-entertainment-christoph-hartmann-1236893830/
+### Garin Nugroho, Mishima Yukiko, Qiu Jiongjiong Titles Among 15 in Tokyo Film Festival Competition
+Thu, 01 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/festivals/garin-nugroho-mishima-yukiko-qiu-jiongjiong-tokyo-festival-competition-1236893433/
 
-Games company Ubisoft has landed on a name for what it has been calling Creative House 2, led by general manager Christoph Hartmann, the former head of Amazon Games who recently joined the team. The group is being named Massive Entertainment, adopting the name of Ubisoft s Sweden-based studio that has been part of the company [ ]
+The 39th Tokyo International Film Festival has unveiled its complete program, led by a 15-film main competition featuring work by Indonesian director Garin Nugroho, Japanese filmmaker Mishima Yukiko and Hong Kong-based Qiu Jiongjiong. The competition spans world and Asian premieres. Seven titles receive world premieres: The Canary s Lullaby, a Taiwan-Japan co-production directed by Ikeda Akira; [ ]
 
-### David Fincher Ending Netflix Deal After Six Years and Three Movies, Including Cliff Booth
-Wed, 30 Sep 2026 19:18:25 +0000 — https://variety.com/2026/film/news/david-fincher-netflix-deal-exit-1236878552/
+### Anne Hathaway Would Rather Have Another Knicks Championship Over a Second Oscar
+Thu, 01 Oct 2026 05:00:51 +0000 — https://variety.com/2026/tv/news/anne-hathaway-knicks-championship-oscar-tonight-show-fallon-1236894459/
 
-David Fincher isn t renewing his pact at Netflix after his deal at the streamer expires next year. Fincher, the acclaimed director of Fight Club, The Social Network and Gone Girl, has enjoyed a long creative partnership with Netflix, starting with the company s seminal television series House of Cards and Mindhunter. He forged an exclusive partnership [ ]
+When it comes to the New York Knicks, Anne Hathaway is their good luck charm. Let’s revisit: On April 20, the Knicks lost Game 2 of their NBA Playoffs series to the Atlanta Hawks. On May 1, Hathaway’s “The Devil Wears Prada 2” premiered and featured a scene where Hathaway’s character chats up Knicks star [ ]
 
 ## The Hollywood Reporter
 
-### Blake Lively Signs With Power Publicist Kelly Bush Novak After Settling Justin Baldoni Suit
-Wed, 30 Sep 2026 20:50:51 +0000 — https://www.hollywoodreporter.com/news/general-news/blake-lively-publicist-kelly-bush-novak-justin-baldoni-suit-1236717275/
+### Netflix’s New Releases Coming in October 2026
+Thu, 01 Oct 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/netflix-october-2026-new-releases-movies-tv-1236718064/
 
-The move comes months after the end of the high-profile legal battle between the actress and the 'It Ends With Us' director.
+Take a look at the movies and TV shows that are hitting the streaming service this month.
 
-### Halsey Unpacks Her New Hollywood Chapter and Betting on Subversive Art With Our Hero, Balthazar
-Wed, 30 Sep 2026 20:47:38 +0000 — https://www.hollywoodreporter.com/movies/movie-features/halsey-producing-new-chapter-our-hero-balthazar-interview-1236714676/
+### Nathan Fielder s Elizabeth Holmes Documentary Holds a Raucous and Revealing NYFF Screening
+Thu, 01 Oct 2026 09:40:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-a24-release-date-showtimes-1236718070/
 
-After a decade as a Grammy-nominated musician, the singer-songwriter tells The Hollywood Reporter about her creative career behind the camera, including one of this year's most provocative indies and her support for a younger generation of filmmakers.
+'You Can See Everything' shows the elephant — sort of.
 
-### Why Not Film In South Carolina? Sen. Tim Scott Pushes Federal Incentive to Boost Hollywood In His State
-Wed, 30 Sep 2026 20:47:17 +0000 — https://www.hollywoodreporter.com/business/business-news/film-south-carolina-sen-tim-scott-1236717146/
+### Mercedes Ron s Fault Franchise Initially Felt Impossible to Make, Banijay Producer Recalls
+Thu, 01 Oct 2026 07:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/mercedes-ron-fault-prime-felt-impossible-banijay-producer-1236718009/
 
-The state, perhaps best known for ‘The Notebook’ and ‘Forrest Gump,’ isn’t a go-to filming destination. The Republican senator believes a federal incentive could help.
+Pokeepsie Films' Carolina Bang and fellow Banijay creatives also told Iberseries 2026 in Madrid why and how they keep stories authentic, universal – and even "obscure."
 
-### 24 Jump Street and Ridley Scott s Treasure Island Get 2027 Release Dates From Sony
-Wed, 30 Sep 2026 20:46:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/24-jump-street-ridley-reasure-island-helldivers-release-1236717471/
+### East of Eden Review: A Terrifying Florence Pugh Towers Over Zoe Kazan s Accomplished Netflix Adaptation of the John Steinbeck Classic
+Thu, 01 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/east-of-eden-review-florence-pugh-netflix-mike-faist-1236717464/
 
-The studio also delayed the 'Helldivers' release to 2028 amid casting changes.
+Co-starring Mike Faist and Christopher Abbott, the seven-episode miniseries is truer to the source material than the 1955 feature from Zoe Kazan's grandfather, Elia Kazan.
 
-### Neon to Produce Fictional SCP Foundation Anthology Feature
-Wed, 30 Sep 2026 20:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/neon-scp-foundation-movie-1236717393/
+### Tokyo Film Festival Reveals Full 2026 Lineup
+Thu, 01 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-full-2026-lineup-1236718018/
 
-The 'Longlegs' studio will see emerging filmmakers contribute to the open-source horror project set for a theatrical release in 2027.
+Gala screenings include 'Godzilla Minus Zero,' 'Behemoth!,' 'Fjord' and 'Wild Horse Nine' and 15 films were selected for the main competition.
 
-### Cleared for Take Off: Paramount s $111 Billion Warner Bros. Buy Greenlit By Judge
-Wed, 30 Sep 2026 20:27:54 +0000 — https://www.hollywoodreporter.com/business/business-news/paramount-cleared-warner-bros-megamerger-1236717445/
+### Netflix Spain Adds Films and Docs Curated by Streamer Filmin
+Thu, 01 Oct 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-spain-filmin-films-documentaries-monthly-selection-1236717179/
 
-The deal creating Hollywood's next entertainment and media colossus is expected to close on Oct. 6.
+“They've built a very close relationship with a discerning, specialized audience," says Diego Ávalos, Netflix’s vp of content for Spain, Portugal and Turkey.
 
-### Mattel s Ynon Kreiz Named As Co-CEO of David Ellison s Paramount-Warner Bros.
-Wed, 30 Sep 2026 20:24:16 +0000 — https://www.hollywoodreporter.com/business/business-news/mattels-ynon-kreiz-named-as-co-ceo-of-david-ellisons-paramount-warner-bros-1236717448/
+### Disney+ Strikes Streaming Bundle and Content-Sharing Deal With Indonesia’s Vidio
+Thu, 01 Oct 2026 05:01:32 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-streaming-bundle-indonesia-vidio-1236717977/
 
-The veteran exec will run day-to-day operations, alongside Ellison.
+The partnership pairs Disney’s Hollywood and Korean programming with Vidio’s Indonesian originals and live sports, extending the company’s push to build regional streaming alliances across Asia.
 
-### Disney Entertainment TV Comms Chief Naomi Bulochnikov-Paul Departing
-Wed, 30 Sep 2026 20:18:03 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-comms-executive-naomi-bulochnikov-paul-departing-1236717426/
+### South America Takes on the Literal Dicks of Big Tech Billionaires in New Episode
+Thu, 01 Oct 2026 04:54:11 +0000 — https://www.hollywoodreporter.com/tv/tv-news/south-park-south-america-literal-dicks-tech-billionaires-class-butters-1236717592/
 
-She has been with the company since 2017.
+The renamed Comedy Central series follows up its season debut by pitting old money against new tech wealth in Butters' backyard.
 
-### Florence Pugh Thanks Tom Holland for Her Spider-Man: Brand New Day Casting: This All Happened Because of Tom
-Wed, 30 Sep 2026 19:22:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/florence-pugh-thanks-tom-holland-spider-man-brand-new-day-1236717379/
+### Miu Miu Popularized Double-Lace Shoes — These 10 Brands Are Following Suit
+Thu, 01 Oct 2026 04:42:49 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/best-double-lace-shoes-buy-online-adidas-miu-miu-sneakers-1236717809/
 
-The Oscar nominee explained that 'The Odyssey' actor previously cited her as an MCU actor he wanted to work with, which left fans "so excited about the idea of it, and that started the ball rolling."
+In 2024, Miu Miu's double-lace New Balances first went viral. This simple styling trick now takes 2026 fall fashion by storm.
 
-### Hollywood Isn t the Snake Pit You Think It Is
-Wed, 30 Sep 2026 18:44:10 +0000 — https://www.hollywoodreporter.com/business/business-news/ari-emanuel-memoir-hollywood-industry-rick-nicita-1236717340/
+### Nicolas Cage Says the MCU Is Becoming a Well-Funded and Glorified WWE
+Thu, 01 Oct 2026 04:38:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nicolas-cage-mcu-well-funded-glorified-wwe-1236717966/
 
-As gripping as superagent Ari Emanuel's new memoir is, his dog-eat-dog view of the industry doesn't capture the whole picture.
+The actor, who recently starred in Prime Video's 'Spider-Noir,' said he "would like to see it [MCU] get back to telling the stories and not just cutting to the wrestling match."
 
 ## Deadline
 
-### Joachim Rønning Sets Horror Film System With Spooky Pictures Image Nation Studios
-Wed, 30 Sep 2026 21:00:00 +0000 — https://deadline.com/2026/09/joachim-ronning-directing-system-spooky-pictures-image-nation-1237143566/
+### Dark Sky Films Takes U.S. Rights To Prize-Winning Emirati Horror The Vile
+Thu, 01 Oct 2026 11:00:00 +0000 — https://deadline.com/2026/10/dark-sky-films-us-rights-emirati-horror-vile-1237144216/
 
-Joachim Rønning, the Norwegian filmmaker most recently at the helm of Tron: Ares, has set up his next film, the horror flick System, with Spooky Pictures and Image Nation Studios. Currently in production in London, System s plot isn t being disclosed. Unusually, its cast will remain under wraps, as well. Rønning is directing from his own [ ]
+EXCLUSIVE: Dark Sky Films, the genre label of Watermelon Pictures co-founders Badie and Hamza Ali, has acquired U.S. distribution rights to The Vile, the award-winning Arabic-language psychological horror thriller from Emirati filmmaker Majid Al Ansari. Produced by Spooky Pictures and Image Nation Studios, the film premiered at Fantastic Fest in Austin in September 2025, where [ ]
 
-### Neon Counters A24 s SCP Foundation Movie With Open-Source Project To Release Under Creative Commons License
-Wed, 30 Sep 2026 20:45:00 +0000 — https://deadline.com/2026/09/scp-foundation-movie-neon-open-source-creative-commons-license-1237143453/
+### Warner Bros. Discovery Strikes Mega Content Deal With UK s ITV For TLC Quest Shows Like Mock The Week , Dr. Pimple Popper , Salvage Hunters
+Thu, 01 Oct 2026 10:48:09 +0000 — https://deadline.com/2026/10/itv-deal-warner-bros-tlc-quest-mock-the-week-pimple-popper-1237144227/
 
-Earlier this month, we scooped A24 s acquisition of an SCP Foundation movie from Spooky Pictures and Image Nation Studios, intended to bring one of the internet s largest fan-built horror and sci-fi universes to the big screen for the first time. The announcement ruffled feathers, precipitating a unique form of drama. Within hours, we heard from [ ]
+Now that the $110B mega-merger is complete, thoughts will soon turn to what happens to Paramount and Warner Bros. Discovery’s (WBD) various international outposts. For now, WBD international s first move of this new era is to reveal a first-of-its-kind content partnership with UK net ITV. From today, 2,000 hours of content from WBD-owned TLC and [ ]
 
-### Nobody Wants This Rabbi Consultant Slams Adam Brody As An Ignorant Jew Over Free Palestine Support
-Wed, 30 Sep 2026 20:35:10 +0000 — https://deadline.com/2026/09/nobody-wants-this-rabbi-slams-adam-brody-ignorant-jew-1237143639/
+### BAFTA Makes Plans For I Swear s John Davidson To Attend Scotland Awards After N-Word Scandal
+Thu, 01 Oct 2026 10:38:51 +0000 — https://deadline.com/2026/10/bafta-i-swear-john-davidson-scotland-awards-n-word-scandal-1237144224/
 
-Following his public support of Free Palestine, Adam Brody is facing backlash not only from viewers, but a recent colleague. Ahead of Season 3 of Nobody Wants This, premiering Oct. 22 on Netflix, the show s former technical consultant, Rabbi Steve Leder, slammed the 2x Golden Globe-nominated actor as an ignorant Jew for referring to Israel s [ ]
+BAFTA has made special arrangements to ensure I Swear executive producer John Davidson can attend the Scotland Awards after an N-word scandal at the film ceremony in February. After consulting with Davidson and other experts, the Tourette syndrome activist will watch the event in a separate room with loved ones. I Swear has received seven [ ]
 
-### ‘His Hers’ Team Developing Alice Feeney’s Next Book ‘Twist’ As Series With Fifth Season
-Wed, 30 Sep 2026 20:30:00 +0000 — https://deadline.com/2026/09/his-hers-alice-feeney-book-twist-series-fifth-season-1237143562/
+### Shaka iLembe : First Look At Season 3 Of MIPCOM-Bound African Zulu King Drama
+Thu, 01 Oct 2026 10:38:24 +0000 — https://deadline.com/2026/10/shaka-ilembe-first-look-season-3-mipcom-launch-1237144218/
 
-EXCLUSIVE: His Hers became one of Netflix’s most-watched series ever after launching earlier this year. The team behind the Jon Bernthal and Tessa Thompson-led thriller have once again teamed with Fifth Season to adapt the next book from His Hers author Alice Feeney. William Oldroyd will return to write and direct a series [ ]
+Here are the first images from the final season of African series Shaka iLembe, with the drama set to launch internationally in Cannes. Studiocanal just dropped pics of the isiZulu-language drama ahead of the show s international debut at MIPCOM Cannes later this month, titled Shaka iLembe: Zulu King. In one key image, we see King [ ]
 
-### Ynon Kreiz Anointed Co-CEO Of New Paramount-WBD; David Ellison Says Mega-Studio Is Transformational Moment For Our Industry
-Wed, 30 Sep 2026 20:19:00 +0000 — https://deadline.com/2026/09/ynon-kriez-paramount-co-ceo-1237143658/
+### BBC Holding Final Interviews For Next News Chief, With Four Contenders Still In Frame
+Thu, 01 Oct 2026 08:50:29 +0000 — https://deadline.com/2026/10/bbc-final-interviews-next-news-chief-1237143606/
 
-Mere minutes after a federal judge signed off Wednesday on the antitrust settlement deal between Paramount, Warner Bros Discovery and a dozen blue state attorneys general, David Ellison has unveiled a co-CEO for his $111 billion company. Paramount Skydance Corporation (NASDAQ: PSKY) (the Company ) today disclosed that David Ellison has announced Ynon Kreiz as Co-CEO [ ]
+EXCLUSIVE: The BBC s search for its next head of news has entered the home stretch. Deadline understands that the BBC is conducting a final round of interviews for the role this week. Four candidates are said to be in the frame to replace Deborah Turness, who dramatically resigned last November amid an explosive editorial scandal [ ]
 
-### Paramount-WBD Merger Is A Go As Judge Approves Legal Settlement, Last Hurdle To Close
-Wed, 30 Sep 2026 19:47:58 +0000 — https://deadline.com/2026/09/paramount-warner-merger-a-go-a-approves-legal-setttlement-1237143611/
+### David Michel Buys Cottonwood Media Out Of Federation Studios
+Thu, 01 Oct 2026 08:42:35 +0000 — https://deadline.com/2026/10/cottonwood-media-management-buyout-federation-studios-1237144184/
 
-UPDATED with Ynon Kreiz named Co-CEO: A federal judge has approved the Sept. 21 settlement between Paramount and a group of state Attorneys General that sued to block its merger with Warner Bros. Discovery, removing the last hurdle for the deal to close. The Court finds the proposed consent decree represents a reasonable factual and [ ]
+Kids TV veteran David Michel is buying back control of Find Me in Paris maker Cottonwood Media from Federation Studios. The company is now back to full independence after 11 years in the Federation fold, with Michel and partners Cécile Laurenson and Zoé Carrera Allaix leading the operation. Michel, the former Zodiak Kids boss who [ ]
 
-### Naomi Bulochnikov-Paul Departing As EVP Communications For Disney Entertainment Television
-Wed, 30 Sep 2026 19:41:42 +0000 — https://deadline.com/2026/09/naomi-bulochnikov-paul-leaving-disney-evp-communications-1237142720/
+### Banijay Officially Unveils New Sales Team Led By Cathy Payne With Five Key Lieutenants
+Thu, 01 Oct 2026 08:16:43 +0000 — https://deadline.com/2026/10/banijay-new-sales-team-cathy-payne-structure-rachel-job-1237144175/
 
-EXCLUSIVE: Naomi Bulochnikov-Paul, EVP Communications, Disney Entertainment Television, is leaving after eight years at Disney. She just shared the news in a memo to her team, revealing that she is exiting to pursue a new opportunity. Details about Bulochnikov-Paul s new job are expected to be announced soon. For the well-liked communications executive, the departure closes [ ]
+With its new catalogue of more than 250,000 hours of content since the All3Media merger, Banijay Entertainment has set out the shape of its sales team under chief Cathy Payne. Payne s five Banijay Rights lieutenants will be Matt Creasey, Senior Executive Vice President, World excluding EMEA, Stephen Driscoll, Senior Executive Vice President, EMEA, Rachel Job, [ ]
 
-### Stephanie Hsu Inks With Range Media Partners
-Wed, 30 Sep 2026 19:41:21 +0000 — https://deadline.com/2026/09/stephanie-hsu-range-1237143586/
+### Nick Curwin, Founder Of British Production Houses Dragonfly The Garden, Retiring From Indie Incubator Matisse
+Thu, 01 Oct 2026 08:00:48 +0000 — https://deadline.com/2026/10/nick-curwin-retiring-matisse-dragonfly-the-garden-1237144167/
 
-EXCLUSIVE: Range has signed award-winning Everything Everywhere All at Once and The Marvelous Mrs. Maisel actress. Hsu received a Supporting Actress Oscar nomination, a Best Breakthrough Performance Independent Spirit win, and an Actors Award for Ensemble Cast for her dual role as Joy/Jobu in A24 s Everything Everywhere All at Once. The movie grossed close to [ ]
+Nick Curwin, who founded two storied British production houses and went on to run indie incubator Matisse, is retiring. Matisse, which has backed indies including Dan Grabiner s Orchard Studios and SNL UK lead producer James Longman s Jolly Octupus, will be run by co-founder Scarlett Ewens and creative chief Edwina Silver going forwards. Curwin is best [ ]
 
-### Dame Esther Rantzen Dies: BAFTA-Winning British TV Presenter Was 86
-Wed, 30 Sep 2026 19:33:35 +0000 — https://deadline.com/2026/09/dame-esther-rantzen-dead-bafta-presenter-86-1237143577/
+### Tokyo Film Festival Unveils Competition Line-up With World Premieres From Garin Nugroho, Milcho Manchevski Qiu Jiongjiong
+Thu, 01 Oct 2026 06:59:00 +0000 — https://deadline.com/2026/09/tokyo-film-festival-competition-garin-nugroho-1237142831/
 
-Dame Esther Rantzen, the BAFTA-winning presenter of shows including That’s Life!, died September 30. She was 86. In a statement issued to the Press Association, her children Miriam Wilcox, Rebecca Wilcox and Joshua Wilcox confirmed the passing of their adored mother. Rantzen was diagnosed with terminal lung cancer in 2023 and went on to become [ ]
+Tokyo International Film Festival has announced its full line-up including the 15 features selected for its Competition section, seven of which are world premieres. Indonesian filmmaker Garin Nugroho’s historical drama Red Before Dawn will be receiving its world premiere at the festival, along with Macedonian filmmaker Milcho Manchevski’s Sister Brother Manhole Cover, and two Chinese [ ]
 
-### 20th Century Studios Acquires Horror Package Every House Is Haunted From Netflix; Don t Move s Adam Schindler Brian Netto Directing
-Wed, 30 Sep 2026 19:30:00 +0000 — https://deadline.com/2026/09/every-house-is-haunted-acquired-20th-adam-schindler-brian-netto-1237143523/
+### Ted Sarandos Has No Regrets Over WB Pursuit, Talks Netflix s Engagement Growth Challenges, Overall Deals Casey Bloys
+Thu, 01 Oct 2026 06:00:07 +0000 — https://deadline.com/2026/09/ted-sarandos-netflix-wb-engagement-overall-deals-casey-bloys-1237144026/
 
-EXCLUSIVE: After acquiring Jason Pagan and Andrew Deutschman s genre script Every House Is Haunted, based on the Ian Rogers short story The House on Ashley Avenue, in 2021, Netflix has sold the project to 20th Century Studios. Adam Schindler and Brian Netto, the filmmaking duo behind the 2024 Netflix thriller Don t Move, starring Kelsey Asbille [ ]
+Appearing at Bloomberg s Screentime hours after Paramount s acquisition of Warner Bros. Discovery overcame the last hurdle when a federal judge approved the settlement with the state attorneys general, Netflix co-CEO Ted Sarandos was asked whether he regretted going after Warner Bros. given the scrutiny from Wall Street the streamer has been put under since then. [ ]
 
-### Barbershop Comedy Series Gets Prime Video Release Date; First Look At Jermaine Fowler
-Wed, 30 Sep 2026 19:23:34 +0000 — https://deadline.com/2026/09/barbershop-comedy-series-release-date-amazon-1237143526/
+### Starz Goes Dark On Verizon FiOS Amid Carriage Dispute
+Thu, 01 Oct 2026 05:40:18 +0000 — https://deadline.com/2026/09/starz-verizon-fios-carriage-dispute-1237143864/
 
-Prime Video has set a winter premiere date for Barbershop, starring Jermaine Fowler. It s upcoming comedy series inspired by the film franchise will launch with all eight episodes on February 10, exclusively on Prime Video in more than 240 countries and territories worldwide. The streamer also released two first-look photos, which you can see above [ ]
+UPDATED: Earlier this evening, Starz warned of the potential loss of all of its channels, Starz on Demand and the Starz app through Verizon FiOs amid negotiations with Verizon on a distribution agreement. Now, the company says those channels have gone dark. Since an agreement was not reached, customers have lost access to Starz ’s [ ]
 
-### David Fincher Ending Overall Deal At Netflix
-Wed, 30 Sep 2026 19:09:46 +0000 — https://deadline.com/2026/09/david-fincher-netflix-ends-1237131879/
+### Ben Affleck Doesn t Worry About SkyNet When It Comes To AI; It’s Another Form Of Computing
+Thu, 01 Oct 2026 04:34:56 +0000 — https://deadline.com/2026/09/ben-affleck-interview-netflix-1237144068/
 
-Three-time Oscar nominated filmmaker David Fincher has decided not to renew his deal at Netflix, we ve confirmed. The deal expires next year. Fincher isn t necessarily taking a hike anywhere, and could be in business with Netflix again in the near future. Fincher has been at Netflix since they blasted off as a streamer, executive producing [ ]
+Donald Trump could have done a lot worse than inviting Ben Affleck to his AI lunch with tech CEOs this week at the White House. Unlike the heads of OpenAI, Anthropic, Meta and more, the Oscar winner and InterPositive founder isn t playing defense or doom and gloom when it comes to the quickly evolving technology [ ]
 
 ## befores & afters
+
+### Here s what you didn t know about the Speed bus jump
+Thu, 01 Oct 2026 11:06:39 +0000 — https://beforesandafters.com/2026/10/01/heres-what-you-didnt-know-about-the-speed-bus-jump/
+
+How a real bus was jumped over a ramp, and how that stunt did not go according to plan. Check out this brand new episode of Great Moments in Effects History on the bus jump in Speed , done with an actual bus! Plus, the incredible VFX work by Sony Pictures Imageworks and VIFX. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Here s what you didn t know about the Speed bus jump appeared first on befores & afters .
+
+### Watch this SideFX presentation on Rodeo FX’s VFX for s3 of ‘House of the Dragon’
+Thu, 01 Oct 2026 06:38:49 +0000 — https://beforesandafters.com/2026/10/01/watch-this-sidefx-presentation-on-rodeo-fxs-vfx-for-s3-of-house-of-the-dragon/
+
+Dragons! Burning! The post Watch this SideFX presentation on Rodeo FX’s VFX for s3 of ‘House of the Dragon’ appeared first on befores & afters .
 
 ### Looking back at the VFX of Endgame
 Tue, 29 Sep 2026 12:08:38 +0000 — https://beforesandafters.com/2026/09/29/looking-back-at-the-vfx-of-endgame/
 
 Boom! A new magazine! Issue #66 of befores & afters mag covers the visual effects of Avengers: Endgame. DIGITAL MAGAZINE members can download the issue right now from the shop post. After Anthony and Joe Russo’ Avengers: Endgame was released in 2019, I was lucky enough to explore the visual effects of this massive film in several online articles at befores & afters . A number of stories were published, breaking down the character work and major battles. In anticipation of Avengers: Doomsday , Endgame has been re-released theatrically as an extended version, known as Encore . This seems like the perfect time for befores & afters’ own kind of encore publication relating to Endgame to come out, for the first time in magazine form. In this special issue of the magazine, I’ve collected the various pieces of visual effects coverage about the 2019 film, where I spoke with production visual effects supervisor Dan DeLeeuw and production visual effects producer Jen Underdahl, as well as visual effects vendor supervisors from the studios I was able to speak to at the time: Weta Digital, Digital Domain, Framestore, Industrial Light & Magic and Lola VFX. You can also grab the issue in PRINT from Amazon (that’s the US store, make sure you try your local Amazon store, too). Here’s the links to various Amazon stores: USA: https://www.amazon.com/dp/B0HLCV8GB5 UK: https://www.amazon.co.uk/dp/B0HLCV8GB5 Canada: https://www.amazon.ca/dp/B0HLCV8GB5 Germany: https://www.amazon.de/dp/B0HLCV8GB5 Fra
 
-### This breakdown of how Blender was used on Backrooms is awesome
-Tue, 29 Sep 2026 06:36:38 +0000 — https://beforesandafters.com/2026/09/29/this-breakdown-of-how-blender-was-used-on-backrooms-is-awesome/
-
-Amazing presentation by Calvin Romeyn, associate visual effects supervisor, at Blender Conference 2026. And yes, there s a HUGE magazine coming on Backrooms! Which includes a ton of fun info from Calvin and so many more crew-members, plus director Kane Parsons. The post This breakdown of how Blender was used on Backrooms is awesome appeared first on befores & afters .
-
-### On The Set Pic: Resident Evil
-Tue, 29 Sep 2026 03:38:41 +0000 — https://beforesandafters.com/2026/09/29/on-the-set-pic-resident-evil/
-
-Director Zach Cregger on the set of Resident Evil. Photo by: Dušan Martinček. © 2026 CTMG, Inc. All Rights Reserved. The post On The Set Pic: Resident Evil appeared first on befores & afters .
-
 ## IndieWire
+
+### East of Eden Review: Zoe Kazan s Magnificent Netflix Epic Will Knock You Over
+Thu, 01 Oct 2026 07:01:00 +0000 — https://www.indiewire.com/criticism/shows/east-of-eden-review-florence-pugh-netflix-series-1235218904/
+
+A smart, gorgeous, and richly provocative adaptation of John Steinbeck's classic novel follows an American family across generations, with extra attention paid to the brutal and remarkable woman who sends them reeling: Cathy Ames (Florence Pugh).
+
+### Indie Memphis Announces 2026 Festival Lineup, Including Once Upon a Time in Harlem and The Man I Love
+Thu, 01 Oct 2026 00:00:00 +0000 — https://www.indiewire.com/news/festivals/indie-memphis-2026-film-festival-lineup-1235219451/
+
+The Tennessee film festival returns for its 28th edition this November.
+
+### IndieWire s Future of Filmmaking Summit to Feature Microdrama Panel with Execs from Issa Rae s HOORAE Media
+Wed, 30 Sep 2026 23:25:11 +0000 — https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-microdrama-panel-1235219209/
+
+The team that helped turn "Screen Time" into a viral hit will break down the emerging format at IndieWire's Los Angeles event on October 17.
+
+### Dear Digger Detractors: This Tom Cruise Masterpiece Will Stand the Test of Time
+Wed, 30 Sep 2026 21:00:00 +0000 — https://www.indiewire.com/features/commentary/what-digger-critics-get-wrong-about-tom-cruise-movie-1235219265/
+
+The best movie of the year is also already the most divisive, but it represents the kind of exuberant risk-taking that made the Hollywood movies of the 1970s great.
 
 ### Neon Plans Competing SCP Foundation Movie Compliant with Creative Commons License — Unlike A24’s
 Wed, 30 Sep 2026 20:45:00 +0000 — https://www.indiewire.com/news/breaking-news/neon-scp-foundation-movie-compliant-creative-commons-a24-1235219402/
@@ -203,7 +223,7 @@ The first two episodes premiere on FX and Hulu on Wednesday, October 14.
 ### IndieWire and Disney to Celebrate Emmy Rossum and the Cast of Furious at Special Pass the Remote Screening
 Wed, 30 Sep 2026 18:59:13 +0000 — https://www.indiewire.com/news/events/indiewire-disney-furious-screening-vidiots-1235219327/
 
-Rossum will be joined by co-stars Scoot McNairy, Quincy Tyler Bernstine, and Steve Way and composer Ariel Marx at Vidiots Foundation on October 16.
+Rossum will be joined by co-stars Scoot McNairy, Quincy Tyler Bernstine, and Steve Way and composer Ariel Marx at Vidiots Foundation in Los Angeles on October 16.
 
 ### Atonement Review: Emotionally Powerful Anti-War Film Shows That Bullets Fire Both Ways
 Wed, 30 Sep 2026 17:30:52 +0000 — https://www.indiewire.com/criticism/movies/atonement-review-2026-true-war-reed-van-dyk-1235194409/
@@ -225,127 +245,107 @@ Wed, 30 Sep 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentar
 
 The "Correct Opinion" column returns to heap praise on Andrew Kevin Walker and Gavin Polone's terrifying, audacious, and unjustly maligned horror film from earlier this year.
 
-### Verity Review: Dakota Johnson and Anne Hathaway Co-Star in a Fun and Frigid Psycho-Thriller
-Wed, 30 Sep 2026 13:00:00 +0000 — https://www.indiewire.com/criticism/movies/verity-movie-review-anne-hathaway-dakota-johnson-hoover-1235218163/
-
-An obscure author is hired to ghostwrite for a catatonic lit phenom in a Colleen Hoover adaptation that explores the stories we tell ourselves about other people.
-
-### Digger Director Alejandro G. Iñárritu and Riz Ahmed on How the Year s Riskiest Movie Captures Our Demented Reality: We Are Living in a Satire
-Wed, 30 Sep 2026 12:30:00 +0000 — https://www.indiewire.com/features/interviews/digger-alejandro-inarritu-riz-ahmed-tom-cruise-interview-1235219266/
-
-The "Digger" team on Tom Cruise's dramatic transformation and the need to keep its big twist a secret.
-
-### Paramount s Streaming Plans Get Some Clarity as Cindy Holland Exits with Casey Bloys Likely Taking Over
-Tue, 29 Sep 2026 23:49:41 +0000 — https://www.indiewire.com/news/business/cindy-holland-exits-paramount-casey-bloys-streaming-1235219255/
-
-The head of Paramount's DTC division said in a memo that David Ellison is "optimizing for HBO stability" once the Warner Bros. Discovery merger is complete.
-
-### Curry Barker Will Again Make Audiences Obsessed Next Summer with Anything But Ghosts Opening May 2027
-Tue, 29 Sep 2026 20:27:17 +0000 — https://www.indiewire.com/news/breaking-news/curry-barker-anything-but-ghosts-release-date-may-2027-1235219192/
-
-Focus Features dated the "Obsession" director's next feature about wannabe ghost hunters for May 7, 2027.
-
 ## The Wrap
 
-### Neon to Produce SCP Foundation Horror Anthology Movie
-Wed, 30 Sep 2026 20:45:00 +0000 — https://www.thewrap.com/creative-content/movies/neon-scp-foundation-horror-anthology-movie/
+### Robert De Niro’s Brendan Carr Slaps Some Sense Into Jimmy Kimmel in Surprise Late-Night Appearance
+Thu, 01 Oct 2026 05:41:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/robert-de-niro-brendan-carr-spoof-jimmy-kimmel-live/
 
-Fans of SCP Foundation have even more to look forward to. Neon announced Wednesday that the studio will develop and produce a new feature based on the open-source online horror project. Releasing in 2027, the anthology film will focus on emerging filmmakers, according to Neon. SCP Foundation, created in 2008, is a Backrooms -esque online horror project that sees various Internet users contribute to a shared, community-built universe of lore. Much of this content lives on the forum SCP Wiki , revolving around a secret organization that investigates and contains supernatural and magical anomalies. Over its nearly two decades of existence and with thousands of contributors, the site has built an engaged, global fanbase and has inspired short films, web series and games, a statement from Neon reads. This isn t the only film to adapt the online horror forum in 2027 — in fact, it s not even the only one announced this month. A24 has plans to adopt the lore of the SCP Foundation universe into a new film in the V/H/S anthology franchise, titled V/H/S: SCP. When that film, from A24, Spooky Pictures and Image Nation Studios, was announced on Sept. 11, it was set to be the first film adapting the online horror/sci-fi property. The official SCP Foundation Wiki, home to much of the lore of the open-source writing project, released a statement after A24 s announcement to stipulate that the studio doesn t have exclusive rights, nor has it been in contact with the forum s admins. The staff a
+Robert De Niro made a surprise appearance during Wednesday’s episode of “Jimmy Kimmel Live!,” but not as himself, as the Oscar winner portrayed FCC Chairman Brendan Carr in a late-night bit. As Kimmel addressed his yearlong feud with the FCC during Wednesday’s monologue amid the show’s “Brooklyn Week ,” De Niro appeared onstage in a navy suit, carrying a baseball bat. I don t know if you know this, but the last time we were here in Brooklyn, we were just getting back on the air after we had that unexpected FCC vacation week , Kimmel said. And while I would like to say that things have improved over the last year, they haven t really. We are still being threatened by the FCC. De Niro s Carr then confronted Kimmel, repeatedly poking him in the chest with the bat while commenting, You re being threatened by the FCC? Who is threatening you? Am I threatening you? Do you feel threatened by me? A little. Yeah, Kimmel responded. Hey, look who it is everybody. It s the chairman of the FCC. After Kimmel asked for his name and business for being onstage, De Niro s take on the Trump official hit back with, My name is none of your f king business and This is just a routine inspection to make sure you are abiding by the terms of your license. Now if you will shut that f king mouth of yours, I have a few items I d like to discuss, he continued. Okay, let s see. It says, We have 192 instances of you poking fun at the president s appearance. Did you say the president looks like a Macy s parad
 
-### 24 Jump Street, Ridley Scott s Treasure Island Get 2027 Release Dates at Sony
-Wed, 30 Sep 2026 20:37:38 +0000 — https://www.thewrap.com/creative-content/movies/24-jump-street-release-date-treasure-island-2027/
+### ‘South Park’ Revives AI Deepfake Trump — With Predictably NSFW Results
+Thu, 01 Oct 2026 04:13:23 +0000 — https://www.thewrap.com/creative-content/tv-shows/south-park-season-29-episode-2-recap-deepfake-trump/
 
-Sony Pictures announced a slew of new release dates and shuffles to its calendar on Wednesday. 24 Jump Street opens on Dec. 10, 2027 Treasure Island opens on Nov. 11, 2027 The Surgeon opens on April 2, 2027 Narcs opens on Aug. 20, 2027 Additionally, Justin Lin s Helldivers video game adaptation starring Alan Ritchson moves from 2027 to June 9, 2028, and Godzilla Minus One filmmaker Takashi Yamazaki s Bad Robot movie Grandgear shifts up from February to Jan. 14, 2028 to take advantage of the MLK weekend. 24 Jump Street will be directed by Rodney Rothman ( Spider-Man: Into the Spider-Verse ) from a screenplay he wrote with Jonah Hill and Meghan Malloy. Hill, Channing Tatum and Ice Cube are all set to reprise their roles from the Phil Lord and Chris Miller-directed first two films in the R-rated comedy franchise. Producers are Neal H. Moritz, Phil Lord, Chris Miller, Channing Tatum, and Jonah Hill. Ridley Scott is directing Treasure Island with Hugh Jackman on board as the pirate Blackbeard and Hugh Grant and Owen Cooper also set to star. Jack Thorne wrote the adaptation of the classic Robert Louis Stevenson novel with Scott and Michael Pruss producing through the Scott Free banner. The film is described as a new take on the novel that follows a young boy who uncovers the map to a legendary buried treasure, and he embarks on a perilous sea voyage to claim a hidden fortune, only to find himself locked in a deadly battle of wits with the charismatic and treacherous pirate Long Joh
+“South Park” may have a new name , “South America,” but Season 29 of the animated comedy is back to taking the same biting shots at Donald Trump. During Wednesday s episode for South Park, Trey Parker and Matt Stone brought back the AI deepfake-version of Trump as a way to mock the billionaires of Weenietown.” As was teased heading into Wednesday night, the new episode followed Butters as he dealt with a literal Billionaire Weenietown in his backyard. Specifically, the South Park youth dealt with a number of cartoonish disembodied penises as they destroyed the area with their data centers. Butter was mostly annoyed as the weenies in-question were impacting his enjoyment of Dr. Pimple Popper, since the data centers were causing the electricity to go out. And so, he called an exterminator to try to deal with the growing problem, but was informed: “This is some new strain of billionaire. They like to go on podcasts and get into public arguments with Mark Ruffalo.” Elsewhere in the episode, the weenies fought back by buying up the local news, “as any good billionaire should.” Butters was ultimately able to relocate the problem billionaires to Nashville, Tennessee – an assumed dig at the Ellisons. And, after taking a break from the Trump jabs in the premiere , South Park was back to roasting the president. This time the animated comedy dusted off its AI deepfake of Trump, only to have him enter a public restroom, drop his trousers and proceed to go to the bathroom – before his pen
 
-### FCC Chairman Dismisses Concerns About Trump Ads Funded By Taxpayers: A Normal PSA
-Wed, 30 Sep 2026 20:23:33 +0000 — https://www.thewrap.com/media-platforms/tv/fcc-chair-calls-trump-ads-normal-psa/
+### Ben Affleck Walks Back Matt Damon s Claim Netflix Demanded Plot Repetition in Dialogue
+Thu, 01 Oct 2026 04:03:41 +0000 — https://www.thewrap.com/industry-news/tech/ben-affleck-walks-back-matt-damons-claim-netflix-demanded-plot-repetition-in-dialogue/
 
-Federal Communications Commission chairman Brendan Carr does not think there is any reason for concern about a crop of new taxpayer-funded ads supporting President Trump, calling them a normal PSA. On Wednesday, Carr addressed questions about the promos that started running last week supporting the president. Most of the questions revolved around the White House using taxpayer money to produce the ads – running around $2.5 million for the spots according to CNN. Carr, who was appointed by Trump, didn t see any difference between the Trump ads and regular PSAs. “I don’t think there’s anything unique or different about it, other than being a normal PSA: the types of PSAs that the government naturally and normally runs, Carr said. He added: What I have seen is that these are normal force PSAs that the government runs – Republicans and Democrats routinely – and there doesn’t strike me as anything at all out of the ordinary. And there’s nothing in there that strikes me that merit any sort of FCC review or any liability on any broadcaster for running a regular, normal PSA ad. The appearance of the ads prompted watchdog group Public Citizen to file a lawsuit that claimed the Trump administration violated the federal law against using taxpayer funds to finance propaganda. The complaint pushed to have the ads removed from the air by broadcasters. That the Trump administration not only failed to acknowledge and investigate last week s illegal ad, but instead doubled down and released a
+In January, Matt Damon caused a stir when he appeared with Ben Affleck on Joe Rogan s podcast and said Netflix urged the duo to restate the plot of the film three or four times for the sake of distracted viewers. The comment struck a chord because viewers have long suspected such a directive (just watch the final season of Stranger Things), but Affleck, appearing at the Bloomberg Screentime conference on Wednesday night, set the record straight. I ve never met anybody who s had a note that idiotic and brazen, Affleck said, arguing that he and Damon had tried to debunk that rumor on the podcast, only to have their words misconstrued as evidence of the practice. There s absolutely no truth to that. Netflix in March denied such a practice existed. “There’s no such principle,” film chairman Dan Lin said during a Netflix slate presentation to reporters. “If you watch our movies or TV shows, we don’t repeat our plot. So I don’t know where that comment came from … We actually all laughed when we watched that bit at the Oscars.” Affleck noted that for his upcoming Netflix film Animals, which comes out Oct. 9, executives from the streamer service didn t offer him any notes. But, even if a request like that had been made, Affleck said he wouldn t make the change. Embracing AI One thing Affleck did use in the making of Animals was AI tools — specifically, ones created from his startup, InterPositive, which Netflix acquired for nearly $600 million. While at Bloomberg Screentime, Affleck 
 
-### Disney TV Comms Chief Naomi Bulochnikov-Paul Exits After 8 Years
-Wed, 30 Sep 2026 20:11:21 +0000 — https://www.thewrap.com/media-platforms/tv/disney-tv-comms-chief-naomi-bulochnikov-paul-exits/
+### Conan O’Brien Reveals He Chose to Exit Late Night Before He ‘Was Asked to Leave’
+Thu, 01 Oct 2026 03:25:49 +0000 — https://www.thewrap.com/creative-content/tv-shows/conan-obrien-explains-late-night-exit-bloomberg-screentime/
 
-Disney TV communications chief Naomi Bulochnikov-Paul is set to exit her role after eight years at the entertainment giant. Bulochnikov-Paul, who serves as EVP of communications for Disney Entertainment Television, told staff in a Wednesday memo that she ll be leaving Disney to pursue a new opportunity. Her departure comes following that of Eric Schrier, who is exiting his role as Disney’s president of direct-to-consumer international originals, strategic programming and emerging media. It also comes after Adam Smith’s promotion to Disney Entertainment direct-to-consumer chairman. In her role, Bulochnikov-Paul oversaw Disney’s suite of brands, which includes ABC Entertainment, ABC News, Disney Kids & Family, Disney Television Studios, FX, Hulu Originals and National Geographic Content. She was also responsible for communications for platform distribution and Disney Global Advertising. Bulochnikov-Paul first joined Disney as Freeform s VP of communications and moved over to ABC Entertainment when she was promoted to the network s SVP of publicity and communications. Her role was then expanded to lead communications across Disney Entertainment TV, as well as executive comms for Disney Entertainment co-chairman Dana Walden. There is so much I will carry with me from my time here, but nothing more meaningful than the privilege of leading this incredible, powerhouse team, Bulochnikov-Paul said in the memo. Together, we’ve navigated defining moments for our company, championed our 
+Conan O’Brien reflected on his departure from late night television Wednesday evening, saying he chose to leave before reaching the 30-year milestone as the late-night landscape began to change. The comedian addressed his move from late night to podcasting during his Wednesday appearance at Bloomberg s Screentime, where he confessed that he could see which way things were going before he decided to end his TBS show, Conan, in 2021 . I knew I wanted to wrap up my late night gig soon, O’Brien recalled. I had done about 28 years between NBC, Turner, and I decided [to leave]. Some people were kind of thinking, Well, if you can go to an even 30 And I thought, I ve loved it, but you can kind of see which way things [are] going.' He added: And so, in true sort of Irish tradition, I wanted to leave the party before I was asked to leave. So I said, I know you want me to stay, but I better go.' Elsewhere in the conversation, O Brien weighed in on the state of late night, which saw the departure of Stephen Colbert s The Late Show in May . When asked to comment on networks claiming that late night TV doesn t make sense economically, O Brien highlighted how the landscape is really changing from its prior heyday. When people talk about late night, they often don t think about the bigger issue, [which] is why did it exist in the first place? he said. Network TV comes along in the late 1940s. And then, in the very late 40s, someone realizes we all go off the air at 10:30, and then an America
 
-### Tom Cruise s Digger Is In a Box Office Pickle as Warner Bros. Final Release as a Standalone Studio
-Wed, 30 Sep 2026 20:03:12 +0000 — https://www.thewrap.com/industry-news/box-office/tom-cruise-digger-box-office-tracking-opening-weekend/
+### KPop Demon Hunters Sequel Will Get a Broad Theatrical Release, Ted Sarandos Says as He Explains Longer Windows
+Thu, 01 Oct 2026 02:23:34 +0000 — https://www.thewrap.com/creative-content/movies/kpop-demon-hunters-sequel-theatrical-release-netflix-ted-sarandos/
 
-With Paramount taking ownership of Warner Bros. Discovery next week , WB s final film in its 103-year history as a standalone studio will be Digger, a satire from five-time Oscar-winning director Alejandro G. Iñárritu starring Tom Cruise as a decrepit Texas oil tycoon who must save the world from the climate apocalypse he started. But as it approaches release this Friday, its opening weekend outlook might be best described with a line from the film rumbled by John Goodman, who plays the loudmouth President of the United States: Gentlemen, we find ourselves in one dildo of a pickle. In the runup to release, independent projections for the opening weekend of Digger have not exceeded $20 million, running below the $22 million that Warner Bros. Best Picture winner One Battle After Another opened to last year. Theatrical sources told TheWrap that with three days left before release, presales for the opening day of Digger are roughly half of what One Battle earned up to this point. Warner Bros. is projecting a $12-15 million opening with the hopes that Cruise s lead performance will fuel legs that will last through the awards season. But critics will not be a boost as they are firmly divided on Digger, with some praising Cruise s lead performance and the film s biting satire while others are panning it for its dead-on-arrival humor. At time of writing, the movie has a Rotten Tomatoes score of 50% with 127 reviews logged. While TimeOut critic Philip De Semlyen said he lapped up ever
+The KPop Demon Hunters sequel will get a broad theatrical release, Netflix co-CEO Ted Sarandos revealed Wednesday while discussing the streamer s embrace of longer theatrical windows. When the K-Pop Demon Hunters sequel comes, you can expect a very broad theatrical release, Sarandos said at Bloomberg Screentime in Los Angeles on Wednesday evening. But before then, Netflix will give its first full 45-day theatrical window to La Bola Negra, and it won t be the last. Greta Gerwig s Narnia is also getting a wide theatrical release next year, as is the animated Charlie vs. the Chocolate Factory. And the David Fincher-directed, Quentin Tarantino-written, Brad Pitt-starring The Further Mis-Adventures of Cliff Booth is the first Netflix movie to get an IMAX release in November, just in time for Thanksgiving. What we re doing is looking at this model and saying, Okay, how do we serve movie lovers who may want to see this movie in a theater, and How do we not harm value to Netflix?' Sarandos said. How do we position the film best in the world? Sarandos explained that expanding the streamer s theatrical footprint aims to meet a passionate audience where they re at, explaining that movies in the box office are not necessarily bigger on Netflix. The most passionate audience went to see it in the theater, so by the time it comes to Netflix, you ve lost that passionate audience, and you got the people that go, Oh, I meant to see that, or I ll get around to that,' he said. It s why, Sarandos
 
-### Nobody Wants This Rabbi Consultant Calls Adam Brody Ignorant Over Gaza Comments
-Wed, 30 Sep 2026 19:56:28 +0000 — https://www.thewrap.com/culture-lifestyle/culture/nobody-wants-this-rabbi-consultant-calls-out-adam-brody/
+### Steve Hilton Blames Democrats for Hollywood Exodus in CA Governor Debate
+Thu, 01 Oct 2026 02:20:54 +0000 — https://www.thewrap.com/media-platforms/politics/steve-hilton-xavier-becerra-california-governor-debate-cnn/
 
-Rabbi Steve Leder, who consulted on the first season of Nobody Wants This, called out series star Adam Brody for his comments on the ongoing war in Gaza. According to Leder, Brody s ignorance really showed, and the actor should say nothing. In a recent interview with GQ , Brody was asked if he wanted to go on record with his thoughts about what s happening in Gaza, to which he responded: Put me down as thinking it s a genocide. Put me down as wanting a free Palestine. It s awful that it s taken so much death and misery, but it does feel like it s reaching a breaking point that it should have a while ago. In a video on Instagram this week, Leder called Brody s response shocking and disgusting, and opined that there is not a genocide happening in Gaza. “You by your own admission are a relatively ignorant Jew, and your ignorance really showed the other day,” Leder said. If you re going to use a word like genocide, you ought to know what it means. Brody stars in the show as Hot Rabbi Noah Roklov. Leder explained that his job on Season 1 of the Netflix series was to be a technical advisor, who made sure Brody s character was authentic, and that everything in season one about Judaism was authentic. And by the way, being so flippant about a word like genocide Hey, put me down for genocide, like you re asking for a table for two at Craig s is disgusting, Leder continued. “Here’s some technical advice: If you know nothing about something, you should say nothing about it.” Season 3 of 
+Steve Hilton, Republican candidate for California governor, blamed Democrats for Hollywood s exodus from the state. Who s been in charge when all those jobs have gone when this industry has collapsed? he said. The [California] Democrats have been in charge for 16 years, and the jobs have gone, the industries have gone, and this city, this iconic industry, is on the brink of collapse, He added: My plan to bring Hollywood home would make us competitive with the best in the world and reduce the bureaucracy and the red tape, which also has been piled on by Xavier [Becerra,] and his friends. Democratic candidate Xavier Becerra argued his experience with the first film and TV federal tax credit program makes him uniquely equipped to tackle the production crisis plaguing the state. We lost some 50,000 jobs in Los Angeles, California, from the film and movie industry. These are middle class jobs, Becerra said. I m not talking about the high paid actors. I m talking about the grips, the camera people, the people who build the sets. They make a decent living. Those jobs have left. We ve got to fight Hollywood to keep in Hollywood, and I ve said I ll do everything I can to make sure that happens. Becerra added that he would support a state tax credit as long as the state receives at least $1 in return for every dollar it provides in tax credits. The candidates participated in a one-hour debate, moderated by Jake Tapper and Dana Bash on CNN. The debate aired live on CNN, CNN Internationa
 
-### Judge Approves Paramount-Warner Bros. Merger Settlement
-Wed, 30 Sep 2026 19:42:28 +0000 — https://www.thewrap.com/industry-news/business/judge-approves-paramount-warner-bros-merger-settlement/
+### CNN Again Shut Out of White House TV Pool Amid Credential Fight
+Thu, 01 Oct 2026 02:14:12 +0000 — https://www.thewrap.com/media-platforms/journalism/cnn-shut-out-white-house-tv-pool-oct-1/
 
-Judge Araceli Martínez-Olguín has signed off on Paramount s legal settlement with 12 state attorneys general, clearing the final hurdle for its $110 billion merger with Warner Bros. Discovery. “The proposed consent decree reflects a settlement between the parties that is a fair, reasonable, and good faith approach to address the competitive harms alleged in the Complaint, and does not violate the law or public policy, Martínez-Olguín wrote in her order on Wednesday. “In years to come, we’ll be able to point to this failure to put consumers over the monied interests of corporate consolidation as the tipping-point moment for media in this country, the Block the Merger coalition said in a statement opposing the decision. Allowing the Paramount Skydance-Warner Bros. Discovery merger to move forward with no meaningful structural remedies will cost jobs, mute creativity, weaken independent journalism and damage our First Amendment rights. The ripples of this merger will be far-reaching, long-lasting, and impossible to contain. “If there is one discernible benefit to the approval of this corporate takeover, it’s that people are now wide awake and paying attention – and their anger is not going to fade away. We are going to build on this movement to stand united as creatives, policy experts, and public advocates to achieve enduring media policy change that funds and diversifies our media and safeguards its independence. We are going to ensure the government protects the interests of 
+CNN has once again been shut out of the White House’s TV pool amid its ongoing legal battle with President Donald Trump over access and press credentials. On Sunday, the White House listed CNN as the primary for TV pool duty on Oct. 1. This move was notable given Trump s White House previously blocked CNN from flying aboard Air Force One on Saturday , preventing the network from carrying out its duties to cover the president on behalf of the other major networks. However, with Trump traveling to Texas and Oklahoma Thursday, the White House released the press schedule – in which they removed CNN as the travel pool network. A representative for the White House did not immediately respond to TheWrap s request for comment. A representative for CNN confirmed to TheWrap that the network had been taken off the schedule. Additionally, the spokesperson directed TheWrap to a Monday statement from CNN s legal representation, Ted Boutrous. “As we have said from the beginning, the President’s ban of CNN, MS NOW and POLITICO from the White House is a blatant violation of the First Amendment and due process, he noted. The President and his administration have continued to make clear that this ban has only one purpose: to punish reporting he doesn’t like. That’s retaliation and viewpoint discrimination, pure and simple. With the district court’s temporary restraining order expiring this week, it is critical to ensure that the White House continues to be prevented from implementing this uncon
 
-### The Social Reckoning Tackles Jan. 6, but Doesn t Mention Trump — Aaron Sorkin Explains Why
-Wed, 30 Sep 2026 19:32:49 +0000 — https://www.thewrap.com/creative-content/movies/why-social-reckoning-doesnt-mention-trump/
+### Mark Ruffalo Bemoans Paramount Getting Approval for Warner Bros. Merger: An Incredibly Disappointing Outcome
+Thu, 01 Oct 2026 01:36:30 +0000 — https://www.thewrap.com/industry-news/deals-ma/mark-ruffalo-reacts-paramount-warner-bros-merger-approval/
 
-Aaron Sorkin had a very specific reason for wanting to keep Donald Trump s name out of The Social Reckoning. In an interview with Politico , the writer-director was asked directly why Trump s name doesn t appear once in the film s, despite it being about the 2021 Facebook leak that lead to more scrutiny over the platform s role in the rise of extremism and misinformation. Sorkin admitted that he didn t want the film to be political, but that it was impossible to avoid that in general. By not including the distraction that is Trump, he thought the film would have clean hands from being overtly political. I’m not going to deny, of course, that the movie is political, Sorkin said. I just think it shouldn’t be. There’s really no reason for it to be. I wasn’t given a directive by the studio. I delivered the script and I think the next day I was in (Sony Pictures chairman) Tom Rothman’s office, and unsolicited, I told him that in that sequence we wouldn’t see any Trump signage at all. We won’t even see red hats. We’re going to see Don’t Tread on Me, Stop the Steal. You see American flags, Confederate flags, but it won’t be about MAGA versus everybody else, or even red-blue. It’s just going to be about Facebook’s role in the rise of divisiveness, extremism and hyperpartisanship. So it was my choice. He added: It would become a distraction. I felt like as soon as we got to that scene, as soon as you saw anything Trump, it would just become about something else. Again, I realize it’s 
+Mark Ruffalo voiced his disappointment after a judge approved the Paramount-Warner Bros. merger settlement Wednesday, calling it a “bad deal for this country.” This merger will stifle creativity, weaken free speech and cost people their jobs it is a bad deal for this country and should never have been approved, the actor, who has been an outspoken critic against the $110 billion deal, wrote on X Wednesday evening. This is an incredibly disappointing outcome for the hundreds of thousands of us who stood up to block it, but it s also not the end. He continued: This grassroots movement isn t going to fade away and neither is our resolve. This was never about just one merger: this was about fighting back against corrupt oligarch billionaires trampling the interests of everyday people to line their own pockets. We re still in that fight. Join us. A representative for Bonta s office did not immediately respond to TheWrap s request for comment. A spokesperson for Paramount told TheWrap, Didn’t read it. As we mentioned, Ruffalo has repeatedly spoken out against the merger these past several months. In fact, earlier in September, the Marvel star called on California Attorney General Rob Bonta and the other state AGs to not settle the antitrust suit amid reported talks with Paramount. “Don’t you dare @AGRobBonta, do not cave,” he wrote at the time. “5670 film makers put their necks on the line for you to fight this merger. Another 75,000+ and counting have signed to tell you not to con
 
-### DraftKings CEO Says New York Times Has Been Writing Slanderous Stories About Them for a Decade
-Wed, 30 Sep 2026 19:27:08 +0000 — https://www.thewrap.com/industry-news/business/draftkings-ceo-jason-robins-responds-new-york-times-reporting/
+### Nicolas Cage Roasts Marvel Movies as a Glorified WWE With 50-Plus Actors in Ridiculous Outfits
+Thu, 01 Oct 2026 00:28:12 +0000 — https://www.thewrap.com/creative-content/movies/nicolas-cage-roasts-marvel-glorified-wwe/
 
-DraftKings CEO Jason Robins slammed the New York Times for writing slanderous stories about the sports and entertainment gaming company for a decade on Wednesday at TheWrap s Grill business conference. It s disappointing that a publication that I, at least growing up, viewed as reputable just prints complete, factually incorrect information and misleading things, Robins told The Wrap s Sharon Waxman during a panel at TheGrill 2026 alongside Eagle Equity Partners LLC CEO Harry Sloan. Robins continued: “The Times has been writing slanderous articles about us for over a decade. They usually try to release them right around the start of NFL season, and sometimes during the Super Bowl.” Robins is specifically referring to this month s story, “ How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose ,” in which the Times reporters obtained internal documents and interviewed dozens of former DraftKings staffers, many of whom are concerned that the company’s efforts were exploiting problematic gamblers. A spokesperson for the New York Times did not immediately respond to a request for comment. Robins continued: “They re saying that we re targeting people that are losing gamblers and have gaming issues, which is just completely false. Not true at all. In fact, we have sent them almost 20 pages of documents showing them what we re doing, giving them the facts, and they refuse to print any of it. So what can I do in that case? But they ve been doing this for years.” Waxman ask
+Nicolas Cage isn t a fan of the direction that comic books movies have gone, jabbing that the Marvel Cinematic Universe has become a well-funded and glorified WWE filled with otherwise intelligent, remarkably gifted thespians. The star, a vocal comic book fan, was asked about the decades-long industry wave of superhero movies onstage at Fan Expo Dallas on Saturday. It started out, in my view, terrific. Some of the early stories where Marvel is the way that they wove all the threads together and told a different character s stories and backstories, Cage said. But lately I do say this with love when I see these 50-plus, otherwise intelligent, remarkably gifted thespians putting on these ridiculous outfits and getting ready for the fight it s hard for me not to be reminded that the MCU is becoming a well-funded and glorified WWE. The remark drew laughs from the crowd. Cage went on to distinguish his recent Marvel adaptation, Prime Video s Spider-Noir series, as having different interests than the usual superhero fare. One of the things I like about Spider-Noir, it wasn t cutting to the fight. It was a detective story. There was a mystery there, Cage continued. I would like to see it get back to telling the stories and not just cutting to the wrestling match. Along with playing a noir-detective variant of Spider-Man in Spider-Noir, Cage has also starred in comic book adaptations like two Ghost Rider films, Kick-Ass and Spider-Man: Into the Spider-Verse. In 2005, he named his son 
 
-### David Fincher to Exit Netflix Deal in 2027
-Wed, 30 Sep 2026 19:25:16 +0000 — https://www.thewrap.com/industry-news/business/david-fincher-exits-netflix-deal/
+### Creatorverse: Creators Are on the Forefront of AI Whether They Like It Or Not
+Thu, 01 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/creatorverse-creators-are-on-the-forefront-of-ai-whether-they-like-it-or-not/
 
-David Fincher and Netflix are parting ways after more than a decade, with the filmmaker set to leave the streamer when his exclusive deal expires. According to reports, the director, who made “Mank,” “The Killer” and the upcoming “The Further Mis-Adventures of Cliff Booth,” along with series “House of Cards,” “Mindhunter” and “Love, Death & Robots,” will not renew his exclusive contract with the streaming giant. The deal expires next year. It’s unclear what, if anything, led to the split, but rumors have persisted that Netflix did not acquiesce to all of Fincher’s demands during the production of “The Further Mis-Adventures of Cliff Booth,” a highly anticipated follow-up to Quentin Tarantino’s “Once Upon a Time in Hollywood” that sees Brad Pitt returning to the role of stuntman Cliff Booth (the role that won him an Academy Award in 2020). Tarantino wrote the screenplay for the new movie and produced the film. According to unsubstantiated reports , after principal photography, Fincher asked for significantly more time to reshoot/reconfigure the movie; Netflix finally relented but not with the budget or resources that Fincher asked for. Still, the movie is barreling towards its November 25 Imax release, ahead of a December 23 debut on the service. Recently, Netflix also canceled development on Fincher’s Americanized “Squid Game” series “Heckler.” Other projects that Fincher had worked on at Netflix included a “Chinatown” spinoff series, a western feature called “Bitterroot” and
+Hey Creatorverse readers, “There’s no magic button.” That remark about AI from Nik Kleverov, the co-founder and CCO of the AI-focused storytelling platform Native Foreign, best summed up the tone of TheWrap and What’s Trending’s first ever AI Creator Day. A deep dive into how the creator ecosystem interacts with the emerging technology, the daylong event at UCLA was the precursor to TheGrill 2026. There was overall a positive tone to the day (and way more hype-up screaming than you would expect). Most of the attendees were either creators who use generative AI to make content or professionals directly connected to the AI industry. But though the event was more pro-AI than the average theater full of hundreds of people, there was a note of caution woven throughout the event. Repeatedly, panelists emphasized that AI is here to stay, and the top studios are already using it. If you’re not, you may already be behind. Jon Flynn, the executive vice president and head of FoxNXT for Fox Entertainment, revealed that Fox Entertainment has seen creatives incorporate potential AI savings into their pitches. Don Allen III, director of A.R.T (Asteria Research and Technology), said that he’s started using AI to make personalized client briefs and cautioned AI storytellers “If you’re going to tell AI stories, then you have to have really good stories.” But perhaps one of the most surprising stories came from comedian Vincent Marcus, a creator who has embraced the AI character creation tool C
 
 ## Collider
 
-### The 10 Most Unhinged Action Movies, Ranked
-Wed, 30 Sep 2026 20:55:11 GMT — https://collider.com/most-unhinged-action-movies-ranked/
+### Alan Ritchson’s World War II Thriller Flop Finds Retribution on Netflix
+Thu, 01 Oct 2026 11:04:12 GMT — https://collider.com/alan-ritchson-guy-ritchie-ministry-of-ungentlemanly-warfare-streaming-netflix-october-2026/
 
-There are action movies , and then there are unhinged action movies. Unhinged here is certainly not the Bollywood’s unhinged action . And while the goal is to not to take a jab at Bollywood , I want to zero-in on unhinged action movies with substance. Look, there is a point where an action movie stops asking whether something is plausible and starts asking a much better question: would this be incredible if somebody actually committed to it? That is where the good stuff lives.
+There are two types of war movies: those that try to capture the reality of conflict, and those that embrace the fantasy. For every hard-hitting Saving Private Ryan or All Quiet on the Western Front , there’s a Great Escape or Inglourious Basterds , which use real life as the basis for more crowd-pleasing entertainment. Made in 2024, The Ministry of Ungentlemanly Warfare is firmly in the latter category. Directed by Guy Ritchie , and starring Henry Cavill alongside Alan Ritchson , the film is currently a huge hit on the Netflix charts, despite having only earned back one half of its budget at the box office. And with its fantastical spin on a real-life story, it’s clear to see why streaming audiences are flocking to it.
 
-### Forget 'Law & Order: SVU,' This 4-Part Crime Series Has "TV’s Best New Detective Duo"
-Wed, 30 Sep 2026 20:53:12 GMT — https://collider.com/best-british-crime-series-cooper-and-fry/
+### 90 Years Later, the Bride of Frankenstein Is Officially Getting Her Own Story [Exclusive]
+Thu, 01 Oct 2026 11:01:12 GMT — https://collider.com/bride-of-frankenstein-lives-original-title-horror-kelly-thompson/
 
-For 12 seasons, Law & Order: SVU proved that a detective duo is a powerful force to lead a crime show. With leads Olivia Benson ( Mariska Hargitay ) and Elliot Stabler ( Christopher Meloni ), the central duo investigated cases, interrogated suspects, found culprits and had fans rooting for them at the edge of their seats. So, it's perhaps no surprise when new detective shows have two detectives front and center instead of one.
+The Bride of Frankenstein has one of the most recognizable looks in horror, despite getting only a few minutes to exist in the 1935 movie . She comes into existence, recoils from the Creature , and is gone almost as quickly as she appeared. We know what everyone else wanted her to be, but almost nothing about what she wanted for herself. That absence gives writer Kelly Thompson and artist Mattia De Iulis room to explore in their upcoming four-issue series, Universal Monsters: The Bride of Frankenstein Lives .
 
-### The 8 Most Fun Detective Shows, Ranked
-Wed, 30 Sep 2026 20:51:12 GMT — https://collider.com/most-fun-detective-shows-ranked/
+### 7 Best Low Fantasy TV Shows With Perfect Magic Systems
+Thu, 01 Oct 2026 10:54:11 GMT — https://collider.com/low-fantasy-tv-shows-perfect-magic-systems/
 
-There’s nothing quite like the thrill of a good whodunit—except when that whodunit comes packed with sharp wit, quirky characters, and infectious energy. While classic crime dramas often lean into grit, suspense, and dark realism, the best and most fun detective shows such as Only Murders in the Building , Columbo , and Sherlock manage to balance clever puzzle-solving with pure entertainment value, setting them apart from other crime-cracking shows.
+While high fantasy shows are excellent for escaping from the real world and into complex, far-away ones, there's truly nothing like a great low fantasy show. The best low fantasy shows are grounded in the real world or a version of it, but the main storylines are driven by some sort of fantastical or supernatural element. This can look like shows that explore how fantastical beings exist alongside humans in the real world, as well as those that show normal people suddenly having to adjust to learning about the existence of the fantastical.
 
-### 8 Worst Book-to-Movie Adaptations Ever, Ranked
-Wed, 30 Sep 2026 20:28:11 GMT — https://collider.com/worst-book-to-movie-adaptations-ever-ranked/
+### Russell Crowe's New True Crime Thriller Is Officially Netflix’s No. 1 Movie
+Thu, 01 Oct 2026 10:30:11 GMT — https://collider.com/russell-crowe-crime-thriller-unabomber-streaming-success-netflix-september-2026/
 
-Adapting a beloved book for the screen is always a risky game. Readers come in with vivid worlds already built in their minds, fiercely attached to characters, themes, and all the small details that made the story resonate in the first place. Sometimes, a film can capture that magic perfectly. Other times, it can miss the point entirely — even if the movie itself isn't necessarily bad.
+True crime remains one of Netflix 's most reliable obsessions, and its latest dramatization of one of America's most infamous criminal investigations hasn't taken particularly long to find an enormous audience. Throw Russell Crowe into the story as a controversial Harvard psychologist, and apparently you've got Netflix's latest global hit.
 
-### The 9 Greatest Fiction Books Written by Screenwriters
-Wed, 30 Sep 2026 19:20:11 GMT — https://collider.com/best-fiction-books-by-screenwriters/
+### 15 Best Episodes of 'Batman: The Animated Series', Ranked
+Thu, 01 Oct 2026 10:03:11 GMT — https://collider.com/batman-the-animated-series-best-episodes-ranked/
 
-Each type of writer has a unique set of strengths, screenwriters included. The fact that they have to stick to the strict constraints of the film industry and make writing that is visual first and foremost makes it so that, throughout history, when screenwriters have dared to become novelists, it has resulted in some of the most interesting books the world has ever seen. Whether they were novelists first and screenwriters second or the other way around, authors like Alex Garland and Mario Puzo have given us some fascinating literary works throughout the years.
+There are few shows that can reach the heights of Batman: The Animated Series . It pushed the boundaries of what children's entertainment could get away with at the time with its dark tone, complex characters, and iconic art style. Thanks to an all-star cast of writers and voice actors, it has become many people's definitive version of Batman and his villains .
 
-### ‘Ted Lasso’ Stars Tease “Hopeful” Season 4 Finale After That Major Turning Point for the Team
-Wed, 30 Sep 2026 19:00:11 GMT — https://collider.com/ted-lasso-season-4-abbie-hern-tanya-reynolds-interview/
+### ‘Baldur’s Gate 3’ Star Had No Idea About the Game’s Romance Until It Was Time to Record It [Exclusive]
+Thu, 01 Oct 2026 10:00:11 GMT — https://collider.com/baldurs-gate-3-star-gale-romance-tim-downie-surprise/
 
-Editor's Note: The following contains spoilers for Ted Lasso Season 4, Episode 9.
+Gale of Waterdeep is rarely at a loss for words. He can explain a complicated spell, talk through a crisis, and find time to charm the person standing next to him . The actor playing him, however, had no idea just how far that charm would go when he started recording Baldur’s Gate 3 . Tim Downie recently revealed that he came into the project with very little information. It was his first video game role, and even after he was cast, he had to discover Gale’s personality through the scripts he received in the studio. The work went on for months before a routine Wednesday session introduced him to a part of the game everyone else apparently assumed he knew about.
 
-### Harlan Coben Officially Names the One Netflix Character He’d Bring Back [Exclusive]
-Wed, 30 Sep 2026 19:00:11 GMT — https://collider.com/harlan-coben-the-stranger-return-exclusive/
+### ‘The Office' Officially Meets 'Back to the Future' in New Thriller Set for 2027 Release
+Thu, 01 Oct 2026 09:31:11 GMT — https://collider.com/paradox-inc-sci-fi-book-release-window-january-2027/
 
-Crime thrillers have a perfect place in the Netflix catalog. At any given time, an indulgent, twisting mystery is proving popular on the streamer's top ten. This past year, some of the most-watched shows on Netflix have been crime thrillers, including writer Chris Chibnall 's Agatha Christie's Seven Dials , the latest installment in Rian Johnson 's acclaimed Knives Out series, Wake Up Dead Man: A Knives Out Mystery , and not one but two new thrillers from writer Harlan Coben .
+Silicon Valley has given us a lot of positive things, and a lot of, well, questionable people in its time. The home of technology and artificial intelligence, where Big Tech becomes so important to us that the world could collapse without it. Well, imagine if they also found away to commercialize time travel? Yes, it's not good. That's the setup behind the next huge sci-fi project that's somewhere between The Office and Back to the Future , with the filmmakers behind Project Hail Mary helping bring it to the big screen.
 
-### ‘Outlander’ Star’s New Jane Austen Movie Is Officially a Must-Watch With New Trailer
-Wed, 30 Sep 2026 18:57:16 GMT — https://collider.com/sense-and-sensibility-trailer-daisy-edgar-jones-george-mackay/
+### The 10 Greatest MTV Unplugged Rock Performances of the 90s
+Thu, 01 Oct 2026 09:05:11 GMT — https://collider.com/the-10-greatest-mtv-unplugged-performances-of-the-90s/
 
-Jane Austen is one of the most-adapted authors in the canon of English literature, and the latest silver screen interpretation of her first novel, Sense and Sensibility , is headed to theaters this fall. Georgia Oakley 's new rendition of the novel, which stars Outlander 's Caitríona Balfe in her first major role since that series concluded earlier this year, will premiere in US theaters on October 16. You can get a first look at the film in a new trailer.
+It's difficult to overstate the importance MTV had on the music industry throughout the 80s, 90s, and 2000s. The channel was ground zero for discovering new artists and music, while keeping viewers plugged into the latest entertainment news and trends. Long before social media and streaming put everything at our fingertips, MTV was a cultural hub and an essential destination for music fans eager to consume all things pop culture.
 
-### Netflix’s ‘Jack Ryan’ Replacement Thriller Officially Sets Final Season Return
-Wed, 30 Sep 2026 18:47:51 GMT — https://collider.com/the-night-agent-season-4-wraps-filming-release-window-2027-netflix/
+### 7 Must See Movies on Netflix this October
+Thu, 01 Oct 2026 09:04:11 GMT — https://collider.com/must-see-movies-on-netflix-this-october/
 
-Netflix came into the year riding hot off the final season of Stranger Things , and the platform has continued to deliver new hits month after month. Netflix didn’t take long to release its first big movie of the year with The Rip , the Miami-set crime thriller starring Matt Damon and Ben Affleck . Damon and Affleck have been working together for 30 years now, but their work on The Rip is some of the most exhilarating of their shared career. Netflix then dropped one of its top 10 biggest movies of all time in War Machine , the big-budget sci-fi thriller starring Alan Ritchson . Ritchson is best known for his role as Reacher in Prime Video’s Reacher series, which was recently renewed for Season 6 before production on Season 5 was complete.
+Netflix has developed one of the best horror catalogs this month, with the service all set to capitalize on the scare-craze with Halloween just around the corner. The streamer recently added Knock At the Cabin , which has already shot up to number five on the list of most watched on Netflix from this past week. A second wind for a film that was largely missed and overlooked during its theatrical release. There is a large crop of movies with the potential to join it on that list, but Netflix has done a nice job of diversifying its portfolio in recent months to include older classics weaved in with binge worthy shows, holiday scares and its lineup of Netflix originals.
 
-### Every 2026 National Book Award Fiction Longlister, Ranked
-Wed, 30 Sep 2026 18:22:11 GMT — https://collider.com/2026-national-book-award-fiction-longlisters-ranked/
+### Tom Cruise and Alejandro G. Iñárritu’s New Movie Is a Massive Swing Hollywood Rarely Takes Anymore
+Thu, 01 Oct 2026 09:01:11 GMT — https://collider.com/digger-john-goodman-jesse-plemons-michael-stuhlbarg-interview/
 
-One transports you to a Turkish prison through a bathroom door. Another strands you at LAX alongside an estranged father and daughter, watching flights continually disappear from the board. Another injects you inside a mob that's crashing through a door in Kingston, where you discover eight gay men — one of whom doesn't know it's some of his final moments — rehearsing a play.
+What Academy Award-winning filmmaker Alejandro G. Iñárritu is doing in film is almost unheard of in Hollywood right now. Pair his visionary direction with Tom Cruise as the lead in Digger , and you have an unusual duo going toe-to-toe with the type of blockbusters audiences have come to expect from Cruise — and according to co-star Jesse Plemons , this performance is “ going to be a surprise for a lot of people .”
 

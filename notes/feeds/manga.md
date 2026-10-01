@@ -1,72 +1,77 @@
-# Manga — harvested 2026-09-30T21:00:11.829Z
+# Manga — harvested 2026-10-01T11:10:41.722Z
 
 ## Anime News Network
+
+### Shin Oishinbo TV Anime Streams Teaser Video
+Thu, 01 Oct 2026 05:57:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/shin-oishinbo-tv-anime-streams-teaser-video/.242377
+
+New anime starring Yōhei Azakami as protagonist Shirō Yamaoka debuts next year
+
+### Netflix to Stream Dragon Ball Super: Beerus Anime
+Thu, 01 Oct 2026 05:17:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/netflix-to-stream-dragon-ball-super-beerus-anime/.242369
+
+Anime starts streaming in U.S. on October 17, in selected areas on October 14
+
+### Yasuaki Mikami's Looks like a Job for a Maid! Light Novels Get TV Anime
+Thu, 01 Oct 2026 05:03:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/yasuaki-mikami-looks-like-a-job-for-a-maid-light-novels-get-tv-anime/.242376
+
+Story of falsely accused then dismissed supermaid launched in 2021
+
+### Twice's TZUYU Sings for DAN DA DAN's Atlassian Williams F1 Racing Team Collaboration
+Thu, 01 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-01/twice-tzuyu-sings-for-dan-da-dan-atlassian-williams-f1-racing-team-collaboration/.242309
+
+Atlassian Williams: “Speed Meets Supernatural ... and now, it has a voice🔥”
+
+### Glasses With a Chance of Delinquent Anime's Teaser Reveals Cast, April 2027 TV Debut
+Wed, 30 Sep 2026 23:45:13 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/glasses-with-a-chance-of-delinquent-anime-teaser-reveals-cast-april-2027-tv-debut/.242364
+
+Hiroto Shimizu, Suzuko Hara, Yuma Tomochika join cast
+
+### Smells Like Green Spirit's Saburō Nagai Launches New Manga
+Wed, 30 Sep 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/smells-like-green-spirit-saburo-nagai-launches-new-manga/.242324
+
+<cite>Iei ga Nai!</cite> BL manga debuted on September 29
+
+### Thunder 3 Anime Gets 2nd Season in 2027
+Wed, 30 Sep 2026 19:16:23 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/thunder-3-anime-gets-2nd-season-in-2027/.242360
+
+Season 1 from Gantz creator Hiroya Oku (as Yuki Ikeda) ended on Wednesday
+
+### Bottom-Tier Character Tomozaki Novels End with 12th Volume
+Wed, 30 Sep 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/bottom-tier-character-tomozaki-novels-end-with-12th-volume/.242356
+
+Final novel ships on October 16
+
+### Chiikawa Anime Film Drops to #2, Star Detective Precure! Film Stays at #3
+Wed, 30 Sep 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/chiikawa-anime-film-drops-to-no.2-star-detective-precure-film-stays-at-no.3/.242305
+
+<cite>Cosmic Princess Kaguya!</cite> drops to #10
+
+### New Obocchama-kun Anime Airs on TV in Japan in 2027 (Updated)
+Wed, 30 Sep 2026 16:48:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/new-obocchama-kun-anime-airs-on-tv-in-japan-in-2027/.242357
+
+Chie Kōjiro reprises role of Obocchama-kun from original 1989 anime
+
+### Thunder 3 ‒ Episode 12
+Wed, 30 Sep 2026 16:32:40 -0400 — https://www.animenewsnetwork.com/review/thunder-3/episode-12/.242358
+
+For any other poor souls who endured this first season with me to the end, I'm sure they're just as dissatisfied with the lack of an actual conclusion.
 
 ### Idea Factory Announces New Adventure Game Brand, 1st Project ICONOLOGY
 Wed, 30 Sep 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/idea-factory-announces-new-adventure-game-brand-1st-project-iconology/.242355
 
 IFChronicle's <cite>ICONOLOGY</cite> game in development for Switch, PC via Steam
 
-### Kanojo wa Uso o Ai Shisugiteru Manga Gets New Story
-Wed, 30 Sep 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/kanojo-wa-uso-o-ai-shisugiteru-manga-gets-new-story/.242323
-
-New work commemorates 10th anniversary of Kotomi Aoki's manga
-
-### Crunchyroll to Stream Super Psychic Policeman Chojo, Dandivine, Full Clearing Another World Under a Goddess with Zero Believers, More Anime
-Wed, 30 Sep 2026 13:20:56 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/crunchyroll-to-stream-super-psychic-policeman-chojo-dandivine-full-clearing-another-world-under-a-/.242347
-
-Also: <cite>TOUGEN ANKI: Nikko Kegon Falls Arc</cite>, <cite>The Cold Sato-san is Only Sweet to Me</cite>, more
-
-### Shonen Jump+ Cuts Ties With Chainsaw Man Editor Shihei Lin, His Company Mix Green
-Wed, 30 Sep 2026 12:24:32 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/shonen-jump-cuts-ties-with-chainsaw-man-editor-shihei-lin-his-company-mix-green/.242346
-
-Lin states that Mix Green will still handle editorial duties for <cite>SPY×FAMILY, Dandadan, Centuria, WITCHRIV</cite>
-
-### Horror Collector Volumes 2-4 Light Novel Review
-Wed, 30 Sep 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/horror-collector/volumes-2-4/.241914
-
-That’s part of what makes for successful children’s horror fiction: not even the grown-ups can keep you safe.
-
-### Red River ‒ Episode 13
-Wed, 30 Sep 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-13/.242345
-
-True crime fans, this episode of <i>Red River</i> is for you.
-
-### Seirei Gensouki - Spirit Chronicles Anime Gets 3rd Season
-Wed, 30 Sep 2026 11:08:08 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/seirei-gensouki-spirit-chronicles-anime-gets-3rd-season/.242344
-
-2nd season aired in October 2024
-
-### New Magic Knight Rayearth's Rie Takahashi and Saori Hayami Share the World of Cefiro
-Wed, 30 Sep 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/new-magic-knight-rayearth-rie-takahashi-and-saori-hayami-share-the-world-of-cefiro/.239699
-
-We caught up with voice actors Rie Takahashi and Saori Hayami to discuss their roles as the Magic Knight Fū and Princess Emeraude from CLAMP's beloved series.
-
-### One Piece (2026-) ‒ Episode 1180
-Wed, 30 Sep 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/one-piece/episode-1180/.242326
-
-The deep shadows and lighting changes alongside shocked expression work from the onlookers all do a great job selling the sheer terror of the events on display.
-
-### Witch on the Holy Night Film's Final Trailer Unveils Staff, Theme Song
-Wed, 30 Sep 2026 08:13:50 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/witch-on-the-holy-night-film-final-trailer-unveils-staff-theme-song/.242342
-
-supercell performs "Yoru to Ao" theme
-
-### Aoki Denshō Welsh & Shedar Anime Casts Risa Hayamizu
-Wed, 30 Sep 2026 07:34:51 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/aoki-densho-welsh-and-shedar-anime-casts-risa-hayamizu/.242341
-
-Hayamizu voices Welsh's adoptive mother Mama Caroni in October 2 anime
-
-### The World's Strongest Witch Anime Casts Nana Mizuki
-Wed, 30 Sep 2026 06:38:21 -0400 — https://www.animenewsnetwork.com/news/2026-09-30/the-world-strongest-witch-anime-casts-nana-mizuki/.242339
-
-Mizuki voices world tree spirit Yggdrasil in episode 1 on October 7
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Bottom-Tier Character Tomozaki Light Novel To Conclude With 12th Volume
+Thu, 01 Oct 2026 09:28:13 GMT — https://animecorner.me/bottom-tier-character-tomozaki-light-novel-to-end-with-12th-volume/
+
+Yuki Yaku has announced that the Bottom-tier Character Tomozaki light novel will end with&hellip;
 
 ### Interview: MindaRyn on her Anisong Music Journey, "Calling Back" Asia Tour, and Jollibee
 Wed, 30 Sep 2026 18:29:55 GMT — https://animecorner.me/interview-mindaryn-on-her-anisong-music-journey-calling-back-asia-tour-and-jollibee/
@@ -98,17 +103,22 @@ Wed, 30 Sep 2026 04:47:21 GMT — https://animecorner.me/interview-junko-takeuch
 
 Junko Takeuchi is a voice actor uniquely capable of delivering performances for the kinds&hellip;
 
-### Re:ZERO Season 4 Episode 19 (Finale) Preview Revealed
-Tue, 29 Sep 2026 09:00:59 GMT — https://animecorner.me/rezero-season-4-episode-19-finale-preview-revealed/
-
-Re:ZERO Season 4 has revealed the Episode 19 (Episode 85 overall) preview ahead of its September 30, 2026 premiere.
-
 ## MyAnimeList News
+
+### Light Novel Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita Gets TV Anime
+Wed, 30 Sep 2026 21:58:24 -0700 — https://myanimelist.net/news/74778514?_location=rss
+
+Publishing company Earth Star Entertainment announced a television anime adaptation of Yasuaki Mikami s Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita (Looks Like a Job for a Maid! The Tales of a Dismissed Supermaid) light novel on Thursday, revealing an announcement promo. Mikami began penning the fantasy adventure story on the Shousetsuka ni Narou website in September 2021. Earth Star Entertainment began publishing the light novel under it...
+
+### Megane, Tokidoki, Yankee-kun Unveils Main Cast, Second Teaser Promo for Spring 2027
+Wed, 30 Sep 2026 20:35:01 -0700 — https://myanimelist.net/news/74778320?_location=rss
+
+The official website for the television anime adaptation of Naruki&rsquo;s Megane, Tokidoki, Yankee-kun (Glasses with a chance of Delinquent) manga unveiled the main cast and a second teaser promotional video on Thursday. The anime is scheduled to premiere in April 2027 on ABC TV and TV Asahi s nationwide network including the ANiMAZiNG!!! program. It will also stream on ABEMA and air on BS11. Cast Dan Ichikura: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Hiro Momose: Suzuko hara (Barakamon...
 
 ### Thunder 3 Second Season Announced for 2027
 Wed, 30 Sep 2026 10:28:28 -0700 — https://myanimelist.net/news/74776633?_location=rss
 
-The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Yuuki Ikeda s supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Ikeda serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volu...
+The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Hiroya Oku s supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Oku serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volume...
 
 ### Fall 2026 Simulcast List
 Wed, 30 Sep 2026 10:18:51 -0700 — https://myanimelist.net/news/74776601?_location=rss
@@ -145,21 +155,6 @@ Wed, 30 Sep 2026 02:39:21 -0700 — https://myanimelist.net/news/74775638?_locat
 
 The official website for the television anime adaptation of Kotoko and Kaname Hanamiya s Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu (The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me) web manga revealed additional cast, staff, a first key visual (pictured), and the first promotional video on Wednesday. The anime will premiere on Tokyo MX, BS Nippon, AT-X, CBC TV, and other stations in January 2027. Voice actors Shuni...
 
-### Kyouran Reijou Nia Liston Announces Additional Cast
-Tue, 29 Sep 2026 02:23:01 -0700 — https://myanimelist.net/news/74773120?_location=rss
-
-The official website for the television anime adaptation of Umikaze Minamino s Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei naru Musouroku (Nia Liston: The Merciless Maiden) light novel announced additional cast Tuesday. The anime series will air for two consecutive cours, beginning on October 6 at 9:25 p.m. on Tokyo MX, followed by BS Nippon TV and MBS. Cast Essera Blanket: Saeko Kamijou (Enen no Shouboutai) Raffine Silver: Hitomi Ueda (Uma Musum...
-
-### Light Novel Sekai Saikyou no Majo, Hajimemashita Ends with 6th Volume
-Mon, 28 Sep 2026 22:04:25 -0700 — https://myanimelist.net/news/74772660?_location=rss
-
-Publishing company Square Enix announced on Wednesday that Mochimaru Sakaki s Sekai Saikyou no Majo, Hajimemashita: Watashi dake "Kouryaku Site" wo Mireru Sekai de Jiyuu ni Ikimasu (The World s Strongest Witch: I m Starting My Free Life in a World Where Only I Can See the Online Strategy Guide) light novel will end with its sixth volume on October 7. Sakaki began penning the fantasy adventure series on both the Shousetsuka ni Narou and Kakuyomu websites simultaneously in...
-
-### Hirayasumi Unveils Main Cast, Second Teaser Promo
-Mon, 28 Sep 2026 16:57:54 -0700 — https://myanimelist.net/news/74772034?_location=rss
-
-The official website for the television anime adaptation of Keigo Shinzou s Hirayasumi manga revealed the main cast, a key visual (pictured), and a second teaser promotional video on Tuesday. The anime is scheduled to premiere on NHK-G in January 2027. Cast Hiroto Ikuta: Yuuma Uchida (Fruits Basket 1st Season) Natsumi Kobayashi: Mayu Takahashi (Long Zu II: Daowangzhe Zhi Tong) Hanae Wada: Rikako Aikawa (Pokemon Sun &amp; Moon) Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -175,9 +170,4 @@ New shows include: From Far Away, Super Psychic Policeman Chojo, HORROR COLLECTO
 Wed, 30 Sep 2026 09:00:12 +0000 — https://animeuknews.net/2026/09/i-want-to-love-you-till-your-dying-day-volumes-4-5-and-6-review/
 
 With its anime adaptation drawing to a close, we return to Nachi Aono's original manga.
-
-### Villains Are Destined to Die Volumes 6 and 7 Review
-Tue, 29 Sep 2026 09:00:05 +0000 — https://animeuknews.net/2026/09/villains-are-destined-to-die-volumes-6-and-7-review/
-
-After the hunting tournament, Penelope finds herself in the middle of an ancient war that could destroy the world if the re-appearance of the Duke's 'real' daughter doesn't end her first...
 
