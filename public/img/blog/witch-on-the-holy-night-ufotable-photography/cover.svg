@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7A2E6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="170" fill="#E9D8F2" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">WITCH ON THE HOLY NIGHT</text>
+  <text x="80" y="330" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700">撮影</text>
+  <text x="80" y="420" fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif" font-size="62" font-weight="700">Photography</text>
+  <text x="80" y="490" fill="#C9A8DA" font-family="Helvetica, Arial, sans-serif" font-size="40">means compositing, and at ufotable</text>
+  <text x="80" y="545" fill="#C9A8DA" font-family="Helvetica, Arial, sans-serif" font-size="40">it is the department that decides</text>
+  <text x="80" y="600" fill="#C9A8DA" font-family="Helvetica, Arial, sans-serif" font-size="40">what the film looks like.</text>
+  <text x="80" y="800" fill="#9A7BAE" font-family="Helvetica, Arial, sans-serif" font-size="30" letter-spacing="3">YUICHI TERAO — DIRECTOR OF PHOTOGRAPHY</text>
+</svg>
