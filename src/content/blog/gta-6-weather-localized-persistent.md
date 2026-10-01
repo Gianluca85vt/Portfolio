@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Pipeline: persistent surface wetness means state that has to be saved, streamed and resolved at region boundaries — the stage where this class of system historically produces seams an artist gets asked to hide."
     - "Communication: Rockstar declined to say how often hurricanes occur or whether they touch the story, which leaves open whether this is a simulation or a scripted set piece wearing simulation clothes."
-draft: true
 ---
 
 Owen Shepherd, Rockstar's vice president of art for lighting and rendering,
