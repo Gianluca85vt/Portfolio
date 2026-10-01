@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scope: three minutes across two or three locations proves a corridor, not a game. Boss arenas and the Nexus hub are where frame times historically fall apart."
     - "Performance: 40-50 FPS came off an i9-14900K and an RTX 5090 to reproduce a machine that holds 60 on its own silicon, so the translation is still costing roughly an order of magnitude in hardware."
-draft: true
 ---
 
 Demon's Souls booted on a PS5 emulator on 8 September at about one frame a
