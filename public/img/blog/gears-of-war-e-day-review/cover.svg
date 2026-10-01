@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Gears of War: E-Day scores 8, from five verdicts between 6 and 9.5">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#ffffff" opacity="0.72" letter-spacing="3">GEARS OF WAR: E-DAY</text>
+  <text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="230" font-weight="700" fill="#ffffff">8</text>
+  <text x="80" y="430" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#ffffff" opacity="0.9">five verdicts, 6 to 9.5</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#ffffff" opacity="0.65">a three-and-a-half point spread</text>
+</svg>
