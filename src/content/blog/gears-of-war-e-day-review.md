@@ -36,7 +36,6 @@ artistView:
   misses:
     - "Level structure: the complaint that repeats is repetition, and it clusters on the opened-up areas. Wide space needs cover that reads as plausible rather than composed, and the density of authored detail per square metre has to drop to cover it."
     - "Pacing: the longest campaign in the series is a boast in a press release and a risk in a shooter whose core loop is thirty seconds long."
-draft: true
 ---
 
 Reviews for Gears of War: E-Day went up on 1 October 2026. The game comes out
