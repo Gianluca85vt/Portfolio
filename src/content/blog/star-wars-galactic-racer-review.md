@@ -41,7 +41,6 @@ artistView:
   misses:
     - "Platform parity: on 2 October the PC Metascore sat six points under the PS5 one. The two cohorts are not the same outlets, so that is a flag rather than a verdict — but frame pacing is where a racer's PC build breaks first, and a racer is the genre least able to hide it."
     - "Repeat legibility: a run-based campaign sends you down the same track far more often than a championship does. Nothing in the coverage suggests the art was costed for that, and the tracks that read beautifully on a first pass are the ones that go flat on a twentieth."
-draft: true
 ---
 
 Reviews for STAR WARS: Galactic Racer arrived four days ahead of its 6 October
