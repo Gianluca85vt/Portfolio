@@ -17,7 +17,6 @@ artistView:
     - "Previs: building Tumbleton as a 1/100 model before anything burned fixes the one thing a fire sim cannot guess, which is how big the fire is supposed to be."
   misses:
     - "Credit: eight vendors worked the season and there is still no public breakdown of who solved what. One conference talk and a general featurette is a thin record for a sequence this size."
-draft: true
 ---
 
 The Battle of Tumbleton closed House of the Dragon's third season on **9
