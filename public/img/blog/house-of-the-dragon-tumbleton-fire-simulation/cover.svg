@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Tumbleton's fire: one plume is look-dev, a battlefield is pipeline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2B1055"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#B600A8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#B600A8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="0" y="560" width="1200" height="340" fill="url(#ember)"/>
+  <text x="80" y="150" font-family="Georgia, serif" font-size="34" fill="#FFFFFF" opacity="0.6">House of the Dragon, season 3</text>
+  <text x="80" y="285" font-family="Georgia, serif" font-size="96" font-weight="bold" fill="#FFFFFF">Tumbleton's</text>
+  <text x="80" y="385" font-family="Georgia, serif" font-size="96" font-weight="bold" fill="#FFFFFF">fire</text>
+  <text x="80" y="470" font-family="Georgia, serif" font-size="40" fill="#F7B8F1">One plume is look-dev.</text>
+  <text x="80" y="524" font-family="Georgia, serif" font-size="40" fill="#F7B8F1">A battlefield is pipeline.</text>
+</svg>
