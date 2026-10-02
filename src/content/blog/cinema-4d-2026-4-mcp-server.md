@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Scope: Maxon's own task list runs from renaming objects to UV mapping, rigging and liquid simulation, and a list that broad in a launch release is a statement of intent rather than a description of what works reliably today."
     - "Verification: an audit log tells you what the assistant did, after it did it. There is still nothing that tells you a 400-object rename went where you meant before you look."
-draft: true
 ---
 
 Maxon shipped Cinema 4D 2026.4 on 30 September with a Model Context Protocol
