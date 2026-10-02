@@ -1,6 +1,31 @@
-# Tech — harvested 2026-10-01T19:02:06.619Z
+# Tech — harvested 2026-10-02T10:44:04.832Z
 
 ## Ars Technica
+
+### Venus' mysterious haze is actually cosmic dust
+Thu, 01 Oct 2026 22:27:04 +0000 — https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/
+
+Venus is shrouded in a veil of mystery. The yellowish “lower haze” at the bottom of its atmosphere was discovered by the Venera and Pioneer Venus probes in the 1970s. These spacecraft were some of the first to successfully send images of the planet back to Earth, but the haze they saw went unexplained for decades. Now the mystery Venus was keeping has been unveiled. What nobody knew then was that the haze is an accumulation of particles from meteorites. “Shooting stars” that burn up in the atmosphere leave behind cosmic dust particles, and after sulfuric acid interacts with these particles, it leaves behind a haze. Planetary scientist Hiroki Karyu and his research team at Tohoku University in Sendai City, Japan, finally figured out how the haze formed using a microphysical model. This type of model involves microphysics —the micro-scale processes that create clouds and precipitation on Earth and other bodies. “The continuous influx of cosmic dust is sufficient to sustain this lower haze layer with the particle size distribution observed by the entry probes,” Karyu said in a study published in Nature Astronomy. “These haze particles of cosmic origin act as efficient condensation nuclei, promoting cloud formation in the main cloud deck even far from their initial source.” Read full article Comments ]]>
+
+### SpaceX describes surgical intervention before launch of latest crew mission
+Thu, 01 Oct 2026 22:07:33 +0000 — https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/
+
+A four-person crew rocketed into orbit Thursday from Cape Canaveral Space Force Station, Florida, heading for a six-month expedition on the International Space Station. Riding a Falcon 9 rocket and Dragon spacecraft, the four crew members departed from Space Launch Complex-40 at Cape Canaveral at 11:10 am EDT (15:10 UTC) Thursday. Nine minutes later, they were in orbit to begin closing in on the space station for docking Thursday evening. The launch was delayed from mid-September to replace a balky valve in the Dragon spacecraft's propulsion system, a task that involved cutting into a propellant line inside the ship to swap out a faulty component. Read full article Comments ]]>
+
+### Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data
+Thu, 01 Oct 2026 20:28:45 +0000 — https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/
+
+The Pentagon is informing more than 2 million current and former military members that their personnel records storing sensitive personal information were stolen over a monthslong compromise of one of its networks. The breach is the second one in recent months to expose sensitive government information. The records, according to one notification letter posted to Reddit, included Social Security numbers, names, addresses, sex, race, and occupational specialty. This last category could be particularly valuable to foreign adversaries because it could help their intelligence agencies in identifying high-value military personnel. Starting last October, hackers gained access to a system operated by the Defense Manpower Data Center , which collates Department of Defense personnel records. The Pentagon says that the breach compromised the records of 2.8 million living individuals. A potential boon The incident is the second time a major network breach in recent months has exposed sensitive US government personnel records that criminal groups or foreign adversaries could use. Last month, the ransomware group ShinyHunters claimed it hacked into FBI systems and stole records of thousands of the agency’s current or former employees. Reuters reported the job titles in the records included ones related to investigating China or Russia. Read full article Comments ]]>
+
+### Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search
+Thu, 01 Oct 2026 20:11:55 +0000 — https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/
+
+In a setback for publishers worried about the effects of AI search, a US federal judge has dismissed lawsuits filed by Chegg and Penske Media against Google. The companies accused Google of antitrust violations in products like AI overviews, which have led to decreasing traffic at numerous sites. However, US District Judge Amit Mehta has ruled that Google's conduct is not illegal under antitrust law. The lawsuits were filed in 2025 , and Google requested a dismissal earlier this year. Chegg, an education and learning platform, claimed in its lawsuit that Google illegally scraped its educational content. This allowed Gemini models to essentially recreate that content and reduce the site's traffic. Penske, which owns publications like Rolling Stone and Variety, filed a similar case that alleged lost traffic . Specifically, the publisher claimed it was unfair that sites indexed for organic search would also have their content harvested for AI answers, with no way to opt out. These arguments did not sway the judge, who noted that Google's implicit agreement with websites is not legally relevant. "Plaintiffs have pleaded only that they have an ‘expectation’ that Google will send them search ​traffic if they make their content available for free," wrote Mehta. "But an expectation is not an agreement. It is simply how a general search engine works." Read full article Comments ]]>
+
+### Can good design stop content creators from having sex in robotaxis?
+Thu, 01 Oct 2026 19:19:42 +0000 — https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/
+
+Humans can be a frisky bunch, and it wasn’t very long after Tesla Autopilot started letting drivers go hands-free before people decided to post footage of themselves having sex from the driver’s seat. Recently, The San Francisco Standard interviewed multiple people who claimed to have had sex in robotaxis belonging to General Motors’ now-defunct Cruise. “There’s no one to tell you, 'You can’t do that.' It gets to the point where you’re more and more and more comfortable, and if you’re with someone, like a more serious partner, it can escalate to other activities,” one man told SF Standard. “The interiors of vehicles has been sexualized and appropriated for sex since forever in popular culture. You can see it in movies, you can see it in lyrics, you can see it in photography,” said Alexandros Rouchitsas, a human factors/UX researcher and one of the organizers of a recent workshop, “ Love in Traffic ,” that brought researchers from academia and industry together in late September in Sweden to consider how design can help the problem. A growing problem? One difference between a robotaxi and a human-driven ride is the removal of the social obligation to interact with a human driver. There’s no need to make small talk, and you won’t have to listen to someone’s terrible opinion, which can lead to riders assuming far more privacy than the cameras and ridership terms and conditions provide. That's a lesson that a pair of teens who hired a Waymo, spent their ride getting drunk, and sh
 
 ### Marvel releases one last VisionQuest trailer
 Thu, 01 Oct 2026 18:04:48 +0000 — https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/
@@ -37,32 +62,27 @@ Thu, 01 Oct 2026 11:15:15 +0000 — https://arstechnica.com/space/2026/10/heres-
 
 An attempt to save NASA's $500 million Neil Gehrels Swift Observatory from dropping out of orbit fell short, but the behind-the-scenes machinations required just to make a rescue possible deserve recognition, government and commercial space officials said in a recounting of the mission. The rescue mission was developed by Katalyst Space Technologies, working under a $30 million contract awarded by NASA last September. NASA gave Katalyst nine months to build and launch a satellite to capture Swift flying some 200 miles above the Earth and boost it into a higher orbit. Katalyst's rescue spacecraft, known as Link, successfully launched July 3 and completed some of its initial checkouts before a malfunction caused it to spin out of control a few weeks later. NASA announced in August that Link would not be able to reach Swift as intended, and the rescue mission was aborted. Read full article Comments ]]>
 
-### Dinosaur-killing impact crater might have been teeming with life
-Wed, 30 Sep 2026 21:54:12 +0000 — https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/
-
-About 66 million years ago, the Chicxulub asteroid smashed into Earth, kicking up tsunamis and dropping hot debris that annihilated non-avian dinosaurs and many other species. But not everything it left in its wake was destructive. This space rock hit what is now the partially submerged Yucatan Peninsula, and at the bottom of the ocean, the impact generated enough heat to create a hydrothermal system that persisted for 8 million years and may have been a hotbed of life. When researchers drilled for samples in the impact zone in 2016, they studied the types of rock that had formed as a result of the asteroid strike. This gave more insight into what happened in the immediate and long-term aftermath of this cataclysmic event. The collision was intense enough to cause deformation far beneath the surface. Subterranean effects reached 35 km (almost 22 miles) down, and included the melting an immense amount of rock. Exposure to seawater made that rock porous. As hot water seeped into the pores, a hydrothermal system formed. The hot water gushing into an isolated region of the freezing depths could have attracted microorganisms and possibly other life forms that were otherwise struggling to survive. Read full article Comments ]]>
-
-### Fifth unvaccinated person dies of measles; CDC still not counting all deaths
-Wed, 30 Sep 2026 21:37:54 +0000 — https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/
-
-A fifth, unvaccinated person has died of measles in Pennsylvania, the state's health department announced Wednesday . The department identified the deceased as a resident of Lancaster County, which is the epicenter of a raging outbreak that began in late April. The updated case count as of Wednesday is 943 across 39 counties, including 119 cases reported in just the last seven days. At least 176 people have been hospitalized. Lancaster County has reported 381 cases and three of the five deaths in the outbreak. The previous two deaths were both in infants too young to be vaccinated. That includes a newborn boy and a 6-week-old baby girl . So far, no other information has been released about the county's third death announced today. Read full article Comments ]]>
-
-### Returning from vacation? The government can search your phone without a warrant.
-Wed, 30 Sep 2026 21:19:56 +0000 — https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/
-
-An Argentinian-American writer and immigration advocate recently sued the federal government, demanding that it delete data that he believes was copied off of his phone when he re-entered the United States earlier this month. According to the seven-page complaint , Thomas Kennedy said that a Customs and Border Protection agent at Miami International Airport physically searched his bags, questioned him about his books and magazines, and then demanded that he hand over his phone. “[The agent] threatened me, saying that if I didn’t give him my phone, my interrogation was going to take much longer and they could retain my phone indefinitely,” Kennedy wrote. “I felt like I had no choice, so I handed my phone to the CBP agent.” Read full article Comments ]]>
-
-### A local network of implants uses your body as the wiring
-Wed, 30 Sep 2026 21:06:56 +0000 — https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/
-
-Most implants like pacemakers and insulin pumps work in isolation. To help them coordinate with each other, a team of Georgia Tech researchers built a networking system that sends signals through body tissue instead of antennas and radio waves. Radio problems Implants that communicate today mostly rely on radio protocols like Bluetooth Low Energy or near-field communication (NFC). Both are a poor fit for in-body data transfer, says Alex Abramson, a Georgia Tech engineer and co-author of the new study. The first problem is power. “If you want an implant to remain in an active state such that it can respond within milliseconds, it's very difficult to do that with the Bluetooth system,” Abramson said. According to the paper, Bluetooth components, when they’re activated, can cut an implant's battery life by up to 90 percent. Read full article Comments ]]>
-
-### Attackers have been exploiting critical Zimbra flaw to steal emails
-Wed, 30 Sep 2026 20:44:48 +0000 — https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/
-
-Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzations, Microsoft has warned . The vulnerability, tracked as CVE-2026-73570, lets attackers remotely issue operating system commands without authentication. Zimbra maintainer Synacor issued a patch on July 20, but didn’t disclose the vulnerability for more than three weeks after that. The security-focused Shadowserver Foundation said last week that its scans found that 274 separate instances of the Zimbra Collaboration Suite had been compromised. The number of servers running the software has fluctuated from 19,000 in the week following the patch to about 12,000 in the weeks following that. Currently, Shadowserver is tracking about 10,000 instances. Look, ma, no authorization From July 28 to August 7, Microsoft said Wednesday, the company detected two distinct scanning tools probing the Internet for vulnerable endpoints. The attackers first validated their exploit worked by sending HTTP, requests and DNS, ICMP, and out-of-band identity checks to domains hosted on public services. The probes allowed the attackers to confirm the exploit successfully executed commands on vulnerable servers without actually compromising them. Eventually, the attackers began using their command injection capability to install malicious payloads. Microsoft wrote: Read full article Comments ]]>
-
 ## The Verge
+
+### AI music maker Suno now generates spoken words
+2026-10-02T05:42:19-04:00 — https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability
+
+Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simultaneously generate voiceovers and background music to accompany them. "Music will always be at the heart of Suno and what we build. At the same time, our vision has always extended to other forms of human expression," Suno chief product officer, Jack Brody, said in the announcement. "Today, we're expanding what's possible in Suno with Speech: the first audio model that generates voice and music to … Read the full story at The Verge. ]]>
+
+### Apple’s reportedly developing a smart home camera that doesn’t record video
+2026-10-01T18:51:36-04:00 — https://www.theverge.com/tech/1003877/apple-security-camera-no-video
+
+Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of "a new Apple smart home ecosystem," alongside Apple's rumored smart home hub : They're also building home security products, both first-party and third-party home security products. And the biggest thing is a program called J450. And this is an offshoot and a companion product to the J490 smart home display. And these are little cameras that you can put around your house. They have very low fr … Read the full story at The Verge. ]]>
+
+### Google’s new Guided Vision feature can help you read the fine print
+2026-10-01T15:47:51-04:00 — https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision
+
+Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with things like reading small text, describing your surroundings, finding or identifying objects around you, and describing details on specific objects. Like the VoiceOver Live Recognition feature Apple has added to the iPhone and Vision Pro , it's designed for people who are blind, have low vision, or want assistance in specific situations. In addition to the Gemini app, Guided Vision is also available … Read the full story at The Verge. ]]>
+
+### Android Central will continue despite laying off its staff
+2026-10-01T15:20:29-04:00 — https://www.theverge.com/tech/1003735/android-central-layoffs
+
+Android Central , a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central 's staff page posted publicly about the layoffs, including Shruti Shekar , Derrek Lee , Harish Jonnalagadda , and Nicholas Sutrich , and former senior editor Namerah Saud Fatmi updated her LinkedIn to indicate that her tenure at Android Central had ended. Both Lee, the site's managing editor, and Sutrich confirmed that all remaining staff were laid off. The former staffers weren't told whether the site would shut down. Today, … Read the full story at The Verge. ]]>
 
 ### Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?
 2026-10-01T14:52:58-04:00 — https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for
@@ -94,27 +114,17 @@ After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the c
 
 Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media event, Nadella outlined the future of Copilot directly to the customers Microsoft really cares about, pitching its latest rethink of the AI assistant as the "OS for work." Microsoft is adding coding and agent capabilities directly into Copilot, as well as bringing the full power of Office into Copilot for the first time. Nadella is betting that AI will change the way people work in the same way that Microsoft Office did in the '80s and '90s. "How did a multinational company do a fore … Read the full story at The Verge. ]]>
 
-### NYC is now the first city in America that bans sketchy subscriptions
-2026-10-01T10:49:25-04:00 — https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule
-
-Image: Angela Weiss / AFP via Getty Images | AFP via Getty Images New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a subscription as it is to sign up. That means a gym that lets you join online, for example, can't make you call or go in person to end your subscription. It's the first municipality to see the rule take effect, after an appeals court struck down a federal version for procedural issues. The city expects it to save New Yorkers anywhere from $21.5 million to $162.5 million annually. And to NYC Depar … Read the full story at The Verge. ]]>
-
-### OpenAI’s new agent is a shot at Meta — but can it compete with free?
-2026-10-01T10:36:50-04:00 — https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle
-
-A pop-up shop for "dots," a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a "real-deal AI" agent powered by GPT-6 Astra, "inspired by the cool agents that we all watched in movies growing up." Similar to Muse, Dots aims for disarming cuteness, taking the form of colorful, personalizable blobs with eyes. OpenAI fired shots at Meta by demonstrating Dots' ability to not just act as helpful assistants but build metaverse-esque virtual worlds. But in one key area, Dots strikingly fa … Read the full story at The Verge. ]]>
-
-### Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle
-2026-10-01T10:00:00-04:00 — https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash
-
-Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge , about Kevin O’Leary’s plans to build a massive data center in Utah . The idea was to build the world s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank . Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. Now, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. Okay: The Verge ’s Josh Dzieza on the Utah data center disaster. Here we go. This interview has been lightly edited for length and clarity. Josh Dzieza, you are a features writer here at The Verge . Welcome to Decoder . Thanks for having me. I m very excited to talk to you. For people who do
-
-### The best early October Prime Day deals happening now
-2026-10-01T09:35:15-04:00 — https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october
-
-It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day , which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor. This post will be updated a couple more times ahead of October 6th as new deals become available. Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for
-
 ## Tom's Hardware
+
+### PewDiePie unveils ‘uncensored’ Ajax AI model for home PCs
+Fri, 02 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/pewdiepie-unveils-uncensored-ajax-ai-model-built-to-run-on-home-pcs-creator-says-openai-banned-him-twice-while-making-it
+
+PewDiePie, the popular YouTuber, has unveiled Ajax, his “uncensored AI model” built to run at home, and says in a new video that OpenAI banned him twice while he was making it. According to the OpenAI email he shows, one ban was explicitly for “distillation,” the practice of using one model’s outputs or reasoning to train another. Ajax is built for Odysseus, his self-hosted AI workspace, as an autonomous, always-on agent and assistant. The setup is similar to OpenClaw and Nous Research’s Hermes Agent. Ajax, a fine-tuned Qwen3.5-9B model, powers the workspace to handle “daily tasks from search to browse the web to email to your calendar,” all “completely privately,” according to its Ajax page. The page says its refusal has been removed for a “freer, less restricted AI experience” and asks users to use it responsibly. The video announced the first version, using Alibaba’s model, as a follow-up to his workspace launch in May. (Image credit: odysseus-dev/GitHub) Addressing the bans, the creator stated he wanted to “distill just a little bit” in order to improve his model. Frontier AI model companies such as OpenAI and Anthropic make sure to hide their reasoning in numerous ways, including encryption and attempted distillation; such a campaign OpenAI recently attributed to actors linked to Moonshot AI is seen as a threat. PewDiePie got his account reinstated once, although on the second ban, which came after he ran the model again “to create my seed data,” he asked, “How did they 
+
+### California bill requiring 3D printers to block firearm printing becomes law
+Fri, 02 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/3d-printing/california-bill-requiring-3d-printers-to-block-firearm-printing-becomes-law-rule-to-require-manufacturers-to-include-blocking-technology-once-an-industry-standard-is-published
+
+California Gov. Gavin Newsom has signed into law a bill that requires 3D printer manufacturers to include firearm-blocking technology in their products once an industry standard is published by ASTM International. This makes California the second state to enact firearm restrictions on 3D printers following New York . Two other states, Colorado and Washington state , also have similar bills that would require “blocking features” moving through state legislatures. Since the law only affects 3D printers that have yet to be sold, existing 3D printers do not need to be retrofitted with firearm-blocking technology, addressing one of the major concerns of the 3D printing community . It’s also not a straightforward ban on non-compliant printers and only regulates the sale and transfer of 3D printers, not their ownership or use. The application of firearm-blocking technology on 3D printers will only be required for manufacturers once ASTM International, a non-profit organization that sets voluntary standards across different industries, publishes or adopts a standard for firearm-blocking technology for 3D printers. The law mandates the California Department of Justice (DOJ) to check for a standard quarterly, starting no later than July 1, 2027, until July 1, 2029. If the organization hasn’t published a standard by that date, then the DOJ is no longer required to check for it, meaning the process to write the guidelines or regulations that manufacturers need to follow to sell 3D printe
 
 ### First Intel Panther Lake mini PC cooled with solid-state AirJet tech operates at less than 21 dBA
 Thu, 01 Oct 2026 15:27:09 +0000 — https://www.tomshardware.com/desktops/mini-pcs/first-intel-panther-lake-mini-pc-cooled-with-solid-state-airjet-tech-operates-at-less-than-21-dba-aaeon-claims-its-fanless-up-xtreme-ptl-edge-air-is-also-slimmer-lighter-than-actively-cooled-rivals
@@ -166,17 +176,52 @@ Thu, 01 Oct 2026 12:50:00 +0000 — https://www.tomshardware.com/pc-components/d
 
 Micron said during its FY 2026 earnings call that RAM and storage chip shortages will worsen in 2027 and 2028, even as it announced a record gross margin of 86.25%. CEO and chairperson Sanjay Mehrotra said that the company has already sold most of its capacity for next year and that customers will have to pay more compared to 2026. “In calendar 2027 as well as 2028, we see demand exceeding supply. In fact, we see greater tightness in the industry in 2027 and in 2028 versus 2026. Overall, supply-demand environment is only getting tighter,” Mehrotra said. “We do not have line of sight to when supply and demand will return to balance.” The memory and storage industry is not holding back on increasing production, though, with Micron saying that NAND and DRAM shipments are expected to grow in the low-to-mid 20s percentage range for the next two years. However, it seems that this is not enough to match growing demand, as it expects “the industry to remain supply constrained in both years.” Still, it seems that manufacturers are prioritizing HBM demand for AI data centers, with the company expecting shipments of these chips to grow faster than conventional DRAM. Micron and other chip manufacturers are bringing new factories online to increase output, but it’s going to take years before they can start producing chips. But even as we’re amid an unprecedented multi-year memory chip shortage , Micron also announced record financial guidance. It forecasted a record $61.5 billion FQ1 reve
 
-### PS3 emulator devs warn of fake Blu-ray drives on Newegg and AliExpress
-Thu, 01 Oct 2026 12:30:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/ps3-emulator-devs-warn-of-fake-blu-ray-drives-on-newegg-and-aliexpress-beware-of-fake-blu-ray-drives-devs-warn-retrogamers-scammers-use-spoofed-firmware-to-disguise-older-mechanisms-in-high-end-shells
-
-The developers of the Sony PlayStation 3 emulator RPCS3 have warned their social media followers about “a recent influx of fake Blu-ray drives.” According to the emulator devs, scammers are putting inferior optical disc mechanisms in higher-end Blu-ray drives for extra profit. Such skuillduggery could directly affect potential RPCS3 users, looking to ensure any Blu-ray drive they buy is compatible with the emulator. ⚠️ BEWARE OF FAKE BLU-RAY DRIVES! ⚠️There has been a recent influx of fake Blu-ray drives. These fakes use older drives that cannot read PS3 discs, with enclosures and packaging for higher-end models, plus spoofed firmware.Learn how to spot fakes:https://t.co/IoIlSPWRc1 September 30, 2026 “BEWARE OF FAKE BLU-RAY DRIVES!” warn the RPCS3 devs. “There has been a recent influx of fake Blu-ray drives. These fakes use older drives that cannot read PS3 discs, with enclosures and packaging for higher-end models, plus spoofed firmware.” The team also helpfully links to a wiki with images and details to help you know if you acquired a “fake drive.” Telltale signs that you have a fake Blu-ray can include misspelled words on the drive label, misaligned logos, incorrect manufacturing dates, and the covering of certain PCB markings. We guess that another symptom that RPCS3 users might notice is that their supposedly compatible Blu-ray drive won’t work properly with the emulator. Example details seen on fake drive hardware. Spot the mistakes. (Image credit: wiki redump info ) Bl
-
-### OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning
-Thu, 01 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-says-actors-linked-to-moonshot-ai-spearheaded-a-campaign-to-extract-its-models-hidden-reasoning-logged-attempts-peaked-at-16-000-users-over-two-days
-
-OpenAI said in a company blog post that people associated with China-based Moonshot AI were at the core of an effort to pull hidden reasoning from its models. The post says that a “coordinated campaign” to extract “protected reasoning” from its models, which was “consistent with adversarial distillation,” occurred in July. OpenAI isn’t sure whether all of the operators it saw were a single actor. Activity began on July 1st, “initially at a low volume.” After that came “high-volume spikes” on July 24 and 25, with 16,000 requests using an extraction pattern. The requests came from over 4,000 users. The activity attempted extraction but was “not necessarily successful,” and the campaign was “fully disrupted by July 28.” The post did not clarify any measure of success rate, which models were specifically targeted, or how many of the users were Moonshot-linked. OpenAI defines protected reasoning as “the model’s internal record for working through a task” and adversarial distillation as the “systematic and unauthorized use of one model’s outputs or reasoning” to train or improve another model. This data is encrypted to hide the model’s chain of thought and is handed to the client as an encrypted block. The client sends that block back with each request, so the provider doesn’t have to store it. One method the operators tried took the encrypted reasoning from one conversation and asked a model in another to decrypt it. OpenAI says the encryption, in this case, was not broken. There 
-
 ## Phoronix
+
+### Ubuntu s Next Rust Effort May See OpenPGP Replaced By Sequoia PGP
+Fri, 02 Oct 2026 06:27:20 -0400 — https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP
+
+Canonical engineer Richard Scott McNew published a status update surrounding the Rust programming language efforts in the upcoming Ubuntu 26.10 release. Sequoia PGP is being rolled out to Ubuntu Linux and in a future release may end up replacing OpenPGP...
+
+### Apex Compute Developing Open-Source Mesa Vulkan Driver For Their Hardware
+Fri, 02 Oct 2026 06:17:55 -0400 — https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan
+
+Apex Compute is the company started in California in 2024 that aims to produce high-efficiency AI accelerators for real-time edge AI inferencing. So far they have an FPGA prototype for licensing and deployment and carries the bold claim of being "20x faster than the NVIDIA Jetson" and at under 10W and one fifth the cost. Making Apex Compute much more interesting to us now is that they are developing an open-source, Mesa-based Vulkan driver for their hardware...
+
+### Coreboot 26.09 Released With Framework Laptop 12 Support, AI Review Comment Policy
+Fri, 02 Oct 2026 06:06:11 -0400 — https://www.phoronix.com/news/Coreboot-26.09-Released
+
+Coreboot 26.09 released yesterday as the latest quarterly feature release to this open-source software for replacing proprietary BIOS and system firmware on a growing selection of devices...
+
+### KDE Nearing Decision Point On BuildStream-Based KDE Linux
+Fri, 02 Oct 2026 05:54:20 -0400 — https://www.phoronix.com/news/BuildStream-Based-KDE-Linux
+
+KDE Linux developers have been experimenting with a build of their Linux distribution based on BuildStream to ship as an OS image rather than a set of Arch Linux packages. They are nearing a point soon where they will decide if they will officially ship this BuildStream-based KDE Linux image...
+
+### Siemens Slams The Door Shut On Promising Open-Source Radioss Project
+Thu, 01 Oct 2026 21:00:31 -0400 — https://www.phoronix.com/news/Siemens-Ends-OpenRadioss
+
+As a major disappointment to the open-source community, Siemens has decided to end -- and close-up access -- to the OpenRadioss project as the open-source version opened up by Altair Engineering under the GNU AGPL License back in 2022. This was an open-source version of the industry-leading finite element solver that Altair developed. Siemens acquired Altair Engineering last year and have now completely shut the door on OpenRadioss...
+
+### Steam On Linux Dives Down To 3.05% For September
+Thu, 01 Oct 2026 20:18:56 -0400 — https://www.phoronix.com/news/Steam-Survey-September-2025
+
+Steam on Linux use in March hit an all-time high of around 5.33% marketshare. Since then it pulled back to around 4% while for September 2026 the Steam Survey results are now in and it's clocking in just above 3%...
+
+### Fedora 45 Beta Performance: The Satisfyingly Boring Benchmarks
+Thu, 01 Oct 2026 16:57:58 -0400 — https://www.phoronix.com/review/fedora-45-beta-benchmarks
+
+While there have been a number of Ubuntu 26.10 development benchmarks in recent weeks and more on the way, some Phoronix readers have asked about the lack of any early Fedora 45 tests given its recent beta. For good reason, it s largely boring but here are some to illustrate.
+
+### Mesa Drops Its Poorly Maintained & Rarely Used Direct3D 10 User-Mode Driver
+Thu, 01 Oct 2026 16:00:08 -0400 — https://www.phoronix.com/news/Mesa-Drops-Direct3D-10-UMD
+
+Back in 2021 the Direct3D 10 User-Mode Driver "d3d10umd" was introduced as a new Gallium3D state tracker to work as a Windows WDDM UMD driver similar to Windows WARP while leveraging LLVMpipe for better performance. Now five years later the poorly maintained code is removed from the Mesa codebase...
+
+### Ubuntu 26.10 Beta Released With Linux 7.3 Kernel, GNOME 51 Desktop
+Thu, 01 Oct 2026 15:26:05 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-Beta-Released
+
+Ubuntu 26.10 beta is now available for the official Ubuntu editions as well as the various community flavors...
 
 ### Nearing A 10 Second Kernel Build, Xeon 600 & Other September Excitement On Phoronix
 Thu, 01 Oct 2026 13:07:48 -0400 — https://www.phoronix.com/news/September-2026-Highlights
@@ -193,114 +238,114 @@ Thu, 01 Oct 2026 10:10:01 -0400 — https://www.phoronix.com/news/Qt-Creator-21-
 
 Following yesterday's release of the Qt 6.12 LTS toolkit, The Qt Group today released Qt Creator 21 in beta form as the latest version of their integrated development environment focused on C/C++ as well as Python, JavaScript, and other programming languages...
 
-### AMD RMPOPT Optimization Queued Ahead Of Linux 7.4
-Thu, 01 Oct 2026 08:52:00 -0400 — https://www.phoronix.com/news/AMD-RMPOPT-For-Linux-7.4
-
-In addition to the very nice AMDGPU IOMMU optimization for iGPUs set to debut in the Linux 7.4 kernel, over on the AMD EPYC server side for servers running SEV-SNP virtual machines is a separate, nice optimization also expected for this next kernel version...
-
-### Clearing Out Linux s Old 32-bit ARM Platform Code Is Itself A Challenge
-Thu, 01 Oct 2026 08:04:18 -0400 — https://www.phoronix.com/news/Clearing-Old-ARM-Code-Challenge
-
-Longtime ARM Linux maintainer Arnd Bergmann over the past year has been working to clear out a number of old ARM platforms from the mainline kernel tree. With Linux 7.3 many older 32-bit ARM platforms were deprecated and in turn hundreds of kernel drivers orphaned. Now it's on to removing that actual code, which given the amount of entangled code, is itself a challenge...
-
-### Intel Optimization Zone 1.2 Released With New Guides & Recommendations
-Thu, 01 Oct 2026 07:06:11 -0400 — https://www.phoronix.com/news/Intel-Optimization-Zone-1.2
-
-Earlier this year Intel announced the "Optimization Zone" as their new initiative to provide a centralized place to collect all their resources for maximizing performance and software tuning on Intel hardware platforms. They've continued building out more resources for the Intel Optimization Zone and yesterday released v1.2 with more tuning guides and best practices for optimal performance on Intel hardware...
-
-### NVIDIA Olympus SMT Optimizations For Vera CPU Showing 3~6% Performance Gains
-Thu, 01 Oct 2026 06:27:41 -0400 — https://www.phoronix.com/news/NVIDIA-Olympus-SMT-Better
-
-Back in August I wrote about NVIDIA working on Linux scheduler improvements for helping the SMT performance on their new Vera CPU with Olympus cores. That work remains ongoing but is looking fairly beneficial for performance especially for knocking it out in less than one hundred lines of code...
-
-### Qualcomm Continues Doing More For Their Open-Source Linux Graphics Drivers
-Thu, 01 Oct 2026 06:17:00 -0400 — https://www.phoronix.com/news/Qualcomm-More-OSS-GPU-2026
-
-Rob Clark, who originally started working on the reverse-engineering Freedreno and MSM DRM graphics driver projects prior to even being employed by Qualcomm, presented this week at XDC 2026 Toronto around all the recent efforts they have been pursuing at Qualcomm for this upstream open-source graphics driver stack...
-
-### New Linux Patches Trying To Mainline Renesas SH7305 CPU Support
-Thu, 01 Oct 2026 05:55:08 -0400 — https://www.phoronix.com/news/Renesas-SH7305-Linux-Patches
-
-The Renesas SH7305 isn't a new processor and is well known for powering various Casio graphing calculators over the past decde and a half. But finally the mainline Linux kernel may end up seeing support for this 32-bit SH-4a RISC core...
-
-### Raspberry Pi 5 2GB Price Increases To $77.50 USD
-Thu, 01 Oct 2026 05:29:41 -0400 — https://www.phoronix.com/news/Raspberry-Pi-5-2GB-Price-77.50
-
-During the last round of price hikes on Raspberry Pi devices due to RAM pricing, they were able to keep the 1GB and 2GB single board computer versions steady. But Eben Upton announced today that the RAM pricing has become "unsustainable" and even the 2GB versions now are facing steep price hikes...
-
-### OpenMandriva ROME 26.09 Released With More AI Apps, Snaps & PGO + LTO Optimizations
-Wed, 30 Sep 2026 21:36:25 -0400 — https://www.phoronix.com/news/OpenMandriva-ROME-26.09
-
-For ending out the month of September the OpenMandriva Linux distribution crew released OpenMandriva ROME 26.0 as their long overdue release held up by various technical issues and a reported sabotage attempt to their platform. With OpenMandriva ROME 24.12 having been their last release, this is quite a big update...
-
-### Valve s Work On Foveated Rendering For The Open-Source Turnip Driver On The Steam Frame
-Wed, 30 Sep 2026 20:18:48 -0400 — https://www.phoronix.com/news/Steam-Frame-Turnip-Foveated
-
-As part of Valve's work on developing the Steam Frame VR headset, they worked on foveated rendering support for the Mesa Turnip driver that supports the Qualcomm Adreno graphics with open-source Vulkan API support. Foveated rendering is the technique to more closely mimic human vision by rendering high detail at your direct gaze point and lower quality in the peripheral vision. For computer graphics, foveated rendering for headsets can be beneficial for conserving power in areas of the render frame that are less important to provide more performance with your main area of focus...
-
 ## The Register
+
+### Met Police suspends use of phone-hacking software over Russian links
+Fri, 02 Oct 2026 11:15:00 +0200 — https://www.theregister.com/software/2026/10/02/met-police-suspends-use-of-phone-hacking-software-over-russian-links/5300549
+
+The Metropolitan Police has stopped using digital forensics software from Oxygen Forensics while it investigates US allegations that the supposedly American outfit was secretly owned by Russians and developing its wares in Moscow. Scotland Yard confirmed it has paused use of the company's tools and launched a "full review," after US prosecutors last week accused Oxygen CEO Lee Reiber and Russian national Oleg Sergeyevich Davydov of concealing the company's ownership and where its software was actually being built. The Met signed a three-year deal with Oxygen in December 2023. Digital forensics teams use its software to extract and analyze data from phones and other devices seized during investigations. "We have paused our use of the tool while we carry out a full review," a Met spokesperson told The Times. "At this time, we believe any impact to ongoing investigations will be extremely limited. The Met does not share any data obtained from investigations with Oxygen Forensics Inc." The force said Oxygen's software runs on a closed IT system that isn't connected to the internet and was used in less than 0.2 percent of the more than 23,000 actions carried out by its digital forensics team over the past year. The pause comes after the US Department of Justice alleged that Oxygen, which is based in Alexandria, Virginia, presented itself to US government customers as an independent American company despite being owned and controlled by five Russian nationals through a Cyprus-based
+
+### Flight delayed? So are these codec updates
+Fri, 02 Oct 2026 10:30:00 +0200 — https://www.theregister.com/offbeat/2026/10/02/flight-delayed-so-are-these-codec-updates/5300405
+
+There are few things less likely to reassure a nervous passenger awaiting a delayed flight than the Windows desktop putting in an unexpected appearance and demanding an update. Take this display at Alcantarí International Airport, which serves Sucre, Bolivia's constitutional and judicial capital. Eagle-eyed Register reader Phil Pearce spotted the Windows 11 desktop and its update prompt while waiting for a delayed Boliviana de Aviación (BoA) flight. The prompt comes from K-Lite Codec Pack, a collection of components that enables Windows to play various audio and video formats. Its presence suggests the passenger display is powered by a fairly ordinary Windows installation rather than some mysterious specialist signage system. Whoever configured the display does not appear to have disabled K-Lite's update notifications or arranged for them to run silently. In this instance, it appears the updater spotted newer versions and lumbered to the foreground with an update prompt – useful on a PC with a keyboard and mouse, but less so on a passenger-facing display beyond anyone's reach. The exposed desktop also displays the Microsoft Store, Outlook, a weather widget, and several shortcuts – more than one might expect a departure board to require. Why airport signage needs Outlook is anyone's guess, although Microsoft has not been shy about preinstalling it. The app even surfaced during NASA's recent Artemis mission and promptly required technical support. Our reader could not dismiss t
+
+### Techie was stung by a wasp, held overnight by Chinese police, then trapped in a 13-hour meeting
+Fri, 02 Oct 2026 10:01:00 +0200 — https://www.theregister.com/software/2026/10/02/techie-was-stung-by-a-wasp-held-overnight-by-chinese-police-then-trapped-in-a-13-hour-meeting/5300368
+
+Welcome to another installment of On Call, The Register's Friday column that shares your tech support stories. This week we're taking a detour into tech sales, courtesy of a reader we'll Regomize as "Carson," whose employer sent him to China without first securing a visa. The adventure began when a colleague called with a fateful question: "Can you travel to China tomorrow to attend a sales meeting about our short messaging and notification products?" UK-based Carson was available, but doubted his employer could obtain the necessary visa in time. "I was told not to worry; the company would arrange it," he told On Call. So he agreed to go. "I was up bright and early the next morning when I felt a sharp pain," he wrote. "There was a wasp in the leg of my jeans which had stung me three times. That did not bode well." Nor did the prospect of spending the 12-hour flight to Hong Kong in economy. "Normally I would have been in business class for a flight of that length but there were no seats left at such short notice," he wrote. "It was not pleasant with a swollen and throbbing thigh." At the transfer desk in Hong Kong, Carson explained that he still lacked a visa for mainland China, but that his employer was trying to secure one. After making a flurry of calls, airline staff issued him a boarding pass and told him to hurry or he would miss the flight. And then his employer called with instructions not to board until told to do so. Carson became that passenger holding up the flight
+
+### Pi coding agent pulls a 180 and adds MCP support
+Fri, 02 Oct 2026 09:01:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/02/pi-coding-agent-pulls-a-180-and-adds-mcp-support/5300678
+
+The Pi coding agent reached its 1.0 milestone on Thursday while being treated for whiplash. One of the core new inclusions is support for Model Context Protocol (MCP), which Pi creator Mario Zechner once dismissed as unnecessary. Earendil, the company formed by Armin Ronacher and Colin Daymond Hanna that acquired Pi in April 2026, explained the about-face by noting that things change. Not only has MCP improved, the biz said, but changes the Pi devs implemented in MCP have made integrating other capabilities easier. "For example, the changes we have made to MCP also enable the use of Jev more easily within Pi," the company said, in reference to the widely noted Jev decision model that has already elicited imitations. "Ultimately what Pi needs is quite similar to what MCP needs: a sandbox to play with in the form of an interpreter." Earendil describes Pi as "a hardened, minimal, extensible agent harness that you can make your own." If Pi were a Python web framework, it would be Flask rather than Django. Nonetheless, Pi has gained some features. These include Codemode, a harness-side sandbox that helps agents issue tool calls, with support for MCP, decision models, and image models; extension support for virtual models; deferred tool loading; cache warming for Anthropic models; mid-conversation system messages; a new TUI theme; and full-screen mode by default. Alongside these features, Earendil has built Pi Durable, described as "a new substrate for building long-running agentic
+
+### AWS turns its best practice framework into an agent that recommends cloudy reconfigs
+Fri, 02 Oct 2026 07:10:09 +0200 — https://www.theregister.com/off-prem/2026/10/02/aws-turns-its-best-practice-framework-into-an-agent-that-recommends-cloudy-reconfigs/5300730
+
+Amazon Web Services has debuted an agent that it says will evaluate your cloudy environment “as an experienced cloud architect would” and recommend useful changes. The cloud colossus named its bot the “AWS Well-Architected Agent,” a nod to the Well-Architected Framework that outlines best practices for using the Amazonian cloud. Amazon’s announcement says the agentic incarnation of the Framework analyzes AWS environments “against Well-Architected best practices across 65+ AWS services” and then delivers “targeted, contextual recommendations for improving your applications’ cost, security, performance, and resilience.” “It generates recommendations aligned to your declared business goals, delivers implementation packages with every finding, and surfaces cross-pillar trade-offs making it simpler to remediate the findings,” we’re told. The agent also delivers “ready-to-implement fixes” and “provides individual resource findings with specific dollar impact (where applicable) and step-by-step remediation, consolidated findings across multiple resources scoped to your application, and broad architectural patterns and designs with Infrastructure as Code (IaC) code changes needed to align with Well-Architected best practices.” AWS offers myriad services — some of them with overlapping features and functions. Customers often find themselves using more services than they intended, or using services that aren’t quite right for their intended use. AWS is generally happy if customers chan
+
+### Google launches first datacenter satellite and research that finds orbiting bit barns can work
+Fri, 02 Oct 2026 04:08:45 +0200 — https://www.theregister.com/systems/2026/10/02/google-launches-first-datacenter-satellite-and-research-that-finds-orbiting-bit-barns-can-work/5300721
+
+Google’s first “Suncatcher” datacenter satellite has made it into space, but the company has cast doubt on whether its orbital ambitions can scale. As The Register reported last week, Project Suncatcher aims to test whether Google’s tensor processing units (TPUs) can survive a launch and the harsh environment of space. The Big G hopes to validate theories that the limitless supply of solar energy available in space makes the cost of putting servers into orbit sensible. In its announcement of a successful Suncatcher launch, Google linked to its own peer-reviewed research about the endeavor – which outlines many thorny challenges that must be met to make orbital datacenters fly. The paper, titled “Toward a future space-based, highly scalable AI infrastructure system design,” notes that SpaceX and others have suggested that orbital datacenters become viable when launch costs fall to $200/kg. Google’s researchers also note that SpaceX has managed to reduce the cost to launch a kilogram into orbit by 20 percent after every doubling of the cumulative mass it launched. If SpaceX can keep that up, which will mean launching 370,000 t additional cumulative mass, the equivalent of around 1,800 successful launches of its giant Starship rocket, and re-using components 100 times, Google thinks $200/kg is “plausible under reasonable assumptions.” Google doesn’t know the mass of its future datacenter satellites, but points to Starlink’s second-gen sats weighing 575kg and then compares the co
+
+### AI agents hacked the hackers, stealing email addresses from security research org
+Thu, 01 Oct 2026 23:26:42 +0200 — https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652
+
+AI agents hacked the hackers - the Dutch Institute for Vulnerability Disclosure (DIVD) - via two zero-day bugs in its Zammad support platform, abusing the flaws to hijack sessions, run code remotely as the local zammad user, and escalate privileges to root. The chained exploits took just seconds to move from session hijacking to root access, and on Thursday, the nonprofit bug hunting organization said the miscreants stole data belonging to its volunteer security researchers, including DIVD email addresses and potentially other contact details. “We’re still investigating exactly which data of which volunteers is affected,” DIVD said in its incident report. “For DIVD volunteers (and others) this means a higher risk of social engineering, because this makes it easier for someone to pose as a DIVD’er.” A subsequent LinkedIn post advised anyone receiving an email or contact request from someone at DIVD “that feels slightly off” to verify that it’s legit by emailing communications@divd.nl. DIVD is also a CVE Numbering Authority (CNA), and it assigned CVE IDs to the now-public security holes in Zammad, an open-source helpdesk and customer support ticketing system. They are CVE-2026-102489 and CVE-2026-102490, and both bugs received CVSS 4.0 scores of 9.4, when assessed in the chained attack scenario. CVE-2026-102489 enables unauthenticated attackers to achieve remote code execution and leak user sessions, while CVE-2026-102490 allows a local user to elevate their privileges to root.
+
+### Cloudflare tries to outplay Jev with open-weight Clef models
+Thu, 01 Oct 2026 22:39:49 +0200 — https://www.theregister.com/ai-and-ml/2026/10/01/cloudflare-tries-to-outplay-jev-with-open-weight-clef-models/5300649
+
+Two weeks after the Jev model took the AI world by storm, Cloudflare has released its own pair of "Clef" decision models that it claims are smarter and faster than Jev, while also being open weight and runnable locally. The Clef family of decision models was announced by Cloudflare on Thursday, and consists of two models: Clef and Clef-flash, a slightly smaller and faster version of the model. For all intents and purposes, they work the same way as TypeSafe’s Jev, in that they can answer three types of bounded, structured questions: Yes/no, multiple choice, and rankings. It’s there that the bigger differences emerge, though, as Clef isn’t only built differently but, if Cloudflare’s benchmark claims hold up, also appears more capable than Jev and several other decision models in a number of tests. For starters, Clef has an LLM backbone. According to Cloudflare, Clef uses specially post-trained, frozen versions of Qwen3.8-27B and Qwen3.5-9B for Clef and Clef-flash, respectively, with the Qwen backbone performing a prefill-only pass during inference. Clef is still fast - faster than Jev, to be fair - and scores choices in parallel after that prefill-only pass. It’s not clear what Jev’s underlying architecture is, as TypeSafe has kept that a secret. As for its speed and capability, Clef moves fast. Cloudflare ran it against Jev and some other open decision models using the Jev Decision Index available on Hugging Face, and the company’s own ranking suggests Clef is slightly slower
+
+### Stanford prof is beating the drum for a new protocol to replace TCP
+Thu, 01 Oct 2026 22:00:45 +0200 — https://www.theregister.com/networks/2026/10/01/stanford-prof-is-beating-the-drum-for-a-new-protocol-to-replace-tcp/5300629
+
+TCP, the data transport protocol upon which pretty much the entire web and most of cloud computing is built, is ill-suited for emerging AI workloads, a retired Stanford University professor argues. To solve the problem, he's promoting a new protocol called Homa. “TCP, for all the amazing things it has done, is not a good match for datacenters,” said John Ousterhout, a professor emeritus of computer science at Stanford University, in a recent talk at the AI Engineer World’s Fair. Shedding TCP sounds like an immense task, given the global reliance on the protocol. But adding Homa into a network is fairly simple, Ousterhout told The Register. Compile Homa from its GitHub source, then install the module into the Linux kernels on the clients and servers. No reboot required. “Homa works side by side with TCP, so you can gradually move applications from TCP to Homa,” he wrote. Running Homa even makes the remaining TCP applications run faster. Old wine, new skin Homa is a clean-slate rethink of how networks should manage traffic congestion, Ousterhout said. Work on the protocol began as a PhD dissertation first published in 2019 by Behnam Montazeri, now a Google staff engineer. Now that Ousterhout has retired from teaching, he has taken on the task of propagating Homa as his “life’s mission,” he said. What makes Homa different from TCP is primarily that it is message-based, rather than stream-based. Much like the remote procedure call (RPC), Homa message lengths are explicitly define
+
+### Cloudflare launches Data Platform with bland 'Basin' branding, promise of fewer fees
+Thu, 01 Oct 2026 21:17:47 +0200 — https://www.theregister.com/databases/2026/10/01/cloudflare-launches-data-platform-with-bland-basin-branding-promise-of-fewer-fees/5300618
+
+Cloudflare Data Platform on Thursday received a bland new brand name, Basin, and promotion from beta status to general availability. Under the tub-themed moniker, Cloudflare Pipelines, R2 Data Catalog, and R2 SQL become Basin Pipelines, Basin Catalog, and Basin SQL respectively. The company's evocation of washroom fixtures doesn't quite align with its stable of more literal product names – Sandboxes, Workers, Email Services, and so on. But given that the occasion is Cloudflare Birthday Week, which itself fails to respect the concept of "day," straightforward naming may be expecting too much. At least Cloudflare didn't latch onto any of the worse water storage metaphors for collections of information, like data lake, lagoon, puddle, bowl, or cesspool. "Sink" was also on this list, but it turns out Cloudflare has already deployed the term, as we'll see below. Cloudflare CTO Dane Knecht pitched the renamed platform as an easier alternative to standing up a bunch of hardware for observing data. "With Cloudflare Basin, we are bringing the same serverless model that developers expect from Cloudflare to analytics: no clusters to manage, no unnecessary data movement, and open standards that keep customers in control of their data," he said. Basin's appeal is based on lack of lock-in – because it relies on Apache Iceberg – and lack of egress fees, so data can move freely across cloud regions. Rival services from hyperscalers (Amazon S3, Google Cloud Storage, and Azure Blob Storage) im
+
+### EU’s hodgepodge tech policy exposes members to Chinese vendor risks, says think tank
+Thu, 01 Oct 2026 19:30:03 +0200 — https://www.theregister.com/security/2026/10/01/eus-hodgepodge-tech-policy-exposes-members-to-chinese-vendor-risks-says-think-tank/5300599
+
+Depending on Chinese technology for European infrastructure poses risks that not every country takes seriously. So says the Royal United Services Institute (RUSI), which suggests that the EU needs to do better in helping members assess the risk and take appropriate action to safeguard the entire bloc. The UK-based think tank said in a report today that the EU should develop a new risk assessment framework that applies to all members and strengthens its own powers, without encroaching on members’ rights to set their own national security policies. It must delicately balance the need to secure the union, while maintaining the flexibility that both allows members to set domestic policies and lawmakers to account for different risk profiles across different sectors. The risks affecting telecoms will not necessarily apply to other sectors in the same way. Speaking of telecoms, currently there is only the voluntary EU Toolbox for 5G Security framework – voluntary being the operative word here, as only 10 of 27 members have fully implemented it since it launched in January 2020. On paper, it somewhat sets out to achieve what RUSI is calling for: a harmonized set of standards to mitigate 5G-related security risks affecting member states. Addressing the frustration over the lack of adoption, the European Commission proposed amendments to the Cyber Security Act (CSA) earlier this year that would allow it to build a list of untrusted vendors that members must preclude from the networks 
 
 ### Suspected Chinese spies spoofed an Anthropic exec, ex-White House official in AI phishing
 Thu, 01 Oct 2026 18:43:30 +0200 — https://www.theregister.com/security/2026/10/01/suspected-chinese-spies-spoofed-an-anthropic-exec-ex-white-house-official-in-ai-phishing/5300595
 
 A suspected Chinese espionage group impersonated AI policy figures, including a senior Anthropic employee and a former White House official, in phishing campaigns targeting AI policy experts at US universities, think tanks, and law firms, security researchers say. The bulk of these campaigns occurred in July, according to Proofpoint, which discovered the espionage attempts and attributed them to a China-aligned group it tracks as TA419. Proofpoint’s security alert comes a day after OpenAI accused China’s Moonshot AI of stealing the American models’ reasoning and other data in distillation attacks that began on July 1. “In July 2026, TA419 impersonated multiple individuals, including a former member of the White House Office of Science and Technology Policy leadership team, in credential phishing campaigns targeting AI policy experts in the US,” Proofpoint threat-intelligence analyst Mark Kelly said in a Thursday report. Beginning July 8, TA419 sent phishing emails spoofing Lynne Edwards Parker, the former principal deputy director of the White House Office of Science and Technology Policy, and then Heidi Crebo-Rediker, a prominent economist and foreign policy expert, to even more American AI policy experts at think tanks, universities, and law firms. The suspected spies’ emails invited their targets to join a fake AI policy advisory committee or contribute to a Senate foreign relations committee report on AI export controls and supply chains. If the American AI expert replied
 
-### AWS offers local, open source leash for agent harnesses
-Thu, 01 Oct 2026 18:11:25 +0200 — https://www.theregister.com/ai-and-ml/2026/10/01/aws-offers-local-open-source-leash-for-agent-harnesses/5300578
-
-If you don't want your AI agents running out of control and changing files or transferring data outside your rules, AWS has published an open source software library that it claims can add a new layer of policy control. Just as a dog’s harness is useless without a leash to keep it under control, the Dogwood Local Engine promises to put AI agent tool calls on a leash, blocking actions that don’t meet user-defined temporal conditions. The DLE comes in the form of a Rust library that can be embedded into an agent’s harness or gateway and, to boil a long explanation down to a single sentence, simply issues allow/deny verdicts each time an agent tries to make a tool call. DLE doesn’t do the enforcement itself, AWS explained in its announcement writeup - that’s up to the harness itself - but it does check each tool call against policies defined using Dogwood, the open source governance language that AWS published in August. When AWS introduced Dogwood, it open sourced the language and reference tooling and added support for it to Amazon Bedrock AgentCore; DLE’s release makes the policy engine directly embeddable into agent harnesses. A key feature of both DLE and Dogwood is their awareness of temporal conditions. DLE tracks agent tool call events over time, stamping them into a log step by step. Those logs are persisted to a disk as each entry is made, allowing DLE to retain its state even if the entire system crashes or is restarted. The persistence step happens before DLE evaluat
-
-### Microsoft makes Windows settings backup the default in 26H2
-Thu, 01 Oct 2026 17:31:00 +0200 — https://www.theregister.com/os-platforms/2026/10/01/microsoft-makes-windows-settings-backup-the-default-in-26h2/5300552
-
-Windows 11 26H2 is out, and Microsoft has enabled Windows settings backup by default, a move that could send administrators scrambling to opt out where they once had to opt in. The latest release hasn't made a lot of shockwaves in the community featurewise. Users with up-to-date versions of 25H2 will unlikely notice much difference – 26H2 has the same code base, delivered via an enablement package. It even has the same set of known issues, although all are now "mitigated" in one way or another. However, administrators will spot several important changes. The end-of-support clock is reset, and Microsoft has flipped some switches behind the scenes; notably, enabling Windows backup and restore (formerly Windows Backup for Organizations) by default. On by default The service, which was previously off by default, backs up a device's settings and a list of installed Microsoft Store apps. The idea is that when a user moves to a new device, a restore can happen during setup. Microsoft also listed an objective of the service as allowing "organizations to transition to a cloud-first approach for managing devices and user settings." The problem is that many organizations are prohibited from sending this data to the cloud. As a result, the default-on setting won't apply in privacy-sensitive regions such as those covered by the EU Digital Markets Act, or in sovereign and restricted environments. For many others running Windows 11 26H2, it'll now be enabled by default on eligible devices –
-
-### Build the right AI factory for your needs: partner for success
-Thu, 01 Oct 2026 17:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/01/sponsored-build-the-right-ai-factory-for-your-needs-partner-for-success/5300143
-
-AI ambition is easy to describe - using data and models to improve decisions, automate work, accelerate discovery, or create new services. Delivering those outcomes is harder and takes a significant amount of experience to be successful. Training a frontier model, fine-tuning an industry model, running high-volume inference and supporting agentic AI place different demands on infrastructure, processes and people. Implementing AI may include a single-purpose turnkey configuration that will accommodate one line of business, or the business may demand a more strategic approach to capitalize on the economies of scale and create AI as a multi-tenant service, designed to accommodate the multitude of mainstream business requirements. That is the value of an AI factory, bringing the complete AI lifecycle together so a cost-effective infrastructure can be designed around the mission, scaled with demand, secured as needed and operated as a dependable source of intelligence. The AI factory is designed to deliver the capacity, performance, utilization and business value customers expect. From AI workload to business outcome An AI factory is an integrated solution for data ingestion, model development, training, fine-tuning, inference, monitoring and continuous improvement. Its purpose is to turn data into intelligence repeatedly and efficiently—whether that intelligence supports a clinician, an engineer, a researcher, a public service or an enterprise application. Achieving that goal req
-
-### Microsoft catches hackers exploiting Zimbra bug before disclosure
-Thu, 01 Oct 2026 16:44:00 +0200 — https://www.theregister.com/security/2026/10/01/microsoft-catches-hackers-exploiting-zimbra-bug-before-disclosure/5300543
-
-Attackers were poking at a critical Zimbra mail server bug weeks before it was publicly disclosed, and then moved on to steal credentials, raid mailboxes, and take deeper control of compromised systems. Microsoft Threat Intelligence said it tracked exploitation of CVE-2026-73570, an unauthenticated command injection vulnerability in Zimbra Collaboration Suite that gives attackers a potentially easy route into exposed mail servers. No stolen password or unfortunate employee clicking a dodgy link is required. An attacker can send a specially crafted email to a vulnerable internet-facing server and potentially run commands, though Redmond notes the flaw affects only servers running Zimbra's optional SNMP monitoring package with notifications enabled. Zimbra fixed the flaw in version 10.1.20 on July 20, but CVE-2026-73570 wasn't publicly disclosed until August 13. Between July 28 and August 7, Redmond spotted two different scanning tools probing the same part of Zimbra later used in attacks. At first, the activity appears to have focused on finding vulnerable servers and testing the flaw. The attackers used a collection of common network utilities to make vulnerable systems call back to infrastructure they controlled, confirming they could execute commands. Once they found servers that played ball, things got messier. Microsoft's investigation found attackers deploying web shells and reverse shells, escalating their privileges, installing tools for persistent remote access, and r
-
-### MI5 warns UK academics their research may have helped Chinese spies
-Thu, 01 Oct 2026 16:04:00 +0200 — https://www.theregister.com/security/2026/10/01/mi5-warns-uk-academics-their-research-may-have-helped-chinese-spies/5300502
-
-MI5 has warned that more than 100 UK-linked academics contributed to research projects allegedly funded to improve China's spying capabilities. The Security Service issued an unusually public espionage alert this week naming the China General Technology Research Institute (CGTRI), also translated as the China Academy of General Technology (CAGT). MI5 says the organization has "very strong ties" to China's Ministry of State Security (MSS), the country's civilian intelligence agency. According to MI5, CGTRI's "primary purpose" is to fund academic research that directly improves the MSS's technical espionage capabilities. More than 100 UK-linked academics have contributed to CGTRI-funded projects involving AI, cybersecurity, covert communications, and steganography, the agency said. Some may not have known who was ultimately financing the work. "This activity supports MSS espionage, which poses a threat to UK national security," MI5 said. MI5 isn't accusing all of the academics involved of knowingly helping Chinese intelligence. Its alert acknowledges that many institutions and individuals likely dealt with CGTRI "in good faith" because of what it describes as the organization's "obfuscated links" to the MSS. MI5 "strongly advised" UK universities to review immediately any current or planned collaboration with CGTRI and ensure that the MSS derives no further benefit from British research. Academics working with Chinese institutions are also being told to establish who is ultimat
-
-### CISO thought he had a 'r3@lg00dp@$$w0rd' but forgot to patch
-Thu, 01 Oct 2026 15:32:00 +0200 — https://www.theregister.com/security/2026/10/01/ciso-thought-he-had-a-r3lg00dpw0rd-but-forgot-to-patch/5300314
-
-Welcome back to PWNED, the weekly column where we warn you about weak security practices. This week’s terrifying tale involves a lack of important patching and a humorously bad password belonging to the person in charge of tech security at a law firm. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com. Anonymity is available upon request. Our story comes courtesy of Joe Brinkley, who is director of offensive security research and community at Cobalt, is known as “The Blind Hacker,” and has more than two decades of experience in information security. Joe was called in several years ago by a large, national law firm that wanted him to penetration test a smaller business they were about to acquire. What he discovered was a huge security hole and an even bigger embarrassment. Brinkley had audited the same law firm the previous year. At that time, he noted a number of holes and the attorneys had dutifully spent time and money on security software from the likes of Reliaquest and Dell to remediate what he found. “I shredded them. They were not in a very good security posture,” Brinkley told us. “They spent probably a half a million dollars to get patching and get through these things because they were trying to go through a merger and acquisition.” Unfortunately, even with their investment, the company failed to patch its Windows machines against BlueKeep, a major remote code execution vuln that was discovered, patched, and explo
-
-### Exchange Web Services enters the final stretch before Microsoft pulls access
-Thu, 01 Oct 2026 14:59:00 +0200 — https://www.theregister.com/saas/2026/10/01/exchange-web-services-enters-the-final-stretch-before-microsoft-pulls-access/5300458
-
-Microsoft begins disabling Exchange Web Services (EWS) in Exchange Online today, ahead of the API's permanent retirement on April 1, 2027. Introduced with Exchange Server 2007, EWS allows applications to access mailbox data including email, calendars, and contacts. Microsoft says the service "no longer aligns with today's security, scale, or reliability requirements" and recommends moving integrations to Microsoft Graph, although some capability gaps remain. Beginning October 1, Microsoft will start changing tenant-level EwsEnabled settings left at $null to $false, blocking EWS. Administrators needing temporary continuity can explicitly set the value to $true and add approved applications to the EwsAllowedAppIDs list. Applications not on that list will be blocked. That buys time only until April 1, 2027, when Microsoft will disable EWS permanently. The company was unequivocal: "There will be no exceptions." The retirement applies only to EWS in Exchange Online. EWS in on-premises Exchange Server is unaffected. Microsoft stopped adding features to EWS in Exchange Online in 2018 and announced its retirement in 2023. Administrators have therefore had years to prepare, but moving away from a deeply embedded API is not necessarily straightforward. Markus Müller, global field CTO for API management at Boomi, said one of the biggest migration challenges was identifying every use of EWS. "With rapid integration rollouts and limited documentation, many lack a complete inventory of the
-
-### Palantir's Tom Watson lectures MP on accuracy, citing selective data
-Thu, 01 Oct 2026 14:41:31 +0200 — https://www.theregister.com/public-sector/2026/10/01/palantirs-tom-watson-lectures-mp-on-accuracy-citing-selective-data/5300493
-
-Palantir's newly appointed UK senior vice president Tom Watson has accused Labour MP Clive Lewis of making "incorrect claims" about the company – while repeating NHS performance figures that the statistics regulator has said require careful caveats. Watson, the former deputy leader of the Labour Party, advised Palantir from 2024 before joining it full-time last month. He now works alongside Louis Mosley, the company's executive vice president for the UK and Europe. His letter to Lewis was reported by The Nerve after the MP discussed it at the Labour Party conference this week. Watson challenged Lewis's statements about Palantir's UK contracts in healthcare, policing, and defense. Lewis said the level of detail in the letter felt like a message that "we're watching you." Palantir's Gotham or Foundry software would not have been needed to compile the dossier: Watson cited statements made in Parliament, written questions, interviews, opinion pieces, and social media. Watson also described Palantir as a major UK investor and said its software had helped convict a gang stealing money from ATMs, support victims of domestic abuse, and improve the availability of Royal Navy vessels. In rebutting what he described as misinformation, Watson said the NHS Federated Data Platform (FDP) was live at 142 trusts and that "137 are already reporting benefits." The broad claim echoes figures promoted by NHS England, which the Office for Statistics Regulation (OSR) subsequently told to communicat
-
-### England's schools are getting better at mopping up cyber incidents
-Thu, 01 Oct 2026 13:40:13 +0200 — https://www.theregister.com/security/2026/10/01/englands-schools-are-getting-better-at-mopping-up-cyber-incidents/5300465
-
-England's secondary schools are reporting slightly fewer cybersecurity incidents and faster recovery when disaster strikes, according to a survey by exams regulator Ofqual. Twenty-seven percent of schools reported an incident during the 2025/26 academic year, down from 29 percent a year earlier and 34 percent in 2023/24. Ofqual surveyed 3,775 secondary teachers in England in July. For questions concerning whole schools, it counted one response from the most senior participating teacher at each institution, producing a sample of up to 2,162 schools. Phishing was the most commonly reported type of incident, followed by data protection breaches, hacking, and ransomware. Ransomware affected 2 percent of respondents. Staff data was the information most commonly compromised. Student data was affected in 13 percent of incidents, while student work was affected in one percent. Recovery times improved more clearly. Among schools reporting an incident, 66 percent said they recovered "immediately," up from 55 percent the previous academic year. A further 12 percent recovered within half a school term – roughly six or seven weeks – while one percent took longer than half a term and another one percent required at least a full term. The proportion of reported incidents causing what respondents considered "critical damage" also fell from ten to seven percent, Ofqual said. "Critical damage" was not defined. The regulator told The Register that respondents were free to interpret the question
-
-### UK privacy watchdog starts over with new board and Manchester HQ
-Thu, 01 Oct 2026 12:42:00 +0200 — https://www.theregister.com/security/2026/10/01/uk-privacy-watchdog-starts-over-with-new-board-and-manchester-hq/5300439
-
-Britain's data protection watchdog has acquired a new legal identity and governance structure, although the familiar ICO initials are staying put. On September 30, the Information Commission replaced the Information Commissioner as the statutory regulator. The organization itself will be known as the Information Commission's Office and will continue using the ICO name. The change is more than a bureaucratic rebrand. The former regulator was a "corporation sole," meaning its statutory powers and responsibilities were vested in one person: the Information Commissioner. Those functions have now transferred to a corporate body overseen by executive and non-executive board members. The new structure was created by the Data (Use and Access) Act 2025, which received Royal Assent in June 2025. The government says it will modernize the watchdog's governance without changing its existing regulatory functions. The transition follows an awkward final few months under the old structure. Information Commissioner John Edwards resigned in June after an independent workplace investigation into his conduct, admitting that his position had become "untenable" and that attempts at humor had been "inappropriate and caused offense." Edwards had stepped back from his duties in April, and the ICO removed his remaining responsibilities after the investigation concluded there was "a case to answer." Paul Arnold, who assumed Edwards' statutory responsibilities before his resignation, is serving as inter
-
-### Sopra Steria widens legal challenge to Capita's Whitehall outsourcing deal
-Thu, 01 Oct 2026 12:00:00 +0200 — https://www.theregister.com/public-sector/2026/10/01/sopra-steria-widens-legal-challenge-to-capitas-whitehall-outsourcing-deal/5300051
-
-Sopra Steria has expanded its legal challenge to a major UK government contract award after obtaining an unredacted copy of the agreement between Capita and the Department for Work and Pensions (DWP). The company alleges that previously undisclosed terms gave Capita preferential treatment, reduced the outsourcer's exposure to risk, and left the DWP carrying more of it. One clause could allow the department to fund technology needed to compensate for deficiencies in Capita's tender, Sopra Steria claims. Capita values the deal at £370 million, although government documents put its potential value as high as £873.4 million. Sopra Steria has been challenging the award since March, alleging that the DWP accepted an "abnormally low" bid based on staffing numbers "significantly below the current levels." The dispute concerns a contract to provide finance, payroll, HR, procurement, and other shared services across four government departments. Capita, which is also responsible for the troubled transfer of the Civil Service Pension Scheme, beat incumbent provider Shared Services Connected Ltd (SSCL), a former joint venture with the UK government that is now wholly owned by French-headquartered systems integrator Sopra Steria. At the time of the award, Capita said it had participated in a robust procurement process and was ready to deliver value for money. The DWP maintained that it had conducted a fair competition and that the deal represented value for the public. The DWP leads the Sy
-
 ## Engadget
+
+### Balcony solar installations will soon be legal in America's most populous state
+Fri, 02 Oct 2026 09:39:12 +0000 — https://www.engadget.com/2275466/california-legalizes-balcony-plug-in-solar/
+
+California has joined nine other US states in approving balcony solar installations.
+
+### New Mexico wants Meta to pay $40 billion in penalties for Cambridge Analytica scandal
+Fri, 02 Oct 2026 08:47:29 +0000 — https://www.engadget.com/2275451/new-mexico-meta-40-billion-penalties-cambridge-analytica-lawsuit/
+
+New Mexico's attorney argued that the penalties Meta has to pay need to be significant enough to make an impact on the company.
+
+### Florida county finds 11 unpermitted Flock cameras with unidentified owners
+Thu, 01 Oct 2026 22:57:20 +0000 — https://www.engadget.com/2275315/florida-county-finds-11-unpermitted-flock-cameras-with-unidentified-owners/
+
+St. Lucie County thought it had 52 Flock cameras, but found many more that were unaccounted for and unpermitted.
+
+### ChatGPT can now help you virtually try on clothes
+Thu, 01 Oct 2026 22:27:39 +0000 — https://www.engadget.com/2275295/chatgpt-can-now-help-you-virtually-try-on-clothes/
+
+Images are generated with OpenAI's latest model and you can save clothes you like for later.
+
+### OpenAI fires three employees who allegedly shared info with an external AI safety group
+Thu, 01 Oct 2026 22:05:43 +0000 — https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/
+
+You can't make this stuff up.
+
+### Samsung launches its first clip-on earbuds in South Korea
+Thu, 01 Oct 2026 20:57:39 +0000 — https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/
+
+A global rollout will follow, although we don't yet know the details.
+
+### Metro 2033 and Metro: Last Light remasters are getting free next-gen updates this month
+Thu, 01 Oct 2026 20:52:37 +0000 — https://www.engadget.com/2275181/metro-2033-and-metro-last-light-remasters-are-getting-free-next-gen-updates/
+
+Take a trip down memory lane with the first two games in the series.
+
+### Police may have new ways to access data on locked iPhones
+Thu, 01 Oct 2026 20:43:15 +0000 — https://www.engadget.com/2275167/police-may-have-new-ways-to-access-data-on-locked-iphones/
+
+A training video reportedly demonstrates how police can evade an Apple security feature.
+
+### Judge dismisses lawsuits claiming Google's AI Overviews siphon web traffic
+Thu, 01 Oct 2026 19:20:32 +0000 — https://www.engadget.com/2275023/judge-dismisses-lawsuits-claiming-googles-ai-overviews-siphon-web-traffic/
+
+Google may have a monopoly in search, but neither lawsuit made a compelling case the company was leveraging it.
 
 ### The Steam Autumn Sale has deals on Resident Evil Requiem and 007 First Light
 Thu, 01 Oct 2026 18:37:56 +0000 — https://www.engadget.com/2274933/the-steam-autumn-sale-has-deals-on-resident-evil-requiem-and-007-first-light/
@@ -317,52 +362,42 @@ Thu, 01 Oct 2026 17:15:00 +0000 — https://www.engadget.com/2274733/pandora-str
 
 The SiriusXM service joins a long list of streamers that have increased rates this year.
 
-### Sony brings AI upscaling to the base PS5
-Thu, 01 Oct 2026 17:00:21 +0000 — https://www.engadget.com/2274744/sony-brings-ai-upscaling-to-the-base-ps5/
-
-Marvel's Wolverine and Ghost of Yōtei are the first games to support Quick Spectral Super Resolution.
-
-### Samsung Galaxy Tab S12 Ultra vs Galaxy Tab S11 Ultra: The difference one year can make
-Thu, 01 Oct 2026 17:00:00 +0000 — https://www.engadget.com/2274708/samsung-galaxy-tablet-s12-ultra-vs-tab-s11-ultra-differences/
-
-An iterative upgrade once again for Samsung's laptop-sized tablet line.
-
-### Audible thinks you want to have an AI-generated conversation with Dracula's beleaguered servant
-Thu, 01 Oct 2026 16:21:54 +0000 — https://www.engadget.com/2274668/audible-thinks-you-want-to-have-an-ai-generated-conversation-with-draculas-beleaguered-servant/
-
-The platform is rolling out Interactive Stories starting with Bram Stoker's classic.
-
-### Engadget's best of 2026
-Thu, 01 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2274600/engadgets-best-of-2026/
-
-The highest-rated devices that we reviewed this year in a variety of categories.
-
-### Samsung suddenly jacks up the prices of Galaxy S26 phones
-Thu, 01 Oct 2026 15:53:58 +0000 — https://www.engadget.com/2274612/samsung-suddenly-jacks-up-the-prices-of-galaxy-s26-phones/
-
-RAMageddon comes for us all.
-
-### Newsom vetoes smart glasses privacy bill
-Thu, 01 Oct 2026 15:05:20 +0000 — https://www.engadget.com/2274526/newsom-vetoes-smart-glasses-privacy-bill/
-
-The language of the bill was overbroad, in Newsom's opinion.
-
-### Japanese court rules human voices are protected in landmark AI case
-Thu, 01 Oct 2026 14:58:44 +0000 — https://www.engadget.com/2274521/japanese-court-rules-human-voices-are-protected-in-landmark-ai-case/
-
-Humans vs AI: It's time to d-d-d-d-duel.
-
-### Amazon introduces new Kindle Paperwhite, Colorsoft and entry-level models
-Thu, 01 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2274300/amazon-launches-new-kindle-paperwhite-colorsoft-models-late-2026/
-
-Amazon's new Kindle e-readers come with flat-surface displays and new colors.
-
-### HP's Omnibook 5 features an OLED screen and costs $699
-Thu, 01 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2273550/hps-omnibook-5-features-an-oled-screen-and-costs-dollar699/
-
-It also lasts up to 42 hours on a single charge.
-
 ## TechCrunch
+
+### Robotaxi operators will face fines for blocking first responders
+Fri, 02 Oct 2026 00:57:57 +0000 — https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/
+
+A new California law places new rules on autonomous vehicles operators
+
+### The founder s guide to TechCrunch Disrupt 2026: Everything you need to know
+Fri, 02 Oct 2026 00:03:23 +0000 — https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/
+
+TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.
+
+### Lyft is paying $272.5M to settle lawsuit over how it classified drivers
+Thu, 01 Oct 2026 21:57:08 +0000 — https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/
+
+Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.
+
+### Kevin Mandia s new agent swarm security startup Armadin raises $255.5M at $2.5B valuation
+Thu, 01 Oct 2026 21:55:22 +0000 — https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/
+
+Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.
+
+### Musk s AI chatbot Grok reportedly encouraged Trump to capture Venezuela s president
+Thu, 01 Oct 2026 21:08:11 +0000 — https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/
+
+President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.
+
+### ChatGPT can now virtually try on clothes for you
+Thu, 01 Oct 2026 19:21:53 +0000 — https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
+
+OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.
+
+### Google thinks SpaceX s Starship has to launch 1,800 times before space data centers get off the ground
+Thu, 01 Oct 2026 19:18:03 +0000 — https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/
+
+Google launched its first advanced chip into orbit to pave the way for space data centers.
 
 ### World’s first enhanced geothermal power plant completed in just 23 months
 Thu, 01 Oct 2026 18:35:55 +0000 — https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/
@@ -379,8 +414,8 @@ Thu, 01 Oct 2026 17:50:19 +0000 — https://techcrunch.com/2026/10/01/opus-5-5-l
 
 Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.
 
-### This startup wants to turn idle user car inventory into rental revenue
-Thu, 01 Oct 2026 17:09:00 +0000 — https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-user-car-inventory-into-rental-revenue/
+### This startup wants to turn idle car inventory into rental revenue
+Thu, 01 Oct 2026 17:09:00 +0000 — https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/
 
 When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15 in San Francisco.
 
@@ -388,39 +423,4 @@ When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars
 Thu, 01 Oct 2026 16:49:22 +0000 — https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/
 
 Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.
-
-### Shopify debuts Canvas, a way to build online stores by chatting with AI
-Thu, 01 Oct 2026 16:44:35 +0000 — https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/
-
-Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.
-
-### California governor vetoes bill banning use of pervert glasses to secretly record people
-Thu, 01 Oct 2026 16:35:25 +0000 — https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/
-
-The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.
-
-### One year later, Tesla and Musk still don t have a good definition of abundance
-Thu, 01 Oct 2026 15:50:10 +0000 — https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/
-
-The CEO promised to get more specific about his vision. But the details are still absent.
-
-### Brian Chesky interview: AI agents need their own operating system
-Thu, 01 Oct 2026 15:12:00 +0000 — https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/
-
-Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.
-
-### Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.
-Thu, 01 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/
-
-The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.
-
-### Hearing tech startup Legato launches its AI hearing glasses
-Thu, 01 Oct 2026 13:00:00 +0000 — https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/
-
-The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.
-
-### Audible s new features let you explore book worlds — and use AI to talk to characters
-Thu, 01 Oct 2026 13:00:00 +0000 — https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/
-
-Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.
 

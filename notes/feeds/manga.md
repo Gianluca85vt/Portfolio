@@ -1,6 +1,51 @@
-# Manga — harvested 2026-10-01T19:02:06.619Z
+# Manga — harvested 2026-10-02T10:44:04.832Z
 
 ## Anime News Network
+
+### WEBTOON Entertainment Names 2 Co-CEOs for Naver Webtoon
+Fri, 02 Oct 2026 04:54:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/webtoon-entertainment-names-2-co-ceos-for-naver-webtoon/.242406
+
+Founder of WEBTOON Junkoo Kim will step down as Naver Webtoon's CEO
+
+### Voice Actor Naoki Bandō Dies at 69
+Fri, 02 Oct 2026 01:22:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/voice-actor-naoki-bando-dies-at-69/.242404
+
+Career spanned more than 4 decades; voiced Robonyan in <cite>Yo-kai Watch</cite>, Minovsky in <cite>Gundam: The Origin</cite>
+
+### Kagurabachi Anime Casts Yūichi Nakamura
+Thu, 01 Oct 2026 23:59:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/kagurabachi-anime-casts-yuichi-nakamura/.242402
+
+Nakamura plays Soshiro Azami
+
+### Bandai Namco Cross Store & The Gundam Base's Openings at Mall of America Delayed
+Thu, 01 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-01/bandai-namco-cross-store-and-the-gundam-base-openings-at-mall-of-america-delayed/.242366
+
+The new opening date at Minneapolis is “to be determined”
+
+### My Happy Marriage Anime Special's Main Promo Video Reveals Opening Theme Song
+Thu, 01 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/my-happy-marriage-anime-special-main-promo-video-reveals-opening-theme-song/.242381
+
+Riria. performs opening theme song for 3-episode special on October 25
+
+### Tapas to End Service in March 2027, Leaving Readers Without Access to Purchased Content
+Thu, 01 Oct 2026 17:03:37 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/tapas-to-end-service-in-march-2027-leaving-readers-without-access-to-purchased-content/.242384
+
+Starting on October 1, users can no longer acquire additional Ink through app
+
+### 'More Than a Married Couple, But Not Lovers' Manga Resumes from Hiatus
+Thu, 01 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/more-than-a-married-couple-but-not-lovers-manga-resumes-from-hiatus/.242391
+
+Manga went on hiatus in March 2025
+
+### Topo Gigio's Voice Actor Peppino Mazzullo Dies
+Thu, 01 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/topo-gigio-voice-actor-peppino-mazzullo-dies/.242388
+
+Mazzullo voiced mouse character Topo Gigio in puppet appearances, 1988 anime
+
+### Evangelion: Δ Cross Reflections Extended Reality Game Streams Teaser Video
+Thu, 01 Oct 2026 14:34:21 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/evangelion-cross-reflections-extended-reality-game-streams-teaser-video/.242390
+
+1st game launches in 2027 following delay from 2026
 
 ### Tasokare Hotel -Tsubomi- Smartphone Game Ends Service
 Thu, 01 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/tasokare-hotel-tsubomi-smartphone-game-ends-service/.242385
@@ -17,56 +62,26 @@ Thu, 01 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hell
 
 Nothing says thrilling like watching someone throw rocks at trees while they think about their stats.
 
-### GlobalComix Adds Tomb Raider King, Overgeared, Love Tattoo, The Insipid Prince's Furtive Grab for The Throne, More Titles
-Thu, 01 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/globalcomix-adds-tomb-raider-king-overgeared-love-tattoo-the-insipid-prince-furtive-grab-for-the-/.242382
-
-Also: <cite>To Sir, Without Love: I'm Divorcing You</cite>, <cite>The Return of the Disaster-Class Hero</cite>
-
-### Hideki Arai's SPUNK! Manga Gets Live-Action Film
-Thu, 01 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/hideki-arai-spunk-manga-gets-live-action-film/.242359
-
-Crowdfunding project also launched for film
-
-### This Week in Anime - Unhappy with Endings
-Thu, 01 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-01/.242335
-
-In the wake of <i>Goodbye, Lara</i> 's finale, Sylvia and Coop discuss anime endings that left viewers wanting.
-
-### A Bride's Story Manga Gets New Volume Under New Publisher This Winter
-Thu, 01 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/a-bride-story-manga-gets-new-volume-under-new-publisher-this-winter/.242361
-
-New <cite>Otoyomegatari Zoku no 1</cite> volume will have 3 chapters, about 80 pages, larger A4 size, with planned 16th volume
-
-### The Fall 2026 Anime Preview Guide
-Thu, 01 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/preview-guide/2026/fall/.241248
-
-The season's just started, and we have nine featured shows! Read our reviews for <cite>STEEL BALL RUN</cite>, <cite>Firefly Wedding</cite>, <cite>Overgeared</cite>, <cite>Vermilion Mask</cite>, <cite>Reincarnated as a Sword</cite>, and more!
-
-### Bless TV Anime Casts Kentarō Kumagai
-Thu, 01 Oct 2026 08:12:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/bless-tv-anime-casts-kentaro-kumagai/.242380
-
-Kumagai as MM in January 2027 anime
-
-### Grandgear Film by Godzilla Minus One's Takashi Yamazaki Opens in January 2028
-Thu, 01 Oct 2026 07:38:32 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-01/grandgear-film-by-godzilla-minus-one-takashi-yamazaki-opens-in-january-2028/.242362
-
-Sony Pictures announced on Wednesday that&nbsp;Godzilla Minus One director Takashi Yamazaki's first English-language film Grandgear has moved up its release...
-
-### Seiji Ebisu's Bishōjo shika Inai Seitokai no Gidai ga Itsumo Ore na Ken Novel Gets Manga Adaptation
-Thu, 01 Oct 2026 07:33:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-01/seiji-ebisu-bishojo-shika-inai-seitokai-no-gidai-ga-itsumo-ore-na-ken-novel-gets-manga-adaptation/.242332
-
-Manga adaptation by Tarara launched on Monday
-
-### I Want to Love You Till Your Dying Day ‒ Episode 13
-Thu, 01 Oct 2026 07:30:38 -0400 — https://www.animenewsnetwork.com/review/i-want-to-love-you-till-your-dying-day/episode-13/.242365
-
-The show could've ended last week, and that probably would've been more fitting.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Apothecary Diaries Season 3 Releases Creditless Opening Ahead of Today's Premiere
+Fri, 02 Oct 2026 10:11:59 GMT — https://animecorner.me/the-apothecary-diaries-season-3-releases-creditless-opening-ahead-of-todays-premiere/
+
+The Apothecary Diaries Season 3 revealed the creditless opening video ahead of the anime's premiere later today.
+
+### Interview: Nami Tamaki on Starbound Tour, Anisongs, and her Fans
+Fri, 02 Oct 2026 08:09:50 GMT — https://animecorner.me/interview-nami-tamaki-on-starbound-tour-anisongs-and-her-fans/
+
+We had the honor of having a short interview with anisong artist and Gundam&hellip;
+
+### Interview: ZAQ on Composing Anisongs and Visiting the Philippines
+Fri, 02 Oct 2026 07:43:31 GMT — https://animecorner.me/interview-zaq-on-composing-anisongs-and-visiting-the-philippines/
+
+We had the honor of chatting with the Japanese singer-songwriter ZAQ during her visit&hellip;
 
 ### Bottom-Tier Character Tomozaki Light Novel To Conclude With 12th Volume
 Thu, 01 Oct 2026 09:28:13 GMT — https://animecorner.me/bottom-tier-character-tomozaki-light-novel-to-end-with-12th-volume/
@@ -93,17 +108,12 @@ Wed, 30 Sep 2026 12:45:09 GMT — https://animecorner.me/seirei-gensouki-spirit-
 
 Seirei Gensouki: Spirit Chronicles Season 3 was officially announced, along with a commemorative message from the author.
 
-### Witch on the Holy Night Movie Reveals Final Trailer, Staff, supercell Theme Song and New Character Visual
-Wed, 30 Sep 2026 10:35:58 GMT — https://animecorner.me/witch-on-the-holy-night-movie-reveals-final-trailer-staff-supercell-theme-song-and-new-character-visual/
-
-Witch on the Holy Night anime film has released its final 90-second trailer and staff ahead of its November 20, 2026 premiere in Japan.
-
-### Interview: Junko Takeuchi, Voice of Naruto, Gon, & Endou Mamoru
-Wed, 30 Sep 2026 04:47:21 GMT — https://animecorner.me/interview-junko-takeuchi-voice-of-naruto-gon-endou-mamoru/
-
-Junko Takeuchi is a voice actor uniquely capable of delivering performances for the kinds&hellip;
-
 ## MyAnimeList News
+
+### Demons Crest Unveils Additional Cast Pair, Ending Theme, Second Promo
+Fri, 02 Oct 2026 02:21:46 -0700 — https://myanimelist.net/news/74782123?_location=rss
+
+The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel unveiled a pair of additional cast, the theme songs, and second promotional video on Friday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Voice actors Atsushi Tamaru (Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken) and Ayumu Murase (Yomi no Tsugai) are joining the cast as Shin Haizaki and Kakeru Niki, respectively. Singer-songwriter So...
 
 ### Light Novel Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita Gets TV Anime
 Wed, 30 Sep 2026 21:58:24 -0700 — https://myanimelist.net/news/74778514?_location=rss
@@ -145,16 +155,6 @@ Wed, 30 Sep 2026 03:58:43 -0700 — https://myanimelist.net/news/74775734?_locat
 
 The special livestream presentation for the anime movie adaptation of Type-Moon s Mahoutsukai no Yoru (Witch on the Holy Night) visual novel reveals production staff, theme song, and final promotional video on Wednesday. Produced by ufotable, the film is scheduled to open in Japanese theaters on November 20. Staff Director: Masashi Takeuchi (Kimetsu no Yaiba Movie: Mugen Ressha-hen episode director) Chief Director: Hikaru Kondou (Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai) Script...
 
-### Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo Theatrical Release Postponed
-Wed, 30 Sep 2026 02:58:34 -0700 — https://myanimelist.net/news/74775666?_location=rss
-
-The official website for the Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo (Fairy Princess Minky Momo) original video anime announced on Wednesday that its theatrical release has been postponed due to production circumstances. The OVA was originally scheduled to open in Japan on November 13. A new release date will be announced at a later time. The production committee apologized to viewers and related parties for the postponement. Advance tickets that have already been purch...
-
-### Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu Reveals Additional Cast, Staff, First Promo, Winter 2027 Premiere
-Wed, 30 Sep 2026 02:39:21 -0700 — https://myanimelist.net/news/74775638?_location=rss
-
-The official website for the television anime adaptation of Kotoko and Kaname Hanamiya s Odebu Akujo ni Tensei shitara, Nazeka Last Boss Oujisama ni Shuuchaku sareteimasu (The Final-Boss Prince Is Somehow Obsessed with the Chubby Villainess: Reincarnated Me) web manga revealed additional cast, staff, a first key visual (pictured), and the first promotional video on Wednesday. The anime will premiere on Tokyo MX, BS Nippon, AT-X, CBC TV, and other stations in January 2027. Voice actors Shuni...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -170,9 +170,4 @@ A remaster of the series Dragon Ball Super, from the legendary Akira Toriyama, D
 Wed, 30 Sep 2026 17:10:17 +0000 — https://animeuknews.net/2026/09/more-titles-join-crunchyrolls-fall-autumn-2026-slate/
 
 New shows include: From Far Away, Super Psychic Policeman Chojo, HORROR COLLECTOR, and more.
-
-### I Want to Love You Till Your Dying Day Volumes 4, 5 and 6 Review
-Wed, 30 Sep 2026 09:00:12 +0000 — https://animeuknews.net/2026/09/i-want-to-love-you-till-your-dying-day-volumes-4-5-and-6-review/
-
-With its anime adaptation drawing to a close, we return to Nachi Aono's original manga.
 

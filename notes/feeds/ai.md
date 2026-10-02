@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-01T19:02:06.619Z
+# AI — harvested 2026-10-02T10:44:04.832Z
 
 ## OpenAI
 
@@ -12,23 +12,18 @@ Thu, 01 Oct 2026 16:00:00 GMT — https://openai.com/index/albertsons-reimaginin
 
 Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
 
-### Disrupting a coordinated model-distillation campaign
-Wed, 30 Sep 2026 10:30:00 GMT — https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign
+### The Den frees up 10-15 hours a week to grow with ChatGPT Work
+Thu, 01 Oct 2026 00:00:00 GMT — https://openai.com/index/the-den-family-social
 
-Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.
-
-### Helping small businesses put AI to work
-Wed, 30 Sep 2026 10:00:00 GMT — https://openai.com/index/helping-small-businesses-put-ai-to-work
-
-OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.
+As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
 
 ## Hugging Face
 
+### AutoSynthData: Generating Training Data for Enterprise Agents
+Fri, 02 Oct 2026 04:01:31 GMT — https://huggingface.co/blog/ServiceNow-AI/autosynthdata
+
 ### Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
 Thu, 01 Oct 2026 15:01:43 GMT — https://huggingface.co/blog/allenai/olmocore3
-
-### Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning
-Wed, 30 Sep 2026 00:00:00 GMT — https://huggingface.co/blog/open-tts-leaderboard
 
 ## Google DeepMind
 
