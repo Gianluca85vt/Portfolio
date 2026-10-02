@@ -3,7 +3,7 @@ title: "House of the Dragon: scaling Tumbleton's fire"
 date: 2026-10-02
 category: Film & TV
 excerpt: Rodeo FX's new talk on the season 3 finale is about scaling a fire sim to a whole battlefield. HBO put a real flamethrower behind the gate.
-cover: /img/blog/house-of-the-dragon-tumbleton-fire-simulation/cover.svg
+cover: /img/blog/house-of-the-dragon-tumbleton-fire-simulation/shot-01.jpg
 sources:
   - outlet: befores & afters
     url: https://beforesandafters.com/2026/10/01/watch-this-sidefx-presentation-on-rodeo-fxs-vfx-for-s3-of-house-of-the-dragon/
@@ -44,6 +44,11 @@ proportions, the look-development choices that gave Tumbleton its visual
 signature, and the workflow innovations the production developed to get there.
 
 ## Fire does not scale
+
+<figure>
+  <img src="/img/blog/house-of-the-dragon-tumbleton-fire-simulation/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Fire performers, Wikimedia Commons (free licence) — reference for how a large flame behaves, not a still from House of the Dragon. HBO's season 3 stills sit behind a login on press.wbd.com and could not be fetched.</figcaption>
+</figure>
 
 A dragon breathing once at a castle gate is a single simulation. You can throw
 resolution at it, push it through a few rounds of notes, cache it and hand it
