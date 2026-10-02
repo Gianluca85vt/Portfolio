@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Star Wars Galactic Racer averages 9.0 across eight verdicts">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#ffffff" opacity="0.72" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="6">GALACTIC RACER</text>
+  <text x="80" y="360" fill="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="230" font-weight="700">9.0</text>
+  <text x="80" y="430" fill="#ffffff" opacity="0.88" font-family="Helvetica,Arial,sans-serif" font-size="40">across eight verdicts, 8 to 10</text>
+  <text x="80" y="505" fill="#ffffff" opacity="0.6" font-family="Helvetica,Arial,sans-serif" font-size="32">Best-rated Star Wars game since 2003</text>
+</svg>
