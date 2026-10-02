@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="DGX Spark 64GB: half the memory, a thousand dollars more">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7621B0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="140" font-family="Inter, Helvetica, Arial, sans-serif" font-size="34" fill="#C9A8E8" letter-spacing="4">NVIDIA DGX SPARK</text>
+  <text x="80" y="300" font-family="Inter, Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">64GB</text>
+  <text x="80" y="300" font-family="Inter, Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF" opacity="0"> </text>
+  <text x="80" y="396" font-family="Inter, Helvetica, Arial, sans-serif" font-size="58" font-weight="600" fill="#F0E3FA">$4,999</text>
+  <text x="80" y="480" font-family="Inter, Helvetica, Arial, sans-serif" font-size="40" fill="#D9BFF0">half the memory,</text>
+  <text x="80" y="532" font-family="Inter, Helvetica, Arial, sans-serif" font-size="40" fill="#D9BFF0">$1,000 more than the 128GB</text>
+  <rect x="80" y="585" width="190" height="4" fill="#C9A8E8"/>
+</svg>
