@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-02T10:44:04.832Z
+# AI — harvested 2026-10-02T16:22:40.763Z
 
 ## OpenAI
+
+### A model guide for the GPT-6 family
+Fri, 02 Oct 2026 16:15:00 GMT — https://openai.com/index/practical-guide-building-gpt-6
+
+Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
 
 ### The eternal complement
 Thu, 01 Oct 2026 17:00:00 GMT — https://openai.com/index/the-eternal-complement
@@ -19,21 +24,16 @@ As it opens a new location, the social club prepares grant applications in 2 hou
 
 ## Hugging Face
 
+### Open-sourcing AstaBrief, the fast report-generation model in Asta
+Fri, 02 Oct 2026 15:19:50 GMT — https://huggingface.co/blog/allenai/astabrief
+
 ### AutoSynthData: Generating Training Data for Enterprise Agents
 Fri, 02 Oct 2026 04:01:31 GMT — https://huggingface.co/blog/ServiceNow-AI/autosynthdata
-
-### Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs
-Thu, 01 Oct 2026 15:01:43 GMT — https://huggingface.co/blog/allenai/olmocore3
 
 ## Google DeepMind
 
 ### Gemini 4 Argon: our next era of frontier intelligence
 Wed, 30 Sep 2026 20:01:45 +0000 — https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
-
-### Introducing SynthID Bio
-Wed, 30 Sep 2026 15:03:07 +0000 — https://deepmind.google/blog/introducing-synthid-bio/
-
-Proof of concept for watermarking AI-generated proteins while preserving biological function.
 
 ## VentureBeat AI
 

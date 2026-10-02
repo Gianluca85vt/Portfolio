@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-02T10:44:04.832Z
+# Film & TV — harvested 2026-10-02T16:22:40.763Z
 
 ## Variety
 
-### ‘A Talent for Murder’ Director Anton Corbijn Praises Helen Mirren’s Performance as Controversial Author Patricia Highsmith: ‘She’s a Great Jerk!’
-Fri, 02 Oct 2026 10:15:43 +0000 — https://variety.com/2026/film/global/anton-corbijn-helen-mirren-patricia-highsmith-1236894582/
+### CBS Sports, Tony Romo Break Up Following Pre-Season Intoxication Incident
+Fri, 02 Oct 2026 16:08:15 +0000 — https://variety.com/2026/tv/news/cbs-sports-tony-romo-break-up-intoxication-1236897643/
 
-In “A Talent for Murder,” director Anton Corbijn takes a closer look at writer Patricia Highsmith. Known for creating everyone’s favorite psychopath Tom Ripley, Highsmith – played by Helen Mirren – became a controversial figure because of her antisemitic and misanthropic statements. “By all accounts, she was much worse than what we show in the [ ]
+CBS Sports kicked off a massive industry spending spree when it lured former Dallas Cowboys quarterback Tony Romo to its NFL booth in 2017. Now the sports outlet is likely to tamp down on costs by parting ways with the celebrated color commentator. CBS Sports and Tony Romo have mutually agreed to part ways. We [ ]
 
-### Charlie Cox to Lead The King s Ransom Play in London
-Fri, 02 Oct 2026 10:00:00 +0000 — https://variety.com/2026/theater/global/charlie-cox-the-kings-ransom-play-london-1236894603/
+### Dan Houser on Leaving GTA 6 Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore
+Fri, 02 Oct 2026 16:00:00 +0000 — https://variety.com/2026/gaming/news/rockstar-dan-houser-gta-6-new-games-absurd-ventures-1236894786/
 
-Daredevil star Charlie Cox is returning to the London stage this winter to lead The King s Ransom, a new play by Stuart Slade. World premiering at the Donmar Warehouse, The King s Ransom is set in 1977 Memphis and stars Cox as Vince Black, a small-time crook who is offered the opportunity of a lifetime. The [ ]
+“Red Dead Redemption” and “Grand Theft Auto” mastermind Dan Houser is ready to spill the first significant details about his next video game projects. The co-founder and former head writer of Rockstar Games is currently developing two titles at his new media company, Absurd Ventures, which he formally launched in 2023 following his 2020 exit [ ]
 
-### Michael De Luca and Pamela Abdy to Depart at Warner Bros. Following Paramount Close
-Fri, 02 Oct 2026 06:15:17 +0000 — https://variety.com/2026/film/news/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-close-1236897365/
+### Power 25 Marketers and Advertisers: From Sales to Creative to Measurement, These Leaders Drive the Business of Madison Avenue
+Fri, 02 Oct 2026 16:00:00 +0000 — https://variety.com/lists/power-25-marketers-advertisers-keegan-michael-key-miles/
 
-Michael De Luca and Pamela Abdy’s term as chiefs of Warner Bros. is coming to an end. Multiple sources told Variety that De Luca and Abdy will not be part of David Ellison s management team after the merger between Paramount Skydance and Warner Bros. Discovery closes. The landmark $110 billion pact is expected to be [ ]
+Even people who have been around the block a few times on Madison Avenue find themselves sometimes having to ask for directions. The art and science of promoting goods and services to consumers has grown so complex in recent years that it often seems to require a PhD in data science as well as a [ ]
 
-### Cameron Winter at Carnegie Hall Review: Paul Thomas Anderson Directs a Rapturous Solo Concert Movie Built Around the Songs — and Haunting Sound — of Cameron Winter
-Fri, 02 Oct 2026 05:51:46 +0000 — https://variety.com/2026/film/reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236897129/
+### The Watcher Season 2 to Begin Production 4 Years After Season 1 With Bobby Cannavale, Naomi Watts Returning
+Fri, 02 Oct 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/the-watcher-season-2-bobby-cannavale-naomi-watts-returning-1236897595/
 
-The slow rolling piano echo through the hall like a rhapsody from the deep. The sound is rich, lustrous, bottom-heavy, grand. And that voice! Winter sings in a low baritone (and occasionally a high one) of astonishing power, the notes hanging there in a suspended quaver so bold it’s hypnotic.
+Who watches The Watcher? Netflix has announced that Season 2 of the mystery horror series is set to begin production this fall in New York. In addition, Season 1 stars Naomi Watts, Bobby Cannavale, Margo Martindale, and Isabel Gravitt will all return and reprise their respective roles. The news comes roughly four years after the [ ]
 
-### Ben Affleck s Animals Cast Wants Him to Run for Office: Maybe They Hate Me
-Fri, 02 Oct 2026 04:38:56 +0000 — https://variety.com/2026/politics/columns/ben-afflecks-why-wont-run-poiltical-office-animals-1236897296/
+### Box Office: Verity Makes $4.5 Million in Previews, Digger Behind With $1.2 Million
+Fri, 02 Oct 2026 15:41:59 +0000 — https://variety.com/2026/film/box-office/box-office-verity-digger-previews-1236894943/
 
-Ben Affleck plays a Brentwood businessman running for Los Angeles mayor in the new thriller “Animals.” The Oscar winner, who directed and co-wrote the film, is also a longtime political activist who has supported the presidential campaigns of Barack Obama, Hillary Clinton, Joe Biden and Kamala Harris. Now, his “Animals” cast would like him to [ ]
+Another Colleen Hoover adaptation is coming to theaters as Anne Hathaway and Dakota Johnson bring the author s best-selling novel Verity to life this weekend. The Amazon MGM thriller has made $4.5 million in preview at the box office. It s on track to debut with $30 million to $35 million and land in the top spot [ ]
 
-### Ken Urker, Gypsy-Rose Blanchard s Partner, Dies at 34
-Fri, 02 Oct 2026 03:52:01 +0000 — https://variety.com/2026/tv/news/ken-urker-dead-gypsy-rose-blanchard-partner-1236897303/
+### Eminem Teams With NERDS Clothing for Original Video Game, New Streetwear Collab Out of New York Comic Con (EXCLUSIVE)
+Fri, 02 Oct 2026 15:30:00 +0000 — https://variety.com/2026/gaming/news/eminem-nerds-clothing-merch-marshalls-massacre-video-game-1236897557/
 
-Ken Urker, the partner of Gypsy-Rose Blanchard and father of their child, was found dead Thursday in Raceland, Louisiana. He was 34. Captain Brennan Matherne of the Lafourche Parish Sheriff s Department said in a statement to Variety, We responded to a residence at 107 Double H Drive, Lot 4, in Raceland today after receiving a [ ]
+Eminem will release a limited-edition merch collection with streetwear and pop culture brand NERDS Clothing during New York Comic Con next week, including the launch of an original video game. Per the partners, the NYCC debut will feature original artwork created by NERDS, including a unique 16-bit interpretation of Eminem, limited-edition merchandise, a series of [ ]
 
-### International Oscar Submissions: Cuba, Denmark, Vietnam, Italy, France and More Join the List
-Fri, 02 Oct 2026 01:33:39 +0000 — https://variety.com/lists/international-oscar-submissions-2027/
+### How Elizabeth Holmes Was Secretly Filmed for You Can See Everything Doc: 7-Person Crew, 16-Hour Shoots and Cameras Covering the Whole House
+Fri, 02 Oct 2026 15:10:00 +0000 — https://variety.com/2026/film/features/elizabeth-holmes-you-can-see-everything-secret-filming-1236894969/
 
-The campaigns for the Oscar for international feature film are gaining momentum, with final submissions due by Oct. 1. The Oscars shortlists will be revealed on Dec. 15, with 15 international films selected to be voted on by Academy members in all branches who commit to watch all 15 films. Oscar nominations will be revealed [ ]
+Nathan Fielder and Lance Oppenheim shocked Hollywood and the world when they revealed they’d secretly been filming Elizabeth Holmes ahead of her 11-year prison sentence for their documentary, “You Can See Everything.” The film had a surprise premiere at the Telluride Film Festival last month and had another early screening at the New York Film [ ]
 
-### Oscars: Pakistan Selects Documentary Hanging by a Wire for International Feature Race (EXCLUSIVE)
-Fri, 02 Oct 2026 01:24:36 +0000 — https://variety.com/2026/film/awards/oscars-pakistan-hanging-by-a-wire-international-feature-1236897231/
+### Amy Goodman Documentary Steal This Story, Please! Acquired by Music Box in North America, Home Entertainment Release Set for Oct. 20 (EXCLUSIVE)
+Fri, 02 Oct 2026 15:10:00 +0000 — https://variety.com/2026/film/global/amy-goodman-steal-this-story-please-music-box-1236897519/
 
-Mohammed Ali Naqvi s documentary thriller Hanging by a Wire has been selected as Pakistan s submission for the international feature film Oscar at the 99th Academy Awards, marking the first time a documentary has represented the country in the category. The Pakistan Academy Selection Committee made the selection, calling it a historic milestone for Pakistani documentary [ ]
+Music Box Films has acquired North American rights for documentary “Steal This Story, Please!,” and will release the film on all major digital platforms on Oct 20. The film, initially self-distributed by the filmmakers, had a successful theatrical release across the U.S. in the spring, grossing close to $1 million. “Steal This Story, Please!,” which [ ]
 
-### Donna Langley Says the Key to Stealing Taylor Sheridan Away From Paramount Was a Better Film Deal: I Saw an Opportunity
-Fri, 02 Oct 2026 00:09:35 +0000 — https://variety.com/2026/film/news/donna-langley-taylor-sheridan-paramount-universal-1236897194/
+### Disney Licenses Slew of Titles to Netflix, Including All Five Ice Age Movies, Percy Jackson and the Olympians, Felicity, Will Trent, Elio and More (EXCLUSIVE)
+Fri, 02 Oct 2026 15:02:54 +0000 — https://variety.com/2026/tv/news/disney-licenses-titles-netflix-ice-age-movies-will-trent-percy-jackson-and-the-olympians-felicity-1236897256/
 
-NBCUniversal Entertainment chair Donna Langley managed to snag Yellowstone creator Taylor Sheridan away from Paramount after a decade at the studio. How did she do it? By putting an emphasis on the film of his lucrative long-term TV and film pact. Langley said her pursuit of Sheridan began after she saw an opportunity created by [ ]
+Sure, Disney and Netflix compete for streaming subscribers but the Mouse House also sees the rival s massive customer base of over 325 million as a way to monetize and promote its own content, and Netflix is happy to write the checks. Disney Entertainment and Netflix have entered into an expansive new content licensing agreement, [ ]
 
-### Eddie Murphy to Star in Peacock Drama Series The Chairman From Mad Men Creator Matthew Weiner
-Thu, 01 Oct 2026 23:30:00 +0000 — https://variety.com/2026/tv/news/eddie-murphy-peacock-drama-matthew-weiner-1236897144/
+### Spring Awakening Revival Cast, Whitney Leavitt, Mason Alexander Park Among Variety’s 10 Broadway Stars to Watch for 2026
+Fri, 02 Oct 2026 15:00:00 +0000 — https://variety.com/lists/10-broadway-stars-to-watch-spring-awakening-whitney-leavitt/
 
-Eddie Murphy is attached to star in The Chairman, a drama series in development at Peacock created by Matthew Weiner. If greenlit, the project will mark his first-ever role in a live-action scripted series. Plot details for The Chairman are yet to be announced. The series will be produced by Universal Television and 101 Studios, [ ]
+Variety is proud to announce the 2026 edition of its annual 10 Broadway Stars to Watch. These actors, composers, librettists, and playwrights working on shows including Purple Rain, Warriors, Spring Awakening, 10 Things I Hate About You and Wanted represent the future of theater. This year’s roster of standouts will be honored at [ ]
 
 ## The Hollywood Reporter
 
-### Woody Allen s Madrid Film, King Charles and Ozzy Osbourne, AI, Microdrama and M A: Iberseries Wrap
-Fri, 02 Oct 2026 08:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/woody-allen-madrid-film-iberseries-platino-industria-wrap-1236714367/
+### Tony Romo Out at CBS Sports Following DWI Plea
+Fri, 02 Oct 2026 16:20:53 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cbs-sports-tony-romo-part-ways-1236720996/
 
-The sixth edition of the industry gathering, which has featured debates about hot-button industry topics in Madrid, is coming to an end Friday.
+The NFL commentator and former quarterback pleaded no contest to charges in Wisconsin in September.
 
-### American Horror Story: 13 Jeffrey Dahmer Actor on That Coven Cliffhanger and Sharing the Serial Killer With Co-Star Evan Peters
-Fri, 02 Oct 2026 05:31:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/ahs-13-jeffrey-dahmer-return-seth-gabel-cliffhanger-1236717562/
+### The Biggest Little Farm Sequel Series to Debut Next Month in Follow-Up to 2019 Documentary (Exclusive)
+Fri, 02 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-biggest-little-farm-sequel-series-john-chester-youtube-1236720922/
 
-Seth Gabel returns as the notorious Dahmer in the new season of Ryan Murphy's horror franchise, reuniting him with Peters, who took on the role in the first season of 'Monster.'
+John and Molly Chester return for the 12-part docuseries that launches on YouTube.
 
-### Kelly Clarkson Loves AI, But Says AI Artists Shouldn t Be Competing With Humans on Music Charts
-Fri, 02 Oct 2026 04:22:28 +0000 — https://www.hollywoodreporter.com/music/music-news/kelly-clarkson-ai-artists-shouldnt-be-music-charts-humans-1236720709/
+### Kennedy Center Honors 2026 Sets Date, New Venue
+Fri, 02 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/news/politics-news/kennedy-center-honors-2026-date-venue-1236720964/
 
-"We can’t lose human. We can’t lose what that is. But there could be an appetite for both," she said of the controversial technology.
+The 49th Kennedy Center awards gala will take place at Capital One Arena in Washington D.C., not the Kennedy Center itself after a shut down and efforts by Donald Trump to rename the arts institution.
 
-### Ben Affleck Explains His Approach to Using AI Ethically on New Movie Animals : It s Not About Making Fake People or Replacing Anybody, Ever
-Fri, 02 Oct 2026 03:35:09 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613/
+### TV Premiere Dates 2026: The Complete Guide
+Fri, 02 Oct 2026 15:32:13 +0000 — https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/
 
-"I wouldn't use something that trains on or has learned from any work that is copywritten, or that is an intelligence created by a peer of mine or somebody that I look up to," the actor-director emphasized.
+A comprehensive, frequently updated list of start dates for series and specials on streaming, broadcast and cable.
 
-### Ken Urker, the Father of Gypsy-Rose Blanchard’s Daughter, Dies at 34
-Fri, 02 Oct 2026 03:15:14 +0000 — https://www.hollywoodreporter.com/tv/tv-news/ken-urker-dead-father-gypsy-rose-blanchard-daughter-1236720726/
+### Jesse Jo Stark and Deadly Doll Sign With BMG
+Fri, 02 Oct 2026 15:16:20 +0000 — https://www.hollywoodreporter.com/music/music-news/jesse-jo-stark-deadly-doll-sign-with-bmg-1236720915/
 
-Urker also appeared in Lifetime's 'Gypsy Rose: Life After Lockup' with Blanchard.
+The singer recently announced her upcoming album 'Muse,' due out next month.
 
-### Donna Langley on Landing Hollywood s Heaviest Hitters, from Taylor Sheridan to Christopher Nolan
-Fri, 02 Oct 2026 02:34:34 +0000 — https://www.hollywoodreporter.com/business/business-news/donna-langley-nbcu-taylor-sheridan-christopher-nolan-1236720688/
+### Mary Louise Weller, Actress in ‘Animal House,’ Dies at 79
+Fri, 02 Oct 2026 15:15:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mary-louise-weller-dead-animal-house-mandy-pepperidge-1236720919/
 
-"With disruption and instability, it's a moment to look around the marketplace and see if there's a competitive advantage,“ said the NBCUniversal Entertainment chairman.
+She portrayed Pi House sorority sister Mandy Pepperidge in the John Belushi classic and was Chuck Norris’ love interest in ‘Forced Vengeance.’
 
-### Big Brother Reveals Season 28 Winner: See Who Won the Game (and America s Favorite Houseguest)
-Fri, 02 Oct 2026 01:22:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/big-brother-season-28-winner-america-favorite-houseguest-1236720612/
+### How DWTS Pro Hailey Bills Is Using Her Nepo Baby Status to Dance Her Way to the Top
+Fri, 02 Oct 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/hailey-bills-dwts-pro-season-35-nepo-baby-elimination-1236717672/
 
-At the top of the finale episode, Rick Devens, Drew Campbell and Taylor Brown were still in contention to win the show.
+The 20-year-old professional dancer has already been eliminated from this season of the reality dance competition series, but that hasn't diminished her star power. Just ask her one million followers.
 
-### Fast Furious TV Series Gets Official Green Light at Peacock
-Fri, 02 Oct 2026 00:32:50 +0000 — https://www.hollywoodreporter.com/news/general-news/fast-furious-tv-show-peacock-series-order-1236720664/
+### A Different World Earns Fast Season 2 Renewal at Netflix
+Fri, 02 Oct 2026 14:30:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/a-different-world-renewed-season-2-netflix-1236720884/
 
-The show is targeting a 2028 premiere date, with franchise star Vin Diesel on board as an executive producer.
+The sequel to the 1980s-90s comedy premiered on Sept. 24.
 
-### Eddie Murphy to Star in First Scripted Series The Chairman at Peacock
-Fri, 02 Oct 2026 00:32:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/eddie-murphy-star-the-chairman-peacock-1236720659/
+### SCAD Savannah Film Fest: Keanu Reeves, Seth Rogen, Gemma Chan and Jordan Firstman Among Big Names Set for Honors (Exclusive)
+Fri, 02 Oct 2026 14:11:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/scad-savannah-film-fest-honorees-keanu-reeves-seth-rogen-1236720477/
 
-'Mad Men' creator Matthew Weiner is developing the show.
+The 29th edition of the U.S.' largest university-run film festival will take place Oct. 24–31.
 
-### Kill Jackie Review: Catherine Zeta-Jones Leads AMC+ s Drab Misfire of a Thriller
-Thu, 01 Oct 2026 23:00:56 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/kill-jackie-review-catherine-zeta-jones-amc-plus-1236714573/
+### Michael De Luca, Pamela Abdy Out at Warner Bros.
+Fri, 02 Oct 2026 13:57:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/michael-de-luca-pamela-abdy-warner-bros-1236720848/
 
-A European art dealer goes on the run from seven ruthless assassins, whose assignment to take her out may or may not be connected to her checkered past as a high-flying drug dealer.
+The news comes as Paramount Skydance is readying to finalize its deal for the legacy studio.
 
 ## Deadline
 
-### Penelope Ann Miller, Otmara Marrero Film Made Clean First Project For Nashville-Based Cinema Country
-Fri, 02 Oct 2026 10:27:45 +0000 — https://deadline.com/2026/10/penelope-ann-miller-otmara-marrero-made-clean-film-1237145272/
+### Spring Awakening Revival s Off-Broadway Run Extended Into Spring
+Fri, 02 Oct 2026 16:10:52 +0000 — https://deadline.com/2026/10/spring-awakening-extended-duncan-sheik-1237145458/
 
-EXCLUSIVE: Filmmaker Seth Christian, whose previous producer credits include the 2020 crime drama Echo Boomers starring Patrick Schwarzenegger and Michael Shannon, has launched Cinema Country. The Nashville-based independent production company is dedicated to human-centered storytelling and socially impactful filmmaking under its Films For Impact label. The company’s initial slate of features will explore addiction, obesity, [ ]
+The Spring Awakening off Broadway will continue into the spring. Citing unprecedented demand, the musical revival s producers said Friday that the show from Steven Sater and the late Duncan Sheik is extending its run at Studio Seaview through Sunday, April 4. It had been set to wrap on Valentine s Day at the venue. Previews start [ ]
 
-### BBC Staff Revolt Over Job Cuts By Posting Laughing Emojis During Management Call
-Fri, 02 Oct 2026 10:13:20 +0000 — https://deadline.com/2026/10/bbc-staff-revolt-job-cuts-laughing-emojis-management-call-1237144576/
+### Chloe Veitch Signs With Independent Artist Group
+Fri, 02 Oct 2026 16:05:00 +0000 — https://deadline.com/2026/10/chloe-veitch-independent-artist-group-1237144883/
 
-EXCLUSIVE: BBC employees expressed their defiance over job cuts by posting laughing emojis during a management call, in which the corporation s £500 million ($660M) savings plan was discussed. In a sign of growing staff unrest over the steady stream of cost-cutting announcements across the BBC, some workers made their feelings known on a Microsoft Teams [ ]
+EXCLUSIVE: Independent Artist Group has signed Chloe Veitch, the British TV personality, host, and digital creator, for representation. Veitch was just announced to be one of the stars of Netflix’s celebrity edition of Million Dollar Secret, where she joins an ensemble cast that includes David Arquette, Christine Quinn, Bridget Everett and Adam Rippon. She is also [ ]
 
-### Hollow Moon : Sci-Fi With Jena Malone Dermot Mulroney Gets Sales Deal New Title
-Fri, 02 Oct 2026 10:05:03 +0000 — https://deadline.com/2026/10/jena-malone-dermot-mulroney-hollow-moon-title-sales-1237145262/
+### Dolly Parton Broadway Musical Sets Its Lead Cast With Katie Rose Clarke As Dolly
+Fri, 02 Oct 2026 16:01:15 +0000 — https://deadline.com/2026/10/dolly-parton-broadway-musical-lead-cast-katie-rose-clarke-1237145459/
 
-EXCLUSIVE: Essential Film Group has boarded world sales on indie feature Hollow Moon, starring Jena Malone, Dermot Mulroney, Mekhi Phifer and Vannessa Vasquez as astronauts in a trip to outer space. We first told you about the project this month when it was known as Moon People. It s now known as Hollow Moon. Stanley Yung [ ]
+Dolly: A True Original Musical, the upcoming Broadway production that turned out to be the late superstar’s final passion project, has set its lead cast, all handpicked by Dolly Parton herself. Katie Rose Clarke will star as Dolly Parton, reprising her role from her critically acclaimed performance in the show s Nashville production. Carrie St. Louis, [ ]
 
-### Twilight Of The Dead : Filming Wraps On “Final Chapter” Of George A. Romero’s Zombie Saga, Kate Beckinsale Betty Gabriel Star
-Fri, 02 Oct 2026 09:49:56 +0000 — https://deadline.com/2026/10/twilight-of-the-dead-wraps-kate-beckinsale-stars-1237145256/
+### The Watcher Season 2 To Start Production 4 Years After Renewal: Here s Who In The Cast Is Returning
+Fri, 02 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/the-watcher-season-2-start-production-cast-who-returns-1237145096/
 
-EXCLUSIVE: Filming has wrapped on Twilight of the Dead, the long gestating “final chapter” of George A. Romero’s classic zombie saga. Underworld star Kate Beckinsale stars alongside genre regular Betty Gabriel (Get Out), newcomer Abigail London and John D. Hickman (Becky). Filming took place in Kentucky and wrapped last month. Greg Nicotero, the legendary Walking [ ]
+This may be the longest gap ever between a season of a TV series getting a greenlight and it going into production. Filming will begin this fall in New York on Season 2 of Ryan Murphy and Ian Brennan s The Watcher four years after the horror mystery series was renewed in November 2022. Coming back [ ]
 
-### Celebrity Traitors Returns With Biggest Ever Launch Ep Of Nearly 9 Million Viewers
-Fri, 02 Oct 2026 08:44:30 +0000 — https://deadline.com/2026/10/celebrity-traitors-record-ratings-9-million-viewers-1237145229/
+### ‘Speak.’ Is Spoken For: Documentary+ To Stream Film About High School Oratory Competitors
+Fri, 02 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/speak-streaming-debut-documentary-1237145225/
 
-The BBC’s Celebrity Traitors launch has become one of the most highly-anticipated of the year and a colossal 8.9 million viewers tuned in last night. They watched an opener of high high drama, and a little bit of eccentric comedy. No spoilers in this article check out our recap here but per the [ ]
+EXCLUSIVE: Documentary+ will become the streaming home of Speak., the documentary executive produced by Josh Gad that centers on gifted high schoolers competing in the Original Oratory category at the National Speech Debate Association’s National Tournament. The award-winning film directed by Jennifer Tiexiera and co-directed by Guy Mossman will begin streaming on Doc+ on [ ]
 
-### BBC Gives First Look At The Last Detectives Crime Drama From Matthew Barry, Nicola Shindler
-Fri, 02 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/bbc-the-last-detectives-first-look-image-steffan-rhodri-1237144300/
+### Verity Thrills $4.5M Previews, Digger Shovels $1M+ Box Office Update
+Fri, 02 Oct 2026 15:32:37 +0000 — https://deadline.com/2026/10/box-office-verity-digger-1237145435/
 
-EXCLUSIVE: The BBC is betting big on Matthew Barry’s The Last Detectives to be its next breakout crime drama and we ve got first look. Previously called Old Town Murders, The Last Detectives is produced by Nicola Shindler and stars Mark Lewis-Jones, Steffan Rhodri, Bethan-Mary James, Jordan Davies, Julie Graham and Catherine Ayers. The newly released [ ]
+Amazon MGM Studio s Colleen Hoover thriller Verity grossed $4.5M in its overall previews, which is right where it should for arguably the author s second most popular novel-to-the-screen after It Ends With Us. That figure is lower than the $7M previews of the author s mega box office hit It Ends With Us ($50M opening) and it s [ ]
 
-### Ben Affleck Used AI For Lots Of Things In Netflix s Animals : It s A Very Human Movie
-Fri, 02 Oct 2026 02:45:01 +0000 — https://deadline.com/2026/10/ben-affleck-used-ai-lots-of-things-animals-1237145166/
+### Here Are All The Songs In The ‘Verity’ Film Adaptation: From FKA Twigs To Kali Uchis
+Fri, 02 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/verity-soundtrack-songs-fka-twigs-kali-uchis-1237145197/
 
-After unloading his AI firm on Netflix earlier this year, Ben Affleck is showing off the tech in action with his latest project. The 2x Oscar winner recently revealed that he did use artificial intelligence for lots of things in the making of Animals, which he co-wrote, directed and starred in, premiering Oct. 9 in [ ]
+Amazon MGM Studios’ film adaptation of Colleen Hoover’s suspenseful thriller Verity marks the fourth of the best-selling author’s books to reach the big screen following It Ends With Us in August 2024, Regretting You in October 2025 and Reminders of Him earlier this year. Verity stands apart from the previous three adaptations in terms of [ ]
 
-### Oscars: Pakistan Picks Mo Naqvi’s Doc Thriller ‘Hanging By A Wire’ As Best International Feature Entry
-Fri, 02 Oct 2026 02:21:29 +0000 — https://deadline.com/2026/10/oscars-pakistan-mo-naqvis-hanging-by-a-wire-1237145140/
+### Obscured Releasing Acquires NA Rights To ‘The Drug In Our Pocket’ Ahead Of Hamptons World Premiere
+Fri, 02 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/the-drug-in-our-pocket-obscured-releasing-acquisition-1237145243/
 
-Pakistan has selected Mo Naqvi’s nonfiction action thriller Hanging By a Wire as its official entry for Best International Film at the Academy Awards, the first time the country has chosen a documentary for that distinction. The film captures the drama and suspense around a news event that captured the world’s attention in 2023: the [ ]
+EXCLUSIVE: Obscured Releasing has acquired North American distribution rights to The Drug in Our Pocket, a documentary by Anne Sundberg about the pernicious effects on young people of constant smartphone use. The feature produced by Beth Kojima and Anne Sundberg holds its world premiere Saturday at the Hamptons International Film Festival in New York, and [ ]
 
-### BTS’ RM Explores Fame, Identity Curiosity In Debut Art Exhibition Between You And Me At SFMOMA
-Fri, 02 Oct 2026 02:20:54 +0000 — https://deadline.com/2026/10/bts-rm-kim-namjoon-sfmoma-art-debut-between-you-and-me-i-dont-know-why-but-i-like-it-1237115532/
+### A Different World Renewed For Season 2 At Netflix
+Fri, 02 Oct 2026 14:30:00 +0000 — https://deadline.com/2026/10/a-different-world-renewal-season-2-netflix-1237145174/
 
-When you enter RM x SFMOMA: Between You and Me, it’s almost impossible not to think about the person whose name appears everywhere. RM (short for Rap Monster) is, after all, one of the most recognizable musicians in the world. As the leader of BTS, he has spent years performing on the world stage and [ ]
+Netflix has renewed its freshman series A Different World for a second season. From creator/showrunner/executive producer/writer Felicia Pride, A Different World follows Deborah (Maleah Joi Moon), Dwayne Wayne (Kadeem Hardison), and Whitley Gilbert s (Jasmine Guy) free-spirited, well-intentioned, yet rebellious youngest child during her freshman year at Hillman College alongside a whole new generation of Hillman s [ ]
 
-### Nicolas Cage Calls Current MCU A Glorified WWE, Wants It To Stop Cutting To The Wrestling Match
-Fri, 02 Oct 2026 02:13:55 +0000 — https://deadline.com/2026/10/nicolas-cage-calls-mcu-glorified-wwe-1237145142/
+### Josh Greenstein Dana Goldberg Poised To Run Combined Paramount Warner Bros Film Unit, Setting Up Likely Michael De Luca Pamela Abdy Exit
+Fri, 02 Oct 2026 14:15:12 +0000 — https://deadline.com/2026/10/michael-de-luca-pamela-abdy-exit-warner-bros-paramount-merger-1237145206/
 
-After spinning his last web in Spider-Noir, Nicolas Cage wants to see the MCU bring better storytelling back to the superhero genre. The Oscar winner compared the MCU s current slate of projects to a well-funded and glorified WWE, following its marvelous roots as he discussed the recent cancellation of Spider-Noir after one season at Prime [ ]
+The soon to be merged Paramount Warner Bros Motion Picture unit under the freshly labeled Skydance is bound to be run by current Paramount Motion Picture co-chairs, Josh Greenstein and Dana Goldberg, multiple sources say. This comes after a sleepless night for Warner Bros Motion Picture Chairs Michael De Luca and Pam Abdy, who we [ ]
 
-### Aaron Sorkin Clarifies He Was Never Asked To Omit Trump From The Social Reckoning But Film Is Not A Red-Blue Thing
-Fri, 02 Oct 2026 01:41:44 +0000 — https://deadline.com/2026/10/aaron-sorkin-was-never-asked-omit-trump-the-social-reckoning-1237145100/
+### BRAVO Film Festival To Pause For 2026
+Fri, 02 Oct 2026 14:00:00 +0000 — https://deadline.com/2026/10/bravo-film-festival-2026-paused-1237145326/
 
-Although Facebook has played a big role in recent U.S. politics, Aaron Sorkin didn t want to make The Social Reckoning a political statement. The Oscar winner noted that although he was never asked to omit Trump from his upcoming movie about a young Facebook whistleblower, which premieres Oct. 9, he didn t want the film to [ ]
+Organizers behind the BRAVO Film Festival, the popular L.A.-based event focused on Brazilian cinema, have canceled the 2026 edition of the festival. Organizers said the event will not take place due to circumstances beyond their control. They added that preparation for next year’s edition will continue. “Our commitment to Brazilian cinema and to the filmmakers, [ ]
 
-### Big Brother Renewed For Seasons 29 30 On CBS
-Fri, 02 Oct 2026 01:41:28 +0000 — https://deadline.com/2026/10/big-brother-renewed-cbs-1237145132/
+### Canal+ Calls VAT Hike “A Direct Attack” On Its Operations In France As Guilds Protest Move
+Fri, 02 Oct 2026 13:29:44 +0000 — https://deadline.com/2026/10/canal-plus-france-protests-vat-hike-attack-1237145327/
 
-Big Brother USA wrapped another season on CBS, and host Julie Chen Moonves announced the network had renewed the competition series for two more seasons. After announcing the winner of Season 28, Moonves confirmed the reality TV competition had been picked up for Seasons 29 and 30. The most current season hit a milestone, becoming [ ]
+Paris-based pay-TV giant Canal+ has hit back at the French government’s plan to double the VAT rate on TV subscriptions from 10% to 20% saying it could leave a potential €200M ($225M) hole in its finances. The planned hike was confirmed in a draft budget plan for 2027 presented by Prime Minister Sébastien Lecornu on [ ]
 
 ## befores & afters
+
+### Visual effects is at the heart of storytelling in ‘Heart of the Beast’
+Fri, 02 Oct 2026 11:41:22 +0000 — https://beforesandafters.com/2026/10/02/visual-effects-is-at-the-heart-of-storytelling-in-heart-of-the-beast/
+
+Dealing with dogs, wolves, a river rapids crossing, a plane crash, and titanium teeth. Directed by David Ayer, Heart of the Beast follows retired Special Forces veteran James Belmont (Brad Pitt) and his retired combat dog, Odin, on a harrowing 58-mile trek across the unforgiving Alaskan wilderness after their light aircraft crashes into a lake. A primary German Shepherd named Uber—a former search-and-rescue dog—was cast to handle the expressive hero shots, while three of his sons served as specialized stunt doubles tasked with specific physical demands like wire work, swimming and running. Production shot in New Zealand, standing in for Alaska, with on location and studio and backlot filming all part of the mix. While the practical dogs provided the heart of the film, digital creature work—entirely handled by Framestore—was also crucial in realizing a number of shots and sequences with Odin. VFX also came into play for the plane crash, the river rapids crossing and for encounters with several other creatures such as a bear and an aggressive pack of gray wolves. Here, befores & afters goes deep into the film’s effects with visual effects supervisor François Dumoulin, who hails from Framestore. He explores the art of delivering complex VFX for a film that was not meant to feel like a VFX film at all, starting with the ‘Pepsi challenge’ showcasing the real vs CG dog, orchestrating a highly realistic plane crash, coming up with a unique way to shoot the river crossing, and dealin
 
 ### Here s what you didn t know about the Speed bus jump
 Thu, 01 Oct 2026 11:06:39 +0000 — https://beforesandafters.com/2026/10/01/heres-what-you-didnt-know-about-the-speed-bus-jump/
@@ -179,6 +184,26 @@ Thu, 01 Oct 2026 06:38:49 +0000 — https://beforesandafters.com/2026/10/01/watc
 Dragons! Burning! The post Watch this SideFX presentation on Rodeo FX’s VFX for s3 of ‘House of the Dragon’ appeared first on befores & afters .
 
 ## IndieWire
+
+### How Bleecker Street Endured Tragedy and Elon Musk s Legal Threats to Have Its Hottest Year
+Fri, 02 Oct 2026 16:15:00 +0000 — https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/
+
+The independent studio is deep in the awards race with "Tender Loving Care" and riding high on the success of "Hadestown: The Musical" despite the death of its founder.
+
+### Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema
+Fri, 02 Oct 2026 16:05:31 +0000 — https://www.indiewire.com/news/business/mike-de-luca-pam-abdy-over-warner-bros-1235219841/
+
+The Pam and Mike era is over. Their sensibility led to big hits and massive flops and was not in sync with new Skydance boss David Ellison.
+
+### Before David Ellison Took Over Paramount, I Watched the Hollywood That Brought Me Here Disappear
+Fri, 02 Oct 2026 15:03:41 +0000 — https://www.indiewire.com/features/commentary/paramount-golden-age-before-merger-1235219744/
+
+As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.
+
+### Skydance: David Ellison Names Newly Combined Paramount-Warner Bros. After His Old Company
+Fri, 02 Oct 2026 13:57:01 +0000 — https://www.indiewire.com/news/business/skydance-david-ellison-names-combined-paramount-warner-bros-1235219811/
+
+Get ready for corporate babble as Skydance releases an exciting new sizzle reel featuring clips of "Titanic" and Michael B. Jordan's narration.
 
 ### Barack and Michelle Obama s Higher Ground, Anonymous Content Making Film of Baldwin: A Love Story
 Thu, 01 Oct 2026 23:55:50 +0000 — https://www.indiewire.com/news/general-news/barack-michelle-obama-james-baldwin-love-story-film-1235219745/
@@ -220,127 +245,107 @@ Thu, 01 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/news/breaking-news
 
 The horror film sold for more than $10 million after debuting at the Toronto Film Festival will face off against "The Beekeeper 2" and "Children of Blood and Bone."
 
-### Sundance Collab and Merrell Announce New Storytelling Partnership It Starts Outside
-Thu, 01 Oct 2026 18:06:18 +0000 — https://www.indiewire.com/news/general-news/sundance-merrell-storytelling-partnership-1235219568/
-
-The outdoor footwear brand will support filmmakers making shorts about the outdoors as part of a three-year partnership with Sundance.
-
-### Gentle Monster Trailer: Léa Seydoux Faces the Horrific in Marie Kreutzer’s Child Abuse Drama
-Thu, 01 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/news/trailers/gentle-monster-trailer-lea-seydoux-marie-kreutzer-1235219556/
-
-The Cannes favorite sees Seydoux in one of the most demanding roles of her career.
-
-### Clarissa Trailer: Sophie Okonedo, Ayo Edebiri, and More Lead a Modern Mrs Dalloway Set in Nigeria
-Thu, 01 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/clarissa-trailer-sophie-okonedo-mrs-dalloway-nigeria-1235219508/
-
-Neon will be releasing the Cannes favorite, directed by brothers Arie and Chuko Esiri, this December.
-
-### Being Heumann to Close Middleburg Film Festival; Martin McDonagh and Seth Rogen Join 2026 Honorees
-Thu, 01 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/festivals/being-heumann-middleburg-film-festival-2026-lineup-honorees-1235219521/
-
-The Virginia-based film festival, which will run from October 15 - 18, also announced "La Bola Negra" and "Behemoth!" as Spotlight screenings.
-
 ## The Wrap
 
-### Jimmy Kimmel Calls Out Pete Hegseth for Casually Introducing an Eccentric Billionaire in ‘No Weirdos’ Speech
-Fri, 02 Oct 2026 05:43:34 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reacts-pete-hegseth-no-weirdos-speech-palmer-luckey/
+### Tony Romo Exits CBS After 9 Years as Lead NFL Analyst
+Fri, 02 Oct 2026 16:11:18 +0000 — https://www.thewrap.com/media-platforms/tv/tony-romo-exits-cbs-sports-nfl-analyst/
 
-Jimmy Kimmel mocked Pete Hegseth for declaring no fatties, no beardos, no weirdos in a recent speech, only to shout out eccentric billionaire Palmer Luckey moments later. During Thursday s monologue for Jimmy Kimmel Live!, which is filming in Brooklyn this week , the comedian weighed in on the secretary of defense s State of the Force address, where he declared no fatties, no tr nies, no beardos, no weirdos were welcome in the department. You know, he practiced that in the mirror all morning and still screwed it up, Kimmel ripped. I mean, imagine writing that out. He added: And while Pistol Pete s cutting 20% of our generals and admirals, their loss will not be felt thanks to a new group of leaders spearheading an effort he calls Project Meridian. Jimmy Kimmel Live! editors then cut to footage of Hegseth shouting out Elon Musk, Newt Gingrich and Palmer Luckey, prompting the late night host to highlight the irony of the situation. Wait a minute. He specifically said no fatties, no beardos, no weirdos, Kimmel quipped. I saw all three of those right there. Elon Musk, Newt Gingrich and Palmer Luckey. Who is Palmer Luckey?! I looked him up. This is from his Wikipedia page. A photo of Luckey sporting a mullet, goatee and Hawaiian then splashed across the screen. This is not even a real person, Kimmel said. Pete Hegseth put Tommy Bahama in charge of our military. He hired a guy he met at a kayak rental shop to run [it]. Before moving on, Kimmel noted that he loved it when the Trump 
+Tony Romo is leaving CBS Sports after nine years with the network, ending his run as an NFL analyst. “CBS Sports and Tony Romo have mutually agreed to part ways,” the network said in a statement Friday. “We thank Tony for his contributions over the past nine years and wish him the best moving forward.” In a statement provided to TheWrap by his representative, Romo said he was “proud” of his tenure at CBS and plans to take a break to focus on his health and family before pursuing his next opportunity. “I am grateful for my time with CBS Sports and for the continued support of my family and friends, as well as the NFL community and fans,” he said. Romo had been on indefinite leave from CBS Sports since July 31 , eight days after he was arrested in Milwaukee on suspicion of operating a vehicle while intoxicated. J.J. Watt replaced him on the network’s lead NFL broadcast team alongside Jim Nantz and sideline reporter Tracy Wolfson. CBS Sports president David Berson said in August that the network had “no timetable” for Romo’s return , saying CBS had to consider the situation’s impact on its “image and brand.” The former Dallas Cowboys quarterback pleaded no contest Sept. 1 to a first-offense OWI , which is a civil offense in Wisconsin. Romo called the incident a “personal failure” and said multiple back surgeries and an earlier dependence on pain medication had contributed to an “over-reliance on alcohol.” He said at the time that he was working with doctors to address his health
 
-### AHS 13 : Seth Gabel Unpacks Returning to Jeffrey Dahmer Alongside Evan Peters and That Violent Kill Scene
-Fri, 02 Oct 2026 05:31:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-episode-6-dahmer-ending-seth-gabel-interview/
+### How Versant Is Letting Its Entrepreneurial Spirit Take the Lead Post-Comcast
+Fri, 02 Oct 2026 16:02:34 +0000 — https://www.thewrap.com/industry-news/business/versant-will-mcintosh-interview/
 
-Note: This story contains spoilers from American Horror Story: 13 Episode 6. You never know who Ryan Murphy is going to bring back for American Horror Story , and the sixth episode of Season 13 brought back a face fans haven t seen in a decade: Seth Gabel s Jeffrey Dahmer. Inspired by the infamous real-life serial killer, the character first debuted in the Devil s Night episode of American Horror Story: Hotel, which saw Evan Peters murderous Hotel Cortez designer James March welcome his fellow serial killer ghosts for a ceremonial Halloween dinner — and kill — on the one night of the year ghosts are allowed to walk free. Of course, the undead are now roaming the streets of New York freely in AHS 13, thanks to whatever hellish scheme is being brewed up by Constance (Jessica Lange), her cohorts and the mysterious Mr. Nas (Fedor Steer). That scheme brings Dahmer, Mr. March and a couple more of their fellow killers to the coven s doorstep in a confrontation with Cordelia Goode (Sarah Paulson). Ahead of the episode s debut, Gabel told TheWrap about filming that violent confrontation with the Coven supreme in The Return of Devil s Night. The actor also discussed why a call from Ryan Murphy is always a hell yes and the surreal experience of returning to the character of Jeffrey Dahmer alongside Evan Peters who has himself since earned an Emmy nomination for playing Dahmer in the first season of Netflix s Monster series . This conversation was edited for length and clarity. TheWrap: 
+Did you know Fandango offered a free streaming video service? While interviewing Will McIntosh, president of digital platforms and ventures for Versant, which owns Fandango, at TheGrill 2026 , TheWrap Managing Editor Roger Cheng posed that question to the audience. Crickets. While most people know Fandango for selling movie tickets, it had quietly become the No. 2 transactional VOD platform in the U.S. behind only Amazon (it used to be known as Vudu). Currently, Versant is working to also establish Fandango as a free streaming brand. To that end, McIntosh announced at TheGrill a partnership between Versant and Lionsgate that will make all five previously released Hunger Games movies available to stream for free on Fandango s platform with minimal commercial interruptions for two weeks before tickets go on sale for The Hunger Games: Sunrise on the Reaping, which hits theaters in the U.S. in November. That s a very prescriptive way where we re gonna take the one thing we re known for — ticket sales — and tie it back to something new that we re trying to build with this free streaming service, the Versant executive explained, adding, I think it speaks to [the fact that] we can t do it on our own and we need partners like Lionsgate to really lean in. Fortunately, they do. That type of novel program is an example of the new risk-taking spirit taking hold at Versant, which spun out of cable giant Comcast only 10 months ago. McIntosh said that Versant defines the company by its four
 
-### Warner Film Chiefs Mike De Luca and Pam Abdy to Exit Ahead of Paramount Merger Report
-Fri, 02 Oct 2026 05:12:39 +0000 — https://www.thewrap.com/industry-news/business/mike-de-luca-pam-abdy-exit-warner-bros/
+### The Watcher Season 2 Starts Production With Naomi Watts and Bobby Cannavale Returning
+Fri, 02 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-watcher-season-2-filming-returning-cast-netflix/
 
-Warner Bros. film chiefs Mike De Luca and Pam Abdy are expected to exit the studio with the close of the merger with Paramount, according to a report from Puck. TheWrap could not immediately confirm the report. An individual close to Abdy and De Luca said neither had been informed of anything by Paramount leadership. Paramount declined to comment to TheWrap. Puck cited two sources that the studio chiefs will reportedly not be joining the newly merged company with Paramount, which has yet to release its new name. De Luca and Abdy s fates were initially unclear in the days following Judge Araceli Martínez-Olguín s approval of Paramount’s settlement with 12 state attorneys general on Wednesday– which put the $110 billion merger on track to close next week . De Luca and Abdy did not respond to TheWrap s request for comment. Under De Luca and Abdy, Warner Bros. had a spectacular year in 2025, with two films nominated for Best Picture at the Academy Awards and Paul Thomas Anderson s One Battle After Another ultimately winning the top prize, and multiple box office hits, including A Minecraft Movie. But 2026 has been much tougher with movies like Supergirl and The Bride failing to motivate audiences. The reported decision comes ahead of an expected underwhelming domestic opening weekend for the Tom Cruise-led film, Digger, which is predicted to bring in $12 million to $15 million. Nonetheless, Warner s go-forward film slate is packed with likely blockbusters, including The Lord of t
+Production on The Watcher Season 2 started on Friday. This upcoming season of the Netflix thriller will see Naomi Watts, Bobby Cannavale, Margo Martindale and Isabel Gravitt all returning to reprise their Season 1 roles. The drama from Ryan Murphy and Ian Brennan followed the Brannock family in its first season, a family who moved into what was supposed to be their suburban dream home. But when the family is plagued by a series of ominous letters from someone claiming to be The Watcher, their dream quickly turns into a nightmare. That season was just the beginning, a press release for Season 2 teases. Watts stars as the Brannock family matriarch Nora with Cannavale playing her husband Dean and Gravitt playing their daughter Ellie. As for Martindale, the beloved character actress stars as Maureen or Mo, the family s nosy neighbor. Brennan serves as a showrunner for this upcoming season. The Watcher Season 2 is executive produced by Murphy, Brennan, Crystle Roberson Dorsey, Nissa Diederich, Karl Frankenfield, Scott Robertson, Todd Kubrak, Tanase Popa, and Watts alongside Henry Joost and Ariel Schulman as well as Eric Newman and Bryan Unkeless. Dorsey will also direct Season 2. Loosely based on a viral 2018 article from The Cut, The Watcher was originally intended to be a miniseries. However, after its first season spent five weeks in Netflix s Top 10 list for the most-watched English language shows and hit the Top 10 list in more than 90 countries, the series was renewed for a 
 
-### Ken Urker, the Father of Gypsy-Rose Blanchard’s Daughter, Dies at 34
-Fri, 02 Oct 2026 03:40:05 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ken-urker-dies-father-of-gypsy-rose-blanchard-daughter/
+### Everything New on Streaming in October: Netflix, HBO Max and More
+Fri, 02 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/movies/everything-new-streaming-october-2026/
 
-Ken Urker, who dated the controversial figure Gypsy-Rose Blanchard, has died, the Lafourche Parish Sheriff’s Office confirmed Thursday evening. He was 34. In a statement to media, the sheriff s office shared that officers “responded to a residence at 107 Double H Drive, Lot 4, in Raceland today after receiving a call at 6:15 p.m., adding, Kenan Urker, 34, was found dead upon arrival. At this time, we are continuing the death investigation.” A cause of death was not immediately shared. However, it has been reported that Urker died on his birthday. Blanchard had reportedly reached out to Urker on Thursday to send a happy birthday message, but did not hear back. It s said Blanchard s brother, Dylan, and his wife found an unresponsive Urker, as they planned to go out to dinner together. Blanchard, who was portrayed by actress Joey King in Hulu s miniseries The Act, issued the following statement to media on Urker s death: Ken was an amazing father and a man who was deeply loved. [He] will forever be my soulmate and my red string, a connection that time, distance, and even death can never erase. As Blanchard went on, she noted that Urker faced an unimaginable level of public scrutiny and relentless cyberbullying online. The cruelty directed toward him was something no human being should have to endure, she added. “I believe the tremendous weight of that scrutiny and harassment had a profound impact on him, and I hope his passing serves as a reminder that there is a real person beh
+A new month has begun and, as always, that means titles have done a bit of a switcheroo on streaming services. But, as always, we re keeping track for you. Here, you ll find a list of all the new titles on each major streamer, from Netflix to Hulu and beyond. We ve rounded up both movies and TV shows, so you can make sure none of your comfort watches have moved without you knowing about it. Here s everything new on streaming in October. Netflix October 1 Crazy Rich, Incredibly Broke (SA) NETFLIX FILM East of Eden NETFLIX SERIES The Ramparts of Ice: Season 2 (JP) NETFLIX SERIES 21 Jump Street 22 Jump Street 8 Mile A Haunted House A Haunted House 2 A Madea Family Funeral Ad Astra Angels & Demons Are We There Yet? The Bourne Identity The Bourne Legacy The Bourne Supremacy The Bourne Ultimatum Bring It On Call Me by Your Name Cowboys & Aliens Crimson Peak Dallas Buyers Club The Da Vinci Code The Devil Wears Prada Dracula The Equalizer Evil Dead Friday the 13th Happy Death Day 2U Horton Hears a Who! The Huntsman: Winter s War Hush I Know What You Did Last Summer Jason Bourne Lake Placid Love Actually Universal Pictures Mary Shelley s Frankenstein The Menu Moonlight NCIS: Seasons 20-22 Ouija Ouija: Origin of Evil Pearl Harbor Point Break The Prestige Psycho Psycho II Psycho III Red Dragon Seven Years in Tibet The Sixth Sense Split The Strangers Top Chef VIP: Seasons 3-4 Twilight The Twilight Saga: New Moon The Twilight Saga: Eclipse The Twilight Saga: Breaking Dawn: Part 1 The Twil
 
-### Christopher Abbott Explains Why He Wanted to Quit Acting While Filming ‘Girls’ Season 2
-Fri, 02 Oct 2026 03:10:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/christopher-abbott-wanted-to-quit-girls-filming-season-2/
+### The Daily Show Mocks Pete Hegseth s No Beardos, No Weirdos Military Mandate: Worst Dr. Seuss Book Ever
+Fri, 02 Oct 2026 15:33:28 +0000 — https://www.thewrap.com/culture-lifestyle/culture/the-daily-show-pete-hegseth-military-mandate/
 
-Christopher Abbott admitted he struggled with “an early identity crisis” while starring on Lena Dunham’s HBO dramedy “Girls,” revealing that he nearly quit acting altogether during Season 2. During a Thursday appearance on the Happy Sad Confused podcast, the actor, who leads Netflix s East of Eden adaptation, opened up about how he handled fame after the series exploded in 2012 . Abbott confessed it was a bit disorienting being on a show that became a pop culture phenomenon. Per Abbott, he didn t necessarily feel the impact during the first season, as he was juggling both Girls and a Broadway play at the time. Looking back on it, it was amazing because you know, then I really wanted to work, he said. Now as I get older, I m like, I don t want to work anymore.' He added: To shoot that during the day and then to go do this, I was doing this play, House of Blue Leaves at the time. So, for me the experience of it lives in that sort of memory reflecting on it. It s so that was cool. Like, you know, I was like really hustling. I loved it. As Abbott went on, he noted that, while not a huge shift, he did start to find that some people treated him differently amid the success of Girls. Abbott then recalled that he made an effort to go about his life at the time, and even notably took on odd jobs to see if he wanted to leave the acting life behind. I was doing weird things at that time, he shared. Like, I worked at a friend s Italian Ice thing in Rockaway That was maybe during the seco
+The Daily Show host Jordan Klepper mocked Secretary of Defense Pete Hegseth on Thursday night over his oft-repeated no beardos, no weirdos military mandate, jokingly calling it the worst Dr. Seuss book ever. Speaking at a Pentagon event Wednesday, Hegseth declared that the Department of War is no longer the Woke Department or the Weak Department. His simple translation of that was a mandate: No fatties, no trannies, no beardos, no weirdos, no wimps, no radicals. For his part, Klepper wasted little time mocking Hegseth s remarks. Wow. Worst Dr. Seuss Book ever, the Daily Show host joked, adding, This kind of rhetoric is unacceptable from our Defense Secretary. Every American, no matter who they are or what they look like, should have the chance to fight a Middle Eastern country for no clear reason. That s the American Way! As part of his Wednesday speech, Hegseth launched Project Meridian, a new initiative led by America s best minds and designed to study the future of warfare. At first, Klepper expressed some optimism about the idea, noting, That s certainly not the worst idea he s ever had. I mean, for one thing, it s the first idea that doesn t have slurs in it, so we re already ahead of the curve. The Daily Show comedian s optimism evaporated once he found out that the best minds in charge of the initiative are going to be Tesla and SpaceX CEO Elon Musk, Anduril co-founder Palmer Luckey and former Speaker of the House Newt Gingrich. Newt Gingrich!?! Your list of America s 
 
-### ‘American Horror Story 13’ Plot: Is That Major Character Really Dead?
-Fri, 02 Oct 2026 03:10:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-plot-episode-4-6-recap-is-cordelia-dead/
+### Dakota Johnson Gets Distracted by Her Own Boobs on Question About Taylor Swift s New Music Video
+Fri, 02 Oct 2026 15:15:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/dakota-johnson-distracted-by-her-boobs-seth-meyers-taylor-swift-question/
 
-Note: This story contains spoilers from “American Horror Story” 13. “ American Horror Story : 13” is one confusing ride, but that didn’t make that violent death any less painful. The milestone 13th season of the FX anthology series cruised along its complex plot with more quality time with Constance (Jessica Lange) and her family after the reveal of the mysterious Apollyon building housing a portal to hell in its basement. The happenings eventually reached “Hotel” serial killer and ghost James Patrick March (Evan Peters), who recruited his merry band of murderers to attack the witches at Miss Robichaux’s — and seemingly killing off a fan-favorite in the process. But that’s not all that went down in this latest drop of new episodes on FX and Hulu. Here’s how the action played out in Episodes 4-6 of “American Horror Story: 13.” Episode 4: “Is That All There Is?” Picking back up with the sacrifice of the Black Dahlia Elizabeth North (Mena Suvari) to hell, we watch as a satanic ritual happens while Ben (Joey Pollari) awakens from his drug-infused slumber to find Mr. Nas. He falls, but Nas picks him up with telekinetic powers and makes him drink the black goo he s been consuming — Nas appearance then changes to his younger self (Paul Anthony Kelly), who urges Ben not to fight him. Downstairs, Freak Show icon Elsa (Jessica Lange) returns for another performance — revealing her biggest wish in death was to reunite with her band of freaks, so now they sing for their supper in the por
+Seth Meyers was allowed to ask Dakota Johnson exactly one question about starring in Taylor Swift s new music video on Thursday night, but it took the actress a bit to actually answer it. First, she was distracted by her own chest. The moment came just at the end of Johnson s appearance on Late Night, where she was promoting her new film Verity. After discussing the film, Meyers brought up Johnson s other recent project: Taylor Swift s video for Patient Zero. He was quick to assure Johnson that he d only ask one question, knowing how much she s likely had to talk about it lately. Who can hold their breath under water longer? Meyers inquired, holding up an image from the video, in which Johnson and Swift are mirroring each other under water. Wow, Johnson replied. As Meyers started to offer context to the question and the photo, Johnson simply leaned in and started pointing at each of her boobs repeatedly, earning a massive laugh from the audience. Wow, water does wonderful things, Johnson retorted. Meyers joked that her pointing looked like she was ordering a cake, before ribbing the actress for not actually answering. By the way, I love that you re like, I m going to give you one question. I m not gonna answer it,' Meyers joked. You know what? I think I got a better answer. I m going to point to my tits, Johnson joked back. Don t worry, she did eventually answer, giving Swift the crown for a breath holding contest, due to her lung capacity as a singer. You can watch Dakota Jo
 
-### Universal Chief Reflects on Minions Monsters Box Office Drop: Perhaps the Old Hollywood Story Was a Little Over Their Heads
-Fri, 02 Oct 2026 01:52:25 +0000 — https://www.thewrap.com/creative-content/movies/universal-chief-reacts-minions-monsters-box-office-drop/
+### Seth Meyers Mocks Trump for New Pipeline Investment That Would Take 3 Years: And How Many Years Until the Midterms?
+Fri, 02 Oct 2026 14:35:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-mocks-trump-alaska-pipeline-investment/
 
-It s a good time to be Universal. The Odyssey and The Super Mario Galaxy Movie cleared $1 billion. Obsession became the surprise hit of the year. Michael was a global success, and the studio s worldwide grosses in 2026 have already cleared $5 billion. But one film that was expected to be one of the biggest hits of the summer and instead was only a decent theatrical success was Illumination s Minions & Monsters, the seventh overall film in the French studio s Despicable Me franchise. While still grossing $523 million worldwide, that was 44% down from the 2022 film Minions: The Rise of Gru, which made $940 million. For a decade and a half, Despicable Me and Minions have been among the most reliable moneymakers in animation. So, what happened? Donna Langley, NBCUniversal chairman, acknowledged that the film s many references to the silent film era of Hollywood, which led cinephile critics to give it the best reviews in the series, didn t resonate with the kids that make up the core audience. Perhaps for kids that kind of inside baseball, old Hollywood story was a little over their heads. Perhaps it didn t appeal to them in quite the same way, Langley said at Bloomberg Screentime, while also acknowledging that she was proud of the reviews that Pierre Coffin s film got. When Minions: The Rise of Gru came out, it got a boost from Gen Z moviegoers who turned the film into a meme with the Gentleminions trend, with young men wearing suits to see the slapstick franchise they grew up wa
+President Trump announced new energy investments this week that include building the long-planned Alaska liquefied natural gas project, in an effort to bring gas prices down. But Seth Meyers couldn t help but laugh at the move, considering how long it would take and how close the midterms are. During his A Closer Look segment, the NBC host poked fun at Trump putting himself in a bind ahead of midterms, as a result of the war in Iran, which is directly causing higher gas prices. Meyers wondered if there was any other way Trump could solve the issue, prompting a news clip of the president explaining how the Alaska pipeline means Gasoline prices in Alaska are going to tumble. Well, you know what? I spoke too soon, Meyers deadpanned. That would be huge. If Trump can get this pipeline up and running, it could drastically reduce gas prices and improve Republicans fortunes in the midterms. I want to say I m sorry I was so cynical, Mr. President. At that, the next portion of the same news clip began playing, in which Trump explained that the pipeline would take three years to complete. Three years? That s great. And how many years until the midterms?' Meyers joked, putting on his Trump impression. It s only a month, sir. And that s sooner, yeah? Yes, sir. It s sooner by two years and 11 months. Okay. Well, then, uh, then f k me, I guess.' You can watch Seth Meyers full A Closer Look segment in the video above. The post Seth Meyers Mocks Trump for New Pipeline Investment That Would Ta
 
-### The Last First: Winter K2 Review: The Latest Unheeded Warning About Climbing the Savage Mountain
-Fri, 02 Oct 2026 01:38:54 +0000 — https://www.thewrap.com/creative-content/movies/the-last-first-winter-k2-review/
+### Versant Completes 2026 Distribution Renewal Cycle With Verizon Deal
+Fri, 02 Oct 2026 14:33:13 +0000 — https://www.thewrap.com/industry-news/business/versant-verizon-distribution-renewal-deal-2026/
 
-A group of climbers of various experience levels attempted to summit K2, the world’s second-tallest mountain, but one that experts agree is far more dangerous than Mount Everest. Because there’s no licensing board that evaluates climbing experience, and poorer countries like Pakistan and Nepal need the revenue from wealthy adventurers, we’re left with a situation where the lives of all mountaineers become endangered because a deadly mountain gets deadlier when it has to deal with competing egos. This was the story of Nick Ryan’s 2012 documentary “The Summit,” which recounted a climbing disaster on K2. The names and seasons change, but the story remains the same in Amir Bar-Lev’s “The Last First: Winter K2.” While advances in cameras like GoPros and other equipment allow for capturing more footage, the underlying hubris is as galling as ever, and “The Last First” leaves little doubt that reckless ascents of K2 will continue no matter how many loved ones are lost along the way. With the rise of social media, Everest has become more crowded than ever as everyone wants likes for scaling the world’s tallest peak, which these days looks more like a line at Disneyland – if Disneyland also had garbage and frozen corpses by the queue. Aside from the crush, there’s not much novelty in it anymore. The last unconquered challenge is scaling K2 in the winter, making a difficult mountain even more dangerous. When Pakistan eased its COVID restrictions in 2021 and allowed visitors back in the
+Versant has completed its 2026 distribution renewal cycle, striking a multi-year agreement with Verizon that keeps its portfolio of cable networks available to Fios customers. The deal closes out Versant’s first round of distribution renewals since becoming a standalone public company earlier this year, as subscriber losses continue to pressure the traditional pay-TV business. Versant’s linear distribution revenue fell 6.3% year over year in the second quarter , primarily due to subscriber declines, though contractual rate increases partially offset the losses. Under the agreement, USA Network, MS NOW, CNBC, Golf Channel, Oxygen True Crime, E! and SYFY will remain available to Verizon customers. Financial terms were not disclosed. “Verizon is a valued distribution partner, and this long-term renewal reflects the clear value our portfolio delivers to distributors and audiences,” Versant chief revenue and business officer Dave Pietrycha said in a statement. “We are pleased to continue bringing Verizon customers the premium live news, sports and entertainment programming they value.” The Verizon pact follows two other multi-year renewals with large pay-TV distributors, one in the U.S. and one in Canada, that Versant CEO Mark Lazarus disclosed during the company’s second-quarter earnings call. With the latest deal, Versant has renewed every distribution partnership that was set to expire in 2026. The company completed its spinoff from Comcast in January , taking control of a coll
 
-### Big Brother Season 28 Winner Revealed: Who Won the $750,000 Prize?
-Fri, 02 Oct 2026 01:24:03 +0000 — https://www.thewrap.com/creative-content/tv-shows/big-brother-season-28-winner-rick-devens/
+### Cameron Winter at Carnegie Hall Review: Geese Frontman Takes Us to Church in Spellbinding Musical Odyssey
+Fri, 02 Oct 2026 13:47:22 +0000 — https://www.thewrap.com/creative-content/movies/cameron-winter-at-carnegie-hall-review/
 
-The Big Brother trip through time has officially come to an end, with Survivor icon Rick Devens voted as the winner of Season 28 . Going into Thursday night s 90-minute live finale, Taylor Brown and Devens had won the first two parts of the final Head of Household competition, leaving Drew Campbell s fate in the hands of the third HoH winner. Ultimately, Devens won the last game of the summer and chose to evict Campbell. Then, the jury of eliminated houseguests voted Devens as the winner 6-1 for the $750,000 prize. As the runner-up, Brown received $75,000. Elsewhere in the finale, host Julie Chen Moonves also revealed Devens as America s Favorite Houseguest via fan vote, winning an additional $50,000 over Campbell and Yash Patel. Additional highlights included Devens betrayal of Campbell, after Brown convinced him to evict his day-one ally because he wouldn t have the votes to win otherwise, which sent Campbell to the jury in tears. The show also introduced the houseguests to Jason De Puy s drag persona Salina EsTitties, Drag Race all star. Plus, Jack Rome Seymour and Lyric Medeiros are still in love — and close to moving in together. Rick Devens in Big Brother. (CBS) This season also marked a special milestone for the competition series as it became the first primetime series to hit 1,000 episodes. I love the format, I love the gameplay, I love getting to know these houseguests for the summer. I love the fact that I love some of them, I love to hate some of them. I pretend I
+Paul Thomas Anderson’s “Cameron Winter at Carnegie Hall” documentary might just be the best-looking and best-crafted home video ever made. I do not mean that literally; Anderson and his crew captured the Geese frontman’s solo show on Dec. 11, 2025 with enough cameras to supply a whole borough of tourists, capturing the arresting set on lush and full 16mm and 35mm. In other words, it was a whole production, but there is an intimacy and warmth to this presentation akin to the types of videos one might record of their friends or family unexpectedly breaking into song. That kinship and forbidden sense of discovery ripple throughout each of the 75 minutes that make up this documentary, resulting in a musical experience where the language of spiritual revival seems the most appropriate framework to employ. By keeping the film lean, focused, but most importantly curious, the film becomes not just an exercise in rote documentation but one of invitational stewardship: may we all strive to record beautiful scenes of our lives with this kind of creativity. Indeed, from the start, it is evident that Anderson wants to cut right to performance, eschewing any sort of introduction to who Cameron Winter is – something that could have been easily accomplished if Anderson and his crew decided to do person-on-the-street interviews with any member of the sold-out crowd. Yet the film keeps any setup to a minimum, focusing on ambient sounds (and not dialogue) above all else. In these first few mome
 
-### The Ultimate Guide to the Massive Cast and Many Characters of American Horror Story Season 13
-Fri, 02 Oct 2026 01:09:45 +0000 — https://www.thewrap.com/creative-content/what-to-watch/ahs-13-cast-and-characters-list-details/
+### Seth Meyers and John Oliver Explain Why Trump Hates Jimmy Kimmel More Than Them
+Fri, 02 Oct 2026 13:37:06 +0000 — https://www.thewrap.com/creative-content/tv-shows/seth-meyers-john-oliver-why-trump-hates-jimmy-kimmel-most/
 
-American Horror Story is heading back to streams just in time for Halloween season, and for its 13th season, the enduring horror show has recruited an absolute powerhouse ensemble of Ryan Murphy regulars. And when we say regular, we mean regular , which means most of them are playing more than one character. That includes the long-awaited return of Jessica Lange, who reprises all of her lead characters from Seasons 1 through 4, as well as a mystery character. Of course, that also means there is so much lore to remember, and with this season set to have 30(ish)-minute episodes, not much time to remember it. We ve got you covered with an in-depth guide to the AHS 13 cast and their many, many characters below. Jessica Lange in American Horror Story: 13. (Eric Liebowitz/FX) Jessica Lange as Constance Langdon, Sister Jude, Fiona Goode, Elsa Mars and a Mystery Character To-Be-Revealed Iconic actress Jessica Lange makes her long-awaited return to American Horror Story in Season 13, reprising her Season 1 character Constance Langdon. And based on the episode descriptions, it sure seems like her story is a core throughline of the season. Hey, if you convince Jessica Lange to come back, you don t waste the opportunity to put her front and center! Speaking of which, the actress recently revealed she plays five characters this season: Constance, Season 2 s Sister Jude Martin, Season 3 s Fiona Goode, Season 4 s Elsa Mars and a fifth mystery character. Here s a quick rundown on those chara
+The hosts of late night television seem to agree that Jimmy Kimmel is the most hated among them by President Trump. And, on Thursday night, Seth Meyers, John Oliver and Kimmel himself had some theories as to why. Oliver and Meyers appeared on Kimmel s show as guests this time, promoting their residency at the Beacon Theater. In describing the experience, the men noted that Kimmel actually comes up pretty often during that residency, usually during audience Q&As. Because they ll normally say, like, How does it feel being disliked by the current president?' Oliver explained. And we always say, as long as you re on the air, we re fine. We are fully supportive. We are fully behind you, the way that we re fully behind a bulletproof vest. Kimmel wondered why that is, noting that he has a theory. Meyers cut in quickly, offering up his and Oliver s theory first. Other than the fact you don t like him, we think he would want to hang out with you, the Late Night host said. Like I think he sees us as a couple of dorks, and even if we were fans of his, he would have no respect for us. But like, I m sure he talks to people all the time about like, I think he has a pizza oven. Like, everything about you, you know what I mean? He s heard you have like, You know, he knows Larry David and Conan. He s got a lot of famous friends. His parties sound awesome.' Oliver confirmed that he and Meyers don t even have a pizza oven between them, and laughingly agreed with Meyers. For his part, Kimmel s t
 
 ## Collider
 
-### These 8 Hard Sci-Fi Movies Are Officially the Best of All Time
-Fri, 02 Oct 2026 10:38:11 GMT — https://collider.com/best-hard-sci-fi-movies-of-all-time/
+### Netflix Officially Scores 4-Season ‘Lincoln Lawyer’ Replacement
+Fri, 02 Oct 2026 16:19:22 GMT — https://collider.com/will-trent-streaming-netflix-november-2026/
 
-Broadly speaking, there are two categories of science fiction: Soft sci-fi is mostly character-driven and focused on "soft" sciences, such as sociology and politics, with no particularly big concern for realism and leaning more heavily toward "fiction" than "science." Hard sci-fi, on the other hand, is more so driven by "hard" sciences like physics and biology. This is science fiction that emphasizes scientific realism, logic, and plausible technology.
+Due to a new licensing deal struck between Netflix and 20th Century Television, the first four seasons of Will Trent are set to begin streaming on Netflix globally on November 3 before Season 5 premieres on ABC early next year.
 
-### Colleen Hoover's Most Unhinged Novel Officially Tops Book Charts
-Fri, 02 Oct 2026 10:30:11 GMT — https://collider.com/colleen-hoover-verity-book-charts-october-2026/
+### The 10 Most Fun Sci-Fi Movies of All Time, Ranked
+Fri, 02 Oct 2026 16:17:11 GMT — https://collider.com/most-fun-sci-fi-movies-all-time-ranked/
 
-Spooky season begins this weekend at the box office, as theatergoers prepare for a month of intense, edge-of-the-seat film. Although not a horror, the highlight of this first October weekend on the big screen is the arrival of the psychological thriller Verity , which stars Anne Hathaway in a reunion with Michael Showalter , who previously directed her in Prime Video’s The Idea of You . Dakota Johnson and Josh Hartnett also feature in the must-see adaptation, which is sure to prove popular at the box office.
+Brainy and contemplative science fiction movies like 2001: A Space Odyssey , Solaris , and Blade Runner (well, the latter to some extent) are nice and all, but what about science fiction that aims to be a bit more fun? It’s not like fun sci-fi movies are entirely mindless, either, but there are a good many of them that feel more focused on entertainment value than anything else, and that’s well and truly okay, at the end of the day.
 
-### The 10 Best World War II Movies of the 2020s, Ranked
-Fri, 02 Oct 2026 10:15:11 GMT — https://collider.com/best-world-war-2-movies-2020s-ranked/
+### ‘CIA’ and ‘FBI’ Are Officially Crossing Over in New Premiere Sneak Peek [Exclusive]
+Fri, 02 Oct 2026 16:00:12 GMT — https://collider.com/cia-season-2-premiere-sneak-peek/
 
-Pretty much everybody knows about World War II, right? It's only history's largest and most deadly conflict, after all. As many already know, the war broke out due to German dictator Adolf Hitler 's rise to power, which was followed by his invasion of all of Europe, as a means of expanding Nazi Germany's fascist regime. When Germany invaded Poland, Poland's allies swooped in to help, beginning the six-year-long conflict.
+Best known for his role as Lucifer in the hit Fox series that ran for six seasons between 2016 and 2021, Tom Ellis has quietly become one of TV’s most prominent stars. Years before he starred in Lucifer , Ellis also starred in the key role of Gary Ellis across multiple seasons of Miranda , the forgotten sitcom starring Miranda Hart and Patricia Hodge . In more recent years, Ellis featured as Oliver in one of the steamiest shows on Hulu, Tell Me Lies , and he also teamed up with Pierce Brosnan for the 2025 Netflix sleeper hit, The Thursday Murder Club . This year, though, it’s Ellis’ role in the hit new CBS procedural series, CIA , that has fans around the world talking. After starring in the lead role in the first season, Ellis is back in CIA Season 2, which premieres this Monday, October 5.
 
-### 8 Netflix Shows That Deserve a Place Among TV's All-Time Greatest, Ranked
-Fri, 02 Oct 2026 10:09:12 GMT — https://collider.com/greatest-netflix-shows-all-time-ranked/
+### Joel Kinnaman’s ‘Zero Dark Thirty’ Replacement Gets Official New Look Before Finale [Exclusive]
+Fri, 02 Oct 2026 16:00:12 GMT — https://collider.com/joel-kinnaman-high-value-target-season-1-finale-sneak-peek/
 
-Among some of Netflix's finest releases, there are a select few that truly stand out, solid gems that are often discussed alongside some of TV's all-time greatest. The streaming platform's select few go way beyond being simply popular or binge-worthy — they offer unforgettable characters, sharp writing, bold visuals, emotional depth, and a truly impressive level of storytelling that lingers with viewers long after the credits roll.
+In the last 10–15 years, Joel Kinnaman has quietly become one of the biggest action stars in the world with several massive hits under his belt. Kinnaman made a name for himself back in 2014 by starring in the controversial RoboCop reboot movie, and while the film was met with mostly poor reception from critics and audiences, most agreed that it wasn’t due to his performance. Earlier this year, Kinnaman took his talents to Netflix to star in the grounded crime thriller series, Detective Hole , which is based on the novel of the same name by Jo Nesbø . The show didn’t quite soar as high as other Netflix crime thrillers this year, like I Will Find You , and the streamer has yet to officially announce if Detective Hole is going to be renewed for Season 2 or canceled after only one season.
 
-### Every James Bond Movie Is Officially Available to Stream in One Place
-Fri, 02 Oct 2026 10:00:11 GMT — https://collider.com/james-bond-movies-streaming-prime-video-october-2026/
+### ‘Tracker’ Officially Returns in 48 Hours With Gritty First Look at Season 4 [Exclusive]
+Fri, 02 Oct 2026 16:00:12 GMT — https://collider.com/tracker-season-4-premiere-sneak-peek/
 
-Right now is an exciting time to be a James Bond fan, and the franchise officially returned today with one of its best releases in months. The last official James Bond movie came back in 2021 with Daniel Craig ’s swan song with the character in No Time to Die . Bond had been around for years before Craig, but he revolutionized the character in such a way that it makes it tough for whoever is going to follow in his footsteps as the next 007. There will inevitably be the next 007, too — Amazon is already hard at work on a new James Bond movie that’s being written by Steven Knight ( Peaky Blinders ) and directed by Denis Villeneuve ( Dune: Part Three ). Very little is known about the film at this time, and it’s way too early to predict when it could be released.
+CBS has dozens of popular shows either returning for new seasons this year or debuting for the first time, but there’s one hovering a level above the rest when it comes to anticipation. One of the new CBS shows debuting in around a week that has everyone talking is Cupertino , which is already being positioned as CBS’ answer to The Lincoln Lawyer . The show stars Mike Colter , who is best known for his role as Luke Cage in Marvel’s Defenders series of shows on Netflix. While there are plenty of people excited to check out Cupertino , the big CBS return everyone is waiting for is Tracker . The show stars Justin Hartley in the leading role of Colter Shaw with a splash of Jensen Ackles as his brother, Russell Shaw, and it’s coming back sooner than you realize.
 
-### Zoe Kazan Had To Confront Her Own Family History To Adapt ‘East of Eden’ for Netflix
-Fri, 02 Oct 2026 10:00:11 GMT — https://collider.com/zoe-kazan-east-of-eden-grandfather-elia-kazan-netflix-interview/
+### ‘NCIS’ Season 24 Officially Reunites Tony DiNozzo and McGee in New Sneak Peek [Exclusive]
+Fri, 02 Oct 2026 16:00:12 GMT — https://collider.com/ncis-season-24-premiere-sneak-peek-michael-weatherly-sean-murray/
 
-Editor's Note: The following conversation contains plot spoilers for Netflix’s East of Eden.
+NCIS fans can officially start counting down the days until the franchise's return on Tuesday nights. Less than one week remains until the procedural crime dramas get back in action as part of CBS premiere week, and this year, there is much to look forward to. On a grander scale, a new branch of the agency is set to open up in NCIS: New York , with LL COOL J 's Sam Hanna returning alongside a new team and a "roguish" new partner played by Scott Caan . The return of franchise legends comes in threes, though. Longtime flagship lead Mark Harmon is locked in for a season-long arc on Season 3 of the prequel series NCIS: Origins , while the Major Crimes Response Team officially welcomes back Tony DiNozzo himself, Michael Weatherly , following the cancellation of his spin-off, NCIS: Tony & Ziva .
 
-### These 5 Steven Spielberg Action Movies Are Masterpieces
-Fri, 02 Oct 2026 09:41:11 GMT — https://collider.com/best-steven-spielberg-action-movies-masterpieces/
+### Arnold Schwarzenegger Officially Reveals How He Met One of the '80s' Biggest Action Stars [Exclusive]
+Fri, 02 Oct 2026 15:30:13 GMT — https://collider.com/dolph-lundgren-unbreakable-arnold-schwarzenegger-sneak-peek/
 
-Steven Spielberg action scenes tend to survive in memory as things you actually did. Tell me that isn’t correct. It was you who ran from the boulder. You held your breath while the raptors searched the kitchen . You watched the tank inch toward the cliff. You hit Omaha Beach and immediately wanted to crawl back into the ocean. That is a ridiculous gift. Plenty of directors can stage something enormous. Spielberg can make ten minutes of controlled chaos live in your head like a memory you somehow participated in.
+Dolph Lundgren came out of nowhere to become one of the biggest action stars of the 1980s, in more ways than one. Now, a new documentary is looking into his rise and fall and rise: Dolph: Unbreakable . It hits video on demand and digital next week, but before it does, Collider is proud to present an exclusive clip from Dolph: Unbreakable featuring fellow 1980s icon Arnold Schwarzenegger .
 
-### Henry Cavill’s 82% Rotten Tomatoes Audience Score Thriller Is Officially Taking Over the World
-Fri, 02 Oct 2026 09:30:11 GMT — https://collider.com/henry-cavill-in-the-grey-streaming-success-apple-tv-october-2026/
+### ‘Alien’ Officially Gets a New Xenomorph Collection for NYCC [Exclusive]
+Fri, 02 Oct 2026 15:30:13 GMT — https://collider.com/alien-loungefly-mondo-attack-peter-nycc-bag-images/
 
-When you think of Guy Ritchie , one of the first things that is likely to come to mind is Sherlock Holmes , but he has a new movie crushing expectations on streaming. Ritchie started the year by expanding the Sherlock Holmes universe via the beloved prequel series, Young Sherlock , which dropped as a binge back in March. The show spent weeks at the peak of Prime Video streaming charts before the studio finally decided to bring it back for Season 2. Ritchie is also enjoying the success of a few other shows, MobLand and The Gentlemen , but only one of them is confirmed to return for another season. Paramount has already picked up MobLand for Season 3, but Netflix has yet to decide the fate of The Gentlemen , despite it being one of the most-watched shows of the entire year.
+Being an Alien fan means having a very different idea of what counts as a beautiful collectible. Put a Xenomorph on something, and there’s a good chance it’s coming home , despite everything those movies have taught us about bringing unfamiliar creatures aboard. But when the artwork gets H.R. Giger ’s design right, it’s hard to argue with the purchase. The best pieces give you a reason to stop and look at the creature again. There’s so much detail in that original design, and it deserves more than being slapped beside a movie logo. It also helps if there’s a little something for the fans who spent most of the first movie worrying about the cat .
 
-### 3 Favorite Netflix Movies You Have to Watch This October
-Fri, 02 Oct 2026 09:22:11 GMT — https://collider.com/best-netflix-movies-watch-weekend-october-2-2026/
+### A24's Best Movies Are Officially Returning To Alamo Drafthouse Theaters This Fall [Exclusive]
+Fri, 02 Oct 2026 15:00:12 GMT — https://collider.com/a24-movie-club-alamo-drafthouse-theaters-pearl-red-rocket-the-green-knight-screening/
 
-After Avengers: Endgame was re-released in global theaters last weekend, cashing in on the hype ahead of December 18's Doomsday , the global box office was once again topped by the MCU. This weekend, a pair of exciting new arrivals will look to take the first October top spot. First, Anne Hathaway , Dakota Johnson , and Josh Hartnett star in Verity , the latest Colleen Hoover adaptation, sure to prove a big hit. Then there's Digger , Tom Cruise 's first non-franchise film in almost a decade, directed by Alejandro G. Iñárritu . But if none of these grab your attention, then there's plenty more you could watch from the comfort of your own home. Here's a look at three movies you should watch this weekend on Netflix .
+2026 has been another banner year for A24 . Following a strong 2025 slate of films, including everything from the Best Picture nominee Marty Supreme to Celine Song 's summer blockbuster romance Materialists , the indie giant has landed one hit after another since the calendar flipped over, starting with its Charli XCX mockumentary The Moment and the U.S. release of its acclaimed queer dramedy Pillion with Harry Melling and Alexander Skarsgård . Things really began heating up in the Spring as Robert Pattinson and Zendaya 's The Drama arrived in theaters, followed by the atomic bomb that was Kane Parsons ' Backrooms , which became the highest-grossing film in company history with over $401 million worldwide. Most recently, Pattinson has found them another winner, leading the Chris Hansen thriller Primetime to the third-largest A24 box office debut ever with $19.2 million.
 
-### This Brazilian Cult Classic Keeps Predicting Who'll Win a Golden Globe
-Fri, 02 Oct 2026 09:12:12 GMT — https://collider.com/basic-sanitation-brazilian-movie-golden-globes-wagner-moura-fernanda-torres/
+### Netflix Officially Renews Hit Legacy Sequel Following Solid Rotten Tomatoes Audience Debut
+Fri, 02 Oct 2026 14:55:44 GMT — https://collider.com/a-different-world-season-2-renewed-netflix/
 
-The 2027 awards season is still a few months away, but potential nominees are starting to become clearer. Most foreign countries are in the final stages of deciding which movies to nominate as contenders for the Oscars and Golden Globes, and Brazil, coming from two very successful years, has just picked Gugu's World . While it might not have the same buzz as I'm Still Here and The Secret Agent , it could still surprise everyone, thanks in part to a peculiar "prophecy" from 2007. Back then, a criminally underrated comedy inadvertently foretold Brazil's string of Oscar nominations and Golden Globe wins in a story about community, film-making, and the importance of basic sanitation. Yes, basic sanitation.
+Netflix has had a big year in 2026 with some massively popular movies and TV shows, but the one overshadowing them all is War Machine , the hit sci-fi thriller starring Alan Ritchson . Ritchson leads a star-studded ensemble for War Machine , and after the movie picked up nearly 140 million views during its initial viewing period, which was enough to crack the all-time Netflix top 10, the streamer has confirmed that a sequel to the movie is officially in the works. Netflix also found success with other movies like Apex , the gripping survival thriller starring Taron Egerton and Charlize Theron . The biggest TV show of the year on Netflix, without a doubt, has been I Will Find You . Inspired by the novel of the same name by Harlan Coben , the series stars Sam Worthington and Britt Lower .
 
