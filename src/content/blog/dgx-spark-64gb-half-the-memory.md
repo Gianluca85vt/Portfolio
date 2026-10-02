@@ -3,7 +3,7 @@ title: "DGX Spark 64GB: half the memory, $1,000 more"
 date: 2026-10-02
 category: Tech
 excerpt: Nvidia's 64GB Spark arrives 23 October at $4,999 — a thousand dollars above what the 128GB box cost at launch. Smaller pool, higher price.
-cover: /img/blog/dgx-spark-64gb-half-the-memory/cover.svg
+cover: /img/blog/dgx-spark-64gb-half-the-memory/shot-01.jpg
 sources:
   - outlet: Tom's Hardware
     url: https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less
