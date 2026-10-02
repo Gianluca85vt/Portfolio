@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Value: halving the pool while raising the price turns the one spec that justified the box into its weakest line."
     - "Storage: cutting the drive alongside the memory hits simulation caches, which is where a 3D workload actually lives on disk."
-draft: true
 ---
 
 When the DGX Spark shipped, the specification that mattered to me had nothing to
