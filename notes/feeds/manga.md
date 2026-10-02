@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-02T16:22:40.763Z
+# Manga — harvested 2026-10-02T20:57:57.601Z
 
 ## Anime News Network
+
+### Live-Action Street Fighter Film's Trailer Features Cast's Comments About Franchise
+Fri, 02 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/live-action-street-fighter-film-trailer-features-cast-comments-about-franchise/.242428
+
+Film opens on October 16
+
+### Welsh & Shedar Anime Streams on YouTube in November
+Fri, 02 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424
+
+1st 2 episodes stream in English, Japanese, French in early November
+
+### FX Fighter Kurumi-chan, #I'm Looking For Zombie, Reborn as a Space Mercenary Anime Get Same-Day English Dubs
+Fri, 02 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425
+
+All 3 reveal English dub casts
+
+### Toonami Airs Wind Breaker, Gachiakuta Anime
+Fri, 02 Oct 2026 13:08:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426
+
+Adult Swim's programming block adds <cite>Wind Breaker</cite> on October 10, <cite>Gachiakuta</cite> on October 17
+
+### Your Anime Rankings - Best of Summer 2026
+Fri, 02 Oct 2026 12:55:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240179
+
+<cite>Tanya the Evil</cite> claims the final weekly top spot, with <cite>Draw This, Then Die!</cite> close behind. In the cumulative, <cite>The Cat and the Dragon</cite> and <cite>Dara-san of Reiwa</cite> both edge up four places to close out the season.
 
 ### HimaNatsu: Of Churches, Sunflowers, and Long Summers Game Review
 Fri, 02 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/himanatsu/of-churches-sunflowers-and-long-summers/.242004
@@ -37,36 +62,16 @@ Fri, 02 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>Kyō wa Kawabe de Sugoshitai</cite> manga launches on November 5
 
-### Tetsuro Araki and Tetsuya Nakatake Look Back on the “Miracle” of Attack on Titan
-Fri, 02 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/tetsuro-araki-and-tetsuya-nakatake-look-back-on-the-miracle-of-attack-on-titan/.241029
-
-"When it ended, everyone said, 'Just because the work was successful doesn't mean we should decide that everything was fine.' They said, “This must never happen again.”
-
-### Clevatess Season 2 ‒ Episode 13
-Fri, 02 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/clevatess-season-2/episode-13/.242396
-
-The finale of <i>Clevatess II</i> represents some of the most go-for-broke, bugnuts fantasy storytelling I've seen in some time, and I simply cannot help but respect the hell out of it.
-
-### New Saga's Jun Miura Launches New Manga on October 8
-Fri, 02 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/new-saga-jun-miura-launches-new-manga-on-october-8/.242403
-
-Manga is titled <cite>Moto Shinryū, Chippoke na Ningen ni Tensei Shita Kedo Musō Shimasu</cite>
-
-### Devils' Crest TV Anime Reveals More Cast, Ending Theme in 2nd Promo Video
-Fri, 02 Oct 2026 07:21:51 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/devils-crest-tv-anime-reveals-more-cast-ending-theme-in-2nd-promo-video/.242411
-
-Soala performs ending theme "ReaL" for series debuting worldwide on Amazon Prime Video on November 6
-
-### WEBTOON Entertainment Names 2 Co-CEOs for Naver Webtoon
-Fri, 02 Oct 2026 04:54:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/webtoon-entertainment-names-2-co-ceos-for-naver-webtoon/.242406
-
-Founder of WEBTOON Junkoo Kim will step down as Naver Webtoon's CEO
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Tokyo Revengers Season 4 Releases Creditless Opening Featuring JO1's "IGNITE"
+Fri, 02 Oct 2026 17:10:19 GMT — https://animecorner.me/tokyo-revengers-season-4-releases-creditless-opening-featuring-jo1s-ignite/
+
+Tokyo Revengers: War of the Three Titans (Season 4) released the creditless opening sequence for, featuring JO1’s opening theme “IGNITE.”
 
 ### The Apothecary Diaries Season 3 Releases Creditless Opening Ahead of Today's Premiere
 Fri, 02 Oct 2026 10:11:59 GMT — https://animecorner.me/the-apothecary-diaries-season-3-releases-creditless-opening-ahead-of-todays-premiere/
@@ -87,16 +92,6 @@ We had the honor of chatting with the Japanese singer-songwriter ZAQ during her 
 Thu, 01 Oct 2026 09:28:13 GMT — https://animecorner.me/bottom-tier-character-tomozaki-light-novel-to-end-with-12th-volume/
 
 Yuki Yaku has announced that the Bottom-tier Character Tomozaki light novel will end with&hellip;
-
-### Interview: MindaRyn on her Anisong Music Journey, "Calling Back" Asia Tour, and Jollibee
-Wed, 30 Sep 2026 18:29:55 GMT — https://animecorner.me/interview-mindaryn-on-her-anisong-music-journey-calling-back-asia-tour-and-jollibee/
-
-We had the pleasure of interviewing anisong artist MindaRyn during her visit to the&hellip;
-
-### Cosplay Mania 2026 and the JAM Concert Return This October
-Wed, 30 Sep 2026 16:56:28 GMT — https://animecorner.me/cosplay-mania-2026-and-the-jam-concert-return-this-october/
-
-Cosplay Mania (CosMania) 2025 is returning with a three-day “Dazzling Diamond” celebration of cosplay, anime,&hellip;
 
 ## MyAnimeList News
 
@@ -125,21 +120,6 @@ Wed, 30 Sep 2026 20:35:01 -0700 — https://myanimelist.net/news/74778320?_locat
 
 The official website for the television anime adaptation of Naruki&rsquo;s Megane, Tokidoki, Yankee-kun (Glasses with a chance of Delinquent) manga unveiled the main cast and a second teaser promotional video on Thursday. The anime is scheduled to premiere in April 2027 on ABC TV and TV Asahi s nationwide network including the ANiMAZiNG!!! program. It will also stream on ABEMA and air on BS11. Cast Dan Ichikura: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Hiro Momose: Suzuko hara (Barakamon...
 
-### Thunder 3 Second Season Announced for 2027
-Wed, 30 Sep 2026 10:28:28 -0700 — https://myanimelist.net/news/74776633?_location=rss
-
-The 12th and final episode of Thunder 3 ended with an announcement on Thursday that its second season is scheduled for 2027, accompanied by a teaser promotional video. Produced by Unend, the television anime series adapting Hiroya Oku s supernatural mystery manga aired in 12 episodes on July 9. Netflix simulcast the television anime series with subtitles worldwide. Oku serialized the manga in Monthly Shounen Magazine from May 2022 to June 2026. Kodansha published the tenth and final volume...
-
-### Fall 2026 Simulcast List
-Wed, 30 Sep 2026 10:18:51 -0700 — https://myanimelist.net/news/74776601?_location=rss
-
-In this thread, you ll find a comprehensive list of television anime acquired for simulcast release during the Fall 2026 season. Anime series licensed for home video release can be found here. This post will be continuously updated as more simulcasts are announced. Feel free to post in this thread if you find a series that we are missing. Akiba Pass TV (German-speaking Europe) Mahou Shoujo Ikusei Keikaku: Restart Tensei shitara Ken deshita II (Reincarnated as a Sword Season 2) Ani-One Asia...
-
-### Q4 2026 Anime & Manga Licenses
-Wed, 30 Sep 2026 10:17:45 -0700 — https://myanimelist.net/news/74776596?_location=rss
-
-In this thread, you ll find a comprehensive list of anime and manga licensed in the fourth quarter (Oct-Dec) of 2026. Fall 2026 anime which were licensed before the quarter began will also be carried over for convenience. Please note that the anime licenses are for home video release; simulcast acquisitions for Fall 2026 can be found here. Digital releases are noted with an asterisk (*). This post will be continuously updated as more licenses are announced. If you have a license that we are...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -150,9 +130,4 @@ _Nothing in the last 48 hours._
 Thu, 01 Oct 2026 11:40:44 +0000 — https://animeuknews.net/2026/10/dragon-ball-super-beerus-streaming-on-crunchyroll-11th-october/
 
 A remaster of the series Dragon Ball Super, from the legendary Akira Toriyama, Dragon Ball Super: Beerus, features updated visuals and a re-worked narrative while remaining true to Toriyama’s original vision.
-
-### More Titles Join Crunchyroll’s Fall/Autumn 2026 Slate
-Wed, 30 Sep 2026 17:10:17 +0000 — https://animeuknews.net/2026/09/more-titles-join-crunchyrolls-fall-autumn-2026-slate/
-
-New shows include: From Far Away, Super Psychic Policeman Chojo, HORROR COLLECTOR, and more.
 

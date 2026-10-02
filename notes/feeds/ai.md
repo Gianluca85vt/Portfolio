@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-02T16:22:40.763Z
+# AI — harvested 2026-10-02T20:57:57.601Z
 
 ## OpenAI
 
@@ -6,6 +6,11 @@
 Fri, 02 Oct 2026 16:15:00 GMT — https://openai.com/index/practical-guide-building-gpt-6
 
 Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
+
+### Chatham scales its capital markets expertise with OpenAI
+Fri, 02 Oct 2026 00:00:00 GMT — https://openai.com/index/chatham-financial
+
+Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.
 
 ### The eternal complement
 Thu, 01 Oct 2026 17:00:00 GMT — https://openai.com/index/the-eternal-complement
@@ -32,8 +37,7 @@ Fri, 02 Oct 2026 04:01:31 GMT — https://huggingface.co/blog/ServiceNow-AI/auto
 
 ## Google DeepMind
 
-### Gemini 4 Argon: our next era of frontier intelligence
-Wed, 30 Sep 2026 20:01:45 +0000 — https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 
