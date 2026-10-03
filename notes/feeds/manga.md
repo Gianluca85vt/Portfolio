@@ -1,6 +1,26 @@
-# Manga — harvested 2026-10-02T20:57:57.601Z
+# Manga — harvested 2026-10-03T10:02:57.444Z
 
 ## Anime News Network
+
+### Spice & Wolf: merchant meets the wise wolf Season 2 Anime Reveals Teaser Promo Video, More Cast
+Sat, 03 Oct 2026 04:40:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-anime-reveals-teaser-promo-video-more-cast/.242439
+
+Romi Park joins cast as Eve Bolan
+
+### The Kept Man of the Princess Knight TV Anime's Promo Video Reveals Myth & Roid's Opening Theme
+Sat, 03 Oct 2026 03:54:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/the-kept-man-of-the-princess-knight-tv-anime-promo-video-reveals-myth-and-roid-opening-theme/.242438
+
+More cast revealed; sajou no hana performs ending theme
+
+### Show Your 'Siga' Pride With New Goodbye, Lara Sweatshirt & T-Shirt
+Fri, 02 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-02/show-your-siga-pride-with-new-goodbye-lara-sweatshirt-and-t-shirt/.242340
+
+Dress up as Lara or Mari
+
+### North American Anime, Manga Releases, September 27-October 3
+Fri, 02 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/north-american-anime-manga-releases-september-27-october-3/.242281
+
+<cite>Spirited Away</cite> anime; <cite>The Lord-Magear's Apprentice, Can You Kiss Me First?, Even the Student Council Has Its Holes!</cite> manga ship
 
 ### Live-Action Street Fighter Film's Trailer Features Cast's Comments About Franchise
 Fri, 02 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/live-action-street-fighter-film-trailer-features-cast-comments-about-franchise/.242428
@@ -42,31 +62,16 @@ Fri, 02 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>"Dansō o Shiirare Otoko to Shite Ikitekita Kōshaku Reijo wa, 2-kaime no Jinsei wa Dress o Kite, Reijō Life o Ōka Shitai"</cite> manga launches on November 5
 
-### 7th Be Forever Yamato: Rebel 3199 Film Reveals Ending Theme Song With Music Video
-Fri, 02 Oct 2026 10:21:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/7th-be-forever-yamato-rebel-3199-film-reveals-ending-theme-song-with-music-video/.242417
-
-Junko Yagami performs song for film opening in Japan on October 30
-
-### Keishi Ayasato's Seijo Seisen Novels Get Manga
-Fri, 02 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/keishi-ayasato-seijo-seisen-novels-get-manga/.242397
-
-Sasami Kamone draws manga
-
-### This Week in Games - Armed Sakura
-Fri, 02 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-02/armed-sakura/.242259
-
-Could a new <i>Sakura Wars</i> game be on the horizon?
-
-### Kuma Miko's Masume Yoshimoto Launches New Manga
-Fri, 02 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/kuma-miko-masume-yoshimoto-launches-new-manga/.242401
-
-<cite>Kyō wa Kawabe de Sugoshitai</cite> manga launches on November 5
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Ninja Scroll 4K Reveals Exclusive Clip Ahead of North American Theatrical Release
+Fri, 02 Oct 2026 23:03:48 GMT — https://animecorner.me/ninja-scroll-4k-reveals-exclusive-clip-ahead-of-north-american-theatrical-release/
+
+Ninja Scroll is heading back to theaters in North America in a new 4K&hellip;
 
 ### Tokyo Revengers Season 4 Releases Creditless Opening Featuring JO1's "IGNITE"
 Fri, 02 Oct 2026 17:10:19 GMT — https://animecorner.me/tokyo-revengers-season-4-releases-creditless-opening-featuring-jo1s-ignite/
@@ -88,14 +93,19 @@ Fri, 02 Oct 2026 07:43:31 GMT — https://animecorner.me/interview-zaq-on-compos
 
 We had the honor of chatting with the Japanese singer-songwriter ZAQ during her visit&hellip;
 
-### Bottom-Tier Character Tomozaki Light Novel To Conclude With 12th Volume
-Thu, 01 Oct 2026 09:28:13 GMT — https://animecorner.me/bottom-tier-character-tomozaki-light-novel-to-end-with-12th-volume/
-
-Yuki Yaku has announced that the Bottom-tier Character Tomozaki light novel will end with&hellip;
-
 ## MyAnimeList News
 
-### Light Novel Tokyo Ravens Ends with 18th Volumes
+### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo
+Sat, 03 Oct 2026 01:02:34 -0700 — https://myanimelist.net/news/74785238?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promotional video for the television anime adaptation of Tooru Shirogane s Himekishi-sama no Himo (The Kept Man of the Princess Knight). The anime series will premiere in January 2027. Cast April: Rika Nagae (Sentai Daishikkaku) Vanessa: Rie Takahashi (Isekai Quartet 3) Dez: Tetsu Inada (Vigilante: Boku no Hero Academia Illegals 2nd Season) Chihiro Kumano (U...
+
+### Keroro Gunsou☆ Announces Additional Cast
+Fri, 02 Oct 2026 20:18:08 -0700 — https://myanimelist.net/news/74784547?_location=rss
+
+The official X account for the new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga announced three additional cast members on Saturday. The anime series premiered on October 3 at 9:30 a.m. on TV Tokyo. Cast Angol Mois: Kana Ichinose (Sousou no Frieren) Aki Hinata: Chiwa Saitou (Keroro Gunsou) Narrator: Satomi Arai (Re:Zero kara Hajimeru Isekai Seikatsu) Toshihiko Sano (Farmagia) is directing the new anime at Bandai Namco Pictures. Toshimitsu Takeuchi (Fantas...
+
+### Light Novel Tokyo Ravens Ends with 18th Volume
 Fri, 02 Oct 2026 04:42:31 -0700 — https://myanimelist.net/news/74782445?_location=rss
 
 The official X for the Tokyo Ravens light novel series announced on Friday that the series will end with its 18th volume, scheduled for release this Winter. Kouhei Azano (Black Blood Brothers) originally began the school supernatural series under Fujimi Fantasia Bunko imprint in May 2010, featuring illustrations by Sumihei. Kadokawa published the 17th volume in March 2025. The series has a cumulative 1 million copies of its volumes in circulation in September 2013. A side-story light novel serie...
@@ -110,21 +120,16 @@ Fri, 02 Oct 2026 02:21:46 -0700 — https://myanimelist.net/news/74782123?_locat
 
 The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel unveiled a pair of additional cast, the theme songs, and second promotional video on Friday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Voice actors Atsushi Tamaru (Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken) and Ayumu Murase (Yomi no Tsugai) are joining the cast as Shin Haizaki and Kakeru Niki, respectively. Singer-songwriter So...
 
-### Light Novel Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita Gets TV Anime
-Wed, 30 Sep 2026 21:58:24 -0700 — https://myanimelist.net/news/74778514?_location=rss
-
-Publishing company Earth Star Entertainment announced a television anime adaptation of Yasuaki Mikami s Maid nara Touzen desu. Nureginu wo Kiserareta Bannou Maid-san wa Tabi ni Deru Koto ni shimashita (Looks Like a Job for a Maid! The Tales of a Dismissed Supermaid) light novel on Thursday, revealing an announcement promo. Mikami began penning the fantasy adventure story on the Shousetsuka ni Narou website in September 2021. Earth Star Entertainment began publishing the light novel under it...
-
-### Megane, Tokidoki, Yankee-kun Unveils Main Cast, Second Teaser Promo for Spring 2027
-Wed, 30 Sep 2026 20:35:01 -0700 — https://myanimelist.net/news/74778320?_location=rss
-
-The official website for the television anime adaptation of Naruki&rsquo;s Megane, Tokidoki, Yankee-kun (Glasses with a chance of Delinquent) manga unveiled the main cast and a second teaser promotional video on Thursday. The anime is scheduled to premiere in April 2027 on ABC TV and TV Asahi s nationwide network including the ANiMAZiNG!!! program. It will also stream on ABEMA and air on BS11. Cast Dan Ichikura: Hiroto Shimizu (Dark Moon: Tsuki no Saidan) Hiro Momose: Suzuko hara (Barakamon...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Appleseed: Deluxe Edition Review
+Sat, 03 Oct 2026 09:00:05 +0000 — https://animeuknews.net/2026/10/appleseed-deluxe-edition-review/
+
+Shirow Masamune's first major work comes out in a 800+ page hardback collection.
 
 ### “Dragon Ball Super: Beerus” Streaming on Crunchyroll 11th October
 Thu, 01 Oct 2026 11:40:44 +0000 — https://animeuknews.net/2026/10/dragon-ball-super-beerus-streaming-on-crunchyroll-11th-october/

@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-02T20:57:57.601Z
+# AI — harvested 2026-10-03T10:02:57.444Z
 
 ## OpenAI
 
@@ -21,11 +21,6 @@ Advanced AI may matter most for the routine work behind breakthrough ideas. Expl
 Thu, 01 Oct 2026 16:00:00 GMT — https://openai.com/index/albertsons-reimagining-retail
 
 Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
-
-### The Den frees up 10-15 hours a week to grow with ChatGPT Work
-Thu, 01 Oct 2026 00:00:00 GMT — https://openai.com/index/the-den-family-social
-
-As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.
 
 ## Hugging Face
 

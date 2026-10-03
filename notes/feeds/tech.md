@@ -1,6 +1,16 @@
-# Tech — harvested 2026-10-02T20:57:57.601Z
+# Tech — harvested 2026-10-03T10:02:57.444Z
 
 ## Ars Technica
+
+### Apple changes full-disk access permissions to curb abuse from AI agents
+Fri, 02 Oct 2026 23:03:16 +0000 — https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
+
+Apple says it is changing its macOS privacy settings to stop third-party app developers from misusing them to access message histories. Friday's announcement comes two weeks after tech columnist Jason Aten said that Meta’s new general-purpose AI agent Muse sent him an unsolicited notification referencing a thread between him and a co-worker over Apple Messages. Aten said he never granted Muse permissions to read his messages and had assumed they were off-limits. Social media last week blew up with masses of people who agreed and said the incident showed that AI assistants given access to calendars, emails, messages, shopping accounts, and other resources are akin to a skill saw or other power tool. While potentially useful, they can do real damage if not used carefully. He said/she said Meta CTO David Singleton joined the fray with a rebuttal that appeared solid. For Muse to access Apple Messages, a user must manually give it two privileges. One is full-disk access, a macOS system-level permission. The other is to enable a Messages connector setting in Muse. Read full article Comments ]]>
+
+### Someone got Doom in an SQL database
+Fri, 02 Oct 2026 21:19:05 +0000 — https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/
+
+"Rendering Doom in a database is obviously a bad idea," Lukas Vogel writes in a lengthy blog post explaining how exactly he managed to render Doom using an SQL database. OK, that's not entirely accurate. The SQLDoom project uses a small Python client to handle input and output, drive the game's timing, and display each frame to the screen. Behind that, a series of CedarDB tables tracks the game geometry and state, while about 1,300 lines of SQL queries spread across 89 common table expressions implement the game logic and generate 35 bitmap framebuffers per second. In this, SQLDoom is a major improvement over Vogel's previous DoomQL project , which last year set out to build "a multiplayer Doom-like shooter entirely in SQL." Unfortunately, that effort ended up with raycasting-based, grayscale ASCII graphics that were more akin to the simplistic 90-degree-angled maps of Wolfenstein 3D . The newer SQLDoom, on the other hand, generates full-color 640x480 frames that look like they could have come from the original Doom executable. Read full article Comments ]]>
 
 ### Amazon’s $1B plan to combat data center backlash draws more backlash
 Fri, 02 Oct 2026 20:30:27 +0000 — https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/
@@ -52,17 +62,12 @@ Fri, 02 Oct 2026 14:52:16 +0000 — https://arstechnica.com/gadgets/2026/10/the-
 
 The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, it's getting more expensive. Even devices with years-old tech inside are still apparently subject to that unwritten rule. Nvidia has just announced that the Shield TV Pro is getting $100 more expensive, effective immediately. The most recent version of the Shield streaming box debuted in 2019, running Android TV with AI upscaling and hardware decoding for almost any type of media. While it ran an aging Tegra X1+ processor, that was (and still is) fast for a TV media streamer. The device launched at $199.99, with a non-Pro variant at $149.99. The non-Pro Shield has since been discontinued, but the Shield TV Pro lives on at the new $299.99 price. Nvidia has confirmed that you can blame AI for the higher Shield TV pricing. "Starting October 2, SHIELD Pro will be priced at $299. The cost of components, including memory, has increased substantially across the industry," a spokesperson told Ars. Read full article Comments ]]>
 
-### Rocket Report: SpaceX completes launch triple-header; Rocket Lab nets big contract
-Fri, 02 Oct 2026 13:54:34 +0000 — https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/
-
-Welcome to Edition 9.13 of the Rocket Report! This week, SpaceX celebrated the first orbital launch of its new Starship rocket. I'm not sure many people, at least those outside of SpaceX, expected it to take 14 flights of Starship before it technically reached low-Earth orbit, but Monday morning's launch finally added that to SpaceX's list of accomplishments with its new super-heavy rocket. Starship had gone 99 percent of the way to orbit before, only held back by safety concerns around the possibility of stranding the huge rocket in space. What was most notable for SpaceX with this Starship flight was that it unlocked a massive growth potential for Starlink, with the first 26 of the network's new-generation Starlink V3 satellites successfully deployed Monday. Read full article Comments ]]>
-
-### TCL is right to question Samsung’s use of the term “Mini LED”
-Fri, 02 Oct 2026 10:30:11 +0000 — https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/
-
-What makes a display a Mini LED display? It's a question that sounds like it should have a simple answer. But it's now at the center of a lawsuit between two of the biggest names in TVs, with TCL accusing its longtime competitor Samsung of falsely advertising budget LCD-LED TVs as Mini LED sets. TCL may have a point. Samsung's M-series TVs, which range from $300 for a 43-inch model to $2,300 for a 100-inch model, do raise some legitimate questions about what should qualify as Mini LED. More broadly, though, the dispute highlights a problem for shoppers: Without agreed-upon standards for what "Mini LED" actually means, manufacturers have plenty of room to define the technology for themselves. Read full article Comments ]]>
-
 ## The Verge
+
+### Meta open sources code to let you make Muse AI gadgets
+2026-10-02T17:08:37-04:00 — https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
+
+Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced . The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so you can display Muse on a big screen, or putting Muse on a small touchscreen device to make what looks kind of like a DIY Muse Charm . "Muse gadgets are open source devices you build yourself," Meta says. "Program an off-the-shelf ESP32 board or set up a Raspberry Pi with our SDKs, then connect Muse to your displays, buttons, sensors, actuators, and whatever else you've got lying on your workbench. … Read the full story at The Verge. ]]>
 
 ### Netflix is pivoting away from prestige
 2026-10-02T16:30:26-04:00 — https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig
@@ -108,11 +113,6 @@ Nacon announced what the company is claiming is the world's first officially lic
 2026-10-02T11:47:05-04:00 — https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast
 
 OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make a cute little Muse character. But OpenAI's early marketing is all about how you can use it to do Business Things: launch websites, reschedule calls, build slide decks for board meetings. Muse, on the other hand, keeps reminding me to buy a jacket I looked at. This week on The Vergecast , we're talking about Dots and the current state of agentic assistants. Our conversatio … Read the full story at The Verge. ]]>
-
-### Tesla will now let you drive off mid-charge if there’s an emergency
-2026-10-02T10:34:14-04:00 — https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting
-
-Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. When a Tesla vehicle is charging, the plug is locked to the charging port and driving is disabled. To put the car in drive, a charging cable has to be manually released from the vehicle's charging port. Since the shooting in Twin Falls, Idaho, Tesla owners have been requesting a quick-release mechanism that would allow them to escape in the event of an emergency. This week, Tesla responded with a software update that respon … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,11 @@ Micron released its fiscal Q4 2026 financial results on Wednesday, expectedly se
 
 ## Phoronix
 
+### Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching
+Fri, 02 Oct 2026 20:29:10 -0400 — https://www.phoronix.com/news/Wine-11.19-Released
+
+We are nearing the point of the Wine 12.0 stable release coming up in early 2027 while for now the Wine 11.xx bi-weekly development releases continue. Out today is Wine 11.19 with a few new features and plenty of fixes...
+
 ### Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo
 Fri, 02 Oct 2026 16:32:41 -0400 — https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees
 
@@ -233,12 +238,12 @@ Fri, 02 Oct 2026 05:54:20 -0400 — https://www.phoronix.com/news/BuildStream-Ba
 
 KDE Linux developers have been experimenting with a build of their Linux distribution based on BuildStream to ship as an OS image rather than a set of Arch Linux packages. They are nearing a point soon where they will decide if they will officially ship this BuildStream-based KDE Linux image...
 
-### Siemens Slams The Door Shut On Promising Open-Source Radioss Project
-Thu, 01 Oct 2026 21:00:31 -0400 — https://www.phoronix.com/news/Siemens-Ends-OpenRadioss
-
-As a major disappointment to the open-source community, Siemens has decided to end -- and close-up access -- to the OpenRadioss project as the open-source version opened up by Altair Engineering under the GNU AGPL License back in 2022. This was an open-source version of the industry-leading finite element solver that Altair developed. Siemens acquired Altair Engineering last year and have now completely shut the door on OpenRadioss...
-
 ## The Register
+
+### Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers
+Sat, 03 Oct 2026 10:02:00 +0200 — https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360
+
+“I always laugh at the IT industry’s terms,” says Ryan Sheehan, a senior vice president at $16 billion global solutions integrator SHI. And right now the jargon that gets him giggling is “forward-deployed engineer” (FDE) because, as he told The Register at VMware's September Explore conference, “We have been doing FDE for a long time.” “Doing FDE” involves sending top consultants to a client, without tying them to a project. Instead they get a mission to build something valuable using new technology, and carte blanche to make that happen in a hurry. Sheehan has company in believing FDEs aren’t fundamentally new. Cloud monitoring vendor DoIT told The Register it has used FDEs since 2011, but only started using the term in the last quarter of 2025, when it changed the name of its “Customer Reliability Engineering” practice to FDE. That decision came as services companies adopted the term FDE to describe the work needed to build AI proofs of concept. The name has its origins at Palantir, whose chief technology officer Shyam Sankar claims he coined it in 2007 after a conversation in which his CEO Alex Karp asked him why French restaurants are so good. Karp apparently answered his own question by saying, “The wait staff is actually part of the kitchen staff. They intimately understand the food, the methodology, and the technique. They are not merely carrying the food from the kitchen to the table, but are instead part of a subtle and complex system that affects kitchen operations.
 
 ### Google hearts Apple's Swift so much it's pumping out server-side support
 Fri, 02 Oct 2026 21:52:40 +0200 — https://www.theregister.com/software/2026/10/02/google-hearts-apples-swift-so-much-its-pumping-out-server-side-support/5300921
@@ -295,12 +300,17 @@ Fri, 02 Oct 2026 14:27:00 +0200 — https://www.theregister.com/software/2026/10
 
 Microsoft plans to roll out Excel Canvas through October, adding Copilot-generated reports to its veteran spreadsheet. Excel Canvas "transforms workbook data into a polished report containing visualizations, metrics, and insights," said Microsoft. The reports automatically refresh as the underlying data changes. Users need access to Copilot in Excel and can tweak reports through natural language prompts. Presumably along the lines of "Why the heck did you use that as the x-axis?" Lately, Microsoft has been relentlessly fiddling with Excel. Last week it added an opt-in feature to allow multiple values in the same cell, potentially complicating life for third-party tools that expect one value per cell. Earlier Copilot additions have met resistance or been withdrawn. Earlier this year, there were howls of outrage from users when a Copilot Dynamic Action Button was unceremoniously dropped onto their workspaces. In response, Microsoft swiftly allowed users to send it to the toolbar. Microsoft also abandoned the COPILOT() function in August this year, barely 12 months after introducing it, saying it had "decided not to move forward with this feature." The function carried a warning that its output should be checked for accuracy, particularly when used for business decisions or reports. Hardly reassuring when the spreadsheet feeds the accounts. Automatically refreshing reports could save users some work, provided Copilot selects appropriate metrics and charts. Canvas also enters a c
 
-### Teen suspected of running KillSec ransomware group as cops seize servers, arrest three
-Fri, 02 Oct 2026 13:43:35 +0200 — https://www.theregister.com/cyber-crime/2026/10/02/teen-suspected-of-running-killsec-ransomware-group-as-cops-seize-servers-arrest-three/5300784
-
-Police suspect a 16-year-old was the main operator of KillSec, a ransomware group linked to around 1,000 suspected attacks worldwide. Authorities announced on Thursday that an international operation had seized the group's infrastructure and made three provisional arrests. The German-led Operation KillSwitch replaced the crew's leak site with a police seizure notice. The available information is incredibly fragmented. Europol said the 16-year-old was "the group's suspected main operator," but did not explicitly say this person was arrested. Spanish police announced the arrest of a "minor," a Romanian national residing in Spain, but did not publicly link this arrest to the 16-year-old mentioned by Europol. The US Department of Justice (DoJ) said UK police had arrested Dutch national Fouad Eltibrizi, whom it has charged over alleged cybercrimes in the US and Puerto Rico. It is seeking his extradition. Eltibrizi is the only suspect officials have publicly named. Europol told The Register he was allegedly one of KillSec's negotiators. Authorities have not named the suspected 16-year-old operator. Romanian police (Poliția Română) said a 24-year-old helped establish KillSec in October 2023, although other authorities date the group's formation to 2024. Their statement did not specify whether that person was arrested. Officials separately confirmed to The Register that a Romanian national in his twenties was arrested in Romania on suspicion of acting as a KillSec affiliate. Europol 
-
 ## Engadget
+
+### Apple acknowledges AT&T network bug on iPhone 18 Pro Max
+Sat, 03 Oct 2026 02:10:16 +0000 — https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/
+
+Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.
+
+### Lyft agrees to pay $272.5 million to settle worker classification lawsuit
+Fri, 02 Oct 2026 22:15:53 +0000 — https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/
+
+Uber and Lyft were sued by the state of California in 2020 for misclassifying employees as contractors.
 
 ### Meta wants people to build their own Muse gadgets, too
 Fri, 02 Oct 2026 20:27:14 +0000 — https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/
@@ -352,17 +362,22 @@ Fri, 02 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2275580/affordable-
 
 If you can live without deep iOS integration and the polished design of the AirPods Max, you could save hundreds.
 
-### Don't let the adorable AI agents fool you
-Fri, 02 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2275148/dont-let-the-adorable-ai-agents-fool-you/
-
-Just because they look harmless doesn't mean you should be irresponsible with your data.
-
-### NVIDIA's smuggling problem is getting worse
-Fri, 02 Oct 2026 14:02:14 +0000 — https://www.engadget.com/2275633/nvidias-smuggling-problem-is-getting-worse/
-
-US officials have reportedly highlighted gaps in NVIDIA's due diligence over smuggling.
-
 ## TechCrunch
+
+### Meta wants your next gadget to be Muse-infused
+Sat, 03 Oct 2026 00:45:39 +0000 — https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/
+
+Meta wants Muse in your TV and your toaster, so it's giving the code away for free.
+
+### Sanders introduces bill to ban the federal government from using Flock
+Sat, 03 Oct 2026 00:21:57 +0000 — https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/
+
+The proposed legislation would extend to all automotica license plate readers.
+
+### Sean Parker is rebuilding Stability AI around music
+Fri, 02 Oct 2026 21:09:14 +0000 — https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/
+
+Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.
 
 ### Affected by layoffs? Don t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
 Fri, 02 Oct 2026 19:15:51 +0000 — https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/
@@ -408,19 +423,4 @@ Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for l
 Fri, 02 Oct 2026 14:47:46 +0000 — https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/
 
 The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.
-
-### TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer
-Fri, 02 Oct 2026 14:30:00 +0000 — https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/
-
-Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.
-
-### Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders
-Fri, 02 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/
-
-Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people worth knowing. The question is: Will they find your startup?
-
-### Less than 24 hours to apply for a Side Event at Founder Summit 2026
-Fri, 02 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/
-
-The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your own Side Event. Bring your community, start an impactful conversation that’ll push the [ ]
 
