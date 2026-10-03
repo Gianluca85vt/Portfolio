@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-03T14:54:55.321Z
+# AI — harvested 2026-10-03T19:24:38.351Z
 
 ## OpenAI
 
@@ -11,16 +11,6 @@ Learn how startups can choose GPT-6 models, tune reasoning effort, improve promp
 Fri, 02 Oct 2026 00:00:00 GMT — https://openai.com/index/chatham-financial
 
 Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.
-
-### The eternal complement
-Thu, 01 Oct 2026 17:00:00 GMT — https://openai.com/index/the-eternal-complement
-
-Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.
-
-### How Albertsons Companies is reimagining retail from the inside out
-Thu, 01 Oct 2026 16:00:00 GMT — https://openai.com/index/albertsons-reimagining-retail
-
-Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.
 
 ## Hugging Face
 

@@ -1,58 +1,83 @@
-# Film & TV — harvested 2026-10-03T14:54:55.321Z
+# Film & TV — harvested 2026-10-03T19:24:38.351Z
 
 ## Variety
 
-### Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the São Paulo Film Festival (EXCLUSIVE)
-Sat, 03 Oct 2026 13:01:33 +0000 — https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/
+### Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’
+Sat, 03 Oct 2026 19:15:41 +0000 — https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/
 
-Philanthropist Olga Rabinovich will receive the inaugural Prêmio Encontros (Encounters Award) at this year’s Encontro de Ideias Audiovisuais, the industry platform of the São Paulo International Film Festival. The award honors her enduring commitment to advancing Brazilian cinema and elevating the international profile of Brazilian film and talent through her work with Projeto Paradiso. The [ ]
+Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros. merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million budget, “Behemoth!” is representative of the mid-budget, adult-oriented drama that once sustained Hollywood’s theatrical business — and allowed filmmakers like Gilroy to make a name for themselves in the industry. [ ]
 
-### Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?
-Sat, 03 Oct 2026 13:00:00 +0000 — https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/
+### Pierre Le Gall s Passionate Love Story Flesh and Fuel Named Best Film at Zurich Film Festival
+Sat, 03 Oct 2026 19:00:00 +0000 — https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/
 
-David Ellison has emerged victorious. And he’s boldly — or arrogantly, if you prefer — decided to name the entertainment giant that he’s bolted together Skydance Corp., nodding to the original name of his film production firm that has swallowed up two Hollywood studios over the past 14 months. Defying skeptics and beating back opponents, [ ]
+French director Pierre Le Gall s passionate love story Flesh and Fuel, which world premiered in Cannes’ Critics Week, won the top prize, the Golden Eye, at the 22nd Zurich Film Festival on Saturday. The Golden Eye for best documentary went to Pete Muller s Bucks Harbor, which premiered at the Berlin Film Festival in the Panorama [ ]
 
-### April X Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone
-Sat, 03 Oct 2026 08:17:50 +0000 — https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/
+### Verity Cast Reveals Their Go-To Book Recommendations on Heels of Novel s Big-Screen Adaptation (Exclusive)
+Sat, 03 Oct 2026 18:39:14 +0000 — https://variety.com/2026/shopping/news/best-books-like-verity-movie-cast-recommendations-picks-1236897066/
 
-It would be nice to say that Connor Storrie burns up the screen in April X, the star s first film vehicle released since TV s Heated Rivalry made him hot property, but it would be overstating the case. Appropriating Harrison Ford s Blade Runner frown, among a few other things nicked from that sci-fi classic in this [ ]
+Verity is in theaters now, and based on projections, it could be the latest book-to-screen adaptation from author Colleen Hoover to top the box office charts. Now, the real-life cast of the romantic thriller are revealing what other books they enjoy, in an exclusive clip shared with Variety from Amazon News. Josh Hartnett, Anne Hathaway [ ]
 
-### New York s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)
-Sat, 03 Oct 2026 03:00:56 +0000 — https://variety.com/2026/film/festivals/new-yorks-muslim-film-festival-counter-narratives-1236898067/
+### Jerry Golod, Producer of ‘Tales From the Darkside’ and Former CBS And NBC Executive, Dies at 87
+Sat, 03 Oct 2026 18:02:19 +0000 — https://variety.com/2026/tv/obituaries-people-news/jerry-golod-dead-tales-from-the-darkside-1236898234/
 
-A festival launching Oct. 11 at Manhattan s SVA Theatre is positioning itself as an answer to the flattened, stereotyped picture of Muslims Western media often traffics in. The New York Muslim Film Festival (NYMFF), billed as the city s first for Muslim filmmakers, wants them telling their own stories. Hassan Babar, the festival s artistic director, said [ ]
+Jerry Golod, the producer of “Tales From the Darkside,” died following a brief battle with cancer at his home in Rancho Mirage, Calif., on Wednesday. He was 87. Throughout his career, Golod served as an executive at CBS and NBC, later launching JayGee Productions in the early 1980s. After seeing the success of Stephen King’s [ ]
 
-### Behemoth! Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy s Elevated Bauble of a Music Drama
-Sat, 03 Oct 2026 00:00:04 +0000 — https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/
+### Coven Academy Creator Breaks Down Briar s Family Tree, Dark Magic as an Addiction Metaphor, Misogyny Against Witches — and a Deleted Kiss Scene
+Sat, 03 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/coven-academy-creator-graves-briar-mom-dark-magic-season-2-1236894779/
 
-"Behemoth!" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery. It’s Tony Gilroy fiddling around with pure movie form.
+SPOILER ALERT: This story contains spoilers for Coven Academy, now streaming on Disney+. Coven Academy was supposed to be the first true young adult drama in the history of Disney Channel. The series, set at a New Orleans boarding school for witches and warlocks, is bloodier and darker than the network ever got with other [ ]
 
-### George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger
-Fri, 02 Oct 2026 23:40:19 +0000 — https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/
+### Asghar Farhadi Says Films Like ‘Argo’ Perpetuate American White Savior Myth: ‘Who Asked You to Come and Save Us?’
+Sat, 03 Oct 2026 17:50:28 +0000 — https://variety.com/2026/film/global/asghar-farhadi-argo-american-white-savior-myth-1236898176/
 
-Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded oversight at the newly merged Paramount-Warner Bros. entity (which will be named “Skydance,” the company revealed Friday). Skydance would not comment, but Cheeks has been seen [ ]
+RIO DE JANEIRO, Brazil – Twice Oscar-winning filmmaker Asghar Farhadi, who is at the Rio Film Festival to present “Parallel Tales,” spoke about the perceived hegemony of American cinema and how Hollywood shouldn’t be seen as a source for faithful portrayals of foreign cultures. Asked about “Argo” winning Best Picture just a year after “A [ ]
 
-### Digger : How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)
-Fri, 02 Oct 2026 23:15:00 +0000 — https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/
+### Behemoth! : Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)
+Sat, 03 Oct 2026 17:41:00 +0000 — https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/
 
-SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the kiss of death for a feature is boredom; that feeling you’ve seen the same story many times before, the actors are checked out, there’s no visual panache. That’s [ ]
+SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a cellist who returns [ ]
 
-### John Leguizamo Has a Message for David Ellison: Think of What Americans Need and What the Industry Needs
-Fri, 02 Oct 2026 22:37:41 +0000 — https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/
+### Aaron Sorkin Says It ‘Never Occurred’ to Him That Jesse Eisenberg Wouldn’t Play Mark Zuckerberg in ‘The Social Reckoning,’ Claims the Paycheck Was a ‘Disincentive’
+Sat, 03 Oct 2026 17:35:18 +0000 — https://variety.com/2026/film/news/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-1236898205/
 
-John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he s imploring David Ellison to consider what the industry needs as he takes over the new Skydance. Come on, Dave. Do the right thing. Don t just think of yourself and your pocket. Think of what Americans need and what the industry needs. [ ]
+Before Jesse Eisenberg declined to step back into the world of Facebook as Mark Zuckerberg for Aaron Sorkin’s “The Social Reckoning,” the director admitted “it never occurred” to him that the actor wouldn’t be on board with his 2026 follow-up to 2010’s “The Social Network,” in which Eisenberg portrayed the young tech billionaire. Speaking with [ ]
 
-### Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for Barbie 2
-Fri, 02 Oct 2026 22:17:51 +0000 — https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/
+### UFC 332 Livestream: Here s How to Watch Natalia Silva vs. Wang Cong Online for Free
+Sat, 03 Oct 2026 17:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-332-silva-vs-wang-mma-live-oct-2026-online-free-1236895026/
 
-It s 102 degrees in Los Angeles, but it s certainly not a summer Friday on the Paramount lot. The studio is swarming with activity, subplots and preparations for the closing of Skydance s acquisition of Warner Bros. Discovery next week. The industry is obsessively speculating on who survives the merger to be named to David Ellison s executive [ ]
+After Joshua Van defended his flyweight title against Alexandre Pantoja in an unanimous decision during UFC 331 in September, the Ultimate Fighting Championship travels from Los Angeles to Salt Lake City for UFC 332. For the main event, Brazilian Natalia Silva (20-5-1) takes on Chinese fighter Wang Cong (30-6-0) for the vacant women s flyweight title [ ]
 
-### 17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More
-Fri, 02 Oct 2026 21:26:00 +0000 — https://variety.com/lists/best-movies-streaming-october-2026/
+### Zach Bryan Wears Free Palestine Shirt While Headlining Robert Kraft s Gillette Stadium; Drummer Honors Slain Palestinian Girl
+Sat, 03 Oct 2026 16:07:04 +0000 — https://variety.com/2026/music/news/zach-bryan-palestine-shirt-robert-kraft-gillette-stadium-1236898152/
 
-October is Halloween movie season, so it s the perfect time for two of the year s high-profile horror releases to debut on streaming platforms. Evil Dead Burn, the extremely grotesque ninth installment in the long-running franchise, premieres on HBO Max this month and should prove to be a big home viewing hit. For the indie horror [ ]
+Macklemore may have been barred from saying Free Palestine! at Robert Kraft s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably inevitable that, [ ]
 
 ## The Hollywood Reporter
+
+### Tom Cruise Stands Up for Digger Amid Tough Box Office: I m So Proud of What We Created
+Sat, 03 Oct 2026 19:24:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/
+
+Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.
+
+### Tom Cruise s Digger Plunging at Box Office With Less Than $10M as Verity Leads
+Sat, 03 Oct 2026 16:02:54 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548/
+
+Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.
+
+### Jerry Golod, ‘Tales From the Darkside’ Producer, Dies at 87
+Sat, 03 Oct 2026 15:58:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jerry-golod-dead-tales-from-the-darkside-producer-1236721586/
+
+The onetime CBS and NBC executive also worked on ‘Adderly,’ ‘Return to Green Acres’ and a new version of ‘Land of the Lost.’
+
+### Ohio State vs. Iowa: Where to Watch the 2026 College Football Game Online
+Sat, 03 Oct 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-ohio-state-buckeyes-vs-iowa-hawkeyes-game-free-2026-1236721110/
+
+Here's how to livestream the Big Ten matchup between the Buckeyes and Hawkeyes on Saturday, Oct. 3.
+
+### Zach Bryan Wears Free Palestine Shirt During Concert at Robert Kraft s Gillette Stadium
+Sat, 03 Oct 2026 15:01:25 +0000 — https://www.hollywoodreporter.com/music/music-news/zach-bryan-free-palestine-shirt-concert-gillette-stadium-1236721554/
+
+The performance follows Gillette Stadium owner Kraft's prior controversy with Macklemore over his removal from Ed Sheeran's tour due to his pro-Palestinian statements.
 
 ### Denver Film Festival Unveils Lineup and Honorees
 Sat, 03 Oct 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487/
@@ -79,32 +104,37 @@ Sat, 03 Oct 2026 01:02:14 +0000 — https://www.hollywoodreporter.com/business/b
 
 The CBS networks chief is poised to expand his oversight with the Warner Bros. Discovery assets arriving onboard the Skydance train.
 
-### ‘Behemoth!’ Review: Pedro Pascal Hints at Soulful Depths, but the Drama Keeps Stalling in Tony Gilroy’s Wan Character Study of a Virtuoso Cellist
-Sat, 03 Oct 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/behemoth-review-pedro-pascal-olivia-wilde-tony-gilroy-1236721313/
-
-Olivia Wilde, Eva Victor, Will Arnett and Alexa Swinton also star in the story of a former child prodigy struggling to free himself from the burden of his famous family.
-
-### Ouster Rumors and a Tense Phone Call: Mike De Luca and Pam Abdy s Final Weeks at Warners
-Fri, 02 Oct 2026 22:40:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mike-de-luca-pam-abdy-final-weeks-at-warners-1236721241/
-
-The exiting Warner Bros. chiefs are in search of a next act (Netflix?) as insiders debate their legacy.
-
-### Rick Devens on How ‘Survivor’ Prepped Him to Win ‘Big Brother,’ Canceling on James Gunn’s ‘Superman 2’ Cameo and If He’d do ‘Traitors’: I m Open
-Fri, 02 Oct 2026 22:31:48 +0000 — https://www.hollywoodreporter.com/tv/tv-features/devens-big-brother-winner-survivor-james-gunn-traitors-1236721238/
-
-After becoming the first ‘Survivor’ player to win ‘Big Brother’ on Thursday night, Devens chats with THR about evicting Drew Campbell before the final two, houseguests claiming the icons had “privileges and advantages” this season and why he thought he’d see more reality TV game players on season 28.
-
-### Sean Diddy Combs Reportedly Ran Fort Dix Prison Cell Like a Luxury Suite With Paid Staff
-Fri, 02 Oct 2026 22:22:07 +0000 — https://www.hollywoodreporter.com/music/music-news/sean-diddy-combs-fort-dix-prison-luxury-suite-paid-staff-1236721315/
-
-Inmates were allegedly paid to clean his cell and give him massages, per NBC News, as Combs' release date keeps shifting.
-
-### Tinashe Wants to Challenge the Pop Star Label
-Fri, 02 Oct 2026 22:15:39 +0000 — https://www.hollywoodreporter.com/music/music-features/tinashe-popstar-social-media-music-industry-interview-1236717999/
-
-As one of pop's most consistent and boundary-pushing artists, the 33-year-old has landed at a new chapter in her career with 'Popstar': "I feel very self-assured and confident."
-
 ## Deadline
+
+### X-Men s Christopher Abbott Admits He Hasn t Read Anything Yet But Can t Wait To Play Professor X
+Sat, 03 Oct 2026 19:18:56 +0000 — https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033/
+
+Although Charles Xavier has the power to read minds, Christopher Abbott is being kept in the dark about his next big role. The actor, who was cast as Professor X in Marvel Studios X-Men movie, recently noted he s very much excited to get to work on the Jake Schreier-helmed superhero movie, despite still having not [ ]
+
+### Brilliance Of The Who’s Leader Shines In ‘Pete Townshend: Behind Blue Eyes,’ Screening At Hamptons Mill Valley
+Sat, 03 Oct 2026 18:13:33 +0000 — https://deadline.com/2026/10/pete-townshend-behind-blue-eyes-interview-frank-marshall-nigel-sinclair-cassidy-hartmann-1237146014/
+
+The British invasion of the mid-1960s was a multi-pronged attack, an assault led above all by The Beatles, The Rolling Stones, and The Who. Their seismic impact on American and world culture has been well documented. But of the leaders of those three mega-bands, perhaps the most mysterious remains Pete Townshend, The Who’s songwriter and [ ]
+
+### Barbershop Teaser: Jermaine Fowler Struggles To Win Over Calvin s New Barbers In Prime Series — Watch
+Sat, 03 Oct 2026 17:56:44 +0000 — https://deadline.com/2026/10/barbershop-teaser-jermaine-fowler-prime-video-series-1237146012/
+
+Calvin s is taking walk-ins once again as Barbershop returns to screens with a new eight-episode show. On Saturday at CultureCon, Prime Video shared the first teaser for the series adaptation of the comedy-drama film franchise that launched in 2002, revealing the barbershop s new owner in the show, all episodes of which premiere Feb. 10, 2027 [ ]
+
+### Jerry Golod Dies: Tales from the Darkside EP Was 87
+Sat, 03 Oct 2026 17:13:19 +0000 — https://deadline.com/2026/10/jerry-golod-dies-1237145992/
+
+Jerry Golod, an executive producer behind Tales from the Darkside and Return to Green Acres, has died. He was 87. The producer s daughter Dori Golod Howell announced that he died on Wednesday at his Rancho Mirage home, following a brief battle with cancer, according to The Hollywood Reporter. Born Dec. 26, 1938 in the Bronx, [ ]
+
+### Guillermo Del Toro Buries Digger In Praise, Slams Petty Review: Decidedly A Theatrical Experience
+Sat, 03 Oct 2026 16:04:12 +0000 — https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972/
+
+Although Digger has premiered this weekend to mixed reviews, Guillermo Del Toro is a confirmed fan of the Alejandro G. Iñárritu satire. The 3x Oscar winner has taken to social media to heap praise on Tom Cruise s latest after responding to a critic that called the film far from a must-watch and recommended viewers wait [ ]
+
+### Verity Solid $33M+ Start; Digger At $8M Is Tom Cruise s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores Box Office Update
+Sat, 03 Oct 2026 15:16:00 +0000 — https://deadline.com/2026/10/box-office-verity-digger-1237145435/
+
+SATURDAY AM: Warner Bros very original, very expensive auteur feature, Digger, is filing an $8M opening, which is still the lowest for Tom Cruise since 2007 s much cheaper Lions for Lambs at $6.7M. In hindsight, Amazon MGM Studios was bold to date on top of a big budget Cruise movie with the big screen take [ ]
 
 ### DOJ Argues CNN Other Outlets Can Be Banned From White House If Trump Determines They Didn t Meet Minimum Requirements Of Professionalism
 Sat, 03 Oct 2026 04:36:35 +0000 — https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-3-1237145951/
@@ -135,36 +165,6 @@ More indication that the newly-christened combined Paramount-Warner Bros. Discov
 Sat, 03 Oct 2026 00:00:00 +0000 — https://deadline.com/2026/10/behemoth-review-pedro-pascal-tony-gilroy-olivia-wilde-nyff-1237144011/
 
 It has been 14 years since Tony Gilroy last directed a feature film, 2012 s The Bourne Legacy. Before that was Duplicity and in 2007 his sensational Oscar-nominated Michael Clayton. He has been busy though, notably the critically acclaimed TV series Andor, but it is good to see his rare sophisticated storytelling back on the big [ ]
-
-### Michael De Luca Pamela Abdy: When They Are Leaving Warner Bros What s Next For Them
-Fri, 02 Oct 2026 23:39:01 +0000 — https://deadline.com/2026/10/warner-bros-michael-de-luca-pam-abdy-whats-next-1237145671/
-
-Warner Bros Motion Picture Chiefs Michael De Luca and Pamela Abdy s last day will be Tuesday, which essentially is Day 1 of Skydance, the merged Paramount-Warner Bros company. The move ends months of speculation as to whether the duo would make the post-merger jump, given the down box office year they had with $448.4M domestic [ ]
-
-### Venice Prize-Winner NAZA Brings Explosive Gaza Exposé to U.S. Theaters – Specialty Preview
-Fri, 02 Oct 2026 23:15:00 +0000 — https://deadline.com/2026/10/indie-films-opening-naza-venice-prize-winning-documentary-1237145719/
-
-NAZA, written and directed by Yuval Abraham and Rachel Szor, has started its U.S. run, playing at the IFC Center in New York since Wednesday. That followed fast on a New York Film Festival screening last weekend and a Special Jury Prize at its Venice world premiere last month with a record 25-minute standing ovation [ ]
-
-### Selma Blair Announces Hineni Doc About Antisemitism After She Was Erased Over Islamophobic Comments
-Fri, 02 Oct 2026 23:11:52 +0000 — https://deadline.com/2026/10/selma-blair-announces-hineni-doc-antisemitism-1237145841/
-
-More than two years later, Selma Blair is taking the fallout over her Islamophobic comments and channeling it into a documentary about antisemitism. On Thursday, the actress announced at the ADL State of the Arts Reception in New York City that she s making a documentary entitled Hineni (Here I Am) to say what she couldn t [ ]
-
-### Mary Louise Weller Dies: Animal House s Mandy Pepperidge Was 79
-Fri, 02 Oct 2026 22:50:00 +0000 — https://deadline.com/2026/10/mary-louise-weller-dead-animal-house-mandy-1237145764/
-
-Mary Louise Weller, who played sorority girl Mandy Pepperidge in the 1978 comedy classic Animal House and had two dozen other film and TV credits, died October 1 after a brief illness one day before her 80th birthday. Weller had played bit roles in a pair of movies and guested on TV dramas Kojak [ ]
-
-### Montana Locals Protest Daily Wire s Pro-ICE Production As Filming Disrupts Businesses With Apparent Dramatization Of Renée Good Shooting
-Fri, 02 Oct 2026 22:12:22 +0000 — https://deadline.com/2026/10/montana-protest-daily-wire-pro-ice-production-renee-good-1237145614/
-
-Daily Wire s new pro-ICE movie production has attracted local protesters in Livingston, Montana. Filming under the working title Pawn Shop, the latest project from Ben Shapiro s Daily Wire and Dallas Sonnier s Bonfire Legend has upset locals — not just because of its alleged use of blank gunshots, pyrotechnics and a staged car wreck without properly [ ]
-
-### Skydance Putting All 3 TV Studios Under George Cheeks: Warner Bros. TV, CBS Studios, PTVS The Dish
-Fri, 02 Oct 2026 22:05:12 +0000 — https://deadline.com/2026/10/skydance-tv-studios-george-cheeks-wbtv-cbs-studios-ptvs-1237145674/
-
-More elements of the proposed post-WBD merger Skydance s executive structure are coming into focus ahead of the Paramount-Warner Bros Discovery transaction closing on Tuesday. As Josh Greenstein and Dana Goldberg are poised to oversee Skydance s movie studios, Warner Bros and Paramount, another senior executive on Paramount CEO David Ellison s team, Chair of TV Media George [ ]
 
 ## befores & afters
 
@@ -237,6 +237,21 @@ Get ready for corporate babble as Skydance releases an exciting new sizzle reel 
 
 ## The Wrap
 
+### Scoob! Holiday Haunt Director Spikes Pamela Abdy and Mike De Luca After Warner Bros. Shelved Film: Hurts, Doesn t It?
+Sat, 03 Oct 2026 19:08:04 +0000 — https://www.thewrap.com/creative-content/movies/scoob-director-roasts-mike-de-luca-pamela-abdy/
+
+The firing of Warner Bros. film chiefs Mike De Luca and Pamela Abdy in the wake of the studio s acquisition by Paramount-Skydance has been the focus of much reporting this week. TheWrap learned that both executives finally received calls from Paramount-Skydance CEO David Ellison on Friday, informing each of them that they would not be brought aboard the combined companies. The duo had already learned that they would be dismissed from a Puck report earlier in the week. One filmmaker that doesn t seem to be mourning Abdy and De Luca s exit is Michael Kurinsky. The director was behind Scoob! Holiday Haunt, a sequel to the 2020 Scooby-Doo animated feature Scoob!, which was shelved by Warner Bros. Discovery in 2022 after completing production. The decision to never release the feature allowed the studio to take a tax write-down, recouping a portion of its production costs. On Friday, Kurinsky made a post on Instagram, sharing a Hollywood Reporter article on a tense phone call that De Luca and Abdy had in the lead-up to their ultimate exit from the studio. TENSE PHONE CALL, PAM? You mean like the one I got when you told me SCOOB Holiday Haunt was canceled? Kurisnky wrote. Hurts, doesn t it? Kurinsky has publicly aired his frustrations with the studio s decision to cancel Holiday Haunt before. In a 2022 interview, the animation veteran told Variety s Carson Burton that in our phone calls that we had with people, they explained we are taking this tax write-off, we can’t monetize it. 
+
+### Jon Stewart Crashes Jimmy Kimmel Live! as NYC Sewer Scavenger: Giuliani Is Still Mayor Down There
+Sat, 03 Oct 2026 17:44:09 +0000 — https://www.thewrap.com/media-platforms/tv/jon-stewart-crashes-jimmy-kimmel-live/
+
+Jon Stewart took over Jimmy Kimmel Live! Friday, emerging from an onstage manhole to cameo during the late-night host s monologue riff. Wearing a headlamp and face-covering, Stewart s appearance riffed on a news story about urban scavengers that are exploring the underground sewers of New York City. It s awesome down there. It s quiet. There s no Citi Bikes. As the people of Brooklyn know, the rents are slightly cheaper down there, Stewart told Kimmel. The only downside is, down in the sewers, (Rudy) Giuliani is still mayor. Kimmel, who brought his late-night show to Brooklyn for the week, had been discussing local outlets coverage of a pattern of masked suspects with headlamps and crowbars being caught by surveillance cameras exiting manholes across the boroughs. I was going to go back down there. I ve got Mets tickets for tonight, Stewart continued, before drawing a groan from the audience of locals. They ve been playing in the sewer all year. Stewart recently returned for his third season as a rotating host on The Daily Show, after returning to the program in 2024. The series returned to Comedy Central in early September, following its regular summer hiatus. Stewart s current contract with the network has him tenured with the show until the end of the year. Kimmel s guests on Friday s episode of Jimmy Kimmel Live! included Paul McCartney, Sen. Bernie Sanders (I-Vt.) and a musical performance by Goose. Other guests during his week broadcasting across the country included Ne
+
+### Verity Leads Box Office With $33 Million Opening While Digger Sinks to $7.5 Million
+Sat, 03 Oct 2026 15:22:56 +0000 — https://www.thewrap.com/industry-news/business/verity-digger-box-office-saturday/
+
+Amazon MGM s Verity is leading the box office on a weekend that is up 17% from last year thanks to a mix of September holdovers and approximately $40 million combined from two tepidly received newcomers. Verity accounts for the vast majority of that as it earned $15 million from 3,510 locations on opening day and is headed for a $33 million opening weekend while Warner Bros./Legendary s Digger, the final film before Paramount acquires the 103-year-old studio, is falling to a $7.5 million opening after grossing just $3.4 million from 3,321 locations, including Imax support. Starring Anne Hathaway and Dakota Johnson and produced on a reported $40 million budget, Verity will turn a modest theatrical profit for Amazon MGM and should likely get plenty of streaming attention on Prime Video. But it is also likely to be a frontloaded title that won t provide as much market support through October as hoped as it has earned a C+ on CinemaScore and Rotten Tomatoes scores of 34% critics and 69% audience . For a good number of fans of Colleen Hoover s book who made up the early CinemaScore audience, Verity doesn t seem to have the creepy, steamy thrills of its source material. For Digger, the box office outlook is even worse given that the film has a budget of at least $125 million, with some reports putting it at $160 million or higher. A film that has Oscar hopes for lead star Tom Cruise, known over the past decade and a half for his box office performance, will instead become his lowes
+
 ### David Ellison Finally Calls Mike De Luca and Pam Abdy to Inform Them of Exit They Read About in the Press Exclusive
 Sat, 03 Oct 2026 05:13:14 +0000 — https://www.thewrap.com/industry-news/business/david-ellison-finally-calls-mike-deluca-and-pam-abdy/
 
@@ -272,70 +287,55 @@ Sat, 03 Oct 2026 00:13:04 +0000 — https://www.thewrap.com/creative-content/mov
 
 Tyra Banks confessed she does not look back fondly on her time filming Halloween: Resurrection, sharing she still has beef with the project nearly 25 years later. The supermodel starred in the 2002 slasher film opposite franchise legend Jamie Lee Curtis , Busta Rhymes, Sean Patrick Thomas and Bianca Kajlich. In the movie, which was the eighth installment in the franchise, Michael Myers goes on a murderous rampage as his Haddonfield home is the setting for a livestream show. And, as Banks told it to Entertainment Weekly , the America s Next Top Model star was slated to have a notable death scene that was supposed take her career to the next level. Per Banks, she was wary from the jump about participating in the movie, but that an agent pushed for her to do it. “I was like, ‘I’m not going to do that. What is it going to do for my career? I’m a model, and I need to do things that are kind of different to get this acting career that I want,' she said. [My agent] was like, ‘No, Josh Hartnett did Halloween, and look what he’s doing now!’” “So I was like, yeah, okay, this is going to do it for me,” Banks recalled. However, she ended up being disappointed by the outcome after her character Nora got limited screentime and an underwhelming death. “Not only did it not do anything for me, they cut the damn death scene, she said. [I was] promised the career of Josh Hartnett, of an actor, and promised an iconic death scene that will last forever, and neither of them happened.” Banks then q
 
-### Behemoth! Review: Director Tony Gilroy Forces Us to Face the Music In His Strikingly Original Love Letter to Movie Scores
-Sat, 03 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/creative-content/movies/behemoth-review-new-york-film-festival/
-
-A love letter not just to film music, but to the complicated and passionate musicians who bring it to life, Tony Gilroy’s film Behemoth! is difficult to overstate in its unique structure and sonic register. It serves as the film s narrative spine, the foundation from which the drama unfolds, rather than an enhancement or embellishment. Working with nine different composers – credited as the Behemoth! Collective – Gilroy has crafted a film where image and sound are so inextricably linked that to try and watch without one of them would be nothing less than an act of violence. This is not quite a project that you just “watch” and “hear,” but experience in unblemished totality. Even when, narratively, it may spend too much time in minor keys, the craft around it is undeniably transformative and ambitious. The delight of experiencing “Behemoth!” is seeing how Gilroy transitions from scene to scene; mise-en-scène acts as springboards to various different eras in time while Damián García’s camera can be remarkably patient for scenes that one might expect to vibrate with spasmodic motion. Gilroy teases out the film’s serpentine movements when we first meet Alex (Pedro Pascal), a celebrated cellist who has moved from Chicago to LA to be a part of the score for a franchise film going under the working title “Behemoth!” Alex barely has time to string his bow before he’s being greeted by various band members who wonder where he has been and how he’s back. This social barrage of competing
-
-### Daily Wire s Pro-ICE Renée Good Movie Set Draws Protesters
-Fri, 02 Oct 2026 23:55:37 +0000 — https://www.thewrap.com/creative-content/movies/daily-wire-pro-ice-renee-good-protests/
-
-Ben Shapiro’s Daily Wire and Dallas Sonnier’s Bonfire Legend are at it again, this time with a dramatization of the January killing of Renée Good by an ICE officer in Minnesota. Residents of Livingston, Mont., where the movie is currently filming under the working title “Pawn Shop,” aren’t having it. Several protesters gathered around the outdoor filming of a scene depicting Good’s shooting. The movie has been described by local residents as a “pro-ICE” take on the events. In video obtained by Deadline Friday, protesters can be seen at the filming site, chanting Ben Shapiro is a cuck as the fatal Jan. 7 shooting is recreated. Daily Wire's new pro-ICE movie production has attracted local protesters in Livingston, Montana. Filming under the working title 'Pawn Shop', the latest project from Ben Shapiro's Daily Wire and Dallas Sonnier's Bonfire Legend has upset locals — not just because of its alleged… pic.twitter.com/LBCQh4rEkh &mdash; Deadline (@DEADLINE) October 2, 2026 Livingston resident Brooklyn Wilde posted a video online discussing the filming, detailing the ways in which it has frightened community members — including by claiming homeowners were not notified that the simulated shooting would be taking place on their street. Wilde also shared an image quoting one of the film s financiers, who allegedly said, Oh you must be liberal we re telling our side of the story. I think they thought that they could get away with this in the town that we re in, but thankfully, we hav
-
-### The Swan: Behind the Mirror Director Explains How She Found a Beautiful Story Inside a Traumatizing Show
-Fri, 02 Oct 2026 23:29:01 +0000 — https://www.thewrap.com/creative-content/movies/the-swan-behind-the-mirror-erin-lee-carr-director-interview-hulu/
-
-Considering its subject matter, The Swan: Behind the Mirror seems like a documentary that would be tailor-made for Erin Lee Carr, the director behind such shocking films like Mommy Dead and Dearest and Britney vs Spears. But Hulu s deep dive into the controversial Fox reality show was actually in development before Carr was ever attached. Truly, [ The Swan ] traumatized all of us, Carr told TheWrap. Though The Swan only ran for two seasons, it left an ugly mark on television. The series first premiered on Fox in 2004 at the height of the body modification-obsessed era of reality TV, a period of time that was home to shows like America s Next Top Model and The Biggest Loser. Even compared to those series, The Swan was extreme. Each season took 16 self-proclaimed ugly ducklings and promised to transform them into beautiful swans, putting them on plans that included extensive plastic surgery, dental work, fat loss surgery and a grueling workout plan. Over the course of three months — a shockingly short amount of time considering the physical pressures put on these contestants — these women transformed themselves, living in a controlled environment without mirrors and relying on the show s therapist; its life coach, executive producer Nely Galán; and each other. These still-recovering women were then pitted against each other in a beauty pageant. Even in the early 2000s, the show was heavily criticized for promoting negative body images for women and for the shocking measures its
-
 ## Collider
 
-### Forget ‘Knives Out’, Netflix’s 4-Part Murder Mystery Is Officially a Global Streaming Smash
-Sat, 03 Oct 2026 14:45:12 GMT — https://collider.com/the-final-problem-netflix-global-streaming-hit-october-2026/
+### Kirsten Dunst’s Twisted Clint Eastwood Remake Is Officially Free to Stream
+Sat, 03 Oct 2026 19:00:12 GMT — https://collider.com/kirsten-dunst-nicole-kidman-the-beguiled-streaming-youtube-october-2026/
 
-The return to prominence of old-fashioned murder mysteries can be traced back to the box-office success of the Murder on the Orient Express reboot in 2017. Directed by Kenneth Branagh , the star-studded movie grossed $350 million worldwide and spawned two sequels. Two years after the release of Branagh's Agatha Christie adaptation, Rian Johnson delivered his original murder mystery movie, Knives Out , which was heavily inspired by the Queen of Crime. Knives Out grossed more than $300 million worldwide as well, spawning two star-studded and critically acclaimed sequels that were released on Netflix. This new wave of murder mysteries has been even more successful on the small screen, with shows such as Only Murders in the Building and A Murder at the End of the World attracting diverse crowds. Now, a new four-part mystery has found global success on Netflix.
+Nicole Kidman has been on a rampage in these last few years, appearing in around half a dozen popular shows such as Lioness , Nine Perfect Strangers , and Margo’s Got Money Problems . Kirsten Dunst , who admitted that she would also like to experience being part of a hit film, appears to be following in her footsteps on the movie side of things with roles in anticipated sequels The Housemaid’s Secret and Another Minecraft Movie . Around a decade ago, they appeared together in an acclaimed film that was perhaps ahead of its time. With all the makings of a current-day A24 sleeper hit, the movie in question is currently streaming for a new audience to discover.
 
-### Dominic Cooper's New Romance Film Is the Polar Opposite of 'Mamma Mia' in This Sneak Peek [Exclusive]
-Sat, 03 Oct 2026 14:30:12 GMT — https://collider.com/the-lightkeeper-sneak-peek-dominic-cooper-sarah-bolger/
+### The 10 Best Family Drama Movies of All Time, Ranked
+Sat, 03 Oct 2026 18:53:11 GMT — https://collider.com/best-family-drama-movies-all-time-ranked/
 
-The life of a lighthouse keeper was truly a lonely and grueling one . While few such beacons nowadays are run by a human crew, those who once manned the light for the safety of others did so at the cost of regular human companionship, often living in or near their place of work, sometimes without their families if they had one. Such is true for Seamus Óg MacGrianna, a keeper on the Irish coast in 1924, played by Mamma Mia! star Dominic Cooper in the new romantic drama The Lightkeeper . Seamus has been working in the lighthouse for years and has established a routine that keeps him tethered tightly to the past, but that's about to change with three very different people resolving to make him confront everything he's left behind.
+There’s a lot of drama within quite a few families, it’s safe to say, both when it comes to real life and in fiction. And if a drama movie has quite a bit of that drama explored concerning a family unit, or at least several members of a family, then it’s being counted as a family drama for present purposes. What you won’t necessarily find below are family-friendly movies (sometimes called family movies and all) that happen to have some dramatic elements in them.
 
-### These 10 Action Movies Are Officially the Best of All Time
-Sat, 03 Oct 2026 14:05:12 GMT — https://collider.com/best-action-movies-of-all-time/
+### After 14 Seasons, It's Officially the End of an Era for 'Chicago Fire'
+Sat, 03 Oct 2026 18:38:13 GMT — https://collider.com/chicago-fire-season-15-showrunner-change-andrea-newman/
 
-Action movies are awesome. There's no need for any ostentatious language to state the obvious. Action movies aren't often made to be profound or to earn critical points. They're made to excite and entertain, and they do it better than just about any other genre. Through impressive stuntwork, explosive effects, stellar cinematography and tight editing , action movies leave everything else in the dust. All well-made action movies are technical achievements, but the best of all time are even more than that.
+The One Chicago franchise is no stranger to departures, and heading into its 15th season, Chicago Fire is faced with a handful of them . Dermot Mulroney is out as Chief Dom Pascal after two seasons ; Joe Mińoso , who has been with the show since its first season, will wrap up his arc as Joe Cruz over the first few episodes; and, depending on how the Season 14 finale plays out, possibly David Eigenberg 's Christopher Herrmann , who also has been around since Season 1. While those changes will make for a markedly different Firehouse 51 on-screen, it's the one off-screen exit that potentially alters the series going forward in a more impactful way : long-time showrunner Andrea Newman .
 
-### ‘Mindhunter’ Fans Have a New Russell Crowe Psychological Thriller Taking Over Netflix
-Sat, 03 Oct 2026 14:00:12 GMT — https://collider.com/unabomber-russell-crowe-netflix-streaming-hit-october-2026/
+### 5 Perfect Sci-Fi Books That Became Even Better Movies
+Sat, 03 Oct 2026 18:37:11 GMT — https://collider.com/perfect-sci-fi-books-became-even-better-movies/
 
-While everyone from David Fincher to Netflix co-CEO Ted Sarandos has expressed disappointment about Mindhunter 's abrupt end, there's no shortage of alternatives out there for fans of the cult classic series. Only a few weeks ago, Hulu debuted the critically acclaimed series Furious , which holds a near-perfect 98% score on the aggregator website Rotten Tomatoes. Netflix itself has created a successful anthology series inspired by infamous serial killers — Ryan Murphy 's Monster — although it has hardly been as well-received as Mindhunter . More recently, the streamer debuted perhaps its biggest consolation prize for Mindhunter fans: a psychological thriller film that has emerged as a major hit despite poor reviews.
+Films based on books have been made since pretty much the birth of cinema as a storytelling medium, and "the book was better than the movie" has been the age-old adage that has been most often heard said about such films. On a few precious occasions, however, there have been movies which have arguably been substantially superior to the books that inspired them; and on a few precious occasions, that phenomenon has taken place with science fiction . The things that make a sci-fi book work and the things that make a sci-fi movie work are considerably different. Sci-fi books thrive on interiority and deep lore, can often get away with longer exposition dumps and slower-burning pacing, and can have a pretty much infinite scale and scope. Sci-fi movies, on the other hand, are more constrained by the limits of cinema, such as the "show, don't tell" rule, a limited runtime, and the limits of whatever their budget may be.
 
-### 7 Best DreamWorks Movies of the 2020s, Ranked
-Sat, 03 Oct 2026 13:24:12 GMT — https://collider.com/best-dreamworks-movies-2020s-ranked/
+### Marvel’s Best Disney+ Show Officially Surges on Streaming Before ‘Avengers: Doomsday’
+Sat, 03 Oct 2026 18:30:12 GMT — https://collider.com/marvel-loki-disney-plus-streaming-success-october-2026/
 
-When it comes to family-friendly features, the biggest rival to the House of Mouse might be DreamWorks . Founded by filmmaker Steven Spielberg , former Disney executive Jeffrey Katzenberg , and music mogul David Geffen in 1994, DreamWorks has brought both live-action and animated classics to the cinema . After early success with films like Gladiator and American Beauty , its animated division became the real game changer.
+Marvel fans have had a lot to be excited about this year, and one of the franchise’s best TV shows is trending upwards on streaming before the premiere of Avengers: Doomsday . Audiences have been taken aback by the colossal box office success of Spider-Man: Brand New Day , which is now one of the highest-grossing movies in history after passing $2.4 billion at the global box office. Marvel also found success with new TV releases on Disney Plus like Wonder Man , Daredevil: Born Again Season 2, and X-Men ‘97 Season 2, and while it was thought that all shows would come back for new seasons, this is no longer the case. After originally announcing that Wonder Man had been renewed, Marvel later went back and confirmed that the show would be canceled after one season.
 
-### HBO’s New Legal Thriller Is Officially One of Streaming’s Biggest Shows
-Sat, 03 Oct 2026 13:15:12 GMT — https://collider.com/war-hbo-succession-replacement-streaming-hit-october-2026/
+### Apple TV's Near-Perfect 3-Part Comedy Refuses To Back Down on Streaming
+Sat, 03 Oct 2026 18:28:11 GMT — https://collider.com/shrinking-apple-tv-comedy-streaming-success/
 
-After the success of The Undoing and Big Little Lies , HBO appears to be hedging its bets on a new mystery thriller series that aims for broader appeal. The new series premiered on October 1, and instantly found spots on the domestic and global HBO Max viewership charts. The new series has shades of HBO's Succession and is designed as an anthology that follows a heated rivalry between two competing law firms. Succession's impact can be felt far and wide; the dark comedy-drama ended its acclaimed run in 2023 and has influenced everything from MobLand to The Gentlemen . The new HBO series will air all the way through October and conclude its eight-episode premiere season on November 19.
+Apple TV has many unforgettable shows , ranging from the likes of Stick to Silo . With so many options to watch, earning a place in the streamer's most-watched titles can be fiercely competitive. Understandably, long-standing favorite Ted Lasso currently leads the pack with its ongoing season, but another series has consistently remained in Apple TV's Top 10. Shrinking hasn't quite reached the same level of renown, but the 2023 comedy sets itself apart with an emotionally complex story and a star-studded cast that includes Harrison Ford and How I Met Your Mother 's Jason Segel .
 
-### 'Scrubs' Star Confirms How the Revival Fixed One of the OG Show's Biggest Problems
-Sat, 03 Oct 2026 13:01:12 GMT — https://collider.com/scrubs-revival-season-2-tosh-ava-bunn-hulu/
+### 21 Years Later, Steve Carell’s $177M Breakout Hit Is Officially Moving Streamers
+Sat, 03 Oct 2026 18:00:12 GMT — https://collider.com/steve-carell-the-40-year-old-virgin-streaming-starz-october-2026/
 
-When Season 1 of the Scrubs revival debuted this April, it arrived 16 years after the original series had attempted to introduce a brand-new generation of doctors. Season 9's ill-fated attempt probed that the transition came too quickly. Swapping out the established leads felt jarring, while the main trio of doctors was still too close to their own training to have the years of experience needed to be effective mentors. The Scrubs revival has now put that awkward chapter to bed . Season 1 introduced a new group of doctors ready to make their own mistakes under the watchful eyes of J.D. ( Zach Braff ), Turk ( Donald Faison ), and Elliot ( Sarah Chalke ), creating a new team at Sacred Heart without losing the dynamic that made the original series work.
+One of the most influential names in modern comedy, the Oscar-nominated Steve Carell is the face of many people's favorite comfort shows, most notably as the lovable Michael Scott in The Office . Many years after his final surprise appearance in the show's finale, Carell is still appearing in plenty of comedic streaming favorites. After helping usher in a brilliant new comedy-drama, Netflix's The Four Seasons, before his character met an untimely demise, Carell moved to HBO to deliver a series that proved so instantly popular that it became their biggest comedy premiere in more than a decade, with 2.4 million U.S. cross-platform viewers in its first three days.
 
-### Brad Pitt’s Haunting ‘Interstellar’-Style Sci-Fi Thriller Is Officially on Netflix
-Sat, 03 Oct 2026 12:45:12 GMT — https://collider.com/brad-pitt-sci-fi-ad-astra-streaming-netflix-october-2026/
+### 5 ‘Dungeon Crawler Carl’ Characters We Need To See in the Peacock Series
+Sat, 03 Oct 2026 17:50:12 GMT — https://collider.com/dungeon-crawler-carl-best-characters-for-peacock-series/
 
-Space movies don't just need to have aliens, or supernova explosions, or Death Stars to make them worthwhile, and particularly, to make the infinite darkness of the universe anything less than terrifying. Sometimes they just need Brad Pitt having interstellar daddy issues , several billion miles of absolutely nothing, and pirates on the moon to make it a fun day out.
+It's almost impossible that Peacock will adapt every sentence of Dungeon Crawler Carl into a live-action TV show. The series is massive in scale, defying the laws of physics and entropy to generate an alien game show out of the very substance of the earth. The TV show will definitely introduce us to Carl and his ex-girlfriend's cat, Princess Donut ( Jeff Hays ) as they delve into the dungeon, as well as the close allies they meet along the way. However, some characters will inevitably be skipped or combined with others. This isn't necessarily a bad thing, although chances are every reader will miss a quirky favorite that stuck in their memory in the books. There are some stand-out characters that must be brought to screen and given their moment in the spotlight.
 
-### Chris Pratt’s ‘Reacher’-Style Action Thriller Officially Returns After a 4-Year Hiatus
-Sat, 03 Oct 2026 12:30:12 GMT — https://collider.com/chris-pratt-the-terminal-list-season-2-release-date-october-2026/
+### ‘The Walking Dead’ Meets ‘Dexter’ in the Horror Nightmare Officially Streaming for Free
+Sat, 03 Oct 2026 17:30:12 GMT — https://collider.com/jennifer-carpenter-quarantine-streaming-free-pluto-tv-october-2026/
 
-Research has indicated that shows that take too long between seasons tend to lose more viewers. By this standard, Prime Video's action series The Terminal List is in a particularly precarious position. The show premiered back in 2022, and will return with a long-awaited second season this month. However, the four-year gap is highly unusual. Even Netflix's The Gentlemen , which proved to be immensely popular after its debut in 2024, lost 45% of its viewers upon its return this year. And it was dealing with only a two-year break. Prime Video tried to mitigate the risks involved with The Terminal List by pushing forward with a spin-off series titled The Terminal List: Dark Wolf , which was released in the interim.
+Not long after the success of J.J. Abrams and Matt Reeves ' sci-fi spectacle Cloverfield , another genre movie capitalized on the found-footage trend and ended up grossing four times its reported budget at the box office. Like Cloverfield , it spawned a follow-up, but it wasn't able to launch a franchise of equal cultural worth. The movie in question is streaming for free this month on Pluto TV, where it's primed to be discovered by an entirely new generation of audiences. It serves as a major artifact of the late 2000s, when both found-footage and zombie movies were all the rage. The film was based on a Spanish-language thriller that eventually spawned a four-part franchise.
 
-### The 10 Greatest Sci-Fi Cult Classic Movies, Ranked
-Sat, 03 Oct 2026 12:29:12 GMT — https://collider.com/best-sci-fi-cult-classic-movies-ranked/
+### The 10 Best Upcoming Fantasy Books To Read in Fall 2026
+Sat, 03 Oct 2026 17:28:12 GMT — https://collider.com/best-new-fantasy-books-fall-2026/
 
-When it comes to cult films, the science fiction genre has a galaxy's worth of movies. The genre attracts a certain amount of creative ambition that often results in films that don't necessarily appeal to mainstream audiences or critics. They may not have found success at the box office, but they all found rabid fanbases, some of which have grown so large that the films themselves have become canonized, and even launched whole franchises. Even with that kind of success, these films all still proudly wear their cult classic status as a badge of honor.
+Any bookworm knows what the arrival of fall means: the publication of what are bound to go down in history as some of the best books of perhaps not just 2026 , but the 2020s as a whole. Indeed, publishers often save some of their biggest heavy-hitters for September, October, and November, and that most certainly includes fantasy books.
 

@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-03T14:54:55.321Z
+# Tech — harvested 2026-10-03T19:24:38.351Z
 
 ## Ars Technica
 
@@ -52,7 +52,7 @@ Fri, 02 Oct 2026 17:32:14 +0000 — https://arstechnica.com/space/2026/10/us-mil
 
 In late 1970, a Titan IIIC rocket launched from Space Launch Complex 40 at what was then called Cape Canaveral Air Force Station. It carried a top-secret payload for the US military. Much has changed in spaceflight since then. The Titan IIIC would bow out in 1982 after dozens of launches. Various Titans continued launching from Space Launch Complex 40 until 2005, at which point the US Air Force—in a competitive process hotly opposed by United Launch Alliance—turned the pad over to a small, largely unknown startup called SpaceX. And Cape Canaveral is now a "Space Force" station. But those unspecified payloads? Until last month, some of them were still flying operationally. Read full article Comments ]]>
 
-### How I kept cool with NYC's free battery program for window AC units
+### This startup pays NYC residents to run air conditioners on free batteries
 Fri, 02 Oct 2026 17:20:21 +0000 — https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/
 
 My family has spent four summers participating in demand response programs whereby utility companies pay customers to reduce energy use on the hottest summer days. Most summers have involved carefully precooling our New York City apartment before switching off the air conditioners and sweating it out during the designated demand response periods. But this year, we kept our window air conditioners running throughout a heat dome event that drove daytime temperatures into the triple digits and made the nights oppressively hot. The difference was that we powered the air conditioners through two household batteries tucked away unobtrusively in the corners of our living room and bedroom. We were among about 1,000 New York City households that took part in a free and growing program offered by the local startup Every Electric. The company’s proposition is simple: Get one or more batteries delivered to your home, plug the batteries into a standard wall electrical outlet, and then plug your window air conditioners into the batteries. Households can keep running air conditioners as usual during peak demand periods while also earning money through the local demand response program with the utility company Con Edison. Read full article Comments ]]>
@@ -63,6 +63,21 @@ Fri, 02 Oct 2026 16:05:26 +0000 — https://arstechnica.com/cars/2026/10/tesla-s
 Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total production at Tesla actually increased year over year; it built 464,391 vehicles—a 3.7 percent increase—457,387 of which were Models 3 and Y (a 4.9 percent increase year over year). The remaining 7,004 were other models, mostly Cybertrucks, with presumably some Semis and Cybercabs, as the Models S and X are now retired; this category saw a 39.8 percent decrease year over year. Read full article Comments ]]>
 
 ## The Verge
+
+### Capcom is preparing for a ‘future where we create games together with AI’
+2026-10-03T12:49:10-04:00 — https://www.theverge.com/games/1004418/capcom-ai-game-development
+
+Capcom's Pragmata might be all about the horrors of AI , but in practice the studio doesn't seem so down on the tech . During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: "The Outlook and Future of the REX Project, Further Evolving the RE Engine for the Next Generation." During the talk he laid out the challenges facing studios producing games at the scale of Resident Evil, which can make even simple tasks extremely time consuming. The solution Ishida said is "successfully integrating AI technology into development workflows." Capcom has said previously that it will not use AI … Read the full story at The Verge. ]]>
+
+### The best early October Prime Day deals happening now
+2026-10-03T12:22:40-04:00 — https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october
+
+It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day , which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available. Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review . Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review . Where to Buy: $399 $279 at Amazon $399
+
+### Splice CEO Kakul Srivastava thinks AI emails are killing conversations
+2026-10-03T11:00:00-04:00 — https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview
+
+Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's " Money " and " Espresso " by Sabrina Carpenter. (The original samples are here and here , for the curious.) Before that, Kakul held executive roles at Flickr, Yahoo, GitHub, and Adobe. Throughout her career, Kakul has found herself at the intersection of Silicon Valley and creatives. That's been especially true at Splice, where she's not just expanded the platform's footprint by acquiring Spitfire Audio , but also overseen its forays into the wor … Read the full story at The Verge. ]]>
 
 ### An OpenAI safety employee has quit and is sounding the alarm
 2026-10-03T10:31:56-04:00 — https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
@@ -99,22 +114,17 @@ Dish-owned Sling TV will no longer be offering its Sling Pass feature that allow
 
 New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a tale as old as last week: OpenAI's new agent platform , called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to order you a burrito - emphasis on work. OpenAI announced Dots earlier this week. Like Muse, Dots have blobby, anthropomorphic avatars and customizable names. In the future, OpenAI says you'll be able to have multiple Dots, but right now you get one. I named mine Dotty McDotface. The interface looks similar to Muse's; you chat with the agent in one window and follow its work in another as it … Read the full story at The Verge. ]]>
 
-### Breaking up (with Elon Musk) is hard to do
-2026-10-02T13:37:36-04:00 — https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis
-
-In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from "Big Tech Alert," an account that, among other things, monitors what accounts are following and unfollowing each other. That post noted Musk was no longer following her on X. It was also sponsored by Kalshi , because everything in this relationship is totally fucking cursed, dude. In her statement, Zilis wrote , "It's hard to go from in love to let go in a week with no warning, but that's just how it is sometimes." "Uh, you know." Zilis, in addition to h … Read the full story at The Verge. ]]>
-
-### Rivian’s sales pop as the company’s big R2 bet starts to pay off
-2026-10-02T13:15:03-04:00 — https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2
-
-Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production and delivery numbers today, reporting 19,751 vehicles produced and 19,248 delivered. That represents an 85 percent year-over-year increase in production and a 45 percent jump in deliveries. (For a direct-to-consumer automaker like Rivian, deliveries serve as a proxy for sales.) The company also reaffirmed its full-year 2026 guidance, expecting to deliver 65,000 to 70,000 vehicles. Rivian's sales surge is a rare bright spot in a struggling industry. A year after President Trump and Re … Read the full story at The Verge. ]]>
-
-### Beehiiv creators are buzzing about a new price increase
-2026-10-02T12:51:49-04:00 — https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions
-
-Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase , Beehiiv cofounder and CEO Tyler Denk says it will allow the company to "continue investing in our core platform experience." As part of the change , Beehiiv is changing the name of its midrange Scale plan to Lite, which has gone up by at least $10 per month depending on subscriber count. For someone with up to 10,000 subscribers, for example, Beehiiv will charge $139 / month instead of $109. Meanwhile, the Pro plan (formerly Max) will cost $239 / month for up to 10, … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### 7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage
+Sat, 03 Oct 2026 16:59:51 +0000 — https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar
+
+Nvidia has increased the price of the Shield TV Pro from its original $199.99 launch price to $299.99. This makes the long-running Android TV streaming device $100 more expensive despite receiving no major hardware refresh. The new price is listed on Nvidia’s website, and the company blames rising component costs driven by AI for the increase. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits An Nvidia spokesperson told Ars Technica , “Starting October 2, SHIELD Pro will be priced at $299. The cost of components, including memory, has increased substantially across the industry.” The price increase for the Shield TV Pro also comes alongside the discontinuation of the standard Nvidia Shield TV. Nvidia has reportedly stopped producing the base model, leaving the Shield TV Pro as the only Shield-branded streaming device the company offers. Despite being seven years old, the Shield TV Pro remains somewhat relevant, as it serves as more than a basic TV streaming box. Powered by the company’s Tegra X1+ processor, 3GB of RAM, and 16GB of internal storage, the device includes two USB 3.0 ports, Gigabit Ethernet, and support for external storage drives, making it particularly useful for users with local media li
+
+### Elon Musk confirms discussions with TSMC about Terafab chipmaking collaboration
+Sat, 03 Oct 2026 14:50:50 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/elon-musk-confirms-discussions-with-tsmc-about-terafab-chipmaking-collaboration-intel-is-the-only-other-named-partner-terafab-to-exclusively-supply-tesla-spacex-and-xai
+
+TSMC and Elon Musk's Terafab semiconductor production initiative are discussing a potential collaboration under which TSMC would build and operate a facility that will exclusively serve Elon Musk's Tesla, SpaceX, and xAI companies, according to Tim Culpan’s Culpium newsletter on Friday. Elon Musk confirmed the discussions early on Saturday, but did not elaborate. "Just discussions, but something may come of it," Musk wrote in an X post, while TSMC has so far remained tight-lipped. Under the arrangement Culpan considers most probable, TSMC would own and operate the new semiconductor production facility, while SpaceX/Terafab could invest in the venture, commit to buying a guaranteed volume of chips, or combine both approaches. However, the exact ownership structure remains under discussion. Another option would put SpaceX in control of the venture with the majority ownership; TSMC would invest less, but would still provide 'operational expertise' and process technologies. Perhaps, an interesting background detail from Culpium is that TSMC's rumored intentions to build a fab complex in Texas are tied to the foundry's effort to support Terafab. The proposed 'Plan A' arrangement could resemble TSMC's JASM and ESMC joint ventures in Japan and Germany, where local partners provide capital and demand while TSMC contributes process technology and operates the fabs. The proposed 'Plan B' structure — under which SpaceX will hold the majority ownership of Terafab while TSMC would operate
 
 ### Find tech deals in Newegg's Fantastech Sale ahead of Amazon's Big Deals Day — early shoppers get automatic refunds if hardware prices drop lower
 Sat, 03 Oct 2026 14:40:00 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now
@@ -131,7 +141,7 @@ Sat, 03 Oct 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Over at Tom's Hardware Premium , we've been publishing a slew of stories centered around our themed AI Chip Design Week , where you can learn more about how artificial intelligence is reshaping the chipmaking world. Each article in our series of stories is free to access for a limited time, and we're extending the free period over the weekend until Monday, October 5, so you don't miss out. Headlining this week is our interview with OpenAI hardware VP Richard Ho, talking all things Jalapeño, the Broadcom co-developed inference ASIC that the company debuted earlier this year at Hot Chips 2026. The interview dives into how the company used AI within its design processes, beating Nvidia on efficiency, and demystifying common misconceptions like only being optimized to run OpenAI models. This lengthy read is a full, unredacted transcript of our session with Ho, so don't miss out. OpenAI Jalapeño design interview transcript — hardware VP Richard Ho explains how AI-assisted design may shape the future of inference ASICs But how close is AI to designing the very silicon that it runs on? We explore the concepts, products, and everything else shaping the industry in our pair of exhaustive primers on the subject, covering the companies seeking to make the chips themselves. We've also broken down all of the tools currently in use, with comments directly from Synopsys, and a breakdown of all claims from vendors currently using AI within their chip design workflows. Additionally, during th
 
-### Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs — platform approaches 21,000 new releases in 2026, on track to top $20 billion annually
+### Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs
 Sat, 03 Oct 2026 13:35:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs
 
 PC gaming continues to see an upward trend despite rising hardware costs, as Steam is estimated to have generated a record $1.7 billion in revenue for September 2026. According to Alinea Analytics , Steam had its best September ever with a 13% jump compared to the previous record set in September 2025. It also had its strongest third quarter on record, generating an estimated $5.5 billion in revenue, an increase of 12% from the same period last year. That brings Steam's estimated revenue for the first nine months of 2026 to $16.5 billion, compared to $14.5 billion during the same period in 2025. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps Among the 500 top-grossing games on Steam last month, new IP releases in 2026 generated 20.5% of the revenue, while established IP accounted for 79.5%, including 3.8% from remakes and remasters. Several major releases helped drive revenue during the month, including Wardogs, generating an estimated $86.9 million since its early-access launch on September 10; Onimusha: Way of the Sword at $30.4 million; and The Blood of Dawnwalker bringing in $26.9 million. (Image credit: Alinea Analytics) Free-to-play games also remained an important part of Steam's business, with Counter-Strike 2, Apex Legends, PUBG, and D
@@ -166,17 +176,17 @@ Sat, 03 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 The California Department of Justice (DOJ) has subpoenaed OpenAI as it investigates the recent cybersecurity incidents involving the company’s AI models and agents. According to The Register , state Attorney General Rob Bonta said that the state wants to learn more about the cybersecurity incidents involving the company and that the investigation is trying to determine the responsibility of an AI developer if an AI model or agent does something unintended. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “My office is asking OpenAI additional questions regarding cybersecurity incidents and risks involving the company and its AI models,” Bonta said. He also added, “Frontier models can be legitimate tools for cyber defense — at the same time, companies that develop these models and offer them for use have a moral and legal responsibility to ensure that they do not perpetrate or enable cyberattacks, either during model testing and development or once models are placed into service. Developers who fail to do so can and should be held legally accountable, and my office is committed to determining if that is t
 
-### Amazon promises to spend $1 billion on communities close to its data centers, but critics push back
-Sat, 03 Oct 2026 10:50:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments
-
-Amazon announced a new community program called “Built Together,” where the company promised to invest $1 billion over the next five years on data center communities. According to the company blog post , it will provide the funding to the residents while they determine the best use of the funds to be allocated, including projects that reduce electricity bills. “With Built Together, Amazon will add more than $1 billion over the next five years to what we’re already doing — with communities in the driver’s seat to determine what’s most useful for them across education, job training, energy affordability, water and energy preservation, and local priorities,” AWS CEO Matt Garman wrote. He said that Amazon is focusing on three key issues that matter most to residents living near its data centers: education and workforce pathways, community energy affordability and water solutions, and flexible funding for local priorities with communities in the lead. The company says that education and workforce pathways will allow the people living near data centers to pursue associate’s degrees related to in-demand fields at zero out-of-pocket costs, with Amazon covering the shortfall after financial aid. It even claimed that it has already established agreements with local community colleges and expects to launch them in the next few months, with a goal of connecting more than 300,000 students from data center communities to its free degree access. Aside from this, Garman also said that the co
-
-### AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day
-Sat, 03 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault
-
-Despite being on the market for four years, the Ryzen 7 5800X3D remains one of the best CPUs for gaming on the AM4 platform. A Ryzen 9 5900X3D, if AMD had released it, would surely have given it a run for its money. Now, years later, an engineering sample of the Ryzen 9 5900X3D has emerged on the Chinese Chiphell forums , giving us a taste of what could have been an awesome 12-core chip for gaming and productivity. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent What is really funny about the Ryzen 9 5900X3D is that we all knew it existed because AMD teased it at Computex 2021 . The chipmaker showcased a “12-core 3D Chiplet Prototype" outperforming a regular Ryzen 9 5900X by up to 15% in average gaming performance, with both processors fixed at a 4 GHz frequency. The Ryzen 9 5900X3D engineering sample (100-000000652-20_48/32_Y) brought to light by a Chiphell user reveals 128MB of L3 cache, double the amount found on the standard Ryzen 9 5900X. This comes from AMD integrating 64MB of 3D V-Cache onto one of the two Core Complex Dies (CCDs) inside the chip. The CPU-Z screenshot also shows a 4,649 MHz clock spe
-
 ## Phoronix
+
+### The Amazing Work By Valve s Timur Kristóf On Improving Old AMD GPUs On Linux
+Sat, 03 Oct 2026 14:56:28 -0400 — https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
+
+Over the past year Timur Kristóf of Valve's Linux graphics driver team has made multiple very nice improvements to the AMDGPU kernel driver for enhancing support for old (GCN 1.0/1.1 era from a decade ago) graphics cards so that they can better handle Linux gaming and other tasks. This week in Toronto, Kristóf presented on this AMDGPU work that he initially began as a kernel driver development exercise after initially spending years in user-space focused on the Mesa 3D driver code...
+
+### Linux Patches Show Promising Results For Lower Latency Of Short Slice Tasks
+Sat, 03 Oct 2026 13:25:38 -0400 — https://www.phoronix.com/news/Linux-Latency-Short-Slice-Tasks
+
+Linaro engineer Vincent Guittot sent out a set of patches on Friday working on scheduling latency improvements, especially when multiple short slice tasks are running concurrently on the same system...
 
 ### Moose: GNOME Gains Another Local AI App Option
 Sat, 03 Oct 2026 07:47:01 -0400 — https://www.phoronix.com/news/GNOME-Moose-Local-AI
@@ -228,17 +238,12 @@ Fri, 02 Oct 2026 10:25:45 -0400 — https://www.phoronix.com/news/Ryzen-AI-Dev-P
 
 With the AMD Ryzen AI Halo mini PC that launched this summer that focused on local AI, one of the biggest surprises for me when reviewing the unit was finding that the Linux preload wasn't just a stock Ubuntu/Debian OS but rather a customized AMD Linux distribution known as AMD Ryzen AI Developer Platform. Yesterday the newest version of AMD Ryzen AI Developer Platform was released with some nice software updates...
 
-### systemd-appd Out For Review To Centralize Tracking Of User s Apps
-Fri, 02 Oct 2026 09:29:00 -0400 — https://www.phoronix.com/news/systemd-appd
-
-The newest systemd component being worked on and drafted for an initial pull request is systemd-appd as a new mechanism to centralizing the tracking of user's apps...
-
-### Imagination Talks Up Their Open-Source Vulkan Driver, Volcanic Architecture Plans
-Fri, 02 Oct 2026 09:00:03 -0400 — https://www.phoronix.com/news/Mesa-PowerVR-Vulkan-2026
-
-Imagination Tech was at XDC 2026 Toronto this week to talk up their ongoing work around their PowerVR Mesa Vulkan driver (and PVR upstream DRM kernel driver) with this driver continuing to improve, plans for supporting their new Volcanic GPU architecture, and other improvements...
-
 ## The Register
+
+### Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows
+Sat, 03 Oct 2026 17:27:00 +0200 — https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933
+
+The second Anthropic-linked vulnerability known to have been exploited in the wild saw initial activity from an IP address in China targeting vulnerable hosts in the US and Japan. The vuln is a critical authentication-bypass bug in Rejetto HTTP File Server (HFS) that can lead to full admin access and remote code execution. HFS is an open source web file server that previously appeared on the US Cybersecurity and Infrastructure Security Agency’s catalog of Known Exploited Vulnerabilities in 2024. On Wednesday, researcher Zach Hanley at AI pen-testing company Horizon3 said he used Mythos to uncover a new flaw in the file server, now tracked as CVE-2026-61500. If you use Rejetto HFS, be sure to update to v3.2.1 or later, which fixes this and other security flaws. Hanley also published a video showing the steps to exploit HFS and remotely execute code on the server. By the next day, the CVE was under exploitation. “We started detecting exploitation of CVE-2026-61500 in Rejetto HFS this evening,” VulnCheck security researcher Patrick Garrity posted on LinkedIn on Thursday, adding that Hanley and team reported the bug to VulnCheck for CVE assignment. “Our canaries detected an actor in China targeting real vulnerable hosts in the US,” Garrity added. Garrity has been tracking CVEs attributed to Mythos and Project Glasswing, Anthropic’s initiative to give select partners access to the bug-hunting model, since shortly after the program was announced in April. Anthropic claims that Myth
 
 ### Clever database, but can it run Doom?
 Sat, 03 Oct 2026 14:02:00 +0200 — https://www.theregister.com/databases/2026/10/03/clever-database-but-can-it-run-doom/5300506
@@ -295,12 +300,52 @@ Fri, 02 Oct 2026 15:05:00 +0200 — https://www.theregister.com/ai-and-ml/2026/1
 
 OpenAI has fired two safety researchers and a program manager for allegedly mishandling sensitive company information. The ChatGPT maker confirmed the dismissals to The Register, saying an internal investigation found the trio had violated company rules governing access to and handling of confidential information. "We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information," an OpenAI spokesperson said. "Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work." At least some of the information was allegedly shared with an outside organization that evaluates AI systems. OpenAI said its investigation found other misconduct beyond that disclosure, but has not described it or identified the organization. The ChatGPT creator said the employees were not dismissed for raising AI safety concerns. The firings come after a messy few months for OpenAI's safety teams, including an incident in which one of its agents compromised infrastructure belonging to AI platform Hugging Face. OpenAI subsequently brought in external experts to investigate what happened and published findings detailing the agent's behavior and the security failures that allowed it to reach Hugging Face. The incident also prompted a much wider trawl through OpenAI's logs for other examples of agents interacting with ext
 
-### Nvidia debuts $4,999 DGX Spark with half the RAM and storage, amid memory crunch
-Fri, 02 Oct 2026 15:00:00 +0200 — https://www.theregister.com/systems/2026/10/02/nvidia-debuts-4999-dgx-spark-with-half-the-ram-and-storage-amid-memory-crunch/5300622
-
-In an effort to provide a more affordable AI system, Nvidia is introducing a cut down version of the DGX Spark with half the memory and storage. The GB10-based systems will be offered exclusively through hardware partners including Acer, Asus, Dell, Gigabyte, HP, and MSI, and are expected to retail for around $4,999. The less-powerful SKUs are necessary after Nvidia jacked the price of its 128 GB DGX Spark on Friday to $6,950 — an increase of nearly 75 percent from this time last year. As you might have already guessed, skyrocketing memory prices are to blame for the massive price adjustment. That makes the 64 GB model considerably less than Nvidia’s top-spec DGX Spark and GB10 systems given the ongoing memory shortage, but that’s still 25 percent more than the 128 GB version retailed for at launch. Nvidia’s GB10 platform has been plagued by pricing creep since the Projects Digits concept was unveiled at CES last year. Originally, the appliance was expected to retail for around $3,000, not the $4,000 it eventually ended up selling for. Even at that price, the DGX Spark offered something that just a few years ago would have set you back tens of thousands of dollars: large quantities of GPU memory. In fact, at the time it launched, the system was technically the highest capacity workstation GPU Nvidia sold. That’s not really the case with the 64 GB model, which due to its smaller capacity, isn’t as well suited to certain AI workloads like fine tuning. But if your main concern i
-
 ## Engadget
+
+### How to check the temperature of your PC's CPU
+Sat, 03 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2273462/how-to-check-cpu-temperature/
+
+There's some solid free software that can help you keep tabs on your computer's health.
+
+### Ethernet cables can do more than just improve home internet
+Sat, 03 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2273746/ethernet-cables-can-do-more-than-just-improve-home-internet/
+
+With some add-ons, these can gain a second life.
+
+### Capcom plans to use AI to speed up the game development process
+Sat, 03 Oct 2026 18:27:15 +0000 — https://www.engadget.com/2276597/capcom-plans-to-use-ai-to-speed-up-the-game-development-process/
+
+The company previously said it won't use AI-generated content in its games.
+
+### The original PlayStation 2 security chip has been reverse engineered
+Sat, 03 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/
+
+A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening the door to fresh hardware insights.
+
+### How to customize Camera Control on your iPhone
+Sat, 03 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2273351/how-to-customize-iphone-camera-control/
+
+Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, even if you've never touched it before.
+
+### Former OpenAI employee says AI should be regulated like nuclear power plants
+Sat, 03 Oct 2026 16:25:15 +0000 — https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/
+
+The company's former safety lead said frontier AI model releases should have "layers of redundancy and careful, time-consuming planning."
+
+### Why Windows 11 is always using so much RAM
+Sat, 03 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2273348/why-windows-11-using-so-much-ram/
+
+Windows 11 might be using a lot of your RAM, which isn't a problem unless you experience poor performance. It helps your system run more smoothly.
+
+### iPhone Duo vs. iPad Mini: Which Apple device is right for you?
+Sat, 03 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/
+
+Apple's iPhone Duo provides a tablet-like experience with its inside screen, but this might not be better than a dedicated iPad for you.
+
+### One missing Google Docs feature has a pretty easy workaround
+Sat, 03 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2273343/missing-feature-google-docs-easy-workaround-dark-mode-extension/
+
+Dark mode is available on the Google Docs mobile app, but not the web version. Luckily, there are some ways to achieve dark mode on the web anyway.
 
 ### What does FDM stand for in 3D printing and how does it work?
 Sat, 03 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2273342/what-does-fdm-stand-for-fused-deposition-modeling-3d-printing-method/
@@ -317,52 +362,22 @@ Sat, 03 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2273339/google-pay-
 
 The history of Google Wallet and Google Pay has led to a great deal of confusion.
 
-### How Apple's Thunderbolt ports are different from USB-C
-Sat, 03 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2273335/apple-thunderbolt-ports-different-from-usb-c/
-
-Your Mac might have a combination of Thunderbolt and standard USB-C ports, each with different capabilities.
-
-### California will fine robotaxi companies if their vehicles block first responders
-Sat, 03 Oct 2026 13:19:19 +0000 — https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/
-
-California's new rule will penalize robotaxi companies if their vehicles block first responders for more than 30 minutes.
-
-### This is one of the cheapest ways to add Dolby Atmos to your TV
-Sat, 03 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2273325/cheapest-way-add-dolby-atmos-tv/
-
-Immersive sound doesn't have to break the bank.
-
-### Is YouTube TV worth your money anymore?
-Sat, 03 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2273328/is-youtube-tv-worth-your-money-anymore/
-
-Sports fans might love it, but who else?
-
-### How to adjust the audio quality in Apple Music
-Sat, 03 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2273330/how-to-adjust-audio-quality-apple-music/
-
-Apple Music offers both lossless streaming and EQ features, if you know where to look.
-
-### Is a Nintendo 3DS still worth buying in 2026?
-Sat, 03 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2271901/is-nintendo-3ds-still-worth-buying/
-
-The Nintendo 3DS was Nintendo's last true portable console. While it stopped getting new games long ago, it can still be a great option.
-
-### 10 Handy Ways To Reuse Your Old Android Phone
-Sat, 03 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2270823/handy-ways-reuse-old-android-phone/
-
-Before you toss that aging Android, see how it can become a surprisingly handy tool in your daily routine with a few creative repurposing ideas.
-
-### Photography adventures, chaotic sheepherding and other new indie games worth checking out
-Sat, 03 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2276442/photography-adventures-chaotic-sheepherding-and-other-new-indie-games-worth-checking-out/
-
-Plus, indie game Star Wars: Galactic Racer is an absolute blast.
-
-### Apple acknowledges AT&T network bug on iPhone 18 Pro Max
-Sat, 03 Oct 2026 02:10:16 +0000 — https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/
-
-Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.
-
 ## TechCrunch
+
+### Amazon responds to data center backlash, says it no longer uses NDAs
+Sat, 03 Oct 2026 18:43:57 +0000 — https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
+
+The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.
+
+### OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+Sat, 03 Oct 2026 16:30:01 +0000 — https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/
+
+By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.
+
+### Jack Dorsey s Bitchat disappears from app stores in India after government order
+Sat, 03 Oct 2026 15:02:01 +0000 — https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/
+
+Bitchat has become largely unavailable in India as a result of the restrictions.
 
 ### Vessev built an electric ferry that almost flies
 Sat, 03 Oct 2026 14:42:00 +0000 — https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/
@@ -408,19 +423,4 @@ Apple says it will add new controls around macOS’s Full Disk Access permission
 Fri, 02 Oct 2026 17:48:16 +0000 — https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
 
 This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money [ ]
-
-### TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
-Fri, 02 Oct 2026 17:32:05 +0000 — https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/
-
-Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.
-
-### Circuit Breaker Labs hopes to make AI safer for your kids (and you)
-Fri, 02 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/
-
-With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created "crash-test dummies" to solve that.
-
-### Paramount and Warner Bros. Discovery to become Skydance
-Fri, 02 Oct 2026 15:53:50 +0000 — https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/
-
-The roughly $110 billion deal is expected to close October 6.
 

@@ -1,6 +1,21 @@
-# Manga — harvested 2026-10-03T14:54:55.321Z
+# Manga — harvested 2026-10-03T19:24:38.351Z
 
 ## Anime News Network
+
+### Uncanny Counter Season 2 Live-Action Series Review
+Sat, 03 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/uncanny-counter-season-2/live-action-series/.242002
+
+Evil spirits are taking the fight directly to the Afterlife by attacking the Counters who protect the world.
+
+### The Science Notes by Delta and Gamma Light Novels Get Anime
+Sat, 03 Oct 2026 11:51:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/the-science-notes-by-delta-and-gamma-light-novels-get-anime/.242448
+
+Kanna Nakamura voices announcement of anime of high school science club dealing with life's mysteries
+
+### This Is the End Stagnation Committee Light Novels Have Anime in the Works
+Sat, 03 Oct 2026 11:11:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/this-is-the-end-stagnation-committee-light-novels-have-anime-in-the-works/.242449
+
+Kien Aien's story of youths taking on the coming apocalypse
 
 ### The Elusive Samurai Season 2 ‒ Episode 12
 Sat, 03 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-12/.242430
@@ -47,26 +62,16 @@ Sat, 03 Oct 2026 05:16:36 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Announced after end of <i>Part 3</i> anime
 
-### Spice & Wolf: merchant meets the wise wolf Season 2 Anime Reveals Teaser Promo Video, More Cast
-Sat, 03 Oct 2026 04:40:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-anime-reveals-teaser-promo-video-more-cast/.242439
-
-Romi Park joins cast as Eve Bolan
-
-### The Kept Man of the Princess Knight TV Anime's Promo Video Reveals Myth & Roid's Opening Theme
-Sat, 03 Oct 2026 03:54:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/the-kept-man-of-the-princess-knight-tv-anime-promo-video-reveals-myth-and-roid-opening-theme/.242438
-
-More cast revealed; sajou no hana performs ending theme
-
-### Show Your 'Siga' Pride With New Goodbye, Lara Sweatshirt & T-Shirt
-Fri, 02 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-02/show-your-siga-pride-with-new-goodbye-lara-sweatshirt-and-t-shirt/.242340
-
-Dress up as Lara or Mari
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Black Clover Season 2 Creditless Opening and Ending Videos Revealed
+Sat, 03 Oct 2026 15:01:48 GMT — https://animecorner.me/black-clover-season-2-creditless-opening-and-ending-videos-revealed/
+
+Black Clover Season 2 anime has revealed its creditless opening and ending videos following the first episode's October 3, 2026 premiere.
 
 ### Ninja Scroll 4K Reveals Exclusive Clip Ahead of North American Theatrical Release
 Fri, 02 Oct 2026 23:03:48 GMT — https://animecorner.me/ninja-scroll-4k-reveals-exclusive-clip-ahead-of-north-american-theatrical-release/
@@ -95,20 +100,25 @@ We had the honor of chatting with the Japanese singer-songwriter ZAQ during her 
 
 ## MyAnimeList News
 
+### Light Novel Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga Gets TV Anime Adaptation
+Sat, 03 Oct 2026 07:59:06 -0700 — https://myanimelist.net/news/74786099?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 livestream event announced a television anime adaptation of Maware Isogawa and Heirou s Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga (I Can t Exploit it Because of the Expectations and Evaluation from Slaves) light novel on Saturday, revealing an announcement visual (pictured above). Isogawa began publishing the fantasy isekai light novel under the Dengeki no Shin Bungei imprint in March 2023, featuring illustrations by...
+
 ### Light Novel Soshiki no Shukuteki to Kekkon shitara Mecha Amai Gets TV Anime
 Sat, 03 Oct 2026 07:46:45 -0700 — https://myanimelist.net/news/74786056?_location=rss
 
 The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Toshimichi Uzou s Soshiki no Shukuteki to Kekkon shitara Mecha Amai (My Sweet Marriage to My Ex-Nemesis) light novel on Saturday and revealed the main staff. An illustration (pictured) drawn by the light novel illustrator, Kewi Hayashi, was also shown to commemorate the announcement. Staff Director: Atsushi Nigorikawa (Aru Majo ga Shinu Made) Series Composition: Keiichirou Oochi (Class de 2-banme ni Ka...
 
-### Light Novel Kochira, Shuumatsu Teitai Iinkai Gets TV Anime
+### Light Novel Kochira, Shuumatsu Teitai Iinkai Receives Anime Adaptation
 Sat, 03 Oct 2026 07:35:11 -0700 — https://myanimelist.net/news/74786020?_location=rss
 
 The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Kien Aien s Kochira, Shuumatsu Teitai Iinkai (This Is the End Stagnation Committee.) light novel on Saturday, revealing an announcement promo. Kadokawa began publishing the fantasy romance novel under its Dengeki Bunko imprint in July 2024, featuring illustrations by Ogipote. The sixth volume was released on July 10. A manga adaptation by Yutaka Sakurai began on Shounen Ace Plus on April 2025. Kadokawa...
 
-### Light Novel Delta to Gamma no Rigakubu Note Gets TV Anime
+### Light Novel Delta to Gamma no Rigakubu Note Gets Anime Adaptation
 Sat, 03 Oct 2026 07:12:14 -0700 — https://myanimelist.net/news/74785962?_location=rss
 
-The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Takuma Sakai s Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrations by Asagi Toosaka. Kadokawa pu...
+The Dengeki Bunko Autumn Festival Online 2026 announced an anime adaptation of Takuma Sakai s Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai (Buta no Liver wa Kanetsu Shiro) began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrations by Asa...
 
 ### Rebuild World Reveals Main Staff
 Sat, 03 Oct 2026 07:08:24 -0700 — https://myanimelist.net/news/74785950?_location=rss
@@ -118,7 +128,7 @@ Production company Kadokawa opened an official website for the television anime 
 ### Biblia Koshodou no Jiken Techou Reveals Additional Cast, Staff, First Promo, Spring 2027 Premiere
 Sat, 03 Oct 2026 06:51:27 -0700 — https://myanimelist.net/news/74785893?_location=rss
 
-The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami s Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Fumika Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Fumika Shinokawa: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuge: Saeko Kami...
+The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami s Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Ayaka Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Shida: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuga: Saeko Kamijou (Gekai E...
 
 ### Romelia Senki Announces Supporting Cast
 Sat, 03 Oct 2026 06:13:20 -0700 — https://myanimelist.net/news/74785812?_location=rss
@@ -150,14 +160,9 @@ Fri, 02 Oct 2026 03:50:29 -0700 — https://myanimelist.net/news/74782320?_locat
 
 The official X (formerly Twitter) account for the JoJo no Kimyou na Bouken (JoJo s Bizarre Adventure) announced the supporting cast for its seventh part, Steel Ball Run, on Friday. The second and third stages of the anime, which adapt the seventh part of Hirohiko Araki s JoJo s Bizarre Adventure manga, began streaming exclusively worldwide on Netflix on September 25, with new episodes released weekly. Cast L. A. Boom Boom: Fumiyoshi Shioya (Shangri-La Frontier: Kusoge Hunter, Kami...
 
-### Demons Crest Unveils Additional Cast Pair, Ending Theme, Second Promo
-Fri, 02 Oct 2026 02:21:46 -0700 — https://myanimelist.net/news/74782123?_location=rss
-
-The official website for the original net anime adaptation of Reki Kawahara s Demons Crest light novel unveiled a pair of additional cast, the theme songs, and second promotional video on Friday. The anime is scheduled to premiere on Amazon Prime Video on November 6. Voice actors Atsushi Tamaru (Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken) and Ayumu Murase (Yomi no Tsugai) are joining the cast as Shin Haizaki and Kakeru Niki, respectively. Singer-songwriter So...
-
 ## Otaku USA
 
-_Nothing in the last 48 hours._
+_Feed unavailable: HTTP 520_
 
 ## Anime UK News
 
