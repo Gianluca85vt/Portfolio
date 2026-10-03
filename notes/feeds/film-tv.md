@@ -1,6 +1,16 @@
-# Film & TV — harvested 2026-10-03T10:02:57.444Z
+# Film & TV — harvested 2026-10-03T14:54:55.321Z
 
 ## Variety
+
+### Projeto Paradiso Founder Olga Rabinovich to Receive Inaugural Encounters Award at the São Paulo Film Festival (EXCLUSIVE)
+Sat, 03 Oct 2026 13:01:33 +0000 — https://variety.com/2026/film/global/projeto-paradiso-olga-rabinovich-encounters-award-sao-paulo-1236898090/
+
+Philanthropist Olga Rabinovich will receive the inaugural Prêmio Encontros (Encounters Award) at this year’s Encontro de Ideias Audiovisuais, the industry platform of the São Paulo International Film Festival. The award honors her enduring commitment to advancing Brazilian cinema and elevating the international profile of Brazilian film and talent through her work with Projeto Paradiso. The [ ]
+
+### Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?
+Sat, 03 Oct 2026 13:00:00 +0000 — https://variety.com/2026/film/news/skydance-david-ellison-paramount-warner-bros-merger-debt-1236898108/
+
+David Ellison has emerged victorious. And he’s boldly — or arrogantly, if you prefer — decided to name the entertainment giant that he’s bolted together Skydance Corp., nodding to the original name of his film production firm that has swallowed up two Hollywood studios over the past 14 months. Defying skeptics and beating back opponents, [ ]
 
 ### April X Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone
 Sat, 03 Oct 2026 08:17:50 +0000 — https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/
@@ -42,17 +52,22 @@ Fri, 02 Oct 2026 21:26:00 +0000 — https://variety.com/lists/best-movies-stream
 
 October is Halloween movie season, so it s the perfect time for two of the year s high-profile horror releases to debut on streaming platforms. Evil Dead Burn, the extremely grotesque ninth installment in the long-running franchise, premieres on HBO Max this month and should prove to be a big home viewing hit. For the indie horror [ ]
 
-### Celebrity Traitors Star Richard E. Grant Accidentally Reveals He s a Traitor to Cast in Premiere, Calls It the ‘Biggest Mistake I’ve Made in My Life’
-Fri, 02 Oct 2026 21:23:23 +0000 — https://variety.com/2026/tv/news/celebrity-traitors-richard-e-grant-reveals-traitor-premiere-1236897863/
-
-Richard E. Grant almost immediately blew his chances on this season of Celebrity Traitors in what he calls the biggest mistake I’ve made in my life. In the first episode of the U.K. reality competition reality series, Grant was chosen as one of the first two Traitors, along with “Love Island” host Maya Jama. But [ ]
-
-### European Entertainment Leaders Mostly Optimistic About David Ellison s Takeover of Warner Bros. : I Believe in His Commitment to Cinema
-Fri, 02 Oct 2026 21:10:43 +0000 — https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/
-
-After nearly a year of dealmaking drama, Paramount Skydance s takeover of Warner Bros. Discovery is about to become reality. Across Europe, where the Paramount chief David Ellison has spent time courting support for his vision of building a Hollywood colossus, the mood is surprisingly upbeat. The debt-laden $111 billion merger is set to close Oct. [ ]
-
 ## The Hollywood Reporter
+
+### Denver Film Festival Unveils Lineup and Honorees
+Sat, 03 Oct 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487/
+
+Peter Farrelly's 'I Play Rocky' will open the fest while James Gray's 'Paper Tiger' will close it. In between, Denver Film will honor Carrie Coon, John Cho, Liz Sargent, Fred Hechinger, Benedetta Porcaroli, David Acord and experimental filmmaker Michael Gitlin.
+
+### Will The Shards Return? FX Show Tests Ryan Murphy s Sway In Disney Empire
+Sat, 03 Oct 2026 13:02:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shards-renew-fx-show-ryan-murphy-1236721306/
+
+The prolific creator has a big overall deal with Disney's 20th TV and a long working relationship with FX. Is that enough to ensure a renewal for a show that wasn't a ratings breakout?
+
+### How a 100-Year-Old Indie Movie Theater Stays In Business
+Sat, 03 Oct 2026 12:01:03 +0000 — https://www.hollywoodreporter.com/business/business-news/indie-cinema-cranford-theater-1236720444/
+
+The operator of the Cranford Theater in New Jersey battled back from the pandemic and a ceiling collapse — and is now planning to mark the centennial with a gala screening.
 
 ### Good Heavens : Kathleen Turner Reacts to Michael Douglas Bombshell About Their Secret Romance During Romancing the Stone
 Sat, 03 Oct 2026 01:21:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kathleen-turner-michael-douglas-secret-romance-romancing-stone-1236721432/
@@ -88,21 +103,6 @@ Inmates were allegedly paid to clean his cell and give him massages, per NBC New
 Fri, 02 Oct 2026 22:15:39 +0000 — https://www.hollywoodreporter.com/music/music-features/tinashe-popstar-social-media-music-industry-interview-1236717999/
 
 As one of pop's most consistent and boundary-pushing artists, the 33-year-old has landed at a new chapter in her career with 'Popstar': "I feel very self-assured and confident."
-
-### Olivia Dean Song Accused of Plagiarizing Bill Withers Just the Two of Us
-Fri, 02 Oct 2026 21:18:38 +0000 — https://www.hollywoodreporter.com/music/music-news/olivia-dean-song-bill-withers-just-the-two-of-us-lawsuit-1236721273/
-
-The publisher of Wither’s catalog claims that the similarities between Dean’s "I've Seen It" and Wither's 1981 hit are “obvious and inescapable.”
-
-### Cameron Winter at Carnegie Hall Review: Paul Thomas Anderson s Effectively Austere Concert Doc Puts You Right in the Room
-Fri, 02 Oct 2026 21:11:45 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236721154/
-
-The Oscar-winning director follows 'One Battle After Another' with this New York Film Festival-premiering documentary chronicling the Geese frontman's solo show.
-
-### Selma Blair Reveals Extent of Fallout After Anti-Islam Instagram Comment: I Didn t Have a Career at All
-Fri, 02 Oct 2026 20:59:07 +0000 — https://www.hollywoodreporter.com/news/general-news/selma-blair-career-comment-instagram-islam-israel-hamas-1236721161/
-
-During a speech at an Anti-Defamation League event in New York, the veteran actress said she got dropped, blocked and shunned in Hollywood and beyond: "Two years ago I learned what erased feels like."
 
 ## Deadline
 
@@ -172,11 +172,6 @@ More elements of the proposed post-WBD merger Skydance s executive structure are
 Fri, 02 Oct 2026 11:41:22 +0000 — https://beforesandafters.com/2026/10/02/visual-effects-is-at-the-heart-of-storytelling-in-heart-of-the-beast/
 
 Dealing with dogs, wolves, a river rapids crossing, a plane crash, and titanium teeth. Directed by David Ayer, Heart of the Beast follows retired Special Forces veteran James Belmont (Brad Pitt) and his retired combat dog, Odin, on a harrowing 58-mile trek across the unforgiving Alaskan wilderness after their light aircraft crashes into a lake. A primary German Shepherd named Uber—a former search-and-rescue dog—was cast to handle the expressive hero shots, while three of his sons served as specialized stunt doubles tasked with specific physical demands like wire work, swimming and running. Production shot in New Zealand, standing in for Alaska, with on location and studio and backlot filming all part of the mix. While the practical dogs provided the heart of the film, digital creature work—entirely handled by Framestore—was also crucial in realizing a number of shots and sequences with Odin. VFX also came into play for the plane crash, the river rapids crossing and for encounters with several other creatures such as a bear and an aggressive pack of gray wolves. Here, befores & afters goes deep into the film’s effects with visual effects supervisor François Dumoulin, who hails from Framestore. He explores the art of delivering complex VFX for a film that was not meant to feel like a VFX film at all, starting with the ‘Pepsi challenge’ showcasing the real vs CG dog, orchestrating a highly realistic plane crash, coming up with a unique way to shoot the river crossing, and dealin
-
-### Here s what you didn t know about the Speed bus jump
-Thu, 01 Oct 2026 11:06:39 +0000 — https://beforesandafters.com/2026/10/01/heres-what-you-didnt-know-about-the-speed-bus-jump/
-
-How a real bus was jumped over a ramp, and how that stunt did not go according to plan. Check out this brand new episode of Great Moments in Effects History on the bus jump in Speed , done with an actual bus! Plus, the incredible VFX work by Sony Pictures Imageworks and VIFX. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Here s what you didn t know about the Speed bus jump appeared first on befores & afters .
 
 ## IndieWire
 
@@ -294,53 +289,53 @@ Considering its subject matter, The Swan: Behind the Mirror seems like a documen
 
 ## Collider
 
-### 10 Apple TV Shows That Quietly Became Modern Classics
-Sat, 03 Oct 2026 10:02:11 GMT — https://collider.com/apple-tv-shows-modern-classics/
+### Forget ‘Knives Out’, Netflix’s 4-Part Murder Mystery Is Officially a Global Streaming Smash
+Sat, 03 Oct 2026 14:45:12 GMT — https://collider.com/the-final-problem-netflix-global-streaming-hit-october-2026/
 
-Apple TV entered the streaming wars in 2019, which is pretty late compared to giants including Netflix and Amazon Prime. The platform had to build itself from scratch without decades of TV history behind it, but that’s what made its rise especially fascinating. Apple TV grew its reputation one series at a time. Some became immediate hits while others took a bit longer to find their audience. However, the common thread was that every show on the streamer knew what it wanted to be.
+The return to prominence of old-fashioned murder mysteries can be traced back to the box-office success of the Murder on the Orient Express reboot in 2017. Directed by Kenneth Branagh , the star-studded movie grossed $350 million worldwide and spawned two sequels. Two years after the release of Branagh's Agatha Christie adaptation, Rian Johnson delivered his original murder mystery movie, Knives Out , which was heavily inspired by the Queen of Crime. Knives Out grossed more than $300 million worldwide as well, spawning two star-studded and critically acclaimed sequels that were released on Netflix. This new wave of murder mysteries has been even more successful on the small screen, with shows such as Only Murders in the Building and A Murder at the End of the World attracting diverse crowds. Now, a new four-part mystery has found global success on Netflix.
 
-### Steven Spielberg's $1B Dollar Sci-Fi Masterpiece Officially Conquers a New Streaming Home
-Sat, 03 Oct 2026 10:00:11 GMT — https://collider.com/steven-spielberg-jurassic-park-streaming-starz-october-2026/
+### Dominic Cooper's New Romance Film Is the Polar Opposite of 'Mamma Mia' in This Sneak Peek [Exclusive]
+Sat, 03 Oct 2026 14:30:12 GMT — https://collider.com/the-lightkeeper-sneak-peek-dominic-cooper-sarah-bolger/
 
-Ten months into 2026, the world has already lost several Hollywood icons. From Dolly Parton to Tim Curry , some of the best screen stars have sadly died this year. In July, the news broke that the iconic Sam Neill had passed away at the age of 78 . According to a statement, Neill's passing was "sudden and unexpected," but he "passed with the dignity that has characterised his whole life."
+The life of a lighthouse keeper was truly a lonely and grueling one . While few such beacons nowadays are run by a human crew, those who once manned the light for the safety of others did so at the cost of regular human companionship, often living in or near their place of work, sometimes without their families if they had one. Such is true for Seamus Óg MacGrianna, a keeper on the Irish coast in 1924, played by Mamma Mia! star Dominic Cooper in the new romantic drama The Lightkeeper . Seamus has been working in the lighthouse for years and has established a routine that keeps him tethered tightly to the past, but that's about to change with three very different people resolving to make him confront everything he's left behind.
 
-### Christopher Nolan’s Mind-Bending $110M Thriller Is Officially Coming to Netflix
-Sat, 03 Oct 2026 09:40:13 GMT — https://collider.com/christopher-nolan-the-prestige-streaming-netflix-october-2026/
+### These 10 Action Movies Are Officially the Best of All Time
+Sat, 03 Oct 2026 14:05:12 GMT — https://collider.com/best-action-movies-of-all-time/
 
-We’re living in an era where arguably the biggest crowd-pullers are not movie stars but a filmmaker and a fictional character. This summer saw both operating at the peak of their popularity. Spider-Man: Brand New Day , the fourth installment of the superhero series starring Tom Holland , grossed around $2.5 billion at the worldwide box office, despite signs that audiences had lost interest in the genre as a whole. Around the same time, Christopher Nolan delivered his biggest-ever hit, The Odyssey , which outgrossed previous films such as The Dark Knight and Oppenheimer . Remarkably, The Odyssey has almost doubled the global haul of Inception . The movie still hasn’t landed on the PVOD market, given Nolan’s strict theatrical exclusivity demands, but audiences can revisit one of his past hits this October on Netflix.
+Action movies are awesome. There's no need for any ostentatious language to state the obvious. Action movies aren't often made to be profound or to earn critical points. They're made to excite and entertain, and they do it better than just about any other genre. Through impressive stuntwork, explosive effects, stellar cinematography and tight editing , action movies leave everything else in the dust. All well-made action movies are technical achievements, but the best of all time are even more than that.
 
-### Ridley Scott's Epic War Thriller Is Officially Free to Stream
-Sat, 03 Oct 2026 09:20:11 GMT — https://collider.com/ridley-scott-black-hawk-down-streaming-free-fandango-october-2026/
+### ‘Mindhunter’ Fans Have a New Russell Crowe Psychological Thriller Taking Over Netflix
+Sat, 03 Oct 2026 14:00:12 GMT — https://collider.com/unabomber-russell-crowe-netflix-streaming-hit-october-2026/
 
-One of Ridley Scott 's most accomplished films, which earned him an Academy Award nomination for Best Director, has officially landed on free streaming. The intense combat drama released in 2001 arrived during a defining stretch for Scott, following Gladiator and reinforcing his command of ambitious, large-scale filmmaking. It was not only a critical hit, as shown by its Certified Fresh rating on Rotten Tomatoes, but also a favorite with audiences. Furthermore, it won two Oscars for Film Editing and Sound at the 2002 ceremony and remains among Scott's strongest historical works .
+While everyone from David Fincher to Netflix co-CEO Ted Sarandos has expressed disappointment about Mindhunter 's abrupt end, there's no shortage of alternatives out there for fans of the cult classic series. Only a few weeks ago, Hulu debuted the critically acclaimed series Furious , which holds a near-perfect 98% score on the aggregator website Rotten Tomatoes. Netflix itself has created a successful anthology series inspired by infamous serial killers — Ryan Murphy 's Monster — although it has hardly been as well-received as Mindhunter . More recently, the streamer debuted perhaps its biggest consolation prize for Mindhunter fans: a psychological thriller film that has emerged as a major hit despite poor reviews.
 
-### 10 Netflix Sleeper Hits That Got So Much Better After Season 1
-Sat, 03 Oct 2026 09:18:11 GMT — https://collider.com/netflix-shows-sleeper-hits-better-after-season-1/
+### 7 Best DreamWorks Movies of the 2020s, Ranked
+Sat, 03 Oct 2026 13:24:12 GMT — https://collider.com/best-dreamworks-movies-2020s-ranked/
 
-Netflix hosts several shows that weren't iconic standouts upon their first season release, but instead grew into their strengths during later seasons. Some needed their first season to simply set their roots, building their worlds, introducing characters, and finding the right balance between emotion, action, humor, and deeper storytelling. By the time these Netflix shows move on from their introductory chapters, they go on to prove themselves to be sleeper hits that become far more confident and captivating.
+When it comes to family-friendly features, the biggest rival to the House of Mouse might be DreamWorks . Founded by filmmaker Steven Spielberg , former Disney executive Jeffrey Katzenberg , and music mogul David Geffen in 1994, DreamWorks has brought both live-action and animated classics to the cinema . After early success with films like Gladiator and American Beauty , its animated division became the real game changer.
 
-### Rebecca Ferguson's Sci-Fi 'Alien' Replacement Is Officially Taking Over Hulu
-Sat, 03 Oct 2026 09:00:12 GMT — https://collider.com/rebecca-ferguson-sci-fi-thriller-life-streaming-success-hulu-october-2026/
+### HBO’s New Legal Thriller Is Officially One of Streaming’s Biggest Shows
+Sat, 03 Oct 2026 13:15:12 GMT — https://collider.com/war-hbo-succession-replacement-streaming-hit-october-2026/
 
-2026 has been a busy year for Rebecca Ferguson , who starred in one of the first sci-fi movies with Mercy . Despite Ferguson’s star-power paired with Chris Pratt ’s action prowess, Mercy was one of the first sci-fi bombs of the year, but the film did go on to find success as one of the most-watched films of 2026 on Prime Video. Ferguson then returned to form with the third season of her hit Apple TV sci-fi show, Silo , which recently wrapped up a few weeks ago but is still holding strong with a top spot on streaming charts. Apple TV has already confirmed that Season 4 will premiere next summer. Ferguson is even returning to her role as Lady Jessica in Dune: Part Three , but she will only have one scene in the trilogy-capping sci-fi epic.
+After the success of The Undoing and Big Little Lies , HBO appears to be hedging its bets on a new mystery thriller series that aims for broader appeal. The new series premiered on October 1, and instantly found spots on the domestic and global HBO Max viewership charts. The new series has shades of HBO's Succession and is designed as an anthology that follows a heated rivalry between two competing law firms. Succession's impact can be felt far and wide; the dark comedy-drama ended its acclaimed run in 2023 and has influenced everything from MobLand to The Gentlemen . The new HBO series will air all the way through October and conclude its eight-episode premiere season on November 19.
 
-### 'Saving Private Ryan' Meets '28 Days Later' in J.J. Abrams’ Cult Classic Sci-Fi Thriller Leaving Paramount+
-Sat, 03 Oct 2026 08:40:11 GMT — https://collider.com/jj-abrams-cult-classic-overlord-leaving-paramount-plus-november-2026/
+### 'Scrubs' Star Confirms How the Revival Fixed One of the OG Show's Biggest Problems
+Sat, 03 Oct 2026 13:01:12 GMT — https://collider.com/scrubs-revival-season-2-tosh-ava-bunn-hulu/
 
-After a seven-year gap, J.J. Abrams made a return to the sci-fi genre this year as a producer on The End of Oak Street . Directed by David Robert Mitchell , the film starred Anne Hathaway and Ewan McGregor in the lead roles. It grossed around $120 million worldwide against a reported budget of $80 million, not quite breaking even at the box office, given the typical revenue split between studios and exhibitors. In the months leading up to its release, The End of Oak Street was strongly rumored to be a part of the Cloverfield anthology series, much like another Abrams-produced film from 2018. Neither movie ultimately turned out to be a Cloverfield installment, but both can be watched at home.
+When Season 1 of the Scrubs revival debuted this April, it arrived 16 years after the original series had attempted to introduce a brand-new generation of doctors. Season 9's ill-fated attempt probed that the transition came too quickly. Swapping out the established leads felt jarring, while the main trio of doctors was still too close to their own training to have the years of experience needed to be effective mentors. The Scrubs revival has now put that awkward chapter to bed . Season 1 introduced a new group of doctors ready to make their own mistakes under the watchful eyes of J.D. ( Zach Braff ), Turk ( Donald Faison ), and Elliot ( Sarah Chalke ), creating a new team at Sacred Heart without losing the dynamic that made the original series work.
 
-### M. Night Shyamalan Officially Reveals the Bold Visual Trick in His New Psychological Thriller [Exclusive]
-Sat, 03 Oct 2026 08:30:12 GMT — https://collider.com/m-night-shyamalan-remain-movie-aspect-ratio-changes-meaning-explained/
+### Brad Pitt’s Haunting ‘Interstellar’-Style Sci-Fi Thriller Is Officially on Netflix
+Sat, 03 Oct 2026 12:45:12 GMT — https://collider.com/brad-pitt-sci-fi-ad-astra-streaming-netflix-october-2026/
 
-For the first time, Academy Award-nominated filmmaker M. Night Shyamalan attended a West Coast retrospective of his work for Beyond Fest , in collaboration with American Cinematheque . The annual genre festival hosted Night Visions: The Shock and Awe of M. Night Shyamalan , showcasing 12 of Shyamalan’s features, from The Sixth Sense to The Eastrail 177 Trilogy.
+Space movies don't just need to have aliens, or supernova explosions, or Death Stars to make them worthwhile, and particularly, to make the infinite darkness of the universe anything less than terrifying. Sometimes they just need Brad Pitt having interstellar daddy issues , several billion miles of absolutely nothing, and pirates on the moon to make it a fun day out.
 
-### Netflix Dropped This Iconic ’90s Teen Movie, but Starz Is Officially Saving It
-Sat, 03 Oct 2026 08:20:12 GMT — https://collider.com/paul-rudd-clueless-streaming-starz-october-2026/
+### Chris Pratt’s ‘Reacher’-Style Action Thriller Officially Returns After a 4-Year Hiatus
+Sat, 03 Oct 2026 12:30:12 GMT — https://collider.com/chris-pratt-the-terminal-list-season-2-release-date-october-2026/
 
-Paul Rudd is one of the many MCU alumni joining the cast of the upcoming Avengers: Doomsday . The MCU's biggest project since Endgame , which is currently re-released in theaters , almost anyone associated with the franchise has been announced in a frankly jaw-dropping cast list. This includes a host of the original X-Men (including Patrick Stewart and Ian McKellen ), Robert Downey Jr . as Doctor Doom , Chris Hemsworth , Anthony Mackie , Tom Hiddleston, Florence Pugh , Vanessa Kirby , Pedro Pascal , and many, many more.
+Research has indicated that shows that take too long between seasons tend to lose more viewers. By this standard, Prime Video's action series The Terminal List is in a particularly precarious position. The show premiered back in 2022, and will return with a long-awaited second season this month. However, the four-year gap is highly unusual. Even Netflix's The Gentlemen , which proved to be immensely popular after its debut in 2024, lost 45% of its viewers upon its return this year. And it was dealing with only a two-year break. Prime Video tried to mitigate the risks involved with The Terminal List by pushing forward with a spin-off series titled The Terminal List: Dark Wolf , which was released in the interim.
 
-### J.J. Abrams' Near-Perfect Sci-Fi Nightmare Officially Finds a New Streaming Home
-Sat, 03 Oct 2026 08:00:11 GMT — https://collider.com/10-cloverfield-lane-streaming-peacock-october-2026/
+### The 10 Greatest Sci-Fi Cult Classic Movies, Ranked
+Sat, 03 Oct 2026 12:29:12 GMT — https://collider.com/best-sci-fi-cult-classic-movies-ranked/
 
-Being trapped in an underground bunker as the world outside you falls apart is a grim situation in its own right, but when you're trapped underground with a very large and angry man — a man who claims to have saved your life, but you can't help suspecting he may have actually kidnapped you — then it might be worse. And that's the wonderfully uncomfortable setup behind one of the best sci-fi thrillers of the last decade.
+When it comes to cult films, the science fiction genre has a galaxy's worth of movies. The genre attracts a certain amount of creative ambition that often results in films that don't necessarily appeal to mainstream audiences or critics. They may not have found success at the box office, but they all found rabid fanbases, some of which have grown so large that the films themselves have become canonized, and even launched whole franchises. Even with that kind of success, these films all still proudly wear their cult classic status as a badge of honor.
 

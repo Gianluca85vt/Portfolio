@@ -1,6 +1,11 @@
-# Tech — harvested 2026-10-03T10:02:57.444Z
+# Tech — harvested 2026-10-03T14:54:55.321Z
 
 ## Ars Technica
+
+### The dawn of the age of the exoskeleton
+Sat, 03 Oct 2026 11:15:33 +0000 — https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/
+
+This year, members of Seattle Mountain Rescue have been setting off into the wilds of the US Pacific Northwest wearing an unusual piece of kit . They’ve been hiking into the wilderness with powered assistive devices attached to their hips and legs. Designed to increase lower-body strength when climbing or carrying heavy loads, these pieces of equipment are being tested to see if they can boost rescuers’ speed and endurance when it matters most—during searches for stranded people. Devices like these are called human exoskeletons . They attach to parts of the body to create an external—or “exo”—mechanical structure. This powered frame enhances the wearer’s physical capabilities. Read full article Comments ]]>
 
 ### Apple changes full-disk access permissions to curb abuse from AI agents
 Fri, 02 Oct 2026 23:03:16 +0000 — https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/
@@ -57,12 +62,17 @@ Fri, 02 Oct 2026 16:05:26 +0000 — https://arstechnica.com/cars/2026/10/tesla-s
 
 Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total production at Tesla actually increased year over year; it built 464,391 vehicles—a 3.7 percent increase—457,387 of which were Models 3 and Y (a 4.9 percent increase year over year). The remaining 7,004 were other models, mostly Cybertrucks, with presumably some Semis and Cybercabs, as the Models S and X are now retired; this category saw a 39.8 percent decrease year over year. Read full article Comments ]]>
 
-### The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI
-Fri, 02 Oct 2026 14:52:16 +0000 — https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/
-
-The era of generative AI has upended technology supply chains, and there is one ironclad rule in 2026: If it has memory or storage, it's getting more expensive. Even devices with years-old tech inside are still apparently subject to that unwritten rule. Nvidia has just announced that the Shield TV Pro is getting $100 more expensive, effective immediately. The most recent version of the Shield streaming box debuted in 2019, running Android TV with AI upscaling and hardware decoding for almost any type of media. While it ran an aging Tegra X1+ processor, that was (and still is) fast for a TV media streamer. The device launched at $199.99, with a non-Pro variant at $149.99. The non-Pro Shield has since been discontinued, but the Shield TV Pro lives on at the new $299.99 price. Nvidia has confirmed that you can blame AI for the higher Shield TV pricing. "Starting October 2, SHIELD Pro will be priced at $299. The cost of components, including memory, has increased substantially across the industry," a spokesperson told Ars. Read full article Comments ]]>
-
 ## The Verge
+
+### An OpenAI safety employee has quit and is sounding the alarm
+2026-10-03T10:31:56-04:00 — https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm
+
+David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic . It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous the thing they helped build is. They did, after all, make this mess. But that doesn't mean we should discount their warnings. Robinson says that the culture in industry is fundamentally broken. That this is a deeper issue than simply slapping a few new rules or regulations on how we handle training models. Silicon … Read the full story at The Verge. ]]>
+
+### 3D movies are finally worth watching
+2026-10-03T08:00:00-04:00 — https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro
+
+My colleague Cameron Faulkner models a pair of Xreal glasses. | Photo: Cameron Faulkner / The Verge Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and went on to become the highest-grossing film worldwide. Video glasses are giving me the experience I've always desired. I've always loved 3D movies, but viewing them was awkward. Walking into a movie theater with a pair of polarized glasses, I would only get half the resolution and roughly half the brightness, since those glasses had to split one reflected image between my two eyes. Almost every … Read the full story at The Verge. ]]>
 
 ### Meta open sources code to let you make Muse AI gadgets
 2026-10-02T17:08:37-04:00 — https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link
@@ -104,79 +114,94 @@ Rivian had high hopes for its more affordable R2 vehicle - and so far, those hop
 
 Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explaining the increase , Beehiiv cofounder and CEO Tyler Denk says it will allow the company to "continue investing in our core platform experience." As part of the change , Beehiiv is changing the name of its midrange Scale plan to Lite, which has gone up by at least $10 per month depending on subscriber count. For someone with up to 10,000 subscribers, for example, Beehiiv will charge $139 / month instead of $109. Meanwhile, the Pro plan (formerly Max) will cost $239 / month for up to 10, … Read the full story at The Verge. ]]>
 
-### Nacon’s new PS5 controller can mix audio from your phone and console
-2026-10-02T12:35:13-04:00 — https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller
-
-Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimited 's screen can also be used to mix audio from multiple sources so while using a pair of headphones connected to the gamepad with a cable you can listen to music from your phone and sounds from the game you're playing at the same time. The Revolution 5 Unlimited is available for preorder starting today for $229.99 through Nacon's online store and is expected to ship sometime later this year. Whi … Read the full story at The Verge. ]]>
-
-### Dots get up in Muse’s business
-2026-10-02T11:47:05-04:00 — https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast
-
-OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character, just like you can make a cute little Muse character. But OpenAI's early marketing is all about how you can use it to do Business Things: launch websites, reschedule calls, build slide decks for board meetings. Muse, on the other hand, keeps reminding me to buy a jacket I looked at. This week on The Vergecast , we're talking about Dots and the current state of agentic assistants. Our conversatio … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
 
-### Toshiba to double HDD production capacity amid devastating shortages
-Fri, 02 Oct 2026 16:00:45 +0000 — https://www.tomshardware.com/pc-components/hdds/toshiba-to-double-hdd-production-capacity-as-30tb-class-loom-65tb-100tb-drives-on-the-roadmap-for-2030-and-beyond
+### Find tech deals in Newegg's Fantastech Sale ahead of Amazon's Big Deals Day — early shoppers get automatic refunds if hardware prices drop lower
+Sat, 03 Oct 2026 14:40:00 +0000 — https://www.tomshardware.com/gift-guides-seasonal-sales/find-tech-deals-in-neweggs-fantastech-sale-ii-ahead-of-october-5-price-protection-guarantee-lets-you-start-shopping-now
 
-Toshiba has spent approximately ¥60 billion ($380 million) to expand its hard drive assembly capacity in the Philippines, doubling its production capacity for nearline HDDs in fiscal 2027 compared to fiscal 2025, reports Nikkei . The capacity expansion coincides with Toshiba's plans to launch next-generation 30TB-class hard disk drives in 2027 and will prepare the company for 65TB-class HDDs by 2030 and 100TB-class drives in the future. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps As part of the expansion, Toshiba has installed additional manufacturing lines at its Philippine Laguna Technopark (LTI) facility to build nearline hard drives and prepare it to produce next-generation HDDs that increase storage capacity per drive by as much as 40%. The 40% claim clearly points to the company's next-generation M12-series hard drives that rely on microwave-assisted magnetic recording (MAMR) technology, use up to 11 platters, and offer capacities of over 30TB. Meanwhile, as the new product lines have already been installed and the first shipments from them have been made (meaning that the new production lines are at least partly qualified), the ramp of next-generation drives can start anytime. In addition, the company plans to introduce more automatio
+Running in conjunction with Amazon's Prime Big Deals Day, Newegg has also announced its own big sales event with the return of the Fantastech Sale II event. The Fantastech sale kicks off on October 5th and lasts until October 11th . Newegg has returned the popular price protection guarantee, aptly named Fantastech Price Protection, which lets you shop from now until the official start date of the Fantastech Sale II on October 5th, 2026. The price protection guarantee runs between September 28th and October 4th, so you can happily browse and shop right now, and should the price drop lower during the Fantastech Sale II dates, the difference in price will be automatically refunded to you starting October 21st. With deals on everything from PC hardware components to prebuilt gaming PCs, laptops, monitors, and more, there's sure to be something of interest to take a look at during the sale. We've thrown our deal eyes over the many early offers available in Newegg's October sale so far and picked a selection of what we think are the best value-for-money deals available and curated them below. Quick Links Save 17% on a 2TB Silicon Power SSD Grab a $499.91 discount on a new ABS gaming PC Superb value RTX 5060 Ti 16GB gaming PC at just $1,499 Just $57 for a portable 15.6-inch travel monitor 2TB NVMe PCIe Gen3 X4 M.2 2280 SSD: was $291.79 now $242.79 A large 2TB storage drive, perfect for installing some of those unplayed games from your Steam library. Sports read speeds of 2,200MB/s a
 
-### Leaked Intel Nova Lake product list has three 'BFC' chips with up to 144MB of game-boosting L3 cache
-Fri, 02 Oct 2026 15:34:13 +0000 — https://www.tomshardware.com/pc-components/cpus/rumored-intel-nova-lake-table-lists-three-bfc-chips-with-up-to-144mb-of-l3-next-gen-cpu-lineup-takes-shape-with-up-to-28-cores-in-core-ultra-9-4970k-bfc
+### Buying used CPUs can expose users to existing bans from anti-cheat engines, and there's no way to check for violations before purchase
+Sat, 03 Oct 2026 14:09:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/buying-used-cpus-can-expose-users-to-existing-bans-from-anti-cheat-engines-some-anti-cheat-engines-enforce-permanent-bans-while-others-have-an-expiration-date
 
-A rumored SKU table for Intel's upcoming Nova Lake desktop CPUs has surfaced, showcasing seven models that will (presumably) make up Intel's initial NVL-S lineup. The list includes three models with the "BFC" tag, which seems to be Intel's branding for bLLC, or big last level cache. It's been heavily rumored to show up with Nova Lake, countering AMD's assault on the best CPUs for gaming with its X3D chips. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent As previously rumored, the table tops out at the flagship Core Ultra 9 4970K BFC, which the spec list suggests is a 28-core chip with 8 P-cores, 16 E-cores, and 4 LPE-cores. It also lists a 125W TDP and an integrated GPU with 32 Execution Units (EUs). This 32-EU iGPU is apparently a staple across the range, short of the Core Ultra 5 4650KF, which lacks integrated graphics. Intel retired the use of "EUs" in favor of its Xe cores several years ago. Rumors suggest Intel isn't releasing a large, 12-Xe core model of Nova Lake. The 32-EU count here likely comes out to 4 Xe cores (each core has eight matrix and vector ALUs). The table does not include the heavily r
+A gamer from Germany bought a used AMD Ryzen 7 5800X3D and got slapped with a Valorant ban. u/After-Cartoonist-196 shared the problem on the r/PCBauder subreddit [machine translated]; although the processor worked perfectly fine when they ran their computer, they were immediately kicked out after they fired up the game. When they reached out to Riot for support, they found out that the CPU they bought on Sep. 21, 2026, was blacklisted by Vanguard on Aug. 12, 2026, because its previous user apparently cheated on Valorant. However, while the CPU has a ban enforced, Riot Games says the ban duration is four months. In contrast, other anti-cheat engines enforce permanent bans using similar hardware ID systems. pcbaumeister from r/PCBaumeister/comments/1wqomor/gebrauchte_cpu_erlaubt_kein_valorant Unfortunately, Riot customer service told them that they cannot reverse the ban, which stemmed from the CPU HWID and has seemingly affected the user’s Valorant account. u/After-Cartoonist-196 said this wasn’t really a big issue for them but also added that “everything else from my system is now also on the blacklist.” This story has picked up steam on X, which led to Riot Games anti-cheat specialist Phillip Koskinas saying that hardware bans only last for a maximum of four months and that they’re game-specific. Customer support would also tell customers how much time they have left on their ban, and that the anti-cheat system only matches one component on the denylist, not all the parts of
 
-### California tech CEO arrested, faces up to 20 years in prison for smuggling $300 million in Nvidia AI servers to China
-Fri, 02 Oct 2026 14:53:41 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/california-tech-ceo-arrested-faces-up-to-20-years-in-prison-for-smuggling-usd300-million-in-nvidia-ai-servers-to-china-federal-prosecutors-say-chips-were-routed-through-malaysia-and-singapore-using-false-paperwork
+### This week on Tom's Hardware Premium: October 3, 2026
+Sat, 03 Oct 2026 14:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/this-week-on-toms-hardware-premium-october-3-2026-ai-chip-design-week-openai-interview-and-ai-agent-safety
 
-A California man has been arrested for smuggling over $300 million worth of restricted Nvidia chips to China in violation of U.S. export controls. According to a U.S. Department of Justice (DoJ) press release on October 1, the defendant — Greg Lui, also known as Yiu Kong Lui — and unidentified co-conspirators smuggled the chips in high-end servers from 2023 to 2024. He allegedly first exported the chips to Malaysia and Singapore, jurisdictions where the restrictions don't apply, before shipping them to buyers in China, including the Chinese government. Authorities say the defendant, owner of California-based company Earthmade Computer Inc., and his co-conspirators had used false paperwork to misrepresent the chips’ final destination, purporting that the controlled chips would be going to permissible end users and end destinations that did not require an export license. “This defendant allegedly used false paperwork and shipments through third countries to smuggle more than $300 million in export-controlled computer servers to China,” said First Assistant U.S. Attorney Bill Essayli for the Central District of California. The DOJ has charged Lui with “one count of conspiracy to violate the Export Control Reform Act and the Export Administration Regulations, one count of outbound smuggling, and one count of conspiracy to commit money laundering.” If convicted of all charges, the defendant could face up to 20 years in prison. He was arraigned and made his initial appearance on Oc
+Over at Tom's Hardware Premium , we've been publishing a slew of stories centered around our themed AI Chip Design Week , where you can learn more about how artificial intelligence is reshaping the chipmaking world. Each article in our series of stories is free to access for a limited time, and we're extending the free period over the weekend until Monday, October 5, so you don't miss out. Headlining this week is our interview with OpenAI hardware VP Richard Ho, talking all things Jalapeño, the Broadcom co-developed inference ASIC that the company debuted earlier this year at Hot Chips 2026. The interview dives into how the company used AI within its design processes, beating Nvidia on efficiency, and demystifying common misconceptions like only being optimized to run OpenAI models. This lengthy read is a full, unredacted transcript of our session with Ho, so don't miss out. OpenAI Jalapeño design interview transcript — hardware VP Richard Ho explains how AI-assisted design may shape the future of inference ASICs But how close is AI to designing the very silicon that it runs on? We explore the concepts, products, and everything else shaping the industry in our pair of exhaustive primers on the subject, covering the companies seeking to make the chips themselves. We've also broken down all of the tools currently in use, with comments directly from Synopsys, and a breakdown of all claims from vendors currently using AI within their chip design workflows. Additionally, during th
 
-### BiWin's CL 100 Mini is a particularly puny but potent SSD for portable gaming
-Fri, 02 Oct 2026 14:30:00 +0000 — https://www.tomshardware.com/pc-components/storage/biwins-cl-100-mini-is-a-particularly-puny-but-potent-ssd-for-portable-gaming-15-x-17-mm-in-size-and-up-to-2tb-in-capacity
+### Steam hits record $1.7 billion in September 2026 despite soaring PC hardware costs — platform approaches 21,000 new releases in 2026, on track to top $20 billion annually
+Sat, 03 Oct 2026 13:35:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/steam-revenue-hit-usd1-7-billion-in-september-2026-pc-gaming-spending-grows-despite-skyrocketing-hardware-costs
 
-Owning a PC gaming handheld is quite handy, but sometimes involves playing uncalled-for matches of Tetris with the internal storage, especially as games get larger. Storage expansion often comes by way of microSD cards, which can be added without opening the console, but can be slower than NVMe SSDs. BiWin's CL 100 Mini NVMe SSD tackles both those problems, arriving in a 15 x 17 mm form factor with custom casing. It's effectively the size of a microSD card. The diminutive unit was spotted earlier in the year, but hadn't been given a name or selling price until recently. The unit is currently bespoke to BiWin's OneXPlayer consoles (OneXFly Apex/Air, OneXPlayer 3, X1 Air, X2 Mini, and Super V/X) as well as the GPD Win5. These systems have hardware slots specifically for this size drive that you could insert like an SD card. For comparison, the M.2 2230 drive inside the Steam Deck and other portables is, unsurprisingly, 22 x 30 mm — much larger, and it requires opening the machine, plus one of those annoying little M.2 screws. 512 GB at Amazon UK 1 TB at Amazon UK 2TB unit only available from third-party sellers at Amazon UK Drive reader at Amazon UK Despite the physical format being manufacturer-specific, the CL 100 Mini appears to be a standard NVMe 1.4 drive with a PCIe 4.0 interface. The installation instructions are simple. The Silicon Motion SM2268XT2 controller is a standard NVMe affair, and it's also used in standard M.2 2280 Crucial and Kingston drives, among others. (I
+PC gaming continues to see an upward trend despite rising hardware costs, as Steam is estimated to have generated a record $1.7 billion in revenue for September 2026. According to Alinea Analytics , Steam had its best September ever with a 13% jump compared to the previous record set in September 2025. It also had its strongest third quarter on record, generating an estimated $5.5 billion in revenue, an increase of 12% from the same period last year. That brings Steam's estimated revenue for the first nine months of 2026 to $16.5 billion, compared to $14.5 billion during the same period in 2025. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps Among the 500 top-grossing games on Steam last month, new IP releases in 2026 generated 20.5% of the revenue, while established IP accounted for 79.5%, including 3.8% from remakes and remasters. Several major releases helped drive revenue during the month, including Wardogs, generating an estimated $86.9 million since its early-access launch on September 10; Onimusha: Way of the Sword at $30.4 million; and The Blood of Dawnwalker bringing in $26.9 million. (Image credit: Alinea Analytics) Free-to-play games also remained an important part of Steam's business, with Counter-Strike 2, Apex Legends, PUBG, and D
 
-### Sony brings AI-powered upscaling to the standard PS5
-Fri, 02 Oct 2026 14:10:00 +0000 — https://www.tomshardware.com/video-games/console-gaming/sony-brings-ai-powered-upscaling-to-the-standard-ps5-new-qssr-technology-to-deliver-a-taste-of-the-ps5-pro-experience-streamlined-neural-network-tech-built-with-amd
+### AI agents use 5x more tokens than humans as cached prompts explode, headed for 10x
+Sat, 03 Oct 2026 13:10:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/futurum-ceo-says-agents-use-ai-5x-more-than-humans-number-will-eventually-hit-10x-but-agents-are-mostly-rereading-what-theyve-already-seen
 
-The PlayStation 5 is getting AI-driven upscaling, giving base console owners access to the technology that was previously available on the more powerful PlayStation 5 Pro. In a blog post , Sony introduced Quick Spectral Super Resolution (QSSR), a new version of its AI upscaling technology for the PS5, with Marvel’s Wolverine and Ghost of Yōtei being the first games to support it. Sony originally introduced PlayStation Spectral Super Resolution (PSSR) as a highlight feature when it launched the PS5 Pro . The technology uses AI to analyze frames on a pixel-by-pixel basis and reconstruct them at a higher resolution. This helps improve image detail and temporal stability while allowing games to render internally at a lower resolution. However, the computational requirements of PSSR meant that the feature was not available on the standard PS5. According to Sony, QSSR uses a streamlined neural-network architecture and a hand-tuned implementation intended to maximize performance on the PS5. The company describes it as a new performance tier of AI upscaling rather than a direct replacement for PSSR, which remains the “gold standard” solution on the PS5 Pro. Sony does not intend to limit the new upscaling tech to its own studios, as the QSSR library will be offered to all PlayStation developers. This will allow more PS5 games to adopt the technology in the future and give developers an option for balancing rendering resolution, performance, and image quality on the aging console hardw
+Futurum Group CEO Daniel Newman wrote in an X post that “AI is currently used by AI 5x more than it is used by humans. That number will accelerate to 10x and then higher and higher.” His data, an Andreessen Horowitz (a16z) chart of OpenRouter figures, shows agents at 7.3 trillion tokens versus humans’ 1.4 trillion as of August, six months after agent usage first surpassed humans. But the agents are mostly rereading what they’ve already seen: more than 85% of agent tokens come from cached prompts, a16z wrote, citing OpenRouter. AI is currently used by AI 5x more than it is used by humans. That number will accelerate to 10x and then higher and higher.We keep speaking to human adoption when trying to determine ROI, but the utilization and scale is exponentially larger than that. September 30, 2026 OpenRouter is “a leading AI model gateway and routing platform.” A chart from its head of insights, Peter Walker, lists “7-day average token usage on OpenRouter split by type.” It states that, since the February crossover point, agents are using 14x more tokens while human usage is up 2.8x. The a16z chart in Newman’s post shows the same data. OpenRouter sorts each API key into one of three categories: agentic, mixed, or human, using a “7-signal weighted composite score that includes inputs such as tool call rate, turn count, gap timing, and others.” (Image credit: OpenRouter) The mixed category, possibly covering behavior that is part agent and part human, grew 4.7x over the same perio
 
-### Amazon and Synopsys ink multi-year billion-dollar deal in multi-year IP agreement to accelerate AI chip design efforts
-Fri, 02 Oct 2026 13:50:00 +0000 — https://www.tomshardware.com/tech-industry/amazon-and-synopsys-ink-multi-year-billion-dollar-deal-in-multi-year-ip-agreement-to-accelerate-ai-chip-design-efforts-synopsys-to-adopt-amazon-bedrock-to-deploy-ai-agents-harnessing-aws-compute-and-storage-capabilities
+### Scare up big savings in Bambu Lab's Halloween sale right now, with up to 30% off
+Sat, 03 Oct 2026 12:50:00 +0000 — https://www.tomshardware.com/3d-printing/scare-up-big-savings-in-bambu-labs-halloween-sale-right-now-with-up-to-30-percent-off-grab-usd250-off-the-dual-extruder-h2d-plus-bulk-spool-discounts-and-pumpkin-themed-bundles
 
-Amazon and chip design tool maker Synopsys are entering a multi-year deal, said to be worth over a billion dollars, in which the two companies will deepen their cooperation on AI chip design, while better optimizing their tools for one another's services. As part of the deal, Amazon will license Synopsys' IP and expand its use of Synopsys' electronic design automation (EDA) software tools for AI chip design and agentic AI technologies. The deal goes both ways. From its side of the equation, Synopsys will work with Amazon to optimize its multiphysics solutions for Amazon Trainium and Graviton chips, will adopt AWS cloud computing and storage services, and will begin using Amazon Bedrock to build and deploy AI applications and agents for its own development work. Although there's clearly some element of cooperative back-scratching with this deal, Synopsys and its competitors are moving towards automating ever greater portions of the chip design process . Amazon ensuring that process is optimized for Amazon hardware places it in a much more favorable position in a world where chip design is easier and faster. Especially with many of the major AI companies looking to develop their own inferencing hardware to ease costs from pricey Nvidia GPUs. Building the future, together Many of the major AI developments in 2026 have centered around the use of AI agents, leading to hardware shortages and a race to fill that gap with optimized hardware. The Synopsys/Amazon deal could put both co
+Bambu Lab's brilliant 3D printers are on sale right now for Halloween . If you're in the mood for something spooky and you're looking to print some awesomely scary models, then a new 3D printer from Bambu Lab is the answer. Bambu Lab's Halloween sale coincides with Amazon's Big Deal Days sales event between October 6 and October 7. Bambu Lab's sale is running even longer, with deals on sale until October 16. That means you'll see some discounts on Amazon, along with Bambu Lab's own website, for both printers and filament. ● Check out Bambu Lab deals at Amazon ● See all Bambu Lab Halloween sale deals It also means you can pick up savings of up to 30% directly from Bambu Lab. One of the biggest printers on sale is this $250 discount on the Bambu Lab H2D with AMS combo, down to $1,749 . You can also pick up some of the other favorites, like the Bambu Lab P1S for $399 , as well as the A1 for $299 . These represent big price drops compared to their original pricing earlier in the year, with the P1S originally priced at $699, and the A1 $399. However, it's the consumables that are seeing the biggest discounts right now. Bambu Lab is running a 30% discount on filament when you buy it in bulk . If you pick up two items, you'll get 5% off, with the full 30% off given for 10 items or more. You can find the best Bambu Lab deals that are currently running listed below. We've included links to Bambu Lab printers that we've previously reviewed, too, which you can check before you buy to se
 
-### Flock drones with cameras deployed as first responders in some US cities amid privacy concerns
-Fri, 02 Oct 2026 13:20:00 +0000 — https://www.tomshardware.com/tech-industry/drones/flock-drones-with-cameras-deployed-as-first-responders-in-some-us-cities-amid-privacy-concerns-uavs-connect-to-wider-emergency-services-system-and-streams-video-to-dispatchers-officers
+### Malicious VPN config files can let attackers run commands on Asus routers
+Sat, 03 Oct 2026 12:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/malicious-vpn-config-files-can-let-attackers-run-commands-on-asus-routers-companys-patch-also-fixes-a-bug-that-lets-a-logged-in-attacker-switch-on-telnet-with-root-access
 
-Several towns and cities in the U.S. are experimenting with Flock’s Drones-as-First-Responder (DFR) system, which employs remotely operated drones that automatically launch from rooftop docks. According to Military.com , these units are integrated into emergency services systems, which can send drones in response to a 911 call, license-plate reader notification, or gunshot-detection alert. Once in the air, these units stream live footage to dispatchers and officers in the field. Flock initially gained this capability when it purchased drone firm Aerodome, which sells drones with high-definition video, thermal imaging, and other onboard capabilities. It’s also not the only company advertising similar services, with one startup advertising a Starlink-connected first responder drone that lets it operate outside the range of its base station. Some of the cities that are considering, have run a pilot project, or have signed a contract with Flock for its DFR system include Fort Worth, Texas; Castle Rock, Colorado; Dunwoody, Georgia; Fulton County, Georgia; and Middletown, Connecticut. Fort Worth said that during the two-month pilot program, the drone was deployed to 162 emergency 911 calls, with an average response time of 112 seconds. It was also the first unit to arrive in 76 of these calls and even allowed the authorities to clear 11 of them without needing to send officers to the scene. Furthermore, the city said that these units only respond to calls and do not patrol the skie
+A “crafted VPN client configuration file” uploaded by the user or a logged-in attacker via an Asus router’s web management interface can allow an adversary to “execute arbitrary commands,” a critical security risk the company has acted to patch . A second, separate bug, which uses debug code left active, allows the attacker to bypass security checks in order to enable Telnet and may allow commands to be run “with root privileges,” potentially affecting devices connected to the router. Asus recommends that users “only import VPN client configuration files from trusted sources.” The two CVEs, CVE-2026-14157 and CVE-2026-13313, score 9.4 and 8.9 out of 10 on the Common Vulnerability Scoring System (CVSS) 4.0 scale, which measures vulnerability severity. Asus names firmware series rather than models: 3.0.0.6_102 for both bugs, with the 3.0.0.4_386 and 3.0.0.4_388 series also affected by the Telnet one. The routers can act as a VPN client when set up with a configuration file from a VPN provider. Things go wrong when crafted text inside the uploaded files is read as formatting instructions rather than plain data. VPNs are commonly used to bypass filters and access otherwise unreachable content, but the risk here applies to owners who import VPN configuration files into the router itself, not to VPN apps on a laptop or phone. The separate Telnet flaw relies on enabling the service first before running commands that could impact the network. Besides the firmware update, Asus recomme
 
-### Nvidia introduces 64GB DGX Spark to throw local AI fans a lifeline amid the RAMpocalypse
-Fri, 02 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-introduces-64gb-dgx-spark-to-throw-local-ai-fans-a-lifeline-amid-the-rampocalypse-new-gb10-config-starts-at-usd4999-for-those-who-can-work-with-less
+### Google freezes open-source bug bounty program amid flood of invalid AI slop submissions
+Sat, 03 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/google-suspends-part-of-the-oss-vrp-bug-bounty-program-due-to-an-influx-of-invalid-ai-submissions-product-vulnerability-submissions-ended-october-1
 
-Nvidia is tailoring its popular DGX Spark platform and the GB10 SoC to better fit the realities of today's AI models and the broader silicon supply crunch. The company is introducing a 64GB version of the Spark that's meant to be more affordable to local AI trailblazers who just don't need 128GB of RAM. Back when we first began exploring the capabilities of the DGX Spark and similar systems, the general assumption was that lots of RAM would be necessary to hold the most intelligent models one might want to run, and so unified memory systems built around AMD's Strix Halo, Nvidia's GB10, and Apple's M-series chips could all be configured with 128GB of memory or more. But the AI field moves fast. Highly intelligent dense models like Qwen 3.8 27B can now fit comfortably within 32GB of RAM (albeit with limited context), so the original Spark's 128GB of memory isn't essential for local inference alone. And skyrocketing RAM prices mean that a chip that’s permanently paired with too much costly LPDDR5X is more of a barrier to entry than an asset. So a more affordable Spark with less RAM makes sense for those who need the capabilities and supporting software stack of Nvidia's GB10 Superchip and can live with less memory. A "more affordable" DGX Spark is of course relative in today's market. 64GB GB10 systems from Acer, Asus, Dell, Gigabyte, HP, and MSI are slated to start at $4999 when they launch on October 23. Given the ever-shifting prices of memory and storage right now, they migh
+Google has officially suspended product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) — a bug bounty program — over an influx of invalid AI-driven reports. The company, in an official X post on October 1, encouraged participants to explore other VRP programs and committed to providing an update by the first quarter of 2027, while it reformats and works on this aspect of the program in the meantime. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play The suspension went into effect on October 1 — the day of the announcement — and does not affect product vulnerabilities submitted before that date. Google said it may still accept reports covering product vulnerabilities through the Cloud VRP, “for some Google Cloud repos impacting Google Cloud products.” The suspension also does not affect OSS VRP supply chain reports. In a similar case, Linux ended support for older network drivers due to an influx of false AI-generated bug reports . OSS VRP is a specialized Google security bounty program that incentivizes independent researchers to find and responsibly disclose security flaws across Google's open-source ecosystem. Under this program, product vulnerability submissions focu
 
-### OpenAI’s Jalapeño ASICs are deployed alongside AMD EPYC ‘Turin’ CPUs as hosts, not Nvidia's Vera
-Fri, 02 Oct 2026 12:40:00 +0000 — https://www.tomshardware.com/pc-components/cpus/openais-jalapeno-asics-are-deployed-alongside-amd-epyc-turin-cpus-as-hosts-hardware-vp-says-nvidias-vera-standalone-is-a-little-bit-behind-on-that-maturity-level
+### $5,245 prebuilt RTX 5090 PC's connectors melt after sitting boxed for a year
+Sat, 03 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables
 
-OpenAI’s new Jalapeño ASIC is being deployed internally alongside AMD EPYC Turin hosts, each with 1.5TB of memory. SemiAnalysis described the rack-scale deployment of Jalapeño following the reveal of the chip, which we asked Richard Ho, VP and Head of Hardware at OpenAI, about in an interview. Ho told us that the decision to use Turin was “pragmatic,” describing Nvidia’s new Vera CPU as “a little bit behind… on that maturity level.” “The way we approached that design was really in terms of de-risking and being able to do that design fast. Vera, as a standalone, is a little bit behind on that maturity level. The Turing device is strong. It did what we needed to do, and partly our partners had some experience with it,” Ho told Tom’s Hardware Premium. “For the Jalapeño program, we were trying to make very pragmatic decisions. We wanted to be aggressive on the goals of the performance and the cost, but we didn’t want to take unnecessary risks. That felt like a good design decision that would fit within the parameters of how we make these design decisions." There are many Arm-based CPUs on the market, many of which are deployed internally at different hyperscalers, such as Google Cloud’s Axiom and AWS’ Graviton, but Vera and Arm’s own AGI have been described as agentic CPUs, purportedly accelerating the complex reasoning involved in agentic loops compared to their x86 counterparts from AMD and Intel. We asked Ho about this dynamic, and why Turin was the right choice given the clos
+When a PC gamer's GPU with a 12VHPWR or 12V-2x6 power connector melts, it's often in a computer they built by hand, and they typically only have one chance at recourse — hoping their GPU is under warranty and making a claim. But it ends up that when someone else built your PC, it could open up a can of worms that has two companies pointing the blame at each other while a customer sits with a burned-up RTX 5090, power supply, and power cords. That's what happened to Tom's Hardware reader Anthony DeMarco, whose father purchased a Digital Storm Corsa for him ahead of his first job after graduating from college. DeMarco says he suggested his father purchase the system before RAM prices went up. The system was delivered in May of 2025. DeMarco says he tested the system, then packed it up for when he got a job. That jealousy-inducing system included an AMD Ryzen 9 9950X, 2TB Crucial T700 Pro SSD, 64GB of Kingston Fury RGB RAM, and, crucially, an Nvidia GeForce RTX 5090 from PNY. The computer cost $5,245.00 before tax. DeMarco says he got the computer from his father in August 2026, upon starting his job. He says the problems started two weeks later. "I noticed a strange burning smell from near my computer," he recalled to Tom's Hardware , wondering if it was an issue with dust from another PC he owned. "The next day I noticed my monitor screen kept flickering. I then used Claude to try to figure out the issue and it pointed to the GPU, and then I checked the wires and noticed them 
 
-### Grab an $80 discount on this TP-Link Wi-Fi 7 router with five 2.5G Ethernet ports, now $169.99
-Fri, 02 Oct 2026 12:20:00 +0000 — https://www.tomshardware.com/networking/routers/grab-an-usd80-discount-on-this-tp-link-wi-fi-7-router-with-five-2-5g-ethernet-ports-limited-time-deal-on-the-archer-be550-nets-a-tri-band-router-with-fast-speeds-to-upgrade-your-home-network
+### California subpoenas OpenAI over rogue AI agents conducting hacking attacks
+Sat, 03 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility
 
-Good Wi-Fi is essential around the home, but there's no guarantee that your ISP-provided router is getting its signal where you need it to go. If you're sick of lag, Wi-Fi dropping out, and slow speeds, you'll want to consider this limited-time deal on a TP-Link router. You can pick up the TP-Link Archer BE550 for $169.99 right now , saving you 32% off its list price. ● Check out this TP-Link router deal on Amazon This is a tri-band Wi-Fi 7 router with no less than six antennas to deliver maximum coverage across a typical household in the U.S. This gives you a combined maximum theoretical speed of 9.3 Gbps, split across the 6 GHz band for Wi-Fi 7, along with 5 and 2.4 GHz. If you're using a recent-enough device, Multi-Link Operation (or MLO) means you're able to use different bands, like 5 GHz and 6 GHz, simultaneously for faster speeds and greater reliability. The TP-Link Archer BE550 router packs six antennas, unlocking Wi-Fi 7 support for your network, with five 2.5 Gb Ethernet ports to help you future-proof your home network. View Deal While a lot of modern routers skimp out on high-speed Ethernet ports, you're getting a full set of 2.5 Gb Ethernet connectors here with the BE550, which is also known as the BE9300. One is for WAN, so your internet connection, along with four for other local devices you'll want to hook up, like your gaming PC. Even if your PC is a little older and doesn't feature a 2.5 Gb Ethernet port, it'll be able to hit the maximum speeds for that port 
+The California Department of Justice (DOJ) has subpoenaed OpenAI as it investigates the recent cybersecurity incidents involving the company’s AI models and agents. According to The Register , state Attorney General Rob Bonta said that the state wants to learn more about the cybersecurity incidents involving the company and that the investigation is trying to determine the responsibility of an AI developer if an AI model or agent does something unintended. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “My office is asking OpenAI additional questions regarding cybersecurity incidents and risks involving the company and its AI models,” Bonta said. He also added, “Frontier models can be legitimate tools for cyber defense — at the same time, companies that develop these models and offer them for use have a moral and legal responsibility to ensure that they do not perpetrate or enable cyberattacks, either during model testing and development or once models are placed into service. Developers who fail to do so can and should be held legally accountable, and my office is committed to determining if that is t
 
-### Save $50 on Elgato's biggest Stream Deck
-Fri, 02 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/peripherals/save-usd50-on-elgatos-biggest-stream-deck-this-32-key-monster-macro-pad-is-now-down-to-usd199
+### Amazon promises to spend $1 billion on communities close to its data centers, but critics push back
+Sat, 03 Oct 2026 10:50:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/amazon-promises-to-spend-usd1-billion-on-communities-close-to-its-data-centers-but-critics-push-back-planned-spend-accounts-for-just-0-1-percent-of-its-2026-ai-infrastructure-investments
 
-We're leading up to the biggest sales season of the year, and we're already seeing a large selection of discounts across the board, especially on Amazon. If you're a content creator, streamer, or even a productivity master or coder, then you're fully aware of shortcuts and macro pads. One of the most popular brands in this space is the Elgato Stream Deck, and today, you can pick up the largest of these macro pads with a stunning 20% discount. The Elgato Stream Deck XL is reduced to $199.99 from its original $249.95 list price. So if you want a massive 32-key macro pad to display all your favorite shortcuts, then this could be the deal for you. ● Check out this deal at Amazon Verging on keyboard territory, the Stream Deck XL sports a large 32-key setup, with the keys positioned in an angled stand for ease of use and viewing. The height of the unit makes it ideal for placing in front of you and under your monitor. For streaming, the Elgato Stream Deck can let you control everything from your scene selections, sound, lighting, sound effects, and more. If you can make a shortcut or macro for it, you can save it to a key on the Stream Deck. Plus, each key has an individual LCD that lets you set a custom image to represent whatever's currently mapped to it, making it easy to select the function that you're after with just a quick glance. The Stream Deck can help to supercharge your workflow, assigning a multitude of functions and commands to its customizable macro pad, giving you a
+Amazon announced a new community program called “Built Together,” where the company promised to invest $1 billion over the next five years on data center communities. According to the company blog post , it will provide the funding to the residents while they determine the best use of the funds to be allocated, including projects that reduce electricity bills. “With Built Together, Amazon will add more than $1 billion over the next five years to what we’re already doing — with communities in the driver’s seat to determine what’s most useful for them across education, job training, energy affordability, water and energy preservation, and local priorities,” AWS CEO Matt Garman wrote. He said that Amazon is focusing on three key issues that matter most to residents living near its data centers: education and workforce pathways, community energy affordability and water solutions, and flexible funding for local priorities with communities in the lead. The company says that education and workforce pathways will allow the people living near data centers to pursue associate’s degrees related to in-demand fields at zero out-of-pocket costs, with Amazon covering the shortfall after financial aid. It even claimed that it has already established agreements with local community colleges and expects to launch them in the next few months, with a goal of connecting more than 300,000 students from data center communities to its free degree access. Aside from this, Garman also said that the co
 
-### Micron now has an 88% margin on consumer memory as price hikes drive profits
-Fri, 02 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/pc-components/dram/micron-now-has-an-88-percent-margin-on-consumer-memory-price-hikes-drive-revenue-client-business-is-microns-only-unit-that-shipped-less-memory-this-quarter
+### AMD’s secret Zen 3 gaming CPU had 128MB of game-boosting L3 cache but never saw the light of day
+Sat, 03 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amds-secret-zen-3-gaming-cpu-had-128mb-of-l3-cache-but-never-saw-the-light-of-day-canceled-ryzen-9-5900x3d-breaks-free-from-the-chipmakers-vault
 
-Micron released its fiscal Q4 2026 financial results on Wednesday, expectedly setting another record for revenue with $54.23 billion for the quarter, up nearly five times since the same period last year. Micron also hit a record 87% gross margin, the largest contributor to which was Micron's Mobile and Client (consumer) business unit. Further, Micron's client business was the only one that shipped less memory last quarter, despite bringing in the highest operating margin at 88%. (Image credit: Tom's Hardware) Micron's margins overall are up significantly year-over-year; Core Data Center surged from 25% to 85%, and Automotive and Embedded have climbed from 20% to 79%. The Mobile and Client unit also saw significant growth, with a 29% operating margin in fiscal Q4 2025, and now a margin of 88%. Cloud Memory margins grew, though not to the same extent as other units, moving from 48% to 76%. The gross margins are interesting to look at, too. In a financial statement, the gross margin equals revenue minus cost of goods. Operating margin, on the other hand, equals revenue minus cost of goods and all other operational expenses. The operating margin simply excludes taxes and interest. (Image credit: Micron) The gap between gross and operating margin is what's interesting in the breakdown above. The Mobile and Client unit has the smallest gap, with only a 2% difference. The Core Data Center unit matches the Mobile and Client unit with a 90% gross margin, but it has a lower operating m
+Despite being on the market for four years, the Ryzen 7 5800X3D remains one of the best CPUs for gaming on the AM4 platform. A Ryzen 9 5900X3D, if AMD had released it, would surely have given it a run for its money. Now, years later, an engineering sample of the Ryzen 9 5900X3D has emerged on the Chinese Chiphell forums , giving us a taste of what could have been an awesome 12-core chip for gaming and productivity. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent What is really funny about the Ryzen 9 5900X3D is that we all knew it existed because AMD teased it at Computex 2021 . The chipmaker showcased a “12-core 3D Chiplet Prototype" outperforming a regular Ryzen 9 5900X by up to 15% in average gaming performance, with both processors fixed at a 4 GHz frequency. The Ryzen 9 5900X3D engineering sample (100-000000652-20_48/32_Y) brought to light by a Chiphell user reveals 128MB of L3 cache, double the amount found on the standard Ryzen 9 5900X. This comes from AMD integrating 64MB of 3D V-Cache onto one of the two Core Complex Dies (CCDs) inside the chip. The CPU-Z screenshot also shows a 4,649 MHz clock spe
 
 ## Phoronix
+
+### Moose: GNOME Gains Another Local AI App Option
+Sat, 03 Oct 2026 07:47:01 -0400 — https://www.phoronix.com/news/GNOME-Moose-Local-AI
+
+Beyond the various local AI agent/chat options not catering to a specific desktop environment, the GNOME desktop has seen Newelle as an AI app catering to GNOME/GTK4. There's now another local AI option for the GNOME desktop with Moose...
+
+### KosmicKrisp Now Conformant To Vulkan 1.4, Improving Performance Against Apple s Metal
+Sat, 03 Oct 2026 07:24:07 -0400 — https://www.phoronix.com/news/KosmicKrisp-Vulkan-1.4-2026
+
+KosmicKrisp is the effort led by LunarG for developing a modern Vulkan-on-Metal driver for Apple systems within Mesa. This modern alternative to MoltenVK continues progressing well and now enjoys Vulkan 1.4 conformance and its performance continues inching closer to that of the native Apple Metal API...
+
+### Linux 7.4 To Support The Raspberry Pi 10-Inch Touch Display 2
+Sat, 03 Oct 2026 06:33:10 -0400 — https://www.phoronix.com/news/Linux-74-RPi-10-Touch-Display-2
+
+We are nearing the cut-off of new feature material being accepted to DRM-Next ahead of the Linux 7.4 merge window. But this week another round of DRM-Misc changes made it, which included some new hardware support and other last minute items...
+
+### Linux 7.3 To Better Support The High-End Turtle Beach VelocityOne Race
+Sat, 03 Oct 2026 06:18:05 -0400 — https://www.phoronix.com/news/Linux-7.3-TB-VelocityOne-Race
+
+Coming with Sunday's Linux 7.3-rc6 kernel release is support added for the Turtle Beach VelocityOne Race, a high-end $649~700 USD racing wheel and pedal system...
+
+### KDE Plasma 6.8 Now Makes Tiled Windows Fit Together More Nicely
+Sat, 03 Oct 2026 06:07:10 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-Tiled-Windows
+
+There is just over one week to go until the much anticipated KDE Plasma 6.8 desktop release. Some last minute fixes continue flowing into Plasma 6.8 as well as early feature work continuing for Plasma 6.9...
 
 ### Wine 11.19 Released With Wayland Color Management For Vulkan, DNS Query Caching
 Fri, 02 Oct 2026 20:29:10 -0400 — https://www.phoronix.com/news/Wine-11.19-Released
@@ -213,32 +238,12 @@ Fri, 02 Oct 2026 09:00:03 -0400 — https://www.phoronix.com/news/Mesa-PowerVR-V
 
 Imagination Tech was at XDC 2026 Toronto this week to talk up their ongoing work around their PowerVR Mesa Vulkan driver (and PVR upstream DRM kernel driver) with this driver continuing to improve, plans for supporting their new Volcanic GPU architecture, and other improvements...
 
-### Intel Iris Open-Source Driver Now Supports Efficient 64-bit Addressing Mode
-Fri, 02 Oct 2026 07:46:37 -0400 — https://www.phoronix.com/news/Intel-Iris-Efficient-64-bit
-
-As a follow-up to the news one month ago of Intel Nova Lake P's graphics introducing a new 64-bit GPU mode, the latest driver-side enablement has now landed for Intel's Iris Gallium3D OpenGL driver for supporting efficient 64-bit addressing...
-
-### Ubuntu s Next Rust Effort May See OpenPGP Replaced By Sequoia PGP
-Fri, 02 Oct 2026 06:27:20 -0400 — https://www.phoronix.com/news/Ubuntu-Rust-Sequoia-PGP
-
-Canonical engineer Richard Scott McNew published a status update surrounding the Rust programming language efforts in the upcoming Ubuntu 26.10 release. Sequoia PGP is being rolled out to Ubuntu Linux and in a future release may end up replacing OpenPGP...
-
-### Apex Compute Developing Open-Source Mesa Vulkan Driver For Their Hardware
-Fri, 02 Oct 2026 06:17:55 -0400 — https://www.phoronix.com/news/Apex-Compute-Mesa-Vulkan
-
-Apex Compute is the company started in California in 2024 that aims to produce high-efficiency AI accelerators for real-time edge AI inferencing. So far they have an FPGA prototype for licensing and deployment and carries the bold claim of being "20x faster than the NVIDIA Jetson" and at under 10W and one fifth the cost. Making Apex Compute much more interesting to us now is that they are developing an open-source, Mesa-based Vulkan driver for their hardware...
-
-### Coreboot 26.09 Released With Framework Laptop 12 Support, AI Review Comment Policy
-Fri, 02 Oct 2026 06:06:11 -0400 — https://www.phoronix.com/news/Coreboot-26.09-Released
-
-Coreboot 26.09 released yesterday as the latest quarterly feature release to this open-source software for replacing proprietary BIOS and system firmware on a growing selection of devices...
-
-### KDE Nearing Decision Point On BuildStream-Based KDE Linux
-Fri, 02 Oct 2026 05:54:20 -0400 — https://www.phoronix.com/news/BuildStream-Based-KDE-Linux
-
-KDE Linux developers have been experimenting with a build of their Linux distribution based on BuildStream to ship as an OS image rather than a set of Arch Linux packages. They are nearing a point soon where they will decide if they will officially ship this BuildStream-based KDE Linux image...
-
 ## The Register
+
+### Clever database, but can it run Doom?
+Sat, 03 Oct 2026 14:02:00 +0200 — https://www.theregister.com/databases/2026/10/03/clever-database-but-can-it-run-doom/5300506
+
+"Can it run Doom?" now applies to databases, as the author of DOOMQL has released a far more visually accurate port. There's a saying: "Be careful what you wish for." In 2025, we wrote a piece about a database boffin coming up with a version of Doom that was written in SQL. It was neat, but the visuals were nearer to 3D Monster Maze than to the 90s pixel blaster. We commented, "If persuading SQL to do the entire rendering pipeline is a 'bad idea,' we cannot wait for a terrible one." And so here we are. The author, Lukas Vogel, has been at it again and ported both Doom's game logic and renderer to SQL, running it in a database. Python handles timing, keyboard input, and bitmap display, but the rest comes from SQL queries and the CedarDB database. DOOMQL was an undeniably impressive thing. However, Vogel told The Register, "Someone on Hacker News complained last year when I did the first iteration that that one was more Wolfenstein-like because I used raycasting instead of BSP-tree traversal which was *the thing* that made Doom revolutionary. "So I obviously couldn't let that stand." Which brings us to SQLDoom. Doom, ported to SQL. In his blog, Vogel noted the ground rules for the port. Unlike DOOMQL, this had to look like real Doom. The rendering had to be purely SQL-based: "the only acceptable SQL output is a table or a bitmap encoding exact RGB values for every pixel," and the game loop also had to be purely SQL-based. Vogel told us, "I was very thrilled to find out that por
 
 ### Palantir's fondness for French food cooked up tech's latest fad – forward-deployed engineers
 Sat, 03 Oct 2026 10:02:00 +0200 — https://www.theregister.com/channel/2026/10/03/palantirs-fondness-for-french-food-cooked-up-techs-latest-fad-forward-deployed-engineers/5300360
@@ -250,10 +255,10 @@ Fri, 02 Oct 2026 21:52:40 +0200 — https://www.theregister.com/software/2026/10
 
 After evolving from an Apple-made, client-side language and years of false starts, Swift could finally make it on the server. Google has taken note and has just rolled out Google Cloud API Client Libraries for Swift, evidently convinced Swift has a backend role thanks to its performance and ease of use. The GCP Swift libraries target Swift 6.2+ and take advantage of SwiftNIO's asynchronous event loops, HTTP/2 multiplexing, gRPC transport, and data race safety compiler flags. "For years, Swift was perceived mainly as a UI language tied to Apple client devices," said Karl Weinmeister, director of developer relations, and Carlos O'Ryan, software engineer, in a blog post. "With Swift 6 and strict concurrency checking, it has matured into a viable systems and cloud language, pairing Rust-like data-race safety with predictable, reference-counted performance." Weinmeister and O'Ryan argue that Swift manages to be both developer-friendly and suitable for low-level control over resources, which tends not to be the case for challenging systems languages like C++ or Rust. They voice appreciation for the language's lightweight runtime and Automatic Reference Counting (ARC), alongside its expressive syntax. And they approve of Swift's compile-time concurrency checking. "Data races are caught in your editor before a binary ever compiles or reaches production," they note. The Googlers argue that the Server Side Cloud Swift SDK is well-suited for servers, containers, and DevOps environments,
 
-### Shut up and take our money: Amazon plows $1B into quashing datacenter dissent
+### Shut up and take our money: Amazon plows $1B+ into quashing datacenter dissent
 Fri, 02 Oct 2026 21:30:56 +0200 — https://www.theregister.com/systems/2026/10/02/shut-up-and-take-our-money-amazon-plows-1b-into-quashing-datacenter-dissent/5300914
 
-Faced with growing opposition to datacenters from residents who don't want the bit barns in their backyards, Amazon plans to invest $1 billion over the next five years to indoctrinate the public. The company announced the investment in a whataboutism-packed blog post aimed at convincing readers datacenters are not as bad as they've been led to believe, and that if the common folk don't get in line and support their development, the nation could be left in the dust. The program aims to invest in education, job training, local infrastructure improvements, and sustainability initiatives in communities home to Amazon datacenters. "This build out is so important geopolitically that there are widespread reports of various countries intentionally seeding misinformation in the US about datacenters to trick us into slowing down," the e-tailer turned cloud titan wrote. "Right now there are over 100 datacenter moratoriums being considered across the country. If these measures are enacted, the US could be writing its own losing ticket to this race, and the consequences would last generations." If Jeff Bezos's cash cow is to be believed, datacenters will transform the US economy much like the buildout of the highway system did in the '50s. But that can't happen, Amazon argues, if Americans block the development of these bit barns over misguided fears. The blog post highlights four such datacenter fears, which Amazon claims are "myths," despite plenty of reporting to suggest otherwise. Who
+Faced with growing opposition to datacenters from residents who don't want the bit barns in their backyards, Amazon plans to invest more than $1 billion over the next five years to indoctrinate the public. The company announced the investment in a whataboutism-packed blog post aimed at convincing readers datacenters are not as bad as they've been led to believe, and that if the common folk don't get in line and support their development, the nation could be left in the dust. The program aims to invest in education, job training, local infrastructure improvements, and sustainability initiatives in communities home to Amazon datacenters. "This build out is so important geopolitically that there are widespread reports of various countries intentionally seeding misinformation in the US about datacenters to trick us into slowing down," the e-tailer turned cloud titan wrote. "Right now there are over 100 datacenter moratoriums being considered across the country. If these measures are enacted, the US could be writing its own losing ticket to this race, and the consequences would last generations." If Jeff Bezos's cash cow is to be believed, datacenters will transform the US economy much like the buildout of the highway system did in the '50s. But that can't happen, Amazon argues, if Americans block the development of these bit barns over misguided fears. The blog post highlights four such datacenter fears, which Amazon claims are "myths," despite plenty of reporting to suggest othe
 
 ### arXiv imposes rate limit on paper submissions to stem the AI slop tide
 Fri, 02 Oct 2026 20:02:32 +0200 — https://www.theregister.com/ai-and-ml/2026/10/02/arxiv-imposes-rate-limit-on-paper-submissions-to-stem-the-ai-slop-tide/5300899
@@ -295,74 +300,84 @@ Fri, 02 Oct 2026 15:00:00 +0200 — https://www.theregister.com/systems/2026/10/
 
 In an effort to provide a more affordable AI system, Nvidia is introducing a cut down version of the DGX Spark with half the memory and storage. The GB10-based systems will be offered exclusively through hardware partners including Acer, Asus, Dell, Gigabyte, HP, and MSI, and are expected to retail for around $4,999. The less-powerful SKUs are necessary after Nvidia jacked the price of its 128 GB DGX Spark on Friday to $6,950 — an increase of nearly 75 percent from this time last year. As you might have already guessed, skyrocketing memory prices are to blame for the massive price adjustment. That makes the 64 GB model considerably less than Nvidia’s top-spec DGX Spark and GB10 systems given the ongoing memory shortage, but that’s still 25 percent more than the 128 GB version retailed for at launch. Nvidia’s GB10 platform has been plagued by pricing creep since the Projects Digits concept was unveiled at CES last year. Originally, the appliance was expected to retail for around $3,000, not the $4,000 it eventually ended up selling for. Even at that price, the DGX Spark offered something that just a few years ago would have set you back tens of thousands of dollars: large quantities of GPU memory. In fact, at the time it launched, the system was technically the highest capacity workstation GPU Nvidia sold. That’s not really the case with the 64 GB model, which due to its smaller capacity, isn’t as well suited to certain AI workloads like fine tuning. But if your main concern i
 
-### Excel Canvas offers to turn your workbook into the boss's next report
-Fri, 02 Oct 2026 14:27:00 +0200 — https://www.theregister.com/software/2026/10/02/excel-canvas-offers-to-turn-your-workbook-into-the-bosss-next-report/5300812
-
-Microsoft plans to roll out Excel Canvas through October, adding Copilot-generated reports to its veteran spreadsheet. Excel Canvas "transforms workbook data into a polished report containing visualizations, metrics, and insights," said Microsoft. The reports automatically refresh as the underlying data changes. Users need access to Copilot in Excel and can tweak reports through natural language prompts. Presumably along the lines of "Why the heck did you use that as the x-axis?" Lately, Microsoft has been relentlessly fiddling with Excel. Last week it added an opt-in feature to allow multiple values in the same cell, potentially complicating life for third-party tools that expect one value per cell. Earlier Copilot additions have met resistance or been withdrawn. Earlier this year, there were howls of outrage from users when a Copilot Dynamic Action Button was unceremoniously dropped onto their workspaces. In response, Microsoft swiftly allowed users to send it to the toolbar. Microsoft also abandoned the COPILOT() function in August this year, barely 12 months after introducing it, saying it had "decided not to move forward with this feature." The function carried a warning that its output should be checked for accuracy, particularly when used for business decisions or reports. Hardly reassuring when the spreadsheet feeds the accounts. Automatically refreshing reports could save users some work, provided Copilot selects appropriate metrics and charts. Canvas also enters a c
-
 ## Engadget
+
+### What does FDM stand for in 3D printing and how does it work?
+Sat, 03 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2273342/what-does-fdm-stand-for-fused-deposition-modeling-3d-printing-method/
+
+FDM stands for fused deposition modeling, but what does that mean, and how does it differ from other 3D printing methods? Let's find out.
+
+### How to know it's time to replace your Apple Pencil's tip
+Sat, 03 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2273337/how-to-know-time-to-replace-apple-pencil-tip/
+
+Your Apple Pencil tips won't last forever.
+
+### What's the difference between Google Pay and Google Wallet?
+Sat, 03 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2273339/google-pay-vs-wallet-differences-explained/
+
+The history of Google Wallet and Google Pay has led to a great deal of confusion.
+
+### How Apple's Thunderbolt ports are different from USB-C
+Sat, 03 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2273335/apple-thunderbolt-ports-different-from-usb-c/
+
+Your Mac might have a combination of Thunderbolt and standard USB-C ports, each with different capabilities.
+
+### California will fine robotaxi companies if their vehicles block first responders
+Sat, 03 Oct 2026 13:19:19 +0000 — https://www.engadget.com/2276543/california-fine-robotaxi-companies-vehicles-block-first-responders/
+
+California's new rule will penalize robotaxi companies if their vehicles block first responders for more than 30 minutes.
+
+### This is one of the cheapest ways to add Dolby Atmos to your TV
+Sat, 03 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2273325/cheapest-way-add-dolby-atmos-tv/
+
+Immersive sound doesn't have to break the bank.
+
+### Is YouTube TV worth your money anymore?
+Sat, 03 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2273328/is-youtube-tv-worth-your-money-anymore/
+
+Sports fans might love it, but who else?
+
+### How to adjust the audio quality in Apple Music
+Sat, 03 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2273330/how-to-adjust-audio-quality-apple-music/
+
+Apple Music offers both lossless streaming and EQ features, if you know where to look.
+
+### Is a Nintendo 3DS still worth buying in 2026?
+Sat, 03 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2271901/is-nintendo-3ds-still-worth-buying/
+
+The Nintendo 3DS was Nintendo's last true portable console. While it stopped getting new games long ago, it can still be a great option.
+
+### 10 Handy Ways To Reuse Your Old Android Phone
+Sat, 03 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2270823/handy-ways-reuse-old-android-phone/
+
+Before you toss that aging Android, see how it can become a surprisingly handy tool in your daily routine with a few creative repurposing ideas.
+
+### Photography adventures, chaotic sheepherding and other new indie games worth checking out
+Sat, 03 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2276442/photography-adventures-chaotic-sheepherding-and-other-new-indie-games-worth-checking-out/
+
+Plus, indie game Star Wars: Galactic Racer is an absolute blast.
 
 ### Apple acknowledges AT&T network bug on iPhone 18 Pro Max
 Sat, 03 Oct 2026 02:10:16 +0000 — https://www.engadget.com/2276489/apple-att-network-bug-iphone-18-pro-max/
 
 Experiencing SOS mode on your iPhone 18 Pro Max with AT&T? Apple confirms a hardware issue and details who needs a replacement.
 
-### Lyft agrees to pay $272.5 million to settle worker classification lawsuit
-Fri, 02 Oct 2026 22:15:53 +0000 — https://www.engadget.com/2276430/lyft-agrees-to-pay-272-5-million-to-settle-worker-classification-lawsuit/
-
-Uber and Lyft were sued by the state of California in 2020 for misclassifying employees as contractors.
-
-### Meta wants people to build their own Muse gadgets, too
-Fri, 02 Oct 2026 20:27:14 +0000 — https://www.engadget.com/2276312/meta-muse-gadgets-open-source-smart-home-link/
-
-The company also created its own smart home device, the Muse Home Link
-
-### Batomon Showdown is the hottest new auto battler on the block
-Fri, 02 Oct 2026 20:03:43 +0000 — https://www.engadget.com/2276267/batomon-showdown-is-the-hottest-new-auto-battler-on-the-block/
-
-Batomon Showdown is like Pokémon meets Super Auto Pets.
-
-### Samsung and Google are raising prices on their budget phones
-Fri, 02 Oct 2026 19:36:31 +0000 — https://www.engadget.com/2276208/samsung-and-google-are-raising-prices-on-their-budget-phones/
-
-Line go up (bad version).
-
-### Apple sounds the alarm on AI agents and 'Full Disk Access'
-Fri, 02 Oct 2026 19:22:06 +0000 — https://www.engadget.com/2276186/apple-sounds-the-alarm-on-ai-agents-and-full-disk-access/
-
-There's an increasingly high cost to convenience.
-
-### iPhone 18 Pro vs iPhone 18 Pro Max: Comparing their displays and batteries
-Fri, 02 Oct 2026 17:48:32 +0000 — https://www.engadget.com/2276013/iphone-18-pro-vs-max-comparison/
-
-Not much else differentiates them, which isn't a bad thing.
-
-### Samsung Galaxy Tab S12 Ultra vs Apple iPad Pro: Here's how they stack up
-Fri, 02 Oct 2026 17:27:45 +0000 — https://www.engadget.com/2275982/samsung-galaxy-tab-s12-ultra-vs-apple-ipad-pro-comparison/
-
-Choosing between these two powerhouse tablets is probably simpler than you think.
-
-### YouTube takes aim at clipper accounts, will prioritize original Shorts
-Fri, 02 Oct 2026 17:25:04 +0000 — https://www.engadget.com/2275978/youtube-takes-aim-at-clipper-accounts-will-prioritize-original-shorts/
-
-But will it hurt creators clipping their own longform videos?
-
-### Soon-to-be merged Paramount and Warner Bros. will be known as Skydance going forward
-Fri, 02 Oct 2026 16:16:02 +0000 — https://www.engadget.com/2275866/soon-to-be-merged-paramount-and-warner-bros-will-be-known-as-skydance-going-forward/
-
-Paramount Skydance CEO David Ellison announced the new name in a social media post.
-
-### AT&T, T-Mobile and Verizon have officially teamed up to end coverage gaps
-Fri, 02 Oct 2026 15:37:40 +0000 — https://www.engadget.com/2275806/att-t-mobile-and-verizon-have-officially-teamed-up-to-end-coverage-gaps/
-
-This is likely an attempt to get ahead of potential rivals like Starlink and Leo.
-
-### Affordable alternatives to Apple's AirPods Max
-Fri, 02 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2275580/affordable-alternatives-to-apples-airpods-max/
-
-If you can live without deep iOS integration and the polished design of the AirPods Max, you could save hundreds.
-
 ## TechCrunch
+
+### Vessev built an electric ferry that almost flies
+Sat, 03 Oct 2026 14:42:00 +0000 — https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/
+
+Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.
+
+### All the AI agents that can live in your text messages
+Sat, 03 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/
+
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
+
+### Spotify billionaire’s body scan startup has come to America
+Sat, 03 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/
+
+Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.
 
 ### Meta wants your next gadget to be Muse-infused
 Sat, 03 Oct 2026 00:45:39 +0000 — https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/
@@ -408,19 +423,4 @@ With all the talk about how AI might one day kill us all, it's easy to forget th
 Fri, 02 Oct 2026 15:53:50 +0000 — https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/
 
 The roughly $110 billion deal is expected to close October 6.
-
-### Pope Leo XIV is not a fan of AI-generated art
-Fri, 02 Oct 2026 15:39:41 +0000 — https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/
-
-"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others," the pope wrote. "Algorithms lack the spark of humanity."
-
-### Laytr s new app lets you save anything you find online, not just articles to read
-Fri, 02 Oct 2026 15:31:20 +0000 — https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/
-
-Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.
-
-### Slovenia s .si domain sees a surge in registrations after Trump s super intelligence order
-Fri, 02 Oct 2026 14:47:46 +0000 — https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/
-
-The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.
 

@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-03T10:02:57.444Z
+# Games — harvested 2026-10-03T14:54:55.321Z
 
 ## Eurogamer
+
+### Capcom plans to evolve RE Engine into an "AI-generation game engine"
+Sat, 03 Oct 2026 14:47:09 +0000 — https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project
+
+Capcom wants to transform its in-house RE Engine into what it's calling an "AI-generation game engine". Read more
+
+### Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales
+Sat, 03 Oct 2026 12:04:23 +0000 — https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039
+
+A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more
+
+### Memory shortages set to persist into 2028, warns Micron CEO
+Sat, 03 Oct 2026 10:34:13 +0000 — https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand
+
+Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
 
 ### "We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works
 Sat, 03 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works
@@ -47,21 +62,6 @@ Fri, 02 Oct 2026 11:09:05 +0000 — https://www.eurogamer.net/witcher-3-remaster
 
 A second hotfix has been released for The Witcher 3 Remastered edition that directly addresses lighting concerns on PC, as well as a couple of other notable issues. Read more
 
-### Gears of War: E-Day is missing iconic features like chainsaw duels and meat shields, but The Coalition says we shouldn't worry - they're "not gone from the franchise"
-Fri, 02 Oct 2026 10:56:20 +0000 — https://www.eurogamer.net/gears-of-war-eday-missing-features-update
-
-Gears of War: E-Day arrived for early adopters yesterday, available for anyone who bought either the Premium Edition, Premium Upgrade Edition, or Collector's Edition version of the game. As it arrived, however, some players noted 'missing' features that have appeared in past Gears games, but not in The Coalition's latest. Read more
-
-### PS5 gets "AI-guided upscaling" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei
-Fri, 02 Oct 2026 09:28:14 +0000 — https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei
-
-AI image upscaling is coming to PlayStation 5, Sony has announced, and it's available already in two games: Marvel's Wolverine and Ghost of Yotei . Read more
-
-### Aion 2's imminent worldwide release could be huge as early access founders' packs outsell major games, and player numbers soar
-Thu, 01 Oct 2026 15:11:16 +0000 — https://www.eurogamer.net/aion-2-western-release-steam-player-numbers
-
-Aion 2's much-awaited worldwide release is days away, following its release in Korea and Taiwan roughly a year ago. Despite this, the MMO has soared - high up Steam's most played game chart. Read more
-
 ## GamesIndustry.biz
 
 ### Sony's consultation on physical media: better late than never | Opinion
@@ -104,21 +104,16 @@ Fri, 02 Oct 2026 08:03:39 +0000 — https://www.gamesindustry.biz/krafton-shuts-
 
 Krafton is ending development on PUBG spin-off Black Budget nine months after its closed alpha test on Steam. Read more
 
-### Consumer Protection Cooperation Network launches coordinated actions against nine companies on in-game currency | Opinion
-Thu, 01 Oct 2026 14:15:37 +0000 — https://www.gamesindustry.biz/consumer-protection-cooperation-network-launches-coordinated-actions-against-nine-companies-on-in-game-currency
-
-On 30 September 2026, the Consumer Protection Cooperation (CPC) Network launched coordinated actions against nine video games companies. Read more
-
-### Ubisoft Workers of Montreal Union petition to "preserve hybrid work" secures over 300 signatures
-Thu, 01 Oct 2026 13:28:21 +0000 — https://www.gamesindustry.biz/ubisoft-workers-of-montreal-union-petition-to-preserve-hybrid-work-secures-over-300-signatures
-
-The Ubisoft Workers of Montreal Union have launched a petition to "preserve hybrid work" , which has reached more than 300 signatures . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)
+Sat, 03 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october
+
+Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down next week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - III . Keep an eye out for Hellraiser: Revival , too. Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 652
 Fri, 02 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652
@@ -175,11 +170,6 @@ Fri, 02 Oct 2026 13:15:00 GMT — https://www.pushsquare.com/news/2026/10/signal
 
 Jujutsu Kaisen among its influences. I’m quite intrigued by the newly announced Signal Veil, a third-person survival horror game with a 90s anime aesthetic. Unlike any other title in the genre I can think of, this has a cel-shaded look that’s reminiscent of, say, Dreamcast-era games. It’s really quite unique from that perspective. Read the full article on pushsquare.com
 
-### Review: Star Wars: Galactic Racer (PS5) - This Ridiculously Good Racer Is in a Galactic League of Its Own
-Fri, 02 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/reviews/ps5/star-wars-galactic-racer
-
-No Shade. Star Wars: Galactic Racer successfully blends the best of MotorStorm: Pacific Rift , WipEout HD , and Burnout 3: Takedown to make for one of the most exciting racers I’ve played in years. This debut effort from Fuse Games – a UK studio founded by Criterion veterans – is a white-knuckle triumph which at times had me on the edge of my seat, cheering each narrow win and cursing every misjudged corner. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Reigns developer Nerial enters 'hibernation mode,' lays off staff
@@ -224,6 +214,16 @@ no date — https://www.gamedeveloper.comlatam.gamescom.global
 
 ## VGC
 
+### Capcom details plans to evolve RE Engine into an AI-generation game engine
+Sat, 03 Oct 2026 10:47:45 +0000 — https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/
+
+Programmer says Capcom’s goal is a future 'where we create games together with AI' Source
+
+### Dan Houser still hasn’t seen GTA 6: I will try and avoid it
+Sat, 03 Oct 2026 10:03:25 +0000 — https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/
+
+The Rockstar Games co-founder explains why he's avoiding GTA 6's Extended Reveal… Source
+
 ### GTA 6 rating pulled after revealing sex scenes and drug use
 Sat, 03 Oct 2026 09:40:41 +0000 — https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/
 
@@ -264,17 +264,47 @@ Fri, 02 Oct 2026 12:32:24 +0000 — https://www.videogameschronicle.com/news/dyn
 
 Tomohiko Sho says he'd rather make new games or sequels now he's in his fifties… Source
 
-### Memory maker warns shortages will get worse in 2027, as CEO celebrates much higher prices
-Fri, 02 Oct 2026 12:27:20 +0000 — https://www.videogameschronicle.com/news/memory-maker-warns-shortages-will-get-worse-in-2027-as-ceo-celebrates-much-higher-prices/
-
-Micron says memory demand will exceed supply through 2028… Source
-
-### Star Wars Galactic Racer review: Somehow, Burnout returns in a modern racing classic
-Fri, 02 Oct 2026 12:00:18 +0000 — https://www.videogameschronicle.com/review/star-wars-galactic-racer-review/
-
-The thrilling throwback to arcade racing's glory days wows with visual might and a great single-player offering… Source
-
 ## Polygon
+
+### Resident Evil Dev Capcom Plans To Embrace AI In Game Development
+Sat, 03 Oct 2026 14:31:26 GMT — https://www.polygon.com/capcom-ai-re-engine-statement-2026/
+
+A Capcom developer recently made some eyebrow-raising statements about integrating AI into RE Engine, the game engine Capcom uses to make games like Resident Evil Requiem , Pragmata , and Onimusha: Way of the Sword . While it hasn't fully embraced generative AI to create in-game content yet, Capcom outlined a goal to forge "a future where we create games together with AI."
+
+### Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details
+Sat, 03 Oct 2026 14:18:15 GMT — https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/
+
+Best Buy is keeping the Pokémon 30th Anniversary trading card game festivities going in October with a new "Trade and Play" event. Here's what you need to know.
+
+### Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory
+Sat, 03 Oct 2026 14:00:15 GMT — https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/
+
+This past weekend, The Simpsons launched its 38th season with "The Children's Book Job,” featuring guest star Emma Thompson. Owen Wilson and Meg Ryan will also appear this season, as well as returning favorite Joe Mantegna as Fat Tony. All of this was discussed in Polygon's recent interview with co-executive producer Mike Price, but while we had him on the phone, we couldn’t resist asking him about some of the most pressing questions from the Simpsons fandom.
+
+### Gamers Will Recognize The Studio Making The Battlefield Movie
+Sat, 03 Oct 2026 13:51:06 GMT — https://www.polygon.com/battlefield-movie-sony-pictures/
+
+Several movie studios have been fighting over the rights to make a film based on the Battlefield video game franchise. A winner has reportedly emerged, and it's one with connections to gaming: Sony Pictures.
+
+### Arc Raiders Will Temporarily Go Free-to-Play Alongside Major Update
+Sat, 03 Oct 2026 13:08:43 GMT — https://www.polygon.com/arc-raiders-free-to-play-weekend-october-2026/
+
+October is looking like a busy month for Arc Raiders . On Oct. 8, the Frozen Trail update is set to go live. Not long after this, a PvE matchmaking beta test will also become available, delivering a much more relaxed Arc Raiders experience that friendly players have been requesting . The cherry on top is that everyone will get a chance to try the Frozen Trail update, as its release date coincides with Arc Raiders ' free-to-play weekend.
+
+### Pokémon Winds and Waves Could Completely Change Pokémon Forever
+Sat, 03 Oct 2026 13:00:21 GMT — https://www.polygon.com/switchboard-pokemon-winds-waves-leaks/
+
+It's hardly surprising. The increasing amount of time and money it takes to make video games is an extremely well-established fact at this point. And it's fair to say that Pokémon fans are getting off lightly; it has, after all, been 13 years since the last Grand Theft Auto game.
+
+### 5 Timeless 'Calvin and Hobbes' Comics That Prove Bill Watterson Is In a League of his Own
+Sat, 03 Oct 2026 12:36:29 GMT — https://www.polygon.com/5-key-strips-calvin-hobbes/
+
+You wouldn't think there was much left to discuss about Calvin and Hobbes . The strip ended 30 years ago last December and there have been no serious attempts at an official revival, or even major follow-up projects from its creator Bill Watterson. Since C&H ended, Watterson's only other published project is 2023's The Mysteries , an illustrated "fable for grown-ups" made as a collaboration with John Kascht. The rumor for years has been that Watterson spends most of his time painting landscapes and burning the result.
+
+### NBC's Unbeatable 98-Episode Action Thriller Is Officially Free to Watch on Streaming
+Sat, 03 Oct 2026 11:00:16 GMT — https://www.polygon.com/the-a-team-streaming-free-tubi/
+
+Television in the 1980s had a somewhat flexible relationship with reality. Cars could jump over just about anything, a good punch could solve most problems and, seemingly every small town in America was being terrorized by a biker gang. But even by those standards, The A-Team existed in a universe all its own.
 
 ### Game of Thrones’ Biggest Villain Is Even More Terrifying in an Upcoming Official Release
 Sat, 03 Oct 2026 10:00:15 GMT — https://www.polygon.com/game-thrones-war-for-westeros-monster-interview/
@@ -286,47 +316,32 @@ Sat, 03 Oct 2026 08:52:15 GMT — https://www.polygon.com/excalibur-john-boorman
 
 In the late 15th century, a man named Thomas Malory, whose identity is still debated by scholars, wrote Le Morte d’Arthur , a compilation of legends, chivalric poems, and folklore related to King Arthur and the Knights of the Round Table. Five centuries later, British director John Boorman ( Deliverance , Hope and Glory ) turned that source material into a movie that is still considered a milestone in the history of fantasy cinema (even if it’s hard to classify as “fantasy”). Excalibur is bold, ambitious, and above all, uncompromising. Forty-five years later, it stands as a testament to a director’s audacity to propose his artistic vision to audiences without filters.
 
-### Sicario 3 is Happening with Taylor Sheridan Returning to Write
-Sat, 03 Oct 2026 08:20:15 GMT — https://www.polygon.com/sicario-3-script-taylor-sheridan-paramount/
-
-Taylor Sheridan has become one of the most popular and prolific TV writers of the last decade, thanks to series like Yellowstone , Landman , and Dutton Ranch . The creator is also known for creating three of the best crime thrillers of the 2010s, with back-to-back-to-back successes in Sicario , Hell or High Water , and Wind River . After nearly a decade of focusing on television and pumping out Yellowstone seasons and spinoffs, Sheridan is returning to the film franchise that made him a household name.
-
-### Dimension 20 Best Season to Start? 6 Campaigns to Get Into Dropout’s D&D Show
-Sat, 03 Oct 2026 08:05:15 GMT — https://www.polygon.com/dimension-20-best-seasons-episodes-to-start-with/
-
-After performing for nearly 20,000 fans at a sold-out Madison Square Garden in January 2025, Dimension 20 cemented its status as one of the internet’s most popular tabletop live-play shows . But despite the show’s increasingly mainstream profile, figuring out where to start can still be intimidating. Most seasons require a paid subscription to either Dropout.tv or its YouTube channel, and the catalog now encompasses dozens of campaigns spread across several different tabletop systems.
-
-### Steam Horror Game Turns PS1-Era Graphics Into Backrooms-Style Nightmare Fuel
-Sat, 03 Oct 2026 08:00:15 GMT — https://www.polygon.com/steam-horror-game-turns-ps1-era-graphics-into-backrooms-style-nightmare-fuel/
-
-There is something uniquely unsettling about empty video game spaces. Blown wide open in the wake of Backrooms , the concept of liminal horror has seeped out from internet forums and chat rooms to become a subculture all its own. But while a photorealistic house filled with blood and corpses has its own macabre dread, there’s something even more unsettling about PS1-era graphics, where blocky textures and eerie lighting can make even a mundane street corner feel steeped in Lovecraftian horror.
-
-### 12 New Horror Movies to Watch in October on Netflix, HBO, and Hulu
-Sat, 03 Oct 2026 04:00:20 GMT — https://www.polygon.com/horror-movies-streaming-october-2026/
-
-Spooky season is here, and all the major streaming services are boosting their horror offerings to appeal to viewers who want to start getting into the Halloween spirit early. As the temperatures drop and the nights get longer, October is the perfect time to make some popcorn, curl up on the couch, and watch some movies designed to give you nightmares.
-
-### Quentin Tarantino's First Movie Sequel Officially Arrives Next Month
-Sat, 03 Oct 2026 01:09:16 GMT — https://www.polygon.com/quentin-tarantino-sequel-once-upon-a-time-in-hollywood-part-2/
-
-Seven years after the fact, Quentin Tarantino's period action-drama Once Upon a Time ... in Hollywood is getting an official sequel, just not one directed by Tarantino himself. Seven and Fight Club director David Fincher is helming the direct sequel instead with a new story that focuses on Brad Pitt's stuntman character Cliff Booth. We got our first look at The Adventures of Cliff Booth back in February, when Netflix released a teaser trailer for the sequel. Soon, we'll get the movie itself, as Cliff Booth is set to return in November.
-
-### Fire Emblem Fans Just Cracked Fortune’s Weave’s Biggest Mystery (Maybe)
-Sat, 03 Oct 2026 01:00:17 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-plot-mystery-eshmel-identity/
-
-Fire Emblem: Fortune's Weave 's protagonist, Eshmel (or whatever you call them), is a lot like Three Houses ' Byleth. They say little, someone else's soul inhabits their body, and despite ostensibly having no personality, they're the most important person (well, construct) in the empire. You never learn who Eshmel is outright, but some folks are pretty sure they know the protagonist's real identity. And I'm inclined to believe them.
-
-### There’s Literally Never Been a Better Time to Get Into Tactics Games
-Fri, 02 Oct 2026 23:00:18 GMT — https://www.polygon.com/tactics-games-2026-best-year/
-
-The tactics genre is undergoing an undeniable renaissance right now, and has been for a little while. However, I'm someone who, until recently, never gave it a fair shot; I played a lot of Worms as a kid, not to mention the incredible Hogs of War , but those were as close as I got to the genre. Despite hearing great things about the XCOM series, the first time I properly got stuck into a tactics game was with Marvel's Midnight Suns in 2022.
-
-### 10 New Movies to Watch this Weekend on Prime Video, HBO Max, and Hulu (October 2-4)
-Fri, 02 Oct 2026 21:00:16 GMT — https://www.polygon.com/new-movies-streaming-this-weekend-prime-video-october-2-4/
-
-Happy weekend! It’s a big one for theatrical releases, with Tom Cruise’s Digger finally out. While divisive, Cruise is expected to be featured somewhere in the awards conversation, although an abysmal box office performance could torpedo those dreams. On the other side of the spectrum, there’s Verity , a throwback to the beloved erotic thrillers of years past, following an affair between a struggling writer and a hot dad. Somewhere in all of this, there’s his paralyzed wife.
-
 ## PC Gamer
+
+### Deadlock's new hero Rat King has over 100 voice lines dedicated to throwing rats at you
+Sat, 03 Oct 2026 13:49:02 +0000 — https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/
+
+Gaming's worst-kept secret Deadlock received a humongous update earlier this week, one that redecorated its entire town and added six new classes for players to sink their teeth into. On the subject of teeth, one of these classes is a tank called Rat King, a giant humanoid rodent who started out as a fan concept before becoming part of Deadlock's official roster. Rat King loves two things in life: rats, and throwing rats at his enemies. In fact, he enjoys rat tossing so much that he has more than 100 voice lines dedicated to his calling. According to Deadlock voice line viewer (yes, that is a site that exists) Rat King entered the fray with a grand total of 1534 individual utterances, a similar number to most other Deadlock heroes. Of those lines, 126 of them are dedicated to his power "Rat Swarm", whereby Rat King unleashes a swarm of rodents from beneath his resplendent cape—which leap onto enemies and deal spirit damage over time. Why so many voice lines for a single power? Well, I suppose the short answer is "because Valve can". But the longer answer is that, although some of the lines are generic power callouts (such as "I got a whole lotta rats, baby!") many of them refer to individual rats by name. Rat King clearly likes to express support for his subjects, so will yell phrases like "Get 'em Lou!" or "My boy Widget is gonna chew you up!" or "Rabies Ronnie has a gift for ya. Surprise, it's rabies!" Sometimes Rat King will refer to named groups of rats, implying there ar
+
+### 2026 is the year big brands have finally pushed gaming mouse technology forwards
+Sat, 03 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/
+
+Jacob Fox, hardware writer (Image credit: Future) This week I've been: trying out the X3 Superstrike and Sensei Pro gaming mice, as well as a new Logitech Hall effect keyboard. What comes to mind when I say 'big brand competitive gaming mouse'? If you're anything like me, that particular Rorschach test will make you spit out the word 'expensive.' That response isn't wrong, either: just look at the big releases we've had this year. There was the Logitech G Pro X2 Superstrike : $180. The Razer Viper V4 Pro : $160. The SteelSeries Rival Pro and Sensei Pro : each $180. And there's an X3 Superstrike now, too, which is $200. These are some very expensive mice. In previous years, I would have taken a dimmer view of this. Especially given the impressively competitive rodents you can pick up from niche Chinese brands these days. The $89 Mchose K7 V2 Ultra+ , for example, is a Razer Viper V3/V4 Pro clone that performs very well and is plenty comfy. And to be honest, even if fancy big brand mice are top-tier build quality, it's still a heck of a lot of money to ask for. The Rival Pro, Sensei Pro, and Viper V4 Pro specifically are truly fantastic on the build quality front, with the latter being practically flawless and cheaper than the rest, but they're all still very expensive. So why isn't my view quite as dim as it could be? Because all of these releases have pushed the competitive gaming mouse scene forward in a way that probably only big brands can—both in terms of being able to ab
+
+### 007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly
+Sat, 03 Oct 2026 12:24:15 +0000 — https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/
+
+I thoroughly enjoyed 007: First Light when it launched back in May, but one area where I thought it fell short of delivering a fully-fledged James Bond experience was in its cars. While there are some great vehicle sequences in First Light's campaign—including a fight on a cargo plane and a killer action scene involving a massive dump truck—its handful of car chases and non-dump truck driving sections tend to be short and not especially memorable. Most disappointing is the late game sequence involving an Aston Martin Valhalla, which also appears briefly in the most recent Bond film, No Time to Die. IO Interactive spends pretty much the entire game teasing the Valhalla, with the car gleaming alluringly on a pedestal every time you enter Q-Lab. But when Bond finally gets to sit in the driver's seat, it's essentially used for a short turret sequence and you don't get to drive anywhere. Thankfully, this flaw has now been addressed—sort of. Earlier this week, IO Interactive released a free DLC pack for First Light. Titled 'Extended Operations' it adds a bunch of new modes and missions to the game, including one that finally lets you take the Valhalla out onto the road. The mission is called Valhalla Protocol, and it's part of First Light's TacSim mode—which is a bit like Metal Gear Solid 's VR missions if they had a preposterous budget. Valhalla Protocol lets you cut about the mountains of Slovakia in Bond's heavily armed sports car, blowing up drones and other vehicles using its 
+
+### Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls
+Sat, 03 Oct 2026 11:17:53 +0000 — https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/
+
+This is how I knew Dicevaders got its claws into me: the first thing I did this morning was boot up my Steam Deck (which is next to my bed, of course), just so I could get another run in before logging on for work. This kind of compulsive behaviour hasn't been part of my daily routine since Titanium Court back in May, and before that, Blue Prince in 2025—so Dicevaders is in good company. You play the captain of an alien invasion force hurtling through the stars in this roguelike deckbuilder, which is about activating units on a grid using three dice. Each column on the grid corresponds to a number on the dice. You draft your units in each column, roll the dice, then the outcome determines which columns of units will score. As you can see below: (Image credit: Playstack/Pengonauts) Your units don't actually go anywhere or fight anything. They each have a strength stat which forms the base score of each turn. Let's say you roll a pair of threes and a six, as I did in the screenshot above. Your units placed in the third column will have their strength stat multiplied by two, while the unit in the sixth column will only score its basic strength stat because one dice only equals a 1x multiplier. The goal is to hit a target damage number across four turns, which successfully triggers the invasion. If you don't hit the number, you start losing health on each further turn until it's game over. Of course, you can also buy a suite of artifacts which positively affect the score in many 
+
+### Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'
+Sat, 03 Oct 2026 10:42:31 +0000 — https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/
+
+Capcom has been on an historic run over the last few years, delivering hit after hit during a period when many other publishers are struggling to keep their heads above water. This year alone, Capcom has released Resident Evil: Requiem , Pragmata , and Onimusha: Way of the Sword , all of which landed to both critical acclaim and commercial success. So now is obviously the perfect time to wade into the not-at-all controversial topic of AI-powered game development. Yesterday, Capcom held its own tech conference titled "Capcom Open Conference RE: 2026" during which programmer Satoshi Ishida gave a talk detailing the company's future plans for its proprietary RE: Engine—which powers all the publisher's modern games. During this talk, Ishida revealed Capcom's intentions to gradually transform RE Engine into an "AI-generation game engine." Now, it's important to stress here that what Capcom appears to mean here is an engine for the AI generation, rather than a generative AI engine. As reported by Gamebiz (via IGN ), Capcom's plans are more nuanced and detailed than slapping ChatGPT into its game development workflows. During the talk, Ishida stated that the project is called "REX", and it involves six different programs that will integrate AI and machine-learning technology into RE Engine. Some of these are designed for enhancing program performance during development. Re:Dox, for example, is a data handling program designed to translate different types of data into a common set of
 
 ### GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat
 Fri, 02 Oct 2026 22:49:09 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/
@@ -362,31 +377,6 @@ Doctors have confirmed it: It's physically impossible for me to turn my nose up 
 Fri, 02 Oct 2026 19:44:33 +0000 — https://www.pcgamer.com/games/sim/after-30-years-they-finally-let-ace-combats-director-fly-in-a-real-jet-and-im-taking-credit/
 
 Kazutoki Kono: You're welcome. Back in June , I asked the Ace Combat brand director, who's been working on the series since 1997's Ace Combat 2, if he'd ever gotten to strap into an F-16 and experience the real thrills of doing barrel rolls at 30,000 feet. "Unfortunately over the last 30 years of my career I've been appealing, saying 'hey, we want to ride in one of these jets!' but we have not yet had the chance," Kono said at the time. "Neither myself, or anyone on the team." Mere months later, it's a whole new world. In a promotional video released today alongside Ace Combat 8, Bandai Namco revealed that Kono finally got to climb into the cockpit of a jet and live the real life version of the series he's been overseeing for years and years. Well, minus the combat parts. "I was scared before getting in. But once we were airborne, it turned into one of the most beautiful experiences," he said in the video. "The G-force during turns was noticeable, but what stood out the most was the force pushing me downward into the seat. Being up in the sky inside such a compact cockpit felt incredible. It was a surprisingly comfortable and enjoyable space to be in. Compared to a large aircraft, it really made me appreciate the appeal of fighter jets." One way to look at this sequence of events is to see the ad as a logical and inevitable marketing step for a series that Bandai Namco has clearly put more money behind than ever before, including a live-action YouTube miniseries . The other w
-
-### Destiny 2 might be back, but the Bungie Store is going away
-Fri, 02 Oct 2026 18:30:45 +0000 — https://www.pcgamer.com/games/fps/destiny-2-might-be-back-but-the-bungie-store-is-going-away/
-
-Another unexpected twist in the Bungle tale: After more than a decade of serving our players through the Bungie Store, we are retiring the current storefront for Bungie and Destiny related merchandise on October 19. We are building a new home for our merchandise that's more aligned with our current goals and vision. We'll… October 2, 2026 That's the latest move from Bungie, which recently un-cancelled Destiny 2 following a massive fan backlash over the decision to put the game in maintenance mode. It seems odd to me—I would think that now, with the seeming rebirth of Destiny 2 at hand, is exactly the time you'd want that storefront up and operational. Regardless of the need for a new storefront, taking the old one offline for months while it's being made feels counterproductive. Also interesting is that the Marathon storefront, which lives on its own subdomain , is not being taken offline while the "new home" is being built. They look effectively identical, so I have no idea what to make of that. Here's a little comparison of the two: Bungie Bungie At a guess, I'd say the most likely outcome here is that the Bungie Store will be integrated into Sony's own storefront—rather like Bungie's own absorption into Sony after the wheels came off the whole "independent subsidiary" thing. Some followers hope that will lead to lower shipping costs, which would be a positive outcome of sorts, although Sony taking control of the whole endeavor could mean a more limited selection of stuff g
-
-### 7 musical clips of this incredibly charming magical school life sim with its goofy classmates and delightful soundtrack
-Fri, 02 Oct 2026 18:18:59 +0000 — https://www.pcgamer.com/games/life-sim/7-musical-clips-of-this-incredibly-charming-magical-school-life-sim-with-its-goofy-classmates-and-delightful-soundtrack/
-
-A scenic welcome to The Etchery School of Magic and Melody Musical magic-assisted gardening Crystal ball cell phones with Charlie Brown-style "wah wah wah" A flute rhythm game for mastering magic spells The fun and hectic potion brewing minigame My roommate's disastrous magical experiments One very prickly shrub ]]>
-
-### Dear former NFL head coach Mike Tomlin: Your 12-year Minecraft city is beautiful
-Fri, 02 Oct 2026 18:11:22 +0000 — https://www.pcgamer.com/games/survival-crafting/dear-former-nfl-head-coach-mike-tomlin-your-12-year-minecraft-city-is-beautiful/
-
-By the time he stepped down as head coach of the Pittsburgh Steelers in 2025, Mike Tomlin—then the NFL's longest-tenured coach—had led the team through a 19-year run without a losing season, securing 13 playoff appearances, eight division titles, and a victory at Super Bowl XLIII. Since 2014, however, Tomlin has been answering a higher calling: He's been building. In a YouTube video on Wednesday, he unveiled his true masterwork: A sprawling Minecraft metropolis that he's been meticulously hand-sculpting for the last 12 years. And it's magnificent. As the video starts, Tomlin—PlayStation controller in hand—explains that he was introduced to Minecraft by his children, who were obsessed with the game during their middle school years. While he didn't have much history with videogames, he was "mesmerized by what could occupy their attention," and as he's "always had an interest in architecture," he naturally gravitated to Minecraft's creative mode. Eventually, his kids moved on to other interests—but Tomlin remained transfixed by the "therapeutic" act of crafting buildings, communities, and neighborhoods. "It allowed me to detach from the realities and pressures of life," Tomlin says. "Let's take you through it." (Image credit: Mojang, Mike Tomlin) The video then transitions to Tomlin's first-person view as he surveyed his works from on high, revealing the purest product of a grown man's hyperfixation I've ever seen: a waterfront district, with a bay surrounded by skyrises, hotels
-
-### I added October-appropriate zombies to Grand Theft Auto 5
-Fri, 02 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-added-october-appropriate-zombies-to-grand-theft-auto-5/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . There is no more room in hell—the dead are at the beach. Grand Theft Auto 5, already burdened and bedraggled by the parade of mods I have inflicted on it, must now contend with a new disorder: revenants from beyond the veil. I have installed ZombieInfection , which adds zombie and, indeed, infection. In any given populated space, you will look about yourself to notice that some of Los Santos' denizens are more bloody and shambling than usual. This is because they have been rejected by the grave. Whenever these undead pedestrians brush up against other city-dwellers, the latter converts instantly to the horde. Before long, what began as just two or three bloodied weirdos becomes a city-threatening catastrophe, which is both horrifying and a good way of demonstrating the power of exponential growth. Fortunately, zombies are just as prone to the impact of tornadoes, cars, fire, and so on as anyone else. They're also rather slow. More often than not, they get taken out by one of Los Santos' countless ambient threats before they can do any real damage. A lesson for mayors everywhere. (Image credit: Rockstar) Shockingly, the curse of the undeath is so strong that it can somehow break my own aura of immortality. Franklin—you may hav
-
-### The upcoming sim about making games is so deep your in-game game can even get cyberleeked
-Fri, 02 Oct 2026 16:13:24 +0000 — https://www.pcgamer.com/games/sim/the-upcoming-sim-about-making-games-is-so-deep-your-in-game-game-can-even-get-cyberleeked/
-
-Of all the games on the horizon, the one I may be most looking forward to Let's Build a Dungeon . It's a sim from Springloaded, makers of Let's Build a Zoo and the upcoming RollerCoaster Tycoon Wonderworks , and the premise is one we've all mulled at one point or another: what if I could make my own videogame? And in Let's Build a Dungeon, you can. Dig dungeons, populate them with monsters and traps and loot, design quests, and watch simulated players play your game. You'll even be able to let real players play the game you make. But there's also the simulation surrounding the game you're building. The development studio you've founded. The devs you hire. You'll have to deal with investors, finances, the public, the press (like me!), crunch, gaming conventions, hackers, and even text messages from your mom. There's a lot going on in this sim. Like, a lot , a lot. During a recent preview and interview with Springloaded founder and Let's Build a Dungeon lead developer James Barnard , here's what leapt out at me as being the most a lot among the lot. "We have, like, 700 [fictional] games or something, and the list keeps on getting longer." James Barnard (Image credit: James Barnard) Let's Build a Dungeon lead developer and Springloaded founder Let's Build a Dungeon simulates Steam's backend and sites like SteamSpy where you can see your game alongside the competition. Lots of competition: Springloaded has invented hundreds of fictional (and unplayable, sadly) games to populate y
 
 ## GameSpot
 
@@ -452,6 +442,11 @@ Ahead of its release later this month, marketing for the Street Fighter movie ha
 
 ## Rock Paper Shotgun
 
+### The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras
+Sat, 03 Oct 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras
+
+Sometimes I Wonder About The Other Me is a 2D platformer created by "small game" developer Luis "Ludipe" D&iacute;az Peralta, whose other works include A Place For The Unwilling . It's broken into a handful of single screen maps. On each screen, there's a Mario-brand exclamation mark block that burps a text fragment, forming an overarching monologue that begins with the title phrase. As you move between screens, you come to a signpost pointing left and right. Heading in either direction leads to a splitscreen area, with the player controlling duplicate characters. As you guide your charges rightward, one half of the screen flakes away to darkness. The remaining character returns to the starting screen, there to wonder anew about the Other Me. Read more
+
 ### What are we all playing this weekend?
 Sat, 03 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402
 
@@ -496,19 +491,4 @@ Reigns and Card Shark developers Nerial have announced that they're shutting dow
 Thu, 01 Oct 2026 15:29:29 +0000 — https://www.rockpapershotgun.com/retrospace-offers-a-huge-sci-fi-playground-for-inquisitive-space-janitors-but-im-not-that-system-shocked-by-the-tools-at-your-disposal
 
 In my time as a videogame partaker, I have crawled through approximately three billion airvents. I may well have crawled through more vents than you've had hot dinners. As such, any videogame that can get me excited about loosening a barred hatch and hauling my heavy ass into a square tunnel is doing something right. The Wild Gentlemen's new sci-fi immersive sim RetroSpace gives pretty fair vent. It hides them all over. You'll walk along a dilapidated, meandering corridor and your eye will be caught by a certain combination of shadows, flirtatiously screened by pipes. 'Can I fit behind there?' You ask yourself, and lo, you have revealed a shortcut to the head engineer's office. Elsewhere, switches peek from behind stacks of luggable crates, and bent guard-rails draw your eye to a footwide ledge leading around the next pillar. In general, RetroSpace does a nice job of squirrelling secrets into even the smallest chambers, and if the secret is very often a "rocket doughnut" or other inventory-clogging flotsam, sensing the prize and snuffling after it is a thrill. I hope the thrill will intensify as RetroSpace goes on, perhaps leaving a few of its obvious influences behind. Read more
-
-### Control Resonant's New Game++ update also squashes some of my least favourite bugs, including the one where magic doors change my trousers
-Thu, 01 Oct 2026 14:22:50 +0000 — https://www.rockpapershotgun.com/control-resonants-new-game-update-also-squashes-some-of-my-least-favourite-bugs-including-the-one-where-magic-doors-change-my-trousers
-
-Trippy hack 'n' slash sequel (and, for the benefit of anyone planning for this year&rsquo;s Advent Calendar guessing game in the RPS Discord, my current second-favouritest game of 2026) Control Resonant has a big old update out today. As declassified by Remedy , it not only adds the pledged New Game++ mode for plus-deficient game replayers, but makes absolutely bloody loads of smaller bug fixes and quality of life tweaks. Read more
-
-### I'm not sure the "AI" in my chair's lumbar support actually counts as AI, but it has been smart enough to help my posture
-Thu, 01 Oct 2026 13:30:14 +0000 — https://www.rockpapershotgun.com/im-not-sure-the-ai-in-my-chairs-lumbar-support-actually-counts-as-ai-but-it-has-been-smart-enough-to-help-my-posture
-
-Note from James, 02/10: We've heard your complaints that some of the wording in this piece - a lot of which, if I'm honest, was added/changed by me in the edit - overstates the chair's potential health benefits. The HBADA&rsquo;s X7 chair may reduce back pain during long periods of sitting at your desk but it will not literally fix your spine. While it is and will remain the RPS way to indulge in some occasional hyperbole, we don't want to suggest that swivel chairs cure physical conditions, so I've clarified these bits to avoid confusion. AI is everywhere, exhausting to keep up with, and increasingly perceived as harmful to games. But that&rsquo;s mostly generative AI; the more limited, less media-scraping and energy-hungry breeds of artificial intelligence can still play a harmless, maybe even useful role, especially on the hardware side . Even if it finds itself in some unexpected places, as is the case with HBADA&rsquo;s X7 chair . While AI-powered lumbar support sounds like the kind of gimmicky nonsense that&rsquo;s become all too common in 2026, I&rsquo;ve been using an X7 for a week, and it&rsquo;s... surprisingly effective? Definitely for straightening up my posture, which I'm hopeful will help with my recurring back pain issues. It&rsquo;s been a very pleasant surprise. Read more
-
-### Capcom aren't just running out of Resident Evil games to remake - they're banking on it, with a mysterious "crossover" planned when the timelines collide
-Thu, 01 Oct 2026 12:40:00 +0000 — https://www.rockpapershotgun.com/capcom-arent-just-running-out-of-resident-evil-games-to-remake-theyre-banking-on-it-with-a-mysterious-crossover-planned-when-the-timelines-collide
-
-Capcom have done a brisk trade in Resident Evil remakes this past decade. They've gone back to formula with Resident Evil 2 , Resident Evil 3 , and Resident Evil 4 , not just bumping up the resolution and revarnishing the cutscenes, but writing new variations on the old survival horror fables. There's a Resident Evil: Code Veronica regurgitation due in 2027, and a Resident Evil 0 resurrection allegedly to follow in 2028 . The problems with this strategy are perhaps expressed by my previous sentence's struggle to come up with extra synonyms for "remake": sooner or later, Capcom are going to run out of original games they can credibly overhaul. Including the forthcoming or rumoured projects, they've only got Resident Evils 5 and 6 left now before they hit the "modern era" inaugurated by Resident Evil 7, the game that introduced the fancy RE Engine used by the remakes. Read more
 

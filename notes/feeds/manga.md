@@ -1,6 +1,51 @@
-# Manga — harvested 2026-10-03T10:02:57.444Z
+# Manga — harvested 2026-10-03T14:54:55.321Z
 
 ## Anime News Network
+
+### The Elusive Samurai Season 2 ‒ Episode 12
+Sat, 03 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-12/.242430
+
+If this really is the last we'll see of <i>The Elusive Samurai</i>, then it is a shockingly disappointing and cynical ending.
+
+### Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga Novels Get Anime
+Sat, 03 Oct 2026 10:24:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/dorei-kara-no-kitai-to-hyoka-no-sei-de-sakushu-dekinai-nodaga-novels-get-anime/.242447
+
+Maware Isogawa's story of boy reincarnated with cheat power that is too good
+
+### Rebuild World TV Anime Reveals Main Staff, 1st Key Visual
+Sat, 03 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/rebuild-world-tv-anime-reveals-main-staff-1st-key-visual/.242435
+
+Anime was initially announced in July 2023
+
+### Toshimichi Uzō's My Sweet Marriage to My Ex-Nemesis Light Novels Get TV Anime
+Sat, 03 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/toshimichi-uzo-my-sweet-marriage-to-my-ex-nemesis-light-novels-get-tv-anime/.242436
+
+Atsushi Nigorikawa directs anime at Ankichi Kobo
+
+### Antiquarian Bookshop Biblia's Case Files Anime's New Video Unveils More Cast & Staff, April Debut
+Sat, 03 Oct 2026 09:35:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/antiquarian-bookshop-biblia-case-files-anime-new-video-unveils-more-cast-and-staff-april-debut/.242446
+
+Reo Osanai, Wataru Takagi, Yōhei Azakami, Saeko Kamijō join cast
+
+### Tomb Raider King ‒ Episode 12
+Sat, 03 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-12/.242433
+
+There are even a few genuinely incredible shots, like Clark watching her Itano circus of blood red magic bolts chase Irene through an airborne battlefield full of debris.
+
+### Sentenced to Be a Hero Smartphone Game Unveils 2nd Visual, 2nd Teaser, Original Characters
+Sat, 03 Oct 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/sentenced-to-be-a-hero-smartphone-game-unveils-2nd-visual-2nd-teaser-original-characters/.242437
+
+VIC GAME STUDIOS develops smartphone game
+
+### 'Because I, the True Saint, was Banished, that Country is Done For!' TV Anime Reveals January 2027 Debut in Video
+Sat, 03 Oct 2026 05:26:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/because-i-the-true-saint-was-banished-that-country-is-done-for-tv-anime-reveals-january-2027-debut-/.242443
+
+Kanako Hara composes music
+
+### Ascendance of a Bookworm Novels' Part 4 Gets TV Anime From Wit Studio
+Sat, 03 Oct 2026 05:16:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/ascendance-of-a-bookworm-novels-part-4-gets-tv-anime-from-wit-studio/.242442
+
+Announced after end of <i>Part 3</i> anime
 
 ### Spice & Wolf: merchant meets the wise wolf Season 2 Anime Reveals Teaser Promo Video, More Cast
 Sat, 03 Oct 2026 04:40:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/spice-and-wolf-merchant-meets-the-wise-wolf-season-2-anime-reveals-teaser-promo-video-more-cast/.242439
@@ -16,51 +61,6 @@ More cast revealed; sajou no hana performs ending theme
 Fri, 02 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-02/show-your-siga-pride-with-new-goodbye-lara-sweatshirt-and-t-shirt/.242340
 
 Dress up as Lara or Mari
-
-### North American Anime, Manga Releases, September 27-October 3
-Fri, 02 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/north-american-anime-manga-releases-september-27-october-3/.242281
-
-<cite>Spirited Away</cite> anime; <cite>The Lord-Magear's Apprentice, Can You Kiss Me First?, Even the Student Council Has Its Holes!</cite> manga ship
-
-### Live-Action Street Fighter Film's Trailer Features Cast's Comments About Franchise
-Fri, 02 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/live-action-street-fighter-film-trailer-features-cast-comments-about-franchise/.242428
-
-Film opens on October 16
-
-### Welsh & Shedar Anime Streams on YouTube in November
-Fri, 02 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/welsh-and-shedar-anime-streams-on-youtube-in-november/.242424
-
-1st 2 episodes stream in English, Japanese, French in early November
-
-### FX Fighter Kurumi-chan, #I'm Looking For Zombie, Reborn as a Space Mercenary Anime Get Same-Day English Dubs
-Fri, 02 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/fx-fighter-kurumi-chan-im-looking-for-zombie-reborn-as-a-space-mercenary-anime-get-same-day-english-/.242425
-
-All 3 reveal English dub casts
-
-### Toonami Airs Wind Breaker, Gachiakuta Anime
-Fri, 02 Oct 2026 13:08:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/toonami-airs-wind-breaker-gachiakuta-anime/.242426
-
-Adult Swim's programming block adds <cite>Wind Breaker</cite> on October 10, <cite>Gachiakuta</cite> on October 17
-
-### Your Anime Rankings - Best of Summer 2026
-Fri, 02 Oct 2026 12:55:00 -0400 — https://www.animenewsnetwork.com/weekly-ranking/2026/summer/.240179
-
-<cite>Tanya the Evil</cite> claims the final weekly top spot, with <cite>Draw This, Then Die!</cite> close behind. In the cumulative, <cite>The Cat and the Dragon</cite> and <cite>Dara-san of Reiwa</cite> both edge up four places to close out the season.
-
-### HimaNatsu: Of Churches, Sunflowers, and Long Summers Game Review
-Fri, 02 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/himanatsu/of-churches-sunflowers-and-long-summers/.242004
-
-There’s a fine line between a piece of media feeling nostalgic or dated and, unfortunately, <i>HimaNatsu</i> falls into the latter category.
-
-### Viz Media Licenses The Seven Knights of the Marronnier Kingdom Manga
-Fri, 02 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/viz-media-licenses-the-seven-knights-of-the-marronnier-kingdom-manga/.242421
-
-Manga's anime adaptation debuts on Saturday
-
-### Hikari Launches Manga of Mashimesa Emoto Story
-Fri, 02 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-02/hikari-launches-manga-of-mashimesa-emoto-story/.242398
-
-<cite>"Dansō o Shiirare Otoko to Shite Ikitekita Kōshaku Reijo wa, 2-kaime no Jinsei wa Dress o Kite, Reijō Life o Ōka Shitai"</cite> manga launches on November 5
 
 ## Crunchyroll News
 
@@ -95,7 +95,42 @@ We had the honor of chatting with the Japanese singer-songwriter ZAQ during her 
 
 ## MyAnimeList News
 
-### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo
+### Light Novel Soshiki no Shukuteki to Kekkon shitara Mecha Amai Gets TV Anime
+Sat, 03 Oct 2026 07:46:45 -0700 — https://myanimelist.net/news/74786056?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Toshimichi Uzou s Soshiki no Shukuteki to Kekkon shitara Mecha Amai (My Sweet Marriage to My Ex-Nemesis) light novel on Saturday and revealed the main staff. An illustration (pictured) drawn by the light novel illustrator, Kewi Hayashi, was also shown to commemorate the announcement. Staff Director: Atsushi Nigorikawa (Aru Majo ga Shinu Made) Series Composition: Keiichirou Oochi (Class de 2-banme ni Ka...
+
+### Light Novel Kochira, Shuumatsu Teitai Iinkai Gets TV Anime
+Sat, 03 Oct 2026 07:35:11 -0700 — https://myanimelist.net/news/74786020?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Kien Aien s Kochira, Shuumatsu Teitai Iinkai (This Is the End Stagnation Committee.) light novel on Saturday, revealing an announcement promo. Kadokawa began publishing the fantasy romance novel under its Dengeki Bunko imprint in July 2024, featuring illustrations by Ogipote. The sixth volume was released on July 10. A manga adaptation by Yutaka Sakurai began on Shounen Ace Plus on April 2025. Kadokawa...
+
+### Light Novel Delta to Gamma no Rigakubu Note Gets TV Anime
+Sat, 03 Oct 2026 07:12:14 -0700 — https://myanimelist.net/news/74785962?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 announced a television anime adaptation of Takuma Sakai s Delta to Gamma no Rigakubu Note (The Science Notes by &delta; and &gamma;) light novel on Saturday, revealing an announcement promo. The light novel illustrator Asagi Toosaka drew an illustration to commemorate the announcement (pictured). Sakai began publishing the school mystery novel under its Dengeki Bunko imprint in November 2024, featuring illustrations by Asagi Toosaka. Kadokawa pu...
+
+### Rebuild World Reveals Main Staff
+Sat, 03 Oct 2026 07:08:24 -0700 — https://myanimelist.net/news/74785950?_location=rss
+
+Production company Kadokawa opened an official website for the television anime adaptation of Nahuse s Rebuild World light novel on Saturday, revealing the main staff and the first key visual (pictured). Staff Chief Director: Tsukasa Sakurai (Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu animation producer) Director: Shingo Uchida (Rokudenashi Majutsu Koushi to Akashic Records episode director) Series Composition: Naoki Tozuka (Meiji Gekken: 1874) Character Design:...
+
+### Biblia Koshodou no Jiken Techou Reveals Additional Cast, Staff, First Promo, Spring 2027 Premiere
+Sat, 03 Oct 2026 06:51:27 -0700 — https://myanimelist.net/news/74785893?_location=rss
+
+The Dengeki Bunko Autumn Festival Online 2026 livestream event revealed additional cast, staff, and the first promotional video for the television anime adaptation of En Mikami s Biblia Koshodou no Jiken Techou (The Case Files of Biblia Bookstore) novel on Saturday. The anime is scheduled to premiere in April 2027. Cast Fumika Shinokawa: Reo Osanai (Tefuda ga Oome no Victoria) Fumika Shinokawa: Wataru Takagi (Kirio Fanclub) Kikuya Kasai: Youhei Azakami (Akane-banashi) Nao Kosuge: Saeko Kami...
+
+### Romelia Senki Announces Supporting Cast
+Sat, 03 Oct 2026 06:13:20 -0700 — https://myanimelist.net/news/74785812?_location=rss
+
+The official website for the Romelia Senki (Romelia War Chronicle) television anime announced supporting cast on Saturday. The anime series adapting Ryou Ariyama s action fantasy light novel will air for two cours on Tokyo MX, BS11, Sun TV, and KBS Kyoto starting October 5, with domestic streaming exclusively on Anime Times, U-NEXT, and Netflix beginning October 3 at 9:00 p.m. Cast Kairo: Mika Kanda (Migi to Dali) Zaria: Kenji Hamada (Yuusha-kei ni Shosu) Farmaine: Youji Ueda (Tenmaku no J...
+
+### Honzuki no Gekokujou: Ryoushu no Youjo Gets Sequel TV Anime
+Sat, 03 Oct 2026 02:58:00 -0700 — https://myanimelist.net/news/74785445?_location=rss
+
+The 24th and final episode of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen: Ryoushu no Youjo (Ascendance of a Bookworm: Adopted Daughter of an Archduke) ended with an announcement on Saturday that a sequel television anime adaptation is in production. The sequel anime, which adapts the fourth part of Miya Kazuki s Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen (Ascendance of a Bookworm: I ll do Anything to Become a Librarian!)...
+
+### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo for Winter 2027
 Sat, 03 Oct 2026 01:02:34 -0700 — https://myanimelist.net/news/74785238?_location=rss
 
 The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promotional video for the television anime adaptation of Tooru Shirogane s Himekishi-sama no Himo (The Kept Man of the Princess Knight). The anime series will premiere in January 2027. Cast April: Rika Nagae (Sentai Daishikkaku) Vanessa: Rie Takahashi (Isekai Quartet 3) Dez: Tetsu Inada (Vigilante: Boku no Hero Academia Illegals 2nd Season) Chihiro Kumano (U...
@@ -130,9 +165,4 @@ _Nothing in the last 48 hours._
 Sat, 03 Oct 2026 09:00:05 +0000 — https://animeuknews.net/2026/10/appleseed-deluxe-edition-review/
 
 Shirow Masamune's first major work comes out in a 800+ page hardback collection.
-
-### “Dragon Ball Super: Beerus” Streaming on Crunchyroll 11th October
-Thu, 01 Oct 2026 11:40:44 +0000 — https://animeuknews.net/2026/10/dragon-ball-super-beerus-streaming-on-crunchyroll-11th-october/
-
-A remaster of the series Dragon Ball Super, from the legendary Akira Toriyama, Dragon Ball Super: Beerus, features updated visuals and a re-worked narrative while remaining true to Toriyama’s original vision.
 
