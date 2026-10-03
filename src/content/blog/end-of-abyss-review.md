@@ -43,7 +43,6 @@ artistView:
   misses:
     - "UI: a map that calls a door locked after the player has opened it breaks the one promise the genre makes, and the damage shows up as wasted walking rather than as a visible glitch, which is how it got past everybody."
     - "Progression: the low scores describe encounters repeating before new traversal tools arrive, which reads as a gating problem in the ability ladder more than a combat one."
-draft: true
 ---
 
 Eleven published verdicts I could verify put End of Abyss at **7.5**, and they
