@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="PS5 QSSR: 1.8ms to turn 864p into 1440p">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="62%" stop-color="#3D0F5C"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="600" fill="#D7E2EA" fill-opacity="0.62" letter-spacing="6">QSSR ON BASE PS5</text>
+  <text x="80" y="340" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">1.5–1.8ms</text>
+  <text x="80" y="425" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="500" fill="#D7E2EA" fill-opacity="0.80">per frame, 864p reconstructed to 1440p</text>
+  <rect x="80" y="470" width="190" height="4" fill="#FFFFFF" fill-opacity="0.45"/>
+  <text x="80" y="548" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#D7E2EA" fill-opacity="0.68">A tenth of a 60fps frame, measured</text>
+  <text x="80" y="600" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#D7E2EA" fill-opacity="0.68">by Digital Foundry in Marvel's Wolverine</text>
+</svg>
