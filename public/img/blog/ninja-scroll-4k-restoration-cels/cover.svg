@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Ninja Scroll 4K restoration: scanned from the original 35mm negative">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#3A1330"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g font-family="Helvetica, Arial, sans-serif">
+    <text x="90" y="150" fill="#C8891B" font-size="30" font-weight="700" letter-spacing="6">RESTORATION</text>
+    <text x="90" y="310" fill="#FFFFFF" font-size="170" font-weight="700">35mm</text>
+    <text x="90" y="395" fill="#FFFFFF" font-size="56" font-weight="400" opacity="0.92">scanned at 4K</text>
+    <text x="90" y="470" fill="#C8891B" font-size="40" font-weight="700">33 years on</text>
+    <rect x="90" y="520" width="150" height="5" fill="#C8891B"/>
+    <text x="90" y="596" fill="#FFFFFF" font-size="34" opacity="0.72">Ninja Scroll, 1993</text>
+    <text x="90" y="644" fill="#FFFFFF" font-size="34" opacity="0.72">Kawajiri supervised the grade</text>
+  </g>
+</svg>
