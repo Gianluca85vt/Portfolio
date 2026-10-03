@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scope: both launch titles were authored for the old reconstructor with the fine detail already thinned out, so they are the two games least able to show what QSSR is for."
     - "Budget: 1.5 to 1.8ms is around a tenth of a 60fps frame, and on a fixed box that comes out of shadow resolution, draw distance or internal resolution."
-draft: true
 ---
 
 Digital Foundry put a number on Sony's new upscaler this week: **1.5 to 1.8
