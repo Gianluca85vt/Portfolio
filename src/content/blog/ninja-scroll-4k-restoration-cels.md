@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Restoration: colour correction on a film this black is the risky pass, and crushed shadows would take Kawajiri's shadow shapes with them."
     - "Framing: 3840x2160 is a consumer UHD target, not the 4096 a scanner can pull off 35mm, so the master is sized for the disc as much as for the screen."
-draft: true
 ---
 
 A production cel is a sheet of acetate with paint on one side and ink on the
