@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Performance: Digital Foundry reports frame-time spikes on Series X and short stalls on Series S. The Series S has the same lighting complexity to resolve on a much smaller budget, and that is where the bill arrives."
     - "Scalability: a PC settings tier that only the top card clears at native 4K is a tuning problem, not a showcase. Reviewers reached a locked 60 with DLSS Performance, which means the native path is decorative."
-draft: true
 ---
 
 Every lighting artist who has worked in a game engine since about 2006 has
