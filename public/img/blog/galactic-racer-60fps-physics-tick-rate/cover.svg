@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Galactic Racer locks physics to 60fps, even on Series S">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.45" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#3C0A2A"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#D7E2EA" fill-opacity="0.55" font-family="Helvetica,Arial,sans-serif" font-size="30" letter-spacing="7">GAMES</text>
+  <text x="90" y="400" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="250" font-weight="700">60Hz</text>
+  <text x="90" y="470" fill="#D7E2EA" fill-opacity="0.9" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="500">physics tick, every platform</text>
+  <text x="90" y="530" fill="#D7E2EA" fill-opacity="0.6" font-family="Helvetica,Arial,sans-serif" font-size="34">Star Wars: Galactic Racer — Fuse Games</text>
+  <rect x="90" y="572" width="300" height="4" fill="#D6294E"/>
+</svg>
