@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Environment readability: reviewers report the sets blending together at speed until the racing line is unclear. Landmark spacing, value separation between the drivable surface and the walls, silhouette priority — those are art-side fixes, and a canyon is the hardest place to make them, because the geometry wants to look continuous."
     - "Set reuse: a run-based campaign sends you down the same handful of planets dozens of times. Coverage keeps calling that repetitive, which points at a track count costed for a championship structure and then asked to carry a roguelike one."
-draft: true
 ---
 
 Star Wars: Galactic Racer arrives on 6 October on PC, PS5 and Xbox Series X|S,
