@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Pipeline: none of the five named systems faces the DCC round-trip, so export, validation and re-import — the part of the day that actually eats an artist's time — is still waiting its turn."
     - "Scope: automated test plays catch broken states rather than ugly ones, and a detector that flags a LOD pop or a lightmap seam is a far harder build than one that flags a crash."
-draft: true
 ---
 
 Capcom has put two pieces of its in-house engine out in the open so that
