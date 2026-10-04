@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2E6F6B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FE8E0" letter-spacing="4">UNREAL ENGINE 5 · MEGALIGHTS</text>
+  <text x="80" y="300" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">3</text>
+  <text x="200" y="300" font-family="Helvetica, Arial, sans-serif" font-size="56" fill="#CFEFEA">shadow casters</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">→ 100s</text>
+  <text x="80" y="490" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#CFEFEA">at 60fps on Series X</text>
+  <text x="80" y="580" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#8FBFBA">Gears of War: E-Day</text>
+</svg>
