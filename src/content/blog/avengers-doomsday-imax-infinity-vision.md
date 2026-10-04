@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Framing: the certification is silent on aspect ratio, so a film finished in an expanded ratio has nowhere domestic to show it while IMAX is booked elsewhere."
     - "Finishing: 14 foot-lamberts on a 2D presentation is the reference white that compliant digital projection was already specified to hit, so that half of the spec certifies the status quo."
-draft: true
 ---
 
 Forty-five feet of screen. Laser projection, immersive audio, and fourteen
