@@ -1,58 +1,93 @@
-# Film & TV — harvested 2026-10-04T10:46:25.048Z
+# Film & TV — harvested 2026-10-04T17:50:29.522Z
 
 ## Variety
 
-### Pete Hegseth Chugs Spider-Man’s Non-Alcoholic B - Beer in SNL Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance
-Sun, 04 Oct 2026 04:10:00 +0000 — https://variety.com/2026/tv/news/snl-pete-hegseth-spider-man-non-alcoholic-beer-1236898415/
+### Sass Jordan, Singer and Longtime Canadian Idol Judge, Dies at 65
+Sun, 04 Oct 2026 17:37:12 +0000 — https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/
 
-In the Oct. 3 cold open on “Saturday Night Live,” Andrew Dismukes and Ashley Padilla play Republican strategists who have their work cut out for them building buzz for their party. Marcello Hernández comes in first as Marco Rubio, who speaks to constituents in Spanish, admits that Trump did not live up to expectations and [ ]
+Sass Jordan, the singer, songwriter and longtime Canadian Idol judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she died peacefully and was surrounded by those who loved her most. They remembered her as an inimitable force of nature and an irreplaceable being of light and joy. Jordan began [ ]
 
-### Taylor Swift Crashes Dakota Johnson s SNL Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout
-Sun, 04 Oct 2026 03:49:52 +0000 — https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/
+### ‘Spotlight’ Director Says The Catholic Church Hasn’t Done ‘Enough’ To Protect Children From Sexual Assault 10 Years After Film’s Best Picture Win: ‘Not Until Every Child Is Safe’
+Sun, 04 Oct 2026 17:07:47 +0000 — https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/
 
-Predictions that Taylor Swift would make a cameo on Saturday Night Live with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said I have really good friends. They don t judge me, they re really supportive. Ladies and gentlemen, my literal therapist. [ ]
+Tom McCarthy’s biographical drama “Spotlight” won Best Picture at the Academy Awards in 2016. The film, featuring a stacked ensemble led by Michael Keaton, Rachel McAdams and Mark Ruffalo, was widely praised for chronicling the investigative reporting by the Boston Globe that exposed the Catholic Church’s systemic cover-up of sexual abuse of children by priests. [ ]
 
-### A Statement Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy s Historically Based Talkfest Reveals How Much We Knew in 1980
-Sun, 04 Oct 2026 00:15:11 +0000 — https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/
+### Daily Wire’s Pro-ICE Film Pawn Shop Production Temporarily Suspended
+Sun, 04 Oct 2026 16:58:08 +0000 — https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/
 
-On paper, "A Statement" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a "firebrand" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.
+Production of Daily Wire’s pro-ICE film “Pawn Shop” has been temporarily halted in Livingston, Mont., following a Special City Commission Meeting held on Saturday. The action comes as Livingston locals raised concerns about the film’s impact on local business — and notably the city’s sole food bank — as well as improper notification about hazardous [ ]
 
-### Lawrence Rothman on Their New Album, Here Lives Love/Sawdust to Stardust, a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything
-Sat, 03 Oct 2026 23:50:49 +0000 — https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339/
+### East of Eden Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh s Cathy Is Both a Murderer and Survivor and Making Lee a Central Character
+Sun, 04 Oct 2026 16:30:00 +0000 — https://variety.com/2026/tv/news/east-of-eden-explained-ending-cathy-lee-sexuality-1236897001/
 
-Lawrence Rothman has a lot of nerve, starting an album with a song called The Meaning, and then daring to ask some of the questions inherent in the big picture created by those two words — like, if not what is the meaning of life, then what is the meaning of music? (Of course, for [ ]
+SPOILER ALERT: This interview contains major spoilers from “East of Eden,” now streaming on Netflix. Zoe Kazan has spent much of her life thinking about family legacy on and off screen. More than 62 years after her grandfather Elia Kazan famously directed James Dean in an adaptation of the fourth and final part of John [ ]
 
-### Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’
-Sat, 03 Oct 2026 23:43:13 +0000 — https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/
+### Pedro Pascal in Behemoth! : The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For
+Sun, 04 Oct 2026 16:15:00 +0000 — https://variety.com/2026/film/awards/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/
 
-Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angry Men” — [ ]
+Pedro Pascal makes his Oscar case with a cello. “Behemoth!,” Tony Gilroy s first feature as a director since “The Bourne Legacy” in 2012, world-premiered on Friday night at Alice Tully Hall as the centerpiece selection of the New York Film Festival. Pascal plays Alex Serian, a former child prodigy from a family of Los Angeles [ ]
 
-### Jeremy Strong Defends Method Acting, Says He Doesn’t Feel the Need to ‘Apologize’ to Co-Stars Who May Think ‘I m Taking It Too Seriously’
-Sat, 03 Oct 2026 23:05:10 +0000 — https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/
+### Zach Bryan Breaks Attendance Record at Robert Kraft’s Gillette Stadium While Wearing ‘Free Palestine’ Shirt for Second Night in a Row
+Sun, 04 Oct 2026 16:09:22 +0000 — https://variety.com/2026/music/news/zach-bryan-breaks-record-kraft-free-palestine-1236898609/
 
-Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn’t feel the “need to apologize” to those he works with who may feel he is taking the process “too seriously” on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire [ ]
+Zach Bryan broke the attendance record at Robert Kraft’s Gillette Stadium on Saturday night, performing for 73,538 fans — the largest crowd for any event in the venue s history — while wearing a “Free Palestine” shirt for the second night in a row. The move was a statement on several levels, but was pointedly directed [ ]
 
-### ‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex
-Sat, 03 Oct 2026 21:00:00 +0000 — https://variety.com/2026/gaming/news/runescape-animation-series-lyrical-animation-jagex-1236898308/
+### James Van Der Beek Was the ‘Soul of Dawson s Creek, Says Show Creator Kevin Williamson: ‘He Handled His Cancer With Such Grace and Courage’
+Sun, 04 Oct 2026 16:07:55 +0000 — https://variety.com/2026/tv/columns/dawsons-creek-kevin-williamson-james-van-der-beek-cancer-1236898546/
 
-Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and marks a new step in Jagex’s [ ]
+“Dawson’s Creek” creator Kevin Williamson remembered the show’s late star Jame Van Der Beek on Saturday night while being honored with a Hero Award at the Barbara Berlanti Heroes Gala, Greg Berlanti’s annual F Cancer benefit. Williams explained that the show, about a small-town high school student dreaming of becoming a Hollywood director, was inspired [ ]
 
-### Guillermo Del Toro Defends Digger, Calls the Film Daring, Bold and Cinematically Complex
-Sat, 03 Oct 2026 19:55:38 +0000 — https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/
+### John Steinbeck s East of Eden Returns to Top of Book Charts Following Netflix Adaptation s Release
+Sun, 04 Oct 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/read-east-of-eden-john-steinbeck-netflix-buy-shop-book-online-1236898511/
 
-Guillermo Del Toro is publicly declaring his love for “Digger.” Del Toro took to X to call out naysayers of Alejandro G. Iñárritu’s film ahead of its Friday release. “Entirely Petty headline,” the director wrote in response to a review of Warner Bros.’ R-rated black comedy. “Love it or not. And yes, I do. The [ ]
+Fresh off the heels of the hit Netflix adaptation release, which stars Florence Pugh, John Steinbeck s East of Eden is at the top of Amazon s Best Sellers List in the No. 1 spot. In addition, the audiobook of the novel is on the retail giant s Best of #BookTok books list too. Regularly priced at $25, [ ]
 
-### Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’
-Sat, 03 Oct 2026 19:15:41 +0000 — https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/
+### Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in Earthquake, Falcon Crest, Dies at 82
+Sun, 04 Oct 2026 15:49:14 +0000 — https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/
 
-Tony Gilroy blasted the “tragic” nature of the Paramount-Warner Bros. merger at the world premiere of his new film, “Behemoth!” Produced on a $36 million budget, “Behemoth!” is representative of the mid-budget, adult-oriented drama that once sustained Hollywood’s theatrical business — and allowed filmmakers like Gilroy to make a name for themselves in the industry. [ ]
+Marjoe Gortner, whose childhood as an evangelical preacher was the subject of the Oscar-winning documentary Marjoe and who went on to have a career as an actor, died Friday. He was 82. His wife Susan Magestro told Variety he died in Santa Fe, N.M. Her memorial notice said he had been suffering from years of [ ]
 
-### Pierre Le Gall s Passionate Love Story Flesh and Fuel Named Best Film at Zurich Film Festival
-Sat, 03 Oct 2026 19:00:00 +0000 — https://variety.com/2026/film/global/pierre-le-gall-flesh-and-fuel-zurich-film-festival-1236898150/
+### Box Office: Digger Majorly Bombs With $8 Million Opening Weekend, Verity Scores $32 Million Debut
+Sun, 04 Oct 2026 15:27:05 +0000 — https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/
 
-French director Pierre Le Gall s passionate love story Flesh and Fuel, which world premiered in Cannes’ Critics Week, won the top prize, the Golden Eye, at the 22nd Zurich Film Festival on Saturday. The Golden Eye for best documentary went to Pete Muller s Bucks Harbor, which premiered at the Berlin Film Festival in the Panorama [ ]
+In Digger, Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that s unfolding at the box office, where Digger has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals believe the figure will be closer [ ]
 
 ## The Hollywood Reporter
+
+### ‘Edward Said: Between Worlds’ Review: A Crucial Palestinian Scholar, Revived for a New Generation
+Sun, 04 Oct 2026 16:45:16 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/edward-said-between-worlds-review-palestine-1236720415/
+
+The latest doc from the Danish filmmaker and producer Maiken Baird (‘Icarus’) examines Said’s role in reframing the Palestinian struggle.
+
+### Marjoe Gortner, Child Preacher and ‘Earthquake,’ ‘Falcon Crest’ Actor, Dies at 82
+Sun, 04 Oct 2026 16:40:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873/
+
+The subject of an Oscar-winning documentary, the Universal Pictures contract player also starred with Lynda Carter in ‘Bobbie Jo and the Outlaw.’
+
+### Where to Watch the Chiefs vs. Raiders Game Online
+Sun, 04 Oct 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chiefs-vs-raiders-game-free-nfl-streams-2026-1236721201/
+
+The NFL Week 4 matchup is set for Sunday, Oct. 4 at Allegiant Stadium in Las Vegas.
+
+### Tom Cruise s Digger Buried at Box Office With $8M as Verity Wins Weekend
+Sun, 04 Oct 2026 16:04:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bombs-box-office-opening-verity-1236721814/
+
+Alejandro G. Iñárritu helmed the pricey satire that will go down as a big financial loss for Warner Bros.
+
+### Avengers: Endgame Returns to No. 1 on All-Time Global Box Office Chart, Surpassing Avatar
+Sun, 04 Oct 2026 15:34:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/
+
+Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'
+
+### In The Heart of the South Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”
+Sun, 04 Oct 2026 15:32:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/
+
+Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.
+
+### Tom Cruise s Digger Tries New Marketing Tactic: The French Love It, Americans Don t
+Sun, 04 Oct 2026 14:29:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/
+
+A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.
 
 ### Taylor Swift Crashes Dakota Johnson s Saturday Night Live Hosting Stint: My Literal Therapist!
 Sun, 04 Oct 2026 03:47:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-dakota-johnson-saturday-night-live-1236721702/
@@ -69,42 +104,37 @@ Sun, 04 Oct 2026 00:58:57 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 "I’m just there to commit utterly to serving the material," the Oscar nominee said of his approach to acting.
 
-### ‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama
-Sun, 04 Oct 2026 00:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-statement-review-paul-rudd-amy-ryan-john-turturro-1236721637/
-
-Paul Giamatti, Evan Peters and Tatiana Maslany also star in Tom McCarthy’s account of a 1980 conference at which a group of experts is tasked with getting ahead of the climate crisis.
-
-### Florence Pugh on How Zoe Kazan East of Eden Collaboration Helped Boost Her Confidence
-Sat, 03 Oct 2026 22:06:56 +0000 — https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680/
-
-The actress who plays the central character of Cathy and serves as an executive producer on the well-reviewed Netflix adaptation was Kazan's first and only choice for the role: "I didn't have a backup."
-
-### Annabelle Wallis on the Defining Question of ‘Unabomber,’ a Potential James Wan Reunion and ‘Peaky Blinders’ What-Ifs
-Sat, 03 Oct 2026 21:15:42 +0000 — https://www.hollywoodreporter.com/movies/movie-features/annabelle-wallis-unabomber-netflix-1236720760/
-
-Plus: how an old The Hollywood Reporter interview with Wallis sparked a false viral story about the real-life Annabelle doll escaping the Warren Museum in Connecticut.
-
-### Tom Cruise Stands Up for Digger Amid Tough Box Office: I m So Proud of What We Created
-Sat, 03 Oct 2026 19:24:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/
-
-Alejandro G. Iñárritu helmed the big-budget Warner Bros. release that is struggling in its opening weekend.
-
-### Tom Cruise s Digger Plunging at Box Office With Less Than $10M as Verity Leads
-Sat, 03 Oct 2026 16:02:54 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-box-office-opening-verity-2-1236721548/
-
-Warner Bros.' pricey satire could be heading to Cruise's lowest opening in nearly two decades.
-
-### Jerry Golod, ‘Tales From the Darkside’ Producer, Dies at 87
-Sat, 03 Oct 2026 15:58:10 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jerry-golod-dead-tales-from-the-darkside-producer-1236721586/
-
-The onetime CBS and NBC executive also worked on ‘Adderly,’ ‘Return to Green Acres’ and a new version of ‘Land of the Lost.’
-
-### Ohio State vs. Iowa: Where to Watch the 2026 College Football Game Online
-Sat, 03 Oct 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-ohio-state-buckeyes-vs-iowa-hawkeyes-game-free-2026-1236721110/
-
-Here's how to livestream the Big Ten matchup between the Buckeyes and Hawkeyes on Saturday, Oct. 3.
-
 ## Deadline
+
+### Reacher Author Explains Why He Vetoed Third Tom Cruise Movie, Calls Prime Series A Fabulous Luxury
+Sun, 04 Oct 2026 17:31:53 +0000 — https://deadline.com/2026/10/reacher-author-vetoed-third-tom-cruise-movie-1237146202/
+
+As Prime Video s Reacher prepares a fifth and sixth season, the franchise s creator is happy with the freedom provided by this adaptation. Author Lee Child, who penned the Jack Reacher books on which the series is based, explained why he exercised that veto on a third entry in the Tom Cruise movies, opting instead for [ ]
+
+### Verity Lures 2nd Best Opening For Colleen Hoover Pic With $62M+ WW; Digger DOA At $20M WW Global Box Office
+Sun, 04 Oct 2026 16:42:00 +0000 — https://deadline.com/2026/10/box-office-global-verity-digger-1237146180/
+
+Colleen Hoover can look forward to a nice brunch this morning as the feature take of her novel starring Anne Hathaway, Dakota Johnson, and Josh Hartnett, Verity, bowed to $62.5M worldwide, the second best start for the author at the global box office behind 2024 s It Ends With Us in like-for-likes, which was $95.6M WW. [ ]
+
+### Zach Bryan Breaks Gillette Stadium s Attendance Record While Rocking Free Palestine Shirt
+Sun, 04 Oct 2026 16:12:41 +0000 — https://deadline.com/2026/10/zach-bryan-gillette-stadium-attendance-record-free-palestine-1237146187/
+
+For his second night performing at Robert Kraft s Gillette Stadium, Zach Bryan broke a record and made a statement. While once again wearing his Free Palestine shirt during Saturday s show on his With Heaven on Tour, the Grammy winner boasted the venue s largest ever turnout with more than 73,000 in the audience. Tonight, Zach Bryan [ ]
+
+### Daily Wire Filming Temporarily Suspended In Montana After Special City Meeting
+Sun, 04 Oct 2026 15:55:18 +0000 — https://deadline.com/2026/10/daily-wire-filming-temporarily-suspended-montana-1237146172/
+
+Following protest from locals, the city of Livingston, Montana has temporarily suspended production on Daily Wire s latest film, Pawn Shop. During a special meeting on Saturday, the Livingston City Commission unanimously passed a motion raised by Commissioner Cindy Daniels in response to concerns raised by citizens over the disruption to businesses and the city s only [ ]
+
+### Verity Solid $32M+ Start; Digger At $8M Is Tom Cruise s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores Sunday Update
+Sun, 04 Oct 2026 15:23:00 +0000 — https://deadline.com/2026/10/box-office-verity-digger-1237145435/
+
+SUNDAY AM WRITETHRU: After Saturday update Warner Bros very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007 s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $20M worldwide. In hindsight, Amazon MGM Studios was bold to date on top [ ]
+
+### Avengers: Endgame Overtakes Avatar Again As Highest Grossing Movie Ever At Global Box Office
+Sun, 04 Oct 2026 15:11:23 +0000 — https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168/
+
+Disney/Marvel Studio s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18. Endgame was king of the [ ]
 
 ### SNL s Weekend Update Tackles Cornell Controversy Return Of Glee
 Sun, 04 Oct 2026 04:48:46 +0000 — https://deadline.com/2026/10/weekend-update-cornell-controversy-return-of-glee-1237146124/
@@ -136,44 +166,21 @@ Sat, 03 Oct 2026 21:54:02 +0000 — https://deadline.com/2026/10/tom-cruise-prou
 
 Digger may be the lowest opening for a Tom Cruise joint since 2007 s Lions for Lambs, but the mega-star has only mad respect for those who joined him on the Alejandro G. Iñárritu-directed film. In an Instagram post, Cruise said that I am so honored to have had the opportunity to create this film alongside [ ]
 
-### Aaron Sorkin Says It Never Occurred To Me That Jesse Eisenberg Wouldn t Want To Return For The Social Reckoning
-Sat, 03 Oct 2026 20:55:05 +0000 — https://deadline.com/2026/10/aaron-sorkin-never-occurred-jesse-eisenberg-social-reckoning-1237146050/
-
-As Aaron Sorkin logged back into Facebook for The Social Reckoning, his friend request to Jesse Eisenberg was denied. The Oscar-winning screenwriter of The Social Network (2010) explained that it never occurred to him that Eisenberg wouldn t want to reprise his portrayal of Meta mogul Mark Zuckerberg in the sequel, which premieres Oct. 9 in [ ]
-
-### X-Men s Christopher Abbott Admits He Hasn t Read Anything Yet But Can t Wait To Play Professor X
-Sat, 03 Oct 2026 19:18:56 +0000 — https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033/
-
-Although Charles Xavier has the power to read minds, Christopher Abbott is being kept in the dark about his next big role. The actor, who was cast as Professor X in Marvel Studios X-Men movie, recently noted he s very much excited to get to work on the Jake Schreier-helmed superhero movie, despite still having not [ ]
-
-### Brilliance Of The Who’s Leader Shines In ‘Pete Townshend: Behind Blue Eyes,’ Screening At Hamptons Mill Valley
-Sat, 03 Oct 2026 18:13:33 +0000 — https://deadline.com/2026/10/pete-townshend-behind-blue-eyes-interview-frank-marshall-nigel-sinclair-cassidy-hartmann-1237146014/
-
-The British invasion of the mid-1960s was a multi-pronged attack, an assault led above all by The Beatles, The Rolling Stones, and The Who. Their seismic impact on American and world culture has been well documented. But of the leaders of those three mega-bands, perhaps the most mysterious remains Pete Townshend, The Who’s songwriter and [ ]
-
-### Barbershop Teaser: Jermaine Fowler Struggles To Win Over Calvin s New Barbers In Prime Series — Watch
-Sat, 03 Oct 2026 17:56:44 +0000 — https://deadline.com/2026/10/barbershop-teaser-jermaine-fowler-prime-video-series-1237146012/
-
-Calvin s is taking walk-ins once again as Barbershop returns to screens with a new eight-episode show. On Saturday at CultureCon, Prime Video shared the first teaser for the series adaptation of the comedy-drama film franchise that launched in 2002, revealing the barbershop s new owner in the show, all episodes of which premiere Feb. 10, 2027 [ ]
-
-### Jerry Golod Dies: Tales from the Darkside EP Was 87
-Sat, 03 Oct 2026 17:13:19 +0000 — https://deadline.com/2026/10/jerry-golod-dies-1237145992/
-
-Jerry Golod, an executive producer behind Tales from the Darkside and Return to Green Acres, has died. He was 87. The producer s daughter Dori Golod Howell announced that he died on Wednesday at his Rancho Mirage home, following a brief battle with cancer, according to The Hollywood Reporter. Born Dec. 26, 1938 in the Bronx, [ ]
-
-### Guillermo Del Toro Buries Digger In Praise, Slams Petty Review: Decidedly A Theatrical Experience
-Sat, 03 Oct 2026 16:04:12 +0000 — https://deadline.com/2026/10/guillermo-del-toro-digger-praise-slams-petty-review-1237145972/
-
-Although Digger has premiered this weekend to mixed reviews, Guillermo Del Toro is a confirmed fan of the Alejandro G. Iñárritu satire. The 3x Oscar winner has taken to social media to heap praise on Tom Cruise s latest after responding to a critic that called the film far from a must-watch and recommended viewers wait [ ]
-
 ## befores & afters
 
-### Visual effects is at the heart of storytelling in ‘Heart of the Beast’
-Fri, 02 Oct 2026 11:41:22 +0000 — https://beforesandafters.com/2026/10/02/visual-effects-is-at-the-heart-of-storytelling-in-heart-of-the-beast/
-
-Dealing with dogs, wolves, a river rapids crossing, a plane crash, and titanium teeth. Directed by David Ayer, Heart of the Beast follows retired Special Forces veteran James Belmont (Brad Pitt) and his retired combat dog, Odin, on a harrowing 58-mile trek across the unforgiving Alaskan wilderness after their light aircraft crashes into a lake. A primary German Shepherd named Uber—a former search-and-rescue dog—was cast to handle the expressive hero shots, while three of his sons served as specialized stunt doubles tasked with specific physical demands like wire work, swimming and running. Production shot in New Zealand, standing in for Alaska, with on location and studio and backlot filming all part of the mix. While the practical dogs provided the heart of the film, digital creature work—entirely handled by Framestore—was also crucial in realizing a number of shots and sequences with Odin. VFX also came into play for the plane crash, the river rapids crossing and for encounters with several other creatures such as a bear and an aggressive pack of gray wolves. Here, befores & afters goes deep into the film’s effects with visual effects supervisor François Dumoulin, who hails from Framestore. He explores the art of delivering complex VFX for a film that was not meant to feel like a VFX film at all, starting with the ‘Pepsi challenge’ showcasing the real vs CG dog, orchestrating a highly realistic plane crash, coming up with a unique way to shoot the river crossing, and dealin
+_Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Digger Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise s Career
+Sun, 04 Oct 2026 15:24:52 +0000 — https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/
+
+The expensive satire is on track to lose $150 million or more, studio sources estimate, making it a historic disaster.
+
+### Box Office: John Wilson s The History of Concrete from Magnolia Passes $1 Million
+Sun, 04 Oct 2026 12:30:00 +0000 — https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-1-million-gross-record-1235220143/
+
+Among documentaries, the humorous look at urbanism is the year's highest-grossing platform release.
 
 ### A Statement Review: Tom McCarthy s Talky Climate Crisis Seriocomedy Is Light Entertainment That Hardly Rakes the Muck
 Sun, 04 Oct 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/a-statement-review-tom-mccarthy-1235220103/
@@ -215,27 +222,27 @@ Fri, 02 Oct 2026 18:06:32 +0000 — https://www.indiewire.com/criticism/movies/c
 
 New York Film Festival: Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.
 
-### Indie Filmmakers Push Back Against Claims That There Aren’t Enough Movies to Buy
-Fri, 02 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/indie-filmmakers-push-back-movie-shortage-claims-1235219759/
-
-Distributors say there's high demand for indie films that are distinctive and broadly commercial. Artists like Annapurna Sriram want to know how big a movie has to be before it counts.
-
-### How Bleecker Street Endured Tragedy and Elon Musk s Legal Threats to Have Its Hottest Year
-Fri, 02 Oct 2026 16:15:00 +0000 — https://www.indiewire.com/news/business/bleecker-street-elon-musk-tragedy-hot-year-1235219768/
-
-The independent studio is deep in the awards race with "Tender Loving Care" and riding high on the success of "Hadestown: The Musical" despite the death of its founder.
-
-### Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema
-Fri, 02 Oct 2026 16:05:31 +0000 — https://www.indiewire.com/features/commentary/mike-de-luca-pam-abdy-over-warner-bros-1235219841/
-
-The Pam and Mike era is over. Their sensibility led to big hits and massive flops and was not in sync with new Skydance boss David Ellison.
-
-### Before David Ellison Took Over Paramount, I Watched the Hollywood That Brought Me Here Disappear
-Fri, 02 Oct 2026 15:03:41 +0000 — https://www.indiewire.com/features/commentary/paramount-golden-age-before-merger-1235219744/
-
-As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.
-
 ## The Wrap
+
+### Here s What s New on Prime Video in October
+Sun, 04 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/everything-new-prime-video-october-2026/
+
+Welcome to October, friends. It s officially Fall, it s officially spooky season, and it s officially time for streamers to shake up their catalogues. So, what s going on over at Prime Video? Well, there s of course some good Halloween options, like the 1931 Frankenstein, some Chucky variants, and more. There s your feel-good options, like Girls Trip and She s All That. Then there s some brand new releases, like Rachel Morrison s Love of Your Life starring Margaret Qualley. We ve got the comprehensive list for you below. Here s everything headed to Prime Video in October. Oct. 1 A View to a Kill (1985) American Fiction (2023) Bend Of The River (1952) Blade Runner 2049 (2017) Blade Runner: The Final Cut (1982) Bodies Bodies Bodies (2022) Candyman (1992) Casino (1995) Casino Royale (1967) Casino Royale (2006) Child s Play (1988) Child s Play (2019) Chitty Chitty Bang Bang (1968) Creature From The Black Lagoon (1954) Creed (2015) Creed II (2018) Creed III (2023) Dances With Wolves (1990) Dark Harvest (2023) Deepwater Horizon (2016) Diamonds Are Forever (1971) Diary Of A Wimpy Kid: The Long Haul (2017) Die Another Day (2002) Dog (2022) Dr. No (1962) Dracula (1931) Duel At Diablo (1966) Duets (2000) EDtv (1999) Fletch (1985) Fletch Lives (1989) For Your Eyes Only (1981) Frankenstein (1931) From Russia With Love (1964) Girls Trip (2017) Girls Trip (Photo credit: Universal Pictures) Going My Way (1944) Goldeneye (1995) Goldfinger (1965) Guy Ritchie s The Covenant (2023) Hereditary (
+
+### All 16 CBS Shows Premiering This Week
+Sun, 04 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/cbs-fall-2026-lineup-schedule/
+
+Fall has officially begun, and this week, so does CBS Fall programming slate. It all kicks off on Sunday, with the return of Marshals and Tracker. Though the bulk of the networks Fall slate is made up of returners, there are also three brand new series premiering as well. That includes Eternally Yours, a new vampire comedy from the creators of Ghosts — perfectly timed for the beginning of the Halloween season. Here are all the shows debuting or returning during CBS Premiere Week. Jefferson White in Marshals. (Credit: Cam McLeod/CBS) Marshals Airs on Sundays Marshals returns for its second season on Sunday, October 4 at 8:30 p.m. ET. The series follows Luke Grimes reprising his role as Kayce Dutton from Yellowstone, as he joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. In season 2, Jefferson White will reprise his role as fan-favorite Jimmy Hurdstrom, a good-hearted yet rough-around-the-edges ranch hand who evolved from a troubled criminal into a resilient, proud cowboy, in a recurring role. Marshals will return to its typical 8 p.m. ET time slot on October 11. Justin Hartley as Colter Shaw in Tracker (Tyler Golden/CBS) Tracker Airs Sundays Immediately following Marshals is the Season 4 premiere of Tracker, starring Justin Hartley. In the first episode of the season, Colter’s search for a teenage boy’s missing father leads him to a dangerous criminal operation at the Port of Los Angeles. Tracker returns to
+
+### Digger Gets Crushed With $20 Million Global Opening at Box Office
+Sun, 04 Oct 2026 15:33:32 +0000 — https://www.thewrap.com/creative-content/movies/verity-digger-box-office-bomb/
+
+This week s wide releases are getting very tepid reception from critics and audiences, but their box office outlooks are very different as Amazon MGM s Colleen Hoover adaptation Verity is set to turn at least a modest theatrical profit while Warner Bros./Legendary s Digger looks fated to become one of the biggest busts of the year. Digger carries a budget of at least $125 million, with some reports putting it at around $160 million. Either way, it s a terrible start for the Alejandro Inarritu-directed satire with a domestic opening of $8 million and a global opening weekend of just $20 million, bringing an unceremonious end to Warner Bros. 103-year run as it merges with Paramount Skydance this week. Digger has divided critics and audiences alike with Rotten Tomatoes scores of 51% critics and 70% audience, a C+ on CinemaScore and 47% definite recommend from PostTrak, the sort of scores that might be the makings of a cult film among cinephiles but are poison to a film s efforts to attract the theatrical audience needed for a film of this budget level. And for Tom Cruise, who was pegged by awards prognosticators as a potential Oscar nominee, this is his worst opening weekend since the 2007 Robert Redford war drama Lions for Lambs. Despite that, Cruise expressed his pride in Digger on social media and his gratitude to the film s cast and crew in a social media post on Saturday. I am so honored to have had the opportunity to create this film alongside such talented artists. Thank 
+
+### Avengers: Endgame Takes Back the All-Time Box Office Record From Avatar After Encore Reissue
+Sun, 04 Oct 2026 15:08:45 +0000 — https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office/
+
+After two more weekends of play with its Encore reissue, Avengers: Endgame has added $126 million to its lifetime gross, enough to take back the unadjusted record for the highest grossing film of all time from Avatar. With $36.2 million domestic and $89.8 million overseas, Endgame Encore has pushed the film s global lifetime gross to $2.92 billion, just passing the same figure as James Cameron s 2009 sci-fi epic. It also pushes the Marvel Cinematic Universe s franchise gross total going back to the 2008 launch title Iron Man to a staggering $35 billion. And another $2 billion-plus could well be on the way this December with Avengers: Doomsday this December, which has already racked up close to $60 million in presales according to theatrical sources. The hype for Doomsday helped Endgame take back the all-time record, as Endgame Encore featured a tweaked ending and three new mid-credit and post-credit scenes connected to the upcoming blockbuster. As TheWrap reported last week, Avengers -mania has also crossed over with efforts across the movie theater industry to renovate their multiplexes, with Cinema United reporting $2.7 billion in refurbishment spending over the past two years. With its new Infinity Vision campaign , Disney and Marvel Studios have sought to guide moviegoers to other premium formats to watch Doomsday on as the film will not screen on Imax for at least the first three weeks of its theatrical run. Several exhibitors have told TheWrap that they have accelerated
 
 ### Taylor Swift Interrupts Dakota Johnson’s ‘SNL’ Monologue With Breakup Advice
 Sun, 04 Oct 2026 04:07:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-dakota-johnson-monologue-taylor-swift/
@@ -267,75 +274,55 @@ Sat, 03 Oct 2026 21:10:21 +0000 — https://www.thewrap.com/creative-content/mov
 
 Tom Cruise isn’t ready to call Digger a lost cause, even after the film stumbled out of the gate at the box office . The actor shared behind-the-scenes photos from the film’s production Saturday, thanking the cast and crew for their hard work. “Digger” marked something of a return for Cruise, who has spent the past decade or so largely committed to blockbusters and action filmmaking and seemed to be returning to a role closer to his work in “Magnolia” or even “Tropic Thunder.” Many are also calling the film a clear awards play for Cruise, who has won an honorary Oscar but has never taken home one of the Academy’s acting trophies. In the film, Cruise plays a powerful oil tycoon named Digger Rockwell whose arrogance and greed trigger a global catastrophe. Digger is then tasked by the president (John Goodman) with “digging us out” of the mess he created. The film has generated a lot of conversation about what its true plot is. You can read spoilers here . “ Digger; is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists,” the actor posted on X Saturday. “Thank you to the entire cast and crew for your dedication, hard work, and joy. The experience was truly unforgettable and I’m so proud of what we created.” DIGGER is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists. Thank you to the entire cast and crew for your dedication, hard work, an
 
-### Aaron Sorkin Explains Jesse Eisenberg Turning Down The Social Reckoning : Money Does Not Motivate Him
-Sat, 03 Oct 2026 20:07:10 +0000 — https://www.thewrap.com/creative-content/movies/aaron-sorkin-jesse-eisenberg-turning-down-social-reckoning-pay/
-
-Aaron Sorkin returned to the world of Facebook for The Social Reckoning, the writer-director s follow-up to The Social Network. But few of his conspirators from that hit have returned for this next film: most conspicuously, Jesse Eisenberg, who received an Oscar nomination in 2011 for his performance as tech giant Mark Zuckerberg. It wasn t for lack of trying, explains Sorkin. The filmmaker, who took over directing duties on Reckoning after David Fincher helmed The Social Network, suggested to Entertainment Weekly that Sony Pictures made a considerable offer to Eisenberg in an attempt to lure him back to one of his most iconic roles. I knew what the studio was offering him to do it, but money does not motivate Jesse. It’s infuriating,” Sorkin said. “If anything, money is a disincentive for him. It’s admirable. He’s very concerned about raising his kids with too much money.” Sorkin also recalled his own efforts to court Eisenberg, saying that it never occurred to me that he wouldn t want to do it. After sending the actor a script, Sorkin outlined his arguments for why Eisenberg should return to the role. I do remember Jesse saying at one point during the third or fourth back-and-forth (saying), ‘You have come closer to changing my mind than I thought you were going to.’ So I was pleased about that, the filmmaker added. In a prior interview with Vanity Fair, Sorkin explained that Eisenberg didn t want to return to the role because he simply did not want to be conflated with Mar
-
-### 8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More
-Sat, 03 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-shows-streaming-this-weekend-oct-2-4/
-
-It is a big week for new straight-to-streaming shows. The platform with this week s biggest premiere is Netflix , which has unveiled its long-awaited limited series adaptation of East of Eden starring Florence Pugh, Christopher Abbott, Mike Faist and others. Elsewhere, Disney+ and Hulu both have the complete first season of the High School Musical: The Musical: The Series creator s new YA witch dramedy. Meanwhile, AMC+ has a new crime thriller starring Catherine Zeta-Jones on its release slate. Here are the best new movies and shows streaming this weekend. “Sacrifice” Season 2 (Paramount+) Sacrifice Season 2 (Paramount+) It has been nearly five years since the first season of Sacrifice, creator Chris Stokes thriller about an entertainment lawyer (Paula Patton) navigating the tumultuous lives of her rich and famous Hollywood clients, aired on BET+. Nonetheless, the series has made its return this week on Paramount+. The 10-episode second season of Sacrifice premiered Wednesday on the streaming service, catching viewers back up with Patton s Daniella Hernandez as she fights to rebuild Blackgammon Records and protect her family s legacy. If you were a fan of Sacrifice Season 1, you might want to add its second season to your watchlist this week. Florence Pugh in East of Eden (Kirsty Griffin/Netflix) East of Eden (Netflix) One of this fall s biggest streaming premieres has finally arrived. Creator Zoe Kazan s ambitious, seven-part adaptation of John Steinbeck s East of Eden premi
-
-### The 3 Best New Movies to Watch on Paramount+ This Week
-Sat, 03 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-paramount-plus-this-week-oct-3/
-
-A new month means a new dose of movies landing on Paramount+ and there are plenty of good options to pick from for your October binge. Topping the list for spooky season is Doctor Sleep, a sequel to The Shining from Stephen King adaptation maestro Mike Flanagan. The film is criminally underviewed and stands among the best of the author s adaptations. If horror isn t your bag, you can also scratch your Odyssey itch or grab one of the great non-superhero comic book adaptations. Here are the three new movies to Paramount+ to check out this week. Ewan McGregor in Doctor Sleep (Warner Bros.) Doctor Sleep “Doctor Sleep” and the balancing act that Mike Flanagan achieved deserved more love than it got. “The Shining” is one of Stephen King’s most iconic novels, and the Stanley Kubrick adaptation is equally revered — by all but King himself. So when the time came to adapt the horror writer’s “Shining” sequel, Flanagan found a way to tell the story of a grown Danny Torrance that felt like a continuation of both the book and the elements Kubrick changed for his adaptation. The film is long, but moves at such a brisk pace that it is rarely felt. And for the ever-growing number of fans of Rebecca Ferguson, revel in how she plays the villainous Rose the Hat with sick glee here. Eric Bana and Orlando Bloom in Troy (Warner Bros.) Troy 2026 has been all about The Odyssey but if you re wanting the story but wish it was hyper-focused on just the Battle of Troy than there s a Brad Pitt gem waitin
-
-### Scoob! Holiday Haunt Director Spikes Pamela Abdy and Mike De Luca After Warner Bros. Shelved Film: Hurts, Doesn t It?
-Sat, 03 Oct 2026 19:08:04 +0000 — https://www.thewrap.com/creative-content/movies/scoob-director-roasts-mike-de-luca-pamela-abdy/
-
-The firing of Warner Bros. film chiefs Mike De Luca and Pamela Abdy in the wake of the studio s acquisition by Paramount-Skydance has been the focus of much reporting this week. TheWrap learned that both executives finally received calls from Paramount-Skydance CEO David Ellison on Friday, informing each of them that they would not be brought aboard the combined companies. The duo had already learned that they would be dismissed from a Puck report earlier in the week. One filmmaker that doesn t seem to be mourning Abdy and De Luca s exit is Michael Kurinsky. The director was behind Scoob! Holiday Haunt, a sequel to the 2020 Scooby-Doo animated feature Scoob!, which was shelved by Warner Bros. Discovery in 2022 after completing production. The decision to never release the feature allowed the studio to take a tax write-down, recouping a portion of its production costs. On Friday, Kurinsky made a post on Instagram, sharing a Hollywood Reporter article on a tense phone call that De Luca and Abdy had in the lead-up to their ultimate exit from the studio. TENSE PHONE CALL, PAM? You mean like the one I got when you told me SCOOB Holiday Haunt was canceled? Kurisnky wrote. Hurts, doesn t it? Kurinsky has publicly aired his frustrations with the studio s decision to cancel Holiday Haunt before. In a 2022 interview, the animation veteran told Variety s Carson Burton that in our phone calls that we had with people, they explained we are taking this tax write-off, we can’t monetize it. 
-
 ## Collider
 
-### Taylor Sheridan's Gritty 3-Part Spy Thriller Refuses To Back Down on Streaming
-Sun, 04 Oct 2026 10:44:12 GMT — https://collider.com/lioness-season-3-taylor-sheridan-thriller-streaming-hit/
+### Apple TV's Hit Sci-Fi Thriller Officially Returns After Multiple Delays
+Sun, 04 Oct 2026 17:30:12 GMT — https://collider.com/apple-tv-sci-fi-thriller-severance-streaming-success-october-2026/
 
-Nearly two weeks after Season 3 of Lioness streamed its finale, the hype around Taylor Sheridan ’s spy thriller still isn’t dying down. While Sheridan made a name for himself on television thanks to his neo-Western Yellowstone and its spin-offs, Lioness marks a return to his Sicario roots . Instead of cowboys and cattle ranchers, Zoe Saldaña plays CIA senior case officer Joe McNamara, who leads the effective yet provocative Lioness program.
+In the last few years, Apple TV has developed a strong reputation for having some of the best original TV shows any platform has to offer. Where the streamer has especially excelled is in the sci-fi genre , where it just recently introduced its most popular show of all time in Pluribus . Season 1 of Pluribus , which hails from creator Vince Gilligan ( Breaking Bad ), shattered records on its way to becoming the most-watched Apple TV series ever. The streamer has already confirmed that another season is on the way, though it’s still unclear at this time when it will be released. Apple TV also found success this summer with the premiere of Silo Season 3, the hit sci-fi series starring Rebecca Ferguson . The fourth and final season of the show is expected to begin streaming next summer.
 
-### Sydney Sweeney’s 161-Minute Quentin Tarantino Epic Is Officially Climbing the Streaming Charts
-Sun, 04 Oct 2026 10:30:11 GMT — https://collider.com/quentin-tarantino-once-upon-a-time-in-hollywood-streaming-top-10-hulu-cliff-booth/
+### It's Officially the End of an Era for Will Smith's Steampunk Sci-Fi Western
+Sun, 04 Oct 2026 17:00:12 GMT — https://collider.com/will-smith-sci-fi-western-wild-wild-west-leaving-paramount-plus-october-2026/
 
-Walking onto a ranch outside of Los Angeles, you expect to see many things. A horse or two, some stables, other animals, perhaps. What you probably didn't expect to find was Hollywood's biggest rising star surrounded by future Oscar nominees and winners , as well as a child star or two. What an odd place 1960s LA is.
+It’s well-established Hollywood lore that Will Smith passed on the lead role in Quentin Tarantino ’s Django Unchained because he thought that the character eventually played by Christoph Waltz would steal the show. But did you know that Smith also passed on the role of Neo in The Matrix ? He felt that the Wachowskis were too green, and wasn’t impressed by their pitch. Instead, he starred in one of the most infamous disasters of the 1990s. The movie in question hasn’t exactly found a fanbase in the years since its release, despite having all the makings of a cult curiosity. But it’s currently streaming on Paramount+, which may encourage an entirely new generation to give it a shot.
 
-### The 10 Greatest Historical Books That You Haven't Read
-Sun, 04 Oct 2026 10:22:12 GMT — https://collider.com/best-historical-books-you-have-not-read/
+### Amanda Seyfried's Cult Classic Thriller Officially Finds a New Streaming Home Ahead of Halloween
+Sun, 04 Oct 2026 16:30:12 GMT — https://collider.com/amanda-seyfried-jennifers-body-streaming-starz-october-2026/
 
-The historical fiction genre has been one of literature's most important and prolific since time immemorial, having granted the world several of the greatest and most foundational books in history. However, for every historical masterpiece that goes on to be showered with every bit as much praise as it deserves, there are at least a few other books from the same genre that don't receive nearly as much love as they should. Over the years, these have gone down in history as some of the most underread historical fiction masterpieces of all time .
+Amanda Seyfried is one of the most multi-talented actors of her generation. Late last year, she played a starring role in one of the most viral movies of 2025, opposite Sydney Sweeney and Brandon Sklenar in The Housemaid . An adaptation of Freida McFadden ’s bestselling novel of the same name, word of mouth and a resurgence in the book's popularity helped The Housemaid shoot to the top of the box office, eventually earning $400 million worldwide against a production budget of just $35 million.
 
-### 10 Greatest Books of the Last 30 Years, Ranked
-Sun, 04 Oct 2026 10:01:12 GMT — https://collider.com/best-books-last-30-years-ranked/
+### 10 Greatest Zombie Movies of the 2010s, Ranked
+Sun, 04 Oct 2026 16:07:12 GMT — https://collider.com/best-zombie-movies-2010s-ranked/
 
-There’s no such thing as a completely objective ranked list, so I bypassed the scientific approach altogether and asked myself a simpler question: what books have stayed with me? I’ve read every book on this list and chose them because I still can’t stop thinking about them. I'm not alone in finding these works to be transformative: all but two of the books below have been adapted for television or the stage. Without further ado, here are the best books of the last 30 years.
+While it was just beginning to take form throughout the late 2000s, no singular decade was as wildly enamored by the concept and allure of zombies as the 2010s . From the wildly popular The Walking Dead show beginning in 2010, the release and popularity of many popular zombie video games like DayZ , Dying Light , and Call of Duty: World at War – Zombies , and most importantly, a non-stop barrage of zombie movies. From massive blockbusters to low-budget indies, the 2010s saw a massive explosion of zombie filmmaking that was seemingly inescapable as a trend .
 
-### 'Hazbin Hotel' Officially Returns This Month With New Release
-Sun, 04 Oct 2026 10:00:11 GMT — https://collider.com/hazbin-hotel-fortnite-skins-release-october-2026/
+### Tom Cruise’s Divisive New Movie Officially Ends His Box Office Winning Streak
+Sun, 04 Oct 2026 16:00:11 GMT — https://collider.com/tom-cruise-digger-biggest-box-office-bomb-14-years/
 
-Charlie Morningstar has enough trouble convincing the residents of Hell to give redemption a chance. Between the demons working against her and the complications that come with challenging Heaven, opening a hotel was never going to be the easy part. Still, her determination to help people makes her an especially entertaining character to drop into a situation where everyone has very different priorities.
+Three holdover hits — Resident Evil , Heart of the Beast , and Primetime — managed to outperform the divisive new movie starring Tom Cruise , Digger . Directed by two-time Oscar winner Alejandro G. Iñárritu , the satirical epic is shaping up to be a historic bomb, and the circumstances surrounding its release seem appropriately dour. Digger is the final movie in Warner Bros.' century-long run as an independent entity, and the last to be released under the leadership of the dismissed studio chiefs Pam Abdy and Michael De Luca . Produced on a budget that has been reported to be anywhere between $140 million and $180 million, the movie was projected as an Oscar play for Cruise, but its mixed critical reception and disastrous box-office results may dent his chances.
 
-### Rebecca Ferguson's Ambitious Stephen King Sequel Officially Haunts Paramount+
-Sun, 04 Oct 2026 09:40:11 GMT — https://collider.com/rebecca-ferguson-horror-doctor-sleep-streaming-paramount-october/
+### 'The Rookie' Proved in 1 Episode Why Eric Winter Is the Perfect Tim Bradford
+Sun, 04 Oct 2026 15:55:12 GMT — https://collider.com/the-rookie-eric-winter-perfect-tim-bradford-episode-season-4/
 
-The queen of sci-fi, Rebecca Ferguson , has had a mixed year so far. She began 2026 with the critically panned “screenlife” movie Mercy , headlined by Chris Pratt . The film failed to recoup its reported $60 million budget at the box office, but emerged as a solid hit on Prime Video despite poor reviews. Ferguson followed it up with the fourth season of her widely acclaimed Apple TV series Silo , which holds a “Certified Fresh” 96% score on the aggregator website Rotten Tomatoes. She’ll finish the year by reprising her role as Lady Jessica in the hotly anticipated Dune: Part Three , directed by Denis Villeneuve . This month, Ferguson’s fans can revisit one of her most overlooked gems, which was recently added to the Paramount+ library.
+As we wait for The Rookie Season 9, it's time to revisit one of the most important episodes for main character Tim Bradford ( Eric Winter ). The Rookie established Tim from the outset as a strict and disciplinarian training officer at the Mid-Wilshire Division. As the show progressed, more details of Tim's backstory were fleshed out, including the revelation of his estranged wife and his tumultuous upbringing. However, the best episode, where Winter got to stretch his acting muscles and perfectly personify the character , came in this very special Season 4 episode.
 
-### 10 Intense Sci-Fi Shows You Need To Watch Again To Fully Understand
-Sun, 04 Oct 2026 09:26:11 GMT — https://collider.com/intense-sci-fi-shows-watch-twice-understand/
+### ‘The Simpsons’ Earned a TV-MA Rating Over One Surprisingly Small Detail
+Sun, 04 Oct 2026 15:31:12 GMT — https://collider.com/the-simpsons-tv-ma-episode-disney-plus-censored/
 
-There are pretty much countless ways for a science fiction TV show to be intense. High emotional stakes, strict logical rules, and a constant sense of mystery are a few of the things that make masterpieces like The Expanse and Lost some of the most intense genre shows that the small screen has ever seen. There are some sci-fi shows, however, that on top of being intense, are also so complicated to understand that they pretty much demand a rewatch.
+Sunday’s “Diary of a Chimpy Kid” sends Bart and Lisa on a chimp-rescue mission that has Homer worried it will tear off his face and groin — yes, you read that right. But before its October 4 premiere on Fox, there was an older episode’s unexpected ratings controversy that tripped censors for the most bizarre and tiniest detail . Fox’s animated series The Simpsons has been on the air for so long that production has accomplished every conceivable milestone . However, in Season 26, an uncensored episode earned a TV-MA rating.
 
-### J.J. Abrams' $172 Million Sci-Fi Classic Is Officially Streaming on a New Platform
-Sun, 04 Oct 2026 09:20:11 GMT — https://collider.com/cloverfield-jj-abrams-peacock-october-2026/
+### Anne Hathaway Is Officially the Box Office Queen of 2026
+Sun, 04 Oct 2026 15:30:11 GMT — https://collider.com/anne-hathaway-verity-box-office-33-million/
 
-New York, seven years after 9/11. You'd think the city had been through enough suffering at that point, so imagine throwing a going-away party in Manhattan and discovering halfway through that the evening's entertainment has been replaced by an enormous monster tearing the city to pieces. That's how simple the conceit was for this movie that didn't even have a name for months.
+A textbook counter-programming play was set up this week at the box office, with the Amazon MGM psychological thriller Verity and the Warner Bros. satirical epic Digger . However, the face-off ended up being a one-sided affair, with Verity overperforming in its debut frame and Digger falling short of even the most pessimistic projections. Coming on the heels of fellow Colleen Hoover adaptation It Ends with Us , which grossed more than $350 million worldwide a couple of years ago, Verity had positive momentum heading into release. Directed by Michael Showalter , the movie marks the third major hit of the year for star Anne Hathaway .
 
-### Russell Crowe's Gritty Detective Thriller Officially Finds a New Streaming Home
-Sun, 04 Oct 2026 09:00:12 GMT — https://collider.com/russell-crowe-sleeping-dogs-streaming-paramount-plus-october-2026/
+### The 10 Best B-Movies in Film History, Ranked
+Sun, 04 Oct 2026 15:04:13 GMT — https://collider.com/best-b-movies-film-history-ranked/
 
-The month of September was particularly memorable for Russell Crowe . It began with the sudden streaming success of his crime thriller film The Get Out , which briefly topped the domestic Prime Video viewership chart following its debut on the platform. This was followed by the theatrical release of Crowe’s best-reviewed movie in nearly three decades , the Western drama The Weight . One week later, Crowe played a supporting role opposite Jacob Tremblay in Netflix’s psychological drama Unabomber , which promptly took the number-one spot on the streamer’s viewership rankings . Those in the mood for more Crowe are in luck, with two of his movies landing on Paramount+ this month.
+If you're after the technical definition of a B-movie , it’s technically something that isn't really made anymore, because B-movies in the traditional sense existed when double features were more common. Two movies would be screened, obviously, with the first being a bit more prestigious, and therefore an “A” movie, with a bigger budget and more by way of production values, and then the second film would often be of a lower quality, hence being a “B-movie.”
 
-### Taylor Sheridan Favorite’s 0% RT Action Flop Is Officially Getting a Second Chance
-Sun, 04 Oct 2026 08:40:12 GMT — https://collider.com/scott-eastwood-alarum-streaming-starz-october-2026/
+### 6 Upcoming Sci-Fi Shows, Ranked by Hype
+Sun, 04 Oct 2026 15:03:12 GMT — https://collider.com/upcoming-sci-fi-shows-ranked-hype/
 
-Following the finale of this year's installment of the spy series Lioness , as Zoe Saldaña 's Joe McNamara and her team of female operatives faced the climax of their most explosive season yet, fans have been waiting patiently for their next Taylor Sheridan fix. It's rare that a Sheridan show isn't topping the Paramount+ streaming charts and, although the newly renamed adult animated series South America is currently at #1, that is all set to change in a couple of weeks.
+Sci-fi has always been one of the most versatile genres, spanning everything from post-apocalyptic futures to strange new worlds and multiverses full of unlimited possibilities. The streaming era may have given audiences too much choice, but it has also brought new stories and turned more beloved sci-fi books into must-see shows .
 

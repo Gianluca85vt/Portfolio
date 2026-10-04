@@ -1,6 +1,36 @@
-# Manga — harvested 2026-10-04T10:46:25.048Z
+# Manga — harvested 2026-10-04T17:50:29.522Z
 
 ## Anime News Network
+
+### Web Novel-Based Live-Action Series Take Charge of My Heart Unveils Main Trailer
+Sun, 04 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/web-novel-based-live-action-series-take-charge-of-my-heart-unveils-main-trailer/.242461
+
+Newly released trailer follows Bo-bae as she meets Ho-rang, the only person immune to her electrical powers
+
+### Charisma TV Anime Unveils More Staff, Key Visual
+Sun, 04 Oct 2026 12:04:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/charisma-tv-anime-unveils-more-staff-key-visual/.242476
+
+The staff&nbsp;for the television anime of Evil Line Records label (Hypnosis Mic) and the intellectual property company Dazed's Chōjin-teki Share House...
+
+### Bungo Stray Dogs Wan! 2 Anime Series Review
+Sun, 04 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/bungo-stray-dogs-wan-2/anime-series/.242110
+
+Sometimes you just need to see Akutagawa skipping along the waterfront or watch Dazai try to wrangle the rest of the cast as preschoolers.
+
+### Manchuria Opium Squad Manga Gets Anime
+Sun, 04 Oct 2026 11:05:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/manchuria-opium-squad-manga-gets-anime/.242464
+
+Manga also resumes serialization with new artist Tsurushima on Monday
+
+### Darkroom Streams Angel Densetsu Anime
+Sun, 04 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/darkroom-streams-angel-densetsu-anime/.242466
+
+2-part OAV released in September 1996
+
+### Rascal Does Not Dream of a Dear Friend Film Streams 1st 4 Minutes
+Sun, 04 Oct 2026 06:35:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-streams-1st-4-minutes/.242471
+
+"Finale visual" of film opening on October 16 also revealed
 
 ### Zoids Franchise Announces New Zoids: Chaotic Century Manga
 Sun, 04 Oct 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/zoids-franchise-announces-new-zoids-chaotic-century-manga/.242467
@@ -32,36 +62,6 @@ Sat, 03 Oct 2026 22:39:40 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Series debuted on October 3
 
-### Haruhi 20th Anniversary Watches' Day Counter Relives Endless Eight's Trauma
-Sat, 03 Oct 2026 19:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-03/haruhi-20th-anniversary-watches-day-counter-relives-endless-eight-trauma/.242415
-
-Recoil in horror as the date window only shows the 17th to 31st and “♾️” symbol
-
-### Uncanny Counter Season 2 Live-Action Series Review
-Sat, 03 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/uncanny-counter-season-2/live-action-series/.242002
-
-Evil spirits are taking the fight directly to the Afterlife by attacking the Counters who protect the world.
-
-### The Science Notes by Delta and Gamma Light Novels Get Anime
-Sat, 03 Oct 2026 11:51:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/the-science-notes-by-delta-and-gamma-light-novels-get-anime/.242448
-
-Kanna Nakamura voices announcement of anime of high school science club dealing with life's mysteries
-
-### This Is the End Stagnation Committee Light Novels Have Anime in the Works (Updated)
-Sat, 03 Oct 2026 11:11:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/this-is-the-end-stagnation-committee-light-novels-have-anime-in-the-works/.242449
-
-Kien Aien's story of youths taking on the coming apocalypse
-
-### The Elusive Samurai Season 2 ‒ Episode 12
-Sat, 03 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-elusive-samurai-season-2/episode-12/.242430
-
-If this really is the last we'll see of <i>The Elusive Samurai</i>, then it is a shockingly disappointing and cynical ending.
-
-### Dorei kara no Kitai to Hyōka no Sei de Sakushu Dekinai nodaga Novels Get Anime
-Sat, 03 Oct 2026 10:24:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/dorei-kara-no-kitai-to-hyoka-no-sei-de-sakushu-dekinai-nodaga-novels-get-anime/.242447
-
-Maware Isogawa's story of boy reincarnated with cheat power that is too good
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -83,12 +83,17 @@ Fri, 02 Oct 2026 23:03:48 GMT — https://animecorner.me/ninja-scroll-4k-reveals
 
 Ninja Scroll is heading back to theaters in North America in a new 4K&hellip;
 
-### Tokyo Revengers Season 4 Releases Creditless Opening Featuring JO1's "IGNITE"
-Fri, 02 Oct 2026 17:10:19 GMT — https://animecorner.me/tokyo-revengers-season-4-releases-creditless-opening-featuring-jo1s-ignite/
-
-Tokyo Revengers: War of the Three Titans (Season 4) released the creditless opening sequence for, featuring JO1’s opening theme “IGNITE.”
-
 ## MyAnimeList News
+
+### Manga Manshuu Ahen Squad Gets Anime Adaptation
+Sun, 04 Oct 2026 08:24:46 -0700 — https://myanimelist.net/news/74790204?_location=rss
+
+Production company Pony Canyon opened an official website for an anime adaptation of Tsukasa Monma and Shikako s Manshuu Ahen Squad (Manchuria Opium Squad) manga on Monday. Monma and Shikako originally began serializing the historical crime manga on the Comic Days platform in April 2020 before transferring it to the Weekly Young Magazine in September 2021. The series went on hiatus following the death of Shikako in November 2025 and resumed serialization as per their wishes on October 5, wi...
+
+### Charisma Announces Additional Staff
+Sun, 04 Oct 2026 05:46:56 -0700 — https://myanimelist.net/news/74789712?_location=rss
+
+The special livestream presentation for the television anime adaptation of the Charisma House mixed-media project revealed additional staff and a key visual (pictured) on Sunday. The anime series will premiere on TBS affiliate networks in January 2027. Staff Character Design: Haru Watanabe (Kawagoe Boys Sing) Chief Animation Director: Haru Watanabe, Seung-ah Han (ēlDLIVE) Art Director: Seiki Tamura (Nippon Sangoku) Color Design: Yukiko Kakita (Ranma &frac12; (2024)) Director of Photography: Susu...
 
 ### Light Novel Dorei kara no Kitai to Hyouka no Sei de Sakushu Dekinai no da ga Gets TV Anime Adaptation
 Sat, 03 Oct 2026 07:59:06 -0700 — https://myanimelist.net/news/74786099?_location=rss
@@ -139,16 +144,6 @@ The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional ca
 Fri, 02 Oct 2026 20:18:08 -0700 — https://myanimelist.net/news/74784547?_location=rss
 
 The official X account for the new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga announced three additional cast members on Saturday. The anime series premiered on October 3 at 9:30 a.m. on TV Tokyo. Cast Angol Mois: Kana Ichinose (Sousou no Frieren) Aki Hinata: Chiwa Saitou (Keroro Gunsou) Narrator: Satomi Arai (Re:Zero kara Hajimeru Isekai Seikatsu) Toshihiko Sano (Farmagia) is directing the new anime at Bandai Namco Pictures. Toshimitsu Takeuchi (Fantas...
-
-### Light Novel Tokyo Ravens Ends with 18th Volume
-Fri, 02 Oct 2026 04:42:31 -0700 — https://myanimelist.net/news/74782445?_location=rss
-
-The official X for the Tokyo Ravens light novel series announced on Friday that the series will end with its 18th volume, scheduled for release this Winter. Kouhei Azano (Black Blood Brothers) originally began the school supernatural series under Fujimi Fantasia Bunko imprint in May 2010, featuring illustrations by Sumihei. Kadokawa published the 17th volume in March 2025. The series has a cumulative 1 million copies of its volumes in circulation in September 2013. A side-story light novel serie...
-
-### Steel Ball Run: JoJo no Kimyou na Bouken Announces Supporting Cast
-Fri, 02 Oct 2026 03:50:29 -0700 — https://myanimelist.net/news/74782320?_location=rss
-
-The official X (formerly Twitter) account for the JoJo no Kimyou na Bouken (JoJo s Bizarre Adventure) announced the supporting cast for its seventh part, Steel Ball Run, on Friday. The second and third stages of the anime, which adapt the seventh part of Hirohiko Araki s JoJo s Bizarre Adventure manga, began streaming exclusively worldwide on Netflix on September 25, with new episodes released weekly. Cast L. A. Boom Boom: Fumiyoshi Shioya (Shangri-La Frontier: Kusoge Hunter, Kami...
 
 ## Otaku USA
 
