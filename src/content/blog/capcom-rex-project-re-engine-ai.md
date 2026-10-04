@@ -43,6 +43,11 @@ shape of it.
 
 ## REX has been coming since 2023
 
+<figure>
+  <img src="/img/blog/capcom-rex-project-re-engine-ai/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Capcom, via the official PRAGMATA Steam page</figcaption>
+</figure>
+
 REX stands for RE neXt Engine, and Capcom first put the name in public in
 **October 2023**. The RE Engine is not being thrown away. REX is a staged
 modernisation of what is already there, which is the correct way to do this and
