@@ -3,7 +3,7 @@ title: "Doomsday off IMAX: Infinity Vision is a room spec"
 date: 2026-10-04
 category: Film & TV
 excerpt: "Dune: Part Three took IMAX's domestic screens for 18 December. Disney's answer certifies brightness, size and sound, and says nothing about the frame."
-cover: /img/blog/avengers-doomsday-imax-infinity-vision/cover.svg
+cover: /img/blog/avengers-doomsday-imax-infinity-vision/shot-01.jpg
 sources:
   - outlet: TheWrap
     url: https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office/
@@ -40,6 +40,11 @@ laser illumination, which is the other thing on the list, and the two
 requirements are really one requirement stated twice.
 
 ## Why Disney needed a certification at all
+
+<figure>
+  <img src="/img/blog/avengers-doomsday-imax-infinity-vision/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Cinema auditorium by Jorge Simonet (CC BY-SA 4.0) and 35mm cinema projectors (CC BY 3.0), via Wikimedia Commons</figcaption>
+</figure>
 
 Because Dune: Part Three has IMAX.
 
