@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-03T19:24:38.351Z
+# Games — harvested 2026-10-04T10:46:25.048Z
 
 ## Eurogamer
+
+### Nivalis Nights dares to ask what if Cyberpunk 2077 met Dave the Diver and Stardew Valley? And for now at least I'm loving the answer
+Sun, 04 Oct 2026 09:01:54 +0000 — https://www.eurogamer.net/nivalis-nights-now-playing
+
+As I throw open the windows on my first day in Nivalis, breathing in the city's neon-streaked air and watching the smog roil across the blackened sky, my government-mandated AI automata informs me the district is in lockdown and a serial killer's on the loose. Five hours later, I've become embroiled in a child trafficking plot (the good kind, apparently, seeing as I'm helping them get out ); I've stumbled across an oil rig and befriended its city separatists; I've inadvertently struck up a romance with a CorpSec agent who's trying to shut down my noodle bar; and I've met a woman who writes new childhoods for condemned criminals, in the city's hope that implanting them will sort 'em out. All this and I've only grown a single onion. Nivalis Nights, it's fair to say, it's not your average farm-life sim. Read more
 
 ### Final Fantasy 7 Revelation director says he "did his best" to fight for a full disc release
 Sat, 03 Oct 2026 17:25:03 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-naoki-hamaguchi-disc-release-physical-media
@@ -57,11 +62,6 @@ Fri, 02 Oct 2026 13:59:39 +0000 — https://www.eurogamer.net/gta-6-sex-scenes-p
 
 Grand Theft Auto 6 may feature actual sex scenes. The suggestion comes from an age-rating description for GTA 6 on the PlayStation Store, which states - if viewing the New Zealand or Australian versions of the Store - there are "sex scenes" in the game. Read more
 
-### Halo's new steward Activision reportedly considering rebooting the series, with a team in Sledgehammer Games leading the charge
-Fri, 02 Oct 2026 13:14:39 +0000 — https://www.eurogamer.net/halo-activision-rumours-slegehammer-games-reboot
-
-We recently learned that Microsoft gave development of its next Halo game to Activision , where "a new purpose-built team" - separate from the teams working on Call of Duty - has been created to oversee the franchise going forward. Now, in a report from well-known Halo and Xbox insider Rebs Gaming , a possible timeline about how the process progressed internally at Microsoft has started to take form. And the report suggests that Activision's take on Xbox's premiere sci-fi shooter will be a reboot of the series -one that possibly explores Master Chief's origins. Read more
-
 ## GamesIndustry.biz
 
 ### Sony's consultation on physical media: better late than never | Opinion
@@ -94,21 +94,21 @@ Fri, 02 Oct 2026 11:19:13 +0000 — https://www.gamesindustry.biz/reigns-develop
 
 Reigns and Card Shark developer Nerial has announced its closure as it enters "hibernation mode." Read more
 
-### 2XKO would have needed an MAU base "in the high hundreds of thousands, if not millions" to succeed
-Fri, 02 Oct 2026 10:10:00 +0000 — https://www.gamesindustry.biz/2xko-would-have-needed-an-mau-base-in-the-high-hundreds-of-thousands-if-not-millions-to-succeed
-
-Riot Games' 2XKO would have had to attract a base of monthly active users "in the high hundreds of thousands, if not millions" to be sustainable, according to CPO Marc Merrill. Read more
-
-### Krafton shuts down PUBG spin-off Black Budget nine months after closed alpha test
-Fri, 02 Oct 2026 08:03:39 +0000 — https://www.gamesindustry.biz/krafton-shuts-down-pubg-spin-off-black-budget-nine-months-after-closed-alpha-test
-
-Krafton is ending development on PUBG spin-off Black Budget nine months after its closed alpha test on Steam. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Thrustmaster Reveals New $750 PS5 Racing Wheel for Gran Turismo 7
+Sat, 03 Oct 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/10/thrustmaster-reveals-new-usd750-ps5-racing-wheel-for-gran-turismo-7
+
+For the racing elite. Gran Turismo 7 quietly goes from strength-to-strength, and the best console sim racer on the planet deserves an exceptional hardware rig. How about this $750 solution from Thrustmaster, then, which is scheduled to launch this Christmas? Read the full article on pushsquare.com
+
+### Yet More PS5 Security Concerns as Another High-Profile Account Is Hacked
+Sat, 03 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/yet-more-ps5-security-concerns-as-another-high-profile-account-is-hacked
+
+This can't keep happening. Earlier this year there was a big hullabaloo about a social engineering scam, impacting dozens upon dozens of PlayStation players. The story hit the news in a big way when longtime podcaster Colin Moriarty had his account boosted , leading to widespread panic in the community. Read the full article on pushsquare.com
 
 ### Poll: Are You Happy with Your PS Plus Essential Games for October 2026?
 Sat, 03 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-happy-with-your-ps-plus-essential-games-for-october-2026
@@ -160,16 +160,6 @@ Fri, 02 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/the-fa
 
 Ken Kutaragi speaks. Ken Kutaragi, nicknamed the father of PlayStation, has shared his thoughts on the modern gaming landscape. Speaking at a recent panel during the opening ceremony of CEREC (Creative Entertainment Research and Education Center), he talks about how far games have come and their potential for the future, stressing that it's important for creators to keep pushing the envelope. Read the full article on pushsquare.com
 
-### Limited Edition Lisa PS5 Controller Available Now, But Selling Out Fast
-Fri, 02 Oct 2026 14:25:00 GMT — https://www.pushsquare.com/news/2026/10/limited-edition-lisa-ps5-controller-available-now-but-selling-out-fast
-
-Got this DualSense from Geneva. Good news Blinks, there’s a new Lisa x PlayStation merch collection on the way – including a limited edition PS5 controller. Bad news Blinks, your wallet is about to get a lot lighter. Last year, Sony announced the Thai singer had signed on as its global ambassador , but this amounted to very little beyond the odd commercial. (Mostly used in Asia.) Read the full article on pushsquare.com
-
-### GTA 6 Rebrands Miami Basketball Team to Vice City for One Night Only
-Fri, 02 Oct 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-rebrands-miami-basketball-team-to-vice-city-for-one-night-only
-
-Miami Heat becomes Vice City on 18th November. NBA side Miami Heat will be rebranded as Vice City for a basketball game in collaboration with Rockstar and its GTA 6 marketing efforts. On 18th November 2026, the day before GTA 6 launches, the team takes on Milwaukee Bucks at the Kaseya Center, and the court will be themed around the video game version of the place and GTA 6's pink marketing tones. The players will play in a custom kit (that's yet to be revealed), and there'll be different events and activities taking place on the night, along with "special programming". Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Reigns developer Nerial enters 'hibernation mode,' lays off staff
@@ -212,6 +202,21 @@ no date — https://www.gamedeveloper.comthegameawards.com
 
 ## VGC
 
+### I did my best : Final Fantasy 7 Revelation director says he argued for physical version
+Sun, 04 Oct 2026 10:14:58 +0000 — https://www.videogameschronicle.com/news/i-did-my-best-final-fantasy-7-revelation-director-says-he-argued-for-physical-version/
+
+FF7 Remake series director says he understands why some fans are disappointed… Source
+
+### Jagex has officially announced RuneScape 4
+Sun, 04 Oct 2026 09:36:48 +0000 — https://www.videogameschronicle.com/news/jagex-has-officially-announced-runescape-4/
+
+Jagex confirms its next RuneScape will be powered by Unreal Engine… Source
+
+### Banjo-Kazooie PC port decomp developer says AI-generated PC ports are a race to the bottom and disrespectful
+Sat, 03 Oct 2026 20:14:58 +0000 — https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/
+
+DarioSamo says a recent AI-decompiled Banjo-Tooie port is nothing to do with him… Source
+
 ### Capcom details plans to evolve RE Engine into an AI game engine
 Sat, 03 Oct 2026 10:47:45 +0000 — https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/
 
@@ -247,74 +252,84 @@ Fri, 02 Oct 2026 15:52:16 +0000 — https://www.videogameschronicle.com/news/mia
 
 The team will play as Vice City on the eve of GTA 6's release next month… Source
 
-### Podcast: Why we re ready for a new Uncharted game
-Fri, 02 Oct 2026 14:17:00 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-why-were-ready-for-a-new-uncharted-game/
-
-Plus: Our thoughts on Gears of War E-Day and Star Wars Galactic Racer… Source
-
-### Aion 2 Ascension Gauge: How to quickly raise the Ascension Gauge to continue Episodes
-Fri, 02 Oct 2026 14:12:42 +0000 — https://www.videogameschronicle.com/guide/aion-2-ascension-gauge-how-to-quickly-raise-the-ascension-gauge-to-continue-episodes/
-
-How to fill the Ascension Gauge to 100% and continue the Episode story in Aion 2… Source
-
-### Dynasty Warriors producer says he d rather not make more remasters, because he doesn t know how many more games he has left
-Fri, 02 Oct 2026 12:32:24 +0000 — https://www.videogameschronicle.com/news/dynasty-warriors-producer-says-hed-rather-not-make-more-remasters-because-he-doesnt-know-how-many-more-games-he-has-left/
-
-Tomohiko Sho says he'd rather make new games or sequels now he's in his fifties… Source
-
 ## Polygon
 
-### 'Futurama' Series Finales Ranked: All 6 of Them, From Worst to Best
-Sat, 03 Oct 2026 19:00:16 GMT — https://www.polygon.com/futurama-series-finales-ranked-best-worst/
+### GOTY 2026’s Final Nomination Is a Battleground of 8/10 Games
+Sun, 04 Oct 2026 10:00:15 GMT — https://www.polygon.com/goty-watch-nominations-metacritic-85-club/
 
-“One thing we take pride in at Futurama is that we have a lot of practice writing last episodes ever.”
+One rung below this level, though — alright, maybe two rungs below, after the likes of Resident Evil Requiem and Fire Emblem: Fortune's Weave — exists a mass of big games that were solid, impressive, and roundly satisfying, all of which got good-but-maybe-not-great reviews from critics. This is where we find all of 2026's blockbuster hopefuls that aren't Grand Theft Auto 6 on one side, or critical misfires like Marvel's Wolverine and Crimson Desert on the other. There are loads of them. And they're all pretty great.
 
-### The 8 Best Games Like The Witcher 3: Wild Hunt
-Sat, 03 Oct 2026 18:47:25 GMT — https://www.polygon.com/best-games-like-witcher-3-wild-hunt/
+### 65 Years Ago, The Twilight Zone Aired Its Creepiest Episode
+Sun, 04 Oct 2026 08:00:15 GMT — https://www.polygon.com/twilight-zone-creepiest-episode-monster/
 
-The Witcher 3: Wild Hunt is one of, if not the best, RPGs of all time. 11 years after launch, everyone's playing it again thanks to a fancy new remaster (that's free for anyone who owns the existing game), meant to prep players for the Songs of the Past expansion that's in the works. However, Songs of the Past doesn't arrive until 2027, and the next mainline entry, The Witcher 4 , is not coming until 2028, which means there's a big Witcher-sized hole to fill in our gaming backlogs.
+The Twilight Zone ’s terror successfully bypassed television censorship of the 1960s with speculative fiction. Over five seasons, Serling, as host and writer, examined science, superstition, prejudice, and identity. While there's no dearth of scary Twilight Zone episodes, such as “Eye of the Beholder” and “Nightmare at 20,000 Feet,” one particular season 3 episode truly manages to go under the skin in ways that fans of modern horror won’t be able to shake.
 
-### Ace Combat 8 Secretly Has the Best Video Game Music of the Year
-Sat, 03 Oct 2026 18:00:16 GMT — https://www.polygon.com/ace-combat-8-wings-of-theve-soundtrack/
+### 5 Incredible Anime Arcs That Are 10/10, No Notes
+Sun, 04 Oct 2026 08:00:15 GMT — https://www.polygon.com/best-anime-arcs-that-are-perfect/
 
-Ace Combat 8: Wings of Theve is one of the best video games I’ve played in 2026 , and there are plenty of reasons why. It has airtight flying controls, features a diversity of thrilling missions, revitalizes a series that’s been silent for years, and happens to be one of the best-looking games of this console generation. But the most astonishing thing about Bandai Namco’s aerial action game is its music. For my money, Ace Combat 8 doesn’t just have the best video game soundtrack of 2026. It may have one of the best video game soundtracks of all time.
+Consider the Chimera Ant arc from Hunter x Hunter , which is nothing short of a rite of passage . It pushes the anime’s deconstruction of shonen conventions to its limits while sending Gon Freecss and Killua Zoldyck down starkly different paths. The Shibuya Incident arc from Jujutsu Kaisen is similarly transformative, shattering the established order of jujutsu society through its intersecting perspectives, major character deaths, and relentless succession of battles.
 
-### 'Game Changer' Season 9 Will Have "Unexplainable" Games, Dropout CEO Sam Reich Reveals
-Sat, 03 Oct 2026 17:00:19 GMT — https://www.polygon.com/game-changer-season-9-dropout-ceo-sam-reich-interview/
+### 5 Mind-Bending Soviet Era Sci-Fi Movies You Can Watch on Streaming
+Sun, 04 Oct 2026 08:00:15 GMT — https://www.polygon.com/best-sci-fi-soviet-russian-streaming/
 
-For a moment, Dropout CEO and Game Changer host Sam Reich wondered if he could get away with not going to Topeka, Kansas.
+Sci-fi became an effective medium to work around these suffocating rules. Dystopian conflicts were now allegories for totalitarianism and state corruption. Filmmakers like Andrei Tarkovsky and Konstantin Lopushansky also took a more philosophical approach to these fantastical settings, focusing on bleak, desolate landscapes that mirrored our own collective decay.
 
-### Fire Emblem: Fortune's Weave Doesn't Have to Be a Slog
-Sat, 03 Oct 2026 16:00:17 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-free-time-too-big/
+### 10 Erotic Thrillers to Watch After Verity
+Sun, 04 Oct 2026 03:00:16 GMT — https://www.polygon.com/best-erotic-thrillers-movies-like-verity/
 
-I admire Fire Emblem: Fortune's Weave approach to bigness. What stood out to me during the review period and since is how many ways it lets you tailor free time and some battles to your needs, even if that tailoring means skipping certain things entirely. So I was surprised after Fortune's Weave launched on Sept. 17 to see a rising number of complaints around the internet about how oppressively big and unnecessarily bloated the game is, as if it took the wrong lessons from Three Houses and then multiplied them. It can feel overwhelmingly big, but it doesn't have to be a padded time-waster if you don't want it to be.
+Verity is out in theaters. Starring Anne Hathaway, Dakota Johnson, and Josh Hartnett, the film follows Lowen (Johnson), a struggling writer presented with a life-changing opportunity: ghostwriting the unfinished novel of Verity Crawford (Hathaway), one of the world's biggest authors. She accepts and soon finds herself living in Verity’s home and entangled with her husband, Jeremy (Hartnett). The snag is that Verity, left incapacitated from an accident, lies in a bed upstairs.
 
-### GTA Creator Has Avoided GTA 6 While Making New Open-World Games
-Sat, 03 Oct 2026 15:50:02 GMT — https://www.polygon.com/dan-houser-absured-ventures-open-world-game/
+### 31 Years Ago, 'X-Files' Reached Its Zenith with a Near-Perfect 3-Part Thriller
+Sun, 04 Oct 2026 01:00:16 GMT — https://www.polygon.com/the-x-files-anasazi-the-blessing-way-paper-clip/
 
-While Dan Houser is best known as one of Rockstar's co-founders and for creatively spearheading the first five Grand Theft Auto games, he founded Absurd Ventures in 2023 to make new creative projects, including video games. He teased the first two games that we can expect from Absurd Ventures, confirming that one is a comedic open-world game.
+Immediately upon entering World War II, America faced the problem of its messages being intercepted by Germany, Italy, and Japan. As such, the American military needed to develop a code that couldn’t easily be broken. Early in 1942, Los Angeles civil engineer Philip Johnston proposed a solution. Having spent much of his youth on a Navajo reservation, and being one of the few non-Navajo people on Earth who understood the Navajo language, Johnston suggested the military recruit Navajos and use their language to communicate vital war information.
 
-### 'Lanterns' Makes Even More Sense If You Know About DC's Iconic 20-Year-Old Meme
-Sat, 03 Oct 2026 15:00:16 GMT — https://www.polygon.com/green-lantern-head-trauma/
+### Uncharted: The Lost Legacy Is Still the Best Uncharted Game
+Sat, 03 Oct 2026 23:00:16 GMT — https://www.polygon.com/uncharted-lost-legacy-rec-playstation-naughty-dog/
 
-HBO Max's Lanterns has made the cosmic side of the DC Universe more popular than it's been in a while. Largely due to the adventures of the Green Lantern Corps, DC has a well-established galactic scene, full of feuding aliens, killer robots, space cops, and a giant wall made from dead gods that marks the far edge of existence.
+If reports are to be believed, Naughty Dog is bringing back Uncharted . That's a tall order considering 2016's Uncharted 4: A Thief's End served as a pretty satisfying conclusion to Nathan Drake's story. How in the world, fans must be wondering, do you follow that up? Thankfully, Naughty Dog has reportedly tapped Shaun Escayg for the revival. Escayg is the perfect person to lead Uncharted into a post-Nathan Drake future, because he's already done it once before.
 
-### Resident Evil Dev Capcom Plans To Embrace AI In Game Development
-Sat, 03 Oct 2026 14:31:26 GMT — https://www.polygon.com/capcom-ai-re-engine-statement-2026/
+### Stephen King’s Bleakest Movie, With an Ending He Couldn’t Imagine, Is Free on Streaming
+Sat, 03 Oct 2026 22:00:17 GMT — https://www.polygon.com/stephen-king-the-mist-movie-free-to-stream/
 
-A Capcom developer recently made some eyebrow-raising statements about integrating AI into RE Engine, the game engine Capcom uses to make games like Resident Evil Requiem , Pragmata , and Onimusha: Way of the Sword . While it hasn't fully embraced generative AI to create in-game content yet, Capcom outlined a goal to forge "a future where we create games together with AI."
+Stephen King movie adaptations have had a strange habit of becoming larger than the books that inspired them. The Shawshank Redemption and The Green Mile gave director Frank Darabont two of the most beloved King adaptations ever made, while films like The Shining , Misery , and Carrie have become foundational pieces of horror cinema. Of course, King adaptations are notorious for taking massive liberties with their source material. The most famous example is Stanley Kubrick's The Shining , which King has spent almost 50 years complaining about, but no cinematic departure has proven more devastating than those final few moments of The Mist .
 
-### Best Buy's Official 'Pokémon' 30th Anniversary TCG Event Details
-Sat, 03 Oct 2026 14:18:15 GMT — https://www.polygon.com/pokemon-30th-anniversary-best-buy-tcg-trade-play-event-promo-card/
+### Netflix Sets The Witcher Season 5's Fate
+Sat, 03 Oct 2026 20:13:16 GMT — https://www.polygon.com/the-witcher-season-5-when-release-date-netflix/
 
-Best Buy is keeping the Pokémon 30th Anniversary trading card game festivities going in October with a new "Trade and Play" event. Here's what you need to know.
+Since 2019, The Witcher fans have enjoyed ups and downs as Netflix adapted Andrzej Sapkowski's book series into live-action and animated series . With season 4 of The Witcher reaching a nadir, as Henry Cavill stepped down as Geralt of Rivia and Liam Hemsworth stepped in, fans have been hopeful that the fifth and final season could turn things around — or at least finally wrap up Geralt's live-action story.
 
-### Is Barney Nelson's Dad? 'The Simpsons' Producer Weighs In On a Persistent Fan Theory
-Sat, 03 Oct 2026 14:00:15 GMT — https://www.polygon.com/the-simpsons-mike-price-internet-questions-interview/
+### Ken Russell's The Devils Gets 4K, NC-17 Release from Warner Bros.
+Sat, 03 Oct 2026 20:10:25 GMT — https://www.polygon.com/ken-russell-the-devils-movie-4k-restoration-nc-17-rating/
 
-This past weekend, The Simpsons launched its 38th season with "The Children's Book Job,” featuring guest star Emma Thompson. Owen Wilson and Meg Ryan will also appear this season, as well as returning favorite Joe Mantegna as Fat Tony. All of this was discussed in Polygon's recent interview with co-executive producer Mike Price, but while we had him on the phone, we couldn’t resist asking him about some of the most pressing questions from the Simpsons fandom.
+Fifty-five years after its original release, director Ken Russell's historical psychological horror -drama film The Devils is being released as the filmmaker intended: uncensored and uncut. A new 4K restoration of Ken Russell's The Devils is coming to movie theaters in October, and it will carry an NC-17 rating due to its graphic portrayal of violence and sex.
 
 ## PC Gamer
+
+### GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'
+Sun, 04 Oct 2026 03:14:41 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/
+
+The promotional blitz for Grand Theft Auto 6 continues rolling out, with the latest example being a cover feature in Love , a fashion magazine that only publishes two issues a year. I guess you've got to reach the people who don't know what the Miami Heat is somehow. One of the things the feature focuses on is the satirical side of Grand Theft Auto, mentioning that in GTA 6, alongside radio talk shows and ads, you might overhear a robovoiced phonecall for a political campaign. The world will be full of real-world details, but amplified. "It needs to wash over you when you're sprinting down the busiest street in the city, hearing snatches of a hundred different conversations as you go," according to James Horton, whose job title is writing director: open world. "If you shift your focus onto something new, it's going to fill the frame, and it's going to push back." "If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face," Rupert Humphries, senior vice president of narrative said. "Otherwise, you could just go outside and live in the real world." GTA 5 was already making fun of how invasive social media has become and how people don't believe what their doctors tell them. Even GTA's own voice actors have pointed out that the world's so weird now it's difficult to parody . Rockstar is determined to try, though. "There is a big focus on not just holding up a mirror, but on making everything s
+
+### One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies
+Sun, 04 Oct 2026 01:16:02 +0000 — https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/
+
+Total War: Warhammer 3's Lords of the End Times expansion is huge, which is great for us but not so great for all the modders who need to update their work to be compatible with it. SFO Grimhammer 3 , a popular total overhaul mod, isn't currently compatible with Total War: Warhammer 3 version 9.0, but its creators are working hard to get it there. It must be galling then to see someone vibe-coding your mod to be compatible with the update, then reuploading it as their own—just another of the AI-coded submods of your work plastered across the Steam Workshop, usually with some ugly AI-generated artwork as the cherry on top. "Due to the growing number of unauthorized reuploads of SFO: Grimhammer III," Venris, the mod's creator, posted on Patreon , "and more importantly, the use of AI in the process, I have deliberately corrupted the mod to prevent it from functioning with such unauthorized uploads. If this situation continues to escalate, I will make SFO: Grimhammer III private. "SFO: Grimhammer is the result of nearly ten years of passion and love for this community and the fantasy world. As such, I do not permit anyone to take my work without permission. Especially not for AI-related purposes." Venris concluded with the call to "Support modders, not AI" and a note that "SFO mods were, are and always will be free for everyone as long as I am here. No paywall." I don't use SFO Grimhammer 3 myself, as a fairly vanilla player who sticks to camera enhancements and the like, but I u
+
+### Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'
+Sat, 03 Oct 2026 23:19:41 +0000 — https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/
+
+Crimson Desert dev Pearl Abyss has announced that its Charting the Unknown DLC will now release on October 29 , two weeks on the dot after its original planned launch of October 15. After seven months of a blistering pace of updates for the singleplayer RPG, I feel like I speak for all (most?) of us when I say: Take a breather, champ. It's ok. Please don't rush. We understand. Its new release times are: Europe October 29th, 2026 (Thu) at 22:00 (UTC) October 29th, 2026 (Thu) at 23:00 (CET) North America October 29th, 2026 (Thu) at 15:00 (PT) October 29th, 2026 (Thu) at 18:00 (ET) Asia October 30th, 2026 (Fri) at 7:00 (KST/JST) News writer Harvey Randall expressed a similar sentiment in August when Pearl Abyss announced it was slowing down the pace of free updates to Crimson Desert in order to focus on DLC development. Since launch, Crimson Desert has added new critters, new chests, a shotgun, new difficulty options, new mounts, boss rematches⁠—too much, really. I haven't played, but my friend keeps telling me about a "kung-fu button" that's supposedly in the game. Is he pulling my leg? Why would I not believe him at this point? Charting the Unknown's first trailer contained a lot , but features producer Mollie Taylor fixated on the building construction options , something that reminds me of Skyrim's Hearthfire DLC. Mollie said it also showcased "running on water" and "grabbing onto a shark like some sort of aquatic Uber." What do you do in this game, again? While the delay in
+
+### Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story
+Sat, 03 Oct 2026 22:41:35 +0000 — https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/
+
+User After-Cartoonist-196 on the German-language PCBaumeister subreddit claims to have bought a CPU secondhand, but that it carried the previous owner's Valorant ban. Extreme surveillance measures have been adopted by esports devs in recent years to combat and punish endemic cheating in their games. Riot support allegedly told them this ban is now associated with all of their other PC components, and there is nothing the company can do to lift the ban. Riot anticheat head Phillip Koskinas asserts that the company's hardware bans last four months, and cannot "infect" other components when inserted into a new system. After-Cartoonist-196's original post was reported on by PC World , and has independently made the rounds on social media as well. They say they bought the CPU on September 21, and that the original owner's ban was logged on August 12. On Twitter, Koskinas said he was unable to find a support ticket matching After-Cartoonist-196's details, and that the story is "pretty unlikely." Koskinas pointed out that Riot hardware bans have a four month maximum duration, and that Riot support is required to provide the remaining duration of the ban when responding to a ticket. That does leave much of the original story intact still: If the ban began on August 12, it will not hit the duration limit until mid-December. Koskinas firmly debunked one aspect of the story, though: He denied, in two separate posts , that a system's other hardware is blacklisted when detected alongside 
+
+### RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds
+Sat, 03 Oct 2026 21:44:49 +0000 — https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/
+
+As reported by MMORPG.com , developer Jagex has announced a new MMO follow-up to RuneScape with the working title "RuneScape 4." The announcement came as part of Jagex's yearly RuneFest convention being held this weekend. The announcement was accompanied by a brief teaser trailer showcasing the game's art style, which builds on the recently-released Dragonwilds survival game: It's like a hybrid of the latest Jagex MMO, Runescape 3, and the ascendant Old School RuneScape based on the series' 2000s heyday. In the trailer, we see a real Dragon Quest-looking medieval town in a verdant valley under floating islands. An adventurer riding a dragon comes under attack by a three-headed dragon while a wizard watches from below. The trailer ends with the wizard welcoming a new adventurer to the city. MMORPG.com has more details: RuneScape 4 apparently emerged out of a planned expansion for Dragonwilds. A Jagex developer said that playtesters kept asking for a more traditional, MMO take on the survival game's setting and aesthetic. Other than that, we know RuneScape 4 is being built on Unreal Engine (unclear if we're talking version 5 or the upcoming 6), and that the MMO's original, Dragonwilds expansion version was targeting release in 2027. Scaling up to being a full, new game has almost assuredly pushed that back. If you're wondering where the "4" comes from, here's how Jagex maps RuneScape's numbered releases: RuneScape, 2001: The Reason for the Season. RuneScape 2, 2004: Introduced 
 
 ### The Witcher 3's remaster just brought it to a new all-time concurrent player count peak
 Sat, 03 Oct 2026 16:40:35 +0000 — https://www.pcgamer.com/games/the-witcher/the-witcher-3s-remaster-just-brought-it-to-a-new-all-time-concurrent-player-count-peak/
@@ -331,15 +346,15 @@ Sat, 03 Oct 2026 16:06:23 +0000 — https://www.pcgamer.com/games/moba/deadlock-
 
 The Cursed Apple, wherein Valve’s latest MOBA Deadlock takes place, is ‘an urban fantasy setting’ in the same way that Limp Bizkit is ‘an American rock band.’ Sure, the label is accurate, but Deadlock is unmistakably, crucially, and specifically New York the same way Fred Durst is sort of like the living avatar of Jacksonville, Florida. The latest batch of new heroes just unveiled as part of the City Never Sleeps embraces this aspect of the game and takes it to new heights. Almost all the new characters are the sights and sounds of New York City: old man playing chess in the park? That’s Solomon, a chessboard-wielding wizard. A grandma on a park bench, feeding pigeons? That’s Baba, a cheeky twist on Slavic folklore. What about those giant, slimy rats always gnawing on floor pizza? Enter the literal Rat King, who makes all of da rules. Just look at this fan concept for a Chinese immigrant and construction worker reimagined as Sun Wukong (who natural law mandates must appear as a playable character in every MOBA ). Deadlock’s online community is always abuzz with ruminations about what comes next the same way you can find with games like Heroes of the Storm or Smash Bros., but their enthusiasm isn’t for games they’ve already played or stories that have already been told. It’s for the winding alleyways and wild card denizens of the real-life NYC, pulled through a prism of macabre magic. Maybe that sounds like a gimmick, but the game is never content to leave these characters wit
 
-### 11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos
-Sat, 03 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/
-
-After putting together a list of some of the big, well-known games currently on sale in the Steam Autumn Sale, I asked the PC Gamer team for some deeper cuts—games they're real sickos for, but that haven't gotten enough love. Here's what they brought to the table. The ones where you have to read (Image credit: High North Studios) (Image credit: Tin Man Games) (Image credit: Acrobatic Chirimenjako) (Image credit: Draw Distance) Underappreciated shooters (Image credit: Focus Home Interactive) (Image credit: Blue Manchu) Chillout corner (Image credit: Hiding Spot) (Image credit: Greenheart Games) For the tacticians (Image credit: Alliance Arts) (Image credit: Focus Home Interactive) (Image credit: Amplitude Studioss) ]]>
-
 ### Has your life ever been changed by someone you met in an MMO?
 Sat, 03 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/mmo/has-your-life-ever-been-changed-by-someone-you-met-in-an-mmo/
 
 Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. WoW: Forever's had me nostalgic for a bygone era of MMOs that seems to be enjoying a touch of a resurgence—the idea of a lived-in immersive world, versus the daily task theme park of modern MMO design. Not that I have anything against the latter, mind. Theme parks are neat and roller coasters are fun. But I have, true to the point, been grouping up with strangers more often in a slower-burn world, partially for convenience, but also partially because the slower pace has me less hungry for rampant progress and time saving. I've gotta hike for six minutes to get to this quest anyway, why wouldn't I stop and help someone in trouble? When I get all sappy and soft-hearted like this, I also think of The Remarkable Life of Ibelin , a documentary about a WoW player Mats Steen, who sadly died in 2014 of Duchenne muscular dystrophy—a man whose closest online friends travelled from across the world to attend his funeral. Steen had a massive impact that I wouldn't presume to match, but in my 16 years playing MMOs (and roleplaying in them, like some kind of nerd), I've also met a lot of people who have changed my life. My first girlfriend, for instance
+
+### 11 underappreciated games you should buy in the Steam Autumn Sale, according to some of our biggest genre sickos
+Sat, 03 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/11-underappreciated-games-you-should-buy-in-the-steam-autumn-sale-according-to-some-of-our-biggest-genre-sickos/
+
+After putting together a list of some of the big, well-known games currently on sale in the Steam Autumn Sale, I asked the PC Gamer team for some deeper cuts—games they're real sickos for, but that haven't gotten enough love. Here's what they brought to the table. The ones where you have to read (Image credit: High North Studios) (Image credit: Tin Man Games) (Image credit: Acrobatic Chirimenjako) (Image credit: Draw Distance) Underappreciated shooters (Image credit: Focus Home Interactive) (Image credit: Blue Manchu) Chillout corner (Image credit: Hiding Spot) (Image credit: Greenheart Games) For the tacticians (Image credit: Alliance Arts) (Image credit: Focus Home Interactive) (Image credit: Amplitude Studioss) ]]>
 
 ### Fallen London is where the writers of Baldur's Gate 3, Dishonored and Stellaris come to let their hair down
 Sat, 03 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/rpg/fallen-london-is-where-the-writers-of-baldurs-gate-3-dishonored-and-stellaris-come-to-let-their-hair-down/
@@ -350,31 +365,6 @@ Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC
 Sat, 03 Oct 2026 13:49:02 +0000 — https://www.pcgamer.com/games/moba/deadlocks-new-hero-rat-king-has-over-100-voice-lines-dedicated-to-throwing-rats-at-you/
 
 Gaming's worst-kept secret Deadlock received a humongous update earlier this week, one that redecorated its entire town and added six new classes for players to sink their teeth into. On the subject of teeth, one of these classes is a tank called Rat King, a giant humanoid rodent who started out as a fan concept before becoming part of Deadlock's official roster. Rat King loves two things in life: rats, and throwing rats at his enemies. In fact, he enjoys rat tossing so much that he has more than 100 voice lines dedicated to his calling. According to Deadlock voice line viewer (yes, that is a site that exists) Rat King entered the fray with a grand total of 1534 individual utterances, a similar number to most other Deadlock heroes. Of those lines, 126 of them are dedicated to his power "Rat Swarm", whereby Rat King unleashes a swarm of rodents from beneath his resplendent cape—which leap onto enemies and deal spirit damage over time. Why so many voice lines for a single power? Well, I suppose the short answer is "because Valve can". But the longer answer is that, although some of the lines are generic power callouts (such as "I got a whole lotta rats, baby!") many of them refer to individual rats by name. Rat King clearly likes to express support for his subjects, so will yell phrases like "Get 'em Lou!" or "My boy Widget is gonna chew you up!" or "Rabies Ronnie has a gift for ya. Surprise, it's rabies!" Sometimes Rat King will refer to named groups of rats, implying there ar
-
-### 2026 is the year big brands have finally pushed gaming mouse technology forwards
-Sat, 03 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/hardware/gaming-mice/2026-is-the-year-big-brands-have-finally-pushed-gaming-mouse-technology-forwards/
-
-Jacob Fox, hardware writer (Image credit: Future) This week I've been: trying out the X3 Superstrike and Sensei Pro gaming mice, as well as a new Logitech Hall effect keyboard. What comes to mind when I say 'big brand competitive gaming mouse'? If you're anything like me, that particular Rorschach test will make you spit out the word 'expensive.' That response isn't wrong, either: just look at the big releases we've had this year. There was the Logitech G Pro X2 Superstrike : $180. The Razer Viper V4 Pro : $160. The SteelSeries Rival Pro and Sensei Pro : each $180. And there's an X3 Superstrike now, too, which is $200. These are some very expensive mice. In previous years, I would have taken a dimmer view of this. Especially given the impressively competitive rodents you can pick up from niche Chinese brands these days. The $89 Mchose K7 V2 Ultra+ , for example, is a Razer Viper V3/V4 Pro clone that performs very well and is plenty comfy. And to be honest, even if fancy big brand mice are top-tier build quality, it's still a heck of a lot of money to ask for. The Rival Pro, Sensei Pro, and Viper V4 Pro specifically are truly fantastic on the build quality front, with the latter being practically flawless and cheaper than the rest, but they're all still very expensive. So why isn't my view quite as dim as it could be? Because all of these releases have pushed the competitive gaming mouse scene forward in a way that probably only big brands can—both in terms of being able to ab
-
-### 007 First Light gets free DLC that will finally let you drive James Bond's Aston Martin properly
-Sat, 03 Oct 2026 12:24:15 +0000 — https://www.pcgamer.com/games/action/007-first-light-gets-free-dlc-that-will-finally-let-you-drive-james-bonds-aston-martin-properly/
-
-I thoroughly enjoyed 007: First Light when it launched back in May, but one area where I thought it fell short of delivering a fully-fledged James Bond experience was in its cars. While there are some great vehicle sequences in First Light's campaign—including a fight on a cargo plane and a killer action scene involving a massive dump truck—its handful of car chases and non-dump truck driving sections tend to be short and not especially memorable. Most disappointing is the late game sequence involving an Aston Martin Valhalla, which also appears briefly in the most recent Bond film, No Time to Die. IO Interactive spends pretty much the entire game teasing the Valhalla, with the car gleaming alluringly on a pedestal every time you enter Q-Lab. But when Bond finally gets to sit in the driver's seat, it's essentially used for a short turret sequence and you don't get to drive anywhere. Thankfully, this flaw has now been addressed—sort of. Earlier this week, IO Interactive released a free DLC pack for First Light. Titled 'Extended Operations' it adds a bunch of new modes and missions to the game, including one that finally lets you take the Valhalla out onto the road. The mission is called Valhalla Protocol, and it's part of First Light's TacSim mode—which is a bit like Metal Gear Solid 's VR missions if they had a preposterous budget. Valhalla Protocol lets you cut about the mountains of Slovakia in Bond's heavily armed sports car, blowing up drones and other vehicles using its 
-
-### Bored with roguelikes? You might still want to play Dicevaders, a game about perfecting dice rolls
-Sat, 03 Oct 2026 11:17:53 +0000 — https://www.pcgamer.com/games/roguelike/bored-with-roguelikes-you-might-still-want-to-play-dicevaders-a-game-about-perfecting-dice-rolls/
-
-This is how I knew Dicevaders got its claws into me: the first thing I did this morning was boot up my Steam Deck (which is next to my bed, of course), just so I could get another run in before logging on for work. This kind of compulsive behaviour hasn't been part of my daily routine since Titanium Court back in May, and before that, Blue Prince in 2025—so Dicevaders is in good company. You play the captain of an alien invasion force hurtling through the stars in this roguelike deckbuilder, which is about activating units on a grid using three dice. Each column on the grid corresponds to a number on the dice. You draft your units in each column, roll the dice, then the outcome determines which columns of units will score. As you can see below: (Image credit: Playstack/Pengonauts) Your units don't actually go anywhere or fight anything. They each have a strength stat which forms the base score of each turn. Let's say you roll a pair of threes and a six, as I did in the screenshot above. Your units placed in the third column will have their strength stat multiplied by two, while the unit in the sixth column will only score its basic strength stat because one dice only equals a 1x multiplier. The goal is to hit a target damage number across four turns, which successfully triggers the invasion. If you don't hit the number, you start losing health on each further turn until it's game over. Of course, you can also buy a suite of artifacts which positively affect the score in many 
-
-### Capcom announces plans to transform its RE Engine into an 'AI-generation game engine'
-Sat, 03 Oct 2026 10:42:31 +0000 — https://www.pcgamer.com/gaming-industry/game-development/capcom-announces-plans-to-transform-its-re-engine-into-an-ai-generation-game-engine/
-
-Capcom has been on an historic run over the last few years, delivering hit after hit during a period when many other publishers are struggling to keep their heads above water. This year alone, Capcom has released Resident Evil: Requiem , Pragmata , and Onimusha: Way of the Sword , all of which landed to both critical acclaim and commercial success. So now is obviously the perfect time to wade into the not-at-all controversial topic of AI-powered game development. Yesterday, Capcom held its own tech conference titled "Capcom Open Conference RE: 2026" during which programmer Satoshi Ishida gave a talk detailing the company's future plans for its proprietary RE: Engine—which powers all the publisher's modern games. During this talk, Ishida revealed Capcom's intentions to gradually transform RE Engine into an "AI-generation game engine." Now, it's important to stress here that what Capcom appears to mean here is an engine for the AI generation, rather than a generative AI engine. As reported by Gamebiz (via IGN ), Capcom's plans are more nuanced and detailed than slapping ChatGPT into its game development workflows. During the talk, Ishida stated that the project is called "REX", and it involves six different programs that will integrate AI and machine-learning technology into RE Engine. Some of these are designed for enhancing program performance during development. Re:Dox, for example, is a data handling program designed to translate different types of data into a common set of
-
-### GTA 6 marketing stunt reveals none of our UK editors have heard of the Miami Heat
-Fri, 02 Oct 2026 22:49:09 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-marketing-stunt-reveals-none-of-our-uk-editors-have-heard-of-the-miami-heat/
-
-At 8:35 am Central Time on Friday, October 2, PC Gamer audience development manager Cameron Bald shared a Twitter post by fan account GTA 6 Countdown . Miami's NBA basketball team, the Heat, is doing a cross-promotion event with Rockstar, " A Night in Vice City ." The team will temporarily rebrand, though from what I can tell it's as "Vice City" and not "The Vice City Heat," which feels weird but what do I know. None of us were particularly enthused by the branding exercise, but noted negative nelly and Glasgow-based PCG online editor, Fraser Brown, took particular umbrage, wondering "Who the hell doesn't know GTA is coming?" Cameron offered a fairly compelling rebuttal: "The super-casual types who are still on a PS4 and need convincing that GTA 6 is worth getting back into games over." Lead SEO editor Lauren Morton likened it to a chocolate bar at the checkout counter: This isn't an exercise in persuasion, but flooding the zone. Fraser was not persuaded, doubting the efficacy of the campaign. We got our first indication that something was amiss at 8:54 am. "A basketball stunt is so much more niche than, say, the Netflix trailer," Fraser argued. Niche? The Miami Heat? The multi-billion dollar NBA franchise with three championship victories to its name? The one that signed LeBron for a while in the 2010s and made everybody mad (I don't really know ball either)? That Miami Heat? Then, the whammy: "I guess it's gonna land differently with Americans. To me, this is insanely niche
 
 ## GameSpot
 
@@ -440,6 +430,11 @@ Halo has a new home at Activision following recent changes at Xbox , and while i
 
 ## Rock Paper Shotgun
 
+### The Sunday Papers
+Sun, 04 Oct 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-830
+
+Sundays are for having the first lie-in in a month. No trips to visit family, no waking in unfamiliar beds, and, best of all, no having to wait until the hosts are up before you can get started on breakfast. I will be snoozing deeply in my own particular mattress before having a plate of toast and scrambled eggs at a time that I deem appropriate. Once that's all polished away, I will return to bed with a fresh cup of coffee and peruse the week's best writing at my own leisure. What's that? You want me to share? Fine. You can have a read of them when I'm done. Read more
+
 ### The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras
 Sat, 03 Oct 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras
 
@@ -469,14 +464,4 @@ Another day, another company declaring that the current memory crisis driving RA
 Fri, 02 Oct 2026 11:45:53 +0000 — https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims
 
 In perhaps the least surprising Fallout news since Raul from New Vegas confirmed that ghouls with dodgy knees don't enjoy sneaking, the person behind an AI-generated browser game dubbed Fallout: New York has claimed to have recieved a cease and desist message from Bethesda parent company ZeniMax. Their creation, if such a term fits, was generated using Anthropic's Claude Opus 5.5 tech. Read more
-
-### PUBG extraction shooter Black Budget canned less than a year from reveal, after Krafton decide it won't "deliver an experience players could enjoy over the long term"
-Fri, 02 Oct 2026 09:26:02 +0000 — https://www.rockpapershotgun.com/pubg-extraction-shooter-black-budget-canned-less-than-a-year-from-reveal-after-krafton-decide-it-wont-deliver-an-experience-players-could-enjoy-over-the-long-term
-
-PUBG: Black Budget , an extraction shooter spin-off of Krafton's battle royale, has been cancelled after just under a year of closed alpha testing. Krafton cited a lack of faith that Black Budget's "current direction" would lead to "an experience players could enjoy over the long term" as the reasoning behind their call to end development. Though, they insisted PUBG Studios have learned valuable lessons that'll serve future games. Read more
-
-### If game developers steal one thing from No Law, I hope it's the open-world game's ridiculously detailed and realistic corner shops
-Fri, 02 Oct 2026 08:30:00 +0000 — https://www.rockpapershotgun.com/if-game-developers-steal-one-thing-from-no-law-i-hope-its-the-open-world-games-ridiculously-detailed-and-realistic-corner-shops
-
-After seeing open-world imm-sim No Law last month, I'm sure the developers would hope I was gripped by memories of missions you can approach stealthily or in all-out action , the sci-fi combat where you wield slow-time grenades and cyberpunk implants, or even the powerful kick you can use to boot open locked doors. But, no, what I keep thinking about is the corner shop where protagonist Grey Harker, an ex-soldier on a murderous rampage to take down Port Desire's four corrupt mayors, stopped to pick up some batteries. Read more
 

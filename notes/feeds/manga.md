@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-03T19:24:38.351Z
+# Manga — harvested 2026-10-04T10:46:25.048Z
 
 ## Anime News Network
+
+### Zoids Franchise Announces New Zoids: Chaotic Century Manga
+Sun, 04 Oct 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/zoids-franchise-announces-new-zoids-chaotic-century-manga/.242467
+
+New manga announced with tentative title <cite>Zoids: Chaotic Century Kanketsu-hen</cite>
+
+### Rascal Does Not Dream of a Dear Friend Film Announces Text Story Bonus Item for Moviegoers
+Sun, 04 Oct 2026 04:31:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-announces-text-story-bonus-item-for-moviegoers/.242450
+
+Hajime Kamoshida to pen <cite>Seishun Buta Yarō wa Tea Garden no Yume o Miru</cite> story with illustrations by Keeji Mizoguchi
+
+### The Apothecary Diaries Anime Returns to Universal Studios Japan
+Sat, 03 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-03/the-apothecary-diaries-anime-returns-to-universal-studios-japan/.242445
+
+Join Maomao & Jinshi for an all-new attraction at the theme park
+
+### Suikoden Anime to Stream on YouTube with English Subtitles
+Sat, 03 Oct 2026 23:47:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451
+
+Series launches on YouTube on October 6
+
+### Amazon Prime Video Streams The Seven Knights of the Marronnier Kingdom Anime With Same-Day English Dub
+Sat, 03 Oct 2026 23:01:24 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/amazon-prime-video-streams-the-seven-knights-of-the-marronnier-kingdom-anime-with-same-day-english-/.242452
+
+Anime debuted on October 3
+
+### Crunchyroll Streams New Sgt. Frog TV Anime
+Sat, 03 Oct 2026 22:39:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/crunchyroll-streams-new-sgt-frog-tv-anime/.242453
+
+Series debuted on October 3
+
+### Haruhi 20th Anniversary Watches' Day Counter Relives Endless Eight's Trauma
+Sat, 03 Oct 2026 19:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-03/haruhi-20th-anniversary-watches-day-counter-relives-endless-eight-trauma/.242415
+
+Recoil in horror as the date window only shows the 17th to 31st and “♾️” symbol
 
 ### Uncanny Counter Season 2 Live-Action Series Review
 Sat, 03 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/uncanny-counter-season-2/live-action-series/.242002
@@ -12,7 +47,7 @@ Sat, 03 Oct 2026 11:51:12 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Kanna Nakamura voices announcement of anime of high school science club dealing with life's mysteries
 
-### This Is the End Stagnation Committee Light Novels Have Anime in the Works
+### This Is the End Stagnation Committee Light Novels Have Anime in the Works (Updated)
 Sat, 03 Oct 2026 11:11:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/this-is-the-end-stagnation-committee-light-novels-have-anime-in-the-works/.242449
 
 Kien Aien's story of youths taking on the coming apocalypse
@@ -27,46 +62,16 @@ Sat, 03 Oct 2026 10:24:13 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Maware Isogawa's story of boy reincarnated with cheat power that is too good
 
-### Rebuild World TV Anime Reveals Main Staff, 1st Key Visual
-Sat, 03 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/rebuild-world-tv-anime-reveals-main-staff-1st-key-visual/.242435
-
-Anime was initially announced in July 2023
-
-### Toshimichi Uzō's My Sweet Marriage to My Ex-Nemesis Light Novels Get TV Anime
-Sat, 03 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/toshimichi-uzo-my-sweet-marriage-to-my-ex-nemesis-light-novels-get-tv-anime/.242436
-
-Atsushi Nigorikawa directs anime at Ankichi Kobo
-
-### Antiquarian Bookshop Biblia's Case Files Anime's New Video Unveils More Cast & Staff, April Debut
-Sat, 03 Oct 2026 09:35:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/antiquarian-bookshop-biblia-case-files-anime-new-video-unveils-more-cast-and-staff-april-debut/.242446
-
-Reo Osanai, Wataru Takagi, Yōhei Azakami, Saeko Kamijō join cast
-
-### Tomb Raider King ‒ Episode 12
-Sat, 03 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/tomb-raider-king/episode-12/.242433
-
-There are even a few genuinely incredible shots, like Clark watching her Itano circus of blood red magic bolts chase Irene through an airborne battlefield full of debris.
-
-### Sentenced to Be a Hero Smartphone Game Unveils 2nd Visual, 2nd Teaser, Original Characters
-Sat, 03 Oct 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/sentenced-to-be-a-hero-smartphone-game-unveils-2nd-visual-2nd-teaser-original-characters/.242437
-
-VIC GAME STUDIOS develops smartphone game
-
-### 'Because I, the True Saint, was Banished, that Country is Done For!' TV Anime Reveals January 2027 Debut in Video
-Sat, 03 Oct 2026 05:26:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/because-i-the-true-saint-was-banished-that-country-is-done-for-tv-anime-reveals-january-2027-debut-/.242443
-
-Kanako Hara composes music
-
-### Ascendance of a Bookworm Novels' Part 4 Gets TV Anime From Wit Studio
-Sat, 03 Oct 2026 05:16:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/ascendance-of-a-bookworm-novels-part-4-gets-tv-anime-from-wit-studio/.242442
-
-Announced after end of <i>Part 3</i> anime
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Blue Box Season 2 Creditless Opening and Ending Videos Revealed
+Sun, 04 Oct 2026 09:06:55 GMT — https://animecorner.me/blue-box-season-2-creditless-opening-and-ending-videos-revealed/
+
+Blue Box Season 2 revealed the creditless opening and ending video sequences following its&hellip;
 
 ### Black Clover Season 2 Creditless Opening and Ending Videos Revealed
 Sat, 03 Oct 2026 15:01:48 GMT — https://animecorner.me/black-clover-season-2-creditless-opening-and-ending-videos-revealed/
@@ -82,21 +87,6 @@ Ninja Scroll is heading back to theaters in North America in a new 4K&hellip;
 Fri, 02 Oct 2026 17:10:19 GMT — https://animecorner.me/tokyo-revengers-season-4-releases-creditless-opening-featuring-jo1s-ignite/
 
 Tokyo Revengers: War of the Three Titans (Season 4) released the creditless opening sequence for, featuring JO1’s opening theme “IGNITE.”
-
-### The Apothecary Diaries Season 3 Releases Creditless Opening Ahead of Today's Premiere
-Fri, 02 Oct 2026 10:11:59 GMT — https://animecorner.me/the-apothecary-diaries-season-3-releases-creditless-opening-ahead-of-todays-premiere/
-
-The Apothecary Diaries Season 3 revealed the creditless opening video ahead of the anime's premiere later today.
-
-### Interview: Nami Tamaki on Starbound Tour, Anisongs, and her Fans
-Fri, 02 Oct 2026 08:09:50 GMT — https://animecorner.me/interview-nami-tamaki-on-starbound-tour-anisongs-and-her-fans/
-
-We had the honor of having a short interview with anisong artist and Gundam&hellip;
-
-### Interview: ZAQ on Composing Anisongs and Visiting the Philippines
-Fri, 02 Oct 2026 07:43:31 GMT — https://animecorner.me/interview-zaq-on-composing-anisongs-and-visiting-the-philippines/
-
-We had the honor of chatting with the Japanese singer-songwriter ZAQ during her visit&hellip;
 
 ## MyAnimeList News
 
@@ -140,7 +130,7 @@ Sat, 03 Oct 2026 02:58:00 -0700 — https://myanimelist.net/news/74785445?_locat
 
 The 24th and final episode of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen: Ryoushu no Youjo (Ascendance of a Bookworm: Adopted Daughter of an Archduke) ended with an announcement on Saturday that a sequel television anime adaptation is in production. The sequel anime, which adapts the fourth part of Miya Kazuki s Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen (Ascendance of a Bookworm: I ll do Anything to Become a Librarian!)...
 
-### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo for Winter 2027
+### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo
 Sat, 03 Oct 2026 01:02:34 -0700 — https://myanimelist.net/news/74785238?_location=rss
 
 The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promotional video for the television anime adaptation of Tooru Shirogane s Himekishi-sama no Himo (The Kept Man of the Princess Knight). The anime series will premiere in January 2027. Cast April: Rika Nagae (Sentai Daishikkaku) Vanessa: Rie Takahashi (Isekai Quartet 3) Dez: Tetsu Inada (Vigilante: Boku no Hero Academia Illegals 2nd Season) Chihiro Kumano (U...
@@ -162,9 +152,14 @@ The official X (formerly Twitter) account for the JoJo no Kimyou na Bouken (JoJo
 
 ## Otaku USA
 
-_Feed unavailable: HTTP 520_
+_Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Omega Megaera Volume 6 Review
+Sun, 04 Oct 2026 09:00:22 +0000 — https://animeuknews.net/2026/10/omega-megaera-volume-6-review/
+
+In order to keep the failing family fortunes afloat, Mamiya and Reiko must continue to pretend they are alphas in an increasingly repressive society.
 
 ### Appleseed: Deluxe Edition Review
 Sat, 03 Oct 2026 09:00:05 +0000 — https://animeuknews.net/2026/10/appleseed-deluxe-edition-review/

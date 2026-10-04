@@ -1,6 +1,11 @@
-# Tech — harvested 2026-10-03T19:24:38.351Z
+# Tech — harvested 2026-10-04T10:46:25.048Z
 
 ## Ars Technica
+
+### Milt Windler, NASA flight director who helped save Apollo 13, dies at 94
+Sat, 03 Oct 2026 19:45:17 +0000 — https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/
+
+Milt Windler, one of the four leaders of Mission Control who in 1970 directed the round-the-clock efforts to bring the Apollo 13 astronauts back to Earth safely, has died at the age of 94. Windler died on Thursday , surrounded by his loving family, according to a brief notice posted online. Named a NASA flight director in 1968 after working on recovery operations during the Mercury and Gemini programs, Windler also led a shift of flight controllers for the Apollo 8 first circumlunar flight and Apollo 10 lunar landing dress rehearsal, as well as the second, third and fourth moon landings — Apollo 12, Apollo 14 and Apollo 15. He then served as a flight director for all three crewed missions to the United States' first space station, Skylab. Read full article Comments ]]>
 
 ### The dawn of the age of the exoskeleton
 Sat, 03 Oct 2026 11:15:33 +0000 — https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/
@@ -57,11 +62,6 @@ Fri, 02 Oct 2026 17:20:21 +0000 — https://arstechnica.com/gadgets/2026/10/how-
 
 My family has spent four summers participating in demand response programs whereby utility companies pay customers to reduce energy use on the hottest summer days. Most summers have involved carefully precooling our New York City apartment before switching off the air conditioners and sweating it out during the designated demand response periods. But this year, we kept our window air conditioners running throughout a heat dome event that drove daytime temperatures into the triple digits and made the nights oppressively hot. The difference was that we powered the air conditioners through two household batteries tucked away unobtrusively in the corners of our living room and bedroom. We were among about 1,000 New York City households that took part in a free and growing program offered by the local startup Every Electric. The company’s proposition is simple: Get one or more batteries delivered to your home, plug the batteries into a standard wall electrical outlet, and then plug your window air conditioners into the batteries. Households can keep running air conditioners as usual during peak demand periods while also earning money through the local demand response program with the utility company Con Edison. Read full article Comments ]]>
 
-### Cybertruck sales in free fall as Tesla reports mediocre sales for Q3
-Fri, 02 Oct 2026 16:05:26 +0000 — https://arstechnica.com/cars/2026/10/tesla-sales-drop-2-percent-in-underwhelming-q3-2026/
-
-Tesla sold 486,532 electric vehicles during the third quarter of 2026. That’s a 2.1 percent decrease on the same quarter in 2025, when the company found homes for 497,099 EVs, and one might think that would be bad news for a company valued on the premise of near-constant growth. But Tesla stock is up this morning; the year-over-year numbers might look bad, but the company still exceeded analysts’ expectations of 456,600 cars, which would have been a larger 8 percent year-on-year decline Total production at Tesla actually increased year over year; it built 464,391 vehicles—a 3.7 percent increase—457,387 of which were Models 3 and Y (a 4.9 percent increase year over year). The remaining 7,004 were other models, mostly Cybertrucks, with presumably some Semis and Cybercabs, as the Models S and X are now retired; this category saw a 39.8 percent decrease year over year. Read full article Comments ]]>
-
 ## The Verge
 
 ### Capcom is preparing for a ‘future where we create games together with AI’
@@ -116,6 +116,16 @@ New helpful little guy just dropped. | Photo: Allison Johnson / The Verge It's a
 
 ## Tom's Hardware
 
+### Portable Bluetooth CD player has a glow-in-the-dark transparent green finish, modern features
+Sun, 04 Oct 2026 10:25:00 +0000 — https://www.tomshardware.com/peripherals/portable-bluetooth-cd-player-has-a-glow-in-the-dark-transparent-green-finish-modern-features-new-limited-edition-has-usb-c-bluetooth-5-3-rechargeable-li-ion-and-wont-get-lost-in-your-dimly-lit-den
+
+Sincere Inc. has released its Pixel Tunes portable Bluetooth CD player in an alluring new ‘After Hours’ finish. This is a limited edition release, and one of four translucent colors available, but it is the only one that glows in the dark due to the use of phosphorescent materials. You can grab one today for 12,980 yen ($83). According to the official product page, you’ll be interested in purchasing a Pixel Tunes player for the retro-futuristic design, combined with cutting-edge functionality. The ‘standard’ translucent colors of Warm Gray, Ray of Light, and 1983 already look quite handsome, if you are into that kind of thing. However, adding phosphorescence to the new After Hours livery turns things up a notch. In daylight, the After Hours Pixel Tunes looks like a translucent smoke-shelled portable CD player. “But when the lights are turned off, the body glows with a soft, fantastical green light,” says Sincere Inc. Apparently, its design expresses the culture of people who like to transition from bright everyday life to the “private world of the night.” One wonders what the designers are getting up to in the evenings. Under the skin, the Pixel Tunes has decent enough specs for a portable CD player , and indeed comes with some ‘modern’ features like a USB Type-C rechargeable Li-ion battery and Bluetooth 5.3. Pixel Tunes specifications: CD audio music player Status LCD ESP anti-skip audio (60-second buffer) Buttons for play mode, skip/rewind, stop, play/pause, skip/fast forwa
+
+### Free browser-based AI-generated Taipei GTA clone hits 1.2 million concurrent players in three days
+Sun, 04 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/free-browser-based-ai-generated-taipei-gta-clone-hits-1-2-million-concurrent-players-in-three-days-vibe-coded-game-cost-usd10-000-in-ai-tokens-to-build-is-set-on-the-streets-of-taipei
+
+Developers AICodeWith have published a browser-based game dubbed Taipei GTA . The game’s name could put the devs in hot water with Rockstar’s legal department, but at the time of writing, it's online, free, and very playable. While it remains online, Taipei , with the not-so-secret ingredient of crime, might be the diversion you’re looking for while you wait for GTA 6. You can try this game, which took $ 10,000 in tokens to create, at https://taipei-gta.vercel.app/ , where you can toggle language options in the top right of the window. The above Taiwan TV news report says that GTA Taipei has attracted 1.2 million concurrent users in just three days since its release (machine translation). While we've only seen reports about Taipei GTA via media based in Taiwan and Hong Kong (in Chinese), thankfully there’s an English-language wiki about the game in the absence of any official announcement(s). Taipei GTA was vibe-coded via the AICodeWith platform, which is described as a unified platform for developers. It provides access to DeepSeek, Qwen, Kimi, GLM, and 30+ models and relies on prepaid tokens. AICodeWith also seems to be the developer of this web-based game. It might therefore be safe to assume it is a kind of demo/showcase for the platform. Certainly, not many hobbyists would spend the purported USD$10,000 on coding tokens to make a game like Taipei GTA . This looks like pretty good publicity for the development platform, though. If you follow the link to play this game, yo
+
 ### 7-year-old Nvidia Shield TV Pro gets shocking 50% price hike driven by AI memory shortage
 Sat, 03 Oct 2026 16:59:51 +0000 — https://www.tomshardware.com/service-providers/streaming/7-year-old-nvidia-shield-tv-pro-gets-shocking-50-percent-price-hike-driven-by-ai-memory-shortage-chipmaker-axes-entry-level-shield-tv-as-component-prices-soar
 
@@ -166,17 +176,27 @@ Sat, 03 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/a
 
 Google has officially suspended product vulnerability submissions to its Open Source Software Vulnerability Reward Program (OSS VRP) — a bug bounty program — over an influx of invalid AI-driven reports. The company, in an official X post on October 1, encouraged participants to explore other VRP programs and committed to providing an update by the first quarter of 2027, while it reformats and works on this aspect of the program in the meantime. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play The suspension went into effect on October 1 — the day of the announcement — and does not affect product vulnerabilities submitted before that date. Google said it may still accept reports covering product vulnerabilities through the Cloud VRP, “for some Google Cloud repos impacting Google Cloud products.” The suspension also does not affect OSS VRP supply chain reports. In a similar case, Linux ended support for older network drivers due to an influx of false AI-generated bug reports . OSS VRP is a specialized Google security bounty program that incentivizes independent researchers to find and responsibly disclose security flaws across Google's open-source ecosystem. Under this program, product vulnerability submissions focu
 
-### $5,245 prebuilt RTX 5090 PC's connectors melt after sitting boxed for a year
-Sat, 03 Oct 2026 11:40:00 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/usd5-245-prebuilt-rtx-5090-pcs-connectors-melt-after-sitting-boxed-for-a-year-digital-storm-and-pny-deny-warranty-claims-over-expired-coverage-and-third-party-cables
-
-When a PC gamer's GPU with a 12VHPWR or 12V-2x6 power connector melts, it's often in a computer they built by hand, and they typically only have one chance at recourse — hoping their GPU is under warranty and making a claim. But it ends up that when someone else built your PC, it could open up a can of worms that has two companies pointing the blame at each other while a customer sits with a burned-up RTX 5090, power supply, and power cords. That's what happened to Tom's Hardware reader Anthony DeMarco, whose father purchased a Digital Storm Corsa for him ahead of his first job after graduating from college. DeMarco says he suggested his father purchase the system before RAM prices went up. The system was delivered in May of 2025. DeMarco says he tested the system, then packed it up for when he got a job. That jealousy-inducing system included an AMD Ryzen 9 9950X, 2TB Crucial T700 Pro SSD, 64GB of Kingston Fury RGB RAM, and, crucially, an Nvidia GeForce RTX 5090 from PNY. The computer cost $5,245.00 before tax. DeMarco says he got the computer from his father in August 2026, upon starting his job. He says the problems started two weeks later. "I noticed a strange burning smell from near my computer," he recalled to Tom's Hardware , wondering if it was an issue with dust from another PC he owned. "The next day I noticed my monitor screen kept flickering. I then used Claude to try to figure out the issue and it pointed to the GPU, and then I checked the wires and noticed them 
-
-### California subpoenas OpenAI over rogue AI agents conducting hacking attacks
-Sat, 03 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/california-subpoenas-openai-as-it-investigates-huggingface-breach-doj-wants-more-information-on-cybersecurity-incidents-to-determine-developer-responsibility
-
-The California Department of Justice (DOJ) has subpoenaed OpenAI as it investigates the recent cybersecurity incidents involving the company’s AI models and agents. According to The Register , state Attorney General Rob Bonta said that the state wants to learn more about the cybersecurity incidents involving the company and that the investigation is trying to determine the responsibility of an AI developer if an AI model or agent does something unintended. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “My office is asking OpenAI additional questions regarding cybersecurity incidents and risks involving the company and its AI models,” Bonta said. He also added, “Frontier models can be legitimate tools for cyber defense — at the same time, companies that develop these models and offer them for use have a moral and legal responsibility to ensure that they do not perpetrate or enable cyberattacks, either during model testing and development or once models are placed into service. Developers who fail to do so can and should be held legally accountable, and my office is committed to determining if that is t
-
 ## Phoronix
+
+### Linux Begins Seeing Workarounds For Fujitsu MONAKA CPU Bugs
+Sun, 04 Oct 2026 06:31:23 -0400 — https://www.phoronix.com/news/Linux-MONAKA-CPU-Workarounds
+
+Last month Fujitsu formally announced their MONAKA CPU as a 144 core Arm-based server processor geared for AI infrastructure. This comes after two years of seeing various Monaka patches to the GCC compiler and other open-source components. Now that MONAKA is announced, we are seeing more patches surface for the Linux kernel with this week seeing several workarounds for MONAKA CPU bugs...
+
+### AMD Sends In More New GPU Hardware Enablement For Linux 7.4, Bug Fixes
+Sun, 04 Oct 2026 06:14:12 -0400 — https://www.phoronix.com/news/More-AMDGPU-Linux-7.4
+
+We are nearing the cut-off of new Direct Rendering Manager (DRM) subsystem material for the upcoming Linux 7.4 cycle. AMD this week sent in another feature pull to DRM-Next that is moving over to mostly bug fixing but does contain the enablement of some new GPU intellectual property blocks for upcoming graphics hardware...
+
+### openSUSE Turns To ZUPT For Post-Quantum Backups
+Sun, 04 Oct 2026 05:59:30 -0400 — https://www.phoronix.com/news/openSUSE-ZUPT-Backups
+
+OpenSUSE developers have announced they are making ZUPT available on their Linux distribution as a solution for providing post-quantum backups. ZUPT combines backup creation, compression, integrity verification, and encryption all via this single open-source utility...
+
+### Arm Working On "TLBID" For Linux To Increase Performance On High Core Count CPUs
+Sat, 03 Oct 2026 20:10:09 -0400 — https://www.phoronix.com/news/ARM64-Linux-TLBI-Domains
+
+Arm sent out an initial set of patches this week working on support in the Linux kernel for TLBI Domains. This "TLBID" feature is an upcoming Arm architecture capability designed to increase performance on high core count systems...
 
 ### The Amazing Work By Valve s Timur Kristóf On Improving Old AMD GPUs On Linux
 Sat, 03 Oct 2026 14:56:28 -0400 — https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU
@@ -218,27 +238,17 @@ Fri, 02 Oct 2026 20:29:10 -0400 — https://www.phoronix.com/news/Wine-11.19-Rel
 
 We are nearing the point of the Wine 12.0 stable release coming up in early 2027 while for now the Wine 11.xx bi-weekly development releases continue. Out today is Wine 11.19 with a few new features and plenty of fixes...
 
-### Linux 7.4 To Introduce Initial Device Trees For Apple M4, A18 Pro For MacBook Neo
-Fri, 02 Oct 2026 16:32:41 -0400 — https://www.phoronix.com/news/Linux-7.4-Apple-Device-Trees
-
-Asahi Linux developer Sven Peter today sent out the pull requests of the Apple SoC Device Tree changes they are ready to upstream for the Linux 7.4 merge window happening later this month. Most notable is the initial Device Tree for Apple systems using the base M4 SoC model as well as for the MacBook Neo with the A18 Pro SoC...
-
-### Intel Ready With A Big Improvement For Battlemage With Linux 7.4
-Fri, 02 Oct 2026 14:34:00 -0400 — https://www.phoronix.com/news/Intel-CPU-Binds-ULLS-Migration
-
-Sent out on Thursday was the last round of planned Intel Xe kernel driver improvements targeting the upcoming Linux 7.4 cycle. There is one big improvement that is set to benefit Intel discrete GPUs with at least Battlemage benefiting nicely...
-
-### Ubuntu Working On SHA3 For Debian s APT For If/When SHA2 Is Broken
-Fri, 02 Oct 2026 14:10:00 -0400 — https://www.phoronix.com/news/Ubuntu-SHA3-For-Debian-APT
-
-Ubuntu developer Gianpiero Carpinelli at Canonical has been working on introducing SHA3-256 and SHA3-384 support for Debian's APT packaging tool in preparing for if/when that SHA2 is broken...
-
-### AMD Ryzen AI Developer Platform OS Updated With ROCm 10.0, Linux 7.2
-Fri, 02 Oct 2026 10:25:45 -0400 — https://www.phoronix.com/news/Ryzen-AI-Dev-Platform-Sep-2026
-
-With the AMD Ryzen AI Halo mini PC that launched this summer that focused on local AI, one of the biggest surprises for me when reviewing the unit was finding that the Linux preload wasn't just a stock Ubuntu/Debian OS but rather a customized AMD Linux distribution known as AMD Ryzen AI Developer Platform. Yesterday the newest version of AMD Ryzen AI Developer Platform was released with some nice software updates...
-
 ## The Register
+
+### Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care
+Sun, 04 Oct 2026 12:30:00 +0200 — https://www.theregister.com/software/2026/10/04/revive-raskins-3-laws-of-software-with-humane-work-that-considers-a-devs-duty-of-care/5300539
+
+In 1942, Isaac Asimov formulated three laws of robotics. 58 years later, Jef Raskin responded with three laws of human-computer interface design. They haven’t been bettered yet. There are rules, and even laws, about designing computer user interfaces. Even after 35 years of Linux, which has brought Unix to the masses, the FOSS world has not yet really grasped this. In the meantime, the proprietary software world is busily forgetting everything it once knew. Sometimes these rules surface today, and the FOSS folks often get very cross when reminded that they’re user-interface scofflaws. Marcin Wichary’s recent blog post, They had no concept of a duty of care to their users, is an excellent recent example. (The Reg FOSS desk much admires Mr Wichary’s writing, to the extent that we bought his history of the keyboard, Shift Happens.) In his latest post, Wichary refers to CHERI Project boffin David Chisnall. Chisnall is a long-term Vim user – we all have our failings – and recently recounted trying NeoVim. He uses Vim’s persistent-undo feature, which records changes in a separate directory, so that you can repeatedly undo until you get back to changes you made weeks or months earlier. He’s customized where it’s kept, and when he tried the NeoVim fork, it overwrote his Vim undo file. In a later update to his post, he acknowledges that there was a warning, but he expected it to be safe. It was not safe. It overwrote records of more than a decade’s worth of changes. As he puts it: “Vi
+
+### Spies, prime ministers, and balls: The BBC Domesday project @ 40
+Sun, 04 Oct 2026 10:29:00 +0200 — https://www.theregister.com/offbeat/2026/10/04/spies-prime-ministers-and-balls-the-bbc-domesday-project-40/5300383
+
+Decades before the modern web, the BBC Domesday Project dared to archive an entire nation using…. what else – massive LV-ROM (LaserVision Read Only Memory) LaserDiscs. To mark the impending 40th anniversary of the BBC Domesday Project's release, the UK's Centre for Computing History (CCH) hosted a celebration at its museum on September 19, bringing together several of the original team members responsible for the system. One was Mike Tibbetts, an assistant to Peter Armstrong, the BBC producer behind the project. Tibbetts revealed that the UK's domestic intelligence service, MI5, took an interest in the system, but "they didn't understand a word of what we were doing!" "And on one occasion, Peter and I had to give a presentation, or Peter gave the presentation to [former prime minister] Margaret Thatcher, and well, I'm not sure she understood what we were doing either…" What they were doing was compiling a trove of data that will prove invaluable to historians in the years to come, even if the politicians of the era looked nervously on at the amount of data being handed over to the public. The Domesday Project was intended to be a modern version of the Domesday Book, compiled after the 1066 Norman invasion of England. The original book surveyed most of England and parts of Wales and was used by the King to assess dues owed to him. 900 years later, the name was given to a project in which more than a million people participated to provide a snapshot of life in the UK. Participa
 
 ### Anthropic's super bug-hunting model Mythos is hardcore good at math, as latest vuln under attack shows
 Sat, 03 Oct 2026 17:27:00 +0200 — https://www.theregister.com/security/2026/10/03/anthropics-super-bug-hunting-model-mythos-is-hardcore-good-at-math-as-latest-vuln-under-attack-shows/5300933
@@ -290,17 +300,52 @@ Fri, 02 Oct 2026 16:34:00 +0200 — https://www.theregister.com/ai-and-ml/2026/1
 
 California's attorney general has subpoenaed OpenAI as the state investigates what happens when the AI lab's models escape their testing environments and start meddling with systems on the open internet. Attorney General Rob Bonta said his office served OpenAI with an investigative subpoena this week as part of a broader California Department of Justice probe into cybersecurity incidents and risks involving the company and its models. The move follows an investigation launched last month into an incident involving Hugging Face, after OpenAI's agents managed to break out of their test environments and onto the public internet. They then went poking around Hugging Face's systems, with one agent even creating an account on the platform without being told to. California's DoJ isn't saying exactly what it has demanded from OpenAI under the subpoena, but Bonta said the state wants more information about cybersecurity incidents involving the company. "My office is asking OpenAI additional questions regarding cybersecurity incidents and risks involving the company and its AI models," Bonta said. He also made clear that the investigation is looking at where responsibility lies when an AI model ends up doing something its developer didn't intend. "Frontier models can be legitimate tools for cyber defense — at the same time, companies that develop these models and offer them for use have a moral and legal responsibility to ensure that they do not perpetrate or enable cyberattacks, eithe
 
-### Power approval set to delay Oracle's Wisconsin AI datacenter
-Fri, 02 Oct 2026 15:50:39 +0200 — https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832
-
-Oracle's Wisconsin AI datacenter could miss its planned 2027 start date because the transmission infrastructure needed to power it is awaiting regulatory approval. Research company Aterio warns that Project Lighthouse, being developed by Vantage in Port Washington with Oracle as tenant, faces a real risk of slipping beyond Big Red's target of delivering capacity to customers in the second half of next year. Separately, Oracle reportedly sent a force majeure notice to a Blue Owl Capital subsidiary developing Project Jupiter in New Mexico. Bloomberg reported that Oracle was seeking to defer payments if the campus failed to come online as planned, rather than withdraw from the project. Oracle says the development remains on schedule. Aterio said of this and the Wisconsin facility: "The regulatory record points to the potential for dates later than company guidance, and Oracle's stretched finances, together with its force majeure notice on Project Jupiter in New Mexico this week, raise the potential for slippage on its largest campuses." Oracle has been offered the opportunity to comment. The Register has already reported that Oracle could face more than $100 million a year in financing costs to guarantee the power commitments behind the Wisconsin datacenter campus, which is rated at 902 MW of computing load and 1.3 GW of total electricity demand. The immediate obstacle is American Transmission Company's (ATC) application to the Public Service Commission of Wisconsin (PSC) for ap
-
-### OpenAI shows three staff the door over alleged information misuse
-Fri, 02 Oct 2026 15:05:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/02/openai-shows-three-staff-the-door-over-alleged-information-misuse/5300820
-
-OpenAI has fired two safety researchers and a program manager for allegedly mishandling sensitive company information. The ChatGPT maker confirmed the dismissals to The Register, saying an internal investigation found the trio had violated company rules governing access to and handling of confidential information. "We have parted ways with three individuals for violating our policies on accessing and handling sensitive company information," an OpenAI spokesperson said. "Our investigation confirmed that these individuals mishandled sensitive information outside established company procedures, violating our policies and breaking the trust essential to our work." At least some of the information was allegedly shared with an outside organization that evaluates AI systems. OpenAI said its investigation found other misconduct beyond that disclosure, but has not described it or identified the organization. The ChatGPT creator said the employees were not dismissed for raising AI safety concerns. The firings come after a messy few months for OpenAI's safety teams, including an incident in which one of its agents compromised infrastructure belonging to AI platform Hugging Face. OpenAI subsequently brought in external experts to investigate what happened and published findings detailing the agent's behavior and the security failures that allowed it to reach Hugging Face. The incident also prompted a much wider trawl through OpenAI's logs for other examples of agents interacting with ext
-
 ## Engadget
+
+### What are amplifiers for and how important are they to your sound system's quality?
+Sun, 04 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2273783/amplifier-what-for-how-important-for-sound-system-quality/
+
+If you're looking into a new sound system, you may be wondering if you need an amplifier as well. Here's how to tell and why amps even matter.
+
+### How has Apple's Mac Studio changed over the years?
+Sun, 04 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2273779/apple-mac-studio-how-changed-over-years/
+
+Explore how Apple's Mac Studio has evolved, with internal upgrades, performance gains, and subtle design changes shaping each new generation of the desktop.
+
+### What's the difference between battery capacity and battery life?
+Sat, 03 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2273775/battery-capacity-vs-life-differences/
+
+Battery capacity often plays into battery life, but an impressive capacity stat doesn't translate to excellent battery life.
+
+### Why is this the only pink MacBook available right now?
+Sat, 03 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2273771/why-only-pink-macbook-available-right-now/
+
+Is it too much to ask for some more colorful laptops?
+
+### This little-known app lets you display song lyrics on Apple CarPlay
+Sat, 03 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2273743/little-known-app-display-song-lyrics-apple-carplay/
+
+You can host your own episode of Carpool Karaoke with the Dynamic Lyrics CarPlay widget.
+
+### Why this ancient cable still connects to modern TVs with a simple adapter
+Sat, 03 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2273698/dvi-cable-why-still-connects-modern-tv-simple-adapter/
+
+DVI to HDMI adapters are a cheap and simple way to connect up old hardware, but don't expect miracles.
+
+### How to improve your laptop's webcam quality
+Sat, 03 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2273684/how-to-improve-laptop-webcam-quality/
+
+Your laptop's webcam is not usually an impressive piece of hardware, but you can help make up for its shortcomings.
+
+### Online retailers that don't support digital wallets are losing Gen Z customers
+Sat, 03 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2273492/online-retailers-dont-support-digital-wallets-losing-gen-z-customers/
+
+A study suggests younger people are more likely to walk away if their preferred payment option isn't supported.
+
+### ICE is reportedly using a Palantir database to compile dossiers on protestors
+Sat, 03 Oct 2026 20:08:20 +0000 — https://www.engadget.com/2276609/ice-is-reportedly-using-a-palantir-database-to-compile-dossiers-on-protestors/
+
+An attorney representing protestors said this infringes on First Amendment rights.
 
 ### How to check the temperature of your PC's CPU
 Sat, 03 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2273462/how-to-check-cpu-temperature/
@@ -317,52 +362,12 @@ Sat, 03 Oct 2026 18:27:15 +0000 — https://www.engadget.com/2276597/capcom-plan
 
 The company previously said it won't use AI-generated content in its games.
 
-### The original PlayStation 2 security chip has been reverse engineered
-Sat, 03 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2273354/playstation-2-security-chip-reverse-engineered/
-
-A long‑hidden PS2 security component has finally been decoded, revealing surprising design choices and opening the door to fresh hardware insights.
-
-### How to customize Camera Control on your iPhone
-Sat, 03 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2273351/how-to-customize-iphone-camera-control/
-
-Take a closer look at the iPhone's Camera Control feature and why tweaking it can change the way you shoot, even if you've never touched it before.
-
-### Former OpenAI employee says AI should be regulated like nuclear power plants
-Sat, 03 Oct 2026 16:25:15 +0000 — https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/
-
-The company's former safety lead said frontier AI model releases should have "layers of redundancy and careful, time-consuming planning."
-
-### Why Windows 11 is always using so much RAM
-Sat, 03 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2273348/why-windows-11-using-so-much-ram/
-
-Windows 11 might be using a lot of your RAM, which isn't a problem unless you experience poor performance. It helps your system run more smoothly.
-
-### iPhone Duo vs. iPad Mini: Which Apple device is right for you?
-Sat, 03 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/
-
-Apple's iPhone Duo provides a tablet-like experience with its inside screen, but this might not be better than a dedicated iPad for you.
-
-### One missing Google Docs feature has a pretty easy workaround
-Sat, 03 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2273343/missing-feature-google-docs-easy-workaround-dark-mode-extension/
-
-Dark mode is available on the Google Docs mobile app, but not the web version. Luckily, there are some ways to achieve dark mode on the web anyway.
-
-### What does FDM stand for in 3D printing and how does it work?
-Sat, 03 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2273342/what-does-fdm-stand-for-fused-deposition-modeling-3d-printing-method/
-
-FDM stands for fused deposition modeling, but what does that mean, and how does it differ from other 3D printing methods? Let's find out.
-
-### How to know it's time to replace your Apple Pencil's tip
-Sat, 03 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2273337/how-to-know-time-to-replace-apple-pencil-tip/
-
-Your Apple Pencil tips won't last forever.
-
-### What's the difference between Google Pay and Google Wallet?
-Sat, 03 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2273339/google-pay-vs-wallet-differences-explained/
-
-The history of Google Wallet and Google Pay has led to a great deal of confusion.
-
 ## TechCrunch
+
+### Federal judge calls Flock ‘indiscriminate mass surveillance’
+Sat, 03 Oct 2026 19:33:15 +0000 — https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/
+
+A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.
 
 ### Amazon responds to data center backlash, says it no longer uses NDAs
 Sat, 03 Oct 2026 18:43:57 +0000 — https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/
@@ -418,9 +423,4 @@ Your next opportunity could be one conversation away. Get your Expo+ Pass for ju
 Fri, 02 Oct 2026 18:11:27 +0000 — https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/
 
 Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.
-
-### It s not AI anymore, it s ‘super intelligence’ (according to the White House)
-Fri, 02 Oct 2026 17:48:16 +0000 — https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/
-
-This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executive order officially rebranding AI as “super intelligence,” and meanwhile, Meta and OpenAI are putting friendlier faces on their AI products, even as the biggest money [ ]
 

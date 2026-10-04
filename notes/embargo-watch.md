@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-03
+# Review radar — updated 2026-10-04
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,22 +20,22 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Gears of War: E-Day | Xbox Game Studios | 2026-10-06 | 3d | 2026-10-05 | €69.99 |
-| STAR WARS: Galactic Racer | Secret Mode | 2026-10-06 | 3d | 2026-10-05 | €59.99 |
+| Gears of War: E-Day | Xbox Game Studios | 2026-10-06 | 2d | 2026-10-05 | €69.99 |
+| STAR WARS: Galactic Racer | Secret Mode | 2026-10-06 | 2d | 2026-10-05 | €59.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | 5d | 2026-10-07 | €39.99 |
-| Silver Pines - Artbook | Wych Elm | 2026-10-08 | 5d | 2026-10-07 | €31.99 |
-| Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 5d | 2026-10-07 | €29.99 |
-| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 10d | 2026-10-12 | €49.99 |
-| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 11d | 2026-10-13 | €29.99 |
+| Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | 4d | 2026-10-07 | €39.99 |
+| Silver Pines - Artbook | Wych Elm | 2026-10-08 | 4d | 2026-10-07 | €31.99 |
+| Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | 4d | 2026-10-07 | €29.99 |
+| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 9d | 2026-10-12 | €49.99 |
+| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 10d | 2026-10-13 | €29.99 |
 
 ---
 
-*1149 upcoming titles scanned, 1070 with a firm date inside
+*1199 upcoming titles scanned, 1113 with a firm date inside
 14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

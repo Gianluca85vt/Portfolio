@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-03T19:24:38.351Z
+# AI — harvested 2026-10-04T10:46:25.048Z
 
 ## OpenAI
 
@@ -7,18 +7,13 @@ Fri, 02 Oct 2026 16:15:00 GMT — https://openai.com/index/practical-guide-build
 
 Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.
 
-### Chatham scales its capital markets expertise with OpenAI
-Fri, 02 Oct 2026 00:00:00 GMT — https://openai.com/index/chatham-financial
-
-Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.
-
 ## Hugging Face
+
+### The Agent Said It Was Done. The Database Disagreed.
+Sat, 03 Oct 2026 22:56:48 GMT — https://huggingface.co/blog/microsoft/thinkingbox
 
 ### Open-sourcing AstaBrief, the fast report-generation model in Asta
 Fri, 02 Oct 2026 15:19:50 GMT — https://huggingface.co/blog/allenai/astabrief
-
-### AutoSynthData: Generating Training Data for Enterprise Agents
-Fri, 02 Oct 2026 04:01:31 GMT — https://huggingface.co/blog/ServiceNow-AI/autosynthdata
 
 ## Google DeepMind
 

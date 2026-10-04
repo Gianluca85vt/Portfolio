@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-10-03T19:24:38.351Z
+# Film & TV — harvested 2026-10-04T10:46:25.048Z
 
 ## Variety
+
+### Pete Hegseth Chugs Spider-Man’s Non-Alcoholic B - Beer in SNL Cold Open That Mocks Tom Holland, Mitch McConnell and JD Vance
+Sun, 04 Oct 2026 04:10:00 +0000 — https://variety.com/2026/tv/news/snl-pete-hegseth-spider-man-non-alcoholic-beer-1236898415/
+
+In the Oct. 3 cold open on “Saturday Night Live,” Andrew Dismukes and Ashley Padilla play Republican strategists who have their work cut out for them building buzz for their party. Marcello Hernández comes in first as Marco Rubio, who speaks to constituents in Spanish, admits that Trump did not live up to expectations and [ ]
+
+### Taylor Swift Crashes Dakota Johnson s SNL Monologue as Her Breakup Therapist, Shows Travis Kelce Love with Cleveland Shoutout
+Sun, 04 Oct 2026 03:49:52 +0000 — https://variety.com/2026/music/news/taylor-swift-snl-cameo-dakota-johnson-saturday-night-live-1236898411/
+
+Predictions that Taylor Swift would make a cameo on Saturday Night Live with host Dakota Johnson came to fruition when the duo appeared together in the opening monologue. After Johnson joked about her failed relationships, she said I have really good friends. They don t judge me, they re really supportive. Ladies and gentlemen, my literal therapist. [ ]
+
+### A Statement Review: Just What We Need Right Now — Another Movie About Climate Change! But Tom McCarthy s Historically Based Talkfest Reveals How Much We Knew in 1980
+Sun, 04 Oct 2026 00:15:11 +0000 — https://variety.com/2026/film/reviews/a-statement-review-paul-rudd-paul-giamatti-nyff-1236898120/
+
+On paper, "A Statement" sounds like an interesting movie, but it’s at once talky and flat, grabby and meandering, impassioned and neutral. It wants to be a "firebrand" docudrama, yet I can’t imagine who the audience is going to be for it. My heartless prediction: next to no one.
+
+### Lawrence Rothman on Their New Album, Here Lives Love/Sawdust to Stardust, a Growing Legacy Producing Other Artists, and the Talk with Bowie That Changed Everything
+Sat, 03 Oct 2026 23:50:49 +0000 — https://variety.com/2026/music/news/lawrence-rothman-here-lies-love-album-producer-americana-1236898339/
+
+Lawrence Rothman has a lot of nerve, starting an album with a song called The Meaning, and then daring to ask some of the questions inherent in the big picture created by those two words — like, if not what is the meaning of life, then what is the meaning of music? (Of course, for [ ]
+
+### Paul Rudd Says He Stopped Bringing His Phone to Film Sets Because He’s ‘Addicted Like Everybody Else’: ‘They’re Facilitating Our Own Destruction’
+Sat, 03 Oct 2026 23:43:13 +0000 — https://variety.com/2026/film/news/paul-rudd-phone-addiction-a-statement-nyff-1236898348/
+
+Paul Rudd plays the moderator of the first-ever meeting dedicated to solving America’s climate crisis in “A Statement,” the latest film from Oscar-winning director Tom McCarthy. Set at a Florida beachside resort in 1980, the film follows 20 experts who spend a weekend in a conference room and — analogous to “12 Angry Men” — [ ]
+
+### Jeremy Strong Defends Method Acting, Says He Doesn’t Feel the Need to ‘Apologize’ to Co-Stars Who May Think ‘I m Taking It Too Seriously’
+Sat, 03 Oct 2026 23:05:10 +0000 — https://variety.com/2026/film/news/jeremy-strong-defends-method-acting-social-reckoning-1236898328/
+
+Jeremy Strong, now infamous for his dedication to method acting, recently admitted he doesn’t feel the “need to apologize” to those he works with who may feel he is taking the process “too seriously” on a recent episode of The New Yorker Radio Hour podcast. The actor, who stepped into the role of tech billionaire [ ]
+
+### ‘RuneScape’-Inspired Animation Series in the Works From Lyrical Animation and Jagex
+Sat, 03 Oct 2026 21:00:00 +0000 — https://variety.com/2026/gaming/news/runescape-animation-series-lyrical-animation-jagex-1236898308/
+
+Lyrical Animation is developing a new animation series based on “RuneScape” in partnership with creator Charlie “MoistCr1TiKaL” White and game developer Jagex, the company s CEO Jon Bellamy announced on stage at RuneFest in Birmingham, UK, on Saturday. The project will bring the world of Gielinor to the screen, and marks a new step in Jagex’s [ ]
+
+### Guillermo Del Toro Defends Digger, Calls the Film Daring, Bold and Cinematically Complex
+Sat, 03 Oct 2026 19:55:38 +0000 — https://variety.com/2026/film/news/guillermo-del-toro-defends-digger-1236898266/
+
+Guillermo Del Toro is publicly declaring his love for “Digger.” Del Toro took to X to call out naysayers of Alejandro G. Iñárritu’s film ahead of its Friday release. “Entirely Petty headline,” the director wrote in response to a review of Warner Bros.’ R-rated black comedy. “Love it or not. And yes, I do. The [ ]
 
 ### Tony Gilroy Says Paramount-Warner Bros. Merger Will ‘Destroy’ a ‘Healthy and Beautiful Business’ in ‘The Name of Venture Capital’: ‘It’s Tragic’
 Sat, 03 Oct 2026 19:15:41 +0000 — https://variety.com/2026/film/news/tony-gilroy-paramount-warner-bros-merger-behemoth-nyff-1236898132/
@@ -12,47 +52,37 @@ Sat, 03 Oct 2026 19:00:00 +0000 — https://variety.com/2026/film/global/pierre-
 
 French director Pierre Le Gall s passionate love story Flesh and Fuel, which world premiered in Cannes’ Critics Week, won the top prize, the Golden Eye, at the 22nd Zurich Film Festival on Saturday. The Golden Eye for best documentary went to Pete Muller s Bucks Harbor, which premiered at the Berlin Film Festival in the Panorama [ ]
 
-### Verity Cast Reveals Their Go-To Book Recommendations on Heels of Novel s Big-Screen Adaptation (Exclusive)
-Sat, 03 Oct 2026 18:39:14 +0000 — https://variety.com/2026/shopping/news/best-books-like-verity-movie-cast-recommendations-picks-1236897066/
-
-Verity is in theaters now, and based on projections, it could be the latest book-to-screen adaptation from author Colleen Hoover to top the box office charts. Now, the real-life cast of the romantic thriller are revealing what other books they enjoy, in an exclusive clip shared with Variety from Amazon News. Josh Hartnett, Anne Hathaway [ ]
-
-### Jerry Golod, Producer of ‘Tales From the Darkside’ and Former CBS And NBC Executive, Dies at 87
-Sat, 03 Oct 2026 18:02:19 +0000 — https://variety.com/2026/tv/obituaries-people-news/jerry-golod-dead-tales-from-the-darkside-1236898234/
-
-Jerry Golod, the producer of “Tales From the Darkside,” died following a brief battle with cancer at his home in Rancho Mirage, Calif., on Wednesday. He was 87. Throughout his career, Golod served as an executive at CBS and NBC, later launching JayGee Productions in the early 1980s. After seeing the success of Stephen King’s [ ]
-
-### Coven Academy Creator Breaks Down Briar s Family Tree, Dark Magic as an Addiction Metaphor, Misogyny Against Witches — and a Deleted Kiss Scene
-Sat, 03 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/coven-academy-creator-graves-briar-mom-dark-magic-season-2-1236894779/
-
-SPOILER ALERT: This story contains spoilers for Coven Academy, now streaming on Disney+. Coven Academy was supposed to be the first true young adult drama in the history of Disney Channel. The series, set at a New Orleans boarding school for witches and warlocks, is bloodier and darker than the network ever got with other [ ]
-
-### Asghar Farhadi Says Films Like ‘Argo’ Perpetuate American White Savior Myth: ‘Who Asked You to Come and Save Us?’
-Sat, 03 Oct 2026 17:50:28 +0000 — https://variety.com/2026/film/global/asghar-farhadi-argo-american-white-savior-myth-1236898176/
-
-RIO DE JANEIRO, Brazil – Twice Oscar-winning filmmaker Asghar Farhadi, who is at the Rio Film Festival to present “Parallel Tales,” spoke about the perceived hegemony of American cinema and how Hollywood shouldn’t be seen as a source for faithful portrayals of foreign cultures. Asked about “Argo” winning Best Picture just a year after “A [ ]
-
-### Behemoth! : Why Tony Gilroy Needed Nine Composers to Score His Latest Film, and a Guide to Who Did What in the Film (EXCLUSIVE)
-Sat, 03 Oct 2026 17:41:00 +0000 — https://variety.com/2026/artisans/news/behemoth-who-are-nine-composers-tony-gilroy-1236893524/
-
-SPOILER ALERT: This story contains minor spoilers for “Behemoth!” in theaters Dec. 4 Tony Gilroy’s “Behemoth!” bowed at the New York Film Festival Friday, and Lincoln Center’s Tully Hall seemed a fitting place to showcase a film about a musician. Written and directed by Gilroy, the film stars Pedro Pascal as a cellist who returns [ ]
-
-### Aaron Sorkin Says It ‘Never Occurred’ to Him That Jesse Eisenberg Wouldn’t Play Mark Zuckerberg in ‘The Social Reckoning,’ Claims the Paycheck Was a ‘Disincentive’
-Sat, 03 Oct 2026 17:35:18 +0000 — https://variety.com/2026/film/news/aaron-sorkin-jesse-eisenberg-mark-zuckerberg-social-reckoning-1236898205/
-
-Before Jesse Eisenberg declined to step back into the world of Facebook as Mark Zuckerberg for Aaron Sorkin’s “The Social Reckoning,” the director admitted “it never occurred” to him that the actor wouldn’t be on board with his 2026 follow-up to 2010’s “The Social Network,” in which Eisenberg portrayed the young tech billionaire. Speaking with [ ]
-
-### UFC 332 Livestream: Here s How to Watch Natalia Silva vs. Wang Cong Online for Free
-Sat, 03 Oct 2026 17:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-332-silva-vs-wang-mma-live-oct-2026-online-free-1236895026/
-
-After Joshua Van defended his flyweight title against Alexandre Pantoja in an unanimous decision during UFC 331 in September, the Ultimate Fighting Championship travels from Los Angeles to Salt Lake City for UFC 332. For the main event, Brazilian Natalia Silva (20-5-1) takes on Chinese fighter Wang Cong (30-6-0) for the vacant women s flyweight title [ ]
-
-### Zach Bryan Wears Free Palestine Shirt While Headlining Robert Kraft s Gillette Stadium; Drummer Honors Slain Palestinian Girl
-Sat, 03 Oct 2026 16:07:04 +0000 — https://variety.com/2026/music/news/zach-bryan-palestine-shirt-robert-kraft-gillette-stadium-1236898152/
-
-Macklemore may have been barred from saying Free Palestine! at Robert Kraft s Gillette Stadium — and indeed, from anywhere else on Ed Sheeran s tour, as that headliner agreed with Kraft that the controversial rapper should be removed from the opening slot on all the shows he was booked for. But it was probably inevitable that, [ ]
-
 ## The Hollywood Reporter
+
+### Taylor Swift Crashes Dakota Johnson s Saturday Night Live Hosting Stint: My Literal Therapist!
+Sun, 04 Oct 2026 03:47:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-dakota-johnson-saturday-night-live-1236721702/
+
+The "Patient Zero" singer gave Travis Kelce a subtle salute during the 'Verity' star's opening monologue.
+
+### How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”
+Sun, 04 Oct 2026 01:18:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/
+
+Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.
+
+### Jeremy Strong Says He Doesn t Need to Apologize for Method Acting: “It’s in Service of the Material”
+Sun, 04 Oct 2026 00:58:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/
+
+"I’m just there to commit utterly to serving the material," the Oscar nominee said of his approach to acting.
+
+### ‘A Statement’ Review: A Top Ensemble Including Paul Rudd, Amy Ryan and John Turturro Breathes Surprising Vitality Into Dry Docu-Drama
+Sun, 04 Oct 2026 00:15:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/a-statement-review-paul-rudd-amy-ryan-john-turturro-1236721637/
+
+Paul Giamatti, Evan Peters and Tatiana Maslany also star in Tom McCarthy’s account of a 1980 conference at which a group of experts is tasked with getting ahead of the climate crisis.
+
+### Florence Pugh on How Zoe Kazan East of Eden Collaboration Helped Boost Her Confidence
+Sat, 03 Oct 2026 22:06:56 +0000 — https://www.hollywoodreporter.com/tv/tv-features/florence-pugh-east-of-eden-zoe-kazan-boosted-confidence-1236721680/
+
+The actress who plays the central character of Cathy and serves as an executive producer on the well-reviewed Netflix adaptation was Kazan's first and only choice for the role: "I didn't have a backup."
+
+### Annabelle Wallis on the Defining Question of ‘Unabomber,’ a Potential James Wan Reunion and ‘Peaky Blinders’ What-Ifs
+Sat, 03 Oct 2026 21:15:42 +0000 — https://www.hollywoodreporter.com/movies/movie-features/annabelle-wallis-unabomber-netflix-1236720760/
+
+Plus: how an old The Hollywood Reporter interview with Wallis sparked a false viral story about the real-life Annabelle doll escaping the Warren Museum in Connecticut.
 
 ### Tom Cruise Stands Up for Digger Amid Tough Box Office: I m So Proud of What We Created
 Sat, 03 Oct 2026 19:24:13 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-social-media-box-office-opening-1236721639/
@@ -74,37 +104,42 @@ Sat, 03 Oct 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Here's how to livestream the Big Ten matchup between the Buckeyes and Hawkeyes on Saturday, Oct. 3.
 
-### Zach Bryan Wears Free Palestine Shirt During Concert at Robert Kraft s Gillette Stadium
-Sat, 03 Oct 2026 15:01:25 +0000 — https://www.hollywoodreporter.com/music/music-news/zach-bryan-free-palestine-shirt-concert-gillette-stadium-1236721554/
-
-The performance follows Gillette Stadium owner Kraft's prior controversy with Macklemore over his removal from Ed Sheeran's tour due to his pro-Palestinian statements.
-
-### Denver Film Festival Unveils Lineup and Honorees
-Sat, 03 Oct 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/denver-film-festival-2026-lineup-schedule-honorees-1236721487/
-
-Peter Farrelly's 'I Play Rocky' will open the fest while James Gray's 'Paper Tiger' will close it. In between, Denver Film will honor Carrie Coon, John Cho, Liz Sargent, Fred Hechinger, Benedetta Porcaroli, David Acord and experimental filmmaker Michael Gitlin.
-
-### Will The Shards Return? FX Show Tests Ryan Murphy s Sway In Disney Empire
-Sat, 03 Oct 2026 13:02:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/shards-renew-fx-show-ryan-murphy-1236721306/
-
-The prolific creator has a big overall deal with Disney's 20th TV and a long working relationship with FX. Is that enough to ensure a renewal for a show that wasn't a ratings breakout?
-
-### How a 100-Year-Old Indie Movie Theater Stays In Business
-Sat, 03 Oct 2026 12:01:03 +0000 — https://www.hollywoodreporter.com/business/business-news/indie-cinema-cranford-theater-1236720444/
-
-The operator of the Cranford Theater in New Jersey battled back from the pandemic and a ceiling collapse — and is now planning to mark the centennial with a gala screening.
-
-### Good Heavens : Kathleen Turner Reacts to Michael Douglas Bombshell About Their Secret Romance During Romancing the Stone
-Sat, 03 Oct 2026 01:21:50 +0000 — https://www.hollywoodreporter.com/movies/movie-news/kathleen-turner-michael-douglas-secret-romance-romancing-stone-1236721432/
-
-The two-time Oscar nominee revealed via a new excerpt from his 'One Helluva Ride' memoir that they had an affair during production on the 1984 movie.
-
-### George Cheeks May Level Up in David Ellison s TV Empire
-Sat, 03 Oct 2026 01:02:14 +0000 — https://www.hollywoodreporter.com/business/business-news/george-cheeks-skydance-david-ellison-tv-empire-1236721367/
-
-The CBS networks chief is poised to expand his oversight with the Warner Bros. Discovery assets arriving onboard the Skydance train.
-
 ## Deadline
+
+### SNL s Weekend Update Tackles Cornell Controversy Return Of Glee
+Sun, 04 Oct 2026 04:48:46 +0000 — https://deadline.com/2026/10/weekend-update-cornell-controversy-return-of-glee-1237146124/
+
+After cracks about Pete Hegseth, Kristi Noem and President Donald Trump s vendetta against CNN, Michael Che on Saturday Night Live s Weekend Update touched on the ongoing controversy at Cornell University and Ryan Murphy s decision to bring back Glee. Che first served up a serious note by referencing the sexual assault case at Cornell and how [ ]
+
+### SNL Cold Open Goes Full MAGA Midterms Desperation With Hegseth s Schlong Donkeys , Trump s Rambles A Sad VP
+Sun, 04 Oct 2026 03:55:00 +0000 — https://deadline.com/2026/10/snl-cold-open-trump-hegseth-midterms-1237146097/
+
+Just a month away from the volatile midterms and a president way down in the polls, there was once again a plethora of political material ripe for this week’s SNL cold open, and the NBC late-nighter went full MAGA, with some Mitch McConnell on the side. Played by Mickey Day, the wheelchair bound 84-year-old Kentucky [ ]
+
+### Taylor Swift Joins SNL Host Dakota Johnson During Opening Monologue
+Sun, 04 Oct 2026 03:54:22 +0000 — https://deadline.com/2026/10/taylor-swift-joins-snl-host-dakota-johnson-1237146104/
+
+Taylor Swift gave Dakota Johnson some pretty sweet payback for appearing in her Patient Zero music video: the mega-star joined the Verity actress during her opening monologue tonight on Saturday Night Live. Perhaps it was just a birthday present for Johnson, who turns 37 on Sunday. Either way, Swift came in to yuk it up [ ]
+
+### A Statement Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy s Splendid Humanist Look At Climate Change New York Film Festival
+Sun, 04 Oct 2026 00:15:00 +0000 — https://deadline.com/2026/10/a-statement-review-paul-rudd-paul-giamatti-tom-mccarthy-nyff-1237145997/
+
+On paper, director Tom McCarthy s latest film, A Statement might appear to be a dense polemic, hardly the stuff of exciting moviemaking. It centers on a 1980 Florida conference dealing with the effects of Carbon Dioxide emissions on the environment, gathering politicians, academics, scientists and environmentalists from around the U.S. to talk about the subject [ ]
+
+### Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About The Social Reckoning
+Sat, 03 Oct 2026 23:48:44 +0000 — https://deadline.com/2026/10/jeremy-strong-mark-zuckerberg-the-social-reckoning-1237146074/
+
+There were times Jeremy Strong actually sent emails to Aaron Sorkin as if he were Mark Zuckerberg himself. So when Strong was asked by The New Yorker s David Remnick whether he cares how Zuckerberg will react to The Social Reckoning, Strong said yes; that s why he reached out to the Facebook founder in the first [ ]
+
+### Digger Star Tom Cruise Says He s So Proud Of What We Created Despite Poor Open At Theaters
+Sat, 03 Oct 2026 21:54:02 +0000 — https://deadline.com/2026/10/tom-cruise-proud-of-digger-opening-weekend-1237146055/
+
+Digger may be the lowest opening for a Tom Cruise joint since 2007 s Lions for Lambs, but the mega-star has only mad respect for those who joined him on the Alejandro G. Iñárritu-directed film. In an Instagram post, Cruise said that I am so honored to have had the opportunity to create this film alongside [ ]
+
+### Aaron Sorkin Says It Never Occurred To Me That Jesse Eisenberg Wouldn t Want To Return For The Social Reckoning
+Sat, 03 Oct 2026 20:55:05 +0000 — https://deadline.com/2026/10/aaron-sorkin-never-occurred-jesse-eisenberg-social-reckoning-1237146050/
+
+As Aaron Sorkin logged back into Facebook for The Social Reckoning, his friend request to Jesse Eisenberg was denied. The Oscar-winning screenwriter of The Social Network (2010) explained that it never occurred to him that Eisenberg wouldn t want to reprise his portrayal of Meta mogul Mark Zuckerberg in the sequel, which premieres Oct. 9 in [ ]
 
 ### X-Men s Christopher Abbott Admits He Hasn t Read Anything Yet But Can t Wait To Play Professor X
 Sat, 03 Oct 2026 19:18:56 +0000 — https://deadline.com/2026/10/x-men-christopher-abbott-hasnt-read-anything-1237146033/
@@ -131,41 +166,6 @@ Sat, 03 Oct 2026 16:04:12 +0000 — https://deadline.com/2026/10/guillermo-del-t
 
 Although Digger has premiered this weekend to mixed reviews, Guillermo Del Toro is a confirmed fan of the Alejandro G. Iñárritu satire. The 3x Oscar winner has taken to social media to heap praise on Tom Cruise s latest after responding to a critic that called the film far from a must-watch and recommended viewers wait [ ]
 
-### Verity Solid $33M+ Start; Digger At $8M Is Tom Cruise s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores Box Office Update
-Sat, 03 Oct 2026 15:16:00 +0000 — https://deadline.com/2026/10/box-office-verity-digger-1237145435/
-
-SATURDAY AM: Warner Bros very original, very expensive auteur feature, Digger, is filing an $8M opening, which is still the lowest for Tom Cruise since 2007 s much cheaper Lions for Lambs at $6.7M. In hindsight, Amazon MGM Studios was bold to date on top of a big budget Cruise movie with the big screen take [ ]
-
-### DOJ Argues CNN Other Outlets Can Be Banned From White House If Trump Determines They Didn t Meet Minimum Requirements Of Professionalism
-Sat, 03 Oct 2026 04:36:35 +0000 — https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-3-1237145951/
-
-The Justice Department argued that Donald Trump can legally ban CNN, MS NOW and Politico from the White House because he determined that they didn t meet the minimum requirements of professionalism. Last month, a federal judge granted the three outlets a temporary restraining order that forced the White House to reinstate dozens of their reporters [ ]
-
-### Zach Bryan Dons Free Palestine Shirt For Concert At Robert Kraft s Gillette Stadium
-Sat, 03 Oct 2026 03:34:11 +0000 — https://deadline.com/2026/10/zach-bryan-free-palestine-shirt-gillette-stadium-1237145945/
-
-Following Robert Kraft s campaign against Macklemore, Zach Bryan made a statement with his performance at Gillette Stadium. During Friday s stop at the Kraft-owned venue for his With Heaven on Tour, the Grammy winner stepped onto the stage with a Free Palestine shirt after Kraft and other venue owners pressured Ed Sheeran to drop Macklemore from [ ]
-
-### Pedro Pascal Was Surprised Tony Gilroy Made Behemoth! So Intimate And Healing : I Thought You Were Gonna Be Mean
-Sat, 03 Oct 2026 02:53:29 +0000 — https://deadline.com/2026/10/pedro-pascal-surprised-tony-gilroy-behemoth-intimate-healing-1237145934/
-
-With the world premiere of Behemoth!, Pedro Pascal is praising Tony Gilroy for the intimate drama. During a Q A after the film s premiere screening at the New York Film Festival, the Golden Globe-nominated actor admitted he thought Gilroy was gonna be kinda mean before they worked together. You have created this complex Jason Bourne-like puzzle [ ]
-
-### Real Time : Bill Maher Tells New Skydance Bosses Don t Believe What Trump Is Tweeting About Me
-Sat, 03 Oct 2026 02:32:35 +0000 — https://deadline.com/2026/10/real-time-bill-maher-tells-skydance-bosses-dont-believe-trump-1237145929/
-
-As the Paramount-Warner Bros merger goes through, Bill Maher has a message for his new Skydance bosses. On Friday s episode of Real Time, the comedian pleaded with the Ellisons not to listen to their pal Trump s criticism of him now that they own his show s longtime home HBO. The merger went through. Paramount now owns [ ]
-
-### Post-Merger Skydance Keeping Both HBO Max Paramount+ Streaming Brands
-Sat, 03 Oct 2026 00:33:22 +0000 — https://deadline.com/2026/10/skydance-hbo-max-paramount-streaming-bundle-1237145362/
-
-More indication that the newly-christened combined Paramount-Warner Bros. Discovery company would bundle the two flagship streamers, Paramount+ and HBO Max, instead of merging them into one. The video released earlier today by Paramount CEO David Ellison to announce that the new company will carry the name of his old one, Skydance, ended with a slide [ ]
-
-### Behemoth! Review: Pedro Pascal Hits All The Right Notes In Tony Gilroy s Lyrical Love Letter To The Music Of The Movies New York Film Festival
-Sat, 03 Oct 2026 00:00:00 +0000 — https://deadline.com/2026/10/behemoth-review-pedro-pascal-tony-gilroy-olivia-wilde-nyff-1237144011/
-
-It has been 14 years since Tony Gilroy last directed a feature film, 2012 s The Bourne Legacy. Before that was Duplicity and in 2007 his sensational Oscar-nominated Michael Clayton. He has been busy though, notably the critically acclaimed TV series Andor, but it is good to see his rare sophisticated storytelling back on the big [ ]
-
 ## befores & afters
 
 ### Visual effects is at the heart of storytelling in ‘Heart of the Beast’
@@ -174,6 +174,11 @@ Fri, 02 Oct 2026 11:41:22 +0000 — https://beforesandafters.com/2026/10/02/visu
 Dealing with dogs, wolves, a river rapids crossing, a plane crash, and titanium teeth. Directed by David Ayer, Heart of the Beast follows retired Special Forces veteran James Belmont (Brad Pitt) and his retired combat dog, Odin, on a harrowing 58-mile trek across the unforgiving Alaskan wilderness after their light aircraft crashes into a lake. A primary German Shepherd named Uber—a former search-and-rescue dog—was cast to handle the expressive hero shots, while three of his sons served as specialized stunt doubles tasked with specific physical demands like wire work, swimming and running. Production shot in New Zealand, standing in for Alaska, with on location and studio and backlot filming all part of the mix. While the practical dogs provided the heart of the film, digital creature work—entirely handled by Framestore—was also crucial in realizing a number of shots and sequences with Odin. VFX also came into play for the plane crash, the river rapids crossing and for encounters with several other creatures such as a bear and an aggressive pack of gray wolves. Here, befores & afters goes deep into the film’s effects with visual effects supervisor François Dumoulin, who hails from Framestore. He explores the art of delivering complex VFX for a film that was not meant to feel like a VFX film at all, starting with the ‘Pepsi challenge’ showcasing the real vs CG dog, orchestrating a highly realistic plane crash, coming up with a unique way to shoot the river crossing, and dealin
 
 ## IndieWire
+
+### A Statement Review: Tom McCarthy s Talky Climate Crisis Seriocomedy Is Light Entertainment That Hardly Rakes the Muck
+Sun, 04 Oct 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/a-statement-review-tom-mccarthy-1235220103/
+
+New York Film Festival: The Oscar-winning writer/director turns his spotlight on a plushly appointed ensemble as the environmental stewards and scholars who tried to solve the climate crisis over one long-winded, futile meeting in St. Petersburg, Florida, in 1980.
 
 ### Will Behemoth! Push Pedro Pascal Into Oscar Contention?
 Sat, 03 Oct 2026 04:11:06 +0000 — https://www.indiewire.com/awards/predictions/behemoth-oscar-chances-pedro-pascal-1235220080/
@@ -230,112 +235,107 @@ Fri, 02 Oct 2026 15:03:41 +0000 — https://www.indiewire.com/features/commentar
 
 As the Paramount-Warner Bros. merger hurtles toward the inevitable, an IndieWire writer looks back at his time on the Paramount lot in the mid-1990s.
 
-### Skydance: David Ellison Names Newly Combined Paramount-Warner Bros. After His Old Company
-Fri, 02 Oct 2026 13:57:01 +0000 — https://www.indiewire.com/news/business/skydance-david-ellison-names-combined-paramount-warner-bros-1235219811/
-
-Get ready for corporate babble as Skydance releases an exciting new sizzle reel featuring clips of "Titanic" and Michael B. Jordan's narration.
-
 ## The Wrap
+
+### Taylor Swift Interrupts Dakota Johnson’s ‘SNL’ Monologue With Breakup Advice
+Sun, 04 Oct 2026 04:07:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-dakota-johnson-monologue-taylor-swift/
+
+Dakota Johnson s Saturday Night Live monologue was interrupted this week by the actress literal therapist, Taylor Swift , who bonded with the host over their shared experiences dating musicians who don t wear shoes and happen to be terrible in bed. Johnson kicked off her SNL run this week with a joke about her failed 2024 superhero movie Madame Web, which she remarked she is still promoting because it hasn t made any money yet. Afterward, the actress reflected on the other turns her life has taken since she last hosted SNL. I went through two very public, very lame breakups with two very awesome musicians. Looking for a third, Johnson joked, referencing her splits from Coldplay frontman Chris Martin and Role Model singer-songwriter Tucker Pillsbury. While she vowed not to talk anymore about her personal life, Johnson s monologue was derailed again after she noted that her new movie, Verity, is a psychosexual erotic thriller. So is dating musicians. Some of them don t wear shoes. Some of them are terrible in bed. But all of them are in my DMs, Johnson said. Some people leave concerts with merch, and I leave concerts with a two-and-a-half year relationship. Thankfully, Johnson said she has good friends who do not judge her for her dating choices. Enter: Swift, whom Johnson called her literal therapist, much to the former s discomfort. I m not your therapist, actually. You just show up once a week at my house with an empty bottle of wine and ask if I want some, Swift said. You c
+
+### ‘SNL Cold Open: Trump, Rubio and Hegseth Beg Republican Voters for Help Ahead of Bleak Midterms
+Sun, 04 Oct 2026 03:49:32 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-trump-marco-rubio-pete-hegseth-midterms/
+
+Marco Rubio (Marcello Hernández), Pete Hegseth (Colin Jost) and President Trump (James Austin Johnson) all begged voters for their help with this fall s midterm elections during tonight s Saturday Night Live cold open. Two members of the Republican National Committee ( SNL stars Ashley Padilla and Andrew Dismukes) noted at the top of the segment that the midterms are looking bleak for the GOP this year. It was with that in mind that they brought in Hernández s Rubio, urging him to record a message convincing voters to back Republicans this year. Unfortunately, the Secretary of State just used his time to tell voters in Spanish that Trump tricked him into the Iran War. A wheelchair-bound Mitch McConnell (Mikey Day) was not much help, either. All the Kentucky senator could muster was a slowly raised peace sign before he was wheeled out of the room again. Jost s Hegseth then came in moments later with a can of Tom Holland s non-alcoholic b h beer to call on Republican voters in a manner only he could. I need all you patriots at home to do the gayest thing ever and vote, Hegseth said, bragging, I m putting God back in war, and it s working. Our soldiers are praying a lot more than they used to. I m always hearing them say, Dear God, why?' Moving on, the Defense Secretary dished out some weird slam poetry urging everyday Republicans to show up at the polls this fall. No weak, no woke, no DEI, no guy-on-guy, Jost s Hegseth rhymed. No weirdos, no beardos, no Jills who became Joes. I
+
+### A Statement Review: Tom McCarthy s Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment
+Sun, 04 Oct 2026 00:15:00 +0000 — https://www.thewrap.com/creative-content/movies/a-statement-review-tom-mccarthy-climate-change-dramedy/
+
+On Oct. 30, 1980, 20 experts got together at the Don CeSar Hotel in St. Petersburg, Fla., to address the impact of CO2 emissions on the climate. What they managed to prove is what every social scientist already knows: If there’s a chance for people to get in their own way, they’ll knock each other over to grab it. This, ultimately, is the statement Tom McCarthy (“Spotlight”) aims to make with “A Statement.” And unlike his hapless protagonists, he handily succeeds. The movie is based on true events documented by journalist Nathaniel Rich in his 2019 book “Losing Earth: A Recent History,” but McCarthy and his collaborators, including co-writers Thomas Bidegain and Noé Debré, dig so deep into the data that they create a sort of scientific experiment themselves. Nearly every line of dialogue was lifted verbatim from the panel’s hundreds of pages of transcripts, and it’s delivered in a setting that feels almost forensically accurate. The most optimistic member of this cohort is moderator Tom Jorling (Paul Rudd), who has gathered everyone to alert the world to the growing environmental emergency. He’s organized four sessions over two days, during which the group can hash out the language, reach a consensus and bring their pronouncement straight to Congress. He has not, however, accounted for the impact of each personality. MIT nuclear engineer David Rose (John Turturro), for example, arrives with reams of evidence that society is unable to shift fast enough to make changes worthwhi
+
+### Chris Rock Says ‘Wokeness’ Has Created a Less Forgiving World: ‘We’re in the Old Testament Right Now’
+Sat, 03 Oct 2026 23:53:24 +0000 — https://www.thewrap.com/culture-lifestyle/culture/chris-rock-wokeness-forgiveness-cancel-culture/
+
+Chris Rock said that his problem with “quote, unquote, wokeness” is that it leads to a world that is, in his opinion, less forgiving than it needs to be. The comedian and “Misty Green” filmmaker stopped by the New York Times’ “The Interview” series this weekend and said that while advocating for marginalized communities is great, it needs to come with forgiveness, a huge theme in his new film starring Rosalind Eleazar. When asked by host David Marchese about the throughline forgiveness has in the film, Rock said that “you don’t really realize if you love somebody until you have to forgive them,” adding that somebody letting you down or betraying you, but still choosing to be around them, is what true love is. I have a friend that’s going to be nameless that might have gotten canceled, Rock said. Another friend of mine was like, How can you be friends with that person? I was like, If you’re only friends with your friends when they’re good, they’re not your friends. If you’ve got a bunch of people that are only going to be there when you’re good, you have no friends. That doesn’t mean condoning abusive behavior; you can reprimand your friends. That’s also part of friendship. When pressed by Marchese, who said that everyone has to have a line at some point, the comedian held his ground. I’m a Christian, and God forgives, he said. The problem with quote, unquote, wokeness — and don’t get me wrong, it is great that marginalized people have a voice; it is great to advocate for anyb
+
+### White House Fires Back at Chuck Lorre After Anti-Trump Gala Speech: ‘Seek Psychiatric Help’
+Sat, 03 Oct 2026 22:11:55 +0000 — https://www.thewrap.com/culture-lifestyle/culture/white-house-fires-back-chuck-lorre-anti-trump-gala-speech/
+
+The White House admonished TV producer Chuck Lorre, telling him to “seek psychiatric help” after the “Big Bang Theory” creator mocked President Donald Trump and first lady Melania Trump in an acceptance speech at a Los Angeles charity gala. Lorre accepted the Founders Angel Award at Project Angel Food’s Sept. 26 Angel Awards. He was honored with the charity’s highest honor, which it has bestowed only once before in its 37-year history. While accepting the lauded award, the veteran producer, who helmed hits like “Two and a Half Men” and “Mom,” launched into a series of pointed jokes about Trump and his administration. “Sure, I’d love to stand here and talk about my deep yearning for a more compassionate government, one that prioritizes the health and welfare of its citizens,” Lorre said, as reported by the Daily Beast . “But the burden of my profession demands that I take this opportunity to say a few words about that bloated orange piece of s t in the White House.” He continued: “I’d love to express my gratitude to all the people who’ve devoted their lives to making Project Angel Food an oasis for those in need. That would be my preference. But because I’m a comedy writer, I have no choice but to explain how I wake up every morning to turn on CNN to see if the president of the United States had a heart attack while straining to take a dump.” He also took a moment to call out the first lady, saying, “I’d love to encourage you to pull out your wallets and contribute to this ama
+
+### Tom Cruise Insists He s So Proud of Digger Amid Disappointing Box Office
+Sat, 03 Oct 2026 21:10:21 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-proud-of-digger-amid-disappointing-box-office/
+
+Tom Cruise isn’t ready to call Digger a lost cause, even after the film stumbled out of the gate at the box office . The actor shared behind-the-scenes photos from the film’s production Saturday, thanking the cast and crew for their hard work. “Digger” marked something of a return for Cruise, who has spent the past decade or so largely committed to blockbusters and action filmmaking and seemed to be returning to a role closer to his work in “Magnolia” or even “Tropic Thunder.” Many are also calling the film a clear awards play for Cruise, who has won an honorary Oscar but has never taken home one of the Academy’s acting trophies. In the film, Cruise plays a powerful oil tycoon named Digger Rockwell whose arrogance and greed trigger a global catastrophe. Digger is then tasked by the president (John Goodman) with “digging us out” of the mess he created. The film has generated a lot of conversation about what its true plot is. You can read spoilers here . “ Digger; is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists,” the actor posted on X Saturday. “Thank you to the entire cast and crew for your dedication, hard work, and joy. The experience was truly unforgettable and I’m so proud of what we created.” DIGGER is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists. Thank you to the entire cast and crew for your dedication, hard work, an
+
+### Aaron Sorkin Explains Jesse Eisenberg Turning Down The Social Reckoning : Money Does Not Motivate Him
+Sat, 03 Oct 2026 20:07:10 +0000 — https://www.thewrap.com/creative-content/movies/aaron-sorkin-jesse-eisenberg-turning-down-social-reckoning-pay/
+
+Aaron Sorkin returned to the world of Facebook for The Social Reckoning, the writer-director s follow-up to The Social Network. But few of his conspirators from that hit have returned for this next film: most conspicuously, Jesse Eisenberg, who received an Oscar nomination in 2011 for his performance as tech giant Mark Zuckerberg. It wasn t for lack of trying, explains Sorkin. The filmmaker, who took over directing duties on Reckoning after David Fincher helmed The Social Network, suggested to Entertainment Weekly that Sony Pictures made a considerable offer to Eisenberg in an attempt to lure him back to one of his most iconic roles. I knew what the studio was offering him to do it, but money does not motivate Jesse. It’s infuriating,” Sorkin said. “If anything, money is a disincentive for him. It’s admirable. He’s very concerned about raising his kids with too much money.” Sorkin also recalled his own efforts to court Eisenberg, saying that it never occurred to me that he wouldn t want to do it. After sending the actor a script, Sorkin outlined his arguments for why Eisenberg should return to the role. I do remember Jesse saying at one point during the third or fourth back-and-forth (saying), ‘You have come closer to changing my mind than I thought you were going to.’ So I was pleased about that, the filmmaker added. In a prior interview with Vanity Fair, Sorkin explained that Eisenberg didn t want to return to the role because he simply did not want to be conflated with Mar
+
+### 8 Best New Movies and Shows to Stream This Weekend on Netflix, HBO Max and More
+Sat, 03 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-shows-streaming-this-weekend-oct-2-4/
+
+It is a big week for new straight-to-streaming shows. The platform with this week s biggest premiere is Netflix , which has unveiled its long-awaited limited series adaptation of East of Eden starring Florence Pugh, Christopher Abbott, Mike Faist and others. Elsewhere, Disney+ and Hulu both have the complete first season of the High School Musical: The Musical: The Series creator s new YA witch dramedy. Meanwhile, AMC+ has a new crime thriller starring Catherine Zeta-Jones on its release slate. Here are the best new movies and shows streaming this weekend. “Sacrifice” Season 2 (Paramount+) Sacrifice Season 2 (Paramount+) It has been nearly five years since the first season of Sacrifice, creator Chris Stokes thriller about an entertainment lawyer (Paula Patton) navigating the tumultuous lives of her rich and famous Hollywood clients, aired on BET+. Nonetheless, the series has made its return this week on Paramount+. The 10-episode second season of Sacrifice premiered Wednesday on the streaming service, catching viewers back up with Patton s Daniella Hernandez as she fights to rebuild Blackgammon Records and protect her family s legacy. If you were a fan of Sacrifice Season 1, you might want to add its second season to your watchlist this week. Florence Pugh in East of Eden (Kirsty Griffin/Netflix) East of Eden (Netflix) One of this fall s biggest streaming premieres has finally arrived. Creator Zoe Kazan s ambitious, seven-part adaptation of John Steinbeck s East of Eden premi
+
+### The 3 Best New Movies to Watch on Paramount+ This Week
+Sat, 03 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-paramount-plus-this-week-oct-3/
+
+A new month means a new dose of movies landing on Paramount+ and there are plenty of good options to pick from for your October binge. Topping the list for spooky season is Doctor Sleep, a sequel to The Shining from Stephen King adaptation maestro Mike Flanagan. The film is criminally underviewed and stands among the best of the author s adaptations. If horror isn t your bag, you can also scratch your Odyssey itch or grab one of the great non-superhero comic book adaptations. Here are the three new movies to Paramount+ to check out this week. Ewan McGregor in Doctor Sleep (Warner Bros.) Doctor Sleep “Doctor Sleep” and the balancing act that Mike Flanagan achieved deserved more love than it got. “The Shining” is one of Stephen King’s most iconic novels, and the Stanley Kubrick adaptation is equally revered — by all but King himself. So when the time came to adapt the horror writer’s “Shining” sequel, Flanagan found a way to tell the story of a grown Danny Torrance that felt like a continuation of both the book and the elements Kubrick changed for his adaptation. The film is long, but moves at such a brisk pace that it is rarely felt. And for the ever-growing number of fans of Rebecca Ferguson, revel in how she plays the villainous Rose the Hat with sick glee here. Eric Bana and Orlando Bloom in Troy (Warner Bros.) Troy 2026 has been all about The Odyssey but if you re wanting the story but wish it was hyper-focused on just the Battle of Troy than there s a Brad Pitt gem waitin
 
 ### Scoob! Holiday Haunt Director Spikes Pamela Abdy and Mike De Luca After Warner Bros. Shelved Film: Hurts, Doesn t It?
 Sat, 03 Oct 2026 19:08:04 +0000 — https://www.thewrap.com/creative-content/movies/scoob-director-roasts-mike-de-luca-pamela-abdy/
 
 The firing of Warner Bros. film chiefs Mike De Luca and Pamela Abdy in the wake of the studio s acquisition by Paramount-Skydance has been the focus of much reporting this week. TheWrap learned that both executives finally received calls from Paramount-Skydance CEO David Ellison on Friday, informing each of them that they would not be brought aboard the combined companies. The duo had already learned that they would be dismissed from a Puck report earlier in the week. One filmmaker that doesn t seem to be mourning Abdy and De Luca s exit is Michael Kurinsky. The director was behind Scoob! Holiday Haunt, a sequel to the 2020 Scooby-Doo animated feature Scoob!, which was shelved by Warner Bros. Discovery in 2022 after completing production. The decision to never release the feature allowed the studio to take a tax write-down, recouping a portion of its production costs. On Friday, Kurinsky made a post on Instagram, sharing a Hollywood Reporter article on a tense phone call that De Luca and Abdy had in the lead-up to their ultimate exit from the studio. TENSE PHONE CALL, PAM? You mean like the one I got when you told me SCOOB Holiday Haunt was canceled? Kurisnky wrote. Hurts, doesn t it? Kurinsky has publicly aired his frustrations with the studio s decision to cancel Holiday Haunt before. In a 2022 interview, the animation veteran told Variety s Carson Burton that in our phone calls that we had with people, they explained we are taking this tax write-off, we can’t monetize it. 
 
-### Jon Stewart Crashes Jimmy Kimmel Live! as NYC Sewer Scavenger: Giuliani Is Still Mayor Down There
-Sat, 03 Oct 2026 17:44:09 +0000 — https://www.thewrap.com/media-platforms/tv/jon-stewart-crashes-jimmy-kimmel-live/
-
-Jon Stewart took over Jimmy Kimmel Live! Friday, emerging from an onstage manhole to cameo during the late-night host s monologue riff. Wearing a headlamp and face-covering, Stewart s appearance riffed on a news story about urban scavengers that are exploring the underground sewers of New York City. It s awesome down there. It s quiet. There s no Citi Bikes. As the people of Brooklyn know, the rents are slightly cheaper down there, Stewart told Kimmel. The only downside is, down in the sewers, (Rudy) Giuliani is still mayor. Kimmel, who brought his late-night show to Brooklyn for the week, had been discussing local outlets coverage of a pattern of masked suspects with headlamps and crowbars being caught by surveillance cameras exiting manholes across the boroughs. I was going to go back down there. I ve got Mets tickets for tonight, Stewart continued, before drawing a groan from the audience of locals. They ve been playing in the sewer all year. Stewart recently returned for his third season as a rotating host on The Daily Show, after returning to the program in 2024. The series returned to Comedy Central in early September, following its regular summer hiatus. Stewart s current contract with the network has him tenured with the show until the end of the year. Kimmel s guests on Friday s episode of Jimmy Kimmel Live! included Paul McCartney, Sen. Bernie Sanders (I-Vt.) and a musical performance by Goose. Other guests during his week broadcasting across the country included Ne
-
-### Verity Leads Box Office With $33 Million Opening While Digger Sinks to $7.5 Million
-Sat, 03 Oct 2026 15:22:56 +0000 — https://www.thewrap.com/industry-news/business/verity-digger-box-office-saturday/
-
-Amazon MGM s Verity is leading the box office on a weekend that is up 17% from last year thanks to a mix of September holdovers and approximately $40 million combined from two tepidly received newcomers. Verity accounts for the vast majority of that as it earned $15 million from 3,510 locations on opening day and is headed for a $33 million opening weekend while Warner Bros./Legendary s Digger, the final film before Paramount acquires the 103-year-old studio, is falling to a $7.5 million opening after grossing just $3.4 million from 3,321 locations, including Imax support. Starring Anne Hathaway and Dakota Johnson and produced on a reported $40 million budget, Verity will turn a modest theatrical profit for Amazon MGM and should likely get plenty of streaming attention on Prime Video. But it is also likely to be a frontloaded title that won t provide as much market support through October as hoped as it has earned a C+ on CinemaScore and Rotten Tomatoes scores of 34% critics and 69% audience . For a good number of fans of Colleen Hoover s book who made up the early CinemaScore audience, Verity doesn t seem to have the creepy, steamy thrills of its source material. For Digger, the box office outlook is even worse given that the film has a budget of at least $125 million, with some reports putting it at $160 million or higher. A film that has Oscar hopes for lead star Tom Cruise, known over the past decade and a half for his box office performance, will instead become his lowes
-
-### David Ellison Finally Calls Mike De Luca and Pam Abdy to Inform Them of Exit They Read About in the Press Exclusive
-Sat, 03 Oct 2026 05:13:14 +0000 — https://www.thewrap.com/industry-news/business/david-ellison-finally-calls-mike-deluca-and-pam-abdy/
-
-On Friday Warner Bros film chiefs Mike De Luca and Pam Abdy waited for a phone call informing them of their future employment. It came in the morning from Skydance CEO David Ellison confirming what they had read online the previous night in an anonymous report: that they would not be joining the new merged Warner-Paramount studio. That their upcoming slate of a half-dozen releases, including Batman 2 and Gremlins 3, would be handled by someone else. And that their services were no longer needed. It was certainly an inelegant way to handle the exit of two studio chiefs who had ushered Warner Bros to glory at the Academy Awards earlier this year, with the triumph of “One Battle After Another” winning Best Picture and Michael B. Jordan taking Best Actor for critical darling Sinners, capped off by a standout 2025 at the box office. All day the internet was feeding on the unconfirmed (until now) report of their exit by Puck, with Paramount (now renamed Skydance) declining to comment. The executives were left dangling in the news cycle, increasingly angry at the slight. Warner Bros. Chiefs Mike De Luca and Pam Abdy Took Big Risks and Made Great Movies. Their Exit Is a Bad Thing for Cinema https://t.co/qLvla8GQc0 via @IndieWire &mdash; Anne Thompson (@akstanwyck) October 2, 2026 Ellison called each of the executives, separately, to inform them in a tense exchange. According to knowledgeable individuals, he told them that the merged companies have a ton of debt and needed to restruct
-
-### Zach Bryan Supports Macklemore With ‘Free Palestine’ Shirt at Gillette Stadium
-Sat, 03 Oct 2026 03:09:32 +0000 — https://www.thewrap.com/creative-content/music/zach-bryan-free-palestine-shirt-gillette-stadium-concert/
-
-Zach Bryan appeared to show support for Macklemore with his choice of concert attire, wearing a “Free Palestine” shirt during his Friday concert at Gillette Stadium. In footage from the concert, Bryan, who is best known for hits Something in the Orange and I Remember Everything, can be seen wearing a black shirt with the message, Free Palestine, on it. The country star s bandmates also appeared to wear shirts that showed support for the Middle Eastern country. Bryan’s concert attire was certainly notable, given that Macklemore previously blamed Gillette Stadium owner Robert Kraft for his removal from Ed Sheeran’s Loop Tour after making pro-Palestine remarks. Country singer Zach Bryan wore a “Free Palestine” shirt at his Gillette Stadium show in Massachusetts. pic.twitter.com/1sFUj1IF4c &mdash; Pop Crave (@PopCrave) October 3, 2026 “Ed Sheeran and his team have made the decision to remove me from the Loop Tour. Before I get into it, I want to say something that should be obvious. In this moment I think it matters. I am not a victim. Ed Sheeran is not a victim. Pink is not a victim. We have careers, money, opportunities, safety and audiences around the world. Whatever consequences any of us face for what we say, we get to go home to our families,” he shared last month. “The victims are the Palestinian people-the men, women, and children who have been killed, starved, displaced, and forced to live through unimaginable violence. More than 20,000 children have been killed in Gaza 
-
-### Bill Maher Sends a Message to New Skydance Bosses Ahead of Merger Closing – and It s About Trump
-Sat, 03 Oct 2026 02:41:08 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-reacts-paramount-skydance-warner-bros-merger-closing/
-
-Bill Maher had a message for his new Skydance bosses ahead of the Paramount-Warner Bros. merger closing, urging them not to believe everything Donald Trump has to say about him. The comedian touched on the merger during Friday’s monologue on “Real Time With Bill Maher,” where he pondered his fate and who, exactly, he would report to. Hey, finally, big news for us. And when I say us, I mean you people who are here every week with me, Maher said at the end of his Friday night remarks. The merger went through. You know that Paramount now owns Warner Discovery, which owns HBO, which owns my ass. So I am owned by – I don t know. As he went on, Maher made one request for HBO s new owners, noting, You know what? Whoever owns me now, don t believe what Trump is tweeting about me. Maher then called out Trump s latest Truth Social rant about him. For those who missed it, Trump wrote on Monday, Bill Maher’s ratings are so low that it is hard to believe his show can continue. In many ways it’s SAD because, in actuality, I like him. Republicans should stop using him as a sounding board, however. It makes them look sooo weak and foolish! Maher assured he was not rattled by the president s latest jabs, informing his audience: You know, Mr. President, your insults don t bother me. Make up whatever s t you want about me. Just don t mention I went to Cornell. Maher, who attended the Ivy league institution in the mid- 70s, brought up his alma mater as it faces scrutiny for their handling of an 
-
-### Rachel Maddow Says Trump Admin Moving in the Shadows Is Scarier Than Earlier Term Violence
-Sat, 03 Oct 2026 01:22:06 +0000 — https://www.thewrap.com/media-platforms/politics/rachel-maddow-on-trump-admin-moving-in-the-shadows-immigration/
-
-Rachel Maddow warned that the Trump administration moving quietly on immigration policies is a new tactic to distract the American people. During an appearance on Clock It with Symone and Eugene, the MS NOW host warned that the quiet behavior may be more dangerous than the loud attacks. They re learning, too, Maddow said. They realized that when they make a big show of force, when they come in and almost literally mount a military assault on an American city, you can count on that city to fight back. Maddow said that she had reported on her show that when immigration directly affects Americans at home they do not go quietly. She mentioned that a community in rural Louisiana complained that they could not support the Trump administration building a detainment center for immigrants in their community. The quieter they keep it, they are thinking the less push back they get, and they re probably right about that, Maddow said. But the American people whenever they can figure out this is happening they push back. Quiet doesn t mean small, Symone Sanders-Townsend replied. It doesn t mean harmless. The podcast host pointed to the fact that the Trump administration s immigration arrests have not slowed despite less news coverage on them. She cited a New York Times report that stated there were more than 43,000 ICE arrests in June and more than 49,000 in July and nearly 51,000 in August. She noted that the administration is rapidly expanding their immigration raids, but it may take som
-
-### Trump Finds New Assistant Press Secretary in Real America s Voice Correspondent
-Sat, 03 Oct 2026 00:54:38 +0000 — https://www.thewrap.com/media-platforms/politics/trump-names-assistant-press-secretary-beni-rae-harmony/
-
-Donald Trump s White House expanded its press team Friday, tapping Real America s Voice correspondent Beni Rae Harmony to be assistant press secretary. The 24-year-old Harmony, who has served as Real America’s Voice’s White House correspondent since joining the conservative network in September 2025, confirmed her appointment on X Friday evening, after TMZ reported earlier that day that she had been scooped up to work for Trump. I’m excited to announce that I am joining the Trump Administration as Asst. White House Press Secretary, she wrote. It’s been an honor to report, travel and cover this historic administration as Senior White House Correspondent for Real America’s Voice. My goal has always been to ask the questions that matter to real Americans and make sure their voices are heard. I’m incredibly grateful to President Trump for this opportunity and his trust, she continued. I’m looking forward to this next chapter serving the American people and continuing to fight for the American Dream. America First. Harmony s addition to the press team comes as the White House has yet to find a replacement for Karoline Leavitt, who stepped down as White House press secretary at the end of August . Trump broke the news on Truth Social at the time, writing, Our wonderful White House Press Secretary, and one of my most trusted aides, Karoline Leavitt, will be departing her role at the end of the month so she can spend more time with her beautiful young children and family, a decision 
-
-### Steve Hilton Goes Viral For Lesbian Political Ad, and It s Apparently Not AI
-Sat, 03 Oct 2026 00:21:14 +0000 — https://www.thewrap.com/media-platforms/politics/steve-hilton-viral-lesbian-political-ad-just-try-it-california/
-
-Steve Hilton, the Republican candidate for California governor, turned heads Friday with his lesbian, fanfic-style campaign ad. The ad, titled Just try it, California, stars two young women, one which seems nervous to try something for the first time. The other woman then tucks her hair behind her ear and tells the other it s not that bad. I ve never done anything like this before. What if my dad finds out? the other woman with blue hair and a septum nose piercing replies. “Just try it. Look, give me your hand,” the other says, adding, “Close your eyes, and I’ll do all the work.” The young woman with the pink hair guides her hand out of frame before revealing a ballot. She helps the her friend fill in a bubble for Steve Hilton. Just try it, California. pic.twitter.com/6uqT6m8oV4 &mdash; Steve Hilton (@SteveHiltonx) October 1, 2026 The Republican candidate was seemingly taking a page out of former Los Angeles mayoral candidate Spencer Pratt s rulebook, who went viral with his AI ads earlier this year. (Hilton is currently 22 points down in the RealClearPolitics average of polls and is not seen as competitive in his race against Democratic candidate Xavier Becerra.) This ad, however, was not AI. Hilton claimed it was produced by a great and talented director. He did not state the director s name, but pointed a user in his Twitter replies to his Bring Hollywood Home plan. The ad quickly attracted attention across the internet. Pratt replied, calling the ad brilliant. Fox News an
-
-### Tyra Banks Shares Blunt Comments About Filming Halloween: Resurrection : I Have Beef
-Sat, 03 Oct 2026 00:13:04 +0000 — https://www.thewrap.com/creative-content/movies/tyra-banks-halloween-resurrection-candid-feelings/
-
-Tyra Banks confessed she does not look back fondly on her time filming Halloween: Resurrection, sharing she still has beef with the project nearly 25 years later. The supermodel starred in the 2002 slasher film opposite franchise legend Jamie Lee Curtis , Busta Rhymes, Sean Patrick Thomas and Bianca Kajlich. In the movie, which was the eighth installment in the franchise, Michael Myers goes on a murderous rampage as his Haddonfield home is the setting for a livestream show. And, as Banks told it to Entertainment Weekly , the America s Next Top Model star was slated to have a notable death scene that was supposed take her career to the next level. Per Banks, she was wary from the jump about participating in the movie, but that an agent pushed for her to do it. “I was like, ‘I’m not going to do that. What is it going to do for my career? I’m a model, and I need to do things that are kind of different to get this acting career that I want,' she said. [My agent] was like, ‘No, Josh Hartnett did Halloween, and look what he’s doing now!’” “So I was like, yeah, okay, this is going to do it for me,” Banks recalled. However, she ended up being disappointed by the outcome after her character Nora got limited screentime and an underwhelming death. “Not only did it not do anything for me, they cut the damn death scene, she said. [I was] promised the career of Josh Hartnett, of an actor, and promised an iconic death scene that will last forever, and neither of them happened.” Banks then q
-
 ## Collider
 
-### Kirsten Dunst’s Twisted Clint Eastwood Remake Is Officially Free to Stream
-Sat, 03 Oct 2026 19:00:12 GMT — https://collider.com/kirsten-dunst-nicole-kidman-the-beguiled-streaming-youtube-october-2026/
+### Taylor Sheridan's Gritty 3-Part Spy Thriller Refuses To Back Down on Streaming
+Sun, 04 Oct 2026 10:44:12 GMT — https://collider.com/lioness-season-3-taylor-sheridan-thriller-streaming-hit/
 
-Nicole Kidman has been on a rampage in these last few years, appearing in around half a dozen popular shows such as Lioness , Nine Perfect Strangers , and Margo’s Got Money Problems . Kirsten Dunst , who admitted that she would also like to experience being part of a hit film, appears to be following in her footsteps on the movie side of things with roles in anticipated sequels The Housemaid’s Secret and Another Minecraft Movie . Around a decade ago, they appeared together in an acclaimed film that was perhaps ahead of its time. With all the makings of a current-day A24 sleeper hit, the movie in question is currently streaming for a new audience to discover.
+Nearly two weeks after Season 3 of Lioness streamed its finale, the hype around Taylor Sheridan ’s spy thriller still isn’t dying down. While Sheridan made a name for himself on television thanks to his neo-Western Yellowstone and its spin-offs, Lioness marks a return to his Sicario roots . Instead of cowboys and cattle ranchers, Zoe Saldaña plays CIA senior case officer Joe McNamara, who leads the effective yet provocative Lioness program.
 
-### The 10 Best Family Drama Movies of All Time, Ranked
-Sat, 03 Oct 2026 18:53:11 GMT — https://collider.com/best-family-drama-movies-all-time-ranked/
+### Sydney Sweeney’s 161-Minute Quentin Tarantino Epic Is Officially Climbing the Streaming Charts
+Sun, 04 Oct 2026 10:30:11 GMT — https://collider.com/quentin-tarantino-once-upon-a-time-in-hollywood-streaming-top-10-hulu-cliff-booth/
 
-There’s a lot of drama within quite a few families, it’s safe to say, both when it comes to real life and in fiction. And if a drama movie has quite a bit of that drama explored concerning a family unit, or at least several members of a family, then it’s being counted as a family drama for present purposes. What you won’t necessarily find below are family-friendly movies (sometimes called family movies and all) that happen to have some dramatic elements in them.
+Walking onto a ranch outside of Los Angeles, you expect to see many things. A horse or two, some stables, other animals, perhaps. What you probably didn't expect to find was Hollywood's biggest rising star surrounded by future Oscar nominees and winners , as well as a child star or two. What an odd place 1960s LA is.
 
-### After 14 Seasons, It's Officially the End of an Era for 'Chicago Fire'
-Sat, 03 Oct 2026 18:38:13 GMT — https://collider.com/chicago-fire-season-15-showrunner-change-andrea-newman/
+### The 10 Greatest Historical Books That You Haven't Read
+Sun, 04 Oct 2026 10:22:12 GMT — https://collider.com/best-historical-books-you-have-not-read/
 
-The One Chicago franchise is no stranger to departures, and heading into its 15th season, Chicago Fire is faced with a handful of them . Dermot Mulroney is out as Chief Dom Pascal after two seasons ; Joe Mińoso , who has been with the show since its first season, will wrap up his arc as Joe Cruz over the first few episodes; and, depending on how the Season 14 finale plays out, possibly David Eigenberg 's Christopher Herrmann , who also has been around since Season 1. While those changes will make for a markedly different Firehouse 51 on-screen, it's the one off-screen exit that potentially alters the series going forward in a more impactful way : long-time showrunner Andrea Newman .
+The historical fiction genre has been one of literature's most important and prolific since time immemorial, having granted the world several of the greatest and most foundational books in history. However, for every historical masterpiece that goes on to be showered with every bit as much praise as it deserves, there are at least a few other books from the same genre that don't receive nearly as much love as they should. Over the years, these have gone down in history as some of the most underread historical fiction masterpieces of all time .
 
-### 5 Perfect Sci-Fi Books That Became Even Better Movies
-Sat, 03 Oct 2026 18:37:11 GMT — https://collider.com/perfect-sci-fi-books-became-even-better-movies/
+### 10 Greatest Books of the Last 30 Years, Ranked
+Sun, 04 Oct 2026 10:01:12 GMT — https://collider.com/best-books-last-30-years-ranked/
 
-Films based on books have been made since pretty much the birth of cinema as a storytelling medium, and "the book was better than the movie" has been the age-old adage that has been most often heard said about such films. On a few precious occasions, however, there have been movies which have arguably been substantially superior to the books that inspired them; and on a few precious occasions, that phenomenon has taken place with science fiction . The things that make a sci-fi book work and the things that make a sci-fi movie work are considerably different. Sci-fi books thrive on interiority and deep lore, can often get away with longer exposition dumps and slower-burning pacing, and can have a pretty much infinite scale and scope. Sci-fi movies, on the other hand, are more constrained by the limits of cinema, such as the "show, don't tell" rule, a limited runtime, and the limits of whatever their budget may be.
+There’s no such thing as a completely objective ranked list, so I bypassed the scientific approach altogether and asked myself a simpler question: what books have stayed with me? I’ve read every book on this list and chose them because I still can’t stop thinking about them. I'm not alone in finding these works to be transformative: all but two of the books below have been adapted for television or the stage. Without further ado, here are the best books of the last 30 years.
 
-### Marvel’s Best Disney+ Show Officially Surges on Streaming Before ‘Avengers: Doomsday’
-Sat, 03 Oct 2026 18:30:12 GMT — https://collider.com/marvel-loki-disney-plus-streaming-success-october-2026/
+### 'Hazbin Hotel' Officially Returns This Month With New Release
+Sun, 04 Oct 2026 10:00:11 GMT — https://collider.com/hazbin-hotel-fortnite-skins-release-october-2026/
 
-Marvel fans have had a lot to be excited about this year, and one of the franchise’s best TV shows is trending upwards on streaming before the premiere of Avengers: Doomsday . Audiences have been taken aback by the colossal box office success of Spider-Man: Brand New Day , which is now one of the highest-grossing movies in history after passing $2.4 billion at the global box office. Marvel also found success with new TV releases on Disney Plus like Wonder Man , Daredevil: Born Again Season 2, and X-Men ‘97 Season 2, and while it was thought that all shows would come back for new seasons, this is no longer the case. After originally announcing that Wonder Man had been renewed, Marvel later went back and confirmed that the show would be canceled after one season.
+Charlie Morningstar has enough trouble convincing the residents of Hell to give redemption a chance. Between the demons working against her and the complications that come with challenging Heaven, opening a hotel was never going to be the easy part. Still, her determination to help people makes her an especially entertaining character to drop into a situation where everyone has very different priorities.
 
-### Apple TV's Near-Perfect 3-Part Comedy Refuses To Back Down on Streaming
-Sat, 03 Oct 2026 18:28:11 GMT — https://collider.com/shrinking-apple-tv-comedy-streaming-success/
+### Rebecca Ferguson's Ambitious Stephen King Sequel Officially Haunts Paramount+
+Sun, 04 Oct 2026 09:40:11 GMT — https://collider.com/rebecca-ferguson-horror-doctor-sleep-streaming-paramount-october/
 
-Apple TV has many unforgettable shows , ranging from the likes of Stick to Silo . With so many options to watch, earning a place in the streamer's most-watched titles can be fiercely competitive. Understandably, long-standing favorite Ted Lasso currently leads the pack with its ongoing season, but another series has consistently remained in Apple TV's Top 10. Shrinking hasn't quite reached the same level of renown, but the 2023 comedy sets itself apart with an emotionally complex story and a star-studded cast that includes Harrison Ford and How I Met Your Mother 's Jason Segel .
+The queen of sci-fi, Rebecca Ferguson , has had a mixed year so far. She began 2026 with the critically panned “screenlife” movie Mercy , headlined by Chris Pratt . The film failed to recoup its reported $60 million budget at the box office, but emerged as a solid hit on Prime Video despite poor reviews. Ferguson followed it up with the fourth season of her widely acclaimed Apple TV series Silo , which holds a “Certified Fresh” 96% score on the aggregator website Rotten Tomatoes. She’ll finish the year by reprising her role as Lady Jessica in the hotly anticipated Dune: Part Three , directed by Denis Villeneuve . This month, Ferguson’s fans can revisit one of her most overlooked gems, which was recently added to the Paramount+ library.
 
-### 21 Years Later, Steve Carell’s $177M Breakout Hit Is Officially Moving Streamers
-Sat, 03 Oct 2026 18:00:12 GMT — https://collider.com/steve-carell-the-40-year-old-virgin-streaming-starz-october-2026/
+### 10 Intense Sci-Fi Shows You Need To Watch Again To Fully Understand
+Sun, 04 Oct 2026 09:26:11 GMT — https://collider.com/intense-sci-fi-shows-watch-twice-understand/
 
-One of the most influential names in modern comedy, the Oscar-nominated Steve Carell is the face of many people's favorite comfort shows, most notably as the lovable Michael Scott in The Office . Many years after his final surprise appearance in the show's finale, Carell is still appearing in plenty of comedic streaming favorites. After helping usher in a brilliant new comedy-drama, Netflix's The Four Seasons, before his character met an untimely demise, Carell moved to HBO to deliver a series that proved so instantly popular that it became their biggest comedy premiere in more than a decade, with 2.4 million U.S. cross-platform viewers in its first three days.
+There are pretty much countless ways for a science fiction TV show to be intense. High emotional stakes, strict logical rules, and a constant sense of mystery are a few of the things that make masterpieces like The Expanse and Lost some of the most intense genre shows that the small screen has ever seen. There are some sci-fi shows, however, that on top of being intense, are also so complicated to understand that they pretty much demand a rewatch.
 
-### 5 ‘Dungeon Crawler Carl’ Characters We Need To See in the Peacock Series
-Sat, 03 Oct 2026 17:50:12 GMT — https://collider.com/dungeon-crawler-carl-best-characters-for-peacock-series/
+### J.J. Abrams' $172 Million Sci-Fi Classic Is Officially Streaming on a New Platform
+Sun, 04 Oct 2026 09:20:11 GMT — https://collider.com/cloverfield-jj-abrams-peacock-october-2026/
 
-It's almost impossible that Peacock will adapt every sentence of Dungeon Crawler Carl into a live-action TV show. The series is massive in scale, defying the laws of physics and entropy to generate an alien game show out of the very substance of the earth. The TV show will definitely introduce us to Carl and his ex-girlfriend's cat, Princess Donut ( Jeff Hays ) as they delve into the dungeon, as well as the close allies they meet along the way. However, some characters will inevitably be skipped or combined with others. This isn't necessarily a bad thing, although chances are every reader will miss a quirky favorite that stuck in their memory in the books. There are some stand-out characters that must be brought to screen and given their moment in the spotlight.
+New York, seven years after 9/11. You'd think the city had been through enough suffering at that point, so imagine throwing a going-away party in Manhattan and discovering halfway through that the evening's entertainment has been replaced by an enormous monster tearing the city to pieces. That's how simple the conceit was for this movie that didn't even have a name for months.
 
-### ‘The Walking Dead’ Meets ‘Dexter’ in the Horror Nightmare Officially Streaming for Free
-Sat, 03 Oct 2026 17:30:12 GMT — https://collider.com/jennifer-carpenter-quarantine-streaming-free-pluto-tv-october-2026/
+### Russell Crowe's Gritty Detective Thriller Officially Finds a New Streaming Home
+Sun, 04 Oct 2026 09:00:12 GMT — https://collider.com/russell-crowe-sleeping-dogs-streaming-paramount-plus-october-2026/
 
-Not long after the success of J.J. Abrams and Matt Reeves ' sci-fi spectacle Cloverfield , another genre movie capitalized on the found-footage trend and ended up grossing four times its reported budget at the box office. Like Cloverfield , it spawned a follow-up, but it wasn't able to launch a franchise of equal cultural worth. The movie in question is streaming for free this month on Pluto TV, where it's primed to be discovered by an entirely new generation of audiences. It serves as a major artifact of the late 2000s, when both found-footage and zombie movies were all the rage. The film was based on a Spanish-language thriller that eventually spawned a four-part franchise.
+The month of September was particularly memorable for Russell Crowe . It began with the sudden streaming success of his crime thriller film The Get Out , which briefly topped the domestic Prime Video viewership chart following its debut on the platform. This was followed by the theatrical release of Crowe’s best-reviewed movie in nearly three decades , the Western drama The Weight . One week later, Crowe played a supporting role opposite Jacob Tremblay in Netflix’s psychological drama Unabomber , which promptly took the number-one spot on the streamer’s viewership rankings . Those in the mood for more Crowe are in luck, with two of his movies landing on Paramount+ this month.
 
-### The 10 Best Upcoming Fantasy Books To Read in Fall 2026
-Sat, 03 Oct 2026 17:28:12 GMT — https://collider.com/best-new-fantasy-books-fall-2026/
+### Taylor Sheridan Favorite’s 0% RT Action Flop Is Officially Getting a Second Chance
+Sun, 04 Oct 2026 08:40:12 GMT — https://collider.com/scott-eastwood-alarum-streaming-starz-october-2026/
 
-Any bookworm knows what the arrival of fall means: the publication of what are bound to go down in history as some of the best books of perhaps not just 2026 , but the 2020s as a whole. Indeed, publishers often save some of their biggest heavy-hitters for September, October, and November, and that most certainly includes fantasy books.
+Following the finale of this year's installment of the spy series Lioness , as Zoe Saldaña 's Joe McNamara and her team of female operatives faced the climax of their most explosive season yet, fans have been waiting patiently for their next Taylor Sheridan fix. It's rare that a Sheridan show isn't topping the Paramount+ streaming charts and, although the newly renamed adult animated series South America is currently at #1, that is all set to change in a couple of weeks.
 
