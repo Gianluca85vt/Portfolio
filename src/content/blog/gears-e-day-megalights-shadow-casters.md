@@ -44,6 +44,11 @@ industry it reads like a spec bump rather than a change to the day job.
 
 ## What the shadow-caster budget actually bought
 
+<figure>
+  <img src="/img/blog/gears-e-day-megalights-shadow-casters/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>The Coalition / Xbox Game Studios, via the official Steam page</figcaption>
+</figure>
+
 A dynamic shadow-casting light is expensive because the renderer has to draw the
 scene again from that light's point of view to find out what is hidden. Do it
 for one light, fine. Do it for forty and you are rendering the level forty-one
