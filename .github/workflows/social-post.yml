@@ -149,12 +149,29 @@ jobs:
             echo "no new cards"
           else
             git commit -m "Draw the social cards and the blog's link preview"
-            # Rebase before pushing. Runs queue rather than cancel, so a second
-            # one starts from the commit that triggered it and finds main has
-            # moved — and a bare push then fails on a non-fast-forward, which
-            # is a red cross on a job that did its work correctly.
-            git pull --rebase --autostash
-            git push
+            # Runs queue rather than cancel, so a second one starts from the
+            # commit that triggered it and finds main has moved. A plain rebase
+            # was not enough: this commit also redraws one shared picture, the
+            # blog's link preview, and when two articles go live minutes apart
+            # both runs redraw it. On 5 October the second rebase stopped on
+            # that file and the editorial never reached Facebook or Instagram.
+            #
+            # The preview shows the newest covers, and this run started from
+            # the newer commit, so on a clash its copy wins: -X theirs, since
+            # in a rebase "theirs" is the commit being replayed. Retried,
+            # because other jobs push to main too.
+            pushed=0
+            for attempt in 1 2 3 4; do
+              git fetch -q origin main
+              if git rebase --autostash -X theirs origin/main && git push origin HEAD:main; then
+                pushed=1
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              echo "push did not land, retrying ($attempt)"
+              sleep $((RANDOM % 6 + 3))
+            done
+            [ "$pushed" = 1 ] || { echo "::error::could not push the cards after four attempts"; exit 1; }
           fi
 
       # Instagram fetches the image from a URL rather than accepting an upload,
@@ -176,6 +193,8 @@ jobs:
 
       - name: Record what was posted
         if: steps.pick.outputs.slugs != ''
+        env:
+          SLUGS: ${{ steps.pick.outputs.slugs }}
         run: |
           set -euo pipefail
           git config user.name  "github-actions[bot]"
@@ -185,7 +204,27 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing posted, ledger unchanged"
           else
+            # The ledger is JSON the evening story writes too. If the rebase
+            # stops on it, start again from main's copy and lay this run's
+            # entries over it as data (scripts/merge-ledger.mjs) rather than
+            # as lines. The posts have already gone out by now, so losing this
+            # record would mean posting them a second time.
+            cp notes/social-posted.json "$RUNNER_TEMP/ledger-ours.json"
             git commit -m "Record the articles posted to Facebook and Instagram"
-            git pull --rebase --autostash
-            git push
+            pushed=0
+            for attempt in 1 2 3 4; do
+              git fetch -q origin main
+              if git rebase --autostash origin/main && git push origin HEAD:main; then
+                pushed=1
+                break
+              fi
+              git rebase --abort 2>/dev/null || true
+              git reset -q --hard origin/main
+              node scripts/merge-ledger.mjs "$RUNNER_TEMP/ledger-ours.json" notes/social-posted.json $SLUGS
+              git add notes/social-posted.json
+              git commit -q -m "Record the articles posted to Facebook and Instagram" || true
+              echo "ledger merged onto main, retrying ($attempt)"
+              sleep $((RANDOM % 6 + 3))
+            done
+            [ "$pushed" = 1 ] || { echo "::error::could not record the posts after four attempts"; exit 1; }
           fi
