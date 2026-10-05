@@ -128,8 +128,8 @@ export const blog = {
   // moment its handle is filled in.
   follow: [
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/scattarelladesigner/' },
-    { label: 'Bluesky', href: '' },
-    { label: 'X', href: '' },
+    { label: 'Bluesky', href: 'https://bsky.app/profile/gianlubackdrop.bsky.social' },
+    { label: 'X', href: 'https://x.com/monk3y_85' },
     { label: 'Instagram', href: 'https://www.instagram.com/monk3y_85/' },
     { label: 'Facebook', href: 'https://www.facebook.com/monkey85art' },
   ],

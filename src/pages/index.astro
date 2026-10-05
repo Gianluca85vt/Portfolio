@@ -131,7 +131,7 @@ const jsonLd = {
   url: site.url,
   email: `mailto:${site.email}`,
   image: new URL('/img/me/avatar-3d.png', site.url).href,
-  sameAs: [...socials.map((s) => s.href), blog.facebook],
+  sameAs: [...new Set([...socials.map((s) => s.href), ...blog.follow.map((f) => f.href).filter(Boolean)])],
   knowsAbout: [
     '3D environment art',
     'Unreal Engine 5',

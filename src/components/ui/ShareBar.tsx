@@ -1,6 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { Check, Code2, Link2, Linkedin, Share2 } from 'lucide-react';
-import { Facebook } from './brand-icons';
+import { Bluesky, Facebook } from './brand-icons';
 import type { LucideProps } from 'lucide-react';
 
 /** lucide has no WhatsApp or X glyph, so both are drawn here. */
@@ -73,7 +73,12 @@ export default function ShareBar({ url, title, excerpt = '' }: ShareBarProps) {
     {
       label: 'X',
       Icon: XLogo,
-      href: `https://twitter.com/intent/tweet?text=${enc(title)}&url=${enc(url)}`,
+      href: `https://twitter.com/intent/tweet?text=${enc(title)}&url=${enc(url)}&via=monk3y_85`,
+    },
+    {
+      label: 'Bluesky',
+      Icon: Bluesky,
+      href: `https://bsky.app/intent/compose?text=${enc(`${title} ${url}`)}`,
     },
     {
       label: 'Facebook',
