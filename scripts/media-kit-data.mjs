@@ -31,12 +31,36 @@ const pattern = (t) => new RegExp(`(^|[^a-z0-9])${t.replace(/[.+]/g, '\\$&')}([^
  * proof of a professional audience. Ties go to the query more people saw.
  */
 export function pickQueries(rows, n = 30) {
-  return rows
+  const ranked = rows
     .filter((r) => !OWN.test(r.query) && r.query.length >= 6)
     .map((r) => ({ ...r, craft: TOPICS.some((t) => pattern(t).test(r.query)) }))
-    .sort((a, b) => Number(b.craft) - Number(a.craft) || b.impressions - a.impressions)
-    .slice(0, n)
-    .map(({ query }) => query);
+    .sort((a, b) => Number(b.craft) - Number(a.craft) || b.impressions - a.impressions);
+  const picked = [];
+  for (const r of ranked) {
+    if (picked.length >= n) break;
+    if (picked.some((p) => sameSearch(p, r.query))) continue;
+    picked.push(r.query);
+  }
+  return picked;
+}
+
+const tokens = (q) => q.toLowerCase().match(/[a-z0-9]+/g) ?? [];
+const compact = (q) => tokens(q).join('');
+
+/**
+ * Whether two queries are the same search typed differently: "paint bridge
+ * krita" and "paintbridge krita", "blender downtown generator" and "downtown
+ * generator blender", or one that only adds a word to the other. Thirty
+ * spellings of six searches would undersell the range the list exists to show.
+ */
+export function sameSearch(a, b) {
+  const ca = compact(a);
+  const cb = compact(b);
+  if (ca === cb || ca.includes(cb) || cb.includes(ca)) return true;
+  const ta = new Set(tokens(a));
+  const tb = new Set(tokens(b));
+  const [small, large] = ta.size <= tb.size ? [ta, tb] : [tb, ta];
+  return small.size >= 2 && [...small].every((t) => large.has(t));
 }
 
 /** ISO 3166 alpha-3, as Search Console reports countries, to English names. */
@@ -67,7 +91,8 @@ async function search() {
     scQuery(token, site, { ...range, dimensions: ['country'], rowLimit: 30 }),
   ]);
   const t = totals[0] ?? { clicks: 0, impressions: 0, position: 0 };
-  const allImpressions = countries.reduce((a, r) => a + r.impressions, 0) || 1;
+  // Shares of the whole, not of the thirty countries the API returned.
+  const allImpressions = t.impressions || countries.reduce((a, r) => a + r.impressions, 0) || 1;
   return {
     from: startDate,
     to: endDate,
