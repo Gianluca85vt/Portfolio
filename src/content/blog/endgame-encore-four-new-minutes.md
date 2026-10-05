@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Continuity: dropping a new performance into the 2019 dance scene puts a 2026 face in a 2019 plate, and seven years of ageing is the one thing a comp cannot quietly absorb."
     - "Format: holding a post-credits scene back for IMAX and Infinity Vision screens means the film has two different endings depending on the room, which is a distribution decision the edit has to survive."
-draft: true
 ---
 
 Two numbers, four days old. *Avengers: Endgame* sits at $2.9255 billion worldwide. *Avatar* sits at $2.9237 billion. That is a gap of about $1.8 million on a total near three billion — six hundredths of one per cent, which is well inside the wobble on international weekend estimates. The chart changed hands on 4 October 2026. It could change hands again when the actuals come in.
