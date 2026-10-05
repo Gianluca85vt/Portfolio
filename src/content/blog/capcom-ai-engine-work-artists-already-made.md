@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: Capcom wants RE Engine to generate games. A Total War modder destroyed ten years of his own work to stop AI copies of it. Both answer the same question.
-draft: true
 sources:
   - outlet: Eurogamer
     url: https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project
