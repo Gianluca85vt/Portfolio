@@ -3,7 +3,7 @@ title: "Endgame Encore added four minutes and beat Avatar"
 date: 2026-10-05
 category: Film & TV
 excerpt: Marvel cut four minutes of 2026 footage into a 2019 film, regraded parts of it, and took the all-time box office record back by $1.8 million.
-cover: /img/blog/endgame-encore-four-new-minutes/cover.svg
+cover: /img/blog/endgame-encore-four-new-minutes/shot-01.jpg
 sources:
   - outlet: Variety
     url: https://variety.com/2026/film/box-office/avengers-endgame-highest-grossing-movie-ever-avatar-1236894787/
@@ -29,6 +29,11 @@ The thing that moved it is *Avengers Endgame: Encore*, which went back into cine
 So the chart is a re-release chart. It has been for years. Endgame first went past Avatar in July 2019, Avatar took it back with a China re-release in 2021, and everything since has been studios deciding when to put a finished film back in rooms that sell $25 tickets. Nominal dollars, no inflation adjustment, no attendance figure anywhere in it.
 
 ## Four minutes is not a small ask
+
+<figure>
+  <img src="/img/blog/endgame-encore-four-new-minutes/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Anthony and Joe Russo, and Tom Hiddleston, at San Diego Comic-Con. Photos by Gage Skidmore (Creative Commons BY-SA), via Wikimedia Commons</figcaption>
+</figure>
 
 What makes Encore worth looking at from a pipeline seat is that it is not a reprint. Marvel added about four minutes of new footage — an extended version of the final scene, and three post-credits stingers where the 2019 cut had none. Reporting says the new material was shot during *Doomsday* production, which is the sane way to do it: the crew, the stages and the lighting are already standing.
 
