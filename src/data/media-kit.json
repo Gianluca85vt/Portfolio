@@ -1,6 +1,70 @@
 {
   "updated": "2026-10-05",
-  "search": null,
+  "search": {
+    "from": "2026-09-05",
+    "to": "2026-10-02",
+    "impressions": 4040,
+    "clicks": 69,
+    "position": 9.2,
+    "queries": [
+      "paintbridge krita",
+      "painterly shadows blender",
+      "blender painterly shadows",
+      "downtown generator blender",
+      "marvelous designer 2026.1",
+      "downtown generator blender free",
+      "goldeneye decomp",
+      "blender feather generator",
+      "paint bridge krita",
+      "paintbridge krita - blender add-on",
+      "silent hill townfall frame generation",
+      "unreal engine 6",
+      "dlss 5 pass count",
+      "blender downtown generator",
+      "dlss 5 cost scaler",
+      "goldeneye 64 decomp",
+      "unreal engine 6 verse",
+      "blender geometry nodes feathers",
+      "blender krita bridge",
+      "blender krita texture paint",
+      "golden eye decomp",
+      "goldeneye 007 decompilation",
+      "goldeneye n64 decomp",
+      "marvelous designer changelog",
+      "marvelous designer puckering",
+      "quad draw blender",
+      "quadify blender",
+      "tyflow car rig",
+      "unreal engine 6?",
+      "downtown generator"
+    ],
+    "countries": [
+      {
+        "name": "Germany",
+        "share": 14
+      },
+      {
+        "name": "United Kingdom",
+        "share": 11
+      },
+      {
+        "name": "Italy",
+        "share": 10
+      },
+      {
+        "name": "India",
+        "share": 9
+      },
+      {
+        "name": "Russia",
+        "share": 8
+      },
+      {
+        "name": "Brazil",
+        "share": 6
+      }
+    ]
+  },
   "archive": {
     "articles": 216,
     "craft": 87,
