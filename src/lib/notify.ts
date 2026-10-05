@@ -265,6 +265,12 @@ export async function notifyNewDraft(
     /** Distinct publications behind the piece. Two is the floor. */
     outlets?: string[];
     linkedin?: string;
+    /** The X thread, one entry per post; the link goes on the last one. */
+    xThread?: string[];
+    /** The article's address with utm tags, for the LinkedIn first comment and the last X post. */
+    links?: { linkedin: string; x: string };
+    /** Published pieces on the same subject in the last two months. */
+    related?: { slug: string; title: string; date: string }[];
     script?: string;
   },
   siteUrl: string
@@ -279,6 +285,9 @@ export async function notifyNewDraft(
       secure: port === 465,
       auth: { user: env('SMTP_USER'), pass: env('SMTP_PASS') },
     });
+
+    const related = draft.related ?? [];
+    const thread = draft.xThread ?? [];
 
     const link = async (action: string) =>
       `${siteUrl}/api/draft-action?slug=${encodeURIComponent(draft.slug)}&action=${action}&token=${await signModeration(draft.slug, action)}`;
@@ -313,8 +322,14 @@ export async function notifyNewDraft(
       '',
       'Nothing is live until you approve it.',
       ...(draft.script ? ['', `Video script and plates: ${draft.script}`] : []),
+      ...(related.length
+        ? ['', 'ALREADY ON THE BLOG — check this is not the same story:', ...related.map((r) => `  ${r.date}  ${r.title}  ${siteUrl}/blog/${r.slug}/`)]
+        : []),
       ...(draft.linkedin
-        ? ['', '— for LinkedIn, copy from here —', '', draft.linkedin]
+        ? ['', '— LinkedIn post, copy from here —', '', draft.linkedin, ...(draft.links ? ['', `First comment: ${draft.links.linkedin}`] : [])]
+        : []),
+      ...(thread.length
+        ? ['', '— X thread —', '', ...thread.flatMap((p) => [p, '']), ...(draft.links ? [`Link on the last post: ${draft.links.x}`] : [])]
         : []),
     ].join('\n');
 
@@ -342,6 +357,16 @@ export async function notifyNewDraft(
     <strong style="color:#0F6E78">${outlets.length} sources.</strong> ${esc(outlets.join(', '))}
   </p>`
   }
+  ${
+    related.length
+      ? `<div style="border-left:3px solid #C8891B;background:#FBF6EC;padding:10px 14px;margin:0 0 20px;line-height:1.5;color:#5a4520">
+    <strong>Already on the blog?</strong> Published in the last two months on the same subject — make sure this is a new story and not the same one twice:
+    <ul style="margin:6px 0 0;padding-left:18px">${related
+      .map((r) => `<li><a href="${esc(`${siteUrl}/blog/${r.slug}/`)}" style="color:#5a4520">${esc(r.title)}</a> · ${esc(r.date)}</li>`)
+      .join('')}</ul>
+  </div>`
+      : ''
+  }
   <p style="margin:0 0 18px">
     ${
       drawnCover
@@ -362,7 +387,33 @@ export async function notifyNewDraft(
       ? `<div style="border-top:1px solid #e4dee8;margin-top:26px;padding-top:18px">
     <p style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#888;margin:0 0 10px">For LinkedIn — select and copy</p>
     <div style="background:#f7f5f8;border-radius:10px;padding:16px 18px;white-space:pre-wrap;line-height:1.55;color:#1a1a1a;font-size:14px">${esc(draft.linkedin)}</div>
-    <p style="font-size:11px;color:#888;margin:10px 0 0">${draft.linkedin.length} characters. LinkedIn hides everything past about 210 behind “see more”.</p>
+    <p style="font-size:11px;color:#888;margin:10px 0 0">${draft.linkedin.length} characters. LinkedIn hides everything past about 210 behind “see more”, so the thesis has to be in the first two lines.</p>
+    ${
+      draft.links
+        ? `<p style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#888;margin:16px 0 6px">First comment — the link goes here, not in the post</p>
+    <div style="background:#f7f5f8;border-radius:10px;padding:12px 16px;font-size:13px;word-break:break-all">${esc(draft.links.linkedin)}</div>`
+        : ''
+    }
+  </div>`
+      : ''
+  }
+  ${
+    thread.length
+      ? `<div style="border-top:1px solid #e4dee8;margin-top:26px;padding-top:18px">
+    <p style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#888;margin:0 0 10px">For X — a thread of ${thread.length}, post by post</p>
+    ${thread
+      .map(
+        (p) => `<div style="background:#f7f5f8;border-radius:10px;padding:12px 16px;white-space:pre-wrap;line-height:1.5;font-size:14px;margin:0 0 8px">${esc(p)}</div>
+    <p style="font-size:11px;color:${p.length > 280 ? '#B4283C' : '#888'};margin:0 0 12px">${p.length} / 280${p.length > 280 ? ' — too long, trim it' : ''}</p>`
+      )
+      .join('')}
+    ${
+      draft.links
+        ? `<p style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#888;margin:6px 0 6px">Add to the last post</p>
+    <div style="background:#f7f5f8;border-radius:10px;padding:12px 16px;font-size:13px;word-break:break-all">${esc(draft.links.x)}</div>`
+        : ''
+    }
+    <p style="font-size:11px;color:#888;margin:10px 0 0">Bluesky posts by itself when the article goes live.</p>
   </div>`
       : ''
   }

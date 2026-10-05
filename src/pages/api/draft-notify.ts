@@ -2,6 +2,9 @@ import type { APIRoute } from 'astro';
 import { isDraft, readFile } from '../../lib/github';
 import { notifyNewDraft } from '../../lib/notify';
 import { hookAuthorised } from '../../lib/hook';
+import { findRelated, parseSocialKit, subjectOf } from '../../lib/social-kit';
+import type { Related } from '../../lib/social-kit';
+import { tagged } from '../../lib/utm';
 
 export const prerender = false;
 
@@ -39,10 +42,25 @@ export const POST: APIRoute = async ({ request }) => {
     );
   }
 
-  // The Monday editorial also gets a LinkedIn post written for it. Carrying it
-  // into the email is the difference between something he pastes on the spot
-  // and something he has to remember exists in a folder.
-  const linkedin = (await readFile(`notes/linkedin/${slug}.md`))?.text?.trim();
+  // The social kit: a LinkedIn post and an X thread, written with the draft
+  // (notes/social/<slug>.md). The Monday editorial's older notes/linkedin file
+  // still reads, as LinkedIn only. Carrying them into the email is the
+  // difference between something he pastes on the spot and something he has to
+  // remember exists in a folder.
+  const kit = parseSocialKit(
+    (await readFile(`notes/social/${slug}.md`))?.text ?? (await readFile(`notes/linkedin/${slug}.md`))?.text ?? ''
+  );
+  const articleUrl = `https://www.gianlucascattarella.it/blog/${slug}/`;
+
+  // Whether the blog already ran this story in the last two months, read off
+  // the published site's own search index. A miss here only costs the warning.
+  let related: Related[] = [];
+  try {
+    const res = await fetch(new URL('/blog/search-index.json', request.url), { signal: AbortSignal.timeout(5000) });
+    if (res.ok) related = findRelated(subjectOf(draft.title, draft.reviewOf), await res.json(), new Date(), 60, slug);
+  } catch {
+    related = [];
+  }
 
   // The video script is far too long to put in an email. Saying it exists, and
   // where, is the part that matters — otherwise it sits in a folder nobody
@@ -57,7 +75,13 @@ export const POST: APIRoute = async ({ request }) => {
       excerpt: draft.excerpt,
       cover: draft.cover,
       outlets: draft.outlets,
-      linkedin,
+      linkedin: kit.linkedin,
+      xThread: kit.x,
+      links: {
+        linkedin: tagged(articleUrl, 'linkedin', 'social', slug),
+        x: tagged(articleUrl, 'x', 'social', slug),
+      },
+      related,
       script: hasScript ? `notes/video/${slug}.script.md` : undefined,
     },
     new URL(request.url).origin

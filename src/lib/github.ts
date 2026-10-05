@@ -243,6 +243,7 @@ export async function isDraft(slug: string) {
     // The review email shows this, so the answer to "does it have artwork?"
     // arrives with the decision rather than after clicking Publish.
     cover: field('cover').replace(/^["']|["']$/g, ''),
+    reviewOf: field('reviewOf').replace(/^["']|["']$/g, ''),
     outlets,
   };
 }

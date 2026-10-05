@@ -188,6 +188,10 @@ jobs:
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_IG_USER_ID: ${{ secrets.META_IG_USER_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          # Bluesky is skipped until both are set (an app password, never the
+          # account password).
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
           SLUGS: ${{ steps.pick.outputs.slugs }}
         run: node scripts/social-post.mjs $SLUGS
 
