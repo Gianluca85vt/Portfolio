@@ -503,6 +503,112 @@ export async function buildStoryFrame(
 }
 
 /**
+ * One frame of the weekly breakdown Reel (scripts/weekly-reel.mjs): a still
+ * from the piece, a short heading and a few lines of body, 9:16.
+ *
+ * The story frame carries a headline and nothing else; a breakdown has to say
+ * what works and why, so this one sets a heading over up to seven lines of
+ * body text, all in the lower half where a phone leaves room. Written to
+ * `outDir` rather than to public/: the frames are emailed as attachments, so
+ * they never need to be on the site.
+ */
+export async function buildReelFrame({ kicker, heading, body = '', image, category }, index, total, outDir, root = process.cwd()) {
+  const accent = COLOURS[category] ?? '#B600A8';
+
+  let background;
+  try {
+    if (!image) throw new Error('no image');
+    const p = join(root, 'public', image.replace(/^\//, ''));
+    await access(p);
+    background = await sharp(p, { density: 300 })
+      .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
+      .toBuffer();
+  } catch {
+    // No still for this frame: a dark field lit from one corner in the
+    // category's colour, so a text frame between two pictures reads as a
+    // deliberate beat rather than a missing image.
+    background = await sharp(
+      Buffer.from(`<svg width="${STORY_W}" height="${STORY_H}" xmlns="http://www.w3.org/2000/svg">
+  <defs><radialGradient id="g" cx="0.85" cy="0.12" r="0.9">
+    <stop offset="0%" stop-color="${accent}" stop-opacity="0.55"/>
+    <stop offset="55%" stop-color="#18011F" stop-opacity="1"/>
+  </radialGradient></defs>
+  <rect width="100%" height="100%" fill="#0B0010"/><rect width="100%" height="100%" fill="url(#g)"/>
+</svg>`)
+    )
+      .jpeg()
+      .toBuffer();
+  }
+
+  const headSize = heading.length > 60 ? 58 : heading.length > 36 ? 66 : 76;
+  const headLines = wrap(heading, headSize, STORY_W - 150);
+  const bodySize = body.length > 220 ? 38 : 44;
+  const bodyLines = body ? wrap(body, bodySize * 0.92, STORY_W - 150).slice(0, 8) : [];
+  const headLead = headSize * 1.12;
+  const bodyLead = bodySize * 1.38;
+
+  // Laid out upwards from a fixed floor, so a short frame and a long one end
+  // at the same height and the thumb zone at the very bottom stays clear.
+  const floor = STORY_H - 300;
+  const bodyTop = floor - (bodyLines.length - 1) * bodyLead;
+  const headLast = bodyLines.length ? bodyTop - bodySize - 46 : floor;
+  const headFirst = headLast - (headLines.length - 1) * headLead;
+  const kickerY = headFirst - headSize - 34;
+
+  const pipGap = 8;
+  const pipW = (STORY_W - 120 - pipGap * (total - 1)) / total;
+  const pips = Array.from({ length: total }, (_, i) =>
+    `<rect x="${60 + i * (pipW + pipGap)}" y="46" width="${pipW}" height="5" rx="2.5" fill="#FFFFFF" fill-opacity="${i <= index ? 0.95 : 0.3}"/>`
+  ).join('');
+
+  const overlay = Buffer.from(`
+<svg width="${STORY_W}" height="${STORY_H}" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#18011F" stop-opacity="0.55"/>
+      <stop offset="22%"  stop-color="#18011F" stop-opacity="0.18"/>
+      <stop offset="${Math.max(30, Math.round((kickerY / STORY_H) * 100) - 16)}%" stop-color="#18011F" stop-opacity="0.6"/>
+      <stop offset="${Math.max(32, Math.round((kickerY / STORY_H) * 100) - 6)}%" stop-color="#18011F" stop-opacity="0.94"/>
+      <stop offset="100%" stop-color="#18011F" stop-opacity="0.98"/>
+    </linearGradient>
+  </defs>
+  <rect width="${STORY_W}" height="${STORY_H}" fill="url(#shade)"/>
+  ${pips}
+  <text x="60" y="132" font-family="DejaVu Sans, Verdana, sans-serif" font-size="34"
+        font-weight="bold" letter-spacing="9" fill="#FFFFFF" fill-opacity="0.92">BACKDROP</text>
+
+  <rect x="60" y="${kickerY - 52}" width="94" height="7" fill="${accent}"/>
+  <text x="60" y="${kickerY}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="30" font-weight="bold"
+        letter-spacing="6" fill="#D7E2EA" fill-opacity="0.88">${esc(kicker.toUpperCase())}</text>
+  ${headLines
+    .map(
+      (l, i) =>
+        `<text x="60" y="${headFirst + i * headLead}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${headSize}" font-weight="bold" fill="#FFFFFF">${esc(l)}</text>`
+    )
+    .join('\n  ')}
+  ${bodyLines
+    .map(
+      (l, i) =>
+        `<text x="60" y="${bodyTop + i * bodyLead}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="${bodySize}" fill="#D7E2EA" fill-opacity="0.92">${esc(l)}</text>`
+    )
+    .join('\n  ')}
+  <text x="60" y="${STORY_H - 150}" font-family="DejaVu Sans, Verdana, sans-serif" font-size="27"
+        letter-spacing="2" fill="#D7E2EA" fill-opacity="0.55">gianlucascattarella.it</text>
+</svg>`);
+
+  const out = join(outDir, `reel-${String(index + 1).padStart(2, '0')}.jpg`);
+  await mkdir(outDir, { recursive: true });
+  await writeFile(
+    out,
+    await sharp(background)
+      .composite([{ input: overlay, top: 0, left: 0 }])
+      .jpeg({ quality: 88, mozjpeg: true })
+      .toBuffer()
+  );
+  return out;
+}
+
+/**
  * The link preview for the blog itself.
  *
  * Sharing /blog/ was showing a frame from a 2024 Unreal environment video:

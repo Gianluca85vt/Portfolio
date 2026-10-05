@@ -85,3 +85,52 @@ test('the body credits him and links with the tag', () => {
   assert.match(body, /> E\.\n>\n> T\./);
   assert.match(body, /utm_source=blendernation$/);
 });
+
+/* --- the weekly breakdown Reel ------------------------------------------ */
+
+import * as reel from './weekly-reel.mjs';
+
+const piece = (over) =>
+  art({
+    category: '3D',
+    take: 'A reading.',
+    works: ['Texturing: de-repeats at the paint stage.'],
+    misses: ['Scope: hides the repeat, not the flatness.'],
+    cover: '/img/blog/s/cover.jpg',
+    ...over,
+  });
+
+test('a point splits into its area and its text, which starts with a capital', () => {
+  assert.deepEqual(reel.splitPoint('Texturing: de-repeats.'), ['Texturing', 'de-repeats.']);
+  assert.deepEqual(reel.splitPoint('No area here'), ['', 'No area here']);
+  const frames = reel.plan(piece(), []);
+  assert.equal(frames[2].heading, 'Texturing');
+  assert.match(frames[2].body, /^De-repeats/);
+});
+
+test('the Reel piece needs works and misses, and 3D comes first', () => {
+  const list = [
+    piece({ slug: 'games', category: 'Games', date: '2026-10-09' }),
+    piece({ slug: 'thin', date: '2026-10-09', misses: [] }),
+    piece({ slug: 'three', date: '2026-10-05' }),
+  ];
+  assert.equal(reel.pickPiece(list, '2026-10-10').slug, 'three');
+  assert.equal(reel.pickPiece([piece({ date: '2026-09-01' })], '2026-10-10'), null);
+});
+
+test('without stills the cover opens and closes and the middle frames are text', () => {
+  const frames = reel.plan(piece(), []);
+  assert.equal(frames[0].image, '/img/blog/s/cover.jpg');
+  assert.equal(frames.at(-1).image, '/img/blog/s/cover.jpg');
+  assert.ok(frames.slice(1, -1).every((f) => f.image === ''));
+  const withStills = reel.plan(piece(), ['/a.jpg', '/b.jpg']);
+  assert.ok(withStills.slice(1).every((f) => f.image === '/a.jpg' || f.image === '/b.jpg'));
+});
+
+test('a tool tag only when the piece names the tool, five at most', () => {
+  const c4d = reel.reelTags(piece({ title: 'Cinema 4D 2026.4: an MCP server' }));
+  assert.equal(c4d[0], '#cinema4d');
+  assert.ok(!c4d.includes('#blender') && !c4d.includes('#unrealengine'));
+  assert.ok(reel.reelTags(piece({ title: 'Blender on Android' })).includes('#blender'));
+  assert.ok(reel.reelTags(piece({ title: 'Blender in Unreal with Houdini and Maya' })).length <= 5);
+});

@@ -17,17 +17,18 @@ name: Daily story frames
 # The feed still posts one article at a time from social-post.yml.
 
 on:
-  # Several slots, for two separate reasons. Italy is UTC+2 in summer and UTC+1
-  # in winter, so a single fixed UTC cron would drift by an hour at the
-  # changeover. And GitHub runs scheduled workflows on a best-effort basis: on
-  # 2 September these fired at 19:38 and 20:33 rather than 17:00 and 18:00.
+  # Off the schedule since 5 October: the growth plan cut the Reels from seven a
+  # week to one, and the weekly breakdown (weekly-reel.yml) replaced this. It
+  # still runs by hand from the Actions tab. To bring the nightly frames back,
+  # restore these three slots — several of them because Italy moves between
+  # UTC+2 and UTC+1 and GitHub fires scheduled runs late under load (on
+  # 2 September the 17:00 slot fired at 19:38); the script refuses to draw
+  # twice in a day, so the extra slots cost nothing.
   #
-  # Extra slots are free because the script refuses to post twice in a day.
-  # 2 September proved the need: the 17:00 slot fired at 19:38.
-  schedule:
-    - cron: '0 17 * * *'
-    - cron: '0 18 * * *'
-    - cron: '0 20 * * *'
+  # schedule:
+  #   - cron: '0 17 * * *'
+  #   - cron: '0 18 * * *'
+  #   - cron: '0 20 * * *'
 
   workflow_dispatch:
     inputs:

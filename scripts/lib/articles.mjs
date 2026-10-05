@@ -64,6 +64,8 @@ export async function loadArticles(root = process.cwd()) {
       excerpt: String(data.excerpt ?? ''),
       cover: data.cover ? String(data.cover) : '',
       take: data.artistView?.take ? String(data.artistView.take) : '',
+      works: Array.isArray(data.artistView?.works) ? data.artistView.works.map(String) : [],
+      misses: Array.isArray(data.artistView?.misses) ? data.artistView.misses.map(String) : [],
       verdict: data.verdict ? String(data.verdict) : '',
       score: typeof data.score === 'number' ? data.score : null,
       reviewOf: data.reviewOf ? String(data.reviewOf) : '',
