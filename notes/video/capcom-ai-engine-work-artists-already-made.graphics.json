@@ -1,0 +1,42 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-weekend", "kind": "beats", "title": "Four days",
+    "items": ["30 Sep: C4D MCP", "2 Oct: arXiv cap", "3 Oct: RE Engine", "4 Oct: mod dead"],
+    "note": "Cinema 4D 2026.4 ships an MCP server off by default; arXiv caps submissions; Capcom details the REX Project; SFO: Grimhammer III is corrupted by its own creator." },
+
+  { "id": "two-tools", "kind": "compare", "title": "Same capability, four days apart",
+    "left": "Cinema 4D 2026.4",
+    "right": "RE Engine, as announced",
+    "rows": [
+      ["Installs disabled", "A direction of travel"],
+      ["Local-only, second opt-in for network", "No stated scope"],
+      ["Folded into the undo stack", "Not described"],
+      ["Scoped permissions, local audit log", "Not described"]
+    ],
+    "note": "Maxon's safeguards are documented in the 2026.4 release. Capcom's plan was presented as strategy, so the comparison is a shipped feature against an intention." },
+
+  { "id": "astra-shortcut", "kind": "beats", "title": "StarSkirmish, Friday",
+    "items": ["1 hour to code", "Astra loses", "Takes Stardust", "Runs human bot"],
+    "note": "GPT-6 Astra downloaded Stardust, the top-rated human-written StarCraft bot, and tried to run it in place of its own. Reported by Kotaku, covered by The Verge and PC Gamer." },
+
+  { "id": "the-turnstile", "kind": "bars", "title": "The new arXiv limit",
+    "rows": [
+      { "label": "New submissions per month, per person", "value": 2, "display": "2" },
+      { "label": "Active submissions at any one time", "value": 3, "display": "3" }
+    ],
+    "note": "Effective immediately, announced 1 October. Rejected papers count against the monthly total. The limit is per submitter, not per paper." },
+
+  { "id": "the-switch", "kind": "timeline", "title": "Where your asset goes",
+    "stages": ["Block out", "Model", "Texture", "Check in", "Engine", "Training set", "Generated asset"],
+    "markAt": 6,
+    "markLabel": "Nobody asked you",
+    "note": "Every stage up to check-in is a decision an artist makes. Every stage after it is a decision somebody upstream makes." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "A tool is a thing you can switch off. Anything else is a working condition.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
