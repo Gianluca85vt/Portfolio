@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-05T11:50:36.379Z
+# Source feeds — harvested 2026-10-05T21:24:20.738Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -16,7 +16,6 @@ Already aired, so a round-up rather than a preview:
 - Push Square — Feature: Let s Flick Through Sammy s Photos from Gamescom and Tokyo Game Show
 - Game Developer — gamescom
 - Game Developer — Tokyo Game Show (TGS)
-- Game Developer — gamescom latam
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -38,13 +37,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 27 items
-- [Games](games.md) — 70 items
-- [Tech](tech.md) — 72 items
-- [3D](3d.md) — 16 items
-- [AI](ai.md) — 2 items
-- [Film & TV](film-tv.md) — 58 items
+- [Manga](manga.md) **owed** — 22 items
+- [Games](games.md) — 96 items
+- [Tech](tech.md) — 80 items
+- [3D](3d.md) — 14 items
+- [AI](ai.md) — 3 items
+- [Film & TV](film-tv.md) — 64 items
 
-Total: 245 items.
+Total: 279 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

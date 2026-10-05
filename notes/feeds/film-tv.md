@@ -1,176 +1,206 @@
-# Film & TV — harvested 2026-10-05T11:50:36.379Z
+# Film & TV — harvested 2026-10-05T21:24:20.738Z
 
 ## Variety
 
-### Mark Ruffalo Tells Trump Hands Off Our F ing Vote or I m Gonna Hulk Out : You Won t Like Me When I m Angry
-Mon, 05 Oct 2026 11:44:07 +0000 — https://variety.com/2026/film/news/mark-ruffalo-slams-trump-voting-rights-hulk-out-1236898975/
+### Free Elizabeth Holmes Group Defends Convicted Theranos Founder at You Can See Everything Doc Screening: She s Innocent and Needs to Be Free
+Mon, 05 Oct 2026 21:20:34 +0000 — https://variety.com/2026/film/news/elizabeth-holmes-innocent-you-can-see-everything-1236897075/
 
-Mark Ruffalo made a passionate speech at a Hands Off Our Vote event in New York City on Sunday night, slamming U.S. President Donald Trump and saying he s going to Hulk out if he attempts to restrict voting in the upcoming midterm elections. The midterms are set to take place on Nov. 3 and could [ ]
+In the wild A24 documentary You Can See Everything, Elizabeth Holmes still maintains her innocence in her Theranos fraud case despite being sentenced to 11 years in prison. It turns out, there are a few others who share her beliefs. Ryan Elhosseiny, who runs a group called Just Blood, claims that Holmes is innocent and [ ]
 
-### Jack O Connell and Odessa A’zion to Play Flat-Earthers in ‘The End of the World as We Know It’ for Studiocanal, Working Title and An Irish Goodbye Oscar Winners (EXCLUSIVE)
-Mon, 05 Oct 2026 11:30:00 +0000 — https://variety.com/2026/film/global/jack-oconnell-odessa-azion-tend-of-the-world-as-we-know-it-1236897026/
+### Best Horror of October 2026: Other Mommy Goes for the Heart, Carrie Returns, Josh Hartnett Hunts for Sea Monsters and More
+Mon, 05 Oct 2026 21:17:56 +0000 — https://variety.com/lists/horror-movies-to-watch-october-2026/
 
-Ross White and Tom Berkeley, the filmmaking duo behind the Oscar and BAFTA winning short film An Irish Goodbye, have teamed up with Studiocanal, Working Title, Parkville Pictures and Film4 for their feature debut and landed two hugely in-demand stars as their leads. The End of the World as We Know It will see BAFTA [ ]
+Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, the executive digital director of Variety and the publication’s resident horror enthusiast. Please drop me a line at wearl@variety.com if there’s something I should check out for next month’s missive.
 
-### NAZA Rebuttal Doc Surfaces Online, Made by IDF Reserve Members
-Mon, 05 Oct 2026 11:01:52 +0000 — https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/
+### Pam Levine Exits Netflix as Marketing Publicity VP (EXCLUSIVE)
+Mon, 05 Oct 2026 21:17:23 +0000 — https://variety.com/2026/film/news/pam-levine-leaves-netflix-marketing-publicity-vp-1236899440/
 
-Just as hot-button Gaza documentary “NAZA — which recently won a special jury prize at the Venice Film Festival — gains international visibility and media attention, a counter project has surfaced online titled “NAZA: The Real Story.” The original 80-minute doc, which was shot at night on the rooftops of Tel Aviv and explores the [ ]
+Pam Levine, Netflix s marketing and publicity VP for the U.S. and Canada, is out at the streamer after a year and a half in her post, Variety has confirmed. Levine joined Netflix in April 2025. She managed all publicity and marketing for all film and TV series for the U.S. and Canada. She reported to [ ]
 
-### France s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike
-Mon, 05 Oct 2026 10:43:08 +0000 — https://variety.com/2026/film/global/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925/
+### ‘Coven Academy’ Star Malina Weissman Unpacks Briar’s Backstory, Her Take on the Love Triangle and Her Hopes for Season 2
+Mon, 05 Oct 2026 21:14:43 +0000 — https://variety.com/2026/tv/news/coven-academy-malina-weissman-briar-mom-dad-love-triangle-1236897980/
 
-Canal+ Group chairman Maxime Saada has warned that the pay TV banner could pull out of its €1 billion ($1.1 billion) investment deal with the French film industry if the government goes ahead with plans to double VAT on pay-TV subscriptions. The measure, included in the government’s proposed finance bill, would scrap the reduced 10% [ ]
+SPOILER ALERT: This story contains spoilers for “Coven Academy,” now streaming on Disney+. Nestled amid a tree-lined New Orleans exterior is a boarding school host to witches and warlocks alike in Freeform and Disney+’s new young-adult drama. “Coven Academy” stars Malina Weismann as Briar, a grieving teen who shows up on the doorstep of what [ ]
 
-### Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest
-Mon, 05 Oct 2026 09:31:09 +0000 — https://variety.com/2026/global/news/former-prince-andrew-legal-action-police-arrest-1236898938/
+### Rachel Zegler Recalls Her Evita Audition While Starring on Broadway in Romeo + Juliet : I Sang 40 Pages of Material
+Mon, 05 Oct 2026 20:41:49 +0000 — https://variety.com/2026/legit/news/rachel-zegler-evita-broadway-audition-1236899263/
 
-Andrew Mountbatten-Windsor, the former prince and King Charles brother, is taking legal action against the Thames Valley Police over search warrants relating to his February arrest. As first reported by The Telegraph, Mountbatten-Windsor — who was arrested on suspicion of misconduct in public office after the release of the Epstein files — has submitted a [ ]
+Tom Felton can t go anywhere without getting recognized as Draco Malfoy, the icy-blond villain he memorably portrayed in eight Harry Potter movies. The actor, who is reprising his iconic role on stage in Harry Potter and the Cursed Child, was finally the one to geek out at seeing famous faces at Variety s annual Business of [ ]
 
-### John de Mol’s Formats Giant Talpa Studios Heads to Mipcom With New Shows Sing With Me, The Golden Elevators (EXCLUSIVE)
-Mon, 05 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/talpa-studios-mipcom-sing-with-me-the-golden-elevators-1236898478/
+### Mark Mortimer, Another World Soap Opera Star, Dies at 59
+Mon, 05 Oct 2026 20:04:17 +0000 — https://variety.com/2026/tv/people-news/mark-mortimer-dies-another-world-soap-opera-1236899434/
 
-John de Mol’s Talpa Studios, whose hit formats include quiz show “The Floor,” is heading to next week’s TV market Mipcom with a slate of new entertainment formats, led by “Sing With Me” and “The Golden Elevators.” “Sing With Me” is a feelgood music entertainment format developed in collaboration with Dutch producer IDTV, the creator [ ]
+Mark Mortimer, best known for his role as Nick Hudson on the soap opera “Another World,” died Sept. 23 after a battle with cancer. He was 59. “Mark Mortimer lived many lives in one lifetime,” his family wrote in his online obituary. “He was an Army veteran, a model, an actor, an entrepreneur and a [ ]
 
-### ITV Studios Travels to Mipcom With 10 New Titles on Its Formats Slate, Led by The Chase Around the World (EXCLUSIVE)
-Mon, 05 Oct 2026 07:30:00 +0000 — https://variety.com/2026/tv/global/itv-studios-mipcom-formats-slate-the-chase-around-the-world-1236898689/
+### Whether Tailgating or Watching the Big Game from Home, JBL Speakers Deliver Top-Tier Sound to Keep the Party Going
+Mon, 05 Oct 2026 19:56:19 +0000 — https://variety.com/2026/shopping/news/jbl-speakers-best-buy-discount-shop-online-1236897979/
 
-ITV Studios has unveiled 10 new titles on its Mipcom formats slate, led by “The Chase Around the World,” and also revealed the unscripted lineup, which includes “70 Up,” the final chapter of the groundbreaking documentary series “7 Up.” “The Chase Around the World,” a multi-country treasure hunt, is a spin-off of ITV’s game show [ ]
+As football (and tailgate) season officially kicks off, it’s essential to have all the right gear to keep the party going, whether you’re cheering on your favorite team from the comfort of your own home or the stadium parking lot. For years, JBL has been one of America’s most trusted audio brands, known for its [ ]
 
-### La Oreja de Van Gogh Songs Set to Power an Ambitious Romantic Musical From Fernando González Molina (EXCLUSIVE)
-Mon, 05 Oct 2026 07:04:28 +0000 — https://variety.com/2026/film/global/la-oreja-de-van-gogh-fernando-gonzalez-molina-1236898493/
+### Robert Kelker-Kelly, ‘Days of Our Lives’ Actor, Dies at 62
+Mon, 05 Oct 2026 19:53:06 +0000 — https://variety.com/2026/tv/people-news/robert-kelker-kelly-dead-days-of-our-lives-1236899324/
 
-The songs of pop group phenomenon La Oreja de Van Gogh, which has just become the only Spanish band with a song in Spotify’s Billions Club, are heading for the big screen, set to be sung and power the emotional currents of an ambitious romantic musical, “Puedes Contar Conmigo.” Director of blockbuster “Palm Trees in [ ]
+Robert Kelker-Kelly, who played Bo Brady on Days of Our Lives,” died on Saturday in St. Peters, Missouri. He was 62. The St. Peters Police Department said they responded for a report of an unconscious male who was not breathing. Police noted that he had reportedly complained of chest pain shortly before becoming unresponsive, and [ ]
 
-### Talent Agency Cosmic Opens London Office, Led by Gabrielle de Cevins
-Mon, 05 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/global/cosmic-london-gabrielle-de-cevins-1236894598/
+### David Zaslav Bids Farewell to Warner Bros. Employees in Video on Eve of Skydance Merger Close: It s Been a Great Honor to Be Alongside All of You
+Mon, 05 Oct 2026 19:32:15 +0000 — https://variety.com/2026/film/news/david-zaslav-farewell-video-warner-bros-discovery-employees-1236899350/
 
-Cosmic Talents, which represents leading international heads of department, is opening a London office. It will be led by Gabrielle de Cevins, who joins Cosmic Talents as the agency s U.K.-based agent. De Cevins brings eight years of in-house production experience to the role, including the last four at London-based feature film production company The Bureau [ ]
+David Zaslav, four and a half years after closing the debt-burdened deal that formed Warner Bros. Discovery, is bidding farewell to the company s employees as it is about to get swallowed up by David Ellison s Paramount to create a media giant saddled with even more debt. Zaslav, president and CEO of Warner Bros. Discovery, [ ]
 
-### Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj s Debut Feature The Method (EXCLUSIVE)
-Mon, 05 Oct 2026 06:00:00 +0000 — https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/
+### Slayyyter to Release Brother Album to Wor$t Girl in America : Wor$t Man in America
+Mon, 05 Oct 2026 19:00:37 +0000 — https://variety.com/2026/music/news/slayyyter-to-release-worst-man-in-america-brother-album-1236899364/
 
-Harvey Keitel stars as a celebrated acting teacher in The Method, the first feature from director and co-writer Gaurav Bhardwaj, produced by CTRL banner Travelin Bone Entertainment alongside Imagination Infinite Motion Pictures. Mina Sundwall ( Murdaugh: Death in the Family, Lost in Space ) also features, as do Rakshit Bhuchar and Rohan Maletira, both of whom make [ ]
+Slayyyter has announced that Wor$t Man in America, the brother album to Wor$t Girl in America, is slated for release on December 4 via RECORDS/Columbia Records. Wor$t Man in America is being touted not as a new album, but rather a brother album to her third record Wor$t Girl in America, which was released on [ ]
 
 ## The Hollywood Reporter
 
-### The Social Reckoning Is an Even Bigger Burn on Mark Zuckerberg Than You Think
-Mon, 05 Oct 2026 08:31:41 +0000 — https://www.hollywoodreporter.com/business/digital/social-reckoning-mark-zuckerberg-villain-jeremy-theaters-1236722195/
+### Panta Mosleh’s Queer Interfaith Comedy ‘Pass the Salt’ Nabs Early Season 2 Renewal (Exclusive)
+Mon, 05 Oct 2026 21:18:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/pass-the-salt-season-2-renewal-1236722672/
 
-Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts.
+Beyond ‘Heated Rivalry,’ a wave of gay, lesbian and trans comedies and rom-coms out of Canada is growing.
 
-### Movies With Real Political Messages Underneath the Surface, Animation and More: What Not to Miss at London Film Fest
-Mon, 05 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lff-2026-bfi-london-film-festival-preview-political-movies-1236720797/
+### Mark Mortimer, Former Another World Star, Dies at 59
+Mon, 05 Oct 2026 21:13:52 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mark-mortimer-dead-another-world-1236722817/
 
-Kristy Matheson previews key highlights and stars featured in the 70th edition and why she doesn't agree with people having "a grumble about how it doesn't seem like a big or a good year for cinema."
+After leaving acting, he went on to found a construction company in his home state of Illinois.
 
-### John Oliver Has Re-Acquired Russell Crowe’s Iconic Jock Strap
-Mon, 05 Oct 2026 05:31:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-oliver-russell-crowe-jock-strap-1236722165/
+### As Digger Sinks, Hollywood s Three Amigos Circle the Wagons
+Mon, 05 Oct 2026 21:04:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/as-digger-sinks-hollywoods-three-amigos-1236722788/
 
-This marks the third time the undergarment, which Crowe wore in 2005's 'Cinderella Man,' has been in the possession of the 'Last Week Tonight' host.
+Alfonso Cuarón and Guillermo del Toro’s defense of Alejandro G. Iñárritu’s costly flop is the latest chapter in a remarkable 30-year creative alliance that carried three Mexican filmmakers to the pinnacle of mainstream moviemaking.
 
-### Lanterns Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future
-Mon, 05 Oct 2026 02:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-finale-john-stewart-hal-jordan-1236721962/
+### Altuzarra Brings His Runway Codes to Old Navy in a Mostly Under-$100 Collection
+Mon, 05 Oct 2026 20:56:23 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/old-navy-altuzarra-collection-2026-release-price-buy-online-1236722657/
 
-Some viewers might take issue with one major swing, but the team sees it as "remixing" rather than "rewriting" Green Lantern canon.
+The partnership is the latest move in Zac Posen’s strategy to introduce established American designers to a broader customer base.
 
-### So Long, Kody Robyn: Where to Watch Sister Wives Season 21 for Free Online Featuring Only the OG Spouses
-Mon, 05 Oct 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-sister-wives-season-21-free-online-1236717631/
+### Fox Beefs Up Leadership At Creator Studios Business
+Mon, 05 Oct 2026 20:28:40 +0000 — https://www.hollywoodreporter.com/business/digital/fox-creator-studios-new-senior-executives-1236722758/
 
-The newest season premieres on Sunday, Oct. 4, and specifically revolves around Meri, Janelle and Christine's lives.
+Bryan Thoensen and Kirsten McAuliffe join the media company as it seeks to push further into the creator economy.
 
-### Reggie McFadden, Actor-Comedian Known for Def Comedy Jam and In Living Color, Dies at 57
-Mon, 05 Oct 2026 00:58:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/reggie-mcfadden-dead-def-comedy-jam-in-living-color-1236722079/
+### David Zaslav Sends Farewell Video on His Last Day Before Skydance Acquisition of Warner Bros.
+Mon, 05 Oct 2026 20:11:33 +0000 — https://www.hollywoodreporter.com/business/business-news/david-zaslav-farewell-video-1236722752/
 
-He also appeared on ‘Martin,’ ‘Hangin’ With Mr. Cooper,’ ‘Moesha,’ ‘Coach’ and 'Curb Your Enthusiasm.’
+The CEO extolls the creations and storytelling of the workers that will soon be facing uncertain futures thanks to a sale he orchestrated.
 
-### Zoe Kazan on Honoring Steinbeck s East of Eden for Netflix Series While Rethinking Its Characters
-Sun, 04 Oct 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/netflix-east-of-eden-creator-interview-adapting-steinbeck-1236713934/
+### Harlan Coben Previews Final Twist Season 2, Bonkers First Episode and How His Onscreen Work Has Evolved
+Mon, 05 Oct 2026 19:27:36 +0000 — https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-interview-final-twist-season-2-cbs-first-episode-1236722500/
 
-The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's novel for television.
+"Fiction has to follow rules. Reality doesn't," the busy bestseller author tells THR and explains what criteria true-crime cases featured in the CBS and Paramount+ series must fulfill.
 
-### Rachel Reid on Upcoming Book Unrivaled and Keeping All Those Heated Rivalry Season 2 Secrets
-Sun, 04 Oct 2026 22:26:44 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/rachel-reid-unrivaled-heated-rivalry-season-2-interview-1236721934/
+### Gina Prince-Bythewood and Reggie Rock Bythewood Return to Urbanworld as Ambassadors of 30th Anniversary Festival
+Mon, 05 Oct 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gina-prince-bythewood-reggie-rock-urbanworld-1236722558/
 
-The 'Heated Rivalry' author is currently on a tour for the deluxe edition of the best-selling hockey romance novel.
+A special spotlight during the festival will celebrate Prince-Bythewood's upcoming film 'Children of Blood and Bone.'
 
-### Newport Beach Film Fest: Furious Star Emmy Rossum Will Receive TV Performance Award, Guest on Live Episode of Awards Chatter Pod
-Sun, 04 Oct 2026 21:52:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/newport-beach-film-fest-furious-emmy-rossum-award-podcast-1236721462/
+### CAA Hires Top NFL Executive as Chief Operating Officer
+Mon, 05 Oct 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/caa-names-nfl-exec-dasha-smith-coo-1236722581/
 
-The critically acclaimed and popular actress best known for 'Shameless' will be feted on Oct. 18.
+Dasha Smith was most recently executive VP and chief administrative officer of the NFL, where she was a top deputy to Roger Goodell.
 
-### J. Todd Anderson, The Nice Guys and The Big Lebowski Storyboard Artist, Dies at 67
-Sun, 04 Oct 2026 20:12:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/j-todd-anderson-dead-storyboard-artist-1236721947/
+### Sebastian Stan Drops Hints About The Batman: Part II Role: I Hope It Lands Right
+Mon, 05 Oct 2026 18:57:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-batman-part-two-role-1236722629/
 
-He was a frequent collaborator of the Coen Brothers, storyboarding ‘Fargo,’ ‘Drive-Away Dolls’ and ‘The Tragedy of Macbeth,’ among other films.
+The Marvel actor talks his highly anticipated move to DC in the Matt Reeves film.
 
 ## Deadline
 
-### Breaking Baz: Anthony Mackie Returning To Broadway To Play Macbeth After 16-Year Absence From The Stage
-Mon, 05 Oct 2026 11:00:00 +0000 — https://deadline.com/2026/10/anthony-mackie-macbeth-broadway-avengers-star-1237146358/
+### Clockwork, Warner Bros New Specialty Label, Making Jump To Skydance The Dish
+Mon, 05 Oct 2026 21:23:47 +0000 — https://deadline.com/2026/10/paramount-warner-bros-merger-clockwork-1237147148/
 
-EXCLUSIVE: Anthony Mackie, who plays Sam Wilson aka Captan America in the big-screen Marvel movies, will return to Broadway to take on William Shakespeare s most notorious villain, Macbeth. He will take on the role from spring 2027 after an absence from the boards of 16 years, the actor reveals to Deadline. Mackie will play Shakespeare’s [ ]
+EXCLUSIVE: The new Warner Bros Christian Parkes-led contemporary film label, Clockwork, which we first told you about last December, will be making the segue to the new Paramount Warner Bros merger aka Skydance. Clockwork was on an internal list of Warner Bros labels shown in-house at Paramount. In addition, we ve heard from reliable sources that [ ]
 
-### Martin Freeman Jim Broadbent Set For Dickensian Christmas Ghost Story The Bride s Chamber At The BBC
-Mon, 05 Oct 2026 10:30:00 +0000 — https://deadline.com/2026/10/martin-freeman-jim-broadbent-brides-chamber-bbc-1237146494/
+### Jeffrey Archer Dies: Bestselling Kane Abel Author Politician Was 86
+Mon, 05 Oct 2026 21:05:25 +0000 — https://deadline.com/2026/10/jeffrey-archer-dead-kane-abel-author-politician-1237147167/
 
-EXCLUSIVE: Two of Britain s top actors will pair up in the latest BBC Christmas ghost story special, The Bride s Chamber. Martin Freeman (The Hobbit, Sherlock) and Jim Broadbent (The Unlikely Pilgrimage of Harold Fry, Bridget Jones) will star in the Dickensian story, alongside Adrian Scarborough (The Chelsea Detective, Gavin Stacey), Joe Armstrong (Happy Valley, [ ]
+Jeffrey Archer, the prolific British author and former politician, has died at the age of 86. Archer s publisher HarperCollins confirmed his death in a statement, revealing that the Kane Abel writer died suddenly and peacefully at home on Monday. A cause of death was not disclosed. Archer, a former Conservative member of parliament, sold [ ]
 
-### Louisa Compton Appointed To Channel 4 Board Alongside Next Content Chief
-Mon, 05 Oct 2026 09:54:08 +0000 — https://deadline.com/2026/10/channel-4-board-louisa-compton-ian-katz-replacement-1237146542/
+### Comedians Call On Sebastian Maniscalco, SiriusXM To Restore Working-Class Comic Airplay Following Raw Dog Rebrand
+Mon, 05 Oct 2026 20:57:58 +0000 — https://deadline.com/2026/10/sebastian-maniscalco-siriusxm-controversy-raw-dog-airplay-1237147151/
 
-Channel 4’s news and digital boss along with its next content chief will be given a place on the Gogglebox network s board. Louisa Compton is a new Executive Board Member appointment and will sit alongside CEO Priya Dogra, CFO Lucy Thomas and Ian Katz’s soon-to-be-unveiled replacement as head of programmes, along with chair Geoff Cooper [ ]
+Sebastian Maniscalco isn t widely viewed as a controversial comic — but he s found himself in the hot seat this week, scrutinized over a recent SiriusXM changeover in which he s prominently involved. Earlier this year, as we first reported, the satellite radio provider replaced Raw Comedy, a long-running channel on its subscription service, with the 24/7 [ ]
 
-### InterTalent Agency Promotes Pair To Run Creator Division
-Mon, 05 Oct 2026 09:34:37 +0000 — https://deadline.com/2026/10/intertalent-creator-division-heads-mccombe-bendien-1237146531/
+### Nyle DiMarco Joins Hulu s All s Fair For Season 2
+Mon, 05 Oct 2026 20:47:06 +0000 — https://deadline.com/2026/10/nyle-dimarco-cast-hulu-alls-fair-season-2-1237147103/
 
-EXCLUSIVE: InterTalent, which reps top creators like The Grand Tour host Francis Bourgeois, has appointed two heads of its creator division. Dejah McCombe and Lucy Bendien have been promoted to the Co-Heads of Creators post. Reporting to MD Alex Segal, the pair will oversee strategy, talent development and commercial growth in the division, which has [ ]
+EXCLUSIVE: Nyle DiMarco has joined the recurring cast of Hulu s legal drama All s Fair for Season 2. The role he will play, which is currently under wraps, was originally written as a hearing character and is being adapted specifically for DiMarco, who is deaf. A prominent advocate for authentic deaf representation in media, DiMarco joins [ ]
 
-### Former Prince Andrew Taking Legal Action Against Police Over Epstein Files Arrest
-Mon, 05 Oct 2026 08:37:23 +0000 — https://deadline.com/2026/10/prince-andrew-legal-action-police-epstein-files-arrest-1237146498/
+### CAPE’s 35th Anniversary Gala Raises $350K As Randall Park, Manny Jacinto, The Women Of The Pitt More Celebrate
+Mon, 05 Oct 2026 20:30:00 +0000 — https://deadline.com/2026/10/capes-35th-anniversary-gala-randall-park-manny-jacinto-the-pitt-1237147042/
 
-Andrew Mountbatten-Windsor is taking legal action against the police force that arrested him earlier this year. According to The Telegraph, which broke the news, the issue revolves around the search warrants used by Thames Valley Police and its chief constable in relation to his arrest. The legality of these warrants are being challenged by Mountbatten-Windsor s [ ]
+The Coalition of Asian Pacifics in Entertainment (CAPE) celebrated 35 years of advancing Asian American and Pacific Islander representation in film, television and media Saturday night at Downtown Los Angeles’ Vibiana, honoring a group of actors, creators and executives while raising more than $350,000 to support the organization’s continued work. Presented by Lexus, CAPE’s 35th [ ]
 
-### Execs Launch IP Studio Unveil Viking Mythology Series
-Mon, 05 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/forge-films-company-launch-lost-in-hel-viking-series-1237145372/
+### David Zaslav s Farewell: Warner Bros. Discovery CEO Signs Off In Message To Staff
+Mon, 05 Oct 2026 20:29:26 +0000 — https://deadline.com/2026/10/david-zaslav-farewell-warner-bros-discovery-farewell-video-1237146919/
 
-EXCLUSIVE: A trio of executives have launched an IP studio focused on sci-fi, fantasy and horror. Antoine Disle, Orso Vesperini and Olivier Compere, who between them have made projects for Canal+, TF1 and Warner, are behind Forge Films Company, which has unveiled Viking mythlogy series Lost in Hel as first project from its slate. Forge [ ]
+David Zaslav, Warner Bros. Discovery CEO (for a few more hours, anyway) has started his goodbyes, thanking employees in a video posted Monday on the company s internal portal. “It’s been a great honor to be alongside all of you,” says Zaslav speaking to the camera from a director’s chair in the at Warner Bros. Studios’ [ ]
 
-### Brian Cox Goes Digital: Top British TV Scientist Strikes Content Deal With New Sony Studio
-Mon, 05 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/brian-cox-youtube-deal-sony-bbc-presenter-scientist-1237146484/
+### CBS Sports Chief David Berson To Expand Portfolio As TNT Sports Chief Luis Silberwasser Exits
+Mon, 05 Oct 2026 20:20:08 +0000 — https://deadline.com/2026/10/cbs-sports-david-berson-skydance-tnt-sports-merger-1237147020/
 
-EXCLUSIVE: The first partnership for Sony Pictures Television s (SPT) new digital studio was with Minecraft supremo Tom Simons AKA TommyInnit, but its second pact is in a different universe altogether. Renowned British scientist and broadcaster Brian Cox has struck a deal with SPT International Production s Digital Studio that will see the pair create his formats [ ]
+David Berson, who has led CBS Sports as president since 2024, will expand his portfolio after the close of the Paramount-Warner Bros. Discovery merger. The exec will take responsibility for sports across Skydance, the soon-to-be-umbrella over CBS and TNT Sports and their respective parents, Paramount and WBD. The $111 billion merger is due to close [ ]
 
-### Gillian Anderson Explains Confrontation With Distracting Superfans Who Sat In Front Row Of West End Show: We Can All See You
-Mon, 05 Oct 2026 07:11:04 +0000 — https://deadline.com/2026/10/gillian-anderson-confront-distracting-fans-west-end-show-1237146461/
+### Hollywood Unions Warn U.S. Film TV Production Is On The Brink In Latest Economic Report
+Mon, 05 Oct 2026 20:19:44 +0000 — https://deadline.com/2026/10/hollywood-unions-report-us-film-tv-production-decline-1237147051/
 
-Gillian Anderson has explained why she asked a group of superfans not to sit in the front row of her West End stage show, Who s Afraid of Virginia Woolf?. Anderson is performing at Soho Place Theatre and was filmed confronting audience members following a performance. In the video, posted just after midnight on Sunday morning [ ]
+Another alarm bell went off Monday on the state of U.S.-based film and television production with the release of an extensive report commissioned by several of the Hollywood unions that illustrates what industry insiders have feared for some time: After a quarter century of rapid transformation and external disruptions, U.S. film and television production is [ ]
 
-### MBC Studios Sets November 19 Release For Landmark Production ‘Traveller’s Hell’
-Mon, 05 Oct 2026 07:07:22 +0000 — https://deadline.com/2026/10/mbc-studios-november-19-release-landmark-travellers-hell-1237146471/
+### Politico Blocked From Air Force One In Latest Trump White House Effort To Punish Media Over Reporting
+Mon, 05 Oct 2026 19:57:54 +0000 — https://deadline.com/2026/10/politico-air-force-one-trump-ban-1237147029/
 
-MBC Studios has announced a November 19 theatrical release date for long-awaited psychological thriller Traveller’s Hell about a young woman who picks up a stranger on a remote road. The feature is adapted from the best-selling novel of the same name by acclaimed best-selling Saudi author Osamah Almuslim, who wrote the screenplay. The release marks [ ]
+The White House blocked Politico from traveling with Donald Trump on Air Force One on Monday for the president s trip to Nebraska. A Politico spokesperson confirmed that the publication was excluded from the out-of-town travel pool, the handful of reporters who cover the president s travel with each outlet assigned on a rotating basis. The Washington [ ]
 
-### A+E Global Media Hires Banijay Distribution Veteran Chris Stewart
-Mon, 05 Oct 2026 06:00:00 +0000 — https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/
+### Robert Kelker-Kelly Dies: Days Of Our Lives , Another World Actor Was 62
+Mon, 05 Oct 2026 19:32:25 +0000 — https://deadline.com/2026/10/robert-kelker-kelly-dead-days-of-our-lives-another-world-1237146925/
 
-EXCLUSIVE: A+E Global Media has hired international TV distribution veteran Chris Stewart. The former Banijay executive joins as VP, Content Sales, and will lead on sales in the UK, Ireland and Germany. He will be based in the UK. His hire comes a week after Deadline revealed Stewart was among those that had exited Banijay [ ]
+Robert Kelker-Kelly, known best for his role as Bo Brady on NBC soap Days Of Our Lives and for his work on Another World, died October 3 at his home in St. Peters, Missouri. He was 62. St. Peters police officers responded to his home at around 8:16 p.m. for a report of an unconscious [ ]
 
-### Lanterns Team Discusses How Theme Of Fear Played Part In Season Finale, Remixing The Oath And The Fate Of Earl
-Mon, 05 Oct 2026 02:01:00 +0000 — https://deadline.com/2026/10/lanterns-season-one-finale-recap-1237144840/
+### Sam Esmail And His Production Company Esmail Corp Sign With WME
+Mon, 05 Oct 2026 19:27:29 +0000 — https://deadline.com/2026/10/sam-esmail-wme-1237147026/
 
-SPOILER ALERT: This story contains details of the Season 1 finale of Lanterns on HBO. Are you afraid? In Sunday night s Season 1 finale of Lanterns, John Stewart (Aaron Pierre) finally found the answer and his destiny as he spoke the words audiences have been waiting all season to hear. Not only did Stewart accept [ ]
+WME has signed acclaimed writer, director and producer Sam Esmail and his company Esmail Corp for representation in all areas. Esmail is best known as the creator of USA Network’s Mr. Robot, which ran for four seasons from 2015 to 2019. Esmail served as writer, director and executive producer on the series, which won the [ ]
 
-### Reggie McFadden Dies: In Living Color Comedian Was 57
-Mon, 05 Oct 2026 01:55:49 +0000 — https://deadline.com/2026/10/reggie-mcfadden-dies-in-living-color-comedian-1237146391/
+### Amazon Hires Three Netflix Business Affairs Execs As It Moves To Genre-Based Model
+Mon, 05 Oct 2026 19:25:40 +0000 — https://deadline.com/2026/10/amazon-hires-three-netflix-business-affairs-execs-genre-1237147017/
 
-Reggie McFadden, best known for his run on In Living Color, has died. He was 57. His sister, Bernice McFadden, confirmed his death to The Hollywood Reporter. She said the U.S. State Department notified the family that he died in Tanzania, where he had been living for several years. A cause of death is not [ ]
+EXCLUSIVE: Amazon has instituted a significant shift in the way its film and TV business affairs division operates and has hired three executives from rival Netflix as part of the move. The streamer has hired Diana Bernstein, Chris Carter and Matt Rea from Netflix, each of whom have worked there for over a decade. It [ ]
 
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### After the Digger Disaster, What Should Tom Cruise Do Next?
+Mon, 05 Oct 2026 20:50:00 +0000 — https://www.indiewire.com/features/commentary/digger-box-office-disaster-tom-cruise-career-next-steps-1235220265/
+
+Alejandro González Iñárritu's audacious satire is shaping up to be one of Hollywood's all-time bombs. For a star like Cruise, that's not a career death sentence — but his next moves matter. We've got some suggestions.
+
+### Skweezy Jibbs Makes a Movie : How I Turned a TikTok Comedy Character Into an Indie Film That Toured 60 Cities
+Mon, 05 Oct 2026 20:30:00 +0000 — https://www.indiewire.com/features/commentary/skweezy-jibbs-makes-a-movie-op-ed-1235220271/
+
+Comedian Tim Savage explains how he turned his online alter-ego Skweezy Jibbs into an indie film success story.
+
+### Emily Blunt Returning for Third Sicario Movie Alongside Josh Brolin and Benicio Del Toro
+Mon, 05 Oct 2026 20:19:15 +0000 — https://www.indiewire.com/news/breaking-news/emily-blunt-returning-sicario-3-1235220252/
+
+"The Weight" director Padraic McKinley is taking on the drug war franchise that dates back to 2015.
+
+### What Can’t Be Mentioned Review: Dan Sallitt Returns with a Sequel to His Beloved Incest Drama The Unspeakable Act
+Mon, 05 Oct 2026 14:45:55 +0000 — https://www.indiewire.com/criticism/movies/what-cant-be-mentioned-movie-review-dan-sallitt-1235220230/
+
+Tallie Mendel reprises their role as Jackie, whose feelings for her older brother reignite when she learns that he expects a child.
+
+### John Turturro on Only Living Pickpocket, Wishing the Coen Brothers Would Reunite and Why Hollywood Ignores the Working Class
+Mon, 05 Oct 2026 14:20:00 +0000 — https://www.indiewire.com/awards/consider-this/john-turturro-only-living-pickpocket-coen-brothers-reunite-oscar-buzz-1235220118/
+
+Turturro also steals the show in Tom McCarthy's "A Statement," which premiered at the New York Film Festival.
+
+### Manhood Trailer: The World of Penis Enlargement Gets a Bizarre and Sensitive Documentary
+Mon, 05 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/news/trailers/manhood-trailer-penis-enlargement-doc-1235220225/
+
+Exclusive: Director Daniel Lombroso's 2026 SXSW premiere understands the humor inherent to male insecurity.
 
 ### Kyle Chandler, Aaron Pierre, and the Lanterns Creators on a Quieter Finale, Ending with Love, and the New Oath
 Mon, 05 Oct 2026 02:05:00 +0000 — https://www.indiewire.com/features/interviews/kyle-chandler-aaron-pierre-explain-lanterns-finale-new-oath-1235220126/
@@ -204,105 +234,105 @@ New York Film Festival: The Oscar-winning writer/director turns his spotlight on
 
 ## The Wrap
 
-### ‘Lanterns’ Finale Review: HBO’s Epic DC Drama Ends on a Quiet but Promising Note
-Mon, 05 Oct 2026 02:05:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-8-review-hbo-dc/
+### Megyn Kelly Slams Deeply Immoral Lack of Due Process in Cornell Rape Investigation
+Mon, 05 Oct 2026 21:16:13 +0000 — https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-cornell-rape-case-due-process/
 
-Note: This story contains spoilers from “Lanterns” Episode 8. After belatedly coming through with some apocalyptic action and awesome other worlds, “Lanterns” powered down for its finale. Characters and their issues — which it could be said had already eaten up too much time for a superhero show — sauntered toward resolution with very little slam-banging deemed necessary. Maybe it wasn’t. HBO’s DC Comics adaptation has gotten quite a bit of well-written and -acted mileage out of the contentious relationship between magic ring-slinging space cop Hal Jordan (Kyle Chandler) and his Green Lantern trainee John Stewart (Aaron Pierre), not to mention each man’s complicated backstory. Add in the endless compromises that Kelly Macdonald’s smalltown sheriff Kerry Kane has to make and you’ve got loads of decent behavior-based drama. Which is informed by the show’s science fiction elements, yet tends to distract from rather than mesh with them. Episode 8 added a couple of good (if, in hindsight, obvious) twists along its way to the lead trio’s catharses. Some lame sentimentality came with all the closure, especially in John’s case, but in the end it was satisfying enough. The most rewarding new wrinkle was teenage Noah (Shea Pritchard) turning out to be part killer alien Manhunter — and suicidally conflicted about it. Pritchard played it beautifully, balancing menace with self-examination and keeping Noah’s angst under the lad’s quarterback control. I wouldn’t mind seeing a future series
+Megyn Kelly is calling out what she sees as a lack of due process when it comes to Cornell s Chi Phi fraternity brothers amid their Jane Doe gang rape investigation. On Monday s episode of The Megyn Kelly Show, the host suggested the public has already made up its mind regarding the seven men named after a former student filed a civil suit claiming she was drugged, assaulted and gang-raped by them in 2024. These young men have had their names plastered all over every major newscast in America for a week now, Kelly said. The mob has decided they re guilty and ought to be put to death, which is literally what we are hearing in several circles online without a trial, without a due process chance to defend themselves. Not in a kangaroo court on a college campus, which is a joke, but in an actual court, either civil or now it s looking more and more likely criminal. She added: This is deeply immoral. There are two sides to every story. You don’t know, and I don’t know what happened inside of Cornell that night. We know that there’s been a story told by Jane Doe. We know that from her own story, the DA – a Democrat – said there’s no case here… And we know it took her two years to file a civil suit… Now her lawyers are all over the television, ripping on the DA. Kelly is not the only news personality to question the due process of the case. The View co-host Sunny Hostin also spoke out wondering if the men s names should not be going up across a number of news networks. “The pictures
 
-### Lanterns Team Breaks Down HBO Drama s Surprising Murder Reveal and John s Destiny
-Mon, 05 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-ending-interview-creators-aaron-pierre-kyle-chandler/
+### CBS Sports Chief David Berson to Lead TNT Sports as Luis Silberwasser Exits
+Mon, 05 Oct 2026 21:03:34 +0000 — https://www.thewrap.com/media-platforms/tv/david-berson-tnt-sports-luis-silberwasser-skydance/
 
-Note: This story contains spoilers from Lanterns Episode 8. In brightest day, in darkest night, I ll embrace my fear. I ll do what s right. I choose this ring. I choose this fight, in service to this lantern s light. With these words, Lanterns concludes the same way it began: by carving its own path. As Aaron Pierre s John Stewart finally takes up the power ring to become Earth s (and only Earth s) Green Lantern, he recites his own oath, eschewing the words typically uttered by Oa s intergalactic law force — an iconic stanza most every DC fan knows by heart. What we see at the end is that John is not 100% a Green Lantern anymore. He has a Lantern that has a bit of yellow in it, has a bit of fear in it, said series co-creator Tom King at a Lanterns press conference Friday. It’s an unsanctioned Lantern, as Guy says. He’s not saying the same oath as every other Green Lantern because he’s not like every other Green Lantern. Changes like this characterized much of the DC show, which introduced Green Lanterns John Stewart and Hal Jordan (Kyle Chandler) to the James Gunn-helmed DCU. It was a show filled with big swings, including the death of Hal Jordan — who definitively was not resurrected at the end of the season — and an update to both Hal s and John s origins. John’s path was not the normal path, showrunner and co-creator Chris Mundy said. The ring didn’t choose him, He was interviewed. He was raised for it. He was having to choose this thing, then he decided not to do it, and 
+CBS Sports president and CEO David Berson will reportedly lead Skydance’s global sports business following its acquisition of Warner Bros. Discovery, while TNT Sports chairman and CEO Luis Silberwasser will exit the company. Berson’s expanded remit will give him control of a sprawling sports rights portfolio stretching from the NFL and March Madness to the NHL, Major League Baseball, NASCAR, the French Open and the Masters. The new structure also puts CBS and TNT Sports — longtime partners on the NCAA men’s basketball tournament — under the same corporate roof. The newly formed global sports group will oversee all networks, platforms and territories, with CBS Sports, TNT Sports and WBD Sports rolling into the organization, CNBC reported Monday . Silberwasser, who has led TNT Sports since 2022, informed employees Monday that he would leave as the Paramount Skydance-Warner Bros. Discovery merger closes. His departure is among the executive changes taking shape as Skydance establishes the leadership structure for the enlarged company. Berson has served as president and CEO of CBS Sports since 2024, when he succeeded longtime chairman Sean McManus. He joined CBS Sports in 2011 and previously spent more than a decade as president of the division. Silberwasser joined TNT Sports in 2022 and helped rebuild its rights portfolio after Warner Bros. Discovery lost the NBA beginning with the 2025-26 season . During his tenure, TNT Sports added sublicensed College Football Playoff games an
 
-### Lanterns Finale Explained: Who Killed Hal Jordan?
-Mon, 05 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/lanterns-episode-8-ending-explained-who-killed-hal-jordan/
+### 5 New Shows to Stream This Week on Prime Video, Hulu, and More
+Mon, 05 Oct 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/new-shows-to-stream-this-week-oct-5-11/
 
-Note: This story contains spoilers from Lanterns Episode 8. The Lanterns finale finally got to the show s biggest question — who killed Hal Jordan? The very first episode of the HBO series ended with the reveal that the Hal Jordan of 2026 had been shot in the head in the bleachers of the Rushville football field. The question of who killed Hal, and if he was really dead at all, loomed large over the entire season. In classic finale fashion, that question was finally answered and Hal s ultimate fate was revealed. So here s who killed Hal Jordan, what became of the killer, and where John Stewart goes after solving his mentor s murder. Who killed Hal? The finale opens with the reveal of what happened to Hal following his fight with John in 2016 and then jumps a decade to Kerry being there when he is released from prison. We then get quick cuts to them back and living in Rushville while dating — secretly and then openly despite the town still hating the former Green Lantern. Before Hal can attend one of Noah s football games with Kerry, Hal s home is molotov-ed, and it is implied he dies there. But fear (get it?) not, he reawakens on the floor of the Macon slaughterhouse having been brought back by Noah. The theories were true, Noah is indeed the true last Manhunter. He commissioned Sinestro in secret to build him a lantern for a ring and has been grappling with his own nature/nurture questions. Noah lets him go and tells him just to drop it and Hal confronts Kerry about it. She 
+It s a busy, busy week when it comes to TV premieres, but these are the ones to really dial in on. A pair of the biggest shows of the month make their debut this week – Mike Flanagan s TV adaptation of Carrie and the latest series in the Avatar franchise – but that doesn t mean there are not a few tried-and-true favorites making their return. The Fall TV season is in full swing now, and picking and choosing what to watch and when is crucial. Here are the new shows to stream this week on Prime Video, Hulu, Paramount+ and more. Joe Miñoso in Chicago Fire. (Peter Gordon/NBC) One Chicago Shows Streaming on: Peacock It s a big week for broadcast TV premieres , but one of the largest is the return of the entire One Chicago universe on Wednesday. Chicago Fire, Chicago P.D., and Chicago Med all return to NBC to continue their respective seasons and build toward the yearly crossover. Whether you dial in for just one or are a diehard of the entire universe, your Wednesday nights are about to be completely booked and busy. Quinta Brunson in Abbott Elementary. (Disney/Gilles Mingasson) Abbott Elementary Streaming on: Hulu The award-winning ABC comedy returns for Season 6 on Wednesday and picks up the many dangling threads from Season 5. The school managed to survive closure, but now Gregory and Ava have to navigate their duties as co-principals of Abbott Elementary. He ll have to juggle the new work responsibilities with his and Janine s growing relationship as things get even more serio
 
-### ‘Marshals’ Boss Explains Season 2’s Tragic Start and Kayce’s Biggest Fear
-Mon, 05 Oct 2026 01:53:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/marshals-season-2-premiere-dolly-death/
+### David Zaslav Urges WB Staff to Move Forward as He Bids Farewell Ahead of Paramount Merger Closing
+Mon, 05 Oct 2026 20:19:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/david-zaslav-bids-farewell-warner-bros-paramount-merger/
 
-This story contains spoilers for “Marshals” Season 2, Episode 1. “Marshals” had a lot of loose ends to address after the Season 1 finale, and of course the Season 2 premiere chose the path of tragic resistance. Sunday’s premiere, titled “All Hat No Cattle,” followed the immediate aftermath of Kayce (Luke Grimes) being betrayed by Tom Weaver (Chris Mulkey) and threatening to kill Tate (Brecken Merrill) if Kayce didn’t sell him his land. Caught in the middle was Tom’s daughter Dolly (Ellyn Jameson), who had started a flirtatious relationship with Kayce and was with him when he was ambushed by her father’s goons. “I had thought throughout last season that Dolly was always in on it — in my mind at least — so when we finished production last year, she was much guiltier than she actually turned out to be,” showrunner Spencer Hudnut told TheWrap, adding that her being in the dark of her father’s plan made her fate all the more tragic. After using Dolly as leverage to secure a meeting with Tom, and him further betraying his own promises, Kayce was able to rescue his son from the brink of death. Tom and Dolly weren’t so lucky, as they drove off a cliff while running from Kayce. Dolly ended up dead. Ellyn Jameson in Marshals. (Gilles Mingasson/CBS) This Sunday kicks off another 20-episode adventure for the “Yellowstone” spinoff, which is also gearing up to be a big season for Tate — who, after being rescued, reminded his father that he’s about to turn 18 and is ready to be more involve
+Soon to be former Warner Bros. Discovery chief David Zaslav said goodbye to staffers in a video message on the eve of the company s merger with Paramount Skydance. “For me, it’s been a great honor to be alongside all of you. I hope you take pride in what you’ve built, what you’ve created and the role you’ve played in shaping an extraordinary history,” Zaslav said in the video, according to a transcript shared in the media. “I can’t wait to see what you do in the years ahead. I’m so grateful for all these years at Warner Bros. Discovery,” he added. Zaslav is expected to leave the company once the deal closes. As TheWrap has previously reported , Zaslav is eligible to receive at least $551.5 million in compensation under the media giant’s pending $110 billion merger with Paramount Skydance, according to a SEC filing. The total package includes $34,219,178 in cash, $517,204,781 in equity, $44,195 in “perquisites and benefits.” The cash component includes $6 million in salary severance and $28.2 million in bonus severance. Meanwhile, the equity component includes $443,131,800 in options, 60,867,415 in restricted stock units and 13,205,566 in performance-based restricted stock units. Additionally, Zaslav is eligible to receive a tax reimbursement, though the actual amount will “significantly decline with the passage of time” under IRS rules depending on when the deal closes. Here’s a transcript of Zaslav’s farewell message: Hello, everyone. I’m here in the scenic Loft on the Warne
 
-### Tracker Release Schedule: When Do New Episodes Air?
-Mon, 05 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/industry-news/business/tracker-release-schedule-cbs/
+### Why Lanterns Is the Best Hal Jordan Has Ever Been Appreciation
+Mon, 05 Oct 2026 19:34:08 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-hal-jordan-kyle-chandler-appreciation/
 
-Justin Hartley returns as Colter Shaw, a skilled tracker and lone-wolf survivalist, when Tracker heads back to CBS this fall. Season 4 will kick off as Colter’s search for a teenage boy’s missing father leads him to a dangerous criminal operation at the Port of Los Angeles, per the official logline for the season opener. Get all the details on Tracker below. When does “Tracker Season 4 premiere? The fourth season debuts Sunday, Oct. 4 at 9:30 p.m. ET/9 p.m. PT on CBS. What time do new episodes air? The Season 4 premiere airs at 9:30 p.m. ET/9 p.m. PT, but future episodes air at 9 p.m. ET/PT on CBS. Where are the episodes streaming? Tracker is available to stream on Paramount+, but how soon you can stream it depends on your subscription tier. Paramount+ premium plan subscribers can watch Tracker live and on demand immediately as the episode drops on CBS, but Paramount+ essential subscribers will have to wait until the day after the episode airs, so in this case, on Monday. When are new episodes coming out? New episodes of Tracker drop Sundays on CBS. Here s the release schedule so far: Season 4 Episode 1: Safe Harbor — Oct. 4 Season 4 Episode 2: Switchback — Oct. 11 Season 4 Episode 1: Original Parts — Oct. 18 Has “Tracker” been renewed for Season 5? Not yet, but the series has been a hit for CBS year after year, so its odds are looking good. Who stars in Tracker? In addition to Hartley, Tracker stars Fiona Rene as Renee Green and Chris Lee as Randy. The post Tracker Release S
+Warning: Spoilers ahead! Hal Jordan has never been my favorite Green Lantern. Don’t get me wrong: I love the character, as evidenced by the Geoff Johns and Dennis O’Neil trades sitting on my bookshelf. But I never connected with him on the same level as some others who took up the mantle, your Kyle Rayners, Jessica Cruzes and, yes, John Stewarts of the world. He was never my guy. I guess I always just felt a bit removed from Hal. In most of my favorite stories featuring the character, he largely felt like an emblem, the living embodiment of will, courage made manifest and sent to watch over the worlds of Sector 2814. His cockiness and charm made him fun to read, but they never let me get in close. That is, until Kyle Chandler put on the ring. While many were thrilled by this perfect marriage of actor and character, Chandler’s casting also gave some diehard fans pause. I think that’s fair. He is — I hope he doesn’t mind me saying — a bit old for the part as most comic readers would imagine it. Before the show released, it became clear that Aaron Pierre’s John Stewart (another incredible performance) was the one who was in it for the long haul, flying into theaters next summer with “ Man of Tomorrow .” Many of Hal Jordan’s greatest adventures, if they happened at all, occurred before his “ Lanterns ” journey. Kyle Chandler in Lanterns (Credit: John Johnson/HBO Max) I knew Chandler would be a good fit for the part, but I still remember watching Hal’s scheme at the bar during the
 
-### Trump Lashes Out at Fox News for Not Covering His Ohio Rally: Who Makes These Decisions?
-Sun, 04 Oct 2026 23:56:33 +0000 — https://www.thewrap.com/media-platforms/tv/trump-lashes-out-fox-news-not-covering-rally/
+### Mark Ruffalo Threatens to Hulk Out While Torching Trump Over Voter Rights
+Mon, 05 Oct 2026 19:20:27 +0000 — https://www.thewrap.com/media-platforms/politics/mark-ruffalo-hulk-out-trump-voter-rights/
 
-President Donald Trump lashed out at Fox News on Sunday, claiming that the network lacked coverage of his Saturday rally in Vandalia, Ohio. Trump posted on his social media platform Truth Social at 9:11 a.m. ET on Sunday, roughly three hours into the day s morning broadcast of Fox & Friends. In his post, Trump, a regular Fox News viewer and even occasional call-in guest, called out the program for not adequately covering his rally from the evening before. Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days, Trump wrote on Truth Social. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at Fox News! Other networks are reporting about these Rallies, and really positively, like crazy! Our people want to see our Rallies, and reports on our Rallies, on Fox News, or they will very quickly stop watching (like I am doing right now!). Trump went on to call out Fox News contributor Jessica Tarlov, a Democratic Party strategist, as stupid and slamming the network for having her forced down MAGA S throats. Who makes these decisions at Fox News? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover TRUMP,' Trump continued. Cover our happenings, and not the opposition to Grea
+Mark Ruffalo invoked his alter ego, The Incredible Hulk, while slamming Donald Trump over attempts to meddle with voter rights. While speaking at the Hands Off Our Vote rally on Sunday, the MCU star gave an impassioned speech decrying the president and his attempts to suppress voters heading into the midterm elections in November. We gotta get this dumbass, fool ass, tired ass, lame ass, duck ass out of office,” Ruffalo said. “We got to make him a lame duck! We have to stop his policies now. Another two years of this, and who knows what he’ll be doing? Ruffalo: Hands off our fucking vote. I’m gonna Hulk out. You won’t like me when I’m angry. Hey, I’m still here. They thought I was out for the count. I’m still here. I’m still playing the Hulk. pic.twitter.com/5qyxUBPlWG &mdash; Acyn (@Acyn) October 4, 2026 He added: “They’re going to try and stop us from taking our country back, and we’re not going to let ’em. Trump, we’re not letting you! Hands off our f king vote! One person from the crowd yelled to the MCU star you tell them, Hulk which got a laugh from Ruffalo before he leaned into the bit. “I’m gonna Hulk out. You won’t like me when I’m angry, he said. Hey, I’m still here. They thought I was out for the count — I’m still here, I’m still playing the Hulk.” Much of Ruffalo s speech centered on Trump s repeated attempts to stifle mail-in voting before the election. Time and again the president has cited it as a form of voter fraud despite there being no proof to the claim. T
 
-### Marshals Season 2 Release Schedule: When Do New Episodes Air?
-Sun, 04 Oct 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/marshals-season-2-release-date-time-epiosdes-schedule/
+### Hollywood Spends More Than Half of Its Film Budgets Outside the US, Union Study Shows
+Mon, 05 Oct 2026 19:00:31 +0000 — https://www.thewrap.com/industry-news/labor-unions/united-states-film-production-decline-study/
 
-The new season of Marshals is finally back and picking up after the freshman finale cliffhanger. Marshals Season 2 hits the ground running with Kayce on the move to try to get back his kidnapped son. On top of the breakneck pace of the sophomore season, it also boasts the return of one of the fan-favorite Yellowstone characters. For fans who have been missing Jimmy, you have much to look forward to when the CBS hit starts airing again. Here s everything you need to know about where and when to tune in for the second season of CBS Marshals. When is the Marshals Season 2 premiere date? Marshals Season 2 premieres on Sunday, Oct. 4, at 8:30 ET/7:30 CT. Where can I watch Marshals Season 2? Marshals premieres on Sunday nights on CBS and streams on Paramount+ the next day. Are episodes released weekly or all at once? The second season of Marshals has a weekly release as most of the Yellowstone spinoffs do. Here is the full rundown of when to expect episodes from the first half of the season: Episode 1 Oct. 4 Episode 2 Oct. 11 Episode 3 Oct. 18 Episode 4 Oct. 25 Episode 5 Nov. 1 Episode 6 Nov. 8 Episode 7 Nov. 15 Episode 8 Nov. 22 Those are the release dates for the first half of the season. The dates for episodes 9-18 have yet to be announced but they ll be landing in 2027. What is Marshals Season 2 about? The second season of the Yellowstone picks up right after the Season 1 cliffhanger. Kayce is forced to go rogue from the marshal service to go after his son Tate who has been tak
+Major Hollywood studios have gone from spending 72% of its production budgets within the United States at the end of the 20th century to spending more than half of that budget outside of the country, according to a new study commissioned by the entertainment industry s major unions. The study conducted by Ernst & Young surveyed film and television production spending from major American studios from 1999 to 2024 for movies with budgets of at least $5 million and TV shows with budgets of at least $1 million per episode. For film productions, the study found that over the quarter-century span surveyed: The share of production spending on movies filmed partially or primarily in the U.S. declined from 74% to 42% (a 32 percentage-point decrease). The share of films by major U.S. studios on movies filmed partially or primarily in the U.S. declined from 66% to 54%. The share of cast and crew working on movies filmed partially or primarily in the U.S. declined from 72% to 43%. The share of production spending in the U.S. among the 25 highest-budget films by major U.S. studios declined by 40%. On the TV side, the study found: The share of production spending on television episodes filmed partially or primarily in the U.S. declined from 94% to 64%. The share of television episodes by major U.S. studios filmed partially or primarily in the U.S. declined from 96% to 70%. The share of cast and crew working on television episodes filmed partially or primarily in the U.S. declined from 86% 
 
-### James Gunn Is Already Writing His Next Film After Superman Sequel
-Sun, 04 Oct 2026 22:08:14 +0000 — https://www.thewrap.com/creative-content/movies/james-gunn-already-writing-next-film/
+### CAA Welcomes New Chief Operating Officer Dasha Smith
+Mon, 05 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/industry-news/business/caa-chief-operating-officer-dasha-smith/
 
-While James Gunn tinkers away on his Superman sequel Man of Tomorrow, the writer-director is already at work on his next film. Already in it, Gunn wrote Sunday on Threads when asked if he was writing his next feature. I had to do something while I was waiting for the assembly!! The filmmaker wrapped principal photography on his follow-up to Superman in August and is now deep into the post-production process. The follow-up, which sees David Corenswet return to star in a story that will see the DC Comics superhero forced to team up with his adversary Lex Luthor (Nicholas Hoult), is set to release on July 9. The sequel will also star Adria Arjona in a mysterious role and sees the return of cast members like Rachel Brosnahan, Skyler Gisondo and Edi Gathegi, as well as Aaron Pierre, who recently debuted as the superpowered John Stewart in HBO Max s Lanterns. What comes after Man of Tomorrow for Gunn is anyone s guess, though the project will likely stay within the DC Comics universe that kicked off with Superman. Gunn, a co-chairman of DC Studios with Peter Safran, is spearheading a new cinematic universe featuring DC characters across film and television. Both execs are set to remain at the helm of the banner as its parent company, Warner Bros. Discovery, is set to be acquired by Paramount-Skydance in a landmark $111 billion deal later this week. Since Superman successfully launched with $618 million at the global box office, the DC Universe s follow-up, Supergirl, bombed with $1
+Dasha Smith has joined CAA as Chief Operating Officer, the agency announced Monday. Smith most recently served as Executive Vice President, Chief Administrative Officer at the National Football League. “Dasha is a remarkably talented, accomplished and energetic leader with a deep understanding of how global organizations operate at their very best,” CAA co-chairman and CEO Bryan Lourd shared in a statement. “We look forward to welcoming her to our senior management team and benefiting from her significant experience helping to guide leading media and sports organizations.” “I have tremendous respect for the industry leadership position that CAA and its management team continue to build on every year,” Smith added. “Even greater is my appreciation for its widely admired, consistent mission to deliver the best possible service and resources to its clients. Joining a culture with that kind of clarity and purpose is an extraordinary opportunity.” At the NFL, where she was a member of Commissioner Roger Goodell’s Executive Operating Committee, Smith helped shape the league’s enterprise strategy and oversaw a broad portfolio of business functions, including technology, AI and innovation, data and analytics, strategy and business intelligence, human resources, inclusion, social responsibility and philanthropy, and league office administration. Previously, she was Executive Vice President, Global Chief Human Resources Officer for Sony Music Entertainment; and Managing Director, Offic
 
-### The 3 Best New Movies to Watch on Hulu This Week
-Sun, 04 Oct 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-hulu-oct-4-10/
+### White House Blocks Politico From Air Force One Pool Assignment
+Mon, 05 Oct 2026 18:55:07 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-white-house-blocks-politico-air-force-one-press-pool/
 
-A wide array of new movies have arrived on Hulu this month, including the 2022 hit film that announced Resident Evil director Zach Cregger as one of the horror genre s most exciting new voices. The streamer s other October additions include Frankenstein director Guillermo del Toro s most underrated film and a body horror comedy starring Demi Moore and Margaret Qualley that already feels just two years after its release like a contemporary genre classic. Here are the three best movies new to Hulu you can watch this week. Barbarian (20th Century Studios) Barbarian (2022) Writer-director Zach Cregger took the horror world by storm with Barbarian. The film, an alternately terrifying and gut-bustingly funny horror comedy, was obviously and lovingly made in the shadow of genre artists like Sam Raimi, and yet it stands on its own. Barbarian follows a woman (Georgina Campbell) whose life takes an increasingly horrifying turn after she discovers the Airbnb she reserved was not only double-booked by a mysterious man (Bill Skarsgård) but also contains a strange and dangerous secret. To say much more would be to spoil the fun of a movie that, in the best way possible, takes you on the kind of rollercoaster ride the specifics of which you could never see coming. Bradley Cooper in Nightmare Alley (Searchlight Pictures) Nightmare Alley (2021) Four years after his 2017 film The Shape of Water won Best Picture and Best Director at the Oscars, writer-director Guillermo del Toro returned with N
+The White House blocked Politico from traveling aboard Air Force One on Monday, preventing the outlet from carrying out its scheduled duties in the presidential press pool amid an ongoing legal fight with the Trump administration. Politico was set to serve as the out-of-town print pool reporter for President Donald Trump’s trip to Nebraska, but was excluded from the traveling press group, a spokesperson for the outlet confirmed to TheWrap. The exclusion underscores the limits of the outlets’ recent court victory: CNN, MS NOW and Politico regained access to the White House grounds last month, but the administration has continued restricting their participation in limited-capacity presidential events, including on Air Force One. The White House repeatedly blocked CNN from Air Force One when the network was scheduled to serve as the television pool representative. Trump announced last month that he was barring the three outlets from the White House , prompting CNN, MS NOW and Politico to sue the administration. U.S. District Judge Timothy Kelly subsequently ordered the White House to restore the outlets’ press credentials. The three organizations regained access to the White House grounds hours after the ruling following another court standoff. The temporary order applies to access to the White House complex, while the administration has argued that it does not extend to limited-capacity spaces such as Air Force One or the Oval Office. “The judge basically ordered them to renew 
 
-### Bassam Tariq Defends Kevin Feige After Their Failed Blade Reboot: Competing With Wesley Snipes Was an Impossible Task
-Sun, 04 Oct 2026 20:35:18 +0000 — https://www.thewrap.com/creative-content/movies/blade-director-bassam-tariq-defends-kevin-feige/
+### Tulsa King Renewed for Season 5 Ahead of Season 4 Premiere on Paramount+
+Mon, 05 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/tulsa-king-renewed-season-5-paramount-plus/
 
-Your Mother Your Mother Your Mother writer-director Bassam Tariq teamed with Mahershala Ali on the original action thriller after the pair s effort to launch a Blade reboot for the Marvel Cinematic Universe fell apart. While the troubled project never came to fruition, Tariq still defended Marvel Studios chief Kevin Feige. I want to be clear: I like Kevin, Tariq told Vulture in an interview published Friday. He’s a good dude. I really dislike all this s t about like, Marvel fumbled this. F k Kevin Feige. No, man. He’s got a lot on his plate, too much. And I think we also had this impossible task of trying to compete with the first superhero movie, which is Wesley Snipes’s iconic Blade. It’s really such a massive undertaking in a way that affected so many people. Ali was announced as the lead of a Blade reboot at Marvel Studios Comic-Con panel in 2019, taking on the role of the vampire-slaying superhero that Wesley Snipes first played through a trilogy of features from 1998 to 2004. But the film never emerged from development, with Tariq joining in 2021 before departing in 2022. The unproduced feature went through another director, Yann Demange; set and delayed several release dates; and attached names like Delroy Lindo, Aaron Pierre and Mia Goth. But the project has been all but nixed at Marvel Studios. Snipes even returned to play Blade before Ali ever got to play the role on screen, with the former franchise star making a cameo in 2024 s Deadpool & Wolverine. Ali has been f
+Ahead of its Season 4 premiere on Oct. 16, Tulsa King has been renewed for Season 5 at Paramount+. Production is underway on this upcoming season and has been moved from Atlanta to New York to coincide with a Season 5 storyline that involves Dwight The General Manfredi (Sylvester Stallone) returning to his mafia roots. Season 5 will also include some cast changes. Scarlet Rose Stallone, known for playing Spencer, has been promoted to a series regular. Other actors in the Season 5 main cast include Erik Palladino ( I Play Rocky ), Glenn Fleshler ( Billions ), Anthony Skordi ( The Last Frontier ) and Nickola Shreli ( Power Book IV: Force ). We are thrilled to bring fans even more of this incredible series and to be shooting the next season of Tulsa King in New York, where Dwight Manfredi’s story will continue to evolve, Drew Brown, executive vice president of Physical Production for Paramount Television Studios, said in a Monday statement. We’re proud of the work we’ve done in Georgia, and it remains an important venue for us. The fourth season of the Paramount+ drama follows Dwight as he fights to legitimize his empire and protect his crew against corrupt politicians and new enemies while struggling with a personal loss. In addition to Stallone, Tulsa King Season 4 stars Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra, Chris Caldovino, McKenna Quigley Harrington, Frank Grillo, Mike Cash Flo Walden, James Russo, Kevin Pollak and Neal McDonough, along with Garrett Hedl
 
 ## Collider
 
-### The 10 Best Fantasy Movies of All Time, Ranked According to the AFI
-Mon, 05 Oct 2026 11:38:12 GMT — https://collider.com/best-fantasy-movies-all-time-ranked-afi/
+### Prime Video Could Revive ’Spider-Man’s Most Controversial Comic Into a Live-Action Series
+Mon, 05 Oct 2026 21:22:11 GMT — https://collider.com/prime-video-spider-man-clone-saga-controversial-comic-history-second-chance/
 
-Fantasy movies are some of the film business's most reliable efforts. From epic franchises like The Lord of the Rings to classics like The Wizard of Oz , fantasy movies are crucial to Hollywood's fabric, providing audiences with dazzling adventures that defy conventions and expectations, and invite imaginations to soar.
+Although Spider-Noir may have lasted only a single season, Prime Video isn't leaving the Spider-Verse behind. News broke last week that the streamer is developing a new Spider-Man series from Kelvin Yu ( American Born Chinese ), as part of a deal between Amazon MGM Studios and Sony Pictures Television to develop series based on Marvel Comics characters. The Spider-Men at the center of this new series are raising eyebrows, as a report from Deadline revealed that the series draws on the infamous Clone Saga storyline in the Spider-Man comics, focusing on Peter Parker's clones, Ben Reilly and Kaine Parker.
 
-### The 5 Greatest Fantasy Movies That You Haven't Seen
-Mon, 05 Oct 2026 11:32:12 GMT — https://collider.com/best-fantasy-movies-you-have-not-seen/
+### Captain America Star Confirms 'Avengers: Doomsday' Fate
+Mon, 05 Oct 2026 21:16:14 GMT — https://collider.com/anthony-mackie-avengers-doomsday-captain-america-filming-secret-wars/
 
-Fantasy is rich with memorable movies, TV shows, books, and even songs. Indeed, as a genre that dates back to the most ancient times and has inspired some of the most memorable works of art in our collective history, it's practically bursting at the seams with choices. In the movies department, particularly, fantasy has plenty of juggernauts, universally loved movies that almost everyone knows, loves, and has watched at least once in their lives.
+Marvel created a ton of questions about its next big crossover event when the first teasers for Avengers: Doomsday rolled out back in December and confirmed Chris Evans ' return to the MCU. The franchise has since passed the shield to Anthony Mackie 's Sam Wilson, who even got his own movie last year in Captain America: Brave New World , while Steve Rogers got to live the life he missed out on with Peggy Carter. Making matters more curious is the shot showing the former Sentinel of Liberty holding a child in his hands. This won't be a brief stay for the seasoned Avenger, as Evans himself has confirmed he'll be in the sequel, Avengers: Secret Wars , next year to some degree, but his successor's fate has been a bit more up in the air.
 
-### 8 Movies To Watch if You Like 'The Love Hypothesis'
-Mon, 05 Oct 2026 11:20:11 GMT — https://collider.com/movies-like-the-love-hypothesis/
+### 8 Marvel Films That Are Perfect From Start to Finish
+Mon, 05 Oct 2026 21:08:12 GMT — https://collider.com/marvel-films-perfect-start-to-finish/
 
-If you loved The Love Hypothesis , chances are you're here for more than just a cute love story. Ali Hazelwood's bestselling novel has all the ingredients of an irresistible romcom: forced proximity, a brooding leading man, a sunshine heroine focused on her career, and a fake-relationship that becomes considerably more complicated as the characters start catching real feelings. Thankfully, Hollywood has been mining that particular formula for decades.
+If there's one thing that's true, it's that when the 2000s came along, Marvel Comics characters took control of the superhero corner of cinema and never let go. For the most part, Marvel heroes have been on top for quite some time now. Whether a film is from the likes of the Marvel Cinematic Universe, 20th Century Fox, or Sony Pictures Entertainment, these heroes stay on top of the game. It's one thing to say this, but the proof of it is in the pudding—aka the quality of the majority of movies they've released.
 
-### 5 Scary New Books To Read for Spooky Season in 2026
-Mon, 05 Oct 2026 10:49:12 GMT — https://collider.com/scary-new-books-to-read-for-spooky-season-in-2026/
+### The Fate of Stephen Colbert's New 'Lord of the Rings' Movie Is Officially Sealed
+Mon, 05 Oct 2026 21:01:12 GMT — https://collider.com/stephen-colbert-lord-of-the-rings-shadow-of-the-past-still-in-development/
 
-Horror and thriller stories are having a moment this year. Perhaps it’s the fact that we’ve all survived a pandemic, or that global events often feel stranger than fiction. Either way, there’s no shortage of new horror and thriller novels . However, finding a scary book without the horror tropes and cliché endings? Well, that’s a different story. To save you the frustration of reading a predictable book that’s hard to finish, here are the best scary page-turners released so far in 2026 —just in time for spooky season.
+There are several mystical and fantastical worlds created on the pages of novels and then translated onto the big screen. Novel-to-screen adaptations have become a significant part of filmmaking, but there is one that reigns supreme above all. At the turn of the century, director Peter Jackson delivered a masterpiece that has gone on to define the genre of fantasy — The Lord of the Rings trilogy. Since then, the temptation to return to Middle-earth has been strong, even for Jackson himself, who went on to develop the critically panned trilogy, The Hobbit .
 
-### The Lord of the Rings Books, Ranked by a Diehard Fan of the Series
-Mon, 05 Oct 2026 10:32:11 GMT — https://collider.com/lord-of-the-rings-books-ranked-by-a-diehard-fan/
+### 3 Elite Series to Binge on Netflix This Week (Oct 5-9)
+Mon, 05 Oct 2026 20:47:11 GMT — https://collider.com/netflix-shows-binge-october-5-2026/
 
-The Lord of the Rings is one of the greatest pieces of literature ever written and one that has withstood the test of time as the most enduring work within the legendarium of J.R.R. Tolkien . The Hobbit had been a hugely successful book that Tolkien’s publishers begged to have a sequel for, but his plans for another adventure set in Middle-earth lead him down a far more ambitious path that collided with events in the real world. Written throughout World War II, The Lord of the Rings was heavily inspired by the experiences of the young men who had given their lives to face off against the ultimate evil; the notion of the different nations coming together amidst their differences to form the Allied Forces can be seen within the alliance between men, elves, and dwarves to defeat the Dark Lord Sauron. However, there is not a strict basis in metaphor that offers a one-to-one explanation within history for everything that Tolkien came up with. Christian mythology is also a major component, as the three Christ figures in the priest, the prince, and the prophet can be seen within the three main characters of Gandalf, Aargorn, and Frodo.
+Following the dominance of Ryan Murphy 's Monster: The Lizzie Borden Story , Netflix found its latest all-conquering hit courtesy of the historical drama genre. An adaptation of John Steinbeck 's celebrated 1952 family saga, East of Eden has shot straight to the top of the Netflix streaming charts following its acclaimed debut, with plenty of praise going to Florence Pugh . She is joined in a stellar cast by the likes of Mike Faist , Poor Things ' Christopher Abbott , and Warrior 's Hoon Lee . But East of Eden isn't the only series worth watching this week. To help you discover more, here's a look at three shows you should binge on Netflix this week .
 
-### The 8 Most Perfect Animated Movies of the 1980s, Ranked
-Mon, 05 Oct 2026 10:11:11 GMT — https://collider.com/most-perfect-animated-movies-1980s-ranked/
+### BBC’s Near-Perfect Detective Series Is Officially One of 2026’s Biggest Hits
+Mon, 05 Oct 2026 20:30:12 GMT — https://collider.com/the-bbc-near-perfect-detective-series-ludwig-most-watched-show-2026/
 
-The 1980s was an experimental decade for films, thanks in large part to studios being more willing to spend money on their projects. Animation was no exception, especially since Disney had been stuck in a rut ever since the death of Walt Disney in 1966. This allowed other studios to try their hand, while across the Atlantic, Japan was releasing some major works that would become global successes and help contribute to the popularity of anime.
+Following a highly successful second season that drew millions of dedicated viewers, this British detective drama has now secured a top spot on an all-time favorite list. The series, set in Cambridge, England, centers on a professional word puzzle creator who goes undercover as his missing detective twin. While investigating his brother's disappearance , he realizes that legal mysteries are essentially puzzles, and he is uniquely qualified to solve them. Season 2 picks up directly where Season 1 ended, with him tackling impossible crimes for the Cambridge Police Authority.
 
-### Marvel's 'Blade' Reboot Officially Finds a New Contender [Exclusive]
-Mon, 05 Oct 2026 10:00:11 GMT — https://collider.com/marvel-blade-reboot-william-catlett-casting-comments/
+### Avengers: Doomsday’ Officially Reveals First Look at Franklin Richards
+Mon, 05 Oct 2026 20:27:05 GMT — https://collider.com/avengers-doomsday-franklin-richards-first-look-funko-pops/
 
-There have been many Marvel projects that have never seen the light of day, but none of them sting quite as profoundly as the MCU's Blade reboot. When Marvel first announced that Oscar winner Mahershala Ali would be stepping into the role of everyone's favorite vampire-hunting daywalker, there was a huge amount of excitement, especially considering that Blade hasn't gotten his own standalone movie since 2004. Despite having a very small voice cameo in a post-credits scene of Eternals , Ali has made it agonizingly clear that he is done waiting to play the character . MCU fans did get a consolation prize with Wesley Snipes reprising his iconic role in Deadpool & Wolverine , but despite his insistence that "There's only ever gonna be one Blade," one can't help but wonder what could have been with the scrapped reboot.
+Marvel fans have had a lot to be excited about this year, especially on the big screen, even though there will only be two new movies instead of some recent years, which produced three. The first Marvel movie of 2026, Spider-Man: Brand New Day , has found tremendous success at the box office by becoming one of the few films in history to reach $2.5 billion globally. Marvel has also released new seasons of TV shows such as Daredevil: Born Again and X-Men ‘97 , while also introducing a new series in Wonder Man . Fans were led to believe that Wonder Man would be on the air for a while, but after Marvel initially renewed the series for Season 2, the studio later went back and announced that the show would be canceled.
 
-### Every Akira Kurosawa Epic Movie, Ranked
-Mon, 05 Oct 2026 09:37:12 GMT — https://collider.com/akira-kurosawa-epic-movies-ranked/
+### 'Abbott Elementary' Season 5 Recap: What To Remember Before Quinta Brunson's ABC Sitcom Returns
+Mon, 05 Oct 2026 20:24:12 GMT — https://collider.com/abbott-elementary-season-5-recap/
 
-Even without taking his epic movies into account, Akira Kurosawa is still one of the best and most important filmmakers of all time, having helmed the likes of Rashomon , Throne of Blood , Yojimbo , and High and Low . All those movies have a lot going on in them, and with High and Low, you do admittedly have something that’s pretty close to being epic in runtime, but it would be a slight stretch to call these movies epics in the traditional sense.
+Abbott Elementary has remained one of TV's best sitcoms for five seasons, with its hilarious characters and often ridiculous situations. And the series isn't over yet. With Season 6 's impending premiere, it's time to look back because, like any series, the story builds on itself. Though most episodes of the hit ABC series can stand alone, certain storylines have been developing over time, and Season 5 pushes them further. Taking the audience everywhere, from the school to an abandoned mall to a Philadelphia Phillies game ( in one groundbreaking episode ), the latest installment is particularly eventful, but it also sets up plenty for the future. With new faces, a building that's falling apart, and plenty of personal drama, Season 5 of Abbott Elementary is an exciting addition to the series, and Season 6 promises even more of the well-meaning antics and hilarious plans that fans love.
 
-### Glen Powell’s 90% Rotten Tomatoes Audience Score Blockbuster Officially Dominates 2026 Streaming
-Mon, 05 Oct 2026 09:30:12 GMT — https://collider.com/glen-powell-twisters-streaming-success-hulu-october-2026/
+### 10 Forgotten '80s Anime That Have Aged Like Fine Wine
+Mon, 05 Oct 2026 20:05:12 GMT — https://collider.com/forgotten-80s-anime-aged-like-fine-wine/
 
-Few names are hotter in Hollywood right now than Glen Powell , and one of his biggest movies from the last few years is finding continued success on streaming. Powell had been around for years as a supporting figure in big movies like The Dark Knight Rises , but it wasn’t until he teamed up with Tom Cruise in 2022 for Top Gun: Maverick that he truly arrived as a star. Powell’s rising stardom was called into question last year when he headlined The Running Man , the Stephen King remake written and directed by Edgar Wright . The film received middling reviews and was also one of the biggest bombs of the year. Powell has found redemption with his new TV series, Chad Powers , which has become one of the most-watched shows of the year on Hulu.
+As one of the most popular media in the world, there are plenty of anime shows available, including near-universally known ones like One Piece and Demon Slayer . However, with so many series, it is only natural that plenty of worthwhile efforts have been forgotten, which is especially true for the works of the 1980s. Since it was over 40 years ago, even the most popular anime from this decade has fallen out of favor with mainstream audiences, with some becoming outright forgotten.
 
-### The 15 Best Animated Movies of the 2000s, Ranked According to Letterboxd
-Mon, 05 Oct 2026 09:11:11 GMT — https://collider.com/best-animated-movies-2000s-letterboxd/
+### More Than a Month Later, Guy Ritchie’s Crime Drama Is Still Dominating Netflix
+Mon, 05 Oct 2026 20:00:12 GMT — https://collider.com/the-gentlemen-east-of-eden-streaming-hit-netflix-october-2026/
 
-The 2000s were a defining decade when it came to feature-length animation as a whole. The decade saw the massive rise of 3D computer animation becoming the new standard in studio animation, and the decade as a whole saw more and more filmmakers use animation to experiment and tell their own beautiful stories. At the same time, the decade was also considered the final hurrah for 2D animation as the primary form of animation, acting as a sort of swan song before transitioning into the future of animated storytelling.
+Having now spent 100 days in the Paramount+ top ten, there's plenty of reason to consider MobLand the best of Guy Ritchie 's small-screen projects. Recently, Tom Hardy 's Harry Da Souza returned for the second season of this gritty Peaky Blinders alternative, with the narrative turned inward as a fight for control of the criminal enterprise simmers. But this wasn't the only Ritchie series to recently debut a second season, as Eddie Horniman ( Theo James ) and Susie Glass ( Kaya Scodelario ) returned to an excited Netflix audience.
 

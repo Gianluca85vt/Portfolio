@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-05T11:50:36.379Z
+# AI — harvested 2026-10-05T21:24:20.738Z
 
 ## OpenAI
+
+### Our approach to EU text provenance rules
+Mon, 05 Oct 2026 15:00:00 GMT — https://openai.com/index/eu-text-provenance
+
+How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
 
 ### Building advertising for the way people use AI
 Mon, 05 Oct 2026 10:00:00 GMT — https://openai.com/index/new-chatgpt-ads-format-and-measurement
