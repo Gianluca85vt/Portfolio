@@ -1,0 +1,136 @@
+---
+/**
+ * The newsletter sign-up, wherever it sits.
+ *
+ * Three placements, from the growth plan of 5 October: a slim one moved in
+ * after an article's second paragraph (the spot that converts best and that
+ * almost nobody uses), a box at the end of the article that speaks to its
+ * section, and the full version on /newsletter/ — the one link in the
+ * Instagram bio. `source` travels to beehiiv as utm_source, so the list says
+ * which placement brought each reader.
+ *
+ * Works without JavaScript (an ordinary form post to /api/subscribe, which
+ * sends the browser back to /newsletter/). With it, the answer appears in
+ * place.
+ */
+export interface Props {
+  source: string;
+  /** inline: moved into the article; compact: same look, stays put; box: end of article; page: /newsletter/ */
+  variant?: 'inline' | 'compact' | 'box' | 'page';
+  heading?: string;
+  pitch?: string;
+}
+
+const {
+  source,
+  variant = 'box',
+  heading = 'The Backdrop newsletter',
+  pitch = 'Every Thursday: the five pieces worth your time and why they matter, plus one longer piece from the job that is not on the blog.',
+} = Astro.props;
+
+const inline = variant === 'inline' || variant === 'compact';
+---
+
+<aside
+  class:list={[
+    'nl rounded-[18px] border border-[#D7E2EA]/15',
+    inline ? 'nl-inline p-5 sm:p-6' : 'p-6 sm:p-8',
+    variant === 'inline' && 'my-10',
+    variant === 'box' && 'mt-14 sm:mt-16',
+  ]}
+  style="background:linear-gradient(155deg,rgba(24,1,31,0.55),rgba(118,33,176,0.10))"
+  data-newsletter={variant}
+  aria-label="Newsletter sign-up"
+>
+  <p class="font-medium uppercase tracking-[0.16em] text-[0.62rem]" style="color:#B600A8">Weekly email</p>
+  <p
+    class:list={[
+      'hero-heading font-black uppercase tracking-tight leading-tight mt-2',
+      inline ? 'text-[1.05rem]' : 'text-[1.35rem] sm:text-[1.6rem]',
+    ]}
+  >
+    {heading}
+  </p>
+  <p class="text-[#D7E2EA]/60 font-light leading-relaxed mt-2.5 text-[0.9rem] max-w-[56ch]">{pitch}</p>
+
+  <form class="nl-form flex flex-col sm:flex-row gap-2.5 mt-5" method="post" action="/api/subscribe" novalidate>
+    <input type="hidden" name="source" value={source} />
+    <!-- Nobody sees this field; a bot that fills it in is turned away. -->
+    <div aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden">
+      <label>Website <input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+    </div>
+    <label class="sr-only" for={`nl-${source}`}>Email address</label>
+    <input
+      id={`nl-${source}`}
+      type="email"
+      name="email"
+      required
+      autocomplete="email"
+      inputmode="email"
+      placeholder="you@studio.com"
+      class="flex-1 min-w-0 rounded-full bg-black/40 border border-[#D7E2EA]/25 px-5 py-3 text-[0.92rem] text-[#D7E2EA] placeholder:text-[#D7E2EA]/30 focus:outline-none focus:border-[#D7E2EA]/60"
+    />
+    <button
+      type="submit"
+      class="shrink-0 rounded-full px-7 py-3 font-medium uppercase tracking-widest text-[0.7rem] text-white transition-opacity hover:opacity-90 disabled:opacity-60"
+      style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+    >
+      Subscribe
+    </button>
+  </form>
+  <p class="nl-status text-[0.84rem] mt-3 min-h-[1.2em]" role="status" aria-live="polite"></p>
+  <p class="text-[#D7E2EA]/35 font-light text-[0.74rem] mt-1">
+    One email a week, one click to leave. How the address is handled: <a href="/privacy/#newsletter" class="underline underline-offset-2 hover:text-[#D7E2EA]/70">privacy</a>.
+  </p>
+</aside>
+
+<script>
+  // One handler for every form on the page, on the document rather than on
+  // each form: on the blog index the form sits inside a React island, and a
+  // listener on the element itself would not survive it being re-rendered.
+  document.addEventListener('submit', async (e) => {
+      const form = (e.target as HTMLElement | null)?.closest?.('form.nl-form') as HTMLFormElement | null;
+      if (!form) return;
+      e.preventDefault();
+      const box = form.closest('[data-newsletter]');
+      const status = box?.querySelector<HTMLElement>('.nl-status');
+      const button = form.querySelector<HTMLButtonElement>('button[type=submit]');
+      const data = new FormData(form);
+      const say = (text: string, ok: boolean) => {
+        if (!status) return;
+        status.textContent = text;
+        status.style.color = ok ? '#7fe0a8' : '#ff9a9a';
+      };
+      if (button) button.disabled = true;
+      try {
+        const res = await fetch('/api/subscribe', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({
+            email: data.get('email'),
+            source: data.get('source'),
+            website: data.get('website'),
+          }),
+        });
+        const body = await res.json().catch(() => ({}));
+        if (res.ok) {
+          say('Done. Check your inbox to confirm.', true);
+          form.reset();
+        } else {
+          say(body.error ?? 'That did not go through. Try again.', false);
+        }
+      } catch {
+        say('No connection. Try again in a moment.', false);
+      } finally {
+        if (button) button.disabled = false;
+      }
+  });
+
+  // The slim form waits at the end of the article in the markup and is moved
+  // in after the second paragraph, where it is read rather than scrolled past.
+  // Short pieces keep it where it is.
+  const inline = document.querySelector<HTMLElement>('[data-newsletter="inline"]');
+  const paragraphs = document.querySelectorAll('.post-body > p');
+  if (inline && paragraphs.length >= 5) paragraphs[1]?.after(inline);
+  else inline?.remove();
+</script>

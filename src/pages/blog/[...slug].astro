@@ -6,6 +6,8 @@ import Comments from '../../components/Comments.astro';
 import ShareBar from '../../components/ui/ShareBar';
 import ScoreBox from '../../components/ScoreBox.astro';
 import ArtistView from '../../components/ArtistView.astro';
+import NewsletterSignup from '../../components/NewsletterSignup.astro';
+import { tracker } from '../../data/tracker';
 import ArticleByline from '../../components/ArticleByline.astro';
 import RelatedPosts from '../../components/RelatedPosts.astro';
 import { site, blog, categoryPath, coverFor } from '../../data/portfolio';
@@ -108,6 +110,17 @@ const jsonLd = {
     url: new URL('/blog/', site.url).href,
   },
 };
+// The end-of-article sign-up speaks to the section the reader just read.
+const NEWSLETTER_HEADING: Record<string, string> = {
+  '3D': 'Tool releases and pipelines, every Thursday',
+  Games: 'How games get made, every Thursday',
+  Tech: 'The hardware under the work, every Thursday',
+  AI: 'AI in the pipeline, without the hype, every Thursday',
+  'Film & TV': 'VFX and production, every Thursday',
+  Manga: 'How anime gets made, every Thursday',
+  Editorial: 'The Monday argument, and the week behind it',
+};
+
 ---
 
 <!-- The title carries no masthead suffix. Google shows the site name beside
@@ -195,6 +208,9 @@ const jsonLd = {
           <Content />
         </div>
 
+        {/* Moved in after the second paragraph by its own script. */}
+        <NewsletterSignup source="article-inline" variant="inline" />
+
         {
           /* After the story and before the number: the story says what
              happened, the box says how it was made, the score says what the
@@ -216,6 +232,28 @@ const jsonLd = {
             />
           )
         }
+
+        {
+          /* A piece about a tool release points at the tracker, which is
+             where its reader goes next to compare the other tools. */
+          tracker.some((r) => r.piece === `/blog/${entry.id}/`) && (
+            <a
+              href="/tracker/"
+              class="mt-10 flex items-center justify-between gap-4 rounded-[14px] border border-[#D7E2EA]/15 px-5 py-4 text-[#D7E2EA]/80 hover:text-[#D7E2EA] hover:border-[#D7E2EA]/35 transition-colors"
+            >
+              <span class="font-light text-[0.92rem]">
+                Every 3D and VFX tool's latest version, what changed and what to watch for
+              </span>
+              <span class="shrink-0 font-medium uppercase tracking-widest text-[0.66rem]">Release tracker →</span>
+            </a>
+          )
+        }
+
+        <NewsletterSignup
+          source="article-end"
+          heading={NEWSLETTER_HEADING[entry.data.category] ?? 'If you read this far, the Thursday email is for you'}
+          pitch="The five pieces of the week worth your time, and why they matter, plus one longer piece from the job that is not on the blog. One email, every Thursday."
+        />
 
         <RelatedPosts slug={entry.id} category={entry.data.category} />
 

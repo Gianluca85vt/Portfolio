@@ -1,0 +1,73 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import { blog } from '../data/portfolio';
+
+// The one link in the Instagram bio, and where a sign-up without JavaScript
+// lands afterwards (?subscribed=1, or ?error=…). Post the bio link as
+// /newsletter/?utm_source=instagram&utm_medium=bio so Analytics can tell it
+// apart from the rest.
+const title = 'The Backdrop newsletter — every Thursday';
+const description =
+  'One email a week from Backdrop: the five pieces worth your time and why they matter, plus one longer piece from the job that is not on the blog.';
+---
+
+<Base title={title} description={description} image="/img/blog/og-cover.jpg" imageWidth={1200} imageHeight={630}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-24">
+      <div class="max-w-[760px] mx-auto">
+        <p class="font-medium uppercase tracking-[0.2em] text-[0.66rem]" style="color:#B600A8">{blog.name}</p>
+        <h1
+          class="hero-heading font-black uppercase leading-none tracking-tight mt-3"
+          style="font-size:clamp(2.1rem, 7vw, 4rem)"
+        >
+          Every Thursday
+        </h1>
+
+        <p class="text-[#D7E2EA]/75 font-light leading-relaxed mt-7 text-[1.05rem] max-w-[60ch]">
+          Backdrop publishes a lot. The email is the filter: the five pieces of the week that are worth your time, each
+          with a few lines on why it matters to the people who make games, film and 3D.
+        </p>
+        <p class="text-[#D7E2EA]/55 font-light leading-relaxed mt-4 text-[0.95rem] max-w-[60ch]">
+          And one longer piece that is not on the blog: something from the job — a pipeline, a tool, a decision and what
+          it cost — written by a working environment and technical artist.
+        </p>
+
+        <p id="nl-landing-state" class="mt-8 text-[0.95rem] min-h-[1.4em]" role="status" aria-live="polite"></p>
+
+        <div class="mt-4">
+          <NewsletterSignup source="landing" variant="page" heading="Get it in your inbox" pitch="Free. One email a week, one click to leave." />
+        </div>
+
+        <a
+          href="/blog/"
+          class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3.5 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10 mt-12"
+        >
+          Read the blog
+        </a>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<script>
+  // What the no-JavaScript form post comes back with.
+  const q = new URLSearchParams(location.search);
+  const el = document.getElementById('nl-landing-state');
+  const messages: Record<string, [string, boolean]> = {
+    subscribed: ['Done. Check your inbox to confirm.', true],
+    email: ['That email address does not look right.', false],
+    busy: ['Too many tries. Wait a few minutes.', false],
+    closed: ['The newsletter is not open yet. Soon.', false],
+    failed: ['The sign-up did not go through. Try again later.', false],
+  };
+  const key = q.get('subscribed') ? 'subscribed' : q.get('error') ?? '';
+  const m = messages[key];
+  if (el && m) {
+    el.textContent = m[0];
+    el.style.color = m[1] ? '#7fe0a8' : '#ff9a9a';
+  }
+</script>

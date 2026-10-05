@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
+import type { ReactNode } from 'react';
 import FadeIn from './ui/FadeIn';
 import GlowText from './ui/GlowText';
-import { Facebook } from './ui/brand-icons';
+import { Bluesky, Facebook, Instagram, Linkedin, XMark } from './ui/brand-icons';
 import BlogSearch from './BlogSearch';
 import { colorFor, formatDate } from './blog-format';
 import { blog, blogCategories } from '../data/portfolio';
@@ -18,6 +19,14 @@ export type PostCard = {
   score?: number;
   /** What was reviewed. The headline is usually too long for the column. */
   reviewOf?: string;
+};
+
+const FOLLOW_ICONS: Record<string, typeof Facebook> = {
+  Facebook,
+  Instagram,
+  LinkedIn: Linkedin,
+  X: XMark,
+  Bluesky,
 };
 
 const SUPABASE_URL = import.meta.env.PUBLIC_SUPABASE_URL;
@@ -297,7 +306,7 @@ function MostDiscussed({
   );
 }
 
-export default function BlogList({ posts }: { posts: PostCard[] }) {
+export default function BlogList({ posts, children }: { posts: PostCard[]; children?: ReactNode }) {
   const [active, setActive] = useState('All');
   // Articles arrive daily, so the index would otherwise grow without end.
   const [limit, setLimit] = useState(PAGE);
@@ -381,19 +390,34 @@ export default function BlogList({ posts }: { posts: PostCard[] }) {
             </p>
           </FadeIn>
 
-          {/* The Page, not the personal profile the portfolio links to: this is
-              the one a reader can follow without asking to be a friend. */}
-          <FadeIn delay={0.11} y={12} className="mt-5 sm:mt-6">
-            <a
-              href={blog.facebook}
-              target="_blank"
-              rel="noreferrer"
-              className="inline-flex items-center gap-2 text-[#D7E2EA]/45 hover:text-[#D7E2EA] transition-colors duration-300 font-medium uppercase tracking-[0.14em] text-[0.7rem]"
-            >
-              <Facebook className="w-[0.95rem] h-[0.95rem]" strokeWidth={1.7} aria-hidden="true" />
-              Follow on Facebook
-            </a>
+          {/* Every network the blog is on, the ones its reader actually uses
+              first. Facebook is the Page, not the personal profile, so a
+              reader can follow without asking to be a friend. */}
+          <FadeIn delay={0.11} y={12} className="mt-5 sm:mt-6 flex flex-wrap items-center gap-x-5 gap-y-2">
+            <span className="text-[#D7E2EA]/30 font-medium uppercase tracking-[0.14em] text-[0.62rem]">Follow</span>
+            {blog.follow
+              .filter((f) => f.href)
+              .map((f) => {
+                const Icon = FOLLOW_ICONS[f.label] ?? Facebook;
+                return (
+                  <a
+                    key={f.label}
+                    href={f.href}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-flex items-center gap-2 text-[#D7E2EA]/45 hover:text-[#D7E2EA] transition-colors duration-300 font-medium uppercase tracking-[0.14em] text-[0.7rem]"
+                  >
+                    <Icon className="w-[0.95rem] h-[0.95rem]" strokeWidth={1.7} aria-hidden="true" />
+                    {f.label}
+                  </a>
+                );
+              })}
           </FadeIn>
+
+          {/* The newsletter sign-up, passed in from the page as static HTML so
+              the form works with or without this island. Above the list, where
+              the growth plan puts it. */}
+          {children ? <div className="mt-7 sm:mt-8 max-w-[760px]">{children}</div> : null}
 
           <BlogSearch onQueryChange={setQuery} />
 

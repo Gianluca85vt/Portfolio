@@ -6,7 +6,7 @@ import { site } from '../data/portfolio';
 // Plain language on purpose: what is collected, by whom, why, and how to say
 // no. Keep it true to what the code does — if a new service starts receiving
 // visitor data, it belongs in this list before it ships.
-const updated = '25 September 2026';
+const updated = '5 October 2026';
 
 const sections: { title: string; body: string[] }[] = [
   {
@@ -34,6 +34,13 @@ const sections: { title: string; body: string[] }[] = [
     body: [
       'If you comment, the name you type and your comment are stored and published under the article. A one-way, salted hash of your IP address is stored alongside, only to limit how many comments can be posted in a row; it cannot be turned back into the address. The comments are stored with Supabase, and I receive an email for each one.',
       'Reading an article loads its comments directly from Supabase, which therefore sees the request. Ask by email and I will remove a comment of yours.',
+    ],
+  },
+  {
+    title: 'Newsletter',
+    body: [
+      'If you sign up, your email address is sent to beehiiv (beehiiv Inc., United States), which stores the list and delivers the weekly email. It is used only to send that email, and beehiiv records whether it is opened and which links are clicked so I can see what is read. beehiiv may process the data outside the EU under its own safeguards.',
+      'Every email has a one-click unsubscribe link, which removes you from the list. You can also write to the address above.',
     ],
   },
   {
@@ -78,7 +85,7 @@ const sections: { title: string; body: string[] }[] = [
         <div class="privacy mt-10 space-y-10">
           {
             sections.map((s) => (
-              <section>
+              <section id={s.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')} class="scroll-mt-24">
                 <h2 class="text-[#D7E2EA] font-medium uppercase tracking-[0.12em] text-[0.8rem]">
                   {s.title}
                 </h2>

@@ -1,0 +1,144 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import NewsletterSignup from '../components/NewsletterSignup.astro';
+import { getCollection } from 'astro:content';
+import { site } from '../data/portfolio';
+import { tracker } from '../data/tracker';
+
+// One card per tool: its newest entry whose article is published. The writer
+// adds an entry with each draft, and a draft is not on the site, so an entry
+// waits here until its piece is approved — and one whose piece is rejected
+// simply never shows. Newest release first: the page is read to find out what
+// just moved.
+const live = new Set((await getCollection('blog', ({ data }) => !data.draft)).map((e) => `/blog/${e.id}/`));
+const newest = new Map<string, (typeof tracker)[number]>();
+for (const r of tracker) {
+  if (!live.has(r.piece)) continue;
+  const seen = newest.get(r.tool);
+  if (!seen || r.date > seen.date) newest.set(r.tool, r);
+}
+const releases = [...newest.values()].sort((a, b) => b.date.localeCompare(a.date));
+const updated = releases[0]?.date ?? '';
+const fmt = (d: string) =>
+  new Date(`${d}T12:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const title = 'Release tracker: what changed in Blender, Nuke, Mari, Cinema 4D and more';
+const description =
+  'The latest version of each 3D and VFX tool, what changed in it and what to watch for, read by a working environment and technical artist. Updated with every release.';
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: 'Backdrop release tracker',
+  url: new URL('/tracker/', site.url).href,
+  dateModified: updated,
+  itemListElement: releases.map((r, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    item: {
+      '@type': 'SoftwareApplication',
+      name: r.tool,
+      softwareVersion: r.version,
+      applicationCategory: 'DesignApplication',
+      author: { '@type': 'Organization', name: r.maker },
+      url: new URL(r.piece, site.url).href,
+    },
+  })),
+};
+---
+
+<Base title={title} description={description} jsonLd={jsonLd}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-24">
+      <div class="max-w-[1000px] mx-auto">
+        <p class="font-medium uppercase tracking-[0.2em] text-[0.66rem]" style="color:#B600A8">Backdrop · tools</p>
+        <h1
+          class="hero-heading font-black uppercase leading-none tracking-tight mt-3"
+          style="font-size:clamp(2.1rem, 7vw, 4rem)"
+        >
+          Release tracker
+        </h1>
+        <p class="text-[#D7E2EA]/75 font-light leading-relaxed mt-7 text-[1.05rem] max-w-[62ch]">
+          The latest version of each 3D and VFX tool, what changed in it, and what to watch for before you move a
+          project onto it. One page instead of six changelogs, read by someone who uses these tools for work.
+        </p>
+        <p class="text-[#D7E2EA]/40 font-light text-[0.84rem] mt-3">
+          Last change: {fmt(updated)} · every entry links to the full piece and its sources
+        </p>
+
+        <ul class="grid gap-4 md:grid-cols-2 mt-12">
+          {
+            releases.map((r) => (
+              <li class="flex flex-col rounded-[18px] border border-[#D7E2EA]/15 p-6 sm:p-7">
+                <div class="flex items-start justify-between gap-3">
+                  <div>
+                    <p class="text-[#D7E2EA]/40 font-medium uppercase tracking-[0.16em] text-[0.6rem]">{r.maker}</p>
+                    <h2 class="text-[#D7E2EA] font-semibold leading-snug mt-1.5 text-[1.2rem]">
+                      {r.tool} <span class="text-[#D7E2EA]/60 font-normal">{r.version}</span>
+                    </h2>
+                  </div>
+                  <span
+                    class:list={[
+                      'shrink-0 rounded-full px-2.5 py-1 font-medium uppercase tracking-widest text-[0.58rem] border',
+                      r.status === 'beta' ? 'border-[#ff8a3d]/60 text-[#ff8a3d]' : 'border-[#3DDC97]/60 text-[#3DDC97]',
+                    ]}
+                  >
+                    {r.status === 'beta' ? 'Beta' : 'Stable'}
+                  </span>
+                </div>
+                <p class="text-[#D7E2EA]/40 font-light text-[0.78rem] mt-1.5">{fmt(r.date)}</p>
+
+                <h3 class="text-[#D7E2EA]/70 font-medium uppercase tracking-[0.14em] text-[0.62rem] mt-5">What changed</h3>
+                <ul class="mt-2 flex flex-col gap-1.5">
+                  {r.changed.map((c) => (
+                    <li class="text-[#D7E2EA]/70 font-light leading-relaxed text-[0.9rem] pl-4 relative">
+                      <span class="absolute left-0 top-[0.62em] w-1.5 h-1.5 rounded-full bg-[#B600A8]" />
+                      {c}
+                    </li>
+                  ))}
+                </ul>
+
+                {r.watch.length > 0 && (
+                  <>
+                    <h3 class="text-[#D7E2EA]/70 font-medium uppercase tracking-[0.14em] text-[0.62rem] mt-5">Watch out for</h3>
+                    <ul class="mt-2 flex flex-col gap-1.5">
+                      {r.watch.map((w) => (
+                        <li class="text-[#D7E2EA]/60 font-light leading-relaxed text-[0.88rem] pl-4 relative">
+                          <span class="absolute left-0 top-[0.62em] w-1.5 h-1.5 rounded-full bg-[#ff8a3d]" />
+                          {w}
+                        </li>
+                      ))}
+                    </ul>
+                  </>
+                )}
+
+                <div class="mt-auto pt-5 flex flex-wrap items-center gap-x-4 gap-y-1.5">
+                  <a
+                    href={r.piece}
+                    class="text-[0.82rem] font-medium text-[#D7E2EA] underline decoration-[#B600A8]/70 underline-offset-4 hover:opacity-75"
+                  >
+                    The full piece →
+                  </a>
+                  {r.sources.map((s) => (
+                    <a href={s.url} target="_blank" rel="noreferrer" class="text-[0.76rem] text-[#D7E2EA]/45 underline underline-offset-2 hover:text-[#D7E2EA]/75">
+                      {s.label}
+                    </a>
+                  ))}
+                </div>
+              </li>
+            ))
+          }
+        </ul>
+
+        <NewsletterSignup
+          source="tracker"
+          heading="Get told when a tool moves"
+          pitch="When a new version lands here, it is in the Thursday email, with what changed and what broke. One email a week."
+        />
+      </div>
+    </section>
+  </div>
+</Base>
