@@ -1,176 +1,191 @@
-# Film & TV — harvested 2026-10-04T17:50:29.522Z
+# Film & TV — harvested 2026-10-05T11:50:36.379Z
 
 ## Variety
 
-### Sass Jordan, Singer and Longtime Canadian Idol Judge, Dies at 65
-Sun, 04 Oct 2026 17:37:12 +0000 — https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/
+### Mark Ruffalo Tells Trump Hands Off Our F ing Vote or I m Gonna Hulk Out : You Won t Like Me When I m Angry
+Mon, 05 Oct 2026 11:44:07 +0000 — https://variety.com/2026/film/news/mark-ruffalo-slams-trump-voting-rights-hulk-out-1236898975/
 
-Sass Jordan, the singer, songwriter and longtime Canadian Idol judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she died peacefully and was surrounded by those who loved her most. They remembered her as an inimitable force of nature and an irreplaceable being of light and joy. Jordan began [ ]
+Mark Ruffalo made a passionate speech at a Hands Off Our Vote event in New York City on Sunday night, slamming U.S. President Donald Trump and saying he s going to Hulk out if he attempts to restrict voting in the upcoming midterm elections. The midterms are set to take place on Nov. 3 and could [ ]
 
-### ‘Spotlight’ Director Says The Catholic Church Hasn’t Done ‘Enough’ To Protect Children From Sexual Assault 10 Years After Film’s Best Picture Win: ‘Not Until Every Child Is Safe’
-Sun, 04 Oct 2026 17:07:47 +0000 — https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/
+### Jack O Connell and Odessa A’zion to Play Flat-Earthers in ‘The End of the World as We Know It’ for Studiocanal, Working Title and An Irish Goodbye Oscar Winners (EXCLUSIVE)
+Mon, 05 Oct 2026 11:30:00 +0000 — https://variety.com/2026/film/global/jack-oconnell-odessa-azion-tend-of-the-world-as-we-know-it-1236897026/
 
-Tom McCarthy’s biographical drama “Spotlight” won Best Picture at the Academy Awards in 2016. The film, featuring a stacked ensemble led by Michael Keaton, Rachel McAdams and Mark Ruffalo, was widely praised for chronicling the investigative reporting by the Boston Globe that exposed the Catholic Church’s systemic cover-up of sexual abuse of children by priests. [ ]
+Ross White and Tom Berkeley, the filmmaking duo behind the Oscar and BAFTA winning short film An Irish Goodbye, have teamed up with Studiocanal, Working Title, Parkville Pictures and Film4 for their feature debut and landed two hugely in-demand stars as their leads. The End of the World as We Know It will see BAFTA [ ]
 
-### Daily Wire’s Pro-ICE Film Pawn Shop Production Temporarily Suspended
-Sun, 04 Oct 2026 16:58:08 +0000 — https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/
+### NAZA Rebuttal Doc Surfaces Online, Made by IDF Reserve Members
+Mon, 05 Oct 2026 11:01:52 +0000 — https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/
 
-Production of Daily Wire’s pro-ICE film “Pawn Shop” has been temporarily halted in Livingston, Mont., following a Special City Commission Meeting held on Saturday. The action comes as Livingston locals raised concerns about the film’s impact on local business — and notably the city’s sole food bank — as well as improper notification about hazardous [ ]
+Just as hot-button Gaza documentary “NAZA — which recently won a special jury prize at the Venice Film Festival — gains international visibility and media attention, a counter project has surfaced online titled “NAZA: The Real Story.” The original 80-minute doc, which was shot at night on the rooftops of Tel Aviv and explores the [ ]
 
-### East of Eden Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh s Cathy Is Both a Murderer and Survivor and Making Lee a Central Character
-Sun, 04 Oct 2026 16:30:00 +0000 — https://variety.com/2026/tv/news/east-of-eden-explained-ending-cathy-lee-sexuality-1236897001/
+### France s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike
+Mon, 05 Oct 2026 10:43:08 +0000 — https://variety.com/2026/film/global/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925/
 
-SPOILER ALERT: This interview contains major spoilers from “East of Eden,” now streaming on Netflix. Zoe Kazan has spent much of her life thinking about family legacy on and off screen. More than 62 years after her grandfather Elia Kazan famously directed James Dean in an adaptation of the fourth and final part of John [ ]
+Canal+ Group chairman Maxime Saada has warned that the pay TV banner could pull out of its €1 billion ($1.1 billion) investment deal with the French film industry if the government goes ahead with plans to double VAT on pay-TV subscriptions. The measure, included in the government’s proposed finance bill, would scrap the reduced 10% [ ]
 
-### Pedro Pascal in Behemoth! : The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For
-Sun, 04 Oct 2026 16:15:00 +0000 — https://variety.com/2026/film/awards/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/
+### Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest
+Mon, 05 Oct 2026 09:31:09 +0000 — https://variety.com/2026/global/news/former-prince-andrew-legal-action-police-arrest-1236898938/
 
-Pedro Pascal makes his Oscar case with a cello. “Behemoth!,” Tony Gilroy s first feature as a director since “The Bourne Legacy” in 2012, world-premiered on Friday night at Alice Tully Hall as the centerpiece selection of the New York Film Festival. Pascal plays Alex Serian, a former child prodigy from a family of Los Angeles [ ]
+Andrew Mountbatten-Windsor, the former prince and King Charles brother, is taking legal action against the Thames Valley Police over search warrants relating to his February arrest. As first reported by The Telegraph, Mountbatten-Windsor — who was arrested on suspicion of misconduct in public office after the release of the Epstein files — has submitted a [ ]
 
-### Zach Bryan Breaks Attendance Record at Robert Kraft’s Gillette Stadium While Wearing ‘Free Palestine’ Shirt for Second Night in a Row
-Sun, 04 Oct 2026 16:09:22 +0000 — https://variety.com/2026/music/news/zach-bryan-breaks-record-kraft-free-palestine-1236898609/
+### John de Mol’s Formats Giant Talpa Studios Heads to Mipcom With New Shows Sing With Me, The Golden Elevators (EXCLUSIVE)
+Mon, 05 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/talpa-studios-mipcom-sing-with-me-the-golden-elevators-1236898478/
 
-Zach Bryan broke the attendance record at Robert Kraft’s Gillette Stadium on Saturday night, performing for 73,538 fans — the largest crowd for any event in the venue s history — while wearing a “Free Palestine” shirt for the second night in a row. The move was a statement on several levels, but was pointedly directed [ ]
+John de Mol’s Talpa Studios, whose hit formats include quiz show “The Floor,” is heading to next week’s TV market Mipcom with a slate of new entertainment formats, led by “Sing With Me” and “The Golden Elevators.” “Sing With Me” is a feelgood music entertainment format developed in collaboration with Dutch producer IDTV, the creator [ ]
 
-### James Van Der Beek Was the ‘Soul of Dawson s Creek, Says Show Creator Kevin Williamson: ‘He Handled His Cancer With Such Grace and Courage’
-Sun, 04 Oct 2026 16:07:55 +0000 — https://variety.com/2026/tv/columns/dawsons-creek-kevin-williamson-james-van-der-beek-cancer-1236898546/
+### ITV Studios Travels to Mipcom With 10 New Titles on Its Formats Slate, Led by The Chase Around the World (EXCLUSIVE)
+Mon, 05 Oct 2026 07:30:00 +0000 — https://variety.com/2026/tv/global/itv-studios-mipcom-formats-slate-the-chase-around-the-world-1236898689/
 
-“Dawson’s Creek” creator Kevin Williamson remembered the show’s late star Jame Van Der Beek on Saturday night while being honored with a Hero Award at the Barbara Berlanti Heroes Gala, Greg Berlanti’s annual F Cancer benefit. Williams explained that the show, about a small-town high school student dreaming of becoming a Hollywood director, was inspired [ ]
+ITV Studios has unveiled 10 new titles on its Mipcom formats slate, led by “The Chase Around the World,” and also revealed the unscripted lineup, which includes “70 Up,” the final chapter of the groundbreaking documentary series “7 Up.” “The Chase Around the World,” a multi-country treasure hunt, is a spin-off of ITV’s game show [ ]
 
-### John Steinbeck s East of Eden Returns to Top of Book Charts Following Netflix Adaptation s Release
-Sun, 04 Oct 2026 16:00:00 +0000 — https://variety.com/2026/shopping/news/read-east-of-eden-john-steinbeck-netflix-buy-shop-book-online-1236898511/
+### La Oreja de Van Gogh Songs Set to Power an Ambitious Romantic Musical From Fernando González Molina (EXCLUSIVE)
+Mon, 05 Oct 2026 07:04:28 +0000 — https://variety.com/2026/film/global/la-oreja-de-van-gogh-fernando-gonzalez-molina-1236898493/
 
-Fresh off the heels of the hit Netflix adaptation release, which stars Florence Pugh, John Steinbeck s East of Eden is at the top of Amazon s Best Sellers List in the No. 1 spot. In addition, the audiobook of the novel is on the retail giant s Best of #BookTok books list too. Regularly priced at $25, [ ]
+The songs of pop group phenomenon La Oreja de Van Gogh, which has just become the only Spanish band with a song in Spotify’s Billions Club, are heading for the big screen, set to be sung and power the emotional currents of an ambitious romantic musical, “Puedes Contar Conmigo.” Director of blockbuster “Palm Trees in [ ]
 
-### Marjoe Gortner, Preacher and Actor Who Was Subject of Oscar-Winning Doc and Appeared in Earthquake, Falcon Crest, Dies at 82
-Sun, 04 Oct 2026 15:49:14 +0000 — https://variety.com/2026/film/news/marjoe-gortner-dead-earthquake-falcon-crest-1236898534/
+### Talent Agency Cosmic Opens London Office, Led by Gabrielle de Cevins
+Mon, 05 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/global/cosmic-london-gabrielle-de-cevins-1236894598/
 
-Marjoe Gortner, whose childhood as an evangelical preacher was the subject of the Oscar-winning documentary Marjoe and who went on to have a career as an actor, died Friday. He was 82. His wife Susan Magestro told Variety he died in Santa Fe, N.M. Her memorial notice said he had been suffering from years of [ ]
+Cosmic Talents, which represents leading international heads of department, is opening a London office. It will be led by Gabrielle de Cevins, who joins Cosmic Talents as the agency s U.K.-based agent. De Cevins brings eight years of in-house production experience to the role, including the last four at London-based feature film production company The Bureau [ ]
 
-### Box Office: Digger Majorly Bombs With $8 Million Opening Weekend, Verity Scores $32 Million Debut
-Sun, 04 Oct 2026 15:27:05 +0000 — https://variety.com/2026/film/box-office/digger-box-office-majorly-bombs-verity-scores-1236898521/
+### Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj s Debut Feature The Method (EXCLUSIVE)
+Mon, 05 Oct 2026 06:00:00 +0000 — https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/
 
-In Digger, Tom Cruise portrays a powerful oil tycoon who is bracing for an ecological disaster of epic proportions. But nothing could have prepared him for the catastrophe that s unfolding at the box office, where Digger has collapsed with an embarrassing $8 million from 3,321 North American theaters. Rivals believe the figure will be closer [ ]
+Harvey Keitel stars as a celebrated acting teacher in The Method, the first feature from director and co-writer Gaurav Bhardwaj, produced by CTRL banner Travelin Bone Entertainment alongside Imagination Infinite Motion Pictures. Mina Sundwall ( Murdaugh: Death in the Family, Lost in Space ) also features, as do Rakshit Bhuchar and Rohan Maletira, both of whom make [ ]
 
 ## The Hollywood Reporter
 
-### ‘Edward Said: Between Worlds’ Review: A Crucial Palestinian Scholar, Revived for a New Generation
-Sun, 04 Oct 2026 16:45:16 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/edward-said-between-worlds-review-palestine-1236720415/
+### The Social Reckoning Is an Even Bigger Burn on Mark Zuckerberg Than You Think
+Mon, 05 Oct 2026 08:31:41 +0000 — https://www.hollywoodreporter.com/business/digital/social-reckoning-mark-zuckerberg-villain-jeremy-theaters-1236722195/
 
-The latest doc from the Danish filmmaker and producer Maiken Baird (‘Icarus’) examines Said’s role in reframing the Palestinian struggle.
+Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts.
 
-### Marjoe Gortner, Child Preacher and ‘Earthquake,’ ‘Falcon Crest’ Actor, Dies at 82
-Sun, 04 Oct 2026 16:40:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873/
+### Movies With Real Political Messages Underneath the Surface, Animation and More: What Not to Miss at London Film Fest
+Mon, 05 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lff-2026-bfi-london-film-festival-preview-political-movies-1236720797/
 
-The subject of an Oscar-winning documentary, the Universal Pictures contract player also starred with Lynda Carter in ‘Bobbie Jo and the Outlaw.’
+Kristy Matheson previews key highlights and stars featured in the 70th edition and why she doesn't agree with people having "a grumble about how it doesn't seem like a big or a good year for cinema."
 
-### Where to Watch the Chiefs vs. Raiders Game Online
-Sun, 04 Oct 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chiefs-vs-raiders-game-free-nfl-streams-2026-1236721201/
+### John Oliver Has Re-Acquired Russell Crowe’s Iconic Jock Strap
+Mon, 05 Oct 2026 05:31:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-oliver-russell-crowe-jock-strap-1236722165/
 
-The NFL Week 4 matchup is set for Sunday, Oct. 4 at Allegiant Stadium in Las Vegas.
+This marks the third time the undergarment, which Crowe wore in 2005's 'Cinderella Man,' has been in the possession of the 'Last Week Tonight' host.
 
-### Tom Cruise s Digger Buried at Box Office With $8M as Verity Wins Weekend
-Sun, 04 Oct 2026 16:04:12 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bombs-box-office-opening-verity-1236721814/
+### Lanterns Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future
+Mon, 05 Oct 2026 02:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/lanterns-finale-john-stewart-hal-jordan-1236721962/
 
-Alejandro G. Iñárritu helmed the pricey satire that will go down as a big financial loss for Warner Bros.
+Some viewers might take issue with one major swing, but the team sees it as "remixing" rather than "rewriting" Green Lantern canon.
 
-### Avengers: Endgame Returns to No. 1 on All-Time Global Box Office Chart, Surpassing Avatar
-Sun, 04 Oct 2026 15:34:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/
+### So Long, Kody Robyn: Where to Watch Sister Wives Season 21 for Free Online Featuring Only the OG Spouses
+Mon, 05 Oct 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-sister-wives-season-21-free-online-1236717631/
 
-Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'
+The newest season premieres on Sunday, Oct. 4, and specifically revolves around Meri, Janelle and Christine's lives.
 
-### In The Heart of the South Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”
-Sun, 04 Oct 2026 15:32:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/
+### Reggie McFadden, Actor-Comedian Known for Def Comedy Jam and In Living Color, Dies at 57
+Mon, 05 Oct 2026 00:58:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/reggie-mcfadden-dead-def-comedy-jam-in-living-color-1236722079/
 
-Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.
+He also appeared on ‘Martin,’ ‘Hangin’ With Mr. Cooper,’ ‘Moesha,’ ‘Coach’ and 'Curb Your Enthusiasm.’
 
-### Tom Cruise s Digger Tries New Marketing Tactic: The French Love It, Americans Don t
-Sun, 04 Oct 2026 14:29:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/
+### Zoe Kazan on Honoring Steinbeck s East of Eden for Netflix Series While Rethinking Its Characters
+Sun, 04 Oct 2026 23:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/netflix-east-of-eden-creator-interview-adapting-steinbeck-1236713934/
 
-A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.
+The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's novel for television.
 
-### Taylor Swift Crashes Dakota Johnson s Saturday Night Live Hosting Stint: My Literal Therapist!
-Sun, 04 Oct 2026 03:47:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/taylor-swift-dakota-johnson-saturday-night-live-1236721702/
+### Rachel Reid on Upcoming Book Unrivaled and Keeping All Those Heated Rivalry Season 2 Secrets
+Sun, 04 Oct 2026 22:26:44 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/rachel-reid-unrivaled-heated-rivalry-season-2-interview-1236721934/
 
-The "Patient Zero" singer gave Travis Kelce a subtle salute during the 'Verity' star's opening monologue.
+The 'Heated Rivalry' author is currently on a tour for the deluxe edition of the best-selling hockey romance novel.
 
-### How ‘Freaks’ Sent Zach Lipovsky and Adam B. Stein to Hollywood: “That Film Changed Our Lives”
-Sun, 04 Oct 2026 01:18:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/freaks-zach-lipovsky-adam-b-stein-hollywood-1236721594/
+### Newport Beach Film Fest: Furious Star Emmy Rossum Will Receive TV Performance Award, Guest on Live Episode of Awards Chatter Pod
+Sun, 04 Oct 2026 21:52:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/newport-beach-film-fest-furious-emmy-rossum-award-podcast-1236721462/
 
-Their breakout 2018 sci-fi thriller debuted at the Vancouver Film Festival. Now they’re returning with ‘Freaks 2’ and as bankable horror directors and writers.
+The critically acclaimed and popular actress best known for 'Shameless' will be feted on Oct. 18.
 
-### Jeremy Strong Says He Doesn t Need to Apologize for Method Acting: “It’s in Service of the Material”
-Sun, 04 Oct 2026 00:58:57 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jeremy-strong-method-acting-never-intention-interfere-1236721716/
+### J. Todd Anderson, The Nice Guys and The Big Lebowski Storyboard Artist, Dies at 67
+Sun, 04 Oct 2026 20:12:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/j-todd-anderson-dead-storyboard-artist-1236721947/
 
-"I’m just there to commit utterly to serving the material," the Oscar nominee said of his approach to acting.
+He was a frequent collaborator of the Coen Brothers, storyboarding ‘Fargo,’ ‘Drive-Away Dolls’ and ‘The Tragedy of Macbeth,’ among other films.
 
 ## Deadline
 
-### Reacher Author Explains Why He Vetoed Third Tom Cruise Movie, Calls Prime Series A Fabulous Luxury
-Sun, 04 Oct 2026 17:31:53 +0000 — https://deadline.com/2026/10/reacher-author-vetoed-third-tom-cruise-movie-1237146202/
+### Breaking Baz: Anthony Mackie Returning To Broadway To Play Macbeth After 16-Year Absence From The Stage
+Mon, 05 Oct 2026 11:00:00 +0000 — https://deadline.com/2026/10/anthony-mackie-macbeth-broadway-avengers-star-1237146358/
 
-As Prime Video s Reacher prepares a fifth and sixth season, the franchise s creator is happy with the freedom provided by this adaptation. Author Lee Child, who penned the Jack Reacher books on which the series is based, explained why he exercised that veto on a third entry in the Tom Cruise movies, opting instead for [ ]
+EXCLUSIVE: Anthony Mackie, who plays Sam Wilson aka Captan America in the big-screen Marvel movies, will return to Broadway to take on William Shakespeare s most notorious villain, Macbeth. He will take on the role from spring 2027 after an absence from the boards of 16 years, the actor reveals to Deadline. Mackie will play Shakespeare’s [ ]
 
-### Verity Lures 2nd Best Opening For Colleen Hoover Pic With $62M+ WW; Digger DOA At $20M WW Global Box Office
-Sun, 04 Oct 2026 16:42:00 +0000 — https://deadline.com/2026/10/box-office-global-verity-digger-1237146180/
+### Martin Freeman Jim Broadbent Set For Dickensian Christmas Ghost Story The Bride s Chamber At The BBC
+Mon, 05 Oct 2026 10:30:00 +0000 — https://deadline.com/2026/10/martin-freeman-jim-broadbent-brides-chamber-bbc-1237146494/
 
-Colleen Hoover can look forward to a nice brunch this morning as the feature take of her novel starring Anne Hathaway, Dakota Johnson, and Josh Hartnett, Verity, bowed to $62.5M worldwide, the second best start for the author at the global box office behind 2024 s It Ends With Us in like-for-likes, which was $95.6M WW. [ ]
+EXCLUSIVE: Two of Britain s top actors will pair up in the latest BBC Christmas ghost story special, The Bride s Chamber. Martin Freeman (The Hobbit, Sherlock) and Jim Broadbent (The Unlikely Pilgrimage of Harold Fry, Bridget Jones) will star in the Dickensian story, alongside Adrian Scarborough (The Chelsea Detective, Gavin Stacey), Joe Armstrong (Happy Valley, [ ]
 
-### Zach Bryan Breaks Gillette Stadium s Attendance Record While Rocking Free Palestine Shirt
-Sun, 04 Oct 2026 16:12:41 +0000 — https://deadline.com/2026/10/zach-bryan-gillette-stadium-attendance-record-free-palestine-1237146187/
+### Louisa Compton Appointed To Channel 4 Board Alongside Next Content Chief
+Mon, 05 Oct 2026 09:54:08 +0000 — https://deadline.com/2026/10/channel-4-board-louisa-compton-ian-katz-replacement-1237146542/
 
-For his second night performing at Robert Kraft s Gillette Stadium, Zach Bryan broke a record and made a statement. While once again wearing his Free Palestine shirt during Saturday s show on his With Heaven on Tour, the Grammy winner boasted the venue s largest ever turnout with more than 73,000 in the audience. Tonight, Zach Bryan [ ]
+Channel 4’s news and digital boss along with its next content chief will be given a place on the Gogglebox network s board. Louisa Compton is a new Executive Board Member appointment and will sit alongside CEO Priya Dogra, CFO Lucy Thomas and Ian Katz’s soon-to-be-unveiled replacement as head of programmes, along with chair Geoff Cooper [ ]
 
-### Daily Wire Filming Temporarily Suspended In Montana After Special City Meeting
-Sun, 04 Oct 2026 15:55:18 +0000 — https://deadline.com/2026/10/daily-wire-filming-temporarily-suspended-montana-1237146172/
+### InterTalent Agency Promotes Pair To Run Creator Division
+Mon, 05 Oct 2026 09:34:37 +0000 — https://deadline.com/2026/10/intertalent-creator-division-heads-mccombe-bendien-1237146531/
 
-Following protest from locals, the city of Livingston, Montana has temporarily suspended production on Daily Wire s latest film, Pawn Shop. During a special meeting on Saturday, the Livingston City Commission unanimously passed a motion raised by Commissioner Cindy Daniels in response to concerns raised by citizens over the disruption to businesses and the city s only [ ]
+EXCLUSIVE: InterTalent, which reps top creators like The Grand Tour host Francis Bourgeois, has appointed two heads of its creator division. Dejah McCombe and Lucy Bendien have been promoted to the Co-Heads of Creators post. Reporting to MD Alex Segal, the pair will oversee strategy, talent development and commercial growth in the division, which has [ ]
 
-### Verity Solid $32M+ Start; Digger At $8M Is Tom Cruise s Lowest Opening In 19 Years; Both Pics Get C+ CinemaScores Sunday Update
-Sun, 04 Oct 2026 15:23:00 +0000 — https://deadline.com/2026/10/box-office-verity-digger-1237145435/
+### Former Prince Andrew Taking Legal Action Against Police Over Epstein Files Arrest
+Mon, 05 Oct 2026 08:37:23 +0000 — https://deadline.com/2026/10/prince-andrew-legal-action-police-epstein-files-arrest-1237146498/
 
-SUNDAY AM WRITETHRU: After Saturday update Warner Bros very original, very expensive auteur feature, Digger, opened to $8M, which is still the lowest for Tom Cruise since 2007 s much cheaper Lions for Lambs at $6.7M. All in global start is an awful $20M worldwide. In hindsight, Amazon MGM Studios was bold to date on top [ ]
+Andrew Mountbatten-Windsor is taking legal action against the police force that arrested him earlier this year. According to The Telegraph, which broke the news, the issue revolves around the search warrants used by Thames Valley Police and its chief constable in relation to his arrest. The legality of these warrants are being challenged by Mountbatten-Windsor s [ ]
 
-### Avengers: Endgame Overtakes Avatar Again As Highest Grossing Movie Ever At Global Box Office
-Sun, 04 Oct 2026 15:11:23 +0000 — https://deadline.com/2026/10/box-office-avengers-endgame-avatar-record-1237146168/
+### Execs Launch IP Studio Unveil Viking Mythology Series
+Mon, 05 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/forge-films-company-launch-lost-in-hel-viking-series-1237145372/
 
-Disney/Marvel Studio s Avengers: Endgame is once again, the highest grossing movie ever, overtaking Avatar, $2.9255 billion to the latter s $2.9237 billion. This is all due to the re-release of the Anthony and Joe Russo directed movie in the tee-up to their Avengers: Doomsday upside down multiverse movie on Dec. 18. Endgame was king of the [ ]
+EXCLUSIVE: A trio of executives have launched an IP studio focused on sci-fi, fantasy and horror. Antoine Disle, Orso Vesperini and Olivier Compere, who between them have made projects for Canal+, TF1 and Warner, are behind Forge Films Company, which has unveiled Viking mythlogy series Lost in Hel as first project from its slate. Forge [ ]
 
-### SNL s Weekend Update Tackles Cornell Controversy Return Of Glee
-Sun, 04 Oct 2026 04:48:46 +0000 — https://deadline.com/2026/10/weekend-update-cornell-controversy-return-of-glee-1237146124/
+### Brian Cox Goes Digital: Top British TV Scientist Strikes Content Deal With New Sony Studio
+Mon, 05 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/brian-cox-youtube-deal-sony-bbc-presenter-scientist-1237146484/
 
-After cracks about Pete Hegseth, Kristi Noem and President Donald Trump s vendetta against CNN, Michael Che on Saturday Night Live s Weekend Update touched on the ongoing controversy at Cornell University and Ryan Murphy s decision to bring back Glee. Che first served up a serious note by referencing the sexual assault case at Cornell and how [ ]
+EXCLUSIVE: The first partnership for Sony Pictures Television s (SPT) new digital studio was with Minecraft supremo Tom Simons AKA TommyInnit, but its second pact is in a different universe altogether. Renowned British scientist and broadcaster Brian Cox has struck a deal with SPT International Production s Digital Studio that will see the pair create his formats [ ]
 
-### SNL Cold Open Goes Full MAGA Midterms Desperation With Hegseth s Schlong Donkeys , Trump s Rambles A Sad VP
-Sun, 04 Oct 2026 03:55:00 +0000 — https://deadline.com/2026/10/snl-cold-open-trump-hegseth-midterms-1237146097/
+### Gillian Anderson Explains Confrontation With Distracting Superfans Who Sat In Front Row Of West End Show: We Can All See You
+Mon, 05 Oct 2026 07:11:04 +0000 — https://deadline.com/2026/10/gillian-anderson-confront-distracting-fans-west-end-show-1237146461/
 
-Just a month away from the volatile midterms and a president way down in the polls, there was once again a plethora of political material ripe for this week’s SNL cold open, and the NBC late-nighter went full MAGA, with some Mitch McConnell on the side. Played by Mickey Day, the wheelchair bound 84-year-old Kentucky [ ]
+Gillian Anderson has explained why she asked a group of superfans not to sit in the front row of her West End stage show, Who s Afraid of Virginia Woolf?. Anderson is performing at Soho Place Theatre and was filmed confronting audience members following a performance. In the video, posted just after midnight on Sunday morning [ ]
 
-### Taylor Swift Joins SNL Host Dakota Johnson During Opening Monologue
-Sun, 04 Oct 2026 03:54:22 +0000 — https://deadline.com/2026/10/taylor-swift-joins-snl-host-dakota-johnson-1237146104/
+### MBC Studios Sets November 19 Release For Landmark Production ‘Traveller’s Hell’
+Mon, 05 Oct 2026 07:07:22 +0000 — https://deadline.com/2026/10/mbc-studios-november-19-release-landmark-travellers-hell-1237146471/
 
-Taylor Swift gave Dakota Johnson some pretty sweet payback for appearing in her Patient Zero music video: the mega-star joined the Verity actress during her opening monologue tonight on Saturday Night Live. Perhaps it was just a birthday present for Johnson, who turns 37 on Sunday. Either way, Swift came in to yuk it up [ ]
+MBC Studios has announced a November 19 theatrical release date for long-awaited psychological thriller Traveller’s Hell about a young woman who picks up a stranger on a remote road. The feature is adapted from the best-selling novel of the same name by acclaimed best-selling Saudi author Osamah Almuslim, who wrote the screenplay. The release marks [ ]
 
-### A Statement Review: Paul Rudd, Paul Giamatti And Superb Ensemble In Tom McCarthy s Splendid Humanist Look At Climate Change New York Film Festival
-Sun, 04 Oct 2026 00:15:00 +0000 — https://deadline.com/2026/10/a-statement-review-paul-rudd-paul-giamatti-tom-mccarthy-nyff-1237145997/
+### A+E Global Media Hires Banijay Distribution Veteran Chris Stewart
+Mon, 05 Oct 2026 06:00:00 +0000 — https://deadline.com/2026/10/ae-global-networks-hires-chris-stewart-banijay-veteran-1237146153/
 
-On paper, director Tom McCarthy s latest film, A Statement might appear to be a dense polemic, hardly the stuff of exciting moviemaking. It centers on a 1980 Florida conference dealing with the effects of Carbon Dioxide emissions on the environment, gathering politicians, academics, scientists and environmentalists from around the U.S. to talk about the subject [ ]
+EXCLUSIVE: A+E Global Media has hired international TV distribution veteran Chris Stewart. The former Banijay executive joins as VP, Content Sales, and will lead on sales in the UK, Ireland and Germany. He will be based in the UK. His hire comes a week after Deadline revealed Stewart was among those that had exited Banijay [ ]
 
-### Jeremy Strong Says He Cares What Mark Zuckerberg Thinks About The Social Reckoning
-Sat, 03 Oct 2026 23:48:44 +0000 — https://deadline.com/2026/10/jeremy-strong-mark-zuckerberg-the-social-reckoning-1237146074/
+### Lanterns Team Discusses How Theme Of Fear Played Part In Season Finale, Remixing The Oath And The Fate Of Earl
+Mon, 05 Oct 2026 02:01:00 +0000 — https://deadline.com/2026/10/lanterns-season-one-finale-recap-1237144840/
 
-There were times Jeremy Strong actually sent emails to Aaron Sorkin as if he were Mark Zuckerberg himself. So when Strong was asked by The New Yorker s David Remnick whether he cares how Zuckerberg will react to The Social Reckoning, Strong said yes; that s why he reached out to the Facebook founder in the first [ ]
+SPOILER ALERT: This story contains details of the Season 1 finale of Lanterns on HBO. Are you afraid? In Sunday night s Season 1 finale of Lanterns, John Stewart (Aaron Pierre) finally found the answer and his destiny as he spoke the words audiences have been waiting all season to hear. Not only did Stewart accept [ ]
 
-### Digger Star Tom Cruise Says He s So Proud Of What We Created Despite Poor Open At Theaters
-Sat, 03 Oct 2026 21:54:02 +0000 — https://deadline.com/2026/10/tom-cruise-proud-of-digger-opening-weekend-1237146055/
+### Reggie McFadden Dies: In Living Color Comedian Was 57
+Mon, 05 Oct 2026 01:55:49 +0000 — https://deadline.com/2026/10/reggie-mcfadden-dies-in-living-color-comedian-1237146391/
 
-Digger may be the lowest opening for a Tom Cruise joint since 2007 s Lions for Lambs, but the mega-star has only mad respect for those who joined him on the Alejandro G. Iñárritu-directed film. In an Instagram post, Cruise said that I am so honored to have had the opportunity to create this film alongside [ ]
+Reggie McFadden, best known for his run on In Living Color, has died. He was 57. His sister, Bernice McFadden, confirmed his death to The Hollywood Reporter. She said the U.S. State Department notified the family that he died in Tanzania, where he had been living for several years. A cause of death is not [ ]
 
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Kyle Chandler, Aaron Pierre, and the Lanterns Creators on a Quieter Finale, Ending with Love, and the New Oath
+Mon, 05 Oct 2026 02:05:00 +0000 — https://www.indiewire.com/features/interviews/kyle-chandler-aaron-pierre-explain-lanterns-finale-new-oath-1235220126/
+
+The stars and creators behind HBO's "grounded" superhero series break down an ending that focuses on character over spectacle — and introduces a new oath for our new Green Lantern.
+
+### Lanterns Finale Review: Episode 8 Makes the Hard Choices — and Leaves a Light on for Season 2
+Mon, 05 Oct 2026 02:00:00 +0000 — https://www.indiewire.com/criticism/shows/lanterns-episode-8-review-finale-spoilers-1235219545/
+
+Showrunner Chris Mundy joined his co-creators Damon Lindelof and Tom King to write a dense, emotional finale that focuses on characters over spectacle and shows love in all its messy glory.
+
+### Q3’s Horror Box Office Shows the Trouble with Always Hunting Another Obsession
+Sun, 04 Oct 2026 22:35:00 +0000 — https://www.indiewire.com/features/commentary/horror-box-office-q3-2026-1235220127/
+
+"Resident Evil" arrived big, "Buddy" built a hit, and "Evil Dead" and "Insidious" grappled with cost-benefit expectations. Horror’s third quarter explains why the genre needs more than one benchmark.
 
 ### Digger Flops with $8 Million Opening, Becoming the Biggest Bomb of Tom Cruise s Career
 Sun, 04 Oct 2026 15:24:52 +0000 — https://www.indiewire.com/news/box-office/digger-flops-tom-cruise-150-million-loss-warner-bros-bomb-1235220093/
@@ -187,142 +202,107 @@ Sun, 04 Oct 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/a
 
 New York Film Festival: The Oscar-winning writer/director turns his spotlight on a plushly appointed ensemble as the environmental stewards and scholars who tried to solve the climate crisis over one long-winded, futile meeting in St. Petersburg, Florida, in 1980.
 
-### Will Behemoth! Push Pedro Pascal Into Oscar Contention?
-Sat, 03 Oct 2026 04:11:06 +0000 — https://www.indiewire.com/awards/predictions/behemoth-oscar-chances-pedro-pascal-1235220080/
-
-The movie star is front and center in Tony Gilroy's love letter to film music. But will the Music Branch accept The Behemoth! Collective?
-
-### Josephine Director Beth De Araújo Delivers Powerful Speech Condemning Cornell Rape Case
-Sat, 03 Oct 2026 01:30:00 +0000 — https://www.indiewire.com/news/general-news/josephine-director-beth-de-araujo-speech-cornell-rape-case-1235220071/
-
-“Josephine” director Beth de Araújo used her Breakthrough Director Award acceptance speech to ask men to “hold each other accountable” at the Critics Choice Association’s Celebración of Cinema Television.
-
-### Behemoth! Review: Pedro Pascal Plays a Wayward Cellist in Tony Gilroy s Movingly Atonal Character Study About How People Conduct Themselves
-Sat, 03 Oct 2026 00:06:00 +0000 — https://www.indiewire.com/criticism/movies/behemoth-movie-review-pedro-pascal-1235220030/
-
-The "Andor" creator returns to the big screen with a movie that's smaller and stranger than its title would suggest.
-
-### What Has the Last Decade at Netflix Done for David Fincher?
-Fri, 02 Oct 2026 19:45:00 +0000 — https://www.indiewire.com/news/analysis/david-fincher-netflix-deal-expiring-mindhunter-cliff-booth-1235219429/
-
-With Fincher letting his Netflix deal expire, it's worth assessing whether "Mank," "The Killer," "Mindhunter," and the upcoming "Cliff Booth" movie have had real cultural impact.
-
-### Will Nathan Fielder and Lance Oppenheim s ‘You Can See Everything’ Score a Best Picture Nomination? Not If Oscar History Is Any Guide
-Fri, 02 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/awards/predictions/you-can-see-everything-oscar-chances-nathan-fielder-elizabeth-holmes-1235220022/
-
-The look at Theranos founder Elizabeth Holmes is the breakout of fall festival season, but it faces major challenges in the Best Picture or Best Documentary race.
-
-### SCAD Savannah Film Festival Lineup Includes Being Heumann, A Talent for Murder, and More
-Fri, 02 Oct 2026 19:05:06 +0000 — https://www.indiewire.com/news/festivals/scad-film-festival-2026-full-lineup-revealed-1235220023/
-
-"The Debut," "Behemoth!" "Clarissa," and "Wild Horse Nine" are among the films playing at the 2026 SCAD Savannah Film Festival.
-
-### Cameron Winter at Carnegie Hall Review: PTA s Spellbinding Concert Doc Is a Gorgeously Tender Performance
-Fri, 02 Oct 2026 18:06:32 +0000 — https://www.indiewire.com/criticism/movies/cameron-winter-at-carnegie-hall-movie-review-pta-concert-1235219827/
-
-New York Film Festival: Paul Thomas Anderson operates his own Panavision camera onstage as the Geese frontman plays and croons through hauntingly sparse piano arrangements.
-
 ## The Wrap
 
-### Here s What s New on Prime Video in October
-Sun, 04 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/everything-new-prime-video-october-2026/
+### ‘Lanterns’ Finale Review: HBO’s Epic DC Drama Ends on a Quiet but Promising Note
+Mon, 05 Oct 2026 02:05:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-episode-8-review-hbo-dc/
 
-Welcome to October, friends. It s officially Fall, it s officially spooky season, and it s officially time for streamers to shake up their catalogues. So, what s going on over at Prime Video? Well, there s of course some good Halloween options, like the 1931 Frankenstein, some Chucky variants, and more. There s your feel-good options, like Girls Trip and She s All That. Then there s some brand new releases, like Rachel Morrison s Love of Your Life starring Margaret Qualley. We ve got the comprehensive list for you below. Here s everything headed to Prime Video in October. Oct. 1 A View to a Kill (1985) American Fiction (2023) Bend Of The River (1952) Blade Runner 2049 (2017) Blade Runner: The Final Cut (1982) Bodies Bodies Bodies (2022) Candyman (1992) Casino (1995) Casino Royale (1967) Casino Royale (2006) Child s Play (1988) Child s Play (2019) Chitty Chitty Bang Bang (1968) Creature From The Black Lagoon (1954) Creed (2015) Creed II (2018) Creed III (2023) Dances With Wolves (1990) Dark Harvest (2023) Deepwater Horizon (2016) Diamonds Are Forever (1971) Diary Of A Wimpy Kid: The Long Haul (2017) Die Another Day (2002) Dog (2022) Dr. No (1962) Dracula (1931) Duel At Diablo (1966) Duets (2000) EDtv (1999) Fletch (1985) Fletch Lives (1989) For Your Eyes Only (1981) Frankenstein (1931) From Russia With Love (1964) Girls Trip (2017) Girls Trip (Photo credit: Universal Pictures) Going My Way (1944) Goldeneye (1995) Goldfinger (1965) Guy Ritchie s The Covenant (2023) Hereditary (
+Note: This story contains spoilers from “Lanterns” Episode 8. After belatedly coming through with some apocalyptic action and awesome other worlds, “Lanterns” powered down for its finale. Characters and their issues — which it could be said had already eaten up too much time for a superhero show — sauntered toward resolution with very little slam-banging deemed necessary. Maybe it wasn’t. HBO’s DC Comics adaptation has gotten quite a bit of well-written and -acted mileage out of the contentious relationship between magic ring-slinging space cop Hal Jordan (Kyle Chandler) and his Green Lantern trainee John Stewart (Aaron Pierre), not to mention each man’s complicated backstory. Add in the endless compromises that Kelly Macdonald’s smalltown sheriff Kerry Kane has to make and you’ve got loads of decent behavior-based drama. Which is informed by the show’s science fiction elements, yet tends to distract from rather than mesh with them. Episode 8 added a couple of good (if, in hindsight, obvious) twists along its way to the lead trio’s catharses. Some lame sentimentality came with all the closure, especially in John’s case, but in the end it was satisfying enough. The most rewarding new wrinkle was teenage Noah (Shea Pritchard) turning out to be part killer alien Manhunter — and suicidally conflicted about it. Pritchard played it beautifully, balancing menace with self-examination and keeping Noah’s angst under the lad’s quarterback control. I wouldn’t mind seeing a future series
 
-### All 16 CBS Shows Premiering This Week
-Sun, 04 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/cbs-fall-2026-lineup-schedule/
+### Lanterns Team Breaks Down HBO Drama s Surprising Murder Reveal and John s Destiny
+Mon, 05 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-ending-interview-creators-aaron-pierre-kyle-chandler/
 
-Fall has officially begun, and this week, so does CBS Fall programming slate. It all kicks off on Sunday, with the return of Marshals and Tracker. Though the bulk of the networks Fall slate is made up of returners, there are also three brand new series premiering as well. That includes Eternally Yours, a new vampire comedy from the creators of Ghosts — perfectly timed for the beginning of the Halloween season. Here are all the shows debuting or returning during CBS Premiere Week. Jefferson White in Marshals. (Credit: Cam McLeod/CBS) Marshals Airs on Sundays Marshals returns for its second season on Sunday, October 4 at 8:30 p.m. ET. The series follows Luke Grimes reprising his role as Kayce Dutton from Yellowstone, as he joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. In season 2, Jefferson White will reprise his role as fan-favorite Jimmy Hurdstrom, a good-hearted yet rough-around-the-edges ranch hand who evolved from a troubled criminal into a resilient, proud cowboy, in a recurring role. Marshals will return to its typical 8 p.m. ET time slot on October 11. Justin Hartley as Colter Shaw in Tracker (Tyler Golden/CBS) Tracker Airs Sundays Immediately following Marshals is the Season 4 premiere of Tracker, starring Justin Hartley. In the first episode of the season, Colter’s search for a teenage boy’s missing father leads him to a dangerous criminal operation at the Port of Los Angeles. Tracker returns to
+Note: This story contains spoilers from Lanterns Episode 8. In brightest day, in darkest night, I ll embrace my fear. I ll do what s right. I choose this ring. I choose this fight, in service to this lantern s light. With these words, Lanterns concludes the same way it began: by carving its own path. As Aaron Pierre s John Stewart finally takes up the power ring to become Earth s (and only Earth s) Green Lantern, he recites his own oath, eschewing the words typically uttered by Oa s intergalactic law force — an iconic stanza most every DC fan knows by heart. What we see at the end is that John is not 100% a Green Lantern anymore. He has a Lantern that has a bit of yellow in it, has a bit of fear in it, said series co-creator Tom King at a Lanterns press conference Friday. It’s an unsanctioned Lantern, as Guy says. He’s not saying the same oath as every other Green Lantern because he’s not like every other Green Lantern. Changes like this characterized much of the DC show, which introduced Green Lanterns John Stewart and Hal Jordan (Kyle Chandler) to the James Gunn-helmed DCU. It was a show filled with big swings, including the death of Hal Jordan — who definitively was not resurrected at the end of the season — and an update to both Hal s and John s origins. John’s path was not the normal path, showrunner and co-creator Chris Mundy said. The ring didn’t choose him, He was interviewed. He was raised for it. He was having to choose this thing, then he decided not to do it, and 
 
-### Digger Gets Crushed With $20 Million Global Opening at Box Office
-Sun, 04 Oct 2026 15:33:32 +0000 — https://www.thewrap.com/creative-content/movies/verity-digger-box-office-bomb/
+### Lanterns Finale Explained: Who Killed Hal Jordan?
+Mon, 05 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/lanterns-episode-8-ending-explained-who-killed-hal-jordan/
 
-This week s wide releases are getting very tepid reception from critics and audiences, but their box office outlooks are very different as Amazon MGM s Colleen Hoover adaptation Verity is set to turn at least a modest theatrical profit while Warner Bros./Legendary s Digger looks fated to become one of the biggest busts of the year. Digger carries a budget of at least $125 million, with some reports putting it at around $160 million. Either way, it s a terrible start for the Alejandro Inarritu-directed satire with a domestic opening of $8 million and a global opening weekend of just $20 million, bringing an unceremonious end to Warner Bros. 103-year run as it merges with Paramount Skydance this week. Digger has divided critics and audiences alike with Rotten Tomatoes scores of 51% critics and 70% audience, a C+ on CinemaScore and 47% definite recommend from PostTrak, the sort of scores that might be the makings of a cult film among cinephiles but are poison to a film s efforts to attract the theatrical audience needed for a film of this budget level. And for Tom Cruise, who was pegged by awards prognosticators as a potential Oscar nominee, this is his worst opening weekend since the 2007 Robert Redford war drama Lions for Lambs. Despite that, Cruise expressed his pride in Digger on social media and his gratitude to the film s cast and crew in a social media post on Saturday. I am so honored to have had the opportunity to create this film alongside such talented artists. Thank 
+Note: This story contains spoilers from Lanterns Episode 8. The Lanterns finale finally got to the show s biggest question — who killed Hal Jordan? The very first episode of the HBO series ended with the reveal that the Hal Jordan of 2026 had been shot in the head in the bleachers of the Rushville football field. The question of who killed Hal, and if he was really dead at all, loomed large over the entire season. In classic finale fashion, that question was finally answered and Hal s ultimate fate was revealed. So here s who killed Hal Jordan, what became of the killer, and where John Stewart goes after solving his mentor s murder. Who killed Hal? The finale opens with the reveal of what happened to Hal following his fight with John in 2016 and then jumps a decade to Kerry being there when he is released from prison. We then get quick cuts to them back and living in Rushville while dating — secretly and then openly despite the town still hating the former Green Lantern. Before Hal can attend one of Noah s football games with Kerry, Hal s home is molotov-ed, and it is implied he dies there. But fear (get it?) not, he reawakens on the floor of the Macon slaughterhouse having been brought back by Noah. The theories were true, Noah is indeed the true last Manhunter. He commissioned Sinestro in secret to build him a lantern for a ring and has been grappling with his own nature/nurture questions. Noah lets him go and tells him just to drop it and Hal confronts Kerry about it. She 
 
-### Avengers: Endgame Takes Back the All-Time Box Office Record From Avatar After Encore Reissue
-Sun, 04 Oct 2026 15:08:45 +0000 — https://www.thewrap.com/creative-content/movies/avengers-endgame-avatar-box-office/
+### ‘Marshals’ Boss Explains Season 2’s Tragic Start and Kayce’s Biggest Fear
+Mon, 05 Oct 2026 01:53:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/marshals-season-2-premiere-dolly-death/
 
-After two more weekends of play with its Encore reissue, Avengers: Endgame has added $126 million to its lifetime gross, enough to take back the unadjusted record for the highest grossing film of all time from Avatar. With $36.2 million domestic and $89.8 million overseas, Endgame Encore has pushed the film s global lifetime gross to $2.92 billion, just passing the same figure as James Cameron s 2009 sci-fi epic. It also pushes the Marvel Cinematic Universe s franchise gross total going back to the 2008 launch title Iron Man to a staggering $35 billion. And another $2 billion-plus could well be on the way this December with Avengers: Doomsday this December, which has already racked up close to $60 million in presales according to theatrical sources. The hype for Doomsday helped Endgame take back the all-time record, as Endgame Encore featured a tweaked ending and three new mid-credit and post-credit scenes connected to the upcoming blockbuster. As TheWrap reported last week, Avengers -mania has also crossed over with efforts across the movie theater industry to renovate their multiplexes, with Cinema United reporting $2.7 billion in refurbishment spending over the past two years. With its new Infinity Vision campaign , Disney and Marvel Studios have sought to guide moviegoers to other premium formats to watch Doomsday on as the film will not screen on Imax for at least the first three weeks of its theatrical run. Several exhibitors have told TheWrap that they have accelerated
+This story contains spoilers for “Marshals” Season 2, Episode 1. “Marshals” had a lot of loose ends to address after the Season 1 finale, and of course the Season 2 premiere chose the path of tragic resistance. Sunday’s premiere, titled “All Hat No Cattle,” followed the immediate aftermath of Kayce (Luke Grimes) being betrayed by Tom Weaver (Chris Mulkey) and threatening to kill Tate (Brecken Merrill) if Kayce didn’t sell him his land. Caught in the middle was Tom’s daughter Dolly (Ellyn Jameson), who had started a flirtatious relationship with Kayce and was with him when he was ambushed by her father’s goons. “I had thought throughout last season that Dolly was always in on it — in my mind at least — so when we finished production last year, she was much guiltier than she actually turned out to be,” showrunner Spencer Hudnut told TheWrap, adding that her being in the dark of her father’s plan made her fate all the more tragic. After using Dolly as leverage to secure a meeting with Tom, and him further betraying his own promises, Kayce was able to rescue his son from the brink of death. Tom and Dolly weren’t so lucky, as they drove off a cliff while running from Kayce. Dolly ended up dead. Ellyn Jameson in Marshals. (Gilles Mingasson/CBS) This Sunday kicks off another 20-episode adventure for the “Yellowstone” spinoff, which is also gearing up to be a big season for Tate — who, after being rescued, reminded his father that he’s about to turn 18 and is ready to be more involve
 
-### Taylor Swift Interrupts Dakota Johnson’s ‘SNL’ Monologue With Breakup Advice
-Sun, 04 Oct 2026 04:07:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-dakota-johnson-monologue-taylor-swift/
+### Tracker Release Schedule: When Do New Episodes Air?
+Mon, 05 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/industry-news/business/tracker-release-schedule-cbs/
 
-Dakota Johnson s Saturday Night Live monologue was interrupted this week by the actress literal therapist, Taylor Swift , who bonded with the host over their shared experiences dating musicians who don t wear shoes and happen to be terrible in bed. Johnson kicked off her SNL run this week with a joke about her failed 2024 superhero movie Madame Web, which she remarked she is still promoting because it hasn t made any money yet. Afterward, the actress reflected on the other turns her life has taken since she last hosted SNL. I went through two very public, very lame breakups with two very awesome musicians. Looking for a third, Johnson joked, referencing her splits from Coldplay frontman Chris Martin and Role Model singer-songwriter Tucker Pillsbury. While she vowed not to talk anymore about her personal life, Johnson s monologue was derailed again after she noted that her new movie, Verity, is a psychosexual erotic thriller. So is dating musicians. Some of them don t wear shoes. Some of them are terrible in bed. But all of them are in my DMs, Johnson said. Some people leave concerts with merch, and I leave concerts with a two-and-a-half year relationship. Thankfully, Johnson said she has good friends who do not judge her for her dating choices. Enter: Swift, whom Johnson called her literal therapist, much to the former s discomfort. I m not your therapist, actually. You just show up once a week at my house with an empty bottle of wine and ask if I want some, Swift said. You c
+Justin Hartley returns as Colter Shaw, a skilled tracker and lone-wolf survivalist, when Tracker heads back to CBS this fall. Season 4 will kick off as Colter’s search for a teenage boy’s missing father leads him to a dangerous criminal operation at the Port of Los Angeles, per the official logline for the season opener. Get all the details on Tracker below. When does “Tracker Season 4 premiere? The fourth season debuts Sunday, Oct. 4 at 9:30 p.m. ET/9 p.m. PT on CBS. What time do new episodes air? The Season 4 premiere airs at 9:30 p.m. ET/9 p.m. PT, but future episodes air at 9 p.m. ET/PT on CBS. Where are the episodes streaming? Tracker is available to stream on Paramount+, but how soon you can stream it depends on your subscription tier. Paramount+ premium plan subscribers can watch Tracker live and on demand immediately as the episode drops on CBS, but Paramount+ essential subscribers will have to wait until the day after the episode airs, so in this case, on Monday. When are new episodes coming out? New episodes of Tracker drop Sundays on CBS. Here s the release schedule so far: Season 4 Episode 1: Safe Harbor — Oct. 4 Season 4 Episode 2: Switchback — Oct. 11 Season 4 Episode 1: Original Parts — Oct. 18 Has “Tracker” been renewed for Season 5? Not yet, but the series has been a hit for CBS year after year, so its odds are looking good. Who stars in Tracker? In addition to Hartley, Tracker stars Fiona Rene as Renee Green and Chris Lee as Randy. The post Tracker Release S
 
-### ‘SNL Cold Open: Trump, Rubio and Hegseth Beg Republican Voters for Help Ahead of Bleak Midterms
-Sun, 04 Oct 2026 03:49:32 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-cold-open-trump-marco-rubio-pete-hegseth-midterms/
+### Trump Lashes Out at Fox News for Not Covering His Ohio Rally: Who Makes These Decisions?
+Sun, 04 Oct 2026 23:56:33 +0000 — https://www.thewrap.com/media-platforms/tv/trump-lashes-out-fox-news-not-covering-rally/
 
-Marco Rubio (Marcello Hernández), Pete Hegseth (Colin Jost) and President Trump (James Austin Johnson) all begged voters for their help with this fall s midterm elections during tonight s Saturday Night Live cold open. Two members of the Republican National Committee ( SNL stars Ashley Padilla and Andrew Dismukes) noted at the top of the segment that the midterms are looking bleak for the GOP this year. It was with that in mind that they brought in Hernández s Rubio, urging him to record a message convincing voters to back Republicans this year. Unfortunately, the Secretary of State just used his time to tell voters in Spanish that Trump tricked him into the Iran War. A wheelchair-bound Mitch McConnell (Mikey Day) was not much help, either. All the Kentucky senator could muster was a slowly raised peace sign before he was wheeled out of the room again. Jost s Hegseth then came in moments later with a can of Tom Holland s non-alcoholic b h beer to call on Republican voters in a manner only he could. I need all you patriots at home to do the gayest thing ever and vote, Hegseth said, bragging, I m putting God back in war, and it s working. Our soldiers are praying a lot more than they used to. I m always hearing them say, Dear God, why?' Moving on, the Defense Secretary dished out some weird slam poetry urging everyday Republicans to show up at the polls this fall. No weak, no woke, no DEI, no guy-on-guy, Jost s Hegseth rhymed. No weirdos, no beardos, no Jills who became Joes. I
+President Donald Trump lashed out at Fox News on Sunday, claiming that the network lacked coverage of his Saturday rally in Vandalia, Ohio. Trump posted on his social media platform Truth Social at 9:11 a.m. ET on Sunday, roughly three hours into the day s morning broadcast of Fox & Friends. In his post, Trump, a regular Fox News viewer and even occasional call-in guest, called out the program for not adequately covering his rally from the evening before. Sad to see that Fox & Friends (Sunday) is not covering our packed house and incredibly enthusiastic (beyond!) Rally that took place in Ohio last night, or the ones in Alabama, Texas, or Oklahoma over the past two days, Trump wrote on Truth Social. They were all sold out, with thousands of people trying to get in, and are absolutely phenomenal, better than ever! It’s the old undercurrent at Fox News! Other networks are reporting about these Rallies, and really positively, like crazy! Our people want to see our Rallies, and reports on our Rallies, on Fox News, or they will very quickly stop watching (like I am doing right now!). Trump went on to call out Fox News contributor Jessica Tarlov, a Democratic Party strategist, as stupid and slamming the network for having her forced down MAGA S throats. Who makes these decisions at Fox News? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover TRUMP,' Trump continued. Cover our happenings, and not the opposition to Grea
 
-### A Statement Review: Tom McCarthy s Climate Change Dramedy Is a Period Piece That Slyly Meets Our Moment
-Sun, 04 Oct 2026 00:15:00 +0000 — https://www.thewrap.com/creative-content/movies/a-statement-review-tom-mccarthy-climate-change-dramedy/
+### Marshals Season 2 Release Schedule: When Do New Episodes Air?
+Sun, 04 Oct 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/marshals-season-2-release-date-time-epiosdes-schedule/
 
-On Oct. 30, 1980, 20 experts got together at the Don CeSar Hotel in St. Petersburg, Fla., to address the impact of CO2 emissions on the climate. What they managed to prove is what every social scientist already knows: If there’s a chance for people to get in their own way, they’ll knock each other over to grab it. This, ultimately, is the statement Tom McCarthy (“Spotlight”) aims to make with “A Statement.” And unlike his hapless protagonists, he handily succeeds. The movie is based on true events documented by journalist Nathaniel Rich in his 2019 book “Losing Earth: A Recent History,” but McCarthy and his collaborators, including co-writers Thomas Bidegain and Noé Debré, dig so deep into the data that they create a sort of scientific experiment themselves. Nearly every line of dialogue was lifted verbatim from the panel’s hundreds of pages of transcripts, and it’s delivered in a setting that feels almost forensically accurate. The most optimistic member of this cohort is moderator Tom Jorling (Paul Rudd), who has gathered everyone to alert the world to the growing environmental emergency. He’s organized four sessions over two days, during which the group can hash out the language, reach a consensus and bring their pronouncement straight to Congress. He has not, however, accounted for the impact of each personality. MIT nuclear engineer David Rose (John Turturro), for example, arrives with reams of evidence that society is unable to shift fast enough to make changes worthwhi
+The new season of Marshals is finally back and picking up after the freshman finale cliffhanger. Marshals Season 2 hits the ground running with Kayce on the move to try to get back his kidnapped son. On top of the breakneck pace of the sophomore season, it also boasts the return of one of the fan-favorite Yellowstone characters. For fans who have been missing Jimmy, you have much to look forward to when the CBS hit starts airing again. Here s everything you need to know about where and when to tune in for the second season of CBS Marshals. When is the Marshals Season 2 premiere date? Marshals Season 2 premieres on Sunday, Oct. 4, at 8:30 ET/7:30 CT. Where can I watch Marshals Season 2? Marshals premieres on Sunday nights on CBS and streams on Paramount+ the next day. Are episodes released weekly or all at once? The second season of Marshals has a weekly release as most of the Yellowstone spinoffs do. Here is the full rundown of when to expect episodes from the first half of the season: Episode 1 Oct. 4 Episode 2 Oct. 11 Episode 3 Oct. 18 Episode 4 Oct. 25 Episode 5 Nov. 1 Episode 6 Nov. 8 Episode 7 Nov. 15 Episode 8 Nov. 22 Those are the release dates for the first half of the season. The dates for episodes 9-18 have yet to be announced but they ll be landing in 2027. What is Marshals Season 2 about? The second season of the Yellowstone picks up right after the Season 1 cliffhanger. Kayce is forced to go rogue from the marshal service to go after his son Tate who has been tak
 
-### Chris Rock Says ‘Wokeness’ Has Created a Less Forgiving World: ‘We’re in the Old Testament Right Now’
-Sat, 03 Oct 2026 23:53:24 +0000 — https://www.thewrap.com/culture-lifestyle/culture/chris-rock-wokeness-forgiveness-cancel-culture/
+### James Gunn Is Already Writing His Next Film After Superman Sequel
+Sun, 04 Oct 2026 22:08:14 +0000 — https://www.thewrap.com/creative-content/movies/james-gunn-already-writing-next-film/
 
-Chris Rock said that his problem with “quote, unquote, wokeness” is that it leads to a world that is, in his opinion, less forgiving than it needs to be. The comedian and “Misty Green” filmmaker stopped by the New York Times’ “The Interview” series this weekend and said that while advocating for marginalized communities is great, it needs to come with forgiveness, a huge theme in his new film starring Rosalind Eleazar. When asked by host David Marchese about the throughline forgiveness has in the film, Rock said that “you don’t really realize if you love somebody until you have to forgive them,” adding that somebody letting you down or betraying you, but still choosing to be around them, is what true love is. I have a friend that’s going to be nameless that might have gotten canceled, Rock said. Another friend of mine was like, How can you be friends with that person? I was like, If you’re only friends with your friends when they’re good, they’re not your friends. If you’ve got a bunch of people that are only going to be there when you’re good, you have no friends. That doesn’t mean condoning abusive behavior; you can reprimand your friends. That’s also part of friendship. When pressed by Marchese, who said that everyone has to have a line at some point, the comedian held his ground. I’m a Christian, and God forgives, he said. The problem with quote, unquote, wokeness — and don’t get me wrong, it is great that marginalized people have a voice; it is great to advocate for anyb
+While James Gunn tinkers away on his Superman sequel Man of Tomorrow, the writer-director is already at work on his next film. Already in it, Gunn wrote Sunday on Threads when asked if he was writing his next feature. I had to do something while I was waiting for the assembly!! The filmmaker wrapped principal photography on his follow-up to Superman in August and is now deep into the post-production process. The follow-up, which sees David Corenswet return to star in a story that will see the DC Comics superhero forced to team up with his adversary Lex Luthor (Nicholas Hoult), is set to release on July 9. The sequel will also star Adria Arjona in a mysterious role and sees the return of cast members like Rachel Brosnahan, Skyler Gisondo and Edi Gathegi, as well as Aaron Pierre, who recently debuted as the superpowered John Stewart in HBO Max s Lanterns. What comes after Man of Tomorrow for Gunn is anyone s guess, though the project will likely stay within the DC Comics universe that kicked off with Superman. Gunn, a co-chairman of DC Studios with Peter Safran, is spearheading a new cinematic universe featuring DC characters across film and television. Both execs are set to remain at the helm of the banner as its parent company, Warner Bros. Discovery, is set to be acquired by Paramount-Skydance in a landmark $111 billion deal later this week. Since Superman successfully launched with $618 million at the global box office, the DC Universe s follow-up, Supergirl, bombed with $1
 
-### White House Fires Back at Chuck Lorre After Anti-Trump Gala Speech: ‘Seek Psychiatric Help’
-Sat, 03 Oct 2026 22:11:55 +0000 — https://www.thewrap.com/culture-lifestyle/culture/white-house-fires-back-chuck-lorre-anti-trump-gala-speech/
+### The 3 Best New Movies to Watch on Hulu This Week
+Sun, 04 Oct 2026 22:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-on-hulu-oct-4-10/
 
-The White House admonished TV producer Chuck Lorre, telling him to “seek psychiatric help” after the “Big Bang Theory” creator mocked President Donald Trump and first lady Melania Trump in an acceptance speech at a Los Angeles charity gala. Lorre accepted the Founders Angel Award at Project Angel Food’s Sept. 26 Angel Awards. He was honored with the charity’s highest honor, which it has bestowed only once before in its 37-year history. While accepting the lauded award, the veteran producer, who helmed hits like “Two and a Half Men” and “Mom,” launched into a series of pointed jokes about Trump and his administration. “Sure, I’d love to stand here and talk about my deep yearning for a more compassionate government, one that prioritizes the health and welfare of its citizens,” Lorre said, as reported by the Daily Beast . “But the burden of my profession demands that I take this opportunity to say a few words about that bloated orange piece of s t in the White House.” He continued: “I’d love to express my gratitude to all the people who’ve devoted their lives to making Project Angel Food an oasis for those in need. That would be my preference. But because I’m a comedy writer, I have no choice but to explain how I wake up every morning to turn on CNN to see if the president of the United States had a heart attack while straining to take a dump.” He also took a moment to call out the first lady, saying, “I’d love to encourage you to pull out your wallets and contribute to this ama
+A wide array of new movies have arrived on Hulu this month, including the 2022 hit film that announced Resident Evil director Zach Cregger as one of the horror genre s most exciting new voices. The streamer s other October additions include Frankenstein director Guillermo del Toro s most underrated film and a body horror comedy starring Demi Moore and Margaret Qualley that already feels just two years after its release like a contemporary genre classic. Here are the three best movies new to Hulu you can watch this week. Barbarian (20th Century Studios) Barbarian (2022) Writer-director Zach Cregger took the horror world by storm with Barbarian. The film, an alternately terrifying and gut-bustingly funny horror comedy, was obviously and lovingly made in the shadow of genre artists like Sam Raimi, and yet it stands on its own. Barbarian follows a woman (Georgina Campbell) whose life takes an increasingly horrifying turn after she discovers the Airbnb she reserved was not only double-booked by a mysterious man (Bill Skarsgård) but also contains a strange and dangerous secret. To say much more would be to spoil the fun of a movie that, in the best way possible, takes you on the kind of rollercoaster ride the specifics of which you could never see coming. Bradley Cooper in Nightmare Alley (Searchlight Pictures) Nightmare Alley (2021) Four years after his 2017 film The Shape of Water won Best Picture and Best Director at the Oscars, writer-director Guillermo del Toro returned with N
 
-### Tom Cruise Insists He s So Proud of Digger Amid Disappointing Box Office
-Sat, 03 Oct 2026 21:10:21 +0000 — https://www.thewrap.com/creative-content/movies/tom-cruise-proud-of-digger-amid-disappointing-box-office/
+### Bassam Tariq Defends Kevin Feige After Their Failed Blade Reboot: Competing With Wesley Snipes Was an Impossible Task
+Sun, 04 Oct 2026 20:35:18 +0000 — https://www.thewrap.com/creative-content/movies/blade-director-bassam-tariq-defends-kevin-feige/
 
-Tom Cruise isn’t ready to call Digger a lost cause, even after the film stumbled out of the gate at the box office . The actor shared behind-the-scenes photos from the film’s production Saturday, thanking the cast and crew for their hard work. “Digger” marked something of a return for Cruise, who has spent the past decade or so largely committed to blockbusters and action filmmaking and seemed to be returning to a role closer to his work in “Magnolia” or even “Tropic Thunder.” Many are also calling the film a clear awards play for Cruise, who has won an honorary Oscar but has never taken home one of the Academy’s acting trophies. In the film, Cruise plays a powerful oil tycoon named Digger Rockwell whose arrogance and greed trigger a global catastrophe. Digger is then tasked by the president (John Goodman) with “digging us out” of the mess he created. The film has generated a lot of conversation about what its true plot is. You can read spoilers here . “ Digger; is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists,” the actor posted on X Saturday. “Thank you to the entire cast and crew for your dedication, hard work, and joy. The experience was truly unforgettable and I’m so proud of what we created.” DIGGER is officially in theaters and I am so honored to have had the opportunity to create this film alongside such talented artists. Thank you to the entire cast and crew for your dedication, hard work, an
+Your Mother Your Mother Your Mother writer-director Bassam Tariq teamed with Mahershala Ali on the original action thriller after the pair s effort to launch a Blade reboot for the Marvel Cinematic Universe fell apart. While the troubled project never came to fruition, Tariq still defended Marvel Studios chief Kevin Feige. I want to be clear: I like Kevin, Tariq told Vulture in an interview published Friday. He’s a good dude. I really dislike all this s t about like, Marvel fumbled this. F k Kevin Feige. No, man. He’s got a lot on his plate, too much. And I think we also had this impossible task of trying to compete with the first superhero movie, which is Wesley Snipes’s iconic Blade. It’s really such a massive undertaking in a way that affected so many people. Ali was announced as the lead of a Blade reboot at Marvel Studios Comic-Con panel in 2019, taking on the role of the vampire-slaying superhero that Wesley Snipes first played through a trilogy of features from 1998 to 2004. But the film never emerged from development, with Tariq joining in 2021 before departing in 2022. The unproduced feature went through another director, Yann Demange; set and delayed several release dates; and attached names like Delroy Lindo, Aaron Pierre and Mia Goth. But the project has been all but nixed at Marvel Studios. Snipes even returned to play Blade before Ali ever got to play the role on screen, with the former franchise star making a cameo in 2024 s Deadpool & Wolverine. Ali has been f
 
 ## Collider
 
-### Apple TV's Hit Sci-Fi Thriller Officially Returns After Multiple Delays
-Sun, 04 Oct 2026 17:30:12 GMT — https://collider.com/apple-tv-sci-fi-thriller-severance-streaming-success-october-2026/
+### The 10 Best Fantasy Movies of All Time, Ranked According to the AFI
+Mon, 05 Oct 2026 11:38:12 GMT — https://collider.com/best-fantasy-movies-all-time-ranked-afi/
 
-In the last few years, Apple TV has developed a strong reputation for having some of the best original TV shows any platform has to offer. Where the streamer has especially excelled is in the sci-fi genre , where it just recently introduced its most popular show of all time in Pluribus . Season 1 of Pluribus , which hails from creator Vince Gilligan ( Breaking Bad ), shattered records on its way to becoming the most-watched Apple TV series ever. The streamer has already confirmed that another season is on the way, though it’s still unclear at this time when it will be released. Apple TV also found success this summer with the premiere of Silo Season 3, the hit sci-fi series starring Rebecca Ferguson . The fourth and final season of the show is expected to begin streaming next summer.
+Fantasy movies are some of the film business's most reliable efforts. From epic franchises like The Lord of the Rings to classics like The Wizard of Oz , fantasy movies are crucial to Hollywood's fabric, providing audiences with dazzling adventures that defy conventions and expectations, and invite imaginations to soar.
 
-### It's Officially the End of an Era for Will Smith's Steampunk Sci-Fi Western
-Sun, 04 Oct 2026 17:00:12 GMT — https://collider.com/will-smith-sci-fi-western-wild-wild-west-leaving-paramount-plus-october-2026/
+### The 5 Greatest Fantasy Movies That You Haven't Seen
+Mon, 05 Oct 2026 11:32:12 GMT — https://collider.com/best-fantasy-movies-you-have-not-seen/
 
-It’s well-established Hollywood lore that Will Smith passed on the lead role in Quentin Tarantino ’s Django Unchained because he thought that the character eventually played by Christoph Waltz would steal the show. But did you know that Smith also passed on the role of Neo in The Matrix ? He felt that the Wachowskis were too green, and wasn’t impressed by their pitch. Instead, he starred in one of the most infamous disasters of the 1990s. The movie in question hasn’t exactly found a fanbase in the years since its release, despite having all the makings of a cult curiosity. But it’s currently streaming on Paramount+, which may encourage an entirely new generation to give it a shot.
+Fantasy is rich with memorable movies, TV shows, books, and even songs. Indeed, as a genre that dates back to the most ancient times and has inspired some of the most memorable works of art in our collective history, it's practically bursting at the seams with choices. In the movies department, particularly, fantasy has plenty of juggernauts, universally loved movies that almost everyone knows, loves, and has watched at least once in their lives.
 
-### Amanda Seyfried's Cult Classic Thriller Officially Finds a New Streaming Home Ahead of Halloween
-Sun, 04 Oct 2026 16:30:12 GMT — https://collider.com/amanda-seyfried-jennifers-body-streaming-starz-october-2026/
+### 8 Movies To Watch if You Like 'The Love Hypothesis'
+Mon, 05 Oct 2026 11:20:11 GMT — https://collider.com/movies-like-the-love-hypothesis/
 
-Amanda Seyfried is one of the most multi-talented actors of her generation. Late last year, she played a starring role in one of the most viral movies of 2025, opposite Sydney Sweeney and Brandon Sklenar in The Housemaid . An adaptation of Freida McFadden ’s bestselling novel of the same name, word of mouth and a resurgence in the book's popularity helped The Housemaid shoot to the top of the box office, eventually earning $400 million worldwide against a production budget of just $35 million.
+If you loved The Love Hypothesis , chances are you're here for more than just a cute love story. Ali Hazelwood's bestselling novel has all the ingredients of an irresistible romcom: forced proximity, a brooding leading man, a sunshine heroine focused on her career, and a fake-relationship that becomes considerably more complicated as the characters start catching real feelings. Thankfully, Hollywood has been mining that particular formula for decades.
 
-### 10 Greatest Zombie Movies of the 2010s, Ranked
-Sun, 04 Oct 2026 16:07:12 GMT — https://collider.com/best-zombie-movies-2010s-ranked/
+### 5 Scary New Books To Read for Spooky Season in 2026
+Mon, 05 Oct 2026 10:49:12 GMT — https://collider.com/scary-new-books-to-read-for-spooky-season-in-2026/
 
-While it was just beginning to take form throughout the late 2000s, no singular decade was as wildly enamored by the concept and allure of zombies as the 2010s . From the wildly popular The Walking Dead show beginning in 2010, the release and popularity of many popular zombie video games like DayZ , Dying Light , and Call of Duty: World at War – Zombies , and most importantly, a non-stop barrage of zombie movies. From massive blockbusters to low-budget indies, the 2010s saw a massive explosion of zombie filmmaking that was seemingly inescapable as a trend .
+Horror and thriller stories are having a moment this year. Perhaps it’s the fact that we’ve all survived a pandemic, or that global events often feel stranger than fiction. Either way, there’s no shortage of new horror and thriller novels . However, finding a scary book without the horror tropes and cliché endings? Well, that’s a different story. To save you the frustration of reading a predictable book that’s hard to finish, here are the best scary page-turners released so far in 2026 —just in time for spooky season.
 
-### Tom Cruise’s Divisive New Movie Officially Ends His Box Office Winning Streak
-Sun, 04 Oct 2026 16:00:11 GMT — https://collider.com/tom-cruise-digger-biggest-box-office-bomb-14-years/
+### The Lord of the Rings Books, Ranked by a Diehard Fan of the Series
+Mon, 05 Oct 2026 10:32:11 GMT — https://collider.com/lord-of-the-rings-books-ranked-by-a-diehard-fan/
 
-Three holdover hits — Resident Evil , Heart of the Beast , and Primetime — managed to outperform the divisive new movie starring Tom Cruise , Digger . Directed by two-time Oscar winner Alejandro G. Iñárritu , the satirical epic is shaping up to be a historic bomb, and the circumstances surrounding its release seem appropriately dour. Digger is the final movie in Warner Bros.' century-long run as an independent entity, and the last to be released under the leadership of the dismissed studio chiefs Pam Abdy and Michael De Luca . Produced on a budget that has been reported to be anywhere between $140 million and $180 million, the movie was projected as an Oscar play for Cruise, but its mixed critical reception and disastrous box-office results may dent his chances.
+The Lord of the Rings is one of the greatest pieces of literature ever written and one that has withstood the test of time as the most enduring work within the legendarium of J.R.R. Tolkien . The Hobbit had been a hugely successful book that Tolkien’s publishers begged to have a sequel for, but his plans for another adventure set in Middle-earth lead him down a far more ambitious path that collided with events in the real world. Written throughout World War II, The Lord of the Rings was heavily inspired by the experiences of the young men who had given their lives to face off against the ultimate evil; the notion of the different nations coming together amidst their differences to form the Allied Forces can be seen within the alliance between men, elves, and dwarves to defeat the Dark Lord Sauron. However, there is not a strict basis in metaphor that offers a one-to-one explanation within history for everything that Tolkien came up with. Christian mythology is also a major component, as the three Christ figures in the priest, the prince, and the prophet can be seen within the three main characters of Gandalf, Aargorn, and Frodo.
 
-### 'The Rookie' Proved in 1 Episode Why Eric Winter Is the Perfect Tim Bradford
-Sun, 04 Oct 2026 15:55:12 GMT — https://collider.com/the-rookie-eric-winter-perfect-tim-bradford-episode-season-4/
+### The 8 Most Perfect Animated Movies of the 1980s, Ranked
+Mon, 05 Oct 2026 10:11:11 GMT — https://collider.com/most-perfect-animated-movies-1980s-ranked/
 
-As we wait for The Rookie Season 9, it's time to revisit one of the most important episodes for main character Tim Bradford ( Eric Winter ). The Rookie established Tim from the outset as a strict and disciplinarian training officer at the Mid-Wilshire Division. As the show progressed, more details of Tim's backstory were fleshed out, including the revelation of his estranged wife and his tumultuous upbringing. However, the best episode, where Winter got to stretch his acting muscles and perfectly personify the character , came in this very special Season 4 episode.
+The 1980s was an experimental decade for films, thanks in large part to studios being more willing to spend money on their projects. Animation was no exception, especially since Disney had been stuck in a rut ever since the death of Walt Disney in 1966. This allowed other studios to try their hand, while across the Atlantic, Japan was releasing some major works that would become global successes and help contribute to the popularity of anime.
 
-### ‘The Simpsons’ Earned a TV-MA Rating Over One Surprisingly Small Detail
-Sun, 04 Oct 2026 15:31:12 GMT — https://collider.com/the-simpsons-tv-ma-episode-disney-plus-censored/
+### Marvel's 'Blade' Reboot Officially Finds a New Contender [Exclusive]
+Mon, 05 Oct 2026 10:00:11 GMT — https://collider.com/marvel-blade-reboot-william-catlett-casting-comments/
 
-Sunday’s “Diary of a Chimpy Kid” sends Bart and Lisa on a chimp-rescue mission that has Homer worried it will tear off his face and groin — yes, you read that right. But before its October 4 premiere on Fox, there was an older episode’s unexpected ratings controversy that tripped censors for the most bizarre and tiniest detail . Fox’s animated series The Simpsons has been on the air for so long that production has accomplished every conceivable milestone . However, in Season 26, an uncensored episode earned a TV-MA rating.
+There have been many Marvel projects that have never seen the light of day, but none of them sting quite as profoundly as the MCU's Blade reboot. When Marvel first announced that Oscar winner Mahershala Ali would be stepping into the role of everyone's favorite vampire-hunting daywalker, there was a huge amount of excitement, especially considering that Blade hasn't gotten his own standalone movie since 2004. Despite having a very small voice cameo in a post-credits scene of Eternals , Ali has made it agonizingly clear that he is done waiting to play the character . MCU fans did get a consolation prize with Wesley Snipes reprising his iconic role in Deadpool & Wolverine , but despite his insistence that "There's only ever gonna be one Blade," one can't help but wonder what could have been with the scrapped reboot.
 
-### Anne Hathaway Is Officially the Box Office Queen of 2026
-Sun, 04 Oct 2026 15:30:11 GMT — https://collider.com/anne-hathaway-verity-box-office-33-million/
+### Every Akira Kurosawa Epic Movie, Ranked
+Mon, 05 Oct 2026 09:37:12 GMT — https://collider.com/akira-kurosawa-epic-movies-ranked/
 
-A textbook counter-programming play was set up this week at the box office, with the Amazon MGM psychological thriller Verity and the Warner Bros. satirical epic Digger . However, the face-off ended up being a one-sided affair, with Verity overperforming in its debut frame and Digger falling short of even the most pessimistic projections. Coming on the heels of fellow Colleen Hoover adaptation It Ends with Us , which grossed more than $350 million worldwide a couple of years ago, Verity had positive momentum heading into release. Directed by Michael Showalter , the movie marks the third major hit of the year for star Anne Hathaway .
+Even without taking his epic movies into account, Akira Kurosawa is still one of the best and most important filmmakers of all time, having helmed the likes of Rashomon , Throne of Blood , Yojimbo , and High and Low . All those movies have a lot going on in them, and with High and Low, you do admittedly have something that’s pretty close to being epic in runtime, but it would be a slight stretch to call these movies epics in the traditional sense.
 
-### The 10 Best B-Movies in Film History, Ranked
-Sun, 04 Oct 2026 15:04:13 GMT — https://collider.com/best-b-movies-film-history-ranked/
+### Glen Powell’s 90% Rotten Tomatoes Audience Score Blockbuster Officially Dominates 2026 Streaming
+Mon, 05 Oct 2026 09:30:12 GMT — https://collider.com/glen-powell-twisters-streaming-success-hulu-october-2026/
 
-If you're after the technical definition of a B-movie , it’s technically something that isn't really made anymore, because B-movies in the traditional sense existed when double features were more common. Two movies would be screened, obviously, with the first being a bit more prestigious, and therefore an “A” movie, with a bigger budget and more by way of production values, and then the second film would often be of a lower quality, hence being a “B-movie.”
+Few names are hotter in Hollywood right now than Glen Powell , and one of his biggest movies from the last few years is finding continued success on streaming. Powell had been around for years as a supporting figure in big movies like The Dark Knight Rises , but it wasn’t until he teamed up with Tom Cruise in 2022 for Top Gun: Maverick that he truly arrived as a star. Powell’s rising stardom was called into question last year when he headlined The Running Man , the Stephen King remake written and directed by Edgar Wright . The film received middling reviews and was also one of the biggest bombs of the year. Powell has found redemption with his new TV series, Chad Powers , which has become one of the most-watched shows of the year on Hulu.
 
-### 6 Upcoming Sci-Fi Shows, Ranked by Hype
-Sun, 04 Oct 2026 15:03:12 GMT — https://collider.com/upcoming-sci-fi-shows-ranked-hype/
+### The 15 Best Animated Movies of the 2000s, Ranked According to Letterboxd
+Mon, 05 Oct 2026 09:11:11 GMT — https://collider.com/best-animated-movies-2000s-letterboxd/
 
-Sci-fi has always been one of the most versatile genres, spanning everything from post-apocalyptic futures to strange new worlds and multiverses full of unlimited possibilities. The streaming era may have given audiences too much choice, but it has also brought new stories and turned more beloved sci-fi books into must-see shows .
+The 2000s were a defining decade when it came to feature-length animation as a whole. The decade saw the massive rise of 3D computer animation becoming the new standard in studio animation, and the decade as a whole saw more and more filmmakers use animation to experiment and tell their own beautiful stories. At the same time, the decade was also considered the final hurrah for 2D animation as the primary form of animation, acting as a sort of swan song before transitioning into the future of animated storytelling.
 
