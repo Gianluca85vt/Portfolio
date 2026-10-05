@@ -24,6 +24,9 @@ const DAYS = 28;
 /** Searches for him or the site by name say nothing about who the readers are. */
 const OWN = /gianluca|scattarella|backdrop|monk3y/i;
 
+/** A site address typed into Google is somebody looking for another site. */
+const SITE_ADDRESS = /\.(com|net|org|io|it)\b/i;
+
 const pattern = (t) => new RegExp(`(^|[^a-z0-9])${t.replace(/[.+]/g, '\\$&')}([^a-z0-9]|$)`, 'i');
 
 /**
@@ -32,8 +35,7 @@ const pattern = (t) => new RegExp(`(^|[^a-z0-9])${t.replace(/[.+]/g, '\\$&')}([^
  */
 export function pickQueries(rows, n = 30) {
   const ranked = rows
-    // A site address typed into Google is somebody looking for another site.
-    .filter((r) => !OWN.test(r.query) && r.query.length >= 6 && !/.(com|net|org|io|it)/i.test(r.query))
+    .filter((r) => !OWN.test(r.query) && r.query.length >= 6 && !SITE_ADDRESS.test(r.query))
     .map((r) => ({ ...r, craft: TOPICS.some((t) => pattern(t).test(r.query)) }))
     .sort((a, b) => Number(b.craft) - Number(a.craft) || b.impressions - a.impressions);
   const picked = [];

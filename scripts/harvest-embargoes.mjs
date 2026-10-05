@@ -33,7 +33,7 @@ const BATCH = 50;
 
 // Store entries that are not a game release. A demo has a publisher and a date
 // and would otherwise sail through every other test.
-const NOT_A_RELEASE = /(demo|playtest|soundtrack|ost|artbook|expansion pack|dlc|season pass|widgets?|bundle)/i;
+const NOT_A_RELEASE = /\b(demo|playtest|soundtrack|ost|artbook|expansion pack|dlc|season pass|widgets?|bundle)\b/i;
 
 const UA = { 'user-agent': 'gianlucascattarella.it review radar' };
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
