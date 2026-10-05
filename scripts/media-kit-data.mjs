@@ -32,7 +32,8 @@ const pattern = (t) => new RegExp(`(^|[^a-z0-9])${t.replace(/[.+]/g, '\\$&')}([^
  */
 export function pickQueries(rows, n = 30) {
   const ranked = rows
-    .filter((r) => !OWN.test(r.query) && r.query.length >= 6)
+    // A site address typed into Google is somebody looking for another site.
+    .filter((r) => !OWN.test(r.query) && r.query.length >= 6 && !/.(com|net|org|io|it)/i.test(r.query))
     .map((r) => ({ ...r, craft: TOPICS.some((t) => pattern(t).test(r.query)) }))
     .sort((a, b) => Number(b.craft) - Number(a.craft) || b.impressions - a.impressions);
   const picked = [];
@@ -88,11 +89,13 @@ async function search() {
   const [totals, queries, countries] = await Promise.all([
     scQuery(token, site, { ...range }),
     scQuery(token, site, { ...range, dimensions: ['query'], rowLimit: 400 }),
-    scQuery(token, site, { ...range, dimensions: ['country'], rowLimit: 30 }),
+    scQuery(token, site, { ...range, dimensions: ['country'], rowLimit: 250 }),
   ]);
   const t = totals[0] ?? { clicks: 0, impressions: 0, position: 0 };
-  // Shares of the whole, not of the thirty countries the API returned.
-  const allImpressions = t.impressions || countries.reduce((a, r) => a + r.impressions, 0) || 1;
+  // Shares of every country together. Not of the dimensionless total: with a
+  // page filter Search Console counts that one per page, and the first refresh
+  // divided by it and gave Germany one per cent.
+  const allImpressions = countries.reduce((a, r) => a + r.impressions, 0) || 1;
   return {
     from: startDate,
     to: endDate,
