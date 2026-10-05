@@ -97,16 +97,12 @@ threatening at four different camera distances without breaking the collision
 mesh", and that sentence is the only thing in the paragraph that would get
 somebody hired.
 
-[[ANEDDOTO: a job where the final result looked like nothing — a shot, a prop, a corridor — and took far longer than anyone would guess from looking at it. What ate the time, specifically.]]
-
 This is the whole reason the MobyGames feature exists, and the reason I am
 irritated rather than grateful. The database is offering to sell me a text box
 in which to explain what the credit roll should have said. The credit roll
 belongs to the studio. The studio wrote it, the studio shortened it, the
 studio in several cases this month no longer exists. And the fix for a record
 the employer got wrong is now a subscription the employee pays.
-
-[[ANEDDOTO: a credit that was wrong, late, missing, or under the wrong role — on anything you worked on. How you found out, and whether anything came of it.]]
 
 ## A hundred and eighty dollars
 

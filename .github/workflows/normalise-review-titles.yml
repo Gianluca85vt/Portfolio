@@ -37,6 +37,13 @@ jobs:
       - name: Strip any score from review headlines
         run: node scripts/normalise-review-titles.mjs
 
+      # The same kind of net for a different slip: a writer's [[ANEDDOTO: …]]
+      # placeholder left on an article that went live (28 September and
+      # 5 October). Publishing refuses them now; this catches any that arrive
+      # by another door. Published articles only, whole placeholder paragraphs.
+      - name: Remove writer placeholders from published articles
+        run: node scripts/strip-placeholders.mjs
+
       - name: Commit the corrections
         run: |
           set -euo pipefail
@@ -47,7 +54,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "nothing to fix"
           else
-            git commit -m "Strip the score from a review title"
+            git commit -m "Tidy published articles: review titles and placeholders"
             # Runs queue rather than cancel, and the social jobs push too, so a
             # bare push can hit a moved main. Rebase first.
             git pull --rebase --autostash

@@ -98,6 +98,21 @@ async function fileExists(path: string) {
  * Returns the reason to refuse, or null to go ahead.
  */
 export async function publishRefusal(text: string): Promise<string | null> {
+  // The Monday editorial leaves [[ANEDDOTO: …]] where a memory of his own
+  // belongs, for him to write before it goes out: nobody else can. Two
+  // editorials went live with four of them showing on 28 September and
+  // 5 October. Not a build rule — it holds back this one piece, nothing else.
+  const placeholders = text.match(/\[\[[A-Z]+:?[^\]]*\]\]/g) ?? [];
+  const first = placeholders[0];
+  if (first) {
+    const n = placeholders.length;
+    return (
+      `This one still has ${n === 1 ? 'a placeholder' : `${n} placeholders`} waiting for you, like ` +
+      `${first.slice(0, 60)}${first.length > 60 ? '…' : ''}. Write your own line in its place, ` +
+      'or delete it, in the CMS — then publish.'
+    );
+  }
+
   const cover = /^cover:\s*(.+)$/m.exec(text)?.[1]?.trim().replace(/^["']|["']$/g, '');
 
   if (!cover) {

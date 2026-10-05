@@ -55,8 +55,6 @@ asset anybody ever
 checked into it becomes material for the thing that generates. There is no
 version of a generative engine that runs on nothing.
 
-[[ANEDDOTO: a short memory of working inside an in-house or proprietary tool — the particular trust you place in something that only ever does exactly what you asked, and what it felt like the first time one of them did something you had not asked for]]
-
 ## Ten years, corrupted
 
 On the same weekend, PC Gamer reported that the creator of SFO: Grimhammer
@@ -149,8 +147,6 @@ We are further down that same queue than we like to admit. The outsource
 houses, the contract environment artists, the people who spend three months
 on asset cleanup for somebody else's title and never appear anywhere in the
 credits for it.
-
-[[ANEDDOTO: a line about generic contract or outsource work — a job where the finished assets were handed over and you never saw what happened to them afterwards]]
 
 Your work goes upstream. It always has. What is new is that upstream now has
 a use for it that competes with you.
