@@ -40,28 +40,28 @@
     ],
     "countries": [
       {
+        "name": "United States",
+        "share": 19
+      },
+      {
         "name": "Germany",
-        "share": 1
+        "share": 6
+      },
+      {
+        "name": "Sweden",
+        "share": 6
       },
       {
         "name": "United Kingdom",
-        "share": 1
+        "share": 5
       },
       {
         "name": "Italy",
-        "share": 1
+        "share": 5
       },
       {
         "name": "India",
-        "share": 1
-      },
-      {
-        "name": "Russia",
-        "share": 0
-      },
-      {
-        "name": "Brazil",
-        "share": 0
+        "share": 4
       }
     ]
   },
