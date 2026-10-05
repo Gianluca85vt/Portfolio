@@ -122,6 +122,17 @@ export const blog = {
   // The Facebook Page, not the personal profile in `socials` — a Page is what
   // readers can follow, and the only one the Graph API can ever post to.
   facebook: 'https://www.facebook.com/monkey85art',
+  // Every place a reader can follow the blog, shown under its masthead. Until
+  // 5 October that was Facebook alone, which is where this reader is least
+  // likely to be. An empty href is left out, so a network goes live here the
+  // moment its handle is filled in.
+  follow: [
+    { label: 'LinkedIn', href: 'https://www.linkedin.com/in/scattarelladesigner/' },
+    { label: 'Bluesky', href: '' },
+    { label: 'X', href: '' },
+    { label: 'Instagram', href: 'https://www.instagram.com/monk3y_85/' },
+    { label: 'Facebook', href: 'https://www.facebook.com/monkey85art' },
+  ],
   tagline: 'What made things cost to make',
   description:
     'Games, film, anime, 3D and the hardware underneath, read from the production side: what a decision cost and how the thing actually got built.',

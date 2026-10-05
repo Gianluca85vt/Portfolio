@@ -21,6 +21,8 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { tagged } from '../src/lib/utm.ts';
+import { blueskyConfigured, postToBluesky } from './bluesky.mjs';
 
 const GRAPH = 'https://graph.facebook.com/v26.0';
 const REPO = 'Gianluca85vt/Portfolio';
@@ -82,9 +84,11 @@ async function postToFacebook(article) {
     .join('\n')
     .trim();
 
+  // Tagged, so a visit from this post is counted as Facebook rather than lost
+  // in "Organic Social" with every other network.
   return graph(`${process.env.META_PAGE_ID}/feed`, {
     message,
-    link: article.url,
+    link: tagged(article.url, 'facebook', 'social', article.slug),
   });
 }
 
@@ -168,6 +172,7 @@ async function main() {
       title: data.title,
       excerpt: data.excerpt ?? '',
       category: data.category ?? 'Games',
+      slug,
       url: `${SITE}/blog/${slug}/`,
       cardUrl: `https://raw.githubusercontent.com/${REPO}/main/public/img/blog/${slug}/social.jpg`,
     };
@@ -192,9 +197,22 @@ async function main() {
       console.log(`::warning::instagram failed for ${slug}: ${err.message}`);
     }
 
+    // Bluesky last, and on its own: a bad day there must not cost the other
+    // two. Skipped quietly until its handle and app password are set.
+    if (blueskyConfigured()) {
+      try {
+        const cover = data.cover && !data.cover.endsWith('.svg') ? join(root, 'public', data.cover) : null;
+        record.bluesky = await postToBluesky(article, cover);
+        console.log(`bluesky   ${slug} -> ${record.bluesky}`);
+      } catch (err) {
+        record.blueskyError = String(err.message);
+        console.log(`::warning::bluesky failed for ${slug}: ${err.message}`);
+      }
+    }
+
     // Only a slug that reached at least one network is written down, so a run
-    // where both failed can be retried.
-    if (record.facebook || record.instagram) {
+    // where every network failed can be retried.
+    if (record.facebook || record.instagram || record.bluesky) {
       ledger[slug] = record;
       changed = true;
     }

@@ -119,7 +119,7 @@ export async function analytics(win) {
 
     const only = { startDate: win.current.start, endDate: win.current.end };
 
-    const [pages, sources, countries, devices, daily] = await Promise.all([
+    const [pages, sources, countries, devices, daily, tagged] = await Promise.all([
       ga4Report(token, propertyId, {
         dateRanges: [only],
         dimensionFilter: notEasyframe,
@@ -158,6 +158,17 @@ export async function analytics(win) {
         metrics: [{ name: 'activeUsers' }],
         orderBys: [{ dimension: { dimensionName: 'date' } }],
       }),
+      // Source and medium together: what the utm tags on every posted link
+      // report (facebook / social, linkedin / social, instagram / bio,
+      // newsletter / email), which the channel grouping lumps together.
+      ga4Report(token, propertyId, {
+        dateRanges: [only],
+        dimensionFilter: notEasyframe,
+        dimensions: [{ name: 'sessionSourceMedium' }],
+        metrics: [{ name: 'sessions' }],
+        orderBys: [{ metric: { metricName: 'sessions' }, desc: true }],
+        limit: 10,
+      }),
     ]);
 
     return {
@@ -169,6 +180,7 @@ export async function analytics(win) {
       countries: rows(countries),
       devices: rows(devices),
       daily: rows(daily),
+      tagged: rows(tagged),
     };
   } catch (err) {
     return { ok: false, why: String(err.message) };

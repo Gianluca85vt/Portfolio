@@ -1,8 +1,8 @@
 ---
-title: Tides of Annihilation's face change is a lighting story
+title: "Tides of Annihilation: Gwendolyn's face and the beauty nerf"
 date: 2026-08-24
 category: Games
-excerpt: Fans compared new Tides of Annihilation footage to old trailers and called it a beauty nerf.
+excerpt: "Same mesh, different face: how skin shading, materials and lighting changed Gwendolyn in the new footage, and why fans and producer are both right."
 cover: /img/blog/tides-of-annihilation-gwendolyn-face-controversy/shot-01.jpg
 ---
 

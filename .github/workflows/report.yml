@@ -65,6 +65,12 @@ jobs:
         if: steps.due.outputs.due == 'true'
         run: npm install puppeteer nodemailer --no-save --silent
 
+      - name: Make sure Bing has the sitemap
+        if: steps.due.outputs.due == 'true'
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node scripts/bing-sitemap.mjs
+
       - name: Build the report and send it
         if: steps.due.outputs.due == 'true'
         env:

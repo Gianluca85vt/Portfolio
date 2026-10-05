@@ -8,6 +8,7 @@
     }
   ],
   "redirects": [
+    { "source": "/blog", "destination": "/blog/", "permanent": true },
     { "source": "/blog/minecraft-dungeons-ii-review", "destination": "/blog/minecraft-dungeons-2-review-critics-split/", "permanent": true },
     { "source": "/blog/minecraft-dungeons-ii-review/", "destination": "/blog/minecraft-dungeons-2-review-critics-split/", "permanent": true }
   ],

@@ -1,8 +1,8 @@
 ---
-title: "Blood of Dawnwalker skips 60fps: two worlds at once"
+title: "Blood of Dawnwalker's frame budget: why 60fps came late"
 date: 2026-08-22
 category: Games
-excerpt: Rebel Wolves' vampire RPG ships with a 30fps Quality mode and a 40fps Balanced mode on PS5, PS5 Pro and Series X — no 60fps option at all.
+excerpt: "Human by day, vampire by night, on one map: why Blood of Dawnwalker had no room for 60fps at first, before the day-one patch added it."
 cover: /img/blog/blood-of-dawnwalker-no-60fps-two-worlds/shot-01.jpg
 ---
 

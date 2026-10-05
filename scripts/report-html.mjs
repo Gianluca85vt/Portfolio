@@ -266,6 +266,11 @@ ${
         ['Channel', 'Sessions'],
         ga.channels.map((c) => `<tr><td>${esc(c.key)}</td><td class="num">${int(c.value)}</td></tr>`).join('')
       )}
+      <h3 style="font-size:9pt;margin:14px 0 5px;text-transform:uppercase;letter-spacing:0.12em;color:${MUTED}">Source / medium</h3>
+      ${table(
+        ['Source / medium', 'Sessions'],
+        (ga.tagged ?? []).map((c) => `<tr><td>${esc(c.key)}</td><td class="num">${int(c.value)}</td></tr>`).join('')
+      )}
       <h3 style="font-size:9pt;margin:14px 0 5px;text-transform:uppercase;letter-spacing:0.12em;color:${MUTED}">Countries</h3>
       ${table(
         ['Country', 'Users'],
