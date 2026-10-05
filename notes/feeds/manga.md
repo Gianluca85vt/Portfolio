@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-04T17:50:29.522Z
+# Manga — harvested 2026-10-05T11:50:36.379Z
 
 ## Anime News Network
 
-### Web Novel-Based Live-Action Series Take Charge of My Heart Unveils Main Trailer
-Sun, 04 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/web-novel-based-live-action-series-take-charge-of-my-heart-unveils-main-trailer/.242461
+### The Record of a Fallen Vampire Manga Gets TV Anime in 2027
+Mon, 05 Oct 2026 06:41:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/the-record-of-a-fallen-vampire-manga-gets-tv-anime-in-2027/.242506
 
-Newly released trailer follows Bo-bae as she meets Ho-rang, the only person immune to her electrical powers
+Yūma Uchida, Aino Shimada star in Zero-G x Liber anime
 
-### Charisma TV Anime Unveils More Staff, Key Visual
-Sun, 04 Oct 2026 12:04:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/charisma-tv-anime-unveils-more-staff-key-visual/.242476
+### Psikyo Memories Collection Reveals Full List of Games, February 18 Release
+Mon, 05 Oct 2026 05:37:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/psikyo-memories-collection-reveals-full-list-of-games-february-18-release/.242504
 
-The staff&nbsp;for the television anime of Evil Line Records label (Hypnosis Mic) and the intellectual property company Dazed's Chōjin-teki Share House...
+Collection includes <cite>Strikers 1945</cite>, <cite>Gunbird</cite>, <cite>Gunbarich</cite>, <cite>Zero Gunner 2</cite>, <cite>Dragon Blaze</cite>, more
 
-### Bungo Stray Dogs Wan! 2 Anime Series Review
-Sun, 04 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/bungo-stray-dogs-wan-2/anime-series/.242110
+### Macross 7, Synduality: Noir Animator Kenichirō Katsura Dies at 59
+Mon, 05 Oct 2026 04:37:20 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/macross-7-synduality-noir-animator-kenichiro-katsura-dies-at-59/.242495
 
-Sometimes you just need to see Akutagawa skipping along the waterfront or watch Dazai try to wrangle the rest of the cast as preschoolers.
+Katsura died on September 30 while recovering from an illness
 
-### Manchuria Opium Squad Manga Gets Anime
-Sun, 04 Oct 2026 11:05:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/manchuria-opium-squad-manga-gets-anime/.242464
+### Mikito Chinen's Horror Novel Gets Manga Adaptation
+Mon, 05 Oct 2026 02:44:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/mikito-chinen-horror-novel-gets-manga-adaptation/.242477
 
-Manga also resumes serialization with new artist Tsurushima on Monday
+<cite>Etsuran Genkin Ryōki Satsujin-han no Seishin Kantei Hōkoku-sho</cite> manga launched on September 25
 
-### Darkroom Streams Angel Densetsu Anime
-Sun, 04 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/darkroom-streams-angel-densetsu-anime/.242466
+### Yuki Kure's Ayame-san Chi no Geshuku-nin Manga Ends in Next Chapter
+Mon, 05 Oct 2026 02:35:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/yuki-kure-ayame-san-chi-no-geshuku-nin-manga-ends-in-next-chapter/.242485
 
-2-part OAV released in September 1996
+Manga launched in June 2025
 
-### Rascal Does Not Dream of a Dear Friend Film Streams 1st 4 Minutes
-Sun, 04 Oct 2026 06:35:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-streams-1st-4-minutes/.242471
+### Chanta Launches Noro-Noro Puku-Puku Manga
+Mon, 05 Oct 2026 00:04:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/chanta-launches-noro-noro-puku-puku-manga/.242483
 
-"Finale visual" of film opening on October 16 also revealed
+<i>Sachi's Records: Sachi's Book of Revelation</i> creator's comedy of shrine maiden with black cat possessing her head
 
-### Zoids Franchise Announces New Zoids: Chaotic Century Manga
-Sun, 04 Oct 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/zoids-franchise-announces-new-zoids-chaotic-century-manga/.242467
+### Hirayasumi Manga to End in 2 More Chapters
+Sun, 04 Oct 2026 23:56:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/hirayasumi-manga-to-end-in-2-more-chapters/.242491
 
-New manga announced with tentative title <cite>Zoids: Chaotic Century Kanketsu-hen</cite>
+Manga launched in 2021, inspired live-action series in 2025, upcoming TV anime in January 2027
 
-### Rascal Does Not Dream of a Dear Friend Film Announces Text Story Bonus Item for Moviegoers
-Sun, 04 Oct 2026 04:31:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/rascal-does-not-dream-of-a-dear-friend-film-announces-text-story-bonus-item-for-moviegoers/.242450
+### Naoki Shigeno to End Sanada Damashii Manga in 6th Volume
+Sun, 04 Oct 2026 23:52:20 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/naoki-shigeno-to-end-sanada-damashii-manga-in-6th-volume/.242481
 
-Hajime Kamoshida to pen <cite>Seishun Buta Yarō wa Tea Garden no Yume o Miru</cite> story with illustrations by Keeji Mizoguchi
+Ninja Girl & Samurai Master creator launched series in 2015
 
-### The Apothecary Diaries Anime Returns to Universal Studios Japan
-Sat, 03 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-03/the-apothecary-diaries-anime-returns-to-universal-studios-japan/.242445
+### Nijū-Mensō no Musume's Shinji Ohara Launches New Manga
+Sun, 04 Oct 2026 23:44:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/niju-menso-no-musume-shinji-ohara-launches-new-manga/.242479
 
-Join Maomao & Jinshi for an all-new attraction at the theme park
+<cite>Moto-Shojo Tantei, Yamada Chizuko</cite> follows former girl-detective whose past returns to haunt her decades later
 
-### Suikoden Anime to Stream on YouTube with English Subtitles
-Sat, 03 Oct 2026 23:47:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/suikoden-anime-to-stream-on-youtube-with-english-subtitles/.242451
+### K Manga Offers Adachitoka's The Wolf at Memory's End Manga in English
+Sun, 04 Oct 2026 23:28:48 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/k-manga-offers-adachitoka-the-wolf-at-memory-end-manga-in-english/.242473
 
-Series launches on YouTube on October 6
+<cite>Noragami: Stray God</cite> creator to launch manga in <cite>Monthly Shonen Magazine</cite> on October 6
 
-### Amazon Prime Video Streams The Seven Knights of the Marronnier Kingdom Anime With Same-Day English Dub
-Sat, 03 Oct 2026 23:01:24 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/amazon-prime-video-streams-the-seven-knights-of-the-marronnier-kingdom-anime-with-same-day-english-/.242452
+### Chained Soldier Manga Goes on Hiatus Due to Artist Yōhei Takemura's Health
+Sun, 04 Oct 2026 23:19:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/chained-soldier-manga-goes-on-hiatus-due-to-artist-yohei-takemura-health/.242472
 
-Anime debuted on October 3
+Takemura injures right wrist in June
 
-### Crunchyroll Streams New Sgt. Frog TV Anime
-Sat, 03 Oct 2026 22:39:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-03/crunchyroll-streams-new-sgt-frog-tv-anime/.242453
+### BookWalker Adds 18 Ecomix Media Company Titles
+Sun, 04 Oct 2026 22:59:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-04/bookwalker-adds-18-ecomix-media-company-titles/.242470
 
-Series debuted on October 3
+BookWalker: Creators impacted by Tapas closure can reach out to digital service
 
 ## Crunchyroll News
 
@@ -78,12 +78,17 @@ Sat, 03 Oct 2026 15:01:48 GMT — https://animecorner.me/black-clover-season-2-c
 
 Black Clover Season 2 anime has revealed its creditless opening and ending videos following the first episode's October 3, 2026 premiere.
 
-### Ninja Scroll 4K Reveals Exclusive Clip Ahead of North American Theatrical Release
-Fri, 02 Oct 2026 23:03:48 GMT — https://animecorner.me/ninja-scroll-4k-reveals-exclusive-clip-ahead-of-north-american-theatrical-release/
-
-Ninja Scroll is heading back to theaters in North America in a new 4K&hellip;
-
 ## MyAnimeList News
+
+### Manga Vampire Juujikai Gets TV Anime For 2027
+Mon, 05 Oct 2026 02:48:43 -0700 — https://myanimelist.net/news/74793032?_location=rss
+
+Production company Pony Canyon opened an official website for the television anime adaptation of Kyou Shirodaira s Vampire Juujikai (The Record of a Fallen Vampire) on Monday revealing the main cast pair, staff, a teaser visual (pictured), and a teaser promo. The anime is scheduled to premiere in 2027. Voice actors Yuuma Uchida (Jujutsu Kaisen) and Aino Shimada (Kakkou no Iinazuke) will be joining the cast as Akabara Strauss and Bridget Irving Frostheart, respectively. Staff Director, Serie...
+
+### Manga Hirayasumi Ends in Two Chapters
+Mon, 05 Oct 2026 00:17:43 -0700 — https://myanimelist.net/news/74792787?_location=rss
+
+The official X (formerly Twitter) account for author Keigo Shinzou announced on Monday that the Hirayasumi manga will end in two more chapters. Shinzou began drawing the manga in Big Comic Spirits in April 2021. Shogakukan published the tenth volume on April 30. VIZ Media licensed the manga in English in October 2023, with the latest ninth volume released on May 19. Hirayasumi was nominated for the 15th and 17th Manga Taisho. The manga also placed among the top 20 titles in the male readers cate...
 
 ### Manga Manshuu Ahen Squad Gets Anime Adaptation
 Sun, 04 Oct 2026 08:24:46 -0700 — https://myanimelist.net/news/74790204?_location=rss
@@ -130,34 +135,19 @@ Sat, 03 Oct 2026 06:13:20 -0700 — https://myanimelist.net/news/74785812?_locat
 
 The official website for the Romelia Senki (Romelia War Chronicle) television anime announced supporting cast on Saturday. The anime series adapting Ryou Ariyama s action fantasy light novel will air for two cours on Tokyo MX, BS11, Sun TV, and KBS Kyoto starting October 5, with domestic streaming exclusively on Anime Times, U-NEXT, and Netflix beginning October 3 at 9:00 p.m. Cast Kairo: Mika Kanda (Migi to Dali) Zaria: Kenji Hamada (Yuusha-kei ni Shosu) Farmaine: Youji Ueda (Tenmaku no J...
 
-### Honzuki no Gekokujou: Ryoushu no Youjo Gets Sequel TV Anime
-Sat, 03 Oct 2026 02:58:00 -0700 — https://myanimelist.net/news/74785445?_location=rss
-
-The 24th and final episode of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen: Ryoushu no Youjo (Ascendance of a Bookworm: Adopted Daughter of an Archduke) ended with an announcement on Saturday that a sequel television anime adaptation is in production. The sequel anime, which adapts the fourth part of Miya Kazuki s Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen (Ascendance of a Bookworm: I ll do Anything to Become a Librarian!)...
-
-### Himekishi-sama no Himo Unveils Additional Cast, Theme Songs, First Promo
-Sat, 03 Oct 2026 01:02:34 -0700 — https://myanimelist.net/news/74785238?_location=rss
-
-The Dengeki Bunko Autumn Festival Online 2026 event unveiled three additional cast, a key visual (pictured), theme songs and the first promotional video for the television anime adaptation of Tooru Shirogane s Himekishi-sama no Himo (The Kept Man of the Princess Knight). The anime series will premiere in January 2027. Cast April: Rika Nagae (Sentai Daishikkaku) Vanessa: Rie Takahashi (Isekai Quartet 3) Dez: Tetsu Inada (Vigilante: Boku no Hero Academia Illegals 2nd Season) Chihiro Kumano (U...
-
-### Keroro Gunsou☆ Announces Additional Cast
-Fri, 02 Oct 2026 20:18:08 -0700 — https://myanimelist.net/news/74784547?_location=rss
-
-The official X account for the new television anime adaptation of Mine Yoshizaki s Keroro Gunsou (Sgt. Frog) manga announced three additional cast members on Saturday. The anime series premiered on October 3 at 9:30 a.m. on TV Tokyo. Cast Angol Mois: Kana Ichinose (Sousou no Frieren) Aki Hinata: Chiwa Saitou (Keroro Gunsou) Narrator: Satomi Arai (Re:Zero kara Hajimeru Isekai Seikatsu) Toshihiko Sano (Farmagia) is directing the new anime at Bandai Namco Pictures. Toshimitsu Takeuchi (Fantas...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Fate/Grand Order Absolute Demonic Front: Babylonia Part 1 Collector s Edition Review
+Mon, 05 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/fate-grand-order-absolute-demonic-front-babylonia-part-1-collectors-edition-review/
+
+This extremely wordy entry into the Fate franchise is an adaptation of one of the later chapters of a popular gatcha mobile game. The creators of this anime promised you didn’t need to have played the game to enjoy this series, but is that really true?
+
 ### Omega Megaera Volume 6 Review
 Sun, 04 Oct 2026 09:00:22 +0000 — https://animeuknews.net/2026/10/omega-megaera-volume-6-review/
 
 In order to keep the failing family fortunes afloat, Mamiya and Reiko must continue to pretend they are alphas in an increasingly repressive society.
-
-### Appleseed: Deluxe Edition Review
-Sat, 03 Oct 2026 09:00:05 +0000 — https://animeuknews.net/2026/10/appleseed-deluxe-edition-review/
-
-Shirow Masamune's first major work comes out in a 800+ page hardback collection.
 

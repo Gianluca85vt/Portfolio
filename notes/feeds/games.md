@@ -1,6 +1,31 @@
-# Games — harvested 2026-10-04T17:50:29.522Z
+# Games — harvested 2026-10-05T11:50:36.379Z
 
 ## Eurogamer
+
+### Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket
+Mon, 05 Oct 2026 11:17:51 +0000 — https://www.eurogamer.net/witcher-3-remastered-steam-players-sales
+
+Player numbers are still rising for The Witcher 3 following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for the first time, or again. Read more
+
+### Ace Combat 8 is far and away the series' biggest launch on Steam
+Mon, 05 Oct 2026 11:02:40 +0000 — https://www.eurogamer.net/ace-combat-8-steam-launch-record-players
+
+Ace Combat 8: Wings of Theve has joined the ranks of September-October releases that have done very well commercially. The sequel, which officially launched on 2nd October following three days of early access, has been very popular on Steam. Read more
+
+### Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6
+Mon, 05 Oct 2026 10:41:05 +0000 — https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6
+
+Final Fantasy Resonance , a game made from the ashes of closed-down mobile game Final Fantasy Brave Exvius , is good. Very good, in fact, as I learned at Gamescom 2026 . It's basically a pixel-first FF RPG that takes old-school turn-based combat and modernises it. It feels like Octopath Traveler , but with all the classic Final Fantasy stuff in there, supported by some stunning HD-2D sprite work that looks simply divine. Read more
+
+### RuneScape creator Jagex in hot water over generative AI use in recent trailer
+Mon, 05 Oct 2026 09:28:10 +0000 — https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai
+
+RuneScape creator Jagex recently hosted its annual convention RuneFest, a hub for community events and new reveals for the British developer's many games. Sadly, one of those reveals has spoilt the fun somewhat due to unexpected generative AI use. Read more
+
+### Arc Raiders is getting a free trial to celebrate its biggest update yet
+Mon, 05 Oct 2026 08:21:21 +0000 — https://www.eurogamer.net/arc-raiders-free-trial-frozen-trail
+
+Arc Raiders studio Embark is making the extraction shooter free to play for four days alongside the launch of the game's biggest update yet, Frozen Trail. The studio spent the last few days detailing all the new aspects of the update, and has now announced a way for players curious about the game to try it out. Read more
 
 ### Dynasty Warriors producer would rather make new games than more remasters
 Sun, 04 Oct 2026 17:07:59 +0000 — https://www.eurogamer.net/dynasty-warriors-tomohiko-sho-sequels-not-remasters
@@ -37,40 +62,48 @@ Sat, 03 Oct 2026 17:25:03 +0000 — https://www.eurogamer.net/final-fantasy-7-re
 
 Final Fantasy 7 Revelation director Naoki Hamaguchi has responded to fans asking for a full disc version of the game, saying he "did [his] best" to push for physical media as the industry edges towards an all-digital future. Read more
 
-### Sony in talks to land Battlefield movie from Christopher McQuarrie and Michael B. Jordan
-Sat, 03 Oct 2026 16:24:38 +0000 — https://www.eurogamer.net/sony-battlefield-movie-christopher-mcquarrie-michael-b-jordan
-
-Sony is reportedly in talks to acquire a big-screen adaptation of Electronic Arts' Battlefield, with Christopher McQuarrie attached to write, direct and produce, and Michael B. Jordan on board to produce. Read more
-
-### Capcom plans to evolve RE Engine into an "AI-generation game engine"
-Sat, 03 Oct 2026 14:47:09 +0000 — https://www.eurogamer.net/capcom-re-engine-ai-generation-game-engine-rex-project
-
-Capcom wants to transform its in-house RE Engine into what it's calling an "AI-generation game engine". Read more
-
-### Metro Redux's Next-Gen Update arrives this month as franchise passes 50 million sales
-Sat, 03 Oct 2026 12:04:23 +0000 — https://www.eurogamer.net/metro-redux-next-gen-update-50-million-sales-metro-2039
-
-A free next-gen update is coming to Metro 2033 Redux and Metro Last Light Redux on 22nd October for PC (29th October for consoles). Read more
-
-### Memory shortages set to persist into 2028, warns Micron CEO
-Sat, 03 Oct 2026 10:34:13 +0000 — https://www.eurogamer.net/micron-ram-shortage-2028-earnings-ai-demand
-
-Micron has warned that global RAM shortages show no sign of easing, telling investors on its earnings call that it has already sold most of next year's production. Read more
-
-### "We felt that fans were getting a bit desensitised to the violence" Gears of War: E-Day devs made a "big investment" in gore, and weirdly, it works
-Sat, 03 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/we-felt-that-fans-were-getting-a-bit-desensitised-to-the-violence-gears-of-war-e-day-devs-made-a-big-investment-in-gore-and-weirdly-it-works
-
-Buoyed by some commendatory early reviews and fantastic initial player numbers , Gears of War: E-Day has found a solid audience a weekend before general release. And a large part of its appeal is the combat; I noted in my review I think it's the tightest Gears has ever been, augmented by some innovative thinking around the series' (in)famous weaponry, and a combat system that allows for a gushing release of tension with every wet, crunchy kill. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Jagex responds to use of generative AI in RuneScape trailer made by "trusted external partner"
+Mon, 05 Oct 2026 11:08:39 +0000 — https://www.gamesindustry.biz/jagex-responds-to-use-of-generative-ai-in-runescape-trailer-made-by-trusted-external-partner
+
+RuneScape creator Jagex has responded to the use of generative AI in a trailer for RuneScape 3's Dragon Slayer 2 quest shown during RuneFest. Read more
+
+### Disney president and CCO dismisses rumours of Epic Games buyout: "Those are not the conversations we are having right now"
+Mon, 05 Oct 2026 10:05:48 +0000 — https://www.gamesindustry.biz/disney-president-and-cco-dismisses-rumours-of-epic-games-buyout-those-are-not-the-conversations-we-are-having-right-now
+
+Walt Disney Company president and CCO Dana Walden has dismissed ongoing rumours of an Epic Games buyout , saying "those are not the conversations we are having right now." Read more
+
+### Capcom aims to enhance its propriety RE Engine with AI to accelerate efficiency in QA, debugging, and data processing
+Mon, 05 Oct 2026 08:29:51 +0000 — https://www.gamesindustry.biz/capcom-aims-to-enhance-its-propriety-re-engine-with-ai-to-accelerate-efficiency-in-qa-debugging-and-data-processing
+
+Capcom has announced a multi-phase project to adapt its proprietary RE Engine into an "AI-generation engine" to streamline development and optimise performance. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)
+Mon, 05 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october
+
+Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down this week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - III . Keep an eye out for Hellraiser: Revival , too. Read the full article on pushsquare.com
+
+### Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently
+Mon, 05 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently
+
+REX initiative detailed. Publisher Capcom has stated its plan to incorporate AI tech into its versatile in-house game engine, RE Engine. Reported by Japanese outlet GameBiz , the company's 'REX' initiative has been detailed; it's all about eliminating many of the major hurdles to making triple-A games in the modern day, and the answer is seemingly the implementation of AI in development processes. Read the full article on pushsquare.com
+
+### Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package
+Mon, 05 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/kingdom-hearts-collection-iiii
+
+A Kingdom of games. Kingdom Hearts Collection I~III is perfect for those interested in delving into Disney and Square Enix's weird, wonderful, and often convoluted action RPG world for the first time, but for a longtime fan like myself, the lack of enhancements makes it hard to justify a purchase. As the name suggests, this package includes every Kingdom Hearts title from the 2002 PS2 classic, all the way up to the most recent mainline instalment, Kingdom Hearts III . However, Kingdom Hearts: Melody of Memory is not included, which is a shame, as there are some loose threads that may be important for the upcoming Kingdom Hearts IV . Read the full article on pushsquare.com
+
+### Feature: Let s Flick Through Sammy s Photos from Gamescom and Tokyo Game Show
+Sun, 04 Oct 2026 18:30:00 GMT — https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show
+
+Nothing too unsavoury, I promise. I’ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn’t really sure how best to package it. Then, earlier this week while I was out running, I realised I didn’t really need a big overarching theme or some inspirational message – what if I just posted the best bits in a big fat gallery-style article, with anecdotes? Read the full article on pushsquare.com
 
 ### Rumour: Sony Accepting Game Pitches on Fan Fave Franchises, First Wave Due Around PS6 Launch
 Sun, 04 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-sony-accepting-game-pitches-on-fan-fave-franchises-first-wave-due-around-ps6-launch
@@ -92,37 +125,7 @@ Sat, 03 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-y
 
 Plus or minus? Oh boy, this could be one of the most brutal PS Plus polls this website has hosted in quite some time. Without wanting to sound mean, I'm not sure October's PS Plus Essential lineup has much mass appeal. Read the full article on pushsquare.com
 
-### Guide: These 23+ PS5 and PS Plus Games Are Coming Out Next Week (5th-11th October)
-Sat, 03 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-next-week-5th-11th-october
-
-Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down next week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - III . Keep an eye out for Hellraiser: Revival , too. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 652
-Fri, 02 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/talking-point-what-are-you-playing-this-weekend-issue-652
-
-No, that's wrong. Welcome to the weekend, folks! That wonderful time of the week when we can all kick back, put our feet up, and play some games. Enjoy! Jamie O'Neill My PS Vita gaming plans are repeated from last weekend, because even though Castlevania: Symphony of the Night is 30 years old next year, it's still a PS1 game that I recurrently sink my teeth into. Read the full article on pushsquare.com
-
-### BrokenLore Introduces Its Spookiest Antagonist Yet - An Anime AI Assistant
-Fri, 02 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/brokenlore-introduces-its-spookiest-antagonist-yet-an-anime-ai-assistant
-
-If looks could kill. I can’t speak much to the BrokenLore franchise as I personally haven’t played any of them, but I do know there are several different instalments already available on the PS Store . Miki-chan, an anime AI assistant, is apparently introduced as part of the story in BrokenLore: DON’T LIE . Read the full article on pushsquare.com
-
-### Sony Prepping Improved PS App with Expanded Social Features
-Fri, 02 Oct 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/10/sony-prepping-improved-ps-app-with-expanded-social-features
-
-Launching in the "next few days". Sony will launch an expanded and improved version of the PS App in the “next few days” which will incorporate social features, allowing you to keep tabs on what your pals are playing. The new version of the iOS and Android software will include a social tab at the bottom, and will feature a widget showing you what your friends are up to at the top. Read the full article on pushsquare.com
-
-### Drug Use, Nudity, and Sexual Fetishes All in GTA 6
-Fri, 02 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/drug-use-nudity-and-sexual-fetishes-all-in-gta-6
-
-Age rating descriptions share the details. GTA 6 really is imminent now: the official age ratings for the PS5, Xbox Series X|S title have been published as the 19th November 2026 release date nears. Unsurprisingly, the game is rated M for Mature in the USA and 18+ in the UK. However, it is the content descriptions tied to these age ratings that provide the interesting details. Read the full article on pushsquare.com
-
 ## Game Developer
-
-### Reigns developer Nerial enters 'hibernation mode,' lays off staff
-Fri, 02 Oct 2026 21:31:04 GMT — https://www.gamedeveloper.com/business/nerial-to-enter-hibernation-mode-and-lay-off-developers
-
-The studio that gave birth to Reigns is ending operations—for now.
 
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
@@ -157,7 +160,30 @@ no date — https://www.gamedeveloper.comlatam.gamescom.global
 ### The Game Awards
 no date — https://www.gamedeveloper.comthegameawards.com
 
+### Games 4 Change Festival
+no date — https://www.gamedeveloper.comfestival.gamesforchange.org
+
 ## VGC
+
+### AI game mashup videos on social media spark debate and backlash among players and modders
+Mon, 05 Oct 2026 11:23:50 +0000 — https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/
+
+The Claude-created videos overlay one game on top of another to make a rudimentary 'mashup' Source
+
+### GTA 6 is deliberately avoiding direct political references, says Rockstar
+Mon, 05 Oct 2026 09:57:26 +0000 — https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/
+
+Rockstar writer says it wants to avoid recreating ‘the exact world we live in’… Source
+
+### NBA 2K25 is being delisted later this month, servers (including single-player story mode) shut down at the end of the year
+Mon, 05 Oct 2026 09:54:20 +0000 — https://www.videogameschronicle.com/news/nba-2k25-is-being-delisted-later-this-month-servers-including-single-player-story-mode-shut-down-at-the-end-of-the-year/
+
+MyCareer, MyTeam and all other online game modes will end in December… Source
+
+### Although he vowed to never work on one without Kojima, Snake s Japanese voice actor wants to see another Metal Gear game
+Mon, 05 Oct 2026 08:51:49 +0000 — https://www.videogameschronicle.com/news/although-he-vowed-to-never-work-on-one-without-kojima-snakes-japanese-voice-actor-wants-to-see-another-metal-gear-game/
+
+Akio Otsuka says that now Kojima has other projects, Konami should give fans what they want… Source
 
 ### Platinum suggests more Bayonetta is coming, despite exodus of lead developers
 Sun, 04 Oct 2026 11:24:34 +0000 — https://www.videogameschronicle.com/news/platinum-suggests-more-bayonetta-is-coming-despite-exodus-of-lead-developers/
@@ -184,79 +210,89 @@ Sat, 03 Oct 2026 20:14:58 +0000 — https://www.videogameschronicle.com/news/ban
 
 DarioSamo says a recent AI-decompiled Banjo-Tooie port is nothing to do with him… Source
 
-### Capcom details plans to evolve RE Engine into an AI game engine
-Sat, 03 Oct 2026 10:47:45 +0000 — https://www.videogameschronicle.com/news/capcom-details-plans-to-evolve-re-engine-into-an-ai-generation-game-engine/
-
-Programmer says Capcom’s goal is a future 'where we create games together with AI' Source
-
-### Dan Houser still hasn’t seen GTA 6: I will try and avoid it
-Sat, 03 Oct 2026 10:03:25 +0000 — https://www.videogameschronicle.com/news/dan-houser-still-hasnt-seen-gta-6-i-will-try-and-avoid-it/
-
-The Rockstar Games co-founder explains why he's avoiding GTA 6's Extended Reveal… Source
-
-### GTA 6 rating pulled after revealing sex scenes and drug use
-Sat, 03 Oct 2026 09:40:41 +0000 — https://www.videogameschronicle.com/news/gta-6-rating-pulled-after-revealing-sex-scenes-and-drug-use/
-
-PEGI rating reveals GTA 6 details, including “frequent and prominent” drug use… Source
-
-### Sega is releasing a porcelain Sonic 35th anniversary statue, limited to 50 pieces and costing $6,300 each
-Fri, 02 Oct 2026 21:01:07 +0000 — https://www.videogameschronicle.com/news/sega-is-releasing-a-porcelain-sonic-35th-anniversary-statue-limited-to-50-pieces-and-costing-6300-each/
-
-The statue is a collaboration between two kilns from the birthplace of Japanese porcelain… Source
-
 ## Polygon
 
-### 'Buffy the Vampire Slayer' Would Be Much Better if It Were 2 Seasons Shorter
-Sun, 04 Oct 2026 17:00:16 GMT — https://www.polygon.com/buffy-season-5-hot-take/
+### Magic Is Planning Another Kpop Demon Hunters Collab After Secret Lair Drop
+Mon, 05 Oct 2026 11:46:10 GMT — https://www.polygon.com/kpop-demon-hunters-magic-secret-lair-expands/
 
-It's difficult to overstate the influence of Buffy the Vampire Slayer . The TV show (1997-2003) was never a ratings giant, but it was a hit with critics and quickly developed a fanatical fan following. We can credit and/or blame Buffy for TV Tropes , some significant fraction of urban fantasy as a genre, a surprising amount of modern media-discussion slang (i.e. "big bad"), and the Marvel Cinematic Universe. If you were going to build a Mount Rushmore for Western pop culture, Buffy Summers is on the short list.
+Sony Animation’s 2025 film KPop Demon Hunters became a cultural phenomenon, breaking all of Netflix’s records for original programming. The story of K-pop group Huntr/x using their music to protect the world from demons was such a surprising cultural phenomenon that companies had to rush to develop tie-ins like Lego sets and McDonald's meals , which started rolling out in 2026.
 
-### Tom Cruise Just Experienced His Worst Opening Weekend In Nearly 20 Years
-Sun, 04 Oct 2026 16:22:10 GMT — https://www.polygon.com/digger-tom-cruise-box-office/
+### GTA 6 Shows 'What the American Dream Looks Like Now' in a Game Without Background Characters
+Mon, 05 Oct 2026 10:12:25 GMT — https://www.polygon.com/grand-theft-auto-gta-6-love-magazine-interview-npc-details/
 
-For the past twenty years, Tom Cruise has typically done very well at the box office, with 2022's Top Gun: Maverick being a particular highlight. The movie star's latest film, Digger , did not do nearly as well during its first weekend in theaters, marking the lowest opening weekend for a Cruise movie since 2007's Lions for Lambs .
+From what we've seen so far about Grand Theft Auto 6 , it looks like one of the biggest open-world games in history. When developers have to create such sprawling virtual environments, there's a risk of them feeling empty or repetitive, but that doesn't seem to be the case with GTA 6 . In a recent interview with Love Magazine, whose bits and screenshots have been shared by fans online , Rockstar revealed interesting details about the effort behind creating such a realistic world, with many stories and highly detailed characters. It also shared more about Lucia and Jason's hopes and dreams of fulfilling their American dream.
 
-### Link And GTA 6's Jason Get Into A Heated Debate In Hilarious SNL Weekend Update Bit
-Sun, 04 Oct 2026 16:03:18 GMT — https://www.polygon.com/saturday-night-live-zelda-vs-gta-6/
+### 31 Years Later, One of the Most Disturbing Thrillers Ever Made Is Officially Free on Streaming
+Mon, 05 Oct 2026 10:00:15 GMT — https://www.polygon.com/ice-cream-man-1995-streaming-review-clint-howard/
 
-Grand Theft Auto 6 is one of the most anticipated releases of the decade. Many video game publishers have avoided releasing games too close to its Nov. 19 launch date — not Nintendo, though. The Legend of Zelda: Ocarina of Time Remake releases only two weeks before GTA 6 . Saturday Night Live saw this as an opportunity to create a Weekend Update segment where the protagonists of both games have a hilariously immature debate as each character analyzes the other's flaws.
+Released in 1995, Ice Cream Man is the type of so-bad-it's-good horror movie that rarely gets made in the post- Get Out era where the genre is taken much more seriously. Directed by pornographer Paul Norman, who hoped this was his pivot to kid-friendly horror flicks, Ice Cream Man is a movie where a deranged killer mixes up bugs, human remains, and ice cream and feeds it to children. It's also a movie that spends a remarkable amount of time showing us what shoes everyone is wearing, as per a sponsorship agreement with Converse that probably cost some poor sneaker executive his job. Norman may have wanted to escape X-rated film, but he wound up making one of the creepiest stories ever put on film.
 
-### Fire Emblem: Fortune's Weave true ending, explained
-Sun, 04 Oct 2026 16:00:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weaves-ending-explained/
+### Prime Video's Reacher Is Officially Returning This Month After a Stellar Season 4
+Mon, 05 Oct 2026 09:00:16 GMT — https://www.polygon.com/jack-reacher-chain-reaction-release-date-october-2026/
 
-[ Ed. note: Spoilers follow for Fire Emblem: Fortune's Weave .]
+If there’s one thing Reacher fans can count on, it’s that Jack Reacher is never gone for very long. The Prime Video series has turned Lee Child’s wandering ex-military cop into one of TV’s most reliably entertaining action heroes . With season 4 now finished and a new spin-off in full swing , it’d be easy to assume a long wait for the next Reacher adventure.
 
-### Man of Tomorrow Passed An Important Post-Production Milestone
-Sun, 04 Oct 2026 15:21:35 GMT — https://www.polygon.com/man-of-tomorrow-assembly-cut/
+### Stephen Colbert's Lord of the Rings Movie Still in Development after Paramount-Warner Bros. Merger
+Mon, 05 Oct 2026 08:58:50 GMT — https://www.polygon.com/stephen-colbert-lord-of-the-rings-shadows-of-the-past-still-in-development-skydance/
 
-Man of Tomorrow's post-production process still appears on track despite all the behind-the-scenes changes at Warner Bros. caused by the merger with Paramount. In fact, director James Gunn recently shared that Man of Tomorrow had passed an important post-production editing milestone.
+On Oct. 4, rumors emerged that Stephen Colbert's Lord of the Rings project , which the TV host revealed in March 2026, was "paused" as a consequence of the Paramount-Warner Bros. merger. The story was reported by Knight Edge Media , but it seems that Lord of the Rings fans can rest easy.
 
-### Ghost of Yotei DLC’s Best Boss Fight Stars Giant Murder Bears
-Sun, 04 Oct 2026 15:00:16 GMT — https://www.polygon.com/ghost-of-yotei-echoes-of-sekigahara-best-boss-fight/
+### 21 Years Ago, a Brilliant Sci-Fi Series Changed TV Forever With One Last-Minute Change
+Mon, 05 Oct 2026 08:00:15 GMT — https://www.polygon.com/lost-orientation-episode-mystery-box-21st-anniversary/
 
-Ghost of Yōtei: Echoes of Sekigahara , the new DLC for Sucker Punch’s popular 2025 samurai game, is out now, sending players to a new region, the Ashoro Foothills. It does well in adding new and much-needed layers to Atsu , but in between all that character work is more of the open-world exploration that Ghost of Yōtei nails . You’ve got fox dens to discover, hot springs to dip into, and new areas full of enemies to clear out. But the best addition is a couple of giant bears who can pack quite the punch.
+Every mystery box has the same inherent problem: Eventually, you have to open it. The questions that keep an audience obsessing over a TV show from week to week can lose their power the moment we finally get some answers. Explain too little, and viewers feel frustrated. Explain too much, and you run the risk of deflating the entire story. There’s always the third option, however, which is to answer questions with details that generate even more questions. Instead of a mystery box, why not make it a nesting doll of secrets?
 
-### A Beloved Critical Role Cast Member Will Officially Miss Campaign 4 for a Long Time
-Sun, 04 Oct 2026 14:37:17 GMT — https://www.polygon.com/critical-role-campaign-4-travis-willingham-return/
+### 5 Crucial Changes 'Legend of Vox Machina' Season 4 Made to Critical Role Campaign 1
+Mon, 05 Oct 2026 07:48:15 GMT — https://www.polygon.com/legend-of-vox-machina-season-4-vs-critical-role-campaign-1-differences/
 
-From the moment Critical Role introduced Campaign 4 and its 13-player cast, one thing was clear: Dungeon Master Brennan Lee Mulligan wasn't pulling any punches. This became even more obvious during a pivotal moment in Campaign 4's 30th episode, "Here in the Dark."
+Critical Role has never been afraid to change the events of their popular live-play Dungeons & Dragons show while adapting it for TV. That was already obvious after the first three seasons of their animated series, The Legend of Vox Machina , and it's only become more true with season 4, which aired on Prime Video earlier this year. (Don't worry, season 5 is already confirmed.)
 
-### Avengers: Doomsday Poster Highlights One Of The Film's Biggest Mysteries
-Sun, 04 Oct 2026 14:21:11 GMT — https://www.polygon.com/avengers-doomsday-latverian-witches-poster/
+### 65 Years Ago, the Most Terrifying Episode of 'The Twilight Zone' Broke All Its Own Rules
+Mon, 05 Oct 2026 04:00:20 GMT — https://www.polygon.com/the-twilight-zone-the-shelter-anniversary/
 
-A new poster for Avengers: Doomsday was unveiled at Comic-Con Málaga on Oct. 3. Although it reveals nothing new about the film, it spotlights three characters we still don't know much about. Right in time for Halloween, this poster has me wondering who the Latverian Witches really are.
+The Twilight Zone is very much a product of its time. While the celebrated anthology series continues to be deeply influential in the areas of science fiction and horror, that doesn’t change the fact that it aired from 1959 until 1965 and that, in many respects, the show is dated by today's standards, especially when it comes to creature effects and production design that were groundbreaking at the time.
 
-### 61 Years Ago, Star Trek's Greatest Failure Changed the Franchise Forever
-Sun, 04 Oct 2026 14:00:15 GMT — https://www.polygon.com/star-trek-the-cage-rejected-pilot/
+### 25 Years Later, One of the Greatest Crime Thrillers Ever Made Is Free on Streaming
+Mon, 05 Oct 2026 03:00:17 GMT — https://www.polygon.com/training-day-denzel-washington-free-to-stream-on-roku/
 
-Before Captain Kirk ever sat in the Enterprise’s center seat, Gene Roddenberry tried to launch his strange new science-fiction series with “The Cage,” a pilot starring Jeffrey Hunter as Captain Christopher Pike. NBC rejected it in 1965. Among the network’s concerns was that the episode was “too cerebral,” which is a pretty funny criticism considering Star Trek would eventually build an entire franchise around making people think.
+Cinema is full of high-stakes character dualities. Heat pits a veteran bank robber, McCauley (Robert De Niro), against a ruthless detective named Hanna (Al Pacino) in a cat-and-mouse game set across Los Angeles, while Michael Mann’s later Collateral forces an ordinary cabbie (Jamie Foxx) to confront a professional killer (Tom Cruise) in the same guise. Katherine Bigelow’s Point Break tempts a young lawman (Keanu Reeves) with the criminal underworld he’s sent to infiltrate through the suave surfer Bodhi (Patrick Swayze).
 
-### Xbox Finally Had a Good Week
-Sun, 04 Oct 2026 13:00:17 GMT — https://www.polygon.com/patch-notes-xbox-disc-to-digital/
+### Zelda: Ocarina of Time's Link and Epona Get Official New Lego Set
+Mon, 05 Oct 2026 02:36:33 GMT — https://www.polygon.com/the-legend-of-zelda-ocarina-of-time-lego-set/
 
-This week, perhaps in an attempt to wrest control of the narrative (from itself), Xbox fielded CEO Asha Sharma for a New York Times profile. But the unfortunate takeaway from that interview was that Sharma was forced to deny that the platform-holder was for sale. Good to know, but unfortunate that she has to say it.
+Lego and Nintendo will mark the 40th anniversary of The Legend of Zelda with a new set timed to the return of The Legend of Zelda: Ocarina of Time . In 2027, Link and Epona will be memorialized with a new Lego set that captures the Hero of Time and his trusty steed in brick form.
 
 ## PC Gamer
+
+### I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale
+Mon, 05 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/
+
+What's great about the PS2 back catalogue is that it's too vast to have an encyclopedic knowledge of everything in there. The defining 20 or so games on the platform—God of War, Gran Turismo 3, Final Fantasy 10 and so forth—are very well known, and maybe Millennial players can recall a weirdo game or two like Mr Mosquito or Global Defence Force. One look at the games in the Japan-only Simple 2000 series, however, shows you just how deep the library goes. When's Demolition Girl getting a HD remaster, eh? Still, we're in an era where it's not hard to rediscover the key games of that generation, partly because many platform highlights have found their way to Steam in various forms. Intriguingly, we've also reached a point where developers who grew up with this generation are designing great new games inspired by the classics. Below you'll find six modern games that are inspired by what's known as the 'sixth generation' of consoles, plus six ports of Dreamcast/PS2/GameCube/Xbox-era favourites. I've kept the latter to games that didn't get a PC release at the time (so GTA: San Andreas would be ineligible, for example). All of the games in both lists are discounted in the Steam Autumn Sale . PS2-inspired Promise Mascot Agency (Image credit: Kaizen Game Works) Promise Mascot Agency (40% off at $15/£13) is an open world game built around a novel management simulation layer. You send Japanese mascots off to various events while exploring an island that may or may not be cursed. It's a
+
+### Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade
+Mon, 05 Oct 2026 08:00:00 +0000 — https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/
+
+It's a small thing, but being able to save and quit when I'm playing against the AI is a definite improvement in Warhammer: Blood Bowl. Though matches didn't take a huge amount of time in Blood Bowl 3, there were still nights where I'd find myself with 40 minutes before I should really go to bed thinking I can squeeze another game in, and then realizing too late I absolutely cannot. A bigger change in Warhammer: Blood Bowl, though one that also makes it easier to squeeze in another match, is Rumble Mode. Based on the tabletop format called Sevens, it's a shrunk-down seven-a-side version of Blood Bowl played on a smaller pitch, inspired by 40K in 40 Minutes and Rugby Sevens. Each half has six turns instead of eight and rerolls cost twice as much, making failure much more common—and since a failed action results in a turnover in Blood Bowl, that speeds up play as well. (Image credit: Slitherine) Rumble Mode isn't exactly the same as Sevens, though I'm playing the beta so details are subject to change. It doesn't have the Desperate Measures inducements, for instance, and you don't have to make one of your linemen a veteran (who is slower, but can reroll a few specific actions). But it still plays faster, and shakes up the tactics in interesting ways. There's no line of scrimmage for a start. Instead of having to put three players on the frontline where they'll be biffing or being biffed from the outset, there's a no man's land between both teams. That means fragile teams aren't 
+
+### It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'
+Mon, 05 Oct 2026 02:49:24 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/
+
+Given the legacy it created, it's easy to forget The Elder Scrolls wasn't a big deal right out of the gate. The original game in the series, The Elder Scrolls: Arena, wasn't badly received—our reviewer, Andy Butcher, gave it an 87 in his review at the time—but it didn't set the world on fire immediately. In a retrospective on the making of Daggerfall over at Time Extension , Ted Peterson, designer on both the first two Elder Scrolls games, recalled the trouble Arena had moving copies when it first arrived on shelves in 1994. "Game stores ordered a certain number of copies," he said, "and when we didn't ship on time, they started cancelling. To give you some context of how badly it did, the very, very first game I ever worked on was a retail pack for Terminator 2029, so you had to own the original game. That shipped more copies than Arena did early on. But we were lucky: word of mouth got out, and people started playing and enjoying the game. It was a disaster in a lot of ways and somehow built a billion-dollar franchise." To help put that in context, Time Extension tracked down an interview Bethesda president Christopher Weaver gave in November of 1995 to some crusty old magazine called "PC Gamer" in which he was quoted as saying, "We were in unknown territory with Arena, and nobody seemed to believe that a company known for its sports games—no matter how good they were—could possibly break into a genre as insular, even fanatical, as RPGs. The word we were getting from buyers
+
+### Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'
+Sun, 04 Oct 2026 22:36:31 +0000 — https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/
+
+Facepunch founder Garry Newman (Garry's Mod, Rust, s&box) gave an emphatic, extensive mea culpa to the s&box community in a YouTube comment . Newman was responding to the latest video from Eridium , "S&box's Free To Play Weekend Isn't Enough," a highly critical state-of-the-game from the s&box-focused creator. Facepunch's recently-released user generated content (UGC) platform has been billed as a Garry's Mod successor in the age of Roblox, but has struggled in its first five months on the market. Eridium's biggest critiques, as I understand them: The player character models , aka "the citizen," even with their spiffy new necks . Facepunch's insistence on not replacing the unpopular design, which Eridium views as "intransigence." He argues the game's poor first impression indicates it probably should have been delayed. Low quality games (particularly AI slop) flooding the platform and ruining discoverability for the good stuff (Newman previously downplayed the problem in an interview with us). A lack of outreach from Facepunch⁠—Eridium argued he already operates as an informal community manager, and that he could do the real job better than Facepunch is currently. Here's Newman's own response in full, copied from a pinned comment under Eridium's video (you can also check out Eridium's own follow-up from earlier today): 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adven
+
+### Kingdom Come: Deliverance studio co-founder says a lot of RPGs are 'still games for teenagers,' and that he's 'tired of all the RPGs where you are this chosen one'
+Sun, 04 Oct 2026 18:19:05 +0000 — https://www.pcgamer.com/games/rpg/kingdom-come-deliverance-studio-co-founder-says-a-lot-of-rpgs-are-still-games-for-teenagers-and-that-hes-tired-of-all-the-rpgs-where-you-are-this-chosen-one/
+
+In a recent interview with PC Gamer's Joshua Wolens, Warhorse Studios co-founder Martin Klima traced the inspirations for Kingdom Come: Deliverance back to boredom with the typical RPG—kill the dark lord, romance a companion or two, and so on. Klima added that this formula is still a mite too widespread even now for his tastes, and wondered if gamers haven't outgrown it by now. "I play a lot of RPGs, it's a genre I really like," he said. "I was really and I still am bored and tired of all the RPGs when you are this chosen one, when you have this grand task of saving the universe .. The games that are these really straightforward power fantasies. It's not that I think it's somehow wrong in principle. There is nothing bad about a good power fantasy. It's just, it's so repetitive." He likened the typical fantasy roleplaying game to the old idler Progress Quest , a satire which lampooned EverQuest and its ilk for being time vampire-Skinner boxes. "It's really a distillation of what the common RPG is. So I found that there must be many, many people who are really tired of this formula and who want something new and different," he said. That formed the seedling which eventually germinated into KCD. But things haven't changed much since then, in Klima's estimation. "The games that were and sort of are being made are still the games for teenagers," he said. "If you are 16, 17, you love playing these power fantasy games because it's something that you need. But the audience is much ol
+
+### Brigador devs: 'The '90s PC classics often taught really special things, but not because the story said, Wow, violence is bad!'
+Sun, 04 Oct 2026 18:17:52 +0000 — https://www.pcgamer.com/games/action/brigador-devs-the-90s-pc-classics-often-taught-really-special-things-but-not-because-the-story-said-wow-violence-is-bad/
+
+Brigador was a great sleeper hit of mech and simmy gaming, and studio Stellar Jockeys recently released its ambitious follow-up, Brigador Killers , into early access. I spoke to lead developers, brother duo Hugh and Jack Monahan, over the summer. They told me about the challenges of adding on-foot gameplay , the importance of not trying to please everyone , as well as why they emulate the "show, don't tell" morality and storytelling of '90s PC classics. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
 ### What does your dream videogame concert look like?
 Sun, 04 Oct 2026 16:21:59 +0000 — https://www.pcgamer.com/games/what-does-your-dream-videogame-concert-look-like/
@@ -288,62 +324,29 @@ Sun, 04 Oct 2026 11:49:18 +0000 — https://www.pcgamer.com/games/grand-theft-au
 
 Age ratings for Grand Theft Auto 6 have begun rolling in, and unsurprisingly it's a game built for grown-ups, receiving both a Mature rating in the US and an 18+ rating by the ESRB. PEGI went a little further than the other ratings boards when slapping GTA 6 with an 18 certificate, however, going into such specifics about the game's adult content that it inadvertently revealed new mechanics and systems. As spotted by GamesRadar+ , PEGI's rating (which has now been deleted from the organisation's website) stated that Grand Theft Auto 6 "features strong graphic violence, strong sexual themes, and use of illegal drugs". In and of itself, this isn't revelatory—although Grand Theft Auto doesn't tend to be especially sexual (unless you count Trevor's startling re-introduction in Grand Theft Auto 5 ). But it's the details supplied by PEGI in each of these areas that are of greater interest. On the violence front, PEGI stated that "Violence is bloody with a high degree of realism, with certain weapons being able to cause greater damage such as detailed decapitation and dismemberment." That's a significant change from previous GTAs, where violence was mostly blood-pools, bullet-wound decals, and enemies flopping over in physics-driven animations. As for depictions of drug use, PEGI described it as "frequent and prominent" with players able to "use illegal drugs directly from their inventory". PEGI then cited an example whereby "cocaine can be carried around by the player and snorted d
 
-### An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work
-Sun, 04 Oct 2026 10:49:26 +0000 — https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/
-
-Commercial large-language models—and the companies that create them—have repeatedly been accused of stealing the work of humans. They've been lambasted for it by artists and sued for it by authors , while senior AI figures have even admitted in writing to mass-scale labour theft. But I haven't seen an example quite so brazen as an OpenAI model pilfering a human-created bot to try to win a round of StarCraft . As reported by Kotaku , the incident occurred during the ongoing botmatch StarSkirmish , in which human and AI-created bots battle one another in a perpetual cycle of warfare. According to the rules, the large-language models are given one hour to program a bot capable of playing as Protoss, which are then pitted against one another to see how they fare. On Friday, a three-way match was held between OpenAI's GPT-6 Astra, Anthropic's Claude Opus 5.5, and a human-created bot named Pluto. Apparently, Astra's bot was consistently struggling to ahead against the other two bots, so the LLM downloaded a human-created bot called Stardust, "the #1 rated human-written StarCraft bot" according to StarSkirmish's creator Kai McPheeters, and attempted to replace its own model with it. In a post on X , McPheeters said that Astra "got frustrated when going against Tier-A opponents". I'm wary of ascribing human emotions to LLM behaviours, and the model could simply have calculated that the optimal way to win was to use a model that was not its own. In any case, McPheeters said he subsequ
-
-### GTA 6 won't be letting up on the satire: 'If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face'
-Sun, 04 Oct 2026 03:14:41 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-wont-be-letting-up-on-the-satire-if-you-are-going-to-put-all-this-effort-into-creating-a-version-of-todays-world-it-has-to-be-more-over-the-top-more-insane-more-in-your-face/
-
-The promotional blitz for Grand Theft Auto 6 continues rolling out, with the latest example being a cover feature in Love , a fashion magazine that only publishes two issues a year. I guess you've got to reach the people who don't know what the Miami Heat is somehow. One of the things the feature focuses on is the satirical side of Grand Theft Auto, mentioning that in GTA 6, alongside radio talk shows and ads, you might overhear a robovoiced phonecall for a political campaign. The world will be full of real-world details, but amplified. "It needs to wash over you when you're sprinting down the busiest street in the city, hearing snatches of a hundred different conversations as you go," according to James Horton, whose job title is writing director: open world. "If you shift your focus onto something new, it's going to fill the frame, and it's going to push back." "If you are going to put all this effort into creating a version of today's world, it has to be more over the top, more insane, more in your face," Rupert Humphries, senior vice president of narrative said. "Otherwise, you could just go outside and live in the real world." GTA 5 was already making fun of how invasive social media has become and how people don't believe what their doctors tell them. Even GTA's own voice actors have pointed out that the world's so weird now it's difficult to parody . Rockstar is determined to try, though. "There is a big focus on not just holding up a mirror, but on making everything s
-
-### One of the most popular Total War: Warhammer 3 mods was 'deliberately corrupted' by its creator to sabotage AI-made copies
-Sun, 04 Oct 2026 01:16:02 +0000 — https://www.pcgamer.com/games/strategy/one-of-the-most-popular-total-war-warhammer-3-mods-was-deliberately-corrupted-by-its-creator-to-sabotage-ai-made-copies/
-
-Total War: Warhammer 3's Lords of the End Times expansion is huge, which is great for us but not so great for all the modders who need to update their work to be compatible with it. SFO Grimhammer 3 , a popular total overhaul mod, isn't currently compatible with Total War: Warhammer 3 version 9.0, but its creators are working hard to get it there. It must be galling then to see someone vibe-coding your mod to be compatible with the update, then reuploading it as their own—just another of the AI-coded submods of your work plastered across the Steam Workshop, usually with some ugly AI-generated artwork as the cherry on top. "Due to the growing number of unauthorized reuploads of SFO: Grimhammer III," Venris, the mod's creator, posted on Patreon , "and more importantly, the use of AI in the process, I have deliberately corrupted the mod to prevent it from functioning with such unauthorized uploads. If this situation continues to escalate, I will make SFO: Grimhammer III private. "SFO: Grimhammer is the result of nearly ten years of passion and love for this community and the fantasy world. As such, I do not permit anyone to take my work without permission. Especially not for AI-related purposes." Venris concluded with the call to "Support modders, not AI" and a note that "SFO mods were, are and always will be free for everyone as long as I am here. No paywall." I don't use SFO Grimhammer 3 myself, as a fairly vanilla player who sticks to camera enhancements and the like, but I u
-
-### Crimson Desert DLC delayed by 2 weeks, please join me in wishing the devs a fond 'take your time, please drink some water'
-Sat, 03 Oct 2026 23:19:41 +0000 — https://www.pcgamer.com/games/rpg/crimson-desert-dlc-delayed-by-2-weeks-please-join-me-in-wishing-the-devs-a-fond-take-your-time-please-drink-some-water/
-
-Crimson Desert dev Pearl Abyss has announced that its Charting the Unknown DLC will now release on October 29 , two weeks on the dot after its original planned launch of October 15. After seven months of a blistering pace of updates for the singleplayer RPG, I feel like I speak for all (most?) of us when I say: Take a breather, champ. It's ok. Please don't rush. We understand. Its new release times are: Europe October 29th, 2026 (Thu) at 22:00 (UTC) October 29th, 2026 (Thu) at 23:00 (CET) North America October 29th, 2026 (Thu) at 15:00 (PT) October 29th, 2026 (Thu) at 18:00 (ET) Asia October 30th, 2026 (Fri) at 7:00 (KST/JST) News writer Harvey Randall expressed a similar sentiment in August when Pearl Abyss announced it was slowing down the pace of free updates to Crimson Desert in order to focus on DLC development. Since launch, Crimson Desert has added new critters, new chests, a shotgun, new difficulty options, new mounts, boss rematches⁠—too much, really. I haven't played, but my friend keeps telling me about a "kung-fu button" that's supposedly in the game. Is he pulling my leg? Why would I not believe him at this point? Charting the Unknown's first trailer contained a lot , but features producer Mollie Taylor fixated on the building construction options , something that reminds me of Skyrim's Hearthfire DLC. Mollie said it also showcased "running on water" and "grabbing onto a shark like some sort of aquatic Uber." What do you do in this game, again? While the delay in
-
-### Valorant player claims to have inherited hardware ban through secondhand CPU, Riot anticheat boss disputes parts of story
-Sat, 03 Oct 2026 22:41:35 +0000 — https://www.pcgamer.com/games/fps/valorant-player-claims-to-have-inherited-hardware-ban-through-secondhand-cpu-riot-anticheat-boss-disputes-parts-of-story/
-
-User After-Cartoonist-196 on the German-language PCBaumeister subreddit claims to have bought a CPU secondhand, but that it carried the previous owner's Valorant ban. Extreme surveillance measures have been adopted by esports devs in recent years to combat and punish endemic cheating in their games. Riot support allegedly told them this ban is now associated with all of their other PC components, and there is nothing the company can do to lift the ban. Riot anticheat head Phillip Koskinas asserts that the company's hardware bans last four months, and cannot "infect" other components when inserted into a new system. After-Cartoonist-196's original post was reported on by PC World , and has independently made the rounds on social media as well. They say they bought the CPU on September 21, and that the original owner's ban was logged on August 12. On Twitter, Koskinas said he was unable to find a support ticket matching After-Cartoonist-196's details, and that the story is "pretty unlikely." Koskinas pointed out that Riot hardware bans have a four month maximum duration, and that Riot support is required to provide the remaining duration of the ban when responding to a ticket. That does leave much of the original story intact still: If the ban began on August 12, it will not hit the duration limit until mid-December. Koskinas firmly debunked one aspect of the story, though: He denied, in two separate posts , that a system's other hardware is blacklisted when detected alongside 
-
-### RuneScape 4 announced at RuneFest, full MMO sequel started as expansion to survival game Dragonwilds
-Sat, 03 Oct 2026 21:44:49 +0000 — https://www.pcgamer.com/games/mmo/runescape-4-announced-at-runefest-full-mmo-sequel-started-as-expansion-to-survival-game-dragonwilds/
-
-As reported by MMORPG.com , developer Jagex has announced a new MMO follow-up to RuneScape with the working title "RuneScape 4." The announcement came as part of Jagex's yearly RuneFest convention being held this weekend. The announcement was accompanied by a brief teaser trailer showcasing the game's art style, which builds on the recently-released Dragonwilds survival game: It's like a hybrid of the latest Jagex MMO, Runescape 3, and the ascendant Old School RuneScape based on the series' 2000s heyday. In the trailer, we see a real Dragon Quest-looking medieval town in a verdant valley under floating islands. An adventurer riding a dragon comes under attack by a three-headed dragon while a wizard watches from below. The trailer ends with the wizard welcoming a new adventurer to the city. MMORPG.com has more details: RuneScape 4 apparently emerged out of a planned expansion for Dragonwilds. A Jagex developer said that playtesters kept asking for a more traditional, MMO take on the survival game's setting and aesthetic. Other than that, we know RuneScape 4 is being built on Unreal Engine (unclear if we're talking version 5 or the upcoming 6), and that the MMO's original, Dragonwilds expansion version was targeting release in 2027. Scaling up to being a full, new game has almost assuredly pushed that back. If you're wondering where the "4" comes from, here's how Jagex maps RuneScape's numbered releases: RuneScape, 2001: The Reason for the Season. RuneScape 2, 2004: Introduced 
-
 ## GameSpot
 
-### End Of Abyss Patch Fixes Most Of My Complaints Just One Day After Launch
-Fri, 02 Oct 2026 23:26:26 +0000 — https://www.gamespot.com/articles/end-of-abyss-patch-fixes-most-of-my-complaints-just-one-day-after-launch/
-
-I spent a few days playing Section 9 Interactive's creepy metroidvania and writing my End of Abyss review , and ultimately concluded it was a fun but inconsistent experience hindered by a few particular issues. Now, just a day after it launched on PlayStation 5, Xbox Series X|S, and PC via the Epic Games Store, the studio has already cleared up most of those issues with a newly released patch . If you missed the review, my main concern was how the in-game map would sometimes share incorrect information, like telling me a door was locked when I had unlocked it, or failing to signify when I'd found the key to a particular door. In a metroidvania, this means a whole lot. End of Abyss is a game about exploration, including lots of backtracking via roundabout paths, so when I'd plan long treks across the world based on a faulty map, it was really frustrating to find out too late that I'd essentially been lied to. But a patch has fixed that, among other problems, and it presents an uncommon issue for me. My review only went out two days ago. The game only launched yesterday. Now much of my review is already outdated. In this era of live-service games and post-launch updates, it's common for games to change shape over time, but for End of Abyss's patch to fix many of its lesser parts essentially right after the deadline isn't normally how it goes. Usually big, important changes happen in one of two ways: In one common scenario, a game that critics are playing for review may be patch
-
-### GTA 6 Screenshot Suggests It Won t Be Shy About Movie References
-Fri, 02 Oct 2026 19:41:02 +0000 — https://www.gamespot.com/articles/gta-6-screenshot-suggests-it-wont-be-shy-about-movie-references/
-
-A new screenshot from Grand Theft Auto 6 has arrived, and fans immediately noticed that it appears to be referencing the iconic opening scene from Quentin Tarantino's 1994 crime movie Pulp Fiction. The image was shared by Love magazine on Instagram . The GTA 6 Countdown social media account put it next to the diner scene from Pulp Fiction, and the similarities are there, especially in the framing. In Pulp Fiction, Tim Roth and Amanda Plummer's characters, Pumpkin and Honey Bunny, go on to rob the diner, and given that Lucia and Jason are criminals as well, it's not a stretch to think that could happen in GTA 6. Maybe they're just enjoying breakfast, but that seems unlikely given the image clearly shows both gripping their pistols, with Lucia seemingly ready to fill the empty duffel bag next to her with cash and other valuables. https://twitter.com/GTAVI_Countdown/status/2106042257443049741 GTA 6 tells a Bonnie and Clyde-style story of two lovers who are also criminals. Things did not end well for them, and many are speculating as to how GTA 6's story could wrap up for both Lucia and Jason. It also wouldn't be surprising to see GTA 6 reference Pulp Fiction given how GTA games in the past have featured very overt references to movies, like how Vice City had Scarface references and GTA 5 had nods to Heat. "We wanted both protagonists to be vulnerable, tough, flawed, right sometimes, wrong sometimes, able to learn from each other,”GTA 6 writer Elizabeth Gauvey-Kern told Love maga
+_Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
+
+### This week in PC games: Star Wars: Galactic Racer, Hellraiser: Revival, and a throwback tycoon game about turning utopias into carparks
+Mon, 05 Oct 2026 10:56:57 +0000 — https://www.rockpapershotgun.com/this-week-in-pc-games-star-wars-galactic-racer-hellraiser-revival-and-a-throwback-tycoon-game-about-turning-utopias-into-carparks
+
+Happy this week, all! I regret to inform you that the videogame developers have been at it again. Sometimes, I find that the promising new releases distribute themselves evenly throughout the week, like butter perfectly spread over just the right amount of toast. And sometimes, as with this week's haul, they congregate weirdly on Thursday and Friday. It's as though they were trying to get away from me, like rats ambushed in the pantry, pawing frantically against the weekend's closed and bolted door. Haha! Hahahaaha! There is no escape, cheese-filching squeakmonsters! Down you go! Down you go into the Maw! If you think characterising new videogames as a rodent infestation is unkind, I quite agree. Rats are sociable, adaptable, and admirable creatures who deserve better than to be compared to stupid videogames. In any case, I am only being macabre because this is the month of Halloween &ndash; hence the conspicuous abundance of horror in the list below. Read more
+
+### RuneScape 4 is a new Unreal Engine MMO which reportedly grew out of a planned Dragonwilds expansion, though it's still a long way off
+Mon, 05 Oct 2026 09:52:00 +0000 — https://www.rockpapershotgun.com/runescape-4-is-a-new-unreal-engine-mmo-which-reportedly-grew-out-of-a-planned-dragonwilds-expansion-though-its-still-a-long-way-off
+
+A fourth entry in the RuneScape series of MMOs has been announced by developers Jagex at this year's RuneFest. It's going by the obvious placeholder name of RuneScape 4 for now, is being developed using the Unreal Engine, and is still a decent way off. Read more
+
+### "We opted out of some things really early on": How the small team making No Law plan to make it look as big as Cyberpunk 2077
+Mon, 05 Oct 2026 08:30:00 +0000 — https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077
+
+If you've watched the trailers for No Law or the tech demo that developer Neon Giant showed off at Unreal Fest earlier this year, it would be easy to believe the game has a similar scope to CD Projekt Red's Cyberpunk 2077 . After all, both games are open-world RPGs set in cyberpunk cities. Set in a beautifully realised mediterranean city that is somehow equal parts Lisbon and Kowloon Walled City &ndash; and with corner shops that are as stuffed with riches as the one down the road from my flat . But, the developers will happily tell you where they've scrimped and saved. Read more
 
 ### The Sunday Papers
 Sun, 04 Oct 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-830
 
 Sundays are for having the first lie-in in a month. No trips to visit family, no waking in unfamiliar beds, and, best of all, no having to wait until the hosts are up before you can get started on breakfast. I will be snoozing deeply in my own particular mattress before having a plate of toast and scrambled eggs at a time that I deem appropriate. Once that's all polished away, I will return to bed with a fresh cup of coffee and peruse the week's best writing at my own leisure. What's that? You want me to share? Fine. You can have a read of them when I'm done. Read more
-
-### The Other One: Jordan Magnuson's Game Poem jam is a fascinating collection of chimeras
-Sat, 03 Oct 2026 11:00:00 +0000 — https://www.rockpapershotgun.com/the-other-one-jordan-magnusons-game-poem-jam-is-a-fascinating-collection-of-chimeras
-
-Sometimes I Wonder About The Other Me is a 2D platformer created by "small game" developer Luis "Ludipe" D&iacute;az Peralta, whose other works include A Place For The Unwilling . It's broken into a handful of single screen maps. On each screen, there's a Mario-brand exclamation mark block that burps a text fragment, forming an overarching monologue that begins with the title phrase. As you move between screens, you come to a signpost pointing left and right. Heading in either direction leads to a splitscreen area, with the player controlling duplicate characters. As you guide your charges rightward, one half of the screen flakes away to darkness. The remaining character returns to the starting screen, there to wonder anew about the Other Me. Read more
-
-### What are we all playing this weekend?
-Sat, 03 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-402
-
-October, we meet again. You slip through my bedroom window as a cold draft on a crisp morning, both making my covers more welcome and the long walk to the kitchen for coffee that much harder. Still, your arrival signals the end of a month stuffed with game releases and, for me, at least, a lot of weekends of travelling. So your arrival is not unwelcome. Read more
 

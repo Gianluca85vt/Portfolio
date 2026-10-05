@@ -1,8 +1,11 @@
-# AI — harvested 2026-10-04T17:50:29.522Z
+# AI — harvested 2026-10-05T11:50:36.379Z
 
 ## OpenAI
 
-_Nothing in the last 48 hours._
+### Building advertising for the way people use AI
+Mon, 05 Oct 2026 10:00:00 GMT — https://openai.com/index/new-chatgpt-ads-format-and-measurement
+
+OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
 
 ## Hugging Face
 
