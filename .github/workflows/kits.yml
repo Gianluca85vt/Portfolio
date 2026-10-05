@@ -1,0 +1,77 @@
+name: Kits — forums daily, BlenderNation Tuesday, newsletter Wednesday
+
+# Three emails to Gianluca, each something he acts on by hand. None of them
+# posts, submits or sends anything anywhere else (growth plan, 5 October):
+#
+#   forums         every morning   questions on Reddit and the artists' forums
+#                                  about things the blog has covered
+#   blendernation  Tuesday         the week's Blender piece, ready for the
+#                                  BlenderNation submission form
+#   newsletter     Wednesday       Thursday's issue, ready to paste into beehiiv
+#
+# One workflow with three schedules; the first step works out which kit this
+# run is from the schedule that fired it. Times are UTC: 07:30, 08:30 and 18:00
+# in Rome in summer, an hour earlier in winter.
+
+on:
+  schedule:
+    - cron: '30 5 * * *'
+    - cron: '30 6 * * 2'
+    - cron: '0 16 * * 3'
+  workflow_dispatch:
+    inputs:
+      kit:
+        description: 'Which kit to build and email now'
+        type: choice
+        options: [forums, blendernation, newsletter]
+        default: newsletter
+
+jobs:
+  kit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Which kit?
+        id: which
+        env:
+          FIRED: ${{ github.event.schedule }}
+          CHOSEN: ${{ inputs.kit }}
+        run: |
+          set -euo pipefail
+          case "${FIRED:-}" in
+            '30 5 * * *') kit=forums ;;
+            '30 6 * * 2') kit=blendernation ;;
+            '0 16 * * 3') kit=newsletter ;;
+            *) kit="${CHOSEN:-}" ;;
+          esac
+          case "$kit" in
+            forums) script=forum-watch ;;
+            blendernation) script=blendernation-kit ;;
+            newsletter) script=newsletter-draft ;;
+            *) echo "::error::no kit for '$FIRED'"; exit 1 ;;
+          esac
+          echo "script=$script" >> "$GITHUB_OUTPUT"
+          echo "kit: $kit"
+
+      - uses: actions/checkout@v5
+
+      # 22.18 or later: the scripts import the site's own TypeScript data files,
+      # which Node runs by stripping the types.
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Install
+        run: npm install sharp --no-save --silent
+
+      - name: Build and email the kit
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+          NOTIFY_FROM: ${{ secrets.NOTIFY_FROM }}
+          # Optional: with them the newsletter draft states the subscriber count.
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+        run: node scripts/${{ steps.which.outputs.script }}.mjs
