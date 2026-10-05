@@ -1,31 +1,10 @@
 ---
 import { blog } from '../data/portfolio';
+import { offers, rules } from '../data/partnerships';
 
 // The pitch a brand or a tool vendor reads before deciding whether to get in
-// touch. It deliberately does not quote an audience number: the honest one is
-// small right now, and a made-up one is the kind of thing that ends a
-// relationship the first time somebody asks for analytics access.
-const offers = [
-  {
-    title: 'Review units and hands-on',
-    body: 'Hardware, software licences and early builds. GPUs, workstations, displays, capture and scanning kit, DCC and render tooling. I cover what I can put through real production work rather than a spec sheet.',
-  },
-  {
-    title: 'Tool and pipeline coverage',
-    body: 'If you build something artists use — a renderer, a plugin, an asset pipeline, a scanning workflow — I am interested in what it changes about the job, not the feature list. That tends to make a more useful piece than a launch post.',
-  },
-  {
-    title: 'Sponsorship and placement',
-    body: 'Section sponsorship and banner placement on the blog. I will tell you which pieces perform and which do not, because the alternative is you finding out on your own and not coming back.',
-  },
-];
-
-const rules = [
-  'Anything gifted, loaned or paid for is disclosed in the piece itself.',
-  'Sponsored and affiliate links carry rel="sponsored". I do not sell link insertions into existing articles, and I do not publish guest posts written to place a link — that is against Google’s policies and it would damage the site faster than it would pay for itself.',
-  'Editorial control stays with me. You get the coverage, not the verdict, and I will say so up front if the answer is going to be unflattering.',
-  'Review units get returned or disclosed as kept, whichever you prefer.',
-];
+// touch. The offers and rules live in src/data/partnerships.ts, shared with
+// /media-kit/, which is where the real audience numbers are.
 ---
 
 <section id="partnerships" class="px-5 sm:px-8 md:px-10 pb-24 scroll-mt-24">
@@ -120,9 +99,12 @@ const rules = [
         >
           Who writes this
         </a>
-        <p class="text-[#D7E2EA]/30 font-light text-[0.76rem]">
-          Traffic and audience figures on request.
-        </p>
+        <a
+          href="/media-kit/"
+          class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3.5 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10"
+        >
+          Media kit
+        </a>
       </div>
       </div>
     </details>

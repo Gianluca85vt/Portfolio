@@ -83,6 +83,12 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
           NOTIFY_FROM: ${{ secrets.NOTIFY_FROM }}
+          # The growth plan's numbers: subscribers and open rate from beehiiv,
+          # followers from Bluesky's public API (the handle is not a secret,
+          # it is only read from there because it is already set).
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+          BEEHIIV_PUBLICATION_ID: ${{ secrets.BEEHIIV_PUBLICATION_ID }}
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
         run: node scripts/report.mjs --days ${{ inputs.days || 4 }}
 
       # Kept for a fortnight so a report that failed to send can still be read,

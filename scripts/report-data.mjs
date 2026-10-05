@@ -14,6 +14,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { accessToken, SCOPES } from './lib/google-token.mjs';
 import { assess, publishedArticles } from './editorial-mix.mjs';
+import { newsletterStats } from './lib/beehiiv.mjs';
 
 const SITE = 'https://www.gianlucascattarella.it/';
 
@@ -196,7 +197,7 @@ export async function analytics(win) {
  * 403 that reads like a permissions problem. So ask which ones this account
  * can see and take the one that matches.
  */
-async function scSite(token) {
+export async function scSite(token) {
   const res = await fetch('https://searchconsole.googleapis.com/webmasters/v3/sites', {
     headers: { authorization: `Bearer ${token}` },
   });
@@ -222,7 +223,7 @@ async function scSite(token) {
   return match.siteUrl;
 }
 
-async function scQuery(token, site, body) {
+export async function scQuery(token, site, body) {
   const res = await fetch(
     `https://searchconsole.googleapis.com/webmasters/v3/sites/${encodeURIComponent(site)}/searchAnalytics/query`,
     {
@@ -448,13 +449,36 @@ export async function editorial(win, root = process.cwd()) {
   };
 }
 
+/**
+ * The audience the blog owns or follows it, for the growth plan's gates: the
+ * newsletter from beehiiv, and Bluesky followers from its public API, which
+ * needs no key. X has no free API left, so its count stays a manual check.
+ */
+export async function growth() {
+  const handle = process.env.BLUESKY_HANDLE || 'gianlubackdrop.bsky.social';
+  let bluesky = null;
+  try {
+    const res = await fetch(`https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=${encodeURIComponent(handle)}`, {
+      signal: AbortSignal.timeout(10000),
+    });
+    if (res.ok) {
+      const p = await res.json();
+      bluesky = { followers: p.followersCount ?? 0, posts: p.postsCount ?? 0 };
+    }
+  } catch {
+    bluesky = null;
+  }
+  return { newsletter: await newsletterStats(), bluesky };
+}
+
 export async function gather(days = 4) {
   const win = windows(days);
-  const [ga, sc, bing, ed] = await Promise.all([
+  const [ga, sc, bing, ed, grown] = await Promise.all([
     analytics(win),
     searchConsole(win),
     bingWebmaster(win),
     editorial(win),
+    growth(),
   ]);
-  return { days, window: win, ga, sc, bing, editorial: ed, generatedAt: new Date().toISOString() };
+  return { days, window: win, ga, sc, bing, editorial: ed, growth: grown, generatedAt: new Date().toISOString() };
 }

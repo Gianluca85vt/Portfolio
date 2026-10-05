@@ -1,0 +1,174 @@
+---
+import Base from '../layouts/Base.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import { blog, site } from '../data/portfolio';
+import { offers, newsletterOffers, rules } from '../data/partnerships';
+import kit from '../data/media-kit.json';
+
+// The media kit, refreshed every Monday by .github/workflows/media-kit.yml.
+// It opens with the searches, not the traffic (growth plan, 5 October): at this
+// size the audience's quality is the argument and its size is not, and thirty
+// real queries show the quality to a tool vendor in five seconds. Every count
+// below is what the sources reported; one that is missing is left out, never
+// printed as a zero.
+type Kit = {
+  updated: string;
+  search: {
+    from: string;
+    to: string;
+    impressions: number;
+    clicks: number;
+    position: number;
+    queries: string[];
+    countries: { name: string; share: number }[];
+  } | null;
+  archive: { articles: number; craft: number; reviews: number };
+  newsletter: { subscribers: number; openRate: number | null } | null;
+  bluesky: number | null;
+};
+const data = kit as Kit;
+
+const fmt = (d: string) =>
+  new Date(`${d}T12:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+const n = (v: number) => v.toLocaleString('en-GB');
+
+const figures = [
+  data.search && { value: n(data.search.impressions), label: `Google search impressions on the blog, ${fmt(data.search.from)} to ${fmt(data.search.to)}` },
+  data.search && { value: n(data.search.clicks), label: 'clicks from Google search in the same 28 days' },
+  { value: n(data.archive.articles), label: `articles published, ${n(data.archive.craft)} of them on 3D, tools, hardware and AI` },
+  { value: n(data.archive.reviews), label: 'game reviews with a scored verdict and an artist’s view' },
+  data.newsletter && data.newsletter.subscribers >= 100 && { value: n(data.newsletter.subscribers), label: `newsletter subscribers${data.newsletter.openRate != null ? `, ${Math.round(data.newsletter.openRate)}% average open rate` : ''}` },
+  data.bluesky != null && data.bluesky >= 50 && { value: n(data.bluesky), label: 'followers on Bluesky' },
+].filter(Boolean) as { value: string; label: string }[];
+
+const title = 'Media kit: who reads Backdrop';
+const description =
+  'Who reads Backdrop, from the searches that bring them: real Search Console queries, countries and plain counts, refreshed every week. What the blog offers tool makers and studios, and its rules.';
+---
+
+<Base title={title} description={description}>
+  <div class="min-h-screen flex flex-col" style="overflow-x:clip">
+    <SiteHeader current="/blog" />
+
+    <section class="px-5 sm:px-8 md:px-10 pt-12 sm:pt-16 pb-24">
+      <div class="max-w-[1000px] mx-auto">
+        <p class="font-medium uppercase tracking-[0.2em] text-[0.66rem]" style="color:#B600A8">Backdrop · for brands and tool makers</p>
+        <h1 class="hero-heading font-black uppercase leading-none tracking-tight mt-3" style="font-size:clamp(2.1rem, 7vw, 4rem)">
+          Media kit
+        </h1>
+        <p class="text-[#D7E2EA]/75 font-light leading-relaxed mt-7 text-[1.05rem] max-w-[62ch]">
+          Backdrop is written by {site.name}, a working 3D environment and technical artist, for the people who make
+          games, films and 3D for a living. The searches that bring readers here say who they are better than a chart
+          does, so this page starts with those.
+        </p>
+        <p class="text-[#D7E2EA]/40 font-light text-[0.84rem] mt-3">Updated {fmt(data.updated)}, every Monday, from Search Console and the newsletter platform.</p>
+
+        {
+          data.search && data.search.queries.length > 0 && (
+            <div class="mt-14">
+              <h2 class="text-[#D7E2EA] font-semibold text-[1.25rem]">What readers searched for</h2>
+              <p class="text-[#D7E2EA]/50 font-light text-[0.9rem] mt-2 max-w-[62ch]">
+                Real queries that showed the blog in Google over the last 28 days, the ones naming a tool or a technique first.
+                Nobody types these unless they work in the field.
+              </p>
+              <ul class="flex flex-wrap gap-2 mt-6">
+                {data.search.queries.map((q) => (
+                  <li class="rounded-full border border-[#D7E2EA]/15 px-3.5 py-1.5 text-[0.84rem] text-[#D7E2EA]/80 font-light">{q}</li>
+                ))}
+              </ul>
+            </div>
+          )
+        }
+
+        {
+          data.search && data.search.countries.length > 0 && (
+            <div class="mt-14">
+              <h2 class="text-[#D7E2EA] font-semibold text-[1.25rem]">Where they are</h2>
+              <ul class="mt-6 flex flex-col gap-3 max-w-[560px]">
+                {data.search.countries.map((c) => (
+                  <li class="grid grid-cols-[9rem_1fr_3rem] items-center gap-3 text-[0.88rem]">
+                    <span class="text-[#D7E2EA]/75 font-light truncate">{c.name}</span>
+                    <span class="h-2 rounded-full bg-[#D7E2EA]/10 overflow-hidden">
+                      <span class="block h-full rounded-full" style={`width:${Math.max(c.share, 2)}%;background:linear-gradient(90deg,#7621B0,#B600A8)`} />
+                    </span>
+                    <span class="text-[#D7E2EA]/50 font-light text-right tabular-nums">{c.share}%</span>
+                  </li>
+                ))}
+              </ul>
+              <p class="text-[#D7E2EA]/35 font-light text-[0.78rem] mt-3">Share of Google search impressions on the blog, last 28 days.</p>
+            </div>
+          )
+        }
+
+        <div class="mt-14">
+          <h2 class="text-[#D7E2EA] font-semibold text-[1.25rem]">The numbers, stated plainly</h2>
+          <ul class="grid gap-4 sm:grid-cols-2 mt-6">
+            {
+              figures.map((f) => (
+                <li class="rounded-[18px] border border-[#D7E2EA]/15 p-6">
+                  <p class="hero-heading font-black text-[2rem] leading-none tabular-nums">{f.value}</p>
+                  <p class="text-[#D7E2EA]/55 font-light text-[0.86rem] leading-relaxed mt-2">{f.label}</p>
+                </li>
+              ))
+            }
+          </ul>
+          <p class="text-[#D7E2EA]/35 font-light text-[0.78rem] mt-4 max-w-[70ch]">
+            Visitor counts from analytics are not quoted: the site only measures readers who accept cookies, so any
+            figure from it would understate the audience by an unknown amount. Search Console counts everyone.
+          </p>
+        </div>
+
+        <div class="mt-14">
+          <h2 class="text-[#D7E2EA] font-semibold text-[1.25rem]">What is on offer</h2>
+          <div class="grid gap-4 sm:grid-cols-2 mt-6">
+            {
+              [...offers, ...newsletterOffers].map((o) => (
+                <div class="rounded-[18px] border border-[#D7E2EA]/15 p-6">
+                  <h3 class="text-[#D7E2EA] font-medium text-[0.98rem] leading-snug">{o.title}</h3>
+                  <p class="text-[#D7E2EA]/55 font-light text-[0.86rem] leading-relaxed mt-2.5">{o.body}</p>
+                </div>
+              ))
+            }
+          </div>
+          <p class="text-[#D7E2EA]/45 font-light text-[0.86rem] mt-4">Rates on request.</p>
+        </div>
+
+        <div class="mt-14">
+          <h2 class="text-[#D7E2EA] font-semibold text-[1.25rem]">The rules</h2>
+          <ul class="mt-5 space-y-3 max-w-[70ch]">
+            {
+              rules.map((r) => (
+                <li class="text-[#D7E2EA]/60 font-light text-[0.9rem] leading-relaxed pl-4 relative">
+                  <span class="absolute left-0 top-[0.6em] w-1.5 h-1.5 rounded-full bg-[#B600A8]" />
+                  <Fragment set:html={r} />
+                </li>
+              ))
+            }
+          </ul>
+        </div>
+
+        <div class="flex flex-wrap items-center gap-3 mt-14">
+          <a
+            href={`mailto:${blog.email}?subject=Media%20kit%20enquiry`}
+            class="inline-flex items-center rounded-full px-7 py-3.5 font-medium uppercase tracking-widest text-[0.7rem] text-white transition-opacity hover:opacity-90"
+            style="background:linear-gradient(123deg,#18011F 7%,#B600A8 37%,#7621B0 72%,#BE4C00 100%)"
+          >
+            {blog.email}
+          </a>
+          <a
+            href="/tracker/"
+            class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3.5 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10"
+          >
+            The release tracker
+          </a>
+          <a
+            href="/blog/"
+            class="inline-flex items-center rounded-full border-2 border-[#D7E2EA]/35 text-[#D7E2EA] font-medium uppercase tracking-widest px-7 py-3.5 text-[0.7rem] transition-colors hover:bg-[#D7E2EA]/10"
+          >
+            Read the blog
+          </a>
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>

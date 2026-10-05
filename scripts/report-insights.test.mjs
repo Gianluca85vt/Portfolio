@@ -199,3 +199,43 @@ test('missing sources do not break the reading', () => {
   assert.equal(typeof r.headline, 'string');
   assert.ok(insightsText(r).length > 0);
 });
+
+/* --- the 90-day growth plan --------------------------------------------- */
+
+import { planReading } from './report-insights.mjs';
+
+const withGrowth = (subscribers) => ({ ...september28(), growth: { newsletter: subscribers == null ? null : { subscribers, openRate: 52.5 }, bluesky: { followers: 3 } } });
+
+test('before the plan starts, the report says nothing about it', () => {
+  assert.deepEqual(planReading(withGrowth(10), '2026-10-05'), { lines: [], actions: [] });
+});
+
+test('the plan line names the day, the phase, its gate and today’s numbers', () => {
+  const { lines } = planReading(withGrowth(12), '2026-10-09');
+  assert.match(lines[0], /giorno 4, Fase 0, fondamenta/);
+  assert.match(lines[0], /70 commenti su Reddit/);
+  assert.match(lines[0], /12 iscritti, apertura media 52,5%/);
+  assert.match(lines[0], /3 follower su Bluesky/);
+});
+
+test('without the beehiiv keys the count is named as missing, not zero', () => {
+  assert.match(planReading(withGrowth(null), '2026-10-09').lines[0], /iscritti non disponibili/);
+});
+
+test('the last week of a phase lists what is short of the gate', () => {
+  const { actions } = planReading(withGrowth(90), '2026-11-12');
+  const end = actions.find((a) => /finisce il 16 novembre/.test(a.title));
+  assert.ok(end);
+  assert.match(end.body, /iscritti 90 su 150/);
+});
+
+test('day 30 under 80 subscribers points at the offer, not the channels', () => {
+  const { actions } = planReading(withGrowth(40), '2026-11-04');
+  assert.ok(actions.some((a) => /Giorno 30/.test(a.title) && /offerta/.test(a.body)));
+  assert.ok(!planReading(withGrowth(120), '2026-11-04').actions.some((a) => /Giorno 30/.test(a.title)));
+});
+
+test('the media kit deadline shows up two weeks ahead', () => {
+  assert.ok(planReading(withGrowth(200), '2026-11-08').actions.some((a) => /media kit/.test(a.title)));
+  assert.ok(!planReading(withGrowth(200), '2026-11-01').actions.some((a) => /media kit/.test(a.title)));
+});

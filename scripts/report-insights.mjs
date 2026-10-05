@@ -70,6 +70,115 @@ function dayRange(start, end) {
   return out;
 }
 
+/* ------------------------------------------------- the 90-day growth plan */
+
+/**
+ * The growth plan of 5 October, as dates and thresholds: four phases each with
+ * a gate, two deadlines that cannot slip, and four checkpoints where the plan
+ * says to change course. The report measures what it can and names what has
+ * to be checked by hand (X has no free API; vendor conversations live in his
+ * mail).
+ */
+export const PLAN = {
+  start: '2026-10-06',
+  phases: [
+    { name: 'Fase 0, fondamenta', from: '2026-10-06', to: '2026-10-19', gate: 'form live, X attivo, 70 commenti su Reddit' },
+    { name: 'Fase 1, distribuzione', from: '2026-10-20', to: '2026-11-16', gate: '150 iscritti, 4 newsletter inviate, 1 ripresa esterna', subscribers: 150 },
+    { name: 'Fase 2, leva', from: '2026-11-17', to: '2026-12-14', gate: '400 iscritti e 35 utenti al giorno', subscribers: 400, usersPerDay: 35 },
+    { name: 'Fase 3, consolidamento', from: '2026-12-15', to: '2027-01-04', gate: '1 sponsor firmato o 3 trattative aperte' },
+  ],
+  deadlines: [
+    { date: '2026-11-20', what: 'il media kit pronto' },
+    { date: '2026-12-10', what: 'i primi pitch ai vendor chiusi (a gennaio i budget sono già decisi)' },
+  ],
+};
+
+const dayDiff = (a, b) => Math.round((Date.parse(`${a}T00:00:00Z`) - Date.parse(`${b}T00:00:00Z`)) / 86400000);
+
+/**
+ * Where the plan stands today: a line for the trend, and actions when a
+ * checkpoint, a deadline or the end of a phase falls in the next few days.
+ * A checkpoint stays on the report for a week after its day, so a report run
+ * that skips a day cannot miss it.
+ */
+export function planReading(d, todayIso) {
+  const lines = [];
+  const actions = [];
+  const day = dayDiff(todayIso, PLAN.start) + 1;
+  if (day < 1 || day > 100) return { lines, actions };
+
+  const nl = d.growth?.newsletter ?? null;
+  const subs = nl?.subscribers ?? null;
+  const users = d.ga?.ok && d.days ? d.ga.current.users / d.days : null;
+  const imps = d.sc?.ok && d.sc.current.days ? d.sc.current.impressions / d.sc.current.days : null;
+  const phase = PLAN.phases.find((p) => todayIso >= p.from && todayIso <= p.to) ?? PLAN.phases[PLAN.phases.length - 1];
+
+  const now = [
+    subs == null ? 'iscritti non disponibili (servono le chiavi beehiiv nei segreti di GitHub)' : `${num(subs)} iscritti`,
+    nl?.openRate != null ? `apertura media ${num(nl.openRate, 1)}%` : '',
+    users != null ? `${num(users, 1)} utenti al giorno in Analytics` : '',
+    imps != null ? `${num(imps)} impressioni al giorno su Google` : '',
+    d.growth?.bluesky ? `${num(d.growth.bluesky.followers)} follower su Bluesky` : '',
+  ].filter(Boolean);
+  lines.push(
+    `Piano dei 90 giorni: giorno ${day}, ${phase.name} (fino al ${giorno(phase.to)}). Per passare alla fase dopo: ${phase.gate}. Oggi: ${now.join(', ')}.`,
+  );
+
+  // The end of a phase, in the last week of it: what is met and what is not.
+  const left = dayDiff(phase.to, todayIso);
+  if (left >= 0 && left <= 7) {
+    const misses = [];
+    if (phase.subscribers && subs != null && subs < phase.subscribers) misses.push(`iscritti ${num(subs)} su ${num(phase.subscribers)}`);
+    if (phase.usersPerDay && users != null && users < phase.usersPerDay) misses.push(`utenti al giorno ${num(users, 1)} su ${num(phase.usersPerDay)}`);
+    actions.push({
+      priority: 3,
+      title: `${phase.name} finisce il ${giorno(phase.to)}`,
+      body:
+        `La soglia è: ${phase.gate}.` +
+        (misses.length ? ` Mancano ancora: ${misses.join(', ')}.` : '') +
+        ' Se la soglia non passa, il piano dice di non andare avanti ma di capire perché.',
+    });
+  }
+
+  for (const dl of PLAN.deadlines) {
+    const until = dayDiff(dl.date, todayIso);
+    if (until >= 0 && until <= 14) {
+      actions.push({ priority: 2, title: `Entro il ${giorno(dl.date)}: ${dl.what}`, body: `Mancano ${num(until)} giorni. È una scadenza che il piano non lascia slittare.` });
+    }
+  }
+
+  const at = (n) => day >= n && day < n + 7;
+  if (at(30) && subs != null && subs < 80) {
+    actions.push({
+      priority: 1,
+      title: `Giorno 30: ${num(subs)} iscritti, sotto gli 80`,
+      body: 'Il piano lo legge così: il problema è l’offerta (il tracker e la pagina newsletter), non i canali. Riscrivi quella prima di toccare altro.',
+    });
+  }
+  if (at(45)) {
+    actions.push({
+      priority: 2,
+      title: 'Giorno 45: controlla X a mano',
+      body: 'Se sei sotto i 300 follower e i thread non hanno aperto nessuna conversazione, il formato thread non fa per te: passa a post singoli con un’immagine.',
+    });
+  }
+  if (at(60) && imps != null && imps < 200) {
+    actions.push({
+      priority: 1,
+      title: `Giorno 60: impressioni ferme a ${num(imps)} al giorno`,
+      body: 'L’archivio non sta capitalizzando. Il piano dice di scendere a 2 pezzi al giorno e usare il tempo liberato per un pezzo lungo evergreen a settimana.',
+    });
+  }
+  if (at(90)) {
+    actions.push({
+      priority: 1,
+      title: 'Giorno 90: conta le conversazioni aperte con i vendor',
+      body: 'Se sono zero, il piano dice che non è il pubblico: sono il pitch o il prezzo. Rivedi quelli, non la strategia.',
+    });
+  }
+  return { lines, actions };
+}
+
 /* ------------------------------------------------------------ the reading */
 
 export function insights(d, { today = new Date() } = {}) {
@@ -317,6 +426,10 @@ export function insights(d, { today = new Date() } = {}) {
       });
     }
   }
+
+  const plan = planReading(d, todayIso);
+  trend.push(...plan.lines);
+  actions.push(...plan.actions);
 
   actions.sort((a, b) => a.priority - b.priority);
 

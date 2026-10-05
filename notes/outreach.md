@@ -33,6 +33,14 @@ Run `node scripts/outreach-candidates.mjs 7` for the week's published pieces.
   found it on.
 - **Never guess an address** from a pattern (press@, pr@). If the only route is a
   contact form, do not create a draft; put the form's URL in your report.
+- The cloud sandbox cannot open most company sites, so you will usually see an
+  address only in a search result. It counts when the result shows it written
+  out on a page of the company's own domain or press kit. **Never search for an
+  address you composed** to see whether it exists: a hit on the domain does not
+  mean the page carries that address. The first Friday run did exactly that and
+  happened to be right twice; luck is not the rule.
+- In the report, say for each address whether you saw it written out, and on
+  which page.
 - An indie developer's own published business email is fine; so is the contact
   on their Steam page or press kit (presskit()).
 
