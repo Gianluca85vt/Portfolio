@@ -33,16 +33,26 @@ const INERT = [
   /^README/,
   /^\.gitignore$/,
   /^\.env\.example$/,
-  // Drawn for Instagram, never rendered by the site.
+  // Everything under the blog's image folder, since 20 September.
   //
-  // The story frames next to these are NOT inert, though they look it: the
-  // evening email links them as /img/blog/digest/<day>-story-NN.jpg, so they
-  // have to be deployed or he opens the mail to five broken images.
-  /^public\/img\/blog\/[^/]+\/social\.jpg$/,
+  // scripts/strip-blog-images.mjs deletes img/blog from the build output, and
+  // vercel.json rewrites /img/blog/* to jsDelivr, which serves it straight out
+  // of this repository's main branch. A deployment does not contain a single
+  // one of these files, so a commit that only touches them changes nothing a
+  // deployment could carry. The story frames, the social cards and the blog's
+  // link preview (og-cover.jpg) all live here; on the first days of October
+  // they were still triggering builds, and together with the ledger commit
+  // that followed each of them they made two thirds of the deployments that
+  // filled the storage again.
+  //
+  // The one thing derived from these files at build time is the WebP card
+  // thumbnail of each article's cover. A cover replaced after publication
+  // keeps its old thumbnail until the next build, which the next publication
+  // brings within hours.
+  /^public\/img\/blog\//,
 ];
 
 const ARTICLE = /^src\/content\/blog\/(.+)\.md$/;
-const ASSET = /^public\/img\/blog\/([^/]+)\//;
 
 function git(...args) {
   return execFileSync('git', args, { encoding: 'utf8', stdio: ['ignore', 'pipe', 'pipe'] }).trim();
@@ -125,26 +135,6 @@ function articleMatters(slug, base, head, cache) {
 }
 
 /**
- * Artwork is only visible if its article is.
- *
- * This is where most of the waste was. Every draft arrives with a placeholder
- * cover, and the image-fetch step that follows adds four screenshots and a
- * credit file — nine or ten megabytes of assets for a piece the build does not
- * render, because the site is generated from `!data.draft`. Three deployments
- * per article before a word of it was public.
- */
-function assetMatters(slug, base, head, cache) {
-  const after = published(slug, head, cache);
-  if (after !== null) return after; // an article owns this folder: follow it
-
-  // No article by that name on either side. Nineteen live pieces point at
-  // folders like covers/, editorial/ and marvel-tokon/ that were never named
-  // after a slug, so "no article" cannot mean "invisible" — it means shared
-  // artwork, and shared artwork ships.
-  return published(slug, base, cache) !== false;
-}
-
-/**
  * @returns {{build: boolean, why: string, files: string[], reasons: string[]}}
  */
 export function decide(base = 'HEAD^', head = 'HEAD') {
@@ -167,12 +157,6 @@ export function decide(base = 'HEAD^', head = 'HEAD') {
     const article = f.match(ARTICLE);
     if (article) {
       if (articleMatters(article[1], base, head, cache)) reasons.push(f);
-      continue;
-    }
-
-    const asset = f.match(ASSET);
-    if (asset) {
-      if (assetMatters(asset[1], base, head, cache)) reasons.push(f);
       continue;
     }
 

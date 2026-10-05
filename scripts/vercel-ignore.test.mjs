@@ -61,19 +61,20 @@ check('a feed harvest', at('cfddc99'), false);
 check('the social ledger', at('32ef392'), false);
 check('cards drawn for Instagram', at('0a98bdb'), false);
 
+// Article images are served by jsDelivr from main and are not in any
+// deployment (scripts/strip-blog-images.mjs, since 20 September), so the
+// evening frames and the blog's link preview never need a build to be seen.
+check('the evening story frames', at('1fd8e0e'), false);
+check("cards and the blog's link preview", at('7ac48bf'), false);
+
 /* ----------------------------------------------------------- must build --- */
 
 check('the moment draft: true comes off', at('cdecab5'), true);
 check('a change to the site itself', at('2b27c82'), true);
 
-// These look like Instagram artwork and are not. The evening email links them
-// as /img/blog/digest/<day>-story-NN.jpg, so a skip here mails five 404s.
-check('the evening story frames', at('1fd8e0e'), true);
-
-// Nineteen published articles point at folders never named after a slug —
-// covers/, editorial/, marvel-tokon/. "No article by this name" cannot mean
-// "invisible", or their artwork would stop deploying.
-check('artwork in a shared folder', at('92b14ab'), true);
+// New artwork and the site code that shows it, in one commit: the code is
+// what makes it a build.
+check('artwork landing with the code that uses it', at('92b14ab'), true);
 
 /* --------------------------------------------------- the multi-commit push --
  *
