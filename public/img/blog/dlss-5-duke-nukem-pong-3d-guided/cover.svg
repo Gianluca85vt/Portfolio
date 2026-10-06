@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="No 3D to guide it">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1E6F5C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#9BE3C9" font-family="Helvetica,Arial,sans-serif" font-size="34" letter-spacing="6">DLSS 5 / AI</text>
+  <text x="80" y="300" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="108" font-weight="700">16 colours</text>
+  <text x="80" y="400" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="108" font-weight="700">320 x 200</text>
+  <text x="80" y="480" fill="#9BE3C9" font-family="Helvetica,Arial,sans-serif" font-size="40">no motion vectors, no depth buffer</text>
+</svg>
