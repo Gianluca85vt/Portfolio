@@ -3,7 +3,7 @@ title: Manchuria Opium Squad resumes with a new artist
 date: 2026-10-05
 category: Manga
 excerpt: Shikako died last November at 37. The series came back this week drawn by Tsurushima, who sat at the same assistant desk on Yasuhisa Hara's Kingdom.
-cover: /img/blog/manchuria-opium-squad-new-artist-tsurushima/cover.svg
+cover: /img/blog/manchuria-opium-squad-new-artist-tsurushima/shot-01.jpg
 sources:
   - outlet: Anime News Network
     url: https://www.animenewsnetwork.com/news/2026-09-28/manchuria-opium-squad-manga-resumes-serialization-with-new-artist-tsurushima/.242256
