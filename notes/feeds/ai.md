@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-06T11:30:43.236Z
+# AI — harvested 2026-10-06T19:04:06.965Z
 
 ## OpenAI
+
+### Advancing computer use with Ironclad
+Tue, 06 Oct 2026 10:00:00 GMT — https://openai.com/index/advancing-computer-use-with-ironclad
+
+Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
+
+### Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+Tue, 06 Oct 2026 16:00:00 GMT — https://openai.com/index/atlassian-partnership
+
+Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
 
 ### Our approach to EU text provenance rules
 Mon, 05 Oct 2026 15:00:00 GMT — https://openai.com/index/eu-text-provenance

@@ -1,6 +1,46 @@
-# Manga — harvested 2026-10-06T11:30:43.236Z
+# Manga — harvested 2026-10-06T19:04:06.965Z
 
 ## Anime News Network
+
+### A Returner's Magic Should Be Special Season 2 Anime Reveals Same-Day Dub Release, Cast
+Tue, 06 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/a-returner-magic-should-be-special-season-2-anime-reveals-same-day-dub-release-cast/.242551
+
+Season debuts on Wednesday
+
+### Hyakusho Kizoku-the farmer's days (Seasons 1-3) Anime Review
+Tue, 06 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hyakusho-kizoku-the-farmer-days/anime/.242063
+
+It's refreshing and sweet to hear about what influenced Arakawa.
+
+### CloverWorks' Omnibus Anime Film Grotesqqque Previews 'Nocturne' in New Trailer
+Tue, 06 Oct 2026 11:39:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/cloverworks-omnibus-anime-film-grotesqqque-previews-nocturne-in-new-trailer/.242548
+
+Video features Kairi Yagi's insert song "Tiny Luck"
+
+### Gundam: Rogue Orbit Game's Walkthrough Trailer Previews Combat, Customization
+Tue, 06 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/gundam-rogue-orbit-game-walkthrough-trailer-previews-combat-customization/.242546
+
+Game launches for PS5, Xbox X|S, PC on March 5, 2027
+
+### Our Blood Oath's Kazu Kakazu Launches Yosuga Tagurite Manga Series
+Tue, 06 Oct 2026 09:03:06 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/our-blood-oath-kazu-kakazu-launches-yosuga-tagurite-manga-series/.242527
+
+Manga about half-<i>yōkai</i> boy launches on vertical Jump Toon service on Friday
+
+### emaqi Service Adds Streaming Under My Control, The Soldier Groom and the Daikon Bride, Shin Ikki Tousen, 8 More Manga
+Tue, 06 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/emaqi-service-adds-streaming-under-my-control-the-soldier-groom-and-the-daikon-bride-shin-ikki-/.242468
+
+Service also adds Kill Me Baby, Song of the Thirty-Year-Olds' Blues, Time Traveler's Disease, A Meal by Moonlight, more
+
+### Short Net Anime Studio Plott to Start Producing Over-the-Air TV Anime
+Tue, 06 Oct 2026 08:37:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/short-net-anime-studio-plott-to-start-producing-over-the-air-tv-anime/.242542
+
+Company launched YouTube short anime <cite>Rakuraku Hanten</cite> on September 18
+
+### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 19
+Tue, 06 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-19/.242528
+
+I could go on at length about Emilia beating up an elderly Alzheimer's patient in the most creative fight scene that <cite>Re:Zero</cite> has ever had but let's talk about Flugel instead.
 
 ### The Fledgling Demon Lord's Starter Shop Anime's 2nd Teaser Reveals More Cast, January Debut
 Tue, 06 Oct 2026 05:35:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/the-fledgling-demon-lord-starter-shop-anime-2nd-teaser-reveals-more-cast-january-debut/.242541
@@ -22,51 +62,16 @@ Mon, 05 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Voice of Kaguya-sama: Love is War's Tsubame Koyasu married professional soccer player Takefusa Kubo
 
-### Hideaki Anno, Yutaka Izubuchi Co-Direct Yamato √2199 Film at I.G, Khara
-Mon, 05 Oct 2026 19:51:08 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/hideaki-anno-yutaka-izubuchi-co-direct-yamato-2199-film-at-i.g-khara/.242524
-
-Production I.G founder Mitsuhisa Ishikawa also credited with planning with Anno
-
-### The New Denpa Men Game Ends Service on December 7
-Mon, 05 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/the-new-denpa-men-game-ends-service-on-december-7/.242516
-
-Free-to-play game launched in July 2024
-
-### Hunter X Hunter Manga Creator Yoshihiro Togashi to Limit Work Due to Physical/Mental Health Issues
-Mon, 05 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/hunter-x-hunter-manga-creator-yoshihiro-togashi-to-limit-work-due-to-physical-mental-health-issues/.242517
-
-Togashi to decline future work requests with deadlines in order to focus on his own manuscripts
-
-### OceanVeil Streams Magical Girl Raising Project restart Anime
-Mon, 05 Oct 2026 15:33:06 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/oceanveil-streams-magical-girl-raising-project-restart-anime/.242518
-
-Series debuted on Monday
-
-### Young Magazine USA Special Gets 2nd Issue
-Mon, 05 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/young-magazine-usa-special-gets-2nd-issue/.242512
-
-2nd issue looks for more Japanese creators who want their story published overseas
-
-### The Laid-Off Cheat-Granting Mage Enjoys a Second Lease on Life Anime Gets Same-Day English Dub
-Mon, 05 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/the-laid-off-cheat-granting-mage-enjoys-a-second-lease-on-life-anime-gets-same-day-english-dub/.242515
-
-Justin Briner, Hollis Beck, Lacey Deline, more star in dub on Tuesday
-
-### MediaOCD Announces Deal to Sell Physical Editions of Manga from Manga Mavericks Books, Mahjong Pros
-Mon, 05 Oct 2026 13:12:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/mediaocd-announces-deal-to-sell-physical-editions-of-manga-from-manga-mavericks-books-mahjong-pros/.242514
-
-Manga available on MediaOCD's website include <cite>ALTERNATIVE[SELF LINER NOTE]</cite>, more
-
-### Crunchyroll to Stream Dragon Ball Super: Beerus Anime Starting on October 11
-Mon, 05 Oct 2026 12:10:16 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/crunchyroll-to-stream-dragon-ball-super-beerus-anime-starting-on-october-11/.242503
-
-Series also streams in Canada, Latin America, Australia, New Zealand, South Africa, India, Southeast Asia, Europe
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Oni Press and Magnetic Press Launch A Scoundrel in the New World Kickstarter From Blacksad Artist Juanjo Guarnido and Alain Ayroles
+Tue, 06 Oct 2026 16:30:00 GMT — https://animecorner.me/oni-press-and-magnetic-press-launch-a-scoundrel-in-the-new-world-kickstarter-from-blacksad-artist-juanjo-guarnido-and-alain-ayroles/
+
+Oni Press and Magnetic Press have launched a Kickstarter campaign for A Scoundrel in&hellip;
 
 ### A World Space Week Pokémon × ESA Collaboration Has Launched
 Tue, 06 Oct 2026 10:07:39 GMT — https://animecorner.me/a-world-space-week-pokemon-x-esa-collaboration-has-launched/
@@ -88,7 +93,7 @@ The official website for the television anime adaptation of Makoto Morishita s S
 ### Otome Game no Heroine de Saikyou Survival Unveils Main Staff, Cast for Summer 2027
 Tue, 06 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74795171?_location=rss
 
-Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine s Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), special promo, and its television format. The anime series adapting Biyori Harunohi s adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starrin...
+Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine s Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), teaser promo, and its television format. The anime series adapting Biyori Harunohi s adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starring...
 
 ### Hideaki Anno, Yutaka Izubuchi Co-Direct Uchuu Senkan Yamato √2199 Anime Movie
 Mon, 05 Oct 2026 18:33:39 -0700 — https://myanimelist.net/news/74794971?_location=rss
@@ -114,16 +119,6 @@ Production company Pony Canyon opened an official website for the television ani
 Mon, 05 Oct 2026 00:17:43 -0700 — https://myanimelist.net/news/74792787?_location=rss
 
 The official X (formerly Twitter) account for author Keigo Shinzou announced on Monday that the Hirayasumi manga will end in two more chapters. Shinzou began drawing the manga in Big Comic Spirits in April 2021. Shogakukan published the tenth volume on April 30. VIZ Media licensed the manga in English in October 2023, with the latest ninth volume released on May 19. Hirayasumi was nominated for the 15th and 17th Manga Taisho. The manga also placed among the top 20 titles in the male readers cate...
-
-### Manga Manshuu Ahen Squad Gets Anime Adaptation
-Sun, 04 Oct 2026 08:24:46 -0700 — https://myanimelist.net/news/74790204?_location=rss
-
-Production company Pony Canyon opened an official website for an anime adaptation of Tsukasa Monma and Shikako s Manshuu Ahen Squad (Manchuria Opium Squad) manga on Monday. Monma and Shikako originally began serializing the historical crime manga on the Comic Days platform in April 2020 before transferring it to the Weekly Young Magazine in September 2021. The series went on hiatus following the death of Shikako in November 2025 and resumed serialization as per their wishes on October 5, wi...
-
-### Charisma Announces Additional Staff
-Sun, 04 Oct 2026 05:46:56 -0700 — https://myanimelist.net/news/74789712?_location=rss
-
-The special livestream presentation for the television anime adaptation of the Charisma House mixed-media project revealed additional staff and a key visual (pictured) on Sunday. The anime series will premiere on TBS affiliate networks in January 2027. Staff Character Design: Haru Watanabe (Kawagoe Boys Sing) Chief Animation Director: Haru Watanabe, Seung-ah Han (ēlDLIVE) Art Director: Seiki Tamura (Nippon Sangoku) Color Design: Yukiko Kakita (Ranma &frac12; (2024)) Director of Photography: Susu...
 
 ## Otaku USA
 
