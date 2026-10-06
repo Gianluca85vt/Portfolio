@@ -39,6 +39,14 @@ Yasuhisa Hara's *Kingdom*. That one line in the announcement explains the whole
 decision, and it is worth sitting with if you have ever tried to hand a look
 from one artist to another.
 
+<figure>
+  <button class="video-embed" data-video="jXI5lqYFzMc" data-title="【満州アヘンスクワッド】作画・鹿子氏の美麗お仕事場に大潜入！" type="button">
+    <img src="/img/blog/manchuria-opium-squad-new-artist-tsurushima/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from Weekly Young Magazine's tour of Shikako's studio" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Weekly Young Magazine's own channel walked through Shikako's studio while he was still drawing the series — the desk, the reference, the stack of pages. It is the clearest look anyone outside the room ever got at how these pages were made.</figcaption>
+</figure>
+
 *Kingdom* is a crowd book. Ten thousand spears, lacquered armour, dust, horses,
 siege towers — the kind of work that cannot be done by one pair of hands and
 never has been. An assistant on that series spends years learning a specific set
@@ -94,6 +102,22 @@ person into a medium and a scale they never drew for is the same problem as
 [building a 70-metre Shenron from an anatomy Toriyama never drew](/blog/dragon-ball-theme-park-shenron-anatomy/):
 the source material is authoritative and incomplete at once, and somebody has to
 invent the missing half without it showing.
+
+There is a second inheritance in a book like this one, and it is the dull half.
+*Manchuria Opium Squad* is period work. Harbin's Russian facades, Kwantung Army
+collar tabs, the shape of a 1937 shopfront sign, what a refining bench actually
+held. None of that is drawing skill. It is a reference library, built over five
+years of somebody deciding which photographs are reliable and which are
+postcards, and it is the part of a handover nobody films.
+
+<figure>
+  <img src="/img/blog/manchuria-opium-squad-new-artist-tsurushima/shot-02.jpg" loading="lazy" width="1440" height="810" alt="Printed propaganda posters from Manchukuo" />
+  <figcaption>State propaganda printed in Manchukuo, now public domain, via Wikimedia Commons. Archival material rather than art from the series — and roughly the kind of thing a period book's reference board is built out of.</figcaption>
+</figure>
+
+I would rather inherit that folder than the style guide. A reference board tells
+you what the world looked like; the style guide only tells you what the last
+artist decided to do about it.
 
 Manchukuo in 1937, Isamu Higata, the opium trade as a way out. The story was
 always going to be finished by somebody. Chapter 217 is where you can see who.
