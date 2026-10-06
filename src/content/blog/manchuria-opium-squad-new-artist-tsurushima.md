@@ -16,7 +16,6 @@ artistView:
     - "Credit: keeping Shikako named for the original art is the correct attribution for someone whose designs the series will keep using for however long it runs."
   misses:
     - "Risk: the whole continuity rests on one person's memory of how another person drew, with nothing written down to fall back on if Tsurushima also stops."
-draft: true
 ---
 
 The credit box on *Manchuria Opium Squad* now reads three names. Story by
