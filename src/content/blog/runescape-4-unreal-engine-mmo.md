@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Presentation: a pre-rendered teaser with floating islands and dragon combat sets an expectation no streaming MMO renderer has to meet yet, and that gap is where announcement footage usually gets quoted back at a studio."
     - "Scope: dragon-back traversal, as the teaser shows it, is the most expensive camera an MMO can offer — it moves fast, looks down, and asks for draw distance in every direction at once."
-draft: true
 ---
 
 Jagex closed RuneFest in Birmingham on Saturday 3 October with a teaser for a
