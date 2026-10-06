@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Temporal stability: strip the motion vectors and each frame is a fresh guess. Kryzhanovsky's own read is that force-injected DLSS 5 holds up best on stills, which is a polite way of describing crawl."
     - "Art direction: a 320x200 palette of sixteen colours was a constraint somebody composed around. Repainting it with photoreal material response throws away the readability that the constraint bought."
-draft: true
 ---
 
 Read Nvidia's own description of DLSS 5 and the limit is written into it. The model
