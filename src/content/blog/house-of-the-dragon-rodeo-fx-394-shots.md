@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Credit: two of the season's eight vendors have now published anything at all. For a production this size, who solved what is still mostly undocumented."
     - "Documentation: the reel shows what was made and says almost nothing about how the sims were ordered, which is the part another studio would actually learn from."
-draft: true
 ---
 
 Rodeo FX has put a number on its season 3 of House of the Dragon. **394 shots**,
