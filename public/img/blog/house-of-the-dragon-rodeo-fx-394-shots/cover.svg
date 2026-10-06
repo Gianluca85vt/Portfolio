@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="House of the Dragon season 3: 394 shots, six dragons, one of eight vendors">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#341C6B"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+    <linearGradient id="haze" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#5B3FBF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#5B3FBF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect x="0" y="580" width="1200" height="320" fill="url(#haze)"/>
+  <text x="80" y="140" font-family="Georgia, serif" font-size="34" fill="#FFFFFF" opacity="0.6">House of the Dragon, season 3</text>
+  <text x="80" y="290" font-family="Georgia, serif" font-size="128" font-weight="bold" fill="#FFFFFF">394 shots</text>
+  <text x="80" y="400" font-family="Georgia, serif" font-size="128" font-weight="bold" fill="#C8B4FF">six dragons</text>
+  <text x="80" y="478" font-family="Georgia, serif" font-size="38" fill="#FFFFFF" opacity="0.78">Rodeo FX, one of the season&#8217;s eight vendors</text>
+  <rect x="80" y="520" width="150" height="5" fill="#FFFFFF" opacity="0.45"/>
+</svg>

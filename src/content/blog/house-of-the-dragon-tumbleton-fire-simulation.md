@@ -19,6 +19,8 @@ artistView:
     - "Credit: eight vendors worked the season and there is still no public breakdown of who solved what. One conference talk and a general featurette is a thin record for a sequence this size."
 ---
 
+*Update, 6 October 2026: Rodeo FX has since published a season 3 breakdown with numbers attached — [394 shots and six CG dragons](/blog/house-of-the-dragon-rodeo-fx-394-shots). The missing per-vendor record this piece ends on is now partly filled.*
+
 The Battle of Tumbleton closed House of the Dragon's third season on **9
 August**, eight episodes after the season opened on 21 June. When the wall of
 fire comes through the town gate, a good part of what you are watching is a
