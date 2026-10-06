@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="RuneScape 4 in Unreal Engine">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2E6BD6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="150" fill="#9BB6E8" font-family="Inter, Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">RUNEFEST 2026</text>
+  <text x="80" y="310" fill="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" font-size="150" font-weight="700">RS4</text>
+  <text x="80" y="400" fill="#FFFFFF" font-family="Inter, Helvetica, Arial, sans-serif" font-size="56" font-weight="600">in Unreal Engine</text>
+  <text x="80" y="480" fill="#C9D8F2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="38">Dragonwilds got there first.</text>
+  <text x="80" y="536" fill="#C9D8F2" font-family="Inter, Helvetica, Arial, sans-serif" font-size="38">A persistent world is the test.</text>
+</svg>
