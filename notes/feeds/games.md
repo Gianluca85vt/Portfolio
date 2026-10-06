@@ -1,6 +1,26 @@
-# Games — harvested 2026-10-05T21:24:20.738Z
+# Games — harvested 2026-10-06T11:30:43.236Z
 
 ## Eurogamer
+
+### CD Projekt Red outlines which Witcher 3 Remastered fixes are coming next, but there's still division about the changes
+Tue, 06 Oct 2026 11:01:33 +0000 — https://www.eurogamer.net/cd-projekt-red-witcher-3-bugs-issues-remastered-ps5
+
+CD Projekt Red has let The Witcher 3 community know its work isn't done patching the newly-released Remastered edition of the game. Read more
+
+### Supermassive Games suffers layoffs as more than 70 developers seem to have left the company this week
+Tue, 06 Oct 2026 09:05:20 +0000 — https://www.eurogamer.net/supermassive-games-layoffs-70
+
+Supermassive Games - the developer behind games such as Directive 8020 and the original Until Dawn - seems to have lost over 70 staff today as part of widespread layoffs at the company. Read more
+
+### Tarae: The Unbound seems to get what makes a good ARPG, but crunchy combat aside, can it rise to the likes of Diablo and Path of Exile?
+Tue, 06 Oct 2026 09:00:01 +0000 — https://www.eurogamer.net/tarae-the-unbound-preview
+
+Who doesn't love a good top-down ARPG; a solid dungeon-crawler with visceral action and real punchy combat that sticks in your teeth like toffee? Aside from Diablo and Path of Exile , there aren't as many out there as I'd like. But Tarae: The Unbound, from South Korean studio Boundary and publisher Krafton, might help change that. I had a chance to get my hands on an early version during this year's Gamescom, and while it's far from finished, what I played of it showed real promise. Read more
+
+### "This is Call of Duty's definitive extraction shooter experience" - Infinity Ward details the new DMZ mode in Modern Warfare 4
+Tue, 06 Oct 2026 08:57:36 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-reveal
+
+Call of Duty: Modern Warfare 4 studio Infinity Ward is betting big on DMZ - the game's extraction shooter mode - becoming another major pillar of the series. In a wide-ranging blog post and developer diary , we learn more about the studio's goals, and how the upcoming DMZ builds on 2022's Modern Warfare 2 DMZ beta. Read more
 
 ### GTA 6 devs tried "not to jump on the bandwagon" of passing trends and instead created their "own slanted, overblown versions"
 Mon, 05 Oct 2026 20:14:26 +0000 — https://www.eurogamer.net/gta-6-devs-bandwagon-trends-created-slanted-versions
@@ -42,27 +62,22 @@ Mon, 05 Oct 2026 12:44:39 +0000 — https://www.eurogamer.net/dead-by-daylight-b
 
 Behaviour Interactive, the Canadian studio mostly known for asymmetrical multiplayer horror survival game Dead by Daylight , is hiring for a new project that sounds altogether different. Read more
 
-### Millions return to The Witcher 3 as the Remastered game records another Steam personal best and sales skyrocket
-Mon, 05 Oct 2026 11:17:51 +0000 — https://www.eurogamer.net/witcher-3-remastered-steam-players-sales
-
-Player numbers are still rising for The Witcher 3 following the release of the Remastered edition upgrade last week, as people not only return to the game following its overhaul but also buy it for the first time, or again. Read more
-
-### Ace Combat 8 is far and away the series' biggest launch on Steam
-Mon, 05 Oct 2026 11:02:40 +0000 — https://www.eurogamer.net/ace-combat-8-steam-launch-record-players
-
-Ace Combat 8: Wings of Theve has joined the ranks of September-October releases that have done very well commercially. The sequel, which officially launched on 2nd October following three days of early access, has been very popular on Steam. Read more
-
-### Final Fantasy Resonance feels so good to play because Square Enix 'experimented' with combining the best bits of FF5 and FF6
-Mon, 05 Oct 2026 10:41:05 +0000 — https://www.eurogamer.net/final-fantasy-resonance-combat-system-ff5-ff6
-
-Final Fantasy Resonance , a game made from the ashes of closed-down mobile game Final Fantasy Brave Exvius , is good. Very good, in fact, as I learned at Gamescom 2026 . It's basically a pixel-first FF RPG that takes old-school turn-based combat and modernises it. It feels like Octopath Traveler , but with all the classic Final Fantasy stuff in there, supported by some stunning HD-2D sprite work that looks simply divine. Read more
-
-### RuneScape creator Jagex in hot water over generative AI use in recent trailer
-Mon, 05 Oct 2026 09:28:10 +0000 — https://www.eurogamer.net/runescape-dragon-slayer-2-trailer-generative-ai
-
-RuneScape creator Jagex recently hosted its annual convention RuneFest, a hub for community events and new reveals for the British developer's many games. Sadly, one of those reveals has spoilt the fun somewhat due to unexpected generative AI use. Read more
-
 ## GamesIndustry.biz
+
+### South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m
+Tue, 06 Oct 2026 11:11:16 +0000 — https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m
+
+The South Australian Film Corporation (SAFC) has doubled its Digital Games Fund (DGF) funding to $1 million to support local developers. Read more
+
+### Star Wars: Galactic Racer launches on Amazon Luna as part of Prime subscription
+Tue, 06 Oct 2026 09:12:24 +0000 — https://www.gamesindustry.biz/star-wars-galactic-racer-launches-on-amazon-luna-as-part-of-prime-subscription
+
+Star Wars: Galactic Racer will be available to play on cloud gaming service Amazon Luna at launch as part of a Prime subscription. Read more
+
+### NBA 2K25 servers to shut down on December 31, single-player story mode will become unplayable
+Tue, 06 Oct 2026 07:24:06 +0000 — https://www.gamesindustry.biz/nba-2k25-servers-to-shut-down-on-december-31-single-player-story-mode-will-become-unplayable
+
+NBA 2K25 will be delisted from storefronts on October 30, 2026, with servers to sunset on December 31. Multiplayer and online modes will no longer be available starting January 1, 2027. Read more
 
 ### Arc Raiders and The Finals are getting TV series and film adaptations
 Mon, 05 Oct 2026 19:33:21 +0000 — https://www.gamesindustry.biz/arc-raiders-and-the-finals-are-getting-tv-series-and-film-adaptations
@@ -110,6 +125,36 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### ARC Raiders, The Finals Are the Next Games Set for TV and Movie Adaptations
+Tue, 06 Oct 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/10/arc-raiders-the-finals-are-the-next-games-set-for-tv-and-movie-adaptations
+
+Embarking on the next step. Embark Studios, the team behind popular shooters The Finals and ARC Raiders , have confirmed both games are being adapted for the screen. As reported by Variety , the Nexon-owned studio is teaming up with production company Chernin Entertainment to bring the two titles into the realm of TV and film. Read the full article on pushsquare.com
+
+### Rumour: Ape Escape Revival Coming from Ex-Sonic Mania Devs at Evening Star Studio
+Tue, 06 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-ape-escape-revival-coming-from-ex-sonic-mania-devs-at-evening-star-studio
+
+The makers of Penny's Big Breakaway. Word on the street is that Sony is taking pitches on its dormant, fan-favourite franchises, and among those is the supposed revival of a proper old school classic: Ape Escape . Well, the rumour mill has continued turning over, and there's now a thin, but very plausible, fan theory about which team is bringing back those mischievous pipo monkeys. Read the full article on pushsquare.com
+
+### Out Today: Star Wars: Galactic Racer, the Highest-Rated Star Wars Game in Over 20 Years
+Tue, 06 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/news/2026/10/out-today-star-wars-galactic-racer-the-highest-rated-star-wars-game-in-over-20-years
+
+Very fast, very dangerous. It's kind of wild to think about, but it's true: Star Wars: Galactic Racer is the highest-rated game in the sci-fi series since 2003's Knights of the Old Republic . With a Metascore of 88, it outdoes other recent games that share the universe, such as Star Wars Zero Company and Star Wars Jedi: Survivor . Read the full article on pushsquare.com
+
+### October 2026 PS Plus Essential Games Available to Download Now
+Tue, 06 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/october-2026-ps-plus-essential-games-available-to-download-now
+
+You can download until 2nd November. Right on time, another batch of PS Plus Essential games have been added to Sony’s service, which are yours to claim and keep for as long as you remain a member. October 2026’s selection includes sim racing, acclaimed multiplayer action, and some unorthodox voxel-based gunplay – an eclectic mix, to say the least. Read the full article on pushsquare.com
+
+### BeamNG.drive Is Looking Wildly Impressive in First PS5 Pro Footage
+Mon, 05 Oct 2026 23:15:00 GMT — https://www.pushsquare.com/news/2026/10/beamng-drive-is-looking-wildly-impressive-in-first-ps5-pro-footage
+
+What sorcery is this? It’s a miracle that BeamNG.drive is releasing on the PS5 at all. For those who don’t know, this is a physics-focused racer that tracks each individual component of each vehicle at 240Hz, resulting in the most accurate crashes ever made. You’d think it would require a super-computer to run! Read the full article on pushsquare.com
+
+### This Scrappy New Superhero Game Could Be What Marvel s Avengers Wanted to Be
+Mon, 05 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/this-scrappy-new-superhero-game-could-be-what-marvels-avengers-wanted-to-be
+
+Assemble. A leaked trailer has been floating around today, showing off footage from a secret new Marvel game named Project Comet . Planned for PC and mobile – but likely coming to consoles as well – this is effectively a superhero version of the wildly popular Genshin Impact format, so you’ll be forming squads and completing missions in semi-open Marvel environments. Read the full article on pushsquare.com
+
 ### Another Major PS5 Game Will Be Delisted in October 2026
 Mon, 05 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/another-major-ps5-game-will-be-delisted-in-october-2026
 
@@ -139,36 +184,6 @@ Hello darkness my old friend. The curse of Sony’s unnecessarily limiting PS5 T
 Mon, 05 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/dune-awakening
 
 May thy knife chip and shatter. Standing over the planes of Arrakis, I don’t think I’ve ever felt so thirsty playing a game. Dune: Awakening , the survival experience from Funcom, has finally made its way to consoles, and I’ve been checking out the game on PS5. This was a release I actually had a bit of time with on PC, but decided to hold off for the eventual console release. It’s been a lengthy wait, but this one has definitely been worth it. Read the full article on pushsquare.com
-
-### Feature: Last Chance to Buy These 40+ PS5, PS4 Games in PS Store s Autumn Adventures Sale
-Mon, 05 Oct 2026 12:45:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-40plus-ps5-ps4-games-in-ps-stores-autumn-adventures-sale
-
-Sale away. PS Store's Autumn Adventures sale is due to conclude soon, finishing on 7th October 2026. Until then, there are thousands of PS5 and PS4 games going cheap, and that's just too much to scroll through, isn't it? Read the full article on pushsquare.com
-
-### Part 1 of Gran Turismo 7 s Massive Spec 4 Update Is Available Very Soon on PS5, PS4
-Mon, 05 Oct 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/10/part-1-of-gran-turismo-7s-massive-spec-4-update-is-available-very-soon-on-ps5-ps4
-
-Release date confirmed. Sony and Polyphony Digital have revealed when to expect the first part of Gran Turismo 7's big, free 'Spec IV' update. The PS5/PS4 racing game will get this major update on 14th October, 2026, as shown in this new trailer: Read the full article on pushsquare.com
-
-### Guide: These 23+ PS5 and PS Plus Games Are Coming Out This Week (5th-11th October)
-Mon, 05 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-23plus-ps5-and-ps-plus-games-are-coming-out-this-week-5th-11th-october
-
-Kingdom Hearts! Star Wars! Hellraiser! The hectic release schedule does show some signs of slowing down this week, but there's still no shortage of games to play. Highlights this time include the critically acclaimed Star Wars: Galactic Racer and the PS5 version of the Kingdom Hearts Collection I - III . Keep an eye out for Hellraiser: Revival , too. Read the full article on pushsquare.com
-
-### Capcom Plans to Use AI Technology with RE Engine to Make Games More Efficiently
-Mon, 05 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/10/capcom-plans-to-use-ai-technology-with-re-engine-to-make-games-more-efficiently
-
-REX initiative detailed. Publisher Capcom has stated its plan to incorporate AI tech into its versatile in-house game engine, RE Engine. Reported by Japanese outlet GameBiz , the company's 'REX' initiative has been detailed; it's all about eliminating many of the major hurdles to making triple-A games in the modern day, and the answer is seemingly the implementation of AI in development processes. Read the full article on pushsquare.com
-
-### Mini Review: Kingdom Hearts Collection I~III (PS5) - Great Value for Newcomers in This (Almost) Complete Package
-Mon, 05 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/reviews/ps5/kingdom-hearts-collection-iiii
-
-A Kingdom of games. Kingdom Hearts Collection I~III is perfect for those interested in delving into Disney and Square Enix's weird, wonderful, and often convoluted action RPG world for the first time, but for a longtime fan like myself, the lack of enhancements makes it hard to justify a purchase. As the name suggests, this package includes every Kingdom Hearts title from the 2002 PS2 classic, all the way up to the most recent mainline instalment, Kingdom Hearts III . However, Kingdom Hearts: Melody of Memory is not included, which is a shame, as there are some loose threads that may be important for the upcoming Kingdom Hearts IV . Read the full article on pushsquare.com
-
-### Feature: Let s Flick Through Sammy s Photos from Gamescom and Tokyo Game Show
-Sun, 04 Oct 2026 18:30:00 GMT — https://www.pushsquare.com/features/lets-flick-through-sammys-photos-from-gamescom-and-tokyo-game-show
-
-Nothing too unsavoury, I promise. I’ve been wanting to share some of my adventures from Gamescom and Tokyo Game Show for weeks now, but I wasn’t really sure how best to package it. Then, earlier this week while I was out running, I realised I didn’t really need a big overarching theme or some inspirational message – what if I just posted the best bits in a big fat gallery-style article, with anecdotes? Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -216,6 +231,31 @@ no date — https://www.gamedeveloper.comwest.paxsite.com
 
 ## VGC
 
+### Star Wars Galactic Racer s single-player campaign is available to play on Amazon Prime Luma for free
+Tue, 06 Oct 2026 10:54:45 +0000 — https://www.videogameschronicle.com/news/star-wars-galactic-racers-single-player-campaign-is-available-to-play-on-amazon-prime-luma-for-free/
+
+Players with a Prime subscription can play the game at no extra charge… Source
+
+### Sega claims it s being very cautious about AI and won t use it for creative work
+Tue, 06 Oct 2026 10:34:30 +0000 — https://www.videogameschronicle.com/news/sega-claims-its-being-very-cautious-about-ai-and-wont-use-it-for-creative-work/
+
+Sega says it won't entrust the creative aspects of games to AI… Source
+
+### Nintendo releases free Hello, Peach! and Hello, Luigi! apps for children, joining its Mario and Yoshi ones
+Tue, 06 Oct 2026 10:02:54 +0000 — https://www.videogameschronicle.com/news/nintendo-releases-free-hello-peach-and-hello-luigi-apps-for-children-joining-its-mario-and-yoshi-ones/
+
+The four apps let children use a touch screen to interact with the characters… Source
+
+### If you don t own it, what are you buying? Former PlayStation boss says dropping discs is a significant brand hit
+Tue, 06 Oct 2026 09:08:24 +0000 — https://www.videogameschronicle.com/news/if-you-dont-own-it-what-are-you-buying-former-playstation-boss-says-dropping-discs-is-a-significant-brand-hit/
+
+If you can't sell a thing, that means you don't own a thing… Source
+
+### Watch Dogs is important to Ubisoft says Yves Guillemot, but don t expect a new one soon
+Tue, 06 Oct 2026 08:41:36 +0000 — https://www.videogameschronicle.com/news/watch-dogs-is-important-to-ubisoft-says-yves-guillemot-but-dont-expect-a-new-one-soon/
+
+The last Watch Dogs game was released in 2020… Source
+
 ### Aion 2: Splendent Ruby location, Upgrade Essence Extraction Speciality quest guide
 Mon, 05 Oct 2026 16:53:48 +0000 — https://www.videogameschronicle.com/guide/aion-2-splendent-ruby-location-upgrade-essence-extraction-speciality-quest-guide/
 
@@ -241,84 +281,79 @@ Mon, 05 Oct 2026 14:55:08 +0000 — https://www.videogameschronicle.com/guide/ai
 
 The Aion 2 questions you need answered, all in one place… Source
 
-### Aion 2 Factions: Best Faction to choose, Elyos or Asmodians
-Mon, 05 Oct 2026 14:10:49 +0000 — https://www.videogameschronicle.com/guide/aion-2-factions-best-faction-to-choose-elyos-or-asmodians/
-
-Which Faction you should play as when starting Aion 2… Source
-
-### Hellblade studio Ninja Theory has started laying off staff, following Xbox s announcement that it faces closure
-Mon, 05 Oct 2026 13:20:46 +0000 — https://www.videogameschronicle.com/news/hellblade-studio-ninja-theory-has-started-laying-off-staff-following-xboxs-announcement-that-it-faces-closure/
-
-Two separate agreements with the studio "fell through" Source
-
-### Dragon’s Dogma 2: Dark Arisen devs explain why they re not abandoning the friction that makes it special
-Mon, 05 Oct 2026 12:47:42 +0000 — https://www.videogameschronicle.com/features/interviews/dragons-dogma-2-dark-arisen/
-
-Dragon's Dogma 2: Dark Arisen's director and producer discuss design friction, player feedback, and Switch 2 optimization… Source
-
-### AI game mashup videos on social media spark debate and backlash among players and modders
-Mon, 05 Oct 2026 11:23:50 +0000 — https://www.videogameschronicle.com/news/ai-game-mashup-videos-on-social-media-spark-debate-and-backlash-among-players-and-modders/
-
-The Claude-created videos overlay one game on top of another to make a rudimentary 'mashup' Source
-
-### GTA 6 is deliberately avoiding direct political references, says Rockstar
-Mon, 05 Oct 2026 09:57:26 +0000 — https://www.videogameschronicle.com/news/gta-6-is-deliberately-avoiding-direct-political-references-says-rockstar/
-
-Rockstar writer says it wants to avoid recreating ‘the exact world we live in’… Source
-
 ## Polygon
 
-### Sicario 3 Officially Moves Forward, Replacing Taylor Sheridan
-Mon, 05 Oct 2026 20:11:44 GMT — https://www.polygon.com/sicario-3-cast-director-taylor-sheridan-steven-knight/
+### I Had a D&D Designer Make the Perfect Monster to Torment My Group
+Tue, 06 Oct 2026 11:00:15 GMT — https://www.polygon.com/dnd-dungeons-dragons-keith-ammann-remonstered-the-monsters-know-what-theyre-doing/
 
-The third Sicario movie is officially happening, with original stars Emily Blunt, Benicio del Toro, and Josh Brolin returning to the crime drama film series. But there will be some creative changes at the top, with a new director and new writer coming on board for Sicario 3 . And that means that, despite previous reporting, series creator Taylor Sheridan apparently won't be directly involved in the threequel.
+Being a Dungeon Master (DM) for Dungeons & Dragons can be an incredibly rewarding experience, but it comes with its challenges. Crafting a compelling story, creating an immersive world, preparing for a session, and keeping track of things are all skills that a good DM has to develop, but running monsters in a way that makes for compelling combat experiences remains a challenge for even the best among us.
 
-### Multi-Stage Boss Fights Are the Worst Video Game Mechanic of All Time
-Mon, 05 Oct 2026 20:00:15 GMT — https://www.polygon.com/multi-stage-boss-fights-worst-video-game-mechanic/
+### Valor Mortis Comes to PS Plus and Game Pass, and You Can Try It for Free
+Tue, 06 Oct 2026 10:05:57 GMT — https://www.polygon.com/valor-mortis-game-pass-playstation-plus-trial/
 
-Boss fights have existed for almost as long as video games have. They serve various purposes: defeating them may be required for story progression, or perhaps they're optional, guarding rare loot. A fight may be against an entirely unique enemy, with new mechanics and animations, or it could be a tougher version of a similar foe you've already fought. They all have one thing in common though: winning a boss fight is one of the most satisfying things you can do as a player.
+One More Level Games, the creators of Ghostrunner , will release their next game, Valor Mortis , on Oct. 13 on PC, Xbox Series X/S, and PlayStation 5. It will launch simultaneously on Game Pass and be available as a trial for PlayStation Plus subscribers, giving many gamers a chance to try it for free.
 
-### Overwatch Season 5 skins and Mythics Revealed by Blizzard
-Mon, 05 Oct 2026 19:13:24 GMT — https://www.polygon.com/overwatch-season-5-skins-tech-witches-halloween-battle-pass/
+### Charlie Brown's Halloween Special Still Rules Over Peanuts Christmas in 1 Way
+Tue, 06 Oct 2026 10:00:15 GMT — https://www.polygon.com/theres-one-thing-its-the-great-pumpkin-charlie-brown-has-over-the-peanuts-christmas-special/
 
-Overwatch season 5 starts on Tuesday with new Support hero Doctrine and a new Escort map, Grímsvötn, coming to Blizzard Entertainment's hero shooter. But that's just the beginning, as long-awaited and sort-of-radical hero reworks for Roadhog and Sombra arrive to shake up the hero roster and meta.
+Come Christmas time, if you’re looking for some wholesome (but not sickeningly so), feel-good, family entertainment, you can take your pick. While A Charlie Brown Christmas is one of the best sources of that warm holiday feeling, if you didn’t want to fork over the money to buy the special from Apple TV or Prime Video, you could get a similar sensation from things like Rudolph the Red-Nosed Reindeer and How the Grinch Stole Christmas! But at Halloween time, It's the Great Pumpkin, Charlie Brown stands alone in providing that cozy feeling, which is just one of the reasons it's become essential viewing this time of year.
 
-### GTA's Wanted Level Is One of Video Games’ Perfect Ideas
-Mon, 05 Oct 2026 19:00:16 GMT — https://www.polygon.com/grand-theft-auto-wanted-level-opinion/
+### Evangelion Creator Returns to Direct Another Sci-Fi Anime Classic
+Tue, 06 Oct 2026 09:49:34 GMT — https://www.polygon.com/evangelion-director-will-bring-back-another-sci-fi-anime-classic/
 
-With Grand Theft Auto 6 so close that you can practically taste Leonida’s bog water, I’m starting to reflect on why the GTA series still excites me after decades of playing. It’s easy to write off Rockstar’s series as typical open-world games, but the truth is that GTA is filled with brilliant design decisions that are too easy to take for granted. Case in point: the Wanted system, one of the brightest ideas in a series full of them.
+In October 1974, one of the most influential anime and sci-fi series of all time aired for the first time in Japan: Space Battleship Yamato , known in the United States as Star Blazers . Now, 52 years after the anime's debut, a legendary anime creator known for his visionary contribution to sci-fi joins the Space Battleship Yamato franchise.
 
-### Stephen King’s 2007 Psychological Horror Box Office Hit Is Now Free to Watch on YouTube
-Mon, 05 Oct 2026 18:53:16 GMT — https://www.polygon.com/stephen-king-1408-free-youtube-streaming/
+### 11 Most Essential White Cards Every Magic: The Gathering Player Should Know
+Tue, 06 Oct 2026 09:00:15 GMT — https://www.polygon.com/magic-gathering-mtg-best-white-cards/
 
-Stephen King has had an unusually strong track record when it comes to movie adaptations. From The Shining and Carrie to It and The Shawshank Redemption , his stories have produced everything from horror classics to some of the most beloved dramas of the past several decades.
+White has always been one of the easiest colors in Magic: The Gathering to misunderstand. On the surface, it’s deceptively simple: armies of little creatures, life gain, exile-based removal, and an unhealthy obsession with justice and righteousness. Beneath that veneer of honor and unwavering faith lies a much darker undercurrent of zealotry and dogmatism. When its pursuit of order reaches its logical extreme, White reveals an arsenal of the most brutally oppressive spells in Magic history, fully capable of obliterating the entire world in an instant or making an opponent deeply regret having the audacity to cast a spell at all.
 
-### The Batman Part 2 Filming Paused as Director Matt Reeves Steps Away
-Mon, 05 Oct 2026 18:08:30 GMT — https://www.polygon.com/the-batman-part-2-filming-paused-director-matt-reeves/
+### 8 Biggest Questions After the 'Lanterns' Season 1 Finale, Explained
+Tue, 06 Oct 2026 08:00:15 GMT — https://www.polygon.com/8-burning-questions-after-lanterns-season-1-finale/
 
-Warner Bros. and DC Studios have paused production on The Batman Part 2 , which was in the middle of filming in London. According to a statement from DC Studios, filming has paused due to director Matt Reeves needing to step away for a "family matter."
+HBO’s Lanterns has ended, bringing an exceptionally grounded, True Detective -inspired noir edge to the DC Universe ’s sprawling mythology. The series reveled most in its ability to strip away the shiny space-opera tropes of the Green Lanterns comic-book origin in favor of a murky Earth-bound conspiracy surrounding a misplaced Manhunter and a string of suspicious deaths set across a decade-hopping narrative.
 
-### BG3 Console Update Officially Brings 300-Option Cheat Menu
-Mon, 05 Oct 2026 18:00:14 GMT — https://www.polygon.com/bg3-console-cheaters-menu-mod/
+### Escape From Tarkov’s New PvE Update Officially Makes the Game Easier for Newbies
+Tue, 06 Oct 2026 07:00:17 GMT — https://www.polygon.com/escape-from-tarkov-pve-update-1-2-0-0-exfil-brothers-prestige/
 
-Can you cheat in Baldur’s Gate 3 on PS5 and Xbox Series X? As of recently, yes — or, at least, doing so just got a lot more convenient. Larian Studios has approved Cheater’s Menu for console , a mod by For_Kiramay . This mod adds a spell to your in-game hotbar. Cast it, and a cheat menu with ten tabs and over 300 options opens on-screen. Those options range from healing your party and respeccing for free to spawning any item in the game — or making sure every dice roll goes your way.
+Escape From Tarkov's long-awaited 1.2.0.0 update is finally here, with a slew of improvements and additions to the PvE experience in the extraction shooter. The brand new "EXFIL Brothers" program is the biggest thing here: a system that incentivizes veteran Tarkov players to team up with newcomers and show them the ropes, with both players earning rewards.
 
-### 'Lanterns' Season 2 Confirmed? Potential Release Date, Plot, and Everything You Need to Know
-Mon, 05 Oct 2026 17:51:14 GMT — https://www.polygon.com/lanterns-season-2-release-date-plot/
+### Stephen King’s New Near-Perfect 8-Part Series Officially Releases on Prime Video This Week
+Tue, 06 Oct 2026 05:00:15 GMT — https://www.polygon.com/stephen-king-carrie-prime-video/
 
-The season finale of HBO’s Lanterns brought the story of Earth’s first Green Lantern, Hal Jordan (Kyle Chandler), and his replacement, John Stewart (Aaron Pierre), to an emotionally cathartic conclusion. Now that the mysteries of Rushville, Nebraska, and Hal’s murder have been solved, and the story has been neatly concluded, it's unclear whether the series needs to continue (aside from its clear on ramp to a Stewart appearance in Man of Tomorrow ). But if you want to see John become a real superhero in his own right, you might be wondering if more episodes of Lanterns are in the works. Here’s everything we know about Lanterns season 2, including the potential release date and plot details.
+This week, Prime Video prepares for the 8-episode release of a much-talked-about literary television adaptation. Based on Stephen King's first-ever novel, this series dives in deeper than its previous adaptations. First a 1976 film directed by Brian de Palma, then a 2013 remake directed by Kimberly Peirce. In this new version, King serves as an executive producer alongside longtime collaborator Mike Flanagan. Previously, Flanagan adapted Doctor Sleep, The Life of Chuck, and Gerald's Game . This new adaptation also marks the beginning of Flanagan's partnership with Prime Video, where he's currently developing an adaptation of King's epic fantasy The Dark Tower.
 
-### 'Arc Raiders' and 'The Finals' Are Officially Getting Movie and TV Adaptations
-Mon, 05 Oct 2026 17:40:56 GMT — https://www.polygon.com/arc-raiders-the-finals-movie-tv-adaptations/
+### 61 Years Later, Clint Eastwood's 132-Minute Legendary Western Sequel Is Free on YouTube
+Tue, 06 Oct 2026 04:00:21 GMT — https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-free-on-youtube-october-2026/
 
-It seems that both Arc Raiders and The Finals are coming to the screen. Backrooms co-producer Chernin Entertainment announced it has secured adaptation rights from Nexon-owned Embark Studios and plans to make both TV series and movies based on the games.
+In 1964, Italian director Sergio Leone redefined the Western with A Fistful of Dollars . Eschewing the relatively simplistic morality tales of earlier Westerns, Leone’s central gunslinger wasn’t a noble hero, but an opportunistic cad who uses two rival factions in an Old West town against each other in order to score a big payday. Despite the moral complexity of it all — or, more likely, because of it — the film became an international success and proved that audiences were ready for a new kind of Western, that Americans no longer had a monopoly on the genre, and that Clint Eastwood was a bankable star outside of television.
 
-### New Pokémon Winds and Waves Leak Teases a Legendary Monster Twist
-Mon, 05 Oct 2026 17:16:42 GMT — https://www.polygon.com/pokemon-winds-wave-intro-leak-legendary/
+### GTA 6 Could Finally Fix Gaming's Huge Drug Problem
+Tue, 06 Oct 2026 00:00:16 GMT — https://www.polygon.com/gta-6-cocaine-drugs-effects/
 
-Most major Pokémon games start the same way: You create a character, you meet the Professor or Champion, and you're introduced to the concept of catching monsters . Pokémon Winds and Waves ' opening moments will likely follow suit, but leaks suggest that the 10th generation of games may begin with a couple of surprises.
+People are very excited by recent reports claiming that Grand Theft Auto 6 will allow players to carry cocaine and snort it off their hands at any time. While that’s obviously an entertaining (and thematic) detail, developer Rockstar Games has an opportunity to push the envelope forward in terms of game design here.
 
 ## PC Gamer
+
+### These are two of the very best Amazon Prime OLED gaming monitor deals starting at $280
+Tue, 06 Oct 2026 11:15:20 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/these-are-two-of-the-very-best-amazon-prime-oled-gaming-monitor-deals-starting-at-usd280/
+
+Q27GADE: was $329.99 now $279.99 Is this the cheapest big-brand OLED gaming monitor money can buy? Right now, very likely. The refresh rate is pretty low, as is the brightness. Buit it's still tempting thanks to that perfect per-pixel lighting and incredibly fast pixel response. Key specs: 27-inch | 1440p | 144 Hz | 0.03 ms | QD-OLED View Deal Agon Pro AG276QZD2: was $349.99 now $332.49 There are (slightly) cheaper OLED gaming monitors. But they all use the budget-spec 200 / 400 nit Samsung QD-OLED panel. This AOC gets the brighter 250 / 1000 nit panel plus 240 Hz refresh for compromise-free OLED gaming. Key specs: 27-inch | 1440p | 240 Hz | 0.03 ms | QD-OLED View Deal This isn't an entirely novel observation, but it is remarkable just how cheap gaming monitors are getting, all the while the price of just about every other PC gaming component spirals into the stratosphere. For proof, look no further than this pair of AOC gaming OLEDs, starting at below $280. The cheaper of the two is the AOC Q27GADE for exactly $279.99 on Amazo n. It's very much an entry-level offering in the 27-inch 1440p space with an unusually low 144 Hz refresh rate. Just as significant, perhaps, it very likely uses the new low-end QD-OLED panel from Samsung. I say very likely because AOC is playing its cards pretty close to its chest with this budget offering, not even posting a product page on its website. The Amazon listing makes it clear it's a QD-OLED panel but doesn't include a brightness spec. We'r
+
+### Despite the tragic death of its lead writer, one of the scariest games I have ever played will finally come out later this month
+Tue, 06 Oct 2026 01:29:16 +0000 — https://www.pcgamer.com/games/fps/despite-the-tragic-death-of-its-lead-writer-one-of-the-scariest-games-i-have-ever-played-will-finally-come-out-later-this-month/
+
+I cover a lot of demos for PC Gamer, and some of them really stick with me. Divine Frequency has been a real lost Lenore among those memorable games : It was a rare shooter that managed to scare the living daylights out of me, while also being an amazingly satisfying action experience. I've been up on the widow's walk every night, watching for any sign of its ship returning from the long voyage. Only, I wasn't watching closely enough. On September 25, developer Abraxaes released a new trailer revealing an early access launch date of October 27 for the surreal and horrific FPS-RPG. Before that announcement, back in March, they outlined some of the herculean challenges Divine Frequency has faced⁠—most notably the surprise death of lead writer Pablo "Artistical" Lamprea. Here are Abraxaes' own words on their friend and collaborator: Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Abraxaes Divine Frequency's demo had some truly amazing cosmic horror writing: SCP-style, banal categorization of the unknown contrasting with flowery, expansive, yet somehow not indulgent prose to capture the majestic enigma of it all. It left an impression on me, and I've wanted more for almost three years. I'm so glad that Lamprea's collaborators have been able to continue this work to bring their shared dream alive. But this wasn't even the only setback Divine Frequency faced in 2025: It turned out that a number of sound libraries purchased by the developers containe
+
+### Steam sale deep cut alert: this ARPG originally developed for Nokia N-Gage is brilliant on Deck
+Mon, 05 Oct 2026 23:55:25 +0000 — https://www.pcgamer.com/games/rpg/steam-sale-deep-cut-alert-this-arpg-originally-developed-for-nokia-n-gage-is-brilliant-on-deck/
+
+Xanadu Next is a Diablo-esque JRPG originally developed by Nihon Falcom for Nokia N-Gage. Those bullet points were enough for me to grab it when Steam's algorithm surfaced it for me last week as part of the ongoing Autumn sale. I wasn't expecting it to be good, but I was definitely curious. Some background: Xanadu Next is actually a belated spin-off to the PC-88 game Xanadu: Dragon Slayer 2, which was released in 1985 and is sometimes credited as one of the first action RPGs. It took until 2005 for Nihon Falcom to follow it up with Xanadu Next, and when it did it was a Japan only affair. A PC version did release a few months after the N-Gage version, but again, only in Japan. That PC version reportedly played much, much better than the N-Gage version , as I'm sure you can imagine, but the fact that the game's overarching design was conceived to work across both platforms is what piqued my interest. As did the fact that, when I googled Xanadu Next, I found many people claiming the PC version—which is the version available on Steam—is right up there with the best of Nihon Falcom's games (which is to say, up there with instalments of Ys, Trails and The Legend of Heroes). Now that I've spent around six hours playing the 2016 English re-release, I can kinda understand why: this isometric slash 'n' grind isn't brilliant, but it has a lot of cosy charm and a fun metroidvania structure. Like Diablo, there's a central village where the knight protagonist can rest, upgrade and do trade
+
+### Industry layoff watch: Supermassive, Ninja Theory, The Coalition, and a warning from Warhorse
+Mon, 05 Oct 2026 22:36:39 +0000 — https://www.pcgamer.com/gaming-industry/industry-layoff-watch-supermassive-ninja-theory-the-coalition-and-a-warning-from-warhorse/
+
+The plague of games industry layoffs and studio closures that seemed to explode in 2023 has yet to subside. Just about every week there's news of some new restructuring, closure, or cancellation as the videogame industry, particularly in North America, is battered by global economic forces, corporate maneuvering, and private capital. Here's the latest news related to the crisis that continues to unfold: SUPERMASSIVE GAMES (Image credit: Supermassive Games) In August, three months after the release of Directive 8020, Supermassive issued a statement saying that up to 75 of its employees were at risk of layoff . LinkedIn posts from multiple former Supermassive employees (via Insider Gaming ) indicate that those layoffs have now been completed, and that effectively everyone who was at risk of redundancy was let go. "More than 70 brilliant people are leaving Supermassive: developers, artists, producers, QA, operations and more," Frank Tindle, IT and facilities director at Supermassive who'd been with the studio for 16 years, wrote on LinkedIn . "Any studio would be lucky to have them." NINJA THEORY (Image credit: Xbox Games Studios) It came to light in June that Microsoft was planning to either close or sell off Senua studio Ninja Theory , even as the studio unveiled a new game at Summer Game Fest. In July, amidst the big " Xbox Reset ," it announced Ninja Theory had been sold, but then in September it said two attempts to divest the studio had fallen through , and so it was movin
 
 ### Despite calling Grand Theft Auto 'a videogame franchise built around criminal activity,' Miami-Dade sheriff isn't mad about the NBA's 'Vice City' transformation
 Mon, 05 Oct 2026 19:42:34 +0000 — https://www.pcgamer.com/games/grand-theft-auto/despite-calling-grand-theft-auto-a-videogame-franchise-built-around-criminal-activity-miami-dade-sheriff-isnt-mad-about-the-nbas-vice-city-transformation/
@@ -360,27 +395,12 @@ Mon, 05 Oct 2026 13:04:54 +0000 — https://www.pcgamer.com/games/resident-evil/
 
 Amid celebrations for Resident Evil's 30th anniversary, executive producer Jun Takeuchi revealed what future plans Capcom had for the Resident Evil series, including what will happen after the devs run out of games to remake. "The current 'Resident Evil' series is being developed along two tracks: the numbered titles allow players to experience the ongoing story of the series, while the remake series allows them to experience the past," Takeuchi says (via RENEWS ). This isn't new information as Capcom has begun its huge remake project in 2019 (with the Resident Evil 2 remake ) and has since gone on to give Resident Evil 3 and Resident Evil 4 facelifts as well, with the next scheduled to be Code: Veronica. 👀 Jun Takeuchi on the future of Resident Evil and the remake series eventually catching up with the numbered games."The current “Resident Evil” series is being developed along two tracks: the numbered titles allow players to experience the ongoing story of the series, while the remake series allows them to experience the past. Someday, the remake series will catch up with the era of the numbered titles, and we are already thinking about what we will do when that happens. In fact, we have been gradually preparing for that since around “Resident Evil Village.” The appearance of names such as Umbrella and Spencer, as well as the return of Raccoon City in “Requiem,” are also in preparation for a “crossover.”One of the reasons we regard “7” as a turning point for the series is t
 
-### I got my start writing for a PlayStation 2 magazine: These are my 12 PS2-pilled recommendations from the Steam Autumn Sale
-Mon, 05 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/i-got-my-start-writing-for-a-playstation-2-magazine-these-are-my-12-ps2-pilled-recommendations-from-the-steam-autumn-sale/
-
-What's great about the PS2 back catalogue is that it's too vast to have an encyclopedic knowledge of everything in there. The defining 20 or so games on the platform—God of War, Gran Turismo 3, Final Fantasy 10 and so forth—are very well known, and maybe Millennial players can recall a weirdo game or two like Mr Mosquito or Global Defence Force. One look at the games in the Japan-only Simple 2000 series, however, shows you just how deep the library goes. When's Demolition Girl getting a HD remaster, eh? Still, we're in an era where it's not hard to rediscover the key games of that generation, partly because many platform highlights have found their way to Steam in various forms. Intriguingly, we've also reached a point where developers who grew up with this generation are designing great new games inspired by the classics. Below you'll find six modern games that are inspired by what's known as the 'sixth generation' of consoles, plus six ports of Dreamcast/PS2/GameCube/Xbox-era favourites. I've kept the latter to games that didn't get a PC release at the time (so GTA: San Andreas would be ineligible, for example). All of the games in both lists are discounted in the Steam Autumn Sale . PS2-inspired Promise Mascot Agency (Image credit: Kaizen Game Works) Promise Mascot Agency (40% off at $15/£13) is an open world game built around a novel management simulation layer. You send Japanese mascots off to various events while exploring an island that may or may not be cursed. It's a
-
-### Warhammer: Blood Bowl is Blood Bowl 3.5 rather than a whole new game, but based on the beta it's definitely an upgrade
-Mon, 05 Oct 2026 08:00:00 +0000 — https://www.pcgamer.com/games/strategy/warhammer-blood-bowl-is-blood-bowl-3-5-rather-than-a-whole-new-game-but-based-on-the-beta-its-definitely-an-upgrade/
-
-It's a small thing, but being able to save and quit when I'm playing against the AI is a definite improvement in Warhammer: Blood Bowl. Though matches didn't take a huge amount of time in Blood Bowl 3, there were still nights where I'd find myself with 40 minutes before I should really go to bed thinking I can squeeze another game in, and then realizing too late I absolutely cannot. A bigger change in Warhammer: Blood Bowl, though one that also makes it easier to squeeze in another match, is Rumble Mode. Based on the tabletop format called Sevens, it's a shrunk-down seven-a-side version of Blood Bowl played on a smaller pitch, inspired by 40K in 40 Minutes and Rugby Sevens. Each half has six turns instead of eight and rerolls cost twice as much, making failure much more common—and since a failed action results in a turnover in Blood Bowl, that speeds up play as well. (Image credit: Slitherine) Rumble Mode isn't exactly the same as Sevens, though I'm playing the beta so details are subject to change. It doesn't have the Desperate Measures inducements, for instance, and you don't have to make one of your linemen a veteran (who is slower, but can reroll a few specific actions). But it still plays faster, and shakes up the tactics in interesting ways. There's no line of scrimmage for a start. Instead of having to put three players on the frontline where they'll be biffing or being biffed from the outset, there's a no man's land between both teams. That means fragile teams aren't 
-
-### It's easy to forget now, but the first Elder Scrolls game had a rough launch back in the day: 'It was a disaster in a lot of ways and somehow built a billion-dollar franchise'
-Mon, 05 Oct 2026 02:49:24 +0000 — https://www.pcgamer.com/games/the-elder-scrolls/its-easy-to-forget-now-but-the-first-elder-scrolls-game-had-a-rough-launch-back-in-the-day-it-was-a-disaster-in-a-lot-of-ways-and-somehow-built-a-billion-dollar-franchise/
-
-Given the legacy it created, it's easy to forget The Elder Scrolls wasn't a big deal right out of the gate. The original game in the series, The Elder Scrolls: Arena, wasn't badly received—our reviewer, Andy Butcher, gave it an 87 in his review at the time—but it didn't set the world on fire immediately. In a retrospective on the making of Daggerfall over at Time Extension , Ted Peterson, designer on both the first two Elder Scrolls games, recalled the trouble Arena had moving copies when it first arrived on shelves in 1994. "Game stores ordered a certain number of copies," he said, "and when we didn't ship on time, they started cancelling. To give you some context of how badly it did, the very, very first game I ever worked on was a retail pack for Terminator 2029, so you had to own the original game. That shipped more copies than Arena did early on. But we were lucky: word of mouth got out, and people started playing and enjoying the game. It was a disaster in a lot of ways and somehow built a billion-dollar franchise." To help put that in context, Time Extension tracked down an interview Bethesda president Christopher Weaver gave in November of 1995 to some crusty old magazine called "PC Gamer" in which he was quoted as saying, "We were in unknown territory with Arena, and nobody seemed to believe that a company known for its sports games—no matter how good they were—could possibly break into a genre as insular, even fanatical, as RPGs. The word we were getting from buyers
-
-### Garry Newman responds to s&box criticism in lengthy YouTube comment: 'I don't like giving up on things, I am stubborn'
-Sun, 04 Oct 2026 22:36:31 +0000 — https://www.pcgamer.com/games/garry-newman-responds-to-s-and-box-criticism-in-lengthy-youtube-comment-i-dont-like-giving-up-on-things-i-am-stubborn/
-
-Facepunch founder Garry Newman (Garry's Mod, Rust, s&box) gave an emphatic, extensive mea culpa to the s&box community in a YouTube comment . Newman was responding to the latest video from Eridium , "S&box's Free To Play Weekend Isn't Enough," a highly critical state-of-the-game from the s&box-focused creator. Facepunch's recently-released user generated content (UGC) platform has been billed as a Garry's Mod successor in the age of Roblox, but has struggled in its first five months on the market. Eridium's biggest critiques, as I understand them: The player character models , aka "the citizen," even with their spiffy new necks . Facepunch's insistence on not replacing the unpopular design, which Eridium views as "intransigence." He argues the game's poor first impression indicates it probably should have been delayed. Low quality games (particularly AI slop) flooding the platform and ruining discoverability for the good stuff (Newman previously downplayed the problem in an interview with us). A lack of outreach from Facepunch⁠—Eridium argued he already operates as an informal community manager, and that he could do the real job better than Facepunch is currently. Here's Newman's own response in full, copied from a pinned comment under Eridium's video (you can also check out Eridium's own follow-up from earlier today): 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adven
-
 ## GameSpot
+
+### Star Wars: Galactic Racer Is Free To Play Now, If You Know Where To Look
+Tue, 06 Oct 2026 09:30:00 +0000 — https://www.gamespot.com/articles/star-wars-galactic-racer-is-free-to-play-now-if-you-know-where-to-look/
+
+Star Wars: Galactic Racer is finally out, and so far, it might just be one of the best Star Wars games ever made. The new racing game has an attractive MSRP of $60, but if you're looking to grab it for the low price of nothing , you can play it for free through Amazon Luna starting today. Amazon has announced that Prime members can stream the single-player campaign for free through Amazon Luna. "We've always believed Luna players deserve to be in the action from day one, and Star Wars: Galactic Racer makes that a reality for the first time,” Jeff Gattis, Head of Gaming at Amazon, said in a blog post. "Luna players can jump into the single-player campaign today without needing to own a console or wait for a lengthy download. It's exactly the kind of experience we want to deliver on Luna, and we think players are going to love it." https://www.youtube.com/watch?v=eA3BrR245mo If you're unfamiliar with it, Amazon Luna is a cloud gaming service and platform available to Prime members. A rotating selection of games appears every month through Luna, and members can also claim several downloadable PC games. These can be redeemed through storefronts like the Epic Games Store and GOG. Last month was particularly good , as members could claim several of Id Software's critically acclaimed Doom games, including the 2016 reboot and Doom Eternal. Set early during the era of the New Republic, Star Wars: Galactic Racer follows players as they take part in the Galactic League, a high-stakes un
 
 ### Halloween s First DLC Reveals Even The Bad Sequels Will Get Some Love
 Mon, 05 Oct 2026 21:15:42 +0000 — https://www.gamespot.com/articles/halloweens-first-dlc-reveals-even-the-bad-sequels-will-get-some-love/
@@ -439,6 +459,21 @@ It hasn't been an easy year for the Love and Deepspace community after the Valko
 
 ## Rock Paper Shotgun
 
+### Retro platformer series Dizzy is back for a new game from its original creators, who are really happy for you to know it's made with AI
+Tue, 06 Oct 2026 10:51:11 +0000 — https://www.rockpapershotgun.com/retro-platformer-series-dizzy-is-back-for-a-new-game-from-its-original-creators-who-are-really-happy-for-you-to-know-its-made-with-ai
+
+For British people who were actively playing games in the late 80s and/or retro enthusiasts looking back at that period of the industry, the name Dizzy might ring a bell (it doesn&rsquo;t for me, but what can I tell you, I&rsquo;m 24). A prolific platformer series starring a bipedal egg, it spanned formats from the ZX Spectrum to the NES and Game Gear, and managed sixteen(!?) releases between 1987 and 1992 - before slowing significantly past the millenium. Still, that hasn&rsquo;t stopped its creators, the Oliver Twins, from trying to bring it back in the current era, and so came the announcement of another new Dizzy game during their talk at last weekend&rsquo;s Play Expo in Blackpool. Read more
+
+### Following through on their warning, Until Dawn and Directive 8020 devs Supermassive lay off "more than 70" staff
+Tue, 06 Oct 2026 09:45:00 +0000 — https://www.rockpapershotgun.com/following-through-on-their-warning-until-dawn-and-directive-8020-devs-supermassive-lay-off-more-than-70-staff
+
+Horror game makers Supermassive Games , the studio behind Until Dawn and The Dark Pictures Anthology, have followed through on plans to lay off staff not long after the launch of Directive 8020 . Read more
+
+### After 12 years, Ultra Street Fighter IV gets not one, but two connection-stabilising rollback netcode mods aaaand they're both made using Claude
+Tue, 06 Oct 2026 09:14:14 +0000 — https://www.rockpapershotgun.com/after-12-years-ultra-street-fighter-iv-gets-not-one-but-two-connection-stabilising-rollback-netcode-mods-aaaand-theyre-both-made-using-claude
+
+Street Fighter IV , the game that basically revived the fighting game genre back in 2009 and gave birth (not literally) to a new subset of players lovingly referred to as &lsquo;09ers&rsquo;, saw its final iteration in 2014&rsquo;s Ultra Street Fighter IV . While it wasn&rsquo;t the most perfectly balanced game, it&rsquo;s remembered fondly by its players and is viewed by many as the last vestige of &lsquo;honest Street Fighter&rsquo;. It&rsquo;s also burdened with being limited to delay-based netcode rather than the more modern and more stable rollback netcode, but this is something modders are attempting to fix. Using genAI. Sorry if I got your hopes up. To quickly explain why the different netcode matters, delay-based netcode handles latency issues by variably delaying inputs to match unstable connection, while rollback netcode removes this delay by accepting inputs immediately and then reversing the game state (rolling back) if the connection instability causes inconsistency between players. All of this to say, rollback has become the industry standard for its stability since the mid 2010s, leaving delay-based to rot in input-eating hell. Read more
+
 ### Noematica is a lucid dreamer's "n-dimensional" take on The Sims that proudly boasts it will never ever gouge you for DLC
 Mon, 05 Oct 2026 16:37:44 +0000 — https://www.rockpapershotgun.com/noematica-is-a-lucid-dreamers-n-dimensional-take-on-the-sims-that-proudly-boasts-it-will-never-ever-gouge-you-for-dlc
 
@@ -478,9 +513,4 @@ A fourth entry in the RuneScape series of MMOs has been announced by developers 
 Mon, 05 Oct 2026 08:30:00 +0000 — https://www.rockpapershotgun.com/we-opted-out-of-some-things-really-early-on-how-the-24-person-team-making-no-law-plan-to-make-it-look-as-big-as-cyberpunk-2077
 
 If you've watched the trailers for No Law or the tech demo that developer Neon Giant showed off at Unreal Fest earlier this year, it would be easy to believe the game has a similar scope to CD Projekt Red's Cyberpunk 2077 . After all, both games are open-world RPGs set in cyberpunk cities. Set in a beautifully realised mediterranean city that is somehow equal parts Lisbon and Kowloon Walled City &ndash; and with corner shops that are as stuffed with riches as the one down the road from my flat . But, the developers will happily tell you where they've scrimped and saved. Read more
-
-### The Sunday Papers
-Sun, 04 Oct 2026 09:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-830
-
-Sundays are for having the first lie-in in a month. No trips to visit family, no waking in unfamiliar beds, and, best of all, no having to wait until the hosts are up before you can get started on breakfast. I will be snoozing deeply in my own particular mattress before having a plate of toast and scrambled eggs at a time that I deem appropriate. Once that's all polished away, I will return to bed with a fresh cup of coffee and peruse the week's best writing at my own leisure. What's that? You want me to share? Fine. You can have a read of them when I'm done. Read more
 

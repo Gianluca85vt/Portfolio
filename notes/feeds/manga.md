@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-05T21:24:20.738Z
+# Manga — harvested 2026-10-06T11:30:43.236Z
 
 ## Anime News Network
+
+### The Fledgling Demon Lord's Starter Shop Anime's 2nd Teaser Reveals More Cast, January Debut
+Tue, 06 Oct 2026 05:35:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/the-fledgling-demon-lord-starter-shop-anime-2nd-teaser-reveals-more-cast-january-debut/.242541
+
+Yōhei Azakami joins cast as hero Ash
+
+### The Otome Heroine's Fight for Survival Anime's Teaser Unveils Staff, Cast, July 2027 Debut
+Tue, 06 Oct 2026 05:03:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/the-otome-heroine-fight-for-survival-anime-teaser-unveils-staff-cast-july-2027-debut/.242525
+
+Fūka Izumi plays Alicia in TV anime by Noriyoshi Sasaki, Studio Clutch, Seven
+
+### Metal Gear's Hideo Kojima Likens Current Japan to Nation Just Before World War II
+Tue, 06 Oct 2026 01:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-06/metal-gear-hideo-kojima-likens-current-japan-to-nation-just-before-world-war-ii/.242142
+
+Kojima: “It looks like Japan might get pulled into a war too … It's like <i>[pre-WWII]</i> Japan”
+
+### Voice Actor Haruka Fukuhara Announces Marriage
+Mon, 05 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-05/voice-actor-haruka-fukuhara-announces-marriage/.242511
+
+Voice of Kaguya-sama: Love is War's Tsubame Koyasu married professional soccer player Takefusa Kubo
+
+### Hideaki Anno, Yutaka Izubuchi Co-Direct Yamato √2199 Film at I.G, Khara
+Mon, 05 Oct 2026 19:51:08 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/hideaki-anno-yutaka-izubuchi-co-direct-yamato-2199-film-at-i.g-khara/.242524
+
+Production I.G founder Mitsuhisa Ishikawa also credited with planning with Anno
 
 ### The New Denpa Men Game Ends Service on December 7
 Mon, 05 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/the-new-denpa-men-game-ends-service-on-december-7/.242516
@@ -37,48 +62,38 @@ Mon, 05 Oct 2026 12:10:16 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Series also streams in Canada, Latin America, Australia, New Zealand, South Africa, India, Southeast Asia, Europe
 
-### BanG Dream! YUME∞MITA Anime Series Review
-Mon, 05 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/bang-dream-yume-mita-anime-series/.242071
-
-This era of <i>BanG Dream!</i> feels like it's been pushing for more surprises! More swerves! More drama! <i>YUME∞MITA</i> seems similarly engineered.
-
-### Magical Explorer TV Anime Confirms English Dub Cast
-Mon, 05 Oct 2026 11:27:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-05/magical-explorer-tv-anime-confirms-english-dub-cast/.242513
-
-Series debuted with 2 episodes on Saturday
-
-### You and I Are Polar Opposites Season 2 ‒ Episode 13
-Mon, 05 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/you-and-i-are-polar-opposites-season-2/episode-13/.242488
-
-<i>You and I Are Polar Opposites</i> is proof that sometimes an anime rom-com really can run entirely off its charm, and there are few as consistently charming as this one.
-
-### Behind the Scenes with Villion:Code Game Designer Ilya Kuvshinov
-Mon, 05 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-05/behind-the-scenes-with-villion-code-game-designer-ilya-kuvshinov/.241719
-
-Ilya's latest project is Compile Heart's new game Villion:Code, and he was kind enough to take time out of his schedule to answer some of our questions.
-
-### This Week in Mobile Games - Battle of the Blue Archives
-Mon, 05 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-mobile-games/2026-10-05/.242399
-
-Josh wraps up the TGS news and recounts a social media stumble from LADS. Plus an unexpected cross over!
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
 
+### A World Space Week Pokémon × ESA Collaboration Has Launched
+Tue, 06 Oct 2026 10:07:39 GMT — https://animecorner.me/a-world-space-week-pokemon-x-esa-collaboration-has-launched/
+
+The world is currently celebrating World Space Week. And as part of that celebration,&hellip;
+
 ### Exclusive: Wandering Planet Toys Reveals Showa WarLor Ahead of New York Comic Con 2026
 Mon, 05 Oct 2026 14:27:46 GMT — https://animecorner.me/exclusive-wandering-planet-toys-reveals-showa-warlor-ahead-of-new-york-comic-con-2026/
 
 Wandering Planet Toys has revealed the Showa WarLor, a new addition to its Planetoid&hellip;
 
-### Blue Box Season 2 Creditless Opening and Ending Videos Revealed
-Sun, 04 Oct 2026 09:06:55 GMT — https://animecorner.me/blue-box-season-2-creditless-opening-and-ending-videos-revealed/
-
-Blue Box Season 2 revealed the creditless opening and ending video sequences following its&hellip;
-
 ## MyAnimeList News
+
+### Sudachi no Maoujou Unveils Main Cast Member, Second Teaser Promo
+Tue, 06 Oct 2026 04:12:36 -0700 — https://myanimelist.net/news/74795794?_location=rss
+
+The official website for the television anime adaptation of Makoto Morishita s Sudachi no Maoujou (The Fledgling Demon Lord s Starter Shop) manga unveiled an additional main cast member, key visual (pictured), and second teaser promotional video on Tuesday. The anime is scheduled to premiere in January 2027 on TOKYO MX, MBS, BS11 and other stations. Youhei Azakami (Kamonohashi Ron no Kindan Suiri 2nd Season) is joining the cast as Ash. Jun Taira is directing the television anime at Pro...
+
+### Otome Game no Heroine de Saikyou Survival Unveils Main Staff, Cast for Summer 2027
+Tue, 06 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74795171?_location=rss
+
+Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine s Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), special promo, and its television format. The anime series adapting Biyori Harunohi s adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starrin...
+
+### Hideaki Anno, Yutaka Izubuchi Co-Direct Uchuu Senkan Yamato √2199 Anime Movie
+Mon, 05 Oct 2026 18:33:39 -0700 — https://myanimelist.net/news/74794971?_location=rss
+
+An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yamato) anime project on Tuesday, revealing its official title, main staff, and a teaser visual (pictured). Titled Uchuu Senkan Yamato &radic;2199 (Cosmoship Yamato &radic;2199), the project will be a feature-length anime movie. A premiere date has yet to be announced. Staff Original Work: Yoshinobu Nishizaki (Uchuu Senkan Yamato original co-creator) Director, Design Works: Hideaki Anno (Shinseiki Evangelion), Yutaka Iz...
 
 ### North American Anime & Manga Releases for October
 Mon, 05 Oct 2026 12:41:35 -0700 — https://myanimelist.net/news/74794281?_location=rss
@@ -116,13 +131,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Kizumonogatari: Koyomi Vamp Collector s Edition Review
+Tue, 06 Oct 2026 09:00:50 +0000 — https://animeuknews.net/2026/10/kizumonogatari-koyomi-vamp-collectors-edition-review/
+
+Kizumonogatari returns with a compilation film to cut down the original trilogy, but does it do justice to the beloved Monogatari franchise?
+
 ### Fate/Grand Order Absolute Demonic Front: Babylonia Part 1 Collector s Edition Review
 Mon, 05 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/fate-grand-order-absolute-demonic-front-babylonia-part-1-collectors-edition-review/
 
 This extremely wordy entry into the Fate franchise is an adaptation of one of the later chapters of a popular gatcha mobile game. The creators of this anime promised you didn’t need to have played the game to enjoy this series, but is that really true?
-
-### Omega Megaera Volume 6 Review
-Sun, 04 Oct 2026 09:00:22 +0000 — https://animeuknews.net/2026/10/omega-megaera-volume-6-review/
-
-In order to keep the failing family fortunes afloat, Mamiya and Reiko must continue to pretend they are alphas in an increasingly repressive society.
 

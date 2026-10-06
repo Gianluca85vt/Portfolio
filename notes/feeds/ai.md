@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-05T21:24:20.738Z
+# AI — harvested 2026-10-06T11:30:43.236Z
 
 ## OpenAI
 
@@ -14,8 +14,8 @@ OpenAI introduces a new visual ad format in ChatGPT and expands measurement tool
 
 ## Hugging Face
 
-### The Agent Said It Was Done. The Database Disagreed.
-Sat, 03 Oct 2026 22:56:48 GMT — https://huggingface.co/blog/microsoft/thinkingbox
+### Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance
+Tue, 06 Oct 2026 06:44:39 GMT — https://huggingface.co/blog/tiiuae/falcon-emirati
 
 ## Google DeepMind
 

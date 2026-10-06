@@ -1,183 +1,196 @@
-# Film & TV — harvested 2026-10-05T21:24:20.738Z
+# Film & TV — harvested 2026-10-06T11:30:43.236Z
 
 ## Variety
 
-### Free Elizabeth Holmes Group Defends Convicted Theranos Founder at You Can See Everything Doc Screening: She s Innocent and Needs to Be Free
-Mon, 05 Oct 2026 21:20:34 +0000 — https://variety.com/2026/film/news/elizabeth-holmes-innocent-you-can-see-everything-1236897075/
+### MasterClass Launches Podcast ‘Other People’s Business With Martha Stewart as First Guest
+Tue, 06 Oct 2026 11:00:00 +0000 — https://variety.com/2026/digital/news/masterclass-podcast-other-peoples-business-martha-stewart-1236899982/
 
-In the wild A24 documentary You Can See Everything, Elizabeth Holmes still maintains her innocence in her Theranos fraud case despite being sentenced to 11 years in prison. It turns out, there are a few others who share her beliefs. Ryan Elhosseiny, who runs a group called Just Blood, claims that Holmes is innocent and [ ]
+MasterClass is getting into the podcast business. The online learning and streaming platform has launched “Other People’s Business,” its first-ever podcast, hosted by MasterClass founder and CEO David Rogier. The weekly audio and video series will feature conversations with Martha Stewart, Malcolm Gladwell, DJ Drama, Chris Voss, Daniel Negreanu and more, digging into the money, [ ]
 
-### Best Horror of October 2026: Other Mommy Goes for the Heart, Carrie Returns, Josh Hartnett Hunts for Sea Monsters and More
-Mon, 05 Oct 2026 21:17:56 +0000 — https://variety.com/lists/horror-movies-to-watch-october-2026/
+### Darius Jabloński, Kadri Kousaar and Rodrigo Susarte Make the Cut at Tallinn TV Beats Co-Financing Market (EXCLUSIVE)
+Tue, 06 Oct 2026 07:00:00 +0000 — https://variety.com/2026/tv/global/darius-jablonski-tallinn-tv-beats-1236899447/
 
-Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, the executive digital director of Variety and the publication’s resident horror enthusiast. Please drop me a line at wearl@variety.com if there’s something I should check out for next month’s missive.
+Polish film and TV luminary Darius Jabloński’s spy thriller “Fortel” and Estonia’s “Stormbird” from multi-awarded Kadri Kousaar (“Magnus,” “Mother”) feature in the lineup of Tallinn’s TV Beats Co-Financing Market, running over Nov. 16-17. They are joined by Spain’s “When Devils Rule” from Rodrigo Susarte (“Patagonia”), and Belgium’s “The Inheritance” powered by “This is Not a [ ]
 
-### Pam Levine Exits Netflix as Marketing Publicity VP (EXCLUSIVE)
-Mon, 05 Oct 2026 21:17:23 +0000 — https://variety.com/2026/film/news/pam-levine-leaves-netflix-marketing-publicity-vp-1236899440/
+### Michael Douglas Weighs In on ‘Nepo Baby’ Debate, Says the Title ‘Really Pisses Me Off’
+Tue, 06 Oct 2026 04:56:40 +0000 — https://variety.com/2026/film/news/michael-douglas-nepo-baby-debate-1236899927/
 
-Pam Levine, Netflix s marketing and publicity VP for the U.S. and Canada, is out at the streamer after a year and a half in her post, Variety has confirmed. Levine joined Netflix in April 2025. She managed all publicity and marketing for all film and TV series for the U.S. and Canada. She reported to [ ]
+Michael Douglas is wading into the “nepo baby” debate. The “Wall Street” actor, who is the son of the late Hollywood legend Kirk Douglas, opened up on a recent episode of the SmartLess podcast and said the title “really pisses” him off. While discussing his success with hosts Sean Hayes, Jason Bateman and Will Arnett, [ ]
 
-### ‘Coven Academy’ Star Malina Weissman Unpacks Briar’s Backstory, Her Take on the Love Triangle and Her Hopes for Season 2
-Mon, 05 Oct 2026 21:14:43 +0000 — https://variety.com/2026/tv/news/coven-academy-malina-weissman-briar-mom-dad-love-triangle-1236897980/
+### Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI
+Tue, 06 Oct 2026 03:59:16 +0000 — https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/
 
-SPOILER ALERT: This story contains spoilers for “Coven Academy,” now streaming on Disney+. Nestled amid a tree-lined New Orleans exterior is a boarding school host to witches and warlocks alike in Freeform and Disney+’s new young-adult drama. “Coven Academy” stars Malina Weismann as Briar, a grieving teen who shows up on the doorstep of what [ ]
+On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declining to address the major media news of the week: David Ellison’s newly-formed Skydance Corp. swallowing up Warner Bros. Discovery — which controls Oliver’s network HBO — and merging it with [ ]
 
-### Rachel Zegler Recalls Her Evita Audition While Starring on Broadway in Romeo + Juliet : I Sang 40 Pages of Material
-Mon, 05 Oct 2026 20:41:49 +0000 — https://variety.com/2026/legit/news/rachel-zegler-evita-broadway-audition-1236899263/
+### Artificial Review: Luca Guadagnino Has Made the Real Sequel to The Social Network — a Brain-Spinning Tech-Geek Docudrama, Brilliantly Acted by Andrew Garfield and Yura Borisov
+Tue, 06 Oct 2026 03:41:41 +0000 — https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/
 
-Tom Felton can t go anywhere without getting recognized as Draco Malfoy, the icy-blond villain he memorably portrayed in eight Harry Potter movies. The actor, who is reprising his iconic role on stage in Harry Potter and the Cursed Child, was finally the one to geek out at seeing famous faces at Variety s annual Business of [ ]
+"Artificial" is a brilliant but playful docudrama, meticulously true to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew Garfield). But the tale it tells is much larger than that. "Artificial" goes back to the earliest days of AI and shows you how the technology was invented, how it was developed, how it was dreamed.
 
-### Mark Mortimer, Another World Soap Opera Star, Dies at 59
-Mon, 05 Oct 2026 20:04:17 +0000 — https://variety.com/2026/tv/people-news/mark-mortimer-dies-another-world-soap-opera-1236899434/
+### Andrew Garfield Says OpenAI s Sam Altman Seemed F ing Great Before Playing Him in Artificial : And Then You Learn More About a Person
+Tue, 06 Oct 2026 02:39:46 +0000 — https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/
 
-Mark Mortimer, best known for his role as Nick Hudson on the soap opera “Another World,” died Sept. 23 after a battle with cancer. He was 59. “Mark Mortimer lived many lives in one lifetime,” his family wrote in his online obituary. “He was an Army veteran, a model, an actor, an entrepreneur and a [ ]
+Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino s new film Artificial. I remember seeing Sam testifying to Congress for the first time, way back when, Garfield said on Monday night at the movie s world premiere at the New York Film Festival. [ ]
 
-### Whether Tailgating or Watching the Big Game from Home, JBL Speakers Deliver Top-Tier Sound to Keep the Party Going
-Mon, 05 Oct 2026 19:56:19 +0000 — https://variety.com/2026/shopping/news/jbl-speakers-best-buy-discount-shop-online-1236897979/
+### Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group
+Tue, 06 Oct 2026 02:10:19 +0000 — https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/
 
-As football (and tailgate) season officially kicks off, it’s essential to have all the right gear to keep the party going, whether you’re cheering on your favorite team from the comfort of your own home or the stadium parking lot. For years, JBL has been one of America’s most trusted audio brands, known for its [ ]
+Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international executive Kevin MacLellan was close to clinching the top job outside North America, sources tell Variety he will not move forward in the role. While insiders praised him as a transformative leader, the [ ]
 
-### Robert Kelker-Kelly, ‘Days of Our Lives’ Actor, Dies at 62
-Mon, 05 Oct 2026 19:53:06 +0000 — https://variety.com/2026/tv/people-news/robert-kelker-kelly-dead-days-of-our-lives-1236899324/
+### ‘Artificial’ First Reactions: Luca Guadagnino s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His Best Film in a Decade’
+Tue, 06 Oct 2026 00:49:48 +0000 — https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/
 
-Robert Kelker-Kelly, who played Bo Brady on Days of Our Lives,” died on Saturday in St. Peters, Missouri. He was 62. The St. Peters Police Department said they responded for a report of an unconscious male who was not breathing. Police noted that he had reportedly complained of chest pain shortly before becoming unresponsive, and [ ]
+Luca Guadagnino’s “Artificial” premiered at the New York Film Festival Monday night, and early reviews have members of the film press championing the Sam Altman-centered movie as a “provocative,” “visceral corporate drama” and the director s best film in a decade. Next Best Picture editor-in-chief and critic Matt Neglia wrote that Artificial is as entertaining as [ ]
 
-### David Zaslav Bids Farewell to Warner Bros. Employees in Video on Eve of Skydance Merger Close: It s Been a Great Honor to Be Alongside All of You
-Mon, 05 Oct 2026 19:32:15 +0000 — https://variety.com/2026/film/news/david-zaslav-farewell-video-warner-bros-discovery-employees-1236899350/
+### Casey Bloys Signs New Multiyear Deal to Continue Overseeing HBO Max and Paramount+ As He Assumes His New Role at Skydance
+Tue, 06 Oct 2026 00:33:19 +0000 — https://variety.com/2026/tv/news/casey-bloys-new-deal-hbo-max-paramount-skydance-1236899664/
 
-David Zaslav, four and a half years after closing the debt-burdened deal that formed Warner Bros. Discovery, is bidding farewell to the company s employees as it is about to get swallowed up by David Ellison s Paramount to create a media giant saddled with even more debt. Zaslav, president and CEO of Warner Bros. Discovery, [ ]
+Having just been named to the hefty position of co-chair and chief content officer for Skydance DTC — overseeing both HBO Max and Paramount+, Casey Bloys is staying put. Variety has confirmed that Bloys — whose contract with HBO was set to expire next year — has signed on for a new multiyear extension. Insiders [ ]
 
-### Slayyyter to Release Brother Album to Wor$t Girl in America : Wor$t Man in America
-Mon, 05 Oct 2026 19:00:37 +0000 — https://variety.com/2026/music/news/slayyyter-to-release-worst-man-in-america-brother-album-1236899364/
+### Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots
+Tue, 06 Oct 2026 00:04:56 +0000 — https://variety.com/2026/tv/news/trump-pay-for-political-ads-himself-1236899674/
 
-Slayyyter has announced that Wor$t Man in America, the brother album to Wor$t Girl in America, is slated for release on December 4 via RECORDS/Columbia Records. Wor$t Man in America is being touted not as a new album, but rather a brother album to her third record Wor$t Girl in America, which was released on [ ]
+After controversy erupted over Donald Trump s administration buying TV ad time (with taxpayer dollars) to air advertisements endorsing the president, Trump has now said he will fund what he calls “patriotic ads” himself. In a statement posted to Truth Social on Monday, Trump wrote: “The Radical Left is upset with the fact that I am [ ]
 
 ## The Hollywood Reporter
 
-### Panta Mosleh’s Queer Interfaith Comedy ‘Pass the Salt’ Nabs Early Season 2 Renewal (Exclusive)
-Mon, 05 Oct 2026 21:18:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/pass-the-salt-season-2-renewal-1236722672/
+### London Film Fest Gets Concrete – Literally, and More Than Once!
+Tue, 06 Oct 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/london-film-festival-2026-lff-concrete-movie-titles-1236720815/
 
-Beyond ‘Heated Rivalry,’ a wave of gay, lesbian and trans comedies and rom-coms out of Canada is growing.
+The 2026 lineup, including several movies with "concrete" in their title, made for "hilarious and quite confusing program meetings," shares fest director Kristy Matheson.
 
-### Mark Mortimer, Former Another World Star, Dies at 59
-Mon, 05 Oct 2026 21:13:52 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mark-mortimer-dead-another-world-1236722817/
+### Hans Zimmer, Jade Team on BBC s Blue Planet III Song Into the Deep (Seas Cry)
+Tue, 06 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/bbc-blue-planet-iii-song-hans-zimmer-jade-thirlwall-1236722268/
 
-After leaving acting, he went on to found a construction company in his home state of Illinois.
+The former Little Mix member and the veteran composer collaborated on "Into the Deep (Seas Cry)."
 
-### As Digger Sinks, Hollywood s Three Amigos Circle the Wagons
-Mon, 05 Oct 2026 21:04:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/as-digger-sinks-hollywoods-three-amigos-1236722788/
+### Ba s Book : How Making the Heartfelt Hybrid Film Exploring Trauma Brought a Family Closer Together
+Tue, 06 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bas-book-film-family-trauma-vietnam-iran-lff-ashley-duong-1236721825/
 
-Alfonso Cuarón and Guillermo del Toro’s defense of Alejandro G. Iñárritu’s costly flop is the latest chapter in a remarkable 30-year creative alliance that carried three Mexican filmmakers to the pinnacle of mainstream moviemaking.
+Ashley Duong's cinematic journey, which screens at the London Film Fest, uncovers painful memories that her father long kept from his family about escaping the Vietnam War and living as a refugee in Iran.
 
-### Altuzarra Brings His Runway Codes to Old Navy in a Mostly Under-$100 Collection
-Mon, 05 Oct 2026 20:56:23 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/old-navy-altuzarra-collection-2026-release-price-buy-online-1236722657/
+### StudioCanal, Deadpan Pictures Adapting Lottie Brooks Book Series
+Tue, 06 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/studiocanal-adapting-lottie-brooks-book-series-for-tv-1236723152/
 
-The partnership is the latest move in Zac Posen’s strategy to introduce established American designers to a broader customer base.
+Deadpan describes Katie Kirby’s best-selling kids' books as "pre-teen Bridget Jones."
 
-### Fox Beefs Up Leadership At Creator Studios Business
-Mon, 05 Oct 2026 20:28:40 +0000 — https://www.hollywoodreporter.com/business/digital/fox-creator-studios-new-senior-executives-1236722758/
+### ‘Artificial’ Review: Andrew Garfield and Yura Borisov Shine as Ethical Opposites in Luca Guadagnino’s Riveting Real-World Tech Nightmare
+Tue, 06 Oct 2026 07:00:32 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/artificial-review-andrew-garfield-luca-guadagnino-open-ai-1236723005/
 
-Bryan Thoensen and Kirsten McAuliffe join the media company as it seeks to push further into the creator economy.
+Monica Barbaro, Mark Rylance, Ike Barinholtz and Jason Schwartzman also star in this account of history unfolding, tracing how we arrived at the current crisis point in AI evolution.
 
-### David Zaslav Sends Farewell Video on His Last Day Before Skydance Acquisition of Warner Bros.
-Mon, 05 Oct 2026 20:11:33 +0000 — https://www.hollywoodreporter.com/business/business-news/david-zaslav-farewell-video-1236722752/
+### Austin Abrams Whalefall : First Reactions
+Tue, 06 Oct 2026 06:08:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/whalefall-first-reactions-austin-abrams-brian-duffield-1236716804/
 
-The CEO extolls the creations and storytelling of the workers that will soon be facing uncertain futures thanks to a sale he orchestrated.
+The survival thriller, directed by Brian Duffield, hits theaters on Oct. 16.
 
-### Harlan Coben Previews Final Twist Season 2, Bonkers First Episode and How His Onscreen Work Has Evolved
-Mon, 05 Oct 2026 19:27:36 +0000 — https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-interview-final-twist-season-2-cbs-first-episode-1236722500/
+### How Andrew Garfield Combined Crowdsourcing and a Classic Acting Technique to Understand Sam Altman
+Tue, 06 Oct 2026 05:44:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/andrew-garfield-sam-altman-prep-artificial-stanislavski-1236723141/
 
-"Fiction has to follow rules. Reality doesn't," the busy bestseller author tells THR and explains what criteria true-crime cases featured in the CBS and Paramount+ series must fulfill.
+'Anora' breakout Yura Borisov, who plays OpenAI co-founder and Altman ally turned adversary Ilya Sutskever in the Luca Guadagnino film, reveals the "spiritual connection" that finally unlocked his role.
 
-### Gina Prince-Bythewood and Reggie Rock Bythewood Return to Urbanworld as Ambassadors of 30th Anniversary Festival
-Mon, 05 Oct 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gina-prince-bythewood-reggie-rock-urbanworld-1236722558/
+### Small Prophets Review: Mackenzie Crook s Droll Apple TV Comedy Features Pearce Quigley in One of the Year s Best Performances
+Tue, 06 Oct 2026 05:30:17 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/small-prophets-review-apple-tv-pearce-quigley-1236722956/
 
-A special spotlight during the festival will celebrate Prince-Bythewood's upcoming film 'Children of Blood and Bone.'
+Quigley plays a melancholy man who enlists a new friend (Lauren Patel) and supernatural forces to learn the truth about his girlfriend's disappearance.
 
-### CAA Hires Top NFL Executive as Chief Operating Officer
-Mon, 05 Oct 2026 19:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/caa-names-nfl-exec-dasha-smith-coo-1236722581/
+### Prime Big Deal Days 2026: What to Snag (and Skip) During Amazon s 48-Hour Sale
+Tue, 06 Oct 2026 05:12:49 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/amazon-prime-big-deal-days-october-2026-dates-best-sales-1236722954/
 
-Dasha Smith was most recently executive VP and chief administrative officer of the NFL, where she was a top deputy to Roger Goodell.
+Everything to know about Amazon's second — and final — Prime-exclusive savings event of the year.
 
-### Sebastian Stan Drops Hints About The Batman: Part II Role: I Hope It Lands Right
-Mon, 05 Oct 2026 18:57:16 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sebastian-stan-batman-part-two-role-1236722629/
+### Slayyyter Announces New Worst Girl in America Brother Album Worst Man in America
+Tue, 06 Oct 2026 03:36:21 +0000 — https://www.hollywoodreporter.com/music/music-news/slayyyter-worst-man-in-america-album-announcement-1236723058/
 
-The Marvel actor talks his highly anticipated move to DC in the Matt Reeves film.
+The new release will serve as a companion album to her project released earlier this year.
 
 ## Deadline
 
-### Clockwork, Warner Bros New Specialty Label, Making Jump To Skydance The Dish
-Mon, 05 Oct 2026 21:23:47 +0000 — https://deadline.com/2026/10/paramount-warner-bros-merger-clockwork-1237147148/
+### George Fenton Dies: ‘Gandhi’, ‘Cry Freedom’ ‘The Blue Planet’ Composer Was 76
+Tue, 06 Oct 2026 11:23:10 +0000 — https://deadline.com/2026/10/george-fenton-dead-gandhi-blue-planet-composer-1237147722/
 
-EXCLUSIVE: The new Warner Bros Christian Parkes-led contemporary film label, Clockwork, which we first told you about last December, will be making the segue to the new Paramount Warner Bros merger aka Skydance. Clockwork was on an internal list of Warner Bros labels shown in-house at Paramount. In addition, we ve heard from reliable sources that [ ]
+UK composer and musician George Fenton, who was known for his original scores for Gandhi and David Attenborough’s The Blue Planet, has died at the age of 76. His family announced in a statement that Fenton had died unexpectedly on October 5, without giving any cause of death. He is survived by his loving wife [ ]
 
-### Jeffrey Archer Dies: Bestselling Kane Abel Author Politician Was 86
-Mon, 05 Oct 2026 21:05:25 +0000 — https://deadline.com/2026/10/jeffrey-archer-dead-kane-abel-author-politician-1237147167/
+### Dogwoof Boards Sales On TIFF Docs Opener Rapinoe Pakistan Oscar Pick Hanging By A Wire
+Tue, 06 Oct 2026 10:00:00 +0000 — https://deadline.com/2026/10/dogwoof-boards-rapinoe-hanging-by-a-wire-sales-1237146986/
 
-Jeffrey Archer, the prolific British author and former politician, has died at the age of 86. Archer s publisher HarperCollins confirmed his death in a statement, revealing that the Kane Abel writer died suddenly and peacefully at home on Monday. A cause of death was not disclosed. Archer, a former Conservative member of parliament, sold [ ]
+EXCLUSIVE: Dogwoof is headed to MIPCOM having secured rights to a pair of buzzy festival titles, Rapinoe and Hanging By a Wire. The London-based producer and distributor picked up international rights to Rapinoe, excluding North America, after the film opened the TIFF Docs program at the Toronto Film Festival last month. The pic, directed by [ ]
 
-### Comedians Call On Sebastian Maniscalco, SiriusXM To Restore Working-Class Comic Airplay Following Raw Dog Rebrand
-Mon, 05 Oct 2026 20:57:58 +0000 — https://deadline.com/2026/10/sebastian-maniscalco-siriusxm-controversy-raw-dog-airplay-1237147151/
+### Russell Brand Arrives In London Court For Pre-Trial Hearing Before Rape Trial Begins Next Week
+Tue, 06 Oct 2026 09:02:18 +0000 — https://deadline.com/2026/10/russell-brand-arrives-london-court-pre-trial-hearing-1237147690/
 
-Sebastian Maniscalco isn t widely viewed as a controversial comic — but he s found himself in the hot seat this week, scrutinized over a recent SiriusXM changeover in which he s prominently involved. Earlier this year, as we first reported, the satellite radio provider replaced Raw Comedy, a long-running channel on its subscription service, with the 24/7 [ ]
+Russell Brand arrived in a London court for a pre-trial hearing earlier this morning as one of the nation s most high-profile celebrity trials gets ready to begin. Brand was snapped outside Southwark Crown Court around an hour early for his hearing, which precedes the main trial starting Monday October 12. He stayed silent after arriving [ ]
 
-### Nyle DiMarco Joins Hulu s All s Fair For Season 2
-Mon, 05 Oct 2026 20:47:06 +0000 — https://deadline.com/2026/10/nyle-dimarco-cast-hulu-alls-fair-season-2-1237147103/
+### Iconic Japanese Gameshow Action Arena To Be Shopped Internationally For First Time By NBCUniversal Formats
+Tue, 06 Oct 2026 08:30:00 +0000 — https://deadline.com/2026/10/action-arena-japanese-nbcuniversal-formats-sold-mipcom-1237146813/
 
-EXCLUSIVE: Nyle DiMarco has joined the recurring cast of Hulu s legal drama All s Fair for Season 2. The role he will play, which is currently under wraps, was originally written as a hearing character and is being adapted specifically for DiMarco, who is deaf. A prominent advocate for authentic deaf representation in media, DiMarco joins [ ]
+EXCLUSIVE: Iconic Japanese gameshow Action Arena is being taken to international buyers for the first time in its plus-30-year history. NBCUniversal Formats has acquired distribution rights to the hit Tokyo Broadcasting System (TBS) show, which sees contestants and celebrities take on a series of entertaining physical and mental challenges designed to test their wits, teamwork [ ]
 
-### CAPE’s 35th Anniversary Gala Raises $350K As Randall Park, Manny Jacinto, The Women Of The Pitt More Celebrate
-Mon, 05 Oct 2026 20:30:00 +0000 — https://deadline.com/2026/10/capes-35th-anniversary-gala-randall-park-manny-jacinto-the-pitt-1237147042/
+### Studiocanal Adapting The Extremely Embarrassing Life Of Lottie Brooks For TV
+Tue, 06 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/extremely-embarrassing-life-lottie-brooks-tv-series-coming-1237146862/
 
-The Coalition of Asian Pacifics in Entertainment (CAPE) celebrated 35 years of advancing Asian American and Pacific Islander representation in film, television and media Saturday night at Downtown Los Angeles’ Vibiana, honoring a group of actors, creators and executives while raising more than $350,000 to support the organization’s continued work. Presented by Lexus, CAPE’s 35th [ ]
+Dubbed the pre-teen Bridget Jones, Kate Kirby s The Extremely Embarrassing Life of Lottie Brooks is being given the TV adaptation treatment by Studiocanal. The best-selling novels follow the chaotic and relatable Brooks family as their eldest, Lottie, 11 and ¾, tries to survive the awkwardness of growing up. Lottie truly believes that armed with her [ ]
 
-### David Zaslav s Farewell: Warner Bros. Discovery CEO Signs Off In Message To Staff
-Mon, 05 Oct 2026 20:29:26 +0000 — https://deadline.com/2026/10/david-zaslav-farewell-warner-bros-discovery-farewell-video-1237146919/
+### Scripted Veteran Jason Simms Switches On Fusebox Entertainment
+Tue, 06 Oct 2026 07:30:00 +0000 — https://deadline.com/2026/10/jason-simms-launches-fusebox-entertainment-1237145276/
 
-David Zaslav, Warner Bros. Discovery CEO (for a few more hours, anyway) has started his goodbyes, thanking employees in a video posted Monday on the company s internal portal. “It’s been a great honor to be alongside all of you,” says Zaslav speaking to the camera from a director’s chair in the at Warner Bros. Studios’ [ ]
+EXCLUSIVE: Veteran scripted exec Jason Simms has delved into his toolkit and launched TV s latest drama house, Fusebox Entertainment. We can reveal the London-based company launches in the run up to MIPCOM with several consultancy partnerships in Europe and the U.S., and co-production and development deals in place with the likes of Fifth Season-backed Cosmopolitan [ ]
 
-### CBS Sports Chief David Berson To Expand Portfolio As TNT Sports Chief Luis Silberwasser Exits
-Mon, 05 Oct 2026 20:20:08 +0000 — https://deadline.com/2026/10/cbs-sports-david-berson-skydance-tnt-sports-merger-1237147020/
+### Raj Shamani, Indian Content Creator Host Of Figuring Out Pod, Signs With WME
+Tue, 06 Oct 2026 06:00:00 +0000 — https://deadline.com/2026/10/raj-shamani-wme-figuring-out-india-1237146610/
 
-David Berson, who has led CBS Sports as president since 2024, will expand his portfolio after the close of the Paramount-Warner Bros. Discovery merger. The exec will take responsibility for sports across Skydance, the soon-to-be-umbrella over CBS and TNT Sports and their respective parents, Paramount and WBD. The $111 billion merger is due to close [ ]
+EXCLUSIVE: Raj Shamani, who hosts the hit Figuring Out podcast that has featured guests including Emmanuel Macron and Bill Gates, has signed with WME. The Indian entrepreneur, investor and author has signed in all areas. His pod, Figuring Out with Raj Shamani, has nearly 20 million subscribers, making it one of the world s biggest podcasts [ ]
 
-### Hollywood Unions Warn U.S. Film TV Production Is On The Brink In Latest Economic Report
-Mon, 05 Oct 2026 20:19:44 +0000 — https://deadline.com/2026/10/hollywood-unions-report-us-film-tv-production-decline-1237147051/
+### Busan Film Festival Director Jung Hanseok Talks Oscars Pathway, New Competition Section Korean Cinema Recovery
+Tue, 06 Oct 2026 04:28:02 +0000 — https://deadline.com/2026/10/busan-film-festival-jung-hanseok-korea-oscars-1237146438/
 
-Another alarm bell went off Monday on the state of U.S.-based film and television production with the release of an extensive report commissioned by several of the Hollywood unions that illustrates what industry insiders have feared for some time: After a quarter century of rapid transformation and external disruptions, U.S. film and television production is [ ]
+It’s been an encouraging year for South Korea’s Busan International Film Festival (BIFF), which has received recognition from the International Federation of Film Producers Associations (FIAPF) and also been designated a pathway to an Oscars’ nomination. FIAPF announced in March that BIFF has been added to its list of “A-list festivals” joining the ranks of [ ]
 
-### Politico Blocked From Air Force One In Latest Trump White House Effort To Punish Media Over Reporting
-Mon, 05 Oct 2026 19:57:54 +0000 — https://deadline.com/2026/10/politico-air-force-one-trump-ban-1237147029/
+### Jim Bakker Dies: Televangelist Was 86
+Tue, 06 Oct 2026 03:20:05 +0000 — https://deadline.com/2026/10/jim-bakker-dead-televangelist-1237147619/
 
-The White House blocked Politico from traveling with Donald Trump on Air Force One on Monday for the president s trip to Nebraska. A Politico spokesperson confirmed that the publication was excluded from the out-of-town travel pool, the handful of reporters who cover the president s travel with each outlet assigned on a rotating basis. The Washington [ ]
+Jim Bakker, the televangelist who built a media empire with former wife Tammy Faye Bakker, has died. He was 86. In a social media post, Bakker s wife Lori Bakker shared the news of his death. It is with a broken heart that I share that my beloved husband, Jim Bakker, went home to be with [ ]
 
-### Robert Kelker-Kelly Dies: Days Of Our Lives , Another World Actor Was 62
-Mon, 05 Oct 2026 19:32:25 +0000 — https://deadline.com/2026/10/robert-kelker-kelly-dead-days-of-our-lives-another-world-1237146925/
+### Andrew Garfield On Playing Sam Altman, A Charismatic Leader Sucking Up “Our Autonomy, Power And Data NYFF
+Tue, 06 Oct 2026 02:55:53 +0000 — https://deadline.com/2026/10/artificial-star-andrew-garfield-on-playing-sam-altman-1237147012/
 
-Robert Kelker-Kelly, known best for his role as Bo Brady on NBC soap Days Of Our Lives and for his work on Another World, died October 3 at his home in St. Peters, Missouri. He was 62. St. Peters police officers responded to his home at around 8:16 p.m. for a report of an unconscious [ ]
+Andrew Garfield says he prepared “day in and day out” for months to play Sam Altman, “listening and watching footage of him … trying to find my version of that character.” Where he landed on the co-founder and CEO of OpenAI wasn’t complimentary – calculating, manipulative and nihilistic. “There s such a heavy responsibility … playing [ ]
 
-### Sam Esmail And His Production Company Esmail Corp Sign With WME
-Mon, 05 Oct 2026 19:27:29 +0000 — https://deadline.com/2026/10/sam-esmail-wme-1237147026/
+### Casey Bloys Re-Ups Contract As He Embarks On Integrating HBO Max Paramount+ Teams
+Tue, 06 Oct 2026 02:38:43 +0000 — https://deadline.com/2026/10/casey-bloys-contract-reup-hbo-max-paramount-plus-teams-1237147522/
 
-WME has signed acclaimed writer, director and producer Sam Esmail and his company Esmail Corp for representation in all areas. Esmail is best known as the creator of USA Network’s Mr. Robot, which ran for four seasons from 2015 to 2019. Esmail served as writer, director and executive producer on the series, which won the [ ]
+Casey Bloys new role at a new company comes with a new contract too. Deadline has confirmed that Bloys, named earlier today Co-Chair and Chief Content Officer, Skydance DTC, has signed a multi-year extension to his current Warner Bros. Discovery contract, which runs though end of 2027. Contract renewals are standard practice for hires at [ ]
 
-### Amazon Hires Three Netflix Business Affairs Execs As It Moves To Genre-Based Model
-Mon, 05 Oct 2026 19:25:40 +0000 — https://deadline.com/2026/10/amazon-hires-three-netflix-business-affairs-execs-genre-1237147017/
+### Artificial Review: Andrew Garfield Is Chilling As Sam Altman In Luca Guadagnino s OpenAI Origin Story That Should Make You Very Afraid New York Film Festival
+Tue, 06 Oct 2026 01:33:41 +0000 — https://deadline.com/2026/10/artificial-review-andrew-garfield-is-chilling-as-sam-altman-in-luca-guadagninos-open-ai-origin-story-that-should-make-you-very-afraid-new-york-film-festival-1237146922/
 
-EXCLUSIVE: Amazon has instituted a significant shift in the way its film and TV business affairs division operates and has hired three executives from rival Netflix as part of the move. The streamer has hired Diana Bernstein, Chris Carter and Matt Rea from Netflix, each of whom have worked there for over a decade. It [ ]
+Artificial, which had its world premiere Monday at the New York Film Festival, certainly comes in with a bit of controversy attached. Produced and made under Amazon MGM Studios, the Luca Guadagnino film about the origin of OpenAI and its CEO Sam Altman and key creative Ilya Sutskever, was shopped around after Amazon decided maybe [ ]
 
 ## befores & afters
 
-_Nothing in the last 48 hours._
+### Rodeo FX s House of the Dragon s3 VFX breakdown is here
+Tue, 06 Oct 2026 09:53:48 +0000 — https://beforesandafters.com/2026/10/06/rodeo-fxs-house-of-the-dragon-s3-vfx-breakdown-is-here/
+
+Go behind the scenes. The post Rodeo FX s House of the Dragon s3 VFX breakdown is here appeared first on befores & afters .
 
 ## IndieWire
+
+### Artificial First Reactions: Luca Guadagnino s Biting OpenAI Satire Is Both Savage and Terrifying
+Tue, 06 Oct 2026 01:05:05 +0000 — https://www.indiewire.com/news/general-news/artificial-movie-first-reactions-1235220341/
+
+Following the film's NYFF premiere, critics have high praise for Guadagnino's Big Tech satire, which stars Andrew Garfield as Sam Altman.
+
+### The Sticky Business of Loving Cinéma L’Amour: Inside Montreal’s Historic Porn Theater
+Mon, 05 Oct 2026 22:30:00 +0000 — https://www.indiewire.com/features/interviews/cinema-lamour-inside-montreal-historic-porn-theater-1235219767/
+
+You won’t find a sexier testament to word-of-mouth marketing than this Canadian institution, where free online porn and Trump’s tariffs are among many challenges facing its warmly exhausted owner today.
 
 ### After the Digger Disaster, What Should Tom Cruise Do Next?
 Mon, 05 Oct 2026 20:50:00 +0000 — https://www.indiewire.com/features/commentary/digger-box-office-disaster-tom-cruise-career-next-steps-1235220265/
 
 Alejandro González Iñárritu's audacious satire is shaping up to be one of Hollywood's all-time bombs. For a star like Cruise, that's not a career death sentence — but his next moves matter. We've got some suggestions.
 
-### Skweezy Jibbs Makes a Movie : How I Turned a TikTok Comedy Character Into an Indie Film That Toured 60 Cities
+### Skweezy Jibbs Makes a Movie : How I Turned a TikTok Comedy Character Into an Indie Film That Toured 71 Cities
 Mon, 05 Oct 2026 20:30:00 +0000 — https://www.indiewire.com/features/commentary/skweezy-jibbs-makes-a-movie-op-ed-1235220271/
 
 Comedian Tim Savage explains how he turned his online alter-ego Skweezy Jibbs into an indie film success story.
@@ -222,117 +235,107 @@ Sun, 04 Oct 2026 15:24:52 +0000 — https://www.indiewire.com/news/box-office/di
 
 The expensive satire is on track to lose $150 million or more, studio sources estimate, making it a historic disaster.
 
-### Box Office: John Wilson s The History of Concrete from Magnolia Passes $1 Million
-Sun, 04 Oct 2026 12:30:00 +0000 — https://www.indiewire.com/news/box-office/john-wilson-history-of-concrete-1-million-gross-record-1235220143/
-
-Among documentaries, the humorous look at urbanism is the year's highest-grossing platform release.
-
-### A Statement Review: Tom McCarthy s Talky Climate Crisis Seriocomedy Is Light Entertainment That Hardly Rakes the Muck
-Sun, 04 Oct 2026 00:15:00 +0000 — https://www.indiewire.com/criticism/movies/a-statement-review-tom-mccarthy-1235220103/
-
-New York Film Festival: The Oscar-winning writer/director turns his spotlight on a plushly appointed ensemble as the environmental stewards and scholars who tried to solve the climate crisis over one long-winded, futile meeting in St. Petersburg, Florida, in 1980.
-
 ## The Wrap
 
-### Megyn Kelly Slams Deeply Immoral Lack of Due Process in Cornell Rape Investigation
-Mon, 05 Oct 2026 21:16:13 +0000 — https://www.thewrap.com/culture-lifestyle/culture/megyn-kelly-cornell-rape-case-due-process/
+### Jimmy Kimmel Mocks Trump’s Promise to Help Russia Amid Siberia Plague: ‘The Gang Who Brought Polio Back’
+Tue, 06 Oct 2026 05:46:10 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-mocks-trump-reaction-russia-plague/
 
-Megyn Kelly is calling out what she sees as a lack of due process when it comes to Cornell s Chi Phi fraternity brothers amid their Jane Doe gang rape investigation. On Monday s episode of The Megyn Kelly Show, the host suggested the public has already made up its mind regarding the seven men named after a former student filed a civil suit claiming she was drugged, assaulted and gang-raped by them in 2024. These young men have had their names plastered all over every major newscast in America for a week now, Kelly said. The mob has decided they re guilty and ought to be put to death, which is literally what we are hearing in several circles online without a trial, without a due process chance to defend themselves. Not in a kangaroo court on a college campus, which is a joke, but in an actual court, either civil or now it s looking more and more likely criminal. She added: This is deeply immoral. There are two sides to every story. You don’t know, and I don’t know what happened inside of Cornell that night. We know that there’s been a story told by Jane Doe. We know that from her own story, the DA – a Democrat – said there’s no case here… And we know it took her two years to file a civil suit… Now her lawyers are all over the television, ripping on the DA. Kelly is not the only news personality to question the due process of the case. The View co-host Sunny Hostin also spoke out wondering if the men s names should not be going up across a number of news networks. “The pictures
+Jimmy Kimmel took aim at Donald Trump after the president promised to send aid to Russia amid a plague outbreak in Siberia, joking that “the gang who brought polio back is on the case.” During Monday s monologue for Jimmy Kimmel Live!, the comedian weighed in on the situation in Siberia, which saw a 28-year-old laboratory worker at the Irkutsk Anti-Plague Institute die of severe pneumonia. Dozens more are currently in quarantine. We took 200 members of our staff to Brooklyn . I am pleased to announce that only half of them came back with the flu, Kimmel said. Everyone is out sick. Everybody is sick today. Although, I guess we re lucky to just have the flu. He added: You know, today the governor of New York declared a state disaster emergency because of a measles outbreak there. So now we ve got the flu, we ve got measles, we ve got rabies, we ve got West Nile virus, we have flea-born typhus, all on the rise. And now we are hearing that in Russia there has been at least one death from a suspected case of the plague, the pneumonic plague. After mentioning that around 200 people are in quarantine, Kimmel said of the White House s response: The White House says they are monitoring the situation and assessing options to figure out if there is any way they can make money off of it. Jimmy Kimmel Live! editors then played footage of Trump answering questions about the supposed plague, with the president noting that we ll help them. Well, everybody, they ll help [them], Kimmel respond
 
-### CBS Sports Chief David Berson to Lead TNT Sports as Luis Silberwasser Exits
-Mon, 05 Oct 2026 21:03:34 +0000 — https://www.thewrap.com/media-platforms/tv/david-berson-tnt-sports-luis-silberwasser-skydance/
+### Jim Bakker, Controversial Televangelist and Ex-Husband of Tammy Faye Bakker, Dies at 86
+Tue, 06 Oct 2026 04:34:31 +0000 — https://www.thewrap.com/culture-lifestyle/culture/jim-bakker-dies-televangelist-tammy-faye-ex-husband/
 
-CBS Sports president and CEO David Berson will reportedly lead Skydance’s global sports business following its acquisition of Warner Bros. Discovery, while TNT Sports chairman and CEO Luis Silberwasser will exit the company. Berson’s expanded remit will give him control of a sprawling sports rights portfolio stretching from the NFL and March Madness to the NHL, Major League Baseball, NASCAR, the French Open and the Masters. The new structure also puts CBS and TNT Sports — longtime partners on the NCAA men’s basketball tournament — under the same corporate roof. The newly formed global sports group will oversee all networks, platforms and territories, with CBS Sports, TNT Sports and WBD Sports rolling into the organization, CNBC reported Monday . Silberwasser, who has led TNT Sports since 2022, informed employees Monday that he would leave as the Paramount Skydance-Warner Bros. Discovery merger closes. His departure is among the executive changes taking shape as Skydance establishes the leadership structure for the enlarged company. Berson has served as president and CEO of CBS Sports since 2024, when he succeeded longtime chairman Sean McManus. He joined CBS Sports in 2011 and previously spent more than a decade as president of the division. Silberwasser joined TNT Sports in 2022 and helped rebuild its rights portfolio after Warner Bros. Discovery lost the NBA beginning with the 2025-26 season . During his tenure, TNT Sports added sublicensed College Football Playoff games an
+Jim Bakker, the controversial televangelist and ex-husband of Tammy Faye Bakker, died on Monday evening. He was 86. Bakker’s wife, Lori, confirmed his passing in a statement shared to the Instagram account belonging to his show, “The Jim Bakker Show.” His cause of death was not immediately revealed. “It is with a broken heart that I share that my beloved husband, Jim Bakker, went home to be with the Lord this evening,” Lori wrote alongside a photo of the TV minister. “For 66 years, Jim gave his life to preaching the Gospel of Jesus Christ. He was a pioneer of Christian television, but to me, he was my husband, my best friend, and the man I was honored to walk beside through so many seasons of life and ministry.” She added: “Jim loved people deeply. He loved this ministry, and he loved the friends and partners who stood with him throughout the years. Even in his final days, his heart was still for the work of God and for the Gospel to continue reaching the world.” As Lori went on, she noted that their family was grieving and asked for privacy. “Jim finished his race with faith,” she concluded. “His voice, his vision and his legacy will never be forgotten.” View this post on Instagram A post shared by Jim Bakker Show (@jimbakkershow) In 1974, Bakker, along with his first wife, the aforementioned Tammy Faye, founded the Christian television program, “The PTL Club.” The enterprise later grew into a religious broadcast empire, which included their theme park, Heritage USA. However
 
-### 5 New Shows to Stream This Week on Prime Video, Hulu, and More
-Mon, 05 Oct 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/new-shows-to-stream-this-week-oct-5-11/
+### Artificial Review: Yura Borisov and Andrew Garfield Fight and Flirt Over the Fate of Our Technological Future
+Tue, 06 Oct 2026 04:18:35 +0000 — https://www.thewrap.com/creative-content/movies/artificial-review-new-york-film-festival/
 
-It s a busy, busy week when it comes to TV premieres, but these are the ones to really dial in on. A pair of the biggest shows of the month make their debut this week – Mike Flanagan s TV adaptation of Carrie and the latest series in the Avatar franchise – but that doesn t mean there are not a few tried-and-true favorites making their return. The Fall TV season is in full swing now, and picking and choosing what to watch and when is crucial. Here are the new shows to stream this week on Prime Video, Hulu, Paramount+ and more. Joe Miñoso in Chicago Fire. (Peter Gordon/NBC) One Chicago Shows Streaming on: Peacock It s a big week for broadcast TV premieres , but one of the largest is the return of the entire One Chicago universe on Wednesday. Chicago Fire, Chicago P.D., and Chicago Med all return to NBC to continue their respective seasons and build toward the yearly crossover. Whether you dial in for just one or are a diehard of the entire universe, your Wednesday nights are about to be completely booked and busy. Quinta Brunson in Abbott Elementary. (Disney/Gilles Mingasson) Abbott Elementary Streaming on: Hulu The award-winning ABC comedy returns for Season 6 on Wednesday and picks up the many dangling threads from Season 5. The school managed to survive closure, but now Gregory and Ava have to navigate their duties as co-principals of Abbott Elementary. He ll have to juggle the new work responsibilities with his and Janine s growing relationship as things get even more serio
+“Artificial” arrives with such capital-“I” importance in this moment of anxiety over artificial intelligence that there is a version of the film that could have soared on the strength of its message alone, craft be damned. Thankfully though, Luca Guadagnino is not content to eulogize us without a sense of style. The film covers two decades worth of ground around the advancement of machine-learning research, charting the rise of OpenAI co-founder and CEO Sam Altman, and while it can feel ungracefully didactic at moments, it deserves adulation for being unapologetically clear about its humanist message even while the tech oligarchs increasingly resort to obfuscation to assuage anxieties. The fact that Guadagnino and his collaborators have made a film that pulses with humanity, one whose craft acts as an antithesis to the love for algorithms and technology its characters espouse, is its clever sleight of hand. This film may be the world’s obituary, but in its thrilling, creative and provocative telling, it also reminds exactly what makes human beings – and their art, specifically – special. Hopefully, this is a film that can be more than a reminder of all that we might lose. In regards to the proliferation of AI in our lives and what super intelligence might mean for the paradigm of the world, I do not think we need to be told to be afraid. “Artificial” gives a new dimension to that fear, moving away from the abstract nature of doomsday and fastening something more tangible and,
 
-### David Zaslav Urges WB Staff to Move Forward as He Bids Farewell Ahead of Paramount Merger Closing
-Mon, 05 Oct 2026 20:19:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/david-zaslav-bids-farewell-warner-bros-paramount-merger/
+### Jon Stewart Draws Big Reaction From ‘Daily Show’ Crowd With Resurfaced Epstein Files Photo of Stephen Hawking
+Tue, 06 Oct 2026 03:54:28 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-the-daily-show-audience-reacts-stephen-hawking-epstein-files-photo/
 
-Soon to be former Warner Bros. Discovery chief David Zaslav said goodbye to staffers in a video message on the eve of the company s merger with Paramount Skydance. “For me, it’s been a great honor to be alongside all of you. I hope you take pride in what you’ve built, what you’ve created and the role you’ve played in shaping an extraordinary history,” Zaslav said in the video, according to a transcript shared in the media. “I can’t wait to see what you do in the years ahead. I’m so grateful for all these years at Warner Bros. Discovery,” he added. Zaslav is expected to leave the company once the deal closes. As TheWrap has previously reported , Zaslav is eligible to receive at least $551.5 million in compensation under the media giant’s pending $110 billion merger with Paramount Skydance, according to a SEC filing. The total package includes $34,219,178 in cash, $517,204,781 in equity, $44,195 in “perquisites and benefits.” The cash component includes $6 million in salary severance and $28.2 million in bonus severance. Meanwhile, the equity component includes $443,131,800 in options, 60,867,415 in restricted stock units and 13,205,566 in performance-based restricted stock units. Additionally, Zaslav is eligible to receive a tax reimbursement, though the actual amount will “significantly decline with the passage of time” under IRS rules depending on when the deal closes. Here’s a transcript of Zaslav’s farewell message: Hello, everyone. I’m here in the scenic Loft on the Warne
+Jon Stewart drew a big reaction from his Daily Show audience after resurfacing an Epstein files photo of Stephen Hawking. The comedian brought back the controversial image of the famed theoretical astrophysicist during Monday s monologue, where he unpacked artificial intelligence leaders promise of a better future. We ve got a great show for you tonight. We re doing something a little different tonight, Stewart said at the top of the show. We re doing a theme show. Tonight s program is all about AI. Audience members then erupted into a round of boos, prompting Stewart to respond with: Suddenly, the audience takes a turn. My God, AI? We re talking about it for the whole show, from A to I. As you know, many of you here, there has been great concern lately over AI and what data centers will do to local communities, he continued. The threats posed by rogue AI agents. So President Trump called all of the biggest AI leaders to the White House to finally address the concerns of the American people. And you know that Trump is going to bring the heat because – Stewart s crowd then interrupted his monologue with laughter. Don t be cynical, he commented before continuing on. He s going to bring the heat. Trump has been very clear what he thinks about these Silicon Valley elites. The Daily Show then played all the times Trump insulted power players in the tech world, including Mark Zuckerberg – who he repeatedly called a weirdo. I got to say, I did not know Trump said true stuff at his r
 
-### Why Lanterns Is the Best Hal Jordan Has Ever Been Appreciation
-Mon, 05 Oct 2026 19:34:08 +0000 — https://www.thewrap.com/creative-content/tv-shows/lanterns-hal-jordan-kyle-chandler-appreciation/
+### Gavin Newsom, Jim Acosta and More Torch Trump After He Dares Iran to ‘Take Out’ Los Angeles or San Diego in Rally Speech
+Tue, 06 Oct 2026 02:57:25 +0000 — https://www.thewrap.com/media-platforms/politics/trump-iran-take-out-los-angeles-san-diego-comment-social-media-reactions/
 
-Warning: Spoilers ahead! Hal Jordan has never been my favorite Green Lantern. Don’t get me wrong: I love the character, as evidenced by the Geoff Johns and Dennis O’Neil trades sitting on my bookshelf. But I never connected with him on the same level as some others who took up the mantle, your Kyle Rayners, Jessica Cruzes and, yes, John Stewarts of the world. He was never my guy. I guess I always just felt a bit removed from Hal. In most of my favorite stories featuring the character, he largely felt like an emblem, the living embodiment of will, courage made manifest and sent to watch over the worlds of Sector 2814. His cockiness and charm made him fun to read, but they never let me get in close. That is, until Kyle Chandler put on the ring. While many were thrilled by this perfect marriage of actor and character, Chandler’s casting also gave some diehard fans pause. I think that’s fair. He is — I hope he doesn’t mind me saying — a bit old for the part as most comic readers would imagine it. Before the show released, it became clear that Aaron Pierre’s John Stewart (another incredible performance) was the one who was in it for the long haul, flying into theaters next summer with “ Man of Tomorrow .” Many of Hal Jordan’s greatest adventures, if they happened at all, occurred before his “ Lanterns ” journey. Kyle Chandler in Lanterns (Credit: John Johnson/HBO Max) I knew Chandler would be a good fit for the part, but I still remember watching Hal’s scheme at the bar during the
+Gavin Newsom, Jim Acosta and more ripped into Donald Trump Monday evening after the president appeared to dare Iran to take out Los Angeles or San Diego in a rally speech. The controversy arose after Trump attempted to defend the ongoing military operation in Iran, telling rally attendees in Grand Island, Nebraska that it was a small price to pay for keeping the world safe, keeping our country safe.” “They can take out a city,” Trump said. “Let them take out Los Angeles. Let them take out San Diego. This is a very small price to pay. And it s going to be over with very soon. It s almost over with – and they might keep going a little long. You know, they always say they have a big threshold for pain. They need it. Let me tell you. They need it. But it s going to end very soon. And it will end one way or the other. It didn t take long for Trump s remarks to circulate on X, prompting a big reaction from California Governor Gavin Newsom. After sending the National Guard and Marines to occupy California, Donald Trump is now saying our foreign enemies should take out Los Angeles and San Diego, Newsom wrote on X while sharing a clip of Trump s comments. He is deranged and dangerous. Veteran journalist Jim Acosta expressed a similar sentiment, writing on X, The crowd starts to applaud as Trump fantasizes about LA and San Diego being wiped out by a nuclear attack. WTF. This is not normal. Trump on Iran: Let 'em take out Los Angeles and San Diego, it's a small price to pay pic.twitter.
 
-### Mark Ruffalo Threatens to Hulk Out While Torching Trump Over Voter Rights
-Mon, 05 Oct 2026 19:20:27 +0000 — https://www.thewrap.com/media-platforms/politics/mark-ruffalo-hulk-out-trump-voter-rights/
+### Casey Bloys Extends Deal to Oversee HBO Max and Paramount+ at Skydance
+Tue, 06 Oct 2026 01:42:16 +0000 — https://www.thewrap.com/industry-news/deals-ma/casey-bloys-extends-deal-skydance/
 
-Mark Ruffalo invoked his alter ego, The Incredible Hulk, while slamming Donald Trump over attempts to meddle with voter rights. While speaking at the Hands Off Our Vote rally on Sunday, the MCU star gave an impassioned speech decrying the president and his attempts to suppress voters heading into the midterm elections in November. We gotta get this dumbass, fool ass, tired ass, lame ass, duck ass out of office,” Ruffalo said. “We got to make him a lame duck! We have to stop his policies now. Another two years of this, and who knows what he’ll be doing? Ruffalo: Hands off our fucking vote. I’m gonna Hulk out. You won’t like me when I’m angry. Hey, I’m still here. They thought I was out for the count. I’m still here. I’m still playing the Hulk. pic.twitter.com/5qyxUBPlWG &mdash; Acyn (@Acyn) October 4, 2026 He added: “They’re going to try and stop us from taking our country back, and we’re not going to let ’em. Trump, we’re not letting you! Hands off our f king vote! One person from the crowd yelled to the MCU star you tell them, Hulk which got a laugh from Ruffalo before he leaned into the bit. “I’m gonna Hulk out. You won’t like me when I’m angry, he said. Hey, I’m still here. They thought I was out for the count — I’m still here, I’m still playing the Hulk.” Much of Ruffalo s speech centered on Trump s repeated attempts to stifle mail-in voting before the election. Time and again the president has cited it as a form of voter fraud despite there being no proof to the claim. T
+Casey Bloys, the new co-chair and chief content officer of Skydance DTC, has signed a new multi-year contract extension. According to insiders with knowledge, with Bloys contract with HBO slated to expire in 2027, the executive signed a multi-year extension ahead of joining the newly merged Paramount-Warner Bros. , now called Skydance. A representative for Warner Bros. did not immediately respond to TheWrap s request for comment. Word of Bloys contract extension came hours after Skydance unveiled their new leadership team, which confirmed his position as co-chair and chief content officer for Skydance DTC. In regards to what Bloys will be overseeing for HBO Max and Paramount+, Skydance shared that he will be responsible for “original programming as well as strategy, operations, communications and performance across the company’s streaming platforms.” In addition to Bloys, David Ellison and his co-CEO Ynon Kreiz confirmed Monday that JB Perrette, who previously served as Warner Bros. Discovery’s CEO and president of global streaming and games, would step into the position of co-chair and chief business officer of both Skydance TV and Skydance DTC, George Cheeks, who was the chair of TV media at Paramount Skydance, would become the co-chair and chief content officer at Skydance TV. They also confirmed that Mark Thompson and Bari Weiss will separately run CNN and CBS News, respectively. “I’m incredibly proud to introduce the team that will lead Skydance forward, a group that ref
 
-### Hollywood Spends More Than Half of Its Film Budgets Outside the US, Union Study Shows
-Mon, 05 Oct 2026 19:00:31 +0000 — https://www.thewrap.com/industry-news/labor-unions/united-states-film-production-decline-study/
+### Trump Says His Political Committee Will Pay for His TV Ads, Not Taxpayers
+Tue, 06 Oct 2026 01:11:31 +0000 — https://www.thewrap.com/media-platforms/politics/trump-super-pac-maga-inc-to-pay-for-political-ads-not-taxpayers/
 
-Major Hollywood studios have gone from spending 72% of its production budgets within the United States at the end of the 20th century to spending more than half of that budget outside of the country, according to a new study commissioned by the entertainment industry s major unions. The study conducted by Ernst & Young surveyed film and television production spending from major American studios from 1999 to 2024 for movies with budgets of at least $5 million and TV shows with budgets of at least $1 million per episode. For film productions, the study found that over the quarter-century span surveyed: The share of production spending on movies filmed partially or primarily in the U.S. declined from 74% to 42% (a 32 percentage-point decrease). The share of films by major U.S. studios on movies filmed partially or primarily in the U.S. declined from 66% to 54%. The share of cast and crew working on movies filmed partially or primarily in the U.S. declined from 72% to 43%. The share of production spending in the U.S. among the 25 highest-budget films by major U.S. studios declined by 40%. On the TV side, the study found: The share of production spending on television episodes filmed partially or primarily in the U.S. declined from 94% to 64%. The share of television episodes by major U.S. studios filmed partially or primarily in the U.S. declined from 96% to 70%. The share of cast and crew working on television episodes filmed partially or primarily in the U.S. declined from 86% 
+President Donald Trump will no longer fund his own political ads with taxpayer money, instead his super PAC will pay for them. In a post to Truth Social, the president said that, even though he believes the ads are a rather standard thing to do, he will pay for them through his super PAC, MAGA, Inc. The Radical Left is upset with the fact that I am taking Ads, which I consider to be a positive promotion for our Great U.S.A., and paying for them with U.S.A. money, the president wrote . He added: This is a rather standard thing to do but, rather than doing that, although nothing will make them happy, I have decided to do the Patriotic Ads, among others, and pay for them myself, and with money I raised for MAGA, Inc. More than $10 million in taxpayer-funded ads have run since September, according to AdImpact, the ad-tracking service. Trump paid for the ads with funds from the Department of Homeland Security through a $20 million contract. The ads first aired on Fox News last week and amid a number of NFL and college football games. There were four different ads and each featured a disclaimer, stating, “Paid for by the U.S. government.” The White House did not immediately respond to a request for comment. Politicians on both sides of the aisle criticized the ads, citing them as a possible violation of federal laws for using taxpayer funds for publicity or propaganda purposes. “That the Trump administration not only failed to acknowledge and investigate last week’s illegal ad, but
 
-### CAA Welcomes New Chief Operating Officer Dasha Smith
-Mon, 05 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/industry-news/business/caa-chief-operating-officer-dasha-smith/
+### Artificial First Reactions Praise Luca Guadagnino s Terrifying Sam Altman Biopic as an Essential Film
+Tue, 06 Oct 2026 01:02:05 +0000 — https://www.thewrap.com/creative-content/movies/artificial-first-reactions-praise-terrifying-sam-altman-biopic/
 
-Dasha Smith has joined CAA as Chief Operating Officer, the agency announced Monday. Smith most recently served as Executive Vice President, Chief Administrative Officer at the National Football League. “Dasha is a remarkably talented, accomplished and energetic leader with a deep understanding of how global organizations operate at their very best,” CAA co-chairman and CEO Bryan Lourd shared in a statement. “We look forward to welcoming her to our senior management team and benefiting from her significant experience helping to guide leading media and sports organizations.” “I have tremendous respect for the industry leadership position that CAA and its management team continue to build on every year,” Smith added. “Even greater is my appreciation for its widely admired, consistent mission to deliver the best possible service and resources to its clients. Joining a culture with that kind of clarity and purpose is an extraordinary opportunity.” At the NFL, where she was a member of Commissioner Roger Goodell’s Executive Operating Committee, Smith helped shape the league’s enterprise strategy and oversaw a broad portfolio of business functions, including technology, AI and innovation, data and analytics, strategy and business intelligence, human resources, inclusion, social responsibility and philanthropy, and league office administration. Previously, she was Executive Vice President, Global Chief Human Resources Officer for Sony Music Entertainment; and Managing Director, Offic
+After being saved from release limbo by Neon, Luca Guadagnino’s Sam Altman biodrama Artificial screened for audiences at the New York Film Festival on Monday. These first crowds are glad it made its way to theaters. Artificial is a pitch-perfect dark comedy about the absence of responsibility in the face of apocalyptic certainty, said @erickohn on X. Andrew Garfield walks a fine line between movie monster, buffoonish mogul, and evil genius. A fun/scary ride that embodies the paradox at its center. The film, directed by Guadagnino and written by Simon Rich, follows Andrew Garfield as OpenAI CEO Sam Altman during the period when he was fired from and rehired by the company in 2023. “Anora’s” Yura Borisov co-stars as Ilya Sutskever, OpenAI’s co-founder and chief scientific officer. Guadagnino guts Silicon Valley with his obsessive pulse & a powerful farce in which Andrew Garfield completely shines, said @jairojimenez_ on X. A feverish, visceral corporate drama that proves what is truly artificial was never in the machines, but in the boardroom. An essential film. Amazon MGM initially lined up Artificial before controversially uncommitting to releasing the film on June 19, with speculation brewing that the company’s OpenAI ties contributed to the decision . This decision sparked conversation over the potential conflicting interests between tech firms and their entertainment development branches, with Amazon’s commitment to OpenAI coming at odds with the film’s content. Neon acqui
 
-### White House Blocks Politico From Air Force One Pool Assignment
-Mon, 05 Oct 2026 18:55:07 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-white-house-blocks-politico-air-force-one-press-pool/
+### Slam Frank Off Broadway Review: How Do You Parody the Holocaust s Most Beloved Young Heroine?
+Tue, 06 Oct 2026 01:00:00 +0000 — https://www.thewrap.com/creative-content/theater/slam-frank-off-broadway-review/
 
-The White House blocked Politico from traveling aboard Air Force One on Monday, preventing the outlet from carrying out its scheduled duties in the presidential press pool amid an ongoing legal fight with the Trump administration. Politico was set to serve as the out-of-town print pool reporter for President Donald Trump’s trip to Nebraska, but was excluded from the traveling press group, a spokesperson for the outlet confirmed to TheWrap. The exclusion underscores the limits of the outlets’ recent court victory: CNN, MS NOW and Politico regained access to the White House grounds last month, but the administration has continued restricting their participation in limited-capacity presidential events, including on Air Force One. The White House repeatedly blocked CNN from Air Force One when the network was scheduled to serve as the television pool representative. Trump announced last month that he was barring the three outlets from the White House , prompting CNN, MS NOW and Politico to sue the administration. U.S. District Judge Timothy Kelly subsequently ordered the White House to restore the outlets’ press credentials. The three organizations regained access to the White House grounds hours after the ruling following another court standoff. The temporary order applies to access to the White House complex, while the administration has argued that it does not extend to limited-capacity spaces such as Air Force One or the Oval Office. “The judge basically ordered them to renew 
+If they can do it to Abe Lincoln with “Oh, Mary!,” why not Anne Frank with “Slam Frank”? The new musical comedy about the Holocaust’s most beloved young heroine opened Monday at the Orpheum Theatre after a brief run off Broadway last year. Songwriter Andrew Fox and book writer Joel Sinensky were reportedly inspired to write the show after a Twitter thread about Anne Frank’s “white privilege” went viral in 2022. As Slam Frank sees it, would the diary of Anne Frank have been published if written by a young girl of color, that is, someone named Anita Frank? The satire begins even before that young heroine (Olivia Bernábe) appears. A show within a show, Slam Frank kicks off with an artistic director (John Anker Bow) welcoming us to the Orpheum Theatre with a land acknowledgement statement. The only problem is, he gets mixed up and can’t remember which indigenous tribes used to live there long before the neighborhood became the East Village. This is the subversive world of “Slam Frank”! No minority group or no strongly held belief, for that matter escapes getting slapped down. But fear not: white cis males get the most punishment. As one character explains, It s men like you who voted for Hitler and got us in this damn mess in the first place! The show’s major change from its uncredited source material, The Diary of Anne Frank, is that Anne is now Anita, a Latina from a barrio in Frankfurt, Germany. When the family must immigrate to the Netherlands during World War II, not all of 
 
-### Tulsa King Renewed for Season 5 Ahead of Season 4 Premiere on Paramount+
-Mon, 05 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/tulsa-king-renewed-season-5-paramount-plus/
+### Hasan Piker Defends Ms. Rachel After Fox News Warns Parents Against Watching Her Content
+Tue, 06 Oct 2026 00:31:10 +0000 — https://www.thewrap.com/culture-lifestyle/culture/hasan-piker-reacts-fox-news-ms-rachel-comparison/
 
-Ahead of its Season 4 premiere on Oct. 16, Tulsa King has been renewed for Season 5 at Paramount+. Production is underway on this upcoming season and has been moved from Atlanta to New York to coincide with a Season 5 storyline that involves Dwight The General Manfredi (Sylvester Stallone) returning to his mafia roots. Season 5 will also include some cast changes. Scarlet Rose Stallone, known for playing Spencer, has been promoted to a series regular. Other actors in the Season 5 main cast include Erik Palladino ( I Play Rocky ), Glenn Fleshler ( Billions ), Anthony Skordi ( The Last Frontier ) and Nickola Shreli ( Power Book IV: Force ). We are thrilled to bring fans even more of this incredible series and to be shooting the next season of Tulsa King in New York, where Dwight Manfredi’s story will continue to evolve, Drew Brown, executive vice president of Physical Production for Paramount Television Studios, said in a Monday statement. We’re proud of the work we’ve done in Georgia, and it remains an important venue for us. The fourth season of the Paramount+ drama follows Dwight as he fights to legitimize his empire and protect his crew against corrupt politicians and new enemies while struggling with a personal loss. In addition to Stallone, Tulsa King Season 4 stars Martin Starr, Jay Will, Vincent Piazza, Annabella Sciorra, Chris Caldovino, McKenna Quigley Harrington, Frank Grillo, Mike Cash Flo Walden, James Russo, Kevin Pollak and Neal McDonough, along with Garrett Hedl
+Hasan Piker came to the defense of children’s entertainer Ms. Rachel after Fox News warned parents against her content, blasting the network for finding “two people who don’t want children to be slaughtered” unacceptable. The drama started on Fox News The Big Weekend Show, when contributor Tomi Lahren weighed in on Ms. Rachel (also known as Rachel Anne Accurso) s past collaborations with left-wing figures, including New York City Mayor Zohran Mamdani. I d also say this person here on your screen is Hasan Piker in overalls and a stupid headband, Lahren noted during the conversation. So, if that s what you want your kids to be watching, if that s what you want to be forming their ideas and their world view on, by all means. Tomi Lahren on Ms. Rachel: This person on your screen is Hasan Piker in overalls and a stupid headband pic.twitter.com/w6b74pvf5Z &mdash; Acyn (@Acyn) October 4, 2026 As Lahren went on, she took aim at Ms. Rachel s appearance, adding, There she looks age appropriate in that one photo. Listen, you can be a leftie and you can be like, a kids educator, right? And you can be like, I m a Democrat, whatever, she continued. But when you go so far as to advocate for things like Hamas, Palestine and you cloud people s judgement on what exactly a genocide is and who s to blame and you talk about Israel then you are not a children s educator anymore. You re a political activist. Like I said, Hasan Piker in a headband and overalls. So, parents, if that s what you want, 
 
 ## Collider
 
-### Prime Video Could Revive ’Spider-Man’s Most Controversial Comic Into a Live-Action Series
-Mon, 05 Oct 2026 21:22:11 GMT — https://collider.com/prime-video-spider-man-clone-saga-controversial-comic-history-second-chance/
+### BBC’s New Charles Dickens Adaptation Officially Sets Up ‘Sherlock’ Reunion
+Tue, 06 Oct 2026 11:30:11 GMT — https://collider.com/chales-dickens-the-brides-chamber-bbc-adaptation-martin-freeman/
 
-Although Spider-Noir may have lasted only a single season, Prime Video isn't leaving the Spider-Verse behind. News broke last week that the streamer is developing a new Spider-Man series from Kelvin Yu ( American Born Chinese ), as part of a deal between Amazon MGM Studios and Sony Pictures Television to develop series based on Marvel Comics characters. The Spider-Men at the center of this new series are raising eyebrows, as a report from Deadline revealed that the series draws on the infamous Clone Saga storyline in the Spider-Man comics, focusing on Peter Parker's clones, Ben Reilly and Kaine Parker.
+October is here, and although that means that the spooky season is in full swing, it also delivers the first starry glint of the festive season on the horizon. Christmas is a time for tradition, especially on television, as global viewers sit down to watch their favorite returning shows at the most wonderful time of the year. For viewers across the pond in the UK, for the past nine years, this has meant settling down with a hot drink and catching the latest Ghost Story for Christmas on the BBC .
 
-### Captain America Star Confirms 'Avengers: Doomsday' Fate
-Mon, 05 Oct 2026 21:16:14 GMT — https://collider.com/anthony-mackie-avengers-doomsday-captain-america-filming-secret-wars/
+### The 10 Greatest Fantasy Cult Classic Movies, Ranked
+Tue, 06 Oct 2026 11:03:11 GMT — https://collider.com/best-fantasy-cult-classic-movies-ranked/
 
-Marvel created a ton of questions about its next big crossover event when the first teasers for Avengers: Doomsday rolled out back in December and confirmed Chris Evans ' return to the MCU. The franchise has since passed the shield to Anthony Mackie 's Sam Wilson, who even got his own movie last year in Captain America: Brave New World , while Steve Rogers got to live the life he missed out on with Peggy Carter. Making matters more curious is the shot showing the former Sentinel of Liberty holding a child in his hands. This won't be a brief stay for the seasoned Avenger, as Evans himself has confirmed he'll be in the sequel, Avengers: Secret Wars , next year to some degree, but his successor's fate has been a bit more up in the air.
+From the dystopian intrigue of science fiction to the tantalizing terror of horror , there are several genres that can lay claim to being the greatest contributors to the ranks of cult classic cinema. Chief among them is fantasy , with the genre’s penchant for otherworldly wonder, magic and mysticism, and beautifully bizarre and bold story worlds imbuing it with a transfixing splendor that has appealed to niche audiences for decades.
 
-### 8 Marvel Films That Are Perfect From Start to Finish
-Mon, 05 Oct 2026 21:08:12 GMT — https://collider.com/marvel-films-perfect-start-to-finish/
+### 'Band of Brothers' Star Explains Why the HBO Classic Still Resonates 25 Years Later [Exclusive]
+Tue, 06 Oct 2026 11:00:12 GMT — https://collider.com/band-of-brothers-richard-speight-jr-hbo-miniseries-resonates-fans-stars/
 
-If there's one thing that's true, it's that when the 2000s came along, Marvel Comics characters took control of the superhero corner of cinema and never let go. For the most part, Marvel heroes have been on top for quite some time now. Whether a film is from the likes of the Marvel Cinematic Universe, 20th Century Fox, or Sony Pictures Entertainment, these heroes stay on top of the game. It's one thing to say this, but the proof of it is in the pudding—aka the quality of the majority of movies they've released.
+25 years ago today, HBO would still be airing new episodes of its acclaimed World War II miniseries Band of Brothers . Premiering in September 2001, the drama, inspired by Stephen E. Ambrose 's historical novel of the same name, landed like an atomic bomb on television, depicting the horrors of war in ways that felt terrifyingly real while honoring the sacrifices of those willing to brave them for their country. It was a harbinger of things to come on the small screen, being one of the earliest entries of the prestige television era with production values closer to those of co-creator Steven Spielberg 's Saving Private Ryan than the average program at the time. However, the series is remembered for so much more than the Emmys it won, how good it looked, or the fact that it was co-created by Spielberg and Tom Hanks .
 
-### The Fate of Stephen Colbert's New 'Lord of the Rings' Movie Is Officially Sealed
-Mon, 05 Oct 2026 21:01:12 GMT — https://collider.com/stephen-colbert-lord-of-the-rings-shadow-of-the-past-still-in-development/
+### Ben Affleck's 94% RT Crime Thriller Is a Paramount+ Blockbuster
+Tue, 06 Oct 2026 10:42:11 GMT — https://collider.com/ben-affleck-crime-gone-baby-gone-streaming-paramount-plus-october-2026/
 
-There are several mystical and fantastical worlds created on the pages of novels and then translated onto the big screen. Novel-to-screen adaptations have become a significant part of filmmaking, but there is one that reigns supreme above all. At the turn of the century, director Peter Jackson delivered a masterpiece that has gone on to define the genre of fantasy — The Lord of the Rings trilogy. Since then, the temptation to return to Middle-earth has been strong, even for Jackson himself, who went on to develop the critically panned trilogy, The Hobbit .
+Ben Affleck burst onto the scene as an actor in the late 1990s, establishing himself as an up-and-coming star with films such as Chasing Amy and Good Will Hunting , but it wasn’t until 2007 that he added a second chapter to his storied career: director. The crime drama Gone Baby Gone , currently enjoying a new life on Paramount+ , is an emotionally devastating debut that set him apart from other actors turned directors — not just because he didn’t put himself in front of the camera, but also because he revealed himself to be a filmmaker with a style influenced by the iconic directors he has previously collaborated with.
 
-### 3 Elite Series to Binge on Netflix This Week (Oct 5-9)
-Mon, 05 Oct 2026 20:47:11 GMT — https://collider.com/netflix-shows-binge-october-5-2026/
+### Sydney Sweeney’s $400 Million Thriller Officially Sets Its New Streaming Home
+Tue, 06 Oct 2026 10:30:11 GMT — https://collider.com/the-housemaid-streaming-on-hbo-max-october-9-2026/
 
-Following the dominance of Ryan Murphy 's Monster: The Lizzie Borden Story , Netflix found its latest all-conquering hit courtesy of the historical drama genre. An adaptation of John Steinbeck 's celebrated 1952 family saga, East of Eden has shot straight to the top of the Netflix streaming charts following its acclaimed debut, with plenty of praise going to Florence Pugh . She is joined in a stellar cast by the likes of Mike Faist , Poor Things ' Christopher Abbott , and Warrior 's Hoon Lee . But East of Eden isn't the only series worth watching this week. To help you discover more, here's a look at three shows you should binge on Netflix this week .
+Although she is never far from controversy, there's no denying the popularity of Sydney Sweeney . One of the most talked-about actors of the past couple of years, Sweeney is rarely away from the headlines. Following her spotlight-stealing role in Euphoria 's third season, Sweeney has a lot on her slate, including a new Netflix adaptation inspired by the popular Japanese Gundam animated series , alongside Harry Potter's Jason Isaacs , Noah Centineo , Nonso Anozie , Shioli Kutsuna , and Michael Mando .
 
-### BBC’s Near-Perfect Detective Series Is Officially One of 2026’s Biggest Hits
-Mon, 05 Oct 2026 20:30:12 GMT — https://collider.com/the-bbc-near-perfect-detective-series-ludwig-most-watched-show-2026/
+### The 25 Most Powerful Robots in Transformers, Ranked
+Tue, 06 Oct 2026 10:27:11 GMT — https://collider.com/transformers-robots-powerful-ranked/
 
-Following a highly successful second season that drew millions of dedicated viewers, this British detective drama has now secured a top spot on an all-time favorite list. The series, set in Cambridge, England, centers on a professional word puzzle creator who goes undercover as his missing detective twin. While investigating his brother's disappearance , he realizes that legal mysteries are essentially puzzles, and he is uniquely qualified to solve them. Season 2 picks up directly where Season 1 ended, with him tackling impossible crimes for the Cambridge Police Authority.
+The Transformers series has some explosive films . Part of that is due to Michael Bay 's obsession with them and his ability to make a loud and action-packed movie like few others, but it's also due to just how powerful the Cybertronians are. Because if someone's going to make a franchise about robots fighting each other, they have to be pretty darn powerful.
 
-### Avengers: Doomsday’ Officially Reveals First Look at Franklin Richards
-Mon, 05 Oct 2026 20:27:05 GMT — https://collider.com/avengers-doomsday-franklin-richards-first-look-funko-pops/
+### Say Goodbye to the Version of 'The Witcher' You Thought You Knew
+Tue, 06 Oct 2026 10:08:11 GMT — https://collider.com/the-witcher-audiobook-full-cast-orbit/
 
-Marvel fans have had a lot to be excited about this year, especially on the big screen, even though there will only be two new movies instead of some recent years, which produced three. The first Marvel movie of 2026, Spider-Man: Brand New Day , has found tremendous success at the box office by becoming one of the few films in history to reach $2.5 billion globally. Marvel has also released new seasons of TV shows such as Daredevil: Born Again and X-Men ‘97 , while also introducing a new series in Wonder Man . Fans were led to believe that Wonder Man would be on the air for a while, but after Marvel initially renewed the series for Season 2, the studio later went back and announced that the show would be canceled.
+Netflix's The Witcher is one of the streamer's most popular fantasy series, with four action-packed seasons following Geralt ( Henry Cavill and Liam Hemsworth ), Ciri ( Freya Allan ), and Yennefer ( Anya Chalotra ) through a tumultuous adventure. Season 5 is now expected in 2027 , after a delay, with Netflix previously confirming that it will wrap up the story. While the impending conclusion means fans will soon say goodbye to these beloved characters, it's not really the end because the Netflix show is only a fraction of the larger Witcher franchise .
 
-### 'Abbott Elementary' Season 5 Recap: What To Remember Before Quinta Brunson's ABC Sitcom Returns
-Mon, 05 Oct 2026 20:24:12 GMT — https://collider.com/abbott-elementary-season-5-recap/
+### Steven Spielberg's 4 Best Drama Movies, Ranked
+Tue, 06 Oct 2026 10:06:11 GMT — https://collider.com/steven-spielberg-drama-movies-best-ranked/
 
-Abbott Elementary has remained one of TV's best sitcoms for five seasons, with its hilarious characters and often ridiculous situations. And the series isn't over yet. With Season 6 's impending premiere, it's time to look back because, like any series, the story builds on itself. Though most episodes of the hit ABC series can stand alone, certain storylines have been developing over time, and Season 5 pushes them further. Taking the audience everywhere, from the school to an abandoned mall to a Philadelphia Phillies game ( in one groundbreaking episode ), the latest installment is particularly eventful, but it also sets up plenty for the future. With new faces, a building that's falling apart, and plenty of personal drama, Season 5 of Abbott Elementary is an exciting addition to the series, and Season 6 promises even more of the well-meaning antics and hilarious plans that fans love.
+When you take away the dinosaurs, spaceships, sharks, and adventure serials, Steven Spielberg gets strangely intimate. His laid-back dramas do not shrink the stakes but instead, make them personal.
 
-### 10 Forgotten '80s Anime That Have Aged Like Fine Wine
-Mon, 05 Oct 2026 20:05:12 GMT — https://collider.com/forgotten-80s-anime-aged-like-fine-wine/
+### Star Wars Is Finally Fixing One of the Sequel Trilogy’s Biggest Kylo Ren Gaps [Exclusive]
+Tue, 06 Oct 2026 10:00:11 GMT — https://collider.com/charles-soule-the-fall-of-kylo-ren-answer-burning-questions-marvel-comics/
 
-As one of the most popular media in the world, there are plenty of anime shows available, including near-universally known ones like One Piece and Demon Slayer . However, with so many series, it is only natural that plenty of worthwhile efforts have been forgotten, which is especially true for the works of the 1980s. Since it was over 40 years ago, even the most popular anime from this decade has fallen out of favor with mainstream audiences, with some becoming outright forgotten.
+For as contentious as the Star Wars sequel trilogy is, it did at least provide the franchise with one of its most enduring modern characters in Kylo Ren. A standout performance by Adam Driver helped elevate the villain to greatness by capturing his emotional depth as the son of Han Solo and Leia Organa, who turned to the dark side and became the supreme leader of the First Order. From his final confrontation with his father to his monologues, his wrestling with his actions and whether to return to the light, and ultimately a redemption arc that cost him his life but saved his family legacy, all the pieces were in place to construct a layered antagonist worthy of following up the legendary Darth Vader. Yet, there's so much left untold about the character that has only more recently been addressed in the comics.
 
-### More Than a Month Later, Guy Ritchie’s Crime Drama Is Still Dominating Netflix
-Mon, 05 Oct 2026 20:00:12 GMT — https://collider.com/the-gentlemen-east-of-eden-streaming-hit-netflix-october-2026/
+### Warner Bros. Officially Removes Fantasy Sequel From 2,100 Theaters
+Tue, 06 Oct 2026 09:30:11 GMT — https://collider.com/practical-magic-2-sandra-bullock-nicole-kidman-box-office-removed-from-2100-theaters/
 
-Having now spent 100 days in the Paramount+ top ten, there's plenty of reason to consider MobLand the best of Guy Ritchie 's small-screen projects. Recently, Tom Hardy 's Harry Da Souza returned for the second season of this gritty Peaky Blinders alternative, with the narrative turned inward as a fight for control of the criminal enterprise simmers. But this wasn't the only Ritchie series to recently debut a second season, as Eddie Horniman ( Theo James ) and Susie Glass ( Kaya Scodelario ) returned to an excited Netflix audience.
+This past weekend was particularly difficult for Warner Bros., in more ways than one. The legendary studio's takeover and subsequent rebranding by Paramount appear to have taken effect, while its ambitious new movie Digger delivered a historic underperformance at the box office. Starring Tom Cruise , Digger grossed $20 million worldwide in its opening weekend , against a budget that some have reported to be as high as $180 million. It will go down in history as the final film in Warner Bros.' run as an independent entity, as well as one of the biggest box-office bombs of its kind. The film's release also marked the departure of studio chiefs Pam Abdy and Michael De Luca , whose tenure saw W.B. attain unmatched highs and incredible lows. After delivering seven straight movies that opened north of $40 million at the domestic box office in 2025, the studio has had a rough 2026. One of its biggest underperformers is a sequel to a cult classic '90s film.
 
