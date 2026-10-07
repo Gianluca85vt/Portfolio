@@ -1,6 +1,21 @@
-# AI — harvested 2026-10-07T11:20:28.232Z
+# AI — harvested 2026-10-07T19:31:26.275Z
 
 ## OpenAI
+
+### Helping teens learn, plan, and shape the future of AI
+Wed, 07 Oct 2026 12:00:00 GMT — https://openai.com/index/teens-learn-and-plan
+
+College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.
+
+### Radisson Hotel Group brings hotel discovery into ChatGPT
+Wed, 07 Oct 2026 07:00:00 GMT — https://openai.com/index/radisson
+
+Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.
+
+### GPT-6 and Intelligent UI for everyone
+Wed, 07 Oct 2026 00:00:00 GMT — https://openai.com/index/gpt-6-for-everyone
+
+GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
 
 ### How Jump Trading is scaling quant research with ChatGPT
 Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/jump-trading
@@ -22,15 +37,13 @@ Tue, 06 Oct 2026 16:00:00 GMT — https://openai.com/index/atlassian-partnership
 
 Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
 
-### Our approach to EU text provenance rules
-Mon, 05 Oct 2026 15:00:00 GMT — https://openai.com/index/eu-text-provenance
-
-How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
-
 ## Hugging Face
 
-### Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance
-Tue, 06 Oct 2026 06:44:39 GMT — https://huggingface.co/blog/tiiuae/falcon-emirati
+### Multimodal open d1 decision models for the edge
+Wed, 07 Oct 2026 16:54:33 GMT — https://huggingface.co/blog/LiquidAI/open-d1
+
+### One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO
+Wed, 07 Oct 2026 12:45:31 GMT — https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 
 ## Google DeepMind
 

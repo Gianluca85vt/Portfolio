@@ -1,72 +1,97 @@
-# Manga — harvested 2026-10-07T11:20:28.232Z
+# Manga — harvested 2026-10-07T19:31:26.275Z
 
 ## Anime News Network
 
-### The Moon on a Rainy Night Anime's 1st Video Reveals Cast, More Staff
-Wed, 07 Oct 2026 03:43:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-moon-on-a-rainy-night-anime-1st-video-reveals-cast-more-staff/.242577
+### Overlord [Shin] Sekai-hen Manga Goes on Hiatus Due to Artist Matsuki's Hospitalization
+Wed, 07 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/overlord-shin-sekai-hen-manga-goes-on-hiatus-due-to-artist-matsuki-hospitalization/.242588
 
-Iori Saeki plays Saki Kindaichi, Sora Amamiya plays Kanon Oikawa in 2027 anime
+Matsuki debuted sequel manga in April 2024
 
-### Babanba Banban Vampire Manga Listed to Enter 'Final Stage'
-Wed, 07 Oct 2026 03:32:55 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/babanba-banban-vampire-manga-listed-to-enter-final-stage/.242566
+### Marvel Tōkon: Fighting Souls Game's Trailer Reveals November 2 Release for Phoenix Cyclops DLC
+Wed, 07 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/marvel-tokon-fighting-souls-game-trailer-reveals-november-2-release-for-phoenix-cyclops-dlc/.242591
 
-Manga to enter final stage with 15th volume out on December 8
+<cite>X-Men '97</cite> Cyclops' voice actor Ray Chase voices DLC character
 
-### You Are a Four Leaf Clover Romantic Suspense Manga to End in 12th Volume
-Wed, 07 Oct 2026 02:50:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/you-are-a-four-leaf-clover-romantic-suspense-manga-to-end-in-12th-volume/.242563
+### Love Through a Prism Anime Gets Novel Adaptation
+Wed, 07 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/love-through-a-prism-anime-gets-novel-adaptation/.242585
 
-Volume 12 ships on December 8
+Both volumes ship on December 4
 
-### Sega Opens Sonic the Hedgehog Discord Server
-Wed, 07 Oct 2026 02:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-07/sega-opens-sonic-the-hedgehog-discord-server/.242535
+### DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Game Review
+Wed, 07 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/dragon-quest-xi-s/echoes-of-an-elusive-age-definitive-edition/.242330
 
-And it went as chaotically as we expected
+An already beautiful game and a spectacular RPG... hobbled by Square Enix's bad business decisions.
 
-### Live-Action Can You Kiss Me First? Series' Teaser Reveals Theme Song
-Tue, 06 Oct 2026 23:56:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/live-action-can-you-kiss-me-first-series-teaser-reveals-theme-song/.242561
+### MediaOCD Announces Deal to Sell Select Aniplex of America Anime on Blu-ray Disc
+Wed, 07 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/mediaocd-announces-deal-to-sell-select-aniplex-of-america-anime-on-blu-ray-disc/.242576
 
-Urashimasakatasen sings theme song "Shiranai"
+<cite>Gurren Lagann</cite>, <cite>Mashle: Magic and Muscles</cite> BDs now available on MediaOCD's website
 
-### Tune in to the Midnight Heart Manga Goes on 1-Week Hiatus Due to Creator's Health
-Tue, 06 Oct 2026 22:19:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/tune-in-to-the-midnight-heart-manga-goes-on-1-week-hiatus-due-to-creator-health/.242559
+### Manga Up! Global Adds Magical Girl Recruiter Puicho!, Bitter Knight in My Sweet Café, 3 More Manga
+Wed, 07 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/manga-up-global-adds-magical-girl-recruiter-puicho-bitter-knight-in-my-sweet-cafe-3-more-manga/.242507
 
-Masakuni Igarashi slated to resume manga on October 14
+Service also adds <cite>VAMPXIA, 100 Things the Sheltered Lady and This Commoner Want to Do, We Are All D***</cite>
 
-### Kai-hen Wizards Manga to Publish 'Series Finale' on October 14
-Tue, 06 Oct 2026 22:07:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/kai-hen-wizards-manga-to-publish-series-finale-on-october-14/.242558
+### Red River ‒ Episode 14
+Wed, 07 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-14/.242584
 
-<i>Kekkaishi's</i> Yellow Tanabe launched manga in September 2024
+Ramses may be a great Pharoah later, but as of right now, he’s just some cocky bastard who, of course, is fascinated by Yuri.
 
-### Live-Action My Sister's Boyfriend Film Casts Taisuke Niihara
-Tue, 06 Oct 2026 21:51:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/live-action-my-sister-boyfriend-film-casts-taisuke-niihara/.242557
+### Exclusive: Viz Hosts Signing Tour for GalaXic Baseball League Comic Artist Acky Bright
+Wed, 07 Oct 2026 09:15:30 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/exclusive-viz-hosts-signing-tour-for-galaxic-baseball-league-comic-artist-acky-bright/.242574
 
-<i>At 25:00, in Akasaka</i> actor plays newbie assistant producer Amamiya
+Tour for interplanetary baseball series featuring real-life baseball players begins on October 13 in New York
 
-### NieR:Automata's 2B & A2 Survive the Night in Dead by Daylight Collaboration
-Tue, 06 Oct 2026 18:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-06/nier-automata-2b-and-a2-survive-the-night-in-dead-by-daylight-collaboration/.242543
+### INTERVIEW: Tokyo Revengers Voice Cast
+Wed, 07 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-tokyo-revengers-voice-cast/.239581
 
-Will they weather the horror of being hunted by Emil?
+We had the opportunity to interview the intense yet jovial Yūki Shin, Yuu Hayashi, and Masaya Fukunishi and explore how their understanding of their characters has evolved after spending so much time with them.
 
-### Toshiaki Yamada's Tokyo Duel Manga Ends
-Tue, 06 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/toshiaki-yamada-tokyo-duel-manga-ends/.242534
+### Interview with Takako Shimura, Creator of the Scenes of AWAJIMA Manga
+Wed, 07 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-07/with-takako-shimura-creator-of-the-scenes-of-awajima-manga/.241507
 
-Action manga launched in 2020
+This past spring, Scenes From Awajima anime explored a kaleidoscope of perspectives as they filtered through the hallowed and haunted halls of its titular school. We asked manga author Takako Shimura (Sweet Blue Flowers, Wandering Son) about the series' origins, influences, and how it relates to her other works.
 
-### Monster Hunter Rise Game Sells 20 Million Copies Worldwide
-Tue, 06 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/monster-hunter-rise-game-sells-20-million-copies-worldwide/.242547
+### Walking Home with You Anime Unveils April 2027 TV Debut
+Wed, 07 Oct 2026 08:00:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/walking-home-with-you-anime-unveils-april-2027-tv-debut/.242581
 
-Game launched in March 2021
+Anime of Mai Matsuda's romantic comedy manga announced in March 2025
 
-### Crunchyroll Streams New Battle Spirits TV Anime
-Tue, 06 Oct 2026 15:30:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/crunchyroll-streams-new-battle-spirits-tv-anime/.242553
+### Code Geass: Lost Stories Game to End Service on December 7
+Wed, 07 Oct 2026 06:32:26 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/code-geass-lost-stories-game-to-end-service-on-december-7/.242579
 
-Anime premiered on Tuesday
+Smartphone/PC game launched in 2022
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Reincarnated as a Sword Season 2 Creditless Opening Featuring FZMZ's "DREAM OF BUTTERFLY" Released
+Wed, 07 Oct 2026 17:55:48 GMT — https://animecorner.me/reincarnated-as-a-sword-season-2-creditless-opening-featuring-fzmzs-dream-of-butterfly-released/
+
+Reincarnated as a Sword Season 2 has released its creditless opening sequence featuring FZMZ's “DREAM OF BUTTERFLY.”
+
+### Black Clover Season 2 Episode 2 Preview and Synopsis Revealed
+Wed, 07 Oct 2026 13:27:52 GMT — https://animecorner.me/black-clover-season-2-episode-2-preview-and-synopsis-revealed/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 2 (Episode 172 overall) ahead of its October 10 premiere.
+
+### Kagurabachi Anime Casts Yuichi Nakamura as Soshiro Azami, New Character Trailer and Visual Revealed
+Wed, 07 Oct 2026 13:20:14 GMT — https://animecorner.me/kagurabachi-anime-casts-yuichi-nakamura-as-soshiro-azami-new-character-trailer-and-visual-revealed/
+
+KAGURABACHI anime has cast Yuichi Nakamura as Soshiro Azami, introducing the character with a new visual and dedicated trailer.
+
+### Summer 2026 Seiyuu of the Season Rankings
+Wed, 07 Oct 2026 13:10:00 GMT — https://animecorner.me/summer-2026-seiyuu-of-the-season-rankings/
+
+The Summer 2026 anime season has come to a close, and so has our&hellip;
+
+### Code Geass: Lelouch of the Rebellion Lost Stories to End Service on December 7, Offline Memorial Version Planned
+Wed, 07 Oct 2026 13:09:31 GMT — https://animecorner.me/code-geass-lelouch-of-the-rebellion-lost-stories-to-end-service-on-december-7-offline-memorial-version-planned/
+
+Code Geass: Lelouch of the Rebellion Lost Stories will end service on December 7,&hellip;
 
 ### Cygames Breeders’ Cup Sprint Returns as Cygames and Breeders’ Cup Renew Partnership
 Wed, 07 Oct 2026 08:53:19 GMT — https://animecorner.me/cygames-breeders-cup-sprint-returns-as-cygames-and-breeders-cup-renew-partnership/
@@ -92,11 +117,6 @@ Oni Press and Magnetic Press have launched a Kickstarter campaign for A Scoundre
 Tue, 06 Oct 2026 10:07:39 GMT — https://animecorner.me/a-world-space-week-pokemon-x-esa-collaboration-has-launched/
 
 The world is currently celebrating World Space Week. And as part of that celebration,&hellip;
-
-### Exclusive: Wandering Planet Toys Reveals Showa WarLor Ahead of New York Comic Con 2026
-Mon, 05 Oct 2026 14:27:46 GMT — https://animecorner.me/exclusive-wandering-planet-toys-reveals-showa-warlor-ahead-of-new-york-comic-con-2026/
-
-Wandering Planet Toys has revealed the Showa WarLor, a new addition to its Planetoid&hellip;
 
 ## MyAnimeList News
 
@@ -124,11 +144,6 @@ An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yam
 Mon, 05 Oct 2026 12:41:35 -0700 — https://myanimelist.net/news/74794281?_location=rss
 
 Here are the North American anime, manga, and light novel releases for October. Week 1: October 6 - 12 Anime Releases Devil Survivor 2 The Animation Blu-ray Manga Releases Boku ga Watashi ni Naru Tame ni (My Journey to Her) Boruto: Two Blue Vortex Vol.6 Dandadan Vol.21 Dekiru Neko wa Kyou mo Yuuutsu (The Masterful Cat Is Depressed Again Today) Vol.12 Dororo to Hyakkimaru Den (The Legend of Dororo and Hyakkimaru) Vol.12 Endan Yobanashi (Grim Night Tales) Vol.3 Fushigi Yuugi: Byakko Senki (Fushigi...
-
-### Akazukin, Tabi no Tochuu de Shitai to Deau. Reveals Additional Cast, Staff, First Promo for Winter 2027
-Mon, 05 Oct 2026 05:26:10 -0700 — https://myanimelist.net/news/74793294?_location=rss
-
-The official website for the television anime adaptation of Aito Aoyagi s Akazukin, Tabi no Tochuu de Shitai to Deau. (Red Riding Hood: A Detective Story) novel revealed additional cast, staff, first key visual (pictured), and first promotional video on Monday. The anime is scheduled to premiere in January 2027 on Tokyo MX, BS-NTV, and Yomiuri TV. Cast Jill: Takuya Satou (Super no Ura de Yani Suu Futari) Antonio: Atsushi Tamaru (Nanatsu no Maken ga Shihai suru) Rodrigo: Motoko Kumai (Cardca...
 
 ## Otaku USA
 
