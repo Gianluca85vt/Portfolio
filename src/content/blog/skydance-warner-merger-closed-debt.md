@@ -15,7 +15,6 @@ artistView:
     - "Pipeline: one streaming destination instead of two eventually means one delivery spec, one mastering ladder and one QC gate, which is real relief for any facility currently maintaining both."
   misses:
     - "Pipeline: two asset management systems, two colour configs, two vendor rosters and two security audit regimes do not merge on a town-hall timetable, and work in flight gets routed through whichever half of the org still answers email."
-draft: true
 ---
 
 The Warner Bros. water tower in Burbank was repainted on Tuesday morning. A new
