@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Skydance closes the Warner merger">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#B2456E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6" fill="#F3D9E4" opacity="0.75">FILM &amp; TV</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="190" font-weight="700" fill="#FFFFFF">$111bn</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#FFFFFF">Paramount + Warner closes as Skydance</text>
+  <text x="80" y="492" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#F3D9E4" opacity="0.9">30 films a year, on a downgraded balance sheet</text>
+  <rect x="80" y="545" width="300" height="5" fill="#F3D9E4" opacity="0.6"/>
+</svg>
