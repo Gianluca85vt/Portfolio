@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Cosmoship Yamato root 2199: two directors share the design works credit">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Georgia, serif" font-size="34" fill="#F3E7C8" opacity="0.72">Cosmoship Yamato &#8730;2199</text>
+  <text x="80" y="310" font-family="Georgia, serif" font-size="150" font-weight="bold" fill="#FFFFFF">2 directors</text>
+  <text x="80" y="420" font-family="Georgia, serif" font-size="78" fill="#F3E7C8">1 design credit</text>
+  <text x="80" y="500" font-family="Georgia, serif" font-size="30" fill="#F3E7C8" opacity="0.8">Production I.G and Khara, first joint film</text>
+</svg>
