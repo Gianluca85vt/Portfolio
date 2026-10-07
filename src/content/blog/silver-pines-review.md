@@ -32,7 +32,6 @@ artistView:
     - "Art direction: painted backgrounds with a locked camera means every frame can be composed once and left alone, so the budget goes into the few square metres on screen instead of a whole navigable set."
   misses:
     - "Animation: rotoscope welds a performance to its recorded timing, so interruptible moves — turning on the spot, aborting an action — are the ones that tend to read as mushy, and reviewers describe exactly that stickiness in combat."
-draft: true
 ---
 
 A first-time studio decided to rotoscope a horror game. That is the detail
