@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Tripo P2.0 native quad meshes capped at 25,000 faces">
+  <defs>
+    <linearGradient id="bgT" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3A1A10"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgT)"/>
+
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold">
+    <text x="600" y="130" font-size="28" letter-spacing="7" fill="#FFFFFF" fill-opacity="0.5">TRIPO P2.0 — 21 SEPTEMBER 2026</text>
+
+    <text x="600" y="330" font-size="170" font-weight="900" fill="#FFFFFF" font-family="Arial Black, Arial, Helvetica, sans-serif">25,000</text>
+    <text x="600" y="400" font-size="40" letter-spacing="5" fill="#FFFFFF" fill-opacity="0.85">QUAD FACES, MAXIMUM</text>
+
+    <text x="600" y="462" font-size="29" fill="#FFFFFF" fill-opacity="0.52">against 50,000 for triangles</text>
+  </g>
+
+  <!-- quad grid, left: clean. right: triangles creeping in -->
+  <g stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="2" fill="none">
+    <path d="M90 600 H560 M90 680 H560 M90 760 H560 M90 600 V760 M208 600 V760 M326 600 V760 M444 600 V760 M560 600 V760"/>
+  </g>
+  <g stroke="#BE4C00" stroke-opacity="0.85" stroke-width="2.5" fill="none">
+    <path d="M640 600 H1110 M640 680 H1110 M640 760 H1110 M640 600 V760 M758 600 V760 M876 600 V760 M994 600 V760 M1110 600 V760"/>
+    <path d="M640 600 L758 680 M876 680 L994 760 M758 680 L876 600 M994 600 L1110 680"/>
+  </g>
+  <g text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#FFFFFF" fill-opacity="0.55">
+    <text x="325" y="820">quads</text>
+    <text x="875" y="820">quad-dominant</text>
+  </g>
+</svg>

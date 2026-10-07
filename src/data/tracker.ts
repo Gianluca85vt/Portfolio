@@ -35,6 +35,28 @@ export type TrackedRelease = {
 
 export const tracker: TrackedRelease[] = [
   {
+    tool: 'Tripo',
+    maker: 'Tripo AI',
+    version: 'P2.0',
+    status: 'stable',
+    date: '2026-09-21',
+    changed: [
+      'Generates quad-dominant meshes natively, rather than triangulating and leaving retopology to a separate pass.',
+      'Quad output runs 500 to 25,000 faces; triangle output runs 500 to 50,000. Choosing quads halves the face ceiling.',
+      'Adds several variants per prompt and a Mesh Edit mode over the August P2.0 Preview, which produced triangles only.',
+    ],
+    watch: [
+      'The output is described as quad-dominant, not pure quad, so some triangles remain in the mesh.',
+      'At 25,000 quad faces the budget suits props and set dressing; a hero character head can use most of it on its own.',
+      'The quad percentages and the part-separation claim are the maker\'s own, reported by the trade press; no independent test has been published.',
+    ],
+    piece: '/blog/tripo-p2-native-quad-meshes-face-cap/',
+    sources: [
+      { label: 'VoxelMatters', url: 'https://www.voxelmatters.com/tripo-ai-launches-p2-0-model-to-generate-native-quad-meshes-for-production-pipelines/' },
+      { label: '3Dnatives', url: 'https://www.3dnatives.com/de/tripo-ai-sammelt-3-milliarden-yuan-3d-modellgenerator-23092026/' },
+    ],
+  },
+  {
     tool: 'Cinema 4D',
     maker: 'Maxon',
     version: '2026.4',
