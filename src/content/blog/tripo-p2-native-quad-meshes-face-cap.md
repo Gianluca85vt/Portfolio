@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Topology: quad-dominant output leaves its triangles where curvature gets hardest, and on a deforming mesh that is mouth, elbow and shoulder territory."
     - "Budget: 25,000 quad faces against 50,000 triangles halves the ceiling for the format you can rig, which puts hero characters out of reach for now."
-draft: true
 ---
 
 Two numbers sit in Tripo P2.0's spec sheet and between them they describe the whole release. Triangle meshes: 500 to 50,000 faces. Quad meshes: 500 to 25,000. Same model, same prompt, half the face budget if you want topology a pipeline will take without an argument.
