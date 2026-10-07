@@ -1,72 +1,87 @@
-# Manga — harvested 2026-10-06T19:04:06.965Z
+# Manga — harvested 2026-10-07T11:20:28.232Z
 
 ## Anime News Network
 
-### A Returner's Magic Should Be Special Season 2 Anime Reveals Same-Day Dub Release, Cast
-Tue, 06 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/a-returner-magic-should-be-special-season-2-anime-reveals-same-day-dub-release-cast/.242551
+### The Moon on a Rainy Night Anime's 1st Video Reveals Cast, More Staff
+Wed, 07 Oct 2026 03:43:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-moon-on-a-rainy-night-anime-1st-video-reveals-cast-more-staff/.242577
 
-Season debuts on Wednesday
+Iori Saeki plays Saki Kindaichi, Sora Amamiya plays Kanon Oikawa in 2027 anime
 
-### Hyakusho Kizoku-the farmer's days (Seasons 1-3) Anime Review
-Tue, 06 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/hyakusho-kizoku-the-farmer-days/anime/.242063
+### Babanba Banban Vampire Manga Listed to Enter 'Final Stage'
+Wed, 07 Oct 2026 03:32:55 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/babanba-banban-vampire-manga-listed-to-enter-final-stage/.242566
 
-It's refreshing and sweet to hear about what influenced Arakawa.
+Manga to enter final stage with 15th volume out on December 8
 
-### CloverWorks' Omnibus Anime Film Grotesqqque Previews 'Nocturne' in New Trailer
-Tue, 06 Oct 2026 11:39:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/cloverworks-omnibus-anime-film-grotesqqque-previews-nocturne-in-new-trailer/.242548
+### You Are a Four Leaf Clover Romantic Suspense Manga to End in 12th Volume
+Wed, 07 Oct 2026 02:50:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/you-are-a-four-leaf-clover-romantic-suspense-manga-to-end-in-12th-volume/.242563
 
-Video features Kairi Yagi's insert song "Tiny Luck"
+Volume 12 ships on December 8
 
-### Gundam: Rogue Orbit Game's Walkthrough Trailer Previews Combat, Customization
-Tue, 06 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/gundam-rogue-orbit-game-walkthrough-trailer-previews-combat-customization/.242546
+### Sega Opens Sonic the Hedgehog Discord Server
+Wed, 07 Oct 2026 02:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-07/sega-opens-sonic-the-hedgehog-discord-server/.242535
 
-Game launches for PS5, Xbox X|S, PC on March 5, 2027
+And it went as chaotically as we expected
 
-### Our Blood Oath's Kazu Kakazu Launches Yosuga Tagurite Manga Series
-Tue, 06 Oct 2026 09:03:06 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/our-blood-oath-kazu-kakazu-launches-yosuga-tagurite-manga-series/.242527
+### Live-Action Can You Kiss Me First? Series' Teaser Reveals Theme Song
+Tue, 06 Oct 2026 23:56:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/live-action-can-you-kiss-me-first-series-teaser-reveals-theme-song/.242561
 
-Manga about half-<i>yōkai</i> boy launches on vertical Jump Toon service on Friday
+Urashimasakatasen sings theme song "Shiranai"
 
-### emaqi Service Adds Streaming Under My Control, The Soldier Groom and the Daikon Bride, Shin Ikki Tousen, 8 More Manga
-Tue, 06 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/emaqi-service-adds-streaming-under-my-control-the-soldier-groom-and-the-daikon-bride-shin-ikki-/.242468
+### Tune in to the Midnight Heart Manga Goes on 1-Week Hiatus Due to Creator's Health
+Tue, 06 Oct 2026 22:19:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/tune-in-to-the-midnight-heart-manga-goes-on-1-week-hiatus-due-to-creator-health/.242559
 
-Service also adds Kill Me Baby, Song of the Thirty-Year-Olds' Blues, Time Traveler's Disease, A Meal by Moonlight, more
+Masakuni Igarashi slated to resume manga on October 14
 
-### Short Net Anime Studio Plott to Start Producing Over-the-Air TV Anime
-Tue, 06 Oct 2026 08:37:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/short-net-anime-studio-plott-to-start-producing-over-the-air-tv-anime/.242542
+### Kai-hen Wizards Manga to Publish 'Series Finale' on October 14
+Tue, 06 Oct 2026 22:07:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/kai-hen-wizards-manga-to-publish-series-finale-on-october-14/.242558
 
-Company launched YouTube short anime <cite>Rakuraku Hanten</cite> on September 18
+<i>Kekkaishi's</i> Yellow Tanabe launched manga in September 2024
 
-### Re:ZERO -Starting Life in Another World- Season 4 ‒ Episode 19
-Tue, 06 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/re-zero-starting-life-in-another-world-season-4/episode-19/.242528
+### Live-Action My Sister's Boyfriend Film Casts Taisuke Niihara
+Tue, 06 Oct 2026 21:51:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/live-action-my-sister-boyfriend-film-casts-taisuke-niihara/.242557
 
-I could go on at length about Emilia beating up an elderly Alzheimer's patient in the most creative fight scene that <cite>Re:Zero</cite> has ever had but let's talk about Flugel instead.
+<i>At 25:00, in Akasaka</i> actor plays newbie assistant producer Amamiya
 
-### The Fledgling Demon Lord's Starter Shop Anime's 2nd Teaser Reveals More Cast, January Debut
-Tue, 06 Oct 2026 05:35:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/the-fledgling-demon-lord-starter-shop-anime-2nd-teaser-reveals-more-cast-january-debut/.242541
+### NieR:Automata's 2B & A2 Survive the Night in Dead by Daylight Collaboration
+Tue, 06 Oct 2026 18:40:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-06/nier-automata-2b-and-a2-survive-the-night-in-dead-by-daylight-collaboration/.242543
 
-Yōhei Azakami joins cast as hero Ash
+Will they weather the horror of being hunted by Emil?
 
-### The Otome Heroine's Fight for Survival Anime's Teaser Unveils Staff, Cast, July 2027 Debut
-Tue, 06 Oct 2026 05:03:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/the-otome-heroine-fight-for-survival-anime-teaser-unveils-staff-cast-july-2027-debut/.242525
+### Toshiaki Yamada's Tokyo Duel Manga Ends
+Tue, 06 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/toshiaki-yamada-tokyo-duel-manga-ends/.242534
 
-Fūka Izumi plays Alicia in TV anime by Noriyoshi Sasaki, Studio Clutch, Seven
+Action manga launched in 2020
 
-### Metal Gear's Hideo Kojima Likens Current Japan to Nation Just Before World War II
-Tue, 06 Oct 2026 01:30:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-06/metal-gear-hideo-kojima-likens-current-japan-to-nation-just-before-world-war-ii/.242142
+### Monster Hunter Rise Game Sells 20 Million Copies Worldwide
+Tue, 06 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/monster-hunter-rise-game-sells-20-million-copies-worldwide/.242547
 
-Kojima: “It looks like Japan might get pulled into a war too … It's like <i>[pre-WWII]</i> Japan”
+Game launched in March 2021
 
-### Voice Actor Haruka Fukuhara Announces Marriage
-Mon, 05 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-05/voice-actor-haruka-fukuhara-announces-marriage/.242511
+### Crunchyroll Streams New Battle Spirits TV Anime
+Tue, 06 Oct 2026 15:30:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-06/crunchyroll-streams-new-battle-spirits-tv-anime/.242553
 
-Voice of Kaguya-sama: Love is War's Tsubame Koyasu married professional soccer player Takefusa Kubo
+Anime premiered on Tuesday
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Cygames Breeders’ Cup Sprint Returns as Cygames and Breeders’ Cup Renew Partnership
+Wed, 07 Oct 2026 08:53:19 GMT — https://animecorner.me/cygames-breeders-cup-sprint-returns-as-cygames-and-breeders-cup-renew-partnership/
+
+Cygames, Inc. has renewed its partnership with the Breeders' Cup for the third consecutive&hellip;
+
+### Ascendance of a Bookworm Part 4 Anime Announced
+Wed, 07 Oct 2026 07:29:47 GMT — https://animecorner.me/ascendance-of-a-bookworm-part-4-anime-announced/
+
+Ascendance of a Bookworm Part 4: Founder of the Royal Academy's So-Called Library Committee&hellip;
+
+### The Moon on a Rainy Night Reveals First Trailer, Main Cast
+Wed, 07 Oct 2026 06:12:02 GMT — https://animecorner.me/the-moon-on-a-rainy-night-reveals-first-trailer-main-cast/
+
+The previously announced The Moon on a Rainy Night anime revealed its first trailer along with the&hellip;
 
 ### Oni Press and Magnetic Press Launch A Scoundrel in the New World Kickstarter From Blacksad Artist Juanjo Guarnido and Alain Ayroles
 Tue, 06 Oct 2026 16:30:00 GMT — https://animecorner.me/oni-press-and-magnetic-press-launch-a-scoundrel-in-the-new-world-kickstarter-from-blacksad-artist-juanjo-guarnido-and-alain-ayroles/
@@ -84,6 +99,11 @@ Mon, 05 Oct 2026 14:27:46 GMT — https://animecorner.me/exclusive-wandering-pla
 Wandering Planet Toys has revealed the Showa WarLor, a new addition to its Planetoid&hellip;
 
 ## MyAnimeList News
+
+### Amayo no Tsuki Reveals Main Cast, Additional Staff, First Promo, 2027 Premiere
+Tue, 06 Oct 2026 23:49:07 -0700 — https://myanimelist.net/news/74798293?_location=rss
+
+The official website for the television anime adaptation of Kuzushiro s Amayo no Tsuki (The Moon on a Rainy Night) manga revealed the main cast, additional staff, and the first promotional video on Wednesday. The anime is scheduled to premiere in 2027. Voice actresses Sora Amamiya (Nijusseiki Denki Mokuroku) and Iori Saeki (Pon no Michi) are starring in the anime as Kanon Oikawa and Saki Kindaichi, respectively. Staff Assistant Director: Tsutomu Tomoyuki (Kizoku Tensei: Megumareta Umare kar...
 
 ### Sudachi no Maoujou Unveils Main Cast Member, Second Teaser Promo
 Tue, 06 Oct 2026 04:12:36 -0700 — https://myanimelist.net/news/74795794?_location=rss
@@ -110,29 +130,19 @@ Mon, 05 Oct 2026 05:26:10 -0700 — https://myanimelist.net/news/74793294?_locat
 
 The official website for the television anime adaptation of Aito Aoyagi s Akazukin, Tabi no Tochuu de Shitai to Deau. (Red Riding Hood: A Detective Story) novel revealed additional cast, staff, first key visual (pictured), and first promotional video on Monday. The anime is scheduled to premiere in January 2027 on Tokyo MX, BS-NTV, and Yomiuri TV. Cast Jill: Takuya Satou (Super no Ura de Yani Suu Futari) Antonio: Atsushi Tamaru (Nanatsu no Maken ga Shihai suru) Rodrigo: Motoko Kumai (Cardca...
 
-### Manga Vampire Juujikai Gets TV Anime For 2027
-Mon, 05 Oct 2026 02:48:43 -0700 — https://myanimelist.net/news/74793032?_location=rss
-
-Production company Pony Canyon opened an official website for the television anime adaptation of Kyou Shirodaira s Vampire Juujikai (The Record of a Fallen Vampire) on Monday revealing the main cast pair, staff, a teaser visual (pictured), and a teaser promo. The anime is scheduled to premiere in 2027. Voice actors Yuuma Uchida (Jujutsu Kaisen) and Aino Shimada (Kakkou no Iinazuke) are starring as Akabara Strauss and Bridget Irving Frostheart, respectively. Staff Director, Series Compositio...
-
-### Manga Hirayasumi Ends in Two Chapters
-Mon, 05 Oct 2026 00:17:43 -0700 — https://myanimelist.net/news/74792787?_location=rss
-
-The official X (formerly Twitter) account for author Keigo Shinzou announced on Monday that the Hirayasumi manga will end in two more chapters. Shinzou began drawing the manga in Big Comic Spirits in April 2021. Shogakukan published the tenth volume on April 30. VIZ Media licensed the manga in English in October 2023, with the latest ninth volume released on May 19. Hirayasumi was nominated for the 15th and 17th Manga Taisho. The manga also placed among the top 20 titles in the male readers cate...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### My Ex-Boyfriend Loves Boys Love Volume 1 Review
+Wed, 07 Oct 2026 09:00:18 +0000 — https://animeuknews.net/2026/10/my-ex-boyfriend-loves-boys-love-volume-1-review/
+
+Momo Akado is a Boys’ Love fan– but who should she meet in the BL department in her local bookstore but her ex-boyfriend, Suzuya Katakura? Could he be a fan too? A fun new otaku romcom from Square Enix Manga!
+
 ### Kizumonogatari: Koyomi Vamp Collector s Edition Review
 Tue, 06 Oct 2026 09:00:50 +0000 — https://animeuknews.net/2026/10/kizumonogatari-koyomi-vamp-collectors-edition-review/
 
 Kizumonogatari returns with a compilation film to cut down the original trilogy, but does it do justice to the beloved Monogatari franchise?
-
-### Fate/Grand Order Absolute Demonic Front: Babylonia Part 1 Collector s Edition Review
-Mon, 05 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/fate-grand-order-absolute-demonic-front-babylonia-part-1-collectors-edition-review/
-
-This extremely wordy entry into the Fate franchise is an adaptation of one of the later chapters of a popular gatcha mobile game. The creators of this anime promised you didn’t need to have played the game to enjoy this series, but is that really true?
 

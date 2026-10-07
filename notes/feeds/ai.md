@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-06T19:04:06.965Z
+# AI — harvested 2026-10-07T11:20:28.232Z
 
 ## OpenAI
+
+### How Jump Trading is scaling quant research with ChatGPT
+Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/jump-trading
+
+Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
+
+### Sharing AI progress in mathematics
+Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/sharing-ai-progress-in-mathematics
+
+OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
 
 ### Advancing computer use with Ironclad
 Tue, 06 Oct 2026 10:00:00 GMT — https://openai.com/index/advancing-computer-use-with-ironclad
@@ -17,11 +27,6 @@ Mon, 05 Oct 2026 15:00:00 GMT — https://openai.com/index/eu-text-provenance
 
 How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.
 
-### Building advertising for the way people use AI
-Mon, 05 Oct 2026 10:00:00 GMT — https://openai.com/index/new-chatgpt-ads-format-and-measurement
-
-OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.
-
 ## Hugging Face
 
 ### Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance
@@ -29,7 +34,8 @@ Tue, 06 Oct 2026 06:44:39 GMT — https://huggingface.co/blog/tiiuae/falcon-emir
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### EmbeddingGemma 2: an open, lightweight multimodal embedding model
+Tue, 06 Oct 2026 19:57:04 +0000 — https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/
 
 ## VentureBeat AI
 
