@@ -26,6 +26,11 @@ P2.0 shipped on 21 September. The trade coverage describes it as the first AI 3D
 
 ## Why quads, for anyone who has not had to care
 
+<figure>
+  <img src="/img/blog/tripo-p2-native-quad-meshes-face-cap/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Sphere wireframe, via Wikimedia Commons</figcaption>
+</figure>
+
 A quad mesh subdivides predictably, deforms predictably, and survives a human opening it up and moving things. Triangles manage none of that with any consistency. Character rigs, subdivision surfaces and sane UV layouts all assume four-sided faces, which is why "AI-generated 3D" has in practice meant AI-generated 3D that somebody then rebuilds by hand before it can go anywhere.
 
 So a generator that emits quads removes a step nobody enjoys and nobody bills as creative work.
