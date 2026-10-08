@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Presentation: the Canvas build draws state and little else, so the skid that made the original read as a car leaves no mark on the road behind it."
     - "Documentation: the write-up names the tyre behaviour as an approximation without printing the curve, and that curve is the part another programmer would want."
-draft: true
 ---
 
 Press 3 and the car becomes a brick.
