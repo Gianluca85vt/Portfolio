@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Credits: neither staff announcement lists sign-language supervision, and that is the credit that decides whether key animators are drawing from reference or from memory."
     - "Disclosure: no episode count, no month, no streaming partner, which makes it impossible to tell whether this is a 12-episode adaptation of a long-running manga or something that intends to finish the story."
-draft: true
 ---
 
 Hands are where 2D animation budgets go to die. Every frame is a fresh drawing,
