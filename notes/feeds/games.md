@@ -1,6 +1,31 @@
-# Games — harvested 2026-10-07T19:31:26.275Z
+# Games — harvested 2026-10-08T11:36:50.988Z
 
 ## Eurogamer
+
+### Blizzard is changing the appearance of WoW: Forever's new Skyborne race in response to community feedback
+Thu, 08 Oct 2026 11:35:03 +0000 — https://www.eurogamer.net/world-of-warcraft-forever-skyborne-character-model
+
+World of Warcraft: Forever's developers have announced drastic visual changes to the game's new Skyborne race following passionate community feedback. These include new in-game models that better represent the game's early MMO aesthetic, much to the community's delight. Read more
+
+### Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish "dream game" Space Corridor
+Thu, 08 Oct 2026 11:33:09 +0000 — https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators
+
+Google and Unity yesterday announced new generative-AI game-making platforms designed to make and shape games by inputting text prompts. Google's product is called Playground and is available for testing now, if you live in the US, and Unity's product is Unity Spark and is "coming soon". Read more
+
+### "What's the point of this if you're not feeling something?" Star Wars: Galactic Racer devs on how they bottled Burnout's magic 'game feel'
+Thu, 08 Oct 2026 11:21:47 +0000 — https://www.eurogamer.net/star-wars-galactic-racer-devs-interview-game-feel-burnout-board-game
+
+Star Wars: Galactic Racer is an absolute delight to play , and for fans of the Burnout games, it can feel like coming home. That's hardly surprising given that Fuse Games, the creators of Galactic Racer, contains an awful lot of DNA from Burnout's old home at Criterion. Read more
+
+### Gameplay footage from cancelled Xbox Perfect Dark game leaks online, and it looks pretty good
+Thu, 08 Oct 2026 08:57:13 +0000 — https://www.eurogamer.net/perfect-dark-reboot-gameplay-footage-leak
+
+Last year, we learned that Xbox cancelled a reboot of Perfect Dark . The game, in development at The Initiative, was cancelled as part of 2025's wave of wide-ranging cuts at Microsoft and Xbox . In 2026, of course, things have only gotten worse for the company . Read more
+
+### Gears of War boss says the next game won't take seven years to make as he dances around the question of layoffs
+Thu, 08 Oct 2026 08:21:27 +0000 — https://www.eurogamer.net/gears-of-war-the-coalition-layoffs-next-game
+
+The Coalition, the Microsoft-owned studio behind Gears of War: E-Day, Gears 4 and Gears 5 has mostly survived the wide-ranging cuts and layoffs initiated by Xbox CEO Asha Sharma in her attempt to bring the gaming division back to profitability . Read more
 
 ### Star Wars: Zero Company studio is bringing "as many people back as possible" after furloughing "most" of its developers
 Wed, 07 Oct 2026 19:24:25 +0000 — https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff
@@ -37,32 +62,32 @@ Wed, 07 Oct 2026 13:22:49 +0000 — https://www.eurogamer.net/forza-horizon-6-re
 
 Forza Horizon 6 's highly-anticipated release on PlayStation 5 has apparently been delayed to 2027, according to new information. Yes, this is not the first time we've heard that - The Verge's Tom Warren and IGN said as much in late August . Read more
 
-### My favourite thing about Aion 2? The freedom to make a freaky lil' guy in a world of beautiful people
-Wed, 07 Oct 2026 11:35:58 +0000 — https://www.eurogamer.net/aion-2-character-creator-freaky-guy-beautiful-people
-
-Aion 2 has arrived, and there's a lot to like if you've got a hankering for a new MMO: meaty combat, challenging boss encounters, a seemingly endless grind for completionists, and, yes, it's free to play. However, one of my very favourite things about it is the character creator. Read more
-
-### "After an all-time low, we've started to return to growth" - Asha Sharma touts Xbox turnaround after drastic restructuring and many hundreds of layoffs
-Wed, 07 Oct 2026 10:24:13 +0000 — https://www.eurogamer.net/xbox-asha-sharma-growth-restructuring-layoffs
-
-Xbox CEO Asha Sharma has reportedly told the company that Xbox has "started to return to growth" following wide-ranging restructuring that has reorganised the gaming division and resulted in more than 1,800 job losses. Read more
-
-### Xbox restates plans for next-gen Project Helix to be a "family of devices", stressing "many players will be on the go"
-Wed, 07 Oct 2026 09:49:32 +0000 — https://www.eurogamer.net/xbox-project-helix-console-family-of-devices-asha-sharma
-
-Microsoft has reportedly reiterated its plan to have multiple Xboxes - of some description - for the next and 10th generation of consoles. The suggestion being that there's a main console accompanied by some kind of portable, on-the-go games machine. Read more
-
-### Xbox denies reports it's acquired exclusive GTA 6 game-streaming rights, deflating hopes of playing it on PC
-Wed, 07 Oct 2026 08:31:39 +0000 — https://www.eurogamer.net/xbox-cloud-gta-6-streaming-rights
-
-Xbox has denied reports suggesting it obtained exclusive game-streaming rights for Grand Theft Auto 6 . The initial suggestion came from a report on The Verge , which cited an all-hands meeting in which CEO Asha Sharma allegedly told staff that Xbox plans to do something "no other platform holder is doing" around GTA 6. Read more
-
-### Someone's modded Diablo 2 for VR, and seeing the world through your character's eyes brings a whole new dimension to the series
-Tue, 06 Oct 2026 16:05:07 +0000 — https://www.eurogamer.net/diablo-2-vr-mod
-
-Of all the games I thought I'd see converted to virtual reality, the Diablo games weren't among them, for some reason. But one industrious modder has set about changing that, converting probably the most well-liked Diablo game, Diablo 2 . Read more
-
 ## GamesIndustry.biz
+
+### Hell Let Loose developer Expression opens new studio in Manchester "in response to what's happening in the talent market"
+Thu, 08 Oct 2026 10:31:11 +0000 — https://www.gamesindustry.biz/hell-let-loose-developer-expression-opens-new-studio-in-manchester-in-response-to-whats-happening-in-the-talent-market
+
+Expression Games, the hitherto entirely remote developer behind Hell Let Loose Vietnam and co-developer on Star Wars Galactic Racer, has announced the opening of a physical studio in Manchester, in response to what CEO Errol Ismail described as the requirements of both its staff and its co-development clients. Read more
+
+### Gardens Interactive, founded by veterans behind Journey and Sky: Children of the Light, raise over $35m in Series B funding round
+Thu, 08 Oct 2026 09:58:52 +0000 — https://www.gamesindustry.biz/gardens-interactive-founded-by-veterans-behind-journey-and-sky-children-of-the-light-raise-over-35m-in-series-b-funding-round
+
+Gardens Interactive has raised over $35 million in a Series B funding round led by Lightspeed Venture Partners, bringing its total funding to more than $70 million . Read more
+
+### Fireshine Games acquires Necesse dev Fair Games, described as a "defining moment" for Danish indie studio
+Thu, 08 Oct 2026 08:09:16 +0000 — https://www.gamesindustry.biz/fireshine-games-acquires-necesse-dev-fair-games-described-as-a-defining-moment-for-danish-indie-studio
+
+Fireshine Games has acquired Danish indie studio Fair Games and its open world sandbox title Necesse. Read more
+
+### Gravity Well lays off more than 40 developers after losing its funding
+Wed, 07 Oct 2026 20:30:32 +0000 — https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding
+
+Gravity Well, an independent studio founded by Respawn Entertainment alumni, has let go of the majority of its team after losing its funding. Read more
+
+### Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back
+Wed, 07 Oct 2026 19:41:33 +0000 — https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back
+
+Star Wars Zero Company developer Bit Reactor has started bringing back staff it furloughed ahead of the game's launch. Read more
 
 ### Discord protection bot Double Counter hit by breach exposing around 1 million email addresses
 Wed, 07 Oct 2026 19:15:58 +0000 — https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses
@@ -99,36 +124,36 @@ Wed, 07 Oct 2026 09:40:56 +0000 — https://www.gamesindustry.biz/gamesindustryb
 
 GamesIndustry.biz will host a panel during Game Republic's Investment Summit at MCM Comic Con later this month. Read more
 
-### Paramount and Warner Bros. Discovery operating under Skydance following completion of $111bn merger
-Wed, 07 Oct 2026 08:21:09 +0000 — https://www.gamesindustry.biz/paramount-and-warner-bros-discovery-operating-under-skydance-following-completion-of-111bn-merger
-
-Paramount has completed its $111 billion acquisition of Warner Bros. Discovery, with both companies now operating under the name Skydance. Read more
-
-### Resident Evil games engagement leapt 50% following release of Zach Cregger's movie, but analysts say real value is in brand building
-Tue, 06 Oct 2026 14:00:00 +0000 — https://www.gamesindustry.biz/resident-evil-games-engagement-leapt-50-following-release-of-zach-creggers-movie-but-analysts-say-real-value-is-in-brand-building-1
-
-Player engagement with Resident Evil games jumped 50% in the run up to and following the release of Zach Cregger's Resident Evil movie, according to data shared exclusively with GamesIndustry.biz . Read more
-
-### Sega won't "entrust the creative aspect of games to AI," but is using tech to "improve efficiency" in other departments
-Tue, 06 Oct 2026 13:50:19 +0000 — https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments
-
-Sega is "not entrusting the creative aspects of games to AI", but is using the technology to "improve efficiency" in other departments like publishing. Read more
-
-### Brazil wants to be in "the top five game producers in the world in less than 10 years"
-Tue, 06 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/brazil-wants-to-be-in-the-top-five-game-producers-in-the-world-in-less-than-10-years
-
-Soft power &ndash; a nation exerting power through economic or cultural influence &ndash; is something we're all used to in terms of film and TV. Think of the influence that Hollywood has around the world, or the way that anime has spread the recognition of Japanese culture. Read more
-
-### South Australian government makes largest investment in game development by doubling its Digital Games Fund to $1m
-Tue, 06 Oct 2026 11:11:16 +0000 — https://www.gamesindustry.biz/south-australian-government-makes-largest-investment-in-game-development-by-doubling-its-digital-games-fund-to-1m
-
-The South Australian Film Corporation (SAFC) has doubled its Digital Games Fund (DGF) funding to $1 million to support local developers. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Star Wars Zero Company Success Allows Dev to Bring Back Staff
+Thu, 08 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/star-wars-zero-company-success-allows-dev-to-bring-back-staff
+
+Furloughed workers back at studio. Star Wars Zero Company team Bit Reactor has confirmed it's been able to start returning to work the staff it was forced to furlough in the lead-up to the strategy game's launch. A new social media post from the developer shared that it's brought "more of our team back to work at Bit Reactor" as it looks to continue support of the title, potentially opening it up to the possibility of DLC alongside standard updates. Read the full article on pushsquare.com
+
+### Gundam Rogue Orbit Drops Its Enthusiastically Narrated PS5 Gameplay Trailer
+Thu, 08 Oct 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/10/gundam-rogue-orbit-drops-its-enthusiastically-narrated-ps5-gameplay-trailer
+
+Gun, damn. I’ve always been keen on trying a Gundam game, but the various ones Rob has reviewed for the site always looked a bit too scrappy or technical for my tastes. Enter the upcoming Gundam Rogue Orbit , then, which is launching on the PS5 from 5th March. Read the full article on pushsquare.com
+
+### Review: Dragon s Dogma 2: Dark Arisen (PS5) - Epic Expansion Is Peak Dragon s Dogma
+Wed, 07 Oct 2026 23:30:00 GMT — https://www.pushsquare.com/reviews/ps5/dragons-dogma-2-dark-arisen
+
+Top Dogma. Fans celebrated when Kento Kinoshita was revealed to be the director of Dragon's Dogma 2: Dark Arisen — and that's because he had already transformed the original Dragon Dogma through the introduction of a simlar DLC outing. There's no doubt about it: Kinoshita fully understands what makes Capcom's RPG great, and that knowledge has resulted in an excellent expansion, over two years on from the base game's release. Read the full article on pushsquare.com
+
+### PS5 to Integrate Anime into Main Menu as Sony Tightens Ties with Crunchyroll
+Wed, 07 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-to-integrate-anime-into-main-menu-as-sony-tightens-ties-with-crunchyroll
+
+"Anime and gaming have overlapping communities". Moments ago, PlayStation boss Hideaki Nishino took to the stage at the inaugural Crunchyroll Anime Future Forum to confirm it’ll be integrating anime into the PS5’s main menu with a “dedicated hub”, beginning Spring 2027. He said the initiative will help “make it easier for the PlayStation community to discover and explore the anime content they enjoy”. Read the full article on pushsquare.com
+
+### What if Resident Evil Had Debuted on SNES? Dead of Darkness 2 Has the Answer on PS5
+Wed, 07 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/what-if-resident-evil-had-debuted-on-snes-dead-of-darkness-2-has-the-answer-on-ps5
+
+Sprite-based scares. I didn’t play the original Dead of Darkness , but its successor – in development for PS5 and PS4 – has caught my eye. This game looks a lot like Resident Evil if it had been scaled back for the Super Nintendo, and while dev Retrofiction Games is clearly doing things here that wouldn’t be possible on 16-bit machines, I love how it captures that vibe. Read the full article on pushsquare.com
 
 ### Phoenix Cyclops Fires Up Marvel Tokon on 2nd November, PS Plus Trial Out Now
 Wed, 07 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/phoenix-cyclops-fires-up-marvel-tokon-on-2nd-november-ps-plus-trial-out-now
@@ -164,31 +189,6 @@ OLED screen incoming? The PS Portal handheld has been a surprise hit for Sony, a
 Wed, 07 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/more-mafia-games-appear-to-be-getting-native-ps5-ports-likely-60fps
 
 An offer you can't refuse. Earlier this year , 2K Games released an upgraded version of the excellent Mafia: Definitive Edition , designed to take full advantage of the PS5 hardware at 60fps with various other visual and performance improvements. Now it looks like both Mafia 2: Definitive Edition and Mafia 3: Definitive Edition aren’t far behind. Read the full article on pushsquare.com
-
-### Review: Order of the Sinking Star (PS5) - Jon Blow s Huge Sokoban Design Mixtape Made Me Weary
-Wed, 07 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/reviews/ps5/order-of-the-sinking-star
-
-Block it out. Order of the Sinking Star is a very tricky game to review. The latest effort from Jonathan Blow and his team at Thekla, it's an absolute beast with nearly a thousand puzzles to solve and multiple endings to discover. It's impressive on paper, but to be completely honest, I grew quite weary of the whole thing as I delved deeper into this ambitious project. Read the full article on pushsquare.com
-
-### Free Mafia 3 PS4 Game Seemingly Revoked, Prices Restored to Normal
-Wed, 07 Oct 2026 12:55:00 GMT — https://www.pushsquare.com/news/2026/10/free-mafia-3-ps4-game-seemingly-revoked-prices-restored-to-normal
-
-You can no longer get Call of Duty: WWII and Mafia 3 for free. Mafia 3 and all of its associated DLC is currently available for free on the PS Store in several countries, with no PS Plus required. You can get it through here . Fans have also noticed that Call of Duty: WWII is also available at no extra cost in several countries, which we’ve been able to corroborate. You can claim that through here as well. Read the full article on pushsquare.com
-
-### Rumour: More Sources Mount for Ape Escape Revival from Ex-Sonic Mania Devs
-Wed, 07 Oct 2026 12:50:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-more-sources-mount-for-ape-escape-revival-from-ex-sonic-mania-devs
-
-The makers of Penny's Big Breakaway. Word on the street is that Sony is taking pitches on its dormant, fan-favourite franchises, and among those is the supposed revival of a proper old school classic: Ape Escape . Well, the rumour mill has continued turning over, and there's now a thin, but very plausible, fan theory about which team is bringing back those mischievous pipo monkeys. Read the full article on pushsquare.com
-
-### Forza Horizon 6 PS5 Release Date Revealed by Reliable Leaker
-Wed, 07 Oct 2026 12:45:00 GMT — https://www.pushsquare.com/news/2026/10/forza-horizon-6-ps5-release-date-revealed-by-reliable-leaker
-
-Stuck in traffic. We've all been wondering where the PS5 port of Forza Horizon 6 is, and now we have our best idea of when to expect its arrival thanks to a very reliable source. Billbil-kun, reporting via Dealabs , has "exclusively obtained" information about the open world racing game's PS5 debut and other release details. Read the full article on pushsquare.com
-
-### Mounting Evidence Says Sony Really Is Accepting Game Pitches on Fan Fave Franchises
-Wed, 07 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/mounting-evidence-says-sony-really-is-accepting-game-pitches-on-fan-fave-franchises
-
-Killzone! Ape Escape! Sly Cooper! A recognised leaker who previously outed the existence of Metroidvania spin-off God of War: Sons of Sparta says Sony is “accepting multiple game pitches” for projects inspired by fan favourite franchises. Recently there’s been an uptick in rumours related to legacy series, like Killzone , which is purportedly in production at People Can Fly under the supervision of series creator Guerrilla. (The leaker here says they contributed to MP1st’s original report on that.) Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -246,6 +246,41 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 
 ## VGC
 
+### Pokémon and Santa Cruz reveal blind bag skateboards featuring classic Pokémon TCG cards
+Thu, 08 Oct 2026 11:30:36 +0000 — https://www.videogameschronicle.com/news/pokemon-and-santa-cruz-reveal-blind-bag-skateboards-featuring-classic-pokemon-tcg-cards/
+
+The new Pokémon Santa Cruz skateboards release next week… Source
+
+### Richard Garriott is officially regaining control of the Ultima series
+Thu, 08 Oct 2026 10:26:39 +0000 — https://www.videogameschronicle.com/news/richard-garriott-is-officially-regaining-control-of-the-ultima-series/
+
+Ultima creator confirms he will soon regain the copyright from Electronic Arts… Source
+
+### Sony seemingly closes the door on PlayStation VR as it sells more than 40 VR patents to Meta
+Thu, 08 Oct 2026 09:39:57 +0000 — https://www.videogameschronicle.com/news/sony-seemingly-closes-the-door-on-playstation-vr-as-it-sells-more-than-40-vr-patents-to-meta/
+
+Sony published two original games for the PlayStation VR 2… Source
+
+### Silent Hill Townfall update nerfs The Weight stealth sections, weakens enemies and makes the final puzzle easier
+Thu, 08 Oct 2026 09:20:31 +0000 — https://www.videogameschronicle.com/news/silent-hill-townfall-update-nerfs-the-weight-stealth-sections-weakens-enemies-and-makes-the-final-puzzle-easier/
+
+The version 1.4.0 patch should make the game less frustrating… Source
+
+### Gears of War studio head addresses layoff worries after E-Day release, and says the next game won t take nearly as long
+Thu, 08 Oct 2026 08:51:24 +0000 — https://www.videogameschronicle.com/news/gears-of-war-studio-head-addresses-layoff-worries-after-e-day-release-and-says-the-next-game-wont-take-nearly-as-long/
+
+We just need to focus on the things that we can control… Source
+
+### Battlefield 6 and more are joining Xbox Game Pass in October
+Thu, 08 Oct 2026 08:48:42 +0000 — https://www.videogameschronicle.com/news/battlefield-6-and-more-are-joining-xbox-game-pass-in-october/
+
+October's nine Xbox Game Pass games have been revealed… Source
+
+### Star Wars: Galactic Racer will double the game s multiplayer party limit in an upcoming patch
+Thu, 08 Oct 2026 08:43:04 +0000 — https://www.videogameschronicle.com/news/star-wars-galactic-racer-will-double-the-games-multiplayer-party-limit-in-an-upcoming-patch/
+
+The game currently supports parties of 3 players… Source
+
 ### Star Wars Zero Company staff returning to work after being furloughed pre-release
 Wed, 07 Oct 2026 19:08:08 +0000 — https://www.videogameschronicle.com/news/star-wars-zero-company-staff-returning-to-work-after-being-furloughed-pre-release/
 
@@ -261,156 +296,131 @@ Wed, 07 Oct 2026 15:31:02 +0000 — https://www.videogameschronicle.com/news/the
 
 A retrospective GTA panel revealed secrets about the game's development… Source
 
-### Forza Horizon 6 isn t coming to PS5 this year, it s claimed
-Wed, 07 Oct 2026 12:45:25 +0000 — https://www.videogameschronicle.com/news/forza-horizon-6-isnt-coming-to-ps5-this-year-its-claimed/
-
-Forza Horizon 6 is currently scheduled for 2026, according to Playground Games… Source
-
-### RuneScape studio pulls trailer, says a partner broke its anti-AI rule without its knowledge, and it s happened before
-Wed, 07 Oct 2026 12:32:17 +0000 — https://www.videogameschronicle.com/news/runescape-studio-pulls-trailer-says-a-partner-broke-its-anti-ai-rule-without-its-knowledge-and-its-happened-before/
-
-Players spotted that the Dragon Slayer 2 trailer used generative AI art… Source
-
-### A new way for businesses to support and promote on VGC: The Video Games Podcast
-Wed, 07 Oct 2026 12:02:57 +0000 — https://www.videogameschronicle.com/news/a-new-way-for-businesses-to-support-and-promote-on-vgc-the-video-games-podcast/
-
-Join our new Producer tier, promote your business, and support our work… Source
-
-### Denuvo asks to subpoena Discord, Valve and Reddit to identify hacker it s suing for cracking its DRM protection
-Wed, 07 Oct 2026 11:14:47 +0000 — https://www.videogameschronicle.com/news/denuvo-asks-to-subpoena-discord-valve-and-reddit-to-identify-hacker-who-keeps-cracking-its-drm-protection/
-
-The company sued 'voices38' last month in the hope it could reveal their details… Source
-
-### Resident Evil Requiem writer lets slip a major detail about the upcoming DLC
-Wed, 07 Oct 2026 10:48:25 +0000 — https://www.videogameschronicle.com/news/resident-evil-requiem-writer-lets-slip-a-major-detail-about-the-upcoming-dlc/
-
-Resident Evil Requiem writer teases more of Spencer’s story in the upcoming expansion… Source
-
-### The Pokémon Fossil Museum is heading to Colorado in 2027
-Wed, 07 Oct 2026 09:54:04 +0000 — https://www.videogameschronicle.com/news/the-pokemon-fossil-museum-is-heading-to-colorado-in-2027/
-
-Pokémon's Fossil Museum will leave Chicago next year… Source
-
-### Forza Horizon 6 studio acknowledges to players we haven t been talking with you as much as we could be
-Wed, 07 Oct 2026 09:48:50 +0000 — https://www.videogameschronicle.com/news/forza-horizon-6-studio-acknowledges-to-players-we-havent-been-talking-with-you-as-much-as-we-could-be/
-
-As the PS5 version awaits release, Playground Games says it plans to improve communications… Source
-
 ## Polygon
 
-### 'Obsession' Officially Returning to Theaters As It's Never Been Seen Before
-Wed, 07 Oct 2026 19:10:14 GMT — https://www.polygon.com/obsession-rerelease-october-2026-4dx-theaters-halloween/
+### Star Wars: Galactic Racer Continues a 55-Year-Old Gaming Tradition
+Thu, 08 Oct 2026 11:00:15 GMT — https://www.polygon.com/star-wars-galactic-racer-roguelike-campaign-arcade/
 
-It appears that Obsession ’s phenomenal theatrical run has one final stop.
+For the past few weeks, I’ve been playing Star Wars: Galactic Racer pretty much nonstop. The arcade racing game, spearheaded by former Burnout developers, makes great use of the Star Wars universe to create a thrilling game filled with high stakes and even higher speeds. It’s not exactly breaking new ground in terms of its racing, mind you, but there is something innovative hidden beneath its spectacular crashes: its roguelite single-player campaign , a modern twist that nevertheless feels rooted in arcade history.
 
-### 10 Star Wars Galactic Racer tips to help you beat Kestar Bool
-Wed, 07 Oct 2026 19:03:56 GMT — https://www.polygon.com/star-wars-galactic-racer-tips-beginners-guide/
+### Minecraft's Switch 2 Upgrade Is Free, but Only for Digital Owners
+Thu, 08 Oct 2026 10:30:47 GMT — https://www.polygon.com/minecraft-nintendo-switch-2-upgrade-digital-only/
 
-If you're looking for some Star Wars: Galactic Racer tips to help you either cross the finish line or defeat Kestar Bool, you're not the only one, because this game is hard . Developed by a team made up of folks who worked on Burnout, the speeds portrayed in Galactic Racer are wild, and one wrong move will see you obliterated in the side of a wall.
+Minecraft fans are in for a treat this October, as it will finally receive a Switch 2 upgrade. Microsoft sold millions of copies of Minecraft on the original Switch. Some of these players will receive free access to the Switch 2 edition, but thousands more are considered ineligible and will have to purchase it separately.
 
-### Overwatch’s Huge New Sombra Rework Is 10x Better Than Expected
-Wed, 07 Oct 2026 19:00:15 GMT — https://www.polygon.com/overwatch-sombra-rework-support/
+### Call of Cthulhu Officially Changes the Name of a Lovecraftian God
+Thu, 08 Oct 2026 10:04:36 GMT — https://www.polygon.com/call-of-cthulhu-shub-niggurath-name-change-lovecraft/
 
-It's extremely rude of Blizzard to prove me wrong. I, like many others, was all set to scoff at Overwatch 's latest Sombra rework. Moving the pesky, perpetually banned hacker from damage to support ? What a horrible concession to people who don't want to learn how to play the game! Well, maybe it is a concession to the segment of people who don't like paying attention to their surroundings. But it turns out it's an awfully good concession either way.
+For decades, the Cthulhu Mythos has been a prolific source of inspiration for creatives. Originating in the works of H.P. Lovecraft, this cosmology populates the universe with terrifying entities that, most of the time, lie in wait beyond the threshold of human perception. While Cthulhu is surely the most famous, Lovecraft and the writers who followed in the genre described as "Lovecraftian horror" have created a veritable pantheon of unfathomable, godlike beings. However, not even a Great Old One is immune to the changing of times.
 
-### Say Goodbye To The Best RPG On Xbox Game Pass
-Wed, 07 Oct 2026 18:19:56 GMT — https://www.polygon.com/xbox-game-pass-clair-obscur-games-new-and-leaving/
+### Stephen King’s Forgotten 576-Page Detective Thriller Is Secretly His Scariest Vampire Novel
+Thu, 08 Oct 2026 10:00:16 GMT — https://www.polygon.com/the-outsider-stephen-king-horror-books-to-read/
 
-It's a new month, which means that Game Pass's repertoire of games is due for a shake-up. The Xbox and PC gaming subscription service is getting a slew of notable new games, such as the roguelike platformer Neon Abyss 2 , Napoleonic soulslike Valor Mortis , and hit multiplayer shooter Battlefield 6 . More notable than the additions this October, however, may be the titles getting pulled from Microsoft's gaming membership.
+Lurid and propulsive, the writer's 576-page novel is an ode to mystery procedurals; to boot, a King favorite, author Harlan Coben, actually pops up and plays a significant role in the story. I haven't read enough Coben to know how much King is playfully ripping off his contemporary, but the legacy of a genre pumping through the veins of The Outsider . In the beginning.
 
-### Carrie ending explained: how Amazon changes Stephen king’s book and sets up season 2
-Wed, 07 Oct 2026 18:18:12 GMT — https://www.polygon.com/carrie-ending-explained-book-changes/
+### All active Escape From Tarkov codes and rewards
+Thu, 08 Oct 2026 09:29:04 GMT — https://www.polygon.com/escape-from-tarkov-promo-codes-list-active-expired/
 
-Spoilers for Carrie below!
+Escape From Tarkov promo codes are used in the classic extraction shooter for all sorts of rewards. From in-game gear and weapons to currency, cosmetics, and more, redeeming as many of these Tarkov codes as you can will set you up for your next raid. Especially since these goodies don't actually require a successful extraction to obtain them.
 
-### New Walmart promo is the safest way to buy 'Pokémon' 30th anniversary TCG on release day
-Wed, 07 Oct 2026 18:12:11 GMT — https://www.polygon.com/walmart-pokemon-30th-anniversary-tcg-card-release-raffle-drawing-when-what/
+### Netflix Is About to Lose The Most Inventive Sci-Fi Thriller of the Decade
+Thu, 08 Oct 2026 06:00:16 GMT — https://www.polygon.com/a-quiet-place-part-ii-leaving-netflix-october-2026/
 
-It's been a few weeks since the initial release of the Pokémon 30th anniversary Trading Card Game set, and fans are hungry to score a restock. While some were lucky enough to have Booster Box pre-orders at retailers like The Pokémon Center or Target, just as many — if not more — haven't managed to secure any products at all. Thanks to a new Walmart initiative that goes live on Wednesday evening, fans now have a great option for buying the 30th anniversary set without lining up outside a store or badgering poor retail employees.
+A Quiet Place never needed a sequel.
 
-### What time does Marvel Rivals Season 10.5 release in your time zone?
-Wed, 07 Oct 2026 18:02:25 GMT — https://www.polygon.com/marvel-rivals-season-10-5-release-time-edt-pdt-utc/
+### Ahead of Your Halloween Rewatch, Ranking All 7 Seasons of Buffy the Vampire Slayer
+Thu, 08 Oct 2026 04:00:23 GMT — https://www.polygon.com/buffy-seasons-ranked/
 
-Marvel Rivals ' Season 10.5 release time is creeping up fast, as NetEase prepares to ditch tradition in favor of something rather different. There's no new hero this mid-season — Gorr's all you get for the whole of Season 10 — but there is a massive new game mode. 'Tis the season for a bunch of Halloween specials, too, including new skins.
+You win some, you lose some. Buffy: New Sunnydale , Hulu's continuation of the original Buffy the Vampire Slayer with Chloé Zhao and original star Sarah Michelle Gellar attached, was officially not moving forward as of March .
 
-### Star Wars Officially Brings Back Ezra and Thrawn for New 2027 Release
-Wed, 07 Oct 2026 17:55:36 GMT — https://www.polygon.com/star-wars-ahsoka-escape-from-thrawn-announced-ezra-return/
+### Beloved Action-RPG Muramasa: The Demon Blade Returns in 2027 With Stunning Remake
+Thu, 08 Oct 2026 04:00:23 GMT — https://www.polygon.com/muramasa-revenant-blades-2027-remake-remaster-vanillaware-marvelous/
 
-While Ezra Bridger was a major part of Ahsoka season 1 , he didn't actually appear that much until the season's end. Ahead of the Disney Plus show's second season , the unknown adventures of Ezra will finally be revealed in a new Star Wars story coming next year. Ezra won't be alone, however, as iconic antagonist Grand Admiral Thrawn is also back for more.
+Having played Muramasa: Revenant Blades for an hour at a Tokyo Game Show event last month, the rerelease quickly shot up my list of most anticipated games, thanks to its mix of fast-paced action, depth in fighting styles, and (of course) gorgeous artwork. (As is often the case with Vanillaware games, the in-game food looks incredibly mouth-watering.)
 
-### Dispatch Is GOTY Eligible at Game Awards for Second Year in a Row
-Wed, 07 Oct 2026 17:47:29 GMT — https://www.polygon.com/dispatch-game-awards-goty-eligible-2025-2026/
+### Disney's 10-Part Detective Thriller Series Is So Freaking Good You'll Finish It in One Weekend
+Thu, 08 Oct 2026 02:00:26 GMT — https://www.polygon.com/fargo-season-2-streaming-october-2026/
 
-This might be a first: Dispatch , the episodic superhero narrative game, is eligible for all the major categories at The Game Awards for the second year running.
+Perhaps the most essential thing about adapting a movie into a TV show is getting the balance right between the old and the new. You want the show to feel like the movie and capture what you loved about the characters, but you also want enough new stuff going on to make the series a worthwhile venture on its own. But that challenge becomes harder when the show has none of the movie’s characters, and likely becomes even more difficult when the show is an anthology series that introduces brand-new characters every season.
 
-### 12 Years Later, Canceled Kojima Game 'P.T.' Makes A Comeback
-Wed, 07 Oct 2026 16:57:24 GMT — https://www.polygon.com/ps4-horror-game-pt-hideo-kojima-silent-hills-playable-teaser/
+### 3 Stunning 25-Year-Old Pokémon Promo Cards Fetch Nearly $1.2 Million at Auction
+Wed, 07 Oct 2026 20:40:15 GMT — https://www.polygon.com/pokemon-southern-islands-mew-togepi-marill-auction/
 
-Before Xbox snapped up the rights to Hideo Kojima's upcoming horror game , the video game auteur shook up the world with a playable teaser back in 2014. Aptly named P.T. , the experience was a short yet pivotal one that defined Hideo Kojima's game development career after his rocky departure from Konami. Despite its importance, there's officially no way to play P.T. anymore. The horror game was pulled from the PlayStation Store in 2015.
+There is no shortage of stunning high-end graded Pokémon TCG cards setting records weekly on the secondary market. Sometimes, though, a collection of cards comes along that deserves special plaudits due to historical significance, tremendous scarcity, or sheer aesthetic beauty. The English Southern Islands Promos from 2001 certainly fit that bill.
 
 ## PC Gamer
 
-### Skate has been de-live serviced by ReSkate, a modding platform downloaded 350,000 times—devs say they will comply if EA's lawyers come knocking
-Wed, 07 Oct 2026 19:15:40 +0000 — https://www.pcgamer.com/games/sports/reskate-modding-platform-released/
+### Where to find the Ruined Homestead in Arc Raiders
+Thu, 08 Oct 2026 11:30:21 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-ruined-homestead-location/
 
-What's going on? EA released Skate (stylized "skate.") in early access in 2025: an online, free-to-play reboot of the popular skateboarding series A new fan-made "modding platform" called ReSkate makes Skate playable offline ReSkate also adds support for private servers, custom maps, and other mods ReSkate had been downloaded 350K times as of Tuesday The creators of ReSkate tell PC Gamer that they'll comply should a cease and desist demand come their way EA's reboot of the Skate series is a free-to-play online game with mixed user reviews on Steam . Aspects of Skate are well-liked, but a common complaint is that it lacks the spirit of skate culture, exchanging grittiness for brand-name premium cosmetics and tidy-looking maps in an online-only ecosystem that prevents true DIY modding. Enter ReSkate , a new "modding platform" created (with AI assistance) by a pair of coders who go by zee_x64 and ReGlitched. The modders have experience with other custom server projects, namely R5Reloaded , which allows free-to-play shooter Apex Legends to be played privately. In just a few days, ReSkate was downloaded from GitHub over 350,000 times. The software hooks into a particular version of Skate on Steam and allows it to be played offline, in custom servers, and with custom maps and other assets. "Honestly didn't realize how big this was going to be," zee_x64 told PC Gamer over Discord this week. "We were just doing it for the love of the game." We were just doing it for the love of the g
+The Ruined Homestead is in south Blue Gate Embark Studios You can take a picture of any of the main buildings in the area Embark Studios Key deets ⚡You can find the Ruined Homestead in south Blue Gate by the Olive Grove. ⚡You can take a picture of any house in the area. ⚡Taking pictures now requires an uncommon camera item. The first step in Arc Raiders new Sheltered Retreat project to build your outpost is to "take a photo of any farmland house around the Ruined Homestead on The Blue Gate map." You can find the Ruined Homestead in the south of the region, just by the Olive Grove where everyone used to fight over lemons and olives for Scrappy. First, though, you'll need a camera item. Unlike in the past, when you could just interact with a structure to take a picture, you now need an actual piece of gear to do it. You can get a camera by: Purchasing one from Shani for 1.9k. Crafting one at the basic workbench for: 8x Plastic Parts 1x Wire Certain quests, like the new Sizing Things Up also give you a camera upon accepting them. Of course, having to bring a camera also means you can no longer use free loadouts to complete quests involving photos. I suggest storing your camera in your safe pocket until you need it. Now, head to the Ruined Homestead, equip the camera, use right mouse button to aim, and then left mouse button to take the snap. Any of the main farm buildings in that area seem to count, so it's easy enough to finish this stage. Arc Raiders guide : What's hot this we
 
-### Help, I have been abducted by a tiny car and cannot escape
-Wed, 07 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/help-i-have-been-abducted-by-a-tiny-car-and-cannot-escape/
+### PC Gamer magazine's new issue is on sale now: World of Warcraft: Forever
+Thu, 08 Oct 2026 09:11:18 +0000 — https://www.pcgamer.com/games/pc-gamer-magazines-new-issue-is-on-sale-now-world-of-warcraft-forever/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . The diary of my time with Grand Theft Auto 5 so far consists, in the main, of struggles with cars. The perfidious automobile, the horseless carriage, has run rampant in Los Santos for weeks now, causing all manner of chaos as I attempt to live my life and do backflips and what-have-you. Time to put them in their place. To do so, I have utilised Toy Cars – Make any car tiny , whose nature is right there in the name. The pitch is that you can transform any car you drive into its Micro Machines equivalent, shrinking them down to fit in a child's hand, keeping "your original vehicle visible, sounding, and behaving like itself while using a hidden RC-sized chassis underneath to provide miniature collision, suspension, and road physics." This is not quite how it goes for me. As ever, this is not the mod's fault. It seems to work well. After teleporting my way into a car (they are mostly too airborne to hijack normally), I drive around a bit and tap F7—the magic car-shrinking key. This is where it all goes to pot, you see. The shrinking bit? Works great. My car—a taxi—instantly transmogrifies, becoming a Lilliputian equivalent of itself. Then it all goes off the rails. Somehow, for reasons that will forever be beyond me, I think the
+This month, PC Gamer delivers world-exclusive access to World of Warcraft: Forever, the exciting new evolution of classic WoW that is kicking off a new MMO golden age. Not only do we play Forever extensively, but PC Gamer also speaks directly to many of the key devs at Blizzard who have made it a reality. And, we're pleased to say that, finally, the old WoW magic is back! Issue 428 UK / 416 US PC Gamer magazine: $4.99 Cover story: World of Warcraft: Forever This month, PC Gamer delivers world-exclusive access to World of Warcraft: Forever. Plus, Total War: Warhammer 40,000 previewed, The Blood of Dawnwalker reviewed, and PC gaming fans tested. Buy this issue in print: $4.99 (US) | $16.49 (UK) Buy this issue digitally: $4.99 (US) | $16.49 (UK) This issue also boasts one of the fattest preview sections of the year, with PC Gamer going hands-on with a wide variety of hot incoming games, including Total War: Warhammer 40,000, Rainbow Six Tactics, Stronghold 4, 1666: Amsterdam, Lego Skylines, Afterworld, Sanctuary: Shattered Sun, and Bodycam. (Image credit: Future) Meanwhile, the PC Gamer reviews machine passes judgement on The Blood of Dawnwalker, Metal Gear Solid IV: Guns of the Patriots, Star Wars Zero Company, Fields of Mistria, Onimusha: Way of the Sword, and Sovereign Tower, among others. (Image credit: Future) All that plus a group test on top PC case fans, a reinstall of legendary neo noir action game, Max Payne 2: The Fall of Max Payne, the commencement of a brand new dia
 
-### For a moment it looked like Grand Theft Auto 6 might be playable on PC on launch day—then Xbox's chief strategy officer crashed the party
-Wed, 07 Oct 2026 16:05:02 +0000 — https://www.pcgamer.com/games/grand-theft-auto/for-a-moment-it-looked-like-grand-theft-auto-6-might-be-playable-on-pc-on-launch-day-then-xboxs-chief-strategy-officer-crashed-the-party/
+### Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all
+Thu, 08 Oct 2026 04:00:00 +0000 — https://www.pcgamer.com/games/action/muramasa/
 
-We still don't have a PC launch date for Grand Theft Auto 6 , or even official confirmation that it's ever going to come our way, even though we all know it is. But for one brief shining moment, fans on PC had hope that maybe they'd be able to backdoor their way into the cool kids club—that despite the absence of a PC version, they might be able to play it on November 19 anyway, without having to shell out for a new game console. Alas, the word has come down from on high, and that word is: " No ." The ball got rolling when The Verge reported on October 6 that Xbox had secured the exclusive right to deliver GTA 6 via streaming platforms—that is, Xbox Cloud Gaming. And that would presumably make the game playable on PC, as Xbox Cloud Gaming is accessible through any PC rocking Windows 10 version 20H2 or later. You'd almost certainly have to sign up for Game Pass Ultimate to access it, and you'd need a better internet connection than mine to make it work, but even so: Grand Theft Auto 6, on PC, on launch day. Holy guacamole! Alas, it is now time to lock eyes with the metaphorical skull in your hand and ponder that dream, that faraway hope, and all that has brought them low—which in this case is Xbox chief strategy officer Matthew Ball, who delivered the bad news on X . (Image credit: Matthew Ball (Twitter)) "While the excitement for GTA 6 and Xbox is great to see, it has also led to some misreporting," Ball wrote. "We are looking forward to launching GTA 6 on Xbox November 19, t
+The Japanese Sword Museum in Tokyo, set along the bank of the Sumida river, enshrines behind glass a collection of remarkable blades spanning hundreds of years of craftsmanship. Books about the longer uchigatana and shorter wakizashi, some of them written by the museum's very donors, celebrate the swordsmiths who hammered them out of steel. But flip through one, and there's a good chance you won't spot the name Muramasa, despite his swords playing a prominent role in some of Japan's most famous battles. (Image credit: Future) Centuries of mythology building up around the idea that your swords were cursed will tend to do that to a guy. Vanillaware's Muramasa: Revenant Blades, at least, isn't afraid to lean into the legacy. The 2D action game is so in love with swords it's got 108 of them, and it turns the superstition that Muramasa's swords had to taste blood once unsheathed into a simple but enticing mechanic: Each comes with a unique skill, which can be equipped on another sword only after it's had its fill of bloodshed. "There's definitely this reputation that the swords of Muramasa are cursed, but what that means is they have power," says director Wataru Nakanishi. "In this game Muramasa is an important character and will create these very powerful swords, but in turn [the protagonists] must collect souls for him, so they have this cooperative relationship based around this dark situation." In a way Revenant Blades is lifting a curse of its own: 17 years after the game was
 
-### I had 3 hours with Arc Raiders Frozen Trails update and spent most of it playing with the new grapple hook
-Wed, 07 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/third-person-shooter/i-had-3-hours-with-arc-raiders-frozen-trails-update-and-spent-most-of-it-playing-with-the-new-grapple-hook/
+### Now we know the prices of the new RTX Spark laptops and they're as expensive as I'm sure you feared
+Thu, 08 Oct 2026 02:42:32 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/now-we-know-the-prices-of-the-new-rtx-spark-laptops-and-theyre-as-expensive-as-im-sure-you-feared/
 
-The grapple hook is a legit game changer Yeeeeeeeeehooooooooooo! Yeah yeah, sure, Arc Raiders is getting some new guns, but the real star of my session was the grapple hook. Embark made an honest-to-god grapple hook: Not the kind that zips you straight to where you aim it (that already exists), but a simulated rope that's quite rare in videogames. The grapple hook is only a green tier gadget, but very versatile. A single hook lets you: Climb straight up to the top of most buildings Swing from rooftop to rooftop like Spider-Man Safely descend from tall buildings Annoy the crap out of flying Arc bots What makes the grapple hook so useful is that it sticks to just about anything . Wherever the hook lands becomes a pivot point that you can either climb toward, descend, or swing against. You can also redeploy the hook midair, without a cooldown or use limit, meaning you can chain swings together. Above: Scaling a building with the grapple hook is about as fast as climbing a ladder, which is surprising. It's a level of pendulum-based freedom that videogames rarely afford—let alone in a multiplayer environment—and makes the hook immediately fun to play with. The first match I had one, I ended up ignoring most of Pendola Pass' new locations and instead tried to see how long I could stay in the air with just the hook. I broke my ankles more than once, but in a short time I felt like the hook had tripled my movement options in Arc Raiders, and that's exciting. I really want to see how 
+RTX Spark laptops will range from $2,600 all the way up to $7,000. Pre-orders open now. Release date is October 16, 2026. It is the best of times, it is the worst of times to unveil a whole new line of agentic and local AI-focused laptops. The new RTX Spark laptop hardware is going into a slew of big name, big brand notebooks, with pre-orders opening up now and, with the level of unified memory necessarily inside them, the pricing is getting on for prohibitive. But it was always going to be that way. These are laptops built for AI processing and they need a ton of memory, and AI is the big thing right now so we need laptops that are designed from the ground up to run the best local models beautifully. But we're also at a point where AI is the big thing right now and that has sucked up all the available memory manufacturing making producing new PC hardware uncomfortably expensive. There's a certain ouroboros-like feeling around these new machines, where they're designed for a world that is specifically making systems like them harder to make and sell to normal humans without seven figure incomes. The new machines come with two flavours of Nvidia N1X processor; either the 20-core, 6144 CUDA core'd design, or the 18-core, 5120 CUDA core version. And with those Arm-based SoCs, sporting Nvidia GPU components, you're getting varying levels of un-upgradeable, soldered-on unified memory, from 24 GB all the way up to 128 GB. (Image credit: Microsoft) And, if we take the entry-level ve
 
-### Critical Role's latest D&D episode was so stressful, I discovered a new noise my mouth can make
-Wed, 07 Oct 2026 14:42:52 +0000 — https://www.pcgamer.com/movies-tv/critical-roles-latest-d-and-d-episode-was-so-stressful-i-discovered-a-new-noise-my-mouth-can-make/
+### Here's the Dragon's Dogma 2: Dark Arisen release time for your region
+Thu, 08 Oct 2026 00:00:00 +0000 — https://www.pcgamer.com/games/rpg/heres-the-dragons-dogma-2-dark-arisen-release-time-for-your-region/
 
-Last week, I said that I wasn't entirely sure who would make it out of Critical Role's next episode . Well, the next episode has happened, and let me tell you—I was absolutely, concretely right in that assumption. Spoilers for Critical Role episode 37, if you've not watched it yet. The episode opened with the attempted assassination of one Wicander Halovar. Two hours later, they had successfully completed the first round. This isn't because anyone at the table is bad at playing D&D, it's because there were a ton of moving parts: A Hold Person spell, two assassins with three attacks each, a Command spell from Wic's father to force him to accept his fate, guards who weren't in on the scheme rushing in to protect him, his mother desperately trying to stop it all from happening, his little brother being held back, Tyranny sprinting down the streets of Dol-Makjar to get to the theatre, everyone else barrelling through the stands: Utter chaos. It's an incredibly difficult thing to do, stacking the deck so thoroughly against one player. On the one hand, you want to do justice to the world everyone's playing in—Wicander messed it up with his wannabe religious dictator grandma, so she decided to have him bumped off. But on the other hand, Wic simply getting instagibbed wouldn't make for a good game. Even still, the deck was toppling high. Hold Person grants auto-crits to melee attacks and requires a Wisdom saving throw, and Wic has a whopping zero for an ability modifier. What's more,
+(Image credit: Capcom) Key deets 🔥 The Dark Arisen expansion releases on October 8 or 9 depending on your timezone. 🔥 There is no preload currently available. 🔥 The DLC size is about 25GB. The Dark Arisen expansion for Dragon's Dogma 2 releases this week, over two years on from when the base game launched back in 2024. The DLC arrives on October 8 in the US, but October 9 for the UK, Europe, and the rest of the world. Here's exactly when you can play: West Coast US : 5 pm PDT (October 8) East Coast US : 8 pm EDT (October 8) UK : 1 am BST (October 9) Europe : 2 am CEST (October 9) Australia : 11 am AEST (October 9) New Zealand : 1 pm NZDT (October 9) You can see the rest of the release times in the image above. If you're looking for PlayStation instead, then the game releases at midnight local time on October 9 everywhere except PST, where it releases at 9 pm on October 8. The size of the DLC is 25 GB and you can view its current requirements on the Steam page . 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
-### Quarterfinals: Vote for the best RTS unit of all time
-Wed, 07 Oct 2026 13:45:34 +0000 — https://www.pcgamer.com/games/rts/quarterfinals-vote-for-the-best-rts-unit-of-all-time/
+### Blizzard promises to make the blue elves in World of Warcraft: Forever look worse (positive)
+Wed, 07 Oct 2026 22:42:17 +0000 — https://www.pcgamer.com/games/world-of-warcraft/blizzard-promises-to-make-the-blue-elves-in-world-of-warcraft-forever-look-worse-positive/
 
-Friends, we are doing important work—the work of determining, through democracy and science (maybe), what RTS unit deserves to be held aloft and named the greatest RTS unit of all time. It's a lot of responsibility. Last week, the war began. 16 units entered, 8 units survived . There were close battles. Dawn of War's unstable Psyker and Battle for Middle-earth's Rohirrim were neck and neck for most of the voting period, swapping positions with every blow traded. But in the end, those long-haired horse boys won. Then there were the ass-kickings. Right from the word go, Warcraft's Peon raked in the votes, leaving Rise of Legends' majestic Glass Dragon battered a bruised. We salute the losers—they were good, but not good enough. And now the victors must return to the battlefield to duke it out again. It's time for the quarterfinals, baby! The quarterfinals bracket (Image credit: BracketHQ) Things are getting tense. We're going to have to make some difficult decisions. Will our collective love for funny little green guys keep the Peon from being obliterated by the mighty Mammoth Tank? Will the Mirage Tank's ability to pretend to be a tree help it survive against Darth Vader's personal Star Destroyer? This is all up to you. All four of my personal picks made it to the quarterfinals (thank you, thank you), but now I'm nervous. Now that we're down to eight competitors, I've got a pick in each fight. I could win it all! Or I could lose everything. Harrowing stuff. I'm particularly wo
+A tension that will never go away as long as World of Warcraft: Forever exists is how true it is to the 2004 MMO. Blizzard signed up for this by creating an MMO that is trying to blend the old with the new so that anyone, regardless of their experience with WoW, can get into it. That tension has been at its highest concentration with the new blue elves it debuted with WoW: Forever. The Skyborne have never existed in WoW before; they look almost exactly like the Blood Elves from The Burning Crusade expansion, but their lore tells us they're a faction of High Elves. Some players love the twist on a race they've been asking to play for years, while others believe they tarnish the authenticity of an MMO that's trying to recreate the joys of playing the oldest era of the MMO. Even though the debate over the Skyborne will probably never be resolved, most players agreed that, at the very least, they looked way too new alongside WoW's crunchy old player models. Blizzard said it would respond to the feedback about the Skyborne visuals before WoW: Forever launches in November and today it has done just that in a blog post promising to give them a retro makeover. "Over the course of development, we have been aligning on the right range of fidelity and what feels like it belongs in the WoW: Forever world and what does not," Blizzard writes. "The team has learned much in the process, and that will continue to strengthen more with future content." (Image credit: Blizzard Entertainment) Bli
 
-### The biggest discounts on PC hardware we've spotted this Prime Day
-Wed, 07 Oct 2026 13:42:30 +0000 — https://www.pcgamer.com/hardware/the-biggest-discounts-on-pc-hardware-that-weve-spotted-this-prime-day/
+### With Grand Theft Auto 6 poised to take over the world, I reached out to Jack Thompson and it did not go well
+Wed, 07 Oct 2026 22:41:23 +0000 — https://www.pcgamer.com/games/grand-theft-auto/with-grand-theft-auto-6-poised-to-take-over-the-world-i-reached-out-to-jack-thompson-and-it-did-not-go-well/
 
-We're back on the hunt for PC gaming deals this fall Prime Day, and we've spotted a bunch of products with at least a 25% or greater discount. We're curating all the best Prime Day PC gaming deals here There are some great products among those most heavily discounted, like the Omen 35L with a 44% discount. Or Corsair's excellent MMO mouse, the Scimitar Elite Wireless SE , with 53% off. Save $105 Razer Wolverine V3 Pro 8K With a great feel, superb specs, and a bunch of remappable buttons, the Wolverine V3 Pro 8K is not only viable as a competitive choice, but comfy enough for everyday use. Key specs: Up to 8,000 Hz | TMR thumbsticks | Hall effect triggers |included carry case | Wireless and wired | 20 hour battery life (with 1,000 Hz polling) READ MORE $ 94.99 $199.99 Amazon deal recommended by: Jacob Ridley • Managing Editor, Hardware • 7 mins ago VIEW DEAL Save $80 Razer Iskur V2 X Razer's Iskur V2 X ergonomic gaming chair is a budget model, but at its full price, it feels pretty expensive. Now, at $80 off, it's practically a steal, and it sure is a necessity, with the end of 2026 packed with new game releases. Your back and your tush will both thank you. Key specs: 152-degree recline | Built-in lumbar support | 21.4-inch seat base | High-density foam cushions | 2D armrests | Plush fabric finish READ MORE $ 219.99 $299.99 Amazon deal recommended by: Jacob Ridley • Managing Editor, Hardware • 7 mins ago VIEW DEAL Save $2200 HP Omen 35L | RTX 5080 | 9800X3D I didn't expect to 
+Jack Thompson appearing in a 2008 episode of the Jace Hall Show , a few months before his disbarment by the Florida Bar. (Image credit: The Jace Hall Show) It's hard to imagine now, but a little over 20 years ago the gaming world was absolutely scandalized by Hot Coffee , a mod to activate abandoned code in Grand Theft Auto: San Andreas that enabled CJ to have interactive sex with his girlfriend. The game was re-rated as "Adults Only" by the ESRB in 2005, forcing it off retail shelves—this was a time when retail shelf space mattered—and it was banned outright in Australia. Even the US Federal Trade Commission got involved, complaining that Rockstar and Take-Two Interactive "did not tell consumers that the game discs contained potentially viewable nude female characters and a potentially playable sex mini-game." 22 years later, with Grand Theft Auto 6 on the verge of console release, it all seems rather quaint. From the ESRB's newly posted rating , here's what we've got to look forward to in GTA 6: Blood and Gore Intense Violence Mature Humor Nudity Strong Language Strong Sexual Content Use of Drugs and Alcohol All of which adds up to an M rating—that is, "generally suitable for ages 17 and up." PEGI, the European game rating agency, came down a little harder, rating it 18+ in a since-deleted listing that also noted the presence of "detailed decapitation" and "frequent and prominent" drug use. How did we get from there to here? Well, we grew up—literally. The Entertainment Sof
 
-### 2026 is a low-key revolutionary year for player movement in games
-Wed, 07 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/2026-is-a-low-key-revolutionary-year-for-player-movement-in-games/
+### Blood Bowl 3 is being replaced by Warhammer Blood Bowl: What will happen to everyone's unspent currency?
+Wed, 07 Oct 2026 22:34:55 +0000 — https://www.pcgamer.com/games/strategy/blood-bowl-3-is-being-replaced-by-warhammer-blood-bowl-what-will-happen-to-everyones-unspent-currency/
 
-A lot of the 3D games I consider touchstones of thoughtful player movement are a decade or more old: Mirror's Edge, of course, Titanfall 2, Dishonored 2, Doom Eternal or ARMA 3. That's by no means a comprehensive list, but these are the games that come to mind when I think about in-game movement that feels incredibly considered. And if ARMA 3 feels out of place in that list, its sim-style tactical physicality is memorable to anyone who plays it even briefly (me). These each set the ceiling high for what you could achieve with their controls, if you were prepared to learn them. Each offered a power fantasy of some kind to be mastered, whether you're wall-running onto a mech or peeking out across a field to line up a perfect shot. In recent years, though, I feel like it's increasingly common to find developers who want to capture granular, basic movements from real life that have no power fantasy element whatsoever. Things that would've sounded so boring if they were back-of-the-box features during the age of Quake 2 and Half-Life. I'm talking about walking slowly. Steadily moving up a cliff face. Mantling awkwardly over surfaces. Getting defeated by a slightly high rock and taking the long way around. Falling on your arse if you tumble down a small hill. They're about finding the fun in something as simple as balancing the packages you're carrying in Death Stranding, or escaping the mud in Snowrunner. 'Boring' games with a simulation aspect are as old as PC gaming itself, but 
+What happened Blood Bowl 3, the latest videogame iteration of Games Workshop's tabletop game of literal fantasy football, has an in-game store where a currency called Warpstone can be spent on cosmetics and new teams. An upgraded version called Warhammer Blood Bowl, now published by Slitherine rather than previous publisher Focus Home Interactive, is currently in beta and will eventually replace Blood Bowl 3. Slitherine has said anyone who owns Blood Bowl 3 will get Warhammer Blood Bowl for free, and their account will transfer over. But the way new teams are unlocked will be changing. Will we carry over our unspent Warpstone, or should we blow it all now before Blood Bowl 3 is deprecated when Warhammer Blood Bowl comes out later this year? Players are confused . I reached out to clarify the situation, and a Slitherine representative answered my questions. Here's the most important part: "Players will use the same BB account on both games, so they will instantly get all cosmetics, warpstones and teams they bought in BB3, into WH BB". But while you don't need to spend your Warpstone out of fear any leftovers will be lost, if you've got enough to splash out on a team that might be worthwhile. The representative confirmed that Warhammer Blood Bowl will still have Warpstone as a way of buying cosmetics but said, "We are still thinking about how to handle Teams." Could we be going back to the Blood Bowl 2 situation where additional teams were sold as DLC? The Warhammer Blood Bowl 
 
-### PSA: Star Wars Galactic Racer pilots, put some points in resilience before you hit the acid planet
-Wed, 07 Oct 2026 03:23:08 +0000 — https://www.pcgamer.com/games/racing/psa-star-wars-galactic-racer-pilots-put-some-points-in-resilience-before-you-hit-the-acid-planet/
+### 'You have HOW MANY unread emails?' PC Gamer shares their inbox shame
+Wed, 07 Oct 2026 22:06:11 +0000 — https://www.pcgamer.com/software/you-have-how-many-unread-emails-pc-gamer-shares-their-inbox-shame/
 
-The multiplayer tour mode in Galactic Racer lets you upgrade a speeder over the course of six races while other players manically shunt you into the wall on every track. It's a best-of-both-worlds mode that adds a little of the campaign's run-based progression to a multiplayer tournament. But since you only get one race on each planet, you might be blindsided by Sentinel I. Locations in Galactic Racer tend to follow the Star Wars pattern of single-environment worlds—the desert planet, the jungle planet—and good old Sentinel I is apparently the galaxy's planet of burning piss. Veer a little off-track on Sentinel I and you'll hit boiling yellow acid that quickly tanks your ramjet boost. It's a bad time. While it's normally tempting to throw your precious upgrade points into afterburner and ramjet to get your speed as high as possible, and battery if you've got a decent ability you need more energy for, make sure to put some points in resilience before you get to Sentinel 1 so you aren't instantly tanked the screwed you skim over one of its scenic acid rivers. It'll come in handy later on as well, because the climactic race of each tour on Derven Acos is basically a remix of previous environments and their hazards—including a little bit of Ando Prime's freezing ice, Lantaana's lava, and Sentinel I's corrosive acid. The same tip applies in singleplayer, of course, but there you'll start with a bunch of tuning points earned in previous runs and be less starved for upgrades. Best c
+Between midnight and 8:00 am this morning I received 56 emails. By the end of today that number will be well over a hundred, by the end of October I'll have about 4,000 more, and my total for 2026 will be in the neighborhood of 50,000 (work and personal combined.) Fifty. Thousand. Emails. In a year! That's with (and I just counted) the 284 email filters I've set up to keep out at least some of the garbage, nearly 200 blocked addresses, and our publisher's own hypervigilant email security system in place—which diverted 27 emails to spam today alone . That makes it incredibly difficult to stay on top of the actual useful emails we want to see when we open our inboxes. Email has become a waking nightmare, so that ugly red number on your phone or desktop showing you how many unread emails you have? Despite my headline up there, it really shouldn't be a source of stress and shame. It's not your fault email turned out this way . So let's air it out. All of us! This week I asked my coworkers how many unread emails they have, and you can see their answers (and explanations) below. We welcome you to try to top us in the comments. UNREAD EMAILS: 780 Chris Livingston, Senior Editor "This total is actually good for me, the result of spending an obscene amount of time over the past few years(!!!) setting up filters and unsubscribing from mailing lists I never signed up for. If I'd asked this question a couple years ago it would be a number too big to comprehend. This is a victory, believe
 
-### My most-played album of 2026? Sorry, Mitski—it's Final Fantasy 10: House Grooves, a real thing that exists
-Tue, 06 Oct 2026 21:45:24 +0000 — https://www.pcgamer.com/games/final-fantasy/my-most-played-album-of-2026-sorry-mitski-its-final-fantasy-10-house-grooves-a-real-thing-that-exists/
+### Bobby's back
+Wed, 07 Oct 2026 21:05:23 +0000 — https://www.pcgamer.com/gaming-industry/bobbys-back/
 
-Final Fantasy music is presumably so profitable for Square Enix that there are always new ways to slice the pie, whether we're talking piano covers, guitar versions, or expensive anniversary vinyl releases of its classic RPG soundtracks. Final Fantasy 10 is getting one of the latter next month to mark its 25th anniversary. And as someone who once spent a lot of my meagre convenience store salary importing the CD collection from Play Asia back in the day, it's undeniably a gorgeous sight: (Image credit: Square Enix Music) Elsewhere, Square Enix continues to find more inventive ways to squeeze dollars out of its vast music catalogue, including some which push the music into different genres entirely. Final Fantasy 10: House Grooves —the second of its kind following a similar outing for FF9—is exactly what it sounds like. Can Final Fantasy 10's often mournful or moody score become dance music ? The answer is: kind of. You never quite shake the sense that an unholy Seymour-Guado-and- his-mother -style union has taken place with this album. Some of the remixes sound like music I'd expect to hear in the bar of the W hotel during GDC circa 2014. I'd say that definitely applies to the rendition of ' To Zanarkand ', the famous piano opening to the game. I get big 'making small talk with the concierge' energy from that one. Still, I do think the two styles ultimately gel in that case, even if the end result evokes vastly different feelings as piece of music. ' Phantoms ', a track playe
+Former Activision Blizzard CEO Bobby Kotick, who left the company and the videogame industry at the end of 2023 following its acquisition by Microsoft, is back in the game. Skydance, the company formed by Paramount's acquisition of Warner Bros Discovery, has added Kotick to its board, where he will serve as an independent director. In a press release , Skydance credited Kotick for building Activision Blizzard "into one of those world's most successful videogame companies" during his 32 years as CEO. "Bobby led a global entertainment company through three decades of sustained growth, and he brings real perspective on building enduring franchises and connecting with fans," Skydance CEO David Ellison said. "His record of pairing bold strategic moves with disciplined capital allocation is exactly the experience we need as we bring our businesses together." Skydance now owns a frankly alarming number of media companies and brands , and yes, gaming is in the mix. While the announcement of the acquisition's closure on October 6 focused on film, streaming, television, and "a leading content portfolio that includes live sports, a deep programming library and expansive collection of iconic brands and franchises," it also includes Paramount Games—which was founded earlier in 2026 , basically by mashing up Skydance Interactive and Skydance New Media—and the far more storied Warner Bros Games. A Variety report says those two operations will be merged into a single entity. Today, we are Sk
 
-### 'Please give Novus one more chance': An 11-year-old early access survival game just got its first update since 2018
-Tue, 06 Oct 2026 21:44:55 +0000 — https://www.pcgamer.com/games/survival-crafting/please-give-novus-one-more-chance-an-11-year-old-early-access-survival-game-just-got-its-first-update-since-2018/
+### Steam is about to start getting some of the best Japanese pixel art in gaming history
+Wed, 07 Oct 2026 20:15:43 +0000 — https://www.pcgamer.com/games/adventure/steam-is-about-to-start-getting-some-of-the-best-japanese-pixel-art-in-gaming-history/
 
-What happened? Early access survival game Novus Inceptio got a major update this week It's the game's first update since 2018 The game entered early access in October 2015 (and is still in early access) The solo dev says "the energy and the will to finish the project are back" The map has gone from 9 km² to 64 km² of "pure wilderness" Combat has been rebuilt It's now singleplayer but there are plans for co-op Responses have been edited for length and clarity. PC Gamer: Why did development stop for so long? Martin Markus Mastný: I jumped into Unity head first, learned C# and learned how to work with Unity. That went on from 2013 until the early access release on October 5, 2015: learning, making the game, trying things. The whole time I had this strong idea and excitement that one day it would be an MMORPG. I built the server layer and databases and connected it all to Unity. Then Steam slapped me in the face :) Suddenly I had to deal with a million other things: PR, sales, the community, bugs, people's reactions. When I opened the Steam forum in the morning and questions were still unanswered, I had to answer them myself right away. So my community manager ended up handling bugs and being my quiet advisor. I needed to react immediately so people got a response. I felt I had to accommodate everyone and thank them for playing the game. The result was total collapse and burnout. It basically ruined the whole game, too. Martin Markus Mastný My day looked like this: get up, deal w
+Japan's NEC PC-98 series of personal computers, popular in the 1980s and 1990s, were home to hundreds of adventure games and visual novels with absolutely impeccable pixel art. It was a whole vibe— sometimes cute , sometimes incredibly detailed with a very limited color palette , and very (very) often pornographic. Very few of these games were ever officially released in English—the whole pornographic thing probably being a big reason why—but better late than never, right? A fan translation group named WINE has released five English translations for PC-98 games in the last three years, including a pair of horror adventures called Dead of the Brain and Dead of the Brain 2. And the first one is now getting an official release on Steam juuuust in time for Halloween, with enhancements like autosaves and "optional quality-of-life improvements such as hover hints and hit boxes." I've played a chunk of Dead of the Brain 2, and can't fully recommend them—they're pretty basic and a bit tedious as adventure games, and in schlocky horror B-movie fashion love to throw in some sexual violence—but damn do I love how these games look. There are some gnarly death scenes that aren't spoiled by this trailer. I've got to share a few screenshots of Dead of the Brain 2, which doesn't have a Steam page yet but has even moodier art than the first game: FairyTale FairyTale FairyTale FairyTale FairyTale FairyTale It's rare for fan translations to get an official stamp of approval, but this release of
 
-### The PC Gamer Mysteries, Case #1: "A Slice of Death": Why is there a dead golfer hidden in Golden Tee '99?
-Tue, 06 Oct 2026 19:48:42 +0000 — https://www.pcgamer.com/games/sports/the-pc-gamer-mysteries-case-1-a-slice-of-death-why-is-there-a-dead-golfer-hidden-in-golden-tee-99/
+### Nivalis Nights review: An avalanche of fascinating characters carrying a decent shop sim on their backs
+Wed, 07 Oct 2026 20:10:21 +0000 — https://www.pcgamer.com/games/life-sim/nivalis-nights-review/
 
-"Golden Tee '99, hole seven, Aspen Lake: There's a dead body about 180 yards out, a little bit to the right in the woods there," says Keith of Keith's Arcade, a YouTube channel not typically devoted to cold case homicides. But as they say in golf, you've got to play it as it lies, and in November 2012 Keith stumbled upon a body lying motionless just off the green of the otherwise picturesque, forested course in northern Colorado. It was his responsibility to tell the world what he'd found. "There you go. There you go," Keith repeats, clearly in shock. "Dead body in the woods, about 180 yards from the tee off point. Hole seven, Aspen Lake, Golden Tee '99. Thanks for watching." That's a dead body, all right. You can tell because of the pixels. (Image credit: Incredible Technologies) Under the pixelated body is a pool of blood, suggesting this unidentified man lying facedown in the grass met a violent end. A golf club stretches out from his hand—but was he really a golfer? Or was it placed there to make it look like a tragic accident, an injury sustained during what is well-known to be a dangerous game? Were there clouds suddenly darkening over the course beside Aspen Lake, or were those just scanlines? Golfers, famously, take their lives into their own hands every time they get in one of those little carts (no seatbelts!!) and drive it, like, 200 yards. Perhaps that's why this death went uninvestigated for so long—it's even conspicuously absent from the Colorado Bureau of Inves
+Nivalis Nights is overwhelming. Intentionally, I suspect, to give me the immersive experience of living in a hyper-capitalist megacity hellscape. It has no map because Nivalis is canonically unmappable, only a HUD compass where my 20+ active quest markers all scuttle over each other, nearly as crowded as the alleyways of its layered, neon city where hundreds of citizens amble between giant apartments and fusion food joints. (Image credit: ION Lands) Need to know What is it? : A quest-heavy cyberpunk shop simulation in a city obsessed with debt. Release date : September 29, 2026 Expect to pay : $25 / £22 Developer : Ion Lands Publisher : 505 Games Reviewed on : Intel Core Ultra 7 265, RTX 5070 Ti, 32GB RAM Multiplayer : No Steam Deck : Unspecified Link : Steam One of those joints is mine. Ramen Noir is a floundering noodle bar left to me by a friend named Thaddeus who flees the city for mysterious reasons, saddling me with its complementary insurmountable debt of 50,000 Lims. Thaddeus also left me a greenhouse. A salty lad named Crabface bequeaths me a boat. Some lady named Ma Gomba wants me to grow her enoki mushrooms. Danny Danetti wants my opinion on his donut recipes. A sentient vacuum needs my help fleeing the human wife of his deceased former consciousness. CorpSec Agent Teleshko suggests, nay, demands that I expand my operation by buying additional businesses. Oh, right, and there's a serial killer at large who's taking out people with massive amounts of debt. You know,
 
 ## GameSpot
+
+### Controversial Horror Series Ropes Me Back In With Silent Hill s Original Composer And Lady Dimitrescu
+Wed, 07 Oct 2026 20:45:00 +0000 — https://www.gamespot.com/articles/controversial-horror-series-ropes-me-back-in-with-silent-hills-original-composer-and-lady-dimitrescu/
+
+The Remothered games are true cult classics in the way that players find them either insufferable or inspired. As a lover of developer Stormind Games' antique perversions, but also a hater of its convoluted storytelling, I regretfully exist somewhere in between. But I know I won't be able to resist the new Remothered: Red Nun's Legacy when it launches later this month, since the horror game legends who helped make the Italian gothic game are way too good. Red Nun’s Legacy will feature legendary Silent Hill composer Akira Yamaoka, and its Red Nun enemy is voiced by Resident Evil alumna Maggie Robertson. Remothered: Red Nun's Legacy latest trailer, which premiered today during the latest Horror Game Awards showcase , revels in the weathered stone buildings and marble fountain angels of the game's Sicilian setting. Stormind Games' developers are based in Sicily themselves, so recreating the decaying decadence of the island for Red Nun's Legacy was like trying to catch a dream right upon waking: You may never remember every detail, but you know the smells and feelings perfectly, because you lived through them. https://youtu.be/R-1jZKgAfYQ A statement to press explains, "The Sicily that Stormind Games recreated in Remothered: Red Nun's Legacy is the Sicily the team has always lived, seen, breathed. This trailer is a visual journey through the real places, textures, colors, and cultural details that shaped the world of Red Nun's Legacy, stemming directly from the memories of those 
+
+### Three Years Later, The Outlast Trials Just Smashed Its Concurrent-Player Record
+Wed, 07 Oct 2026 20:00:15 +0000 — https://www.gamespot.com/articles/three-years-later-the-outlast-trials-just-smashed-its-concurrent-player-record/
+
+The Outlast Trials , Red Barrels' co-op horror game set in its wider Outlast universe, just broke its concurrent-player record, eclipsing 120,000 players. The previous high came when the game launched in Steam Early Access in 2023 and the player count climbed to 36,000. Today's new record means the indie horror game reset the bar with a total more than four times higher than its previous best. Red Barrels credited a few big factors for the record. For one, The Outlast Trials is enjoying a huge discount in the Steam Autumn Sale , on sale for $4--though that sale ends tomorrow (Thursday, October 8), if you're interested. The studio also revealed that roughly half of the players contributing to that total are from China, as the game is seeing a surge in popularity there. Naturally, the Halloween season helps too, even though it's not one of the new horror games coming out this month . Red Barrels sent the news out on its social media. The Outlast Trials made its version 1.0 debut in the spring of 2024. Though it's playable solo, it's intended to be experienced as a co-op game for up to four people. Seasonal content and events have come to the game regularly since then, adding new villains, abilities, maps, and more. Up next for the game is its annual Geister event for Halloween, followed by Season 8 in December, which will add another new major villain, or "Prime Asset," as well as a new map and more events. The Outlast Trials is a favorite on GameSpot, featured in our best horr
 
 ### Resident Evil Movie Will Become Zach Cregger s Biggest Ever, Surpassing Weapons
 Wed, 07 Oct 2026 19:14:22 +0000 — https://www.gamespot.com/articles/resident-evil-movie-will-become-zach-creggers-biggest-ever-surpassing-weapons/
@@ -462,17 +472,22 @@ Wed, 07 Oct 2026 16:01:31 +0000 — https://www.gamespot.com/articles/forza-hori
 
 Just a month after Microsoft said Forza Horizon 6 for PlayStation 5 remained on track to release in 2026, a new report says the game has in fact been delayed to 2027. Reputable leaker billbil-kun said Forza Horizon 6 for PS5 is set for release on January 26, 2027. The report said there will be a physical disc edition at retail, and the game will also be sold digitally. In September, Microsoft said in a blog post that the PS5 edition of the popular racing game was due for release in 2026, but plans have seemingly changed. Officially, however, Microsoft has yet to communicate any update to the game's PS5 release date. Forza Horizon 6 was released in May this year for Xbox Series X|S and PC. The game, which is set in Japan, scored rave reviews, including an 8/10 from GameSpot , and PlayStation fans have had to wait for their turn to play. The last game in the series, Forza Horizon 5, was a huge hit on PlayStation 5 . In other Forza news, Microsoft recently announced that Forza developers Turn 10 and Playground are merging to become one unified studio to support and grow the brand going forward.
 
-### The Next Gears Of War Game Probably Won t Need 7 Years To Cook
-Wed, 07 Oct 2026 15:58:47 +0000 — https://www.gamespot.com/articles/the-next-gears-of-war-game-probably-wont-need-7-years-to-cook/
-
-After a lengthy hiatus, Gears of War returned this week to Xbox Series X|S and PC with a new adventure set during the cataclysmic events of Emergence Day. For fans of the series, it has been a long wait, as the previous entry in the series, Gears 5 , was released all the way back in 2019. Will there be another seven-year stretch between new Gears games? Gears of War: E-Day developer The Coalition doesn't think so, as the new game lays the groundwork for a quicker turnaround for new potential chapters in the IP. Speaking to the BBC , Coalition studio head Mike Crump said that E-Day provides a "great foundation" for future games, and he claimed that "the next game will not take nearly as long" to make. "What I say to myself, what I say to the team, is we just we need to focus on the things that we can control. For us that's about shipping a great game that people are going to love and I feel like, as a team, we've done that," Crump added in response to questions about the safety of the studio and its institutional knowledge during a period of mass layoffs at Xbox. "We've got a great team here. And the leadership team in particular has worked together for upwards of 20 years. So there's definitely a continuity of knowledge and experience." So far, The Coalition appears to have been spared the brunt of " Xbox reset " layoffs, but fears remain that the axe might swing their way now that Gears of War: E-Day has launched. Recent changes at Xbox have seen several studios consolidated
-
-### Google Playground Wants Everyone To Make AI Games, And Maybe Everyone Shouldn t
-Wed, 07 Oct 2026 14:44:35 +0000 — https://www.gamespot.com/articles/google-playground-wants-everyone-to-make-ai-games-and-maybe-everyone-shouldnt/
-
-Stadia might be dead , but Google isn't giving up on gaming. The company has rolled out Playground , a platform built around AI that "lets you create, play, and share custom games." It's browser-based and labeled as an "experiment" to start. There's also Unity Spark support, which will offer more development options for people who catch the creator bug. Google's pitch claims that this new platform makes game creation more democratic by ending gatekeeping to development. The company states that Playground "lowers the barriers to creation, so bringing game ideas to life can now be as easy as describing it through a few prompts--no coding experience required." The platform also feels like the company's attempt at taking a piece of the Roblox pie--something that Xbox CEO Asha Sharma reportedly wants with Minecraft , too. https://www.youtube.com/watch?v=Dxvrvfyicp0 However, the initial rollout feels pretty underwhelming. The most hilarious part of the Playground experience, so far, is realizing how misleading the cover art for games is after actually playing them. For example, we checked out Volcano Run. The key image shows a sports car racing around a road crumbling; meanwhile, the actual gameplay is a rudimentary rectangular motorcycle (we think) driving in a Tron-like environment. One of the Unity Spark highlights is called Horror Story, and the game starts with players following a ghost into a haunted house. How that ghost shuffles into the residence is one of the funnier anim
-
 ## Rock Paper Shotgun
+
+### Star Wars Galactic Racer will soon welcome larger podracing parties, with multiplayer group size limits set to double in a future update
+Thu, 08 Oct 2026 10:50:00 +0000 — https://www.rockpapershotgun.com/star-wars-galactic-racer-will-soon-welcome-larger-podracing-parties-with-multiplayer-group-size-limits-set-to-double-in-a-future-update
+
+I've admittedly not delved into any multiplayer action in Star Wars: Galactic Racer since the gates to its racetracks were opened to the masses early this week. Look, I needed a quick breather after ramjetting my way through 40 or so hours of it for review . It looks like I might have to try and convince my colleagues to hop on for an RPS Boonta Eve classic soon though, as devs Fuse Games have already announced plans to up multiplayer party sizes so you can invite six mates along instead of three. Read more
+
+### AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer
+Thu, 08 Oct 2026 10:24:51 +0000 — https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer
+
+Handheld PC games could be set for a bit of visual spit 'n' shine, as AMD have confirmed plans to bring FSR 4 &ndash; their newest, prettiest upscaling tech &ndash; to the kind of dinky Radeon APUs used by portables. AMD Computing & Graphics exec Jack Huynh, speaking to Korean media including The Elec , detailed a two-pronged approach: they&rsquo;ll make new APUs built with native FSR 4 support, as well as a special version of the upscaler that can run on older integrated graphics chips, both by the end of 2026. Read more
+
+### Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with "more than half" of previous headcount reportedly returning to payroll
+Thu, 08 Oct 2026 09:18:31 +0000 — https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll
+
+Star Wars Zero Company developers Bit Reactor have begun to put some of the developers they furloughed prior to the game's release back on payroll. Thus far, the number of staff on payroll at the studio has reportedly returned to "more than half" of what it was prior to the furloughs, with Bit Reactor boss Greg Foertsch asserting that they hope to "eventually bring as many people back as possible". Read more
 
 ### Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis
 Wed, 07 Oct 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis
@@ -518,19 +533,4 @@ The English language can be a way of communicating, and it can be a way of subju
 Wed, 07 Oct 2026 11:03:06 +0000 — https://www.rockpapershotgun.com/gta-6-wont-be-playable-on-pc-at-launch-via-xboxs-cloud-streaming-services-microsoft-exec-indicates-while-refuting-exclusivity-deal-report
 
 Xbox chief strategy officer Matthew Ball has refuted a report that the console makers have secured an exclusive cloud streaming deal for GTA 6 at launch, which is noteworthy because the tech could provide a means to play the crime sim on PC prior to a native port arriving. Read more
-
-### Games industry investors are "sitting on the sidelines waiting for obvious slam dunks", says Undead Labs boss, with labour costs a key worry
-Wed, 07 Oct 2026 10:18:17 +0000 — https://www.rockpapershotgun.com/games-industry-investors-are-sitting-on-the-sidelines-waiting-for-obvious-slam-dunks-says-undead-labs-boss-with-labour-costs-a-key-worry
-
-Last month, State of Decay developers Undead Labs bought their own independence from Microsoft, after a deal with unnamed buyers fell through. The staff created a new holding company, Full Measure, to facilitate the buyout. Layoffs followed . Now, studio boss Philip Holt has offered an inside look on the transition, together with thoughts on the wider landscape of videogame industry investment. Short version: he thinks there's still money washing around, but the fatter cats are very much looking for "obvious slam dunks". Read more
-
-### ROTETRA is Tetris where the blocks fall from four different sides at once and lord almighty I don't have the brainspace to be good at it, but it sure is fun
-Tue, 06 Oct 2026 21:53:26 +0000 — https://www.rockpapershotgun.com/rotetra-is-tetris-where-the-blocks-fall-from-four-different-sides-at-once-and-lord-almighty-i-dont-have-the-brainspace-to-be-good-at-it-but-it-sure-is-fun
-
-Look, I'm pretty reasonable at Tetris. I'm not one of those grand masters or anything, but I can both have fun and get a score that would at least make my hypothetical nephew impressed (assuming he also wouldn't be in the Roblox mines). Sometimes, though, a take on the beautiful block game rocks up that makes me question any such skills I may have. Today, that is ROTERA, a block stacking game in which you must manage tetronimos falling from four directions at once. Read more
-
-### You and I both know you're not sleeping well in this economy, so have a gander at Sheeps, a roguelite about counting sheep pouring out of a strange portal
-Tue, 06 Oct 2026 20:32:09 +0000 — https://www.rockpapershotgun.com/you-and-i-both-know-youre-not-sleeping-well-in-this-economy-so-have-a-gander-at-sheeps-a-roguelite-about-counting-sheep-pouring-out-of-a-strange-portal
-
-I've never really been able to do that whole counting sheep thing to get to sleep. Just doesn't work for me. Instead, my brain prefers to latch onto something embarrassing I said when I was 14 and then imagine what the people who heard that must think of me, conveniently forgetting that 15 years have passed since then and only I would ever remember such an inane moment of a life. Segue! Here's a going about counting sheep called, you'll never guess it, Sheeps, and it's a roguelite so it's actually more interesting than that, I promise. Read more
 

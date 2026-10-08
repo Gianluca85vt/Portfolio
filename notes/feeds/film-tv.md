@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-07T19:31:26.275Z
+# Film & TV — harvested 2026-10-08T11:36:50.988Z
 
 ## Variety
 
-### Aerosmith Returns With Two Concerts at the Hollywood Bowl — Two Years After Announcing Retirement From Touring
-Wed, 07 Oct 2026 19:30:38 +0000 — https://variety.com/2026/music/news/aerosmith-returns-two-shows-hollywood-bowl-retirement-1236904642/
+### Wim Wenders Boards Peter Lindbergh Documentary ‘Truth:Beauty’
+Thu, 08 Oct 2026 10:01:13 +0000 — https://variety.com/2026/film/global/wim-wenders-peter-lindbergh-documentary-truthbeauty-1236905380/
 
-Aerosmith is coming out of retirement for two nights at Los Angeles Hollywood Bowl with California, Dream On: Aerosmith Friends, featuring guest appearances from Run-D.M.C., Billy Idol, Eric Church, Slash and many more. The rock group will perform at the famed venue on October 29 and November 1. The lineup of guests, which will [ ]
+Wim Wenders has boarded “Truth:Beauty,” a feature documentary about legendary German fashion photographer Peter Lindbergh, as executive producer. The project, produced by Maja Hoffmann and Human Humans, will mark the feature directorial debut of French novelist Alexandra Matine, whose books include “Scopophilia” and “La Pire Amie du monde.” Matine is also writing the film, which [ ]
 
-### Krux Review: A Potently Bleak Portrait of German Village Life at the Bitter End of WWII
-Wed, 07 Oct 2026 19:07:54 +0000 — https://variety.com/2026/film/news/krux-review-1236899215/
+### Charlotte Gainsbourg on Listening to Controversial Kanye West and Working With Tortured Lars von Trier at Busan
+Thu, 08 Oct 2026 09:37:24 +0000 — https://variety.com/2026/film/festivals/charlotte-gainsbourg-kanye-west-lars-von-trier-busan-1236905360/
 
-We’re used to films about hope and rejuvenation in the final days of the Second World War, but there’s a more novel perspective to be found in “Krux” — set in an isolated village in northeast Germany, where many of the locals have been so brainwashed by Nazism that the end of the war may [ ]
+Charlotte Gainsbourg had one artist to recommend to the crowd at her Busan International Film Festival masterclass, and it was not a safe pick. I m not good for recommendation. I have one artist that I listen to, very controversial artist, but I listen to everything he does, and it s Kanye West, Gainsbourg said, to laughter [ ]
 
-### Wicker Sets One-Night-Only 4DX Screening Film News in Brief
-Wed, 07 Oct 2026 19:00:00 +0000 — https://variety.com/2026/film/news/film-news-in-brief-oct-5-2026-1236899132/
+### Louis Garrel to Play Fiat Heir John Elkann in Marco Bellocchio s Falcon ; RAI Cinema International Boards for Sales
+Thu, 08 Oct 2026 09:28:20 +0000 — https://variety.com/2026/film/global/louis-garrel-marco-bellocchio-falcon-fiat-heir-john-elkann-1236905312/
 
-Black Bear studio announced Wednesday that “Wicker” will be released in the immersive 4DX format in a one-night-only screening event on Oct. 28. Based on Ursula Wills’ short story “The Wicker Husband,” the film follows a fisherwoman (Olivia Colman) and her torrid romance with her hand-weaved husband played by Alexander Skarsgård. The special screening will [ ]
+Louis Garrel is set to play John Elkann — heir to Italy s Agnelli family, behind car giant Fiat — in Italian auteur Marco Bellocchio s “Falcon. The biopic centers on charismatic auto industry executive Sergio Marchionne, played by Pierfrancesco Favino, who saved Fiat from the brink of bankruptcy. The high-end production is currently shooting in Toronto. [ ]
 
-### ‘Elsbeth’ Season 4 Adds Uzo Aduba, Tyne Daly and Christine Ebersole (EXCLUSIVE)
-Wed, 07 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/elsbeth-season-4-uzo-aduba-tyne-daly-christine-ebersole-1236903431/
+### Alfonso Cuaron Revisits Gravity With Son Jonas at Busan: Life as an Experience Is What I Now Care About the Most
+Thu, 08 Oct 2026 08:58:55 +0000 — https://variety.com/2026/film/festivals/alfonso-cuaron-revisits-gravity-son-jonas-busan-1236905332/
 
-Elsbeth has added Uzo Aduba, Tyne Daly and Christine Ebersole to the Season 4 cast. Ebersole will have a recurring role as Elsbeth s mother in the CBS crime drama, while Aduba and Daly will each guest star. The fourth season of the spinoff based on “The Good Wife” and “The Good Fight” will premiere on [ ]
+When he was younger, film came first for Alfonso Cuarón. These days, the Oscar-winning director says, life does. He made the remark at his Busan International Film Festival masterclass on Thursday, a day after he and his son Jonas Cuaron, his co-writer on 2013 space survival drama Gravity, revisited the film following an Imax screening. [ ]
 
-### Ben Stiller to Moderate Conversation With William Shatner at New York Comic-Con Star Trek Panel (EXCLUSIVE)
-Wed, 07 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/ben-stiller-william-shatner-nycc-star-trek-panel-1236904492/
+### The Island of Lies, a Race Against the Clock Mystery Thriller, Bolsters France TV Distribution’s Mipcom Lineup (EXCLUSIVE)
+Thu, 08 Oct 2026 08:52:01 +0000 — https://variety.com/2026/tv/global/the-island-of-lies-france-tv-distribution-mipcom-1236905283/
 
-Actor and filmmaker Ben Stiller will moderate a conversation with William Shatner as part of the Star Trek panel at New York Comic-Con this Saturday, Variety has learned exclusively. It was previously reported that Shatner would take part in the panel, which comes as the Star Trek franchise is celebrating its 60th anniversary. The panel [ ]
+France TV Distribution is launching mystery thriller “The Island of Lies” (“Sans Retour”) at this year’s Mipcom TV market in Cannes. Produced by Fontaram Productions and Ramona Productions for France Télévisions, the six-part series centers on Emma, whose life is starting over at the age of 33. Convicted as a teenager for a double murder [ ]
 
-### Dick Clark s New Year s Rockin Eve With Ryan Seacrest to Simulcast on Both ABC and Disney+ for the First Time
-Wed, 07 Oct 2026 18:35:04 +0000 — https://variety.com/2026/tv/news/dick-clark-new-years-rockin-eve-simulcast-disney-plus-abc-1236904595/
+### Nathan Fielder s Elizabeth Holmes Doc You Can See Everything Sets November U.K. Release Date
+Thu, 08 Oct 2026 08:32:34 +0000 — https://variety.com/2026/film/global/nathan-fielder-you-can-see-everything-uk-release-date-1236905306/
 
-Disney+ viewers will be ringing in the new year with Ryan Secrest and New Year s Rockin Eve. ABC and Dick Clark Productions announced Wednesday that “Dick Clark’s New Year’s Rockin’ Eve with Ryan Seacrest 2027” will simulcast on Disney+ for the first time this year, along with its usual live broadcast on ABC. Seacrest will [ ]
+You Can See Everything, Nathan Fielder and Lance Oppenheim s highly anticipated documentary about Elizabeth Holmes, has set a release date in the U.K. and Ireland. The doc, which offers an intimate look at the Theranos founder s life a month before she began an 11-year prison sentence for defrauding investors, will hit cinemas in the U.K. [ ]
 
-### Frank Mancuso Sr., Former Chief of Paramount, MGM/UA, Dies at 93
-Wed, 07 Oct 2026 18:13:10 +0000 — https://variety.com/2026/film/news/frank-mancuso-dead-dies-paramount-chief-1236904576/
+### Josh Hartnett Leads Netflix’s Exhilarating Sea Monster Thriller Below : TV Review
+Thu, 08 Oct 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/below-review-netflix-josh-hartnett-1236904980/
 
-Frank Mancuso Sr., a distribution executive who went on to head two of Hollywood’s major studios, Paramount and MGM/UA, died on Oct. 1 at his home in Los Angeles from complications of cancer, per a family statement. He was 93. “When God created Frank Mancuso Sr., he broke the mold,” actor Andy Garcia said in [ ]
+The oceans vastness can feel ominous, and though scientists have studied what lurks beneath, so much remains unknown. In Netflix’s new limited series “Below,” creator Jesse McKeown introduces viewers to a tiny town in the Canadian province of Newfoundland, a man still haunted by his past and a family desperate to look ahead toward the [ ]
 
-### Horror Impact Report: From James Wan to Curry Barker to Naomi Ackie, Variety Crowns the Talent Defining the Genre
-Wed, 07 Oct 2026 18:00:00 +0000 — https://variety.com/lists/horror-list-best-directors-actors-2026/
+### Vancouver Film Festival Prizes: Big Wins for Immigrant Tale ‘Nina Roza,’ the ‘Polished Cinematic’ ‘In the Heart of the South’ and Separated Sisters Story ‘How We Stand’
+Thu, 08 Oct 2026 06:36:42 +0000 — https://variety.com/2026/film/global/vancouver-film-festival-prizes-nina-roza-how-we-stand-1236905277/
 
-Variety’s second annual Horror Impact Report comes in a year when the genre has had unparalleled success. Indie films like “Backrooms” and “Obsession” were box office smashes, high-profile series like “Carrie” and the “Friday the 13th” prequel “Crystal Lake” are set to haunt streamers, and even iconic franchises like “Halloween” and “Hellraiser” are back as [ ]
+Geneviève Dulude-De Celles’ “Nina Roza,” Nyla Innuksuk’s “In the Heart of the South” and Marie Clements’ “How We Stand” are among the films taking top honors at the 45th Vancouver International Film Festival (VIFF). The festival announced its 2026 juried awards winners on Wednesday night, recognizing films across its Summit, Horizon, Tides, Arbutus, Vanguard and [ ]
 
-### Jeremy Clarkson Returns to Automobiles in New ‘Clarkson’s Farm’ Special ‘Jeremy Grows a Car’
-Wed, 07 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/global/jeremy-clarkson-grows-a-car-farm-special-1236904500/
+### James Gunn Responds to ‘Clayface’ Criticism: ‘The Public Voting on What IP They Want to See’ Isn’t ‘the Only Way to Make a Movie’
+Thu, 08 Oct 2026 05:40:49 +0000 — https://variety.com/2026/film/news/james-gunn-responds-to-clayface-criticism-dc-studios-1236905240/
 
-Former “Top Gear” host Jeremy Clarkson is back tinkering with automobiles in a newly-unveiled “Clarkson’s Farm” special. Titled “Jeremy Grows a Car: A Clarkson’s Farm Special” the stand-alone episode will give fans a front seat as the broadcaster attempts to “undertake a world first: growing and building his very own car from produce grown at [ ]
+James Gunn has an answer to the question of “who tf asked for a Clayface movie,” posed by a commenter on the DC Studios head’s Threads account earlier this week. “Who tf asked for Back to the Future? Casablanca? There s Something About Mary? Pan s Labyrinth? Fury Road? Weapons? The Matrix?” Gunn fired back on the [ ]
 
-### Star Wars: Galactic Racer Debuts on Amazon Luna Day and Date With Wide Release (Gaming News Roundup)
-Wed, 07 Oct 2026 17:52:50 +0000 — https://variety.com/2026/gaming/news/gaming-news-roundup-october-5-1236899234/
+### Doha Film Festival Unveils Competition Lineup With Accent on Female Filmmakers and Middle East Fare
+Thu, 08 Oct 2026 05:00:00 +0000 — https://variety.com/2026/film/festivals/doha-film-festival-female-filmmakers-and-middle-east-1236904400/
 
-“Star Wars: Galactic Racer” launched on Amazon s gaming service Luna day and date alongside the game’s worldwide release across platforms including PlayStation 5, Xbox Series S and X and PC. Developed by Fuse Games, the studio behind the Burnout and Need for Speed franchises, “Star Wars: Galactic Racer” puts players behind the controls of a [ ]
+The upcoming Doha Film Festival has unveiled its 15-title competition lineup made up mostly of Middle East premieres of movies from the region, seven of which directed by women. As previously announced, Yemeni-Scottish filmmaker Sara Ishaq’s timely drama The Station, which looks at the impact of Yemen s civil war on the country, is set as [ ]
 
 ## The Hollywood Reporter
 
-### Saban Community Clinic to Honor Peter Friedlander and David Nevins at 50th Gala
-Wed, 07 Oct 2026 19:21:08 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/saban-community-clinic-gala-peter-friedlander-david-nevins-1236724646/
+### The Hollywood Reporter Honors ‘The Koreans’ Star Han Ji-min With Trailblazer Award at Busan Gala
+Thu, 08 Oct 2026 07:37:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/thr-han-ji-min-trailblazer-award-busan-film-festival-1236725235/
 
-Set to take place at the Beverly Hills Hotel on Oct. 26, the milestone event will feature Alex Edelman as host, Aloe Blacc as performer and Connie Britton as presenter.
+Studio executives, 'Bedford Park' star Moon Choi and 'KPop Demon Hunters' producer Agnes Lee were among the guests at THR and the Motion Picture Association’s American Film Night, celebrating creative ties between Hollywood and Korea.
 
-### Glen Powell Says He Doesn’t Want to Talk Politics, Blames Paramount Marketing Cuts for The Running Man Box Office Performance
-Wed, 07 Oct 2026 18:58:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/glen-powell-politics-1236724656/
+### Below Review: Josh Hartnett Battles a Sea Creature in Netflix s Likably Silly Newfoundland-Set Thriller
+Thu, 08 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/below-review-josh-hartnett-netflix-1236724963/
 
-The actor told Esquire that engaging in political conversations was "not presently possible" and that Paramount "let go of an entire marketing department a month before ['The Running Man'] came out in the middle of a merger."
+Jesse McKeown's six-part series focuses on a fisherman in a remote village, his quirky family and an aquatic monster capable of easily sinking ships.
 
-### CBS News Sets Town Hall With J.D. Vance Ahead of Midterm Elections
-Wed, 07 Oct 2026 18:32:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cbs-news-town-hall-j-d-vance-tony-dokoupil-elections-1236724636/
+### What to Snag (and Skip) During October Prime Day s Final Hours
+Thu, 08 Oct 2026 01:25:35 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/amazon-prime-big-deal-days-october-2026-dates-best-sales-1236722954/
 
-Tony Dokoupil will moderate the event, airing Oct. 17 on CBS and Paramount+.
+Amazon's annual shopping holiday ends on Wednesday, Oct. 7 at 11:59 p.m. PT. Here is exactly what's worth your while.
 
-### Frank Mancuso Sr., Former Chairman of Paramount and MGM, Dies at 93
-Wed, 07 Oct 2026 18:27:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/frank-mancuso-sr-dead-paramount-mgm-1236724659/
+### An Emotional Andrew Scott and Elsinore Kick Off a Starry 2026 London Film Festival
+Wed, 07 Oct 2026 23:41:20 +0000 — https://www.hollywoodreporter.com/movies/movie-news/andrew-scott-olivia-colman-elsinore-london-film-fest-2026-1236724385/
 
-He spent 13 years as a Hollywood chieftain after succeeding Barry Diller in 1984 and Alan Ladd Jr. in 1993.
+The Irishman was joined by co-stars Olivia Colman, Luke Thompson, Billie Piper and Johnny Flynn, as well as the real-life influences on Ian Charleson's life before his death from AIDS in 1990.
 
-### Tony Driscoll Named Head of Games and Experiences at Skydance
-Wed, 07 Oct 2026 17:47:02 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-video-games-experiences-president-tony-driscoll-1236724538/
+### Alexander Skarsgard s Wicker Gets Immersive With 4DX Screening Event
+Wed, 07 Oct 2026 23:09:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alexander-skarsgard-wicker-immersive-4dx-screening-1236724998/
 
-This has all been an experience.
+The romantic fantasy also stars Olivia Colman, Peter Dinklage and Elizabeth Debicki.
 
-### Illinois Touts State Filming Tax Credit as New Studio Facility Breaks Ground
-Wed, 07 Oct 2026 17:43:27 +0000 — https://www.hollywoodreporter.com/business/business-news/illinois-state-filming-tax-credit-new-studio-facility-1236724551/
+### Marilyn Monroe and Sydney Sweeney Are Related
+Wed, 07 Oct 2026 23:08:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/marilyn-monroe-sydney-sweeney-related-ninth-cousins-1236724751/
 
-The campus near St. Louis will feature six soundstages totaling 144,000 square feet.
+The actresses are ninth cousins, once removed. They share a mutual ancestor, Ezra Perry (c. 1625–1689), who was an early English settler in Sandwich, Massachusetts.
 
-### Ari Emanuel Opens a Can of Worms… And Eats Them Every Morning
-Wed, 07 Oct 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/ari-emanuel-eating-worms-1236723988/
+### The Louis Theroux Podcast to Double Spotify Output, Unveils Season 9 Guests (Exclusive)
+Wed, 07 Oct 2026 23:01:00 +0000 — https://www.hollywoodreporter.com/business/digital/louis-theroux-podcast-spotify-season-9-1236724332/
 
-The super-agent’s new memoir spills plenty of Hollywood tea. But his breakfast ritual, which includes a heaping cup of parasitic helminths, is definitely hard to swallow.
+Hollywood A-lister Judd Apatow, Monty Python legend Eric Idle and the former star of Theroux's 'The Most Hated Family in America,' Megan Phelps-Roper, will join the British broadcaster on the next installment.
 
-### First Paramount, Then Warners, Now… Book Soup?
-Wed, 07 Oct 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/book-soup-sold-robert-hoffman-1236723991/
+### For Israeli Actress Noa Cohen, October 7 Is Both Personal and Professional
+Wed, 07 Oct 2026 22:14:35 +0000 — https://www.hollywoodreporter.com/movies/movie-features/october-7-movies-best-our-loves-nova-noa-1236724989/
 
-One of Larry Ellison’s former Oracle execs has just purchased your favorite book store — but relax. It’s not as terrible as it sounds.
+The Gen Z star appears in a new movie about the trauma. It’s brought a lot back.
 
-### Long Live Steve McQueen: Why the King of Cool Is Hot Again
-Wed, 07 Oct 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/steve-mcqueen-remakes-reboots-1236723994/
+### HBO Max and Paramount+ Will Be One, But What Happens to Discovery+?
+Wed, 07 Oct 2026 21:20:57 +0000 — https://www.hollywoodreporter.com/business/business-news/discovery-plus-future-under-skydance-1236723587/
 
-Three reboots of signature McQueen movies — ‘The Thomas Crown Affair,’ ‘Bullitt,’ and ‘The Getaway’ — are currently in the works. Says his grandkid, “Cool never expires.”
+No one is talking about Skydance's other streamer.
 
-### The Princess Murders Comic Invites You to Be Its Guest with Disney Animated Musical-Inspired Trailer (Exclusive)
-Wed, 07 Oct 2026 17:14:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-princess-murders-comic-trailer-1236724260/
+### Catherine Hardwicke Tapped to Direct Bronte Studios Female-Led Western American River
+Wed, 07 Oct 2026 21:03:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/catherine-hardwicke-bronte-female-western-american-river-1236724856/
 
-Comic creators Tony Fleecs and Tim Seeley show the circle of life is short in their kingdom with an Image title that mixes fairy tale romance with a Giallo.
+Set to shoot in Australia in 2027, the film is being cast by veteran casting directors Lisa Beach and Sarah Katzman for producers Blake Northfield and Michelle Krumm of Bronte Studios with Shaun Goodman.
 
 ## Deadline
 
-### Ted Lasso Team Hoped To Bring Anthony Head Back In Season 4 Finale
-Wed, 07 Oct 2026 19:28:58 +0000 — https://deadline.com/2026/10/ted-lasso-anthony-head-return-season-4-finale-1237149289/
+### Grace Harper Brighouse On Bringing Her Camden Film Festival-Winning Doc ‘Dependence’ Back Home To London — LFF
+Thu, 08 Oct 2026 11:36:37 +0000 — https://deadline.com/2026/10/grace-harper-brighouse-dependence-lff-1237149782/
 
-Apple TV s Ted Lasso referenced Anthony Head s villainous Rupert Mannion character a few times in Season 4 and paid tribute to the actor, who died on June 1 at the age of 72, with an In Memoriam card in Episode 409. But there could ve been more, according to Ted Lasso co-creator, executive producer and star [ ]
+The 2026 London Film Festival rolls into action this week. And among the headline international galas, there is once again a strong collection of homegrown titles. The most exciting is perhaps Dependence, a moving, formally experimental documentary directed by debut filmmaker Grace Harper Brighouse. Dependence premiered earlier this year at Camden, where it won the [ ]
 
-### Sebastian Stan Says Avengers: Doomsday Is Probably Heartbreaking : We ll See Who Makes It To The Next Level
-Wed, 07 Oct 2026 19:10:17 +0000 — https://deadline.com/2026/10/sebastian-stan-avengers-doomsday-heartbreaking-1237149298/
+### Hande Erçel To Star In Nader Saeivar’s Berlin-Set Drama ‘Diaspora’
+Thu, 08 Oct 2026 11:20:18 +0000 — https://deadline.com/2026/10/hande-ercel-nader-saeivar-germany-diaspora-1237149799/
 
-Sebastian Stan is reprising his role as Bucky Barnes, the Winter Soldier, in Avengers: Doomsday and is teasing that the film will be heartbreaking. Marvel fans are already bracing for the worst, and Stan s recent interview while promoting Fjord has them guessing that someone will die. I haven’t seen the movie, and I don’t know how it [ ]
+EXCLUSIVE: Turkish star Hande Erçel has been unveiled as the lead actress in Iranian director and screenwriter Nadar Saeivar’s upcoming Germany-set drama Diaspora ahead of an early 2027 shoot. Berlin-based director Saeivar, whose recent directorial credits include No End (2022), The Witness (2024) and Hijamat (2026), is also known internationally for his work with Jafar [ ]
 
-### Apple TV’s Beat The Reaper Casts Paul Schulze Tony Macht
-Wed, 07 Oct 2026 19:00:00 +0000 — https://deadline.com/2026/10/apple-tv-beat-the-reaper-cast-paul-schulze-tony-macht-1237148711/
+### Lauren Ash, Mae Martin Randall Park Join Crave Comedy Meatballs
+Thu, 08 Oct 2026 11:00:00 +0000 — https://deadline.com/2026/10/meatballs-casts-lauren-ash-mae-martin-randall-park-crave-1237149732/
 
-EXCLUSIVE: Apple TV s upcoming dramedy Beat the Reaper has added Paul Schulze (Nurse Jackie, The Sopranos) and Tony Macht (Oh Mary!, The Comeback) to its recurring cast. Details regarding their characters are under wraps. Based on the novel of the same name by Josh Bazell, Beat the Reaper follows Dr. Peter Brown (Will Poulter), an [ ]
+EXCLUSIVE: Lauren Ash (Superstore), Mae Martin (Wayward) and Randall Park (Wandavision) are joining the campers at Crave comedy Meatballs. The trio will be guest cast in the series, which is billed as a raunchy, irreverent reimagining of the beloved 1979 Canadian comedy classic that starred Bill Murray. They will join Gen V star Maddie Phillips [ ]
 
-### Frank G. Mancuso Sr. Dies: Former Head Of Paramount Pictures MGM Was 93
-Wed, 07 Oct 2026 18:40:18 +0000 — https://deadline.com/2026/10/frank-mancuso-sr-dead-1237149258/
+### BBC Apologizes Unreservedly And Removes Article Accusing PinkNews Founder Of Sexual Misconduct
+Thu, 08 Oct 2026 10:53:16 +0000 — https://deadline.com/2026/10/bbc-apologizes-pinknews-doc-article-sexual-misconduct-1237149757/
 
-Frank G. Mancuso Sr., the former film studio executive who headed both Paramount Pictures and Metro-Goldwyn-Mayer during the 1980s and 90s, overseeing the release of such major box office hits as Top Gun, Beverly Hills Cop, Fatal Attraction, The Untouchables, Coming to America and Ghost, died of cancer on Thursday, October 1, at his home [ ]
+The BBC has apologized unreservedly for the defamatory allegations made in a documentary and accompanying article about the founder of one of the UK s leading LGBTQ+ publications and his husband. The BBC this morning removed from its website the original PinkNews article. The documentary came off iPlayer last year after its window ran down. The [ ]
 
-### NBC Developing Series Based On Finland s ‘66th North Precinct From The Irrational Creator Arika Mittman
-Wed, 07 Oct 2026 18:30:00 +0000 — https://deadline.com/2026/10/nbc-developing-66th-north-precinct-arika-mittman-1237149230/
+### Niamh Algar Fanny Ardant Starring In UK-Greek Series Set In AI-Controlled Luxury Resort
+Thu, 08 Oct 2026 09:59:19 +0000 — https://deadline.com/2026/10/niamh-algar-fanny-ardant-harmonia-uk-greek-series-1237149740/
 
-EXCLUSIVE: NBC is developing a drama series based on the popular Finnish series 66th North Precinct from The Irrational creator and showrunner Arika Lisanne Mittman, Elevate Entertainment and Universal Television. The logline for the untitled project: A compelling and darkly comedic procedural about a former pro boxer who returns with her family to her southern [ ]
+Niamh Algar and French cinema legend Fanny Ardant are leading a thriller series set in an AI-controlled, high-end luxury resort. Harmonia is a rare UK-Greek co-pro coming from Adolescence co-producer Warp Films, ITV Studios and Greek pubcaster ERT. In Harmonia, Algar is the AI s creator, Shona Casey, while Ardant plays the resort s former owner. In [ ]
 
-### Ted Lasso Co-Creator Brandan Hunt On Theme Song Switch In Season 4 Finale If Brandi Carlile s Version Is Here To Stay
-Wed, 07 Oct 2026 18:23:49 +0000 — https://deadline.com/2026/10/ted-lasso-theme-song-brandi-carlile-explained-1237149218/
+### Marco Bellocchio’s Falcon Sets Sales Announces Louis Garrel In Role Of Fiat Boss John Elkann
+Thu, 08 Oct 2026 09:02:59 +0000 — https://deadline.com/2026/10/marco-bellocchio-falcon-rai-sales-louis-garrel-john-elkann-1237149741/
 
-Ted Lasso fans were in for a surprise when tuning in for the Season 4 finale, which was released on Apple TV on Wednesday. When time came for the comedy s signature main title credits after the opening scene, it played to a haunting cover of the Ted Lasso Theme” sung by 11-time Grammy winner Brandi [ ]
+Rai Cinema International Distribution has boarded sales on Marco Bellocchio’s financial thriller Falcon, inspired by the life of late Fiat-Chrysler automobile exec Sergio Marchionne, as it films in Toronto. In new casting additions, previously announced lead Pierfrancesco Favino is being joined by Louis Garrel, Benedetta Cimatti and Barbara Ronchi, with the participation of Valeria Bruni [ ]
 
-### Sony Pictures Entertainment Launches Crunchyroll Storyworks, Aiming To Boost Japanese Anime s Reach
-Wed, 07 Oct 2026 17:49:24 +0000 — https://deadline.com/2026/10/sony-pictures-entertainment-crunchyroll-storyworks-japanese-anime-1237149139/
+### Alternativa Distribution Takes ‘No Good Men’ ‘Four Daughters’ To MIPCOM
+Thu, 08 Oct 2026 08:43:38 +0000 — https://deadline.com/2026/10/alternativa-distribution-mipcom-four-daughters-no-good-men-1237149704/
 
-Sony Pictures Entertainment has unveiled a new division of its Crunchryroll anime subsidiary, Crunchyroll Storyworks. The new unit, which will be led by Tohru Iokibe, a 25-year veteran of Sony Corp., will aim to deepen ties between Crunchyroll and the Japanese anime community and boost its global profile. Sony Pictures closed its $1.2 billion acquisition [ ]
+EXCLUSIVE: Alternativa Distribution has acquired selected rights to features including Berlin Film Festival opener No Good Men ahead of making its debut at the MIPCOM market in Cannes. The fledgling distributor has acquired several other festival and award-nominated movies ahead of MIPCOM. It will present Akio Fujimoto’s Lost Land to buyers, as well as Abinash [ ]
 
-### Resident Evil Becoming Zach Cregger s Highest-Grossing Movie Ever At $280M+ WW, Boosted By $35M China Debut
-Wed, 07 Oct 2026 17:45:00 +0000 — https://deadline.com/2026/10/box-office-resident-evil-zach-cregger-record-1237149149/
+### Lightdox Acquires Sales Rights To ‘Nostalgia For The Future,’ Documentary On Enigmatic Filmmaker Chris Marker Narrated By Charlotte Rampling
+Thu, 08 Oct 2026 08:34:26 +0000 — https://deadline.com/2026/10/nostalgia-for-the-future-lightdox-sales-acquisition-1237149710/
 
-EXCLUSIVE: By the end of this week or sooner, Sony/Constantin s Resident Evil will become Zach Cregger s highest-grossing movie at the global box office. It will surpass his previous high, New Line s Weapons, which ended its run at $270M worldwide. This all comes with the theatrical release of Resident Evil in China on Monday. Through Monday [ ]
+EXCLUSIVE: Lightdox has acquired international sales rights to Nostalgia for the Future leading into Film Fest Gent in Belgium where the documentary screens on Sunday. The film narrated by Oscar-nominated actress Charlotte Rampling examines the enigmatic filmmaker Chris Marker (1921-2012), one of the most influential figures in the history of cinema. The Belgium–Netherlands–Italy co-production, directed [ ]
 
-### Carrie s Samantha Sloyan On The Finale Twist That Helped To Anchor Her Margaret White; Teases The Exorcist: Martyrs Is The Scariest Thing Mike Flanagan Has Made
-Wed, 07 Oct 2026 17:42:59 +0000 — https://deadline.com/2026/10/carrie-samantha-sloyan-finale-twist-margaret-exorcist-martyrs-1237149153/
+### World War Z Director Marc Forster Adapting Jamie Scallion s Revenge Thriller Nines For TV With Renée Wolfe, Me+You Productions Fremantle
+Thu, 08 Oct 2026 08:30:35 +0000 — https://deadline.com/2026/10/marc-forster-nines-jamie-scallion-tv-renee-wolfe-fremantle-1237149709/
 
-SPOILERS: This post contains details for the Season 1 finale episode of Prime Video s Carrie With Mike Flanagan s take on the works of Stephen King in Prime Video s Carrie, he tapped one of his frequent collaborators for an iconic role. Samantha Sloyan, who stars as Carrie s religious extremist mother Margaret White (originated onscreen by Piper [ ]
+EXCLUSIVE: World War Z and Quantum of Solace director Marc Forster is turning his hand to TV by directing an adaptation of Jamie Scallion’s buzzy upcoming thriller Nines. Nines, which follows a man in jail intent on revenge, was snapped up by Forster and Renée Wolfe s indie 2DUX² along with I Am producer Me+You Productions [ ]
 
-### Regina Hall Joins Jennifer Aniston In Universal s Holiday Comedy Naughty
-Wed, 07 Oct 2026 17:30:00 +0000 — https://deadline.com/2026/10/regina-hall-jennifer-aniston-naughty-1237148364/
+### Brad Bird On The 30-Year Journey To Bring Ray Gunn To The Big Screen — London Film Festival
+Thu, 08 Oct 2026 08:22:59 +0000 — https://deadline.com/2026/10/brad-bird-ray-gunn-london-film-festival-skydance-netflix-1237148899/
 
-EXCLUSIVE: Regina Hall is set to join Jennifer Aniston and Peter Dinklage in the Universal pic Naughty from director Olivia Wilde. Jimmy Warden penned the script that Wilde will direct. The project originates from a spec script by Warden. Naughty follows Mallory (Aniston), whose only hope of securing custody of her son from her gaslighting [ ]
+This week, animation auteur Brad Bird debuts his latest feature, Ray Gunn, at the London Film Festival, ending what the veteran filmmaker describes as a three-decade journey to bring the animated feature to life. “I wish I could dress it up in some more reasonable-sounding way, but it actually took that long,” Bird jokes, speaking [ ]
 
-### Jennifer Beals Katheryn Winnick To Star In New Lifetime Movie Murder In Cold Country
-Wed, 07 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/jennifer-beals-katheryn-winnick-lifetime-movie-1237148735/
+### The Deadline Dozen: The Hottest Scripted Shows Heading To MIPCOM Including Baywatch , Einstein Maya Starring Bella Ramsey
+Thu, 08 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/deadline-dozen-scripted-baywatch-einstein-maya-bella-ramsey-1237147987/
 
-EXCLUSIVE: Jennifer Beals (The L Word) and Katheryn Winnick (Vikings, Big Sky) are set to lead the new Lifetime Original movie Murder in Cold Country, based on a story by bestselling author Tess Gerritsen, creator of the Rizzoli Isles series, and Dan Rosen. Beals and Winnick will portray detectives brought together by tragedy, bound [ ]
+Welcome to our selection of the most scorching titles headed to MIPCOM this year, The Deadline Dozen. Our editorial team has carefully researched and selected the projects we expect to drive the chatter on the Croisette and beyond. Day two of our Deadline Dozen brings scripted. For the best unscripted fare, click here. BAYWATCH FREMANTLE [ ]
 
-### David Harbour John Cena Set For Fifth Season Comedy The Family Disappears ; Pic Reunites Friendship Producing Team
-Wed, 07 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/david-harbour-john-cena-to-star-the-family-disappears-1237149136/
+### North Stars: How Heated Rivalry Made Canadian TV Red Hot
+Thu, 08 Oct 2026 07:25:40 +0000 — https://deadline.com/2026/10/how-heated-rivalry-made-canadian-tv-red-hot-crave-1237149699/
 
-EXCLUSIVE: Fifth Season is set to produce The Family Disappears, a new comedy from Bad Apples helmer Jonatan Etzler starring two-time Emmy winner David Harbour and Emmy nominee John Cena. Based on an original script by Brendan O Hare with thriller undertones, The Family Disappears follows an overworked dad who returns from a work trip to [ ]
+The mega-success of Heated Rivalry has buyers asking what is coming next from Crave, the Canadian streamer that greenlit the ice hockey romance hit. The streamer is part of Bell Media, and company President Sean Cohan is backing Canadian producers to produce the next Heated Rivalry as Canadian content becomes hot international property. The next [ ]
 
 ## befores & afters
 
@@ -178,12 +178,12 @@ Tue, 06 Oct 2026 14:32:28 +0000 — https://beforesandafters.com/2026/10/07/fall
 
 Behind Koala FX’s visual effects for this latest survival-thriller. Following the vertiginous success of Fall , the sequel Fall 2: Deadpoint takes its survival-thriller premise from a single isolated tower and expands it into an entire mountain environment. Directed by the Spierig brothers, Michael and Peter Spierig, from a screenplay by Scott Mann and Jonathan Frank, the film follows Jax Hunter (Harriet Slater), who, still grieving the death of her sister Shiloh, joins Shiloh’s friend Luce (Arsema Thomas) on a climb of Thailand’s treacherous Mount Kwan. Their memorial hike takes a disastrous turn when a rockslide leaves the pair stranded thousands of feet above the ground on a narrow, precarious plank walk, forcing them to navigate an increasingly dangerous route back down the mountain while battling exposure, exhaustion and sheer vertigo. The production required extensive visual effects to create the scale and geography of the mountainous areas in the film. The plank structures were physically constructed on a quarry wall in Thailand, with sections positioned around six metres above the ground for practical filming and stunt work, before VFX extended the rock walls and surrounding landscapes. Koala FX ultimately delivered more than 400 VFX shots, creating a full CG representation of Mount Kwan and combining digital matte painting, 2.5D set extensions and CG environments. The work included building and maintaining the continuity of the mountain across changing weather and li
 
-### Rodeo FX s House of the Dragon s3 VFX breakdown is here
-Tue, 06 Oct 2026 09:53:48 +0000 — https://beforesandafters.com/2026/10/06/rodeo-fxs-house-of-the-dragon-s3-vfx-breakdown-is-here/
-
-Go behind the scenes. The post Rodeo FX s House of the Dragon s3 VFX breakdown is here appeared first on befores & afters .
-
 ## IndieWire
+
+### Ted Lasso Season 4 Found Its Way by Settling for Less
+Wed, 07 Oct 2026 21:00:00 +0000 — https://www.indiewire.com/criticism/shows/ted-lasso-season-4-finale-review-new-season-5-spoilers-1235220582/
+
+After a disastrous third season, the return of Jason Sudeikis' warmhearted Apple comedy didn't take the same big swings that helped make it a mega-hit. Instead, Season 4 acclimated to its comfy sitcom environs, becoming a little less ambitious — and a lot easier to enjoy.
 
 ### With Trump Settlement Money in the Bank, E. Jean Carroll Finally Speaks — and in Time for the Documentary Oscar Race
 Wed, 07 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/awards/consider-this/e-jean-carroll-interview-documentary-ask-e-jean-1235220662/
@@ -240,112 +240,107 @@ Tue, 06 Oct 2026 22:08:49 +0000 — https://www.indiewire.com/news/obituary/eva-
 
 The Hollywood icon enjoyed a stage and screen acting career that lasted eight decades.
 
-### Andrew Garfield Massively Helps Neon s Artificial Gamble Pay Off on the Awards Front
-Tue, 06 Oct 2026 19:36:32 +0000 — https://www.indiewire.com/awards/predictions/andrew-garfield-neon-artificial-oscar-chances-1235220470/
-
-The two-time Oscar nominee's full circle moment from corporate martyr in "The Social Network" to corporate menace in Luca Guadagnino's "Artificial" is a strong awards campaign narrative.
-
 ## The Wrap
 
-### Feel Alexander Skarsgard s Wicker Man: Wicker Gets 4DX Screenings Due to Fan Demand
-Wed, 07 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/movies/wicker-gets-the-4dx-treatment-after-fan-demand/
+### Jimmy Kimmel Sends a Pointed Message to Guillermo Rodriguez’s ‘Dancing With the Stars’ Haters
+Thu, 08 Oct 2026 05:12:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-message-guillermo-rodriguez-dancing-with-the-stars-haters/
 
-Hold onto your hats, chairs and wicker baskets? “Wicker” is coming to 4DX for a one-night-only theatrical event on Oct. 28, giving audiences a chance to experience the spicy upcoming film in an immersive format. Black Bear, the independent studio behind the film, announced the screening Wednesday, saying the decision was driven by fan demand following the release of the trailer and the film’s festival run. Directed by Eleanor Wilson and Alex Huston Fischer, “Wicker” stars Academy Award winner Olivia Colman alongside Alexander Skarsgård, Peter Dinklage and Elizabeth Debicki. The film premiered at the Sundance Film Festival, where it received rave reviews and a double standing ovation. The 4DX format uses motion-based seating synchronized with more than 21 environmental effects, including wind, water, vibration, snow, lightning and scents. The technology is designed to create a multisensory experience that corresponds with the action on screen. Typically the format has been used for high-stakes action movies, but audiences will get to experience the high-stakes intensity of Wicker which is an off-beat romantic fable. “From the moment the trailer landed, audiences understood that Wicker; could be something different, and they started asking to experience it in 4DX,” said David Spitz, head of U.S. Theatrical Distribution for Black Bear. “What’s particularly exciting is seeing this wholly original film connect with audiences who might not ordinarily see themselves in the audience 
+Jimmy Kimmel came to the defense of his right-hand man, Guillermo Rodriguez, after the latter received hate comments for surviving another week on “Dancing With the Stars” despite having the lowest scores . During Wednesday s monologue for Jimmy Kimmel Live! , the late night host touched on Rodriguez s Cinderella story on DWTS, joking it was like if the fairytale all of sudden became about the pumpkin. Our own little bell of the ballroom is one step closer to becoming the champion on Dancing with the Stars,' Kimmel said before playing footage of Rodriguez s latest routine. I think you re the only dancer who ever spent more time rolling on the floor than dancing on it, Kimmel quipped. I think the audience thought you fainted. As he went on, the comedian highlighted that the DWTS audience had become taken with Rodriguez. In fact, Rodriguez was trending alongside Lionel Messi s retirement from Argentina s national football team Tuesday night. The greatest soccer player in the history of the world. You re right under him, Kimmel said. We really cannot overstate how incredible this is. This is like if the Cinderella story was about the pumpkin. He added: You re like a rainbow. Like nobody looks up and goes, Well, that one isn t great. They go, Every one of them is a miracle, right? And while plenty of fans have been rooting Rodriguez on, including players on the New England Patriots, Kimmel pointed out that not everyone is happy with his co-star s success. There have even been som
 
-### The View Host Ana Navarro Says RFK Jr. s Leadership Concerns Her After Russian Plague Death
-Wed, 07 Oct 2026 18:52:44 +0000 — https://www.thewrap.com/media-platforms/politics/the-view-ana-navarro-russian-plague-death-video/
+### Nana Patekar, a Legend of Bollywood and Indian Cinema, Dies at 75
+Thu, 08 Oct 2026 04:16:57 +0000 — https://www.thewrap.com/culture-lifestyle/culture/nana-patekar-dies-bollywood-indian-cinema-legend/
 
-The View co-host Ana Navarro pointed to Robert F. Kennedy Jr. s appointment as the Health and Human Services secretary as the reason she is concerned about the plague-related death of a Russian woman, remarking, It s so important that we have qualified people in government. Very little information has been revealed about the incident. As The View co-host Sunny Hostin explained, all that has been revealed so far is that a 28-year-old woman working at a Russian plague lab was exposed to some sort of plague and died within 48 hours. Russian authorities are reportedly monitoring and quarantining the people that the woman came into contact with between her exposure and death. Her death has been reportedly linked to some form of the pneumonic plague. When I hear this, I just kind of want to put my hands to my ears, curl up in the fetal position and say, Wake me up when it s over. This is why I think it s so important that we have qualified people in government, Navarro said in response to the story, adding, I just don t give a pass to Republican senators who voted to confirm RFK Jr. as Secretary of Health, knowing he was unqualified. Things like this are going to come up. There s going to be crises. There s going to be health emergencies, Navarro continued. When I think of RFK Jr. heading HHS, I just say, Girl, kiss your ass goodbye.' You can watch the full View segment yourself below. DEATH OF PLAGUE INSTITUTE STAFFER IN RUSSIA: With reports of a possible death related to pneumoni
+Nana Patekar, a Bollywood legend and icon of Indian cinema, has died following a reported cardiac arrest. He was 75. According to local reports , citing Dr. Shekhar Salkar, the chief of oncology at Manipal Hospital, Patekar was discovered unresponsive at his home in Goa in the early hours on Oct. 8. He was then brought to the hospital, where Dr. Salkar said he was given cardiac massage for almost 45 minutes to an hour, but he just could not be saved. Patekar was declared dead by 5:30 a.m. local time. The body has now been taken to the Goa Medical College for post-mortem, Salkar said, per ANI. His family was not there. His friends were there with him and a caretaker. #WATCH | Goa: Dr. Shekhar Salkar, Chief of the Oncology Department, Manipal Hospital, says, "Nana Patekar was brought dead to the hospital he was declared dead by 5:30 am. We had tried our best to save him, but he was brought dead. Cardiac massage was given for almost 45… https://t.co/7aX0YP0p4t pic.twitter.com/VesOdsN8Mj &mdash; ANI (@ANI) October 8, 2026 The actor was born Vishwanath Patekar in Murud-Janjira on Jan. 1, 1951. He later studied at Mumbai’s Sir J.J. Institute of Applied Art. Patekar nabbed his first stage role under Vijaya Mehta, going on to make his film debut in 1978 s “Gaman.” After landing a number of small roles, including a part in Mira Nair’s Oscar-nominated “Salaam Bombay!,” Patekar scored his breakthrough performance in 1989’s “Parinda.” This performance led to an Indian National Film Award
 
-### Frank Mancuso Sr., Pioneering CEO of Paramount Pictures and MGM, Dies at 93
-Wed, 07 Oct 2026 18:14:26 +0000 — https://www.thewrap.com/creative-content/movies/frank-mancuso-sr-pioneering-ceo-of-paramount-pictures-and-mgm-dies-at-93/
+### Sebastian Stan Admits He Hasn’t Seen a Final Cut of ‘Avengers: Doomsday,’ But Predicts It’ll Be ‘Heartbreaking’
+Thu, 08 Oct 2026 03:26:39 +0000 — https://www.thewrap.com/creative-content/movies/sebastian-stan-avengers-doomsday-prediction-heartbreaking/
 
-Frank G. Mancuso, Sr., the renowned film executive who headed not one but two major Hollywood studios—passed away on Oct. 1 at his home in Los Angeles, from complications of cancer, according to a family spokesperson. He was 93 years old. Mancuso, whose expertise spanned sales, marketing and distribution, served as chairman and CEO of Paramount Pictures from 1984 to 1991, during which he oversaw the release of blockbusters “Top Gun,” “Fatal Attraction,” “The Untouchables,” “Coming to America” and “Ghost.” From 1993 to 1999, he headed Metro-Goldwyn-Mayer (MGM), helping rebuild its film and television operations and acquiring Orion Pictures and PolyGram Filmed Entertainment. Throughout his 45-year career, Mancuso’s affable demeanor earned him the nickname “Gentleman Frank.” He knew the names of colleagues at every level, from the mailroom to the executive floor, and fostered a family-like atmosphere at the studios. “When God created Frank Mancuso Sr., he broke the mold,” said Andy Garcia. “This is not just a saying but the absolute truth. Mr. Mancuso will forever be a beacon of class in our industry, the greatest example of warmth, integrity and generosity. I had the blessing of his friendship, support and guidance. I will miss him deeply and will continue to be inspired by his example. Rest in peace, ‘Pops.’” Born July 25, 1933, the only child of George, a postal worker, and Mary (Scott), a homemaker, Frank George Mancuso took a part-time job in high school as an usher at the 
+Sebastian Stan is bracing for heartbreak ahead of the release of “Avengers: Doomsday,” despite not knowing how the new superhero movie ends. The actor, who stars as Bucky Barnes (aka Winter Soldier) in the new Marvel installment, admitted to Decider that he still hadn t seen a final cut of Doomsday – even with the movie s release a little over two months away. “I haven’t seen the movie, and I don’t know how it turned out,” he told the outlet. “I’m sure it’s going to be probably heartbreaking, in a lot of ways. We’ll see who makes it to the next level.” And there are plenty of players at stake in this new Avengers movie, as it stars Chris Hemsworth, Vanessa Kirby, Anthony Mackie, Stan, Letitia Wright, Paul Rudd, Wyatt Russell, Tenoch Huerta Mejia, Ebon Moss-Bachrach, Simu Liu, Florence Pugh, Kelsey Grammer, Joseph Quinn, Danny Ramirez, Patrick Stewart, Ian McKellan and Channing Tatum. Robert Downey Jr. and Chris Evans, who made headlines after “Avengers: Endgame” for concluding their runs as Iron Man and Captain America, respectively, are also set to appear in “Doomsday.” Stan confirmed that he got a chance to reunite with everyone” on Doomsday, noting, “It was very nostalgic to look back, and think about all of these years that we’ve known each other, and grew up together. It’s incredible in that way. It’s been a family and it never stops being that way.” While some fans have taken Stan s comments as an indication that some Marvel fan favorites will perish, it s likely more t
 
-### Ben Affleck and Matt Damon s Artists Equity Launches Indie Label
-Wed, 07 Oct 2026 17:56:38 +0000 — https://www.thewrap.com/creative-content/movies/ben-affleck-and-matt-damons-artists-equity-launches-indie-label/
+### Michael Kosta Calls Out His ‘Daily Show’ Crowd for Groaning at Morbid Sinkhole Joke
+Thu, 08 Oct 2026 02:34:19 +0000 — https://www.thewrap.com/creative-content/tv-shows/michael-kosta-calls-out-daily-show-audience-groaning/
 
-Matt Damon and Ben Affleck s production company Artists Equity has established a new division, Artists Equity Independent Pictures, to release new films from emerging filmmakers. Jennifer Westin, SVP, Creative Affairs and Production, will lead day-to-day supervision of the AEIP slate under the guidance of Amy Baer, Artists Equity’s president of film and television. “We owe much of our careers to independent cinema, so we’re keenly aware of its enormous role in discovering and refining talent,” said Affleck and Damon, Artists Equity’s CEO and CCO, respectively. “Artists Equity Independent Pictures is a way for us to empower rising voices with real potential, broaden the type of stories we’re telling, and serve in an audience that continues to express a growing desire for high-quality independent films.” AEIP says it is backed by its own independent film fund and will be based around a creatively ambitious, fiscally prudent model. Among the early projects AEIP is developing is A Woman in the Sun, the directorial debut of Julia Cox, who wrote the Oscar-nominated Nyad and the recent TIFF hit The Love of Your Life. Renée Zellweger and Sissy Spacek will star in the film alongside The Phoenician Scheme star Mia Threapleton. AEIP is also developing Downriver, the scripted feature debut of Sam Jones, whose past work includes episodes of Ted Lasso. He is directing from a script he co-wrote with bestselling author and three-time Pulitzer Prize nominee Carl Hiaasen. AEIP is producing alo
+Michael Kosta s The Daily Show monologue was briefly derailed Wednesday evening after his studio audience audibly groaned at one morbid sinkhole joke. The comedian found himself discussing a sinkhole pandemic Wednesday evening as The Daily Show played news footage highlighting the growing problem in the United States. The danger lurking underground from old and abandoned mines eroding away and causing sinkholes and other incidents across the country, a reporter could be heard saying. This 30-foot sinkhole swallowing a chunk of a suburban South Dakota street, others swallowing cars, each of these hundreds of thousands of dots tied to a mine. In response to this revelation, Kosta hit back with, There s a sinkhole pandemic?! I thought the whole job of the ground was to be the ground. What do you mean there s a ground under the ground? What the f k have I been walking on this whole time? Here s where Kosta briefly lost his audience. This is so messed up, he further stated. Mines are only supposed to kill the people who work in them. At this moment, the Daily Show studio audience awkwardly laughed before audibly groaning in unison. However, Kosta took the response in stride, quickly quipping, Your first reaction was to laugh at that. This seemed to right things, as the crowd could be heard loudly laughing following the playful call out. He got another round of laughter when he joked, concluding the sinkhole commentary, By the way, make sure you save a photo of that map, because, i
 
-### Glen Powell Doesn t Want to Talk About Politics as a Movie Star: My Calling Is Elsewhere
-Wed, 07 Oct 2026 17:31:39 +0000 — https://www.thewrap.com/culture-lifestyle/culture/glen-powell-politics-discourse-running-man-box-office/
+### Trump Torched for Doubling Down on ‘Take Out’ LA or San Diego Comments in New Speech: ‘Disgusting and Dangerous’
+Thu, 08 Oct 2026 01:51:22 +0000 — https://www.thewrap.com/media-platforms/politics/trump-doubles-down-take-out-la-san-diego-comment-social-media-reacts/
 
-Glen Powell told Esquire in a new profile published Wednesday that he has no intention of stepping into the ring of political discourse, telling the outlet, My calling is elsewhere. Over time, I realized that politics divide people, Powell explained. People trying to prove their point — for me, it’s the worst version of a conversation. I genuinely do not like the discourse. It’s not as healthy as it once was. [Engaging in politics] is not presently possible. I applaud people for jumping into those things and fighting for what they believe in, the actor added. If I were a political person, I would be talking about it. For me, my calling is elsewhere. In the profile, Powell noted that his stance aligns with the way he was raised. His parents apparently almost never talked about current events or politics at the dinner table when he was growing up. Thank God, he remarked to Esquire. While speaking with the outlet, Powell also touched on the lackluster financial performance of his 2025 blockbuster The Running Man, which grossed under $70 million at the worldwide box office on a reported budget of $110 million. The actor partly blamed the film s poor box office performance on behind-the-scenes marketing turnover at Paramount, pointing to mass layoffs that hit the studio in October 2025. They let go of an entire marketing department a month before our movie came out in the middle of a merger, he noted. Powell is, notably, not the only mainstream Hollywood star who has been open abo
+Donald Trump faced backlash Wednesday evening after seemingly doubling down on his “take out” Los Angeles and San Diego comment , with critics labeling the president’s remarks “disgusting and dangerous.” Earlier on Wednesday, the president appeared at the Freeman Coliseum in San Antonio, Texas to support U.S. Senate candidate Ken Paxton and House candidate Carlos De La Cruz heading into the midterm elections. During his rally speech, Trump appeared to try a revised version of his take out Los Angeles and San Diego remark from earlier in the week, which had controversially been interpreted as a dare to Iran to attack the West Coast cities. We had no choice, because we can t let them have a new weapon, he said, addressing the reasons behind the war in Iran. But you want to see trauma? You want to see problems? And I said it the other day: Let them hit a missile into San Diego or Los Angeles on the way. Let them hit. You want to see a horror show? You want to see problems? He added: Let them hit San Diego. Let them hit Los Angeles if you want to see some bad things happen. You want to see a country that would be in free fall? We re not going to let that happen. We protect our cities. We protect our country. We re not letting that happen, Trump assured, before indicating that Iran would use a nuclear weapon against the U.S. if given the chance. Trump: "Let them hit a missile into San Diego or Los Angeles on the way. You want to see a horror show? Let them hit San Diego. Let them 
 
-### Verity and American Horror Story Enter the Top 10 Most Anticipated Titles Chart
-Wed, 07 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/verity-and-american-horror-story-enter-the-top-10-most-anticipated-titles-chart/
+### Rosie O’Donnell Apologizes for Labeling Wynonna Judd a Trump Supporter: I Was Wrong
+Thu, 08 Oct 2026 00:58:46 +0000 — https://www.thewrap.com/culture-lifestyle/culture/rosie-odonnell-wynonna-judd-apology-trump-supporter/
 
-What are the entertainment offerings that consumers are most excited about? It’s a question that marketers, distributors, advertisers and media publications are always asking. ScreenShare , a data partnership between Screen Engine and TheWrap, tracks the Top 10 most-mentioned entertainment options every week and whether each has gained or lost momentum compared to the prior week. The chart lives on the Data & Analysis page of the WrapPRO Members Hub. For the week of Sept. 26-Oct. 2, “NFL Football” took the top spot in entertainment mentions at 4.7% as Week 3 wrapped up and Week 4 got underway on Oct. 1. “Grand Theft Auto VI” followed in second at 4.5%, the week’s steepest decline, with the game’s Nov. 19 launch still seven weeks out. “Avengers: Doomsday” rose to third at 4.4%, the week s largest increase, coinciding with the Sept. 25 “Avengers Endgame: Encore” re-release, which adds four minutes of new footage to the 2019 blockbuster tying directly into the Dec. 18 film. “Spider-Man: Brand New Day” climbed to fourth at 3.8% while “Resident Evil” rounded out the Top 5 at 3% as the reboot continued its theatrical run. “Verity” entered the Top 10 in sixth at 2% as anticipation built ahead of the Oct. 2 theatrical release of the Colleen Hoover adaptation, which stars Anne Hathaway, Dakota Johnson and Josh Hartnett. “The Odyssey” landed seventh at 1.8%, declining from the prior week. FX’s “American Horror Story” entered in eighth at 1.6% as the anthology s thirteenth season rolled
+Rosie O’Donnell is walking back her assumption that her friend, country star, Wynonna Judd, supports President Donald Trump, apologizing in an Instagram post Wednesday. “I was wrong to assume Wy was a Trump supporter just because she performed for him,” O’Donnell wrote . “But as she told me she has sung for seven presidents on both sides of the aisle. My apologies here publicly (as I first made them privately) #friendship she’s touring her new album now go see her SING like no one else on earth.” View this post on Instagram A post shared by Rosie O’Donnell (@rosie) O’Donnell first brought Judd, who has been friends with the comedian for more than 30 years, into the spotlight in August, when she appeared on Kyle Ridley’s “The Tangle” podcast. During the interview, O’Donnell said she would have trouble having anyone close to her be a Trump supporter , with the exception of Judd, whom she decided to “give grace.” “Now, I am friends with Wynonna Judd, who I love very much, and I’ve known her for many, many years. And she is a supporter of Trump. And somehow, we never bring it up,” O’Donnell shared at the time. “I kind of give her a grace in a way. She’s had so much in her life with her mom taking her own life and just the complicated nature of her upbringing, and I really love her and I care about her, and for some reason, I’m able to put that aside when we interact.” O’Donnell continued: “But aside from Wy, I can’t think of anyone else in my life who supports him, and I don’t un
 
-### The Hunting Wives Scores Early Season 3 Renewal at Netflix
-Wed, 07 Oct 2026 16:16:51 +0000 — https://www.thewrap.com/culture-lifestyle/culture/the-hunting-wives-season-3-renewed/
+### Jessica Tarlov Warns Elon Musk Will Play Massive Role in Midterm Misinformation: ‘Grok’s Core Is a White Nationalist’
+Thu, 08 Oct 2026 00:32:17 +0000 — https://www.thewrap.com/media-platforms/politics/jessica-tarlov-elon-musk-grok-midterm-election-misinformation/
 
-The Hunting Wives has scored an early Season 3 renewal at Netflix ahead the debut of its second installment in November. I m so stoked to be heading back to Maple Brook, and I promise that once you ve finished Season 2, you ll be desperate to see what happens next. Buckle up, because Season 3 will be even more scandalous and twisted, creator, showrunner, writer and EP Rebecca Cutter said in a statement. Season 2 of the series will premiere on Netflix this Thanksgiving, Nov. 26. The campy mystery series made waves last summer, spending five weeks in the Netflix Global Top 10. The Hunting Wives Season 1 has garnered over 35 million since July 2025. Created by Cutter, the series was based on the bestselling novel by May Cobb. Cutter remains on board as the showrunner for Season 2. Erwin Stoff will serve as an executive producer for 3 Arts Entertainment with Cobb and Cutter. The eight-episode season comes from Lionsgate Television. Malin Åkerman and Brittany Snow have teased a big old mess to come for Season 2. They both agreed coming back for the sophomore season felt more comfortable as they had a more clear understanding of the tone and their characters. Sophie, as a character, gets to be unraveled little bit by little bit in Season 1, and then in Season 2 … the sweater is unraveled, the whole thing is a big old mess, Snow said. The first season it was weeks of just second guessing myself, and then second season I was like, Just give it my best shot, here we go, so it just kin
+Jessica Tarlov and “Raging Perspective” co-host Aaron Parnas are concerned that AI-generated imagery could have a major impact on misinformation during the midterm elections this November. The podcasting duo were particularly concerned about Elon Musk-owned Grok, which has faced scrutiny over its ability to generate election-related misinformation. Parnas said that an AI-generated video depicting voter fraud terrifies him “because that will go viral in an instant.” The media personality also warned that Democrats do not have anything to combat that momentum. Social media platforms aren t going to take it down, he said. Elon Musk isn t going to take an AI-generated video of somebody committing voter fraud. Think what they could do with the right technology, Tarlov added. Tarlov did counter that many tech giants are already trying to cozy themselves to the Democrats as the political pendulum is swinging in the other direction, but she said that there s one tech trillionaire that will not budge. While the tide does seem to be turning against the Trump administration Elon Musk is the only one who is not, she said. He is digging in deeper. The Fox News contributor added that she believes Musk s vision for Grok is for it to run the entire government. Elon Musk’s xAI and its Grok models are integrated into websites like America.gov and broader U.S. federal operations through several official partnerships. The chatbot was rolled out last week Sept. 29. Tarlov agreed that the AI agent
 
-### Disney+ to Livestream 2027 Super Bowl
-Wed, 07 Oct 2026 16:03:51 +0000 — https://www.thewrap.com/culture-lifestyle/culture/super-bowl-2027-disney-plus-livestream-espn/
+### Creatorverse: Paramount and WBD Are Already Behind in the Brewing Creator Battle
+Thu, 08 Oct 2026 00:30:00 +0000 — https://www.thewrap.com/media-platforms/tv/creatorverse-paramount-wbd-creator-strategy/
 
-Super Bowl LXI will be available to stream live on Disney+ when the championship game takes place on Sunday, Feb. 14, 2027. The Valentine s Day game will mark ESPN s first-ever Super Bowl production, with Disney+ streams available in both English and Spanish. Furthermore, ESPN and Disney+ will be distributing the former s Super Bowl LXI presentation to countries and territories outside of the United States, as well as to American viewers. ESPN and Disney+ made the announcement Wednesday, in collaboration with the NFL. ESPN commentators Joe Buck, Troy Aikman, Lisa Salters and Laura Rutledge have already been tapped to commentate. The broadcast will be available to stream on Disney+ in over 55 international markets, including Australia, New Zealand, the Caribbean, South Africa, Brazil and Latin America. ESPN, meanwhile, will carry Super Bowl LXI on its linear platforms in over 130 countries and territories. Its Monday Night Football games this season, as well as all of its Super Bowl programming, will remain available to stream on the ESPN App in the United States. Notably, this will also be ABC s first big game since 2006. The Wednesday announcement comes during the same NFL season where two of ESPN and ABC s scheduled Monday Night Football broadcasts are also already set to stream live on Disney+ this fall. On Monday, Oct. 26, the platform will provide a livestream of ESPN s broadcast of that night s scheduled game between the Dallas Cowboys and the Philadelphia Eagles. The s
+Hey Creatorverse readers, For better or worse, it s over. On Tuesday, Skydance officially acquired Warner Bros. Discovery a little more than a year after acquiring Paramount Global. Co-CEO David Ellison has been clear that this move was designed to give both Paramount and WBD — two cable-focused media empires that were late to the streaming game — a better fighting chance in the modern media landscape. It’s hard to argue with him on this point. Though WBD’s streaming division surpassed an impressive $3 billion in its second quarter and Paramount’s streaming profits hit $366 million , both companies have had a long, confusing and rebrand-filled path to streaming. But while this merger may help with the streaming wars, it’s unclear what the strategy is when it comes to the TV industry’s latest contest: the battle over creators. Out of all the major media companies, Paramount and WBD have the weakest strategies when it comes to working with content creators. WBD is the stronger contender of the two . Though there have been several interesting collaborations between WBD properties and creators, there’s not a larger company-wide creator effort like Disney, Netflix, Fox or NBCUniversal have demonstrated. Food Network has developed a strong relationship with TikTok through its culinary-focused Hot List, and the two organizations collaborated on a live show. Both Cartoon Network and Adult Swim also have a history of recruiting creators to help them develop new projects. Vanessa Brook
 
-### The Pitt, Shrinking, The Diplomat Among Casting Society s 2027 Artios TV Nominations
-Wed, 07 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/industry-news/awards/artios-casting-society-tv-theater-commercials-short-films-nominations-2027/
+### Martha Stewart Explains Why She Doesn t Have a Kardashian-Level G5: I Lost About a Billion Dollars
+Thu, 08 Oct 2026 00:13:15 +0000 — https://www.thewrap.com/culture-lifestyle/culture/martha-stewart-lost-one-billion-dollars-legal-fallout-private-jet/
 
-The Pitt, Shrinking, The Diplomat and DTF St. Louis were among the TV nominees for the 42nd Artios Awards, which the Casting Society announced on Wednesday. The annual celebration of casting directors will take place in Los Angeles, New York and London on Feb. 18, 2027. The CSA also announced nominees in theater, commercials and short films. Among the nominated casting directors, Bernard Telsey received the most nods, seven, for projects that spanned multiple categories and include Only Murders in the Building and The Gilded Age (TV), Dog Day Afternoon and Schmigadoon! (Broadway), Jesus Christ Superstar (Los Angeles Theater) and Anna Christie (New York Theater). Rachel Hoffman was next in line with six nominations across several theater categories, followed by Sharon Bialy and Sherry Thomas, tied with five nods in TV. Netflix led all TV nominees with 14 nods, while HBO Max came in second with nine, Apple TV and Hulu tied for third with seven and Prime Video was up next with six. “I am thrilled to celebrate the nominees for the 2027 Artios Awards, CSA President Destiny Lilly said in a statement. Casting is an integral part of authentic storytelling, bringing humanity, originality and creativity to the stage and the screen. This annual ceremony serves as a reminder that casting remains a vital element in the process of making great work.” Submissions for feature films released in theaters open Oct. 26; nominees will be announced on Dec. 16. Television Television Series: Comedy 
+There s a reason Martha Stewart doesn t have a private jet like some of her lifestyle mogul contemporaries, and it traces back to her insider trading-related legal troubles over 20 years ago. Sitting with MasterClass inaugural Other People’s Business podcast on Tuesday, Stewart revealed that she lost about a billion dollars in the legal turmoil of her 2004 conviction on felony counts of conspiracy, obstruction of justice, and two counts of making false statements. “Why don’t you think that you have a private jet?,” host and MasterClass founder and CEO David Rogier asked after Stewart said Kim Kardashian doesn t need her business advice, considering she’s flying around in a G5. “Because I fell in a hole,” Stewart admitted. “And I lost about a billion dollars in my legal problems. The lawyers took me to the cleaners and they were horrible.” She otherwise remained tight-lipped on the details of that fallout, but teased that there s more to come in her forthcoming autobiography. I’m writing about that in my autobiography, I can’t wait, she said. I’m whetting the appetite on this show. But I’m back, she assured of her current finances. I’m pretty good.” Watch the full Other People s Business episode below: Stewart first broke the news of a forthcoming autobiography in October 2024, riding the buzz off her Netflix documentary, Martha, from filmmaker R.J. Cutler. “I call it an autobiography. It’s not exactly a memoir. It’s a fun book and all the wonderful, wonderful things I’ve done
 
-### Semafor Names Reed Albergotti San Francisco Bureau Chief With New AI Podcast
-Wed, 07 Oct 2026 15:52:15 +0000 — https://www.thewrap.com/media-platforms/journalism/semafor-ai-podcast-reed-albergotti-future-proof/
+### Kent Belden s The Only Agency to Acquire The Blogger Agent
+Wed, 07 Oct 2026 23:53:08 +0000 — https://www.thewrap.com/industry-news/deals-ma/the-only-agency-the-blogger-agent-acquisition/
 
-Semafor is expanding its video slate and Silicon Valley presence with “Future Proof,” a new AI-focused show hosted by veteran technology journalist Reed Albergotti, who is also becoming the outlet’s first San Francisco bureau chief. The weekly video and podcast series, announced Wednesday, will feature conversations with executives, founders, policymakers and investors working across artificial intelligence and technology. Google Workspace with Gemini will serve as the exclusive sponsor of the show’s inaugural season. The launch marks the latest expansion of Semafor’s original video strategy as the digital news company continues to build out its technology coverage. “Future Proof” joins a lineup that includes “Mixed Signals,” “The CEO Signal” and “Compound Interest,” with Semafor using a season-long, single-sponsor model across its shows. The new franchise gives Semafor another sponsor-backed editorial video property as the company expands its reporting operation and looks to reach audiences beyond its written journalism. “AI is transforming nearly every industry, institution, and economy, but the public conversation is often divided between internal industry conversations and superficial journalistic ones,” Semafor editor-in-chief Ben Smith said. He added that Albergotti would bring “expertise, curiosity and rigor” to the series. The debut episode features Alex Stamos, Cognition’s chief information security officer and former Facebook security chief, discussing what Semafor 
+The Only Agency, a U.S. talent agency that represents fashion stylists, hair and makeup artists in the entertainment industry founded by Kent Belden, is set to acquire The Blogger Agent, a London-based talent agency representing beauty influencers and digital creators across the U.K., Europe and the Middle East. The deal will give TOA s clients, many of whom have public followings built around their editorial and behind-the-scenes work, a direct path into creator representation and brand partnerships. In return, the Blogger Agent s creators will have access to TOA s New York/Los Angeles-based platform and production network, giving them a direct foothold in the U.S. market. Financial terms were not disclosed. Founded in 2015, The Blogger Agent s roster of fashion, beauty, lifestyle and entertainment clients have a combined social following of more than 100 million. Under the terms of the deal, the agency will continue to operate under its existing name, with its London-based team joining The Only Agency. “The Blogger Agent has built an exceptional business and a powerful roster of creators with real influence and cultural relevance, particularly across fashion and beauty,” Belden said in a statement. “Our talent creates the looks and images that shape fashion and beauty and The Blogger Agent’s creators bring those looks to audiences every day, allowing us to create a truly global talent platform.” “Fashion and beauty are increasingly shaped across red carpets, editorials, cam
 
 ## Collider
 
-### The 10 Most Universally Beloved Best Picture Winners Ever, Ranked
-Wed, 07 Oct 2026 19:19:12 GMT — https://collider.com/most-universally-beloved-best-picture-oscar-winners-ranked/
+### ‘Twilight’ Star Jackson Rathbone Rejects “Soulless” AI-Generated Art [Exclusive]
+Thu, 08 Oct 2026 11:30:12 GMT — https://collider.com/jackson-rathbone-generative-ai-comments/
 
-The Toronto, Telluride, and Venice Film Festivals took place last month, and the first whispers of the 2027 Oscars race began. Seen as the spiritual start to awards season, TIFF regularly showcases the first glimpses of those titles that will soon be the talk of Tinseltown. The likes of Sebastian Stan 's Academy Award-hopeful legal thriller Fjord , Chase Infiniti 's impressive new indie The Julia Set , and Andrew Scott 's Best Actor candidate performance in Elsinore all made their mark this year.
+Jackson Rathbone knows how much work goes into making something people connect with. The actor became familiar to millions of viewers as Jasper Hale in the Twilight movies , but music has been part of his life since before he arrived in Hollywood. He originally moved to Los Angeles at 18 to work as a songwriter, eventually touring North America and Europe with his former band, 100 Monkeys .
 
-### Brothers: Matthew McConaughey’s Real Stories Shaped Val | Set Stories
-Wed, 07 Oct 2026 19:16:12 GMT — https://collider.com/video/brothers-matthew-mcconaughey-s-real-stories-shaped-val-set-stories/
+### Forget Guy Ritchie, Paramount+'s Crime Thriller Is One of the Biggest Movies in the World
+Thu, 08 Oct 2026 11:21:12 GMT — https://collider.com/tuner-guy-ritchie-thriller-streaming-paramount-plus-october-2026/
 
-Natalie Martinez breaks down how she found the grounded, stylish, and fiercely nurturing side of Valentina in Apple TV’s Brothers.
+Out of all of 2026's unsung gems, the one that is destined to have the longest tail on streaming has to be Tuner , which saw a modest theatrical release over the summer. Premiering at the Telluride Film Festival the year prior, this modest heist thriller/crime drama by Daniel Roher is a meat-and-potatoes genre movie that satisfies viewers with its simplicity and exceptional craft. They say that they don't make them like they used to, but films like Tuner are exactly the kinds of relics of the 1970s and 1980s that you have to search hard for today. Luckily, the film, starring Leo Woodall , Havana Rose Liu , and Dustin Hoffman , is available to stream on Paramount+, and this critical darling is climbing up the streamer's charts. Channeling the gritty crime capers of Michael Mann and Guy Ritchie , Tuner is a familiar story told with invigorating panache.
 
-### The 10 Best Body Horror Movies in Film History, Ranked
-Wed, 07 Oct 2026 17:42:12 GMT — https://collider.com/best-body-horror-movies-film-history/
+### 10 Fantasy Movies That Changed the Genre Forever
+Thu, 08 Oct 2026 11:04:11 GMT — https://collider.com/fantasy-movies-changed-genre-forever/
 
-While ghosts and ghouls can be frightening, there is perhaps nothing scarier than having one’s body endure torturous transformations . Numerous filmmakers have made entire careers out of our collective fear of corporeal mutilation , as they churn out movies that exploit the most horrifying physical tragedies possible (that still only garner an “R” rating).
+Fantasy is probably the oldest genre of storytelling. It has long allowed humans to make sense of the world around them by presenting relatable fears, virtues, and aspirations as horrific monsters, ancient curses, and brave heroes. When cinema began to emerge at the turn of the 19th century, fantasy movies were some of the earliest, and the years have only seen them get better thanks to improved effects and more creative writers.
 
-### Tracy Spiridakos' 'Yellowstone' Replacement Officially Renewed for Season 2
-Wed, 07 Oct 2026 17:36:04 GMT — https://collider.com/anna-pigeon-season-2-renewed/
+### 8 Forgotten Netflix Miniseries Where Every Episode Is a Masterpiece
+Thu, 08 Oct 2026 10:53:12 GMT — https://collider.com/forgotten-netflix-miniseries-every-episode-masterpiece/
 
-During the heyday of the USA Network and its original programming, its slogan was "Characters Welcome." Now, it seems that characters may indeed still be welcome on the cable outlet, as they've decided the fate of one of their newest series, which stars Chicago P. D. expatriate Anna Spiridakos .
+The miniseries format has been a big success for Netflix , particularly in the past few years, so it’s hardly shocking that the platform boasts several standout works in this style, including acclaimed titles like Adolescence and Baby Reindeer . Bridging the gap between the high-budget productions of cinema and the intimate storytelling of television, these shows have become massive critical and commercial successes. However, beyond those widely recognized hits, the streaming platform is also home to many excellent miniseries that haven’t received the same level of attention.
 
-### 'Elsbeth' Is Starstruck By a Tony Winner in New Season 4 Premiere Sneak Peek [Exclusive]
-Wed, 07 Oct 2026 17:16:12 GMT — https://collider.com/elsbeth-season-4-premiere-sneak-peek-carrie-preston-nicole-scherzinger/
+### ‘Cast Away’ Meets ‘The Hateful Eight’ in HBO Max’s Western Survival Thriller
+Thu, 08 Oct 2026 10:42:12 GMT — https://collider.com/the-revenant-leonardo-dicaprio-hateful-eight-western-streaming-hbo-max-october-2026/
 
-The Kings of CBS are about to retake their throne. Tomorrow, October 8, marks the premiere of Robert and Michelle King 's new series, Cupertino , a new legal thriller reuniting them with Evil star Mike Colter and looking to keep the Good Wife duo's streak of success alive at the Eye network. It'll follow the efforts of two attorneys cheated by Silicon Valley who open a firm to help those taken advantage of by America's seemingly untouchable tech giants fight back, putting themselves in the crosshairs in the process. Before they take on their first case, though, everyone's favorite pink-clad investigator will be back to solve another murder, and she has a Tony winner in her sights.
+In a career of box office success and critical adoration, only one film can claim the title of Leonardo DiCaprio’s “Oscar Moment.” Featuring the ice-cold vengeance of The Hateful Eight and the survival adventure of Cast Away , The Revenant saw the star team up with Alejandro González Iñárritu for an unforgettably brutal thriller that lives on in the hearts of film fans, who have made it a hit on HBO Max, 11 years after its initial release.
 
-### Liam Neeson’s New Action Thriller Gets High-Octane Sneak Peek Ahead of October 30 Release [Exclusive]
-Wed, 07 Oct 2026 17:00:12 GMT — https://collider.com/liam-neeson-new-action-movie-the-mongoose-sneak-peek/
+### Jackson Rathbone Confirms What’s Next for STARMOTHER After Debut Album [Exclusive]
+Thu, 08 Oct 2026 10:30:12 GMT — https://collider.com/jackson-rathbone-band-starmother-tour-plans/
 
-He's been framed for murder; he's on the run from everyone... and now, he's low on gas. Liam Neeson stars in The Mongoose , a high-octane action thriller that puts the veteran action star behind the wheel of a high-powered muscle car as he tries to outrace his pursuers. Today, Collider is proud to team with Samuel Goldwyn Films to exclusively present a sneak peek of the movie before it hits theaters later this month.
+Jackson Rathbone has been putting in plenty of work behind the scenes for STARMOTHER , but he’s just as eager to get back in front of an audience. Between making music and filming videos with his wife, the Twilight star has taken on everything from producing to hauling equipment for their independent project. Having previously toured North America and Europe with 100 Monkeys , he knows what it takes to bring those songs to the stage, and STARMOTHER listeners have given him something to look forward to .
 
-### Prime Video’s Cancelled Fantasy Series Officially Sets a $1.16M Return
-Wed, 07 Oct 2026 17:00:12 GMT — https://collider.com/the-wheel-of-time-war-of-the-dragon-board-game-2027/
+### Only 3 Stephen King Movies Are Better Than 'The Shining'
+Thu, 08 Oct 2026 10:17:12 GMT — https://collider.com/stephen-king-movies-better-than-the-shining/
 
-The Lord of the Rings has the fantasy genre locked down when it comes to the big screen, but the franchise has also expanded into TV in recent years with shows like The Rings of Power . Amazon has aired two full seasons of The Lord of the Rings: The Rings of Power on Prime Video , and it’s already been confirmed that the third is on the way later this year. The Rings of Power is far from the only fantasy show at Amazon with a devoted fan base, though.
+Stephen King is not only the master of horror, but the most beloved author in Hollywood because of the sheer number of adaptations of his work that have been made. King writes quickly and comes up with ideas that make for exciting interpretations by engaging filmmakers, mostly because any of his books, novellas, or shorts can be distilled into a simple premise that is easy to market towards an audience. There are certainly a number of terrible King adaptations (including Maximum Overdrive , the only one that he directed), but even the most disappointing have something to recommend about them. King’s name has become a reliable marketing brand that has survived for over 50 years, and today it might actually be as powerful as that of Marvel, DC, or Star Wars .
 
-### 5 Perfect Fantasy Books That Became Even Better Movies
-Wed, 07 Oct 2026 16:34:11 GMT — https://collider.com/perfect-fantasy-books-even-better-movies/
+### The 15 Best Animated TV Shows, Ranked
+Thu, 08 Oct 2026 10:03:11 GMT — https://collider.com/animated-tv-shows-ranked/
 
-To find a fantasy book that is genuinely fantastic from start to finish is rare enough, but to find one so phenomenal in virtually every sense that matters that it can reasonably be said to be absolutely perfect? That is a precious rarity that ensures one has found one of the greatest fantasy books of all time. And, of course, since the infancy of cinema as a storytelling medium, filmmakers around the world have been taking these legendary books and turning them into equally legendary movies. But while "the book was better than the movie" is something that is remarkably often heard when any fantasy novel is turned into a film, there have been a few noteworthy occasions when perfect fantasy books have been turned into even better movies .
+The art of animation is almost as old as cinema and has evolved into a diverse and creative landscape. Using an artist's imagination, creative worlds and imaginative characters can come to life in exaggerated and stylistic ways, resulting in visuals that can never be recreated in live action. This is especially seen in the world of television: though their budgets are limited compared to animated films, the longer run time of television shows allows them to get more creative to keep their premises fresh over multiple episodes.
 
-### Netflix Officially Decides the Fate of 'The Hunting Wives' After 2 Seasons
-Wed, 07 Oct 2026 16:24:08 GMT — https://collider.com/netflix-the-hunting-wives-season-3-renewed/
+### Russell Crowe's 'Mindhunter' Replacement Explodes Past 40M Views on Netflix
+Thu, 08 Oct 2026 10:00:12 GMT — https://collider.com/unabomber-russell-crowe-mindhunter-replacement-streaming-success-netflix-october-2026/
 
-Netflix has released dozens of successful projects in 2026 both on the movie and TV side of development, but if there’s one thing we’ve learned about the streamer this year, it’s that a series making the top 10 is not grounds for renewal. One of the most shocking cancellations of the year came back when Netflix debuted all episodes of its hit new sci-fi series, The Boroughs , which was hailed as the next Stranger Things . What made these comparisons even more apt is that the show was produced by Matt and Ross Duffer , who are the creators of Stranger Things . Less than two weeks after all episodes of The Boroughs began streaming, Netflix announced that the show had been canceled — reports explaining the cancellation say that Netflix could not justify the cost of another season based on the projected viewership.
+Netflix didn't produce a third season of the cult hit series Mindhunter , but seven years after the show's abrupt ending, the streamer has released a psychological thriller movie that picks up from where it left off. Like Mindhunter , which follows a team of FBI profilers conducting state-of-the-art investigations into the psychology of mass murderers, the new movie revolves around the study of a future terrorist's mind. Russell Crowe plays a Harvard professor who conducts scientific experiments on a young Ted Kaczynski , who is played in the film by former child star Jacob Tremblay .
 
-### Taylor Sheridan Officially Crowned the King of Netflix With New #1 Hit
-Wed, 07 Oct 2026 16:08:26 GMT — https://collider.com/taylor-sheridan-mayor-of-kingstown-netflix-streaming-success-october-2026/
+### After 12 Years, Amanda Seyfried Was the Key to Getting Tim Blake Nelson's Crime Thriller on Screen
+Thu, 08 Oct 2026 10:00:12 GMT — https://collider.com/amanda-seyfried-the-life-and-deaths-of-wilson-shedd-tim-blake-nelson-interview/
 
-2026 has been quite a year for Taylor Sheridan fans, and the acclaimed Western writer isn’t stopping anytime soon with new seasons of some of his best shows on the way. Next up on the slate for Sheridan is the highly anticipated fourth season of Tulsa King , his hit Sopranos replacement series starring Sylvester Stallone that seems to find its stride more with each passing season. Tulsa King Season 4 is set to begin streaming on October 16, and Paramount has already renewed the show for Season 5, also confirming that it will be the first season of the show set in New York and not Tulsa, Oklahoma. Sheridan also has the first ever Tulsa King spin-off, Frisco King (starring Samuel L. Jackson ), in the works, which is also confirmed to be released in 2027.
+Writer and director Tim Blake Nelson ( Leaves of Grass ) is back behind the camera with The Life and Deaths of Wilson Shedd , and back at the Toronto International Film Festival , where he world-premiered the star-studded psychological drama, and spoke with Collider’s Steve Weintraub about bringing this original script to life on screen.
 

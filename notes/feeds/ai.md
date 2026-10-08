@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-07T19:31:26.275Z
+# AI — harvested 2026-10-08T11:36:50.988Z
 
 ## OpenAI
 
@@ -26,11 +26,6 @@ Jump Trading uses OpenAI to expand quantitative research. See how longer-running
 Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/sharing-ai-progress-in-mathematics
 
 OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
-
-### Advancing computer use with Ironclad
-Tue, 06 Oct 2026 10:00:00 GMT — https://openai.com/index/advancing-computer-use-with-ironclad
-
-Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.
 
 ### Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
 Tue, 06 Oct 2026 16:00:00 GMT — https://openai.com/index/atlassian-partnership

@@ -1,72 +1,82 @@
-# Manga — harvested 2026-10-07T19:31:26.275Z
+# Manga — harvested 2026-10-08T11:36:50.988Z
 
 ## Anime News Network
 
-### Overlord [Shin] Sekai-hen Manga Goes on Hiatus Due to Artist Matsuki's Hospitalization
-Wed, 07 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/overlord-shin-sekai-hen-manga-goes-on-hiatus-due-to-artist-matsuki-hospitalization/.242588
+### The Vermilion Mask Anime's 2nd Part Debuts in April 2027
+Thu, 08 Oct 2026 06:42:34 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631
 
-Matsuki debuted sequel manga in April 2024
+Anime's 1st part premieres on Saturday
 
-### Marvel Tōkon: Fighting Souls Game's Trailer Reveals November 2 Release for Phoenix Cyclops DLC
-Wed, 07 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/marvel-tokon-fighting-souls-game-trailer-reveals-november-2-release-for-phoenix-cyclops-dlc/.242591
+### Skull Dragon's Precious Daughter Anime Unveils 1st Promo Video, Main Cast, 2027 Debut
+Thu, 08 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/skull-dragon-precious-daughter-anime-unveils-1st-promo-video-main-cast-2027-debut/.242622
 
-<cite>X-Men '97</cite> Cyclops' voice actor Ray Chase voices DLC character
+Kana Hanazawa, Kazuhiko Inoue star in Dōga Kōbō anime
 
-### Love Through a Prism Anime Gets Novel Adaptation
-Wed, 07 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/love-through-a-prism-anime-gets-novel-adaptation/.242585
+### Horror Collector Anime Adds 3 Cast Members
+Thu, 08 Oct 2026 03:09:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/horror-collector-anime-adds-3-cast-members/.242612
 
-Both volumes ship on December 4
+Sae Hiratsuka, Ryōta Ōsaka, Hana Hishikawa join cast
 
-### DRAGON QUEST XI S: Echoes of an Elusive Age - Definitive Edition Game Review
-Wed, 07 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/dragon-quest-xi-s/echoes-of-an-elusive-age-definitive-edition/.242330
+### Crunchyroll Manga App Expands to U.K., Ireland, South Asia, ANZ
+Thu, 08 Oct 2026 00:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-manga-app-expands-to-u.k-ireland-south-asia-anz/.242608
 
-An already beautiful game and a spectacular RPG... hobbled by Square Enix's bad business decisions.
+Crunchyroll also to be "easily accessible" in new dedicated anime hub on PS5 launching in spring
 
-### MediaOCD Announces Deal to Sell Select Aniplex of America Anime on Blu-ray Disc
-Wed, 07 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/mediaocd-announces-deal-to-sell-select-aniplex-of-america-anime-on-blu-ray-disc/.242576
+### Muramasa: Revenant Blades is the Definitive Remaster You've Been Waiting For
+Thu, 08 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/muramasa-revenant-blades-is-the-definitive-remaster-youve-been-waiting-for/.242162
 
-<cite>Gurren Lagann</cite>, <cite>Mashle: Magic and Muscles</cite> BDs now available on MediaOCD's website
+<cite>Muramasa</cite> is back and looking better than ever—literally.
 
-### Manga Up! Global Adds Magical Girl Recruiter Puicho!, Bitter Knight in My Sweet Café, 3 More Manga
-Wed, 07 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/manga-up-global-adds-magical-girl-recruiter-puicho-bitter-knight-in-my-sweet-cafe-3-more-manga/.242507
+### The Seven Knights of the Marronnier Kingdom Anime Unveils More Cast
+Wed, 07 Oct 2026 23:53:37 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-seven-knights-of-the-marronnier-kingdom-anime-unveils-more-cast/.242611
 
-Service also adds <cite>VAMPXIA, 100 Things the Sheltered Lady and This Commoner Want to Do, We Are All D***</cite>
+Natsuki Hanae, Mitsuki Saiga, Miyuri Shimabukuro join cast
 
-### Red River ‒ Episode 14
-Wed, 07 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-14/.242584
+### Toyota Demos Initial D's Drifting Without Spilling Water Cup in Real Life
+Wed, 07 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-07/toyota-demos-initial-d-drifting-without-spilling-water-cup-in-real-life/.242567
 
-Ramses may be a great Pharoah later, but as of right now, he’s just some cocky bastard who, of course, is fascinated by Yuri.
+Can a Toyota driver pilot an AE86 without spilling a drop of water?
 
-### Exclusive: Viz Hosts Signing Tour for GalaXic Baseball League Comic Artist Acky Bright
-Wed, 07 Oct 2026 09:15:30 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/exclusive-viz-hosts-signing-tour-for-galaxic-baseball-league-comic-artist-acky-bright/.242574
+### Seven Seas Licenses Living With My New Cat, Zukyun x Bakyun, More Manga/Novels
+Wed, 07 Oct 2026 16:40:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/seven-seas-licenses-living-with-my-new-cat-zukyun-x-bakyun-more-manga-novels/.242595
 
-Tour for interplanetary baseball series featuring real-life baseball players begins on October 13 in New York
+Also: 3 new audiobooks
 
-### INTERVIEW: Tokyo Revengers Voice Cast
-Wed, 07 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/interview-tokyo-revengers-voice-cast/.239581
+### 'I Don't Want to Be Killed by You, My Crown Prince!' Manga Enters Final Arc
+Wed, 07 Oct 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/i-dont-want-to-be-killed-by-you-my-crown-prince-manga-enters-final-arc/.242589
 
-We had the opportunity to interview the intense yet jovial Yūki Shin, Yuu Hayashi, and Masaya Fukunishi and explore how their understanding of their characters has evolved after spending so much time with them.
+Nao Oshiba debuted manga of Ema Okadachi's story in December 2021
 
-### Interview with Takako Shimura, Creator of the Scenes of AWAJIMA Manga
-Wed, 07 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-07/with-takako-shimura-creator-of-the-scenes-of-awajima-manga/.241507
+### The Last Blossom Film Rescreens in Theaters on October 13 After Previous Screenings Had Incorrectly Timed Subtitles
+Wed, 07 Oct 2026 16:17:49 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-last-blossom-film-rescreens-in-theaters-on-october-13-after-previous-screenings-had-incorrectly-/.242594
 
-This past spring, Scenes From Awajima anime explored a kaleidoscope of perspectives as they filtered through the hallowed and haunted halls of its titular school. We asked manga author Takako Shimura (Sweet Blue Flowers, Wandering Son) about the series' origins, influences, and how it relates to her other works.
+Film rescreens on same day film launches digitally on home video
 
-### Walking Home with You Anime Unveils April 2027 TV Debut
-Wed, 07 Oct 2026 08:00:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/walking-home-with-you-anime-unveils-april-2027-tv-debut/.242581
+### Sony Pictures Entertainment Launches Crunchyroll Storyworks Division for Anime, Live-Action Adaptations
+Wed, 07 Oct 2026 15:54:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593
 
-Anime of Mai Matsuda's romantic comedy manga announced in March 2025
+Crunchyroll's new division to work with Japanese creators, provide projects for HAYATE venture
 
-### Code Geass: Lost Stories Game to End Service on December 7
-Wed, 07 Oct 2026 06:32:26 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/code-geass-lost-stories-game-to-end-service-on-december-7/.242579
+### GKIDS Releases 100 Meters Anime Film on Blu-ray Disc on December 1
+Wed, 07 Oct 2026 15:02:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592
 
-Smartphone/PC game launched in 2022
+Collector's Edition includes 5 art cards, mini-poster
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Best Opening and Ending Theme Songs | Summer 2026 Anime Season
+Thu, 08 Oct 2026 03:46:44 GMT — https://animecorner.me/best-opening-and-ending-theme-songs-summer-2026-anime-season/
+
+Summer 2026 Anime of the Season Awards are being revealed, and here are the winners of the best opening and ending theme songs.
+
+### Walking Home with You Anime Reveals Visual, April 2027 Premiere
+Wed, 07 Oct 2026 23:30:04 GMT — https://animecorner.me/walking-home-with-you-anime-reveals-visual-april-2027-premiere/
+
+Walking Home with You anime revealed a new visual along with an April 2027&hellip;
 
 ### Reincarnated as a Sword Season 2 Creditless Opening Featuring FZMZ's "DREAM OF BUTTERFLY" Released
 Wed, 07 Oct 2026 17:55:48 GMT — https://animecorner.me/reincarnated-as-a-sword-season-2-creditless-opening-featuring-fzmzs-dream-of-butterfly-released/
@@ -113,37 +123,17 @@ Tue, 06 Oct 2026 16:30:00 GMT — https://animecorner.me/oni-press-and-magnetic-
 
 Oni Press and Magnetic Press have launched a Kickstarter campaign for A Scoundrel in&hellip;
 
-### A World Space Week Pokémon × ESA Collaboration Has Launched
-Tue, 06 Oct 2026 10:07:39 GMT — https://animecorner.me/a-world-space-week-pokemon-x-esa-collaboration-has-launched/
-
-The world is currently celebrating World Space Week. And as part of that celebration,&hellip;
-
 ## MyAnimeList News
+
+### Hone Dragon no Mana Musume Reveals Main Cast, First Promo, 2027 Debut
+Thu, 08 Oct 2026 04:04:04 -0700 — https://myanimelist.net/news/74801849?_location=rss
+
+The official website for the television anime adaptation of Ichi Yukishiro s Hone Dragon no Mana Musume (The Skull Dragon s Precious Daughter) web manga revealed the main cast, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere in 2027. Voice actors Kana Hanazawa (Angel Beats!) and Kazuhiko Inoue (Natsume Yuujinchou) are starring as Eve and Nemu, respectively. Kuniyasu Nishina (Isekai Ojisan episode director) is helming the anime at Dog...
 
 ### Amayo no Tsuki Reveals Main Cast, Additional Staff, First Promo, 2027 Premiere
 Tue, 06 Oct 2026 23:49:07 -0700 — https://myanimelist.net/news/74798293?_location=rss
 
 The official website for the television anime adaptation of Kuzushiro s Amayo no Tsuki (The Moon on a Rainy Night) manga revealed the main cast, additional staff, and the first promotional video on Wednesday. The anime is scheduled to premiere in 2027. Voice actresses Sora Amamiya (Nijusseiki Denki Mokuroku) and Iori Saeki (Pon no Michi) are starring in the anime as Kanon Oikawa and Saki Kindaichi, respectively. Staff Assistant Director: Tsutomu Tomoyuki (Kizoku Tensei: Megumareta Umare kar...
-
-### Sudachi no Maoujou Unveils Main Cast Member, Second Teaser Promo
-Tue, 06 Oct 2026 04:12:36 -0700 — https://myanimelist.net/news/74795794?_location=rss
-
-The official website for the television anime adaptation of Makoto Morishita s Sudachi no Maoujou (The Fledgling Demon Lord s Starter Shop) manga unveiled an additional main cast member, key visual (pictured), and second teaser promotional video on Tuesday. The anime is scheduled to premiere in January 2027 on TOKYO MX, MBS, BS11 and other stations. Youhei Azakami (Kamonohashi Ron no Kindan Suiri 2nd Season) is joining the cast as Ash. Jun Taira is directing the television anime at Pro...
-
-### Otome Game no Heroine de Saikyou Survival Unveils Main Staff, Cast for Summer 2027
-Tue, 06 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74795171?_location=rss
-
-Production company Slow Curve opened an official website for the Otome Game no Heroine de Saikyou Survival (The Otome Heroine s Fight for Survival) anime project on Tuesday, revealing the main staff, lead cast, a teaser visual (pictured), teaser promo, and its television format. The anime series adapting Biyori Harunohi s adventure fantasy light novel is scheduled to premiere in July 2027. Voice actress Fuuka Izumi (Mahou Shoujo ni Akogarete, Shikanoko Nokonoko Koshitantan) is starring...
-
-### Hideaki Anno, Yutaka Izubuchi Co-Direct Uchuu Senkan Yamato √2199 Anime Movie
-Mon, 05 Oct 2026 18:33:39 -0700 — https://myanimelist.net/news/74794971?_location=rss
-
-An official website opened for the new Uchuu Senkan Yamato (Space Battleship Yamato) anime project on Tuesday, revealing its official title, main staff, and a teaser visual (pictured). Titled Uchuu Senkan Yamato &radic;2199 (Cosmoship Yamato &radic;2199), the project will be a feature-length anime movie. A premiere date has yet to be announced. Staff Original Work: Yoshinobu Nishizaki (Uchuu Senkan Yamato original co-creator) Director, Design Works: Hideaki Anno (Shinseiki Evangelion), Yutaka Iz...
-
-### North American Anime & Manga Releases for October
-Mon, 05 Oct 2026 12:41:35 -0700 — https://myanimelist.net/news/74794281?_location=rss
-
-Here are the North American anime, manga, and light novel releases for October. Week 1: October 6 - 12 Anime Releases Devil Survivor 2 The Animation Blu-ray Manga Releases Boku ga Watashi ni Naru Tame ni (My Journey to Her) Boruto: Two Blue Vortex Vol.6 Dandadan Vol.21 Dekiru Neko wa Kyou mo Yuuutsu (The Masterful Cat Is Depressed Again Today) Vol.12 Dororo to Hyakkimaru Den (The Legend of Dororo and Hyakkimaru) Vol.12 Endan Yobanashi (Grim Night Tales) Vol.3 Fushigi Yuugi: Byakko Senki (Fushigi...
 
 ## Otaku USA
 
@@ -151,13 +141,18 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Crunchyroll Manga is here: 250+ titles live today in the UK, Ireland, India, Australia and New Zealand
+Thu, 08 Oct 2026 09:15:44 +0000 — https://animeuknews.net/2026/10/crunchyroll-manga-is-here-250-titles-live-today-in-the-uk-ireland-india-australia-and-new-zealand/
+
+Since debuting in the US and Canada in October 2025, Crunchyroll Manga has grown its library to more than 450 titles from premier publishing partners.
+
+### Summer Season 2026 Overview
+Thu, 08 Oct 2026 09:00:16 +0000 — https://animeuknews.net/2026/10/summer-season-2026-overview/
+
+Were there just too many new series in the Summer Season – and did the quality slip? Which titles stood out now that they’ve all (well, almost all) come to an end?
+
 ### My Ex-Boyfriend Loves Boys Love Volume 1 Review
 Wed, 07 Oct 2026 09:00:18 +0000 — https://animeuknews.net/2026/10/my-ex-boyfriend-loves-boys-love-volume-1-review/
 
 Momo Akado is a Boys’ Love fan– but who should she meet in the BL department in her local bookstore but her ex-boyfriend, Suzuya Katakura? Could he be a fan too? A fun new otaku romcom from Square Enix Manga!
-
-### Kizumonogatari: Koyomi Vamp Collector s Edition Review
-Tue, 06 Oct 2026 09:00:50 +0000 — https://animeuknews.net/2026/10/kizumonogatari-koyomi-vamp-collectors-edition-review/
-
-Kizumonogatari returns with a compilation film to cut down the original trilogy, but does it do justice to the beloved Monogatari franchise?
 
