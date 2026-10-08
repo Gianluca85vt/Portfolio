@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Unity Spark pays Asset Store artists, rate unstated">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" fill="#ffffff" opacity="0.72" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">UNITY SPARK</text>
+  <text x="90" y="310" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700">70%</text>
+  <text x="90" y="385" fill="#ffffff" opacity="0.88" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="600">is what a sale pays.</text>
+  <text x="90" y="447" fill="#ffffff" opacity="0.88" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="600">A prompt pays an unpublished rate.</text>
+  <text x="90" y="820" fill="#ffffff" opacity="0.6" font-family="Helvetica, Arial, sans-serif" font-size="28">Asset Store terms for Spark, 8 October 2026 — not yet written</text>
+</svg>
