@@ -20,7 +20,6 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Clive Barker's Hellraiser: Revival | Saber Interactive | 2026-10-08 | today | 2026-10-07 | €39.99 |
 | Dragon's Dogma 2: Dark Arisen Expansion | CAPCOM Co., Ltd. | 2026-10-08 | today | 2026-10-07 | €29.99 |
 
 ## Further out, within 14 days
@@ -36,7 +35,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*1349 upcoming titles scanned, 1260 with a firm date inside
-14 days, 8 above the price line. Titles showing
+*1249 upcoming titles scanned, 1155 with a firm date inside
+14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

@@ -1,6 +1,21 @@
-# AI — harvested 2026-10-08T11:36:50.988Z
+# AI — harvested 2026-10-08T19:25:53.840Z
 
 ## OpenAI
+
+### How Oracle turns days of work into minutes with ChatGPT and Codex
+Thu, 08 Oct 2026 16:00:00 GMT — https://openai.com/index/oracle
+
+Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.
+
+### Pollo AI turns creative ideas into campaigns with OpenAI
+Thu, 08 Oct 2026 12:00:00 GMT — https://openai.com/index/pollo-ai
+
+With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.
+
+### Disrupting AI-enabled “false front” operations
+Thu, 08 Oct 2026 00:00:00 GMT — https://openai.com/index/disrupting-ai-enabled-false-front-operations
+
+OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.
 
 ### Helping teens learn, plan, and shape the future of AI
 Wed, 07 Oct 2026 12:00:00 GMT — https://openai.com/index/teens-learn-and-plan
@@ -17,25 +32,13 @@ Wed, 07 Oct 2026 00:00:00 GMT — https://openai.com/index/gpt-6-for-everyone
 
 GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.
 
-### How Jump Trading is scaling quant research with ChatGPT
-Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/jump-trading
-
-Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.
-
-### Sharing AI progress in mathematics
-Tue, 06 Oct 2026 12:00:00 GMT — https://openai.com/index/sharing-ai-progress-in-mathematics
-
-OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.
-
-### Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
-Tue, 06 Oct 2026 16:00:00 GMT — https://openai.com/index/atlassian-partnership
-
-Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.
-
 ## Hugging Face
 
 ### Multimodal open d1 decision models for the edge
 Wed, 07 Oct 2026 16:54:33 GMT — https://huggingface.co/blog/LiquidAI/open-d1
+
+### Introducing Falcon ASR
+Wed, 07 Oct 2026 13:21:03 GMT — https://huggingface.co/blog/tiiuae/falcon-asr
 
 ### One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO
 Wed, 07 Oct 2026 12:45:31 GMT — https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026

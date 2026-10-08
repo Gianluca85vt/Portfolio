@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-08T11:36:50.988Z
+# Manga — harvested 2026-10-08T19:25:53.840Z
 
 ## Anime News Network
+
+### Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection
+Thu, 08 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/dark-horse-to-release-gou-tanabe-the-outsider-and-other-early-adaptations-collection/.242625
+
+Company to also release <cite>Martial War</cite> graphic novel by co-creators Hiroyuki Takei, Will Carter, Aidan White.
+
+### Live-Action 5 Centimeters Per Second Film Screens in N. America on October 23
+Thu, 08 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/live-action-5-centimeters-per-second-film-screens-in-n-america-on-october-23/.242642
+
+Film also gets home video release
+
+### Magilumiere Magical Girls Inc. Season 2 Anime Series Review
+Thu, 08 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/magilumiere-magical-girls-inc-season-2/anime-series/.242229
+
+It’s a clever, entertaining, optimistic show that deserves an audience.
+
+### shallm Perform Opening Theme Song for 'Now That We Draw' Anime
+Thu, 08 Oct 2026 11:31:20 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/shallm-perform-opening-theme-song-for-now-that-we-draw-anime/.242638
+
+Vocalist lia's band wrote song for anime
+
+### 'Go with the Clouds, North by Northwest' Anime's 1st Promo Video Reveals 2027 Premiere on Netflix
+Thu, 08 Oct 2026 10:44:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/go-with-the-clouds-north-by-northwest-anime-1st-promo-video-reveals-2027-premiere-on-netflix/.242639
+
+Tomohiro Ōno stars as Kei Miyama
+
+### Crunchyroll Acquires The Apothecary Diaries Anime Film
+Thu, 08 Oct 2026 10:10:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-acquires-the-apothecary-diaries-anime-film/.242637
+
+<cite>The Apothecary Diaries: The Late Lady's Treasure</cite> opens in Japan on December 11
+
+### Bless TV Anime Casts Yoshiki Nakajima
+Thu, 08 Oct 2026 07:18:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/bless-tv-anime-casts-yoshiki-nakajima/.242634
+
+Nakajima vioces Joe Osaki in series debuting in January 2027
 
 ### The Vermilion Mask Anime's 2nd Part Debuts in April 2027
 Thu, 08 Oct 2026 06:42:34 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631
@@ -27,46 +62,21 @@ Thu, 08 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/convention/
 
 <cite>Muramasa</cite> is back and looking better than ever—literally.
 
-### The Seven Knights of the Marronnier Kingdom Anime Unveils More Cast
-Wed, 07 Oct 2026 23:53:37 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-seven-knights-of-the-marronnier-kingdom-anime-unveils-more-cast/.242611
-
-Natsuki Hanae, Mitsuki Saiga, Miyuri Shimabukuro join cast
-
-### Toyota Demos Initial D's Drifting Without Spilling Water Cup in Real Life
-Wed, 07 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-07/toyota-demos-initial-d-drifting-without-spilling-water-cup-in-real-life/.242567
-
-Can a Toyota driver pilot an AE86 without spilling a drop of water?
-
-### Seven Seas Licenses Living With My New Cat, Zukyun x Bakyun, More Manga/Novels
-Wed, 07 Oct 2026 16:40:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/seven-seas-licenses-living-with-my-new-cat-zukyun-x-bakyun-more-manga-novels/.242595
-
-Also: 3 new audiobooks
-
-### 'I Don't Want to Be Killed by You, My Crown Prince!' Manga Enters Final Arc
-Wed, 07 Oct 2026 16:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/i-dont-want-to-be-killed-by-you-my-crown-prince-manga-enters-final-arc/.242589
-
-Nao Oshiba debuted manga of Ema Okadachi's story in December 2021
-
-### The Last Blossom Film Rescreens in Theaters on October 13 After Previous Screenings Had Incorrectly Timed Subtitles
-Wed, 07 Oct 2026 16:17:49 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/the-last-blossom-film-rescreens-in-theaters-on-october-13-after-previous-screenings-had-incorrectly-/.242594
-
-Film rescreens on same day film launches digitally on home video
-
-### Sony Pictures Entertainment Launches Crunchyroll Storyworks Division for Anime, Live-Action Adaptations
-Wed, 07 Oct 2026 15:54:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/sony-pictures-entertainment-launches-crunchyroll-storyworks-division-for-anime-live-action-/.242593
-
-Crunchyroll's new division to work with Japanese creators, provide projects for HAYATE venture
-
-### GKIDS Releases 100 Meters Anime Film on Blu-ray Disc on December 1
-Wed, 07 Oct 2026 15:02:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-07/gkids-releases-100-meters-anime-film-on-blu-ray-disc-on-december-1/.242592
-
-Collector's Edition includes 5 art cards, mini-poster
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Apothecary Diaries: The Late Lady's Treasure Anime Film Acquired by Crunchyroll for Global Theatrical Release
+Thu, 08 Oct 2026 13:45:26 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-anime-film-acquired-by-crunchyroll-for-global-theatrical-release/
+
+Crunchyroll has acquired the North American and worldwide distribution rights for The Apothecary Diaries: The Late Lady’s Treasure anime film.
+
+### Stellar Cosplays We Spotted at Cosplay Mania 2026
+Thu, 08 Oct 2026 12:25:25 GMT — https://animecorner.me/cosplay-mania-2026/
+
+Cosplay.ph just held its much-anticipated Cosplay Mania 2026, an all-out celebration of cosplay, anime,&hellip;
 
 ### Best Opening and Ending Theme Songs | Summer 2026 Anime Season
 Thu, 08 Oct 2026 03:46:44 GMT — https://animecorner.me/best-opening-and-ending-theme-songs-summer-2026-anime-season/
@@ -118,12 +128,32 @@ Wed, 07 Oct 2026 06:12:02 GMT — https://animecorner.me/the-moon-on-a-rainy-nig
 
 The previously announced The Moon on a Rainy Night anime revealed its first trailer along with the&hellip;
 
-### Oni Press and Magnetic Press Launch A Scoundrel in the New World Kickstarter From Blacksad Artist Juanjo Guarnido and Alain Ayroles
-Tue, 06 Oct 2026 16:30:00 GMT — https://animecorner.me/oni-press-and-magnetic-press-launch-a-scoundrel-in-the-new-world-kickstarter-from-blacksad-artist-juanjo-guarnido-and-alain-ayroles/
-
-Oni Press and Magnetic Press have launched a Kickstarter campaign for A Scoundrel in&hellip;
-
 ## MyAnimeList News
+
+### Hokuhokusei ni Kumo to Ike Reveals Lead Cast, Staff, First Promo, 2027 Debut
+Thu, 08 Oct 2026 07:30:57 -0700 — https://myanimelist.net/news/74802125?_location=rss
+
+The official website for the television anime adaptation of Aki Irie s Hokuhokusei ni Kumo to Ike (Go with the Clouds, North-by-Northwest) manga revealed the lead cast, main staff, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere on TBS in 2027 and will stream worldwide exclusively on Netflix. Voice actors Tomohiro Ono (Tomodachi Game) is starring as the lead character Kei Miyama. Staff Chief Director, Series Composition: Takashi Sano (Kam...
+
+### Magic Knight Rayearth Reveals Additional Cast
+Thu, 08 Oct 2026 07:24:08 -0700 — https://myanimelist.net/news/74802115?_location=rss
+
+The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast members on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Mao Ichimichi (Tensei shitara Slime Datta Ken), Natsumi Takamori (5-toubun no Hanayome), and Miyuki Sakurai (Kekkon Yubiwa Monogatari II) joined the cast as Hikaru s classmate. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Produc...
+
+### Manga Kimi wa Yotsuba no Clover Ends in Next Chapter
+Thu, 08 Oct 2026 06:43:58 -0700 — https://myanimelist.net/news/74802040?_location=rss
+
+The official X account for author Koushi announced on Thursday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga will end with its next chapter. The 106th and final chapter is scheduled to be released on Weekly Shounen Champion issue 2026 No.46 on October 15. The final chapter will have page count of two chapters. Koushi launched the romantic suspense manga in Weekly Shounen Champion magazine in July 2024. Akita Shoten published the 11th volume on October 7, with the 12th and...
+
+### Additional Cast for Marronnier Oukoku no Shichinin no Kishi Announced
+Thu, 08 Oct 2026 06:19:31 -0700 — https://myanimelist.net/news/74801996?_location=rss
+
+The official website for the television anime adaptation of Nao Iwamoto s Marronnier Oukoku no Shichinin no Kishi (The Seven Knights of the Marronnier Kingdom) manga announced the additional cast on Thursday. The anime premiered on October 3 at 6.25 p.m. on NHK E-Tele. Cast Justice: Natsuki Hanae (Oni no Hanayome) Zoe: Mitsuki Saiga (Tongari Boushi no Atelier) Colette: Miyuri Shimabukuro (Yomi no Tsugai) Kiyoko Sayama (Fumetsu no Anata e Season 2) is directing the anime at J.C.Staff, with...
+
+### Kyoufu Collector Announces Additional Cast
+Thu, 08 Oct 2026 04:35:42 -0700 — https://myanimelist.net/news/74801885?_location=rss
+
+The official website for the television anime adaptation of Midori Satou s Kyoufu Collector (Horror Collector) novel announced three additional cast members on Thursday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Momo: Sae Hiratsuka (Osananajimi to wa Love Comedy ni Naranai) Raita: Ryouta Oosaka (Hataraku Maou-sama!) Sachiko Konno: Hana Hishikawa (Sayonara Lara) Yuki Inaba (Kaminaki Sekai no Kamisama Katsudou) is directing the anime and composing th...
 
 ### Hone Dragon no Mana Musume Reveals Main Cast, First Promo, 2027 Debut
 Thu, 08 Oct 2026 04:04:04 -0700 — https://myanimelist.net/news/74801849?_location=rss
