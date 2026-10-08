@@ -38,6 +38,11 @@ ported to C afterwards to go into the actual game.
 
 ## What was unusual about it
 
+<figure>
+  <img src="/img/blog/gta-car-physics-atari-st-prototype/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Atari 1040STF photographed by Bill Bertram, CC BY 2.5 via Wikimedia Commons; Motion Lab screenshot from the project's own repository</figcaption>
+</figure>
+
 Kerr's own framing is the useful part. He describes what he built as a simple
 classical 2D rigid body dynamics simulation, and points out that most game
 vehicles of the period were done with basic high-school point physics — F = ma,
