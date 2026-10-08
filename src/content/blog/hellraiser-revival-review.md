@@ -37,7 +37,6 @@ artistView:
   misses:
     - "Combat: it is the one complaint that appears in the eight-out-of-ten reviews and the four-and-a-half alike, which makes it structural rather than a matter of taste."
     - "Performance: the lowest verdict in the set is largely a bug report from the PS5 build, and bugs in that volume usually mean the certification window closed before the fixes did."
-draft: true
 ---
 
 Six scored verdicts I could verify on launch day, 8 October 2026, and they
