@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Pipeline: no export to the desktop editor at launch, per the reports, means anything built in Spark cannot be taken into a real production and finished properly."
     - "Licensing: the Provider Agreement publishers signed covers Unity using their work to run and market the store, and nobody has said what serving it into a prompt-driven editor pays."
-draft: true
 ---
 
 Unity announced Spark on 7 October 2026: a browser tool that assembles a
