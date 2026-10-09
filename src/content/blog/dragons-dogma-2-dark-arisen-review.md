@@ -41,7 +41,6 @@ artistView:
   misses:
     - "Progression design: randomised affixes on hand-authored armour sets waste the art. Every Relic roll makes the piece a number, and the silhouette an artist spent weeks on becomes a stat line."
     - "Frame generation: a generated 60 on a 30fps base buys you the look of smoothness and none of the response, and in a game built on parry timing that gap sits exactly where the player can feel it."
-draft: true
 ---
 
 Capcom's expansion to Dragon's Dogma 2 arrived today, 9 October, after an early
