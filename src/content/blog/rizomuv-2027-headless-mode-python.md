@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Performance: the five-times figure is Rizom-Lab's own, carries an 'up to' and applies to large islands, and as of 9 October nobody outside the company has measured it on a real asset."
     - "Scope: nothing here decides where a seam goes, so the farm job you can build with this starts from a mesh that already carries its cuts. The authored half of UV work is untouched, which is honest of them and worth saying out loud."
-draft: true
 ---
 
 Seams are the decision. Everything after them is arithmetic.
