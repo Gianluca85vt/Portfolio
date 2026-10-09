@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Dragon's Dogma 2: Dark Arisen scores 8.5 across a three-point spread">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7A1F2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E7C7CF" letter-spacing="6">DARK ARISEN</text>
+  <text x="80" y="340" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">8.5</text>
+  <text x="80" y="415" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F2DCE1">eight verdicts, a three-point spread</text>
+  <text x="80" y="480" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#C9949F">they agree on the tundra, not on the loot</text>
+</svg>
