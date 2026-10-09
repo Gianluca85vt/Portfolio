@@ -35,6 +35,28 @@ export type TrackedRelease = {
 
 export const tracker: TrackedRelease[] = [
   {
+    tool: 'RizomUV',
+    maker: 'Rizom-Lab',
+    version: '2027.0',
+    status: 'stable',
+    date: '2026-10-08',
+    changed: [
+      'A headless mode runs the scripting surface with no interface, reporting through console output and exit codes, for batch jobs, automated builds and render-farm work.',
+      'Python replaces Lua as the default scripting language, and RizomUVLink now works on every platform rather than Windows only.',
+      'Align Borders straightens island borders along the U and V axes during Unfold or Optimize; Live Update recalculates an island as soon as an edge constraint changes.',
+      'Islands can be processed in parallel, the Scene Outliner spans objects, materials and polygon groups, large FBX scenes load partially, and there are texture-budget controls.',
+    ],
+    watch: [
+      'The "up to five times faster" Optimize figure is Rizom-Lab\'s own, applies to large islands, and no independent measurement has been published.',
+      'Nothing in the release places seams, so an unattended job starts from a mesh that already carries its cuts.',
+    ],
+    piece: '/blog/rizomuv-2027-headless-mode-python/',
+    sources: [
+      { label: '80.lv', url: 'https://80.lv/articles/rizomuv-2027-introduces-faster-unfolding-live-updates-full-ui-customization/' },
+      { label: 'CGChannel', url: 'https://www.cgchannel.com/2026/10/rizom-lab-releases-rizom-uv-2027-0/' },
+    ],
+  },
+  {
     tool: 'Tripo',
     maker: 'Tripo AI',
     version: 'P2.0',
