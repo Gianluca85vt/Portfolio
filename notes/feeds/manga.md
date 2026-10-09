@@ -1,72 +1,97 @@
-# Manga — harvested 2026-10-08T19:25:53.840Z
+# Manga — harvested 2026-10-09T11:30:38.221Z
 
 ## Anime News Network
 
-### Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection
-Thu, 08 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/dark-horse-to-release-gou-tanabe-the-outsider-and-other-early-adaptations-collection/.242625
+### The Ghost of Bongcheon-Dong Horror Webtoon Gets Live-Action Film Adaptation
+Fri, 09 Oct 2026 06:24:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620
 
-Company to also release <cite>Martial War</cite> graphic novel by co-creators Hiroyuki Takei, Will Carter, Aidan White.
+Series follows young woman who begins experiencing strange phenomena at an apartment complex in Seoul
 
-### Live-Action 5 Centimeters Per Second Film Screens in N. America on October 23
-Thu, 08 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/live-action-5-centimeters-per-second-film-screens-in-n-america-on-october-23/.242642
+### Chiikawa Anime Film Drops to #4, Star Detective Precure! Film to #5 in Japan
+Fri, 09 Oct 2026 06:02:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/chiikawa-anime-film-drops-to-no.4-star-detective-precure-film-to-no.5-in-japan/.242508
 
-Film also gets home video release
+<cite>Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising</cite> rejoins top 10 at #7
 
-### Magilumiere Magical Girls Inc. Season 2 Anime Series Review
-Thu, 08 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/magilumiere-magical-girls-inc-season-2/anime-series/.242229
+### How I Became King by Eating Monsters Novels Get TV Anime by White Fox in 2027
+Fri, 09 Oct 2026 05:41:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/how-i-became-king-by-eating-monsters-novels-get-tv-anime-by-white-fox-in-2027/.242668
 
-It’s a clever, entertaining, optimistic show that deserves an audience.
+Series centers on prince who secretly hunts, eats monsters to avoid assassination
 
-### shallm Perform Opening Theme Song for 'Now That We Draw' Anime
-Thu, 08 Oct 2026 11:31:20 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/shallm-perform-opening-theme-song-for-now-that-we-draw-anime/.242638
+### Girls und Panzer Franchise Gets 2 New Games
+Fri, 09 Oct 2026 04:46:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/girls-und-panzer-franchise-gets-2-new-games/.242665
 
-Vocalist lia's band wrote song for anime
+<cite>GuP: All-Star Tank Carnival</cite> releases on Switch in 2027; <cite>GuP: Bokosuka Rush</cite> releases on smartphones
 
-### 'Go with the Clouds, North by Northwest' Anime's 1st Promo Video Reveals 2027 Premiere on Netflix
-Thu, 08 Oct 2026 10:44:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/go-with-the-clouds-north-by-northwest-anime-1st-promo-video-reveals-2027-premiere-on-netflix/.242639
+### All the News and Reviews from New York Comic Con 2026
+Fri, 09 Oct 2026 04:27:50 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/.242666
 
-Tomohiro Ōno stars as Kei Miyama
+Thursday, October 8 News Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection Macross Frontier Anime's Blu-ray Disc Ships...
 
-### Crunchyroll Acquires The Apothecary Diaries Anime Film
-Thu, 08 Oct 2026 10:10:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-acquires-the-apothecary-diaries-anime-film/.242637
+### Crunchyroll, HAYATE, LINE Digital Frontier Partner to Produce Anime of 'Around' 15 Webtoons
+Fri, 09 Oct 2026 04:23:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/crunchyroll-hayate-line-digital-frontier-partner-to-produce-anime-of-around-15-webtoons/.242667
 
-<cite>The Apothecary Diaries: The Late Lady's Treasure</cite> opens in Japan on December 11
+Crunchyroll to exclusively stream produced anime
 
-### Bless TV Anime Casts Yoshiki Nakajima
-Thu, 08 Oct 2026 07:18:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/bless-tv-anime-casts-yoshiki-nakajima/.242634
+### Comisma Enters Agreement With Akili International to Produce Live-Action Film of Zukyun x Bakyun Manga
+Fri, 09 Oct 2026 03:34:53 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/comisma-enters-agreement-with-akili-international-to-produce-live-action-film-of-zukyun-x-bakyun-/.242650
 
-Nakajima vioces Joe Osaki in series debuting in January 2027
+Robby Monroe to direct, script film based on Teito Yuzuriha's manga
 
-### The Vermilion Mask Anime's 2nd Part Debuts in April 2027
-Thu, 08 Oct 2026 06:42:34 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/the-vermilion-mask-anime-2nd-part-debuts-in-april-2027/.242631
+### Giant Street Fighter Arcade Cabinet Appears in New York's Times Square
+Thu, 08 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-08/giant-street-fighter-arcade-cabinet-appears-in-new-york-times-square/.242632
 
-Anime's 1st part premieres on Saturday
+Ken Masters actor Noah Centineo performs real-life Hell Wheel
 
-### Skull Dragon's Precious Daughter Anime Unveils 1st Promo Video, Main Cast, 2027 Debut
-Thu, 08 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/skull-dragon-precious-daughter-anime-unveils-1st-promo-video-main-cast-2027-debut/.242622
+### My Sword Saint Master Is Too Cute to Live With! Anime's Teaser Unveils Cast, January Debut
+Thu, 08 Oct 2026 23:48:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/my-sword-saint-master-is-too-cute-to-live-with-anime-teaser-unveils-cast-january-debut/.242651
 
-Kana Hanazawa, Kazuhiko Inoue star in Dōga Kōbō anime
+Ai Kakuma, Seena Hoshiki, Hitomi Ueda, Azusa Tsujimori, Tomoyo Takayanagi, Miyu Tomita join cast
 
-### Horror Collector Anime Adds 3 Cast Members
-Thu, 08 Oct 2026 03:09:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/horror-collector-anime-adds-3-cast-members/.242612
+### James Gunn, Big Sean Catch Up at Crunchyroll Anime Future Forum
+Thu, 08 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-08/james-gunn-big-sean-catch-up-at-crunchyroll-anime-future-forum/.242630
 
-Sae Hiratsuka, Ryōta Ōsaka, Hana Hishikawa join cast
+<i>Guardians of the Galaxy</i> director, rapper were one-time neighbors
 
-### Crunchyroll Manga App Expands to U.K., Ireland, South Asia, ANZ
-Thu, 08 Oct 2026 00:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/crunchyroll-manga-app-expands-to-u.k-ireland-south-asia-anz/.242608
+### Everyone's Darling Has a Secret Anime's 1st Teaser Previews Voice Cast
+Thu, 08 Oct 2026 21:28:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/everyone-darling-has-a-secret-anime-1st-teaser-previews-voice-cast/.242648
 
-Crunchyroll also to be "easily accessible" in new dedicated anime hub on PS5 launching in spring
+Crunchyroll streams April 2027 anime
 
-### Muramasa: Revenant Blades is the Definitive Remaster You've Been Waiting For
-Thu, 08 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/muramasa-revenant-blades-is-the-definitive-remaster-youve-been-waiting-for/.242162
+### Magical Buffs Anime's Trailer Unveils More Cast, LiSA's Opening Song, Early Netflix Streaming, January 4 TV Debut
+Thu, 08 Oct 2026 21:17:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/magical-buffs-anime-trailer-unveils-more-cast-lisa-opening-song-early-netflix-streaming-january-4-/.242647
 
-<cite>Muramasa</cite> is back and looking better than ever—literally.
+TK (Ling Tosite Sigure) pens "Ecstatic Buffer" song
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Skull Dragon’s Precious Daughter Releases Visual, Trailer and Staff Details
+Fri, 09 Oct 2026 02:16:47 GMT — https://animecorner.me/the-skull-dragons-precious-daughter-releases-visual-trailer-and-staff-details/
+
+Kadokawa has revealed a visual, a trailer, and production details for the upcoming anime&hellip;
+
+### Now That We Draw Reveals Opening Song
+Fri, 09 Oct 2026 00:26:19 GMT — https://animecorner.me/now-that-we-draw-reveals-opening-song/
+
+The production committee behind Now That We Draw has revealed the opening song for&hellip;
+
+### The Boxer TV Anime Announced With Koki Uchiyama, Kensho Ono, Tomokazu Seki and Toshiyuki Toyonaga
+Thu, 08 Oct 2026 22:46:54 GMT — https://animecorner.me/the-boxer-tv-anime-announced-with-koki-uchiyama-kensho-ono-tomokazu-seki-and-toshiyuki-toyonaga/
+
+JH’s WEBTOON series The Boxer is officially getting a TV anime adaptation, revealing the trailer and main cast & staff.
+
+### Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- Hits United States Theaters January 16th
+Thu, 08 Oct 2026 21:01:00 GMT — https://animecorner.me/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising-hits-united-states-theaters-january-16th/
+
+Today at New York Comic Con, Aniplex of America and Fathom Entertainment revealed that&hellip;
+
+### The Guy She Was Interested In Wasn't a Guy At All First Trailer and New Cast Revealed, January 8 Premiere
+Thu, 08 Oct 2026 20:07:13 GMT — https://animecorner.me/the-guy-she-was-interested-in-wasnt-a-guy-at-all-first-trailer-and-new-cast-revealed-january-8-premiere/
+
+The Guy She Was Interested In Wasn’t a Guy At All anime revealed the first trailer ahead of its January 2027 release date.
 
 ### The Apothecary Diaries: The Late Lady's Treasure Anime Film Acquired by Crunchyroll for Global Theatrical Release
 Thu, 08 Oct 2026 13:45:26 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-anime-film-acquired-by-crunchyroll-for-global-theatrical-release/
@@ -103,32 +128,52 @@ Wed, 07 Oct 2026 13:20:14 GMT — https://animecorner.me/kagurabachi-anime-casts
 
 KAGURABACHI anime has cast Yuichi Nakamura as Soshiro Azami, introducing the character with a new visual and dedicated trailer.
 
-### Summer 2026 Seiyuu of the Season Rankings
-Wed, 07 Oct 2026 13:10:00 GMT — https://animecorner.me/summer-2026-seiyuu-of-the-season-rankings/
-
-The Summer 2026 anime season has come to a close, and so has our&hellip;
-
-### Code Geass: Lelouch of the Rebellion Lost Stories to End Service on December 7, Offline Memorial Version Planned
-Wed, 07 Oct 2026 13:09:31 GMT — https://animecorner.me/code-geass-lelouch-of-the-rebellion-lost-stories-to-end-service-on-december-7-offline-memorial-version-planned/
-
-Code Geass: Lelouch of the Rebellion Lost Stories will end service on December 7,&hellip;
-
-### Cygames Breeders’ Cup Sprint Returns as Cygames and Breeders’ Cup Renew Partnership
-Wed, 07 Oct 2026 08:53:19 GMT — https://animecorner.me/cygames-breeders-cup-sprint-returns-as-cygames-and-breeders-cup-renew-partnership/
-
-Cygames, Inc. has renewed its partnership with the Breeders' Cup for the third consecutive&hellip;
-
-### Ascendance of a Bookworm Part 4 Anime Announced
-Wed, 07 Oct 2026 07:29:47 GMT — https://animecorner.me/ascendance-of-a-bookworm-part-4-anime-announced/
-
-Ascendance of a Bookworm Part 4: Founder of the Royal Academy's So-Called Library Committee&hellip;
-
-### The Moon on a Rainy Night Reveals First Trailer, Main Cast
-Wed, 07 Oct 2026 06:12:02 GMT — https://animecorner.me/the-moon-on-a-rainy-night-reveals-first-trailer-main-cast/
-
-The previously announced The Moon on a Rainy Night anime revealed its first trailer along with the&hellip;
-
 ## MyAnimeList News
+
+### White Fox Produces Monster no Niku wo Kutte Itara Oui ni Tsuita Ken TV Anime Adaptation for 2027
+Fri, 09 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74804055?_location=rss
+
+Production company King Records opened an official website for a television anime adaptation of Daken s Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) light novel on Friday, revealing a teaser visual (pictured). The anime series is being produced by White Fox for a 2027 broadcast. Daken originally penned the adventure fantasy series on the Shoutsetsuka ni Narou website from January 2022 to January 2023. Micro Magazine began publishing the light novel...
+
+### Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu Reveals Main Cast, Teaser Promo for Winter 2027
+Thu, 08 Oct 2026 20:36:00 -0700 — https://myanimelist.net/news/74804034?_location=rss
+
+The official website for the television anime adaptation of Kennoji and R_ringo s Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga unveiled the main cast and a teaser promotional video on Friday. The anime series will premiere in 2027 Cast Lisa Balsandra: Ai Kakuma (Mushoku Tensei: Isekai Ittara Honki Dasu) Eugene Dawson: Seena Hoshiki (Super no Ura de Yani Suu Futari) Cordelia Dawson: Hitomi Ueda (Uma Musum...
+
+### Animator Kenichirou Katsura Dies at 59
+Thu, 08 Oct 2026 19:45:15 -0700 — https://myanimelist.net/news/74803941?_location=rss
+
+Kenichirou Katsura, known for his character designs for Macross 7 and Knight s &amp; Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating that Katsura died while undergoing medical treatment. "Animator Kenichirou Katsura died on September 30 while receiving medical treatment. We offer our deepest gratitude to the fans who loved the works and...
+
+### Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made Unveils Additional Cast, Opening Theme, Second Promo
+Thu, 08 Oct 2026 18:27:39 -0700 — https://myanimelist.net/news/74803756?_location=rss
+
+The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation of Haka Tokura and Shin Arakawa s Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga on Thursday. The anime series will be broadcast on Tokyo MX, MBS, and BS11 on January 4, 2027. Cast Abel: Haruki Ishiya (Marriaget...
+
+### Ghost of Tsushima Kuroudo Kitan Announces Additional Cast, Staff, 2028 Delay
+Thu, 08 Oct 2026 17:55:31 -0700 — https://myanimelist.net/news/74803695?_location=rss
+
+The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions Ghost of Tsushima video game on Thursday. The anime has been delayed to 2028 from its originally planned 2027 premiere. Mayumi Saco (Vinland Saga Season 2) and Shinya Fukumatsu (Tondemo Skill de Isekai Hourou Meshi) are joining the cast. Their respective characters have yet to be revealed. Staff Script: Satoshi Maejima (Renji Ooki) (Bubble) Character D...
+
+### Teenage Mercenary Reveals Main Staff, 2027 Debut
+Thu, 08 Oct 2026 17:55:03 -0700 — https://myanimelist.net/news/74803693?_location=rss
+
+The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC s Teenage Mercenary (Nyuugaku Youhei) webtoon on Thursday. The anime series will premiere in 2027. Staff Director, Series Composition: Manabu Ono (Dead Mount Death Play) Character Design, Chief Animation Director: Kouji Haneda (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Music: Hiroyuki Sawano (Shingeki no Kyoji...
+
+### Kininatteru Hito ga Otoko ja Nakatta Reveals Additional Cast, Staff, First Promo
+Thu, 08 Oct 2026 17:00:35 -0700 — https://myanimelist.net/news/74803545?_location=rss
+
+The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adaptation of Sumiko Arai s Kininatteru Hito ga Otoko ja Nakatta (The Guy She Was Interested in Wasn t a Guy at All) manga on Thursday. The anime is scheduled to premiere on January 8 at 11:00 p.m. on NTV s Friday Anime Night timeslot. Cast Joe: Kenjirou Tsuda (Gokushufudou) Narita: Tasuku Hatanaka (Boku no Hero Academia) Chizuru: Yurina Amami (Mika...
+
+### Webtoon The Boxer Gets TV Anime
+Thu, 08 Oct 2026 16:43:05 -0700 — https://myanimelist.net/news/74803494?_location=rss
+
+The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong s The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray Dogs) K: Tomokazu Seki (Jujutsu Kaisen) Ryu Baeksan: Kensho Ono (Vinland Saga) Staff Director: Takehiro Kubota (Watashi no Shiawase na Kekkon), Won-yeong Kang (Cardfight!! Vanguard: overDress main animation) Charac...
+
+### Webtoon The Remarried Empress Gets TV Anime in 2027
+Thu, 08 Oct 2026 16:41:03 -0700 — https://myanimelist.net/news/74803489?_location=rss
+
+The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul s The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and special promotional video. The anime series will premiere in 2027. Cast Navier: Youko Hikasa (High School DxD) Heinrey: Ryouhei Kimura (Grand Blue) Sovieshu: Tomoaki Maeno (Akatsuki no Yona) Rashta: Reina Ueda (Chainsaw...
 
 ### Hokuhokusei ni Kumo to Ike Reveals Lead Cast, Staff, First Promo, 2027 Debut
 Thu, 08 Oct 2026 07:30:57 -0700 — https://myanimelist.net/news/74802125?_location=rss
@@ -145,31 +190,21 @@ Thu, 08 Oct 2026 06:43:58 -0700 — https://myanimelist.net/news/74802040?_locat
 
 The official X account for author Koushi announced on Thursday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga will end with its next chapter. The 106th and final chapter is scheduled to be released on Weekly Shounen Champion issue 2026 No.46 on October 15. The final chapter will have page count of two chapters. Koushi launched the romantic suspense manga in Weekly Shounen Champion magazine in July 2024. Akita Shoten published the 11th volume on October 7, with the 12th and...
 
-### Additional Cast for Marronnier Oukoku no Shichinin no Kishi Announced
-Thu, 08 Oct 2026 06:19:31 -0700 — https://myanimelist.net/news/74801996?_location=rss
-
-The official website for the television anime adaptation of Nao Iwamoto s Marronnier Oukoku no Shichinin no Kishi (The Seven Knights of the Marronnier Kingdom) manga announced the additional cast on Thursday. The anime premiered on October 3 at 6.25 p.m. on NHK E-Tele. Cast Justice: Natsuki Hanae (Oni no Hanayome) Zoe: Mitsuki Saiga (Tongari Boushi no Atelier) Colette: Miyuri Shimabukuro (Yomi no Tsugai) Kiyoko Sayama (Fumetsu no Anata e Season 2) is directing the anime at J.C.Staff, with...
-
-### Kyoufu Collector Announces Additional Cast
-Thu, 08 Oct 2026 04:35:42 -0700 — https://myanimelist.net/news/74801885?_location=rss
-
-The official website for the television anime adaptation of Midori Satou s Kyoufu Collector (Horror Collector) novel announced three additional cast members on Thursday. The anime series is scheduled to premiere on October 10 at 11:45 p.m. on NHK-G. Cast Momo: Sae Hiratsuka (Osananajimi to wa Love Comedy ni Naranai) Raita: Ryouta Oosaka (Hataraku Maou-sama!) Sachiko Konno: Hana Hishikawa (Sayonara Lara) Yuki Inaba (Kaminaki Sekai no Kamisama Katsudou) is directing the anime and composing th...
-
-### Hone Dragon no Mana Musume Reveals Main Cast, First Promo, 2027 Debut
-Thu, 08 Oct 2026 04:04:04 -0700 — https://myanimelist.net/news/74801849?_location=rss
-
-The official website for the television anime adaptation of Ichi Yukishiro s Hone Dragon no Mana Musume (The Skull Dragon s Precious Daughter) web manga revealed the main cast, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere in 2027. Voice actors Kana Hanazawa (Angel Beats!) and Kazuhiko Inoue (Natsume Yuujinchou) are starring as Eve and Nemu, respectively. Kuniyasu Nishina (Isekai Ojisan episode director) is helming the anime at Dog...
-
-### Amayo no Tsuki Reveals Main Cast, Additional Staff, First Promo, 2027 Premiere
-Tue, 06 Oct 2026 23:49:07 -0700 — https://myanimelist.net/news/74798293?_location=rss
-
-The official website for the television anime adaptation of Kuzushiro s Amayo no Tsuki (The Moon on a Rainy Night) manga revealed the main cast, additional staff, and the first promotional video on Wednesday. The anime is scheduled to premiere in 2027. Voice actresses Sora Amamiya (Nijusseiki Denki Mokuroku) and Iori Saeki (Pon no Michi) are starring in the anime as Kanon Oikawa and Saki Kindaichi, respectively. Staff Assistant Director: Tsutomu Tomoyuki (Kizoku Tensei: Megumareta Umare kar...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Crunchyroll Debuts New Anime at New York Comic Con 2026
+Fri, 09 Oct 2026 10:10:57 +0000 — https://animeuknews.net/2026/10/crunchyroll-debuts-new-anime-at-new-york-comic-con-2026/
+
+The showcase also featured EAT-MAN, Here U Are, Everyone's Darling Has a Secret, Magical Buffs: The Support Caster is Stronger Than He Realized!, Berserk of Gluttony Season 2 and The Guy She Was Interested in Wasn't a Guy at All.
+
+### Wandering Son Omnibus Volume One Two Review
+Fri, 09 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/wandering-son-omnibus-volume-one-two-review/
+
+Shimura Takako's acclaimed Wandering Son series finally makes its way back to the English market with these new editions from Takumigraphics.
 
 ### Crunchyroll Manga is here: 250+ titles live today in the UK, Ireland, India, Australia and New Zealand
 Thu, 08 Oct 2026 09:15:44 +0000 — https://animeuknews.net/2026/10/crunchyroll-manga-is-here-250-titles-live-today-in-the-uk-ireland-india-australia-and-new-zealand/
@@ -180,9 +215,4 @@ Since debuting in the US and Canada in October 2025, Crunchyroll Manga has grown
 Thu, 08 Oct 2026 09:00:16 +0000 — https://animeuknews.net/2026/10/summer-season-2026-overview/
 
 Were there just too many new series in the Summer Season – and did the quality slip? Which titles stood out now that they’ve all (well, almost all) come to an end?
-
-### My Ex-Boyfriend Loves Boys Love Volume 1 Review
-Wed, 07 Oct 2026 09:00:18 +0000 — https://animeuknews.net/2026/10/my-ex-boyfriend-loves-boys-love-volume-1-review/
-
-Momo Akado is a Boys’ Love fan– but who should she meet in the BL department in her local bookstore but her ex-boyfriend, Suzuya Katakura? Could he be a fan too? A fun new otaku romcom from Square Enix Manga!
 

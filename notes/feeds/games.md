@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-08T19:25:53.840Z
+# Games — harvested 2026-10-09T11:30:38.221Z
 
 ## Eurogamer
+
+### Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it
+Fri, 09 Oct 2026 10:40:54 +0000 — https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red
+
+UPDATE 12PM BST: CD Projekt Red seems to have confirmed the partnership and film, with joint-CEO Micha&lstrok; Nowakowski commenting on X that: "We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at the appropriate time." Read more
 
 ### "It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
 Thu, 08 Oct 2026 17:00:00 +0000 — https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover
@@ -57,12 +62,27 @@ Thu, 08 Oct 2026 11:35:03 +0000 — https://www.eurogamer.net/world-of-warcraft-
 
 World of Warcraft: Forever's developers have announced drastic visual changes to the game's new Skyborne race following passionate community feedback. These include new in-game models that better represent the game's early MMO aesthetic, much to the community's delight. Read more
 
-### Google and Unity unveil gen-AI game-making platforms, and demonstrate one of them with depressingly rubbish "dream game" Space Corridor
-Thu, 08 Oct 2026 11:33:09 +0000 — https://www.eurogamer.net/google-playground-unity-spark-gen-ai-game-creators
-
-Google and Unity yesterday announced new generative-AI game-making platforms designed to make and shape games by inputting text prompts. Google's product is called Playground and is available for testing now, if you live in the US, and Unity's product is Unity Spark and is "coming soon". Read more
-
 ## GamesIndustry.biz
+
+### Video games aren't the enemy of kids' mental health – ignoring them is | Opinion
+Fri, 09 Oct 2026 11:01:00 +0000 — https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion
+
+Video games have become an easy target in conversations about young people's mental health, often without much understanding of the positive role they can play. Parents cite them as the cause of anxiety, isolation, and poor sleep. Researchers, meanwhile, keep finding that the picture is far from black and white. Games can be a lifeline for socially anxious kids, a coping tool for those with ADHD, a rare space where isolated teens feel competent and connected. Read more
+
+### Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement
+Fri, 09 Oct 2026 10:50:02 +0000 — https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement
+
+Sony has agreed to transfer 419 global VR patents to Meta, with 180 patents filed in the US under an agreement signed in December 2025. Read more
+
+### Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games
+Fri, 09 Oct 2026 08:51:01 +0000 — https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games
+
+Nordisk Games has announced a publishing agreement between its subsidiaries Avalanche Studios Group and Supermassive Games. Read more
+
+### Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch
+Fri, 09 Oct 2026 07:44:35 +0000 — https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch
+
+Rainbow Six Mobile is shutting down less than a year after its global launch. The free-to-play tactical shooter will remain available to play until January 15, 2027. Read more
 
 ### Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY
 Thu, 08 Oct 2026 13:58:42 +0000 — https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty
@@ -74,15 +94,15 @@ Thu, 08 Oct 2026 13:30:00 +0000 — https://www.gamesindustry.biz/a-creative-ide
 
 During the summer, veteran developer Glen Schofield announced his retirement from the games industry . Read more
 
-### NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts
-Thu, 08 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts
-
-NBA 2K27 topped the US charts in August, becoming the third-best-selling game of the year according to Circana data. Read more
-
 ### Safe In Our World launches Four Billion Players campaign to make mental health support more accessible for gamers
 Thu, 08 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers
 
 Mental health charity Safe In Our World has launched Four Billion Players, a campaign to raise awareness of mental health support for gamers. Read more
+
+### NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts
+Thu, 08 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts
+
+NBA 2K27 topped the US charts in August, becoming the third-best-selling game of the year according to Circana data. Read more
 
 ### Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks
 Thu, 08 Oct 2026 12:18:40 +0000 — https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks
@@ -104,31 +124,36 @@ Thu, 08 Oct 2026 08:09:16 +0000 — https://www.gamesindustry.biz/fireshine-game
 
 Fireshine Games has acquired Danish indie studio Fair Games and its open world sandbox title Necesse. Read more
 
-### Gravity Well lays off more than 40 developers after losing its funding
-Wed, 07 Oct 2026 20:30:32 +0000 — https://www.gamesindustry.biz/gravity-well-lays-off-more-than-40-developers-after-losing-its-funding
-
-Gravity Well, an independent studio founded by Respawn Entertainment alumni, has let go of the majority of its team after losing its funding. Read more
-
-### Star Wars Zero Company developer Bit Reactor begins bringing furloughed staff back
-Wed, 07 Oct 2026 19:41:33 +0000 — https://www.gamesindustry.biz/star-wars-zero-company-developer-bit-reactor-begins-bringing-furloughed-staff-back
-
-Star Wars Zero Company developer Bit Reactor has started bringing back staff it furloughed ahead of the game's launch. Read more
-
-### Discord protection bot Double Counter hit by breach exposing around 1 million email addresses
-Wed, 07 Oct 2026 19:15:58 +0000 — https://www.gamesindustry.biz/discord-protection-bot-double-counter-hit-by-breach-exposing-around-1-million-email-addresses
-
-Double Counter, a service that protects Discord servers from raids and alt accounts, has suffered a data breach that exposed about 1 million email addresses, as well as Discord IDs and IP addresses for millions more users. Read more
-
-### Wizards of the Coast union expands, demands company stop pushing generative AI
-Wed, 07 Oct 2026 15:58:18 +0000 — https://www.gamesindustry.biz/wizards-of-the-coast-union-expands-demands-company-stop-pushing-generative-ai
-
-The Dungeons & Dragons and Magic: The Gathering teams at Wizards of the Coast are unionizing, and are calling on Hasbro and Wizards leadership to stop pushing generative AI. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Ghost of Tsushima s Anime Series Has Been Pushed Back to 2028
+Fri, 09 Oct 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028
+
+New cast and crew announced. In case you forgot, PlayStation Productions is partnering with Aniplex and Hayate to create an anime series based on Ghost of Tsushima . Well, it's going to be a longer wait than originally planned. Crunchyroll — which will exclusively stream the anime on release — has announced it has been delayed into 2028, having previously been pencilled in for 2027. Read the full article on pushsquare.com
+
+### Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last
+Fri, 09 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last
+
+Is something brewing? Sony has released another firmware update for the PS Portal, only two weeks after the previous one . It's worth noting because updates like this are rarely so close together. The portable streaming device is now up to system software version 7.3.0, with the update itself being rolled out in phases. Read the full article on pushsquare.com
+
+### Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series
+Fri, 09 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series
+
+Onward and upward. Publisher Bandai Namco has announced some very positive news about the sales performance of Ace Combat 8: Wings of Theve . The latest entry has set a new record for the long-running fighter jet action series; it's the fastest-ever to reach one million copies sold. Read the full article on pushsquare.com
+
+### If You Like Scrappy Old Resident Evil Games, I Recommend ANOMALITH s PS5 Demo
+Fri, 09 Oct 2026 01:30:00 GMT — https://www.pushsquare.com/news/2026/10/if-you-like-scrappy-old-resident-evil-games-i-recommend-anomaliths-ps5-demo
+
+It's an anomaly. I want to be 110% clear before we properly get into this article: ANOMALITH channels classic Resident Evil , but it’s nowhere near as good. Don’t go into this demo expecting Capcom quality, because you won’t get it. That said, this scrappy little survival horror shooter reminds me of the original Resident Evil Revelations in a positive way – it’s got that simplistic, mindless kinda feel to it which I sometimes appreciate. Read the full article on pushsquare.com
+
+### Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game
+Fri, 09 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game
+
+A six-hour deep dive into the action title. All bets are off once GTA 6 comes out, but in the weeks leading up to it, you have to let Phantom Blade Zero take up all of your free time. I played six hours of the game on a trip to Beijing, China (more on that in the future) and found it to be one of the most confident and impressive Western debuts from a developer in years. This is not a studio finding its footing in the action genre; it’s one already primed to lead it. Outstanding combat and boss encounters will make the S-GAME effort one of this year’s greatest experiences. Read the full article on pushsquare.com
 
 ### PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation
 Thu, 08 Oct 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation
@@ -164,31 +189,6 @@ And two Tokyo Revengers characters out this month. If you’re not playing Fatal
 Thu, 08 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/10/europe-shows-up-for-physical-games-51percent-of-wolverines-ps5-sales-for-disc-version
 
 There was a disc, so they bought it. Sony is yet to share official Marvel's Wolverine sales data, but firms worldwide have begun sharing their own points and projected figures. And, according to GSD data shared by The Game Business , physical copies accounted for 35% of the PS5 game's sales. If you narrow the data to Europe, however, it shows how the continent is continuing to support physical media in the face of Sony's decision to halt the production of boxed PlayStation games from January 2028. Read the full article on pushsquare.com
-
-### Hell Is Us Massively Expands Its Roster of Freaky Enemies to Celebrate 2 Million Players
-Thu, 08 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/hell-is-us-massively-expands-its-roster-of-freaky-enemies-to-celebrate-2-million-players
-
-Free update out now. Publisher Nacon and developer Rogue Factor have announced that Hell Is Us, the sci-fi action game that refuses to hold the player's hand, has now surpassed the 2 million players milestone. To celebrate this news, the game has received a pretty major update on all platforms, and it's available to download and install now. Read the full article on pushsquare.com
-
-### Marvel Tokon Far Exceeds Expectations in US Sales Charts, PS5 Dollar Spend Up
-Thu, 08 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/marvel-tokon-far-exceeds-expectations-in-us-sales-charts-ps5-dollar-spend-up
-
-But Sony's system behind Switch 2 overall. Isn’t it interesting how conventional wisdom from social media – usually massively influenced by Steam concurrent users – would lead you to believe a game flopped, only for the reality to be quite different? Marvel Tokon: Fighting Souls has been tagged as a slow seller, but it did well in the recent PS Store sales charts, and has worked its way into third position in Circana’s August report , which tracks physical and digital sales for the US marked. Read the full article on pushsquare.com
-
-### GTA 6 In-Game Radio Stations Announced, and You Can Preview Them Right Now
-Thu, 08 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-in-game-radio-stations-announced-and-you-can-preview-them-right-now
-
-Tune in. Rockstar Games has given us another GTA 6 crumb to enjoy; it's announced some of the in-game radio stations we'll be able to enjoy as we drive around Leonida, and you can get a taste for them right now. It's all unveiled on the official website in a new blog post . It's stated that GTA 6 will have the "biggest and widest-ranging selection of in-game radio yet," and six of the stations you can listen to have been unveiled. They're as follows: Read the full article on pushsquare.com
-
-### Doctor Doom, Invisible Woman Join Marvel Cosmic Invasion in DLC Pack Next Month
-Thu, 08 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/doctor-doom-invisible-woman-join-marvel-cosmic-invasion-in-dlc-pack-next-month
-
-Just what the doctor ordered. Publisher Dotemu has revealed more details about the upcoming second DLC pack for its superhero beat-'em-up, Marvel Cosmic Invasion . The add-on, titled The Siege of Castle Doom, is scheduled for launch on 10th November 2026, and you can see some gameplay featuring the DLC's two new characters in the trailer below: Read the full article on pushsquare.com
-
-### GTA 6 Gameplay Leaks Are Back with Potentially Big Spoilers
-Thu, 08 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-gameplay-leaks-are-back-with-potentially-big-spoilers
-
-25 minutes of gameplay leaked online. Cyberleek, the GTA 6 leaker from before the Netflix Extended Look debuted, has returned to the Internet with yet another significant gameplay video that potentially reveals a lot of spoilers and details Rockstar is yet to officially share. The leaker has uploaded another 25 minutes of gameplay taken from a development build of GTA 6. Just in case you don't want to see any potential spoilers, the article continues after the image. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -227,11 +227,6 @@ Wed, 07 Oct 2026 12:05:56 GMT — https://www.gamedeveloper.com/programming/unit
 
 Unity's new tool allows prompt-based game development, working in collaboration with Google AI.
 
-### Google debuts new 'experimental' AI game platform named Google Playground
-Tue, 06 Oct 2026 20:14:47 GMT — https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground
-
-A platform for people who want to play games made by AI.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -244,7 +239,25 @@ no date — https://www.gamedeveloper.com/events/slice
 ### Unreal Fest
 no date — https://www.gamedeveloper.com/events/unreal-fest
 
+### GodotCon
+no date — https://www.gamedeveloper.comconference.godotengine.org
+
 ## VGC
+
+### Ubisoft is shutting down Rainbow Six Mobile, dev team releases message
+Fri, 09 Oct 2026 10:45:58 +0000 — https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/
+
+Rainbow Six Mobile is sunsetting less than a year after it launched globally… Source
+
+### Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales
+Fri, 09 Oct 2026 10:02:42 +0000 — https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/
+
+Ace Combat 8: Wings is Theve is set to be the most successful entry in the series… Source
+
+### After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them
+Fri, 09 Oct 2026 09:07:39 +0000 — https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/
+
+Wet Dreams Don't Dry and Wet Dreams Dry Twice are being heavily discounted before they're gone… Source
 
 ### Cyberpunk 2077 is getting a live-action movie from Paramount
 Thu, 08 Oct 2026 18:36:52 +0000 — https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/
@@ -281,74 +294,109 @@ Thu, 08 Oct 2026 13:16:52 +0000 — https://www.videogameschronicle.com/news/edi
 
 Gardens Interactive has raised $70m for its online 'strandbox' adventure… Source
 
-### DD2 Dark Arisen: Relics, Spoils, and Appraisal explained
-Thu, 08 Oct 2026 12:58:25 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-relics-spoils-and-appraisal-explained/
-
-How the Relic and Appraisal system works in Dragon's Dogma 2: Dark Arisen… Source
-
-### A full-sized replica of the Atari 800XL home computer is coming next year
-Thu, 08 Oct 2026 12:56:52 +0000 — https://www.videogameschronicle.com/news/a-full-sized-replica-of-the-atari-800xl-home-computer-is-coming-next-year/
-
-The 800XL has 25 games built-in and support for more via USB… Source
-
-### DD2 Dark Arisen: Open the DLC Spellseal Doors in the Lost Rites quest
-Thu, 08 Oct 2026 12:26:03 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-open-the-dlc-spellseal-doors-in-the-lost-rites-quest/
-
-How to open the new Proving Grounds Spellseal Doors in Dragon's Dogma 2: Dark Arisen… Source
-
 ## Polygon
 
-### Cyberpunk 2077 Live-Action Movie Officially Announced
-Thu, 08 Oct 2026 18:59:26 GMT — https://www.polygon.com/cyberpunk-2077-movie-paramount-pictures/
+### Critical Role Just Gave a Controversial Answer to D&D’s Most Important Question
+Fri, 09 Oct 2026 11:00:16 GMT — https://www.polygon.com/critical-role-campaign-4-episode-37-wicander-death-dnd-dungeons-dragons/
 
-Johnny Silverhand is heading for the silver screen. CD Projekt Red's sci-fi role-playing game Cyberpunk 2077 is being adapted into a live-action movie at Paramount Pictures, according to a new report, with the longtime producer of the Transformers series overseeing the project. It's the latest video game adaptation from Paramount, which is also bringing Street Fighter and Call of Duty to live-action.
+People sit around a table to play a game of Dungeons & Dragons to have fun. Heroic deeds, exciting adventures, and hilarious moments are all part of the experience — but so is death. The risk of player characters dying adds important stakes to a D&D story, but because it feels terrible to have your character die as a player, that makes it very difficult for Dungeon Masters to navigate that aspect of the game. The latest episode of Critical Role ’s Campaign 4 proves this.
 
-### All health upgrade point locations in Control Resonant
-Thu, 08 Oct 2026 18:50:16 GMT — https://www.polygon.com/control-resonant-health-upgrade-point-locations/
+### The Witcher 3 Remastered's New Patch Adds Highly Requested Graphics Fix
+Fri, 09 Oct 2026 10:13:34 GMT — https://www.polygon.com/the-witcher-3-wild-hunt-remastered-update-patch-notes-bloom-remove/
 
-Health upgrade points are special items that are mostly found in large resource crates around the Control Resonant map.
+The Witcher 3: Wild Hunt Remastered hasn't been out for more than two weeks, and it's already received a handful of hotfixes and patches. This is normal for an upgrade that was conceived to reward longtime fans of the series by granting them a better experience with the game. Patch 5.01, released Oct. 9, fixed several visual issues players had with the game, such as graphics problems on PC and consoles, and poor optimization on PlayStation 5 .
 
-### Ubisoft's Shutting Down Rainbow Six Game It Officially Launched in 2026
-Thu, 08 Oct 2026 18:26:07 GMT — https://www.polygon.com/rainbow-six-mobile-shutting-down-2027-android-ios/
+### The Boys Creator's Next Project Promises to Be Pure Torture
+Fri, 09 Oct 2026 10:00:59 GMT — https://www.polygon.com/crossed-new-garth-ennis-movie-the-boys/
 
-Ubisoft is shutting down its latest Rainbow Six game, which it first launched four years ago, the publisher announced Thursday. A spinoff of the popular tactical shooter Rainbow Six Siege developed for Android and iOS devices , Ubisoft's Rainbow Six Mobile is being "sunset" in January 2027.
+If you thought The Boys creator Garth Ennis was done getting his hands dirty with blood and violence, think again. Ennis and director Rob Jabbaz ( The Sadness ) have teamed up to bring one of the most wicked comic tales ever, Crossed , to the silver screen.
 
-### All power upgrade point locations in Control Resonant
-Thu, 08 Oct 2026 18:25:17 GMT — https://www.polygon.com/control-resonant-power-upgrade-point-locations/
+### Forget the Weeping Angels, This WW2 Episode Is the Scariest 'Doctor' Who Has Ever Been
+Fri, 09 Oct 2026 10:00:15 GMT — https://www.polygon.com/doctor-who-scariest-episode-the-empty-child/
 
-Power upgrade points are special items that are mostly found in large resource crates scattered around the Control Resonant map.
+Russell T. Davies had a lot to prove when the BBC put him in charge of giving Doctor Who a new lease of life after the 16-year gap between Classic Who in 1989 and New Who, which launched in 2005. Davies was not only successful, with the premiere episode “Rose” bringing in over 9 million views overnight, but he also went on to create some of the most iconic episodes in Doctor Who history.
 
-### 13 Years Later, One of Telltale’s Greatest Games Is Officially Making a Comeback
-Thu, 08 Oct 2026 18:20:16 GMT — https://www.polygon.com/the-wolf-among-us-remastered-release-date/
+### Crunchyroll goes all in on webtoons: Every anime announcement from New York Comic Con
+Fri, 09 Oct 2026 09:48:38 GMT — https://www.polygon.com/crunchyroll-nycc-announcements-webtoon/
 
-Bigby is back, and the Big Bad Wolf’s old stomping grounds have never looked quite so gloriously grim. Telltale Games has confirmed that The Wolf Among Us Remastered launches on October 29, 2026, giving one of the studio’s finest narrative adventures a long-overdue visual overhaul just in time for Halloween.
+New York Comic Con 2026 was packed with news and exciting announcements from the entertainment world. While many eyes were set on the Marvel panel to catch the latest updates on the always-evolving state of the Marvel Cinematic Universe, anime had a strong presence too. Thousands of people showed up for the premiere of the first episode of Dragon Ball Super: Beerus . Meanwhile, Crunchyroll announced an exciting slate of projects, including a new partnership completely focused on adapting popular webtoons.
 
-### 'Exploring Pendola Pass' quest walkthrough in Arc Raiders
-Thu, 08 Oct 2026 18:00:10 GMT — https://www.polygon.com/arc-raiders-exploring-pendola-pass-quest-walkthrough/
+### 'Avatar: Seven Havens' Theory: Korra’s “Cataclysm” Could Solve the New Show’s Biggest Mystery
+Fri, 09 Oct 2026 09:30:16 GMT — https://www.polygon.com/avatar-seven-havens-biggest-mysteries/
 
-The "Exploring Pendola Pass" quest in Arc Raiders is intended to be one of the first you tackle in the 'Frozen Trail' update, as it essentially acts as a whistlestop tour of some of the map's most notable points of interest. Given to you by Celeste, you need to visit three specific locations, and destroy a whopping 20 Arc enemies while you're at it. It doesn't need to be completed in one round though, so you can chip away at this while you complete other quests, such as " Clean Hands " and " Sizing Things Up ," if you like.
+The new Avatar: Seven Havens series picks up about 225 years later, in an era when Korra herself is treated like the boogeyman: a mythical villain from the past blamed for triggering the "Cataclysm" that destroyed the world. In this post-apocalyptic world, the remnants of humanity subsist in seven isolated Havens scattered across the wastelands, constantly ravaged by storms. Benders are becoming increasingly rare, and the spirits who flooded into the physical world during Korra’s lifetime are conspicuously absent.
 
-### Magic’s Most Versatile Mechanic Comes to Disney Lorcana With a Clever Twist
-Thu, 08 Oct 2026 17:30:18 GMT — https://www.polygon.com/disney-lorcana-ink-drops-guide-strategy-mtg-treasure-tokens/
+### 24 Years Later, the Spy Thriller Series That Changed Hollywood Forever Is Streaming on Netflix
+Fri, 09 Oct 2026 08:00:19 GMT — https://www.polygon.com/the-bourne-trilogy-is-streaming-on-netflix/
 
-Disney Lorcana is about to introduce its own version in the game’s fourth year. When Hyperia City arrives at local game stores on Oct. 16 for prerelease events ahead of the wider Oct. 23 launch, ink drops will also arrive as a new way to ramp up ink generation. They’re functionally identical to Treasure tokens and can be generated in a variety of ways. Once created, they’re added to the inkwell and can be removed to generate one ink (unlike mana in Magic , ink isn’t color-specific during gameplay).
+There is no shortage of great spy thrillers and action movies, from the larger-than-life spectacle of James Bond to the death-defying set pieces of Mission: Impossible . Both franchises have spent decades perfecting their own flavors of espionage, featuring cool gadgets, exotic locations, elaborate schemes, and action sequences that get more ridiculous with every new installment. Yet while this sheer theatricality is central to their charm, such extravagant excess and predictable storytelling can eventually breed fatigue, leaving even the most explosive set pieces feeling well-worn.
 
-### All treasure car locations in Forza Horizon 6
-Thu, 08 Oct 2026 17:17:34 GMT — https://www.polygon.com/forza-horizon-6-fh6-treasure-car-locations-all/
+### Avatar: Seven Havens Review: A Near-Perfect Followup to a Fantasy Masterpiece
+Fri, 09 Oct 2026 07:00:16 GMT — https://www.polygon.com/avatar-seven-havens-review/
 
-Treasure cars are like buried treasure in Forza Horizon 6 . They're iconic cars that are hiding about, but also free for the taking.
+Avatar: Seven Havens joins a rich legacy of post-apocalyptic fantasy , where heroes of a fallen age must band together to face a rising threat. In The Lord of the Rings , The Wheel of Time, and The Stormlight Archive, the glorious past and the circumstances that led to ruin have been largely relegated to myth. Seven Havens takes a similar tack, but with a clever twist: Avatar fans already know what this world used to be like, but not how things got so bad.
 
-### 'Forza Horizon 6' Officially Delayed to 2027 on PS5
-Thu, 08 Oct 2026 17:11:04 GMT — https://www.polygon.com/forza-horizon-6-officially-delayed-to-2027-on-ps5/
+### CBS's Sleeper Hit Sitcom of the Decade Is Officially Free on Streaming
+Fri, 09 Oct 2026 04:43:15 GMT — https://www.polygon.com/ghosts-cbs-free-streaming-pluto-tv-october-2026/
 
-Forza Horizon 6 is one of the best and most popular games of the year. Developer Playground Games released its latest racing game on Xbox and PC in May to strong critical and commercial reception. After months of rumors , we finally have official confirmation that Forza Horizon 6 has been delayed on PlayStation 5 to 2027. Playground Games' racing game is now set for a January release on PS5. It was previously scheduled for sometime in 2026.
+Countless American adaptations of British TV classics have fallen woefully short of the source material. Either the dry British humor simply doesn’t translate well — which is why the U.S. version of Gavin & Stacey was far too cringe-worthy to enjoy — or it feels so similar there’s no real reason to adapt it in the first place.
 
-### 'Pokémon' 30th Anniversary's Biggest TCG Release Is Already A Confirmed Nightmare
-Thu, 08 Oct 2026 17:05:30 GMT — https://www.polygon.com/pokemon-30th-anniversary-upc-ultra-premium-preorder-target-walmart-prices/
+### Sydney Sweeney's Extremely R-Rated 131-Minute Thriller Officially Finds a New Streaming Home
+Fri, 09 Oct 2026 04:00:22 GMT — https://www.polygon.com/sydney-sweeney-erotic-thriller-hbo-max/
 
-Dedicated Pokémon fans are eagerly awaiting pre-orders for the 30th Anniversary Trading Card Game's Ultra Premium Collection , the luxe release of the celebratory set that comes with a whopping 30 booster packs. Between the packs and the extensive accessories, no one expected the Nov. 6 product to be cheap. Even so, few could have guessed just how expensive the deluxe 30th Anniversary product will actually turn out to be.
+Despite its overwhelming commercial success, Freida McFadden’s psychological thriller, The Housemaid , is far from a perfect read. Trope-heavy and full of obvious contrivances, The Housemaid sets up a tense domestic thriller premise that is meant to be consumed as a fast-paced popcorn novel. This, however, sets the stage for a pulpy screen adaptation, one that mimics the conventions of a lurid thriller with some decent character writing to round things out.
 
 ## PC Gamer
+
+### How to complete To the Skies in Arc Raiders
+Fri, 09 Oct 2026 11:02:19 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-to-the-skies-walkthrough/
+
+Your first step is scanning a crashed Arc Probe and Courier (Image credit: Embark Studios) Key deets ⚡ You'll need Arc Performance Steel, Pop Trigger, Arc Thermo Lining, and Arc Synthetic Resin. ⚡Scan a crashed probe and courier then repair the Gondola Protoype east of the east Spaceport elevator and activate it. Arc Raiders ' To the Skies quest involves finding a few arc parts to repair one of the Prototype Gondolas being used to shuttle raiders to Pendola Pass. First things first, to complete To the Skies you're going to need a variety of arc parts: 1x Arc Performance Steel : Salvaged from big arcs like Bastions, Bombardiers, Leapers, or Baron Husks. 1x Pop Trigger : Salvaged from small exploding Pop robots or couriers. 1x Arc Thermo Lining : Salvaged from Pops, Fireballs, or Baron Husks. 1x Arc Synthetic Resin : Salvaged from intact Arc Probes or Baron Husks. There are a number of other ways to get the materials above, generally by salvaging arc enemies, so if you don't have one of each yet, keep your eyes peeled. The first step is to scan a crashed Arc Probe and an Arc Courier. These spawn on almost every map, but your best bet is the Electromagnetic Storm condition. To scan them, simply interact with the icon at the head of each. Repairing the Gondola Prototype Find the Gondola Prototype just to the east of the east elevator on Spaceport Embark Studios Install those four arc parts I mentioned above then activate it Embark Studios After this, you'll have to find and repai
+
+### WoW: Forever's list of changes snowballed as Blizzard got more excited, says dev: 'Our original pitch internally was: We'll do 4 new dungeons'
+Fri, 09 Oct 2026 10:45:06 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-list-of-changes-snowballed-as-blizzard-got-more-excited-says-dev-our-original-pitch-internally-was-well-do-4-new-dungeons/
+
+Questing through the World of Warcraft: Forever beta, I've been impressed by just how much has been layered on top of the game's Classic world—new quests and new dungeons, designed to slot in seamlessly to the more oldschool playstyle without causing too much friction. It's an impressive magic trick, and one I'm really excited to get stuck into properly come November. Talking to associate production director Clay Stone, Forever initially had far more humble beginnings: "It's been an evolution, and I think that's probably pretty clear from all the classic titles we've done so far in the level of experimentation and breaking away from #NoChanges at the beginning." While Mists of Pandaria Classic and Wrath of the Lich King Classic added small changes and adjustments, Stone says the ball really got rolling with Hardcore and Season of Discovery: "Obviously, with that, it was a wonderful testing ground for us to be able to see what the limits were and what what players would accept as [something that] does or does not fit into the space, how classes could function, and certainly for us as a team, wonderful opportunities for us to be able to learn how to develop things or new content in that vanilla era space." Season of Discovery was tremendously successful: "The response to it blew us away … Shipping that in November of 2023, and then seeing that immediate response to it was incredible. And that's really when the discussions began about, 'Hey, what what does a version of this look
+
+### Intel to release new CPUs on old socket in early 2027 says Gigabyte - memory crisis making DDR4 desirable again
+Fri, 09 Oct 2026 10:19:31 +0000 — https://www.pcgamer.com/hardware/processors/intel-to-release-new-cpus-on-old-socket-in-early-2027-says-gigabyte-memory-crisis-making-ddr4-desirable-again/
+
+Gigabyte is readying its B760 and H610 motherboards for new LGA1700 processors. Wait, what year is it? "Built on socket LGA1700 and expected to launch in early 2027," Gigabyte says in a post on its website, "the new processors bring fresh performance to an established platform, and Gigabyte users can be ready from day one." These are new LGA1700 chips. We're talking about fresh spins on Raptor Lake and Arrow Lake here, which previously made up the 12th/13th/14th Gen, and were last released as a major launch in 2023 . That's a long time ago in CPU land. We've had two consecutive launches since, in Arrow Lake and the Arrow Lake refresh, neither of which dented AMD's stranglehold on the enthusiast market with its X3D chips. So what chance do these old chips have of selling anything? Quite a good one, actually, as these old chips still support DDR4 memory. DDR4 memory is currently a lot cheaper than DDR5 memory. We've seen big price hikes on both, but you can grab a DDR4-3600 32 GB kit for around $210 and a DDR5-6000 32 GB kit for $480 . Ouch. Back in August, Intel VP and GM for enthusiast channel, Robert Hallock, confirmed that Raptor Lake chips would stick around in Intel's portfolio for "years to come" . He specifically notes DDR4 support as to why: "LGA1700 is still a good socket. Lots of people [are] still interested in DDR4, so [we’ll] keep offering, and you'll see [pricing] smooth out over time. It'll come back to normal. That's the plan." (Image credit: Future) So, older,
+
+### Peter Molyneux explains the origin story of Black & White's famous creatures: 'It was originally a monster. It wasn't a cute creature'
+Fri, 09 Oct 2026 09:44:34 +0000 — https://www.pcgamer.com/games/strategy/peter-molyneux-explains-the-origin-story-of-black-and-whites-famous-creatures-it-was-originally-a-monster-it-wasnt-a-cute-creature/
+
+Recently, I travelled to Guildford to interview Peter Molyneux, the father of the god game genre, about his final game, Masters of Albion , which just got a major, game-changing update . I've been a long-term fan of Molyneux's games, though, stretching all the way back to Theme Park, so I also took this opportunity to also ask the legendary game dev about, arguably, his most famous god game creation to date, Black & White . And, specifically, I wanted to know where the origin of Black & White's most famous creations came from: the titanic animal creatures that you, as god, nurture in the game and use as an instrument of your will. And, well, the story of how these creatures came to be is interesting. (Image credit: Lionhead Studios) Is Masters of Albion going to get titanic creatures? Molyneux's core strength, to me at least, has always been his uncontainable and seemingly endless creativity. The ability to dream up new games and features has led the legendary dev to create some of PC gaming's most iconic titles, including Populous, Theme Park, Dungeon Keeper, Black & White, and Fable. Yes, sure, implementing all those ideas perfectly has been a recurring challenge, but it's great to see Molyneux returning to the god game genre one more time before he bows out to try and pull many of his greatest hits ideas together in one god game package. The big question I have, though, as well as many other god game genre fans, is whether or not Molyneux's last god game is going to end up
+
+### Why a 21-year-old coder finally ported the real P.T. to PC: 'That something so influential could eventually become unplayable never sat right with me'
+Thu, 08 Oct 2026 21:32:33 +0000 — https://www.pcgamer.com/games/horror/why-a-21-year-old-coder-finally-ported-the-real-p-t-to-pc-that-something-so-influential-could-eventually-become-unplayable-never-sat-right-with-me/
+
+One of the most beloved horror games (demos?) of all time is finally free from the shackles of the PS4. Hideo Kojima's P.T. has been natively ported to PC by programmer Lorean Xavier, who made the project public this week. Not an emulator nor a remake, the native PC client does not contain any copyrighted materials—it requires a dumped copy of P.T. to function—but instead translates the original code into something that'll run on Windows and Linux. That distinction not only sidesteps potential corporate scrutiny, but also allows Xavier to add modern graphical features and mod support to the PC version. It's an impressive effort that, according to the creator, has been in the works since 2024. "I wanted to make the version of P.T. that my younger self always wished existed," Xavier, 21, told PC Gamer over email. "My attachment to the game goes all the way back to my childhood. I remember watching videos of it on my phone, wishing I could experience it myself. I didn't have a PS4, so playing the original was never really an option for me. I never imagined back then that I'd eventually be the one bringing it to PC." The window to play P.T. "legitimately" was famously brief. Kojima surprise-dropped P.T. on the PlayStation Network in 2014 as a "playable teaser" for the Silent Hills reboot he was making with Guillermo Del Toro. When Kojima and Konami had a falling out, Silent Hills was canceled and P.T. got caught in the breakup, being delisted in early 2015. The horror classic has
+
+### Blizzard refuses to let World of Warcraft: Forever's dungeons become the fastest way to grind XP: 'We need to hold firm on these balance adjustments'
+Thu, 08 Oct 2026 21:09:23 +0000 — https://www.pcgamer.com/games/world-of-warcraft/blizzard-refuses-to-let-world-of-warcraft-forevers-dungeons-become-the-fastest-way-to-grind-xp-we-need-to-hold-firm-on-these-balance-adjustments/
+
+2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### How to start the Dragon's Dogma 2: Dark Arisen expansion
+Thu, 08 Oct 2026 21:00:00 +0000 — https://www.pcgamer.com/games/rpg/dragons-dogma-2-how-to-start-dark-arisen/
+
+You can find Brant in The Stardrop Inn at nighttime Capcom He'll have new dialogue options available Capcom Key deets 🔥 You can start Dark Arisen by speaking to Brant in Vernworth at nighttime. 🔥 Level 40 is recommended for the new content. 🔥 If you've reached the Unmoored World, you can't start the DLC until New Game+. Dragon's Dogma 2 's Dark Arisen expansion introduces the new northern, wintery region of Norgan, long abandoned by civilised folk, the realm is home to many monsters and mysteries. To start Dark Arisen, you'll have to speak to Captain Brant in The Stardrop Inn in Vernworth at nighttime. Vernworth is accessible relatively early via the main story. When speaking to him you'll see two new dialogue options: "About the new Arisen…" This starts the DLC quest, Chilling Tidings, which will take you to Norgan and the new region's content. "About the uncovered ruins…" This starts the Lost Rites quest, which sees you trying the 12 new endgame dungeons. The recommended level for the DLC content and Norgan is 40, though it can be accessed earlier, and the dungeons each vary in difficulty. If you've reached the Unmoored World, you can't access the DLC until New Game+ If you've progressed the main story to the Unmoored World section, you won't be able to access the DLC until New Game+. While you can complete the game and start again, if you want to get to the new stuff right away, you can also use the new save option to go straight there. Select "Change save slot". Hold X
+
+### US government accuses Microsoft of replacing American workers with 'foreign indentured servants,' then gives Satya Nadella a medal
+Thu, 08 Oct 2026 20:55:01 +0000 — https://www.pcgamer.com/gaming-industry/us-government-accuses-microsoft-of-replacing-american-workers-with-foreign-indentured-servants-then-gives-satya-nadella-a-medal/
+
+Just three months after Microsoft shot down a racist conspiracy theory claiming the company was laying off thousands of American workers so it could replace them with foreigners via the H-1B visa program, the Trump administration has suspended the company's ability to apply for green cards for workers on the H-1B program, accusing it of fraudulently using the program to replace American workers with foreigners. There has been no company in the United States, unfortunately, that has abused this system more than Microsoft JD Vance, vice president of the United States of America "The H-1B visa program is meant to allow companies to bring in the best of the best from outside the United States of America for positions that are completely impossible to fill with American workers," US vice president JD Vance said (via AP ). "Unfortunately, the program has become rife with fraud over the last several years—probably the last several decades. "There has been no company in the United States, unfortunately, that has abused this system more than Microsoft ... Microsoft laid off last year 6,000 American workers. At the same time, the company benefitted from 6,300 H-1B visas and almost 3,000 green cards. In other words, if you do the math, for every worker that Microsoft laid off, they replaced that worker with one-and-a-half foreign indentured servants." Calling H-1B visa holders "indentured servants" is certainly a choice, painting legal immigration as a form of human trafficking and the 
+
+### Jason may or may not appear fully nude in GTA 6, but either way we've now seen his dong
+Thu, 08 Oct 2026 20:12:16 +0000 — https://www.pcgamer.com/games/grand-theft-auto/jason-may-or-may-not-appear-fully-nude-in-gta-6-but-either-way-weve-now-seen-his-dong/
+
+Cyberleek , the anonymous someone who's been sharing clips apparently taken from a Grand Theft Auto 6 development build, has returned after a hiatus with a new, 25-minute-long video that's circulating in places like the r/GamingLeaksAndRumours subreddit and social media. The most notable thing about the clip—or most noticeable , at least—is that protagonist Jason spends much of it naked. His genitals are fully modelled, physics and all, which isn't too surprising given we previously saw fully nude NPCs in another of Cyberleek's GTA 6 clips. It remains unknown whether players will be able to walk around in the buff in the retail game, as Cyberleek presumably has access to developer tools. A floating tank seen partway through the clip makes it apparent that at least some console command shenanigans are at play. It's also notable that NPCs do not react to Jason's nakedness, and that the video shows first-person driving, a feature GTA 6 was previously reported not to include. IGN did see a naked Jason during a cutscene in an official preview of GTA 6, but "thanks to some carefully positioned camera angles, his modesty remained entirely intact." So we just don't know, although it wouldn't be the first time a GTA game included full frontal male nudity of a prominent character, which occurred in GTA 4's The Lost and Damned DLC. GTA 6 co-protagonist Lucia also appears topless in the Cyberleek clip, facing away from the camera and wearing a thong. Whether the underwear was the leaker'
+
+### Vampire games on Steam are a recession indicator and I have the charts to prove it
+Thu, 08 Oct 2026 19:55:17 +0000 — https://www.pcgamer.com/games/vampire-games-on-steam-are-a-recession-indicator-and-i-have-the-charts-to-prove-it/
+
+Despite what the GDP tells me, the economy in the real world doesn't feel like it's doing too hot for the average joe. But during the recent years' descent into compounding supply crises and mass layoffs affecting thousands of workers at once, I've noticed another trend: Sure does seem like there are a lot of vampire games in the mix lately. I started to sense an uptick after Arkane's ill-fated Redfall in 2023. There was Vampire Survivors and V Rising—and Nighthawks, Moonlight Peaks, Blood of Dawnwalker, and more. Given current circumstances, you might think I'm just primed to notice nightmarish aristocrats bleeding us alive to sustain themselves. But after too many hours of spreadsheet data entry, I'm convinced devs really have been dabbling more heavily in Draculas as the economy feels increasingly dire. Vampire games on Steam are a recession indicator. And I have the charts to prove it. (Image credit: Rebel Wolves) Datawalker At first glance, assessing whether Steam's vampire offerings can serve as a bellwether for economic sentiment could seem like a simple task. Steam has a Vampires tag, after all. The release dates are right there. Easy, right? Wrong. The Vampires tag is—perhaps fittingly—a horror. Devs and users freely slapping the label on anything with even one Dracula would be bad enough, but the advent of Vampire Survivors created a categorization disaster. Before Steam added a discrete bullet heaven genre, its countless imitators were content to use the Vampires t
 
 ### A great indie studio is making a sequel to one of my favorite adventures 17 years later, for one simple reason: 'We're not getting any younger, and the world seems to be ending'
 Thu, 08 Oct 2026 17:56:59 +0000 — https://www.pcgamer.com/games/adventure/a-great-indie-studio-is-making-a-sequel-to-one-of-my-favorite-adventures-17-years-later-for-one-simple-reason-were-not-getting-any-younger-and-the-world-seems-to-be-ending/
@@ -360,62 +408,27 @@ Thu, 08 Oct 2026 17:40:53 +0000 — https://www.pcgamer.com/games/adventure/subn
 
 It took a while but there's finally an official way to hunt and kill some of Subnautica 2's most annoying sea creatures. The only catch is, you'll have to do it in Dave the Diver DLC—though as catches go, that's a pretty fun one. The crossover was announced today at the Triple-I Initiative showcase. Coming in early 2027, the Dave the Diver X Subnautica 2 content pack will suck Dave into the alien waters of Unknown Worlds' survival game where he can mine resources, hunt fish, and—one would hope—discover some tasty new sushi recipes for Bancho to cook up. Here's the trailer: What caught my eye even more than the glimpse of a massive and intimidating boss at the end of the trailer were those pesky Nibbler Mangos, which start biting you the second you dive into Subnautica 2 and never really stop. Players having no way to kill large enemies in Subnautica 2 has been a bit of a controversy , with some even resorting to mods so they can fight back. It's nice that players can finally get a bit of revenge against those relentless fish, albeit in another game. "We're thrilled to see Subnautica 2's creatures, including the Nibbler Mango, join Dave's world," Mintrocket told PC Gamer via email. "The team had a lot of fun bringing these creatures into our game, and players can expect the DLC to play just like the Dave the Diver they know and love." As for those saddened to hear this is the final DLC for Dave the Diver, that doesn't necessarily mean it's the definitive end of his adventures.
 
-### I have added roving bands of militant furries to Grand Theft Auto 5
-Thu, 08 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-added-roving-bands-of-militant-furries-to-grand-theft-auto-5/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Let's get one thing out of the way: I think we, as a society, as a people, are generally fine with furries at this point. The phenomenon of ragging on furry subculture has been, gladly, consigned to the dustbin of history. It's a 2010 disease from which we have convalesced. Let nothing I write from here on be taken as a slight against them. That being said, it is very funny to give someone in a fursuit a gun and a military objective. I have installed, well, two mods actually. The first, preliminary mod is Gang and Turf Mod , which adds a sort of gang war system in the vein of GTA: San Andreas. Different factions will wage war over areas of Los Santos, from the heart of downtown up to the podunk rural hamlets in the north. Then I installed the main course: Furry Gang for Gang and Turf Mod , which festoons the city streets with murderers in wolf outfits who are here to take their corners with blood and gunpowder. There are other gangs—gangs installed by default with the base mod—but I honestly didn't pay much attention to them. Some of them were in suits? They truly all got steamrolled by the marauding bands of fursuited raiders. Like an embedded reporter in a war, I followed one band of armed furries into battle. Dodging cars,
-
-### Amazon is roasting users with their own shopping habits, but it don't have nothin' on us
-Thu, 08 Oct 2026 16:38:25 +0000 — https://www.pcgamer.com/hardware/amazon-is-roasting-users-with-their-own-shopping-habits-but-it-dont-have-nothin-on-us/
-
-If you've got an Amazon account, then you likely already realise Jeff Bezos' corporate empire is hoovering up your data so it can better sell to you. What's surprising is when Amazon actually offers a peek behind that vast curtain of data, revealing what it's learnt about you and potentially reading you for filth in the process. Amazon's 'About You' feature rolled out back in May. It gained more attention this week after one Threads user's viral post appeared to show that, based on her 'Product Preferences,' Amazon thought she had "flat buttocks." They weren't the only ones left "literally speechless," as another user shared that Amazon had noted they do " not trust people easily ." A Reddit user posted that Amazon had noted they apparently get " a tired gray cast from lack of sleep ". Obviously, I had to take a look at whatever strays I was catching from the About You feature myself. Alas, my About You is frightfully boring and served only to remind my lactose-intolerant self that I prefer 'plant-based milk' and that I 'systematically [replace] consumable household items' like my preferred brand of milk that doesn't make my tummy hurt. So, I opened up the question to the wider PC Gamer team. To check out your own About You on desktop, you'll need to hover over 'Hello, [your name]' on Amazon, select 'Account' from the menu, then navigate to 'Ordering and shopping preferences,' click 'Your Shopping preferences,' and then look under 'Manage your information'. It's a little easi
-
-### Crowning the best FPS mode of all time through 1v1 combat (ROUND 2)
-Thu, 08 Oct 2026 16:24:06 +0000 — https://www.pcgamer.com/games/fps/crowning-the-best-fps-mode-of-all-time-through-1v1-combat-round-2/
-
-FOV 90 (Image credit: Future) Welcome to FOV 90, an FPS column from staff writer Morgan Park. Every other week, I cover topics relevant to first-person shooter enjoyers, spanning everything from multiplayer and singleplayer to the old and the new. Welcome back to another special community tournament edition of FOV 90, the only FPS column that I'm aware of. Last week, we started the work of determining the greatest FPS mode of all time through spirited democracy . In Round 1, 16 classic and modern modes were pitted against each other in 1v1 matchups. The seeding, which I chose myself, was completely uncontroversial and everyone liked it—especially the part where I made them choose between Conquest and Domination. Over 7,000 votes were tallied over five days, and the results are in. 🥁 drum roooooooooolllllllllllllll 🥁 Round 1 Results Team Deathmatch (75%) wins over FFA/Deathmatch (25%) Battle Royale (52%) wins over Extraction (48%) Conquest (68%) wins over Domination (32%) Bomb Defusal (85%) wins over Hostage (15%) Payload (52%) wins over Gun Game (48%) Infection (61%) wins over Prop Hunt (39%) Capture the Flag (91%) wins over VIP (9%) Attack & Defend (52%) wins over King of the Hill (48%) I think we can all agree a few of those winners were predictable—I can see Team Deathmatch or Capture the Flag going all the way at this rate—but several matchups surprised me. Battle royale just barely edges out Extraction while Gun Game is brought down by Payload. The voting body showed u
-
-### As it lays off developers and closes studios, Xbox gets into the movie business
-Thu, 08 Oct 2026 16:18:25 +0000 — https://www.pcgamer.com/gaming-industry/as-it-lays-off-developers-and-closes-studios-xbox-gets-into-the-movie-business/
-
-More big news out of Xbox today: A new division called Xbox XP will take the lead on "film and television, consumer products, strategic partnerships, and live experiences," with a focus "on how people experience our franchises beyond the games themselves." As detailed on today's announcement , here's what that breaks down to: XBOX PICTURES : Bringing our worlds and characters to new audiences through film, television, and other forms of linear storytelling. XBOX PRODUCTS : Creating products that are authentic to the fandom that allow fans to celebrate and express the franchises they love. XBOX PLACES : Bringing communities together through live events, immersive experiences, attractions, broadcasts, and destinations. XBOX PARTNERSHIPS : Working with creators, brands, and communities to develop new experiences, sponsorships, and brand partnerships. Xbox XP will be headed by Kayleen Walters, who previously spent a couple years as president of Minecraft studio Mojang and before that spent close to a decade in different brand and "franchise development" roles at Microsoft. Prior to that she spent 13 years at Lucasfilm, finishing her time there as vice president of franchise marketing and integrated planning. "XP is a play on 'experience points'," Xbox CEO Asha Sharma helpfully explained in a separate internal email , "and formalizes four investment areas for us: Xbox Pictures for film and television adaptations; Xbox Products for licensing and merchandise; Xbox Partnerships for s
-
-### All hail the long steam machine, Pimax's new SteamOS-ready mini PC
-Thu, 08 Oct 2026 16:17:17 +0000 — https://www.pcgamer.com/hardware/steam-machines/all-hail-the-long-steam-machine-pimaxs-new-steamos-ready-mini-pc/
-
-You could say Pimax is copying Valve's homework with its new mini PC, the Spation. Though the Steam Machine is merely a black box, so you could say it also copied any number of other miscellaneous black rectangles itself; the Xbox Series X among them. Nevertheless, this is one similar-looking living room machine, and Pimax is even pitching it with SteamOS. Pimax's machine is a mini PC with a whole bunch of power behind it. Pimax says it comes with either an RX 9070 XT or RTX 5070 Ti , and a Ryzen 7 9800X3D . It packs in 32 GB of DDR5, a 1 TB SSD, and a 1000 W SFX PSU. It also supports Wi-Fi 7, Bluetooth 5.4, and comes with 2x DisplayPort 2.1, 1x HDMI 2.1, 1x USB4, and 6x USB 3.2 Gen 2 ports. So, it's much more capable than Valve's li'l box, though I shudder at the thought of the price. Pimax has not yet announced a price or launch date. You can see how it all slots together under the removable rear panel in the render provided by Pimax below. (Image credit: Pimax) Most of the I/O is accessible at the back of the device. Slightly above and behind that is what looks to be a Mini-ITX motherboard with two DIMMs installed, presumably with some sort of solution to shift the rear I/O. Above that, the power supply, with a fan mounted above it. The GPU sits flat on the reverse of the unit, using a PCIe riser cable. My only concern is how well that graphics card can breathe in there, and more broadly for temps, but there may be yet more fans within the unit. The front panel looks to be
-
-### Pimax says 'I'll have what Valve's having' as it announces new wireless VR headset, foveated streaming, updated controllers, and long Steam Machine
-Thu, 08 Oct 2026 16:17:11 +0000 — https://www.pcgamer.com/hardware/vr-hardware/pimax-says-ill-have-what-valves-having-as-it-announces-new-wireless-vr-headset-foveated-streaming-updated-controllers-and-long-steam-machine/
-
-Known for its many variants of VR headset, Pimax is back with yet more new products. This time, it seems to be following Valve's recent example, with a wireless VR headset, foveated streaming, ringfree VR controllers, and a very long Steam Machine. Let's start with the VR headset, as Pimax isn't playing around when it comes to wireless capabilities on this thing. It's called the Crystal Pro, and it's totally wireless. Included in the box is a Wi-Fi 6E adapter, much like the Steam Frame , which hooks it up to a nearby gaming PC; however, Pimax is going one step further with an optional wireless streaming kit, 60G AirLink, that uses 60 GHz 2x2 MIMO for a higher-bandwidth, more robust connection. "What if you could cut the cable and still send the image with no visual compression. That question is the reason this headset exists," Jaap Grolleman says in a prerecorded launch video . Using two additional room antennas and two additional headset antennas, which poke out from the rear of the strap, Pimax is able to deliver up to 6 Gbps bandwidth—3 Gbps over each connection and each data stream sync'd up via the onboard Qualcomm Snapdragon XR2 SoC. Pimax says 60G AirLink adds much less latency than standard Wi-Fi streaming—1.8 ms to 12 ms by its own presentation—and it uses this technology to offer something called Native Foveated Streaming. Sound familiar? Valve introduced foveated streaming with the Steam Frame as a way to save on bandwidth for virtual reality using eye tracking. Th
-
-### How to complete Boarding the Frigate in Arc Raiders
-Thu, 08 Oct 2026 15:24:27 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-boarding-the-frigate-walkthrough/
-
-Key deets ⚡Climb onto one of the drones the frigate spits out and interact to disrupt it. ⚡Ride it up to the Arc Frigate. ⚡Damage a Rocketeer, Vaporizer, and Hydra turret to complete the quest. Arc Raiders ' new Boarding the Frigate quest is about finding a way up onto the giant flying Arc fortress during the new Arc Frigate map modifier. Since this is a colossal arc event, you'll want to bring plenty of ammo and healing. A Grappling or Snap Hook will come in handy, too. You can get onto the frigate (as shown in the video) by finding one of the circular Arc drones that it spits out when it arrives on the map, climbing or grappling on top of it, and then interacting with it to disrupt the drone. This will cause it to fly back to the frigate, allowing you to climb aboard. The ship is absolutely massive, and as you make your way through it with other raiders, it'll spit out Rocketeers, Vaporizers, and Hydra turrets will pop out on the top level as well. To finish off the quest, you'll have to damage all three, though you don't have to get the killing blow on any of them. Rocketeers and Vaporizers (if you somehow haven't encountered them before) are big flying arcs that fire rockets and lasers, respectively, while the Hydra is a multigun turret that's pretty deadly. Presumably, you can also damage these enemies elsewhere to complete this step, though I haven't encountered a Hydra anywhere else except on top of the frigate so far, so that's likely your best bet. If you're struggli
-
-### Microsoft seems very excited about its new magnetic USB Type-C charger for the Surface Laptop Ultra, but it don't impress me much
-Thu, 08 Oct 2026 15:13:03 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/microsoft-seems-very-excited-about-its-new-magnetic-usb-type-c-charger-for-the-surface-laptop-ultra-but-it-dont-impress-me-much/
-
-Microsoft has just unveiled what it's calling the "most powerful Surface devices ever." Both powered by Nvidia's RTX Spark SOC, the Surface Laptop Ultra and Surface RTX Spark Dev Box are both available to pre-order now. Both Surface devices are slated for an October 16 release, the same day as a suite of other RTX Spark laptops . Like the rest of the fleet, these will cost a pretty penny too, with the Surface Laptop Ultra starting at $2,599 and the Surface RTX Spark Dev Box going for $5,999. However, the Surface Laptop Ultra comes with something the rest doesn't: 'Magnetic Connect,' a new magnetic USB Type-C charger . The Corporate Vice President of Surface, Brett Ostrum, wrote, "The included charging cable attaches magnetically to the right-side USB-C port and releases easily. The port remains fully functional for video, data, and other USB-C devices." According to Microsoft, the Magnetic Connect is a world first. However, in principle, it's very similar to Apple's MagSafe connectors. My snarkiness aside, it's worth mentioning that MagSafe uses a proprietary cable, whereas the Magnetic Connect does not, and that fits it a bit more cleanly into the 'world first' claim. Interesting to note, too, is that the design of the Magnetic Connect may have been influenced by recent changes to EU regulations. New rules seek to stem the tide of charging cable-related e-waste by requiring " all new devices sold in the EU must now support USB-C charging ." This regulation was introduced in 
-
-### I'm intrigued by this political sim that puts you smack-dab in Germany at the end of World War 1
-Thu, 08 Oct 2026 14:28:52 +0000 — https://www.pcgamer.com/games/sim/im-intrigued-by-this-political-sim-that-puts-you-smack-dab-in-germany-at-the-end-of-world-war-1/
-
-What if a board game was a visual novel and that visual novel knew what the Zimmerwald Conference was? This was, I assume, written on the whiteboard at Red Echoes' conception. It's a well-balanced mix. In the demo, you take in the story through the eyes of three characters who each have their own special abilities—increasing revolutionary fervour wherever they're based, or putting a cap on reactionary zealotry, or decreasing the pressure experienced by other characters—and your task on a gameplay level is moving them around the board to where those abilities will be most useful when the turn ends. Balancing morality with pragmatism Choices you make in the visual novel sections will impact the state of the game board: a decrease in fervour here, an increase in pressure there. Naturally, as a rashid proletarian you'll be inclined to make all the choices that lead Germany into a glorious red dawn, but playing a long game may mean making choices that go against your conscience and even permit the development of reaction in some quarters—short-term sacrifices for, you hope, long-term gains. You aren't the Big Communist Cheeses It would have been easy, I think, to make a version of this game that simply put you in the shoes of Spartacist leaders Rosa Luxemburg and Karl Liebknecht. At least for the duration of the demo, that's not the case. You're in the shoes of Germany's hoi polloi: a dockworker, a radically inclined journalist, a mother whose sons are off dying in the Kaiser's wa
-
-### How to complete Sizing Things Up in Arc Raiders
-Thu, 08 Oct 2026 14:24:27 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-sizing-things-up-walkthrough/
-
-Key deets ⚡Take a picture of the Emperor's leg on the bridge east of Old Town. ⚡Analyse the Emperor's leg where you can see its foot south of Railroad Junction. ⚡Collect the Arc Conductive Coupler from the front of the Emperor corpse and extract it for Celeste. Arc Raiders ' new Sizing Things Up quest sees you help Celeste analyse the Emperor corpse splayed across Pendola Pass, but like Clean Hands , some of its locations are tricky to track down. The first step is to "take a picture of the Emperor's leg by the bridge outside Old Town," and you can see me doing just that in the video above. As with taking a picture of the Ruined Homestead in the Sheltered Retreat project, you'll need the camera Celeste gave you, or to craft another at the workbench or buy one from Shani. The spot you need to take the picture is directly east of Old Town on the bridge that runs parallel to the Emperor's southern front leg (the Emperor is the giant robot dominating the west side of the map.) Take a picture of the leg's lower portion to complete this step. Analyse the exposed area on top of the Emperor's leg Now, skip the second optional step and "analyse the exposed area on top of the Emperor's leg near Railroad Junction." As above, here's another video of me doing that, but you can find the spot directly south of Railroad Junction, where you can see the base of the Emperor's leg on the map—simply climb up and interact with the marked point. Reach the base of the Emperor and search the payload 
-
 ## GameSpot
+
+### Ghost Of Tsushima Anime Taps Star Wars: Visions Talent For Its 2028 Release
+Fri, 09 Oct 2026 10:52:17 +0000 — https://www.gamespot.com/articles/ghost-of-tsushima-anime-taps-star-wars-visions-talent-for-its-2028-release/
+
+The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. While details are still light on what the story will be, Hayate Inc . did confirm that actors Mayumi Saco and Shinya Fukumatsu will voice characters. Saco had previously voiced Tomoe in Ghost of Tsushima, a master archer and pupil of the renowned Sensei Ishikawa, while Fukumatsu lent his vocal talents to One-Punch Man, playing the martial arts master Bomb. Official poster artowrk for the Ghost of Tsushima Legends anime. For the crew working behind the scenes on this production, there's some big talent attached. Takanobu Mizuno (Star Wars: Visions "The Duel") will direct the anime, and it'll be produced at animation studio Kamikaze Douga (Batman: Ninja, Star Wars: Visions shorts). For the story, that's being handled by Gen Urobuchi (Psycho-Pass) and Renji Oki (Azur Lane). Rounding out key roles, there's also Keiji Inai as the anime's music composer, Yoshikazu Iwanami handles sound direction, and Gyousyou Suzuki brings their talent for calligraphy to the project. As for the source material video games, Ghost of Tsushima first hit the scene in 2020 for the PS4, and was later upgraded for PS5. Its sequel, Ghost of Yotei , launched in 2025 and also received a " Complete Edition " upgrade that adds the Echoes of Sekigahara expansion and bundles in the Legends multiplayer 
+
+### Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him
+Thu, 08 Oct 2026 19:36:37 +0000 — https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/
+
+Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes. Appearing on the New Heights podcast with brothers Jason and Travis Kelce, Affleck said he's a big gamer, and is particularly fond of first-person shooter games, so when he tried Fortnite, he thought he'd hold his own. That wasn't the case, though. He said not only did he get wiped out immediately, but the 12-year-olds he was playing against made fun of him after taking him out. Affleck said he got heated and shouted back at the kids: "I don't suck! I'm a grown man!" https://twitter.com/yonann/status/2108191229884133646 Affleck also told a brief story about how his son wanted Fortnite skins for Christmas, and he was shocked to learn the specific skins his son wanted cost hundreds of dollars. "They ain't even real? Just to wear in the game? That's bullsh**," Affleck said. Affleck is a big fan of the competitive shooter Valorant . In the movie Gone Girl, Affleck's character can be seen playing Battlefield 3 . Affleck is not the only person who has some strong words for the state of Fortnite. Writing for GameSpot, Phil Owen recently talked about why Fortnite sucks this season.
+
+### Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year
+Thu, 08 Oct 2026 19:11:11 +0000 — https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/
+
+Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less than a year in its full state for everyone. "'We are proud of the passion, creativity, and dedication our team has put into the game," Ubisoft said. "One of the greatest parts of this adventure has been getting to experience it alongside you. We've loved seeing the memes, videos, strategies, tournaments, impossible plays, and all the countless moments that happened because you were here." The developers are going to move on to "other long-term strategic projects," but Ubisoft did not say what these may be. The studio will share more details on the game's final days in the coming weeks. "We are truly grateful to everyone who has played our game," the developers said. Rainbow Six Mobile pitched itself as a mobile version of the extremely popular Rainbow Six Siege, which continues to crush it more than a decade after release. The next Rainbow Six game is Rainbow Six Tactics, and it's coming next year. It's been a bumpy year for Ubisoft, as the company created a new organizational structure by way of its partnership with Tencent. As part of this, Ubisoft enacted mass layoffs, closed studios, and cancelled games .
 
 ### Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board
 Thu, 08 Oct 2026 18:33:08 +0000 — https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/
 
-Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028 . Deadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Transformers movie series, is attached to produce. CD Projekt Red is on board as well to produce, which might make fans happy to hear. Cyberpunk 2077 is headed to the big screen. Not all Hollywood adaptations include their creators, as Larian has no involvement in the Baldur's Gate 3 TV show , while Naughty Dog dropped out of The Last of Us Season 3 on HBO , prompting fears about creative decisions. Paramount has been in the news a lot lately following the company's acquisition of Warner Bros. Discovery and combination of the two companies. Going forward, the parent company will be called Skydance. Presumably the Call of Duty and Cyberpunk 2077 movies are among those set for release in theaters, following Paramount's commitment to releasing at least 30 movies in theaters each year . It is very early days for the Cyberpunk 2077 movie, and there is no word yet on who may direct or star in it, nor has Paramount given it a release date. The game series, meanwhile, is expanding with a sequel, Cyberpunk 2 , which is in development now. Cyberpunk 2077 had a well-documented disastrous launch in December 2020, but the Polish developer steadily supported, updated, and improved the game over th
+Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028 . Deadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Transformers movie series, is attached to produce. CD Projekt Red is on board as well to produce, which might make fans happy to hear. CD Projekt Red's Michał Nowakowski praised Paramount , saying the company shares the developer's ambitions. "We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at the appropriate time," he said. Cyberpunk 2's associate game director, Paweł Sasko, said , "I’m beyond excited chooms." Cyberpunk 2077 is headed to the big screen. Not all Hollywood adaptations include their creators, as Larian has no involvement in the Baldur's Gate 3 TV show , while Naughty Dog dropped out of The Last of Us Season 3 on HBO , prompting fears about creative decisions. Paramount has been in the news a lot lately following the company's acquisition of Warner Bros. Discovery and combination of the two companies. Going forward, the parent company will be called Skydance. Presumably the Call of Duty and Cyberpunk 2077 movies are among those set for release in theaters, following Paramount's commitment to releasing at least 30 movies in theaters each year . It is very early days f
 
 ### GTA 6 Merch Revealed, Including T-Shirt With Alligator Wearing Sunglasses And Drinking A Cocktail
 Thu, 08 Oct 2026 17:37:17 +0000 — https://www.gamespot.com/articles/gta-6-merch-revealed-including-t-shirt-with-alligator-wearing-sunglasses-and-drinking-a-cocktail/
@@ -457,22 +470,27 @@ Thu, 08 Oct 2026 14:41:37 +0000 — https://www.gamespot.com/articles/xboxs-xp-i
 
 Xbox CEO Asha Sharma continues to reshape the gaming brand, this time with the new XP division . The clever moniker works for Xbox pictures, products, places, and partnerships--the "four investment areas" now overseen by Kayleen Walters (who previously was Mojang Studios president). This all seems like a bigger push into TV, film, and maybe even theme parks for Xbox . But upon closer inspection, there really isn't anything new here, at least not yet. There's nothing about new investments in movies and TV shows with this announcement. There isn't even the reveal of a new game adaptation for the silver or small screen. Instead, there's a lot of celebrating what's been around or in production for years, such as the Call of Duty movie and Fallout: Season 3 . We also know A Minecraft Movie Squared is on the way (which should have been called A Nether Minecraft Movie). In fact, Xbox chief strategy officer Matthew Ball basically admits on Xbox Wire that all of this stuff was already happening at the company: "It brings together capabilities that have existed across various teams at Xbox for years and aligns them behind a shared mission: helping our franchises reach more people, create deeper connections with players and new fans, and unlock new opportunities for these fandoms to grow around the world." Maybe this new department will lead to better returns and more Hollywood movies from Xbox in the future. But right now, it seems like reshuffling the same deck of cards. It's hard not
 
-### GTA 6 Reveals 6 Radio Stations, Plus Podcasts You Can Listen To On Foot
-Thu, 08 Oct 2026 14:38:32 +0000 — https://www.gamespot.com/articles/gta-6-reveals-6-radio-stations-plus-podcasts-you-can-listen-to-on-foot/
-
-Nothing enhances a crime spree better than a few needle-drop tracks, and in Grand Theft Auto 6 , you'll have plenty of music stations to listen to while touring Leonida. Developer Rockstar Games has revealed six of the radio stations and the disc jockeys attached to them, and in a series first, has also confirmed that a series of on-demand podcasts will be available to listen to in the game. You won't even need to be in a car to enjoy some tunes--or some unsolicited opinions--as GTA 6 protagonists Jason and Lucia can connect radio stations and podcasts through their smartphones. Like previous games in the series, the selection of stations covers a wide range of musical genres, and Rockstar has recruited some star power to voice two of the DJs on Cocoteo FM: Bad Bunny and Lana del Ray. On Back Country Radio station, Del Ray's husband Jeremy Dufrene lends his voice to the character of Mud Dog Mike. Cocoteo FM: Modern Latin music, hosted by El Martillo and La Gata Back Country Radio : Renegade country music, with DJs MW and Delta Dawne hosting the show. Roving reporter Mud Dog Mike also features with regular updates AfroBank FM: The best in African music from DJs Burna and Palmsy, you can tune in for 20th-century classics and undiscovered gems The Chamber 106.6: For some heavy metal, this station has a mix of classic and modern tracks curated by DJ Kerry and DJ Tom Flash FM: Or if you want some easy listening, Robyn and Alex from Flash FM will dish up a selection of pop hits on 
-
-### Minecraft Theme Park Is The First Of Many For Xbox, But Don t Get Too Excited
-Thu, 08 Oct 2026 14:10:18 +0000 — https://www.gamespot.com/articles/minecraft-theme-park-is-the-first-of-many-for-xbox-but-dont-get-too-excited/
-
-Xbox has formalized its plans to extend its video games to places like film and TV via a new division called XP . As part of this, the company is also branching out further into the world of theme parks, though that may not be very surprising or exciting. Xbox CTO Scott Van Vliet said in a post that "theme parks" will be part of the new XP division. This followed a post from Xbox chief strategy officer Matthew Ball who said the upcoming Minecraft theme park initiative represents "the first of many theme park placements to come." https://twitter.com/scottvanvliet/status/2108184088905748856 Microsoft has been working on theme park plans for a long time already, having announced plans for a Minecraft theme park back in 2024 . Earlier this year, Microsoft announced that the park will open in the UK next year with themed food . Xbox is following Nintendo's playbook here, as the Japanese gaming giant brought its franchises, including Mario and Donkey Kong, to Universal Studios theme parks in the US and Japan already. https://www.youtube.com/watch?v=J0RtbNi8g3A People should not hold out hope for a dedicated Xbox theme park, though. Ball's wording specifically was that there will be additional "theme park placements" for Xbox in the future. This suggests Xbox franchises could show up in existing parks, as opposed to Microsoft breaking ground on its own dedicated theme park for Xbox. This is how it works with Nintendo, too, as the Super Nintendo World attractions exist within the wid
-
-### NBA 2K27 Tops Madden NFL 27 In August, Shocking Absolutely Nobody
-Thu, 08 Oct 2026 13:14:06 +0000 — https://www.gamespot.com/articles/nba-2k27-tops-madden-nfl-27-in-august-shocking-absolutely-nobody/
-
-Circana has posted its August 2026 monthly report, and unsurprisingly, NBA 2K27 is once again the best-selling game for the month. That's hardly a shocker, as it was the best-selling August game in 2024 and 2025, ending a long winning streak previously held by EA's Madden NFL series of football games. While it didn't clinch the top spot, Madden NFL 27 came in second and fourth place, as the game's Kickoff Bundle version also appeared on the charts. Overall, it was a solid month for new games. Marvel Tokon: Fighting Souls debuted in third place, Star Wars Zero Company landed in fifth place, and Big Walk took eighth place. In total, five of the top 10 best-selling games in August were new, with Halo: Campaign Evolved , the Switch 2 port of Elden Ring , Mario Kart World, and Splatoon Raiders rounding out the list. Here's a closer look at August's top 10 best-selling games in the US: Top 10 Best-Selling Games In The US Ranked on Physical & Full Game Digital Dollar Sales Rank Game Title Previous Rank 1 NBA 2K27 New 2 Madden NFL 27 New 3 Marvel Tokon: Fighting Souls New 4 Madden NFL 27: Kickoff Bundle New 5 Star Wars Zero Company New 6 Halo: Campaign Evolved 6 7 Elden Ring 41 8 Big Walk New 9 Mario Kart World 19 10 Splatoon Raiders 7 So how does this affect the list of best-selling games in the US so far in 2026? NBA 2K27 has made it onto those charts, but the current record-holder, Resident Evil Requiem, isn't budging yet. NBA 2K27 has instead usurped the third-place position held
-
 ## Rock Paper Shotgun
+
+### Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like
+Fri, 09 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like
+
+Forza Horizon 6 has, as is standard for the live-service racing series, settled into a steady rhythm of revolving weekly to-do lists and a gradual drip feed of fresh cars since it came out in May. Unless you're hopping on for regular bouts of driving with mates or just dig the grind, odds are most folks will have dipped in and out over the months, possibly only returning when a new season adds the likes of a drift attack mode to the open world. Horizon 6's first major DLC's likely to change that at least for a little while, and Playground Games have now revealed it'll be arriving in January. Read more
+
+### Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it
+Fri, 09 Oct 2026 09:33:30 +0000 — https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it
+
+Writing about new 2D timeloop metroidvania Echo Weaver is tricky because most - possibly all - of what you need to complete it is available to you the very second you first wake up, deep in the charnelpools of an ethereal and shattered lunar civilisation. The plot in brief: you are a perpetually rewinding robot boy on a mission to work out what the hell happened. You'll explore overgrown biomes, investigate busted machines, run errands for a handful of scrappy, splashy-hued aliens, and conjure holographic flashbacks that cover the circumstances of your own creation. Developers Moonlight Kids stress that the only thing you really gain in the course of all this is knowledge. There are a few upgrades to gather, but no core skills to unlock. Instead, it's all there for you to learn, whether by reaching a tutorial area or just by hitting buttons at random and messing with terrain fixtures. As such, my telling you about abilities really does risk ruining it, much like explaining the behaviour of celestial bodies in Echo Weaver's great influence, Outer Wilds . So if you're strongly inclined to buy the game &ndash; my verdict after four hours: a vivid and thoughtful, freeform Metroidy puzzler with refreshingly minimal combat and a few rough edges - maybe get your feet wet before reading on. Read more
+
+### You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too
+Thu, 08 Oct 2026 21:56:00 +0000 — https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too
+
+I love an everything seasoning video game. You know, the kind of game where it's five different genres at once, somehow, all of which builds into one cohesive vision? It's not an easy thing to pull off, but Daniel Mullins seems to be quite good at it, as evidenced by Inscryption , and as suggested by the upcoming Pony Island 2: Panda Circus . Which, by the way, now has a playtest you can sign up for. Read more
+
+### All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie
+Thu, 08 Oct 2026 20:28:03 +0000 — https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie
+
+Welp, Cyberpunk 2077 is getting a live-action adaptation! With the plethora of Hollywood adaptations of video games these days, this is one of those bits of news that has me thinking, "wait, that wasn't already a thing?" Apparently not! Read more
 
 ### Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab
 Thu, 08 Oct 2026 19:06:45 +0000 — https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab
@@ -513,24 +531,4 @@ Not being much of a kinkster, I'm the wrong writer to assess how Clive Barker's 
 Thu, 08 Oct 2026 12:53:06 +0000 — https://www.rockpapershotgun.com/xbox-aim-to-wring-more-cash-out-of-the-games-theyve-not-cast-into-oblivion-by-launching-new-licensing-arm-and-handing-minecraft-to-ex-meta-monetisation-lead
 
 Xbox, currently in the midst of multi-round mass layoffs as part of a plan to let a final total of 3200 people go, have announced a new arm of their business which is firmly aimed at milking more cash out of its blockbuster game series via licensing deals. That likely means more stuff along the lines of the recent money-making Minecraft movie and Fallout TV show, though apparently not money-making enough to convince them their game-making business didn't need slashing to the bone. Meanwhile, Minecraft developers Mojang have a new boss who previously spent a decade working on Facebook at Meta. Read more
-
-### Star Wars Galactic Racer will soon welcome larger podracing parties, with multiplayer group size limits set to double in a future update
-Thu, 08 Oct 2026 10:50:00 +0000 — https://www.rockpapershotgun.com/star-wars-galactic-racer-will-soon-welcome-larger-podracing-parties-with-multiplayer-group-size-limits-set-to-double-in-a-future-update
-
-I've admittedly not delved into any multiplayer action in Star Wars: Galactic Racer since the gates to its racetracks were opened to the masses early this week. Look, I needed a quick breather after ramjetting my way through 40 or so hours of it for review . It looks like I might have to try and convince my colleagues to hop on for an RPS Boonta Eve classic soon though, as devs Fuse Games have already announced plans to up multiplayer party sizes so you can invite six mates along instead of three. Read more
-
-### AMD's handsome FSR 4 upscaler is coming to handheld PCs this year, though Steam Deck support could take longer
-Thu, 08 Oct 2026 10:24:51 +0000 — https://www.rockpapershotgun.com/amds-handsome-fsr-4-upscaler-is-coming-to-handheld-pcs-this-year-though-steam-deck-support-could-take-longer
-
-Handheld PC games could be set for a bit of visual spit 'n' shine, as AMD have confirmed plans to bring FSR 4 &ndash; their newest, prettiest upscaling tech &ndash; to the kind of dinky Radeon APUs used by portables. AMD Computing & Graphics exec Jack Huynh, speaking to Korean media including The Elec , detailed a two-pronged approach: they&rsquo;ll make new APUs built with native FSR 4 support, as well as a special version of the upscaler that can run on older integrated graphics chips, both by the end of 2026. Read more
-
-### Star Wars Zero Company studio start to bring back devs furloughed prior to launch, with "more than half" of previous headcount reportedly returning to payroll
-Thu, 08 Oct 2026 09:18:31 +0000 — https://www.rockpapershotgun.com/star-wars-zero-company-studio-start-to-bring-back-devs-furloughed-prior-to-launch-with-more-than-half-of-previous-headcount-reportedly-returning-to-payroll
-
-Star Wars Zero Company developers Bit Reactor have begun to put some of the developers they furloughed prior to the game's release back on payroll. Thus far, the number of staff on payroll at the studio has reportedly returned to "more than half" of what it was prior to the furloughs, with Bit Reactor boss Greg Foertsch asserting that they hope to "eventually bring as many people back as possible". Read more
-
-### Airborne open world Atmosfar gets an early access release date and a trailer full of flying islands, cloud cruisers and sky taxis
-Wed, 07 Oct 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/airborne-open-world-atmosfar-gets-an-early-access-release-date-and-a-trailer-full-of-flying-islands-cloud-cruisers-and-sky-taxis
-
-There was a time when open worlds made of flying islands really seemed like the New Hotness. I guess The Legend of Zelda: Tears of the Kingdom is the obvious trendsetter, but my mind always returns to Bossa's ill-fated aerial MMO Worlds Adrift . I have fond memories of a preview session in which a developer and I tried to rebuild a wildly rolling airship in a hurricane. We failed, but a good time was had plummeting and dying. More recently, we've had Lost Skies (another Bossa joint, born of Worlds Adrift's crashlanded remains), Bohemia's Hytales-ish Everwind , and the curiously fungal Aloft , none of which appear to have slipped the surly bonds of Earth and touched the face of the Steam Top 20 Most Played. Still, the zeppelin fanciers among game developers keep trying to make fetch happen. Here's a trailer for Atmosfar , which now has an early access release date - 29th October. Read more
 
