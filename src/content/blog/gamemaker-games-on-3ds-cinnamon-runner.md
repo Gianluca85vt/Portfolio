@@ -41,6 +41,11 @@ using it to put Undertale and Deltarune on consoles that never saw either.
 
 ## The version ladder decides everything
 
+<figure>
+  <img src="/img/blog/gamemaker-games-on-3ds-cinnamon-runner/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Tour De Pizza, via the official Steam page</figcaption>
+</figure>
+
 Before any of the interesting engineering starts, a game has to clear a
 compatibility gate, and the gate is narrow.
 
