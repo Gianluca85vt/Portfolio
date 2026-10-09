@@ -3,7 +3,7 @@ title: "Unity Spark pays Asset Store artists. No rate yet"
 date: 2026-10-08
 category: 3D
 excerpt: Unity's prompt-driven editor builds from Asset Store assets rather than a diffusion model, and says artists get paid. The rate is not written down yet.
-cover: /img/blog/unity-spark-asset-store-artists-terms/cover.svg
+cover: /img/blog/unity-spark-asset-store-artists-terms/shot-01.jpg
 sources:
   - outlet: 80 Level
     url: https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/
@@ -37,6 +37,11 @@ are credited and compensated.
 Which is genuinely new, and is also where the reading has to get careful.
 
 ## The number nobody has published
+
+<figure>
+  <img src="/img/blog/unity-spark-asset-store-artists-terms/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Unity, from its "Introducing Unity Spark" announcement video, 7 October 2026</figcaption>
+</figure>
 
 Unity has not finalised the commercial model. Both 80 Level and PocketGamer.biz
 say so plainly, and Unity's own Spark page is a closed-beta waitlist rather than
