@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Audio: 4-bit ADPCM is a heavy haircut on music written for lossless playback, and on a game scored as carefully as Undertale that is the compromise a listener will notice first."
     - "Coverage: implementing GML functions one at a time means compatibility arrives in a jagged line, so a supported bytecode version still says very little about whether a given game runs."
-draft: true
 ---
 
 Export a game from GameMaker: Studio and you do not get a native executable
