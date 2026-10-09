@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.4" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#1E5F8C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" fill="#9BD4F5" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="700" letter-spacing="6">GAMEMAKER ON 3DS</text>
+  <text x="80" y="310" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="700">16bpp</text>
+  <text x="80" y="385" fill="#FFFFFF" font-family="Helvetica,Arial,sans-serif" font-size="46" font-weight="400">for the sprite pages</text>
+  <text x="80" y="470" fill="#9BD4F5" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="400">rgba5551 where edges matter,</text>
+  <text x="80" y="518" fill="#9BD4F5" font-family="Helvetica,Arial,sans-serif" font-size="34" font-weight="400">etc1a4 where they do not</text>
+  <rect x="80" y="580" width="150" height="5" fill="#9BD4F5"/>
+  <text x="80" y="650" fill="#C9A7D8" font-family="Helvetica,Arial,sans-serif" font-size="26" font-weight="400">Cinnamon · a Butterscotch fork · WAD 16 and 17</text>
+</svg>
