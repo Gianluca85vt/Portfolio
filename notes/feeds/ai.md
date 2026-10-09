@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-09T11:30:38.221Z
+# AI — harvested 2026-10-09T18:59:50.250Z
 
 ## OpenAI
 
@@ -6,6 +6,11 @@
 Fri, 09 Oct 2026 07:00:00 GMT — https://openai.com/index/sophos
 
 Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.
+
+### Asana cuts model costs 76x in browser tests with GPT-6.1 Sol
+Fri, 09 Oct 2026 07:00:00 GMT — https://openai.com/index/asana-browser-agent
+
+Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.
 
 ### How Oracle turns days of work into minutes with ChatGPT and Codex
 Thu, 08 Oct 2026 16:00:00 GMT — https://openai.com/index/oracle
@@ -27,24 +32,13 @@ Thu, 08 Oct 2026 00:00:00 GMT — https://openai.com/index/disrupting-ai-enabled
 
 OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.
 
-### Helping teens learn, plan, and shape the future of AI
-Wed, 07 Oct 2026 12:00:00 GMT — https://openai.com/index/teens-learn-and-plan
-
-College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.
-
 ## Hugging Face
+
+### Impactful scheduling for GPU clusters
+Fri, 09 Oct 2026 15:20:29 GMT — https://huggingface.co/blog/allenai/impactful-scheduling
 
 ### The model that didn't exist, so you made it yourself
 Thu, 08 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/building-with-ml-intern
-
-### Multimodal open d1 decision models for the edge
-Wed, 07 Oct 2026 16:54:33 GMT — https://huggingface.co/blog/LiquidAI/open-d1
-
-### Introducing Falcon ASR
-Wed, 07 Oct 2026 13:21:03 GMT — https://huggingface.co/blog/tiiuae/falcon-asr
-
-### One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO
-Wed, 07 Oct 2026 12:45:31 GMT — https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026
 
 ## Google DeepMind
 

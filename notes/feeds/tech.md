@@ -1,6 +1,21 @@
-# Tech — harvested 2026-10-09T11:30:38.221Z
+# Tech — harvested 2026-10-09T18:59:50.250Z
 
 ## Ars Technica
+
+### Microsoft barred from sponsoring foreign workers for US residency
+Fri, 09 Oct 2026 13:14:33 +0000 — https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/
+
+Donald Trump’s administration has temporarily banned Microsoft, Adobe, and several other tech companies from sponsoring workers for permanent US residency, claiming they abused immigration programs at the expense of American citizens. Vice-president JD Vance said on Thursday that the H-1B visa programme for highly skilled foreign workers had “become rife with fraud” and that over-reliance on such schemes was “a fundamental insult to the American worker.” He added that “no company in the US” had “abused this system” more than Microsoft. Read full article Comments ]]>
+
+### Rocket Report: A rare Falcon 9 scrub; is it just about Vulcan's time to shine?
+Fri, 09 Oct 2026 11:00:57 +0000 — https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/
+
+Welcome to Edition 9.14 of the Rocket Report! The big news this week, from our perspective, is that United Launch Alliance's Vulcan rocket appears to be close to launching. We've seen a no-earlier-than launch date for the return to flight mission of October 29 (an Amazon Leo flight), and the next rocket up after that, also an Amazon Leo mission, is also planned for this year. Assuming the solid rocket boosters work, Vulcan could be poised for a major breakthrough next year in cadence. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Nuri rocket notches another success . South Korea successfully deployed five satellites for its first domestically launched microsatellite constellation during the fifth flight of its homegrown Nuri rocket Wednesday, Yonhap News Agency reports . In addition to the primary payload of five New-space Earth Observation Satellite Constellation for National Safety microsatellites, nine of the rocket's 10 CubeSat secondary payloads were released as planned, according to the Korea AeroSpace Administration. PERSAT-02, developed by South Korean startup Quaternion, failed to separate from the rocket. Read full article Comments ]]>
+
+### Volkswagen's replacement for the ID.4 crossover is here
+Fri, 09 Oct 2026 10:00:59 +0000 — https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/
+
+Volkswagen’s ID.4 is no more. The midsize crossover debuted in 2021 , one of VW's first new electric vehicles designed in the wake of dieselgate . A year later, the company began local production in Chattanooga, Tennessee, and a couple of years ago facelifted the model, adding a much-improved rear drive unit in the process . But Chattanooga turned its attention away from the ID.4 earlier this year . And, having sold almost a million ID.4s (and near-identical ID.5s) globally, the German automaker has decided it’s time for its replacement. Meet the ID. Tiguan. Dropping the numerical and adopting the moniker of VW’s big seller is a statement. “The Tiguan is our best-selling model worldwide, and the ID.4 and ID.5 are among our most successful electric cars. The ID. Tiguan brings these two success stories together,” said Thomas Schäfer, CEO of the VW brand. VW was an early pioneer of using flexible vehicle architectures to create a multitude of bodystyles and sizes with common parts, and its transition into building EVs hasn’t changed that. The ID. Tiguan uses an updated version of the company’s mass-market EV platform, now called MEB+, with either 58 kWh or 77 kWh battery packs. The smaller pack is only available with a 187 hp (140 kW) rear electric motor, but the 77 kWh battery can be had with either a 281 hp (210 kW) rear-wheel drive powertrain or as a 295 hp (220 kW) all-wheel drive version. Range is up to 373 miles (600 km), at least according to the European WLTP test. Read 
 
 ### SpaceX calls for better coordination in orbit after near-misses with Starlink
 Thu, 08 Oct 2026 21:37:32 +0000 — https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/
@@ -47,74 +62,69 @@ Thu, 08 Oct 2026 18:45:23 +0000 — https://arstechnica.com/science/2026/10/susp
 
 Writing about quantum entanglement is always a challenge. There are so many clichés to avoid: It’s mysterious, ghostly, spooky, and weird. Entanglement is none of those things, and yet it is also all of those things—a superposition of clichés, you might say. So, having gotten all of my clichés out of the way in the second sentence, let’s take a look at how a group of researchers managed to entangle a light beam with a glass bead , which is, frankly, quite an achievement. Cliché-free entanglement Quantum entanglement is nothing more or less than the idea that if two objects are linked, then their behavior will, in some ways, be correlated. To take a terrible example: My upper and lower arm are very strongly correlated in terms of relative position because they are connected at the elbow. No one is surprised by this because we can see that they are actually a single object called an arm. Two photons can be, in a sense, joined together, meaning that they have correlations, too. In this case, we are (naively) surprised for three reasons. First, we think of photons as separate objects that cannot be joined—this is a mistake of understanding. Second, when we connect two photons, we only connect them in limited ways: The two photons may be wholly uncorrelated in terms of polarization, but strongly correlated in terms of energy. Read full article Comments ]]>
 
-### Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever
-Thu, 08 Oct 2026 16:32:46 +0000 — https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/
-
-For the last 15 years, you've been able to buy a Fire tablet from Amazon. Which Fire tablet? It doesn't matter—like Kindles, they have been pretty much the same year to year. The company's new tablet lineup is a big change, though. Amazon has dropped the Fire branding in favor of Alexa, and the new Alexa Tablets are now Google-certified Android devices. Throughout the history of Fire Tablets, Amazon downplayed its use of Android. They ran Android apps from the company's Appstore platform, but there was no Google integration with "Fire OS." However, Amazon shut down its app store last year . The new Alexa Tablets run full-fledged Google-y versions of Android with the Play Store and all the apps you'd expect. This contrasts sharply with Amazon's Fire Sticks, which have abandoned Android for the custom Linux-based Vega OS. The Alexa Tablet lineup consists of three devices, all redesigned with unibody aluminum housings. The Alexa Tablet 8 starts at $230, and the Tablet 11 jumps to $330. They run on the budget MediaTek 8189 processor, but that's still an upgrade from the last-gen Fire tablets . Both devices have 16:10 display ratios that are better for watching video, but the flagship tablet is a little different. Read full article Comments ]]>
-
-### Amazon builds 1,000th satellite, will launch space internet service by end of year
-Thu, 08 Oct 2026 15:28:36 +0000 — https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/
-
-The world's largest retailer wants to sell you something else—Internet from space. Amazon has been developing a constellation of satellites to deliver broadband Internet from low-Earth orbit for the better part of a decade, and the company is just about ready to pull back the curtain. It is entering a market that SpaceX, with its Starlink Internet, has dominated for the last half-decade. Amazon's debut into satellite Internet is being closely watched, not just by some consumers, but by businesses ranging from airlines to shipping companies to governments. Broadband Internet from orbit has proven broadly useful for a lot of purposes, from video games to commerce to warfighting. But until now, most people had to buy it from Elon Musk and SpaceX. OneWeb has only offered limited services, leaving Amazon as the only real competitor to deliver high-speed Internet globally. Moreover, at the head of the company's broadband efforts is Rajeev Badyal, who led Starlink during its early years, but whom Musk fired eight years ago for moving too cautiously on Starlink. Read full article Comments ]]>
-
-### Internal files add to evidence of an ExxonMobil climate deception campaign
-Thu, 08 Oct 2026 14:04:42 +0000 — https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/
-
-If there was a year the world began waking up to climate change, it might have been 1988. That June, the NASA climatologist James Hansen testified to Congress that the climate was warming and would continue to do so as long as humans pumped fossil fuel pollution into the atmosphere. Months later, the United Nations established the Intergovernmental Panel on Climate Change. And, just weeks before the UN vote, Frank Sprow of Exxon’s corporate research department warned his colleagues in an internal memo , “If a worldwide consensus emerges that action is needed to mitigate against Greenhouse gas effects, substantial negative impacts on Exxon could occur.” Sprow’s memo is part of a batch of previously undisclosed documents released earlier this year without fanfare as part of an ongoing lawsuit Massachusetts filed against ExxonMobil in 2019. While the memo was quoted in a 2023 article by The Wall Street Journal , it has not been published in full. Several other documents included in the filings are being reported on here for the first time, including more recent statements from Exxon scientists challenging the company’s climate-solution claims about its work on biofuels and carbon capture and storage. Read full article Comments ]]>
-
 ## The Verge
 
-### OpenAI doubles down on decision to fire three AI safety researchers
-2026-10-09T05:48:26-04:00 — https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers
+### Amazon’s new Kindles appear to have a light leak problem
+2026-10-09T13:25:39-04:00 — https://www.theverge.com/tech/1008833/amazon-kindle-light-leak
 
-OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed "a significant breach of trust." In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita Balesni were dismissed for violating "clear policies on handling sensitive information." It insisted the decision was not about the trio speaking out about the company and their concerns about AI safety. The post is a direct response to an open letter the researchers published on Thursday urging OpenAI to be more transparent about the decision. In it and a series of social media posts, the group said they believ … Read the full story at The Verge. ]]>
+Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the lights on. But things can change once you turn down the lights and turn up the brightness on the e-reader. In some cases, users see shadows around the edges of the screen, or even visible LED strips. The issue appears to affect both the plastic and aluminum models in all colors. Some minor glowing around the edges might be a byproduct of the combination of front lighting and a flush screen. But Reddi … Read the full story at The Verge. ]]>
 
-### Microsoft 365 Family subscribers will finally be able to share AI benefits
-2026-10-09T03:14:32-04:00 — https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes
+### Microsoft tries to spark new life into Windows
+2026-10-09T13:00:00-04:00 — https://www.theverge.com/tech/1008801/microsoft-windows-surface-event-hybrid-ai-notepad
 
-Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year , but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium subscribers share Copilot and AI usage features, alongside access to Office apps and OneDrive storage, with up to five other people on a plan. In an email to Microsoft 365 Family and Premium subscribers seen by The Verge , Microsoft outlines the changes that are coming to subscription plans over the coming months: AI for everyone on your plan: Share your Copilot benefits and AI usage with othe … Read the full story at The Verge. ]]>
+When Microsoft released Windows 11 five years ago, it felt like an operating system that was still being renovated, a work in progress . You'd think by now that those renovations would be complete, with Microsoft turning its attention to Windows 12. Instead, Windows 11 feels like it's here to stay, forming the foundation for Microsoft's next big ambition: transforming Windows into an agentic OS. At a Windows and Surface event this week, Microsoft laid out its plan to bring AI agents to Windows, including hybrid intelligence that lets Windows take advantage of free local models instead of expensive cloud ones. "I think today is the day we'll … Read the full story at The Verge. ]]>
 
-### US plans livestream of execution by firing squad
-2026-10-08T18:32:04-04:00 — https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood
+### Frances Haugen hopes The Social Reckoning will inspire more whistleblowers
+2026-10-09T12:50:40-04:00 — https://www.theverge.com/policy/1008806/frances-haugen-social-reckoning-facebook-whistleblower
 
-The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press . The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 people at the Texas military base, was announced this week . He is scheduled to be executed by firing squad on December 3rd at 2PM ET. The Verge contacted YouTube, Twitch, TikTok, Meta, Rumble, and Kick to ask if they plan to allow the livestream to be aired on their platforms. None responded before publication. "We'll make sure that people are able to watch it, that it's public, because people need … Read the full story at The Verge. ]]>
+NEW YORK, NEW YORK - OCTOBER 04: Frances Haugen attends the Social Reckoning world premiere at Regal Union Square on October 04, 2026 in New York City. (Photo by Sean Zanni/Getty Images for Sony Pictures Entertainment) | Getty Images for Sony Pictures E Facebook whistleblower Frances Haugen was mostly unfazed watching Oscar-winning actress Mikey Madison play a character named after her in The Social Reckoning , except for one thing: the wrist warmers. In Aaron Sorkin's new thriller, the fictional Haugen - who, like her nonfictional counterpart, leaks thousands of documents to Wall Street Journal reporter Jeff Horwitz - habitually dons the accessories. It's a character quirk that reflects real life, where they're a way to deal with the effects of a vasoconstrictive disorder. "I've figured out lots of ways to minimize how much of an obstruction this is," she tells The Verge in an interview. … Read the full story at The Verge. ]]>
 
-### Anthropic launches free AI security scans for open-source projects
-2026-10-08T17:53:51-04:00 — https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner
+### Apple and LG leak shows new tap to control HomeKit features
+2026-10-09T12:45:31-04:00 — https://www.theverge.com/tech/1008812/apple-lg-homekit-tap-to-control-rumor
 
-Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner . It says open-source projects that opt-in will get "thorough, periodic security scans by our strongest models at no cost." That could mean open-source projects get alerted about possible security issues sooner, but the trade-off is that OSS Scanner's reports don't come with human review: The outputs of this opt-in vulnerability scanner will be fully model-generated, without human review or triage. This will enable faster and more frequent scanning, but means that it is possible reports will be incorrect or invalid. Th … Read the full story at The Verge. ]]>
+A post on X from "pdfu," who has previously posted leaks and renders of suspected Apple features and LG smart home gear , shows new details of rumored Apple Home accessories from LG. According to the new leak, they could include an NFC-based "Proximity Control" feature that pops up a hint for a device's controls in the iPhone's Dynamic Island, simply by putting the phone close to it. The post also says it's executed using the Matter protocol, but appears to be an Apple Home-specific feature, and follows yesterday's leak showing a "tap to setup without power" pairing feature and other upcoming devices. Apple's "second-party" LG accessories w … Read the full story at The Verge. ]]>
 
-### SpaceX announces plan to become a ‘major mobile carrier’
-2026-10-08T17:23:31-04:00 — https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier
+### YouTube, Meta, and Twitch won t say if they ll allow the US government to livestream an execution
+2026-10-09T11:15:30-04:00 — https://www.theverge.com/streaming/1008722/youtube-meta-twitch-government-execution-livestream
 
-SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says "will pave the way" for its Starlink Mobile service to become a "major" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says it will deploy its new architecture that combines its satellite-to-mobile constellation with a terrestrial mobile network, directly competing with T-Mobile, AT&T, and Verizon. The licenses include up to 14 megahertz of paired spectrum in the 800 MHz band, which SpaceX says will allow Starlink Mobile's signal to penetrate through walls and buildings. SpaceX previously acquired 2GHz spectrum from … Read the full story at The Verge. ]]>
+YouTube, Twitch, Meta, and X aren't saying whether they'll allow the US government to livestream an execution on their platforms. The four companies didn't respond to The Verge 's requests for comment after an unnamed Pentagon official said yesterday that the execution of Nidal Hasan, who was convicted of a mass shooting at a Texas military base in 2009, will be livestreamed . Two platforms responded to The Verge 's inquiries. Jamie Favazza, a spokesperson for TikTok's US operations, pointed to the platform's policies banning "shocking and graphic content," including "the moment of someone's death." Kick, a platform known for taking a hands-of … Read the full story at The Verge. ]]>
 
-### AMD will bring FSR 4 to handhelds by the end of 2026
-2026-10-08T17:01:18-04:00 — https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026
+### The AI is in the computer
+2026-10-09T11:10:12-04:00 — https://www.theverge.com/podcast/1008707/amazon-alexa-tablet-googlebooks-apple-vergecast
 
-It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip boss Jack Huynh says he will bring the tech to some handhelds by the end of the year. Which handhelds? It's still not clear if it will come to existing handhelds, or if you'll need a new one to get it - because it comes alongside news that AMD is releasing a new FSR4-capable chip. "We will expand the machine learning AI-based FSR4 technology, which was first introduced to existing external graph … Read the full story at The Verge. ]]>
+It's gadget season, and a lot of companies are launching a lot of new products. But whether it's Microsoft dropping a high-end laptop , Amazon shipping a fancy Android tablet , or Apple diving headlong into the smart home, the actual strategy appears to be almost always the same. All these companies believe AI assistants and agents are the future of computing, and they're building devices that put them front and center. On this episode of The Vergecast, David and Nilay dig into all this new hardware to figure out whether any of it has the right take on AI. (Or if "the AI should run the computer" is even the right idea in the first place.) The … Read the full story at The Verge. ]]>
 
-### Apple will reportedly debut its first touchscreen MacBook in three weeks
-2026-10-08T16:32:21-04:00 — https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor
+### Trump’s attempt to rename AI is looking awfully artificial
+2026-10-09T10:25:43-04:00 — https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding
 
-Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini "on or around" October 27th, Bloomberg reports . If true, that would put the event just two weeks after the October 13th event Apple announced today , which is rumored to focus on smart home products. Bloomberg says that the late October event will include an "online video presentation" and an "in-person component for the press," which it reports is similar to what Apple is planning for the October 13th event. At this Mac and iPad event, Bloomberg reports that Apple will announce new MacBook Pros that are lighter than what's available now, have touchscree … Read the full story at The Verge. ]]>
+President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like "Little Marco" and "Crooked Hillary"; he changed "fake news" from a phrase describing scammy media outlets to a derogatory term for the press at large. Over the past few weeks, he's clearly decided he can work the same magic to promote artificial intelligence - branding a technology he wants to accelerate "super", while turning "artificial" into his latest go-to pejorative and declaring resisters "THE ENEMY." Some of the biggest names in AI are going along with him. But he's picked a tough linguistic batt … Read the full story at The Verge. ]]>
 
-### California is trying to shut down robot vs. human cage matches
-2026-10-08T16:06:56-04:00 — https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human
+### Instinct was the buzziest AI agent around — can it survive Muse?
+2026-10-09T10:00:00-04:00 — https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots
 
-The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as reported by The New York Times . The fight, which took place on September 18th, pitted a human, Frankie LaPenna, against a humanoid robot owned by a tech startup, Rek, that was being piloted by a human using what the NYT described as a "remote virtual-reality system." Rek says it is the "the humanoid robot fighting league" on its website , and the robot appears to be one from EngineAI but with a Terminator -like head swapped on top. You can watch a replay of the fight on YouTube : The CEO of Rek … Read the full story at The Verge. ]]>
+Instinct’s agent is always just a text away. Before there were cute little guys , there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: invite-only, no marketing, and barely so much as a website. And yet, Instinct quickly became the buzziest thing in AI, garnering praise for its straightforward, text message-based interface and its ability to handle chores like booking DMV appointments and sending follow-up emails . Then Muse arrived, followed not long after by Dots. The same products, more or less, from two far more powerful companies. With Big Tech players suddenly in the mix, it was looking dubious that the startup's buzzy launch could keep … Read the full story at The Verge. ]]>
 
-### ICE detainees in Georgia used the facility’s video calling software to expose the conditions inside
-2026-10-08T15:45:00-04:00 — https://www.theverge.com/report/1008342/folkston-georgia-ice-detention-hunger-strike-video
+### A week with Googlebooks: four notes from our testing so far
+2026-10-09T09:36:02-04:00 — https://www.theverge.com/tech/1008563/googlebook-software-impressions-thoughts-roundtable
 
-Detainees are seen in a yard at the Folkston ICE Processing Center on September 9, 2025, in Folkston, Georgia. (Photo by ELIJAH NOUVELAGE/AFP via Getty Images) | AFP via Getty Images Four men detained at an ICE detention center in rural Georgia used the facility's video conferencing software to expose both the conditions inside and President Donald Trump's hostile takeover of the immigration courts. In the five-minute video, the men describe an intentionally dysfunctional legal system designed to keep them trapped in federal custody for months or years - in privately owned facilities that profit from their confinement. The video cost the men, literally and figuratively. The Folkston ICE Processing Center has a work program for detainees in which they are paid a pittance to cook, do laundry, or clean. These wages allow t … Read the full story at The Verge. ]]>
+Software, software, software. | Photo: Antonio G. Di Benedetto / The Verge Google's new operating system is off to a rocky start . The five newly launched Googlebook laptops have hardware that ranges from great to excellent, but the software in its current state is the weak point. There are four of us on staff at The Verge actively testing Googlebooks and, frankly, our internal Slack discussions have been mostly filled with collective venting of frustrations, disappointments, and bewilderment. The promise of Googlebooks as a fresh and smartly designed alternative to Windows or Mac for Android phone owners sounds great, but there's more than just a few kinks and quirks to work out. Some of its issues and challenges … Read the full story at The Verge. ]]>
 
-### Microsoft’s new Windows Search is exactly what Windows 11 needs
-2026-10-08T15:30:21-04:00 — https://www.theverge.com/news/1008320/microsoft-windows-search-overhaul-windows-11
+### Meta is banning TikTok ads across its platforms
+2026-10-09T09:12:45-04:00 — https://www.theverge.com/tech/1008658/meta-tiktok-bytedance-ads-ban
 
-Windows Search has been one of the most frustrating parts of Windows 11, and now Microsoft is addressing this with a significant overhaul. A new redesigned Windows Search is now in testing that is much faster, more capable, and a lot more modern. "This new Windows Search experience is built for speed," says Anshul Rawat , corporate vice president of the Windows product team at Microsoft. "It's built on WinUI 3 and is part of our broader investment in modernizing our core Windows experiences." Microsoft says early testing of this new search has shown "substantial improvements in performance and memory usage," meaning the company isn't adding … Read the full story at The Verge. ]]>
+Meta has banned ads from TikTok's Chinese parent company ByteDance across the US and several other countries as the rivalry between the major social media operators heats up, as reported earlier by Bloomberg . The ban, which went into effect on Thursday, restricts ads and paid marketing messages from ByteDance, along with third-party ads that link to TikTok. "We don't have to run ads from a competitor whose goal is to pull people off our apps," Meta spokesperson Christopher Sgro said in a statement to The Verge . "Declining promotional services to a competitor is a normal business practice across industries. We will continue to compete on pr … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### Gigabyte's latest BIOS update hints at Intel's Raptor Lake Next Launch in 2027
+Fri, 09 Oct 2026 13:43:01 +0000 — https://www.tomshardware.com/pc-components/cpus/gigabytes-latest-bios-update-hints-at-intels-raptor-lake-next-launch-in-2027-new-cpus-may-support-both-ddr4-and-ddr5-memory
+
+Gigabyte has just confirmed Intel’s plans to introduce new processors compatible with existing LGA 1700 motherboards, with an expected launch in early 2027. According to a press release , Gigabyte is rolling out a new BIOS update to extend support for the upcoming processors across its entire lineup of Intel B760 and H610 motherboards. Owners of supported boards will be able to flash the latest BIOS and upgrade to the new CPUs without replacing their motherboards. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent The most interesting bit is that the update covers both DDR4 and DDR5 variants of these motherboard families, allowing existing systems to remain compatible with the upcoming processors. The continued availability of DDR4 compatibility is particularly relevant as rising memory prices have increased the overall cost of building and upgrading a PC. Notably, the announcement does not include certain motherboard series like the Z690, Z790, and B660, which also feature the same LGA 1700 socket. Gigabyte has not disclosed SKUs, specifications, or pricing of the upcoming processors. However, the early 2027 
+
+### Microsoft 365 slashes storage capacity for shared accounts amid industry-wide shortages
+Fri, 09 Oct 2026 12:51:59 +0000 — https://www.tomshardware.com/software/cloud-storage/microsoft-365-slashes-storage-capacity-for-shared-accounts-amid-industry-wide-shortages-2tb-limit-to-take-effect-after-april-2027
+
+Microsoft just made a major change to its storage policy affecting Microsoft 365 subscribers with shared accounts. According to the company , the Microsoft 365 Family, Premium, and Pro plans will move from an assigned 1TB of cloud storage for each user to a shared 2TB for all users. This means that a subscription shared across six users will have its total cloud storage capacity slashed by 66.6%. This change will take effect on subscription renewals after May 2, 2027, unless the subscribers change their plan earlier. Some affected subscribers might also receive bonus storage when their account switches to the share limit model, although the company did not mention its eligibility requirements. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play The company said it made this change so that the cloud storage allocation for Microsoft 365 subscribers will automatically go where it’s needed, and that individual users are less likely to hit individual storage limits. Aside from that, it also said that unused storage can benefit the entire family, and that any additional storage that the main subscriber purchases will benefit everyone. This new setup is indeed advantageous for subscribers who only have one power user that u
 
 ### PC shipments tumble over 20% in 3Q26 as chip shortages bite
 Fri, 09 Oct 2026 11:10:05 +0000 — https://www.tomshardware.com/tech-industry/pc-shipments-tumble-over-20-percent-in-3q26-as-chip-shortages-bite-top-three-pc-vendors-ship-11-6-million-fewer-units-year-over-year
@@ -151,12 +161,12 @@ Fri, 09 Oct 2026 09:30:00 +0000 — https://www.tomshardware.com/pc-components/c
 
 A quarter century ago today, AMD launched its AMD Athlon XP processor family . These were highly performant processors based on the firm’s latest Palomino core, but ran at lower raw clock speeds than Intel rivals. Facing a marketing imbalance between perceived and actual performance, AMD mounted a serious campaign to explode the 'megahertz myth' with this generation of CPUs. Thus, it introduced new Athlon XP processors with a Performance Rating (PR) designation, alongside a slogan insisting “Performance matters more than MHz.” Intel, with its Pentium 4 processors, was clearly winning the MHz race at the time, while a CPU’s clock speed had long been established by marketers as a key performance metric. Unfortunately for AMD, its CPUs of the era didn’t hit such high clocks, even though the application and gaming performance was just as good (if not better) than Intel's. Thomas Pabst's view Our tests from October 2001 noted that AMD wisely undersold its chips, using the newly devised PR naming system. Anything less and it would have faced strong opposition and derision. Our tests clearly showed that a new “AthlonXP 1800+ is able to beat Intel's flagship Pentium 4 2 GHz in the majority of benchmarks,” wrote the original Tom, Thomas Pabst, in a 13-page feature about AMD’s newest CPUs. Moreover, it was observed that “AthlonXP at 1533 MHz is able to reach or even beat Pentium 4 running at an almost 33% higher clock speed.” Pabst concluded that AMD’s clocks/performance situation forc
 
-### GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US — Five-year agreement valued at $2 billion
+### GlobalFoundries to produce silicon interposers for TSMC's CoWoS in the US
 Thu, 08 Oct 2026 18:23:28 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/globalfoundries-to-produce-silicon-interposers-for-tsmcs-cowos-in-the-us-five-year-agreement-valued-at-usd2-billion
 
 GlobalFoundries and TSMC have entered into a five-year manufacturing agreement valued at $2 billion under which GlobalFoundries will produce silicon interposers for TSMC's CoWoS advanced packaging technology. The arrangement will establish a U.S.-based manufacturing source for these components, which will enable TSMC's clients to brand their products as completely made and packaged in America. Volume production is scheduled to ramp up in the first half of 2028. "By providing manufacturing service using GF's trusted U.S. manufacturing footprint, we are creating a secure, scalable source of essential advanced-packaging elements that will help customers accelerate innovation and strengthen the semiconductor supply chain," said Ed Kaste, senior vice president of CMOS Business at GlobalFoundries. GF and TSMC team up Under the agreement, GlobalFoundries will expand manufacturing capacity at its fabrication facility in Malta, NY, to produce silicon interposers used in TSMC's CoWoS-S packaging ecosystem. Such interposers are custom pieces of silicon that provide high-density connections between logic chiplets and high-bandwidth memory (HBM) stacks and enable the creation of complex multi-die processors for artificial intelligence (AI) and high-performance computing (HPC) applications. The companies have not disclosed the production capacity to be installed, but the agreement provides a framework for additional expansion depending on demand. (Image credit: TSMC) Silicon interposers us
 
-### U.S. suspends green card path for H-1B workers at Microsoft and Adobe — labor certification program blocked due to alleged fraud
+### U.S. suspends green card path for H-1B workers at Microsoft and Adobe
 Thu, 08 Oct 2026 17:26:07 +0000 — https://www.tomshardware.com/tech-industry/policy/u-s-suspends-green-card-path-for-h-1b-workers-at-microsoft-and-adobe-labor-certification-program-blocked-due-to-alleged-fraud
 
 During a Thursday announcement, Vice President JD Vance said that well-known tech companies Microsoft and Adobe are now blocked out of the PERM program — one of the possible paths for the firms' H-1B workers to eventually evolve to green card status. The move was triggered by alleged fraud and abuse. IT outsourcing firms Cognizant, Infosys, Tata Consultancy, Wipro, HCL, and Capgemini also got slapped with suspensions. The companies involved have not yet commented. The administration is not going to process any new or pending Permanent Labor Certification applications for the companies. In a press conference, Vance had harsh words about Microsoft in particular, stating that "There has been no company in the United States, unfortunately, that has abused this system more." He added that "if you do the math, for every worker that Microsoft laid off, they replaced that worker with one and a half foreign indentured servants." According to Vance, Microsoft fired 6,000 workers while simultaneously benefiting from 6,300 H-1B approvals and nearly 3,000 green cards. The VP said the company filed 3,682 PERM applications, 1,000 of which were for positions that seemingly overlapped with those of laid-off workers. Both Microsoft and Adobe's PERM privileges were cut "due to multiple active federal investigations," as stated by Labor Secretary Keith Sonderling. A move so swift and harsh is unusual, but it comes against a backdrop of the U.S. government putting a tighter grip on the H-1B progr
@@ -166,17 +176,37 @@ Thu, 08 Oct 2026 16:37:20 +0000 — https://www.tomshardware.com/video-games/ret
 
 Pre-orders for the Atari-licensed THE 800XL began today. This is a modernized yet claimed-to-be-faithful recreation of the classic 8-bit home computer, popular in the early 1980s. While it comes with era-appropriate features like built-in Atari BASIC and a working cartridge slot, this remake should be elevated by its mechanical keyboard, 25 built-in games, save states, quartet of USB ports (controllers, storage, power), and HDMI connectivity. Sadly, Atari / Plaion / Retro Games Ltd has stuck with the glaringly unergonomic CX40 joystick design for the bundled THECXSTICK, guaranteed to leave a lasting impression on your palm's tendons. THE 800XL’s pre-order price is a rather steep $219, and it isn’t going to ship until April 23, 2027. “What I love most about THE 800XL is that it captures an entire way of experiencing technology,” said Namer Merli, the Senior Product Marketing Manager at Plaion. “Real keys, real cartridges, a proper joystick, BASIC programming, games, secrets and discovery.” Indeed, it does these things, with enough modern niceties (USB, HDMI, built-in game, etc.) to make it both accessible to newbies and appealing to Atari 8-bit computer veterans still maintaining ancient hardware. Overall, the design appears to maintain the look and feel of the original, though we’d need to test it to confirm feelings about the build. Purchasers will also likely appreciate the immediate power-up-and-play capabilities of this recreation. There’s an instant software library, bui
 
-### Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain
-Thu, 08 Oct 2026 16:24:54 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/department-of-war-dishes-out-usd1-5-billion-loan-commitment-to-boost-semiconductor-supply-chain-wolfspeed-to-focus-on-national-security-applications-as-part-of-30-year-agreement
-
-U.S. Semiconductor Manufacturer Wolfspeed Inc . has received a conditional 30-year, $1.5 billion loan commitment letter from the U.S. Department of War (DoW) through its Office of Strategic Capital (OSC), as the country continues its push to boost domestic semiconductor manufacturing. According to an official press release on Oct. 7, Wolfspeed — which specializes in silicon carbide (SiC) and gallium nitride (GaN) materials and devices — will use the long term-financing to upgrade its GaN epitaxy capabilities and to develop radiation hardening capabilities for current SiC and future GaN products. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined The company says SiC and related technologies are “critical to next generation power and radio-frequency applications across defense, aerospace, AI, critical infrastructure and other strategic commercial markets,” and that it will focus on U.S. national security applications, including communications infrastructure and electronic warfare systems. “SiC and GaN have critical national security applications,” said Wolfspeed CEO Robert Feurle. “With this financing, the company would be well positioned to not only continue to serve the DoW but also expand its capabilities for the 
-
-### Finland orders Google to stop work on two AI data centers over alleged deforestation
-Thu, 08 Oct 2026 15:52:45 +0000 — https://www.tomshardware.com/tech-industry/data-centers/finland-orders-google-to-stop-work-on-two-ai-data-centers-over-alleged-deforestation-company-admits-it-has-fallen-short-of-our-own-high-standards-in-this-instance
-
-Google subsidiary Tuike Finland Oy has just received a notice from the Finnish Licensing and Supervision Agency, or LVV, ordering it to stop construction on two data centers. According to CNBC , the sites in Muhos and Kajaani cannot proceed until environmental impact assessments have been completed, which have been under investigation for allegedly clearing over 740 acres of Finnish forest for the project. “We understand the concerns and have fallen short of our own high standards in this instance,” a Google spokesperson told the publication. “We acted in good faith under the Forestry Act and ran nature surveys and put in place measures to protect high-value areas. As we continue our long-term work in the region, we are advancing our landscaping and biodiversity plans, which include tree planting across 130 hectares at Muhos.” Finland is sometimes called the “Texas of Europe” when it comes to data centers because of its readily available supply of land and electricity, which have been some of the major bottlenecks that data center developers have been facing. Even though the epicenters of the AI data center infrastructure build-up are centered around the U.S. and China, Europe is trying to catch up with its massive $30 billion investment and a target of 100,000 AI GPUs for each site . SoftBank also plans to invest $87 billion specifically in France because of its nuclear-powered electricity grid. However, other European nations are struggling with the demand for this power-hu
-
 ## Phoronix
+
+### Ubuntu 26.10 To Include Desktop Images For RISC-V
+Fri, 09 Oct 2026 13:59:00 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop
+
+Ubuntu Linux ISOs for RISC-V 64-bit to date have just been the server/CLI version without any desktop environment pre-seeded. But with next week's Ubuntu 26.10 release, there will now be Ubuntu 26.10 RISC-V desktop ISOs for both Ubuntu proper and a Xubuntu minimal ISO...
+
+### Valve s Proton 11.0-2e Released To Fix EA App Issues
+Fri, 09 Oct 2026 13:56:40 -0400 — https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e
+
+CodeWeavers working with Valve today released Proton 11.0-2e as their downstream of Wine that powers Steam Play for enjoying Windows games on Linux...
+
+### Python 3.15 Released With Experimental JIT Compiler Running Faster
+Fri, 09 Oct 2026 10:58:00 -0400 — https://www.phoronix.com/news/Python-3.15-Released
+
+Python 3.15 is out today as the newest annual feature release for the Python programming language...
+
+### AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI
+Fri, 09 Oct 2026 10:38:27 -0400 — https://www.phoronix.com/review/amd-perfopt-prior-gen
+
+Last week I ran benchmarks of the new AMD PerfOpt feature being introduced in Linux 7.4. In those PerfOpt benchmarks on current-gen AMD Ryzen AI APUs/SoCs the AI performance improved as much as 18~23%. Several Phoronix readers expressed interest in seeing how prior-gen AMD Ryzen hardware benefited or not from PerfOpt, so here are some additional benchmarks.
+
+### Ubuntu 26.10 Sticks To Using GCC 15 By Default
+Fri, 09 Oct 2026 09:38:58 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default
+
+From a performance and enthusiast perspective, what I personally find most disappointing and puzzling with the imminent release of Ubuntu 26.10 comes down to its default compiler version...
+
+### Faster Zswap With Patches To Batch The Writeback I/O
+Fri, 09 Oct 2026 07:34:56 -0400 — https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO
+
+For those making increased use of Linux's Zswap as a compressed RAM cache for swap pages amid these times of sky high RAM prices, a new patch series was posted providing some incremental performance gains for Zswap by batching the writeback I/O...
 
 ### Linux Patches Finally Make Hibernation Possible In Secure Boot / Lockdown Mode
 Fri, 09 Oct 2026 06:27:04 -0400 — https://www.phoronix.com/news/Linux-Hibernation-With-Lockdown
@@ -208,37 +238,47 @@ Thu, 08 Oct 2026 20:23:33 -0400 — https://www.phoronix.com/news/Mesa-26.3-RADV
 
 There is yet another feature to get excited about for this quarter's Mesa 26.3 release. Months in the making, the Valve-contributed VK_AMD_anti_lag support for the Radeon RADV driver was merged today for benefiting AMD Linux gamers as a nice improvement over the former implementation...
 
-### EXT4 Deprecates Its Journaled "data=journal" Mode
-Thu, 08 Oct 2026 13:04:01 -0400 — https://www.phoronix.com/news/EXT4-Deprecates-Journal-Mode
-
-The EXT4 file-system today deprecated its journaled mode of the "data=journal" mount option. Following its deprecation, this mode is planned for removal in the year 2028...
-
-### COSMIC Epoch 1.10 Released With Launcher Now Using GPU Accelerated Rendering
-Thu, 08 Oct 2026 12:43:19 -0400 — https://www.phoronix.com/news/COSMIC-Epoch-1.10
-
-System76 today released COSMIC Epoch 1.10 as the newest incremental update to this Rust-based desktop developed in-step with their Pop!_OS Linux distribution...
-
-### Ubuntu Currently Suffering From Sustained DDoS Attack
-Thu, 08 Oct 2026 11:41:51 -0400 — https://www.phoronix.com/news/Ubuntu-DDoS-October-2026
-
-Those trying to access the Ubuntu website, ISO downloads, and similar Ubuntu resources today are finding the site inoperable amid what's now confirmed as an ongoing distributed denial of service attack...
-
-### Ubuntu 26.10 Delivers Nice I/O Performance Wins Over Ubuntu 26.04 On AMD EPYC
-Thu, 08 Oct 2026 11:28:51 -0400 — https://www.phoronix.com/review/ubuntu-2610-amd-epyc
-
-While Ubuntu 26.10 is not a Long-Term Support (LTS) release and thus will see limited enterprise deployments compared to Ubuntu 26.04 LTS, for those not after that long-term deployment support and preferring to live more on the leading-edge, Ubuntu 26.10 is delivering some nice performance gains on current 5th Gen AMD EPYC "Turin" hardware.
-
-### Secretive Rosaic Labs Hires Legendary Linux x86 Developer
-Thu, 08 Oct 2026 10:33:55 -0400 — https://www.phoronix.com/news/H-Peter-Anvin-Rosaic-Labs
-
-The curiosity into secretive semiconductor startup Rosaic Labs builds. Earlier this year it was noted that Intel was providing Rosaic Labs with access to its Atom technology with RTL code. There have also been rather mysterious x86 additions not from Intel or AMD (or Zhaoxin / Hygon) that given the timing may pertain to Rosaic Labs. News today is that Rosaic recently hired a long-time, Linux x86 developer veteran...
-
-### Nova Driver Continues Progressing With Long-Term Goal For Official NVIDIA Linux Use
-Thu, 08 Oct 2026 09:29:37 -0400 — https://www.phoronix.com/news/Nova-Driver-LPC-2026
-
-NVIDIA engineer John Hubbard and Red Hat's Danilo Krummrich presented at this week's LPC2026 conference in Prague on the open-source and upstream Nova driver stack that continues forming as a Rust-based open-source NVIDIA Linux kernel driver...
-
 ## The Register
+
+### Microsoft 365 subscribers set to lose up to 4TB of OneDrive storage
+Fri, 09 Oct 2026 18:14:17 +0200 — https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4tb-of-onedrive-storage/5302380
+
+Microsoft 365 subscribers on Family, Premium, or Pro tiers who make full use of their OneDrive storage allotments consider this a warning: It’s fixin’ to shrink. Redmond published a support page this week detailing changes to Microsoft 365 shared storage allotments, and while the company is painting them as offering greater flexibility for users, they also represent a massive reduction in capacity. The former storage allotment schema offered 1TB per user on all three of those tiers, with a cap of six users, for a total of 6TB. The new storage quotas will be shared among all users on those accounts, still with a six-user cap. Family or Premium plans now get 2TB of storage space to share among up to six users. Pro tier users will have to share 5TB. In effect, that means fully shared Family and Premium subscriptions will lose up to 4 TB of combined storage capacity, while Pro subscriptions will lose up to 1 TB. Some existing customers may qualify for temporary bonus storage. On the plus side, there's no longer a fixed 1 TB cap per person, provided the shared pool has room. “The goal is to provide a more flexible experience,” Microsoft offers as its justification for the move. “Shared storage helps ensure that one person doesn't run out of space while other members have unused storage available.” That might be great for heavy users on an account, who can now go over a 1TB cap, but if, say, four people on a family plan are all using 500GB and someone wants to upload something else
+
+### SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier
+Fri, 09 Oct 2026 17:55:31 +0200 — https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393
+
+SpaceX is looking to take on the incumbent mobile networks in the US with a combination of low-band spectrum that can penetrate indoors together with the 2 GHz spectrum supported by its Starlink Gen2 satellites for bandwidth. The rocket-flinging operation says it cut a deal to acquire a nationwide low-band spectrum license portfolio of up to 14 megahertz of paired spectrum in the 800 MHz band, which will pave the way for Starlink Mobile to become a major cellular carrier in the US. SpaceX agreed to acquire the spectrum licences from telecoms investment firm Grain Management, which bought them from T-Mobile. The transaction is subject to FCC approval and other customary closing conditions. In its FCC filing [PDF] regarding the transaction, SpaceX says it intends to roll out its own terrestrial infrastructure for this purpose, operating standard wireless equipment such as antennas on towers, rooftops, and other structures to provide reliable signal coverage. Financial terms of the agreement were not disclosed. We asked SpaceX for further details and will update if we get answers. Also this week, America’s telecoms regulator, the Federal Communications Commission (FCC), approved Starlink’s application [PDF], filed last year, to put into orbit an additional 15,000 satellites that are optimized for 2 GHz spectrum globally. The operator says this will allow it to bring high-speed service directly to unmodified devices anywhere in the world. It builds on SpaceX’s $17 billion purchas
+
+### Growing pains: how distributed AI training changes the network between datacenters
+Fri, 09 Oct 2026 17:00:00 +0200 — https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554
+
+Large-scale AI training has already escaped the confines of a single datacenter. Google said Gemini was trained synchronously across clusters in multiple locations; Microsoft has connected AI data centres in Wisconsin and Georgia into what it describes as one distributed AI supercomputer; AWS has connected AI compute clusters across wide areas to allow Anthropic to build Claude models; Meta has built high-capacity datacenter interconnects to support model training; and CoreWeave and Google Cloud recently announced cross-cloud training with a private interconnect, with Azure likely to follow later in the year. This growing geographic spread of model training is partly due to the limits of single datacenters or campus clusters, which can be strained as they try to meet the compute and power demands of new models. Cisco estimates that training models today can require clusters with tens of thousands of GPUs. By 2030, the largest individual frontier training runs could draw 4-16GW of power, according to researchers at Epoch AI. Distributing compute allows hyperscalers and datacenter operators to build in locations with more available power or space and fewer planning constraints. How to train an LLM At the core of an LLM is a neural network with billions of numerical parameters, or weights, that are adjusted during training. A batch of training data passes through the model, which makes a prediction. The system measures the error and calculates how the weights should change. The 
+
+### Oracle lets AI agents do the work, provided you stay in Big Red's world
+Fri, 09 Oct 2026 16:44:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270
+
+Oracle's new Fusion Claw runtime could give customers more control over AI agents automating business processes, analysts say. But they warn that adoption remains at an early stage and customers risk becoming more tightly tied to Oracle's applications and cloud. Having promised "applications that can reason, decide, and act in pursuit of defined business objectives" back in March, Big Red has now introduced a runtime to govern their actions, running on its cloud and integrated with its Fusion applications. Oracle is targeting ERP, finance, and supply chain management with Fusion Claw for cloud-based Fusion applications running on Oracle Cloud Infrastructure (OCI). It will be powered by frontier models including those from Google and OpenAI, with support for others planned over time. Oracle CEO Mike Sicilia said the company was trying to address the problem of getting "measurable value for our business" from AI investment. "Fusion Claw helps answer that question by moving from AI assistance to execution, enabling customers to automate increasingly complex work across their most important business processes, with enterprise-grade governance," he said. Analysts welcomed the move as a path that offers customers control and assurance in their AI agent implementations on Oracle Fusion Cloud Applications. A recent Gartner "first take" on Fusion Claw said the technology was a way to provision "isolated containers to execute heavy supply chain optimizations and subledger reconciliatio
+
+### Global PC shipments crater 20% as rising prices hammer demand
+Fri, 09 Oct 2026 15:44:00 +0200 — https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264
+
+The global PC market has taken a beating, with shipments plunging more than 20 percent in the third quarter as the AI-driven memory shortage pushes up prices and buyers decide their existing machines will do just fine. New figures from Omdia show worldwide shipments of desktops, notebooks, and workstations fell 21.2 percent year-on-year to 58.1 million units in Q3 2026. IDC tells a similar story, estimating a 20.1 percent decline to 62.7 million units. The research firms differ on shipment totals, but agree the market has gone from bad to considerably worse. The downturn follows a rush to buy PCs earlier this year, when manufacturers, distributors, and corporate customers brought forward orders to get ahead of anticipated price increases. That helped prop up shipments in the first half of 2026, but left the industry with a pile of inventory and fewer buyers in the third quarter. IDC said shipments fell 9.1 percent from Q2, bucking the usual seasonal pattern in which back-to-school demand lifts the PC market. "What we're seeing is the result of the strong first half pull-in," said Jitesh Ubrani, research director for consumer devices at IDC. "Vendors and channels loaded up on inventory early in the year to get ahead of price hikes, and that has thrown off the usual seasonality, where Q3 is typically larger than Q2." Much of the trouble stems from the AI industry's appetite for memory and storage, which has left PC makers competing for increasingly expensive components. The sho
+
+### US Navy bets another $150M on fighter drone that skips the runway
+Fri, 09 Oct 2026 14:44:00 +0200 — https://www.theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237
+
+American defense biz Shield AI says combined US government funding and its own investment commitments have reached $400 million to advance its autonomous vertical take-off and landing (VTOL) fighter drone toward flight testing. The X-BAT aircraft was unveiled at an event in Washington DC last year for an audience of military leaders. According to Shield AI, the US Navy has committed an additional $150 million on top of earlier funding for the project. The company is stumping up a further $150 million of its own capital, and previously secured $50 million under the Runway Independent Maritime Expeditionary Strike (RIMES) program, which it had also matched. X-BAT is scheduled to begin flight testing later this year, with "mission capability" slated for 2028. It is intended to provide naval commanders with long-range strike assets capable of taking off and landing vertically from almost anywhere, doing away with the need for a runway. If it does come into service, the latter capability means that the US Navy would be able to operate combat aircraft from more than just its giant carriers like the USS Gerald R. Ford or the Navy's amphibious assault ships that carry Marine Corps F-35B fighters. It could also operate them from vessels such as the Expeditionary Sea Base (ESB), as shown in the image. X-BAT is 26 ft (7.92 m) long and has a 39 ft (11.9 m) wingspan. Shield AI claims a range exceeding 2,000 nautical miles and expects it to be capable of supersonic flight. The aircraft is 
+
+### Citrix gives NetScaler admins another critical reason to patch
+Fri, 09 Oct 2026 13:43:00 +0200 — https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212
+
+Citrix is urging customers to patch another critical NetScaler vulnerability after weeks of disclosures involving actively exploited flaws. CVE-2026-107406 affects NetScaler ADC and NetScaler Gateway and can lead to remote code execution (RCE) or denial of service (DoS). It carries a CVSS v4.0 score of 9.5. The affected configurations depend on the software version. Older builds are vulnerable when configured as a SAML (Security Assertion Markup Language) service provider (SP) or identity provider (IdP); some more recent builds are affected only in the identity provider configuration. Citrix's advisory lists the affected builds and required updates. Secure Private Access Hybrid deployments using NetScaler instances also need patching. Citrix classifies the flaw as CWE-119: improper restriction of operations within a memory buffer. Customers must update their own deployments. Citrix says it handles the necessary updates for its managed cloud services and Adaptive Authentication. Citrix did not say whether this vulnerability was already exploited as a zero-day before disclosure, but credited Michael Tucker, Chew Keong Tan, and Alex Bernier at JPMorgan Chase's XOR Team, along with Maxim Suhanov, for the discovery. Google researchers said a campaign exploiting CVE-2026-88772 had been underway since at least early September, with organizations in government, finance, legal, and education across North America and Europe likely affected. Citrix disclosed the flaw weeks later as part
+
+### Anthropic asks users to stop being mean to Claude
+Fri, 09 Oct 2026 12:42:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/09/anthropic-asks-users-to-stop-being-mean-to-claude/5302218
+
+Anthropic has updated its rules to stop people being mean to Claude, apparently deciding that its AI chatbot needs protection from the humans paying to use it. The AI developer's latest usage policy prohibits "sustained and needless abusive or cruel behavior" toward its models. The rules take effect November 12, giving users just over a month to get any lingering insults out of their systems. "The policy update is meant to apply only in extreme cases, where users repeatedly act cruelly toward our models, with no discernible purpose," Anthropic said. "It does not apply to common versions of user frustration, pushback, dark creative themes, or model testing and research." So you can still tell Claude it is wrong, but repeatedly berating it for the sheer pleasure of doing so could land you in trouble. It's not clear how Anthropic intends to distinguish between legitimate frustration and gratuitous cruelty, though it says Claude's existing ability to end abusive conversations will remain its primary enforcement tool. Anthropic gave Claude the ability to end certain conversations back in August 2025 as part of its research into what it calls "model welfare." The feature lets some versions of Claude cut off users who persistently subject the models to abuse. It’s worth remembering that Claude is software, not a person, and there's no established evidence that it experiences distress. That hasn't stopped Anthropic from telling paying customers to mind their manners around its chatbo
 
 ### Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill
 Fri, 09 Oct 2026 11:46:00 +0200 — https://www.theregister.com/paas-and-iaas/2026/10/09/microsoft-and-anthropic-play-invoice-tennis-with-startups-17600-claude-bill/5302041
@@ -260,47 +300,32 @@ Fri, 09 Oct 2026 09:31:00 +0200 — https://www.theregister.com/systems/2026/10/
 
 Welcome to another installment of On Call, The Register's reader-contributed Friday column which often shares your stories of what happens when incompetent people climb the greasy pole and send their failures straight back down into the lap of tech support. This week, meet a reader we'll Regomize as "Preston," who wrote to share his story of working as a field service tech in the late 1990s. "I'd risen to the rank of senior field service engineer and was offered a position in consultancy," Preston told The Register. He turned it down because he liked working at the coal face, and the people he worked with there appreciated his skills. "As soon as I arrived at clients, someone was making me a coffee just as I liked it," Preston explained, "so I turned down the consultancy position." One of Preston's colleagues took the promotion and was soon working on projects such as reconfiguring Windows NT 4.0 and the servers it ran on to handle two CPUs, configuring backup systems, and ensuring uninterruptible power supplies (UPSes) were in place to keep things alive. Preston kept doing his own thing, but the character of his job soon changed. "Within weeks, I was getting assigned calls where upgrades had gone wrong, UPSes were failing, and backups were not working." Preston realized the chap who took the promotion was making basic mistakes on almost every job – some of them so bad that one customer refused to work with the newly minted consultant. One of the jobs that eventually landed o
 
-### So long, Spokes: GitHub rewrites storage to restore reliability, just in time for agentic hordes
-Fri, 09 Oct 2026 08:03:00 +0200 — https://www.theregister.com/devops/2026/10/09/so-long-spokes-github-rewrites-storage-to-restore-reliability-just-in-time-for-agentic-hordes/5302148
-
-Responding to unprecedented demand from AI agents, GitHub is rebuilding its Git storage architecture from scratch. Early tests with the new architecture show a promising 35x write improvement in internal tests. GitHub will need a miracle of that proportion just to keep up with customer demand. The plan involves decoupling writes from reads, offloading maintenance, and letting object storage manage redundancy. Most impressive is that the redesign is happening under the hood, with the goal of a non-disruptive change that won't alter developer workflows, review processes, or security controls. Running an enterprise-grade code repository means supporting “large engineering teams running busy CI pipelines alongside growing fleets of agents. Supporting these teams means building Git infrastructure for sustained, concurrent reads and writes at a scale few repositories reach today,” wrote Brian Celenza, GitHub principal software engineer, in a blog post describing the updates. Celenza did not offer a timeline for this ambitious migration. When GitHub’s customers shifted their coding focus to AI agents, activity on the platform spiked significantly. Between September 2025 and August 2026, GitHub traffic doubled, from 218.2 billion events per month to 473.3 billion. In September alone, commits hit 7.38 billion, a 5x increase from September 2025. This shift in traffic is stressing the system. According to the GitHub Availability Report, the service suffered 10 incidents in April alone t
-
-### India’s tech giants shrug off changes to USA’s skilled visa program
-Fri, 09 Oct 2026 05:17:29 +0200 — https://www.theregister.com/legal/2026/10/09/indias-tech-giants-shrug-off-changes-to-usas-skilled-visa-program/5302154
-
-India’s peak technology industry body, NASSCOM, has shrugged off changes to the USA’s skilled visa regime, and Microsoft has denied it abuses the program. The changes, announced on Thursday by US vice president JD Vance and Labor Secretary Keith Sonderling, mean that Microsoft and Adobe can no longer use the Program Electronic Review Management (PERM) program to convert holders of the H-1B visa for skilled workers to permanent residents. Sonderling also revoked access to PERM for Indian companies Infosys, Tata, Wipro, and HCL, plus Capgemini. The secretary said the change followed criminal investigations and alleged “fraud and abuse.” “Since 2009, just these companies alone have requested almost three million foreign workers,” he said. “They've received over 230,000 H-1B visa approvals and over 100,000 permanent labor certifications. That's hundreds of thousands of jobs that were taken from American workers.” Vice President Vance weighed in with what he called a “message to Microsoft.” “You’re a great American company, but you've got to hire great American workers. You cannot lay off American workers and then replace them with foreign indentured servants.” Critics of the H-1B visa have often alleged that US companies use it to bring in foreign workers who are prepared to work for less than Americans. The theory even extends to an allegation that India’s outsourcers use H-1B visas to bring in workers whose main agenda is offshoring more work to India. Some observers suggest sk
-
-### Ukrainian drone attack takes out Russian datacenter
-Fri, 09 Oct 2026 02:08:52 +0200 — https://www.theregister.com/off-prem/2026/10/09/ukrainian-drone-attack-takes-out-russian-datacenter/5302137
-
-Russian web giant Yandex says one of its cloud availability zones is unavailable due to a drone attack. Yandex is Russia’s rough equivalent of Google, and dominates the local market for search, email, and mapping services. The company also operates a cloud computing service whose status page says its ru-central1-b availability zone is down. “The incident was caused by a fire caused by a drone attack on Yandex's data center in Sasovo, which affected part of the Yandex Cloud infrastructure. Data center operations have been completely halted.” Sasovo is a town around 300 kilometers southeast of Moscow. Yandex later recommended users employ unspecified “alternative service restoration plans,” including its own bare metal servers, but advised users “it will not be possible to restore service in the near future.” The Russian company hasn’t commented on the source of the drone attack, but Ukrainian press report that President Volodymyr Zelensky has said Russia has attacked Ukrainian datacenters and that his government always responds in kind. Reuters reports that Yandex is uncertain if it is possible to restore operations at the datacenter. If Yandex must write off the datacenter, it will be the second cloud provider to lose facilities to drone attacks this year after AWS decided its Bahrain facility could not be recovered after an Iranian drone attack. Iran hit AWS facilities because it believed the cloud giant hosts workloads for the US military and its suppliers, and that an atta
-
-### AI company moves to defend critical infrastructure and open-source projects from AI
-Fri, 09 Oct 2026 01:57:40 +0200 — https://www.theregister.com/ai-and-ml/2026/10/09/ai-company-moves-to-defend-critical-infrastructure-and-open-source-projects-from-ai/5302128
-
-Anthropic has launched an effort to help people patch the software vulnerabilities exposed by its own Project Glasswing. If that sounds like a careless camper starting a wildfire and later funding a fire department, well, that's one way of looking at it. Anthropic insists it wants to give defenders access to the tools attackers are already using. Under a program name that sounds like a forthcoming Tom Cruise film – "Anthropic Cyber Mission" – the Claudefather is directing its effort into two areas. The first is a Critical Infrastructure Defense Program, because no one wants AI models showing miscreants how to shut down public utilities with newly discovered zero-day SCADA vulnerabilities. The program combines the company's priciest models with on-site engineers – sometimes now referred to as forward deployed engineers – because despite the sophistication of AI coding agents, human security experts are still useful and many organizations lack in-house talent tutored in the ways of machine learning. Anthropic aims to tackle this challenge with the help of a stable of partners: Accenture, Booz Allen, CrowdStrike, Deloitte, Dragos, Hitachi, Insane Cyber, Nozomi Networks, Palo Alto Networks, PwC, and Rockwell Automation. These organizations have ties to critical infrastructure organizations and are already working to safeguard the fragile technical framework being probed constantly by AI agents. The second area of focus for the Anthropic Cyber Mission involves a service called OSS
-
-### US disrupts Chinese hacking tools as 7 govts warn of PRC spies stealing sensitive data worldwide
-Thu, 08 Oct 2026 23:59:00 +0200 — https://www.theregister.com/security/2026/10/08/us-disrupts-chinese-hacking-tools-as-7-govts-warn-of-prc-spies-stealing-sensitive-data-worldwide/5302107
-
-The FBI announced that it has seized seven web domains linked to hacking tools allegedly operated by a Chinese security firm called Integrity Technology Group and used by Beijing-backed cyber operatives to scan a South Carolina power company's network and other critical infrastructure systems for vulnerabilities. In a subsequent advisory, the FBI and other government agencies in the US, UK, Australia, Canada, Japan, New Zealand, and Spain warned that Chinese government-linked attackers, enabled by Integrity Tech, are using botnets, malware, and other intrusion tools to target organizations worldwide and steal sensitive data, including from US critical infrastructure networks. “These actors exploit vulnerabilities by using scanning tools, cross-site scripting attacks, and password spraying on Microsoft Exchange servers, while establishing persistence through VPN software and exfiltrating emails and credentials using scripts,” according to the security alert. Based on this activity, the US Cybersecurity and Infrastructure Security Agency (CISA) has added five CVEs to its Known Exploited Vulnerabilities Catalog: CVE-2015-3306 CVE-2015-5477 CVE-2016-3081 CVE-2021-3199 CVE-2023-22894 The court-authorized seizures are the latest in a long series of US law-enforcement attempts to disrupt a Beijing-backed cybercrew called Flax Typhoon and shut down its botnet. From 2021 until its disruption, Flax Typhoon allegedly used a version of this Mirai-based botnet to infect internet-connected
-
-### Nvidia found $1B under the couch to help secure American scientific computing dominance
-Thu, 08 Oct 2026 23:44:03 +0200 — https://www.theregister.com/hpc/2026/10/08/nvidia-found-1b-under-the-couch-to-help-secure-american-scientific-computing-dominance/5302110
-
-Nvidia on Thursday scraped together some spare change to commit $1 billion — about 1/60th of its quarterly profits — to funding US scientific discovery over the next five years. The commitment, announced during an event in Washington, DC, aims to support the research and development of AI — or is it "super intelligence" now? — in fields including quantum computing, healthcare, and energy security. Nvidia's choice of technologies is not surprising as it has long aspired to fuse AI and high-performance computing. And while LLM training and inference pay Nvidia's bills, the GPU giant has continued to introduce new CUDA libraries specifically for AI-assisted quantum computing, healthcare, drug discovery, and physics simulation. The initiative is part of the US government's broader Genesis Mission, announced late last year by the Trump administration, which aims to use AI to drive the scientific discoveries necessary to ensure the country's continued technological leadership. The program marks Nvidia's return to US supercomputing in a big way. The Department of Energy's (DoE) last flagship supercomputers powered by Nvidia, Summitand Sierra, were commissioned all the way back in 2018. The A100-based Perlmutter system launched in 2021 is also notable, but fell far short of the older systems. And while Nvidia never stopped building supers for the US government, they tended to be significantly smaller than the massive AMD-based platforms like Frontier and El Capitan. That changed last
-
-### There can be only one: Google Cloud casts Gemini as your enterprise AI hero
-Thu, 08 Oct 2026 22:16:27 +0200 — https://www.theregister.com/ai-and-ml/2026/10/08/there-can-be-only-one-google-cloud-casts-gemini-as-your-enterprise-ai-hero/5302086
-
-Google Cloud CEO Thomas Kurian said that Gemini will be "your new single, universal agent for work," a declaration as unassailable as Google's history of consistency, customer service, and long-term product support. Long-term here means a median lifespan of about 4.1 years and a mean lifespan of about 5.4 years across 308 discontinued products and services. That doesn't include enduring successes like Gmail and Search. Perhaps Gemini is destined for that level of longevity. In a blog post adapted from the prepared remarks he spoke at the Gemini at Work 2026 event – and what could be more appropriate for Google than to herald Gemini with a derivative work? – Kurian laid out his vision for an AI service known as Bard only two years ago. Gemini, he said, has your business context – which is to say, data – and thus can be used for various tasks like question answering, content creation, and coding. "It plans the work, uses skills and tools, connects to your systems, and brings back something finished — inside the documents, the inbox, and the developer environments you already work in," Kurian said. "It chooses the best model for the job, has built-in cost controls, and most importantly, has the security, administration, and governance required by your company." Kurian's actual remarks at the event were more succinct. "Today, Gemini became an agent," he said. "You give it objectives, not just instructions. It plans the work, uses custom skills and tools, connects to your systems 
-
-### NASA taps DoE to help it build nuclear space reactors
-Thu, 08 Oct 2026 22:15:01 +0200 — https://www.theregister.com/offbeat/2026/10/08/nasa-taps-doe-to-help-it-build-nuclear-space-reactors/5302096
-
-NASA and the Department of Energy have agreed to expand their collaboration on the space agency's nuclear ambitions, as administrator Jared Isaacman pushes ahead with a tight deadline to launch a fission-powered spacecraft to Mars. “We are entering the ‘Nuclear NASA-era,’” Isaacman said at a signing ceremony where he and Energy Secretary Chris Wright signed a joint memorandum of understanding. The MOU, the full text of which doesn’t appear to have been published, establishes a framework for collaboration on space nuclear technology. Per NASA, the agreement “unites both agencies” in pursuing its objectives, with work to include research and fuel production, testing, launch integration, and operations. “Nuclear power will allow us to go farther, operate longer, and field more capable spacecraft and instruments than ever before,” Isaacman added. “The work we’re doing today is laying the foundation for the fission-poweuing NASA’s objred spacecraft of tomorrow and opening an entirely new frontier for exploration and discovery.” NASA has been making big plans to launch nuclear reactors into space since earlier this year when the agency paused work on the orbital Lunar Gateway station in favor of a base on the Moon’s surface. Those plans include a nuclear reactor to power said base, which NASA said on Thursday it intends to have ready for launch by 2030, giving the agency precious little time to meet such an ambitious goal. NASA has provided little evidence the initiative is on trac
-
 ## Engadget
+
+### Bose Lifestyle Ultra Soundbar review: A great home theater option all by itself
+Fri, 09 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2282487/bose-lifestyle-ultra-soundbar-review/
+
+Bose's latest soundbar pulls double duty as both a TV and music speaker. Plus, it doesn't need a separate subwoofer for adequate bass.
+
+### Intel is reportedly launching new CPUs on old sockets that support DDR4 memory
+Fri, 09 Oct 2026 17:01:36 +0000 — https://www.engadget.com/2282431/intel-is-reportedly-launching-new-cpus-on-old-sockets-that-support-ddr4-memory/
+
+If you guessed the RAMpocalypse is involved...
+
+### What it's like to spend a night in a Pebble Flow EV RV
+Fri, 09 Oct 2026 17:00:00 +0000 — https://www.engadget.com/2282389/pebble-flow-ev-rv-review/
+
+Staying in the tech-infused trailer can kind of feel like being in a spaceship - in a good way.
+
+### Webb telescope detects galaxy origin of the farthest fast radio burst we've seen to date
+Fri, 09 Oct 2026 12:28:24 +0000 — https://www.engadget.com/2282035/webb-telescope-detects-galaxy-origin-of-the-farthest-fast-radio-burst-weve-seen-to-date/
+
+Astronomers used the Webb telescope to see where the farthest fast radio burst we've ever seen had come from.
+
+### What to expect at Apple's 'Welcome home' event next week
+Fri, 09 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2281840/what-to-expect-at-apples-welcome-home-event-next-week/
+
+The company is reportedly rebooting its smart home ambitions with a smart display and a whole bunch of other accessories.
 
 ### Anthropic now offers a free vulnerability-finding service for open-source software
 Fri, 09 Oct 2026 11:24:27 +0000 — https://www.engadget.com/2282005/anthropic-offers-open-source-software-free-ai-security-checks/
@@ -337,90 +362,65 @@ Thu, 08 Oct 2026 21:50:20 +0000 — https://www.engadget.com/2281788/idc-worldwi
 
 With macro conditions worsening, the risk is that the outlook for the next few quarters gets worse before it gets better.
 
-### Alexa Tablet vs iPad Pro: How Amazon is keeping up with Apple
-Thu, 08 Oct 2026 21:40:59 +0000 — https://www.engadget.com/2281782/alexa-tablet-vs-ipad-pro-amazon-apple-tablet-comparison/
-
-Amazon's latest and greatest tablet shares some key similarities to Apple's high-end iPads, but the devil is in the details.
-
-### Anthropic bans 'sustained and needless abusive or cruel behavior' toward its AI models
-Thu, 08 Oct 2026 21:17:24 +0000 — https://www.engadget.com/2281765/anthropic-bans-sustained-and-needless-abusive-or-cruel-behavior-toward-its-ai-models/
-
-The company is also tightening its election policy ahead of the midterms.
-
-### Child safety group calls ChatGPT for Teens an unacceptable risk
-Thu, 08 Oct 2026 20:36:46 +0000 — https://www.engadget.com/2281719/child-safety-group-calls-chatgpt-for-teens-an-unacceptable-risk/
-
-After extensive testing, Common Sense Media found the chatbot failed in five key areas.
-
-### Cyberpunk 2077 is the latest video game to get the movie treatment
-Thu, 08 Oct 2026 20:30:26 +0000 — https://www.engadget.com/2281714/cyberpunk-2077-is-the-latest-video-game-to-get-the-movie-treatment/
-
-Paramount Pictures will develop the film and CD Projekt Red will produce.
-
-### Forza Horizon 6 is coming to PS5 on January 26
-Thu, 08 Oct 2026 20:08:45 +0000 — https://www.engadget.com/2281683/forza-horizon-6-is-coming-to-ps5-on-january-26/
-
-The racing game's first expansion will also be available early next year.
-
 ## TechCrunch
 
-### President Trump awards Big Tech donors with nation s highest science prizes
-Thu, 08 Oct 2026 22:33:59 +0000 — https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/
+### Batteries are now cheaper than natural gas turbines used at many data centers
+Fri, 09 Oct 2026 18:57:58 +0000 — https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/
 
-Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.
+Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
 
-### Pretend you re sitting at Elizabeth Holmes desk on this weirdly detailed website
-Thu, 08 Oct 2026 21:00:00 +0000 — https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/
+### TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers
+Fri, 09 Oct 2026 18:57:06 +0000 — https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/
 
-With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.
+Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
 
-### Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
-Thu, 08 Oct 2026 20:04:26 +0000 — https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/
+### LumenUs helps automate tedious paperwork in times of grief
+Fri, 09 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/
 
-Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.
+"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.
 
-### Watch the trailer for The Altruists, Netflix s show about the FTX scandal
-Thu, 08 Oct 2026 18:30:00 +0000 — https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/
+### Amazon and others are done keeping data center deals secret. Is it enough to build trust?
+Fri, 09 Oct 2026 16:56:42 +0000 — https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/
 
-A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.
+Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hundreds of proposed and enacted moratoriums from New York to San Francisco. Meanwhile, a wave of startups is betting that consumers will hand AI agents access [ ]
 
-### Ben Affleck is an AI nerd, and the internet is impressed
-Thu, 08 Oct 2026 18:20:32 +0000 — https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/
+### Danu Robotics fight to build a better recycling robot
+Fri, 09 Oct 2026 16:45:00 +0000 — https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/
 
-Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.
+For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.
 
-### Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months
-Thu, 08 Oct 2026 18:19:45 +0000 — https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/
+### We can t help treating AI like it s human. But should we?
+Fri, 09 Oct 2026 16:40:14 +0000 — https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/
 
-The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.
+"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us," Dr. Sherry Turkle writes. "And we are wired to care for it in return."
 
-### OpenAI s revenue is reportedly $20 billion less than previously projected
-Thu, 08 Oct 2026 18:19:42 +0000 — https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/
+### Tesla renames Full Self-Driving to Tesla Assisted Driving in Europe
+Fri, 09 Oct 2026 16:07:26 +0000 — https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/
 
-It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.
+The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.
 
-### Google brings agentic AI to Gemini, starting with businesses
-Thu, 08 Oct 2026 18:18:00 +0000 — https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/
+### Remember Orkut? Its founder wants to bring it back
+Fri, 09 Oct 2026 15:56:15 +0000 — https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/
 
-Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email address.
+Orkut's founder is now taking aim at algorithms and AI-generated content.
 
-### Anthropic changes usage policy to ban model abuse and election interference
-Thu, 08 Oct 2026 18:16:24 +0000 — https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/
+### a16z’s Olivia Moore on the state of consumer AI
+Fri, 09 Oct 2026 15:43:33 +0000 — https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/
 
-Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons software, and surveillance.
+Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.
 
-### OpenAI s math solutions aren t meeting the field s standards yet
-Thu, 08 Oct 2026 18:10:55 +0000 — https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/
+### Automattic interim CFO resigns just weeks after boardroom shakeup
+Fri, 09 Oct 2026 15:02:30 +0000 — https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/
 
-OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.
+Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive exit amid the organization's leadership turmoil.
 
-### A startup founder who served time in prison is looking to court an untapped market: ex-cons
-Thu, 08 Oct 2026 16:45:00 +0000 — https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/
+### Beyond TechCrunch Disrupt 2026: The Side Events, Parties Networking You Can t Miss
+Fri, 09 Oct 2026 14:42:34 +0000 — https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/
 
-Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.
+TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next connection, your next opportunity, or your next favorite event.
 
-### Natura’s $99 smart ring puts AI agents on your finger
-Thu, 08 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/
+### TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise
+Fri, 09 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/
 
-Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.
+Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.
 

@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-09T11:30:38.221Z
+# Film & TV — harvested 2026-10-09T18:59:50.250Z
 
 ## Variety
 
-### Brad Bird s Ray Gunn, Toy Story 5 and Roger Deakins Lead View Conference Lineup as AI Debate Takes Center Stage
-Fri, 09 Oct 2026 11:27:49 +0000 — https://variety.com/2026/global/global/view-conference-2026-brad-bird-roger-deakins-ai-debate-1236905539/
+### Variety Toasts Pete Davidson at The New York Party With Gayle King, Ana Navarro and Kareem Rahma
+Fri, 09 Oct 2026 18:44:48 +0000 — https://variety.com/2026/scene/news/variety-pete-davidson-new-york-party-1236906726/
 
-Brad Bird, Roger Deakins and the teams behind Toy Story 5, Spider-Man: Brand New Day and Project Hail Mary head to Turin next week for the 27th View Conference, where AI and the economics of animation and VFX are set to dominate the agenda. Four of the films being unpacked at the Oct. 12-16 event [ ]
+New York is having a moment. In June, the Knicks pulled off the impossible and won their first NBA championship in 53 years, sending the city into a frenzy of infectious energy. “I was at my friend Justin’s house with a bunch of straight people, which was fun,” Nicky Campbell, fashion TikTok star and one [ ]
 
-### Gromit Speaks: Martin Freeman to Voice Beloved but Mute Dog in Audiobook Edition of Autobiography
-Fri, 09 Oct 2026 11:00:00 +0000 — https://variety.com/2026/film/global/martin-freeman-to-voice-gromit-autobiography-audiobook-1236906386/
+### How Skydance Will Remake the Illustrious Culture of Warner Bros. Pictures More Than Any Owner Before
+Fri, 09 Oct 2026 18:34:24 +0000 — https://variety.com/2026/film/news/skydance-warner-bros-pictures-culture-transformation-1236906881/
 
-He s been one half of one of the most cherished on-screen duos in history, yet has famously never spoken a word. That is, up until now. Gromit, the whip-smart and eye-rolling four-legged friend to cheese-loving inventor Wallace across numerous stop-motion classics from Aardman Animation and Wallace Gromit creator Nick Park, is getting his first autobiography [ ]
+There have been many quiet Mondays at the Burbank offices of Warner Bros. Pictures, usually following a bomb like the one the studio just suffered with Tom Cruise’s “Digger.” The cryptic eco-disaster project will represent a loss of hundreds of millions when all is said and done. But the silence this past Monday was compounded [ ]
 
-### Margherita Ferrari on Working With Paolo Sorrentino on Directorial Debut Föa — Once Upon a Future : He Helped Me Pursue and Protect My Vision
-Fri, 09 Oct 2026 10:48:09 +0000 — https://variety.com/2026/film/festivals/margherita-ferrari-paolo-sorrentino-produced-once-upon-a-future-1236906354/
+### Remi Wolf on the Meaning Behind Her New Album Mud, Her Off Campus Cameo and Friendship with Hayley Williams
+Fri, 09 Oct 2026 18:32:30 +0000 — https://variety.com/2026/music/news/remi-wolf-mud-off-campus-hayley-willians-1236906301/
 
-Debuting Italian director Margherita Ferrari is at the Busan International Film Festival with Föa – Once Upon a Future, an innovative coming-of-age drama that also marks Paolo Sorrentino s debut as a producer. Set in Genoa during the tragic days in July 2001 when the G8 summit led to deathly clashes between protesters and police, Once [ ]
+Remi Wolf hasn t landed a spot on “Survivor,” one of her favorite shows she s always wanted to be on, so she instead put her mental fortitude to the test by rolling around in a makeshift mud pit. She quickly realized she’s “never gonna make it on that show if I can t handle this in such [ ]
 
-### ‘Celeste’ Creator Diego San José, Director Elena Trapé on Turning a Tax Inspector Into Dirty Harry’
-Fri, 09 Oct 2026 09:49:05 +0000 — https://variety.com/2026/tv/markets-festivals/celeste-season-2-diego-san-jose-elena-trape-1236905298/
+### Black Bear Acquires Rom-Com Honeymoon / Funeral Starring Rebecca Ferguson, Greta Lee and Carrie Coon
+Fri, 09 Oct 2026 18:30:00 +0000 — https://variety.com/2026/film/news/black-bear-honeymoon-funeral-rebecca-ferguson-greta-lee-1236906791/
 
-After turning Spain’s tax agency into the unlikely engine of a noir-tinged comedy, “Celeste” creator Diego San José and director Elena Trapé are taking aim at something far more sacred in Spain: soccer. The six-part second season of the Movistar Plus original brings Carmen Machi (“La Mesías”) back as Sara Santano, the tax inspector who [ ]
+Black Bear has acquired domestic rights to “Honeymoon / Funeral,” a new romantic comedy starring Rebecca Ferguson, Greta Lee and Carrie Coon. The movie was shopped out of the newly created film market at the Toronto International Film Festival. According to an official logline, “Honeymoon / Funeral” follows “two women (Ferguson and Lee) who meet [ ]
 
-### UTA and Gold House Set Partnership to Build Asia-Hollywood Bridge (EXCLUSIVE)
-Fri, 09 Oct 2026 09:00:00 +0000 — https://variety.com/2026/film/markets-festivals/uta-gold-house-partner-asia-hollywood-1236906321/
+### Journey Drummer Deen Castronovo Leaves Concert After Two Songs and Is Hospitalized, as Show Eventually Resumes With Drum Tech
+Fri, 09 Oct 2026 18:26:19 +0000 — https://variety.com/2026/music/news/journey-drummer-deen-castronovo-leaves-concert-hospitalized-1236906851/
 
-UTA and Gold House are joining forces at the Busan International Film Festival and in Seoul this month, marking the Asian Pacific advocacy organization’s first official foray into Korea as the two look to connect Asian creatives and investors with Hollywood. The partnership kicks off with the UTA x Gold House x Variety Industry Night [ ]
+A Journey concert in Tulsa, Oklahoma had an unnerving moment Thursday night when longtime drummer Deen Castronovo had to be helped off the stage after the group had performed just two songs, leading to a substantial pause before the show resumed with a quickly drafted substitute. Castronovo was later reported to been hospitalized at a [ ]
 
-### A Rare David Bowie Self-Portrait — Featuring His Handprints — Is Going on Auction at Sotheby s
-Fri, 09 Oct 2026 08:00:00 +0000 — https://variety.com/2026/music/global/david-bowie-self-portrait-handprints-auction-sothebys-1236905394/
+### Beyond Hollywood North : How Vancouver s Indie Film Scene Is Building Its Own Ecosystem
+Fri, 09 Oct 2026 18:21:13 +0000 — https://variety.com/2026/film/global/vancouver-indie-film-scene-building-its-own-ecosystem-1236906461/
 
-A rare David Bowie self-portrait is going on auction at Sotheby s, featuring the musician and artist s own handprints. The 1996 work is part of eight self-portraits Bowie created during a prolific period of painting, all of which were snapped up immediately. Done on paper, the painting emphasizes Bowie s signature anisocoria and includes two of his [ ]
+Something is emerging in Vancouver’s independent film scene. For years, the city has primarily played the role of somewhere else — a cheaper Seattle, New York or generic American city. Its landscapes, tax incentives and favorable exchange rate drawing in Hollywood productions. But increasingly, independent filmmakers are choosing to cast Vancouver as… well… Vancouver. One [ ]
 
-### Bavaria Media Intl. Unveils Mipcom Slate Including German TV Hits Mordach, Home-Made Christmas and Throughout the Years (EXCLUSIVE)
-Fri, 09 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/bavaria-mipcom-slate-1236905980/
+### Amazon Viking Drama ‘Bloodaxe’ Sets Release Date, Debuts Fierce New Trailer at New York Comic Con
+Fri, 09 Oct 2026 18:15:00 +0000 — https://variety.com/2026/tv/news/amazon-bloodaxe-release-date-new-york-comic-con-1236906718/
 
-Bavaria Media Intl., the distribution arm of Bavaria Film Group, has unveiled a slate of scripted shows ahead of TV market Mipcom, including German TV hits Mordach, Home-Made Christmas, “Fanny’s Extraordinary World” and “Throughout the Years.” The crime lineup features “Cold Case Diaries,” “Dark Motives,” “Mordach” and “The Wolf Hunt,” while the family-focused content includes [ ]
+Prime Video premiered a new trailer for “Bloodaxe,” which hits the streamer on Jan. 20, 2027. The teaser debuted at a New York Comic Con panel with showrunners Michael Hirst and Horatio Hirst, as well as cast members Xavier Molyneux, Jessica Madsen and Levi Miller. Season 1 of “Bloodaxe” follows the rise of Erik Bloodaxe [ ]
 
-### SkyShowtime’s ‘The Homicide Unit,’ From Warner Bros., and Iceland’s ‘Fjord’ Boarded by Reinvent Yellow Sales (EXCLUSIVE)
-Fri, 09 Oct 2026 07:30:00 +0000 — https://variety.com/2026/tv/global/the-homicide-unit-fjord-reinvent-yellow-sales-mipcom-1236905990/
+### Guillermo del Toro, Diego Luna, Alfonso Cuarón to Attend Morelia Fest as Director Daniela Michel Sees Shift to Intimate Mexican Stories
+Fri, 09 Oct 2026 18:02:07 +0000 — https://variety.com/2026/film/global/guillermo-del-toro-alfonso-cuaron-morelia-film-festival-1236902304/
 
-SkyShowtime’s “The Homicide Unit” produced by Warner Bros. International Television Production (WBITVP) Sweden, and Iceland’s “Fjord” have been added to Reinvent Yellow Sales’ Mipcom slate.The two crime shows feature top female investigators played by internationally acclaimed Nordic theps, Swedish star Pernilla August (“Blackwater,” ”Star Wars: Episode I The Phantom Menace”) and Iceland’s Anita Briem [ ]
+At least two of the Tres Amigos are attending the 24th Morelia International Film Festival (FICM) this year, with Guillermo del Toro breezing into town to toast the 20th anniversary of his iconic “Pan’s Labyrinth” while Cuarón attends opening night film “Campeón Gabacho” by his son Jonas Cuarón, which he produced. The fest will be [ ]
 
-### John Rhys-Davies, Diego Boneta Fantasy ‘Starbright’ Boarded by Cappu Films Ahead of Busan Market (EXCLUSIVE)
-Fri, 09 Oct 2026 07:26:27 +0000 — https://variety.com/2026/film/markets-festivals/john-rhys-davies-fantasy-starbright-cappu-busan-1236906361/
+### Laika Submits Original Song From Wildwood for Oscars, The Better Part of Bravery, Performed by The Decemberists (EXCLUSIVE)
+Fri, 09 Oct 2026 18:00:00 +0000 — https://variety.com/2026/artisans/awards/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575/
 
-International sales on “Starbright,” Francesco Lucente’s English-language fantasy adventure starring John Rhys-Davies, Diego Boneta and Alexandra Dowling, have gone to Cappu Films, which sealed the deal on the eve of the Busan International Film Festival s Asian Contents Film Market. Dowling plays Aisling, a young woman who makes a wish on a shooting star and [ ]
+Laika will submit “The Better Part of Bravery” from the animated feature “Wildwood” for consideration in the original song category at the Academy Awards, Variety has learned. The song is performed by The Decemberists and plays at the end of the film. “Wildwood” follows teenager Prue McKeel (Peyton Elizabeth Lee) on a desperate mission to [ ]
 
-### How ‘Dying to Survive’ Director Wen Muye Turned a Cook’s War Into $342 Million China Smash ‘Once Upon a Time in the Middle East’: ‘I Never Think About Social Issues in Advance’
-Fri, 09 Oct 2026 07:16:44 +0000 — https://variety.com/2026/film/news/once-upon-time-middle-east-director-wen-muye-1236906350/
+### Danny Boyle Says Third 28 Years Later Is On the Back Burner, Explains Why He Put an AI Margaret Thatcher in Ink
+Fri, 09 Oct 2026 17:50:41 +0000 — https://variety.com/2026/film/global/danny-boyle-28-years-later-third-back-burner-ai-1236906545/
 
-Xu Fu went to the Middle East for the money. The Shenyang cook, played by Shen Teng in “Once Upon a Time in the Middle East,” takes the head-chef job at the Dragon Restaurant because the pay could help clear his family’s debts. When war breaks out, he is shaken from his sleep and runs [ ]
+The third 28 Years Later film is unlikely to be arriving anytime soon, Danny Boyle has warned. Despite being tee d up in the closing scenes of 28 Years Later: The Bone Temple, the director said the film was currently not a priority. Alex [Garland] has written a fantastic script. We just need money. But I [ ]
 
 ## The Hollywood Reporter
 
-### Skydance s Gerhard Zeiler, Warner Bros. Int l President, to Depart With Eyes on Politics
-Fri, 09 Oct 2026 10:49:07 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-gerhard-zeiler-exit-eyes-political-role-1236726118/
+### American Horror Story and Six Things We Learned From a Night With the Coven
+Fri, 09 Oct 2026 18:47:51 +0000 — https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-coven-secrets-lange-paulson-1236726388/
 
-"It is surprisingly difficult to find the right words to say goodbye," the Austrian writes in an internal memo obtained by The Hollywood Reporter. "At the end of next week, I will leave the company."
+Jessica Lange, Sarah Paulson, Billie Lourd, Gabourey Sidibe and Leslie Grossman, along with co-executive producer Lou Eyrich, joined The Hollywood Reporter at PaleyFest for a night spent discussing the beloved FX horror anthology series from Ryan Murphy.
 
-### Sofia Coppola Plans Return to Narrative Film, But Has Her Late Mother s Making Marie Antoinette to See Off First
-Fri, 09 Oct 2026 09:46:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sofia-coppola-making-marie-antoinette-eleanor-london-film-1236726091/
+### Sadie Sink in Talks to Star in The Guest , Based on Emma Cline s Bestseller
+Fri, 09 Oct 2026 18:35:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sadie-sink-in-talks-star-produce-the-guest-1236726415/
 
-The filmmaker spoke tenderly about seeing herself "through her mother's eyes" in the documentary, though recalled about lead star Kirsten Dunst: "At the time, people didn't like her performance."
+Writer director Lorene Scafaria is in talks to direct for A24, with Sink and Square Peg producing.
 
-### Disney’s Jon Wax Says Buzzy K-Drama ‘The Remarried Empress’ Has Substance to Match Its Spectacle
-Fri, 09 Oct 2026 08:29:18 +0000 — https://www.hollywoodreporter.com/movies/movie-news/disney-the-remarried-empress-has-substance-spectacle-1236726072/
+### Rebecca Ferguson, Greta Lee’s MRC Rom-Com ‘Honeymoon / Funeral’ Goes to Black Bear
+Fri, 09 Oct 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rebecca-ferguson-greta-lee-honeymoon-funeral-black-bear-1236726324/
 
-Speaking at an MPA and Disney+ event during the Busan International Film Festival, the executive surveyed Disney’s Asian originals slate and discussed the trends shaping the region’s streaming business, from Korean co-productions to opportunities in anime.
+The gay romancer from director Nahnatchka Khan also stars Carrie Coon and was first shopped at Toronto: The Market by FilmNation.
 
-### Queer Edward II Gives an Inside Look at Derek Jarman’s Film and Timely Historical Snapshot of a Queer Rights Backlash
-Fri, 09 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/queer-edward-ii-film-derek-jarman-queer-rights-backlash-lff-1236725662/
+### The Social Reckoning Arrives, Jessica Chastain Premieres Other Mommy and This Week s Best Events
+Fri, 09 Oct 2026 18:25:08 +0000 — https://www.hollywoodreporter.com/gallery/social-reckoning-other-mommy-red-carpet-events-1236721621/
 
-Theo Rollason discusses his feature directorial debut, exec produced by Tilda Swinton and Sandy Powell, now screening at the London Film Fest, and how “anti-trans rhetoric and attacks on queer rights [are] again intensifying.”
+Inside this week's biggest Hollywood premieres, parties and openings.
 
-### Why BBC Studios Hired a Channels Streaming Iberia Team: Execs Outline Growth Opportunities
-Fri, 09 Oct 2026 07:15:00 +0000 — https://www.hollywoodreporter.com/business/business-news/wbbc-studios-channels-streaming-iberia-team-growth-interview-1236725704/
+### Keri Russell Told Matthew Rhys He Didn t Have to Thank Her If He Won at the Emmys
+Fri, 09 Oct 2026 18:09:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/keri-russell-told-matthew-rhys-not-to-thank-her-emmys-2026-1236726397/
 
-“Spain has become one of BBC Studios' most developed digital markets in EMEA,” says country manager David Urgell Pérez.
+After the 'Widow's Bay' and 'Beast in Me' actor won for his lead roles in the comedy and limited series, the internet was abuzz with fans wondering why Rhys didn't use his multiple appearances onstage to express his appreciation for his longtime partner.
 
-### Avatar: Seven Havens Review: Paramount+ s Promising Addition to a Beloved Fantasy Franchise
-Fri, 09 Oct 2026 07:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/avatar-seven-havens-review-paramount-1236723958/
+### Screen Gems Shocker: Sony Brings in YouTube Exec Fede Goldenberg to Run Genre Label in Pivot to Digital Creators (Exclusive)
+Fri, 09 Oct 2026 18:06:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/screen-gems-fede-goldenberg-to-run-genre-label-1236726049/
 
-Co-creators Michael Dante DiMartino and Bryan Konietzko return with a new fantasy series set after the events of 'The Last Airbender' and 'The Legend of Korra.'
+Current head Ashley Brucks exiting to a producing deal with the studio.
 
-### Oasis Documentary Don t Look Back in Anger Hits Streaming: Where to Watch Online
-Fri, 09 Oct 2026 05:30:48 +0000 — https://www.hollywoodreporter.com/movies/movie-news/stream-oasis-dont-look-back-in-anger-2026-documentary-free-1236725621/
+### Sibling Rivalry: Audrey Hobert and Malcolm Todd Face Off at the Grammys
+Fri, 09 Oct 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/siblings-audrey-hobert-malcolm-todd-grammys-1236723320/
 
-Initially released in theaters and Imax following its Venice premiere, the critically-acclaimed film provides unprecedented access to the English rock band's 2025 reunion tour.
+The duo could become the first brother and sister ever to compete for best new artist in the same year.
 
-### Jessica Lange, Sarah Paulson and the Coven on What Brought Them Back to American Horror Story — and If This Is the End
-Fri, 09 Oct 2026 05:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/ahs-13-coven-jessica-lange-sarah-paulson-interview-1236725748/
+### Pretty Little Liars Alum Keegan Allen Assaulted and Robbed at Gunpoint, Shares Bloody Video
+Fri, 09 Oct 2026 17:51:21 +0000 — https://www.hollywoodreporter.com/news/general-news/pretty-little-liars-keegan-allen-assaulted-robbed-gunpoint-1236726301/
 
-Billie Lourd, Gabourey Sidibe and Leslie Grossman also spoke with The Hollywood Reporter about the all-star 13th season of the hit FX horror anthology, and how Ryan Murphy lured them all back after years away, for some.
+"West Hollywood is not safe anymore," the actor said in an Instagram post following the attack.
 
-### Crystal Lake Will Offer More Brutal Kills Than Films, Go Deep on Jason s Background
-Fri, 09 Oct 2026 03:38:49 +0000 — https://www.hollywoodreporter.com/tv/tv-news/crystal-lake-friday-the-13th-series-jason-1236726004/
+### Jessica Chastain on Other Mommy Going Viral and Challenging Friend Aaron Sorkin at the Box Office
+Fri, 09 Oct 2026 17:46:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jessica-chastain-other-mommy-viral-aaron-sorkin-box-office-1236726006/
 
-The 'Friday the 13th' origin series will feature “shot-for-shot” recreations of film scenes — but no hockey mask — while also showcasing Pamela Voorhees rage via star Linda Cardellini.
+The star debuted her buzzy horror film in L.A. on Thursday, ahead of its opening weekend face-off with 'The Social Reckoning.'
 
-### Alfonso Cuarón Reflects on Making Harry Potter : Two of the Most Beautiful Years of My Life
-Fri, 09 Oct 2026 02:46:35 +0000 — https://www.hollywoodreporter.com/movies/movie-news/alfonso-cuaron-harry-potter-children-of-men-busan-1236725983/
+### With Below, Charlie Heaton Digs Into His Next Big Sci-Fi Adventure
+Fri, 09 Oct 2026 17:26:21 +0000 — https://www.hollywoodreporter.com/tv/tv-features/charlie-heaton-below-netflix-peaky-blinders-interview-1236725632/
 
-At a Busan Film Festival master class with ‘Train to Busan’ director Yeon Sang-ho, the Oscar-winning filmmaker reflected on the lessons of ‘Children of Men’ and learning to put life before cinema.
+The 32-year-old actor has been filming a slew of projects over the last year, including the Netflix limited series and an upcoming 'Peaky Blinders' sequel.
 
 ## Deadline
 
-### Symbioz Films Boards Cutthroat Istanbul Real Estate World-Set Drama ‘Sevda’ Unveils Trailer
-Fri, 09 Oct 2026 11:19:44 +0000 — https://deadline.com/2026/10/symbioz-istanbul-real-drama-sevda-trailer-1237150845/
+### Francis Coppola’s ‘Megalopolis’ Back In Theaters
+Fri, 09 Oct 2026 18:50:53 +0000 — https://deadline.com/2026/10/francis-coppola-megalopolis-back-in-theaters-1237151227/
 
-EXCLUSIVE: Symbioz Films has boarded sales on Swiss Turkish director Ufuk Emiroglu s debut fiction feature Sevda, set against the backdrop of Istanbul’s cutthroat real estate world, and released a trailer. The film, which world premiered at the Zurich Film Festival in September, takes its title from protagonist Sevda, a real estate developer who has played [ ]
+EXCLUSIVE: For the first time since its 2024 launch, Francis Ford Coppola’s Megalopolis will return to theaters in a limited engagement that will allow audiences to interact with the iconic director. Coppola decided when he self-financed and shot the provocative film that it would not be put through any domestic-based streaming services or DVDs produced [ ]
 
-### Digger Delights Homeland Star Mandy Patinkin: One Of The Greatest Films I Have Ever Seen
-Fri, 09 Oct 2026 10:55:28 +0000 — https://deadline.com/2026/10/digger-delights-mandy-patinkin-one-greatest-films-1237150824/
+### Katie Zacharia Offered Job As Donald Trump s Next White House Press Secretary
+Fri, 09 Oct 2026 18:45:41 +0000 — https://deadline.com/2026/10/katie-zacharia-trump-press-secretary-1237151232/
 
-Mandy Patinkin really digs Digger. In an effusive video message, posted soon after watching Digger in a theater, the Homeland star implored his followers to ignore the haters and watch Tom Cruise s ecological disaster movie. Patinkin described Alejandro G. Iñárritu-directed Digger as an instant classic and said it was one of the greatest pieces of [ ]
+President Donald Trump has selected his next White House press secretary: Katie Zacharia, a conservative commentator. A White House official confirmed that she had been offered the job, but it was unclear whether she has accepted. Zacharia has been the senior communications adviser to the Trump Media Technology Group, the parent company of Trump s [ ]
 
-### TIFF Lightbox Sets Animation Season Guest Curated By Masaaki Yuasa
-Fri, 09 Oct 2026 10:50:48 +0000 — https://deadline.com/2026/10/tiff-lightbox-masaaki-yuasa-animation-season-1237150833/
+### Black Bear Acquires Nahnatchka Khan Rom-Com Honeymoon / Funeral Starring Rebecca Ferguson, Greta Lee Carrie Coon; Pic Hails From MRC
+Fri, 09 Oct 2026 18:30:00 +0000 — https://deadline.com/2026/10/honeymoon-funeral-acquired-black-bear-1237151111/
 
-Katsuhiro Ôtomo’s Akira and Lee Unkrich’s Toy Story 3 are among the animated titles that will screen at the TIFF Lightbox as part of Drawn Universes: Visions in Animation, the animation season guest-curated by veteran Japanese filmmaker Masaaki Yuasa. Drawn Universes: Visions in Animation will run from November 19 to December 29 at TIFF Lightbox. [ ]
+Black Bear has acquired domestic rights to Honeymoon / Funeral, an MRC rom-com starring Rebecca Ferguson, Greta Lee and Carrie Coon that wrapped production in September. Sources said the project is one of a handful to have been successfully shopped at the newly created TIFF market, alongside Josh Giuliano s horror flick River and the Michelle [ ]
 
-### Sitges-Bound Cypriot Horror ‘Motherwitch’ Sells To North America
-Fri, 09 Oct 2026 09:15:59 +0000 — https://deadline.com/2026/10/sitges-cypriot-horror-motherwitch-north-america-1237150808/
+### Prime Video Unveils Bloodaxe Release Date Teaser
+Fri, 09 Oct 2026 18:15:00 +0000 — https://deadline.com/2026/10/bloodaxe-release-date-teaser-michael-hirst-prime-video-1237150819/
 
-EXCLUSIVE: L.A.-based Dark Star Pictures has acquired North American rights for Cyprus-set horror Motherwitch ahead of its screening in the Sitges International Fantastic Film Festival of Catalonia next week. The acquisition was brokered by Arnaud Chevalier under the banner of his Paris-based sales boutique B-Rated International Sales. In further deals the film has sold to [ ]
+Prime Video has revealed that its highly-anticipated historical series Bloodaxe will launch on January 20, 2027. The team behind the Michael Hirst and Horatio Hirst series also unveiled a first-look teaser at New York Comic Con Friday, which can be watched above. The series chronicles the rise of Norse raiders Erik Bloodaxe (Xavier Molyneux) and [ ]
 
-### Icelandic Drama Elma Set For Siminn Bow As Glassriver Debuts NCU At MIPCOM
-Fri, 09 Oct 2026 08:32:57 +0000 — https://deadline.com/2026/10/iceland-drama-elma-siminn-ncu-mipcom-1237150792/
+### Havana Rose Liu Stars In Crime Pilot Ordered By FX From Hiro Murai Wong Kar Wai
+Fri, 09 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/hiro-murai-fx-pilot-havana-rose-liu-starring-1237151135/
 
-EXCLUSIVE: Icelandic crime thriller series Elma, will launch domestically on Síminn s streaming service on October 15, as its producer brings new title NCU to MIPCOM. Elma, adapted from global bestselling author Eva Björg Ægisdóttir’s book series, is set in the small port town of Akranes in Iceland. It will launch via Icelandic telecommunications company Síminn [ ]
+EXCLUSIVE: Here s an interesting order: FX has set Havana Rose Liu to star in a crime drama pilot from Widow s Bay Emmy winner Hiro Murai and famed Hong Kong filmmaker Wong Kar Wai that shoots in Bangkok later this month. Developed from an original story by Wong, the pilot revolves around a petty criminal who [ ]
 
-### Skydance UK Network 5 s Profit Drops By Two-Thirds Amid Streaming Investment Ad Woes
-Fri, 09 Oct 2026 08:21:10 +0000 — https://deadline.com/2026/10/skydance-5-profit-drops-streaming-investment-1237146522/
+### Bill Pohlad s Next Film Miles Juliette Starring Damson Idris And Anamaria Vartolomei Rounds Out Cast As Production Begins; First Image Unveiled
+Fri, 09 Oct 2026 17:30:00 +0000 — https://deadline.com/2026/10/bill-pohlad-miles-juliette-damson-idris-anamaria-vartolomei-1237151099/
 
-5, the UK television network that sits within David Ellison s newly minted Skydance empire, posted a 64% decline in profit last year. The British broadcaster s pre-tax profit stood at £11.93 million ($15.8M) in 2025, down nearly two-thirds from £33.6M the previous year, according to earnings published on UK s Companies House. The network, previously known as [ ]
+EXCLUSIVE: Miles Juliette, the new feature from Oscar-nominated filmmaker Bill Pohlad and his River Road Entertainment, has started production in Paris. The film stars Damson Idris as Miles Davis and Anamaria Vartolomei as Juliette Gréco. Joining Idris and Vartolomei are J. Alphonse Nicholson as Kenny “Klook” Clarke, Jay Reeves as Tadd Dameron, Grammy-winning musician [ ]
 
-### Diane Warren To Write Original Song For Armani: The King Of Fashion
-Fri, 09 Oct 2026 08:05:59 +0000 — https://deadline.com/2026/10/diane-warren-write-original-song-armani-the-king-of-fashion-1237150784/
+### Sadie Sink And Lorene Scafaria Eyeing Adaptation Of Emma Cline s The Guest At A24 And Square Peg
+Fri, 09 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475/
 
-EXCLUSIVE: Perennial Oscar nominee Diane Warren is set to write an original song for Armani: The King of Fashion, the upcoming biopic of the fashion icon directed by Bille August. The attachment of Warren reunites her with Italian producer Andrea Iervolino after their collaboration on Tell It Like A Woman, whose song was Oscar-nominated, and [ ]
+EXCLUSIVE: Emma Cline s bestselling novel The Guest, looks to be headed to the big screen as Deadline is hearing A24 and Square Peg are in negotiations for rights to the book, with Sadie Sink in talks to star in and Lorene Scafaria in talks to write and direct a feature film. Sink will also produce [ ]
 
-### Reelz To Follow The CW s Police 24/7 ; Sky Remains On The Case For Season 3
-Fri, 09 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/reelz-buys-police-247-sky-season-3-1237150749/
+### Ed Quinn Stephanie Koenig To Recur On Scrubs For Season 2; Punkie Johnson Kellan Tetlow To Guest Star
+Fri, 09 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/scrubs-season-2-ed-quinn-punkie-johnson-cast-1237151014/
 
-EXCLUSIVE: Following strong ratings on The CW, Police 24/7 is opening new outposts. Reelz has struck a second-window deal for Seasons 1 and 2 of the blue-lights show in which law-enforcement agencies across the United States are followed across multiple jurisdictions and stories — from routine traffic stops and domestic calls to high-speed pursuits, armed [ ]
+EXCLUSIVE: ABC s Scrubs has added four new cast members for Season 2: Ed Quinn (The Oval), Stephanie Koenig (Lessons in Chemistry), Punkie Johnson (The Chi) and Kellan Tetlow (This Is Us). In Season 2 of the 30-minute revival, J.D. (Zach Braff), Turk (Donald Faison) and Elliot (Sarah Chalke) have leveled up from interns to icons [ ]
 
-### Daughter Of Dead BBC Paddington Star Accuses Royal Mail Of Resurrecting Her Father s Voice Using AI: It s Outrageous
-Fri, 09 Oct 2026 05:36:27 +0000 — https://deadline.com/2026/10/paul-vaughan-bbc-paddington-ai-royal-mail-1237149879/
+### Philadelphia Film Festival To Honor Tim Blake Nelson For Artistic Achievement In Directing
+Fri, 09 Oct 2026 16:41:04 +0000 — https://deadline.com/2026/10/philadelphia-film-festival-tim-blake-nelson-directing-award-1237150720/
 
-EXCLUSIVE: Lucy Wynne can’t just watch TV. She’s usually scribbling, talking, or scrolling with half an eye on the big screen. On the day she heard her dead Dad’s voice reverberate around her living room, Wynne froze. It was November 2025, 11 years after her father had passed. She had been reminded of his anniversary [ ]
+Tim Blake Nelson will accompany his TIFF-premiering prison drama The Life And Deaths Of Wilson Shedd to the Philadelphia Film Festival later this month to be honored with the Artistic Achievement in Directing Award. PFF’s 35th edition is set for Oct. 15-25 presented by nonprofit Philadelphia Film Society. The Life And Deaths Of Wilson Shedd [ ]
 
-### Hugh Hefner s Widow Asks Jessica Biel Please Reconsider Starring In Playmates
-Fri, 09 Oct 2026 03:23:46 +0000 — https://deadline.com/2026/10/hugh-hefner-widow-jessica-biel-please-reconsider-playmates-1237150727/
+### Jinko Gotoh Succeeding Marge Dean As President Of WIA
+Fri, 09 Oct 2026 16:30:00 +0000 — https://deadline.com/2026/10/jinko-gotoh-named-president-wia-1237150925/
 
-Nearly a decade after his death, Hugh Hefner s widow is expressing her disapproval of a coming-of-age story inspired by her late husband. Crystal Hefner, who was married to the Playboy founder from 2012 until his death at age 91 in 2017, shared a screenshot of an Instagram DM she sent to Jessica Biel asking her [ ]
+EXCLUSIVE: WIA, the global nonprofit championing women, non-binary, and underrepresented talent across animation, VFX, and gaming, has named Oscar-nominated producer Jinko Gotoh as its new President. Gotoh succeeds Marge Dean, Head of Skybound Animation Studio, who concludes a 13-year run as President this month. Previously, she d served alongside Dean as the organization s Vice President for [ ]
 
-### Freddy vs. Jason s Monica Keena Recalls Killing Freddy Krueger Was Really Cathartic After Nightmare on Elm Street Traumatized Me
-Fri, 09 Oct 2026 02:11:47 +0000 — https://deadline.com/2026/10/freddy-vs-jason-monica-keena-killing-freddy-krueger-cathartic-1237150721/
+### Lioness Actor Dave Annable Signs With Range Media Partners
+Fri, 09 Oct 2026 16:30:00 +0000 — https://deadline.com/2026/10/lioness-dave-annable-range-media-partners-1237151030/
 
-After 23 years, Monica Keena is reliving her final girl moment in the ultimate horror crossover. The Freddy vs. Jason actress recalled why it was really cathartic killing off Robert Englund s Freddy Krueger in the 2003 Ronny Yu-helmed slasher after his performance in A Nightmare On Elm Street (1984) did a number on her as [ ]
+EXCLUSIVE: Range has signed actor Dave Annable for representation. Annable stars in Taylor Sheridan’s Paramount+ series Lioness playing the husband of station chief Zoe Saldaña. The show, which also stars Nicole Kidman and Morgan Freeman, just wrapped its third season which premiered in August with 7.1M viewers in its first week, significantly higher than its [ ]
 
-### Charlie Cox Shouts Out Save Daredevil Campaign At NYCC After Disney+ Cancels Born Again
-Fri, 09 Oct 2026 01:31:28 +0000 — https://deadline.com/2026/10/charlie-cox-save-daredevil-campaign-1237150712/
+### FCC Chairman Declines To Say Whether Broadcast Outlets Should Be Allowed To Air Live Execution, But It s Doubtful Networks Would Show It Anyway
+Fri, 09 Oct 2026 16:24:56 +0000 — https://deadline.com/2026/10/fcc-live-execution-pentagon-pete-hegseth-1237150944/
 
-Following last month s cancellation of Daredevil: Born Again, Charlie Cox is fueling hope that some blind justice will prevail. While teasing the third and final season of the Disney+ series with his co-stars at New York Comic Con, the actor shouted out fans behind the Save Daredevil campaign as the panel s moderator mentioned the show s [ ]
+The Pentagon announcement that it plans to livestream the execution of the Fort Hood shooter in December has generated an outcry from public officials and religious figures, including the president of the U.S. Conference of Catholic Bishops. None of the networks have yet to comment publicly on whether they would air such an event, and [ ]
 
 ## befores & afters
+
+### The crazy vehicle they built for The Bat
+Fri, 09 Oct 2026 14:13:03 +0000 — https://beforesandafters.com/2026/10/10/the-crazy-vehicle-they-built-for-the-bat/
+
+Behind the motion base vehicle, the wire work and the incredible VFX work by DENG for The Bat in The Dark Knight Rises. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy ‘WOAH! Great Moments in Effects History Vol. 1’ by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post The crazy vehicle they built for The Bat appeared first on befores & afters .
 
 ### Beast Man was fully CG (and the plates shot at a former RAF runway)
 Fri, 09 Oct 2026 08:05:59 +0000 — https://beforesandafters.com/2026/10/09/beast-man-was-fully-cg-and-the-plates-shot-at-a-former-raf-runway/
@@ -179,6 +184,46 @@ Thu, 08 Oct 2026 15:54:14 +0000 — https://beforesandafters.com/2026/10/09/new-
 Issue #67 of befores & afters magazine covers the visual effects of Masters of the Universe. DIGITAL MAGAZINE members can download the issue right now from the shop post. Inspired by the original animated series that introduced He-Man and the world of Eternia to audiences in the 1980s, Travis Knight’s Masters of the Universe brings the iconic mythology into live-action for a new generation. The film, from Amazon MGM Studios, follows the story of Adam (Nicholas Galitzine), separated from his home world as a child after an attack by Skeletor (Jared Leto). Adam then returns to Eternia 15 years later after rediscovering the Sword of Power. With Skeletor now ruling the kingdom, Adam must reunite with his allies, reclaim his identity as He-Man and save his family and his world. Realizing that world on screen required a substantial practical and digital effects effort. From the vast landscapes of Eternia and Castle Grayskull to fantastical creatures— including He-Man’s sidekick Cringer—effects artists had to translate the distinctive look and spirit of Masters of the Universe into a convincing live-action universe. The visual effects effort was led by visual effects supervisors David Vickery and Tim Burke, with Rich Yeomans serving as visual effects producer. Chris Corbould was the film’s special effects supervisor. Prosthetics designer Barrie Gower was responsible for several practical make-up effects and prosthetics appliances on the show. VFX vendor- wise, the work was led by Ind
 
 ## IndieWire
+
+### Greta Lee, Rebecca Ferguson, and Carrie Coon Rom-Com Honeymoon/Funeral Lands at Black Bear
+Fri, 09 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/breaking-news/greta-lee-rebecca-ferguson-carrie-coon-honeymoon-funeral-1235221141/
+
+"Always Be My Maybe" director Nahnatchka Khan is directing the film from MRC that was shopped at the TIFF Market.
+
+### Tony Gilroy on Pedro Pascal, ‘Behemoth!,’ and How Disney Never Told Him Not to Discuss Fascism During Andor Press
+Fri, 09 Oct 2026 18:15:00 +0000 — https://www.indiewire.com/features/podcast/tony-gilroy-disney-never-told-me-not-discuss-fascism-andor-1235221100/
+
+The "Behemoth!" writer/director joined IndieWire's Anne Thompson and Ryan Lattanzio for a "Screen Talk" Live podcast at the New York Film Festival.
+
+### Fall Festival Movies Sold So Far: Venice Orizzonti Prize Winner A Day in the Life of Jo: Chapter Phaedra Lands at 1-2 Special
+Fri, 09 Oct 2026 16:39:30 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
+
+The coming-of-age story — with a cosmic twist — from director Jacqueline Lentzou had its North American premiere at the New York Film Festival.
+
+### Anatomy of a Prom: How Mike Flanagan Climbed the ‘Everest’ of Horror Sequences for Carrie
+Fri, 09 Oct 2026 16:31:18 +0000 — https://www.indiewire.com/features/craft/carrie-prom-sequence-making-of-mike-flanagan-interview-1235221098/
+
+Series creator Mike Flanagan and VFX supervisor Becky Philpott tell IndieWire how they pulled off a prom that's deadly in its own way in Prime Video's "Carrie."
+
+### Meryl Streep Almost Didn t Watch the Six-Hour My Undesirable Friends — Then, Colin Firth Led Her to Executive Produce It
+Fri, 09 Oct 2026 15:30:00 +0000 — https://www.indiewire.com/features/interviews/how-meryl-streep-executive-produced-my-undesirable-friends-1235221050/
+
+Julia Loktev tells IndieWire about globetrotting as a one-woman crew to follow the now-exiled Russian and Ukrainian journalists who fled home after Putin's invasion.
+
+### Criterion Finally Gives Americans the Chance to See Kubrick s Preferred Cut of The Shining — but Which Version Is Better?
+Fri, 09 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/the-shining-criterion-edition-us-vs-international-cut-1235220579/
+
+Director Stanley Kubrick edited two different versions of his Stephen King adaptation, and they yield quite different emotional responses — a new Criterion boxed set provides the opportunity to compare.
+
+### Are There Too Many Horror Movies?
+Fri, 09 Oct 2026 13:15:00 +0000 — https://www.indiewire.com/features/commentary/are-there-too-many-horror-movies-1235220991/
+
+A crowded October calendar, filmmaker Joseph Kahn's recent Hollywood Reporter festival column, and excited fans complaining of burnout raise different questions about the genre's popularity.
+
+### Bird in Hand Trailer: A Wedding on Rebranded Plantation Is Just the Start in Farcical Film Unafraid of Real Drama
+Fri, 09 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/trailers/bird-in-hand-trailer-melody-c-roscher-1235220848/
+
+Exclusive: Melody C. Roscher's feature filmmaking debut draws on her own life, combining the outrageous and the very real indeed.
 
 ### Submit Your Short to This Italian Film Festival and Nicolas Winding Refn s Jury, and MUBI Could Distribute It
 Fri, 09 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/news/general-news/submit-your-short-film-to-corto-condorello-2026-1235220959/
@@ -200,147 +245,107 @@ Thu, 08 Oct 2026 22:00:00 +0000 — https://www.indiewire.com/criticism/movies/9
 
 NYFF: Apichatpong Weerasethakul’s longtime collaborator makes a fascinating case for himself in his debut narrative feature about a Thai family wrestling with faith and death.
 
-### Inside Nerve Center, InfoWars New Flagship Show That Wants to Hold Every Possible Opinion at Once
-Thu, 08 Oct 2026 21:30:00 +0000 — https://www.indiewire.com/features/interviews/nerve-center-infowars-new-show-1235220705/
-
-Exclusive: Hosts Patti Harrison and David Brown and director Alan Resnick tell IndieWire about assembling the nuttiest corners of the internet for one insane show.
-
-### TCM Sticking Around Under Skydance, to Be Overseen by Film Group Instead of TV Team
-Thu, 08 Oct 2026 21:25:34 +0000 — https://www.indiewire.com/news/business/tcm-sticking-around-under-skydance-1235220941/
-
-Dana Goldberg and Josh Greenstein will have oversight of the cable channel after Mike De Luca and Pam Abdy previously led it at Warner Bros.
-
-### Crazy Rich Asians Series Ordered at HBO with Film s Original Cast Returning
-Thu, 08 Oct 2026 21:00:10 +0000 — https://www.indiewire.com/news/breaking-news/crazy-rich-asians-series-hbo-original-cast-returning-1235220956/
-
-Adele Lim, who co-wrote the 2018 romantic comedy, will showrun and executive produce the hour-long drama series.
-
-### Below Review: Josh Hartnett s Silly Netflix Creature-Feature Is a Treat for the Eyes and Ears and Not Much Else
-Thu, 08 Oct 2026 21:00:00 +0000 — https://www.indiewire.com/criticism/shows/below-review-josh-hartnett-squid-netflix-series-1235220800/
-
-OK, the Newfoundland-set and -shot series also looks good, but the six-part series about an underwater monster terrorizing a small Canadian fishing village gets stranded between goofy thrills and meaningful drama. The accents, though — magnificent.
-
-### Cupertino Review: Robert and Michelle King s Slick and Spiky Legal Drama Takes on Today s Most Noxious Tech
-Thu, 08 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/criticism/shows/cupertino-review-robert-and-michelle-king-legal-drama-1235220382/
-
-In "The Good Fight" creators' latest whipsmart procedural, Mike Colter and Rachel Keller play lawyers representing the little guys exploited by Big Tech — including viewers exasperated by Silicon Valley's predatory disruptions, from Flock cameras to A.I.
-
-### Chris Rock Stopped Trying to Imitate Adam Sandler, and Came Out of the Arthouse Closet
-Thu, 08 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/features/interviews/chris-rock-stopped-imitate-sandler-misty-green-directing-1235220836/
-
-“Your edgy movie should feel edgier than an episode of ‘White Lotus,’" said Rock of making "Misty Green."
-
-### What Awards Is You Can See Everything Even Eligible for?
-Thu, 08 Oct 2026 18:44:30 +0000 — https://www.indiewire.com/awards/industry/what-awards-you-can-see-everything-eligible-for-1235220881/
-
-Although Nathan Fielder mostly makes projects classified as documentaries, he's been submitted for awards consideration before for playing himself. Could a campaign like that help "You Can See Everything" receive Oscar nominations?
-
-### Matchbox: The Movie Review: If Skydance s Theatrical Releases Are as Blandly Algorithmic as Its Streaming Ones, Hollywood Is Already Dead
-Thu, 08 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/matchbox-the-movie-review-apple-tv-1235220594/
-
-Small cars inspire a big whiff in an Apple streaming movie that stars John Cena as a CIA agent who has to retrieve a stolen nuke with his childhood friends.
-
 ## The Wrap
 
-### ‘Avatar: Seven Havens’ Review: Wondrous, Inventive Paramount+ Spinoff Is Worth the Wait
-Fri, 09 Oct 2026 07:00:00 +0000 — https://www.thewrap.com/creative-content/reviews/avatar-seven-havens-review-paramount-plus/
+### Trump Picks Conservative Media Commentator Katie Zacharia as White House Press Secretary
+Fri, 09 Oct 2026 18:43:20 +0000 — https://www.thewrap.com/media-platforms/politics/katie-zacharia-trump-white-house-press-secretary/
 
-A lot is riding on “Avatar: Seven Havens.” It has been over 20 years since creators Michael Dante DiMartino and Bryan Konietzko introduced us to the rich element-bending world of “Avatar: The Last Airbender,” which first premiered on Nickelodeon and eventually cemented its place as one of the greatest animated series of our time. Aside from the “Avatar Aang” film released to Paramount+ earlier this year, it’s been a long 12 years since the universe has progressed forward. At long last, “Seven Havens” brings us a new Avatar, and in some ways, a completely new take on the franchise. Based on the first six episodes provided to critics, “Seven Havens” is a marvel. There are some kinks that take a few episodes to warm up to, like a more childish-than-expected tone and some flat animation — but they hardly detract from the series’ compelling stories, immediately affable characters, and world-building so rich it is a resounding reminder why this universe is so special and worthy of acclaim. “Seven Havens” takes place 225 years after “The Legend of Korra,” and introduces a new world order. Benders and non-benders alike now believe that Korra, the last Avatar tasked with maintaining balance between the four nations, went berserk and caused a world-ending cataclysm that has effectively caused a climate change apocalypse. Gone are the days of Ba Sing Se and the technological revolution of Republic City; the population now resides in seven fortified mixed-bending “havens” that protect th
+President Donald Trump has offered conservative media commentator Katie Zacharia the job of White House press secretary, a White House official confirmed to TheWrap on background Friday. The offer, first reported by The New York Times , would put the Trump Media adviser in line to succeed Karoline Leavitt, who left the role in August. The selection would continue the revolving door between the Trump administration and conservative media. Zacharia currently advises Trump Media and Technology Group, the parent company of Truth Social, and frequently appears on Fox News. Meanwhile, Leavitt is preparing to join Fox News as an on-air contributor next month. Zacharia would also inherit a White House press operation facing a growing battle over media access. The administration has welcomed podcasters and influencers into its briefings while fighting CNN, MS NOW and Politico in federal court over restrictions on their press credentials. “The President has offered Katie Zacharia the position,” a White House official told TheWrap. Zacharia previously served as a spokesperson for former Homeland Security Secretary Kristi Noem and has worked with Fix California, a conservative nonprofit founded by Trump ally Ric Grenell. The California-based commentator has regularly appeared on conservative television discussing politics and the Trump administration. Her selection comes days after Fox News announced that Leavitt would join the network as a contributor beginning Nov. 1, providing politic
 
-### Jimmy Kimmel Taunts Trump Ahead of Nobel Peace Prize Reveal: Will Not Be You
-Fri, 09 Oct 2026 05:18:32 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-taunts-trump-nobel-peace-prize-expected-snub/
+### Sony Pictures Names YouTube’s Fede Goldenberg Head of Screen Gems as Label Pivots to Digital Creators
+Fri, 09 Oct 2026 18:30:27 +0000 — https://www.thewrap.com/culture-lifestyle/culture/sony-pictures-youtube-fede-goldenberg-head-of-screen-gems/
 
-Jimmy Kimmel taunted Donald Trump on the eve of the Nobel Peace Prize announcement, sarcastically quipping that the president had been “really good this year” at bombing only “10 fisherman and one school.” The comedian touched on the expected snub during Thursday s monologue for Jimmy Kimmel Live! , in which he predicted Trump was set to cry like a newborn baby after missing out on the prize once more. We are coming to you from Hollywood and the most self- congratulatory city in the world. You know, we give ourselves awards almost all year long here, Kimmel said at the top of the show. We had a couple of breaks here and there, but none of them, not the Oscar, not the Peabody, not even the coveted People s Choice compares to the award being handed out in Oslo tomorrow. He added: In fact, just hours from now, they will hand out the Nobel Prize for Peace, the big one. And that means it is that magical time of the year when our president, Donald JD Bug Trump, cries like a newborn baby, even though he doesn t care about the Nobel Prize at all. Jimmy Kimmel Live! editors then played a supercut of all the times Trump complained about being passed over for the award given out by the Norwegian Nobel Committee. Well, you know what? I know you re sad about this, Donald, Kimmel said. I know you were really good this year. I know you only bombed 10 fishermen and one school, and I know you don t care about the Nobel Prize, but somebody will get it. And you ll be mortified to know that that
+YouTube veteran Fede Goldenberg has been named Head of Screen Gems, Sony Pictures Entertainment (SPE) today announced Friday. Under a new creative strategy, the film label will expand its longstanding focus on traditional genre films to include theatrical projects from the next generation of digital-native storytellers. Ashley Brucks, president of the label since 2023, will transition to a producing role. “Some of the most exciting new filmmakers and ideas are emerging from creators outside of traditional Hollywood development pipelines. Screen Gems has long been a home for distinctive genre storytelling, and we see tremendous potential in expanding that vision to include a new generation of digital-native creators with theatrical ambitions,” Sanford Panitch, President of Sony Pictures’ Motion Picture Group, said in a statement. “Fede has spent his career at the intersection of online creators and entertainment, and he is uniquely suited to build those relationships and help translate great storytelling from digital platforms to the big screen. We’re also thrilled that Ashley will continue her relationship with the studio as a producer on several films, bringing her expertise and distinctive genre taste to all the labels. Reporting to Panitch, the release adds that Goldenberg will leverage his deep relations with content creators to broaden the studio’s pipeline of filmmaker talent and develop theatrical movies from creators who have cultivated devoted audiences through origi
 
-### Mamdani Says ICE ‘Must Be Abolished’ After Federal Agent Shoots Man Near Child in NYC
-Fri, 09 Oct 2026 04:35:58 +0000 — https://www.thewrap.com/media-platforms/politics/mamdani-says-ice-must-be-abolished-after-shooting/
+### Rebecca Ferguson-Greta Lee Rom-Com ‘Honeymoon/Funeral’ to Be Released by Black Bear
+Fri, 09 Oct 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/movies/honeymoon-funeral-rebecca-ferguson-greta-lee-carrie-coon-black-bear-domestic-rights-tiff/
 
-New York City Mayor Zohran Mamdani demanded for ICE to be abolished after a federal agent shot a man near a five-year-old child late Thursday afternoon. Mamdani addressed the situation in a press conference Thursday evening, where he called the shooting an outrage. When ICE agents opened fire, a five-year-old child was in the back seat of the car. Thank god that child is physically unharmed, Mamdani said as protesters chanted loudly in the background. For the past two hours, I have been on the phone with President Trump and Secretary Mullin, negotiating the release of the man ICE agents shot. Those negotiations were unsuccessful. Just moments ago, ICE put the man in an unmarked vehicle and whisked him away. Let me say this plainly, what happened today was an outrage, he continued. Tonight, a five-year-old child gets traumatized and terrified. Tonight millions of our neighbors are wondering whether they will be safe on our streets, in our schools, at their work sites. Tonight, New Yorkers across the five boroughs are asking whether their civil liberties will be respected. Whether law and order is supposed to look like a man carrying a long gun wearing a mask. As Mamdani went on, he declared the agency rotten to its core, adding, Today s shooting is only further devastating confirmation of what we have long known, which is that ICE operates with impunity, that they sow chaos and terror across our country, that they have killed far more of our neighbors than they could ever have
+“Honeymoon/Funeral,” the romantic comedy starring Rebecca Ferguson, Greta Lee and Carrie Coon, will be released domestically by Black Bear, the indie distributor announced Friday. “Honeymoon/Funeral” is directed by two-time Emmy nominee Nahnatchka Khan ( Fresh Off the Boat ) and written by Julia Bicknell ( Yellowjackets ). Khan and Jennifer Carreras are producing for Fierce Baby, with Bicknell also producing. MRC financed and oversaw production, with FilmNation Entertainment acting as worldwide sales agent. The film is currently in post, having wrapped production in London last month. “ Honeymoon/Funeral is an original and hilarious story that is deeply human, anchored by the performances of Rebecca, Greta and Carrie, three of the best actresses working today,” Katie Anderson, Black Bear’s EVP of acquisitions, said in a statement. “We can’t wait to partner with our friends at MRC and FilmNation to share this world that Nahnatchka and Julia have created with audiences.” “Honeymoon/Funeral” follows two women (Ferguson and Lee) who meet on a flight from Los Angeles to London – one en route to her honeymoon by herself after being left at the altar by her girlfriend, the other headed home for her mother’s funeral and end up spending the week together. “Honeymoon/Funeral” joins a Black Bear release slate that includes “Wicker,” starring Olivia Colman, Alexander Skarsgård and Peter Dinklage; Guy Ritchie’s “Wife & Dog,” starring Benedict Cumberbatch, Rosamund Pike and Anthony Hopkins
 
-### Michael Kosta Draws a Big Reaction From The Daily Show Crowd With Kid Rock Dig
-Fri, 09 Oct 2026 03:36:59 +0000 — https://www.thewrap.com/creative-content/tv-shows/michael-kosta-big-reaction-the-daily-show-crowd-kid-rock-jab/
+### American Horror Story 13 : What to Know About Orlando Jones, the Actor Behind Papa Legba
+Fri, 09 Oct 2026 18:01:29 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-orlando-jones-papa-legba/
 
-Michael Kosta drew a big reaction from his The Daily Show crowd after making a dig about Kid Rock s s ty music. During Thursday’s monologue, the comedian weighed in on Kimberly Guilfoyle’s questionable $100,000 payment from Trump donor and former Snappy Tomato Pizza co-owner Eric Deters, who reportedly wanted the Greek ambassador to lobby the IRS commissioner on his behalf and get his song to Kid Rock. Now, to be clear, Kimberly Guilfoyle wasn t the only one asking for favors. Mr. Tomato also had specific favors he wanted from her, Kosta said while recapping the controversy. He wanted her to send a song to Kid Rock? Trust me, you don t need to send a s ty song to Kid Rock. He has plenty at home. The Daily Show crowd responded strongly to this jab, erupting into a loud round of cheers and applause. As Kosta went on, he noted that Deters didn t need to bribe someone to get a song to Kid Rock, quipping, Just strap a CD to a beer can and throw it into his yard. This remark also prompted a noticeable reaction from the audience, with one attendee letting out a loud cackle in response. Obviously, I m kidding. I don t know if the song is bad, OK? But Deters did put it on YouTube. So let s hear it, Kosta said. Hey, don t laugh. Don t laugh. That was my wedding song. He added: All right, so as far as I can tell, this is a song about a guy who s gotten the s t kicked out of him so many times, he forgot that he already sang several lines about getting the s t kicked out of him. And, yeah
+Note: This story contains spoilers from American Horror Story: 13 Episode 8. One of the most powerful character in all of American Horror Story is back for Season 13. Papa Legba made his return in the eighth episode of this season on Thursday night. The spirit first appeared in the Coven season of the FX thriller from Ryan Murphy and Brad Falchuk and briefly returned for the antichrist-focused Apocalypse. Now that Satan is a threat, the witches are calling on him again for another favor. Here s what to know about the actor behind this mighty dealmaker. Who plays Papa Legba in American Horror Story: 13 ? That would be Orlando Jones. Previously, the Gatekeeper of the Spirit World was played by Lance Reddick in Coven and Apocalypse. Reddick died suddenly in 2023 of heart disease. A prolific actor, Reddick starred in several critically acclaimed shows and movies throughout his career including HBO s The Wire, ABC s Lost, HBO s Oz, White House Down and the John Wick franchise. He also starred as Zeus in Disney+ s Percy Jackson and the Olympians, a series that was released after his death and earned Reddick a Children s and Family Emmy Award nomination. What else has Orlando Jones starred in? Before joining the American Horror Story universe, Jones was one of the original cast members of MADtv. He also played the African god Anansi in Starz s American Gods and has starred in Evolution, Drumline, ABC s Abbott Elementary, Adult Swim s Teenage Euthanasia and Apple TV s Swagger. How is
 
-### ‘American Horror Story 13’ Plot: Inside the ‘Coven’ Witches’ Long-Awaited Reunion
-Fri, 09 Oct 2026 02:55:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-plot-episode-7-8-recap-coven-witches-reunion/
+### 7 Big Book Changes in Mike Flanagan s Carrie TV Show
+Fri, 09 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-tv-show-vs-book-mike-flanagan-stephen-king/
 
-Note: This story contains spoilers from “American Horror Story: 13” Episodes 7-8. Ding, dong, the baddest witch in town is back! “ American Horror Story : 13” finally brought back former Supreme Fiona Goode (Jessica Lange) for its Avengers-style crossover season, just when the witches needed her the most. Last we checked in on the Murphyverse’s favorite witch coven, they had taken a major loss, after Supreme Cordelia Goode (Sarah Paulson) was murdered by “Hotel” killer James Patrick March (Evan Peters) and his band of historical serial killers — at the order the mysterious Mr. Nas (Paul Anthony Kelly), who appears to be Satan himself collecting sacrificed souls in order to rise and conquer the world. Just as all hope seemed lost, Fiona and some other fan-favorite friends returned to rally the troops at Miss Robichaux’s Academy. But there’s still a big foe to defeat and lots of mysteries left to unravel. Look below for the highlights from Episodes 7-8 of “American Horror Story: 13.” Episode 7: “The Baddest Witch of Them All” The episode kicked off right after Cordelia’s murder, with Madison Montgomery (Emma Roberts) bracing the witches for battle. Mallory (Billie Lourd) watched over the Supreme’s body as the other witches hunted down the serial killers in the house — while James played the piano in the background almost the entire installment. Madison and Queenie (Gabourey Sidibe) took on Jeffrey Dahmer (Seth Gabel) , and made a meta reference about, of course, tuning into his
+The latest take on Stephen King s Carrie has arrived, and there are plenty of changes from the source material. Mike Flanagan is no stranger to adapting the horror author, and his latest swing is at King’s first novel. He made quite a few alterations in pursuit of exploring modern high schools and the terrors of being in them in the age of the internet and social media. But there is plenty that’s new aside from the modern setting, including new characters and even different fates for a number of them. These are the biggest changes from the book in the latest adaptation Prime Video of Carrie. The Modern Setting Carrie (Prime Video) The obvious one, and the hook for this entire adaptation, is the modern setting. The original story takes place in the late ’70s, and Mike Flanagan took the story and placed it in a modern setting with all the trappings that would plague a current high school student, like cyberbullying through social media, the threat of school shootings and more. Carrie is bullied more through Instagram posts than she ever is in person, as she is in the original book and adaptations. This means she’s being harassed at nearly all hours, with way more people weighing in on it. And the account, which is made with her picture and a joke about her name, doesn t just target Carrie; it targets the whole school, which means she s tangled in and associated with a more complicated web of bullying. Carrie Was a Homeschooled Shut-In Carrie (Prime Video) In the original story,
 
-### Michael Ovitz Must Complete Deposition in Julia Ormond Case After Epstein Questions Sparked Walkout
-Fri, 09 Oct 2026 02:28:47 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/michael-ovitz-must-complete-julia-ormond-case-deposition-judge-rules/
+### Brendan Carr Dodges Questions About Public Execution Livestream: I Trust Secretary Hegseth
+Fri, 09 Oct 2026 17:54:37 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/brendan-carr-fcc-public-execution-livestream-allowed-hegseth/
 
-CAA co-founder Michael Ovitz must complete his deposition in Julia Ormond’s sexual assault lawsuit, a judge ruled Thursday. In Judge Adam Silvera’s ruling, which was obtained and viewed by TheWrap, Ovitz was ordered to complete the deposition – which he stormed out of in June – by Dec. 18. “The Court finds that the deposition of non-party Ovitz was not completed but, rather was inappropriately terminated,” wrote Judge Silvera. “We are pleased that the Court has held that Michael Ovitz ‘inappropriately terminated’ the deposition, required him to return and answer all of our questions, and ‘warned’ him to follow the Court’s rules,” Ormond’s attorneys Kevin Mintzer, Meredith Firetog and Effie Blassberger said in a statement. “The decision makes clear that Mr. Ovitz was not entitled to storm out of the deposition, and that he is not above the law. We look forward to resuming the deposition and trust that Mr. Ovitz will behave himself.” Though, Ovitz did face a small legal win, as Judge Silvera also denied Ormond’s camp’s request for an arrest warrant and contempt finding. However, Silvera did refuse to block further questions regarding Jeffrey Epstein, which prompted Ovitz’s walkout this past spring. As we reported in June, Ovitz abruptly ended his deposition with Ormond’s legal team on June 1 after being questioned about his relationship with disgraced financier and convicted sex offender Jeffrey Epstein. “What does this got to do with Harvey Weinstein?” the CAA co-founder said 
+FCC chairman Brendan Carr dodged questions about the Pentagon s plans to livestream a public execution in December, instead deferring to Pete Hegseth during a Friday interview on CNBC. My understanding is it s not on broadcast TV, so I don t think there s a role for the FCC one way or the other there, he told Squawk on the Street. But I trust Secretary Hegseth. I mean, he s implementing the laws and the regulations that are, you know, relevant to the Department of War, and I think he s doing a great job. And I trust that he s making the right call on these issues. Ultimately, we re going to defer to Secretary Hegseth and, you know, his decisions on how to move forward with this, Carr again answered when asked if an execution even could be allowed to air on television . On Thursday, the Secretary of Defense announced that the Pentagon would livestream Nidal Malik Hasan’s firing-squad execution on Dec. 3. He was previously convicted of killing 13 soldiers at Fort Hood in 2009. “He’s going to get a firing squad of soldiers, as it should be,” Hegseth shared with Jack Posobiec on Real America’s Voice. “We’ll make sure that people are able to watch it, that it’s public — because people need to understand that there’s serious consequences for these types of things.” This would be the first military execution in more than 60 years. Following the initial news, public figures such as Stephanie Ruhle, Henry Winkler, Joyce Carol Oates and Alyssa Farah Griffin have decried the decision , 
 
-### Henry Winkler, Alyssa Farah Griffin and More Decry Pentagon s Plan to Livestream Nidal Malik Hasan Execution
-Fri, 09 Oct 2026 01:44:17 +0000 — https://www.thewrap.com/culture-lifestyle/culture/henry-winkler-alyssa-farah-griffin-react-pentagon-livestream-nidal-malik-hasan-execution/
+### Ben Affleck on ‘Radically’ Reworking ‘Animals,’ Why Directing for Streaming Is the Same as Theatrical and Using AI
+Fri, 09 Oct 2026 17:47:09 +0000 — https://www.thewrap.com/creative-content/movies/ben-affleck-interview-animals-netflix/
 
-Henry Winkler, Alyssa Farah Griffin and others decried the Pentagon s plan to livestream Nidal Malik Hasan’s firing-squad execution, with some calling the decision “bad for the human soul.” Earlier Thursday, Defense Secretary Pete Hegseth announced that the Pentagon would livestream Hasan’s execution, scheduled for Dec. 3 by firing squad. Hasan was convicted in the 2009 killing of 13 people at Fort Hood. He s going get a firing squad of soldiers, as it should be, Hegseth shared with Jack Posobiec on Real America s Voice. We ll make sure that people are able to watch it, that it s public — because people need to understand that there s serious consequences for these types of things. As word of the livestream began to spread online, Hegseth doubled down on the plan by simply writing on X, Correct. Correct. https://t.co/0SXJiqrDnR &mdash; Pete Hegseth (@PeteHegseth) October 8, 2026 While Hegseth appeared resolved to move forward with a livestream of Hasan’s execution, countless prominent figures spoke out against the plan. For instance, Happy Days and Barry star Henry Winkler took to X and commented, Live execution?? Is this where we are now? The View co-host Alyssa Farah Griffin also condemned the decision, writing in her own X post, I support the death penalty, especially for terrorists. But I think it’s toxic for society to live-stream an execution. And bad for the human soul to tune in to watch. Prolific writer Joyce Carol Oates compared the livestream idea to sadism, noting
+“Animals,” Ben Affleck’s sixth feature film as a director, hits Netflix this weekend, but a very different version of the movie almost happened first. Initially, Affleck was set to direct but not star in the thriller about a Los Angeles mayoral candidate and his wife who must grapple with the kidnapping of their son. He had enlisted Matt Damon and Jennifer Garner for the starring roles, excited to bring out “some aspects of both of them that I know exist that they haven t shown, frankly, in their work,” he told TheWrap in an interview days before the film s release. But then he got a phone call he described as devastating. “What do you mean there s another movie with a similar plot in production and it s being done by Spike Lee and Denzel Washington? These are not people with whom I m interested in competing,” Affleck remembered thinking as he learned about Apple’s “Highest 2 Lowest.” So, a few weeks out from the start of filming on “Animals,” he pulled the plug and put the project aside. Something about the story kept gnawing at him, though. He couldn t stop thinking about it, and a few months later, he decided to put the project back on, but by this point Damon had committed to starring in “The Odyssey,” so Affleck took on the starring role himself. Concerned that audiences would read too much into the marital dynamics explored in the film, Garner respectfully bowed out of playing the wife of her real-life ex-husband, so Affleck cast Kerry Washington in the role instead. An
 
-### Eternally Yours Creators Break Down That Premiere Twist, Ghosts Crossover Hopes
-Fri, 09 Oct 2026 01:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/eternally-yours-episode-1-ending-joe-port-joe-wiseman-interview/
+### Avatar: Seven Havens Release Schedule: When Do New Episodes Come Out?
+Fri, 09 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/avatar-seven-havens-release-schedule-when-do-new-episodes-come-out/
 
-Note: This story contains spoilers from Eternally Yours Episode 1. More than a decade ago, Ghosts creators Joe Port and Joe Wiseman wrote the pilot for their new series Eternally Yours. As of Thursday night, it s finally on TV — and the series premiere ends in a hilariously killer twist. Starring Ed Weeks, Allegra Edwards, Rose Abdoo and more, the CBS comedy series centers on Liz (Edwards) and Charles (Weeks), two vampires who have been married for five centuries. They were hopelessly in love at the start, but eternity, as it turns out, is a really long time to be married to someone. These days, they live with their family (technically a coven), which includes their young daughter Emma (Helen J Shen), and are navigating modern life while trying to recapture their spark. Things get a little complicated when they meet Emma s new boyfriend — this is your final spoiler warning — and subsequently kill him. It s an accident, really. Sure, Liz and Charles intended to drain his blood, marking the first human they ve hunted in centuries. But, upon realizing he was dating their daughter, they refrained. Max s (Jaren Lewinson) death actually comes at the hands of Mort (Tristan Michael Brown), one of the youngest members of the coven, as he works on his telekinetic abilities. To save him, the family turns him, and now Max himself is vampire. It s unclear how long it s been since this particular coven added a member, but according to Wiseman, that s by design. I would be reluctant to answ
+It s time to meet the next avatar. But this time around, the title doesn t have quite the same honor to it. In Avatar: Seven Havens, a young Earthbender named Pavi discovers she s the new avatar after Korra. The thing is, in this era, being the avatar makes you a threat, not a savior. The animated series stars Saheli Khan as Pavi, Aishu Devan as Nisha, Akshay Khanna as Karthik, Major Curda as Jae, Sakina Jaffrey as Agam, Darren Barnet as Daemin, Dianne Doan as Zi, and Dee Bradley Baker as Geet and Ruhi. Here s everything you ll need to know. When does it premiere? Avatar: Seven Havens kicks off on Friday, Oct. 9 on Paramount+. How many episodes are there? There will be 13 episodes total in the season. When do new episodes come out? You won t be able to binge all of Avatar: Seven Havens when it comes out, but don t worry, you ll be getting more than just one episode per week. Here s how the schedule shakes out: Episodes 1-3: Premiere on Friday, Oct. 9 on Paramount+ Episodes 4-6: Premiere on Friday, Oct. 16 on Paramount+ Episodes 7-9: Premiere on Friday, Oct. 23 on Paramount+ Episodes 10-13: Premiere on Friday, Oct. 30 on Paramount+ What is this Avatar series about? Per the official synopsis: Set in a world shattered by a devastating cataclysm, Avatar: Seven Havens follows Pavi, a young Earthbender who discovers she s the new Avatar after Korra, only to find that in this dangerous era, that title marks her as humanity s destroyer, not its savior. Hunted by both human and spirit
 
-### VisionQuest Praised as Terrific and Trippy in First Reactions: One of Marvel s Best Shows
-Fri, 09 Oct 2026 00:57:18 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-reactions-one-of-marvels-best-shows/
+### ABC News Removed Report on Trump Sons Investigation Because It Published Prematurely
+Fri, 09 Oct 2026 16:45:51 +0000 — https://www.thewrap.com/media-platforms/journalism/abc-news-removes-trump-sons-report-pentagon-investigation/
 
-Marvel’s grand experiment with MCU-set Disney+ shows began in 2021 with “WandaVision.” After the middle chapter, “Agatha All Along,” the trilogy concludes with “ VisionQuest ,” premiering Oct. 14. According to early audiences, it’s a worthy series to end on. The Wandavision trilogy comes to a near-perfect conclusion with #visionquest, said @Elphaba_Anne on X. Terry matalas does a masterful job showing a deep love for and understanding of many projects that paved the way while still making the story his own, executing a distinct creative vision (pun intended). It s awesome, says Impractical Jokers' Brian Quinn. “VisionQuest” sees Paul Bettany return as Vision — or, at least, as a Vision. Rather than directly reprising the role he originated in “Avengers: Age of Ultron” (an evolution of J.A.R.V.I.S., an AI Bettany has voiced since the first MCU film, “Iron Man”), the Marvel star returns as White Vision. White Vision is Vision’s corpse, resurrected as an amnesiac soldier by S.W.O.R.D. after his death in “Infinity War.” At the end of “WandaVision,” he regains his old memories through a version of Vision that the Scarlet Witch resurrected as a magical construct. Aren’t comics wonderful? We’ve seen all 8 episodes of VISIONQUEST and this is easily one of Marvel’s best shows up there with Wonder Man and Loki, said @Mar_Tesseract on X. A strange, beautiful, visually striking, and emotionally powerful conclusion to the trilogy that began with WandaVision and continued with Agatha All A
+ABC News removed an investigation into government contracts involving companies linked to Donald Trump Jr. and Eric Trump because the article was published prematurely, a source familiar with the matter told TheWrap on Friday. The article was taken down while reporting is being finalized, the source noted. The update comes after a report disappeared from ABC s website less than a day after publication, initially without a public correction or explanation. The removal also drew attention to criticism from a venture capital firm tied to Trump Jr., which challenged several of the report s claims. Published Wednesday under the headline “Trump sons investments have won billions in Pentagon contracts since his election,” the investigation claimed that defense companies backed by President Donald Trump s sons had secured more than $6 billion in active or promised government contracts since receiving investments connected to them. By Thursday morning, the original article was no longer available on ABC s website, with its URL returning an error message. Mediaite first reported the removal. The article drew criticism from Alexa Henning, a spokesperson for 1789 Capital, a venture capital firm where Trump Jr. is a partner. Henning challenged ABC s characterization of the firm s investment in defense technology company Anduril, arguing that the report conflated the total size of a fundraising round with the amount invested by 1789 Capital. Henning also disputed the characterization of se
 
-### Hugh Hefner s Widow Pleads With Jessica Biel to Reconsider Role of Playboy Founder s Wife
-Fri, 09 Oct 2026 00:52:55 +0000 — https://www.thewrap.com/creative-content/movies/hugh-hefner-widow-message-for-jessica-biel-playmates-movie/
+### The View Hosts Cackle at Pete Hegseth Training Video: That Guy Would Not Get Through My Pilates Class
+Fri, 09 Oct 2026 16:36:23 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-pete-hegseth-training-video-reaction/
 
-Hugh Hefner s widow Crystal Harris took to Instagram Thursday to plead with Jessica Biel to reconsider starring in the upcoming Playboy mansion film Playmates. Biel s casting as a fictionalized wife of Hefner was announced earlier this week. Harris, who has been vocal about her abusive experiences inside of the Playboy Mansion, urged the actress not to romanticize this behavior. “Please reconsider playing Hugh Hefner’s ‘wife’ if this film intends to romanticize him or the Playboy world,” Harris posted . “I was actually his wife, and I experienced sexual, emotional, financial and physical abuse in that relationship. Many other women have come forward with allegations of rape, coercion, drugging and exploitation as well. There are also deeply troubling concerns involving minors. I hope everyone involved in this film takes the time to listen to the women who have lived it before helping Hollywood turn it back into nostalgia, she added. Harris was just 26 years old when she married the Playboy founder, who was 86 at the time. She was with him for five years until his death in 2017. She has since been vocal about her experience, saying she was “absolutely brainwashed.” “Hef was old enough to be my grandfather,” she said on the No One Asked Her podcast last month. “We [had a] 60-years difference. In the interviews I’d say, ‘Oh, you know, he’s like a kid! He likes to have fun’ Why did I say that?” She formerly appeared on the the reality show The Girls Next Door, which depicted life
+Video of Pete Hegseth went viral this week, showing the Defense Secretary struggling to keep up with military members in training exercises. On Friday morning, the hosts of The View simply cackled at the footage, making fun of Hegseth for struggling so much after such big talk about the high standards the military should have. The ABC hosts watched the video during the day s Hot Topics, delighting in his falling behind and struggling, calling out Look, look, look! as he failed. After the clip ended, moderator Whoopi Goldberg was left with just one question. What is he overcompensating for? she wondered. Girl host Ana Navarro shot right back. After having a few more laughs, host Alyssa Farah Griffin was quick to chime in that, That guy would not get through my Pilates class. The host then noted that previous Secretaries of Defense would also work out with the military, but none struggled so badly, and certainly none of them were thirst bots, trying to score social media points for said workouts. Meanwhile, host Sara Haines called out Hegseth s recent tirades about fitness in the military. Don t be the guy saying No fatties, no beardos, no weirdos, no slowpokes, and then be the slowpoke. You can t do that part in the video, she joked. Navarro quickly pointed out that Hegseth never called out slow pokes specifically, prompting Haines to admit she added that descriptor just for him. At least say no videos or photographs if you re that guy, Haines added. I mean, seriously? The Vie
 
 ## Collider
 
-### Russell T Davies Officially Breaks Silence on Those AI 'Doctor Who' Claims
-Fri, 09 Oct 2026 11:30:11 GMT — https://collider.com/doctor-who-ai-rumors-russell-t-davies-response/
+### Prime Video’s 8-Part ‘Vikings’ Replacement Officially Sets January Release Date
+Fri, 09 Oct 2026 18:15:11 GMT — https://collider.com/bloodaxe-prime-video-release-date-teaser/
 
-Doctor Who fans just can't catch a break . It wasn't long ago that the return of showrunner Russell T Davies , fan-favorite faces like David Tennant and Catherine Tate , and the promise of a partnership with Disney made Whovians feel as if the show was about to get back to its best. Alas, Davies found himself quickly under fire for numerous issues; the Disney partnership proved a spectacular failure , and new Time Lord Ncuti Gatwa exited the series under strange circumstances that are still yet to be fully revealed.
+Historical dramas have made fighting for a crown look like a particularly dangerous career choice. Winning a battle rarely settles anything when relatives, allies, and neighboring rulers all have their own ideas about who should inherit the throne. For audiences who spent years following Vikings , that uncertainty was a huge part of the attraction . A victory could change someone’s fortunes without making them any safer.
 
-### 10 Addictive Netflix Shows That Are Impossible To Stop Watching
-Fri, 09 Oct 2026 11:22:11 GMT — https://collider.com/addictive-netflix-shows-impossible-to-stop-watching/
+### The 6 Best Crime Books Released Since 1990, Ranked
+Fri, 09 Oct 2026 17:04:12 GMT — https://collider.com/best-crime-books-since-1990-ranked/
 
-With Netflix's long list of amazing shows, subscribers' options can feel almost limitless, and while some shows can be started casually, there do exist quite a few series in the streaming platform's catalog that, once begun, it's rather hard to stop, leaving viewers awake and bingeing long into the late hours of the night. Shows like that are true Netflix gems that usually have a strong hook, steady momentum, unforgettable characters, and just enough mystery, romance, comedy, and tension, or emotional pull to make stopping feel like an almost impossible task.
+Some crime novels leave you wanting to solve the case. But the ones you fall in love with beyond the average ones? They leave you wanting to call somebody at midnight and say, “You need to read this because I cannot be the only person carrying it around in my head.”
 
-### Forget 'Other Mommy,' Prime Video's Psychological Thriller Is So Good, You Can Rewatch It Multiple Times
-Fri, 09 Oct 2026 11:21:12 GMT — https://collider.com/daniel-isnt-real-other-mommy-thriller-prime-video-streaming-october-2026/
+### ‘Avengers: Doomsday’ Officially Takes Over NYCC With New Doctor Doom Collection
+Fri, 09 Oct 2026 17:01:51 GMT — https://collider.com/avengers-doomsday-doctor-doom-nycc-marvel-merch-collection/
 
-Imaginary friends are a creepy concept in general (at least, when not related to a Foster's Home or Ryan Reynolds in a top hat ). As horror movies have long made clear, when kids have special friends that no one else can see, it's an early warning sign that bad things are imminent. The more innocent-sounding the name (like Mr. Boogie or Captain Howdy ), the more dangerous the friends often are. With the release of Other Mommy and everyone's Halloween season desire to find the perfect horror double feature, there's another horror diamond that's hiding in the streaming rough about a monstrous entity posing as a nice friend . It plays like if Drop Dead Fred was a horror movie (on purpose), is both surprisingly creative and visually stunning, and takes full advantage of what's otherwise a simple horror premise. It takes the form of 2019's Daniel Isn't Real .
+After the release of Disney+'s VisionQuest on October 14, the rest of the MCU runway will be cleared for Doctor Doom. The franchise's next big crossover event, Avengers: Doomsday , is just over two months away from arriving in theaters and pitting generations of heroes against Robert Downey Jr .'s supreme supervillain on December 18. Disney is unsurprisingly preparing a big push for the blockbuster, from a Dunkin' takeover in November to new collectibles, like a Franklin Richards Funko Pop! , and much more. At New York Comic Con, a new collection is now joining the fight for those who wish to dress like a Latvarian ruler.
 
-### Netflix’s Creepy 4-Part Supernatural Thriller Is the Perfect Weekend Binge
-Fri, 09 Oct 2026 11:20:11 GMT — https://collider.com/netflix-supernatural-thriller-series-my-sad-dead-weekend-binge/
+### The Next Major Harry Potter RPG Is Officially Here
+Fri, 09 Oct 2026 17:00:11 GMT — https://collider.com/harry-potter-rpg-defenders-of-hogwarts-kickstarter/
 
-For fans of other Netflix thrillers, alongside the likes of Baby Reindeer , Fool Me Once , and Mindhunter , the next big thriller series has just arrived. From the mind of director Pablo Larraín , My Sad Dead is a four-part Argentinian-Chilean psychological horror mini-series. The show is a truly gripping combination of expertly crafted, disturbing cinematography, and incredibly gripping performances from the show's star, Ema, portrayed by Mercedes Morán .
+The wait for Hogwarts Legacy 2 feels like we've gone into the vanishing cabinet for Borgin and Burke's alongside Montague, and we've been stuck here for months, if not years, with no sign of light at the end of the tunnel. The sequel is already one of the most anticipated games in the Wizarding World , and we're waiting for concrete info on what to expect. If it links into HBO's new series, expands the world down to London, Godric's Hollow, or more remains to be seen, but thankfully, another new Wizarding World RPG is now on the way, and this one is taking fans back to Hogwarts in a very different form.
 
-### The 10 Most Powerful Anti-War Statements in Movies
-Fri, 09 Oct 2026 11:07:11 GMT — https://collider.com/anti-war-movies-most-powerful/
+### ‘Harry Potter’ Star Confirms Massive Update for HBO Series
+Fri, 09 Oct 2026 17:00:11 GMT — https://collider.com/harry-potter-hbo-series-10-hours-runtime-johnny-flynn/
 
-War is one of humanity's greatest tragedies and greatest failures. It's been a constant stain on our entire history, with conflicts being recorded for thousands upon thousands of years. Worse, it never seems to end, as humanity has yet to learn from its mistakes and continues waging war with itself, causing catastrophic and widespread death and destruction. It's, by far, our greatest irony, as we willingly create the thing that brings about our own demise, like a mouse inventing a mousetrap.
+One of the most common issues people had with the Harry Potter movies, especially as they went further on — we're looking at Goblet of Fire and Order of the Phoenix in particular — was how much content was cut from the stories. After all, you're looking at a 700+ page book condensed into the shortest movie of the series at just over 2 hours long. That's a lot of stuff we missed out on. HBO's new adaptation is supposed to fix that problem, and one of its villains has suggested fans could be getting even more time at Hogwarts than expected.
 
-### Apple TV’s Biggest Series Officially Ends With One of Its Highest-Rated Episodes
-Fri, 09 Oct 2026 11:00:12 GMT — https://collider.com/ted-lasso-season-4-finale-apple-tv-imdb-rating-is-it-good/
+### ‘The Witcher 3’ Officially Gives Console Players a Long-Awaited Geralt Upgrade
+Fri, 09 Oct 2026 16:40:12 GMT — https://collider.com/the-witcher-3-hoods-mod-ps5-xbox-series-x-s/
 
-Apple TV has had something for everyone in 2026 . Returning shows such as the hit series Your Friends & Neighbors and the beloved comedy Shrinking rocketed to the top of the streaming charts, proving their popularity once more. The streamer also delivered plenty of impressive new content, such as a new adaptation of Cape Fear starring Javier Bardem , and Elle Fanning 's adaptation of Rufi Thorpe ’s bestselling novel, Margo's Got Money Troubles . But no series on Apple TV in 2026 has quite had the impact of Ted Lasso .
+Right now is a great time to be a fan of The Witcher franchise, even if it is going to be a few more years until the release of The Witcher 4 . CD Projekt Red announced just a few weeks ago that it wouldn’t be anytime before 2028 before The Witcher 4 debuts on next-generation consoles, but this isn’t that surprising considering we know that The Witcher 3 is getting another expansion coming next year. Little is known about Songs of the Past at this time, other than it will be the final chapter in the story of Geralt of Rivia in The Witcher 3 . CD Projekt Red has treated fans to several expansions already, including Hearts of Stone and Blood and Wine , both of which offer dozens of hours of new content.
 
-### 7 Greatest Thriller Shows With Fewer Than 40 Episodes
-Fri, 09 Oct 2026 10:48:12 GMT — https://collider.com/best-thriller-shows-under-40-episodes/
+### ‘House of the Dragon’ Officially Sets Surprise Return This Month
+Fri, 09 Oct 2026 16:30:11 GMT — https://collider.com/house-of-the-dragon-returning-october-2026-new-release/
 
-Thrillers often rely on sustaining elements of suspense, mystery or intrigue, so it’s impressive when any television series is able to do so through multiple episodes. Some accomplish it through an anthology format, breaking each season into its own narrative, while others let their plots burn slowly over multiple seasons. Either way, thriller series often benefit from shorter runs . There have been all too many examples of shows that have come out strong with dynamic first seasons that have been unable to maintain that pace and quickly deflate.
+2026 has been an exciting year for Game of Thrones fans, who had not one, but two new releases on HBO Max to get fired up about — dragon pun intended. The first Game of Thrones spin-off show to take over the world was A Knight of the Seven Kingdoms , which is also a personal favorite of author George R.R. Martin . The show has already wrapped production on its second season, which is confirmed to air sometime in the second half of 2027. HBO also brought back the first Game of Thrones spin-off, House of the Dragon , for its third season during the summer. Similar to A Knight of the Seven Kingdoms , House of the Dragon has already been renewed for Season 4, which will also be the final season of the series.
 
-### James Bond Meets Indiana Jones In Disney's Forgotten, Nazi-Punching Action Masterpiece
-Fri, 09 Oct 2026 10:38:11 GMT — https://collider.com/the-rocketeer-james-bond-indiana-jones-disney-plus-october-2026/
+### Star Wars Officially Brings Back Princes Leia for New Release
+Fri, 09 Oct 2026 16:26:07 GMT — https://collider.com/star-wars-princess-of-the-rebellion-leia-luke-han-new-book-release-date/
 
-Long before he took on the established genre worlds of Jurassic Park , The Wolfman , and Captain America , director Joe Johnston delivered what's quietly one of the best adventures of the 1990s — and under Disney's umbrella — with the retro-actioner The Rocketeer . The impeccably crafted and unabashedly old-fashioned film was in development for years and flopped at the box office , barely earning its sizable budget back. But it's definitely Disney's best straight-up action-adventure and, streaming on Disney+, still delivers feel-good thrills today .
+2026 has been a year marked by ups and downs for Star Wars fans, but it’s still an exciting franchise to be a part of, as it has been for so many years. Star Wars officially returned to Disney Plus this year with the premiere of Maul — Shadow Lord , the animated series starring Sam Witwer that has already been renewed for Season 2. Star Wars then made its return to the big screen for the first time in seven years with The Mandalorian and Grogu , but the film finished its run as the lowest-grossing Star Wars movie in franchise history. After being added to Disney Plus’ streaming library early last month, The Mandalorian and Grogu has quietly become one of the biggest streaming hits of the year — it’s still charting in the top 10 in a handful of countries.
 
-### Mattel’s ‘Barbie’ Replacement Hits Apple TV Today
-Fri, 09 Oct 2026 10:31:11 GMT — https://collider.com/john-cena-matchbox-the-movie-release-date-apple-tv-october-2026/
+### Steven Spielberg’s $236 Million Sci-Fi Epic Is Officially Back
+Fri, 09 Oct 2026 16:20:11 GMT — https://collider.com/ai-artificial-intelligence-4k-uhd-steelbook-release/
 
-While he’ll always be best known for his work as a WWE icon, John Cena has carved out quite a career for himself as one of the biggest movie stars in Hollywood. Cena’s career began with older action thrillers like The Marine , but he’s now settled into more complex roles like that of Christopher Smith in Peacemaker , the hit DCU series developed by James Gunn . Cena can also be seen in the Fast & Furious franchise starring as Jakob, the long-lost brother of Dom Toretto (played by Vin Diesel ), but his role in the eleventh and final F&F movie is up in the air right now. He did team up with Idris Elba last year for one of the most-watched movies on Prime Video, Heads of State , which was in the top 10 as recently as a few months ago.
+It's fair to say artificial intelligence is a lot less fictional than it first felt 25 years ago, but thankfully ChatGPT, Claude and Grok haven't been looking for the Blue Fairy lately, just threatening to become self-aware. Steven Spielberg tried to view it as a more innocent thing back then, but his deeply strange, frequently devastating sci-fi epic imagined a future where humanity has perfected artificial children only to find they cannot handle it at all.
 
-### 10 Essential Anime Shows That Belong on Every Fan's Bucket List
-Fri, 09 Oct 2026 10:09:12 GMT — https://collider.com/essential-anime-shows-bucket-list/
+### ‘Avatar: The Last Airbender’ Is Officially Expanding With New Animated Series
+Fri, 09 Oct 2026 16:15:12 GMT — https://collider.com/avatar-the-last-airbender-new-avatar-kuruk-series-wave-of-chaos/
 
-Everybody has things they want to do before they die, whether that be skydiving or being on TV. However, plenty of fans have less-than-grand aspirations; instead, they would rather enjoy the comforts of their own home and experience some of the greatest stories in history, and anime is a fun place to start, with shows such as Naruto and Demon Slayer establishing themselves as iconic franchises.
+When it comes to popular animated franchises, few have had the same staying power over the last 20 years as Avatar: The Last Airbender . The franchise first launched all the way back in 2005 with the original animated series created by Bryan Konietzko and Michael Dante DiMartino , and now, more than 20 years later, the duo are back with a brand-new series streaming now. Paramount presented the first three episodes of Avatar: Seven Havens this afternoon, and fans needn’t worry about cancellation—the studio announced today that the show has been renewed through Season 4, so it will be around for a while. The Avatar franchise has stayed around for so long thanks to its ability to invent beloved new characters, but a new project is officially coming soon that’s going to shine a spotlight on an overlooked hero.
 

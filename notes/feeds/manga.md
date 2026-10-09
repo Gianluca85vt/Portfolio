@@ -1,6 +1,51 @@
-# Manga — harvested 2026-10-09T11:30:38.221Z
+# Manga — harvested 2026-10-09T18:59:50.250Z
 
 ## Anime News Network
+
+### Ize Press Announces Print Editions of Regas, Eat Before You Go Webtoons
+Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/ize-press-announces-print-editions-of-regas-eat-before-you-go-webtoons/.242614
+
+<cite>Regas</cite> BL series centers on crown prince whose power comes at the cost of his sanity; <cite>Eat Before You Go</cite> follows hero who returns to earth after defeating demon lord
+
+### Yen Press Licenses Fate/strange Fake, Kino's Journey, Spice and Wolf Diner: Gourmet Exploration, More Manga/Novels
+Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640
+
+Also: <cite>The Girls Adrift Among the Stars</cite>, <cite>Dungeon Master: Creating a Hot Spring Dungeon</cite>, more
+
+### Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD Switch 2 Review
+Fri, 09 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-pc/steam-playstation-5-xbox-series-x/s/dragon-quest-heroes/torneko-mystery-dungeon-/.242164
+
+<cite>Torneko's Mystery Dungeon</cite> is not a game that is a roguelike; it is a game that is like <cite>Rogue</cite> - and that distinction is more than mere semantics.
+
+### Firefly Wedding Manga Gets Live-Action Adaptation on TV in 2027
+Fri, 09 Oct 2026 11:50:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/firefly-wedding-manga-gets-live-action-adaptation-on-tv-in-2027/.242676
+
+Anime adaptation debuted on Friday
+
+### This Week in Games - Golden Oldies
+Fri, 09 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-09/golden-oldies/.242490
+
+A major <i>Fire Emblem</i> anniversary and the release of <i>Dead of Brain</i> are among the big topics this week!
+
+### Subtlety is Key: An Interview with Taihi Kimura, the Japanese Voice of Kagurabachi Anime's Chihiro Rokuhira
+Fri, 09 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/subtlety-is-key-an-interview-with-taihi-kimura-the-japanese-voice-of-kagurabachi-anime-chihiro-/.239643
+
+During our conversation, Kimura spoke about how he landed the role of Chihiro as well as his experience working with Tomokazu Seki, the voice actor for Kunishige Rokuhira.
+
+### All of Us Are Dead Creator Dong-geun Joo Talks Zombies, Adaptations, and His Global Fans
+Fri, 09 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-09/all-of-us-are-dead-creator-dong-geun-joo-talks-zombies-adaptations-and-his-global-fans/.242054
+
+Joo spoke with Anime News Network about his debut, the influences behind his work, the Netflix adaptation, and his latest series, Adonai.
+
+### Casshern R Manga Listed as Ending With 3rd Volume
+Fri, 09 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/casshern-r-manga-listed-as-ending-with-3rd-volume/.242564
+
+Manga launched in 2023
+
+### WEBTOON to Launch New Marvel Comics App in November
+Fri, 09 Oct 2026 07:23:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/webtoon-to-launch-new-marvel-comics-app-in-november/.242617
+
+New app comes as Marvel Unlimited shuts down after 19 years in December
 
 ### The Ghost of Bongcheon-Dong Horror Webtoon Gets Live-Action Film Adaptation
 Fri, 09 Oct 2026 06:24:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620
@@ -17,56 +62,21 @@ Fri, 09 Oct 2026 05:41:12 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Series centers on prince who secretly hunts, eats monsters to avoid assassination
 
-### Girls und Panzer Franchise Gets 2 New Games
-Fri, 09 Oct 2026 04:46:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/girls-und-panzer-franchise-gets-2-new-games/.242665
-
-<cite>GuP: All-Star Tank Carnival</cite> releases on Switch in 2027; <cite>GuP: Bokosuka Rush</cite> releases on smartphones
-
-### All the News and Reviews from New York Comic Con 2026
-Fri, 09 Oct 2026 04:27:50 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/.242666
-
-Thursday, October 8 News Dark Horse to Release Gou Tanabe's The Outsider and Other Early Adaptations Collection Macross Frontier Anime's Blu-ray Disc Ships...
-
-### Crunchyroll, HAYATE, LINE Digital Frontier Partner to Produce Anime of 'Around' 15 Webtoons
-Fri, 09 Oct 2026 04:23:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/crunchyroll-hayate-line-digital-frontier-partner-to-produce-anime-of-around-15-webtoons/.242667
-
-Crunchyroll to exclusively stream produced anime
-
-### Comisma Enters Agreement With Akili International to Produce Live-Action Film of Zukyun x Bakyun Manga
-Fri, 09 Oct 2026 03:34:53 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/comisma-enters-agreement-with-akili-international-to-produce-live-action-film-of-zukyun-x-bakyun-/.242650
-
-Robby Monroe to direct, script film based on Teito Yuzuriha's manga
-
-### Giant Street Fighter Arcade Cabinet Appears in New York's Times Square
-Thu, 08 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-08/giant-street-fighter-arcade-cabinet-appears-in-new-york-times-square/.242632
-
-Ken Masters actor Noah Centineo performs real-life Hell Wheel
-
-### My Sword Saint Master Is Too Cute to Live With! Anime's Teaser Unveils Cast, January Debut
-Thu, 08 Oct 2026 23:48:13 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/my-sword-saint-master-is-too-cute-to-live-with-anime-teaser-unveils-cast-january-debut/.242651
-
-Ai Kakuma, Seena Hoshiki, Hitomi Ueda, Azusa Tsujimori, Tomoyo Takayanagi, Miyu Tomita join cast
-
-### James Gunn, Big Sean Catch Up at Crunchyroll Anime Future Forum
-Thu, 08 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-08/james-gunn-big-sean-catch-up-at-crunchyroll-anime-future-forum/.242630
-
-<i>Guardians of the Galaxy</i> director, rapper were one-time neighbors
-
-### Everyone's Darling Has a Secret Anime's 1st Teaser Previews Voice Cast
-Thu, 08 Oct 2026 21:28:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/everyone-darling-has-a-secret-anime-1st-teaser-previews-voice-cast/.242648
-
-Crunchyroll streams April 2027 anime
-
-### Magical Buffs Anime's Trailer Unveils More Cast, LiSA's Opening Song, Early Netflix Streaming, January 4 TV Debut
-Thu, 08 Oct 2026 21:17:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/magical-buffs-anime-trailer-unveils-more-cast-lisa-opening-song-early-netflix-streaming-january-4-/.242647
-
-TK (Ling Tosite Sigure) pens "Ecstatic Buffer" song
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Dragon Ball Super: Beerus Brought a Strong Panel and a Stronger Super to New York Comic Con
+Fri, 09 Oct 2026 12:53:15 GMT — https://animecorner.me/dragon-ball-super-beerus-brought-a-strong-panel-and-a-stronger-super-to-new-york-comic-con/
+
+If I had a nickel for every time I'd seen God of Destruction Beerus&hellip;
+
+### Fall 2026 Anime Rankings – Week 1
+Fri, 09 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-1/
+
+Even the Student Council Has Its Holes! leads Anime Corner’s first Fall 2026 weekly ranking, followed by The Apothecary Diaries Season 3 and FX Fighter Kurumi-chan. A total of 5,164 people voted.
 
 ### The Skull Dragon’s Precious Daughter Releases Visual, Trailer and Staff Details
 Fri, 09 Oct 2026 02:16:47 GMT — https://animecorner.me/the-skull-dragons-precious-daughter-releases-visual-trailer-and-staff-details/
@@ -113,22 +123,12 @@ Wed, 07 Oct 2026 23:30:04 GMT — https://animecorner.me/walking-home-with-you-a
 
 Walking Home with You anime revealed a new visual along with an April 2027&hellip;
 
-### Reincarnated as a Sword Season 2 Creditless Opening Featuring FZMZ's "DREAM OF BUTTERFLY" Released
-Wed, 07 Oct 2026 17:55:48 GMT — https://animecorner.me/reincarnated-as-a-sword-season-2-creditless-opening-featuring-fzmzs-dream-of-butterfly-released/
-
-Reincarnated as a Sword Season 2 has released its creditless opening sequence featuring FZMZ's “DREAM OF BUTTERFLY.”
-
-### Black Clover Season 2 Episode 2 Preview and Synopsis Revealed
-Wed, 07 Oct 2026 13:27:52 GMT — https://animecorner.me/black-clover-season-2-episode-2-preview-and-synopsis-revealed/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 2 (Episode 172 overall) ahead of its October 10 premiere.
-
-### Kagurabachi Anime Casts Yuichi Nakamura as Soshiro Azami, New Character Trailer and Visual Revealed
-Wed, 07 Oct 2026 13:20:14 GMT — https://animecorner.me/kagurabachi-anime-casts-yuichi-nakamura-as-soshiro-azami-new-character-trailer-and-visual-revealed/
-
-KAGURABACHI anime has cast Yuichi Nakamura as Soshiro Azami, introducing the character with a new visual and dedicated trailer.
-
 ## MyAnimeList News
+
+### Manga Hotaru no Yomeiri Gets Live-Action Adaptation in 2027
+Fri, 09 Oct 2026 09:15:28 -0700 — https://myanimelist.net/news/74805426?_location=rss
+
+Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video. The live-action series is scheduled to premiere on Fuji TV in 2027. Tachibana began drawing the historical romance manga on the MangaONE platform in January 2023. The 12th volume was released on June 19, with the 13th and final volume scheduled for release on October 19. The television anime is pr...
 
 ### White Fox Produces Monster no Niku wo Kutte Itara Oui ni Tsuita Ken TV Anime Adaptation for 2027
 Fri, 09 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74804055?_location=rss
@@ -184,11 +184,6 @@ The official website for the television anime adaptation of Aki Irie s Hokuhokus
 Thu, 08 Oct 2026 07:24:08 -0700 — https://myanimelist.net/news/74802115?_location=rss
 
 The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast members on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Mao Ichimichi (Tensei shitara Slime Datta Ken), Natsumi Takamori (5-toubun no Hanayome), and Miyuki Sakurai (Kekkon Yubiwa Monogatari II) joined the cast as Hikaru s classmate. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Produc...
-
-### Manga Kimi wa Yotsuba no Clover Ends in Next Chapter
-Thu, 08 Oct 2026 06:43:58 -0700 — https://myanimelist.net/news/74802040?_location=rss
-
-The official X account for author Koushi announced on Thursday that the Kimi wa Yotsuba no Clover (You Are a Four Leaf Clover) manga will end with its next chapter. The 106th and final chapter is scheduled to be released on Weekly Shounen Champion issue 2026 No.46 on October 15. The final chapter will have page count of two chapters. Koushi launched the romantic suspense manga in Weekly Shounen Champion magazine in July 2024. Akita Shoten published the 11th volume on October 7, with the 12th and...
 
 ## Otaku USA
 
