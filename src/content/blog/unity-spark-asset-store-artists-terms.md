@@ -39,8 +39,11 @@ Which is genuinely new, and is also where the reading has to get careful.
 ## The number nobody has published
 
 <figure>
-  <img src="/img/blog/unity-spark-asset-store-artists-terms/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
-  <figcaption>Unity, from its "Introducing Unity Spark" announcement video, 7 October 2026</figcaption>
+  <button class="video-embed" data-video="IkcK7aeMw5A" data-title="Introducing Unity Spark" type="button">
+    <img src="/img/blog/unity-spark-asset-store-artists-terms/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from Unity's Introducing Unity Spark announcement video, showing the browser editor over a sci-fi corridor scene" />
+    <span class="play" aria-hidden="true"></span>
+  </button>
+  <figcaption>Unity's own announcement video, 7 October 2026. The editor chrome along the bottom is the whole product: select, move, rotate, scale, duplicate, delete — and a chat pane beside it.</figcaption>
 </figure>
 
 Unity has not finalised the commercial model. Both 80 Level and PocketGamer.biz
