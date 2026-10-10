@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Pipeline: animating a still photograph, which is how some outlets describe the same thirty seconds, has no performance underneath it at all — the motion is invented, and nobody in the room chose it."
     - "Likeness: a face is the one subject where an audience holds a calibrated reference, so it is the least forgiving place to spend a generated second and the place Boyle spent some of his."
-draft: true
 ---
 
 Thirty seconds. That is the whole budget of generated imagery in *Ink*, Danny
