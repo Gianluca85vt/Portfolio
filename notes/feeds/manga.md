@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-10T10:48:14.391Z
+# Manga — harvested 2026-10-10T18:00:25.631Z
 
 ## Anime News Network
+
+### Japan's Video Game Rankings, September 14-20
+Sat, 10 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/japan-video-game-rankings-september-14-20/.242539
+
+<cite>Fire Emblem: Fortune's Weave</cite> Switch 2 game debuts at #1
+
+### The Ogre's Bride Anime Series Review
+Sat, 10 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-ogre-bride/anime-series/.242191
+
+Yuzu seems passive, but she's really a survivor stumbling her way into the light.
+
+### Japanese Animation TV Ranking, September 21-27
+Sat, 10 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684
+
+<cite>Detective Conan: The Counterfeit Crime Case of Ultra 30</cite> special earns 8.6% rating
+
+### Japanese Animation TV Ranking, September 14-20
+Sat, 10 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-14-20/.242405
+
+<cite>That Time I Got Reincarnated as a Slime</cite> season 4 earns 3.1% rating
+
+### Dr. Stone TV Anime Gets Terraforming Sequel
+Sat, 10 Oct 2026 08:57:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690
+
+Based on story in 27th manga volume
 
 ### Millennium Family TV Anime Casts Taihi Kimura
 Sat, 10 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/millennium-family-tv-anime-casts-taihi-kimura/.242683
@@ -37,36 +62,21 @@ Fri, 09 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>Devil Survivor 2: The Animation</cite> anime; <cite>The Apothecary Diaries: Xiaolan's Story, My Journey to Her, Blue Lock Full Color Selection</cite> manga ship
 
-### Ize Press Announces Print Editions of Regas, Eat Before You Go Webtoons
-Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/ize-press-announces-print-editions-of-regas-eat-before-you-go-webtoons/.242614
-
-<cite>Regas</cite> BL series centers on crown prince whose power comes at the cost of his sanity; <cite>Eat Before You Go</cite> follows hero who returns to earth after defeating demon lord
-
-### Yen Press Licenses Fate/strange Fake, Kino's Journey, Spice and Wolf Diner: Gourmet Exploration, More Manga/Novels
-Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640
-
-Also: <cite>The Girls Adrift Among the Stars</cite>, <cite>Dungeon Master: Creating a Hot Spring Dungeon</cite>, more
-
-### Dragon Quest Heroes: Torneko's Mystery Dungeon - Classic HD Switch 2 Review
-Fri, 09 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-pc/steam-playstation-5-xbox-series-x/s/dragon-quest-heroes/torneko-mystery-dungeon-/.242164
-
-<cite>Torneko's Mystery Dungeon</cite> is not a game that is a roguelike; it is a game that is like <cite>Rogue</cite> - and that distinction is more than mere semantics.
-
-### Firefly Wedding Manga Gets Live-Action Adaptation on TV in 2027
-Fri, 09 Oct 2026 11:50:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/firefly-wedding-manga-gets-live-action-adaptation-on-tv-in-2027/.242676
-
-Anime adaptation debuted on Friday
-
-### This Week in Games - Golden Oldies
-Fri, 09 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-09/golden-oldies/.242490
-
-A major <i>Fire Emblem</i> anniversary and the release of <i>Dead of Brain</i> are among the big topics this week!
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Dr. STONE TERRAFORMING Sequel Anime Announced
+Sat, 10 Oct 2026 12:43:08 GMT — https://animecorner.me/dr-stone-terraforming-sequel-anime-announced/
+
+A new Dr. STONE sequel anime titled Dr. STONE TERRAFORMING is officially in production, continuing the story after the main series.
+
+### How Anime Corner Polls Work: Rankings, Voting, and Common Myths
+Sat, 10 Oct 2026 11:41:12 GMT — https://animecorner.me/how-anime-corner-polls-work-rankings-voting-and-common-myths/
+
+Learn how Anime Corner polls work, how anime rankings are calculated, how voting is reviewed, and the facts behind common misconceptions.
 
 ### My Sword Saint Master Is Too Cute To Live With! Releases Teaser PV and Cast News
 Sat, 10 Oct 2026 00:48:10 GMT — https://animecorner.me/my-sword-saint-master-is-too-cute-to-live-with-releases-teaser-pv-and-cast-news/
@@ -113,17 +123,12 @@ Thu, 08 Oct 2026 20:07:13 GMT — https://animecorner.me/the-guy-she-was-interes
 
 The Guy She Was Interested In Wasn’t a Guy At All anime revealed the first trailer ahead of its January 2027 release date.
 
-### The Apothecary Diaries: The Late Lady's Treasure Anime Film Acquired by Crunchyroll for Global Theatrical Release
-Thu, 08 Oct 2026 13:45:26 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-anime-film-acquired-by-crunchyroll-for-global-theatrical-release/
-
-Crunchyroll has acquired the North American and worldwide distribution rights for The Apothecary Diaries: The Late Lady’s Treasure anime film.
-
-### Stellar Cosplays We Spotted at Cosplay Mania 2026
-Thu, 08 Oct 2026 12:25:25 GMT — https://animecorner.me/cosplay-mania-2026/
-
-Cosplay.ph just held its much-anticipated Cosplay Mania 2026, an all-out celebration of cosplay, anime,&hellip;
-
 ## MyAnimeList News
+
+### New Dr. Stone Anime Announced
+Sat, 10 Oct 2026 06:05:30 -0700 — https://myanimelist.net/news/74808029?_location=rss
+
+The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an illustrations to commemorate the announcement (pictured right). The new anime will adapt the Terraforming one-shot episode included on volume 27 of the original manga. The story is set after the conclusion of the main ser...
 
 ### Zombie no Afureta Sekai de Ore dake ga Osowarenai Unveils Additional Cast, Staff, Theme Songs, First Promo
 Fri, 09 Oct 2026 21:04:54 -0700 — https://myanimelist.net/news/74807103?_location=rss
@@ -179,11 +184,6 @@ The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime
 Thu, 08 Oct 2026 16:41:03 -0700 — https://myanimelist.net/news/74803489?_location=rss
 
 The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul s The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and special promotional video. The anime series will premiere in 2027. Cast Navier: Youko Hikasa (High School DxD) Heinrey: Ryouhei Kimura (Grand Blue) Sovieshu: Tomoaki Maeno (Akatsuki no Yona) Rashta: Reina Ueda (Chainsaw...
-
-### Hokuhokusei ni Kumo to Ike Reveals Lead Cast, Staff, First Promo, 2027 Debut
-Thu, 08 Oct 2026 07:30:57 -0700 — https://myanimelist.net/news/74802125?_location=rss
-
-The official website for the television anime adaptation of Aki Irie s Hokuhokusei ni Kumo to Ike (Go with the Clouds, North-by-Northwest) manga revealed the lead cast, main staff, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere on TBS in 2027 and will stream worldwide exclusively on Netflix. Voice actors Tomohiro Ono (Tomodachi Game) is starring as the lead character Kei Miyama. Staff Chief Director, Series Composition: Takashi Sano (Kam...
 
 ## Otaku USA
 

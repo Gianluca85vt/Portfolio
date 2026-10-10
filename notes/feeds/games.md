@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-10T10:48:14.391Z
+# Games — harvested 2026-10-10T18:00:25.631Z
 
 ## Eurogamer
+
+### Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game
+Sat, 10 Oct 2026 11:44:06 +0000 — https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting
+
+It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more
+
+### Arc Raiders could eventually be split into PvE and PvP, says executive producer
+Sat, 10 Oct 2026 11:21:05 +0000 — https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer
+
+Arc Raiders could eventually be split into PvE and PvP modes. Read more
 
 ### Konami is already thinking about the next wave of Silent Hill games
 Sat, 10 Oct 2026 10:38:48 +0000 — https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto
@@ -52,16 +62,6 @@ Fri, 09 Oct 2026 13:27:34 +0000 — https://www.eurogamer.net/charlie-cox-unanno
 
 British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been announced yet. Read more
 
-### Ace Combat 8 becomes fastest-selling game in the series, and very nearly the highest rated
-Fri, 09 Oct 2026 13:22:03 +0000 — https://www.eurogamer.net/ace-combat-8-sales
-
-Ace Combat 8 has become the fastest-selling game in the aerial combat series, soaring to 1 million sales since its release roughly a week ago. Read more
-
-### EA Sports FC 27 review
-Fri, 09 Oct 2026 12:33:20 +0000 — https://www.eurogamer.net/ea-sports-fc-27-review
-
-The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can roam and rise. It's touching not for its play &ndash; which lets you challenge people to rounds of Rush football, where the ghosts of Volta and Fifa Street happily haunt &ndash; but for its look. There are three open hub areas to explore, one styled on the UK, another on Paris, and a third on Argentina. The streets are clean, and cluttered by bustling NPCs. Here and there are luminous white-domed kiosks, with all the promise of an artist's impression of an upcoming Heathrow terminal. If I didn't know better, I'd say that the developers at EA Vancouver and EA Romania were paying homage to PlayStation Home. There, too, you could list through weird streets and glassy booths, clad in store-bought clothes, and beat other players in mini-games of all kinds. There, too, you felt the looming threat of a shutdown. Read more
-
 ## GamesIndustry.biz
 
 ### This should be game streaming’s moment. It's not | Opinion
@@ -99,36 +99,26 @@ Fri, 09 Oct 2026 07:44:35 +0000 — https://www.gamesindustry.biz/ubisoft-announ
 
 Rainbow Six Mobile is shutting down less than a year after its global launch. The free-to-play tactical shooter will remain available to play until January 15, 2027. Read more
 
-### Mixtape wins three awards at Australian Game Developer Awards 2026, including GOTY
-Thu, 08 Oct 2026 13:58:42 +0000 — https://www.gamesindustry.biz/mixtape-wins-three-awards-at-australian-game-developer-awards-2026-including-goty
-
-The winners of this year's Australian Game Developer Awards have been revealed, with Beethoven & Dinosaur's Mixtape receiving three awards, including Game of the Year alongside Excellence in Art and Sound Design. Read more
-
-### "A creative idea can save more money than AI can right now" – Glen Schofield on his retirement, Callisto Protocol's development, and the state of AAA
-Thu, 08 Oct 2026 13:30:00 +0000 — https://www.gamesindustry.biz/a-creative-idea-can-save-more-money-than-ai-can-right-now-glen-schofield-on-his-retirement-callisto-protocols-development-and-the-state-of-aaa
-
-During the summer, veteran developer Glen Schofield announced his retirement from the games industry . Read more
-
-### Safe In Our World launches Four Billion Players campaign to make mental health support more accessible for gamers
-Thu, 08 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/safe-in-our-world-launches-four-billion-players-campaign-to-make-mental-health-support-more-accessible-for-gamers
-
-Mental health charity Safe In Our World has launched Four Billion Players, a campaign to raise awareness of mental health support for gamers. Read more
-
-### NBA 2K27 tops US August charts, becomes third-best selling game of 2026 | US Monthly Charts
-Thu, 08 Oct 2026 13:00:00 +0000 — https://www.gamesindustry.biz/nba-2k27-tops-us-august-charts-becomes-third-best-selling-game-of-2026-us-monthly-charts
-
-NBA 2K27 topped the US charts in August, becoming the third-best-selling game of the year according to Circana data. Read more
-
-### Xbox announces new XP division to deliver transmedia spinoffs including film, TV, and theme parks
-Thu, 08 Oct 2026 12:18:40 +0000 — https://www.gamesindustry.biz/xbox-announces-new-xp-division-to-deliver-transmedia-spinoffs-including-film-tv-and-theme-parks
-
-Xbox has announced a new XP business unit, dedicated to transmedia brand extensions, including the Fallout TV series and the Minecraft World theme park. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation
+Sat, 10 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation
+
+Predictions peg full-price sales at just 230k. According to the reporting during Summer Game Fest , an almost-finished PS5 version of Gears of War: E-Day exists somewhere within dev The Coalition’s office . The game was rated for release on Sony’s console in various regions, and Microsoft accidentally spilled the beans by broadcasting an unedited version of the third-person shooter’s trailer, including a PlayStation logo at the end. Read the full article on pushsquare.com
+
+### Tekken 8 s Reina Officially Announced as Fatal Fury PS5 s Next Challenger
+Sat, 10 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/tekken-8s-reina-officially-announced-as-fatal-fury-ps5s-next-challenger
+
+And two Tokyo Revengers characters out this month. If you’re not playing Fatal Fury: City of the Wolves , then to quote Nintendo exec Reggie Fils-Aime: what’s wrong with you? I know there are contentious issues behind how SNK is getting funded, but as a fighter, this game is pretty unprecedented. Read the full article on pushsquare.com
+
+### Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)
+Sat, 10 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october
+
+Planet Zoo 2! Castlevania: Belmont's Curse! Valor Mortis! The release schedule has been turbo on the PS5 for well over a month now, and it’s showing no signs of slowing down next week. If I were to pick some highlights this time, I’d probably point to tycoon title Planet Zoo 2 , with its insanely realistic animal models – and Castlevania: Belmont’s Curse , which sees one of the original Metroidvanias get an all-new adventure. Read the full article on pushsquare.com
 
 ### Sonic Racing: CrossWorlds Now Permanently Cheaper, and It s Going Absolutely Bananas with DLC in Year 2
 Sat, 10 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2
@@ -175,21 +165,6 @@ Fri, 09 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/anothe
 
 Is something brewing? Sony has released another firmware update for the PS Portal, only two weeks after the previous one . It's worth noting because updates like this are rarely so close together. The portable streaming device is now up to system software version 7.3.0, with the update itself being rolled out in phases. Read the full article on pushsquare.com
 
-### Ace Combat 8 Has Sold One Million Copies Faster Than Any Previous Entry in the Series
-Fri, 09 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/ace-combat-8-has-sold-one-million-copies-faster-than-any-previous-entry-in-the-series
-
-Onward and upward. Publisher Bandai Namco has announced some very positive news about the sales performance of Ace Combat 8: Wings of Theve . The latest entry has set a new record for the long-running fighter jet action series; it's the fastest-ever to reach one million copies sold. Read the full article on pushsquare.com
-
-### ANOMALITH s New PS5 Demo Is a Scrappy Throwback to Classic Resident Evil
-Fri, 09 Oct 2026 08:00:00 GMT — https://www.pushsquare.com/news/2026/10/anomaliths-new-ps5-demo-is-a-scrappy-throwback-to-classic-resident-evil
-
-I recommend you take a look. I want to be 110% clear before we properly get into this article: ANOMALITH channels classic Resident Evil , but it’s nowhere near as good. Don’t go into this demo expecting Capcom quality, because you won’t get it. That said, this scrappy little survival horror shooter reminds me of the original Resident Evil Revelations in a positive way – it’s got that simplistic, mindless kinda feel to it which I sometimes appreciate. Read the full article on pushsquare.com
-
-### Preview: Phantom Blade Zero Is the Next Truly Essential PS5 Game
-Fri, 09 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/previews/phantom-blade-zero-is-the-next-truly-essential-ps5-game
-
-A six-hour deep dive into the action title. All bets are off once GTA 6 comes out, but in the weeks leading up to it, you have to let Phantom Blade Zero take up all of your free time. I played six hours of the game on a trip to Beijing, China (more on that in the future) and found it to be one of the most confident and impressive Western debuts from a developer in years. This is not a studio finding its footing in the action genre; it’s one already primed to lead it. Outstanding combat and boss encounters will make the S-GAME effort one of this year’s greatest experiences. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Ubisoft to sunset Rainbow Six Mobile just seven months after launch
@@ -207,16 +182,6 @@ Thu, 08 Oct 2026 18:05:00 GMT — https://www.gamedeveloper.com/business/trump-a
 
 The tech giant is no longer able to apply for H1-B visas for employees who come to live and work in the United States, potentially stymieing Xbox hiring.
 
-### Xbox CEO unveils 'new Xbox division' for game-adjacent ventures named 'XP'
-Thu, 08 Oct 2026 17:28:52 GMT — https://www.gamedeveloper.com/console/xbox-ceo-unveils-new-xbox-division-for-game-adjacent-ventures-named-xp-
-
-Xbox is doubling down on its more IP-centric strategy with a division dedicated to expanding those properties outside of games.
-
-### Denuvo attempts to subpoena Discord, Valve, and Reddit in effort to identify hacker
-Thu, 08 Oct 2026 15:13:44 GMT — https://www.gamedeveloper.com/business/denuvo-attempts-to-subpoena-discord-valve-and-reddit-in-effort-to-identify-hacker
-
-After numerous and consistent cracks over the last year, Denuvo wants to find the hacker that has compromised its security through other online platforms.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
 
@@ -233,6 +198,26 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 no date — https://www.gamedeveloper.comconference.godotengine.org
 
 ## VGC
+
+### DD2 Dark Arisen: Hal’s Treasure Hunt quest guide
+Sat, 10 Oct 2026 15:23:03 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/
+
+Where to find the hidden treasure to complete the Hal's Treasure Hunt quest in Dragon's Dogma 2: Dark Arisen… Source
+
+### DD2 Dark Arisen transmog: How to change armor appearance
+Sat, 10 Oct 2026 14:12:37 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-transmog-how-to-change-armor-appearance/
+
+How to unlock transmog and armor appearance customization in Dragon's Dogma 2: Dark Arisen… Source
+
+### US console hardware market at its most precarious position since the 80s , says Circana
+Sat, 10 Oct 2026 12:53:54 +0000 — https://www.videogameschronicle.com/news/us-console-hardware-market-at-its-most-precarious-position-since-the-80s-says-circana/
+
+Xbox sales hit an all-time low as US console prices reach record highs… Source
+
+### Will GTA 6 make its way to Switch 2? Nintendo isn’t saying
+Sat, 10 Oct 2026 12:07:44 +0000 — https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/
+
+Nintendo of America boss defers GTA 6 questions to Rockstar and Take-Two… Source
 
 ### Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega
 Sat, 10 Oct 2026 09:55:44 +0000 — https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/
@@ -264,79 +249,104 @@ Fri, 09 Oct 2026 17:28:16 +0000 — https://www.videogameschronicle.com/guide/dd
 
 How to reach the Winterweed Blossom and find the Coldstools in Dragon's Dogma 2: Dark Arisen… Source
 
-### Podcast: PlayStation is bringing back old franchises, but which ones do we want most?
-Fri, 09 Oct 2026 16:52:58 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-playstation-is-bringing-back-old-franchises-but-which-ones-do-we-want-most/
-
-Plus: A used PS5 Pro is how much?! Source
-
-### DD2 Dark Arisen: Where to find Amos, The Truant Soldier quest guide
-Fri, 09 Oct 2026 16:48:16 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-where-to-find-amos-the-truant-soldier-quest-guide/
-
-Where to find Amos during Dragon's Dogma 2: Dark Arisen's The Truant Soldier quest… Source
-
-### Evercade Nexus review: The best Evercade handheld yet makes it a joy to play retro games on the move
-Fri, 09 Oct 2026 14:50:05 +0000 — https://www.videogameschronicle.com/review/evercade-nexus-review-the-best-evercade-handheld-yet-makes-it-a-joy-to-play-retro-games-on-the-move/
-
-With nearly 90 carts and 750 games, Evercade is one of the best ways to build a modern… Source
-
-### Crimson Desert s lower review scores were because critics didn t get a fair chance to explore , exec says
-Fri, 09 Oct 2026 11:34:18 +0000 — https://www.videogameschronicle.com/news/crimson-deserts-lower-review-scores-were-because-critics-didnt-get-a-fair-chance-to-explore-exec-says/
-
-The press "had limited time" and didn't play the launch version… Source
-
 ## Polygon
 
-### Persona’s Horrifying Dong Monster Will Haunt My Nightmares Forever
-Sat, 10 Oct 2026 10:00:15 GMT — https://www.polygon.com/persona-atlus-scariest-mara/
+### 10 Essential GameCube Games Still Missing From Switch Online
+Sat, 10 Oct 2026 18:00:17 GMT — https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/
 
-Atlus’s Persona series of role-playing games incorporates a huge variety of mythological and folkloric creatures from around the world. Some are formidable warriors like Odin from Norse mythology or the Hindu goddess Lakshmi. Others are cute and charming, like Alice from Alice in Wonderland or the spooky snowman Jack Frost. They function kind of like Pokémon : your protagonist can equip a variety of Personas with different skills, strengths, and weaknesses. But there’s one Persona that’s not like the others. He’s so scary that Atlus had to design a censored version of him. His name is Mara, and I hate him.
+GameCube games have been available on Nintendo’s Switch Online service for well over a year at this point (at least for those who subscribe to the Expansion Pack add-on). But despite the GameCube’s robust catalogue of terrific games, the Switch Online offerings remain slim.
 
-### Halo officially returns in 2 weeks with new release
-Sat, 10 Oct 2026 10:00:15 GMT — https://www.polygon.com/halo-novel-release-date/
+### Disney World and Disneyland Official Price Surge Concerns Attendees
+Sat, 10 Oct 2026 17:34:51 GMT — https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/
 
-Bungie's bestselling military science fiction FPS, Halo , has spawned an impressive amount of content over the years since Halo: Combat Evolved was released for the Xbox in 2001. Debuting alongside Halo was the franchise's first tie-in novel, The Fall of the Reach, by Eric Nylund. Since then, there have been more than 30 novels written by a host of authors set in the wildly popular Halo universe.
+Disney has raised ticket prices at both Disneyland and Disney World parks. Not all ticket types have been affected by these changes, however. There are still options that allow fans to visit the theme parks for a more affordable price.
 
-### Avatar: Seven Havens's Biggest Plot Twist May Be Hiding in Plain Sight
-Sat, 10 Oct 2026 09:00:15 GMT — https://www.polygon.com/avatar-seven-havens-seven-chakras/
+### Black Clover is Officially Crunchyroll's Most-Liked Anime Of The Year
+Sat, 10 Oct 2026 17:01:28 GMT — https://www.polygon.com/black-clover-season-2-premiere-most-liked-crunchyroll/
 
-Avatar: Seven Havens is a far more mystery-driven series than its predecessors, The Legend of Korra and Avatar: The Last Airbender . Avatar Korra supposedly caused a cataclysm that destroyed most of the world, but it’s unclear why she would do that and how the new Avatar might be able to fix things. The first episode of Seven Havens premiered on Oct. 9, and the writers may have already provided some big hints about what’s going on.
+The second season of the Black Clover anime premiered on October 3, and in the week since its release, it has set a record on the anime streaming service Crunchyroll. As it stands, the first episode of Black Clover Season 2 is the most-liked anime premiere of 2026.
 
-### 5 Brilliant Anime That Don’t Waste a Single Episode
-Sat, 10 Oct 2026 08:07:15 GMT — https://www.polygon.com/brilliant-anime-with-no-bad-episodes/
+### 59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update
+Sat, 10 Oct 2026 17:00:17 GMT — https://www.polygon.com/star-trek-city-on-the-edge-of-forever/
 
-Subjective taste inevitably plays a role here. A contemplative series like Mushi-shi and a sprawling space opera like Legend of the Galactic Heroes offer radically different versions of great storytelling. For this list, we’re focusing on anime that combine distinctive animation with narrative ambition, embrace complicated characters, and avoid wasting their limited time. These five anime prove that when every episode matters, even a short series can feel monumental.
+Some television episodes eventually become bigger than the shows they’re a part of. “The City on the Edge of Forever” isn't quite bigger than Star Trek , but nearly 60 years after it first aired, it remains one of the franchise's most celebrated hours.
 
-### 5 Sci-Fi Books That Are Better Than Their Movie Adaptations
-Sat, 10 Oct 2026 08:00:15 GMT — https://www.polygon.com/sci-fi-books-better-movie-adaptations/
+### 7 Final Fantasy Games That Deserved Better
+Sat, 10 Oct 2026 16:57:49 GMT — https://www.polygon.com/ff-final-fantasy-games-underrated-overlooked/
 
-In some cases, a sci-fi movie adaptation can be spectacular, and still feel like a pale imitation of the source material. This has less to do with the quality of the adaptation itself, and more with the nuances that can only be conveyed through the literary medium. Sci-fi stories get streamlined and condensed onscreen for valid reasons, but the original still shines brighter in some respects. Here are five such examples where you're better off going straight to the source material than watching the movie it inspired.
+Trick question: How many Final Fantasy games are there? Sure, Square Enix has made plenty of sequels and spinoffs over the years in addition to the mainline 16 games. But you might not realize there’s been more than 100 Final Fantasy games since the series got its start on the NES back in 1987. Even if you’re a series superfan, odds are you haven’t played most Final Fantasy games.
 
-### Pokémon Go Zorua Community Day event guide
-Sat, 10 Oct 2026 03:13:52 GMT — https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/
+### 7 Switch 2 Characters Nintendo Should Add to the Next Super Smash Bros.
+Sat, 10 Oct 2026 16:41:25 GMT — https://www.polygon.com/switch-2-super-smash-bros-character-predictions/
 
-Pokémon Go is having a Zorua Community Day event on Saturday, Oct. 10 from 2-5 p.m. in your local time. This Community Day only features the original Unovan Zorua , not the normal- and ghost-type Hisuian Zorua.
+We’re well over a year into Nintendo’s Switch 2 era , and the hits keep on coming. Games like Donkey Kong Bananza , Pokémon Pokopia , and Splatoon Raiders have helped to reinvent Nintendo’s most reliable franchises, while games like Fire Emblem: Fortune's Weave have only increased the quality bar for stalwart ones. The extent to which things have changed may not be apparent yet, but they’ll be crystal clear once Switch 2 gets its all-but inevitable next Super Smash Bros. game.
 
-### Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer
-Sat, 10 Oct 2026 01:55:09 GMT — https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/
+### WandaVision Creator Set To Develop New Stargate Series
+Sat, 10 Oct 2026 16:01:56 GMT — https://www.polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer/
 
-The Exorcist: Martyrs was promising from the get-go, with horror master Mike Flanagan taking the helm as writer and director, accompanied by a star-studded cast. On Wednesday, we got a first look at Flanagan's The Exorcist: Martyrs with a short teaser. Now, the first full trailer for the supernatural thriller movie is officially out, and it promises a good time for fans of the original as well as those jumping into the franchise for the first time.
+After a failed attempt, Amazon MGM Studios is once again developing a Stargate series. According to Variety , the company is bringing on Jac Schaeffer, the showrunner of one of Disney Plus's most successful shows, WandaVision .
 
-### Pokémon Winds and Waves' Water Starter Breaks a Series Curse
-Sat, 10 Oct 2026 01:20:15 GMT — https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/
+### Avatar: Seven Havens is a brilliant take-down of Korra's biggest haters
+Sat, 10 Oct 2026 16:00:16 GMT — https://www.polygon.com/avatar-seven-havens-korra-haters-are-wrong/
 
-Every starter in a new Pokémon generation erects an army of staunch defenders, but like it or not, some monsters are loved more than others. And for a couple of decades now, it seems like fire-type starters and grass-type starters keep taking turns stealing the spotlight. But when was the last time a water-type starter turned the collective Pokémon fandom's head?
+The Korra series finale — as later seen in high-definition under normal connection speeds — is still one of my favorite endings (and favorite TV shows) of all time. But it’s hard to ignore the flaws; from a slashed budget that forced the animators to rely on still images for some pivotal scenes instead of fluid animation, to a planned kiss between Korra and Asami that studio executives rejected in favor of some charged hand-holding , the finale leaves a lot to be desired. A small but vocal contingent of fans who rejected the premise of a rebellious young female Avatar as a replacement for the lovable and exuberant boy wunderkind Aang from Avatar: The Last Airbender cast a dark cloud over the whole enterprise. Even for Korra 's biggest fans, the overall experience of Korra was an imperfect one.
 
-### MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027
-Sat, 10 Oct 2026 00:30:16 GMT — https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/
+### I Have Discovered The Best Game Soundtrack of 2026 and It Is Super Woden: Rally Edge
+Sat, 10 Oct 2026 15:31:42 GMT — https://www.polygon.com/super-woden-rally-edge-game-music-best-2026/
 
-Magic: The Gathering players have repeatedly complained that Universes Beyond sets feel too far removed from the game’s fantasy genre and original storytelling. Wizards of the Coast revealed a clever compromise at New York Comic Con : a set based on an original story in the Marvel Universe that was specifically written to fit Magic’s mechanics and vibe.
+Video game soundtracks are pretty respectable these days. Earlier this year, I watched James Bond composer David Arnold take the stage at the BAFTA Games Awards and pay tribute to the medium before presenting an award to Toma Otowa for the Ghost of Yōtei soundtrack. After a sustained campaign for recognition by a PR friend of mine, UK classical music radio station Classic FM now frequently plays video game scores. It's small wonder, really; game music concerts now regularly sell out, which must be a boon for classical venues and musicians everywhere (even if they were used as a punchline in Tár ). Zelda tickets , anyone?
 
-### It’s Officially the Dawn of a New Era for 'Magic the Gathering' Universes Beyond
-Sat, 10 Oct 2026 00:30:16 GMT — https://www.polygon.com/mtg-darkhold-destinies-spoilers-marvel-universes-beyond/
+### Grand Theft Ocarina Could Be Gaming's Barbenheimer
+Sat, 10 Oct 2026 15:00:18 GMT — https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/
 
-Magic ’s first Universes Beyond set of 2027, Darkhold Destiny , looks to finally bridge that gap by uniting the best of both worlds in what feels like the most ambitious UB set yet. Polygon spoke to the Darkhold Destiny team ahead of the set's big reveal at New York Comic Con 2026 to get a behind-the-scenes look. Here’s what we learned and why it has us so excited for Marvel’s third crossover set.
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
 
 ## PC Gamer
+
+### Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard
+Sat, 10 Oct 2026 16:55:26 +0000 — https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/
+
+Valve's latest MOBA might still technically be conducting an invite-only test, but it's nevertheless one of the most popular games of its ilk. Yesterday, right as the game added the latest in its current batch of six new democratically released heroes , its concurrent player-count hit a new screaming high: 262,145 simultaneous players, according to SteamDB . While that's pretty impressive on its face, it'll be especially noteworthy to long-time fans of Valve's games that this surge of activity brought Deadlock past Team Fortress 2's all-time concurrent player count peak of 253,997. Though this doesn't include the player numbers TF2 saw on the Xbox 360 and PS3 as part of The Orange Box, which I'm sure were positively through the roof, it's still conceivably its genuine peak given that it was just three years ago. As for how TF2's history of botting issues and idle servers might have affected that number, I can't say. It's not a one-to-one—PC gaming was a smaller phenomenon overall when TF2 was at the height of its popularity, and its Quake-descended slapstick arguably appeals to a smaller crowd than a hero shooter-MOBA hybrid does today—but it's an impressive showing for Deadlock given that the MOBA space is notoriously hard to break into. I guess that's the power of having a digital storefront so massive that you can afford to perform mad science experiments on a game for multiple years without making a single cent off of it directly. Not that things always go this way for Va
+
+### The studio behind Star Wars Zero Company is bringing back some of its furloughed staff
+Sat, 10 Oct 2026 16:52:57 +0000 — https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/
+
+Just as Star Wars Zero Company was set to launch earlier this year, developer Bit Reactor furloughed over 80% of its staff over sales uncertainty . In other words, much of its staff were receiving no pay, despite technically being employees, right when players were getting their hands on the game. Earlier this week on Bluesky , the studio announced it had begun undoing this "difficult decision" (via gamesindustry.biz ). Bit Reactor CEO Greg Foertsch said in the statement that the decision was made in response to "unexpected business developments outside of our control," but that it was "necessary to help us eventually bring as many people back as possible." According to Game File , an unnamed source "familiar with the situation" has said that the developer's payroll is back up to more than half what it was before the furloughs. When this first happened, Game File reported that 80 percent of Bit Reactor employees were affected, hamstringing any sort of support following the game's release, and that the decision fell with Bit Reactor, not publisher EA. While the launch had some issues, some of the most prominent of which were addressed in a patch shortly after release , the game shot up the Steam best seller's list and got a glowing review from PC Gamer associate editor Ted Litchfield, who called it "a new all-timer Star Wars game and a stunning debut for Bit Reactor." 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best F
+
+### WoW: Forever, by casting off modern convenience, has horseshoed back around to being casual friendly again
+Sat, 10 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-by-casting-off-modern-convenience-has-horseshoed-back-around-to-being-casual-friendly-again/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. World of Warcraft: Forever seems, at first blush, like an antidote to the idea of a modern MMO. I see it in the (naturally, traditionally) insufferable trade chat as I potter about on my fury warrior—people turning up their noses at the idea of retail players. Cushioned as they are in their soft little bubbles, ptooie! But as someone with a 9-5 job and other MMOs I play, I wouldn't particularly describe myself as a "hardcore" WoW player. Competent, sure. I've cleared high-end content in other games (like a Savage tier in FF14). I know how to push buttons and avoid mechanics—and I also like hard games in general . But I'm definitely not on that grindset, particularly not in a beta. And while I do admire the folks trying to get best-in-slot gear for a month—there's something beautiful and ephemeral about the effort—I do have to wonder: Are we playing the same game? Because WoW: Forever's actually super casual friendly. And if you played it with the right attitude, honestly, Classic was pretty casual friendly, too. Seasonal grindset WoW's gone through what I'm going to frame as a water cycle of difficulty—its starting point, back in vanilla, 
+
+### Triple-A Minesweeper is a gleeful send-up of blockbuster gaming's worst habits, from yellow paint to characters who talk too much
+Sat, 10 Oct 2026 14:07:03 +0000 — https://www.pcgamer.com/games/puzzle/triple-a-minesweeper-is-a-gleeful-send-up-of-blockbuster-gamings-worst-habits-from-yellow-paint-to-characters-who-talk-too-much/
+
+In recent years, triple-A games have often been criticised for overly excessive handholding, overcompensating for a dread fear that the player might become stuck. This has manifested in numerous ways like Atreus' heavy-handed puzzle hints in God of War: Ragnarok , yellow paint splashed on every other ledge of Stellar Blade , and most recently, Marvel's Wolverine essentially playing itself for entire portions of the game. I'm not here to weigh in on that debate. Instead, I'm simply going to point you to Triple-A Minesweeper , a delightful spoof game created by developer Mike Lacher, which expertly skewers some of blockbuster gaming's most egregious habits. Now, before I describe the experience of playing Triple-A Minesweeper, I strongly suggest that you go and play it . It only takes about five minutes, so in explaining it I will probably tell you about most of the game. It should also give you a giggle, perhaps several, even! But if you insist on reading on, then unlike regular Minesweeper, which begins by letting you play Minesweeper, Triple-A Minesweeper opens with a bunch of un-skippable title cards for third-party software and developers, before we get the dramatic title of the game itself. Then your character—the Sweeper—slowly blinks open his eyes as a woman called Nora fills you in on the situation, namely that you need to sweep some mines. But where should you begin sweeping on that terrifying grey grid? Fear not, because Nora has added a diamond-shaped yellow marker 
+
+### Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'
+Sat, 10 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/games/life-sim/be-warned-nivalis-nights-may-not-be-the-cozy-game-you-expect-if-you-want-a-cozy-existence-in-this-city-youre-going-to-have-to-earn-it/
+
+The popular user-added tags for Nivalis Nights on Steam are: Cyberpunk, simulation, life sim, management, and relaxing. It is definitely a cyberpunk shop/life sim, but relaxing? This one was on the wishlists of a lot of cozy gaming fans, including me. After playing it though, I'm not sure it's the kind of cozy most people would expect. Here's what lead writer Thomas Welsh had to say: The volume of quests and story content in Nivalis Nights feels overwhelming at times. Was that intentional? The cozy is right there, on the rich people island, nearly obscured by my stuffed quest HUD. (Image credit: Ion Lands) Well, cozy always has been in the eye of the beholder ]]>
+
+### The advent of first-person shooters introduced a wild frontier of unregulated video game level packs, and it ended in a lawsuit that changed copyright forever
+Sat, 10 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/games/fps/the-advent-of-first-person-shooters-introduced-a-wild-frontier-of-unregulated-video-game-level-packs-and-it-ended-in-a-lawsuit-that-changed-copyright-forever/
+
+Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . For most of PC gaming history, there were three states of PC game—your regular old video game, expansions/DLC, and mods. But for a brief period in the 1990s, there was a fourth state, the level pack—collections of levels for the early first-person shooters like Duke Nukem 3D and Quake . These level packs were sold on shelves as boxed products just like their video game counterparts. But they occupied a far more amorphous position between the other three states of PC gaming. In form and structure, they were similar to expansions, and are sometimes bundled into the same category. The Master Levels for Doom 2, for example, are regarded as an official expansion to that game. Others, however, were marketed as "Official Mission Packs," like Quake's additional episodes Scourge of Armagon and Dissolution of Eternity. On top of these were unofficial mission packs, like those published by Wizardworks for Duke Nukem 3D. Some of these level packs played small but important roles in FPS history, acting as the primordial soup from which some of the genre's latter-day designers emerged. But they also represented a digital Wild We
+
+### Expect plenty more Silent Hill over the next few years, as Konami has plans for 'second and third waves' of new games in its revived horror series
+Sat, 10 Oct 2026 12:26:13 +0000 — https://www.pcgamer.com/games/horror/expect-plenty-more-silent-hill-over-the-next-few-years-as-konami-has-plans-for-second-and-third-waves-of-new-games-in-its-revived-horror-series/
+
+Silent Hill's resurrection is one of the happier stories to emerge from the games industry in recent years. After spending roughly a decade locked in a Konami cupboard, Silent Hill has received three new entries published by Konami in as many years, all of which arrived to positive reviews and, seemingly, healthy sales. But if Silent Hill 2 Remake, Silent Hill f , and Silent Hill: Townfall still haven't satisfied your craving for allegorical horror in foggy towns, fret not, because Konami has plenty more plans for the series' ongoing revival. In an interview featured in Famitsu (via IGN ), Silent Hill producer Motoi Okamoto explained that Konami is "relieved" by both the critical and commercial reception to the aforementioned three games. "All three titles we initially announced were able to be released successfully," Okamoto said, adding that, "they've also received high praise, and we are satisfied with it." Okamoto went on to say that the games released so far only represent the "first wave" of Konami's planned games for the series, and that there's not one but two additional waves on the drawing board. "Successfully launching this 'first wave' comes with great relief, but we're not stopping here; we must think of the second and third waves," Okamoto stated. "We can't share specific details, but we're currently looking at a number of projects." It's a very different situation from where Silent Hill was only a few years ago. During the chat, Okamoto revealed that persuading
+
+### 'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG
+Sat, 10 Oct 2026 11:12:58 +0000 — https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/
+
+Certain ideas that crop up every so often in games will always grab my attention. One of them is letting players defeat enemies with bits of other enemies. As such, my interest in Heathen—an upcoming indie dungeon crawler—went from 'mildly curious' to 'smashing the wishlist button' when its most recent trailer revealed you can beat your foes by volleying other enemy heads at them. Developed by solo developer Christoper Yabsley, Heathen takes the frantic monster bashing and loot hoarding of Diablo and reworks it for a first-person perspective. Set in the fantasy town of Saltgrave, it sees your character seeking fortune and glory in the vast subterranean labyrinth beneath the town, encountering an "ancient horror" in the process in what the Steam page describes as a "descent into madness." The chief addition that the trailer explores is a new enemy dismemberment system added by Yabsley, which he says has "done a lot for making swords and axes feel really good". As a longtime fan of first-person melee games like Dark Messiah of Might and Magic and Warhammer: Vermintide 2 (the latter of which is an influence on Heathen's combat), I'm highly impressed by how slick and tactile Heathen's combat looks. It isn't easy to make first-person swordplay satisfying—especially as a solo indie dev—and Heathen's fast-paced hacking and slashing makes an excellent initial impression. Yabsley says that dismemberment will have greater implications for combat than simply making it grislier. As playe
+
+### Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update
+Sat, 10 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/
+
+Here's a truth no one but I am willing to admit: Mafia 3 was good, actually. Please disregard PC Gamer's 54% Mafia 3 review . I don't know what happened there. Possibly Andy Kelly put the wrong game disc in by mistake. I understand they were still using game discs in 2016, alongside gramophones, the telegram, wax cylinders and what have you. It's now 10 years old, which is deeply troubling, but earlier this week it got a new patch. "We're honouring a decade of Lincoln's legacy with a new Steam update bringing quality-of-life enhancements to Mafia 3: Definitive Edition, live now," says Hangar 13. Don't expect anything gargantuan. If you bounced off Lincoln Clay's stylish and impeccably soundtracked (though, yes, a little repetitive, I will grudgingly admit) crusade against '60s mafioso racists back in the day, this probably won't lure you back in. Nevertheless, there are some nice changes here, and the ones that the devs give a particular spotlight are less janky mission progress, better NPC behaviour, and better achievement tracking. That last one is self-explanatory, but for mission progress, the various little hitches that could interfere as you made your way through Mafia 3's main story have now been tended to: "We addressed several spots where players reported getting stuck and unable to make progress in missions like 'Get Enzo Conti,' 'Kill Tommy Marcano,' and the Epilogue" as well as some other mid-mission crashes that could occur. Meanwhile, the fixes to NPCs should me
 
 ### 2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana
 Sat, 10 Oct 2026 00:20:52 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/
@@ -352,51 +362,6 @@ I introduced Overcooked to two of my friends one day back in 2016. One day being
 Fri, 09 Oct 2026 21:54:26 +0000 — https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/
 
 X A Deadline report says Paramount Pictures is working with CD Projekt Red on a live-action movie set in the Cyberpunk 2077 universe, with Lorenzo di Bonaventura, whose previous films include a pile of Transformers movies, a couple GI Joe flicks, and the 2005 Doom movie starring The Rock, attached to produce. CD Projekt Red co-CEO Michał Nowakowski confirmed the report on X : (Image credit: Michał Nowakowski (Twitter)) There's really no more detail at this point, so instead of talking about that I'm going to take a hard swerve and remind everyone that the perfect cyberpunk movie already exists, and it even stars Johnny Silverhand himself, Keanu Reeves—as another guy named Johnny who's having a rough time in the cyber-future, believe it or not. It's called Johnny Mnemonic, and folks, it is cinema . Johnny Mnemonic, based on a William Gibson short story of the same name, came out in 1995 and is set in the year 2021, which as you may know has already come and gone. Reeves plays a "mnemonic courier" who transports sensitive information in his head—he can carry nearly 80 gigs of data!—because the internet is an insecure digital goat rodeo filled with scammers, grifters, hackers, and various other forms of criminal lowlife. (The movie sure got that right, at least.) Johnny (Mnemonic, not Silverhand) takes on a high-risk, high-reward mission, which naturally goes south almost immediately: He's hunted by the yakuza, betrayed by his handler, rescued by a sexy cyborg, gets his ass beat
-
-### Don't worry, Valve: I've got your next Deadlock character concepts sorted
-Fri, 09 Oct 2026 19:41:12 +0000 — https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/
-
-Deadlock is one of the most delightful things happening in videogame art direction. It's a festival of phenomenal vibes: a striking setting, an all-timer aesthetic that bleeds into every scrap of environmental art and UI element, and—crucially—a roster of instantly charming occult character designs. That roster, however, is missing something—a few somethings, in fact. While Deadlock's heroes cover a broad spectrum of the spooky and supernatural, it's got some glaring gaps where foundational elements of cryptozoology and occult lore are sorely overlooked. But don't fret, Valve designers: I've done your next round of ideation for you. I've prepared some promising character concepts that, I think we'll all agree, will realize the Cursed Apple's untapped potential. Let's begin: The Summer Mummy (from Heathcliff) (Image credit: Creators Syndicate, Inc.) Deadlock's already got draculas. It's got werewolves. It's got a Frankenstein. When you're already this deep in monster mash territory, a mummy's a layup. It's Spooky Stuff 101. The problem, however, is that it's not enough to be just a mummy in New York. New York is where they make cool people. If you're going to hang with the Cursed Apple's finest, you're going to need style. Enter the Summer Mummy, a character first introduced in Heathcliff—the comic strip about the orange cat who isn't Garfield—on August 17, 2023 . The Summer Mummy is much like your typical bandaged revenant, except chill and fun. He wears floral boardshorts. H
-
-### Leisure Suit Larry is about to take his final bow
-Fri, 09 Oct 2026 18:20:12 +0000 — https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/
-
-2018's Leisure Suit Larry: Wet Dreams Don't Dry was a genuinely pleasant surprise, in that it's actually good—quite a contrast to the preceding games in the series, Magna Cum Laude and Box Office Bust, which were decidedly not good. A sequel followed, Wet Dreams Dry Twice , and once again it was pretty good stuff—not hugely innovative or high art, but a genuine Leisure Suit Larry experience that manages to avoid embarrassing itself (though it embarrasses Larry himself plenty). Both of them, sadly, are soon going away for good. An announcement on Steam from publisher Assemble Entertainment says both games are being removed from the store on October 23. Ahead of that, they're being offered seriously cheap: 95% off the regular price, dropping them to less than $2 each. The removal of the Wet Dreams duo effectively puts a pin in a process than began in 2025, when the OG Larry games were removed from sale: Leisure Suit Larry – Magna Cum Laude Uncut and Uncensored Leisure Suit Larry 1 – In the Land of the Lounge Lizards Leisure Suit Larry 2 – Looking For Love (In Several Wrong Places) Leisure Suit Larry 3 – Passionate Patti in Pursuit of the Pulsating Pectorals Leisure Suit Larry 5 – Passionate Patti Does a Little Undercover Work Leisure Suit Larry 6 – Shape Up Or Slip Out Leisure Suit Larry 7 – Love for Sail Leisure Suit Larry 4 managed to avoid the executioner's axe by not existing in the first place . A reason for this new round of delistings wasn't provided, nor did Assemble co
-
-### I might finally have gone too far with a GTA 5 mod that imports most of Doom 2
-Fri, 09 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . I really don't know how to build up to this one. Grand Theft Auto 5 is Doom now, okay? I put in a mod that imports DOOM2.wad into GTA 5 and now that's what the game is. There are demons. The game is first person. I have a minigun and a BFG. That's the truth of the matter and we're all just going to have to find some way to live with it. The mod is Doom 2 in GTA 5 Hell On Earth (D2IGTA5HOE), and it does all those things I said. Hit F9 and the game you are playing shifts from GTA 5—usually a third-person open-world acting game—to Doom 2, an FPS from 1994. You need to provide your own .wad—everybody be cool. No one call the cops. The world remains, mind you. You don't warp to Doom 2's levels. Instead, you roam Los Santos with an arsenal of weapons from id's seminal shooter (gross). You can take on taxis with your super shotgun, fight cops with a plasma cannon. It's two great tastes that taste incomprehensible together. Hit F10 and the game goes into Hell On Earth mode—authentic Doom 2 enemies start manifesting in the street. (Image credit: Rockstar) One issue, of course, is that F10 is also my button for activating flossing and Superman mode, so I can't play Doom 2 GTA 5 Edition without a full quarter of my screen being taken up
-
-### Wardogs will bribe players with cash and XP to pick Blue team in Season 2
-Fri, 09 Oct 2026 16:29:00 +0000 — https://www.pcgamer.com/games/fps/wardogs-will-bribe-players-with-cash-and-xp-to-pick-blue-team-in-season-2/
-
-Blue team reinforcements "Lonestar cash and XP bonus. Season 2 only. New Bakurani spawn." "We're looking at how we can help the win rate of a certain team." -Bulkhead CEO Joe Brammer (via "Road to Season 2" devlog ) Bulkhead wants to boost one team's win rate, and it's willing to bribe its players (with in-game cash) to do it. Despite all three teams starting on equal grounds, many Wardogs players have been avoiding Blue from the start , going so far as to idle on the selection screen for minutes waiting for a slot to open on Green or Red. The are practical balancing problems that work against Blue team, like their lackluster camouflage and unfavorable spawn points (Season 2 is tackling Bakurani), but the bonuses are meant to counter the other reason Blue sucks, as I covered last month: "Another, less talked about possibility, is that Blue team's infamy is a self-fulfilling prophecy. Folks have one bad night with Lonestar and decide to believe the reputation, or hear it's the team to avoid, or notice everyone else actively avoiding it, and you end up with a Blue team full of less experienced players." XP and cash bribes are a drastic move, but should have a real impact. It's unclear how big these boosts will be, but I expect Blue will instantly become the most popular team by a wide margin in Season 2. (Image credit: Bulkhead) I wonder, though, if this problem wasn't slowly sorting itself out already. I've noticed the Blue bias dying down over the past couple weeks—the factio
-
-### 'I was nice to you three times in a row, so can I have one sex please?': Why Nivalis Nights intentionally avoided transactional romances
-Fri, 09 Oct 2026 15:46:07 +0000 — https://www.pcgamer.com/games/life-sim/i-was-nice-to-you-three-times-in-a-row-so-can-i-have-one-sex-please-why-nivalis-nights-intentionally-avoided-transactional-romances/
-
-Nivalis Nights is mostly a story-heavy shop simulation but it does also have a sprinkle of relationship building. Conversations with characters can affect four different attitudes towards you: friendly, combative, romantic, and savvy. Dialogue options aren't clearly marked though, so you don't always know if you're about to piss someone off or say something they'll perceive as flirtatious. Spoiler: Lois doesn't seem to take this as an invitation. (Image credit: Ion Lands) Some characters you can tell you're obviously heading towards a relationship with but others are less clear about whether you took a wrong turn or love just isn't on the table. It's a very opaque system compared with other RPGs or life sims that have big red heart icons and dialogue flags making sure you never have to guess. I asked lead writer Thomas Welsh to weigh in: Did you ever test a more obvious romance system or was it a very intentional choice to make it an opaque experience? But honestly, I'm into these mixed signals Okay, but sometimes they ARE obvious, for comedic effect. Ion Lands Okay, but sometimes they ARE obvious, for comedic effect. ION Lands ]]>
-
-### Worldwide PC shipments have plummeted by over 20%, to the surprise of absolutely no one
-Fri, 09 Oct 2026 15:32:22 +0000 — https://www.pcgamer.com/hardware/worldwide-pc-shipments-have-plummeted-by-over-20-percent-to-the-surprise-of-absolutely-no-one/
-
-IDC Research has released its figures regarding worldwide PC shipments in the third quarter of 2026, and would you believe it, they've dropped considerably. Looking at the year-over-year numbers, the shipped units dropped from 78.5 million in Q3 2025, to 62.7 million in Q3 of this year. That's a 20.1% plummet, for percentage fans. But why, I hear you asking. Actually, I don't. The memory and supply chain crisis, driven by AI server demand is pinpointed by the IDC as the primary driver of the decline, which will come as no surprise to those of us in non-rock-based abodes. However, it's worth looking a bit deeper into exactly what's happened here. The "pull-in" of stock created by vendors buying up supply in the first half of this year (in anticipation of the forecasted price hikes) has essentially borrowed volume from the second half, according to the report. As a result, this boosted the early year shipments and "left Q3 starved of demand." "The result is a broken seasonal pattern: the third quarter is normally larger than the second, and this year it fell short," says the IDC. It's bad out there folks—and this report predicts that things might get gloomier for the industry in the near future. "Channel concern over high inventory and soft demand at elevated prices could bring promotions in the near term, but pricing will stay well above year-ago levels," the report continues. "The bigger risk is macro: conditions have worsened since last quarter, and a weaker economic backdro
-
-### Valve is telling devs how well their games actually run on Steam Deck with real world data
-Fri, 09 Oct 2026 15:26:22 +0000 — https://www.pcgamer.com/hardware/handheld-gaming-pcs/valve-is-telling-devs-how-well-their-games-actually-run-on-steam-deck-with-real-world-data/
-
-Have you ever clicked on a Steam Deck Verified game, attempted to boot it up, and realised it probably shouldn't have been verified? Well, Steam's new system should help developers give a more accurate understanding of how their games run on the Steam Deck. As of October 1 (via TechPowerUp ), Valve has given developers access to frame rate data as reported by Steam Deck users. A developer can see the frame rate that users are playing at as a percentage of sessions, meaning they can see if it runs well (at the Steam Deck's usual 60/90 fps cap) or not (users are generally lowering the fps limit). That does mean it's only data willingly shared, and there are some caveats. The LCD Steam Deck has a max refresh rate of 60, while the OLED model goes up to 90. As games are often capped for fps to save resources, that will shape the stats somewhat. In addition, it can't guarantee how Steam Deck owners use their devices. That being said, giving access to a high enough volume of data means that the fps averages should balance out in a bell curve, assuming enough players opt in. Valve claims "a majority of Steam Deck players have opted in". The major benefit of this update is that developers can see how their games run on a mass of Steam Decks, and therefore adjust graphical options. This could be particularly valuable in games like Cyberpunk 2077 that have a dedicated Steam Deck mode. If developers notice those on handhelds aren't getting 60 fps or can't hit a smooth 30 average fps, the
-
-### WoW: Forever dev says 'there's a real longing for that slower, more deliberate pace' in MMOs: 'A deliberate pushback on this go go go nature'
-Fri, 09 Oct 2026 15:13:04 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dev-says-theres-a-real-longing-for-that-slower-more-deliberate-pace-in-mmos-a-deliberate-pushback-on-this-go-go-go-nature/
-
-World of Warcraft: Forever has me in a chokehold, and it's partially because—well, it's relaxing. As my colleague at PC Gamer so succinctly put it: "Sometimes it's fun to hit a scorpion with a club for 38 seconds." Despite aping an era seen as more 'hardcore' to some players, Forever's lack of blaring and annoying seasonal grist is honestly refreshing. Speaking with associate production director Clay Stone about why I'm certainly not the only one feeling that way (given the success of Classic, Season of Discovery, and now Forever's beta), he says it's a question Blizzard's been considering "for a little while. "We saw, certainly with the success of Classic and the response to that, it was more than just a nostalgic experience for some people. The fact that they didn't leave, you know? They didn't just play for a month. They fell in love with it all over again. Then we saw it again a lot with Hardcore in 2023. All of a sudden, now you had a whole bunch of people who'd never played the game before, but were coming in because of that slower pace, and the fact that Hardcore reinforced that slower pace for them." But it's more than just about the pace of levelling—it's also about the wider structure, too. Retail WoW is a seasonal game, which certainly has both benefits and drawbacks . One such drawback being that if you miss the start of a season, you're kind of put off the whole exercise: "We had so many players who didn't even play Season of Discovery simply because it was a Sea
-
-### Motion blur is the worst effect in games (confirmed)
-Fri, 09 Oct 2026 15:05:37 +0000 — https://www.pcgamer.com/hardware/motion-blur-is-the-worst-effect-in-games-confirmed/
-
-We've been running a knockout tournament that puts graphical effects in games against one another in a fierce battle of public opinion. Each round saw two effects go head to head, and only one made it out to fight another day. We whittled it down to just two effects, chromatic aberration and motion blur, and after 7,000 votes cast across the tournament, we can finally declare the effect that sucks the most with near-scientific certainty: It's motion blur. By an absolute landslide. Which is worse, chromatic aberration or motion blur? Here are the results of the poll. We received close to 2,000 entries. Votes (%) Chromatic aberration 20 Motion blur 80 0 20 40 60 80 Percentage Votes (%) Data Product Value Chromatic aberration 20 Motion blur 80 Not to completely disenfranchise our engaged readers or make the past couple of weeks putting these together a complete and utter waste of time for yours truly, but it was always going to be motion blur. I knew this. You knew this. We all knew this—deep down in our heart of hearts. Motion blur You'll have to take my word for it that both of these screenshots were taken as I aimed swiftly to the side in Hunt: Showdown. The difference is day and night. on off In previous rounds, I left you lot to "well, actually" in the comments section, and boy, did we get a lot of discussion on these articles. I've seen the highs and lows of human emotion down there. Raw, unadulterated passion for game effects, that's what I'd describe it as. Anyways, this
 
 ## GameSpot
 
@@ -462,6 +427,21 @@ The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big 
 
 ## Rock Paper Shotgun
 
+### Nivalis Nights might not have any combat, "but that doesn't mean it's a cosy game," so says its lead writer
+Sat, 10 Oct 2026 17:53:51 +0000 — https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer
+
+Discourse notwithstanding, there is a time and a place for cosiness in games. It's nice to chill out sometimes! I can admit that. I also just prefer a bit of friction in a game, something to put the edge on occasionally, even if there is cosiness to be found within it. And according to the lead writer of Nivalis Nights , Thomas Welsh, you can find some of that cosiness, it just isn't a cosy game, and you have to put some work in to get it. Read more
+
+### A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is
+Sat, 10 Oct 2026 17:02:49 +0000 — https://www.rockpapershotgun.com/a-crimson-desert-exec-thinks-critic-review-scores-were-lower-because-they-didnt-have-enough-time-to-play-it-and-boy-oh-boy-i-wonder-whose-fault-that-is
+
+Crimson Desert looks like a perfectly fine game. I've not played it, and I don't intend to, so my perspective is based predominantly on trailers and reviews from my industry peers. Which, as it happens, also generally seemed to reach a consensus of "yeah, it's fine." Sibling site European Gamer certainly seemed to think so , as did others. But if you ask the European CEO of developer Pearl Abyss Lybee Park, the difference between critic and user scores comes down to the fact that the former didn't have the "the fair chance to explore" the game in full during the review period. Read more
+
+### Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos
+Sat, 10 Oct 2026 16:07:07 +0000 — https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos
+
+I've spoken here before how the ultimate way to rope me into checking your game out is by having a nebulously designed Strong Vibe, a look that immediately sets it apart before I even know what any mechanics might be, and Medium Rare, a Resident Evil inspired dungeon crawler RPG about rescuing your wife from a human meat factory, has a deliciously nasty vibe. And its crunchy look has some inspired origins: stock photos. Read more
+
 ### What are we all playing this weekend?
 Sat, 10 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403
 
@@ -506,19 +486,4 @@ Forza Horizon 6 has, as is standard for the live-service racing series, settled 
 Fri, 09 Oct 2026 09:33:30 +0000 — https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it
 
 Writing about new 2D timeloop metroidvania Echo Weaver is tricky because most - possibly all - of what you need to complete it is available to you the very second you first wake up, deep in the charnelpools of an ethereal and shattered lunar civilisation. The plot in brief: you are a perpetually rewinding robot boy on a mission to work out what the hell happened. You'll explore overgrown biomes, investigate busted machines, run errands for a handful of scrappy, splashy-hued aliens, and conjure holographic flashbacks that cover the circumstances of your own creation. Developers Moonlight Kids stress that the only thing you really gain in the course of all this is knowledge. There are a few upgrades to gather, but no core skills to unlock. Instead, it's all there for you to learn, whether by reaching a tutorial area or just by hitting buttons at random and messing with terrain fixtures. As such, my telling you about abilities really does risk ruining it, much like explaining the behaviour of celestial bodies in Echo Weaver's great influence, Outer Wilds . So if you're strongly inclined to buy the game &ndash; my verdict after four hours: a vivid and thoughtful, freeform Metroidy puzzler with refreshingly minimal combat and a few rough edges - maybe get your feet wet before reading on. Read more
-
-### You can now sign up to playtest the genre-bending Pony Island 2: Panda Circus, and while you're at it the original is free for a few days too
-Thu, 08 Oct 2026 21:56:00 +0000 — https://www.rockpapershotgun.com/you-can-now-sign-up-to-playtest-the-genre-bending-pony-island-2-panda-circus-and-while-youre-at-it-the-original-is-free-for-a-few-days-too
-
-I love an everything seasoning video game. You know, the kind of game where it's five different genres at once, somehow, all of which builds into one cohesive vision? It's not an easy thing to pull off, but Daniel Mullins seems to be quite good at it, as evidenced by Inscryption , and as suggested by the upcoming Pony Island 2: Panda Circus . Which, by the way, now has a playtest you can sign up for. Read more
-
-### All hail brand synergy, Cyberpunk 2077 is getting a live action adaptation from Paramount and the producer behind the horrendous Doom movie
-Thu, 08 Oct 2026 20:28:03 +0000 — https://www.rockpapershotgun.com/all-hail-brand-synergy-cyberpunk-2077-is-getting-a-live-action-adaptation-from-paramount-and-the-producer-behind-the-horrendous-doom-movie
-
-Welp, Cyberpunk 2077 is getting a live-action adaptation! With the plethora of Hollywood adaptations of video games these days, this is one of those bits of news that has me thinking, "wait, that wasn't already a thing?" Apparently not! Read more
-
-### Dave the Diver is wrapping up its DLC plans with an aquatically appropriate Subnautica 2 collab
-Thu, 08 Oct 2026 19:06:45 +0000 — https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab
-
-I am not a huge fan of collaboration DLCs, mostly because my curmudgeonly self can only see them as attempts at multiple companies trying to profit off of one another's things. But I do have to admit that yes, the just announced collab between Dave the Diver and Subnautica 2 does make total sense. Certainly more sense than the Godzilla one from a couple of years back. Read more
 

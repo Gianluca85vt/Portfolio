@@ -1,58 +1,93 @@
-# Film & TV — harvested 2026-10-10T10:48:14.391Z
+# Film & TV — harvested 2026-10-10T18:00:25.631Z
 
 ## Variety
 
-### Netflix s ‘The Blue Road’ Director Han Jun-hee on Why Playing It Safe Is the Real Risk
-Sat, 10 Oct 2026 10:27:27 +0000 — https://variety.com/2026/tv/festivals/netflixs-the-blue-road-director-han-jun-hee-1236907368/
+### Barry Manilow Cancels Las Vegas Residency Shows Days After Returning to the Stage Post-Cancer Recovery
+Sat, 10 Oct 2026 17:50:37 +0000 — https://variety.com/2026/music/news/barry-manilow-cancels-las-vegas-shows-1236907619/
 
-When Han Jun-hee binge-watched “House of Cards,” the series struck him as a game changer. It left him with one ambition: to make a story no one had told before, but that many people would watch. Delivering a masterclass at Netflix’s Creative Asia program during the Busan International Film Festival (BIFF), the director of “Coin [ ]
+Following a long-anticipated return to the stage Thursday night, Barry Manilow has canceled his Saturday show at the International Theater at the Westgate Las Vegas Resort Casino. “After a triumphant welcome-back concert on Thursday, Barry got hit with bronchitis and had to cancel his Friday and Saturday shows, a representative for the musician told [ ]
 
-### AI Can Cut Film Budgets by Up to 40%, Says ‘The Outlaws’ Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: ‘A Human Touch Is Absolutely Essential’
-Sat, 10 Oct 2026 10:09:19 +0000 — https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/
+### Children of Blood and Bone Author Tomi Adeyemi Quietly Cancels New York Comic Con Panel
+Sat, 10 Oct 2026 17:46:08 +0000 — https://variety.com/2026/film/news/tomi-adeyemi-cancels-nycc-appearance-1236907595/
 
-Netflix has used AI in one form or another on some 300 of its titles, Lee Sung-gyun, the streamer’s senior director of APAC production, told an audience at the Busan International Film Festival. On the same panel, “The Outlaws” director Kang Yoon-sung said AI workflows could take 30% to 40% off a feature film’s production [ ]
+Author Tomi Adeyemi canceled her previously announced New York Comic Con (NYCC) panel, where she was set to promote her new book, “The Siren.” No announcement from Adeyemi or NYCC organizer ReedPop was made ahead of the panel s planned Saturday slot, leaving fans questioning what led her to pull out and when. A source tells [ ]
 
-### Busan Market Chief Ellen Y.D. Kim Plots Year-Round ACFM 365 Platform, Warns Public Funding Has Stalled
-Sat, 10 Oct 2026 09:38:32 +0000 — https://variety.com/2026/film/markets-festivals/busan-market-chief-ellen-kim-year-round-acfm-365-platform-1236907349/
+### Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir, Teases Joining True Detective
+Sat, 10 Oct 2026 16:54:26 +0000 — https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/
 
-The Asian Contents Film Market (ACFM) should grow beyond its four days in Busan into a platform that runs all year, director Ellen Y.D. Kim tells Variety. She adds that public money for the market has not grown alongside it. Kim calls the idea ACFM 365. It would be a permanent database and matchmaking [ ]
+Nicolas Cage is speaking out against Amazon after the company, which developed “Spider-Noir” for Prime Video, allegedly asked him to sign an AI waiver. “Amazon is a very AI-friendly company, to the tune of $50 billion invested in OpenAI,” Cage said Saturday during a panel on the Empire Stage at New York Comic Con. “I [ ]
 
-### Vietnamese Supernatural Horror ‘Bloodline: The Curse Within’ Heads to Busan Market With Mockingbird Pictures (EXCLUSIVE)
-Sat, 10 Oct 2026 05:59:30 +0000 — https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/
+### Bob s Burgers Sets Holiday Hulu Special Release Date, Teases First Look at NYCC
+Sat, 10 Oct 2026 16:30:00 +0000 — https://variety.com/2026/tv/news/bobs-burgers-holiday-short-release-date-first-look-1236907508/
 
-Vietnamese supernatural horror film “Bloodline: The Curse Within” will be introduced to international buyers by Mockingbird Pictures at the Asian Contents Film Market (ACFM), the market of the Busan International Film Festival. The company holds worldwide distribution rights to the film, which will open in theaters across Vietnam on Dec. 25. Directed by Đinh [ ]
+It’s Christmas time for the Belchers in the “Bob’s Burgers” Hulu-exclusive holiday short, “On the Fort Day of Christmas.” Creator and executive producer Loren Bouchard announced the release date for the short at the “Bob’s Burgers” New York Comic-Con panel on Saturday, also teasing a first-look at the holiday special. Premiering Dec. 7 on Hulu [ ]
 
-### Movistar Plus Drives Into YA Comedy, Smart Social Issue Genre
-Sat, 10 Oct 2026 05:50:00 +0000 — https://variety.com/2026/tv/global/movistar-plus-victoria-martin-isabel-pena-arte-france-1236893803/
+### ‘Rio,’ ‘Ice Age’ Director Carlos Saldanha on ‘Wonderful Homecoming’ With Ambitious Brazilian Adventure Film ‘100 Days’: ‘It Deserved a Big Cinema Treatment’
+Sat, 10 Oct 2026 16:03:12 +0000 — https://variety.com/2026/film/global/rio-ice-age-director-carlos-saldanha-100-days-rio-film-fest-1236906453/
 
-Over the last two years, no Spanish company has helped drive Spanish content onto the world stage more than Movistar Plus, the biggest Spanish pay TV/SVOD operator. Since 2025 alone, Movistar Plus Originals have scored the two top prizes at Series Mania with “Querer” and “Celeste,” has earned two Oscar nominations with “Sirāt,” while “La [ ]
+It might have taken pioneering explorer Amyr Klink one hundred days to cross the Atlantic, but it took Carlos Saldanha almost three thousand to bring his story to the big screen. After nearly a decade working on the epic, the “Ice Age” and “Rio” director is finally bringing “100 Days” to audiences as the Brazilian [ ]
 
-### Netflix Says 67% of Surveyed Members Want to Visit Korea as Busan’s Creative Asia Puts Locations in Focus
-Sat, 10 Oct 2026 05:47:32 +0000 — https://variety.com/2026/tv/markets-festivals/netflix-busan-surveyed-members-want-visit-korea-1236907318/
+### Box Office: ‘Other Mommy’ Spooks Up $12.6 Million on Opening Day, ‘The Social Reckoning’ Debuts to $2.15 Million on Friday
+Sat, 10 Oct 2026 15:45:34 +0000 — https://variety.com/2026/film/box-office/box-office-other-mommy-verity-social-reckoning-1236907499/
 
-Netflix research found that 67% of surveyed members internationally expressed interest in visiting South Korea. For the streamer’s Sung Q Lee, the pull lies in the stories set there, rather than the scenery alone. Lee, Netflix’s senior director of APAC production, made the case at the opening masterclass of Creative Asia, which Netflix and the [ ]
+Following major openings like “Obsession,” “Backrooms” and “Resident Evil,” the horror genre’s 2026 box office reign shows no sign of slowing. And with Halloween right around the corner, it makes sense that momentum continued Friday as the supernatural, unnerving thriller “Other Mommy” easily claimed the top spot. The Universal movie, produced by Blumhouse-Atomic Monster, generated [ ]
 
-### Spain’s TV Powerhouses Forge New Partnerships as Series Biz Evolves
-Sat, 10 Oct 2026 05:45:00 +0000 — https://variety.com/2026/tv/markets-festivals/spain-tv-series-licensing-coproductions-1236893852/
+### Scarlett Johansson, Sam Rockwell and Brad Bird Sing Happy Birthday to Composer Michael Giacchino as ‘Ray Gunn’ World Premieres in London
+Sat, 10 Oct 2026 15:34:41 +0000 — https://variety.com/2026/film/festivals/scarlett-johansson-ray-gunn-world-premiere-london-1236907447/
 
-Spain’s TV industry is shifting gears as international buyers grow more selective, prompting its leading operators to rethink their series business. Pay TV operator Movistar Plus is scaling up in Spanish originals. Atresmedia is strengthening its longstanding relationship with Netflix, while Mediterráneo Mediaset is placing a large emphasis on international sales. Meanwhile, public broadcasters are [ ]
+The world premiere of Netflix’s animated feature “Ray Gunn” at the London Film Festival on Saturday coincided with a special day for one of its key creatives. As director Brad Bird noted in the introduction at the Royal Festival Hall, the premiere for the neo-noir sci-fi was also composer Michael Giacchino’s birthday. Bird then invited [ ]
 
-### Vietnamese Horror ‘Arithmadtic’ Leads Bee Entertainment’s Busan Market Slate, With New Film From ‘The Corpse’ Director
-Sat, 10 Oct 2026 03:41:52 +0000 — https://variety.com/2026/film/markets-festivals/vietnamese-horror-arithmadtic-bee-entertainment-busan-market-slate-1236907315/
+### The Social Reckoning Breakout Portia Doubleday on Playing White Girl Wasted Conspiracy Theorist: I Knew People Who Were Radicalized
+Sat, 10 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/features/portia-doubleday-social-reckoning-white-girl-wasted-1236904376/
 
-Psychological horror “Arithmadtic,” set in an elite international school, leads a genre-heavy slate that Vietnam’s Bee Entertainment is presenting to buyers at Busan’s Asian Contents Film Market (ACFM). Vietnamese films grossed more than VND3 trillion ($114 million) at home in 2025, outperforming international titles in the local market for the first time. Bee is [ ]
+SPOILER ALERT: This story contains spoilers for “The Social Reckoning,” now playing in theaters. Aaron Sorkin’s new film “The Social Reckoning” begins with a vignette about the impact of social media that’s as chilling as any statistic about the dangers of social media. And Portia Doubleday sits at its center, portraying the human toll of [ ]
 
-### Cambodian Remake of Korean Mother-Daughter Drama ‘Wedding Dress’ Leads Abnormal Studios’ Busan Market Slate (EXCLUSIVE)
-Sat, 10 Oct 2026 03:18:34 +0000 — https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/
+### ‘Squadron 42’ Release Nears as Cloud Imperium Opens Steam Wishlist
+Sat, 10 Oct 2026 15:00:00 +0000 — https://variety.com/2026/digital/news/squadron-42-release-wishlist-steam-cloud-imperium-1236907010/
 
-A Phnom Penh-set reworking of Kwon Hyung-jin’s 2010 South Korean drama “Wedding Dress” is the lead title for Malaysia’s Abnormal Studios at this year’s Asian Contents Film Market in Busan, where the company is selling the film ahead of its local release. The new version centers on Dalin, a single mother who designs bridal [ ]
+Cloud Imperium Games’ “Squadron 42” is now available to wishlist on Steam ahead of its planned Q2 2027 release. The single-player sci-fi adventure game is set in the year 2945, as the United Empire of Earth is threatened by outlaws and hostile aliens alike. Players enlist as a rookie in the UEE Navy and embark [ ]
 
-### ‘Exorcism of God’ Director Alejandro Hidalgo to Helm Malaysian Hungry Ghost Festival Horror ‘The Hungry One’ (EXCLUSIVE)
-Sat, 10 Oct 2026 02:44:33 +0000 — https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/
+### Kleber Mendonça Filho, Wagner Moura and More Brazilian Academy Members Release Open Letter Expressing ‘Concern’ Over Brazil’s Presidential Elections (EXCLUSIVE)
+Sat, 10 Oct 2026 14:25:59 +0000 — https://variety.com/2026/film/global/kleber-mendonca-filho-wagner-moura-letter-brazil-elections-1236906963/
 
-Alejandro Hidalgo, director of “The Exorcism of God,” is set to make “The Hungry One,” a supernatural horror film unfolding over Malaysia’s Hungry Ghost Festival. Kuala Lumpur-based Abnormal Studios is handling worldwide sales and is introducing the project at the Busan International Film Festival s Asian Contents Film Market. Singapore-based Clover Films has already picked [ ]
+Several Brazilian members of the Academy of Motion Picture Arts and Sciences, including Oscar nominees Kleber Mendonça Filho, Wagner Moura, Emilie Lesclaux, Fernando Meirelles, Alê Abreu and Petra Costa, and Oscar-winning producer Rodrigo Teixeira (“I’m Still Here”), have released an open letter calling international attention to the upcoming second round of Brazil s presidential elections. The [ ]
 
 ## The Hollywood Reporter
+
+### Remembering Romeo + Juliet : When Baz Luhrmann Put Leo in an Hawaiian Shirt
+Sat, 10 Oct 2026 17:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/romeo-juliet-baz-luhrmann-turns-30-1236723460/
+
+Thirty years ago, DiCaprio and Claire Danes played the star-crossed lovers in Verona Beach.
+
+### Nicolas Cage Teases True Detective Role, Says He Probably Won t Work With Prime Video Again After Refusing to Sign AI Waiver for Spider-Noir
+Sat, 10 Oct 2026 17:04:54 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nicolas-cage-true-detective-anti-ai-amazon-spider-noir-1236726924/
+
+While appearing on a spotlight panel at NYCC on Saturday morning, the actor also joked that his next 'National Treasure' film would focus on the Epstein files: “That’s relevant.”
+
+### Why Silver Lake’s Hottest New Hotel Took So Long to Open (Blame Katy Perry)
+Sat, 10 Oct 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/silver-lake-hotel-lucile-opening-1236723439/
+
+After a seemingly endless saga, a 1931 church has been resurrected as the neighborhood’s trendiest boutique property.
+
+### Other Mommy Delivering $28M in Box Office Debut as Social Reckoning Gets Quiet Start
+Sat, 10 Oct 2026 16:27:18 +0000 — https://www.hollywoodreporter.com/movies/movie-news/other-mommy-box-office-social-reckoning-opening-1236726908/
+
+Jessica Chastain stars in director Rob Savage's horror feature that has been hit with a painful D+ CinemaScore.
+
+### AMC s Mayfair Witches: Salem Coven Gets December Debut as Catherine Zeta-Jones, Carrie-Anne Moss Tease Kill Jackie and Yaga at NYCC
+Sat, 10 Oct 2026 15:24:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/amc-mayfair-witches-season-3-yaga-kill-jackie-teasers-1236726907/
+
+AMC Global Media teased four series on its Friday afternoon panel, which also featured never-before-seen footage from 'The Walking Dead: Daryl Dixon.'
+
+### Ray Gunn Review: Sam Rockwell and Scarlett Johansson in Brad Bird s Forgettable Netflix Animated Neo-Noir
+Sat, 10 Oct 2026 13:45:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/ray-gunn-review-netflix-sam-rockwell-scarlett-johansson-1236721083/
+
+Produced by Skydance Animation's John Lasseter and also starring Tom Waits and Bobby Cannavale, the film follows a golden-hearted private eye hired to wrangle a famously volatile starlet.
+
+### Naomi Ackie Discusses Hollywood Machine, Her Star Wars Experience and Buying a Crank Radio
+Sat, 10 Oct 2026 12:14:53 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naomi-ackie-discusses-hollywood-star-wars-horror-crank-radio-1236726864/
+
+During a London Film Fest talk, she also shared how she'd love to star in a musical or play a wordless role, that she is "obsessed with 'Obsession,'" and how playing Whitney Houston changed everything.
 
 ### ‘Bedford Park’ Star Moon Choi Charts Her Own Path Between Korea and Hollywood
 Sat, 10 Oct 2026 09:28:15 +0000 — https://www.hollywoodreporter.com/movies/movie-features/bedford-park-moon-choi-korea-hollywood-1236726874/
@@ -69,102 +104,67 @@ Sat, 10 Oct 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 Premiering at the New York Film Festival, the filmmaker's follow-up to her '13th' tackles birthright citizenship, the Equal Protection Clause and the undoing of the gains of Reconstruction.
 
-### Roseanne Barr’s Self-Produced TV Series Now Courting Distributors, Co-Creator Says
-Sat, 10 Oct 2026 00:09:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/roseanne-barrs-indie-tv-series-distributors-co-creator-1236726679/
-
-Allan Stephan, a ‘Roseanne’ veteran who wrote 'Meemaw’ with the former sitcom star, says representatives for the show are in talks with a few platforms.
-
-### Iliza Shlesinger and Mira Sorvino to Receive Top Honors at San Diego International Film Festival
-Fri, 09 Oct 2026 23:07:46 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-diego-film-festival-2026-honorees-iliza-mira-sorvino-1236726731/
-
-The pair, set to receive Virtuoso and Trailblazer awards, will be feted at the Night of the Stars tribute at La Jolla's Conrad Prebys Performing Arts Center on Oct. 13.
-
-### LaKeith Stanfield, Ben Mendelsohn to Star in Molepeople for Atomic Monster, Paramount Primal (Exclusive)
-Fri, 09 Oct 2026 23:04:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lakeith-stanfield-ben-mendelsohn-molepeople-1236726689/
-
-Paramount has set an August 2027 release for the horror thriller, which hails from director Rob Savage.
-
-### Israeli Americans Protest NAZA Los Angeles Screening as Doc Releases Theatrically in U.S.
-Fri, 09 Oct 2026 22:48:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-los-angeles-screening-1236726709/
-
-The September premiere of 'NAZA' at the New York Film Festival was also met with protestors organized by the Israeli-American Council (IAC).
-
-### Lisa and Director Sue Kim on Documenting the Star s Break From the K-pop System in Always Lalisa
-Fri, 09 Oct 2026 22:45:00 +0000 — https://www.hollywoodreporter.com/music/music-features/lisa-sue-kim-always-lalisa-interview-1236699144/
-
-From a fortune teller's advice to a Coachella solo slot and a standout role in 'White Lotus,' 'Always Lalisa' chronicles the K-pop idol's most unguarded year yet: "I'm just so proud of myself."
-
-### The Exorcist: Martyrs Trailer Radically Reboots Franchise With Scarlett Johansson
-Fri, 09 Oct 2026 22:41:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/exorcist-martyrs-trailer-scarlett-johansson-1236724774/
-
-First look at writer-director Mike Flanagan's take on the iconic horror property as Universal attempts to reboot its reboot.
-
-### George Clooney Explains Why The Albies Shine a Light on Justice: It Feels Like It s in Short Supply
-Fri, 09 Oct 2026 22:03:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-albies-justice-oceans-14-update-1236726168/
-
-Amal and George Clooney's Clooney Foundation for Justice celebrated its fifth annual Albie Awards in London with Hollywood glamor. And the star shared an update on 'Ocean's 14' with THR.
-
 ## Deadline
 
-### Danny Boyle On The Challenges Of Rupert Murdoch The Sun Film Ink : We Had A Siege Mentality While Making It Contenders London
-Sat, 10 Oct 2026 10:26:29 +0000 — https://deadline.com/2026/10/danny-boyle-ink-challenge-we-had-a-siege-mentality-1237153896/
+### Anne Rice s Mayfair Witches’ Reveals Season 3 Title Premiere Date
+Sat, 10 Oct 2026 17:29:53 +0000 — https://deadline.com/2026/10/mayfair-witches-coven-season-3-premiere-date-1237154033/
 
-At Deadline s Contenders London event this morning, Ink director Danny Boyle has spoken about the challenges he and his film team faced making the origin story of Rupert Murdoch-owned British tabloid The Sun. The filmmaker was joined on stage by writer James Graham and actor Jack O Connell. We had a siege mentality while making it , [ ]
+The third season of AMC+ s Mayfair Witches series will premiere this December with a new, or at least expanded, title. Anne Rice s Mayfair Witches: Salem Coven the last two words are the new part will premiere on Wednesday, December 30. The title and season launch date were unveiled by AMC Global Media at [ ]
 
-### Mike Leigh, Marion Bailey Kate O’Flynn On The Close Collaboration Behind ‘Tender Loving Care’ — Contenders London
-Sat, 10 Oct 2026 10:13:10 +0000 — https://deadline.com/2026/10/mike-leigh-tender-loving-care-contenders-london-1237153921/
+### Joseph Gordon-Levitt Warns A.I. Models Are Being Trained To Hijack Your Intimacy
+Sat, 10 Oct 2026 14:24:32 +0000 — https://deadline.com/2026/10/joseph-gordon-levitt-artificial-intelligence-1237153993/
 
-“It s quite practical,” actor Kate O Flynn concluded this morning when quizzed on working on Tender Loving Care with veteran filmmaker Mike Leigh, best known for his unique pre-production process, which includes no script and a collaborative approach to story development. O Flynn was speaking on stage at Deadline’s London Contenders event alongside Leigh and her co-star, [ ]
+In a new video interview for The New York Times, actor Joseph Gordon-Levitt, serving as the United Nations’ global advocate of human-centric digital governance, has some concerning words about the impact of artificial intelligence. Things like the decline of democracy, the decline of human empathy and the hijacking of your intimacy. The video interview takes [ ]
 
-### AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: “Tech Companies Should Collaborate More With Creatives
-Sat, 10 Oct 2026 10:04:57 +0000 — https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/
+### Oscars: UK Selects ‘Rehearsals For A Revolution For Best International Feature Film
+Sat, 10 Oct 2026 14:11:32 +0000 — https://deadline.com/2026/10/oscars-uk-rehearsals-revolution-best-international-film-1237154001/
 
-Kimball Thurston, Weta FX’s chief technology officer, Korean filmmaker Kang Yun-sung and Netflix’s APAC Senior Director, Production, Sung Q Lee, discussed the advantages and limitations of using AI tools in production workflows during Netflix’s Creative Asia day at Busan International Film Festival. They agreed that AI is bringing a range of efficiencies to the production [ ]
+The UK has selected Pegah Ahangarani’s Rehearsals For A Revolution as its entry to the Best International Feature Film category of the 99th Academy Awards. The film explores Iranian filmmaker Ahangarani’s experience of exile as she rebuilds her life and creative practice in London, through five portraits of relatives and mentors, which are also expressions [ ]
 
-### Brad Bird Talks Long-Gestating Passion Project Ray Gunn Portraying Characters Who Are Desperate In Utopia Contenders London
-Sat, 10 Oct 2026 09:46:37 +0000 — https://deadline.com/2026/10/brad-bird-ray-gunn-scarlett-johansson-sam-rockwell-1237153907/
+### Netflix s The Blue Road Director Han Jun-hee On Taking Risks With Stories Shooting In Japan
+Sat, 10 Oct 2026 14:10:39 +0000 — https://deadline.com/2026/10/netflix-korea-the-blue-road-han-jun-hee-1237153975/
 
-“It seems like the only way to look at the future these days is as dystopia,” said director Brad Bird at Deadline’s Contenders London this weekend. “And that’s fine. I love a lot of movies that take that thing, but there are other ways to look at the future too, and you can.” Bird was [ ]
+Korean writer-director Han Jun-hee talked strategies for getting audiences to respond to risky or unfamiliar material in a masterclass at Netflix’s Creative Asia day at Busan International Film Festival. “There has to be risk for something to be interesting. Only if you take risks can you tell an interesting story. Trying to play it safe [ ]
 
-### Deadline s Contenders Film: London Kicks Off With A Dozen Buzzy Awards-Season Movies
-Sat, 10 Oct 2026 08:30:00 +0000 — https://deadline.com/2026/10/contenders-film-london-2026-lineup-panelists-1237147102/
+### ‘La Bola Negra’ Directors Dig Into Generational Trauma: Something Touched Deep Inside Contenders London
+Sat, 10 Oct 2026 13:50:35 +0000 — https://deadline.com/2026/10/la-bola-negra-generational-trauma-contenders-london-1237151053/
 
-Try telling Londoners that cinema is dead and they will direct you to the BFI Imax cinema on the Southbank, where Christopher Nolan’s The Odyssey is still playing to sold-out houses nearly three months after its release. But if you’ve been there, done that, 2026 still has some surprises left up its sleeve, and plenty [ ]
+Spanish directors Javier Calvo and Javier Ambrossi delved into the generational trauma behind award-winning film La Bola Negra at Deadline’s Contenders London. The feature revolving around the interconnected stories of three gay men in 1932, 1937 and 2017 took its cue from Alberto Conejero’s 2013 play La piedra oscura, which in turn was [ ]
 
-### Craig Zobel Blumhouse Teaming On Something Is Killing The Children
-Sat, 10 Oct 2026 01:05:22 +0000 — https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/
+### Ray Gunn Review: Sam Rockwell And Scarlett Johansson Channel Bogie And Bacall In Brad Bird s Nifty Sci-Fi/Film Noir Mashup London Film Festival
+Sat, 10 Oct 2026 13:45:00 +0000 — https://deadline.com/2026/10/ray-gunn-review-brad-bird-sam-rockwell-scarlett-johansson-1237152314/
 
-Craig Zobel, a director known for his work on such prestige series as Mare of Easttown and The Penguin, is set to direct a feature adaptation of Something Is Killing the Children, the popular comic book series from James Tynion IV and Werther Dell Edera, with Jason Blum and his Blumhouse among the producers. Stephen Christy [ ]
+If David Ellison wants a ticket to the Oscars this year it most likely won t be with anything from Paramount or even (so far) from Warner Bros, but if you said Netflix you might be on the right track. Ray Gunn, from Oscar-winning filmmaker Brad Bird (Ratatouille, The Incredibles), comes out of Skydance Animation s original [ ]
 
-### Danny Trejo Insists He s Pro-Immigrant Proud Mexican Amid Backlash To Daily Wire s ICE Film: Make No Mistake
-Sat, 10 Oct 2026 01:02:52 +0000 — https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/
+### Fashion Designer Bob Mackie Suffered Head Trauma In Fall Days Before Death Report
+Sat, 10 Oct 2026 13:31:40 +0000 — https://deadline.com/2026/10/bob-mackie-cause-of-death-head-injury-1237153989/
 
-Danny Trejo has broken his silence amid backlash around his role in Daily Wire s latest controversial production, Pawn Shop. On Friday, the LA-born Mexican-American actor insisted he s pro-immigrant, despite his casting in the pro-ICE film from Ben Shapiro s production company and Dallas Sonnier s Bonfire Legend, which has been protested by locals in Livingston, Montana, where [ ]
+Bob Mackie, the celebrated fashion designer known for the eye-popping gowns and costumes worn by Cher, Carol Burnett and many other stars, sustained an injury in a fall just days before he died on September 14 in a Palm Springs hospital. According to an exclusive new report in US magazine, Mackie s immediate cause of death [ ]
 
-### ‘14th’ Review: Ava DuVernay s Impassioned Defense Of Constitution Takes Aim At Trump Attempted Rescission Of Rights
-Sat, 10 Oct 2026 01:00:00 +0000 — https://deadline.com/2026/10/14th-review-ava-duvernay-documentary-1237153748/
+### Marie-Clémentine Dusabejambo On Directing Rwanda’s Oscar Submission ‘Ben’Imana’: “We Need To Understand What Happened” – Contenders London
+Sat, 10 Oct 2026 13:00:35 +0000 — https://deadline.com/2026/10/marie-clementine-dusabejambo-rwanda-oscar-submission-benimana-1237153895/
 
-14th, the documentary directed by Ava DuVernay that premiered Friday night as the closing-night film of the New York Film Festival, begins with several American presidents taking the oath of office: FDR, Eisenhower, JFK, LBJ, Nixon, Carter, Reagan… each of them swearing to “preserve, protect, and defend the Constitution of the United States.” We know [ ]
+It’s been a good year for Marie-Clémentine Dusabejambo; after directing the first Rwandan feature to be accepted into the official selection by the Cannes film festival, where she was awarded the Camera d’Or, her film Ben’Imana was recently nominated as the country’s first ever Oscar submission. Set in 2012, 18 years after the genocide against [ ]
 
-### Matthew MatPat Patrick Adapting Amanda the Adventurer Video Game For Blumhouse
-Sat, 10 Oct 2026 00:16:08 +0000 — https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/
+### Project Hail Mary DoP Greig Fraser Says The Film Was The Most Complicated He s Ever Shot Contenders London
+Sat, 10 Oct 2026 12:51:32 +0000 — https://deadline.com/2026/10/project-hail-mary-dop-greig-fraser-film-most-complicated-1237153911/
 
-Blumhouse is diving into another horror video game, announcing an Amanda the Adventurer adaptation. On Friday, Jason Blum announced BlumFest moderator Matthew MatPat Patrick is developing a feature adaptation of the 2023 indie puzzle game from DreadXP, whose parent company Epic Pictures CEO Patrick Ewald will serve as producer. In games, Riley Park unravels a [ ]
+Oscar-winning DoP Greig Fraser knows a thing or two about working on challenging movies, from Dune to The Batman, Rogue One to Zero Dark Thirty. At Deadline s Contenders London event today, the in-demand cinematographer revealed that none were as challenging as Phil Lord and Christopher Miller s space hit Project Hail Mary: This was the most [ ]
 
-### The Exorcist: Martyrs Trailer: Scarlett Johansson Hunts A Demonic Killer In Mike Flanagan s Take On Horror Classic
-Fri, 09 Oct 2026 23:04:23 +0000 — https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746/
+### Penélope Cruz On Working With Javier Bardem In Florian Zeller s Bunker : We Knew Florian Was Never Going To Manipulate Anything From Our Real Relationship Contenders London
+Sat, 10 Oct 2026 12:36:56 +0000 — https://deadline.com/2026/10/bunker-florian-zeller-penelope-cruz-javier-bardem-1237153920/
 
-As The Exorcist makes its way back to theaters, a first look at Mike Flanagan s new chilling take on the horror classic has been unveiled. On Friday, Blumhouse released the first trailer for The Exorcist: Martyrs, which premieres March 12, 2027, revealing Scarlett Johansson s Detective Julie Miller and the demonic homicide case at the center. [ ]
+Florian Zeller and Penélope Cruz stepped into Deadline’s Contenders event in London where the duo discussed their upcoming psychological thriller, Bunker. The film, which Zeller wrote, produced and directed, sees Cruz star as the wife of her real-life husband Javier Bardem as their characters face emotional and moral challenges in an increasingly uncertain world. Bardem [ ]
 
-### ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand Japan
-Fri, 09 Oct 2026 23:00:00 +0000 — https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/
+### Léa Seydoux Marie Kreutzer On The Earthquake At The Heart Of Gentle Monster Contenders London
+Sat, 10 Oct 2026 11:57:00 +0000 — https://deadline.com/2026/10/lea-seydoux-marie-kreutzer-on-earthquake-of-gentle-monster-1237153908/
 
-Asian Contents Film Market (ACFM), the industry platform of Busan International Film Festival, launched three new programs last year, which are starting to yield results as they move into their second edition. Among these, InnoAsia hosts a range of panels, workshops and other events focusing on advanced technologies and innovative business strategies, including AI, [ ]
+Gentle Monster writer-director Marie Kreutzer and star Léa Seydoux took to the stage at Deadline s Contenders London event to discuss the journey behind their Cannes drama. Seydoux plays Lucy, an experimental pianist who moves with her beloved but panic attack-liable husband Philip (Laurence Rupp) and young son to a rural farmhouse in Bavaria. Life seems [ ]
 
-### ‘9-1-1’ Stunt Problems Back In Spotlight After Oliver Stark 3 Other Performers Injured On Set
-Fri, 09 Oct 2026 22:30:00 +0000 — https://deadline.com/2026/10/9-1-1-stunt-accidents-oliver-stark-injured-1237151109/
+### Guy Nattiv Carrie Coon On Finding Empathy In The Liberation : Who Are We To Say What Is Required For Someone To Move On? Contenders London
+Sat, 10 Oct 2026 11:41:03 +0000 — https://deadline.com/2026/10/guy-nattiv-carrie-coon-the-liberation-lily-james-bleecker-1237153918/
 
-EXCLUSIVE: A number of recent injuries on the set of Season 10 of ABC s 9-1-1 has put the production s safety protocols under scrutiny again. Deadline understands that four performers, including star Oliver Stark, have sustained stunt-related injuries to varying degrees in recent months. While the incidents do not seem to be connected, the unfortunate timing [ ]
+Writer-director Guy Nattiv and actress Carrie Coon joined Deadline’s Contenders London event today where the pair discussed making The Liberation, a very personal story inspired by real events from Nattiv’s own grandmother. The film, which Bleecker Street is releasing in in the U.S. in January, is set in the early 1980s where Rita, a depressed [ ]
 
 ## befores & afters
 
@@ -183,12 +183,22 @@ Fri, 09 Oct 2026 08:05:59 +0000 — https://beforesandafters.com/2026/10/09/beas
 
 The fully CG character and the transformation of a plain backlot, in Masters of the Universe. An excerpt from issue #67 of befores & afters magazine. Beast Man (voiced by Gary Martin) in Masters of the Universe is one of Skeletor’s henchmen, and is sent to Earth to take out Adam. The character was completely computer-generated by ILM, and shared with other vendors. On Earth, Beast Man takes on Teela and Adam in and around a city roadway in Oklahoma City. Proof previs’d the sequence. “We kept the Beast Man sequence simple in terms of previs, sticking to previs’ing just the shots with Beast Man and then using Travis animatics for the non Beast Man shots,” outlines Proof senior visualization supervisor Adam Coglan. “That was all keyframed. When we moved on to postvis we received a model and rig from ILM that we imported to Unreal. The animation was then a combination of our own keyframe stuff and ILM providing their animation files, to be rendered and comp’ed by us. The environment was a combination of the freeway section that they were building on a backlot, then extending the background to the left using reference of Oklahoma where they were shooting backplates and to the right using the section of Canary Wharf where Adam and Teela would escape. From a high perspective view, the Unreal scene looked quite oddly kitbashed together but once you were on the freeway, it made sense visually.” Proof previs. During the shoot, stunt performer Clayton Grover wore a shoulder mount and an
 
-### New in-depth issue on Skeletor, Cringer and all the He-Man heroics in Masters of the Universe
-Thu, 08 Oct 2026 15:54:14 +0000 — https://beforesandafters.com/2026/10/09/new-in-depth-issue-on-skeletor-cringer-and-all-the-he-man-heroics-in-masters-of-the-universe/
-
-Issue #67 of befores & afters magazine covers the visual effects of Masters of the Universe. DIGITAL MAGAZINE members can download the issue right now from the shop post. Inspired by the original animated series that introduced He-Man and the world of Eternia to audiences in the 1980s, Travis Knight’s Masters of the Universe brings the iconic mythology into live-action for a new generation. The film, from Amazon MGM Studios, follows the story of Adam (Nicholas Galitzine), separated from his home world as a child after an attack by Skeletor (Jared Leto). Adam then returns to Eternia 15 years later after rediscovering the Sword of Power. With Skeletor now ruling the kingdom, Adam must reunite with his allies, reclaim his identity as He-Man and save his family and his world. Realizing that world on screen required a substantial practical and digital effects effort. From the vast landscapes of Eternia and Castle Grayskull to fantastical creatures— including He-Man’s sidekick Cringer—effects artists had to translate the distinctive look and spirit of Masters of the Universe into a convincing live-action universe. The visual effects effort was led by visual effects supervisors David Vickery and Tim Burke, with Rich Yeomans serving as visual effects producer. Chris Corbould was the film’s special effects supervisor. Prosthetics designer Barrie Gower was responsible for several practical make-up effects and prosthetics appliances on the show. VFX vendor- wise, the work was led by Ind
-
 ## IndieWire
+
+### Bill Burr vs. Facebook: Inside ‘The Social Reckoning’ Fantasy of the Comedian Speaking Truth to Power
+Sat, 10 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/features/podcast/bill-burr-the-social-reckoning-explained-1235221244/
+
+Mark Zuckerberg has shut out dissenting voices; Aaron Sorkin and Burr talk about building the fiction of letting the stand-up get under his (and Jeremy Strong's) skin.
+
+### Oscars: U.K. Selects Rehearsals for a Revolution, Documentary About Iran, as Best International Feature Entry
+Sat, 10 Oct 2026 14:30:39 +0000 — https://www.indiewire.com/awards/industry/rehearsals-for-a-revolution-iran-uk-best-international-oscar-1235221263/
+
+Pegah Ahangarani’s acclaimed look at her life in exile and her native country's political turmoil was already a leading contender for Best Documentary.
+
+### Ray Gunn Review: Brad Bird s Longtime Passion Project Is a Retro-Futurist Detective Story with a Muddled Message
+Sat, 10 Oct 2026 13:45:00 +0000 — https://www.indiewire.com/criticism/movies/ray-gunn-review-brad-bird-retro-detective-sam-rockwell-1235220330/
+
+The "Iron Giant" and "Incredibles" filmmaker and legendary animator has been kicking around his jetpack-powered noir-meets-"Blade Runner" feature for decades. The result is immersive, but too sprawling.
 
 ### 14th Review: Ava DuVernay s Overstuffed Netflix Documentary Finds Us Living in the Age Frederick Douglass Warned Us About
 Sat, 10 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/criticism/movies/14th-review-ava-duvernay-netflix-documentary-1235221147/
@@ -235,22 +245,32 @@ Fri, 09 Oct 2026 18:15:00 +0000 — https://www.indiewire.com/features/podcast/t
 
 The "Behemoth!" writer/director joined IndieWire's Anne Thompson and Ryan Lattanzio for a "Screen Talk" Live podcast at the New York Film Festival.
 
-### Fall Festival Movies Sold So Far: Venice Orizzonti Prize Winner A Day in the Life of Jo: Chapter Phaedra Lands at 1-2 Special
-Fri, 09 Oct 2026 16:39:30 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
-
-The coming-of-age story — with a cosmic twist — from director Jacqueline Lentzou had its North American premiere at the New York Film Festival.
-
-### Anatomy of a Prom: How Mike Flanagan Climbed the ‘Everest’ of Horror Sequences for Carrie
-Fri, 09 Oct 2026 16:31:18 +0000 — https://www.indiewire.com/features/craft/carrie-prom-sequence-making-of-mike-flanagan-interview-1235221098/
-
-Series creator Mike Flanagan and VFX supervisor Becky Philpott tell IndieWire how they pulled off a prom that's deadly in its own way in Prime Video's "Carrie."
-
-### Meryl Streep Almost Didn t Watch the Six-Hour My Undesirable Friends — Then, Colin Firth Led Her to Executive Produce It
-Fri, 09 Oct 2026 15:30:00 +0000 — https://www.indiewire.com/features/interviews/how-meryl-streep-executive-produced-my-undesirable-friends-1235221050/
-
-Julia Loktev tells IndieWire about globetrotting as a one-woman crew to follow the now-exiled Russian and Ukrainian journalists who fled home after Putin's invasion.
-
 ## The Wrap
+
+### George Clooney Says He’s Not Ready to Talk About Presley Gerber’s Death: ‘One of the Most Devastating Things’
+Sat, 10 Oct 2026 17:56:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/george-clooney-breaks-silence-presley-gerber-death/
+
+George Clooney briefly addressed the passing of 27-year-old model Presley Gerber Friday, admitting he wasn t ready to talk about the tragic death. Clooney, who is close friends with Gerber s parents, Rande Gerber and Cindy Crawford, commented on the model s death for the first time Friday evening at the 2026 Albies in London, England. When asked by Entertainment Tonight if he or the Gerbers had plans to honor the late model s legacy, Clooney responded, I don’t even think we’re in the position of being able to talk about it. “Quite honestly, it’s one of the most devastating things that’s happened to our family, he added. And their family is just, as you can imagine – it’s the worst thing that could ever happen to a family.” @entertainmenttonight George and Amal Clooney are mourning the loss of their close family friend, Presley Gerber. George opens up about Cindy Crawford and Rande Gerber son's death, calling it the worst thing that could ever happen to a family” when speaking with ET at the 2026 Albies, hosted by the Clooney Foundation for Justice. #georgeclooney #presleygerber #amalclooney #thealbies ♬ original sound Entertainment Tonight Clooney has been close with Gerber and Crawford for decades, having co-founded the tequila brand Casamigos together. And so, the Oscar winner has known Presley, as well as sister Kaia Gerber, for most of their lives. The younger Gerber died at the age of 27 on Sept. 20 while receiving treatment at a rehabilitation facility. Following his de
+
+### Nicolas Cage Appears to Let ‘True Detective’ Season 5 Casting Slip
+Sat, 10 Oct 2026 17:07:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/nicolas-cage-teases-true-detective-season-5-role/
+
+Nicolas Cage appeared to confirm at New York Comic Con that he s set to star in Season 5 of HBO s True Detective . While appearing at the “Spotlight” panel Saturday morning, the actor told the crowd at New York Comic Con that he was set to do another season of television before name dropping the anthology crime drama. My agent’s out there somewhere listening,” Cage first told the crowd, according to Entertainment Weekly. “You can only do so many movies back to back to back, and necessity is the mother of invention. Cage, who starred in the recently canceled Prime Video series Spider-Noir , added: “You can connect those dots, too. What do I mean by necessity? Feed the family; don’t do too many movies back to back to back. So I think I’m probably gonna do another season of television. I think I might do a season of True Detective.' As the crowd erupted into thunderous applause over the reveal, Cage asked: That’s okay that I’m the first to announce that, right?” Watch the moment for yourselves below. Representatives for HBO declined to comment on Cage s comment. View this post on Instagram A post shared by Entertainment Weekly (@entertainmentweekly) Cage was first tied to Season 5 of True Detective back in August, when it was reported that he was circling the lead role of New York detective Henry Logan, who investigates the mystery at the center of the new season. HBO declined to comment to TheWrap at the time. After Season 4 focused on a cold case in the fictional town of Ennis
+
+### Joseph Gordon-Levitt Sounds the Alarm on AI Models Being Trained to Hijack Your Intimacy
+Sat, 10 Oct 2026 16:32:27 +0000 — https://www.thewrap.com/industry-news/tech/joseph-gordon-levitt-ai-models-warning-hijack-intimacy/
+
+Joseph Gordon-Levitt sounded the alarm on AI models being “trained to hijack your intimacy,” urging the public to “be concerned about the people building” the technology. The actor, who co-founded the Creators Coalition on AI, addressed the growing concerns surrounding artificial intelligence in a new video interview for the New York Times. The video conversation took place as Gordon-Levitt was on his way to the United Nations, where he serves as the organization s global advocate of human-centric digital governance. Why listen to an actor? Don’t listen to an actor, Gordon-Levitt said at the top of the video. You should read Human Compatible by Stuart Russell. Go look up Yoshua Bengio. Read posts by people who work in alignment and safety and policy. You don’t want to read all those things? Well, I did! So, you know, if you want to listen to me, that’s a shortcut.” As Gordon-Levitt went on, he explained why he was zeroing in on artificial intelligence , which he called a fast-moving business run by leaders concerned with their own profits. “What we don’t want is a bunch of people confused or apathetic while these very fast-moving businesses design the future by themselves, just in the interests of their own profits, he said. A lot of what needs to happen, I think, has to do with communication, which is ultimately kind of what acting or filmmaking is.” In the wake of the growing fears of AI s impact on society, including one ex-Anthropic employee s warning that the technology 
+
+### Other Mommy, Social Reckoning Struggle as Box Office Slows Down
+Sat, 10 Oct 2026 15:08:17 +0000 — https://www.thewrap.com/creative-content/movies/other-mommy-social-reckoning-box-office/
+
+For the second weekend in a row, the major new releases at the box office are suffering from lackluster reception, causing overall estimates to slip below $90 million. Universal/Blumhouse-Atomic Monster s Other Mommy is No. 1 this weekend, but critics and audiences alike are giving it poor marks even as it earned a $13 million opening day from 3,365 screens. Not only does it have a 20% critics and 47% audience Rotten Tomatoes score, but it has earned a D+ on CinemaScore. That is the lowest grade CinemaScore has recorded for a film since the D+ handed by audiences to Francis Ford Coppola s ill-fated Megalopolis in September 2024. Produced on a $19 million budget, Other Mommy is currently estimated for a $28 million opening and should clear its break-even mark by the end of its theatrical run, but such poor reception is likely to take out the film s legs and could affect even Saturday and Sunday turnout. Don t be surprised if the Monday actual total for this film is closer to $20 million. But that would still be far better than what Sony/Columbia/Alcon s The Social Reckoning is earning with $2.1 million from 2,606 locations on Friday for an opening weekend of just $6 million. That s less than a third of the $22.4 million that its Oscar-winning predecessor, The Social Network, earned in the fall of 2010 before inflation adjustment. The Social Reckoning carries a far lower budget than last weekend s bomb Digger with a net production spend of $30 million co-financed by Alcon. And 
+
+### Ray Gunn Review: Brad Bird’s Dazzling Animated Noir Was Worth the Wait
+Sat, 10 Oct 2026 13:45:00 +0000 — https://www.thewrap.com/creative-content/movies/ray-gunn-review-brad-bird-netflix/
+
+“Ray Gunn” is – finally – here. The project began in the early 1990s as an idea by Brad Bird, a talented veteran of “The Simpsons” and Steven Spielberg’s “Amazing Stories,” at Turner Feature Animation. It was inspired by him hearing the B-52’s song “Planet Claire” on the radio. Bird first thought it was Henry Mancini’s theme to “Peter Gunn.” But as the song progressed, he realized it was something else, something spacey – retro and futuristic all at once. Instead of “Peter Gunn,” Bird imagined, it could be … “Ray Gunn.” Ideas flooded his imagination – sleek skyscrapers that were hundreds of stories tall, flying cars that could have been designed by Preston Tucker sharing airspace with rocket packs, aliens and humans all part of the same, glorious melting pot – and a script followed, co-written by Matthew Robbins (who had worked with Bird on an “Amazing Stories” episode). “Ray Gunn” would take place in a future as imagined “before World War II and the atomic bomb made the world a smaller place, and the future less than rosy,” Bird wrote in an introduction to the fifth draft of the screenplay, dated June 1996. Even the holograms would be in black-and-white. But as Bird moved onto “The Iron Giant,” which would ultimately be his directorial debut, then to Pixar for “The Incredibles” and “Ratatouille,” before blossoming in live-action with “Mission: Impossible – Ghost Protocol” and “Tomorrowland,” “Ray Gunn” remained on the back burner. Until now. A few years ago, Bird re-engaged 
 
 ### Trump Lashes Out at Nobel Peace Prize Winner Navi Pillay After Press Jab: ‘I Know Nothing About This Woman’
 Sat, 10 Oct 2026 04:59:06 +0000 — https://www.thewrap.com/media-platforms/politics/trump-reacts-nobel-peace-prize-loss/
@@ -277,80 +297,55 @@ Sat, 10 Oct 2026 02:02:23 +0000 — https://www.thewrap.com/creative-content/mov
 
 Protests swarmed the Montana set of a film that reportedly dramatizes the January killing of Renée Good. Produced by Ben Shapiro’s Daily Wire and Dallas Sonnier’s Bonfire Legend, the film, described as a Pro-ICE take on the events, was revealed to be under the working title Pawn Shop. Now, Danny Trejo, who stars in the film alongside Harvey Keitel, has responded to his own controversy born from his participation in the movie. I am a proud Mexican who has always been and will always be a supporter of my community, Trejo told TMZ on Friday. I am also obviously pro-immigrant. I am not pro-ICE. According to TMZ, Trejo was attracted to the role because it s a positive depiction of a Latino character and a veteran. He reportedly plays the owner of the titular pawn shop, which has been in his character s family for generations and serves as a shelter for an ICE agent hiding from unrest caused by immigration enforcement. But fans of the actor were concerned and confused by his decision to take on the role, given the story s reported pro-ICE stance and the filming of a scene that resembles the killing of Good. I know where I come from and I know our struggles, Trejo told the outlet. He expressed a similar sentiment on X Friday, writing, Hey everyone. I want to address some social media comments about me. Make no mistake. I am a proud Mexican who has always been and will always be a supporter of my community. I am also obviously, pro immigrant. I am not pro ice. He added: I know where 
 
-### Kalshi Investigates Questionable Bets on Trump’s New Press Secretary
-Sat, 10 Oct 2026 01:46:50 +0000 — https://www.thewrap.com/industry-news/business/kalshi-investigates-bets-trump-new-press-secretary/
-
-Kalshi, a prediction market platform, is investigating questionable trades tied to the selection of President Donald Trump’s new White House press secretary. A spokeswoman for the company confirmed to media Friday that Kalshi was taking a closer look at trades that predicted that conservative media commentator Katie Zacharia would replace Karoline Leavitt as Trump’s White House press secretary . According to a new report from the Wall Street Journal , which first reported Kalshi’s plan to investigate, three small bets were placed before Zacharia’s appointment made headlines, positioning the users to make thousands in profit. It’s said one bet of $19 was placed around 10:43 p.m. Thursday evening. The bettor stands to be paid out $1,896. Additionally, bets of $74 an $80 were made at 1:41 p.m. Friday – Zacharia’s appointment broke at around 2 p.m. ET that same day. These two bets are slated to received $3,689 and $4,023, respectively, in payouts. The successful bets have sparked scrutiny due to the fact that Zacharia had a 1% likelihood of being named press secretary on the platform leading up to the news. Not to mention, back in July, teleprompter operator Gabriel Perez was fired from the White House after he nabbed $100,000 in profits from placing bets on Trump’s speeches. Perez later reached a settlement agreement with the Commodity Futures Trading Commission in August. As for Zacharia, Trump confirmed on Truth Social Friday that the conservative personality would join his st
-
-### Common Side Effects Returns for Season 2 in January on Adult Swim
-Sat, 10 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/common-side-effects-season-2-premiere-date-adult-swim/
-
-Common Side Effects Season 2 will premiere on Adult Swim on Jan. 24, 2027, at 11 p.m. ET/PT. New episodes will be available to stream the next day on HBO Max. The news was announced on Friday at New York Comic Con by series co-creators Joe Bennett and Steve Hely. The animated thriller premiered last February and quickly became a critical darling. The first season of Common Side Effects won a Peabody Award and four Annie Awards and was also nominated for an Emmy and an Independent Spirit Award. The series follows Marshall (voiced by Dave King), a fungi expert who finds a mushroom capable of curing any disease. Though Marshall wants to use his discovery to help the world, he quickly finds himself at odds with the DEA, the U.S. government and a massive pharmaceutical organization that will do anything to stop the Blue Angel from getting into the hands of everyday people. Season 2 follows Marshall and Frances (voiced by Emily Pendergast), Marshall s former lab partner-turned-accomplice, as the two fugitives try to stay one step ahead of the many forces trying to stop them from sharing this panacea with the world. In addition to King and Pendergast, Common Side Effects stars Martha Kelly, Joseph Lee Anderson and Mike Judge. Judge and Greg Daniels, both known for their work on King of the Hill, also executive produce the series. Bennett was behind the 2024 Emmy Award-winning series Scavengers Reign, and Hely is known for his work on Veep, 30 Rock and The Office. At Adult Swim, we a
-
-### Pretty Little Liars Actor Keegan Allen Robbed at Gunpoint in West Hollywood
-Fri, 09 Oct 2026 23:58:07 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/pretty-little-liars-actor-keegan-allen-robbed-at-gunpoint-west-hollywood/
-
-Pretty Little Liars alum Keegan Allen was robbed at gunpoint late Thursday night and detailed his experience in a bloody Instagram video. The actor was leaving upscale grocery store Laurel Supply in West Hollywood, Calif. when he was robbed at gunpoint and hit in the head with a pistol. His video included security camera footage of the crime. Allen was attacked while loading groceries into his vehicle around 9 p.m. Thursday night. He recounted that he was hit in the head by two masked robbers, they stole his Rolex watch and threatened him with a pistol and a knife. West Hollywood is not safe anymore, he wrote in the Instagram caption of the video. Robbed at gunpoint and knifepoint by two young men that threatened to KILL me over my watch and would have! God said no tonight. My life for a watch. Let’s hope all these flock cameras that @karenbassla @gavinnewsom and everyone thinks will stop crime can find these very dangerous criminals. God bless, he added. West Hollywood has its own mayor and police department that does not operate under L.A. Mayor Bass jurisdiction, but the Los Angeles County Sheriff’s Department is actively investigating this incident. View this post on Instagram A post shared by Keegan Allen (@keeoone) West Hollywood city officials issued a statement about the armed robbery. “West Hollywood is a compassionate and engaged community, and news of this violent robbery is deeply upsetting and unsettling,” the statement read. “The city wants community members to 
-
-### The Exorcist: Martyrs Trailer: Scarlett Johansson Hunts a Satanic Killer in Chilling Mike Flanagan Take
-Fri, 09 Oct 2026 23:46:30 +0000 — https://www.thewrap.com/creative-content/movies/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan/
-
-Two days after Mike Flanagan s Carrie landed on Prime Video, Universal Pictures and Blumhouse released a trailer for Flanagan s next project: The Exorcist: Martyrs . The trailer released online Friday after playing before screenings of Other Mommy and debuting at New York Comic-Con. The spooky new footage shows Scarlett Johansson as New York City detective Julie Miller, who gained notoriety for catching the satanic serial killer known as Father Sunday. Thirteen years later, Miller (now mother to Max, played by Hamnet s Jacobi Jupe) finds her name written in an altar boy s blood, signaling the start of a haunting new case. Aided by former prison chaplain Father William (Academy Award nominee Chiwetel Ejiofor), who heard Father Sunday’s final confession, and sharp rookie detective Gina Restrepo (Sasha Calle, The Rip), Detective Miller will discover a filament linking a lineage of serial killers, from H.H. Holmes to the Zodiac, that could corrupt everything, and everyone, she loves with an evil that goes well beyond the mortal, a plot description from Universal reads. You can watch the chilling trailer below: Flanagan has become known as a modern master of horror — particularly horror adaptations — shepherding a number of high-profile projects based on the works of Stephen King, Edgar Allen Poe, Shirley Jackson and more. He also penned the initial screenplay for the forthcoming Clayface film, the first horror project set in the new DC universe. But The Exorcist: Martyrs — Flanag
-
-### Craig Zobel to Direct ‘Something Is Killing the Children’ Film Adaptation at Blumhouse
-Fri, 09 Oct 2026 23:32:54 +0000 — https://www.thewrap.com/culture-lifestyle/culture/craig-zobel-to-direct-something-is-killing-the-children-film-blumhouse/
-
-Director Craig Zobel will direct the feature film adaptation of horror phenomenon “Something Is Killing the Children” created by James Tynion IV and Werther Dell’Edera, it was announced at New York Comic Con s Blumfest on Friday. Stephen Christy and James Tynion IV will produce the film for Boom! Studios/Penguin Random House. Jason Blum will produce for Blumhouse with Shaun Sutton and Ryan Turek serving as executive producers. Adam Yoelin and Mette Norkjaer will also executive produce. Series co-creator Werther Dell’Edera will act as co-producer. First published by Boom! Studios, an imprint of Penguin Random House, in 2019, Something Is Killing the Children is the most successful original horror comic book since The Walking Dead, selling more than 5 million copies worldwide. It has been translated into more than 20 languages and is published in 14 countries around the world. Blumhouse is developing the franchise simultaneously as a live-action feature film and as an adult animated television series, with the TV adaptation to be shepherded by series co-creator James Tynion IV. The franchise’s breakout spinoff, “House of Slaughter,” launched with over 500,000 copies of its first issue sold, making it one of the top-selling original comic book debuts of the 21st century. Since its debut, the franchise has garnered critical acclaim and won multiple Eisner Awards — the highest honor in comics. Zobel is a filmmaker who broke out with such pics as “Compliance” and “Z for Zachariah” 
-
 ## Collider
 
-### James Cameron's $78 Million Sci-Fi Masterpiece Officially Finds a New Streaming Home
-Sat, 10 Oct 2026 10:30:11 GMT — https://collider.com/james-cameron-sci-fi-the-terminator-prime-video-streaming-october-2026/
+### 8 Netflix Miniseries With the Highest Rotten Tomatoes Scores, Ranked
+Sat, 10 Oct 2026 17:57:11 GMT — https://collider.com/netflix-miniseries-highest-rotten-tomatoes-scores-ranked/
 
-Before James Cameron had billion-dollar blue aliens, sinking ocean liners and enough studio money to build whatever he wanted, he made one of the greatest sci-fi movies ever for about $6 million. Arnold Schwarzenegger barely speaks, wears leather trousers, and spends 107 minutes trying to murder the mother of someone who hasn't been born yet. Simple enough.
+An aggregated rating system that often shapes box office success, marketing, and consumer choices, Rotten Tomatoes is a universally recognized (if flawed) metric for a show or movie’s quality. In 2019, It’s Bruno! became the first Netflix original miniseries to earn a full 100% score on Rotten Tomatoes. Since then, the streamer has produced a long list of incredible shows and series in the category, many of which have followed in the footsteps of the first and topped the ranking meter.
 
-### 7 Horror Books to Read if You Love ‘Carrie’
-Sat, 10 Oct 2026 10:05:11 GMT — https://collider.com/horror-books-like-carrie-stephen-king/
+### 6 Greatest Matt Damon Action Movies, Ranked
+Sat, 10 Oct 2026 17:52:12 GMT — https://collider.com/best-matt-damon-action-movies-ranked/
 
-With Mike Flanagan ’s series adaptation arriving on streaming this week, Stephen King ’s Carrie is once again at the top of every horror fan’s mind. The debut novel of the King of Horror, Carrie is a highly influential teen horror book that follows a friendless girl from an abusive home who discovers latent psychic abilities. In the aftermath of a cruel prank, she unleashes these powers on all the people who have made her life hell. Though it wasn’t an instant success when it first hit the shelves in 1974, the book went on to become a critical and fan favorite, launching King’s spectacularly successful career as a master of the horror genre.
+Matt Damon has never really looked like a man who entered the room expecting a gunfight. That is half the magic. Put him beside the traditional action hero and he looks almost aggressively normal, like he should be arguing with an airline employee or trying to remember where he parked. Then somebody comes at him with a knife and suddenly the ordinary guy knows where every exit is, what object on the table can become a weapon, and exactly how much violence the next ten seconds require. That, however, did change with The Odyssey a bit.
 
-### 6 Most Universally Loved Movies Released Since 2020, Ranked
-Sat, 10 Oct 2026 10:03:11 GMT — https://collider.com/most-universally-loved-movies-since-2020-ranked/
+### Russell Crowe’s 137-Minute War Epic Officially Remains a Global Streaming Smash
+Sat, 10 Oct 2026 17:30:11 GMT — https://collider.com/russell-crowe-master-and-commander-far-side-of-the-world-streaming-success-apple-tv-october-2026/
 
-Getting people to agree on movies now feels harder than getting a family to agree on where to eat. Every release has discourse attached before half the audience has even seen it. Somebody thinks it is overrated. Somebody thinks criticism of it is a personality defect. Somebody thinks it’s too woke and somebody takes it as offensive or cancels the actor. So when a movie breaks through all of that noise and generates something close to genuine shared affection, I notice.
+2026 has been an up-and-down year for Russell Crowe , but one of his older movies is finding new life thanks to an underrated streaming service. Crowe has starred in a few movies this year, but he’s yet to find the same box office success fans could once count on him for. Near the end of 2025, Crowe returned to decent form with the premiere of his passion project, Nuremberg , the WWII legal thriller written and directed by James Vanderbilt . The film put up a respectable outing at the box office before also going on to become one of the most-watched movies of the year on Netflix . Crowe’s older movies continue to outshine his newer films on streaming, but when he returns soon to star alongside Henry Cavill in Highlander , there’s a solid chance his movie-star status will be restored.
 
-### 2026’s Most Savage Horror Sleeper Hit Is Officially Unleashed on Streaming
-Sat, 10 Oct 2026 10:00:11 GMT — https://collider.com/evil-dead-burn-streaming-hit-hbo-max-october-2026/
+### 10 Sci-Fi Movies With the Most Interesting Characters, Ranked
+Sat, 10 Oct 2026 17:09:12 GMT — https://collider.com/best-sci-fi-movies-interesting-characters/
 
-Horror fans have been truly blessed in 2026 . YouTuber Mark Edward Fischbach (aka Markiplier) surprised everyone with an early-year surprise in Iron Lung ; Adam Scott followed up on the latest season of Severance with Hokum ; Nia DaCosta directed one of the year's best horrors with 28 Years Later: The Bone Temple ; Kane Parsons blew minds with his directorial debut Backrooms ; Curry Barker 's breakout masterpiece Obsession is a record-breaking phenomenon, and much more.
+There are multiple ways for a science fiction movie to be legendary, from its having groundbreaking visual effects to its having deeply intricate and atmospheric world-building. One aspect of sci-fi filmmaking that's often awfully underappreciated, however, is character writing. A solid screenplay is necessary for any sci-fi movie to be truly great, and characters who are profoundly interesting are pretty much vital for any sci-fi screenplay to be solid .
 
-### Russell Crowe's R-Rated 'Exorcist' Replacement Is Officially Back on Streaming
-Sat, 10 Oct 2026 09:40:11 GMT — https://collider.com/russell-crowe-horror-popes-exorcist-prime-video-october-2026/
+### 10 Greatest K-Drama TV Masterpieces of the 21st Century, Ranked
+Sat, 10 Oct 2026 17:04:12 GMT — https://collider.com/best-k-drama-shows-modern-masterpieces-ranked/
 
-There are plenty of exorcism movies to choose from in October, but not many of them have Russell Crowe riding around Italy on a tiny Vespa while working directly for the Pope. That alone helped turn one relatively modest horror movie into a surprise theatrical hit — and eventually a franchise.
+Many K-dramas have stood the test of time, but only a select few have earned their rightful place as masterpieces. K-dramas have been a part of Korean television since the post-war era, and over the years, these dramas have evolved to reflect the generations they come from.
 
-### Just 1 Week Later, Tom Cruise’s Ambitious New Movie Is Officially Getting the IMAX Boot
-Sat, 10 Oct 2026 09:20:11 GMT — https://collider.com/tom-cruise-digger-removed-from-imax-box-office-disaster/
+### 'The Pitt' Producer's New Netflix Series Officially Sets Premiere Date
+Sat, 10 Oct 2026 17:00:11 GMT — https://collider.com/unaccustomed-earth-john-wells-netflix-december-17-premiere-date/
 
-The IMAX Corporation has confirmed that Christopher Nolan 's record-breaking blockbuster, The Odyssey , will return to premium large-format venues as early as this week, following the box-office failure of Digger . Starring Tom Cruise and directed by the two-time Oscar-winning Alejandro G. Iñárritu , the epic sci-fi political satire made less than $20 million worldwide in its box-office debut, against a budget that has been reported to be anywhere between $140 million and $180 million. Warner Bros. spent an additional $100 million to market the movie, meaning that its break-even point, given the typical revenue split between studios and exhibitors, should be around $350 million worldwide. At this rate, Digger is poised to gross around $50 million in its lifetime run.
+For over three decades, John Wells has been a quiet but powerful presence on television. The writer-director has shaped some of the most popular shows of the past 30 years in different roles, but he's best known as an executive producer and showrunner. From China Beach and ER to The West Wing , Shameless and Animal Kingdom , Wells has mastered the art of spotting good stories for the small screen. His latest credit as an executive producer is on HBO Max's hit medical drama The Pitt . But one thing about being an executive producer is that one can focus on multiple projects, and Wells' production company is always tackling a project or two. In his latest one, he returns to Netflix for a different kind of family drama.
 
-### 10 Sci-Fi Shows That Get Better When Everything Falls Apart
-Sat, 10 Oct 2026 09:18:11 GMT — https://collider.com/sci-fi-shows-better-everything-falls-apart/
+### 'Bob's Burgers' Officially Reveals First Look at Upcoming Holiday Special
+Sat, 10 Oct 2026 16:31:11 GMT — https://collider.com/bobs-burgers-on-the-fort-day-of-christmas-short-first-look/
 
-There's absolutely nothing wrong with Star Trek - style science fiction, where the future is seen through a lens of pure optimism, escapism, and entertainment value. Every now and then, however, every sci-fi fan craves a story where things are constantly falling apart , and characters are constantly struggling with the overwhelming weight of their own actions.
+Fox's Animation Domination slate is back for another year, but this time, the stove at Bob's Burgers remains cold. Bob Belcher's restaurant has opened consistently with the start of each new television season since Loren Bouchard 's acclaimed adult animated comedy debuted, yet this year is different. Bob and his family will join fellow mainstays of the network, Family Guy and American Dad , in premiering at midseason this time around, with Joel McHale 's Animal Control taking up their usual time slot after The Simpsons . While there still isn't an exact premiere date for Season 17, Hulu will tide fans over for the holidays at least with a new exclusive release featuring the Belchers.
 
-### Why 'Digger's Final Shot Took 6 Months To Plan Out [Exclusive]
-Sat, 10 Oct 2026 09:15:11 GMT — https://collider.com/digger-ending-final-shot-meaning-alejandro-g-inarritu-interview/
+### John Cena’s 10/10 Legal Thriller Is Officially One of Apple TV’s Biggest Hits
+Sat, 10 Oct 2026 16:31:11 GMT — https://collider.com/john-cena-coyote-vs-acme-streaming-hit-apple-october-2026/
 
-Editor's note: The following contains spoilers for Digger.
+The past couple of months at the box office have been dominated by two titles, both featuring the trio of Tom Holland , Jon Bernthal , and Zendaya . Christopher Nolan 's latest masterpiece, The Odyssey , which was called an "unrivaled cinematic spectacle" in Joe Schmidt 's review for Collider , is currently the favorite to sweep up at the Academy Awards in early 2027. In fact, some suspect it might even break the nominations record set just this year by Ryan Coogler 's awe-inspiring vampire horror musical, Sinners .
 
-### ‘Edie Arnold Is a Loser’ Star Turned to a Video Game To Help Her Become a Punk Rock Drummer
-Sat, 10 Oct 2026 09:00:11 GMT — https://collider.com/edie-arnold-is-a-loser-punk-rock-adi-madden-cabrera/
+### The World's Most Beloved Detective Series Officially Announces New Release
+Sat, 10 Oct 2026 16:21:17 GMT — https://collider.com/murdoch-mysteries-comic-series-announced/
 
-Editor's note: The following contains spoilers for Edie Arnold Is a Loser.
+The Canadian period procedural Murdoch Mysteries has quietly become one of the longest-running detective series in the world, and has just premiered its 20th season. And now, the series is going where it's never gone before with a new spin-off. Collider's Maggie Lovitt was on the scene at the show's panel at New York Comic Con with the news.
 
-### Tom Holland’s $1.1B Superhero Blockbuster Officially Becomes a Free Streaming Sensation
-Sat, 10 Oct 2026 09:00:11 GMT — https://collider.com/spider-man-far-from-home-streaming-hit-tubi-october-2026/
+### 8 Adventure Games That Are Amazing From Start to Finish
+Sat, 10 Oct 2026 16:19:11 GMT — https://collider.com/adventure-video-games-amazing/
 
-How will 2026 in film be remembered? Big surprise hits such as Obsession and ambitious critical darlings like Christopher Nolan 's The Odyssey are sure to prove lasting, but no film is set to define 2026 better than Spider-Man: Brand New Day . The return of Tom Holland 's Friendly Neighborhood Spidey was always likely to prove a financial success, but no one could've predicted quite how record-breaking the success would be.
+Adventure games do something no other medium can. A movie can show you a new world. A book can describe one. But an adventure game drops you straight into it and hands you the wheel.
 
