@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-09T18:59:50.250Z
+# Manga — harvested 2026-10-10T10:48:14.391Z
 
 ## Anime News Network
+
+### Millennium Family TV Anime Casts Taihi Kimura
+Sat, 10 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/millennium-family-tv-anime-casts-taihi-kimura/.242683
+
+Kimura voices 3rd son Noel
+
+### 'I am the only one who is not attacked in the world filled with zombies' TV Anime's Main Promo Video Previews Theme Songs
+Sat, 10 Oct 2026 00:09:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682
+
+Rikako Ito, Marie Miyake join cast; RetBear, Itsuka▶ perform theme songs
+
+### To Love-ru's Kentaro Yabuki Draws Nami Card for One Piece Card Game
+Fri, 09 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-09/to-love-ru-kentaro-yabuki-draws-nami-card-for-one-piece-card-game/.242536
+
+Nami gets that slightly lewd Yabuki touch
+
+### Tom Cruise, Alejandro González Iñárritu Enjoy MAPPA Anniversary Exhibit
+Fri, 09 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-09/tom-cruise-alejandro-gonzalez-inarritu-enjoy-mappa-anniversary-exhibit/.242675
+
+<i>Jujutsu Kaisen/Yuri!!! on Ice</i> designer presents <i>Digger</i> star & director with art of Cruise
+
+### Billy Bat Manga Wins Harvey Award
+Fri, 09 Oct 2026 22:51:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681
+
+Series had competed against <cite>Land, My Gorilla Family, Miss Ruki</cite>, more works for Best Manga award
+
+### GROTESQQQUE Anime Film Review
+Fri, 09 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/review/grotesqqque/anime-film/.242677
+
+Atsushi Nishigori’s three-part anthology film crams all his otaku obsessions into a feast of wild eye candy.
+
+### North American Anime, Manga Releases, October 4-10
+Fri, 09 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519
+
+<cite>Devil Survivor 2: The Animation</cite> anime; <cite>The Apothecary Diaries: Xiaolan's Story, My Journey to Her, Blue Lock Full Color Selection</cite> manga ship
 
 ### Ize Press Announces Print Editions of Regas, Eat Before You Go Webtoons
 Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/ize-press-announces-print-editions-of-regas-eat-before-you-go-webtoons/.242614
@@ -8,7 +43,7 @@ Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 <cite>Regas</cite> BL series centers on crown prince whose power comes at the cost of his sanity; <cite>Eat Before You Go</cite> follows hero who returns to earth after defeating demon lord
 
 ### Yen Press Licenses Fate/strange Fake, Kino's Journey, Spice and Wolf Diner: Gourmet Exploration, More Manga/Novels
-Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-08/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640
+Fri, 09 Oct 2026 14:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/yen-press-licenses-fate-strange-fake-kino-journey-spice-and-wolf-diner-gourmet-exploration-more-/.242640
 
 Also: <cite>The Girls Adrift Among the Stars</cite>, <cite>Dungeon Master: Creating a Hot Spring Dungeon</cite>, more
 
@@ -27,46 +62,21 @@ Fri, 09 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-i
 
 A major <i>Fire Emblem</i> anniversary and the release of <i>Dead of Brain</i> are among the big topics this week!
 
-### Subtlety is Key: An Interview with Taihi Kimura, the Japanese Voice of Kagurabachi Anime's Chihiro Rokuhira
-Fri, 09 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-expo/subtlety-is-key-an-interview-with-taihi-kimura-the-japanese-voice-of-kagurabachi-anime-chihiro-/.239643
-
-During our conversation, Kimura spoke about how he landed the role of Chihiro as well as his experience working with Tomokazu Seki, the voice actor for Kunishige Rokuhira.
-
-### All of Us Are Dead Creator Dong-geun Joo Talks Zombies, Adaptations, and His Global Fans
-Fri, 09 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-09/all-of-us-are-dead-creator-dong-geun-joo-talks-zombies-adaptations-and-his-global-fans/.242054
-
-Joo spoke with Anime News Network about his debut, the influences behind his work, the Netflix adaptation, and his latest series, Adonai.
-
-### Casshern R Manga Listed as Ending With 3rd Volume
-Fri, 09 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/casshern-r-manga-listed-as-ending-with-3rd-volume/.242564
-
-Manga launched in 2023
-
-### WEBTOON to Launch New Marvel Comics App in November
-Fri, 09 Oct 2026 07:23:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/webtoon-to-launch-new-marvel-comics-app-in-november/.242617
-
-New app comes as Marvel Unlimited shuts down after 19 years in December
-
-### The Ghost of Bongcheon-Dong Horror Webtoon Gets Live-Action Film Adaptation
-Fri, 09 Oct 2026 06:24:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/the-ghost-of-bongcheon-dong-horror-webtoon-gets-live-action-film-adaptation/.242620
-
-Series follows young woman who begins experiencing strange phenomena at an apartment complex in Seoul
-
-### Chiikawa Anime Film Drops to #4, Star Detective Precure! Film to #5 in Japan
-Fri, 09 Oct 2026 06:02:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/chiikawa-anime-film-drops-to-no.4-star-detective-precure-film-to-no.5-in-japan/.242508
-
-<cite>Puella Magi Madoka Magica The Movie: Walpurgisnacht: Rising</cite> rejoins top 10 at #7
-
-### How I Became King by Eating Monsters Novels Get TV Anime by White Fox in 2027
-Fri, 09 Oct 2026 05:41:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/how-i-became-king-by-eating-monsters-novels-get-tv-anime-by-white-fox-in-2027/.242668
-
-Series centers on prince who secretly hunts, eats monsters to avoid assassination
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### My Sword Saint Master Is Too Cute To Live With! Releases Teaser PV and Cast News
+Sat, 10 Oct 2026 00:48:10 GMT — https://animecorner.me/my-sword-saint-master-is-too-cute-to-live-with-releases-teaser-pv-and-cast-news/
+
+The Deregula YouTube Channel has revealed a promo video for My Sword Saint Master&hellip;
+
+### How Not to Summon a Demon Lord Ult Releases Visual & Staff Details
+Fri, 09 Oct 2026 22:47:01 GMT — https://animecorner.me/how-not-to-summon-a-demon-lord-ult-releases-visual-staff-details/
+
+The production committee for How Not to Summon a Demon Lord ULT has released&hellip;
 
 ### Dragon Ball Super: Beerus Brought a Strong Panel and a Stronger Super to New York Comic Con
 Fri, 09 Oct 2026 12:53:15 GMT — https://animecorner.me/dragon-ball-super-beerus-brought-a-strong-panel-and-a-stronger-super-to-new-york-comic-con/
@@ -113,17 +123,12 @@ Thu, 08 Oct 2026 12:25:25 GMT — https://animecorner.me/cosplay-mania-2026/
 
 Cosplay.ph just held its much-anticipated Cosplay Mania 2026, an all-out celebration of cosplay, anime,&hellip;
 
-### Best Opening and Ending Theme Songs | Summer 2026 Anime Season
-Thu, 08 Oct 2026 03:46:44 GMT — https://animecorner.me/best-opening-and-ending-theme-songs-summer-2026-anime-season/
-
-Summer 2026 Anime of the Season Awards are being revealed, and here are the winners of the best opening and ending theme songs.
-
-### Walking Home with You Anime Reveals Visual, April 2027 Premiere
-Wed, 07 Oct 2026 23:30:04 GMT — https://animecorner.me/walking-home-with-you-anime-reveals-visual-april-2027-premiere/
-
-Walking Home with You anime revealed a new visual along with an April 2027&hellip;
-
 ## MyAnimeList News
+
+### Zombie no Afureta Sekai de Ore dake ga Osowarenai Unveils Additional Cast, Staff, Theme Songs, First Promo
+Fri, 09 Oct 2026 21:04:54 -0700 — https://myanimelist.net/news/74807103?_location=rss
+
+The official website for the television anime adaptation of Rokuro Uraji s Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I m the Only One Who Doesn t Get Attacked) light novel unveiled additional cast, staff, a key visual (pictured), the theme songs, and first promotional video on Saturday. The anime series will premiere on AT-X in January 2027. Voice actresses Rikako Itou (Mushoku no Eiyuu) and Marie Miyake (Gin no Saji) are joining the casts as To...
 
 ### Manga Hotaru no Yomeiri Gets Live-Action Adaptation in 2027
 Fri, 09 Oct 2026 09:15:28 -0700 — https://myanimelist.net/news/74805426?_location=rss
@@ -180,16 +185,16 @@ Thu, 08 Oct 2026 07:30:57 -0700 — https://myanimelist.net/news/74802125?_locat
 
 The official website for the television anime adaptation of Aki Irie s Hokuhokusei ni Kumo to Ike (Go with the Clouds, North-by-Northwest) manga revealed the lead cast, main staff, a key visual (pictured), and the first promotional video on Thursday. The anime series will premiere on TBS in 2027 and will stream worldwide exclusively on Netflix. Voice actors Tomohiro Ono (Tomodachi Game) is starring as the lead character Kei Miyama. Staff Chief Director, Series Composition: Takashi Sano (Kam...
 
-### Magic Knight Rayearth Reveals Additional Cast
-Thu, 08 Oct 2026 07:24:08 -0700 — https://myanimelist.net/news/74802115?_location=rss
-
-The official website for the new Magic Knight Rayearth (Mahou Kishi Rayearth) television anime announced additional cast members on Thursday. The anime series premiered on October 7 at 11.45 p.m. on TV Asahi s "IMAnimation W" frame. Voice actors Mao Ichimichi (Tensei shitara Slime Datta Ken), Natsumi Takamori (5-toubun no Hanayome), and Miyuki Sakurai (Kekkon Yubiwa Monogatari II) joined the cast as Hikaru s classmate. Yui Umemoto (Ninja Kamui) is directing at E&amp;H Produc...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Boyish Girlfriend Volume 1 Review
+Sat, 10 Oct 2026 09:00:17 +0000 — https://animeuknews.net/2026/10/boyish-girlfriend-volume-1-review/
+
+Daichi and Akira are childhood friends who have been dating for years, but when Daichi attends Akira's school festival, he discovers a whole new side to his beloved girlfriend.
 
 ### Crunchyroll Debuts New Anime at New York Comic Con 2026
 Fri, 09 Oct 2026 10:10:57 +0000 — https://animeuknews.net/2026/10/crunchyroll-debuts-new-anime-at-new-york-comic-con-2026/
@@ -200,14 +205,4 @@ The showcase also featured EAT-MAN, Here U Are, Everyone's Darling Has a Secret,
 Fri, 09 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/wandering-son-omnibus-volume-one-two-review/
 
 Shimura Takako's acclaimed Wandering Son series finally makes its way back to the English market with these new editions from Takumigraphics.
-
-### Crunchyroll Manga is here: 250+ titles live today in the UK, Ireland, India, Australia and New Zealand
-Thu, 08 Oct 2026 09:15:44 +0000 — https://animeuknews.net/2026/10/crunchyroll-manga-is-here-250-titles-live-today-in-the-uk-ireland-india-australia-and-new-zealand/
-
-Since debuting in the US and Canada in October 2025, Crunchyroll Manga has grown its library to more than 450 titles from premier publishing partners.
-
-### Summer Season 2026 Overview
-Thu, 08 Oct 2026 09:00:16 +0000 — https://animeuknews.net/2026/10/summer-season-2026-overview/
-
-Were there just too many new series in the Summer Season – and did the quality slip? Which titles stood out now that they’ve all (well, almost all) come to an end?
 

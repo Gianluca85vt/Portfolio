@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-09T18:59:50.250Z
+# Film & TV — harvested 2026-10-10T10:48:14.391Z
 
 ## Variety
 
-### Variety Toasts Pete Davidson at The New York Party With Gayle King, Ana Navarro and Kareem Rahma
-Fri, 09 Oct 2026 18:44:48 +0000 — https://variety.com/2026/scene/news/variety-pete-davidson-new-york-party-1236906726/
+### Netflix s ‘The Blue Road’ Director Han Jun-hee on Why Playing It Safe Is the Real Risk
+Sat, 10 Oct 2026 10:27:27 +0000 — https://variety.com/2026/tv/festivals/netflixs-the-blue-road-director-han-jun-hee-1236907368/
 
-New York is having a moment. In June, the Knicks pulled off the impossible and won their first NBA championship in 53 years, sending the city into a frenzy of infectious energy. “I was at my friend Justin’s house with a bunch of straight people, which was fun,” Nicky Campbell, fashion TikTok star and one [ ]
+When Han Jun-hee binge-watched “House of Cards,” the series struck him as a game changer. It left him with one ambition: to make a story no one had told before, but that many people would watch. Delivering a masterclass at Netflix’s Creative Asia program during the Busan International Film Festival (BIFF), the director of “Coin [ ]
 
-### How Skydance Will Remake the Illustrious Culture of Warner Bros. Pictures More Than Any Owner Before
-Fri, 09 Oct 2026 18:34:24 +0000 — https://variety.com/2026/film/news/skydance-warner-bros-pictures-culture-transformation-1236906881/
+### AI Can Cut Film Budgets by Up to 40%, Says ‘The Outlaws’ Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: ‘A Human Touch Is Absolutely Essential’
+Sat, 10 Oct 2026 10:09:19 +0000 — https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/
 
-There have been many quiet Mondays at the Burbank offices of Warner Bros. Pictures, usually following a bomb like the one the studio just suffered with Tom Cruise’s “Digger.” The cryptic eco-disaster project will represent a loss of hundreds of millions when all is said and done. But the silence this past Monday was compounded [ ]
+Netflix has used AI in one form or another on some 300 of its titles, Lee Sung-gyun, the streamer’s senior director of APAC production, told an audience at the Busan International Film Festival. On the same panel, “The Outlaws” director Kang Yoon-sung said AI workflows could take 30% to 40% off a feature film’s production [ ]
 
-### Remi Wolf on the Meaning Behind Her New Album Mud, Her Off Campus Cameo and Friendship with Hayley Williams
-Fri, 09 Oct 2026 18:32:30 +0000 — https://variety.com/2026/music/news/remi-wolf-mud-off-campus-hayley-willians-1236906301/
+### Busan Market Chief Ellen Y.D. Kim Plots Year-Round ACFM 365 Platform, Warns Public Funding Has Stalled
+Sat, 10 Oct 2026 09:38:32 +0000 — https://variety.com/2026/film/markets-festivals/busan-market-chief-ellen-kim-year-round-acfm-365-platform-1236907349/
 
-Remi Wolf hasn t landed a spot on “Survivor,” one of her favorite shows she s always wanted to be on, so she instead put her mental fortitude to the test by rolling around in a makeshift mud pit. She quickly realized she’s “never gonna make it on that show if I can t handle this in such [ ]
+The Asian Contents Film Market (ACFM) should grow beyond its four days in Busan into a platform that runs all year, director Ellen Y.D. Kim tells Variety. She adds that public money for the market has not grown alongside it. Kim calls the idea ACFM 365. It would be a permanent database and matchmaking [ ]
 
-### Black Bear Acquires Rom-Com Honeymoon / Funeral Starring Rebecca Ferguson, Greta Lee and Carrie Coon
-Fri, 09 Oct 2026 18:30:00 +0000 — https://variety.com/2026/film/news/black-bear-honeymoon-funeral-rebecca-ferguson-greta-lee-1236906791/
+### Vietnamese Supernatural Horror ‘Bloodline: The Curse Within’ Heads to Busan Market With Mockingbird Pictures (EXCLUSIVE)
+Sat, 10 Oct 2026 05:59:30 +0000 — https://variety.com/2026/film/markets-festivals/vietnamese-supernatural-horror-bloodline-the-curse-within-busan-market-1236907324/
 
-Black Bear has acquired domestic rights to “Honeymoon / Funeral,” a new romantic comedy starring Rebecca Ferguson, Greta Lee and Carrie Coon. The movie was shopped out of the newly created film market at the Toronto International Film Festival. According to an official logline, “Honeymoon / Funeral” follows “two women (Ferguson and Lee) who meet [ ]
+Vietnamese supernatural horror film “Bloodline: The Curse Within” will be introduced to international buyers by Mockingbird Pictures at the Asian Contents Film Market (ACFM), the market of the Busan International Film Festival. The company holds worldwide distribution rights to the film, which will open in theaters across Vietnam on Dec. 25. Directed by Đinh [ ]
 
-### Journey Drummer Deen Castronovo Leaves Concert After Two Songs and Is Hospitalized, as Show Eventually Resumes With Drum Tech
-Fri, 09 Oct 2026 18:26:19 +0000 — https://variety.com/2026/music/news/journey-drummer-deen-castronovo-leaves-concert-hospitalized-1236906851/
+### Movistar Plus Drives Into YA Comedy, Smart Social Issue Genre
+Sat, 10 Oct 2026 05:50:00 +0000 — https://variety.com/2026/tv/global/movistar-plus-victoria-martin-isabel-pena-arte-france-1236893803/
 
-A Journey concert in Tulsa, Oklahoma had an unnerving moment Thursday night when longtime drummer Deen Castronovo had to be helped off the stage after the group had performed just two songs, leading to a substantial pause before the show resumed with a quickly drafted substitute. Castronovo was later reported to been hospitalized at a [ ]
+Over the last two years, no Spanish company has helped drive Spanish content onto the world stage more than Movistar Plus, the biggest Spanish pay TV/SVOD operator. Since 2025 alone, Movistar Plus Originals have scored the two top prizes at Series Mania with “Querer” and “Celeste,” has earned two Oscar nominations with “Sirāt,” while “La [ ]
 
-### Beyond Hollywood North : How Vancouver s Indie Film Scene Is Building Its Own Ecosystem
-Fri, 09 Oct 2026 18:21:13 +0000 — https://variety.com/2026/film/global/vancouver-indie-film-scene-building-its-own-ecosystem-1236906461/
+### Netflix Says 67% of Surveyed Members Want to Visit Korea as Busan’s Creative Asia Puts Locations in Focus
+Sat, 10 Oct 2026 05:47:32 +0000 — https://variety.com/2026/tv/markets-festivals/netflix-busan-surveyed-members-want-visit-korea-1236907318/
 
-Something is emerging in Vancouver’s independent film scene. For years, the city has primarily played the role of somewhere else — a cheaper Seattle, New York or generic American city. Its landscapes, tax incentives and favorable exchange rate drawing in Hollywood productions. But increasingly, independent filmmakers are choosing to cast Vancouver as… well… Vancouver. One [ ]
+Netflix research found that 67% of surveyed members internationally expressed interest in visiting South Korea. For the streamer’s Sung Q Lee, the pull lies in the stories set there, rather than the scenery alone. Lee, Netflix’s senior director of APAC production, made the case at the opening masterclass of Creative Asia, which Netflix and the [ ]
 
-### Amazon Viking Drama ‘Bloodaxe’ Sets Release Date, Debuts Fierce New Trailer at New York Comic Con
-Fri, 09 Oct 2026 18:15:00 +0000 — https://variety.com/2026/tv/news/amazon-bloodaxe-release-date-new-york-comic-con-1236906718/
+### Spain’s TV Powerhouses Forge New Partnerships as Series Biz Evolves
+Sat, 10 Oct 2026 05:45:00 +0000 — https://variety.com/2026/tv/markets-festivals/spain-tv-series-licensing-coproductions-1236893852/
 
-Prime Video premiered a new trailer for “Bloodaxe,” which hits the streamer on Jan. 20, 2027. The teaser debuted at a New York Comic Con panel with showrunners Michael Hirst and Horatio Hirst, as well as cast members Xavier Molyneux, Jessica Madsen and Levi Miller. Season 1 of “Bloodaxe” follows the rise of Erik Bloodaxe [ ]
+Spain’s TV industry is shifting gears as international buyers grow more selective, prompting its leading operators to rethink their series business. Pay TV operator Movistar Plus is scaling up in Spanish originals. Atresmedia is strengthening its longstanding relationship with Netflix, while Mediterráneo Mediaset is placing a large emphasis on international sales. Meanwhile, public broadcasters are [ ]
 
-### Guillermo del Toro, Diego Luna, Alfonso Cuarón to Attend Morelia Fest as Director Daniela Michel Sees Shift to Intimate Mexican Stories
-Fri, 09 Oct 2026 18:02:07 +0000 — https://variety.com/2026/film/global/guillermo-del-toro-alfonso-cuaron-morelia-film-festival-1236902304/
+### Vietnamese Horror ‘Arithmadtic’ Leads Bee Entertainment’s Busan Market Slate, With New Film From ‘The Corpse’ Director
+Sat, 10 Oct 2026 03:41:52 +0000 — https://variety.com/2026/film/markets-festivals/vietnamese-horror-arithmadtic-bee-entertainment-busan-market-slate-1236907315/
 
-At least two of the Tres Amigos are attending the 24th Morelia International Film Festival (FICM) this year, with Guillermo del Toro breezing into town to toast the 20th anniversary of his iconic “Pan’s Labyrinth” while Cuarón attends opening night film “Campeón Gabacho” by his son Jonas Cuarón, which he produced. The fest will be [ ]
+Psychological horror “Arithmadtic,” set in an elite international school, leads a genre-heavy slate that Vietnam’s Bee Entertainment is presenting to buyers at Busan’s Asian Contents Film Market (ACFM). Vietnamese films grossed more than VND3 trillion ($114 million) at home in 2025, outperforming international titles in the local market for the first time. Bee is [ ]
 
-### Laika Submits Original Song From Wildwood for Oscars, The Better Part of Bravery, Performed by The Decemberists (EXCLUSIVE)
-Fri, 09 Oct 2026 18:00:00 +0000 — https://variety.com/2026/artisans/awards/laika-wildwood-oscars-decemberists-better-part-of-bravery-1236906575/
+### Cambodian Remake of Korean Mother-Daughter Drama ‘Wedding Dress’ Leads Abnormal Studios’ Busan Market Slate (EXCLUSIVE)
+Sat, 10 Oct 2026 03:18:34 +0000 — https://variety.com/2026/film/markets-festivals/cambodian-wedding-dress-remake-abnormal-studios-busan-slate-1236907311/
 
-Laika will submit “The Better Part of Bravery” from the animated feature “Wildwood” for consideration in the original song category at the Academy Awards, Variety has learned. The song is performed by The Decemberists and plays at the end of the film. “Wildwood” follows teenager Prue McKeel (Peyton Elizabeth Lee) on a desperate mission to [ ]
+A Phnom Penh-set reworking of Kwon Hyung-jin’s 2010 South Korean drama “Wedding Dress” is the lead title for Malaysia’s Abnormal Studios at this year’s Asian Contents Film Market in Busan, where the company is selling the film ahead of its local release. The new version centers on Dalin, a single mother who designs bridal [ ]
 
-### Danny Boyle Says Third 28 Years Later Is On the Back Burner, Explains Why He Put an AI Margaret Thatcher in Ink
-Fri, 09 Oct 2026 17:50:41 +0000 — https://variety.com/2026/film/global/danny-boyle-28-years-later-third-back-burner-ai-1236906545/
+### ‘Exorcism of God’ Director Alejandro Hidalgo to Helm Malaysian Hungry Ghost Festival Horror ‘The Hungry One’ (EXCLUSIVE)
+Sat, 10 Oct 2026 02:44:33 +0000 — https://variety.com/2026/film/markets-festivals/exorcism-of-god-alejandro-hidalgo-malaysia-horror-hungry-one-1236907302/
 
-The third 28 Years Later film is unlikely to be arriving anytime soon, Danny Boyle has warned. Despite being tee d up in the closing scenes of 28 Years Later: The Bone Temple, the director said the film was currently not a priority. Alex [Garland] has written a fantastic script. We just need money. But I [ ]
+Alejandro Hidalgo, director of “The Exorcism of God,” is set to make “The Hungry One,” a supernatural horror film unfolding over Malaysia’s Hungry Ghost Festival. Kuala Lumpur-based Abnormal Studios is handling worldwide sales and is introducing the project at the Busan International Film Festival s Asian Contents Film Market. Singapore-based Clover Films has already picked [ ]
 
 ## The Hollywood Reporter
 
-### American Horror Story and Six Things We Learned From a Night With the Coven
-Fri, 09 Oct 2026 18:47:51 +0000 — https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-coven-secrets-lange-paulson-1236726388/
+### ‘Bedford Park’ Star Moon Choi Charts Her Own Path Between Korea and Hollywood
+Sat, 10 Oct 2026 09:28:15 +0000 — https://www.hollywoodreporter.com/movies/movie-features/bedford-park-moon-choi-korea-hollywood-1236726874/
 
-Jessica Lange, Sarah Paulson, Billie Lourd, Gabourey Sidibe and Leslie Grossman, along with co-executive producer Lou Eyrich, joined The Hollywood Reporter at PaleyFest for a night spent discussing the beloved FX horror anthology series from Ryan Murphy.
+The rising Korean actress brings her acclaimed American indie romance with Son Sukku to Busan, where she’s also serving on the festival’s main competition jury led by Chinese filmmaking legend Zhang Yimou.
 
-### Sadie Sink in Talks to Star in The Guest , Based on Emma Cline s Bestseller
-Fri, 09 Oct 2026 18:35:52 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sadie-sink-in-talks-star-produce-the-guest-1236726415/
+### BlumFest Haunts New York Comic Con 2026: All the Highlights From Blumhouse Atomic Monster
+Sat, 10 Oct 2026 01:14:29 +0000 — https://www.hollywoodreporter.com/movies/movie-news/blumfest-new-york-comic-con-2026-highlights-1236726806/
 
-Writer director Lorene Scafaria is in talks to direct for A24, with Sink and Square Peg producing.
+Craig Zobel was unveiled as the director for the adaptation of James Tynion IV and Werther Dell’Edera’s 'Something is Killing the Children,' while Curry Barker, Mike Flanagan, James Wan, Chiwetel Ejiofor, David Harbour, LaKeith Stanfield and Kristen Bell made appearances.
 
-### Rebecca Ferguson, Greta Lee’s MRC Rom-Com ‘Honeymoon / Funeral’ Goes to Black Bear
-Fri, 09 Oct 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rebecca-ferguson-greta-lee-honeymoon-funeral-black-bear-1236726324/
+### ‘14th’ Review: Ava DuVernay Delivers Another Essential and Compelling Constitutional Deep Dive for Netflix
+Sat, 10 Oct 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/14th-review-ava-duvernay-netflix-documentary-1236726558/
 
-The gay romancer from director Nahnatchka Khan also stars Carrie Coon and was first shopped at Toronto: The Market by FilmNation.
+Premiering at the New York Film Festival, the filmmaker's follow-up to her '13th' tackles birthright citizenship, the Equal Protection Clause and the undoing of the gains of Reconstruction.
 
-### The Social Reckoning Arrives, Jessica Chastain Premieres Other Mommy and This Week s Best Events
-Fri, 09 Oct 2026 18:25:08 +0000 — https://www.hollywoodreporter.com/gallery/social-reckoning-other-mommy-red-carpet-events-1236721621/
+### Roseanne Barr’s Self-Produced TV Series Now Courting Distributors, Co-Creator Says
+Sat, 10 Oct 2026 00:09:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/roseanne-barrs-indie-tv-series-distributors-co-creator-1236726679/
 
-Inside this week's biggest Hollywood premieres, parties and openings.
+Allan Stephan, a ‘Roseanne’ veteran who wrote 'Meemaw’ with the former sitcom star, says representatives for the show are in talks with a few platforms.
 
-### Keri Russell Told Matthew Rhys He Didn t Have to Thank Her If He Won at the Emmys
-Fri, 09 Oct 2026 18:09:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/keri-russell-told-matthew-rhys-not-to-thank-her-emmys-2026-1236726397/
+### Iliza Shlesinger and Mira Sorvino to Receive Top Honors at San Diego International Film Festival
+Fri, 09 Oct 2026 23:07:46 +0000 — https://www.hollywoodreporter.com/movies/movie-news/san-diego-film-festival-2026-honorees-iliza-mira-sorvino-1236726731/
 
-After the 'Widow's Bay' and 'Beast in Me' actor won for his lead roles in the comedy and limited series, the internet was abuzz with fans wondering why Rhys didn't use his multiple appearances onstage to express his appreciation for his longtime partner.
+The pair, set to receive Virtuoso and Trailblazer awards, will be feted at the Night of the Stars tribute at La Jolla's Conrad Prebys Performing Arts Center on Oct. 13.
 
-### Screen Gems Shocker: Sony Brings in YouTube Exec Fede Goldenberg to Run Genre Label in Pivot to Digital Creators (Exclusive)
-Fri, 09 Oct 2026 18:06:05 +0000 — https://www.hollywoodreporter.com/movies/movie-news/screen-gems-fede-goldenberg-to-run-genre-label-1236726049/
+### LaKeith Stanfield, Ben Mendelsohn to Star in Molepeople for Atomic Monster, Paramount Primal (Exclusive)
+Fri, 09 Oct 2026 23:04:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lakeith-stanfield-ben-mendelsohn-molepeople-1236726689/
 
-Current head Ashley Brucks exiting to a producing deal with the studio.
+Paramount has set an August 2027 release for the horror thriller, which hails from director Rob Savage.
 
-### Sibling Rivalry: Audrey Hobert and Malcolm Todd Face Off at the Grammys
-Fri, 09 Oct 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/music/music-news/siblings-audrey-hobert-malcolm-todd-grammys-1236723320/
+### Israeli Americans Protest NAZA Los Angeles Screening as Doc Releases Theatrically in U.S.
+Fri, 09 Oct 2026 22:48:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/israeli-americans-protest-naza-los-angeles-screening-1236726709/
 
-The duo could become the first brother and sister ever to compete for best new artist in the same year.
+The September premiere of 'NAZA' at the New York Film Festival was also met with protestors organized by the Israeli-American Council (IAC).
 
-### Pretty Little Liars Alum Keegan Allen Assaulted and Robbed at Gunpoint, Shares Bloody Video
-Fri, 09 Oct 2026 17:51:21 +0000 — https://www.hollywoodreporter.com/news/general-news/pretty-little-liars-keegan-allen-assaulted-robbed-gunpoint-1236726301/
+### Lisa and Director Sue Kim on Documenting the Star s Break From the K-pop System in Always Lalisa
+Fri, 09 Oct 2026 22:45:00 +0000 — https://www.hollywoodreporter.com/music/music-features/lisa-sue-kim-always-lalisa-interview-1236699144/
 
-"West Hollywood is not safe anymore," the actor said in an Instagram post following the attack.
+From a fortune teller's advice to a Coachella solo slot and a standout role in 'White Lotus,' 'Always Lalisa' chronicles the K-pop idol's most unguarded year yet: "I'm just so proud of myself."
 
-### Jessica Chastain on Other Mommy Going Viral and Challenging Friend Aaron Sorkin at the Box Office
-Fri, 09 Oct 2026 17:46:40 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jessica-chastain-other-mommy-viral-aaron-sorkin-box-office-1236726006/
+### The Exorcist: Martyrs Trailer Radically Reboots Franchise With Scarlett Johansson
+Fri, 09 Oct 2026 22:41:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/exorcist-martyrs-trailer-scarlett-johansson-1236724774/
 
-The star debuted her buzzy horror film in L.A. on Thursday, ahead of its opening weekend face-off with 'The Social Reckoning.'
+First look at writer-director Mike Flanagan's take on the iconic horror property as Universal attempts to reboot its reboot.
 
-### With Below, Charlie Heaton Digs Into His Next Big Sci-Fi Adventure
-Fri, 09 Oct 2026 17:26:21 +0000 — https://www.hollywoodreporter.com/tv/tv-features/charlie-heaton-below-netflix-peaky-blinders-interview-1236725632/
+### George Clooney Explains Why The Albies Shine a Light on Justice: It Feels Like It s in Short Supply
+Fri, 09 Oct 2026 22:03:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/george-clooney-albies-justice-oceans-14-update-1236726168/
 
-The 32-year-old actor has been filming a slew of projects over the last year, including the Netflix limited series and an upcoming 'Peaky Blinders' sequel.
+Amal and George Clooney's Clooney Foundation for Justice celebrated its fifth annual Albie Awards in London with Hollywood glamor. And the star shared an update on 'Ocean's 14' with THR.
 
 ## Deadline
 
-### Francis Coppola’s ‘Megalopolis’ Back In Theaters
-Fri, 09 Oct 2026 18:50:53 +0000 — https://deadline.com/2026/10/francis-coppola-megalopolis-back-in-theaters-1237151227/
+### Danny Boyle On The Challenges Of Rupert Murdoch The Sun Film Ink : We Had A Siege Mentality While Making It Contenders London
+Sat, 10 Oct 2026 10:26:29 +0000 — https://deadline.com/2026/10/danny-boyle-ink-challenge-we-had-a-siege-mentality-1237153896/
 
-EXCLUSIVE: For the first time since its 2024 launch, Francis Ford Coppola’s Megalopolis will return to theaters in a limited engagement that will allow audiences to interact with the iconic director. Coppola decided when he self-financed and shot the provocative film that it would not be put through any domestic-based streaming services or DVDs produced [ ]
+At Deadline s Contenders London event this morning, Ink director Danny Boyle has spoken about the challenges he and his film team faced making the origin story of Rupert Murdoch-owned British tabloid The Sun. The filmmaker was joined on stage by writer James Graham and actor Jack O Connell. We had a siege mentality while making it , [ ]
 
-### Katie Zacharia Offered Job As Donald Trump s Next White House Press Secretary
-Fri, 09 Oct 2026 18:45:41 +0000 — https://deadline.com/2026/10/katie-zacharia-trump-press-secretary-1237151232/
+### Mike Leigh, Marion Bailey Kate O’Flynn On The Close Collaboration Behind ‘Tender Loving Care’ — Contenders London
+Sat, 10 Oct 2026 10:13:10 +0000 — https://deadline.com/2026/10/mike-leigh-tender-loving-care-contenders-london-1237153921/
 
-President Donald Trump has selected his next White House press secretary: Katie Zacharia, a conservative commentator. A White House official confirmed that she had been offered the job, but it was unclear whether she has accepted. Zacharia has been the senior communications adviser to the Trump Media Technology Group, the parent company of Trump s [ ]
+“It s quite practical,” actor Kate O Flynn concluded this morning when quizzed on working on Tender Loving Care with veteran filmmaker Mike Leigh, best known for his unique pre-production process, which includes no script and a collaborative approach to story development. O Flynn was speaking on stage at Deadline’s London Contenders event alongside Leigh and her co-star, [ ]
 
-### Black Bear Acquires Nahnatchka Khan Rom-Com Honeymoon / Funeral Starring Rebecca Ferguson, Greta Lee Carrie Coon; Pic Hails From MRC
-Fri, 09 Oct 2026 18:30:00 +0000 — https://deadline.com/2026/10/honeymoon-funeral-acquired-black-bear-1237151111/
+### AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: “Tech Companies Should Collaborate More With Creatives
+Sat, 10 Oct 2026 10:04:57 +0000 — https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/
 
-Black Bear has acquired domestic rights to Honeymoon / Funeral, an MRC rom-com starring Rebecca Ferguson, Greta Lee and Carrie Coon that wrapped production in September. Sources said the project is one of a handful to have been successfully shopped at the newly created TIFF market, alongside Josh Giuliano s horror flick River and the Michelle [ ]
+Kimball Thurston, Weta FX’s chief technology officer, Korean filmmaker Kang Yun-sung and Netflix’s APAC Senior Director, Production, Sung Q Lee, discussed the advantages and limitations of using AI tools in production workflows during Netflix’s Creative Asia day at Busan International Film Festival. They agreed that AI is bringing a range of efficiencies to the production [ ]
 
-### Prime Video Unveils Bloodaxe Release Date Teaser
-Fri, 09 Oct 2026 18:15:00 +0000 — https://deadline.com/2026/10/bloodaxe-release-date-teaser-michael-hirst-prime-video-1237150819/
+### Brad Bird Talks Long-Gestating Passion Project Ray Gunn Portraying Characters Who Are Desperate In Utopia Contenders London
+Sat, 10 Oct 2026 09:46:37 +0000 — https://deadline.com/2026/10/brad-bird-ray-gunn-scarlett-johansson-sam-rockwell-1237153907/
 
-Prime Video has revealed that its highly-anticipated historical series Bloodaxe will launch on January 20, 2027. The team behind the Michael Hirst and Horatio Hirst series also unveiled a first-look teaser at New York Comic Con Friday, which can be watched above. The series chronicles the rise of Norse raiders Erik Bloodaxe (Xavier Molyneux) and [ ]
+“It seems like the only way to look at the future these days is as dystopia,” said director Brad Bird at Deadline’s Contenders London this weekend. “And that’s fine. I love a lot of movies that take that thing, but there are other ways to look at the future too, and you can.” Bird was [ ]
 
-### Havana Rose Liu Stars In Crime Pilot Ordered By FX From Hiro Murai Wong Kar Wai
-Fri, 09 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/hiro-murai-fx-pilot-havana-rose-liu-starring-1237151135/
+### Deadline s Contenders Film: London Kicks Off With A Dozen Buzzy Awards-Season Movies
+Sat, 10 Oct 2026 08:30:00 +0000 — https://deadline.com/2026/10/contenders-film-london-2026-lineup-panelists-1237147102/
 
-EXCLUSIVE: Here s an interesting order: FX has set Havana Rose Liu to star in a crime drama pilot from Widow s Bay Emmy winner Hiro Murai and famed Hong Kong filmmaker Wong Kar Wai that shoots in Bangkok later this month. Developed from an original story by Wong, the pilot revolves around a petty criminal who [ ]
+Try telling Londoners that cinema is dead and they will direct you to the BFI Imax cinema on the Southbank, where Christopher Nolan’s The Odyssey is still playing to sold-out houses nearly three months after its release. But if you’ve been there, done that, 2026 still has some surprises left up its sleeve, and plenty [ ]
 
-### Bill Pohlad s Next Film Miles Juliette Starring Damson Idris And Anamaria Vartolomei Rounds Out Cast As Production Begins; First Image Unveiled
-Fri, 09 Oct 2026 17:30:00 +0000 — https://deadline.com/2026/10/bill-pohlad-miles-juliette-damson-idris-anamaria-vartolomei-1237151099/
+### Craig Zobel Blumhouse Teaming On Something Is Killing The Children
+Sat, 10 Oct 2026 01:05:22 +0000 — https://deadline.com/2026/10/something-is-killing-the-children-movie-craig-zobel-blumhouse-1237153820/
 
-EXCLUSIVE: Miles Juliette, the new feature from Oscar-nominated filmmaker Bill Pohlad and his River Road Entertainment, has started production in Paris. The film stars Damson Idris as Miles Davis and Anamaria Vartolomei as Juliette Gréco. Joining Idris and Vartolomei are J. Alphonse Nicholson as Kenny “Klook” Clarke, Jay Reeves as Tadd Dameron, Grammy-winning musician [ ]
+Craig Zobel, a director known for his work on such prestige series as Mare of Easttown and The Penguin, is set to direct a feature adaptation of Something Is Killing the Children, the popular comic book series from James Tynion IV and Werther Dell Edera, with Jason Blum and his Blumhouse among the producers. Stephen Christy [ ]
 
-### Sadie Sink And Lorene Scafaria Eyeing Adaptation Of Emma Cline s The Guest At A24 And Square Peg
-Fri, 09 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/sadie-sink-the-guest-movie-a24-1237150475/
+### Danny Trejo Insists He s Pro-Immigrant Proud Mexican Amid Backlash To Daily Wire s ICE Film: Make No Mistake
+Sat, 10 Oct 2026 01:02:52 +0000 — https://deadline.com/2026/10/danny-trejo-pro-immigrant-backlash-daily-wire-ice-film-1237153821/
 
-EXCLUSIVE: Emma Cline s bestselling novel The Guest, looks to be headed to the big screen as Deadline is hearing A24 and Square Peg are in negotiations for rights to the book, with Sadie Sink in talks to star in and Lorene Scafaria in talks to write and direct a feature film. Sink will also produce [ ]
+Danny Trejo has broken his silence amid backlash around his role in Daily Wire s latest controversial production, Pawn Shop. On Friday, the LA-born Mexican-American actor insisted he s pro-immigrant, despite his casting in the pro-ICE film from Ben Shapiro s production company and Dallas Sonnier s Bonfire Legend, which has been protested by locals in Livingston, Montana, where [ ]
 
-### Ed Quinn Stephanie Koenig To Recur On Scrubs For Season 2; Punkie Johnson Kellan Tetlow To Guest Star
-Fri, 09 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/scrubs-season-2-ed-quinn-punkie-johnson-cast-1237151014/
+### ‘14th’ Review: Ava DuVernay s Impassioned Defense Of Constitution Takes Aim At Trump Attempted Rescission Of Rights
+Sat, 10 Oct 2026 01:00:00 +0000 — https://deadline.com/2026/10/14th-review-ava-duvernay-documentary-1237153748/
 
-EXCLUSIVE: ABC s Scrubs has added four new cast members for Season 2: Ed Quinn (The Oval), Stephanie Koenig (Lessons in Chemistry), Punkie Johnson (The Chi) and Kellan Tetlow (This Is Us). In Season 2 of the 30-minute revival, J.D. (Zach Braff), Turk (Donald Faison) and Elliot (Sarah Chalke) have leveled up from interns to icons [ ]
+14th, the documentary directed by Ava DuVernay that premiered Friday night as the closing-night film of the New York Film Festival, begins with several American presidents taking the oath of office: FDR, Eisenhower, JFK, LBJ, Nixon, Carter, Reagan… each of them swearing to “preserve, protect, and defend the Constitution of the United States.” We know [ ]
 
-### Philadelphia Film Festival To Honor Tim Blake Nelson For Artistic Achievement In Directing
-Fri, 09 Oct 2026 16:41:04 +0000 — https://deadline.com/2026/10/philadelphia-film-festival-tim-blake-nelson-directing-award-1237150720/
+### Matthew MatPat Patrick Adapting Amanda the Adventurer Video Game For Blumhouse
+Sat, 10 Oct 2026 00:16:08 +0000 — https://deadline.com/2026/10/matthew-matpat-patrick-adapting-amanda-the-adventurer-blumhouse-1237153794/
 
-Tim Blake Nelson will accompany his TIFF-premiering prison drama The Life And Deaths Of Wilson Shedd to the Philadelphia Film Festival later this month to be honored with the Artistic Achievement in Directing Award. PFF’s 35th edition is set for Oct. 15-25 presented by nonprofit Philadelphia Film Society. The Life And Deaths Of Wilson Shedd [ ]
+Blumhouse is diving into another horror video game, announcing an Amanda the Adventurer adaptation. On Friday, Jason Blum announced BlumFest moderator Matthew MatPat Patrick is developing a feature adaptation of the 2023 indie puzzle game from DreadXP, whose parent company Epic Pictures CEO Patrick Ewald will serve as producer. In games, Riley Park unravels a [ ]
 
-### Jinko Gotoh Succeeding Marge Dean As President Of WIA
-Fri, 09 Oct 2026 16:30:00 +0000 — https://deadline.com/2026/10/jinko-gotoh-named-president-wia-1237150925/
+### The Exorcist: Martyrs Trailer: Scarlett Johansson Hunts A Demonic Killer In Mike Flanagan s Take On Horror Classic
+Fri, 09 Oct 2026 23:04:23 +0000 — https://deadline.com/2026/10/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan-1237153746/
 
-EXCLUSIVE: WIA, the global nonprofit championing women, non-binary, and underrepresented talent across animation, VFX, and gaming, has named Oscar-nominated producer Jinko Gotoh as its new President. Gotoh succeeds Marge Dean, Head of Skybound Animation Studio, who concludes a 13-year run as President this month. Previously, she d served alongside Dean as the organization s Vice President for [ ]
+As The Exorcist makes its way back to theaters, a first look at Mike Flanagan s new chilling take on the horror classic has been unveiled. On Friday, Blumhouse released the first trailer for The Exorcist: Martyrs, which premieres March 12, 2027, revealing Scarlett Johansson s Detective Julie Miller and the demonic homicide case at the center. [ ]
 
-### Lioness Actor Dave Annable Signs With Range Media Partners
-Fri, 09 Oct 2026 16:30:00 +0000 — https://deadline.com/2026/10/lioness-dave-annable-range-media-partners-1237151030/
+### ACFM Chief Ellen YD Kim Talks AI Development; Korean Recovery; Market Spotlights On Thailand Japan
+Fri, 09 Oct 2026 23:00:00 +0000 — https://deadline.com/2026/10/busan-acfm-ellen-yd-kim-ai-korea-thailand-japan-1237150757/
 
-EXCLUSIVE: Range has signed actor Dave Annable for representation. Annable stars in Taylor Sheridan’s Paramount+ series Lioness playing the husband of station chief Zoe Saldaña. The show, which also stars Nicole Kidman and Morgan Freeman, just wrapped its third season which premiered in August with 7.1M viewers in its first week, significantly higher than its [ ]
+Asian Contents Film Market (ACFM), the industry platform of Busan International Film Festival, launched three new programs last year, which are starting to yield results as they move into their second edition. Among these, InnoAsia hosts a range of panels, workshops and other events focusing on advanced technologies and innovative business strategies, including AI, [ ]
 
-### FCC Chairman Declines To Say Whether Broadcast Outlets Should Be Allowed To Air Live Execution, But It s Doubtful Networks Would Show It Anyway
-Fri, 09 Oct 2026 16:24:56 +0000 — https://deadline.com/2026/10/fcc-live-execution-pentagon-pete-hegseth-1237150944/
+### ‘9-1-1’ Stunt Problems Back In Spotlight After Oliver Stark 3 Other Performers Injured On Set
+Fri, 09 Oct 2026 22:30:00 +0000 — https://deadline.com/2026/10/9-1-1-stunt-accidents-oliver-stark-injured-1237151109/
 
-The Pentagon announcement that it plans to livestream the execution of the Fort Hood shooter in December has generated an outcry from public officials and religious figures, including the president of the U.S. Conference of Catholic Bishops. None of the networks have yet to comment publicly on whether they would air such an event, and [ ]
+EXCLUSIVE: A number of recent injuries on the set of Season 10 of ABC s 9-1-1 has put the production s safety protocols under scrutiny again. Deadline understands that four performers, including star Oliver Stark, have sustained stunt-related injuries to varying degrees in recent months. While the incidents do not seem to be connected, the unfortunate timing [ ]
 
 ## befores & afters
+
+### Brand new Backrooms VFX breakdown is out
+Fri, 09 Oct 2026 20:45:51 +0000 — https://beforesandafters.com/2026/10/10/brand-new-backrooms-vfx-breakdown-is-out/
+
+Behind the scenes of the stunning found footage opener, suburban street alleyway, the Vertigo Room and more. Roxel Creative has released its visual effects breakdown for Backrooms . Roxel is run by Calvin Romeyn, who was associate visual effects supervisor on the film. Explore the breakdown below, and look out for the huge issue of the magazine coming on the film. You can subscribe to the digital edition to get the mag as soon as it s out. The post Brand new Backrooms VFX breakdown is out appeared first on befores & afters .
 
 ### The crazy vehicle they built for The Bat
 Fri, 09 Oct 2026 14:13:03 +0000 — https://beforesandafters.com/2026/10/10/the-crazy-vehicle-they-built-for-the-bat/
@@ -184,6 +189,41 @@ Thu, 08 Oct 2026 15:54:14 +0000 — https://beforesandafters.com/2026/10/09/new-
 Issue #67 of befores & afters magazine covers the visual effects of Masters of the Universe. DIGITAL MAGAZINE members can download the issue right now from the shop post. Inspired by the original animated series that introduced He-Man and the world of Eternia to audiences in the 1980s, Travis Knight’s Masters of the Universe brings the iconic mythology into live-action for a new generation. The film, from Amazon MGM Studios, follows the story of Adam (Nicholas Galitzine), separated from his home world as a child after an attack by Skeletor (Jared Leto). Adam then returns to Eternia 15 years later after rediscovering the Sword of Power. With Skeletor now ruling the kingdom, Adam must reunite with his allies, reclaim his identity as He-Man and save his family and his world. Realizing that world on screen required a substantial practical and digital effects effort. From the vast landscapes of Eternia and Castle Grayskull to fantastical creatures— including He-Man’s sidekick Cringer—effects artists had to translate the distinctive look and spirit of Masters of the Universe into a convincing live-action universe. The visual effects effort was led by visual effects supervisors David Vickery and Tim Burke, with Rich Yeomans serving as visual effects producer. Chris Corbould was the film’s special effects supervisor. Prosthetics designer Barrie Gower was responsible for several practical make-up effects and prosthetics appliances on the show. VFX vendor- wise, the work was led by Ind
 
 ## IndieWire
+
+### 14th Review: Ava DuVernay s Overstuffed Netflix Documentary Finds Us Living in the Age Frederick Douglass Warned Us About
+Sat, 10 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/criticism/movies/14th-review-ava-duvernay-netflix-documentary-1235221147/
+
+Ava DuVernay’s ambitious follow-up to “13th” traces the Fourteenth Amendment’s unfinished promise, but its urgency sometimes overwhelms its argument.
+
+### IndieWire s Future of Filmmaking Summit to Feature Pitch Me Panel on Finding Breakout Hits with Top Execs and Agents
+Fri, 09 Oct 2026 20:45:00 +0000 — https://www.indiewire.com/news/events/indiewire-future-of-filmmaking-summit-pitch-me-panel-1235221204/
+
+Key players from Independent Film Company, Gersh, Thunder Road, and Madison Wells will explain what they look for from development to acquisition at our Los Angeles event on October 17.
+
+### Ava Duvernay Didn’t Make a Sequel — She Made ‘14th’
+Fri, 09 Oct 2026 20:30:00 +0000 — https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/
+
+Though her latest Netflix documentary, NYFF closer "14th," shares DNA with her Oscar-nominated film "13th," director Ava DuVernay tells IndieWire that film was "very linear,” while “14th" is "a puzzle."
+
+### Other Mommy Review: Jessica Chastain s Acting Personas Collide in Freaky Dreamcore Horror
+Fri, 09 Oct 2026 20:09:12 +0000 — https://www.indiewire.com/criticism/movies/other-mommy-review-jessica-chastain-1235220984/
+
+Hypnotic and demented, director Rob Savage's surreal adaptation of Josh Malerman's 2024 novel twists its Oscar-winning lead into a monstrous intensity that's baffling to behold.
+
+### Historic Long Island Indie Theatre in Crisis After Beloved Co-Director Fired: Protests, Cancellations, Accusations of Disloyalty
+Fri, 09 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/news/general-news/cinema-arts-centre-dylan-skolnick-firing-investigation-1235220785/
+
+Wim Wenders, Edie Falco, Isabella Rossellini, and hundreds of Long Island film lovers are furious over the ouster of Cinema Arts Centre's Dylan Skolnick.
+
+### Why ‘The Social Reckoning’ Reimagines Facebook s Offices as a Palace of Fear
+Fri, 09 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/features/craft/the-social-reckoning-facebook-shooting-locations-vancouver-1235221151/
+
+For Meta HQ, production designer Jon Hutman and director Aaron Sorkin wanted to get the rancid vibes right, not the Menlo Park layout.
+
+### Drinking and Driving Review: Avalon Fast and Jillian Frank Wonder If Empty Rural Hedonism Can Ever Give Way to Transcendence
+Fri, 09 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/criticism/movies/drinking-and-driving-review-avalon-fast-1235221154/
+
+Deliberately ugly and focused on the lowest stakes imaginable, Fast and Frank's slice-of-life film has more ambition than it lets on.
 
 ### Greta Lee, Rebecca Ferguson, and Carrie Coon Rom-Com Honeymoon/Funeral Lands at Black Bear
 Fri, 09 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/breaking-news/greta-lee-rebecca-ferguson-carrie-coon-honeymoon-funeral-1235221141/
@@ -210,142 +250,107 @@ Fri, 09 Oct 2026 15:30:00 +0000 — https://www.indiewire.com/features/interview
 
 Julia Loktev tells IndieWire about globetrotting as a one-woman crew to follow the now-exiled Russian and Ukrainian journalists who fled home after Putin's invasion.
 
-### Criterion Finally Gives Americans the Chance to See Kubrick s Preferred Cut of The Shining — but Which Version Is Better?
-Fri, 09 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/the-shining-criterion-edition-us-vs-international-cut-1235220579/
-
-Director Stanley Kubrick edited two different versions of his Stephen King adaptation, and they yield quite different emotional responses — a new Criterion boxed set provides the opportunity to compare.
-
-### Are There Too Many Horror Movies?
-Fri, 09 Oct 2026 13:15:00 +0000 — https://www.indiewire.com/features/commentary/are-there-too-many-horror-movies-1235220991/
-
-A crowded October calendar, filmmaker Joseph Kahn's recent Hollywood Reporter festival column, and excited fans complaining of burnout raise different questions about the genre's popularity.
-
-### Bird in Hand Trailer: A Wedding on Rebranded Plantation Is Just the Start in Farcical Film Unafraid of Real Drama
-Fri, 09 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/trailers/bird-in-hand-trailer-melody-c-roscher-1235220848/
-
-Exclusive: Melody C. Roscher's feature filmmaking debut draws on her own life, combining the outrageous and the very real indeed.
-
-### Submit Your Short to This Italian Film Festival and Nicolas Winding Refn s Jury, and MUBI Could Distribute It
-Fri, 09 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/news/general-news/submit-your-short-film-to-corto-condorello-2026-1235220959/
-
-Exclusive: The second edition of Piccolo America's premier shorts festival Corto Condorello is seeking submissions through November 6. Nicolas Winding Refn will serve as jury president.
-
-### Animals Review: Ben Affleck s Tedious New Netflix Thriller Is Quite Literally Just Bad TV
-Thu, 08 Oct 2026 23:00:00 +0000 — https://www.indiewire.com/criticism/movies/animals-netflix-movie-review-ben-affleck-1235220824/
-
-The director of "Argo" and "The Town" also stars as an embattled mayoral candidate in an LA kidnapping movie that lacks the visual flair and propulsive storytelling of his other work.
-
-### V/H/S Mixtape Review: Shudder s Helter-Skelter Horror Anthology Still Has Some Killer Tracks
-Thu, 08 Oct 2026 22:18:30 +0000 — https://www.indiewire.com/criticism/movies/vhs-mixtape-film-review-shudder-1235220772/
-
-With shorts from Renee Zhan, RZA, Ernest Dickerson, and David Moreau — not to mention, evil puppets escaped from Jim Henson's Creature Shop(!) — the ninth "V/H/S" could maybe use a little shuffle.
-
-### ‘9 Temples to Heaven’ Review: Spiritual Road Movie Takes a Surrealist Detour in Weerasethakul Collaborator s Fiction Debut
-Thu, 08 Oct 2026 22:00:00 +0000 — https://www.indiewire.com/criticism/movies/9-temples-to-heaven-review-1235220963/
-
-NYFF: Apichatpong Weerasethakul’s longtime collaborator makes a fascinating case for himself in his debut narrative feature about a Thai family wrestling with faith and death.
-
 ## The Wrap
 
-### Trump Picks Conservative Media Commentator Katie Zacharia as White House Press Secretary
-Fri, 09 Oct 2026 18:43:20 +0000 — https://www.thewrap.com/media-platforms/politics/katie-zacharia-trump-white-house-press-secretary/
+### Trump Lashes Out at Nobel Peace Prize Winner Navi Pillay After Press Jab: ‘I Know Nothing About This Woman’
+Sat, 10 Oct 2026 04:59:06 +0000 — https://www.thewrap.com/media-platforms/politics/trump-reacts-nobel-peace-prize-loss/
 
-President Donald Trump has offered conservative media commentator Katie Zacharia the job of White House press secretary, a White House official confirmed to TheWrap on background Friday. The offer, first reported by The New York Times , would put the Trump Media adviser in line to succeed Karoline Leavitt, who left the role in August. The selection would continue the revolving door between the Trump administration and conservative media. Zacharia currently advises Trump Media and Technology Group, the parent company of Truth Social, and frequently appears on Fox News. Meanwhile, Leavitt is preparing to join Fox News as an on-air contributor next month. Zacharia would also inherit a White House press operation facing a growing battle over media access. The administration has welcomed podcasters and influencers into its briefings while fighting CNN, MS NOW and Politico in federal court over restrictions on their press credentials. “The President has offered Katie Zacharia the position,” a White House official told TheWrap. Zacharia previously served as a spokesperson for former Homeland Security Secretary Kristi Noem and has worked with Fix California, a conservative nonprofit founded by Trump ally Ric Grenell. The California-based commentator has regularly appeared on conservative television discussing politics and the Trump administration. Her selection comes days after Fox News announced that Leavitt would join the network as a contributor beginning Nov. 1, providing politic
+Donald Trump lashed out at Nobel Peace Prize winner Navanethem “Navi” Pillay, declaring he knew “nothing about this woman” after she was awarded the honor over him. The president took to Truth Social late Friday to weigh in on his Nobel Peace Prize snub and question Pillay’s selection for the honor . This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things, Trump wrote . I know nothing about this woman, and neither does anyone else! In fact, to the best of my knowledge, no one ever heard of her other than the fact that she, very obviously, hates Israel. I don’t know what the woman has done. As Trump went on, he once again claimed to have settled eight wars, boasting that he was set to settle or win two more. He also indicated that presidents and prime ministers from the countries that [he] helped advocated on his behalf to the Norwegian Nobel Committee. They’re both happening at breakneck speed but, forget them, it’s the 8 that I’ve already settled, any one of which, in particular, Pakistan and India, would be far more than necessary to win the Nobel Prize, he wrote. In actuality, I should have won 8 Nobel Peace Prizes, not just 1. He then listed out the wars in-question, naming Cambodia and Thailand, Kosovo and Serbia, The Democratic Republic of the Congo and Rwanda, Pakistan and India, Israel and Iran, Egypt and Ethiopia, Armenia and Azerbaijan, Israel and Hamas. Additio
 
-### Sony Pictures Names YouTube’s Fede Goldenberg Head of Screen Gems as Label Pivots to Digital Creators
-Fri, 09 Oct 2026 18:30:27 +0000 — https://www.thewrap.com/culture-lifestyle/culture/sony-pictures-youtube-fede-goldenberg-head-of-screen-gems/
+### Michael Douglas Recalls Turning to Drug Smuggling After Being Cut Off From Dad Kirk
+Sat, 10 Oct 2026 04:08:20 +0000 — https://www.thewrap.com/creative-content/tv-shows/michael-douglas-recalls-marijuana-smuggling-after-cut-off/
 
-YouTube veteran Fede Goldenberg has been named Head of Screen Gems, Sony Pictures Entertainment (SPE) today announced Friday. Under a new creative strategy, the film label will expand its longstanding focus on traditional genre films to include theatrical projects from the next generation of digital-native storytellers. Ashley Brucks, president of the label since 2023, will transition to a producing role. “Some of the most exciting new filmmakers and ideas are emerging from creators outside of traditional Hollywood development pipelines. Screen Gems has long been a home for distinctive genre storytelling, and we see tremendous potential in expanding that vision to include a new generation of digital-native creators with theatrical ambitions,” Sanford Panitch, President of Sony Pictures’ Motion Picture Group, said in a statement. “Fede has spent his career at the intersection of online creators and entertainment, and he is uniquely suited to build those relationships and help translate great storytelling from digital platforms to the big screen. We’re also thrilled that Ashley will continue her relationship with the studio as a producer on several films, bringing her expertise and distinctive genre taste to all the labels. Reporting to Panitch, the release adds that Goldenberg will leverage his deep relations with content creators to broaden the studio’s pipeline of filmmaker talent and develop theatrical movies from creators who have cultivated devoted audiences through origi
+Michael Douglas admitted he turned to drug smuggling in his youth after his father, Hollywood legend Kirk Douglas, cut him off. The legendary actor and producer opened up about this period in his life during a Friday appearance on HBO s Real Time With Bill Maher, where he promoted his new memoir, “One Helluva Ride .” “You and I share something in common about getting through college together,” Douglas quipped, prompting Maher to reply with, “We discovered that when you buy pot in one place and sell it in a different place, the difference between those two amounts can be very good in living your life.” “Especially between East Coast and West Coast,” Douglas added. As Douglas went on, he explained how his father essentially cut him off at age 21, noting, Dad wrote me a check for $10,000 and said, ‘Great son, you’re on your own.' Yet, as Douglas put it, he still had a couple of years of tuition left in school, so he had to find a way to pay his bills. “One time I said, ‘Dad, you remember one Christmas you bought me two beautiful Italian soft leather suitcases? Well, I found out that each one of those suitcases could hold 22 kilos of marijuana,’ he recalled to Maher. I would go back east to see my mom with the clothes on my back and two suitcases. This was called, BD: Before Dogs. ” However, Douglas clarified later on in the interview that he did work a number of normal jobs. Specifically, after Maher applauded Douglas for not relying on his famous father to pay his bills, the Os
 
-### Rebecca Ferguson-Greta Lee Rom-Com ‘Honeymoon/Funeral’ to Be Released by Black Bear
-Fri, 09 Oct 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/movies/honeymoon-funeral-rebecca-ferguson-greta-lee-carrie-coon-black-bear-domestic-rights-tiff/
+### Bill Maher Gets Big Reaction From ‘Real Time’ Crowd With Mitch McConnell, Will Smith Jabs
+Sat, 10 Oct 2026 03:16:24 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-big-reaction-real-time-audience-mitch-mcconnell-will-smith-digs/
 
-“Honeymoon/Funeral,” the romantic comedy starring Rebecca Ferguson, Greta Lee and Carrie Coon, will be released domestically by Black Bear, the indie distributor announced Friday. “Honeymoon/Funeral” is directed by two-time Emmy nominee Nahnatchka Khan ( Fresh Off the Boat ) and written by Julia Bicknell ( Yellowjackets ). Khan and Jennifer Carreras are producing for Fierce Baby, with Bicknell also producing. MRC financed and oversaw production, with FilmNation Entertainment acting as worldwide sales agent. The film is currently in post, having wrapped production in London last month. “ Honeymoon/Funeral is an original and hilarious story that is deeply human, anchored by the performances of Rebecca, Greta and Carrie, three of the best actresses working today,” Katie Anderson, Black Bear’s EVP of acquisitions, said in a statement. “We can’t wait to partner with our friends at MRC and FilmNation to share this world that Nahnatchka and Julia have created with audiences.” “Honeymoon/Funeral” follows two women (Ferguson and Lee) who meet on a flight from Los Angeles to London – one en route to her honeymoon by herself after being left at the altar by her girlfriend, the other headed home for her mother’s funeral and end up spending the week together. “Honeymoon/Funeral” joins a Black Bear release slate that includes “Wicker,” starring Olivia Colman, Alexander Skarsgård and Peter Dinklage; Guy Ritchie’s “Wife & Dog,” starring Benedict Cumberbatch, Rosamund Pike and Anthony Hopkins
+Bill Maher took aim at Sen. Mitch McConnell (R-Ky.) and Will Smith Friday evening, prompting several big reactions from his Real Time studio audience. During his Friday night monologue, Maher touched on the big topic of the week in the United States: executions. What s going on big this week? Executions. That s what everybody s talking about, Maher told his audience. Lethal injections. Firing squads. Lethal injection, that s how we mostly do it in this country. He added: It never works. But we keep doing it. As Maher went on, he mentioned the failed lethal injection of convicted murderer Christa Pike, noting they saved her life so that we could have another shot at killing her. Here s where Maher brought McConnell and his health struggles into the conversation. Really. So, now she s conscious and talking, he said. Or what Mitch McConnell calls showing off.' This jab prompted a big reaction from the Real Time crowd, as they could be heard gasping in surprise, loudly laughing and thunderously applauding. We kid, Maher assured the audience. Gentle good humor. McConnell s health has been a major topic the last several months, given the senator vanished from public life after being hospitalized in June following a fall at his home that left him briefly unconscious. His office initially gave very few details on his recovery, fueling rumors about his capacity to be able to return to work. In July, McConnell broke his silence on his health struggles, releasing a written statement and
 
-### American Horror Story 13 : What to Know About Orlando Jones, the Actor Behind Papa Legba
-Fri, 09 Oct 2026 18:01:29 +0000 — https://www.thewrap.com/creative-content/tv-shows/ahs-13-orlando-jones-papa-legba/
+### ‘14th’ Review: Ava DuVernay’s Birthright Citizenship Documentary Flounders
+Sat, 10 Oct 2026 02:29:33 +0000 — https://www.thewrap.com/creative-content/reviews/14th-review-ava-duvernay-documentary/
 
-Note: This story contains spoilers from American Horror Story: 13 Episode 8. One of the most powerful character in all of American Horror Story is back for Season 13. Papa Legba made his return in the eighth episode of this season on Thursday night. The spirit first appeared in the Coven season of the FX thriller from Ryan Murphy and Brad Falchuk and briefly returned for the antichrist-focused Apocalypse. Now that Satan is a threat, the witches are calling on him again for another favor. Here s what to know about the actor behind this mighty dealmaker. Who plays Papa Legba in American Horror Story: 13 ? That would be Orlando Jones. Previously, the Gatekeeper of the Spirit World was played by Lance Reddick in Coven and Apocalypse. Reddick died suddenly in 2023 of heart disease. A prolific actor, Reddick starred in several critically acclaimed shows and movies throughout his career including HBO s The Wire, ABC s Lost, HBO s Oz, White House Down and the John Wick franchise. He also starred as Zeus in Disney+ s Percy Jackson and the Olympians, a series that was released after his death and earned Reddick a Children s and Family Emmy Award nomination. What else has Orlando Jones starred in? Before joining the American Horror Story universe, Jones was one of the original cast members of MADtv. He also played the African god Anansi in Starz s American Gods and has starred in Evolution, Drumline, ABC s Abbott Elementary, Adult Swim s Teenage Euthanasia and Apple TV s Swagger. How is
+The 14th is a strange outlier in Ava DuVernay’s filmography. While it gestures at urgency akin to Selma, When They See Us and Origin — dramas exploring present political mores through prisms of the past — the director’s latest casts an academic net so wide as to be scattered in its telling. Where its pseudo-predecessor, the Netflix documentary 13th , scrutinized mass incarceration, 14th feels more fluid in its aims, circling the notion of Birthright Citizenship through numerous interview snippets, but seldom finding a grounding for this exploration in the present, until quite late into its runtime. The result is certainly educational and informative, but rarely does it feel as challenging or dramatically cogent as DuVernay’s previous work. In the process, it ends up more factual document than documentary cinema, but even its artistic aims enter the realm of doubt, given how it presents (and manipulates) archival images. The movie’s many flaws are hard to ignore, even though its lucid politics render it an important statement, as a work broadly speaking truth to power at a time when Hollywood finds itself consolidating under (and in favor of) dangerous regimes. Where the 13th Amendment to the U.S. Constitution abolished slavery, but left the door open to forced prison labor, the 14th Amendment sought to re-build the country after the Civil War by determining legal personhood by birth. The Reconstruction era, therefore, finds itself in DuVernay’s crosshairs, as a means to expla
 
-### 7 Big Book Changes in Mike Flanagan s Carrie TV Show
-Fri, 09 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-tv-show-vs-book-mike-flanagan-stephen-king/
+### Danny Trejo Defends Participation in Ben Shapiro’s Pro-ICE Movie: ‘My Job Is to Tell a Story’
+Sat, 10 Oct 2026 02:02:23 +0000 — https://www.thewrap.com/creative-content/movies/danny-trejo-responds-daily-wire-pawn-shop-controversy/
 
-The latest take on Stephen King s Carrie has arrived, and there are plenty of changes from the source material. Mike Flanagan is no stranger to adapting the horror author, and his latest swing is at King’s first novel. He made quite a few alterations in pursuit of exploring modern high schools and the terrors of being in them in the age of the internet and social media. But there is plenty that’s new aside from the modern setting, including new characters and even different fates for a number of them. These are the biggest changes from the book in the latest adaptation Prime Video of Carrie. The Modern Setting Carrie (Prime Video) The obvious one, and the hook for this entire adaptation, is the modern setting. The original story takes place in the late ’70s, and Mike Flanagan took the story and placed it in a modern setting with all the trappings that would plague a current high school student, like cyberbullying through social media, the threat of school shootings and more. Carrie is bullied more through Instagram posts than she ever is in person, as she is in the original book and adaptations. This means she’s being harassed at nearly all hours, with way more people weighing in on it. And the account, which is made with her picture and a joke about her name, doesn t just target Carrie; it targets the whole school, which means she s tangled in and associated with a more complicated web of bullying. Carrie Was a Homeschooled Shut-In Carrie (Prime Video) In the original story,
+Protests swarmed the Montana set of a film that reportedly dramatizes the January killing of Renée Good. Produced by Ben Shapiro’s Daily Wire and Dallas Sonnier’s Bonfire Legend, the film, described as a Pro-ICE take on the events, was revealed to be under the working title Pawn Shop. Now, Danny Trejo, who stars in the film alongside Harvey Keitel, has responded to his own controversy born from his participation in the movie. I am a proud Mexican who has always been and will always be a supporter of my community, Trejo told TMZ on Friday. I am also obviously pro-immigrant. I am not pro-ICE. According to TMZ, Trejo was attracted to the role because it s a positive depiction of a Latino character and a veteran. He reportedly plays the owner of the titular pawn shop, which has been in his character s family for generations and serves as a shelter for an ICE agent hiding from unrest caused by immigration enforcement. But fans of the actor were concerned and confused by his decision to take on the role, given the story s reported pro-ICE stance and the filming of a scene that resembles the killing of Good. I know where I come from and I know our struggles, Trejo told the outlet. He expressed a similar sentiment on X Friday, writing, Hey everyone. I want to address some social media comments about me. Make no mistake. I am a proud Mexican who has always been and will always be a supporter of my community. I am also obviously, pro immigrant. I am not pro ice. He added: I know where 
 
-### Brendan Carr Dodges Questions About Public Execution Livestream: I Trust Secretary Hegseth
-Fri, 09 Oct 2026 17:54:37 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/brendan-carr-fcc-public-execution-livestream-allowed-hegseth/
+### Kalshi Investigates Questionable Bets on Trump’s New Press Secretary
+Sat, 10 Oct 2026 01:46:50 +0000 — https://www.thewrap.com/industry-news/business/kalshi-investigates-bets-trump-new-press-secretary/
 
-FCC chairman Brendan Carr dodged questions about the Pentagon s plans to livestream a public execution in December, instead deferring to Pete Hegseth during a Friday interview on CNBC. My understanding is it s not on broadcast TV, so I don t think there s a role for the FCC one way or the other there, he told Squawk on the Street. But I trust Secretary Hegseth. I mean, he s implementing the laws and the regulations that are, you know, relevant to the Department of War, and I think he s doing a great job. And I trust that he s making the right call on these issues. Ultimately, we re going to defer to Secretary Hegseth and, you know, his decisions on how to move forward with this, Carr again answered when asked if an execution even could be allowed to air on television . On Thursday, the Secretary of Defense announced that the Pentagon would livestream Nidal Malik Hasan’s firing-squad execution on Dec. 3. He was previously convicted of killing 13 soldiers at Fort Hood in 2009. “He’s going to get a firing squad of soldiers, as it should be,” Hegseth shared with Jack Posobiec on Real America’s Voice. “We’ll make sure that people are able to watch it, that it’s public — because people need to understand that there’s serious consequences for these types of things.” This would be the first military execution in more than 60 years. Following the initial news, public figures such as Stephanie Ruhle, Henry Winkler, Joyce Carol Oates and Alyssa Farah Griffin have decried the decision , 
+Kalshi, a prediction market platform, is investigating questionable trades tied to the selection of President Donald Trump’s new White House press secretary. A spokeswoman for the company confirmed to media Friday that Kalshi was taking a closer look at trades that predicted that conservative media commentator Katie Zacharia would replace Karoline Leavitt as Trump’s White House press secretary . According to a new report from the Wall Street Journal , which first reported Kalshi’s plan to investigate, three small bets were placed before Zacharia’s appointment made headlines, positioning the users to make thousands in profit. It’s said one bet of $19 was placed around 10:43 p.m. Thursday evening. The bettor stands to be paid out $1,896. Additionally, bets of $74 an $80 were made at 1:41 p.m. Friday – Zacharia’s appointment broke at around 2 p.m. ET that same day. These two bets are slated to received $3,689 and $4,023, respectively, in payouts. The successful bets have sparked scrutiny due to the fact that Zacharia had a 1% likelihood of being named press secretary on the platform leading up to the news. Not to mention, back in July, teleprompter operator Gabriel Perez was fired from the White House after he nabbed $100,000 in profits from placing bets on Trump’s speeches. Perez later reached a settlement agreement with the Commodity Futures Trading Commission in August. As for Zacharia, Trump confirmed on Truth Social Friday that the conservative personality would join his st
 
-### Ben Affleck on ‘Radically’ Reworking ‘Animals,’ Why Directing for Streaming Is the Same as Theatrical and Using AI
-Fri, 09 Oct 2026 17:47:09 +0000 — https://www.thewrap.com/creative-content/movies/ben-affleck-interview-animals-netflix/
+### Common Side Effects Returns for Season 2 in January on Adult Swim
+Sat, 10 Oct 2026 00:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/common-side-effects-season-2-premiere-date-adult-swim/
 
-“Animals,” Ben Affleck’s sixth feature film as a director, hits Netflix this weekend, but a very different version of the movie almost happened first. Initially, Affleck was set to direct but not star in the thriller about a Los Angeles mayoral candidate and his wife who must grapple with the kidnapping of their son. He had enlisted Matt Damon and Jennifer Garner for the starring roles, excited to bring out “some aspects of both of them that I know exist that they haven t shown, frankly, in their work,” he told TheWrap in an interview days before the film s release. But then he got a phone call he described as devastating. “What do you mean there s another movie with a similar plot in production and it s being done by Spike Lee and Denzel Washington? These are not people with whom I m interested in competing,” Affleck remembered thinking as he learned about Apple’s “Highest 2 Lowest.” So, a few weeks out from the start of filming on “Animals,” he pulled the plug and put the project aside. Something about the story kept gnawing at him, though. He couldn t stop thinking about it, and a few months later, he decided to put the project back on, but by this point Damon had committed to starring in “The Odyssey,” so Affleck took on the starring role himself. Concerned that audiences would read too much into the marital dynamics explored in the film, Garner respectfully bowed out of playing the wife of her real-life ex-husband, so Affleck cast Kerry Washington in the role instead. An
+Common Side Effects Season 2 will premiere on Adult Swim on Jan. 24, 2027, at 11 p.m. ET/PT. New episodes will be available to stream the next day on HBO Max. The news was announced on Friday at New York Comic Con by series co-creators Joe Bennett and Steve Hely. The animated thriller premiered last February and quickly became a critical darling. The first season of Common Side Effects won a Peabody Award and four Annie Awards and was also nominated for an Emmy and an Independent Spirit Award. The series follows Marshall (voiced by Dave King), a fungi expert who finds a mushroom capable of curing any disease. Though Marshall wants to use his discovery to help the world, he quickly finds himself at odds with the DEA, the U.S. government and a massive pharmaceutical organization that will do anything to stop the Blue Angel from getting into the hands of everyday people. Season 2 follows Marshall and Frances (voiced by Emily Pendergast), Marshall s former lab partner-turned-accomplice, as the two fugitives try to stay one step ahead of the many forces trying to stop them from sharing this panacea with the world. In addition to King and Pendergast, Common Side Effects stars Martha Kelly, Joseph Lee Anderson and Mike Judge. Judge and Greg Daniels, both known for their work on King of the Hill, also executive produce the series. Bennett was behind the 2024 Emmy Award-winning series Scavengers Reign, and Hely is known for his work on Veep, 30 Rock and The Office. At Adult Swim, we a
 
-### Avatar: Seven Havens Release Schedule: When Do New Episodes Come Out?
-Fri, 09 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/avatar-seven-havens-release-schedule-when-do-new-episodes-come-out/
+### Pretty Little Liars Actor Keegan Allen Robbed at Gunpoint in West Hollywood
+Fri, 09 Oct 2026 23:58:07 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/pretty-little-liars-actor-keegan-allen-robbed-at-gunpoint-west-hollywood/
 
-It s time to meet the next avatar. But this time around, the title doesn t have quite the same honor to it. In Avatar: Seven Havens, a young Earthbender named Pavi discovers she s the new avatar after Korra. The thing is, in this era, being the avatar makes you a threat, not a savior. The animated series stars Saheli Khan as Pavi, Aishu Devan as Nisha, Akshay Khanna as Karthik, Major Curda as Jae, Sakina Jaffrey as Agam, Darren Barnet as Daemin, Dianne Doan as Zi, and Dee Bradley Baker as Geet and Ruhi. Here s everything you ll need to know. When does it premiere? Avatar: Seven Havens kicks off on Friday, Oct. 9 on Paramount+. How many episodes are there? There will be 13 episodes total in the season. When do new episodes come out? You won t be able to binge all of Avatar: Seven Havens when it comes out, but don t worry, you ll be getting more than just one episode per week. Here s how the schedule shakes out: Episodes 1-3: Premiere on Friday, Oct. 9 on Paramount+ Episodes 4-6: Premiere on Friday, Oct. 16 on Paramount+ Episodes 7-9: Premiere on Friday, Oct. 23 on Paramount+ Episodes 10-13: Premiere on Friday, Oct. 30 on Paramount+ What is this Avatar series about? Per the official synopsis: Set in a world shattered by a devastating cataclysm, Avatar: Seven Havens follows Pavi, a young Earthbender who discovers she s the new Avatar after Korra, only to find that in this dangerous era, that title marks her as humanity s destroyer, not its savior. Hunted by both human and spirit
+Pretty Little Liars alum Keegan Allen was robbed at gunpoint late Thursday night and detailed his experience in a bloody Instagram video. The actor was leaving upscale grocery store Laurel Supply in West Hollywood, Calif. when he was robbed at gunpoint and hit in the head with a pistol. His video included security camera footage of the crime. Allen was attacked while loading groceries into his vehicle around 9 p.m. Thursday night. He recounted that he was hit in the head by two masked robbers, they stole his Rolex watch and threatened him with a pistol and a knife. West Hollywood is not safe anymore, he wrote in the Instagram caption of the video. Robbed at gunpoint and knifepoint by two young men that threatened to KILL me over my watch and would have! God said no tonight. My life for a watch. Let’s hope all these flock cameras that @karenbassla @gavinnewsom and everyone thinks will stop crime can find these very dangerous criminals. God bless, he added. West Hollywood has its own mayor and police department that does not operate under L.A. Mayor Bass jurisdiction, but the Los Angeles County Sheriff’s Department is actively investigating this incident. View this post on Instagram A post shared by Keegan Allen (@keeoone) West Hollywood city officials issued a statement about the armed robbery. “West Hollywood is a compassionate and engaged community, and news of this violent robbery is deeply upsetting and unsettling,” the statement read. “The city wants community members to 
 
-### ABC News Removed Report on Trump Sons Investigation Because It Published Prematurely
-Fri, 09 Oct 2026 16:45:51 +0000 — https://www.thewrap.com/media-platforms/journalism/abc-news-removes-trump-sons-report-pentagon-investigation/
+### The Exorcist: Martyrs Trailer: Scarlett Johansson Hunts a Satanic Killer in Chilling Mike Flanagan Take
+Fri, 09 Oct 2026 23:46:30 +0000 — https://www.thewrap.com/creative-content/movies/the-exorcist-martyrs-trailer-scarlett-johansson-mike-flanagan/
 
-ABC News removed an investigation into government contracts involving companies linked to Donald Trump Jr. and Eric Trump because the article was published prematurely, a source familiar with the matter told TheWrap on Friday. The article was taken down while reporting is being finalized, the source noted. The update comes after a report disappeared from ABC s website less than a day after publication, initially without a public correction or explanation. The removal also drew attention to criticism from a venture capital firm tied to Trump Jr., which challenged several of the report s claims. Published Wednesday under the headline “Trump sons investments have won billions in Pentagon contracts since his election,” the investigation claimed that defense companies backed by President Donald Trump s sons had secured more than $6 billion in active or promised government contracts since receiving investments connected to them. By Thursday morning, the original article was no longer available on ABC s website, with its URL returning an error message. Mediaite first reported the removal. The article drew criticism from Alexa Henning, a spokesperson for 1789 Capital, a venture capital firm where Trump Jr. is a partner. Henning challenged ABC s characterization of the firm s investment in defense technology company Anduril, arguing that the report conflated the total size of a fundraising round with the amount invested by 1789 Capital. Henning also disputed the characterization of se
+Two days after Mike Flanagan s Carrie landed on Prime Video, Universal Pictures and Blumhouse released a trailer for Flanagan s next project: The Exorcist: Martyrs . The trailer released online Friday after playing before screenings of Other Mommy and debuting at New York Comic-Con. The spooky new footage shows Scarlett Johansson as New York City detective Julie Miller, who gained notoriety for catching the satanic serial killer known as Father Sunday. Thirteen years later, Miller (now mother to Max, played by Hamnet s Jacobi Jupe) finds her name written in an altar boy s blood, signaling the start of a haunting new case. Aided by former prison chaplain Father William (Academy Award nominee Chiwetel Ejiofor), who heard Father Sunday’s final confession, and sharp rookie detective Gina Restrepo (Sasha Calle, The Rip), Detective Miller will discover a filament linking a lineage of serial killers, from H.H. Holmes to the Zodiac, that could corrupt everything, and everyone, she loves with an evil that goes well beyond the mortal, a plot description from Universal reads. You can watch the chilling trailer below: Flanagan has become known as a modern master of horror — particularly horror adaptations — shepherding a number of high-profile projects based on the works of Stephen King, Edgar Allen Poe, Shirley Jackson and more. He also penned the initial screenplay for the forthcoming Clayface film, the first horror project set in the new DC universe. But The Exorcist: Martyrs — Flanag
 
-### The View Hosts Cackle at Pete Hegseth Training Video: That Guy Would Not Get Through My Pilates Class
-Fri, 09 Oct 2026 16:36:23 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-pete-hegseth-training-video-reaction/
+### Craig Zobel to Direct ‘Something Is Killing the Children’ Film Adaptation at Blumhouse
+Fri, 09 Oct 2026 23:32:54 +0000 — https://www.thewrap.com/culture-lifestyle/culture/craig-zobel-to-direct-something-is-killing-the-children-film-blumhouse/
 
-Video of Pete Hegseth went viral this week, showing the Defense Secretary struggling to keep up with military members in training exercises. On Friday morning, the hosts of The View simply cackled at the footage, making fun of Hegseth for struggling so much after such big talk about the high standards the military should have. The ABC hosts watched the video during the day s Hot Topics, delighting in his falling behind and struggling, calling out Look, look, look! as he failed. After the clip ended, moderator Whoopi Goldberg was left with just one question. What is he overcompensating for? she wondered. Girl host Ana Navarro shot right back. After having a few more laughs, host Alyssa Farah Griffin was quick to chime in that, That guy would not get through my Pilates class. The host then noted that previous Secretaries of Defense would also work out with the military, but none struggled so badly, and certainly none of them were thirst bots, trying to score social media points for said workouts. Meanwhile, host Sara Haines called out Hegseth s recent tirades about fitness in the military. Don t be the guy saying No fatties, no beardos, no weirdos, no slowpokes, and then be the slowpoke. You can t do that part in the video, she joked. Navarro quickly pointed out that Hegseth never called out slow pokes specifically, prompting Haines to admit she added that descriptor just for him. At least say no videos or photographs if you re that guy, Haines added. I mean, seriously? The Vie
+Director Craig Zobel will direct the feature film adaptation of horror phenomenon “Something Is Killing the Children” created by James Tynion IV and Werther Dell’Edera, it was announced at New York Comic Con s Blumfest on Friday. Stephen Christy and James Tynion IV will produce the film for Boom! Studios/Penguin Random House. Jason Blum will produce for Blumhouse with Shaun Sutton and Ryan Turek serving as executive producers. Adam Yoelin and Mette Norkjaer will also executive produce. Series co-creator Werther Dell’Edera will act as co-producer. First published by Boom! Studios, an imprint of Penguin Random House, in 2019, Something Is Killing the Children is the most successful original horror comic book since The Walking Dead, selling more than 5 million copies worldwide. It has been translated into more than 20 languages and is published in 14 countries around the world. Blumhouse is developing the franchise simultaneously as a live-action feature film and as an adult animated television series, with the TV adaptation to be shepherded by series co-creator James Tynion IV. The franchise’s breakout spinoff, “House of Slaughter,” launched with over 500,000 copies of its first issue sold, making it one of the top-selling original comic book debuts of the 21st century. Since its debut, the franchise has garnered critical acclaim and won multiple Eisner Awards — the highest honor in comics. Zobel is a filmmaker who broke out with such pics as “Compliance” and “Z for Zachariah” 
 
 ## Collider
 
-### Prime Video’s 8-Part ‘Vikings’ Replacement Officially Sets January Release Date
-Fri, 09 Oct 2026 18:15:11 GMT — https://collider.com/bloodaxe-prime-video-release-date-teaser/
+### James Cameron's $78 Million Sci-Fi Masterpiece Officially Finds a New Streaming Home
+Sat, 10 Oct 2026 10:30:11 GMT — https://collider.com/james-cameron-sci-fi-the-terminator-prime-video-streaming-october-2026/
 
-Historical dramas have made fighting for a crown look like a particularly dangerous career choice. Winning a battle rarely settles anything when relatives, allies, and neighboring rulers all have their own ideas about who should inherit the throne. For audiences who spent years following Vikings , that uncertainty was a huge part of the attraction . A victory could change someone’s fortunes without making them any safer.
+Before James Cameron had billion-dollar blue aliens, sinking ocean liners and enough studio money to build whatever he wanted, he made one of the greatest sci-fi movies ever for about $6 million. Arnold Schwarzenegger barely speaks, wears leather trousers, and spends 107 minutes trying to murder the mother of someone who hasn't been born yet. Simple enough.
 
-### The 6 Best Crime Books Released Since 1990, Ranked
-Fri, 09 Oct 2026 17:04:12 GMT — https://collider.com/best-crime-books-since-1990-ranked/
+### 7 Horror Books to Read if You Love ‘Carrie’
+Sat, 10 Oct 2026 10:05:11 GMT — https://collider.com/horror-books-like-carrie-stephen-king/
 
-Some crime novels leave you wanting to solve the case. But the ones you fall in love with beyond the average ones? They leave you wanting to call somebody at midnight and say, “You need to read this because I cannot be the only person carrying it around in my head.”
+With Mike Flanagan ’s series adaptation arriving on streaming this week, Stephen King ’s Carrie is once again at the top of every horror fan’s mind. The debut novel of the King of Horror, Carrie is a highly influential teen horror book that follows a friendless girl from an abusive home who discovers latent psychic abilities. In the aftermath of a cruel prank, she unleashes these powers on all the people who have made her life hell. Though it wasn’t an instant success when it first hit the shelves in 1974, the book went on to become a critical and fan favorite, launching King’s spectacularly successful career as a master of the horror genre.
 
-### ‘Avengers: Doomsday’ Officially Takes Over NYCC With New Doctor Doom Collection
-Fri, 09 Oct 2026 17:01:51 GMT — https://collider.com/avengers-doomsday-doctor-doom-nycc-marvel-merch-collection/
+### 6 Most Universally Loved Movies Released Since 2020, Ranked
+Sat, 10 Oct 2026 10:03:11 GMT — https://collider.com/most-universally-loved-movies-since-2020-ranked/
 
-After the release of Disney+'s VisionQuest on October 14, the rest of the MCU runway will be cleared for Doctor Doom. The franchise's next big crossover event, Avengers: Doomsday , is just over two months away from arriving in theaters and pitting generations of heroes against Robert Downey Jr .'s supreme supervillain on December 18. Disney is unsurprisingly preparing a big push for the blockbuster, from a Dunkin' takeover in November to new collectibles, like a Franklin Richards Funko Pop! , and much more. At New York Comic Con, a new collection is now joining the fight for those who wish to dress like a Latvarian ruler.
+Getting people to agree on movies now feels harder than getting a family to agree on where to eat. Every release has discourse attached before half the audience has even seen it. Somebody thinks it is overrated. Somebody thinks criticism of it is a personality defect. Somebody thinks it’s too woke and somebody takes it as offensive or cancels the actor. So when a movie breaks through all of that noise and generates something close to genuine shared affection, I notice.
 
-### The Next Major Harry Potter RPG Is Officially Here
-Fri, 09 Oct 2026 17:00:11 GMT — https://collider.com/harry-potter-rpg-defenders-of-hogwarts-kickstarter/
+### 2026’s Most Savage Horror Sleeper Hit Is Officially Unleashed on Streaming
+Sat, 10 Oct 2026 10:00:11 GMT — https://collider.com/evil-dead-burn-streaming-hit-hbo-max-october-2026/
 
-The wait for Hogwarts Legacy 2 feels like we've gone into the vanishing cabinet for Borgin and Burke's alongside Montague, and we've been stuck here for months, if not years, with no sign of light at the end of the tunnel. The sequel is already one of the most anticipated games in the Wizarding World , and we're waiting for concrete info on what to expect. If it links into HBO's new series, expands the world down to London, Godric's Hollow, or more remains to be seen, but thankfully, another new Wizarding World RPG is now on the way, and this one is taking fans back to Hogwarts in a very different form.
+Horror fans have been truly blessed in 2026 . YouTuber Mark Edward Fischbach (aka Markiplier) surprised everyone with an early-year surprise in Iron Lung ; Adam Scott followed up on the latest season of Severance with Hokum ; Nia DaCosta directed one of the year's best horrors with 28 Years Later: The Bone Temple ; Kane Parsons blew minds with his directorial debut Backrooms ; Curry Barker 's breakout masterpiece Obsession is a record-breaking phenomenon, and much more.
 
-### ‘Harry Potter’ Star Confirms Massive Update for HBO Series
-Fri, 09 Oct 2026 17:00:11 GMT — https://collider.com/harry-potter-hbo-series-10-hours-runtime-johnny-flynn/
+### Russell Crowe's R-Rated 'Exorcist' Replacement Is Officially Back on Streaming
+Sat, 10 Oct 2026 09:40:11 GMT — https://collider.com/russell-crowe-horror-popes-exorcist-prime-video-october-2026/
 
-One of the most common issues people had with the Harry Potter movies, especially as they went further on — we're looking at Goblet of Fire and Order of the Phoenix in particular — was how much content was cut from the stories. After all, you're looking at a 700+ page book condensed into the shortest movie of the series at just over 2 hours long. That's a lot of stuff we missed out on. HBO's new adaptation is supposed to fix that problem, and one of its villains has suggested fans could be getting even more time at Hogwarts than expected.
+There are plenty of exorcism movies to choose from in October, but not many of them have Russell Crowe riding around Italy on a tiny Vespa while working directly for the Pope. That alone helped turn one relatively modest horror movie into a surprise theatrical hit — and eventually a franchise.
 
-### ‘The Witcher 3’ Officially Gives Console Players a Long-Awaited Geralt Upgrade
-Fri, 09 Oct 2026 16:40:12 GMT — https://collider.com/the-witcher-3-hoods-mod-ps5-xbox-series-x-s/
+### Just 1 Week Later, Tom Cruise’s Ambitious New Movie Is Officially Getting the IMAX Boot
+Sat, 10 Oct 2026 09:20:11 GMT — https://collider.com/tom-cruise-digger-removed-from-imax-box-office-disaster/
 
-Right now is a great time to be a fan of The Witcher franchise, even if it is going to be a few more years until the release of The Witcher 4 . CD Projekt Red announced just a few weeks ago that it wouldn’t be anytime before 2028 before The Witcher 4 debuts on next-generation consoles, but this isn’t that surprising considering we know that The Witcher 3 is getting another expansion coming next year. Little is known about Songs of the Past at this time, other than it will be the final chapter in the story of Geralt of Rivia in The Witcher 3 . CD Projekt Red has treated fans to several expansions already, including Hearts of Stone and Blood and Wine , both of which offer dozens of hours of new content.
+The IMAX Corporation has confirmed that Christopher Nolan 's record-breaking blockbuster, The Odyssey , will return to premium large-format venues as early as this week, following the box-office failure of Digger . Starring Tom Cruise and directed by the two-time Oscar-winning Alejandro G. Iñárritu , the epic sci-fi political satire made less than $20 million worldwide in its box-office debut, against a budget that has been reported to be anywhere between $140 million and $180 million. Warner Bros. spent an additional $100 million to market the movie, meaning that its break-even point, given the typical revenue split between studios and exhibitors, should be around $350 million worldwide. At this rate, Digger is poised to gross around $50 million in its lifetime run.
 
-### ‘House of the Dragon’ Officially Sets Surprise Return This Month
-Fri, 09 Oct 2026 16:30:11 GMT — https://collider.com/house-of-the-dragon-returning-october-2026-new-release/
+### 10 Sci-Fi Shows That Get Better When Everything Falls Apart
+Sat, 10 Oct 2026 09:18:11 GMT — https://collider.com/sci-fi-shows-better-everything-falls-apart/
 
-2026 has been an exciting year for Game of Thrones fans, who had not one, but two new releases on HBO Max to get fired up about — dragon pun intended. The first Game of Thrones spin-off show to take over the world was A Knight of the Seven Kingdoms , which is also a personal favorite of author George R.R. Martin . The show has already wrapped production on its second season, which is confirmed to air sometime in the second half of 2027. HBO also brought back the first Game of Thrones spin-off, House of the Dragon , for its third season during the summer. Similar to A Knight of the Seven Kingdoms , House of the Dragon has already been renewed for Season 4, which will also be the final season of the series.
+There's absolutely nothing wrong with Star Trek - style science fiction, where the future is seen through a lens of pure optimism, escapism, and entertainment value. Every now and then, however, every sci-fi fan craves a story where things are constantly falling apart , and characters are constantly struggling with the overwhelming weight of their own actions.
 
-### Star Wars Officially Brings Back Princes Leia for New Release
-Fri, 09 Oct 2026 16:26:07 GMT — https://collider.com/star-wars-princess-of-the-rebellion-leia-luke-han-new-book-release-date/
+### Why 'Digger's Final Shot Took 6 Months To Plan Out [Exclusive]
+Sat, 10 Oct 2026 09:15:11 GMT — https://collider.com/digger-ending-final-shot-meaning-alejandro-g-inarritu-interview/
 
-2026 has been a year marked by ups and downs for Star Wars fans, but it’s still an exciting franchise to be a part of, as it has been for so many years. Star Wars officially returned to Disney Plus this year with the premiere of Maul — Shadow Lord , the animated series starring Sam Witwer that has already been renewed for Season 2. Star Wars then made its return to the big screen for the first time in seven years with The Mandalorian and Grogu , but the film finished its run as the lowest-grossing Star Wars movie in franchise history. After being added to Disney Plus’ streaming library early last month, The Mandalorian and Grogu has quietly become one of the biggest streaming hits of the year — it’s still charting in the top 10 in a handful of countries.
+Editor's note: The following contains spoilers for Digger.
 
-### Steven Spielberg’s $236 Million Sci-Fi Epic Is Officially Back
-Fri, 09 Oct 2026 16:20:11 GMT — https://collider.com/ai-artificial-intelligence-4k-uhd-steelbook-release/
+### ‘Edie Arnold Is a Loser’ Star Turned to a Video Game To Help Her Become a Punk Rock Drummer
+Sat, 10 Oct 2026 09:00:11 GMT — https://collider.com/edie-arnold-is-a-loser-punk-rock-adi-madden-cabrera/
 
-It's fair to say artificial intelligence is a lot less fictional than it first felt 25 years ago, but thankfully ChatGPT, Claude and Grok haven't been looking for the Blue Fairy lately, just threatening to become self-aware. Steven Spielberg tried to view it as a more innocent thing back then, but his deeply strange, frequently devastating sci-fi epic imagined a future where humanity has perfected artificial children only to find they cannot handle it at all.
+Editor's note: The following contains spoilers for Edie Arnold Is a Loser.
 
-### ‘Avatar: The Last Airbender’ Is Officially Expanding With New Animated Series
-Fri, 09 Oct 2026 16:15:12 GMT — https://collider.com/avatar-the-last-airbender-new-avatar-kuruk-series-wave-of-chaos/
+### Tom Holland’s $1.1B Superhero Blockbuster Officially Becomes a Free Streaming Sensation
+Sat, 10 Oct 2026 09:00:11 GMT — https://collider.com/spider-man-far-from-home-streaming-hit-tubi-october-2026/
 
-When it comes to popular animated franchises, few have had the same staying power over the last 20 years as Avatar: The Last Airbender . The franchise first launched all the way back in 2005 with the original animated series created by Bryan Konietzko and Michael Dante DiMartino , and now, more than 20 years later, the duo are back with a brand-new series streaming now. Paramount presented the first three episodes of Avatar: Seven Havens this afternoon, and fans needn’t worry about cancellation—the studio announced today that the show has been renewed through Season 4, so it will be around for a while. The Avatar franchise has stayed around for so long thanks to its ability to invent beloved new characters, but a new project is officially coming soon that’s going to shine a spotlight on an overlooked hero.
+How will 2026 in film be remembered? Big surprise hits such as Obsession and ambitious critical darlings like Christopher Nolan 's The Odyssey are sure to prove lasting, but no film is set to define 2026 better than Spider-Man: Brand New Day . The return of Tom Holland 's Friendly Neighborhood Spidey was always likely to prove a financial success, but no one could've predicted quite how record-breaking the success would be.
 

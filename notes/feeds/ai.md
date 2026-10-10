@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-09T18:59:50.250Z
+# AI — harvested 2026-10-10T10:48:14.391Z
 
 ## OpenAI
 
@@ -27,18 +27,10 @@ Thu, 08 Oct 2026 12:00:00 GMT — https://openai.com/index/legalon-halves-codex-
 
 LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.
 
-### Disrupting AI-enabled “false front” operations
-Thu, 08 Oct 2026 00:00:00 GMT — https://openai.com/index/disrupting-ai-enabled-false-front-operations
-
-OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.
-
 ## Hugging Face
 
 ### Impactful scheduling for GPU clusters
 Fri, 09 Oct 2026 15:20:29 GMT — https://huggingface.co/blog/allenai/impactful-scheduling
-
-### The model that didn't exist, so you made it yourself
-Thu, 08 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/building-with-ml-intern
 
 ## Google DeepMind
 

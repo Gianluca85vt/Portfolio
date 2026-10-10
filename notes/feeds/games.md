@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-09T18:59:50.250Z
+# Games — harvested 2026-10-10T10:48:14.391Z
 
 ## Eurogamer
+
+### Konami is already thinking about the next wave of Silent Hill games
+Sat, 10 Oct 2026 10:38:48 +0000 — https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto
+
+Silent Hill producer Motoi Okamoto says Konami is looking at "a number of projects" after the first wave of new Silent Hill games. Read more
+
+### What we've been playing - "It's pure video game popcorn movie stuff"
+Sat, 10 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name like that; and Bertie ekes every last drop he can get out of The Blood of Dawnwalker before saving his family. Read more
+
+### After modders removed Skate's live service bits, devs draw the line with tools that "bypass our systems to unlock paid cosmetics"
+Fri, 09 Oct 2026 20:17:03 +0000 — https://www.eurogamer.net/skate-mods-live-service-ea-unlock-paid-cosmetics
+
+EA and Full Circle - the developer behind the new early access Skate game (skate.) - don't have a problem with modders and "creativity from players," but they're drawing the line with mods that aim to unlock paid microtransactions and unreleased content. Read more
 
 ### As Xbox and PlayStation sales reach new lows, analyst says the "US hardware market has not been in a more precarious position since the early 80s"
 Fri, 09 Oct 2026 18:51:26 +0000 — https://www.eurogamer.net/xbox-playstation-sales-new-lows-hardware-market
@@ -46,21 +61,6 @@ Ace Combat 8 has become the fastest-selling game in the aerial combat series, so
 Fri, 09 Oct 2026 12:33:20 +0000 — https://www.eurogamer.net/ea-sports-fc-27-review
 
 The most touching of additions, in EA Sports FC 27, is a mode called The Grounds. This is an online social hub, where your custom avatar can roam and rise. It's touching not for its play &ndash; which lets you challenge people to rounds of Rush football, where the ghosts of Volta and Fifa Street happily haunt &ndash; but for its look. There are three open hub areas to explore, one styled on the UK, another on Paris, and a third on Argentina. The streets are clean, and cluttered by bustling NPCs. Here and there are luminous white-domed kiosks, with all the promise of an artist's impression of an upcoming Heathrow terminal. If I didn't know better, I'd say that the developers at EA Vancouver and EA Romania were paying homage to PlayStation Home. There, too, you could list through weird streets and glassy booths, clad in store-bought clothes, and beat other players in mini-games of all kinds. There, too, you felt the looming threat of a shutdown. Read more
-
-### Live-action Cyberpunk 2077 film reportedly in development, with CD Projekt Red collaborating with Paramount to make it
-Fri, 09 Oct 2026 10:40:54 +0000 — https://www.eurogamer.net/cyberpunk-2077-live-action-film-paramount-cd-projekt-red
-
-UPDATE 12PM BST: CD Projekt Red seems to have confirmed the partnership and film, with joint-CEO Micha&lstrok; Nowakowski commenting on X that: "We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at the appropriate time." Read more
-
-### "It's clear that we both adore one another's games a lot" - Dave the Diver and Subnautica 2 team up for a crossover made in heaven
-Thu, 08 Oct 2026 17:00:00 +0000 — https://www.eurogamer.net/dave-the-diver-final-dlc-subnautica-2-crossover
-
-At today's Triple-i Showcase , Dave the Diver studio Mintrocket announced a surprisingly obvious, and perfectly fitting, collaboration. The game's final DLC, set for release in early 2027, brings the worlds of Subnautica 2 and Dave the Diver together. Read more
-
-### Bobby Kotick returns: former Activision boss becomes board member of Skydance, the new company formed by Paramount and Warner Bros
-Thu, 08 Oct 2026 15:47:01 +0000 — https://www.eurogamer.net/bobby-kotick-skydance-board-of-directors-1
-
-Former Activision boss Bobby Kotick has returned to a position of high influence as a board member of Skydance, the new entertainment juggernaut formed by the merging of Warner Bros. into Paramount. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Sonic Racing: CrossWorlds Now Permanently Cheaper, and It s Going Absolutely Bananas with DLC in Year 2
+Sat, 10 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2
+
+SEGA blows the lid off upcoming DLC. SEGA has just announced a metric tonne of stuff for Sonic Racing: CrossWorlds , which looks as though it's going to have a truly bumper second year. There's a lot to get through, so let's get into the thick of it. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 653
+Fri, 09 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653
+
+Course correction. While the release schedule continues in earnest, it's definitely been a quieter week for gaming news I feel. That's probably appreciated after a few dramatic periods of late. Here's what we're playing. Aaron Bayne I'll be trying to crack the case in Silver Pines this weekend. Read the full article on pushsquare.com
+
 ### As Its Developer Recovers, Star Wars Zero Company Reaches One Million Copies Sold
 Fri, 09 Oct 2026 17:45:00 GMT — https://www.pushsquare.com/news/2026/10/as-its-developer-recovers-star-wars-zero-company-reaches-one-million-copies-sold
 
@@ -180,16 +190,6 @@ Fri, 09 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/previews/phantom-bl
 
 A six-hour deep dive into the action title. All bets are off once GTA 6 comes out, but in the weeks leading up to it, you have to let Phantom Blade Zero take up all of your free time. I played six hours of the game on a trip to Beijing, China (more on that in the future) and found it to be one of the most confident and impressive Western debuts from a developer in years. This is not a studio finding its footing in the action genre; it’s one already primed to lead it. Outstanding combat and boss encounters will make the S-GAME effort one of this year’s greatest experiences. Read the full article on pushsquare.com
 
-### PS5 Console Exclusive PRISON OF HUSKS Looks Like a Soulslike with PS2 Presentation
-Thu, 08 Oct 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-console-exclusive-prison-of-husks-looks-like-a-soulslike-with-ps2-presentation
-
-It's even in 4:3. I’m a bit weary of Soulslikes personally, but I unironically love the look of this. Presented in 4:3, with Vaseline smeared visuals that would make Fumito Ueda proud, PRISON OF HUSKS is an upcoming PS5 console exclusive that looks like it’s stepped straight out of the PS2 era. Read the full article on pushsquare.com
-
-### Cyberpunk 2077 Is the Next Game Set for a Live-Action Film
-Thu, 08 Oct 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/10/cyberpunk-2077-is-the-next-game-set-for-a-live-action-film
-
-But the producer attached will give you pause. As every noteworthy video game under the sun gets a movie or TV series adaptation, it was only a matter of time before Cyberpunk 2077 found itself attached to a producer and a big-screen debut. Now, it's reported by Deadline that Paramount Pictures will make a live-action Cyberpunk 2077 film. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Ubisoft to sunset Rainbow Six Mobile just seven months after launch
@@ -234,6 +234,31 @@ no date — https://www.gamedeveloper.comconference.godotengine.org
 
 ## VGC
 
+### Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega
+Sat, 10 Oct 2026 09:55:44 +0000 — https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/
+
+The game has also received a permanent price drop… Source
+
+### DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide
+Sat, 10 Oct 2026 07:00:50 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/
+
+Where to find all of The Commission's supplies in Dragon's Dogma 2's The Snatching-Beast quest… Source
+
+### DD2 Dark Arisen: Summon Gagana, The Castle in Ice quest guide
+Sat, 10 Oct 2026 07:00:20 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-summon-gagana-the-castle-in-ice-quest-guide/
+
+How to summon the Gagana monster in Dragon's Dogma 2: Dark Arisen's The Castle in Ice quest… Source
+
+### DD2 Dark Arisen: All Norgan Sphinx Sage riddle solutions
+Sat, 10 Oct 2026 07:00:13 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-sphinx-sage-riddle-solutions/
+
+How to solve the Sphinx Sage's new Norgan riddles in Dragon's Dogma 2: Dark Arisen… Source
+
+### DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide
+Fri, 09 Oct 2026 20:03:15 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/
+
+How to break the magick shields of the Blackdog enemies in Dragon's Dogma 2: Dark Arisen… Source
+
 ### DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations
 Fri, 09 Oct 2026 17:28:16 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/
 
@@ -259,84 +284,79 @@ Fri, 09 Oct 2026 11:34:18 +0000 — https://www.videogameschronicle.com/news/cri
 
 The press "had limited time" and didn't play the launch version… Source
 
-### Ubisoft is shutting down Rainbow Six Mobile, dev team releases message
-Fri, 09 Oct 2026 10:45:58 +0000 — https://www.videogameschronicle.com/news/ubisoft-is-shutting-down-rainbow-six-mobile-dev-team-releases-message/
-
-Rainbow Six Mobile is sunsetting less than a year after it launched globally… Source
-
-### Ace Combat 8 is the fastest selling entry in the series after hitting 1 million sales
-Fri, 09 Oct 2026 10:02:42 +0000 — https://www.videogameschronicle.com/news/ace-combat-8-is-the-fastest-selling-entry-in-the-series-after-hitting-1-million-sales/
-
-Ace Combat 8: Wings is Theve is set to be the most successful entry in the series… Source
-
-### After the first seven Leisure Suit Larry games were delisted last year, the last two are joining them
-Fri, 09 Oct 2026 09:07:39 +0000 — https://www.videogameschronicle.com/news/after-the-first-seven-leisure-suit-larry-games-were-delisted-last-year-the-last-two-are-joining-them/
-
-Wet Dreams Don't Dry and Wet Dreams Dry Twice are being heavily discounted before they're gone… Source
-
-### Cyberpunk 2077 is getting a live-action movie from Paramount
-Thu, 08 Oct 2026 18:36:52 +0000 — https://www.videogameschronicle.com/news/cyberpunk-2077-is-getting-a-live-action-movie-from-paramount/
-
-Paramount Pictures has started work on a live-action adaptation with CD Projekt Red… Source
-
-### Forza Horizon 6 officially dated for PS5, alongside an expansion
-Thu, 08 Oct 2026 17:59:50 +0000 — https://www.videogameschronicle.com/news/forza-horizon-6-officially-dated-for-ps5-alongside-an-expansion/
-
-Forza Horizon 6 is coming to PS5 next year… Source
-
 ## Polygon
 
-### Gears of War: E-Day's Strong Reviews Haven't Translated to Big Sales, Analyst Says
-Fri, 09 Oct 2026 18:33:23 GMT — https://www.polygon.com/gears-of-war-e-day-sales-game-pass-problem/
+### Persona’s Horrifying Dong Monster Will Haunt My Nightmares Forever
+Sat, 10 Oct 2026 10:00:15 GMT — https://www.polygon.com/persona-atlus-scariest-mara/
 
-Gears of War: E-Day is off to a strong critical start, but early sales estimates suggest Microsoft's latest Xbox blockbuster may be struggling to turn that acclaim into actual sales.
+Atlus’s Persona series of role-playing games incorporates a huge variety of mythological and folkloric creatures from around the world. Some are formidable warriors like Odin from Norse mythology or the Hindu goddess Lakshmi. Others are cute and charming, like Alice from Alice in Wonderland or the spooky snowman Jack Frost. They function kind of like Pokémon : your protagonist can equip a variety of Personas with different skills, strengths, and weaknesses. But there’s one Persona that’s not like the others. He’s so scary that Atlus had to design a censored version of him. His name is Mara, and I hate him.
 
-### Vikings Creator’s New Series Bloodaxe Sets 2027 Premiere Date
-Fri, 09 Oct 2026 18:16:53 GMT — https://www.polygon.com/bloodaxe-release-date-prime-video-january-2027/
+### Halo officially returns in 2 weeks with new release
+Sat, 10 Oct 2026 10:00:15 GMT — https://www.polygon.com/halo-novel-release-date/
 
-Fans of Netflix's Vikings have a new Norse saga to look forward to. Bloodaxe , the upcoming historical action series from Vikings creator Michael Hirst, will premiere on Prime Video on Jan. 20, 2027.
+Bungie's bestselling military science fiction FPS, Halo , has spawned an impressive amount of content over the years since Halo: Combat Evolved was released for the Xbox in 2001. Debuting alongside Halo was the franchise's first tie-in novel, The Fall of the Reach, by Eric Nylund. Since then, there have been more than 30 novels written by a host of authors set in the wildly popular Halo universe.
 
-### 'GTA 6' Fandom Is Officially Shook After The Nude Jason Leak
-Fri, 09 Oct 2026 17:58:34 GMT — https://www.polygon.com/gta-6-cyberleek-nude-jason-duvall-internet-archive-video-tank-cheat/
+### Avatar: Seven Havens's Biggest Plot Twist May Be Hiding in Plain Sight
+Sat, 10 Oct 2026 09:00:15 GMT — https://www.polygon.com/avatar-seven-havens-seven-chakras/
 
-Grand Theft Auto 6 fans just learned that what is seen cannot always be unseen — but it sure may raise questions. Such is the case after GTA 6 leaker, Cyberleek, unleashed a raunchy 24-minute video on Thursday where over half the runtime was dedicated to co-protagonist Jason Duvall exploring Leonida in the nude. Fans are still debating what, exactly, they saw in the unexpected new GTA leak and how much of it can be trusted.
+Avatar: Seven Havens is a far more mystery-driven series than its predecessors, The Legend of Korra and Avatar: The Last Airbender . Avatar Korra supposedly caused a cataclysm that destroyed most of the world, but it’s unclear why she would do that and how the new Avatar might be able to fix things. The first episode of Seven Havens premiered on Oct. 9, and the writers may have already provided some big hints about what’s going on.
 
-### DC Officially Unveils a New Justice League
-Fri, 09 Oct 2026 17:58:03 GMT — https://www.polygon.com/dc-comics-absolute-justice-league-batman-superman-wonder-woman/
+### 5 Brilliant Anime That Don’t Waste a Single Episode
+Sat, 10 Oct 2026 08:07:15 GMT — https://www.polygon.com/brilliant-anime-with-no-bad-episodes/
 
-DC Comics announced a new Justice League series at New York Comic-Con on Friday, and it's one fans have been eagerly awaiting. Absolute Justice starts in April, and it'll unite Absolute Universe heroes Batman , Superman, Wonder Woman , Martian Manhunter, Green Lantern (Jo Mullein), and Flash (Wally West) for a five-issue miniseries.
+Subjective taste inevitably plays a role here. A contemplative series like Mushi-shi and a sprawling space opera like Legend of the Galactic Heroes offer radically different versions of great storytelling. For this list, we’re focusing on anime that combine distinctive animation with narrative ambition, embrace complicated characters, and avoid wasting their limited time. These five anime prove that when every episode matters, even a short series can feel monumental.
 
-### High Console Prices Push Playstation and Xbox Sales to New Lows
-Fri, 09 Oct 2026 17:26:20 GMT — https://www.polygon.com/game-console-sales-down-ai-component-crisis-ram/
+### 5 Sci-Fi Books That Are Better Than Their Movie Adaptations
+Sat, 10 Oct 2026 08:00:15 GMT — https://www.polygon.com/sci-fi-books-better-movie-adaptations/
 
-As an ongoing component crisis continues to drive up console prices, gaming hardware sales are tanking. According to new U.S. retail data from Circana , Xbox hardware sales were down 33% year-to-date in August compared to this point in 2025. Meanwhile, PlayStation sales have dropped 25% over the same period.
+In some cases, a sci-fi movie adaptation can be spectacular, and still feel like a pale imitation of the source material. This has less to do with the quality of the adaptation itself, and more with the nuances that can only be conveyed through the literary medium. Sci-fi stories get streamlined and condensed onscreen for valid reasons, but the original still shines brighter in some respects. Here are five such examples where you're better off going straight to the source material than watching the movie it inspired.
 
-### Street Fighter Movie Officially Reveals Its Big Animated Twist
-Fri, 09 Oct 2026 17:02:27 GMT — https://www.polygon.com/street-fighter-movie-animated-flashbacks-anime-inspiration/
+### Pokémon Go Zorua Community Day event guide
+Sat, 10 Oct 2026 03:13:52 GMT — https://www.polygon.com/pokemon-go-zorua-community-day-event-shiny-zoroark-moveset/
 
-The creators of the new Street Fighter movie have been sitting on a secret: A surprising amount of the film is told through traditional 2D animation , one of the film's many throwbacks to the '90s. Capcom and Legendary's new Street Fighter movie is a period piece, if that hasn't been clear from the trailers; it's set in 1993 , the same year Capcom released Super Street Fighter 2: The New Challengers in arcades.
+Pokémon Go is having a Zorua Community Day event on Saturday, Oct. 10 from 2-5 p.m. in your local time. This Community Day only features the original Unovan Zorua , not the normal- and ghost-type Hisuian Zorua.
 
-### New D&D Baldur's Gate 3 Series Stars Everyone’s Favorite Vampire Spawn
-Fri, 09 Oct 2026 17:01:15 GMT — https://www.polygon.com/baldurs-gate-3-dark-horse-comics-nycc/
+### Scarlett Johansson's New Exorcist Movie Gets First Terrifying Trailer
+Sat, 10 Oct 2026 01:55:09 GMT — https://www.polygon.com/the-exorcist-martyrs-trailer-mike-flanagan/
 
-Larian Studios’ smash hit RPG Baldur's Gate 3 is packed with rich characters, but the clear fan favorite is the vampire spawn rogue Astarion Ancunín. The sassy undead heartthrob already got a prequel novel written by Nettle & Bone author T. Kingfisher (aka Ursula Vernon), and now he’s starring in an ongoing comic series announced at New York Comic Con .
+The Exorcist: Martyrs was promising from the get-go, with horror master Mike Flanagan taking the helm as writer and director, accompanied by a star-studded cast. On Wednesday, we got a first look at Flanagan's The Exorcist: Martyrs with a short teaser. Now, the first full trailer for the supernatural thriller movie is officially out, and it promises a good time for fans of the original as well as those jumping into the franchise for the first time.
 
-### I Really Want to Get Back into The Witcher 3 but I Have Save Game Anxiety
-Fri, 09 Oct 2026 17:01:15 GMT — https://www.polygon.com/witcher-3-remastered-restart-campaign-save-game-anxiety/
+### Pokémon Winds and Waves' Water Starter Breaks a Series Curse
+Sat, 10 Oct 2026 01:20:15 GMT — https://www.polygon.com/pokemon-winds-waves-water-starter-series-curse/
 
-It can be quite a hump to get over. You're not in the flow anymore, and the flow can be hard to find. You could always start again, but that means losing all of your previous progress.
+Every starter in a new Pokémon generation erects an army of staunch defenders, but like it or not, some monsters are loved more than others. And for a couple of decades now, it seems like fire-type starters and grass-type starters keep taking turns stealing the spotlight. But when was the last time a water-type starter turned the collective Pokémon fandom's head?
 
-### FBI Arrests Suspect from Hacker Group that Targeted GTA and the FBI Itself
-Fri, 09 Oct 2026 16:59:06 GMT — https://www.polygon.com/shinyhunters-hacker-arrested-gta-6-fbi-leak/
+### MTG Officially Reveals 4 Epic New Marvel Commander Decks Coming in 2027
+Sat, 10 Oct 2026 00:30:16 GMT — https://www.polygon.com/magic-the-gathering-marvel-darkhold-destiny-commander-decks/
 
-The hacking group ShinyHunters targeted Grand Theft Auto 6 developer Rockstar in April . It released financial information online after failing to procure a ransom from the studio, revealing just how much bank Rockstar makes from games like Grand Theft Auto Online . Last month, ShinyHunters got more brazen and hacked the United States Federal Bureau of Investigation, stealing personal information of current and former FBI employees as well as people who had applied to work for the Bureau.
+Magic: The Gathering players have repeatedly complained that Universes Beyond sets feel too far removed from the game’s fantasy genre and original storytelling. Wizards of the Coast revealed a clever compromise at New York Comic Con : a set based on an original story in the Marvel Universe that was specifically written to fit Magic’s mechanics and vibe.
 
-### Xbox Makes 7 Games Free to Play This Weekend
-Fri, 09 Oct 2026 16:50:44 GMT — https://www.polygon.com/arc-raiders-high-on-life-2-free-new-xbox-games-october-9-2026/
+### It’s Officially the Dawn of a New Era for 'Magic the Gathering' Universes Beyond
+Sat, 10 Oct 2026 00:30:16 GMT — https://www.polygon.com/mtg-darkhold-destinies-spoilers-marvel-universes-beyond/
 
-Xbox players have a handful of games to check out for free this weekend, including a major new update for one of this year's biggest multiplayer releases and trials for several other notable titles. Whether you're in the mood for an extraction shooter, a bizarre sci-fi adventure, or a trip into a radioactive wasteland, there's something worth trying before the weekend ends.
+Magic ’s first Universes Beyond set of 2027, Darkhold Destiny , looks to finally bridge that gap by uniting the best of both worlds in what feels like the most ambitious UB set yet. Polygon spoke to the Darkhold Destiny team ahead of the set's big reveal at New York Comic Con 2026 to get a behind-the-scenes look. Here’s what we learned and why it has us so excited for Marvel’s third crossover set.
 
 ## PC Gamer
+
+### 2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana
+Sat, 10 Oct 2026 00:20:52 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/
+
+The 2007 season finale of TV phenom Lost ended with an all-timer twist: What had seemed like the show's routine flashback storyline, filling in the events that preceded its characters ending up in island purgatory, was actually a flash forward . Protagonists Jack and Kate were somehow safe in Los Angeles after three seasons of being stuck on the mysterious island. Escaping had been the whole point of the show—or so we thought, until a broken Jack cried "We have to go back!" This is now how I feel about, frankly, a lot of technology. Not long before that episode aired I'd gleefully dropped $1,000 on my first HD display, a 26-inch 1366x768 Samsung LCD that served as my college dorm TV and doubled as my computer monitor. For the time it was state of the art, so much thinner and sharper and better than the CRT monitor still attached to the family PC. Or was it? Twenty years later, experts who are tuned into the minutia of display tech are still trying to get back what we lost. "People older than 40 will generally remember the motion clarity of CRTs, while younger people who've never seen a CRT will not remember," says Mark Rejhon, founder of the website Blur Busters . For years, Blur Busters' "Test UFO" browser tool, starring a little green man in a red saucer, has served as the de facto way to judge the clarity of objects in motion on modern displays. Compared to older CRT monitors, the LCDs of the mid-2000s were particularly terrible, their pixels taking an eternity to change f
+
+### 'Overcooked broke you apart and Stage Fright is there to put you back together'
+Fri, 09 Oct 2026 23:43:13 +0000 — https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/
+
+I introduced Overcooked to two of my friends one day back in 2016. One day being the key phrase here. The Overcooked games are on our list of the best co-op games , but the series has a reputation for ruining relationships—in China it's apparently known as "The Divorce Kitchen". I don't recall actually fighting with my friends, but the tension was thick enough that we quickly went back to playing Jackbox instead. That makes Stage Fright, which is being published by No Man's Sky developer Hello Games, kind of an interesting pivot for Ghost Town Games. It's the next co-op adventure from the makers of Overcooked, but it's aimed at building relationships with your play partner instead of leaving you irked at them. Here's what Stage Fright's developers have to say about the tonal shift a decade later. (Image credit: Hello Games) "Overcooked broke you apart and Stage Fright is there to put you back together," said co-director Oliver De-Vine, when we spoke over Zoom in September. "I think there's a sense of us trying to be constructive with co-op, and trying to be a constructive and positive force in the world," De-Vine said. "Not that there's anything negative, necessarily, about having a fun argument with your friends! But we're trying to foster community in our games. [They're] about communication between people, and less about being very good with the fidelity of a controller." "It's exciting to us, the idea that the people who are good at our games are the ones who are good at 
+
+### Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny
+Fri, 09 Oct 2026 21:54:26 +0000 — https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/
+
+X A Deadline report says Paramount Pictures is working with CD Projekt Red on a live-action movie set in the Cyberpunk 2077 universe, with Lorenzo di Bonaventura, whose previous films include a pile of Transformers movies, a couple GI Joe flicks, and the 2005 Doom movie starring The Rock, attached to produce. CD Projekt Red co-CEO Michał Nowakowski confirmed the report on X : (Image credit: Michał Nowakowski (Twitter)) There's really no more detail at this point, so instead of talking about that I'm going to take a hard swerve and remind everyone that the perfect cyberpunk movie already exists, and it even stars Johnny Silverhand himself, Keanu Reeves—as another guy named Johnny who's having a rough time in the cyber-future, believe it or not. It's called Johnny Mnemonic, and folks, it is cinema . Johnny Mnemonic, based on a William Gibson short story of the same name, came out in 1995 and is set in the year 2021, which as you may know has already come and gone. Reeves plays a "mnemonic courier" who transports sensitive information in his head—he can carry nearly 80 gigs of data!—because the internet is an insecure digital goat rodeo filled with scammers, grifters, hackers, and various other forms of criminal lowlife. (The movie sure got that right, at least.) Johnny (Mnemonic, not Silverhand) takes on a high-risk, high-reward mission, which naturally goes south almost immediately: He's hunted by the yakuza, betrayed by his handler, rescued by a sexy cyborg, gets his ass beat
+
+### Don't worry, Valve: I've got your next Deadlock character concepts sorted
+Fri, 09 Oct 2026 19:41:12 +0000 — https://www.pcgamer.com/games/moba/dont-worry-valve-ive-got-your-next-deadlock-character-concepts-sorted/
+
+Deadlock is one of the most delightful things happening in videogame art direction. It's a festival of phenomenal vibes: a striking setting, an all-timer aesthetic that bleeds into every scrap of environmental art and UI element, and—crucially—a roster of instantly charming occult character designs. That roster, however, is missing something—a few somethings, in fact. While Deadlock's heroes cover a broad spectrum of the spooky and supernatural, it's got some glaring gaps where foundational elements of cryptozoology and occult lore are sorely overlooked. But don't fret, Valve designers: I've done your next round of ideation for you. I've prepared some promising character concepts that, I think we'll all agree, will realize the Cursed Apple's untapped potential. Let's begin: The Summer Mummy (from Heathcliff) (Image credit: Creators Syndicate, Inc.) Deadlock's already got draculas. It's got werewolves. It's got a Frankenstein. When you're already this deep in monster mash territory, a mummy's a layup. It's Spooky Stuff 101. The problem, however, is that it's not enough to be just a mummy in New York. New York is where they make cool people. If you're going to hang with the Cursed Apple's finest, you're going to need style. Enter the Summer Mummy, a character first introduced in Heathcliff—the comic strip about the orange cat who isn't Garfield—on August 17, 2023 . The Summer Mummy is much like your typical bandaged revenant, except chill and fun. He wears floral boardshorts. H
 
 ### Leisure Suit Larry is about to take his final bow
 Fri, 09 Oct 2026 18:20:12 +0000 — https://www.pcgamer.com/games/adventure/leisure-suit-larry-is-about-to-take-his-final-bow/
@@ -378,27 +398,22 @@ Fri, 09 Oct 2026 15:05:37 +0000 — https://www.pcgamer.com/hardware/motion-blur
 
 We've been running a knockout tournament that puts graphical effects in games against one another in a fierce battle of public opinion. Each round saw two effects go head to head, and only one made it out to fight another day. We whittled it down to just two effects, chromatic aberration and motion blur, and after 7,000 votes cast across the tournament, we can finally declare the effect that sucks the most with near-scientific certainty: It's motion blur. By an absolute landslide. Which is worse, chromatic aberration or motion blur? Here are the results of the poll. We received close to 2,000 entries. Votes (%) Chromatic aberration 20 Motion blur 80 0 20 40 60 80 Percentage Votes (%) Data Product Value Chromatic aberration 20 Motion blur 80 Not to completely disenfranchise our engaged readers or make the past couple of weeks putting these together a complete and utter waste of time for yours truly, but it was always going to be motion blur. I knew this. You knew this. We all knew this—deep down in our heart of hearts. Motion blur You'll have to take my word for it that both of these screenshots were taken as I aimed swiftly to the side in Hunt: Showdown. The difference is day and night. on off In previous rounds, I left you lot to "well, actually" in the comments section, and boy, did we get a lot of discussion on these articles. I've seen the highs and lows of human emotion down there. Raw, unadulterated passion for game effects, that's what I'd describe it as. Anyways, this
 
-### When the weather turns foul in Arc Raiders' Pendola Pass, take a trip to a Storm Hut—they're some of the best loot spots I've found
-Fri, 09 Oct 2026 15:00:49 +0000 — https://www.pcgamer.com/games/third-person-shooter/when-the-weather-turns-foul-in-arc-raiders-pendola-pass-take-a-trip-to-a-storm-hut-theyre-some-of-the-best-loot-spots-ive-found/
-
-Arc Raiders ' Pendola Pass is packed to the gills with loot. No matter where you search, you're likely to come away with some rare items, whether you're smashing open iced up doors to get into sealed rooms, or climbing into hard-to-access spots with the Grappling Hook and yoinking everything not nailed down. But some of the best loot spots I've found are the Storm Huts. Pendola Pass has a special weather condition called Flash Freeze where a snow storm randomly moves in and you start taking damage after a while, similar to the previous Cold Snap map condition. You'll also hear an emergency broadcast over loudspeakers explaining that the temperature outside is deadly, and special shelters are being opened up. Storm Huts only open and appear as map icons when the Flash Freeze hits Embark Studios But they contain a lot of loot, including new crafting materials Embark Studios These are the Storm Huts and they won't appear on your map until the Flash Freeze occurs. Even if you find one, the door will be sealed, so they're only accessible when the cold hits. You might be thinking, well, I can shelter in any building, right? True, but these Storm Huts are also little loot rooms and they're one of the only places so far that I've found some of the more vague outpost crafting materials, like the Epoxy Bucket, Insulation Roll, and the Radial Press. I even got a Mountaineer Detector, a Riven Tides-style metal detector for snow I've never seen anywhere else so far. They also usually cont
-
-### Counter-Strike 2 player dedicates Master's thesis to rooting out cheaters, creates grade A player tracking system
-Fri, 09 Oct 2026 14:59:39 +0000 — https://www.pcgamer.com/hardware/counter-strike-2-player-dedicates-masters-thesis-to-rooting-out-cheaters-creates-grade-a-player-tracking-system/
-
-Cheating: it's why we can't have nice things. Whether your online shooter of choice is beset by players targeting you through walls, or you're a Linux user who would definitely be playing more games were it not for kernel-level anti-cheat systems , the actions of a few spoil the fun for many. Banning cheating players is the obvious thing to do, but what's to stop bad eggs making fresh accounts? A student at the Norwegian University of Science and Technology has a few ideas. Named Christopher B. Didriksen, the student even based his Master's thesis on one possible biometric-based solution. Sharing some of his research findings on Reddit , Didriksen explained that players in Counter-Strike 2 can be differentiated based on how they use their mouse and keyboard in-game. Based on these movements, repeat offenders could then be identified and banned for good. The researcher analysed a number of 'demos' resulting from competitive CS2 matches. Using the two separate signals from a player's mouse and keyboard during these demos, a 'fingerprint' can be identified that "stays stable across maps, sessions, settings [...] across matches played months apart, and across a sensitivity change from 800 to 640 eDPI." By the sounds of it, you will shine through no matter what bargain bucket peripheral you may use to game. In a dataset of more than 1,000 players, mouse movement biometrics correctly identified players "every time [...] but often only by a fine margin," and keyboard use "picked out
-
-### How to get planks and sheet metal in Arc Raiders
-Fri, 09 Oct 2026 13:57:20 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-planks-sheet-metal-location/
-
-The easiest way to get both is to buy them from Celeste Embark Studios Looting drawers and cupboards in residential areas like Pendola Pass's Old Town is good for planks Embark Studios These yellow drawers in Stella Montis' Assembly area seem to be a guaranteed sheet metal drop Embark Studios Key deets 🛠️ You can buy planks and sheet metal from Celeste. 🛠️ Or find them in residential/old world and technological/industrial areas respectively, though they can appear anywhere it seems. You'll need to find the new plank and sheet metal items in Arc Raiders for the new Sheltered Retreat project, after you've taken a picture of the Ruined Homestead , and are ready to start committing resources. There are a few ways to get both items: Celeste sells planks and sheet metal for three seeds a piece. You can find loads of planks in residential and old world areas, particularly in the houses in Old Town in the southwest of Pendola Pass, as well as research items and furniture blueprints, too. You can find loads of sheet metal in technological and industrial areas, such as the Assembly and Loading Bay in Stella Montis, where every yellow drawer container (pictured above) seems to be a guaranteed drop for sheet metal. You can also find planks and sheet metal in other areas, though less frequently. Thankfully, you don't need much for the project, so you might want to simply spend the 24 seeds required to just buy them all from Celeste. Arc Raiders guide : What's hot this week Arc Raiders r
-
-### Does Razer's 'Perfect 180' insta-turning mouse feature count as cheating? You decide
-Fri, 09 Oct 2026 12:42:55 +0000 — https://www.pcgamer.com/hardware/gaming-mice/does-razers-perfect-180-insta-turning-mouse-feature-count-as-cheating-you-decide/
-
-Razer's new Basilisk V4 Pro and V4 HyperSpeed gaming mice are here, and with them comes a controversial new software feature: Perfect 180, an option that allows you to assign a quick 180 degree turn to a mouse button. Which, as Razer puts it, 'gives competitive FPS players the edge to react to threats from any direction.' The feature is said to be designed for low-sensitivity players , who would otherwise struggle to turn around to face a threat behind them at speed. By the looks of the Synapse screenshots, Perfect 180 can be configured for specific games—and allows the player to spin in either direction, with the option to tweak the count configuration. I'll be honest—if I saw a player spin round near-instantly to blast me in a multiplayer shooter, I'd likely be calling "hax" at the earliest opportunity. I come from the old school of gaming, where movement responses like this were a sure sign someone was running a third-party aim assist. Which, back in my day, was considered cheating. And still is. This is an official Synapse feature, though, not some shady program downloaded from a dodgy website. Razer seems quite pleased with it, but the whole thing has echoes of the SOCD/Snap Tap debacle not so long ago. (Image credit: Razer) I suppose, if I was being charitable, I could point out that you'd often have to aim even after you've flipped around 180 degrees, so it's not an aim assist per se . More of a turn assist. A Snap Twist, if you will. Still, it's a gaming movement-enha
-
 ## GameSpot
+
+### Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027
+Sat, 10 Oct 2026 00:30:00 +0000 — https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/
+
+Today at New York Comic Con, Wizards of the Coast announced the first 2027 Universes Beyond expansion set for Magic: The Gathering. Marvel’s Darkhold Destiny will pit Doctor Strange, Thor, Ghost Rider, and more against cosmic villains like Hela and Dormammu in 2027. The set will include normal and Collector booster packs, and four pre-constructed commander decks themed around Marvel heroes and villains, including the Midnight Sons. Multiple cards were shown during the hour-long panel, including Magic, who transforms into Darkchild, Gargantos, and the titular Darkhold. Darkhold Destiny tells an original story co-created by designers at Marvel and Wizards of the Coast. Along with that story, a brand-new character created for this set will be introduced in a Marvel Infinity comic series starting in February. Mechanics include Vengeance, an Adventure-like gameplay feature that lets you cast spells from your graveyard and return the permanent it's attached to back to the battlefield, and the return of the Arcane subtype for spells. Darkhold Destiny launches April 9 in big-box retailers and local game stores.
+
+### Let s All Be Happy This AAA Minesweeper Game Isn t Real
+Fri, 09 Oct 2026 23:23:44 +0000 — https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/
+
+Minesweeper has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like. The Triple-A Minesweeper was created by writer and programmer Mike Lacher, and it's fully playable as a browser game on his site . Aside from the intentionally pretentious title cards touting the involvement of Unreal Engine, Nvidia, Bink Video, and Wwise, Triple A Minesweeper looks and plays almost exactly like the regular Minesweeper. However, the best way to enjoy this parody is by simply not doing anything at all. The main character, "Sweeper," will sit around and repeat things like, "I gotta sweep these mines," while receiving calls from newly created characters in the game. Lacher seems to have taken his inspiration from Grand Theft Auto 5, Metal Gear Solid, and even Cyberpunk 2077. Among the callers are Nora, a potential love interest for Sweeper. Additionally, an underworld figure called The Don repeatedly calls for Sweeper to head down to his club while hinting at the latter's sinister past in Singapore. Meanwhile, the chipper DJ Dan celebrates Sweeper's efforts on behalf of New Dawn City. In another amusing touch, Sweeper never acknowledges any of the other characters and keeps repeating the same lines over and over. It is possible to complete the game, which triggers a twist ending that probably wasn't that difficult to predict. Although Lacher leaves the pa
+
+### Call Of Duty: MW4 Early Access Also Includes DMZ, Here s How To Get In
+Fri, 09 Oct 2026 19:17:24 +0000 — https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/
+
+Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well. Activision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, which is three days before the game launches. Campaign early access, meanwhile, starts on October 16. How to get in To access DMZ mode before everyone else, you need to preorder any edition of MW4, including the standard or Vault versions. The perk applies to all platforms: PS5, Xbox Series X|S, Switch 2, and PC. What is DMZ? Described as the "definitive extraction shooter experience," DMZ in MW4 is an open-world game mode featuring other human players and AI combatants. Players will search the map for loot, craft gear, and complete objectives. Like in other extraction-based games, you need to reach the exfil point to make it out with all your rewards. https://www.youtube.com/watch?v=SV5vKAAkQkQ DMZ originally debuted with 2022's MW3 as a free-to-play beta inside Warzone, but this version left a lot to be desired. The new version of DMZ for MW4 seems like a big step up , and it includes a new social space this time as well. For lots more, be sure to read up on GameSpot's previous coverage of the new version of DMZ .
 
 ### Gears Of War: E-Day How s It Selling? Let s Unpack Things
 Fri, 09 Oct 2026 18:41:40 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/
@@ -445,22 +460,12 @@ Fri, 09 Oct 2026 10:52:17 +0000 — https://www.gamespot.com/articles/ghost-of-t
 
 The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. While details are still light on what the story will be, Hayate Inc . did confirm that actors Mayumi Saco and Shinya Fukumatsu will voice characters. Saco had previously voiced Tomoe in Ghost of Tsushima, a master archer and pupil of the renowned Sensei Ishikawa, while Fukumatsu lent his vocal talents to One-Punch Man, playing the martial arts master Bomb. Official poster artowrk for the Ghost of Tsushima Legends anime. For the crew working behind the scenes on this production, there's some big talent attached. Takanobu Mizuno (Star Wars: Visions "The Duel") will direct the anime, and it'll be produced at animation studio Kamikaze Douga (Batman: Ninja, Star Wars: Visions shorts). For the story, that's being handled by Gen Urobuchi (Psycho-Pass) and Renji Oki (Azur Lane). Rounding out key roles, there's also Keiji Inai as the anime's music composer, Yoshikazu Iwanami handles sound direction, and Gyousyou Suzuki brings their talent for calligraphy to the project. As for the source material video games, Ghost of Tsushima first hit the scene in 2020 for the PS4, and was later upgraded for PS5. Its sequel, Ghost of Yotei , launched in 2025 and also received a " Complete Edition " upgrade that adds the Echoes of Sekigahara expansion and bundles in the Legends multiplayer 
 
-### Ben Affleck Has Some Strong Opinions About Fortnite Skins And How Hard The Game Is For Him
-Thu, 08 Oct 2026 19:36:37 +0000 — https://www.gamespot.com/articles/ben-affleck-has-some-strong-opinions-about-fortnite-skins-and-how-hard-the-game-is-for-him/
-
-Have you ever wondered what two-time Oscar-winner Ben Affleck thinks about Fortnite skins, and the game generally? You can now rest easy, as the man himself has weighed in with some strong takes. Appearing on the New Heights podcast with brothers Jason and Travis Kelce, Affleck said he's a big gamer, and is particularly fond of first-person shooter games, so when he tried Fortnite, he thought he'd hold his own. That wasn't the case, though. He said not only did he get wiped out immediately, but the 12-year-olds he was playing against made fun of him after taking him out. Affleck said he got heated and shouted back at the kids: "I don't suck! I'm a grown man!" https://twitter.com/yonann/status/2108191229884133646 Affleck also told a brief story about how his son wanted Fortnite skins for Christmas, and he was shocked to learn the specific skins his son wanted cost hundreds of dollars. "They ain't even real? Just to wear in the game? That's bullsh**," Affleck said. Affleck is a big fan of the competitive shooter Valorant . In the movie Gone Girl, Affleck's character can be seen playing Battlefield 3 . Affleck is not the only person who has some strong words for the state of Fortnite. Writing for GameSpot, Phil Owen recently talked about why Fortnite sucks this season.
-
-### Ubisoft Shutting Down Rainbow Six Mobile After Less Than A Year
-Thu, 08 Oct 2026 19:11:11 +0000 — https://www.gamespot.com/articles/ubisoft-shutting-down-rainbow-six-mobile-after-less-than-a-year/
-
-Ubisoft has announced that Rainbow Six Mobile is shutting down, and it didn't have a very long life. The game soft-launched in 2023, but properly rolled out for everyone back in February 2026. It will shut down on January 16, 2027, so it will have been online for less than a year in its full state for everyone. "'We are proud of the passion, creativity, and dedication our team has put into the game," Ubisoft said. "One of the greatest parts of this adventure has been getting to experience it alongside you. We've loved seeing the memes, videos, strategies, tournaments, impossible plays, and all the countless moments that happened because you were here." The developers are going to move on to "other long-term strategic projects," but Ubisoft did not say what these may be. The studio will share more details on the game's final days in the coming weeks. "We are truly grateful to everyone who has played our game," the developers said. Rainbow Six Mobile pitched itself as a mobile version of the extremely popular Rainbow Six Siege, which continues to crush it more than a decade after release. The next Rainbow Six game is Rainbow Six Tactics, and it's coming next year. It's been a bumpy year for Ubisoft, as the company created a new organizational structure by way of its partnership with Tencent. As part of this, Ubisoft enacted mass layoffs, closed studios, and cancelled games .
-
-### Cyberpunk 2077 Is Getting A Movie Adaptation At Call Of Duty Film Studio, Transformers Producer On Board
-Thu, 08 Oct 2026 18:33:08 +0000 — https://www.gamespot.com/articles/cyberpunk-2077-is-getting-a-movie-adaptation-at-call-of-duty-film-studio-transformers-producer-on-board/
-
-Movie studio Paramount has announced that it's making a Cyberpunk 2077 movie, becoming just the latest upcoming game adaptation. The studio is also behind the Call of Duty movie that's set for release in 2028 . Deadline reported that Lorenzo di Bonaventura, known for his work on the super-popular Transformers movie series, is attached to produce. CD Projekt Red is on board as well to produce, which might make fans happy to hear. CD Projekt Red's Michał Nowakowski praised Paramount , saying the company shares the developer's ambitions. "We're excited about Paramount as a future partner who shares our creative ambitions for the Cyberpunk franchise. We look forward to sharing more details at the appropriate time," he said. Cyberpunk 2's associate game director, Paweł Sasko, said , "I’m beyond excited chooms." Cyberpunk 2077 is headed to the big screen. Not all Hollywood adaptations include their creators, as Larian has no involvement in the Baldur's Gate 3 TV show , while Naughty Dog dropped out of The Last of Us Season 3 on HBO , prompting fears about creative decisions. Paramount has been in the news a lot lately following the company's acquisition of Warner Bros. Discovery and combination of the two companies. Going forward, the parent company will be called Skydance. Presumably the Call of Duty and Cyberpunk 2077 movies are among those set for release in theaters, following Paramount's commitment to releasing at least 30 movies in theaters each year . It is very early days f
-
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 10 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403
+
+The descent into autumn continues: this week I slept with an extra blanket on the bed. I'm not into swapping the duvet out for the winter tog yet, I'll be holding off on that until at least December, but the laying of the first blanket is a true marker of autumn's arrival. Read more
 
 ### "It's not in the top five reference points": Afterworld isn't just a Fallout grand strategy game, say Paradox, it owes a lot more to the Bronze Age
 Fri, 09 Oct 2026 17:15:00 +0000 — https://www.rockpapershotgun.com/its-not-in-the-top-five-reference-points-afterworld-isnt-just-a-fallout-grand-strategy-game-says-paradox-it-owes-a-lot-more-to-the-bronze-age
@@ -516,9 +521,4 @@ Welp, Cyberpunk 2077 is getting a live-action adaptation! With the plethora of H
 Thu, 08 Oct 2026 19:06:45 +0000 — https://www.rockpapershotgun.com/dave-the-diver-is-wrapping-up-its-dlc-plans-with-an-aquatically-appropriate-subnautica-2-collab
 
 I am not a huge fan of collaboration DLCs, mostly because my curmudgeonly self can only see them as attempts at multiple companies trying to profit off of one another's things. But I do have to admit that yes, the just announced collab between Dave the Diver and Subnautica 2 does make total sense. Certainly more sense than the Godzilla one from a couple of years back. Read more
-
-### The Witcher 3 Remastered's latest patch brings some bloomin' improvements to the game's bloom problems, amongst other lighting buffs
-Thu, 08 Oct 2026 18:30:00 +0000 — https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-brings-some-bloomin-improvements-to-the-games-bloom-problems-amongst-other-lighting-buffs
-
-A dev's work is never done, and certainly not with a big ole revamp like The Witcher 3 Remastered . CD Projekt Red put out a new patch today bringing in a range of fixes for the RPG , perhaps most notably sorting out some of the game's lighting issues, amongst other, PC-specific related problems to do with your GPU. Read more
 
