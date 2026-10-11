@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Character modelling: an older mesh re-weighted onto a newer skeleton inherits the newer bone lengths and pivot placements, so the silhouette drifts even where the texture is exactly right. The Night Elf chest-and-shoulder complaints are that drift being noticed."
     - "Scope: Skyborne arriving with no SD option, and its SD models reported for early 2027, says the toggle is a retrofit rather than a rule the character pipeline was built around from the start."
-draft: true
 ---
 
 A skeleton is not a skin. That sentence is the whole argument about World of
