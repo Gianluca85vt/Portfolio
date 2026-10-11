@@ -159,3 +159,10 @@ test('a tool tag only when the piece names the tool, five at most', () => {
   assert.ok(reel.reelTags(piece({ title: 'Blender on Android' })).includes('#blender'));
   assert.ok(reel.reelTags(piece({ title: 'Blender in Unreal with Houdini and Maya' })).length <= 5);
 });
+
+test('the reading is cut at a sentence, never mid-way', () => {
+  const take = 'Twenty years ago Gears taught a generation what a normal map looked like. The same franchise is now the first to ship it, and the footage shows a team working without the arithmetic they have carried since 2006.';
+  assert.equal(reel.sentences(take, 120), 'Twenty years ago Gears taught a generation what a normal map looked like.');
+  assert.equal(reel.sentences(take, 400), take);
+  assert.match(reel.sentences('One very long sentence without any stop at all that goes on and on', 30), /…$/);
+});

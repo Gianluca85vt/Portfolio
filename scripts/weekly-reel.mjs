@@ -91,7 +91,7 @@ export function plan(a, pictures) {
     const [area, text] = splitPoint(m);
     frames.push({ kicker: 'What does not', heading: area || 'What does not', body: clip(text, 230) });
   }
-  frames.push({ kicker: 'My read', heading: 'As a 3D artist', body: clip(a.take, 240) });
+  frames.push({ kicker: 'My read', heading: 'As a 3D artist', body: sentences(a.take, 240) });
   frames.push({
     kicker: 'Backdrop',
     heading: 'The full breakdown is on the blog',
@@ -142,13 +142,29 @@ export function reelTags(a) {
 }
 
 /** The caption to paste: the headline first, since it is what shows before "more". */
+/**
+ * Whole sentences from the start of a text, as many as fit in `max`. A reading
+ * cut off at "since…" reads as a mistake in a caption he pastes as his own;
+ * only a first sentence longer than the whole budget is cut mid-way.
+ */
+export function sentences(text, max) {
+  const all = String(text).trim().match(/[^.!?]+[.!?]+(?=\s|$)/g) ?? [];
+  let out = '';
+  for (const s of all) {
+    const next = `${out} ${s.trim()}`.trim();
+    if (next.length > max) break;
+    out = next;
+  }
+  return out || clip(text, max);
+}
+
 export function caption(a) {
   const areas = (list) => list.map((p) => splitPoint(p)[0]).filter(Boolean).slice(0, 3).join(', ');
   const tags = reelTags(a).join(' ');
   return [
     /[.!?…]$/.test(a.title) ? a.title : `${a.title}.`,
     '',
-    clip(a.take, 260),
+    sentences(a.take, 260),
     '',
     [areas(a.works) && `What works: ${areas(a.works)}.`, areas(a.misses) && `What doesn't: ${areas(a.misses)}.`].filter(Boolean).join(' '),
     '',
