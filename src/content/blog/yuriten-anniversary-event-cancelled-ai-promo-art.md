@@ -46,7 +46,7 @@ Ikebukuro, are both still going ahead. What died was the free launch event.
 ## The decorations are the part that stings
 
 <figure>
-  <img src="/img/blog/yuriten-anniversary-event-cancelled-ai-promo-art/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <img src="/img/blog/yuriten-anniversary-event-cancelled-ai-promo-art/shot-02.jpg" loading="lazy" width="1440" height="810" alt="The Hareza Ikebukuro complex in Toshima, Tokyo, where the cancelled kickoff event was to be held" />
   <figcaption>Hareza Ikebukuro, the complex the cancelled kickoff event was to be held in front of. Photographs by Beryllium Transistor and NickeldimeC, via Wikimedia Commons.</figcaption>
 </figure>
 
