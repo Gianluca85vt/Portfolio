@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Pipeline: the organisers describe an outside contractor as the route the imagery came in by, which means there was no provenance step at delivery. Asking for the layered source file costs nothing and catches this every time."
     - "Scope of the carve-out: a policy that protects the exhibition while leaving other promotions open to generated art still puts the generated work in front of the same audience, under the same logo."
-draft: true
 ---
 
 In English, only Anime News Network has reported this so far; the admission
