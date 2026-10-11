@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-10T18:00:25.631Z
+# Games — harvested 2026-10-11T11:01:06.015Z
 
 ## Eurogamer
+
+### "We have to go a different path" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale
+Sun, 11 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale
+
+Player Unknown's Battlegrounds is arguably one of the most important games to release in the past decade. If H1Z1 built the foundation of the battle royale genre, PUBG certainly shaped it into the form that remains hugely successful today. We would not have seen the battle royale craze of the late 2010s without it, and millions of people around the world wouldn't know the brutal arena thrills of red loot crates, welding helmets, and the clang of steel frying pans. Read more
+
+### GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game
+Sat, 10 Oct 2026 19:42:21 +0000 — https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak
+
+A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more
+
+### Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam
+Sat, 10 Oct 2026 19:09:19 +0000 — https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game
+
+Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more
 
 ### Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game
 Sat, 10 Oct 2026 11:44:06 +0000 — https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting
@@ -47,21 +62,6 @@ Fri, 09 Oct 2026 14:42:23 +0000 — https://www.eurogamer.net/forza-horizon-6-ps
 
 The reports were correct : Forza Horizon 6 has been delayed to 2027 on PS5. The PlayStation version had been expected this year - the PC and Xbox versions launched in May - but it will now launch in January. Read more
 
-### The Galaxies Showcase returns next week: here's how to watch it and what to expect
-Fri, 09 Oct 2026 14:22:47 +0000 — https://www.eurogamer.net/galaxies-showcase-2026-how-where-to-watch
-
-The Galaxies Showcase returns next week, on 15th October, boasting the most ambitious line-up it's had yet. It will feature games from more than 40 studios and publishers, both big and small, including the Square Enix Collective, Krafton, Embark Studios and many more. Read more
-
-### Gears of War: E-Day review
-Fri, 09 Oct 2026 13:59:57 +0000 — https://www.eurogamer.net/gears-of-war-eday-review
-
-Though there's still plenty of waist-high cover, ebb-and-flow firefighting, and braindead machismo, Gears E-Day proves that looking back can, indeed, help you look forward, too. Read more
-
-### More Cox in video games as Daredevil and Clair Obscur star says he's in an unannounced Sega title
-Fri, 09 Oct 2026 13:27:34 +0000 — https://www.eurogamer.net/charlie-cox-unannounced-sega-game-clair-obscur-daredevil
-
-British actor Charlie Cox, best known for being Daredevil in Marvel's Netflix series - but known closer to home as the voice of Gustav in Clair Obscur: Expedition 33 - has said he's just finished recording for a Sega game which hasn't been announced yet. Read more
-
 ## GamesIndustry.biz
 
 ### This should be game streaming’s moment. It's not | Opinion
@@ -79,31 +79,21 @@ Fri, 09 Oct 2026 12:54:02 +0000 — https://www.gamesindustry.biz/paramount-pict
 
 Paramount Pictures is adapting a live-action film set in the Cyberpunk 2077 universe. Read more
 
-### Video games aren't the enemy of kids' mental health – ignoring them is | Opinion
-Fri, 09 Oct 2026 11:01:00 +0000 — https://www.gamesindustry.biz/video-games-arent-the-enemy-of-kids-mental-health-ignoring-them-is-opinion
-
-Video games have become an easy target in conversations about young people's mental health, often without much understanding of the positive role they can play. Parents cite them as the cause of anxiety, isolation, and poor sleep. Researchers, meanwhile, keep finding that the picture is far from black and white. Games can be a lifeline for socially anxious kids, a coping tool for those with ADHD, a rare space where isolated teens feel competent and connected. Read more
-
-### Sony agrees to transfer over 400 global VR patents to Meta following December 2025 agreement
-Fri, 09 Oct 2026 10:50:02 +0000 — https://www.gamesindustry.biz/sony-agrees-to-transfer-over-400-global-vr-patents-to-meta-following-december-2025-agreement
-
-Sony has agreed to transfer 419 global VR patents to Meta, with 180 patents filed in the US under an agreement signed in December 2025. Read more
-
-### Avalanche Studio Group to globally publish, market, and distribute titles from Supermassive Games
-Fri, 09 Oct 2026 08:51:01 +0000 — https://www.gamesindustry.biz/avalanche-studio-group-to-globally-publish-market-and-distribute-titles-from-supermassive-games
-
-Nordisk Games has announced a publishing agreement between its subsidiaries Avalanche Studios Group and Supermassive Games. Read more
-
-### Ubisoft announces shutdown of Rainbow Six Mobile seven months after global launch
-Fri, 09 Oct 2026 07:44:35 +0000 — https://www.gamesindustry.biz/ubisoft-announces-shutdown-of-rainbow-six-mobile-seven-months-after-global-launch
-
-Rainbow Six Mobile is shutting down less than a year after its global launch. The free-to-play tactical shooter will remain available to play until January 15, 2027. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5 s Price Is the Problem
+Sat, 10 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem
+
+Average selling price almost an eye-watering $600. PS5 was the only system to see its dollar sales grow in Circana’s August sales report for the US games industry , but that doesn’t change the fact that Sony console sales are down 25% year-over-year for 2026 as a whole. In fact, PlayStation is enduring its worst year since 2013 , when the ageing PS3 was poised to be replaced by the much more successful PS4. Read the full article on pushsquare.com
+
+### BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release
+Sat, 10 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/blazblue-central-fiction-announced-for-ps5-a-decade-after-original-release
+
+With rollback netcode and PC crossplay. Arc System Works will bring its 2015 fighter BlazBlue: Central Fiction natively to the PS5 in the future, although a release date has not been announced. The port will feature a variety of highly requested community updates, including: rollback crossplay netcode with the PC release, four new text languages, and various improved training modes. Read the full article on pushsquare.com
 
 ### Dire Estimated Gears of War: E-Day Sales Raise Queries About Last-Minute PS5 Cancellation
 Sat, 10 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/dire-estimated-gears-of-war-e-day-sales-raise-queries-about-last-minute-ps5-cancellation
@@ -155,16 +145,6 @@ Fri, 09 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/wolver
 
 Remember: only predictions, for now. According to Ampere Analytics , tentpole Insomniac action game Marvel’s Wolverine sold about 2.16 million copies in September, making it the second best-selling PS5 game of the month, behind EA Sports FC 27 . (Obviously.) It looks like a soft number on the surface, especially when you consider this is accounting for around two full weeks of sales. (The title is likely to be frontloaded, partly due to its nature and also because it doesn’t have particularly glowing word of mouth behind it.) Read the full article on pushsquare.com
 
-### Ghost of Tsushima s Anime Series Has Been Pushed Back to 2028
-Fri, 09 Oct 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/10/ghost-of-tsushimas-anime-series-has-been-pushed-back-to-2028
-
-New cast and crew announced. In case you forgot, PlayStation Productions is partnering with Aniplex and Hayate to create an anime series based on Ghost of Tsushima . Well, it's going to be a longer wait than originally planned. Crunchyroll — which will exclusively stream the anime on release — has announced it has been delayed into 2028, having previously been pencilled in for 2027. Read the full article on pushsquare.com
-
-### Another PS Portal Firmware Update Is Now Available, Just Two Weeks After the Last
-Fri, 09 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/another-ps-portal-firmware-update-is-now-available-just-two-weeks-after-the-last
-
-Is something brewing? Sony has released another firmware update for the PS Portal, only two weeks after the previous one . It's worth noting because updates like this are rarely so close together. The portable streaming device is now up to system software version 7.3.0, with the update itself being rolled out in phases. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Ubisoft to sunset Rainbow Six Mobile just seven months after launch
@@ -176,11 +156,6 @@ The tactical mobile shooter was only globally released earlier this year.
 Fri, 09 Oct 2026 14:49:18 GMT — https://www.gamedeveloper.com/business/report-double-fine-s-union-drive-collapsed-under-miscommunications-and-culture-clash
 
 It appears the question of union eligibility crashed headlong into Double Fine Productions' decades-old company culture.
-
-### Trump administration suspends Microsoft's ability to apply for green cards, alleging fraud
-Thu, 08 Oct 2026 18:05:00 GMT — https://www.gamedeveloper.com/business/trump-administration-suspends-microsoft-s-ability-to-apply-for-green-cards-alleging-fraud
-
-The tech giant is no longer able to apply for H1-B visas for employees who come to live and work in the United States, potentially stymieing Xbox hiring.
 
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.com/events/untitled
@@ -198,6 +173,11 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 no date — https://www.gamedeveloper.comconference.godotengine.org
 
 ## VGC
+
+### Group threatens to leak full GTA 6 build if physical plans aren t reversed
+Sun, 11 Oct 2026 10:35:55 +0000 — https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/
+
+The 'Cyberleek' is threatening its biggest Grand Theft Auto 6 leak yet, if its demands aren' Source
 
 ### DD2 Dark Arisen: Hal’s Treasure Hunt quest guide
 Sat, 10 Oct 2026 15:23:03 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-hals-treasure-hunt-quest-guide/
@@ -244,64 +224,74 @@ Fri, 09 Oct 2026 20:03:15 +0000 — https://www.videogameschronicle.com/guide/dd
 
 How to break the magick shields of the Blackdog enemies in Dragon's Dogma 2: Dark Arisen… Source
 
-### DD2 Dark Arisen: Flight in the Night quest guide, all Ilda item locations
-Fri, 09 Oct 2026 17:28:16 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-flight-in-the-night-quest-guide-all-ilda-item-locations/
-
-How to reach the Winterweed Blossom and find the Coldstools in Dragon's Dogma 2: Dark Arisen… Source
-
 ## Polygon
 
-### 10 Essential GameCube Games Still Missing From Switch Online
-Sat, 10 Oct 2026 18:00:17 GMT — https://www.polygon.com/best-gamecube-games-missing-nintendo-switch-online/
+### Stephen King's Favorite Stephen King Movie, That Critics Hated, Is Officially on Netflix
+Sun, 11 Oct 2026 11:00:17 GMT — https://www.polygon.com/stephen-king-the-boogeyman-adaptation/
 
-GameCube games have been available on Nintendo’s Switch Online service for well over a year at this point (at least for those who subscribe to the Expansion Pack add-on). But despite the GameCube’s robust catalogue of terrific games, the Switch Online offerings remain slim.
+Stephen King has never hidden his contempt for movie adaptations of his books that he felt failed to live up to the source material. His reasons range from thinking they are exploitative and crude (as he did with Ralph S. Singleton’s Graveyard Shift ), to feeling they ignore the original novel’s themes (Paul Michael Glaser’s The Running Man ).
 
-### Disney World and Disneyland Official Price Surge Concerns Attendees
-Sat, 10 Oct 2026 17:34:51 GMT — https://www.polygon.com/disney-world-disneyland-price-surge-october-2026/
+### 65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece
+Sun, 11 Oct 2026 10:00:15 GMT — https://www.polygon.com/best-peanuts-comic-strip-ever/
 
-Disney has raised ticket prices at both Disneyland and Disney World parks. Not all ticket types have been affected by these changes, however. There are still options that allow fans to visit the theme parks for a more affordable price.
+Seventeen thousand, eight hundred and ninety-seven. That’s how many Peanuts comics Charles Schulz created over the 50 years that he wrote and drew his beloved comic strip. Peanuts debuted on Oct. 2, 1950, began publishing Sunday strips on Jan. 6, 1952, and concluded its legendary run on Feb. 13, 2000. That’s a heck of a lot of comics, which makes determining the very best one — which I attempted to do here — a rather daunting task.
 
-### Black Clover is Officially Crunchyroll's Most-Liked Anime Of The Year
-Sat, 10 Oct 2026 17:01:28 GMT — https://www.polygon.com/black-clover-season-2-premiere-most-liked-crunchyroll/
+### 5 Perfect Animated Movies on Netflix Better Than 'KPop Demon Hunters'
+Sun, 11 Oct 2026 06:30:16 GMT — https://www.polygon.com/netflix-animated-movies-like-kpop-demon-hunters-better/
 
-The second season of the Black Clover anime premiered on October 3, and in the week since its release, it has set a record on the anime streaming service Crunchyroll. As it stands, the first episode of Black Clover Season 2 is the most-liked anime premiere of 2026.
+KPop Demon Hunters debuted on Netflix in June 2025, and in short order, everyone lost their minds. The movie received hundreds of millions of views and even made its way into theaters , a very rare feat for a Netflix Original that started out on the streaming platform. The phenomenon was so big and so unexpected that retail companies are still scrambling to capitalize on it with merchandise like Lego sets and video games .
 
-### 59 Years Later, Star Trek's Definitive Time-Travel Episode is Getting a Major Update
-Sat, 10 Oct 2026 17:00:17 GMT — https://www.polygon.com/star-trek-city-on-the-edge-of-forever/
+### Gary Larson's 10 Greatest 'Far Side' Comics, Ranked
+Sun, 11 Oct 2026 05:04:16 GMT — https://www.polygon.com/gary-larson-best-far-side-comics-ranked/
 
-Some television episodes eventually become bigger than the shows they’re a part of. “The City on the Edge of Forever” isn't quite bigger than Star Trek , but nearly 60 years after it first aired, it remains one of the franchise's most celebrated hours.
+What, exactly, is the measure of greatness when it comes to comic strips ? The daily newspaper comic is a very limiting art form, with only a few panels — sometimes just one panel — to make a joke. Because of its brevity, it's easy to trivialize the medium as simply the “funny papers,” a daily, disposable art form designed to pick you up after reading the actual news.
 
-### 7 Final Fantasy Games That Deserved Better
-Sat, 10 Oct 2026 16:57:49 GMT — https://www.polygon.com/ff-final-fantasy-games-underrated-overlooked/
+### Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise
+Sun, 11 Oct 2026 04:00:23 GMT — https://www.polygon.com/the-guest-halloween-countdown-2026/
 
-Trick question: How many Final Fantasy games are there? Sure, Square Enix has made plenty of sequels and spinoffs over the years in addition to the mainline 16 games. But you might not realize there’s been more than 100 Final Fantasy games since the series got its start on the NES back in 1987. Even if you’re a series superfan, odds are you haven’t played most Final Fantasy games.
+Wingard's latest also came with an intriguing caveat that may have been a turnoff for casual theatergoers: Onslaught exists in a shared universe with his previous indie horror flick, The Guest.
 
-### 7 Switch 2 Characters Nintendo Should Add to the Next Super Smash Bros.
-Sat, 10 Oct 2026 16:41:25 GMT — https://www.polygon.com/switch-2-super-smash-bros-character-predictions/
+### 13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line
+Sun, 11 Oct 2026 03:00:16 GMT — https://www.polygon.com/game-of-thrones-best-littlefinger-quote/
 
-We’re well over a year into Nintendo’s Switch 2 era , and the hits keep on coming. Games like Donkey Kong Bananza , Pokémon Pokopia , and Splatoon Raiders have helped to reinvent Nintendo’s most reliable franchises, while games like Fire Emblem: Fortune's Weave have only increased the quality bar for stalwart ones. The extent to which things have changed may not be apparent yet, but they’ll be crystal clear once Switch 2 gets its all-but inevitable next Super Smash Bros. game.
+If you’re a fan of everything George R.R. Martin wrote related to Game of Thrones , you’ll know the iconic fantasy series doesn’t pull its punches when it comes to phenomenal quotes. You have the iconic words of House Stark, “Winter is coming,” as well as the unnerving and brutal “Power is power” from Cersei Lannister. No matter which Game of Thrones character is your favorite, they'll eventually say something poetic.
 
-### WandaVision Creator Set To Develop New Stargate Series
-Sat, 10 Oct 2026 16:01:56 GMT — https://www.polygon.com/stargate-new-amazon-mgm-series-jac-schaeffer/
+### 26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed
+Sun, 11 Oct 2026 01:00:15 GMT — https://www.polygon.com/buffy-the-vampire-slayer-episode-xander/
 
-After a failed attempt, Amazon MGM Studios is once again developing a Stargate series. According to Variety , the company is bringing on Jac Schaeffer, the showrunner of one of Disney Plus's most successful shows, WandaVision .
+Xander’s status as the quintessential “comic relief” has often been tainted with a sense of “nice guy” entitlement and instances of flippant misogyny. Compared to Willow (Alyson Hannigan) or Cordelia (Charisma Carpenter), who are brilliant examples of dynamic character growth, Xander’s arc feels relatively stagnant. There’s an inconsistency in his emotional maturity, while the writing has often allowed him to shirk accountability in a meaningful way.
 
-### Avatar: Seven Havens is a brilliant take-down of Korra's biggest haters
-Sat, 10 Oct 2026 16:00:16 GMT — https://www.polygon.com/avatar-seven-havens-korra-haters-are-wrong/
+### Blade Runner 2099's New York Comic Con Trailer Teases A New Replicant Conspiracy
+Sat, 10 Oct 2026 23:45:16 GMT — https://www.polygon.com/blade-runner-2099-new-york-comic-con/
 
-The Korra series finale — as later seen in high-definition under normal connection speeds — is still one of my favorite endings (and favorite TV shows) of all time. But it’s hard to ignore the flaws; from a slashed budget that forced the animators to rely on still images for some pivotal scenes instead of fluid animation, to a planned kiss between Korra and Asami that studio executives rejected in favor of some charged hand-holding , the finale leaves a lot to be desired. A small but vocal contingent of fans who rejected the premise of a rebellious young female Avatar as a replacement for the lovable and exuberant boy wunderkind Aang from Avatar: The Last Airbender cast a dark cloud over the whole enterprise. Even for Korra 's biggest fans, the overall experience of Korra was an imperfect one.
+At New York Comic Con, Prime Video premiered a new trailer for Blade Runner 2099 , which will come out next month. The new trailer offers up a deeper look at one of the show's central mysteries and the relationship between Hunter Schafer's Cora and Michelle Yeoh's Olwen.
 
-### I Have Discovered The Best Game Soundtrack of 2026 and It Is Super Woden: Rally Edge
-Sat, 10 Oct 2026 15:31:42 GMT — https://www.polygon.com/super-woden-rally-edge-game-music-best-2026/
+### 2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date
+Sat, 10 Oct 2026 23:30:16 GMT — https://www.polygon.com/in-a-violent-nature-2-horror-movie-release-date-shudder/
 
-Video game soundtracks are pretty respectable these days. Earlier this year, I watched James Bond composer David Arnold take the stage at the BAFTA Games Awards and pay tribute to the medium before presenting an award to Toma Otowa for the Ghost of Yōtei soundtrack. After a sustained campaign for recognition by a PR friend of mine, UK classical music radio station Classic FM now frequently plays video game scores. It's small wonder, really; game music concerts now regularly sell out, which must be a boon for classical venues and musicians everywhere (even if they were used as a punchline in Tár ). Zelda tickets , anyone?
+Horror fans are currently in the midst of Spooky Season, but there are plenty of slasher scares still on tap for the winter. That includes the highly anticipated sequel to 2024's In A Violent Nature , the inventive microbudget slasher movie that puts a twist on the supernatural serial killer formula.
 
-### Grand Theft Ocarina Could Be Gaming's Barbenheimer
-Sat, 10 Oct 2026 15:00:18 GMT — https://www.polygon.com/switchboard-gta-6-zelda-grand-theft-ocarina-barbenheimer/
+### Forget John Wick, the Ultimate Action Thriller of the Century Is Officially Streaming on Netflix
+Sat, 10 Oct 2026 23:00:16 GMT — https://www.polygon.com/the-equalizer-is-streaming-on-netflix/
 
-Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+Some of my favorite movies are about ordinary dudes who turn out to be a nightmare for anyone dumb enough to cross them. Pierre Morel’s Taken twisted Liam Neeson into the patron saint of revenge. Then came John Wick with an angry Keanu Reeves to perfect that very specific formula. More recently, Nobody proved there’s still plenty of mileage left in watching a highly dangerous man decide retirement isn't for him, especially when you add a bit of levity to it.
 
 ## PC Gamer
+
+### It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives
+Sun, 11 Oct 2026 10:31:02 +0000 — https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/
+
+Typical, isn't it? You wait ages for new information on a Chris Roberts-directed space combat sim, and then two lots come along at once. Less than 24 hours after Cloud Imperium Games surprise-released a glossy trailer for Star Citizen 's single-player spinoff Squadron 42, it now appears that Roberts' 1994 classic Wing Commander 3 is getting a remaster courtesy of EA. The project is headed up by EA producer Jim Vessella, who revealed the remaster during a presentation at the Portland Retro Gaming Expo . The remaster will include cutscenes based on Wing Commander 3's original FMV recordings, after Vessella discovered 600 source tapes while digitising EA's video archive. In a post on Bluesky, Steve Lin, a board member of the Video Game History Foundation , shared an image of Vessella's talk , which shows a projector slide detailing the remaster's features. The remaster is called Wing Commander 3: Heart of the Tiger—30 th anniversary edition. A slightly unfortunate name, given Wing Commander 3's was released 32 years ago. As for those features, the slide says the remaster will include both source and upscaled versions of the game's FMVs, and will include "Kilrathi Saga integration"—which presumably means it will bundle in Wing Commanders 1 & 2 and their various expansion packs. The remaster will also run at 60 FPS and—in additional details shared by Lin —will feature controller support and will be released on Steam, GOG, and the EA app. Re-release of Wing Commander III coming out
+
+### GTA 6 leaker threatens to upload a build with 'full story mode'
+Sat, 10 Oct 2026 23:32:29 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/
+
+Cyberleek has been uploading footage of Grand Theft Auto 6 since August, most recently a 25-minute video featuring co-protagonist Jason totally nude . Given that GTA 6's November 19 release is just over a month away, on console at least, it seems natural that interest in these kinds of leaks would wane. Cyberleek has found a new way of generating hype: promising to leak a build of the game if their memecoin's marketcap goes up another $26 million or so. "Here's the deal, nice and clean. CYBERLEEK hits 30 million marketcap, the build goes out – full story mode, played to the end, credits and all. Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick." The other half of the deal suggests that publisher Take-Two Interactive could prevent this by releasing GTA 6 physically and apologizing, presumably for not releasing it on discs in the first place. Which will never happen, but does fit with Cyberleek's previous history of cosplay Robin Hood consumer rights complaints. We know that Cyberleek has access to a playable build since one of the previous leaks ended with the word LEEK being machinegunned into a wall to prove the point. But an early build of GTA 6 seems like the worst possible way to play it on PC, though after the Xbox streaming thing turned out to be a bust , may
+
+### Squadron 42 has a Steam page
+Sat, 10 Oct 2026 22:25:54 +0000 — https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/
+
+In August, game director Chris Roberts said that Star Citizen's singleplayer component, Squadron 42, was being delayed out of 2026 to avoid clashing with Grand Theft Auto 6 . There was a certain amount of skepticism about the reason for the delay, thanks in part to a recent Star Citizen livestream being declared a disaster , but also because, well. These games have had so many release dates the changes have their own wiki page . There's something concrete about having Squadron 42 getting a Steam page though, with system requirements and everything. Those system requirements are charmingly old-fashioned, with no mention of ray tracing-capable GPUs or DirectX 12. Although the install size of 150GB is still pretty hefty. ( Final Fantasy 7 Revelation is apparently going to be 200GB , oof.) There's also a new trailer, which leans heavily on the oorah stuff that's always a bit of a turn-off in military science-fiction. Privateer was my favorite Wing Commander game because it left out all the Top Gun nonsense, but of course it's front-and-center in Squadron 42. So too are the celebrity actors, with appearances by Mark Hamill, Gary Oldman, Rhona Mitra, that guy who played the Onion Knight in Game of Thrones, and other people who probably filmed most of their scenes a solid decade ago now. We also get to see a fair bit of the male version of the player-character, who will doubtless BroShep his way into most of the promos even though I'll be picking the one voiced by Alix Wilton Regan 
 
 ### Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard
 Sat, 10 Oct 2026 16:55:26 +0000 — https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/
@@ -347,21 +337,6 @@ Certain ideas that crop up every so often in games will always grab my attention
 Sat, 10 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/
 
 Here's a truth no one but I am willing to admit: Mafia 3 was good, actually. Please disregard PC Gamer's 54% Mafia 3 review . I don't know what happened there. Possibly Andy Kelly put the wrong game disc in by mistake. I understand they were still using game discs in 2016, alongside gramophones, the telegram, wax cylinders and what have you. It's now 10 years old, which is deeply troubling, but earlier this week it got a new patch. "We're honouring a decade of Lincoln's legacy with a new Steam update bringing quality-of-life enhancements to Mafia 3: Definitive Edition, live now," says Hangar 13. Don't expect anything gargantuan. If you bounced off Lincoln Clay's stylish and impeccably soundtracked (though, yes, a little repetitive, I will grudgingly admit) crusade against '60s mafioso racists back in the day, this probably won't lure you back in. Nevertheless, there are some nice changes here, and the ones that the devs give a particular spotlight are less janky mission progress, better NPC behaviour, and better achievement tracking. That last one is self-explanatory, but for mission progress, the various little hitches that could interfere as you made your way through Mafia 3's main story have now been tended to: "We addressed several spots where players reported getting stuck and unable to make progress in missions like 'Get Enzo Conti,' 'Kill Tommy Marcano,' and the Epilogue" as well as some other mid-mission crashes that could occur. Meanwhile, the fixes to NPCs should me
-
-### 2026's OLED monitors can nearly recreate the sublime clarity of a '90s CRT, but Windows will have to change before we can achieve true nirvana
-Sat, 10 Oct 2026 00:20:52 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/2026s-oled-monitors-can-nearly-recreate-the-sublime-clarity-of-a-90s-crt-but-windows-will-have-to-change-before-we-can-achieve-true-nirvana/
-
-The 2007 season finale of TV phenom Lost ended with an all-timer twist: What had seemed like the show's routine flashback storyline, filling in the events that preceded its characters ending up in island purgatory, was actually a flash forward . Protagonists Jack and Kate were somehow safe in Los Angeles after three seasons of being stuck on the mysterious island. Escaping had been the whole point of the show—or so we thought, until a broken Jack cried "We have to go back!" This is now how I feel about, frankly, a lot of technology. Not long before that episode aired I'd gleefully dropped $1,000 on my first HD display, a 26-inch 1366x768 Samsung LCD that served as my college dorm TV and doubled as my computer monitor. For the time it was state of the art, so much thinner and sharper and better than the CRT monitor still attached to the family PC. Or was it? Twenty years later, experts who are tuned into the minutia of display tech are still trying to get back what we lost. "People older than 40 will generally remember the motion clarity of CRTs, while younger people who've never seen a CRT will not remember," says Mark Rejhon, founder of the website Blur Busters . For years, Blur Busters' "Test UFO" browser tool, starring a little green man in a red saucer, has served as the de facto way to judge the clarity of objects in motion on modern displays. Compared to older CRT monitors, the LCDs of the mid-2000s were particularly terrible, their pixels taking an eternity to change f
-
-### 'Overcooked broke you apart and Stage Fright is there to put you back together'
-Fri, 09 Oct 2026 23:43:13 +0000 — https://www.pcgamer.com/games/adventure/overcooked-broke-you-apart-and-stage-fright-is-there-to-put-you-back-together/
-
-I introduced Overcooked to two of my friends one day back in 2016. One day being the key phrase here. The Overcooked games are on our list of the best co-op games , but the series has a reputation for ruining relationships—in China it's apparently known as "The Divorce Kitchen". I don't recall actually fighting with my friends, but the tension was thick enough that we quickly went back to playing Jackbox instead. That makes Stage Fright, which is being published by No Man's Sky developer Hello Games, kind of an interesting pivot for Ghost Town Games. It's the next co-op adventure from the makers of Overcooked, but it's aimed at building relationships with your play partner instead of leaving you irked at them. Here's what Stage Fright's developers have to say about the tonal shift a decade later. (Image credit: Hello Games) "Overcooked broke you apart and Stage Fright is there to put you back together," said co-director Oliver De-Vine, when we spoke over Zoom in September. "I think there's a sense of us trying to be constructive with co-op, and trying to be a constructive and positive force in the world," De-Vine said. "Not that there's anything negative, necessarily, about having a fun argument with your friends! But we're trying to foster community in our games. [They're] about communication between people, and less about being very good with the fidelity of a controller." "It's exciting to us, the idea that the people who are good at our games are the ones who are good at 
-
-### Cyberpunk 2077 is being made into a movie, even though we've already got the perfect cyberpunk movie starring Keanu Reeves as a guy named Johnny
-Fri, 09 Oct 2026 21:54:26 +0000 — https://www.pcgamer.com/movies-tv/cyberpunk-2077-is-being-made-into-a-movie-even-though-weve-already-got-the-perfect-cyberpunk-movie-starring-keanu-reeves-as-a-guy-named-johnny/
-
-X A Deadline report says Paramount Pictures is working with CD Projekt Red on a live-action movie set in the Cyberpunk 2077 universe, with Lorenzo di Bonaventura, whose previous films include a pile of Transformers movies, a couple GI Joe flicks, and the 2005 Doom movie starring The Rock, attached to produce. CD Projekt Red co-CEO Michał Nowakowski confirmed the report on X : (Image credit: Michał Nowakowski (Twitter)) There's really no more detail at this point, so instead of talking about that I'm going to take a hard swerve and remind everyone that the perfect cyberpunk movie already exists, and it even stars Johnny Silverhand himself, Keanu Reeves—as another guy named Johnny who's having a rough time in the cyber-future, believe it or not. It's called Johnny Mnemonic, and folks, it is cinema . Johnny Mnemonic, based on a William Gibson short story of the same name, came out in 1995 and is set in the year 2021, which as you may know has already come and gone. Reeves plays a "mnemonic courier" who transports sensitive information in his head—he can carry nearly 80 gigs of data!—because the internet is an insecure digital goat rodeo filled with scammers, grifters, hackers, and various other forms of criminal lowlife. (The movie sure got that right, at least.) Johnny (Mnemonic, not Silverhand) takes on a high-risk, high-reward mission, which naturally goes south almost immediately: He's hunted by the yakuza, betrayed by his handler, rescued by a sexy cyborg, gets his ass beat
 
 ## GameSpot
 
@@ -420,12 +395,22 @@ Fri, 09 Oct 2026 12:11:07 +0000 — https://www.gamespot.com/articles/charlie-co
 
 Daredevil: Born Again actor Charlie Cox is starring in an upcoming video game, but it's not the first time he has lent his voice to one of these projects. At New York Comic-Con 2026, Cox revealed that he'd just finished recording his lines for a game that'll be published by Sega, but he didn't say which one. Hilariously, Cox mentioned that the game's crew was disappointed to find out he was English, not American. "I did another one! It doesn’t have a name yet," Cox said to IGN . "I did a Sega one. I've done one since. It hasn't come out yet. It was fun to do. It's hard. It's a whole different job, man. I'm not sure what I'm allowed to say, but I showed up for it, and I met them for the first time, they asked me to do this game, and so I agreed to it. Then I had to do 40 hours or whatever it was, and I showed up for the first day, and I was like, 'Hi guys, nice to meet you! How are you?' And all of them went, ‘Oh, he’s English.’ They’d hoped, they'd wanted him to be American. But now I've got to do 40 hours of lines I've not prepared in an accent. Yeah, I think they thought I was American." In a perfect universe, Cox is headlining Sonic Frontiers 2. So what game did Cox sign up for? It's probably not a Sonic the Hedgehog game, but if the gig involved him recording dozens of hours of vocals, that would suggest a narrative-heavy title. Persona and Like a Dragon would fit that bill, but Cox may have signed up for a completely new project at Sega. Fans of the Daredevil actor last 
 
-### Ghost Of Tsushima Anime Taps Star Wars: Visions Talent For Its 2028 Release
-Fri, 09 Oct 2026 10:52:17 +0000 — https://www.gamespot.com/articles/ghost-of-tsushima-anime-taps-star-wars-visions-talent-for-its-2028-release/
-
-The upcoming anime adaptation of Sony's Ghost of Tsushima just took another big step forward, with Crunchyroll revealing more details on the cast and crew attached to the project, as well as a 2028 release window. While details are still light on what the story will be, Hayate Inc . did confirm that actors Mayumi Saco and Shinya Fukumatsu will voice characters. Saco had previously voiced Tomoe in Ghost of Tsushima, a master archer and pupil of the renowned Sensei Ishikawa, while Fukumatsu lent his vocal talents to One-Punch Man, playing the martial arts master Bomb. Official poster artowrk for the Ghost of Tsushima Legends anime. For the crew working behind the scenes on this production, there's some big talent attached. Takanobu Mizuno (Star Wars: Visions "The Duel") will direct the anime, and it'll be produced at animation studio Kamikaze Douga (Batman: Ninja, Star Wars: Visions shorts). For the story, that's being handled by Gen Urobuchi (Psycho-Pass) and Renji Oki (Azur Lane). Rounding out key roles, there's also Keiji Inai as the anime's music composer, Yoshikazu Iwanami handles sound direction, and Gyousyou Suzuki brings their talent for calligraphy to the project. As for the source material video games, Ghost of Tsushima first hit the scene in 2020 for the PS4, and was later upgraded for PS5. Its sequel, Ghost of Yotei , launched in 2025 and also received a " Complete Edition " upgrade that adds the Echoes of Sekigahara expansion and bundles in the Legends multiplayer 
-
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 11 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-831
+
+Sundays are for realising that this is speeder racing. No, not podracing. You're not skilled enough for that yet. You've got to get your reps in to be the best of the best on the tracks of the galaxy far, far away. You've got to beat Ary Quill, Griff Halloran, Soren Zaks, Katja Mox, and the rest. But it's futile. Because you won't beat one crocodile-shaped little creature. YOU WILL NEVER DEFEAT BIDDY BLAS. HE WILL BLAS PAST YOU IN A BLAS OF GLORY, BIDDYING YOU FAREWELL AS HE ROCKETS BY. HE IS THE GREATEST RACER WHO EVER LIVED. HE IS THE STAR WARS: GALACTIC RACER , AND THE FORCE SHINES OUT OF HIS BIDDY BOTTOM. Oh, you're challenging him to a race? Prefer to be BIDDYLASTED INTO OBLIVION. Read more
+
+### Gargantuan cop immersive sim Militsioner now has an acrophobia-inducing demo, and yes, I did somehow manage to fail the tutorial
+Sat, 10 Oct 2026 21:55:00 +0000 — https://www.rockpapershotgun.com/gargantuan-cop-immersive-sim-militsioner-now-has-an-acrophobia-inducing-demo-and-yes-i-did-somehow-manage-to-fail-the-tutorial
+
+Excitedly, I boot up the new demo for Militsioner , a game I've had a watchful eye on since its announcement. A phone rings, it's my lawyer. I don't know why I've been arrested, but with the shattering of my balcony window I quickly know one thing: there's a giant motherf**king cop that won't let me leave this town. He (always referred to as HE) starts to grill me. He tires of the questions, asking me to vocally consent to staying put and forgo any attempt at escaping. I refuse. I fail the tutorial. "Oh," I say to myself. "So this is gonna be a good video game, huh?" Read more
+
+### Oh lord, now those GTA 6 leakers are saying if enough of you give them money they'll leak a playable build of the game
+Sat, 10 Oct 2026 20:24:35 +0000 — https://www.rockpapershotgun.com/oh-lord-now-those-gta-6-leakers-are-saying-if-enough-of-you-give-them-money-theyll-leak-a-playable-build-of-the-game
+
+You can wait another month and some change to play GTA 6 , right? I mean, everyone reading this who has a console, anyway, still no bloomin' sight of a PC release date. In any case, I'm sure you can wait, and I'm sure you wouldn't be silly enough to give Cyberleek, that hacker lot who've been leaking clips from the impending industry ending game for a good while now, money in their own cryptocurrency just to play it, right? Because that's what the group is asking you to do. Read more
 
 ### Nivalis Nights might not have any combat, "but that doesn't mean it's a cosy game," so says its lead writer
 Sat, 10 Oct 2026 17:53:51 +0000 — https://www.rockpapershotgun.com/nivalis-nights-might-not-have-any-combat-but-that-doesnt-mean-its-a-cosy-game-so-says-its-lead-writer
@@ -471,19 +456,4 @@ I'm sure you already had it marked in your calendars, but it is that time of yea
 Fri, 09 Oct 2026 15:05:20 +0000 — https://www.rockpapershotgun.com/were-not-getting-any-younger-and-the-world-seems-to-be-ending-amanita-reveal-machinarium-2-sequel-to-2009s-prettiest-robot-adventure
 
 The dashing Da Vincis of Amanita Design have announced Machinarium 2 , a sequel to the 2009 puzzle adventure young master John Walker called "a sort of beauty that games are almost never graced with". I haven't played the original Machinarium , but I have played Amanita's splendid living object platformer Creaks , and in general, I would quite like to go to bed with the entirety of their art team. So here's me sternly ordering myself to finally play Machinarium while we wait for the follow-up, which doesn't have a release date yet. But does have a trailer. Read more
-
-### Draw maps of a vampiric lighthouse that defies logic in This Is Not For You, the latest horror game inspired by House of Leaves
-Fri, 09 Oct 2026 14:10:53 +0000 — https://www.rockpapershotgun.com/draw-maps-of-a-vampiric-lighthouse-that-defies-logic-in-this-is-not-for-you-the-latest-horror-game-inspired-by-house-of-leaves
-
-This Is Not For You is, in fact, for some very specific kinds of people. It is for people who love drawing maps, and it is for people who love having their blood sucked by a non-Euclidean lighthouse. Somebody plot that on a Venn diagram for me. Created by Mexico-based studio Interactive Dreams, it's a dimension-defying maze game in which you play Ulysses, a shipwrecked sailor who strays into a strange lighthouse that's bigger on the inside and also, utterly incoherent. Walking north could take you south. Walking out of a bedroom could take you to the bottom of the ocean. Why yes, it is inspired by Mark Z. Danielewski's House of Leaves. Here's a trailer. Read more
-
-### Forza Horizon 6's first major expansion will pull up in January, now Playground Games just need to offer any kind of hint whatsoever as to what it'll look like
-Fri, 09 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/forza-horizon-6s-first-major-expansion-will-pull-up-in-january-now-playground-games-just-need-to-offer-any-kind-of-hint-whatsoever-as-to-what-itll-look-like
-
-Forza Horizon 6 has, as is standard for the live-service racing series, settled into a steady rhythm of revolving weekly to-do lists and a gradual drip feed of fresh cars since it came out in May. Unless you're hopping on for regular bouts of driving with mates or just dig the grind, odds are most folks will have dipped in and out over the months, possibly only returning when a new season adds the likes of a drift attack mode to the open world. Horizon 6's first major DLC's likely to change that at least for a little while, and Playground Games have now revealed it'll be arriving in January. Read more
-
-### Timeloop metroidvania Echo Weaver is the brave game that locks almost nothing off and challenges you to break it
-Fri, 09 Oct 2026 09:33:30 +0000 — https://www.rockpapershotgun.com/timeloop-metroidvania-echo-weaver-is-the-brave-game-that-locks-almost-nothing-off-and-challenges-you-to-break-it
-
-Writing about new 2D timeloop metroidvania Echo Weaver is tricky because most - possibly all - of what you need to complete it is available to you the very second you first wake up, deep in the charnelpools of an ethereal and shattered lunar civilisation. The plot in brief: you are a perpetually rewinding robot boy on a mission to work out what the hell happened. You'll explore overgrown biomes, investigate busted machines, run errands for a handful of scrappy, splashy-hued aliens, and conjure holographic flashbacks that cover the circumstances of your own creation. Developers Moonlight Kids stress that the only thing you really gain in the course of all this is knowledge. There are a few upgrades to gather, but no core skills to unlock. Instead, it's all there for you to learn, whether by reaching a tutorial area or just by hitting buttons at random and messing with terrain fixtures. As such, my telling you about abilities really does risk ruining it, much like explaining the behaviour of celestial bodies in Echo Weaver's great influence, Outer Wilds . So if you're strongly inclined to buy the game &ndash; my verdict after four hours: a vivid and thoughtful, freeform Metroidy puzzler with refreshingly minimal combat and a few rough edges - maybe get your feet wet before reading on. Read more
 

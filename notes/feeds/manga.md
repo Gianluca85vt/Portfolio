@@ -1,72 +1,97 @@
-# Manga — harvested 2026-10-10T18:00:25.631Z
+# Manga — harvested 2026-10-11T11:01:06.015Z
 
 ## Anime News Network
 
-### Japan's Video Game Rankings, September 14-20
-Sat, 10 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/japan-video-game-rankings-september-14-20/.242539
+### Noa Is My Senior, and My Friend TV Anime Unveils Main Cast, 2027 Debut
+Sun, 11 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/noa-is-my-senior-and-my-friend-tv-anime-unveils-main-cast-2027-debut/.242717
 
-<cite>Fire Emblem: Fortune's Weave</cite> Switch 2 game debuts at #1
+Rina Kawaguchi, Tomoya Itō star in series from feel. animation studio
 
-### The Ogre's Bride Anime Series Review
-Sat, 10 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/the-ogre-bride/anime-series/.242191
+### i☆Ris Voice Actress Idol Unit to Disband at End of 2027
+Sun, 11 Oct 2026 04:13:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/i-ris-voice-actress-idol-unit-to-disband-at-end-of-2027/.242716
 
-Yuzu seems passive, but she's really a survivor stumbling her way into the light.
+Group also marks 15th anniversary next year
 
-### Japanese Animation TV Ranking, September 21-27
-Sat, 10 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-21-27/.242684
+### Naruto's Penultimate Villain Madara Inspires Song by Rapper Eminem
+Sun, 11 Oct 2026 01:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-11/naruto-penultimate-villain-madara-inspires-song-by-rapper-eminem/.242708
 
-<cite>Detective Conan: The Counterfeit Crime Case of Ultra 30</cite> special earns 8.6% rating
+There is no Divine Tree involved with the new collab with EZ Mil, Hideyoshi, Madara's voice Neil Kaplan
 
-### Japanese Animation TV Ranking, September 14-20
-Sat, 10 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-animation-tv-ranking-september-14-20/.242405
+### Yasuki Tanaka's Ghost Fixers Manga Ends in Next Chapter
+Sun, 11 Oct 2026 01:06:53 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/yasuki-tanaka-ghost-fixers-manga-ends-in-next-chapter/.242710
 
-<cite>That Time I Got Reincarnated as a Slime</cite> season 4 earns 3.1% rating
+Manga from <cite>Summer Time Rendering</cite> author launched in March 2024.
 
-### Dr. Stone TV Anime Gets Terraforming Sequel
-Sat, 10 Oct 2026 08:57:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/dr-stone-tv-anime-gets-terraforming-sequel/.242690
+### Boichi's The Marshal King Manga Ends on October 16
+Sun, 11 Oct 2026 00:24:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/boichi-the-marshal-king-manga-ends-on-october-16/.242709
 
-Based on story in 27th manga volume
+Manga resumed after 9-month hiatus on September 4
 
-### Millennium Family TV Anime Casts Taihi Kimura
-Sat, 10 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/millennium-family-tv-anime-casts-taihi-kimura/.242683
+### Marvel, Kadokawa Launch 5 New Manga as Part of Partnership
+Sun, 11 Oct 2026 00:05:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/marvel-kadokawa-launch-5-new-manga-as-part-of-partnership/.242704
 
-Kimura voices 3rd son Noel
+Manga about Iron Man, Spider-Man, Spider-Gwen, Deadpool, Venom launched on Sunday
 
-### 'I am the only one who is not attacked in the world filled with zombies' TV Anime's Main Promo Video Previews Theme Songs
-Sat, 10 Oct 2026 00:09:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/i-am-the-only-one-who-is-not-attacked-in-the-world-filled-with-zombies-tv-anime-main-promo-video-/.242682
+### Yuriten Exhibit Cancels 10th Anniversary Event After Artists Criticize Its AI Use
+Sat, 10 Oct 2026 23:15:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-10/yuriten-exhibit-cancels-10th-anniversary-event-after-artists-criticize-its-ai-use/.242698
 
-Rikako Ito, Marie Miyake join cast; RetBear, Itsuka▶ perform theme songs
+Organizers: Contractor used AI-generated imagery for planned Tokyo event
 
-### To Love-ru's Kentaro Yabuki Draws Nami Card for One Piece Card Game
-Fri, 09 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-09/to-love-ru-kentaro-yabuki-draws-nami-card-for-one-piece-card-game/.242536
+### The Apothecary Diaries: The Late Lady's Treasure Film Streams Video Highlighting Jinshi, Maomao
+Sat, 10 Oct 2026 22:52:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/the-apothecary-diaries-the-late-lady-treasure-film-streams-video-highlighting-jinshi-maomao/.242700
 
-Nami gets that slightly lewd Yabuki touch
+Film to reveal new character videos for next 3 days
 
-### Tom Cruise, Alejandro González Iñárritu Enjoy MAPPA Anniversary Exhibit
-Fri, 09 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-09/tom-cruise-alejandro-gonzalez-inarritu-enjoy-mappa-anniversary-exhibit/.242675
+### SSS-Class Revival Hunter Anime Reveals 8 More Cast, 2nd Promo Video, Ending Theme Artists
+Sat, 10 Oct 2026 22:34:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/sss-class-revival-hunter-anime-reveals-8-more-cast-2nd-promo-video-ending-theme-artists/.242701
 
-<i>Jujutsu Kaisen/Yuri!!! on Ice</i> designer presents <i>Digger</i> star & director with art of Cruise
+Toshiki Masuda, Megumi Han, Shunsuke Sakuya, more join cast for January series
 
-### Billy Bat Manga Wins Harvey Award
-Fri, 09 Oct 2026 22:51:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/billy-bat-manga-wins-harvey-award/.242681
+### Dragon Ball Super: Beerus Also Streams on Hulu in U.S. on October 11
+Sat, 10 Oct 2026 21:59:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/dragon-ball-super-beerus-also-streams-on-hulu-in-u.s-on-october-11/.242688
 
-Series had competed against <cite>Land, My Gorilla Family, Miss Ruki</cite>, more works for Best Manga award
+Crunchyroll to stream anime on October 11, Netflix on October 17
 
-### GROTESQQQUE Anime Film Review
-Fri, 09 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/review/grotesqqque/anime-film/.242677
+### Blazblue: CentralFiction Fighting Game Gets Release on PS5
+Sat, 10 Oct 2026 21:46:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/blazblue-centralfiction-fighting-game-gets-release-on-ps5/.242699
 
-Atsushi Nishigori’s three-part anthology film crams all his otaku obsessions into a feast of wild eye candy.
+PS5 version will have rollback netcode, cross-play with PC, 4 new text languages
 
-### North American Anime, Manga Releases, October 4-10
-Fri, 09 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-09/north-american-anime-manga-releases-october-4-10/.242519
+### Japanese Studio Creative Freaks to Lead Production on Sentinel 6 Anime Executive Produced by NBA, NFL Players Michael Carter-Williams, Jamaal Williams
+Sat, 10 Oct 2026 21:05:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-studio-creative-freaks-to-lead-production-on-sentinel-6-anime-executive-produced-by-nba-/.242697
 
-<cite>Devil Survivor 2: The Animation</cite> anime; <cite>The Apothecary Diaries: Xiaolan's Story, My Journey to Her, Blue Lock Full Color Selection</cite> manga ship
+"Afro-futurist sci-fi adventure" series planned to have 11-12 episodes
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Apothecary Diaries: The Late Lady's Treasure Releases Maomao and Jinshi Character Trailer
+Sun, 11 Oct 2026 10:57:55 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-releases-maomao-and-jinshi-character-trailer/
+
+The Apothecary Diaries: The Late Lady’s Treasure anime film released a new character trailer spotlighting Maomao and Jinshi.
+
+### Naruto: Shadow Rising New Manga Announced, Masashi Kishimoto to Draw
+Sat, 10 Oct 2026 22:09:38 GMT — https://animecorner.me/naruto-shadow-rising-new-manga-announced-masashi-kishimoto-to-draw/
+
+A new NARUTO manga titled NARUTO: SHADOW RISING has been announced, with original creator Masashi Kishimoto set to draw the project.
+
+### Naruto x Ninku New Collaboration Anime Announced, Revealed to Be the 4-Episode Project
+Sat, 10 Oct 2026 21:27:41 GMT — https://animecorner.me/naruto-x-ninku-new-collaboration-anime-announced-revealed-to-be-the-4-episode-project/
+
+New NARUTO anime first announced for the series’ 20th anniversary has finally been revealed as a four-episode collaboration with NINKU.
+
+### Summer 2026 Anime of the Season Rankings
+Sat, 10 Oct 2026 19:10:00 GMT — https://animecorner.me/summer-2026-anime-of-the-season-rankings/
+
+Anime Corner's Summer 2026 Anime of the Season results are in. Discover the Top 75 anime rankings, category winners, voter statistics, and how Re:ZERO Season 4 secured the season's top spot ahead of Mushoku Tensei Season 3 and Bleach.
+
+### How Anime Corner Reviewed Summer 2026 Polls for Vote Spam
+Sat, 10 Oct 2026 19:05:00 GMT — https://animecorner.me/how-anime-corner-reviewed-summer-2026-polls-for-vote-spam/
+
+A detailed review of Anime Corner's Summer 2026 poll integrity process, including ballot invalidation rates, weekly and seasonal voting analysis, suspicious voting patterns, and the measures used to ensure fair rankings.
 
 ### Dr. STONE TERRAFORMING Sequel Anime Announced
 Sat, 10 Oct 2026 12:43:08 GMT — https://animecorner.me/dr-stone-terraforming-sequel-anime-announced/
@@ -98,32 +123,27 @@ Fri, 09 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-ranking
 
 Even the Student Council Has Its Holes! leads Anime Corner’s first Fall 2026 weekly ranking, followed by The Apothecary Diaries Season 3 and FX Fighter Kurumi-chan. A total of 5,164 people voted.
 
-### The Skull Dragon’s Precious Daughter Releases Visual, Trailer and Staff Details
-Fri, 09 Oct 2026 02:16:47 GMT — https://animecorner.me/the-skull-dragons-precious-daughter-releases-visual-trailer-and-staff-details/
-
-Kadokawa has revealed a visual, a trailer, and production details for the upcoming anime&hellip;
-
-### Now That We Draw Reveals Opening Song
-Fri, 09 Oct 2026 00:26:19 GMT — https://animecorner.me/now-that-we-draw-reveals-opening-song/
-
-The production committee behind Now That We Draw has revealed the opening song for&hellip;
-
-### The Boxer TV Anime Announced With Koki Uchiyama, Kensho Ono, Tomokazu Seki and Toshiyuki Toyonaga
-Thu, 08 Oct 2026 22:46:54 GMT — https://animecorner.me/the-boxer-tv-anime-announced-with-koki-uchiyama-kensho-ono-tomokazu-seki-and-toshiyuki-toyonaga/
-
-JH’s WEBTOON series The Boxer is officially getting a TV anime adaptation, revealing the trailer and main cast & staff.
-
-### Puella Magi Madoka Magica the Movie -Walpurgisnacht: Rising- Hits United States Theaters January 16th
-Thu, 08 Oct 2026 21:01:00 GMT — https://animecorner.me/puella-magi-madoka-magica-the-movie-walpurgisnacht-rising-hits-united-states-theaters-january-16th/
-
-Today at New York Comic Con, Aniplex of America and Fathom Entertainment revealed that&hellip;
-
-### The Guy She Was Interested In Wasn't a Guy At All First Trailer and New Cast Revealed, January 8 Premiere
-Thu, 08 Oct 2026 20:07:13 GMT — https://animecorner.me/the-guy-she-was-interested-in-wasnt-a-guy-at-all-first-trailer-and-new-cast-revealed-january-8-premiere/
-
-The Guy She Was Interested In Wasn’t a Guy At All anime revealed the first trailer ahead of its January 2027 release date.
-
 ## MyAnimeList News
+
+### Noa-senpai wa Tomodachi Reveals Main Cast, 2027 Debut
+Sun, 11 Oct 2026 03:16:42 -0700 — https://myanimelist.net/news/74811025?_location=rss
+
+The official website for the television anime adaptation of Enma Akiyama s Noa-senpai wa Tomodachi (Noa Is My Senior, and My Friend) manga revealed the main cast and a key visual (pictured) on Sunday. The anime series will premiere in 2027. Voice actors Rina Kawaguchi (Witch Watch) and Tomoya Itou (Sentai Red Isekai de Boukensha ni Naru) are starring as Noa Saotome and Rihito Ootsuka, respectively. Shinsuke Yanagi (Jaku-Chara Tomozaki-kun, Mamahaha no Tsurego ga Motokano datta) is directing...
+
+### Shishite Ikiru SSS-kyuu Hunter Reveals Additional Cast, Ending Theme, Second Promo
+Sat, 10 Oct 2026 19:43:49 -0700 — https://myanimelist.net/news/74810180?_location=rss
+
+The official website of the television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon revealed additional cast members, ending theme artists, and a second promotional video on Sunday. The anime is scheduled to premiere in January 2027 on Fuji TV s +Ultra programming block. Cast Flame Emperor: Toshiki Masuda (Shingeki no Kyojin: The Final Season) Black Witch: Megumi Han ([Oshi no Ko]) Paladin: Sayaka Kinoshita (Boku no Hero Academia) Countess: Risa Shimizu (Sh...
+
+### New Naruto Manga Shadow Rising Announced
+Sat, 10 Oct 2026 17:20:07 -0700 — https://myanimelist.net/news/74809691?_location=rss
+
+The Naruto: What s Next? panel at New York Comic Con 2026 announced on Saturday that Masashi Kishimoto will launch a new Naruto manga titled Naruto: Shadow Rising, revealing a super teaser announcement video. The new series is part of Project Rasengan, a three-year timeline of upcoming releases within the Naruto franchise. Currently announced projects include a crossover anime series, a mobile game, and a card game. More information on the new manga will be revealed at Jump Festa 2027. Kis...
+
+### Naruto x Ninkuu Crossover Anime Announced
+Sat, 10 Oct 2026 16:37:52 -0700 — https://myanimelist.net/news/74809610?_location=rss
+
+The "Naruto: What s Next?" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto s Naruto manga and Kouji Kiriyama s Ninkuu manga on Saturday. The Naruto franchise s official website opened a new page, revealing the main cast, staff, theme songs, a teaser visual (pictured above), and teaser promotional video. Cast Naruto Uzumaki: Junko Takeuchi (Hunter x Hunter) Fuusuke: Rica Matsumoto (Pokemon) Sasuke Uchiha...
 
 ### New Dr. Stone Anime Announced
 Sat, 10 Oct 2026 06:05:30 -0700 — https://myanimelist.net/news/74808029?_location=rss
@@ -140,69 +160,19 @@ Fri, 09 Oct 2026 09:15:28 -0700 — https://myanimelist.net/news/74805426?_locat
 
 Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video. The live-action series is scheduled to premiere on Fuji TV in 2027. Tachibana began drawing the historical romance manga on the MangaONE platform in January 2023. The 12th volume was released on June 19, with the 13th and final volume scheduled for release on October 19. The television anime is pr...
 
-### White Fox Produces Monster no Niku wo Kutte Itara Oui ni Tsuita Ken TV Anime Adaptation for 2027
-Fri, 09 Oct 2026 02:00:02 -0700 — https://myanimelist.net/news/74804055?_location=rss
-
-Production company King Records opened an official website for a television anime adaptation of Daken s Monster no Niku wo Kutte Itara Oui ni Tsuita Ken (How I Became King by Eating Monsters) light novel on Friday, revealing a teaser visual (pictured). The anime series is being produced by White Fox for a 2027 broadcast. Daken originally penned the adventure fantasy series on the Shoutsetsuka ni Narou website from January 2022 to January 2023. Micro Magazine began publishing the light novel...
-
-### Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu Reveals Main Cast, Teaser Promo for Winter 2027
-Thu, 08 Oct 2026 20:36:00 -0700 — https://myanimelist.net/news/74804034?_location=rss
-
-The official website for the television anime adaptation of Kennoji and R_ringo s Doukyo Shiteiru Kensei no Onna Shishou ga Kawaisugite Mainichi Shiawase desu (My Sword Saint Master Is Too Cute to Live With!) manga unveiled the main cast and a teaser promotional video on Friday. The anime series will premiere in 2027 Cast Lisa Balsandra: Ai Kakuma (Mushoku Tensei: Isekai Ittara Honki Dasu) Eugene Dawson: Seena Hoshiki (Super no Ura de Yani Suu Futari) Cordelia Dawson: Hitomi Ueda (Uma Musum...
-
-### Animator Kenichirou Katsura Dies at 59
-Thu, 08 Oct 2026 19:45:15 -0700 — https://myanimelist.net/news/74803941?_location=rss
-
-Kenichirou Katsura, known for his character designs for Macross 7 and Knight s &amp; Magic, died on September 30. He was 59. A funeral service was held by his close relatives. Satoko Miyachi, his wife and fellow animator, announced the news on X (formerly Twitter) on Monday, stating that Katsura died while undergoing medical treatment. "Animator Kenichirou Katsura died on September 30 while receiving medical treatment. We offer our deepest gratitude to the fans who loved the works and...
-
-### Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made Unveils Additional Cast, Opening Theme, Second Promo
-Thu, 08 Oct 2026 18:27:39 -0700 — https://myanimelist.net/news/74803756?_location=rss
-
-The Crunchyroll Showcase at New York Comic Con 2026 unveiled additional cast, a second key visual (pictured right), the opening theme, and second promotional video for the television anime adaptation of Haka Tokura and Shin Arakawa s Zatsuyou Fuyo Jutsushi ga Jibun no Saikyou ni Kizuku made (Magical Buffs: The Support Caster Is Stronger Than He Realized!) manga on Thursday. The anime series will be broadcast on Tokyo MX, MBS, and BS11 on January 4, 2027. Cast Abel: Haruki Ishiya (Marriaget...
-
-### Ghost of Tsushima Kuroudo Kitan Announces Additional Cast, Staff, 2028 Delay
-Thu, 08 Oct 2026 17:55:31 -0700 — https://myanimelist.net/news/74803695?_location=rss
-
-The Crunchyroll showcase at New York Comic Con 2026 revealed additional cast and staff for the anime adaptation of Sucker Punch Productions Ghost of Tsushima video game on Thursday. The anime has been delayed to 2028 from its originally planned 2027 premiere. Mayumi Saco (Vinland Saga Season 2) and Shinya Fukumatsu (Tondemo Skill de Isekai Hourou Meshi) are joining the cast. Their respective characters have yet to be revealed. Staff Script: Satoshi Maejima (Renji Ooki) (Bubble) Character D...
-
-### Teenage Mercenary Reveals Main Staff, 2027 Debut
-Thu, 08 Oct 2026 17:55:03 -0700 — https://myanimelist.net/news/74803693?_location=rss
-
-The Crunchyroll Showcase at New York Comic Con 2026 revealed the main staff, a teaser visual (pictured), and an announcement promo for the television anime adaptation of YC s Teenage Mercenary (Nyuugaku Youhei) webtoon on Thursday. The anime series will premiere in 2027. Staff Director, Series Composition: Manabu Ono (Dead Mount Death Play) Character Design, Chief Animation Director: Kouji Haneda (Ookami to Koushinryou: Merchant Meets the Wise Wolf) Music: Hiroyuki Sawano (Shingeki no Kyoji...
-
-### Kininatteru Hito ga Otoko ja Nakatta Reveals Additional Cast, Staff, First Promo
-Thu, 08 Oct 2026 17:00:35 -0700 — https://myanimelist.net/news/74803545?_location=rss
-
-The Crunchyroll Showcase at New York Comic Con 2026 revealed additional cast, staff, and a promotional video for the television anime adaptation of Sumiko Arai s Kininatteru Hito ga Otoko ja Nakatta (The Guy She Was Interested in Wasn t a Guy at All) manga on Thursday. The anime is scheduled to premiere on January 8 at 11:00 p.m. on NTV s Friday Anime Night timeslot. Cast Joe: Kenjirou Tsuda (Gokushufudou) Narita: Tasuku Hatanaka (Boku no Hero Academia) Chizuru: Yurina Amami (Mika...
-
-### Webtoon The Boxer Gets TV Anime
-Thu, 08 Oct 2026 16:43:05 -0700 — https://myanimelist.net/news/74803494?_location=rss
-
-The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Ji-Hoon Jeong s The Boxer webtoon on Thursday, revealing the main cast, staff, and a special promotional trailer. Cast Yu: Kouki Uchiyama (Blue Lock) J: Toshiyuki Toyonaga (Bungou Stray Dogs) K: Tomokazu Seki (Jujutsu Kaisen) Ryu Baeksan: Kensho Ono (Vinland Saga) Staff Director: Takehiro Kubota (Watashi no Shiawase na Kekkon), Won-yeong Kang (Cardfight!! Vanguard: overDress main animation) Charac...
-
-### Webtoon The Remarried Empress Gets TV Anime in 2027
-Thu, 08 Oct 2026 16:41:03 -0700 — https://myanimelist.net/news/74803489?_location=rss
-
-The Crunchyroll Showcase at New York Comic Con 2026 announced a television anime adaptation of Alphatart and Sumpul s The Remarried Princess webtoon on Thursday. An official website was also launched, revealing the main cast, staff, a fourth character visual (pictured), and special promotional video. The anime series will premiere in 2027. Cast Navier: Youko Hikasa (High School DxD) Heinrey: Ryouhei Kimura (Grand Blue) Sovieshu: Tomoaki Maeno (Akatsuki no Yona) Rashta: Reina Ueda (Chainsaw...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### It’s Strictly Business Volume 1 Review
+Sun, 11 Oct 2026 09:00:23 +0000 — https://animeuknews.net/2026/10/its-strictly-business-volume-1-review/
+
+College student Ren is keen to meet lots of girls but somehow the only way he can get their attention is to act out various flirty gay scenes with fellow student Issei. Until the act begins to turn into something more serious…
+
 ### Boyish Girlfriend Volume 1 Review
 Sat, 10 Oct 2026 09:00:17 +0000 — https://animeuknews.net/2026/10/boyish-girlfriend-volume-1-review/
 
 Daichi and Akira are childhood friends who have been dating for years, but when Daichi attends Akira's school festival, he discovers a whole new side to his beloved girlfriend.
-
-### Crunchyroll Debuts New Anime at New York Comic Con 2026
-Fri, 09 Oct 2026 10:10:57 +0000 — https://animeuknews.net/2026/10/crunchyroll-debuts-new-anime-at-new-york-comic-con-2026/
-
-The showcase also featured EAT-MAN, Here U Are, Everyone's Darling Has a Secret, Magical Buffs: The Support Caster is Stronger Than He Realized!, Berserk of Gluttony Season 2 and The Guy She Was Interested in Wasn't a Guy at All.
-
-### Wandering Son Omnibus Volume One Two Review
-Fri, 09 Oct 2026 09:00:25 +0000 — https://animeuknews.net/2026/10/wandering-son-omnibus-volume-one-two-review/
-
-Shimura Takako's acclaimed Wandering Son series finally makes its way back to the English market with these new editions from Takumigraphics.
 

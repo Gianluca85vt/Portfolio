@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-10T18:00:25.631Z
+# Tech — harvested 2026-10-11T11:01:06.015Z
 
 ## Ars Technica
 
@@ -64,10 +64,25 @@ SpaceX has a deal to purchase nationwide low-band spectrum licenses for a planne
 
 ## The Verge
 
+### Learning to use local AI is exciting, overwhelming, and frustrating
+2026-10-11T07:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
+
+Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run powerful models locally to see what they're capable of. Is this tech so useful that it's worth throwing gobs of money at a computer or a laptop with lots of overpriced RAM? I'll try to help you find out. I'm not an AI expert, it's going to be a journey for me, but maybe I can help you see if that journey is worth taking - and I'll be posting my way through it. A big part of Apple's pitch for its new Mac desktops is how good they … Read the full story at The Verge. ]]>
+
+### Satya Nadella says we should assume all AI models are ‘compromised’
+2026-10-10T18:10:17-04:00 — https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
+
+In a lengthy post on X , Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a "set of nested black boxes" whose advice and actions we simply accept or reject. He calls for building a more transparent system where models can be contained, observed, and leaves behind "tamper-proof human readable evidence." Many of his recommendations align with what we've heard from others in the industry: timely incident disclosure, independent audits, verifiable data, and containment. It's on that last point that he appears t … Read the full story at The Verge. ]]>
+
+### DistroKid has been quietly taking down songs in response to UMG lawsuit
+2026-10-10T14:52:07-04:00 — https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit
+
+Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that their non-AI works are being caught up in the purge, however. Musician and self-described "Video Game boy" McGwire reported that six of his songs had been removed from streaming. As has been the case with others, McGwire says that there was no communication from DistroKid before or after the removals, a … Read the full story at The Verge. ]]>
+
 ### Ledger wallet tampering suspected after reports of crypto thefts
 2026-10-10T12:36:44-04:00 — https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts
 
-Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained , and suspicion is that it's related to reseller CryptoBillis and a bit of spy hardware. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Photos and videos posted on X and Threads appear to show a small circuit board sandwiched under the screen. The implant allegedly intercepts anything displayed on the screen, including the seed passphrase shown during the initial setup. Using an embedded SIM card, the implant then sends that information back to the attacker, who can then siphon funds from use … Read the full story at The Verge. ]]>
+Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained , and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that "one of the impacted users' devices contained an unauthorized hardware implant." Photos and videos posted on X and Threads appear to show a small circuit board sandwiched under the screen. The implant allegedly intercepts anything displayed on the screen, including the seed passphrase shown during the initial setup. Using an embedded SIM card, the … Read the full story at The Verge. ]]>
 
 ### K-pop star Sunmi loves Notion and ear cleaning videos
 2026-10-10T11:00:00-04:00 — https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview
@@ -99,22 +114,22 @@ At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent
 
 Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage .) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes and tips for managing three kids. I need 'em all. This week, I've been reading about McMansions and data centers and sports cards and ICANN , trying to run my life on the Dell XPS Googlebook , testing a new and very purple Kindle , reinventing my whole note-taking system now that Google Docs can handle Markdown files , listening to episode … Read the full story at The Verge. ]]>
 
-### The Telo MT1 is a big truck trapped in a tiny truck’s body
-2026-10-10T07:00:00-04:00 — https://www.theverge.com/transportation/1005502/telo-mt1-review-ev-tiny-truck
-
-I'm bouncing down the road in San Carlos, California, zipping past behemoth tech companies like EA and Oracle, in America's smallest electric truck. The Telo MT1 (which stands for "mini truck") unquestionably turns heads because it looks so remarkably different from everything else on the market right now. It has a nearly cab-over design, meaning that front-seat passengers sit almost directly over the front axle. It looks a lot like a Japanese kei truck, with a super-short nose and four doors. People stop to stare as we sit at stoplights or roll silently past. The interior is surprisingly spacious, and while the seats are firm, they're n … Read the full story at The Verge. ]]>
-
-### The director of Fjord takes the risky position of moderator
-2026-10-10T07:00:00-04:00 — https://www.theverge.com/entertainment/1008748/fjord-cristian-mungiu-interview
-
-Renata Reinsve (top center) and Sebastian Stan (top right) play religious Romanians living in Norway. | FLC Press Cristian Mungiu's sixth feature, Fjord , concerns a family on trial. They seem like good people, God-fearing. They've just moved from Romania to a small hamlet nestled in the fjords of rural Norway. There is Mamma (Renate Reinsve), Tata (a bald and bespectacled Sebastian Stan), and their passel of children. They are an openly religious and proselytizing family. The parents, unfashionably, believe in punitive consequences to actions. They would never be accused of gentle parenting. All ought to be well, only Norway in 2026 is extravagantly suspicious of the devout - their famous tolerance reserved for the secular. Fjord starts quietly and b … Read the full story at The Verge. ]]>
-
-### My brief romance with an AI bird feeder
-2026-10-10T03:00:00-04:00 — https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too
-
-I miss my sweet tits. It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro . "Looks like Great Tit!" read the first AI-driven alert sent to my phone. "Looks like Eurasian Blue Tit!" read another. I chuckled, still waiting for adulthood to kick in. This went on for days. Hundreds of miniature tits came to snack on expensive sunflower seeds already husked. They'd skulk about in nearby trees before flittering in to grab a single seed to be safely enjoyed in the canopy above. I took great delight in my new house guests. I admired them in crisp 4K HDR video recor … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications
+Sun, 11 Oct 2026 10:50:00 +0000 — https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next
+
+Brandon Thomas, developer of ArtCraft, a suite of open-source creative tools meant to replicate Adobe applications for free, has now announced apps to replace Microsoft Office tools such as Excel, PowerPoint, and Word, respectively, named GridCraft, DeckCraft, and WordCraft, that are created with Claude. After our previous story covering ArtCraft , we have since discovered that u/ai_art_is_art is Brandon Thomas, a highly talented software engineer with 15 years of experience under his belt. After his ArtCraft project became popular, many criticisms followed about vibecoded software and AI slop, to which Brandon responded on his X account that he does know how to code, further defending himself. My guy, I can codeIn college I was building laser games on skyscrapers and cloning the luciferase-luciferin system into plants via agrobacterium-mediated transfectionAI models enable me to work as an entire company. I'm doing 4x better than Google's revenue per employee https://t.co/sGCkdy92QM October 9, 2026 Microsoft sits among the most criticized companies for its business practices, similar to Adobe. What was once a one-time purchase now comes as a subscription package with various tools that many don’t need; many even have overlapping features and uses, essentially wasting some of the subscription value. It seems that Brandon Thomas is not only creating open-source alternatives, but is also creating a targeted protest against these practices. One of the biggest pain points for the
+
+### Working Cray-1 supercomputer replica packs 30 vintage Mac Minis and 1.5 TFLOPS
+Sun, 11 Oct 2026 10:20:00 +0000 — https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer
+
+Spain’s Museo de Historia de la Computación unveiled its 18-month-long project to commemorate the 50th anniversary of both the Cray-1’s first operational use in Los Alamos and Apple’s founding. The replica uses 30 Mac Minis, 25 dual-core i5 units, and five quad-core i7 units from 2012-2014, totaling 70 cores that produce a peak of 1.5 TeraFLOPS; a theoretical 9,375x jump from the original Cray-1's 160 MegaFLOPS. After one quad-core machine went offline, the current reported peak sits at 1.3 TeraFLOPS. The original Cray-1 is considered to be the first commercially successful supercomputer, with 80 systems sold in its heyday. Science and engineering institutions sought it out to churn through gigantic datasets for uses ranging from intense weather prediction and aerodynamics to nuclear physics and structural analysis, among many others. It was very efficient at these computations thanks to vector processing , a computing technique we take for granted nowadays. Vector computing made this supercomputer so powerful; while most computers still handled tasks one instruction at a time, the Cray-1 could process chunks of numbers in parallel, saving a huge amount of time. (Image credit: Museo de Historia de la Computación) The replica has 70 cores from the 30 Mac Minis, and of course, vector processing has since become the norm and a standard feature of modern CPUs; jumping from a single core to 70 “modern” cores and 50 years' worth of innovation is what Museo de Historia de la Computa
+
+### U.S. military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth
+Sun, 11 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops
+
+A U.S. military-backed company plans to deliver a payload to any point on Earth within 90 minutes by prepositioning assets in space and then calling down delivery vehicles as needed. Sierra Space, a subsidiary of the Sierra Nevada Corporation, has successfully completed two test drops of its Ghost reentry vehicle while carrying a bottle of whiskey and a software-defined radio. According to Aviation Week, the test was conducted using high-altitude balloons that dropped it from 35,000 feet and 68,500 feet. While this test isn’t as exciting as SpaceX rockets landing on a platform at sea, it’s still an achievement for the team working on the project, as it’s the first test of the vehicle in two years. This demonstration is part of the U.S. Space Command’s Apollo Nexus training exercise, which aims to demonstrate the needed synchronization of multiple units in complex operations. The test’s payload isn’t just two random items, either. They’ve been specifically selected to show that liquids and sensitive electronics could survive part of the trip back to the surface. “We were able to safely demonstrate that and prove that we could come through all of those environments and then be recoverable in a certain period of time by the team on the ground,” Sierra Space senior vice president Erik Daehler told the publication. It should be noted that these cargo units aren’t designed to be launched by rockets from another side of the world to be delivered to frontline forces as needed. Instea
 
 ### Ugreen’s 100W 4-port GaN charger drops 27% today
 Sat, 10 Oct 2026 16:20:56 +0000 — https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98
@@ -161,22 +176,22 @@ Sat, 10 Oct 2026 12:52:20 +0000 — https://www.tomshardware.com/video-games/pc-
 
 Easy Fox, the developers behind a free, AI-powered game demo on Steam, has been forced to take out a bank loan as more players tried out its title. The game, called Teach My Little Sister How To Drive , uses Google Gemini to listen to your voice commands and generate responses, with ChatGPT serving as a fallback system. In its latest update , Easy Fox said that the number of players trying out the game has grown over 20 times, which is more than what it expected. This led its costs to skyrocket to more than a thousand dollars daily, and cheaper fallback AI models have led to slop injected into gameplay, impacting the user experience. SteamDB showed an average player count of under 10 people until late August, when it started gaining steam. By late September, this had ballooned to around 50 players, before finally hitting a peak of 431 on Oct. 1. “We are currently spending over $1,000 per day on AI services for the demo,” the team wrote on its Steam update. Easy Fox also added, “This isn’t because each player is particularly expensive to support. The total cost has increased because so many people are playing, and we have taken out a bank loan to help keep the demo running.” Since the game’s sole control method is your voice, AI is a critical part of its programming to recognize your commands and translate them into instructions for the virtual little sister. Since the game is still a free demo, Easy Fox needs to pay for the ongoing usage costs of the game. However, the develo
 
-### Nvidia reportedly halts GeForce RTX 5090 production in favor of AI data center and professional GPUs
-Sat, 10 Oct 2026 12:20:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-halts-geforce-rtx-5090-production-in-favor-of-ai-data-center-and-professional-gpus-impending-supply-drought-expected-to-drive-up-prices-rtx-5080-24gb-rumored-as-new-gaming-flagship
-
-Nvidia has reportedly ceased selling its GB202 graphics processors for consumer-grade GeForce RTX 5090-series add-in-boards (AIBs), including 'D' variants for the Chinese market, according to a leaked notice from an unknown factory cited by @hongxing2020 , who tends to have insights into the graphics card market. Another prominent leaker @Zed__Wang confirmed the report and said that from now on the GB202 silicon will be exclusively used on data center and professional graphics cards. "According to a notification from the factory, Nvidia will no longer manufacture any RTX 5090 models, including the D variants," a message cited by @hongxing2020 reads. "Going forward, the highest-end GeForce graphics card will be the RTX 5080 24GB, while the RTX 5080 16GB version will be discontinued. Please spread the word." This is, of course, an unverified claim and not an official Nvidia announcement. We asked Nvidia for a comment, though the company has yet to respond. Typically, Nvidia does not comment on rumors. While the information is strictly unofficial for now, the alleged decision would make considerable economic sense for Nvidia, as the company can sell GB202 processors on data center and professional graphics cards that cost substantially more than the GeForce RTX 5090. In fact, Nvidia's recently introduced RTX Pro 5500 features the same number of CUDA cores — 21,760 — as the GeForce RTX 5090, but comes with 84GB of GDDR7 memory instead of 32GB and targets considerably more lucrati
-
-### Russian modder slaps DLSS 5 onto Pac-Man with 4x Multipass
-Sat, 10 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost
-
-Russian DLSS 5 experimenting YouTube channel Valery Kryzhanovsky showcases the MS-DOS version of Pac-Man with 4x Multipass in four different rendering modes. The video shows weird and glitchy effects, with some rendering modes completely removing green Inky’s eyes and the dots. This cursed experiment is another attempt at putting DLSS 5 in games it wasn’t designed for, nor are the games designed to use such upscaling technology. While Nvidia’s leaked upscaler has been used for modern 3D games it’s designed for , it has become a meme to run it in games that aren’t even 3D at all, and some attempts aren’t even games at all. Valery was able to do this by running Pac-Man through the MAME arcade emulator and using ReShade to inject DLSS 5 into the graphics pipeline, and RenoDX to allow the DLSS 5 parameters to be tweaked. Valery emphasizes that this is not native, and of course it isn’t; the game was never designed to accommodate anything like it — that’s why it needed to be injected externally. Valery elaborates why 4x Multipass is needed in his blog post , saying that 1x basically does nothing for some older games. Multiple passes are needed in order for the changes to stack up, stating that this usually makes it look bad, but in some cases, photorealism could be achieved. However, for Pac-Man, there is basically no 3D information DLSS 5 could gather. The game is flat, and it has barely any human-like features for DLSS to enhance, except eyes, which is probably why it gave it su
-
-### AnyPS5 project reaches critical GPU milestone in race to enable running PS5 games natively on PC
-Sat, 10 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/playstation/anyps5-reaches-critical-gpu-milestone-with-100-percent-shader-instruction-coverage-ps5-games-running-natively-on-pc-still-far-off
-
-The open-source AnyPS5 project has reached 100% GPU shader instruction coverage, a significant milestone in its effort to run PlayStation 5 games natively on Windows and Linux PCs. The project's live progress tracker now lists all 1,166 instructions in its tracked AMD RDNA 1 and RDNA 2 instruction set as implemented. There's a fairly important asterisk attached to that number, though: it doesn't mean the PS5's GPU is fully supported, much less that PS5 games are ready to run on your PC. The distinction is in how AnyPS5 defines "implemented." In this case, it means the project's shader decoder recognizes an instruction. That's an essential first step, but it doesn't necessarily mean every instruction is implemented in translation to SPIR-V, never mind a guarantee that the instruction's behavior is correct in every situation, that every GPU feature is supported, or that a game's shaders will render properly. Consider the network libraries: libSceHttp is reported at 95% implementation, but the technical-debt document explicitly states that no HTTP request reaches the network in the current implementation. If you're confused about AnyPS5, let me break it down for you . The most accurate starting point is "native porting through binary transformation and API reimplementation," rather than conventional PS5 emulation. AnyPS5 takes an existing PS5 executable (in standard ELF format, like Linux) and relinks it into a native x86-64 Linux ELF or Windows PE executable. It doesn't need th
-
 ## Phoronix
+
+### Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results
+Sun, 11 Oct 2026 06:18:00 -0400 — https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel
+
+The Linux kernel build for RISC-V doesn't currently make use of the CPU ISA's Vector extension. but leveraging it with compiler auto vectorization is showing the ability to provide nice performance results for enhancing RISC-V Linux performance...
+
+### Drgn 0.3 Released For This "Natural" Programmable Debugger From Meta
+Sun, 11 Oct 2026 06:07:17 -0400 — https://www.phoronix.com/news/Drgn-0.3-Released
+
+Drgn is the open-source project out of Meta developing a very versatile debugger with the intent being a debugger focused on programmability with it striving to "make scripting as natural as possible so that debugging feels like coding." Drgn 0.3 released this weekend with the latest round of improvements...
+
+### Corsair Novablade Pro & 8BitDo Pro 2 Controllers To Be Supported With Linux 7.3-rc7
+Sun, 11 Oct 2026 05:58:19 -0400 — https://www.phoronix.com/news/Corsair-Novablade-Pro-Linux-7.3
+
+Sent out today as part of this week's input subsystem fixes are device ID additions to the XPad driver for enabling two more gaming controllers to work nicely under Linux...
 
 ### Rolling Release Distros Superior To LTS Distros In The Patch-Heavy GenAI Era?
 Sat, 10 Oct 2026 11:27:12 -0400 — https://www.phoronix.com/news/Rolling-Releases-GenAI-Era
@@ -223,22 +238,17 @@ Fri, 09 Oct 2026 10:58:00 -0400 — https://www.phoronix.com/news/Python-3.15-Re
 
 Python 3.15 is out today as the newest annual feature release for the Python programming language...
 
-### AMD PerfOpt Boosting Prior-Gen Ryzen APU Performance For AI
-Fri, 09 Oct 2026 10:38:27 -0400 — https://www.phoronix.com/review/amd-perfopt-prior-gen
-
-Last week I ran benchmarks of the new AMD PerfOpt feature being introduced in Linux 7.4. In those PerfOpt benchmarks on current-gen AMD Ryzen AI APUs/SoCs the AI performance improved as much as 18~23%. Several Phoronix readers expressed interest in seeing how prior-gen AMD Ryzen hardware benefited or not from PerfOpt, so here are some additional benchmarks.
-
-### Ubuntu 26.10 Sticks To Using GCC 15 By Default
-Fri, 09 Oct 2026 09:38:58 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-GCC-15-Default
-
-From a performance and enthusiast perspective, what I personally find most disappointing and puzzling with the imminent release of Ubuntu 26.10 comes down to its default compiler version...
-
-### Faster Zswap With Patches To Batch The Writeback I/O
-Fri, 09 Oct 2026 07:34:56 -0400 — https://www.phoronix.com/news/Faster-Zswap-Batch-Writeback-IO
-
-For those making increased use of Linux's Zswap as a compressed RAM cache for swap pages amid these times of sky high RAM prices, a new patch series was posted providing some incremental performance gains for Zswap by batching the writeback I/O...
-
 ## The Register
+
+### HPE's networking boss says AI will handle all trouble tickets without humans in two years
+Sun, 11 Oct 2026 11:37:00 +0200 — https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179
+
+HPE is extending its AI-powered networking automation across its hybrid cloud portfolio. That news came from Rami Rahim, formerly CEO of Juniper Networks and now president and general manager of HPE's networking business, whom The Register met last week when he visited Australia. Rahim champions what HPE calls "self-driving networks" – AI-assisted monitoring and automated remediation, part of the broader field known as AIOps. The networking boss thinks AIOps will mean human network administrators soon won't need to work on any trouble tickets. "I think we're now at probably around 70 to 80 percent of all tickets don't require human intervention," Rahim said. "Within two to three years, we'll have no issues that require humans." He allows that hardware swaps will be the exception to that rule, but even for that job he thinks skilled network administrators shouldn't be involved. "The technology should, without your knowledge, order a new part. It comes in the mail and you don't need an IT person, just an intern can come and take this thing, attach it to where the failed device is, and everything else just happens automatically." Why you'll trust your career to a machine The Register asked why net admins should trust AIOps, given that following bad advice issued by a machine is unlikely to improve anyone's career prospects. Rahim responded by pointing out that self-driving taxis have quickly become widely accepted in the Bay Area, and that first-time riders draw on their past ex
+
+### Researchers work out how to control 2D semiconductor growth for future chips
+Sun, 11 Oct 2026 10:30:00 +0200 — https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666
+
+Researchers have demonstrated a way to control where 2D semiconductor crystals begin growing, potentially addressing an obstacle to manufacturing next-generation chips at scale, according to a study published in Nature. The paper, "Spatially deterministic nucleation of 2D semiconductors by etching flux," was authored by a team including researchers at KAIST and South Korean startup TDS Innovation and published on October 7. The technique uses an etching flux to suppress the formation of new crystals everywhere within each patterned growth region except at its geometric center. Two-dimensional materials are atomically thin rather than literally two-dimensional. Graphene, perhaps the best-known example, is a single layer of carbon atoms, but its lack of an intrinsic band gap makes it unsuitable for conventional switching transistors. Monolayers of some transition-metal dichalcogenides (TMDs), such as molybdenum disulfide (MoS₂), do have a band gap and are being investigated as materials for future transistors and other nanoscale devices. When grown on a wafer, however, 2D semiconductor crystals typically start forming at random points, or "nucleation events occur stochastically at random sites within the growth region," as the paper puts it. This means that multiple crystals form, and as they grow and meet, they create boundaries between them that degrade electrical performance and make devices less uniform. To encourage a single crystal to form in each patterned region, the re
 
 ### Two characters open up a world of typosquatting opportunities in Chromium browsers
 Sat, 10 Oct 2026 12:15:00 +0200 — https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383
@@ -290,79 +300,79 @@ Fri, 09 Oct 2026 15:44:00 +0200 — https://www.theregister.com/personal-tech/20
 
 The global PC market has taken a beating, with shipments plunging more than 20 percent in the third quarter as the AI-driven memory shortage pushes up prices and buyers decide their existing machines will do just fine. New figures from Omdia show worldwide shipments of desktops, notebooks, and workstations fell 21.2 percent year-on-year to 58.1 million units in Q3 2026. IDC tells a similar story, estimating a 20.1 percent decline to 62.7 million units. The research firms differ on shipment totals, but agree the market has gone from bad to considerably worse. The downturn follows a rush to buy PCs earlier this year, when manufacturers, distributors, and corporate customers brought forward orders to get ahead of anticipated price increases. That helped prop up shipments in the first half of 2026, but left the industry with a pile of inventory and fewer buyers in the third quarter. IDC said shipments fell 9.1 percent from Q2, bucking the usual seasonal pattern in which back-to-school demand lifts the PC market. "What we're seeing is the result of the strong first half pull-in," said Jitesh Ubrani, research director for consumer devices at IDC. "Vendors and channels loaded up on inventory early in the year to get ahead of price hikes, and that has thrown off the usual seasonality, where Q3 is typically larger than Q2." Much of the trouble stems from the AI industry's appetite for memory and storage, which has left PC makers competing for increasingly expensive components. The sho
 
-### US Navy bets another $150M on fighter drone that skips the runway
-Fri, 09 Oct 2026 14:44:00 +0200 — https://www.theregister.com/offbeat/2026/10/09/us-navy-bets-another-150m-on-fighter-drone-that-skips-the-runway/5302237
-
-American defense biz Shield AI says combined US government funding and its own investment commitments have reached $400 million to advance its autonomous vertical take-off and landing (VTOL) fighter drone toward flight testing. The X-BAT aircraft was unveiled at an event in Washington DC last year for an audience of military leaders. According to Shield AI, the US Navy has committed an additional $150 million on top of earlier funding for the project. The company is stumping up a further $150 million of its own capital, and previously secured $50 million under the Runway Independent Maritime Expeditionary Strike (RIMES) program, which it had also matched. X-BAT is scheduled to begin flight testing later this year, with "mission capability" slated for 2028. It is intended to provide naval commanders with long-range strike assets capable of taking off and landing vertically from almost anywhere, doing away with the need for a runway. If it does come into service, the latter capability means that the US Navy would be able to operate combat aircraft from more than just its giant carriers like the USS Gerald R. Ford or the Navy's amphibious assault ships that carry Marine Corps F-35B fighters. It could also operate them from vessels such as the Expeditionary Sea Base (ESB), as shown in the image. X-BAT is 26 ft (7.92 m) long and has a 39 ft (11.9 m) wingspan. Shield AI claims a range exceeding 2,000 nautical miles and expects it to be capable of supersonic flight. The aircraft is 
-
-### Citrix gives NetScaler admins another critical reason to patch
-Fri, 09 Oct 2026 13:43:00 +0200 — https://www.theregister.com/security/2026/10/09/citrix-gives-netscaler-admins-another-critical-reason-to-patch/5302212
-
-Citrix is urging customers to patch another critical NetScaler vulnerability after weeks of disclosures involving actively exploited flaws. CVE-2026-107406 affects NetScaler ADC and NetScaler Gateway and can lead to remote code execution (RCE) or denial of service (DoS). It carries a CVSS v4.0 score of 9.5. The affected configurations depend on the software version. Older builds are vulnerable when configured as a SAML (Security Assertion Markup Language) service provider (SP) or identity provider (IdP); some more recent builds are affected only in the identity provider configuration. Citrix's advisory lists the affected builds and required updates. Secure Private Access Hybrid deployments using NetScaler instances also need patching. Citrix classifies the flaw as CWE-119: improper restriction of operations within a memory buffer. Customers must update their own deployments. Citrix says it handles the necessary updates for its managed cloud services and Adaptive Authentication. Citrix did not say whether this vulnerability was already exploited as a zero-day before disclosure, but credited Michael Tucker, Chew Keong Tan, and Alex Bernier at JPMorgan Chase's XOR Team, along with Maxim Suhanov, for the discovery. Google researchers said a campaign exploiting CVE-2026-88772 had been underway since at least early September, with organizations in government, finance, legal, and education across North America and Europe likely affected. Citrix disclosed the flaw weeks later as part
-
 ## Engadget
+
+### How to enable Live Activities on iPhone and CarPlay
+Sun, 11 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/
+
+Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.
+
+### How does a backup camera actually work?
+Sun, 11 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2280368/how-backup-camera-works/
+
+Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.
+
+### How to use the parental controls on iOS 27
+Sat, 10 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/
+
+Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.
+
+### How to reduce mobile data usage on your iPhone
+Sat, 10 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/
+
+If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.
+
+### Simple tweaks to improve your 4K TV's picture quality
+Sat, 10 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/
+
+Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.
+
+### How to lock apps on your Samsung Galaxy phone
+Sat, 10 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/
+
+Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.
+
+### What is the 3-2-1 rule for backing up your data?
+Sat, 10 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/
+
+Make sure your files are safe in the event of a hard drive disaster.
+
+### How does using your MacBook while charging affect its battery life?
+Sat, 10 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/
+
+Modern MacBooks are pretty smart about managing their battery's health.
+
+### This Android Auto problem is affecting calls on foldable phones
+Sat, 10 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/
+
+Gemini might be causing some issues with Android Auto.
+
+### How to quickly check your Samsung Galaxy's warranty info
+Sat, 10 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/
+
+You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.
+
+### What is ray tracing in gaming and does it really make a difference?
+Sat, 10 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/
+
+Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.
 
 ### Anthropic says its AI agents tried to break into government websites
 Sat, 10 Oct 2026 17:49:49 +0000 — https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/
 
 In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.
 
-### How to reset your Samsung TV
-Sat, 10 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2279855/how-to-reset-samsung-tv/
-
-If you have a Frame TV or one of the other Samsung models, you may occasionally need to reboot or factory reset it.
-
-### GameStop is hoping PS5 Pro buyers are desperate enough to pay $500 over MSRP
-Sat, 10 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2283062/gamestop-selling-ps5-pro-500-dollars-over-msrp/
-
-A shortage has driven resale prices through the roof.
-
-### How Xiaomi, Oppo and other non-US brands are challenging the iPhone Duo
-Sat, 10 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/
-
-Apple's foldable phone has everyone talking, but competitors have their own offerings in different ways.
-
-### 5 Samsung Galaxy features you should be using after updating to One UI 9
-Sat, 10 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2279220/samsung-galaxy-one-ui-9-features-you-should-use/
-
-Samsung Galaxy phones that have upgraded to Android 17 and One UI 9 have a slew of new features - some more helpful than others.
-
-### Why your smart speaker keeps misunderstanding you (and how to fix it)
-Sat, 10 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2279051/smart-speaker-misunderstands-you-how-to-fix/
-
-Smart speakers should recognize your voice to run commands, but you can help them out with a few tricks.
-
-### How to change your home address on Google Maps
-Sat, 10 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2278953/how-to-change-home-address-google-maps/
-
-Set it to a nearby place instead, if you're concerned about the potential dangers if someone accesses your phone.
-
-### How to take care of your foldable phone's hinge
-Sat, 10 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2278858/how-to-take-care-of-foldable-phone-hinges/
-
-Foldable phones require a little more care than standard ones, but the hinge will do its job as long as you don't make that difficult.
-
-### Can you use a screen protector with your foldable phone?
-Sat, 10 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2278720/foldable-phone-screen-protector-can-you-use/
-
-Screen protectors seem like an easy win for keeping your phone in good condition, but there's more to consider with a foldable phone.
-
-### Google Japan created one of the strangest keyboards ever, and we're dying to try it
-Sat, 10 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2282903/google-japan-gboard-conveyor-belt-keyboard-dying-to-try/
-
-Google Japan created an assembly line-inspired keyboard you can use with one hand.
-
-### How to drop a pin on Google Maps
-Sat, 10 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2278593/how-to-drop-pin-google-maps/
-
-Google Maps makes it easy to save and share any location, even if it's not officially on the map. Dropping pins is a great way to do that.
-
-### What is QoS on your router, and should you turn it on?
-Sat, 10 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2278574/router-qos-meaning-should-you-use/
-
-QoS is another acronym buried in your router's settings that you might have just ignored, but it may be worth turning on in some scenarios.
-
 ## TechCrunch
+
+### Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+Sat, 10 Oct 2026 21:47:51 +0000 — https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
+
+In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.
+
+### Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
+Sat, 10 Oct 2026 19:50:00 +0000 — https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/
+
+Is Apple hoping to get into the AI-generated podcast business?
 
 ### Petra Power looks to modernize energy for data centers and defense vehicles
 Sat, 10 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/
@@ -413,14 +423,4 @@ Anthropic did not discover this behavior until over two months after its AI subm
 Fri, 09 Oct 2026 18:57:58 +0000 — https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/
 
 Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
-
-### TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers
-Fri, 09 Oct 2026 18:57:06 +0000 — https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/
-
-Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.
-
-### LumenUs helps automate tedious paperwork in times of grief
-Fri, 09 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/
-
-"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about," said founder Sara Tashakorinia.
 
