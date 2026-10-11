@@ -45,6 +45,11 @@ Ikebukuro, are both still going ahead. What died was the free launch event.
 
 ## The decorations are the part that stings
 
+<figure>
+  <img src="/img/blog/yuriten-anniversary-event-cancelled-ai-promo-art/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Hareza Ikebukuro, the complex the cancelled kickoff event was to be held in front of. Photographs by Beryllium Transistor and NickeldimeC, via Wikimedia Commons.</figcaption>
+</figure>
+
 The teaser image is what everyone saw, so it is what everyone argued about. The
 admission went further than the teaser, though. Lilium said generative AI had
 also been used in the **event's decorations**, and in some of the company's
