@@ -1,6 +1,11 @@
-# Tech — harvested 2026-10-11T11:01:06.015Z
+# Tech — harvested 2026-10-11T18:27:21.273Z
 
 ## Ars Technica
+
+### Prime Video unveils Blade Runner 2099 full trailer at NYCC
+Sun, 11 Oct 2026 14:50:24 +0000 — https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/
+
+We got our first look at Prime Video's new sci-fi series Blade Runner 2099 in July at San Diego Comic-Con. With the show's premiere roughly six weeks away, the streamer unveiled the full trailer this weekend at New York Comic-Con. Co-stars Michelle Yeoh and Hunter Schafer ( Euphoria ) joined showrunner Silka Luisa ( Shining Girls ) onstage for the big reveal. As Luisa described the show during the NYCC panel Saturday night: We are 50 years after [ Blade Runner ] 2049 and, bad news, the worst has happened. The replicant uprising that has been bubbling up in the films has taken place and the humans have lost. So the creations have surpassed their creators. And the series, the big question it asks is, ‘What happens when our time as a species ends?’ 2099 is taking place at a junction point when one species is ending and a new one is rising. The first film, something I loved about it, was that it was looking at mortality on a micro level. Roy Batty and the other replicants were fighting for more life. This show asks that same question but on a macro level. Mankind—what happens when we realize our time is running out? And are we going to accept that loss? Can we hold on to our humanity during it? Yeoh stars as Olwen, the dying Replicant, while Schafer plays Cora. The cast also includes Hugo Hamlet as Buster Friendly, as well as Dmitri Abold, Lewis Gribben, Katelyn Rose Downey, Daniel Rigby, Johnny Harris, Amy Lennox, Sheila Atim, Matthew Needham, Tom Burke, and Maurizio Lombardi—al
 
 ### One with the world? A new look at brains transformed by psychedelics.
 Sat, 10 Oct 2026 11:15:35 +0000 — https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/
@@ -57,12 +62,42 @@ Fri, 09 Oct 2026 18:33:26 +0000 — https://arstechnica.com/gadgets/2026/10/your
 
 The Debian Linux project has opened a call for community artwork submissions ahead of the release of the upcoming Forky (Debian 14). If you think you've got the artistic chops, your art could appear on the boot screens, login prompts, and desktop wallpapers of millions of users. The submission deadline is November 26. Continuing Debian's community-driven ethos, the artwork submission process mirrors that of previous releases. The artwork must feel distinctively "Debian," integrate cleanly without the need for core software patching, and remain visually appealing for the long term. Elise Couper's "Ceratopsian" theme was chosen as the winning default for Debian 13 Trixie . For anyone who might not be up on the latest from the Toy Story franchise, the release names echo character names from the animated films. Trixie was a triceratops introduced in Toy Story 3 , hence the "Ceratopsian" wink in the winning submission. It makes sense that the next version of Debian continues this trend with Forky, a character introduced in the franchise's fourth entry. The Debian team cautions against overly busy designs that may cause user fatigue, but if anyone can successfully incorporate Forky's googly eyes into the design somehow, know that you'd at least win the contest for my Debian desktop wallpaper. Read full article Comments ]]>
 
-### Starlink spectrum deal boosts Musk plan to beat AT&T, T-Mobile, and Verizon
-Fri, 09 Oct 2026 18:24:39 +0000 — https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/
-
-SpaceX has a deal to purchase nationwide low-band spectrum licenses for a planned terrestrial mobile network that would complement the space-based Starlink cellular service. SpaceX will buy up to 14 megahertz of spectrum in the 800 MHz band from investment firm Grain Management , which bought the spectrum rights from T-Mobile earlier this year. T-Mobile had obtained the spectrum when it bought Sprint in 2020 and was required to sell the licenses under a merger condition imposed by the US government. "This prime low-band spectrum addresses one of the key remaining technical gaps that will pave the way for Starlink Mobile to become a major mobile carrier in the US," SpaceX said yesterday . SpaceX this week also received US approval to launch 15,000 satellites for an upgraded version of its mobile service that it says will be far more powerful than the current offering. Read full article Comments ]]>
-
 ## The Verge
+
+### The new Apple TV could have a built-in mic and a remote with a speaker
+2026-10-11T13:31:07-04:00 — https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker
+
+The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod device. That could also let the Apple TV serve as a simple smart home hub - controlling thermostats and locking doors - without the need to hunt for the remote. If you happen to misplace the remote, the new integrated speaker should make it easier to track down. It could play an audio alert to guide you to its location, whether it got carelessly kicked under the couch or a child mischievously hid it … Read the full story at The Verge. ]]>
+
+### NASA dumped over 800GB of Artemis II data online
+2026-10-11T11:34:40-04:00 — https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data
+
+A crew annotated image showing where the Artemis II team observed impact flashes on the dark side of the Moon. | Image: NASA If you thought you'd seen all there is to see from the Artemis II mission , you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 photos and videos, over 8.5 hours of audio, and crew-annotated images, such as the one marking where they saw impact flashes on the dark side of the Moon. Together, they offer an unprecedented view inside a historic space mission. One of the more exciting reveals was footage of the Artemis II team telling the ground team back in Houston about its observation of impact flashes. Impact flashes have … Read the full story at The Verge. ]]>
+
+### George A. Romero’s Season of the Witch is a slow-burn feminist occult drama
+2026-10-11T11:15:00-04:00 — https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review
+
+George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies , Romero made two much lesser-known films: There's Always Vanilla , which I'll admit I've never seen, and Season of the Witch , or, as it was originally titled, Hungry Wives . Hungry Wives was supposed to be an exploitation film. The studio marketed it as a softcore porn, but it failed to find an audience - probably because the movie features minimal nudity, just one sex scene, and lots of talking. It was an undeniable flop upon its release in 1973. It was eventual … Read the full story at The Verge. ]]>
+
+### Vurt wants you to look at vertical videos as a genre of their own
+2026-10-11T09:00:00-04:00 — https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey
+
+From Disney Plus to HBO Max , almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential threats. In this arms race for viewers' attention, it has often felt like everyone is trying to find new ways to exist on people's phones. But a new startup thinks that the next step in vertical series' evolution is going to take place on our wide-screen televisions. Unlike most vertical microdrama / series streaming platforms on the market that have focused on mobile viewing experiences, Vurt ha … Read the full story at The Verge. ]]>
+
+### What to expect from Apple’s ‘Welcome Home’ event
+2026-10-11T09:00:00-04:00 — https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home
+
+We are quickly coming up on Apple's " Welcome Home " launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub . We could also see the debut of a new platform called homeOS, and some partner devices from LG. What we probably won't be seeing is the long-rumored touchscreen MacBook, which Cupertino whisperer Mark Gurman says will debut later this month . "Welcome Home" will officially kick off in New York on October 13th at 9AM ET. Here's more about what to expect. A proper smart home hub Until now, Apple has primarily relied on the … Read the full story at The Verge. ]]>
+
+### Horror is big business
+2026-10-11T08:00:00-04:00 — https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil
+
+This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster . The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started Resident Evil has been around for 30 years, but the survival horror series is more popular than ever. The most recent game, Resident Evil Requiem , has sold 8 million copies since it launched in February, already making it the 14th best-selling game that Capcom has ever made . At the same time, a reboot of the Resident Evil film series from Weapons director Zach Cre … Read the full story at The Verge. ]]>
+
+### Why the LeapPad couldn t survive the iPad
+2026-10-11T08:00:00-04:00 — https://www.theverge.com/podcast/1008578/leapfrog-leappad-technology-version-history
+
+For multiple years, the hottest toy in the United States was a book. But not just any book: a smart book that could play sounds and respond to taps and help kids learn to read. It was the kind of gadget seemingly any parent could get behind, but it came with a high price - and some unexpected parenting questions. On this episode of Version History , David Pierce is joined by The Verge 's Andru Marino and Jennifer Pattison Tuohy to explain how the LeapPad worked, why it was so enticing to both kids and adults, and why the company that made it could never quite follow it up. We're almost finished with our fifth season of Version History , all … Read the full story at The Verge. ]]>
 
 ### Learning to use local AI is exciting, overwhelming, and frustrating
 2026-10-11T07:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress
@@ -79,104 +114,79 @@ In a lengthy post on X , Microsoft's CEO laid out his views on the dangers posed
 
 Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in September claiming that DistroKid has created an "AI-slop pipeline." Artists are saying that their non-AI works are being caught up in the purge, however. Musician and self-described "Video Game boy" McGwire reported that six of his songs had been removed from streaming. As has been the case with others, McGwire says that there was no communication from DistroKid before or after the removals, a … Read the full story at The Verge. ]]>
 
-### Ledger wallet tampering suspected after reports of crypto thefts
-2026-10-10T12:36:44-04:00 — https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts
-
-Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained , and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it conducts an investigation. Ledger has confirmed that "one of the impacted users' devices contained an unauthorized hardware implant." Photos and videos posted on X and Threads appear to show a small circuit board sandwiched under the screen. The implant allegedly intercepts anything displayed on the screen, including the seed passphrase shown during the initial setup. Using an embedded SIM card, the … Read the full story at The Verge. ]]>
-
-### K-pop star Sunmi loves Notion and ear cleaning videos
-2026-10-10T11:00:00-04:00 — https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview
-
-Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single " Nobody " was the first K-pop song to hit the Billboard Hot 100 in October 2009. In 2010 Sunmi left the group to go back to school, but the siren call of a music career pulled her back in. She released her debut solo EP Full Moon in 2014. That began a run of award-winning releases for the pop star, including Song of the Year for "Gashina" at the Gaon Chart Music Awards. Despite her near-constant presence in the K-pop world as a solo … Read the full story at The Verge. ]]>
-
-### Anthropic is cutting off its internal evaluations from the internet
-2026-10-10T10:41:16-04:00 — https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet
-
-After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed " unintended model actions ," including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal and we had already turned off live internet access for some high-risk and cybersecurity evaluations, we have now decided to expand that to include all our internal evaluations until we have confirmed that our security and monitoring measures (described in the remediation section … Read the full story at The Verge. ]]>
-
-### Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?
-2026-10-10T10:00:00-04:00 — https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure
-
-Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance. So I wanted to ask Peter if he thinks the Ellisons and Skydance have a real shot at succeeding where so many companies before them have hit the rocks. Okay: Peter Kafka on Warner Bros. and Skydance. Here we go. This interview has been lightly edited for length and clarity. Peter Kafka, you re the chief correspondent at Business Insider, and you re the host of the Channels podcast, our sister podcast here on the Vox Media Podcast Network. Welcome back to Decoder . Thanks for having me. It s big media day again! A big media day. It s an auspicious day, as my parents would say. It is the day that the Warner-Paramount merger closes. We ve all been calling it Warner Mount, but I m told this company will instead just be called Skydance . Skydance! Every time I see the word Skydance, I assume it is foreign-owned, which is maybe true in some way. Another way to think of it is that there are iconic na
-
-### LG’s RGB LED TV is good for certain situations, but an OLED is better
-2026-10-10T09:00:00-04:00 — https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review
-
-The LG’s picture is bright and punchy, but its panel is very reflective. When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - including LG and its $3,600 75-inch Micro RGB evo MRGB95B that I've been testing. And while LG's RGB LED TV benefits from the brightness and color capability the technology provides, it has issues I couldn't overlook that its less expensive competitors don't. The MRGB95B comes in three sizes, with the 75-inch being the smallest. It has four HDMI 2.1 ports, supports Dolby Vision - although not Dolby … Read the full story at The Verge. ]]>
-
-### AI agent makers are promising privacy — will they deliver?
-2026-10-10T09:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots
-
-At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to "set a new standard for privacy in frontier AI." OpenAI would spend the day taking veiled shots at Meta's Muse, its primary competitor, for failing to keep users' data safe. Yet Muse itself, a couple of months earlier, had launched as a supposedly safer alternative to predecessor OpenClaw - with CEO Mark Zuckerberg promising it was "built from the ground up for privacy and security." In an age when companies hoard customers' personal data and cyberattacks are a dime a dozen, AI labs are trying to convince user … Read the full story at The Verge. ]]>
-
-### The techlash has gone Hollywood
-2026-10-10T08:00:00-04:00 — https://www.theverge.com/tech/1008836/social-reckoning-cupertino-techlash-installer
-
-Hi, friends! Welcome to Installer No. 147, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, I missed you all, and also you can read all the old editions at the Installer homepage .) I'm back from parental leave! Part time, anyway. Thanks to everyone who sent well wishes and tips for managing three kids. I need 'em all. This week, I've been reading about McMansions and data centers and sports cards and ICANN , trying to run my life on the Dell XPS Googlebook , testing a new and very purple Kindle , reinventing my whole note-taking system now that Google Docs can handle Markdown files , listening to episode … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Console market craters as Xbox sales crash 33% to the lowest since launch 25 years ago, PS5 sales drop 25%
+Sun, 11 Oct 2026 16:30:00 +0000 — https://www.tomshardware.com/video-games/console-gaming/console-market-craters-as-xbox-sales-crash-33-percent-to-the-lowest-since-launch-25-years-ago-ps5-sales-drop-25-percent-steep-price-hikes-push-series-x-to-usd800-and-ps5-pro-to-usd900
+
+Video game console sales in the U.S. have cratered, with both the PS5 and Xbox seeing a massive drop in YTD sales through the end of August compared with last year. Mat Piscatella, the video game industry advisor at research firm Circana, shared the numbers on his Bluesky account — PlayStation 5 sales have dropped by 25%, putting it at its lowest point since 2013, when gamers held off buying PlayStation consoles in anticipation of the arrival of the PS4, while Xbox’s retail figures have cratered by 33% YTD, putting its sales numbers at an all-time low since its launch almost 25 years ago. From Circana's US Retail Tracking Service:For 2026 YTD ending August, Xbox hardware unit sales are down 33% versus a year ago in the US, while PlayStation hardware units are 25% lower.Xbox YTD US hardware unit sales are at an all-time low, while PlayStation is at lowest point since 2013. — @matpiscatella.bsky.social ( @matpiscatella.bsky.social.bsky.social ) 2026-10-11T15:51:03.015Z Piscatella said price sensitivity is becoming a real problem among gamers, especially as the chip shortage has pushed console manufacturers to raise prices. Microsoft has raised the price of the Xbox three times in the past two years , with the 512GB versions jumping by $100 and 1TB models becoming $150 more expensive. Worse, the company has killed off the 2TB model. This brought the Xbox Series S to $499.99 (512GB) and $599.99 (1TB), while the Xbox Series X now costs $749.99 for the Digital Edition, and the disc
+
+### Cyberleek threatens full GTA 6 build leak unless Take-Two apologizes and his $30 million crypto memecoin goal is met
+Sun, 11 Oct 2026 16:10:00 +0000 — https://www.tomshardware.com/software/linux/cyberleek-threatens-full-gta-6-build-leak-unless-take-two-apologizes-and-his-usd30-million-crypto-memecoin-goal-is-met-leaker-demands-physical-release-while-pumping-solana-memecoin-to-usd30m
+
+Cyberleek , the infamous group that's been drip-feeding the gaming community with improperly tone-mapped leaks of GTA 6 from what appears to be a real final build of the game, has just put down an ultimatum for Take-Two Interactive and Rockstar Games: do a physical release for GTA 6 and apologize, or the group will release a full build of the game with the complete story mode. It's not clear exactly what Cyberleek wants an apology for, but that's the demand. As we reported previously, Cyberleek is leveraging its stolen build of Grand Theft Auto VI to try and pump its memecoin, $CYBERLEEK on Solana. That has seemingly always been the plan; the leakers cashed out some $250,000 just hours before Rockstar's Extended Look show went live on Netflix. We thought that would probably be the last we heard of Cyberleek, but the outlaw has returned this week with more leaks, including footage of both main characters as undressed as they get and numerous major story spoilers. (Image credit: Cyberleek.io) This time, Cyberleek's goals are grander, and also more transparently self-serving. While the leakers previously spoke of high-minded ideals, like preserving gamer ownership of games, this latest message, titled "The Offer," simply demands that the Cyberleek memecoin hits "30 million marketcap" before they will release the build . That's right: even if Take-Two completely ignores Cyberleek, apparently nothing will happen unless the memecoin hits $30 million. (Image credit: Opeansea.io) Tha
+
+### Canadian YouTuber builds 'Flock-like' camera to exclusively track police vehicles
+Sun, 11 Oct 2026 15:11:18 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/canadian-youtuber-builds-flock-like-camera-to-exclusively-track-police-vehicles-officers-visit-his-home-to-express-privacy-concerns
+
+A YouTuber has received an unexpected visit from the police over an automatic license plate recognition (ALPR) camera he built to specifically track police cars, using the same technology law enforcement has infamously used to track ordinary citizens. In a video posted to his channel on October 7, Anthony Sistilli says two police officers showed up at his doorstep on September 20th to ask questions about the device, asking what his intentions were with the project. Sistilli, a Canadian software engineer and YouTuber, pointed out the irony of the officers' concerns, explaining that they mirror the privacy concerns of ordinary citizens who are growing increasingly weary of the recent spike in blanket surveillance brought about by a mass installation of ALPR cameras. Flock Safety, a U.S. public safety technology company, recently scaled its centralized national surveillance network to over 120,000 cameras operating across 49 states, according to the company, capturing billions of vehicle scans every month. The development sparked widespread public backlash, with critics arguing that Flock has quietly built a massive government surveillance dragnet without a public vote or federal oversight, since any police department on the network can search across state lines. Security researchers later discovered the network included 335,701 Flock cameras and created a “Flock Surveillance Map,” exposing their locations . Similar ALPR camera surveillance networks exist in Canada, where Sistil
+
+### Modder discovers that putting a GPU in the 'wrong place' can deliver a 19 degree cooler hotspot
+Sun, 11 Oct 2026 14:23:20 +0000 — https://www.tomshardware.com/pc-components/gpus/modder-discovers-that-putting-a-gpu-in-the-wrong-place-can-deliver-a-19-degree-cooler-hotspot-breaking-convention-can-produce-great-results-despite-decades-of-pc-diy-evolution
+
+It might be reasonable to assume that desktop PCs are built in a certain way due to decades of evolution and optimization. However, we're getting used to TrashBench challenging convention, and we're pleased to say the video below represents one of this enthusiast's best cooling innovations yet. In this latest video, completely ignoring the accepted norms of GPU placement delivered up to a 19°C hotspot temperature reduction but adversely impacted CPU temperatures . However, some more tweaking resulted in a 14°C reduction in hotspot temperatures and a 3.3°C cooler CPU. TrashBench's plan was to prepare his RTX 3080 desktop PC and "test it normally, then start moving s*** around." This process began with an entirely conventional setup with the CPU cooled by a 360mm AIO, and the triple-fan RTX 3080 slotted directly into the usual PCIe expansion slot. With the traditional build complete, TrashBench tested this baseline with a constant thermal load from looping 3DMark Time Spy and 7-Zip’s built-in benchmark. The fans in the system had their RPMs locked for consistency. Now he could start "trying to figure out if we’ve been putting the parts in the wrong place." Beginning the first 'alternative' PC build, we heard the modder muse, "cable management isn’t important here... Is it ever?" Then we saw the GPU tested at the bottom of the case, and vertically to the side, facing one way or another, and either side of the triple case fans on the side. Meanwhile, the CPU AiO cooler was tested
+
+### Russia's Yandex bot traffic nearly eliminated overnight after Ukraine drone strikes cripple multiple of 'Russia's Google' data centers
+Sun, 11 Oct 2026 13:15:09 +0000 — https://www.tomshardware.com/tech-industry/data-centers/russian-disinformation-bot-traffic-nearly-eliminated-overnight-after-ukraine-drone-strikes-cripple-multiple-of-russias-google-data-centers-ukraine-intensifies-bombing-of-yandex-data-centers-in-response-to-moscows-strikes-on-kyiv-data-centers
+
+Russian bot traffic has dropped dramatically in the past few days after Ukraine knocked out Yandex’s biggest data centers, with a third attack happening last night . Cloudflare reports that bot traffic from the Yandex network has dropped to just 0.4% of the maximum number of HTTP requests recorded in the past two weeks. It initially dropped to around 57% on Oct. 8, which happened when Ukraine hit a Yandex data center housing two supercomputers in Sasovo, Russia, located around 195 miles to the southeast of the Kremlin. A second, bigger Yandex campus in Kaluga, about 220 miles to the west of Sasovo, was knocked offline yesterday . These attacks are apparently Ukraine’s response to Moscow’s strikes on its own data centers , some of which resulted in the outage of some of the most popular piracy websites . (Image credit: CloudFlare) Yandex is Russia’s equivalent to Google, and its Yandex Cloud service status reports that at least 84 services are currently offline. Global internet monitoring firm NetBlocks said that Yandex’s network traffic has dropped to just 30% for Yandex Cloud and 63% for Yandex LLC, most likely resulting in slower internet services or complete disruption for the average Russian. Unfortunately, the ordinary Russian wouldn’t be able to use high-speed satellite internet as a backup, as Starlink does not work in Russia, while the competing Rassvet constellation has had a good number of its existing satellites fall back to the surface after launch. ⚠️ Confirmed: 
+
+### Sandisk NAS 800 1.92TB SSD Review: Endurance at a premium
+Sun, 11 Oct 2026 13:05:59 +0000 — https://www.tomshardware.com/pc-components/ssds/sandisk-nas-800-1-92tb-ssd-review
+
+Sandisk is back with another welcome SSD, the NAS 800. As the name implies, this drive is designed for NAS appliances, but could also be a good choice for high-end desktop and enthusiast workstations. We recently reviewed the Optimus GX Pro 850P , a consumer drive for the PS5, so SanDisk is on a roll. The company has made it clear it wants to support the broader consumer market, as it’s even bringing back SATA SSDs in the form of the 320 and 520 series . The NAS 800 is closer in theme to the WD Red series of drives, like the WD Red SN700 , which are optimized for home and small-business servers. At its heart, the NAS 800 is a specialized, optimized Sandisk Optimus GX Pro 8100 (formerly the WD Black SN8100 ). That progenitor is one of the best drives on the market. It has a stellar controller and excellent all-around flash with good power efficiency and low latency. This makes a great base for a NAS drive, although some changes are necessary. The bones are good, though, and this drive could be used in any system. The only real issue is that you’re paying a premium for the NAS optimizations, and that’s where our focus is. Sandisk NAS 800 Specifications Product 960GB 1.92TB 3.84TB 7.68TB Pricing $387.99 $699.99 $1,374.99 $2,749.99 Form Factor M.2 2280-S3-M M.2 2280-S3-M M.2 2280-S3-M M.2 2280-D5-M Interface / Protocol PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 PCIe 5.0 x4 / NVMe 2.0 Controller SMI SM2508 SMI SM2508 SMI SM2508 SMI SM2508 DRAM Yes Yes Yes
+
+### Developer turns classic Windows Minesweeper into hand-holding 'big-budget, Triple-A’ parody
+Sun, 11 Oct 2026 12:50:00 +0000 — https://www.tomshardware.com/video-games/developer-turns-classic-windows-minesweeper-into-hand-holding-big-budget-triple-a-parody-browser-reboot-mocks-modern-gaming-with-chatty-npcs-internal-monologues-and-promised-loot-boxes
+
+A creative director just created a AAA version of the classic Minesweeper game that used to come with Windows. Mike Lacher shared his creation on LinkedIn , which he called a “big-budget, triple-A” reboot, with “loot boxes and brand integrations” set to arrive in the first quarter of next year. When you visit the Triple-A Minesweeper page, you’ll be greeted by the classic Minesweeper logo similar to what you’d expect to see on a Windows 95 desktop. But when you double-click on the icon, you’ll be greeted by the usual sweeping audio entrance that you find on big-budget games, alongside a series of logos from the usual suspects — Unreal Engine, Nvidia, Bink Video, and Wwise — before finally seeing the Minesweeper title splash appear across the page. Once the loading screens finish, you’re immediately transported to the Minesweeper game. But instead of just loading the game window, you’re greeted by the screen as if you’re coming to after being knocked out in a first-person video game. This is where Nora, your apparent handler, calls you “Sweeper” and introduces what you need to do. It also says, “I’m patched into your neural hub,” just like what many sci-fi games do. If you wait a while before pressing anything, you’re going to be greeted by a series of voice messages from the apparent antagonist, called “The Don,” plus a series of annoying side characters like your apparent best friend “Clyde,” and some scientist telling you to find things for a neural HUD upgrade called “Dr. 
+
+### Programmer ports Super Mario 64 to Microsoft’s Zune HD media player
+Sun, 11 Oct 2026 12:30:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/programmer-ports-super-mario-64-to-microsofts-zune-hd-media-player-the-2009-ipod-rival-runs-the-game-natively-on-its-nvidia-tegra-chip-with-touchscreen-controls-and-saves
+
+The Nintendo 64 game Super Mario 64 has come to the Microsoft Zune HD, Hackaday reports, through a project that runs natively on the device’s hardware through the unofficial OpenZDK kit, per the repo’s README. A touchscreen controller overlay is drawn over the game’s video, and the game “plays (mostly) at full speed with sound, touch controls and saves,” from the rsheldiii repo, although no ROM is included and one dumped from your own cartridge is required. The Zune HD, a 2009-era media player that rivaled Apple’s iPod, has Nvidia Tegra hardware inside, and the project is built on sm64ex, a fork of the unofficial, decompiled Super Mario 64 PC port . The Zune HD, part of our 2009 gift guide, was marketed as having a “3.3-inch glass screen” using OLED and touchscreen technology, from Microsoft’s media alert at the time, with Tegra providing the “multimedia muscle,” according to an Nvidia release. The unit was originally priced between $219.99 and $289.99, depending on capacity, and uses the Nvidia Tegra APX 2600 chip. The operating system is Windows CE-based, with third-party games going through Microsoft’s XNA. The Zune was short-lived, with Microsoft halting production in 2011, but an exploit led to OpenZDK coming out that allowed for homebrew. The implementation depends on native ARM code on top of the Zune HD’s OS, using OpenZDK. The device’s firmware is not modified, but the port, according to the developer, should only be used “at your own risk,” a standard disclaimer. It
+
+### Two Steam games generated $560,000 across 135,000 sales, but the co-creator only took home $15,000 annually
+Sun, 11 Oct 2026 12:10:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/two-steam-games-generated-usd560-000-across-135-000-sales-but-the-co-creator-only-took-home-usd15-000-annually-high-chinese-refund-rates-steams-30-percent-fee-and-publisher-cuts-eat-most-of-the-profit-leaving-the-co-creator-driving-a-2012-mazda
+
+When it comes to the gaming industry, the billions bandied about regarding AAA titles often lead many to think that if your game scores a hit, you're essentially set for life. Unfortunately, the sad reality is that indie developers often have to end up pinching pennies or outright in a deficit despite strong sales. Omer Develioğlu, the co-founder of Northend Games, offered a candid breakdown of how $560,000 in income over five years for sales of his games ended up as just $134,000 split two ways, with $73,000 in his and the co-founder's pockets. In the end, the co-creator got only $15,000 per year and continues to drive his 2012 Mazda, hardly the riches one would expect. The $560,000 gross figure refers to sales for two titles: Northend Tower Defense and Deepstone Rift (Early Access), both sold on Steam, for a grand total of 135,000 units. In an accompanying video , Develioğlu mentions that an impressive 53.3% of sales come directly from China. Unfortunately, he also says that the country's customers are very demanding, and that the refund rate there is disproportionately large. Thus, $134,000 goes right away towards said refunds, with a rate of 22%, "way above" the purported standard of 10-15%. For what it's worth, the Chinese refund rate is corroborated by both older and recent third-party figures. Current tally: $426,000 . Then there's Steam itself. The platform is widely beloved by gamers everywhere for its value-add features like the Workshop, but also for the basic noti
+
+### Cryptomining malware used poetry to infect more than 3,400 servers, researchers say
+Sun, 11 Oct 2026 11:45:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/cryptomining-malware-used-poetry-to-infect-more-than-3-400-servers-researchers-say-four-words-in-the-poellm-verse-changed-11-times-point-the-botnet-to-new-servers
+
+Over 3,400 “victim servers” were hit by cryptomining malware PoeLLM during a campaign named Canto Incognito, tracked since April 2026, Lumen’s cybersecurity research team Black Lotus Labs reports . The malware’s “command-and-control (C2) mechanism” used address encoding through four words in a two-stanza poem on GitHub, altered 11 times so far, to direct affected hosts to new C2 servers. Most of those hit look to be running “vulnerable versions of open-source AI/LLM services, such as LiteLLM and Ollama,” despite an April LiteLLM fix that probably patched the exploitation path. The malware’s payload consists of XMRig and Iron miners, connected to Kryptex mining infrastructure, with infected servers becoming scanners and exploit servers. The “primary commonality amongst the first 900 victims” was contact with “an endpoint for the Russian crypto mining service,” Lumen says. This indicates that it may be financially motivated. “AI infrastructure is becoming an attractive target” because exposed AI services may contain valuable data and hardware access, especially GPUs . In the meantime, it has “blocked all traffic to and from the PoeLLM C2 servers.” The primary targets are LiteLLM, a proxy server (AI Gateway) to call LLM APIs, a way companies can route their apps to many models through one endpoint, and Gotenberg, a Docker-based API for PDF conversion, which has a guide warning not to expose it to the internet. Also hit are Ollama, which allows you to run open-weight models on yo
+
+### State of California sues 3D printer filament company Polymaker for promoting ghost guns by marketing to 3D-printed gun community
+Sun, 11 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/3d-printing/state-of-california-sues-3d-printer-filament-company-polymaker-for-promoting-ghost-guns-by-marketing-to-3d-printed-gun-community-state-alleges-company-turns-harmless-pla-filament-into-a-regulated-firearm-precursor-part
+
+California is taking another swing at banning 3D-printed “ghost guns,” and this time the target is one of the world’s largest manufacturers of 3D printing filament. Polymaker LLC, headquartered in Shanghai with U.S. operations based in Houston, was named in a civil lawsuit filed October 5, 2026, by San Diego County Counsel on behalf of the People of the State of California. The complaint alleges that Polymaker marketed its filament in such a way as to appeal to gun enthusiasts and thus transform harmless PLA into a regulated “firearm precursor part.” Under California law, a firearm precursor part is “defined to include any article marketed or sold to the public to become or be used as the frame or receiver of a functional firearm once completed, assembled or converted,” according to the civil complaint filed in San Diego County Superior Court. The County seeks disgorgement of profits, civil penalties and injunctive relief. The complaint acknowledges that 3D printing filament itself is not illegal. But prosecutors argue that Polymaker actively cultivated and monetized the “ghost gun” community by supporting and then hiring Sean Aranda, who goes by The 3D Print General on social media. Aranda, a 3D printing expert, book author , and gun enthusiast, was banned from YouTube in 2023 over firearm policy violations. His YouTube channel at the time had 123K subs. Polymaker, which had been sponsoring his channel with a special edition creator spool of khaki colored PLA Pro , came to h
 
 ### Creator of free Adobe clones unveils open-source Microsoft Office Excel, PowerPoint, and Word replications
 Sun, 11 Oct 2026 10:50:00 +0000 — https://www.tomshardware.com/software/microsoft-office/creator-of-free-adobe-clones-unveils-open-source-microsoft-office-excel-powerpoint-and-word-replications-autodesk-tools-and-other-subscription-based-services-may-come-next
 
-Brandon Thomas, developer of ArtCraft, a suite of open-source creative tools meant to replicate Adobe applications for free, has now announced apps to replace Microsoft Office tools such as Excel, PowerPoint, and Word, respectively, named GridCraft, DeckCraft, and WordCraft, that are created with Claude. After our previous story covering ArtCraft , we have since discovered that u/ai_art_is_art is Brandon Thomas, a highly talented software engineer with 15 years of experience under his belt. After his ArtCraft project became popular, many criticisms followed about vibecoded software and AI slop, to which Brandon responded on his X account that he does know how to code, further defending himself. My guy, I can codeIn college I was building laser games on skyscrapers and cloning the luciferase-luciferin system into plants via agrobacterium-mediated transfectionAI models enable me to work as an entire company. I'm doing 4x better than Google's revenue per employee https://t.co/sGCkdy92QM October 9, 2026 Microsoft sits among the most criticized companies for its business practices, similar to Adobe. What was once a one-time purchase now comes as a subscription package with various tools that many don’t need; many even have overlapping features and uses, essentially wasting some of the subscription value. It seems that Brandon Thomas is not only creating open-source alternatives, but is also creating a targeted protest against these practices. One of the biggest pain points for the
-
-### Working Cray-1 supercomputer replica packs 30 vintage Mac Minis and 1.5 TFLOPS
-Sun, 11 Oct 2026 10:20:00 +0000 — https://www.tomshardware.com/tech-industry/supercomputers/working-cray-1-supercomputer-replica-packs-30-vintage-mac-minis-and-1-5-tflops-passively-cooled-tribute-is-9-375x-faster-than-the-1976-supercomputer
-
-Spain’s Museo de Historia de la Computación unveiled its 18-month-long project to commemorate the 50th anniversary of both the Cray-1’s first operational use in Los Alamos and Apple’s founding. The replica uses 30 Mac Minis, 25 dual-core i5 units, and five quad-core i7 units from 2012-2014, totaling 70 cores that produce a peak of 1.5 TeraFLOPS; a theoretical 9,375x jump from the original Cray-1's 160 MegaFLOPS. After one quad-core machine went offline, the current reported peak sits at 1.3 TeraFLOPS. The original Cray-1 is considered to be the first commercially successful supercomputer, with 80 systems sold in its heyday. Science and engineering institutions sought it out to churn through gigantic datasets for uses ranging from intense weather prediction and aerodynamics to nuclear physics and structural analysis, among many others. It was very efficient at these computations thanks to vector processing , a computing technique we take for granted nowadays. Vector computing made this supercomputer so powerful; while most computers still handled tasks one instruction at a time, the Cray-1 could process chunks of numbers in parallel, saving a huge amount of time. (Image credit: Museo de Historia de la Computación) The replica has 70 cores from the 30 Mac Minis, and of course, vector processing has since become the norm and a standard feature of modern CPUs; jumping from a single core to 70 “modern” cores and 50 years' worth of innovation is what Museo de Historia de la Computa
-
-### U.S. military-backed cargo pod promises 90-minute orbital delivery anywhere on Earth
-Sun, 11 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/space/u-s-military-backed-cargo-pod-promises-90-minute-orbital-delivery-anywhere-on-earth-10-ton-ghost-vehicle-gets-first-real-world-test-sierra-space-drops-radio-and-whiskey-from-68-500-feet-to-test-starcraft-like-supply-drops
-
-A U.S. military-backed company plans to deliver a payload to any point on Earth within 90 minutes by prepositioning assets in space and then calling down delivery vehicles as needed. Sierra Space, a subsidiary of the Sierra Nevada Corporation, has successfully completed two test drops of its Ghost reentry vehicle while carrying a bottle of whiskey and a software-defined radio. According to Aviation Week, the test was conducted using high-altitude balloons that dropped it from 35,000 feet and 68,500 feet. While this test isn’t as exciting as SpaceX rockets landing on a platform at sea, it’s still an achievement for the team working on the project, as it’s the first test of the vehicle in two years. This demonstration is part of the U.S. Space Command’s Apollo Nexus training exercise, which aims to demonstrate the needed synchronization of multiple units in complex operations. The test’s payload isn’t just two random items, either. They’ve been specifically selected to show that liquids and sensitive electronics could survive part of the trip back to the surface. “We were able to safely demonstrate that and prove that we could come through all of those environments and then be recoverable in a certain period of time by the team on the ground,” Sierra Space senior vice president Erik Daehler told the publication. It should be noted that these cargo units aren’t designed to be launched by rockets from another side of the world to be delivered to frontline forces as needed. Instea
-
-### Ugreen’s 100W 4-port GaN charger drops 27% today
-Sat, 10 Oct 2026 16:20:56 +0000 — https://www.tomshardware.com/pc-components/ugreens-100w-4-port-gan-charger-drops-27-percent-today-get-100w-of-power-and-four-ports-for-just-usd39-98
-
-A dedicated charging solution is a great way to declutter your desk and keep your essential gadgets charged whenever you need them. If you are looking for one, don’t miss this deal on the Ugreen Nexode 100W GaN wall charger. Currently on sale at 27% off on Amazon, the charging adapter is $39.98, down from its original price of $54.99 . Thanks to its high power output, it can charge multiple devices at once, making it suitable for your smartphone, tablet, and even your laptop. Check out the deal on Amazon The Ugreen Nexode 100W is a Gallium Nitride (GaN) charger that replaces internal silicon components with a highly efficient semiconductor capable of handling higher voltages. At the same time, it runs cooler and shrinks the power adapter's overall size by up to half. With a foldable plug design, this charger is also compact, making it the perfect companion for your next vacation or business trip. Nexode 100W charger: was $54.99 now $39.98 The Ugreen Nexode 100W GaN charger features three USB Type-C ports, one USB Type-A port, and a foldable plug, making it a convenient way to charge multiple gadgets without carrying separate adapters. View Deal It features four charging ports, including three USB Type-C ports and one USB Type-A port. One USB Type-C port can deliver up to 100W of power, provided you use a compatible 100W, 5A charging cable. According to Ugreen, this is enough to charge a MacBook Air M3 from zero to 55% in under 30 minutes. The charger works with a wide range o
-
-### SoftBank seeks $100 billion for AI-refined projects from Middle Eastern investors
-Sat, 10 Oct 2026 15:40:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-seeks-usd100-billion-for-ai-refined-projects-from-middle-eastern-investors-fund-would-be-used-to-acquire-companies-and-improve-their-operations-using-artificial-intelligence-and-robotics
-
-Masayoshi Son, founder of SoftBank, is seeking up to $100 billion from Gulf investors to establish a fund that would acquire companies and improve their operations using artificial intelligence and robotics, according to the Financial Times . The initiative comes as SoftBank faces growing concerns over its $65 billion investment in OpenAI and its delayed initial public offering (IPO). Unlike SoftBank's previous investment vehicles, which primarily financed technology companies, the proposed fund would purchase established businesses and introduce AI and other advanced technologies to improve their operations in a bid to improve their value, which is a relatively novel model to make money on AI. Son has reportedly approached influential investors in the Middle East, including senior figures in the United Arab Emirates, in recent weeks to get the money to acquire companies that have not yet adopted AI and/or robotics, but which could substantially improve their business positions by doing so. Roze, SoftBank's robotics and physical AI division, would reportedly play a major role in these transformations, though exact details remain unclear. Son also intends to eventually take Roze public at a substantial valuation, though neither the fund's establishment nor its financing is guaranteed. In fact, at this point it is unclear whether the fund will only finance acquisitions, or will also finance development of Roze. SoftBank has already committed approximately $65 billion to OpenAI,
-
-### Super Micro smuggling co-conspirator pleads guilty to sending AI chips to China
-Sat, 10 Oct 2026 15:35:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/super-micro-smuggling-co-conspirator-pleads-guilty-to-sending-ai-chips-to-china-broker-admits-breaking-export-control-rules-as-company-co-founder-denies-charges
-
-Ting-Wei “Willy” Sun, a third-party broker and “fixer” who’s been charged alongside Super Micro co-founder Yih-Shyan “Wally” Liaw and sales manager Ruei-Tsang “Steven” Chang for conspiring to unlawfully divert Nvidia AI chips to China, has pleaded guilty to the allegations against him. According to Bloomberg , Sun’s plea comes as part of an agreement with prosecutors, although the details of any possible cooperation arrangement remain undisclosed. Sun is also expected to be sentenced on Sept. 8, 2027, after entering his plea. The case against the individuals was revealed earlier this year after it was discovered that they diverted Super Micro servers containing Nvidia chips to China. The three were reported to have sent the servers to a Southeast Asian company, which then proceeded to fake the paperwork and create dummy servers for inspectors. Workers then used hair dryers to remove the serial numbers on the real servers to transfer them to the dummy server shells to complete the illusion, while the real servers made their way to China. Further investigation revealed that the three used a Thailand-based corporation to receive the servers, which were then delivered to Alibaba , even as the Chinese tech giant denied receiving the banned Nvidia hardware. Super Micro has also denied any knowledge of the operation, even as it has netted $2.5 billion in sales since it started in 2024. Nevertheless, the company’s shareholders have sued it, accusing it of concealing its dependence on
-
-### PS5 hack delivers native PS2 disc support and 4K upscaling where Sony refused to
-Sat, 10 Oct 2026 15:17:15 +0000 — https://www.tomshardware.com/video-games/playstation/ps5-hack-delivers-native-ps2-disc-support-and-4k-upscaling-where-sony-refused-to-after-ps2-breakthrough-homebrew-dev-confirms-ps3-disc-support-is-next-for-ps5
-
-Don’t throw away your PlayStation 2 games just yet. Modder Sword has released PS5SX2 for jailbroken PlayStation 5 consoles. This new software brings PlayStation 2 games to Sony’s latest console and supports physical discs, letting you relive your favorite classics in their original form. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC For those active in the PlayStation emulation scene, the name PS5SX2 will immediately ring a bell, and for good reason. PS5SX2 is a native port of PCSX2, a very popular PlayStation 2 emulator for PC. Sword has successfully adapted the PCSX2 CPU recompilers to run on the PlayStation 5’s powerful custom Zen 2 chip. Unlike previous hacks that run PCSX2 on a host system and stream to the television, the PlayStation 5 does the recompiling and rendering. PS5SX2 uses Vulkan as its backend renderer. However, since the PlayStation 5 lacks a standard operating system with official Vulkan driver support, emulation software requires a custom translation layer. Instead of developing a Vulkan driver from scratch, Sword uses a modified version of ps5vk, developed by renowned coder Mihawk-99, who has brought us projects like RetroArch. PS5SX2 embraces virtually all popular disc image formats used for PlayStation 2 em
-
-### This week on Tom's Hardware Premium: October 10, 2026
-Sat, 10 Oct 2026 15:00:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-10-2026-tencent-grabs-bargain-chips-qualcomm-huawei-ip-deal-groq-lawsuit-and-more
-
-In case you've been missing out on the action over on Tom's Hardware Premium , we're back with another roundup to fill you in on everything you missed. Central to this week's theme is how Artificial Intelligence and its subsequent buildout are currently impacting all areas of the semiconductor industry. Headlining this week is our report on how smart software utilization may play a part in the electricity consumption of AI data centers. We sat down and talked with experts in the domain to find out. Software could be the easiest fix for hyperscalers' AI power squeeze, researchers say — data center demand is expected to rival Japan's electricity usage by 2030 Reports state that Tencent has reached a deal to lease high-performance AI chips from Oracle to the tune of $7 billion over five years. While the figure on its surface sounds significant, the estimated lease price is around 43% less than an Nvidia H100 leased at $2.80 per hour on a one-year contract, meaning that Tencent may have scored a slight coup in the terms of its lease agreement. While no specific chips have been named, the size of the deal and the prices point toward a Hopper-class GPU. We explored how this rental loophole may be used by Chinese firms to potentially gain access to otherwise export-controlled hardware. Tencent scores 100,000 offshore AI chip deal with Oracle for $7 billion despite climbing prices — per-hour costs estimated to be 43% under standard H100 rental rates If you cast your minds back to las
-
-### Senate investigation says that some AI data center claims are misleading
-Sat, 10 Oct 2026 14:40:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/senate-investigation-says-that-some-ai-data-center-claims-are-misleading-senators-question-number-of-permanent-jobs-projects-bring-to-communities-but-companies-refuse-to-divulge-data
-
-The U.S. Senate has been conducting a year-long investigation into AI data centers, and its findings suggest that some developers have been misleading the public about the costs and benefits that these projects bring to their communities. According to Time , data center developers have routinely pointed to the number of construction jobs that projects bring to neighborhoods, but many have allegedly refused to share the number of permanent positions these projects bring to the neighborhood once they’ve reached operational status. A few companies that did give numbers point to a ratio of one permanent position for every megawatt of capacity, meaning a 100-megawatt development, which consumes around the same amount of electricity as 100,000 homes, would only hire 100 people. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible “Congress must hold Big Tech accountable so these companies pay their fair share,” Senator Elizabeth Warren (D-Mass.) told the publication. Senator Chris Van Hollen (D-Md.) also said, “This report lays bare what we have long known: working Americans and local communities are footing the b
-
-### We tested gaming performance in 17-year-old Windows 7 on a modern gaming PC against Windows 11
-Sat, 10 Oct 2026 13:40:00 +0000 — https://www.tomshardware.com/software/windows/we-tested-gaming-performance-in-17-year-old-windows-7-against-windows-11-on-a-modern-gaming-pc-older-operating-system-delivers-advantages-in-some-scenarios
-
-After the rough reception of Windows Vista, Windows 7 launched in 2009 to largely positive reviews. Even 17 years later, it remains one of the most beloved versions of Windows ever released. But how does this nearly two-decade-old operating system hold up on modern hardware? We managed to install Windows 7 on a modern PC and put it to the test across eight DirectX 11 games and two DirectX 9 titles to see how its gaming performance compares to Windows 11 today. Surprisingly, Windows 7 still carves out many notable wins over its successor. At launch, Windows 7 was very similar to Windows Vista in many respects. Vista had introduced significant changes under the hood compared to Windows XP, including technologies such as SuperFetch, ReadyBoost, ReadyDrive, new asynchronous APIs, and other I/O improvements. It also introduced native processor power management and various memory-management enhancements. On the visual side, Vista was the first version of Windows to feature Windows Aero, with its distinctive glass-like window borders. Windows 7 retained many of these underlying technologies while addressing several of Vista’s biggest criticisms. One notable improvement was greater control over User Account Control (UAC), allowing users to adjust how frequently they received UAC prompts. In Vista, these prompts could appear far too often, becoming a major source of frustration for many users. Windows 7 also benefited from something that had nothing to do with the operating system its
-
-### Top AI labs reportedly planning for catastrophic AI event fallout
-Sat, 10 Oct 2026 13:20:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/top-ai-labs-reportedly-planning-for-catastrophic-ai-event-fallout-anthropic-openai-and-others-reportedly-building-contingency-plans-and-running-scenarios-of-a-runaway-ai-wreaking-havoc
-
-Anthropic, OpenAI, and other AI labs are reportedly gaming out scenarios where a rogue AI wreaks havoc on critical infrastructure, like financial services, internet and telecommunications, or utilities such as power and water. According to Axios , the leadership of these companies is privately preparing for such an incident, similar to how the Pentagon has been running war games to see the results of different strategies in case of a nuclear exchange between nations. Planning like this is not unheard of in the corporate world, with enterprises sometimes running business continuity exercises to account for contingencies. However, what’s concerning is that these exercises are in preparation for a major AI incident, something that many industry experts believe would happen within the next six to 12 months. "OpenAI conducts preparedness exercises where teams discuss and work through a range of potential scenarios," a company spokesperson told the publication. "These scenarios are not treated as inevitable but are meant to help us prepare for a variety of circumstances." Dario Amodei recently released a warning about an AI-driven botnet “swarm” taking over the entire internet in the coming months, especially after incidents of OpenAI’s models escaping their testing environments . We’ve also heard of incidents where a “kill switch” failed to stop a rogue agent , forcing the startup to pause testing. The threat is so great that Anthropic listed “existential risks to humanity” as one
-
-### Free Steam demo runs up $1,000 daily AI bill and forces devs to take out bank loan
-Sat, 10 Oct 2026 12:52:20 +0000 — https://www.tomshardware.com/video-games/pc-gaming/free-steam-demo-runs-up-usd1-000-daily-ai-bill-and-forces-devs-to-take-out-bank-loan-studio-eyes-local-hardware-models-to-escape-cloud-limits-as-cheaper-automatic-fallback-ai-models-create-problems-game-uses-ai-to-process-your-voice-and-build-responses
-
-Easy Fox, the developers behind a free, AI-powered game demo on Steam, has been forced to take out a bank loan as more players tried out its title. The game, called Teach My Little Sister How To Drive , uses Google Gemini to listen to your voice commands and generate responses, with ChatGPT serving as a fallback system. In its latest update , Easy Fox said that the number of players trying out the game has grown over 20 times, which is more than what it expected. This led its costs to skyrocket to more than a thousand dollars daily, and cheaper fallback AI models have led to slop injected into gameplay, impacting the user experience. SteamDB showed an average player count of under 10 people until late August, when it started gaining steam. By late September, this had ballooned to around 50 players, before finally hitting a peak of 431 on Oct. 1. “We are currently spending over $1,000 per day on AI services for the demo,” the team wrote on its Steam update. Easy Fox also added, “This isn’t because each player is particularly expensive to support. The total cost has increased because so many people are playing, and we have taken out a bank loan to help keep the demo running.” Since the game’s sole control method is your voice, AI is a critical part of its programming to recognize your commands and translate them into instructions for the virtual little sister. Since the game is still a free demo, Easy Fox needs to pay for the ongoing usage costs of the game. However, the develo
+Brandon Thomas, developer of ArtCraft, a suite of open-source creative tools meant to replicate Adobe applications for free, has now announced apps to replace Microsoft Office tools such as Excel, PowerPoint, and Word, respectively, named GridCraft, DeckCraft, and WordCraft, that are created with Claude. Thomas has shared his new clones to ArtCraft GitHub, making them free for all to download. After our previous story covering ArtCraft , we have since discovered that u/ai_art_is_art is Brandon Thomas, a highly talented software engineer with 15 years of experience under his belt. After his ArtCraft project became popular, many criticisms followed about vibecoded software and AI slop, to which Brandon responded on his X account, saying that he does know how to code. One of the biggest pain points for these software programs is OS compatibility, while Adobe runs on MacOS and Windows, Linux requires additional compatibility layers and Windows emulation to work. One of ArtCraft’s biggest selling points is being able to run all the software across all three platforms while still giving an identical user experience regardless of OS — this is also part of the parity that ArtCraft wants to achieve. While Google provides these tools for free with Google Sheets, Docs, and Slides available on all platforms through a browser, the online-only model takes away the ownership aspect of the software, fearing that one day the tools would suddenly require a subscription and users would not have
 
 ## Phoronix
+
+### Linux Landing Kernel Workaround For AMD TLBI Erratum #1718
+Sun, 11 Oct 2026 09:20:00 -0400 — https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718
+
+AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...
+
+### Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux
+Sun, 11 Oct 2026 08:00:00 -0400 — https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU
+
+Microsoft is contributing a new kernel driver for the upcoming Linux 7.4 cycle. Queued up into the IOMMU subsystem's "-next" branch is a new para-virtualized IOMMU driver for benefiting Linux guest VMs running on Microsoft's Hyper-V virtualization platform...
 
 ### Auto Vectorizing The RISC-V Linux Kernel Shows Promising Results
 Sun, 11 Oct 2026 06:18:00 -0400 — https://www.phoronix.com/news/Auto-Vectorize-RISC-V-Kernel
@@ -223,22 +233,12 @@ Fri, 09 Oct 2026 20:41:04 -0400 — https://www.phoronix.com/news/SQLite-3.54-Re
 
 SQLite 3.54 released today for this wildly popular embedded SQL database engine used by countless applications and other software. With SQLite 3.54, support for Microsoft Windows XP and older is finally removed...
 
-### Ubuntu 26.10 To Include Desktop Images For RISC-V
-Fri, 09 Oct 2026 13:59:00 -0400 — https://www.phoronix.com/news/Ubuntu-26.10-RISC-V-Desktop
-
-Ubuntu Linux ISOs for RISC-V 64-bit to date have just been the server/CLI version without any desktop environment pre-seeded. But with next week's Ubuntu 26.10 release, there will now be Ubuntu 26.10 RISC-V desktop ISOs for both Ubuntu proper and a Xubuntu minimal ISO...
-
-### Valve s Proton 11.0-2e Released To Fix EA App Issues
-Fri, 09 Oct 2026 13:56:40 -0400 — https://www.phoronix.com/news/Steam-Play-Proton-11.0-2e
-
-CodeWeavers working with Valve today released Proton 11.0-2e as their downstream of Wine that powers Steam Play for enjoying Windows games on Linux...
-
-### Python 3.15 Released With Experimental JIT Compiler Running Faster
-Fri, 09 Oct 2026 10:58:00 -0400 — https://www.phoronix.com/news/Python-3.15-Released
-
-Python 3.15 is out today as the newest annual feature release for the Python programming language...
-
 ## The Register
+
+### AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready
+Sun, 11 Oct 2026 13:30:00 +0200 — https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450
+
+Autonomous AI systems are fully capable of carrying out a nightmare cyberattack scenario – finding and attacking critical operational technology and industrial equipment, and shutting down access to water, power, and other daily life necessities. If this happens, defenders may only have minutes to detect and block it, according to a Booz Allen Hamilton report. The consulting firm’s operational technology (OT) lab tested eight scenarios to examine advanced models’ capabilities within an autonomous, AI-enabled OT attack chain. The models achieved the objectives across all eight scenarios, turning digital access into physical actions – in one case finding and moving a robotic arm in just minutes. In another test, the models progressed from a perimeter compromise to actions inside an industrial control network in just over 16 minutes. “Our testing showed that AI agents can operate with a speed, persistence, and engineering-level precision that may outpace organizations that have not implemented foundational OT cybersecurity practices,” Kyle Miller, VP of infrastructure cybersecurity at Booz Allen, told The Register. “While there's not a defined timeline for a nightmare scenario per se, we've observed and continue to see the growing use of AI in real-world attacks. As the capabilities of available models grow, the risk becomes far greater,” he added. In addition to reporting on its findings, the consulting firm wants to see more industry testing, development, and increased deploym
 
 ### HPE's networking boss says AI will handle all trouble tickets without humans in two years
 Sun, 11 Oct 2026 11:37:00 +0200 — https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179
@@ -275,94 +275,104 @@ Fri, 09 Oct 2026 21:15:48 +0200 — https://www.theregister.com/security/2026/10
 
 Bob, possibly the same Bob whose conversations with Alice draw so much interest from eavesdropping Eve, was browsing a site we'll call TechHub. The site hosts an AI agent served by Amazon Bedrock AgentCore. Bob asked the agent for help understanding the content of a URL, a credential endpoint – in raw JSON, if you don't mind. The endpoint returned data from the Instance Metadata Service (IMDS), which provides metadata about cloud instances and VMs at providers like AWS, Azure, and Google Cloud Platform. The metadata includes details like region and availability zone, subnets, system images, security groups, public keys injected during spawning, but also potentially more sensitive details like user data and security tokens. IMDSv2 addresses some of these risks, but back when Bob was browsing late last year, Bedrock AgentCore still used IMDSv1. The metadata provided to Bob by the helpful agent contained the agent's temporary credentials. So Bob loaded them onto his local machine, and remotely enumerated the company's other agents in that AWS region. He then logged into the Amazon Elastic Container Registry (ECR), pulled the agent container images, and ran each as root to inspect the source code. The stolen credentials also allowed Bob to discover the memory resources available in that AWS region, including the ones used by agents. From these, he's able to extract the users and their agent sessions – their conversations. Researchers at Zenity Labs disclosed their findings to AWS
 
-### Microsoft 365 subscribers set to lose up to 4 TB of OneDrive storage
-Fri, 09 Oct 2026 18:14:17 +0200 — https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4-tb-of-onedrive-storage/5302380
-
-Microsoft 365 subscribers on Family, Premium, or Pro tiers who make full use of their OneDrive storage allotments consider this a warning: It's fixin' to shrink. Redmond published a support page this week detailing changes to Microsoft 365 shared storage allotments, and while the company is painting them as offering greater flexibility for users, they also represent a massive reduction in capacity. The former storage allotment schema offered 1 TB per user on all three of those tiers, with a cap of six users, for a total of 6 TB. The new storage quotas will be shared among all users on those accounts, still with a six-user cap. Family or Premium plans now get 2 TB of storage space to share among up to six users. Pro tier users will have to share 5 TB. In effect, that means fully shared Family and Premium subscriptions will lose up to 4 TB of combined storage capacity, while Pro subscriptions will lose up to 1 TB. Some existing customers may qualify for temporary bonus storage. On the plus side, there's no longer a fixed 1 TB cap per person, provided the shared pool has room. "The goal is to provide a more flexible experience," Microsoft offers as its justification for the move. "Shared storage helps ensure that one person doesn't run out of space while other members have unused storage available." That might be great for heavy users on an account, who can now go over a 1 TB cap, but if, say, four people on a family plan are all using 500GB and someone wants to upload something
-
-### SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier
-Fri, 09 Oct 2026 17:55:31 +0200 — https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393
-
-SpaceX is looking to take on the incumbent mobile networks in the US with a combination of low-band spectrum that can penetrate indoors together with the 2 GHz spectrum supported by its Starlink Gen2 satellites for bandwidth. The rocket-flinging operation says it cut a deal to acquire a nationwide low-band spectrum license portfolio of up to 14 megahertz of paired spectrum in the 800 MHz band, which will pave the way for Starlink Mobile to become a major cellular carrier in the US. SpaceX agreed to acquire the spectrum licences from telecoms investment firm Grain Management, which bought them from T-Mobile. The transaction is subject to FCC approval and other customary closing conditions. In its FCC filing [PDF] regarding the transaction, SpaceX says it intends to roll out its own terrestrial infrastructure for this purpose, operating standard wireless equipment such as antennas on towers, rooftops, and other structures to provide reliable signal coverage. Financial terms of the agreement were not disclosed. We asked SpaceX for further details and will update if we get answers. Also this week, America’s telecoms regulator, the Federal Communications Commission (FCC), approved Starlink’s application [PDF], filed last year, to put into orbit an additional 15,000 satellites that are optimized for 2 GHz spectrum globally. The operator says this will allow it to bring high-speed service directly to unmodified devices anywhere in the world. It builds on SpaceX’s $17 billion purchas
-
-### Growing pains: how distributed AI training changes the network between datacenters
-Fri, 09 Oct 2026 17:00:00 +0200 — https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554
-
-Large-scale AI training has already escaped the confines of a single datacenter. Google said Gemini was trained synchronously across clusters in multiple locations; Microsoft has connected AI data centres in Wisconsin and Georgia into what it describes as one distributed AI supercomputer; AWS has connected AI compute clusters across wide areas to allow Anthropic to build Claude models; Meta has built high-capacity datacenter interconnects to support model training; and CoreWeave and Google Cloud recently announced cross-cloud training with a private interconnect, with Azure likely to follow later in the year. This growing geographic spread of model training is partly due to the limits of single datacenters or campus clusters, which can be strained as they try to meet the compute and power demands of new models. Cisco estimates that training models today can require clusters with tens of thousands of GPUs. By 2030, the largest individual frontier training runs could draw 4-16GW of power, according to researchers at Epoch AI. Distributing compute allows hyperscalers and datacenter operators to build in locations with more available power or space and fewer planning constraints. How to train an LLM At the core of an LLM is a neural network with billions of numerical parameters, or weights, that are adjusted during training. A batch of training data passes through the model, which makes a prediction. The system measures the error and calculates how the weights should change. The 
-
-### Oracle lets AI agents do the work, provided you stay in Big Red's world
-Fri, 09 Oct 2026 16:44:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270
-
-Oracle's new Fusion Claw runtime could give customers more control over AI agents automating business processes, analysts say. But they warn that adoption remains at an early stage and customers risk becoming more tightly tied to Oracle's applications and cloud. Having promised "applications that can reason, decide, and act in pursuit of defined business objectives" back in March, Big Red has now introduced a runtime to govern their actions, running on its cloud and integrated with its Fusion applications. Oracle is targeting ERP, finance, and supply chain management with Fusion Claw for cloud-based Fusion applications running on Oracle Cloud Infrastructure (OCI). It will be powered by frontier models including those from Google and OpenAI, with support for others planned over time. Oracle CEO Mike Sicilia said the company was trying to address the problem of getting "measurable value for our business" from AI investment. "Fusion Claw helps answer that question by moving from AI assistance to execution, enabling customers to automate increasingly complex work across their most important business processes, with enterprise-grade governance," he said. Analysts welcomed the move as a path that offers customers control and assurance in their AI agent implementations on Oracle Fusion Cloud Applications. A recent Gartner "first take" on Fusion Claw said the technology was a way to provision "isolated containers to execute heavy supply chain optimizations and subledger reconciliatio
-
-### Global PC shipments crater 20% as rising prices hammer demand
-Fri, 09 Oct 2026 15:44:00 +0200 — https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264
-
-The global PC market has taken a beating, with shipments plunging more than 20 percent in the third quarter as the AI-driven memory shortage pushes up prices and buyers decide their existing machines will do just fine. New figures from Omdia show worldwide shipments of desktops, notebooks, and workstations fell 21.2 percent year-on-year to 58.1 million units in Q3 2026. IDC tells a similar story, estimating a 20.1 percent decline to 62.7 million units. The research firms differ on shipment totals, but agree the market has gone from bad to considerably worse. The downturn follows a rush to buy PCs earlier this year, when manufacturers, distributors, and corporate customers brought forward orders to get ahead of anticipated price increases. That helped prop up shipments in the first half of 2026, but left the industry with a pile of inventory and fewer buyers in the third quarter. IDC said shipments fell 9.1 percent from Q2, bucking the usual seasonal pattern in which back-to-school demand lifts the PC market. "What we're seeing is the result of the strong first half pull-in," said Jitesh Ubrani, research director for consumer devices at IDC. "Vendors and channels loaded up on inventory early in the year to get ahead of price hikes, and that has thrown off the usual seasonality, where Q3 is typically larger than Q2." Much of the trouble stems from the AI industry's appetite for memory and storage, which has left PC makers competing for increasingly expensive components. The sho
-
 ## Engadget
 
-### How to enable Live Activities on iPhone and CarPlay
-Sun, 11 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2280381/how-to-enable-live-activites-iphone-carplay/
+### The meaning behind the padlock symbol in your PlayStation 5 game library
+Sun, 11 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2281153/playstation-5-game-library-padlock-symbol-meaning-explained/
 
-Live Activities put the most important real-time information from apps in a place where it's easy to keep an eye on.
+Digital game licenses aren't perfect, which is why you might see a padlock icon blocking you from PS5 games.
 
-### How does a backup camera actually work?
-Sun, 11 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2280368/how-backup-camera-works/
+### Why strong magnets can hinder the iPhone's rear-facing camera
+Sun, 11 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2281130/why-strong-magnetic-hinder-iphone-rear-facing-camera/
 
-Aftermarket backup cameras might not work as well as integrated ones, but they're still a useful upgrade to an older car.
+Magnetic accessories can be handy, but make sure they're not interfering with your camera.
 
-### How to use the parental controls on iOS 27
-Sat, 10 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2280277/how-to-use-ios-27-parental-controls/
+### Apple's smart home hub will reportedly be called HomeView
+Sun, 11 Oct 2026 16:28:47 +0000 — https://www.engadget.com/2283275/apples-smart-home-hub-will-reportedly-be-called-homeview/
 
-Screen Time has new features to help parents manage their children's Apple devices, as well as refinements to existing controls.
+Bloomberg reported that the HomeView device will start shipping in November.
 
-### How to reduce mobile data usage on your iPhone
-Sat, 10 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2280214/how-to-reduce-mobile-data-usage-iphone/
+### Apple Home's new AI summaries for security cameras cost more than you'd think
+Sun, 11 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2281077/apple-home-ai-summaries-security-camera-prices/
 
-If your cellular plan has limited data, you'll want to take advantage of these easy tweaks to stretch those gigabytes.
+If you have a lot of cameras in your home, get ready to pay for more expensive iCloud+ plans.
 
-### Simple tweaks to improve your 4K TV's picture quality
-Sat, 10 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2280162/improve-picture-quality-4k-tv-simple-tweaks/
+### Here's how long your Google Pixel phone will get software updates
+Sun, 11 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2281041/how-long-google-pixel-phone-get-software-updates/
 
-Even if your TV looks great as-is, some tweaks to its modes and sliders, as well as the room it's in, will make it look much better.
+Your Google Pixel phone has a set lifetime of support based on when it first went on sale. After that, you have few options for using it securely.
 
-### How to lock apps on your Samsung Galaxy phone
-Sat, 10 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2280136/how-to-lock-app-samsung-galaxy-phone/
+### The hidden features every Waze user should know about
+Sun, 11 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2280999/waze-hidden-features-users-should-know/
 
-Samsung phones have a couple of features that can keep sensitive apps and files private. One locks your chosen apps, and the other restricts all but one app.
+There are a load of features tucked away in Google's 'other' mapping app.
 
-### What is the 3-2-1 rule for backing up your data?
-Sat, 10 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2280127/backing-up-data-3-2-1-rule-explained/
+### We're in the middle of a PS5 Pro shortage and GTA 6 will only make it worse
+Sun, 11 Oct 2026 14:45:00 +0000 — https://www.engadget.com/2280934/playstation-5-pro-shortage-gta-6-only-make-worse/
 
-Make sure your files are safe in the event of a hard drive disaster.
+Rockstar's Grand Theft Auto 6 is set to become the most popular game ever and Sony is finding it very difficult to satisfy demand for the PlayStation 5 Pro.
 
-### How does using your MacBook while charging affect its battery life?
-Sat, 10 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2280083/how-using-macbook-while-charging-affect-battery-life/
+### Why it's important to backup data saved on your older thumb drives
+Sun, 11 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2280904/why-its-important-to-backup-data-saved-on-older-thumb-drives/
 
-Modern MacBooks are pretty smart about managing their battery's health.
+Transferring important files to a thumb drive is brilliant for portability, but not always great for longevity. Here's why you should back them up elsewhere.
 
-### This Android Auto problem is affecting calls on foldable phones
-Sat, 10 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2280033/android-auto-bug-affecting-foldable-phones-calling/
+### Here's how much the PlayStation 5 cost in 2020 vs. 2026
+Sun, 11 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2280620/how-much-playstation-5-cost-2020-vs-2026/
 
-Gemini might be causing some issues with Android Auto.
+The PS5 hasn't seen a major price cut or bundle like its predecessors. Instead, you'll pay even more for one today than at launch.
 
-### How to quickly check your Samsung Galaxy's warranty info
-Sat, 10 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2280016/how-to-check-warranty-samsung-galaxy/
+### What's the difference between Android Automotive and Google Built-In?
+Sun, 11 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2280617/google-built-in-vs-android-automotive-difference-between-comparison/
 
-You don't have to guess how long is left on your Samsung device's warranty; the company makes it easy to confirm.
+One is a set of apps while the other can run almost everything inside of a car.
 
-### What is ray tracing in gaming and does it really make a difference?
-Sat, 10 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2279929/what-is-ray-tracing-gaming-does-it-make-difference/
+### What is the oldest Samsung device that still gets software updates in 2026?
+Sun, 11 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2280584/oldest-samsung-device-still-gets-software-updates-2026/
 
-Ray tracing makes light's behavior more realistic in supported games, but your PC has to use a lot of horsepower to make that happen.
+Knowing how long your phone will get updates is important for deciding when to upgrade.
 
-### Anthropic says its AI agents tried to break into government websites
-Sat, 10 Oct 2026 17:49:49 +0000 — https://www.engadget.com/2283091/anthropic-says-its-ai-agents-tried-to-break-into-government-websites/
+### Why CPU overclocking is mostly now a thing of the past
+Sun, 11 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2280537/why-overclocking-cpu-mostly-outdated/
 
-In its latest report, Anthropic has revealed that its AI agents meddled with government websites during testing.
+The performance gains you get with modern chips aren't as noteworthy as they used to be.
 
 ## TechCrunch
+
+### The investor s guide to TechCrunch Disrupt 2026: Everything you need to know
+Sun, 11 Oct 2026 17:53:37 +0000 — https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/
+
+Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.
+
+### Can the AI industry persuade data center opponents by getting rid of NDAs?
+Sun, 11 Oct 2026 16:52:33 +0000 — https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/
+
+On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.
+
+### TechCrunch Mobility: A roadblock clears for self-driving trucks
+Sun, 11 Oct 2026 16:02:00 +0000 — https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
+
+### Dawn Myers is making it easier to style, detangle, and care for curly hair
+Sun, 11 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/
+
+Richualist is one of TechCrunch's Battlefield 200 Companies!
+
+### Efferon wants to eradicate the devastating toll of pediatric sepsis
+Sun, 11 Oct 2026 15:00:00 +0000 — https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/
+
+This Battlefield 200 startup has developed blood-purification tech to save children
+
+### What to know about the landmark Warner Bros. Discovery sale
+Sun, 11 Oct 2026 14:15:00 +0000 — https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/
+
+Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.
+
+### These execs think voice AI hasn t reached its ChatGPT moment yet
+Sun, 11 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/
+
+Voice AI's often misses important points for its context layer, and causes the whole pipeline to break
 
 ### Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
 Sat, 10 Oct 2026 21:47:51 +0000 — https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/
@@ -388,39 +398,4 @@ Cloudflare will use this acquisition to improve its Workers programming model an
 Sat, 10 Oct 2026 15:00:00 +0000 — https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/
 
 TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to $100 and get a second pass at 50% off.
-
-### Here are the top AI agents that can live in your text messages
-Sat, 10 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/
-
-We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-
-### Elon Musk intensifies attack on Ambani over Starlink India launch delay
-Sat, 10 Oct 2026 03:10:06 +0000 — https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/
-
-Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.
-
-### Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead
-Sat, 10 Oct 2026 00:18:32 +0000 — https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/
-
-Anthropic said it "turned off live internet access" for "all our internal evaluations" until further notice.
-
-### Long live the mechanical keyboard
-Fri, 09 Oct 2026 22:08:24 +0000 — https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/
-
-Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.
-
-### The maker of non-text AI model Jev valued at $7.5B just weeks after launch
-Fri, 09 Oct 2026 21:41:29 +0000 — https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/
-
-What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.
-
-### An Anthropic AI model sent a false homicide tip to Philadelphia police
-Fri, 09 Oct 2026 19:36:56 +0000 — https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/
-
-Anthropic did not discover this behavior until over two months after its AI submitted the false tip.
-
-### Batteries are now cheaper than natural gas turbines used at many data centers
-Fri, 09 Oct 2026 18:57:58 +0000 — https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/
-
-Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.
 

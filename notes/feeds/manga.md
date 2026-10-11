@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-11T11:01:06.015Z
+# Manga — harvested 2026-10-11T18:27:21.273Z
 
 ## Anime News Network
+
+### Pokémon Horizons: Season 3 - Rising Hope Part 4 Anime Series Review
+Sun, 11 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/pokemon-horizons/season-3-rising-hope-part-4/anime-series/.242251
+
+What makes this final batch of episodes so strong is that almost everybody gets a moment to shine or a moment of introspection.
+
+### Godzilla Minus Zero Film Streams Final Trailer
+Sun, 11 Oct 2026 07:55:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719
+
+Sequel to <cite>Godzilla Minus One</cite> opens in Japan on November 3, N. America on November 6
 
 ### Noa Is My Senior, and My Friend TV Anime Unveils Main Cast, 2027 Debut
 Sun, 11 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/noa-is-my-senior-and-my-friend-tv-anime-unveils-main-cast-2027-debut/.242717
@@ -52,21 +62,21 @@ Sat, 10 Oct 2026 21:59:33 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Crunchyroll to stream anime on October 11, Netflix on October 17
 
-### Blazblue: CentralFiction Fighting Game Gets Release on PS5
-Sat, 10 Oct 2026 21:46:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/blazblue-centralfiction-fighting-game-gets-release-on-ps5/.242699
-
-PS5 version will have rollback netcode, cross-play with PC, 4 new text languages
-
-### Japanese Studio Creative Freaks to Lead Production on Sentinel 6 Anime Executive Produced by NBA, NFL Players Michael Carter-Williams, Jamaal Williams
-Sat, 10 Oct 2026 21:05:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-10/japanese-studio-creative-freaks-to-lead-production-on-sentinel-6-anime-executive-produced-by-nba-/.242697
-
-"Afro-futurist sci-fi adventure" series planned to have 11-12 episodes
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### You're Having a Laugh if Your Anime Worldbuilding Model Doesn't Include Music: Interview With yuma yamaguchi, Composer; Exploring the World of Goodbye, Lara's Music
+Sun, 11 Oct 2026 14:00:00 GMT — https://animecorner.me/goodbye-lara-yuma-yamaguchi-interview/
+
+When the concept trailer for Goodbye, Lara dropped, I immediately knew the soundtrack was&hellip;
+
+### Cosplay Hunting: Amazing Cosplays at Iberanime Santarém 2026
+Sun, 11 Oct 2026 12:15:18 GMT — https://animecorner.me/cosplay-hunting-amazing-cosplays-at-iberanime-santarem-2026/
+
+My first adventure in the Portuguese city of Santarém was marked by the wide&hellip;
 
 ### The Apothecary Diaries: The Late Lady's Treasure Releases Maomao and Jinshi Character Trailer
 Sun, 11 Oct 2026 10:57:55 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-releases-maomao-and-jinshi-character-trailer/
@@ -113,16 +123,6 @@ Fri, 09 Oct 2026 22:47:01 GMT — https://animecorner.me/how-not-to-summon-a-dem
 
 The production committee for How Not to Summon a Demon Lord ULT has released&hellip;
 
-### Dragon Ball Super: Beerus Brought a Strong Panel and a Stronger Super to New York Comic Con
-Fri, 09 Oct 2026 12:53:15 GMT — https://animecorner.me/dragon-ball-super-beerus-brought-a-strong-panel-and-a-stronger-super-to-new-york-comic-con/
-
-If I had a nickel for every time I'd seen God of Destruction Beerus&hellip;
-
-### Fall 2026 Anime Rankings – Week 1
-Fri, 09 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-1/
-
-Even the Student Council Has Its Holes! leads Anime Corner’s first Fall 2026 weekly ranking, followed by The Apothecary Diaries Season 3 and FX Fighter Kurumi-chan. A total of 5,164 people voted.
-
 ## MyAnimeList News
 
 ### Noa-senpai wa Tomodachi Reveals Main Cast, 2027 Debut
@@ -154,11 +154,6 @@ The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel 
 Fri, 09 Oct 2026 21:04:54 -0700 — https://myanimelist.net/news/74807103?_location=rss
 
 The official website for the television anime adaptation of Rokuro Uraji s Zombie no Afureta Sekai de Ore dake ga Osowarenai (In a World Full of Zombies I m the Only One Who Doesn t Get Attacked) light novel unveiled additional cast, staff, a key visual (pictured), the theme songs, and first promotional video on Saturday. The anime series will premiere on AT-X in January 2027. Voice actresses Rikako Itou (Mushoku no Eiyuu) and Marie Miyake (Gin no Saji) are joining the casts as To...
-
-### Manga Hotaru no Yomeiri Gets Live-Action Adaptation in 2027
-Fri, 09 Oct 2026 09:15:28 -0700 — https://myanimelist.net/news/74805426?_location=rss
-
-Television broadcast company Fuji TV announced a live-action adaptation of Oreco Tachibana s Hotaru no Yomeiri (Firefly Wedding) web manga on Saturday, revealing an announcement promotional video. The live-action series is scheduled to premiere on Fuji TV in 2027. Tachibana began drawing the historical romance manga on the MangaONE platform in January 2023. The 12th volume was released on June 19, with the 13th and final volume scheduled for release on October 19. The television anime is pr...
 
 ## Otaku USA
 
