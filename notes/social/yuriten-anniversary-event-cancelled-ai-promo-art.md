@@ -6,7 +6,7 @@ Yuriten, the yuri manga exhibition run by Lilium, has cancelled the free kickoff
 
 The organisers pointed at an outside contractor. I believe that, and I do not think it absolves anyone, because it is the most ordinary way generated art enters a pipeline nobody wanted it in. A banner goes out to a design shop with a brief, a pixel size and a deadline. Nobody at the client types a prompt. The shop is asked for a flat JPEG by Friday, and a flat JPEG by Friday is precisely what comes back.
 
-The fix is not vigilance. Vigilance loses to 11pm. The fix is a line in the delivery spec: ship the layered source alongside the export. A drawn illustration arrives as forty layers with a sketch somebody forgot to hide and two experiments nobody deleted — it has a history because the hours left marks. A generated image has a prompt and a raster. Ask for the working file and there is nothing to send.
+Vigilance loses to 11pm. The fix is a line in the delivery spec: ship the layered source alongside the export. A drawn illustration arrives as forty layers with a sketch somebody forgot to hide and two experiments nobody deleted — it has a history because the hours left marks. A generated image has a prompt and a raster. Ask for the working file and there is nothing to send.
 
 Most of us already demand the PSD for completely unrelated reasons, because we want to move the logo later. Turning that into an acceptance condition costs one sentence. Games largely got here first, and only because licensors wrote it into contracts rather than trusting good intentions.
 
