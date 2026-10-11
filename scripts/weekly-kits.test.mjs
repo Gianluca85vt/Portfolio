@@ -114,17 +114,42 @@ test('the Reel piece needs works and misses, and 3D comes first', () => {
     piece({ slug: 'thin', date: '2026-10-09', misses: [] }),
     piece({ slug: 'three', date: '2026-10-05' }),
   ];
-  assert.equal(reel.pickPiece(list, '2026-10-10').slug, 'three');
-  assert.equal(reel.pickPiece([piece({ date: '2026-09-01' })], '2026-10-10'), null);
+  const plenty = () => ['/a.jpg', '/b.jpg', '/c.jpg'];
+  assert.equal(reel.pickPiece(list, '2026-10-10', plenty).slug, 'three');
+  assert.equal(reel.pickPiece([piece({ date: '2026-09-01' })], '2026-10-10', plenty), null);
 });
 
-test('without stills the cover opens and closes and the middle frames are text', () => {
-  const frames = reel.plan(piece(), []);
-  assert.equal(frames[0].image, '/img/blog/s/cover.jpg');
-  assert.equal(frames.at(-1).image, '/img/blog/s/cover.jpg');
-  assert.ok(frames.slice(1, -1).every((f) => f.image === ''));
-  const withStills = reel.plan(piece(), ['/a.jpg', '/b.jpg']);
-  assert.ok(withStills.slice(1).every((f) => f.image === '/a.jpg' || f.image === '/b.jpg'));
+test('a piece with pictures beats a 3D piece with one video still', () => {
+  // 10 October: RizomUV (3D, one still) was picked over Gears E-Day (3D, four shots).
+  const list = [
+    piece({ slug: 'rizomuv', date: '2026-10-09' }),
+    piece({ slug: 'gears', date: '2026-10-04' }),
+    piece({ slug: 'review', category: 'Games', date: '2026-10-08' }),
+  ];
+  const count = { rizomuv: 1, gears: 5, review: 4 };
+  const pics = (a) => Array.from({ length: count[a.slug] }, (_, i) => `/${a.slug}-${i}.jpg`);
+  assert.equal(reel.pickPiece(list, '2026-10-10', pics).slug, 'gears');
+  // A week where nobody has enough takes the most pictures.
+  const thin = { rizomuv: 1, gears: 2, review: 0 };
+  assert.equal(reel.pickPiece(list, '2026-10-10', (a) => Array(thin[a.slug]).fill('/x.jpg')).slug, 'gears');
+});
+
+test('every frame has a picture, and a repeated one is framed differently', () => {
+  const one = reel.plan(piece(), ['/only.jpg']);
+  assert.ok(one.every((f) => f.image === '/only.jpg'));
+  assert.deepEqual(one.slice(0, 3).map((f) => f.focus), ['attention', 'zoom', 'attention']);
+  const two = reel.plan(piece(), ['/a.jpg', '/b.jpg']);
+  assert.deepEqual(two.slice(0, 4).map((f) => `${f.image} ${f.focus}`), ['/a.jpg attention', '/b.jpg attention', '/a.jpg left', '/b.jpg left']);
+  assert.ok(reel.plan(piece(), []).every((f) => f.image === ''));
+});
+
+test('the cover leads the pictures and drawn covers are left out', () => {
+  assert.deepEqual(reel.picturesOf(piece({ slug: 's' }), ['shot-02.jpg', 'social.jpg', 'shot-01.jpg']), [
+    '/img/blog/s/cover.jpg',
+    '/img/blog/s/shot-01.jpg',
+    '/img/blog/s/shot-02.jpg',
+  ]);
+  assert.deepEqual(reel.picturesOf(piece({ cover: '/img/blog/s/cover.svg' }), []), []);
 });
 
 test('a tool tag only when the piece names the tool, five at most', () => {

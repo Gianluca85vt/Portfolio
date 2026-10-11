@@ -503,6 +503,31 @@ export async function buildStoryFrame(
 }
 
 /**
+ * A 9:16 crop of a picture for a Reel frame. "attention" lets sharp find the
+ * subject; "left" and "right" slide the crop to either end of a wide still;
+ * "zoom" closes in on the middle. The same picture under several frames then
+ * reads as several shots. A picture too narrow to slide falls back to the
+ * subject crop.
+ */
+async function reelCrop(path, focus) {
+  const subject = () =>
+    sharp(path, { density: 300 }).resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' }).toBuffer();
+  if (focus === 'attention') return subject();
+  const meta = await sharp(path).metadata();
+  if (!meta.width || !meta.height) return subject();
+  const scale = (STORY_H * (focus === 'zoom' ? 1.45 : 1)) / meta.height;
+  const w = Math.round(meta.width * scale);
+  const h = Math.round(meta.height * scale);
+  if (w < STORY_W + 120) return subject();
+  const left = focus === 'left' ? 0 : focus === 'right' ? w - STORY_W : Math.round((w - STORY_W) / 2);
+  const top = Math.round((h - STORY_H) / 2);
+  return sharp(path, { density: 300 })
+    .resize(w, h)
+    .extract({ left, top, width: STORY_W, height: STORY_H })
+    .toBuffer();
+}
+
+/**
  * One frame of the weekly breakdown Reel (scripts/weekly-reel.mjs): a still
  * from the piece, a short heading and a few lines of body, 9:16.
  *
@@ -512,7 +537,13 @@ export async function buildStoryFrame(
  * `outDir` rather than to public/: the frames are emailed as attachments, so
  * they never need to be on the site.
  */
-export async function buildReelFrame({ kicker, heading, body = '', image, category }, index, total, outDir, root = process.cwd()) {
+export async function buildReelFrame(
+  { kicker, heading, body = '', image, focus = 'attention', category },
+  index,
+  total,
+  outDir,
+  root = process.cwd()
+) {
   const accent = COLOURS[category] ?? '#B600A8';
 
   let background;
@@ -520,13 +551,10 @@ export async function buildReelFrame({ kicker, heading, body = '', image, catego
     if (!image) throw new Error('no image');
     const p = join(root, 'public', image.replace(/^\//, ''));
     await access(p);
-    background = await sharp(p, { density: 300 })
-      .resize(STORY_W, STORY_H, { fit: 'cover', position: 'attention' })
-      .toBuffer();
+    background = await reelCrop(p, focus);
   } catch {
-    // No still for this frame: a dark field lit from one corner in the
-    // category's colour, so a text frame between two pictures reads as a
-    // deliberate beat rather than a missing image.
+    // Only when the piece has no picture at all: a dark field lit from one
+    // corner in the category's colour.
     background = await sharp(
       Buffer.from(`<svg width="${STORY_W}" height="${STORY_H}" xmlns="http://www.w3.org/2000/svg">
   <defs><radialGradient id="g" cx="0.85" cy="0.12" r="0.9">
