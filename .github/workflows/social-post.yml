@@ -149,6 +149,15 @@ jobs:
             echo "no new cards"
           else
             git commit -m "Draw the social cards and the blog's link preview"
+            # Every push to main makes Vercel fetch the repository, even for a
+            # commit its ignore step then skips. On 12 October the publish, this
+            # commit and the ledger after it landed within a minute of each
+            # other and of a draft commit; GitHub's secondary rate limit refused
+            # Vercel's fetches and two deployments failed. So each push from
+            # this job waits until 75 seconds after the one before it.
+            since=$(git log -1 --format=%ct "$GITHUB_SHA")
+            left=$(( since + 75 - $(date +%s) ))
+            if [ "$left" -gt 0 ]; then echo "spacing the push: waiting ${left}s"; sleep "$left"; fi
             # Runs queue rather than cancel, so a second one starts from the
             # commit that triggered it and finds main has moved. A plain rebase
             # was not enough: this commit also redraws one shared picture, the
@@ -172,6 +181,7 @@ jobs:
               sleep $((RANDOM % 6 + 3))
             done
             [ "$pushed" = 1 ] || { echo "::error::could not push the cards after four attempts"; exit 1; }
+            date +%s > "$RUNNER_TEMP/cards-pushed-at"
           fi
 
       # Instagram fetches the image from a URL rather than accepting an upload,
@@ -181,6 +191,44 @@ jobs:
       - name: Let the raw URLs settle
         if: steps.pick.outputs.slugs != ''
         run: sleep 20
+
+      # The post links to the article, and Facebook reads its preview from the
+      # page at the moment the post is made. This job starts on the same push
+      # that publishes the piece, usually before Vercel has finished building
+      # it, and on 12 October GitHub's rate limit made deployments fail
+      # outright. So nothing is posted until every article answers 200. If one
+      # is still missing after three minutes and a deploy hook is configured
+      # (VERCEL_DEPLOY_HOOK, created in Vercel and stored as a GitHub secret),
+      # the job asks Vercel for a fresh deployment once. After ten minutes it
+      # stops without posting: a rerun from the Actions tab picks it up, and
+      # the ledger keeps anything already posted from going out twice.
+      - name: Wait until the articles are live
+        if: steps.pick.outputs.slugs != ''
+        env:
+          SLUGS: ${{ steps.pick.outputs.slugs }}
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          set -uo pipefail
+          start=$(date +%s)
+          hooked=0
+          for slug in $SLUGS; do
+            url="https://www.gianlucascattarella.it/blog/$slug/"
+            while :; do
+              code=$(curl -s -o /dev/null -w '%{http_code}' "$url" || echo 000)
+              [ "$code" = 200 ] && { echo "live: $url"; break; }
+              waited=$(( $(date +%s) - start ))
+              if [ "$waited" -ge 180 ] && [ "$hooked" = 0 ] && [ -n "${VERCEL_DEPLOY_HOOK:-}" ]; then
+                echo "still $code after ${waited}s, asking Vercel for a fresh deployment"
+                curl -s -X POST "$VERCEL_DEPLOY_HOOK" > /dev/null || true
+                hooked=1
+              fi
+              if [ "$waited" -ge 600 ]; then
+                echo "::error::$url still answers $code after ten minutes; nothing was posted. Check the Vercel deployment, then rerun this workflow."
+                exit 1
+              fi
+              sleep 15
+            done
+          done
 
       - name: Post
         if: steps.pick.outputs.slugs != ''
@@ -215,6 +263,10 @@ jobs:
             # record would mean posting them a second time.
             cp notes/social-posted.json "$RUNNER_TEMP/ledger-ours.json"
             git commit -m "Record the articles posted to Facebook and Instagram"
+            # Spaced from the cards push for the same reason as that one.
+            since=$(cat "$RUNNER_TEMP/cards-pushed-at" 2>/dev/null || echo 0)
+            left=$(( since + 75 - $(date +%s) ))
+            if [ "$left" -gt 0 ]; then echo "spacing the push: waiting ${left}s"; sleep "$left"; fi
             pushed=0
             for attempt in 1 2 3 4; do
               git fetch -q origin main
