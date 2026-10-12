@@ -18,7 +18,6 @@ sources:
     url: https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/
 artistView:
   take: "A target spec is a contract between a lighting budget and a machine, and this generation broke the machine's side of it quietly, over five years, one price rise at a time. The art did not get cheaper to make because the box got dearer to buy. What happened instead is that the internal resolution went down and a network was hired to lie about it convincingly, which works, and which is not the same thing as the frame we signed off."
-draft: true
 ---
 
 I have never once been handed a target spec that went down.
