@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="LoopTools goes native in Blender 5.3">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2A1133"/>
+      <stop offset="1" stop-color="#E87D0D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g fill="none" stroke="#E87D0D" stroke-opacity="0.35" stroke-width="3">
+    <circle cx="975" cy="205" r="120"/>
+    <polygon points="975,85 1079,145 1079,265 975,325 871,265 871,145"/>
+  </g>
+  <text x="90" y="190" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E8D8F0" fill-opacity="0.75" letter-spacing="6">BLENDER 5.3 BETA</text>
+  <text x="90" y="340" font-family="Helvetica, Arial, sans-serif" font-size="128" font-weight="700" fill="#FFFFFF">LoopTools</text>
+  <text x="90" y="455" font-family="Helvetica, Arial, sans-serif" font-size="92" font-weight="700" fill="#E87D0D">goes native</text>
+  <text x="90" y="560" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8D8F0" fill-opacity="0.9">Rewritten from scratch in C++, moved into core</text>
+  <text x="90" y="625" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8D8F0" fill-opacity="0.65">~1.5M downloads: the most-used add-on there is</text>
+</svg>

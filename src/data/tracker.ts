@@ -190,4 +190,25 @@ export const tracker: TrackedRelease[] = [
     piece: '/blog/blender-5-2-lts-what-changed/',
     sources: [],
   },
+  {
+    tool: 'Blender',
+    maker: 'Blender Foundation',
+    version: '5.3 beta',
+    status: 'beta',
+    date: '2026-10-12',
+    changed: [
+      'The LoopTools operators are rewritten from scratch in C++ and moved into core, so they no longer need enabling as an add-on: To Circle, Space Edge Loops Evenly, Flatten, To Curve and Relax, with GStretch renamed To Annotation.',
+      'Blender\'s tracker task gives the reason as LoopTools being the most downloaded add-on, at roughly 1.5 million downloads, and the port as an opportunity to fix long-standing bugs.',
+      'The release notes attribute the C++ rewrite to improved performance, which lands on the dense retopology meshes where the Python per-vertex loops were the cost.',
+    ],
+    watch: [
+      'Relax becomes contextual: the LoopTools algorithm in vertex and edge mode, Blender\'s own Smooth in face mode. One menu entry, two behaviours.',
+      'The port is staged across releases and the sources disagree on which operators are native in which build: blender.org\'s 5.2 LTS page is reported to list three as built in to 5.2, while the 5.3 notes describe the same three as now native. Check the build you are running.',
+    ],
+    piece: '/blog/blender-5-3-looptools-native-cpp/',
+    sources: [
+      { label: 'BlenderNation', url: 'https://www.blendernation.com/2026/10/12/all-loop-tools-now-native-in-blender-5-3/' },
+      { label: 'Blender Projects', url: 'https://projects.blender.org/blender/blender/issues/153880' },
+    ],
+  },
 ];
