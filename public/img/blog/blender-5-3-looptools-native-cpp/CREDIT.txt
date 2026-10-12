@@ -1,0 +1,3 @@
+Daniel Bystedt, Blender 2.90 splash art, CC BY-SA 3.0 via Wikimedia Commons
+
+- /img/blog/blender-5-3-looptools-native-cpp/shot-01.jpg

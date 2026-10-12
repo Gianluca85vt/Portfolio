@@ -38,6 +38,11 @@ rewritten from scratch in C++ and moved into core, and BlenderNation flagged on
 
 ## Why this one, and not the other four hundred add-ons
 
+<figure>
+  <img src="/img/blog/blender-5-3-looptools-native-cpp/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Daniel Bystedt, Blender 2.90 splash art, CC BY-SA 3.0 via Wikimedia Commons</figcaption>
+</figure>
+
 The reason is in Blender's own tracker task for the port. LoopTools is the
 most downloaded Blender add-on there is — the task puts it at roughly 1.5
 million downloads. For a thing that ships in the box and only needs enabling,
