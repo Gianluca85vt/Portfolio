@@ -61,7 +61,7 @@ promise, and the schedule is the thing with give in it. So you get less time to
 hit the same number for a machine fewer people own, and the people who decided
 each of those three things decided them separately and never met.
 
-[[ANEDDOTO: a job where the hardware moved under you — a spec agreed at kickoff, a box that had turned into something else by the time the art was in it, and what the rework cost in weeks]]
+
 
 PC is not the escape hatch either. Omdia has Q3 shipments down 21.2 per cent
 year on year to 58.1 million machines, the sharpest fall since the start of
@@ -140,7 +140,7 @@ years while people asked for one more light. Everything above about rework and
 reconstruction is what happens when nobody is allowed to make that call until
 the schedule makes it for them.
 
-[[ANEDDOTO: a time the scope decision came late — the pass where lights, draw distance or texture budget got cut at the end to fit a number somebody else had already committed to]]
+
 
 ## Who signs it
 
