@@ -16,7 +16,6 @@ artistView:
     - "Preservation: the find is worth more than the re-release. Two hours of live-action footage at its mastered quality is a record of how studios shot FMV in 1994, which the 320x240 version on the original discs is not."
   misses:
     - "Expectations: the masters are standard definition, so the ceiling here is clean 480-line footage and not HD. Any marketing that implies otherwise will be selling an upscale with better input."
-draft: true
 ---
 
 In 2020, when EA put the Command & Conquer Remastered Collection together,
