@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Wing Commander III shipped its FMV at 320 by 240; EA has found the source tapes">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="140" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#ffffff" opacity="0.72" letter-spacing="3">WING COMMANDER III, 1994</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="180" font-weight="700" fill="#ffffff">320x240</text>
+  <text x="80" y="410" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F4ECFA" opacity="0.92">is what two hours of live action shipped as</text>
+  <text x="80" y="480" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#F4ECFA" opacity="0.92">The masters were in EA's archive all along</text>
+</svg>

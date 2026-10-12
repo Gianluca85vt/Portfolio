@@ -1,6 +1,36 @@
-# Games — harvested 2026-10-11T18:27:21.273Z
+# Games — harvested 2026-10-12T12:26:29.877Z
 
 ## Eurogamer
+
+### Nintendo executive confirms company has "no plans to ditch physical games"
+Mon, 12 Oct 2026 12:00:16 +0000 — https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games
+
+Bill van Zyll, VP and general manager for Nintendo in Latin America, has reiterated Nintendo's stance on physical media, confirming that the company has no immediate plans to move to an 'all-digital' future. Read more
+
+### Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says
+Mon, 12 Oct 2026 11:38:55 +0000 — https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos
+
+Gears of War: E-Day's servers have been struggling because they've been suffering distributed denial-of-service (DDoS) attacks, apparently - so someone, or some people, have been deliberately trying to overload them. Read more
+
+### For the second time this year, Steam has set a major new concurrent user record
+Mon, 12 Oct 2026 10:35:07 +0000 — https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026
+
+There's clearly no stopping Steam's continued growth. Valve's PC digital store and social platform set a new user concurrent record on Sunday, with a staggering 43,505,724 million users (via SteamDB ). Read more
+
+### The Blood of Dawnwalker's lead actor reminds us why AI will always struggle to replicate a human performance
+Mon, 12 Oct 2026 09:41:30 +0000 — https://www.eurogamer.net/the-blood-of-dawnwalker-lead-actor-will-de-renzy-martin-ai-voiceover
+
+Will de Renzy-Martin, the actor who plays lead character Coen in the English language version of The Blood of Dawnwalker, has reminded us of the value humans bring to a performance, versus AIs generating voice lines. Read more
+
+### Stardew Valley creator's new game, Haunted Chocolatier, is "more of an action RPG" than farming sim
+Mon, 12 Oct 2026 09:12:13 +0000 — https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley
+
+Stardew Valley creator Eric Barone, has given a new interview - and finally revealed a little more information about his upcoming title, Haunted Chocolatier. In a wide-ranging interview with GQ , which tackles topics ranging from creative burnout to the importance of 'cosy gaming', Barone also slips in some new information about what we can expect from his highly-anticipated Stardew Valley follow-up. Read more
+
+### DMZ for Call of Duty: Modern Warfare 4 being released early, but Infinity Ward shoots down PvE hopes
+Mon, 12 Oct 2026 08:35:00 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-early-access-no-pve
+
+In yet another surprising move for Call of Duty, Modern Warfare 4 studio Infinity Ward has announced that the game's extraction shooter mode, DMZ, will be released prior to the game's official launch. DMZ will be available starting 20th October for players who pre-order a copy digitally. Read more
 
 ### Marvel Tōkon: Fighting Souls reveals its Year 1 DLC roster, starting with Phoenix Cyclops on 2nd November
 Sun, 11 Oct 2026 17:28:25 +0000 — https://www.eurogamer.net/marvel-tokon-fighting-souls-year-1-dlc-roster-phoenix-cyclops
@@ -32,45 +62,38 @@ Sun, 11 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/we-have-to-go-a-di
 
 Player Unknown's Battlegrounds is arguably one of the most important games to release in the past decade. If H1Z1 built the foundation of the battle royale genre, PUBG certainly shaped it into the form that remains hugely successful today. We would not have seen the battle royale craze of the late 2010s without it, and millions of people around the world wouldn't know the brutal arena thrills of red loot crates, welding helmets, and the clang of steel frying pans. Read more
 
-### GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game
-Sat, 10 Oct 2026 19:42:21 +0000 — https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak
-
-A GTA 6 leaker has reportedly threatened to put out a complete, playable build of the game, start to finish. Read more
-
-### Strange Scaffold announces Gods With Badges, a tactics game where you decide when to switch off your bodycam
-Sat, 10 Oct 2026 19:09:19 +0000 — https://www.eurogamer.net/gods-with-badges-strange-scaffold-narrative-tactics-police-game
-
-Strange Scaffold, the studio behind I Am Your Beast and El Paso, Elsewhere, has announced Gods With Badges, a narrative tactics game about the power police hold over life and death. Read more
-
-### Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game
-Sat, 10 Oct 2026 11:44:06 +0000 — https://www.eurogamer.net/bokeh-game-studio-toyama-new-horror-game-casting
-
-It looks like Bokeh Game Studio, founded by Keiichiro Toyama, who directed the original Silent Hill and created Siren and Gravity Rush , is working on another horror game. Read more
-
-### Arc Raiders could eventually be split into PvE and PvP, says executive producer
-Sat, 10 Oct 2026 11:21:05 +0000 — https://www.eurogamer.net/arc-raiders-pve-pvp-split-possible-executive-producer
-
-Arc Raiders could eventually be split into PvE and PvP modes. Read more
-
-### Konami is already thinking about the next wave of Silent Hill games
-Sat, 10 Oct 2026 10:38:48 +0000 — https://www.eurogamer.net/konami-silent-hill-next-wave-new-games-okamoto
-
-Silent Hill producer Motoi Okamoto says Konami is looking at "a number of projects" after the first wave of new Silent Hill games. Read more
-
-### What we've been playing - "It's pure video game popcorn movie stuff"
-Sat, 10 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-its-pure-video-game-popcorn-movie-stuff
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Dom enjoys being back in Gears of War, which they should with a name like that; and Bertie ekes every last drop he can get out of The Blood of Dawnwalker before saving his family. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Group behind GTA 6 leaks threatens to release alleged full build of game including story mode
+Mon, 12 Oct 2026 10:32:50 +0000 — https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode
+
+The group responsible for the recent Grand Theft Auto 6 leaks has reportedly threatened to release a full build of the game, including its full story mode and end credits. Read more
+
+### BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV
+Mon, 12 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv
+
+BAFTA has awarded over &pound;270,000 in grants to 112 recipients in the UK and North America under its 2026 Prince William BAFTA Bursary and scholarship programmes. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Protect Your iPhone 18 Pro with Striking Yoji Shinkawa Art Courtesy of Kojima Casetify Collab
+Mon, 12 Oct 2026 12:15:00 GMT — https://www.pushsquare.com/news/2026/10/protect-your-iphone-18-pro-with-striking-yoji-shinkawa-art-courtesy-of-kojima-casetify-collab
+
+These will be pricey. I literally just ordered a Casetify cover for my new iPhone 18 Pro, and I’m wondering if I should have waited now. I went with one of the John Kafka designs, a Korean artist I do like, but I obviously didn’t know these Yoji Shinkawa designs were coming down the line. Read the full article on pushsquare.com
+
+### Guide: These 30+ PS5 Games Are Coming Out This Week (12th-18th October)
+Mon, 12 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-this-week-12th-18th-october
+
+Planet Zoo 2! Castlevania: Belmont's Curse! Valor Mortis! The release schedule has been turbo on the PS5 for well over a month now, and it’s showing no signs of slowing down this week. If I were to pick some highlights this time, I’d probably point to tycoon title Planet Zoo 2 , with its insanely realistic animal models – and Castlevania: Belmont’s Curse , which sees one of the original Metroidvanias get an all-new adventure. Read the full article on pushsquare.com
+
+### Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player s Choice Sale (North America/Europe)
+Mon, 12 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope
+
+PS5 and PS4 games going cheap we recommend. PS Store's latest offer is the Player's Choice sale, running from now through to 21st October 2026. As always, there are thousands of PS5 and PS4 games going cheap, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
 
 ### Tekken 8 Reveals Its Baki the Grappler Crossover, Roger Jr Out 17th November
 Sun, 11 Oct 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/10/tekken-8-reveals-its-baki-the-grappler-crossover-roger-jr-out-17th-november
@@ -117,21 +140,6 @@ Sat, 10 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/tekken
 
 And two Tokyo Revengers characters out this month. If you’re not playing Fatal Fury: City of the Wolves , then to quote Nintendo exec Reggie Fils-Aime: what’s wrong with you? I know there are contentious issues behind how SNK is getting funded, but as a fighter, this game is pretty unprecedented. Read the full article on pushsquare.com
 
-### Guide: These 30+ PS5 Games Are Coming Out Next Week (12th-18th October)
-Sat, 10 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-30plus-ps5-games-are-coming-out-next-week-12th-18th-october
-
-Planet Zoo 2! Castlevania: Belmont's Curse! Valor Mortis! The release schedule has been turbo on the PS5 for well over a month now, and it’s showing no signs of slowing down next week. If I were to pick some highlights this time, I’d probably point to tycoon title Planet Zoo 2 , with its insanely realistic animal models – and Castlevania: Belmont’s Curse , which sees one of the original Metroidvanias get an all-new adventure. Read the full article on pushsquare.com
-
-### Sonic Racing: CrossWorlds Now Permanently Cheaper, and It s Going Absolutely Bananas with DLC in Year 2
-Sat, 10 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonic-racing-crossworlds-now-permanently-cheaper-and-its-going-absolutely-bananas-with-dlc-in-year-2
-
-SEGA blows the lid off upcoming DLC. SEGA has just announced a metric tonne of stuff for Sonic Racing: CrossWorlds , which looks as though it's going to have a truly bumper second year. There's a lot to get through, so let's get into the thick of it. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 653
-Fri, 09 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-653
-
-Course correction. While the release schedule continues in earnest, it's definitely been a quieter week for gaming news I feel. That's probably appreciated after a few dramatic periods of late. Here's what we're playing. Aaron Bayne I'll be trying to crack the case in Silver Pines this weekend. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Game Conference MX (GCMX)
@@ -150,6 +158,31 @@ no date — https://www.gamedeveloper.com/events/unreal-fest
 no date — https://www.gamedeveloper.comconference.godotengine.org
 
 ## VGC
+
+### Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised all future paid DLC
+Mon, 12 Oct 2026 12:26:02 +0000 — https://www.videogameschronicle.com/news/sonic-racing-crossworlds-players-demand-year-2-for-free-after-noting-the-digital-deluxe-edition-promised-all-future-paid-dlc/
+
+The game's Year 2 paid DLC requires a second season pass… Source
+
+### Someone s found out how to unlock F-Zero GX s five golden cars, previously only available through Japan special events
+Mon, 12 Oct 2026 11:19:18 +0000 — https://www.videogameschronicle.com/news/someones-found-out-how-to-unlock-f-zero-gxs-five-golden-cars-previously-only-available-through-japan-special-events/
+
+New cheat codes have been discovered 23 years after its release… Source
+
+### Marvel Tokon s Year One DLC roster confirmed, including Venom, Thor and Jubilee
+Mon, 12 Oct 2026 10:02:29 +0000 — https://www.videogameschronicle.com/news/marvel-tokons-year-one-dlc-roster-confirmed-including-venom-thor-and-jubilee/
+
+Four characters and one stage will be available individually or as part of a season pass… Source
+
+### The latest game from the creator of Dragon Quest was made in about 30 minutes with AI
+Mon, 12 Oct 2026 09:33:47 +0000 — https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/
+
+Horii has previously praised AI technology and its use in video games… Source
+
+### Wing Commander 3 is getting a 30th anniversary edition with remastered FMVs from the restored original tapes
+Mon, 12 Oct 2026 09:04:24 +0000 — https://www.videogameschronicle.com/news/wing-commander-3-is-getting-a-30th-anniversary-edition-with-remastered-fmvs-from-the-restored-original-tapes/
+
+The third game starred Mark Hamill and is generally considered the best in the series… Source
 
 ### Group threatens to leak full GTA 6 build if physical plans aren t reversed
 Sun, 11 Oct 2026 10:35:55 +0000 — https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/
@@ -171,173 +204,143 @@ Sat, 10 Oct 2026 12:53:54 +0000 — https://www.videogameschronicle.com/news/us-
 
 Xbox sales hit an all-time low as US console prices reach record highs… Source
 
-### Will GTA 6 make its way to Switch 2? Nintendo isn’t saying
-Sat, 10 Oct 2026 12:07:44 +0000 — https://www.videogameschronicle.com/news/will-gta-6-make-its-way-to-switch-2-nintendo-isnt-saying/
-
-Nintendo of America boss defers GTA 6 questions to Rockstar and Take-Two… Source
-
-### Sonic Racing Crossworlds Year 2 crossovers revealed, including Final Fantasy 7, Hello Kitty and retro Sega
-Sat, 10 Oct 2026 09:55:44 +0000 — https://www.videogameschronicle.com/news/sonic-racing-crossworlds-year-2-crossovers-revealed-including-final-fantasy-7-hello-kitty-and-retro-sega/
-
-The game has also received a permanent price drop… Source
-
-### DD2 Dark Arisen: All Commission Supply locations, The Snatching-Beast quest guide
-Sat, 10 Oct 2026 07:00:50 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-commission-supply-locations-the-snatching-beast-quest-guide/
-
-Where to find all of The Commission's supplies in Dragon's Dogma 2's The Snatching-Beast quest… Source
-
-### DD2 Dark Arisen: Summon Gagana, The Castle in Ice quest guide
-Sat, 10 Oct 2026 07:00:20 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-summon-gagana-the-castle-in-ice-quest-guide/
-
-How to summon the Gagana monster in Dragon's Dogma 2: Dark Arisen's The Castle in Ice quest… Source
-
-### DD2 Dark Arisen: All Norgan Sphinx Sage riddle solutions
-Sat, 10 Oct 2026 07:00:13 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-all-norgan-sphinx-sage-riddle-solutions/
-
-How to solve the Sphinx Sage's new Norgan riddles in Dragon's Dogma 2: Dark Arisen… Source
-
-### DD2 Dark Arisen: How to damage Blackdog enemies, A Howl in the Dawk quest guide
-Fri, 09 Oct 2026 20:03:15 +0000 — https://www.videogameschronicle.com/guide/dd2-dark-arisen-how-to-damage-blackdog-enemies-a-howl-in-the-dawk-quest-guide/
-
-How to break the magick shields of the Blackdog enemies in Dragon's Dogma 2: Dark Arisen… Source
-
 ## Polygon
 
-### 9 Most Haunted Masks in The Legend of Zelda: Majora's Mask, Ranked
-Sun, 11 Oct 2026 17:00:17 GMT — https://www.polygon.com/zelda-majoras-masks-scariest-ranked/
+### Ben Affleck's New Netflix Thriller is a Massive Global Streaming Hit
+Mon, 12 Oct 2026 12:17:33 GMT — https://www.polygon.com/ben-affleck-animals-netflix-streaming-hit/
 
-In The Legend of Zelda: Majora’s Mask , you’ll spend roughly half the game wearing a dead man’s face. The game doesn’t sugarcoat this. Every single transformation scene comes with a shriek, a lurch, and Link suddenly having to figure out how to work with a body that belonged to someone else until very recently.
+We live in a world where a junky-but-fun-looking movie with a big star attached can come out of nowhere on streaming, with little marketing, and completely dominate the viewing habits of half the globe for a weekend or two. A few weeks ago, it happened with The Whisper Man , starring Robert De Niro. This week, it's the turn of Ben Affleck with Animals , an L.A.-set crime thriller also featuring Kerry Washington, Gillian Anderson, and Stephan Yeun.
 
-### To Reinvent a Stephen King Classic, Mike Flanagan Needed "One of the Best Actors I’ve Ever Met"
-Sun, 11 Oct 2026 16:00:16 GMT — https://www.polygon.com/carrie-interview-mike-flanagan-samantha-sloyan/
+### A New KPop Demon Hunters Limited Edition Collection Just Dropped
+Mon, 12 Oct 2026 11:22:53 GMT — https://www.polygon.com/kpop-demon-hunters-limited-edition-collection/
 
-But in Flanagan's latest, a modern reimagining of the Stephen King classic, Carrie , Sloyan rolls those various elements up into perhaps her greatest role yet: Margaret White (aka Carrie's mom).
+KPop Demon Hunters may be most beloved by children, but we're confident that it's bewitched plenty of adults too. Hell, who isn't excited about a future where KPop Demon Hunters 2 hits the silver screen?
 
-### Godzilla Minus Zero's Latest Trailer Continues Teasing A New Monstrous Threat
-Sun, 11 Oct 2026 15:15:25 GMT — https://www.polygon.com/godzilla-minus-zero-second-trailer/
+### 'Dungeon Crawler Carl' Author Officially Settles a Raging Debate About the Audiobooks
+Mon, 12 Oct 2026 11:00:16 GMT — https://www.polygon.com/matt-dinniman-nycc-interview-dungeon-crawler-carl/
 
-Less than a day after the movie's New York Comic Con panel, a second Godzilla Minus Zero trailer was released. Like the previous trailer, it suggests that Godzilla isn't the only monster threat that humans will have to contend with in this highly anticipated sequel.
+The series has become enormously popular, in large part because of its best-selling audiobooks performed by Jeff Hays. But fans often choose not to listen to Dinniman's lengthy books at the speed at which Hays performed them. On Reddit , Facebook , TikTok , and other online places where DCC fans congregate, listening speed is a hot topic, with some bragging about listening to the book at double its normal speed and beyond, while many wonder what’s wrong with the few people who listen to it at its standard 1.0 speed.
 
-### Halo Already Delivered the Perfect Master Chief Origin Story, 25 Years Ago
-Sun, 11 Oct 2026 15:00:17 GMT — https://www.polygon.com/halo-activision-master-chief-origin-story-fall-of-reach/
+### Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'
+Mon, 12 Oct 2026 09:30:15 GMT — https://www.polygon.com/nycc-josh-brolin-thanos-vs-doom/
 
-Late last month, Xbox announced that development of the next game set in the Halo universe would be handed off to Activision. Then, earlier this week, a leak shared by Rebs Gaming indicated that Activision is considering a hard reboot that would double as Master Chief’s origin story. But not only does this miss the point of Combat Evolved , which thrust players directly into an already ongoing future war between humanity and a messianic alien empire known as The Covenant, it also threatens to overwrite a legitimately great sci-fi story in the process.
+At New York Comic Con 2026 this past weekend, Josh Brolin was on the ground to promote his new movie Whalefall . Directed by Brian Duffield and based on a novel by Daniel Kraus, Whalefall is the story of a scuba diver ( Resident Evil 's Austin Abrams) who gets swallowed whole by a sperm whale. Josh Brolin plays the diver's father, whose remains the diver was searching for when he was swallowed.
 
-### Marvel Tokon: Fighting Souls Officially Adding Thor, Venom, and Jubilee Next Year
-Sun, 11 Oct 2026 14:36:00 GMT — https://www.polygon.com/marvel-tokon-fighting-souls-year-1-dlc-characters/
+### 'Carrie' Showrunner Confirms the Biggest Changes to the Book Were Stephen King's Idea
+Mon, 12 Oct 2026 09:00:16 GMT — https://www.polygon.com/carrie-2026-changes-mike-flanagan-stephen-king-interview/
 
-Arc System Works and Sony Interactive Entertainment have unveiled the rest of the Year 1 DLC characters for Marvel Tokon: Fighting Souls at EVO France. The first one to arrive after Phoenix Cyclops is a surprising pick. Instead of adding Thor Odinson to the tag fighter's roster, the developers chose Jane Foster's Thor.
+When Mike Flanagan set out to adapt Stephen King 's classic 1970 novella into an eight-episode series set in 2026, the first thing he did was go to King himself.
 
-### The 5 Best Games to Play if You Loved Fire Emblem: Fortune’s Weave
-Sun, 11 Oct 2026 14:00:15 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-best-games-replacements/
+### 33 Years Later, Tom Cruise's Near-Perfect Legal Thriller Is Officially on Streaming
+Mon, 12 Oct 2026 08:00:23 GMT — https://www.polygon.com/the-firm-tom-cruise-streaming-paramount-plus-october-2026/
 
-It's been several weeks now since Fire Emblem: Fortune's Weave was released for Nintendo Switch 2 , and fans around the world are still exploring this massive game. While you could easily sink hundreds of hours into playing through every Flame Lord's story, you may be wondering what to play after your adventures in Dagda are through. Worry not: we've compiled a list of our games like Fortune's Weave to keep your strategic skills sharp while you wait for Intelligent Systems to reveal their DLC plans.
+Tom Cruise has built a career playing men who find themselves in increasingly dangerous situations, whether by choice or by sheer bad luck. From dangling off a skyscraper in Mission: Impossible – Ghost Protocol to running for his life in War of the Worlds to navigating the increasingly bizarre events of Eyes Wide Shut , Cruise is always at his best when the stakes are high and the people around him can’t be trusted. His latest, Digger , is another reminder that there’s rarely a dull moment when Cruise is in the lead.
 
-### ‘Avengers: Doomsday’ Has An Exclusive Magic Card — But There’s a Catch
-Sun, 11 Oct 2026 13:39:25 GMT — https://www.polygon.com/avengers-doomsday-magic-the-gathering-exclusive-doctor-doom-card/
+### 66 Years Later, Alfred Hitchcock’s Most Perfect Thriller is Officially Streaming on Netflix
+Mon, 12 Oct 2026 03:00:16 GMT — https://www.polygon.com/alfred-hitchcock-psycho-on-netflix/
 
-Dec. 18 is one of the most anticipated days of the year for Marvel fans, as it is when Avengers: Doomsday finally premieres in theaters. Some moviegoers will be eligible to receive an exclusive Doctor Doom Magic: The Gathering card during their screening, but they must meet specific conditions.
+Sometimes, when you finally watch some great, important, landmark film for the very first time, the experience of actually sitting down to absorb it doesn’t quite live up to all the hype. Maybe you can appreciate its place in cinema history or whatever, but that doesn’t mean it’s actually all that entertaining (I kind of felt this way about Charlie Chaplin’s City Lights ). With the disadvantage of time and the advancement of modern pacing and filmmaking techniques, some classics just don’t hold up.
 
-### 'GTA 6' Leaker Posts Nude Lucia Video With Threats of Releasing Game Early
-Sun, 11 Oct 2026 13:27:56 GMT — https://www.polygon.com/gta-6-unmoderated-lucia-naked-video-cyberleek-website-reddit-rockstar/
+### 5 Exciting Games Stuck In Development For More Than 10 Years
+Mon, 12 Oct 2026 01:46:49 GMT — https://www.polygon.com/games-development-hell-2026/
 
-Cyberleek, the notorious Grand Theft Auto 6 leaker who has spent the last couple of months posting unauthorized gameplay online, is now threatening to release the game's development build . There's a catch: The leaker says he'll only provide a playable build of the game if viewers raise Cyberleek's meme coin market cap to an incredible $30 million. To reach that number, Cyberleek is tempting GTA 6 fans with videos of Lucia Caminos, the game's co-protagonist, fully nude.
+However, some games get stuck in what is referred to in the industry as "development hell." Over the years, some of these have eventually been released, such as Duke Nukem Forever , Metroid Dread , and Skull & Bones . Others get canceled when the studio heads or publisher decides it's not worth the investment for the end product anymore. Meanwhile, some remain stuck in that cycle. Here are five games that have been in development for more than 10 years and still haven't been released (though some are, finally, near on the horizon).
 
-### GTA 6 Leaker Threatens To Release Full Game Build Before November Launch
-Sun, 11 Oct 2026 13:26:18 GMT — https://www.polygon.com/grand-theft-auto-6-gta-cyberleek-full-build-release-threat/
+### Steven Spielberg's Polarizing Fantasy Film Gets Official New Release
+Mon, 12 Oct 2026 01:46:16 GMT — https://www.polygon.com/steven-spielberg-hook-4k-anniversary-rerelease/
 
-Cyberleek returned last week with a wave of new Grand Theft Auto 6 leaks, and is now making their biggest leak threat yet. Cyberleek claims it will leak a finished build of the game if Rockstar doesn't meet their conditions.
+Steven Spielberg has spent more than five decades making movies, and his filmography is packed with classics that have become part of the cultural fabric. Jaws , E.T. the Extra-Terrestrial , Raiders of the Lost Ark , Jurassic Park , and Schindler's List are just a handful of the films that helped establish Spielberg as one of the most influential directors in Hollywood history.
 
-### GTA 6 Gets A Nudity Pass That Indies Don't For One Weird Reason
-Sun, 11 Oct 2026 13:00:16 GMT — https://www.polygon.com/patch-notes-gta-6-dong-age-rating/
+### 8 Best Cyberpunk 2077 Replacement Games
+Mon, 12 Oct 2026 01:29:05 GMT — https://www.polygon.com/best-games-like-cyberpunk-2077/
 
-Patch Notes is a weekly newsletter bringing you the best of Polygon, sent on Fridays and published on the site on Sundays. You can subscribe here .
+If the recent re-release of The Witcher 3 gave you some Cyberpunk 2077 blues, at least know there are plenty of alternatives. Its developer, CD Projekt Red , did not invent dystopian neon, and there are many titles out there that either show up in full cyberpunk gear or have a similar feel – including these eight games like Cyberpunk 2077 . Some are closer to Night City than others. All are full of bad systems, worse people, and reasons to keep playing anyway.
 
 ## PC Gamer
+
+### 'Your washing machine is subject to more safety rules than AI' says Microsoft president
+Mon, 12 Oct 2026 11:42:03 +0000 — https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/
+
+Microsoft president Brad Smith claims that AI is currently less regulated than the food we eat and the utilities we rely on. "Right now, your washing machine is subject to more safety rules than AI," Smith said, "Every carton of milk that you see in the grocery store is subject to safety rules and inspection." Smith isn't just talking about the US either, calling for safety rules to be put in place globally. Smith called for various safety measures while speaking on the BBC's Big Boss podcast , including a legal obligation to notify victims if their systems have been compromised by rogue AI agents. This would definitely be timely, given how OpenAI's agents hacked into Hugging Face and were the source of various other ' incidents ' earlier this year. Smith also advocated for "outside evaluators" to test AI products before release, and a "safety brake" for autonomous systems, describing AI as both a "tool and a weapon." These comments run counter to the sentiment of the US administration; President Trump's current strategy demonstrates little desire to pump the brakes, instead hoping to chart ' a decisive course to cement US dominance in artificial intelligence .' Last month, the US president issued an executive order that renames 'Artificial Intelligence' to 'Super Intelligence .' Shortly before that, Trump Media partnered with AI search engine Perplexity to create Truth Search AI, in a bid to " end Big Tech's assault on free speech ." All of that is to say, Trump appears to s
+
+### Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free
+Mon, 12 Oct 2026 11:17:32 +0000 — https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/
+
+Valve has released the CAD files for the Steam Frame , allowing modders the perfect opportunity to get to work on their own creations for the VR headset. The light blocker—the bit that sits between the bridge of your nose and the headset—is primed for user replacement, as are the head strap, battery housing, facial interface and more. This CAD release includes the lot, along with the core module and controllers. Valve has confirmed it is working on an upgraded head strap with interchangeable batteries and off-ear speakers for the Steam Frame. That's " coming soon ". With this CAD release, perhaps we'll see more options for third parties in future, too. The docs also detail how to interface with the expansion port , or auxiliary port as Valve calls it. This sits just to the front of the user's nose and is a way for a user to add in powered accessories, ie the Arcturus Vision RGB camera—I've been playing around with that for a couple of weeks and it's a pretty wicked upgrade. With one Gen4 PCIe lane alongside power and camera functionality, all laid out in the docs, there's a bunch more that could be done with the port. I'm just hoping someone runs with it. With this release, Valve has a full sweep of CAD files available for all of its most recent products. There's the Steam Deck , Steam Machine , Steam Controller , and now Steam Frame. That's how it should be done, people. ]]>
+
+### 'The algorithm continues to properly prioritise Mister Biddy Blas'—Star Wars: Galactic Racer has created the perfect creature
+Mon, 12 Oct 2026 11:03:33 +0000 — https://www.pcgamer.com/games/racing/the-algorithm-continues-to-properly-prioritise-mister-biddy-blas-star-wars-galactic-racer-has-created-the-perfect-creature/
+
+Star Wars: Galactic Racer is out, and it's pretty solid, netting a firm 76 score in our Galactic Racer review . It's also, as should always be the case with Star Wars videogames, full of funny little guys. None so funny as Biddy Blas. Why is Biddy Blas so popular? Just listen to his voice actor having an absolute ball. I will have the words "SCRIB DOON" burned into my brain forevermore: I'm not even really seeking out much Galactic Racer content, and this guy's been cropping up on my recommended feeds, as observed by Lucasfilm Games executive producer Craig Derrick on X : "The algorithm continues to properly prioritize Mister Biddy Blas. I love it." Blas is, in essence, a perfect "Glup Shitto". A fake character used as a sort of symbolic memetic stand-in for obscure Star Wars background characters that somehow become people's favourites. Blas isn't the first crocin to make an appearance in Star Wars, however—that was in Solo: A Star Wars Story. Which is a relatively recent addition for Glup status, and as such I can't tell you much about the Crocin, other than the fact they apparently need to wear those goggles to protect their sensitive eyes from harsh sunlight. Owing to the fact that, on their home planet, they live in big caverns. For Biddy Blas, however, I can only imagine he needs them to avoid scalding his sclera from the shine of his glorious racing prowess-slash-approaching intergalactic fandom. Which he insists that he already has—hard-earned via a supposed stint as 
+
+### How to turn off your backpack light in Arc Raiders
+Mon, 12 Oct 2026 10:17:58 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-backpack-light-toggle/
+
+You're looking for the "Emissive" option (Image credit: Embark Studios) Key deets 💡 Arc Raiders now has an option to turn off the light on your backpack. 💡 This is the "Emissive" toggle in each backpack's cosmetic menu. Arc Raiders has made lots of new tweaks and additions with Frozen Trail's 2.0 update, but one long-requested change of significant note is that you can turn off the light on your backpacks. To do this, you need to: Select the "Raider" menu. Enter "Customization" on the bottom left of the screen. Go to the "Style" menu at the top. Choose "Backpack" on the left side. Toggle the Emissive option to "off". As you'll see, while looking at the backpack, the light will disappear and reappear as you toggle this, though where exactly the light is varies from pack to pack. This should help you be a little sneakier, though it might make your character a bit harder to spot in some of the game's darkest areas. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### Shogun 2 deserved better
+Mon, 12 Oct 2026 09:00:00 +0000 — https://www.pcgamer.com/games/strategy/shogun-2-deserved-better/
+
+I blink and I've somehow spent another 30 hours in Shogun 2. Undoubtedly my favorite of the older Total War games—and I don't say that lightly as someone who also has big hour counts in Rome and Medieval 2—there's just something so straightforward about the second Shogun; an elegant simplicity complimented by a period where the Creative Assembly was clearly having fun experimenting with all sorts of ideas. It's no wonder it chose to remaster the game despite the fact it's arguably the best aged Total War there is. I'd happily go back and play Shogun 2 over Rome 2, or even Attila, which I think speaks to how well it holds up. It's definitely nice to play Shogun 2 with improved visuals (if you like the new style), modern unit controls, and full Japanese voice acting, but I think Creative Assembly missed the mark in terms of the remaster's other additions. To give it a fair shot, I started with one of the newly introduced island-bound minor factions, Honma. I always love conquering this island in campaigns because they have a gold mine, plus starting on an island in the north adds loads of possibilities. The first thing I noticed, though, is that none of the 50 new minor factions in Shogun 2's campaigns get unique bonuses, which would've gone a long way to distinguishing them from the minor faction unlocker mods Shogun 2 already had. (Image credit: Creative Assembly) Without any passive bonuses to define playstyle, or tweaks to every faction starting with the same units, locatio
+
+### Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut
+Mon, 12 Oct 2026 02:57:30 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/
+
+Wonder Boy in Monster Land released in Japanese arcades in 1987 and for the Sega Master System the following year. Its success led to numerous ports, including to ZX Spectrum, Commodore 64 and Atari ST. Oddly, it never received an official PC port, though that long absence appeared to have come to an end on September 28. Did fans rejoice? Not really. The Steam listing for Wonderboy in Monster Land raises one immediate red flag: note the rookie error of "Wonderboy" versus Wonder Boy. The developer and publisher is Retro Maniac, whose only other Steam game is Street Hoop, or Street Slam, an old Data East arcade game from 1994. To bring you up to speed: LAT Corp owns all IP and assets once belonging to Westone Bit Entertainment, the creators of the original Wonder Boy games. But at the same time Sega, confusingly, owns the Wonder Boy trademark. In other words: LAT Corp owns the games, Sega owns the name. Both parties would need to OK any Wonder Boy re-release bearing the Wonder Boy name. Box art for Wonder Boy in Monster Land on Master System (Image credit: Sega) While the "Wonderboy" misspelling is damning, a Wonder Boy game appearing on Steam without SEGA or LAT Corp prominently displayed isn't unusual. Wonder Boy Returns Remix, which is a "remake" of the original Wonder Boy, lists CFK Co., Ltd as developer and publisher. Not only was it officially licensed, but series creator Ryuichi Nishizawa was involved. Meanwhile, Wonder Boy: The Dragon's Trap is a thorough remake of the 
+
+### Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game
+Mon, 12 Oct 2026 02:15:46 +0000 — https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/
+
+Years ago, I read that Jake Solomon prototyped the Firaxis reboot of XCOM by making a simple board game version. Something rudimentary that could be played in the office on scrap paper to get ideas across and figure out where the fun would be, without having to commit. But it's surprising to hear the same idea being used for a game as different from XCOM's turn-based tactics as Star Wars Galactic Racer. As Fuse Games' creative director Kieran Crimmins told Eurogamer , "You can't know if you can feel the system until you can play the system." And so the early prototype of this high-speed arcade racing game was indeed a board game. "You know, modern engines are so capable that you can do a lot of it in-software," CEO Matt Webster said, "but there's still something [about that which is] not as fast as getting a written idea down. From a board game perspective, you sort of decouple yourself from a particular prototype and you're talking about moment-to-moment." Specifically, the board game simulated Galactic Racer's progression system. Its rewards differ based on the event, but typically offer tuning points to spend on one of three random stats, and maybe a part for your speeder that will affect its abilities or grant a bonus related to a specific status effect. After several races you get to go shopping, and spend the credits you've earned on more upgrades and parts, or a whole new ability. It's a progression system right out of a roguelite, with new unlocks added to a pool so t
+
+### Seamless Landing mod looks set to bring Starfield another step closer to No Man's Sky
+Mon, 12 Oct 2026 01:12:23 +0000 — https://www.pcgamer.com/games/rpg/seamless-landing-mod-looks-set-to-bring-starfield-another-step-closer-to-no-mans-sky/
+
+There are mods for Seamless Grav Jumps and for Seamless Planet Takeoffs . But when you arrive at a planet in Starfield you still have to choose a landing spot, and then watch a loading screen and an animation. It's another thing that contributes to the feeling your spaceship is more like a house that can teleport. When you're in space, Starfield's planets are basically just textures you can fly right through if you put in the hours to try it, as Alanah Pearce discovered back when the RPG's boundaries were still being explored. It seemed like one gap modders would never be able to paper over, but Frederik Wessberg has apparently managed it. The video of his work-in-progress mod shows a planetary approach, complete with heating effects on the ship during atmospheric entry, a moment of white as he hits a layer of clouds, and then the ship just lands. It seems like the clouds are there to mask a moment of loading, but Wessberg says "the cloud cover is in fact not a fancy loading screen." He goes on to explain, "The clouds are not covering loading – they're helping make the seam as minimal as possible right at the point when we do the final cell switch, in terms of lighting and exposure, and terrain color. For airless moons and planets, I just do the switch with no veil, which is fine in that context as the lighting and exposure won't change as much between the two cells (although there I do some extra exposure matching). The underlying loading mechanism is entirely done in the ba
+
+### The shortlist for 2026's Golden Joystick Awards is out, including PC Game of the Year, and you can vote now
+Mon, 12 Oct 2026 00:00:19 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/the-shortlist-for-2026s-golden-joystick-awards-is-out-including-pc-game-of-the-year-and-you-can-vote-now/
+
+The Golden Joystick Awards have been running for so long there was a period where they awarded separate prizes for 8-bit and 16-bit games in each category. In 1988, rail shooter Operation Wolf was the 8-bit Computer Game of the Year, while the Bitmap Brothers' futuresport Speedball took home 16-bit Computer Game of the Year. The shortlist of nominees in publicly voted categories for this year's 44th annual Golden Joystick Awards have been announced. (The nominees for Ultimate Game of the Year won't be revealed until October 26, when voting will open in that category too.) Of particular interest to us are the 10 games chosen for PC Game of the Year. Big Walk Crimson Desert Escape from Tarkov Esoteric Ebb Meccha Chameleon Mewgenics Order of the Sinking Star Star War Zero Company The Blood of Dawnwalker Valheim To qualify these games had to be released between November 1, 2025, and September 25, 2026, unless pre-release versions could be made available to the judges before the deadline. What's your pick, and is there something you think deserved to make the cut that's missing here? You can vote on those, and other categories including Best Storytelling, Best Multiplayer Game, Best Visual Design, Best Indie Game, and Best Indie Game – Self Published over at GamesRadar . Voting closes on October 23 at 4pm PT / 7pm ET / midnight BST, and the winners will be revealed at a ceremony held on November 11. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC
+
+### PvP pinball is such a good idea I can't believe I haven't played it before
+Sun, 11 Oct 2026 23:19:02 +0000 — https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/
+
+One of the great things about videogame conventions is there are always people up for playing a local multiplayer game, just waiting to be handed controls and thrown into a new experience. Which is how, at PAX Australia over the weekend, I found myself playing a game called Bumper Bout. It immediately impressed me with its concept, and then as I played a few rounds of it, with how it executed that concept. Bumper Bout is two-player competitive pinball. If you know Puyo Puyo Tetris it's like that, but if you don't then imagine you're playing pinball on one half of the screen while someone else beside you is doing the same, only with the ability to flick balls across the divide. While you're trying to land a skill shot or just frantically deal with the balls already pinging between your flippers, the neighbor casually lobs another problem over the fence and says, "Deal with this. Good luck!" Bumper Bout had the honor of being chosen as the final game of the Omegathon, the main stage tournament that plays out over the course of PAX, where it was introduced as a game made by someone who thought, "I love pinball, but no one ever dies." Every time a ball goes down the ballhole you lose a heart, and the first player to lose five hearts loses the round. But scoring points by hitting bumpers and targets earns attack balls that you can zip over to harass your opponent, or store until you get four of them, unlocking your character's ultimate ability—which might let you create a gravity 
+
+### Yahtzee is still out there being mean about videogames, and good for him
+Sun, 11 Oct 2026 22:32:37 +0000 — https://www.pcgamer.com/games/yahtzee-is-still-out-there-being-mean-about-videogames-and-good-for-him/
+
+When the HMS Escapist sank everyone worth a damn swam away to form a YouTube channel called Second Wind , where Yahtzee Croshaw's video series Zero Punctuation continued under the name Fully Ramblomatic. It's not exactly the same—the people have glasses now—but it's continuing the essential work of being rude about videogames on the internet. Back in the Before Times, when someone brought a videogame magazine to school we'd all gather round to flick through it, and the only measure of whether it was a good videogame magazine was if the captions on the screenshots were funny. I didn't notice until years later, but that meant we only read the British ones. That particularly British tone is something Yahtzee's videos share. It might come across as flippant to some, but to me it's always read as deep care. Putting in the effort to make a description witty instead of plain means you're working harder to keep your audience engaged, and doing that for videogames suggests you care enough about them to want your audience to actually pay attention. Yahtzee does that. Like Blackadder finding the 100th way to tell Baldrick he's an idiot, he never runs out of ways to complain about videogames. You know how Palworld made a big deal about letting you give your Fauxkémon guns? As Yahtzee points out, to actually do that in the game you have to "jump through so many hoops you feel like a spider in a bowl of Cheerios." That's a throwaway description I bet took the better part of the afternoon, 
 
 ### Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'
 Sun, 11 Oct 2026 17:16:19 +0000 — https://www.pcgamer.com/gaming-industry/nier-creator-yoko-taro-says-hes-achieved-his-career-dreams-but-he-continues-working-because-its-good-for-preventing-dementia/
 
 They say that art is never finished, only abandoned—but that doesn't seem to be the case for Yoko Taro, creator of Nier and Drakengard, who you might recognize by the round, smiley Emil mask he wears. According to a report from Denfaminicogamer (via IGN ), Taro said at the Tokyo French Institute last month that he's already more or less realized his vision and has considered retiring. "With Drakengard, the first game I was given the opportunity to direct, I was actually able to do almost everything the way I wanted," Taro said. "As a game otaku, I think the dream is to release something you've always wanted to create into the world. Having achieved that dream, I view everything after that as the remainder of my life." As for why he continues to work in gamedev if he's already achieved his dreams, well, he said the money doesn't hurt—and that he has a fear of how his mental health might degrade should he grow idle. "This is good for preventing dementia," he said. It's worth noting that Taro is, to put it in technical terms, a bit of a silly goose, if the mask didn't tip you off. As the IGN report notes, it's possible he doesn't literally mean that he only works in gamedev to stave off dementia. But that sentiment, as well as his saying that he hopes he can dodge the "flames" of competition from younger, AI-assisted generations before he dies, speak to how Taro views his place in the games industry. "I've always worked in the games industry with the mindset of 'filling in the g
 
-### Arc Raiders 2.0 is here, and you can finally turn those lights on your backpack off
-Sun, 11 Oct 2026 17:09:57 +0000 — https://www.pcgamer.com/games/third-person-shooter/arc-raiders-2-0-is-here-and-you-can-finally-turn-those-lights-on-your-backpack-off/
-
-I remember being a kid and wishing I had shoes that lit up. I know now that I was a fool. If I festooned myself with garish lights, how would I scavenge for supplies in a frozen wasteland without being spotted by strangers who may or may not kill me before I can use my grappling hook to get away? This isn't a real problem I have, nor is it a real problem Arc Raiders players will have anymore, since your backpack now has an emissive toggle. That's one of many little overhauls that arrived in Embark Studios' popular extraction shooter Thursday, and you can read all about the rest in the 2.0 patch notes . If you've not been tuned into the extraction world as of late, you did indeed read that right: Arc Raiders has gotten a big shakeup with the Frozen Trails update , which comes bearing snowy mountains and grappling hooks. But that's not what's exciting about patch notes—the best part of combing through each little bullet point is seeing all those long-awaited bug fixes and little quality-of-life changes like the aforementioned emissive toggle for backpacks. That and tidbits like "added mouth animation for when players are talking in proximity chat," which I can only hope looks as silly in-game as it does in my imagination. Some other big, but also small changes include the fact that you can open the map when you're downed now, new contextual animations for a variety of things (your character should look more exhausted when sprinting for a while), and an increased max stash size:
-
-### RPGs are simply better when you're an idiot
-Sun, 11 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/rpg/rpgs-are-simply-better-when-youre-an-idiot/
-
-Dungeon Master (Image credit: Future) Welcome to Dungeon Master , PC Gamer's regular RPG column, where Online Editor Fraser Brown delves into PC gaming's most beloved and enduring genre. Grab a seat in our badly-lit tavern and please ignore the goblin puke. Most videogame RPGs are selling a power fantasy—the idea that you are competent, clever and regardless of the odds will still manage to save the day. Fate has made you a hero, and nothing is going to stop you from achieving your goals. And this holds a lot of appeal. It's sometimes nice to be able to take a holiday from my own incompetence. Over the last few days I've managed to drop my dinner, get trapped on a bus going in the wrong direction, get peed on by a dog, get almost run over by a car and, to top it all off, actually get knocked over by an electric scooter. I am a walking disaster. (Image credit: BioWare) Geralt never gets peed on. Shepard never lands on their arse after colliding with a teen. These are not heroic moments. When these protagonists face adversity, it only serves as an excuse for more badass adventures. It turns out, though, that constantly winning becomes a little dull. I want more friction. More fuck ups. But games, by and large, want you to succeed, even when they throw obstacles in your way. Last month, I wrote about how The Blood of Dawnwalker sets up all these possible ways for you to fail, only to then make it almost impossible to screw up unless you're really trying. But it's hardly alone in
-
-### Escape from EloHello has me reliving my worst online PvP nightmares in roguelike-form
-Sun, 11 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/roguelike/escape-from-elohello-has-me-reliving-my-worst-online-pvp-nightmares-in-roguelike-form/
-
-I was stuck in elo hell for a good four years, then I entered elo purgatory for another five years, and now I'm apparently in elo heaven, but for some reason it still feels like elo hell. I guess that's just part and parcel of playing online competitive multiplayer games. While I'd never want to relive the pain of climbing from Bronze to GM, I am morbidly intrigued in whether I still have that fight in me. So I've found a happy medium, playing a strategy roguelike that provides players with "all the satisfaction of reaching rank 1, none of the toxic teammates or 40-minute hostage games". Richard Fulop Richard Fulop Richard Fulop In Escape from EloHell, you're set the task of collecting MMR as you climb the ladder from Iron 4 to Challenger, rank 1 in just 60 matches, before the season resets and you have to start again. The only way to gain MMR is to win matches, but unlike an ordinary competitive multiplayer, Escape from EloHell is a roguelike in which you have to gamble on your ability to win matches to gain effects which will help you in the long run. It was all going pretty well at first, I managed to report P1mple Guy which got me 14 MMR and I proved that I can indeed gank, and finally I 1v1'd a job application and actually got it, no points for realism though, that was far too easy. But I will give points for realism in that almost every time I was about to rank up I'd be hit with a curve ball that'd see my MMR fall a couple of spaces, now that's what it's like to try an
-
-### This Control-inspired action game set in a 'planet-scale alien mind' has one of the most stunning art styles I've seen this year
-Sun, 11 Oct 2026 14:09:18 +0000 — https://www.pcgamer.com/games/action/this-control-inspired-action-game-set-in-a-planet-scale-alien-mind-has-one-of-the-most-stunning-art-styles-ive-seen-this-year/
-
-In the age of near photorealism, it takes a lot for a game's visuals to impress me. As cramming yet more pixels into a videogame character's face provides diminishing returns, standing out from the crowd is increasingly about how creative developers get in applying that power. All that said, I was genuinely mesmerised by the debut footage of Etre , an upcoming action adventure game with a truly eye-popping art style. Created by LA-based developer Studio Lifeforms, Etre is a narrative driven-action game set on Orbis, which Studio Lifeforms describes as a "planet-scale alien mind on the brink of awakening". You play as a character named Xyle, who arrives at this sentient cityscape in search of his soulmate Atel. According to Studio Lifeforms, the game's distinctive visuals are inspired by graphic novels of the '70s and '80s. Studio Lifeforms doesn't specify which graphics novels, and I am too much of a comics philistine to tell you. But the result is an incredibly distinctive visual style. In terms of games, Etre's closest visual cousins are the likes of Rez and Tetris Effect . But Etre applies its aesthetics to a much more grounded type of game. From a mechanical perspective, Studio Lifeforms cites Remedy's Control as the primary influence, with the game letting you explore Orbis in a semi-open fashion, while the story will be shaped by your actions on Orbis. Like Control, Etre features a highly movement-based combat system. Also like Control, the enemies you fight are super w
-
-### 'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair
-Sun, 11 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/gaming-industry/im-the-type-of-player-who-loves-to-100-percent-a-game-sungwon-cho-on-achievement-hunting-why-he-doesnt-like-multiplayer-games-and-the-one-balatro-joker-that-nearly-drove-him-to-despair/
-
-Disk Cleanup (Image credit: Future) Welcome to Disk Cleanup , our regular weekend feature delving into the PCs of PC gaming luminaries. Come back every weekend to read a new interview, digging into the important questions, like "How tidy is your desktop?" and "What game will you never uninstall?" SungWon Cho got into PC gaming through the children's adventure games developed by Humongous Entertainment. "Games like Freddi Fish, Spy Fox, those really stuck with me," says the YouTuber and actor. "I remember playing those at a pretty young age and just being obsessed with the characters, the dialogue. I don't really play adventure games now, but I did then." Cho gained a following on YouTube through his viral comedy skits such as " a villain who unintentionally always does helpful things " and when you have a really good turn in a card game , building a channel that today has almost four million subscribers. Alongside producing his own videos, Cho has become a prominent voice in gaming and animation, with roles that include Ratatoskr in God of War: Ragnarok , Abby Saja in the Netflix movie KPop Demon Hunters, and most recently, the narrator in Paramount's Golden Axe animated series. He also appeared in 2023's riotous comedy-drama Blackberry , which charts the rise and fall of the Canadian mobile phone company. Cho stepped away from the mic to give me a guided tour of his Steam library, which he reserves specifically for games he wants to lock into: "If I know I'm going to be obse
-
-### The developer of an AI-powered driving instruction simulator is spending $1,000 per month just to keep its demo running
-Sun, 11 Oct 2026 12:31:04 +0000 — https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/
-
-One of the many ways AI will (supposedly) revolutionise the games industry in facilitating highly reactive NPCs via LLM-powered chatbots. Yet so far, only a handful of games like Where Winds Meet have attempted to implement the tech, and the results have been less than spectacular. But there might also be another reason why relatively few games feature LLM-powered NPCs, which is that powering such chatbots can be costly, as recently demonstrated by the developers of an upcoming driving instructor simulator As reported by FRVR (via Kotaku ) Teach My Little Sister How To Drive is a comic simulation game in which you coach your virtual sibling on driving technique from the comfort of the passenger seat. The twist is that behind your sister's dinner-plate eyes is an LLM chatbot (currently powered by an OpenAI model, though the developers intend to use Gemini for the final release) In the role of instructor, players can both converse with the chatbot and issue vocal instructions such as "turn left here", to which the bot will respond accordingly. At least, that's the theory. Developer Easy Fox released a demo for Teach My Little Sister How To Drive back in February, but in the past month the game has seen a surge in players, which has had an interesting knock-on effect for the demo. "The number of demo players has grown more than twentyfold," Easy Fox explained in a Steam post , adding. "This growth has also increased our operating costs considerably." Easy Fox goes on to explain 
-
-### Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years
-Sun, 11 Oct 2026 11:00:00 +0000 — https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/
-
-Play This Right Now Welcome to Play This Right Now, the site version of our weekly newsletter in which we celebrate a new game, update, or DLC that we think is well worth checking out. You can subscribe to the newsletter at the link if you want to get our thoughts about a new videogame happening direct to your inbox every Thursday. Deadlock isn't technically out yet—but it's pretty easy to get into, with invites to its beta being generously granted by Valve and obtainable in plenty of Discord communities if you don't have other mates who're into MOBA s. And boy howdy, have I not regretted a single one of my 350 hours over the past couple years "testing" this game. I've plenty of glowing words for Deadlock, but its latest update, City Never Sleeps, is like seeing one of the last few hammer-blows of a masterpiece. The entire map's been completely overhauled , with new neutral monsters and a richly-textured remake of its areas, though "remake" doesn't seem like the right word. Rather than taking what was present in the old map and scrapping it, the new Cursed Apple feels like a deepening of what was already there, adding texture and quirks in the nooks and crannies. The already-bustling centre lane of Broadway has become a glowing neon metropolis full of buzzing signs and advertisements, a miniature rendition of a 1950s times square at its heart. Greenwich, which was already overgrown with foliage, has been turned into a spooky occult rendition of Central Park, with a university
-
-### It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives
-Sun, 11 Oct 2026 10:31:02 +0000 — https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/
-
-Typical, isn't it? You wait ages for new information on a Chris Roberts-directed space combat sim, and then two lots come along at once. Less than 24 hours after Cloud Imperium Games surprise-released a glossy trailer for Star Citizen 's single-player spinoff Squadron 42, it now appears that Roberts' 1994 classic Wing Commander 3 is getting a remaster courtesy of EA. The project is headed up by EA producer Jim Vessella, who revealed the remaster during a presentation at the Portland Retro Gaming Expo . The remaster will include cutscenes based on Wing Commander 3's original FMV recordings, after Vessella discovered 600 source tapes while digitising EA's video archive. In a post on Bluesky, Steve Lin, a board member of the Video Game History Foundation , shared an image of Vessella's talk , which shows a projector slide detailing the remaster's features. The remaster is called Wing Commander 3: Heart of the Tiger—30 th anniversary edition. A slightly unfortunate name, given Wing Commander 3's was released 32 years ago. As for those features, the slide says the remaster will include both source and upscaled versions of the game's FMVs, and will include "Kilrathi Saga integration"—which presumably means it will bundle in Wing Commanders 1 & 2 and their various expansion packs. The remaster will also run at 60 FPS and—in additional details shared by Lin —will feature controller support and will be released on Steam, GOG, and the EA app. Re-release of Wing Commander III coming out
-
-### GTA 6 leaker threatens to upload a build with 'full story mode'
-Sat, 10 Oct 2026 23:32:29 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/
-
-Cyberleek has been uploading footage of Grand Theft Auto 6 since August, most recently a 25-minute video featuring co-protagonist Jason totally nude . Given that GTA 6's November 19 release is just over a month away, on console at least, it seems natural that interest in these kinds of leaks would wane. Cyberleek has found a new way of generating hype: promising to leak a build of the game if their memecoin's marketcap goes up another $26 million or so. "Here's the deal, nice and clean. CYBERLEEK hits 30 million marketcap, the build goes out – full story mode, played to the end, credits and all. Don't believe it has full story mode? Ask for what you want to see, and it gets provided. Take-Two gets one way out: physical disks and a public apology. They can take it at any moment. Or they can gamble that CL is bluffing. Everyone knows which one they'll pick." The other half of the deal suggests that publisher Take-Two Interactive could prevent this by releasing GTA 6 physically and apologizing, presumably for not releasing it on discs in the first place. Which will never happen, but does fit with Cyberleek's previous history of cosplay Robin Hood consumer rights complaints. We know that Cyberleek has access to a playable build since one of the previous leaks ended with the word LEEK being machinegunned into a wall to prove the point. But an early build of GTA 6 seems like the worst possible way to play it on PC, though after the Xbox streaming thing turned out to be a bust , may
-
-### Squadron 42 has a Steam page
-Sat, 10 Oct 2026 22:25:54 +0000 — https://www.pcgamer.com/games/fps/squadron-42-has-a-steam-page/
-
-In August, game director Chris Roberts said that Star Citizen's singleplayer component, Squadron 42, was being delayed out of 2026 to avoid clashing with Grand Theft Auto 6 . There was a certain amount of skepticism about the reason for the delay, thanks in part to a recent Star Citizen livestream being declared a disaster , but also because, well. These games have had so many release dates the changes have their own wiki page . There's something concrete about having Squadron 42 getting a Steam page though, with system requirements and everything. Those system requirements are charmingly old-fashioned, with no mention of ray tracing-capable GPUs or DirectX 12. Although the install size of 150GB is still pretty hefty. ( Final Fantasy 7 Revelation is apparently going to be 200GB , oof.) There's also a new trailer, which leans heavily on the oorah stuff that's always a bit of a turn-off in military science-fiction. Privateer was my favorite Wing Commander game because it left out all the Top Gun nonsense, but of course it's front-and-center in Squadron 42. So too are the celebrity actors, with appearances by Mark Hamill, Gary Oldman, Rhona Mitra, that guy who played the Onion Knight in Game of Thrones, and other people who probably filmed most of their scenes a solid decade ago now. We also get to see a fair bit of the male version of the player-character, who will doubtless BroShep his way into most of the promos even though I'll be picking the one voiced by Alix Wilton Regan 
-
-### Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard
-Sat, 10 Oct 2026 16:55:26 +0000 — https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/
-
-Valve's latest MOBA might still technically be conducting an invite-only test, but it's nevertheless one of the most popular games of its ilk. Yesterday, right as the game added the latest in its current batch of six new democratically released heroes , its concurrent player-count hit a new screaming high: 262,145 simultaneous players, according to SteamDB . While that's pretty impressive on its face, it'll be especially noteworthy to long-time fans of Valve's games that this surge of activity brought Deadlock past Team Fortress 2's all-time concurrent player count peak of 253,997. Though this doesn't include the player numbers TF2 saw on the Xbox 360 and PS3 as part of The Orange Box, which I'm sure were positively through the roof, it's still conceivably its genuine peak given that it was just three years ago. As for how TF2's history of botting issues and idle servers might have affected that number, I can't say. It's not a one-to-one—PC gaming was a smaller phenomenon overall when TF2 was at the height of its popularity, and its Quake-descended slapstick arguably appeals to a smaller crowd than a hero shooter-MOBA hybrid does today—but it's an impressive showing for Deadlock given that the MOBA space is notoriously hard to break into. I guess that's the power of having a digital storefront so massive that you can afford to perform mad science experiments on a game for multiple years without making a single cent off of it directly. Not that things always go this way for Va
-
 ## GameSpot
 
-### Marvel Darkhold Destiny Is Magic: The Gathering’s First Universes Beyond Set Of 2027
-Sat, 10 Oct 2026 00:30:00 +0000 — https://www.gamespot.com/articles/marvel-darkhold-destiny-is-magic-the-gatherings-first-universes-beyond-set-of-2027/
+### The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe
+Mon, 12 Oct 2026 11:57:55 +0000 — https://www.gamespot.com/articles/the-new-squadron-42-trailer-looks-great-but-that-2027-release-date-is-hard-to-believe/
 
-Today at New York Comic Con, Wizards of the Coast announced the first 2027 Universes Beyond expansion set for Magic: The Gathering. Marvel’s Darkhold Destiny will pit Doctor Strange, Thor, Ghost Rider, and more against cosmic villains like Hela and Dormammu in 2027. The set will include normal and Collector booster packs, and four pre-constructed commander decks themed around Marvel heroes and villains, including the Midnight Sons. Multiple cards were shown during the hour-long panel, including Magic, who transforms into Darkchild, Gargantos, and the titular Darkhold. Darkhold Destiny tells an original story co-created by designers at Marvel and Wizards of the Coast. Along with that story, a brand-new character created for this set will be introduced in a Marvel Infinity comic series starting in February. Mechanics include Vengeance, an Adventure-like gameplay feature that lets you cast spells from your graveyard and return the permanent it's attached to back to the battlefield, and the return of the Arcane subtype for spells. Darkhold Destiny launches April 9 in big-box retailers and local game stores.
+Star Citizen 's single-player mode, Squadron 42, has made a reappearance with a new trailer showing off the mode's impressive cast and interstellar warfare. In development for 12 years, the ambitious mode blends outer space dogfighting and first-person action, set during an era when hostile alien forces have pushed humanity to the brink of defeat. As a rising star in the United Empire of Earth Navy, players must push back the invaders and save the day. The new trailer is the best look yet at the mode and the many, many actors who play various characters in the story mode. From Mark Hamill (who knows a thing or two about space combat) to Gary Oldman, the rest of the cast also includes Gillian Anderson, Ben Mendelsohn, Henry Cavill, Andy Serkis, John Rhys-Davies, Rhona Mitra, and more famous faces in the mix. For the player characters, Ian Duncan (Broken News) plays the male player character, while Alix Wilton Regan (the new face and voice of Tomb Raider games ) portrays the female player character. https://youtu.be/i4rVtLAenmk With development being led by Wing Commander creator Chris Roberts at Cloud Imperium Games, the trailer includes a healthy mix of cinematics and gameplay, showing off on-foot sections, life aboard the capital ship that players will be stationed on, minigames, and the space combat that fans of the genre have shown up for. There's no solid release date yet for the mode, but a Q2 2027 release window is listed instead, and you can wishlist it now on the CIG 
 
-### Let s All Be Happy This AAA Minesweeper Game Isn t Real
-Fri, 09 Oct 2026 23:23:44 +0000 — https://www.gamespot.com/articles/lets-all-be-happy-this-aaa-minesweeper-game-isnt-real/
+### Haunted Chocolatier Is For The People In Stardew Valley That Go Into The Mines
+Mon, 12 Oct 2026 11:09:52 +0000 — https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/
 
-Minesweeper has been around for decades and it's probably overdue for some modern flourishes. Now there's a Triple-A Minesweeper parody that offers a hilarious look at what a Minesweeper update might look like. The Triple-A Minesweeper was created by writer and programmer Mike Lacher, and it's fully playable as a browser game on his site . Aside from the intentionally pretentious title cards touting the involvement of Unreal Engine, Nvidia, Bink Video, and Wwise, Triple A Minesweeper looks and plays almost exactly like the regular Minesweeper. However, the best way to enjoy this parody is by simply not doing anything at all. The main character, "Sweeper," will sit around and repeat things like, "I gotta sweep these mines," while receiving calls from newly created characters in the game. Lacher seems to have taken his inspiration from Grand Theft Auto 5, Metal Gear Solid, and even Cyberpunk 2077. Among the callers are Nora, a potential love interest for Sweeper. Additionally, an underworld figure called The Don repeatedly calls for Sweeper to head down to his club while hinting at the latter's sinister past in Singapore. Meanwhile, the chipper DJ Dan celebrates Sweeper's efforts on behalf of New Dawn City. In another amusing touch, Sweeper never acknowledges any of the other characters and keeps repeating the same lines over and over. It is possible to complete the game, which triggers a twist ending that probably wasn't that difficult to predict. Although Lacher leaves the pa
-
-### Call Of Duty: MW4 Early Access Also Includes DMZ, Here s How To Get In
-Fri, 09 Oct 2026 19:17:24 +0000 — https://www.gamespot.com/articles/call-of-duty-mw4-early-access-also-includes-dmz-heres-how-to-get-in/
-
-Call of Duty: Modern Warfare 4's campaign is playable a week early for people who preorder, and now we know the DMZ mode will be as well. Activision has announced that MW4's extraction-based DMZ mode will be playable starting Tuesday, October 20, which is three days before the game launches. Campaign early access, meanwhile, starts on October 16. How to get in To access DMZ mode before everyone else, you need to preorder any edition of MW4, including the standard or Vault versions. The perk applies to all platforms: PS5, Xbox Series X|S, Switch 2, and PC. What is DMZ? Described as the "definitive extraction shooter experience," DMZ in MW4 is an open-world game mode featuring other human players and AI combatants. Players will search the map for loot, craft gear, and complete objectives. Like in other extraction-based games, you need to reach the exfil point to make it out with all your rewards. https://www.youtube.com/watch?v=SV5vKAAkQkQ DMZ originally debuted with 2022's MW3 as a free-to-play beta inside Warzone, but this version left a lot to be desired. The new version of DMZ for MW4 seems like a big step up , and it includes a new social space this time as well. For lots more, be sure to read up on GameSpot's previous coverage of the new version of DMZ .
-
-### Gears Of War: E-Day How s It Selling? Let s Unpack Things
-Fri, 09 Oct 2026 18:41:40 +0000 — https://www.gamespot.com/articles/gears-of-war-e-day-hows-it-selling-lets-unpack-things/
-
-Microsoft's latest console exclusive, Gears of War: E-Day , launched this week, and now we've gotten the first glimpse at how the game is performing commercially. Multiple analysts have weighed in, and there are numerous factors at play beyond pure sales, due to Game Pass and other factors. So let's break things down. Rhys Elliott of Alinea Analytics released a report that said the game has sold about 230,000 copies so far, with Steam sales accounting for 168,000 and Xbox (across console and PC) making up the other 62,000. https://www.youtube.com/watch?v=teClq4qYyzQ Straight sales do not tell the whole story, though, because E-Day is available on Game Pass, which Elliott said "cannibalized" the majority of sales. He said Alinea's data showed than 1.7 million people acquired E-Day through their Game Pass subscription as opposed to buying a copy outright. There is more nuance there, too, as Elliott said that 722,000 of the 1.7 million people who played E-Day through Game Pass bought the $30 Premium upgrade, which got them in early and awarded them with extra content. "So despite selling far fewer copies on Steam, Xbox accounts for almost three-quarters of the revenue (roughly $26 million of the $37 million, versus about $11 million on Steam). So '230,000 copies' undersells the paying audience. Including the 722,000 upgrades, nearly 950,000 people actually paid something for E-Day." Elliott concluded that these are "soft numbers" at a time "when Xbox badly needs revenue wins." I
+Haunted Chocolatier, the second game from Stardew Valley creator, Eric Barone, has been in development for more than five years, having been announced in October 2021. While there's no official word on the Haunted Chocolatier release date , Barone has been discussing the development of the game, including who it's for and more about the playstyle. In a recent interview with GQ , Barone said that Haunted Chocolatier is "more of an action RPG," although it is still what he'd call "a town game." "The main focus is more about adventuring, finding equipment and getting more powerful. There are monsters, there are boss fights. It's for the people in Stardew Valley that go into the mines," he explained. https://youtu.be/kJy7LF789lo Writing on the Haunted Chocolatier website , Barone regularly apologizes for the game "taking so long," but reassures fans that he's making good progress on the game. "I won't compromise on the quality of the game by rushing it or releasing it too early," he adds. Still, now that we have more information on what the game might entail, the wait feels like it will be worth it. According to GQ, Barone has "returned to isolation" to focus on finishing Haunted Chocolatier. "I really want to recapture that feeling that I had when I was making Stardew Valley," Barone said. "Everyone's watching me, and if I don't do things a certain way, it might disappoint millions of people." Haunted Chocolatier is also shaping up to be bigger, and creepier, than Stardew Valley
 
 ## Rock Paper Shotgun
+
+### Star Citizen singleplayer spinoff Squadron 42 gets a Steam page ahead of its 2027 launch, and this is how I've learned about 50 million famous actors are in it
+Mon, 12 Oct 2026 11:41:47 +0000 — https://www.rockpapershotgun.com/star-citizen-singleplayer-spinoff-squadron-42-gets-a-steam-page-ahead-of-its-2027-launch-and-this-is-how-ive-learned-about-50-million-famous-actors-are-in-it
+
+Squadron 42 , the singleplayer spinoff that Star Citizen devs Cloud Imperium Games have been teasing and promising and roadmapping for a loooooooooooooooooonnnnnnnnngggg while, now has a Steam page. Yep, things are finally gearing up for its launch next year . Plus, there's a new trailer that emphsises for those out of the loop (me, basically), that pretty much every sci-fi celeb under the sun is set for a cameo. Read more
+
+### Explore the town of Detour in this new Fallout 4 mod chock full of voiced NPCs and quests
+Mon, 12 Oct 2026 09:32:08 +0000 — https://www.rockpapershotgun.com/explore-the-town-of-detour-in-this-new-fallout-4-mod-chock-full-of-voiced-npcs-and-quests
+
+A group of veteran Fallout 4 modders have just added a whole new town to its wasteland, offering another place to pop into for some trading and questing as you roam post-apocalyptic Boston. The place, dubbed Detour, looks set to act as a "new quest hub" that'll grow via new additions from its creators over time. Read more
 
 ### The Sunday Papers
 Sun, 11 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-831
@@ -368,9 +371,4 @@ Crimson Desert looks like a perfectly fine game. I've not played it, and I don't
 Sat, 10 Oct 2026 16:07:07 +0000 — https://www.rockpapershotgun.com/resident-evil-inspired-cannibal-dungeon-crawler-medium-rare-has-a-delightful-art-style-trick-up-its-sleeve-stock-photos
 
 I've spoken here before how the ultimate way to rope me into checking your game out is by having a nebulously designed Strong Vibe, a look that immediately sets it apart before I even know what any mechanics might be, and Medium Rare, a Resident Evil inspired dungeon crawler RPG about rescuing your wife from a human meat factory, has a deliciously nasty vibe. And its crunchy look has some inspired origins: stock photos. Read more
-
-### What are we all playing this weekend?
-Sat, 10 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-403
-
-The descent into autumn continues: this week I slept with an extra blanket on the bed. I'm not into swapping the duvet out for the winter tog yet, I'll be holding off on that until at least December, but the laying of the first blanket is a true marker of autumn's arrival. Read more
 

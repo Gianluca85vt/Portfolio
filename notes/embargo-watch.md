@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-11
+# Review radar — updated 2026-10-12
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,22 +20,22 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 2d | 2026-10-12 | €49.99 |
-| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 3d | 2026-10-13 | €29.99 |
+| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 1d | 2026-10-12 | €49.99 |
+| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 2d | 2026-10-13 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Stupid Never Dies | GPTRACK50 Inc. | 2026-10-21 | 10d | 2026-10-20 | €49.99 |
-| DEMONS' NIGHT FEVER | Arc System Works | 2026-10-21 | 10d | 2026-10-20 | €39.99 |
-| Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | 11d | 2026-10-21 | €69.99 |
-| FINAL FANTASY RESONANCE | Square Enix | 2026-10-22 | 11d | 2026-10-21 | €49.99 |
-| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 12d | 2026-10-22 | €29.99 |
+| Stupid Never Dies | GPTRACK50 Inc. | 2026-10-21 | 9d | 2026-10-20 | €49.99 |
+| DEMONS' NIGHT FEVER | Arc System Works | 2026-10-21 | 9d | 2026-10-20 | €39.99 |
+| Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | 10d | 2026-10-21 | €69.99 |
+| FINAL FANTASY RESONANCE | Square Enix | 2026-10-22 | 10d | 2026-10-21 | €49.99 |
+| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 11d | 2026-10-22 | €29.99 |
 
 ---
 
-*1250 upcoming titles scanned, 1169 with a firm date inside
+*1350 upcoming titles scanned, 1272 with a firm date inside
 14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
