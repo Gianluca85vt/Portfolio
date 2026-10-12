@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Consistency: Relax is described as branching on select mode, running the LoopTools algorithm for verts and edges and Blender's own Smooth for faces. One menu entry, two behaviours, is a thing to re-learn."
     - "Documentation: with the port staged across releases and blender.org, the tracker and the coverage each describing a different subset, nobody reading from outside can currently say which operator is native in which build."
-draft: true
 ---
 
 You have a ring of vertices that should be a circle. What you have is an
