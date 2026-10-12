@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-12T12:26:29.877Z
+# Film & TV — harvested 2026-10-12T21:51:59.556Z
 
 ## Variety
 
-### RTL Touts YouTube Partnership, With Cobra 11 Driving 26% Rise in Subscriptions and Opening New Revenue Streams
-Mon, 12 Oct 2026 12:21:24 +0000 — https://variety.com/2026/tv/global/rtl-touts-youtube-cobra-11-rise-subscriptions-1236908811/
+### Ex- SNL Star Ego Nwodim Shades Shane Gillis Controversial Monologue With Gym Photo: Whore Reporting for Duty
+Mon, 12 Oct 2026 21:50:02 +0000 — https://variety.com/2026/tv/news/shane-gillis-snl-monologue-ego-nwodim-women-gym-1236909525/
 
-Germany’s leading broadcaster RTL Deutschland unpacked its recent partnership with YouTube at Mipcom Cannes, revealing that its long-running action series Cobra 11 has thrived on the platform. On stage alongside Pedro Pina, YouTube’s VP for EMEA, Deutschland chief executive Stephan Schmitter said the broadcaster uploaded more than 200 full episodes of the series to YouTube [ ]
+Former Saturday Night Live star Ego Nwodim threw shade at host Shane Gillis controversial monologue about women working out with her own gym photo. Gillis hosted last Saturday s episode of SNL, and his monologue went viral for his jokes about women working out in scantily-clad outfits. I haven’t been to the gym in so long [ ]
 
-### Hammer Films Owner John Gore Studios Acquires Rights to The Woman in Black Author Susan Hill s Complete Works (EXCLUSIVE)
-Mon, 12 Oct 2026 12:00:00 +0000 — https://variety.com/2026/film/global/john-gore-studios-acquires-woman-in-black-author-works-1236907333/
+### Record and Song of the Year Grammy Predictions: With Ella Langley, Taylor Swift, the Two Olivias and Other Frontrunners in the Race, Expect a Nail-Biter
+Mon, 12 Oct 2026 21:13:07 +0000 — https://variety.com/2026/music/news/grammy-record-of-year-predictions-2027-ella-taylor-olivia-1236909331/
 
-British horror icon Hammer Films could be returning to the chilling world of one of its most successful movies. John Gore Studios, which owns Hammer (bought by theater mogul John Gore in late 2023) has acquired all rights to the works of Dame Susan Hill, who famously wrote the 1983 Gothic horror The Woman in [ ]
+Predicting the Record of the Year race for the 2027 Grammys is both super easy and super challenging depending on whether we re focused on narrowing down the thousands of first-ballot contenders to eight nominees, or whether we re jumping ahead to fixate on who the ultimate winner will be. It s the nominations we feel like we [ ]
 
-### Sense and Sensibility and Hamnet Breakout Bodhi Rae Breathnach Signs With UTA (EXCLUSIVE)
-Mon, 12 Oct 2026 11:41:11 +0000 — https://variety.com/2026/film/global/bodhi-rae-breathnach-signs-with-uta-1236908881/
+### Sean Diddy Combs Hospitalized After Suffering Head Injury in Prison
+Mon, 12 Oct 2026 20:47:47 +0000 — https://variety.com/2026/music/news/sean-diddy-combs-rushed-to-hospital-head-injury-prison-1236909473/
 
-Bodhi Rae Breathnach, the young Irish-English actress who made her feature film debut in Chloe Zhao s critically-acclaimed awards darling and box office hit Hamnet, has been signed by UTA for representation in the U.S. The signing comes just as the 15-year-old s latest film Sense and Sensibility prepares to opens in the U.S. The fresh take [ ]
+Sean Diddy Combs was taken from federal prison to the hospital on Saturday after suffering a reported head injury. The 56-year-old mogul, who is currently serving a 50-month sentence at Fort Dix in New Jersey, was apparently rushed to the hospital early on Saturday morning for a non-life-threatening injury, reports the Los Angeles Times. He [ ]
 
-### Tense Presidential Elections, a Focus on Domestic Audiences and Oscars Closer Than Ever: 10 Takeaways From the Rio Film Festival
-Mon, 12 Oct 2026 11:22:43 +0000 — https://variety.com/2026/film/global/oscars-elections-10-takeaways-2026-rio-film-festival-1236908438/
+### RJ Mitte, Breaking Bad Star, Dies at 34
+Mon, 12 Oct 2026 20:35:36 +0000 — https://variety.com/2026/tv/news/rj-mitte-dead-breaking-bad-1236909451/
 
-Hosting a film festival during historic presidential elections destined to shape an entire country’s future is a hefty ask, but this year’s Rio Film Festival managed to carefully and purposefully thread the lines between focusing on the cinema and the industry of today and not turning a blind eye to the issues of tomorrow. This [ ]
+RJ Mitte, who played Walter White Jr. on Breaking Bad, has died. He was 34. A representative for Mitte confirmed the news to Variety. A cause of death was not immediately disclosed. Mitte starred as the son of Bryan Cranston and Anna Gunn s characters on the Vince Gilligan drama, which is considered one of the [ ]
 
-### Piracy in the Crosshairs: Brazil to Launch Campaign Against IP Theft
-Mon, 12 Oct 2026 11:15:00 +0000 — https://variety.com/2026/digital/markets-festivals/brazil-piracy-anti-piracy-campaign-ip-theft-1236908334/
+### How Ink Production Designers Recreated The Sun Newsroom Using Functional Linotype Machines, Working Rotary Phones and Old Typewriters
+Mon, 12 Oct 2026 20:21:59 +0000 — https://variety.com/2026/artisans/news/ink-production-designers-the-sun-newsroom-1236909116/
 
-RIO DE JANEIRO, Brazil – Brazil s Audiovisual Industry and Commerce Federation (FICA) announced at the Rio Film Festival’s RioMarket the launch at the end of October of an anti-piracy awareness campaign in free-to-air and pay television, radio, out-of-home (OOH) advertising and movie theaters. Local media, telecom and exhibition groups are supporting the campaign by providing [ ]
+Danny Boyle’s latest film “Ink” traces the rise of Rupert Murdoch on London’s Fleet Street and the takeover of The Sun newspaper. The film premieres at the London Film Festival and will open in select theaters Dec. 11 before landing on Netflix on Jan. 8 in the U.S. and Latin America. “Ink” is based on [ ]
 
-### Pasto Cine Boards ‘Puan’ Helmer María Alché’s ‘I Love You and Today Everything Looks Beautiful’ (EXCLUSIVE)
-Mon, 12 Oct 2026 10:43:13 +0000 — https://variety.com/2026/film/global/maria-alche-i-love-you-and-today-everything-looks-beautiful-1236907568/
+### Katherine Mallen Kupferer, Audrey Grace Marshall, Dean Norris, Jordan Ladd Join ‘The Attentionist’ from Caroline Kepnes (EXCLUSIVE)
+Mon, 12 Oct 2026 20:19:37 +0000 — https://variety.com/2026/film/news/the-attentionist-cast-dean-norris-caroline-kepnes-1236909199/
 
-RIO DE JANEIRO, Brazil – Argentina’s Pasto Cine has boarded María Alché’s upcoming “I Love You and Today Everything Looks Beautiful.” The film is produced by leading Brazilian banner Bubbles Project alongside Spain’s Elastica Films, Germany’s Pandora Film, and France’s Maneki Films. “I Love You and Today Everything Looks Beautiful” is set between the 1950s [ ]
+Caroline Kepnes, author of the novel series You, which inspired the global Netflix hit, has assembled a team of buzzy actors for her series directorial debut. Katherine Mallen Kupferer, Audrey Grace Marshall, Dean Norris and Jordan Ladd will star in “The Attentionist,” a digital-first project that combines elements of a 90s family dramedy and a [ ]
 
-### Silver Express Review: Miki Tanaka s Sensitive Debut Feature Explores Asexual and Aromantic Identity
-Mon, 12 Oct 2026 10:39:48 +0000 — https://variety.com/2026/film/reviews/silver-express-review-1236908775/
+### ABC Alleges FCC s Attempts to Curb Its Free Speech Were Designed to Evade Judicial Review
+Mon, 12 Oct 2026 20:14:35 +0000 — https://variety.com/2026/tv/news/abc-fcc-free-speech-lawsuit-evade-judicial-review-1236909377/
 
-There are films and series with asexual characters in them, but far fewer interested in the experiential questions about moving through society as asexual and aromantic, and considering that identity on a spectrum. Miki Tanaka s debut feature Silver Express is one such film: a gentle character study observing the everyday annoyances of an asexual person [ ]
+ABC, in a new filing in its First Amendment lawsuit against the FCC, claims that the agency s early-license renewal demand for its local TV stations was done in such a way as to circumvent judicial review. On Aug. 18, ABC sued the FCC and chairman Brendan Carr, a Trump loyalist, alleging the commission was waging [ ]
 
-### Tsui Hark Pays Emotional Tribute to Nansun Shi, Discusses New Projects and Reflects on AI at Lumière Festival (EXCLUSIVE)
-Mon, 12 Oct 2026 10:26:57 +0000 — https://variety.com/2026/film/global/tsui-hark-nansun-shi-new-projects-ai-1236908837/
+### Ben Affleck Calls Justice League Reshoots the Low Point of My Career : It Was So Gross How the Studio Replaced Zack Snyder With Joss Whedon
+Mon, 12 Oct 2026 19:49:32 +0000 — https://variety.com/2026/film/news/ben-affleck-justice-league-reshoots-low-point-of-my-career-1236909138/
 
-LYON, France — Hong Kong filmmaker Tsui Hark paid an emotional tribute to Nansun Shi, his former wife and longtime producing partner, at the Lumière Film Festival on Sunday, saying he deeply missed the pioneering producer, who died in July. “I miss my partner, Nansun, who helped me on so many projects over so many [ ]
+Ben Affleck appeared on the latest episode of the Happy Sad Confused podcast and called the reshoots for Justice League the low point of my career. Warner Bros. infamously replaced director Zack Snyder with Joss Whedon to overhaul the movie after Snyder needed to pause work due to his daughter s death. Snyder estimated in a [ ]
 
-### Ella Rumpf, Júlio Andrade, Ana Flávia Cavalcanti to Star in Locarno Winner Andrea Staka’s ‘Ibicaba: O Paraíso Prometido’ for MyMama Entertainment (EXCLUSIVE)
-Mon, 12 Oct 2026 10:00:00 +0000 — https://variety.com/2026/film/global/ella-rumpf-julio-andrade-andrea-staka-ibicaba-paraiso-prometido-1236907877/
+### Grace Helbig Reveals Upcoming Surgery for Brain Tumors Three Years After Beating Breast Cancer
+Mon, 12 Oct 2026 19:26:01 +0000 — https://variety.com/2026/tv/news/grace-helbig-brain-tumors-cancer-1236909315/
 
-RIO DE JANEIRO, Brazil — Ella Rumpf (“Raw,” “Couture”), Júlio Andrade (“Under Pressure”) and Ana Flávia Cavalcanti (“Baby”) are set to star in Andrea Štaka’s “Ibicaba: O Paraíso Prometido.” The new film by the Golden Leopard-winning director will be produced under Brazil’s MyMama Entertainment banner in co-production with Switzerland’s Cinédokké Sagl and Brazil’s MMM Carioca. [ ]
+Grace Helbig is dealing with cancer for a second time. On Monday, the YouTuber and comedian posted a video on Instagram in which she shared that after going to the emergency room because of numbness in her legs, doctors found two tumors in her brain. She missed me. My cancer missed me. Why wouldn t she [ ]
 
-### Disney+ Taps Amazon Exec Philip Pratt to Oversee Germany, Switzerland and Austria Originals
-Mon, 12 Oct 2026 09:42:28 +0000 — https://variety.com/2026/tv/global/disney-philip-pratt-production-germany-switzerland-austria-1236908813/
+### TV Cooking Shows Get Spicy With Food Influencers in the Mix: ‘It Has to Hook You In’
+Mon, 12 Oct 2026 19:16:24 +0000 — https://variety.com/2026/tv/global/tv-cooking-shows-spicy-food-influencers-1236909335/
 
-Amazon MGM Studios exec Philip Pratt has jumped ship to Disney+ where he will oversee original production for Germany, Switzerland and Austria. Currently head of original productions at Amazon, he is set to join the Mouse House early next year as a VP, reporting to EMEA content boss Angela Jain. “As we grow our local [ ]
+Gordon Ramsay is on set in Ireland when we speak. It’s a hot, sunny day but he is surrounded by Christmas trees and elves as he’s shooting the “Next Level Baker” holiday special for Fox. It’s very festive, which seems appropriate as he’s recently uncorked the 25th season of “Hell’s Kitchen,” and earlier this year [ ]
 
 ## The Hollywood Reporter
 
-### YouTube Making Nice with Legacy TV
-Mon, 12 Oct 2026 12:18:38 +0000 — https://www.hollywoodreporter.com/tv/tv-news/youtube-on-working-with-legacy-tv-mipcom-1236727664/
+### Jessica Lange Calls Out FX for Being Too F***ing Cheap to Drive Actors Home From AHS Set
+Mon, 12 Oct 2026 21:45:37 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jessica-lange-fx-american-horror-story-cheap-rides-1236728092/
 
-The global video platform continues its charm offensive at TV market Mipcom, arguing it wants to be a partner, not predator of traditional TV.
+The 77-year-old legend quipped that a lack of rides for actors was "a bone of contention" — at least for season three.
 
-### Rebellion : Why the Bradford 12 Doc Is So Timely and Its Directors Want People to Know Your Problems Are Created by Elon Musk, Not Migrants
-Mon, 12 Oct 2026 11:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/rebellion-doc-film-interview-bradford-12-migrants-elon-musk-1236726971/
+### ”James Gray Films Are a Safe Investment,” Says ‘Paper Tiger’ Producer
+Mon, 12 Oct 2026 21:25:32 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-gray-films-safe-investment-paper-tiger-producer-1236728024/
 
-Ken Fero discusses the London-premiering story of young South Asian men who stood trial on terrorism charges for preparing to defend their community from a racist attack, co-directed with one of them.
+Rodrigo Teixeira and fellow producers behind 'Fjord,' 'Everybody Digs Bill Evans' and 'The End of It' swapped lessons at a BFI London Film Festival industry session held in association with The Hollywood Reporter.
 
-### Russell Brand Arrives at London Court for Start of Rape Trial
-Mon, 12 Oct 2026 09:34:10 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-london-court-rape-sexual-assault-trial-1236727652/
+### Why Is Anthony Vaccarello Really Leaving Saint Laurent?
+Mon, 12 Oct 2026 21:16:37 +0000 — https://www.hollywoodreporter.com/news/general-news/why-anthony-vaccarello-leaving-saint-laurent-1236728130/
 
-The former actor, comedian and presenter is accused of three counts of rape, three charges of sexual assault, and one allegation of indecent assault. He denies all charges.
+After a decade of dressing Hollywood's A List and driving billions in sales, the designer is heading for the exit. Behind the split: sinking revenue, $4,200 shoes, and a clash with the boss.
 
-### Sumo: Spirit Weighs Nothing Takes Us Inside Rituals and Sacrifice to Make the Normal Dudes of Japan s Ancient Sport Relatable (Exclusive Clip and Chat)
-Mon, 12 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sumo-spirit-weighs-nothing-doc-film-clip-lff-interview-1236727202/
+### Here s Where to Watch ALCS 2026: Cleveland Guardians vs. Tampa Bay Rays Live Online
+Mon, 12 Oct 2026 21:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-stream-alcs-2026-guardians-rays-mlb-live-online-free-1236728125/
 
-Erik Shirai shares how his immersive cinematic experience, now screening at the London Film Fest, aims to change misconceptions and show how humility is built into the Japanese understanding of strength.
+This year's American League Championship Series starts in Florida on Monday, Oct. 12.
 
-### Quentin Tarantino s West End Debut The Popinjay Cavalier Sets Launch Date at Phoenix Theatre
-Mon, 12 Oct 2026 08:24:19 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/quentin-tarantino-popinjay-cavalier-sacha-tickets-phoenix-1236727624/
+### R.J. Mitte, Walter White’s Son on ‘Breaking Bad,’ Dies at 34
+Mon, 12 Oct 2026 20:43:21 +0000 — https://www.hollywoodreporter.com/tv/tv-news/rj-mitte-dead-breaking-bad-walter-white-jr-1236728210/
 
-The play's lead star Sacha Baron Cohen said he is "beyond delighted" to be losing his "West End virginity" with the famed writer-director.
+The actor and disability rights advocate appeared on all five seasons of the acclaimed AMC drama, with his character based on a college friend of series creator Vince Gilligan.
 
-### What s Selling at MIPCOM: Spy Thrillers, Royal Romances and a Zulu Epic
-Mon, 12 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/whats-selling-mipcom-spy-thrillers-royal-romances-1236723470/
+### NBC Orders Extra Scripts for Rookie Drama Line of Fire
+Mon, 12 Oct 2026 20:00:47 +0000 — https://www.hollywoodreporter.com/tv/tv-news/line-of-fire-extra-scripts-nbc-1236728107/
 
-With vertical video, AI and YouTube upending the TV business, buyers heading to Cannes will find that everything old is suddenly new again.
+The series starring Peter Krause and Hope Davis has put up solid numbers to start the season.
 
-### Mirren Mack, CJ Beckford Hope to Find Themselves in Romantic Drama Arthur Clara : Exclusive Austin First-Look Images
-Mon, 12 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/austin-arthur-and-clara-film-images-mirren-mack-cj-beckford-1236726941/
+### Civics Made Easy Renewed for Season 2 by PBS (Exclusive)
+Mon, 12 Oct 2026 19:54:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news/civics-made-easy-renewed-season-2-pbs-ben-sheehan-1236727820/
 
-They play two young people who run away to the same farmhouse in the British countryside in screenwriter and director Kieran Bourne’s feature debut, the first feature from producer Candid Broads.
+And it premieres in two days.
 
-### Gaza Doc NAZA Surpasses $500K Without Distributor After Sparking Protests
-Mon, 12 Oct 2026 07:38:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/naza-gaza-documentary-idf-box-office-release-1236727567/
+### MLB Playoffs 2026: Where to Watch Los Angeles Dodgers vs. Milwaukee Brewers Series Live Online
+Mon, 12 Oct 2026 19:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-stream-nlcs-2026-dodgers-brewers-mlb-live-online-free-1236727999/
 
-The much-discussed feature, which won the special jury prize at Venice, expanded to 30 cities in its second weekend.
+Baseball fans have plenty of options to catch games during the NLCS — here's how.
 
-### John Oliver Says Last Week Tonight Is Never Gonna Change Following Skydance Acquisition
-Mon, 12 Oct 2026 05:07:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-oliver-last-week-tonight-skydance-acquisitoni-1236727487/
+### Diddy Briefly Hospitalized After Head Injury in Prison
+Mon, 12 Oct 2026 19:43:37 +0000 — https://www.hollywoodreporter.com/news/general-news/diddy-head-injury-prison-hospitalized-1236728100/
 
-“I’m thrilled to be part of the Skydance family! Hope you’re happy with what you bought, guys!" he said on Sunday's show.
+The rap mogul reportedly remained conscious and able to talk after leaving the New Jersey facility early Saturday.
 
-### Here s What Happened Inside the Weirdly Stealth 30 Rock Reunion
-Mon, 12 Oct 2026 04:59:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/30-rock-reunion-radio-city-what-happened-who-came-jokes-1236727478/
+### Shane Gillis SNL Monologue Was Wrong Place, Wrong Time (Again)
+Mon, 12 Oct 2026 19:31:47 +0000 — https://www.hollywoodreporter.com/tv/tv-features/shane-gillis-snl-monologue-controversy-women-whores-at-gym-1236727876/
 
-Liz, Jack, Tracy and the gang did everything Sunday night from pay tribute to Grizz to make Donaghy-esque jokes about Trump. Also, Lin-Manuel Miranda and Tracy sang "Werewolf Bar Mitzvah."
+And probably on purpose.
 
 ## Deadline
 
-### Gamer-Fuelled Vigilante Horror Non-Player Character Heads To AFM
-Mon, 12 Oct 2026 12:21:39 +0000 — https://deadline.com/2026/10/vigilante-horror-non-player-character-heads-to-afm-1237154677/
+### Rain Spencer Joins Maude Apatow And Mike Faist In ‘The Maid Of Orleans’ From Sarah Elizabeth Mintz
+Mon, 12 Oct 2026 21:45:54 +0000 — https://deadline.com/2026/10/rain-spencer-joins-maid-of-orleans-movie-cast-mike-faist-1237154918/
 
-EXCLUSIVE: Alliance Media Partners (AMP) has boarded world sales ahead of the American Film Market (AFM) on Non-Player Character, a vigilante horror which has just completed its post-production. Pic is directed by Nathan Tape, written by Tim Cairo and Nathan Tape, and stars Jared Bankens, Eddie Jemison and Madison Wolfe. The synopsis read: Hank Krinkle [ ]
+EXCLUSIVE: Rain Spencer (Good Girl Jane, The Summer I Turned Pretty, Big Girls Don’t Cry) has joined Maude Apatow (Poetic License, Euphoria) and Mike Faist (Steven Spielberg’s West Side Story, Challengers, East of Eden) in writer and director Sarah Elizabeth Mintz’s (Good Girl Jane) dramatic film The Maid of Orleans. Amira Casar (Call Me By [ ]
 
-### Robbie G.K. On Crave Comedy Meatballs : Big Swings Are Worth Taking
-Mon, 12 Oct 2026 12:13:15 +0000 — https://deadline.com/2026/10/robbie-gk-meatballs-big-swings-worth-taking-1237154672/
+### RJ Mitte Dies: Breaking Bad Actor Was 34
+Mon, 12 Oct 2026 20:29:34 +0000 — https://deadline.com/2026/10/rj-mitte-dead-breaking-bad-actor-1237155037/
 
-Heated Rivalry breakout Robbie G.K. is backing his upcoming comedy series Meatballs to deepen the recent love for Canadian content. In an interview today at MIPCOM Cannes alongside Meatballs co-star Maddie Phillips, G.K. praised the likes of streamer Crave for commissioning risk-taking programs. Speaking about Meatballs, a new version of the Bill Murray-starring camp comedy [ ]
+RJ Mitte, who played the son of Bryan Cranston s Walter White on the Emmy-winning series Breaking Bad and became a disability-rights activist from his experiences living with cerebral palsy, has died. He was 34. Mitte s reps confirmed the news Monday, saying he died in Brownsville, Texas. No immediate cause of death was given. It is [ ]
 
-### Ron Perlman s Watrfall Hands Audiences Control Of $275,000 Creator Fund
-Mon, 12 Oct 2026 11:30:00 +0000 — https://deadline.com/2026/10/watrfall-creator-fund-audience-control-ron-perlman-1237153903/
+### Garrett Hedlund, Jake Lacy Jessica Biel Going Downriver For Artists Equity Independent Pictures, Hungry Bull Productions
+Mon, 12 Oct 2026 20:00:00 +0000 — https://deadline.com/2026/10/garrett-hedlund-jake-lacy-jessica-biel-star-downriver-1237154926/
 
-EXCLUSIVE: Watrfall, the Ron Perlman-backed creator platform, is planning to put the power in the hands of audiences. The company, which we first told you about in August last year, has opened submissions on its first slate, which will be a $275,000 creator fund, with filmmakers and showrunners able to pitch their original content ideas [ ]
+EXCLUSIVE: Garrett Hedlund (Tulsa King), Jake Lacy (Furious), and Jessica Biel (Matchbox) have inked to star in Downriver, a new dramedy from Artists Equity Independent Pictures and Hungry Bull Productions. In Downriver, a recently divorced writer and his surgeon best friend head to Montana for a week of fly-fishing and martinis. Their friendship is put [ ]
 
-### Zee 5 Global Drops Sumo Didi Trailer Ahead Of Streaming Launch
-Mon, 12 Oct 2026 11:22:54 +0000 — https://deadline.com/2026/10/sumo-didi-trailer-zee-5-global-1237154666/
+### Selma Blair Taken To Hospital After Allegedly Biting Flight Attendant Trying To Open Plane Door
+Mon, 12 Oct 2026 19:41:31 +0000 — https://deadline.com/2026/10/selma-blair-flight-biting-open-plane-door-1237154982/
 
-EXCLUSIVE: Zee 5 Global has released the trailer for the streaming launch of Indian sports pic Sumo Didi. The Jio Studios, Fresh Lime Films and MA+TH Entertainment Networks film is billed as an inspiring sports biopic based on the extraordinary life of Hetal Dave, India’s first professional female sumo wrestler. Directed by Jayant Rohatgi and [ ]
+Selma Blair has had another incident aboard an airplane. TMZ reported the actress tried to open an airplane door mid-flight and subsequently punched one airline employee and bit another. The alleged incident took place on Sunday night aboard a Delta flight headed for JFK. New York Port Authority police responded to a call about a [ ]
 
-### Pedro Pina: YouTube Is Not Invested In Producing Content
-Mon, 12 Oct 2026 10:48:10 +0000 — https://deadline.com/2026/10/youtube-not-invested-in-producing-content-pedro-pina-1237154651/
+### Line Of Fire Gets Backup Script Order As Lisa Katz Talks NBC Fall Rollout, Newlyweds Exit, 2027 Pilot Season, Peacock Strategy Dungeon Crawler Carl
+Mon, 12 Oct 2026 19:15:02 +0000 — https://deadline.com/2026/10/nbc-peacock-scripted-strategy-liza-katz-interview-newlyweds-1237153816/
 
-YouTube is not invested in producing content. That was the message today from the platform s European chief Pedro Pina, as he continues his tour of the biggest TV events in the world convincing traditional TV gatekeepers that they should work with YouTube. Pina was speaking alongside RTL Deutschland CEO Stephan Schmitter, telling the audience that [ ]
+EXCLUSIVE: NBC s fall 2026 scripted lineup kicked off with the Sept. 21 series premiere of Line Of Fire, starring Peter Krause and Hope Davis. After a strong launch and week-to-week ratings gains, the drama about a family of federal law enforcement agents entangled in a mystery has become the first new 2026-27 broadcast series to [ ]
 
-### Luke Evans Says His New ITV Thriller The Party Reveals How The British Class System Still Dominates: The Idea Of Being Born With A Silver Spoon Is Alive And Well
-Mon, 12 Oct 2026 10:11:23 +0000 — https://deadline.com/2026/10/luke-evans-on-itv-the-party-british-class-system-1237154628/
+### Maddie Hasson Joins Julia Garner Lewis Pullman In Apple TV s Guilty Creatures
+Mon, 12 Oct 2026 19:00:00 +0000 — https://deadline.com/2026/10/maddie-hasson-julia-garner-guilty-creatures-apple-series-1237154342/
 
-Luke Evans has said his new ITV thriller The Party offers a glimpse into the British class system that remains particularly visible in the UK. Evans said the adaptation of the Elizabeth Day novel, which launched on ITV last night, shows how the class system remains more prevalent here than in almost any other country. [ ]
+EXCLUSIVE: Maddie Hasson (Bone Lake, The Recruit) is set as a series regular opposite Julia Garner in Apple TV s thriller drama Guilty Creatures, from director Craig Gillespie, showrunner Stuart Zicherman and Tomorrow Studios. In addition to Garner, Hasson joins previously announced Lewis Pullman. Adapted for the screen by Sarah DeLappe from Mikita Brottman‘s true-crime book [ ]
 
-### ‘FREEAgent:’ Streetwear Pioneer Jeff Staple Among First Guests On Season Two Of Kenny Annan-Jonathan’s Podcast
-Mon, 12 Oct 2026 09:49:05 +0000 — https://deadline.com/2026/10/freeagent-podcast-jeff-staple-kenny-annan-jonathan-1237154635/
+### Monarch Media To Produce First-Time Feature Scribe Jonathan Yu s Coming-Of-Age Dramedy Goldfish
+Mon, 12 Oct 2026 18:50:51 +0000 — https://deadline.com/2026/10/monarch-media-producing-goldfish-jonathan-yu-1237154943/
 
-EXCLUSIVE: FREEAgent, the podcast series hosted by creative entrepreneur Kenny Annan-Jonathan, returns today for its second season. In its first run, the pod became known for its high-profile guests, with names across fashion, business, and sports joining Annan-Jonathan to discuss their careers. Guests included Naomi Osaka’s longtime agent Stuart Duguid and veteran executive Rich Kleiman. [ ]
+EXCLUSIVE: In his first outing as screenwriter, Jonathan Yu is already on his way toward a produced script: Monarch Media has announced that it will be producing his coming-of-age feature dramedy, Goldfish. Goldfish centers on a 17-year-old high school senior who presents as detached, ironic and emotionally armored, but underneath is quietly paralyzed by fear [ ]
 
-### Gnome Alone Sequel Game Of Gnomes From The Nut Job Director Launching Ahead Of AFM
-Mon, 12 Oct 2026 09:38:51 +0000 — https://deadline.com/2026/10/gnome-alone-sequel-game-of-gnomes-launching-afm-1237154639/
+### Amber Siyavus Dies: Big Brother Season 8 Contestant Was 46
+Mon, 12 Oct 2026 18:39:13 +0000 — https://deadline.com/2026/10/amber-siyavus-dead-big-brother-season-8-contestant-1237154924/
 
-EXCLUSIVE: SC Films International has started production on Gnome Alone: Game of Gnomes, the sequel to its animated family movie from 2017. Peter Lepeniotis (The Nut Job) is returning to write and direct. SC Films is producing and will launch worldwide sales at the American Film Market next month. The film marks the first collaboration [ ]
+Amber Siyavus, who competed on Season 8 of Big Brother, has died, the Clark County medical examiner in Nevada confirmed to Deadline. She was 46. According to her death records, Siyavus died October 9 at a residence in Las Vegas. The cause and manner of death are pending. Longtime Big Brother host Julie Chen Moonves [ ]
 
-### Evan Shapiro Pegs Skydance Value At Only $29B As His Media Universe Map Updates
-Mon, 12 Oct 2026 09:20:00 +0000 — https://deadline.com/2026/10/skydance-value-29b-evan-shapiro-media-universe-map-1237148876/
+### Everything We Know About ‘Percy Jackson And The Olympians’ Season 3 So Far
+Mon, 12 Oct 2026 18:11:24 +0000 — https://deadline.com/feature/percy-jackson-and-the-olympians-season-3-news-updates-1236495797/
 
-EXCLUSIVE: The new-look Skydance is worth just $29B due to its huge debt pile, according to media analyst Evan Shapiro. The former NBC, Participant Media and IFC exec, who now maps the media landscape through his ESHAP business, said the valuation was down to both the $81B debt that Skydance assumed on day one of [ ]
+Another season of Disney s television series adaptation of Rick Riordan s Percy Jackson and the Olympians has come and gone, but Season 3 is close at hand. The series received a very early Season 3 renewal in March 2025, and key players have been cast for the third installment. The show is now also streaming on [ ]
 
-### Russell Brand Rape Trial Gets Underway In London
-Mon, 12 Oct 2026 08:48:32 +0000 — https://deadline.com/2026/10/russell-brand-rape-trial-underway-1237151175/
+### Catherine Laga aia Deacon Phillippe To Lead Disney+ Pilot Spaceship Earth
+Mon, 12 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/catherine-lagaaia-deacon-phillippe-spaceship-earth-disney-1237154902/
 
-Russell Brand s rape trial has officially commenced. Brand entered Southwark Crown Court on Monday wearing a gray suit, an open-neck white shirt, and a patterned cravat. He was accompanied by his wife, Laura, clasping her hand as he entered the building. Brand faces three charges of rape, three charges of sexual assault, and one charge [ ]
+EXCLUSIVE: Catherine Laga aia, star of Disney s live-action Moana, and Deacon Phillippe (Brother Save Us) are set to star in Spaceship Earth, the new Disney+ pilot inspired by the Disney World EPCOT attraction of the same name. Character details are being kept under wraps. The project, announced in August, hails from Jason Fuchs (IT: Welcome to [ ]
 
-### Disney+ Hires Amazon s Philip Pratt To Run Originals In Germany, Switzerland Austria
-Mon, 12 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/disney-hires-philip-pratt-german-originals-amazon-1237150897/
+### ‘VisionQuest’ Release Schedule: When Do New Episodes Arrive?
+Mon, 12 Oct 2026 17:28:52 +0000 — https://deadline.com/2026/10/visionquest-release-schedule-new-episodes-titles-rollout-1237154886/
 
-Philip Pratt, the former Amazon Germany originals boss who oversaw the likes of Maxton Hall, has moved over to Disney+. Pratt has taken on the VP, Original Production post in Germany, Switzerland and Austria and will join Disney in early 2027 to oversee commissioning in the region, based out of Munich. He is effectively replacing [ ]
+The third and final installment of the WandaVision universe, VisionQuest, will focus on Paul Bettany’s synthetic superhero. First introduced cinematically in Avengers: Age of Ultron (2015), Vision was created by placing J.A.R.V.I.S. (also voiced by Paul Bettany) into a Vibranium body that villain Ultron (James Spader) intended to inhabit, with the help of the Mind [ ]
 
-### Marina Hyde Begins Her Post-Guardian Era With Goalhanger-Backed Creator Venture Always On
-Mon, 12 Oct 2026 07:15:00 +0000 — https://deadline.com/2026/10/marina-hyde-always-on-creator-venture-goalhanger-1237150790/
+### Deadline Launches Its Contenders London Streaming Site
+Mon, 12 Oct 2026 17:15:00 +0000 — https://deadline.com/2026/10/deadline-contenders-london-2026-streaming-site-1237154748/
 
-EXCLUSIVE: Marina Hyde, whose sharp and incisive columns have called out many public figures in British and U.S. society, is going solo – and it looks like she ll be Always On. We can reveal the broadcaster, podcaster and writer, who contributed to HBO series The Franchise, is teaming up with Gary Lineker s Goalhanger to launch [ ]
+Deadline on Monday launched the streaming site for Contenders Film: London 2026, featuring all the panel conversations from our showcase of movies that are firing up the movie-awards season. The cast and creatives from 12 leading awards contenders appeared over the weekend at the in-person-only event, which unspooled at London’s Ham Yard Hotel. Discussions delved [ ]
 
 ## befores & afters
 
@@ -174,6 +174,41 @@ Mon, 12 Oct 2026 07:35:58 +0000 — https://beforesandafters.com/2026/10/12/crea
 Practical and digital effects combined. The post Creating the Spinosaurus for The End of Oak Street appeared first on befores & afters .
 
 ## IndieWire
+
+### A Day in the Life of Jo: Chapter Phaedra Review: A Cosmic and Magnificent Coming-of-Age Movie Defies Expectations at Every Turn
+Mon, 12 Oct 2026 19:50:38 +0000 — https://www.indiewire.com/criticism/movies/a-day-in-the-life-of-jo-chapter-phaedra-movie-review-1235221506/
+
+New York Film Festival: Jacqueline Lentzou’s slim but remarkable second feature reminds us that movies can be anything.
+
+### VisionQuest Review: Marvel s Tedious Bad-Dad Drama Series Ends a Shortsighted Era of MCU TV
+Mon, 12 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/visionquest-review-marvel-mcu-tv-ends-bad-1235221169/
+
+When his missing son reemerges, an AI-powered synthetic super-being (played by Paul Bettany) suffers an existential crisis in another Marvel series that, despite dedicating eight hours to identifying its Vision, struggles to justify its existence.
+
+### Being Heumann Trailer: Siân Heder’s ‘CODA’ Follow-Up Is a Rousing Biopic About a True American Hero
+Mon, 12 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/being-heumann-trailer-sian-heder-coda-follow-up-biopic-1235221409/
+
+The TIFF opener features Ruth Madeley in a star-making performance as the indelible disability rights activist Judy Heumann.
+
+### Sebastian Stan on Batman: Part II, the Political Message of Fjord, and Transforming Himself on Screen
+Mon, 12 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/sebastian-stan-fjord-politics-batman-part-ii-bald-1235221322/
+
+The once and future Avenger tells IndieWire about going bald to play a religious father battling the state in "Fjord."
+
+### Meet the Breakout Talents of the 2026 Fall Film Festivals
+Mon, 12 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/breakout-actors-actresses-2026-fall-film-festivals-1235221084/
+
+From Venice to Telluride, TIFF to NYFF, this year's fall season has introduced (and, in some cases, re introduced) us to some ferocious talents we cannot wait to see more of, and soon.
+
+### Other Mommy Scared Up $27.5 Million with Marketing Better Than the Movie. What Now?
+Mon, 12 Oct 2026 13:30:00 +0000 — https://www.indiewire.com/features/commentary/other-mommy-box-office-viral-marketing-blumhouse-1235221347/
+
+A viral trailer attached to Christopher Nolan’s "The Odyssey" turned Jessica Chastain into a popular horror meme months before Blumhouse’s latest film earned a D+ CinemaScore in theaters.
+
+### Why Seeing Digger in VistaVision Could Change Your Mind About the Tom Cruise Box Office Flop
+Mon, 12 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentary/digger-vistavision-1235221348/
+
+Like "One Battle After Another" and "Bugonia," Alejandro G. Iñárritu's latest provocation was shot in the format Alfred Hitchcock favored. If you're lucky enough to live in one of the five cities screening it in VistaVision, you owe it to yourself and "Digger" to experience it that way while you still can.
 
 ### Quentin Tarantino Teaming with Sacha Baron Cohen on West End Play The Popinjay Cavalier
 Mon, 12 Oct 2026 02:14:46 +0000 — https://www.indiewire.com/news/general-news/quentin-tarantino-sacha-baron-cohen-play-popinjay-cavalier-1235221351/
@@ -200,127 +235,107 @@ Sun, 11 Oct 2026 00:22:01 +0000 — https://www.indiewire.com/awards/results/the
 
 The rebranded Easterseals Disability Arts Culture Awards saw "The Pitt" and "Take Me Home" among the winners of its inaugural outing.
 
-### In a Violent Nature: Part 2 to Release Valentine s Day Weekend 2027
-Sat, 10 Oct 2026 23:30:00 +0000 — https://www.indiewire.com/news/general-news/in-a-violent-nature-part-2-release-date-1235221201/
-
-Shudder and Independent Film Company's slasher horror sequel opens opposite Greta Gerwig's "Narnia" movie.
-
-### Bill Burr vs. Facebook: Inside ‘The Social Reckoning’ Fantasy of the Comedian Speaking Truth to Power
-Sat, 10 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/features/podcast/bill-burr-the-social-reckoning-explained-1235221244/
-
-Mark Zuckerberg has shut out dissenting voices; Aaron Sorkin and Burr talk about building the fiction of letting the stand-up get under his (and Jeremy Strong's) skin.
-
-### Oscars: U.K. Selects Rehearsals for a Revolution, Documentary About Iran, as Best International Feature Entry
-Sat, 10 Oct 2026 14:30:39 +0000 — https://www.indiewire.com/awards/industry/rehearsals-for-a-revolution-iran-uk-best-international-oscar-1235221263/
-
-Pegah Ahangarani’s acclaimed look at her life in exile and her native country's political turmoil was already a leading contender for Best Documentary.
-
-### Ray Gunn Review: Brad Bird s Longtime Passion Project Is a Retro-Futurist Detective Story with a Muddled Message
-Sat, 10 Oct 2026 13:45:00 +0000 — https://www.indiewire.com/criticism/movies/ray-gunn-review-brad-bird-retro-detective-sam-rockwell-1235220330/
-
-The "Iron Giant" and "Incredibles" filmmaker and legendary animator has been kicking around his jetpack-powered noir-meets-"Blade Runner" feature for decades. The result is immersive, but too sprawling.
-
 ## The Wrap
 
-### Why Aaron Sorkin s The Social Reckoning Flatlined at the Box Office Analysis
-Mon, 12 Oct 2026 03:00:06 +0000 — https://www.thewrap.com/creative-content/movies/the-social-reckoning-box-office-bomb-explained/
+### RJ Mitte, Breaking Bad Star, Dies at 34
+Mon, 12 Oct 2026 20:41:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/rj-mitte-breaking-bad-dies-at-34/
 
-Sixteen years ago, at the height of Facebook’s dominance over the internet, Aaron Sorkin wrote a movie called “The Social Network” that became both a box office and a critical hit. Peter Travers called it “generation-defining” and sparked a debate. Its trailers were parodied on YouTube. It made $225 million at the box office and won Sorkin an Oscar for Best Adapted Screenplay. But his companion to that Obama-era classic, “The Social Reckoning,” was DOA this weekend. With a $5.5 million domestic opening, it has earned a quarter of the $22.6 million that “The Social Network” earned. Its trailers have gone largely ignored on TikTok and Instagram, the sites that have eclipsed Facebook in terms of youth relevance, and reception has been lukewarm at best, with a B- on CinemaScore and Rotten Tomatoes scores of 55% critics and 73% audience. The Social Reckoning marks the latest example of audiences rejecting a film that tackles tough issues that are already monopolizing real-life headlines. Just as last week s “Digger” is a punishing satire that focuses on the bleak potential future brought by climate change and art’s insufficiency to tackle it, “The Social Reckoning” focuses on the deleterious effects of social media on democracy and the psyches of teenagers, both issues that have been in the news as recently as this past month, when Facebook’s parent company Meta reached a $17 billion settlement in a multi-state lawsuit regarding social media addiction. In terms of financial misfir
+RJ Mitte, who notably starred as Walter White Jr. on the hit AMC drama Breaking Bad, died Monday at the age of 34, TheWrap has learned. Like his character on Breaking Bad, Mitte had cerebral palsy. He starred as Walt Jr. throughout the duration of the five-season crime drama from Vince Gilligan. No cause of death was immediately shared. “It is with profound sadness that we share the tragic passing of beloved actor, philanthropist and passionate disability rights advocate RJ Mitte, the actor s reps shared in a statement. Mitte appeared in a number of other television series, including a recurring role in Switched at Birth and a main role in The Guardians of Justice. His film credits include Standing Up for Sunny, The Oak Room and Triumph. On top of his acting career, Mitte dedicated his life to being a disability rights advocate and philanthropist. The actor was the president of The Mitte Foundation, which supports philanthropic efforts and community initiatives. He also served as an ambassador for United Cerebral Palsy and Shriners Children’s. Mitte had multiple ambassadorships, including as a Screen Actors Guild spokesman for actors with disabilities. In 2013, he won the SAG-AFTRA Harold Russell Award for his work as Walt Jr. (also known as Flynn). That award, named after the first actor with a disability to receive an Oscar, is given to a professional performer, writer, or other industry professional with a disability that has substantially contributed to the overall awaren
 
-### 7 Shows Like Lanterns to Binge-Watch While You Wait for Season 2
-Sun, 11 Oct 2026 23:33:26 +0000 — https://www.thewrap.com/creative-content/tv-shows/shows-like-lanterns/
+### What You Need to Watch Before VisionQuest
+Mon, 12 Oct 2026 20:32:37 +0000 — https://www.thewrap.com/creative-content/tv-shows/what-to-watch-before-visionquest/
 
-Do you miss Lanterns ? Because I miss Lanterns. The new show set in the DCU, following Hal Jordan (Kyle Chandler) and Green Lantern trainee John Stewart (Aaron Pierre) as they investigate a Nebraska-set mystery, was a massive hit for DC and HBO, gaining critical acclaim and huge viewership . The series took some big swings with its adaptation of the sci-fi property while still fully understanding what makes these characters so special (at least, according to this Green Lantern fan). But with no official word on a Season 2 and another year until we see John Stewart again , you might be looking for some new shows to scratch the Lanterns itch in the meantime. Here are seven shows like Lanterns to binge-watch while you wait. Fargo Season 5 (Credit: FX) Fargo In Lanterns, DC s iconic space cops become Earthbound detectives, investigating a mystery set in rural Nebraska. If you found yourself more drawn into the investigation than the superheroics and sci-fi lore, consider checking out Noah Hawley s Fargo. The series, spinning out of the Coen brothers masterful film of the same name, takes an anthological approach to telling a series of small-town crime stories. It s a great and engaging watch, one that could satisfy the mystery itch Lanterns left you with. If you were more drawn to the superhero elements of the show, it would also be worth checking out Hawley s work on Legion. In that show, Hawley approached the titular X-Men character from Marvel Comics in much the same way as La
+After a few years of delays, VisionQuest finally premieres on Disney+ this week. Of course, as is typical with Marvel projects, you ll have some homework if you want to understand everything that s going on in this series. VisionQuest stars Paul Bettany, James Spader, Ruaridh Mollica and more, completing the trilogy that began in 2021 with WandaVision. In this story, Vision (Bettany) is trying to figure out exactly what version of the Vision he is, as he parses through the memories restored to him by Hex Vision. Obviously, WandaVision is a must-watch for VisionQuest. But it s far from the only one. Here s everything you need to watch before VisionQuest. WandaVision recently got a 4K Blu-ray release (Marvel Studios) WandaVision The version of Vision that we see in VisionQuest is one that only comes into existence in the season finale of WandaVision. Additionally, Ruaridh Mollica plays Tommy, who fans first met as a child in WandaVision. The events of Marvel s first Disney+ series are key to the plot of VisionQuest, and without knowing them, you ll be as confused as Tommy is for the bulk of this series. Marvel Studios Agatha All Along VisionQuest is the third leg of a trilogy, after WandaVision and Agatha All Along. So, yes, you need both series. Agatha All Along is directly responsible for Tommy s existence in VisionQuest, and though the series does explain it in context, it s helpful to actually see how it all went down. Marvel Studios Avengers: Age of Ultron It s one of Marv
 
-### Céline Dion – and Celine – Dominate a Starry Paris Fashion Week
-Sun, 11 Oct 2026 23:08:47 +0000 — https://www.thewrap.com/culture-lifestyle/fashion/celine-dion-paris-fashion-week-spring-2027-wrapstyle/
+### ABC Says FCC Used License Renewals to Retaliate Against Disney, Evade Court Review
+Mon, 12 Oct 2026 20:32:07 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/disney-abc-fcc-license-reviews-court-filing/
 
-Celine — and Céline — dominated a particularly starry Spring 2027 Paris women’s fashion week, where Hollywood once again gave models a run for their money. Plus, belts, skirts, gray hair and the rest of the trends to know. And back in L.A., Huguette Caland: A Life in a Few Lines is a must-see, while LACMA and Erewhon make it official. A guest wearing a Céline Dion graphic T-shirt at Paris Fashion Week Oct. 3, 2026. Source: Getty In Paris, Stars Nearly Outshine the Show Two of the biggest obsessions at Paris Fashion Week were Céline and Celine. Michael Rider’s Spring 2027 collection for the French fashion house Celine was a blockbuster (more on that below). And Céline Dion’s blockbuster run of Paris concerts was an unofficial after-hours attraction. Editors, designers and other fashion people squeezed in performances between shows, making Dion concert tees a major street style statement. Celine Dion on the runway during the Le Défilé L Oréal Paris show Sept. 28, 2026. Source: Getty Dion herself joined the fashion week circus, briefly. At L’Oréal’s annual runway extravaganza beneath the Eiffel Tower, she made a surprise appearance in a black Schiaparelli gown to sing I’m Alive, which was broadcast live on giant screens for the public. Joining her on the runway were L’Oréal ambassadors Jane Fonda, Viola Davis, Kendall Jenner, Eva Longoria, Cara Delevingne and Andie MacDowell, setting the tone for a particularly star-studded week. Nicole Kidman and Faith Urban at the Chanel Sprin
+Disney and ABC accused the Federal Communications Commission on Monday of using an extraordinary review of the network s broadcast licenses to pressure the company over its editorial decisions, rather than pursuing less intrusive enforcement options. In a new federal court filing , Disney challenged the Trump administration s justification for ordering early license renewals for all eight ABC-owned television stations, years before their licenses were set to expire. At issue is whether the FCC is pursuing a legitimate regulatory investigation or retaliating against a broadcaster over programming that has drawn criticism from President Donald Trump. Disney s attorneys pointed to government attorneys acknowledgment during an Oct. 6 hearing that other enforcement tools were available, arguing that the agency s decision not to use them undermined its stated justification for the reviews. Defendants sought to inflict maximal coercive pressure on the media company whose speech the Administration sought to curb, while deliberately evading judicial review, Disney s attorneys wrote. The FCC has maintained that the reviews stem from an investigation into possible violations of federal anti-discrimination laws involving Disney s employment practices. Government attorneys have also argued that the district court lacks jurisdiction and that Disney has failed to demonstrate irreparable harm. Disney argued Monday that the agency could have pursued administrative subpoenas, monetary penaltie
 
-### Kelly Clarkson Toyshop Snafu: Owners Say Singer s Complaint Has Millions of Fans Harassing Them
-Sun, 11 Oct 2026 21:20:57 +0000 — https://www.thewrap.com/culture-lifestyle/culture/kelly-clarkson-toyshop-disrespect-art-of-play-response/
+### Selma Blair Hospitalized, Taken Into Custody After Violent Mid-Air Medical Emergency
+Mon, 12 Oct 2026 19:24:25 +0000 — https://www.thewrap.com/culture-lifestyle/culture/selma-blair-delta-flight-mid-air-medical-emergency/
 
-The details of Kelly Clarkson s Pretty Woman moment in a Brooklyn toyshop this weekend were thrown into question on Sunday when the owners of Art of Play responded to the Grammy winner s account of being disrespected by a staffer. While Clarkson said in an X post that a sales associate on Saturday looked at her as if I couldn’t afford to shop there and was told he could find something comparable for me, Art of Play said in an Instagram statement Sunday that she was interested in purchasing a one-of-a-kind, permanent wall fixture that was not for sale. Yesterday, Kelly Clarkson visited us in Brooklyn and inquired about buying Molly, a one-of-a-kind singing and dancing bird automaton who plays an important role in the magic shows we host here, the owners explained. Molly is permanently attached to the wall and isn’t for sale. The statement went on to detail the last 24 hours of millions of fans harassing them online in the aftermath of Clarkson s call-out: Imagine our surprise when our small local business was suddenly attacked by 8 million people who have never visited our store. It’s been a surreal experience to be the focus of such widespread outrage after just one mention by a celebrity. Thanks to all our friends for their support and welcome to all the curious folks who have discovered us amidst the drama, the statement concluded. We’re going to keep our heads down and hopefully, we can clear things up with Kelly someday. As a talented popular singer once said what doesn’t
+Selma Blair is being investigated by the FBI after she was taken into custody by the New York Port Authority Police Department late Sunday night due to allegedly injuring two flight attendants and attempting to open an aircraft door mid-flight. “Selma experienced a medical emergency that led to the alleged conduct. Upon landing, she received immediate medical attention and is currently in stable condition, her publicist told TheWrap on Monday. Her charges have not been made public just yet, with one of the flight attendants also reportedly hospitalized. “Delta has zero tolerance for unruly or unlawful behavior, as the safety of our customers and crew always comes first, a representative for the company added in another statement. The incident did not otherwise impact flight 938 from Los Angeles to New York City. “The FBI is responsible for investigating all assaults aboard aircraft,” a bureau spokesperson said in an additional statement. “Yesterday, we were informed by our partners at Port Authority Police Department of a potential assault aboard a flight that arrived into JFK. As per long-standing DOJ policy, we do not comment on ongoing investigations.” The actress, who was diagnosed with MS in 2018, was similarly removed from an international flight from Cancun in 2016 after causing a disturbance mid-air. “I made a big mistake yesterday. After a lovely trip with my son and his Dad, I mixed alcohol with medication, and that caused me to black out and led me to say and do th
 
-### Billy Crystal Says He Stopped Talking to God After Palisades Fire, Rob Reiner Murder: I Don t Trust Him
-Sun, 11 Oct 2026 20:40:17 +0000 — https://www.thewrap.com/culture-lifestyle/culture/billy-crystal-stopped-talking-to-god-palisades-fire-rob-reiner-murder-860/
+### VisionQuest Showrunner Reveals the Conversation He Had With Jac Schaeffer Before Taking Over the Show
+Mon, 12 Oct 2026 19:11:57 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-disney-plus-terry-matalas-interview-jac-schaeffer/
 
-Billy Crystal candidly shared in an interview Sunday that his year of loss between his Palisades home burning down in the Los Angeles wildfires and the December 2025 murder of his longtime friend and collaborator Rob Reiner changed his relationship with God. Whereas he detailed conversations with God in “700 Sundays, the Tony-winning one-man show from 2004 recounting the loss of his father when he was 15, Crystal admitted going into his new show “860” that his faith has taken a hit. No, ‘cause I — I don’t trust him, Crystal told CBS Sunday Morning correspondent Tracy Smith when asked if he still talks to God. Surprised, she responded asking if he was being serious. “Yeah. Too many bad things have happened, he said. The Earth is in bad shape, this is a weird, scary time. So no, not anymore.” The spotlight segment aired Sunday to promote his return to Broadway, but just like the show, it largely focused on how he has coped in the aftermath of such major losses. He explained that pushing through the darkest of times with humor is nothing new for him: That’s what I do. You have to, man. You’ve gotta. It’s a healer. It always has been that way. You know, we say when life gets tough, all you can do is laugh.” But he added that “860” in particular has helped him heal in the aftermath of the fires and the Reiners deaths, which he said 10 months later is still too big and insane to fully comprehend. I’ve been doing it. If I didn’t get to perform it, even, I’m OK. I’ve absorbed the big
+VisionQuest premieres on Disney+ this week, set to wrap up the trilogy that began with WandaVision and continued in Agatha All Along. And yes, showrunner Terry Matalas did have a conversation with those series showrunner Jac Schaeffer before he dug in. In 2022, VisionQuest was first announced , set to be led by Schaeffer, who created and served as showrunner for both WandaVision and Agatha All Along. Alas, as VisionQuest got delayed multiple times, the timing didn t work out for Schaeffer to do both it and Agatha All Along, so Matalas was tapped to step in . According to Matalas, Schaeffer was nothing but supportive, and made it clear he had full control. We had one conversation early on, just because I wanted to, first of all, pay my respects to I am such a huge fan of WandaVision. When it came out, I watched every episode twice, he told TheWrap. But she was very clear from the moment she s like, I don t want to have any creative conversations with you. Because, you know, she has been so close to these characters for so long, and I think was very generous in letting us have a blank canvas here. But basically, the conversation was just for me to tell her what a huge fan I was and how grateful I was to inherit this story, he shared. As the show premieres this week, Schaeffer is still credited as an executive producer on VisionQuest. The new series stars Paul Bettany, James Spader, Ruaridh Mollica and more, picking up with the new version of Vision introduced at the end of Wand
 
-### The 3 Best Movies to Watch on Prime Video This Week
-Sun, 11 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-movies-to-watch-on-prime-video-october-11-17/
+### ‘VisionQuest’ Review: Paul Bettany Is Electric in Marvel’s Silly but Worthy ‘WandaVision’ Saga Conclusion
+Mon, 12 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/reviews/visionquest-review-marvel/
 
-Now that the first of the month has passed, additions to streaming services start to slow down, and that s true of Prime Video as well. But, fortunately for you, there are still three films that are new to the streamer this week. It all begins with Love of Your Life, starring Margaret Qualley, Gabriel Basso and Aaron Pierre. After that, there s a new action flick from Stanley Tucci. Rounding things out is Scream 7, which first hit theaters in February. We ve got the details on all of them below. Here are the three best (and only) new movies on Prime Video this week. Margaret Qualley in Love of Your Life (Credit: Amazon MGM Studios) Love of Your Life Directed by Oscar-nominated Rachel Morrison (best known as the cinematographer behind Ryan Coogler s biggest films before she became a director), Love of Your Life is not a rom-com, and you certainly go in expecting it to be. If you do, you re going to get a very different movie than you re expecting. In reality, it s a romantic drama, that follows Maya, an ER nurse who unexpectedly meets the love of her life thanks to a certain social media marketplace. The two fall hard and fast, but unfortunately, life gets upended. Now, Maya must figure out how to move forward, and if it s possible to have more than one love of her life. Fair warning: this movie is emotional, so have comfort nearby. But it s also got some truly great performances from its three leads. Prime Video Masterplan Sometimes, you just need a new heist movie to fall in
+Eighteen years into the Marvel Cinematic Universe, “VisionQuest” feels like a lost artform. Something phased out by the pressures of an exhausted and evolving industry, and therefore an anomalous feat of superhero storytelling made infinitely more rich by the groundwork laid in front of it with careful intention, not commercial need. In the lead up to the new series, fronted by Paul Bettany’s all-knowing AI synth Vision, Disney+ billed it as the “final vision of the groundbreaking trilogy,” a reference to its predecessors in 2021’s wildly inventive “Wandavision” and 2024’s supremely kooky “Agatha All Along.” This is the endcap to a story started at the dawn of Disney+ and in the wake of “Avengers: Endgame,” and that’s why “VisionQuest” and its trilogy are such a miracle — it’s a long game Marvel rarely plays anymore. How did we get here, you ask? In “Wandavision,” the future Scarlet Witch (Elizabeth Olsen) handled her grief over losing Vision in the fight against Thanos by disappearing into the manageable monotony of her favorite TV sitcoms, creating from them a world in which she magically resurrects her synthetic partner and conjures up twins boys for them to play out the happy ending they never got. But inside her hex, she unknowingly trapped a witch named Agatha (Kathryn Hahn), who forced her to face the extent of her power. In “Agatha All Along,” said witch finds herself sauntering down the fabled Witches Road alongside a mismatched coven, but it s all just another magic
 
-### Musk Director Alex Gibney Says Universal Wavered on Global Rollout After Trillionaire s Legal Threats
-Sun, 11 Oct 2026 19:22:46 +0000 — https://www.thewrap.com/creative-content/movies/musk-director-alex-gibney-says-universal-wavered-on-global-rollout-after-trillionaires-legal-threats/
+### Amanda Seyfried Says She Rejected a Role Over Sex Scenes and Being Naked With a Stranger
+Mon, 12 Oct 2026 18:44:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/amanda-seyfried-sex-scenes-turned-down-tv-project/
 
-Musk international distributor wavered on the documentary s global rollout amid legal threats from trillionaire tech mogul Elon Musk, according to its director Alex Gibney. The Oscar-winning documentarian did not detail his internal discussions with Universal for his latest project, but indicated that the distributor s concerns went beyond just legal clearances. Speaking with the New York Times in an interview published Sunday , Gibney reflected on his four-hour examination of the world s richest man, now in select theaters via Bleecker Street, and confirmed when asked point-blank that Universal was stirred by Musk s formal legal notice in September. So it wasn’t about legal clearances? the Times Nicole Sperling asked. You can walk and chew gum at the same time, Gibney said, adding, We just had a meeting with them, and we’re talking very concretely about a release plan. Of their alleged hesitancy to move forward, Gibney said, Were they concerned that in this political environment, a film about the world’s richest man was problematic? Maybe, but you have to ask them. The filmmaker s account came one month after Universal recommitted to releasing Musk despite threats of legal action, saying in a statement Sept. 17 that plans have not changed after The Hollywood Reporter alleged that Universal was backing away from releasing the feature in markets outside of North America.” Asked for additional comment on the matter by the Times, Universal repeated the same statement from last m
+Amanda Seyfried s views on sex scenes onscreen have evolved in recent years, to the point where she even turned down a TV project for requiring too much intimacy and being naked with a stranger. The revelation came in a sit-down panel between the The Housemaid star and Alec Baldwin at the Hamptons International Film Festival earlier this month. She didn t share additional details of the project she turned down, but added that it doesn t matter who the scene would be with she doesn t want to do onscreen sex scenes at this stage of her career. “I passed on a show where I would have to have sex all the time because of the sex,” she said. “Doesn’t matter [who it’s with] … I don’t wanna do it. I’m uncomfortable with it. I’m not into it right now.” But just as her stance on sex scenes have changed over the years she s done quite revealing work previously in Chloe (2009), Lovelace (2013) and last year s The Testament of Ann Lee (2025), among others she kept the door open to revisit onscreen intimacy in future projects. “Maybe if [the project] came along again [at a later point], maybe I’d be in a different space, she admitted. But I don’t wanna deal with being naked with a stranger.” Seyfried, who s 40, further explained that acting gets weirder as she has gotten older and had to fake intimate relationships with her co-stars often essential strangers. We have to be romantic with people that we’re not romantic with. Sometimes it’s great. Sometimes it’s really uncomfortable, she said.
 
-### Artemis Fowl Lands Animated TV Adaptation at Disney
-Sun, 11 Oct 2026 18:45:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/artemis-fowl-animated-tv-adaptation-disney/
+### Catherine Laga’aia and Deacon Phillippe to Lead Spaceship Earth Pilot for Disney+
+Mon, 12 Oct 2026 18:30:48 +0000 — https://www.thewrap.com/creative-content/tv-shows/catherine-lagaaia-deacon-phillippe-cast-spaceship-earth-pilot-disney/
 
-Fantasy book series Artemis Fowl will get the TV adaptation treatment at Disney. The series from author Eoin Colfer will be adapted into an animated TV series on Disney Channel and Disney+, Colfer revealed during the “25 Years of Artemis Fowl” panel at New York Comic Con on Sunday. Centered on the titular 13-year-old genius, the action-adventure fantasy series follows Artemis Fowl as he discovers an underground world of armed, dangerous and surprisingly high-tech fairies. He hatches a plan to capture one and steal its magic to heal his dying mother and save his family, according to the official logline. Colfer will executive produce the series alongside Ben Juwono (“Marvel’s Moon Girl and Devil Dinosaur,” “Big Hero 6: The Series”) and Colleen Evanson (“Prep and Landing: The Snowball Protocol,” “DuckTales ). For more than two decades, Eoin Colfer s ‘Artemis Fowl’ books have captivated readers around the world with unforgettable characters, imaginative world-building and gripping adventures, Disney kids and family president Ayo Davis said in a statement. Bringing this beloved franchise to life as an animated series gives us the opportunity to introduce a new generation to Artemis world while honoring the longtime fans who have cherished these stories for years. “I am proud and delighted to be part of the formidable team that is putting the ‘Artemis Fowl’ animation on screen, Colfer said. Everyone is so talented and so positive that I feel certain the fairy world is in excellent
+Catherine Laga’aia and Deacon Phillippe will headline Disney+ s Spaceship Earth pilot. The project, inspired by the EPCOT attraction of the same name at Disney World, hails from writer, executive producer and showrunner Jason Fuchs, who writes alongside Michael Waldron. Lee Toland Krieger is also attached as a director and EP. The official logline is as follows: When a mission to avert an imminent global cataclysm goes awry, a small band of teenagers from Earth s past and future must join forces to confront a threat as vast and mysterious as time itself. Fuchs executive produces via Five Ten Productions while Waldron EPs through Anomaly Pictures alongside Adam Fasullo. Adam Fishbach also serves as an EP for Fishbach Productions. Laga’aia is best known for starring as Moana in Disney s 2026 live-action film of the same name, in which she starred opposite Dwayne Johnson. She previously starred in limited series The Lost Flowers of Alice Hart alongside Sigourney Weaver, Leah Purcell and Charlie Vickers, and can soon be seen in Nick Annas 2027 feature Crashout. Phillippe, the son of Reese Witherspoon and Ryan Phillippe, can be seen in Netflix’s “Never Have I Ever,” Prime Video’s “Motörheads” and more recently Jesse Behrenwald’s “Brother Save Us.” He s currently filming Netflix romcom Better Than the Movies, based on Lynn Painter’s YA novel and written and directed by Julia Hart, and will soon be seen in 4 Kids Walk Into a Bank, also starring Liam Neeson. Laga’aia is repped by CAA
 
-### The 3 Best New Movies to Watch on Hulu This Week
-Sun, 11 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-new-movies-on-hulu-this-week-october-11-17/
+### Ben Affleck Blasts High School Bullying of Digger, Says We Shouldn t Punish Movies That Take Risks
+Mon, 12 Oct 2026 18:19:55 +0000 — https://www.thewrap.com/creative-content/movies/happy-sad-confused-ben-affleck-defends-digger-box-office/
 
-It s a new week and that means a new round of picking what you want to watch each night. Over on Hulu this week, the options are getting a little scary, but also pretty fun. This week specifically, there are more shows than movies premiering, so our recommendations are going to pull just a touch from films that hit the streamer earlier this month. The good news is, there are so many options at the start of each month, it s entirely likely you haven t made it through all your best options just yet. So, allow us to help whittle it down. Here are the three best new movies on Hulu this week. Woody Harrelson and Jennifer Lawrence in The Hunger Games: Mockingjay (Credit: Lionsgate) The Hunger Games Franchise Realistically, this entire list could ve been picking our top three Hunger Games movies, as the whole franchise hits Hulu this week. But that s a hard decision to make, so instead, we re just bundling them into one entry. Obviously, if you ve never seen this franchise, you should start at the beginning with just The Hunger Games. It really is a trip to realize that that first film is turning 15 years old next year, and see just how young Jennifer Lawrence and Josh Hutcherson seem in it. It ll be especially fun to watch it and then work your way up to the most recent film in the franchise, The Ballad of Songbirds and Snakes, ahead of Sunrise on the Reaping hitting theaters this November. Now is the perfect time to start making your way through in order to be ready in time. Adam 
+Ben Affleck has made it clear he is not a fan of the high school bullying -type celebrations over Digger and its box office struggles , warning that moviegoers and critics should not punish movies that take risks. Affleck participated in a wide-ranging conversation about his career during his guest appearance on Monday s episode of the Happy Sad Confused podcast hosted by Josh Horowitz. At one point, the actor reflected on his decision to make his directorial debut with 2007 s Gone Baby Gone, revealing that part of his pitch for the film at the time was that it would not star him. It s one thing to be unknown. It s another thing to be like, No, we know who you are. We just don t like you,' Affleck said of the public perception of him in the mid-2000s as a movie star. He said that perception of him began to slowly change with Gone Baby Gone. Even the reviews for that movie were, like, I remember one that was like, Well, now I know what my hat tastes like,' Affleck remembered, adding, It wasn t even a rave. It was just like, Fine, this isn t the worst piece of s—t you ve ever seen.' It s a little bit like the high school bullying thing, Affleck continued. You see it happening now, frankly, with Digger. Everybody wants to celebrate this bomb as if it s the most exciting thing that happened and you think like, This is a pretty ambitious, interesting movie made by interesting people that have talent.' You can check out Affleck s full Happy Sad Confused interview below. Digger, dir
 
-### NAZA Crosses $500,000 at Indie Box Office Without a Distributor
-Sun, 11 Oct 2026 17:53:30 +0000 — https://www.thewrap.com/creative-content/movies/naza-box-office-us-canada-expansion/
+### Taye Diggs Taps Miranda Bailey, Ben Ramsey and More for Microseries Platform Slate Exclusive
+Mon, 12 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/taye-diggs-microhouse-films-microseries-fall-slate/
 
-With several acclaimed films in limited release at the indie box office, the one getting the most headlines is the documentary with no distributor at all: NAZA, the Guardian-produced investigative film that looks into the systems Israel has developed to kill tens of thousands of Palestinians in Gaza over the past three years. After premiering exclusively at the IFC Center in New York last weekend, NAZA has expanded to 85 theaters in 30 cities across the U.S. and Canada, grossing $298,240 for a per theater average of $3,508. The film s cume now stands at $504,074. This is without the marketing campaigns that would come with a theatrical distributor, as awareness of the doc has primarily come through promotion by the theaters screening the film and The Guardian, which produced the film through its documentary label, as well as word-of-mouth and press from the doc s premiere at the Venice Film Festival, where it received a 24-minute standing ovation and a special jury prize. This isn t the first time NAZA directors Yuval Abraham and Rachel Szor have gone the self-distribution route. In 2025, they did so with their Oscar-winning documentary No Other Land, which they made alongside Palestinian filmmakers Basel Adra and Hamdan Ballal. That project documented the destruction of the West Bank community Masafer Yatta by Israeli soldiers. In NAZA, Abraham interviews 24 members of the Israeli Defense Force (IDF) in secret on the rooftops of buildings in Tel Aviv. With their identities m
+Taye Diggs microseries platform Microhouse Films unveiled its fall slate with a second round of filmmakers and original series debuting this October, TheWrap has exclusively learned. Among the films debuting this fall is election thriller The Count from Ninety Degree Films. The project, which was executive produced by Vet Voice Foundation CEO Janessa Goldbeck and Eric Schmeltzer and directed by Gary and Edmund Entin, will premiere at Alza festival on Oct. 18. Reunion Island will also premiere at the inaugural vertical video festival. The psychological thriller from Microhouse and Lifetime marks the latest partnership between the digital and linear channels. “When we launched Microhouse Films, we promised filmmakers a home where they own how their stories reach audiences,” Diggs said. “These filmmakers are exactly the storytellers we built the platform for, and series like The Count show how far a vertical series can reach when the story meets the moment.” Founder of Cold Iron Pictures and The Film Arcade, Miranda Bailey ( Swiss Army Man, The Diary of a Teenage Girl ), will also join the company s filmmaker slate. She wrote and directed Another Happy Anniversary, which was based on her award-winning short film. When Tom and Jeanne want to be adventurous for their 10th anniversary and decide to have a threesome, things do not go quite to plan. Ben Ramsey, best known as the screenwriter of The Big Hit, produced an original animated sci-fi saga for the platform “Red Tail Mecha.” 
 
 ## Collider
 
-### Netflix's Epic New WWII Movie Officially Debuts a Harrowing Trailer
-Mon, 12 Oct 2026 12:12:40 GMT — https://collider.com/the-mosquito-bowl-trailer/
+### ‘Tracker’ Officially Sets Date for Jensen Ackles’ Return
+Mon, 12 Oct 2026 21:15:12 GMT — https://collider.com/tracker-jensen-ackles-russell-shaw-return-date-november-1/
 
-"Dad movie" genres collide in The Mosquito Bowl , a new movie about a fateful football game on the brink of one of America's deadliest World War II battles. The skirmishes of the gridiron serve as a relief from the horrors of war in the movie, which will premiere in theaters on October 30 before making its Netflix debut on November 25. Now, viewers can get a first look at the movie in a new trailer.
+Best known for his role in Supernatural , Jensen Ackles has quietly become one of TV’s biggest stars in the last 10 or so years. Back in the third season of The Boys , Ackles made his debut as Soldier Boy, and he went on hiatus during the fourth season before returning for a recurring role in Season 5. Ackles is far from done with his role as Soldier Boy, though — Prime Video has already confirmed that Ackles will return and star in the second spin-off, Vought Rising , which is confirmed to air on Prime Video sometime in 2027. Plot specifics about the show are being kept under wraps for now, but it’s turning back the clock to WWII, and it will be set in a time when Vought is rising to power with the help of young supes.
 
-### Pixar’s $1B Franchise Is Officially Crushing Streaming With Its 2026 Sequel
-Mon, 12 Oct 2026 12:00:11 GMT — https://collider.com/toy-story-5-streaming-hit-disney-plus-october-2026/
+### ‘Daredevil’ Star Officially Hints at New Defenders Series After Shock Cancellation [Exclusive]
+Mon, 12 Oct 2026 21:15:12 GMT — https://collider.com/daredevil-born-again-season-3-finn-jones-mcu-future-heroes-for-hire/
 
-The 2026 box office has been the most impressive since the COVID-19 pandemic, and the world worried that theaters were soon to become a thing of the past. Thankfully, it seems that the pandemic hangover has come to an end, with several major titles this year earning record-breaking revenue. Of course, the biggest of these has been Spider-Man: Brand New Day , which remarkably isn't even the biggest MCU project of the year.
+#SaveDaredevil has risen from the dead following the news that the fan-favorite Daredevil: Born Again would be ending with Season 3. While the MCU reboot of the critically acclaimed Netflix saga is not without its critics, the general consensus seems to be that Born Again is a worthy successor, successfully bringing New York's grittiest superhero back to the mainstream. Season 2 of the series not only ironed out some of the issues with Season 1, but it also brought back another Defender with Krysten Ritter 's Jessica Jones; Season 3 is set to be the show's biggest reunion yet.
 
-### Before ‘Bosch,’ CBS Cut Titus Welliver’s Brutal TV-MA Cop Show After 22 Episodes
-Mon, 12 Oct 2026 11:56:11 GMT — https://collider.com/titus-welliver-before-bosch-cop-show-brooklyn-south-series/
+### 6 Thriller Books That Are Perfectly Written
+Mon, 12 Oct 2026 21:08:12 GMT — https://collider.com/thriller-books-perfectly-written/
 
-Seven seasons of Bosch and three of Bosch: Legacy made Titus Welliver synonymous with Harry Bosch, and his return in Ballard extended that connection beyond his own shows. But his history of playing troubled lawmen reaches much further back. Before the detective became his signature role, Welliver starred in a gritty network cop series that lasted just 22 episodes, leaving an early showcase for his talent largely overlooked.
+There is a difference between a thriller that keeps you reading and one that changes how you read. The first kind uses pace and plot. Those are competent tools, and they work. On the flip side, the second kind does something harder. Basically, it makes you trust the wrong narrator, or root for the wrong person, or fall into such complete absorption that you look up and it's two in the morning and you genuinely cannot explain to yourself how you got there.
 
-### 10 Greatest Horror Movies That Still Terrify Us to This Day
-Mon, 12 Oct 2026 11:51:11 GMT — https://collider.com/greatest-horror-movies-still-terrify-us/
+### Jason Statham’s $1.5B Action Blockbuster Is Officially About to Disappear From Netflix
+Mon, 12 Oct 2026 21:00:12 GMT — https://collider.com/jason-statham-furious-7-removed-from-netflix-october-2026/
 
-Horror as a genre has found success in all different forms of art and storytelling, yet there is something so intoxicating and heart-pounding about horror filmmaking that has made it one of the premiere ways to experience the quintessential genre of the Halloween season. A truly great horror film can disturb and impact an audience better than any other genre, with levels of fear and tension that make the experience of witnessing their terrors all the more memorable and impactful .
+2026 has been something of a disappointing year for Jason Statham , who came into the year hot after a pair of hits in 2024 and 2025. Two years ago, Statham worked with director David Ayer on The Beekeeper , the smash-hit action thriller that grossed over $160 million at the global box office. The sequel to the film is coming to theaters in the first few weeks of 2027, but it will not be directed by David Ayer — Timo Tjahjanto has been tapped to direct The Beekeeper 2 after Ayer had to leave the project due to a scheduling conflict. Statham and Ayer also found moderate success with A Working Man in 2025, and after the film doubled its $40 million budget at the box office, it’s now been a streaming hit for a full year on Paramount Plus .
 
-### 10 Greatest Vampire Movies of the Last 50 Years, Ranked
-Mon, 12 Oct 2026 11:40:12 GMT — https://collider.com/best-vampire-movies-last-50-years-ranked/
+### 'Breaking Bad' Star Dead at 34
+Mon, 12 Oct 2026 20:55:52 GMT — https://collider.com/breaking-bad-star-rj-mitte-dead-34/
 
-Vampires have been a part of cinema from nearly the beginning, since at least the appropriately titled silent film The Vampire . Since then, they've been romanticized, clad in leather, waged war on werewolves, covered in sparkles and been used as an allegory for everything under the sun. Bloodsucking cinema represents a pretty healthy cross-section of genres, with the only prerequisite a decent set of fangs.
+RJ Mitte , best known for playing Walter White Jr. on AMC 's much-acclaimed series Breaking Bad , has died. News of his death was shared today in an official statement by his representatives, remembering the "beloved actor, philanthropist, and passionate disability rights advocate." He was 34. No immediate cause of death was given, and an investigation by law enforcement is ongoing in Brownsville, Texas.
 
-### The 15 Funniest Fantasy Movies, Ranked
-Mon, 12 Oct 2026 11:38:11 GMT — https://collider.com/funny-fantasy-movies-ranked/
+### The 7 Greatest Sci-Fi Movies That You Haven't Seen
+Mon, 12 Oct 2026 20:48:11 GMT — https://collider.com/best-sci-fi-movies-you-have-not-seen/
 
-Fantasy movies are generally supposed to offer a grand sense of adventure as they explore worlds completely different than our own, or a heavily altered version of Earth. Either way, the expectation is that they bring something never seen before to film, delivering stories about magic, monsters, alternate dimensions, or unexplained paranormal events to cinema.
+The science fiction genre has given the world of entertainment some of the greatest films of all time. From 2001: A Space Odyssey to the Star Wars franchise, sci-fi has kept delivering. With stories set in space, explorations of robots and artificial intelligence, and tales of time travel, the canvas has opened up worlds of possibility. But for every legendary sci-fi film, there's a great one you've likely never seen .
 
-### Every Wizard in Middle-earth, Ranked by Power
-Mon, 12 Oct 2026 11:31:11 GMT — https://collider.com/lord-of-the-rings-wizards-ranked-power/
+### 3 Elite Series to Binge on Netflix This Week (Oct 12-16)
+Mon, 12 Oct 2026 20:47:12 GMT — https://collider.com/netflix-shows-binge-october-12-2026/
 
-J. R. R. Tolkien 's legendarium has become one of the cornerstones of the modern fantasy genre. Drawing inspiration from ancient Greek, Norse, and Germanic mythology, and his Christian faith, he crafted the world of Arda and chronicled everything from its creation to the various conflicts between its inhabitants and the forces of evil, led originally by the Dark Lord Morgoth and later by his lieutenant Sauron. Though Tolkien was quite meticulous when it came to the history of his world, there was much about Arda that he purposefully left unanswered , which just helped to make it and the people within it feel all the more real.
+An adaptation of John Steinbeck 's celebrated 1952 family saga, East of Eden has been the series to beat on both the American and global Netflix charts for the past week. Florence Pugh 's lead performance has drawn much praise ahead of her appearances in Avengers: Doomsday and Dune: Part Three , and the series has dominated the Netflix charts since its arrival . That is, until this past weekend, when the new six-episode miniseries Below took the top spot. But these aren't the only shows you should be watching. To help you discover more, here's a look at three shows you should binge on Netflix this week .
 
-### ‘NCIS’ Officially Smashes a Major Viewership Record With a Surprise Return
-Mon, 12 Oct 2026 11:30:11 GMT — https://collider.com/ncis-streaming-success-tony-dinozzo-michael-weatherly-return-october-2026/
+### Ryan Coogler’s Acclaimed Horror Masterpiece Officially Becomes One of Netflix’s Biggest Hits
+Mon, 12 Oct 2026 20:30:11 GMT — https://collider.com/ryan-coogler-sinners-netflix-streaming-success-october-2026/
 
-When we talk about television shows that have defined generations, it is almost a crime for us to have such a conversation without giving a mention to NCIS . Impressively, for nearly 25 years , a quarter of a century, the law enforcement procedural has brought us several cases and plotlines which have stayed with us over the years. On Tuesday, October 6, the franchise, which remains a smash hit all these years later, returned with a number of premieres.
+Ryan Coogler has a career that would make most Hollywood directors a bit jealous. The writer-director has produced history-making movies at a very young age, ranging from Hollywood IP blockbusters to original ideas. He has directed the Creed franchise since the mid-2010s, before joining Marvel to direct the massive hit Black Panther and its sequel, Wakanda Forever . At this stage, many directors get comfortable and settle into what's familiar, but last year, Coogler did something different, and it worked.
 
-### 8 Fantasy Books With the Most Interesting Characters, Ranked
-Mon, 12 Oct 2026 11:20:11 GMT — https://collider.com/fantasy-books-interesting-characters/
+### 'Tracker' Season 4 Is Officially Missing the Mark With One Core Relationship
+Mon, 12 Oct 2026 20:24:13 GMT — https://collider.com/tracker-season-4-colter-shaw-mel-day-relationship/
 
-There's a myriad of factors that can make a fantasy book a masterpiece, whether that's hugely creative and intricate world-building, a tightly-paced plot, or—of course—some exceptional character writing. It's one thing for a fantasy book character to be cool or simply iconic, however, and a wholly different thing for that character to be interesting . We're talking about heroes, villains, and people in between who have deeply intriguing backstories and personalities, the kind readers would love to have a conversation with.
+Editor's Note: The following contains spoilers for Tracker Season 4, Episode 2.
 
-### 6 Best Detective Movies Released Since 2000, Ranked
-Mon, 12 Oct 2026 11:04:11 GMT — https://collider.com/best-detective-movies-since-2000-ranked/
+### 5 Horror Movie Scores That Are Just as Legendary as the Movies Themselves
+Mon, 12 Oct 2026 20:14:12 GMT — https://collider.com/horror-movie-scores-legendary-movies/
 
-Detective movies become really addictive when solving the case stops looking heroic and shows people actual scenarios and how unhinged the depths can be. The best investigators miss things. They become obsessed with the wrong detail. They bring the case home, ruin relationships over it, stare at evidence until it stops resembling evidence, and sometimes discover that finding the truth will not repair a single thing. Give me that over a genius announcing the answer in a drawing room every time.
+The horror movie score is one of the genre's most important elements, building an atmosphere that mirrors what's happening onscreen. When it's not done right , it takes the viewer out of the moment, standing out like a sore thumb and lessening the impact of what the film is trying to achieve, which is to scare the s**t out of you. When it is , it echoes, and enhances, the spirit of the film, like the distorted brass and rasping sounds that reflect the gradual decay of the family in Hereditary ; or the Gothic, eerie and decidedly unholy chant of "Ave Satani" in The Omen . But only the truly iconic horror movie scores manage to do the same while taking on a life of their own , entities that are as creepy and well-known out of context as they are with the iconic movies they come from. Here are the five that top the list:
 

@@ -1,72 +1,77 @@
-# Manga — harvested 2026-10-12T12:26:29.877Z
+# Manga — harvested 2026-10-12T21:51:59.556Z
 
 ## Anime News Network
 
-### Sonic Racing CrossWorlds Game Reveals Year 2 Roadmap; Sonic the Hedgehog: Memories and Beyond Short Film Reveals Debut Date
-Mon, 12 Oct 2026 06:10:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/sonic-racing-crossworlds-game-reveals-year-2-roadmap-sonic-the-hedgehog-memories-and-beyond-short-/.242689
+### Killing Bites Manga Publishes 1st Part of Final Chapter
+Mon, 12 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/killing-bites-manga-publishes-1st-part-of-final-chapter/.242755
 
-<cite>Sonic the Hedgehog: Memories and Beyond</cite> 35th anniversary short film's trailer reveals November 12 debut
+Kazasa Sumita, Shinya Murata debuted manga in March 2017
 
-### Tekken 8 Game Reveals Roger Jr.'s November 11 Early Access Release in Gameplay Trailer
-Mon, 12 Oct 2026 05:05:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/tekken-8-game-reveals-roger-jr.s-november-11-early-access-release-in-gameplay-trailer/.242737
+### Heavy Metal Band Lovebites Suspend Live Performances for 2027
+Mon, 12 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/heavy-metal-band-lovebites-suspend-live-performances-for-2027/.242754
 
-Video also previews Season 3 character Yūjirō Hanma
+Band will continue to work on new music, projects during that year
 
-### 5th Girls und Panzer das Finale Film Streams 10-Minute Opening Video
-Mon, 12 Oct 2026 04:47:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/5th-girls-und-panzer-das-finale-film-streams-10-minute-opening-video/.242735
+### Osamu Tezuka's Phoenix Manga's Future Arc Gets Stage Play in February
+Mon, 12 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/osamu-tezuka-phoenix-manga-future-arc-gets-stage-play-in-february/.242752
 
-Film opened in Japan on Friday
+<cite>Hi no Tori Mirai-hen ZEROMDISTANCE</cite> opens in Tokyo from February 6-8
 
-### Marvel Tōkon: Fighting Souls Game Reveals Full Roster for Year 1 DLC
-Mon, 12 Oct 2026 03:54:45 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/marvel-tokon-fighting-souls-game-reveals-full-roster-for-year-1-dlc/.242733
+### Texas' Kawacon Anime, Gaming Convention Ends After 5 Years
+Mon, 12 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/texas-kawacon-anime-gaming-convention-ends-after-5-years/.242746
 
-DLC includes Thor (Jane Foster), Venom, Jubilee, previously announced Phoenix Cyclops
+Last Kawacon took place on July 3-5 at Henry B. Gonzalez Convention Center in San Antonio, TX
 
-### Fatal Fury City of the Wolves Game Streams Trailer for Tekken 8 DLC Character Reina Joining Game in December
-Mon, 12 Oct 2026 03:00:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/fatal-fury-city-of-the-wolves-game-streams-trailer-for-tekken-8-dlc-character-reina-joining-game-in-/.242720
+### 'Killed Again, Mr. Detective?' Manga's Inaba Launches New Manga
+Mon, 12 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/killed-again-mr-detective-manga-inaba-launches-new-manga/.242738
 
-SNK also streams trailers for <cite>Tokyo Revengers</cite> DLC characters Mikey, Draken joining on October 22
+<cite>Nukedashi</cite> romantic comedy manga launches on October 26
 
-### Inori's Homunculus Tears Yuri Novel Gets Manga by Ayster, Dokico
-Mon, 12 Oct 2026 02:48:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/inori-homunculus-tears-yuri-novel-gets-manga-by-ayster-dokico/.242724
+### Erica Sakurazawa Launches New Manga on November 6
+Mon, 12 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/erica-sakurazawa-launches-new-manga-on-november-6/.242740
 
-Manga gets simultaneous release in German, English, Japanese in January 2027
+Sakurazawa to launch <cite>Watashi no Manga (Mayoi) Michi</cite> manga featuring behind-the-scenes essays from "that era"
 
-### Live-Action Renai Rubi no Tadashii Furikata Season 2 Reveals More Cast, October 29 Debut
-Mon, 12 Oct 2026 02:01:16 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/live-action-renai-rubi-no-tadashii-furikata-season-2-reveals-more-cast-october-29-debut/.242725
+### Dramatic Road: the origin of wind Game Review
+Mon, 12 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/dramatic-road/the-origin-of-wind/.242230
 
-Rina Komiyama, Takumi Bandō, Tamami Sakaguchi join cast
+<cite>Dramatic Road</cite> isn't just a modern-day <cite>Fire Emblem</cite>. It's specifically a high school delinquent saga inspired by classics like <cite>Bari Bari Densetsu</cite>.
 
-### The Apothecary Diaries: The Late Lady's Treasure Film's New Video Reveals Bi Clan's Cast
-Sun, 11 Oct 2026 23:44:01 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/the-apothecary-diaries-the-late-lady-treasure-film-new-video-reveals-bi-clan-cast/.242730
+### Blue Thermal's Kana Ozawa Announces New Manga
+Mon, 12 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/blue-thermal-kana-ozawa-announces-new-manga/.242718
 
-Nobuo Tobita, Kumiko Watanabe, Hirofumi Nojima join cast
+Ozawa to launch new manga <cite>Ao Sansan</cite> in December
 
-### Kino's Journey Light Novel Duo Launch New Supernatural Novel Series
-Sun, 11 Oct 2026 20:30:52 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/kino-journey-light-novel-duo-launch-new-supernatural-novel-series/.242715
+### Japan's Video Game Rankings, September 28-October 4
+Mon, 12 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/japan-video-game-rankings-september-28-october-4/.242721
 
-Writer Keiichi Sigsawa, illustrator Kouhaku Kuroboshi to launch <cite>Drifted ~John Smith no Edo Hyōryū Kitan~</cite> on November 10
+<cite>Ace Combat 8: Wings of Theve</cite> debuts at #1
 
-### Pokémon Horizons: Season 3 - Rising Hope Part 4 Anime Series Review
-Sun, 11 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/pokemon-horizons/season-3-rising-hope-part-4/anime-series/.242251
+### Spy×Family, Jujutsu Kaisen, Witch Hat Atelier Manga Rank on NYT October Bestseller List
+Mon, 12 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-12/spy-family-jujutsu-kaisen-witch-hat-atelier-manga-rank-on-nyt-october-bestseller-list/.242722
 
-What makes this final batch of episodes so strong is that almost everybody gets a moment to shine or a moment of introspection.
+The 16th volume of Tatsuya Endo's Spy x Family manga ranked at #6 on The New York Times' monthly Graphic Books and Manga bestseller list released in early...
 
-### Godzilla Minus Zero Film Streams Final Trailer
-Sun, 11 Oct 2026 07:55:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/godzilla-minus-zero-film-streams-final-trailer/.242719
+### Part of Her World: Anime and Manga Visions of The Little Mermaid
+Mon, 12 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-12/part-of-her-world-anime-and-manga-visions-of-the-little-mermaid/.241812
 
-Sequel to <cite>Godzilla Minus One</cite> opens in Japan on November 3, N. America on November 6
+Rebecca swims through anime and manga history to reach the depths of its mermaid fascination.
 
-### Noa Is My Senior, and My Friend TV Anime Unveils Main Cast, 2027 Debut
-Sun, 11 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-11/noa-is-my-senior-and-my-friend-tv-anime-unveils-main-cast-2027-debut/.242717
+### Kōta Kawae's Nue's Exorcist Manga Gets TV Anime in Summer 2027
+Mon, 12 Oct 2026 07:54:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/kota-kawae-nue-exorcist-manga-gets-tv-anime-in-summer-2027/.242747
 
-Rina Kawaguchi, Tomoya Itō star in series from feel. animation studio
+Kaito Miura, Saori Ōnishi, Sayumi Suzushiro star in Studio Hibari anime
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Noa Is My Senior and My Friend Anime Reveals Key Visual, Main Cast
+Mon, 12 Oct 2026 12:26:34 GMT — https://animecorner.me/noa-is-my-senior-and-my-friend-anime-reveals-key-visual-main-cast/
+
+Noa Is My Senior and My Friend anime revealed a key visual and its&hellip;
 
 ### Haikyu!! Gets New Artwork by Haruichi Furudate, Returns for Haruko Collaboration After 7 Years
 Mon, 12 Oct 2026 11:50:21 GMT — https://animecorner.me/haikyu-gets-new-artwork-by-haruichi-furudate-returns-for-haruko-collaboration-after-7-years/
@@ -102,26 +107,6 @@ The Apothecary Diaries: The Late Lady’s Treasure anime film released a new cha
 Sat, 10 Oct 2026 22:09:38 GMT — https://animecorner.me/naruto-shadow-rising-new-manga-announced-masashi-kishimoto-to-draw/
 
 A new NARUTO manga titled NARUTO: SHADOW RISING has been announced, with original creator Masashi Kishimoto set to draw the project.
-
-### Naruto x Ninku New Collaboration Anime Announced, Revealed to Be the 4-Episode Project
-Sat, 10 Oct 2026 21:27:41 GMT — https://animecorner.me/naruto-x-ninku-new-collaboration-anime-announced-revealed-to-be-the-4-episode-project/
-
-New NARUTO anime first announced for the series’ 20th anniversary has finally been revealed as a four-episode collaboration with NINKU.
-
-### Summer 2026 Anime of the Season Rankings
-Sat, 10 Oct 2026 19:10:00 GMT — https://animecorner.me/summer-2026-anime-of-the-season-rankings/
-
-Anime Corner's Summer 2026 Anime of the Season results are in. Discover the Top 75 anime rankings, category winners, voter statistics, and how Re:ZERO Season 4 secured the season's top spot ahead of Mushoku Tensei Season 3 and Bleach.
-
-### How Anime Corner Reviewed Summer 2026 Polls for Vote Spam
-Sat, 10 Oct 2026 19:05:00 GMT — https://animecorner.me/how-anime-corner-reviewed-summer-2026-polls-for-vote-spam/
-
-A detailed review of Anime Corner's Summer 2026 poll integrity process, including ballot invalidation rates, weekly and seasonal voting analysis, suspicious voting patterns, and the measures used to ensure fair rankings.
-
-### Dr. STONE TERRAFORMING Sequel Anime Announced
-Sat, 10 Oct 2026 12:43:08 GMT — https://animecorner.me/dr-stone-terraforming-sequel-anime-announced/
-
-A new Dr. STONE sequel anime titled Dr. STONE TERRAFORMING is officially in production, continuing the story after the main series.
 
 ## MyAnimeList News
 
@@ -159,11 +144,6 @@ The Naruto: What s Next? panel at New York Comic Con 2026 announced on Saturday 
 Sat, 10 Oct 2026 16:37:52 -0700 — https://myanimelist.net/news/74809610?_location=rss
 
 The "Naruto: What s Next?" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto s Naruto manga and Kouji Kiriyama s Ninkuu manga on Saturday. The Naruto franchise s official website opened a new page, revealing the main cast, staff, theme songs, a teaser visual (pictured above), and teaser promotional video. Cast Naruto Uzumaki: Junko Takeuchi (Hunter x Hunter) Fuusuke: Rica Matsumoto (Pokemon) Sasuke Uchiha...
-
-### New Dr. Stone Anime Announced
-Sat, 10 Oct 2026 06:05:30 -0700 — https://myanimelist.net/news/74808029?_location=rss
-
-The Stone Fes.2026 event at Yokohama Buntai announced on Saturday that a sequel anime subtitled Dr. Stone: Terraforming is in production. The official website also revealed a new anime logo (pictured above) and an announcement promo. The character designer, Yuuko Iwasa drew an illustrations to commemorate the announcement (pictured right). The new anime will adapt the Terraforming one-shot episode included on volume 27 of the original manga. The story is set after the conclusion of the main ser...
 
 ## Otaku USA
 
