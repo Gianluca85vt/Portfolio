@@ -1,0 +1,57 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-price", "kind": "bars", "title": "What the boxes cost now",
+    "rows": [
+      { "label": "PS5 Pro", "value": 900, "display": "$900" },
+      { "label": "Xbox Series X, with a drive", "value": 800, "display": "$800" },
+      { "label": "Xbox Series X Digital", "value": 750, "display": "$750" },
+      { "label": "Xbox Series S 1TB", "value": 600, "display": "$600" },
+      { "label": "PS5 average selling price", "value": 600, "display": "~$600" }
+    ],
+    "note": "US list prices, October 2026. PS5 ASP from Circana's August report." },
+
+  { "id": "the-fall", "kind": "bars", "title": "Units, year on year",
+    "rows": [
+      { "label": "Xbox hardware, US", "value": 33, "display": "-33%" },
+      { "label": "PlayStation hardware, US", "value": 25, "display": "-25%" },
+      { "label": "PC shipments, global Q3", "value": 21.2, "display": "-21.2%" }
+    ],
+    "note": "Circana US Retail Tracking, YTD through August; PC from Omdia Q3 2026. Console figures are retail units, not sell-through of digital." },
+
+  { "id": "the-chain", "kind": "beats", "title": "How a price rise reaches the art",
+    "items": ["Price rise", "Install base", "Forecast", "Budget", "Schedule", "The art team"],
+    "note": "Five of the six are decided by people who never open the project. The spec is not on this list, because the spec never reopens." },
+
+  { "id": "two-readings", "kind": "compare", "title": "The same frame, twice",
+    "left": "What the spec promised",
+    "right": "What the box renders",
+    "rows": [
+      ["Native 1440p, composed", "864p, reconstructed to 1440p"],
+      ["Shadow resolution as authored", "Traded for 1.5-1.8ms of upscaling"],
+      ["Draw distance as authored", "Whatever the frame budget leaves"],
+      ["A frame the artist signed off", "A plausible frame"]
+    ],
+    "note": "QSSR figures measured by Digital Foundry on Marvel's Wolverine, base PS5." },
+
+  { "id": "e-day", "kind": "bars", "title": "Gears of War: E-Day, estimated",
+    "rows": [
+      { "label": "Played it via Game Pass", "value": 1700000, "display": "~1,700,000" },
+      { "label": "Paid the $30 early upgrade", "value": 722000, "display": "~722,000" },
+      { "label": "Bought a copy outright", "value": 230000, "display": "~230,000" }
+    ],
+    "note": "Alinea Analytics estimates, disputed by nobody and confirmed by nobody. Microsoft publishes no unit numbers." },
+
+  { "id": "the-pipeline", "kind": "timeline", "title": "Where the slack comes from",
+    "stages": ["Trailer", "Spec signed", "Price rise", "Forecast", "Budget", "Schedule", "Art pass"],
+    "markAt": 6,
+    "markLabel": "Where the bill arrives",
+    "note": "The spec is agreed at stage two and never revisited. Everything after it absorbs the difference." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "A $900 console and an 864p frame are the same decision, filed under two different departments.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
