@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#2B6CB0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="80" y="170" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#9FB7D4" letter-spacing="4">EPIC GAMES</text>
+  <text x="80" y="300" font-family="Helvetica, Arial, sans-serif" font-size="108" font-weight="700" fill="#FFFFFF">AI-FIRST</text>
+  <text x="80" y="390" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#E6EEF8">No hand-written code.</text>
+  <text x="80" y="450" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#E6EEF8">Art generated.</text>
+  <rect x="80" y="500" width="180" height="5" fill="#6AA9E8"/>
+  <text x="80" y="580" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#9FB7D4">Disney shooter slips out of March 2027</text>
+</svg>
