@@ -45,7 +45,6 @@ artistView:
     - "Combat systems: the card-based Arcana layer reads, from footage, like a build-variety system lifted from roguelike thinking and made permanent. Sensible reuse of what the studio already knew."
   misses:
     - "Level design: the critical reviews all describe the map rather than the moment — fast travel reviewers call clunky, a frustrating opening, a late game several call too easy. Pacing across a whole map is authored once, and it cannot be fixed by making the rooms better."
-draft: true
 ---
 
 Reviews for Castlevania: Belmont's Curse went up on 13 October, two days
