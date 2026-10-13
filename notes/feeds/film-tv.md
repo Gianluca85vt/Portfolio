@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-13T12:10:19.844Z
+# Film & TV — harvested 2026-10-13T19:57:02.636Z
 
 ## Variety
 
-### Skydance, Movistar Plus Expand Strategic Alliance In a Win-Win Move Into Co-Branded HBO Max, Movistar+ Original Series
-Tue, 13 Oct 2026 11:09:41 +0000 — https://variety.com/2026/tv/global/skydance-movistar-plus-hbo-max-jointly-branded-series-1236909926/
+### BondIt, Buffalo 8 and Sandaled Kid Productions Team Up on High-Concept Horror Film Slate (EXCLUSIVE)
+Tue, 13 Oct 2026 19:53:46 +0000 — https://variety.com/2026/film/news/bondit-buffalo-8-sandaled-kid-productions-horror-film-slate-1236910380/
 
-In what looks like a coup for both parties, Skydance and Movistar Plus, the biggest Spanish pay TV/SVOD operator, are expanding their strategic alliance, strengthening Skydance’s deal in distribution on Movistar Plus and taking it to the next level by including co-branded orginal series. The two-year deal continuation of the distribution of HBO Max and [ ]
+BondIt Media Capital, Buffalo 8 Distribution and Sandaled Kid Productions have partnered on a new slate of horror films. The partnership will develop three commercial, high-concept horror films. BondIt will finance the slate, while Buffalo 8 will release the titles. Sandaled Kid Productions will focus on development and production of the projects. “This partnership brings [ ]
 
-### Jeremy Strong Texted Jessica Chastain After Other Mommy Dominated Box Office Over Social Reckoning Flop
-Tue, 13 Oct 2026 10:18:07 +0000 — https://variety.com/2026/film/news/jeremy-strong-texted-jessica-chastain-other-mommy-social-reckoning-1236909803/
+### Ari Emanuel and Ben Persky s Podcast Rushmore Returns for Season 2 With Guests Including Larry David and Jerry Seinfeld
+Tue, 13 Oct 2026 19:34:24 +0000 — https://variety.com/2026/digital/news/ari-emanuel-podcast-rushmore-season-2-larry-david-jerry-seinfeld-1236910537/
 
-Other Mommy may have dominated The Social Reckoning at the box office this past weekend, but there s no hard feelings between longtime friends Jessica Chastain and Jeremy Strong. Chastain, who stars as a demonic mother in horror movie Other Mommy, shared on her Instagram Story Monday night a playful string of text messages with Strong, [ ]
+Ari Emanuel, executive chairman of WME Group and exec chair and CEO of TKO Group, is back to debate GOATs with his friend and music manager Ben Persky with a parade of high-profile guests in a new season of their podcast Rushmore. Rushmore Season 2 will be available to watch on YouTube and [ ]
 
-### J.K. Rowling Docuseries Set at BBC
-Tue, 13 Oct 2026 10:14:53 +0000 — https://variety.com/2026/tv/global/j-k-rowling-docuseries-bbc-1236909874/
+### Joni Mitchell Sworn In as a U.S. Citizen, Capping a Journey That Began 62 Years Ago
+Tue, 13 Oct 2026 19:14:26 +0000 — https://variety.com/2026/music/news/joni-mitchell-american-citizen-sworn-in-1236910447/
 
-The BBC is set to broadcast a two-part docuseries about “Harry Potter” author J.K. Rowling. Produced by Rogan Scotland (“Becoming Frida Kahlo”), it will trace her “dramatic rise, cultural influence and contested legacy, using her life as a lens through which to explore three decades of profound social, political and technological change,” according to the [ ]
+When the New York Times ran a list of the greatest living American songwriters earlier this year, the ranking was greeted with a lot of reader flack for not including Joni Mitchell. The newspaper s explanation at the time was that Mitchell was — and remained — a Canadian citizen, despite residing primarily in California, thus [ ]
 
-### Raindance to Launch U.K. s First Major Vertical Festival and Market (EXCLUSIVE)
-Tue, 13 Oct 2026 09:59:36 +0000 — https://variety.com/2026/tv/global/raindance-to-launch-uk-first-vertical-media-festival-market-1236909834/
+### Vancouver Film Festival Audience Award Winners: ’I Play Rocky,’ ‘Ceremony’ Among Big Wins
+Tue, 13 Oct 2026 19:13:13 +0000 — https://variety.com/2026/film/global/vancouver-fest-audience-awards-i-play-rocky-ceremony-1236910509/
 
-The U.K. may have been slower than other markets to jump onto the boom in short-form vertical media, projected to generate $150 billion in revenue in markets outside China this year, but it is now getting its own dedicated festival. British indie film stalwart Raindance is launching Raindance Vertical, a one-day festival and financing market [ ]
+Peter Farrelly’s “I Play Rocky” has won the Audience Award in the Galas Special Presentations category at the 2026 Vancouver International Film Festival (VIFF). The film, which tells the underdog story behind Sylvester Stallone’s journey to make and star in “Rocky,” was among 10 titles selected by audiences as favorites across the festival’s programming [ ]
 
-### Marion Cotillard to Serve as Marrakech Film Festival Jury President
-Tue, 13 Oct 2026 09:42:47 +0000 — https://variety.com/2026/film/festivals/marion-cotillard-marrakech-film-festival-jury-president-1236909854/
+### Bernie Orenstein, Co-Writer of That Girl and The New Dick Van Dyke Show, Dies at 95
+Tue, 13 Oct 2026 19:01:23 +0000 — https://variety.com/2026/tv/news/bernie-orenstein-dead-that-girl-1236910352/
 
-Oscar-winning French actor Marion Cotillard will preside over the competition jury at the 23rd Marrakech Film Festival in November. Alongside her to be announced jury members, the Inception and Dark Knight Rises star will lead the decision of which film is awarded the Étoile d’Or out of Marrakech s international competition, which consists of first and [ ]
+Bernie Orenstein, the co-writer and co-producer of “The New Dick Van Dyke Show,” died on Sept. 14, his family confirmed. He was 95. The television comedy writer and producer frequently collaborated with his partner, Saul Turteltaub, whom he wrote and produced TV hits such as “The New Dick Van Dyke Show,” the 1970s follow-up to [ ]
 
-### CJ ENM, MBC Group Enter Long-Term Pact to Expand Korean Entertainment Across Middle East, North Africa, a ‘Natural Next Step’ (EXCLUSIVE)
-Tue, 13 Oct 2026 09:37:03 +0000 — https://variety.com/2026/tv/global/cj-enm-mbc-group-expand-partnership-mipcom-1236909790/
+### ‘Girls’ Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning
+Tue, 13 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362/
 
-MBC GROUP and CJ ENM have signed a long-term strategic partnership aimed at expanding premium Korean entertainment across the Middle East and North Africa (MENA), bringing together two leading media and entertainment groups with complementary reach across the region and Asia. At the centre of the partnership is the launch of a dedicated Tving space [ ]
+A voice of a generation has returned. HBO has greenlit a revival of Girls, Lena Dunham s beloved and controversial mid-aughts dramedy. The series will return for a limited, five-episode run with production beginning in 2027 — a decade after the Season 6 finale. Girls ran on HBO from 2012 to 2017. With Dunham as creator, [ ]
 
-### IvyBears Hits Cannes After YouTube Breakout, Spawns Animated Feature Project (EXCLUSIVE)
-Tue, 13 Oct 2026 09:16:52 +0000 — https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/
+### Peacock Sets Assassins Competition Show Based on Popular School Game; Scarlett Johansson to Produce
+Tue, 13 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/assassins-reality-show-peacock-1236910332/
 
-A theater and film studies graduate, it was eventually Kaan Haylaz s lifelong love for gummies that led him to commercial success, and the birth of the IvyBears vitamins brand and IP. IvyBears was never simply a consumer brand that suddenly decided to venture into entertainment, he told Variety in an online interview in the wake [ ]
+Watch your back: Peacock has greenlit a new competition series, Assassins, based on the popular stealth game played among high school and college students. Hailing from executive producer Scarlett Johansson, “Assassins” follows a group of players as they compete in a ruthless game of cunning strategy and wit. Per the synopsis, From the moment they [ ]
 
-### Horror Adaptation of Dante s ‘The Divine Comedy,’ by Invoking Yell Director Patricio Valladares, Gets First Look From Skincrawl Studios
-Tue, 13 Oct 2026 08:57:53 +0000 — https://variety.com/2026/film/global/patricio-valladares-the-divine-comedy-skincrawl-studios-1236909263/
+### Duane Keffe D Davis Sentenced to 40 Years to Life for Role in Tupac Shakur s Murder
+Tue, 13 Oct 2026 18:59:02 +0000 — https://variety.com/2026/music/news/duane-keffe-d-davis-sentenced-40-years-tupac-shakur-murder-1236909531/
 
-Skincrawl Studios has debuted a first glimpse at Chilean filmmaker Patricio Valladares’ supernatural horror feature “The Divine Comedy,” a modern re-telling of Dante’s “Inferno.” The Irish production and distribution shingle, which specializes in horror and adjacent genre movies, is handling worldwide sales on the film, which recently wrapped principal photography. The Divine Comedy is a [ ]
+Duane Keffe D Davis has been sentenced to 40 years to life after being found guilty of orchestrating the 1996 murder of Tupac Shakur. Davis appeared in a Nevada court on Tuesday for his sentencing in the case, with the judge handing him 20 years to life for first-degree murder and 20 years to life [ ]
 
-### Whistleblowing Portal Launches in U.K. for Entertainment Industry Workers to Report Abuse, Harassment and Discrimination
-Tue, 13 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/whistleblowing-service-launches-in-uk-for-film-tv-workers-1236909610/
+### Mia Goth Slams Instagram’s ‘Incomprehensible’ Decision to Let AI-Altered Selfie Spread Online
+Tue, 13 Oct 2026 18:49:31 +0000 — https://variety.com/2026/film/news/mia-goth-slams-instagram-incomprehensible-ai-altered-selfie-1236910350/
 
-Workers across the U.K. s film, TV, music and theater sectors are now able to report whistleblowing concerns, including those relating to harassment and abuse, following the launch of a new portal by the Creative Industries Independent Standards Authority (CIISA). As an officially designated whistleblowing body, people will now be able to report concerns to CIISA [ ]
+Mia Goth did not post a selfie of herself to Instagram wearing a shirt that read “MY EX IS MY BIGGEST FAN” just days after news broke about her filing for divorce from Shia LaBeouf — and she has slammed Meta for allowing the AI-altered image to circulate. The image posted on Thursday by “miagoth_,” complete with a [ ]
 
-### ‘God of War’s’ Bruno Velazquez, ‘Mandalorian Grogu’s’ Hal Hickel Detail Cinema-Gaming Crossover at View Conference
-Tue, 13 Oct 2026 07:15:33 +0000 — https://variety.com/2026/artisans/global/god-of-war-mandalorian-grogu-cinema-gaming-view-1236909776/
+### Narnia: The Magician s Nephew Trailer: Greta Gerwig s Fantasy Epic Unveils Aslan, the White Witch and More in Dazzling Footage
+Tue, 13 Oct 2026 18:02:53 +0000 — https://variety.com/2026/film/news/narnia-the-magicians-nephew-trailer-greta-gerwig-netflix-1236909994/
 
-James Cameron’s “Avatar” technology helped shape the look of Sony Santa Monica Studio’s “God of War” games, game director Bruno Velazquez revealed at View Conference in Turin on Monday during a discussion of how increasingly intertwined filmmaking and video game production have become. Velazquez said the studio sought to present the two most recent mainline [ ]
+Greta Gerwig is inviting audiences to enter the epic realm of Narnia with “The Magician’s Nephew,” for which the first trailer was unveiled on Tuesday. Based on the classic C.S. Lewis children’s book series “The Chronicles of Narnia,” the story follows two children, Digory and Polly, who are the first to discover the “Wood between [ ]
 
 ## The Hollywood Reporter
 
-### Disney Circles Character.ai as Chatbot Company Files For Chapter 11 Bankruptcy
-Tue, 13 Oct 2026 11:52:13 +0000 — https://www.hollywoodreporter.com/business/digital/disney-may-buy-character-ai-chatbot-chapter-11-bankruptcy-1236728629/
+### Skydance s Sprawling TV Empire: 120 Series and Counting
+Tue, 13 Oct 2026 19:55:20 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-tv-empire-warner-bros-cbs-paramount-studios-1236725009/
 
-The entertainment giant, which recently hired the AI firm's former CEO, is the stalking horse bidder in the proceeding for certain assets.
+The merged company's TV operations are more than 50 percent larger than Warner Bros. TV's slate — some tough choices may be ahead on what to combine and bet on.
 
-### Korean Content Giant CJ ENM, Middle Eastern Broadcaster MBC Strike Streaming Deal
-Tue, 13 Oct 2026 11:40:42 +0000 — https://www.hollywoodreporter.com/business/business-news/korean-content-giant-cj-enm-middle-eastern-broadcaster-mbc-streaming-deal-1236728618/
+### Raye Says Scalpers Used AI Bots to Overwhelm Sign Ups For Royal Albert Hall Show as 1.8 Million Register For Tickets
+Tue, 13 Oct 2026 19:52:40 +0000 — https://www.hollywoodreporter.com/music/music-news/raye-scalpers-ai-bots-london-concert-sign-ups-1236729020/
 
-The agreement, unveiled at MIPCOM, will bring a TVing-branded hub to Shahid, with simultaneous Korean series releases across the Middle East and North Africa and an exclusive window on MBC4.
+"I have never witnessed bots on this scale," the British singer-songwriter said.
 
-### Skydance, Spain s Movistar Plus Expand Strategic Alliance, Will Launch Local Series Under Joint Label
-Tue, 13 Oct 2026 10:41:09 +0000 — https://www.hollywoodreporter.com/business/business-news/skydance-spain-movistar-plus-deal-local-series-joint-label-1236728607/
+### New York Public Radio CEO Christy Tanner Steps Down
+Tue, 13 Oct 2026 19:47:34 +0000 — https://www.hollywoodreporter.com/business/digital/new-york-public-radio-ceo-christy-tanner-1236729121/
 
-Movistar Plus will continue to feature HBO Max on its streaming platform, while the new deal also covers “select Skydance TV channels, major WB theatrical releases and new content agreements.”
+Jenna Weiss-Berman, Gary Knell and LaFontaine Oliver will temporarily lead the parent organization, which is home to the Gothamist, WNYC and more.
 
-### It s a Wonderful Life 80th Anniversary Box Set Includes 4K Remaster, Limited-Edition Keepsakes
-Tue, 13 Oct 2026 09:24:16 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/its-a-wonderful-life-80th-anniversary-box-set-buy-online-1236728551/
+### Tupac Murder Trial: Duane Keffe D Davis Sentenced 40 Years to Life in Prison
+Tue, 13 Oct 2026 19:30:19 +0000 — https://www.hollywoodreporter.com/music/music-news/duane-keffe-d-davis-sentenced-40-years-life-tupac-murder-1236728787/
 
-Released in December 1946, the Christmas fantasy film is now regarded as one of the best movies of all time.
+Davis is the first and only person to have been convicted over the death of the late hip-hop icon.
 
-### Tyson Review: Netflix s Docuseries Tells Mike Tyson s Story as Only Mike Tyson Could, and Already Has Several Times
-Tue, 13 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/tyson-review-netflix-mike-tyson-documentary-1236728369/
+### Love Trapped, Fake Twins and the Paternity Scandal That Outcrazied The Bachelor
+Tue, 13 Oct 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/love-trapped-bachelor-paternity-scandal-podcast-tv-1236685276/
 
-Floyd Russ' four-part project follows the boxer from rough childhood to athletic stardom to decades of self-inflicted adversity.
+An inside look at the bizarre three-year ordeal behind one of Apple’s biggest podcasts of 2026, as the people who lived it and chronicled it reveal how an unbelievable accusation became a criminal case — and a Hollywood hot property. "I’ve tried to guess her next move — I’ve been wrong every time."
 
-### Keri Russell Recalls Having Sex All the Time With Matthew Rhys on The Americans Set
-Tue, 13 Oct 2026 01:56:43 +0000 — https://www.hollywoodreporter.com/tv/tv-news/keri-russell-sex-all-time-matthew-rhys-the-americans-set-1236728382/
+### Banned in Iran, Denied a U.K. Visa: Mohsen Amiryousefi s Film About Banned Films Heads to London
+Tue, 13 Oct 2026 19:25:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-banning-curse-iran-film-interview-mohsen-amiryousefi-lff-1236728620/
 
-The couple met while filming the FX period spy drama, which ran from 2013 to 2018.
+The director talks about acting for the first time, shooting without permits and why he still hopes Iranian audiences will see 'The Banning Curse,' which premieres at the London Film Festival: "I don't know how the audience will react, but I'm very happy that the film will be screened."
 
-### Linda Duncombe, Banking Executive and Film Producer, Dies at 55
-Tue, 13 Oct 2026 00:49:43 +0000 — https://www.hollywoodreporter.com/business/business-news/linda-duncombe-dead-banking-executive-film-producer-1236728404/
+### Selma Blair Pleads Not Guilty to Assault Charges Following Violent Outburst on Delta Flight
+Tue, 13 Oct 2026 19:11:19 +0000 — https://www.hollywoodreporter.com/news/general-news/selma-blair-assault-charges-alleged-violent-outburst-delta-1236728939/
 
-She also served on the board of directors for the SAG-AFTRA Foundation and EnCorps.
+New details emerged late Monday about what allegedly occurred on board the flight and in the aftermath when Blair was detained at JFK and transported to a local hospital.
 
-### EJAE Honored at Gyopo s Chuseok Benefit: I’m So Proud to Celebrate Where We Come From
-Tue, 13 Oct 2026 00:44:09 +0000 — https://www.hollywoodreporter.com/news/general-news/ejae-gyopo-chuseok-benefit-1236728401/
+### Girls Is Returning to HBO, for a Limited Time
+Tue, 13 Oct 2026 19:00:18 +0000 — https://www.hollywoodreporter.com/tv/tv-news/girls-returning-hbo-limited-series-1236729034/
 
-The 'KPop Demon Hunters' star took home a slew of awards earlier this year for her songwriting in the Netflix animated movie.
+Lena Dunham, Allison Williams, Zosia Mamet and Jemima Kirke will reprise their roles, with filming set to start in 2027.
 
-### High Potential Lands Post-Super Bowl Showcase on ABC and Disney+
-Tue, 13 Oct 2026 00:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/high-potential-super-bowl-lxi-abc-1236728241/
+### Lucian Piane, Former RuPaul s Drag Race Music Producer, Dies at 46
+Tue, 13 Oct 2026 18:52:22 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lucian-piane-dead-rupauls-drag-race-music-producer-1236729000/
 
-The series was already the network's most watched show.
+Piane collaborated with RuPaul on his personal music, co-writing and producing some of his beloved hits including "Cover Girl" and "Sissy That Walk."
 
-### Ink Finally Meets Its Native Audience at London Film Festival, and Jack O Connell Has Thoughts
-Mon, 12 Oct 2026 23:49:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ink-bfi-london-film-festival-danny-boyle-jack-o-connell-1236727950/
+### Messy Golden Globes Legal Battle Heats Up With New Salvo
+Tue, 13 Oct 2026 18:34:04 +0000 — https://www.hollywoodreporter.com/business/business-news/messy-golden-globes-legal-battle-heats-up-with-new-salvo-1236729009/
 
-Guy Pearce and director Danny Boyle also stopped to talk to The Hollywood Reporter about bringing Rupert Murdoch's Fleet Street origin story to U.K. fans: "If it doesn't work here, it's not going to work anywhere."
+Eldridge Industries and Penske Media have fired back after the Hollywood Foreign Press Association accused the new owners of fraudulently acquiring the awards show.
 
 ## Deadline
 
-### Channel 4 Unveils First-Ever Microdrama: Female Friendship Series Stars You s Jadesola Odunjo
-Tue, 13 Oct 2026 12:00:00 +0000 — https://deadline.com/2026/10/channel-4-first-microdrama-the-guest-list-youtube-tiktok-1237155428/
+### Below Attracts Record Debut For A Netflix Canadian Series
+Tue, 13 Oct 2026 19:26:07 +0000 — https://deadline.com/2026/10/below-netflix-premiere-ratings-record-canadian-1237155959/
 
-Channel 4 has unveiled its first microdrama, a female friendship series starring an actor from Netflix s You. The Guest List is being made in partnership with beauty brand Sol de Janeiro and stars Jadesola Odunjo, who played Victoria in You, alongside Deba Hekmat, Mia Ito Smith and Felicity Ali. Produced by Curly Media, The Guest [ ]
+Below attracted a record audience on Netflix over the weekend. The limited series about a fisherman (Josh Hartnett) whose small Newfoundland hometown is terrorized by a mysterious sea creature baited 17 million views from its debut on October 8 through Sunday evening, marking the most-viewed debut ever for a Netflix Canadian title, per the streamer. [ ]
 
-### Raven Banner Boards Polish Folklore Horror ‘Òpi’ Ahead Of U.S. Festival Debut
-Tue, 13 Oct 2026 12:00:00 +0000 — https://deadline.com/2026/10/raven-banner-sales-polish-folklore-horror-opi-1237155455/
+### BAFTA Winner Narges Rashidi Signs With TFC Management
+Tue, 13 Oct 2026 19:21:48 +0000 — https://deadline.com/2026/10/narges-rashidi-tfc-management-1237155996/
 
-EXCLUSIVE: Toronto-based genre specialist Raven Banner Entertainment has acquired worldwide rights to Polish director Marta Giec’s feature directorial debut Òpi ahead of its international premiere at the Brooklyn Horror Film Festival later this month. Rooted in the ancient beliefs and dark folklore of Poland’s ethnocultural Kashubia region, the film follow follows eighteen-year-old Trina as she [ ]
+EXCLUSIVE: Narges Rashidi, who recently won the BAFTA for Leading Actress for her portrayal of Nazanin Zaghari Ratcliffe in BBC s Prisoner 951, has signed with TFC Management. The series, directed by Phillipa Lowthorpe and also starring Joseph Fiennes, told the true story of Zaghari Ratfcliffe’s wrongful seven-year imprisonment in Iran and her husband’s subsequent fight [ ]
 
-### ‘M+/HBO Originals’: Movistar Plus Skydance To Launch Local Originals Under Joint Label
-Tue, 13 Oct 2026 11:19:23 +0000 — https://deadline.com/2026/10/movistar-plus-skydance-deal-extension-1237155508/
+### Elsinore And La Bola Negra Continue Awards Momentum With Wins At Hamptons Film Festival
+Tue, 13 Oct 2026 19:08:39 +0000 — https://deadline.com/2026/10/elsinore-la-bola-negra-awards-hamptons-film-festival-1237155925/
 
-Spain’s Movistar Plus and Skydance today said they have extended their “strategic alliance” through a new two-year global agreement. The deal extension is one of the first big international pacts confirmed by Skydance since it closed its mega merger with Warners. Under the deal, the two entities will launch a joint label for local original [ ]
+EXCLUSIVE: Elsinore and La Bola Negra were two of the standout films to collect awards at the just-concluded 34th edition of the Hamptons International Film Festival. Audiences who attended 205 screenings of the fest s 140-plus features and shorts from October 2 to 11 selected La Bola Negra as Best Narrative Feature. The film, which is [ ]
 
-### Netflix Scores Exclusive Rights To Stream Every FIFA World Cup 2030 Game In Spain
-Tue, 13 Oct 2026 11:17:46 +0000 — https://deadline.com/2026/10/netflix-exclusive-fifa-world-cup-2030-spain-1237155504/
+### Tupac Shakur Murder Mastermind Gets Decades In Prison For 1996 Killing
+Tue, 13 Oct 2026 19:05:47 +0000 — https://deadline.com/2026/10/tupac-shakur-murder-sentencing-1237155957/
 
-In a significant statement of intent about its live ambitions, Netflix will exclusively stream every FIFA World Cup 2030 game live in Spain and Andorra. With defending FIFA World Cup 2026 champions Spain serving as one of the competition’s three host nations — alongside Morocco and Portugal — Netflix will feature full live coverage of [ ]
+The only individual ever actually charged in the 1996 fatal shooting of Tupac Shakur was sentenced today to 40 years to life in prison. Convicted of first-degree murder with the use of a deadly weapon on August 31, Duane “Keff D” Davis was in court in Las Vegas Tuesday to learn his fate from Judge [ ]
 
-### Anthony Zuicker Leaves The CSI Guy Behind As He Unveils True-Crime App
-Tue, 13 Oct 2026 11:12:38 +0000 — https://deadline.com/2026/10/anthony-zuiker-launches-cinemalistics-true-crime-app-1237155409/
+### Kimberly Guilfoyle Resigns Amid Ethics Misconduct Allegations; Trump Says We Didn t Like What We Were Reading
+Tue, 13 Oct 2026 19:02:42 +0000 — https://deadline.com/2026/10/kimberly-guilfoyle-resigns-trump-ethics-1237155936/
 
-My pitching days are over. That’s it. I quit, starting now The CSI guy is dead. Welcome to my autopsy. That was the entry point for CSI: Crime Scene Investigation creator Anthony E. Zuiker s MIPCOM Cannes keynote, in which he pulled back the curtain on Cinemalistics, an app that he called a true-crime studio that [ ]
+Kimberly Guilfoyle, the former Fox News host who became a high-profile figure in Donald Trump s orbit, resigned as U.S. ambassador to Greece following a bombshell Wall Street Journal report over alleged ethical misconduct. Guilfoyle confirmed her exit in a post on X, shortly after the new White House press secretary, Katie Zacharia, told reporters that [ ]
 
-### Nicole Wallace Is Shifting Gears: The Streaming Icon On Global Success Life After Culpa Mía
-Tue, 13 Oct 2026 11:04:13 +0000 — https://deadline.com/2026/10/nicole-wallace-culpa-mia-culpables-prime-video-mipcom-1237155435/
+### Scarlett Johansson To Produce ‘Assassins’ Reality Show Ordered At Peacock
+Tue, 13 Oct 2026 19:00:00 +0000 — https://deadline.com/2026/10/scarlett-johansson-assassins-reality-show-peacock-1237155894/
 
-Nicole Wallace is good behind the wheel. In Culpa Mía, she power-slides her Porsche sports car to a street race victory and now she s shifting the gears of her career. With starring roles in Postcards From Italy, and motor-racing drama Throttled, the streaming icon is hitting top speed. The Culpables movies were a streaming phenomenon [ ]
+Scarlett Johansson is getting into the reality television business. The Black Widow star is exec producing Assassins, a new series greenlight at Peacock. The series comes from Sony’s B17 Entertainment and founders Brien Meagher and Rhett Bachner are exec producing alongside Johansson. Assassins follows a group of players competing in a game of strategy and [ ]
 
-### MBC Group CJ ENM Launch Dedicated K-Content Space On MENA Streamer MBC Shahid -MIPCOM
-Tue, 13 Oct 2026 10:57:09 +0000 — https://deadline.com/2026/10/mbc-group-cj-enm-tving-k-content-mena-mbc-shahid-1237155488/
+### ‘Girls’ Surprise: HBO Brings Back Lena Dunham Series With Majority Of Original Cast
+Tue, 13 Oct 2026 19:00:00 +0000 — https://deadline.com/2026/10/girls-hbo-brings-back-lena-dunham-series-original-cast-1237155972/
 
-Korean premium content platform Tving is getting a dedicated space on Middle East and North Africa streamer MBC Shahid. The new space was announced by MBC Shahid’s Riyadh-based parent MBC Group and Korean premium content leader CJ ENM, which is a partner on Tving, in an expansion of their long-term strategic partnership. Under the agreement, [ ]
+Girls is coming back. HBO has ordered a limited run of five episodes of Lena Dunham’s hit comedy with the majority of the original cast confirmed to return. Watch the announcement video below. Dunham will reprise her role as Hannah, Allison Williams returns as Marnie, Jemima Kirke is back as Jessa, Zosia Mamet comes back [ ]
 
-### We Will Never Lie To The Audience Over Artificial Intelligence, Says BBC Content Chief Kate Phillips
-Tue, 13 Oct 2026 10:56:08 +0000 — https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/
+### Jesse Eisenberg Reveals Thoughts On The Social Reckoning Why He Turned Down Zuckerberg Role
+Tue, 13 Oct 2026 18:38:20 +0000 — https://deadline.com/2026/10/jesse-eisenberg-social-reckoning-the-debut-interview-1237155907/
 
-The BBC will never lie to viewers about its use of artificial intelligence, content boss Kate Phillips said today. Phillips noted that AI is part of TV production now as a research and edit tool but said the corporation will never use AI on huge shows like Blue Planet III in terms of what you [ ]
+Jesse Eisenberg has not yet seen The Social Reckoning, but he has some thoughts on the subject, he told Deadline on Tuesday. In an interview about his new film The Debut, which he wrote and directed, and in which he also stars, Eisenberg addressed his feelings on Aaron Sorkin s follow-up to The Social Network, in [ ]
 
-### Industry Star Myha la Claims Unconscious Racial Bias Is Baked Into The Traitors
-Tue, 13 Oct 2026 10:54:17 +0000 — https://deadline.com/2026/10/industry-myhala-unconscious-racial-bias-the-traitors-1237155474/
+### First Trailer For Greta Gerwig’s ‘Narnia: The Magician’s Nephew’ Teases Punk Rock Multiverse Cosmic Creation Of Aslan
+Tue, 13 Oct 2026 18:30:27 +0000 — https://deadline.com/2026/10/narnia-magicians-nephew-trailer-aslan-jadis-greta-gerwig-1237155940/
 
-Myha la Herrold has claimed that unconscious racial and cultural bias exists in The Traitors format, but that she sealed her own fate after exiting the celebrity version on the BBC. The Industry actress was banished from Season 2 of The Celebrity Traitors last week and has reflected on her experience on the Studio Lambert series [ ]
+The first trailer for the Greta Gerwig-directed adaptation of Narnia: The Magician’s Nephew has arrived, plunging viewers into a modernized retelling of C.S. Lewis first book in The Chronicles of Narnia. The film arrives in theaters February 12 and April 2 on Netflix. Beatrice Campbell’s Polly Plummer and David McKenna’s Digory Kirke kick off the [ ]
 
-### BBC Studios Launches Scripted Fund Tasks Ben Donald With Helping Unearth Next Generation Of European IP
-Tue, 13 Oct 2026 10:15:00 +0000 — https://deadline.com/2026/10/bbc-studios-scripted-fund-ben-donald-european-ip-1237155400/
+### Quentin Tarantino Once Upon A Time In Hollywood Special Event Set For AFI Fest
+Tue, 13 Oct 2026 18:29:00 +0000 — https://deadline.com/2026/10/afi-fest-quentin-tarantino-once-upon-a-time-in-hollywood-1237155933/
 
-EXCLUSIVE: BBC Studios has tasked Mallorca Files EP Ben Donald with helping discover the next generation of European hits based on IP, as the producer-distributor launches a central fund for these projects. Donald is taking on a support role with BBC Studios alongside his day-to-day duties running his Cosmopolitan Pictures indie. He will help identify [ ]
+The American Film Institute said Tuesday that Quentin Tarantino will appear in conversation in a special event at this month s AFI Fest, which will also screen his 2019 film Once Upon a Time in Hollywood. The talk and screening will take place October 23 at the TCL Chinese Theatre, the Hollywood venue where the film [ ]
 
-### J.K. Rowling To Be Subject Of BBC Documentary Examining Her Rise Gender Identity Views
-Tue, 13 Oct 2026 09:49:20 +0000 — https://deadline.com/2026/10/j-k-rowling-bbc-documentary-1237155450/
+### Reese Witherspoon Partners With Mediawan To Buy Hello Sunshine
+Tue, 13 Oct 2026 17:55:49 +0000 — https://deadline.com/2026/10/reese-witherspoon-partners-mediawan-hello-sunshine-1237155916/
 
-The BBC is planning to examine the life and career of J.K. Rowling in a two-part documentary that is likely to spark significant scrutiny. The UK broadcaster has commissioned Rogan Productions (Grenfell: Uncovered) to produce J.K. Rowling (working title), exploring the author s dramatic rise, cultural influence, and contested legacy. The first episode will spotlight the [ ]
+Reese Witherspoon and Paris-based content group Mediawan have partnered to acquire Hello Sunshine from Candle Media. It’s the latest high-profile acquisition for the burgeoning Mediawan group after Chernin Entertainment, Brad Pitt’s Plan B, and See-Saw Films. “Mediawan has built a global, independent studio by putting creators first. That has always been my vision for Hello [ ]
 
-### Marion Cotillard Unveiled As 2026 Marrakech Film Festival Jury President
-Tue, 13 Oct 2026 09:35:00 +0000 — https://deadline.com/2026/10/marion-cotillard-2026-marrakech-festival-jury-president-1237155441/
+### Lucian Piane Dies: Former RuPaul s Drag Race Music Producer Was 46
+Tue, 13 Oct 2026 17:32:11 +0000 — https://deadline.com/2026/10/lucian-piane-dead-rupauls-drag-race-music-producer-1237155822/
 
-Oscar-winning French actor Marion Cotillard has been unveiled as the jury president for the 23rd edition of the Marrakech International Film Festival. Under her guidance, the jury will determine the winner of the Festival’s Étoile d’Or from among the first and second feature films selected for this year’s international competition. “I have been fortunate enough [ ]
+Lucian Piane, a songwriter and music producer known best for his work on multiple seasons of RuPaul s Drag Race, died October 12, according to Los Angeles County medical examiner s office records. He was 46. The online records note Piane died in the street. Piane reportedly was struck by a car Monday morning in Glendale, CA [ ]
 
 ## befores & afters
+
+### Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution
+Tue, 13 Oct 2026 15:49:43 +0000 — https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/
+
+Strategic alliance connects Reallusion’s 3D ecosystem with John Gaeta’s Neo Cinema platform, bringing consistent AI filmmaking to 400 million Connected TVs. Reallusion Inc. , the leader in 3D character generation and real-time animation software, and Escape.AI Media Inc. , the premier Neo Cinema content platform and creator marketplace, today announced a strategic partnership. The multi-year alliance addresses critical generative AI video challenges, including visual inconsistencies, high token costs, and ambiguous IP ownership. Together, the companies establish a robust 3D-to-AI pipeline for professional AI storytellers. Creators using generative AI video frequently encounter shifting character designs and high render costs, while text-generated content faces legal scrutiny regarding copyright eligibility. Reallusion and Escape.AI solve these challenges by using 3D spatial data as a precise control layer. Grounding generative models in human-authored assets ensures frame-to-frame continuity and undeniable proof of original authorship. Reallusion’s Full-Circle 3D Ecosystem: The Structural Engine for AI Under the agreement, Reallusion integrates its full-circle 3D software and asset infrastructure with a 3D-to-AI Video Workflow into the Escape.AI creator ecosystem: Character Creator 5 (CC5) : Enables creators to design custom, fully rigged 3D characters with precise facial blendshapes and high-resolution textures. These base 3D files serve as the original IP foundation that ca
 
 ### Creating the Spinosaurus for The End of Oak Street
 Mon, 12 Oct 2026 07:35:58 +0000 — https://beforesandafters.com/2026/10/12/creating-the-spinosaurus-for-the-end-of-oak-street/
@@ -175,167 +180,167 @@ Practical and digital effects combined. The post Creating the Spinosaurus for Th
 
 ## IndieWire
 
+### Girls Is Back: Lena Dunham and Full Cast to Reunite for Five-Episode Limited Series Revival for HBO
+Tue, 13 Oct 2026 19:12:25 +0000 — https://www.indiewire.com/news/breaking-news/girls-back-lena-dunham-full-cast-reunite-episode-revival-1235221747/
+
+Dunham, Alison Williams, Jemima Kirke, Zosia Mamet, and Andrew Rannells will all reprise their roles a decade after the seminal series' series finale.
+
+### Audiences Want to See Documentaries About Gaza, Israel, and Palestine — Why Are Distributors Still Scared?
+Tue, 13 Oct 2026 18:45:00 +0000 — https://www.indiewire.com/news/analysis/audiences-want-documentaries-gaza-distributors-nervous-naza-no-other-land-1235221493/
+
+It's not just "NAZA" and "No Other Land" that have self-distributed. Docs on both sides of the divide have had trouble being platformed, even as their box office results have impressed.
+
+### The Magician s Nephew Trailer: A Stairway to Narnia as Only Greta Gerwig Could Build It
+Tue, 13 Oct 2026 18:03:50 +0000 — https://www.indiewire.com/news/trailers/narnia-magicians-nephew-trailer-greta-gerwig-netflix-1235221687/
+
+Greta Gerwig's adaptation of the C.S. Lewis fantasy series roars to life — with a little help from Led Zeppelin.
+
+### The Bay Theater in Palisades Village, Closed Since the LA Wildfires, Will Reopen Thanks to Paramount and Rick Caruso
+Tue, 13 Oct 2026 17:47:14 +0000 — https://www.indiewire.com/news/general-news/bay-theater-palisades-village-wildfires-reopen-1235221701/
+
+The Lot, a luxury dine-in theater chain, will operate the new venue with a reopening planned for later this year.
+
+### IndieWire Hires J. Kim Murphy as Film and Media Reporter
+Tue, 13 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/news/general-news/indiewire-hires-j-kim-murphy-film-and-media-reporter-1235221597/
+
+The award-winning journalist previously worked at Variety and TheWrap and will report on indie studios, filmmakers, and the media business.
+
+### 14th Leads 2026 Critics Choice Documentary Award Nominations
+Tue, 13 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/awards/results/critics-choice-documentary-awards-2026-nominations-14th-1235221592/
+
+Ava DuVernay’s “14th" leads nominations for the Critics Choice Documentary Awards happening on Sunday, November 8, 2026 at The Edison Ballroom in Manhattan.
+
+### Sense and Sensibility Review: Daisy Edgar-Jones and George MacKay Suffuse an Unfussy Jane Austen Adaptation with Earthly Sensuality
+Tue, 13 Oct 2026 15:59:58 +0000 — https://www.indiewire.com/criticism/movies/sense-and-sensibility-2026-movie-review-1235221438/
+
+Filmmaker Georgia Oakley sticks to the text to often swoony results in an adaptation that may not compare to Ang Lee's, but has plenty fresh to say about Austen's oft-wrought first novel. Also: Watch out for breakout Esmé Creed-Miles as middle-child Marianne Dashwood.
+
+### Crystal Lake Review: Over-the-Top Kills Succumb to an Underbaked Story in A24 s Friday the 13th Prequel
+Tue, 13 Oct 2026 15:30:00 +0000 — https://www.indiewire.com/criticism/shows/crystal-lake-review-watch-last-two-episodes-only-1235221420/
+
+A new contender for the most maddening use of a penultimate flashback episode emerges in "Crystal Lake," Brad Caleb Kane's Voorhees family origin story that asks where the mother-son killers came from — and answers far too easily, and far too late.
+
+### Meet Terry Matalas, the New King of Sci-Fi TV
+Tue, 13 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/terry-matalas-king-of-sci-fi-tv-visionquest-1235220300/
+
+The showrunner behind “12 Monkeys,” the third season of “Star Trek: Picard,” and the upcoming MCU series “VisionQuest” has been steeped in the genre since childhood, and his care shows in every frame.
+
+### Michael Douglas on His Affair and Legal Battle with Kathleen Turner, and Nearly Landing in Moroccan Jail During Jewel of the Nile
+Tue, 13 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/michael-douglas-kathleen-turner-affair-interview-1235221560/
+
+To celebrate the release of his new memoir, the actor/producer regaled an American Cinematheque crowd with tales of making movies — including the 1985 "Romancing the Stone" sequel, starring a leading lady who wanted him dead.
+
+### Jacob Tierney Created the Smash Hit Series Heated Rivalry’ — Then He Wrote a Book About It
+Tue, 13 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/jacob-tierney-heated-rivalry-book-1235220301/
+
+The “Heated Rivalry” TV creator tells IndieWire about his scriptwriting process, breaks down key scenes, and chats deleted moments with the release of the in-depth script book "I’ll Believe in Anything."
+
 ### Hunger Games and Love Story Producers Nina Jacobson and Brad Simpson to Speak at IndieWire s Future of Filmmaking Summit
 Tue, 13 Oct 2026 00:26:03 +0000 — https://www.indiewire.com/news/events/nina-jacobson-brad-simpson-future-of-filmmaking-summit-1235221516/
 
 The partners behind Color Force will offer their industry insights at our Los Angeles event on October 17.
 
-### There Will Never Be Another Like RJ Mitte : Fellow Actors Remember the Late Breaking Bad Star
-Mon, 12 Oct 2026 22:33:52 +0000 — https://www.indiewire.com/news/obituary/rj-mitte-dead-tributes-1235221547/
-
-The actor and disability advocate best known for playing Walter White Jr. on "Breaking Bad" tragically died at the age of 34.
-
-### A Day in the Life of Jo: Chapter Phaedra Review: A Cosmic and Magnificent Coming-of-Age Movie Defies Expectations at Every Turn
-Mon, 12 Oct 2026 19:50:38 +0000 — https://www.indiewire.com/criticism/movies/a-day-in-the-life-of-jo-chapter-phaedra-movie-review-1235221506/
-
-New York Film Festival: Jacqueline Lentzou’s slim but remarkable second feature reminds us that movies can be anything.
-
-### VisionQuest Review: Marvel s Tedious Bad-Dad Drama Series Ends a Shortsighted Era of MCU TV
-Mon, 12 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/shows/visionquest-review-marvel-mcu-tv-ends-bad-1235221169/
-
-When his missing son reemerges, an AI-powered synthetic super-being (played by Paul Bettany) suffers an existential crisis in another Marvel series that, despite dedicating eight hours to identifying its Vision, struggles to justify its existence.
-
-### Being Heumann Trailer: Siân Heder’s ‘CODA’ Follow-Up Is a Rousing Biopic About a True American Hero
-Mon, 12 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/being-heumann-trailer-sian-heder-coda-follow-up-biopic-1235221409/
-
-The TIFF opener features Ruth Madeley in a star-making performance as the indelible disability rights activist Judy Heumann.
-
-### Sebastian Stan on Batman: Part II, the Political Message of Fjord, and Transforming Himself on Screen
-Mon, 12 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/features/interviews/sebastian-stan-fjord-politics-batman-part-ii-bald-1235221322/
-
-The once and future Avenger tells IndieWire about going bald to play a religious father battling the state in "Fjord."
-
-### Meet the Breakout Talents of the 2026 Fall Film Festivals
-Mon, 12 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/breakout-actors-actresses-2026-fall-film-festivals-1235221084/
-
-From Venice to Telluride, TIFF to NYFF, this year's fall season has introduced (and, in some cases, re introduced) us to some ferocious talents we cannot wait to see more of, and soon.
-
-### Other Mommy Scared Up $27.5 Million with Marketing Better Than the Movie. What Now?
-Mon, 12 Oct 2026 13:30:00 +0000 — https://www.indiewire.com/features/commentary/other-mommy-box-office-viral-marketing-blumhouse-1235221347/
-
-A viral trailer attached to Christopher Nolan’s "The Odyssey" turned Jessica Chastain into a popular horror meme months before Blumhouse’s latest film earned a D+ CinemaScore in theaters.
-
-### Why Seeing Digger in VistaVision Could Change Your Mind About the Tom Cruise Box Office Flop
-Mon, 12 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentary/digger-vistavision-1235221348/
-
-Like "One Battle After Another" and "Bugonia," Alejandro G. Iñárritu's latest provocation was shot in the format Alfred Hitchcock favored. If you're lucky enough to live in one of the five cities screening it in VistaVision, you owe it to yourself and "Digger" to experience it that way while you still can.
-
-### Quentin Tarantino Teaming with Sacha Baron Cohen on West End Play The Popinjay Cavalier
-Mon, 12 Oct 2026 02:14:46 +0000 — https://www.indiewire.com/news/general-news/quentin-tarantino-sacha-baron-cohen-play-popinjay-cavalier-1235221351/
-
-Tarantino will write the script and direct a film inspired by "the grand swashbuckling epics of stage and screen."
-
-### Box Office: NAZA, Documentary About Israel s Attacks on Gaza That Was Too Hot for Distributors, Crosses $500,000
-Sun, 11 Oct 2026 20:52:23 +0000 — https://www.indiewire.com/news/box-office/naza-documentary-israel-gaza-crosses-500k-self-distributed-1235221331/
-
-The self-distributed film has been condemned by the IDF, earned rave reviews, and seems poised to be an Oscar contender.
-
-### The Social Reckoning Bombs with $5.5 Million Opening. Why Did Aaron Sorkin s Facebook Follow-Up Fail at the Box Office?
-Sun, 11 Oct 2026 14:56:54 +0000 — https://www.indiewire.com/news/box-office/social-reckoning-bombs-why-did-aaron-sorkin-facebook-follow-up-fail-1235221307/
-
-Bad reviews, David Fincher's decision not to return, and a story about algorithms, not AI, are partly to blame.
-
 ## The Wrap
 
-### Jimmy Kimmel Hits Back After Trump Calls Him a Loser for Rally Size Crack: Let s Do It Again
-Tue, 13 Oct 2026 04:33:02 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-responds-trump-loser-comment-rallies/
+### Tupac Shakur Murder Trial: Duane Keith Davis Sentenced to 40 Years to Life
+Tue, 13 Oct 2026 19:37:25 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/tupac-shakur-murder-trial-duane-keith-davis-sentenced-to-40-years-to-life/
 
-Jimmy Kimmel mocked Donald Trump after the president blasted him as a loser for making a dig about his rally size. During Monday’s monologue on “ Jimmy Kimmel Live! ,” the comedian addressed Trump’s remarks at a Saturday rally in Clarksville, Tenn., where the president called the late night host a “loser” and “crooked.” This loser, Jimmy Kimmel. What a loser, the president said in a clip aired on Jimmy Kimmel Live! I had just left Texas or somewhere. The place is packed. And maybe it was Ohio, place is packed. He said, Donald Trump had a sparsely attended [rally]. I said, Sparsely attended?! They had to walk thousands of people – they couldn t get into the [event]. These guys are crooked people. They re losers. In response to the call out, Kimmel quipped, Do I really sound like that? Be honest. Of all the things I said about him last week. Of all the many moronic and criminal words and deeds I detailed, that s what bothers him?! Me pointing out the fact that his rallies have empty seats?? Kimmel said. Well, in that case, let s do it again. There were many empty seats at the rally. So many empty seats. The Jimmy Kimmel Live! editors then cut to images of empty seats at Trump s rally. There were even empty seats at the rally where he complained about me saying he had empty seats at the rally, Kimmel said. He keeps claiming the reason there are empty seats in the back and the top is because the people love him so much they make their way down to the front. Isn t it interesting t
+Duane Keffe D Davis was sentenced to 40 years to life Tuesday in a Las Vegas court after his conviction in August for orchestrating the 1996 murder of Tupac Shakur. Davis sentencing comes just after the 30th anniversary of the rapper s drive-by shooting on Sept. 7, 1996. Shakur died from the gunshot wounds six days later. Davis was first arrested and indicted for his involvement in the crime in September 2023. A Nevada grand jury indicted him on one count of murder with a deadly weapon. Davis maintained his innocence and said he invented the story to sell his memoir. He had previously admitted in interviews and in his 2019 memoir, “Compton Street Legend,” that he was in the Cadillac that pulled up alongside Suge Knight’s car during the drive-by shooting that took Shakur’s life. The event was allegedly triggered by a violent feud between West Coast and East Coast hip-hop labels. Clark County Chief Deputy District Attorney Marc DiGiacomo described Davis at the time as the person who “ordered the death” of the hip-hip icon, who was 25 when he was gunned down. I beat the streets, I beat the Feds, and I beat cancer, DiGiacomo quoted of Davis own words during his closing argument according to ABC News . Now, he s trying to beat 12 of you Mr. Davis is attempting to escape responsibility for a crime everybody knows he committed, even him End of the day, hold him accountable for the crime he committed. Davis was also named a defendant earlier this year in a wrongful death lawsuit file
 
-### Selma Blair Posts $20,000 Bail After Being Charged With Second-Degree Assault
-Tue, 13 Oct 2026 02:51:40 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/selma-blair-out-on-bail-charged-second-degree-assault/
+### TV Finally Remembers It s Supposed to Be Fun Commentary
+Tue, 13 Oct 2026 19:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/baywatch-trailer-tv-is-fun-again/
 
-Selma Blair has been charged with second-degree assault following Sunday’s plane incident, which led to her being taken into custody by the New York Port Authority Police Department. The actress, who is best known for “Cruel Intentions” and “Legally Blonde,” posted a $20,000 bail after appearing in Queens Criminal Court Monday evening, per AP News . A representative for Blair did not immediately respond to TheWrap s request for comment. As we previously reported , Blair was being investigated by the FBI after she was taken into custody by the New York Port Authority Police Department late Sunday night due to allegedly injuring two flight attendants and attempting to open an aircraft door mid-flight. “Selma experienced a medical emergency that led to the alleged conduct, her publicist told TheWrap on Monday. Upon landing, she received immediate medical attention and is currently in stable condition. Following the incident, which reportedly left one of the flight attendants hospitalized, a spokesperson for Delta shared that the company had a zero tolerance for unruly or unlawful behavior, as the safety of our customers and crew always comes first. The FBI confirmed Monday that they were investigating the incident involving Blair, noting in a statement that the bureau was responsible for investigating all assaults aboard aircraft. “Yesterday, we were informed by our partners at Port Authority Police Department of a potential assault aboard a flight that arrived into JFK, the spo
+Twenty-six seconds into the first trailer for Fox s Baywatch reboot, a plane crashes into a parasail, dragging two screaming girls into the watery abyss. There s a lot of abs, slow motion and thigh-high swimsuits as the lifeguards literally jump into action. A few seconds later, Stephen Amell s character rides the submerged plane like a kneeboard as his co-worker pulls him on speedboat. It s an insane, extravagant trailer that makes you question what the hell you just watched. And it s exactly what TV s been missing. For the past decade and a half, so many shows have felt like they ve been chasing in the footsteps of Breaking Bad, pushing the envelope of cable, broadcast and later streaming to tell more cinematic stories. More often than not, cinematic has been code for bummer as an increasing number of networks unveiled shows of varying quality about conflicted, navel-gazing antiheroes. TV shows being described as multi-hour movies became such a pervasive trend in the 2010s and early 2020s that BoJack Horseman mocked the description with a tongue-in-cheek letter to TV critics from its showrunner character Flip McVicker in Season 5. But while great storytelling has always existed on television, the joy of the medium has long coincided with its wild swings and borderline insanity. There s a reason why the phrase jumping the shark — used to describe the moment when a show, movie or franchise does something so unhinged that it signals an often permanent decline in quality — orig
 
-### CBS News Slams Ludicrous Report Claiming Lesley Stahl Nearly Quit ‘60 Minutes’ Over Bari Weiss
-Tue, 13 Oct 2026 01:56:33 +0000 — https://www.thewrap.com/media-platforms/journalism/cbs-news-responds-lesley-stahl-nearly-quit-60-minutes-bari-weiss-report/
+### Scarlett Johansson-Produced Assassins Competition Show Greenlit at Peacock
+Tue, 13 Oct 2026 19:03:38 +0000 — https://www.thewrap.com/creative-content/tv-shows/scarlett-johansson-assassins-peacock-greenlit/
 
-CBS News pushed back on a recent report claiming “60 Minutes” star Lesley Stahl threatened to quit the newsmagazine after “extraordinarily contentious” screenings of her latest piece. This is a ludicrous, twisted narrative, a spokesperson for 60 Minutes told TheWrap Monday evening. All ‘60 Minutes’ pieces go through a famously rigorous editorial process—which includes edits from editors. This piece received far fewer edits than most.” The comment coincided with a Monday report from Status , which claimed that Stahl discussed possibly quitting the show after a back-and-forth involving CBS News Editor-in-Chief Bari Weiss and managing editor Charles Forelle. Per the outlet, citing multiple people familiar with the situation, Stahl s story examining the violence Palestinians have faced from extremist Israeli settlers in the West Bank was on track to air early last week. However, Weiss and Forelle are said to have entered the picture late last week to participate in screenings, where the former became very, very hands-on. It s reported that Stahl and leadership clashed over the feedback, including when Forelle reportedly suggested tabling the piece. According to Status, Stahl engaged in an aggressive back-and-forth with leadership and fought to keep the Sunday airdate. They didn’t know if it was going to air because the screenings got so heated, one unidentified insider informed the outlet. Stahl allegedly considered quitting the show over the situation, but did not share these th
+A new competition murder series Assassins will bring more vengeance to Peacock. The streamer has cemented itself in the competition space with Traitors, and this new series from B17 Entertainment, a part of Sony Pictures Television, will expand the streamer s reach in the genre. Scarlett Johansson, Brien Meagher and Rhett Bachner are on deck to executive produce the series. The series is based on the popular social game where players try to secretly eliminate their assigned targets to become the last person standing. From the moment they arrive on set, each player will be assigned a target, but in the Peacock series, every hunter is also the hunted, and no one is ever safe. With shifting alliances and deception, only the most calculating player will survive to win it all, the series logline reads. This marks the first reality series that the movie star has produced. Johansson has previously executive produced Fly Me to the Moon, Eleanor the Great and the upcoming series adaptation Just Cause for Prime Video and The Nanny Diaries Netflix with her production company These Pictures. Since the success of Traitors, several platforms have developed their own murder-themed programs. Disney s upcoming competition series The Mob will feature reality stars and is hosted by Parker Posey. Netflix s Million Dollar Secret premiered in 2025, and one guest must keep the secret that they are holding onto the $1 million cash fund. Peacock s unscripted slate also includes summer hit Love Island
 
-### Kacey Musgraves Buries Kristi Noem With Snarky Clapback in Defense of James Talarico
-Tue, 13 Oct 2026 01:00:09 +0000 — https://www.thewrap.com/media-platforms/politics/kacey-musgraves-disses-kristi-noem-james-talarico-dog-joke/
+### Girls Returns for Limited 5-Episode Run 10 Years After Series Finale With Original Cast
+Tue, 13 Oct 2026 19:00:33 +0000 — https://www.thewrap.com/creative-content/tv-shows/girls-returns-hbo-original-cast-lena-dunham/
 
-Kacey Musgraves had some choice words for Kristi Noem after the former secretary of homeland security dissed her appearance with Texas Democratic candidate for U.S. Senate James Talarico. The Middle of Nowhere singer brought out the candidate during her concert at the American Airlines Center in Dallas on Saturday. The appearance followed Talarico s nearly two-week absence from the campaign trail due to an illness. Noem tweeted a picture of the country singer and the politician, pitting Musgraves against the rising country star Ella Langley. “I’ll take Ella Langley over Kacey Musgraves any day,” tweeted the Republican. “And if I’m choosin’ Texas, I’ll take Ken Paxton over James Talarico.” I don’t think you have a dog in this fight but if you did you would have shot it. https://t.co/bI50bahJZu &mdash; K A C E Y (@KaceyMusgraves) October 12, 2026 Musgraves scorched the conservative politician right back. I don’t think you have a dog in this fight but if you did you would have shot it, the country singer wrote on X. The Grammy winner is a proud Texan, and her latest album paid homage to TexMex and the Mexican-American experience in her home state. Noem served as the governor of South Dakota from 2019 to 2025 and has no political ties to Texas. She does, however, have a reputation for killing her dog. She wrote about killing her 14-month-old puppy Cricket in her 2024 memoir No Going Back: The Truth on What s Wrong With Politics and How We Move America Forward. In the same book, s
+The Girls are back. Ten years after the HBO series following the twenty-somethings ended, Lena Dunham will reunite the original cast for a limited five-episode run on HBO. Can we still call it Girls ? Because we re like old as f k, Dunham asked her co-stars in a social video tied to the announcement Tuesday. The series is set to begin production in summer 2027, a decade after the Season 6 finale. Judd Apatow will return to executive produce the series. Notably, Jenni Konner, who was an executive producer and co-showrunner on the HBO series, will not be back. The reunion will bring back the original four girls, Allison Williams, Jemima Kirke, Zosia Mamet and Dunham as their characters from the hit HBO series with Andrew Rannells also returning. No word on whether Adam Driver, Christopher Abbott or Alex Karpovsky will make an appearance in the limited run. “We always said we would only return to Girls if there was a specific story we were burning to tell. I ve missed these characters, but for a long time I couldn’t quite picture them in the present day, Dunham wrote in a statement. Then, right around my fortieth birthday, they started talking to me in the shower. And, as you may remember, once this fivesome starts talking it’s pretty hard to get them to stop, she added. It’s rare that you get the chance to return to something that changed your life with the gift of hindsight and a whole new level of gratitude and understanding. I love these girls (and boy), our friends at HBO, 
 
-### High Potential Secures Coveted Post-Super Bowl Spot on ABC and Disney+
-Tue, 13 Oct 2026 00:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/high-potential-super-bowl-2027-abc-disney-plus/
+### James McAvoy Remembers Band of Brothers Co-Star Bullying Him on Set
+Tue, 13 Oct 2026 18:59:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/james-mcavoy-band-of-brothers-bullied-hbo/
 
-High Potential is getting a big boost thanks to the NFL. An episode of the Kaitlin Olson-starring drama will air on ABC and Disney+ after Super Bowl LXI on Sunday, Feb. 14, 2027. The third season of High Potential will premiere in early 2027. Outside of this Valentine s Day drop, new episodes will debut Tuesdays on ABC and will be available to stream the following day on Hulu. The comedy s Super Bowl placement is proof of how well the series is performing as broadcasters typically only schedule their best-rated or most highly anticipated shows after the Super Bowl. High Potential finished the 2025-2026 broadcast season as the No. 1 show among adults aged 18- to 49-years-old, the key demographic for advertisers. It was also the No. 3 show in terms of total viewers over 35 days of viewing on ABC, Hulu, Hulu on Disney+ and digital platforms, securing over 16 million viewers during this time period. High Potential follows a single mom with an exceptional mind and a knack for solving crimes. In addition to Olson, the series stars Daniel Sunjata, Javicia Leslie, Deniz Akdeniz, Amirah J, Matthew Lamb and Judy Reyes. The drama is produced by 20th Television and is based on the French series “Haut Potentiel Intellectuel (HPI). Drew Goddard created the series in the U.S. Goddard and Sarah Esberg executive produce the show for Goddard Textiles alongside Nora and Lilla Zuckerman and Olson. Andrea Massaro, also of Goddard Textiles, serves as a co-executive producer. While ABC and Disney+ 
+James McAvoy remembers being bullied on his first day shooting “Band of Brothers.” While appearing on Monday’s “Watch What Happens Live,” McAvoy was asked by host Andy Cohen about his time shooting the beloved HBO series. The actor appears only briefly, but because he got some meat on his episode, he ended up being the focus of some bullying on set. The role was also one of his first jobs after drama school. My first day on set, there was like a ton of actors, McAvoy said. It was one of those scenes with everybody in it and we’re all in a bar. And I had a scene. You can watch the moment yourself in the video below. James McAvoy was bullied on set of Band of Brothers Will he name names? #WWHL pic.twitter.com/2ZZDSTjEmX &mdash; Watch What Happens Live! (@BravoWWHL) October 13, 2026 He added: And they were all pissed and I come in for one episode and I’ve got like an arc and scenes. I’ve got tons of lines in this. One of the guys in that picture decided to bully me on my first day as a professional actor out of acting school. He got him and his buddies to just stand point at me and laugh at me for like three minutes. McAvoy kept his lips sealed about who did the bullying but said two actors on the show — Dexter Fletcher and Robin Laing — pulled him aside and invited him to hang out with them while filming. Cohen and fellow guest Peter Krause tried to guess who the bully was, but McAvoy wouldn’t confirm any of their guesses. “Band of Brothers” is an HBO limited series that aired 
 
-### Ben Affleck Calls Justice League Reshoots The Low Point of My Career
-Mon, 12 Oct 2026 23:51:54 +0000 — https://www.thewrap.com/creative-content/movies/ben-affleck-calls-justice-league-reshoots-low-point-video/
+### Paul McCartney Shares the Hilarious Beatles Biopic Inaccuracy He Can’t Get Over: ‘Don’t Do This!’
+Tue, 13 Oct 2026 18:21:24 +0000 — https://www.thewrap.com/culture-lifestyle/culture/good-hang-paul-mccartney-beatles-movies-casting-paul-mescal-height-video/
 
-Like any entertainer who s spent decades in Hollywood, Ben Affleck s career as an A-list actor and director has had its ups and downs. But when considering the low point of his work, the Animals filmmaker and former Batman has a clear answer: the process of shooting (and reshooting) Justice League. Boy, that was s tty, (Zack Snyder) being taken off that movie and the reshoots we did, Affleck told Josh Horowitz on his podcast Happy Sad Confused on Monday. If you want the low point of my career, it was that . Snyder, the architect of the early DCEU (the interconnected DC Comics cinematic universe that spanned from 2013 s Man of Steel to 2023 s Aquaman and the Lost Kingdom ), directed Affleck in his debut as Bruce Wayne/Batman in Batman v. Superman: Dawn of Justice. Snyder was set to direct the crossover event film Justice League as his third entry in the franchise, but he departed from that project following disputes with leadership and the death by suicide of his 20-year-old daughter, Autumn Snyder. Somebody s death by suicide is, that eclipses everything, Affleck said. And then the way in which that was, I thought, frankly, used as an excuse, I just thought was one of the s ttiest I d ever seen, you know? And it was so gross, and then the whole environment and vibe, much of which I wasn t privy to, but that I sort of heard about secondhand in terms of Ray (Fisher) and Gal (Gadot) and other people s experiences, it was just like, Wow. This is about as gross as it gets.' You ca
+Paul McCartney shared the one historical inaccuracy he cannot get past in Apple s forthcoming four Beatles biopic films , revealing to Good Hang podcast host Amy Poehler that he s texted director Sam Mendes telling him, Don t do this! McCartney appeared as a guest on the Tuesday, Oct. 13 episode of Good Hang. During their conversation, Poehler asked McCartney who between him and his fellow Beatles bandmates, John Lennon, George Harrison and Ringo Starr, was the tallest. McCartney was quick to inform her, We were all the same height. You know I ve got a thing about that, do you? McCartney then asked a giggling Poehler, who told him to tell her what he meant. The legendary musician explained, We were all the same height. Ringo was a bit smaller, and if you look at photos, we re all the same height. This became an issue when director Sam Taylor-Johnson directed her 2009 biopic about Lennon, Nowhere Boy. That film starred Aaron Taylor-Johnson as Lennon, who was taller than co-star Thomas Brodie-Sangster, who portrayed McCartney in the biopic. My character is kind of wimpy, smaller than John. John knocks me to the floor, and it s like, Sam, this is not true!' McCartney recalled. Her only explanation, bless her because she s still a good friend, she said, This is a movie. It s not a documentary. I thought, Well, I don t like that explanation.' But I couldn t do anything because she [by then] she d made the film, McCartney continued. There was I, little Paul, you know? John, the gre
 
-### Ego Nwodim Shades Shane Gillis SNL Joke About Women s Gym Attire With Pointed Selfie
-Mon, 12 Oct 2026 23:18:09 +0000 — https://www.thewrap.com/creative-content/tv-shows/ego-nwodim-shades-shane-gillis-snl-monologue/
+### Reese Witherspoon Teams With Mediawan to Buy Back Hello Sunshine
+Tue, 13 Oct 2026 18:06:46 +0000 — https://www.thewrap.com/industry-news/business/reese-witherspoon-buys-back-hello-sunshine-candle-media-mediawan-partners/
 
-Ego Nwodim clapped back at Shane Gillis with a gym mirror selfie Monday after the comedian claimed that women dress like whores in workout wear during his Saturday Night Live monologue. Saturday was the comedian and formerly fired cast member s third time hosting the late night sketch show. During his monologue, which was essentially a seven-minute stand-up set, Gillis joked that he had hit a fat rock bottom, which forced him to start working out again. “I haven’t been to the gym in so long, I didn’t know women just dress like whores now?” he said. “Look, I’m sorry, there’s no other way to describe [it]. Have you seen it? I’ve seen it. The shorts. Have you seen the shorts? he said. Those neon, they’re like artificial bait-colored. And the wrinkles go around the cheeks and all combined at the butthole. And don’t look, you’re not allowed to look. For real, don’t look because they are filming. I’m in the background of like 10 TikToks right now.” This exchange sparked much criticism, with people online calling Gillis a misogynist for his degrading comments toward women. TheWrap has reached out to Gillis for comment. Former SNL star Nwodim took to her Instagram story, posing in her athletic leggings and matching long sleeve workout shirt, to fire back at the comedian. Whore reporting for duty, she wrote on the image with only a small sliver of her midriff showing. She followed it up with a picture of her eggs Benedict, writing getting my 30 grams of protein in after heauxing. Nwod
+Reese Witherspoon is taking Hello Sunshine back. The actress and producer is set to buy back her media company from Candle Media in partnership with Mediawan. Financial terms for the sale were not immediately disclosed. “Mediawan has built a global, independent studio by putting creators first. That has always been my vision for Hello Sunshine,” said Witherspoon, founder of Hello Sunshine. “I’m investing alongside Mediawan and joining Pierre-Antoine Capton and his teams because this is the perfect home for this new media landscape. It’s also a homecoming. Peter Chernin and Jesse Jacobs believed in Hello Sunshine from day one. I’m deeply proud of what our incredible team has built, and grateful to Blackstone and Candle Media for their partnership and unwavering support. The best is still ahead.” Hello Sunshine co-founder Seth Rodsky will join the Board of the company alongside Witherspoon and representatives from Mediawan following the acquisition. The deal comes after Witherspoon first sold Hello Sunshine to Kevin Mayer and Tom Staggs Candle Media for a reported $900 million . Moelis & Company served as financial advisor to Candle Media. Candle Media and Hello Sunshine were represented by Kirkland & Ellis. Reese Witherspoon was represented by Latham & Watkins. Mediawan was represented by Gibson Dunn. The Mediawan partnership puts Hello Sunshine among its lineup of global creative companies, giving it access to international formats to mine for future programming. For Mediawan
 
-### RJ Mitte Remembered: Bryan Cranston, Dean Norris, Marlee Matlin and More Pay Tribute
-Mon, 12 Oct 2026 23:08:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/rj-mitte-dies-celebrity-tributes/
+### Greta Gerwig’s ‘Narnia: The Magician’s Nephew’ Gets Spellbinding First Trailer
+Tue, 13 Oct 2026 18:02:02 +0000 — https://www.thewrap.com/creative-content/movies/narnia-the-magicians-nephew-trailer-netflix/
 
-Dean Norris, Marlee Matlin and several other celebrities took to social media to pay tribute to Breaking Bad star and disability advocate RJ Mitte, who died by suicide Monday. The actor, who had cerebral palsy, was 34. Oh my God! Was working just found out about RJ, Norris, who played Mitte s on-screen uncle Hank Schrader in Breaking Bad, wrote on X Monday. I am heartbroken. Though RJ didn’t play my TV son, I always looked out for him as a young kid on set. He added: He was a sweetheart of a young man and will be greatly missed. This is so heartbreaking, I can’t believe it. Thinking of him and his family. Bryan Cranston, who played Mitte s onscreen father Walter White, followed suit with his own tribute Monday evening, sharing he was in deep despair over his co-star s passing. We were texting each other just a few weeks ago figuring out when we could meet for lunch, Cranston wrote. I don’t know if that lunch would have changed his future… But I do know that I loved him, and thoroughly enjoyed being with him throughout the years on the series, and after the spotlight on Breaking Bad dimmed…I’ll miss you, son. Matlin, who worked with Mitte on ABC Family s Switched at Birth, expressed a similar sentiment, writing on X, My heart is shattered. There will never be another like RJ Mitte. You will always have a place in my heart. RIP. As we previously reported , Mitte, who notably starred as Walter White Jr. on the hit AMC drama “Breaking Bad,” died Monday at the age of 34. Mitte s r
+Greta Gerwig’s “Narnia: The Magician’s Nephew” is nearly here. The lavish adaptation of C.S. Lewis’ “The Chronicles of Narnia,” starring Emma Mackey, Carey Mulligan, Ciarán Hinds, Daniel Craig and Meryl Streep as the voice of Aslan, arrives in theaters on February 10, 2027, before premiering on Netflix on April 2, 2027. And we’ve got the very first trailer for the new project. Watch it below. “Narnia: The Magician’s Nephew” is perhaps the most hugely anticipated Netflix original movie ever. Not only is it Gerwig’s follow-up to the $1.44 billion-grossing, Best Picture Academy Award-nominated “Barbie,” but it’s an adaptation of the sixth book in Lewis’ beloved “Chronicles of Narnia” book series. It’s the first time this volume of the story has been adapted and was part of a 2018 agreement between Netflix and the C.S. Lewis Company to produce new adaptations of the British author’s work. It will also be the first major theatrical release from Netflix, which up until now had limited theatrical runs, mostly for awards consideration, or special event releases like last year’s “KPop Demon Hunters” sing-along weekends. The film will begin its rollout with Imax-exclusive screenings beginning on February 10, before going wide on February 12, and hitting Netflix on April 2. Netflix describes the movie as “a sweeping adventure that invites dreamers of all ages to experience the creation of Narnia.” (Chronologically, “The Magician’s Nephew” is the first story in the series.) Up until now,
 
-### Trump Posts Fake Denzel Washington Endorsement Calling President a Great Friend
-Mon, 12 Oct 2026 21:59:51 +0000 — https://www.thewrap.com/culture-lifestyle/culture/trump-posts-fake-denzel-washington-quote/
+### Morning Joe Tells Trump to Stop Bowing Down to Putin: Start Doing Your Job
+Tue, 13 Oct 2026 17:01:55 +0000 — https://www.thewrap.com/media-platforms/journalism/morning-joe-trump-putin-russia-oil-deal-video/
 
-Donald Trump has always loved rubbing elbows with Hollywood elite, and he has a habit of surrounding himself with people who love him. So when a quote from Denzel Washington praising the president popped onto his radar Monday morning, it s no surprise that Trump swiftly posted a screengrab of the quote to his Truth Social page . The problem? It was fake. “Not real,” Alan Nierob, PMK Entertainment president told The Washington Post in an email statement later Monday. “No idea where it came from.” At the time of publication, the social media post, which praised Trump as a great friend while applauding his political leadership, garnered over 15,000 likes, 4,200 reposts and 1,300 comments. I’ve worked with a lot of people in my life, and I’ve never met anyone braver, smarter, or who cares more about America than Donald Trump, the fake quote, posted by Trump, read. He’s a great friend and an even better president. I’m proud to be a steadfast supporter, and I’ll never apologize for it. The quote was attached to a poll from social media user Red Eagle Updates asking, Do you agree with Denzel? According to fact-checking website Snopes , the quote has circulated before and been falsely attributed to other A-list entertainers, including Matthew McConaughey and Mick Jagger, The Washington Post reported. In addition to shutting down the veracity of the quote, Washington rep Nierob told the Post that he had no idea whether the actor had even met the president. Representatives for the Whit
+Morning Joe host Joe Scarborough slammed President Trump over his plan to import diesel fuel from Russia, telling him Tuesday to stop bowing down to Russian President Vladimir Putin and start doing your job. When you re defending Vladimir Putin, an ex-KGB agent who is committing war crimes by the day, I m not sure how you sleep at night, Scarborough said, adding, This phenomenon, though, has historical parallels. It was 89 years ago this month, in October 1937, that the former King of England walked up the steps of Adolf Hitler s mountain retreat in Bavaria. The Duke of Windsor had given up the throne less than a year earlier, but he toured German factories, inspected the SS and was photographed greeting the Führer. Britain aristocrats like the Astors and Lord Halifax thought Hitler was a man they could do business with. Does that sound familiar? Scarborough continued. History remembers them now as morally vacuous opportunists who looked at a tyrant who was devouring his neighbors. The only thing they saw? A business partner. The parallels with Trump are too on point. Scarborough went on to push back against Trump s insistence that his Russian deal will lower gas prices in America. It won t. The first shipment is only about 2.2 million barrels, and America burns through more than that every day, the Morning Joe host explained. It s not going to lower gas prices in America, but it will help Putin kill innocents in Ukraine, a country Trump has always hated. You can check out th
 
-### Spectrum Chief Commercial Officer Adam Ray, Chief Marketing Officer Sharon Peters to Exit
-Mon, 12 Oct 2026 21:59:24 +0000 — https://www.thewrap.com/industry-news/business/spectrum-chief-commercial-officer-adam-ray-chief-marketing-officer-sharon-peters-exiting/
+### NCIS OGs Mark Harmon and Michael Weatherly to Reunite on Origins Spinoff
+Tue, 13 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/ncis-reunion-mark-harmon-michael-weatherly-gibbs-tony-origins-cbs/
 
-Spectrum s Chief Commercial Officer Adam Ray and Chief Marketing Officer Sharon Peters will exit the company at the end of the year as part of a restructuring. In an email obtained by TheWrap, Spectrum Chief Operating Officer Nick Jeffery said the simpler, flatter, operating structure would allow it to get closer to our customers, to move faster with fewer layers, and to focus on our two biggest priorities – returning to core Internet growth and improving customer service. The move comes as Spectrum s parent company Charter Communications is looking to exceed $1 billion in cost savings after closing its $34.5 billion merger with rival Cox in August and faces an increasingly challenging competitive environment. I am increasingly convinced that our unmatched scale in broadband internet, our distinctive video assets and attractive mobile offer are market advantages, Jeffery said. However, in recent years we have failed to marshal those advantages into a winning strategy and have underperformed the markets, and our own expectations. Our new organizational structure means we can move faster, be clearer about who is accountable, and more quickly fix the things that get in the way of our customers and our people, he added. We have a huge opportunity in front of us. I am determined that we will deliver The Great Cable Comeback. Now we need to go after it and I’m excited to get started with all of you. Ray has spent over 20 years at Spectrum in increasingly senior roles across sales a
+NCIS legends Mark Harmon and Michael Weatherly will reunite on screen for the first time in a decade. The actors, who play Leroy Jethro Gibbs and Tony DiNozzo, will come together on spinoff series NCIS: Origins this October, part of their respective return storylines on the CBS franchise. The reunion will take place during the Oct. 20 episode of Origins, when Gibbs returns to the agency s D.C. headquarters to enlist the help of new director Tony after Gibbs was shot by assailants in the Origins Season 3 premiere — and the bad guys promised to go after someone else from the character s past next. Watch a sneak peek for the episode below: View this post on Instagram A post shared by The NCISverse (@ncisverse) The reunion comes as both Harmon and Weatherly take on big on-screen roles in the franchise for the first time in years. Harmon, an executive producer and narrator on Origins, is set to appear in every episode of the 10-installment third season as part of a present-day mystery tied to his Camp Pendleton days in the 90s — which is chronicled on the main Origins storyline with Austin Stowell in the role of Gibbs. Meanwhile, Weatherly was tapped for an extended arc on NCIS that the Season 24 premiere revealed involves him taking on the role of NCIS director. Co-showrunner Steven D. Binder revealed the season-long arc might extend beyond this season, and the decision is up to Weatherly. We’re having a ton of fun having him there. It’s working out great. We’ll see where it goes
 
 ## Collider
 
-### '9-1-1' Season 9 Recap: What To Remember Before the ABC Procedural Returns for Season 10
-Tue, 13 Oct 2026 12:00:11 GMT — https://collider.com/9-1-1-season-9-recap-before-season-10/
+### Robert Pattinson's A24 Thriller Is Officially Being Pulled From Over 600 Theaters
+Tue, 13 Oct 2026 19:21:08 GMT — https://collider.com/robert-pattinson-a24-thriller-removed-from-600-theaters/
 
-This week, 9-1-1 will be hitting a major milestone with the premiere of its tenth season. After many years of watching the first responders save lives and deal with unforeseen large-scale emergencies, last season was one of growth and transition. After the devastating loss of Bobby Nash ( Peter Krause ) in Season 8, the hit procedural's ninth season saw the extended 118 slowly healing from their grief and determining how to best move forward.
+One of the things we love most about Robert Pattinson is how he chooses whatever the heck he likes. His characters are quite often detestable and stand-offish, even Bruce Wayne at times, and he doesn't seem like he'd be fun to go for a coffee with. Well, his newest film has taken that approach into the world of true crime television, with Pattinson playing one of the most recognizable faces in American investigative journalism. Sadly, despite great reviews, the film's theatrical run is already beginning to shrink.
 
-### Gerard Butler's Top-Rated Action Thriller Officially Flies Onto Free Streaming
-Tue, 13 Oct 2026 12:00:11 GMT — https://collider.com/gerard-butler-plane-streaming-free-tubi-october-2026/
+### HBO Officially Revives 'Girls' With Lena Dunham Returning
+Tue, 13 Oct 2026 19:17:21 GMT — https://collider.com/hbo-girls-season-7-revival-original-cast-returning/
 
-2026 has been a relatively quiet year for Gerard Butler , who didn’t make much of a splash with his first feature film of the year, Greenland 2: Migration . The original Greenland film, which was released in 2020, was widely well liked by Butler’s many fans, but the sequel failed to live up to expectations. Worst yet, Warner Bros. invested $90 million into the making of Greenland 2: Migration , which was proven to be a horrible investment when the film grossed only $45 million at the box office, making it one of the biggest bombs of the entire year. Butler will almost surely return to box office glory next year when he reprises his role as Stoick in the live-action sequel to How to Train Your Dragon . Cate Blanchett is also returning as Valka in the film.
+HBO got off to a hot start earlier this year with the second season of The Pitt , the hit HBO medical drama starring Noah Wyle . Wyle spent years recurring as a doctor on ER , and that fame carried over and has helped make The Pitt one of the most-watched shows of the last two years on HBO. The platform has also found success this year with not one, but two Game of Thrones spin-offs, A Knight of the Seven Kingdoms and House of the Dragon . HBO debuted the first season of A Knight of the Seven Kingdoms earlier this year, and there was such little doubt that the show was going to be a hit that it was renewed for Season 2 before an episode ever hit the air. Season 2 is expected to stream sometime in the first half of 2027.
 
-### 8 Netflix Horror Shows With No Bad Episodes, Ranked
-Tue, 13 Oct 2026 11:52:11 GMT — https://collider.com/netflix-horror-shows-no-bad-episodes-ranked/
+### ‘Evil Dead’s Most Underrated Chapter Is This 99% Rotten Tomatoes Horror Masterpiece
+Tue, 13 Oct 2026 18:39:11 GMT — https://collider.com/ash-vs-evil-dead-best-chapter-bruce-campbell/
 
-Netflix's horror catalog is deep, and Mike Flanagan is responsible for a suspicious amount of the good stuff. Four of the eight shows on this list came out of his deal with the streamer, which says a lot about what one filmmaker can do when a platform hands him the keys and lets him adapt whatever classic literature he's currently obsessed with. The rest of the lineup proves Netflix didn't put all its scares in one basket, though.
+The “cabin in the woods” trope is time-honored in horror, most notably cropping up in Sam Raimi ’s Evil Dead franchise. He and his lifelong friend, Bruce Campbell , created a franchise that would span decades, long after the iconic Ash Williams would hang up his chainsaw. Evil Dead started as a humble independent venture that very few believed in and has gone on to develop into a big-budget Hollywood blockbuster event.
 
-### The 10 Greatest Sword-and-Sandal Epics of All Time, Ranked
-Tue, 13 Oct 2026 11:51:11 GMT — https://collider.com/best-sword-and-sandal-epics-all-time-ranked/
+### ‘NCIS: Origins’ Crossover Officially Reunites 2 Fan-Favorite Stars
+Tue, 13 Oct 2026 18:39:00 GMT — https://collider.com/ncis-origins-crossover-mark-harmon-michael-weatherly-reunion/
 
-Sword-and-sandal epics are a special subgenre . Though the term originated to describe the Italian peplum films made in the '50s and '60s, it's been more generally applied to any of the epic films set in ancient times that often have an emphasis on bloody battle. They can be biblical, historical or even mythological, which means the line drawn between them and sword-and-sorcery movies can be as hard to define as those drawn in the sands of their battle scenes.
+It's a season of returns in the NCIS franchise this year. LL Cool J 's Sam Hanna is back in action on NCIS: New York , after stints on Los Angeles and New Orleans . Michael Weatherly is back as Tony DiNozzo on the NCIS flagship, after a decade away. And NCIS: Origins , after two seasons of narration from Mark Harmon 's present-day Leroy Gibbs, features the former NCIS star back in the flesh in a season-long arc. Now, two of those characters are set to reunite after a lengthy absence.
 
-### 6 Short Story Collections That Have Aged Like Fine Wine
-Tue, 13 Oct 2026 11:38:11 GMT — https://collider.com/best-short-story-collection-books-hemingway-bradbury-jackson/
+### Kill Jackie: 7 Assassins Sold Catherine Zeta-Jones on the Role | Set Stories
+Tue, 13 Oct 2026 18:15:12 GMT — https://collider.com/video/kill-jackie-7-assassins-sold-catherine-zeta-jones-on-the-role-set-stories/
 
-For writers, a short story collection offers an opportunity to showcase their range, experiment with form, and explore thematic connections through recurring motifs and linked narratives. For readers, it provides a chance to experiment with unfamiliarity and connect with a writer's ideas in a more concentrated way than a novel allows . But there's a difference between a collection that reads like a cohesive body of work and one that simply pulls together previously published stories. The writers who get it right, refining their voices and building thematic resonance across individual narratives, often produce collections that become the most enduring achievements of their careers.
+Catherine Zeta-Jones reveals why bringing her Welsh heritage to Prime Video's Kill Jackie made the role of Jackie Price especially personal, from performing in her natural accent to an emotional homecoming while filming in Wales.
 
-### Chris Pratt's Action-Packed 'John Wick' Replacement Officially Makes Major Streaming Comeback
-Tue, 13 Oct 2026 11:30:12 GMT — https://collider.com/chris-pratt-john-wick-replacement-wanted-streaming-success-starz-october-2026/
+### Alan Ritchson’s New ‘Reacher’ Replacement Officially Removed From 2,500 Theaters
+Tue, 13 Oct 2026 18:06:25 GMT — https://collider.com/runner-alan-ritchson-action-movie-removed-from-2500-theaters/
 
-Years before the John Wick franchise was birthed, another comic book-inspired action movie featuring a secret society of assassins was released to incredible box-office success and positive reviews. There was talk of a sequel, but none was produced. Years later, the film has developed a strong cult following, while the John Wick franchise has emerged as something of a cultural sensation with more than $1 billion in global box-office revenue. The 2008 movie is witnessing another streaming resurgence as its 20th anniversary nears and fans of the John Wick franchise await its fifth installment .
+After a so-so run at the box office, Alan Ritchson is all set to debut his new action movie on home turf — home video. Ritchson has emerged as one of the biggest streaming stars of his generation, thanks to a starring role in Prime Video's blockbuster action series Reacher , which recently concluded its fourth season with record viewership and near-unanimous praise. Earlier this year, Ritchson starred in the sci-fi action movie War Machine , which emerged as one of Netflix's biggest-ever hits and is all set to get a sequel. Despite his popularity at home, Ritchson has yet to deliver a big-screen hit. His two theatrical releases this year — Motor City and Runner — played well with their target audiences, but didn't break out at the box office. While Motor City has found some success on PVOD in recent weeks, now it's Runner 's turn.
 
-### 10 Nearly Perfect Western Shows, Ranked
-Tue, 13 Oct 2026 11:18:12 GMT — https://collider.com/nearly-perfect-western-shows-ranked/
+### ‘Narnia’ Officially Returns With First ‘The Magician’s Nephew’ Trailer
+Tue, 13 Oct 2026 18:01:08 GMT — https://collider.com/narnia-the-magicians-nephew-trailer-netflix-greta-gerwig/
 
-The Western continues to make waves with modern viewers, whether in the form of new installments like the Yellowstone Universe or by revisiting older material. Cowboys, outlaws, lawmen, and pioneers make up the mythic Old West, but the genre has extended far beyond even the 19th century . Whether you prefer old-fashioned horse operas or neo-Westerns, we've put together some shows that it's about time you revisit.
+For the first time, you'll be able to see where The Chronicles of Narnia began, on the big screen. Narnia: The Magician's Nephew is coming to theaters next year, and we finally have our first look at the beginnings of C.S. Lewis ' fantastical world. The movie's first trailer is here, showing off the astonishing origins of Narnia, and a lovingly recreated 1950s England that might seem almost as fantastical to modern eyes.
 
-### 'Goodfellas' Meets 'The Big Short' in Margot Robbie's Near-Perfect Streaming Hit
-Tue, 13 Oct 2026 11:04:11 GMT — https://collider.com/wolf-of-wall-street-margot-robbie-streaming-paramount-plus-october-2026/
+### 14 Years Later, Netflix's Emotional 5-Part Thriller Remains a Perfect Weekend Binge
+Tue, 13 Oct 2026 17:59:25 GMT — https://collider.com/the-hunger-games-perfect-thriller-series/
 
-Martin Scorsese has made so many movies set in the world of organized crime that it’s practically mandatory to single out those he’s made that don’t fit into that environment. Movies like Goodfellas , Casino , and The Irishman tell the stories of real criminals in the world of the mafia, often relating their ambitions, insecurities, and desires in the words of the actual people involved. In 2013, he veered away from that subject matter to direct The Wolf of Wall Street , using the template of his previous films to explore the world of white-collar crime. The titular wolf is Jordan Belfort ( Leonardo DiCaprio ), an investment banker who runs a massive pump-and-dump scheme to effectively con investors out of their money, riding a wave of luxury that puts other Scorsese protagonists to shame.
+No matter how many years have passed, there is one franchise that continues to deliver. The 2012 adaptation of Suzanne Collins ’ YA dystopian novel resonates when all others in the genre have faded into obscurity. The Hunger Games triumphs because of its devotion to social commentary more relevant than ever. Jennifer Lawrence portrays Katniss Everdeen, an impoverished teenager in District 12 of Panem. Laboring under a fascist dictatorship, Katniss struggles to provide for her family.
 
-### Quentin Tarantino’s $25M Cult Horror Classic Officially Rises From the Grave on Free Streaming
-Tue, 13 Oct 2026 11:00:12 GMT — https://collider.com/quentin-tarantino-from-dusk-til-dawn-streaming-free-pluto-tv-october-2026/
+### Christopher Nolan’s ‘The Odyssey’ Officially Sets New Box Office Record 3 Months After Release
+Tue, 13 Oct 2026 17:58:37 GMT — https://collider.com/the-odyssey-biggest-international-box-office-korea-101-million/
 
-Quentin Tarantino will live on forever as one of the most polarizing filmmakers of all time, but one of the few movies that he starred in and didn’t direct is easier to watch than ever. For the first time since 2019, Tarantino fans have a new movie to be excited about. We’re talking, of course, about The Further Mis-Adventures of Cliff Booth , which is a sequel to 2019’s Once Upon a Time… in Hollywood . Brad Pitt is returning to star as Cliff Booth in the film, but Leonardo DiCaprio is not expected to reprise his role as Rick Dalton. The Further Mis-Adventures of Cliff Booth is coming to IMAX in November before receiving a global release on Netflix in December. Tarantino did not direct the film, but he did write the script and enlisted David Fincher ( Se7en , The Social Network ) to direct.
+There's no doubt that the return of Tom Holland 's Friendly Neighborhood hero in Spider-Man: Brand New Day has defined the 2026 summer box office. Breaking box office records on its very first day on screens, the latest MCU installment has been unstoppable in its conquering of many major milestones, most notably overtaking Star Wars: The Force Awakens to become the highest-grossing film of all time domestically . But the so-called " best Spidey adventure in 20 years " hasn't been the most enduring of the summer titles.
 
-### Kate and Rooney Mara Open Up About Their Unprecedented First Movie Together
-Tue, 13 Oct 2026 11:00:12 GMT — https://collider.com/bucking-fastard-rooney-mara-kate-mara-interview/
+### 6 Genuinely Perfect HBO Miniseries, Ranked
+Tue, 13 Oct 2026 17:58:11 GMT — https://collider.com/perfect-hbo-miniseries/
 
-Oscar-nominated writer and director Werner Herzog returns to narrative filmmaking this year with Bucking Fastard , a drama about two lives inextricably intertwined, starring real-life sisters Kate Mara ( Friendship ) and Rooney Mara ( Women Talking ). The feature celebrated its Canadian premiere at the Toronto International Film Festival , where Collider’s Perri Nemiroff had the privilege of speaking with the cast about their work on the film, and in particular, the Rooney sisters' first-ever performances as scene partners.
+The thrill of a miniseries is that it can tell a complete story within the confines of a single series. A great miniseries leaves you wanting more, yet satisfied nevertheless. One of the leading providers of quality miniseries has been HBO . The premium network took the mantle at the turn of the century, telling larger and grander stories that couldn't be told on network television.
 

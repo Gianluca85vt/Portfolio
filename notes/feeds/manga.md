@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-13T12:10:19.844Z
+# Manga — harvested 2026-10-13T19:57:02.636Z
 
 ## Anime News Network
 
-### Dragon Ball Super's NYCC Pannel Brings the Show's Voice Actors and a (Not Exactly) New Episode
-Tue, 13 Oct 2026 07:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/dragon-ball-super-nycc-pannel-brings-the-show-voice-actors-and-a-new-episode/.242707
+### Hirayasumi Anime Promises a Cute Slice of Ordinary Life
+Tue, 13 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-13/hirayasumi-anime-promises-a-cute-slice-of-ordinary-life/.242705
 
-<i>Dragon Ball Super: Beerus</i> is basically a recut of the original <i>Dragon Ball Super</i> series with better animation.
+Keigo Shinzō's award-winning manga's soft line work and rounded designs, along with the watercolor backgrounds of its cover art, translate perfectly to animation.
 
-### Voice Actor Manaka Iwami Announces Marriage, Birth of 1st Child
-Tue, 13 Oct 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-13/voice-actor-manaka-iwami-announces-marriage-birth-of-1st-child/.242781
+### Glacier Bay License Oedo-chan of Moguraya, A Vase of Life, Faraway Blue, More Manga
+Tue, 13 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/glacier-bay-license-oedo-chan-of-moguraya-a-vase-of-life-faraway-blue-more-manga/.242787
 
-Voice of <i>Oshi no Ko's</i> Akane Kurokawa married partner outside industry
+Also: <cite>All I Can Do</cite>, <cite>The Dovecote Express</cite>
 
-### Junji Itō's 'The Hanging Balloons' Short Manga Gets Thai Film
-Tue, 13 Oct 2026 06:32:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/junji-ito-the-hanging-balloons-short-manga-gets-thai-film/.242777
+### The Importance and Influence of Global Manga is Not Slowing Down!
+Tue, 13 Oct 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/the-importance-and-influence-of-global-manga-is-not-slowing-down/.242744
 
-Toei, Thailand's 13 Studio to co-produce film by Thai director Taweewat Wantha
+Yuta Momiyama of Manga Plus, Nobuhiko Muranaka of Manga Up, and Yuta Hiraoka of K Manga answered questions about the growing global interest in Japanese manga.
 
-### Hirayasumi Anime Announces 5 More Cast Members
-Tue, 13 Oct 2026 05:04:01 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/hirayasumi-anime-announces-5-more-cast-members/.242776
+### Hands-on With Yu-Gi-Oh! Tag Force GX Special
+Tue, 13 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/hands-on-with-yu-gi-oh-tag-force-gx-special/.242741
 
-Daisuke Namikawa, Yōko Hikasa, Yume Miyamoto, Yūichirō Umehara join cast with TV announcer Yūko Naitō narrating
+This revamped release of <i>Yu-Gi-Oh! Tag Force GX</i> comes with added scenes, updated animation, and English voice acting.
 
-### Attack on Titan Musical Starts World Tour in Singapore Next April
-Tue, 13 Oct 2026 04:25:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/attack-on-titan-musical-starts-world-tour-in-singapore-next-april/.242763
+### Manga Creator Masako Watanabe Dies at 97
+Tue, 13 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/manga-creator-masako-watanabe-dies-at-97/.242789
 
-Musical last ran in Tokyo, Osaka in January 2023, as well as in New York in October 2024
+Watanabe's works include <cite>Glass Castle</cite>, <cite>Hitori Matsuri</cite>, <cite>Himegoto</cite>
 
-### Happy Sports Day From Around the Anime World, Part II
-Mon, 12 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-12/happy-sports-day-from-around-the-anime-world-part-ii/.242753
+### Here U Are's First Two Episodes Are All About Being Out and Proud
+Tue, 13 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/here-u-are-first-two-episodes-are-all-about-being-out-and-proud/.242743
 
-Featuring <cite>Jujutsu Kaisen, Frieren: Beyond Journey's End, Resident Evil,</cite> <cite>Slam Dunk,</cite> Square Enix, <cite>Doraemon</cite>, Jōji Nakata, & more!
+This is a boys' love romance about two vastly different university students who are carrying a lot of emotional baggage.
 
-### The Apothecary Diaries: The Late Lady's Treasure Film's New Video Unveils Kajadan Pirates' Cast
-Mon, 12 Oct 2026 22:47:54 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/the-apothecary-diaries-the-late-lady-treasure-film-new-video-unveils-kajadan-pirates-cast/.242761
+### Akane-banashi Volumes 4-6 Manga Review
+Tue, 13 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/akane-banashi/volumes-4-6/.242221
 
-Kenshō Ono, Ryōta Takeuchi, Jirō Saitō join cast
+How does Akane fare in her debut as a true working woman in the rakugo world? Spoiler: Badly.
 
-### Happy Sports Day From Around the Anime World, Part I
-Mon, 12 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-12/happy-sports-day-from-around-the-anime-world-part-i/.242750
+### The Fable Season 2 TV Anime Reveals More Cast, January 9 Premiere
+Tue, 13 Oct 2026 11:31:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/the-fable-season-2-tv-anime-reveals-more-cast-january-9-premiere/.242788
 
-Featuring <cite>Naruto, Final Fantasy, Dan Da Dan, Takopi's Original Sin,</cite> Sega, <cite>Chibi Maruko-chan,</cite> Warner Bros. Japan, & more!
+Takanori Hoshino, Koichi Yamadera, Hiroyuki Yoshino, more join cast
 
-### Killing Bites Manga Publishes 1st Part of Final Chapter
-Mon, 12 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/killing-bites-manga-publishes-1st-part-of-final-chapter/.242755
+### Shangri-La Frontier Pulls No Punches in Season Three's First Two Episodes!
+Tue, 13 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/shangri-la-frontier-pulls-no-punches-in-season-three-first-two-episodes/.242731
 
-Kazasa Sumita, Shinya Murata debuted manga in March 2017
+Season two ended in an awkward spot, right before a tournament began, so I appreciate the fact that season three is jumping right into the action.
 
-### Heavy Metal Band Lovebites Suspend Live Performances for 2027
-Mon, 12 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/heavy-metal-band-lovebites-suspend-live-performances-for-2027/.242754
+### Rakuen Tsuihō -Expelled from Paradise- Kokoro no Resonance Anime Film's Trailer Reveals Theme Song
+Tue, 13 Oct 2026 10:35:24 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/rakuen-tsuiho-expelled-from-paradise-kokoro-no-resonance-anime-film-trailer-reveals-theme-song/.242786
 
-Band will continue to work on new music, projects during that year
+Theme song by TeddyLoid feat. Ayane Sakura (as Gabriel), Nagi Inoue (from Nogizaka46)
 
-### Osamu Tezuka's Phoenix Manga's Future Arc Gets Stage Play in February
-Mon, 12 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/osamu-tezuka-phoenix-manga-future-arc-gets-stage-play-in-february/.242752
+### Dengeki Daisy's Emotionally Gripping Premiere Has Some Crazy Directorial Choices
+Tue, 13 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/dengeki-daisy-emotionally-gripping-premiere-has-some-crazy-directorial-choices/.242732
 
-<cite>Hi no Tori Mirai-hen ZEROMDISTANCE</cite> opens in Tokyo from February 6-8
+The whole thing felt so surreal. I thought I was watching an AMV from the mid-2000s.
 
-### Texas' Kawacon Anime, Gaming Convention Ends After 5 Years
-Mon, 12 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/texas-kawacon-anime-gaming-convention-ends-after-5-years/.242746
+### Talent Agency Intention Announces Dissolution on March 31, 2027
+Tue, 13 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/talent-agency-intention-announces-dissolution-on-march-31-2027/.242785
 
-Last Kawacon took place on July 3-5 at Henry B. Gonzalez Convention Center in San Antonio, TX
+Company to end operation due to owner Kenichi Suzumura's adjustment disorder
 
 ## Crunchyroll News
 
@@ -72,6 +72,11 @@ _Nothing in the last 48 hours._
 Tue, 13 Oct 2026 05:56:32 GMT — https://animecorner.me/manaka-iwami-announces-marriage-and-birth-of-first-child/
 
 Voice actress Manaka Iwami announced her marriage and she has given birth to her&hellip;
+
+### Kagurabachi Anime World Tour Finale to Premiere Episodes 1 and 2 in Japan, Part 3 Dates Revealed
+Mon, 12 Oct 2026 13:41:00 GMT — https://animecorner.me/kagurabachi-anime-world-tour-finale-to-premiere-episodes-1-and-2-in-japan-part-3-dates-revealed/
+
+KAGURABACHI anime has revealed details for Part 3 of its Anime World Tour and&hellip;
 
 ### Noa Is My Senior and My Friend Anime Reveals Key Visual, Main Cast
 Mon, 12 Oct 2026 12:26:34 GMT — https://animecorner.me/noa-is-my-senior-and-my-friend-anime-reveals-key-visual-main-cast/
@@ -93,17 +98,17 @@ Sun, 11 Oct 2026 23:32:54 GMT — https://animecorner.me/interview-hana-no-machi
 
 During our last visit to DoKomi, we talked with Light (@spoiler_of_light) from “Hana no&hellip;
 
-### You're Having a Laugh if Your Anime Worldbuilding Model Doesn't Include Music: Interview With yuma yamaguchi, Composer; Exploring the World of Goodbye, Lara's Music
-Sun, 11 Oct 2026 14:00:00 GMT — https://animecorner.me/goodbye-lara-yuma-yamaguchi-interview/
-
-When the concept trailer for Goodbye, Lara dropped, I immediately knew the soundtrack was&hellip;
-
-### Cosplay Hunting: Amazing Cosplays at Iberanime Santarém 2026
-Sun, 11 Oct 2026 12:15:18 GMT — https://animecorner.me/cosplay-hunting-amazing-cosplays-at-iberanime-santarem-2026/
-
-My first adventure in the Portuguese city of Santarém was marked by the wide&hellip;
-
 ## MyAnimeList News
+
+### The Fable 2nd Season Announces Additional Cast
+Tue, 13 Oct 2026 08:35:34 -0700 — https://myanimelist.net/news/74818100?_location=rss
+
+The official website for the The Fable television anime revealed additional cast and the main visual (pictured) for its second season on Wednesday. The new season will adapt the Yamaoka-hen (Yamaoka Arc) from Katsuhisa Minami s crime comedy manga and is scheduled to premiere on the Nippon TV network on January 10, 2027, airing every Sunday at 12:55 a.m. Cast Yamaoka: Kouichi Yamadera (Yozakura-san Chi no Daisakusen) Azami: Takanori Hoshino (Sentai Red Isekai de Boukensha ni Naru) Eucalyptus...
+
+### Kusuriya no Hitorigoto Movie Reveals Additional Cast, Character Trailers
+Tue, 13 Oct 2026 07:13:18 -0700 — https://myanimelist.net/news/74817857?_location=rss
+
+The official website for the Kusuriya no Hitorigoto anime series revealed the additional cast and two character trailers for the anime movie on Tuesday. The movie, subtitled Bouhi no Hihou (The Secret Treasure of the Deceased Consort), opens in Japanese theaters on December 11. Cast Birou: Nobuo Tobita (Youjo Senki) Shuu-u: Kumiko Watanabe (Tomo-chan wa Onnanoko!) Bisen: Hirofumi Nojima (Komekami! Girls) Suija: Kensho Ono (Jigokuraku) Eishou: Ryouta Takeuchi (Nippon Sangoku) Kaja: Jirou Saitou (...
 
 ### Hirayasumi Announces Additional Cast
 Tue, 13 Oct 2026 01:39:58 -0700 — https://myanimelist.net/news/74817329?_location=rss
