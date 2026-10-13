@@ -3,7 +3,7 @@ title: "RTX 5090 reportedly discontinued: 32GB to 24"
 date: 2026-10-13
 category: Tech
 excerpt: Leakers say the GB202 die is going to pro cards only. If the top GeForce becomes a 24GB 5080, GPU rendering loses the one card that held a heavy scene.
-cover: /img/blog/rtx-5090-discontinued-vram-ceiling-24gb/cover.svg
+cover: /img/blog/rtx-5090-discontinued-vram-ceiling-24gb/shot-01.jpg
 sources:
   - outlet: VGC
     url: https://www.videogameschronicle.com/news/nvidia-has-reportedly-stopped-producing-rtx-5090-cards-to-focus-on-rtx-pro-gpus-for-ai-data-centers/
@@ -24,6 +24,11 @@ So when leakers started saying over the weekend that Nvidia has stopped
 making the GeForce RTX 5090, the figure to look at is 32.
 
 ## What is actually being claimed
+
+<figure>
+  <img src="/img/blog/rtx-5090-discontinued-vram-ceiling-24gb/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>GeForce RTX 5090 Founders Edition, frames from ZMASLO's b-roll (CC BY 3.0), with a Palit GeForce RTX 5090 GameRock board, via Wikimedia Commons</figcaption>
+</figure>
 
 Hardware leakers MEGAsizeGPU and hongxing2020 say a factory notice dated
 around **10 October 2026** ends production of the RTX 5090, China-market D
