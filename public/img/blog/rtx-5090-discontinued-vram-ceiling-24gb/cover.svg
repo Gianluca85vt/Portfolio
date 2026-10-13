@@ -7,12 +7,77 @@
   </defs>
   <rect width="1200" height="900" fill="url(#bg)"/>
   <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#ffffff">
-    <text x="90" y="150" font-size="34" letter-spacing="6" opacity="0.72">TECH / NVIDIA</text>
-    <text x="90" y="330" font-size="190" font-weight="700">32GB</text>
-    <text x="90" y="440" font-size="96" font-weight="300" opacity="0.8">drops to 24</text>
-    <text x="90" y="540" font-size="40" opacity="0.9">RTX 5090 reportedly out of production</text>
-    <text x="90" y="595" font-size="40" opacity="0.65">GB202 reserved for pro and data centre cards</text>
-    <rect x="90" y="650" width="150" height="5" fill="#ffffff" opacity="0.5"/>
-    <text x="90" y="720" font-size="30" opacity="0.6">Unconfirmed by Nvidia &#183; 13 October 2026</text>
+    <text x="90" y="140" font-size="32" letter-spacing="6" opacity="0.72">TECH / NVIDIA</text>
+    <text x="90" y="320" font-size="170" font-weight="700">32 &#8594; 24</text>
+    <text x="90" y="395" font-size="54" font-weight="300" opacity="0.82">gigabytes of consumer headroom</text>
+    <text x="90" y="470" font-size="38" opacity="0.9">RTX 5090 reportedly out of production</text>
+    <text x="90" y="518" font-size="38" opacity="0.62">GB202 reserved for pro and data centre cards</text>
+    <text x="90" y="595" font-size="26" letter-spacing="3" opacity="0.7">RTX 5090 &#183; 32GB GDDR7</text>
+    <rect x="90" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="122" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="154" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="186" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="218" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="250" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="282" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="314" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="346" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="378" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="410" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="442" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="474" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="506" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="538" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="570" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="602" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="634" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="666" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="698" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="730" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="762" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="794" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="826" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="858" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="890" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="922" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="954" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="986" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="1018" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="1050" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="1082" y="610" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <text x="90" y="715" font-size="26" letter-spacing="3" opacity="0.7">REPORTED 24GB RTX 5080 AS TOP GEFORCE</text>
+    <rect x="90" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="122" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="154" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="186" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="218" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="250" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="282" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="314" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="346" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="378" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="410" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="442" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="474" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="506" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="538" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="570" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="602" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="634" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="666" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="698" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="730" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="762" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="794" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="826" y="730" width="28" height="44" fill="#ffffff" opacity="0.9"/>
+    <rect x="858.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="890.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="922.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="954.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="986.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="1018.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="1050.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <rect x="1082.5" y="730.5" width="27" height="43" fill="none" stroke="#ffffff" stroke-opacity="0.28"/>
+    <text x="90" y="845" font-size="28" opacity="0.6">Unconfirmed by Nvidia &#183; 13 October 2026</text>
   </g>
 </svg>
