@@ -1,6 +1,11 @@
-# Tech — harvested 2026-10-12T21:51:59.556Z
+# Tech — harvested 2026-10-13T12:10:19.844Z
 
 ## Ars Technica
+
+### 39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania
+Mon, 12 Oct 2026 21:54:35 +0000 — https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/
+
+A 39-year-old unvaccinated woman in Franklin County, Pennsylvania, has become the sixth person to die of the highly infectious virus amid a state outbreak that has stricken over a thousand people since it began in April. The woman died on Saturday, October 10. She had several underlying health conditions and had recently tested positive for measles, according to an advisory posted on social media by Franklin County Coroner Jordan Conner. The advisory noted that the woman's death meets the definition of a measles death set by the state's health department. In an emailed statement to The Washington Post , the coroner's office said the primary cause of death was listed as "probable acute cardiac event due to possible complications of the measles." Read full article Comments ]]>
 
 ### Epic Games reportedly pivoting to "AI first" game development model
 Mon, 12 Oct 2026 20:59:50 +0000 — https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/
@@ -59,6 +64,11 @@ We got our first look at Prime Video's new sci-fi series Blade Runner 2099 in Ju
 
 ## The Verge
 
+### Character.AI files for bankruptcy
+2026-10-13T06:32:23-04:00 — https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney
+
+Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots , but has continued releasing updates and products in recent months. In a press release and blog post published Monday, Character said it had filed for Chapter 11 bankruptcy protection in the US to facilitate the sale of the company and its assets. "Over the past year, we've taken meaningful steps to sustain and improve our business amid signific … Read the full story at The Verge. ]]>
+
 ### The Social Reckoning is flopping at the box office
 2026-10-12T17:20:57-04:00 — https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy
 
@@ -104,12 +114,37 @@ Today the OnePlus 16 launched in China, the company's first flagship phone since
 
 The CMF Speaker Series are the first portable Bluetooth speakers from the budget-focused brand that Nothing created but is in the process of spinning off into an India-based standalone subsidiary. As with many of CMF's products, like the Headphone Pro that launched a year ago, the new speakers deliver affordability alongside unique designs and bright color options that help them stand out from the competition. While the company doesn't directly cite a grocery store's dairy aisle as the inspiration for its latest hardware, it's hard not to look at these and immediately see electronic milk cartons. There are two versions of the CMF Speaker Se … Read the full story at The Verge. ]]>
 
-### The Fitbit Edge is for folks who don’t want to go totally screenless
-2026-10-12T09:00:00-04:00 — https://www.theverge.com/gadgets/1008410/fitbit-edge-price-battery-specs-fitness-tracker
-
-The leaked specs turned out to be spot-on, but there are some neat software updates too. | Image: Google The Fitbit Edge may not be Google's best-kept fitness-tracking secret, but as of today, its existence is official. The tracker sits smack-dab between the recently launched Fitbit Air and the more powerful Google Pixel Watch 5 in the company's current wearable lineup. Basically, if you have smartwatch fatigue but don't want to give up notifications, this is Google's answer to the aging Fitbit Charge 6 . Much of the Edge's specs were previously leaked , but the tracker has a 46 percent larger OLED display compared to the Charge 6, a physical side button, and is a smidge thicker at 11.5mm. It also sports a replaceable battery that gets about a … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Epic Games reportedly delays Disney shooter title so it can pivot to AI coding
+Tue, 13 Oct 2026 11:22:26 +0000 — https://www.tomshardware.com/video-games/pc-gaming/epic-games-reportedly-delays-disney-shooter-title-so-it-can-pivot-to-ai-coding-staff-allegedly-told-no-more-handwritten-code-with-art-generated-with-full-ai-workflows
+
+Epic Games has reportedly delayed a shooter based on Disney’s Marvel and Star Wars franchises, with its developers told to use more AI. According to Bloomberg , the yet-to-be-named game was supposed to be released in March of 2027, but its launch date has been pushed back to an unspecified date. Aside from that, the company also told the people working on the project to switch to an “AI first” production model. One of the game directors was quoted telling staff that there will be “no more handwritten code” and that the game’s art would now be “generated with full AI workflows.” Around the same time this news came out, Epic boss Tim Sweeney posted an update on X that seemingly confirms the change. “We have a huge pivot underway here at Epic, moving developers around to retool for maximum AI acceleration,” the Epic founder said on the platform. “The aim isn’t to do the same stuff with fewer people, but to enable everyone here to build MORE and BETTER stuff, and to bring the benefits to all teams using Unreal.” Sweeney has previously criticized Steam for putting AI tags on games , calling it “irresponsible of Valve.” He says that AI is just a tool and that it’s useful for handling boring, menial, and repetitive tasks like finding errors in code or rigging 3D models. “We’re embracing AI-accelerated development, led by Epic developers who are the visionaries and creative drivers for everything we do,” Epic Games communications director Jake Jones told the publication. We have a hu
+
+### Save $1440 when you go for this 4K gaming rig with a massive 64GB of DDR5 RAM and a 4TB SSD
+Tue, 13 Oct 2026 11:18:35 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/save-usd1440-when-you-go-for-this-4k-gaming-rig-with-a-massive-64gb-of-ddr5-ram-and-a-4tb-ssd-cyberpowerpc-gamer-supreme-also-includes-an-rtx-5070-ti-and-ryzen-9-9950x-cpu
+
+Buying some RAM or storage right now means burning a massive hole in your wallet; individual component prices have reached and surpassed all-time highs, with the best ways of grabbing either of these components at a more reasonable price limited to combo deals or prebuilt gaming PCs. That's where today's deal strikes. You can pick up a gaming PC at Walmart with a large 64GB of memory and a 4TB SSD, along with a host of other powerful components, and avoid paying the standalone component tax. Grab the CyberPowerPC Gamer Supreme with RTX 5070 Ti for $2,739.99. Although still a chunk of change, it's a far cry from the original cost of $4,179.99, saving you a massive $1440 (34%). ● Check out this deal at Walmart This CyberPowerPC packs an AMD Ryzen 9 9950X processor, an Nvidia RTX 5070 Ti graphics card, 64GB of DDR5 RAM, and a 4TB SSD for storage. A great spec list if you're looking for a PC for video editing, or if you just want to have a trillion browser tabs open. Nvidia's RTX 5070 Ti graphics card comes with 16GB of superfast GDDR7 VRAM and is perfect for 1440p gaming, even performing well at 4K. If you're thinking of a new PC for video editing, the RTX 5070 Ti is also a competent choice. Gamer Supreme (RTX 5070 Ti): was $4179.99 now $2739.99 This CyberPowerPC packs an AMD Ryzen 9 9950X processor, Nvidia RTX 5070 Ti graphics card, 64GB of DDR5 RAM, and a 4TB SSD for storage. View Deal For multithreaded applications, the 9950X from AMD is an absolute beast, one of our best-per
+
+### CXMT president says company’s first 4F² DRAM will be a server DDR5 RDIMM due by year-end
+Tue, 13 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/dram/cxmt-president-says-companys-first-4f2-dram-will-be-a-server-ddr5-rdimm-due-by-year-end-vertical-transistors-cut-each-memory-cells-footprint-by-a-third-on-paper-but-no-speeds-or-capacities-yet
+
+CXMT expects to launch its first 4F² product, a server DDR5 RDIMM, by the end of the year, company president Cao Kanyu said in remarks reported by Yicai . The memory will be built on a denser cell layout, not yet commercialized, using vertical transistors to reduce the cell’s footprint by about one-third on paper. No speeds or capacities have been announced yet for the new product. Cao spoke about the new RDIMM at the Integrated Chips and Chiplets Conference on Saturday. A 4F² cell is 2F by 2F at about two-thirds the area of current 6F² cells at the same feature size, and designs so far all stand the transistor up. The company has produced research and patent filings on the technology with papers in 2021, 2023, and 2025, and an 8Gb full-array research example was demonstrated at IEDM 2023. Cao said CXMT’s version, the Vertical Surrounded Gate (VSG) transistor, has a channel that stands vertically with the gate wrapped around it, allowing stronger gate control with less leakage. Most importantly, standing the transistor up shrinks the cell. CXMT now has more than 300 published patent families tied to 4F², he added. The report says the industry as a whole is moving toward 4F² with 3D solutions that decouple DRAM and CMOS processes, combining them with wafer-level hybrid bonding , which allows logic and cell density to be optimized independently. Cao also covered CXMT’s own hybrid-bonding work, which began in 2019, with published patents. Aside from this announcement, China’s pr
+
+### Store-bought hardware crypto wallets had secret chips installed that enabled stealing crypto recovery phrases
+Tue, 13 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/cryptocurrency/store-bought-hardware-crypto-wallets-had-secret-chips-installed-that-enabled-stealing-crypto-recovery-phrases-usd93-million-and-counting-stolen-thanks-to-implanted-esim-and-lte-modules-in-ledger-wallets
+
+Cryptocurrency enthusiasts are often advised to acquire a hardware wallet like one of the Ledger models, theoretically adding the ultimate layer of security. And yet not even that approach is 100% safe, as a currently unfolding investigation revealed that Ledger resellers in Southeast Asia and Europe are carrying hacked wallets laden with eSIM and LTE modules for exfiltration of recovery phrases. At least $93 million (and going) has already reportedly been siphoned off users' balances. Hardware sold directly by Ledger is so far unaffected. The first booby-trapped wallet originated from reseller Cryptobilis, which has currently ceased all sales of hardware wallets of all brands. The offending unit came from a store in Malaysia, though Cryptobilis also sells in Indonesia and the Philippines. Researcher Mark Karpelès has been looking into hacked wallets for a while now, and one of them came via Amazon Japan, bought from a Chinese seller and shipped from Malaysia. Cryptobilis also sells other brands of wallets such as Trezor, Coolwallet, and Tangem, though so far there is no news of contamination beyond Ledger. JUST IN: UP CLOSE VIDEO SHOWS HOW HACKERS STOLE OVER $80,000,000 SILENTLY CORRUPTING LEDGER #BITCOIN WALLETSA SCAM SHOP IN MALAYSIA WAS LISTED AS AN "OFFICIAL AUTHORIZED RESELLER FOR YEARS"BEHIND THE SCENES, CRIMINALS WERE INSERTING MICROSCOPIC SPY CHIPS ON EVERY WALLETTHEY REPACKAGED THE DEVICE AND SHIPPED IT TO UNSUSPECTING VICTIMSALL THE WHILE IT WAS SILENTLY CAPTURING 
+
+### Get an RTX 5070 Ti gaming laptop for just $1,449
+Tue, 13 Oct 2026 10:20:16 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/get-an-rtx-5070-ti-gaming-laptop-for-just-usd1-449-walmart-has-slashed-usd700-off-this-gigabyte-a16-pro
+
+A pre-built desktop or gaming laptop is one of the best ways to sidestep some of the worst pain of AI-driven price increases when it comes to PC gaming. If you're on the hunt for a powerful gaming laptop, this Gigabyte Gaming A16 Pro is now just $1,449 at Walmart . ● Check out this deal at Walmart This laptop comes with a 16-inch IPS display clocking in at 2560 x 1600. It's powered by Intel's Core 7 240H, a Raptor Lake-H refresh CPU with 10 total cores. However, the star of the show is undoubtedly the mobile RTX 5070 Ti GPU, which will excel at gaming on the go. AI development has seen the price of individual PC parts skyrocket in recent months. 32GB of DDR5 6000 RAM now costs $450, with storage and graphics cards also enduring significant price hikes. One of the best ways to dodge these hikes is to buy a laptop, where increases are trickling down more slowly. Gaming A16 Pro: was $2149.99 now $1449.00 Get an RTX 5070 Ti gaming laptop with Intel Core 7 240H 10-core CPU, 32GB of RAM, 1TB SSD, and 165Hz IPS display. View Deal With 10 cores (six performance and four efficient cores), the CPU in this rig is ideal for both gaming and productivity on the go. Paired with the RTX 5070 Ti gaming GPU, it will have no trouble running most games at the 2560 x 1600 resolution. The RTX 5070 Ti has 12GB of VRAM and 5,888 CUDA cores, making it ideal for this resolution. For the price, this laptop also has a generous supporting cast, notably 32GB of DDR5 RAM (a rarity in cheap gaming laptops t
+
+### Nintendo stands by physical games as Sony embraces a digital-only future
+Tue, 13 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/nintendo/nintendo-stands-by-physical-games-as-sony-embraces-a-disc-less-future-theres-no-plans-to-ditch-physical-we-know-how-much-the-fans-like-it-as-well-so-our-position-has-been-to-be-agnostic-says-a-nintendo-exec
+
+While Sony remains committed to phasing out physical media, Nintendo is taking the opposite approach. In a recent interview with the Brazilian YouTube channel Coelho no Japão, Bill van Zyll, Nintendo's VP and General Manager for Latin America, confirmed that the company has no plans to abandon cartridges. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC "Historically, we’ve been very agnostic, right?" stated van Zyll in the interview. The Nintendo executive firmly continued, "We go off what the consumer prefers, and take that into account very heavily. We also have a platform that was just launched. We're barely just over a year into NS2. It's got both digital and physical – that capability. There's no plans to ditch physical. We know how much the fans like it as well, so our position has been to be agnostic." In an era where the gaming industry is rapidly shifting toward digital distribution, it is comforting to see at least some companies still supporting physical media. The core issue with digital purchases is that you do not truly own what you buy; instead, you are purchasing a license to access the game, unlike owning a cartridge or game disc. Some storefronts, such as GOG or itch.io, offer DRM-free downloads of the titles you 
 
 ### Intel's Crescent Island AI accelerator officially powers new GPU D-Series products
 Mon, 12 Oct 2026 19:48:14 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/intels-crescent-island-ai-accelerator-officially-powers-new-gpu-d-series-products-chip-delivers-1-3-peak-pflops-of-fp8-compute-and-1-5-tb-s-of-memory-bandwidth
@@ -141,37 +176,37 @@ Mon, 12 Oct 2026 14:30:00 +0000 — https://www.tomshardware.com/tech-industry/s
 
 When GlobalFoundries abandoned development of leading-edge nodes in 2018, it also canceled the development of its 7nm-class FinFET fabrication technology that it co-developed with IBM. Almost exactly eight years later, GlobalFoundries is back with a 7nm-class manufacturing process, only this time the node relies on planar transistors and fully-depleted silicon-on-insulator (FD-SOI). It is aimed at automotive, edge AI, industrial, robotics, sensors, and other devices that prioritize low power consumption, high integration, and cost efficiency over maximum performance. "We are delighted that GlobalFoundries has announced its next-generation 'single-digit FD-SOI; node, building on technology that CEA-Leti has been advancing for decades," said Sébastien Dauvé, chief executive of CEA Leti. "Through the FAMES pilot line, CEA-Leti continues to shape the future European roadmap for FD-SOI and works every day to promote its adoption in a wide range of applications." FDX Fusion enters the scene The new fabrication technology from GlobalFoundries is called FDX Fusion, and it promises 7nm-class 'digital performance' (an ambiguous claim; we will try to interpret it later) and more than twice the transistor density of its original 22FDX process introduced circa 2015. To achieve its target goals, the first generation of FDX Fusion will combine innovations in SOI substrates, transistor structures, and back-end interconnects, though keep in mind that GF has not disclosed transistor dimensions
 
-### Intel to phase out SGX after Xeon Diamond Rapids in favor of TDX
-Mon, 12 Oct 2026 14:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/intel-to-phase-out-sgx-after-xeon-diamond-rapids-in-favor-of-tdx-confidential-computing-pivot-adds-trusted-i-o-and-post-quantum-crypto-for-agentic-ai
-
-Just five years after bringing its Software Guard Extensions (SGX) technology to its mainstream server platform, Intel on Friday announced plans to discontinue its support after its upcoming Xeon 'Diamond Rapids' CPUs and concentrate its confidential computing efforts on Trust Domain Extensions (TDX). The company will continue to support existing SGX-enabled platforms into the early 2030s, but at the same time will expand TDX capabilities to address emerging requirements of cloud computing, enterprise workloads, and agentic AI applications. Without a doubt, data sovereignty requirements are an increasingly important factor as organizations seek to protect sensitive information from unauthorized access even when they process it on infrastructure operated by third parties. Although both Intel SGX and TDX are designed to protect sensitive information while it is being processed, they use substantially different approaches. SGX provides hardware-protected enclaves within applications to isolate selected code and data from other software, including the operating system and hypervisor. By contrast, TDX isolates entire virtual machines from the underlying host environment, including the hypervisor and other VMs. While SGX requires developers to design or modify applications to use protected enclaves, TDX can protect existing workloads inside confidential VMs without extensive changes to individual applications, something that makes TDX particularly attractive to cloud service provid
-
-### Diamond-infused watercooling coldplates for 2,300W Nvidia Rubin drop temps by up to 22C
-Mon, 12 Oct 2026 13:30:00 +0000 — https://www.tomshardware.com/pc-components/liquid-cooling/diamond-infused-watercooling-coldplates-for-2-300w-nvidia-rubin-drop-temps-by-up-to-22c-bespoke-frore-liquidjet-diamond-cooling-tames-770-w-cm2-hotspots
-
-Frore Systems has introduced its bespoke LiquidJet Diamond liquid-cooling coldplate series that uses a diamond surface combined with a multi-stage 3D short-loop jet-channel microstructure to address precise hotspots on next-generation AI accelerators, such as AMD's Instinct MI400 and MI500-series, Nvidia's Rubin, and beyond. The company claims its new coldplates can handle hotspots with power densities reaching 770 W/cm², reduce GPU temperatures by up to 22C compared with conventional coldplates, and improve AI token throughput per watt by as much as 35%. LiquidJet Diamond combines the expertise it used for its original LiquidJet coldplate product and the LiquidJet Nexus bespoke coldplate for Nvidia Blackwell and Nvidia Rubin-based servers. Unlike Nexus, which integrates multiple coldplates into a large cooling assembly for several processors, LiquidJet Diamond is an individual GPU coldplate, albeit a bespoke one. From an internal technology perspective, Frore’s coldplates employ a three-dimensional, ultra-short-loop, multi-stage architecture with coolant channels customized for the power distribution of a specific processor. Meanwhile, the key innovation in LiquidJet Diamond is an additional heat spreader integrated into the bottom of the coldplate. This spreader incorporates diamond wafers positioned directly above the GPU’s hotspots to distribute heat more efficiently before it reaches the liquid-cooling structure. Diamond (carbon) has exceptionally high thermal conductivi
-
-### Gigabyte GO27Q24G 27-inch OLED 240 Hz QHD gaming monitor review: Tremendous bang for the buck
-Mon, 12 Oct 2026 13:15:00 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/gigabyte-go27q24g-27-inch-oled-240-hz-qhd-gaming-monitor-review
-
-OLED or LCD? This is a question many monitor shoppers ask themselves. When you consider the pros and cons of each, there isn’t a clear winner. OLED has better image quality thanks to its extreme contrast. But LCDs are brighter and less expensive. So, what if you could move the needle further towards one of the best OLED gaming monitors ? Gigabyte has done this with the GO27Q24G. This 27-inch QHD 240 Hz OLED delivers brightness over 1,300 nits for a shockingly low price of just $350 as I write this. Cutting corners? That’s a hard nope. You get 240 Hz, FHD gaming modes, wide gamut color, Adaptive-Sync, gaming aids, HDR10 and premium build quality. Let’s take a look. Gigabyte GO27Q24G Specs Panel Type / Backlight Organic Light Emitting Diode (OLED) Screen Size / Aspect Ratio 27 inches / 16:9 Max Resolution and Refresh Rate 2560x1440 @ 240 Hz FreeSync and G-Sync Compatible Native Color Depth and Gamut 10-bit / DCI-P3 HDR10 DisplayHDR 400 True Black Response Time (GTG) 0.03ms Brightness (mfr) 275 nits full field 1,300 nits 1.5% window Contrast Unmeasurable Speakers None Video Inputs 1x DisplayPort 1.4 2x HDMI 2.1, 1x USB-C Audio 3.5mm headphone output USB None Power Consumption 30.5w, brightness @ 200 nits Panel Dimensions WxHxD w/base 23.8 x 15.5-20.6 x 7.4 inches (604 x 394-523 x 188mm) Panel Thickness 2.1 inches (54mm) Bezel Width Top/sides: 0.3 inch (8mm) Bottom: 0.4 inch (11mm) Weight 12.3 pounds (5.6kg) Warranty 3 years The GO27Q24G saves some cost by omitting USB ports, int
-
-### AMD debuts Helion reference design for agentic AI servers with up to 32,768 Zen 6 ‘Venice’ cores
-Mon, 12 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-debuts-helion-reference-design-for-agentic-ai-servers-with-up-to-32-768-zen-6-venice-cores-rack-design-ships-next-year-in-cpu-only-and-all-in-one-configurations
-
-AMD is bringing a new reference rack-scale design to the data center ecosystem with Helion. It’s a standardized, 21-inch rack reference design that will complement the Helios rack AMD revealed at OCP Global Summit last year. This year, we have Helion, which AMD says can house up to 32,768 Zen 6 cores in a CPU-only deployment using the dense 256-core design available with the EPYC ‘Venice’ 9996. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent The rack design is standardized, based on the Open Compute Project’s ORv4 specification, which is slightly wider and taller than a standard IT rack. Helion is designed to support 44 OpenU trays, which are 21 inches wide and 48mm tall, slightly larger than a standard EA1-310 tray. AMD says the reference design supports both air-cooled and direct liquid-cooled deployments. The design is also compliant with OCP’s DC-MHS (Data Center Modular Hardware System) standard. MHS is designed to bring “interoperability between key elements of data center, edge, and enterprise infrastructure,” according to OCP. Although AMD has renders of the design you can see in the presentation be
-
-### TrendForce expects declining global laptop shipments to slow manufacturing exodus from China
-Mon, 12 Oct 2026 12:30:00 +0000 — https://www.tomshardware.com/laptops/trendforce-expects-declining-global-laptop-shipments-to-slow-manufacturing-exodus-from-china-rising-cpu-dram-and-ssd-costs-will-make-up-68-percent-of-mainstream-notebook-bom
-
-In its latest industry report, TrendForce has projected that global notebook shipments could witness a decline of a low single-digit percentage in 2027. Laptop manufacturers are also expected to reconsider their production strategies as rising costs make manufacturing outside China less attractive. The share of global notebook production outside China is projected to fall from 24% in 2025 to 21% in 2026 and potentially below 20% in 2027. The biggest concern is expected to be the shift from component availability to weakening consumer demand, as manufacturers continue to tackle high CPU, DRAM, and SSD prices. The firm also added that if component prices continue to remain on the higher side, brands might pass more of these costs on to consumers. Notebook shipments are expected to benefit from improved CPU availability and manufacturers stocking up on components in 2026. However, TrendForce warns that it does not directly translate into healthy demand. In anticipation of higher prices, certain customers have upgraded their devices earlier than planned. Essentially, fewer people will be looking forward to buying new laptops in 2027. Additionally, once inventories purchased at lower prices gradually run out, manufacturers will face greater pressure to absorb higher component costs or pass them on to consumers. Increasing the retail price could further weaken demand, while absorbing the additional costs would squeeze profit margins. Manufacturers could also make changes to specifi
-
-### Vibecoder mods Minecraft inside GTA V running natively on an iPhone
-Mon, 12 Oct 2026 12:22:51 +0000 — https://www.tomshardware.com/video-games/vibecoder-mods-minecraft-inside-gta-v-running-natively-on-an-iphone-unmodded-game-runs-at-50-60-fps-on-iphone-17
-
-A vibecoder and modder has revealed they successfully launched Minecraft inside a modded iPhone port of GTA V, immediately showing the Minecraft HUD and loading in Steve. This was done using Claude Opus 5.5, doing everything from writing the code to testing the game; 0xProbability claims that they have not touched the phone while Claude successfully flies the Ender Dragon around Los Santos. Minecraft in GTA V isn’t surprising, considering the vast amount of wacky mods you can put into the game. However, running it on an iPhone, now that’s just absurd. 0xProbability wasn’t the one to port GTA V onto the iPhone; they credit that to C22, a student of EPFL, a prestigious school in Switzerland. C22’s port is impressive; it’s running GTA V natively on the iPhone, based on a version of GTA V that was adapted to run in a web browser, and making that run as a native iOS application instead — even supporting multiplayer. The README states that it runs on iOS 15 or later and even macOS 14 or later on Apple silicon, ideally with 8GB of RAM or more. The port runs at an impressive 50-60 FPS on an iPhone 17 and only uses 1.1GB of RAM, as shown in C22’s video on X, showcasing their work. gta v running natively on ios (a recent fun project of mine) https://t.co/5k6w06hoLY October 9, 2026 As if GTA V on an iPhone isn’t impressive enough, vibecoder 0xProbability modded this version of GTA V with Minecraft. Before putting it on the iPhone, the developer experimented with possibly the same browse
-
 ## Phoronix
+
+### Linux Mint 27 Continues Working Toward Christmas Release With Many Features
+Tue, 13 Oct 2026 07:58:21 -0400 — https://www.phoronix.com/news/Linux-Mint-27-Many-Features
+
+Linux Mint developers continue enjoying their relaxed release schedule in moving from a six to twelve month release cycle. Linux Mint 27 "Adrien" continues tracking for a Christmas release...
+
+### ONLYOFFICE !0.0 Released With AI Features, 1,000+ Bug Fixes
+Tue, 13 Oct 2026 07:43:23 -0400 — https://www.phoronix.com/news/ONLYOFFICE-10.0
+
+ONLYOFFICE 10.0 is now available for this open-source office suite alternative to the likes of LibreOffice...
+
+### NVIDIA s Nova Driver Continues Leading The Way For Linux Rust GPU Drivers
+Tue, 13 Oct 2026 06:28:11 -0400 — https://www.phoronix.com/news/NVIDIA-Nova-Linux-7.4-Changes
+
+The DRM Rust changes targeting the Linux 7.4 merge window have been submitted for pulling into DRM-Next ahead of that cycle kicking off (hopefully) next week. The NVIDIA Nova driver continues leading the way for the development of in-kernel Rust GPU drivers and in the process building out the Rust Direct Rendering Manager (DRM) infrastructure...
+
+### Asterinas 0.19.0 Brings Up X.Org & Other Improvements To This Rust-Written OS
+Tue, 13 Oct 2026 06:14:11 -0400 — https://www.phoronix.com/news/Asterinas-0.19-Released
+
+Asterinas is the open-source project developing a Rust-based, memory-safe Linux alternative OS while striving for Linux software compatibility. Out now is Asterinas 0.19 as the project continues advancing on its goals...
+
+### IREE 3.12 Introduces Rolls Out Rewritten Vulkan Driver, Experimental AMD HSA HAL
+Tue, 13 Oct 2026 06:00:22 -0400 — https://www.phoronix.com/news/IREE-3.12-Released
+
+Rolling out last week was a new version of IREE as the Intermediate Representation Execution Environment for MLIR-based end-to-end compiler and run-time for lowering machine learning models into a unified IR and working across different hardware/driver stacks. Making IREE 3.12 notable is a rewrite to its Vulkan code...
+
+### FreeType 2.15 Released With Apple HVF Driver, ISO Open Font Format Edition 5
+Mon, 12 Oct 2026 20:24:04 -0400 — https://www.phoronix.com/news/FreeType-2.15-Released
+
+FreeType 2.15 is now available for this widely-used font rendering library used across many different operating systems and software applications...
 
 ### Intel Announces The GPU D Series For Crescent Island
 Mon, 12 Oct 2026 16:53:30 -0400 — https://www.phoronix.com/news/Intel-GPU-D-Series
@@ -203,37 +238,42 @@ Mon, 12 Oct 2026 06:03:00 -0400 — https://www.phoronix.com/news/Linus-Torvalds
 
 After using Claude Code to draft code to help make a fundamental improvement to the Linux kernel, Linux creator Linus Torvalds continued using AI this weekend and talking up its benefits. Beyond generating initial patches and a test program for that noted I/O enhancement, he separately talked up using AI/LLMs for making patches more decipherable to understand in the process the AI noted more long-standing bugs within the Linux kernel...
 
-### Intel Posts Updated Linux Driver Code For HDMI 2.1 FRL On Meteor Lake & Newer
-Mon, 12 Oct 2026 05:44:00 -0400 — https://www.phoronix.com/news/Intel-HDMI-2.1-FRL-Linux-v2
-
-Following AMD completing their HDMI 2.1 implementation for the open-source AMDGPU Linux driver after beginning with HDMI FRL patches earlier in the year, Intel's open-source driver developers are following in their footsteps...
-
-### EXT4 Introducing IOmap Buffered I/O Path With Some Performance Gains
-Mon, 12 Oct 2026 05:27:52 -0400 — https://www.phoronix.com/news/EXT4-iomap-Buffered-IO
-
-EXT4 with the upcoming Linux 7.4 kernel looks like it will introduce opt-in support for IOmap buffered I/O in replacing the file-system's buffer_head usage with IOmap...
-
-### Linux 7.3-rc7 Released With Linux 7.3 Hopefully Out Next Weekend
-Mon, 12 Oct 2026 04:44:15 -0400 — https://www.phoronix.com/news/Linux-7.3-rc7-Released
-
-Linus Torvalds has made available what is hopefully the final release candidate before Linux 7.3 is ideally minted next Sunday...
-
-### Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code
-Sun, 11 Oct 2026 20:16:25 -0400 — https://www.phoronix.com/news/Linus-Torvalds-Claude-Code
-
-Linux creator Linus Torvalds has been known to use AI to help with kernel debugging and outside of the kernel tree has also done some vibe coding with Google's Antigravity. He has previously said he views AI as a useful tool. It turns out he's even now using Claude Code for working on new Linux kernel features...
-
-### Linux Landing Kernel Workaround For AMD TLBI Erratum #1718
-Sun, 11 Oct 2026 09:20:00 -0400 — https://www.phoronix.com/news/Linux-WA-TLBI-Erratum-1718
-
-AMD TLBI Erratum #1718 was worked around in CPU microcode for addressing a defect in certain Zen CPUs where the Translation Lookaside Buffer Invalidate Instruction use could lead to to stale translation entries. But for those on affected AMD CPUs and not running the updated microcode, a kernel workaround is being introduced with today's Linux 7.3-rc7 kernel and to be back-ported to prior kernel versions...
-
-### Microsoft Contributes Para-Virtualized IOMMU Hyper-V Driver For Linux
-Sun, 11 Oct 2026 08:00:00 -0400 — https://www.phoronix.com/news/MS-Paravirt-Hyper-V-IOMMU
-
-Microsoft is contributing a new kernel driver for the upcoming Linux 7.4 cycle. Queued up into the IOMMU subsystem's "-next" branch is a new para-virtualized IOMMU driver for benefiting Linux guest VMs running on Microsoft's Hyper-V virtualization platform...
-
 ## The Register
+
+### '123456' password linked to Denmark data breach affecting 8.8M people
+Tue, 13 Oct 2026 13:14:00 +0200 — https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
+
+A person claiming responsibility for the breach of Denmark's Central Register of Persons (CPR) says they gained access through an IT company's account protected by the password "123456." The person told Danish news outlet Politiken they had no intention of selling or leaking the data. The newspaper reported that at least three company accounts, including an administrator account, used the same password. Denmark's CPR administration confirmed a breach affecting the information belonging to 8.8 million people on October 5, adding that a Danish company's legal access to the CPR system was abused. It did not name Funen-based Pays ApS as the company in question, but managing director Sophie Laursen confirmed on October 9 that it's access had been exploited. Pays' website has been taken offline, and the business has not responded to The Register's request for more information about the password claims. Pays had authorized access to the CPR system to provide services such as validating business customers' records. The Danish government says information relating to 8.8 million people was accessed. The register contains approximately 11 million records, including those of deceased people and people who have moved abroad. The government did not respond to questions about the alleged password failings. According to documents obtained by broadcaster TV 2, the attacker gained access to the CPR system on September 10 and ran the 14 million automated searches between then and September 20. 
+
+### European datacenter boom threatens higher energy bills unless governments intervene
+Tue, 13 Oct 2026 12:30:00 +0200 — https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583
+
+Datacenters are forecast to consume a growing share of Europe's electricity by 2035, potentially pushing up consumer prices and prompting governments to impose price caps or restrictions on bit barns, according to Moody's. The credit rating agency is keeping tabs on the financial implications for datacenter operators and electricity networks. It predicts that while power consumption by server farms is relatively modest today, these facilities are set to become major drivers of electricity demand by 2035, requiring utilities and network operators to invest in generation and grid capacity. Massive compute sheds still accounted for "a low single-digit share" of electricity in most of the largest European markets in 2025, typically about 2.5 percent. But some of the major markets such as the UK and France are set to see accelerating growth in the number and size of facilities that could substantially increase their share of electricity consumption. The report estimates datacenters will account for at least 5.7 percent of electricity demand in France and the UK by 2035, but could be as high as 17 percent for the Netherlands and 30 percent for Ireland. The latter country is regarded as an outlier, however, as datacenters already made up 23 percent of Ireland's electricity consumption in 2025 – up from just 5 percent in 2015. In addition, the EU has set out the goal of more than tripling the bloc's datacenter capacity within five to seven years, and wants to diversify where such pro
+
+### Owner of fashion brands Hobbs and Whistles joins autumn pwned collection
+Tue, 13 Oct 2026 11:45:00 +0200 — https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752
+
+The owner of Hobbs, Phase Eight, and Whistles is the latest fashion retailer to suffer a cyberattack, leaving several IT systems offline and customers facing order delays. South African retail giant The Foschini Group (TFG) confirmed on Tuesday that its UK business, TFG London, discovered a cybersecurity incident on October 11 that affected all three brands. Two days later, several systems remain unavailable, and the company is still trying to establish whether any personal or sensitive information has been compromised. The incident hasn’t forced stores to close, but TFG said some website functions may be unavailable. Customers have also been warned that orders placed on or after Sunday could be delayed, according to an email seen by The Telegraph. "Stores are open as normal but some of our brand's website capabilities may not be available as the investigation continues," the company said. "We apologize for any disruption and will provide additional updates to our customers as appropriate." TFG said it immediately activated its incident response and business continuity plans, brought in external cybersecurity specialists, and notified the relevant UK authorities. The Register contacted the ICO to confirm, but did not receive a response. There is at least some good news for shoppers worried about their payment details. In an email to customers, TFG London said a third-party provider handles payment processing and that, based on its investigation so far, it has no reason to bel
+
+### UK Cabinet Office takes £7.8M hit to kill off recruitment system
+Tue, 13 Oct 2026 11:00:00 +0200 — https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635
+
+The UK Cabinet Office has scrapped a recruitment platform, recording a £7.8 million loss, while disclosing a potential penalty of up to £8.9 million over its handling of contractors' tax status. The department's annual report for 2025-26 said the Civil Service Jobs Applicant Tracking System (ATS) Programme, a central government plan for a unified, cross-departmental hiring system, was being closed to "align with the Shared Services for Government Strategy," which the Prime Minister's department also manages. The report said axing the program resulted in a "constructive loss" of £7.8 million. In March, a report from the National Audit Office said the ATS was an example of an interdependency that has not been effectively managed in the Shared Services Strategy, which is designed to bring Whitehall departments onto a common set of software-as-a-service (SaaS) enterprise applications. The Cabinet Office's annual report says closure will allow a new project better aligned with that strategy. "The program consistently identified lack of adoption from shared services clusters as a risk. At various points between 2023 and 2025, some shared services clusters raised concerns about the ATS program and stated that they would prefer to use the ATS functionality of their own ERPs over the new central platform. Despite this, Cabinet Office did not assess the need for a reset as soon as it could have, which made it challenging to assess alternative options for delivering an ATS. The ATS prog
+
+### Intel optimizes IPv6 networking into nothingness, say users
+Tue, 13 Oct 2026 10:15:00 +0200 — https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622
+
+If you're encountering some odd IPv6 networking issues, the culprit might be the Intel Connectivity Performance Suite (ICPS), although the chipmaker has kept quiet about the problem. A Samsung Galaxy Book owner contacted The Register about some decidedly odd networking behavior that they eventually traced to unwanted ICPS optimizations. And by "optimization", we mean "borked networking." For our reader, the problem showed up in OneDrive and OneNote. Notebooks were showing as empty, even though they were reported as "Up to date" according to the software. Microsoft couldn't get to the bottom of it. A bit of sleuthing by our reader revealed that something was borking the IPv6 packet. Removing Samsung's ICPS build (40.25.926.0) and installing the generic release (50.26.623.243) fixed the problem. Our reader told us, "From the user's side it looks like random 'connection reset' errors on all kinds of sites, plus OneNote saying 'We can't get to your notebooks right now.' "IPv4 is unaffected, which is why the web version and my phone kept working and nobody could figure out what was going on." It isn't only Samsung and our reader affected. Intel's own Community forums shows other users encountering the same glitch. An ASUS user put together an exhaustive report on the issue (IPv6 connection woes while IPv4 worked well). In this instance, ICPS version 40.25.725.165 was in use, and the problem went away following uninstallation. The user asked whether there was an official way to opt
+
+### Home Office asylum AI flunks one in five accuracy checks
+Tue, 13 Oct 2026 09:31:00 +0200 — https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
+
+The Home Office's latest attempt to speed up asylum decisions with AI has hit an awkward snag: a new report says more than one in five interview summaries checked by experts failed accuracy tests. A 20-page investigation by the Open Rights Group (ORG) claims the department is pressing ahead with AI tools despite concerns about their accuracy, oversight, and promised efficiency gains. The findings, based on Freedom of Information requests and correspondence with ministers, concern two systems used by Home Office caseworkers: Asylum Case Summarisation (ACS), which summarizes asylum interviews, and Asylum Policy Search (APS), a chat-style tool helping officials search country policy information. Both use OpenAI's GPT-4o model through Microsoft's Azure AI Foundry. The government insists humans remain responsible for asylum decisions, but ORG questions how reliably caseworkers can spot mistakes in AI-generated information. Figures obtained by the campaign group show that 45 of 203 AI-generated interview summaries failed initial expert checks after the system was rolled out in April 2026. That's a 22 percent failure rate, compared with the 9 percent rejection rate recorded during the original pilot. Another 19 summaries were flagged for further review. The figures also record 56 second-stage reviews, of which 30 failed to meet the required standard. The errors can include factual inaccuracies and misrepresentations of what asylum seekers said during interviews. ORG also found that 
+
+### VMware is pushing so many patches, it thinks users need new tools to manage the flood
+Tue, 13 Oct 2026 09:01:00 +0200 — https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172
+
+VMware has discovered so many flaws in its products using AI that it felt the need to create a new product to help users manage them. Prashanth Shenoy, vice president of product marketing in the VMware Cloud Foundation (VCF) division of Broadcom, told The Register that VMware recently moved to deliver monthly software updates, in part to address bugs found by AI. He admitted, however, that users struggled to keep up with the pace of change before the move to monthly releases because it takes time to test the impact of patches – even though VCF allows non-disruptive live patching. Shenoy said customers therefore need "room to breathe." Enter a new tool called HyperArmor, which does three things. One is "virtual patching" – blocking attempts to exploit a vulnerability without changing the vulnerable software itself. VMware already offers virtual patching in its vDefend network security product and explains how it works by referring to CVE-2024-5806, the bug in file transfer tool MOVEIt that made waves in 2024. VMware says vDefend can detect patterns associated with attempts to exploit the authentication bypass flaw and block the traffic. HyperArmor will do similar things to block malicious traffic heading toward VCF implementations. Another job HyperArmor takes on is rejecting any actions that alter known good states in VCF. If a human approves a change, the tool will update policies to allow the altered state. The third job is multi-factor authentication (MFA). The Register pu
 
 ### Microsoft blames a configuration change for Exchange Admin Center tumble
 Mon, 12 Oct 2026 19:55:53 +0200 — https://www.theregister.com/saas/2026/10/12/microsoft-blames-a-configuration-change-for-exchange-admin-center-tumble/5302698
@@ -260,42 +300,52 @@ Mon, 12 Oct 2026 17:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/1
 
 EVENT: Every sovereign AI architecture is a trade, and the currency changes with the option: capital, capability, elasticity, or the fine print about who operates it. The cost you notice last is usually the one that decides whether the pilot ever becomes production. Nobody chooses badly on purpose. They choose with the information available at the planning stage, and the costs that matter most, in capability and in operations, tend to show up later. Which is why the honest comparison is hard to get. The people who have run each option for a year are the ones who know, and they are not saying it on a recorded webinar. They will say it at dinner. On Thursday 29 October, just over two weeks from now, The Register is hosting HPE and NVIDIA in Washington with editor-in-chief Matt Rosoff in the chair and the Chatham House Rule in force. HPE sends Bharath Ramesh, Head of Product, AI Factory Solutions, and Tracy Mills, Acting Director Federal Systems Integrators & Distinguished Chief Technologist Federal. NVIDIA sends Bert Condensa, Vice President for Enterprise AI Factory Segment Sales. All three are there to take questions. The agenda is the trade-offs themselves: which infrastructure options hold a boundary, what each one costs in capital, capability or elasticity, and whether the answer survives the move from planning into operations. And the questions underneath: what can leave a jurisdiction versus what can leave the building, and what an auditor will accept as evidence a year 
 
-### Windows 11's easiest account bypass gets the Microsoft boot
-Mon, 12 Oct 2026 16:56:11 +0200 — https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643
-
-Microsoft has closed a loophole that let users sidestep the need for an account during setup for consumer versions of Windows 11. If users clicked "Learn More" when the setup process prompted for a Microsoft account, the Out-of-Box Experience (OOBE) skipped directly to the point where they just had to enter a name and password. Windows prodder "Bob Pony," who first documented the loophole, reported its removal. We tried the original trick on real Intel hardware and found it was possible to skip the Microsoft account requirement by clicking a link, but no longer. Other hacks – for those who dare to use unofficial Windows setup routes – still exist, though they are beyond the skill set of the average user. Microsoft requires an account during initial setup of Windows 11 Home and Pro for personal use. For consumers, using Windows 11 without an account can be tricky because services such as OneDrive require authentication. Microsoft is far from the only operating system vendor to demand an account during setup, but many Linux distributions, by contrast, don't require one. According to Bob Pony, the loophole was "quietly patched server side," which makes sense. Microsoft was hardly likely to leave it flapping open for long. Microsoft has won this round of account workaround Whac-a-Mole, though another bypass may yet pop up. ®
-
-### Ukrainian drone strikes on Yandex datacenters knock cloud and payments offline
-Mon, 12 Oct 2026 15:45:00 +0200 — https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577
-
-Yandex engineers are working to restore services after Ukraine launched drone strikes on three of its five Russian datacenters. The strikes began overnight on October 7-8, "seriously damaging" Yandex's Sasovo datacenter and leading to a total shutdown. Ukrainian drones struck again on the morning of October 9, targeting the company's Kaluga datacenter, resulting in part of its infrastructure being taken offline. Dima Pirogov, head of Yandex's fintech division, confirmed via Telegram on Sunday morning that a third strike targeted the company's Vladimir site, which supports Yandex Pay. A day later, services remain offline, although Pirogov said users' money is safe. "I'm very sorry I can't tell you yet that everything is working again," the exec wrote. "The team continues to restore services and is checking every step. When it comes to your money, it's important to us not just to restore Yandex Pay as quickly as possible, but also to ensure that everything is working reliably. "I understand that you're not waiting for words, but for access to your money. And I understand how hard it is to wait when you can't use it. We can't give you a precise timeline for the restoration yet, but we promise: we won't stop until the service is back online." Yandex Pay is the company's digital payments service. Users can make online and in-store purchases, pay in installments, and split bills with friends and family. It's also integrated into online shopping experiences. It is comparable to Appl
-
-### UCLA settles Oracle ERP dispute with $3.1M in credits and $1.31M wiped off the bill
-Mon, 12 Oct 2026 14:58:00 +0200 — https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520
-
-UCLA and Oracle have settled a dispute over a troubled ERP project originally budgeted at $120 million, with the vendor waiving $1.31 million in outstanding fees and granting $3.1 million in credits against future charges. In May, the University of California's Compliance and Audit Committee recommended a settlement [PDF] of UCLA's pre-litigation dispute with Oracle, which the Board of Regents approved. According to documents released in response to a California Public Records Act request, UCLA stopped paying its Oracle subscription in September 2024 over what it described as shortcomings in grants management functionality. UCLA and Oracle signed their first agreement relating to the project – called Ascend – in November 2017. The project had a revised go-live date of January 2025, but was paused in mid-2024. The settlement records UCLA's allegation that "the ERP Cloud Services did not perform as warranted in the Oracle Agreement." "The ERP Cloud Services lacked sufficient functionality to meet the University's requirements and could not be used by the University as expected," said the document, which was seen by The Register. It continued that "the University incurred costs and delays due to the ERP Cloud Services inability to meet the University's requirements." It added: "As a result, Oracle breached the Oracle Agreement." Under the settlement, UCLA agreed to pay Oracle $350,000 of the $1.66 million in outstanding invoices. Oracle then waived the remaining balance – $1.31 
-
-### Microsoft giveth and Microsoft taketh away: Copilot edition
-Mon, 12 Oct 2026 14:41:00 +0200 — https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542
-
-Not satisfied with shoehorning Copilot into every crevice of Office, Microsoft is adding Office to the Copilot app, while also evicting the AI assistant from certain parts of Outlook. The plan is simple: give the Copilot app a prompt, and it will create an Office document (for example, Word) and let a user edit it in the appropriate Office application while keeping the Copilot conversation going. The document can be shared with other users too, who can use the prompt Copilot to tweak it. Albeit an interesting approach, we suspect the system's reliance on OneDrive, rather than that enterprise favorite, SharePoint, might put off some customers. The new feature is also only rolling out to Frontier customers in Chat and Cowork. There's also a question-mark over Microsoft's commitment. The company is quick to drop or deprecate technology when its attention drifts elsewhere. The ability to create a theme in Outlook with Copilot is an example. Less than two years ago, Microsoft announced "Themes by Copilot in Outlook" which, according to the software and cloud biz, marked "the first instance of dynamic AI-generated theming in productivity applications." Themes by Copilot in Outlook, for users with a Copilot license, was a relatively simple piece of technology and could be dynamic, showing imagery inspired by the user's locale (if location permissions were enabled) and updating at regular intervals, for example, based on the current weather. It was all terribly exciting, and Microsof
-
-### London cabbies want Sadiq Khan to slam the brakes on robotaxis
-Mon, 12 Oct 2026 14:13:00 +0200 — https://www.theregister.com/personal-tech/2026/10/12/london-cabbies-want-sadiq-khan-to-slam-the-brakes-on-robotaxis/5302595
-
-London's minicab drivers want Mayor Sadiq Khan to put the brakes on robotaxis before they threaten thousands of jobs, with a new City Hall report casting doubt on whether the capital is ready for driverless cars. The Independent Workers' Union of Great Britain (IWGB) has called on Transport for London (TfL) to halt the rollout following the publication of a London Assembly Transport Committee report on Monday. The 66-page report makes uncomfortable reading for the companies hoping to unleash fleets of driverless taxis on London's streets. "As it stands, we currently have not heard sufficient evidence to persuade us that London should welcome autonomous passenger services," it concludes. Google's Waymo, British startup Wayve, and Chinese tech giant Baidu are among those gearing up to bring autonomous passenger services to London. Waymo has already been testing its cars in the capital and hopes to launch a commercial fleet of "low hundreds" this year, subject to regulatory approval. Uber and Wayve have secured TfL private hire licenses for vehicles offering supervised self-driving rides, meaning a human driver remains legally in control, and Freenow and Baidu are targeting a fully driverless launch in 2027. London has around 105,000 licensed private hire drivers, many of whom have reason to worry about cars that can do their jobs without them. "Every car feeds a family, and the prospect of not being able to earn money leaves us all with a deep uncertainty as to how we will prov
-
-### Pigeon-powered internet packet goes under the hammer at Christie's
-Mon, 12 Oct 2026 13:30:00 +0200 — https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526
-
-A piece of internet history that once traveled strapped to a pigeon's leg is up for auction at Christie's, where someone has already bid $4,000 for what might be the world's most expensive ping. The unusual lot is a surviving IP packet from a 2001 experiment in which Norwegian Linux enthusiasts decided to find out whether the internet could, in fact, run on birds. The idea dates back to April 1, 1990, when American network engineer David Waitzman published RFC 1149, titled A Standard for the Transmission of IP Datagrams on Avian Carriers. Written in the wonderfully dry language of an official internet standards document, the April Fools' proposal outlined how carrier pigeons could transport IP datagrams between locations. It noted that avian carriers could provide high bandwidth, although latency would be another matter entirely. Most people appreciated the joke and moved on. The Bergen Linux User Group (BLUG), however, decided to actually build the thing. On April 28, 2001, the group put RFC 1149 to the test using racing pigeons, printers, and scanners. IP packets were printed as hexadecimal strings on strips of paper, attached to the birds' legs, and flown between two lofts 5km (roughly 3 miles) apart. The results hardly amounted to a ringing endorsement of pigeon-powered networking. Nine packets were dispatched, but only four replies came back, giving the experiment a packet-loss rate of about 56 percent. Still, the network worked, at least in the loosest possible sense of
-
-### Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete
-Mon, 12 Oct 2026 12:27:00 +0200 — https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430
-
-KETTLE The FBI has announced what appears to be a third arrest in the ShinyHunters investigation, following the group's breach of Bureau systems, even as AI advances potentially leave human hackers on borrowed time. You can listen to the latest episode of The Kettle on this page, Spotify, Apple Podcasts, or YouTube. You can also subscribe on those platforms to be notified when a new episode goes live. A second vulnerability discovered by Anthropic's Mythos model has been exploited in the wild, and it's not one that humans probably would have discovered, begging the question just how important we are in the future of cybercrime. Join host Brandon Vigliarolo, cybersecurity editor Jessica Lyons, and senior reporter Tom Claburn to discuss those stories, and what they mean for the future of cybersecurity, on this week's episode. A lightly edited transcript is below: Brandon (00:01) Hey everyone, and welcome to the latest episode of The Register's Kettle Podcast. I'm your host, Reg reporter Brandon Vigliarolo, and this week we've got a couple cybersecurity stories to chat about, but that doesn't mean we're leaving AI out of the conversation, of course. With me to chat about some arrests and new revelations about the capabilities of Anthropic's Mythos model are Reg cybersecurity editor Jess Lyons and senior reporter Tom Claburn. Thanks to both of you for coming on. Tom (00:27) Yeah, thank you. Jessica (00:28) Good to be here. Brandon (00:29) So Jess, let's start with the FBI's conti
-
 ## Engadget
+
+### NASA's Perseverance rover breaks record for off-world driving distance
+Tue, 13 Oct 2026 12:01:37 +0000 — https://www.engadget.com/2285013/nasa-perseverance-rover-breaks-record-for-off-world-driving-distance/
+
+NASA's Perseverance Mars rover just broke the record for the farthest distance traveled by any vehicle on another world.
+
+### Scientists find evidence of a second-generation planet born from a dying star
+Tue, 13 Oct 2026 11:46:02 +0000 — https://www.engadget.com/2285001/scientists-find-evidence-second-generation-planet-dying-star/
+
+A team of scientists found evidence of a planet born from a white dwarf in decades-old Hubble data.
+
+### Abu Dhabi will use Ultrahuman's smart ring know-how to boost its public health app
+Tue, 13 Oct 2026 09:21:57 +0000 — https://www.engadget.com/2284956/ultrahuman-abu-dhabi-partnership/
+
+The Abu Dhabi government wants to incorporate wearables data into its public health app.
+
+### X bundles Premium, Grok and Cursor under a single monthly subscription
+Tue, 13 Oct 2026 08:44:18 +0000 — https://www.engadget.com/2284943/x-subscription-bundles-premium-grok-cursor/
+
+SpaceXSI has announced a new subscription scheme that gives you access to Grok, Grok Bot, Cursor and X Premium.
+
+### Don't buy a cheap Android phone without these non-negotiable features
+Tue, 13 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2281663/android-phone-dont-buy-cheap-without-non-negotiable-features/
+
+Android phones can be had at many different price points, but the most important features aren't always found in the cheapest available devices.
+
+### How to boost your GPU performance without buying a new one
+Mon, 12 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2281650/how-to-boost-gpu-performance-without-buying-new/
+
+With an older GPU, you'll need to go without some of the fancy features, but you can still enjoy high frame rates with the right changes.
+
+### How to turn your old hard drives into a RAID array
+Mon, 12 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2281587/how-to-create-raid-array-your-old-hard-drives/
+
+Your old hard drives still have some live left in them.
+
+### How to use Google Gemini to automate tasks
+Mon, 12 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2281539/how-to-use-google-gemini-automate-tasks/
+
+Spark is Google's AI tool that can perform tasks on your behalf.
+
+### Why are your iPhone photos so blurry (and how to improve it)
+Mon, 12 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2281499/how-to-improve-blurry-iphone-photo/
+
+Blurry iPhone photos can come down to more than just a dirty lens. Here's how to expertly sharpen your shots and fine-tune your camera settings.
 
 ### Epic reportedly delays its Disney video game so it can be made using more AI
 Mon, 12 Oct 2026 20:48:19 +0000 — https://www.engadget.com/2284680/epic-reportedly-delays-its-disney-video-game-so-it-can-be-made-using-more-ai/
@@ -311,51 +361,6 @@ The models add active memory and active focus abilities.
 Mon, 12 Oct 2026 18:34:57 +0000 — https://www.engadget.com/2284434/norway-fined-a-microsoft-subsidiary-96-million-for-allegedly-misusing-grindr-user-data/
 
 Xandr has three weeks to appeal the record penalty.
-
-### How to find your Amazon 'About You' page (and how to edit it)
-Mon, 12 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2281495/how-to-find-your-amazon-about-you-page-and-how-to-edit-it/
-
-See if Amazon thinks you have "flat buttocks."
-
-### What's the difference between alkaline and lithium-ion batteries?
-Mon, 12 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2281493/alkaline-vs-lithium-ion-batteries-difference-between/
-
-Alkaline and lithium-ion batteries serve very different purposes. Here's how they compare on lifespan, cost, rechargeability, and everyday use.
-
-### 2027 Rivian R2 review: The Goldilocks electric SUV
-Mon, 12 Oct 2026 17:39:22 +0000 — https://www.engadget.com/2284218/2027-rivian-r2-review/
-
-It's not too big, it's not too small and it's not too expensive. It's just right.
-
-### Beats is collaborating with Pokémon for a Pikachu-themed Pill speaker
-Mon, 12 Oct 2026 17:11:30 +0000 — https://www.engadget.com/2284137/beats-is-collaborating-with-pokmon-for-a-pikachu-themed-pill-speaker/
-
-The collab we've all been waiting for ever since Tim Cook met up with Pikachu.
-
-### Here's what typically drains an EV battery the fastest
-Mon, 12 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2281487/what-drains-ev-batteries-fastest/
-
-EVs are improving their range all the time, but you're looking to maximize your car's miles, right? Certain things will drain your battery most quickly.
-
-### What happens to Google and Apple accounts when the owner dies?
-Mon, 12 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2281481/apple-google-accounts-what-happens-when-owner-dies/
-
-When we die, it's not just physical estates that need to be settled, an entire digital footprint survives us. So what do Apple and Google do with that data?
-
-### Citroën has brought back the iconic 2 CV as an electric concept car
-Mon, 12 Oct 2026 16:10:40 +0000 — https://www.engadget.com/2284004/citroen-has-brought-back-the-iconic-2-cv-as-an-electric-concept-car/
-
-Sadly we won't be seeing whatever this car inspires stateside.
-
-### Smart just unveiled a new ultra-compact EV at the Paris Motor Show
-Mon, 12 Oct 2026 15:59:21 +0000 — https://www.engadget.com/2283979/smart-just-unveiled-a-new-ultra-compact-ev-at-the-paris-motor-show/
-
-A little car with decent mileage per charge.
-
-### How to improve your Android phone's location accuracy
-Mon, 12 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2281478/how-to-improve-android-phone-location-accuracy/
-
-There are a few settings to check if you're having issues with your map's location accuracy.
 
 ## TechCrunch
 

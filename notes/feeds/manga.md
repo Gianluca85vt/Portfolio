@@ -1,6 +1,46 @@
-# Manga — harvested 2026-10-12T21:51:59.556Z
+# Manga — harvested 2026-10-13T12:10:19.844Z
 
 ## Anime News Network
+
+### Dragon Ball Super's NYCC Pannel Brings the Show's Voice Actors and a (Not Exactly) New Episode
+Tue, 13 Oct 2026 07:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/dragon-ball-super-nycc-pannel-brings-the-show-voice-actors-and-a-new-episode/.242707
+
+<i>Dragon Ball Super: Beerus</i> is basically a recut of the original <i>Dragon Ball Super</i> series with better animation.
+
+### Voice Actor Manaka Iwami Announces Marriage, Birth of 1st Child
+Tue, 13 Oct 2026 07:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-13/voice-actor-manaka-iwami-announces-marriage-birth-of-1st-child/.242781
+
+Voice of <i>Oshi no Ko's</i> Akane Kurokawa married partner outside industry
+
+### Junji Itō's 'The Hanging Balloons' Short Manga Gets Thai Film
+Tue, 13 Oct 2026 06:32:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/junji-ito-the-hanging-balloons-short-manga-gets-thai-film/.242777
+
+Toei, Thailand's 13 Studio to co-produce film by Thai director Taweewat Wantha
+
+### Hirayasumi Anime Announces 5 More Cast Members
+Tue, 13 Oct 2026 05:04:01 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/hirayasumi-anime-announces-5-more-cast-members/.242776
+
+Daisuke Namikawa, Yōko Hikasa, Yume Miyamoto, Yūichirō Umehara join cast with TV announcer Yūko Naitō narrating
+
+### Attack on Titan Musical Starts World Tour in Singapore Next April
+Tue, 13 Oct 2026 04:25:38 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/attack-on-titan-musical-starts-world-tour-in-singapore-next-april/.242763
+
+Musical last ran in Tokyo, Osaka in January 2023, as well as in New York in October 2024
+
+### Happy Sports Day From Around the Anime World, Part II
+Mon, 12 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-12/happy-sports-day-from-around-the-anime-world-part-ii/.242753
+
+Featuring <cite>Jujutsu Kaisen, Frieren: Beyond Journey's End, Resident Evil,</cite> <cite>Slam Dunk,</cite> Square Enix, <cite>Doraemon</cite>, Jōji Nakata, & more!
+
+### The Apothecary Diaries: The Late Lady's Treasure Film's New Video Unveils Kajadan Pirates' Cast
+Mon, 12 Oct 2026 22:47:54 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/the-apothecary-diaries-the-late-lady-treasure-film-new-video-unveils-kajadan-pirates-cast/.242761
+
+Kenshō Ono, Ryōta Takeuchi, Jirō Saitō join cast
+
+### Happy Sports Day From Around the Anime World, Part I
+Mon, 12 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-12/happy-sports-day-from-around-the-anime-world-part-i/.242750
+
+Featuring <cite>Naruto, Final Fantasy, Dan Da Dan, Takopi's Original Sin,</cite> Sega, <cite>Chibi Maruko-chan,</cite> Warner Bros. Japan, & more!
 
 ### Killing Bites Manga Publishes 1st Part of Final Chapter
 Mon, 12 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/killing-bites-manga-publishes-1st-part-of-final-chapter/.242755
@@ -22,51 +62,16 @@ Mon, 12 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Last Kawacon took place on July 3-5 at Henry B. Gonzalez Convention Center in San Antonio, TX
 
-### 'Killed Again, Mr. Detective?' Manga's Inaba Launches New Manga
-Mon, 12 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/killed-again-mr-detective-manga-inaba-launches-new-manga/.242738
-
-<cite>Nukedashi</cite> romantic comedy manga launches on October 26
-
-### Erica Sakurazawa Launches New Manga on November 6
-Mon, 12 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/erica-sakurazawa-launches-new-manga-on-november-6/.242740
-
-Sakurazawa to launch <cite>Watashi no Manga (Mayoi) Michi</cite> manga featuring behind-the-scenes essays from "that era"
-
-### Dramatic Road: the origin of wind Game Review
-Mon, 12 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/dramatic-road/the-origin-of-wind/.242230
-
-<cite>Dramatic Road</cite> isn't just a modern-day <cite>Fire Emblem</cite>. It's specifically a high school delinquent saga inspired by classics like <cite>Bari Bari Densetsu</cite>.
-
-### Blue Thermal's Kana Ozawa Announces New Manga
-Mon, 12 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/blue-thermal-kana-ozawa-announces-new-manga/.242718
-
-Ozawa to launch new manga <cite>Ao Sansan</cite> in December
-
-### Japan's Video Game Rankings, September 28-October 4
-Mon, 12 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/japan-video-game-rankings-september-28-october-4/.242721
-
-<cite>Ace Combat 8: Wings of Theve</cite> debuts at #1
-
-### Spy×Family, Jujutsu Kaisen, Witch Hat Atelier Manga Rank on NYT October Bestseller List
-Mon, 12 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-12/spy-family-jujutsu-kaisen-witch-hat-atelier-manga-rank-on-nyt-october-bestseller-list/.242722
-
-The 16th volume of Tatsuya Endo's Spy x Family manga ranked at #6 on The New York Times' monthly Graphic Books and Manga bestseller list released in early...
-
-### Part of Her World: Anime and Manga Visions of The Little Mermaid
-Mon, 12 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-12/part-of-her-world-anime-and-manga-visions-of-the-little-mermaid/.241812
-
-Rebecca swims through anime and manga history to reach the depths of its mermaid fascination.
-
-### Kōta Kawae's Nue's Exorcist Manga Gets TV Anime in Summer 2027
-Mon, 12 Oct 2026 07:54:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-12/kota-kawae-nue-exorcist-manga-gets-tv-anime-in-summer-2027/.242747
-
-Kaito Miura, Saori Ōnishi, Sayumi Suzushiro star in Studio Hibari anime
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Manaka Iwami Announces Marriage and Birth of First Child
+Tue, 13 Oct 2026 05:56:32 GMT — https://animecorner.me/manaka-iwami-announces-marriage-and-birth-of-first-child/
+
+Voice actress Manaka Iwami announced her marriage and she has given birth to her&hellip;
 
 ### Noa Is My Senior and My Friend Anime Reveals Key Visual, Main Cast
 Mon, 12 Oct 2026 12:26:34 GMT — https://animecorner.me/noa-is-my-senior-and-my-friend-anime-reveals-key-visual-main-cast/
@@ -98,17 +103,17 @@ Sun, 11 Oct 2026 12:15:18 GMT — https://animecorner.me/cosplay-hunting-amazing
 
 My first adventure in the Portuguese city of Santarém was marked by the wide&hellip;
 
-### The Apothecary Diaries: The Late Lady's Treasure Releases Maomao and Jinshi Character Trailer
-Sun, 11 Oct 2026 10:57:55 GMT — https://animecorner.me/the-apothecary-diaries-the-late-ladys-treasure-releases-maomao-and-jinshi-character-trailer/
-
-The Apothecary Diaries: The Late Lady’s Treasure anime film released a new character trailer spotlighting Maomao and Jinshi.
-
-### Naruto: Shadow Rising New Manga Announced, Masashi Kishimoto to Draw
-Sat, 10 Oct 2026 22:09:38 GMT — https://animecorner.me/naruto-shadow-rising-new-manga-announced-masashi-kishimoto-to-draw/
-
-A new NARUTO manga titled NARUTO: SHADOW RISING has been announced, with original creator Masashi Kishimoto set to draw the project.
-
 ## MyAnimeList News
+
+### Hirayasumi Announces Additional Cast
+Tue, 13 Oct 2026 01:39:58 -0700 — https://myanimelist.net/news/74817329?_location=rss
+
+The official website for the television anime adaptation of Keigo Shinzou s Hirayasumi manga announced five additional cast members on Tuesday. The anime series will premiere on NHK-G in January 2027. Cast Hideki Noguchi: Daisuke Namikawa (Hunter x Hunter (2011)) Yomogi Tachibana: Youko Hikasa (High School DxD) Akari Yokoyama: Yume Miyamoto (SSSS.Gridman) Ryou Ishikawa: Yuuichirou Umehara (Goblin Slayer) Narrator: Yuuko Naitou Kei Suezawa (Fate/Grand Order: Shinsei Entaku Ryuoiki Camelot -...
+
+### Voice Actress Manaka Iwami Announces Marriage
+Mon, 12 Oct 2026 23:00:05 -0700 — https://myanimelist.net/news/74817108?_location=rss
+
+Voice actress Manaka Iwami announced her marriage to a man outside of the industry and the birth of her first child on her official radio program on Tuesday. "It s been a while, everyone. This is Manaka Iwami. I d like to take a moment at the beginning of the program to share something important with all of you who have supported me. This is a personal matter, but I have gotten married and given birth to my first child. My partner is not affiliated with the entertainment industry,...
 
 ### Manga Nue no Onmyouji Gets TV Anime in Summer 2027
 Mon, 12 Oct 2026 04:54:46 -0700 — https://myanimelist.net/news/74814550?_location=rss
@@ -125,34 +130,14 @@ Sun, 11 Oct 2026 20:22:20 -0700 — https://myanimelist.net/news/74813653?_locat
 
 Voice actress idol unit i☆Ris announced on Sunday on their official website that they will end their activities at the end of 2027, coinciding with the group s 15th anniversary and marking the conclusion of their 15-year journey. In a statement, the staff apologized for the sudden announcement and thanked the fans and everyone involved with the group. They said the five members and staff have been talking it over since last year after the group s 10th anniversary in 2022."We will...
 
-### Noa-senpai wa Tomodachi Reveals Main Cast, 2027 Debut
-Sun, 11 Oct 2026 03:16:42 -0700 — https://myanimelist.net/news/74811025?_location=rss
-
-The official website for the television anime adaptation of Enma Akiyama s Noa-senpai wa Tomodachi (Noa Is My Senior, and My Friend) manga revealed the main cast and a key visual (pictured) on Sunday. The anime series will premiere in 2027. Voice actors Rina Kawaguchi (Witch Watch) and Tomoya Itou (Sentai Red Isekai de Boukensha ni Naru) are starring as Noa Saotome and Rihito Ootsuka, respectively. Shinsuke Yanagi (Jaku-Chara Tomozaki-kun, Mamahaha no Tsurego ga Motokano datta) is directing...
-
-### Shishite Ikiru SSS-kyuu Hunter Reveals Additional Cast, Ending Theme, Second Promo
-Sat, 10 Oct 2026 19:43:49 -0700 — https://myanimelist.net/news/74810180?_location=rss
-
-The official website of the television anime adaptation of Sinnoa and Bill K s SSS-Class Revival Hunter webtoon revealed additional cast members, ending theme artists, and a second promotional video on Sunday. The anime is scheduled to premiere in January 2027 on Fuji TV s +Ultra programming block. Cast Flame Emperor: Toshiki Masuda (Shingeki no Kyojin: The Final Season) Black Witch: Megumi Han ([Oshi no Ko]) Paladin: Sayaka Kinoshita (Boku no Hero Academia) Countess: Risa Shimizu (Sh...
-
-### New Naruto Manga Shadow Rising Announced
-Sat, 10 Oct 2026 17:20:07 -0700 — https://myanimelist.net/news/74809691?_location=rss
-
-The Naruto: What s Next? panel at New York Comic Con 2026 announced on Saturday that Masashi Kishimoto will launch a new Naruto manga titled Naruto: Shadow Rising, revealing a super teaser announcement video. The new series is part of Project Rasengan, a three-year timeline of upcoming releases within the Naruto franchise. Currently announced projects include a crossover anime series, a mobile game, and a card game. More information on the new manga will be revealed at Jump Festa 2027. Kis...
-
-### Naruto x Ninkuu Crossover Anime Announced
-Sat, 10 Oct 2026 16:37:52 -0700 — https://myanimelist.net/news/74809610?_location=rss
-
-The "Naruto: What s Next?" panel at New York Comic Con 2026 announced a brand new four-episode crossover anime based on Masashi Kishimoto s Naruto manga and Kouji Kiriyama s Ninkuu manga on Saturday. The Naruto franchise s official website opened a new page, revealing the main cast, staff, theme songs, a teaser visual (pictured above), and teaser promotional video. Cast Naruto Uzumaki: Junko Takeuchi (Hunter x Hunter) Fuusuke: Rica Matsumoto (Pokemon) Sasuke Uchiha...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### It’s Strictly Business Volume 1 Review
-Sun, 11 Oct 2026 09:00:23 +0000 — https://animeuknews.net/2026/10/its-strictly-business-volume-1-review/
+### The Delinquent Girl Beside Me Suddenly Dyed Her Hair Black Volume 1 Review
+Tue, 13 Oct 2026 09:00:22 +0000 — https://animeuknews.net/2026/10/the-delinquent-girl-beside-me-suddenly-dyed-her-hair-black-volume-1-review/
 
-College student Ren is keen to meet lots of girls but somehow the only way he can get their attention is to act out various flirty gay scenes with fellow student Issei. Until the act begins to turn into something more serious…
+One day Honda lists his ideal type of woman to his friend, and then the next day, his delinquent classmate has come to class with her blond hair dyed black and is acting just as he described! What could this possibly mean?
 

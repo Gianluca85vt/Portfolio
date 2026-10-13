@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-12
+# Review radar — updated 2026-10-13
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,22 +20,23 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Planet Zoo 2 | Frontier Developments | 2026-10-13 | 1d | 2026-10-12 | €49.99 |
-| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 2d | 2026-10-13 | €29.99 |
+| Planet Zoo 2 | Frontier Developments | 2026-10-13 | today | 2026-10-12 | €49.99 |
+| Castlevania: Belmont's Curse | KONAMI | 2026-10-14 | 1d | 2026-10-13 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Stupid Never Dies | GPTRACK50 Inc. | 2026-10-21 | 9d | 2026-10-20 | €49.99 |
-| DEMONS' NIGHT FEVER | Arc System Works | 2026-10-21 | 9d | 2026-10-20 | €39.99 |
-| Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | 10d | 2026-10-21 | €69.99 |
-| FINAL FANTASY RESONANCE | Square Enix | 2026-10-22 | 10d | 2026-10-21 | €49.99 |
-| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 11d | 2026-10-22 | €29.99 |
+| Stupid Never Dies | GPTRACK50 Inc. | 2026-10-21 | 8d | 2026-10-20 | €49.99 |
+| DEMONS' NIGHT FEVER | Arc System Works | 2026-10-21 | 8d | 2026-10-20 | €39.99 |
+| Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | 9d | 2026-10-21 | €69.99 |
+| FINAL FANTASY RESONANCE | Square Enix | 2026-10-22 | 9d | 2026-10-21 | €49.99 |
+| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 10d | 2026-10-22 | €29.99 |
+| Farming Simulator 25: Beans & Alpacas Expansion | GIANTS Software | 2026-10-27 | 14d | 2026-10-26 | €29.99 |
 
 ---
 
-*1300 upcoming titles scanned, 1219 with a firm date inside
-14 days, 7 above the price line. Titles showing
+*1500 upcoming titles scanned, 1395 with a firm date inside
+14 days, 8 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
