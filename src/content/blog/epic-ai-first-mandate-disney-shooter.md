@@ -11,7 +11,6 @@ sources:
     url: https://www.heise.de/en/news/Epic-Games-delays-Disney-shooter-and-switches-development-to-AI-11485358.html
 artistView:
   take: "An art pipeline is mostly conformance rather than invention — the UVs land where the trim sheet says, the LOD chain holds its silhouette, the skeleton matches the one animation already rigged against. Generative output arrives with none of that attached, so a mandate to generate the art does not remove the art work, it moves it to whoever has to make the generated thing fit. On a project already behind on staffing, that is the same people."
-draft: true
 ---
 
 Bloomberg reported on 12 October that Epic Games has pushed its unannounced
