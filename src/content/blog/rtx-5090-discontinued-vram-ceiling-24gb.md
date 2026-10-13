@@ -11,7 +11,6 @@ sources:
     url: https://tech.yahoo.com/computing/articles/nvidia-reportedly-halts-geforce-rtx-122000787.html
 artistView:
   take: "A GPU renderer does not care about frames a second, it cares whether the scene fits. 32GB was the first consumer card where a heavy environment fit without a pro-tier invoice, and if the top GeForce comes back as a 24GB part then the ceiling for everyone working on their own machine moves down a step. Nvidia has not confirmed any of this."
-draft: true
 ---
 
 VRAM is a cliff. That is the thing worth holding on to while reading this
