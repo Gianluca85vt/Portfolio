@@ -26,8 +26,8 @@ making the GeForce RTX 5090, the figure to look at is 32.
 ## What is actually being claimed
 
 <figure>
-  <img src="/img/blog/rtx-5090-discontinued-vram-ceiling-24gb/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
-  <figcaption>GeForce RTX 5090 Founders Edition, frames from ZMASLO's b-roll (CC BY 3.0), with a Palit GeForce RTX 5090 GameRock board, via Wikimedia Commons</figcaption>
+  <img src="/img/blog/rtx-5090-discontinued-vram-ceiling-24gb/shot-02.jpg" loading="lazy" width="1440" height="989" alt="A Palit GeForce RTX 5090 GameRock, a triple-fan partner card, shot against black" />
+  <figcaption>Palit's GameRock, one of the partner boards built on the die the reports say is being reallocated. Photograph by PantheraLeo1359531, CC BY 4.0 via Wikimedia Commons.</figcaption>
 </figure>
 
 Hardware leakers MEGAsizeGPU and hongxing2020 say a factory notice dated
