@@ -13,7 +13,6 @@ sources:
     url: https://variety.com/2026/film/news/netflix-film-vp-doug-belgrad-layoff-1236911877/
 artistView:
   take: "The content side came through this almost untouched, which will read as reassuring to anyone whose work Netflix buys. The group that took the cut is the one that writes the delivery specs and builds the measurement tools the rest of us conform to, and that bill arrives later and in smaller pieces — a spec that drifts, a validation tool that stops getting attention, an answer from a partner engineer that takes three weeks instead of three days."
-draft: true
 ---
 
 Netflix laid off around 1,000 people on Wednesday, about 6% of its global
