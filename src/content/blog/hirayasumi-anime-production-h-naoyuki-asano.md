@@ -18,7 +18,6 @@ artistView:
   misses:
     - "Art direction: a watercolour cover is one image painted once. A season needs hundreds of plates, and paper grain is the first texture to turn to mush under a camera move."
     - "Pipeline: nobody has said whether those backgrounds are pigment or a digital approximation of pigment, and the answer decides whether the look survives episode six."
-draft: true
 ---
 
 Anime News Network ran a feature yesterday arguing that Keigo Shinzō's *Hirayasumi*
