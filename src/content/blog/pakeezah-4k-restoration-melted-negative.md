@@ -3,7 +3,7 @@ title: "Pakeezah 4K: restored without its camera negative"
 date: 2026-10-14
 category: Film & TV
 excerpt: The 1972 camera negative had almost melted in its cans. Film Heritage Foundation rebuilt it in 4K from an interpositive, a print and a faded internegative.
-cover: /img/blog/pakeezah-4k-restoration-melted-negative/cover.svg
+cover: /img/blog/pakeezah-4k-restoration-melted-negative/shot-01.jpg
 sources:
   - outlet: Variety
     url: https://variety.com/2026/film/festivals/kamal-amrohi-meena-kumari-pakeezah-rescued-melted-negative-1236909987/
@@ -31,6 +31,11 @@ Fifty-two years after that, archivists opened the cans holding the film's origin
 The 4K restoration that premiered at Festival Lumière in Lyon this month, with a UK gala at the BFI London Film Festival on 18 October, was therefore built from none of the material the film was shot on. That is the part worth sitting with, because the word "restoration" implies a return to something, and there was nothing left to return to.
 
 ## The element chain, and what each step costs
+
+<figure>
+  <img src="/img/blog/pakeezah-4k-restoration-melted-negative/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>35mm reels and cans (CC BY-SA 2.0), archive reel and can by D.D. Teoli Jr. A.C. (CC BY-SA 4.0), and Meena Kumari in Pakeezah (1972), all via Wikimedia Commons</figcaption>
+</figure>
 
 Film Heritage Foundation's team worked from a 35mm interpositive the Foundation had preserved, a CinemaScope release print, and a colour reversal internegative held by the NFDC-National Film Archive of India. Accounts differ a little on the exact list — Il Cinema Ritrovato's programme notes describe an interpositive plus a 35mm intermediate reversal print from NFDC, where Variety and the Foundation's own release name all three — but every version agrees on the shape of it: duplicates, no original.
 
