@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-13T19:57:02.636Z
+# Games — harvested 2026-10-14T09:43:26.854Z
 
 ## Eurogamer
+
+### Planet Zoo 2 is a beautiful sequel and a fine management sim, but it's the animals that steal the show
+Wed, 14 Oct 2026 09:09:02 +0000 — https://www.eurogamer.net/planet-zoo-2-now-playing
+
+If the Planet Zoo series has taught me anything it's that I'm rubbish at animals. Sure, I'm okay with the simple stuff - I do, you'll be relieved to hear, know the difference between an elephant and a flamingo - but the more exotic they get, the second we start dabbling in subspecies, the more clueless I am. That was one of the joys of the original Planet Zoo: a chance to discover a vibrant menagerie of unusual animals, all brought to wonderful life by developer Frontier's typically exquisite artistry. And after spending some early hours with Planet Zoo 2, it's this, as much as anything, that's kept me so completely enthralled. Read more
+
+### Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI
+Wed, 14 Oct 2026 08:35:47 +0000 — https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code
+
+Xbox is reacting - uncharacteristically quickly - to the deluge of vibe-coded game ports, decompiles and recompiles we've been seeing online in recent weeks by establishing Xbox Labs, a new initiative seemingly designed to explore the phenomenon. Read more
 
 ### CD Projekt Red reassures players The Witcher 3 Switch 2 patch still due, as update rolls out for PS5 and PS5 Pro
 Tue, 13 Oct 2026 16:13:54 +0000 — https://www.eurogamer.net/witcher-3-remastered-ps5-pro-switch-patch
@@ -52,17 +62,17 @@ Tue, 13 Oct 2026 08:40:04 +0000 — https://www.eurogamer.net/glen-schofield-the
 
 Glen Schofield, the game-maker best known for co-creating Dead Space, has blamed Korean company Krafton - the owner of PUBG - for the shortcomings of his horror game successor The Callisto Protocol , which it published. Read more
 
-### Epic Games reportedly delays Star Wars and Marvel shooter, as the Fortnite maker embraces "AI-accelerated development"
-Mon, 12 Oct 2026 19:11:39 +0000 — https://www.eurogamer.net/epic-games-delays-star-wars-marvel-shooter-ai-development
-
-Epic Games has reportedly turned to gen-AI to finish up development on a shooter that crosses over Star Wars and Marvel, which has been internally delayed. Read more
-
-### No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire
-Mon, 12 Oct 2026 18:20:50 +0000 — https://www.eurogamer.net/no-mans-sky-coming-mobile-hello-games-thanks-to-light-no-fire
-
-Developer Hello Games has somehow managed to fit its universe-sized space sim No Man's Sky onto iPhone and iPad devices, and it's partly thanks to the studio's upcoming Light No Fire. Read more
-
 ## GamesIndustry.biz
+
+### Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio
+Wed, 14 Oct 2026 08:55:05 +0000 — https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio
+
+Ubisoft has proposed the closure of Finnish studio RedLynx, creator of the Trial franchise, and major job losses at Ubisoft Singapore, lead developer of the ill-fated Skull and Bones. The cuts are the latest in the firm's ongoing restructuring, as it seeks to dramatically reduce costs and reform into a new Creative Houses structure . Both studios had been placed into the Creative Network in that organization, providing central support to other teams. Read more
+
+### Xbox CEO reportedly warns firm will "not survive" if it only relies on existing franchises
+Wed, 14 Oct 2026 07:44:27 +0000 — https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises
+
+Xbox boss Asha Sharma has reportedly warned that the organisation will "not survive" if it relies on existing game franchises. Read more
 
 ### Xbox announces Xbox Labs, a new initiative to trial emerging ideas and "new technology"
 Tue, 13 Oct 2026 19:00:00 +0000 — https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology
@@ -114,21 +124,31 @@ Mon, 12 Oct 2026 13:11:17 +0000 — https://www.gamesindustry.biz/the-happiest-m
 
 It's impossible to not be swept up in Tarn Adams' enthusiasm. To speak to him is to feel like you're talking to the happiest man in gaming. Along with his brother Zach, he's been working on the wonderfully chaotic procedurally generated world of Dwarf Fortress since 2002, and he is far from tired of it. If anything, he's more enthusiastic than ever. Read more
 
-### Group behind GTA 6 leaks threatens to release alleged full build of game including story mode
-Mon, 12 Oct 2026 10:32:50 +0000 — https://www.gamesindustry.biz/group-behind-gta-6-leaks-threatens-to-release-alleged-full-build-of-game-including-story-mode
-
-The group responsible for the recent Grand Theft Auto 6 leaks has reportedly threatened to release a full build of the game, including its full story mode and end credits. Read more
-
-### BAFTA awards over £270,000 to 112 recipients in UK and US to support career growth in games, film, and TV
-Mon, 12 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/bafta-awards-over-270000-to-112-recipients-in-uk-and-us-to-support-career-growth-in-games-film-and-tv
-
-BAFTA has awarded over &pound;270,000 in grants to 112 recipients in the UK and North America under its 2026 Prince William BAFTA Bursary and scholarship programmes. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Sonic Racing: CrossWorlds s Final Year One DLC Pack Is Live Now on PS5
+Wed, 14 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonic-racing-crossworldss-final-year-one-dlc-pack-is-live-now-on-ps5
+
+Got the Aang of it. SEGA's ever-evolving kart racer Sonic Racing: CrossWorlds has just received its latest DLC pack, and it brings the world of Nickelodeon's Avatar to the multi-dimensional party. Here's the launch trailer, showing off all the new goodies: Read the full article on pushsquare.com
+
+### EA Reckons Battlefield 6 Deserves a Game of the Year Edition
+Wed, 14 Oct 2026 01:00:00 GMT — https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition
+
+With a grand total of 1 GOTY award. According to a Game of the Year tracking website, Battlefield 6 won a single Game of the Year award from just over 700 outlets. And that's enough to warrant and justify a Game of the Year edition of the shooter on PS5, apparently. The new version was made available yesterday, and it puts one of its key art images in gold and combines it with a new trailer, viewable above. Read the full article on pushsquare.com
+
+### First PS Plus Extra Game Removal for November 2026 Confirmed
+Wed, 14 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/first-ps-plus-extra-game-removal-for-november-2026-confirmed
+
+GTA 5 says goodbye... again. If you want to replay GTA 5 before GTA 6 comes out via your PS Plus Extra subscription, you'll need to get a move on. The open worlder from Rockstar has been confirmed as leaving the service two days before GTA 6 comes out, on 17th November 2026. Read the full article on pushsquare.com
+
+### The Witcher 3 Remastered PS5 Players Start to Wonder Where All the Mods Are
+Tue, 13 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/the-witcher-3-remastered-ps5-players-start-to-wonder-where-all-the-mods-are
+
+But at least we've got hoods. It's been two weeks since the release of The Witcher 3 Remastered on PS5, and some players are starting to question where all of the mods are at. If you didn't know, Remastered brings mod support to the console versions of the game for the first time, allowing mod authors to present their creations to a wider audience. Read the full article on pushsquare.com
 
 ### Modern Warfare 4 Is the Latest Call of Duty to Launch without a PS5 Platinum Trophy
 Tue, 13 Oct 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/10/modern-warfare-4-is-the-latest-call-of-duty-to-launch-without-a-ps5-platinum-trophy
@@ -170,26 +190,6 @@ Tue, 13 Oct 2026 11:15:00 GMT — https://www.pushsquare.com/news/2026/10/sony-r
 
 There's a Midnight Black disc drive, too. Announced overnight, Japan is getting a new PS5 model. But to be clear, it's just the colour that's different here. The console's outer casing, and the DualSense controller that's bundled with the system, are of the 'Midnight Black' variety. Read the full article on pushsquare.com
 
-### God of War Laufey Collector Box Available for Pre-Order Now, Doesn t Include the Game
-Tue, 13 Oct 2026 10:15:00 GMT — https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game
-
-Don't Laufey. PlayStation Spain appears to have jumped the gun on a new product related to God of War Laufey , as it's up for pre-order now despite no prior announcement. The item in question is the God of War Laufey Collector Box, which includes a selection of special edition merch you can't get anywhere else. It's also very much worth noting that the game itself is not part of the package. Read the full article on pushsquare.com
-
-### Review: Castlevania: Belmont s Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania
-Tue, 13 Oct 2026 07:00:00 GMT — https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse
-
-Rose's arm's red, violence ensues. Like Dracula himself, Konami has risen from a lengthy slumber and has spent the last few years reviving its most popular series, like Metal Gear Solid and Silent Hill . Now, it's Castlevania's turn. Castlevania: Belmont's Curse , developed by Evil Empire, is the first new 2D game in the historic franchise since 2008's Order of Ecclesia . Read the full article on pushsquare.com
-
-### SEGA Labelled Stupid Liars After Failing to Fulfil All Future Paid DLC Promise for Sonic Racing: CrossWorlds
-Mon, 12 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/sega-labelled-stupid-liars-after-failing-to-fulfil-all-future-paid-dlc-promise-for-sonic-racing-crossworlds
-
-Season 2, which includes Final Fantasy 7, will require a new Season Pass. Agitated Sonic Racing: CrossWorlds fans have picked up their pitchforks and are pointing them at publisher SEGA, after an old social media post implied “all future paid DLC” would be included with the Digital Deluxe Edition of the game. The Japanese company announced a dizzying Season 2 schedule for the likeable arcade racer this weekend, including Final Fantasy 7 , Evangelion , and Godzilla content. Read the full article on pushsquare.com
-
-### No More Hand Written Code : Fortnite Dev s Disney Game to Be an AI First Project
-Mon, 12 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/no-more-hand-written-code-fortnite-devs-disney-game-to-be-an-ai-first-project
-
-"AI! AI everywhere". Fortnite maker Epic has delayed its collaboration with Disney – a shooter featuring characters from Marvel and Star Wars – to retool it as an “AI first” production. Bloomberg’s highly reliable Jason Schreier (paywalled) reports that the unannounced game was planned to release in March, but no new launch target has been communicated to its team. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'
@@ -210,6 +210,16 @@ no date — https://www.gamedeveloper.comseattleslice.org
 no date — https://www.gamedeveloper.comwww.unrealengine.com/unreal-fest
 
 ## VGC
+
+### Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff
+Wed, 14 Oct 2026 09:04:52 +0000 — https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/
+
+RedLynx doesn't currently have a project and has been deemed unsustainable… Source
+
+### Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title
+Wed, 14 Oct 2026 08:49:58 +0000 — https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/
+
+All three, including Monster Rancher Advance and Kururin Paradise… Source
 
 ### Asha Sharma forms Xbox Labs in response to explosion of AI-powered mods and ports
 Tue, 13 Oct 2026 19:53:17 +0000 — https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/
@@ -251,74 +261,109 @@ Tue, 13 Oct 2026 10:50:57 +0000 — https://www.videogameschronicle.com/news/us-
 
 The ESA says thousand-game handhelds are the industry's version of 'superfakes' Source
 
-### Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’
-Tue, 13 Oct 2026 09:26:17 +0000 — https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/
-
-Despite doubling down on its biggest franchises, Asha Sharma insists original IP is important… Source
-
-### Sony has announced a Midnight Black PS5 but it s only confirmed for Japan so far
-Tue, 13 Oct 2026 08:59:40 +0000 — https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/
-
-The Digital Edition console will be the cheaper region-locked variant found in Japan… Source
-
 ## Polygon
 
-### Dropout Announces New Scripted Series that Spoofs MTV
-Tue, 13 Oct 2026 18:58:33 GMT — https://www.polygon.com/dropout-mp3-new-series-announced-jeremy-culhane-paul-f-tompkins/
+### Netflix's One Piece Season 4 Could Be Coming Much Sooner than Expected
+Wed, 14 Oct 2026 09:29:36 GMT — https://www.polygon.com/netflixs-one-piece-season-4-release-2027/
 
-Dropout announced a new series on Tuesday. Unlike most of the streamer's improv-heavy shows, the three-episode MP3 is a live-action scripted series.
+Netflix has not yet confirmed a fourth season for its successful live-action adaptation of One Piece , but recent hints and clues suggest that fans won't have to wait long to see the Straw Hats back in action. According to new information on the Writers Guild of America (WGA) website , season 4 of Netflix's One Piece could be coming as early as 2027.
 
-### Netflix Releases Official First Trailer for Greta Gerwig's Narnia Movie
-Tue, 13 Oct 2026 18:22:48 GMT — https://www.polygon.com/narnia-the-magicians-nephew-trailer-greta-gerwig-netflix/
+### 28 Years Ago, 'Buffy's Darkest Villain Got a Perfect Introduction
+Wed, 14 Oct 2026 08:00:19 GMT — https://www.polygon.com/buffy-the-vampire-slayer-season-3-episode-3-retrospective/
 
-Netflix has released the first trailer for Narnia: The Magician's Nephew , Barbie and Little Women director Greta Gerwig's adaptation of C.S. Lewis' novel, giving fantasy fans their first look at next year's highly anticipated film. The movie — set 1,000 years before Lewis' The Lion, the Witch and the Wardrobe — serves as a prequel to the larger Chronicles of Narnia story arc.
+These contrasting motivations are often conveyed through characters that are foils to our heroine. Take Cordelia (Charisma Carpenter), who initially represents the blissful ignorance of adolescence until she matures into a more complex member of the Scooby Gang, or Kendra (Bianca Lawson), a fellow Slayer who is too rigid and by-the-book for her own good.
 
-### Xbox Is Experimenting with a Controversial Social Media Feature
-Tue, 13 Oct 2026 17:59:34 GMT — https://www.polygon.com/xbox-streak-feature-social-media-controversy/
+### 10 Sci-Fi Books You Need to Read Before You Die
+Wed, 14 Oct 2026 04:00:20 GMT — https://www.polygon.com/essential-sci-fi-books-you-need-to-read-at-least-once-in-your-life/
 
-Do you like it when software utilizes subtle forms of psychological manipulation to keep you coming back? If so, you will be thrilled to hear that Xbox is experimenting with a new streak feature that will highlight how many weeks in a row you’ve actively used your console. As spotted by journalist Stephen Totilo , Xbox Insider users have seen this functionality within the Xbox dashboard and profile menu.
+Sci-fi remains one of the most expansive playgrounds for storytelling, capable of charting distant galaxies and alien frontiers just as easily as it exposes the immediate horrors of modern-day technology. At its peak, speculative fiction uses its invented worlds and distant planets to interrogate what it means to be human, cracking open philosophical questions that grounded genres simply can’t reach.
 
-### 'Baywatch' Reboot Trailer Has All the Slo-Mo You Could Ever Want
-Tue, 13 Oct 2026 17:16:02 GMT — https://www.polygon.com/baywatch-reboot-trailer-fox-stephen-amell/
+### 'VisionQuest' Officially Makes the MCU's Most Overlooked Show Essential Viewing
+Wed, 14 Oct 2026 01:56:15 GMT — https://www.polygon.com/visionquest-tommy-explainer-how-is-he-alive-agatha-all-along-spoilers/
 
-Fox's Baywatch reboot is just around the corner, and the first full official trailer for the series shows everything fans could want. There are hot bodies, action, drama, so much slo-mo, and ... Megan Thee Stallion ?! Yes, all those things and more are set to be in the series when it premieres in January 2027.
+Between WandaVision and Doctor Strange in the Multiverse of Madness , Wanda Maximoff (Elizabeth Olsen) demonstrated just how far grief could drive someone with the power to rewrite reality to do terrible things. Her primary goal in Multiverse of Madness was to reach another universe where she could reunite with her children, Billy and Tommy. After all, the boys from her own universe seemingly disappeared along with the rest of the family she created inside the Westview Hex in WandaVision . But were they ever really gone?
 
-### 'An Unheard Farewell' quest walkthrough in Valor Mortis
-Tue, 13 Oct 2026 17:09:18 GMT — https://www.polygon.com/valor-mortis-an-unheard-farewell-quest-walkthrough/
+### 'VisionQuest' Just Officially Fixed a Huge Problem With MCU Canon
+Wed, 14 Oct 2026 01:31:15 GMT — https://www.polygon.com/adamantium-marvel-mcu-visionquest/
 
-"An Unheard Farewell" is a Valor Mortis side quest that asks you to help a lonely Adjudant. His squad is supposedly scouting the area, but, unsurprisingly, they haven't returned. As the poor Adjudant is too scared to look for his comrades himself, the task falls to William.
+Finally, adamantium is being put to good use in the Marvel Cinematic Universe . Well, not good use, but at least someone is using it now, which has taken way, way too long.
 
-### How to beat The Iron Marshall in Valor Mortis
-Tue, 13 Oct 2026 17:01:15 GMT — https://www.polygon.com/valor-mortis-iron-marshall-boss-how-to-beat/
+### 5 Forgotten Square Enix RPGs That Deserve a Comeback
+Wed, 14 Oct 2026 00:00:16 GMT — https://www.polygon.com/forgotten-square-enix-rpgs/
 
-To beat The Iron Marshall in Valor Mortis , forget about parrying for a moment, and get stabby. Unlike most enemies at the post-apocalyptic eastern front, The Iron Marshall is best fought with fire, speed, and dodging skills. With the right weapons in hand, this cannon-wielding monstrosity won't keep you from completing Chapter 3.
+Square Enix is synonymous with fantastic role-playing games, thanks to series like Final Fantasy , Dragon Quest , and Kingdom Hearts . But very few games are lucky enough to enjoy that kind of longevity. Over the years, the company has released plenty of games that had enormous potential, but for one reason or another, didn't turn into a long-running franchise or are nearly impossible to play today.
 
-### How to beat General Lothaire, the Eagle-Bearer, in Valor Mortis
-Tue, 13 Oct 2026 17:01:15 GMT — https://www.polygon.com/valor-mortis-general-lothaire-boss-how-to-beat/
+### 11 Magic: The Gathering Marvel Cards That Perfectly Capture Their Characters
+Tue, 13 Oct 2026 23:00:16 GMT — https://www.polygon.com/mtg-best-marvel-card-designs-magic-the-gathering-super-heroes/
 
-To beat General Lothaire in Valor Mortis , you should boost your endurance, equip the best early-game amber, and, most importantly, be very brave. While General Lothaire isn't the first elite enemy you've come across, he's an absolute menace compared to the folks at the stone quarry. Don't feel bad if you need more than a few tries to get past him.
+That’s what makes Universes Beyond , Wizards of the Coast’s line of crossover sets, such a compelling experiment. Bringing beloved characters into Magic is one thing, but translating what makes them special into the game’s mechanics is an entirely different challenge. The game has already drawn from all kinds of fictional worlds, ranging from the post-apocalyptic wasteland of Fallout to the unforgettable adventures of Final Fantasy , each set offering a unique spin on iconic characters, locations, and objects. Some designs reference a memorable moment or character trait, while the best make their mechanics feel inseparable from the source material.
 
-### How to unlock fast travel in Valor Mortis
-Tue, 13 Oct 2026 17:01:15 GMT — https://www.polygon.com/valor-mortis-fast-travel-how-to-unlock/
+### New Xbox Labs Team Officially Announced
+Tue, 13 Oct 2026 21:08:30 GMT — https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/
 
-It's possible to fast travel in Valor Mortis , though it may not seem so at first. So, if you're afraid of missing items or optional areas, don't be; you can always return later. That said, it'll take a while to start fast-traveling across the plague-ridden battlefields.
+The great Xbox reset continues. The latest change in Microsoft's gaming strategy appears to be something of a reversal in Xbox CEO Asha Sharma's approach to generative AI in game creation. On Tuesday, Sharma unveiled Xbox Labs , a new division in the Xbox gaming group composed of "a small group of game makers, engineers and scientists whose job is to turn emerging ideas into things our players and developers can experience."
 
-### 10 Valor Mortis beginner's tips to help you survive the Crimson Plague
-Tue, 13 Oct 2026 17:01:15 GMT — https://www.polygon.com/valor-mortis-beginners-tips-tricks-guide/
+### Resident Evil 4 Remake On Switch 2 Is Capcom’s First Disappointment This Year
+Tue, 13 Oct 2026 21:00:16 GMT — https://www.polygon.com/resident-evil-4-remake-switch-2-impressions/
 
-These Valor Mortis beginner's tips boost William's chances of surviving the eastern battlefront in the Napoleonic Wars. It wasn't the safest place to begin with, and the Crimson Plague hasn't helped; instead of two warring armies, it's one lone man against a zombie horde now. A few pointers on parrying, finding shortcuts, and recovering HP may come in handy.
+No matter how many times I play it, there's something about Resident Evil 4 's opening act that sets me on edge. It's no one specific thing — more a combination of atmosphere, pop-up murderers hiding in unexpected places, and the looming dread of Chainsaw Guy. I know how to deal with him, but he scares me anyway. I've been playing Resident Evil 4 remake's Switch 2 port recently, and the only thing more jittery than my nerves is the game itself. It struggles in handheld mode, unlike all of Capcom's other Switch 2 ports this year, though the performance is much better docked.
 
-### 'Boarding The Frigate' quest walkthrough in Arc Raiders
-Tue, 13 Oct 2026 16:49:17 GMT — https://www.polygon.com/arc-raiders-boarding-the-frigate-quest-walkthrough/
+### 63 Years Later, the Best 'Peanuts' Sally Line Is Still an Iconic Comic Strip Quote
+Tue, 13 Oct 2026 20:00:15 GMT — https://www.polygon.com/sally-brown-best-quotes-peanuts/
 
-The "Boarding The Frigate" quest in Arc Raiders is one that doesn't hide what it entails, because it's ultimately all about one thing: boarding a Frigate. The Frigate is a brand-new Arc machine introduced with the "Frozen Trail" update, and it can appear on any map as part of its own map condition, sans Stella Montis. It's bigger and badder than even the Matriarch though, and taking it down is one hell of a feat.
+In almost 50 years, however, despite taking more Ls than a stuck typewriter, Charlie Brown almost never actually got mad about it. His style is more of a world-weary acceptance, verging on Zen calm. It's left to other characters to rage, cry, and question their lot. That's usually Lucy or Linus, but Charlie's little sister Sally Brown gets in her own swings at the fundamental unfairnesses of childhood.
 
 ## PC Gamer
+
+### Steam's new Big Art Mode is a lovely visual upgrade for my living room setup
+Wed, 14 Oct 2026 09:23:14 +0000 — https://www.pcgamer.com/software/platforms/steams-new-big-art-mode-is-a-lovely-visual-upgrade-for-my-living-room-setup/
+
+Steam's Big Picture Mode just got a big visual overhaul that puts game art in the spotlight, and my living room setup has never looked better. The new mode is rolling out of beta with the latest Steam client release . If you're all up-to-date, you can enable it within Big Picture Mode. Just head to Settings, then Home. It's called Big Art Mode. The new Big Art Mode sticks a massive, full-size version of the game's key art behind the usual large art icon. Steam Big Art Mode on/off The new mode offers a surprisingly big visual overhaul. Big Art Mode Standard The update is also mentioned in the Steam Deck update notes , too. My mini PC lives in Big Picture Mode. It's the closest thing to using SteamOS without actually installing SteamOS. Nothing against the OS—I just play some games that aren't best suited to Linux. My PC is hooked up to my TV in my living room, and whenever I boot it up, I only have to grab my Steam Controller, double-tap the Steam button, and choose which game to play—all without touching a keyboard. The new Big Art Mode feels much better suited to this laid-back gaming experience. Big visuals, less UI, and a more appealing vibe. A lovely look on a big ol' OLED TV. ]]>
+
+### Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners
+Wed, 14 Oct 2026 03:08:04 +0000 — https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/
+
+The Steam client got a major new update today, with Big Picture Mode receiving the brunt of the attention. Most exciting, I guess, is that the previously beta-only screensaver feature for Big Picture Mode is now live for the general public. In its default mode the screensaver will display art from recently played games, as well as any recent screenshots you've taken. But you can add your own custom screensavers too, which is nice. Valve also has "a retro inspired bouncing logo screensaver" which you can select in the new dropdown menu found under Settings / Customization. As the name implies, the Steam logo bounces around a black screen, changing color every time it hits an edge. Valve has not made this screensaver the default screensaver, and it's lucky that it didn't: it's a work of diabolical cruelty. It will drive you to despair. The screensaver references the ye olde screensaver built into DVD players in the late '90s and early '00s. If you're too young to remember it firsthand you've probably heard of it: a DVD Video logo bounces around a black screen, changing color every time it hits an edge. This unassuming but actually-quite-psychologically-damaging display has gone viral several times over the last decade or so, to the extent that, if you Google it, the Google logo will bounce around the search results page. It even has a Wikipedia page . Why? Everyone subjected to it in the pre-social media era seems to have experienced the same intense desire for that DVD Video l
+
+### Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history
+Wed, 14 Oct 2026 00:42:28 +0000 — https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/
+
+With the recently launched Steam Frame superseding the Index VR headset, Valve has heavily discounted remaining stock of the latter. The Index VR headset launched in 2019 for $499, but now you can get one for $399.20. Keep in mind that the Index VR headset doesn't come with controllers or a base station. A package bundling those used to cost $999, but that option is no longer available and thus, there's no associated discount. Left controller replacements and replacement tethers are going for $119.20 and $103.20 respectively. No, there aren't any right controller replacements listed. It seems that if you want controllers for your Index VR, you'll probably need to buy them elsewhere. The same goes for base stations. "Valve Index is no longer being produced," reads a Steam news item published earlier today. "Remaining Index headsets, controllers, and accessories are still available at the new prices below while supplies last." That "while supplies last" is crucial: obviously Valve won't be making any more, and they've given no sense of how many they have lying around. If you really want one, perhaps as a collectible, I'd probably act fast. Valve designer Lawrence Yang indicated that Index VR was no longer being manufactured last year, but this is the first official word from Valve on the matter. The Index was a tidy piece of kit when it launched in April 2019. Our review called it the best VR headset available, while falling short of a 2.0 approach to VR. Nowadays the thought o
+
+### Rockstar co-founder Dan Houser says he 'failed' with Max Payne 3, and I'm sorry Danno but that's just plain wrong
+Tue, 13 Oct 2026 22:19:05 +0000 — https://www.pcgamer.com/games/third-person-shooter/rockstar-co-founder-dan-houser-says-he-failed-with-max-payne-3-and-im-sorry-danno-but-thats-just-plain-wrong/
+
+Dan Houser is a co-founder of Rockstar Games and so I would never presume to tell him he's wrong about any of the games Rockstar has made— except in this one particular instance, where I feel obligated to step up and say, 'Dan, I'm sorry bud, but you're wrong.' The game in question is Max Payne 3 , on which Houser played a central role, and one he seems rather down on: In an interview with IGN , he said the game was a "failure" because, simply put, he's not Sam Lake, the Remedy creative director who wrote the first two Max Payne games. As a very linear game, Max Payne 3 "was a little different" from the open world GTA games he was accustomed to, Houser said, but he also really enjoyed the experience. "I loved what we did design-wise, the way the game didn't have loads, the way it felt like a 12-hour movie, some of the visual stuff we did with words on screen. Alas, he continued, "I felt we were creating a really cool digital noir experience, and the consensus at the time was that people hated it. "So I got that completely wrong," Houser said. "I know Sam Lake well, and he's a very good guy and really talented. I thought we'd done a good job of doing another Max Payne game. Some people liked it; lots didn't. So we got it wrong, or I got it wrong. I failed. My bit was not a success. "The game is beautifully made, and it wasn't as successful as it should have been. So I would say a large amount of that failure was on me as one of the people making the decisions and also as the w
+
+### Kojima says he was 'just like Bryan' from the Resident Evil movie when he played RE1 in 1996: 'I kept getting game over after game over, shouting F***!'
+Tue, 13 Oct 2026 22:04:33 +0000 — https://www.pcgamer.com/movies-tv/kojima-says-he-was-just-like-bryan-from-the-resident-evil-movie-when-he-played-re1-in-1996-i-kept-getting-game-over-after-game-over-shouting-f/
+
+Zach Cregger's Resident Evil film was released to critical acclaim last month, with more than one reviewer calling it ' the best videogame movie ever .' Another review dropped today, from none other than Hideo Kojima, and it's (seemingly) a glowing one. "I wasn’t particularly interested at first, but since it’s Zach Cregger’s latest film, I went to see Resident Evil," Kojima posted on Twitter on October 12. "Right from the opening, it hits you with music reminiscent of "The Thing." From there, it’s a relentless barrage of classic horror techniques, terrifying situations, and jump scares that never lets up until the very end." That bit is sorta why I said seemingly above. Do I detect a little backhanded praise? Calling it a "relentless barrage" isn't necessarily a compliment, saying a director used "classic horror techniques" could be a way of saying it's unoriginal, and pointing out that there are "jump scares" throughout might suggest it's not a particularly sophisticated film. Or, maybe I'm coloring Kojima's statements with my own paranoia which endlessly scans any compliment I'm given for potential criticism. You be the judge. Anyway, here's the real meat of Kojima's little review: "This isn’t a film adaptation of Resident Evil. It’s a film about the experience of playing Resident Evil, controller in hand," Kojima continued. "It reminded me of how I felt when I first played the original Resident Evil on PlayStation back in 1996. I was just like Bryan in this movie. I kept 
+
+### Legendary level designer Richard 'Levelord' Gray has died
+Tue, 13 Oct 2026 20:52:23 +0000 — https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/
+
+Richard Gray, better known to gamers of a certain age as Levelord, has died. Gray's death was reported on social media by Apogee Entertainment, who paid tribute to his "legendary work on Duke Nukem 3D" and the lasting legacy he left behind. We are deeply saddened by the passing of Richard “Levelord” Gray.From his legendary work on Duke Nukem 3D to the countless players and developers he inspired, Richard leaves behind a lasting legacy.Rest in peace, Levelord. — @apogeeent.com ( @apogeeent.com.bsky.social ) 2026-10-13T20:34:18.004Z Gray worked as a level and map designer on numerous shooters in the late 1990s and early 2000, beginning with Duke Nukem 3D in 1996. Shortly after that game launched, he left 3D Realms and co-founded Hipnotic Interactive, later renamed to Ritual Entertainment, where he worked on games including Quake: Scourge of Armagon, Sin, Star Trek: Elite Force 2, Counter-Strike: Condition Zero, 25 to Life, and others. He also earned a very specific fame for his "You're not supposed to be here" Easter egg in Duke Nukem 3D, which was only accessible via cheating. Gray came to the game business at a (relatively, for the industry) advanced age. In a 2016 interview with Duke64Nukem.com he said he was 35 when he made his first Doom level, calling himself "a late bloomer with games," while Apogee founder Scott Miller said Gray was "in his 40s" when the studio hired him out of the Doom mod scene to work on Duke Nukem 3D. (Image credit: Scott Miller (Twitter)) "I hired 
+
+### World of Warcraft: Forever won't destroy what made the old classes so satisfying by modernizing them into oblivion: 'The level of mechanical complexity found in the beta classes is indicative of our intentions'
+Tue, 13 Oct 2026 20:40:33 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-wont-destroy-what-made-the-old-classes-so-satisfying-by-modernizing-them-into-oblivion-the-level-of-mechanical-complexity-found-in-the-beta-classes-is-indicative-of-our-intentions/
+
+Part of World of Warcraft: Forever's charm is that combat is considerably slower than the regular version of the MMO. It's the kind of game where you'll spend 38 seconds hitting a scorpion because there are so few buttons to press in the early stages of your journey. Classes in WoW's past were simple, but had small quirks to them that you'd pick up over time. Melee classes, for example, can squeeze abilities in between their auto attacks to maximize their damage output. You'd never care about this if fights only took 10 seconds, like they do in WoW today, but back then you had to use all that time in more drawn-out battles for something . The WoW: Forever beta has reminded me how satisfying it is to play a class that isn't built like Whac-A-Mole, where the challenge is to hit the right buttons the moment they start to glow. There's a rhythm to WoW's old classes and I'm delighted to hear that Blizzard fully intends to maintain it in WoW: Forever. Blizzard developers told TechRadar that they want "to err on the side of simpler classes, but with engaging depth," and that all of it will align with its guiding principle of staying true to the old MMO's "core design, pacing, and tone." "The level of mechanical complexity found in the beta classes is indicative of our intentions," Blizzard says. That suggests to me that Blizzard isn't trying to speed up the pace of combat, nor will it look to shore up a class' weaknesses by adding new abilities where there were none before. My level
 
 ### Grand Theft Auto 6 rumored to be launching on PC sooner than anyone expected, but I wouldn't get my hopes up too high
 Tue, 13 Oct 2026 18:07:30 +0000 — https://www.pcgamer.com/games/grand-theft-auto/report-claims-grand-theft-auto-6-will-launch-on-pc-sooner-than-anyone-expected/
 
 A GamesBeat report claims that Grand Theft Auto 6—which still hasn't been announced for PC—will launch for PC sometime within the first three months of 2027. If correct, that means the game will drop, at most, just four months after its initial release on PlayStation 5 and Xbox Series X/S consoles. GamesBeat cites "four industry sources familiar with the studio's plans" in its report, all of whom requested anonymity. Rockstar has not yet commented on the claim. It's a surprising claim. Earlier this year, we predicted that GTA 6 won't likely appear on PC before November 2027 , mainly because that's just how Rockstar rolls. We always have to wait. The Unfortunate Timeline Grand Theft Auto 3: 7 months between console and PC release Vice City: 7 months San Andreas: 8 months Bully: 2 years GTA 4: 7 months Red Dead Redemption: 14 years, 5 months GTA 5: 1 year, 6 months RDR2: 1 year Compared to that, a four month break between the console and PC releases, and possibly less, seems downright snappy, especially given how the gaps between GTA games themselves have grown over the decades. Courtesy of Wikipedia : (Image credit: Wikipedia) Not only would a Q1 release of GTA 6 on PC be an unusually brief break, it also puts the game in the midst of the post-holiday hangover, when we're all doing our best to nurse our bruised and battered bank balances back to health. And that, I think, would feel especially egregious in the immediate aftermath of this year's holiday season, which for gamers
+
+### How to complete An Unheard Farewell in Valor Mortis
+Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/
+
+Key deets ⚔️ Find the cave with the missing scouts halfway up the elevator shaft after you unblock the top level. ⚔️ No matter what you choose to tell the Adjutant Sous-Officier, you'll get the Sleight of Hand amber. ⚔️ You will, however, get a bonus reward depending on whether you told the truth or lied. An Unheard Farewell is likely the first quest you'll encounter in Valor Mortis, and it sees you helping the Adjutant Sous-Officier in the Valley of Ashes track down his missing scouts. The scouts are located in a cave halfway up the elevator shaft from 'The Climb' lantern, but you'll have to progress to the top of the elevator first to unlock the route. From the Adjutant Sous-Officier, you'll want to: Progress through the level, grabbing the pistol, unlocking the lift, and progressing through the caves until you reach the top of the elevator. As in the video above, shoot the two glowing Nephtogloblin growths to unlock the lift and pull the lever to call it up. Take the elevator down and jump off to the left about halfway, where you'll spot a ledge and a wall you can burn. Defeat the tough soldier enemy in the cave—I suggest using fire to chip his health—and grab the notes by tent behind him. If you continue along the main track after this, you'll eventually find yourself back at the Adjutant Sous-Officier, where you can choose whether you want to tell him the truth about the fate of his scouts or lie. If you tell the truth you'll get the Sleight of Hand amber and you can ret
+
+### How to complete The Emissary in Valor Mortis
+Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-the-emissary-walkthrough/
+
+Key deets ☠️ You can't complete The Emissary quest until much later in the game. ☠️ You need the Shield Transmutation which you get at the university to pass through the poison clouds. ☠️ This is the final transmutation you unlock and it's impossible to miss. The Emissary quest in Valor Mortis is likely the third you'll encounter after crossing the bridge in the Valley of Ashes and making your way into the army camp. You'll find the seal of an emissary from Bonaparte in an abandoned carriage, but the quest will indicate you somehow need to get through the clouds of poison infesting the camp to progress it further. To do this, you need the Shield Transmutation ability , but you won't unlock this until much later in the game, when you visit the university in the city. The Valley of Ashes is the game's 2nd area, while the university is the 9th, which puts into perspective just how much you'll have to first progress in order to return and complete this quest. Once you do have the ability, use it to cross the poison, head through the camp, and interact with the unusual corpse to start a miniboss fight of sorts. After this, open the chest to get the Perfect Copy amber, which increases the ranks of all other equipped Tier 1 and Tier 2 ambers. Valor Mortis ambers : How to equip them Valor Mortis General Lothaire : Can you win? Valor Mortis An Unheard Farewell : Find the scouts Valor Mortis The Scarecrow : Recover the items ]]>
 
 ### Can you beat General Lothaire in Valor Mortis?
 Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-general-lothaire-boss/
@@ -330,52 +375,12 @@ Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-m
 
 (Image credit: One More Level) Key deets 💎 Ambers are precious gems you equip to gain passive bonuses and abilities. 💎 You can slot them at the level up menu with any lantern. 💎 You unlock a new slot every ten levels. You'll most likely find your first amber in Valor Mortis before you're actually able to equip it. The game has a fairly simplistic skill tree that focuses around passive buffs, so the ambers you equip are more what add a bit of spice to your build. You can equip an amber once you reach Level 5 by leveling up at any lantern. When you enter the level up menu, you'll notice that a slot with a + symbol has unlocked on the bottom layer—click on this and select the amber you want to equip, and don't worry, you can swap them at any time. After this, you'll unlock a new slots every ten levels at: Slot two : Level 15 Slot three : Level 25 Slot four : Level 35 Slot five : Level 45 This means there are five amber slots overall. You'll generally get new ambers from quests and chests, and any amber you already own will level up to provide a more powerful passive bonus when you acquire a copy of it. Valor Mortis General Lothaire : Can you win? Valor Mortis An Unheard Farewell : Find the scouts Valor Mortis The Emissary : Pass the poison Valor Mortis The Scarecrow : Recover the items ]]>
 
-### How to complete The Scarecrow in Valor Mortis
-Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-the-scarecrow-walkthrough/
-
-Key deets 🐦‍⬛ The medallion is along the path to the left of the scarecrow by a cross against a tree. 🐦‍⬛ The letter with a drawing is on the upper floor of the big house to the left of the "Fields" lantern, accessible via the gate you open as a shortcut later. 🐦‍⬛ Once you return both, you have to find the lover's hideaway in the attic of the barn near the big house. In Valor Mortis's The Scarecrow quest, you have to collect two possessions belonging to the unfortunate soul tied up in the field: a medallion and a note with a drawing. The video above shows the three locations you need; where to find both items and the hay loft once you've returned them to the scarecrow. You can find the medallion just to the left of the scarecrow, down a short path through the field that leads to a cross resting against a tree, with a corpse who looks to have dropped it. The note with a drawing is slightly more complicated, though: Progress through the level until you unlock the shortcut gate by the big house, leading back to the "Fields" lantern. From the lantern, head down the path until you reach the gate to the open area with the Volunteer enemy guarding the carriage—turn left before the gate instead. Continue through the haystacks towards the house in the distance—note the barn with the diamond-shaped window to your right, as you'll return here later. Enter the house through the back door. Head upstairs and grab the note with a drawing from the table. Now, return both items to the sca
-
-### I can summon jumbo jets and boats from the sky in GTA 5 now, and I'll do it in the middle of crowded intersections if I want to
-Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-can-summon-jumbo-jets-and-boats-from-the-sky-in-gta-5-now-and-ill-do-it-in-the-middle-of-crowded-intersections-if-i-want-to/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . What's the greatest moment in a videogame? Finding the truth of what happened at Red Mountain in Morrowind? Catching every pokémon in Pokémon? Something inscrutable in Final Fantasy 14? All excellent answers. All wrong. The greatest moment in videogames is repeatedly dropping shipping crates on Quiet's head in Metal Gear Solid 5 until she decides to become your comrade for life. Naturally, I had to bring this experience to Grand Theft Auto 5, and I did it using Just Cause 3 Rebel Drops [.NET] , which allows you to summon Tardis-like containers filled with goodies at any location in Los Santos. Tap the L key, choose from your list of summonables. Bish bash bosh, done. Of course, what you can summon is guns (I have them all) and vehicles (they speed off over the horizon as soon as they appear), so mostly what I have been using the technology for is to attempt to drop crates on my bodyguard. It's tougher than it might sound: the crates land haphazardly, without much rhyme or reason, and my bodyguard is a wily fella—quick on his feet. (Image credit: Rockstar) Still, it is great fun to spawn a jumbo jet in the middle of an intersection and watch the world have to try to encompass this new and undesired aspect of its reality. Even 
-
-### How to complete An Unheard Farewell in Valor Mortis
-Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-an-unheard-farewell-walkthrough/
-
-Key deets ⚔️ Find the cave with the missing scouts halfway up the elevator shaft after you unblock the top level. ⚔️ No matter what you choose to tell the Adjutant Sous-Officier, you'll get the Sleight of Hand amber. ⚔️ You will, however, get a bonus reward depending on whether you told the truth or lied. An Unheard Farewell is likely the first quest you'll encounter in Valor Mortis, and it sees you helping the Adjutant Sous-Officier in the Valley of Ashes track down his missing scouts. The scouts are located in a cave halfway up the elevator shaft from 'The Climb' lantern, but you'll have to progress to the top of the elevator first to unlock the route. From the Adjutant Sous-Officier, you'll want to: Progress through the level, grabbing the pistol, unlocking the lift, and progressing through the caves until you reach the top of the elevator. As in the video above, shoot the two glowing Nephtogloblin growths to unlock the lift and pull the lever to call it up. Take the elevator down and jump off to the left about halfway, where you'll spot a ledge and a wall you can burn. Defeat the tough soldier enemy in the cave—I suggest using fire to chip his health—and grab the notes by tent behind him. If you continue along the main track after this, you'll eventually find yourself back at the Adjutant Sous-Officier, where you can choose whether you want to tell him the truth about the fate of his scouts or lie. If you tell the truth you'll get the Sleight of Hand amber and you can ret
-
-### How to complete The Emissary in Valor Mortis
-Tue, 13 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/action/valor-mortis-the-emissary-walkthrough/
-
-Key deets ☠️ You can't complete The Emissary quest until much later in the game. ☠️ You need the Shield Transmutation which you get at the university to pass through the poison clouds. ☠️ This is the final transmutation you unlock and it's impossible to miss. The Emissary quest in Valor Mortis is likely the next you'll encounter after crossing the bridge in the Valley of Ashes and making your way into the army camp. You'll find the seal of an emissary from Bonaparte in an abandoned carriage, but the quest will indicate you somehow need to get through the clouds of poison infesting the camp to progress it further. To do this, you need the Shield Transmutation ability , but you won't unlock this until much later in the game, when you visit the university in the city. The Valley of Ashes is the game's 2nd area, while the university is the 9th, which puts into perspective just how much you'll have to first progress in order to return and complete this quest. Once you do have the ability, use it to cross the poison, head through the camp, and interact with the unusual corpse to start a miniboss fight of sorts. After this, open the chest to get the Perfect Copy amber, which increases the ranks of all other equipped Tier 1 and Tier 2 ambers. Valor Mortis ambers : How to equip them Valor Mortis General Lothaire : Can you win? Valor Mortis An Unheard Farewell : Find the scouts Valor Mortis The Scarecrow : Recover the items ]]>
-
-### I was excited by Warlock: Dungeons & Dragons until the protagonist pulled out a sword
-Tue, 13 Oct 2026 16:43:54 +0000 — https://www.pcgamer.com/games/rpg/i-was-excited-by-warlock-dungeons-and-dragons-until-the-protagonist-pulled-out-a-sword/
-
-Considering only eight minutes of it were shown at Gamescom's Opening Night Live, I went on a real journey with Warlock: Dungeons & Dragons . At first, I was nonplussed by it. While the production values were impressive, it also looked like every Sony game released in the last ten years, right down to the specific angle of the camera and the quippy NPC companion. Yet as the reveal unfurled, I found myself growing intrigued by Warlock's invocation-based puzzle-solving and combat. Levitating objects to create platforms, using teleportation spells to swap places with enemies, conjuring a whole-ass storm to make electrical attacks more viable. It's rare to see a game of this scope encourage guile and cleverness from the player, to set its mechanical ambitions slightly beyond timed dodges and grisly executions. (Image credit: Wizards of the Coast) And then, just as I thought I was sold on Warlock, the main character pulled out a sword. Well, to be specific, Warlock's magical protagonist Kaatri conjured a sword. After all, why bother lugging around several pounds of sharpened steel when you can just make one appear out of thin air any time you like? It's silly to carry around a sword that you don't need. Which is precisely why I was dismayed to see one appear in Warlock at all . Now, to be clear, I like swords—to the point where I spent several years training to use one. I also like games about swords, and appreciate how difficult it is to create interesting and authentic swordplay
-
-### Ben Affleck lost 3 years to Starcraft, has strong Valorant opinions, and mourns RTSes as a genre, so there's solid odds he's one of our regular commenters
-Tue, 13 Oct 2026 15:19:23 +0000 — https://www.pcgamer.com/movies-tv/ben-affleck-lost-3-years-to-starcraft-has-strong-valorant-opinions-and-mourns-rtses-as-a-genre-so-theres-solid-odds-hes-one-of-our-regular-commenters/
-
-Unlike PC Gamer's UK editorial staff , Ben Affleck knows ball. Metaphorically, I mean. Though he probably also knows what the Miami Heat is. Speaking on the October 12 episode of the Happy Sad Confused podcast , Affleck reflected—with a touch of regret—on the time Starcraft swallowed his entire life. "There was a game called Starcraft that probably took the most life out of me for a period of time. I had just gotten famous, and all I did was stay home for three years and play Starcraft." The celebs, folks—they're just like us. More so than usual in Affleck's case, I suppose, since the actor's videogame career doesn't only encompass a brief dalliance with Blizzard's RTS series. "Valorant's a great game. It's a great game," he continued, "The problem with that game is that—the kids that have been raised playing, I just get fuckin' rocked. I'm like, 'Are you mother fuckers cheating?' And I get mad. And they're like 11, they're like, 'Fuck you loser!' It's very humiliating, but that's a great game." Which is pretty much my experience playing anything with anyone. But do you think Affleck—one whole Batman and one half of Good Will Hunting—stopped there? More fool you. "I love 2K, I love Madden. The early Doom—which then gave rise to Quake and gave rise to all that—we played that endlessly," he recalled. "We were doing Good Will Hunting, we were playing Doom… I remember writing and taking these long breaks to play Doom. I can't believe it's been out that long." Doom, for our younge
-
-### Hundreds of layoffs and many cancelled projects later, Xbox CEO Asha Sharma reportedly says 'we will not survive' without new IPs
-Tue, 13 Oct 2026 14:57:01 +0000 — https://www.pcgamer.com/gaming-industry/hundreds-of-layoffs-and-many-cancelled-projects-later-xbox-ceo-asha-sharma-reportedly-says-we-will-not-survive-without-new-ips/
-
-Thousands of layoffs , a couple of booted studios, and a re-organisation of Obsidian away from its newer projects and onto Fallout later, Xbox CEO Asha Sharma has reportedly taken to an internal town hall and talked about the importance of new IP. The transcript, as shared by Windows Central , goes as follows: "We're backing our strongest franchises. I want our great games to become great global billion-dollar franchises. I would also like to see us continue to create enduring new IP. We will not survive if we only revive [sic] on the past. We have to find new ways, and courage, to have invention on new IP, that reaches new sets of audiences." This is, to put it gently, very confusing. As part of Xbox's "Reset", the studio has done the following: Cancelled multiple projects from Obsidian and told it to go make a Fallout game . Made Double Fine go independent . Did the same to South of Midnight studio Compulsion Games . Put its sights on Arkane Lyon . Is, at present, in consultation talks regarding Ninja Theory after attempted sales failed. That doesn't smack to me of the kind of courage and new IP invention that Sharma is talking about—most of these studios had either just made interesting new IPs (South of Midnight) or are in the business of doing cool, inventive new stuff (Double Fine). From a numbers-driven point of view, were they making bank? Likely not, but the phrase "trying to have your cake and eat it too" exists for a reason. The mouth isn't talking about what the h
-
-### AMD has reportedly already raised GDDR6 prices for its graphics card partners, so you'll find no solace from spiking GPU prices with Team Red
-Tue, 13 Oct 2026 14:39:39 +0000 — https://www.pcgamer.com/hardware/graphics-cards/amd-has-reportedly-already-raised-gddr6-prices-for-its-graphics-card-partners-so-youll-find-no-solace-from-spiking-gpu-prices-with-team-red/
-
-We all know RAM and SSD prices have been significantly impacted by the memory supply crisis. But it's easy for some to forget just how much dedicated memory modern graphics cards rock these days. And when I say 'some' I mean those not still trying to hunt down a reasonably priced Nvidia RTX 5090. Alas, it sounds like the broader situation shows no signs of improvement. Unfortunately for its Add-in Board partners, AMD has reportedly raised its prices for the GDDR6 memory that comes with its GPUs. According to sources on Chinese forum Boardchannels, the price increase took effect October 1 (via Benchlife ). If AIBs are having to pay more for AMD GPUs, they'll likely also raise their prices and pass the expense on to the consumer. Long story short, PC gamers will likely have to spend more on team red's wares in the near future. We've been actively monitoring graphics card prices for some time now , and sadly this is far from an unusual development. Back in July, Nvidia made a similar move with the pricing of its GDDR6 and GDDR7 cards . Reports followed that Nvidia graphics card prices were rumoured to increase by as much as 30% . In August, our Dave advised gamers to " avoid any Nvidia card with more than 8 GB VRAM, if you value your bank balance ". It's also not just memory prices gamers have got to worry about when it comes to graphics cards, but increasingly limited supply too . Indeed, RTX 5090s have been particularly hard to find at US retailers online . While celebrating t
-
-### RimWorld drops Unity for its own in-house engine, says your saves still work, so do most mods, and the whole thing runs twice as fast
-Tue, 13 Oct 2026 13:58:15 +0000 — https://www.pcgamer.com/gaming-industry/game-development/rimworld-drops-unity-for-its-own-in-house-engine-says-your-saves-still-work-so-do-most-mods-and-the-whole-thing-runs-twice-as-fast/
-
-2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
 ## GameSpot
+
+### Hideo Kojima Reviews The Resident Evil Movie
+Tue, 13 Oct 2026 19:42:51 +0000 — https://www.gamespot.com/articles/hideo-kojima-reviews-the-resident-evil-movie/
+
+Writer-director Hideo Kojima has seen Zach Cregger's Resident Evil movie, and he has now shared his review. Kojima, a true cinephile known for his public movie reviews , said he "wasn't particularly interested" in seeing the movie at first, but he did, and he sounded pretty impressed by what he saw. "Right from the opening, it hits you with music reminiscent of The Thing. From there, it’s a relentless barrage of classic horror techniques, terrifying situations, and jump scares that never lets up until the very end," he said . Kojima went on to observe what others did as well, which is how the Resident Evil movie is more of a film that provides the "experience of playing Resident Evil" as opposed to watching an adaptation of one of its stories. "It reminded me of how I felt when I first played the original Resident Evil on PlayStation back in 1996," he said. "I was just like [main character] Bryan in this movie. I kept getting game over after game over, shouting “F***!” over and over again. lol." Austin Abrams as Bryan in the Resident Evil movie. This is the kind of response that Cregger said he wanted viewers to have. It's also what got Cregger in some hot water with hardcore fans who wanted to see a straight adaptation of one of the games instead of Cregger's own original story set inside the world of Resident Evil. Another bright spot for Kojima? While he was at the theater, he picked up some physical reading materials for the divisive new Tom Cruise movie Digger. A lot of 
 
 ### Battlefield 6 Now Lets You Instantly Unlock All Guns At 100% Mastery For $30
 Tue, 13 Oct 2026 19:05:04 +0000 — https://www.gamespot.com/articles/battlefield-6-now-lets-you-instantly-unlock-all-guns-at-100-mastery-for-30/
@@ -432,12 +437,22 @@ Mon, 12 Oct 2026 19:15:00 +0000 — https://www.gamespot.com/articles/haunted-ch
 
 Haunted Chocolatier looks like it could be the perfect, candy-bar blend of sweet and creepy once it launches--but developer ConcernedApe doesn't know when that might be . So I'd like to consider an alternate option for after-funeral desserts and try the upcoming Steam game Tearoom of Terror, whose developer, Sundew Studios, was just featured during the new Cozy After Dark Showcase. Sundew studios writer and designer Allie Ast shows off the "cozy gothic murder mystery" Tearoom of Terror in all its Edward Gorey detail during the stream, which was presented by the Dames 4 Games nonprofit . Like Haunted Chocolatier, which will let you melt, swirl, and sell your own fancy chocolates , Tearoom of Terror involves brewing lovely lavender teas and doling out cheesy scones to strange customers, like a seemingly homicidal heiress and an opera singer of no renown. You'll go through the soothing motions of keeping your own Victorian tea parlor running as finely as white lace… but it won't be as lovely as it looks. https://youtu.be/7VJ07UqoUyI?si=9ImYGyEay_hblvLB&t=2876 "You're also the primary suspect in your aunt's murder!" Ast cheerfully reveals. So Tearoom of Terror will also feature moments of deduction like the underrated The Séance of Blake Manor , except you have a stickier relationship with justice than that puzzle game's upright detective. "Find the true culprit, or instead of serving scones, you'll be serving time," Ast warns. Desperate times may call for desperate measures--lik
 
-### Sorry, Street Fighter Movie, But Mondo Just Won The Poster Fight
-Mon, 12 Oct 2026 16:00:00 +0000 — https://www.gamespot.com/articles/sorry-street-fighter-movie-but-mondo-just-won-the-poster-fight/
-
-The new Street Fighter movie hits theaters in just a few days, and if you're a fan of the Capcom series, you might be tempted to celebrate with some new poster art on your wall. While the official poster for that movie is fine , Mondo's new Street Fighter 2 poster is much better, striking, and it doesn't feature a gallery of floating heads--just one, in fact, being punched off the beefy shoulders of a Shadaloo enforcer. If you're wondering what that piece of fine art looks like, GameSpot can exclusively reveal it for you below. Can you see it? Sure you can! Designed by artist and painter Gian Galang, this Street Fighter 2 poster captures one of the most iconic moments of the fighting game franchise, highlighting the legendary rivalry between Ryu and Sagat. The new Street Fighter poster from Mondo Preorder at Mondo "Street Fighter 2 was the first video game I ever owned, and it reinforced the bond between art and martial arts that I loved as a kid and has defined my career as an adult," Galang said. "I did my best to create an image worthy of the Street Fighter legacy, depicting the Shoryuken between Ryu and Sagat, exploding with lightning, splitting the composition in two." For this poster, Galang created a unique, multi-layered composition, and Mondo has reprinted it as a nine-color screenprint on high-quality House White paper. The poster will go on sale starting October 16 at 9 AM PT, and it is priced at $90. While you'd think Ken Masters is Ryu's ultimate rival, a storied
-
 ## Rock Paper Shotgun
+
+### If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China
+Wed, 14 Oct 2026 09:28:34 +0000 — https://www.rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china
+
+I'm not your guy for computerised automobile magic picture shows, or "car videogames" as they are popularly known &ndash; for that, we turn fearfully to Mark Warren, whose every word during Gchat meetings is screamed against a backdrop of throbbing motors. Still, once in a blue moon a car game hooks my interest. Take Shifu: Traffic Masters, which we can approxiately translate as Driver and/or Midtown Madness (those are explicit inspirations), but set in northern China during the 1990s. It's got a demo on Steam. Cars emit steam, don't they? How poetic of them. Here's a trailer. Read more
+
+### Send in the Clown is a turn-based RPG comedy about fighting one annoying child at a birthday party where there's only one fight in the whole game
+Tue, 13 Oct 2026 21:54:00 +0000 — https://www.rockpapershotgun.com/send-in-the-clown-is-a-turn-based-rpg-comedy-about-fighting-one-annoying-child-at-a-birthday-party-where-theres-only-one-fight-in-the-whole-game
+
+I generally find it quite frustrating how limited the medium of games insists on being when it comes to engaging in a wide breadth of genres. One particular genre that its filmmaking cousin frequently utilises but is rarely seen within games is comedy. Sure, occasionally a game makes an attempt at telling a joke within a cutscene (failing more often than not (comedy's hard!)), but rarely is it a genre mechanically. So I'm quite pleased to learn of Send in the Clown, a turn-based RPG where you play as a clown that has to save a 12 year old's birthday party&hellip; and it only has one turn. Read more
+
+### Escher's Dream is a Portal 2 mod inspired by the non-euclidean works of the classic artist that will leave you feeling only a little bit nauseated
+Tue, 13 Oct 2026 20:29:21 +0000 — https://www.rockpapershotgun.com/eschers-dream-is-a-portal-2-mod-inspired-by-the-non-euclidian-works-of-the-classic-artist-that-will-leave-you-feeling-only-a-little-bit-nauseated
+
+You know, given the ubiquity of his work, I'm surprised there aren't more M. C. Escher inspired games in this world There are a few, like Monument Valley , Manifold Garden and Superliminal, amongst a handful of others, you just don't find them all that often in spite of how striking a sense of space is found in Escher's work. Escher's Dream is not, unfortunately, a game of its own, but it is a neat looking Portal 2 mod with some trippy levels in it. Read more
 
 ### Echoes of Delicious in Dungeon ring out in Deep Dish Dungeon, a co-op dungeon crawler about making meals with whatever you can scrounge up that's out now
 Tue, 13 Oct 2026 18:30:00 +0000 — https://www.rockpapershotgun.com/echoes-of-delicious-in-dungeon-ring-out-in-deep-dish-dungeon-a-co-op-dungeon-crawler-about-making-meals-with-whatever-you-can-scrounge-up-thats-out-now
@@ -483,19 +498,4 @@ Another day of news, another day in which I find something genAI - related to wr
 Tue, 13 Oct 2026 11:58:24 +0000 — https://www.rockpapershotgun.com/tekken-8-finally-gives-a-first-look-at-upcoming-guest-yujiro-hanma-from-baki-and-he-looks-just-as-grotesque-as-youd-expect
 
 The main selling point of Tekken 8 's Season 3 DLC pass, alongside veterans Kunimitsu, Bob and Roger Jr, is Yujiro Hanma, the main antagonist of fighting manga Baki and father of its eponymous protagonist. Yujiro was initially revealed in May through a trailer made up entirely of panels from Baki, leaving it in question just how a character that looks like that would be adapted into the Unreal Engine 5 hyper-realism of Tekken 8. The answer, apparently, is that Bandai just said fuck it, and let him look inevitably grotesque. Read more
-
-### Cut Assassin’s Creed Black Flag Resynced epilogue scene, that could hint at fresh 18th century stabby hijinks, allegedly taken down by Ubisoft following datamine
-Tue, 13 Oct 2026 11:20:00 +0000 — https://www.rockpapershotgun.com/cut-assassins-creed-black-flag-resynced-epilogue-scene-that-could-hint-at-fresh-18th-century-stabby-hijinks-allegedly-taken-down-by-ubisoft-following-datamine
-
-Ubisoft appear to have copyright struck a YouTube video showing off an unused epilogue cutscene datamined from Assassin&rsquo;s Creed Black Flag Resynced . The unfinished scene reportedly features Edward Kenway chatting to a character who kicks the bucket at the start of Assassin's Creed 3, and could be interpreted to hint at the potential for some fresh AC adventures to fill in gaps around the first half of the 18th century. Read more
-
-### Marvel Tōkon: Fighting Souls to add Jane Foster's Thor, Venom and Jubilee - following Phoenix Cyclops - in its Year One DLC pass
-Tue, 13 Oct 2026 10:47:35 +0000 — https://www.rockpapershotgun.com/marvel-tokon-fighting-souls-to-add-jane-fosters-thor-venom-and-jubilee-following-phoenix-cyclops-in-its-year-one-dlc-pass
-
-Following the announcement of Phoenix Cyclops as the game's first DLC character back in July (who'll finally be joining the roster on November 2nd), Arc System Works have ripped the plaster off and revealed all the other new fighters set for Marvel T&omacr;kon: Fighting Souls ' Year One phase. Courtesy, by the by, of a beautiful illustration by Peach Momoko, the artist of 2024's unique Ultimate X-Men run. Read more
-
-### Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania
-Tue, 13 Oct 2026 10:03:04 +0000 — https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania
-
-Rose Belmont is not her father. Rose is something new: the next generation of the legendary vampire hunters spending her life trying to step out of Trevor's shadow, to be seen as the self-reliant woman she is. Any monster that faces her is surprised to see a young girl, not the grizzled old man they've grown used to. But, despite these expectations, despite the long shadow her family tree casts, Rose tries to prove herself. She will not rely on, or be saved by, what came before. She will blossom into something all her own. This is her story, not his. Castlevania: Belmont's Curse is, similarly, something new, learning from its predecessors. The first entry in the series in over a decade, and developed not internally by Konami but by the indie studios responsible for roguelike Dead Cells (including its Castlevania-themed DLC), Evil Empire and Motion Twin, it manages to stand on its own as a modern interpretation of a classic series. That said, it's far from a perfect evolution. And, just to get this out of the way: yes, it feels a little like Dead Cells in its movement, and no, since there has been some confusion online, it's not a roguelike. Read more
 

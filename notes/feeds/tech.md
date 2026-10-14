@@ -1,6 +1,36 @@
-# Tech — harvested 2026-10-13T19:57:02.636Z
+# Tech — harvested 2026-10-14T09:43:26.854Z
 
 ## Ars Technica
+
+### Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says
+Tue, 13 Oct 2026 22:48:12 +0000 — https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/
+
+Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year prison sentence for the fraudulent scheme he used to do it— has been under a lifetime ban from the pharmaceutical industry since 2022. However, according to the Federal Trade Commission and the attorneys general of seven states, Shkreli has "flagrantly and repeatedly" violated that ban nearly the entire time—allegedly by trading stock in dozens of drug companies and discussing the industry during livestreams on social media. On Tuesday, the FTC and the seven states asked a federal judge to hold Shkreli in contempt for the alleged violations. The states include New York, California, Illinois, North Carolina, Ohio, Pennsylvania, and Virginia—the same states that joined the FTC in suing Shkreli in 2020 over the "elaborate anticompetitive scheme" involving the anti-parasitic drug, Daraprim. The scheme raised the price from $17.50 per pill to $750 per pill virtually overnight, while blocking generic competitors from entering the market. Read full article Comments ]]>
+
+### ESA targets Anbernic emulation handhelds as "superfake" piracy enablers
+Tue, 13 Oct 2026 21:55:49 +0000 — https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/
+
+For years, Chinese hardware manufacturers have carved out a market niche with an array of handheld Android gaming devices focused on retro emulation and/or more modern game-streaming capabilities. Now, though, a major game industry trade group is targeting one of those manufacturers, Anbernic, asking the US Trade Representative (USTR) to add the company to its list of "Notorious Markets" that "engage in or facilitate substantial copyright piracy or trademark counterfeiting." TorrentFreak was among the first to notice the request from the Entertainment Software Association (ESA), which was submitted to the USTR last week. In it, the US trade group—which represents major publishers including Nintendo, Microsoft, PlayStation, Amazon, Epic, EA, Ubisoft, and more —notes that Anbernic devices "are routinely offered or shipped with removable memory cards preloaded with hundreds or thousands of unauthorized copies of copyright-protected video games published by ESA members." While many online sellers do include an SD card full of ROMs alongside emulation hardware of all types, Anbernic itself does not appear to do the same when selling directly from its website. Regardless, the ESA argues that these ROM-laden Anbernic devices selling through "normal retail channels" help to "normalize hardware-based piracy by delivering illicit catalogues through a polished consumer product." This, the ESA says, meets the threshold for a "superfake," an ill-defined designation that applies to "high-q
+
+### Topgolf saved over $11.3 million after leaving VMware
+Tue, 13 Oct 2026 21:33:43 +0000 — https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/
+
+Topgolf’s VMware costs were going to increase by 400 percent under Broadcom. To avoid that cost, the sports entertainment company moved 12,000 virtual machines (VMs) to VergeIO’s VergeOS and has saved over $11 million so far. Before migrating, Topgolf’s VMware connection “ran very deep,” Scott Forehand, Topgolf’s global infrastructure manager, told Ars Technica. Topgolf has over 100 locations worldwide featuring interactive golf games with real-time shot tracking and digital analytics. The company used vSphere and ESXi for decades and started using VxRail, the hyperconverged infrastructure (HCI) platform that VMware co-engineered with Dell, in 2017. Topgolf employees previously participated in numerous VMware customer councils and have been interviewed for books on how Topgolf used vSphere and Horizon (now Omnissa Horizon), per Forehand, who is a leader of the Dallas/Ft. Worth VMware User Group . Read full article Comments ]]>
+
+### Trump commercial railing against his enemies kept airing after court blocked it
+Tue, 13 Oct 2026 19:50:37 +0000 — https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/
+
+Trump commercials paid for by the US government continued airing on TV the day after a judge blocked the ads because they likely violate a US law against government-funded publicity or propaganda. In the most widely aired commercial, Trump railed against his perceived enemies and said he would "liberate America from these villains once and for all.” The campaign also included a commercial praising Trump's record as president, another in which Trump calls the US the "most exceptional nation ever to exist in human history," and commercials related to the Iran war and the capture of Venezuelan President Nicolás Maduro. US District Judge Jennifer Rochon issued a temporary restraining order (TRO) blocking the ads on Sunday, October 11, which took effect at 6:45 pm that night. The order said the government must cancel the ads, "including those placements for the evening of October 11, 2026." Read full article Comments ]]>
+
+### Disney offers $20M for Character.AI’s scandal-plagued chatbot tech
+Tue, 13 Oct 2026 18:23:33 +0000 — https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/
+
+In a bankruptcy proceeding that kicked off yesterday, Disney has offered to buy some of the technology that powers the controversy-plagued chatbot Character.AI. Disney is willing to pay $20 million for “a non-exclusive perpetual license” of certain Character Technologies intellectual property, the chatbot maker said in a press release that did not go into much further detail on which assets Disney wanted. The move may be surprising. In September 2025, Disney joined others in publicly criticizing Character.AI for stealing content and harming kids. Specifically, Disney sent a strongly worded cease-and-desist letter that accused Character Technologies of weaponizing Disney characters “in a way that could damage its brand long term,” Axios reported . Read full article Comments ]]>
+
+### Skydance’s Discovery+ prices increase by up to 20 percent
+Tue, 13 Oct 2026 18:06:06 +0000 — https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/
+
+Discovery+ subscription prices went up today. Ad-free plans for new subscribers went from $10 per month to $12/month. Ad-based plans went from $6 to $7. The new prices take effect for new subscribers immediately. Current subscribers to the streaming service, which primarily features unscripted content, like reality shows and documentaries, will receive 30 days’ notice before the new prices take effect, starting with bills issued as of November 12. Read full article Comments ]]>
 
 ### The Paris Auto Show is full of interesting cars Americans can’t have
 Tue, 13 Oct 2026 17:33:20 +0000 — https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/
@@ -20,7 +50,7 @@ Google revealed Gemini 4 Argon a few weeks ago, saying that it needed to move ca
 ### Apple’s first smart display is the 7-inch HomeView for $299
 Tue, 13 Oct 2026 15:29:17 +0000 — https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/
 
-Apple opened preorders for the HomeView smart home hub today. The HomeView is a 7-inch smart display and speaker that aims to be a central access point for up to six members of a family to access and control Apple’s ecosystem of devices, apps, and the Siri generative AI chatbot. Users can speak to HomeView to control smart home devices, such as, for example, telling Siri to close the smart blinds or activate smart locks. HomeView can also show a livestream for up to nine video feeds simultaneously. Read full article Comments ]]>
+Apple opened preorders for the HomeView smart home hub today. The HomeView is a 7-inch smart display and speaker that aims to be a central access point for up to six members of a family to access and control Apple’s ecosystem of devices, apps, and the Siri generative AI chatbot that's currently in beta. Users can speak to HomeView to control smart home devices, such as, for example, telling Siri to close the smart blinds or activate smart locks. HomeView can also show a livestream for up to nine video feeds simultaneously. Read full article Comments ]]>
 
 ### They war-gamed dimming the Sun. It went even worse than you think.
 Tue, 13 Oct 2026 15:17:59 +0000 — https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/
@@ -32,37 +62,22 @@ Tue, 13 Oct 2026 13:03:45 +0000 — https://arstechnica.com/science/2026/10/hone
 
 Credit: Ramirez-Esquivel et al 202 Credit: Ramirez-Esquivel et al 202 Honey bees are known to leave their stingers embedded in tender flesh once they sting you and fly away. Scientists have now determined that the stinger is able to continue pumping venom into its unfortunate victim even after the bee flies away, thanks to a unique double-piston pump-like mechanism, according to a new paper published in the Proceedings of the National Academy of Sciences. Different species have evolved different mechanisms for delivering venom, which involves piercing the skin and then pumping venom from a gland or reservoir. Spiders, for instance, have muscles surrounding their venom glands, which contract and eject venom through hollow fangs. Bees, wasps, and ants deliver venom via their stingers, either by contracting muscles around the venom reservoir or through stiff elements called lancets working together to pump venom. Honey bees ( Apis mellifera ) add a unique feature: Worker bees fly away after inserting their stingers in the target, leaving the stinger behind. The stinger continues to penetrate the tissue and pump venom on its own, a rare phenomenon known as autotomy. A honey bee's stinger has three main interlocking elements that form the venom canal: a stylet that widens to form the main pumping chamber and two sharp-tipped lancets that slide back and forth, piercing the tissue and pumping venom into the target. But the precise mechanism by which the pumping action is achieved ha
 
-### 39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania
-Mon, 12 Oct 2026 21:54:35 +0000 — https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/
-
-A 39-year-old unvaccinated woman in Franklin County, Pennsylvania, has become the sixth person to die of the highly infectious virus amid a state outbreak that has stricken over a thousand people since it began in April. The woman died on Saturday, October 10. She had several underlying health conditions and had recently tested positive for measles, according to an advisory posted on social media by Franklin County Coroner Jordan Conner. The advisory noted that the woman's death meets the definition of a measles death set by the state's health department. In an emailed statement to The Washington Post , the coroner's office said the primary cause of death was listed as "probable acute cardiac event due to possible complications of the measles." Read full article Comments ]]>
-
-### Epic Games reportedly pivoting to "AI first" game development model
-Mon, 12 Oct 2026 20:59:50 +0000 — https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/
-
-Epic Games is shifting to an "AI first" development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the artwork for an upcoming shooter. That's according to a Bloomberg report , which cites unnamed people familiar with the project who commented on the significant pivot in internal development at the Unreal Engine maker. Human developers will be tasked with managing and guiding code and art assets generated by models such as Anthropic's Claude, according to internal Epic employee messages viewed by Bloomberg. That means "no more hand-written code" and art assets "generated with full AI workflows," according to the report. The $1.5 billion collaboration between Epic and Disney, announced in early 2024 , was slated to release a Marvel- and Star Wars-themed shooter in March 2027. That project has now been delayed indefinitely amid the AI-related shakeup and understaffed, slower-than-expected development thus far, according to the report. Read full article Comments ]]>
-
-### After a 10-year redemption arc, No Man's Sky is coming to the iPhone and iPad
-Mon, 12 Oct 2026 20:26:14 +0000 — https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/
-
-Just over 10 years after its initial release, space exploration and survival crafting game No Man's Sky is making its way to the iPhone and iPad, Apple and developer Hello Games announced today. It will run on devices as far back as the iPhone 11 and the third-generation iPad Air. No Man's Sky might not have the most cutting-edge AAA graphics (though they're still strong, and they've come a long way since launch via updates), but the game's uncommon method of generating galaxies of incomprehensible scale on-device, and consistently for all players from a single-seed, happening on a phone is remarkable for those of us who remember phones performing far behind consoles or desktop PCs. Read full article Comments ]]>
-
-### WHO report on Russian lab worker death highlights "key uncertainty"
-Mon, 12 Oct 2026 18:46:43 +0000 — https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/
-
-Over the weekend, the World Health Organization released a disease outbreak report on the events surrounding the death of a Russian infectious disease researcher earlier this month, highlighting that Russia has yet to report a confirmed cause of death. With that "key uncertainty," the United Nations health agency said it remains impossible to assess the risk of the event or whether the public health measures Russia took were adequate to prevent spread of the unknown disease. The WHO reported that, so far, it has seen no evidence of ongoing transmission of the mystery disease. "However, confidence in the assessment remains limited by the absence of a confirmed etiological diagnosis, and the remaining uncertainty regarding the source and mode of exposure," the agency wrote in its report. The agency laid out the order of events as information trickled out from Russian authorities, noting that it only became aware of the death via media reports on October 2. The WHO subsequently made contact with Russian authorities and requested information on October 3, 6, 7, and 8. Read full article Comments ]]>
-
-### Anthropic's Claude AI submitted false murder tip to Philadelphia police
-Mon, 12 Oct 2026 18:21:36 +0000 — https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/
-
-An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday. A Claude model sent the false tip on July 18 to the Philadelphia Police Department's website for submitting information about unsolved murders, but it was flagged by a spam filter. Anthropic apparently discovered the incident on September 28 and informed the police department about it on October 8. During internal testing, Claude Haiku 4.5 was instructed to complete various forms up to the final submission stage and to stop before submitting those forms. "Several times Claude mistakenly submitted the form instead, expecting there to be an additional confirmation page," Anthropic said in a report describing "unintended model actions we’ve observed during evaluations and internal use of Claude." Read full article Comments ]]>
-
-### Russia was not ready for the data center war it started with Ukraine
-Mon, 12 Oct 2026 17:52:36 +0000 — https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/
-
-When Russia began attacking Ukrainian data centers and telecommunication infrastructure, it apparently failed to prepare for possible retaliation. Now Russia’s digital services are facing widespread outages after Ukrainian drone strikes knocked out three of the largest data centers owned by Russian tech giant Yandex within several days. Pro-Kremlin bloggers are warning that Russia’s centralized digital economy could collapse because the country is not prepared for the “data center war” it started, according to posts translated by the pseudonymous independent researcher ChrisO_wiki . The Russian commentators also suggested that Ukraine’s decentralized digital services could prove more resilient than Russia’s system if the countries continue trading such blows. Russia initially launched a drone strike campaign targeting Ukrainian data centers and mobile phone networks in late September. The attacks temporarily disrupted Internet and cell phone service for up to 100,000 households in the Ukrainian capital of Kyiv and came as part of a broader long-range strike campaign that has involved Russian missiles and jet-powered drones hitting Ukraine’s power grid infrastructure, transportation hubs, and even residential apartment building blocks. Read full article Comments ]]>
-
 ## The Verge
+
+### Apple’s HomeView ad is confusing to everyone except parents
+2026-10-13T18:10:00-04:00 — https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction
+
+Nothing like a little family togetherness in the morning. | Image: Apple Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typical vibe is clean, simple, orderly; this commercial is chaos. But the spot has parents - those with teen children in particular - feeling seen. I'll admit that it stressed me out the first time I watched it, too. Mornings getting my five-year-old out the door are a special breed of chaos, and usually culminate in us playing whatever ad-libbed game will get him to put his shoes on. But it's not … Read the full story at The Verge. ]]>
+
+### OpenAI employee arrested for allegedly planting a bug in a conference room
+2026-10-13T16:45:25-04:00 — https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device
+
+An OpenAI engineer was arrested after the company said it discovered a "sophisticated recording device" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department of Justice . OpenAI's post about the incident says it used its AI models to "understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier." As noted by the DOJ, OpenAI found the device plugged into a TV's USB port in an executiv … Read the full story at The Verge. ]]>
+
+### It looks like Apple Music is getting a new icon
+2026-10-13T16:05:02-04:00 — https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta
+
+Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music logo was also spotted last month on the Apple Music Hall website, so the company could be refreshing its app icon to match. According to 9to5Mac , the new icon is a black music note on a white background in light mode, or the opposite in dark mode. The icon's not the only thing that's been drained of color, either - 9to5Mac also says Apple Music widgets now have black backgrounds and the app now … Read the full story at The Verge. ]]>
 
 ### Shopify opens its catalog up to more AI agents
 2026-10-13T15:42:42-04:00 — https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents
@@ -84,10 +99,10 @@ The Headphone A keep the shape and style of Nothing’s over-ear design, but wit
 
 Days after Ukrainian military drones took down several Russian data centers, President Volodymyr Zelenskyy claimed that the campaign had hurt Russia's disinformation efforts. "It suddenly became a little easier to breathe on many social platforms," Zelenskyy said Monday. "There was less hate, less division, and fewer provocations." Zelenskyy isn't the first to assert that the drone operation, which targeted data centers belonging to the Russian technology company Yandex, has cut down on spam and disinformation campaigns fomented by Russian bot farms. Social media users have claimed they've noticed less traffic on posts by MAGA-affiliated a … Read the full story at The Verge. ]]>
 
-### Rivian spinoff Mind Robotics hires Doug Field as president
+### Rivian partner Mind Robotics hires Doug Field as president
 2026-10-13T14:30:00-04:00 — https://www.theverge.com/transportation/1010050/rivian-mind-robotics-hires-doug-field-ford-tesla-apple
 
-Rivian spinoff Mind Robotics announced the appointment of Doug Field as president in a major coup for the EV company's secretive robotics startup. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had a previous stint at Apple as VP of Mac hardware engineering, but he left the company in 2013 to become Tesla's chief vehicle engineer, where he helped oversee the Model 3 sedan . He left Tesla in 2018 and rejoined Apple . In 2021, Field was hired by Ford to run the automaker's electric vehicle and software division, a p … Read the full story at The Verge. ]]>
+Rivian CEO RJ Scaringe's startup Mind Robotics announced the appointment of Doug Field as president in a major coup for the CEO's secretive robotics project. Field was a VP of special projects at Apple, where he was the de facto head of the company's ultimately unsuccessful Project Titan effort to make an autonomous electric car. He had a previous stint at Apple as VP of Mac hardware engineering, but he left the company in 2013 to become Tesla's chief vehicle engineer, where he helped oversee the Model 3 sedan . He left Tesla in 2018 and rejoined Apple . In 2021, Field was hired by Ford to run the automaker's electric vehicle and software di … Read the full story at The Verge. ]]>
 
 ### I don’t miss the camera on the Ray-Ban Meta Audio glasses
 2026-10-13T14:00:00-04:00 — https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables
@@ -98,21 +113,6 @@ The other day I whizzed past several people while running in the park, my playli
 2026-10-13T13:40:15-04:00 — https://www.theverge.com/transportation/1010364/tesla-robotaxi-school-zonespeeding-investigation
 
 The National Highway Traffic Safety Administration says it's evaluating allegations that Tesla's 1,000 or so robotaxis using its automated driving system are exceeding "posted speed limits in active school zones." Waymo's robotaxis have also faced similar inquiries, including for illegally passing school buses and hitting a child near a California elementary school. NHTSA: The Office of Defects Investigation (ODI) received a DP on September 23, 2026, requesting an investigation into model year (MY) 2026 Tesla Robotaxis (Model Y and Cybercab) with the Automated Driving System (ADS) engaged. The Petitioner alleges that the ADS exceeds poste … Read the full story at The Verge. ]]>
-
-### The Xteink X4 Pro is a great, tiny e-reader, and it’s cheaper than ever
-2026-10-13T13:19:31-04:00 — https://www.theverge.com/gadgets/1010276/xteink-x4-pro-e-reader-deal-sale
-
-The Xteink X4 Pro is still matching its Prime Day price. | Photography by Andrew Liszewski / The Verge If you re looking for an e-reader that can easily fit in your pocket (or snap onto your magnet-equipped phone), the tiny Xteink X4 Pro might be worth a look. It features a 4.26-inch, 800 x 480 E Ink display, making it significantly smaller and thinner than Amazon s smallest six-inch Kindle . It’s also quite a bit cheaper. Right now, you can pick it up for $84.15 ($25 off) at Amazon , which is its best price to date. Xteink X4 Pro Where to Buy: $109 $84.15 at Amazon $109 at Xteink The X4 Pro brings several welcome upgrades over its predecessors, including a touchscreen that gives readers another way to interact with it. It still has physical page-turning buttons, though. There s also a new touch-sensitive button below the display for quickly returning to the home screen, along with a built-in light with adjustable brightness and color temperature, so you can read in the dark. It ships with the excellent CrossPoint Reader software , which makes navigating your library and reading books a much better experience than on previous Xteink models we ve tested, though it’s still not quite as polished as Amazon s software. Understandably, not everyone is a fan of Xteink’s decision to swap the X4 Pro’s USB-C port for a proprietary charging connector. If you can look past that, the X4 Pro is a great, little e-reader that features magnets that let you attach it to compatible smartphones,
-
-### Facebook will let you customize your feed algorithm using AI
-2026-10-13T13:01:31-04:00 — https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai
-
-Facebook's new "Your Algorithm" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations "respond right away" after you make updates using the new feature by hitting "interested" or "not interested" for different topics. Your Algorithm previously launched on Instagram earlier this year, and Meta also launched a similar "Dear Algo" feature on Threads. Facebook users will be able to access Your Algorithm or select "interested" or "not interested" from the three dots menu on individual posts. The "interested" and "not interested" buttons may also appear under posts, an … Read the full story at The Verge. ]]>
-
-### Google makes it easier to launch your vibe-coded apps
-2026-10-13T13:00:00-04:00 — https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch
-
-The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code personal Android apps in May. Even though you can now launch your custom apps in Google Play, the company notes it will continue to keep them "secure, private, and separate from the public store catalog." You can also launch them using a standard Google account, and the company will soon add the ability to share your app with a select gr … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,21 @@ A pre-built desktop or gaming laptop is one of the best ways to sidestep some of
 
 ## Phoronix
 
+### KDE Plasma 6.8 Released, Marks 30 Years Of The KDE Project
+Wed, 14 Oct 2026 05:15:37 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.8-Released
+
+The feature-packed and polished Plasma 6.8 KDE desktop is now available. Making this release all the more special is that it coincides with the 30th anniversary of the KDE project...
+
+### Mesa Expands NPU Capabilities With Support For YOLOX With PyTorch
+Tue, 13 Oct 2026 20:54:50 -0400 — https://www.phoronix.com/news/Mesa-Torx-YOLOX-PyTorch
+
+While Mesa is predominantly used for GPU drivers, open-source developer Tomeu Vizoso continues advancing the capabilities of NPUs within the Mesa driver stack...
+
+### Intel ISPC 1.32 Released With AVX10.2 & APX Support, Even AMD Zen 6 Too
+Tue, 13 Oct 2026 16:57:52 -0400 — https://www.phoronix.com/news/Intel-ISPC-1.32-Released
+
+Intel ISPC 1.32 released today as the newest version of this Intel Implicit SPMD Program Compiler built atop LLVM/Clang. ISPC is a variant of the C programming language with extensiosn catering to Single Program Multiple Data programming for both Intel CPUs and GPUs...
+
 ### Framework Laptop 12 Offers Improved Performance & Efficiency With Intel Core 3 Wildcat Lake
 Tue, 13 Oct 2026 11:00:00 -0400 — https://www.phoronix.com/review/framework-laptop-12-wildcat-lake
 
@@ -223,22 +238,57 @@ Mon, 12 Oct 2026 20:24:04 -0400 — https://www.phoronix.com/news/FreeType-2.15-
 
 FreeType 2.15 is now available for this widely-used font rendering library used across many different operating systems and software applications...
 
-### Intel Announces The GPU D Series For Crescent Island
-Mon, 12 Oct 2026 16:53:30 -0400 — https://www.phoronix.com/news/Intel-GPU-D-Series
-
-Intel announced today the GPU D Series for the enterprise-focused, inference-optimized GPU accelerators known to now as Crescent Island...
-
-### Ubuntu s Myna Speech-To-Text Now Available In Tech Preview
-Mon, 12 Oct 2026 13:31:59 -0400 — https://www.phoronix.com/news/Ubuntu-Myna-Tech-Preview
-
-A few months ago Canonical announced Myna as a speech-to-text solution for Ubuntu 26.10 as part of their effort for building a context-aware desktop. Myna as of today is available in "tech preview" form not only for Ubuntu 26.10 but also the LTS releases...
-
-### ROCm 10 OpenCL vs. Mesa 26.3-dev Rusticl Performance On AMD Strix Halo
-Mon, 12 Oct 2026 12:32:24 -0400 — https://www.phoronix.com/review/rocm-10-opencl-rusticl
-
-With all the recent progress on Mesa s Rusticl driver as a Rust-based OpenCL driver working across the different Mesa Gallium3D hardware drivers, a Phoronix Premium supporter inquired about seeing some fresh benchmarks of this open-source OpenCL solution. Here is a look at how the Mesa 26.3 Rusticl driver is looking against AMD s official OpenCL driver within ROCm 10.
-
 ## The Register
+
+### AI math isn't mathing: infrastructure spending forecast to outstrip expected revenue
+Wed, 14 Oct 2026 11:00:00 +0200 — https://www.theregister.com/on-prem/2026/10/14/ai-math-isnt-mathing-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856
+
+AI services are unlikely to deliver enough revenue to cover the expected capital expenditure going into IT infrastructure between now and 2030, and it looks like neocloud operators will largely bow out or be bought out. This is the conclusion from Gartner, which has added up the anticipated investments in AI datacenters over the next several years, estimated the revenue that can be expected from AI-driven applications over the same period, and found the numbers come up short. Gartner's data comes from a report, "Prepare for AI Market Consolidation: Capital Write-Downs Could Exceed $4 Trillion by 2032," which concludes that AI will not generate enough sales to profitably cover all of the planned AI capital spending before 2032 at the earliest. But forecasts typically focus on the end of the decade, so it ran the numbers for 2030 as well. "In 2026, AI providers are expected to spend nearly $1 trillion on AI infrastructure, and are forecast to invest an additional $6 trillion between 2027 and 2030," said Gartner senior director analyst Will Sommer. "However, our research indicates that enterprise and consumer AI revenue will be insufficient to support profitable returns on all planned AI capital expenditures during this period." Assuming a 12 percent return on invested capital (ROIC), which many companies are said to regard as the bar for acceptability, Gartner estimates AI datacenter operators would need to generate a total of $8.5 trillion in revenue to cover capital spending 
+
+### UK government chases AI while aging IT leaves it exposed, PAC chair warns
+Wed, 14 Oct 2026 10:15:00 +0200 — https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674
+
+The UK government is pushing ahead with its AI ambitions yet is dragging its feet on replacing aging IT systems that leave departments vulnerable to cyberattacks, according to a damning assessment from Parliament's spending watchdog. Sir Geoffrey Clifton-Brown, chair of the House of Commons Public Accounts Committee (PAC), warns in his second annual report that Whitehall is failing to tackle its longstanding technology problems, even as AI gives criminals and hostile states new ways to attack government systems. "AI is approaching government like a tsunami, and I remain sceptical that government is prepared for the enormity of this challenge," Clifton-Brown writes. The Conservative MP says ministers have announced reforms to improve digital capability but have yet to explain how they will close the civil service's skills gap, or when. He also fears another Whitehall reshuffle, this time involving the creation of the Department for Business, Innovation, Science and Trade, will make matters worse. The numbers aren't encouraging. Just 6 percent of civil servants work in digital and data roles, well short of the government's 10 percent target. Senior specialists are particularly thin on the ground, and the PAC warns that meeting the target will mean recruiting, and retaining, many more of them. And then there's the technology itself. "Government is also showing a worrying lack of urgency in addressing the long-standing issue of legacy IT systems, which create significant risks fo
+
+### It won't kill you, or humanity, to get off the AI upgrade treadmill
+Wed, 14 Oct 2026 09:30:00 +0200 — https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778
+
+Why are we in such a hurry? Are we in a race? Where's the finish line? Are we in the lead? Far behind? I increasingly hear these questions about AI from people who feel a gritty sense of being unpleasantly overstimulated – like a three-year-old allowed to stay awake too long and now unable to sleep. That feeling has become worse since last November when AI tools suddenly became "good enough" to be broadly useful. A whole cohort of engineers – myself included – found themselves infused with manic energy, bursting with ideas on how to prompt up tools and processes with this wonderful new toy. Usage exploded – as has revenue. The AI firms, finally on a path to something vaguely suggestive of profitability, leaned in and increased their release cadence. Every new model felt like Christmas. We've had a lot of Christmases these past ten months or so. Almost every engineer I know has accrued a massive "toy debt," unable to stop experimenting with more tools than any of us could ever hope to master across an entire career. Each new model delivers a quick dopamine hit to users, but the high wears off and the slump arrives. That's where we are now. Engineers feel exhausted. The race to "Super Intelligence" (whatever that is) left us with something else entirely: call it "stupor intelligence" – the feeling that we've absorbed more than we can digest. More AI would just be pointless excess. If that's the view from inside the AI bubble, how does it look on the outside? Not so great. The W
+
+### Ransomware gets personal: 'We-know-where-you-are kind of stuff'
+Wed, 14 Oct 2026 07:00:00 +0200 — https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939
+
+Tim Beasley, a senior incident response consultant at Semperis, was investigating a cyberattack involving Russia’s Midnight Blizzard when a package containing nesting dolls and other regional gifts showed up on his doorstep. At the time, Beasley served as the lead investigator for Microsoft’s Detection and Response Team (DART). He assumed it was from the group, which has been linked to the Kremlin’s Foreign Intelligence Service (SVR), although the sender didn’t leave a note. “Just little souvenirs and gift basket stuff from that area of the world,” he told The Register. “We-know-where-you-are kind of stuff. It’s a real eye-opener when you get that type of thing.” While digital intrusions having physical consequences is nothing new, cybercriminals in recent years have turned to real-life harm and mental and physical trauma to force victims into paying extortion demands. Some groups even use cybercrime as a gateway drug to real-life violence. Over the summer, Europol and its partners' investigators flagged 4,340 “horrific” URLs for removal as part of an ongoing crackdown on The Com (short for community), a loosely knit network of online groups whose young members participate in a range of illicit activities including hacking, swatting, digital extortion, real-life shootings, and other physical violence. “We’ve seen violence as a service get used,” Beasley said. He’s also investigated ransomware attacks where C-suite executives receive pictures of their kids’ schools directly fr
+
+### Anthropic reinvents source control as Claude floods the world with code
+Wed, 14 Oct 2026 00:37:04 +0200 — https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943
+
+Anthropic's Claude models have been emitting so much code that the company's coding infrastructure hasn't been able to keep up. It's a symptom of the AI coding imperative and all-you-can-eat inference. Microsoft's GitHub in April published a blog post attributing recent availability problems to the exponential growth in pull requests and commits. The code flood has been noted by academic researchers, among others. For Anthropic, writing code is no longer a productivity bottleneck. Instead, the problem is managing the code after it's written, via source control, the build system, and continuous integration. "In May 2026, Anthropic averaged around 2,500 code changes merged per day; as of September, we merged over 30,000 per day," the biz said in a blog post on Tuesday. "We don’t expect this rate of growth to slow down anytime soon; the latent demand for merging code is practically infinite, and every bottleneck we remove immediately leads to a further increase in the amount of code we produce." After several months of model prompting and five months of migration, the result is a homemade version control system called Scion, a monorepo scheme that sounds a bit like Subversion, Apache's centralized version control system. Anthropic is not the first organization to look beyond Git's distributed architecture toward centralized source control. Google uses Piper, a monorepo system (along with Gerrit for Git-based code reviews). Microsoft has Virtual File System for Git, formerly GVFS
+
+### CISA director touts private partnerships after agency killed many
+Tue, 13 Oct 2026 22:57:00 +0200 — https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920
+
+The US Cybersecurity and Infrastructure Security Agency (CISA) has killed many of the industry partnerships it used to enhance security, but don't tell the organization's acting director. Speaking on Tuesday at a virtual public sector cyber resilience summit hosted by infosec firm Rubrik, Nick Andersen claimed that CISA’s public-private partnerships are the most critical aspect of his agency’s mission. “We don’t see everything. We’re not a law enforcement agency, intelligence agency, or a regulator,” Andersen said during a discussion at the summit. CISA, he added, relies on intelligence and insight not only from other government agencies and international partners, but from the private sector as well. CISA’s mission simply can’t succeed without motivating those various partners to share what they’ve seen, heard, and dealt with in order to build a comprehensive threat model. “It’s all carrots and partnerships,” Andersen added, referring to motivating partners to get on board with programs like CISA’s CI Fortify initiative for building resilient critical infrastructure. Were that actually the case, we wouldn’t really have a story to write here, but anyone who’s been following CISA’s trials and tribulations during the second Trump administration is likely to have raised an eyebrow at Andersen’s claims. Trump returned to office riding a wave of plans to cut government spending, which included massive reductions at CISA. Among the first CISA programs axed was the Cyber Safety Revi
+
+### OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt
+Tue, 13 Oct 2026 22:20:25 +0200 — https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913
+
+If you use OpenAI's dot, don't be surprised if it consumes a lot of tokens on its own. According to AI agent security and governance outfit Geordie, one dot agent produced 155 separate activity sequences and consumed more than 300,000 tokens - all without further human interaction, and all in the course of a day. Geordie has been testing the “always on” agentic assistant, dot, since OpenAI announced it in September, following in the footsteps of Meta Muse and Grok Bot. Compared to other personal agents, however, OpenAI’s dot “looked a little bit different,” Hanah-Marie Darley, Geordie chief AI officer, told The Register. “One of the things that we discovered really quickly was that they were really, really active without much user interaction.” For its testing, Darley gave dot read-only permissions, and she didn’t connect it to her personal apps, email, or other communications apps like Slack. The bot quickly went into research mode, collecting as much information as possible and surveying systems. “You can think about it very much like a new project manager coming in and taking a look at what's there, looking around to see what accesses you've given it, what accesses you have, and also what kind of systems you're running,” Darley said. The agent collects all of these data points into something akin to a daily journal entry, and continually updates those throughout the day. “If you've given it any tasks, it will effectively check on its own tasks, too,” Darley said. “But what
+
+### Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks
+Tue, 13 Oct 2026 21:16:53 +0200 — https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891
+
+In an effort to give its employees better access to GPU resources for inference tasks, Apple has rounded up its Minions, not the animated yellow creatures, but a distributed system that puts idle GPUs across its Macs to work on AI workloads. Apple researchers describe it as "a dynamic and distributed virtual GPU cloud that aggregates idle Apple Silicon GPUs across macOS devices to execute large-scale machine learning inference workloads." Apple's researchers said the company has used Minions to make GPU compute more readily available to its teams. "Prior to its adoption, some inference jobs experienced queue times exceeding ten hours due to limited centralized GPU availability," the paper on Minions explains. "With Minions, tasks can often begin execution within minutes by leveraging idle macOS devices." Apple's recently released Mac mini and Mac Studio support clustering using RDMA (Remote Direct Memory Access) over Thunderbolt 5, allowing compute and memory to be combined to support a single AI workload. This allows, for example, loading a model too large for a single machine to accommodate. Minions is designed to create a virtual GPU cloud from connected Mac hardware to create a fault-tolerant pool of inference workers in a shared distributed inference platform. So instead of sitting idle, GPU resources can be used more readily by teams on the network. It's not necessarily intended as a way to run large models as much as it is to redistribute idle resources on the network.
+
+### Claude submitted fake murder tip to Philly police during summertime testing
+Tue, 13 Oct 2026 19:18:00 +0200 — https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842
+
+An Anthropic AI model submitted a fabricated tip about an unsolved homicide through an online form run by the Philadelphia Police Department (PPD). The tip, filed July 18 through PhillyUnsolvedMurders[.]com by “someone who might have information about the case,” went straight into the inbox’s spam folder. Anthropic discovered it on September 28, notified the PPD on October 7, and sent representatives to the police HQ the following day. Anthropic told the police the AI submitted the tip during a test exercise that involved interacting with randomly selected websites. The PPD said its findings are so far consistent with Anthropic's account. Because the tip was flagged as spam, it never reached the department's Real-Time Crime Center. The PPD said officers vet all submissions, automated or otherwise, before forwarding them to investigators, and that this process safeguards against abuse of the tip system. It added that this does not “diminish the seriousness” of an AI submitting fabricated information. “The city of Philadelphia takes this incident very seriously,” the PPD said. “The company must strengthen its safeguards to prevent similar incidents from impacting city systems without the city’s knowledge. The two-month delay in detecting and reporting the incident to the city is unacceptable.” It added: “The department and the [Cherelle] Parker administration will continue to closely monitor this incident, and will provide more information to the public as soon as it becomes av
+
+### Anthropic conjures another threat that doesn't exist yet to stoke fears of AI apocalypse
+Tue, 13 Oct 2026 18:49:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866
+
+Nothing sells AI products as well as fear. Using new research, Anthropic claims that self-replicating AI worms could be just months away from spreading across vulnerable IoT devices, which would be a problem if it came true. The frontier lab published a research report Monday suggesting that AI models could eventually self-replicate without relying on datacenter hardware, with a 9-billion-parameter model successfully setting up inference on eight of the nine hardware types Anthropic tested. “A replicator like this would be challenging to shut down, since there’s no centralized point to shut off,” Anthropic warned, adding that such an AI worm could also suss out the workings of unfamiliar devices, potentially making it more adaptable than conventional botnets like Mirai, Kimwolf (the representative IoT botnet threat model used in the study), and others. Anthropic’s researchers managed to get a distributed instance of Gemma4-26B-A4B running across 15 generic Android set-top streaming boxes - a common target of traditional botnet malware due to their lax security. Once up and running, the distributed Gemma4 model was able to conduct inference tasks at a blistering 0.39 tokens per second. That, says Anthropic, proves that AI models can conduct inference with their various layers distributed across cheap hardware, but it doesn't prove such a model could self-replicate. For that, the researchers turned to Z.ai’s GLM 5.2. GLM was used to propagate a copy of Llama3.1-8B across eight 
 
 ### Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'
 Tue, 13 Oct 2026 18:30:00 +0200 — https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774
@@ -250,57 +300,42 @@ Tue, 13 Oct 2026 16:55:28 +0200 — https://www.theregister.com/saas/2026/10/13/
 
 It's the end of support for Office 2021 LTSC and it seems like Microsoft is celebrating with a Microsoft 365 outage for some European customers. The affected service is Global Secure Access (GSA), which customers use to access services including Outlook, OneDrive, SharePoint Online, Teams, and Windows 365 Cloud PCs. We'd argue the "365" moniker is perhaps a little inaccurate at this point. According to Microsoft, the cause is: "A section of GSA infrastructure is performing below acceptable performance thresholds, affecting connectivity to Microsoft 365 services and resulting in impact." The company is applying traffic and performance optimizations, and the system is now showing signs of life, which is scant comfort for customers who have struggled to access Microsoft 365 services using GSA. The timing is unfortunate, since it coincides with the end of support for Office LTSC 2021, Microsoft's on-premises version of Office. The company would like customers to migrate to Microsoft 365, though on-premises Office LTSC 2024 is also available if the cloud doesn't tickle their fancy. It's not yet clear what caused the latest outage. Microsoft is having to report status updates on its Service Health Status page because, according to the company, "Microsoft 365 administrators may be unable to access the admin center to get Service health information." We checked, and, above the cheery text, "Great! No active issues," is a message that reads: "We are having trouble getting info about y
 
-### NetBSD may have found a new role: The AI-free FOSS OS
-Tue, 13 Oct 2026 16:15:00 +0200 — https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818
-
-NetBSD seems to be thriving of late: as the Linux world goes pro-AI, some of the AI-averse are turning to this explicitly AI-free project. The NetBSD project’s Mastodon feed reports that it received a record 120 donations last month, and it has far exceeded its target: “We received $120,282 USD in total. Naturally, this has completely filled up our donations target bar which was set at $50,000. Time to fund some projects!” It’s a welcome contrast to the usual stories of under-funded FOSS projects, and it follows a visible uptick in people asking about NetBSD in the FOSS Unix groups we read, ever since Emperor Penguin Torvalds said that Linux was not an anti-AI project back in July, and the following month, the Debian project polled its developers on AI use, and they chose to permit AI-generated contributions. This is the moderate, centrist stance. The most recent Ubuntu Summit was heavily AI-flavored. The heads of Red Hat Global Engineering sent out a memo about transitioning to an Agentic Software Development Lifecycle. But once it’s in the kernel, then no distro can totally avoid it. This stance is profoundly offputting to those who prefer hand-crafted code. Last week, the Reg FOSS desk attended the Open Source Summit Europe in Prague. This event reflects the tendencies of the increasingly mainstream open-source world: Linux is pretty much the only OS in evidence, although many attendees tote around (and present from) MacBooks, and both Microsoft and Windows were visible. T
-
-### Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks
-Tue, 13 Oct 2026 15:30:00 +0200 — https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802
-
-Microsoft has lifted the lid on the next generation of its Azure Maia custom AI chips, saying it will usher in a new phase of its compute infrastructure where everything is closely integrated to meet the demands of agentic inference. The Redmond giant says its Azure Maia 200, announced earlier this year, is now serving production workloads and that a successor is already planned for 2027. Azure Maia 300 is described as "a complete intelligent system" designed for the new types of AI workloads emerging today. Microsoft claims a full 96-accelerator configuration will deliver up to seven times Maia 200's rack-scale token throughput, while offering 40 percent more tokens per megawatt than leading GPU-based systems. Its next-gen chip is created with an inference-first architecture optimized for long-context, memory-intensive and decode-heavy AI workloads, according to a blog post by Microsoft's EVP for Cloud and AI, Scott Guthrie. The firm envisions it being deployed in rack-scale systems comprising up to 96 accelerators, while each Maia 300 will feature eight HBM4 memory stacks providing up to 18 TB/s of peak memory bandwidth, the better to support execution of large models and long-context workloads. This sounds similar to the kind of rack-scale AI equipment that has already been developed by Nvidia for its GPU accelerators, and more recently by AMD with its Helion and Helios infrastructure, all designed to make the most of their own specific silicon and software stacks. Microso
-
-### AI bubble could burst and take global economy with it, IMF warns
-Tue, 13 Oct 2026 14:44:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781
-
-The International Monetary Fund (IMF) has become the latest financial heavyweight to warn that the AI spending frenzy could end in tears, with consequences extending well beyond the tech sector. In its latest Global Financial Stability Report, published on Tuesday, the IMF warns that financial markets are increasingly exposed to an AI-driven correction, especially if the billions poured into the tech fail to deliver the profits investors expect. AI investment has helped keep markets and economic growth ticking along, but the IMF fears the boom could quickly turn to bust if the promised profits fail to materialize. With tech giants borrowing billions and investors piling into the same handful of companies, a selloff could leave more than just Silicon Valley nursing a hangover. The watchdog is also concerned about circular financing arrangements, in which AI firms act as one another's investors, financiers, and customers. These deals might help keep the AI money machine running, but they also mean financial trouble at one company could quickly become somebody else's problem. The IMF isn't the only one getting nervous. Jefferies strategist Chris Wood has warned that America's AI spending spree could cause "massive capital destruction," with cheaper Chinese open source models threatening the returns US tech giants are counting on. The warning also follows similar concerns raised by the Bank for International Settlements (BIS), which cautioned in June that the AI boom had uncomfor
-
-### Cyberattacks crank French supermarket refrigeration systems up to 50°C
-Tue, 13 Oct 2026 14:00:00 +0200 — https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784
-
-Cyberattacks on supermarket refrigeration systems reportedly pushed temperatures as high as 50°C (122°F), affecting hundreds of stores in France and forcing retailers to discard food. Major supermarkets such as Carrefour, Coopérative U, Intermarché, Monoprix, and more were hit by the attacks, which spoiled perishable food and left stores without fresh produce. The affected equipment includes cold-storage units used to hold food before it reaches supermarket shelves. The criminals behind the attack raised temperatures to unsafe levels, spoiling food and in some cases starting fires. Some affected retailers used refrigeration controllers produced by Danish company Danfoss. Authorities have not identified the entry point or confirmed exploitation of the vulnerabilities previously disclosed by Claroty and patched in August 2025, although the manufacturer said affected stores were running outdated firmware. Experts say the previously identified vulnerabilities were easily scriptable and relied on a unique but predictable authentication method. Claroty found a hidden authentication mechanism in the AK-SM 800A platform that accepted a code generated from the device's current date, bypassing the configured administrator password. Anyone who reproduced the algorithm could generate a valid daily code and gain administrative access. "It's a zero-skill thing to pull off, I wrote the bash script while having a shit," said security pro Kevin Beaumont. The research demonstrated how compromi
-
-### '123456' password linked to Denmark data breach affecting 8.8M people
-Tue, 13 Oct 2026 13:14:00 +0200 — https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726
-
-A person claiming responsibility for the breach of Denmark's Central Register of Persons (CPR) says they gained access through an IT company's account protected by the password "123456." The person told Danish news outlet Politiken they had no intention of selling or leaking the data. The newspaper reported that at least three company accounts, including an administrator account, used the same password. Denmark's CPR administration confirmed a breach affecting the information belonging to 8.8 million people on October 5, adding that a Danish company's legal access to the CPR system was abused. It did not name Funen-based Pays ApS as the company in question, but managing director Sophie Laursen confirmed on October 9 that it's access had been exploited. Pays' website has been taken offline, and the business has not responded to The Register's request for more information about the password claims. Pays had authorized access to the CPR system to provide services such as validating business customers' records. The Danish government says information relating to 8.8 million people was accessed. The register contains approximately 11 million records, including those of deceased people and people who have moved abroad. The government did not respond to questions about the alleged password failings. According to documents obtained by broadcaster TV 2, the attacker gained access to the CPR system on September 10 and ran the 14 million automated searches between then and September 20. 
-
-### European datacenter boom threatens higher energy bills unless governments intervene
-Tue, 13 Oct 2026 12:30:00 +0200 — https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583
-
-Datacenters are forecast to consume a growing share of Europe's electricity by 2035, potentially pushing up consumer prices and prompting governments to impose price caps or restrictions on bit barns, according to Moody's. The credit rating agency is keeping tabs on the financial implications for datacenter operators and electricity networks. It predicts that while power consumption by server farms is relatively modest today, these facilities are set to become major drivers of electricity demand by 2035, requiring utilities and network operators to invest in generation and grid capacity. Massive compute sheds still accounted for "a low single-digit share" of electricity in most of the largest European markets in 2025, typically about 2.5 percent. But some of the major markets such as the UK and France are set to see accelerating growth in the number and size of facilities that could substantially increase their share of electricity consumption. The report estimates datacenters will account for at least 5.7 percent of electricity demand in France and the UK by 2035, but could be as high as 17 percent for the Netherlands and 30 percent for Ireland. The latter country is regarded as an outlier, however, as datacenters already made up 23 percent of Ireland's electricity consumption in 2025 – up from just 5 percent in 2015. In addition, the EU has set out the goal of more than tripling the bloc's datacenter capacity within five to seven years, and wants to diversify where such pro
-
-### Owner of fashion brands Hobbs and Whistles joins autumn pwned collection
-Tue, 13 Oct 2026 11:45:00 +0200 — https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752
-
-The owner of Hobbs, Phase Eight, and Whistles is the latest fashion retailer to suffer a cyberattack, leaving several IT systems offline and customers facing order delays. South African retail giant The Foschini Group (TFG) confirmed on Tuesday that its UK business, TFG London, discovered a cybersecurity incident on October 11 that affected all three brands. Two days later, several systems remain unavailable, and the company is still trying to establish whether any personal or sensitive information has been compromised. The incident hasn’t forced stores to close, but TFG said some website functions may be unavailable. Customers have also been warned that orders placed on or after Sunday could be delayed, according to an email seen by The Telegraph. "Stores are open as normal but some of our brand's website capabilities may not be available as the investigation continues," the company said. "We apologize for any disruption and will provide additional updates to our customers as appropriate." TFG said it immediately activated its incident response and business continuity plans, brought in external cybersecurity specialists, and notified the relevant UK authorities. A spokesperson at the ICO told The Register: “We can confirm we have received a breach report from TFG Brands (London) Limited and we are assessing the information provided.” There is at least some good news for shoppers worried about their payment details. In an email to customers, TFG London said a third-party prov
-
-### UK Cabinet Office takes £7.8M hit to kill off recruitment system
-Tue, 13 Oct 2026 11:00:00 +0200 — https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635
-
-The UK Cabinet Office has scrapped a recruitment platform, recording a £7.8 million loss, while disclosing a potential penalty of up to £8.9 million over its handling of contractors' tax status. The department's annual report for 2025-26 said the Civil Service Jobs Applicant Tracking System (ATS) Programme, a central government plan for a unified, cross-departmental hiring system, was being closed to "align with the Shared Services for Government Strategy," which the Prime Minister's department also manages. The report said axing the program resulted in a "constructive loss" of £7.8 million. In March, a report from the National Audit Office said the ATS was an example of an interdependency that has not been effectively managed in the Shared Services Strategy, which is designed to bring Whitehall departments onto a common set of software-as-a-service (SaaS) enterprise applications. The Cabinet Office's annual report says closure will allow a new project better aligned with that strategy. "The program consistently identified lack of adoption from shared services clusters as a risk. At various points between 2023 and 2025, some shared services clusters raised concerns about the ATS program and stated that they would prefer to use the ATS functionality of their own ERPs over the new central platform. Despite this, Cabinet Office did not assess the need for a reset as soon as it could have, which made it challenging to assess alternative options for delivering an ATS. The ATS prog
-
-### Intel optimizes IPv6 networking into nothingness, say users
-Tue, 13 Oct 2026 10:15:00 +0200 — https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622
-
-If you're encountering some odd IPv6 networking issues, the culprit might be the Intel Connectivity Performance Suite (ICPS), although the chipmaker has kept quiet about the problem. A Samsung Galaxy Book owner contacted The Register about some decidedly odd networking behavior that they eventually traced to unwanted ICPS optimizations. And by "optimization", we mean "borked networking." For our reader, the problem showed up in OneDrive and OneNote. Notebooks were showing as empty, even though they were reported as "Up to date" according to the software. Microsoft couldn't get to the bottom of it. A bit of sleuthing by our reader revealed that something was borking the IPv6 packet. Removing Samsung's ICPS build (40.25.926.0) and installing the generic release (50.26.623.243) fixed the problem. Our reader told us, "From the user's side it looks like random 'connection reset' errors on all kinds of sites, plus OneNote saying 'We can't get to your notebooks right now.' "IPv4 is unaffected, which is why the web version and my phone kept working and nobody could figure out what was going on." It isn't only Samsung and our reader affected. Intel's own Community forums shows other users encountering the same glitch. An ASUS user put together an exhaustive report on the issue (IPv6 connection woes while IPv4 worked well). In this instance, ICPS version 40.25.725.165 was in use, and the problem went away following uninstallation. The user asked whether there was an official way to opt
-
-### Home Office asylum AI flunks one in five accuracy checks
-Tue, 13 Oct 2026 09:31:00 +0200 — https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649
-
-The Home Office's latest attempt to speed up asylum decisions with AI has hit an awkward snag: a new report says more than one in five interview summaries checked by experts failed accuracy tests. A 20-page investigation by the Open Rights Group (ORG) claims the department is pressing ahead with AI tools despite concerns about their accuracy, oversight, and promised efficiency gains. The findings, based on Freedom of Information requests and correspondence with ministers, concern two systems used by Home Office caseworkers: Asylum Case Summarisation (ACS), which summarizes asylum interviews, and Asylum Policy Search (APS), a chat-style tool helping officials search country policy information. Both use OpenAI's GPT-4o model through Microsoft's Azure AI Foundry. The government insists humans remain responsible for asylum decisions, but ORG questions how reliably caseworkers can spot mistakes in AI-generated information. Figures obtained by the campaign group show that 45 of 203 AI-generated interview summaries failed initial expert checks after the system was rolled out in April 2026. That's a 22 percent failure rate, compared with the 9 percent rejection rate recorded during the original pilot. Another 19 summaries were flagged for further review. The figures also record 56 second-stage reviews, of which 30 failed to meet the required standard. The errors can include factual inaccuracies and misrepresentations of what asylum seekers said during interviews. ORG also found that 
-
 ## Engadget
+
+### Which smart TV brands offer the longest software support?
+Wed, 14 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2282502/smart-tv-brands-offer-longest-software-support/
+
+When you spend a lot on on a TV, you expect it to last a while. But that support period varies wildly by manufacturer.
+
+### Is Mini DisplayPort becoming obsolete?
+Tue, 13 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2282398/mini-displayport-becoming-obsolete/
+
+Mini DisplayPort was on lots of computers for a time, but it's not nearly as common now thanks to more modern standards.
+
+### How to improve your online privacy and security in Google Chrome
+Tue, 13 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2282288/how-to-improve-online-privacy-security-google-chrome/
+
+Google has much to gain by collecting data from you through your activity on Chrome, but you can make it harder.
+
+### Apple TV 4K 2022 vs. 2026: What's new and is it worth the $100 jump?
+Tue, 13 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2286141/apple-tv-4k-2022-vs-2026-whats-new-worth-100-price-increase/
+
+The 2026 model is faster and can hear you from afar, but the 2022 box gets Siri AI as well.
+
+### Are Chromebooks still worth buying after the Googlebooks release?
+Tue, 13 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2282244/are-chromebooks-worth-buying-after-googlebooks-release/
+
+Googlebooks represent a huge upgrade over Chromebooks, but the older devices still have their place.
+
+### 5 clever ways Gemini can automate everyday tasks
+Tue, 13 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2282226/clever-ways-gemini-automate-everyday-tasks/
+
+If you're not using some of these skills, you're missing out on a chance to streamline your days, keep up to date and more.
+
+### OpenAI says it found a 'sophisticated recording device' hidden in its offices
+Tue, 13 Oct 2026 21:34:17 +0000 — https://www.engadget.com/2286084/openai-says-it-found-a-sophisticated-recording-device-hidden-in-its-offices/
+
+The company asked its AI models to figure out what the device was.
 
 ### What is NVIDIA DLSS and how does it work?
 Tue, 13 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2281734/what-is-nvidia-dlss-how-works/
@@ -322,105 +357,70 @@ Tue, 13 Oct 2026 18:06:44 +0000 — https://www.engadget.com/2285674/dont-like-y
 
 Within reason, of course.
 
-### How the iPhone Duo's camera is different from the iPhone 18 Pro's
-Tue, 13 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2282217/iphone-duo-vs-iphone-18-pro-camera-differences/
-
-Going beyond the number of cameras and megapixels.
-
 ### Ray-Ban Meta Audio glasses review: No camera, no problem
 Tue, 13 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2285337/ray-ban-meta-audio-glasses-review/
 
 Normal-looking glasses with solid audio and way better battery life is a win for everyone.
 
-### GTA 6 is reportedly coming to PC in early 2027
-Tue, 13 Oct 2026 17:27:40 +0000 — https://www.engadget.com/2285602/gta-6-is-reportedly-coming-to-pc-in-early-2027/
-
-That would be a much smaller port time than GTA 5.
-
-### Google will let you distribute vibe-coded Android apps with just a Google account
-Tue, 13 Oct 2026 17:00:00 +0000 — https://www.engadget.com/2282824/google-lets-anyone-upload-android-apps-to-play-store-via-ai-studio/
-
-The company is revamping the Play Store for the AI era with changes to publishing, recommendations and more.
-
-### Netflix will broadcast the 2030 FIFA World Cup in Spain and Andorra
-Tue, 13 Oct 2026 16:45:20 +0000 — https://www.engadget.com/2285515/netflix-will-broadcast-the-2030-fifa-world-cup-in-spain-and-andorra/
-
-Get those VPNs ready.
-
-### Here's why your phone's proximity sensors are so important
-Tue, 13 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2282192/why-phone-proximity-sensor-important/
-
-Your phone would lose a long list of features and basic functions if it didn't have proximity sensors.
-
-### Apple HomePod mini 2 vs. Apple HomePod mini: What do you get for the $50 increase?
-Tue, 13 Oct 2026 16:27:40 +0000 — https://www.engadget.com/2285476/apple-homepod-mini-2-vs-mini-comparison-50-dollar-increase/
-
-Are Siri AI, a new chip and Sound Glow worth the higher price?
-
-### Is AppleCare actually worth it for the Apple Watch SE?
-Tue, 13 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2282163/applecare-apple-watch-se-when-worth-buying/
-
-AppleCare+ makes Apple Watch repairs or replacements easier, but even at a low cost, it might not be a good value.
-
 ## TechCrunch
+
+### Justice Department says North Koreans have infiltrated dozens of U.S. companies
+Wed, 14 Oct 2026 01:30:42 +0000 — https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/
+
+U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.
+
+### Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
+Tue, 13 Oct 2026 23:13:31 +0000 — https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/
+
+Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
+
+### Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home
+Tue, 13 Oct 2026 23:05:34 +0000 — https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/
+
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+
+### Industrial Next wants factory robots to switch tasks in minutes, not weeks
+Tue, 13 Oct 2026 23:00:00 +0000 — https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/
+
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+
+### Cerebras CEO pushes back on AI doomsday warnings
+Tue, 13 Oct 2026 22:36:59 +0000 — https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/
+
+Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.
+
+### Helix Carbon says it can make iron cheaper by recycling blast furnace pollution
+Tue, 13 Oct 2026 21:15:00 +0000 — https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/
+
+The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.
+
+### FBI arrests OpenAI employee accused of planting hidden recording device in conference room
+Tue, 13 Oct 2026 20:59:11 +0000 — https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/
+
+It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to "capture sensitive communications about the company’s super intelligence technology."
+
+### Judge orders OpenAI to turn over hiring records in Apple trade secrets case
+Tue, 13 Oct 2026 20:36:44 +0000 — https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/
+
+A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.
+
+### Cambridge Heavy Industries has been quietly building a desktop fusion device
+Tue, 13 Oct 2026 20:13:53 +0000 — https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/
+
+Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.
+
+### Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt
+Tue, 13 Oct 2026 20:00:00 +0000 — https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/
+
+Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.
 
 ### Niobia takes the guesswork out of some of tech s most expensive mistakes
 Tue, 13 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/
 
 The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.
 
-### Rivian spinoff Mind Robotics hires former Ford EV chief Doug Field
-Tue, 13 Oct 2026 18:30:03 +0000 — https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/
+### Rivian s startup Mind Robotics hires former Ford EV chief Doug Field
+Tue, 13 Oct 2026 18:30:03 +0000 — https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/
 
 Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.
-
-### Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads
-Tue, 13 Oct 2026 18:30:00 +0000 — https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/
-
-Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.
-
-### Facebook is giving users more control over their algorithm
-Tue, 13 Oct 2026 18:05:24 +0000 — https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/
-
-Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.
-
-### Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026
-Tue, 13 Oct 2026 18:05:00 +0000 — https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/
-
-Longshot is trying to build a gun big enough to make space data centers a reality.
-
-### Laplace Intelligence red-teams robots and self-driving cars before they hit the real world
-Tue, 13 Oct 2026 17:30:00 +0000 — https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/
-
-University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October 13-15 in San Francisco.
-
-### Pluto Security raises $42M as AI gives enterprise security teams a new headache
-Tue, 13 Oct 2026 17:18:25 +0000 — https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/
-
-The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.
-
-### MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt
-Tue, 13 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/
-
-Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.
-
-### Google Play now lets anyone build private, vibe-coded apps that run on Android
-Tue, 13 Oct 2026 17:00:00 +0000 — https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/
-
-Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.
-
-### SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s
-Tue, 13 Oct 2026 16:30:00 +0000 — https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/
-
-Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.
-
-### The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between
-Tue, 13 Oct 2026 15:02:00 +0000 — https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/
-
-Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.
-
-### Spotify users on iOS 27 can now ask Siri to play music without having to say on Spotify
-Tue, 13 Oct 2026 14:30:12 +0000 — https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/
-
-Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.
 
