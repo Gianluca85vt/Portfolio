@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-14T15:28:41.896Z
+# AI — harvested 2026-10-14T20:19:42.513Z
 
 ## OpenAI
+
+### Amp puts AI agents to work beyond code with OpenAI models
+Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/amp-beyond-coding
+
+See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
+
+### SentinelOne cuts malware analysis from weeks to hours
+Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/sentinelone
+
+With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
 
 ### How Third Moment Research runs 10,000 agents for 36+ hours
 Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/third-moment-research
@@ -18,6 +28,9 @@ Tue, 13 Oct 2026 12:00:00 GMT — https://openai.com/index/higgsfield-longer-vid
 Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.
 
 ## Hugging Face
+
+### HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
+Wed, 14 Oct 2026 16:12:42 GMT — https://huggingface.co/blog/allenai/hiro-acev2
 
 ### Run fast, private agents on-device with LFM2.5-24B-A2B
 Tue, 13 Oct 2026 17:05:48 GMT — https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
