@@ -40,6 +40,11 @@ comment on his exit.
 
 ## Why a technical artist should care about a product-and-tech cut
 
+<figure>
+  <img src="/img/blog/netflix-1000-layoffs-product-and-tech/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Netflix offices, via Wikimedia Commons</figcaption>
+</figure>
+
 Because of what Netflix's technology organisation actually produced.
 
 If you have delivered a shot, a master, or a mix to Netflix in the last ten
