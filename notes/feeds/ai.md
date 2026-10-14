@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-14T09:43:26.854Z
+# AI — harvested 2026-10-14T15:28:41.896Z
 
 ## OpenAI
+
+### How Third Moment Research runs 10,000 agents for 36+ hours
+Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/third-moment-research
+
+With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
 
 ### The EU’s next chapter in AI is agentic
 Wed, 14 Oct 2026 00:00:00 GMT — https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic

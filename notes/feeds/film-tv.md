@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-14T09:43:26.854Z
+# Film & TV — harvested 2026-10-14T15:28:41.896Z
 
 ## Variety
 
-### Russell Brand Was Ruthless and Calculated With a Voracious Desire for Sexual Contact, Prosecution Alleges in Rape Trial Opening Statement
-Wed, 14 Oct 2026 09:30:13 +0000 — https://variety.com/2026/tv/global/russell-brand-rape-trial-ruthless-calculated-prosecution-1236911046/
+### RadicalMedia s New CEO Wants to Test Business Models That Give Production Powerhouse Stakes in Work It Does for Others
+Wed, 14 Oct 2026 15:20:00 +0000 — https://variety.com/2026/tv/news/radicalmedia-new-ceo-justin-barocas-ownership-models-1236911288/
 
-Russell Brand was ruthless and calculated with an indiscriminate and voracious desire for sexual contact, the prosecution alleged in its opening statement at the actor and comedian s rape trial in London. Brand has been charged with three counts of rape, three counts of sexual assault and one count of indecent assault. He has pleaded not [ ]
+At production powerhouse RadicalMedia, the only thing constant is change. Originally conceived as a way for founders Jon Kamen and Frank Scherma to explore new content formats after many years in the advertising business, the firm now has a reputation as a go-to place for music documentaries, branded entertainment and long-form content. Radical Media has [ ]
 
-### Banijay Kids Family Sells ’Little Princess’ to Sky U.K. (EXCLUSIVE)
-Wed, 14 Oct 2026 09:09:35 +0000 — https://variety.com/2026/tv/global/banijay-kids-family-little-princess-sky-u-k-nordisk-film-1236911035/
+### From Bob Hope to Macy s Thanksgiving Day Parade to Wicked: One Wonderful Night : How NBC Became America s Home for TV Specials
+Wed, 14 Oct 2026 15:15:00 +0000 — https://variety.com/2026/tv/news/bob-hope-macys-thanksgiving-day-parade-wicked-nbc-specials-1236909503/
 
-“Little Princess,” the British pre-school animation classic, is heading to Sky UK, in a deal struck with Banijay Kids Family which sees the pay TV buying its complete catalog. Further new distribution deals on “Little Princess,” a four-time BAFTA nominee, have been struck with Nordisk Film, RTV Slovenia and Italy’s TIM. Based on the [ ]
+It didn’t get great reviews. The host was awkward on camera as he navigated the emerging medium. The musical numbers and sketches didn’t translate well to the home screen. But none of it mattered. Bob Hope’s first-ever television special for NBC — “The Frigidaire Star Spangled Revue” — was a big hit with viewers when [ ]
 
-### Russell T Davies Calls BBC Boss’ AI ‘Doctor Who’ Comment ‘Clumsy’ and Teases Show’s Future: ‘You’ll Start to See Production’ in ‘Summer Next Year’
-Wed, 14 Oct 2026 09:04:04 +0000 — https://variety.com/2026/tv/global/russell-t-davies-bbc-boss-ai-doctor-who-comment-clumsy-1236911048/
+### Jamie Foxx Boards Indie Crime Thriller ‘East of the River’ as Producer (EXCLUSIVE)
+Wed, 14 Oct 2026 15:10:00 +0000 — https://variety.com/2026/film/columns/jamie-foxx-indie-crime-thriller-east-of-the-river-producer-1236910598/
 
-Outgoing Doctor Who showrunner Russell T. Davies has criticized BBC director general Matt Brittin over recent comments he made regarding an AI-generated episode of the cult show. Speaking at the Royal Television Society conference last month, Brittin said he d been sent a fully AI-generated episode of “Doctor Who,” which he described as “pretty good. Although [ ]
+Jamie Foxx has joined the indie crime thriller “East of the River” as a producer. He boards through his Foxxhole Productions alongside Alex Marks. The film, directed by Dennis Latos, follows two estranged brothers reuniting to face the underground poker ring that destroyed their family. The film stars Ben Barnes (“The Chronicles of Narnia franchise, [ ]
 
-### Edinburgh Film Festival Reveals Dates for 2027 Edition (EXCLUSIVE)
-Wed, 14 Oct 2026 09:00:00 +0000 — https://variety.com/2026/film/global/edinburgh-film-festival-reveals-2027-dates-1236910766/
+### Skydance Shares Skid Down 25% After Company Issues 471 Million Stock Warrants to Paramount Investors
+Wed, 14 Oct 2026 15:00:52 +0000 — https://variety.com/2026/biz/news/skydance-stock-drops-warrants-paramount-investors-1236911580/
 
-The Edinburgh International Film Festival has announced the dates for its 80th edition, set to run Aug. 12-18, 2027. Supported by Screen Scotland, the milestone edition will honour the festival s long history while building on the success of its revitalised iteration, launched in 2024 under the leadership of CEO and festival director Paul Ridd and [ ]
+Shares of Skydance Corp., formed through the merger of Paramount and Warner Bros. Discovery, fell as much as 25% in trading Wednesday. The drop came as the Skydance, led by chairman and CEO David Ellison, distributed about 471 million warrants giving holders of Paramount Skydance s PSKY Class B shares the option to purchase stock in [ ]
 
-### Philippine-Italian Sales Alliance Targets Indie Film Buyers in Asia, Europe and North America (EXCLUSIVE)
-Wed, 14 Oct 2026 08:53:45 +0000 — https://variety.com/2026/film/markets-festivals/philippine-italian-sales-firms-fire-ice-coccinelle-unite-indies-1236911055/
+### Yellowjackets Season 4 Trailer: The Wilderness Survivors Return Home
+Wed, 14 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/yellowjackets-season-4-trailer-shauna-mista-van-1236910976/
 
-A new Philippine-Italian sales alliance aims to put independent films in front of buyers in Asia, Europe and North America. Fire Ice Media, the Philippine producer and sales agent, and Italy’s Coccinelle Film Sales unveiled the strategic partnership at Busan s Asian Contents Film Market. The pair will work together on a handpicked group [ ]
+“Yellowjackets” is back — and the survivors have made it out of the wilderness. Paramount+ has released the teaser trailer for “Yellowjackets” Season 4. The psychological horror returns to the streamer for the final time on Nov. 20. So far, “Yellowjackets” has chronicled the saga of an all-girls high school soccer team that becomes stranded [ ]
 
-### Tallinn-Bound Indian Drama ‘Kidney’ Boarded by Shiladitya Bora’s Platoon One Films (EXCLUSIVE)
-Wed, 14 Oct 2026 08:30:08 +0000 — https://variety.com/2026/film/news/tallinn-indian-drama-kidney-platoon-one-films-1236909621/
+### Aziz Ansari Sets New Netflix Special and Says I Believe It s My Best One (EXCLUSIVE)
+Wed, 14 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/aziz-ansari-new-netflix-special-1236911701/
 
-Indian drama “Kidney,” the second feature from filmmaking siblings Aakarsh and Agrim Sansanwal, has been boarded by Shiladitya Bora’s Platoon One Films, which joins as co-producer ahead of the film’s slot in the Critics’ Picks Competition at Estonia’s Tallinn Black Nights Film Festival (PÖFF). The film is produced by Enfant Terrible Productions, the Mumbai outfit [ ]
+Aziz Ansari is back with another Netflix special. Premiering sometime in 2027, the hour marks the comic s seventh stand-up special and fifth for Netflix. Ansari holds a special place in the streamer s comedy history, as he was the first comedian ever to release an original Netflix special. Ansari will tape the hour at the State [ ]
 
-### ORF-Enterprise Boards ‘Crème de la Crème’ – About a Sperm Bank Business – Produced by Whatever Pictures and a Playful and Irreverent Series
-Wed, 14 Oct 2026 08:22:30 +0000 — https://variety.com/2026/tv/global/orf-enterprise-creme-de-la-creme-whatever-pictures-rein-film-1236910449/
+### Sex, Love and War: How the Racy Gay Epic ‘La Bola Negra’ Could Win Netflix’s First Best Picture Oscar
+Wed, 14 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/features/la-bola-negra-netflix-sexy-gay-oscar-contender-1236909149/
 
-Finnish production company Whatever Pictures has signed a new global sales deal with ORF-Enterprise, part of Austrian braodcaster ORF, which has acquired international distribution rights to the comedy drama “Crème de la Crème.” Commissioned domestically by Finnish broadcaster YLE, the show is written and directed by showrunner Jukka Vidgrén, Topi Koljonen, Henna Rinnekangas, Juuso Laatio [ ]
+For Guitarricadelafuente and Miguel Bernardeau, the romance that fuels “La Bola Negra” wasn’t the challenge. “It wasn’t hard to fall in love with him,” Bernardeau says, looking at his co-star. The two men, both 29-year-old Spaniards, haven’t tired of one another yet, despite a global tour that began in Cannes this spring and has now [ ]
 
-### Going Big in Japan: International French Hit ‘Bright Minds’ Season 7 Heads to Tokyo (EXCLUSIVE)
-Wed, 14 Oct 2026 08:15:59 +0000 — https://variety.com/2026/global/global/japan-bright-minds-france-tv-distribution-nhk-jla-1236908898/
+### Netflix Film VP Doug Belgrad Is Out Amid Layoffs
+Wed, 14 Oct 2026 14:57:55 +0000 — https://variety.com/2026/film/news/netflix-film-vp-doug-belgrad-layoff-1236911877/
 
-The latest season of French hit “Bright Minds” marks a major milestone for France TV Distribution’s light crime series, with part of the filming taking place in Tokyo for the first time due to its huge popularity in the country. The unprecedented co-production between JLA Productions and NHK Enterprises of Japan was made possible thanks [ ]
+Netflix s film VP Doug Belgrad has been let go amid a massive restructuring at the streamer. Netflix is laying off around 1,000 employees, around 6% of its workforce, in what marks the company s largest axing to date. Most of the cuts will effect employees on the product, technology, legal and HR teams, co-CEOs Ted Sarandos [ ]
 
-### Todd Haynes on Pedro Pascal-Led ‘De Noche,’ What You Can’t See on Screen and the Radical Power of Love
-Wed, 14 Oct 2026 07:14:12 +0000 — https://variety.com/2026/film/global/todd-haynes-pedro-pascal-de-noche-christine-vachon-1236910991/
+### Wang Chao’s ‘A Woman’ Swooped on by France’s Malavida, Which Sets 2027 Retrospective
+Wed, 14 Oct 2026 14:34:39 +0000 — https://variety.com/2026/film/global/malavida-wang-chao-a-woman-2027-retrospective-1236911301/
 
-LYON, France When Mexican costume designer Anna Terrazas told Todd Haynes that the most important thing about a costume was what it smelled like, the filmmaker had just one response: “You re hired.” The Oscar-nominated director shared the anecdote about his upcoming Pedro Pascal-starring romantic noir drama “De Noche” at the Lumière Film Festival on [ ]
+LYON, France — French distributor Malavida has picked up Wang Chao’s “A Woman,” the Chinese filmmaker’s 2022 drama that won the screenplay prize at San Sebastián but has never received a theatrical release in France. Malavida is also preparing a wider retrospective of his work for spring 2027. The acquisitions, announced during Lyon’s International Classic [ ]
 
-### The Negative Melted, the Legend Didn t: Inside the Resurrection of Kamal Amrohi and Meena Kumari s Storied Indian Epic ‘Pakeezah’
-Wed, 14 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/festivals/kamal-amrohi-meena-kumari-pakeezah-rescued-melted-negative-1236909987/
+### Content Market and Conference Mipcom Attracts 10,100 Delegates, Down by Around 500
+Wed, 14 Oct 2026 14:28:39 +0000 — https://variety.com/2026/tv/global/mipcom-attendance-2026-1236911034/
 
-On the night of Feb. 3, 1972, the prints of “Pakeezah” arrived at Bombay’s Maratha Mandir cinema in a palanquin pulled by four horses. Military bands played outside, police held back the thousands crowding the gates, and inside, the film’s star, Meena Kumari, sat beside her husband, director Kamal Amrohi, and gripped his wrist so [ ]
+As Mipcom, the annual content market and conference in Cannes, wound down on Wednesday, Lucy Smith, the event s chief, revealed attendance figures for this year s edition. Total attendance this year was 10,100 delegates, down approximately 500 from last year, of which 3,150 were buyers that s 34% of the total delegate number down approximately [ ]
 
 ## The Hollywood Reporter
 
-### Tallinn Black Nights Fest Unveils Baltic Film Competition
-Wed, 14 Oct 2026 07:45:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-baltic-film-competition-1236729636/
+### Brooklyn Shop Changes Mind, Puts Bird Wanted by Kelly Clarkson on Sale for $15 Million
+Wed, 14 Oct 2026 15:27:18 +0000 — https://www.hollywoodreporter.com/news/general-news/bird-kelly-clarkson-sale-15-million-1236729808/
 
-“This year’s selection demonstrates the strength of Baltic co-productions and the growing contribution of our filmmakers to international cinema.”
+The Art of Play store owner now says somebody can buy "Molly" — for an exorbitant price — while accusing Clarkson of "social warfare."
 
-### Noah Centineo, Andrew Koji s Street Fighter : First Reactions
-Wed, 14 Oct 2026 07:36:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/street-fighter-2026-movie-first-reactions-1236729666/
+### Justin Baldoni‘s Crisis PR Firm Linked to Smear of Consumer Safety Advocate
+Wed, 14 Oct 2026 15:02:52 +0000 — https://www.hollywoodreporter.com/news/general-news/justin-baldoni-melissa-nathan-tamara-rubin-benita-litt-1236728112/
 
-Director Kitao Sakurai's adaptation of the iconic Capcom video game is set to hit theaters on Oct. 16.
+The actor worked with an executive at a vitamin company, which appears to have hired the same agency now at the center of the Hollywood smear scandal.
 
-### Mikael Marcimain s The Cold Song Marks a Rare Return to Big Swing European TV Drama (Exclusive First Look)
-Wed, 14 Oct 2026 07:07:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news/mikael-marcimain-the-cold-song-first-look-images-1236729634/
+### Yellowjackets : First Footage of Final Season Shows the Long-Awaited Homecoming
+Wed, 14 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/yellowjackets-final-season-4-first-look-rescue-1236729332/
 
-Miso Film Sweden’s six-part adaptation of Linn Ullmann’s novel, backed by SVT and the New8 collective, arrives at Mipcom as European drama budgets tighten and commissioners retreat to safer formats.
+The official teaser trailer, set to Alanis Morissette's "Ironic," begins to unpack what happens when the stranded soccer team is finally rescued in the final season of the Showtime series.
 
-### DC Studios Clayface : First Reactions
-Wed, 14 Oct 2026 06:35:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dc-studios-clayface-first-reactions-1236729618/
+### Yaga Cast Teases Timely Take on Female Rage, Double Hudson Williams and A Lot of Chicken Stuff
+Wed, 14 Oct 2026 14:49:11 +0000 — https://www.hollywoodreporter.com/tv/tv-features/yaga-cast-female-rage-hudson-williams-chicken-1236726711/
 
-The body horror film co-written by Mike Flanagan and directed by James Watkins hits theaters on Oct. 23.
+The Crave/AMC+ series, based on the play by creator and showrunner Kat Sandler, stars Carrie-Anne Moss, Noah Reid, Clark Backo and Hudson Williams.
 
-### Ben Affleck Calls Filming Justice League a Low Point in His Career: About as Gross as It Gets
-Wed, 14 Oct 2026 03:49:22 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-calls-justice-league-low-point-career-1236729523/
+### Netflix Film VP Doug Belgrad Out In Layoffs
+Wed, 14 Oct 2026 14:26:03 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-film-vp-doug-belgrad-layoffs-1236729799/
 
-The actor played Bruce Wayne/Batman in the 2017 superhero pic, which underwent extensive reshoots, ultimately changing director Zack Snyder’s creative vision for the film.
+The exec had been at the streaming giant since 2024, when he was hired by film chief Dan Lin.
 
-### Two Internet Sensations Collide: Lola Blankets Gets a LoveShackFancy Makeover
-Wed, 14 Oct 2026 02:50:44 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/lola-blankets-loveshackfancy-release-date-price-buy-2026-1236729455/
+### Banana Republic Debuts First Scripted Microseries, an Office Comedy Starring Jack Innanen (Exclusive)
+Wed, 14 Oct 2026 14:09:13 +0000 — https://www.hollywoodreporter.com/business/digital/banana-republic-first-scripted-microseries-jack-innanen-1236729327/
 
-Hollywood's favorite faux fur throw gets a dose of whimsy in a limited-release collab that's unmistakably Lola Blankets x LoveShackFancy.
+In 'The Agency,’ aimed at the TikTok crowd, an old-school travel agency faces a harsh awakening when a corporate suit decides to modernize the business.
 
-### Pablo Torre Reveals Art of Play Security Camera Footage, and It Doesn t Look Great for Kelly Clarkson
-Wed, 14 Oct 2026 02:19:24 +0000 — https://www.hollywoodreporter.com/music/music-news/art-of-play-security-footage-kelly-clarkson-viral-visit-1236729466/
+### NBC’s ‘Dateline’ Headed to Canada
+Wed, 14 Oct 2026 14:08:06 +0000 — https://www.hollywoodreporter.com/tv/tv-news/nbc-dateline-canada-1236728864/
 
-Clarkson fans are going to want to look away from a moment like this.
+America’s top-rated true crime series hosted by Canadian native Keith Morrison will launch a local version on Citytv on Nov. 26.
 
-### Drake Bell Slams SAG-AFTRA After Not Qualifying for Health Insurance: Do Not Become an Actor
-Wed, 14 Oct 2026 00:37:36 +0000 — https://www.hollywoodreporter.com/tv/tv-news/drake-bell-slams-sag-aftra-health-insurance-not-qualifying-1236729416/
+### Ruthless, Sexual Predator : Russell Brand Rape Allegations Detailed as Prosecution Opens Case
+Wed, 14 Oct 2026 13:56:15 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-rape-trial-prosecution-claims-sexual-assault-1236729752/
 
-Bell, who rose to fame on 'Drake Josh,' has turned his focus to music in recent years.
+The disgraced actor and comedian has vehemently denied three counts of rape, three charges of sexual assault and one allegation of indecent assault relating to six women.
 
-### Parke Brings Back Its Sold-Out Shrunken Sweatshirt in Fan-Favorite Colorways
-Wed, 14 Oct 2026 00:03:12 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/parke-october-2026-everyday-edit-mockneck-sweatshirt-restock-1236729249/
+### Netflix Lays Off Around 1,000 Employees In Largest Cuts Since 2022
+Wed, 14 Oct 2026 13:31:42 +0000 — https://www.hollywoodreporter.com/business/business-news/netflix-hit-layoffs-growth-slows-1236720435/
 
-The brand's limited-edition launch reissues the cropped version of its signature (always out-of-stock) mockneck and restocks the beloved original in core shades.
+The cuts represent about 6 percent of the streamer's workforce as it seeks a reset in its business.
 
-### Theo James, Hoyeon, Christian Slater Thriller The Hole Lands Summer 2027 Release From Orion (Exclusive)
-Wed, 14 Oct 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-hole-theo-james-hoyeon-christian-slater-release-orion-1236729322/
+### TikTok Inks Second Major Microdrama Deal, Partners With Made By Us Studios
+Wed, 14 Oct 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/tiktok-second-microdrama-agreement-made-by-us-studios-1236729095/
 
-Yeom Hye-ran also stars in director Kim Jee-woon's feature that adapts Hye-young Pyun's novel.
+The news follows the social media platform‘s deal with Issa Rae's Hoorae to make vertical series, which resulted in the popular drama ‘Screen Time.’
 
 ## Deadline
 
-### Russell Brand Rape Trial: Forgetting Sarah Marshall Star Had Indiscriminate Voracious” Sexual Appetite
-Wed, 14 Oct 2026 09:02:44 +0000 — https://deadline.com/2026/10/russell-brand-trial-prosecution-case-1237155753/
+### Doug Belgrad Leaving As Netflix VP Of Film Amid Layoffs
+Wed, 14 Oct 2026 14:31:42 +0000 — https://deadline.com/2026/10/doug-belgrad-leaving-netflix-vp-film-layoffs-1237156752/
 
-Russell Brand had an “indiscriminate and voracious” appetite for sexual contact that led to a decade of criminal offending, a court has heard. Brand took his place in the dock on Wednesday at London’s Southwark Crown Court, as the prosecution began making its case against the Forgetting Sarah Marshall star in a trial that will [ ]
+Doug Belgrad is departing Netflix where he has been Vice President of Film for more than two years. His exit, which was confirmed by the streamer, is part of the major layoffs at Netflix today. Ironically, Belgrad was Head of Film Dan Lin‘s first hire after a round of layoffs when Lin replaced Scott Stuber [ ]
 
-### ‘La Bola Negra’, ‘Woman Unknown’, NAZA ‘Fjord’ Among 68 Films On Shortlist For 39th European Film Awards
-Wed, 14 Oct 2026 09:00:06 +0000 — https://deadline.com/2026/10/short-list-39th-european-film-awards-1237156545/
+### Jami McGuigan Joins Select Management Group s Canadian Team As Talent Manager
+Wed, 14 Oct 2026 14:30:00 +0000 — https://deadline.com/2026/10/jami-mcguigan-joins-select-canada-talent-manager-1237156676/
 
-The European Film Academy has unveiled the shortlist of films in the running for prizes at its 39th European Film Awards ceremony scheduled to take place on January 16, 2027 in Athens. A total of 68 feature films have been shortlisted for a possible nomination for the European Film Awards, with the winners voted for [ ]
+EXCLUSIVE: Select Management Group, the next-generation talent management firm, today announced that veteran talent booker, producer, and strategic partnerships leader Jami McGuigan has joined the Select Canada team as a talent manager. McGuigan will help grow the company s Canadian presence and scale its efforts to cultivate the next generation of Canadian talent. Her work will [ ]
 
-### Rohit Jain Launches Tiger TV
-Wed, 14 Oct 2026 08:29:39 +0000 — https://deadline.com/2026/10/rohit-jain-tiger-tv-1237156538/
+### Mongolian-German Feature ‘Zogsool’ Wins Big At Busan Film Festival’s Vision Awards
+Wed, 14 Oct 2026 13:48:42 +0000 — https://deadline.com/2026/10/busan-vision-award-zogsool-mongolia-selvi-full-moon-1237156643/
 
-Rohit Jain is launching Tiger TV, a streaming platform dedicated to Hindi and Punjabi content. The platform will launch on October 15, 2026. It will be available on the Lionsgate Play app across Asia, and as a standalone app in the US, UK, Canada, Australia, and New Zealand. The platform will also be on Amazon [ ]
+Mongolian-German feature Zogsool was the big winner in the Vision Awards at this year’s Busan International Film Festival, taking four prizes including the Vision of Jiseok Award. Directed by former cinematographer Sakhya Byamba, the film also took the NETPAC Award, FIPRESCI Award and one of two Hylife Vision Awards. Filmed on the Mongolian grasslands, the [ ]
 
-### Electrify Enlists Ex-Vice Exec Al Brown Former YouTube EMEA Boss Patrick Walker For Creator Push
-Wed, 14 Oct 2026 07:30:00 +0000 — https://deadline.com/2026/10/electrify-hires-al-brown-patrick-walker-creator-push-1237155598/
+### Avatar Entertainment Adapting Vicente Vallés Novel La Caza Del Ejecutor As TV Series
+Wed, 14 Oct 2026 13:45:01 +0000 — https://deadline.com/2026/10/avatar-entertainment-la-caza-del-ejecutor-tv-series-1237156644/
 
-EXCLUSIVE: Al Brown and Patrick Walker, two of the best-known digital execs working in Europe, have joined creator house Electrify. Former Vice programming chief Brown has been named EVP Creative and Editorial, while ex-YouTube EMEA boss Walker will become Chief Strategy Officer at the London-based Electify, which is known for investing in digital creators and [ ]
+EXCLUSIVE: Avatar Entertainment has acquired rights to Spanish journalist Vicente Vallés novel Hunting the Executioner (La Caza del Ejecutor). The London- and L.A.-based production and management company and content financier has attached screenwriters Borja Moreno and Pablo Riquelme Cuartero to adapt the book into an eight-part TV shows. Avatar founder Larry Robinson is executive producing [ ]
 
-### ‘A Chronicle Of Minor Things’ ‘Goldfish’ Among Award Winners At Busan’s Asian Project Market
-Wed, 14 Oct 2026 05:00:55 +0000 — https://deadline.com/2026/10/busan-apm-a-chronicle-of-minor-things-goldfish-1237156369/
+### Netflix Layoffs Underway, Streamer Cutting 1,000 Jobs, 6% Of Workforce
+Wed, 14 Oct 2026 13:27:16 +0000 — https://deadline.com/2026/10/netflix-layoffs-underway-1237156351/
 
-A Chronicle Of Minor Things, from Indian filmmaker Tribeny Rai, picked up the APM Busan Award and the Sorfond Award at the close of this year’s Asian Project Market in Busan. The jury said the project stood out for its original story and narrative structure, and for the director’s ability to weave a social issue [ ]
+Netflix has initiated a major round of layoffs Wednesday, eliminating about 6% of its global staff or some 1,000 jobs for its biggest round of job cuts in four years. The product, tech, legal and HR teams are among the most impacted by the cuts, which have been expected as the company faces slower growth [ ]
 
-### Judge Rules Trump Administration Can t Resume Ban On CNN, MS NOW Politico From White House Grounds
-Wed, 14 Oct 2026 03:11:27 +0000 — https://deadline.com/2026/10/trump-white-house-ban-cnn-ms-now-politico-4-1237155884/
+### Peter Facinelli Among Cast Set For Indie Drama ‘1 AM Pacific Time’
+Wed, 14 Oct 2026 13:26:09 +0000 — https://deadline.com/2026/10/peter-facinelli-1-am-pacific-time-1237156648/
 
-UPDATED, with additional comment: A federal judge prohibited the Trump administration from banning CNN, MS NOW and Politico from the White House grounds, granting the three outlets a preliminary injunction that ensures access for the foreseeable future. U.S. District Judge Timothy Kelly, a Trump appointee, wrote in his opinion that the news outlets are likely [ ]
+EXCLUSIVE: Production has wrapped in Los Angeles on the indie drama 1 Am Pacific Time, with Peter Facinelli (Twilight) among the leading cast. The film also stars Alex Vaughan (Monster: The Lyle and Erik Menendez Story), Billiards U.S. Open Champion Jeanette Lee, and Erica Muñoz (Grey s Anatomy). Filmmaker Brandon DeLany (Broadway Sandwich) has written and [ ]
 
-### James McAvoy Recalls Being Bullied On The Set Of HBO s Band Of Brothers
-Wed, 14 Oct 2026 02:08:35 +0000 — https://deadline.com/2026/10/james-mcavoy-bullied-set-hbo-band-of-brothers-1237156356/
+### Moby, Hannah Stocking Adam Rose Set For Microdrama Slate From TikTok Made By Us Studios
+Wed, 14 Oct 2026 13:15:00 +0000 — https://deadline.com/2026/10/tiktok-made-by-us-microdrama-hannah-stocking-adam-rose-moby-1237155360/
 
-James McAvoy recalls his first day on the set of Band of Brothers and says a co-star bullied him. During a visit to Bravo s Watch What Happens Live while playing Spill the IMDb-tea, McAvoy made the revelation while keeping mum about the names. After being shown a photo of the HBO series, McAvoy took a closer look [ ]
+EXCLUSIVE: TikTok and creator economy firm Made By Us Studios have vertical video on the mind, and have enlisted major digital and music stars to help them. The two have partnered on a multi-year deal to make a slate of creator-led micro-series for TikTok and its app, PineDrama. Deadline has the news for you ahead [ ]
 
-### Dancing With The Stars Recap: Super Bowl Night Sends Home A Fan Favorite
-Wed, 14 Oct 2026 01:59:43 +0000 — https://deadline.com/2026/10/dancing-with-the-stars-season-35-week-5-recap-super-bowl-1237155960/
+### Hearst Networks UK Super Channel Search For Black Watch Entertainment s Missing Pieces
+Wed, 14 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/hearst-networks-uk-super-channel-missing-pieces-1237155362/
 
-SPOILER ALERT! This post contains details from Tuesday s episode of Dancing with the Stars. Another week, another night of Dancing with the Stars. It s the first-ever Super Bowl night in the ballroom, so the remaining couples are dancing to songs from former Super Bowl halftime performers, including Shakira, Lady Gaga, Jennifer Lopez, Bad Bunny, and [ ]
+EXCLUSIVE: Hearst Networks UK and Canada s Super Channels are on the hunt for Missing Pieces. A 20-part true-crime series from Manitoba, Canada-based Black Watch Entertainment has been greenlit, comprising two seasons of 10 episodes shot back-to-back. ITV Studios is attached as the international distributor. Each hourlong episode will reconstruct a murder using a single, grisly [ ]
 
-### Candle In The Wind: 5-Year-Old Media Firm Faces New Questions After Hello Sunshine Exit
-Wed, 14 Oct 2026 00:51:36 +0000 — https://deadline.com/2026/10/candle-media-faces-questions-hello-sunshine-exit-1237156037/
+### Urban One Lines Up Foul Play And Power Influence TikTok Microdramas
+Wed, 14 Oct 2026 12:30:00 +0000 — https://deadline.com/2026/10/urban-one-tiktok-microdramas-1237155551/
 
-Now that Candle Media s glow has dimmed further with the sale of its Hello Sunshine majority stake, fresh questions are being raised about the firm s future. The financials around the deal for Reese Witherspoon s company, which she is buying back from Candle in partnership with France-based Mediawan, have not been disclosed. But one veteran financier [ ]
+EXCLUSIVE: Black content distributor Urban One, Inc. is launching a pair of microdramas that will launch on the Bossip TikTok account. Dreux Dougall, who has credits for Lovecraft Country and Tanya Hoffler-Moore (Tyler Perry s House of Payne) are behind of corporate-set thriller Power Influence and revenge drama Foul Play, respectively. Each series will feature [ ]
 
-### Drake Bell Calls Out SAG-AFTRA After Losing Health Insurance Urges People To Not Become An Actor Or Join SAG
-Wed, 14 Oct 2026 00:30:00 +0000 — https://deadline.com/2026/10/drake-bell-sag-aftra-health-insurance-1237156308/
+### A Long Winter : Watch First Trailer For Andrew Haigh Drama Starring Fred Hechinger, Ebon Moss-Bachrach, Caitríona Balfe Kit Connor
+Wed, 14 Oct 2026 12:00:00 +0000 — https://deadline.com/2026/10/a-long-winter-first-trailer-fred-hechinger-kit-connor-1237156587/
 
-Drake Bell is calling out SAG-AFTRA after revealing he didn t have health insurance because he didn t qualify. The Drake Josh alum took to social media to share a screenshot from the actors guild website where it read, You do not qualify for Health Plan coverage at this time. Your reported covered earnings from July [ ]
+EXCLUSIVE: Here s your first trailer for Andrew Haigh s Telluride, Toronto and New York Film Festival drama A Long Winter, starring Fred Hechinger, Ebon Moss-Bachrach, Caitriona Balfe, Kit Connor and D’Pharaoh Woon-A-Tai. Based on Haigh’s adaptation of Colm Tóibín’s short story of the same name, the film is set during the early 1950s in a remote [ ]
 
-### The White Lotus Filming In Cannes As Season 4 Production Enters Final Stretch, Hôtel Martinez Transformation Confirms New Resort Logo
-Wed, 14 Oct 2026 00:08:49 +0000 — https://deadline.com/2026/10/white-lotus-season-4-production-cannes-final-stretch-1237155644/
+### 2026-27 Premiere Dates For New Returning Series On Broadcast, Streaming Cable
+Wed, 14 Oct 2026 12:00:00 +0000 — https://deadline.com/feature/2026-tv-premiere-dates-1236391902/
 
-The White Lotus Cannes takeover continues. As Season 4 of Mike White s HBO series is headed into the final stretch on its lengthy shoot, the mystery series has camped out at the famous Hôtel Martinez on Promenade de la Croisette six months after production on the new installment began at the French Riviera and five [ ]
+Here is Deadline s annual list of premiere dates for new and returning TV series. Updated daily, the roster covers hundreds of broadcast, cable and streaming programs debuting in 2026 and early 2027, many still listed as TBA (to be announced). It includes series premieres, season debuts, shows returning from hiatus and some one-offs such as [ ]
 
-### Golden Globes Vs Golden Globe: Infringement Money Are Latest Legal Battlefields In Shindig Skirmish
-Tue, 13 Oct 2026 23:39:49 +0000 — https://deadline.com/2026/10/golden-globes-legal-battle-trademark-1237156199/
+### Launch Financing To Expand Short-Term Indie Film Lending On Back Of New $15M Senior Credit Facility
+Wed, 14 Oct 2026 12:00:00 +0000 — https://deadline.com/2026/10/launch-financing-indie-film-lending-senior-credit-facility-1237156612/
 
-The 84th annual Golden Globes Awards are months away, but the once boozy and sometimes unhinged ceremony is front and center right now, at least in the court dockets. Two months after the remnants of the Hollywood Foreign Press Association sued Penske Media Corporation for its part in Dick Clark Productions purchase of the Golden [ ]
+EXCLUSIVE: Beverly Hills-based film finance specialist Launch Financing is poised to scale up its short-term gap loan services for indie productions in the U.S., Canada and the UK having secured its first ever institutional $15M senior credit facility. The film-lending arm of producer-financier Chris K. Daniels The Launch Company, has previously funded more than 60 [ ]
 
 ## befores & afters
+
+### Give your stories more ways to take shape with Canvas in Flow Studio
+Wed, 14 Oct 2026 10:08:52 +0000 — https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/
+
+Access leading models to create and refine every character, world, and moment in your story. Previz and refine your shots with leading models like Seedance 2.5 and Nano Banana 2, all inside Canvas. Explore more directions, keep the ones that work. Try Autodesk Flow Studio today. Try Autodesk Flow Studio for free The post Give your stories more ways to take shape with Canvas in Flow Studio appeared first on befores & afters .
 
 ### Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution
 Tue, 13 Oct 2026 15:49:43 +0000 — https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/
@@ -174,6 +179,26 @@ Tue, 13 Oct 2026 15:49:43 +0000 — https://beforesandafters.com/2026/10/14/real
 Strategic alliance connects Reallusion’s 3D ecosystem with John Gaeta’s Neo Cinema platform, bringing consistent AI filmmaking to 400 million Connected TVs. Reallusion Inc. , the leader in 3D character generation and real-time animation software, and Escape.AI Media Inc. , the premier Neo Cinema content platform and creator marketplace, today announced a strategic partnership. The multi-year alliance addresses critical generative AI video challenges, including visual inconsistencies, high token costs, and ambiguous IP ownership. Together, the companies establish a robust 3D-to-AI pipeline for professional AI storytellers. Creators using generative AI video frequently encounter shifting character designs and high render costs, while text-generated content faces legal scrutiny regarding copyright eligibility. Reallusion and Escape.AI solve these challenges by using 3D spatial data as a precise control layer. Grounding generative models in human-authored assets ensures frame-to-frame continuity and undeniable proof of original authorship. Reallusion’s Full-Circle 3D Ecosystem: The Structural Engine for AI Under the agreement, Reallusion integrates its full-circle 3D software and asset infrastructure with a 3D-to-AI Video Workflow into the Escape.AI creator ecosystem: Character Creator 5 (CC5) : Enables creators to design custom, fully rigged 3D characters with precise facial blendshapes and high-resolution textures. These base 3D files serve as the original IP foundation that ca
 
 ## IndieWire
+
+### American Black Film Festival Expands Into Theatrical Distribution with Launch of ABFF97
+Wed, 14 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/news/festivals/american-black-film-festival-expands-theatrical-distribution-amc-theaters-1235221891/
+
+Exclusive: The new distribution arm will partner with AMC Theatres to create a theatrical pathway for more independent films.
+
+### How to Build a Friday the 13th Prequel: Blood Bags, Old-School Paranoia, and Linda Cardellini as Pamela Voorhees
+Wed, 14 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/interviews/friday-the-13th-prequel-show-blood-paranoia-cardellini-1235220840/
+
+Star Cardellini and showrunner Brad Caleb Kane scare up a hell of a good "Friday the 13th" prequel. They tell IndieWire how '70s paranoia, their own horror proclivities, and Don Knotts (yes, Don Knotts) turn the story of Pamela Voorhees into something truly juicy.
+
+### The New Sense and Sensibility Introduces a Different Marianne Dashwood, and a Breakout Star in Esmé Creed-Miles
+Wed, 14 Oct 2026 13:30:00 +0000 — https://www.indiewire.com/features/interviews/sense-and-sensibility-movie-star-esme-creed-miles-interview-1235221468/
+
+Part punk-rock, part wild child, all heart, Creed-Miles brings new life to the lovesick middle sister in Georgia Oakley's stunning new take on the Jane Austen classic. The actress who plays her? She's just as special.
+
+### Cameron Winter at Carnegie Hall Trailer: Paul Thomas Anderson Films the Geese Frontman in 35mm
+Wed, 14 Oct 2026 13:01:00 +0000 — https://www.indiewire.com/news/trailers/cameron-winter-at-carnegie-hall-trailer-1235221796/
+
+The concert film will screen across the country as part of a roadshow beginning on November 20.
 
 ### New ‘Avatar’ Projects Are Everywhere — but the Best One Succeeds by Leaving ‘The Last Airbender’ Behind
 Tue, 13 Oct 2026 23:32:42 +0000 — https://www.indiewire.com/features/animation/avatar-seven-havens-adaptations-animation-styles-1235221514/
@@ -215,127 +240,107 @@ Tue, 13 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/news/general-news/
 
 The award-winning journalist previously worked at Variety and TheWrap and will report on indie studios, filmmakers, and the media business.
 
-### 14th Leads 2026 Critics Choice Documentary Award Nominations
-Tue, 13 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/awards/results/critics-choice-documentary-awards-2026-nominations-14th-1235221592/
-
-Ava DuVernay’s “14th" leads nominations for the Critics Choice Documentary Awards happening on Sunday, November 8, 2026 at The Edison Ballroom in Manhattan.
-
-### Sense and Sensibility Review: Daisy Edgar-Jones and George MacKay Suffuse an Unfussy Jane Austen Adaptation with Earthly Sensuality
-Tue, 13 Oct 2026 15:59:58 +0000 — https://www.indiewire.com/criticism/movies/sense-and-sensibility-2026-movie-review-1235221438/
-
-Filmmaker Georgia Oakley sticks to the text to often swoony results in an adaptation that may not compare to Ang Lee's, but has plenty fresh to say about Austen's oft-wrought first novel. Also: Watch out for breakout Esmé Creed-Miles as middle-child Marianne Dashwood.
-
-### Crystal Lake Review: Over-the-Top Kills Succumb to an Underbaked Story in A24 s Friday the 13th Prequel
-Tue, 13 Oct 2026 15:30:00 +0000 — https://www.indiewire.com/criticism/shows/crystal-lake-review-watch-last-two-episodes-only-1235221420/
-
-A new contender for the most maddening use of a penultimate flashback episode emerges in "Crystal Lake," Brad Caleb Kane's Voorhees family origin story that asks where the mother-son killers came from — and answers far too easily, and far too late.
-
-### Meet Terry Matalas, the New King of Sci-Fi TV
-Tue, 13 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/features/interviews/terry-matalas-king-of-sci-fi-tv-visionquest-1235220300/
-
-The showrunner behind “12 Monkeys,” the third season of “Star Trek: Picard,” and the upcoming MCU series “VisionQuest” has been steeped in the genre since childhood, and his care shows in every frame.
-
 ## The Wrap
+
+### Piers Morgan Slams Trump Over Appallingly Tasteless AI Tiger Video: Delete It
+Wed, 14 Oct 2026 15:23:41 +0000 — https://www.thewrap.com/culture-lifestyle/culture/piers-morgan-donald-trump-ai-tiger-attack-video/
+
+Piers Morgan slammed President Trump s AI-generated video of himself fighting a tiger, calling it appallingly tasteless on Wednesday, days after the death of 23-year-old William Chapman this past weekend. On Saturday, Chapman entered the enclosure of a tiger named Altai at the Yorkshire Wildlife Park near Doncaster, England. The tiger attacked him and he was pronounced dead at the scene. In the wake of the tragedy, representatives for the Yorkshire Wildlife Park have already announced that Altai will not be euthanized. Local authorities continue investigating how Chapman managed to enter the enclosure in the first place. On Tuesday, Trump posted footage of the attack on his Truth Social account, writing, Don t ever mess with nature! President DJT. His post was reshared on X by The White House s official Rapid Response account. Hours later, the president shared a caption-less, AI-generated video of himself fighting Altai in place of Chapman. In the video, he tackles and wrestles the tiger before hugging it, all while The Lion Sleeps Tonight plays. Morgan called out the post, which is still live on Truth Social, just hours after Trump posted it. This is appallingly tasteless, Morgan wrote . Delete it, President @realDonaldTrump. This is appallingly tasteless. Delete it, President @realDonaldTrump . &mdash; Piers Morgan (@piersmorgan) October 14, 2026 The British political commentator is not the only person who has condemned Trump s post in the hours since it was shared online. 
+
+### Yellowjackets Season 4 Teaser Hints at Troubled Homecoming for Survivors
+Wed, 14 Oct 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/yellowjackets-season-4-teaser-paramount-plus/
+
+“Yellowjackets” Season 4 marks the show’s final outing, and the teaser hints at a rough homecoming for the survivors. The first trailer for the Showtime-turned-Paramount+ series’ final season reveals that surviving a plane crash, turning to cannibalism and eventually being rescued come with their own growing pains when it comes to readjusting to life back home. At the start of the teaser, all the survivors are seen recounting their experiences on camera with vacant stares. Their parents attribute their behavior to the shock of being found, but it’s more likely that the changes the girls underwent to survive are still haunting them. Set to Alanis Morissette’s “Ironic,” the teaser shows the girls struggling to readjust to life back home. One man tells Shauna, “you girls are American heroes,” on the side of the road, but she simply turns and walks away. When asked if there’s anyone else out in the woods they should be looking for, the girls have no answer. https://www.youtube.com/watch?v=xQIYgvPBWJI So, what does it feel like to be home, a boy asks Shauna. It doesn t, she responds. There are plenty of gun cockings, explosions and screaming to follow as the teaser promises The Final Reckoning for the show. Yellowjackets Season 4 premieres on Nov. 20. Everything that we saw, Van says. Everything we did. We weren t supposed to leave. Created by Ashley Lyle and Bart Nickerson, who also serve as showrunners and executive producers, “Yellowjackets” premiered in 2021. The drama follows
+
+### Netflix Film VP Doug Belgrad Out as Part of Layoffs
+Wed, 14 Oct 2026 14:39:31 +0000 — https://www.thewrap.com/culture-lifestyle/culture/netflix-doug-belgrad-laid-off/
+
+Netflix Film VP Doug Belgrad is out at the streamer as part of its company-wide layoffs on Wednesday, TheWrap has learned. Belgrad served as a right-hand man to Netflix Film head Dan Lin, and was one of Lin s first hires when he took over the role from Scott Stuber. Netflix declined to comment. Belgrad was previously a longtime Sony Pictures employee, serving as President of Production starting in 2003, President of Columbia Pictures in 2011 and then elevated to President of Sony Motion Picture Group in 2013. He joined Netflix in 2024. Netflix laid off roughly 1,000 employees on Wednesday, or 6% of its workforce, and co-CEOs Ted Sarandos and Greg Peters said in an email to staff that the majority of the cuts are in the product, tech, legal and human-resources teams. “Our mission – to entertain the world – is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people and resources,” Sarandos and Peters said in their note to staff. “Our business is strong and growing, and we remain on track to deliver our full- year forecast. We’ll continue to invest aggressively in high- impact areas to improve our service and further drive growth and innovation. Doing that means making focused choices across the business so we can keep delivering for our members, partners, employees, and investors.” While Netflix has struggled with growth in 2026, the streamer has actually had a pretty successful year when it comes to original films. Genre movies like T
+
+### Jimmy Kimmel Calls Guillermo s DWTS Elimination an Outrage, Suggests Legal Action: What a Kick in the Mirrorballs
+Wed, 14 Oct 2026 14:03:17 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-reaction-guillermo-dancing-with-the-stars-elimination/
+
+Jimmy Kimmel s sidekick Guillermo met the end of the Dancing With the Stars road on Tuesday night, and Kimmel himself was outraged. In fact, he immediately wondered if Guillermo and partner Witney Carson would accept the results, or take legal action. As he has taken to doing during Guillermo s time on the ABC competition, Kimmel made sure to touch on his sidekick s latest dance during his monologue. On Tuesday, Guillermo and Carson danced a salsa to Bad Bunny (the theme of the night was Super Bowl), and to Kimmel s eyes, it was an 11 out of 10. But, let s see what those radical, left-wing, lunatic judges had to say, Kimmel joked. At that, a clip of Guillermo s scores began playing, in which he earned 22 out of 40 two 5s and two 6s. Despite being his highest score yet, it wasn t enough to save the duo, and Kimmel s sidekick was eliminated. What a kick in the mirrorballs, Kimmel joked as his audience booed the outcome. The ABC host then went live to Carson and Guillermo to get their thoughts on everything that happened. First of all, this is on outrage, Kimmel prefaced. An absolute will you accept the results or will you take legal action? The late night host was, obviously, likening the dancing duo to President Trump, and they rolled right with it. They are ready to take legal action. You can watch Kimmel s full reaction in the video above. The post Jimmy Kimmel Calls Guillermo s DWTS Elimination an Outrage, Suggests Legal Action: What a Kick in the Mirrorballs appeared first
+
+### Netflix Lays Off 1,000 Employees as Company Cuts 6% of Staff
+Wed, 14 Oct 2026 13:36:42 +0000 — https://www.thewrap.com/industry-news/business/netflix-layoffs-1000-employees/
+
+Netflix laid off roughly 1,000 employees, or about 6% of its staff, on Wednesday, as the megastreamer battles slowed growth. The majority of the cuts are in the product, tech, legal and human-resources teams, co-CEOs Ted Sarandos and Greg Peters said in an email to staff on Wednesday morning obtained by TheWrap. Our mission to entertain the world is ambitious, and delivering on it requires us to be disciplined about where we prioritize our people and resources, they said. Our business is strong and growing, and we remain on track to deliver our full- year forecast. We’ll continue to invest aggressively in high- impact areas to improve our service and further drive growth and innovation. Doing that means making focused choices across the business so we can keep delivering for our members, partners, employees, and investors. Netflix had no comment beyond the staff email. As of the end of 2025, Netflix had approximately 16,000 full-time employees. The company’s last major staff reduction was back in 2022, though it laid off a small number of product team employees in February. Sarandos acknowledged the growth issues last month in an interview where he admitted, We re not growing as fast as I want us to, and we re working on making that move faster. The streamer s stock has dropped 25% in 2026 as Wall Street fears it s not growing fast enough. In July, Netflix accounted for 7.8% of TV viewership , compared to YouTube’s 14.2%, per Nielsen’s latest Gauge report. Netflix stopped rev
+
+### TikTok to Co-Produce Microseries With Made By Us Starring Creators Hannah Stocking and Adam Rose
+Wed, 14 Oct 2026 13:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/tiktok-made-by-us-microseries-partnership-hannah-stocking-adam-rose/
+
+TikTok announced its second microseries partnership — this time with digital creators at the center. The microseries will be produced in partnership with creator management company Made By Us, the companies announced during TikTok’s presentation at MIPCOM Cannes. The companies inked a multiyear deal to co-produce a slate of creator-led vertical series exclusively for TikTok and its microdrama counterpart, PineDrama. The first two series will star comedy creators Hannah Stocking and Adam Rose, with each leading their own microseries. “Micro-series are pioneering a new language of storytelling,” Dawn Yang, global head of entertainment & micro-series at TikTok, said. “We’re thrilled to partner with Made By Us on a slate that puts creators at the center, alongside established producers and industry talent, to tell stories designed for the feed from the start. This is an exciting step forward in our continued investment in the next generation of premium vertical storytelling on TikTok and PineDrama.” Stocking’s series, “Player,” is a romantic revenge thriller produced by Jonas Barnes. The series was directed by Louiza Zouzias and written by Arun Blair-Mangat and Chela Reyna, with Stocking also receiving a co-story credit. She also serves as an executive producer. This isn’t Stocking’s first microseries. She played a supporting role in one of the first-ever SAG microdramas, “Playback,” portraying a cunning mean girl. Rose will star opposite Pretty Little Liars: Original Sin Zaria S
+
+### CNN and CBS News Will Stay Separate Under Skydance. But How Much Can They Share?
+Wed, 14 Oct 2026 13:15:00 +0000 — https://www.thewrap.com/media-platforms/tv/cnn-cbs-news-skydance-integration/
+
+Skydance has pledged to keep CNN and CBS News editorially independent. But with roughly $80 billion in debt hanging over the combined company, keeping the two newsrooms separate may be easier than keeping their operations that way. The company is targeting at least $6 billion in merger cost reductions from its $110 billion merger of Paramount and Warner Bros. Discovery , while insisting most of the cuts won’t come from jobs. Combining office space, technology and production facilities could yield savings without affecting editorial decisions. Sharing bureaus, crews and other newsgathering resources would be more complicated. Skydance s own executives have left room for questions about where the company will draw that line. Asked on CNBC last week whether CNN and CBS News could consolidate newsgathering to reduce costs, co-CEO Ynon Kreiz said, “This isn’t about cost savings in this case,” describing the networks as “two separate businesses.” Co-CEO David Ellison, meanwhile, acknowledged there are “absolutely operational efficiencies” to be found. Those mixed messages leave open a range of potential cuts. Interviews with current and former media executives suggest Skydance could find relatively straightforward savings in facilities, technology and production, while larger opportunities may lie in international newsgathering. But consolidating bureaus, crews and other reporting resources could force decisions about which journalists cover which stories, potentially testing the c
+
+### ‘Matchbox: The Movie’ Is a Low Point for Mattel. What Does It Say About the Future of Skydance?
+Wed, 14 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/matchbox-the-movie-performance-analysis-skydance/
+
+It probably seemed like a good idea at the time. A starry, high-concept action movie, made by a buzzy filmmaker and based on a beloved toy property, streaming on a platform known for high-octane breakouts like “Wolfs,” “F1” and, more recently, “Mayday.” The name alone – “Matchbox: The Movie” – was enough to conjure fuzzy memories of playing with the diecast cars as a child. Seeing the logo makes you go vroom vroom in your head. At the very least it could have been something fairly innocuous that you half-watched while folding the laundry or making yourself an egg salad sandwich. But instead, thanks to the uncanny timing of its release this past weekend, the executives behind it — including both Skydance CEOs David Ellison and Ynon Kreiz — and the fact that it is, objectively, one of the crummiest movies of the year, “Matchbox: The Movie” has become something of a bad omen. The streaming feature is not just a low-point for Mattel, which just three years ago had the $1 billion-grossing, Best Picture-nominated “Barbie” (and who had most recently weathered the commercial disappointment of Amazon’s “Masters of the Universe”), but a grim reminder of where the industry could be headed. As Indiewire’s David Ehrlich said in his bleakly entertaining C- review , “If Skydance’s theatrical releases are as blandly algorithmic as its streaming ones, Hollywood is already dead.” Gulp . Paramount declined to comment. The critical shellacking of “Matchbox” — it has a 24% critics score on Rotten
 
 ### Jimmy Kimmel Draws Big Reaction From Audience After Jab at New Trump Press Secretary
 Wed, 14 Oct 2026 05:11:20 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-big-studio-reaction-trump-press-secretary-joke-about-credentials/
 
 Jimmy Kimmel zeroed in on Donald Trump s new White House Press Secretary Katie Zacharia with jokes about her credentials, prompting a big reaction from his studio audience. During Tuesday s monologue for Jimmy Kimmel Live!, the comedian touched on Zacharia s first day on the job, mocking everything from her press briefing to her confusing claim about her law degree. Things did not get off to a great start for Malibu Katie today, Kimmel ripped. Her first briefing was brief. It was only 14 minutes long, but even in that short time, she accomplished exactly what she was brought in to do, which is slobber a whole tube of lip gloss all over the president s behind. After playing footage of Zacharia telling the White House press corps that she s wanted to work for Trump for a long time, Kimmel quipped that it was all it takes nowadays. He added: All it takes is that and dressing like you re about to announce pre-boarding on a Delta Airlines flight. As Kimmel went on, he roasted the way Zacharia read out the day s updates, joking that her reading is good for an 11 year old. We got a smart one here. After her press conference this morning, a lot of people, including insiders at the White House, are said to be wondering how long this woman s going to last, Kimmel said. But I ll tell you what, if she keeps talking like this, I have a feeling she ll be around for a long time to come. Jimmy Kimmel Live! editors then cut to Zacharia s press briefing slip-up, where she said my president ins
 
-### Judge Rules Against White House Resuming Ban of CNN, MS NOW and Politico as Legal Battle Continues
+### White House Ban of CNN, MS NOW and Politico Can t Resume, Judge Rules as Legal Battle Continues
 Wed, 14 Oct 2026 03:38:29 +0000 — https://www.thewrap.com/media-platforms/journalism/judge-extends-cnn-ms-now-politico-white-house-access/
 
 Federal Judge Timothy Kelly barred the Trump administration from reinstating its ban on CNN, MS NOW and Politico reporters accessing the White House grounds. In a new ruling, which granted the outlets motion for a preliminary injunction, the U.S. District judge declared that CNN, MS NOW and Politico “are likely to succeed not only on their due process claim, but also on their two First Amendment claims,” extending their journalists’ access to the White House. However, as Judge Kelly went on, he noted that “no one should interpret the Court’s decision to suggest that President Trump’s concerns about accuracy and fairness in the media’s reporting are unfounded, or that the government is powerless when its true aim is to protect national security when classified information is unlawfully disclosed.” In response to the update, Theodore J. Boutrous, Jr., an attorney for CNN, MS NOW, and Politico, told TheWrap Tuesday evening, We are grateful that the Court ruled in favor of our clients CNN, MS NOW and Politico and secured access to the White House for these news media organizations and their journalists. When the President issued his ban on the free press, he blatantly and explicitly violated due process and the First Amendment, he continued. Since then, the President has repeatedly, candidly, and consistently admitted in public that he banned our clients from the White House to punish reporting he doesn’t like and to try to force journalists to cover him in ways he prefers. The h
 
-### Final LA Mayoral Debate: Nithya Raman Questions Karen Bass Motivation to Back Film Tax Credits
-Wed, 14 Oct 2026 03:19:52 +0000 — https://www.thewrap.com/creative-content/tv-shows/final-la-mayoral-debate-nithya-raman-karen-bass-film-tax-credits/
-
-Incumbent Mayor Karen Bass and her opponent Councilmember Nithya Raman went head-to-head in a fierce debate Tuesday just three weeks before Election Day. Hollywood and its lack of jobs came up in the last five minutes of the debate when the candidates were asked how they would bring work back to Los Angeles. Both mayoral candidates have been open in support of state and federal film tax credit programs, but Raman claimed that Bass was behind the punch. This mayor only started talking about this tax credit after I entered the race. I feel an urgency about this issue, she claimed. “Oh, that’s completely untrue,” the incumbent mayor hit back. Both Bass and Raman have stated they would advocate for an uncapped film tax credit program at the state level. Bass specifically retorted that she was involved directly in advocating for the state and federal tax credits during her tenure as mayor. What we have done with the industry, we ve done in partnership with the industry, she said. So when you thought I didn t do anything on the tax credit, I was busy advocating in Sacramento and also participating with the industry here. Bass received criticism for taking three years into her term before hiring a film czar. She appointed Board of Public Works president Steve Kang as film liaison in August of 2025. The incumbent mayor has previously accused Raman of having a weak legislative record, pointing the finger at the councilmember for failing to fight for Hollywood. “I did the first tax cre
-
-### VisionQuest Star Paul Bettany Breaks Down Emotional Episode 2 Death: Gone Too Soon
-Wed, 14 Oct 2026 03:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/visionquest-jarvis-dead-paul-bettany-reaction/
-
-Note: This story contains spoilers from VisionQuest Episodes 1-2. VisionQuest said goodbye to one of the truest OGs of the MCU in its first two episodes, and it was definitely an emotional moment for Paul Bettany. Taking place roughly four and a half years after the events of WandaVision, VisionQuest finds the synthezoid fans know and love in Scotland. He s working as a barback in a pub that he and Wanda (Elizabeth Olsen) used to frequent, as he tries to make sense of the Vision memories he was given at the end of WandaVision. He s been living off the grid, but when a bounty hunter known as Paladin (Todd Stashwick) is hired to find him, Vision s peace is shattered — as is part of his body. See, Paladin knows that the only bullets that will have an effect on the synthezoid are adamantium bullets, and they sure do some damage. Vision s system is failing critically, leaving the AI personalities in his head scrambling to try and save his body. Those AIs include J.A.R.V.I.S., E.D.I.T.H., F.R.I.D.A.Y, Dum-E, U and Ultron. Eventually, it becomes clear that one of those AI systems must sacrifice themself so the energy resources being used to power them can be stronger for the others. This is your last exit before spoilers, OK? The AI assistant that jumps on the metaphorical grenade is none other than J.A.R.V.I.S., played once again in human form by James D Arcy. He played the actual human version of the character in Agent Carter and returned in Avengers: Endgame. Of course, longterm 
-
-### Security Footage of Kelly Clarkson’s Visit to Store She Slammed for ‘Pretty Woman’ Treatment Revealed
-Wed, 14 Oct 2026 02:38:15 +0000 — https://www.thewrap.com/culture-lifestyle/culture/kelly-clarkson-art-of-play-encounter-security-footage/
-
-Footage of Kelly Clarkson’s visit to Brooklyn novelty shop Art of Play, which she accused of giving her the “Pretty Woman” treatment , has surfaced online. On Tuesday evening, podcaster Pablo Torre posted security camera footage of Clarkson’s visit to Art of Play on Saturday, where she said she was snubbed after inquiring about buying a $15,000 automaton bird named Molly. In the video, Clarkson is spotted wearing a baseball hat, bright yellow t-shirt and baggy jeans while looking around the store with her children. “The Voice” judge can be seen standing in front of the automaton bird in-question, before flagging down an employee. However, their conversation is not documented by the security footage. Later in the footage, Clarkson and the employee part ways, with the latter going on to assist another customer in the store. Clarkson goes on to speak with a different store employee, where she is seen gesturing and appears to be upset. Clarkson’s visit at Art of Play lasted less than five minutes, per the video. Watch the full footage below. This video footage marks the latest in the ongoing feud between Clarkson and the novelty store, whose owner Adam Rubin accused the singer of putting his employees “in danger” over the drama. “We are afraid for the safety of our shopkeepers. Kelly Clarkson has put us in danger,” he told Inside Edition. “Things changed when she used her platform to attack us. It’s just social warfare.” He added: “When Kelly came in, the shop was crowded. She wa
-
-### Chuck Lorre Says His Doubts About Hiring Anna Faris for ‘Mom’ Were Justified
-Wed, 14 Oct 2026 02:12:27 +0000 — https://www.thewrap.com/creative-content/tv-shows/chuck-lorre-says-anna-faris-mom-casting-doubts-were-correct/
-
-Chuck Lorre said his initial doubts about hiring Anna Faris proved to be correct after the actress left the show following seven seasons . In his new memoir, titled Sitcom, the famed showrunner addressed Faris time on the CBS comedy, admitting he had an initial reluctance to cast her as the show s lead, recovering alcoholic and single mother Christy Plunkett. “I initially said no. I wasn’t sure Anna would be appropriate for this kind of material,” Lorre wrote in his book, which was released on Tuesday. Then I thought about how badly I’d bungled my working relationship with Charlie Sheen.” Per Lorre, reflecting on his past dynamic with Sheen made him change his mind, noting, “Someone’s personal life is none of my business. The mom in Mom would be, and should be, Anna Faris.” Faris stepped into the leading role opposite Allison Janney, who played her own alcoholic mother Bonnie Plunkett. The pair led the show between 2013 and 2020, when Faris confirmed that she exiting the sitcom. “The past seven years on Mom have been some of the most fulfilling and rewarding of my career. I’m so thankful to Chuck, the writers, and my amazing castmates for creating a truly wonderful work experience,” Faris shared at the time of her departure. “While my journey as Christy has come to an end, allowing me to pursue new opportunities, I’ll be watching next season and rooting for my TV family.” She later revealed on the Happy Sad Confused podcast that the longevity of the project led to her early d
-
-### VisionQuest Release Schedule: When Do New Episodes Come Out?
-Wed, 14 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/visionquest-release-schedule-when-do-new-episodes-come-out/
-
-VisionQuest got a surprise bump-up on Marvel s schedule this week, premiering on Tuesday, Oct. 13, instead of Wednesday, Oct. 14. But does that mean all episodes will be available? The series will round out the trilogy that began with WandaVision in 2021, and continued with Agatha All Along in 2024. The show focuses on Vision (Paul Bettany), as he figures out exactly who and/or what he is after the Westview Hex. He s been laying low for the last few years, but when he learns that his son Tommy (Ruaridh Mollica) is somehow real now, he has to figure out how to find the boy. No spoilers now, we re just here to let you know exactly how the chapters of this last story are being dealt out. Here s what you need to know. When does VisionQuest come out? VisionQuest premieres on Oct. 13 at 6 p.m. PT. How many episodes are there? There will be eight episodes of VisionQuest in total. When do new episodes come out? Marvel has gone a few different routes when it comes to releasing their Disney+ series over the years. In the case of VisionQuest, it s not a binge release, but it s not purely a weekly release either. Here s how the schedule for the season shakes out. Episode 1: No Strings Premieres on Oct. 13 at 6 p.m. PT on Disney+ Episode 2: Theseus Premieres on Oct. 13 at 6 p.m. PT on Disney+ Episode 3: Reboot Premieres on Oct. 20 at 6 p.m. PT on Disney+ Episode 4: Malware Premieres on Oct. 20 at 6 p.m. PT on Disney+ Episode 5: Firewall Premieres on Oct. 27 at 6 p.m. PT on Disney+ Episode
-
-### DWTS Week 5: Julia Stiles Throws It Back to Save the Last Dance With JLo Hip-Hop Jazz Routine
-Wed, 14 Oct 2026 01:59:58 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-week-5-elimination-super-bowl-night/
-
-The following story contains spoilers for Tuesday s episode of Dancing With the Stars. Dancing With the Stars celebrated iconic Super Bowl Halftime Show performances with special guest appearances from NFL stars and guest judge Joe Buck on the show s first-ever Super Bowl night. Joe Buck, host of ABC‘s Monday Night Football, served as the first guest judge of the season. He was also joined by a few NFL stars, who previously appeared on the dance competition series, including Emmitt Smith (Season 3 winner), Donald Driver (Season 14 winner), DeMarcus Ware and Danny Amendola. Tonight s dances included hits from Rihanna, Kendrick Lamar, Usher and more, but one couple did have to go home. In a shocking elimination, Guillermo Rodriguez and Witney Carson received the lowest amount of combined votes and scores. Though the Jimmy Kimmel Live! star consistently earned the lowest scores of the competition, he and his pregnant dance partner had a massive fanbase online. The judges Bruno Tonioli, Derek Hough and Carrie Ann Inaba noted several times during the night that this cast was exceptionally competitive for Season 35. Maura Higgins opened up the show with a powerful tango to Rihanna’s hit “Only Girl (In the World)” with her partner Mark Ballas. In her package ahead of her dance, the “Love Island” alum revealed that she had a neck injury that had persisted for the past few weeks. However her dance, which featured many sharp head movements, went off without a hitch. Tonioli said the re
-
-### Ben Affleck Reacts to His Viral Dunkin’ and Cigarette Memes: ‘I Don’t Like That S—t’
-Wed, 14 Oct 2026 01:19:44 +0000 — https://www.thewrap.com/culture-lifestyle/culture/ben-affleck-reacts-paparazzi-dunkin-memes/
-
-Ben Affleck humorously poked fun at the viral memes he s inspired while spilling piled-high Dunkin takeout or pulling an exasperated drag from a cigarette, admitting that everyone has had those days but lamenting that their virality risks outshining his actual career: I don t like that s t either. While guesting Tuesday on the Emmy-nominated SubwayTakes, host Kareem Rahma grilled the Oscar-winning filmmaker on the many series of paparazzi shots that have shown the actor smugly chain-smoking and navigating sidewalks with arms full of Dunkin . “I don’t like that your pictures sometimes overshadow your work,” Rahma teased on the web series known for making hot takes on the New York subway. “I don’t like that s t either, brother! Affleck exclaimed. Me and you are united in this. I’m feeling really close to you now.” So many great f kin films, and we’re looking at memes, Rahma later enthused. And we’re looking at f kin memes! Affleck echoed. God, where have you been my whole life? It wasn t the only time Rahma, who s previously expressed many times that the actor-director is his dream guest on the series, and Affleck shared affection for one another. The host posited that there s something about Affleck s memeification that provides kinship for other men who see themselves in the exasperated looks, the daily errands, the need for coffee. I actually don’t mind the memes because I think that there’s something to be said for, like, the character of the beleaguered man, Affleck reflec
-
-### When Does VisionQuest Take Place?
-Wed, 14 Oct 2026 01:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/when-does-visionquest-take-place-marvel-timeline/
-
-At this point in the MCU, keeping track of the main timeline can be pretty tough. So, as you re watching VisionQuest, you might be wondering when exactly it takes place (especially considering the show itself was delayed a few years). Well, there is an explicit answer for that. Marvel s newest series picks up with Vision (Paul Bettany) or at least, a version of him. It s all a bit complicated; the synthezoid was technically destroyed/killed by Thanos (Josh Brolin) in Avengers: Infinity War. But, in WandaVision, Wanda Maximoff (Elizabeth Olsen) kind of brought him back with her magic. When she collapsed her hex, that Vision disappeared, but not before giving the new White Vision, reconstructed by S.W.O.R.D. as a weapon, his memories. At the end of WandaVision, that Vision is questioning who he is and what his purpose is, and flies off, never to be heard from again until now. So, when exactly is this all taking place? When does VisionQuest take place on the MCU timeline? In the premiere episodes, we learn that Thomas Shepherd has been struggling with his own identity, after a near-death incident in a pool gave him the memories and superhuman abilities of Tommy Maximoff. If you want the details on that whole situation, you ll find them over in Agatha All Along, now streaming on Disney+. When asked how long Tommy s had these struggles unfortunately, those around him just think he s just having a psychotic break it s revealed that this all started six months ago. But, the reveal t
-
 ## Collider
 
-### 10 Performances That Pretty Much Screamed “Give Me an Oscar!”
-Wed, 14 Oct 2026 09:39:11 GMT — https://collider.com/movie-performances-screamed-give-me-an-oscar/
+### Marvel Officially Brings an Unexpected Legend Back for a New Avengers Adventure
+Wed, 14 Oct 2026 15:20:12 GMT — https://collider.com/avengers-meals-to-astonish-jose-andres-next-iron-man-marvel-comics/
 
-Ever since the very first Academy Awards were held back in 1929, the Academy of Motion Picture Arts and Sciences has been recognizing what they deem to be the best performances of each respective year in four categories: Best Actor, Actress, Supporting Actor, and Supporting Actress. What started as a relatively small, private industry party, however, soon grew into the most prestigious and coveted awards ceremony in the entire film industry.
+Marvel Comics is no stranger to some odd crossovers. From The Punisher hunting down Archie Andrews to the X-Men joining forces with Captain Kirk and the crew of the USS Enterprise and Deadpool getting an assist from My Hero Academia 's All Might, the heroes and villains of the House of Ideas have come face-to-face with all manner of iconic characters from throughout pop culture. Recent comics have even seen them meet Godzilla , the Xenomorphs of Alien , and, in one of the funniest contrasts, The Muppets . Now, their next team-up will reunite the Marvel world with a renowned chef and humanitarian to highlight a good cause.
 
-### 8 Detective Shows With No Bad Seasons, Ranked
-Wed, 14 Oct 2026 09:32:12 GMT — https://collider.com/detective-shows-no-bad-seasons-ranked/
+### A New James Bond Has Officially Been Unveiled
+Wed, 14 Oct 2026 15:00:12 GMT — https://collider.com/young-bond-isaac-rouse-eton-college-silverfin-first-look/
 
-Detective shows are perhaps the most timeless of all television’s innovations. Since the early years of serialized television, fans have spent endless hours watching heroic detectives solve complex mysteries, deliver justice, uncover dangerous conspiracies, and defend the good from the evil. Many of these crime mystery shows have run for multiple seasons, becoming some of the longest-running crime shows on TV, which naturally leads to some seasons or episodes that dip in quality. But there are still many that have excelled in every season, bringing fresh stories, consistently stellar performances, and highly rated production values year after year.
+James Bond has spent more than 60 years traveling the world, saving it from increasingly ridiculous villains and making an awful lot of enemies along the way. But before the Aston Martins, expensive suits and shaken martinis, Britain's most famous secret agent was just another schoolboy trying to survive his education. Denis Villeneuve is now taking on the world's most debonair assassin, and it looks like we know where the next iteration of Bond is starting out.
 
-### Disney’s Huge Marvel and ‘Star Wars’ Game Just Took a Very Different Direction
-Wed, 14 Oct 2026 09:30:11 GMT — https://collider.com/epic-games-disney-marvel-star-wars-game-ai-development/
+### The ‘Yellowjackets’ Officially Come Home in First Season 4 Trailer
+Wed, 14 Oct 2026 15:00:06 GMT — https://collider.com/yellowjackets-season-4-final-season-trailer-release-date/
 
-Disney’s relationship with Fortnite has already put some of its biggest characters into the game's bonkers playground. Marvel heroes and Star Wars villains can share a match without anyone needing to explain how their universes collided . Those collaborations helped establish Epic Games as a place where Disney could reach players beyond traditional adaptations of its movies.
+Surviving the wilderness has always been only half the nightmare on Yellowjackets . The adult timeline makes that clear whenever the women try to keep their past from destroying the lives they’ve built . Whatever happened between the crash and their rescue followed them home, and keeping it buried has come with its own body count.
 
-### The 10 Best Animated Movies of the Last 5 Years, Ranked
-Wed, 14 Oct 2026 09:24:12 GMT — https://collider.com/animated-movies-last-5-years-best-ranked/
+### Keegan-Michael Key Officially Heads to IMAX With New Space-Time Adventure [Exclusive]
+Wed, 14 Oct 2026 14:00:11 GMT — https://collider.com/keegan-michael-key-einsteins-incredible-universe-release-date-2027/
 
-Ever since the 1990s, there has been a surge in high-quality animated films. Thanks to things like the Disney Renaissance and the emergence of CGI companies like Pixar and DreamWorks, animated films became more commonplace, especially as more companies, such as Sony and Warner Bros., began creating in-house animation studios. Most films are produced with computers, but occasionally, a hand-drawn or stop-motion movie pops up to showcase how animation can bring fantastic worlds to life.
+Keegan-Michael Key is one of the all-time great names in comedy, and though the golden years of Key & Peele (co-starring iconic horror director Jordan Peele ) are behind him, he’s still finding new and exciting projects as a prominent Hollywood figure. Earlier this year, Key reprised his role as Toad in The Super Mario Galaxy Movie , which was the first feature film of 2026 to reach $1 billion at the global box office. Key even confirmed around the same time that the film was released that Universal is working on a third Mario movie, but he cautioned fans to not expect the movie to be released anytime before 2029 . Just because Key is a comedy genius, though, doesn’t mean he isn’t still looking to star in ambitious new projects that push the boundaries of what fans expect from him.
 
-### Every Van Halen Instrumental, Ranked
-Wed, 14 Oct 2026 09:10:11 GMT — https://collider.com/every-van-halen-instrumental-ranked/
+### Every Christopher Nolan Movie of the 2020s, Ranked
+Wed, 14 Oct 2026 12:21:11 GMT — https://collider.com/christopher-nolan-movies-2020s-ranked/
 
-Van Halen erupted out of Pasadena, California, in the late 70s with a loud, attitude-driven brand of rock and roll. The quartet revolutionized music with iconic songs featuring Eddie Van Halen 's groundbreaking guitar work, a high-powered rhythm section and charismatic frontmen. Their best known songs include "Runnin' with the Devil," "Ain't Talking 'bout Love," "Dance the Night Away," "Jump," "Panama," "Why Can't This Be Love," "Hot For Teacher," and "Finish What Ya Started."
+Christopher Nolan is the single most significant filmmaker of the 21st century , and it is not even remotely close. There isn’t another director who has his level of consistency at both the box office and with critics, as all twelve of Nolan’s films thus far have been critically-acclaimed and performed well against the expectations set out for them. Nolan exists in an exciting space where he is both incredibly popular among commercially viable mainstream audiences and respected by both pundits and members of the industry, as his work has been heavily celebrated by his director peers. Although many would compare where Nolan is now to where Steven Spielberg was in the ‘80s, Nolan has yet to release a film like 1941 or Always that put a dent in his track record. A more apt comparison might be to David Lean or Stanley Kubrick , but even then, Nolan is still relatively young and will be making films for the foreseeable future.
 
-### Taylor Sheridan’s $30 Million Thriller Officially Surges Following Sequel Announcement
-Wed, 14 Oct 2026 09:00:12 GMT — https://collider.com/taylor-sheridan-sicario-streaming-success-hbo-max-october-2026/
+### Ben Affleck Officially Reveals Why He Turned Down Star Wars
+Wed, 14 Oct 2026 12:00:11 GMT — https://collider.com/ben-affleck-star-wars-force-awakens-director-turned-down/
 
-Best known for writing all five seasons of Kevin Costner ’s Yellowstone , Taylor Sheridan is nothing short of a TV guru thanks to his work at Paramount over the last few years. This summer, it was Lioness (starring Zoe Saldaña ) that had everyone talking, but despite record viewership in the show’s Season 3 return, it has still not yet been renewed for Season 4. Another popular Sheridan-written and produced show to emerge in the last few years is Landman , the oil-drilling drama starring Billy Bob Thornton and Ali Larter . It was once thought that the show would return for Season 3 later this year, but it’s now been delayed to sometime in 2027 after production only just started a few weeks ago. Sheridan does have new things in the works coming soon to be excited about, though.
+Taking over Star Wars was never going to be an ordinary directing assignment. The first movie after George Lucas ’ original six movies had to bring longtime fans back while introducing characters who could carry another trilogy. Whoever accepted the job would also inherit decades of expectations about what a Star Wars movie should look and feel like .
 
-### 'Slow Horses' Star Reacts to Episode 5's Most Harrowing Moment: "You're in a Horror Film"
-Wed, 14 Oct 2026 07:00:11 GMT — https://collider.com/slow-horses-season-6-episode-5-jim-death-kyle-soller/
+### The 10 Most Suspenseful Noir Movies of All Time
+Wed, 14 Oct 2026 11:51:11 GMT — https://collider.com/most-suspenseful-noir-movies-all-time/
 
-Editor's note: The below interview contains spoilers for Slow Horses Season 6 Episode 5.
+The impact that film noir had on thriller cinema throughout its heyday in the 1940s is as profound as it is timeless. The genre normalized morally challenging stories that steered away from traditional heroes and villains in favor of more ambiguous figures, explored complex themes of fatalism and human depravity, and revolutionized the aesthetic of cinema with its high-contrast chiaroscuro lighting that found tension and turmoil in every shadow.
 
-### 7 Near-Perfect Netflix Miniseries That Hooked Us in the First 5 Minutes
-Wed, 14 Oct 2026 04:27:12 GMT — https://collider.com/netflix-miniseries-instantly-hooked/
+### 'Avatar: Seven Havens’ Is Officially Siding With the Worst Fans, but There’s a Catch
+Wed, 14 Oct 2026 11:49:11 GMT — https://collider.com/avatar-seven-havens-korra-cataclysm-disaster/
 
-One of the best things about miniseries is that, because of their short runtime, they have to make every minute count. A miniseries that isn’t engaging in the first few moments is unlikely to achieve much success. But the ones that can catch the audience’s attention right from the opening often climb to the greatest heights. In recent years, Netflix has become the home of some of the greatest miniseries of this century, proudly housing several such shows that do a fantastic job of engaging the audience within the very first minutes.
+Editor's Note: The following contains spoilers for Avatar: Seven Havens' Episodes 1-3. We are finally back to the world of Avatar , but this time, everything is different . In Avatar: Seven Havens , humanity is completely changed and benders are seemingly on the brink of extinction thanks to a world-ending Cataclysm that was supposedly caused by the Avatar 225 years prior — Avatar Korra ( Janet Varney ). In its first three episodes , Seven Havens shows how people despise Korra and have come to fear the Avatar because of her , an idea that feels all too familiar for anyone who knows the Avatar fandom on the internet. While it might seem that the new Paramount+ series is siding with fans who see her just like everyone in Ellora does, there is much more to talk about concerning Korra's true role in the Cataclysm, and why her presence is still felt after so long.
 
-### Forget 'The Odyssey,' Matt Damon's 10/10 Crime Thriller Is Perfect From Start to Finish
-Wed, 14 Oct 2026 04:04:11 GMT — https://collider.com/matt-damon-crime-thriller-the-departed-streaming-hbo-max-october-2026/
+### Guy Ritchie Is Officially Coming for Taylor Sheridan's Streaming Crown in 1 Major Way
+Wed, 14 Oct 2026 11:49:11 GMT — https://collider.com/mobland-guy-ritchie-taylor-sheridan-female-characters/
 
-One of the biggest worldwide hits of the year was The Odyssey , starring Matt Damon as Odysseus, a hero on his long voyage back from war in Christopher Nolan’s epic adaptation. For many movie fans, it has re-opened the conversation around the star’s career, which is far more varied than one might expect. Those looking for the best of the actor’s work, however, should look no further than 2006’s The Departed . Directed by Martin Scorsese and co-starring Leonardo DiCaprio , it’s a labyrinthine American tragedy that contains many jaw-dropping moments, as well as a different side to the actor we all think we know.
+When it comes to how women are portrayed on television, we've come a long way. Although there are still some stereotypes floating around, women are typically depicted as so much more than just a housewife or mother . Now that we've moved way past the I Love Lucy and The Brady Bunch era, women are holding their own as multi-faceted, complex characters . Unfortunately, there are still some writers who craft women who feel more like clichés — looking at you, Taylor Sheridan — but Guy Ritchie is currently avoiding that pitfall in his own shows.
 
-### Kevin Costner's Performance in This Paramount+ Crime Thriller Is So Good, It Demands a Rewatch
-Wed, 14 Oct 2026 03:51:11 GMT — https://collider.com/kevin-costner-mollys-game-crime-thriller-streaming-paramount-plus-october-2026/
+### The 6 Most Intelligent Classic Movies, Ranked
+Wed, 14 Oct 2026 11:36:11 GMT — https://collider.com/most-intelligent-classic-movies-ranked/
 
-Kevin Costner is a distinguished leading man, but you'd be hard-pressed to find someone who considers him a chameleon when it comes to inhabiting a role (though, if you want to start randomly asking strangers their opinion on Costner's acting, we won't stop you). Costner is an actor where the roles he takes — especially in his '90s heyday — usually work around him, rather than the other way around, and it leads to him carrying the material, rather than elevating it. Having said that, there is one exception, a film where he delivered the most impact with the least amount of screen time: Molly's Game .
+Intelligence in cinema isn’t just about clever plots, mysterious characters, or twist endings. It shows up in sharp, layered dialogue, in screenplays that trust the audience to keep up, in themes that grow richer with each viewing, and in filmmakers who are willing to ask hard questions without handing over easy answers. Classics such as Orson Welles ' masterpiece Citizen Kane and Alfred Hitchcock 's Vertigo don’t over-explain, and they don’t rush to tell the audience what to feel. Instead, they invite them to lean in, notice the details, and draw their own conclusions, making them some of the most thought-provoking films in cinema history.
 

@@ -1,6 +1,36 @@
-# Manga — harvested 2026-10-14T09:43:26.854Z
+# Manga — harvested 2026-10-14T15:28:41.896Z
 
 ## Anime News Network
+
+### Nintendo Classics Service Adds Monster Rancher, Metal Slug, Kururin Paradise GBA Games
+Wed, 14 Oct 2026 11:03:35 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/nintendo-classics-service-adds-monster-rancher-metal-slug-kururin-paradise-gba-games/.242813
+
+<cite>Kururin Paradise</cite> was never previously released in West
+
+### Red River ‒ Episode 15
+Wed, 14 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/red-river/episode-15/.242812
+
+The False Ishtar plotline isn't a favorite of mine – it's much less cunning than Nakia's usual plans.
+
+### The Legend of Zelda: Ocarina of Time Switch 2 Remake Game's Overview Trailer Reveals Hall of Fallen Foes
+Wed, 14 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/the-legend-of-zelda-ocarina-of-time-switch-2-remake-game-overview-trailer-reveals-hall-of-fallen-/.242811
+
+Game launches on November 5
+
+### Interview: The Massive Manga Subgenre You've Probably Never Heard Of
+Wed, 14 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-14/the-massive-manga-subgenre-youve-probably-never-heard-of/.241646
+
+English speakers have a major blind spot when it comes to the sheer scope of a certain manga genre: mahjong.
+
+### Heavily Armed High School Girls Project Gets Smartphone RPG
+Wed, 14 Oct 2026 07:47:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/heavily-armed-high-school-girls-project-gets-smartphone-rpg/.242807
+
+NextNinja develops <cite>JJK: Jū Heisōgata Joshi Kōsei Wordless Record</cite> game for iOS, Android
+
+### CloverWorks' Anime Film Grotesqqque to Feature Mika Ichinose Song
+Wed, 14 Oct 2026 05:55:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/cloverworks-anime-film-grotesqqque-to-feature-mika-ichinose-song/.242806
+
+Omnibus film streams music video for "TERASE" song, used in "A(E)liens" story
 
 ### Kou Sawada's Risque Comedy Manga Yumeneconnect Gets TV Anime
 Wed, 14 Oct 2026 00:39:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/kou-sawada-risque-comedy-manga-yumeneconnect-gets-tv-anime/.242798
@@ -32,41 +62,21 @@ Tue, 13 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>Tsūkaku Tantei Tsūtenji Natsume</cite> ended on Friday, <cite>Isekai Yurutto Survival Seikatsu</cite> to end on November 9
 
-### Black Summoner Manga Ends With 200th Chapter
-Tue, 13 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/black-summoner-manga-ends-with-200th-chapter/.242783
-
-Gin Ammo's adaptation of writer Doufu Mayoi, illustrator Kurogin's light novels launched in 2018
-
-### Hirayasumi Anime Promises a Cute Slice of Ordinary Life
-Tue, 13 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-13/hirayasumi-anime-promises-a-cute-slice-of-ordinary-life/.242705
-
-Keigo Shinzō's award-winning manga's soft line work and rounded designs, along with the watercolor backgrounds of its cover art, translate perfectly to animation.
-
-### Glacier Bay License Oedo-chan of Moguraya, A Vase of Life, Faraway Blue, More Manga
-Tue, 13 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/glacier-bay-license-oedo-chan-of-moguraya-a-vase-of-life-faraway-blue-more-manga/.242787
-
-Also: <cite>All I Can Do</cite>, <cite>The Dovecote Express</cite>
-
-### The Importance and Influence of Global Manga is Not Slowing Down!
-Tue, 13 Oct 2026 14:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/the-importance-and-influence-of-global-manga-is-not-slowing-down/.242744
-
-Yuta Momiyama of Manga Plus, Nobuhiko Muranaka of Manga Up, and Yuta Hiraoka of K Manga answered questions about the growing global interest in Japanese manga.
-
-### Hands-on With Yu-Gi-Oh! Tag Force GX Special
-Tue, 13 Oct 2026 13:15:00 -0400 — https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-new-york-comic-con/hands-on-with-yu-gi-oh-tag-force-gx-special/.242741
-
-This revamped release of <i>Yu-Gi-Oh! Tag Force GX</i> comes with added scenes, updated animation, and English voice acting.
-
-### Manga Creator Masako Watanabe Dies at 97
-Tue, 13 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-13/manga-creator-masako-watanabe-dies-at-97/.242789
-
-Watanabe's works include <cite>Glass Castle</cite>, <cite>Hitori Matsuri</cite>, <cite>Himegoto</cite>
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Legend of Zelda: Ocarina of Time Overview Trailer Released, Pre-Orders Open Ahead of November 5 Launch
+Wed, 14 Oct 2026 13:14:14 GMT — https://animecorner.me/the-legend-of-zelda-ocarina-of-time-overview-trailer-released-pre-orders-open-ahead-of-november-5-launch/
+
+Nintendo has released an overview trailer for The Legend of Zelda: Ocarina of Time,&hellip;
+
+### Black Clover Season 2 Episode 3 Preview and Synopsis Revealed
+Wed, 14 Oct 2026 12:52:53 GMT — https://animecorner.me/black-clover-season-2-episode-3-preview-and-synopsis-revealed/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 3 (Episode 173 overall) ahead of its October 17 premiere.
 
 ### Yumene Connect Gets Anime
 Wed, 14 Oct 2026 06:20:13 GMT — https://animecorner.me/yumene-connect-gets-anime/
@@ -82,26 +92,6 @@ One-Punch Man Season 3 Cour 2 anime revealed a new visual and trailer, along wit
 Tue, 13 Oct 2026 05:56:32 GMT — https://animecorner.me/manaka-iwami-announces-marriage-and-birth-of-first-child/
 
 Voice actress Manaka Iwami announced her marriage and she has given birth to her&hellip;
-
-### Kagurabachi Anime World Tour Finale to Premiere Episodes 1 and 2 in Japan, Part 3 Dates Revealed
-Mon, 12 Oct 2026 13:41:00 GMT — https://animecorner.me/kagurabachi-anime-world-tour-finale-to-premiere-episodes-1-and-2-in-japan-part-3-dates-revealed/
-
-KAGURABACHI anime has revealed details for Part 3 of its Anime World Tour and&hellip;
-
-### Noa Is My Senior and My Friend Anime Reveals Key Visual, Main Cast
-Mon, 12 Oct 2026 12:26:34 GMT — https://animecorner.me/noa-is-my-senior-and-my-friend-anime-reveals-key-visual-main-cast/
-
-Noa Is My Senior and My Friend anime revealed a key visual and its&hellip;
-
-### Haikyu!! Gets New Artwork by Haruichi Furudate, Returns for Haruko Collaboration After 7 Years
-Mon, 12 Oct 2026 11:50:21 GMT — https://animecorner.me/haikyu-gets-new-artwork-by-haruichi-furudate-returns-for-haruko-collaboration-after-7-years/
-
-Haikyu!! creator Haruichi Furudate drew a new illustration for the first collaboration with the Haruko tournament for the first time in 7 years.
-
-### Nue's Exorcist TV Anime Announced for Summer 2027, Main Cast and Staff Revealed
-Mon, 12 Oct 2026 11:23:56 GMT — https://animecorner.me/nues-exorcist-tv-anime-announced-for-summer-2027-main-cast-and-staff-revealed/
-
-Kota Kawae's Nue’s Exorcist is officially getting a TV anime adaptation, with the series set to premiere in Summer 2027.
 
 ## MyAnimeList News
 
@@ -134,11 +124,6 @@ The official website for the television anime adaptation of Keigo Shinzou s Hira
 Mon, 12 Oct 2026 23:00:05 -0700 — https://myanimelist.net/news/74817108?_location=rss
 
 Voice actress Manaka Iwami announced her marriage to a man outside of the industry and the birth of her first child on her official radio program on Tuesday. "It s been a while, everyone. This is Manaka Iwami. I d like to take a moment at the beginning of the program to share something important with all of you who have supported me. This is a personal matter, but I have gotten married and given birth to my first child. My partner is not affiliated with the entertainment industry,...
-
-### Manga Nue no Onmyouji Gets TV Anime in Summer 2027
-Mon, 12 Oct 2026 04:54:46 -0700 — https://myanimelist.net/news/74814550?_location=rss
-
-The sixth Jump Press livestream event announced a television anime adaptation of Kouta Kawae s Nue no Onmyouji (Nue s Exorcist) manga on Monday, revealing the main cast, staff, a teaser visual (pictured), and an announcement promotional video. The anime is scheduled to premiere on TV Asahi in Summer 2027. Cast Nue: Saori Oonishi (Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka) Gakurou Yajima: Kaito Miura (Tougen Anki) Kazusa Suou: Sayumi Suzushiro (Megami no Caf&eacute; Terr...
 
 ## Otaku USA
 
