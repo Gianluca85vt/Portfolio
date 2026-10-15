@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-14T20:19:42.513Z
+# AI — harvested 2026-10-15T09:25:32.701Z
 
 ## OpenAI
 
@@ -16,6 +16,11 @@ With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creat
 Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/third-moment-research
 
 With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
+
+### How Block is building AI-powered security with OpenAI technology
+Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/block-ai-powered-security
+
+Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
 
 ### The EU’s next chapter in AI is agentic
 Wed, 14 Oct 2026 00:00:00 GMT — https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic

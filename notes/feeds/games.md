@@ -1,11 +1,26 @@
-# Games — harvested 2026-10-14T20:19:42.513Z
+# Games — harvested 2026-10-15T09:25:32.701Z
 
 ## Eurogamer
+
+### 007 First Light gets Switch 2 release date, with IO Interactive saying time for "optimisation and performance" was needed
+Thu, 15 Oct 2026 09:17:26 +0000 — https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game
+
+The Switch 2 version of 007 First Light will be released 18th March, 2027, IO Interactive has announced. The game had originally been expected this summer but IOI announced a delay to an unspecific date in March roughly a month ago. Read more
+
+### Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott
+Thu, 15 Oct 2026 08:48:27 +0000 — https://www.eurogamer.net/big-walk-xbox-version-bds-boycott
+
+Big Walk developer House House has explained the lack of an Xbox version for the popular co-operative puzzle game, pointing to the ongoing BDS boycott as the core reason behind its decision. Read more
+
+### Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week
+Thu, 15 Oct 2026 08:30:51 +0000 — https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo
+
+Capcom is letting players 'try before they buy' Monster Hunter Wilds ' on Switch 2 , bringing the fairly generous 'Prologue demo' to the console before the game's full release on the platform on 4th December. Read more
 
 ### Zero Escape and The Hundred Line co-creator's new studio "might literally crash into a million pieces" after the cancellation of its next game
 Wed, 14 Oct 2026 19:14:52 +0000 — https://www.eurogamer.net/zero-escape-hundred-line-new-studio-crash-game-cancellation
 
-A new game from Kotaro Uchikoshi (of Zero Escape and The Hundred Line: Last Defense Academy fame) has been cancelled, leaving his studio's fate in doubt. Read more
+UPDATE 21:37pm UK: In a follow-up tweet, Uchikoshi clarified that he's still part of TooKyo Games and he hasn't fallen out with fellow studio co-founder Kazutaka Kodaka. In fact, Kodaka jokes he "may have fallen in love" with the Danganronpa dev. "We're still so close that we even have pajama parties at each other's houses, sipping strawberry milk boba together." Read more
 
 ### Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI "to be faster than the other guy"
 Wed, 14 Oct 2026 18:17:03 +0000 — https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai
@@ -47,22 +62,17 @@ Wed, 14 Oct 2026 13:00:00 +0000 — https://www.eurogamer.net/legend-zelda-ocari
 
 It looks like the owl known Kaepora Gaebora - part-tutorial, part-tip giver - will be far less talkative in the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time . Read more
 
-### Rockstar co-founder Dan Houser blames himself for Max Payne 3 - "a large amount of that failure was on me"
-Wed, 14 Oct 2026 12:52:32 +0000 — https://www.eurogamer.net/max-payne-3-rockstar-dan-houser-failure-blame
-
-Max Payne 3 is a bit of a strange project. Unlike its two predecessors, the game wasn't developed by original creator Remedy Entertainment, rather it was the product of Grand Theft Auto and Red Dead Redemption studio Rockstar Games . Read more
-
-### Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release
-Wed, 14 Oct 2026 12:40:59 +0000 — https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november
-
-The ongoing employment tribunal between Grand Theft Auto 6 developer Rockstar Games and IWBG union members laid off from the studio has been extended into November.. Read more
-
-### Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore
-Wed, 14 Oct 2026 12:30:49 +0000 — https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag
-
-The video game layoffs continue. Ubisoft has announced it's closing Finnish studio RedLynx, creator of the Trials series of games, and that there's to be significant layoffs at Assassin's Creed: Black Flag Resynced studio, Ubisoft Singapore. Read more
-
 ## GamesIndustry.biz
+
+### Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan"
+Thu, 15 Oct 2026 08:09:37 +0000 — https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan
+
+Ubisoft intends to reduce its German workforce by approximately 100 employees across its D&uuml;sseldorf, Berlin, and Mainz studios. Read more
+
+### Google Play adds Game Finder, Sprints, and Sidekick Playbacks in discovery push
+Wed, 14 Oct 2026 21:02:24 +0000 — https://www.gamesindustry.biz/google-play-adds-game-finder-sprints-and-sidekick-playbacks-in-discovery-push
+
+Google Play is adding a batch of new discovery and social features for games, including a personalized Game Finder, timed competitive Sprints, and clip-sharing via its Sidekick overlay. Read more
 
 ### Duke Nukem 3D level designer Richard "Levelord" Gray dies aged 68
 Wed, 14 Oct 2026 19:45:48 +0000 — https://www.gamesindustry.biz/duke-nukem-3d-level-designer-richard-levelord-gray-dies-aged-68
@@ -114,21 +124,26 @@ Wed, 14 Oct 2026 07:44:27 +0000 — https://www.gamesindustry.biz/xbox-ceo-repor
 
 Xbox boss Asha Sharma has reportedly warned that the organisation will "not survive" if it relies on existing game franchises. Read more
 
-### Xbox announces Xbox Labs, a new initiative to trial emerging ideas and "new technology"
-Tue, 13 Oct 2026 19:00:00 +0000 — https://www.gamesindustry.biz/xbox-announces-xbox-labs-a-new-initiative-to-trial-emerging-ideas-and-new-technology
-
-Xbox CEO Asha Sharma has announced the creation of Xbox Labs , a new team within the organisation to "turn emerging ideas into things our players and developers can experience." The unit is a "a small group of game makers, engineers and scientists," drawn from within the business, charged with rapid development, iteration and testing of tools, products and features that will be judged by the reaction of end users. "We'll build in the open, learn from what people do, and measure success by whether more people are playing and creating," said Sharma in the blog post. Read more
-
-### "Years of building, pitching and raising for games made the same failure painful to watch" – Why GameDataCore wants to find out how players feel
-Tue, 13 Oct 2026 12:30:00 +0000 — https://www.gamesindustry.biz/years-of-building-pitching-and-raising-for-games-made-the-same-failure-painful-to-watch-why-gamedatacore-wants-to-find-out-how-players-feel
-
-If you can't understand something, you can't fix it. That's the motivation behind a new platform that aims to cut through the noise of Steam reviews and find out what players really feel about a game, what the developers need to address, and even what game they should think about making next. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed
+Wed, 14 Oct 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed
+
+Is it resonating with critics? The heavy release schedule continues in earnest, and while we’re approaching the endgame for this year with GTA 6 next month, there’s plenty of enthusiasm for Square Enix’s upcoming HD-2D effort, Final Fantasy Resonance . Now, ahead of its release on 22nd October next week, Famitsu has published the throwback RPG’s first review – and it’s a good one. Read the full article on pushsquare.com
+
+### Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint
+Wed, 14 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition
+
+The rootinest tootinest remaster in these here parts. The Toy Story 3 movie tie-in was a beloved, highly regarded title when it originally launched back in 2010. In an era of lazy movie cash grabs – or crummy mobile games in today’s world – Toy Story 3 dared to be something that its peers wouldn’t: good . And Toy Story 3 Complete Edition’s slick new upgrade reinforces this. Read the full article on pushsquare.com
+
+### PS1 Classics on PS5 Keep on Coming in Dino Crisis 2, Out Next Week
+Wed, 14 Oct 2026 21:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps1-classics-on-ps5-keep-on-coming-in-dino-crisis-2-out-next-week
+
+But don't expect Trophies. Capcom classic Dino Crisis 2 will be made available on PS5 and PS4 via the PS Store from next Tuesday, 20th October 2026. The game will be part of PS Plus Premium straight away, but it'll also be purchasable outside of the subscription, most likely for £7.99 / $9.99. This will be a port of the PS1 version, but it'll ship with the bells and whistles of Sony's classic conversion process, such as rewind features, video filters, and quick save options. However, you shouldn't expect Trophy support: Capcom's own classic titles that have been ported to PS5 and PS4 unfortunately haven't come with any Trophy lists. Read the full article on pushsquare.com
 
 ### Xbox Polling Players on Whether Fallout, Elder Scrolls, or Even Minecraft Should Go Exclusive
 Wed, 14 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/xbox-polling-players-on-whether-fallout-elder-scrolls-or-even-minecraft-should-go-exclusive
@@ -175,22 +190,17 @@ Wed, 14 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/tales-o
 
 Third time's the charm. Growing up, Tales was one of my favorite Japanese RPG series, one that I wished got as much attention as Final Fantasy and Persona . With the success of the latest entry, 2021’s Tales of Arise , Bandai Namco has sought to port some of the older games to modern platforms. Many of them have aged well, including Graces f, Xillia , and Berseria . Read the full article on pushsquare.com
 
-### Trials Studio RedLynx Looks Set to Close as Ubisoft Continues Major Restructure
-Wed, 14 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure
-
-Trials and tribulations. Publisher Ubisoft intends to shut down RedLynx, the Finnish development studio behind the beloved Trials series. As reported by GamesIndustry.biz , Ubisoft released a statement in which it confirms its plans. Read the full article on pushsquare.com
-
-### Epic s Pivot to AI-Driven Game Development Is Somehow Much Worse Than You May Realise
-Wed, 14 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/epics-pivot-to-ai-driven-game-development-is-somehow-much-worse-than-you-may-realise
-
-Unreal Engine will push AI. Epic boss Tim Sweeney caused a serious stir earlier this week when he publicly declared that the Fortnite developer is transitioning towards "AI first" production , using AI-driven tech to (supposedly) streamline all facets of game development. As you can imagine, Sweeney's incredibly pro-AI stance has attracted a lot of criticism, as conversations around the integrity of elements like generative AI, and the overall usefulness of AI workflows to continue to rage on. Read the full article on pushsquare.com
-
-### PlayStation Celebrates 30 Years of Gran Turismo with a Stunning PS5 Controller
-Wed, 14 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/playstation-celebrates-30-years-of-gran-turismo-with-a-stunning-ps5-controller
-
-Out on 10th December for £75 / $85. As the legendary Gran Turismo series nears its 30th anniversary, PlayStation has announced it is celebrating the driving franchise with a new PS5 limited-edition controller themed after the IP. Priced at £74.99 / $84.99 / €84.99 and releasing in "limited quantities" on 10th December 2026, it uses the white colour of the standard PS5 pad, but decorates it with visuals and icons on the handles and touchpad. The plastic around the thumbsticks is also made to look like carbon fibre, and there are racing stripes in the middle of the touchpad. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore
+Wed, 14 Oct 2026 22:08:51 GMT — https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore
+
+The decisions will ultimately impact over 120 jobs between the two studios as part of Ubisoft's ongoing restructuring efforts.
+
+### No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development
+Wed, 14 Oct 2026 20:24:47 GMT — https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development
+
+Developers working on the upcoming Star Wars and Marvel shooter have been reportedly instructed to lean heavily on AI, especially during the creation of code and art.
 
 ### Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'
 Tue, 13 Oct 2026 13:15:00 GMT — https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-
@@ -203,13 +213,12 @@ no date — https://www.gamedeveloper.comwww.gameconferencemx.com
 ### gamescom
 no date — https://www.gamedeveloper.com/keyword/-event-gamescom
 
-### SLICE
-no date — https://www.gamedeveloper.comseattleslice.org
-
-### Unreal Fest
-no date — https://www.gamedeveloper.comwww.unrealengine.com/unreal-fest
-
 ## VGC
+
+### Xbox reveals the Nano Controller, a smaller and cheaper alternative with a rechargeable battery
+Thu, 15 Oct 2026 08:47:47 +0000 — https://www.videogameschronicle.com/news/xbox-reveals-the-nano-controller-a-smaller-and-cheaper-alternative-with-a-rechargeable-battery/
+
+The $50 controller will be available from November… Source
 
 ### October s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise
 Wed, 14 Oct 2026 15:50:40 +0000 — https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/
@@ -256,64 +265,89 @@ Wed, 14 Oct 2026 08:49:58 +0000 — https://www.videogameschronicle.com/news/thr
 
 All three, including Monster Rancher Advance and Kururin Paradise… Source
 
-### Asha Sharma forms Xbox Labs in response to explosion of AI-powered mods and ports
-Tue, 13 Oct 2026 19:53:17 +0000 — https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/
-
-Xbox CEO says AI mod explosion has changed assumptions around what's possible… Source
-
 ## Polygon
 
-### GTA 6 Leaks, Epic's AI Woes, No Man's Sky Mobile and the Best AAA of the Year...
-Wed, 14 Oct 2026 20:01:39 GMT — https://www.polygon.com/video/gta-6-leaks-epic-s-ai-woes-no-man-s-sky-mobile-and-the-best-aaa-of-the-year/
+### Pokémon Celebrates the Holidays Early with a Festive Merch Collection
+Thu, 15 Oct 2026 09:05:38 GMT — https://www.polygon.com/pokemon-seasonal-merch-holiday-2026/
 
-This week on Point It Out! We discuss the unfolding news around the GTA 6 Cyberleek leaks, a gaming favorite going to mobile and the sneaky favorite for AAA game of the year.
+It's still technically spooky season, but as soon as Nov. 1 rolls around, it's time to start thinking about the holidays. Pokémon is way ahead of you and has already released its new holiday collection. Pokémon's 2026 holiday collection features 68 new items ranging from gift-wrapping material to cozy apparel and decorations.
 
-### Xbox Officially Announces New Xbox Nano Controller
-Wed, 14 Oct 2026 18:14:03 GMT — https://www.polygon.com/xbox-nano-controller-portable-price-reveal/
+### 26 Years Later, Charlie Brown's Final Quote Is Still a Heartbreaking Comic Strip Classic
+Thu, 15 Oct 2026 09:00:17 GMT — https://www.polygon.com/charlie-brown-last-strip-peanuts/
 
-While console hardware prices keep going up , Xbox is offering a cheaper hardware alternative with the new Xbox Nano controller.
+Charles Schulz's retirement took the world a little by surprise. Following a period of failing health, Schulz announced on Dec. 14, 1999 that he would end Peanuts . He could no longer see clearly, he'd been diagnosed with colon cancer, and he needed to focus on his health. As a result, Peanuts came to a relatively sudden stop nine weeks later, after newspapers had worked through Schulz's existing backlog.
 
-### Soulslikes Don't Work in First-Person — Yet
-Wed, 14 Oct 2026 18:00:16 GMT — https://www.polygon.com/valor-mortis-soulslike-first-person-pov/
+### Don't ask Greg Davies about his favorite Taskmaster tasks
+Thu, 15 Oct 2026 08:39:25 GMT — https://www.polygon.com/video/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks/
 
-Now that I’ve spent some time fighting the plagued soldiers of Napoleon’s army in Valor Mortis , I’m not sold on its first-person Soulslike bona fides. The difficulty is there, as is the annoying “lose your XP on death” mechanic. But it doesn’t quite translate that distinct combat experience to first-person, and instead shows the limitations of such an endeavor.
+There's a reason you'll only get one answer.
 
-### ‘Obsession’ Could Get a Sequel, and Its Breakout Star Is All In
-Wed, 14 Oct 2026 17:27:09 GMT — https://www.polygon.com/obsession-2-sequel-inde-navarrette-comments/
+### Goodbye 'Carrie,' Stephen King's Most Faithful Movie Adaptation Is Officially Back on Streaming
+Thu, 15 Oct 2026 08:00:20 GMT — https://www.polygon.com/stephen-king-doctor-sleep-paramount/
 
-Inde Navarrette is lining up some major roles following her breakout performance in Obsession , including a turn as Rogue in Marvel’s upcoming X-Men reboot and a starring role in Apple’s sci-fi thriller The Waffle House Index . But the actress isn’t ready to leave her horror hit behind just yet.
+Stephen King has never been shy about how much he hated director Stanley Kubrick’s adaptation of his 1977 novel, The Shining . Although it's easily one of the best horror films of all time, Kubrick’s vision of Jack Torrance and the Overlook Hotel really rubbed King the wrong way.
 
-### Magic: The Gathering Is Officially Reprinting a Powerful $18 Card for the First Time in 20 Years
-Wed, 14 Oct 2026 17:00:15 GMT — https://www.polygon.com/magic-the-gathering-soul-spike-secret-lair-reprint-reality-fracture/
+### How to defeat Medusa in Castlevania Belmont's Curse
+Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location/
 
-After two decades of waiting, Magic: The Gathering players are finally getting another chance to pick up Soul Spike . The powerful black instant, first printed in 2006's Coldsnap , has become a surprisingly valuable card thanks to its competitive applications and a remarkable lack of reprints. Now, Wizards of the Coast is bringing the roughly $18 card back as part of a brand-new Secret Lair drop inspired by Reality Fracture .
+Medusa , also known as the Prophetess , is one of the first three bosses in Castlevania: Belmont's Curse that you face. You must defeat her to obtain the keys to open the gate to the catacombs. The game won't tell you where you can find these enemies, forcing you to explore every room in the initial maps for hints that will lead you to the boss rooms.
 
-### 'Yellowjackets' Season 4 Gets Grisly First Trailer
-Wed, 14 Oct 2026 16:56:42 GMT — https://www.polygon.com/yellowjackets-season-4-trailer/
+### How to kill enemies with a whip attack in Castlevania Belmont's Curse
+Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy/
 
-One of television’s most unsettling recent shows is approaching its end. Paramount just released the first real teaser trailer for Yellowjackets season 4, and it is quite a doozy, featuring justified freakouts and gruesome flashbacks. We see what remains of the Wiskayok High School girls’ soccer team as they respond to being rescued in a way you might not expect.
+You must kill enemies with a whip attack in Castlevania: Belmont's Curse if you want to upgrade the Fallen arcana . Arcanas are spells that cost mana, and you can upgrade them by spending Blessing points, which are earned from Works of Mercy tasks. Completing these tasks will force you to use each spell in different situations.
 
-### PS Plus October 2026 Lineup Confirmed, Includes Newest Mafia Game
-Wed, 14 Oct 2026 16:22:57 GMT — https://www.polygon.com/ps-plus-game-catalog-october-2026-update/
+### How to get to the top of the Prison Tower in Castlevania Belmont's Curse
+Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane/
 
-On Wednesday, Sony Interactive Entertainment revealed the lineup of games joining the PlayStation Plus Game Catalog in October. The latest Mafia game, Horizon Forbidden West , and more will be available starting Oct. 20.
+At the top of the P rison Tower in Castlevania: Belmont's Curse , you will find the Warrior , one of the initial bosses you must fight to open the gate to the catacombs. To access the floors in the lower part, you must use the adjacent buildings to lower the gates that serve as platforms and swinging spots. However, to pass over the Upper Tower and reach the Roof of the Tower area, where the boss awaits, your acrobatic skills won't help you.
 
-### Epic Brags That Its New 'Vibe Coded' Store Launcher Is Faster Than Steam
-Wed, 14 Oct 2026 16:14:47 GMT — https://www.polygon.com/epic-game-store-launcher-vibe-coded/
+### 8 Best Science Fantasy Books of the 21st Century
+Thu, 15 Oct 2026 04:00:22 GMT — https://www.polygon.com/best-science-fantasy-books-21st-century/
 
-Epic Games, the company behind Fortnite , is leaning into generative AI , and they really want you to know it. In a blog post on Wednesday, the Epic Games Store Team announced that a preview build of its new store launcher is available for download. The post even claims the new launcher is faster than Steam in several areas. There is a big catch, though: by Epic’s own admission, the launcher was "vibe coded."
+The legendary science fiction writer Arthur C. Clarke once said, “Any sufficiently advanced technology is indistinguishable from magic.” The lines between sci-fi and fantasy blur in some of the most popular entertainment franchises like Star Wars , Warhammer 40,000 , and the Marvel Cinematic Universe , along with classic book series like Dune and Dragonriders of Pern. If you’re looking for a new world to explore and can’t decide if you want it filled with spaceships or dragons, you don’t necessarily have to choose. Just pick something from this list of the best science fantasy books of the 21st century.
 
-### 'Clayface' First Reactions Officially Praise "Sensational" New DC Thriller
-Wed, 14 Oct 2026 16:09:04 GMT — https://www.polygon.com/clayface-batman-dc-horror-first-reactions/
+### 'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’
+Thu, 15 Oct 2026 02:02:11 GMT — https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/
 
-Since it was first announced, DC 's Clayface has been a bit of a tough sell. The horror film focused on one of Batman's villains, sans the actual Caped Crusader, brings to mind Sony's deluge of villain-focused Spider-Man movies that are campy at best and absolutely unwatchable at worst . While Clayface won't be released in theaters until Oct. 23, influencers and journalists have started sharing initial reactions that finally make it clear whether it delivers or not.
+Garry Newman, creator of the hugely popular Garry’s Mod , has admitted that his studio’s spiritual successor, S&box , is struggling and announced a series of sweeping changes intended to turn the project around.
 
-### Over the Hill Just Invented the Cozy Driving Game and I'm in Love
-Wed, 14 Oct 2026 16:00:15 GMT — https://www.polygon.com/over-the-hill-review/
+### The 10 Most Underrated RPGs of the Last Decade, Ranked
+Thu, 15 Oct 2026 01:30:15 GMT — https://www.polygon.com/best-rpgs-underrated-last-decade/
 
-Like Jusant , Over the Hill presents a clean, aspirational vision of an outdoorsy pastime, all smoothed and streamlined for maximum relaxing pleasure. Like Jusant , it's a meditative, peaceful game of exploration that's focused on taking it easy, reading the environment carefully, and being in the moment. Like Jusant , it has a beautiful art style, foregoing detail in favor of chunky, tactile modeling washed in pastel colors and rich sunset hues.
+There’s something about the RPG genre. These games tell amazing stories players want to experience time and time again, are populated by memorable characters, and often explore deep themes — even if their heroes do tend to have memory problems, spiky hair, and swords the size of New Jersey.
 
 ## PC Gamer
+
+### 3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'
+Wed, 14 Oct 2026 23:56:26 +0000 — https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/
+
+League of Legends Classic was Riot's attempt to capitalise on nostalgia for vintage-era LoL. It stripped away most of the champions and kits introduced since 2013, reverted to an older version of the Summoner's Rift map, and promised to roll out "new" old Champions at a faster clip than in the olden days. But the nostalgia Riot must have hoped would sustain the mode hasn't proven sufficient enough to keep it running: the mode will go offline in January 2027, only six months after its launch. "We’ve seen a lot of players have fun revisiting the olden days with Classic," a Riot spokesperson wrote in a new update . "At this point though, most have gone back to other parts of League." As a result, the current season will be the last. "We’ll then put Classic back in the box for now, with the goal of bringing it back, likely as an event mode with adjustments and additions." It continues: "There’s more we’re going to share in the future about what we learned from this run. That includes where we think we got Classic right, where we could have gone more classic, and where sticking too closely to the past may have held the experience back." Refunds will be issued for Classic content rendered obsolete by the closure. And it's not the end of the line yet: there are at least seven more Champions still to roll out, including Mordekaiser, Yorick, Hecarim and Lucian in the forthcoming 26.21 update, and Vilibear, Urgot and Udyr in future ones. "This game mode was a true labor of love from so
+
+### State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'
+Wed, 14 Oct 2026 23:22:11 +0000 — https://www.pcgamer.com/software/ai/8-us-states-sue-openai/
+
+The attorney generals for eight US states announced today that they are suing OpenAI. West Virginia, Iowa, Kansas, Nebraska, Arkansas, Arizona, Idaho, and Montana have all filed lawsuits alleging that the ChatGPT maker has deceived and endangered the public, particularly children, in the name of profit. The complaints allege that ChatGPT has "coached" users to harm themselves and others, and—quoting the West Virginia filing specifically—state that "there is a growing body of research indicating that ChatGPT is also degrading critical thinking skills, encouraging paranoias and delusions, offering dangerous medical advice, and promoting unhealthy behaviors and relationships." Recent tales of "rogue" AI agents are also presented by as evidence of recklessness. "All these harms were foreseeable and avoidable," reads the West Virginia complaint [ PDF ]. "[OpenAI CEO Sam Altman] himself has warned about the safety risks of AI since at least 2015. It is no secret that children use ChatGPT. And numerous OpenAI employees have left over safety concerns." OpenAI acknowledged last year that its systems can "fall short" when responding to users in distress, but said that it has "a stack of layered safeguards" in place to help. The company also says on its website that it now uses "age prediction" to place some users in a teen-oriented ChatGPT experience with "additional safeguards," unless they verify that they are adults. Separately from the state lawsuits, a class action lawsuit was fil
+
+### Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'
+Wed, 14 Oct 2026 22:54:53 +0000 — https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/
+
+Despite some big changes happening with Overwatch lately, former game director Jeff Kaplan hasn't touched it since the year he left Blizzard. In fact, he actively avoids the game in every way he can, he told GameSpot in a recent interview. Before Overwatch, Kaplan rose through the ranks on the World of Warcraft team, starting in QA and eventually becoming game director. He described his departure from the WoW team in 2008 as "a training moment" for when he would leave the Overwatch team, and Blizzard altogether, in 2021. "I kind of went through a little bit of shock leaving WoW back in 2008," Kaplan says. "So, when I stepped away from Overwatch in April of 2021, I was kind of used to that moment of what it meant to give all of yourself, your heart, your soul–because it's not just a job, there's no one who can do this and have it just be a job–and then have this shocking moment where you realize it doesn't belong to you. It belongs to the team, belongs to the players, it belongs to Blizzard, but it doesn’t belong to you." Kaplan says he "had a very almost clinical separation" with Overwatch after what he went through with WoW. As a result, he stopped playing it the moment he left and has actively avoided it ever since. "After I said my goodbye to competitive Overwatch and the Overwatch subreddit, I never go back and read," he says. "I don't watch YouTube [videos]. I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect. I actually tell 
+
+### I want to love the new Castlevania, but it just feels a little off
+Wed, 14 Oct 2026 22:31:54 +0000 — https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/
+
+I got off to a bit of an awkward start with Castlevania: Belmont's Curse when it first booted to a black screen. A few minutes of troubleshooting later, I deduced that the game wouldn't display on a monitor with its refresh rate set higher than 120 Hz. Easily solved, but I kept thinking of that quirk when I selected the in-game 120 fps cap and then watched the game jarringly lurch down to a lower framerate every time I hit a cutscene. Maybe these technical quirks were treats for reviewers that have been smoothed over in time for launch. They haven't stopped me from having a lot of fun with the eight or so hours I've played Belmont's Curse—I think I'm closing in on the halfway point, and it keeps getting better as it goes. But it's not quite the slam dunk I expected from the first new Castlevania in decades, with such a talented studio behind it. Belmont's Curse has a bit of a juice problem. You've probably heard (or said) "it's got the juice" so many times in recent years that the expression has more or less just become shorthand for I think this is really good . As originally coined by some very smart game designers , though, it means something a bit more specific: the sort of polish that "feels alive and responds to everything you do—tons of cascading action and response for minimal user input." There are some quintessential ways to add juiciness to an action game: screen shake, hitstop (the brief pause for impact when your attacks land), enemy reactions, flashy particles a
+
+### 'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'
+Wed, 14 Oct 2026 21:54:25 +0000 — https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/
+
+More radical changes beyond just giving the characters necks are coming to Garry's Mod successor s&box . Facepunch Studios' game creation platform's launch in April was met with a swarm of negative reviews, complaints of AI slop filling its user-generated game collection, and swiftly plummeting user numbers. Now creator Garry Newman is reversing course on some of his decisions, such as pivoting to a 'greenlight type system' for user-generated games and announcing that the platform is going free to play much earlier than expected. "Our focus has been on the engine and the development experience. That’s what we love, that’s what turns us on—but we’re not selling an engine, we’re selling a game," Newman wrote this week. "So we need to do much much better on the game, we need to shift our focus to what players are experiencing, not developers." That focus, Newman said, will be on improving the sandbox mode for players by adding more NPCs, vehicles, and customization. "I’ve let everyone down that was expecting that. I accept that, and I’m sorry—we are going to do better," he said. Another issue Newman addressed is making it easier for players to find quality games amidst the, and I quote, "ton of shit games" Facepunch has allowed creators to upload to s&box. "The player is overwhelmed by choice," he said. "They choose a game, it takes a while to download, and it’s immediately shit. How many times will they try games until they find one they like? "My idea of a Netflix for games do
+
+### Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it
+Wed, 14 Oct 2026 21:44:35 +0000 — https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/
+
+Frank Klepacki has composed a lot of great game music over the years—in fact, he's responsible for the soundtrack in Eye of the Beholder 2, one of the best dungeon crawlers of all time . At heart, though, Klepacki is a real-time strategy guy—and he takes real issue with claims that the genre is dead. There's no question that RTS is diminished, at least compared to its glory days. Back in the 1990s, games like Command & Conquer, Warcraft, and Dune 2 ( especially Dune 2, I'd say) dominated the scene. But all that remains of any of them these days is the seemingly unkillable World of Warcraft—and how many players even know that Blizzard's one true behemoth is an RTS spinoff? Speaking in the latest issue of Edge, however, Klepacki said he thinks the genre still has lots of life in it. "There was all of this doom-and-gloom talk about ten years ago, saying, 'Oh, we think RTS is dead now—why are you still trying to work on games that are in a genre that’s going away?’" Klepacki said. "Obviously, if there are games coming out, [the genre is] not going away. It’s just that other types of games have taken the forefront of attention. Everything runs in cycles, you know? That’s how it always is." That's true: RPGs have ebbed and flowed over the decades, and flight sims were huge until they weren't, and then they were again. But Klepacki also pointed the finger at a hollowing-out of the industry and growing aversion to risk, particularly among big-budget developers: "I would love to see m
 
 ### GTA 6 leaker threatens Take-Two with a 'dead man's switch'
 Wed, 14 Oct 2026 18:36:16 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/
@@ -344,36 +378,6 @@ Most may know Chandler Riggs from his role as Carl in The Walking Dead, but now 
 Wed, 14 Oct 2026 16:02:03 +0000 — https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/
 
 Three months after the very successful launch of Assassin's Creed Black Flag Resynced , a game that sold two million copies in a single day ( three million copies in a week!) and surpassed "annual expectations" in just two weeks, Ubisoft has laid off 70 people from developer Ubisoft Singapore. In a statement provided to PC Gamer, the publisher also said it plans to close the Ubisoft Redlynx studio outright. This would be reason number two on our list of 25 foolproof ways to get laid off in the videogame industry: Make a game that sells so well, it blows away all expectations and makes even more money than anyone dared hope. Of course, we've already seen this in play with Black Flag Resynced—Ubisoft Barcelona, a support studio on the game, had nearly a third of its number cut shortly after it launched. The Ubisoft Barcelona layoffs might seem particularly egregious, coming so soon after it produced a much-needed win for a publisher that's spent the past few years taking big Ls , but it's not the only bad news. A year after announcing a " restructuring proposal " for Ubisoft Redlynx aimed at reducing costs and ensuring "a stronger prioritization and efficiency across the company’s worldwide studio network," Ubisoft has now decided to close the studio outright. Founded in 2000 and acquired by Ubisoft in 2011, Redlynx is best known for the Trials motorcycle racing games, the last of which— Trials Rising —came out in 2019. Since then, the studio supported the development of Star W
-
-### Hogwarts Legacy's DLSS 5 update shows devs have been listening to PC gamers about keeping it the hell away from game characters
-Wed, 14 Oct 2026 15:38:01 +0000 — https://www.pcgamer.com/hardware/graphics-cards/hogwarts-legacys-dlss-5-update-shows-devs-have-been-listening-to-pc-gamers-about-keeping-it-the-hell-away-from-game-characters/
-
-The promised new DLSS 5 model is set to launch in a matter of days, alongside the new RTX Spark chip powering a bunch of new and expensive laptops . As we hoped and expected, the new model shrinks down the overall footprint and therefore the performance overhead, too. But that's not the only issue that's seemingly been fixed. Nvidia's own stats, which we'll be able to verify soon enough, state that it has half the GPU hit the September version launched with, and offers up a reduction in 4K VRAM usage of 20% as another little statty tidbit. Nvidia says it has done this by refining the training data and reducing the model size down to around 118 million parameters; roughly 24% smaller. Which is great, because once the feature had released—in NBA2K27 and subsequently pretty much any other game you could think of —the biggest issue we've had with it is the significant performance hit you get just from enabling the feature. Originally Nvidia told us that they expected around a 60% performance hit from turning it on in NBA2K27, and that is now going to be just 30%. I've spent a long time playing around with DLSS 5, in mods and the official games, and I've been enjoying it. Sometimes the performance hit isn't worth the upgrade, but with that gap closing it looks like it will get there. This is a different model, and from talking to developers at a recent Nvidia event, you would be able to see some differences were you to put them cheek-by-jowl. Yet those differences should be subtle
-
-### 'AI godfather' worries we're creating 'alien beings' with artificial intelligence, with pesky moral implications
-Wed, 14 Oct 2026 15:36:56 +0000 — https://www.pcgamer.com/software/ai/ai-godfather-worries-were-creating-alien-beings-with-artificial-intelligence-with-pesky-moral-implications/
-
-Geoffrey Hinton is a computer scientist known for his foundational work in AI, specifically when it comes to neural networks (ie, approaching machine-learning a bit like our fleshy brain-learning). As such, he's been described as the 'AI godfather'. But, perhaps surprisingly, he recently described AI as "alien beings" that humans have a "moral obligation" towards. "We’re creating alien beings—meaning we’re not the only intelligent beings around," He said in a recent interview with The Guardian , "And the reality is, we only have a couple of years to adapt to that.” Hinton claims, "AI models understand what they’re saying. You couldn’t possibly answer all the questions without understanding the question. It’s ridiculous to say they don’t understand.” Now, far be it for me to argue with an expert in the field, but I feel like 'understanding' is doing a lot of heavy lifting here. For just one thing, I'm not sure an 'answer' consisting of what is statistically most likely to follow a prompted question is really 'understanding.' In other words, I don't have a Nobel Prize laureate like Hinton does, but I am at least familiar with the Chinese Room thought experiment . Hinton also says, "The reality is, we’re making beings of a different kind. And the big tech companies keep saying: we want it smarter. This is crazy. We should care as much about all the other aspects of a being as you do about its intelligence.” A close up of the vacant expression of Meta's Muse AI mascot, Jolly. (Im
-
-### Looks like a lighter, carbon fibre version of the best gaming mouse I've held is on its way, but don't look at the price tag
-Wed, 14 Oct 2026 15:36:40 +0000 — https://www.pcgamer.com/hardware/gaming-mice/looks-like-a-lighter-carbon-fibre-version-of-the-best-gaming-mouse-ive-held-is-on-its-way-but-dont-look-at-the-price-tag/
-
-The Razer Viper V4 Pro is the single best mouse I've laid my sweaty fingertips on, and I've laid them on a fair few. It's sleek, light, has tons of battery life, a comfy shape, and is incredibly well-built. So you can probably understand my excitement to hear that there might be a new, lighter, carbon fiber version just around the corner. That's according to peripheral reviewer iitzKami , who has posted on X saying that "Razer is going carbon fibre." The reviewer includes some images, too, which do look legit, though it's always difficult to be sure these days. There'll apparently be a CF version of the DeathAdder V4 Pro , too, with an upgraded sensor and more battery life, but it's the Viper I'm interested in. The Viper V4 Pro is already plenty light at 49 g, but the carbon fibre one is said to be even lighter at 47 g. This is the opposite of what I expected, given that the carbon fibre version of the Corsair Sabre V2 Pro is heavier than the regular one . But hey, I'll take it. Except actually, maybe I won't take it, because Kami also says the mouse is "currently listed in some markets at roughly $300 USD." This matches what Chinese tech news site Expreview relays , at least if currency conversion rates are relevant. According to the site, (login-walled) JD.com has it listed for 1,999 Chinese Yuan (RMB), which converts to $299 USD. This price tag is especially hard to stomach given the regular Viper V4 Pro is the cheapest of the newest premium, big-brand gaming mice. It's st
-
-### If New Blood had made Dusk 2, there'd be no Iron Lung, 'and now David Szymanski has got a movie that made $50 million'—so maybe there's wisdom in not churning out sequels
-Wed, 14 Oct 2026 15:28:49 +0000 — https://www.pcgamer.com/games/fps/if-new-blood-had-made-dusk-2-thered-be-no-iron-lung-and-now-david-szymanski-has-got-a-movie-that-made-usd50-million-so-maybe-theres-wisdom-in-not-churning-out-sequels/
-
-New Blood boss Dave Oshry isn't interested in running a massive studio that follows the blockbuster strategy of milking its successful games for all they're worth. The publisher-developer combo has enjoyed a string of big wins with its boomer shooters, but Oshry's plan for building on success is to invest that money into new projects. "I think a lot of studios would have a big hit like Ultrakill ," Oshry tells us, "and then they would maybe open a big office, or just milk the shit out of Ultrakill and do Ultrakill spinoffs, or use that money to make sequels. And I've decided to put that money into projects like Gloomwood and Fallen Aces , artsy projects like Tenebris Somnia . That’s what I've decided to do with our success because I can, because we're independent." The goal, says Oshry, has never been to create "a big studio with an office and hundreds of employees … I don't know why anyone would want that". And thankfully he doesn't have to deal with shareholders and investors telling him to just keep milking and keep growing. "The fact that we're one studio and that I control everything means that I can make those kinds of decisions," he says. "If we had publishers or shareholders or investors, they would be like, ‘No, you need to take that money and reinvest it into things that are going to make more money so we can get bigger returns.’ They would be like, ‘You need to be working on Ultrakill spinoff games. You need to be working on Dusk 2, Faith: Chapter Four. Why haven't
-
-### WoW: Forever has a new kind of ban to deal with real money trading
-Wed, 14 Oct 2026 15:03:51 +0000 — https://www.pcgamer.com/games/world-of-warcraft/wow-forever-has-a-new-kind-of-ban-to-deal-with-real-money-trading/
-
-Best MMOs : Most massive Best strategy games : Number crunching Best open world games : Unlimited exploration Best survival games : Live craft love Best horror games : Fight or flight ]]>
-
-### Doom can 'run' on a DNS database now, and one of the technology's pioneers says 'I can't decide whether this is deliciously horrible, or else horribly delicious'
-Wed, 14 Oct 2026 14:41:41 +0000 — https://www.pcgamer.com/hardware/doom-can-run-on-a-dns-database-now-and-one-of-the-technologys-pioneers-says-i-cant-decide-whether-this-is-deliciously-horrible-or-else-horribly-delicious/
-
-In the early 2000's, the perennial question was whether a powerful system could run Crysis. These days, it's whether a minimal one can run Doom. We've seen an affirmative answer to this question when it comes to vapes , a motherboard BIOS , and even a pregnancy test . And now? A DNS database. To be clear, we've seen Doom broken down into DNS text records before , but this time it seems like the database is doing more than file storage. This new version is courtesy of Corey Quinn over at The Register , who explains: "I have compiled Doom for a 32-bit machine whose arithmetic and memory live in DNS." DNS, for those unaware, means ' domain name system ', and is the system that translates URLs into IP addresses that computers can actually interact with to visit. You can also create your own DNS databases with your own entries. Quinn realised that such a database could be used essentially as a "librarian", pulling pre-made answers to relevant operations: "The database itself is 6.4 million rows of truth tables." One of the main pioneers of DNS, Paul Vixie, said : "I can't decide whether this is deliciously horrible, or else horribly delicious. in either case, it's the best use of RFC 2136 DNS UPDATE that I've ever seen." DNS UPDATE is what allows DNS records to be changed, which is also what's required for values and variables to change and be updated in a game world. That's the key trick here, as far as I can tell: Quinn realised there's enough similarity in the way DNS works to 
 
 ## GameSpot
 
@@ -472,7 +476,7 @@ The employment tribunal between the Independent Workers' Union of Great Britain 
 ### "We are here to give you something to believe in": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves
 Wed, 14 Oct 2026 14:15:41 +0000 — https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves
 
-Earlier this month, the former Disco Elysium developers of worker co-operative studio Summer Eternal sent me a 500-page anthology describing their new game Red Rooster. It's a 3D, real-time, third-person RPG you could broadly style as a spiritual Disco successor, working in the tradition of Planescape: Torment and Vampire: The Masquerade - Bloodlines , but which also owes much inspiration to Baldur's Gate 3 and Dark Messiah of Might and Magic . It takes place in a magic realist, "our-world-adjacent", mightily flammable and divided river city called Arta-Trantor, created with Unreal Engine and housing a "physics-powered sandbox of objects you can individually move, manipulate &ndash; and burn." Read more
+Earlier this month, the former Disco Elysium developers of worker co-operative studio Summer Eternal sent me a 500-page anthology describing their new game Red Rooster. It's a 3D, real-time, third-person RPG you could broadly style as a spiritual Disco successor, working in the tradition of Planescape: Torment and Vampire: The Masquerade - Bloodlines , but which also owes much inspiration to Baldur's Gate 3 and Dark Messiah of Might and Magic . It takes place in a magic realist, "our-world-adjacent", mightily flammable and divided river city called Arta-Tantor, created with Unreal Engine and housing a "physics-powered sandbox of objects you can individually move, manipulate &ndash; and burn." Read more
 
 ### Rockstar are "confident" that GTA 7 won't take another eight years, despite similar promises of greater efficiency seemingly having come with Red Dead Redemption 2
 Wed, 14 Oct 2026 12:05:28 +0000 — https://www.rockpapershotgun.com/rockstar-are-confident-that-gta-7-wont-take-another-eight-years-despite-similar-promises-of-greater-efficiency-seemingly-having-come-with-red-dead-redemption-2
