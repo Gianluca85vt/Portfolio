@@ -48,6 +48,11 @@ that interpolation.
 
 ## 24% smaller, twice as fast
 
+<figure>
+  <img src="/img/blog/dlss-5-smaller-model-half-the-gpu-cost/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Visual Concepts / 2K, via the official NBA 2K27 Steam page</figcaption>
+</figure>
+
 Those two figures do not divide into each other. Cutting a quarter of the weights
 does not double inference speed on its own, so something else moved — layer
 shapes that map better onto the tensor cores, lower precision in places, a graph
