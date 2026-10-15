@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-15T15:19:16.752Z
+# AI — harvested 2026-10-15T20:02:30.280Z
 
 ## OpenAI
 
@@ -37,27 +37,26 @@ New analysis shows how agentic AI adoption is growing across EU enterprises and 
 ### Apertus 1.5 Release Notes
 Thu, 15 Oct 2026 09:08:45 GMT — https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
 
+### Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
+Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/meta-muse-spark-open
+
+### Welcome FLUX.3 Image Klein in Diffusers
+Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/flux-3
+
 ### HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
 Wed, 14 Oct 2026 16:12:42 GMT — https://huggingface.co/blog/allenai/hiro-acev2
 
-### Run fast, private agents on-device with LFM2.5-24B-A2B
-Tue, 13 Oct 2026 17:05:48 GMT — https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b
-
 ## Google DeepMind
+
+### Accelerating the search for antimicrobial peptides with Google Antigravity
+Thu, 15 Oct 2026 16:08:03 +0000 — https://deepmind.google/blog/accelerating-antimicrobial-discovery/
+
+Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
 
 ### Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection
 Wed, 14 Oct 2026 02:00:14 +0000 — https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
 
 Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
-
-### Developing Gemini 4 Argon responsibly and safely
-Tue, 13 Oct 2026 19:43:07 +0000 — https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/
-
-### Gemini 4 Argon for Robotics
-Tue, 13 Oct 2026 16:01:58 +0000 — https://deepmind.google/blog/gemini-4-argon-for-robotics/
-
-### Gemini 4 Argon: Built to solve your hardest problems
-Tue, 13 Oct 2026 16:01:52 +0000 — https://deepmind.google/blog/introducing-gemini-4-argon/
 
 ## VentureBeat AI
 

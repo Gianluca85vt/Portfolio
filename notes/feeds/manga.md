@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-15T15:19:16.752Z
+# Manga — harvested 2026-10-15T20:02:30.280Z
 
 ## Anime News Network
+
+### Cregger's Resident Evil Opens at #2 in Japan, 5th Girls und Panzer das Finale Film Opens at #5
+Thu, 15 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/cregger-resident-evil-opens-at-no.2-in-japan-5th-girls-und-panzer-das-finale-film-opens-at-no.5/.242827
+
+<cite>Chiikawa</cite> movie back at #1, <cite>Madoka Magica Walpurgisnacht: Rising</cite> at #10
+
+### Narumi's Week at Work Anime Series Review
+Thu, 15 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/narumi-week-at-work-anime-series/.242529
+
+<i>Kaiju No. 8: Narumi’s Week at Work</i> is a charming set of shorts that hits a bit above its weight class without being a total knockout.
 
 ### Japanese Animation TV Ranking, September 28-October 4
 Thu, 15 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842
@@ -51,16 +61,6 @@ Manga has been on hiatus since August 5 so author could do research
 Thu, 15 Oct 2026 05:58:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/i-got-a-cheat-skill-in-another-world-2nd-season-anime-reveals-teaser-video-new-returning-cast-and-/.242845
 
 Ikumi Hasegawa, Sora Amamiya join anime's cast
-
-### Firefly Wedding TV Anime Casts Kanon Amane
-Thu, 15 Oct 2026 05:37:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/firefly-wedding-tv-anime-casts-kanon-amane/.242849
-
-Amane voices courtesan Yukari in ongoing anime
-
-### Matsurika Kanriden TV Anime Casts Takuya Satō, Hiyori Kōno
-Thu, 15 Oct 2026 05:16:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/matsurika-kanriden-tv-anime-casts-takuya-sato-hiyori-kono/.242846
-
-Series debuts in January 2027
 
 ## Crunchyroll News
 
@@ -139,11 +139,6 @@ Chihiro Yuzuki s Kimi to Koete Koi ni Naru (With You, Our Love Will Make It Thro
 Tue, 13 Oct 2026 20:44:24 -0700 — https://myanimelist.net/news/74820023?_location=rss
 
 Production company Shochiku opened an official website for a television anime adaptation of Kou Sawada s Yumene Connect manga on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. Voice actors Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) and Yuu Sasahara (Shadows House) are starring as Yuuhi Takamiya and Nano, respectively. Staff Director: Souta Yokote (Fumetsu no Anata e Season 3) Series Composition, Script: Gigaemon Ichikawa (...
-
-### The Fable 2nd Season Announces Additional Cast
-Tue, 13 Oct 2026 08:35:34 -0700 — https://myanimelist.net/news/74818100?_location=rss
-
-The official website for the The Fable television anime revealed additional cast and the main visual (pictured) for its second season on Wednesday. The new season will adapt the Yamaoka-hen (Yamaoka Arc) from Katsuhisa Minami s crime comedy manga and is scheduled to premiere on the Nippon TV network on January 10, 2027, airing every Sunday at 12:55 a.m. Cast Yamaoka: Kouichi Yamadera (Yozakura-san Chi no Daisakusen) Azami: Takanori Hoshino (Sentai Red Isekai de Boukensha ni Naru) Eucalyptus...
 
 ## Otaku USA
 

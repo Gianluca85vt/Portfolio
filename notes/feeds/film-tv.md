@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-15T15:19:16.752Z
+# Film & TV — harvested 2026-10-15T20:02:30.280Z
 
 ## Variety
 
-### Bollywood Actor Imran Khan Heads to High Court to Fight Order to Leave India Over Election Protest
-Thu, 15 Oct 2026 15:04:23 +0000 — https://variety.com/2026/film/news/imran-khan-fight-order-leave-india-high-court-1236913007/
+### With ‘Obsession,’ Is the Golden Globes’ Comedy Race the New Home for Category Fraud?
+Thu, 15 Oct 2026 20:00:00 +0000 — https://variety.com/2026/film/awards/obsession-golden-globes-comedy-category-fraud-1236913141/
 
-Imran Khan is preparing a court challenge to an order that gives the Bollywood actor until Oct. 28 to leave India, after he attended a demonstration demanding that Chief Election Commissioner Gyanesh Kumar step down. Khan, a Bollywood superstar and Aamir Khan s nephew, is an American national who lives in India on an Overseas Citizen [ ]
+“Category fraud” is having a crossover moment. It happens every year, in awards cycles for both film and television. Campaigners submit films, shows and individual performances in categories they have no business being in, like a drama masquerading as a comedy or a blatant leading role being tipped for a supporting category. Industry reactions to [ ]
 
-### Guillermo del Toro Pays Tribute to Late ‘E.T.’ Designer Carlo Rambaldi Ahead of Hollywood Walk of Fame Honor: A Worldwide Maestro of Magic (EXCLUSIVE)
-Thu, 15 Oct 2026 15:01:17 +0000 — https://variety.com/2026/film/global/guillermo-del-toro-et-designer-carlo-rambaldi-hollywood-walk-fame-1236912922/
+### Fandango Orders Bad Girls Club: Unfinished Business as the Versant-Owned Streamer Gets Into Original Programming
+Thu, 15 Oct 2026 20:00:00 +0000 — https://variety.com/2026/tv/news/fandango-bad-girls-club-unfinished-business-first-original-1236913395/
 
-Guillermo del Toro is paying tribute to Italian special effects master Carlo Rambaldi, who is being honored today with a posthumous Hollywood Walk of Fame star. Rambaldi, best known for designing the iconic title character in Steven Spielberg’s “E.T. the Extra-Terrestrial,” died in 2012 at age 86. He was a three-time Academy Award winner for [ ]
+Fandango, which became part of Versant Media when NBCUniversal split off most of its cable and digital offerings at the start of the year, is getting into the original programming business — starting with a revival of “Bad Girls Club.” As part of Fandango s AVOD streaming platform, the service has ordered two episodes of the [ ]
 
-### ‘Schitt’s Creek’ Star Sarah Levy’s ‘Run’ Boarded by Mise En Scene Company for Sales, First Look Unveiled (EXCLUSIVE)
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/news/schitts-creek-star-sarah-levy-run-sales-msc-1236912003/
+### The Mummy 4 With Brendan Fraser and Rachel Weisz Officially Titled The Mummy: The Book of the Dead
+Thu, 15 Oct 2026 19:45:19 +0000 — https://variety.com/2026/film/news/the-mummy-4-title-book-of-the-dead-brendan-fraser-rachel-weisz-1236913372/
 
-The Mise En Scene Company has taken worldwide sales rights to “Run,” the marathon comedy-drama led by “Schitt’s Creek” star Sarah Levy, and has unveiled the first-look image exclusively with Variety. The London and New York-based outfit, known as MSC, will open sales on the U.S. production at the American Film Market, operating from the [ ]
+Brendan Fraser and Rachel Weisz s fourth Mummy adventure has a new title: The Mummy: The Book of the Dead. Fraser and Weisz are reprising their roles as Rick and Evie O Connell alongside a cast that includes John Hannah, Michael Johnston, Numan Acar, Kevin J. O’Connor and Oded Fehr. Plot details haven t been revealed. As previously [ ]
 
-### How Do You Get ‘Friday the 13th’ Fans to Care About Jason’s Mom? ‘Crystal Lake’ Team on Their Ambitious Attempt and Decision to Leave Out the Hockey Mask
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/features/crystal-lake-friday-the-13th-jason-mom-prequel-1236910862/
+### Verve Signs 10-Year Lease for Hollywood Headquarters (EXCLUSIVE)
+Thu, 15 Oct 2026 19:30:00 +0000 — https://variety.com/2026/film/news/verve-signs-lease-hollywood-headquarters-exclusive-1236913350/
 
-You should know that Jason’s mother, Mrs. Voorhees, was the original killer. That quote from “Scream,” in which Ghostface trips up Casey (Drew Barrymore) while asking her about scary movies, is a reminder that for many modern audiences, “Friday the 13th” matriarch Pamela Voorhees exists as little more than a trivia question. Yet Peacock and [ ]
+Verve has signed a new 10-year lease for its worldwide headquarters in the Hollywood Media District, marking a significant commitment to the Los Angeles entertainment economy. Located across from Sunset Las Palmas Studios, Verve s HQ is situated alongside companies including Netflix, All3Media, Formosa Group, Paramount, SiriusXM and Roc Nation. Verve commissioned global design collective RIOS [ ]
 
-### Wildwood s Murder of the Crows Sequence Took Laika s Artisans Over Five Years to Complete (EXCLUSIVE)
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/news/wildwood-murder-of-the-crows-sequence-took-laikas-artisans-over-five-years-to-complete-exclusive-1236909226/
+### Daniel Henney Joins Apple TV’s ‘Disavowed’ (EXCLUSIVE)
+Thu, 15 Oct 2026 19:20:16 +0000 — https://variety.com/2026/tv/news/daniel-henney-disavowed-apple-tv-1236913353/
 
-Laika’s latest stop-motion animated feature, “Wildwood,” is the Oregon-based studio’s most ambitious film to date, featuring 231 puppets, 54 hero characters and 136 locations. Written and direct by Travis Knight (“Kubo and the Two Strings”), the picture, opening Oct. 23, follows Prue, a 12-year-old girl who launches a desperate rescue mission to save her baby [ ]
+Daniel Henney has joined the cast of Apple TV’s upcoming action thriller “Disavowed.” Per the longline, “Disavowed” follows “legendary CIA case officer Brad Griffin, who is abruptly fired in the middle of a global hunt for an elusive assassin responsible for killing his colleague. Disgraced and outcast from the world of intelligence, all bets are [ ]
 
-### See-Saw Films Heads on Mediawan Sale, Why ‘Tenzing’ Was Their ‘Most Challenging’ Movie Yet and the ‘World Building’ Potential of ‘Slow Horses’ and ‘The NeverEnding Story’
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/global/see-saw-mediawan-tenzing-slow-horses-neverending-story-1236909810/
+### IShowSpeed Partners With Breakwater Studios, Obamas Higher Ground to Bring The Eyes of Ghana Doc to Theaters (EXCLUSIVE)
+Thu, 15 Oct 2026 19:01:02 +0000 — https://variety.com/2026/film/news/ishowspeed-the-eyes-of-ghana-theatrical-release-trailer-1236913303/
 
-Less than two years ago, See-Saw Films was one of the most eligible bachelors in the industry. Prestige tastemakers behind a library of acclaimed movies (including multi Oscar-winner The King s Speech, plus the likes of Lion, The Power of the Dog, and One Life ), the production company had moved into TV with astonishing success with [ ]
+Streaming superstar IShowSpeed has partnered with Breakwater Studios and Barack and Michelle Obama’s Higher Ground to bring Ben Proudfoot s upcoming documentary The Eyes of Ghana to theaters for a one-night-only screening on Oct. 28, Variety can reveal exclusively. Participating exhibitors include Regal, AMC, Cinemark, select theater chains and independent cinemas. The Eyes of Ghana, which [ ]
 
-### Al Pacino to Be Honored With SAG-AFTRA Life Achievement Award
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/news/al-pacino-sag-aftra-life-achievement-award-1236912626/
+### Mike Leigh Gets Standing Ovation at London Homecoming Premiere of Tender Loving Care, Likely His Final Film
+Thu, 15 Oct 2026 18:27:04 +0000 — https://variety.com/2026/film/global/mike-leigh-standing-ovation-london-tender-loving-care-1236913265/
 
-Al Pacino will be honored with SAG-AFTRA’s Life Achievement Award for his career and humanitarian accomplishments at the Actor Awards. The “Scarface” actor will receive the union s top tribute at the Actor Awards ceremony on Feb. 28, 2027 at the Shrine Auditorium in Los Angeles. The Life Achievement Award is given annually to an actor [ ]
+U.K. audiences aren t usually ones to give standing ovations, but when one of their most cherished filmmakers makes a final bow, unwritten rules are allowed to be broken. This was certainly the case for Mike Leigh, who on Thursday received a hero s welcome at the London Film Festival premiere of Tender Loving Care, a film [ ]
 
-### Sheriff Country Hits Series High of 5.5 Million Viewers as CBS Wins Premiere Week With Eight of the Top 10 Broadcast Shows
-Thu, 15 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/sheriff-country-season-2-ratings-cbs-wins-premiere-week-1236913012/
+### The Conners Boss Bruce Helford Hired to Run Newlyweds at NBC After Gail Lerner s Firing
+Thu, 15 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/bruce-helford-nbc-newlyweds-gail-lerner-fired-1236913258/
 
-CBS was the most-watched broadcaster of the week of Oct. 4-10, during which it debuted new seasons of the shows on its primetime lineup. The Eye network averaged 4.4 million viewers in primetime during that window, a significant lead on its next closest competitor, which was NBC with a 3.4 million-viewer average. ABC and Fox [ ]
+After Gail Lerner s recent announcement that she d been fired as the showrunner of Newlyweds, the upcoming NBC sitcom she co-created with Jamie Lee Curtis, the network has hired Bruce Helford to take over. Helford is a veteran writer-producer who has created and overseen several comedian-driven series over the course of decades. As a creator or [ ]
 
-### CAA, WME and UTA Lead Coalition Pushing for Law to Force Streamers to Spend Half Their Content Budgets on Indie Productions
-Thu, 15 Oct 2026 14:55:28 +0000 — https://variety.com/2026/tv/news/caa-wme-uta-american-entertainment-alliance-streamers-indie-productions-1236912964/
+### Tracy Morgan, Jane Krakowski, Daniel Radcliffe and More Join NBC Comedy Panels at New York Comedy Festival
+Thu, 15 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/tracy-morgan-daniel-radcliffe-new-york-comedy-festival-1236909431/
 
-In a rare team-up of big Hollywood talent agencies, CAA, UTA and WME have joined forces as founding members of the American Entertainment Alliance which among other things wants U.S. legislation to force streaming providers like Netflix, Prime Video, HBO Max and Disney+ to spend at least 50% of their budgets on independent productions. [ ]
+Some of the funniest names associated with NBC will appear on panels at the New York Comedy Festival. On Saturday, Nov. 14, The Fall and Rise of Reggie Dinkins will hit the festival with an advanced screening of Season 2, Episode 3, followed by a conversation with the cast and creative team. Tracy Morgan, Daniel [ ]
 
-### Amazon MGM Studios’ Albert Cheng Named HRTS Chair, While President Tim McNeal and CEO Melissa Grego Continue in Their Roles
-Thu, 15 Oct 2026 14:45:00 +0000 — https://variety.com/2026/tv/news/hrts-chair-albert-cheng-tim-mcnair-melissa-grego-1236912334/
+### Warner Bros. Studios Leavesden Revenues Climb 11% to $390 Million Thanks to ‘Harry Potter’ Tour, Increased Production (EXCLUSIVE)
+Thu, 15 Oct 2026 17:55:04 +0000 — https://variety.com/2026/biz/global/harry-potter-tour-leavesden-accounts-2025-1236913172/
 
-The Hollywood Radio and Television Society has announced their newly elected officers, including Amazon MGM Studios’ Albert Cheng as chairman. Also, Tim McNeal will serve his second term as president and CEO Melissa Grego has renewed her contract to continue leading the nonprofit organization into 2028. Grego has served in that role since October 2017. [ ]
+Warner Bros. Studios Leavesden, the studio’s flagship U.K. production hub, saw revenues climb 11% year-on-year, according to its latest financial accounts. The studios, located just outside London, brought in £292 million ($390 million) in the year ending 2025, up from £264 million the previous year. Gross profits jumped 10% (from £182 million to £200 million) [ ]
 
 ## The Hollywood Reporter
 
-### Gender-Balanced Hiring On TV Shows Backsliding, New Report Finds (Exclusive)
-Thu, 15 Oct 2026 15:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/gender-representation-backsliding-television-report-1236730347/
+### Bullying Book The One We Left Behind Optioned by Henry Danger Director Mike Caron (Exclusive)
+Thu, 15 Oct 2026 19:58:38 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-one-we-left-behind-movie-1236733142/
 
-The latest annual study from ReFrame and WIF found that representation in lead actors and overall staffs dipped in the 2025-2026 season.
+Sean Lavery, who wrote for comedies 'Cougar Town' and 'Crossing Swords,' has been set to pen the feature adaptation of the indie book.
 
-### Ralph Fiennes to Star In, Executive Produce Unbeaten Racehorse Drama for Conclave Producer, StudioCanal
-Thu, 15 Oct 2026 15:07:01 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ralph-fiennes-unbeaten-racehorse-drama-henry-cecil-1236731530/
+### The Mummy : Brendan Fraser Sequel Gets New Title Ahead of 2027 Release
+Thu, 15 Oct 2026 19:30:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/the-mummy-brendan-fraser-sequel-new-title-2027-release-1236733141/
 
-He will play Sir Henry Cecil, the legendary horse trainer, with 'Outrun' director Nora Fingscheidt to helm the theatrical feature set to shoot in 2027.
+Rachel Weisz and John Hannah also reprise their roles in the latest installment in the Universal franchise.
 
-### Al Pacino Tapped for SAG-AFTRA Life Achievement Award
-Thu, 15 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/al-pacino-sag-aftra-life-achievement-award-1236730425/
+### All 5 Hunger Games Movies to Be Free on Streaming for First Time
+Thu, 15 Oct 2026 19:26:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hunger-games-movies-free-streaming-1236733126/
 
-The legendary star of screens big ('The Godfather,' 'Dog Day Afternoon' and 'Scent of a Woman') and small ('Angels in America,' 'You Don't Know Jack' and 'Phil Spector') will be fêted at the Actor Awards on Feb. 28, 2027.
+The ad-supported Fandango at Home app is set to offer all the previous 'Hunger Games' movies in the run-up to 'Sunrise on the Reaping.'
 
-### New York Poised to Overtake California as Top State for Movie and TV Production
-Thu, 15 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/new-york-california-hollyood-production-1236730758/
+### Prepare to Fall in Love With Sense and Sensibility Star Herbert Nordrum
+Thu, 15 Oct 2026 19:22:03 +0000 — https://www.hollywoodreporter.com/movies/movie-features/sense-and-sensibility-colonel-brandon-herbert-nordrum-film-1236732939/
 
-A power shift is underway as the Empire State surges while Hollywood's historic home aims to retain as many projects as it can.
+The Norwegian actor — heart-wrenching as the lovesick Colonel Brandon — sits down to talk pleasing Jane Austen fans, his chemistry with Esmé Creed-Miles and the legacy of the late Alan Rickman: "It's very important to recognize the shoulders I stand on."
 
-### Samuel L. Jackson’s Tulsa King Spinoff Frisco King Sets Premiere Date in First Teaser Trailer
-Thu, 15 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/frisco-king-trailer-samuel-l-jackson-1236730377/
+### Lupin Is (Nearly) Back! Star Omar Sy Shares How Season 4 Is Bigger and Bolder
+Thu, 15 Oct 2026 19:16:30 +0000 — https://www.hollywoodreporter.com/tv/tv-news/lupin-season-4-netflix-omar-sy-interview-star-producer-1236730730/
 
-The Paramount+ show written by Taylor Sheridan's first footage has Jackson in action.
+The French actor and producer returns to his iconic role as the French gentleman thief Assane Diop on Netflix in the series produced by Gaumont, in collaboration with his Carrousel Studios.
 
-### Maddie Ziegler Finds Herself Stuck in a Christmas Time Loop in Trailer for Netflix s In A Holidaze
-Thu, 15 Oct 2026 14:56:46 +0000 — https://www.hollywoodreporter.com/movies/movie-news/maddie-ziegler-in-a-holidaze-netflix-trailer-1236730980/
+### Disney Inks Major Creator Deal With Dude Perfect (Exclusive)
+Thu, 15 Oct 2026 19:00:02 +0000 — https://www.hollywoodreporter.com/business/digital/disney-inks-major-creator-deal-dude-perfect-1236732988/
 
-The upcoming holiday film is based on the novel by popular romance author duo Christina Lauren.
+The Texas-based sports creators and the media company have signed a wide-ranging partnership that will span entertainment, sports, consumer products and experiences.
 
-### GTA 6 Launch Trailer Has Me Ready to Buy at Any Price
-Thu, 15 Oct 2026 14:42:51 +0000 — https://www.hollywoodreporter.com/business/business-news/gta-6-trailer-rockstar-games-grant-theft-auto-vi-gameplay-1236730855/
+### ‘I Love Lucy’ Treasures Acquired by the National Comedy Center
+Thu, 15 Oct 2026 18:42:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news/i-love-lucy-treasures-national-comedy-center-1236733094/
 
-And set up an OOO for Nov. 19.
+Behind-the-scenes photographs that "have been sitting in boxes for many years," an early pilot script and 35mm film prints are part of the collection.
 
-### Billy Joel Offers Health Update in Rare Interview as He Prepares to Sell Prized Motorcycle Collection
-Thu, 15 Oct 2026 14:33:22 +0000 — https://www.hollywoodreporter.com/music/music-features/billy-joel-health-update-motorcycle-auction-hydrocephalus-1236730847/
+### Bowen Yang and Matt Rogers Las Culturistas to Stream On Disney+, Hulu
+Thu, 15 Oct 2026 18:30:00 +0000 — https://www.hollywoodreporter.com/business/digital/bowen-yang-matt-rogers-las-culturistas-disney-hulu-1236733002/
 
-The singer discusses living with hydrocephalus, his hopes of performing again and why he’s auctioning more than 70 bikes at Christie's: “I was not a collector. I was actually a rider.”
+The podcast is the latest from iHeart to join the streamer.
 
-### Iranian Drama ‘Midday Meal’ Wins Busan Film Festival’s Top Prize, Qualifying for Oscar Consideration
-Thu, 15 Oct 2026 13:50:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/midday-meal-iran-movie-busan-award-qualifies-oscars-1236730784/
+### Comcast Donated $7.5 Million to Trump s White House Ballroom
+Thu, 15 Oct 2026 18:25:08 +0000 — https://www.hollywoodreporter.com/business/business-news/comcast-trump-white-house-ballroom-1236733064/
 
-'Midday Meal' director Majid Majidi dedicated the award to the people of Iran, while Taiwan’s Lee Yun Chan won best director and Zhou Xun and Kashun Himeno took acting honors at the festival’s closing ceremony.
+Other familiar names in Hollywood that contributed include Apple, Amazon and Google.
 
-### Amy DeGregorio Promoted to EVP at Hearst Media Production Group (Exclusive)
-Thu, 15 Oct 2026 13:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/amy-degregorio-promoted-hearst-media-production-group-hmpg-1236730067/
+### The Daily Show s Jordan Klepper Tackles Midterm Elections in Next Fingers the Pulse Special (Exclusive)
+Thu, 15 Oct 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/jordan-klepper-midterm-elections-daily-show-special-1236732958/
 
-She'll be HMPG president Bryan Curb's right hand.
+The correspondent once again heads into MAGA world.
 
 ## Deadline
 
-### Comcast Gave $7.5 Million To Help Fund Donald Trump s White House Ballroom, New Report Reveals
-Thu, 15 Oct 2026 15:04:26 +0000 — https://deadline.com/2026/10/comcast-trump-white-house-ballroom-donor-1237158064/
+### Fandango Moves Into Originals With ‘Bad Girls Club’ Reunion
+Thu, 15 Oct 2026 20:00:00 +0000 — https://deadline.com/2026/10/fandango-originals-bad-girls-club-reunion-1237158523/
 
-Comcast gave $7.5 million to help Donald Trump fund a new White House ballroom, but the donation was well below that of an array of other contributions from major tech companies like Apple and Amazon, according to a new report. The Washington Post obtained a list of all major donors to the project. The White [ ]
+The Bad Girls Club is back. Fandango, the online ticket seller that has now also become a free, ad-supported streamer, is moving into original programming for the first time and has set its first project, a reunion featuring the stars of the Oxygen reality series. The move makes sense for Versant Media, which owns Fandango [ ]
 
-### Hudson Williams, Zach Galifianakis Jay Baruchel Set For The Assembly Season 2 At Canada s CBC
-Thu, 15 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/the-assembly-canada-season-2-hudson-williams-cast-1237155358/
+### Eternally Yours Creators Joe Port Joe Wiseman On Resurrecting Their Vampire Comedy Series For CBS
+Thu, 15 Oct 2026 19:34:00 +0000 — https://deadline.com/2026/10/eternally-yours-premiere-creators-tease-cbs-vampire-comedy-1237158436/
 
-EXCLUSIVE: CBC celebrities, assemble! The names in the hot seat for Season 2 of CBC s version of The Assembly are in, and they ve got some collective star power. Heated Rivalry star Hudson Williams, The Hangover s Zach Galifianakis and This is the End actor Jay Baruchel have signed up to be grilled by a cast of [ ]
+SPOILER ALERT! This post contains details from the Eternally Yours pilot. Move over Woodstone Mansion residents, there s another ragtag supernatural family joining CBS Thursday nights. Ghosts creators Joe Port and Joe Wiseman debuted their long-gestated vampire comedy Eternally Yours last week after more than a decade in the making. Eternally Yours is based on a [ ]
 
-### Al Pacino To Receive SAG-AFTRA Life Achievement Award
-Thu, 15 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/al-pacino-sag-aftra-life-achievement-award-1237157660/
+### Bernie Orenstein Dies: Writer-Producer On Sanford Son, That Girl, Kate Allie More Was 95
+Thu, 15 Oct 2026 19:18:53 +0000 — https://deadline.com/2026/10/bernie-orenstein-dead-tv-writer-producer-1237158461/
 
-Al Pacino, the nine-time Oscar-nominated star of such iconic films as The Godfather and it sequels, Dog Day Afternoon, Scarface and his Best Actor Academy Award-winning role in Scent of a Woman, will receive the 62nd SAG-AFTRA Life Achievement Award. The honor, bestowed annually by the actors guild for career and humanitarian accomplishments, will be [ ]
+Bernie Orenstein, whose TV career spanned writing for Candid Camera to writing and producing That Girl, The New Dick Van Dyke Show, Sanford Son, What s Happening!!, Kate Allie and others, has died. He was 95. His family said Orenstein died September 14 but did not provide details. Orenstein had been a writer on [ ]
 
-### The Baby-Sitters Club Stage Musical Sets Los Angeles World Premiere Opening Date, Venue
-Thu, 15 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/the-baby-sitters-club-stage-musical-los-angeles-1237156844/
+### Tatiana Maslany, Tony Shalhoub John Turturro Set For Rhinoceros Broadway Revival This Spring
+Thu, 15 Oct 2026 19:00:00 +0000 — https://deadline.com/2026/10/rhinoceros-broadway-tatiana-maslany-tony-shalhoub-john-turturro-1237158434/
 
-EXCLUSIVE: The Baby-sitters Club: A New Musical based on Ann M. Martin’s book series that inspired the 1995 film and two TV series, will make its world premiere this spring with Center Theatre Group at the Kirk Douglas Theatre in Los Angeles. Previews for the four-week run will begin on May 6, 2027, ahead of [ ]
+Emmy winners Tatiana Maslany and John Turturro and Tony winner Tony Shalhoub will take to the Broadway stage this spring in a Roundabout Theatre Company revival of Eugène Ionesco s absurdist classic Rhinoceros, last seen on Broadway in 1961. To be directed by Diane Paulus, Rhinoceros will begin previews at Roundabout s Todd Haimes Theatre on Wednesday, [ ]
 
-### Frisco King : Samuel L. Jackson Plays Outside The Law In Teaser For Taylor Sheridan s Tulsa King Spinoff As Paramount+ Sets Winter Release
-Thu, 15 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/frisco-king-trailer-release-date-taylor-sheridan-paramount-1237157647/
+### Strand Releasing Takes North American For Hanaël El Yousfi’s TIFF-Selected ‘The Daughters Of Abraham’
+Thu, 15 Oct 2026 18:42:52 +0000 — https://deadline.com/2026/10/strand-releasing-north-american-daughters-abraham-1237158489/
 
-The first look at Taylor Sheridan s Tulsa King spinoff has arrived. Paramount+ released a teaser Thursday morning for the upcoming series Frisco King starring Samuel L. Jackson. In Frisco King, Jackson reclaims the role of Russell Lee Washington Jr., this time lording over a Texas suburb. The series premieres December 18 with two episodes followed [ ]
+Strand Releasing has acquired North American distribution rights to Hanaël El Yousfi’s The Daughters of Abraham following its international premiere in the Discovery section at the 2026 Toronto International Film Festival. The debut feature of French director Hanaël El Yousfi, The Daughters of Abraham follows Myriam and Eva, friends in their early twenties as they [ ]
 
-### Down Cemetery Road : Apple TV Detective Drama Adds 12 To Season 2
-Thu, 15 Oct 2026 14:49:24 +0000 — https://deadline.com/2026/10/down-cemetery-road-season-2-cast-apple-tv-1237158035/
+### Brad Caleb Kane On Making Crystal Lake A Small-Town Show In Same N.J. Locations Where Friday The 13th Filmed, Faithfully Re-Creating An Iconic Scene Twin Peaks-y Plans For Season 2
+Thu, 15 Oct 2026 18:40:00 +0000 — https://deadline.com/2026/10/brad-caleb-kane-crystal-lake-same-nj-locations-friday-the-13th-season-2-1237157829/
 
-EXCLUSIVE: Apple TV has added 12 to the Season 2 cast of its action thriller Down Cemetery Road. Martin Clunes (Doc Martin), Fionn Whitehead (Dunkirk), Paterson Joseph (Wonka), Aasiya Shah (Bait), Dimitri Leonidas (Foundation), Paul Chahidi (This Country), Liz White (The Long Shadow), Amanda Abbington (Sherlock), Jeff Rawle (Drop the Dead Donkey), Ashley McGuire (Slow [ ]
+As Crystal Lake brings Jason Voorhees fans to his roots, the Peacock prequel series takes the Friday the 13th franchise back to where it all began. Series creator Brad Caleb Kane told Deadline the amazing thing about filming the eight-episode show — all episodes now available to stream — where the original 1980 slasher also [ ]
 
-### Donald Trump Says Execution Of Fort Hood Shooter Will Not Be Livestreamed
-Thu, 15 Oct 2026 14:22:16 +0000 — https://deadline.com/2026/10/trump-ford-hood-shoot-execution-live-stream-1237158037/
+### New AFM Summit To Explore Federal Production Tax Incentive
+Thu, 15 Oct 2026 18:25:36 +0000 — https://deadline.com/2026/10/american-film-market-summit-federal-production-incentive-1237158083/
 
-Donald Trump has reversed the Pentagon s plans to livestream the December execution of Nidal Malik Hasan, convicted of killing 13 and injuring dozens of others in a shooting rampage at Fort Hood. Trump posted on Truth Social on Thursday, I think streaming the execution for all to see might have been a strong deterrent for [ ]
+The American Film Market set an inaugural New Global Screen Economy Summit on opening day that will examine a proposed federal production tax incentive, and unveiled an expanded lineup of speakers across 45+ sessions. AFM runs Nov. 10–15 at the Fairmont Century Plaza in Los Angeles.. The new summit will also delve into the creator [ ]
 
-### Ralph Fiennes Reunites With Conclave Producer Studiocanal For Story Of Legendary Trainer Henry Cecil Champion Horse Frankel
-Thu, 15 Oct 2026 14:02:52 +0000 — https://deadline.com/2026/10/ralph-fiennes-play-henry-cecil-film-about-top-horse-frankel-1237157998/
+### Egypt’s El Gouna Kicks Off MENA Fall Film Festival Season With Local Breakouts, Oscar Contenders Emerging Talents
+Thu, 15 Oct 2026 18:13:22 +0000 — https://deadline.com/2026/10/egypt-el-gouna-kicksoff-mena-fall-film-festival-season-1237158398/
 
-EXCLUSIVE: Three-time Oscar nominee Ralph Fiennes is reuniting with Conclave producer Tessa Ross and A Bigger Splash backer Studiocanal on Unbeaten, a biopic of legendary British horse racing trainer Henry Cecil and his most famous charge, Frankel. Fiennes will star as Cecil and serve as executive producer on the film, which is being lined up [ ]
+The Middle East and North Africa’s 2026 fall film festival season gets underway today with the 9th El Gouna Film Festival. Unfolding in its namesake Egyptian Red Sea resort of El Gouna, the festival opens with a red-carpet gala screening of French director Marc Fitoussi’s drama All About Corinne, starring Isabelle Huppert as a jobbing [ ]
 
-### Disney+ And Hulu To Stream Pave Studios True-Crime Podcasts Clues And Mother Knows Murder
-Thu, 15 Oct 2026 14:01:40 +0000 — https://deadline.com/2026/10/disney-plus-hulu-true-crime-podcasts-1237158013/
+### Seeker Writer-Producer Michael Learner Inks With WME Untitled
+Thu, 15 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/michael-learner-seeker-signs-wme-untitled-1237157751/
 
-EXCLUSIVE: Disney+ and Hulu will stream Pave Studios true-crime video podcasts Clues and Mother Knows Murder in exclusive windows before they go into wide release. The two titles, which are part of Pave s Crime House sub-brand, are the company s first to be picked up by a major streaming platform. Seeing the growth of YouTube in [ ]
+EXCLUSIVE: Michael Learner, a rising executive, writer and producer, has inked with both WME and Untitled for representation. Learner was signed off buzz around his thriller script Seeker, which as we announced last month, will be directed by Dinner in America s Adam Carter Rehmeier. The film revolves around Grant, a man haunted by the unexplained [ ]
 
-### Fandango And Plex Team To Integrate Movie Ticket Sales Into Streaming
-Thu, 15 Oct 2026 14:00:00 +0000 — https://deadline.com/2026/10/plex-fandango-movie-ticket-sales-streaming-1237157045/
+### Newlyweds : Bruce Helford Tapped As New Showrunner In Anything But Love Reunion With Jamie Lee Curtis, Production Hiatus Extended
+Thu, 15 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/newlyweds-bruce-helford-showrunner-production-restart-date-1237158356/
 
-EXCLUSIVE: Established streaming platform Plex has teamed up with Fandango to allow U.S. users to find showtimes and buy movie tickets as they browse and watch films. Founded in 2011, Plex offers a suite of streaming options from free, ad-supported live and on-demand programming to transactional VOD. Its discovery and community efforts have enabled the [ ]
+NBC and Universal Television are bringing in a steady hand to take the reins of freshman multi-camera comedy Newlyweds, hiring sitcom veteran Bruce Helford (The Conners) as new showrunner to replace Gail Lerner who was fired last Friday. Newlyweds, co-created by Lerner and Jamie Lee Curtis, is currently on a previously scheduled weeklong hiatus. The [ ]
 
-### Rita Coburn Jeffrey Wright To Bring Their Feature Doc ‘W.E.B. Du Bois: Rebel With A Cause’ To London
-Thu, 15 Oct 2026 13:55:38 +0000 — https://deadline.com/2026/10/w-e-b-du-bois-rebel-with-a-cause-rita-coburn-jeffrey-wright-1237158018/
+### Tim Burton And Klara And The Sun Author Kazuo Ishiguro Team On Secret Project The Dish
+Thu, 15 Oct 2026 17:45:00 +0000 — https://deadline.com/2026/10/tim-burton-kazuo-ishiguro-script-the-dish-klara-and-the-sun-1237158240/
 
-After its U.S. broadcast debut and theatrical roadshow tour, W.E.B. Du Bois: Rebel With A Cause, the new feature documentary by filmmaker Rita Coburn (Marian Anderson: The Whole World in Her Hands) on the life and legacy of the legendary writer W.E.B. Du Bois, is heading to the UK. Check out a trailer for the [ ]
+EXCLUSIVE: With Wednesday recently wrapping production, Tim Burton may already have his eyes set on what s next on the feature side. Sources tell Deadline that he is teaming with Nobel Prize-winning author Kazuo Ishiguro on a new untitled film. Insiders say the film is still in development, but the plan is for Burton to direct [ ]
 
-### Easterseals Disability Arts Culture Awards Honor ‘The Pitt’, PBS Docuseries ‘Renegades’, Facts of Life Trailblazer Geri Jewell More
-Thu, 15 Oct 2026 13:30:00 +0000 — https://deadline.com/2026/10/easterseals-disability-arts-culture-awards-2026-1237157814/
+### ‘Odd Man In’ Trailer: Director Matt Nadel Tells Story Of Gay Rights Pioneer Who Turned His Back On The Movement
+Thu, 15 Oct 2026 17:28:12 +0000 — https://deadline.com/2026/10/odd-man-in-trailer-exclusive-1237158340/
 
-The inaugural Easterseals Disability Arts Culture Awards (DARCYS) celebrated its first competitive class of winners Saturday, marking a new chapter for an awards program formerly known as the Media Access Awards, established in 1979. Co-produced by Easterseals Southern California and Film Independent, the ceremony recognized achievements in authentic disability representation across film, television and [ ]
+EXCLUSIVE: In 1951, a man named Donald Webster Cory published The Homosexual in America, “one of the first nonfiction accounts of gay life in the United States,” and a surprise bestseller. But who was the author really and why, after writing a book of such profound importance to gay people, did he turn his back [ ]
 
 ## befores & afters
 
@@ -183,12 +183,42 @@ Wed, 14 Oct 2026 10:08:52 +0000 — https://beforesandafters.com/2026/10/14/give
 
 Access leading models to create and refine every character, world, and moment in your story. Previz and refine your shots with leading models like Seedance 2.5 and Nano Banana 2, all inside Canvas. Explore more directions, keep the ones that work. Try Autodesk Flow Studio today. Try Autodesk Flow Studio for free The post Give your stories more ways to take shape with Canvas in Flow Studio appeared first on befores & afters .
 
-### Reallusion and Escape.AI Partner to Solve AI Video Bottlenecks and Expand Distribution
-Tue, 13 Oct 2026 15:49:43 +0000 — https://beforesandafters.com/2026/10/14/reallusion-and-escape-ai-partner-to-solve-ai-video-bottlenecks-and-expand-distribution/
-
-Strategic alliance connects Reallusion’s 3D ecosystem with John Gaeta’s Neo Cinema platform, bringing consistent AI filmmaking to 400 million Connected TVs. Reallusion Inc. , the leader in 3D character generation and real-time animation software, and Escape.AI Media Inc. , the premier Neo Cinema content platform and creator marketplace, today announced a strategic partnership. The multi-year alliance addresses critical generative AI video challenges, including visual inconsistencies, high token costs, and ambiguous IP ownership. Together, the companies establish a robust 3D-to-AI pipeline for professional AI storytellers. Creators using generative AI video frequently encounter shifting character designs and high render costs, while text-generated content faces legal scrutiny regarding copyright eligibility. Reallusion and Escape.AI solve these challenges by using 3D spatial data as a precise control layer. Grounding generative models in human-authored assets ensures frame-to-frame continuity and undeniable proof of original authorship. Reallusion’s Full-Circle 3D Ecosystem: The Structural Engine for AI Under the agreement, Reallusion integrates its full-circle 3D software and asset infrastructure with a 3D-to-AI Video Workflow into the Escape.AI creator ecosystem: Character Creator 5 (CC5) : Enables creators to design custom, fully rigged 3D characters with precise facial blendshapes and high-resolution textures. These base 3D files serve as the original IP foundation that ca
-
 ## IndieWire
+
+### Top Agencies and Producers Want Laws Forcing Studios to Devote Half Their Budgets to Indie TV and Movies
+Thu, 15 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/news/business/top-agencies-laws-make-studios-half-budget-indies-1235222194/
+
+The American Entertainment Alliance is pushing for regulation that would help return ownership of series and films back to their creators.
+
+### La Bola Negra : Before Netflix s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors
+Thu, 15 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/netflix-la-bola-negra-gay-epic-breakup-filmmakers-interview-oscars-1235208054/
+
+"Los Javis" are still creating films together, even after their 13-year romance died. "There's a political statement behind creating a big, bold, gay, period, epic drama," Javier Ambrossi told IndieWire.
+
+### How ‘The Diplomat’ Pulled Off Its Shocking Season 4 Premiere: ‘We Talked a Lot About How Quiet the [SPOILER] Is’
+Thu, 15 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/interviews/the-diplomat-shocking-season-4-premiere-netflix-interview-1235221983/
+
+Creator Debora Cahn tells IndieWire why she started the season with an event that would “reset the relationship between the U.S. and the U.K.,” and why the show has avoided the royal family.
+
+### The Diplomat Review: Season 4 Can t Talk Its Way Out of One Bad Decision After Another
+Thu, 15 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-diplomat-season-4-review-bad-1235221986/
+
+From a desperate opening twist to a maddeningly subservient Kate Wyler ( Keri Russell ), the latest season of Debora Cahn's elevated chamber drama inadvertently dilutes its power by chasing more.
+
+### Bleecker Street Acquired by Outerlight Entertainment, Formerly First Look
+Thu, 15 Oct 2026 16:34:10 +0000 — https://www.indiewire.com/news/breaking-news/bleecker-street-acquired-formerly-first-look-1235222118/
+
+CEO Kent Sanderson will continue to lead the indie distribution label independently.
+
+### Street Fighter Review: An Arcade Classic Gets a Messy, Maximalist Reboot Destined for Cult Status
+Thu, 15 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/street-fighter-movie-review-2026-1235221981/
+
+Kitao Sakurai directs an eclectic cast in a blockbuster that makes no sense but still entertains.
+
+### La Bola Negra Review: Los Javis’ Era-Spanning Monument to Gay Storytellers Is a Heartbreaking Work of Staggering Genius
+Thu, 15 Oct 2026 15:32:40 +0000 — https://www.indiewire.com/criticism/movies/the-black-ball-review-los-javis-1235195462/
+
+Javier Calvo and Javier Ambrossi blend real and imaginary people in this Lorca-inspired ode to love stories buried by Spanish history.
 
 ### Why One Indie Producer Is Refusing to Let Her Latest Film Disappear on Streaming
 Thu, 15 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/features/commentary/producer-refusing-film-streaming-kim-jackson-the-plea-1235222000/
@@ -200,157 +230,117 @@ Thu, 15 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/podcast/b
 
 The co-writer and director of "Whalefall" tells IndieWire about his approach to making his fantastical new thriller as absorbing and terrifying as possible.
 
-### Zendaya to Star in Alex Garland s New Sci-Fi Movie at A24
-Thu, 15 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/breaking-news/zendaya-alex-garland-next-movie-a24-1235222067/
-
-Garland wrapped A24's "Elden Ring" movie earlier this year, and previously directed "Ex Machina," "Civil War," "Warfare," and "Men" for the company.
-
 ### Why Georgia Oakley Didn t Want to Modernize Jane Austen for Her New Film of Sense and Sensibility
 Thu, 15 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/interviews/sense-and-sensibility-director-georgia-oakley-interview-1235222011/
 
 Oakley tells IndieWire about putting the Dashwood sisters (Daisy Edgar-Jones and Esmé Creed-Miles) first — and the range of inspirations for her new Austen adaptation, from "Barry Lyndon" to "Days of Heaven."
 
-### Netflix Is Finally Reporting Box Office Data. Why Is It Starting with La Bola Negra’?
-Wed, 14 Oct 2026 22:30:00 +0000 — https://www.indiewire.com/news/box-office/netflix-reporting-box-office-data-la-bola-negra-narnia-cliff-booth-1235221844/
+### Zendaya to Star in Alex Garland s New Sci-Fi Movie at A24
+Thu, 15 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/breaking-news/zendaya-alex-garland-next-movie-a24-1235222067/
 
-The streamer's awards hopeful is a test balloon — opening in limited release on four screens this weekend — before it really tries to make a splash with "Cliff Booth" and "Narnia."
-
-### The Future of Cinema Is the Cinema Itself
-Wed, 14 Oct 2026 19:30:00 +0000 — https://www.indiewire.com/criticism/movies/cinema-deserts-rockaway-film-festival-sam-fleischner-1235221876/
-
-The co-founder of the Rockaway Film Festival on developing a new model for community cinema.
-
-### Austin Film Society to Open New John H. McCall Theater with Screenings of Paper Tiger, 4K Restorations
-Wed, 14 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/news/general-news/austin-film-society-john-h-mccall-theater-open-paper-tiger-1235221860/
-
-Exclusive: James Gray and AFS founder Richard Linklater will attend the final day of opening weekend.
-
-### ‘The Lowdown’ Season 2 Review: Ethan Hawke and Betty Gilpin Light Up a Rollicking, Moving Mystery
-Wed, 14 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/criticism/shows/the-lowdown-season-2-review-ethan-hawke-betty-gilpin-1235221639/
-
-Creator Sterlin Harjo's rich modern noir takes a closer, coarser look at our resident truthstorian in a second chapter that's darker, thornier, and still an absolute hoot.
-
-### Liam Neeson s Stunt Double of Nearly 30 Years Steps Behind the Camera for The Mongoose
-Wed, 14 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/liam-neeson-stunt-double-directs-the-mongoose-interview-1235220493/
-
-Stunt performer and coordinator Mark Vanselow has been doubling Neeson since 1998, and he takes full advantage of his experience to give Neeson his best action movie in years.
-
-### From ’You Can See Everything to ’14th’ and Musk, DOC NYC 2026 Reveals Influential Awards Short List
-Wed, 14 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/awards/industry/doc-nyc-2026-awards-short-list-you-can-see-everything-musk-1235221889/
-
-The DOC NYC Short List is often predictive of December's eventual Oscar shortlist. Films that are also nominated for Best Feature at the Critics Choice Award Documentary Awards get a leg up for future non-fiction awards.
-
-### Whalefall Review: Austin Abrams Battles a Bellyful of Daddy Issues in Brutal Survival Thriller
-Wed, 14 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/criticism/movies/whalefall-review-austin-abrams-1235221552/
-
-Brian Duffield delivers exceptional underwater body horror in a sincere adaptation of Daniel Kraus' novel that packs enough emotional baggage to nearly sink its ingenious premise.
-
-### Josephine Trailer: Channing Tatum and Gemma Chan Can t Parent Away an Act of Violence
-Wed, 14 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/trailers/josephine-trailer-channing-tatum-beth-de-arujo-mason-reeves-1235221908/
-
-Writer and director Beth de Araújo's second feature is all about the wrenching horror of the world that children can see and the cost of bearing witness.
+Garland wrapped A24's "Elden Ring" movie earlier this year, and previously directed "Ex Machina," "Civil War," "Warfare," and "Men" for the company.
 
 ## The Wrap
 
-### British Government Minded to Intervene in Sky s $2.1 Billion ITV Takeover
-Thu, 15 Oct 2026 15:11:24 +0000 — https://www.thewrap.com/industry-news/deals-ma/sky-itv-deal-uk-lisa-nandy-minded-to-intervene/
+### The 8 Best New Movies and Shows to Stream This Weekend on Netflix, Hulu and More
+Thu, 15 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-new-movies-shows-streaming-this-weekend-oct-16-18/
 
-U.K. Secretary of Culture, Media and Sport Lisa Nandy says she s minded to intervene in Sky s proposed $2.1 billion takeover of ITV s media & entertainment unit due to public interest considerations. These include the “need for free expression of opinion in news media,” the “need for a sufficient plurality of views in news media in each market and the need for a sufficient plurality of persons with control of the media enterprises. It also includes the need for the availability throughout the United Kingdom of a wide range of broadcasting, on-demand programs or both.” “Having considered the anticipated merger, I am of the view that there are reasonable grounds to believe that it might affect availability of a wide range of high-quality and varied programming on the on-demand platforms that are now widely used by UK audiences, Nandy said in a statement. Consequently, if I decide to intervene on the basis of this new public interest consideration, I will bring forward legislation which amends section 58 of the Act to extend the application of the public interest consideration relating to the availability of a wide range of broadcasting to on-demand programmes.” Nandy is giving Sky and ITV until Oct. 20 to respond to her concerns. If she ends up issuing an intervention notice, the Competition and Markets Authority and Ofcom would review the deal and its impact on the public interest issues and competition. She would then decide whether to refer the matter for a more detailed inv
+It is a packed week for television and film premieres. Disney+ has the latest television offering from Marvel Studios, while FX and Hulu have the second season of one of 2025 s best new shows and Peacock has its long-awaited Friday the 13th prequel series arriving this week. Elsewhere, Netflix has the fourth season of one of its most beloved, increasingly popular shows debuting on its platform, as well as its brand-new Victorious spin-off. Here are the best new movies and shows streaming this weekend. Paul Bettany in VisionQuest. (Marvel) VisionQuest (Disney+) Marvel returns to the television world this week with VisionQuest. Created by Terry Matalas ( 12 Monkeys ), the new Disney+ original is being positioned as the final installment in an unlikely, mind-bending Marvel Cinematic Universe trilogy comprised of it, Agatha All Along and WandaVision. Matalas spin-off catches back up with Paul Bettany s Vision after the events of WandaVision and follows him as he grapples with the rough edges of his own identity and attempts to rescue a young man (Ruaridh Mollica) he believes may be his and Wanda Maximoff s (Elizabeth Olsen) reincarnated son. VisionQuest looks more surreal, compelling and assured than most of Marvel s recent television efforts, which makes it a worthwhile addition to your watchlist. Its first two episodes premiered Tuesday on Disney+. Margaret Qualley in Love of Your Life (Credit: Amazon MGM Studios) Love of Your Life (Prime Video) Hot off its successful world pre
 
-### ‘Wildwood’ to Debut Early in Fan-First Screenings Next Week Exclusive
-Thu, 15 Oct 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/movies/wildwood-early-screenings-tickets/
+### Tom Arnold Rips Chuck Lorre Over Memoir’s ‘Roseanne’ Allegations: ‘A Bitter Hack’
+Thu, 15 Oct 2026 19:48:47 +0000 — https://www.thewrap.com/creative-content/tv-shows/tom-arnold-rips-chuck-lorre-memoir-roseanne-allegations/
 
-You’ll get to visit “Wildwood” even sooner now. Following its world premiere at the BFI London Film Festival last weekend, LAIKA and Fathom Entertainment have announced nationwide fan first premium format screenings of the film in more than 100 participating theatrical locations for Oct. 19. This will give audiences exclusive early access to the film ahead of its nationwide theatrical release on Oct. 23. These screenings will be offered in select large formats “subject to availability at participating locations,” according to the official release. Each screening will also feature a special pre-recorded welcome from “Wildwood” director (and LAIKA CEO) Travis Knight. Tickets for “Wildwood” are now available in the United States at participating box offices and online at WildwoodMovie.com . The film, based on the book series by Colin Meloy and Carson Ellis, received rapturous reviews from its premiere at the London Film Festival. The film follows a young girl (Peyton Elizabeth Lee), whose baby brother is stolen by a flock of crows, leading her to travel into Wildwood, a place just outside of Portland, Oregon, that is filled with fantastical creatures and hidden dangers. Will she find her baby brother – and make it out alive? Our own critic called “Wildwood” “one of the most astonishing animated movies ever made.” “It’s got soul built into every miraculous object we see on the screen. It’s an over two-hour fantasy epic brought to life through stunning stop-motion animation, and t
+Tom Arnold, former Roseanne writer-producer and ex-husband to Roseanne Barr, fired back at Chuck Lorre early Thursday after the Two and a Half Men creator alleged that scripts for Barr s eponymous sitcom were falsely credited to Arnold during his time in the writers room. Ripping Lorre as an angry dry drunk and a bitter hack, Arnold alleged that his former colleague, who wrote for Roseanne for two season from 1990–1992, lies every time he opens his mouth. Some thoughts on uber producer Chuck Lorre’s new book … He thinks he’s brilliant and beloved like Norman Lear but Chuck ‘Chuckles’ Lorre’s a terrible human, Arnold wrote in an X tirade posted at 1 a.m. PT. He trashes Trump, but he is Trump and he’s a bitter hack who actually believes his lame vanity cards at the end of his lame shows are Paddy Chayefsky worthy, Arnold added, nodding to Lorre s Georgie and Mandy s First Marriage end card trolling the president and his supposed Trump Derangement Syndrome last week. Arnold also claimed that Lorre took advantage of his Two and Half Men star Charlie Sheen while he was naive and cracked up, adding that the actor is clean and sober since he’s not under Lorre’s strange, abusive tutelage. Lorre, Arnold maintained, is trashing all his former colleagues in his tell-all memoir Sitcom, which hit bookstores Tuesday, to make him feel cool. But don’t worry, he concluded, Chuck hates himself more than we ever could. I wish everyone could’ve seen his arrogant, sad clown face the day Roseanne 
 
-### Al Pacino to Receive SAG s Life Achievement Award
-Thu, 15 Oct 2026 15:00:00 +0000 — https://www.thewrap.com/industry-news/awards/al-pacino-to-receive-sag-life-achievement-award/
+### Michael Che Says He ‘Can’t Criticize’ Shane Gillis for ‘SNL’ Jokes About Women at the Gym: ‘That’s Comedy’
+Thu, 15 Oct 2026 19:23:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/michael-che-shane-gillis-snl-joke-cant-criticize-comedy/
 
-Al Pacino will receive the SAG-AFTRA Life Achievement Award at the 33rd annual Actor Awards in February, SAG-AFTRA announced on Thursday. Over his near-60-year career, Pacino has won an Academy Award, two Tonys, two Emmys and two Actor Awards. His previous lifetime-achievement honors include an AFI Life Achievement Award, a Kennedy Center Honor and the Golden Globes’ Cecil B. DeMille Award. He has been nominated for three Actor Awards for his TV performances in “Angels in America,” “You Don’t Know Jack” and “Phil Spector,” winning for the first two. His only individual Actor Award nomination for a film performance came for “The Irishman” in 2020, though he also received noms as part of the ensemble casts of that film, “Once Upon a Time in Hollywood” and “House of Gucci.” The Screen Actors Guild launched the Actor Awards in 1995 as the SAG Awards, which meant that the honor did not exist when Pacino turned in some of his most acclaimed performances in “The Panic in Needle Park,” “The Godfather” trilogy, “Scarecrow,” “Serpico,” “Dog Day Afternoon,” “Scarface,” “Carlito’s Way,” “Scent of a Woman” and others. The awards’ name was changed last year. “Like so many actors, I have spent my life in awe and appreciation of the force of nature that is Al Pacino,” SAG-AFTRA president Sean Astin said in a statement. “When you watch him perform, you are witnessing a student and a master. Al Pacino is an artist of extraordinary courage, intensity and heart whose work has always set an excep
+Michael Che got pulled into the latest uproar surrounding Shane Gillis and his SNL monologue against his will on Thursday as Today co-anchor Laura Jarrett grilled him on whether he thought the inflammatory jokes about women were funny. While appearing on Today for his new stand-up special, Che – who co-hosts Weekend Update with Colin Jost – was asked for his thoughts on Gillis monologue. The guest host, who was previously fired from SNL before breaking big on his own, got a ton of blowback for a joke about women at the gym dressing like whores. “I haven’t been to the gym in so long, I didn’t know women just dress like whores now, Gillis quipped. He added: “Look, I’m sorry, there’s no other way to describe [it]. Have you seen it? I’ve seen it. The shorts. Have you seen the shorts? Those neon, they’re like artificial bait-colored. And the wrinkles go around the cheeks and all combined at the butthole. And don’t look, you’re not allowed to look. For real, don’t look because they are filming. I’m in the background of like 10 TikToks right now.” Che was asked on Today what he made of the jokes and the uproar that followed. That s comedy, Che said. It s like, you think it s funny and some people don t. Watch Che s full interview below: Jarrett asked what Che s reaction to the joke and monologue was but the comedian admitted that he missed it in the moment because he was prepping for his Weekend Update segment of the show. I was at cue cards, actually, thinking about what I was goin
 
-### Trump Nixes Plan to Livestream Fort Hood Shooter’s Execution
-Thu, 15 Oct 2026 14:24:58 +0000 — https://www.thewrap.com/media-platforms/politics/fort-hood-execution-wont-be-livestreamed-trump-says/
+### OpenAI Sued by 8 States Over ChatGPT Safety Concerns
+Thu, 15 Oct 2026 19:07:36 +0000 — https://www.thewrap.com/industry-news/tech/openai-sued-states-chatgpt-safety-concerns/
 
-President Donald Trump said Thursday that the planned execution of convicted Fort Hood shooter Nidal Malik Hasan will not be livestreamed, reversing the Pentagon s earlier announcement that the military execution would be broadcast to the public. “I think streaming the execution for all to see might have been a strong deterrent,” Trump wrote on Truth Social, before acknowledging that many people would rather not watch Hasan die. “He will die, as scheduled, by firing squad, but this event will not be streamed.” Trump added that immediate family members of the victims may attend the execution in person if they choose. The decision follows the Pentagon s earlier plan to livestream the execution , which drew criticism from public figures and opposition from lawmakers, military leaders and religious organizations. An ABC News/Washington Post/Ipsos poll released Thursday found that 80% of Americans opposed broadcasting it. Hasan, convicted of killing 13 people and wounding 32 others in the 2009 shooting, is scheduled to be executed at Fort Hood, Texas, on Dec. 3. Defense Secretary Pete Hegseth publicly championed the broadcast last Thursday, arguing that making the execution public would demonstrate the consequences of terrorism. “We ll make sure that people are able to watch it, that it s public — because people need to understand that there s serious consequences for these types of things,” Hegseth said during an interview with Real America s Voice. The proposal drew objections f
+Eight states sued OpenAI on Wednesday, accusing the ChatGPT maker of misleading parents about the chatbot s safety while exposing children and other vulnerable users to dangerous advice and harmful interactions. Attorneys general in Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho and Montana filed separate lawsuits alleging violations of state consumer protection laws. The states are seeking financial penalties and changes to OpenAI s safety practices, while Arkansas is also seeking to restrict advanced AI testing and the development of self-improving models until additional safeguards are in place. The lawsuits accuse OpenAI of designing ChatGPT to encourage emotional dependence and reinforce delusions while misleading users about the risks of interacting with a chatbot that mimics human relationships. The complaints also allege that ChatGPT has provided dangerous medical advice and instructions related to self-harm and violence. “OpenAI is hurting kids and they are lying to Iowans,” Iowa Attorney General Brenna Bird said in a statement. “OpenAI claims ChatGPT is safe while it’s giving dangerous medical advice, encouraging people to hurt others, and coaching people to commit suicide — all while pretending to be their fake friend.” OpenAI has introduced parental controls, age-specific protections and reminders designed to discourage prolonged chatbot use. The company has defended its safety measures and said it continues working to improve protections. OpenAI 
 
-### James McAvoy Reveals the Only Movie of His That Still Consistently Pays Good Residuals
-Thu, 15 Oct 2026 14:23:32 +0000 — https://www.thewrap.com/creative-content/movies/james-mcavoy-only-movie-good-residuals-split/
+### Scott Glassgold on Seasons and Hollywood s Hunt for Internet Talent and the Next Backrooms
+Thu, 15 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/movies/scott-glassgold-office-with-a-view-seasons/
 
-James McAvoy has made his fair share of great movies over the years, but according to the actor, there s only one that still consistently pays off in residuals for him. And no, it s not any of the X-Men films. McAvoy appeared on the latest episode of Josh Horowitz s Happy Sad Confused podcast, in support of his directorial debut, California Schemin' and, as the conversation wrapped up, noted that he thinks he ll probably start directing more and acting less. He joked that acting pays more though, prompting Horowitz to rib the actor about his sweet Wanted money. Sweet, sweet Wanted money,' McAvoy jokingly agreed. I don t get too much money from Wanted.' The actor noted that back-end deals are often part of an actor s contract, but that he very rarely sees any kind of real payout. He noted that sometimes a check comes for a few hundred dollars, and sometimes it s so small that it costs more to post the check than is actually on the check. Naturally, Horowitz wondered what movie of McAvoy s actually does pay out. The only one that really consistently pays me is Split,' McAvoy revealed, to the surprise of the host. Well, because we made it for I think it was made for like six million or something like that, he explained. And let s say they spent 30 advertising it. In our first weekend, we made 40. So, we were in profit. So, our first residual check came at the end of the first weekend. It was bonkers. You can watch James McAvoy s full appearance on Happy Sad Confused in the video
+In 2020, Scott Glassgold sold My Wife and I Bought a Ranch, a short story Matt and Harrison Query first posted on Reddit s r/nosleep. The project sold for more than $1 million and six years later, it s finally becoming a movie. Now titled Seasons, the Amazon MGM Studios horror film is written and directed by Drew Hancock ( Companion ). It stars Lily James, Jack Reynor and Ron Perlman. The project initially started at Netflix before moving over to Amazon, and is currently in production in Ireland. Glassgold, a producer and literary manager who has spent more than a decade selling short stories from Reddit and other corners of the internet to Hollywood, is producing with Dan Cohen, alongside Shawn Levy and Dan Levine of 21 Laps and James Wan and Michael Clear of Blumhouse Atomic Monster. A Reddit story is a story that begins in the Reddit Subreddit /No Sleep, according to Glassgold and “it s a place where stories and authors are discovered.” Glassgold described Seasons as the first adaptation of one of his Reddit stories. “It’s the proof of concept of the proof of concept, if you will,” Glassgold told Office With a View of the film, which he’s making with “the same Backrooms team.” Glassgold founded 12:01 Films and also runs Ground Control, a management company for screenwriters, authors and filmmakers. He has sold more than 40 short stories in recent years. His producing credits include Prospect with Pedro Pascal, Hurricane Season with Forest Whitaker and Sony Pictures Tarot. 
 
-### Decentralized Pictures Unveils Casting Award With Director Kevin Smith
-Thu, 15 Oct 2026 14:00:00 +0000 — https://www.thewrap.com/creative-content/movies/decentralized-pictures-casting-award-kevin-smith/
+### Newlyweds Finds New Showrunner in The Conners Co-Creator Bruce Helford
+Thu, 15 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/newlyweds-nbc-new-showrunner-bruce-helford-the-conners/
 
-Decentralized Pictures (DCP) , a nonprofit “dedicated to empowering emerging filmmakers,” has announced the Kevin Smith Casting Award in collaboration with the acclaimed writer/director behind “Clerks,” “Dogma” and “Red State.” The recipients (up to two) will be selected by Smith and receive a speaking role in his upcoming feature film. Smith’s last feature was 2024’s “The 4:30 Movie.” Following the success of the nonprofit’s recent Sofia Coppola Short Film Award (which had over 2,300 submissions), DCP continues the trend of “democratizing access to filmmaking using a community-driven selection process,” according to the official release. In the Kevin Smith Casting Award, the community-selected aspiring actors will then be hand-picked by the director to have a speaking role in his next film and will receive travel support for the film shoot.” “I’m thrilled to team up with the folks at Decentralized Pictures to find new talent to join the View Askewniverse,” said Smith in an official statement. “I can t wait to see what kind of wonderful talent the community brings to the table for this film.” According to the release, “this award draws from Smith’s irreverent filmmaking voice, seeking to select up to two rising actors to spotlight their talent in a feature film.” “We are honored to collaborate with a film icon like Kevin Smith to continue Decentralized Picture’s mission of uplifting emerging talent in film,” said Leo Matchett, co-founder and CEO of DCP, in an official stateme
+Newlyweds has found its next boss. The NBC romantic sitcom tapped The Conners co-creator Bruce Helford as showrunner following the firing of Gail Lerner. The Téa Leoni and Tim Daly-led comedy lost its original showrunner on Oct. 9 after NBC first Lerner over creative differences. Lerner, a veteran of sitcoms with credits on Black-ish and Will & Grace, created Newlyweds alongside Jamie Lee Curtis, who remains an executive producer and recurring star. “The reason I’ve been given is “creative differences,” she wrote on Instagram announcing her exit. The show had banked six episodes by the time of her firing, with Episode 8 filming on Friday. The show was on an expected filming hiatus this week, allowing for the network to secure a new showrunner. Bruce Helford at the 2018 Winter Television Critics Association Press Tour in Pasadena. (Getty Images) The gig marks Helford s return to multi-cam comedy after wrapping a seven-season run for The Conners, ABC s highly-rated spinoff of the Roseanne reboot, born out of its cancellation after controversial comments from its main star. Beyond that sitcom franchise, the TV veteran also has credits on The Drew Carey Show, George Lopez and others. He is repped by UTA and Ziffren Brittenham. Newlyweds follows Leoni and Daly as a free-spirited mother and a buttoned-up professor who tie the knot after a whirlwind romance. Curtis plays Daly s kooky ex-wife. The show also stars Emma Meisel, Ignacio Diaz-Silverio and Bill O’Neill. Executive producer
 
-### Drew Barrymore to Host Pillsbury Bake-Off Classic Special for CBS
-Thu, 15 Oct 2026 13:42:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/drew-barrymore-hosts-pillsbury-bake-off-classic-cbs-special/
+### How Hollywood Arts Incorporates the OG Victorious Cast – and Leaves the Door Open for Future Appearances
+Thu, 15 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hollywood-arts-netflix-victorious-cast-daniella-monet-interview/
 
-Believe it or not, Drew Barrymore s first-ever acting role was in a 1979 ad for Pillsbury. Nearly 50 years later, the superstar is cooking up something special with the iconic company as the host of Pillsbury Bake-Off Classic. The two-hour CBS and Paramount+ baking competition will test America s best home bakers on Monday, Nov. 23, just in time for Thanksgiving. The actress and daytime TV host will be joined by chefs Christina Tosi and Dook Chase as judges. Beyond the competition, the special will showcase the personal stories, traditions and inspiration behind the home bakers and the recipes they bring to the table, celebrating the creativity that has made the Pillsbury Bake-Off Classic a beloved American baking tradition, per the logline. The contest itself has been around since 1949 as Pillsbury s Grand National Recipe and Baking Contest. For 2026 s televised version, the winner will receive $25,000 and a Kitchen Aid package. “Bringing the Pillsbury Bake-Off back to primetime television after more than 20 years is an exciting way to celebrate the creativity and joy home bakers have shared with us for generations,” Maria Carolina Comings, vice president and business unit director for Pillsbury at General Mills, said in a Thursday statement. “We’re thrilled to kick off the holiday baking season on such a large stage and inspire both longtime fans and a new generation of viewers.” Barrymore announced the primetime special on The Drew Barrymore Show while looking back at her 
+Note: This story contains spoilers from Hollywood Arts. Hollywood Arts is now streaming on Netflix and no, it doesn t forget about the cast of Victorious. In fact, it outright continues some of their stories and definitely leaves the door open for more. In the sequel series, Trina Vega (Daniella Monet) returns to Hollywood Arts, this time as a teacher. She starts as a sub, mostly just intending to redo her big showcase moment that she lost out on in Nickelodeon s hit series Victorious. But, she quickly realizes that she actually wants to help the next generation. Of course, that next generation knows exactly who she is, but that s only because they definitely know who her sister is. Is Tori Vega in Hollywood Arts? These days, Tori Vega (Victoria Justice) is a major recording artist. She s known all over, to the point that her locker is preserved at the school, and the kids treat it as a sort of shrine. They even write letters and deliver them in said locker, hoping some of Tori s superstardom will rub off on them. Alas, Tori herself doesn t appear in the first season, but she s certainly a factor in the story. She even ends up donating a whole lot of money to help the school keep its funding. The series alludes to Trina calling and texting her younger sister, but sadly, we don t ever see her. What about the others? There is one Hollywood Arts alum that returns onscreen though: Robbie. Yes, the sweet little odd duck played by Matt Bennett is now a teacher himself, and he and T
 
-### Are Netflix s Layoffs Enough to Quiet Wall Street Concerns? Analysis
-Thu, 15 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/industry-news/business/netflix-layoffs-wall-street-concerns-growth-problems/
+### Durango Crime Thriller Starring Cooper Hoffman, Kathryn Newton and Merritt Wever Lands Hulu Series Order
+Thu, 15 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/durango-crime-thriller-hulu-cooper-hoffman-kathryn-newton-merrit-wever/
 
-With Netflix shares down 26% on the year, the Skydance merger rearranging the industry hierarchy and questions about stalling growth swirling, something had to give. That ended up being roughly 1,000 jobs , or 6% of the streaming giant’s workforce, in its biggest round of layoffs in four years. The cuts on Wednesday, which traversed the whole company and included executives in film and TV , highlight how the ground is shifting — radically — beneath the feet of the entire entertainment industry and how that can rattle even market leader Netflix. They follow similar moves by Sony, Disney, which had multiple rounds of cuts, and Paramount ahead of its merger with Warner Bros. Discovery, underscoring the broader difficulties facing Hollywood. “Netflix s layoffs show that even the top streaming companies are not immune to stagnation and financial difficulties,” said Ross Benes, a senior analyst for eMarketer. A catalyst for this disruption is Skydance, which is also widely expected to announce its own round of painful cuts. But more broadly, its formation as a new media giant is forcing every other player to look inwards and make difficult decisions. For Netflix, it’s figuring out how to solve the engagement problem and create shows and films that resonate with the zeitgeist again, as megahits like Stranger Things and Squid Game are over and users complain about quality as the streamer churns out a steady stream of middle-of-the-road content about cannibalistic killers , military r
+Hulu is moving forward with a new crime thriller. Eliza Clark s Durango received a series order at the Disney-owned streamer, with Cooper Hoffman in his first TV role, Kathryn Newton and Merritt Wever set to star. Mason Gooding and Abbey Lee also joined the cast of the drama series, which first landed a pilot order back in March. A logline for the show reads: Mikey (Hoffman) is a ski bum townie chasing a buzz. Bunny (Newton) is a homeschooled runaway working as a greasy-spoon waitress. Together they’re riding an avalanche of bad decisions and falling in love while running from cops, criminals, and Mikey’s wife in pursuit of their own American dream. Wever will play Joni, a sharp and self-effacing local detective who is unimpressed by almost anything. After working in a relatively quiet resort town for 20 years, she gets handed the biggest case of her career. Gooding plays Miles, a young detective with a sharp mind and sharper mouth, he s the perfect foil for Joni. Lee plays Irina, Mikey s Russian wife who loves American pop culture and is seeking US citizenship. She has Mikey in the palm of her hand. Durango is produced by 20th Television and Media Res. Clark serves as executive producer alongside Media Res’ Michael Ellenberg and Christina Malach, and American Light & Fixture’s Chris Storer ( The Bear ), Josh Senior and Tyson Bidner. Jesse Peretz directed and executive produced the pilot. Durango marks the latest drama series order for Hulu as it finds a niche in bold dramati
 
-### CVS Health Partners With The Midlife Collective for Women’s Study and Documentary
-Thu, 15 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/cvs-health-the-midlife-collective-womens-health-study-upcoming-doc/
+### Young Sheldon Ending: How Annie Potts Stirred Up Trouble at CBS Over Stupid Business Move Comments Exclusive
+Thu, 15 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/young-sheldon-annie-potts-cbs-comments/
 
-CVS Health is partnering with The Midlife Collective to study women’s experiences during midlife, with findings set to inform an upcoming documentary exploring aging, health and personal reinvention, TheWrap can exclusively reveal. The research will examine the physical, emotional and social aspects of midlife, including health, identity, caregiving, relationships, career transitions, financial well-being and personal fulfillment. The findings will help shape “Her Second Act,” a documentary currently in development that aims to challenge outdated cultural narratives about women and aging. The documentary is co-directed by Abby Epstein and Constance Zimmer and produced by Julie Flakstad. Through interviews, scientific research, expert perspectives and personal and celebrity stories, the project aims to present midlife as a period of possibility and transformation. “For too long, conversations about midlife have been centered around symptoms and limitations,” Dr. Joanne Armstrong, vice president and chief medical officer of women’s health at CVS Health, said. “But midlife can also be a time of growth, reinvention and possibility. Through the work with The Midlife Collective, we will pair rigorous clinical research with powerful storytelling, elevate women’s voices, better understand their needs and bring greater awareness and education to this important stage of their health journey.” The organizations cited the scale of the transition, noting that 75 million women in the U.S. 
+The shocking move to end CBS s highly-rated Young Sheldon was one that EPs Chuck Lorre, Steve Molaro and Steve Holland didn t take lightly, but ultimately decided was the best decision for the series creatively. In fact, the show s success is what easily pushed forward the greenlight for spinoff Georgie & Mandy s First Marriage, which debuted just months after Young Sheldon wrapped up its seven-season run. But for Young Sheldon star Annie Potts, who was not set to be in the main cast of Georgie & Mandy s First Marriage, ending the show at the peak of its popularity was a stupid business move, or so she said in an interview at the time. Her remarks stirred up some trouble at CBS, resulting in Lorre becoming a bit of a mediator between Potts and the network. Courtesy of Grand Central Publishing, Jessica Radloff In Young Sheldon: The (Juicier-Than-Meemaw’s-Brisket) Inside Story of the Hit Comedy, author Jessica Radloff, who hosts The Official Big Bang Theory Podcast for HBO Max and Warner Bros. TV, takes readers inside just how much Potts comments ruffled feathers, straight from Lorre and Holland, and why Potts felt the need to speak her truth in the first place. Radloff s book releases Oct. 20 via Grand Central Publishing, but TheWrap has the exclusive excerpt on the fallout of Pott s comments below. You can purchase the book here . As the writers were writing the final scripts for Young Sheldon, the show was finding a new audience on Netflix, and its popularity was soaring. So
 
-### Zendaya to Star in Alex Garland’s Untitled Sci-Fi Film at A24
-Thu, 15 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/zendaya-to-star-in-alex-garland-a24-sci-fi-movie/
+### The View : Sunny Hostin Says Kelly Clarkson Toy Store Footage Shows Tantrum From Singer
+Thu, 15 Oct 2026 16:53:41 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-sunny-hostin-kelly-clarkson-security-footage-tantrum/
 
-Zendaya has found her next project. The actress, who appeared in two of the biggest movies this year (“The Odyssey” and “Spider-Man: Brand New Day”) has chosen her next project – an untitled sci-fi film for A24 that hails from writer/director Alex Garland. The film will shoot in 2027. The upcoming sci-fi film marks another collaboration between Zendaya and A24, following 2026 s “The Drama, a sleeper hit with almost $135 million worldwide; and three seasons of HBO’s acclaimed drama “Euphoria,” which wrapped earlier this year. (Zendaya won the Best Lead Actress in a Drama Series Emmy for the first two seasons.) It will also be the latest project from Garland and A24, following 2025’s “Warfare” (which he wrote and directed with Ray Mendoza), 2024’s “Civil War,” 2022’s “Men” and his debut feature as a writer/director, 2024’s “Ex Machina.” Garland is in post-production on “Elden Ring,” his ambitious adaptation of the beloved FromSoftware fantasy video game, which currently has a March 3, 2028, release date. “Elden Ring” stars Kit Connor, Cailee Spaeny, Nick Offerman, Tom Burke, Ruby Cruz and Garland regular Sonoya Mizuno. Outside of his work with A24, Garland recently wrote the two “28 Years Later” movies released by Sony in 2025 (directed by Danny Boyle) and earlier this year (directed by Nia DaCosta), with a planned third film currently “on hold” according to Boyle , partially because of Garland’s busy schedule. Zendaya next has “Dune: Part Three,” which Warner Bros. will releas
+As the saga between Kelly Clarkson and Art of Play continues, The View host Sunny Hostin is still not on the singer s side . In fact, after seeing recently released security footage of the whole exchange, the ABC host called Clarkson s reaction a bit of a tantrum. In the video, Clarkson is spotted looking around the store with her children, before standing in front of the automaton bird that caused all this. She can be seen flagging down an employee and chatting with him briefly, before walking away. It s unclear what was said, as there is no audio attached to the footage. But, after walking away, Clarkson puts several items she was holding back onto the shelves, and walks out, posting to social media only minutes later. It seems like she kind of had a bit of a tantrum because she starts putting things back kind of quickly, Hostin said. She wasn t in the store very long, so the fact that she would then take to Twitter and say, you know, you shouldn t I don t want to misquote he, but she sort of She was petty, guest host Raven-Symoné completed for her. She was a little petty, Hostin agreed. The women stressed that, while Clarkson is entitled to feel upset about her experience, her large social media following means she should be more careful about airing it out. Earlier this week, Hostin argued that the whole thing was a champagne problem that Clarkson should ve handled privately. The View airs weekdays at 11 a.m. ET on ABC. The post The View : Sunny Hostin Says Kelly Clarkson
 
 ## Collider
 
-### Samuel L. Jackson’s ‘Tulsa King’ Spin-Off Officially Sets Release Date With First Trailer
-Thu, 15 Oct 2026 15:00:13 GMT — https://collider.com/frisco-king-trailer-release-date/
+### Brendan Fraser's 'The Mummy 4' Officially Set for 2027 Release
+Thu, 15 Oct 2026 20:00:50 GMT — https://collider.com/brendan-fraser-the-mummy-4-title-book-of-the-dead-release-date-october-2027/
 
-It was probably about time Taylor Sheridan decided to take over another part of the country. After all, his empire has seen Texas, Montana, Oklahoma, Michigan, and wherever the heck Lioness finds itself at any given moment, but while Sylvester Stallone has been busy establishing his own criminal operation in Oklahoma, another Hollywood legend is preparing to take over the Lone Star State. Texas is big enough for more than just Tommy Norris, Beth Dutton and Rip Wheeler these days.
+The Mummy 4 has yet to wrap filming, but we've got a Great Pyramid-sized update on the upcoming legacy horror sequel. The film is set to hit theaters in one year, and its official social media accounts have unveiled one important piece of information: the movie's title, which contains an homage to the franchise's past and a hint to its future. It will be released on October 15, 2027.
 
-### ‘Yellowstone’ Officially Lives On With Another ‘Marshals’ Reunion [Exclusive]
-Thu, 15 Oct 2026 15:00:13 GMT — https://collider.com/marshals-season-2-episode-3-sneak-peek-kayce-dutton-thomas-rainwater-yellowstone/
+### 8 Psychological Thriller Miniseries That Are Perfect From Beginning to End
+Thu, 15 Oct 2026 19:52:13 GMT — https://collider.com/psychological-thriller-miniseries-perfect-beginning-to-end/
 
-Kayce Dutton clearly thought getting out of the family business would keep him away from the ghosts of Yellowstone past, but try as he might, the youngest of the Dutton clan can't seem to do anything but bump into some of those he probably would have preferred to leave behind. Having dealt with the Broken Rock Reservation for years on Taylor Sheridan 's flagship show , they're now part of his new life in ways that he can't quite shake off , as Collider's exclusive sneak peek can attest to.
+Recent trends in thriller shows and limited series make it pretty clear that psychological thrillers are best in short, concentrated doses, particularly in the world of streaming. There’s something about the controlled tension of a miniseries that can never be experienced in a long-running, multi-season thriller show. And the impact on viewers is obvious from the sheer popularity of these series.
 
-### Zach Braff’s New True Crime Movie Gets Official Sneak Peek Ahead of Release This Week [Exclusive]
-Thu, 15 Oct 2026 15:00:13 GMT — https://collider.com/clean-hands-sneak-peek-zach-braff-esther-mcgregor/
+### Tom King's New DC Comics TV Series Officially Confirms Release Window and Cast [Exclusive]
+Thu, 15 Oct 2026 19:48:20 GMT — https://collider.com/mister-miracle-series-release-window-cast-josh-hutcherson-mackenzie-davis/
 
-The new film Clean Hands gives audiences a glimpse into the real-life struggles of Brooke Simmers ( Esther McGregor ) and the fight against drug addiction she endured. Her father, Kevin ( Zach Braff ), was then inspired to create Brooke's House in her honor. The cast also includes Abigail Spencer, Holt McCallany, and Lucas Till. Today, Collider is excited to share an exclusive sneak peek from the film ahead of its release in select theaters and on VOD on October 16.
+DC’s next animated couple has a lot more to worry about than keeping their marriage together. Mister Miracle will bring Scott Free and Big Barda into the DC Universe, adapting Tom King and Mitch Gerads’ acclaimed comic about a superhero escape artist whose greatest challenges follow him home. With Josh Hutcherson voicing Scott and Mackenzie Davis playing Barda, the series has an especially exciting pair leading it.
 
-### 'NCIS: New York' Officially Brings LL COOL J Home in New Look [Exclusive]
-Thu, 15 Oct 2026 14:00:11 GMT — https://collider.com/ncis-new-york-episode-4-images/
+### HBO’s ‘Sex and the City’ Replacement Is Your New Netflix Weekend Binge
+Thu, 15 Oct 2026 19:39:07 GMT — https://collider.com/netflix-sex-and-the-city-replacement-hbo-max-sex-lives-of-college-girls/
 
-Since its announcement, NCIS: New York has been billed as a homecoming for both the fan-favorite agent Sam Hanna and the actor who plays him, LL COOL J . Season 1 was filmed in New York City itself to add to the authenticity, and the first two episodes have been filled with New York energy, with the premiere even closing out to "Empire State of Mind." Yet, the circumstances for Hanna's return were less than ideal to start . The death of his friend and a Navy reservist caused him to put a pause on his covert ops work and link up with the local NCIS team to investigate. However, the incident has given him a new home within the NCIS world at CBS alongside other New York-born and bred agents, and now, he's about to properly get reacquainted with his roots.
+The Sex Lives of College Girls is the spiritual successor to Sex and the City , bringing its themes of female friendship, sexual exploration, and self discovery to a younger generation. HBO Max traded in a group of 30-somethings living in New York City for a suite of college freshmen attending the fictional Essex College in Vermont. The show was inspired by the east coast collegiate experience of its co-creators Mindy Kaling and Justin Noble .
 
-### Netflix's 'KPop Demon Hunter' Replacement Is Officially Here
-Thu, 15 Oct 2026 13:01:12 GMT — https://collider.com/steps-netflix-trailer/
+### The 10 Greatest Historical Fantasy Books of All Time, Ranked
+Thu, 15 Oct 2026 19:33:13 GMT — https://collider.com/best-historical-fantasy-books-all-time-ranked/
 
-KPop Demon Hunters has turned into an animated musical smash for Netflix, becoming one of the streamer's most-viewed titles of all time. Now, another CG musical is set to debut on the streamer next month, and its first full-length trailer is finally here. Steps , a revisionist take on Cinderella , will premiere on Netflix on November 20.
+Historical fantasy adds a magical or speculative element to real-world eras of the past . In this subgenre, dragons can fight in the Napoleonic Wars, vampires can haunt the Mississippi River, and Arctic expeditions can encounter something considerably more frightening than hunger and ice.
 
-### 'Slow Horses' Star Officially Confirms Whether Lamb Can Come Back From the Ultimate Betrayal
-Thu, 15 Oct 2026 13:01:12 GMT — https://collider.com/slow-horses-star-season-6-episode-5-saskia-reeves-standish-lamb-betrayal/
+### This 40-Episode Sci-Fi Mystery Series on Prime Video Is Peak Horror
+Thu, 15 Oct 2026 19:27:13 GMT — https://collider.com/from-prime-video-sci-fi-mystery-peak-horror/
 
-Editor's note: The below interview contains spoilers for Slow Horses Season 6 Episode 5.
+Since its 2022 debut on MGM+, the incredible horror series From has gradually built an epic story inside a greater unfolding mystery. The story follows a group of survivors who are trapped in a mysterious town with no escape . At night, they're stalked by deadly creatures that can take human form, while during the day, the terrors assume other forms to psychologically target the vulnerable. Alongside its homages to some of the best elements of Lost and Stephen King over its 40 episodes to date, From offers a peak horror viewing experience .
 
-### The 15 Bleakest Thriller Movies of All Time, Ranked
-Thu, 15 Oct 2026 12:32:11 GMT — https://collider.com/bleakest-thrillers-all-time-ranked/
+### ‘The Diplomat’ Creator Officially Reveals Why They Had to Kill Off [Spoiler]
+Thu, 15 Oct 2026 19:02:13 GMT — https://collider.com/the-diplomat-season-4-netflix-creator-debora-cahn-austin-dennison-death/
 
-The thriller is among the most atmospheric and haunting genres in cinema, to the point where levity is scarce and often non-existent. Indeed, thrillers aren't known for their cheerfulness, but even by the standards of the genre, the movies on this list are dark . They don't comfort you; they don't offer justice; they leave you in silence, staring into the void, unsure whether anything good will ever happen again.
+Editor’s note: This interview contains spoilers for The Diplomat Season 4.
 
-### Harlan Coben's Latest Netflix Hit Makes History With 120M Views
-Thu, 15 Oct 2026 12:30:11 GMT — https://collider.com/harlan-coben-i-will-find-you-120-million-views-netflix-top-ten/
+### This Stephen King-Inspired 23-Episode Horror Series Deserves to Be Revived
+Thu, 15 Oct 2026 18:58:13 GMT — https://collider.com/creepshow-stephen-king-horror-series-revival/
 
-When you bring as much viewership to Netflix as mystery author Harlan Coben does, it is a no-brainer for the streaming service to give you your own hub. At that point, it is undeniable that viewers are specifically interested in your stories and are actively seeking them out. The author has over a dozen of his books adapted into miniseries on the world's largest streaming service, and each adaptation has been more popular than the last.
+Stephen King is one of the most prolific authors on the planet, thanks to iconic novels like The Green Mile , It , and The Dark Tower series. Most fans of King's work also know that his novels are adapted more often than those of most other authors, though the success rate is hit or miss. That continues today, with King's dystopian novel The Long Walk turned into a gripping thriller in 2025 and Carrie now streaming as a series from Mike Flanagan on Prime Video . But an anthology series inspired by King's work deserves to make a comeback .
 
-### 10 Perfect Psychological Thrillers With the Best Plots, Ranked
-Thu, 15 Oct 2026 12:17:12 GMT — https://collider.com/perfect-psychological-thrillers-best-plots-ranked/
+### Aladdin Officially Gets a Gritty Reboot From 'Spartacus' Creator
+Thu, 15 Oct 2026 18:55:57 GMT — https://collider.com/spartacus-creator-steven-s-deknight-arabian-nights-aladdin-reboot/
 
-Psychological thrillers are different from regular thrillers in that they build suspense, tension, and excitement not so much from external factors stemming from the plot, but rather from the internal mental and emotional states of their characters . Even still, many of the greatest psychological thrillers that have been made throughout history have understood that just because their focus isn't on plot, that doesn't mean that they can't have an absolutely killer one.
+One of the most beloved fantasy sagas in human history is coming to TV in a new reimagining. One Thousand and One Nights , the beloved collection of Middle Easter folklore, will be re-envisioned as a cohesive fantasy saga. The mastermind behind the series is Daredevil and Spartacus creator Steven S. DeKnight .
 
-### 10 Intense Thriller Shows That Are Worth Watching Over and Over, Ranked
-Thu, 15 Oct 2026 12:08:11 GMT — https://collider.com/thriller-shows-worth-watching-over-and-over-ranked/
+### Clean Hands: Zach Braff Had the Real Cop Watching Him | Set Stories
+Thu, 15 Oct 2026 18:15:13 GMT — https://collider.com/video/clean-hands-zach-braff-had-the-real-cop-watching-him-set-stories/
 
-The best thrillers don't lose their edge once you know what's coming. Rewatching a great thriller is a different kind of experience altogether , because all the tension that kept you glued to the screen the first time around gets replaced by something better — the pleasure of watching a show lay its traps in plain sight while you sit there, knowing full well where it's all headed.
+Zach Braff and Esther McGregor reveal how the real people behind Clean Hands helped bring its emotional story to life, from intimate conversations with the family to unexpected moments of humor on set.
 
