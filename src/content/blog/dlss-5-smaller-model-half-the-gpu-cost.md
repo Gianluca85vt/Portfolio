@@ -21,7 +21,6 @@ artistView:
   misses:
     - "Image quality: Nvidia says quality is held at a similar level, and a similar level after a 24% parameter cut is a claim nobody outside the company has checked yet."
     - "Memory: a resident model competing for the frame buffer is a cost no scene asked for, and it lands in the same month the GeForce VRAM ceiling looks like falling."
-draft: true
 ---
 
 Nvidia published a revised DLSS 5 model on **13 October**. The headline figure
