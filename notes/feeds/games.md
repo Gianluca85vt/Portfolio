@@ -1,6 +1,31 @@
-# Games — harvested 2026-10-15T09:25:32.701Z
+# Games — harvested 2026-10-15T15:19:16.752Z
 
 ## Eurogamer
+
+### Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it
+Thu, 15 Oct 2026 13:48:43 +0000 — https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass
+
+Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem: Fortune's Weave, introducing a string of DLC additions to the tactical RPG starting today, and through into 2027. Read more
+
+### Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists
+Thu, 15 Oct 2026 13:24:51 +0000 — https://www.eurogamer.net/grand-theft-auto-6-launch-trailer
+
+Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more
+
+### Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution
+Thu, 15 Oct 2026 13:06:27 +0000 — https://www.eurogamer.net/castlevania-belmonts-curse-review
+
+In my office, I have a collage of Ordnance Survey maps plastered across my wall. They're from places I've lived - Derbyshire, East London, Bournemouth, Bristol - with cycle routes, country roads, and parks highlighted and circled. It's an atlas of my experiences, a living memoir of the places I've been and the things I've seen. There's magic in a map, its ability to remind you of the paths you've trodden and where you've yet to go. Read more
+
+### DayZ creator Dean Hall says "our industry is rotting from its core" because of big-company "greed", aiming shots at Epic's Unreal and Unity
+Thu, 15 Oct 2026 13:02:51 +0000 — https://www.eurogamer.net/dean-hall-brutal-framework-ksp-epic-unreal-unity
+
+UPDATED 3.30PM BST: Dean Hall has explained more about his idea in an email exchange with Eurogamer, clarifying issues such as whether it uses or welcomes any form of generative AI, while offering some more strongly worded criticisms about Epic's Unreal engine and Unity. Read more
+
+### Riot Games has announced the end League of Legends Classic as an on-going mode, just three months after its release
+Thu, 15 Oct 2026 12:06:25 +0000 — https://www.eurogamer.net/league-of-legends-classic-ending-permanent-three-months
+
+League of Legends Classic , the recreation of an older version of the popular MOBA, will be taken down at the end of the current season. The reason given is simple: most players have moved on to other areas of League of Legends . Read more
 
 ### 007 First Light gets Switch 2 release date, with IO Interactive saying time for "optimisation and performance" was needed
 Thu, 15 Oct 2026 09:17:26 +0000 — https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game
@@ -37,32 +62,32 @@ Wed, 14 Oct 2026 15:14:15 +0000 — https://www.eurogamer.net/guild-wars-2-livin
 
 ArenaNet has announced a major shift in its live service Guild Wars 2 operation today, ditching separate payments for Living World seasonal add-ons and packaging the narrative storylines alongside the MMO's expansions instead. Read more
 
-### "This non-profit will be the 'voice of the gamers'" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure
-Wed, 14 Oct 2026 14:00:16 +0000 — https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit
-
-Elsewhere on the site , you can read a big reveal piece that outlines the new game from former Disco Elysium devs under the name of Summer Eternal - an "incendiary RPG" fusing the best bits of text-heavy isometric role-playing games with the world-building and player agency of an immersive sim. It's bold, it's ambitious, and it's still in development, and if it all comes off, it could be something really special. Read more
-
-### GTA 6 leaker's latest video allegedly shows scenes from the final mission, as they indicate the leaks may have come to an end
-Wed, 14 Oct 2026 13:06:10 +0000 — https://www.eurogamer.net/gta-6-cyberleek-ending-crypto-coin-crash
-
-Cyberleek, the leaker who's been releasing footage from Grand Theft Auto 6 for weeks now, is seemingly done posting leaks. Cyberleek released a new - seemingly final - video today which supposedly shows parts of the game's ending. Read more
-
-### Ex-ZA/UM developers reveal Red Rooster, an "incendiary RPG" that is very intentionally not trying to be a "Disco Elysium successor" or "Disco-like"
-Wed, 14 Oct 2026 13:00:00 +0000 — https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg
-
-Back in 2024, we heard about the formation of Summer Eternal : a new studio composed of Disco Elysium writer and world-builder, Argo Tuulik, and other veteran ZA/UM staff such as Dora Klind&zcaron;i&cacute;, Anastasia Ivanova, and Michael Oswell. Aleksandar Gavrilovi&cacute;, secretary of the Croatian Game Development Alliance, and Lenval Brown, Disco Elysium's narrator, are also part of the crew. Read more
-
-### No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake
-Wed, 14 Oct 2026 13:00:00 +0000 — https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview
-
-I honestly can't tell you how many times I've completed The Legend of Zelda: Ocarina of Time , let alone how many hours I've spent in its bucolic version of Hyrule. Though, when I told my Mum about the upcoming remake she said, 'Oh the one with the music,' in a tone I've decided to interpret as delight. I think that says a lot about how much of a fixture this game was in my life, in our household. Read more
-
-### The Legend of Zelda: Ocarina of Time's infamous tutorial owl seemingly won't trap you in conversation in the Switch 2 remake
-Wed, 14 Oct 2026 13:00:00 +0000 — https://www.eurogamer.net/legend-zelda-ocarina-of-time-switch2-remake-owl
-
-It looks like the owl known Kaepora Gaebora - part-tutorial, part-tip giver - will be far less talkative in the Nintendo Switch 2 remake of The Legend of Zelda: Ocarina of Time . Read more
-
 ## GamesIndustry.biz
+
+### DayZ creator Dean Hall releases open-source game development framework Brutal
+Thu, 15 Oct 2026 14:31:28 +0000 — https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
+
+Industry veteran Dean Hall has rolled out Brutal, an open-source game development framework made in collaboration by two of his companies, Ahwoo and RocketWerkz. Read more
+
+### Reforj developer 4J Studios announces PC release date at Game Republic New Horizons
+Thu, 15 Oct 2026 13:25:49 +0000 — https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons
+
+4J Studios has announced that its open-world survival sandbox Reforj will be available on PC via a closed playtest starting in Q1 2027. Read more
+
+### An oral history of the Tomb Raider game no one wanted to make
+Thu, 15 Oct 2026 12:30:00 +0000 — https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
+
+The 30th anniversary of Tomb Raider is this month, and a new book delves into its late-1990s heyday. The Making of Tomb Raider: 1997-2000 by Daryl Baxter covers a difficult development period for the series. Read more
+
+### House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign
+Thu, 15 Oct 2026 11:08:03 +0000 — https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
+
+Melbourne-based developer House House will not release its co-op hit Big Walk on Xbox, citing support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) campaign . Read more
+
+### Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page
+Thu, 15 Oct 2026 09:35:29 +0000 — https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page
+
+Epic Games has released a beta version of its new launcher, claiming it is 46% faster than Steam from cold start to the store page. Read more
 
 ### Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of "proposed voluntary departure plan"
 Thu, 15 Oct 2026 08:09:37 +0000 — https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan
@@ -99,36 +124,46 @@ Wed, 14 Oct 2026 14:00:00 +0000 — https://www.gamesindustry.biz/how-to-run-an-
 
 So far in this series, we've looked at how to define what your studio is and what it stands for , and how to set goals that give your studio direction on both a long-term and short-term horizon . This week, we're getting into something a little less exciting, but just as important: the problems. Read more
 
-### Casual game marketplace Legacy Games to close online store this December
-Wed, 14 Oct 2026 13:42:31 +0000 — https://www.gamesindustry.biz/casual-game-marketplace-legacy-games-to-close-online-store-this-december
-
-Casual game marketplace Legacy Games has announced it will close its online store on December 31, 2026. Read more
-
-### Rockstar's next game won't take eight years to make: "The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly"
-Wed, 14 Oct 2026 12:26:32 +0000 — https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly
-
-Rockstar Games has more than doubled its workforce to develop Grand Theft Auto 6, and is adamant that it won't take another eight years to complete its next title. Read more
-
-### ESA flags retro console maker Anbernic for inclusion on US government's Notorious Market List
-Wed, 14 Oct 2026 09:59:16 +0000 — https://www.gamesindustry.biz/esa-flags-retro-console-maker-anbernic-for-inclusion-on-us-governments-notorious-market-list
-
-The Entertainment Software Association (ESA) has recommended that retro console maker Anbernic be added to the US government's Notorious Market List. Read more
-
-### Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio
-Wed, 14 Oct 2026 08:55:05 +0000 — https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio
-
-Ubisoft has proposed the closure of Finnish studio RedLynx, creator of the Trial franchise, and major job losses at Ubisoft Singapore, lead developer of the ill-fated Skull and Bones. The cuts are the latest in the firm's ongoing restructuring, as it seeks to dramatically reduce costs and reform into a new Creative Houses structure . Both studios had been placed into the Creative Network in that organization, providing central support to other teams. Read more
-
-### Xbox CEO reportedly warns firm will "not survive" if it only relies on existing franchises
-Wed, 14 Oct 2026 07:44:27 +0000 — https://www.gamesindustry.biz/xbox-ceo-reportedly-warns-firm-will-not-survive-if-it-only-relies-on-existing-franchises
-
-Xbox boss Asha Sharma has reportedly warned that the organisation will "not survive" if it relies on existing game franchises. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### GTA 6 s Original Music Score Is Composed by Excellent French Electronic Duo Justice
+Thu, 15 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6s-original-music-score-is-composed-by-excellent-french-electronic-duo-justice
+
+What a cross-over. If you're a fan of electronic music, you'll probably over the moon to learn that Justice are behind GTA 6's original score. It's an incredibly high profile collaboration; Justice are one of the biggest in the biz, with a catalogue of fantastic albums, singles, and productions stretching back into the mid 2000s. Read the full article on pushsquare.com
+
+### Viral Hit Supermarket Simulator Finally Opens Its Doors on PS5 This November
+Thu, 15 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/viral-hit-supermarket-simulator-finally-opens-its-doors-on-ps5-this-november
+
+Physical edition on the way. You may recall last year that Supermarket Simulator — the viral hit management sim — was announced for release on PS5. It's been awfully quiet for a while now, but it's now been confirmed exactly when the game is heading to consoles. Read the full article on pushsquare.com
+
+### Nobody Loves Cars More Than Polyphony Digital, and Its New Gran Turismo 7 Movie Proves It
+Thu, 15 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/nobody-loves-cars-more-than-polyphony-digital-and-its-new-gran-turismo-7-movie-proves-it
+
+Just a six minutes and 40 seconds opening movie. Gran Turismo 7 developer Polyphony Digital really, really loves cars. You would hope it does, anyway, since it makes one of the most successful racing series of all time. However, the Japanese team is obsessive about them, and it's proud of it. There's no better display of that in its brand new Gran Turismo 7 opening movie, which has been updated and refreshed to coincide with the release of the PS5, PS4 game's Spec IV update today. Read the full article on pushsquare.com
+
+### GTA 6 Launch Trailer Available to Watch Right Now, Captured on PS5
+Thu, 15 Oct 2026 13:10:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-launch-trailer-available-to-watch-right-now-captured-on-ps5
+
+Just gotta get through it. Rockstar Games has released the launch trailer for GTA 6 , giving us one more fresh look at the game ahead of its arrival. Watch it here: Read the full article on pushsquare.com
+
+### GTA 6 Barely Makes the Cut for The Game Awards Game of the Year Vote
+Thu, 15 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-barely-makes-the-cut-for-the-game-awards-game-of-the-year-vote
+
+Imagine if it didn't. The Game Awards will of course take place again this year, and now that we're creeping towards the big event, details on the voting process have started to emerge. As you may already know, nominees are decided by a select jury, made up of media and influencers from across the world — but there needs to be cutoff criteria that determines which games are actually eligible. Read the full article on pushsquare.com
+
+### Game of the Month: Onimusha: Way of the Sword (September 2026)
+Thu, 15 Oct 2026 12:15:00 GMT — https://www.pushsquare.com/features/game-of-the-month-onimusha-way-of-the-sword-september-2026
+
+As voted by you. The time has come to vote for Push Square's official Game of the Month for September 2026 — and this particular poll promises to be a doozy. That's because last month's PS5 release schedule was stacked . We struggled to review everything and you've probably struggled to play everything, but as always, there can only be one winner. Read the full article on pushsquare.com
+
+### PS Plus Premium Members Treated to More New PS5 Demos Next Week
+Thu, 15 Oct 2026 11:45:00 GMT — https://www.pushsquare.com/news/2026/10/ps-plus-premium-members-treated-to-more-new-ps5-demos-next-week
+
+Try these PS5 games for Halloween. Should you want to get in the mood for Halloween a week ahead of time, Sony is providing PS Plus Premium users with a two new Trials on the service's top tier, all for PS5 horror games. All available from Tuesday, 20th October 2026, members can sample the following: Read the full article on pushsquare.com
 
 ### First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed
 Wed, 14 Oct 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed
@@ -155,42 +190,12 @@ Wed, 14 Oct 2026 19:15:00 GMT — https://www.pushsquare.com/news/2026/10/hideo-
 
 Joy division. Hideo Kojima posed for photos outside Sony City this week – about a month after PlayStation dramatically axed his upcoming espionage action game, Physint . In one of the most dramatic turnarounds in gaming industry history , Xbox swooped in to save Metal Gear Solid spiritual successor, leaving fans agitated at Sony’s more recent decisions. Read the full article on pushsquare.com
 
-### Study Finds Almost Half of PS5 Disc Backlash Came from Fake Accounts
-Wed, 14 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/study-finds-almost-half-of-ps5-disc-backlash-came-from-fake-accounts
-
-No disc, no buy? A really fascinating piece of research published by Cyabra reveals almost half of the replies to official PlayStation channels spotlighting August’s blackout campaign were “inauthentic” – or, in other words, fake. In the aftermath of its decision to stop manufacturing physical games in 2028 , fans mobilised to create a boycott at the end of August, which encouraged players to disconnect their consoles and stay offline. Read the full article on pushsquare.com
-
-### PS5 Pro Easily the Best Place to Play The Witcher 3 Remastered on Console, Finds Digital Foundry
-Wed, 14 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-pro-easily-the-best-place-to-play-the-witcher-3-remastered-on-console-finds-digital-foundry
-
-But there's still room for improvement. Our friends over at Digital Foundry have weighed in on The Witcher 3 Remastered , putting the recently re-released RPG through its paces across PS5, PS5 Pro, Xbox Series X|S, and Nintendo Switch 2. These tests were conducted after the remaster had received Patch 5.01 post-launch, which promised to improve overall performance, particularly in terms of frame rate. Read the full article on pushsquare.com
-
-### Sony s Missing First-Party Games Have Returned to PS Store in the US
-Wed, 14 Oct 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-missing-first-party-games-have-returned-to-ps-store-in-the-us
-
-Update: back to normal. Over the last few days or so, it's been discovered that a handful of PlayStation's own, first-party games have mysteriously disappeared from the North American PS Store. It's not really known why, but games such as God of War 3 Remastered , Uncharted: The Nathan Drake Collection , and Knack 2 are currently not available for purchase. Read the full article on pushsquare.com
-
-### Call of Duty Can t Let Go of Shipment, Added to Modern Warfare 4 Just Days After Release
-Wed, 14 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/call-of-duty-cant-let-go-of-shipment-added-to-modern-warfare-4-just-days-after-release
-
-Shipment map on 27th October. Call of Duty: Modern Warfare 4 will be fully out and available on PS5 from 23rd October 2026, and just four days later, it will have its default multiplayer map that basically overrules every other new location in the game: Shipment. Exactly like the Treyarch entries, which eventually just become another way of playing Nuketown, the Infinity Ward titles have been all about Shipment, dating back to Call of Duty 4: Modern Warfare . Read the full article on pushsquare.com
-
-### Mini Review: Toy Story: Retro Roundup (PS5) - This Fun Toy Box Provides a Nostalgic Buzz
-Wed, 14 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/reviews/ps5/toy-story-retro-roundup
-
-A child's play thing. Toy Story: Retro Roundup is a collection of video games from the franchise's early days, plus A Bug's Life as a bonus throw-in. While not everything here is particularly great, there are more than enough nostalgia punches and modern-day features to feel like you're getting your money's worth. Read the full article on pushsquare.com
-
-### 9 PS Plus Extra, Premium Games for October 2026 Announced
-Wed, 14 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/9-ps-plus-extra-premium-games-for-october-2026-announced
-
-Spooky scary. Sony has officially announced the full lineup of games heading into PS Plus Extra and PS Plus Premium for the month of October 2026. Here's the full rundown: Read the full article on pushsquare.com
-
-### Review: Tales of Eternia Remastered (PS5) - Classic PlayStation RPG Shows Its Age
-Wed, 14 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/reviews/ps5/tales-of-eternia-remastered
-
-Third time's the charm. Growing up, Tales was one of my favorite Japanese RPG series, one that I wished got as much attention as Final Fantasy and Persona . With the success of the latest entry, 2021’s Tales of Arise , Bandai Namco has sought to port some of the older games to modern platforms. Many of them have aged well, including Graces f, Xillia , and Berseria . Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam
+Thu, 15 Oct 2026 14:00:00 GMT — https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam
+
+The roguelike RPG is no longer in Steam Early Access, but its upcoming DLC Diaspora will be, marking untrodden ground for the in-development program.
 
 ### Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore
 Wed, 14 Oct 2026 22:08:51 GMT — https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore
@@ -202,184 +207,216 @@ Wed, 14 Oct 2026 20:24:47 GMT — https://www.gamedeveloper.com/programming/no-m
 
 Developers working on the upcoming Star Wars and Marvel shooter have been reportedly instructed to lean heavily on AI, especially during the creation of code and art.
 
-### Owlchemy CEO: VR is still an emerging market because it hasn't passed the 'cafe test'
-Tue, 13 Oct 2026 13:15:00 GMT — https://www.gamedeveloper.com/extended-reality/owlchemy-ceo-vr-is-still-an-emerging-market-because-it-hasn-t-passed-the-cafe-test-
-
-Andrew Eiche also claims layoffs are becoming commonplace within the VR industry because some companies refuse to meet audiences with what they want.
-
 ### Game Conference MX (GCMX)
 no date — https://www.gamedeveloper.comwww.gameconferencemx.com
 
-### gamescom
-no date — https://www.gamedeveloper.com/keyword/-event-gamescom
-
 ## VGC
 
-### Xbox reveals the Nano Controller, a smaller and cheaper alternative with a rechargeable battery
-Thu, 15 Oct 2026 08:47:47 +0000 — https://www.videogameschronicle.com/news/xbox-reveals-the-nano-controller-a-smaller-and-cheaper-alternative-with-a-rechargeable-battery/
+### WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures
+Thu, 15 Oct 2026 15:16:19 +0000 — https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/
 
-The $50 controller will be available from November… Source
+The WWE 2K26 X Street Fighter Elite Pack adds new special moves and cosmetic parts… Source
 
-### October s PS Plus Game Catalog titles include Mafia: The Old Country and Tales of Arise
-Wed, 14 Oct 2026 15:50:40 +0000 — https://www.videogameschronicle.com/news/octobers-ps-plus-game-catalog-titles-include-mafia-the-old-country-and-tales-of-arise/
+### The Call of Duty tax means games media doesn t cover COD the way it used to, Activision says
+Thu, 15 Oct 2026 14:22:08 +0000 — https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/
 
-Horizon Forbidden West is also returning, while Dino Crisis 2 joins the Classic Catalog… Source
+Its large audience has "become status quo" and people forget the work that goes into each entry, it' Source
 
-### Epic says it s vibe coded its new Epic Games Launcher with AI, because programming is hard
-Wed, 14 Oct 2026 15:36:17 +0000 — https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/
+### Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art
+Thu, 15 Oct 2026 14:15:33 +0000 — https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/
 
-The new launcher is "light on features" but at least has a shopping cart… Source
+The original 2011 was pulled from sale due to the new version of the game being released… Source
 
-### Gran Turismo is getting a new limited edition PS5 DualSense controller
-Wed, 14 Oct 2026 14:16:37 +0000 — https://www.videogameschronicle.com/news/gran-turismo-is-getting-a-new-limited-edition-ps5-dualsense-controller/
+### No offense to Zelda but GTA 6 and COD Modern Warfare 4 are the two biggest games of the year , Activision exec says
+Thu, 15 Oct 2026 13:44:19 +0000 — https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/
 
-The latest special edition DualSense is themed after PlayStation's flagship racer… Source
+Modern Warfare 4 is out next week… Source
 
-### After two hours playing The Legend of Zelda: Ocarina of Time remake, it s fired a Hookshot into my heart again
-Wed, 14 Oct 2026 13:00:55 +0000 — https://www.videogameschronicle.com/features/after-two-hours-playing-the-legend-of-zelda-ocarina-of-time-remake-its-fired-a-hookshot-into-my-heart-again/
+### Rockstar has revealed the official launch trailer for Grand Theft Auto 6
+Thu, 15 Oct 2026 13:06:51 +0000 — https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/
 
-Nintendo looks set to remind everyone why Link's N64 adventure is many people's favourite game of all time… Source
+The 90-second trailer features original music from Justice… Source
 
-### Viral co-op hit Peak is seemingly coming to PS5
-Wed, 14 Oct 2026 12:29:02 +0000 — https://www.videogameschronicle.com/news/viral-co-op-hit-peak-is-seemingly-coming-to-ps5/
+### RE4 Separate Ways: Cliffside Door Symbol puzzle
+Thu, 15 Oct 2026 12:56:25 +0000 — https://www.videogameschronicle.com/guide/re4-separate-ways-cliffside-door-symbol-puzzle/
 
-The game has been rated by the North American ratings board… Source
+Solve Separate Ways' first big puzzle in Resident Evil 4 Remake… Source
 
-### Rockstar says its next game after Grand Theft Auto 6 won t take another eight years to make
-Wed, 14 Oct 2026 10:57:10 +0000 — https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/
+### The Switch 2 version of 007 First Light finally gets a new release date
+Thu, 15 Oct 2026 12:27:32 +0000 — https://www.videogameschronicle.com/news/the-switch-2-version-of-007-first-light-finally-gets-a-new-release-date/
 
-The engine, tools and team built during GTA 6 will make the next project "go more sideways than upwards" Source
+IO's Bond game is set to release on Switch 2 a year after it was originally supposed to… Source
 
-### God of War Laufey s $150 Collector Box has been revealed, doesn t include a copy of the game
-Wed, 14 Oct 2026 10:28:21 +0000 — https://www.videogameschronicle.com/news/god-of-war-laufeys-150-collector-box-has-been-revealed-doesnt-include-a-copy-of-the-game/
+### RE4 Remake: Dining Hall table puzzle guide
+Thu, 15 Oct 2026 12:12:33 +0000 — https://www.videogameschronicle.com/guide/re4-remake-dining-hall-table-puzzle-guide/
 
-The box includes a statue, a mini artbook and a deck of cards… Source
+How to solve Resident Evil 4 Remake's Dining Hall table puzzle… Source
 
-### Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff
-Wed, 14 Oct 2026 09:04:52 +0000 — https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/
+### Sucker Punch veterans on Ghost of Yotei Complete Edition, showing a different side to Atsu, and the history of the studio
+Thu, 15 Oct 2026 12:01:31 +0000 — https://www.videogameschronicle.com/features/interviews/sucker-punch-veterans-on-ghost-of-yotei-complete-edition-showing-a-different-side-to-atsu-and-the-history-of-the-studio/
 
-RedLynx doesn't currently have a project and has been deemed unsustainable… Source
+Joanna Wang and Parker Hamilton have over three decades of experience at the developer… Source
 
-### Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title
-Wed, 14 Oct 2026 08:49:58 +0000 — https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/
+### RE4 Remake: Church Stained Glass puzzle guide
+Thu, 15 Oct 2026 11:50:47 +0000 — https://www.videogameschronicle.com/guide/re4-remake-church-stained-glass-puzzle-guide/
 
-All three, including Monster Rancher Advance and Kururin Paradise… Source
+How to solve the Church's stained glass projection puzzle in Resident Evil 4 Remake… Source
 
 ## Polygon
 
-### Pokémon Celebrates the Holidays Early with a Festive Merch Collection
-Thu, 15 Oct 2026 09:05:38 GMT — https://www.polygon.com/pokemon-seasonal-merch-holiday-2026/
+### Epic Games Has 2 New Free PC Games That Are Only Available for a Limited Time
+Thu, 15 Oct 2026 15:16:15 GMT — https://www.polygon.com/epic-games-store-free-games-10-15-2026-download/
 
-It's still technically spooky season, but as soon as Nov. 1 rolls around, it's time to start thinking about the holidays. Pokémon is way ahead of you and has already released its new holiday collection. Pokémon's 2026 holiday collection features 68 new items ranging from gift-wrapping material to cozy apparel and decorations.
+The Epic Games Store is offering two great free PC games this week. For a limited time, you can grab a rubber hose animation horror game and a spy-themed puzzle game.
 
-### 26 Years Later, Charlie Brown's Final Quote Is Still a Heartbreaking Comic Strip Classic
-Thu, 15 Oct 2026 09:00:17 GMT — https://www.polygon.com/charlie-brown-last-strip-peanuts/
+### ‘Grand Theft Auto 6’ Is Officially Eligible for the 2026 Game Awards
+Thu, 15 Oct 2026 15:07:44 GMT — https://www.polygon.com/grand-theft-auto-6-the-game-awards/
 
-Charles Schulz's retirement took the world a little by surprise. Following a period of failing health, Schulz announced on Dec. 14, 1999 that he would end Peanuts . He could no longer see clearly, he'd been diagnosed with colon cancer, and he needed to focus on his health. As a result, Peanuts came to a relatively sudden stop nine weeks later, after newspapers had worked through Schulz's existing backlog.
+With 2026’s most anticipated game, Grand Theft Auto 6 , releasing so late in the year, many have wondered whether it would make the cutoff for the game industry’s biggest celebration of pomp and circumstance. We now have an answer.
 
-### Don't ask Greg Davies about his favorite Taskmaster tasks
-Thu, 15 Oct 2026 08:39:25 GMT — https://www.polygon.com/video/don-t-ask-greg-davies-about-his-favorite-taskmaster-tasks/
+### JRPG Fans Will Be Eating Extremely Well in 2027
+Thu, 15 Oct 2026 15:00:18 GMT — https://www.polygon.com/jrpg-2027-release-dates/
 
-There's a reason you'll only get one answer.
+Release date: Jan. 15, 2027
 
-### Goodbye 'Carrie,' Stephen King's Most Faithful Movie Adaptation Is Officially Back on Streaming
-Thu, 15 Oct 2026 08:00:20 GMT — https://www.polygon.com/stephen-king-doctor-sleep-paramount/
+### DC Boss Officially Reveals Mister Miracle Show’s Stars
+Thu, 15 Oct 2026 14:49:43 GMT — https://www.polygon.com/dc-mister-miracle-animated-series-casting-announced-josh-hutcherson/
 
-Stephen King has never been shy about how much he hated director Stanley Kubrick’s adaptation of his 1977 novel, The Shining . Although it's easily one of the best horror films of all time, Kubrick’s vision of Jack Torrance and the Overlook Hotel really rubbed King the wrong way.
+Considering James Gunn has made Tom King one of the architects of the new DC Universe , it's no surprise that several of the writer's comic runs are being adapted for the screen. We have already seen his celebrated 2021 miniseries Supergirl: Woman of Tomorrow turned into a 2026 film that received far less praise. Up next is an animated series based on King's 2017-2019 run of Mister Miracle . While news about the show has been sparse since it was announced last year, we now know that DC has cast the show's heroes.
 
-### How to defeat Medusa in Castlevania Belmont's Curse
-Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-medusa-how-to-defeat-prophetess-location/
+### 'Lullaby' quest walkthrough in Valor Mortis
+Thu, 15 Oct 2026 14:02:46 GMT — https://www.polygon.com/valor-mortis-lullaby-quest-walkthrough-how-to-complete/
 
-Medusa , also known as the Prophetess , is one of the first three bosses in Castlevania: Belmont's Curse that you face. You must defeat her to obtain the keys to open the gate to the catacombs. The game won't tell you where you can find these enemies, forcing you to explore every room in the initial maps for hints that will lead you to the boss rooms.
+To complete the "Lullaby" quest in Valor Mortis , you must find a way to soothe a crying baby's ghost. This Chapter 3 side quest involves some backtracking, which makes it extra hard to find the key item. But although this task is tricky and unsettling, the rewards are sweet.
 
-### How to kill enemies with a whip attack in Castlevania Belmont's Curse
-Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-whip-attack-how-to-work-of-mercy/
+### All sprites in Fortnite Chapter 7 Season 4
+Thu, 15 Oct 2026 13:59:40 GMT — https://www.polygon.com/fortnite-chapter-7-season-4-sprite-list-abilities-c7s4/
 
-You must kill enemies with a whip attack in Castlevania: Belmont's Curse if you want to upgrade the Fallen arcana . Arcanas are spells that cost mana, and you can upgrade them by spending Blessing points, which are earned from Works of Mercy tasks. Completing these tasks will force you to use each spell in different situations.
+Sprites are back again in Fortnite Chapter 7 Season 4 , though they're sporting a pixel-y gamer look to coincide with the "Override" season. Just like last season, these sprites can be found around the map, and you can equip them to gain bonus effects to help you get that sweet Victory Royale. Sprites can be found through cheat codes , which are arrow key codes scattered across the map.
 
-### How to get to the top of the Prison Tower in Castlevania Belmont's Curse
-Thu, 15 Oct 2026 04:01:18 GMT — https://www.polygon.com/castlevania-belmonts-curse-prison-tower-location-warrior-carpenters-crane/
+### The Beekeeper 2 Brings Back Jason Statham in First Official Trailer
+Thu, 15 Oct 2026 13:40:20 GMT — https://www.polygon.com/the-beekeeper-2-trailer-jason-statham-2027/
 
-At the top of the P rison Tower in Castlevania: Belmont's Curse , you will find the Warrior , one of the initial bosses you must fight to open the gate to the catacombs. To access the floors in the lower part, you must use the adjacent buildings to lower the gates that serve as platforms and swinging spots. However, to pass over the Upper Tower and reach the Roof of the Tower area, where the boss awaits, your acrobatic skills won't help you.
+Jason Statham will return as ass-kicking, name-taking super-assassin Adam Clay in The Beekeeper 2 . In the first trailer for next year's sequel to 2024's surprise-hit revenge thriller The Beekeeper , Jeremy Irons' character explains that the Beekeepers have gone rogue and Clay "is the only one who can stop them." Of course!
 
-### 8 Best Science Fantasy Books of the 21st Century
-Thu, 15 Oct 2026 04:00:22 GMT — https://www.polygon.com/best-science-fantasy-books-21st-century/
+### GTA 6's Official Launch Trailer Teases Wild Sex Scenes
+Thu, 15 Oct 2026 13:16:35 GMT — https://www.polygon.com/gta-6-launch-trailer-sex-scene-jason-lucia-shower-youtube-video/
 
-The legendary science fiction writer Arthur C. Clarke once said, “Any sufficiently advanced technology is indistinguishable from magic.” The lines between sci-fi and fantasy blur in some of the most popular entertainment franchises like Star Wars , Warhammer 40,000 , and the Marvel Cinematic Universe , along with classic book series like Dune and Dragonriders of Pern. If you’re looking for a new world to explore and can’t decide if you want it filled with spaceships or dragons, you don’t necessarily have to choose. Just pick something from this list of the best science fantasy books of the 21st century.
+We are 35 days out from the release of Grand Theft Auto 6 , and Rockstar is drumming up hype for the game with an official launch trailer. The video provides a fresh look at the Florida-inspired state Leonida, as well as Jason and Lucia's story. It also features some, shall we say, heated moments between the two lovers .
 
-### 'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’
-Thu, 15 Oct 2026 02:02:11 GMT — https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/
+### 2023’s Best Shooter Gets a Killer Sequel — And You Can Play Right Now
+Thu, 15 Oct 2026 13:00:17 GMT — https://www.polygon.com/el-paso-elsewhere-2-preview/
 
-Garry Newman, creator of the hugely popular Garry’s Mod , has admitted that his studio’s spiritual successor, S&box , is struggling and announced a series of sweeping changes intended to turn the project around.
+In 2023, Strange Scaffold had a breakthrough moment thanks to El Paso, Elsewhere . The Max Payne-inspired vampire shooter launched as an indie darling, helping an eclectic studio find the right audience for its games. It was even successful enough to pique the interest of LaKeith Stanfield, who was tapped to star in a movie adaptation announced in 2024. So it’s no surprise that Strange Scaffold is returning to that world next year with El Paso, Elsewhere 2 .
 
-### The 10 Most Underrated RPGs of the Last Decade, Ranked
-Thu, 15 Oct 2026 01:30:15 GMT — https://www.polygon.com/best-rpgs-underrated-last-decade/
+### Steam’s Best Way To Play New Games Officially Comes Back in 4 Days
+Thu, 15 Oct 2026 12:00:15 GMT — https://www.polygon.com/steam-next-fest-october-edition-fyi/
 
-There’s something about the RPG genre. These games tell amazing stories players want to experience time and time again, are populated by memorable characters, and often explore deep themes — even if their heroes do tend to have memory problems, spiky hair, and swords the size of New Jersey.
+I’m the kind of player who loves to dabble in a lot of different games rather than go deep into a select handful every year. The video game medium is just too wide and vibrant to ignore such a strange, diverse array of games. For that reason, nothing gets me more excited than Steam Next Fest every year. The PC demo event is the perfect way to find upcoming curiosities, and you’ll have a chance to do that next week.
 
 ## PC Gamer
 
-### 3 months after launch, Riot announces League of Legends Classic will be killed in January: 'most have gone back to other parts of League'
-Wed, 14 Oct 2026 23:56:26 +0000 — https://www.pcgamer.com/games/moba/3-months-after-launch-riot-announces-league-of-legends-classic-will-be-killed-in-january-most-have-gone-back-to-other-parts-of-league/
+### Where to find the Takashiro region Treasure Hunt in Forza Horizon 6
+Thu, 15 Oct 2026 14:33:44 +0000 — https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/
 
-League of Legends Classic was Riot's attempt to capitalise on nostalgia for vintage-era LoL. It stripped away most of the champions and kits introduced since 2013, reverted to an older version of the Summoner's Rift map, and promised to roll out "new" old Champions at a faster clip than in the olden days. But the nostalgia Riot must have hoped would sustain the mode hasn't proven sufficient enough to keep it running: the mode will go offline in January 2027, only six months after its launch. "We’ve seen a lot of players have fun revisiting the olden days with Classic," a Riot spokesperson wrote in a new update . "At this point though, most have gone back to other parts of League." As a result, the current season will be the last. "We’ll then put Classic back in the box for now, with the goal of bringing it back, likely as an event mode with adjustments and additions." It continues: "There’s more we’re going to share in the future about what we learned from this run. That includes where we think we got Classic right, where we could have gone more classic, and where sticking too closely to the past may have held the experience back." Refunds will be issued for Classic content rendered obsolete by the closure. And it's not the end of the line yet: there are at least seven more Champions still to roll out, including Mordekaiser, Yorick, Hecarim and Lucian in the forthcoming 26.21 update, and Vilibear, Urgot and Udyr in future ones. "This game mode was a true labor of love from so
+(Image credit: Playground Games) Key deets (Image credit: Playground Games) 🚘 The treasure chest is in east Takashiro at a rest area surrounded by pampas grass, southeast of Soni Circuit. Autumn is here in Forza Horizon 6 's Horizon Meets series and that means a new Treasure Hunt to track down for some season points. These points will let you earn the new seasonal cars that are currently on offer. This week's chest is in the east of the Takashiro region, at a rest area surrounded by long pampas grass southeast of Soni Circuit, pictured on the map above. To reach this chest, you need to: When passing the entrance to Soni Circuit going west to east, turn right down the winding road. Take a left down the road into the fields of long pampas grass. Keep an eye out for the rest area on your left side close to the pool on the map. You could also look for the brown spot on the map with the pond in east Takashiro (which marks the long grass) to find it. Smash the chest to get 100,000 credits, 5,000 XP, and three Season Progress. Also make sure to complete the new photo challenge, too, if you're looking for extra points. Forza Horizon 6 car list : All the rides you can collect. Forza Horizon 6 best cars : What to buy and tune. Forza Horizon 6 Treasure Cars : Skip the clues. Forza Horizon 6 Barn Finds : Track down these relics. Forza Horizon 6 review : What we think. ]]>
 
-### State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'
-Wed, 14 Oct 2026 23:22:11 +0000 — https://www.pcgamer.com/software/ai/8-us-states-sue-openai/
+### Finally: Our favorite roguelike for sickos will let me play as a sapient tree
+Thu, 15 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/
 
-The attorney generals for eight US states announced today that they are suing OpenAI. West Virginia, Iowa, Kansas, Nebraska, Arkansas, Arizona, Idaho, and Montana have all filed lawsuits alleging that the ChatGPT maker has deceived and endangered the public, particularly children, in the name of profit. The complaints allege that ChatGPT has "coached" users to harm themselves and others, and—quoting the West Virginia filing specifically—state that "there is a growing body of research indicating that ChatGPT is also degrading critical thinking skills, encouraging paranoias and delusions, offering dangerous medical advice, and promoting unhealthy behaviors and relationships." Recent tales of "rogue" AI agents are also presented by as evidence of recklessness. "All these harms were foreseeable and avoidable," reads the West Virginia complaint [ PDF ]. "[OpenAI CEO Sam Altman] himself has warned about the safety risks of AI since at least 2015. It is no secret that children use ChatGPT. And numerous OpenAI employees have left over safety concerns." OpenAI acknowledged last year that its systems can "fall short" when responding to users in distress, but said that it has "a stack of layered safeguards" in place to help. The company also says on its website that it now uses "age prediction" to place some users in a teen-oriented ChatGPT experience with "additional safeguards," unless they verify that they are adults. Separately from the state lawsuits, a class action lawsuit was fil
+What do you add to the game that has everything? We named Caves of Qud the best roguelike of 2024 due in part to its sheer density of simulated, deep-future, science-fantasy stuff: You can begin a playthrough as a fairly normal guy, and by the end of your run could be playing a clone of yourself who later became a psionic four-armed turtle man wielding a gun that uses blood for ammo and fires vacuum pulses that eat life. With a tapestry of potential interactions already so profoundly, magnificently weird, what could Caves of Qud possibly be adding in Diaspora, an expansion that will be entering early access in December? Well, playable trees is a good start. According to publisher Kitfox, Diaspora "includes several new feature arcs centered around the influx of riotous life and culture into marsh-moated ruins of Qud." Chief among them is the ability to start a playthrough as a mutated animal or plant. Those among you with Qud experience might be thinking, 'Aren't there already animal- and plant-themed mutations?' And there are. But where before you could begin as a human and mutate into beast-shape or plant-form, now—in a sort of beautiful symmetry—you can begin as a tree and mutate into a man. Or, you know, a progressively weirder tree. A tree with wings. And a scorpion tail, maybe. Who can say? Alongside the new mutant animal and plant stocks—and an accompanying expansion to the catalog of potential player mutations—Diaspora's early access launch will also seed new creatures
 
-### Ex-Overwatch director Jeff Kaplan ignores everything about the hero shooter after his 'almost clinical' departure 5 years ago: 'I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect.'
-Wed, 14 Oct 2026 22:54:53 +0000 — https://www.pcgamer.com/games/fps/ex-overwatch-director-jeff-kaplan-ignores-everything-about-the-hero-shooter-after-his-almost-clinical-departure-5-years-ago-i-dont-search-for-my-name-in-overwatch-i-dont-search-for-overwatch-i-sort-of-just-disconnect/
+### Razer Wolverine V4 Pro wireless gaming controller review
+Thu, 15 Oct 2026 13:43:35 +0000 — https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/
 
-Despite some big changes happening with Overwatch lately, former game director Jeff Kaplan hasn't touched it since the year he left Blizzard. In fact, he actively avoids the game in every way he can, he told GameSpot in a recent interview. Before Overwatch, Kaplan rose through the ranks on the World of Warcraft team, starting in QA and eventually becoming game director. He described his departure from the WoW team in 2008 as "a training moment" for when he would leave the Overwatch team, and Blizzard altogether, in 2021. "I kind of went through a little bit of shock leaving WoW back in 2008," Kaplan says. "So, when I stepped away from Overwatch in April of 2021, I was kind of used to that moment of what it meant to give all of yourself, your heart, your soul–because it's not just a job, there's no one who can do this and have it just be a job–and then have this shocking moment where you realize it doesn't belong to you. It belongs to the team, belongs to the players, it belongs to Blizzard, but it doesn’t belong to you." Kaplan says he "had a very almost clinical separation" with Overwatch after what he went through with WoW. As a result, he stopped playing it the moment he left and has actively avoided it ever since. "After I said my goodbye to competitive Overwatch and the Overwatch subreddit, I never go back and read," he says. "I don't watch YouTube [videos]. I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect. I actually tell 
+I use my Razer Wolverine V3 Pro several times a week. It's become my go-to wireless controller (among many different options on my shelves), thanks to its shape, stickfeel, and build quality. It's plenty quick to react, it's got excellent triggers and face buttons, and is one of my favourite bits of gaming gear. Ever, in fact. Then came the Wolverine V3 Pro 8K , and I wasn't too fussed. Sure, 8K polling is a nice thing to have, but it wasn't enough to sway me towards spending $200 on another controller. Now, however, I have a Wolverine V4 Pro review sample in my hands, and I have to admit—I'm sorely tempted to upgrade. Razer hasn't messed with the core recipe that made the V3 Pro great. It's still got the same comfortable chassis shape, fantastic heavyweight, dual-action triggers, and all the right controls in all the right places. What it has done, though, is upgrade the hardware underneath, while adding a heavy sprinkle of customisation options that improve the experience considerably. I thought I wouldn't get on with the slightly lighter stickfeel compared to the previous model, but I was wrong. It's still got a highly-controllable resistance, now combined with superb snap-motion accuracy from the new contactless sensors. (Image credit: Future) It feels sharper, without losing its smooth, slightly weighty movement. The battery life has been upped to a maximum of 27 hours. You can pull off the rear buttons and block the holes off with flush-fit magnetic plates. And you get 
 
-### I want to love the new Castlevania, but it just feels a little off
-Wed, 14 Oct 2026 22:31:54 +0000 — https://www.pcgamer.com/games/action/i-want-to-love-the-new-castlevania-but-it-just-feels-a-little-off/
+### The Grand Theft Auto 6 launch trailer is here
+Thu, 15 Oct 2026 13:43:12 +0000 — https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/
 
-I got off to a bit of an awkward start with Castlevania: Belmont's Curse when it first booted to a black screen. A few minutes of troubleshooting later, I deduced that the game wouldn't display on a monitor with its refresh rate set higher than 120 Hz. Easily solved, but I kept thinking of that quirk when I selected the in-game 120 fps cap and then watched the game jarringly lurch down to a lower framerate every time I hit a cutscene. Maybe these technical quirks were treats for reviewers that have been smoothed over in time for launch. They haven't stopped me from having a lot of fun with the eight or so hours I've played Belmont's Curse—I think I'm closing in on the halfway point, and it keeps getting better as it goes. But it's not quite the slam dunk I expected from the first new Castlevania in decades, with such a talented studio behind it. Belmont's Curse has a bit of a juice problem. You've probably heard (or said) "it's got the juice" so many times in recent years that the expression has more or less just become shorthand for I think this is really good . As originally coined by some very smart game designers , though, it means something a bit more specific: the sort of polish that "feels alive and responds to everything you do—tons of cascading action and response for minimal user input." There are some quintessential ways to add juiciness to an action game: screen shake, hitstop (the brief pause for impact when your attacks land), enemy reactions, flashy particles a
+We won't get to play Grand Theft Auto 6 when it launches for consoles on November 19, but they can't stop us from watching the Grand Theft Auto 6 launch trailer! So, let's do that. It's definitely a trailer for a GTA game, but this one feels a bit more restrained to me than what we've seen in the past—or maybe more focused is a better way to put it, with a greater emphasis on character and narrative than the chaos of the previous games, or even the previous GTA 6 trailers. There's definitely a cinematic flair to it—makes me feel like I'm settling in for the season-ending two-parter of a Michael Mann series from a decade or so ago. So what's cooking in our newest trip to Leonida? "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive." The musical choice is interesting: Rather than the licensed music of the first two trailers (Tom Petty's Love is a Long Road in trailer one , The Pointer Sisters doing Hot Together in trailer two ), this tune is a new track from Justice, an electronic duo who composed the GTA 6 score. If you dig it, here's the full version—it's pretty good! We still don't have a release date, or even an official announcement, for the PC version of GTA 6, although there's no doubt one i
 
-### 'My idea of a Netflix for games doesn't work': Garry's Mod successor is getting 'sweeping changes'
-Wed, 14 Oct 2026 21:54:25 +0000 — https://www.pcgamer.com/software/platforms/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-successor-is-getting-sweeping-changes/
+### Nvidia's RTX Spark makes for an impressive Arm-based gaming laptop but not one I'd recommend you buy just for PC gaming
+Thu, 15 Oct 2026 13:35:06 +0000 — https://www.pcgamer.com/hardware/gaming-laptops/nvidias-rtx-spark-makes-for-an-impressive-arm-based-gaming-laptop-but-not-one-id-recommend-you-buy-just-for-pc-gaming/
 
-More radical changes beyond just giving the characters necks are coming to Garry's Mod successor s&box . Facepunch Studios' game creation platform's launch in April was met with a swarm of negative reviews, complaints of AI slop filling its user-generated game collection, and swiftly plummeting user numbers. Now creator Garry Newman is reversing course on some of his decisions, such as pivoting to a 'greenlight type system' for user-generated games and announcing that the platform is going free to play much earlier than expected. "Our focus has been on the engine and the development experience. That’s what we love, that’s what turns us on—but we’re not selling an engine, we’re selling a game," Newman wrote this week. "So we need to do much much better on the game, we need to shift our focus to what players are experiencing, not developers." That focus, Newman said, will be on improving the sandbox mode for players by adding more NPCs, vehicles, and customization. "I’ve let everyone down that was expecting that. I accept that, and I’m sorry—we are going to do better," he said. Another issue Newman addressed is making it easier for players to find quality games amidst the, and I quote, "ton of shit games" Facepunch has allowed creators to upload to s&box. "The player is overwhelmed by choice," he said. "They choose a game, it takes a while to download, and it’s immediately shit. How many times will they try games until they find one they like? "My idea of a Netflix for games do
+Well, here it is, Nvidia's all-in-one silicon, the RTX Spark. This is an SoC that's being promoted as the everything chip; the processor that can be all things to all people. It's a creator's chip, it's an AI-lover's chip, and it's a gamer's chip. But all three of those kinds of people do need to have one thing in common: they need to be rather well off, because this is also an expensive chip . I spoke about it when the pricing first came to light last week, while I was at the launch event for this Windows-based tech. Even the cheapest of the RTX Spark machines coming our way will cost $2,700, and that will only get you the weaker cores, a paltry 24 GB of unified memory, and a 512 GB SSD. That is certainly a limitation, but also completely expected in a time where all things PC cost a ludicrous amount of money, especially devices which are locked into requiring a colossal amount of memory to do their main task. Which, let's be honest here, is AI. The unified memory architecture (UMA) of the RTX Spark is perfectly suited to providing a ton of memory for system resources, but also to be able to switch that over to supporting the GPU when it comes to smashing through local AI workloads which fill up the GPU's memory pool. It's the perfect time for Nvidia to release something like this, because local AI is set for a bit of an explosion in popularity (especially when the cloud services start charging real money for their services), but it's also the worst time because this sort of
 
-### Legendary composer Frank Klepacki says the RTS genre isn't dead, but he would like to see devs get a little more creative with it
-Wed, 14 Oct 2026 21:44:35 +0000 — https://www.pcgamer.com/games/rts/legendary-composer-frank-klepacki-says-the-rts-genre-isnt-dead-but-he-would-like-to-see-devs-get-a-little-more-creative-with-it/
+### Epic said its game launcher was faster than Steam on the same day Steam got a speed boost—so I've put both to the test
+Thu, 15 Oct 2026 13:10:51 +0000 — https://www.pcgamer.com/hardware/epic-said-its-game-launcher-was-faster-than-steam-on-the-same-day-steam-got-a-speed-boost-so-ive-put-both-to-the-test/
 
-Frank Klepacki has composed a lot of great game music over the years—in fact, he's responsible for the soundtrack in Eye of the Beholder 2, one of the best dungeon crawlers of all time . At heart, though, Klepacki is a real-time strategy guy—and he takes real issue with claims that the genre is dead. There's no question that RTS is diminished, at least compared to its glory days. Back in the 1990s, games like Command & Conquer, Warcraft, and Dune 2 ( especially Dune 2, I'd say) dominated the scene. But all that remains of any of them these days is the seemingly unkillable World of Warcraft—and how many players even know that Blizzard's one true behemoth is an RTS spinoff? Speaking in the latest issue of Edge, however, Klepacki said he thinks the genre still has lots of life in it. "There was all of this doom-and-gloom talk about ten years ago, saying, 'Oh, we think RTS is dead now—why are you still trying to work on games that are in a genre that’s going away?’" Klepacki said. "Obviously, if there are games coming out, [the genre is] not going away. It’s just that other types of games have taken the forefront of attention. Everything runs in cycles, you know? That’s how it always is." That's true: RPGs have ebbed and flowed over the decades, and flight sims were huge until they weren't, and then they were again. But Klepacki also pointed the finger at a hollowing-out of the industry and growing aversion to risk, particularly among big-budget developers: "I would love to see m
+Catching a glimpse of my screen is often a stressful experience for my colleagues. Besides my mess of desktop icons and all the browser tabs I have open at any given time, you don't want to know how many things I have set to launch on startup. Among these are, of course, the Steam and Epic Games Store clients and let me tell ya, not all launchers are created equal. Earlier this week, Epic shared on X that it had "vibe coded the Epic Games Launcher to be faster than the other guy." On the same day, Valve released a Steam Client update that "Improved Steam Client startup performance." Well, there's only one thing for it: I've got to benchmark these bad boys to determine once and for all whose launcher is actually faster. For my basic benchmarks, I timed how quickly each client loaded into their respective storefronts (with all images displaying properly) after I opened them from the system tray (for those curious, my rig is this iBuyPower prebuilt with an RTX 4070 Super ). I ran three tests on each and then took the average result. The Steam client loaded in 9.32 seconds on average, while the Epic Games Launcher loaded in 5.98 seconds for me. Others have demonstrated Steam launching into the library in less time , but the Epic launcher is faster by seconds as far as my rig is concerned. That said, Steam remains my client of choice. For instance, the first thing I noticed during my tests was that one does not simply 'exit' the Epic Games Launcher like you can with Steam. In Valv
 
-### GTA 6 leaker threatens Take-Two with a 'dead man's switch'
-Wed, 14 Oct 2026 18:36:16 +0000 — https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-take-two-with-a-dead-mans-switch/
+### After Civ 7 stumbled, Humankind 2 looks like it's making smart choices to pick up the 4X torch
+Thu, 15 Oct 2026 13:09:36 +0000 — https://www.pcgamer.com/games/strategy/after-civ-7-stumbled-humankind-2-looks-like-its-making-smart-choices-to-pick-up-the-4x-torch/
 
-It's a classic move: A villain, or sometimes a hero, inserts himself into a seemingly inescapable situation. Danger everywhere—no way out! But just as the good guys (or bad guys) are about to pounce, he holds up the pin he's pulled from the grenade under his coat, forcing everyone to back off! Escape is at hand! That seems to be the strategy now adopted by notorious Grand Theft Auto 6 leaker Cyberleek, and by "seems to be," I mean they stated it outright. In a message posted to their now-defunct website but preserved by GTA VI News on X , Cyberleek committed to not releasing anything more about GTA 6—including its ending, which at this point remains unknown—as long as Take-Two lets everything slide. "CL has the ending. It was considered," the message states. "It would punish Take-Two greatly—but ruin the experience for the gamers, who did nothing wrong. Take-Two would show CL no mercy—why should CL show any to them? Still: Take-Two was punished enough. "The ending stays unpublished. Proof: the latest leek—clips from the final missions, out of context, revealing nothing. The dead man's switch is active—story spoilers only. Left alone, it never fires. Whoever removes CL chooses it." (Image credit: Cyberleek) A dead man's switch, generally speaking, is a switch built to be triggered if its operator is incapacitated. Miles Dyson, for instance, blew up Cyberdyne Systems with an improvised dead man's switch in Terminator 2 (not that it did much good) and Roger Murtaugh did the lite
+We all know the tale of Civilization 7. It came, it saw, it had you choose a new civ at the dawn of each age and that annoyed quite a lot of people indeed. Sic transit gloria Meier-i. So I was a bit surprised when Amplitude sat us down for a look at Humankind 2 and focused so much on its culture system, reworked from the first game, but a big part of which is selecting new cultures to embrace as the eras chug along—Egyptians becoming Berbers, or Romans, or even English (a dreadful fate) if circumstances conspire to allow it in the game's sandbox. But I liked what I saw. The other big talking point of the hands-off demo I got was on climate and biome, and how that intersects with and shapes culture. Humankind 2's vision of history is a dialectical one, where a culture is shaped by a biome which is changed by a culture which is influenced by a biome which… you get the idea. Climate isn't static, either. Just like real life, it'll undergo natural and unnatural disruptions depending on chance and player/NPC activity. So it all feels like an intricate and natural take on (a type of) materialist history. Just, you know, a materialist history where the Egyptians might find themselves waking up to snow one day. The white sun of the desert Our demo started us off looking at a map of the world—as in Earth, the actual world—dotted with numerous tribes. The interplay of environment and culture kicks off immediately: each tribe gets a "First Tale" linked to the territory in which they beg
 
-### Ace Combat Zero gets its own standalone app on Steam, freeing it from the 136GB install of Ace Combat 8
-Wed, 14 Oct 2026 18:21:52 +0000 — https://www.pcgamer.com/games/sim/ace-combat-zero-gets-its-own-standalone-app-on-steam-freeing-it-from-the-136gb-install-of-ace-combat-8/
+### Asus ROG Xbox Ally X20 review
+Thu, 15 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/hardware/handheld-gaming-pcs/asus-rog-xbox-ally-x20-review/
 
-Ace Combat 8 rocks. PC Gamer's reviewer scored it a 92% , and I've been savoring the campaign, because I know it could be years until we get another bombastic flight sim melodrama of its kind. Although I do have another Ace Combat lined up to play after: Ace Combat Zero, which was included as a free pre-order bonus with AC8, and subsequently responsible for the majority of the new game's negative launch day reviews. Not because Zero is bad—it's a series fan-favorite—but because Bandai Namco inexplicably bundled it into the AC8 launcher, meaning you can't download this 3.2GB port of a 2006 PS2 game without the 136 gigabytes of Wings of Theve. This decision was not well received . But now there's a happy ending: in an update on the Steam page on Tuesday, Bandai Namco announced that Ace Combat Zero "will be made available as a standalone application on Steam." That doesn't mean it will be made available for purchase: Zero was a pre-order bonus, so only those who bought Ace Combat 8 ahead of launch will have it in their Steam libraries. No change there. You'll just be able to download and launch it independently if you already own it. It's currently going through "final quality assurance and compatibility testing" ahead of the split. The biggest benefit from the change (aside from potentially freeing up 136GB of precious SSD space) is that Zero will now support Steam Cloud saves. Judging by the nearly 400 comments on the post in less than 24 hours, the news has gone over very wel
+The Asus ROG 20th anniversary lineup has been interesting. Black, gold, and indulgent feels like the tagline here, with the Azoth Extreme Edition 20 and ROG Harpe II Extreme Edition 20 containing actual gold, and a fitting price tag to boot. For any criticisms I may have, I don't think you're paying primarily for the branding on the Asus ROG Xbox Ally X20, though. You get a new OLED screen which is bigger and brighter than the IPS panel in the standard Xbox Ally X, TMR thumbsticks, refined triggers, a new cooling system, and with that screen comes a snappy 0.2 ms response time. Refined is a good word for the device as a whole. Coming a year later than the last model, the software is smooth and intuitive, and it's easy to swap between Xbox and Windows mode, though it still doesn't feel like a console in practice. For my money, it's the best ROG Ally on the market right now, but the memory crisis has skewed the price of all gaming gear, and the X20 is certainly not the best value as a result. Buy if… ✅ You want a beefy OLED handheld: OLED handhelds are still fairly niche, and with recent price bumps, I'd pick this over the Legion Go 2 or OneXPlayer's offerings. ✅ You want power on the go: I'd suggest a significantly cheaper handheld if you are after low-intensity games and don't particularly care for big-budget ones. For your Cyberpunks and your Horizons, you will want a Z2 Extreme chip or better to play them at a decent resolution and settings. Don't buy if… ❌ You're fine with
 
-### I've given GTA 5's cars Bond-style ejector seats
-Wed, 14 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/ive-given-gta-5s-cars-bond-style-ejector-seats/
+### A co-op survival game where trolls aren't just there to be killed? 'We don't talk about them as enemies, but rather as neighbors'
+Thu, 15 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/games/survival-crafting/a-co-op-survival-game-where-trolls-arent-just-there-to-be-killed-we-dont-talk-about-them-as-enemies-but-rather-as-neighbors/
 
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . Following my experience being abducted by a small yellow taxi , something has become clear to me: I need a means to escape. The trauma of my kidnapping experience cannot be repeated. I have installed Eject for Grand Theft Auto 5, a mod that lets you punch out of vehicles at a moment's notice. "A simple little fun script that allows you to eject from vehicles and parachute down," reads the mod's description—a claim which is 50% true. You can, indeed, eject from vehicles at the push of a button, but the parachuting down part is more of a screaming plummet. We make do. The mod's defaults are relatively anaemic. Its "Force" setting sits at a measly 150. 150 what? No idea, but that's a small number, so I immediately increased it to 10,000. I also tried increasing it to 100,000, which seemed to crash the game on launch. And then, off I went, sailing through the streets of Los Santos in my shiny car in the night (sometimes in the day) and whacking the eject key to hop out. The mod has not quite mastered preservation of momentum, so my attempts to, for instance, leap across an overpass and land safely back in my car, met mostly with failure. And by mostly I mean entirely. Still, it did let me do this, so I'm calling it a mixed succes
+A deep forest of towering trees can be an intimidating place, especially if you're only three inches tall. In co-op PvE survival game Trollheim: Gnomes , you're a wee little Sprýg Gnome looking for a new place to call home after Oden has driven you from Midgård. That home is a dense, dark forest, and you're not the only one seeking refuge there. In addition to foraging, exploring, building your home, and dealing with survival systems like cold and hunger, your gnome will have to contend with other residents of the forest, which the Trollheim devs call väsen. Väsen can be faeries, sirens, and you guessed it, trolls. But unlike the trolls in another 'heim I could name , Trollheim's trolls aren't just there to ruin your day with a well-swung tree trunk or to be defeated for their resource drops. "When we talk about our NPCs, we don't talk about them as enemies, but rather as neighbors," said Jojje Dalunde, game director at Off-leash Interactive. "Because that's really what they are, and as you know, you can have good neighbors and you can have bad neighbors. In this game, you as a player get to choose if you are going to be a good neighbor or a bad neighbor. And the väsen in this world will react to how you interact with them and how you behave." In the presentation, the trolls didn't look particularly friendly, yelling warnings at gnomes who go too close, throwing things at them, and swinging their fists. But that doesn't necessarily make them bad guys, does it? Maybe the gnome
 
-### Looking back on 10 years of Overwatch, the promises kept, and where Team 4 goes from here
-Wed, 14 Oct 2026 16:37:47 +0000 — https://www.pcgamer.com/games/fps/looking-back-on-10-years-of-overwatch-the-promises-kept-and-where-team-4-goes-from-here/
+### Xbox Ally X 20 vs Xbox Ally X: A wickedly bright OLED screen and frosty temps make for a begrudgingly attractive upgrade for the Asus handheld
+Thu, 15 Oct 2026 13:00:00 +0000 — https://www.pcgamer.com/hardware/handheld-gaming-pcs/xbox-ally-x-20-vs-xbox-ally-x-a-wickedly-bright-oled-screen-and-frosty-temps-make-for-a-begrudgingly-attractive-upgrade-for-the-asus-handheld/
 
-10 years is a long time for anything, but for a live service game it's a milestone that very few are able to cross. Overwatch made it over the line earlier this year, and has since been able to do something of a victory lap because after all the highs and the lows, Overwatch is in the best place it's ever been . "It doesn't feel like 10 years to me," game director Aaron Keller tells me. "Although, I could probably answer that question in a few ways. There's probably a year or two that might have felt like five or six years in the middle of this process, but there's always so much to be doing on the team and for the game." But Keller reiterates the good old adage "if you love what you do, you never work a day in your life. (Image credit: Blizzard) "Our team is filled with people that are not just passionate about making games, they're passionate about Overwatch itself, our heroes and the world in which they reside. So when you get to go into the office and talk about that all day, the time can fly by pretty quickly." Alec Dawson, associate game director, joined before the launch of Overwatch 2 but also feels as if these last four years have flown by "in a blink of an eye … It's wild that when we started the year, we had these silhouettes of heroes that we didn't even know what they were going to be, what they were going to look like, and now we do," Dawson adds. "Sometimes it just goes by much quicker than you think it's going to." Overwatch has undergone many metamorphoses, s
+So, you've seen the Asus ROG Xbox Ally X20 in all its black and gold glory and wondered if it's worth paying $300 more for it. Well, the answer is 'it really depends on what kind of device you are looking for' and 'how much is a fresh OLED screen worth to you?' Unlike the other ROG 20th anniversary edition bits of Asus gear, the X20 is not about superfluous add-ons (unless you pick up the bundle with XR glasses). You aren't getting a commemorative faceplate here, or extra stickers. You get an OLED screen, TMR thumbsticks, improved thermals, and MicroSD Express compatibility. You also get Impulse triggers, which means they can rumble independently, and the D-Pad can be flicked around to make the corners more or less pronounced. The screen is perhaps the biggest sell here, with its 1400 HDR-certified display going up to a peak brightness of 1,400 nits. As I found in my review , it's so sizzlingly bright at points that I looked at the sun in Cyberpunk 2077 while lying in bed one night and actually winced. Check out the full differences below. Asus ROG Xbox Ally X20 vs Xbox Ally X Asus ROG Xbox Ally X20 Asus ROG Xbox Ally X Processor AMD Ryzen Z2 Extreme AMD Ryzen Z2 Extreme CPU architecture Zen 5 / Zen 5c Zen 5 / Zen 5c Core / threads 8 / 16 8 / 16 CPU boost clock 5 GHz 5 GHz GPU architecture RDNA 3.5 RDNA 3.5 Shader count 1024 1024 GPU boost clock 2.9 GHz 2.9 GHz VRAM 8 GB (shared, adjustable) 8 GB (shared, adjustable) Memory 24 GB LPDDR5X 24 GB LPDDR5X Screen 7.4-inch OLED dis
 
-### The Walking Dead's Chandler Riggs made a Resident Evil 7 short film even though 'it's impossible to please everybody'
-Wed, 14 Oct 2026 16:34:27 +0000 — https://www.pcgamer.com/movies-tv/the-walking-deads-chandler-riggs-made-a-resident-evil-7-short-film-even-though-its-impossible-to-please-everybody/
+### 'There is no secret sauce' to a successful live service game according to Overwatch's associate game director, but knowing your audience is a good start
+Thu, 15 Oct 2026 12:14:35 +0000 — https://www.pcgamer.com/games/fps/there-is-no-secret-sauce-to-a-successful-live-service-game-according-to-overwatchs-associate-game-director-but-knowing-your-audience-is-a-good-start/
 
-Most may know Chandler Riggs from his role as Carl in The Walking Dead, but now some may know him as the director of the short film fan-adaptation of Resident Evil 7. Lasting but 20 minutes, it's set in the Baker's bayou home and takes place during the garage fight scene between the protagonist Ethan Winters and the infected Jack Baker. The most jarring thing about this short film isn't the graphic fight, though, it's Ethan's face. Fans of Resident Evil 7 and Village will know that Ethan Winters is quite a shy guy, almost never showing his face apart from a couple instances in the Shadows of Rose DLC (and when you get the camera angle just right). Since both games are done in first-person there's no need to spend a lot of time looking at the man you're playing, and Capcom really leaned into that. But Riggs made the decision to not only star as Ethan, but also to give him some more face time. "It was absolutely an intimidating thing," Riggs says in an interview with IGN . "We're trying to do so much [that's] super faithful and true to the game, but this is a huge aspect that we are breaking from it. "But there isn't really another good way to tell [the story] in a live-action format. I was going back and forth like 'Okay, could we do first person the whole time? Could we avoid getting his face in or anything?' But the more we went back and forth on it, the more I was like, I mean, if we are going to do this and are going to appeal to a wider audience—more than just the people 
+Not many live service games have stood the test of time quite like Overwatch . 10 years in and it's still been able to retain its playerbase, maintain momentum, and even ramp it up. How, you ask? Well, besides having really cute skins and a very enticing game loop, Team 4 figured out exactly where Overwatch needed to stand years ago. "Overwatch exists in an incredibly competitive space among live service shooters," Overwatch's game director Aaron Keller tells me. "Some of the biggest games in the world are here." (Image credit: Blizzard Entertainment) To have (and crucially, maintain) a successful live service game is the golden goose egg of this industry right now. With publishers like Sony trying to force it upon countless studios before pulling the plug on eight out of 12 projects when things start to go sideways. Even games that manage to land with an eager audience like Arc Raiders can struggle to maintain momentum. But for some, like Overwatch, the live service model has worked, so what's the secret? "That's a big question," associate game director Alec Dawson says. "I think some of the things we've learned is to shut away fear as much as possible and push beyond, experiment within that experience. But what it really boils down to is coming to work each morning and making good decisions every day. We've lived that over the last two years." But unfortunately for any eager Sony execs reading this, "there's no secret sauce in particular." "It's incredibly hard to make some
 
-### Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it
-Wed, 14 Oct 2026 16:02:03 +0000 — https://www.pcgamer.com/gaming-industry/assassins-creed-black-flag-resynced-was-a-big-hit-and-now-its-time-for-big-layoffs-at-the-studio-that-made-it/
+### OLED really is the gift that keeps on giving, with what should be cheaper 700 Hz panels planned by TCL for 2028
+Thu, 15 Oct 2026 12:05:58 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/oled-really-is-the-gift-that-keeps-on-giving-with-what-should-be-cheaper-700-hz-panels-planned-by-tcl-for-2028/
 
-Three months after the very successful launch of Assassin's Creed Black Flag Resynced , a game that sold two million copies in a single day ( three million copies in a week!) and surpassed "annual expectations" in just two weeks, Ubisoft has laid off 70 people from developer Ubisoft Singapore. In a statement provided to PC Gamer, the publisher also said it plans to close the Ubisoft Redlynx studio outright. This would be reason number two on our list of 25 foolproof ways to get laid off in the videogame industry: Make a game that sells so well, it blows away all expectations and makes even more money than anyone dared hope. Of course, we've already seen this in play with Black Flag Resynced—Ubisoft Barcelona, a support studio on the game, had nearly a third of its number cut shortly after it launched. The Ubisoft Barcelona layoffs might seem particularly egregious, coming so soon after it produced a much-needed win for a publisher that's spent the past few years taking big Ls , but it's not the only bad news. A year after announcing a " restructuring proposal " for Ubisoft Redlynx aimed at reducing costs and ensuring "a stronger prioritization and efficiency across the company’s worldwide studio network," Ubisoft has now decided to close the studio outright. Founded in 2000 and acquired by Ubisoft in 2011, Redlynx is best known for the Trials motorcycle racing games, the last of which— Trials Rising —came out in 2019. Since then, the studio supported the development of Star W
+I've long been a proponent of high refresh rates for competitive FPS gaming, though there are diminishing returns the higher up you go. So it's been an absolute joy to see the direction OLED panels have been heading of late, with high refresh rates and low prices . Now there's even more good news, as TCL is going to be launching some 700 Hz OLED panels based on cost-effective tech. That's according to Omdia (via Videocardz ), which explains, "TCL China Star’s new Gen 8.6 IJP OLED fab is scheduled to begin production in 2028, with plans for larger panels, including 32-inch and 34-inch sizes and refresh rate offerings of up to 700 Hz. The facility is projected to make TCL China Star the first company to mass-produce IJP OLED monitor panels at Gen 8.6 fab." To be clear, we've already seen 700+ Hz OLED monitors. We've even seen some that don't rely on dropping down to 720p, such as a WOLED from Asus that hits 720 Hz at 1080p in a 24.5-inch form factor. We should also note that it doesn't seem like Omdia is saying the new 700 Hz TCL monitors will be 32-inch or 34-inch ones—those could be different offerings. So what's new? Well, mostly that three-letter acronym: IJP. It stands for "ink jet printing" and is a way of making OLED panels that should be less costly. Essentially, regular OLED production involves material being wasted because it relies on some evaporated OLED materials going through a mask (stencil), but a lot of the evaporated materials don't go through and are lost. IJ
 
 ## GameSpot
+
+### GTA 6 Helps Modern Warfare 4, Actually, Activision Says
+Thu, 15 Oct 2026 14:50:27 +0000 — https://www.gamespot.com/articles/gta-6-helps-modern-warfare-4-actually-activision-says/
+
+Rockstar's GTA 6 is releasing this November, and some believe it will blot out the sun when it comes to the impact it will have on the greater gaming market. The game could also help other titles, like Activision's Call of Duty: Modern Warfare 4. That's according to Activision chief marketing officer Tyle Bahl, who said in an interview that GTA 6 will drive more people to gaming overall, and this could act as a rising tide that lifts all ships, including Modern Warfare 4. “Well, no offense to Zelda, but [GTA and COD] are the two biggest games of the year. And more people coming in to the dashboards, more people taking the dust off their Xbox or PlayStation and playing again, is going to be more eyeballs for us overall," he told The Game Business. His comment about Zelda is in reference to Nintendo's The Legend of Zelda: Ocarina of Time remake for Switch 2, which launches on November 5. It's expected to be a huge hit, just like MW4 and GTA 6. https://www.youtube.com/watch?v=yLFRQaQT0qM Another publisher, Ubisoft, is not afraid of GTA 6, either. CEO Yves Guillemot said when a big game like GTA 6 comes out, it helps everyone in the industry. One of Ubisoft's biggest games, Rainbow Six Siege, is actually planning to debut new content right around the time GTA 6 launches . Bahl also stated that a big differentiator for Call of Duty is "spending time with friends," and he thinks this will hold true for MW4 this year even with GTA 6 coming to market just a few weeks after MW4 releas
+
+### 10 Things We Noticed In The GTA 6 Launch Trailer
+Thu, 15 Oct 2026 14:12:57 +0000 — https://www.gamespot.com/articles/things-we-noticed-in-the-gta-6-launch-trailer/
+
+Rockstar is sticking to its trend of releasing some new GTA 6 news every Thursday it seems, and today's treat was the reveal of the launch trailer. After what feels like an eternity of waiting for anything , the launch trailer is the fourth official video look we've gotten at GTA 6, and the first since August's Extended Look premiered on Netflix. The GTA 6 launch trailer is 90 seconds long exactly, and it gives us a closer look at some of the in-game action (and its new soundtrack composers ). While some of what see is pretty typical of games in the Grand Theft Auto series, there are a few surprising additions, and some things that hint toward just how deeply realistic the game is. Lucia starts the game in prison While an earlier trailer suggested as much, it now seems more certain that Lucia's journey in GTA 6 starts with her in prison. While working at the marina, Jason receives a call from her. While we don't know anything about the conversation that takes place after, the fact that she's still incarcerated while he's out and working tells us that he'll probably be keeping pretty close tabs on when she's getting released, especially since the two have clearly remained in contact. There's plenty of physical intimacy We already knew that Jason and Lucia would be able to get up close and personal . In the launch trailer, though, we see them spending time in bed and even in the shower together. The emphasis on intimacy alongside violent sequences adds depth to their relationsh
+
+### Street Fighter Could Be In For A Rough First Round At The Box Office
+Thu, 15 Oct 2026 14:31:35 +0000 — https://www.gamespot.com/articles/street-fighter-movie-box-office-results/
+
+Street Fighter is officially spin-kicking its way into theaters this week, starting with previews on Thursday and leading into the crucial opening weekend. It's the second movie based on a Capcom IP to make its way to the silver screen this year--following Zach Cregger's Resident Evil film in September--but so far, early estimates for the martial arts extravaganza aren't looking too healthy. According to Deadline's box-office-predictions , Street Fighter is expected to take in under $70 million worldwide. Of that figure, it's estimated to open with a US box-office take in the high 30 millions on 3,500 screens, and a take in the mid-30 millions internationally. Typically, movies need to make at least double their production budget back to be considered successful, and with Street Fighter costing $82 million to produce, it doesn't look like it'll recoup its expenses in its first weekend. There's still a chance it could be a small hit if word of mouth drives audiences to theaters, and in terms of competition, Street Fighter has a few weeks to dominate cinemas as it'll be the biggest action film on the block--at least until the November 1 re-release of V for Vendetta, which is celebrating its 20th anniversary. The movie won't open in the potentially lucrative market of China, but internationally, the lion's share of sales is expected to come from Mexico, Brazil, the UK, Australia, and Asian markets. https://youtu.be/U6sbm1OaJb8 How does that opening stack up against other recent 
+
+### GTA 6 Is Getting An Original Score From Electronic Duo Justice
+Thu, 15 Oct 2026 13:45:40 +0000 — https://www.gamespot.com/articles/gta-6-is-getting-an-original-score-from-electronic-duo-justice/
+
+With a new (and steamy) launch trailer going live to remind you of its November 19 release date, Grand Theft Auto 6 is starting to look like a slick new chapter in the series. It's also sounding like a great sequel, and that's no accident as the game features an original soundtrack by French electronic music duo Justice. On top of that, a new single from Justice called "Flower in a Hurricane" will be featured on Grand Theft Auto 6: The Album, the official game soundtrack, and the track also includes Tame Impala, SZA, and King Gizzard & The Lizard Wizard. If you're unfamiliar with them, Justice is a duo consisting of Gaspard Augé and Xavier de Rosnay, and they rose to fame with their 2007 album, Cross. They followed that up with Audio, Video, Disco in 2011, Woman in 2016, and after a seven-year hiatus, Hyperdrama in 2024. The pair have earned several Grammy nominations over the years and a ton of awards for their catchy mix of rock and disco themes, creating chart-topping hits. And that soundtrack will probably sound great in one of GTA 6's absurdly detailed night clubs . https://youtu.be/JWxoRY7AFSw While Justice crafts the core musical sound of GTA 6, players will also be free to flip through several radio stations and podcasts in the game. Like previous GTA entries, these encompass a wide variety of musical genres, from outlaw country rock to reggae. These will represent the “next evolution of in-game radio, and more,” Rockstar says, and players can listen to them while dri
+
+### The GTA 6 Launch Trailer Shows Off Vice City And Steamy Scene With Lucia And Jason
+Thu, 15 Oct 2026 13:06:44 +0000 — https://www.gamespot.com/articles/gta-6-launch-trailer-is-here/
+
+Rockstar Games has published the launch trailer for GTA 6 , and it's pretty spectacular. The game has been in development for more than a decade, and it's finally set for release on November 19 for PS5 and Xbox Series X|S. The trailer features the new song, "Flower in a Hurricane" from Justice featuring Tame Impala, SZA, and King Gizzard & The Lizard Wizard. Justice also composed the entire original score for GTA 6. The trailer itself shows off lots more of Vice City and its people, places, and criminal activities. We also see very steamy scene with Lucia and Jason in the shower. Jason and Lucia are lovers and partners in crime, and cultivating their relationship is a big part of the game. Or, you can have them break up and just be friends who commit crimes together. The new trailer was captured on a base PS5. The trailer carries the PlayStation branding and even features an in-game controller that looks like a DualSense because Sony and Rockstar are working together to promote GTA 6. https://www.youtube.com/watch?v=rz1B4B2yBZY After a decade-plus of development, GTA 6 launches on November 19 for PS5 and Xbox Series X|S, with a PC release expected in early 2027 .
+
+### GTA 6 s Push For Realism Includes A Context-Specific Sweating System, For Real
+Thu, 15 Oct 2026 13:01:30 +0000 — https://www.gamespot.com/articles/gta-6s-push-for-realism-includes-a-context-specific-sweating-system-for-real/
+
+Part of the reason why Rockstar has taken so long with GTA 6 comes down to the process of crafting the fine details, and that includes a new sweat system. Reporter Jason Schreier said on his YouTube page that Rockstar created a new system in GTA 6 that will make Lucia or Jason perspire different amounts "depending on how much effort they're putting in." For example, "If they're dancing extra hard in the nightclub, they will sweat more than if they are not," he said. The sweating system is expected to also apply in other areas, like when hitting the gym or just being outside in the heat of GTA 6's version of south Florida . Lucia in a club in GTA 6. GTA 6 is not the first game to make new strides in the area of bodily fluids, as EA Sports--many years ago--made sweat look more realistic in the Madden franchise . And years before that, 2K Sports improved the in-game sweating system in the NBA 2K series . Rockstar also aimed for more realism in GTA 6 by going on ridealongs with police officers and visiting strip clubs . GTA 6 isn't a life-sim, though, and Rockstar took strides to find the balance between simulating life and making a fun experience . GTA 6 launches on November 19 for PS5 and Xbox Series X|S, and it's expected to be the biggest game ever. Despite that, its expected success will not fix the many deep and serious issues with the current video game market , experts say.
+
+### Something Utterly Chaotic Is Happening In The VTuber World
+Thu, 15 Oct 2026 12:12:15 +0000 — https://www.gamespot.com/articles/something-utterly-chaotic-is-happening-in-the-vtuber-world/
+
+If you've ever wondered what would happen if you put an AI VTuber, her evil twin, their creator, a cow, an imp, and a monkey in a car in a post-apocalyptic desert and told them to drive thousands of kilometers, congratulations. You've got the same brain as Vedal987 , the creator of Neuro-Sama and her twin, Evil. The girls, along with Vedal, KokoNuts , Camila , and Crelly , kicked off a marathon of The Long Drive on October 12, with the ambitious goal of making it through a game that demands a lot more than just keeping a vehicle pointed in the right direction. https://www.youtube.com/watch?v=FZoC_8wP118 Each person streams their own perspective of the chaos, with Vedal's channel switching between Neuro, Evil, and himself. The six have been apparently finding new ways to turn their road trip into an insurance company's worst nightmare. For the unfamiliar, The Long Drive is an open-world driving and survival game set in a procedurally generated desert. Players need to scavenge for supplies, maintain their vehicles, manage fuel, and navigate an enormous stretch of road while trying to survive the journey. https://youtu.be/ulVpu2mN6ZI The ultimate destination is about 5,000km away, and it'll take you the same amount of time to drive that 5,000km as it would in real life. While the lore-accurate goal is to get to the protagonist's mother's house, Neuro and Evil prefer to imagine Disneyland as the final destination. There's plenty of freedom, but the game's physics can be hilarious
+
+### Cyberpunk 2 Is Evolving Beyond Its Director s Original Vision
+Thu, 15 Oct 2026 11:24:08 +0000 — https://www.gamespot.com/articles/cyberpunk-2-is-evolving-beyond-its-directors-original-vision/
+
+As development on Cyberpunk 2 continues, game director Gabe Amatangelo has shared more thoughts on the Cyberpunk 2077 sequel and how his plans have evolved as CD Projekt Red has started to assign more people to its creation. In a new blog post, Amatangelo spoke about what the theme of cyberpunk means to him, remarking that he wanted to explore ideas of dehumanization. With more people now working on Cyberpunk 2, Amatangelo explained that the project is becoming a "reflection" of the people working on it as they add their own ideas to the mix. "I had the idea of Cyberpunk 2 in the beginning, but it evolves as I involve more people," Amatangelo said . "And it evolves as I empower the team and individuals within them to contribute. It becomes something else, right? It becomes this thing that I've shepherded, but it's ultimately a reflection of the team's hearts and souls. And I look forward to sharing that." Amatangelo added that, because video games have been a major influence in his life, he hopes they will continue to impact the people who immerse themselves in those digital worlds. "Video games impacted my life. They opened my mind, and got me motivated and excited. And I want to make sure that doesn't go away for this generation or the next," Amatangelo concluded. https://www.youtube.com/watch?v=hOwI_kMZ_2o While there's no clue as to when Cyberpunk 2 will be released, it is one of several big projects in development at CD Projekt Red. The company has ambitious plans to rel
 
 ### Epic Is Overhauling Its Anti-Cheat So That Fortnite Can Finally Come To A New Platform
 Wed, 14 Oct 2026 19:43:31 +0000 — https://www.gamespot.com/articles/epic-is-overhauling-its-anti-cheat-so-that-fortnite-can-finally-come-to-a-new-platform/
@@ -401,47 +438,42 @@ Wed, 14 Oct 2026 17:12:32 +0000 — https://www.gamespot.com/articles/retro-hand
 
 The Electronic Software Association (ESA) has a serious bone to pick with retro handhelds that are packaged with tons of unlicensed pre-installed, calling these devices "superfakes" that should face some sort of suppression by the US government. According to an October 6 filing with the Office of the United States Trade Representative (USTR)--which monitors marketplaces that are accused of engaging in or enabling piracy and counterfeiting--the ESA is urging the government to clamp down on what it calls "illicit plug-and-play consoles and handheld devices." The ESA wants the USTR to add these emulation devices to the Notorious Markets List, the agency's annual report identifying which markets are participating in such behavior, thereby barring or slowing their profits. "In the video game sector, illicit plug-and-play consoles and handheld devices are the functional equivalent of superfakes," the ESA told the USTR. "They can look and feel like legitimate, mass-market consumer electronics: molded housings, color displays, polished user interfaces, retail packaging, product reviews, warranty-like representations, and listings on familiar e-commerce platforms. Yet their commercial appeal rests solely on a concealed memory card or internal drive loaded with hundreds, thousands, or even tens of thousands of unauthorized copies of copyright-protected games." The ESA puts a specific spotlight on Anbernic , a console manufacturer that sells 3DS- and Game Boy-looking devices packed with
 
-### Ex-Overwatch Director Jeff Kaplan Says He Never Wanted The Spotlight, But The Game Needed A Face
-Wed, 14 Oct 2026 16:34:55 +0000 — https://www.gamespot.com/articles/ex-overwatch-director-jeff-kaplan-says-he-never-wanted-the-spotlight-but-the-game-needed-a-face/
-
-Being the face of a video game is a demanding role, as the people who step into these positions involved in these roles often find themselves on the receiving end of a lot of toxicity. Former Overwatch game director Jeff Kaplan knows this all too well, as he promoted the hero shooter for several years and regularly interacted with its fans--albeit at a "personal cost." After leaving Blizzard Entertainment in 2021, Kaplan has been quietly working on The Legend of California , the in-development game at his new studio, Kintsugiyama. Reflecting on his time as the face of Overwatch, Kaplan spoke to GameSpot about how Overwatch needed someone to fill that role. For Kaplan, this was part of Overwatch's growth and continued existence, and he felt it was needed at the time. "This is going to sound ridiculous, but I'm not someone who likes attention," Kaplan said of his time in the public-facing position. "I'm not much of an extrovert. I don't have a heavy social media presence. And so, a lot of me putting myself out there when I was at Blizzard was sort of to serve my game and my team--doing a job and a role." Overwatch--and Blizzard as a whole--has had tremendous highs and lows over the years. During periods of content droughts or Hero changes, players would often target Kaplan and other developers on the game with verbal abuse and threats. There has never been a silver bullet to eliminate player toxicity, but Blizzard discovered that dropping a ton of content into Overwatch helped 
-
-### Jeff Kaplan Says Separation From Overwatch Was Clinical : I Never Go Back
-Wed, 14 Oct 2026 16:34:31 +0000 — https://www.gamespot.com/articles/jeff-kaplan-says-seperation-from-overwatch-was-clinical-i-never-go-back/
-
-Jeff Kaplan, Overwatch's former director, said he's not played the game he was the public face of since April 2021, when he left developer Blizzard after nearly 20 years to go indie. He called his relationship with Blizzard's shooter one of "clinical separation." Kaplan revealed this to GameSpot in an interview that dove into his history with Blizzard and the creation of his new game, The Legend of California . When asked if he had continued to play Overwatch or kept tabs on it in the wake of it dropping the "2" from its name and its addition of 10 new heroes over the course of the year, Kaplan said he hadn't. He said he's essentially cut all ties with the game he used to direct. "With Overwatch, I had a very almost clinical separation, knowing how the WoW thing had gone," Kaplan said. "I've literally not played the game since April 2021." He continued: "I don't, for my own psyche, I don't read the subreddits. After I said my goodbye to competitive Overwatch and the Overwatch subreddit, I never go back and read. I don't watch YouTube [videos]. I don't search for my name in Overwatch. I don't search for Overwatch. I sort of just disconnect. I actually tell all the algorithms like, 'Yeah, I'm not really interested in Overwatch anymore. I know you think I'm the Overwatch guy, but like, that's just not for me anymore.'" It was a lesson Kaplan learned when he left the World of Warcraft team in 2008 after working on Blizzard's MMORPG for six years. He said it was more painful to st
-
-### Minecraft s Verity Is A Top Trending Halloween Costume For 2026
-Wed, 14 Oct 2026 16:29:27 +0000 — https://www.gamespot.com/articles/minecrafts-verity-is-a-top-trending-halloween-costume-for-2026/
-
-Google has released its list of the "top trending costumes" ahead of Halloween, and Minecraft's Verity has made the cut. The Frightgeist list , as it's called, is based on what's trending on Google. The list is topped by Buddy the Unicorn from director Casper Kelly's horror movie. The character Nikki from Curry Barker's viral horror hit Obsession makes the cut, too. Verity ranks No. 7. For anyone just catching up, Verity is a horror web series from ThatMob, and it takes place inside Minecraft. The character Verity is a smiling face that becomes increasingly unhinged--you can watch the full movie below. This is not to be confused with the new Anne Hathaway movie Verity. People searched for Verity the most in Los Angeles, California, Google said . https://www.youtube.com/watch?v=f6f3PhauXyg The top trending Halloween costumes overall include: Buddy the Unicorn NeeDoh Nikki (from Obsession) Agamemnon (from The Odyssey) Lily Love Braids (from Poppy Playtime) Oliver Tree Verity (from Minecraft) Carl (from Dungeon Crawler Carl) Disco Scooby Doo Hazel Hook (from Descendants) Google also published lists specific to kids, pets, and duos. You can see those lists below. Kids costumes: Dolly Parton Ella Langley Dumpling Shakira Oliver Tree Ash Ketchum Hannah Montana Spider-Gwen Michael Jackson (Thriller era) Pomni Pet costumes Centipede Dolly Parton Bullseye Diet Coke Princess Donut Lamb Chop Pua Baked Potato Roach Tow Mater Duo costumes Disco Scooby and Shaggy Cyclops and Jean Grey Nikk
-
-### PlayStation Plus Extra/Premium Games For October 2026 Revealed
-Wed, 14 Oct 2026 16:04:40 +0000 — https://www.gamespot.com/articles/playstation-plus-extra-premium-games-for-october-2026-revealed/
-
-PlayStation has revealed this month's batch of new arrivals for the PlayStation Plus Game Catalog. Most of these games will be available starting October 20. Don’t forget, all PS Plus members can claim three freebies this month– F1 25 , Hunt: Showdown 1896 , and Earth Defense Force: World Brothers 2 –but you only have until November 2 to do so. Kicking things off in October is Mafia: The Old Country , a prequel to the original trilogy of Mafia games. If you're looking for something that won't take you too long to play, has a great story, and solid action gameplay, it's a great option for a weekend game. A PS Plus re-release of Horizon Forbidden West will also be available this month, and even though it's an open-world game that plays things very safe, it's still one of the best-looking games on PlayStation. Mycopunk offers an engaging looter-shooter experience where you tear through fungal enemies; Poppy Playtime: Chapter 2 is a spooky treat for this month; and The Midnight Walk comes highly recommended. Mixing handcrafted art with a creepy dark fantasy design, this game from the minds behind Lost in Random will have you working to survive and outsmart the many monsters after the adorable Potboy. The Midnight Walk If you haven't checked out the excellent action-RPG Tales of Arise , you can strap yourself in for an enhanced edition of the lengthy game this month, and Monster Energy Supercross 25 is a pretty decent recreation of supercross motorcycle competition. Rounding out t
-
-### Xbox Nano Controller Announced, And It s So Small
-Wed, 14 Oct 2026 16:04:52 +0000 — https://www.gamespot.com/articles/xbox-nano-controller-announced-and-its-so-small/
-
-Microsoft has announced a new controlled called the Xbox Nano Controller, and it's smaller than the existing Xbox controller, and it costs less. Microsoft says the controller is designed to fit nearly every pocket and budget. "Its compact design offers a great option for younger players, smaller hands, or anyone seeking something portable for play on the go," the company said. The Nano is the smallest controller Xbox has ever released. The Xbox Nano controller is a bit over five inches in length and weighs 3.5 ounces--it's the smallest controller Microsoft has ever made. It features all 18 gameplay buttons you'd expect, so Microsoft says it should feel familiar. The smaller controller comes with a smaller price, too: $50 USD. Microsoft partnered with Samsung on a bundle that comes with a controller and two months of Game Pass Ultimate (for new subscribers) when they buy a new Samsung TV this holiday. For anyone planning to use this new controller for cloud streaming, Microsoft will soon put caps on how much you can play before you must pay more to keep going . Additionally, Microsoft and Facebook company Meta are working on a new bundle featuring the Nano controller, two months of Game Pass, and a Meta Quest headset. The Nano. The Xbox Nano controller uses rechargeable batteries and a programmable action button for quick access to things players want, like taking a screenshot or capturing gameplay. The Nano is much smaller than the standard Xbox controller. You can preorder t
-
-### Ubisoft s Latest Restructuring Plan Puts Trials Developer RedLynx On The Chopping Block
-Wed, 14 Oct 2026 15:02:27 +0000 — https://www.gamespot.com/articles/ubisofts-latest-restructuring-plan-puts-trials-developer-redlynx-on-the-chopping-block/
-
-Ubisoft has announced that it plans to shut down Trials developer RedLynx as part of its ongoing restructuring efforts, as well as reduce the workforce of its Skull and Bones studio, Ubisoft Singapore, by laying off 72 people. The closure of the Finland-based RedLynx is in a proposal stage, and Ubisoft says that because the studio isn't currently working on a new project, it makes more economic sense to close it down and retrench its 52 employees instead. Under Finnish law (via Kotaku ), Ubisoft is legally required to consult and negotiate with employees before it makes major changes to the studio, which is why Ubisoft hasn't officially announced yet that it will shut down RedLynx--although it's likely only a matter of time. The studio was first formed in 2000, and it's best known for its series of challenging--but highly enjoyable--Trials games, 2.5D motorcycle platforming games that require players to master their vehicle, gravity, and overcome a series of increasingly dangerous obstacle courses. Ubisoft acquired the studio in 2011, and RedLynx's Trials HD quickly became a breakout hit on the Xbox Arcade marketplace. Several games in the Trails franchise have been released over the years, with the last one being Trials Rising in 2019. Since then, RedLynx assisted Massive Entertainment with the Google Stadia port of The Division 2 and the Switch 2 port of Star Wars Outlaws, and it also produced the 2023 mobile game Gwen's Getaway. Last year, RedLynx lost 60 staff members dur
-
-### GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack Weirdly Invasive
-Wed, 14 Oct 2026 14:57:53 +0000 — https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/
-
-Rockstar Games has reacted to the mass GTA 6 leaks, which began in 2022, with a top developer at the studio saying it "feels like somebody's wading through your dirty washing." Bloomberg published these comments from Rockstar developers on the same day that GTA 6 leaker CyberLeek posted yet another gameplay leak, saying it could be the last. "It feels like somebody’s wading through your dirty washing,” Rockstar North's Aaron Garbut said. “It’s like they’re inside your head. You see your early work out there. Nobody’s ever supposed to see that. It’s really weirdly invasive. And so it’s quite hard to deal with on an emotional level.” https://www.youtube.com/watch?v=XpPpqZwUwl0 Rockstar and Take-Two eventually tracked down the hacker who was allegedly responsible for the leaks in 2022. This person will reportedly face court on November 9 , just days before GTA 6 releases. The hack pushed Rockstar to implement a controversial new policy requiring developers to work from the office, as opposed to remotely. Rockstar publishing boss Jennifer Kolbe said Rockstar will take another look at this policy after GTA 6 is released, but she doesn't envision major changes. "The idea that we would have the game in that many environments is something that I think the security team would not love,” she said. “I think if we did not have a game that people wanted to steal as much, maybe it would be an easier conversation.” The major 2022 hack that led to a series of GTA 6 leaks was followed up by a
-
-### GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened
-Wed, 14 Oct 2026 14:02:52 +0000 — https://www.gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened/
-
-A big new report revealed more details about Rockstar's long-awaited GTA 6 , including how the game's scope was originally much bigger and that the game could have released years sooner. Bloomberg reported that when a small team from Rockstar traveled to Miami in 2015 to begin planning GTA 6, they envisioned the game spanning "big swaths of land across both North and South America." It was in development under the codename Project Americas at this time. The report went on to say that Rockstar would pare down GTA 6's scope to include Miami and its surrounding areas instead of the original ambition. It's not a small world, though, as GTA 6's map is 3X bigger than the map in Rockstar's last game, 2018's Red Dead Redemption II. In addition to GTA 6's version of Miami with Vice City, the game takes players to a range of other locations in greater Leonida, which is a stand-in for Florida. The confirmed major locations in GTA 6 so far include: Vice City Leonida Keys Grassrivers Port Gellhorn Ambrosia Mount Kalaga Port Gellhorn in GTA 6. The report also digs into how Rockstar originally planned to develop GTA 6 concurrently with Red Dead Redemption II, which would have helped GTA 6 come to market sooner. However, as the scope for Red Dead Redemption II grew, Rockstar's Rob Nelson came to realize he needed to assign more staff at Rockstar's network of studios to help get the Western out the door in 2018. According to Bloomberg, this meant GTA 6 would be delayed "several years," but on
-
 ## Rock Paper Shotgun
+
+### "Total War: Shogun 2 Complete Edition has fallen short of both your expectations and our own standards", Sega say as they pull it from stores and restore the original
+Thu, 15 Oct 2026 14:27:58 +0000 — https://www.rockpapershotgun.com/total-war-shogun-2-complete-edition-has-fallen-short-of-both-your-expectations-and-our-own-standards-sega-say-as-they-pull-it-from-stores-and-restore-the-original
+
+Total War: Shogun 2 's Complete Edition is set to be pulled from stores by publishers Sega and developers Creative Assembly, who've admitted that it fell short of both player expectations and its creators' standards. The studio and their overlords have pledged to "investigate the issues" with the game and will be reinstating the original version of Shogun 2 as the purchasable one while they do so. Read more
+
+### "I lost the concept of home, until my grandmother took me into these forests" - Trollheim: Gnomes is a survival game from ex-DICE and Paradox devs that channels childhood fairytales
+Thu, 15 Oct 2026 13:00:00 +0000 — https://www.rockpapershotgun.com/i-lost-the-concept-of-home-until-my-grandmother-took-me-into-these-forests-trollheim-gnomes-is-a-survival-game-from-ex-dice-and-paradox-devs-that-channels-childhood-fairytales
+
+Swedish studio Off-leash Interactive and Denshattack publishers Fireshine Games have announced Trollheim: Gnomes , a survival-crafting fairytale in which you, a three-inch-high gnome, explore a procedurally generated forest derived from Nordic folklore. You'll be clambering up enormous trees, lighting campfires beneath mushrooms, and befriending or evading troublesome larger supernatural creatures known as "V&auml;sen". I caught a briefing for Trollheim: Gnomes earlier this month, and while I worry this is generic fare on some level, I'd sure like to get lost in those procgen woods. I'm also interested in the game's eight-player multiplayer, in that it seemingly creates opportunities for hide-and-seek &ndash; the game's building system affords scope to camouflage your dwellings against the litter, moss and mold of the forest floor. Read more
+
+### The rumoured Steam Frame OLED would fix one of the Frame's minor weaknesses and do nothing for its major ones
+Thu, 15 Oct 2026 12:30:00 +0000 — https://www.rockpapershotgun.com/the-rumoured-steam-frame-oled-would-fix-one-of-the-frames-minor-weaknesses-and-do-nothing-for-its-major-ones
+
+Good catch by SteamFrameHub here: snippets of the recently released Steam Frame kernel source code contain references to a possible variant of Valve's new VR headset with upgraded OLED lenses. A failed prototype, ditched during development? Maybe not &ndash; one of the related code branches, which codename the device 'Planar,' was updated on October 2nd, weeks after the LCD-lensed Frame opened for reservations . There's details, too. The OLED lenses seem to have a native resolution of 3,552x3,840 and a max refresh rate of 90Hz, suspiciously identical to the MicroOLED lenses used by Samsung's Galaxy VR headset. In standalone VR play , this would be much harsher on the (allegedly unchanged) Snapdragon SoC than the current Frame's 2,160x2160 eyescreens, but then the code also hints that Valve are getting around this with a cousin of the Frame's foveated rendering and foveated streaming tech: foveated scaling, where higher pixel density is used where your eyes look, and lower, less demanding pixel density is applied where they don't. Interesting! Even if right now, the whole idea of a Steam Frame OLED doesn't make much sense. Read more
+
+### "Some people like it, some people are annoyed by it": Substructure may look like Factorio, but it changes the automation game in some fundamental ways
+Thu, 15 Oct 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/some-people-like-it-some-people-are-annoyed-by-it-substructure-may-look-like-factorio-but-it-changes-the-automation-game-in-some-fundamental-ways
+
+In many respects, as someone who has played a lot of automation games, Substructure is very familiar. It begins with you landing on the surface of an alien world and using nothing but pluck, the tools on your UI, and the schematics in your tech tree to construct a sprawling factory that claws up resources from the planet and transforms them into materials and components to build ever bigger machines. But it also hints at more. Read more
+
+### League of Legends Classic will become a thing of the past in January 2027, though it may one day be resurrected as a limited-time event
+Thu, 15 Oct 2026 11:01:24 +0000 — https://www.rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event
+
+The classic mode rolled out in League of Legends earlier this year will cease to be a permanent addition once the calendar flips over into 2027, ending a fairly brief nostalgia run, devs Riot have announced. The mode, offering a version of the MOBA mirroring its early days, only debuted in July . It might come back in a different form down the line, but Riot have found that there isn't enough of a prolonged appetite for days gone by to be worth propping up something akin to the classic modes seen in games like World of Warcraft . Read more
+
+### Big Walk devs House House announce support for BDS Microsoft boycott, say the co-op puzzler isn't coming to Xbox
+Thu, 15 Oct 2026 10:27:34 +0000 — https://www.rockpapershotgun.com/big-walk-devs-house-house-announce-support-for-bds-microsoft-boycott-say-the-co-op-puzzler-isnt-coming-to-xbox
+
+House House, creators of breezy co-op puzzle adventure Big Walk , have become the latest high-profile game developers to express support for the BDS (Boycott, Divestment, Sanctions) movement's ongoing Microsoft boycott. The developers, who also made avian mischief sim Untitled Goose Game, wrote in a post that they've been observing the boycott &ndash; called in 2025 in protest of Microsoft's business ties with the Israeli military &ndash; for a while, citing it as the reason why Big Walk went without an Xbox console release alongside its PC, PS5, and Switch 2 versions. Read more
+
+### Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz
+Thu, 15 Oct 2026 09:51:03 +0000 — https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz
+
+Ubisoft have initiated talks over voluntary redundancies at three German studios under their banner, reportedly seeking to cut around 100 workers via the move. Ubisoft Dusseldorf, Ubisoft Berlin and Ubisoft Mainz are the studios set to be affected, with talks over the plans between Ubisoft and a works council representing staff having been initiated by the publishers last week. Read more
 
 ### Living world, god-mind or "something far more terrifying": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain
 Wed, 14 Oct 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain
@@ -451,7 +483,7 @@ If I ever go looking for my significant other and find myself inside a planet-si
 ### Fortnite is finally coming to Linux thanks to Epic rebuilding Easy Anti-Cheat, though Steam Deck support is still in the wind
 Wed, 14 Oct 2026 16:30:00 +0000 — https://www.rockpapershotgun.com/fortnite-is-finally-coming-to-linux-thanks-to-epic-rebuilding-easy-anti-cheat-though-steam-deck-support-is-still-in-the-wind
 
-Epic have announced that they're rebuilding their Easy Anti-Cheat software in order to get their flagship battle royale Fortnite running on Linux configurations, after years of fretting that they don't think they'd be able to shut down cheaters operating across all the associated kernel configurations. It won't support Steam Deck for the foreseeable, mind. Read more
+Epic have announced that they're rebuilding their Easy Anti-Cheat software in order to get their flagship battle royale Fortnite running on Linux, after years of fretting that they don't think they'd be able to shut down cheaters operating across all the associated kernel configurations. It won't support Steam Deck for the foreseeable, mind. Read more
 
 ### Over the Hill's off-roading simulation winches you in with a more laid-back take than SnowRunner's, but it'll still bite careless drivers
 Wed, 14 Oct 2026 16:00:00 +0000 — https://www.rockpapershotgun.com/over-the-hills-off-roading-simulation-winches-you-in-with-a-more-laid-back-take-than-snowrunners-but-itll-still-bite-careless-drivers
@@ -467,39 +499,4 @@ Days after a report emerged about them imposing an "AI-first" production model o
 Wed, 14 Oct 2026 15:17:23 +0000 — https://www.rockpapershotgun.com/asha-sharma-announces-xbox-labs-project-to-explore-new-technology-which-sure-sounds-like-tinkering-with-old-games-through-ai
 
 As part of Microsoft's ongoing , physics-ignoring push to do more business with thousands fewer staff , games chief Asha Sharma has announced Xbox Labs: a new umbrella for Xbox's R&D into the kind of game remixing and rejigging most visibly characterised by viralities like Halo for browsers , or Mario in Elden Ring . Both enabled, perhaps tellingly, by the AI-driven decompilation of the original source codes. Read more
-
-### Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date
-Wed, 14 Oct 2026 14:45:00 +0000 — https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date
-
-The employment tribunal between the Independent Workers' Union of Great Britain (IWGB) and GTA 6 maker Rockstar games was due to conclude this Friday, but the legal case has now been extended into November. It's like everything Rockstar touches gets delayed&hellip; Read more
-
-### "We are here to give you something to believe in": the former Disco Elysium devs of Summer Eternal reveal new RPG Red Rooster, a game of fire, water and alternate selves
-Wed, 14 Oct 2026 14:15:41 +0000 — https://www.rockpapershotgun.com/we-are-here-to-give-you-something-to-believe-in-the-former-disco-elysium-devs-of-summer-eternal-reveal-new-rpg-red-rooster-a-game-of-fire-water-and-alternate-selves
-
-Earlier this month, the former Disco Elysium developers of worker co-operative studio Summer Eternal sent me a 500-page anthology describing their new game Red Rooster. It's a 3D, real-time, third-person RPG you could broadly style as a spiritual Disco successor, working in the tradition of Planescape: Torment and Vampire: The Masquerade - Bloodlines , but which also owes much inspiration to Baldur's Gate 3 and Dark Messiah of Might and Magic . It takes place in a magic realist, "our-world-adjacent", mightily flammable and divided river city called Arta-Tantor, created with Unreal Engine and housing a "physics-powered sandbox of objects you can individually move, manipulate &ndash; and burn." Read more
-
-### Rockstar are "confident" that GTA 7 won't take another eight years, despite similar promises of greater efficiency seemingly having come with Red Dead Redemption 2
-Wed, 14 Oct 2026 12:05:28 +0000 — https://www.rockpapershotgun.com/rockstar-are-confident-that-gta-7-wont-take-another-eight-years-despite-similar-promises-of-greater-efficiency-seemingly-having-come-with-red-dead-redemption-2
-
-Future Rockstar games won't take as long to make as GTA 6 has, the studio leadership currently behind the series have asserted, saying they're "confident" work that's gone into this latest game will allow them to build "more sideways than upwards" going forwards. That's despite Red Dead Redemption 2 seemingly having been viewed in a similar light when Rockstar opted to put everyone on getting over the line rather than developing GTA 6 concurrently. Read more
-
-### With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock
-Wed, 14 Oct 2026 11:20:34 +0000 — https://www.rockpapershotgun.com/with-the-steam-frame-becoming-valves-new-favourite-vr-child-theyre-selling-off-their-last-index-headset-stock
-
-Valve have officially discontinued the Valve Index VR kit, launching a 20%-off sale on its headset and controllers to get rid of any lingering stock. This was arguably an inevitable end, given the newer, more multitalented Steam Frame launched last month, with the Frame's memory-shortage-induced price hike failing to discourage enough orders to the extent that its waiting list now stretches into 2027. It's also, truth be told, not really an effective discount &ndash; buying the Index headset, both controllers, and two separate (yet essential) HTC-made base stations totals &pound;1,027. Which isn't just more than an entry-spec Frame, but more than the &pound;919 that the full Index kit originally launched at. Read more
-
-### Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx
-Wed, 14 Oct 2026 10:43:55 +0000 — https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report
-
-Update: Following a request for comment, Ubisoft have confirmed that they are proposing to close Redlynx, affecting "up to 52 positions", subject to negotiation under local labour laws. As regards Ubisoft Singapore, "70 positions have been impacted to align the studio with upcoming production needs". Ubisoft's statement stresses that the Singapore team "remains an important part of Ubisoft&rsquo;s global production organisation." Our original story continues below. Read more
-
-### "My idea of a Netflix for games doesn’t work": Garry's Mod creator says struggling spiritual successor S&box will go free to play as part of major rethink
-Wed, 14 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/my-idea-of-a-netflix-for-games-doesnt-work-garrys-mod-creator-says-struggling-spiritual-successor-sbox-will-go-free-to-play-as-part-of-major-rethink
-
-Earlier this year, Garry's Mod and Rust developers Facepunch Studios released S&box , a mix of open source game development platform/spiritual successor to their Valve prop-filled physics sandbox. It's not fared well, only earning mixed reviews and being stuffed with low quality AI generated games early doors. Now, Facepunch founder Garry Newman has announced plans for a major overhaul that'll see S&box go free to play. Read more
-
-### If you've sworn off genAI Crazy Taxi and dislike all the twerking in GTA 6, consider Shifu: Traffic Masters, a jolly open world driving game set in 1990s China
-Wed, 14 Oct 2026 09:28:34 +0000 — https://www.rockpapershotgun.com/if-youve-sworn-off-genai-crazy-taxi-and-dislike-all-the-twerking-in-gta-6-consider-shifu-traffic-masters-a-jolly-open-world-driving-game-set-in-1990s-china
-
-I'm not your guy for computerised automobile magic picture shows, or "car videogames" as they are popularly known &ndash; for that, we turn fearfully to Mark Warren, whose every word during Gchat meetings is screamed against a backdrop of throbbing motors. Still, once in a blue moon a car game hooks my interest. Take Shifu: Traffic Masters, which we can approximately translate as Driver and/or Midtown Madness (those are explicit inspirations), but set in northern China during the 1990s. It's got a demo on Steam. Cars emit steam, don't they? How poetic of them. Here's a trailer. Read more
 

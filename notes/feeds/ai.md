@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-15T09:25:32.701Z
+# AI — harvested 2026-10-15T15:19:16.752Z
 
 ## OpenAI
+
+### Teaching students to think and learn through questions
+Thu, 15 Oct 2026 13:00:00 GMT — https://openai.com/index/teaching-students-to-think-and-learn-through-questions
+
+Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
 
 ### Amp puts AI agents to work beyond code with OpenAI models
 Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/amp-beyond-coding
@@ -27,12 +32,10 @@ Wed, 14 Oct 2026 00:00:00 GMT — https://openai.com/index/the-eus-next-chapter-
 
 New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
 
-### Higgsfield takes AI video from 1 minute to over 10
-Tue, 13 Oct 2026 12:00:00 GMT — https://openai.com/index/higgsfield-longer-videos-voice
-
-Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.
-
 ## Hugging Face
+
+### Apertus 1.5 Release Notes
+Thu, 15 Oct 2026 09:08:45 GMT — https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
 
 ### HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
 Wed, 14 Oct 2026 16:12:42 GMT — https://huggingface.co/blog/allenai/hiro-acev2

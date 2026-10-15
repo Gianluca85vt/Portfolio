@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-15T09:25:32.701Z
+# Manga — harvested 2026-10-15T15:19:16.752Z
 
 ## Anime News Network
 
-### I Lost My Adventurer's License TV Anime's Teaser Video Reveals Main Cast, Staff, January 2027 Debut
-Thu, 15 Oct 2026 03:54:01 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/i-lost-my-adventurer-license-tv-anime-teaser-video-reveals-main-cast-staff-january-2027-debut/.242837
+### Japanese Animation TV Ranking, September 28-October 4
+Thu, 15 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842
 
-Hiroki Yasumoto, Yuka Iguchi star in studio Palette anime
+<cite>The Apothecary Diaries</cite> season 3 debuts with 4.8% rating, <cite>Tougen Anki: Nikko Kegon Falls Arc</cite> with 2.7% rating
 
-### Actors Gen Hoshino, Yui Aragaki Announce Birth of 1st Child
-Wed, 14 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-14/actors-gen-hoshino-yui-aragaki-announce-birth-of-1st-child/.242808
+### This Week in Anime - Incomprehensible Legend Toshiki Inoue
+Thu, 15 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-15/.242803
 
-<i>The Full-Time Wife Escapist</i> co-stars announced birth in joint statement
+Come meet the man behind L and Light's homoerotic foot massage scene.
 
-### The Seven Knights of the Marronnier Kingdom Anime Casts Shōya Ishige
-Wed, 14 Oct 2026 23:53:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/the-seven-knights-of-the-marronnier-kingdom-anime-casts-shoya-ishige/.242824
+### Gundam Blitz Order Mobile Game Announced
+Thu, 15 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/gundam-blitz-order-mobile-game-announced/.242852
 
-Ishige voices noble knight Johann
+Network test for 1st idle game in <cite>Gundam</cite> franchise will host network test in November
 
-### SANZIGEN Animates Sakura Miko's New Hololive Music Video
-Wed, 14 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-14/sanzigen-animates-sakura-miko-new-hololive-music-video/.242810
+### Crunchyroll Adds English Dub for Saga of Tanya the Evil the Movie Anime
+Thu, 15 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-adds-english-dub-for-saga-of-tanya-the-evil-the-movie-anime/.242851
 
-Hololive talent Sakura Miko gets the anime treatment for her song “PON-DERFUL!!!”
+Film opened in Japan in February 2019
 
-### Spirited Away Stage Play's World Tour Unveils Cast
-Wed, 14 Oct 2026 21:35:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/spirited-away-stage-play-world-tour-unveils-cast/.242822
+### Voice Actors Kōji Yusa, Miyari Nemoto Announce Marriage
+Thu, 15 Oct 2026 08:10:33 -0400 — https://www.animenewsnetwork.com/interest/2026-10-15/voice-actors-koji-yusa-miyari-nemoto-announce-marriage/.242848
 
-Kanna Hashimoto, Mone Kamishiraishi, Momoko Fukuchi reprise Chihiro role
+Yusa creates X/Twitter account just to make announcement, will deactivate it next week
 
-### Croquette!'s Manavu Kishimoto Launches New Manga
-Wed, 14 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/croquette-s-manavu-kishimoto-launches-new-manga/.242805
+### Fate/Extra Record Game Highlights Opponents in New Character Promo Video
+Thu, 15 Oct 2026 07:51:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/fate-extra-record-game-highlights-opponents-in-new-character-promo-video/.242844
 
-Kishimoto launched <cite>Tantei Neko Machida</cite> manga on Tuesday
+Also: Game to hold special hands-on event in Tokyo on November 7-8
 
-### North American Anime, Manga Releases, October 11-17
-Wed, 14 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/north-american-anime-manga-releases-october-11-17/.242757
+### 'Are You a Landmine, Chihara-san?' Anime Announces January 7 Debut
+Thu, 15 Oct 2026 07:43:18 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-15/are-you-a-landmine-chihara-san-anime-announces-january-7-debut/.242854
 
-<cite>The Rising of the Shield Hero Season 4</cite> anime; <cite>Badducks, GalaXic Baseball League, Are You a Landmine, Chihara-san?</cite> manga ship
+The staff for the&nbsp;television anime of Ryon's Are You a Landmine, Chihara-san? (Jirai nandesu ka? Chihara-san) manga announced on Thursday the anime's...
 
-### Seven Seas Licenses Ushiyama-san, Mouse Royale, This World Is Worth Fighting For, More Manga/Novels
-Wed, 14 Oct 2026 16:22:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/seven-seas-licenses-ushiyama-san-mouse-royale-this-world-is-worth-fighting-for-more-manga-novels/.242817
+### Bless TV Anime Casts Kōki Uchiyama
+Thu, 15 Oct 2026 07:23:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/bless-tv-anime-casts-koki-uchiyama/.242855
 
-Also: <cite>My House Cat Became the World's Strongest?!</cite>, <cite>The Duke is Obsessed with the Vicious Omega</cite>, <cite>Alice, All the Way to Outer Space</cite>
+Uchiyama voices Akiharu Nakano in series debuting in January
 
-### Ei Ohitsuji's Ochibure Zeus to Dorei no Ko Manga Changes Publisher
-Wed, 14 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/ei-ohitsuji-ochibure-zeus-to-dorei-no-ko-manga-changes-publisher/.242802
+### Kei Urana's Gachiakuta Manga Resumes on November 11
+Thu, 15 Oct 2026 07:08:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/kei-urana-gachiakuta-manga-resumes-on-november-11/.242853
 
-Manga moves from <cite>Nemuki+</cite> magazine to Ichijinsha's Zero-Sum Online website in spring 2027
+Manga has been on hiatus since August 5 so author could do research
 
-### Zero Escape Writer Kōtarō Uchikoshi Announces Crash Keys Company With Cryptic Website, 'Canceled' Game
-Wed, 14 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/zero-escape-writer-kotaro-uchikoshi-announces-crash-keys-company-with-cryptic-website-canceled-game/.242816
+### I Got a Cheat Skill in Another World 2nd Season Anime Reveals Teaser Video, New, Returning Cast & Staff, January 2027 Debut
+Thu, 15 Oct 2026 05:58:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/i-got-a-cheat-skill-in-another-world-2nd-season-anime-reveals-teaser-video-new-returning-cast-and-/.242845
 
-Uchikoshi stated that he had been working on new game that "was suddenly canceled"
+Ikumi Hasegawa, Sora Amamiya join anime's cast
 
-### Tezuka: God of Manga Documentary Film Launches Kickstarter Campaign
-Wed, 14 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/tezuka-god-of-manga-documentary-film-launches-kickstarter-campaign/.242815
+### Firefly Wedding TV Anime Casts Kanon Amane
+Thu, 15 Oct 2026 05:37:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/firefly-wedding-tv-anime-casts-kanon-amane/.242849
 
-Film scheduled for completion in 2028 with backer rewards slated for July 2028 distribution
+Amane voices courtesan Yukari in ongoing anime
 
-### Kadokawa Apologizes After Using Character Design Reference Without Permission for Pitch-Black Infatuation Manga
-Wed, 14 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-14/kadokawa-apologizes-after-using-character-design-reference-without-permission-for-pitch-black-/.242796
+### Matsurika Kanriden TV Anime Casts Takuya Satō, Hiyori Kōno
+Thu, 15 Oct 2026 05:16:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/matsurika-kanriden-tv-anime-casts-takuya-sato-hiyori-kono/.242846
 
-<cite>Pitch-Black Infatuation</cite> used character designs, backgrounds from Ieri Komen's <cite>Festival of Heresies</cite> manga
+Series debuts in January 2027
 
 ## Crunchyroll News
 
@@ -110,10 +110,10 @@ One-Punch Man Season 3 Cour 2 anime revealed a new visual and trailer, along wit
 
 ## MyAnimeList News
 
-### Matsurika Kanriden Announces Additional Cast Pair
-Thu, 15 Oct 2026 02:18:28 -0700 — https://myanimelist.net/news/74823577?_location=rss
+### Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru 2nd Season Reveals Additional Cast, New Staff, First Promo for Winter 2027
+Thu, 15 Oct 2026 03:22:24 -0700 — https://myanimelist.net/news/74823641?_location=rss
 
-The official website for the television anime adaptation of Rinne Ishida s Matsurika Kanriden (The Legend of Bureaucrat Matsurika) light novel announced an additional pair of cast on Thursday. The anime series is scheduled to premiere on Tokyo MX, MBS, TV Aichi, and BS11 in January 2027. Voice actors Hiyori Kouno (Kabushikigaisha Magi-Lumi&egrave;re) and Takuya Satou (Mao) are joining the cast as Ro Lian and Akatsuki, respectively. Yuuichi Nakazawa (Toaru Ossan no VRMMO Katsudouki) is direc...
+The official website for the television anime adaptation of Miku s Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too) light novel revealed a pair of additional cast, new staff, a key visual (pictured), and the first promotional video for the second season on Thursday. The anime series will premiere on Tokyo MX, BS11, and other stations in January 2027. Vo...
 
 ### Matsurika Kanriden Announces Additional Cast Pair
 Thu, 15 Oct 2026 02:18:11 -0700 — https://myanimelist.net/news/74823576?_location=rss
@@ -144,11 +144,6 @@ Production company Shochiku opened an official website for a television anime ad
 Tue, 13 Oct 2026 08:35:34 -0700 — https://myanimelist.net/news/74818100?_location=rss
 
 The official website for the The Fable television anime revealed additional cast and the main visual (pictured) for its second season on Wednesday. The new season will adapt the Yamaoka-hen (Yamaoka Arc) from Katsuhisa Minami s crime comedy manga and is scheduled to premiere on the Nippon TV network on January 10, 2027, airing every Sunday at 12:55 a.m. Cast Yamaoka: Kouichi Yamadera (Yozakura-san Chi no Daisakusen) Azami: Takanori Hoshino (Sentai Red Isekai de Boukensha ni Naru) Eucalyptus...
-
-### Kusuriya no Hitorigoto Movie Reveals Additional Cast, Character Trailers [Update 10/14]
-Tue, 13 Oct 2026 07:13:18 -0700 — https://myanimelist.net/news/74817857?_location=rss
-
-The official website for the Kusuriya no Hitorigoto anime series revealed the additional cast and two character trailers for the anime movie on Tuesday. The movie, subtitled Bouhi no Hihou (The Secret Treasure of the Deceased Consort), opens in Japanese theaters on December 11. Cast Birou: Nobuo Tobita (Youjo Senki) Shuu-u: Kumiko Watanabe (Tomo-chan wa Onnanoko!) Bisen: Hirofumi Nojima (Komekami! Girls) Suija: Kensho Ono (Jigokuraku) Eishou: Ryouta Takeuchi (Nippon Sangoku) Kaja: Jirou Saitou (...
 
 ## Otaku USA
 

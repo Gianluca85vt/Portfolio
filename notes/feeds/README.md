@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-15T09:25:32.701Z
+# Source feeds — harvested 2026-10-15T15:19:16.752Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,8 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- Game Developer — gamescom
+- Push Square — GTA 6 Barely Makes the Cut for The Game Awards Game of the Year Vote
+- Polygon — ‘Grand Theft Auto 6’ Is Officially Eligible for the 2026 Game Awards
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 97 items
+- [Games](games.md) — 96 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 10 items
-- [AI](ai.md) — 12 items
-- [Manga](manga.md) — 30 items
-- [Film & TV](film-tv.md) — 67 items
+- [3D](3d.md) — 15 items
+- [AI](ai.md) — 13 items
+- [Manga](manga.md) — 29 items
+- [Film & TV](film-tv.md) — 68 items
 
-Total: 298 items.
+Total: 303 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
