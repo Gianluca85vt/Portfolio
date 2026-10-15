@@ -6,6 +6,8 @@ excerpt: Nvidia's neural rendering takes half your frame rate in NBA 2K27. A ReS
 cover: /img/blog/dlss-5-neural-rendering-second-gpu-offload/shot-01.jpg
 ---
 
+*Update, 15 October 2026: Nvidia has since published a revised DLSS 5 model it says costs about half the GPU overhead of the September version measured here. See [DLSS 5's new model: 24% smaller, half the cost](/blog/dlss-5-smaller-model-half-the-gpu-cost/).*
+
 Two RTX 5060 Ti 16GB cards, both on PCIe 5.0 x8, a monitor plugged into each
 one, a Ryzen 7 7800X3D underneath. That is the machine Marcelo Guibout put on
 video over the weekend, and the reason for the second card is not rendering.
