@@ -1,11 +1,36 @@
-# Tech — harvested 2026-10-15T20:02:30.280Z
+# Tech — harvested 2026-10-16T09:17:07.456Z
 
 ## Ars Technica
+
+### KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell
+Thu, 15 Oct 2026 22:21:06 +0000 — https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/
+
+Marking the 30th anniversary of software developer KDE on October 14, the company released Plasma 6.8, debuted a movie, and retired Plasma's native X11 session support. The announcement from KDE dubs the new Plasma 6.8 as the "30th Anniversary Edition" and describes the update as preparing Plasma for the future. Legacy X11 applications will still function via the XWayland compatibility layer , and KDE applications will also continue supporting X11 under other desktop environments. After 42 years in service, the X11 protocol is losing another major desktop environment. Plasma will fully adopt the Wayland system and put support for starting new X11 sessions in Plasma to bed. Users opting to stay on Plasma 6.7 will keep their existing sessions for now. The move was expected, with GNOME officially dropping X11 sessions by default in 2025 . The new Plasma 6.8 brings many improvements, including increased support for adding window decorations (like shadows and rounded corners) to third-party apps, and a more streamlined Union theming system . Other notable additions include Nvidia triple buffering being enabled by default, Kup backup integration (KDE's backup utility—now integrated into Plasma), and kscreenctl , a command-line utility that allows power users to adjust display configurations. Read full article Comments ]]>
+
+### Plex now helps sell movie theater tickets
+Thu, 15 Oct 2026 21:22:15 +0000 — https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/
+
+Plex, which made a name for itself by letting users share movies they own, is now helping sell movie theater tickets. The company is looking to monetize its content-discovery capabilities and expand its business beyond its media server software. Plex partnered with Fandango, which has sold movie tickets since 2000, to drive ticket sales from people searching for movies to stream. Per the announcement: Starting today, Plex users in the US will see a Fandango ticketing option on title pages for movies currently playing in theaters, allowing them to click through to Fandango to find showtimes and purchase tickets. The integration also enables direct attribution through Kochava, giving studios and advertisers greater visibility into how campaigns and audience engagement translate into ticket sales. Fandango says it sells tickets for 31,000 movie theater screens in the US. The Plex deal allows it to leverage data from Plex’s streaming service (Plex claims users of the service “make more than 100 million streaming decisions each month”), including "ratings and cross-platform viewing" to gain “insight into audience intent," the announcement said. Read full article Comments ]]>
+
+### Hegseth’s dubious low-T screening may flag up to 25 percent of the Army
+Thu, 15 Oct 2026 21:09:57 +0000 — https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/
+
+Up to a quarter of active-duty Army members could receive a low testosterone result from mandatory military screening, despite the true prevalence of the condition likely being a tiny fraction of that figure, according to a study published Thursday in JAMA . The finding adds to concerns that the mandatory screening announced by Defense Secretary Pete Hegseth in July will lead to a cascade of unnecessary medical evaluations for military members. Those evaluations could result in inappropriate testing, inaccurate results and diagnoses, and overtreatment that could cause harm, including infertility. Medical experts, including the Endocrine Society and the American Urological Association (AUA), have recommended against blanket screenings for these reasons. Still, the Pentagon has moved forward with the plans, releasing clinical guidance in September . The JAMA study highlights the reasons why testosterone levels are not measured in men without symptoms—and also offers a glimpse of how many Army members could become ensnared in the clinically dubious screenings. Read full article Comments ]]>
+
+### Targeted ads delivered 0-click exploits to install mercenary malware
+Thu, 15 Oct 2026 20:32:41 +0000 — https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/
+
+Researchers say that mercenary hackers laced ads with zero-click exploits that installed sophisticated malware on the devices of targeted individuals when they did nothing other than load a website or open an installed app. The finding, published Thursday by the University of Toronto’s Citizen Lab, said the incident is likely to be the first confirmation of zero-click mercenary spyware delivered through targeted ads. The attacks, which worked on iOS and Android devices, are particularly pernicious because they work without requiring any interaction from the target and are invisible unless users run special forensic hardware or software. Citizen Lab said it confirmed that AdFection, as it named the campaign, infected 45 devices at international media organization Al Jazeera in 2024 and 2025. A clear warning signal “This investigation should … serve as a clear warning signal to news organizations around the world that they may be being actively targeted via this new threat,” Citizen Lab researchers wrote. “This targeting may happen both in newsrooms and to individual journalists, editors, and other staff members.” Their report went on to say: “The distribution of spyware via targeted ads represents a security risk not only for potential victims but also for states and civil society at large.” Read full article Comments ]]>
+
+### Above the 911? Porsche previews a new mid-engined supercar.
+Thu, 15 Oct 2026 20:30:02 +0000 — https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/
+
+Porsche showed us a preview of a new model this afternoon as it unveiled the Mission S concept in New York. It’s a mid-engined sports car that will slot into the Porsche range above the 911 . But this won’t be a limited-run car like the Carrera GT or 918 Spyder—instead it will be a regular production model, part of Porsche’s plan to dig itself out of a financial hole by 2035. Things have been tough for the German automaker of late. Just three years ago its profit margin was the envy of the industry at 18 percent; last year it collapsed to just 1 percent. It has recovered a little since then, and Porsche’s board has a plan to get back to double-digit margins by 2035, called “Sportwagenschmiede '35,” which involves prioritizing “value over volume,” with greater individualization for customers—and the associated higher selling prices that come with it. Note the quad exhausts—will this be powered by a flat-8? Credit: Porsche “We are pursuing a clear plan with our strategy Sportwagenschmiede '35. The ultimate goal is to further strengthen our unique sports car brand–across all model lines and with new, highly desirable models in particularly high-margin segments,” said Porsche Chairman Michael Leiters. Read full article Comments ]]>
 
 ### What did the Liberty Bell sound like? Science is on the case.
 Thu, 15 Oct 2026 19:10:03 +0000 — https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/
 
-The Liberty Bell , with its famous crack, hasn't been rung in 180 years, but that hasn't stopped scientists from pondering what the bell might have sounded like when tolling. In honor of the nation's 250th anniversary, researchers at Penn State University have modeled its acoustic properties, drawing on data collected from one of the bell's replicas. The work was first presented at a meeting of the Acoustical Society of America in Philadelphia earlier this year, followed by an article in Physics Today. Historians aren't sure when exactly the Liberty Bell acquired its distinctive crack, just that it occurred sometime between 1817 and 1846. An 1846 account in the Public Ledger described the ringing of the bell on February 23 that year and mentioned that the bell had developed a crack, which someone had attempted to fix by filing the sides down. But it didn't work: The February 23 ringing extended the crack even more, so much so that "the old Independence Bell... now hangs in the great steeple irreparably cracked and forever dumb." Nobody has heard it ring since. This wasn't the first time the bell had cracked; the rim cracked shortly after it arrived in Philadelphia in 1752, the very first time the clapper struck while testing the sound. It was recast by two local foundry workers, John Pass and John Stow, not once but twice, because the first recast produced a sound that one bystander likened to coal scuttles banging together. Read full article Comments ]]>
+The Liberty Bell , with its famous crack, hasn't been rung in 180 years, but that hasn't stopped scientists from pondering what the bell might have sounded like when tolling. In honor of the nation's 250th anniversary, researchers at Penn State University have modeled its acoustic properties, drawing on data collected from one of the bell's replicas. The work was first presented at a meeting of the Acoustical Society of America in Philadelphia earlier this year, followed by an article in Physics Today. Historians aren't sure exactly when the Liberty Bell acquired its distinctive crack, just that it occurred sometime between 1817 and 1846. An 1846 account in the Public Ledger described the ringing of the bell on February 23 that year and mentioned that the bell had developed a crack, which someone had attempted to fix by filing the sides down. But it didn't work: The February 23 ringing extended the crack even more, so much so that "the old Independence Bell ... now hangs in the great steeple irreparably cracked and forever dumb." Nobody has heard it ring since. This wasn't the first time the bell had cracked; the rim cracked shortly after it arrived in Philadelphia in 1752, the first time the clapper struck while testing the sound. It was recast by two local foundry workers, John Pass and John Stow, not once but twice, because the first recast produced a sound that one bystander likened to coal scuttles banging together. Read full article Comments ]]>
 
 ### Black Sea drone attacks enter NATO country's territorial waters for first time
 Thu, 15 Oct 2026 18:48:11 +0000 — https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/
@@ -37,32 +62,37 @@ Thu, 15 Oct 2026 15:12:58 +0000 — https://arstechnica.com/ai/2026/10/youtube-m
 
 Genuine human creativity takes time, but you know what doesn't? AI slop. There are countless AI models out there that can make something that passes for music, and you might come across those tracks on streaming services without realizing it. Google says it will begin labeling that content in YouTube Music, building on similar disclosures in the main YouTube app. Google is not outright banning AI music or even speaking ill of it. "Generative AI is opening up new ways for artists to create, experiment, and share music," the company says in a blog post. However, the company also acknowledges that people want to know if a song was created with generative AI tools. A new label for AI content on YouTube Music is now rolling out in the app and on the website, which looks a lot like a label Google began adding to AI-generated videos on YouTube earlier this year. Read full article Comments ]]>
 
-### Rewilding could help vulnerable islands keep pace with rising seas
-Thu, 15 Oct 2026 15:05:40 +0000 — https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/
-
-Coral-fringed tropical atolls are among the landforms most threatened by global warming, but many have a potential superpower: Healthy ecosystems may help them keep pace with rising seas. Atoll islands with native vegetation and thriving seabird populations are “naturally active systems that can change and adapt to their environmental conditions if they are allowed to do so,” said Nick Graham , a marine ecologist at Lancaster University in the United Kingdom, who led an international team of scientists that studied island resilience across 28 atoll islands in the Pacific and Indian oceans. Their paper, published Wednesday in Science Advances , shows that restoring atoll ecosystems reinforces their growth. Seabirds ferry nutrients from the open ocean and deposit them on the atolls as guano that nurtures land plants, marine life and coral growth. This provides more material for reef building, as parrotfish and other reef feeders turn dead coral into sand to maintain beaches, while native plants with extensive root networks stabilize sediments. Read full article Comments ]]>
-
-### Fridge hack costing millions and sparking fires stemmed from poor security
-Wed, 14 Oct 2026 21:35:09 +0000 — https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/
-
-Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of perishables and, in some cases, fires. As is now the norm, basic cybersecurity would have prevented it. French authorities say the systems, made up of entire fleets of refrigerators and freezers throughout a store, were hacked. More specifically, Internet-connected controllers that allow technicians to remotely administer the store-wide systems were compromised. The unknown attackers responsible then activated defrosters long enough for the fridges to reach temperatures as high as 50° Celsius (122° Fahrenheit). By the time the mass compromise was discovered, food was spoiled, and in some cases their electrical systems caught fire. The hacks that didn't have to happen Multiple security advisories and public research reports show that all three of the controller models reportedly hacked in the incident—sold by Danfoss of Denmark and Dixell and its parent company Copeland in the US—contained critical vulnerabilities that allow attackers to remotely log in to the devices with the same system rights as administrators. Until recently, Danfoss controllers, for instance, used a credential that changes each day. The password is generated by the publicly available firmware based on the date. A hacker who takes the time to analyze the code can do the same thing on any device that hasn’t received a recent update
-
-### Epic says its new vibe-coded Epic Games Launcher is faster than Steam
-Wed, 14 Oct 2026 21:15:56 +0000 — https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/
-
-Nearly eight years after Epic took on Steam with its own Game Store and launcher, the Fortnite maker is deploying a new tool to give it an edge over Valve: vibe coding. In announcing the new publicly available "Preview" build of its Epic Games Launcher, Epic writes that "programming is hard. So, instead of doing that, we vibe coded a new Epic Games Launcher that’s way faster and more responsive than the current one, and has a new look." And while that might sound a little tongue-in-cheek, Epic Games Store General Manager and VP Martin Keely told PC Gamer that the team "started from scratch" and used AI as "a tool to write and review new features and new capabilities from the ground up in a different tech stack than what we had previously." The goal, Keely said, was to "look at functionality that existed [in the current Epic Games Launcher] and [say] we want to replicate that, but not the code itself." Speaking to IGN , Keely clarified that using AI to code the new Launcher "made us more efficient and allowed a small team to rewrite the code base and be able to launch it faster across platforms, support Windows and Mac, and we're going to have a Linux version as well." Read full article Comments ]]>
-
-### Things are finally looking up for NASA's first missions to Venus in a generation
-Wed, 14 Oct 2026 20:48:07 +0000 — https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/
-
-Most planetary scientists will tell you the heyday of Venus exploration was more than a generation ago. That is about to change. Two NASA missions are on track to launch to Venus in the early 2030s. The first, known as the Deep Atmosphere Venus Investigation of Noble gases, Chemistry, and Imaging (DAVINCI), is now scheduled for launch in December 2030, a year earlier than previously planned. DAVINCI will send a parachute-assisted descent probe through the atmosphere of Venus, returning the first direct images of the planet's surface since 1982. A second mission, Venus Emissivity, Radio science, InSAR, Topography, And Spectroscopy (VERITAS), will follow with a launch in November 2032 to map the Venusian surface by radar from orbit. The European Space Agency is building another orbiter, Envision, for launch to Venus in 2032. The Venus armada might get started as soon as next year, when Rocket Lab aims to launch a privately funded probe to search for signs of organic material in the planet's clouds. Read full article Comments ]]>
-
-### Schools across US protest FCC plan that could disconnect kids from Internet
-Wed, 14 Oct 2026 20:15:56 +0000 — https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/
-
-Schools and libraries from around the US pleaded with the Federal Communications Commission to drop the idea of ending E-Rate, a $2 billion-a-year program that connects students and library visitors to the Internet. FCC Chairman Brendan Carr has criticized school districts for having "experimented with a massive increase in screen time for students," and said E-Rate expanded too far beyond its original purpose of "supporting basic Internet access to schools and libraries for educational purposes." In June, Carr led a 2-1 vote to issue a Notice of Proposed Rulemaking (NPRM) seeking public comment on whether E-Rate should be "limited or sunset to reflect today’s extensive connectivity rates." Carr's proposal could result in E-Rate cutting the discounts that schools and libraries receive for telecom services and equipment, and imposing more restrictions on how E-Rate money can be used. The FCC seeking comment on whether to sunset the program also raises the possibility that Carr might choose to axe E-Rate entirely. Read full article Comments ]]>
-
 ## The Verge
+
+### The Tesla Roadster flew, drove upside down, and hit 60mph in under a second
+2026-10-15T21:28:27-04:00 — https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk
+
+Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a second. It was an impressive demonstration of a car that likely will come with some heavy caveats and restrictions if it ever goes into production. The event was less than 30 minutes and felt more like a stunt show than a product reveal. Indeed, there was no mention of price, release date, or other such mundane details. Musk promised the hypercar would go into production in 2028, but after near … Read the full story at The Verge. ]]>
+
+### Steam can now show game achievements in separate ‘sets’
+2026-10-15T19:18:28-04:00 — https://www.theverge.com/games/1012541/valve-steam-achievement-sets
+
+Valve is introducing a major new feature for Steam achievements called "achievement sets" that lets developers list different groups of achievements for a base game and DLCs. "In games that support sets, you still unlock achievements by playing the game as usual," Valve says . "But when you browse what you have unlocked afterward, Steam will break the long list of game achievements into the developer-created sets, making it easier to see what you have completed and to find other related achievements you can unlock next." Achievement sets have their own progress bars, and if you finish a set, you'll get a "set complete" trophy that's visible … Read the full story at The Verge. ]]>
+
+### ChatGPT can peek at your Chrome tabs now
+2026-10-15T18:43:23-04:00 — https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs
+
+OpenAI's ChatGPT Atlas browser is gone , but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs when you tag Chrome in ChatGPT's web or desktop app, posting a demo video showing someone asking ChatGPT to compare the three tabs they have open with sofas they're considering. A few big upgrades for Chrome users today! We're bringing the power of computer use to anyone who uses Chrome. First up: ChatGPT can now use your tabs in Chrome to make answers more useful and get things done for you. If … Read the full story at The Verge. ]]>
+
+### Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch
+2026-10-15T18:35:55-04:00 — https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled
+
+Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition , a remaster of the 2011 strategy game, launched on Tuesday, and it bundled the main game and all of its DLC with promised upgrades including "improved visuals," "1440p and 4K UI scaling," and modernized controls. It has an "Overwhelmingly Negative" rating on Steam , where it has already been pulled, and posts on Reddit showcase artwork that users believe AI messed up. "We're aware that Total War: Shogun 2 - Complete Editio … Read the full story at The Verge. ]]>
+
+### The tech backlash is now in theaters
+2026-10-15T17:39:52-04:00 — https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial
+
+Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg as a robotic villain whose ambitions are destabilizing society . Nathan Fielder and Lance Oppenheim's You Can See Everything paints a damning picture of Theranos founder Elizabeth Holmes as she prepares for her ongoing stint in prison . After years of being widely celebrated as a visionary, you can see how the larger narrative around Elon Musk has shifted in projects like Alex Gibney's Musk docume … Read the full story at The Verge. ]]>
+
+### Trump posts AI-edited photo to brag about White House restoration work
+2026-10-15T17:09:33-04:00 — https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column
+
+President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a "restored" one, has several discrepancies and was flagged by Google's AI detector as "made or edited with OpenAI." As pointed out by users on Reddit , the picture of the "restored" column has an uneven number of steps on both sides of the structure. The number of steps also doesn't match up with the ones in the "before" photo. Additionally, the before and after photos appear nearly identical in angle and detail; the reflection i … Read the full story at The Verge. ]]>
 
 ### Bluesky s AI tool now lets you make games and apps to share on social
 2026-10-15T15:57:16-04:00 — https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps
@@ -83,36 +113,6 @@ The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amel
 2026-10-15T13:48:57-04:00 — https://www.theverge.com/tech/1012200/sony-made-a-5900-gold-plated-walkman-mp3-player
 
 This render with a transparent background is the closest we’ll ever come to touching one of these things. | Image: Sony Sony has announced a trio of new Walkman portable media players that start at an already absurd $1,899.99 for the NW-ZX900 and climb all the way up to $5,899 for the gold-plated NW-WM1ZM3. Sandwiched in between is the $2,999.99 Walkman NW-WM1AM3, which is nearly identical to the WM1ZM3, just minus the gaudy gold shell. All three devices are aimed squarely at the audiophile market, if the price tag didn't make that clear. All three feature Sony's DSD ( Direct Stream Digital ) Remastering Engine, which upsamples standard PCM audio to an 11.2MHz DSD stream, which it claims delivers a more analog-like sound. They also all feature gold-plating on … Read the full story at The Verge. ]]>
-
-### Volvo will use Nvidia’s tech for hands-free, point-to-point driving
-2026-10-15T13:30:00-04:00 — https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban
-
-Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated driving system similar to Tesla's Full Self-Driving (Supervised). Volvo says the new point-to-point system will be Level 2++, meaning it can handle complex urban environments, including traffic lights, stop signs, and unprotected left turns without explicit driver control. In addition to Tesla's FSD, it will also resemble the Nvidia-powered system that Mercedes-Benz recently rolled out for the … Read the full story at The Verge. ]]>
-
-### Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off
-2026-10-15T13:30:00-04:00 — https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale
-
-Alienware’s 34-inch QD-OLED gaming monitor. The Alienware AW3426DW is discounted to $742.22 at Amazon , just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a couple months ago , and is equipped with Penta Tandem quantum dots for bolder colors than you’ll find on other QD-OLED panel. And of course, it provides the deep blacks and high contrast expected of the display tech. Alienware 34-inch AW3426DW curved OLED gaming monitor This ultrawide (21:9) QHD OLED gaming monitor has a 280Hz refresh rate, a fast response time, and a slick design. It s tough to get more OLED for your money than with this model when it s discounted. Where to Buy: $799.99 $742.22 at Amazon Alienware supports both Nvidia G-Sync and FreeSync Premium Pro adaptive refresh rate tech, so PC gamers with modern GPUs can enjoy a smooth frame rate when their systems can’t output a frame rate that matches its native 280Hz refresh rate. The 1800R curve adds an immersive element to the setup, and it has two HDMI 2.1 ports, as well as DisplayPort, and USB-A and USB-C for charging and connecting peripherals. Other deals to consider You can take 25 percent off the price of eligible Belkin Screen Skinz custom screen protectors when you use code Screenskinz25 at checkout. These unique screen protectors come in both clear and privacy versions that keep onlookers for seeing your screen. The
-
-### Google is making inline links more prominent in AI responses
-2026-10-15T13:22:15-04:00 — https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links
-
-Google is updating its AI search results to make inline links appear "higher up in responses more frequently," according to a blog post . The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the traditional list of links, but there are concerns that the format reduces traffic to publishers . Google says it's been making "continued and substantial increases to the presence of inline links in our AI experiences," and this new change will help ensure "ensure key sources are easily clickable right when you need them." The company is announcing several other changes to highlight links an … Read the full story at The Verge. ]]>
-
-### Sony’s WH-1000XM6 headphones are $130 off today only
-2026-10-15T13:10:58-04:00 — https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale
-
-If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&H Photo s Deals of the Day , you can currently pick up Sony s WH-1000XM6 noise-canceling headphones in silver for just $328 at checkout ($130 off) for the rest of the day. That s one of the best prices we’ve seen, and much cheaper than what you ll typically pay at major retailers like Amazon and Best Buy, even during seasonal sales. Sony WH-1000XM6 Where to Buy: $458 $328 at B&H Photo The WH-1000XM6 are Sony’s best over-ear headphones yet, thanks in part to a new chip, which Sony says delivers the most powerful active noise cancellation in the series. Unsurprisingly, they also deliver the best sound of any WH-1000XM-series headphones to date, with new drivers that produce clearer vocals and richer bass. They’re great for work and life outside the office, too, thanks to improved call quality and multipoint Bluetooth, which lets you stay connected to two devices at once. If you travel or commute frequently, you might appreciate that Sony brought back the foldable design of the XM4, making the headphones easier to pack. Their wider headband also helps with comfort during long listening sessions, and the earcups can be easily removed for cleaning or to be replaced when needed. Battery life remains solid at up to 30 hours with ANC enabled, and as an added convenience, you can now charge them while l
-
-### Friends don t let friends feed their data to AI agents
-2026-10-15T12:21:45-04:00 — https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent
-
-There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you , regardless of whether or not anyone else actually consented to it. Now, with the advent of "AI personal assistants" like Meta's Muse, you're being cheerfully asked not just to give up your own data, but also the information of your friends, family, the person you went on a Hinge date with five years ago - and virtually anyone else you've ever come in contact with. Since Muse was released last month, the agent has already been downloaded millions of times and hit No. 1 on Apple's App Store. With the help of its creepy virtual av … Read the full story at The Verge. ]]>
-
-### E Ink upgraded the screen found in most color e-readers
-2026-10-15T12:00:00-04:00 — https://www.theverge.com/tech/1011384/e-ink-paper-color-kaleido-4-screen-upgrade-gamut-contrast-brightness
-
-E Ink announced the next generation of its Kaleido color e-paper screen technology today, delivering several welcome improvements. The company's existing Kaleido 3 displays can be found in e-readers and tablets from companies like Kobo , PocketBook , and Boox , while Amazon's Kindle Colorsoft uses a customized version to improve performance. The new Kaleido 4 technology addresses some of Kaleido 3's shortcomings with improved color reproduction, better contrast, and faster screen refreshes. Other E Ink technologies, like its Gallery 3 display found in the Remarkable Paper Pro , use colored pigments that move around to form full-color images, bu … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,31 @@ Newegg combos have been one of the best ways to score a good deal on RAM during 
 
 ## Phoronix
 
+### Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements
+Fri, 16 Oct 2026 05:04:22 -0400 — https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5
+
+Intel software engineers today released the latest version of LLM-Scaler-vLLM PV 1.5, their containerized Docker stack providing a convenient AI/LLM experience atop Intel Arc Graphics hardware and born out of their Project Battlematrix initiative...
+
+### Mesa s Zink Now Offers VA-API Video Acceleration Atop Vulkan Video
+Fri, 16 Oct 2026 04:54:45 -0400 — https://www.phoronix.com/news/Mesa-Zink-VA-API-On-Vulkan
+
+Merged today to Mesa 26.3 is initial video acceleration support for the generic Zink Gallium3D driver built atop the Vulkan APIs. What this implementation allows is exposing Video Acceleration API (VA-API) implemented atop the Vulkan Video interfaces...
+
+### Fedora 45 Will Not Be Released Next Week
+Thu, 15 Oct 2026 21:50:44 -0400 — https://www.phoronix.com/news/Fedora-45-First-No-Go
+
+For those eager to run the pristine Fedora 45 media, you will need to wait at least one more week...
+
+### Today s Steam Beta Makes The Linux Client A 64-bit App
+Thu, 15 Oct 2026 18:08:08 -0400 — https://www.phoronix.com/news/Steam-Linux-Beta-64-bit
+
+Valve just dropped a new Steam client beta and it's a big one for Linux gamers...
+
+### Intel Nova Lake S & Nova Lake P To Support SR-IOV With Xe Graphics
+Thu, 15 Oct 2026 17:04:27 -0400 — https://www.phoronix.com/news/Intel-Nova-Lake-SR-IOV-Xe
+
+A patch has been posted to the Linux kernel mailing list by an Intel engineer confirming that Nova Lake S and Nova Lake P processors with integrated graphics will support SR-IOV in conjunction with the Xe kernel graphics driver...
+
 ### LPDDR5 5467 vs. 6400 vs. 7467 MT/s Memory Performance Benchmarks For Laptops
 Thu, 15 Oct 2026 15:02:37 -0400 — https://www.phoronix.com/review/lpddr5-5467-6400-7467
 
@@ -213,32 +238,42 @@ Thu, 15 Oct 2026 06:12:29 -0400 — https://www.phoronix.com/news/Mutter-2nd-GPU
 
 As an early improvement to Mutter to look forward to with GNOME 52 (Update: It will first appear in GNOME 51.2), the compositor is now tracking damage for secondary GPU copy buffers. This should improve the experience for those with multi-GPU setups such as some hybrid laptops...
 
-### Microsoft Releases Microsoft Defender For The Linux Desktop
-Thu, 15 Oct 2026 05:52:45 -0400 — https://www.phoronix.com/news/Microsoft-Defender-For-Linux-D
-
-Microsoft's newest software release for Linux is... Microsoft Defender for the Linux desktop. Microsoft Defender has been ported to Linux to "secure Linux desktops" with Microsoft acknowledging that "more developers begin to use Linux desktops" and thus bringing their security application and threat-protection product to Linux desktops to complement their prior ill-used Linux server support...
-
-### Framework Computers Triples Their Financial Support To CachyOS
-Wed, 14 Oct 2026 15:21:11 -0400 — https://www.phoronix.com/news/Framework-More-CachyOS
-
-In addition to providing Framework systems to the CachyOS Linux distribution for optimizing the support, Framework Computers has also been providing monthly donations to the project. CachyOS confirmed today that Framework Computers has now tripled their monthly donations to this independent Linux distribution built atop Arch Linux...
-
-### Apple Contributes SSAF Driver To LLVM Clang For Source Code Transformations
-Wed, 14 Oct 2026 14:45:29 -0400 — https://www.phoronix.com/news/Apple-Clang-SSAF-Driver
-
-Apple compiler engineers have contributed to upstream LLVM/Clang today a Scalable Static Analysis Framework (SSAF) driver for whole-program based analysis and source-to-source code transformations...
-
-### Epic Games To Improve Easy Anti-Cheat On Linux With Anti-Cheat Systemd Service & eBPF
-Wed, 14 Oct 2026 11:39:04 -0400 — https://www.phoronix.com/news/Easy-Anti-Cheat-Better-Linux
-
-In addition to Epic Games announced a preview of their new Epic Games Launcher, including Linux support, they also announced plans to improve their Easy Anti-Cheat (EAC) software on Linux. Along with this improved EAC they are also working on official Linux support for the popular Fortnite game...
-
-### Ubuntu 26.10 amd64v3 Packages Provide Some Additional Uplift On AMD EPYC
-Wed, 14 Oct 2026 10:16:17 -0400 — https://www.phoronix.com/review/ubuntu-2610-amd64v3-epyc
-
-In addition to Ubuntu 26.10 itself delivering some nice performance gains on Ubuntu 26.10 for AMD EPYC servers and other hardware, the optional and currently-unofficial amd64v3 package archive also provides additional performance uplift. Here is a look quantifying the performance impact of amd64v3 packages on AMD EPYC 9005 series servers.
-
 ## The Register
+
+### Thief snatches school snapper's SD cards in smash & grab
+Fri, 16 Oct 2026 11:15:00 +0200 — https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379
+
+An old-fashioned smash-and-grab job on a photographer’s vehicle threatens the security of pupils’ data as a UK secondary school says it faces a potential data protection pickle. Jon Curtis-Brignell, headteacher at Priory School in Lewes, said in an email this week that a company the school hired to take pupils’ annual school photos has alerted it to a data theft case after a vehicle was broken into. “Pret-a-Portrait has informed us that, overnight between 6 and 7 October, one of its vehicles was broken into and a camera bag containing SD memory cards was stolen,” Curtis-Brignell wrote. “Some of these cards may have contained photographs taken at Priory School, together with images of the QR code cards used for school photographs, which show pupils’ names and class names.” The headteacher said that the same equipment used to take the photos at Priory School was also used for three additional photography jobs after Pret-a-Portrait visited the school on October 1. Pret-a-Portrait, which has offices in the UK, Qatar, and the UAE, told the school that it believes “most, if not all” of the files containing pupils’ data will have been overwritten as a result, but it cannot be certain. Curtis-Brignell said that the potentially affected information included photographs, pupils’ names, and their “class information associated with the photography process.” Other types of data, such as addresses, contact details, financial information, medical information, and safeguarding records stored
+
+### Open source sovereignty gets down to the boring business of making it work
+Fri, 16 Oct 2026 10:30:00 +0200 — https://www.theregister.com/software/2026/10/16/open-source-sovereignty-gets-down-to-the-boring-business-of-making-it-work/5303206
+
+AI and digital sovereignty dominated this year's Open Source Summit Europe. But beyond the AI noise, the sovereignty discussions offered something useful: practical plans for putting open source to work. The recurring theme of digital sovereignty started right from the first day's keynotes, with Geopolitics, Sovereignty, and the Fight to Stay Open, by the Linux Foundation's Nithya Ruff and Johan Linaker from Research Institutes of Sweden, whose name is considerably longer than its URL: ri.se. This isn't just some European issue. Ruff stressed that it mattered "from Canada, to Sierra Leone, to Trinidad and Tobago." This was followed by Open Source Security as the Foundation of European Sovereignty, focusing on OSS supply chains. Then ORBIT Launchpad: Building the Due Diligence Bridge Between Manufacturers and Open Source, with speakers from Dell and Microsoft discussing OpenSSF's efforts to build catalogs of open source components to help companies achieve CRA compliance, such as CRABFOSC – the CRA Baseline For Open Source Consumption. The EU's Cyber Resilience Act (CRA) is now starting to bite: reporting obligations for actively exploited vulnerabilities and severe security incidents began last month, with its main requirements applying from December 2027. Hearing Dell and Microsoft discuss how to meet those requirements, rather than simply why they matter, was encouraging. Éléonore Daxhelet presented the 2026 report from the EU's Open Source Observatory, or OSOR. Emphasizing
+
+### User refused to change her password because everyone already knew it
+Fri, 16 Oct 2026 09:28:00 +0200 — https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864
+
+Change is constant, but The Register likes to keep some things the same – such as using Friday mornings to bring you a new installment of On Call, the reader-contributed column that shares your tech support stories. This week, meet a reader we'll Regomize as "Daniel" who told us that in 2020 he was hired to replace a two-person IT department at a UK school. "The IT manager had left amid some 'accounting irregularities,' mainly involving high-end gaming PCs being purchased using school funds but never making it onto the school site," Daniel told On Call. "His deputy stepped up just in time to have to deal with a ransomware attack that took the school's entire network offline for three months." The school eventually hired external contractors to rebuild the network and restore from the only available backup, which was months old. The deputy IT manager then quit without serving their notice period. Daniel took the vacant job and in his first week the school principal asked him to audit the network and deliver a report explaining how to get things up to scratch. "I found a few quick wins, including the password policy which at the time was set to six letters. Just that, no complexity, no expiry," Daniel told On Call. "And users hadn't been forced to change them since before the ransomware attack. Or, indeed, ever." The principal approved Daniel's proposed password policy and a requirement for everyone to change their password immediately. "I was not prepared for the backlash this
+
+### Give him a hand: Dev publishes 25-year-old Palm OS tools to GitHub
+Thu, 15 Oct 2026 22:28:00 +0200 — https://www.theregister.com/offbeat/2026/10/15/give-him-a-hand-dev-publishes-25-year-old-palm-os-tools-to-github/5303443
+
+A small but active community of retro computing enthusiasts is working to keep Palm OS alive, and a developer who recently became aware of their existence has just handed them a treasure trove of code he had no idea was still useful. Swedish developer Aaron Ardiri published around a gigabyte of Palm OS development resources on GitHub on Thursday in a bid to preserve them for community consumption. Prior to their upload, Ardiri told The Register that the files were languishing in his own personal backups for more than 25 years, preserved only for his own records as part of his past as a developer of Palm OS applications. “Everything in the archive was accumulated during my years as an active Palm OS developer,” Ardiri explained in an email. “It includes SDKs, technical documentation, conference presentations, development utilities, examples, and some limited system source code that was originally made available to developers to help them understand the operating system's UI and internal components.” One gigabyte of such info might not seem like a lot today, but back in the halcyon era of the PalmPilot, that was a whole heap of valuable data. Ardiri had previously published source code from his own Palm OS apps on GitHub for those who were interested in it, but he had assumed it was just for public record and that no one would really want to muck about with old Palm OS apps. “A developer recently submitted a pull request to my original Lemmings source repository, adding HiRes+ 
+
+### Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters
+Thu, 15 Oct 2026 22:04:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434
+
+Despite the hype around AI agents interacting with websites, few sites bother to supply dedicated reading material for visiting bots. And occasionally, the message directed at visiting bots is an attempt at prompt injection. While about 10 percent of sites use robots.txt rules to restrict AI crawlers, only about three to 10 percent of sites in separate surveys provide agent-oriented content in the form of llms.txt, a proposed format for exposing website information to AI systems. But a handful of sites have taken to giving AI agents the finger via HTTP headers, the metadata sent with web page content. When security biz Signals Corps sampled 217 million HTTP page responses from Common Crawl, it found almost 8,000 sites communicating with AI agents via header messages. Much of this messaging – 7,271 sites – transmitted pointers telling the AI agents where to go next, and 6,989 of the sites sent the x-llms-txt header. And 30 of the sites attempted indirect prompt injection. "Indirect prompt injection is an attack in which instructions reach an AI agent inside content it reads for someone else: a web page, an email, a file, or a tool result," said threat researcher Sarah Andrews in a blog post. "It works because a language model reads its instructions and its data as one stream of text. When you ask an agent to summarize a page, your request and the page land in the same context window, and nothing in the text marks which part may give orders." HTTP requests/responses include pro
+
+### Researchers warned attackers could 'defrost the food' months before French supermarkets got hit
+Thu, 15 Oct 2026 21:23:00 +0200 — https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425
+
+Security researchers warned about exploitable vulnerabilities in refrigeration controllers months - and in one case, more than a year - before cyberattacks disrupted hundreds of French supermarkets. Late Sunday night, unknown criminals hacked thousands of controllers, cranking the heat as high as 122°F (50°C), spoiling food and sparking fires across nearly 700 of the country’s supermarkets. France's national cybersecurity agency ANSSI on Monday warned of widespread compromises involving Danfoss refrigeration controllers, and a day later added affected systems from Copeland and its Dixell brand. The compromised devices were accessible over the internet, with many reportedly no longer receiving software or security updates and others running outdated firmware. Danfoss did not immediately respond to The Register’s request for comment. Copeland emailed us the following statement: “We acknowledge the vulnerability identified in a discontinued, end-of-life generation of controllers. Protecting our customers’ operations has always been a top priority. We are currently working with impacted customers to mitigate the risk. We will continue to support customers in strengthening cybersecurity through supported products, current software and industry-recommended practices.” Operational technology (OT) security firm Claroty’s Team82 sounded the alarm on these buggy devices in August, warning that hackers could “freeze the controller” and “defrost the food.” At the time, the researchers pu
+
+### $24,000 AI experiment ports TypeScript compiler to Rust
+Thu, 15 Oct 2026 20:52:52 +0200 — https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409
+
+With some extra tokens to burn, developer and popular YouTuber Theo Browne used AI agents to port Microsoft's TypeScript compiler to Rust, just to see if it could be done. Not only did he produce a working implementation, but the resulting code could also pave the way for more memory-efficient environments for AI agents. Browne claims his Rust port runs twice as fast as Microsoft's official Go-based TypeScript rewrite (v7) released earlier this year and 12.5 times as fast as the previous version of TypeScript (v6) – not bad work considering he says he hasn’t even inspected the code. TS_Rust is a project that would have been impractical even earlier this year, Browne noted in a video presentation. But models are developing so quickly that heretofore unimaginable tasks are now possible. The resulting Rust-based TypeScript also opens the possibility of using Google’s V8 engine as a less-memory-intensive alternative for running agentic workloads written in TypeScript, an approach that would be unfeasible using Microsoft’s Go implementation of TypeScript, Browne argued. A job that shouldn’t be possible Browne’s original idea was to burn his excess tokens by tackling a project so large that it couldn’t possibly be finished, just to see how far the latest models could get. The agentic rewrite involved porting the TypeScript compiler, type checker, and language server, which provides features such as error checking and code completion in editors. He burned more than $400,000 worth of
 
 ### YouTuber built 30-frame-per-second grayscale Game Boy, then open sourced it for all e-paper displays
 Thu, 15 Oct 2026 19:15:00 +0200 — https://www.theregister.com/offbeat/2026/10/15/youtuber-built-30-frame-per-second-grayscale-game-boy-then-open-sourced-it-for-all-e-paper-displays/5303394
@@ -265,42 +300,37 @@ Thu, 15 Oct 2026 17:13:00 +0200 — https://www.theregister.com/software/2026/10
 
 KDE is marking its 30th birthday by showing X11 sessions the door. The newly released KDE Plasma 6.8 is Wayland-only, though X11 applications can still run through XWayland. The change arrives right on schedule after last month's beta. KWin handles both window management and display-server duties. That means X11-based screen-recording tools, for example, won't work any more. You can't "shade" windows – roll them up into the title bar and back – and that's not planned to come back. Restoring saved sessions can also behave differently. Applications cannot freely position their own windows under Wayland, leaving placement to the compositor. Saying that, there are lots of tweaks and refinements in this release. The Spectacle screenshot tool can now include system audio and microphone input in its screen recordings. Plasma 6.8 integrates with non-KDE tools better. For instance, KDE's browser integration now supports the Flatpak version of Microsoft's Edge browser. GTK2 applications also get better dark-theme matching. Internationalization is getting better – for example, the Clock understands the Bikram Sambat calendar, and Amharic is now supported in KDE's on-screen keyboard. The System Monitor app has better tracking of VRAM usage as well as main memory, and can pin tasks to certain CPU cores. There's better multi-monitor handling: screens are color-coded as well as by make and model, which is helpful if you have multiple identical monitors. There are more authentication options
 
-### When faster supercomputers aren’t enough
-Thu, 15 Oct 2026 17:00:00 +0200 — https://www.theregister.com/hpc/2026/10/15/partner-content-when-faster-supercomputers-arent-enough/5302562
-
-When a million veterans shared their genetic data by enrolling in the Department of Veterans Affairs' “Million Veteran Program,” they expected nothing back. This did not surprise Ravi Madduri, a senior scientist with the Data Science and Learning Division at the U.S. Department of Energy’s (DOE) Argonne National Laboratory. He is abundantly clear about the terms under which these veterans donated their data: “Even after giving everything to the country, they found it in their hearts to give more without expecting anything in return.” That gift, which constituted the nation’s largest biorepository and most ancestrally varied cohorts of veteran data in the world, created a debt that Madduri, who also holds a joint appointment in the Department of Human Genetics at the University of Chicago, is working to repay. “What I feel when I look at that data is that I have an obligation to deliver to the veterans on their intentions in doing this,” he says. Those intentions, as he reads it, are that others, veteran or not, can benefit from whatever the data can reveal. “We cannot dilly dally,” Madduri says. After arriving at Argonne as a graduate student in 2001, Madduri has spent the last two decades at the intersection of supercomputing and biomedicine, much of the time building the computing that turns the veterans’ data into results impacting areas from post-traumatic stress disorder to heart disease to cancer. He explains that machines have largely held up their end, but the obstacl
-
-### Spyware vendors found a way to make targeted ads even worse
-Thu, 15 Oct 2026 16:31:27 +0200 — https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334
-
-The online advertising industry has found a new way to make itself even more unpopular, with one adtech outfit accused of helping spyware vendors infect people's phones without them even clicking an ad. Researchers at Citizen Lab say they've uncovered the first publicly confirmed case of a zero-click mercenary spyware attack being delivered through targeted online ads, with devices at Al Jazeera among those infected. The technique, dubbed "AdFection," turns advertising networks into a spyware delivery system. Simply opening a website or app can be enough to trigger the attack, with no suspicious links or downloads involved. Israeli adtech firm Discover-Tech is allegedly behind the operation, according to researchers at Citizen Lab, which says the company acts as a middleman between the online advertising industry and multiple spyware and hacking vendors. "We present technical evidence that the Israel-based company Discover-Tech, while purporting to be a legitimate advertising company, appears to be a front for large-scale ad espionage abuse," the researchers wrote. “In fact, it appears that serving as this bridge is Discover-Tech’s primary purpose." Discover-Tech’s Controlium platform exploits the real-time bidding system that decides which ads appear on websites and apps. Every time someone loads a page, advertisers compete for available ad space and, in the process, receive information about the user's device and location. Discover-Tech allegedly used that data to identify 
-
-### Bank of America had to bring in 1,000 contractors to patch all the bugs Mythos identified
-Thu, 15 Oct 2026 15:45:00 +0200 — https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275
-
-Bank of America recruited an additional 1,000 contractors to help patch all the vulnerabilities discovered by Anthropic’s Mythos model, the CEO said on Wednesday. Brian Moynihan, chairman and CEO at BoA, said during the company’s Q3 earnings call that it spent “a couple of hundred million plus” in remediation costs related to Mythos, and the anti-money laundering (AML) orders issued this week. These costs are expected to decline over time, though, with the contractors in place to help ease the initial burden of patching a large number of flaws, an issue that shouldn’t be so pronounced in the longer term. He went on to tell CNBC that the bank brought in outside help after concerns grew over how it would quickly tackle all the work associated with Mythos’ discoveries. The same concerns were shared globally, in part due to how Anthropic marketed Mythos as an all-powerful model that threatened the status quo of cybersecurity. While it ultimately turned out to be highly effective and capable of identifying complex vulnerabilities quicker than humans, leading to the massive influx of patches, some early adopters say it was no smarter than elite researchers. Mozilla CTO Bobby Holley said in April: "So far we've found no category or complexity of vulnerability that humans can find that this model can't," after Mythos found 271 flaws in Firefox 150. "We also haven't seen any bugs that couldn't have been found by an elite human researcher." The 1,000 contractors brought in by the bank 
-
-### TSMC sends scouts to check whether America's datacenters can deliver
-Thu, 15 Oct 2026 15:15:00 +0200 — https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260
-
-TSMC is dispatching personnel to check out US datacenter construction and power availability as it plans billions of dollars in additional chipmaking capacity. The Taiwanese chipmaking giant warned of pressure on consumer markets during its third-quarter earnings call, while maintaining that AI demand - at least for now - continues to outstrip supply. "Looking ahead, we continue to observe consumer and price-sensitive end market segments are being challenged due to the impact of rising component prices and macroeconomic uncertainties. As such, we are being prudent in our business planning going into 2027," said chairman and CEO C.C. Wei. Wei said AI demand remained strong, with CPUs for agentic workloads and networking chips adding to the need for silicon. "Therefore, semiconductors will remain essential in the AI mega trend. The value of semiconductors in the global supply chain is set to continue to increase in our view," he stated. TSMC expects capital expenditure of $60 billion to $64 billion this year. Spending across 2026-2028 is expected to exceed the total for 2023-2025 as it expands capacity for customers. Those plans depend on more than customers ordering chips: the datacenters housing them also need power, networking, memory, and other infrastructure. TSMC is checking how those pieces are coming together before committing to expanding capacity further. TSMC is planning roughly 20 leading-edge manufacturing and advanced-packaging facilities in Taiwan and overseas ov
-
-### X purges 13,000 accounts linked to suspected meddling ahead of US midterms
-Thu, 15 Oct 2026 14:45:00 +0200 — https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234
-
-X says it has nuked more than 13,000 accounts involved in three suspected foreign influence operations targeting US political debate. In a post on Wednesday evening, the platform linked the operations to Iran, Russia, and China. It said the networks used inauthentic accounts to post and amplify political content targeting candidates and public figures across the political spectrum. The announcement comes ahead of the US midterm elections on November 3. "People come to X to talk about what's happening in the world, including the upcoming 2026 US midterms," the platform said. "Free speech is the bedrock of a functioning democracy, and we are proud that X is the global town square where these debates happen. Our job is to keep that conversation authentic, open, and safe." X did not publicly explain the evidence behind its attribution. Separately, it highlighted its Civic Integrity policy, which covers misleading information about how, when, and where to vote, as well as content intended to discourage participation. Reports submitted under "Civic Integrity" are routed into requests for Community Notes. X says it uses the crowdsourced feature alongside platform moderation and may label policy-breaking posts in critical cases. Community Notes has faced scrutiny. When the European Commission launched formal proceedings against X under the Digital Services Act in 2023, it raised questions about the feature's effectiveness for validating a post's accuracy. X's reliance on crowdsourced
-
-### Rocket Lab pushes back first Neutron launch to 2027
-Thu, 15 Oct 2026 14:15:00 +0200 — https://www.theregister.com/science/2026/10/15/rocket-lab-pushes-back-first-neutron-launch-to-2027/5303224
-
-Rocket Lab has delayed the maiden launch of its Neutron rocket again, due to carbon composite manufacturing issues. It is more than five years since Rocket Lab said it was developing the launcher, a step up from its workhorse Electron, and capable of sending up to 13,000 kg to Low Earth Orbit. At the time, 2024 was mooted as the first launch date. Then perhaps 2025. Then 2026. And now it is "expected to occur in 2027." It won't be early in 2027 either. During a briefing, boss Peter Beck said he expects to complete testing of the problematic components before the end of Q1 2027, at which point it will set a new launch date. According to Beck, Rocket Lab identified problems with a first-stage tank that failed qualification due to third-party processing. The space biz switched to its own internal processes, and things appeared to be going swimmingly until, Beck said, "we identified an issue with the manufacturing process for the propellant dome." The issue was voids that formed within the carbon composite layers during manufacturing. Beck explained, "They don't necessarily mean that the dome would fail in flight," but they would reduce the margin, so a rethink was required. The good news, according to Beck, is that the problem is solved. The bad news? Dealing with it has delayed things. In August, Rocket Lab said it targeted delivery of Neutron to the launch pad in Q4 2026. Beck now reckons the cryo and hydrostatic test campaigns will not wrap up until Q1 2027. Rocket Lab's shar
-
-### OpenAI claims 100-plus secret files followed ex-employee back to Apple
-Thu, 15 Oct 2026 13:46:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202
-
-Apple's trade secrets spat with OpenAI has taken a new turn, with the ChatGPT maker accusing a former employee of taking more than 100 confidential files about its unreleased hardware back to Cupertino. In a court filing submitted Wednesday, OpenAI claims the unnamed employee, who joined from Apple before returning to the iPhone maker just six months later, transferred sensitive documents to his personal accounts before leaving. The filing alleges the files included detailed images of at least one unreleased OpenAI device, engineering and manufacturing data, supplier information, and project files, along with specifications for cosmetic finishes and reports on coating and sealing hardware components. According to the filing, some were transferred just after midnight in Singapore on June 2, which the filing claims was the employee's final day at OpenAI. But OpenAI claims the information didn't simply disappear into a personal inbox. According to the filing, the former employee also allegedly presented OpenAI's product plans to Apple's senior leadership, including its vice president of operations in Asia. That presentation apparently happened months ago, and OpenAI is now pointing to Apple's latest push into AI-powered hardware, including its newly announced smart home products, as cause for concern. "OpenAI is very concerned that its trade secret and confidential information is now circulating inside Apple, where Apple engineers can shape Apple's upcoming products based on Ope
-
 ## Engadget
+
+### Gmail's Live AI search feature arrives for Google AI subscribers
+Fri, 16 Oct 2026 08:31:48 +0000 — https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/
+
+Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.
+
+### Relive Tesla's ridiculous(ly fun) Roadster stunt show
+Fri, 16 Oct 2026 02:24:52 +0000 — https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/
+
+Tesla's Roadster event was pretty exciting, to say the least.
+
+### Tesla's redesigned Roadster has a cold-gas thruster option, but you'll need $250,000 just to reserve it
+Fri, 16 Oct 2026 01:48:05 +0000 — https://www.engadget.com/2288437/teslas-redesigned-roadster-cold-gas-thruster-option-reservation/
+
+Tesla has finally unveiled the next-generation Roadster.
+
+### Withings wants new users to pay $100 a year to sync with Apple Health
+Thu, 15 Oct 2026 23:02:04 +0000 — https://www.engadget.com/2288346/withings-wants-new-users-to-pay-100-a-year-to-sync-with-apple-health/
+
+The smart health company is gating third-party app syncing to its own subscription plan for new users.
+
+### The UK may expand the BBC license fee, charging residents to watch streaming services
+Thu, 15 Oct 2026 21:35:08 +0000 — https://www.engadget.com/2288294/the-uk-may-expand-the-bbc-license-fee-charging-residents-to-watch-streaming-services/
+
+If the proposal is enacted, it could cost $240 a year to watch YouTube in the UK.
+
+### NY congressman to introduce bill protecting video game ownership
+Thu, 15 Oct 2026 20:15:05 +0000 — https://www.engadget.com/2288193/ny-congressman-to-introduce-bill-protecting-video-game-ownership/
+
+Representative Ritchie Torres wants the FTC to establish regulations ensuring you can play the games you've purchased.
 
 ### FTC subpoenas OpenAI and Anthropic following safety failures
 Thu, 15 Oct 2026 19:28:53 +0000 — https://www.engadget.com/2288104/ftc-subpoenas-open-ai-and-anthropic-following-safety-failures/
@@ -332,37 +362,37 @@ Thu, 15 Oct 2026 17:02:48 +0000 — https://www.engadget.com/2287833/meta-built-
 
 Muse Spark Open is the most capable US open-weight model to date, the company says.
 
-### GuliKit TT Max review: The granddaddy of Switch 2 controllers
-Thu, 15 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2287745/gulikit-tt-max-review/
-
-This is the Switch 2 gamepad for big hands.
-
-### Microsoft says it made Windows 11 zippier, especially on PCs with less RAM
-Thu, 15 Oct 2026 16:01:18 +0000 — https://www.engadget.com/2287714/microsoft-says-it-made-windows-11-zippier-especially-on-pcs-with-less-ram/
-
-The whole RAM price thing is partly Microsoft's fault so it's the least it can do.
-
-### Opera's lightweight Air browser is back, unbothered, moisturized, in its lane
-Thu, 15 Oct 2026 14:17:22 +0000 — https://www.engadget.com/2287546/operas-lightweight-air-browser-is-back-unbothered-moisturized-in-its-lane/
-
-Namaste.
-
-### Tesla Roadster reveal live: Updates from the launch of the next-gen sportscar
-Thu, 15 Oct 2026 14:01:51 +0000 — https://www.engadget.com/2287518/tesla-roadster-launch-live-blog/
-
-Elon Musk has been saying the demo might be a literal banger.
-
-### LinkedIn is adding new tools to help people with their side hustles
-Thu, 15 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2287154/linkedin-is-adding-new-tools-to-help-people-with-their-side-hustles/
-
-The company says more of its users are holding down multiple roles.
-
-### NVIDIA's RTX Spark is good for Windows, even if you don't need local AI
-Thu, 15 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2287239/nvidia-rtx-spark-good-for-windows-even-if-you-do-not-need-local-ai/
-
-NVIDIA's RTX Spark is meant for AI fiends, but it could end up helping Windows PCs in general
-
 ## TechCrunch
+
+### Even Benchmark thinks AI is eroding the venture pact against backing rivals
+Fri, 16 Oct 2026 05:16:46 +0000 — https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/
+
+Benchmark says the Valley’s rule against backing rivals is getting harder to keep.
+
+### Tesla reveals SpaceX-powered Roadster that flies and falls with style
+Fri, 16 Oct 2026 01:17:43 +0000 — https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/
+
+The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.
+
+### When it came to Cal AI s viral success, a small army of influencers paid off
+Thu, 15 Oct 2026 23:44:56 +0000 — https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/
+
+The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
+
+### And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems
+Thu, 15 Oct 2026 23:33:45 +0000 — https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/
+
+Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
+
+### Amazon devices chief Panos Panay on the importance of failure and bouncing back from it
+Thu, 15 Oct 2026 20:38:13 +0000 — https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/
+
+Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.
+
+### Meta launches an open-weight AI model that runs on Macs
+Thu, 15 Oct 2026 20:04:53 +0000 — https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/
+
+Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.
 
 ### Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps
 Thu, 15 Oct 2026 19:55:25 +0000 — https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/
@@ -393,34 +423,4 @@ Savings of up to $200 end October 16 for TechCrunch Founder Summit. These saving
 Thu, 15 Oct 2026 17:34:40 +0000 — https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/
 
 Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.
-
-### SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US
-Thu, 15 Oct 2026 16:45:37 +0000 — https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/
-
-SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.
-
-### AI agents are coming to Rivian s cars
-Thu, 15 Oct 2026 15:02:36 +0000 — https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/
-
-We'll likely learn more about how this will work at the company's upcoming "AI Autonomy Day" event in December.
-
-### Ramp reaches $60B valuation as it pushes deeper into AI
-Thu, 15 Oct 2026 14:47:09 +0000 — https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/
-
-The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.
-
-### Google’s Universal Cart shopping tool launches in the US
-Thu, 15 Oct 2026 14:29:33 +0000 — https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/
-
-The new shopping tool is available in the U.S. across Google Search and the Gemini app.
-
-### TechCrunch Disrupt 2026: Last day
-Thu, 15 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/
-
-Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.
-
-### Amazon s Bee launches two new personal AI devices, starting at $75
-Thu, 15 Oct 2026 12:00:00 +0000 — https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/
-
-Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting at $74.99.
 

@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-15T20:02:30.280Z
+# Games — harvested 2026-10-16T09:17:07.456Z
 
 ## Eurogamer
+
+### Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to "a ton" of player feedback
+Fri, 16 Oct 2026 09:07:10 +0000 — https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback
+
+RuneScape : Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed. Read more
+
+### Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were "unintended"
+Fri, 16 Oct 2026 08:37:38 +0000 — https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted
+
+Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions - new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI use and because of a major hit to XP gain. Read more
 
 ### GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?
 Thu, 15 Oct 2026 16:10:34 +0000 — https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley
@@ -52,17 +62,12 @@ Wed, 14 Oct 2026 19:14:52 +0000 — https://www.eurogamer.net/zero-escape-hundre
 
 UPDATE 21:37pm UK: In a follow-up tweet, Uchikoshi clarified that he's still part of TooKyo Games and he hasn't fallen out with fellow studio co-founder Kazutaka Kodaka. In fact, Kodaka jokes he "may have fallen in love" with the Danganronpa dev. "We're still so close that we even have pajama parties at each other's houses, sipping strawberry milk boba together." Read more
 
-### Epic throws shade at Steam, admits to vibe-coding the new Epic Games Launcher with AI "to be faster than the other guy"
-Wed, 14 Oct 2026 18:17:03 +0000 — https://www.eurogamer.net/epic-throws-shade-steam-vibe-coding-games-launcher-ai
-
-Epic Games isn't lifting its foot off the gen-AI pedal. The company behind Fortnite and Unreal Engine has now vibe-coded a new Epic Games Launcher in an attempt to outrun Steam, by far the most popular digital games marketplace on PC. Read more
-
-### Here are our PS Plus Premium and Extra games for October
-Wed, 14 Oct 2026 16:51:54 +0000 — https://www.eurogamer.net/playstation-plus-october-2026-games
-
-Sony has announced the games coming to PlayStation Plus Premium and Extra in October, and there's a good mix of modern hits and older gems to sink your teeth into for the spooky month of Halloween. Read more
-
 ## GamesIndustry.biz
+
+### Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards"
+Fri, 16 Oct 2026 08:22:20 +0000 — https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
+
+Sega and Creative Assembly have temporarily withdrawn Total War: Shogun 2 &ndash; Complete Edition from sale in response to concerns about AI upscaling and other performance issues. Read more
 
 ### DayZ creator Dean Hall releases open-source game development framework Brutal
 Thu, 15 Oct 2026 14:31:28 +0000 — https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
@@ -119,16 +124,16 @@ Wed, 14 Oct 2026 14:57:54 +0000 — https://www.gamesindustry.biz/i-wanted-to-ma
 
 Tomorrow will see the debut of the fourth Galaxies Showcase , which has managed to carve out a space of its own in the increasingly crowded lineup of digital showcases that have blossomed since the pandemic. Its indie and double-A lineup occupies a careful middle ground between the purely-digital indie collaborations at the bottom of the market and Geoff Keighley's top-dollar showcase at the top &ndash; with platform-led events like State of Play and Nintendo Direct occupying rarefied air alongside. Galaxies' pitch is a high-end studio production, anchored by Outside Xbox's Jane Douglas, delivering a tightly curated hour &ndash; and no more &ndash; of game trailers, mixing paid and free placements. Read more
 
-### How to run an indie game studio: Part 3, Dealing with issues
-Wed, 14 Oct 2026 14:00:00 +0000 — https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-3-dealing-with-issues
-
-So far in this series, we've looked at how to define what your studio is and what it stands for , and how to set goals that give your studio direction on both a long-term and short-term horizon . This week, we're getting into something a little less exciting, but just as important: the problems. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners
+Thu, 15 Oct 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners
+
+Out on 8th December 2026. Did you ever think you'd hear of the forgotten PS4 animal evolution sim Ancestors: A Humankind Odyssey again? I most certainly didn't, but here we are with the announcement of a PS5 version coming 8th December 2026. Panache Digital Games revealed it'll be debuting on Nintendo consoles with a Switch 2 edition, which I suspect is the main reason behind today's reveal. However, in the process, the developer has also decided to put out native PS5 and Xbox Series X|S versions. Read the full article on pushsquare.com
 
 ### Call of Duty Tax Blamed for Softer CoD Reception by Marketing Lead
 Thu, 15 Oct 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead
@@ -185,11 +190,6 @@ Thu, 15 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6s
 
 What a cross-over. If you're a fan of electronic music, you'll probably over the moon to learn that Justice are behind GTA 6's original score. It's an incredibly high profile collaboration; Justice are one of the biggest in the biz, with a catalogue of fantastic albums, singles, and productions stretching back into the mid 2000s. Read the full article on pushsquare.com
 
-### Viral Hit Supermarket Simulator Finally Opens Its Doors on PS5 This November
-Thu, 15 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/viral-hit-supermarket-simulator-finally-opens-its-doors-on-ps5-this-november
-
-Physical edition on the way. You may recall last year that Supermarket Simulator — the viral hit management sim — was announced for release on PS5. It's been awfully quiet for a while now, but it's now been confirmed exactly when the game is heading to consoles. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam
@@ -211,6 +211,11 @@ Developers working on the upcoming Star Wars and Marvel shooter have been report
 no date — https://www.gamedeveloper.comwww.gameconferencemx.com
 
 ## VGC
+
+### COD Modern Warfare 4 will close this chapter and launch a new one for the series, Activision says
+Fri, 16 Oct 2026 08:53:47 +0000 — https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/
+
+The Call of Duty game may not be a Black Ops or Modern Warfare… Source
 
 ### WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures
 Thu, 15 Oct 2026 15:16:19 +0000 — https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/
@@ -257,12 +262,47 @@ Thu, 15 Oct 2026 12:01:31 +0000 — https://www.videogameschronicle.com/features
 
 Joanna Wang and Parker Hamilton have over three decades of experience at the developer… Source
 
-### RE4 Remake: Church Stained Glass puzzle guide
-Thu, 15 Oct 2026 11:50:47 +0000 — https://www.videogameschronicle.com/guide/re4-remake-church-stained-glass-puzzle-guide/
-
-How to solve the Church's stained glass projection puzzle in Resident Evil 4 Remake… Source
-
 ## Polygon
+
+### 'Avatar: Seven Havens' Episode 6 Ending Explained: What the Anomaly Reveals About Pavi and Nisha
+Fri, 16 Oct 2026 09:00:18 GMT — https://www.polygon.com/avatar-seven-havens-episode-6-ending-explained-pavi-nisha-anomaly-afflicted/
+
+It’s bad enough that everyone in the world of Avatar: Seven Havens is living in a post-apocalyptic wasteland, but Ellora is now officially on the brink of collapse. After the first three episodes of Book One: Survival introduced the new Avatar and her long-lost twin, episodes 4, 5, and 6 — released Friday — turn the Haven into a pressure cooker of civil unrest, bandit attacks, government secrecy, and the strange fear-based infection people begin calling “The Anomaly.”
+
+### The 10 Best Low Fantasy Books
+Fri, 16 Oct 2026 08:00:23 GMT — https://www.polygon.com/best-low-fantasy-books/
+
+Fantasy is a broad genre of fiction, and low fantasy might be one of its most slippery corners. The term can describe anything from stories where magic barely exists — like Game of Thrones — to tales in which the supernatural quietly intrudes on an otherwise recognizable world, akin to Pan’s Labyrinth . Unlike high fantasy, which often transports readers to entirely invented worlds with their own mythologies, low fantasy finds the extraordinary lurking just beneath the surface of the familiar.
+
+### 34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless
+Fri, 16 Oct 2026 04:00:23 GMT — https://www.polygon.com/best-far-side-quote-ever/
+
+Larson didn’t do deep . He didn’t do inspirational. Many of his cartoons required you to think, but not because they were thoughtful in the lofty sense. They required thought because Larson’s work was brilliant, and you sometimes had to figure out what the punchline was. For example, this comic strip where an artist is painting a woman as a half-fly creature. You likely see the woman or the painting first, and you wonder why the artist is painting her that way. Only after inspecting the comic more closely do you see the dead fly on his glasses. Larson’s work often requires the reader to investigate something, but usually not in any kind of overly deep way.
+
+### 53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s
+Fri, 16 Oct 2026 02:21:17 GMT — https://www.polygon.com/best-scifi-book-closing-line/
+
+Every once in a while, I come across a line that feels bigger than the book that birthed it. Of course, there are classics with years of literary study behind them that speak volumes on the nature of society, technology, or the world writ large. But few are quite as elegant or as profoundly humanistic as the final moments of Arkady and Boris Strugatsky’s Roadside Picnic . The 1972 novel offers a very different kind of sci-fi ending than its myriad predecessors and successors.
+
+### The Batman Part 2 to Resume Filming With New Director
+Fri, 16 Oct 2026 01:36:53 GMT — https://www.polygon.com/the-batman-part-2-steven-soderbergh-production-update/
+
+Steven Soderbergh is stepping in to help finish filming The Batman Part 2 while director Matt Reeves attends to an ongoing family matter.
+
+### The Mummy Officially Returns in 1 Year — Now With a New Cryptic Title
+Thu, 15 Oct 2026 21:12:33 GMT — https://www.polygon.com/the-mummy-4-release-date-title-revealed/
+
+Mark your calendars, because the 27-year-old The Mummy franchise officially returns exactly one year from today. To mark the occasion, Universal Pictures finally revealed the title for the next The Mummy movie .
+
+### How to unlock fast travel in Castlevania: Belmont's Curse
+Thu, 15 Oct 2026 21:10:40 GMT — https://www.polygon.com/castlevania-belmonts-curse-fast-travel/
+
+Fast travel is tucked away until you make a fair amount of progress in Castlevania: Belmont's Curse . If you want to revisit old haunts in the early game and uncover treasures you missed, you'll have to go on foot — or just hold off for a couple of hours. Fast travel takes some work to unlock, though it's not something you can miss. Once you do unlock it, you can zip back and forth anywhere you've already visited.
+
+### 6 Fire Emblem Fortune's Weave Characters Who Need to Be in the Next Smash Bros Game
+Thu, 15 Oct 2026 21:00:17 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-characters-next-smash-bros/
+
+Now that the dust is slowly settling around Fire Emblem: Fortune's Weave , my thoughts are turning elsewhere — namely, which of the dozens of new characters might end up in the next Smash Bros. game. Before you curse my name for speaking such evil into the world, just look at the Smash Ultimate roster. There's already eight (or only eight if you're a sicko like me) Fire Emblem characters in it! If we end up getting a Smash Bros. game for the Nintendo Switch 2, we're almost guaranteed to see at least one more Fire Emblem character now that Fortune's Weave is in the wild. Whenever that does happen, I hope the new additions include at least some of these folks.
 
 ### 2026's Bloodiest Game Just Got a Release Date
 Thu, 15 Oct 2026 19:00:17 GMT — https://www.polygon.com/acts-of-blood-steam-release-date-console-launch-announced/
@@ -274,47 +314,32 @@ Thu, 15 Oct 2026 18:40:56 GMT — https://www.polygon.com/video/david-dastmalchi
 
 David Dastmalchian has seemingly played every single game in Videogamesnewyork and we got to listen to him tell us all about them. From Galaga to Castlevania, Splatterhouse to Magic the Gathering, and Street Fighter Cabinets to Street Fighter console games – this M. Bison stan turned star has a lot to say.
 
-### What time are the Fortnitemares power hours in Fortnite Chapter 7 Season 4?
-Thu, 15 Oct 2026 18:01:18 GMT — https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/
-
-Fortnitemares power hours are happening in Fortnite Chapter 7 Season 4 on Saturday, Oct. 17 . During this set of power hours, the drop rate for Trick or Treat sprites will be increased, so if you still need those for your collection, you'll want to drop in during this event.
-
-### The 9 Biggest RPG Jerk Companions, Ranked From Worst to Even Worse
-Thu, 15 Oct 2026 18:00:19 GMT — https://www.polygon.com/best-jerk-rpg-companions/
-
-You rolled your eyes at their first line, considered leaving them at camp, and now you can’t imagine the party without them. Every RPG has one: the companion whose first impression is a red flag, and whose second, third, and fiftieth impressions are the reason you keep playing. Often, you’ll find that even the most gruff or off-putting companion has a heart of gold somewhere deep down. Sometimes very deep down, but still. You might realize that a krogan mercenary’s temper comes from a plague that is killing off his whole race. (Or you might just decide to kill these brusque companion candidates on sight and call it a day.) These nine companions, ranked from merely irritating to the worst of the bunch, are your field guides to the red flags that you might, with time, learn to ignore.
-
-### Diablo 5 Officially Passes a Major Production Milestone
-Thu, 15 Oct 2026 17:56:34 GMT — https://www.polygon.com/diablo-5-blizzard-rpg-cinematic-shooting-begins/
-
-One of the biggest and most unexpected announcements out of this year's BlizzCon was the reveal that Diablo 5 is in development. Blizzard was even confident enough in the project to set a release date on the next entry in the action RPG series , slating the game for release in spring 2029. While that may feel like a long way away, the developer is using all the time it can get, and it seems the project has just begun an important stage.
-
-### 'Obsession 'Director’s Next Film Is 'Even Better' Than Last, Says Seth Rogen
-Thu, 15 Oct 2026 17:48:46 GMT — https://www.polygon.com/obsession-director-curry-barker-next-film-anything-but-ghosts/
-
-Curry Barker has quickly become a name to watch among cinephiles thanks to the stunning success of his recent horror film, Obsession . Thankfully, his next movie isn't far off. By the time Obsession hit theaters, Barker was already working on his next project, a horror-comedy distributed by Focus Features called Anything but Ghosts . It seems that his next picture has at least one big fan.
-
-### Pokémon Center Trolls Fans With Worst 30th Anniversary TCG Drop Yet
-Thu, 15 Oct 2026 17:42:46 GMT — https://www.polygon.com/pokemon-center-drop-today-what-is-30th-anniversary-tcg-tins-error/
-
-On Thursday, Pokémon restock Discord servers were buzzing with rumors that The Pokémon Center might drop its hyped 30th Anniversary Ultra Premium Collection . The whispers were real, but what TPC actually dropped was not what anyone was expecting.
-
-### How to beat Sphinx, Devourer of the Unworthy, in Valor Mortis
-Thu, 15 Oct 2026 17:12:06 GMT — https://www.polygon.com/valor-mortis-sphinx-boss-how-to-beat/
-
-To beat the Sphinx in Valor Mortis , you don't just need your parrying skills — you'll need your blunderbuss and plenty of bullets. This unfriendly golden kitty, encountered at the end of Chapter 4, isn't too hard to defeat once you've learned its weaknesses.
-
-### 9 Fallout: New Vegas Challenge Runs That Make the Game Feel Brand New
-Thu, 15 Oct 2026 17:00:17 GMT — https://www.polygon.com/fallout-new-vegas-challenge-runs/
-
-Every run of Fallout: New Vegas starts the same way: a man named Benny drags you to a cemetery outside Goodsprings and shoots you in the head. What happens next is up to you. Obsidian Entertainment’s open-world RPG — released in October 2010, and still fully playable on Steam and Xbox — lets you decide who your Courier is and how they move through the wasteland. Will you be a hat-wearing cowboy or a corpse-eating vampire? A pacifist or a pickpocket with live grenades?
-
-### 17 Years Later, Star Trek Officially Abandons Its J.J. Abrams Movie Timeline
-Thu, 15 Oct 2026 16:56:27 GMT — https://www.polygon.com/star-trek-movie-reboot-abandoning-kelvin-timeline/
-
-The Star Trek franchise got a much-needed jolt of life in 2009 when J.J. Abrams rebooted it for the silver screen. The "Kelvin-verse," named after a starship that encountered a time-traveling group of Romulans bent on vengeance, was a major success in many ways. It helped lead to the rebirth of Star Trek on TV, thanks to co-writer and producer Alex Kurtzman. It propelled its cast, including Chris Pine and Zoe Saldaña, to superstardom. Now, a decade after Star Trek Beyond hit theaters, the Kelvin-verse is officially coming to an end.
-
 ## PC Gamer
+
+### US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'
+Fri, 16 Oct 2026 00:08:45 +0000 — https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/
+
+US Representative Ritchie Torres, a Democrat from New York City, announced today that he will introduce the "Power To The Players Act." If it becomes law, the bill will see the US Federal Trade Commission create regulations that protect our "ability to own and play" purchased games, according to Torres' office. "When you pay for a game, you should own it," says Torres. "Consumers must have the right to own, the right to play, and the right to transfer the games they buy. A game that can be taken away the moment a company pulls the plug is not a purchase. It is a rental disguised as a sale." The game ownership issue is longstanding on PC, which moved to digital distribution a couple decades ago, but has recently come to the foreground of public consciousness as the consoles also transition away from discs. Earlier this year, Sony announced that it will end physical disc production in 2028. The related problem of online games being decommissioned before players are done with them has also received more attention in recent years. The Stop Killing Games campaign in particular has raised the issue's profile, arguing that basic offline functionality should be expected when online games are retired. Founder Ross Scott and organizer Moritz Katzner gained an audience with the European Parliament earlier this year . As one of its prime examples of the problem, Stop Killing Games has pointed to The Crew, a Ubisoft racing game which went offline in 2024, preventing those who purchased it
+
+### Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends
+Thu, 15 Oct 2026 23:58:30 +0000 — https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/
+
+Valve has pushed a new update to its Steam client beta introducing big changes to how achievements work and how they're displayed. Developers can now create sets of achievements customized to their game, like mastering a specific character class or finishing a singleplayer campaign. Sets also distinguish base game achievements from separate DLC and seasonal sets. Previously if you unlocked all achievements for a game you'd see a nice 'n' tidy 100% in your achievements list. But if that game got DLC with new achievements, that 100% would drop accordingly. I can understand why achievement heads would be annoyed by this: what if you have no intention of playing the DLC, but want to retain 100% completion bragging rights? This update fixes that, assuming devs use it. It's a similar situation for seasonal achievements, which I can see working well with battle passes. The example Valve uses is a set called "Halloween Event Achievements" which are valid for a certain period and don't affect the achievement count of the base game. In other words: if you have the completionist itch but skip a season, it won't affect your base game stats. All these changes have prompted a refresh of the achievements page. Most achievements info is now displayed on a single page: your progress towards overall completion, and your progress towards unlocking individual achievements. (Image credit: Valve) I especially like that you can now directly compare achievements with up to three friends at once, whi
+
+### Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing
+Thu, 15 Oct 2026 21:09:54 +0000 — https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/
+
+Life comes at you fast, as the saying goes, and the folks at RuneScape developer Jagex can sure attest to that. Less than two weeks after announcing RuneScape Reignited —essentially a way for new and lapsed players to restart their adventures from fresh on separate, unique servers—the studio has decided to cancel it. There was trouble with RuneScape Reignited almost right from the start, with complaints ranging from a potential community split to restrictions on character interactions and the need to pay for a separate subscription. Just a few days after the initial announcement, Jagex apologized for making veteran players feel like they were being shunted aside, and said it was "exploring a heavy set of revisions to Reignited based on your feedback." A few days after that, it laid out a more specific list of intended alterations , and invited more feedback from players, "so we can follow up next week with more of our thoughts." With that feedback now received, it seems that Jagex has heard enough. "It is clear that we missed the mark on this, and so we are not moving forward with it," Mod Ryan—associate creative director Ryan Philpott—said in a blog post announcing the cancellation. "Our goal is to see Runescape grow again, with returning players coming back and new players joining, but never at the expense of our existing community." It's a very sudden about-face, but not unprecedented. In 2023, for instance, Jagex dropped a new RuneScape battle pass in the wake of massive 
+
+### Valheim vs Enshrouded vs RuneScape: Dragonwilds: Let's settle this
+Thu, 15 Oct 2026 20:54:41 +0000 — https://www.pcgamer.com/games/survival-crafting/valheim-vs-runescape-dragonwilds-vs-enshrouded/
+
+Attention fellow base-building ghouls and survival masochists, I've got good news and bad news. Starting with the good: Some of the best survival crafting games are no longer in early access, and have hit their 1.0 milestones. The bad news? Three of them piled into the same one-month window. I've seen a million posts all asking the same advice: "Should I get Valheim, RuneScape Dragonwilds, or Enshrouded first?" And as someone who can't stop sinking hundreds of hours into mining the same three types of rock, I'm qualified enough to help you decide. I've also recruited my colleague, Chris Livingston, who is always up to in-game riffraff resulting in funny animal encounters or injuries like some sort of bizarre, survival-crafting Jeff Corwin. Comparing Valheim, Dragonwilds, and Enshrouded We've got our own opinions on who's who among the recent survival crafting 1.0 launches, but maybe you just need something to compare features before getting into recommendations. It's by no means everything included across all three games, but here's a quick comparison of the differences and similarities between features and default settings in Valheim, RuneScape: Dragonwilds, and Enshrouded. Feature Valheim RuneScape Dragonwilds Enshrouded Map Procedurally generated Handcrafted Handcrafted Fast travel Player-crafted portals with item limits Player-crafted portals that require runes as currency Unlockable fast travel points and limited player-crafted bases Thirst and starvation No thirst or st
+
+### Street Fighter review roundup: sorry, folks, but it sounds like a mess
+Thu, 15 Oct 2026 20:51:45 +0000 — https://www.pcgamer.com/movies-tv/street-fighter-review-roundup-sorry-folks-but-it-sounds-like-a-mess/
+
+I had such high hopes for the Street Fighter movie: The trailers were so promising, the cast so charismatic, and it seemed to get the inherent ridiculousness of the franchise, playing it seriously without ever really taking it too seriously. I mean, you don't put a guy like David Dastmalchian in the role of M. Bison unless you expect him to do something with it, right? Alas, it seems that this may be a real Tuesday , at least for my Street Fighter movie aspirations. The reviews are in, and they are not especially kind. Street Fighter isn't a complete catastrophe, according to the critical consensus, but I don't think JCVD has to worry about having to turn in his "Best Street Fighter Movie" trophy anytime soon, either. Here's what they're saying: "Dumber than a box of rocks, but have you ever thrown rocks at things? It can be pretty fun" IGN : 6/10 The story is too thin to support its bloated roster, but IGN reckons the Street Fighter film is "all about landing as many punches as it can before the round timer hits zero. Even though there are plenty of misses, the ones it does manage to land hit hard." "A garish and incoherent mess that amuses in fits and starts but barely improves on the Mortal Kombat movies before it" The Guardian : 2/5 Fans might enjoy the new SF flick, and the performances are "likeable," but its repeated self-knowing acknowledgment of how silly it all is "would land better if the movie ever rose above the stuff it’s making fun of. Instead, Street Fighter i
 
 ### World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'
 Thu, 15 Oct 2026 19:14:30 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-devs-say-gear-upgrades-will-stay-relevant-for-a-long-long-time-its-very-much-our-intention-to-try-wherever-we-can-to-not-invalidate-old-content/
@@ -350,31 +375,6 @@ Just two days after the disastrous release of Total War: Shogun 2 - Complete Edi
 Thu, 15 Oct 2026 15:42:42 +0000 — https://www.pcgamer.com/hardware/gaming-mice/79-percent-of-you-think-razers-new-gaming-mouse-feature-counts-as-cheating/
 
 Last week, I asked whether Razer's "Perfect 180" feature on its new Basilisk V4 Pro gaming mouse counts as cheating . For the unaware, said feature allows a near-instant 180-degree spin to be mapped within the software to a single mouse button. In other words, one click, one insta-turn to face whatever (or whoever) is behind you. 316 of you responded to the poll (where were the rest, asleep?), and the results are... unsurprising. 79% of respondents said yes, while 21% said no, it's totally fine. Does Razer's "Perfect 180" gaming mouse feature count as cheating? Out of 316 poll respondents, here are the results expressed as percentages: Votes (%) Yes 79 No 21 Votes (%) Data Product Value Yes 79 No 21 Or just "no." I'm adding a bit of flavour to that one. Looking through the comments, many seemed to echo the sentiments of TrexLaser, who says: "Anything that moves the mouse for you is cheating." However, some took a more nuanced approach. Terito697174 says the real issue might be in the determination of cheaters, as overly snappy aiming is often the only way for another player to reasonably assess whether they're up against an opponent with an unfair advantage. Salvador Pardiñas makes a good point: "I can sort of understand it as an accessibility option for people who can't normally do a 180 by themselves, but other than that it's just plain cheating." (Image credit: Razer) Certainly, those with differing abilities might find a 180 turn on a mouse button a very useful thing inde
-
-### It's taken its sweet time, but Intel's response to AMD's X3D chips is starting to look tasty
-Thu, 15 Oct 2026 15:34:33 +0000 — https://www.pcgamer.com/hardware/processors/its-taken-its-sweet-time-but-intels-response-to-amds-x3d-chips-is-starting-to-look-tasty/
-
-With little sign of new and exciting GPUs, and with rising memory prices affecting just about everything in a less than positive manner, it's new CPUs that I'll be keeping my optimistic eyes peeled for. That's doubly so now that we're getting wind of the specs for Intel's upcoming Nova Lake generation. According to tech leaker Laurent's Choice on X , we can expect a range of next-gen Intel CPUs to use a 4000-series naming scheme—though still following Core Ultra nomenclature—and three of these will be 'BFC' chips featuring bLLC ('big last-level cache'). 'BFC' presumably means 'big friendly cache' or... something to that, err, effect. I'll let you fill in the blanks. This will be Intel's answer to the 3D V-Cache we see in AMD X3D chips such as the current best CPU on the market, the Ryzen 7 9800X3D . Games love chomping through cache, so the more merrier. Intel's bLLC, however, is said to be built into the die rather than slapped on top or underneath like AMD's 3D V-Cache solution. It's about time we see sign of this, too, if you ask me, given we've had AMD X3D chips since 2022 and no equivalent from Intel. We've seen rumoured specs similar to these earlier in the year , but there are some extra models here, plus the naming to go with it. Apparently the top-end model will be the Core Ultra 9 4970K BFC, and this will run down to the Core Ultra 5 4650KF. Intel Nova Lake specs (rumoured) P/E/LP-E Cores GPU EUs TDP (PL1) bLLC cache Core Ultra 9 4970K BFC 8/16/4 32 125 Yes Core Ult
-
-### I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p
-Thu, 15 Oct 2026 15:26:59 +0000 — https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/
-
-Pumpkin month is here and it has brought us bountiful PC tech, too. Along with the launch of the new Nvidia RTX Spark platform—bringing us all-Nvidia powered laptops and mini PCs for a pretty penny—we've also now got the latest update to DLSS 5, or DLSS Neural Rendering, or DLSS NR. I'm still not 100% sure how we should be referring to this, but I'm certainly not convinced by the whole '3D-guided Neural Rendering' moniker. Whatever, we've got a new model to play with in the one game that has been officially released with the tech inside it: NBA 2K27. And, almost definitely from now on in any of the myriad modding platforms that have baked DLSS 5 into any game you could imagine, on any GPU architecture. The new model is promising to be half as demanding of your hardware than the previous model—so a nominal 30% hit rather than 60%—and Nvidia says it has done this by refining the training data and reducing the model size itself down to around 118 million parameters, which makes it roughly 24% smaller. In terms of its impact on your GPU's VRAM, Nvidia gives the example of a reduction in VRAM usage at 4K of 20%. NBA 2K27 running on the Nvidia RTX Spark with the DLSS 5 Oct update Which is all well and good for Nvidia's numbers, but what happens in the real world? I've got hold of a preview version of the .dll files, specifically created for the RTX Spark hardware I'm testing right now (probably so we couldn't drop the files onto a repo somewhere and have the new model leaked early)
-
-### Where to find the Takashiro region Treasure Hunt in Forza Horizon 6
-Thu, 15 Oct 2026 14:33:44 +0000 — https://www.pcgamer.com/games/racing/forza-horizon-6-treasure-hunt-takashiro-region-location/
-
-(Image credit: Playground Games) Key deets (Image credit: Playground Games) 🚘 The treasure chest is in east Takashiro at a rest area surrounded by pampas grass, southeast of Soni Circuit. Autumn is here in Forza Horizon 6 's Horizon Meets series and that means a new Treasure Hunt to track down for some season points. These points will let you earn the new seasonal cars that are currently on offer. This week's chest is in the east of the Takashiro region, at a rest area surrounded by long pampas grass southeast of Soni Circuit, pictured on the map above. To reach this chest, you need to: When passing the entrance to Soni Circuit going west to east, turn right down the winding road. Take a left down the road into the fields of long pampas grass. Keep an eye out for the rest area on your left side close to the pool on the map. You could also look for the brown spot on the map with the pond in east Takashiro (which marks the long grass) to find it. Smash the chest to get 100,000 credits, 5,000 XP, and three Season Progress. Also make sure to complete the new photo challenge, too, if you're looking for extra points. Forza Horizon 6 car list : All the rides you can collect. Forza Horizon 6 best cars : What to buy and tune. Forza Horizon 6 Treasure Cars : Skip the clues. Forza Horizon 6 Barn Finds : Track down these relics. Forza Horizon 6 review : What we think. ]]>
-
-### Finally: Our favorite roguelike for sickos will let me play as a sapient tree
-Thu, 15 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/
-
-What do you add to the game that has everything? We named Caves of Qud the best roguelike of 2024 due in part to its sheer density of simulated, deep-future, science-fantasy stuff: You can begin a playthrough as a fairly normal guy, and by the end of your run could be playing a clone of yourself who later became a psionic four-armed turtle man wielding a gun that uses blood for ammo and fires vacuum pulses that eat life. With a tapestry of potential interactions already so profoundly, magnificently weird, what could Caves of Qud possibly be adding in Diaspora, an expansion that will be entering early access in December? Well, playable trees is a good start. According to publisher Kitfox, Diaspora "includes several new feature arcs centered around the influx of riotous life and culture into marsh-moated ruins of Qud." Chief among them is the ability to start a playthrough as a mutated animal or plant. Those among you with Qud experience might be thinking, 'Aren't there already animal- and plant-themed mutations?' And there are. But where before you could begin as a human and mutate into beast-shape or plant-form, now—in a sort of beautiful symmetry—you can begin as a tree and mutate into a man. Or, you know, a progressively weirder tree. A tree with wings. And a scorpion tail, maybe. Who can say? Alongside the new mutant animal and plant stocks—and an accompanying expansion to the catalog of potential player mutations—Diaspora's early access launch will also seed new creatures
-
-### Razer Wolverine V4 Pro wireless gaming controller review
-Thu, 15 Oct 2026 13:43:35 +0000 — https://www.pcgamer.com/hardware/controllers/razer-wolverine-v4-pro-review/
-
-I use my Razer Wolverine V3 Pro several times a week. It's become my go-to wireless controller (among many different options on my shelves), thanks to its shape, stickfeel, and build quality. It's plenty quick to react, it's got excellent triggers and face buttons, and is one of my favourite bits of gaming gear. Ever, in fact. Then came the Wolverine V3 Pro 8K , and I wasn't too fussed. Sure, 8K polling is a nice thing to have, but it wasn't enough to sway me towards spending $200 on another controller. Now, however, I have a Wolverine V4 Pro review sample in my hands, and I have to admit—I'm sorely tempted to upgrade. Razer hasn't messed with the core recipe that made the V3 Pro great. It's still got the same comfortable chassis shape, fantastic heavyweight, dual-action triggers, and all the right controls in all the right places. What it has done, though, is upgrade the hardware underneath, while adding a heavy sprinkle of customisation options that improve the experience considerably. I thought I wouldn't get on with the slightly lighter stickfeel compared to the previous model, but I was wrong. It's still got a highly-controllable resistance, now combined with superb snap-motion accuracy from the new contactless sensors. (Image credit: Future) It feels sharper, without losing its smooth, slightly weighty movement. The battery life has been upped to a maximum of 27 hours. You can pull off the rear buttons and block the holes off with flush-fit magnetic plates. And you get 
 
 ## GameSpot
 
@@ -440,6 +440,21 @@ Street Fighter is officially spin-kicking its way into theaters this week, start
 
 ## Rock Paper Shotgun
 
+### CD Projekt is in "a really dangerous place", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality
+Fri, 16 Oct 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality
+
+"The triple-A industry has become over-specialised, specialised to the point of hyper-fragility," Mark Darrah states in a foreboding interview found deep in the pages of the Summer Eternal Anthology, recently covered by Edwin . As a former executive producer at Bioware, who corralled teams on Anthem and Dragon Age , after starting his career as a programmer on Baldur's Gate , Neverwinter Nights , and Jade Empire , Darrah has seen firsthand the growing scale of video game production and the challenges it can bring. Darrah's also been vocal about the difficult development of Anthem in the past, and the struggles he had at Bioware. However, while what he says in the interview may be familiar, I found it gained sharper definition when read in light of games industry news and some of the interviews I've had with developers this year. So let me pull together some of the choice bits with the extra context from our own RPS vaults. Read more
+
+### Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled
+Thu, 15 Oct 2026 21:51:05 +0000 — https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled
+
+Welp, that was short lived. Earlier this month, Jagex made some big RuneScape announcements, namely that they're making a fourth version of the MMO (aptly, currently called RuneScape 4 ), but also the arrival of RuneScape Reignited, a new character type that would come with its own, new economy. The intention here seemingly was to bring new people in to breathe some life back into the game. This did not go down well with the old timers . And now, it's been flat out cancelled. Read more
+
+### Ahead of Call of Duty: Modern Warfare 4's launch next week, unionised Activision testers have voted to authorise a strike
+Thu, 15 Oct 2026 20:27:22 +0000 — https://www.rockpapershotgun.com/ahead-of-call-of-duty-modern-warfare-4s-launch-next-week-unionised-activision-testers-have-voted-to-authorise-a-strike
+
+Call of Duty testers have voted to authorise a union strike. The union, formed back in March of 2024, is made up of almost 600 quality assurance workers at Activision, and plan to strike if conditions at the publisher don't change. Read more
+
 ### Urine Trouble: PEE V PEE, a multiplayer game about hiding from the cops while you take a whizz on public property, takes the trophy for punniest title of the year
 Thu, 15 Oct 2026 18:59:01 +0000 — https://www.rockpapershotgun.com/urine-trouble-pee-v-pee-a-multiplayer-game-about-hiding-from-the-cops-while-you-take-a-whizz-on-public-property-takes-the-trophy-for-punniest-title-of-the-year
 
@@ -484,19 +499,4 @@ In many respects, as someone who has played a lot of automation games, Substruct
 Thu, 15 Oct 2026 11:01:24 +0000 — https://www.rockpapershotgun.com/league-of-legends-classic-will-become-a-thing-of-the-past-in-january-2027-though-it-may-one-day-be-resurrected-as-a-limited-time-event
 
 The classic mode rolled out in League of Legends earlier this year will cease to be a permanent addition once the calendar flips over into 2027, ending a fairly brief nostalgia run, devs Riot have announced. The mode, offering a version of the MOBA mirroring its early days, only debuted in July . It might come back in a different form down the line, but Riot have found that there isn't enough of a prolonged appetite for days gone by to be worth propping up something akin to the classic modes seen in games like World of Warcraft . Read more
-
-### Big Walk devs House House announce support for BDS Microsoft boycott, say the co-op puzzler isn't coming to Xbox
-Thu, 15 Oct 2026 10:27:34 +0000 — https://www.rockpapershotgun.com/big-walk-devs-house-house-announce-support-for-bds-microsoft-boycott-say-the-co-op-puzzler-isnt-coming-to-xbox
-
-House House, creators of breezy co-op puzzle adventure Big Walk , have become the latest high-profile game developers to express support for the BDS (Boycott, Divestment, Sanctions) movement's ongoing Microsoft boycott. The developers, who also made avian mischief sim Untitled Goose Game, wrote in a post that they've been observing the boycott &ndash; called in 2025 in protest of Microsoft's business ties with the Israeli military &ndash; for a while, citing it as the reason why Big Walk went without an Xbox console release alongside its PC, PS5, and Switch 2 versions. Read more
-
-### Ubisoft reportedly look to cut 100 more jobs by proposing voluntary redundancies at studios including lead Anno devs Ubisoft Mainz
-Thu, 15 Oct 2026 09:51:03 +0000 — https://www.rockpapershotgun.com/ubisoft-reportedly-look-to-cut-100-more-jobs-by-proposing-voluntary-redundancies-at-studios-including-lead-anno-devs-ubisoft-mainz
-
-Ubisoft have initiated talks over voluntary redundancies at three German studios under their banner, reportedly seeking to cut around 100 workers via the move. Ubisoft Dusseldorf, Ubisoft Berlin and Ubisoft Mainz are the studios set to be affected, with talks over the plans between Ubisoft and a works council representing staff having been initiated by the publishers last week. Read more
-
-### Living world, god-mind or "something far more terrifying": Etre is an eye-melting, Control-inspired action game about reshaping a cosmic brain
-Wed, 14 Oct 2026 17:00:00 +0000 — https://www.rockpapershotgun.com/living-world-god-mind-or-something-far-more-terrifying-etre-is-an-eye-melting-control-inspired-action-game-about-reshaping-a-cosmic-brain
-
-If I ever go looking for my significant other and find myself inside a planet-sized megamind that's on the verge of gaining consciousness, I will not run around zapping the cerebral fauna with my magic handcannons. I will not jump on or scan anything. Instead, I will heed the lessons of Harlan Ellison and curl regretfully into a ball, awaiting my transformation into a puddle of mournful goo. It's one of many ways I apparently differ from the protagonist of Etre , a new third-person action adventure from Studio Lifeforms, in which you "explore an interconnected labyrinth of luminous architecture, solve spatial puzzles, and engage in fluid combat as you search for your lost love and decide what this new intelligence will become." Read more
 

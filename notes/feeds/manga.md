@@ -1,6 +1,51 @@
-# Manga — harvested 2026-10-15T20:02:30.280Z
+# Manga — harvested 2026-10-16T09:17:07.456Z
 
 ## Anime News Network
+
+### Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members
+Fri, 16 Oct 2026 04:04:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886
+
+Hirofumi Nojima, Shōgo Yano join cast starting in 15th episode
+
+### Magical DoReMi, Star Detective Precure! Anime Get Crossover Episode on October 25
+Fri, 16 Oct 2026 02:29:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/magical-doremi-star-detective-precure-anime-get-crossover-episode-on-october-25/.242871
+
+Crossover episode will be anime's 39th episode
+
+### Interview: Chrono Trigger Lead Programmer on Directing His Own Time Travel JRPG, Eternal Anima
+Fri, 16 Oct 2026 00:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/interview-chrono-trigger-lead-programmer-on-directing-his-own-time-travel-jrpg-eternal-anima/.242869
+
+Director Katsuhisa Higuchi reached out to his old coworkers from Square and gathered other JRPG veterans to make his new retro-inspired adventure.
+
+### Interview: A Deep Dive into the Creation and Philosophy of The Ninth Jedi
+Fri, 16 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-16/a-deep-dive-into-the-creation-and-philosophy-of-the-ninth-jedi/.241654
+
+Producer Hitoshi Ito and Directors Kenji Kamiyama and Shunsuke Tada speak on the origins of the color-changing lightsabers, the the "State of Nothingness," and so much more.
+
+### Hands-on with Eternal Anima: A Classic JRPG for the Modern Era
+Fri, 16 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/hands-on-with-eternal-anima-a-classic-jrpg-for-the-modern-era/.242161
+
+It's not a new <cite>Chrono Trigger</cite> but it may be the next best thing.
+
+### Singer Kenshi Yonezu Goes on World Tour in Early 2027
+Thu, 15 Oct 2026 23:05:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/singer-kenshi-yonezu-goes-on-world-tour-in-early-2027/.242870
+
+Tour goes to S. Korea, Singapore, USA, Mexico, Canada, UK, France, Netherlands
+
+### Crunchyroll Streams Dub for The Apothecary Diaries Season 3
+Thu, 15 Oct 2026 22:44:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868
+
+Dub debuts on Friday
+
+### GKIDS Offers CITY the Animation on BD Collector's Edition on December 15
+Thu, 15 Oct 2026 22:03:46 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/gkids-offers-city-the-animation-on-bd-collector-edition-on-december-15/.242867
+
+Release available exclusively on online GKIDS store
+
+### Kodansha USA Licenses Jackpot Girls, Powerless Without You, Occult Times, 7 Other Manga
+Thu, 15 Oct 2026 21:14:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866
+
+Also: 7 titles for Kodansha Print Club
 
 ### Cregger's Resident Evil Opens at #2 in Japan, 5th Girls und Panzer das Finale Film Opens at #5
 Thu, 15 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/cregger-resident-evil-opens-at-no.2-in-japan-5th-girls-und-panzer-das-finale-film-opens-at-no.5/.242827
@@ -17,56 +62,21 @@ Thu, 15 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 <cite>The Apothecary Diaries</cite> season 3 debuts with 4.8% rating, <cite>Tougen Anki: Nikko Kegon Falls Arc</cite> with 2.7% rating
 
-### This Week in Anime - Incomprehensible Legend Toshiki Inoue
-Thu, 15 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-15/.242803
-
-Come meet the man behind L and Light's homoerotic foot massage scene.
-
-### Gundam Blitz Order Mobile Game Announced
-Thu, 15 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/gundam-blitz-order-mobile-game-announced/.242852
-
-Network test for 1st idle game in <cite>Gundam</cite> franchise will host network test in November
-
-### Crunchyroll Adds English Dub for Saga of Tanya the Evil the Movie Anime
-Thu, 15 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-adds-english-dub-for-saga-of-tanya-the-evil-the-movie-anime/.242851
-
-Film opened in Japan in February 2019
-
-### Voice Actors Kōji Yusa, Miyari Nemoto Announce Marriage
-Thu, 15 Oct 2026 08:10:33 -0400 — https://www.animenewsnetwork.com/interest/2026-10-15/voice-actors-koji-yusa-miyari-nemoto-announce-marriage/.242848
-
-Yusa creates X/Twitter account just to make announcement, will deactivate it next week
-
-### Fate/Extra Record Game Highlights Opponents in New Character Promo Video
-Thu, 15 Oct 2026 07:51:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/fate-extra-record-game-highlights-opponents-in-new-character-promo-video/.242844
-
-Also: Game to hold special hands-on event in Tokyo on November 7-8
-
-### 'Are You a Landmine, Chihara-san?' Anime Announces January 7 Debut
-Thu, 15 Oct 2026 07:43:18 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-15/are-you-a-landmine-chihara-san-anime-announces-january-7-debut/.242854
-
-The staff for the&nbsp;television anime of Ryon's Are You a Landmine, Chihara-san? (Jirai nandesu ka? Chihara-san) manga announced on Thursday the anime's...
-
-### Bless TV Anime Casts Kōki Uchiyama
-Thu, 15 Oct 2026 07:23:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/bless-tv-anime-casts-koki-uchiyama/.242855
-
-Uchiyama voices Akiharu Nakano in series debuting in January
-
-### Kei Urana's Gachiakuta Manga Resumes on November 11
-Thu, 15 Oct 2026 07:08:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/kei-urana-gachiakuta-manga-resumes-on-november-11/.242853
-
-Manga has been on hiatus since August 5 so author could do research
-
-### I Got a Cheat Skill in Another World 2nd Season Anime Reveals Teaser Video, New, Returning Cast & Staff, January 2027 Debut
-Thu, 15 Oct 2026 05:58:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/i-got-a-cheat-skill-in-another-world-2nd-season-anime-reveals-teaser-video-new-returning-cast-and-/.242845
-
-Ikumi Hasegawa, Sora Amamiya join anime's cast
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Ave Mujica prima aurora Movie Reveals 2nd Trailer
+Fri, 16 Oct 2026 09:14:07 GMT — https://animecorner.me/ave-mujica-prima-aurora-movie-reveals-2nd-trailer/
+
+Ave Mujica prima aurora movie revealed its second trailer on Friday. The movie is&hellip;
+
+### Interview: We Asked Captain Tsubasa's Creator Who the Real Tsubasa Is
+Fri, 16 Oct 2026 08:59:03 GMT — https://animecorner.me/interview-yoichi-takahashi/
+
+Yoichi Takahashi, the man who taught Japan to love football sat down with us&hellip;
 
 ### I Got a Cheat Skill in Another World (Iseleve) Season 2 First Trailer, New Cast, January 2027 Release Revealed
 Thu, 15 Oct 2026 09:17:39 GMT — https://animecorner.me/i-got-a-cheat-skill-in-another-world-iseleve-season-2-first-trailer-new-cast-january-2027-release-revealed/
@@ -98,17 +108,12 @@ Wed, 14 Oct 2026 12:52:53 GMT — https://animecorner.me/black-clover-season-2-e
 
 Black Clover Season 2 has released preview images and synopsis for Episode 3 (Episode 173 overall) ahead of its October 17 premiere.
 
-### Yumene Connect Gets Anime
-Wed, 14 Oct 2026 06:20:13 GMT — https://animecorner.me/yumene-connect-gets-anime/
-
-Ko Sawada's manga, Yumene Connect, is getting an anime adaptation. A teaser visual and&hellip;
-
-### One-Punch Man Season 3 Cour 2 Visual and Trailer Revealed, Sets January 2027 Release
-Tue, 13 Oct 2026 22:52:15 GMT — https://animecorner.me/one-punch-man-season-3-cour-2-visual-and-trailer-revealed-sets-january-2027-release/
-
-One-Punch Man Season 3 Cour 2 anime revealed a new visual and trailer, along with a January 2027 release date.
-
 ## MyAnimeList News
+
+### Kizuguchi to Houtai Reveals Main Cast, Teaser Promo
+Fri, 16 Oct 2026 00:28:30 -0700 — https://myanimelist.net/news/74826432?_location=rss
+
+The official website for the television anime adaptation of Nanai Umihoshi s Kizuguchi to Houtai (Wound and Bandage) manga revealed the main cast, a theme visual (pictured), and teaser promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Voice actors Hisako Kanemoto (Jaku-Chara Tomozaki-kun) and Chikahiro Kobayashi (Beastars) are starring as Riyo Washizu and Gou Kiritani, res...
 
 ### Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru 2nd Season Reveals Additional Cast, New Staff, First Promo for Winter 2027
 Thu, 15 Oct 2026 03:22:24 -0700 — https://myanimelist.net/news/74823641?_location=rss
@@ -130,29 +135,19 @@ Wed, 14 Oct 2026 20:50:13 -0700 — https://myanimelist.net/news/74823040?_locat
 
 Voice actors Kouji Yusa and Miyari Nemoto revealed their marriage through personal statements posted on social media on Thursday. Nemoto shared the news on her X account, writing, "It is with great humility that I announce my marriage registration with Kouji Yusa. Although I am still inexperienced, the two of us will support each other and continue to devote ourselves even more diligently going forward. I kindly ask for your continued support." Yusa also released a statement via a tem...
 
-### Manga Kimi to Koete Koi ni Naru Ends Serialization
-Tue, 13 Oct 2026 21:18:42 -0700 — https://myanimelist.net/news/74820139?_location=rss
-
-Chihiro Yuzuki s Kimi to Koete Koi ni Naru (With You, Our Love Will Make It Through) manga ended its serialization on Wednesday. The 133th and final chapter marked the end of its five-year run. Yuzuki began serializing the supernatural romance manga, also abbreviated as Kimikoe, on the Manga Mee service in May 2021. Shueisha published the 12th volume on September 26. The 13th volume will be the final volume. Kimikoe has a cumulative 1.8 million copies of its volumes in print. Yen Press lice...
-
-### Manga Yumene Connect Gets TV Anime
-Tue, 13 Oct 2026 20:44:24 -0700 — https://myanimelist.net/news/74820023?_location=rss
-
-Production company Shochiku opened an official website for a television anime adaptation of Kou Sawada s Yumene Connect manga on Wednesday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. Voice actors Yuusuke Kobayashi (Re:Zero kara Hajimeru Isekai Seikatsu) and Yuu Sasahara (Shadows House) are starring as Yuuhi Takamiya and Nano, respectively. Staff Director: Souta Yokote (Fumetsu no Anata e Season 3) Series Composition, Script: Gigaemon Ichikawa (...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### The Record of Fantastical Nomenclature Volume 1 Review
+Fri, 16 Oct 2026 09:00:46 +0000 — https://animeuknews.net/2026/10/the-record-of-fantastical-nomenclature-volume-1-review/
+
+An artist with the ability to see invisible creatures and a self-proclaimed alien author combine their talents to research the Obscura in this new supernatural series.
+
 ### Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte Review
 Thu, 15 Oct 2026 09:00:55 +0000 — https://animeuknews.net/2026/10/endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte-review/
 
 MagiKoi is a video game where the villainess dies, but when Endo and Kobayashi play, they want her to be the heroine.
-
-### A Starlit Darkness Volume 2 Review
-Wed, 14 Oct 2026 09:00:17 +0000 — https://animeuknews.net/2026/10/a-starlit-darkness-volume-2-review/
-
-Geppo Yagira has everything a successful novelist could wish for – but who could guess that his good looks and charming smile hide the mental scars of a horrific past?
 

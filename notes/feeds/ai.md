@@ -1,11 +1,21 @@
-# AI — harvested 2026-10-15T20:02:30.280Z
+# AI — harvested 2026-10-16T09:17:07.456Z
 
 ## OpenAI
+
+### Bringing GPT-Rosalind to academic research labs
+Thu, 15 Oct 2026 19:00:00 GMT — https://openai.com/index/introducing-the-rosalind-academic-plan
+
+Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
 
 ### Teaching students to think and learn through questions
 Thu, 15 Oct 2026 13:00:00 GMT — https://openai.com/index/teaching-students-to-think-and-learn-through-questions
 
 Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
+
+### Sullivan & Cromwell brings legal expertise into agreement review
+Thu, 15 Oct 2026 00:00:00 GMT — https://openai.com/index/sullivan-cromwell
+
+In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
 
 ### Amp puts AI agents to work beyond code with OpenAI models
 Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/amp-beyond-coding
@@ -17,25 +27,13 @@ Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/sentinelone
 
 With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
 
-### How Third Moment Research runs 10,000 agents for 36+ hours
-Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/third-moment-research
-
-With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.
-
-### How Block is building AI-powered security with OpenAI technology
-Wed, 14 Oct 2026 07:00:00 GMT — https://openai.com/index/block-ai-powered-security
-
-Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.
-
-### The EU’s next chapter in AI is agentic
-Wed, 14 Oct 2026 00:00:00 GMT — https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic
-
-New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.
-
 ## Hugging Face
 
-### Apertus 1.5 Release Notes
-Thu, 15 Oct 2026 09:08:45 GMT — https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes
+### Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
+Fri, 16 Oct 2026 01:44:47 GMT — https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+
+### Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint
+Thu, 15 Oct 2026 20:34:01 GMT — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
 
 ### Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
 Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/meta-muse-spark-open
@@ -52,11 +50,6 @@ Wed, 14 Oct 2026 16:12:42 GMT — https://huggingface.co/blog/allenai/hiro-acev2
 Thu, 15 Oct 2026 16:08:03 +0000 — https://deepmind.google/blog/accelerating-antimicrobial-discovery/
 
 Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.
-
-### Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection
-Wed, 14 Oct 2026 02:00:14 +0000 — https://deepmind.google/blog/on-device-ai-scam-detection-mddi/
-
-Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.
 
 ## VentureBeat AI
 
