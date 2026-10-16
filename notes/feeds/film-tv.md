@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-16T14:59:54.928Z
+# Film & TV — harvested 2026-10-16T19:42:00.984Z
 
 ## Variety
 
-### 10 Films to Track at El Gouna, From Cannes and Berlin Standouts to Rising Arab Filmmakers
-Fri, 16 Oct 2026 14:30:40 +0000 — https://variety.com/2026/film/global/el-gouna-film-festival-2026-films-to-watch-1236913977/
+### True Detective Season 5: Antonio Banderas Joins Nicolas Cage as Series Set to Film in 2027
+Fri, 16 Oct 2026 19:30:00 +0000 — https://variety.com/2026/tv/news/true-detective-season-5-antonio-banderas-nicolas-cage-1236914353/
 
-The ninth edition of Egypt’s El Gouna Film Festival brings together a strong showing of Arab cinema to the Red Sea, with a lineup spanning emerging regional voices, established filmmakers, and prize-winning titles from Cannes, Berlin, Venice, Sundance and Shanghai. Across its narrative, documentary and short-film competitions, this year’s selection features stories of love, memory [ ]
+Antonio Banderas has joined Nicolas Cage in True Detective Season 5. The duo will headline the next installment of the HBO anthology series, which is set to begin production in 2027. The new season hails from showrunner Issa López, who helmed the Alaska-set fourth season, Night Country, starring Jodie Foster and Kali Reis. Season 5 [ ]
 
-### Kenny Ortega Says His New Lego Friends Heartlake Movie Brings the Bricks to Life in the Most Wonderful Musical Capacity
-Fri, 16 Oct 2026 14:30:00 +0000 — https://variety.com/2026/film/global/kenny-ortega-lego-friends-heartlake-musical-1236912879/
+### Selma Blair s Rep Speaks Out After Actress Arrest and Plane Incident: Selma Did Not Intend to Harm Anyone
+Fri, 16 Oct 2026 19:15:45 +0000 — https://variety.com/2026/film/news/selma-blair-rep-speaks-out-arrest-plane-incident-1236909381/
 
-Kenny Ortega is the talent behind iconic films ranging from “Hocus Pocus” to “High School Musical” not to mention dozens of music videos, concerts and two Olympics opening ceremonies. So it’s unsurprising he was the top choice when Lego were thinking about making their first musical feature based on the Lego Friends line. Ortega, who [ ]
+Selma Blair s spokesperson has spoken out after the actress was charged with second-degree assault following a violent incident on a Delta flight on Sunday. “Since Sunday night, the public account of what happened to Selma aboard a flight to New York has been built almost entirely on a police statement and a decade-old headline,” her [ ]
 
-### Iron Maiden Announce 2027 North American Tour Dates
-Fri, 16 Oct 2026 14:10:01 +0000 — https://variety.com/2026/music/news/iron-maiden-2027-north-american-tour-dates-1236913988/
+### Kate Berlant on Her HBO Special Parmesan, the Joke That Made a Man Flip Her Off and Her Next Project With John Early
+Fri, 16 Oct 2026 18:39:40 +0000 — https://variety.com/2026/tv/news/kate-berlant-hbo-special-parmesan-1236913499/
 
-Long-running British heavy metal titans Iron Maiden will return to North America for a third and final leg of their 50th anniversary “Run for Your Lives” tour. The band, which are 2026 Rock Roll Hall of Fame inductees, will conclude this leg with two festival headline performances at Sonic Temple and Boardwalk Rock. Bassist [ ]
+There’s a throughline in Kate Berlant’s new HBO special “Parmesan,” and it’s not cheese. “My addiction? My phone,” the comedian says at the beginning of the hour. With slapstick style and performative haughtiness, Berlant yearns for a time before cellphones in the special, out Oct. 16. Chronicling the hyper-niche behaviors that define our online existence, [ ]
 
-### David Surkamp, Pavlov’s Dog Singer, Dies at 73
-Fri, 16 Oct 2026 14:03:53 +0000 — https://variety.com/2026/music/news/david-surkamp-dead-pavlovs-dog-singer-1236913972/
+### Diddy Moved to New Prison Days After Being Hospitalized for Alleged Head Injury
+Fri, 16 Oct 2026 18:38:35 +0000 — https://variety.com/2026/music/news/diddy-moved-to-new-prison-hospitalized-alleged-head-injury-1236914289/
 
-David Surkamp, frontman for the long-running progressive-rock band Pavlov’s Dog, has died at age 73, according to a social media post on the band’s social media accounts. No cause of death was announced. While the band, which formed in St. Louis in the early 1970s, was not and arena-filling progressive rock group like Yes, Genesis [ ]
+Sean ‘Diddy’ Combs has been transferred from his New Jersey prison to a new one in Pennsylvania, officials and his spokesperson confirmed on Friday, days after he was hospitalized for an alleged head injury. Combs, 56, was serving out his 50-month sentence at FCI Fort Dix in New Jersey when he was rushed to the [ ]
 
-### Lucky Daye on Creating His New Album Aloud and Collaborating With Pusha T and Muni Long: It s About the Magic
-Fri, 16 Oct 2026 14:00:00 +0000 — https://variety.com/2026/music/news/lucky-daye-on-creating-new-album-aloud-pusha-t-muni-long-1236913298/
+### Katie Zacharia, Trump s Press Secretary, Is Out After Five Days
+Fri, 16 Oct 2026 18:31:26 +0000 — https://variety.com/2026/politics/news/katie-zacharia-trump-press-secretary-out-1236914253/
 
-Lucky Daye is in a season of change. Ahead of the release of Aloud, out today, the Grammy-winning singer-songwriter is settling into a new label home at Warner Records, working with a wider circle of collaborators and taking more control of his creative process. Even his look signals a shift: When Variety meets him for [ ]
+White House Press Secretary Katie Zacharia is out after just five days on the job. President Trump told reporters Friday that he would talk to Zacharia about a new role. I said, When I get back we re going to talk,' Trump said, because I don t think that Katie should be made to suffer like she s [ ]
 
-### El Gouna’s Amr Mansi on CineGouna Expansion, New Partnerships and Making ‘the Industry Our Hero’
-Fri, 16 Oct 2026 13:53:37 +0000 — https://variety.com/2026/film/global/el-gouna-film-festival-amr-mansi-cinegouna-1236913957/
+### 8 VIFF Films That Deserve a Closer Look
+Fri, 16 Oct 2026 18:22:28 +0000 — https://variety.com/2026/film/global/viff-films-deserve-closer-look-matthew-rankin-john-turturro-1236914031/
 
-Egypt’s El Gouna Film Festival heads into its ninth edition with a mix of major international titles, including Cannes prize winners “All of a Sudden” and “Ben’imana,” major star power, and the Red Sea glitz woven into its DNA. Co-founder and executive director Amr Mansi wants to expand upon those founding elements, broadening GFF’s industry [ ]
+The 45th Vancouver International Film Festival (VIFF) featured some high-profile titles, including Jesse Eisenberg’s “The Debut,” which has been generating awards buzz for star Julianne Moore, and Martin McDonagh’s closing-night black comedy “Wild Horse Nine,” starring John Malkovich and Sam Rockwell. Peter Farrelly’s “I Play Rocky” took home the Audience Award in the Special Presentations [ ]
 
-### Indonesian Zombie Franchise ‘Zona Merah: Dead City’ Unveils Teaser, Takes Outbreak Into the City
-Fri, 16 Oct 2026 13:41:14 +0000 — https://variety.com/2026/film/news/indonesia-zombie-zona-merah-dead-city-teaser-1236913911/
+### ‘Michael’ to Receive Musical Tribute at 2026 Gotham Film Awards
+Fri, 16 Oct 2026 18:00:00 +0000 — https://variety.com/2026/awards/news/michael-gotham-musical-tribute-1236914181/
 
-The first teaser for “Zona Merah: Dead City,” the big-screen adaptation of Indonesian zombie series “Zona Merah,” has landed ahead of the film’s Jan. 14, 2027, release in Indonesian cinemas. Screenplay Films, which unveiled the trailer on Friday, is billing the feature as the largest zombie production Indonesia has ever mounted. The source series, a [ ]
+The 36th Annual Gotham Film Awards Ceremony will present the cast and creative team behind “Michael” with the Gotham Musical Tribute. Inaugurated last year by Hugh Jackman and Kate Hudson of “Song Sung Blue,” director Antoine Fuqua, actors Colman Domingo, Jaafar Jackson and Nia Long and producer Graham King will receive the tribute for the [ ]
 
-### Chris Pratt and Pope Leo Explore St. Peter s Tomb in Trailer for Vatican Documentary Discovering the Origins (EXCLUSIVE)
-Fri, 16 Oct 2026 13:35:07 +0000 — https://variety.com/2026/film/global/chris-pratt-pope-leo-st-peters-tomb-vatican-doc-trailer-1236913844/
+### The Julia Set, Starring Chase Infiniti, Lands at Sony Pictures Classics Following TIFF Premiere
+Fri, 16 Oct 2026 18:00:00 +0000 — https://variety.com/2026/film/news/the-julia-set-chase-infiniti-sony-pictures-classics-tiff-1236914143/
 
-A new documentary pairs Pope Leo and Hollywood star Chris Pratt to delve into the history, religious passion and archaeological discoveries surrounding the tomb of St. Peter at the Vatican. Titled Pétros Ení — Discovering the Origins, the doc — which launches from the Rome Film Festival on Friday ahead of its international rollout — [ ]
+Sony Pictures Classics has acquired rights to Niki Byrne s “The Julia Set,” starring Chase Infiniti, following the film s world premiere at TIFF. The film, written and directed by Byrne, was one of the festival s breakouts, thanks in large part to Infiniti s commanding performance. The “One Battle After Another” and “The Testaments” star earned rave reviews [ ]
 
-### El Gouna Artistic Director Andrew Mohsen Puts ‘Discovery’ First: ‘We’re Trying to Draw Attention’ to Overlooked Films
-Fri, 16 Oct 2026 13:34:05 +0000 — https://variety.com/2026/film/global/el-gouna-andrew-mohsen-discovery-arab-cinema-cinegouna-1236913914/
+### The Avalanches Create Another Sample-delic Pop Masterpiece With ‘No Bad Memories’: Album Review
+Fri, 16 Oct 2026 17:58:19 +0000 — https://variety.com/2026/music/reviews/avalanches-no-bad-memories-album-review-1236914225/
 
-For his first edition at the helm of Egypt’s El Gouna Film Festival, artistic director Andrew Mohsen wants to widen the scope of what, and who, audiences discover on the shores of the Red Sea. “Discovery,” Mohsen asserts, sits at the heart of that vision, which builds on the festival’s established place as a showcase [ ]
+Without overstating the case, when the Avalanches’ debut album “Since I Lost You” arrived out of a clear blue sky (to anyone outside of their native Australia, anyway) in 2000, its impact was like the arrival of the Beastie Boys’ “Paul’s Boutique” eleven years earlier: a mind-melting leap forward in the art of sampling, a [ ]
 
-### How Creators Make Money: Digital-Native Leaders on What Drives Audiences and Brands in the Attention Economy
-Fri, 16 Oct 2026 13:15:00 +0000 — https://variety.com/2026/biz/news/jesser-ishowspeed-comscore-uproxx-culture-genius-variety-1236906447/
+### Joel and Ethan Coen Reflect on Their Careers, Streaming and the Future of Movie Theaters at Lumière Festival: Watching Films on iPhones Is ‘Very Disheartening’
+Fri, 16 Oct 2026 17:52:47 +0000 — https://variety.com/2026/film/global/joel-coen-ethan-coen-lumiere-award-winners-1236914195/
 
-On the latest episode of Variety’s “Strictly Business” podcast, leaders of top digital-native firms discuss the factors that are funneling viewership, fan engagement and brand deals in the creator economy. Aaron Doades, senior VP of product management for Comscore, Zach Miller, president of JesserCo., Jarret Myer, CEO of Uproxx Studios, and Shaun Newsum, CEO of [ ]
+LYON, France Joel and Ethan Coen have embraced the streaming boom, working with Netflix and Apple TV+, but they remain staunch defenders of movie theaters. Speaking at the Lumière Film Festival in Lyon on Friday, the Oscar-winning brothers were asked about their experience working with Netflix on “The Ballad of Buster Scruggs” and Apple [ ]
 
 ## The Hollywood Reporter
 
-### Role Model s Next Move? He’ll Figure It Out Onstage
-Fri, 16 Oct 2026 14:45:00 +0000 — https://www.hollywoodreporter.com/music/music-features/role-model-chuck-timely-album-tour-good-sex-interview-1236725892/
+### True Detective Season 5 Officially Casts Nicolas Cage — and Antonio Banderas
+Fri, 16 Oct 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/true-detective-season-5-nicolas-cage-antonio-banderas-1236733868/
 
-The 29-year-old singer, who is currently on his global tour after releasing his third album 'Chuck Timely the Hourglass,' is embracing his new era with "sunglasses and this weird pathetic drunk guy character."
+The new season of the HBO series is set to begin filming in 2027.
 
-### Clayface Director James Watkins on Why He Auditioned the Hell Out of Star Tom Rhys Harries
-Fri, 16 Oct 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/clayface-movie-actor-tom-rhys-harries-director-james-watkins-1236733512/
+### Josh Brolin Talks the Personal Side of ‘Whalefall’ and the “Undeniable” Script for ‘Sicario 3’
+Fri, 16 Oct 2026 19:05:59 +0000 — https://www.hollywoodreporter.com/movies/movie-features/josh-brolin-whalefall-sicario-3-1236733418/
 
-The Welsh actor spent three months auditioning for the part and turned in two lengthy screen tests to play the title character. But he had no issues with it: "I'm untested in this space, so I was glad he did it."
+The actor also talks about passing on 'Lanterns' (he's watched it and loves it) and reflects on the cancelation of 'Outer Range': "you had gold."
 
-### Comics Accuse Hot AI Fakes of Stealing Their Jokes Word for Word to Push OnlyFans Pages
-Fri, 16 Oct 2026 12:32:38 +0000 — https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/
+### Austin Abrams and Josh Brolin Debut Whalefall, Clayface Arrives and This Week s Best Events
+Fri, 16 Oct 2026 18:45:35 +0000 — https://www.hollywoodreporter.com/gallery/whalefall-clayface-red-capet-events-1236727214/
 
-Stand-up comics are calling out accounts that have sexy female "comics" plagiarizing their jokes: "AI stole my joke and my outfit."
+Inside this week's biggest Hollywood premieres, parties and openings.
 
-### Norm: The Tale of Norm Macdonald Review: Judd Apatow s Comedy Doc Sends Viewers Down a Laugh-Filled Rabbit Hole
-Fri, 16 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/norm-the-tale-of-norm-macdonald-review-judd-apatow-netflix-1236733208/
+### How Cher Honors Costume Designer Bob Mackie in New Campaign for Moncler s Re/Icons Collection
+Fri, 16 Oct 2026 18:27:27 +0000 — https://www.hollywoodreporter.com/lifestyle/style/moncler-collection-cher-jennie-blackpink-grace-jones-2026-1236733731/
 
-The Netflix film skips traditional talking heads for a more archival approach to the 'Saturday Night Live' comedy legend.
+The legendary entertainer joins Blackpink superstar Jennie and trend-setter Grace Jones as icons in the new campaign for the luxury fashion house.
 
-### James McAvoy Reveals Which Film Paid Him Bonkers Residuals
-Fri, 16 Oct 2026 03:12:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-mcavoy-film-split-paid-bonkers-residuals-1236733475/
+### Half a Scaramucci: White House Press Secretary Katie Zacharia Ousted After One Briefing
+Fri, 16 Oct 2026 18:15:21 +0000 — https://www.hollywoodreporter.com/news/politics-news/katie-zacharia-out-as-white-house-press-secretary-1236733816/
 
-On the other hand, the actor also said he sometimes "gets checks for like 25 cents."
+In 5 days on the job, she faced tough questioning about whether she misrepresented herself as a lawyer.
 
-### Grey s Anatomy Boss Meg Marinis on Texas Spinoff, Ellen Pompeo and Season 23 Premiere Cliffhangers
-Fri, 16 Oct 2026 03:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/greys-anatomy-premiere-season-23-texas-spinoff-ellen-pompeo-1236733218/
+### Universal Music and Sony Want to Know How Many AI-Generated Songs DistroKid Releases
+Fri, 16 Oct 2026 18:11:58 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/umg-and-sony-distrokid-ai-song-subpoena-1236733702/
 
-The showrunner also talks to THR about keeping TV's reigning medical drama fresh amid competition and after so many years: "No one has said anything to me about when the last season is going to be."
+The companies filed a new case this week, arguing the information is crucial in the labels' lawsuit against Suno.
 
-### Daisy Edgar-Jones Reveals She Might Be Slightly Deaf in One Ear After Filming Twisters
-Fri, 16 Oct 2026 01:58:43 +0000 — https://www.hollywoodreporter.com/movies/movie-news/daisy-edgar-jones-slightly-deaf-filming-twisters-1236733462/
+### Chase Infiniti s The Julia Set Acquired by Sony Pictures Classics For U.S., International Territories
+Fri, 16 Oct 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/julia-set-sony-pictures-classics-1236733715/
 
-The actress starred opposite Glen Powell in the 2024 action-adventure thriller.
+Niki Byrne’s debut about a young math genius and also starring Jason Isaacs and Gillian Anderson bowed at the Toronto Film Festival.
 
-### ‘SNL’ Star Michael Che Reacts to Shane Gillis’ Controversial Monologue: That’s Comedy
-Fri, 16 Oct 2026 01:27:19 +0000 — https://www.hollywoodreporter.com/tv/tv-news/snl-michael-che-reacts-shane-gillis-controversial-monologue-1236733370/
+### Amazon Orders Tennis Drama Rally From Julie Plec and Andre Agassi
+Fri, 16 Oct 2026 17:59:47 +0000 — https://www.hollywoodreporter.com/tv/tv-news/prime-video-rally-julie-plec-andre-agassi-1236733765/
 
-Gillis drew heat for a joke he made about women in the gym while recently hosting the NBC sketch comedy program.
+The series, set at an elite tennis academy, hails from Universal Television in association with Entertainment 360 and Amazon MGM Studios.
 
-### DWTS Pro Val Chmerkovskiy Apologizes to Carrie Ann Inaba for Careless Will Smith Oscars Slap Reference: I Will Do Better
-Fri, 16 Oct 2026 01:18:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/dwts-val-apologizes-carrie-ann-inaba-will-smith-oscars-slap-1236733459/
+### Netflix Regime Change: Ruthless Cuts Set the Stage for a New Era at Streaming Giant
+Fri, 16 Oct 2026 17:45:50 +0000 — https://www.hollywoodreporter.com/business/business-news/netflix-regime-change-layoffs-1236733596/
 
-The dancer made a post writing, “You almost saw Fresh Prince enter the ballroom last night," which prompted the judge to respond with her own social post that read, "So this is what we are doing now?"
+It's now in open warfare with YouTube and its infinite, cheap content. The new plan may be to recalibrate around the U.S. market once again, with a focus on the big and buzzy and, yes, franchise-worthy.
 
-### Street Fighter Eyes Box Office Victory as Buzzy Elizabeth Holmes Doc Heads for Strong Launch
-Fri, 16 Oct 2026 00:27:59 +0000 — https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-whalefall-you-can-see-everything-1236733042/
+### DC Studios James Gunn and Peter Safran Recall Detailing Long-Term Plans to New Boss David Ellison
+Fri, 16 Oct 2026 17:31:54 +0000 — https://www.hollywoodreporter.com/movies/movie-news/dc-studios-james-gunn-peter-safran-david-ellison-skydance-1236733532/
 
-'You Can See Everything,' 'Whalefall' and 'Sense and Sensibility' are among the weekend's notable newcomers.
+"We really took him into the tent and talked about where we see it going over the next number of years so he's got a really good sense of what we want to do," explained DC Studios' chief Peter Safran.
 
 ## Deadline
 
-### Rafe Spall On Playing An Amnesiac Super Sleuth In The Death Of Sherlock Holmes : This Is A Clean Slate
-Fri, 16 Oct 2026 13:37:26 +0000 — https://deadline.com/2026/10/rafe-spall-death-of-sherlock-holmes-interview-1237157929/
+### Antonio Banderas Joins Nicolas Cage In ‘True Detective’ Season 5
+Fri, 16 Oct 2026 19:30:00 +0000 — https://deadline.com/2026/10/antonio-banderas-nicolas-cage-true-detective-season-5-1237166029/
 
-Rafe Spall was one of the biggest names at MIPCOM Cannes this week where he gave Deadline his take on playing super sleuth Sherlock Holmes. The Trying star is leading The Death of Sherlock Holmes, which fills the gap between the detective s apparent death at the Reichenbach Falls in 1891 and his reappearance in The [ ]
+The next season of True Detective is starting to take shape. Antonio Banderas has joined the cast of season five of the HBO anthology drama. This comes after Nicolas Cage confirmed that he was entering the universe at last week’s New York Comic-Con, more than a year after it was revealed that the Pig star [ ]
 
-### ‘Dear William:’ Film Adaptation Of David D. Magee’s Memoir Underway
-Fri, 16 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/dear-william-david-d-magee-film-1237165610/
+### Donald Trump On Dinner With Bill Maher: He Likes Me A Lot More Than People Understand, And I Actually Like Him
+Fri, 16 Oct 2026 19:08:36 +0000 — https://deadline.com/2026/10/trump-bill-maher-dinner-white-house-1237166009/
 
-EXCLUSIVE: A big-screen adaptation of David D. Magee’s memoir Dear William: A Father’s Memoir of Addiction, Recovery, Love, and Loss has been greenlit, with production underway in Mississippi, and Andrew Hyatt (The Blind and Paul) directing. Hyatt has also written the film’s screenplay. Matt Passmore, Emily Rose, Gabriel Nagy and Hudson Macready star in the [ ]
+Donald Trump is once again praising Bill Maher following a dinner he had at the White House with the HBO host along with Stephen A. Smith and Kid Rock. It was a great dinner, it was a very informative dinner, Trump told reporters on Friday. Smart people. Stephen A. is great. Bill Maher I [ ]
 
-### Russell Brand Accuser Argues He Wanted To Assault Her When Trying To Drag Her Into A Toilet: The Intent Was There
-Fri, 16 Oct 2026 12:44:53 +0000 — https://deadline.com/2026/10/russell-brand-accuser-drag-toilet-mtv-london-assault-1237165591/
+### NCIS: Origins Boss Talks Mark Harmon Michael Weatherly Reunion Is An Episode No Fan Will Want To Miss As New Photos Drop
+Fri, 16 Oct 2026 19:00:25 +0000 — https://deadline.com/2026/10/ncis-origins-mark-harmon-michael-weatherly-interview-photos-1237165975/
 
-Russell Brand s second accuser in his trial has argued intent was there to assault her when the presenter allegedly tried to drag her into a toilet at the MTV offices in London 25 years ago. The accuser, who we are calling C2, said Brand went from affable, jovial and friendly to suddenly turning into a [ ]
+EXCLUSIVE: David J. North, NCIS: Origins showrunner and executive producer, has heard the NCIS fans excitement over the big upcoming Mark Harmon and Michael Weatherly reunion in the Origins prequel, and now he s teasing that more surprises are ahead. Deadline also has four new images from the upcoming third episode titled Return of the Mack [ ]
 
-### From Grey’s Anatomy To Scottish Indie Boss: Kevin McKidd On Ferryman Films His New Show The Only Suspect
-Fri, 16 Oct 2026 12:33:20 +0000 — https://deadline.com/2026/10/greys-anatomy-kevin-mckidd-ferryman-films-the-only-suspect-1237158061/
+### The New Joke Thieves: AI Avatars Racking Up Millions Of Views
+Fri, 16 Oct 2026 18:56:03 +0000 — https://deadline.com/2026/10/comedians-ai-joke-theft-natalie-cuomo-olivia-carter-1237165762/
 
-Scottish multi-hyphenate Kevin McKidd has launched an indie on home turf, and says he s using his Hollywood experience to make it work. When Deadline speaks with him in his New York hotel, McKidd is in the throes of filming Conviction, the Elisabeth Moss-starring Hulu legal drama from House creator David Shore. After that, he’s headed [ ]
+Joke theft, a phenomenon predating the art form of stand-up comedy, has entered an uncanny new era. The basic set-up, for years, was just a comic ripping off a joke and performing it on stage; the infamous mid-2000s Comedy Store stand-off between Joe Rogan and alleged joke thief Carlos Mencia is one of the most [ ]
 
-### International Insider: Surfing To MIPCOM Cannes; Russell Brand Trial Begins; Nicole Wallace Interview
-Fri, 16 Oct 2026 12:00:00 +0000 — https://deadline.com/2026/10/international-insider-mipcom-cannes-russell-brand-trial-1237158011/
+### A Different World: Tom Werner Wants To Make An Impact On Screen, Stage In The Stadium
+Fri, 16 Oct 2026 18:20:00 +0000 — https://deadline.com/2026/10/tom-werner-a-different-world-liverpool-fc-interview-1237151127/
 
-Welcome back Insiders, glad to have you here after a busy week in Cannes and plenty else going on. Sign up here and whatever you do, read on. Surfing To MIPCOM Cannes Newly minteds: At this year s MIPCOM there was a little bit of surf and a whole lot of shine as the edition was [ ]
+Tom Werner has been involved in a lot of hit television shows, from working on Mork Mindy and Taxi when he was at ABC to producing series including The Cosby Show, Roseanne, 3rd Rock From The Sun and That ‘70s Show at Carsey-Werner. When he moved into sports ownership as part of the group [ ]
 
-### UK YouTube Breakout A Memory Owed , With James Bolam Rumi Sutton, Moves Into Feature Development
-Fri, 16 Oct 2026 10:50:02 +0000 — https://deadline.com/2026/10/youtube-short-memory-owed-air-force-feature-development-1237165601/
+### Jude Law Set To Play Legendary Liverpool Manager Bill Shankly In A24 Series From Jack Thorne
+Fri, 16 Oct 2026 18:17:30 +0000 — https://deadline.com/2026/10/jude-law-liverpool-fc-manager-bill-shankly-a24-series-1237155045/
 
-EXCLUSIVE: It s not only genre shorts that are taking off on YouTube. In the UK, a short about the Royal Air Force, starring BAFTA nominee James Bolam (The Likely Lads) and rising Brit actress Rumi Sutton (Ludwig, Mutiny), has struck a chord with viewers and is moving into feature development. A Memory Owed follows a [ ]
+EXCLUSIVE: Jude Law might be a Tottenham Hotspur fan but he’s potentially heading to Anfield for his next role. The Black Rabbit star is set to star as legendary Liverpool FC manager Bill Shankly in a series from Adolescence writer Jack Thorne and A24. The soccer club revealed in 2024 that it was working with [ ]
 
-### BBC Studios’ Boss Says Streaming Is The Future But Linear Still Pays The Bills
-Fri, 16 Oct 2026 09:06:56 +0000 — https://deadline.com/2026/10/bbc-studios-boss-streaming-future-linear-pays-1237158106/
+### Dancing With The Stars Scores 9-Year Ratings High Among Adults 18-49 On Super Bowl Night
+Fri, 16 Oct 2026 18:15:05 +0000 — https://deadline.com/2026/10/dancing-with-the-stars-super-bowl-night-ratings-abc-1237165903/
 
-Marcus Arthur tells Deadline about walking a tightrope in a streaming-first world where linear remains a big money-spinner. Arthur is running a huge and complicated business. Having been upped from CEO of channels group UKTV to chief exec of global channels and streaming at BBC Studios, he faces a sizable challenge. Positioning the commercial arm [ ]
+EXCLUSIVE: Dancing with the Stars is still having its moment. Tuesday night s episode drew 6.59 million live + same-day viewers, according to Nielsen s Big Data + Panel, up 2% from the week prior. Dancing with the Stars led primetime on Tuesday across the major broadcasters. Super Bowl night also posted an 11% ratings increase among [ ]
 
-### Layoffs Take Place At The Repair Shop Producer Ricochet
-Fri, 16 Oct 2026 08:00:33 +0000 — https://deadline.com/2026/10/ricochet-layoffs-the-repair-shop-skydance-damon-pattison-1237157978/
+### Michael Che s Awkward Interview Over Shane Gillis Joke Backlash On SNL : I Didn t Think About It, Honestly
+Fri, 16 Oct 2026 18:15:00 +0000 — https://deadline.com/2026/10/michael-che-shane-gillis-joke-backlash-snl-1237165913/
 
-EXCLUSIVE: A number of staffers including creative chief Damon Pattison have been laid off at Ricochet, the Skydance UK-owned indie that produces hit BBC show The Repair Shop. We understand around 10 staff left several weeks back including Pattison and Rob Butterfield, who was running the indie s Scotland office. This represents just under a third [ ]
+Michael Che gave an awkward interview on the Today show as he tried to avoid talking about the controversial Shane Gillis joke on Saturday Night Live. The Weekend Update host already knew he d be grilled about the Gillis backlash and took to social media to joke about it. Gotta do more press this week to promote [ ]
 
-### Bryson Fire Has Burned More Than 140 Acres; Evacuation Orders Issued; Wind Gusts Expected To 50 MPH Overnight
-Fri, 16 Oct 2026 07:30:00 +0000 — https://deadline.com/2026/10/bryson-fire-malibu-1237158950/
+### Chase Infiniti-Starring The Julia Set Acquired By Sony Pictures Classics After TIFF Premiere
+Fri, 16 Oct 2026 18:00:00 +0000 — https://deadline.com/2026/10/chase-infiniti-julia-set-sony-pictures-classics-1237165898/
 
-Refresh for latest A wind-whipped brushfire ignited in western Malibu Thursday and spread from one to five acres in a matter of about 15 minutes. Within an hour, the incident was estimated at about 35 acres, including various spot fires that erupted as winds pushed the flames forward. As of 11:30 p.m., the fire was [ ]
+Sony Pictures Classics has taken U.S. and key international territory rights to the student drama The Julia Set starring Chase Infiniti. The movie, directed by Niki Byrne, drew headlines at the Toronto Film Festival as it repped Infiniti s next feature outing following the multi-Oscar winning One Battle After Another. The Julia Set stands at 70% [ ]
 
-### Street Fighter Punches $4M In U.S. Previews, You Can See Everything $2M Box Office Update
-Fri, 16 Oct 2026 05:19:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
+### Katie Zacharia Out As Trump s White House Press Secretary After Less Than A Week In Job
+Fri, 16 Oct 2026 17:58:22 +0000 — https://deadline.com/2026/10/katie-zacharia-white-house-press-secretary-trump-1237165942/
 
-EXCLUSIVE: Paramount/Legendary s PG-13 take of the Capcom video game Street Fighter is off to a solid start Thursday night with around $4 million after showtimes that began at 2 p.m. (further boosted by a 7 p.m. fan showtime). The expectation is for the fisticuffs feature to open north of $30M; the pic cost a net [ ]
+Katie Zacharia is out as White House press secretary after less than a week in the job. A White House official confirmed her exit from the position Friday. Her departure follows middling reviews for her debut press briefing Tuesday that lasted just 14 minutes, but also a stream of coverage on her reference to herself [ ]
 
-### Cupertino Creators Robert Michelle King On Episode 2 s Shocking AGI Twist Predicting The Future Again With AI Guardrails Storyline
-Fri, 16 Oct 2026 05:02:09 +0000 — https://deadline.com/2026/10/cupertino-creators-episode-102-bo-agi-storyline-interview-1237158656/
+### Sean Combs Moved To New Prison For Safety And Security After Fort Dix Turmoil
+Fri, 16 Oct 2026 17:57:35 +0000 — https://deadline.com/2026/10/sean-combs-moved-new-prison-1237165886/
 
-SPOILER ALERT: The story includes details about Episode 102 of CBS Cupertino, Vik Bo. The Good Wife creators Robert and Michelle King are back at CBS this fall with a new legal drama, anchored by The Good Wife favorite Mike Colter, this time set in Silicon Valley. The David vs. Goliath series follows lawyers [ ]
+A week after Sean Combs ended up in the hospital from a still-unspecified head injury, he has been transferred to a new prison. Officials and reps for the Grammy-winning rapper-producer confirmed Friday that he has moved from the minimum security FCI Fort Dix in New Jersey to the less crowded FCI Allenwood in Pennsylvania. Officially, [ ]
 
-### Kylie Minogue, Jonathan Groff Catherine Tate Join Bad Fairies Cast With Cynthia Erivo
-Fri, 16 Oct 2026 04:00:00 +0000 — https://deadline.com/2026/10/kylie-minogue-jonathan-groff-catherine-tate-bad-fairies-1237158983/
+### Cineverse Boards Genre-Bending Holiday Film ‘Ralph’s Perfekt Christmas’
+Fri, 16 Oct 2026 17:52:26 +0000 — https://deadline.com/2026/10/cineverse-acquires-ralphs-perfekt-christmas-north-america-1237165879/
 
-Cynthia Erivo is rounding out her cast of magical beings with the latest Bad Fairies news, which announced live on Thursday at the Hollywood Bowl. During her one-night-only concert Let Me Sing to You, the 2x Grammy winner revealed that Kylie Minogue, Jonathan Groff and Catherine Tate have joined her in the cast of the [ ]
+EXCLUSIVE: Cineverse has snagged VOD and streaming rights to Ralph’s Perfekt Christmas. The genre-bending feature stars Tom McLaren and counts former Twentieth Century Fox exec Mary McLaren among its producers. It is the debut feature from Mary McLaren and Tom McLaren’s Next Chapter Entertainment banner. Cineverse has rights for North America and will release the [ ]
 
 ## befores & afters
 
@@ -173,12 +173,37 @@ Thu, 15 Oct 2026 14:12:07 +0000 — https://beforesandafters.com/2026/10/16/turn
 
 How the X-24 clone in Logan was made, with VFX by Image Engine. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Turning Hugh Jackman into his younger clone appeared first on befores & afters .
 
-### How Framestore made Appa
-Wed, 14 Oct 2026 16:26:52 +0000 — https://beforesandafters.com/2026/10/15/how-framestore-made-appa/
-
-Go behind the scenes of Avatar: The Last Airbender, s2. The post How Framestore made Appa appeared first on befores & afters .
-
 ## IndieWire
+
+### Fall Festival Movies Sold So Far: Niki Byrne s Chase Infiniti-Starring College Drama The Julia Set Goes to SPC
+Fri, 16 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
+
+Infiniti stars in the TIFF premiere as a math genius whose future is threatened by an overbearing (and academically jealous) new love interest.
+
+### The Costumes of Sense and Sensibility Are a Love Letter to Stealing Your Sister s Clothes
+Fri, 16 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259/
+
+Costume designer Grace Snell tells IndieWire about the modern and timeless influences that shaped the Dashwood family's wardrobe.
+
+### Alex Gibney on How AI Helped Simulate the Elon Musk Interview He Could Never Get
+Fri, 16 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/
+
+The Oscar-winning documentary filmmaker joins IndieWire's "Screen Talk" podcast to discuss his "Musk," who the film had to leave out, and how the production team simulated an interview with the uber-wealthy tech bro.
+
+### Is Meme Casting a Viable Hollywood Marketing Strategy?
+Fri, 16 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185/
+
+Paramount's new "Street Fighter" reboot is generating as much hype for its eclectic cast as its IP. Its box-office success might be a case study in marketing through WTF casting.
+
+### As the Major Fall Film Festivals Wrap, the Oscar Race Goes Regional
+Fri, 16 Oct 2026 15:45:00 +0000 — https://www.indiewire.com/news/festivals/2026-fall-film-fests-regional-middleburg-1235222345/
+
+Regional festivals, like the just-opened Middleburg Film Festival, attract top awards contenders — and the pundits who cover them.
+
+### You Can See Everything, A24 s Elizabeth Holmes Documentary, Scores an Impressive $1.75 Million in Thursday Previews
+Fri, 16 Oct 2026 15:04:29 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-a24-elizabeth-holmes-previews-gross-1235222385/
+
+Nathan Fielder and Lance Oppeheim's look at the Theranos founder appears to be resonating with audiences as it looks at a $7 million to $8 million opening.
 
 ### A Forgotten Richard Gere Vehicle from His Peak Era Is Back in Circulation
 Fri, 16 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/features/commentary/richard-gere-the-honorary-consul-revisited-1235222349/
@@ -210,132 +235,107 @@ Thu, 15 Oct 2026 21:40:00 +0000 — https://www.indiewire.com/features/general/y
 
 The Elizabeth Holmes documentary has managed to keep a lid on its biggest twists since being revealed to the world in September. Now comes the spotlight of a wide release and awards season.
 
-### La Gradiva Director Marine Atlan Is the Major New Voice Behind the Most Immersive Teen Drama Since Kids
-Thu, 15 Oct 2026 21:35:45 +0000 — https://www.indiewire.com/features/interviews/how-la-gradiva-teen-drama-became-festival-hit-1235222175/
-
-Coming-of-age and shattered innocence collide in this fall's Cannes Critics' Week winner from 1-2 Special. Writer/director/cinematographer Marine Atlan walks IndieWire through street-casting a Pompeii-set high-school drama for the ages.
-
-### Top Agencies and Producers Want Laws Forcing Studios to Devote Half Their Budgets to Indie TV and Movies
-Thu, 15 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/news/business/top-agencies-laws-make-studios-half-budget-indies-1235222194/
-
-The American Entertainment Alliance is pushing for regulation that would help return ownership of series and films back to their creators.
-
-### La Bola Negra : Before Netflix s Gay Epic Became an Oscar Frontrunner, It Had to Survive the Breakup of Its Directors
-Thu, 15 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/netflix-la-bola-negra-gay-epic-breakup-filmmakers-interview-oscars-1235208054/
-
-"Los Javis" are still creating films together, even after their 13-year romance died. "There's a political statement behind creating a big, bold, gay, period, epic drama," Javier Ambrossi told IndieWire.
-
-### How ‘The Diplomat’ Pulled Off Its Shocking Season 4 Premiere: ‘We Talked a Lot About How Quiet the [SPOILER] Is’
-Thu, 15 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/interviews/the-diplomat-shocking-season-4-premiere-netflix-interview-1235221983/
-
-Creator Debora Cahn tells IndieWire why she started the season with an event that would “reset the relationship between the U.S. and the U.K.,” and why the show has avoided the royal family.
-
-### The Diplomat Review: Season 4 Can t Talk Its Way Out of One Bad Decision After Another
-Thu, 15 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/criticism/shows/the-diplomat-season-4-review-bad-1235221986/
-
-From a desperate opening twist to a maddeningly subservient Kate Wyler ( Keri Russell ), the latest season of Debora Cahn's elevated chamber drama inadvertently dilutes its power by chasing more.
-
 ## The Wrap
 
-### Memoirs of Amorous Gentlemen Off Broadway Review: Sophia Anne Caruso Is the New Edith Piaf
-Fri, 16 Oct 2026 14:51:24 +0000 — https://www.thewrap.com/creative-content/theater/memoirs-of-amorous-gentlemen-off-broadway-review/
+### True Detective : Nicolas Cage and Antonio Banderas Locked to Lead Season 5
+Fri, 16 Oct 2026 19:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/true-detective-season-5-cast-nicolas-cage-antonio-banderas/
 
-Édith Piaf was known in France as “the little sparrow,” a reference to her tiny body. Who would have thought that such a fragile-looking bird of a singer could produce such an enormous sound? Piaf performed without reservation, as if each song were her last. Sophia Anne Caruso also possesses that same wonderful contradiction of small-equals-big, and uses it to magnificent effect in the new musical “Memoirs of Amorous Gentlemen,” which opened Thursday at the Culture Club. Caruso plays Colette, a Belle Époque prostitute with the proverbial heart of gold that extends upward all the way to her vocal cords. Book writer Leah Nanako Winkler and the late songwriter Duncan Sheik have based their new stage musical on the 2013 Japanese manga novel of the same title, written and illustrated with kewpie doll paintings by Moyoco Anno. Maybe in Japan there’s still some exoticism left surrounding the evil Western culture and its weird fixation on whores. Playwright David Henry Hwang (“M. Butterfly,” “Yellow Face”) has made a career out of trashing Western icons like Giacomo Puccini for presenting demeaning stereotypes of Asians. Clearly, that boat now sails in both directions. The real problem with “Memoirs,” as Winkler has translated it from Anno, is that the cardboard characters aren’t demeaning and offensive enough. They’re just dull and tired from too many retellings. The story told here is very old: Colette loves a no-good creep named Leon (Cory Jeacoma) who takes her money while romanc
+The next iteration of HBO s True Detective has officially found its leads in Nicolas Cage and Antonio Banderas. Issa López, who took over as the showrunner from Nic Pizzolatto last season, will serve as showrunner, writer, director and executive producer for Season 5. Cage was first tied to Season 5 of “True Detective” back in August, when it was reported that he was circling the lead role of New York detective Henry Logan, who investigates the mystery at the center of the new season. The National Treasure star essentially confirmed that he would be joining the latest installment at New York Comic Con last weekend, while speaking on Saturday s Spotlight panel. The fifth season of the anthology series will see Cage as Detective Henry Logan and Banderas as Rai García. Season 5 will start production in 2027. After Season 4 focused on a cold case in the fictional town of Ennis, Alaska, Season 5 will turn its attention to Jamaica Bay in New York for a new mystery written by Season 4 showrunner Issa López, though the two seasons take place in the same universe , per López. “The references are going to be more to Season 4,” López told TheWrap of Season 5, adding that supernatural elements will still be present. “It’s the same universe, and the magical realism is my brand, so it will be there.” The anthology has seen many high profile stars take the reins in the leading role. Season 1 starred Matthew McConaughey and Woody Harrelson as a pair of Louisiana State Police detectives. Coli
 
-### American Horror Story: 13 : What to Remember About Apocalypse and Michael Langdon
-Fri, 16 Oct 2026 14:24:49 +0000 — https://www.thewrap.com/creative-content/tv-shows/american-horror-story-13-michael-langdon-apocalypse-explained/
+### ‘Sacrifice’ Director Romain Gavras Wasn’t Afraid to Take Gucci’s Money and Still Make Fun of Them
+Fri, 16 Oct 2026 18:49:00 +0000 — https://www.thewrap.com/creative-content/movies/sacrifice-romain-gavras-interview-netflix-chris-evans/
 
-Spoilers ahead for American Horror Story: 13 Episodes 9 and 10 Michael Langdon was destined to come back up in American Horror Story: 13. When you re in your Satan era, you can t just not talk about your antichrist era. Whether you skipped Apocalypse or just need a refresher, here s everything you need to know about this dark foe and how Mallory brought him down. Who was Michael Langdon? Michael Langdon (Cody Fern) was born towards the end of Murder House. He was the son of Vivien Harmon (Connie Britton), the living owner of the house at the time, and Tate Langdon (Evan Peters), one of the ghosts of the house. At the time, Vivien thought she was having spicy sex with her husband, but really it was Tate donning a gimp suit. Also, thanks to the revelation in The Devil Is in the Details, we now know that Michael Langdon wasn t just the son of a ghost and a living mortal. Because Constance (Jessica Lange) is the daughter of Satan, Michael is the the great-grandson of the dark lord. Constance raised Michael, but as time went on, their relationship began to sour. As a boy, he would routinely kill small animals, a habit that escalated into killing a priest and threatening Constance as a teenager. Michael eventually embraced his role as the antichrist. All of Apocalypse followed his reign of terror, which included killing all of the warlocks and inciting a nuclear blast that killed most of humanity save for the very rich that hid in the Outposts. But while Michael was growing in powe
+“Sacrifice” is finally here. The latest Romain Gavras-directed gem, which veers between broad comedy, sharp social commentary and thrilling adventure (sometimes in the same scene), stars Anya Taylor-Joy as an environmentally minded terrorist who hijacks a bunch of doofuses at a fundraiser. Among them are Chris Evans’ action star and Vincent Cassel’s Musk-like tech mogul. The film, “Sacrifice,” is currently streaming on Netflix, more than a year after premiering at the Toronto International Film Festival. And maybe it makes sense that it took “Sacrifice” so long to show up in America, considering Gavras had been carrying around the idea “for a long time.” “I ve had almost every time I walk into an award ceremony,” Gavras said. He clarifies that he wasn’t trying to lampoon charity events (“There’s some really good charities”) but that he does remember attending an event in London and thinking, Oh, you couldn’t put this in a movie . “The fakeness was just pure madness and pure virtue signaling,” Gavras said. It was so extreme that if you put it in a film, nobody would buy it. He thought about his own childhood and his Greek father (the “Z” filmmaker Costa-Gavras) and how he wasn’t allowed to watch Disney movies. Instead, he was fed the real fairy tales — “grand stories of moms eating their kids and people getting thrown in volcanoes.” Finally, the two halves of “Sacrifice” started wiggling together. “From that cheeky, mischievous idea of like having an armed group arriving at a 
 
-### Washington Post Photographer Beaten by Israeli Settlers in West Bank
-Fri, 16 Oct 2026 14:04:55 +0000 — https://www.thewrap.com/media-platforms/journalism/washington-post-photographer-heidi-levine-beaten-west-bank/
+### Ben Affleck s New Netflix Thriller Holds Off East of Eden, Ted Lasso Finale at No. 1 on Streaming Charts
+Fri, 16 Oct 2026 18:41:09 +0000 — https://www.thewrap.com/commentary-analysis/data-analysis/ben-affleck-netflix-animals-streaming-top-10/
 
-Washington Post photographer Heidi Levine was beaten by Israeli settlers while covering a Palestinian olive harvest in the occupied West Bank on Friday, prompting the newspaper to condemn the assault and demand an investigation. Levine, a veteran photojournalist who has covered conflicts across the Middle East for decades, was knocked to the ground, repeatedly kicked and stripped of her cameras and phone during an attack by masked settlers near the village of Abu Falah, according to The Washington Post . She was hospitalized and is recovering, according to the newspaper, which further confirmed her condition in a statement provided to TheWrap. The assault highlights the dangers facing journalists documenting escalating settler violence in the West Bank, where attacks against Palestinian communities have intensified during the annual olive harvest. Levine was wearing a protective vest clearly marked PRESS on the front and back when she was attacked. They just kept kicking me and kicking me, like probably 50 times, Levine told reporters afterward. Washington Post executive editor Matt Murray issued a statement condemning the attack and calling for an investigation. “While we are relieved that Heidi has received medical care and is safe, we are outraged by this unwarranted attack on a journalist doing her job and urge a thorough investigation and follow-through from authorities,” his statement read. The violence unfolded as approximately 80 masked settlers descended from a hill 
+After a late summer in which Amazon Prime Video’s “Reacher” dominated the Samba Weekly Wrap Report Top 10 for six straight weeks, we’re now looking at our third different title to top the chart in three weeks. However, there is an element of consistency in this chart churn: all three recent No. 1s have belonged to Netflix. “Animals” is the latest in that trio of chart toppers, as the Ben Affleck-led film debuts in the top spot. Affleck directed and stars in the thriller about a mayoral candidate whose son is kidnapped in the lead-up to election day. The combination of Affleck and Netflix seems to resonate with viewers, as the Boston-bred star topped the chart earlier this year with “The Rip.” While Netflix makes it three chart toppers in three weeks, it also owns the top three spots on this week’s chart, and six of the top 10 overall. “East of Eden,” the streamer’s adaptation of the classic John Steinbeck novel, climbs to second place this week thanks to Florence Pugh’s strong performance. Another debut follows in third with “Below,” a monster series arriving just in time for spooky season. Josh Hartnett plays the hero in the Canadian production as a Newfoundland fishing town is plagued by a mysterious presence in the water. “Ted Lasso” lands in fourth place this week with the conclusion of its fourth season. The beloved Apple TV series made a strong push toward the top of the chart in its final weeks, but was ultimately stymied by the tough competition from Netflix. Back to 
 
-### How Film Critic Mark Kermode Helped Resurrect Ken Russell’s ‘The Devils’ — NC-17 and All
-Fri, 16 Oct 2026 13:51:55 +0000 — https://www.thewrap.com/creative-content/movies/the-devils-mark-kermode-interview/
+### Anthony Scaramucci Sounds Off On Katie Zacharia Breaking His Record for Shortest Press Secretary Stint: I Take No Pleasure
+Fri, 16 Oct 2026 18:40:55 +0000 — https://www.thewrap.com/media-platforms/politics/anthony-scaramucci-katie-zacharia-press-secretary-record-reacts/
 
-“The Devils” has returned. Ken Russell’s controversial cult classic, first released in 1971, has been a source of never-ending controversy and consternation. Based, in part, on a true story (along with 1952 non-fiction book “The Devils of Loudun” by Aldous Huxley and John Whiting s 1960 play “The Devils”), it stars Oliver Reed as Urbain Grandier, a real-life 17th-century Roman Catholic who was accused of witchcraft after he refused to acquiesce to King Louis XIII, who was attempting to consolidate power. Vanessa Redgrave plays Sister Jeanne des Anges, a hunchbacked nun who is obsessed with Grandier and, when she claims that Grandier has bewitched her, becomes a pawn in a much larger play. It’s a movie that is both beautiful and intentionally outré, climaxing with an “exorcism” that had audiences and studio executives clutching their pearls 55 years ago. And ever since its original, highly contested release, the movie has only been intermittently available – it’ll pop up on the Criterion Channel for a month, say, before disappearing again – and never in its full, uncut glory. Until now. Clockwork, a new division of Warner Bros. Pictures (now, both a part of Skydance), is releasing the film into North American theaters, in a newly restored, completely unedited version, raw enough to earn it an NC-17. It’s astounding and one of the biggest theatrical events of the year – the unholy resurrection of a movie that was thought to be lost to the sands of time. And to think – much of i
+Press Secretary Katie Zacharia only lasted 5 days in her new job before quitting and the Internet is having a field day. The dismissal came Friday, just hours after President Donald Trump urged Zacharia to “reconsider” the opportunity after a sordid first week at the podium, according to initial reporting from The New York Times . Fox News separately confirmed with a senior White House official that the conservative political pundit was “transitioning out” of the role after holding her first press conference to much scrutiny on Monday. Zacharia s ouster managed to beat the longstanding record for quickest press secretary to quit the job. That was held by Anthony Scaramucci who was fired from the role after just 11 days back in 2017. The former record-holder was one of the first to sound off about the news. Records are made to be broken, he wrote on X . But I take no pleasure in other people s pain. Zacharia’s first appearance before the White House press corps on Oct. 13 lasted about 14 minutes, with questions taken from just three outlets: Breitbart News, Fox News and the Daily Mail. She then directed reporters to ask Trump questions as he departed the White House. During her five days as Press Secretary, her professional background also came under scrutiny after reports questioned her legal credentials. Zacharia said she had practiced international transactional law with appropriate credentials but acknowledged that she did not pass the California bar exam. Scaramucci was f
 
-### ‘Crawlers’ Review: Hey, There s a Spider On Your Back: The Movie
-Fri, 16 Oct 2026 13:27:39 +0000 — https://www.thewrap.com/creative-content/movies/crawlers-review-matilda-lutz-spider-movie/
+### The Diplomat Creator on Finally Tackling Moral Toxic Waste in Trump Era: Not Asking Those Questions Just Felt Absurd
+Fri, 16 Oct 2026 18:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-diplomat-season-4-ending-explained-debora-cahn-interview/
 
-Angel Gómez Hernández’s arachnophobic new film “Crawlers” is like that classic “Kids in the Hall” sketch about a horror author whose latest book, “Hey, There’s a Spider on Your Back!” consists of only seven words: “Hey, there’s a spider on your back.” It was, needless to say, a bestseller. Say what you will about the lack of poetry, but telling someone they’ve got a spider on them is an effective and efficient delivery mechanism for terror. “Crawlers” takes place in a California apartment complex, where a UCLA professor returns from an international trip and dies horrifically in his own kitchen. The cause of death is a large, ulcerating pustule on his shoulder that bursts open, unleashing a slimy torrent of deadly spiders. The arachnids creep into the air ducts, grow to the size of rats and breed like crazy, until the building is infested and has to be quarantined with all the residents still inside. The film like “Hey, There’s a Spider on Your Back!” gets the job done. Hernández has a knack for acrobatic camera movements and assembles a cast of memorable characters, but the best and scariest parts are when we get: Hey! There’s a spider on your back! There’s a spider in your sandals! There’s a spider in your potato chips! There’s a spider behind your… eyeball? Ewwwwwww. “Crawlers” begins with playful little title cards which claim that for every single person on planet Earth, there are three million spiders. (If you’re wondering where your three million spiders are, you can t
+Note: The following story contains spoilers from “The Diplomat” Season 4. The Diplomat creator Debora Cahn has never wanted to base her political drama on today s biggest headlines, instead crafting an intricate international relations plot that guided the Keri Russell and Rufus Sewell-led series through its first chapter. But four seasons into The Diplomat and over two years into Donald Trump s second term, something shifted for Cahn. If you re talking about the government and foreign policy we can t be off in another galaxy — we have to be dealing with the questions that people in that field are asking themselves every day, and it got to a point where not asking those questions just felt absurd. At its core, Cahn noted Season 4 centers on the question of What happens if you get an order you don t like? which comes into relevance when Russell s Kate, the U.S. Ambassador to the United Kingdom, gets a particularly hostile directive from president Grace Penn (Allison Janney) that threatens the countries long-running partnership. And, not for nothing, the order comes after Grace endures an assassination attempt in another nod to the Trump era. What one s responsibility is when receiving that order, Cahn noted, is hotly debated both in Washington and across the country. The team heard how various government officials deal with the dilemma in conversations with about 30 people from different countries, political parties and branches of government before writing the season. We get 
 
-### With De Luca and Abdy Gone, Where Will Hollywood s Next Big Swings Come From?
-Fri, 16 Oct 2026 13:15:00 +0000 — https://www.thewrap.com/creative-content/movies/hollywood-movies-big-swings-studios-mike-de-luca-pam-abdy/
+### DWTS : Val Chmerkovskiy Apologizes to Carrie Ann Inaba for Will Smith Oscars Slap Reference
+Fri, 16 Oct 2026 18:22:38 +0000 — https://www.thewrap.com/creative-content/tv-shows/dwts-val-chmerkovskiy-apologizes-carrie-ann-inaba-oscars-slap/
 
-When Mike De Luca and Pam Abdy s whirlwind tenure at Warner Bros. ended on the sourest note possible with the estimated quarter-billion loss of Digger , it kicked off a bigger question: Who left in Hollywood is willing to take big creative risks? It s a relevant question with many C-suite studio execs shaking their heads at the perceived recklessness, even as cinephiles and creatives mourned Abdy and De Luca s departure. The former co-chairs and CEOs of the Warner Bros. Motion Picture Group are a rare breed in this town, and what can t be denied by anyone is that they took big swings with original, auteur-driven films with the public acknowledgement of possible financial failure. “Not all of the films are going to work,” Abdy said at CinemaCon. “But not all of the films worked in 1927, or 1977, or 1997.” Now, with the duo gone from Warner Bros. and Skydance inheriting dozens of films they greenlit, creatives will be on the hunt for executives willing to take the sort of risks that De Luca and Abdy did. While their box office track record this year was atrocious, it s those kinds of original films that have a shot at standing out in the increasingly crowded pack of IP-based movies. And as we saw with Obsession, Backrooms and even Christopher Nolan s Odyssey, audiences are hungry for fresh ideas and strong directorial vision. Studios willing to make those bets have been rewarded time and time again. To be clear, there were levels to the big swing films that De Luca and Abdy too
+Leave it to “Dancing With the Stars” to have more drama off the dance floor. Pro dancer Val Chmerkovskiy has apologized to “DWTS” judge Carrie Ann Inaba after posting a TikTok referencing Will Smith’s infamous 2022 Oscars slap in response to her criticism of his wife, Jenna Johnson, who is also a pro dancer on the ABC reality show. On Wednesday, Chmerkovskiy responded to a clip of Johnson and her celebrity partner, Harry Shum Jr., receiving their scores after Inaba called out a rule-breaking lift in their dance. “Put some respect on her name. She’s trippin’ talking to her like that,” he wrote. Then, according to People , he escalated things further in a TikTok story, saying, “You almost saw Fresh Prince enter the ballroom last night.” Many interpreted the comment as suggesting he might take action similar to Smith, who stormed the Oscars stage and slapped host Chris Rock after Rock made a joke about his wife Jada Pinkett Smith. Inaba soon saw the comment and made her own Instagram post thanking media outlets for bringing it to her attention, asking, “So this is what we are doing now?” View this post on Instagram A post shared by Carrie Ann Inaba (@carrieanninaba) On Thursday, Chmerkovskiy took to his Instagram stories to issue an apology. “I want to apologize from the bottom of my heart for my recent post,” the pro dance wrote. “I have reached out to Carrie Ann to apologize directly and personally, and I also want to apologize publicly as I understand my words affect so many 
 
-### Bajaria Out, Rice In: Netflix s Content Chief Change Signals Back-to-Basics Shift for Film and TV Analysis
-Fri, 16 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/creative-content/movies/netflix-peter-rice-bela-bajaria-shakeup-explained/
+### Trump s New Press Secretary Katie Zacharia Fired After Less Than a Week
+Fri, 16 Oct 2026 17:43:58 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-press-secretary-katie-zacharia-fired/
 
-The winds of fortune in Hollywood can change swiftly. Bela Bajaria is out as chief content officer at Netflix after a decade where she stewarded hits such as Bridgerton, Squid Game, Adolescence, Arcane and Stranger Things, just to name a few. But as the streaming king s user engagement has sagged over the course of 2026 amid pricey live events deals and Skydance, fresh off of swiping Warner Bros. from Netflix with a $110 billion acquisition bid, prepares to challenge its supremacy, Netflix co-CEO Ted Sarandos announced a major change on Thursday, bringing in former top Fox and Disney executive Peter Rice to oversee the company s $20 billion content budget. After spending the last couple of years under Bajaria focusing on bringing WWE, NFL, MLB and the FIFA Women s World Cup off of linear and into its content machine, Netflix s choice of Rice signals a back-to-basics approach. Rice s roots are planted firmly in the specialty film world; he has also overseen television content from broadcast to cable to streaming — and he is expected to refocus on film and TV as the core of Netflix s business. “Peter is one of the most effective at-scale operators in the entertainment industry. His business acumen is sharp, his talent relationships are exceptionally strong and his experience across TV and film is deep and broad,” Sarandos said in a statement. “He understands what makes stories resonate, and he’s spent his career helping talent do the best work of their lives. I’m excited to wel
+President Donald Trump s Press Secretary Katie Zacharia was fired on Friday, only five days after filling the shoes of Karoline Leavitt, TheWrap has learned. The dismissal came just hours after the president urged Zacharia to reconsider the opportunity after a sordid first week at the podium, according to initial reporting from The New York Times . Fox News separately confirmed with a senior White House official that the conservative political pundit was transitioning out of the role after holding her first press conference to much scrutiny on Monday. It marks a record speed for a press secretary to exit the post after Trump s first term saw Anthony Scaramucci fired after just 11 days in 2017. TheWrap has reached out to the White House for further comment. A former Fox News and Newsmax commentator, Zacharia previously served as a spokesperson and deputy assistant secretary for public affairs at the Department of Homeland Security before becoming a senior communications adviser at Trump Media & Technology Group. She succeeded Leavitt, who left the administration in August. Zacharia’s first appearance before the White House press corps on Oct. 13 lasted about 14 minutes, with questions taken from just three outlets: Breitbart News, Fox News and the Daily Mail. She then directed reporters to ask Trump questions as he departed the White House. Zacharia said her role was to amplify the president’s agenda rather than answer to press, and the briefing drew criticism over her limited
 
-### Elon Musk Pumps Over $150 Million Into Senate GOP Group, Helping Ken Paxton
-Fri, 16 Oct 2026 06:30:54 +0000 — https://www.thewrap.com/media-platforms/politics/elon-musk-158-million-donation-senate-gop-group-ken-paxton/
+### YA Tennis Drama Rally From Julie Plec Gets Series Order at Prime Video With Andre Agassi Producing
+Fri, 16 Oct 2026 17:24:04 +0000 — https://www.thewrap.com/creative-content/tv-shows/rally-prime-video-tennis-tv-show-julie-plec-andre-agassi/
 
-Elon Musk donated $158 million to the super PAC supporting Senate Republicans, with most of that money seemingly going to a group that supports GOP Texas Senate candidate Ken Paxton. According to new Federal Election Commission filings, obtained by the New York Times , the SpaceX CEO donated $75 million to the Senate Leadership Fund PAC on Sept. 9. Then, two weeks later, donated an additional $83 million. It’s said Musk’s two donations made up over half of the political committee’s total receipts for the third quarter of the year. Additionally, the day after each donation was made, the super PAC sent that same sum to the Texas PAC, which reported over $100 million in spending on pro-Paxton messaging, as well as on content against his Democratic rival, James Talarico. It’s not clear whether the money sent to the Texas group was directly from Musk’s donation, as the super PAC had recently called for new donations to assist Paxton’s campaign. Though, it s worth noting that Musk has previously targeted Talarico amid his Sentate bid. This is not the first large donation the trillionaire has made this year, either. Musk, who is a resident of Texas and has based several of his companies’ operations in the state, has donated more than $80 million between July and September to America PAC. This group also reported spending money on the Texas Senate race, as well as other congressional contests. If Democrats take control of Washington and win key gubernatorial and attorney general race
+Prime Video has found its next original YA drama in Julie Plec s tennis series Rally. The We Were Liars showrunner will reteam with the streamer for the original drama set in the elite competitive tennis world to write, showrun and executive produce the series. Pro player Andre Agassi will also EP. Rally hails from Universal Television, a division of Universal Studio Group, in association with Entertainment 360 and Amazon MGM Studios. Entertainment 360’s Guymon Casady said that the series was inspired by his own children. “The inspiration for Rally came from a deeply personal place watching my kids train and navigate the intense pressure, dedication and heartbreak of elite junior tennis at the IMG Academy, Casady shared in a statement. To build this world alongside a master storyteller like Julie Plec, and to ground it in the unmatched, authentic perspective of a true legend like Andre Agassi, is a remarkable privilege, he added. We are absolutely thrilled to be partnering with Universal Studio Group and Amazon MGM Studios to bring this high-stakes, emotional journey to a global audience.” Plec, whose other YA credits include The Vampire Diaries and The Originals, and Agassi will executive produce the series with Emily Cummins, for My So Called Company, as well as fellow former tennis player Justin Gimelstob. The series is set at a hyper-competitive elite tennis academy as aspiring professionals discover that the loneliest sport in the world demands sacrificing the very conne
 
-### ‘Bad Fairies’ Rounds Out Cast With Kylie Minogue, Jonathan Groff and Catherine Tate
-Fri, 16 Oct 2026 05:13:04 +0000 — https://www.thewrap.com/creative-content/movies/bad-fairies-cast-adds-kylie-minogue-jonathan-groff-catherine-tate/
+### The View : Ana Navarro Says Voting for Clinton Over Trump Liberated Her
+Fri, 16 Oct 2026 16:40:20 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-ana-navarro-voting-hillary-clinton-over-trump-liberated-her/
 
-“Bad Fairies,” the musical comedy from Warner Bros. Pictures Animation and Locksmith Animation starring Cynthia Erivo, has rounded out its voice cast. Erivo, who leads the film as trailblazing fairy Jayne Staplegun, revealed the new additions to the cast during her Thursday concert at the Hollywood Bowl. Specifically, during the second half of the concert, the orchestral music to Erivo’s song from the movie, “Hard to Believe,” played for attendees. Erivo then introduced Groff, Tate and Minogue and confirmed they would all be starring in the movie. Minogue is set to voice Clowder, a Cat Witch, while Groff is slated to voice Robin Goodfellow. As for Tate? She will voice the Fairy Gothmother character. The film “follows a delightfully subversive gang of fairies as they shake up their magical world.” Production is currently underway in London for “Bad Fairies,” which is set to open on May 21, 2027. In addition to Erivo, Minogue, Groff and Tate, “Bad Fairies” also stars Serrana Su-Ling Bliss as Fei Chang, James Acaster as Stickers, Dee Bradley Baker as Groundbeef and Ncuti Gatwa as Butterwort. As we previously reported, the film is being directed by Megan Nicole Dong, the creator of Netflix’s musical animated series “Centaurworld,” and co-directed by Olivier Staphylas, a head of character animation on “Wish Dragon.” They are working from an original screenplay by Deborah Frances-White. The Tony Award–winning duo of Toby Marlow and Lucy Moss (“Six: The Musical”) are writing origina
+The View host Ana Navarro was a lifelong Republican, and still generally identifies as one today. But, she did vote for Hillary Clinton in 2016, and according to the ABC host, it liberated her. Navarro explained her thought process during Friday s Hot Topics, as she and her colleagues discussed how podcast host Joe Rogan recently admitted that his views on President Trump have changed since helping him get elected. The question at hand was whether the ladies themselves have ever experienced a shift like that, prompting Navarro to use herself as a prime example. I think this idea that if you re born a Republican, you have to die a Republican, or if you re born a Democrat, you have to die a Democrat, is intellectually lazy, because that means that when you re looking at candidates and when you re looking at races, the only thing that matters is whether it s an R or a D behind the name, she said. So I was like that. I would vote down the ballot Republican my entire life since I became a citizen. She noted that 2016 was the first time she didn t do that, voting for Clinton over Trump. It was a hard thing to do, but it liberated me, because I no longer feel chained to one party or another, Navarro continued. And it s forced me to look at what candidates stand for, what their policies are, what they are proposing, what I want. Navarro then noted that her cousin s son was one of those killed in the horrific shooting at Pulse Nightclub in 2016, which prompted her to pay extra attenti
 
-### American Horror Story 13 Star Orlando Jones on Taking Over Lance Reddick s Papa Legba
-Fri, 16 Oct 2026 05:01:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/american-horror-story-13-orlando-jones-papa-legba-interview/
+### ‘Sacrifice’ Review: Anya Taylor-Joy and Chris Evans Throw Themselves Into Tiresome Netflix Original
+Fri, 16 Oct 2026 16:01:59 +0000 — https://www.thewrap.com/creative-content/movies/sacrifice-review-chris-evans-anya-taylor-joy-netflix-volcano-movie/
 
-When Orlando Jones agent called him about auditioning for Papa Legba in American Horror Story: 13, his first reaction was uncertainty. The late Lance Reddick, who originally played the role in Coven and Apocalypse and who tragically died in 2023, was a friend. I was like, OK, but I m not really sure. He s one of one just like I m one of one, Jones told TheWrap. The actor auditioned with material that was originally written for Reddick s interpretation of the Haitian gatekeeper of the spirit realm because the AHS team was still writing pages for this season. I think I was on another movie, and I got a phone call saying, They ve cast you as Papa Legba, and I was like, You cannot be serious.' It s a bit of casting that echoes Reddick s memory. Jones recalled talking to Reddick about the American Horror Story part while they were both at the SCAD aTVfest in 2019. Though Reddick s take on the character only appeared in four episodes over the course of two installments, Papa Legba has long been a standout in American Horror Story. Identifiable for his white face paint and skull-covered hat, Reddick infused the spirit of Haitian Voodoo with a contemplative energy, giving viewers the feeling that Papa Legba was far above the coven and its search for the next Supreme. At the time Reddick was playing Papa Legba, Jones was in a similar position while playing Mr. Nancy on American Gods. Though the Ghanaian trickster god Anansi only appeared in 10 episodes across the Starz drama s three s
+In Romain Gavras’ absurd, but not nearly absurd enough, apocalyptic comedy “Sacrifice,” Chris Evans plays a movie star recovering from a nervous breakdown. He’s so desperate to be accepted that he’ll join any cult that makes him feel good about himself. I’d make a joke about Evans returning to the Marvel Cinematic Universe but that’s a low blow. Besides, it’s a better career move than making “Sacrifice.” “Sacrifice” has all the earmarks of a quirky indie with big ideas about celebrity and the environment and religion and how chasing a sense of purpose makes weirdos of us all. There’s an eco-terrorist who wears bunny ears, as if Louise Belcher got carried away on a field trip to a volcano. Chris Evans whips out a flamethrower and torches his own movie premiere. It’s going for eccentric but more than anything it’s just mannered, because it doesn’t believe in its own hokum. It’s too detached to have a point, or even to embrace its pointlessness. Evans plays Mike Tyler, an actor who returns to the public eye after the aforementioned flamethrower incident. He’s at a big gala in Greece, inside a giant mine, where billionaires and celebrities congratulate themselves on everything they do for the environment, after flying halfway around the world on private jets. Naturally, they’re all taken hostage by nature-lovers with Kalashnikovs, led by cult leader Joan, played by Anya Taylor-Joy. They don’t want money, they just want three human sacrifices to throw into their live volcano. One 
 
 ## Collider
 
-### ‘S.W.A.T. Exiles’ Star Shemar Moore Weighs In on Episode 4’s Shocking Mole Reveal and What’s Next
-Fri, 16 Oct 2026 13:02:14 GMT — https://collider.com/swat-exiles-episode-4-mole-twist-shemar-moore/
+### 3 Best Thrillers To Watch on Netflix This Weekend (October 17-18)
+Fri, 16 Oct 2026 19:29:14 GMT — https://collider.com/best-netflix-thriller-movies-watch-this-weekend-october-17/
 
-Editor's note: The following contains major spoilers for S.W.A.T. Exiles, Episode 4.
+Nothing beats a good thriller : it's true all year long, but it's especially true come spooky season. After all, few cinematic joys are greater than watching a truly exceptional thriller, the kind that keeps you on the edge of your seat and holding your breath, and that sensation is only amplified in the thick of October, when our collective desire for chills and frights is at an all-time high. Luckily for you, Netflix has you covered when it comes to quality thrillers ready to stream .
 
-### ‘Outlander: Blood of My Blood’ Showrunner Breaks Down Those Brutal Episode 5 Deaths and the Twist You Won’t See Coming
-Fri, 16 Oct 2026 13:00:14 GMT — https://collider.com/outlander-blood-of-my-blood-season-2-episode-5-deaths-showrunner-matthew-b-roberts/
+### Quentin Tarantino Officially Returns to Theaters in 2 Weeks
+Fri, 16 Oct 2026 19:15:45 GMT — https://collider.com/quentin-tarantino-once-upon-a-time-in-hollywood-imax/
 
-Editor's note: The following contains major spoilers for Outlander: Blood of My Blood Season 2, Episode 5.
+Quentin Tarantino has only directed ten movies in his career, but he’s produced more hits in ten movies than many directors have, with triple that total. Tarantino made his directorial debut all the way back in 1992 in Reservoir Dogs , which is still, to this day, hailed as one of the best movies he ever made. The film, which cost only $1.2 million to make, is currently available to stream on Prime Video . Tarantino followed Reservoir Dogs just a few years later with another timeless classic, Pulp Fiction , which grossed over $210 million at the global box office against an $8 million budget. Over the years, Tarantino has garnered widespread acclaim for his work writing memorable scripts and getting the most out of the actors in his projects, but he’s finally set to return to the big screen soon with a new release.
 
-### Pokémon Officially Reveals a 6-Hour Shiny Hunting Event Starting This Saturday
-Fri, 16 Oct 2026 13:00:14 GMT — https://collider.com/pokemon-go-sandile-hatch-day-october-2026-shiny-bonuses/
+### The 10 Worst Pokémon Games of All Time, Ranked
+Fri, 16 Oct 2026 19:08:14 GMT — https://collider.com/worst-pokemon-games-all-time-ranked/
 
-Shiny hunting in Pokémon GO can turn a short walk into an afternoon of bargaining with a phone. Every encounter might be the one , and every ordinary-colored Pokémon feels slightly more personal after enough unsuccessful checks. Egg events add another complication , because players have to do the walking before finding out whether their luck has improved.
+It's easy to view the Pokémon franchise largely by its massive success, starting off as a humble Game Boy game before transforming into the highest-grossing media franchise of all time. While the various movies, trading card games, and other merchandise help amplify the stature of the series, the video games that started it all are still the massive highlight of this franchise. However, not every Pokémon game has been as amazing as the franchise's reputation would have one to believe .
 
-### 3 Elite Series to Binge on Netflix This Weekend (Oct 17-18)
-Fri, 16 Oct 2026 12:41:14 GMT — https://collider.com/netflix-shows-binge-weekend-october-17-2026/
+### New 'The Pitt' Replacement Series Is Officially Free to Stream
+Fri, 16 Oct 2026 18:50:23 GMT — https://collider.com/the-pitt-replacement-f-ward-free-streaming-youtube/
 
-At the same time as he stars in one of the big box office hits of the month, the Colleen Hoover adaptation Verity , Josh Hartnett also leads the biggest show currently on Netflix. The six-episode miniseries Below , written and created by The Umbrella Academy 's Jesse McKeown , has stolen the top spot on the Netflix charts in America from Florence Pugh 's East of Eden . Charlie Heaton ( Stranger Things ), Mackenzie Davis ( The Martian ), and Ruby Stokes ( Rocks ) also feature in the series. But Below isn't the only show that should be on your radar. With that in mind, here's a look at three shows you should binge-watch on Netflix this weekend .
+You’d be hard-pressed to find a single show that’s risen through the ranks to streaming glory in the last few years as successfully as The Pitt . Back in 2024, when it was announced that HBO was releasing a medical drama the next year, there was some serious skepticism surrounding the project, if for no other reason than the platform had never done a medical drama before. However, it didn’t take fans long after the first episode of The Pitt hit streaming back in 2025 to fall in love with the show, largely thanks to the commanding performance of leading star Noah Wyle . Wyle, who spent years recurring on another beloved medical drama, ER , has won two Emmys for his performance as Dr. Robby in the first two seasons of The Pitt , and it would be shocking if he didn’t win another before the show went off the air.
 
-### Netflix’s 100% RT Horror Series Is the ‘Buffy’ Replacement You Missed
-Fri, 16 Oct 2026 12:17:14 GMT — https://collider.com/netflix-crazyhead-best-buffy-replacement-series/
+### Street Fighter: Cody Rhodes' Daughter Was Born During Filming | Set Stories
+Fri, 16 Oct 2026 18:45:15 GMT — https://collider.com/video/street-fighter-cody-rhodes-daughter-was-born-during-filming-set-stories/
 
-Many shows have tried, but only one reached the tone and campiness of Buffy the Vampire Slayer . The horror-comedy series of the late ‘90s spoke to a generation and redefined the genre as fans saw it. Instead of showing the typical blonde victim being cornered in an alley, Buffy empowered this character trope and gave her the strength and skill to defeat the forces of darkness. Lasting for seven seasons, there was no series like Sarah Michelle Gellar ’s career-defining show.
+The cast of Street Fighter (2026) shares unforgettable behind-the-scenes stories, from an emotional moment during a massive fight scene to the incredible costumes and practical sets that brought the iconic video game characters to life.
 
-### Michael Fassbender's New R-Rated Sci-Fi Blockbuster Is Officially Streaming
-Fri, 16 Oct 2026 12:00:14 GMT — https://collider.com/michael-fassbender-sci-fi-hope-streaming-pvod-october-2026/
+### Anne Hathaway’s New Thriller Officially Removed From 500 Theaters
+Fri, 16 Oct 2026 18:20:15 GMT — https://collider.com/anne-hathaway-colleen-hoover-adaptation-verity-loses-500-theaters/
 
-Michael Fassbender 's career has become closely associated with some of sci-fi's biggest franchises. The German-born actor rose to mainstream prominence through two major roles in the genre, first as Magneto in the X-Men films and later as Walter in Ridley Scott 's Alien franchise. Fassbender is expected to return to the latter, following Scott's recent revelation that he has plans to revisit the Alien universe with a new Walter-centric film following the unresolved ending of Alien: Covenant . However, fans of the Oscar-nominated actor were recently treated to another unrelated alien blockbuster featuring his talents.
+By now, it has become clear that the new Colleen Hoover adaptation isn't going to become as big a hit as her 2024 sensation It Ends with Us . That movie, starring Blake Lively , Brandon Sklenar , and Justin Baldoni , rode a wave of controversy to more than $350 million worldwide. It was followed by two other Hoover adaptations — Regretting You and Reminders of Him — which grossed around $90 million worldwide each. Both films have been overtaken at the global box office by the film, which is slated to debut on home video later this month. Amazon MGM is already rolling the film back, having removed it from a sizable number of theaters in its third week.
 
-### 6 Thriller Books More Intense Than Any Movie, Ranked
-Fri, 16 Oct 2026 11:45:14 GMT — https://collider.com/thriller-books-more-intense-than-any-movie/
+### Harlan Coben Is Bringing Back One of His Biggest Netflix Stars
+Fri, 16 Oct 2026 18:20:15 GMT — https://collider.com/harlan-coben-the-woods-netflix-production-complete/
 
-Movies have plenty of tools for producing suspense. Music, editing, cinematography, and killer performances can make even an ordinary situation feel unbearably tense. Novels, by contrast, have to use finely crafted prose to keep us hooked and unsettled. Often, they ratchet up the tension by trapping us inside a character's thoughts.
+Earlier this week, we were treated to a first look at one of the most exciting collaborations between Harlan Coben and Netflix yet. Riverdale star KJ Apa posted a selection of images from the set of the new Myron Bolitar series, alongside his co-star Colin Woodell . Coben's most famous recurring character, Bolitar, will feature on Netflix over multiple seasons in an ambitious project that is, according to Coben himself, aiming to replicate the style and success of Bosch and Reacher .
 
-### The 10 Greatest Fantasy Epic Movies of the Last 100 Years, Ranked
-Fri, 16 Oct 2026 11:36:14 GMT — https://collider.com/best-epic-fantasy-movies-last-100-years-ranked/
+### Robert Pattinson’s New Thriller Officially Removed From 1,400 Theaters
+Fri, 16 Oct 2026 18:10:15 GMT — https://collider.com/robert-pattinson-thriller-primetime-loses-1400-theaters/
 
-Fantasy films lend themselves to grandeur. While there are plenty of low fantasy films or more intimate ones that don't require lavish production values or expansive visual effects, there's something special about those that do. Epic fantasy movies transport us to far-off worlds or take us on grand adventures where reality has no bearing. It's what makes them such incredible cinematic experiences and why they're so rare. It takes a lot to pull these movies off, and in the last 100 years, there have only been a handful that could be considered the greatest.
+Having exceeded box-office expectations in North America, a critically acclaimed Oscar contender is beginning its international rollout this week. The psychological drama, based on Dateline NBC's controversial reality series To Catch a Predator , stars Robert Pattinson as Chris Hansen . The film has been criticized by Hansen , who claims to have not been consulted on it. Critics, however, have been largely supportive of the movie, particularly Pattinson's performance . But now, after three solid weeks, the film is poised to lose a significant chunk of its theater count to make way for several new movies.
 
-### ‘Paddington’ Officially Returns With a Special New Release in November
-Fri, 16 Oct 2026 11:30:14 GMT — https://collider.com/paddington-blu-ray-4k-release-november-2026/
+### LAIKA Officially Shows Why 'Wildwood' Took 16 Years To Make [Exclusive]
+Fri, 16 Oct 2026 18:00:51 GMT — https://collider.com/wildwood-behind-the-scenes-set-visit-preview/
 
-Paddington Bear is easily among the most recognizable faces on the planet. The bear, based on the beloved children's literature character created by Michael Bond, was brought to life by director Paul King in a live-action/CGI format and instantly became a fan favorite worldwide . It all started with 2014’s Paddington , which became a cultural phenomenon by blending heartfelt British whimsy with modern digital storytelling.
+With a flawless 100% Rotten Tomatoes debut, LAIKA 's new animated fantasy epic, Wildwood , is already being widely praised as not only one of the best movies of the year , but also as one of the most ambitious fantasy epics ever produced. As the creators of Coraline , Paranorman , The Boxtrolls , Kubo and the Two Strings , and Missing Link , LAIKA are true pioneers in the world of stop-motion animation: famously one of the most difficult and time-consuming mediums. Considering that Wildwood is the longest stop-motion film ever made, boasts one of the most elaborate action set pieces for said medium, and took 16 years to make, according to director Travis Knight , it's no wonder why the film is being praised as a technical marvel.
 
-### The 10 Best HBO Shows Released Since 1990, Ranked
-Fri, 16 Oct 2026 11:22:14 GMT — https://collider.com/best-hbo-shows-since-1990-ranked/
+### Taylor Sheridan Star’s John Wayne Remake Officially Removed From Nearly 1,000 Theaters
+Fri, 16 Oct 2026 18:00:14 GMT — https://collider.com/angel-and-badman-loses-1000-theaters/
 
-While many associate the birth of the 21st century with the origin of television’s reign as a prestige form of entertainment drama, the medium really began to showcase its appetite for more daring and boundary-pushing stories as far back as the early 1990s. It should come as a surprise to absolutely no one who loves TV to learn that HBO has been a major source of A-grade small-screen drama in the 36 years since the start of the ‘90s .
+While most major movies tend to retain their theater count for a two-week window, smaller distributors rely more heavily on early success. For instance, the recently released Western drama The Weight wasn't able to leverage excellent reviews into box-office success, and was removed from virtually all of its 1,500 theaters after two weeks. And now, another Western — this one didn't have positive reviews working in its favor — has suffered a similar fate. The movie in question was released in more than 2,200 theaters only a week ago, but weak reviews and low grosses have effectively sealed its fate.
 

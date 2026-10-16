@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-16T14:59:54.928Z
+# AI — harvested 2026-10-16T19:42:00.984Z
 
 ## OpenAI
+
+### Stack Overflow for Agents triples signups with ChatGPT plugin
+Fri, 16 Oct 2026 00:00:00 GMT — https://openai.com/index/stack-overflow-chatgpt-plugin
+
+Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
 
 ### Bringing GPT-Rosalind to academic research labs
 Thu, 15 Oct 2026 19:00:00 GMT — https://openai.com/index/introducing-the-rosalind-academic-plan
@@ -33,9 +38,6 @@ Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/meta-muse-spark-op
 
 ### Welcome FLUX.3 Image Klein in Diffusers
 Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/flux-3
-
-### HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost
-Wed, 14 Oct 2026 16:12:42 GMT — https://huggingface.co/blog/allenai/hiro-acev2
 
 ## Google DeepMind
 

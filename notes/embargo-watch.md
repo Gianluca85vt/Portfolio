@@ -25,6 +25,7 @@ _Nothing inside three days._
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
 | Stupid Never Dies | GPTRACK50 Inc. | 2026-10-21 | 5d | 2026-10-20 | €49.99 |
+| DEMONS' NIGHT FEVER | Arc System Works | 2026-10-21 | 5d | 2026-10-20 | €39.99 |
 | Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | 6d | 2026-10-21 | €69.99 |
 | FINAL FANTASY RESONANCE | Square Enix | 2026-10-22 | 6d | 2026-10-21 | €49.99 |
 | Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 7d | 2026-10-22 | €29.99 |
@@ -34,6 +35,6 @@ _Nothing inside three days._
 ---
 
 *1500 upcoming titles scanned, 1473 with a firm date inside
-14 days, 6 above the price line. Titles showing
+14 days, 7 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

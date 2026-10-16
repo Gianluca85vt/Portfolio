@@ -1,6 +1,21 @@
-# Manga — harvested 2026-10-16T14:59:54.928Z
+# Manga — harvested 2026-10-16T19:42:00.984Z
 
 ## Anime News Network
+
+### Trails in the Sky 2nd Chapter Game Review
+Fri, 16 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/trails-in-the-sky-2nd-chapter/.242469
+
+Like <i>Sky 1st, Daybreak</i>, and every other <i>Trails</i> that I have had the good fortune to enjoy so far, <i>Sky 2nd</i> is a darn good RPG and a darn good game.
+
+### Final Love Live! Nijigasaki High School Idol Club Anime Film's Teaser Unveils February 5 Opening
+Fri, 16 Oct 2026 11:33:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/final-love-live-nijigasaki-high-school-idol-club-anime-film-teaser-unveils-february-5-opening/.242898
+
+3rd film features theme song "Dreaming Free"
+
+### Happy Kanako's Killer Life Manga Gets TV Anime Next April
+Fri, 16 Oct 2026 11:05:48 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/happy-kanako-killer-life-manga-gets-tv-anime-next-april/.242881
+
+Gintama's Shinji Takamatsu helms comedy about woman's new gig as contract killer
 
 ### This Week in Games - Retro Jets, and EVO Reveals
 Fri, 16 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-16/retro-jets-and-evo-reveals/.242734
@@ -47,26 +62,16 @@ Fri, 16 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/interview/2
 
 Producer Hitoshi Ito and Directors Kenji Kamiyama and Shunsuke Tada speak on the origins of the color-changing lightsabers, the the "State of Nothingness," and so much more.
 
-### Hands-on with Eternal Anima: A Classic JRPG for the Modern Era
-Fri, 16 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/hands-on-with-eternal-anima-a-classic-jrpg-for-the-modern-era/.242161
-
-It's not a new <cite>Chrono Trigger</cite> but it may be the next best thing.
-
-### Singer Kenshi Yonezu Goes on World Tour in Early 2027
-Thu, 15 Oct 2026 23:05:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/singer-kenshi-yonezu-goes-on-world-tour-in-early-2027/.242870
-
-Tour goes to S. Korea, Singapore, USA, Mexico, Canada, UK, France, Netherlands
-
-### Crunchyroll Streams Dub for The Apothecary Diaries Season 3
-Thu, 15 Oct 2026 22:44:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/crunchyroll-streams-dub-for-the-apothecary-diaries-season-3/.242868
-
-Dub debuts on Friday
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Happy Kanako’s Killer Life TV Anime Adaptation Officially Announced for April 2027
+Fri, 16 Oct 2026 15:09:50 GMT — https://animecorner.me/happy-kanakos-killer-life-tv-anime-adaptation-officially-announced-for-april-2027/
+
+Toshiya Wakabayashi’s Happy Kanako’s Killer Life is officially getting a TV anime adaptation in April 2027, as announced by TOHO animation.
 
 ### Fall 2026 Anime Rankings – Week 2
 Fri, 16 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-2/
@@ -108,12 +113,12 @@ Wed, 14 Oct 2026 22:32:37 GMT — https://animecorner.me/the-vermilion-mask-rele
 
 The Vermilion Mask released its creditless opening and ending videos following the anime’s October 10 premiere.
 
-### Cyberpunk: Edgerunners 2 New Poster Visual and Trailer Introduce More Characters
-Wed, 14 Oct 2026 19:15:01 GMT — https://animecorner.me/cyberpunk-edgerunners-2-new-poster-visual-and-trailer-introduce-more-characters/
-
-CYBERPUNK EDGERUNNERS 2 has revealed a new poster key visual and trailer ahead of the show's October 20, 2026 release.
-
 ## MyAnimeList News
+
+### Manga Shiawase Kanako no Koroshiya Seikatsu Gets TV Anime in Spring 2027
+Fri, 16 Oct 2026 08:13:08 -0700 — https://myanimelist.net/news/74827326?_location=rss
+
+Production company TOHO animation opened an official website for a television anime adaptation of Toshiya Wakabayashi s Shiawase Kanako no Koroshiya Seikatsu (Happy Kanako s Killer Life) manga on Saturday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series will premiere in April 2027. Cast Kanako Nishino: Hana Tamegai (The iDOLM@STER Cinderella Girls: U149) Sakurai: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Shachou: Junichi Suwab...
 
 ### Kizuguchi to Houtai Reveals Main Cast, Teaser Promo
 Fri, 16 Oct 2026 00:28:30 -0700 — https://myanimelist.net/news/74826432?_location=rss
