@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-16T09:17:07.456Z
+# Manga — harvested 2026-10-16T14:59:54.928Z
 
 ## Anime News Network
+
+### This Week in Games - Retro Jets, and EVO Reveals
+Fri, 16 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-16/retro-jets-and-evo-reveals/.242734
+
+Even AI-generated nonsense can't rain on Portland Retro Gaming Expo's parade. Plus some reveals from EVO France!
+
+### Record of Lodoss War: The Crown of the Covenant Novel Series Resumes
+Fri, 16 Oct 2026 08:05:58 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/record-of-lodoss-war-the-crown-of-the-covenant-novel-series-resumes/.242895
+
+Kadokawa to publish portion of manuscript on Kakuyomu website on October 22
+
+### BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video
+Fri, 16 Oct 2026 07:25:08 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894
+
+Film opened in Japan on Friday
+
+### Golden Kamuy's Live-Action Adaptation Continues With 'Karafuto Pursuit Arc' Series in January
+Fri, 16 Oct 2026 05:17:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/golden-kamuy-live-action-adaptation-continues-with-karafuto-pursuit-arc-series-in-january/.242891
+
+New series features returning, new staff
+
+### Wound & Bandage TV Anime Reveals Main Cast, January 9 Debut in Teaser Video
+Fri, 16 Oct 2026 04:34:54 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/wound-and-bandage-tv-anime-reveals-main-cast-january-9-debut-in-teaser-video/.242890
+
+Hisako Kanemoto, Chikahiro Kobayashi star in anime
 
 ### Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members
 Fri, 16 Oct 2026 04:04:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886
@@ -37,36 +62,26 @@ Thu, 15 Oct 2026 22:44:18 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Dub debuts on Friday
 
-### GKIDS Offers CITY the Animation on BD Collector's Edition on December 15
-Thu, 15 Oct 2026 22:03:46 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/gkids-offers-city-the-animation-on-bd-collector-edition-on-december-15/.242867
-
-Release available exclusively on online GKIDS store
-
-### Kodansha USA Licenses Jackpot Girls, Powerless Without You, Occult Times, 7 Other Manga
-Thu, 15 Oct 2026 21:14:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/kodansha-usa-licenses-jackpot-girls-powerless-without-you-occult-times-7-other-manga/.242866
-
-Also: 7 titles for Kodansha Print Club
-
-### Cregger's Resident Evil Opens at #2 in Japan, 5th Girls und Panzer das Finale Film Opens at #5
-Thu, 15 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/cregger-resident-evil-opens-at-no.2-in-japan-5th-girls-und-panzer-das-finale-film-opens-at-no.5/.242827
-
-<cite>Chiikawa</cite> movie back at #1, <cite>Madoka Magica Walpurgisnacht: Rising</cite> at #10
-
-### Narumi's Week at Work Anime Series Review
-Thu, 15 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/narumi-week-at-work-anime-series/.242529
-
-<i>Kaiju No. 8: Narumi’s Week at Work</i> is a charming set of shorts that hits a bit above its weight class without being a total knockout.
-
-### Japanese Animation TV Ranking, September 28-October 4
-Thu, 15 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-15/japanese-animation-tv-ranking-september-28-october-4/.242842
-
-<cite>The Apothecary Diaries</cite> season 3 debuts with 4.8% rating, <cite>Tougen Anki: Nikko Kegon Falls Arc</cite> with 2.7% rating
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Fall 2026 Anime Rankings – Week 2
+Fri, 16 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-2/
+
+Even the Student Council Has Its Holes! wins again in Fall 2026 Week 2, followed by Firefly Wedding and STEEL BALL RUN.
+
+### Love Live! Nijigasaki High School Idol Club Final Chapter Movie Reveals Trailer, February 5 2027 Premiere
+Fri, 16 Oct 2026 12:23:14 GMT — https://animecorner.me/love-live-nijigasaki-high-school-idol-club-final-chapter-movie-reveals-trailer-february-5-2027-premiere/
+
+The last part of the trilogy, Love Live! Nijigasaki High School Idol Club Final&hellip;
+
+### Bleach: Thousand-Year Blood War Reveals The Last Trailer Ahead of Final 2 New Episodes
+Fri, 16 Oct 2026 11:21:11 GMT — https://animecorner.me/bleach-thousand-year-blood-war-reveals-the-last-trailer-ahead-of-final-2-new-episodes/
+
+BLEACH: Thousand-Year Blood War has released a new 'the last' trailer ahead of the anime’s final two episodes coming soon.
 
 ### Ave Mujica prima aurora Movie Reveals 2nd Trailer
 Fri, 16 Oct 2026 09:14:07 GMT — https://animecorner.me/ave-mujica-prima-aurora-movie-reveals-2nd-trailer/
@@ -97,16 +112,6 @@ The Vermilion Mask released its creditless opening and ending videos following t
 Wed, 14 Oct 2026 19:15:01 GMT — https://animecorner.me/cyberpunk-edgerunners-2-new-poster-visual-and-trailer-introduce-more-characters/
 
 CYBERPUNK EDGERUNNERS 2 has revealed a new poster key visual and trailer ahead of the show's October 20, 2026 release.
-
-### The Legend of Zelda: Ocarina of Time Overview Trailer Released, Pre-Orders Open Ahead of November 5 Launch
-Wed, 14 Oct 2026 13:14:14 GMT — https://animecorner.me/the-legend-of-zelda-ocarina-of-time-overview-trailer-released-pre-orders-open-ahead-of-november-5-launch/
-
-Nintendo has released an overview trailer for The Legend of Zelda: Ocarina of Time,&hellip;
-
-### Black Clover Season 2 Episode 3 Preview and Synopsis Revealed
-Wed, 14 Oct 2026 12:52:53 GMT — https://animecorner.me/black-clover-season-2-episode-3-preview-and-synopsis-revealed/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 3 (Episode 173 overall) ahead of its October 17 premiere.
 
 ## MyAnimeList News
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-16T09:17:07.456Z
+# AI — harvested 2026-10-16T14:59:54.928Z
 
 ## OpenAI
 
@@ -17,20 +17,13 @@ Thu, 15 Oct 2026 00:00:00 GMT — https://openai.com/index/sullivan-cromwell
 
 In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
 
-### Amp puts AI agents to work beyond code with OpenAI models
-Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/amp-beyond-coding
-
-See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.
-
-### SentinelOne cuts malware analysis from weeks to hours
-Wed, 14 Oct 2026 12:00:00 GMT — https://openai.com/index/sentinelone
-
-With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.
-
 ## Hugging Face
 
 ### Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
 Fri, 16 Oct 2026 01:44:47 GMT — https://huggingface.co/blog/nvidia/scaling-indic-pretraining
+
+### Welcome Beam: a 501B open model you can own, customize, and scale
+Fri, 16 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/reflection-beam
 
 ### Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint
 Thu, 15 Oct 2026 20:34:01 GMT — https://huggingface.co/blog/ibm-granite/granite-switch-4-1

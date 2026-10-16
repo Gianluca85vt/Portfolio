@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-16T09:17:07.456Z
+# Source feeds — harvested 2026-10-16T14:59:54.928Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -14,6 +14,7 @@ own feed: headline, link, date, and their summary.
 Already aired, so a round-up rather than a preview:
 
 - Eurogamer — GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?
+- GamesIndustry.biz — Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +36,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 96 items
+- [Games](games.md) — 95 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 10 items
-- [AI](ai.md) — 11 items
-- [Manga](manga.md) — 27 items
-- [Film & TV](film-tv.md) — 66 items
+- [AI](ai.md) — 10 items
+- [Manga](manga.md) — 28 items
+- [Film & TV](film-tv.md) — 65 items
 
-Total: 292 items.
+Total: 290 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).
