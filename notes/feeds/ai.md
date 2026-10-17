@@ -1,11 +1,21 @@
-# AI — harvested 2026-10-16T19:42:00.984Z
+# AI — harvested 2026-10-17T08:47:54.257Z
 
 ## OpenAI
+
+### How Itaú is building generative AI for its entire customer base
+Fri, 16 Oct 2026 19:00:00 GMT — https://openai.com/index/itau-generative-ai
+
+With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.
 
 ### Stack Overflow for Agents triples signups with ChatGPT plugin
 Fri, 16 Oct 2026 00:00:00 GMT — https://openai.com/index/stack-overflow-chatgpt-plugin
 
 Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.
+
+### Benefit Street Partners answers questions faster with Codex
+Fri, 16 Oct 2026 00:00:00 GMT — https://openai.com/index/benefit-street-partners
+
+Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.
 
 ### Bringing GPT-Rosalind to academic research labs
 Thu, 15 Oct 2026 19:00:00 GMT — https://openai.com/index/introducing-the-rosalind-academic-plan
@@ -17,11 +27,6 @@ Thu, 15 Oct 2026 13:00:00 GMT — https://openai.com/index/teaching-students-to-
 
 Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
 
-### Sullivan & Cromwell brings legal expertise into agreement review
-Thu, 15 Oct 2026 00:00:00 GMT — https://openai.com/index/sullivan-cromwell
-
-In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.
-
 ## Hugging Face
 
 ### Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline
@@ -32,12 +37,6 @@ Fri, 16 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/reflection-beam
 
 ### Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint
 Thu, 15 Oct 2026 20:34:01 GMT — https://huggingface.co/blog/ibm-granite/granite-switch-4-1
-
-### Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta
-Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/meta-muse-spark-open
-
-### Welcome FLUX.3 Image Klein in Diffusers
-Thu, 15 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/flux-3
 
 ## Google DeepMind
 

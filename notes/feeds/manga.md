@@ -1,6 +1,41 @@
-# Manga — harvested 2026-10-16T19:42:00.984Z
+# Manga — harvested 2026-10-17T08:47:54.257Z
 
 ## Anime News Network
+
+### Stranger Than Heaven Game Streams Story Trailer for 1st Act 'Kokura'
+Sat, 17 Oct 2026 03:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/stranger-than-heaven-game-streams-story-trailer-for-1st-act-kokura/.242936
+
+Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam
+
+### Bleach: Thousand-Year Blood War - The Calamity Anime Streams 'Last' Promo Video
+Sat, 17 Oct 2026 02:51:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/bleach-thousand-year-blood-war-the-calamity-anime-streams-last-promo-video/.242935
+
+Episodes 49, 50 air on October 19, 26
+
+### OceanVeil to Add 19 Anime Titles from Media Blasters
+Sat, 17 Oct 2026 01:54:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934
+
+<cite>Magical Witch Punie-chan, CODE-E, EIken, Gakuen Heaven</cite>, more to stream on service
+
+### Comikey Adds Mato Kauta's The Wolf King's Bride Manga
+Sat, 17 Oct 2026 01:31:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/comikey-adds-mato-kauta-the-wolf-king-bride-manga/.242933
+
+Hakusensha serialized shōjo manga from 2009 to 2018
+
+### Peow2 Licenses Jyoshikohei, Alien 9, Phantom Core Manga
+Sat, 17 Oct 2026 01:08:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/peow2-licenses-jyoshikohei-alien-9-phantom-core-manga/.242932
+
+Company to release all 3 manga next year
+
+### Japan Actors Union Develops Guidelines for Generative AI Use
+Fri, 16 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861
+
+Dragon Ball cast members discuss how generative AI affects them in press conference
+
+### Viz Media Licenses Jojolion, His Sweet Solace, Under Doctor, More Manga for Summer 2027
+Fri, 16 Oct 2026 22:58:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929
+
+<cite>Someone Hertz, Belladonna's Lover, Bus for Two</cite> manga; more works slated for next summer
 
 ### Trails in the Sky 2nd Chapter Game Review
 Fri, 16 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/trails-in-the-sky-2nd-chapter/.242469
@@ -27,46 +62,16 @@ Fri, 16 Oct 2026 08:05:58 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Kadokawa to publish portion of manuscript on Kakuyomu website on October 22
 
-### BanG Dream! Ave Mujica prima aurora Anime Film Reveals 2nd Promo Video
-Fri, 16 Oct 2026 07:25:08 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/bang-dream-ave-mujica-prima-aurora-anime-film-reveals-2nd-promo-video/.242894
-
-Film opened in Japan on Friday
-
-### Golden Kamuy's Live-Action Adaptation Continues With 'Karafuto Pursuit Arc' Series in January
-Fri, 16 Oct 2026 05:17:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/golden-kamuy-live-action-adaptation-continues-with-karafuto-pursuit-arc-series-in-january/.242891
-
-New series features returning, new staff
-
-### Wound & Bandage TV Anime Reveals Main Cast, January 9 Debut in Teaser Video
-Fri, 16 Oct 2026 04:34:54 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/wound-and-bandage-tv-anime-reveals-main-cast-january-9-debut-in-teaser-video/.242890
-
-Hisako Kanemoto, Chikahiro Kobayashi star in anime
-
-### Magical Sisters Lulutto Lilly Anime Reveals 2 More Cast Members
-Fri, 16 Oct 2026 04:04:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/magical-sisters-lulutto-lilly-anime-reveals-2-more-cast-members/.242886
-
-Hirofumi Nojima, Shōgo Yano join cast starting in 15th episode
-
-### Magical DoReMi, Star Detective Precure! Anime Get Crossover Episode on October 25
-Fri, 16 Oct 2026 02:29:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/magical-doremi-star-detective-precure-anime-get-crossover-episode-on-october-25/.242871
-
-Crossover episode will be anime's 39th episode
-
-### Interview: Chrono Trigger Lead Programmer on Directing His Own Time Travel JRPG, Eternal Anima
-Fri, 16 Oct 2026 00:30:00 -0400 — https://www.animenewsnetwork.com/convention/2026/tokyo-game-show/interview-chrono-trigger-lead-programmer-on-directing-his-own-time-travel-jrpg-eternal-anima/.242869
-
-Director Katsuhisa Higuchi reached out to his old coworkers from Square and gathered other JRPG veterans to make his new retro-inspired adventure.
-
-### Interview: A Deep Dive into the Creation and Philosophy of The Ninth Jedi
-Fri, 16 Oct 2026 00:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-16/a-deep-dive-into-the-creation-and-philosophy-of-the-ninth-jedi/.241654
-
-Producer Hitoshi Ito and Directors Kenji Kamiyama and Shunsuke Tada speak on the origins of the color-changing lightsabers, the the "State of Nothingness," and so much more.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: MAPPA President & CEO Manabu Otsuka and Director Kaori Makita on the Studio's 15th Anniversary and Growth
+Sat, 17 Oct 2026 00:59:37 GMT — https://animecorner.me/interview-mappa-ceo-manabu-otsuka-and-director-kaori-makita-on-the-studios-15th-anniversary-and-growth/
+
+To celebrate the 15th anniversary of Studio MAPPA, Manabu Otsuka, MAPPA's CEO and president,&hellip;
 
 ### Happy Kanako’s Killer Life TV Anime Adaptation Officially Announced for April 2027
 Fri, 16 Oct 2026 15:09:50 GMT — https://animecorner.me/happy-kanakos-killer-life-tv-anime-adaptation-officially-announced-for-april-2027/
@@ -103,16 +108,6 @@ Thu, 15 Oct 2026 09:17:39 GMT — https://animecorner.me/i-got-a-cheat-skill-in-
 
 I Got a Cheat Skill in Another World (Iseleve) Season 2 revealed the first trailer, new cast, and a January 2027 release date.
 
-### Naruto Card Game Gets Trailer Animated by Pierrot, Sets Worldwide June 2027 Launch, Reveals Starter Decks and First Booster Pack
-Thu, 15 Oct 2026 00:19:10 GMT — https://animecorner.me/naruto-card-game-gets-trailer-animated-by-pierrot-sets-worldwide-june-2027-launch-reveals-starter-decks-and-first-booster-pack/
-
-NARUTO CARD GAME will launch simultaneously worldwide in June 2027, revealing an animated trailer by studio Pierrot.
-
-### The Vermilion Mask Releases Creditless Opening and Ending Videos Following Premiere
-Wed, 14 Oct 2026 22:32:37 GMT — https://animecorner.me/the-vermilion-mask-releases-creditless-opening-and-ending-videos-following-premiere/
-
-The Vermilion Mask released its creditless opening and ending videos following the anime’s October 10 premiere.
-
 ## MyAnimeList News
 
 ### Manga Shiawase Kanako no Koroshiya Seikatsu Gets TV Anime in Spring 2027
@@ -134,16 +129,6 @@ The official website for the television anime adaptation of Miku s Isekai de Che
 Thu, 15 Oct 2026 02:18:11 -0700 — https://myanimelist.net/news/74823576?_location=rss
 
 The official website for the television anime adaptation of Rinne Ishida s Matsurika Kanriden (The Legend of Bureaucrat Matsurika) light novel announced an additional pair of cast on Thursday. The anime series is scheduled to premiere on Tokyo MX, MBS, TV Aichi, and BS11 in January 2027. Voice actors Hiyori Kouno (Kabushikigaisha Magi-Lumi&egrave;re) and Takuya Satou (Mao) are joining the cast as Ro Lian and Akatsuki, respectively. Yuuichi Nakazawa (Toaru Ossan no VRMMO Katsudouki) is direc...
-
-### Boukensha License wo Hakudatsu sareta Ossan dakedo Reveals Main Cast, Staff, Teaser Promo for Winter 2027
-Wed, 14 Oct 2026 21:43:10 -0700 — https://myanimelist.net/news/74823153?_location=rss
-
-The official website for the television anime adaptation of Manimani Ononata s Boukensha License wo Hakudatsu sareta Ossan dakedo, Manamusume ga Dekita node Nonbiri Jinsei wo Ouka suru (I Lost My Adventurer s License, but It s Fine Because I Have an Adorable Daughter Now) light novel revealed the main cast, staff, a second teaser visual (pictured), and teaser promotional video on Thursday. The anime series will premiere in January 2027. Voice actors Hiroki Yasumoto (Koukaku Kidout...
-
-### Voice Actors Kouji Yusa and Miyari Nemoto Announce Marriage
-Wed, 14 Oct 2026 20:50:13 -0700 — https://myanimelist.net/news/74823040?_location=rss
-
-Voice actors Kouji Yusa and Miyari Nemoto revealed their marriage through personal statements posted on social media on Thursday. Nemoto shared the news on her X account, writing, "It is with great humility that I announce my marriage registration with Kouji Yusa. Although I am still inexperienced, the two of us will support each other and continue to devote ourselves even more diligently going forward. I kindly ask for your continued support." Yusa also released a statement via a tem...
 
 ## Otaku USA
 

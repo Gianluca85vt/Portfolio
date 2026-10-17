@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-16T19:42:00.984Z
+# Games — harvested 2026-10-17T08:47:54.257Z
 
 ## Eurogamer
+
+### What we've been playing - "I simply didn't know if a first-person shooter could work as a Soulslike"
+Sat, 17 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion
+
+Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor plays a classic, and ticks it off his bucket list; Sherif isn't sure about a first-person shooter foray into Soulslikes; Matt visits a South Pacific island volcano and Jim Henson's Labyrinth, all in one game; and Bertie discovers that playing D&D with kids is enormously entertaining. Read more
 
 ### Analogue is reviving its Mega SG and Super Nt consoles, and they'll play all your old Sega and Nintendo cartridges with some modern enhancements
 Fri, 16 Oct 2026 17:11:28 +0000 — https://www.eurogamer.net/analogue-mega-sg-super-nt-plus-revealed
@@ -10,7 +15,7 @@ Analogue - creator of various fancy retro-focused game consoles - has detailed i
 ### 11 games and announcements that got us excited in the latest Galaxies Showcase
 Fri, 16 Oct 2026 15:04:58 +0000 — https://www.eurogamer.net/galaxies-showcase-2026-games-roundup
 
-You can smell it in the air can't you? The chill in your nostrils and the earthy scent as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mean there isn't stuff to be excited about, of course. And the latest edition of the Galaxies Showcase has chucked a few more things onto the 'ooooh intriguing!' pile. Actually, quite a lot of things given its nearly two-hour runtime; but while you can watch the full thing in its entirety if you've got the time, we've also picked out a few of the announcements that especially caught our eyes and highlighted them below. Was all this really just an excuse for Connor to enthuse about penguins? Perhaps! Read more
+You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mean there isn't stuff to be excited about, of course. And the latest edition of the Galaxies Showcase has chucked a few more things onto the 'ooooh intriguing!' pile. Actually, quite a lot of things given its nearly two-hour runtime; but while you can watch the full thing in its entirety if you've got the time, we've also picked out a few of the announcements that especially caught our eyes and highlighted them below. Was all this really just an excuse for Connor to enthuse about penguins? Perhaps! Read more
 
 ### Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine
 Fri, 16 Oct 2026 13:46:23 +0000 — https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development
@@ -56,11 +61,6 @@ Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem
 Thu, 15 Oct 2026 13:24:51 +0000 — https://www.eurogamer.net/grand-theft-auto-6-launch-trailer
 
 Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more
-
-### Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution
-Thu, 15 Oct 2026 13:06:27 +0000 — https://www.eurogamer.net/castlevania-belmonts-curse-review
-
-In my office, I have a collage of Ordnance Survey maps plastered across my wall. They're from places I've lived - Derbyshire, East London, Bournemouth, Bristol - with cycle routes, country roads, and parks highlighted and circled. It's an atlas of my experiences, a living memoir of the places I've been and the things I've seen. There's magic in a map, its ability to remind you of the paths you've trodden and where you've yet to go. Read more
 
 ## GamesIndustry.biz
 
@@ -130,6 +130,16 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote
+Sat, 17 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote
+
+Massive news. I can’t stop laughing at Atelier Karia’s new gameplay mechanic. You may recall, back when the newest entry in Gust’s long-running apothecary franchise was revealed , that eating would comprise a big part of the gameplay. Read the full article on pushsquare.com
+
+### Talking Point: What Are You Playing This Weekend? - Issue 654
+Fri, 16 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654
+
+Scrib doon. The days are getting shorter and the cooler weather is easing in — at least here in the UK. Fortunately there are about a bazillion games to play. Here's what's keeping us busy. Graham Banas Now that Control: Resonant has a disc version, I no longer have to pretend like it hasn't released yet. So that's going to be my weekend. I'll be spending it with my favourite developer and I wouldn't have it any other way! Read the full article on pushsquare.com
+
 ### The Shrek 2 Video Game Is Getting a Remaster, Leaks via Xbox Store
 Fri, 16 Oct 2026 17:15:00 GMT — https://www.pushsquare.com/news/2026/10/the-shrek-2-video-game-is-getting-a-remaster-leaks-via-xbox-store
 
@@ -180,32 +190,12 @@ Fri, 16 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/pokemo
 
 Final update on 19th October. Pokémon studio Game Freak has announced next week's Beast of Reincarnation update, arriving on 19th October 2026, will be the game's final one. The developer shared that its post-launch support of updates and patches "is coming to a close". It invites players to file support tickets if they encounter any issues in the future, but next week's update shall "be the final patch in this ongoing phase of major post-launch updates". Read the full article on pushsquare.com
 
-### Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners
-Thu, 15 Oct 2026 23:30:00 GMT — https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners
-
-Out on 8th December 2026. Did you ever think you'd hear of the forgotten PS4 animal evolution sim Ancestors: A Humankind Odyssey again? I most certainly didn't, but here we are with the announcement of a PS5 version coming 8th December 2026. Panache Digital Games revealed it'll be debuting on Nintendo consoles with a Switch 2 edition, which I suspect is the main reason behind today's reveal. However, in the process, the developer has also decided to put out native PS5 and Xbox Series X|S versions. Read the full article on pushsquare.com
-
-### Call of Duty Tax Blamed for Softer CoD Reception by Marketing Lead
-Thu, 15 Oct 2026 19:45:00 GMT — https://www.pushsquare.com/news/2026/10/call-of-duty-tax-blamed-for-softer-cod-reception-by-marketing-lead
-
-Purchasing intent for MW4 down on last year's game. 6 . 8 . 4 . 8 . 7 . No, those aren’t the numbers, Mason – they’re the scores of our last five Call of Duty reviews. (Excluding this year’s Black Ops ports , which absolutely exploded on the PS5.) Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam
 Thu, 15 Oct 2026 14:00:00 GMT — https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam
 
 The roguelike RPG is no longer in Steam Early Access, but its upcoming DLC Diaspora will be, marking untrodden ground for the in-development program.
-
-### Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore
-Wed, 14 Oct 2026 22:08:51 GMT — https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore
-
-The decisions will ultimately impact over 120 jobs between the two studios as part of Ubisoft's ongoing restructuring efforts.
-
-### No more hand-written code? Epic's Disney project reportedly shifts to 'AI-First' development
-Wed, 14 Oct 2026 20:24:47 GMT — https://www.gamedeveloper.com/programming/no-more-hand-written-code-epic-s-disney-project-reportedly-shifts-to-ai-first-development
-
-Developers working on the upcoming Star Wars and Marvel shooter have been reportedly instructed to lean heavily on AI, especially during the creation of code and art.
 
 ## VGC
 
@@ -261,57 +251,77 @@ Modern Warfare 4 is out next week… Source
 
 ## Polygon
 
-### Every DC Studios Movie and TV Show in Coming Through 2028 (and Beyond)
-Fri, 16 Oct 2026 18:52:16 GMT — https://www.polygon.com/dc-movies-tv-shows-dcu-release-calendar-james-gunn/
+### 26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple
+Sat, 17 Oct 2026 08:00:18 GMT — https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/
 
-There are still some lingering projects left over from the pre-Gunn era of the DCU, including a new Matt Reeves-led Batman movie and the fate of Peacemaker , the series starring John Cena that spanned two eras of DC film and television — and left fans contending with a major cliffhanger.
+It comes at the end of an episode that, for all intents and purposes, is pure setup. Spike (James Marsters) lounges morosely in his crypt, harmless after having a chip installed in his brain that prevents him from hurting humans. Buffy (Sarah Michelle Gellar) kicks down his door and announces that she’s done with him. She’s killing him once and for all.
 
-### How to get the DLC weapons in Fire Emblem Fortune's Weave
-Fri, 16 Oct 2026 18:47:07 GMT — https://www.polygon.com/fire-emblem-fortunes-weave-dlc-weapons-how-to-get/
+### Event Habitat Dex and Pokédex list in Pokémon Pokopia
+Sat, 17 Oct 2026 04:01:19 GMT — https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/
 
-Fire Emblem: Fortune's Weave 's DLC weapons give your army a sizeable advantage, though they do come with a few drawbacks. Obtaining the weapons involves completing a new subquest, and each of the four playable Flame Lords gets a special weapon. There's a bit of timeline funkiness involved in getting those weapons to Part 2 or beyond if you've already completed someone's Part 1. It's worth the hassle, though.
+Pokémon Pokopia has limited-time events that occur for a few days before disappearing, though you can time travel back to them, if you miss out on any. Some events feature Pokémon and habitats you can only unlock via the event, so you'll want to make sure you're paying attention to any guests who are the "talk of the town."
 
-### GTA 6 Recaptures What Made GTA’s Best DLC So Great
-Fri, 16 Oct 2026 18:00:18 GMT — https://www.polygon.com/gta-6-ballad-of-gay-tony/
+### Pokémon Pokopia event schedule
+Sat, 17 Oct 2026 04:01:19 GMT — https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/
 
-If there’s one word that describes GTA 6 , it’s sexy . Since its debut trailer, the new open-world game appears to be a drastic detour from Rockstar’s previous entries, in its enhanced version of Vice City, and in the dynamic between its dual protagonists and how their steamy relationship informs the narrative. Based on roughly 30 minutes of official footage across its four main trailers, club life, excessive robberies, pastel pinks, roaring high-end sports cars, and even more explosive action set pieces than GTA 5 seem to be the hallmarks of this new experience. It’s shaping up to be Rockstar's magnum opus.
+Pokémon Pokopia has limited-time events that feature unique items and Pokémon throughout the year. These events are only accessible on specific dates, but you don't need to fret too much about FOMO, as you can time travel to access these.
 
-### Street Fighter’s Best Live-Action Movie Yet Is Free on Streaming
-Fri, 16 Oct 2026 17:35:53 GMT — https://www.polygon.com/street-fighter-1994-streaming-free-tubi-pluto-tv/
+### Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide
+Sat, 17 Oct 2026 04:01:18 GMT — https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/
 
-The latest Street Fighter movie is out, and early reactions are not pretty. The film is currently sitting at 45% on Rotten Tomatoes and a 44 score on Metacritic. Polygon described it as an “incoherent, irredeemable mess” that flounders for an overlong two-hour runtime before ending in an anticlimax. While the action scenes are apparently solid, even they aren’t quite right, as these sequences underutilize the characters’ superhuman abilities. The main subject of praise has been David Dastmalchian’s deliciously campy performance as M. Bison.
+The "Pumpkaboo's Sweet Surprises" is Pokémon Pokopia 's first Halloween event, and it adds a whole list of items that you can use to add a spooky touch to each region. Before you can get your hands on them, you will need to trick your Pokémon friends and get their treats.
 
-### Laura Bailey's Favorite Critical Role Romance Changed Campaign 3 Forever
-Fri, 16 Oct 2026 17:00:18 GMT — https://www.polygon.com/critical-role-best-romance-laura-bailey-imodna/
+### 10 Perfect Detective Thrillers That Get More Intense With Every Episode
+Sat, 17 Oct 2026 04:00:23 GMT — https://www.polygon.com/best-mystery-tv-shows-worth-solving/
 
-Over the years, Critical Role has featured plenty of romances across its Dungeons & Dragons campaigns and one-shots. These include the angst-ridden yet sweet love between haughty noble Percival Del Rolo and strong-willed ranger Vex’ahlia in Campaign 1, and the intriguing will-they-won’t-they dynamic between warlock Fjord Stone and the bubbly tiefling cleric Jester in Campaign 2.
+Nothing hits quite like a good mystery. Whether it's a seemingly impossible murder, a missing person, or a conspiracy set against the backdrop of a small town, the best TV mysteries keep you guessing right up until the credits roll. They're the kinds of shows that make you scrutinize every passing detail and second-guess each new character. Still, despite the overriding conviction that you cracked the case long before the detectives, it’s almost always someone you least expect.
 
-### Game Freak Announces End of Beast of Reincarnation’s Post-Launch Updates
-Fri, 16 Oct 2026 16:24:34 GMT — https://www.polygon.com/beast-of-reincarnation-game-freak-pokemon-updates-ending/
+### Beloved Fantasy Novel Series Redwall Sets Return After 16 Years
+Sat, 17 Oct 2026 01:52:18 GMT — https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/
 
-Beast of Reincarnation will stop receiving regular updates just over two months after its release. Developer Game Freak, best known as the studio behind Nintendo's Pokémon series, has announced the action RPG's current post-launch update plan is coming to an end. While this won't necessarily mean the end of support, it suggests the studio is ready to step away from Beast of Reincarnation and move on to other projects.
+For 25 years from 1986 to 2011, writer Brian Jacques stole the hearts of readers everywhere with his Redwall series of fantasy novels . The Rogue Crew was released in 2011, three months after Jacques' death, and for 15 years it has remained the final entry in the series — until now.
 
-### Battlefield 6 Is Free on Steam, but Not for Long
-Fri, 16 Oct 2026 16:15:00 GMT — https://www.polygon.com/battlefield-6-free-to-play-steam-october-2026/
+### Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19
+Sat, 17 Oct 2026 00:43:17 GMT — https://www.polygon.com/gta-6-trump-rockstar-games/
 
-Battlefield 6 is free to play on Steam right now, giving players a chance to try EA’s latest military shooter as its fifth season gets underway.
+Rockstar Games is known for bringing biting and often puerile satire to its Grand Theft Auto games. The 13-year span between Grand Theft Auto 5 and Grand Theft Auto 6 means there's plenty of American culture to interrogate or poke fun at, but a few things will be off the table, according to new previews of Rockstar's upcoming game. Two things that GTA 6 won't directly address, according to a new report: Donald Trump’s rise to political power and the COVID-19 pandemic.
 
-### 2022’s Beloved Survival Adventure 'Stranded Deep' Is Free This Weekend
-Fri, 16 Oct 2026 16:02:57 GMT — https://www.polygon.com/stranded-deep-free-weekend-steam/
+### 8 Call of Duty Games Still Missing from Game Pass
+Fri, 16 Oct 2026 22:00:17 GMT — https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/
 
-Released in Early Access in 2015, the survival crafting game Stranded Deep has built a strong following over the years, with over 20K Steam reviews alone. If you’re a fan of the genre and are looking for something to play this weekend, now might be a good time to give this one a try: it's free to play on Steam until 1 p.m. ET Oct. 19.
+The franchise has slipped from its lofty perch in recent years, but there was a time when the launch of a new Call of Duty game was a huge event. The anticipation was never quite on the level of Grand Theft Auto 6 , but the series reliably mattered in a way that many other games did not.
 
-### 7 Years Later, Apple’s Gaming Push Has Proven Surprisingly Resilient
-Fri, 16 Oct 2026 16:00:19 GMT — https://www.polygon.com/apple-indie-games-week-interview/
+### Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece
+Fri, 16 Oct 2026 21:00:19 GMT — https://www.polygon.com/resident-evil-2-switch-2-impressions/
 
-The latest example of that came this week as Apple launched an App Store event dubbed Indie Games Week. The week-long initiative saw Apple welcoming games like Vampire Crawlers to iOS and announcing an ambitious mobile version of No Man’s Sky . At the center of that push was Carson Oliver, the new head of App Store Worldwide following Phil Schiller’s sudden departure from the role this past August. The fact that one of his first acts in the role was spearheading an indie gaming showcase hints at where Oliver’s priorities might lie.
+I've tried playing Resident Evil 2 remake many times over the years and have never quite managed to finish the thing. It's good — very good — and I enjoy it. But there's just something about its narrow corridors and the threat of an undead monster popping out of a locker that keeps me from coming back to it. I've been playing Capcom's Switch 2 port of it lately, though, and I might finally make it to the end this time. The port is exquisite, and horrors on an 8-inch screen are much easier for my nerves to handle than big-screen frights.
 
-### 'GeoGuessr' Just Changed Genres With A Must-Play Upgrade
-Fri, 16 Oct 2026 15:50:17 GMT — https://www.polygon.com/geoguessr-horrorguessr-google-maps-free-internet-game/
+### 9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked
+Fri, 16 Oct 2026 21:00:19 GMT — https://www.polygon.com/best-zelda-likes-nobody-plays-ranked/
 
-Browser-based deduction game GeoGuessr has been around for a long time, and most people are content to simply watch Trevor Rainbolt correctly identify a location within seconds. Yet the developers behind GeoGuessr just gave everyone a good reason to revisit the storied internet game.
+Every Zelda dungeon runs on the same promise: find a tool, open a door, find a better tool. A whole genre of games borrows that loop without Hyrule’s precise theme music, and every few years one of them, like Tunic or Death’s Door , breaks out and lands on everyone’s recommendation list. This list is for the games that usually don’t make the cut.
 
 ## PC Gamer
+
+### Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood
+Fri, 16 Oct 2026 23:53:11 +0000 — https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/
+
+Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders this week after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, which is known for homelessness and open drug use. "San Francisco couldn't fix the Tenderloin," Biojout said in a now-deleted X post on October 13. "So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets." He noted that he'd already made $300 from in-game ads. The game, called Tenderloin Night Shift, had players shoot "zombies" that, according to reports from the SF Chronicle and KRON4 news , included a "folded" fentanyl addict and a Black security guard. Speaking to the Chronicle, Jennifer Friedenbach, executive director of the SF Coalition on Homelessness, said that Biojout was "monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents of the poorest neighborhood in San Francisco." In a correspondence with the paper, Biojout said that he had not intended to "provoke or to depict shooting real people" and that the game also included tech workers as characters. Tenderloin Night Shift appears to have been removed from NanoCorp's website. Although Biojout deleted his X post, the discourse that ensued remains. "You made a game about shooting people in active addiction," said another tech founder. "These are human beings, not zombies. show me the positive side of this - i'm probabl
+
+### The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says
+Fri, 16 Oct 2026 22:02:23 +0000 — https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/
+
+We learned last week that a Cyberpunk 2077 movie is in the works , an announcement I used mainly to talk about a completely different cyberpunk movie starring Keanu Reeves as a guy named Johnny who's having a bad week. Now we've got a bit more insight into what CD Projekt Red has in mind for the film, and it's possible that a guy named Johnny may not be involved at all. "Our contract with Anonymous Content expired, and in the meantime, an opportunity arose to establish cooperation with Paramount Pictures," co-CEO Michał Nowakowski told Polish PAP Biznes ( Google translated ), referring to the Cyberpunk 2077 "live action project" that was announced in 2023 and ultimately went nowhere. "We decided that we would conduct a live-action Cyberpunk project in a new formula. "At this point, we can only say that we definitely don't want to make a film adaptation of the game. We want to tell a story in the world of Cyberpunk, but it won't be a one-to-one translation of the game's story." I loved Cyberpunk 2077, and the fact that it featured two Hollywood stars in central roles might make it seem like a natural fit for a direct translation. But I think avoiding that approach is the wiser move: V's story has been told, and trying to replicate it on film only invites unflattering comparisons and criticism. And it's not as though the world of Night City is short of other stories to tell, after all, nor would it be difficult to indirectly tie it to the game through references or cameos, if t
+
+### I haven't wanted to 100% a game in a long time, but…
+Fri, 16 Oct 2026 20:07:29 +0000 — https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/
+
+What's it take for a game to snare me? Over the Hill is a co-op (or singleplayer!) offroading adventure that launched on Steam this week , and even just playing a bit of it has made me determined not to just play more but to 100% it. That's a feeling I haven't had about a game in a while. Here's what my brief excursion into Over the Hill has already shown me: A beautiful open world Weather conditions and a day/night cycle Sweet-looking vehicles Challenging driving physics Secrets to find Cosmetics to collect Vehicle upgrades to unlock Wildlife to photograph I'll be honest, it's the last one that really got me to commit to hundred-percenting it. I was driving slowly along up a bumpy trail, stopping occasionally to pull my little Jeep up a hill with my winch, when I suddenly heard the familiar croak of a raven. I zoomed out my view and eventually spotted the bird flapping over the trees nearby. I switched to camera mode and took a picture of it. Nice. (Image credit: Funselektor Labs Inc.) But a moment later I saw the flash of something slinking through the tall grass near my Jeep, and after following it with my camera for about a minute, it finally stepped out into full view. A coyote! I photographed it as well, and decided right then I was going to find and document every single animal in the game. And I'm enjoying driving around in Over the Hill so much, I think I'm gonna do it all: find every point of interest, unlock every vehicle and cosmetic, acquire every upgrade, and tr
+
+### 'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped
+Fri, 16 Oct 2026 19:42:52 +0000 — https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/
+
+One day into Wardogs Season 2, Bulkhead Interactive has decided to scrap the bribery plan it announced last week as a way to help convince players to join the Blue team. The problem isn't that the plan didn't work—it actually worked far too well. THE PLAN: "Lonestar cash and XP bonus. Season 2 only. New Bakurani spawn." "We're looking at how we can help the win rate of a certain team." -Bulkhead CEO Joe Brammer (via "Road to Season 2" devlog) THE REALITY: "We were wrong. We fucked up," Brammer admitted in a new video (via RPS). Blue team is now winning "by far, the most," Brammer said, even though the actual boosts are not terribly substantial: 5% Lonestar cash and 2.5% XP. "Median" players didn't get much from those percentages, but Bulkhead found that "top tier" players were seeing significant boosts Bottom line: it's gone. "We're removing the Blue XP bonus, the cash bonus. We were wrong," Brammer said. Bulkhead co-founder Howard Philpott added that the studio thought Blue team bonus might work out this way, but said "I don't think we expected it to be this much of a swing." I can't say I'm terribly surprised by the outcome. I'm not a Wardogs player, but I have been around long enough to know how these things go: If you dangle a competitive edge in front of gamers, they're going to jump for it. Percentage boosts are especially risky because they're performance-based and so much more likely to go spinning out of control, especially in the hands of, as Brammer put it, "tryhar
 
 ### My career as a weed farmer was derailed by my unslakeable lust for golf
 Fri, 16 Oct 2026 17:06:21 +0000 — https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/
@@ -353,27 +363,12 @@ Fri, 16 Oct 2026 10:44:42 +0000 — https://www.pcgamer.com/games/rts/semifinals
 
 We are now in the second half of the most brutal war to play out on the pages of this venerable website—a war that will determine, through democracy and science, which RTS unit is the greatest of them all. Two weeks ago, the conflict started with 16 units . Last week, eight survivors duked it out in the quarterfinals . Blood was shed and four more units were tossed into the void. It was tight—with two battles ending with the victor claiming only 10% more of the votes. My two faves, the noble Dolphin and humble Peon were killed off. I weep for these fallen heroes. But there's no more time for sentimentality. Another battle is about to begin. Clean off the blood and get ready for the semifinals. It's time to choose which two units will be going head-to-head in the glorious final battle. The semifinals bracket (Image credit: BracketHQ) During the quarterfinals, I made a prediction. One I was pretty confident about. But was I right? (Image credit: Future) I was pretty close, actually! The only one I got wrong was Peon, which has honestly shocked the hell out of me. In the first round, my sweet green boy utterly dominated the Glass Dragon, and it's been getting plenty of love in the comments. I did not expect to see it get knocked out by a tank. Just a tank! OK, it's probably unfair to call the indomitable Mammoth Tank "just a tank", but the Peon was robbed. Clearly we've got some tank fans, but even more Star Destroyer fans. The sneaky Mirage Tank, another of my favourites, was b
 
-### Peter Molyneux explains why Black & White 3 remains MIA, and then drops a tantalising teaser: 'It's such a difficult, difficult, challenging title to develop'
-Fri, 16 Oct 2026 10:34:30 +0000 — https://www.pcgamer.com/games/strategy/peter-molyneux-explains-why-black-and-white-3-remains-mia-and-then-drops-a-tantalising-teaser-its-such-a-difficult-difficult-challenging-title-to-develop/
-
-As part of an interview that I conducted with Peter Molyneux in Guildford recently, a wide-reaching chat that covered everything from Molyneux's final game, Masters of Albion , and its new game-changing update , through to the origin of Black & White's famous titan creatures , I also asked the veteran designer why a third Black & White game has never been made. Fans of the Black & White series like myself and countless other PC gamers (Black & White is currently top of GOG's most-wanted remaster list ) have been desperate for a new release, be that a remaster of one of the original games or a brand-new third game, so the fact that it has now been 20 years since the Black & White 2: Battle of the Gods expansion was released is pretty dispiriting. But is there hope for fans of the series? My reading of these comments is that they ring true and are entirely unsurprising—especially that god games are seen as a small piece of pie by publishers. Any gamer who has followed the gaming industry for the last 10-20 years will have seen how the major publishers have coalesced around, and increasingly bet the farm on, just a few genres and business models, the most infamous being live-service. Those bets, for most, have now proven to be massive follies, with countless epic failures (Skull & Bones, Concord, Suicide Squad, Anthem, Marvel's Avengers, Redfall, MultiVersus, and APB: All Points Bulletin, to name but a few) leading to, literally, billions of dollars being flushed down the pan. W
-
-### New fear dropped: Amazon scammer seems to have delidded an $889 AMD chip, transplanted it on old Intel chip, and got it through return inspection
-Fri, 16 Oct 2026 10:30:59 +0000 — https://www.pcgamer.com/hardware/processors/new-fear-dropped-amazon-scammer-seems-to-have-delidded-an-usd889-amd-chip-transplanted-it-on-old-intel-chip-and-got-it-through-return-inspection/
-
-watercooling from r/watercooling/comments/1x724mr/two_different_versions_of_amd_9950x3d2_dual I've never been stung by Amazon, but I've heard enough stories for it to be a worry. Amazon can take returns and list them again as new products if they pass inspection, which can open the door for scammers if something slips through inspection. And it's tales of this happening with expensive components that really give me the heebie jeebies, such as what seems to have happened to one Redditor with the incredibly expensive AMD Ryzen 9 9950X3D2 . The picture they share shows what are supposed to be two Ryzen 9 9950X3D2 chips, but they look different. The pin layout on the underside is different, and on the top there is a distinct lack of caps jutting out from under the integrated heat spreader (IHS). Those familiar with AMD chips will know that that lack of capacitors on top is a giveaway that it's not, in fact, a new Ryzen chip under the IHS—those caps, or surface-mount device (SMD) components, are never bundled in the middle and never on the underside. Another giveaway, therefore, is that the underside of the fake chip features all that SMD gubbins bundled in the centre, which is a feature of Intel chips, not AMD ones. What has most likely happened here, just as the top Reddit comment says , is someone has probably delidded a Ryzen 9 9950X3D2 and stuck an old Intel CPU under the Ryzen IHS. The smudging/wearing of the text on top of the fake chip probably occurred during the deliddin
-
-### US lawmaker calls videogame purchases rentals disguised as sales: 'When you pay for a game, you should own it'
-Fri, 16 Oct 2026 00:08:45 +0000 — https://www.pcgamer.com/gaming-industry/us-lawmaker-calls-videogame-purchases-rentals-disguised-as-sales-when-you-pay-for-a-game-you-should-own-it/
-
-US Representative Ritchie Torres, a Democrat from New York City, announced today that he will introduce the "Power To The Players Act." If it becomes law, the bill will see the US Federal Trade Commission create regulations that protect our "ability to own and play" purchased games, according to Torres' office. "When you pay for a game, you should own it," says Torres. "Consumers must have the right to own, the right to play, and the right to transfer the games they buy. A game that can be taken away the moment a company pulls the plug is not a purchase. It is a rental disguised as a sale." The game ownership issue is longstanding on PC, which moved to digital distribution a couple decades ago, but has recently come to the foreground of public consciousness as the consoles also transition away from discs. Earlier this year, Sony announced that it will end physical disc production in 2028. The related problem of online games being decommissioned before players are done with them has also received more attention in recent years. The Stop Killing Games campaign in particular has raised the issue's profile, arguing that basic offline functionality should be expected when online games are retired. Founder Ross Scott and organizer Moritz Katzner gained an audience with the European Parliament earlier this year . As one of its prime examples of the problem, Stop Killing Games has pointed to The Crew, a Ubisoft racing game which went offline in 2024, preventing those who purchased it
-
-### Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends
-Thu, 15 Oct 2026 23:58:30 +0000 — https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/
-
-Valve has pushed a new update to its Steam client beta introducing big changes to how achievements work and how they're displayed. Developers can now create sets of achievements customized to their game, like mastering a specific character class or finishing a singleplayer campaign. Sets also distinguish base game achievements from separate DLC and seasonal sets. Previously if you unlocked all achievements for a game you'd see a nice 'n' tidy 100% in your achievements list. But if that game got DLC with new achievements, that 100% would drop accordingly. I can understand why achievement heads would be annoyed by this: what if you have no intention of playing the DLC, but want to retain 100% completion bragging rights? This update fixes that, assuming devs use it. It's a similar situation for seasonal achievements, which I can see working well with battle passes. The example Valve uses is a set called "Halloween Event Achievements" which are valid for a certain period and don't affect the achievement count of the base game. In other words: if you have the completionist itch but skip a season, it won't affect your base game stats. All these changes have prompted a refresh of the achievements page. Most achievements info is now displayed on a single page: your progress towards overall completion, and your progress towards unlocking individual achievements. (Image credit: Valve) I especially like that you can now directly compare achievements with up to three friends at once, whi
-
 ## GameSpot
+
+### All The Records GTA 6 Will Break, We Think
+Fri, 16 Oct 2026 20:27:22 +0000 — https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/
+
+After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 beat if it delivers? Lucia and Jason in GTA 6. The records The last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue over its first 24 hours and $1 billion in its first three days . Even a decade later, the game remains a sales juggernaut, eclipsing 230 million copies sold and counting . Rockstar's latest game, 2018's Red Dead Redemption II, launched with $725 million in revenue over its opening weekend . It's gone on to sell more than 87 million copies, making it one of the top five best-selling games ever . Outside of Rockstar, Bethesda's 2015 RPG Fallout 4 had a gigantic launch, shipping 12 million copies for launch day alone , generating sales in excess of $750 million. So to sum up, here are the records that GTA 6 is expected to surpass: GTA 5: $800 million in 24 hours and $1 billion in three days Red Dead Redemption II: $725 million over its first weekend Fallout 4: $750 million on launch day GTA 6 has enormous shoes to fill to match and surpass Rockstar's previous games and Fallout 4. But if Sensor Tower's data that projects 25 million preorders by launch is correct--or even close--then it should have no prob
 
 ### You Can Play WoW: Forever For Free Next Week (But There s A Catch)
 Fri, 16 Oct 2026 18:45:44 +0000 — https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/
@@ -430,12 +425,12 @@ Fri, 16 Oct 2026 13:32:33 +0000 — https://www.gamespot.com/articles/big-walk-w
 
 Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. "It has always been our intention for Big Walk to be played by groups of friends, and we know that keeping the game off Xbox runs counter to those intentions," House House wrote in a statement. "This decision means that some people will miss out on playing Big Walk with their friends, and we understand the disappointment we’re causing. We are disappointed too. We would love for people to be able to play the game on Xbox, but not until Microsoft and/or Xbox have been removed as BDS boycott targets. We’ve made this decision with the belief that meaningful change can be made in the world, that coordinated collective action can confront even the most powerful interests, and that one day, Palestine will be free." Microsoft became a priority target of the BDS initiative due to the contracts it had with the Israeli government and military. BDS has called for a boycott of the company, and by extension, all Xbox games, hardware, and subscriptions. In response to the announcement by House House, The Palestinian BDS movement wrote in a statement (via People Makes Games' Chris Bratt ) that it "wholeheartedly" supports the developers decision and that it encou
 
-### Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says
-Fri, 16 Oct 2026 13:30:39 +0000 — https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/
-
-Ken Kutaragi, the former PlayStation executive known colloquially as the "Father of PlayStation," has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028. Speaking to VGC , Kutaragi said he understands that people think they "own" games when they buy them physically. However, he said, "Nobody thinks [physical media] is necessary for a networked device like a smartphone, for example, because people feel that they will keep their content." He went on to say that he "really" does understand why some people are upset about PlayStation's decision to end discs. After all, Sony continues to sell millions and millions of physical games annually , and in some regions, sales of new games on PS5 are more than 50% physical . However, as many others have said and data shows, consumers are increasingly leaning toward digital, and that trend is only expected to continue. "I don’t think it’s economically reasonable [to continue to support discs]. Maybe it’s a mentality issue," he said. For its part, Sony said ending support for physical discs is a "natural direction" for the company as it adapts to consumer trends. One expert believes Sony killing discs is really about profitability and control . https://www.youtube.com/watch?v=4FatSqS3VYY Kutaragi went on to say he understands that PlayStation's teams now include people who came from "outside," including people from streaming companies throu
-
 ## Rock Paper Shotgun
+
+### What are we all playing this weekend?
+Sat, 17 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404
+
+Saturday's are for having your mind read. Or, at least, this Saturday is because I'm seeing Derren Brown's new show. I'm a little self-conscious about it, not because I'm worried the mentalist will hypnotise me and make me profess a false love for consoles over PC games but because my partner and her family have never seen me at a magic (or magic adjacent show). Reader, I am an awful audience member for conjurors, illusionists, and psychics. Read more
 
 ### Nonolith traps you in a living maze and challenges you to find hidden terrain magic using good old copy-paste
 Fri, 16 Oct 2026 17:44:15 +0000 — https://www.rockpapershotgun.com/nonolith-traps-you-in-a-living-maze-and-challenges-you-to-find-hidden-terrain-magic-using-good-old-copy-paste
@@ -491,9 +486,4 @@ Steam has a new feature in beta aimed at helping completionists feel like they'v
 Fri, 16 Oct 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality
 
 "The triple-A industry has become over-specialised, specialised to the point of hyper-fragility," Mark Darrah states in a foreboding interview found deep in the pages of the Summer Eternal Anthology, recently covered by Edwin . As a former executive producer at Bioware, who corralled teams on Anthem and Dragon Age , after starting his career as a programmer on Baldur's Gate , Neverwinter Nights , and Jade Empire , Darrah has seen firsthand the growing scale of video game production and the challenges it can bring. Darrah's also been vocal about the difficult development of Anthem in the past, and the struggles he had at Bioware. However, while what he says in the interview may be familiar, I found it gained sharper definition when read in light of games industry news and some of the interviews I've had with developers this year. So let me pull together some of the choice bits with the extra context from our own RPS vaults. Read more
-
-### Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled
-Thu, 15 Oct 2026 21:51:05 +0000 — https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled
-
-Welp, that was short lived. Earlier this month, Jagex made some big RuneScape announcements, namely that they're making a fourth version of the MMO (aptly, currently called RuneScape 4 ), but also the arrival of RuneScape Reignited, a new character type that would come with its own, new economy. The intention here seemingly was to bring new people in to breathe some life back into the game. This did not go down well with the old timers . And now, it's been flat out cancelled. Read more
 
