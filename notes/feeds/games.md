@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-17T13:55:40.767Z
+# Games — harvested 2026-10-17T18:49:43.480Z
 
 ## Eurogamer
+
+### Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake
+Sat, 17 Oct 2026 18:28:40 +0000 — https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour
+
+A remaster of cult 2004 RPG Vampire: The Masquerade - Bloodlines may be in the works. Read more
+
+### Sega pulls Total War: Shogun 2 - Complete Edition from sale amid AI accusations, admitting it has "fallen short"
+Sat, 17 Oct 2026 17:28:08 +0000 — https://www.eurogamer.net/total-war-shogun-2-complete-edition-pulled-from-sale
+
+Sega and Creative Assembly are temporarily removing Total War: Shogun 2 - Complete Edition from sale just days after release. Read more
 
 ### Steam's Achievement Sets beta aims to stop new content breaking your completion status
 Sat, 17 Oct 2026 13:12:01 +0000 — https://www.eurogamer.net/steam-achievement-sets-beta
@@ -52,16 +62,6 @@ Fri, 16 Oct 2026 11:09:05 +0000 — https://www.eurogamer.net/cd-projekt-red-pro
 
 CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its "biggest project to date", revealing it's taken "several good years" to reach its current state, and it's still not even in pre-production. Read more
 
-### Control Resonant becomes the fastest-selling game in Remedy's history, outpacing Alan Wake 2 and the original Control
-Fri, 16 Oct 2026 11:00:24 +0000 — https://www.eurogamer.net/control-resonant-sales-remedy-entertainment
-
-The latest game to pass a 1 million copies sold milestone is Control Resonant. Developer Remedy Entertainment broke the news yesterday, roughly three weeks after the game's release, revealing that Resonant is now the fastest-selling game in the Finnish studio's 31-year history. Read more
-
-### Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to "a ton" of player feedback
-Fri, 16 Oct 2026 09:07:10 +0000 — https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback
-
-RuneScape : Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed. Read more
-
 ## GamesIndustry.biz
 
 ### A hardware market freeze could transform the industry forever | Opinion
@@ -98,11 +98,6 @@ German developer Fishlabs has announced workforce reductions impacting its devel
 Fri, 16 Oct 2026 08:22:20 +0000 — https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
 
 Sega and Creative Assembly have temporarily withdrawn Total War: Shogun 2 &ndash; Complete Edition from sale in response to concerns about AI upscaling and other performance issues. Read more
-
-### DayZ creator Dean Hall releases open-source game development framework Brutal
-Thu, 15 Oct 2026 14:31:28 +0000 — https://www.gamesindustry.biz/dayz-creator-dean-hall-releases-open-source-game-development-framework-brutal
-
-Industry veteran Dean Hall has rolled out Brutal, an open-source game development framework made in collaboration by two of his companies, Ahwoo and RocketWerkz. Read more
 
 ## VG247
 
@@ -172,10 +167,7 @@ Vice City is real now. It was obvious already, but with an outrageous marketing 
 
 ## Game Developer
 
-### Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam
-Thu, 15 Oct 2026 14:00:00 GMT — https://www.gamedeveloper.com/pc/caves-of-qud-diaspora-breaks-new-ground-by-being-the-first-early-access-dlc-release-on-steam
-
-The roguelike RPG is no longer in Steam Early Access, but its upcoming DLC Diaspora will be, marking untrodden ground for the in-development program.
+_Nothing in the last 48 hours._
 
 ## VGC
 
@@ -209,74 +201,94 @@ Fri, 16 Oct 2026 08:53:47 +0000 — https://www.videogameschronicle.com/news/cod
 
 The Call of Duty game may not be a Black Ops or Modern Warfare… Source
 
-### WWE 2K26 is collaborating with Capcom for a DLC pack adding five WWE wrestlers as Street Fighter action figures
-Thu, 15 Oct 2026 15:16:19 +0000 — https://www.videogameschronicle.com/news/wwe-2k26-is-collaborating-with-capcom-for-a-dlc-pack-adding-five-wwe-wrestlers-as-street-fighter-action-figures/
-
-The WWE 2K26 X Street Fighter Elite Pack adds new special moves and cosmetic parts… Source
-
-### The Call of Duty tax means games media doesn t cover COD the way it used to, Activision says
-Thu, 15 Oct 2026 14:22:08 +0000 — https://www.videogameschronicle.com/news/the-call-of-duty-tax-means-games-media-doesnt-cover-cod-the-way-it-used-to-activision-says/
-
-Its large audience has "become status quo" and people forget the work that goes into each entry, it' Source
-
-### Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art
-Thu, 15 Oct 2026 14:15:33 +0000 — https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/
-
-The original 2011 was pulled from sale due to the new version of the game being released… Source
-
 ## Polygon
 
-### The Best Transformers Movie That No One Watched Finds New Life on Streaming
-Sat, 17 Oct 2026 13:35:18 GMT — https://www.polygon.com/best-transformers-movie-now-streaming-netflix/
+### The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original
+Sat, 17 Oct 2026 18:00:18 GMT — https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/
 
-Under director Michael Bay, Paramount built a billion-dollar franchise across five live-action Transformers movies . But after Bay's final turn behind the camera, 2017's Transformers: The Last Knight , the robots-in-disguise franchise started to go in unpredictable new directions. The 2018 prequel Bumblebee was, unlike Bay's films, a critical and commercial hit, though it didn't hit the billion-dollar highs of earlier films. 2023's Transformers: Rise of the Beasts failed to turn the franchise around the way Paramount hoped.
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
 
-### Early Modern Warfare 4 Consensus Unanimous That It Features On Of The Best COD Campaigns Ever
-Sat, 17 Oct 2026 13:27:21 GMT — https://www.polygon.com/modern-warfare-4-campaign-early-reactions/
+### The 8 Best Castlevania Games, Ranked
+Sat, 17 Oct 2026 16:01:19 GMT — https://www.polygon.com/best-castlevania-games-ranked/
 
-The Call of Duty: Modern Warfare 4 campaign released on Oct. 16 for those who pre-ordered the game digitally, so first reactions to it are finally rolling in. So far, sentiment around this part of the new Call of Duty is positive, with many fans praising the campaign.
+Castlevania is one of the most beloved franchises in video game history, despite a period of 13 years when we didn’t see a new installment until the launch of Castlevania: Belmont’s Curse earlier this week.
 
-### The 8 Best Vampire Books Not Written by Anne Rice
-Sat, 17 Oct 2026 13:00:19 GMT — https://www.polygon.com/8-best-vampire-books/
+### D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems
+Sat, 17 Oct 2026 16:01:19 GMT — https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/
 
-In vampire stories, the immortal creatures of the night often trace their lineage back centuries. The authors of these stories are themselves part of a creative bloodline that took myths about blood-sucking monsters and turned them into timeless stories of horror . The genre’s foundations were laid by Sheridan Le Fanu's 1872 novella Carmilla and Bram Stoker’s 1897 novel Dracula , but Anne Rice is the undisputed master of the modern vampire story.
+Unfortunately for Kellnor, Azuredge demands that its wielder remain virtuous, so sharing a wielder with an evil sword was non-negotiable.
 
-### Netflix’s 'Dealies' Will Be a More Comedy-Focused Joe Bennet Series
-Sat, 17 Oct 2026 12:30:18 GMT — https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/
+### True Detective Season 5 to feature the best starring duo since Matthew McConaughey and Woody Harrelson
+Sat, 17 Oct 2026 15:48:31 GMT — https://www.polygon.com/true-detective-season-5-casting/
 
-Joe Bennet’s next animated series is shaping up to be a little different from his previous work on Scavengers Reign and Common Side Effects . The upcoming Netflix series Dealies will focus on the strange characters working at a big-box store, with an antique shop across the street providing some competition.
+True Detective fans just got some exciting news: two of the main cast members and the setting of the show's fifth season have been revealed. The casting announcements are especially exciting, as it has been confirmed that Nicolas Cage and Antonio Banderas will star as the headlining duo in Season 5.
 
-### Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable
-Sat, 17 Oct 2026 12:00:18 GMT — https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/
+### US Representative Introduces Plan To Preserve Digital Game Ownership
+Sat, 17 Oct 2026 15:30:47 GMT — https://www.polygon.com/power-to-the-players-act-ritchie-torres/
 
-By the time Grand Theft Auto 4 launched in 2008, Rockstar had carved itself an unassailable niche and a reputation for innovation. And yet for all that praise, it was pretty easy to guess what a new GTA game would be like. The formula changed little from the time the series went 3D. Some vaguely sympathetic character would encounter hardship and then embrace a life of crime as a little treat. That life might look different from game to game, but the general idea remained the same. GTA 4 defied that pattern, and it's one of the reasons it's still an excellent game.
+United States Representative Ritchie Torres will introduce the Power To The Players Act . This legislation is being made to support consumers' rights in a way that grants gamers ownership of their digital games. If successful, the Federal Trade Commission could then establish regulations to prevent companies from delisting games, shutting down servers early in a game's life, and easily revoking digital licenses.
 
-### New Street Fighter Movie Ends on the Strangest Song Choice Possible
-Sat, 17 Oct 2026 11:30:18 GMT — https://www.polygon.com/street-fighter-movie-2026-ending-its-raining-men/
+### 22 Years Ago, One Perfect Twist Changed TV's Greatest Sci-Fi Series Forever
+Sat, 17 Oct 2026 15:00:19 GMT — https://www.polygon.com/lost-walkabout-locke-twist-22-anniversary/
 
-The soundtrack to Capcom and Legendary's new Street Fighter movie is nothing if not eclectic. The film's music choices skew heavily toward the '90s, during which Street Fighter is set, with songs like Tupac's "Ambitionz Az A Ridah," Soundgarden's "Black Hole Sun," and Meredith Brooks' "Bitch," but it's not afraid to dip into other decades. It's understandable why 50 Cent's "Many Men (Wish Death)" plays during a fight featuring boxer Balrog (who is played by 50 Cent), even if the song feels temporally out of place.
+At the time, Lindelof was discussing his new series, Lost — which just four episodes in, had pulled off a mind-blowing twist arguably on the same level as The Sixth Sense . For its first few episodes, Lost seems like an ambitious survival drama with a dash of horror. Oceanic Flight 815 crashes on a seemingly deserted tropical island. Its survivors contend with dwindling supplies, a rampaging monster, an inexplicable polar bear, and the unfortunate realization that rescuers are probably searching a thousand miles away from where they actually crashed.
 
-### Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series
-Sat, 17 Oct 2026 10:00:18 GMT — https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/
+### Star Wars Zero Company Finally Makes Starting A New Campaign Worth It
+Sat, 17 Oct 2026 14:54:09 GMT — https://www.polygon.com/star-wars-zero-company-second-patch-reaction/
 
-Channel Zero embraced a wide gamut of horror tales, with each season focused on a different creepypasta, but season 4, "The Dream Door," is a particularly engrossing watch. Based on " Hidden Door ," a short story written by Charlotte Bywater and originally published on the subreddit r/nosleep, this six-episode saga delves into the terror of eerie liminal spaces, while mixing in a marital drama that’s more sinister than it appears at first glance.
+I've been waiting for a reason to start a new playthrough of Star Wars Zero Company ever since I beat the game in early September. EA and Bit Reactor have finally given me a reason to come back to the game, as Patch 1.2 added a lot of new gameplay settings that will allow me to tweak my next playthrough's difficulty to my liking.
 
-### 37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip
-Sat, 17 Oct 2026 09:00:18 GMT — https://www.polygon.com/garfield-alone/
+### Analogue Brings Back Its Perfect SNES And Sega Genesis Replacements
+Sat, 17 Oct 2026 14:34:21 GMT — https://www.polygon.com/analogue-super-nt-mega-sg-return/
 
-If you pay attention to online pop culture, especially on social media and microblogging platforms, you can often see some version of Munroe's lucky 10,000 theory in real time, as new audiences constantly rediscover old material.
+As original hardware ages, playing retro games becomes less practical for many reasons. Analogue strives to keep retro games alive by providing modern hardware capable of running games that are decades old. It did so with the launch of the Super Nt and Mega Sg in 2017 and 2019, respectively. If you missed out on these systems back then, you now have another chance to acquire them with the release of their upgraded versions: the Super Nt+ and the Mega Sg+.
 
-### 26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple
-Sat, 17 Oct 2026 08:00:18 GMT — https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/
+### 2026 Has Been a Surprisingly Excellent Year for Shooters
+Sat, 17 Oct 2026 14:30:19 GMT — https://www.polygon.com/2026-year-in-shooters/
 
-It comes at the end of an episode that, for all intents and purposes, is pure setup. Spike (James Marsters) lounges morosely in his crypt, harmless after having a chip installed in his brain that prevents him from hurting humans. Buffy (Sarah Michelle Gellar) kicks down his door and announces that she’s done with him. She’s killing him once and for all.
+All the way back in January, it seemed like 2026 might be a rough year for fans of shooters. Highguard ’s launch and almost immediate delaunch created an anxiety around the genre that was hard to shake. Scrutiny around Marathon in the lead-up to its launch doubled that uncertainty, leaving some to wonder if the shooter genre — at least in its trusty live-service form — was going out of fashion.
 
-### Event Habitat Dex and Pokédex list in Pokémon Pokopia
-Sat, 17 Oct 2026 04:01:19 GMT — https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/
+### Whalefall Isn't Really About a Whale, Says Josh Brolin
+Sat, 17 Oct 2026 14:00:18 GMT — https://www.polygon.com/whalefall-interview-josh-brolin-austin-abrams-brian-duffield-daniel-krause/
 
-Pokémon Pokopia has limited-time events that occur for a few days before disappearing, though you can time travel back to them, if you miss out on any. Some events feature Pokémon and habitats you can only unlock via the event, so you'll want to make sure you're paying attention to any guests who are the "talk of the town."
+While at New York Comic Con 2026, a week before the film’s release, Polygon caught up with stars Josh Brolin and Austin Abrams, as well as Kraus and Duffield, to talk about the biggest challenges of bringing this book to the big screen, as well as what the movie is really about.
 
 ## PC Gamer
+
+### 'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm
+Sat, 17 Oct 2026 18:34:02 +0000 — https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/
+
+Every time I check in on Star Wars, there's a new stupid little creature (colloquially known as a Glup Shitto) everyone's into. The latest of these is Biddy Blas, a braggadocious pod racer and mama's boy who stands out for his shrill Huttese quips. "Ding dong pookie, ding dong," he crows. "Scrib doon!" If you love that, here's a video of him doing a little victory dance. Biddy Blas victory dance https://t.co/aVIAOzSMpE October 14, 2026 If you hate that, here's a video of him dying in a fireball. Oh my God I killed Biddy Blas, I'm so sorry wawa 😭 https://t.co/tNVYHbDxGp October 15, 2026 He's become the subject of meme after meme and people generally like the little brat. The voice actor for Biddy Blas, a British wrestler named Richard Summers-Calvert, has responded to all the love—and as you might guess, he basically looks like the opposite of Biddy Blas. All the attention has left him "overwhelmed and overstimulated," as he said in a video he shared on X , and he's hoping to show up for new fans of the Shitto du jour at cons and the like. In a follow-up video , he said he had some "good news" that he wasn't ready to announce just yet, and thanked all the Biddy-heads for the doors a sudden spotlight like this opens. "I know you're doing it for Biddy. I know you're doing it for him. But I benefit from him as well … I appreciate all the love. And hate, and frustration." It is a racing game, after all. This all seems like further proof that the true heart of Star Wars has never 
+
+### To help America, I used Crusader Kings 3 to figure out how to remove a doddering, senile lunatic from power
+Sat, 17 Oct 2026 18:00:00 +0000 — https://www.pcgamer.com/games/strategy/to-help-america-i-used-crusader-kings-3-to-figure-out-how-to-remove-a-doddering-senile-lunatic-from-power/
+
+I heard it on the wireless: election fever is sweeping America. The world's loudest democracy is headed to the ballot box to vote in its next slate of soda jerks and Chevrolets and whatever else it is they have over there. It's all very exciting. Can I help? Yes. I've already solved my own country's politics , now it's time to help the benighted and backward people of places like "Connecticut" and "the Oklahoma Panhandle"—fantasy names from a land beyond knowing. People love it when foreigners tell them how to do their own domestic politics, and especially when they have as robust a methodology as I have: a copy of Crusader Kings 3 and most of the DLC. Using Paradox's premier 1066 simulator, I will ascertain the best way to remove a burrowed-in leader from power. Which real-life figure is this a videogame analogue for? Don't worry about it, don't email me about it, and don't launch a cruise missile at my house. Don't email me about how the midterms don't choose the president either. I don't know what those words mean. King of New York I first had to create an accurate, 11th-century simulacrum of an American president. None of CK3's historical rulers quite fit the bill, so I decided to create a ruler from scratch. I created an 80-year-old lecher named Wenzel and put him in charge of the Holy Roman Empire. His defining trait was 'lunatic'. (Image credit: Paradox) So that was sorted. Next, I needed a position from which to actually act in the world. I needed to be someone who co
+
+### Discussion time: Do you think zone chats in MMOs are forces for good, or evil?
+Sat, 17 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. Ah, zone chats in MMOs—trade and general chats, /shouts and /yells. Intended as a way to render the social glue that binds these videogames together, they are often instead a tableau for (and I say this somewhat affectionately) absolute lunacy, pock-marked with some of the most vile verbiage you'll see online. Take, for instance, the time-honoured tradition of "Barrens Chat" in World of Warcraft. Combine a big zone that spans around 10-15 levels along with proximity to a major city, and you get a certain kind of verbal hooliganry that, in my journeys through WoW: Forever, I was actually pretty nostalgic for. I mean, sure, the Chuck Norris jokes have gotten a smidge old. But while collecting Zhevra Hoofs, I would find myself possessed to ask Barrens Chat philosophical questions, and while I never received much in the way of wisdom, responses were always entertaining. I'm not so fond of trade chat, though, which—at least on the horde side of things—has mostly been dominated by a bot by the name of Margrave Tyrael . Who, I kid you not, was literally sitting there for days spitting out the same automated messages, questioning why Blizzard was 
+
+### Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year
+Sat, 17 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/
+
+Per the United Wizards of the Coast Union (UWOTC-CWA) account on X, WoTC is acting in an entirely unsurprising manner: "Yesterday, Wizards informed us that it doesn’t intend to voluntarily recognize the D&D or Studio X units of our union ahead of a vote. We remain committed to creating a workplace focused on wellness, transparency, and collaboration by winning our coming election." A union composed of employees from the Magic: The Gathering Arena team unionised back in June of this year , giving WoTC until May to formally recognise it. Obviously, it didn't. Later in the same month, WoTC sent physical letters to members of the company encouraging them not to go through with it on the vote—and while WoTC did technically adhere to the The National Labor Relations Act, it did also not-so-subtly imply that its current benefits would be "on the bargaining table for both parties to negotiate". These letters were also allegedly accompanied by daily emails to employees. Basically, it should not come as a surprise that Wizards isn't intending to recognize the full United Wizards of the Coast Union—a coalition now formed of members in both the D&D team and Studio X (Magic: The Gathering's creative staff)—either. In a statement sent to Wargamer , and circulated to employees before that, WoTC stated it was not a fan in the ways it is legally allowed to do so. That being, lots of circular talk about how everyone has the right to unionise: "We are best able to keep building great games and 
+
+### This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism
+Sat, 17 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/
+
+Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . I am a stakhanovite, a hero-worker. My productivity is not measured in grams but kilos. My working hours have been divided and subdivided into ultimate efficiency: not a nanosecond is wasted. That is, in Flesh Grinding , whose demo I've been mucking about with. Not in real life, where my working hours consist mostly of staring at a blank Google Doc and wondering if I'm a moron who could never actually write at all. (Image credit: Molter Games) Anyway, Flesh Grinding, which releases in Q4 2026—not to be confused with Fleshgrinder , which releases in Q1 2027; good luck—is a labour simulator. It's also one of those PS1-style horror games that are so fashionable right now. But mostly it is a game about working. Working, specifically, with flesh—great, distended chunks of the stuff that plop down from the ceiling and amass in shiny piles. You must pick them up, walk them to your grinder, then turn them to mince. You must do this until your IV drip runs out of fluid, at which point it is time to return to your home and upgrade yourself, spending the millilitres of blood you scrounged from your grinding on upgrades. Hit y
+
+### Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore
+Sat, 17 Oct 2026 15:45:38 +0000 — https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/
+
+Ghostwire: Tokyo, Tango Gameworks' spooky, neon-drenched action-adventure game, is now officially a good old game. Granted, it's not that old, but 'good' seems about right given that contributing writer Imogen Mellor scored it a 72 in her review . But what I mean is that it's joined GOG's Preservation Program . If you're wondering why a game from 2022 would need to be preserved already, well, it kind of doesn't. You may be thinking the game is finally free from its seemingly arbitrary implementation of Denuvo , but that was actually removed shortly after it was added . What this release does is remove Bethesda.NET integration (providing any extra goodies on your first launch of the game) and come with a promise from GOG that any stability issues that arise as decades pass and operating systems change will be addressed in future patches. That may just come into play given that Tango Gameworks would be closed right now if Xbox's sudden closure of the studio hadn't been canceled out with an acquisition by PUBG owner Krafton . It's worth noting that the game still appears to be published by Bethesda Softworks, so if you're trying to avoid Microsoft products for any genocide-related reasons , you'll have to weigh that as a consideration. As for Ghostwire itself, it proved surprisingly popular with over 6 million players . We called it a great game that Elden Ring overshadowed around release alongside the quietly adored Teardown and Sifu. Like its left-field follow-up Hi-Fi Rush, G
+
+### The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode
+Sat, 17 Oct 2026 13:53:20 +0000 — https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/
+
+I've nothing against games that feature simulated animal petting, but it's never been something I've considered buying a game specifically for. Sure, it's nice when your character can stroke a virtual dog or fuss with a clump of polygons shaped like a cat, but it rarely amounts to more than a canned animation. That said, I am suddenly more tempted to shell out on The Blood of Dawnwalker , as Rebel Wolves has announced that the next update to its vampire RPG will introduce "directional animal petting". The Blood of Dawnwalker already features a directional combat system in the vein of Kingdom Come: Deliverance . And this system lies at the heart of the animal petting being added to version 1.1 of the vampire RPG—according to an update the developer posted on X : "What happens when you merge a directional combat system with an ability to pet dogs and cats?" Rebel Wolves asked. "Directional. Animal. Petting." Sadly, Rebel Wolves didn't provide any further detail about this system. But it did offer plenty of insight into what else is coming with update 1.1. Aside from being able to stroke cats at different angles, perhaps the most significant addition is a new Story mode. This will feature an "additional combat assist" for players who aren't interested in mastering the game's swordplay, letting them focus mainly on enjoying the narrative and making decisions. It's worth noting this will not replace the existing Story mode outright. That difficulty setting will still exist, but un
 
 ### Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'
 Sat, 17 Oct 2026 12:04:00 +0000 — https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/
@@ -302,41 +314,6 @@ We learned last week that a Cyberpunk 2077 movie is in the works , an announceme
 Fri, 16 Oct 2026 20:07:29 +0000 — https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/
 
 What's it take for a game to snare me? Over the Hill is a co-op (or singleplayer!) offroading adventure that launched on Steam this week , and even just playing a bit of it has made me determined not to just play more but to 100% it. That's a feeling I haven't had about a game in a while. Here's what my brief excursion into Over the Hill has already shown me: A beautiful open world Weather conditions and a day/night cycle Sweet-looking vehicles Challenging driving physics Secrets to find Cosmetics to collect Vehicle upgrades to unlock Wildlife to photograph I'll be honest, it's the last one that really got me to commit to hundred-percenting it. I was driving slowly along up a bumpy trail, stopping occasionally to pull my little Jeep up a hill with my winch, when I suddenly heard the familiar croak of a raven. I zoomed out my view and eventually spotted the bird flapping over the trees nearby. I switched to camera mode and took a picture of it. Nice. (Image credit: Funselektor Labs Inc.) But a moment later I saw the flash of something slinking through the tall grass near my Jeep, and after following it with my camera for about a minute, it finally stepped out into full view. A coyote! I photographed it as well, and decided right then I was going to find and document every single animal in the game. And I'm enjoying driving around in Over the Hill so much, I think I'm gonna do it all: find every point of interest, unlock every vehicle and cosmetic, acquire every upgrade, and tr
-
-### 'We f**ked up': 1 day into Wardogs Season 2, the Blue team bribery bonus is being dropped
-Fri, 16 Oct 2026 19:42:52 +0000 — https://www.pcgamer.com/games/fps/we-f-ked-up-1-day-into-wardogs-season-2-the-blue-team-bribery-bonus-is-being-dropped/
-
-One day into Wardogs Season 2, Bulkhead Interactive has decided to scrap the bribery plan it announced last week as a way to help convince players to join the Blue team. The problem isn't that the plan didn't work—it actually worked far too well. THE PLAN: "Lonestar cash and XP bonus. Season 2 only. New Bakurani spawn." "We're looking at how we can help the win rate of a certain team." -Bulkhead CEO Joe Brammer (via "Road to Season 2" devlog) THE REALITY: "We were wrong. We fucked up," Brammer admitted in a new video (via RPS). Blue team is now winning "by far, the most," Brammer said, even though the actual boosts are not terribly substantial: 5% Lonestar cash and 2.5% XP. "Median" players didn't get much from those percentages, but Bulkhead found that "top tier" players were seeing significant boosts Bottom line: it's gone. "We're removing the Blue XP bonus, the cash bonus. We were wrong," Brammer said. Bulkhead co-founder Howard Philpott added that the studio thought Blue team bonus might work out this way, but said "I don't think we expected it to be this much of a swing." I can't say I'm terribly surprised by the outcome. I'm not a Wardogs player, but I have been around long enough to know how these things go: If you dangle a competitive edge in front of gamers, they're going to jump for it. Percentage boosts are especially risky because they're performance-based and so much more likely to go spinning out of control, especially in the hands of, as Brammer put it, "tryhar
-
-### My career as a weed farmer was derailed by my unslakeable lust for golf
-Fri, 16 Oct 2026 17:06:21 +0000 — https://www.pcgamer.com/games/grand-theft-auto/my-career-as-a-weed-farmer-was-derailed-by-my-unslakeable-lust-for-golf/
-
-Los Santos Customs I'm modding GTA 5 every day in a quest to either transform it into a PC version of GTA 6 or break it entirely. Come back tomorrow to find out what new horrible thing I've done to Rockstar's baby, or check out what I got up to earlier . I'll be honest, I wasn't sure if today's mod counted . A peek behind the curtain: sometimes I select a mod to try for this feature and it doesn't work. Just plumb does not function. In those cases, I discard it and find another one. It's hard to write something about nothing. Today's mod did not work. Mostly. I installed WeedFarm (based on PlantationV) , which should, in theory, let you "Grow, harvest, and sell weed in GTA 5 with a full-featured farming system." It does not do this. The farms? Present. The dealer you sell to? Also there. The various individual particulars of the mod, in general, are all correct. And yet try as I might, I cannot harvest a single paltry bud. I believe this is due to golf and also a jetpack. You see, the controls from WeedFarm (based on PlantationV) are apparently unalterable. Although it comes with an .ini file—which with other mods will often let you rebind keys—it has no obvious means of changing its controls. Bringing up its uber-menu is bound to F3. Also bound to F3: my street golfing mod and jetpack. This is an issue, as every time I attempt to bring up WeedFarm (based on PlantationV)'s master menu, I start golfing and the game asks if I want to equip a jetpack. I don't! I want to farm wee
-
-### Call of Duty: Modern Warfare 4 review-in-progress: A campaign you shouldn't skip
-Fri, 16 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-review-in-progress-a-campaign-you-shouldnt-skip/
-
-As I watched the credits roll on Modern Warfare 4's campaign, a sobering thought infiltrated: I've been playing Call of Duty for over 20 years—two-thirds of my life. While I consider it primarily a multiplayer game these days, what I loved about Call of Duty all that time ago was its campaigns. In 2006, as a shy fourth grader at a new school, I made my first friend because we both played Call of Duty 3 on the Wii and spent a week recounting cool moments from the campaign over lunch. By 2007 (the year of Modern Warfare, of course), our lunch table was losing its collective shit over the part where Captain Price slides you the pistol right as he (as we thought at the time) dies. As memorable as that sequence was, it marked the moment Call of Duty became globe-trotting romps about superhuman, super serious operatives who prevent WW3 before breakfast. It was pretty badass at the time, but what they gained in the sort of spectacle that makes great Sunday Night Football ads, they lost in relatability. (Image credit: Activision Blizzard) Sure, those early WW2 campaigns were shlocky riffs on movies, but they starred normal people who primarily wanted to go home—grizzled sergeants and green privates who fended off helplessness with humor. They depicted large-scale offensives won by smaller contributions. That's the energy that Infinity Ward tries to harness again in Modern Warfare 4. At times, it totally works. This is the most fun I've had with a Call of Duty campaign in years, lendi
-
-### Asus not only replaced an RTX 4080 Super with an RTX 5080 but also swapped it *again* just to give this lucky Redditor one that matches their all-white build
-Fri, 16 Oct 2026 16:29:30 +0000 — https://www.pcgamer.com/hardware/graphics-cards/asus-not-only-replaced-an-rtx-4080-super-with-an-rtx-5080-but-also-swapped-it-again-just-to-give-this-lucky-redditor-one-that-matches-their-all-white-build/
-
-UPDATE: ASUS actually approved the white RTX 5080 I asked for in a RMA from r/ASUS The phrase 'RMA' is likely to send shivers down many a spine, especially when it concerns something like a graphics card. Returning a faulty component can often be a 'cross your fingers and hope for the best' kind of deal, so naturally I am pleasantly— very pleasantly—surprised to hear Asus has enough of a heart to not only give one lucky Redditor an upgrade but also get the colour right. According to the Redditor's original post about the issue, they sent their white Asus ROG Strix RTX 4080 Super OC in for RMA and were sent back a black Asus TUF Gaming RTX 5080 when they discovered the former couldn't be repaired. That's a win, right? Well, not fully , because the Redditor wanted a white one, like their original RTX 4080 Super, to match their all-white build. So, what's to be done about that? Naturally, asking for them to swap it : "After about 6 weeks of emails and escalating the case to higher-level management, Asus finally approved the exact card I asked for: the ROG Astral RTX 5080 White OC. I sent the TUF back, and they even upgraded the shipping to FedEx Standard Overnight at no extra cost. The card finally arrived!" This is an RMA result, if ever I've seen one. It might seem a bit much, but to be honest if you have an all-white build and an expensive GPU that fails, I can see why it makes sense to at least attempt to get a replacement just right. Funnily enough, I can speak to this very
-
-### Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'
-Fri, 16 Oct 2026 15:52:39 +0000 — https://www.pcgamer.com/software/linux/linux-kernel-drops-ai-contribution-disclosure-rule-as-linus-torvalds-says-banning-the-tech-would-be-utterly-stupid/
-
-The Linux kernel has dropped a rule, implemented in January this year, that required contributors submitting code to the project to explicitly declare any usage of AI tools in that code's creation. At the start of this year, the Linux project added lines to its documentation noting that "When AI tools contribute to kernel development, proper attribution helps track the evolving role of AI in the development process… If you used any sort of advanced coding tool in the creation of your patch, you need to acknowledge that use by adding an Assisted-by tag." Now, as reported by The Register , the project's maintainers have decided the tag is no longer necessary, and it's been removed from the relevant docs. Why? Well, to hear Linux creator and lead maintainer Linus Torvalds put it in response to concerns raised about the tag's removal by contributor Laurent Pinchart, because it doesn't really communicate anything of value about the code it's appended to. "I don't understand this whole idiotic concept of 'don't use AI for X,'" Torvalds wrote in a post to the kernel mailing list. "The kind of expectations *I* have is that people do their best and I expect people to understand what they are doing. But that understanding has very little to do with what tools they use." In other words, there's good code—which a creator knows well and understands—and bad code—which a creator has more or less barfed out—and both can be made with the help of AI tools. So in Torvalds' view, there's not rea
-
-### Windows Settings might become more useful and get quicker updates if this new hidden app is anything to go by
-Fri, 16 Oct 2026 15:25:08 +0000 — https://www.pcgamer.com/software/windows/windows-settings-might-become-more-useful-and-get-quicker-updates-if-this-new-hidden-app-is-anything-to-go-by/
-
-Microsoft has been maintaining two separate Windows options menus for generations now, but a new test project spotted and investigated by Windows Latest might pave the way for a single, discrete bit of software that can do it all. What looks like a new Windows Settings app has stealth dropped in on the Microsoft Store, and that alone might make it easier to update with new features and hopefully finally consolidate everything Control Panel does in one place. Windows Latest discovered 'Project Odeon' in the Store, which shares the same icon as Windows Settings and resembles the usual Settings interface. Finding and installing the app apparently requires Windows 11 build 26100 or newer. I tried enabling developer mode and finding the app but I still couldn't see it, so perhaps it also requires you to be using an Insider build, or be based in a certain region. It seems like there's a little bit of jank to the app at this point, as it shows different settings, unfinished pages, and some greyed out options, but that's to be expected for an early test application. Other areas, however, seem more extensive than the regular Settings app. For instance, towards the bottom of the Display settings page, you can see things such as your monitor's display path, HDR support, and SDR white levels. WindowsLatest looked into the executables the app uses and calls on, and discovered the base executable can call on helper ones which require extra permissions to run. They seem to be modular add-on
-
-### Modern Warfare 4 release times and early access explained
-Fri, 16 Oct 2026 12:44:53 +0000 — https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/
-
-Key deets 💀 If you preorder Modern Warfare 4 digitally, you'll get early access to the campaign starting October 16 and DMZ on October 20. 💀 The full release is on October 23 at midnight local time. 💀 PC preload is already live. Call of Duty: Modern Warfare 4 is releasing soon, but also features early access for many of its modes, including its campaign and the hotly anticipated revival of the DMZ extraction shooter. To get early access to both the campaign and DMZ, you need to preorder the game digitally, otherwise, you'll be able to play on October 23. Activision hasn't revealed an exact time for the campaign early access unlock on the 16th, but the PC preload is already live. There also hasn't been any official info about the DMZ early access release time on October 20. However, some sources predict it will be 10 am PT (1 pm ET/6 pm BST). What we do know is that: Modern Warfare 4 will release on October 23 at midnight local time, wherever you are. You'll need 115GB for the game's storage and you can find the official system requirements to run it on the Steam page. As we draw closer to the DMZ unlock and the full release, I'll update this article with any official time announcements that Activision drops. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
 
 ## GameSpot
 
@@ -385,11 +362,6 @@ Fri, 16 Oct 2026 15:07:49 +0000 — https://www.gamespot.com/articles/next-red-d
 
 Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game. The company said in its memo that, if Rockstar is telling the truth that GTA 6 did not in fact cost $1.5 billion to make , then the studio may be able to get a new Red Dead game out sooner than anyone might have imagined. Citi said a new Red Dead game releasing in 2027 or 2028 "may not be unreasonable," according to Yahoo Finance . A scene from Red Dead Redemption II. The bank might be saying this, but it would be incredibly shocking, for a number of reasons, if a new Red Dead game releases as soon as next year. There are historically years between major Rockstar releases, and even longer gaps between entries in the same series. For example, Red Dead Redemption launched in 2010, followed by GTA 5 in 2013, then Red Dead Redemption II in 2018, and now GTA 6 in 2026. Another notable element to consider is how Rockstar makes games today. The company tried to develop GTA 6 and Red Dead Redemption II concurrently, and if it was able to pull it off, Rockstar claimed it would have been able to release GTA 6 years earlier . However, Rockstar deemed this too ambitious, with studio head Rob Nelson opting to reassign staff from GTA 6 to Red Dead Redemption II to help get it out the door. At one point in time, developed multiple games concurrently across offices, but now, Rockstar’s network 
 
-### Street Fighter Could Be In For A Rough First Round At The Box Office
-Thu, 15 Oct 2026 14:31:35 +0000 — https://www.gamespot.com/articles/street-fighter-movie-box-office-results/
-
-Update: Early Thursday results are in, and Street Fighter has gotten off to a $4 million start at the US box office, per Deadline . That's below Mortal Kombat 2's Thursday start ($5.2 million), but for perspective, Sonic the Hedgehog made even less on its first day ($3 million) and still became a hit. Could Street Fighter follow the same trajectory? This first weekend should be a solid indicator if it's a hit or a miss. Original story continues below Street Fighter is officially spin-kicking its way into theaters this week, starting with previews on Thursday and leading into the crucial opening weekend. It's the second movie based on a Capcom IP to make its way to the silver screen this year--following Zach Cregger's Resident Evil film in September--but so far, early estimates for the martial arts extravaganza aren't looking too healthy. According to Deadline's box-office-predictions , Street Fighter is expected to take in under $70 million worldwide. Of that figure, it's estimated to open with a US box-office take in the high 30 millions on 3,500 screens, and a take in the mid-30 millions internationally. Typically, movies need to make at least double their production budget back to be considered successful, and with Street Fighter costing $82 million to produce, it doesn't look like it'll recoup its expenses in its first weekend. There's still a chance it could be a small hit if word of mouth drives audiences to theaters, and in terms of competition, Street Fighter has a fe
-
 ### This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas
 Fri, 16 Oct 2026 13:52:33 +0000 — https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/
 
@@ -400,7 +372,22 @@ Fri, 16 Oct 2026 13:32:33 +0000 — https://www.gamespot.com/articles/big-walk-w
 
 Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. "It has always been our intention for Big Walk to be played by groups of friends, and we know that keeping the game off Xbox runs counter to those intentions," House House wrote in a statement. "This decision means that some people will miss out on playing Big Walk with their friends, and we understand the disappointment we’re causing. We are disappointed too. We would love for people to be able to play the game on Xbox, but not until Microsoft and/or Xbox have been removed as BDS boycott targets. We’ve made this decision with the belief that meaningful change can be made in the world, that coordinated collective action can confront even the most powerful interests, and that one day, Palestine will be free." Microsoft became a priority target of the BDS initiative due to the contracts it had with the Israeli government and military. BDS has called for a boycott of the company, and by extension, all Xbox games, hardware, and subscriptions. In response to the announcement by House House, The Palestinian BDS movement wrote in a statement (via People Makes Games' Chris Bratt ) that it "wholeheartedly" supports the developers decision and that it encou
 
+### Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says
+Fri, 16 Oct 2026 13:30:39 +0000 — https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/
+
+Ken Kutaragi, the former PlayStation executive known colloquially as the "Father of PlayStation," has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028. Speaking to VGC , Kutaragi said he understands that people think they "own" games when they buy them physically. However, he said, "Nobody thinks [physical media] is necessary for a networked device like a smartphone, for example, because people feel that they will keep their content." He went on to say that he "really" does understand why some people are upset about PlayStation's decision to end discs. After all, Sony continues to sell millions and millions of physical games annually , and in some regions, sales of new games on PS5 are more than 50% physical . However, as many others have said and data shows, consumers are increasingly leaning toward digital, and that trend is only expected to continue. "I don’t think it’s economically reasonable [to continue to support discs]. Maybe it’s a mentality issue," he said. For its part, Sony said ending support for physical discs is a "natural direction" for the company as it adapts to consumer trends. One expert believes Sony killing discs is really about profitability and control . https://www.youtube.com/watch?v=4FatSqS3VYY Kutaragi went on to say he understands that PlayStation's teams now include people who came from "outside," including people from streaming companies throu
+
 ## Rock Paper Shotgun
+
+### As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games
+Sat, 17 Oct 2026 17:04:18 +0000 — https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games
+
+I've taken a habit, recently, to proclaim my desire to explode in lieu of anything more realistically violent I could wish upon myself when I feel stressed. And, in what would likely be more concerning if I were a sentient bomb talking to a bomb diffusal squad, I've been saying that a lot lately, primarily because of the copious amounts of AI nonsense I've been seeing&hellip; everywhere. Epic Games , the ever-boycottable company called Microsoft , the decompiling community , the poison has found its way into everyone's veins and it's making me want to, say it with me now, explode! So you can imagine my relief to hear a developer say they don't think AI will make a massive impact. The developer? Perhaps surprisingly, Konami. Read more
+
+### Oh dear, half a year after launching Samson, Swedish developer Liquid Swords have filed for bankruptcy
+Sat, 17 Oct 2026 15:58:54 +0000 — https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy
+
+Earlier this year, Swedish developer Liquid Swords released Samson , a GTA-ish, open world beat 'em up about dealing with debt, driving sturdy but battered cars, and saving your sister. It wasn't received all that well, including by us, notably because it was quite broken . While subsequent patches did seek to address those issues, it doesn't seem like it was quite enough, as the developer has gone bankrupt. Read more
 
 ### What are we all playing this weekend?
 Sat, 17 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404
@@ -451,14 +438,4 @@ Showing some gratitude is the least these scribbly wretches can do. The passenge
 Fri, 16 Oct 2026 12:02:35 +0000 — https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed
 
 Footage alleged to show a prototype of a cancelled Assassin&rsquo;s Creed game in action has popped up online. The game, it's claimed, was set in ancient China, went by the working title Assassin&rsquo;s Creed Destiny, and was a separate project to Chinese-set mobile game Assassin&rsquo;s Creed Jade. Instead, from the sounds of it Destiny would have been a game aimed at PC and consoles. Read more
-
-### Valve roll out Steam Achievement Sets in beta, splitting up games’ perpetually growing trophy masses into DLC and season buckets
-Fri, 16 Oct 2026 10:23:52 +0000 — https://www.rockpapershotgun.com/valve-roll-out-steam-achievement-sets-in-beta-splitting-up-games-perpetually-growing-trophy-masses-into-dlc-and-season-buckets
-
-Steam has a new feature in beta aimed at helping completionists feel like they've got a bit more of a handle on their never-ending quests to 100% games whose trophy lists keep on growing and evolving. Steam achievements can now be grouped into sets determined by the developers, creating a means of separating off the likes of DLC trophies from the base game's to-do list, thereby making it clearer what you've done so far and where you might want to focus next. Read more
-
-### CD Projekt is in "a really dangerous place", says Anthem's executive producer, pointing to ballooning costs of making games of that scope and quality
-Fri, 16 Oct 2026 08:15:00 +0000 — https://www.rockpapershotgun.com/cd-projekt-is-in-a-really-dangerous-place-says-anthems-executive-producer-pointing-to-ballooning-costs-of-making-games-of-that-scope-and-quality
-
-"The triple-A industry has become over-specialised, specialised to the point of hyper-fragility," Mark Darrah states in a foreboding interview found deep in the pages of the Summer Eternal Anthology, recently covered by Edwin . As a former executive producer at Bioware, who corralled teams on Anthem and Dragon Age , after starting his career as a programmer on Baldur's Gate , Neverwinter Nights , and Jade Empire , Darrah has seen firsthand the growing scale of video game production and the challenges it can bring. Darrah's also been vocal about the difficult development of Anthem in the past, and the struggles he had at Bioware. However, while what he says in the interview may be familiar, I found it gained sharper definition when read in light of games industry news and some of the interviews I've had with developers this year. So let me pull together some of the choice bits with the extra context from our own RPS vaults. Read more
 

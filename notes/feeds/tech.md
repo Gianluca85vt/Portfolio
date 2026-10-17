@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-17T13:55:40.767Z
+# Tech — harvested 2026-10-17T18:49:43.480Z
 
 ## Ars Technica
 
@@ -64,6 +64,36 @@ Over the past week, the laptop Microsoft sent me has been summarizing books and 
 
 ## The Verge
 
+### Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast
+2026-10-17T13:00:00-04:00 — https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance
+
+Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe , a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks the first time in the performance brand's 59-year history that it has developed a full-size SUV entirely in-house from the ground up. Scheduled to hit the US next summer, the new EV is built on Merc's high-performance AMG.EA architecture to combine sports-car handling with full-s … Read the full story at The Verge. ]]>
+
+### Elon Musk settles lawsuits over $1 million voter giveaway
+2026-10-17T12:39:44-04:00 — https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway
+
+In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in Austin, Texas, though the details of the settlement have not been made public. The plaintiffs claim that when Musk announced the sweepstakes, he falsely claimed the prizes would be awarded randomly. Philadelphia's District Attorney sued to stop the giveaway , claiming that Musk was running an illegal lottery. During a hearing, … Read the full story at The Verge. ]]>
+
+### Meta removes language that may have allowed it to scrape news sites
+2026-10-17T11:04:36-04:00 — https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
+
+After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page : … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms. Many, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an … Read the full story at The Verge. ]]>
+
+### Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update
+2026-10-17T11:00:00-04:00 — https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale
+
+Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula as previous titles in the series, but adds in a dog companion for an extra layer of complexity and action, and dives deeper into the dark undertones previous games hinted at. Pikmin 4 Where to Buy: $59.99 $39.88 at Walmart Nintendo recently announced a Switch 2 version of Pikmin 4 will launch on November 12th, 2026. That version features polished visuals, adds in voice commands for your dog companion, plus a new mode called Dandori Academy that adds extra challenges over time. You’ll be able to upgrade to that version for just $10, saving you $20 total over buying the $69.99 Switch 2 Edition outright. Read our Pikmin 4 review . ]]>
+
+### Jad Abumrad loves a butterfly knife and a good springy pillow
+2026-10-17T10:30:00-04:00 — https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview
+
+It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man , two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important music icons of the last century. Before that, though, he created Radiolab , an experimental NPR show that leaned heavily on creative sound design and eventually helped redefine what a podcast could be. In the early days of podcasting, shows were often just a couple of people talking at each other at a table (some still are), or lazily repackaged radio broadcasts. Radiolab instead told deeply repor … Read the full story at The Verge. ]]>
+
+### SpaceX’s ambitious, expensive gamble to replace AT T, T-Mobile, and Verizon
+2026-10-17T10:00:00-04:00 — https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile
+
+Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile. I’ve covered the telecom business for a long time, and I’ve always known that these companies can say they want to do something until they run into the harsh reality of how expensive it is to actually do it. The telecom graveyard of pivots, bad ideas, and failed acquisitions is vast. Walt has been closely monitoring SpaceX’s acquisition, and he’s correctly predicted that the company was headed in this direction for months now. So I wanted to dig into whether SpaceX can pull this off, why Walt thinks the existing telecom giants have really fumbled their response to SpaceX’s gr
+
 ### Websites are closing their doors to AI agents
 2026-10-17T09:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
 
@@ -84,39 +114,29 @@ The HomeView can simplify online recipe formatting into easy-to-follow steps. | 
 
 Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Marc Andreessen and the future of math and Mike Tomlin and Citizens United , reminiscing about the heyday of MySpace , sending this article to everyone as an apology for my bad texting, listening to the Pet Shop Boys' new Alan Turing album and Dwarkesh Patel's thoughts on AI , barely keeping myself from preordering an iPhone Duo , asking a lot of questio … Read the full story at The Verge. ]]>
 
-### All the news about the iPhone Duo
-2026-10-16T19:36:26-04:00 — https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements
-
-Apple has finally announced its long-rumored foldable: the iPhone Duo . The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses Touch ID on the power button. It has two cameras, a main lens and a wide-angle lens. Apple completely revamped iOS 27’s controls and apps for the foldable, including putting the dock on the side of the phone. And it has a flashy opening animation when you unfold the phone. The iPhone Duo a big new bet from Apple, though one that’s a little late to the game compared to competitors like Samsung and Google. The phone isn’t cheap: it starts at $1,999 for the base 256GB model, and the prices only go up from there. Still, Apple said that preorder demand was “extraordinary,” so it could have a hit on its hands. Here’s everything unfolding about the iPhone Duo. Apple says iPhone Duo preorder demand has been “extraordinary.” iPhone Duo orders are already delayed into 2027 The iPhone Duo is now available to preorder at $1,999 Prep your cart before iPhone Duo preorders open tomorrow Repairing the iPhone Duo s folding screen costs as much as a new iPhone TCL’s paperlike OLED phone made me more excited for the iPhone Duo We unfolded the iPhone Duo Apple addresses iPhone Duo copycats The iPhone Duo’s hardware doesn’t look special, but its software might be How the iPhone Duo compares to other folding phones Verge staffers react to the iPhone Duo
-
-### Apple s updated App Store rules go after nudify AI apps
-2026-10-16T18:51:22-04:00 — https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment
-
-Apple's App Store rules now more explicitly ban so-called "nudify" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors . Apple didn't pull X or Grok from the App Store, though it told senators that it threatened to yank Grok . At Apple's WWDC event in June, protestors also called on Apple to "remove Grok, X, and all nudify technology from the App Store," and in July, a San Francisco city attorney ordered Apple to remove 13 "nudify" apps, which it said … Read the full story at The Verge. ]]>
-
-### We can finally hear some of Wu-Tang Clan s Once Upon A Time in Shaolin album
-2026-10-16T16:50:27-04:00 — https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli
-
-Wu-Tang Clan member Method Man, who got to hear the album for the first time thanks to Pablo Torre Finds Out. | Getty Images Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclusive record . Once Upon A Time in Shaolin has a long history, which Pablo Torre Finds Out goes into in detail. Disgraced pharmaceutical executive Martin Shkreli bought the only copy of the album, which cannot be commercially released until 2103, in 2015 at auction. Shkreli had to forfeit the album to the US government, and the government sold it in 2021 to the crypto art collective PleasrDAO, whi … Read the full story at The Verge. ]]>
-
-### Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars
-2026-10-16T16:49:04-04:00 — https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash
-
-After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that "Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of their responsibility to safely operate their vehicles." Video released by CHP shows the Tesla speeding past flares, cones, and emergency lights where officers were on the scene of an earlier accident, before ramming into the back of a parked patrol vehicle. CHP says two officers were seriously injured in the accident and taken to a hospital. Two Solano CHP officers were seriously injured when … Read the full story at The Verge. ]]>
-
-### Why Apple is finally making its own smart home devices
-2026-10-16T14:30:27-04:00 — https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home
-
-Apple’s Home Collection, codeveloped with partners, is part of the company’s first major push into the smart home category. | Photo by Jennifer Pattison Tuohy / The Verge For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own . The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, all codeveloped with LG Electronics and Schneider Electric. They arrive alongside HomeView , Apple's first smart display. Even after 12 years of HomeKit, Apple's smart home ecosystem still felt underdeveloped, especially compared to the competition. Amazon's and Google's ecosystems support more products, and both have popular in-house brands: Ring and Nest. Apple had nothing of its own to point cu … Read the full story at The Verge. ]]>
-
-### The new Apple TV 4K just got its first (very small) discount
-2026-10-16T12:02:22-04:00 — https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale
-
-The new Apple TV 4K will be available in November. | Image: The Verge Earlier this week, Apple announced its new Apple TV 4K , which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you can preorder the latest Apple TV 4K ahead of its November 13th release date for $289.99 ($9 off) at Amazon . Yes, it’s a tiny discount, but every little bit helps given the higher price tag. Apple TV 4K (2026) Where to Buy: $299 $289.99 at Amazon Powered by the new A19 chip, Apple’s latest streaming device now features support for Siri AI out of the box, which is coming to older Apple TV 4K models via a software update. Unlike its predecessors, though, the new model features far-field microphones so you can quickly make hands-free requests. You can, for example, ask for recommendations, like nature documentaries available on Apple TV, or ask questions about what you’re watching. Siri AI can also understand personal context, too, so long as you have an iPhone or iPad connected to your account that supports Apple Intelligence. Apple has made a few other welcome upgrades, though — as my colleague John Higgins points out — not as many as some may have expected. While Apple skipped features we’d hope to see on a $300 streamer, like audio passthrough and support for 120fps output, it’s nice that the S
-
 ## Tom's Hardware
 
-### Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale — rare tech deal arrives to beat the storage shortage
+### HyperX Cloud Alpha Air Review: Open-back and budget-friendly
+Sat, 17 Oct 2026 15:40:00 +0000 — https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review
+
+HyperX has decided to toss its hat in the ring of open-back gaming headsets with its newest, the Cloud Alpha Air. It's definitely not the first open-back headset we've seen in the past few years — others include the $200 Corsair Virtuoso Pro , the $180 Turtle Beach Atlas Air , and, of course, the $900 Audeze LCD-GX . The Cloud Alpha Air is at least somewhat budget-friendly at just $149.99. The Cloud Alpha Air is a wired over-ear open-back gaming headset designed for comfort and immersion. It features dynamic 40mm drivers with a frequency response range of 20 - 20,000 Hz and a special "HyperX Bass Tube" to keep the low end present without compromising the open-back design. And, like other HyperX headsets (which are some of the best gaming headsets we've tested), it's extremely lightweight and easy to wear for hours at a time. Design and Comfort of the Cloud Alpha Air The Cloud Alpha Air is a wired over-ear (circumaural) open-back headset with a detachable boom microphone. It has large, plastic oval-shaped earcups with metal grilles attached to a padded steel headband. It's a fairly lightweight headset — HyperX has its weight listed at 9.6 ounces (272g) without the boom mic attached (the boom mic is listed at approximately 0.42 ounces / 12g), but we found the headset weighed closer to 10 ounces (283g) (the boom mic, however, weighed closer to 0.07oz / 2g), and came in at just under 10.6 ounces (300g) with both the boom mic and cables attached. This still makes it one of HyperX'
+
+### Quad 8-pin mod protects the $8,500 RTX 5090 you can’t replace from melting
+Sat, 17 Oct 2026 15:20:00 +0000 — https://www.tomshardware.com/pc-components/gpus/quad-8-pin-mod-protects-the-usd8-500-rtx-5090-you-cant-replace-from-melting-modders-custom-power-solution-claims-to-fix-nvidia-16-pin-gpu-meltdowns
+
+Nvidia’s GeForce RTX 5090 , undeniably one of the best graphics cards of our time, vanished overnight without a trace and is now selling for $8,500 on Amazon . In a recent development, Reddit user DallasGrave showcased a custom quad 8-pin power conversion kit designed for the notorious melting 16-pin (12VHPWR) power connector and the later 12V-2x6 revision . This invention, an upgrade over a previous mod , could reduce the risk of power-related meltdowns . Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC Unlike the endless stream of aftermarket adapters designed solely to prevent 16-pin power meltdowns, DallasGrave's iteration is more like a power-conversion kit. The direct-mount kit sits above the graphics card and uses a custom harness soldered to the graphics card’s PCB power rails. The quad 8-pin power conversion kit bypasses the 16-pin connection and redistributes the massive power draw more evenly across four conventional 8-pin PCIe power connectors. Each 8-pin PCIe power connector can deliver up to 150W, so all four combined in this custom configuration match the 16-pin connector’s maximum capacity of 600W. However, this configuration addresses concerns with the 16-pin power connector, which channels 50A through a small, tigh
+
+### MOZA AY210 Force Feedback Base and MFY Yoke review: Taking flight sim immersion to the next level
+Sat, 17 Oct 2026 15:00:00 +0000 — https://www.tomshardware.com/peripherals/controllers-gamepads/moza-ay210-force-feedback-base-and-mfy-yoke-review
+
+Over the past several years, MOZA Racing has become one of the most recognizable names in sim racing, earning a reputation for producing high-quality racing wheels and peripherals. Founded in 2012 by a group of automotive engineers and sim racing enthusiasts, the company initially focused on manufacturing and selling videography equipment before entering the sim-racing market. More recently, MOZA has expanded into the world of flight simulation, bringing the same focus on build quality and performance that has made its racing products so popular. Today, we’re taking a look at the MOZA AY210 Force Feedback Base and MFY Yoke. We’ll be putting both products through their paces in Microsoft Flight Simulator 2024 , testing them across a variety of challenging flight scenarios to see how they perform in the cockpit. Inside the Box Tom's Hardware Tom's Hardware Tom's Hardware Tom's Hardware Tom's Hardware While you can purchase the base and the yoke separately, they also come in a bundle. With the bundle, you get both the yoke and the base in the box, along with a toolkit and user manual. The base comes with a power cable and a USB Type A to Type B cable. MOZA also sent us a couple of table clamps for the yoke to secure it to our test setup. The clamps are sold separately. MOZA MFY Yoke Specs Case Material Composite Quick Release Material Aluminum Alloy Button Cap Material ABS Plastic Platform Compatibility Windows 10/11 – MSFS, X-Plane 8-Way Switches 2 Hall Effect Joysticks 2 LB/RB
+
+### Nvidia reportedly insists the RTX 5090 isn't dead despite severe shortages and removed listings at multiple retailers
+Sat, 17 Oct 2026 14:38:18 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-reportedly-insists-the-rtx-5090-isnt-dead-despite-severe-shortages-and-removed-listings-at-multiple-retailers-flagship-gpu-is-missing-from-nvidias-store-and-commands-usd8-500-on-amazon
+
+Last week, gamers still holding any hope that the GPU market would somehow stabilize had their hopes dashed. A while after Nvidia reportedly put the RTX 50 Super series on hold , rumors started flying that production of the already-rare RTX 5090 was stopping , likely to use precious silicon manufacturing capacity for more AI accelerators. Now, the company's senior VP Jeff Fisher reportedly said that card was not discontinued and would continue to be shipped. The statement comes after a myriad of websites, including Tom's Hardware , have asked the company for official comment, but to no avail. The information comes from Taiwanese websites including 4Gamers and SJTV , which both are quoting a purported post-event interview where Fisher offered a brief explanation of the situation. According to the VP, supplies of the GPU are limited, but Nvidia is seemingly going all out to get the product to market (paraphrased from the Taiwanese reports). "The supply chain (capacity) is indeed somewhat constrained, but NVIDIA is doing everything it can to get the product on the market. Although there are other variants of the RTX 5090 (chip), production has not been discontinued, and NVIDIA will continue to ship, which is very important," Fisher reportedly said to 4Gamers . He also reportedly reiterated a common quote from Nvidia execs, stating that without GeForce, Nvidia wouldn't be where it is today, and likewise, the AI market wouldn't exist as it does today. The claim that the card isn't
+
+### Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale
 Sat, 17 Oct 2026 13:39:06 +0000 — https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage
 
 With the ongoing DRAM and NAND memory crisis, finding a good storage deal has become increasingly difficult. However, we found a solid offer for anyone looking to expand storage on their Nintendo Switch 2. The SanDisk 512GB GamePlay microSD Express card is currently $98 at Walmart, well below its regular price of over $120. It is also one of the lowest prices we’ve seen for this card in recent months, making it a particularly good time to pick one up. Check out this deal on Walmart The SanDisk GamePlay microSD Express card is officially licensed for the Nintendo Switch 2. It uses a PCIe interface and the NVMe protocol to deliver read speeds up to 880 MB/s, write speeds up to 650 MB/s, and sustained writes of 220 MB/s. This makes it significantly faster than traditional microSD cards and fully compatible with the Switch 2, since older microSD cards cannot be used to store or play games. 512GB GamePlay microSD Express card: was $120 now $98 This microSD Express card from SanDisk, with 512GB, is a great way to increase the storage on your Nintendo Switch 2. It delivers read speeds up to 880 MB/s and write speeds up to 650 MB/s, with sustained write speeds of 220 MB/s. View Deal SanDisk claims the card is built to withstand tough conditions, with protection against water, extreme temperatures, humidity, drops, shocks, magnets, X-rays, and wear and tear. It also includes a special ThermAdapt feature that helps keep devices from overheating, with a specially designed enclosure and 
@@ -156,27 +176,12 @@ Sat, 17 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/video-games/ret
 
 The Xbox 360 has been cracked open multiple times over the years, and almost every time Microsoft's updates plugged whichever hole let hackers through. The first method was modded DVD firmware in 2006, a hypervisor hack followed in 2007, and a wiring hack exposing JTAG debugging ports was revealed in 2009. The longest-lasting physical hack was 2011's CPU force-reset exploit. That maneuver needed specialized hardware along with a voltage-glitching chip, but an enterprising techie showed how it can be performed nowadays with the assistance of a Raspberry Pi Pico, costing all of $4 (or about 5€ / £5). The crack marks the culmination of a nine-year effort by the modder. To get the elephant out of the room, yes, just last week the PeerPressure Xbox 360 persistent soft-mod was released . But we're here to talk signals and wires. The aforementioned reset exploit involves sending a teeny weeny tiny signal directly into the CPU's reset pin. You'd think this would do what it says on the label, but what happens instead is that the CPU executes the current instruction incorrectly . Naturally, someone figured out how to leverage that to run any code on the CPU, thus completely bypassing Microsoft's impressive and frankly rather effective layers of cryptography within the console. Sending said signal for an effective hack, though, requires spectacularly precise timing with a resolution down to nanoseconds, and glitch-chips may even require several attempts to get a successful "latch." Josh
 
-### US Army to use 3D-printed rocket motors for low-cost cruise missiles
-Sat, 17 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom
-
-X-Bow Systems, a solid rocket motor (SRM) manufacturer specializing in additive manufacturing (AM), has secured a deal with Leidos to develop and build rocket boosters for the U.S. Army’s Low-Cost Containerized Munition (LCCM) project. According to 3D Printing Industry , the LCCM is one of the Department of War’s programs under the “Arsenal of Freedom” initiative, which aims to rebuild the United States’ defense industrial base. “Modern conflict is decided by how many rounds you can put downrange, not how exquisite each one is,” X-Bow founder and CEO Jason Hundley said. He also added that collaborating with Leidos would allow it to “turn out combat-ready rocket motors at production scale, fast.” Even though X-Bow Systems is a relatively new company, having been founded in 2016, it has already successfully produced over 2,100 combat-ready rocket motors. This means that it has the experience and expertise to produce the rocket engines in the numbers that the U.S. Army requires. While conventional manufacturing methods still offer several advantages over 3D printing, the latter is still more effective when dealing with the complex geometries that some SRMs require. It’s also a faster solution when you need to iterate designs multiple times, which is why X-Bow can create and build new designs in a matter of days, instead of the months or years that it takes traditional defense contractors to prototype and test rocket motors. Other companies have been experimenting and working wit
-
-### ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica
-Sat, 17 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts
-
-ASML launched a Lego kit version of the TWINSCAN EXE:5000 , the world’s first High-NA EUV machine, in December 2024. Since ASML only sells products like these to employees, the company canceled orders from non-employees, making the kit even more desirable for collectors. Current eBay listings show a Buy It Now price between $500 and $700, which is significantly higher than the $230 that the company asks for on the official website. However, X user @lithos_graphein shared a recreation of the kit available on Rebrickable , which added some tasteful modifications. The ASML high-NA EUV Lego Set is extremely rare and only available to employees from the company store. But there are directions and a full 800-piece parts list on rebrickable. It's not exactly what ASML offers, but the modifications are tasteful. Many of these bricks are hard to source, so I made my own version. I do a tool install every Christmas over my fireplace. It's almost that magical time of year again.https://t.co/EzDlwvfh50 October 11, 2026 “A friend of mine fell in love with the ASML employee-exclusive Lego TWINSCAN EXE:5000 set and asked me to recreate it. While the original Lego version already looked impressive, I made some modifications to better capture the details of the real machine,” NightHawk11991 said in the description of the MOC (My Own Creation). “Using photos my friend took of the actual equipment, I designed this custom MOC to enhance its accuracy. I also added some interior details, including
-
-### This could be your last chance to grab an RTX 5090
-Fri, 16 Oct 2026 17:04:44 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl
-
-Recent news and rumours have been flooding the tech space about the apparent discontinuation of Nvidia's flagship graphics card. With no new Nvidia 5090 GPU replacement anticipated before at least 2028, this could well be your last opportunity to get your hands on a very powerful GPU for gaming. The RTX 5090 not only dominates benchmarking charts in performance, but it also dominates price charts, with the cost of purchasing a standalone RTX 5090 rising from its MSRP of $1,999 to currently over $7,500. The cheapest way to previously capture an RTX 5090 in the wild has been from either Micro Centre (who apparently is soon to be no longer stocking them), or picking one up in a prebuilt gaming PC build. ● Check out this RTX 5090 deal at Dell ● RTX 5090 Prebuilt PCs available at Newegg We've highlighted many RTX 5090 prebuilt PC's over the last couple of years, with models from Dell, HP, MSI, Skytech, and others. And there are still some PCs out there that can be bought for around the same price as buying the graphics card alone. But with the available pool of RTX 5090s soon starting to dry up, prices will start to climb even higher, much like what happened when the previous generation RTX 4090 ceased production. The RTX 5090 is the most powerful consumer GPU that you can buy. It sports 21,760 CUDA cores, over double the RTX 5080's 10,752 count, and provides a massive 32GB of GDDR7 VRAM. Using a 512-bit memory bus, with a memory bandwidth of up to 1,792 GB/s, the RTX 5090 is the 
-
-### China startup demoes prototype EUV light source
-Fri, 16 Oct 2026 16:30:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/china-startup-demoes-prototype-euv-light-source-15w-of-output-power-and-90-percent-domestic-components-still-years-away-from-viability
-
-Being unable to procure EUV litho tools from ASML, China must develop such systems locally, so from time to time we learn about an EUV-related 'breakthrough' in China that will turn into an actual EUV scanner over the following several years. This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime. The company will need another three to five years to commercialize its technology, reports TrendForce, citing various sources. Yet, a light source alone does not make an EUV scanner. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined An LPP EUV source from China Langdao Silex, which was established in 2024 by Tsinghua University's Gas Discharge Plasma Laboratory alumni, demonstrated its EUV light source prototype at the 26 th China International Industry Fair in Shanghai, for obvious reasons, without lighting it up. Just like modern light sources from ASML, the company's low-power FlintNano LPP-OXXO system uses laser-produced plasma (LPP) technology that produces EUV radiation by bombarding tiny heated metal droplets with high-energy laser pulses to create extremely hot plasma. The system features a 1
-
 ## Phoronix
+
+### MeshXFS: AI Adapts XFS Into A Clustered File-System
+Sat, 17 Oct 2026 13:02:40 -0400 — https://www.phoronix.com/news/MeshXFS-XFS-Clustered
+
+MeshXFS is a clustered open-source file-system in which "no human wrote any of its own code". Depending upon your views of AI, not necessarily something you want to hear for entrusting your data in an AI-created solution. Instead, Claude Opus was tasked with adapting the XFS file-system driver into a clustered file-system...
 
 ### Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024
 Sat, 17 Oct 2026 06:54:33 -0400 — https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON
@@ -232,11 +237,6 @@ Longtime Linux kernel engineer Darrick Wong who stepped down as the XFS file-sys
 Fri, 16 Oct 2026 10:24:33 -0400 — https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610
 
 It s been nearly one year since receiving the Gigabyte R284-A92-AAL1 2U Granite Rapids server platform for continuing my testing of the flagship Xeon 6980P processors. Curious how the Xeon 6980P 2P performance has evolved on Linux since then, I ran some benchmarks on the newly-released Ubuntu Server 26.10 against the tests carried out last year on Ubuntu 25.10 with the same hardware.
-
-### AI-Generated Starling Desktop Environment Rolls Out Its Own Office Suite
-Fri, 16 Oct 2026 09:20:22 -0400 — https://www.phoronix.com/news/AI-Starling-Desktop-Office
-
-Starling, the open-source desktop environment written in Swift and with its own Wayland compositor too and written largely via Claude Code, has now rolled out its own AI-generated office suite...
 
 ## The Register
 
@@ -302,77 +302,82 @@ The FBI is once again warning US citizens to be on the lookout for the scams tha
 
 ## Engadget
 
+### Android Auto can be used outside of your car: Here's how
+Sat, 17 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/
+
+It might sound weird to use Android Auto outside of a vehicle, but doing so has unexpected productivity benefits.
+
+### What's actually eating all the storage space on your Android Phone?
+Sat, 17 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2283986/whats-actually-eating-all-the-storage-space-on-your-android-phone/
+
+Android phone running out of space? Here's why and what you can do to get rid of old files.
+
+### iPhone Duo shipping estimates have already been pushed back to 2027
+Sat, 17 Oct 2026 18:12:35 +0000 — https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/
+
+Apple called the early demand "nothing short of extraordinary."
+
+### You might be surprised by how much the Slate truck can carry
+Sat, 17 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2289615/slate-truck-how-much-can-carry/
+
+Don't underestimate this compact pickup.
+
+### What does the yellow light on your Alexa device mean and how do you clear it?
+Sat, 17 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/
+
+Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.
+
+### Anbernic's RG DDS is almost double the price of the original Nintendo 3DS
+Sat, 17 Oct 2026 16:15:11 +0000 — https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/
+
+The premium handheld is expected to start shipping in December.
+
+### This Samsung Galaxy feature can protect you from untrustworthy apps
+Sat, 17 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/
+
+Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.
+
+### Why are some locations blurred out on Google Maps?
+Sat, 17 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2284032/why-some-places-blurry-google-maps/
+
+When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.
+
+### Common problems with Amazon Alexa and how to fix them
+Sat, 17 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/
+
+Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.
+
+### Should you have both Ethernet and Wi-Fi for your home?
+Sat, 17 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/
+
+Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?
+
+### How many watts should your Bluetooth speaker have?
+Sat, 17 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/
+
+If you're confused by Bluetooth speaker wattage, here's what those numbers actually mean. Spoiler: more wattage doesn't necessarily mean a louder speaker.
+
 ### Verizon will charge you $10 a month for iPhone Handoff
 Sat, 17 Oct 2026 13:45:16 +0000 — https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/
 
 iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.
 
-### Why Xiaomi phones have so many ads (and how to block them)
-Sat, 17 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/
-
-Xiaomi phone users know these phones have too many ads, and the reason is very simple. Learn how to remove them so they're not a hassle anymore.
-
-### Microsoft really doesn't want you to buy Office — here's a great free alternative
-Sat, 17 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/
-
-Microsoft Office used to be a suite you could simply buy and it'd just work. Now, it's largely trapped behind a subscription. Here are some great free options.
-
-### How to create iPhone Shortcuts with Apple Intelligence (and why you should)
-Sat, 17 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/
-
-When it works, it works!
-
-### These common charging habits could be degrading your EV battery
-Sat, 17 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/
-
-EVs, with their enormous batteries, can suffer if they're charged in the wrong way. Here's what you should keep in mind when you next juice your vehicle.
-
-### Apple updates App Store rules to ensure it doesn't offer AI nudify apps
-Sat, 17 Oct 2026 12:35:56 +0000 — https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/
-
-Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery.
-
-### Is the Google Fitbit Air waterproof?
-Sat, 17 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/
-
-No, but you can still swim with it!
-
-### How to check your Ethernet cable's speed
-Sat, 17 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/
-
-Understand the speeds your Ethernet cable can transmit at help you diagnose where the slowdowns on your network are happening.
-
-### More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive
-Sat, 17 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2285456/ways-to-repurpose-old-usb-flash-drive/
-
-It's time to do something with that drawer full of old USB flash drives. Breathe new life into unused tech with simple, useful tricks spanning an array of uses.
-
-### Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out
-Sat, 17 Oct 2026 11:30:00 +0000 — https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/
-
-There were a host of indie game showcases this week, so we're dig into some of the best announcements from them.
-
-### The Tesla Roadster should go into production in 2028, but don't get your hopes up
-Sat, 17 Oct 2026 01:50:50 +0000 — https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/
-
-I drive upside down on the boulevard of broken dreams.
-
-### A 'flying' Tesla Roadster sounds impossible, until you see what Lockheed Martin built decades ago
-Fri, 16 Oct 2026 20:50:28 +0000 — https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/
-
-Thrusters are as good at flipping cars as they are at hunting ballistic missiles.
-
 ## TechCrunch
+
+### Replit is no longer working with Anthropic, CEO says
+Sat, 17 Oct 2026 18:48:08 +0000 — https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
+
+Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
+
+### Ember’s new temperature-controlled mug makes my nightly tea ritual even better
+Sat, 17 Oct 2026 15:30:00 +0000 — https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/
+
+The biggest change about Ember's new mug is that you no longer have to open the app to adjust your drink’s temperature.
 
 ### Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept
 Sat, 17 Oct 2026 02:36:18 +0000 — https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/
 
 Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.
-
-### Replit is no longer working with Anthropic, CEO says
-Fri, 16 Oct 2026 21:22:28 +0000 — https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/
-
-Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.
 
 ### Porsche’s electric Macan Turbo is an automotive existential crisis
 Fri, 16 Oct 2026 19:40:00 +0000 — https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/
@@ -418,9 +423,4 @@ The data comes from Vercel's AI gateway, a unified API service similar to OpenRo
 Fri, 16 Oct 2026 14:26:51 +0000 — https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/
 
 Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
-
-### Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles
-Fri, 16 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/
-
-Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as "superfakes," as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.
 

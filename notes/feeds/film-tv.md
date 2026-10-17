@@ -1,110 +1,130 @@
-# Film & TV — harvested 2026-10-17T13:55:40.767Z
+# Film & TV — harvested 2026-10-17T18:49:43.480Z
 
 ## Variety
 
-### Joel Coen Talks Studio Consolidation – Competition Is What Produces Opportunities for Different Kinds of Movies – and Teases Reunion Film With Brother Ethan
-Sat, 17 Oct 2026 12:52:17 +0000 — https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/
+### ‘Musk’ TikTok Account Permanently Suspended Ahead of Documentary s Wide Release
+Sat, 17 Oct 2026 18:36:00 +0000 — https://variety.com/2026/film/news/musk-documentary-tiktok-account-permanently-suspended-1236914995/
 
-The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, [ ]
+TikTok permanently suspended the “Musk” ad account on Friday ahead of the documentary s wide release, Variety can confirm. Directed by Alex Gibney, “Musk” seeks to make sense of Elon Musk, the world’s richest man, and the outsized influence he has on the world, diving deep into his shift to MAGA supporter, controversies surrounding his Occupy [ ]
 
-### Pathé Unveils Sofia Coppola s Marie Antoinette 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon
-Sat, 17 Oct 2026 12:07:35 +0000 — https://variety.com/2026/film/global/pathe-sofia-coppola-marie-antoinette-jerome-seydoux-1236914657/
+### How Whalefall Production Designer Ramsey Avery Built the Creature s Stomach Using Mattress Foam and Silicone Bits
+Sat, 17 Oct 2026 18:22:56 +0000 — https://variety.com/2026/artisans/features/whalefall-production-design-whale-stomach-bile-1236910368/
 
-Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé. The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in [ ]
+SPOILER ALERT: This story contains minor spoilers for “Whalefall,” out now in theaters. In the new feature “Whalefall, Jay (Austin Abrams) is a grieving son searching for his father’s (Josh Brolin) remains off the coast of California. As he dives deeper, Jay encounters a giant squid being chased by an 80-foot, 60-ton sperm whale. When [ ]
 
-### Trust Me, I m a Doctor Review: Kal Penn and Abbie Cornish Star in a Minor Sidebar to the Anna Nicole Smith Story
-Sat, 17 Oct 2026 11:31:28 +0000 — https://variety.com/2026/film/reviews/trust-me-im-a-doctor-review-1236914737/
+### Sense and Sensibility Costume Designer on Blending Historical Accuracy and Modern Styling for the Dashwood Sisters: We Want to Do Jane Austen Justice
+Sat, 17 Oct 2026 18:00:00 +0000 — https://variety.com/2026/film/news/sense-and-sensibility-costume-designer-dashwood-1236913296/
 
-Andy Warhol famously said that in the future, everyone will have 15 minutes of fame. “Trust Me, I’m A Doctor” expands that tally to an hour and 51 minutes for Sandeep Kapoor, the physician who treated Playboy Playmate Anna Nicole Smith and was implicated in her death from a prescription drug overdose in 2007. That’s [ ]
+“Sense and Sensibility” costume designer Grace Snell thought in chapters for Georgia Oakley’s new take on Jane Austen’s 1811 novel, starring Daisy Edgar-Jones and Esmé Creed-Miles as Elinor and Marianne Dashwood, respectively. The most distinct chapters, from Snell’s costuming perspective, are the country and the city. First, the Barton Cottage chapter, shaped by the Devonshire [ ]
 
-### J.K. Rowling’s Agent Slams Trans Rights Protest at ‘Harry Potter and the Cursed Child’ in London: It Put ‘Others at Risk’
-Sat, 17 Oct 2026 11:03:38 +0000 — https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/
+### Gene Schwam, Veteran Hollywood Publicist to Elvis Presley, Julie Andrews and More, Dies at 96
+Sat, 17 Oct 2026 17:28:07 +0000 — https://variety.com/2026/film/news/gene-schwam-dead-publicist-elvis-presley-1236914812/
 
-J.K. Rowling’s agent Neil Blair has slammed the transgender rights activists who staged a dramatic protest before a gala performance of Harry Potter and the Cursed Child on Thursday in London s West End. The protesters, many wearing masks, hats and goggles to hide their identity, stormed the red carpet as celebrities were arriving for a [ ]
+Veteran Hollywood publicist Gene Schwam, who represented top talent including Elvis Presley, Blake Edwards, Julie Andrews, Barbara Eden and Lenny Bruce, died Friday in Los Angeles after a brief illness. He was 96. Schwam co-founded Hanson Schwam Public Relations with Adeline Hanson in 1955, establishing an independent publicity agency that would endure for decades. [ ]
 
-### Taylor Swift Heroine Clara Bow’s Breakout Movie It Leads Carlotta Films, Artcraft Pictures French Distribution Deal of Hollywood Classics
-Sat, 17 Oct 2026 10:37:17 +0000 — https://variety.com/2026/film/global/taylor-swift-heroine-clara-bow-it-in-carlotta-artcraft-deal-1236914724/
+### How NBC Brought Live Musicals Back to Television
+Sat, 17 Oct 2026 17:03:19 +0000 — https://variety.com/2026/tv/news/sound-of-music-nbc-live-musicals-greenblatt-hairspray-1236914848/
 
-LYON, France “It,” the 1927 breakout movie of silent film star Clara Bow, to whom Taylor Swift paid tribute in a song named after her in “The Tortured Poets Department,” leads a deal between French classic film distributor Carlotta Films and U.S. restoration company Artcraft Pictures. Under the terms of the deal, Carlotta will [ ]
+In 2011, NBC was in a rough shape. The network had struggled in the waning years under General Electric’s ownership. In January 2011, Comcast became the majority shareholder, and with it came a new leadership regime for NBC Entertainment, led by industry veteran Bob Greenblatt. One of Greenblatt’s big ideas to liven up NBC’s schedule [ ]
 
-### Coen Brothers Bring Laughs to Lumière Award Ceremony as Javier Bardem Recalls No Country for Old Men : They Gave Me One Masterpiece
-Sat, 17 Oct 2026 09:20:02 +0000 — https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/
+### Harry Styles Debuts Unreleased Song He Wrote in Memory of Liam Payne, What Is Enough, on Second Anniversary of Ex-Bandmate s Death
+Sat, 17 Oct 2026 17:02:16 +0000 — https://variety.com/2026/music/news/harry-styles-liam-payne-song-debut-what-is-enough-msg-1236914863/
 
-To the sound of the Gipsy Kings’ Spanish-language rendition of “Hotel California,” Joel and Ethan Coen took the stage at Lyon’s Lumière Film Festival on Friday evening to receive the Lumière Award, celebrating four decades of filmmaking with a characteristically irreverent tribute to the inventors of cinema. “Thank you to the Lumières for inventing the [ ]
+The mood was typically celebratory at Harry Styles residency show at New York s Madison Square Garden Friday night, but Harry Styles was not about to let the second anniversary of the death of former One Direction bandmate Liam Payne go unremarked upon — or, to the shock of fans, unsung about. Styles used the encore [ ]
 
-### Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First Bass Persuades Concert at Hollywood Bowl: Concert Review
-Sat, 17 Oct 2026 07:53:16 +0000 — https://variety.com/2026/music/news/miley-cyrus-bass-persuades-hollywood-bowl-concert-review-1236914661/
+### Miley Cyrus Tears Up While Honoring Dolly Parton During Hollywood Bowl Show: Nothing In This Life Could Ever Tear Us Apart
+Sat, 17 Oct 2026 16:51:16 +0000 — https://variety.com/2026/music/news/miley-cyrus-tears-up-honoring-dolly-parton-hollywood-bowl-1236914884/
 
-After she descended from a B-stage in the middle of the stands at the Hollywood Bowl on Friday night, Miley Cyrus sat hunched over on the main stage, visibly sapped by the 200-foot trek back to the spotlight. You guys gave me so much energy, but you also took a little energy out of me, [ ]
+Miley Cyrus paid tribute to her late godmother and country icon Dolly Parton onstage at the Hollywood Bowl Friday as she performed her first major show in years. The “Bass Persuades” singer began by sharing memories with Parton, telling the audience she was partly inspired to play the venue because it was where she saw [ ]
 
-### ‘Renoir’ Producers Join Asia-Europe Co-Production Panel at Tokyo Market as Japanese Accelerator Atmovie Global Track Partners With Ties That Bind
-Sat, 17 Oct 2026 05:37:19 +0000 — https://variety.com/2026/film/markets-festivals/renoir-producers-asia-europe-co-production-panel-tiffcom-1236914637/
+### Law Roach Wants to Try Acting: ‘If I’m Terrible at It, at Least I Tried’
+Sat, 17 Oct 2026 15:56:32 +0000 — https://variety.com/2026/film/columns/law-roach-act-1236914231/
 
-Producers behind Hayakawa Chie’s Cannes competition title “Renoir” are among the speakers at a session on Asia-Europe co-production at Tokyo s TIFFCOM market on Oct. 30, as Japanese accelerator Atmovie Global Track formalizes a partnership with Europe-based workshop Ties That Bind. The open panel, titled “Building Creative Partnerships,” will examine how producers and directors work together [ ]
+Law Roach is ready for an even bigger close-up. The celebrity stylist, whose clients include Zendaya, Kim Kardashian and Celine Dion, says he’s “absolutely” ready to try some acting. “When a director sees something for me,” Roach told me Thursday night at the InStyle Imagemaker Awards. “I want to try everything. If I’m terrible at [ ]
 
-### Miley Cyrus Setlist: Every Song Played at Bass Persuades Live at the Hollywood Bowl
-Sat, 17 Oct 2026 03:37:30 +0000 — https://variety.com/2026/music/news/miley-cyrus-setlist-hollywood-bowl-los-angeles-1236914492/
+### Box Office: ‘Street Fighter’ Scores $13 Million Debut as ‘You Can See Everything’ Opens at No. 2 With $5.5 Million on Friday
+Sat, 17 Oct 2026 15:43:57 +0000 — https://variety.com/2026/film/box-office/box-office-street-fighter-you-can-see-everything-whalefall-1236914827/
 
-Miley Cyrus kicked off her Miley: Bass Persuades Live at the Hollywood Bowl shows on Friday night at the famed Los Angeles venue, giving her first headlining performance in years. The pop star, who is going mononomously as just Miley for this era, announced this pair of Friday and Sunday shows in early September [ ]
+“Street Fighter” punched its way to the top of the box office in a new-release-filled weekend, battling fellow openers “Sense and Sensibility,” “Whalefall” and “You Can See Everything.” The Paramount Pictures movie generated $13 million from 3,575 North American theaters on Friday. It’s a strong start for the action film, which looks to pull in [ ]
 
-### How Netflix’s Messy Transition Will Rock Hollywood: Looking at You, NBCU
-Sat, 17 Oct 2026 01:13:04 +0000 — https://variety.com/2026/film/news/netflix-peter-rice-bajaria-messy-dan-lin-jinny-howe-nbcu-1236914573/
+### Daniel Dubois vs. Fabio Wardley 2: Here’s Where to Watch the WBO Title Boxing Match Live Online
+Sat, 17 Oct 2026 15:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-dubois-vs-wardley-2-boxing-live-online-1236909686/
 
-It started with a dinner. Peter Rice and Ynon Kreiz met for a meal in late September, days before Kreiz surprised the industry by jumping from the CEO job at Mattel to become co-chief executive of Skydance with David Ellison. The report of the Kreiz-Rice meeting came in the New York Post’s Page Six after [ ]
+In a title fight, Queensberry Promotions sets up in England for a prime re-match between two elite boxers. In the main event, English boxer Daniel Dubois defends his WBO heavyweight title belts against English fighter Fabio Wardley. It s a scheduled for 12 rounds. On Saturday, Oct. 17, Dubois (23-3-0) vs. Wardley (20-1-1) takes place at [ ]
 
 ## The Hollywood Reporter
 
-### Joe Keery On Making His Broadway Debut and Balancing Music and Acting Post- Stranger Things
+### UCLA Bruins vs. Wisconsin Badgers: Where to Watch the 2026 College Football Game Online
+Sat, 17 Oct 2026 18:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-ucla-bruins-wisconsin-badgers-football-game-free-2026-1236733782/
+
+On the heels of UCLA's milestone victory over Oregon last weekend, the Bruins are looking to keep the momentum going during their Oct. 17 matchup against the Badgers.
+
+### American Horror Story Actor Orlando Jones on Taking Over Lance Reddick s Role and His Season 13 Prediction: Somebody Gonna Die!
+Sat, 17 Oct 2026 17:50:46 +0000 — https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-orlando-jones-papa-legba-coven-1236730435/
+
+The veteran actor speaks with The Hollywood Reporter about his debut as Papa Legba in the Ryan Murphy universe, the witches' fight against Satan and the "magical" experience of sharing the screen with Jessica Lange and the returning Coven cast.
+
+### WNBA Finals 2026: Where to Watch Atlanta Dream vs. Golden State Valkyries Games Live Online
+Sat, 17 Oct 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-strema-wnba-finals-2026-basketball-live-online-free-1236730144/
+
+Women's basketball fans have many of options to catch games during the championship series.
+
+### Street Fighter Scoring $31M at Box Office as You Can See Everything Rises and Whalefall Sinks
+Sat, 17 Oct 2026 15:55:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312/
+
+A24's Elizabeth Holmes documentary is causing quite a stir over the weekend as 'Sense and Sensibility' also debuts.
+
+### TikTok Permanently Suspends the ‘Musk’ Film Account, Raising Suppression Fears (Exclusive)
+Sat, 17 Oct 2026 15:02:09 +0000 — https://www.hollywoodreporter.com/news/politics-news/musk-movie-tiktok-banned-theaters-showtimes-1236734308/
+
+Move comes just as Alex Gibney doc film expands to nearly 500 screens. Distributor Bleecker Street says it is appealing.
+
+### Patrick Brammall Is Poised to Join the Ranks of Australia s Great Exports
+Sat, 17 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/patrick-brammall-interview-ending-colin-from-accounts-1236734137/
+
+With 'Colin From Accounts' now behind him, the actor-writer the collaboration with his wife became a sleeper hit, upping his game with roles in 'The Devil Wears Prada 2' and 'Last Seen' and auditioning with his hands tied.
+
+### Tennessee vs. Alabama: Where to Watch the 2026 Rivalry Game Online
+Sat, 17 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-tennessee-vs-alabama-football-game-free-streams-2026-1236733716/
+
+As is tradition, one of the biggest rivalries in college football history will unfold on the Third Saturday in October.
+
+### Simpsons Bosses Tease How They Want Show to Go Out at THR s Most Powerful People in Animation Breakfast
+Sat, 17 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/simpsons-bosses-show-go-out-powerful-animation-breakfast-1236733896/
+
+Matt Groening and Matt Selman sat down for a keynote conversation at the event, which also featured a chat with 'Tangles' stars Abbi Jacobson and Samira Wiley.
+
+### Mahershala Ali Put His Two Oscars Into a Cabinet: I Felt a Sense of Accomplishment, Not Fulfillment
+Sat, 17 Oct 2026 14:25:17 +0000 — https://www.hollywoodreporter.com/movies/movie-news/mahershala-ali-two-oscars-in-cabinet-london-green-book-1236734282/
+
+In London, the star also discussed playing people who "haven’t been seen," nearly going crazy on 'True Detective,' police brutality and how 'Green Book' made him feel like a "golden boy," followed by vitriol.
+
+### Joe Keery on Making His Broadway Debut and Balancing Music and Acting Post- Stranger Things
 Sat, 17 Oct 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/joe-keery-broadway-debut-stranger-things-1236733706/
 
 Keery is appearing on stage with Julia Louis-Dreyfus, Allison Janney, Ed Harris and Lily Rabe.
 
-### Indiana vs. Ohio State: Where to Watch the Top-Five College Football Matchup Online
-Sat, 17 Oct 2026 12:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-indiana-vs-ohio-state-football-game-free-streams-2026-1236734000/
-
-Here's how to livestream the Big Ten showdown between the Buckeyes and Hoosiers on Saturday, Oct. 17.
-
-### Perfect Road Is a Doc That Follows a Nomadic Cyclist Pursuing Grueling Challenges – and Freedom
-Sat, 17 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-nomadic-cyclist-freedom-lff-2026-1236730750/
-
-Adam and Christian Bonke's documentary and character study, screening at the London Film Festival, is a road trip full of mountain vistas and other nature – and existential questions.
-
-### Miley Cyrus Tearfully Pays Tribute to Dolly Parton With Jolene Performance at Hollywood Bowl: Me and Dolly, We Are Eternal
-Sat, 17 Oct 2026 04:48:51 +0000 — https://www.hollywoodreporter.com/music/music-news/miley-cyrus-dolly-parton-hollywood-bowl-jolene-watch-1236734264/
-
-The singer told the crowd that one of the things that inspired her to play the venue was the memory of the only time she was able to sit and enjoy a Parton show at the Hollywood Bowl.
-
-### Jacob Elordi Thought He Was Having a Mental Breakdown Until He Saw a John Cassavetes Film: Made Me Feel a Lot Less Insane and Alone
-Sat, 17 Oct 2026 01:56:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jacob-elordi-interview-cartier-john-cassavetes-film-sean-baker-1236734149/
-
-The Oscar-nominated actor and Cartier ambassador joined Oscar-winning filmmaker Sean Baker and moderator Kim Morgan for a Cartier Cinema Club event at Santa Monica's Aero Theatre on Friday.
-
-### Angie Nixon Says Black Republican Byron Donalds Doesn t Support Black People
-Sat, 17 Oct 2026 00:37:25 +0000 — https://www.hollywoodreporter.com/news/politics-news/angie-nixon-byron-donalds-criticism-polls-ahead-running-1236734130/
-
-The Florida Senate candidate, who is also Black, criticizes the Florida gubernatorial hopeful on an upcoming episode of Crooked Media's 'Long Play.'
-
-### How You Can See Everything Exacts Hollywood s Revenge on Big Tech
-Fri, 16 Oct 2026 23:13:36 +0000 — https://www.hollywoodreporter.com/business/digital/you-can-see-everything-fielder-holmes-themes-showtimes-1236734072/
-
-Along with 'Artificial,' 'Musk' and 'The Social Reckoning,' the storytellers are finally getting back at the engineers.
-
-### Timothy Busfield Child Sex Abuse Case Dismissed Over Prosecutorial Misconduct
-Fri, 16 Oct 2026 23:09:09 +0000 — https://www.hollywoodreporter.com/news/general-news/timothy-busfield-child-sex-abuse-case-dismissed-1236734102/
-
-A New Mexico judge says prosecutors failed to act “in a fair and impartial manner” before the grand jury, but refiling remains possible.
-
-### John Amos’ Daughter Sues Brother for Wrongful Death Over Actor s Death
-Fri, 16 Oct 2026 23:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/john-amos-daughter-sues-brother-for-wrongful-death-over-actors-death-1236733965/
-
-Shannon Amos accuses K.C. Amos of exploiting their father while ignoring his medical needs in a plan to gain control of the actor's finances upon his death.
-
-### Austin Abrams Still Won’t Admit Which Was Tougher to Shoot, Whalefall or Resident Evil
-Fri, 16 Oct 2026 22:48:07 +0000 — https://www.hollywoodreporter.com/movies/movie-features/whalefall-austin-abrams-resident-evil-1236733923/
-
-The actor dives deep into 'Whalefall,' and partakes in a 'Resident Evil' post-mortem speed round.
-
 ## Deadline
+
+### Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs Jolene
+Sat, 17 Oct 2026 18:26:36 +0000 — https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/
+
+Miley Cyrus delivered a teary tribute to her godmother Dolly Parton at the Hollywood Bowl last night, sitting on the edge of the stage and lamenting the fact that she d only got to see the country music icon perform just once at that very venue. “I only got to see Dolly Parton live in concert [ ]
+
+### Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert
+Sat, 17 Oct 2026 17:04:25 +0000 — https://deadline.com/2026/10/harry-styles-liam-payne-madison-square-garden-1237166392/
+
+Harry Styles paid tribute last night to his late One Direction bandmate Liam Payne by performing an unreleased acoustic song titled What Is Enough from the stage of Madison Square Garden. The sold-out performance came on the two-year anniversary of Payne s death at 31 from a fall from a balcony at the CasaSur Palermo Hotel [ ]
+
+### Pro Wrestler Benjamin Satterley Cause Of Death Determined
+Sat, 17 Oct 2026 16:08:58 +0000 — https://deadline.com/2026/10/benjamin-satterley-cause-of-death-1237166368/
+
+Champion professional wrestler Benjamin Satterley died last month at 40 of bronchial asthma, Chicago s Cook County Medical Examiner’s Office has determined. The death was classified as natural. The cause of death was first reported by The New York Post and has been confirmed by other media outlets. Satterley, who over the years wrestled for AEW [ ]
+
+### Street Fighter Socks $31M, You Can See Everything Has Lines Around The Block With $12M+ Docu Milestone Saturday Update
+Sat, 17 Oct 2026 15:01:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
+
+SATURDAY AM: It s a healthy third weekend at the October box office even with a bellyflop in 20th Century Studio s $60M Whalefall in the mix which is only swallowing a $7.5M opening. Paramount/Legendary/Capcom s Street Fighter is doing what it s supposed to do with a $31M start, largely pulling in an older dude demo over 35 [ ]
 
 ### Michael Forest Dies: Actor In Roger Corman B-Movies, Star Trek s Apollo Was 97
 Sat, 17 Oct 2026 13:42:52 +0000 — https://deadline.com/2026/10/michael-forest-dead-1237166329/
@@ -146,34 +166,16 @@ Sat, 17 Oct 2026 01:01:38 +0000 — https://deadline.com/2026/10/diablo-cody-jen
 
 As Diablo Cody prepares to resurrect Megan Fox s teen succubus one more time, she s adding a more human element to the demonic role. While discussing the imminent sequel Jennifer s Body 2, the Oscar-winning writer explained that the followup will explore even more about why Jennifer is sympathetic and what she s been through after she was [ ]
 
-### Malibu s Bryson Fire Containment Grows To 39% As Wind Conditions Begin To Improve
-Sat, 17 Oct 2026 01:00:03 +0000 — https://deadline.com/2026/10/bryson-fire-malibu-1237158950/
-
-UPDATED with latest: Improving wind conditions helped firefighters make progress on the Bryson Fire north of Malibu on Friday, with the latest reports saying the brushfire is now 39% contained. The fire has consumed an estimated 147 acres as of a report this afternoon by the Los Angeles County Fire Department, which has had jurisdiction [ ]
-
-### How ‘Whalefall’s Director Author Wove The Closure Of A Father-Son Relationship Into A Survival Tale
-Fri, 16 Oct 2026 23:20:50 +0000 — https://deadline.com/2026/10/whalefall-dad-son-themes-director-author-explain-set-visit-1237158531/
-
-SPOILER ALERT: This story spoils the plot of the film Whalefall, now out in theaters, based on Daniel Kraus novel. A running joke Whalefall director Brian Duffield had going to summarize the film hailing from 20th Century Studios and Imagine Entertainment and hitting theaters this week was that “men would rather get swallowed by a [ ]
-
-### ‘La Bola Negra’ Directing Duo Los Javis Reveal How Spanish Sensation Became “The Journey Of Our Lives”
-Fri, 16 Oct 2026 22:15:00 +0000 — https://deadline.com/2026/10/la-bola-negra-directors-interview-los-javis-1237165637/
-
-Penélope Cruz had been a muse to Los Javis — the moniker for Spanish filmmakers Javier Ambrossi and Javier Calvo — for years before they met for lunch to persuade her to play a singer (more a force of nature, really) in La Bola Negra, an electrifying sensation at Cannes that’s now Spain’s entry for [ ]
-
-### Crystal Lake s Gwendolyn Sundstrom On Grace s Friendship With Jason, Learning A Lot From Linda Cardellini That Killer Twist
-Fri, 16 Oct 2026 22:00:00 +0000 — https://deadline.com/2026/10/crystal-lake-gwendolyn-sundstrom-killer-twist-1237158527/
-
-SPOILER ALERT: This post contains details about Peacock s series Crystal Lake. While Crystal Lake revisits several familiar locals from the Friday the 13th franchise, Gwendolyn Sundstrom brings a fresh role to the slasher prequel series. Now available to stream on Peacock, Sundstrom told Deadline that Jason Voorhees (Callum Vinson) childhood friend Grace has been her [ ]
-
 ## befores & afters
 
-### Turning Hugh Jackman into his younger clone
-Thu, 15 Oct 2026 14:12:07 +0000 — https://beforesandafters.com/2026/10/16/turning-hugh-jackman-into-his-younger-clone/
-
-How the X-24 clone in Logan was made, with VFX by Image Engine. This episode is sponsored by ActionVFX . Get 20% off any ActionVFX course using the code B4ACOURSES at checkout: https://bit.ly/befores-and-afters Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post Turning Hugh Jackman into his younger clone appeared first on befores & afters .
+_Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Seth Rogen Trusted Animated ’Tangles’ Would Resonate Because of Its ’Specificity’
+Sat, 17 Oct 2026 14:54:59 +0000 — https://www.indiewire.com/news/festivals/seth-rogen-tangles-specificity-animated-middleburg-1235222534/
+
+“You could put 10 movies on the screen. If this was one of them, the specificity of it is what would make you instantly recognize it," said Rogen of the IFC animated film he produced.
 
 ### Can AI Make a Sci-Fi Series for $38,000? Artlist’s ‘The Arc’ Puts It to the Test
 Fri, 16 Oct 2026 22:35:10 +0000 — https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/
@@ -230,17 +232,37 @@ Thu, 15 Oct 2026 22:28:30 +0000 — https://www.indiewire.com/news/breaking-news
 
 Production has been paused while Reeves attends to a family matter.
 
-### Netflix Stunner: Bela Bajaria Out as Chief Content Officer, Former Disney Exec Peter Rice Steps in
-Thu, 15 Oct 2026 22:00:15 +0000 — https://www.indiewire.com/news/business/netflix-bela-bajaria-out-chief-content-officer-1235222301/
-
-The executive had been with the streamer for 10 years and grew the platform into a dominant force in television.
-
 ## The Wrap
+
+### Miley Cyrus Tearfully Honors Dolly Parton at LA Concert: ‘I Feel Her More Than Ever
+Sat, 17 Oct 2026 17:55:34 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-honors-dolly-parton-at-la-concert/
+
+During her first full-length concert in nearly four years, Miley Cyrus took the stage at the Hollywood Bowl on Friday and teared up as she paid tribute to her late godmother, Dolly Parton. Cyrus, who is playing two sold-out shows at the iconic Los Angeles venue following the release of her September album “Bass Persuades,” shared memories of Parton. She told the audience that she was partly inspired to choose the Hollywood Bowl because it was the only place she had seen Parton in concert. “I only got to see Dolly Parton live in concert one time in my entire life and it was here,” she said. “I spend a lot of time backstage and if she had it her way, when she was playing a show, I’d be standing right beside her in a matching costume. And so, when I was coming to the show at the Bowl to see her, I said, ‘You know, I would love a night where I could just experience you.’ Avant de performer Jolene, Miley a pleuré et a également expliqué l’importance de Dolly Parton dans sa vie, et ce depuis son enfance. Elle rêvait de performer au Hollywood Bowl car c’est là qu’elle a vu Dolly en concert pour la seule et unique fois. pic.twitter.com/5hYJ1LcBmT &mdash; Miley Cyrus France (@MileySource_FR) October 17, 2026 Apparently, Parton couldn’t help herself. During her set, she told the crowd that Cyrus was in the audience and proceeded to sing “Best of Both Worlds,” the title track from Cyrus’ show “Hannah Montana.” As Cyrus explained, the move “defeated the entire purpose” of her trying to b
+
+### ‘Crystal Lake’ Showrunner Brad Caleb Kane on Some of the Series’ Most Controversial Changes
+Sat, 17 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/crystal-lake-peacock-changes-explained-brad-caleb-kane/
+
+Just when you thought it was safe to be a promiscuous camp counselor at a ramshackle summer camp … “Crystal Lake” is here. The new “Friday the 13th” prequel series from A24 has arrived on Peacock, just in time for spooky season. It follows Linda Cardellini’s Pamela Voorhees, who is dealing with the drowning of her young son Jason at the summer camp where she works. But what starts as an exploration of a mother’s grief in the face of unimaginable tragedy soon spirals out into something much, much bigger… TheWrap spoke with showrunner Brad Caleb Kane, who took over the series after Bryan Fuller and Jim Danger Gray had initially developed the project, about some of the bigger and more controversial aspects of the series. Obviously huge spoilers below , do not read until you’ve finished the entire series. If not, you’ll likely be drowned in the chilly waters of Crystal Lake. Pam doesn’t kill the counselors This is something that is really shocking and odd — in a moment lifted directly from Sean S. Cunningham’s original “Friday the 13th,” we get a POV shot of someone killing the two counselors that were responsible for Jason’s drowning. This is what starts the original film and is, arguably, one of the more iconic images from that movie. All of this makes the reveal in “Crystal Lake” — that it wasn’t Pam who killed the counselors but rather a young girl named Grace (Gwendolyn Sundstrom) who has taken LSD with some local hippies. (Yes, these are actual plotlines.) Grace, you see, w
+
+### Trump Had His Eye on Maria Bartiromo for Press Secretary Before Katie Zacharia: Report
+Sat, 17 Oct 2026 17:01:18 +0000 — https://www.thewrap.com/media-platforms/politics/donald-trump-maria-bartiromo-for-press-secretary-before-katie-zacharia-report/
+
+Before Katie Zacharia’s brief turn as White House press secretary, Donald Trump reportedly had his eye on former Fox News host Maria Bartiromo for the job. According to a Friday report from Axios , two administration sources told the outlet that the president wanted Bartiromo to take over for Karoline Leavitt. However, she “signaled she was not going to take the job.” CNN’s Scott Jennings was also “in contention” but was reportedly not offered the role. Bartiromo abruptly exited Fox News Media in September . Fox Business Network’s “Mornings With Maria” was rebranded as “Mornings With FOX Business,” while “Maria Bartiromo’s Wall Street” was also taken off the air. Fox did not provide a reason for Bartiromo’s departure. “We thank Maria for her work over the last 12 ½ years and wish her all the best on her next chapter,” Fox News Media said in a statement at the time. Representatives for Bartiromo and the White House did not immediately respond to TheWrap’s requests for comment. Zacharia was fired Friday, just five days after taking over for Leavitt. Her tenure got off to a rocky start with a first press briefing that lasted just 14 minutes. Her departure marked the shortest tenure for a White House press secretary in modern history, surpassing the previous record set by Anthony Scaramucci, who was fired after 11 days as White House communications director in 2017. The dismissal came just hours after the president urged Zacharia to “reconsider” the opportunity following a rocky 
+
+### The 3 Best Movies to Watch on Netflix This Week
+Sat, 17 Oct 2026 17:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-to-watch-on-netflix-this-week-oct-18/
+
+October means Halloween, and Halloween means it s officially horror season! This week s crop of movies to check out on Netflix reflect the best features that ll make you scream. Whether you re big into scares or like to set the mood for Halloween month with some lighter terror, Netflix is a treasure trove of options. The streamer is currently host to one of the best Stephen King adaptations of the last decade, one of the best unsung movies of the year, and an all-time monster flick. That should be enough of a range to have something for everyone this month. These are the three best movies you should check out on Netflix this week. Gerald s Game (Credit: Netflix) Gerald s Game It might seem like a story about a woman handcuffed to a bed for 98% of the runtime would get old fast. But not in Stephen King s hands, and not in front of ace King adaptor Mike Flanagan . This Netflix release follows Jessie – played by the always great Carla Gugino – who gets stuck handcuffed to her bed after her husband has a heart attack while trying to spice up their love life. Gerald s Game becomes a story of survival as Jessie confronts her own past demons as her body begins to fail her without food or water. There are still plenty of gruesome moments in the film, including a scene near the end that will turn stomachs and sit with you long after the credits roll. 28 Years Later: The Bone Temple (Credit: Sony Pictures Releasing) 28 Years Later: The Bone Temple Ten and a half months into 2026, and “
+
+### Street Fighter Tops Box Office With $31 Million While You Can See Everything Tops Whalefall
+Sat, 17 Oct 2026 15:03:06 +0000 — https://www.thewrap.com/culture-lifestyle/culture/street-fighter-you-can-see-everything-friday-box-office/
+
+Paramount/Legendary s Street Fighter is off to a decent start at the box office after its $12.5 million opening day, including $4 million from Thursday previews. With that start, the Capcom fighting game adaptation is looking at a $31 million opening weekend. While overseas grosses will help this $82 million co-production between Legendary and Capcom, this domestic launch is below the $38.5 million of the R-rated fighting game adaptation Mortal Kombat II, which Warner Bros. and New Line released this past May. Mortal Kombat II proved to be a frontloaded film at the box office, and Street Fighter could be the same as it has earned a B- on CinemaScore and an 80% Rotten Tomatoes audience score, slightly below the B and 86% earned by MK II. Coincidentally, that B- CinemaScore grade is the same grade handed by audiences to the 1994 Street Fighter film starring Jean Claude Van Damme and Raul Julia. Taking the No. 2 spot on the charts in historic fashion is A24 s You Can See Everything, topping 20th Century Studios survival thriller Whalefall. Riding off of critical and audience acclaim, Lance Oppenheim and Nathan Fielder s documentary took in $5.5 million from just 855 screens as it is now on its way to a $12.5 million opening weekend, topping the estimated $7 million opening weekend of Whalefall from a much wider 3,065 locations. Not only does this opening top the $7.1 million launch of the February Amazon MGM doc Melania from twice as many screens, it is on pace to become the big
 
 ### Ethan Hawke Makes 90s Crush Confession to Drew Barrymore: I Wanted It to Happen
 Sat, 17 Oct 2026 04:21:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/ethan-hawke-drew-barrymore-wanted-to-date-90s/
 
-Ethan Hawke confessed to Drew Barrymore that he contemplated dating her in the 90s, admitting he didn t make a move as he had wanted it to happen organically. The Reality Bites and The Lowdown star stopped by The Drew Barrymore Show on Friday, where the two 90s icons discussed how they never got a chance to meet until now. “I don’t think I can remember a time in my life when I was not aware of you,” Hawke said, prompting Barrymore to reveal she felt the same way. “What I can’t believe is that we never dated, you know?” he added. As the audience erupted into laughter and applause, Barrymore chimed in with, Where were you?! Where were you, Ethan? Barrymore then alluded to Hawke s heartthrob status in the 90s, quipping, What me and every other girl on the planet wouldn t have given to date you. Where the hell were you? Here s where Hawke confessed that, had the two industry veterans crossed paths sooner, it could ve happened. “There was many a night, when I would — it must have been circa the ’90s — I’d be going to a party, and I’d think, ‘Maybe Drew will be there,' Hawke told Barrymore, who responded by throwing herself back on her talk show s couch. “Where were you?” she asked again before asking more follow-up questions. “Why didn’t you call me? We still had phones back then.” Hawke s answer? “You know, I like to play it cool,” he explained. “I wanted it to happen organically. I thought, you know, something magical would happen.” Barrymore then playfully reprimanded Hawke for
+Ethan Hawke confessed to Drew Barrymore that he contemplated dating her in the 90s, admitting he didn t make a move as he had wanted it to happen organically. The Reality Bites and The Lowdown star stopped by The Drew Barrymore Show on Friday, where the two 90s icons discussed how they never got a chance to meet until now. “I don’t think I can remember a time in my life when I was not aware of you,” Hawke said, prompting Barrymore to reveal she felt the same way. “What I can’t believe is that we never dated, you know?” he added. As the audience erupted into laughter and applause, Barrymore chimed in with, Where were you?! Where were you, Ethan? Barrymore then alluded to Hawke s heartthrob status in the 90s, quipping, What me and every other girl on the planet wouldn t have given to date you. Where the hell were you? Here s where Hawke confessed that, had the two industry veterans crossed paths sooner, it could have happened. “There was many a night, when I would — it must have been circa the ’90s — I’d be going to a party, and I’d think, ‘Maybe Drew will be there,' Hawke told Barrymore, who responded by throwing herself back on her talk show s couch. “Where were you?” she asked again before asking more follow-up questions. “Why didn’t you call me? We still had phones back then.” Hawke s answer? “You know, I like to play it cool,” he explained. “I wanted it to happen organically. I thought, you know, something magical would happen.” Barrymore then playfully reprimanded Hawke f
 
 ### Scott Jennings Put on the Spot by CNN Peers About Filling Vacant White House Press Secretary Role
 Sat, 17 Oct 2026 03:38:11 +0000 — https://www.thewrap.com/media-platforms/politics/scott-jennings-grilled-on-air-katie-zacharia-press-secretary-replacement/
@@ -260,82 +282,57 @@ Pretty crazy, huh? That s what Billy Evans, longtime partner of Theranos founder
 ### Diablo Cody Shares Update on ‘Jennifer’s Body 2,’ Teases a ‘Sympathetic’ Take on Megan Fox’s Man-Eating Role
 Sat, 17 Oct 2026 01:40:42 +0000 — https://www.thewrap.com/creative-content/music/diablo-cody-shares-update-jennifers-body-2-plot/
 
-Diablo Cody shared an update for the sequel to her 2009 horror comedy Jennifer s Body, confirming in a recent interview that the follow-up film would be happening imminently. Jennifer is a sympathetic character for me, before and after the transformation, Cody said on the Petticoat Revolution podcast while discussing the high school cheerleader-turned-possessed succubus. She s very isolated. She s very lonely. She s very insecure. Everybody remembers Jennifer when she s like, I am a god or like, when she s at her most radiant and at her most powerful. but people forget about these moments in the movie where she s like a shell of herself. Like, she s just like exsanguinated almost. Cody then took a moment to praise Fox s take on the film s titular monster, stating she played both of those sides of Jennifer so well. At this moment, Cody teased what s to come for the Jennifer s Body sequel, assuring the Petticoat Revolution podcast hosts that Fox s character would get a more sympathetic tale. I can t talk about it too much, but you know, we re doing a sequel to this movie like, imminently, she said. And I felt like, in the new movie, I was able to explore even more about why Jennifer is sympathetic and what she s been through. She added: And there is, absolutely to me like, a loneliness and a poignancy to that character that people don t always recognize. Cody s update comes over a year after Amanda Seyfried hinted that a Jennifer s Body sequel was in the works. “I think we’re m
-
-### Trust Me, I m a Doctor Review: Legal Drama About Anna Nicole Smith s Physician Makes an Unconvincing Case
-Sat, 17 Oct 2026 01:02:29 +0000 — https://www.thewrap.com/creative-content/movies/trust-me-im-a-doctor-review-kal-penn-abbie-cornish-anna-nicole-smith/
-
-I don’t know if anything more can be said about Anna Nicole Smith, the supermodel, actress, reality tv star and pop icon who died from a combined prescription drug overdose in 2007. But if there is, writer/director Thane Economou’s new film “Trust Me, I’m a Doctor” doesn’t say it. “Trust Me, I’m a Doctor” isn’t a biopic about Anna Nicole Smith, it’s a biopic about being in her orbit. Kal Penn stars as Dr. Sandeep Kapoor, who wrote Smith s prescriptions, which were heavily scrutinized after her death. Smith was a celebrity, so, of course, there was a media blitz. Dr. Kapoor became tabloid fodder, his life was placed under a microscope and he was eventually put on trial along with several other people who, perhaps, could have prevented Smith’s tragic death. As a biopic, it’s bog standard, ripped from the headlines material, with a smattering of fourth wall breaks to keep it punchy. “Trust Me” claims, in no uncertain terms, that Dr. Kapoor made mistakes but he wasn’t a bad guy. At one point, his father tells him, “You’re not a liar or a fraud, you’re a human being,” which is a nice thing to hear if you’re his son. The rest of us know human beings can also be liars and frauds. Quite a lot of them are. Kal Penn plays Dr. Kapoor with a deer-in-the-headlights performance, befitting of a man shoved into the spotlight, adrift in a chaotic situation. It’s supposed to be a sympathetic portrayal, and it probably would have been if “Trust Me, I’m a Doctor” didn’t also include a scene wher
-
-### Paul Bettany Says He Was Misrepresented as Johnny Depp s Close Friend During Amber Heard Trial: Haven’t Spoken to Him Since
-Sat, 17 Oct 2026 00:27:37 +0000 — https://www.thewrap.com/culture-lifestyle/culture/paul-bettany-misrepresented-johnny-depp-close-friend/
-
-As Paul Bettany brings the WandaVision trilogy to a close in VisionQuest , the longtime Marvel Cinematic Universe star has responded to a past controversy involving the trial of Johnny Depp and Amber Heard. Bettany, who was caught in a text exchange with the former “Pirates of the Caribbean” star during Depp’s 2020 libel case against The Sun, spoke to The Times about his career Thursday following the premiere of “VisionQuest.” In the interview, Bettany sought to distance himself from Depp, claiming he had been misrepresented as a close acquaintance of his “The Tourist,” “Transcendence” and “Mortdecai” co-star. It was a very interesting time, Bettany said. I hadn t spoken to Johnny in years when that happened, and I haven’t spoken to him since. I was being painted as this close friend of a guy I hadn’t spoken to in years and, honestly, amid all the s t two celebrities threw at each other, that bit was the most odd.” Bettany, who has had a relatively “controversy-light career,” as The Times noted, said he chose to say nothing at the time. In the years since the trial, he has spoken about the incident, telling The Independent that “it was an unpleasant feeling” to have his texts and emails from a 10-year period scoured over. “I decided to say nothing because, I think, people know me,” Bettany told The Times on Thursday. “I’ve been married 23 years and, for what I do, I live an incredibly quiet life. Everybody kind of thought this is probably a nothing burger — and left it alone.
-
-### Sense Sensibility : How Georgia Oakley Made an Emotional, Earthy Austen Adaptation for the Yearners
-Sat, 17 Oct 2026 00:10:10 +0000 — https://www.thewrap.com/creative-content/movies/sense-and-sensibility-georgia-oakley-daisy-edgar-jones-interview/
-
-How do you breathe new life into a story, hundreds of years old, that s already had its fair share of adaptations? That s the challenge Georgia Oakley faced when bringing Jane Austen s Sense & Sensibility back to the big screen — a challenge she overcame pretty handily, turning the centuries-old story into an emotional, swooning, yearn-filled achievement. It felt to me that there was an intimacy between this family, the Dashwoods, and the fact that we’re allowed to observe them in their own home when they’re not expecting visitors and all of that, I questioned whether everything would be quite so formal and rigid as it often is in Austen adaptations, Oakley told TheWrap. I spoke a lot about that with my heads of department, just trying to lean into this sort of intimacy and this sort of human aspect about the story. I wanted audiences to be able to feel like they could reach through the screen and touch the characters as opposed to kind of being kept at arm’s length. This sense of remove from period adaptations is a feeling Oakley has struggled with herself in the past. In her own take on Sense & Sensibility, Oakley sought to remove this barrier for the audience, portraying a timeless story of love and sisterhood. I think she really wanted to dissolve the barriers you can sometimes feel when you watch a period piece because it can be so ornate and the language is a lot more poetic, Daisy Edgar-Jones told TheWrap. Obviously we no longer wear bonnets and ride in carriages. But 
-
-### Judge Threatens Trump With Sanctions for Bailing on $10 Billion BBC Defamation Deposition
-Sat, 17 Oct 2026 00:09:54 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/judge-threatens-trump-sanctions-bbc-defamation-deposition/
-
-A federal judge threatened to sanction President Donald Trump for failing to attend a deposition hearing Friday in his $10 billion defamation lawsuit against the British Broadcasting Corporation. Trump sued the BBC for $5 billion back in December , alleging a “false, deceptive and defamatory” edit of the “Panorama” documentary “Trump: A Second Chance?” The broadcaster apologized for the edit but denied that it defamed Trump. The president is seeking $5 billion for defamation and another $5 billion under Florida’s deceptive trade practices law. U.S. Magistrate Judge Enjoliqué A. Lett wrote in a Friday order that the president repeatedly evaded court-ordered “meet and confer” obligations during the discovery phase of the lawsuit. “The Court has admonished [Trump] for his lack of participation to no avail,” Lett wrote in a Friday order . “Going forward, the Court expects strict compliance with its order, the failure of which will lead to sanctions.” The president was scheduled to sit for a deposition hearing Friday as he seeks damages from the BBC. Late last month, his lawyers canceled the session, citing “matters of national importance” and proposed pushing Trump’s testimony to January 2027. He is currently traveling to support Republican candidates ahead of the midterm elections. Trump visited Georgia to support Senate candidate Mike Collins, who is running against incumbent Sen. Jon Ossoff, and gubernatorial candidate Rick Jackson. He is scheduled to travel to Mar-a-Lago on F
-
-### James Cameron Congratulates Avengers: Endgame for Besting Avatar as Biggest Movie Ever – Again
-Fri, 16 Oct 2026 23:42:06 +0000 — https://www.thewrap.com/creative-content/movies/james-cameron-congratulates-avengers-endgame-box-office-again/
-
-James Cameron congratulated Marvel and Avengers: Endgame for once again surpassing Avatar as the highest-grossing movie of all time with a cumulative $2.9 million at the box office thanks to its Encore re-release in September. “You are one of the people,” Cameron wrote over an image of Iron Man being welcomed by a Na’vi tribe from “Avatar.” “Congratulations to Marvel and the #1 ‘Avengers: Endgame: Encore’ for bringing moviegoers to the cinemas!” Cameron wrote, signing the message off as Jim Cameron. It s the second time the Titanic filmmaker has passed the crown to Avengers, after he previously congratulated Marvel and Endgame for surpassing Avatar in July 2019. Avatar then usurped Endgame again with its 2021 re-release. To date, the total international box office for Avatar is $2.924 billion, according to The Numbers . The Marvel feature, meanwhile, hit $2.9255 billion following its Avengers: Endgame Encore re-release on Sept. 25. The weekend of its release saw the Disney/Marvel Studios’ project rise to the top spot on the box office charts on a weekend filled with new films that had given theaters plenty of great business but have left some of them, such as Paramount’s “Heart of the Beast” and Universal/DreamWorks’ “Forgotten Island,” facing an uncertain future despite strong reception. “Endgame Encore,” which featured a modified ending and new post-credit scenes to set up the upcoming “Avengers: Doomsday” this winter, earned $11.2 million from 3,060 locations on its openin
+Diablo Cody shared an update for the sequel to her 2009 horror comedy Jennifer s Body, confirming in a recent interview that the follow-up film would be happening imminently. Jennifer is a sympathetic character for me, before and after the transformation, Cody said on the Petticoat Revolution podcast while discussing the high school cheerleader-turned-possessed succubus. She s very isolated. She s very lonely. She s very insecure. Everybody remembers Jennifer when she s like, I am a god or like, when she s at her most radiant and at her most powerful. but people forget about these moments in the movie where she s like a shell of herself. Like, she s just like exsanguinate almost. Cody then took a moment to praise Fox s take on the film s titular monster, stating she played both of those sides of Jennifer so well. At this moment, Cody teased what s to come for the Jennifer s Body sequel, assuring the Petticoat Revolution podcast hosts that Fox s character would get a more sympathetic tale. I can t talk about it too much, but you know, we re doing a sequel to this movie like, imminently, she said. And I felt like, in the new movie, I was able to explore even more about why Jennifer is sympathetic and what she s been through. She added: And there is, absolutely to me like, a loneliness and a poignancy to that character that people don t always recognize. Cody s update comes over a year after Amanda Seyfried hinted that a Jennifer s Body sequel was in the works. “I think we’re ma
 
 ## Collider
 
-### Ridley Scott-Inspired Sci-Fi Thriller Officially Gets Streaming Redemption
-Sat, 17 Oct 2026 13:15:14 GMT — https://collider.com/underwater-streaming-success-prime-video-october-2026/
+### 'Fire Country' Season 5 Is Officially Failing One of Its Most Important Characters
+Sat, 17 Oct 2026 18:38:14 GMT — https://collider.com/fire-country-season-5-jake-crawford-malcolm-missing/
 
-The Alien franchise may be stuck in limbo (again), but that isn't going to stop filmmakers inspired by the series from creating their own homages. In the last decade, movies such as The Cloverfield Paradox , Life , and Annihilation have experienced varying degrees of success and failure. Meanwhile, the original franchise has hit a roadblock after being revived on the big screen by Fede Álvarez 's Alien: Romulus , and on television by Noah Hawley 's Alien: Earth . Ridley Scott , who directed the original 1979 classic and two subsequent prequels, has expressed indifference toward Romulus , suggesting that he wants to reclaim the reins of the series. However, Scott's recent track record hasn't been all that inspiring. While fans wait for official word on where the series is headed next, they seem to be checking out another entry in the long line of Alien-inspired movies at home.
+Editor's Note: The following contains spoilers for Fire Country Season 5 Episode 2. Fire Country is back for its fifth season, but there have been some noticeable absences in the first two episodes . In Season 4, the writers finally remembered a subplot that was first introduced way back in the Season 1. Jake Crawford ( Jordan Calloway ) has a half-brother who he never met. Season 4 finally brought Malcolm Crawford ( Dominic Goodman ) into the fold, establishing his relationship with his long-lost brother and forging their sibling bond. However, as Season 5 progresses, it's strange that Malcolm Crawford is nowhere to be found , leading to some awkward moments in the latest episode, "Fire Under Fire."
 
-### 7 Adult Animated Shows Where Every Episode Is a Masterpiece
-Sat, 17 Oct 2026 13:04:14 GMT — https://collider.com/best-adult-animated-shows-every-episode-masterpiece/
+### The Biggest Superhero Sci-Fi Bomb of 2026 Is Officially a 30-Day Streaming Sensation
+Sat, 17 Oct 2026 18:30:14 GMT — https://collider.com/supergirl-30-day-streaming-hit-hbo-max-october-2026/
 
-It's rare enough to run into an animated show for adults that's genuinely great from start to finish, but to find one that's not only great, but that doesn't even have a single episode that isn't arguably an absolute masterpiece? Now, that is a rarity that makes such series absolute must-see gems for anyone who loves adult animation . Thankfully, over the course of history, this precious phenomenon has occurred not only once, but on seven particularly noteworthy occasions.
+The summer of 2026 was yet another dominated by a superhero movie. Everyone expected Spider-Man: Brand New Day to perform well at the box office, but no one quite expected it to break quite as many records as it did. The records fell quickly, with the film earning the biggest opening weekend in domestic history . Eventually, Brand New Day overtook Star Wars: The Force Awakens to become the highest-grossing film of all time domestically .
 
-### Marvel Officially Confirms the Winter Soldier's Death
-Sat, 17 Oct 2026 12:49:29 GMT — https://collider.com/bucky-barnes-death-winter-soldier-marvel-comics/
+### The 8 Most Ambitious Gangster Movies of All Time, Ranked
+Sat, 17 Oct 2026 18:28:14 GMT — https://collider.com/most-ambitious-gangster-movies-all-time-ranked/
 
-Sebastian Stan ’s Bucky Barnes has become one of the Marvel Cinematic Universe’s most familiar faces , but the movies have only covered a fraction of his comic book history. He’s carried Captain America’s shield, led the Thunderbolts , and spent years trying to build a life after the Winter Soldier. His friendship with Steve Rogers may be his best-known relationship, but there’s plenty for Marvel to draw from beyond another reunion.
+There have been some epic gangster movies released throughout cinema history, especially within the last 50 or so years. The accomplishments of earlier efforts (like The Public Enemy , Little Caesar , and The Roaring Twenties ) shouldn’t be overlooked, but once you move past that golden/classic era of gangster movies, from around the 1930s, you do find a bunch that are ultimately longer, and definitely more ambitious in scope.
 
-### Ridley Scott's Greatest Movie Franchise Ever Made Is Making a Comeback on Netflix
-Sat, 17 Oct 2026 12:46:14 GMT — https://collider.com/ridley-scotts-greatest-movie-franchise-coming-back-to-netflix-gladiator/
+### George R. R. Martin Fans Are Officially Still Having the Wrong Debate About 'Winds of Winter'
+Sat, 17 Oct 2026 18:27:14 GMT — https://collider.com/the-winds-of-winter-george-rr-martin-brandon-sanderson-comparison/
 
-Few films have remained as such a strong cultural touchstone as that of Ridley Scott ’s 2000 brutal historical epic, Gladiator . The highly decorated, carefully crafted film lives in infamy, tirelessly withstanding the test of time over decades and decades of film history. Perhaps it’s due in part to the killer performances from powerhouses like Joaquine Phoenix and Russell Crowe , or maybe it can be chalked up entirely to the expert hands of director Ridley Scott, Whatever it may be 26 years after the film’s release, the franchise is finally returning to Netflix . Thus, pushing its infamy even further, as the next generation of film fanatics is introduced to the historical film that defines the genre.
+It's no secret that fans have been waiting for George R. R. Martin to release The Winds of Winter for years. In fact, it's been so long that they have run out of things to pick apart in his existing series and have started theorizing about why the book isn't yet complete . But while A Song of Ice and Fire readers descend into chaos, Brandon Sanderson's fans have plenty to read , especially since the author often releases multiple books in the same year.
 
-### Ariana Grande's Crowd-Pleasing Record Breaker Officially Takes Over the World
-Sat, 17 Oct 2026 12:45:15 GMT — https://collider.com/ariana-grande-wicked-streaming-hit-prime-video-october-2026/
+### Forget ‘Yellowstone,’ Taylor Sheridan’s New Western Epic Is Officially Unstoppable on Streaming
+Sat, 17 Oct 2026 18:01:14 GMT — https://collider.com/taylor-sheridan-the-madison-streaming-success-paramount-plus-100-days/
 
-Ariana Grande continues her recent run as a Hollywood favorite by joining the cast of the latest legacy sequel to hit 2026 theaters. The pop star joins Robert De Niro , Ben Stiller , Owen Wilson , Teri Polo , Blythe Danner , Skyler Gisondo , and Beanie Feldstein in Focker-in-Law , the long-awaited fourth film in the Fockers franchise. The film hits theaters on November 25, 2026, and follows Greg's son Henry as he introduces a strong-willed woman into the circle of trust .
+No writer has been as busy in the last few years as Taylor Sheridan , who is slowly working his way back into the world of movies after expanding his empire of TV shows at Paramount . Those who have been enjoying Sheridan’s many series on Paramount Plus will soon have to migrate to a new platform, though, as it was announced that he will officially leave Paramount for NBCUniversal at the end of 2028, meaning all of his new shows will instead stream on Peacock . This summer, the Sheridan-written and produced series that fans around the world can’t stop watching is Lioness , the hit spy thriller starring Zoe Saldaña and Michael Kelly . Paramount has also confirmed that Kelly will migrate to star in another Sheridan series, the third season of Landman , which is set to air in 2027.
 
-### Matt Damon’s Near-Perfect Sci-Fi Thriller Is Officially a 100-Day Streaming Superhit
-Sat, 17 Oct 2026 12:30:14 GMT — https://collider.com/matt-damon-the-martian-streaming-success-october-2026/
+### 10 Thriller Movies That Are 10/10 Masterpieces
+Sat, 17 Oct 2026 17:57:14 GMT — https://collider.com/thriller-movies-perfect-masterpieces/
 
-2026 has been a record-shattering year for Matt Damon , who has starred in huge movies on streaming and in theaters. At the beginning of the year, Damon took his talents to Netflix to team up with his long-time creative partner and friend, Ben Affleck , for The Rip . The Miami-set crime thriller pulled over 100 million views during its initial viewing period on Netflix, which was enough to make it one of the most-watched films of 2026 on the platform. Damon also reunited with director Christopher Nolan on his new blockbuster historical epic, The Odyssey , which recently sailed past $1.5 billion at the global box office. Damon is being eyed for yet another Oscar nomination for his performance as Odysseus in the film, and it could be the first time ever he takes home the award for his performance.
+A good thriller keeps you on your toes, eager for what’s to come around the next turn. Whether murder mysteries or science-fiction nightmares, films under the broader thriller umbrella have delighted audiences for decades . But the ones that remain timeless are the ones that are 10/10, no notes.
 
-### 10 Fantasy Movies That Are Fun From Start to Finish
-Sat, 17 Oct 2026 12:29:15 GMT — https://collider.com/fantasy-movies-fun-start-to-finish/
+### 10 Great Noir Thrillers That Are Quietly Intense
+Sat, 17 Oct 2026 17:52:15 GMT — https://collider.com/great-noir-thriller-movies-quietly-intense/
 
-Fantasy movies are among the oldest examples of cinema. The genre was already beloved for its ability to tell imaginative stories that turn the mundane into the magical, and cinema allowed this to be fully realized thanks to special effects and elaborately constructed sets and animatronics. As technology has improved, it has allowed filmmakers to become more experimental, leading to more and more fantasy movies gracing the big screen.
+There are many ways in which a thriller film—noir thrillers definitely included—can be great, but something that's kind of non-negotiable is a sense of intensity. This is what thrillers are all about, after all: suspense, tension, and constantly wondering what could possibly happen next. However, where some of history's best noir thrillers achieve their intensity by being remarkably loud, fast-paced, and action-packed, others have benefited from a far quieter kind of intensity .
 
-### 5 Perfectly Moody Grunge Songs for Autumn
-Sat, 17 Oct 2026 12:20:14 GMT — https://collider.com/grunge-alternative-rock-autumn/
+### ‘Star Wars’ Box-Office Disappointment Officially Finds Redemption on Streaming
+Sat, 17 Oct 2026 17:30:14 GMT — https://collider.com/star-wars-the-mandalorian-and-grogu-streaming-hit-disney-plus-october-2026/
 
-Autumn lends itself to the moody, poetic introspection of grunge music . Both the season and the genre are beautiful and magical – but with an undeniably bone-chilling dark side. 'Tis the season for the musical stylings of timeless alternative rock bands such as Nirvana , The Cranberries , and Pearl Jam . This list features five unforgettable songs that embody the feeling of fall – both the good and the bad – and ease listeners into the growing darkness during this ephemeral time of the year.
+Little did Disney expect that two viral horror sensations would derail one of their biggest films of the year. Backrooms and Obsession became the unlikely smash hits of 2026 in early summer, with the latter even becoming the highest-grossing original horror movie of this century and the fifth highest-grossing horror film of all time in a stunning theatrical run. Because of this, The Mandalorian and Grogu earned much less at the box office than most had predicted.
 
-### The 10 Best Hard Sci-Fi Movies in Film History
-Sat, 17 Oct 2026 12:14:15 GMT — https://collider.com/best-hard-sci-fi-movies-film-history/
+### 7 Sci-Fi Shows From the 2010s That Are Perfect From Start to Finish
+Sat, 17 Oct 2026 17:19:14 GMT — https://collider.com/sci-fi-shows-2010s-perfect-start-to-finish/
 
-The wonder of science fiction is the story's ability to take audiences places they never imagined they could go. From traveling through time to explorations through deep space, the genre's place in cinema has remained highly sought after. In movie history, some of the most beloved films have been narratives that are implausible, yet some of the greatest movies are rooted in hard science.
+The 2010s were a turning point for the sci-fi genre . What was once considered an otherworldly genre, far removed from reality, transformed into something more grounded in human experiences . Sci-fi shows of this decade still embraced elaborate concepts, from time travel to parallel universes, but they also reflected the state of the world , giving even non-sci-fi fans a reason to care. Rather than focusing solely on futuristic technology or fantastical settings, these shows used sci-fi to explore issues that felt closer to home.
 
-### 5 Near-Perfect Miniseries That Hooked Us in the First 5 Minutes
-Sat, 17 Oct 2026 12:05:14 GMT — https://collider.com/near-perfect-miniseries-instantly-hooked/
+### The 6 Best Sci-Fi Books Released Since 2020, Ranked
+Sat, 17 Oct 2026 17:09:14 GMT — https://collider.com/best-sci-fi-books-since-2020-ranked/
 
-Miniseries do not have the luxury of taking several episodes to get interesting. The format gives storytellers a handful of hours to tell a complete story, which means that they need to hook the audience in five minutes , or it’s game over. However, a great opening is only half the battle.
+The 2020s have given sci-fi writers plenty of unsettling material to work with : AI, pandemics, global warming, algorithmic manipulation, gene editing, biohacking, the quest for immortality. The result has been an impressive slate of speculative books that raise urgent questions or take some of these concerning ideas to extreme conclusions.
 

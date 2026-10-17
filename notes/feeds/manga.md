@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-17T13:55:40.767Z
+# Manga — harvested 2026-10-17T18:49:43.480Z
 
 ## Anime News Network
+
+### Octopath Traveler 1 & 2 Game Review
+Sat, 17 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/octopath-traveler-1-and-2/.242702
+
+Square Enix’s experimental RPGs <i>Octopath Traveler I</i> and <i>II</i> are now on Nintendo Switch 2, but is the short-story format and split narrative style all it’s cracked up to be?
+
+### Japan's Video Game Rankings, October 5-11
+Sat, 17 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/japan-video-game-rankings-october-5-11/.242888
+
+<cite>Kingdom Hearts Collection</cite> Switch 2 version debuts at #1, <cite>Ace Combat 8</cite> ranks at #3
 
 ### Bringing the 'Art of Manga' to the Brooklyn Museum
 Sat, 17 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-17/bringing-the-art-of-manga-to-the-brooklyn-museum/.242455
@@ -52,21 +62,21 @@ Fri, 16 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 Dragon Ball cast members discuss how generative AI affects them in press conference
 
-### Viz Media Licenses Jojolion, His Sweet Solace, Under Doctor, More Manga for Summer 2027
-Fri, 16 Oct 2026 22:58:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929
-
-<cite>Someone Hertz, Belladonna's Lover, Bus for Two</cite> manga; more works slated for next summer
-
-### Trails in the Sky 2nd Chapter Game Review
-Fri, 16 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc/trails-in-the-sky-2nd-chapter/.242469
-
-Like <i>Sky 1st, Daybreak</i>, and every other <i>Trails</i> that I have had the good fortune to enjoy so far, <i>Sky 2nd</i> is a darn good RPG and a darn good game.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Black Clover Season 2 Reveals Devil Union Asta Character Visual
+Sat, 17 Oct 2026 15:15:36 GMT — https://animecorner.me/black-clover-season-2-reveals-devil-union-asta-character-visual/
+
+Black Clover Season 2 has released a new Devil Union Asta charactel visual following the premiere of Episode 3 on October 17.
+
+### BanG Dream! Releases "God's Blood" from Ave Mujica prima aurora
+Sat, 17 Oct 2026 14:38:58 GMT — https://animecorner.me/bang-dream-releases-gods-blood-from-ave-mujica-prima-aurora/
+
+BanG Dream! released a short video of Ave Mujica's new song "God's Blood" from&hellip;
 
 ### Interview: MAPPA President & CEO Manabu Otsuka and Director Kaori Makita on the Studio's 15th Anniversary and Growth
 Sat, 17 Oct 2026 00:59:37 GMT — https://animecorner.me/interview-mappa-ceo-manabu-otsuka-and-director-kaori-makita-on-the-studios-15th-anniversary-and-growth/
