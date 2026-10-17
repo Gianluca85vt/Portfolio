@@ -1,6 +1,26 @@
-# Games — harvested 2026-10-17T08:47:54.257Z
+# Games — harvested 2026-10-17T13:55:40.767Z
 
 ## Eurogamer
+
+### Steam's Achievement Sets beta aims to stop new content breaking your completion status
+Sat, 17 Oct 2026 13:12:01 +0000 — https://www.eurogamer.net/steam-achievement-sets-beta
+
+Valve is beta testing Steam Achievement Sets, a feature that lets developers group a game's achievements into collections. Read more
+
+### Gameplay footage emerges of reportedly cancelled Assassin's Creed game Destiny
+Sat, 17 Oct 2026 12:39:42 +0000 — https://www.eurogamer.net/assassins-creed-destiny-cancelled-gameplay-footage-timi-tencent
+
+Footage of a reportedly cancelled Assassin's Creed game set in ancient China has emerged online, including stealth kills, the series' leap of faith, and a spinning umbrella weapon. Read more
+
+### The Blood of Dawnwalker Update 1.1 adds an easier Story mode, a respec potion and animal petting
+Sat, 17 Oct 2026 11:18:21 +0000 — https://www.eurogamer.net/blood-of-dawnwalker-update-1-1-story-mode-pet-animals
+
+Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. Read more
+
+### Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow
+Sat, 17 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/over-the-hill-now-playing
+
+I'd nearly forgotten Over the Hill's predecessor, Art of Rally , was a racing game. But that's not meant as a slight. It's just that, for all the happy hours I poured into it, I don't recall doing a single race. Instead, it was the aimless meandering, the soothing rhythms of exploration and absent-minded collectible hunting in its free-roam mode that held me transfixed. So the fact Over the Hill completely jettisons the racing stuff and leans entirely into the meditative bit - it even starts with a golden Buddha statue running you through the basics, which probably tells you everything you need to know - is exactly my kind of thing. Read more
 
 ### What we've been playing - "I simply didn't know if a first-person shooter could work as a Soulslike"
 Sat, 17 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion
@@ -41,26 +61,6 @@ The latest game to pass a 1 million copies sold milestone is Control Resonant. D
 Fri, 16 Oct 2026 09:07:10 +0000 — https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback
 
 RuneScape : Reignited, a shiny new version of the long-running British MMORPG, has been cancelled less than two weeks after it was revealed. Read more
-
-### Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were "unintended"
-Fri, 16 Oct 2026 08:37:38 +0000 — https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted
-
-Season 5 launched in Battlefield 6 this week as planned, and though most of the new additions - new maps, weapons and vehicles, and gameplay changes - were well received, the season began on a low note due to accusations of generative AI use and because of a major hit to XP gain. Read more
-
-### GTA 6 squeaks into eligibility for The Game Awards 2026 by the smallest of margins - but can it break Clair Obscur: Expedition 33's record number of wins?
-Thu, 15 Oct 2026 16:10:34 +0000 — https://www.eurogamer.net/gta-6-the-game-awards-eligibility-geoff-keighley
-
-This generation's mega-game, Grand Theft Auto 6 , will be eligible for The Game Awards 2026 by a matter of one day. Read more
-
-### Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it
-Thu, 15 Oct 2026 13:48:43 +0000 — https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass
-
-Nintendo and Intelligent Systems have released an expansion pass for Fire Emblem: Fortune's Weave, introducing a string of DLC additions to the tactical RPG starting today, and through into 2027. Read more
-
-### Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists
-Thu, 15 Oct 2026 13:24:51 +0000 — https://www.eurogamer.net/grand-theft-auto-6-launch-trailer
-
-Rockstar Games has released the launch trailer for Grand Theft Auto 6 ahead of its 19th November release. Read more
 
 ## GamesIndustry.biz
 
@@ -104,31 +104,16 @@ Thu, 15 Oct 2026 14:31:28 +0000 — https://www.gamesindustry.biz/dayz-creator-d
 
 Industry veteran Dean Hall has rolled out Brutal, an open-source game development framework made in collaboration by two of his companies, Ahwoo and RocketWerkz. Read more
 
-### Reforj developer 4J Studios announces PC release date at Game Republic New Horizons
-Thu, 15 Oct 2026 13:25:49 +0000 — https://www.gamesindustry.biz/reforj-developer-4j-studios-announces-pc-release-date-at-game-republic-new-horizons
-
-4J Studios has announced that its open-world survival sandbox Reforj will be available on PC via a closed playtest starting in Q1 2027. Read more
-
-### An oral history of the Tomb Raider game no one wanted to make
-Thu, 15 Oct 2026 12:30:00 +0000 — https://www.gamesindustry.biz/an-oral-history-of-the-tomb-raider-game-no-one-wanted-to-make
-
-The 30th anniversary of Tomb Raider is this month, and a new book delves into its late-1990s heyday. The Making of Tomb Raider: 1997-2000 by Daryl Baxter covers a difficult development period for the series. Read more
-
-### House House will not release Big Walk on Xbox in support of pro-Palestinian BDS campaign
-Thu, 15 Oct 2026 11:08:03 +0000 — https://www.gamesindustry.biz/house-house-will-not-release-big-walk-on-xbox-in-support-of-pro-palestinian-bds-campaign
-
-Melbourne-based developer House House will not release its co-op hit Big Walk on Xbox, citing support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) campaign . Read more
-
-### Epic Games claims its new "vibe coded" launcher runs 46% faster than Steam from cold start to store page
-Thu, 15 Oct 2026 09:35:29 +0000 — https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page
-
-Epic Games has released a beta version of its new launcher, claiming it is 46% faster than Steam from cold start to the store page. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Poll: Are You Hyped for October s 9 New PS Plus Games?
+Sat, 17 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games
+
+Plus or minus? 9 new games are coming to PS Plus Extra and Premium this month, but are you actually happy with what's on offer? That's what we're here to find out, as always. So, starting with Extra, we've got what I think is a fairly big deal for the mid-tier subscription: Mafia: The Old Country . Read the full article on pushsquare.com
 
 ### PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote
 Sat, 17 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote
@@ -185,11 +170,6 @@ Fri, 16 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-
 
 Vice City is real now. It was obvious already, but with an outrageous marketing push behind it, GTA 6 is clearly going to be absolutely massive when it arrives next month. The hotly anticipated open world action game is scheduled for 19th November, 2026, and Rockstar Games and parent company Take-Two are going all-out with a marketing campaign that's overtaking Miami, Florida, gradually turning it into a real-life Vice City. Read the full article on pushsquare.com
 
-### Pokémon Dev Already Finished with Beast of Reincarnation PS5 Patches
-Fri, 16 Oct 2026 10:30:00 GMT — https://www.pushsquare.com/news/2026/10/pokemon-dev-already-finished-with-beast-of-reincarnation-ps5-patches
-
-Final update on 19th October. Pokémon studio Game Freak has announced next week's Beast of Reincarnation update, arriving on 19th October 2026, will be the game's final one. The developer shared that its post-launch support of updates and patches "is coming to a close". It invites players to file support tickets if they encounter any issues in the future, but next week's update shall "be the final patch in this ongoing phase of major post-launch updates". Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Caves of Qud: Diaspora breaks new ground by being the first early access DLC release on Steam
@@ -244,12 +224,47 @@ Thu, 15 Oct 2026 14:15:33 +0000 — https://www.videogameschronicle.com/news/seg
 
 The original 2011 was pulled from sale due to the new version of the game being released… Source
 
-### No offense to Zelda but GTA 6 and COD Modern Warfare 4 are the two biggest games of the year , Activision exec says
-Thu, 15 Oct 2026 13:44:19 +0000 — https://www.videogameschronicle.com/news/no-offense-to-zelda-but-gta-6-and-cod-modern-warfare-4-are-the-two-biggest-games-of-the-year-activision-exec-says/
-
-Modern Warfare 4 is out next week… Source
-
 ## Polygon
+
+### The Best Transformers Movie That No One Watched Finds New Life on Streaming
+Sat, 17 Oct 2026 13:35:18 GMT — https://www.polygon.com/best-transformers-movie-now-streaming-netflix/
+
+Under director Michael Bay, Paramount built a billion-dollar franchise across five live-action Transformers movies . But after Bay's final turn behind the camera, 2017's Transformers: The Last Knight , the robots-in-disguise franchise started to go in unpredictable new directions. The 2018 prequel Bumblebee was, unlike Bay's films, a critical and commercial hit, though it didn't hit the billion-dollar highs of earlier films. 2023's Transformers: Rise of the Beasts failed to turn the franchise around the way Paramount hoped.
+
+### Early Modern Warfare 4 Consensus Unanimous That It Features On Of The Best COD Campaigns Ever
+Sat, 17 Oct 2026 13:27:21 GMT — https://www.polygon.com/modern-warfare-4-campaign-early-reactions/
+
+The Call of Duty: Modern Warfare 4 campaign released on Oct. 16 for those who pre-ordered the game digitally, so first reactions to it are finally rolling in. So far, sentiment around this part of the new Call of Duty is positive, with many fans praising the campaign.
+
+### The 8 Best Vampire Books Not Written by Anne Rice
+Sat, 17 Oct 2026 13:00:19 GMT — https://www.polygon.com/8-best-vampire-books/
+
+In vampire stories, the immortal creatures of the night often trace their lineage back centuries. The authors of these stories are themselves part of a creative bloodline that took myths about blood-sucking monsters and turned them into timeless stories of horror . The genre’s foundations were laid by Sheridan Le Fanu's 1872 novella Carmilla and Bram Stoker’s 1897 novel Dracula , but Anne Rice is the undisputed master of the modern vampire story.
+
+### Netflix’s 'Dealies' Will Be a More Comedy-Focused Joe Bennet Series
+Sat, 17 Oct 2026 12:30:18 GMT — https://www.polygon.com/joe-bennet-netflix-dealies-workplace-comedy/
+
+Joe Bennet’s next animated series is shaping up to be a little different from his previous work on Scavengers Reign and Common Side Effects . The upcoming Netflix series Dealies will focus on the strange characters working at a big-box store, with an antique shop across the street providing some competition.
+
+### Grand Theft Auto 4 Was Rockstar at Its Best: Unpredictable
+Sat, 17 Oct 2026 12:00:18 GMT — https://www.polygon.com/grand-theft-auto-4-was-rockstar-at-its-best-unpredictable/
+
+By the time Grand Theft Auto 4 launched in 2008, Rockstar had carved itself an unassailable niche and a reputation for innovation. And yet for all that praise, it was pretty easy to guess what a new GTA game would be like. The formula changed little from the time the series went 3D. Some vaguely sympathetic character would encounter hardship and then embrace a life of crime as a little treat. That life might look different from game to game, but the general idea remained the same. GTA 4 defied that pattern, and it's one of the reasons it's still an excellent game.
+
+### New Street Fighter Movie Ends on the Strangest Song Choice Possible
+Sat, 17 Oct 2026 11:30:18 GMT — https://www.polygon.com/street-fighter-movie-2026-ending-its-raining-men/
+
+The soundtrack to Capcom and Legendary's new Street Fighter movie is nothing if not eclectic. The film's music choices skew heavily toward the '90s, during which Street Fighter is set, with songs like Tupac's "Ambitionz Az A Ridah," Soundgarden's "Black Hole Sun," and Meredith Brooks' "Bitch," but it's not afraid to dip into other decades. It's understandable why 50 Cent's "Many Men (Wish Death)" plays during a fight featuring boxer Balrog (who is played by 50 Cent), even if the song feels temporally out of place.
+
+### Stephen King Meets 'The Backrooms' in Syfy's Underrated 6-Part Anthology Series
+Sat, 17 Oct 2026 10:00:18 GMT — https://www.polygon.com/horror-anthology-creepypasta-halloween-countdown/
+
+Channel Zero embraced a wide gamut of horror tales, with each season focused on a different creepypasta, but season 4, "The Dream Door," is a particularly engrossing watch. Based on " Hidden Door ," a short story written by Charlotte Bywater and originally published on the subreddit r/nosleep, this six-episode saga delves into the terror of eerie liminal spaces, while mixing in a marital drama that’s more sinister than it appears at first glance.
+
+### 37 Years Ago, 'Garfield' Suddenly Changed Genres With a Mind-Blowing Comic Strip
+Sat, 17 Oct 2026 09:00:18 GMT — https://www.polygon.com/garfield-alone/
+
+If you pay attention to online pop culture, especially on social media and microblogging platforms, you can often see some version of Munroe's lucky 10,000 theory in real time, as new audiences constantly rediscover old material.
 
 ### 26 Years Ago, 'Buffy the Vampire Slayer' Officially Launched Its Most Controversial Couple
 Sat, 17 Oct 2026 08:00:18 GMT — https://www.polygon.com/buffy-the-vampire-slayer-season-5-episode-4-retrospective/
@@ -261,47 +276,17 @@ Sat, 17 Oct 2026 04:01:19 GMT — https://www.polygon.com/pokemon-pokopia-event-
 
 Pokémon Pokopia has limited-time events that occur for a few days before disappearing, though you can time travel back to them, if you miss out on any. Some events feature Pokémon and habitats you can only unlock via the event, so you'll want to make sure you're paying attention to any guests who are the "talk of the town."
 
-### Pokémon Pokopia event schedule
-Sat, 17 Oct 2026 04:01:19 GMT — https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/
-
-Pokémon Pokopia has limited-time events that feature unique items and Pokémon throughout the year. These events are only accessible on specific dates, but you don't need to fret too much about FOMO, as you can time travel to access these.
-
-### Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide
-Sat, 17 Oct 2026 04:01:18 GMT — https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/
-
-The "Pumpkaboo's Sweet Surprises" is Pokémon Pokopia 's first Halloween event, and it adds a whole list of items that you can use to add a spooky touch to each region. Before you can get your hands on them, you will need to trick your Pokémon friends and get their treats.
-
-### 10 Perfect Detective Thrillers That Get More Intense With Every Episode
-Sat, 17 Oct 2026 04:00:23 GMT — https://www.polygon.com/best-mystery-tv-shows-worth-solving/
-
-Nothing hits quite like a good mystery. Whether it's a seemingly impossible murder, a missing person, or a conspiracy set against the backdrop of a small town, the best TV mysteries keep you guessing right up until the credits roll. They're the kinds of shows that make you scrutinize every passing detail and second-guess each new character. Still, despite the overriding conviction that you cracked the case long before the detectives, it’s almost always someone you least expect.
-
-### Beloved Fantasy Novel Series Redwall Sets Return After 16 Years
-Sat, 17 Oct 2026 01:52:18 GMT — https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/
-
-For 25 years from 1986 to 2011, writer Brian Jacques stole the hearts of readers everywhere with his Redwall series of fantasy novels . The Rogue Crew was released in 2011, three months after Jacques' death, and for 15 years it has remained the final entry in the series — until now.
-
-### Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19
-Sat, 17 Oct 2026 00:43:17 GMT — https://www.polygon.com/gta-6-trump-rockstar-games/
-
-Rockstar Games is known for bringing biting and often puerile satire to its Grand Theft Auto games. The 13-year span between Grand Theft Auto 5 and Grand Theft Auto 6 means there's plenty of American culture to interrogate or poke fun at, but a few things will be off the table, according to new previews of Rockstar's upcoming game. Two things that GTA 6 won't directly address, according to a new report: Donald Trump’s rise to political power and the COVID-19 pandemic.
-
-### 8 Call of Duty Games Still Missing from Game Pass
-Fri, 16 Oct 2026 22:00:17 GMT — https://www.polygon.com/best-call-of-duty-games-missing-from-game-pass/
-
-The franchise has slipped from its lofty perch in recent years, but there was a time when the launch of a new Call of Duty game was a huge event. The anticipation was never quite on the level of Grand Theft Auto 6 , but the series reliably mattered in a way that many other games did not.
-
-### Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece
-Fri, 16 Oct 2026 21:00:19 GMT — https://www.polygon.com/resident-evil-2-switch-2-impressions/
-
-I've tried playing Resident Evil 2 remake many times over the years and have never quite managed to finish the thing. It's good — very good — and I enjoy it. But there's just something about its narrow corridors and the threat of an undead monster popping out of a locker that keeps me from coming back to it. I've been playing Capcom's Switch 2 port of it lately, though, and I might finally make it to the end this time. The port is exquisite, and horrors on an 8-inch screen are much easier for my nerves to handle than big-screen frights.
-
-### 9 Most Perfect Single-Player Zelda Clones Nobody Plays, Ranked
-Fri, 16 Oct 2026 21:00:19 GMT — https://www.polygon.com/best-zelda-likes-nobody-plays-ranked/
-
-Every Zelda dungeon runs on the same promise: find a tool, open a door, find a better tool. A whole genre of games borrows that loop without Hyrule’s precise theme music, and every few years one of them, like Tunic or Death’s Door , breaks out and lands on everyone’s recommendation list. This list is for the games that usually don’t make the cut.
-
 ## PC Gamer
+
+### Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'
+Sat, 17 Oct 2026 12:04:00 +0000 — https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/
+
+The developer of an upcoming horror drinking game has cancelled plans for a public Steam demo in favour of private preview sessions, citing concerns that AI vibe coders might use the demo's content to clone the game. Drunken Goddess Reflux is a "shot glass Russian roulette" drinking game where players square off against an anime demon girl who loves you but also kind of wants to murder you (which sounds like a standard relationship to me), with the goal of getting your girl-frenemy so blotto that she barfs up her soul. Frankly, it doesn't sound like my cup of tequila, although there is a mechanic where the rules of the game grow weirder and wilder the more alcohol you imbibe—which sounds neat. Regardless, developer Alliance Arts planned to release a Steam demo on October 19, but in a post on X (via Rock, Paper, Shotgun ), the studio explained this is no longer the case. Instead, the studio will host "closed online play sessions for a limited number of participants." "We sincerely apologize for the short notice," Alliance Arts added, before explaining its reasoning behind the demo's cancellation. Apparently, the demo would have come with "some restrictions on posting and streaming gameplay videos", which Alliance Arts decided it wouldn't be able to properly manage. On top of this, however, the devs are also worried the demo will be exploited to create AI-coded clones. "We're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation
+
+### Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles
+Sat, 17 Oct 2026 10:32:05 +0000 — https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/
+
+Funcom, the developer behind Dune: Awakening and Conan Exiles , has announced a restructuring process that will result in layoffs at the company, and that current CEO Rui Casais will leave Funcom once the reorganisation is complete. The decision comes after a shift in direction at Funcom, whereby the studio will focus wholly on supporting its existing survival RPGs. In a statement (via GamesIndustry.biz ) Casais said that Dune: Awakening was "the biggest project we have ever undertaken, requiring many years of significant development resources across our studios". He continued that "moving from full production into long-term post-launch development and operations requires a different organisation. "While we would have wanted everyone who helped build Dune: Awakening to continue with us, we cannot sustain the size and structure required during peak development as we move into this next phase. My focus now is ensuring the process is as supportive as possible for everyone affected, and to treat our colleagues with the respect and transparency they deserve." Dune: Awakening was a big hit for Funcom when it was released in June last year, with the survival MMO shifting a million copies in two weeks to become the fastest-selling game in the Norwegian developer's history. Despite this initial success, however, the longer-term performance of the game is harder to gauge. In the months following release, Awakening's player counts dropped substantially , with the game's PvP elements and
 
 ### Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood
 Fri, 16 Oct 2026 23:53:11 +0000 — https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/
@@ -352,16 +337,6 @@ Microsoft has been maintaining two separate Windows options menus for generation
 Fri, 16 Oct 2026 12:44:53 +0000 — https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-release-date-launch-times-early-access/
 
 Key deets 💀 If you preorder Modern Warfare 4 digitally, you'll get early access to the campaign starting October 16 and DMZ on October 20. 💀 The full release is on October 23 at midnight local time. 💀 PC preload is already live. Call of Duty: Modern Warfare 4 is releasing soon, but also features early access for many of its modes, including its campaign and the hotly anticipated revival of the DMZ extraction shooter. To get early access to both the campaign and DMZ, you need to preorder the game digitally, otherwise, you'll be able to play on October 23. Activision hasn't revealed an exact time for the campaign early access unlock on the 16th, but the PC preload is already live. There also hasn't been any official info about the DMZ early access release time on October 20. However, some sources predict it will be 10 am PT (1 pm ET/6 pm BST). What we do know is that: Modern Warfare 4 will release on October 23 at midnight local time, wherever you are. You'll need 115GB for the game's storage and you can find the official system requirements to run it on the Steam page. As we draw closer to the DMZ unlock and the full release, I'll update this article with any official time announcements that Activision drops. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding
-Fri, 16 Oct 2026 10:52:32 +0000 — https://www.pcgamer.com/software/platforms/little-tim-is-so-obsessed-with-gabe-former-valve-writer-baffled-by-epic-ceo-tim-sweeneys-attempts-to-compete-with-steam-via-vibe-coding/
-
-In contrast, Epic's store "always feels sterile to me—you can complain about the Steam comments all you want … but, what they also do is they give the player a place in that world. They give the player actual agency and import and power inside of that ecosystem." Yeah, that tracks. The Steam forum is basically a replication of the horrors (and hilarity) of Barrens Chat, just with a few less Chuck Norris jokes. Appealing to vibe coders, then, is a bizarre move, since "they have nothing" for people who just want a platform where they can play videogames. "It's nothing about community … And this is your store that you're complaining that Valve is unfairly competing against! "When you fumble your announcement this badly, and you fumble what this is this badly, and you're gonna blame it on Gabe, like this is Gabe's fault? That you decided to make a jab at him and talk about vibe-coding and say that 'making a store is hard!' "It's just bizarre to me, man. And I know a bunch of people I used to know there that were really smart about how to communicate and talk about this kind of thing, [they're] gone. And I think they're gone 'cause of little Timmy [whispering]: 'Make sure you make a jab at Gabe. Where should we put it, first paragraph? No. Second. Second, we'll be subtle. We'll be subtle. No-one will catch it." To be honest, given how tumultuous the topic of AI has been in video gaming, it does smack as strange that Sweeney has gone so heavily in on it . Sentiment's not the same e
-
-### Semifinals: The brutal war to determine the best RTS unit of all time needs your votes
-Fri, 16 Oct 2026 10:44:42 +0000 — https://www.pcgamer.com/games/rts/semifinals-the-brutal-war-to-determine-the-best-rts-unit-of-all-time-needs-your-votes/
-
-We are now in the second half of the most brutal war to play out on the pages of this venerable website—a war that will determine, through democracy and science, which RTS unit is the greatest of them all. Two weeks ago, the conflict started with 16 units . Last week, eight survivors duked it out in the quarterfinals . Blood was shed and four more units were tossed into the void. It was tight—with two battles ending with the victor claiming only 10% more of the votes. My two faves, the noble Dolphin and humble Peon were killed off. I weep for these fallen heroes. But there's no more time for sentimentality. Another battle is about to begin. Clean off the blood and get ready for the semifinals. It's time to choose which two units will be going head-to-head in the glorious final battle. The semifinals bracket (Image credit: BracketHQ) During the quarterfinals, I made a prediction. One I was pretty confident about. But was I right? (Image credit: Future) I was pretty close, actually! The only one I got wrong was Peon, which has honestly shocked the hell out of me. In the first round, my sweet green boy utterly dominated the Glass Dragon, and it's been getting plenty of love in the comments. I did not expect to see it get knocked out by a tank. Just a tank! OK, it's probably unfair to call the indomitable Mammoth Tank "just a tank", but the Peon was robbed. Clearly we've got some tank fans, but even more Star Destroyer fans. The sneaky Mirage Tank, another of my favourites, was b
 
 ## GameSpot
 

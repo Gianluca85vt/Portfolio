@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-17T08:47:54.257Z
+# AI — harvested 2026-10-17T13:55:40.767Z
 
 ## OpenAI
 
@@ -21,11 +21,6 @@ Anant Kumar builds tools to compare loan valuations and analyze credit agreement
 Thu, 15 Oct 2026 19:00:00 GMT — https://openai.com/index/introducing-the-rosalind-academic-plan
 
 Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.
-
-### Teaching students to think and learn through questions
-Thu, 15 Oct 2026 13:00:00 GMT — https://openai.com/index/teaching-students-to-think-and-learn-through-questions
-
-Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.
 
 ## Hugging Face
 

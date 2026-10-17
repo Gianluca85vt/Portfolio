@@ -1,6 +1,36 @@
-# Film & TV — harvested 2026-10-17T08:47:54.257Z
+# Film & TV — harvested 2026-10-17T13:55:40.767Z
 
 ## Variety
+
+### Joel Coen Talks Studio Consolidation – Competition Is What Produces Opportunities for Different Kinds of Movies – and Teases Reunion Film With Brother Ethan
+Sat, 17 Oct 2026 12:52:17 +0000 — https://variety.com/2026/film/global/joel-coen-on-studio-consolidation-competition-1236914741/
+
+The Coen brothers could be heading back to their hometown in Minneapolis for a reunion movie eight years after their last joint film, “The Ballad of Buster Scruggs.” While at Lyon’s Lumière Film Festival, where they received a career tribute, Joel and Ethan Coen revealed they have several projects in the pipeline set in Minneapolis, [ ]
+
+### Pathé Unveils Sofia Coppola s Marie Antoinette 4K Restoration as Sophie and Jérôme Seydoux Are Feted in Lyon
+Sat, 17 Oct 2026 12:07:35 +0000 — https://variety.com/2026/film/global/pathe-sofia-coppola-marie-antoinette-jerome-seydoux-1236914657/
+
+Sofia Coppola’s cult classic “Marie Antoinette” and three works by Louis Daquin, a champion of the Communist Resistance during the German occupation, are among the latest restored works from French studio Pathé. The company, whose owners Jérôme Seydoux and Sophie Seydoux are being honored at the Lumière Film Festival’s International Classic Film Market (MIFC) in [ ]
+
+### Trust Me, I m a Doctor Review: Kal Penn and Abbie Cornish Star in a Minor Sidebar to the Anna Nicole Smith Story
+Sat, 17 Oct 2026 11:31:28 +0000 — https://variety.com/2026/film/reviews/trust-me-im-a-doctor-review-1236914737/
+
+Andy Warhol famously said that in the future, everyone will have 15 minutes of fame. “Trust Me, I’m A Doctor” expands that tally to an hour and 51 minutes for Sandeep Kapoor, the physician who treated Playboy Playmate Anna Nicole Smith and was implicated in her death from a prescription drug overdose in 2007. That’s [ ]
+
+### J.K. Rowling’s Agent Slams Trans Rights Protest at ‘Harry Potter and the Cursed Child’ in London: It Put ‘Others at Risk’
+Sat, 17 Oct 2026 11:03:38 +0000 — https://variety.com/2026/legit/global/jk-rowling-trans-protest-harry-potter-and-the-cursed-child-1236914728/
+
+J.K. Rowling’s agent Neil Blair has slammed the transgender rights activists who staged a dramatic protest before a gala performance of Harry Potter and the Cursed Child on Thursday in London s West End. The protesters, many wearing masks, hats and goggles to hide their identity, stormed the red carpet as celebrities were arriving for a [ ]
+
+### Taylor Swift Heroine Clara Bow’s Breakout Movie It Leads Carlotta Films, Artcraft Pictures French Distribution Deal of Hollywood Classics
+Sat, 17 Oct 2026 10:37:17 +0000 — https://variety.com/2026/film/global/taylor-swift-heroine-clara-bow-it-in-carlotta-artcraft-deal-1236914724/
+
+LYON, France “It,” the 1927 breakout movie of silent film star Clara Bow, to whom Taylor Swift paid tribute in a song named after her in “The Tortured Poets Department,” leads a deal between French classic film distributor Carlotta Films and U.S. restoration company Artcraft Pictures. Under the terms of the deal, Carlotta will [ ]
+
+### Coen Brothers Bring Laughs to Lumière Award Ceremony as Javier Bardem Recalls No Country for Old Men : They Gave Me One Masterpiece
+Sat, 17 Oct 2026 09:20:02 +0000 — https://variety.com/2026/film/global/coen-brothers-profane-thank-you-lumiere-award-1236914700/
+
+To the sound of the Gipsy Kings’ Spanish-language rendition of “Hotel California,” Joel and Ethan Coen took the stage at Lyon’s Lumière Film Festival on Friday evening to receive the Lumière Award, celebrating four decades of filmmaking with a characteristically irreverent tribute to the inventors of cinema. “Thank you to the Lumières for inventing the [ ]
 
 ### Miley Cyrus Embraces Being the Anti-Pop Pop Star With Her First Bass Persuades Concert at Hollywood Bowl: Concert Review
 Sat, 17 Oct 2026 07:53:16 +0000 — https://variety.com/2026/music/news/miley-cyrus-bass-persuades-hollywood-bowl-concert-review-1236914661/
@@ -22,37 +52,17 @@ Sat, 17 Oct 2026 01:13:04 +0000 — https://variety.com/2026/film/news/netflix-p
 
 It started with a dinner. Peter Rice and Ynon Kreiz met for a meal in late September, days before Kreiz surprised the industry by jumping from the CEO job at Mattel to become co-chief executive of Skydance with David Ellison. The report of the Kreiz-Rice meeting came in the New York Post’s Page Six after [ ]
 
-### The Impossible Whalefall : Director Brian Duffield Wanted a Challenge, So He Discovered a Way to Crush Austin Abrams in a Whale Stomach That Left Onlookers Baffled
-Sat, 17 Oct 2026 00:01:05 +0000 — https://variety.com/2026/film/features/whalefall-austin-abrams-crushed-whale-stomach-on-set-1236912491/
-
-Turns out that it’s tough to shoot in a whale’s stomach. “Whalefall” director Brian Duffield is gleefully outlining some of the biggest hurdles while shooting his new movie. The premise for the film, in theaters now via 20th Century Studios, is simple: A young diver named Jay (Austin Abrams) is accidentally swallowed by a whale, [ ]
-
-### The Hiring of Peter Rice at Netflix Could Set the Stage for a Corporate Culture Clash About the Future of Movies
-Fri, 16 Oct 2026 23:18:36 +0000 — https://variety.com/2026/film/columns/peter-rice-hired-by-netflix-ted-sarandos-1236914367/
-
-The profile of what a Hollywood executive is — the role, the methods, the priorities — is now in the midst of a transformation. The old definition of a successful studio executive was someone who’s commercially victorious, with a track record of great movies. But what we once called a movie executive might now be [ ]
-
-### Street Fighter Cast Guide: All the WWE Stars, UFC Champs and Celebs Playing Video Game Fighters in the Live-Action Movie
-Fri, 16 Oct 2026 22:30:00 +0000 — https://variety.com/lists/street-fighter-cast-video-game-vs-live-action/
-
-Round one fight! Street Fighter is back on the big screen for a new take on the popular fighting game video series that started back in arcades in the 1980s and is still popular today. Paramount and Legendary s live-action movie takes place in the 90s and follows a worldwide fighting tournament that brings together challengers from [ ]
-
-### Elizabeth Holmes Partner Billy Evans Admits She Looks Insane in You Can See Everything Trailer but Defends Making the Doc: Make Up Your Own Mind
-Fri, 16 Oct 2026 22:00:54 +0000 — https://variety.com/2026/film/news/billy-evans-defends-you-can-see-everything-elizabeth-holmes-insane-1236914043/
-
-Elizabeth Holmes partner Billy Evans appeared on the All-In podcast just as Nathan Fielder and Lance Oppenheim s documentary You Can See Everything started its theatrical release to explain why the couple allowed a camera crew inside their home in the days leading up to Holmes going to prison. Evans has not yet seen the movie, [ ]
-
-### Music Industry Moves: My Chemical Romance Signs With Warner Chappell
-Fri, 16 Oct 2026 21:35:00 +0000 — https://variety.com/2026/music/news/jesse-jo-stark-wme-1236910696/
-
-Warner Chappell Music, the music publishing arm of Warner Music Group, has signed an exclusive worldwide administration agreement with veteran New Jersey rock band My Chemical Romance. The partnership covers the global publishing administration of the band’s entire catalog, including their albums “Three Cheers for Sweet Revenge,” “The Black Parade,” and more, alongside future works. [ ]
-
-### Red Rising Movie in the Works at Paramount With Hunger Games Director Francis Lawrence
-Fri, 16 Oct 2026 21:34:22 +0000 — https://variety.com/2026/film/news/red-rising-movie-paramount-hunger-games-director-books-1236914459/
-
-Hail Reaper! The rights to the popular Red Rising book series have been picked up at Paramount with Hunger Games director Francis Lawrence attached to a movie based on the first novel. Justin Rhodes will write the script, based on the original 2014 novel by author Pierce Brown. Lawrence and Cameron MacConomy will produce for [ ]
-
 ## The Hollywood Reporter
+
+### Joe Keery On Making His Broadway Debut and Balancing Music and Acting Post- Stranger Things
+Sat, 17 Oct 2026 12:45:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/joe-keery-broadway-debut-stranger-things-1236733706/
+
+Keery is appearing on stage with Julia Louis-Dreyfus, Allison Janney, Ed Harris and Lily Rabe.
+
+### Indiana vs. Ohio State: Where to Watch the Top-Five College Football Matchup Online
+Sat, 17 Oct 2026 12:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-indiana-vs-ohio-state-football-game-free-streams-2026-1236734000/
+
+Here's how to livestream the Big Ten showdown between the Buckeyes and Hoosiers on Saturday, Oct. 17.
 
 ### Perfect Road Is a Doc That Follows a Nomadic Cyclist Pursuing Grueling Challenges – and Freedom
 Sat, 17 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/perfect-road-doc-film-nomadic-cyclist-freedom-lff-2026-1236730750/
@@ -94,22 +104,22 @@ Fri, 16 Oct 2026 22:48:07 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The actor dives deep into 'Whalefall,' and partakes in a 'Resident Evil' post-mortem speed round.
 
-### Kim Kardashian Wants to Compete on Dancing With the Stars Again: I d Do It
-Fri, 16 Oct 2026 22:36:59 +0000 — https://www.hollywoodreporter.com/tv/tv-news/kim-kardashian-dancing-with-the-stars-all-stars-return-1236734062/
-
-The longtime reality star competed on the show's seventh season in 2008 alongside Mark Ballas, and finished in 11th place. So far, 'DWTS' has only had one All-Star season full of returning contestants in 2012.
-
-### K-pop Entertainment Company Hello82 Aims to Plant a Flag in Festival Market with Inaugural 82World
-Fri, 16 Oct 2026 22:15:17 +0000 — https://www.hollywoodreporter.com/music/music-features/hello82-kpop-festival-82-world-ateez-p1harmony-1236733943/
-
-The two-day, fan-focused festival arrives in Los Angeles this weekend, headlined by the chart-topping boy group ATEEZ.
-
 ## Deadline
+
+### Michael Forest Dies: Actor In Roger Corman B-Movies, Star Trek s Apollo Was 97
+Sat, 17 Oct 2026 13:42:52 +0000 — https://deadline.com/2026/10/michael-forest-dead-1237166329/
+
+Michael Forest, a prolific and longtime character actor who appeared in the B movies of Roger Corman, lent his voice to numerous anime projects and guest starred in scores of TV series from The Adventures of Rin Tin Tin, The Twilight Zone and The Dick Van Dyke Show to Silk Stalkings, daytime soaps and a [ ]
+
+### Controversial Downstate Again Delays First Broadway Preview Due To Illness
+Sat, 17 Oct 2026 12:30:00 +0000 — https://deadline.com/2026/10/downstate-broadway-opening-date-1237155592/
+
+UPDATE: Downstate, the controversial new play by Bruce Norris directed by Joe Mantello, has bumped its first Broadway preview date again due to an illness within the company. The play will now have its first performance at the Booth Theatre on Tuesday, October 20. The October 29 performance has been canceled. Earlier this week, a [ ]
 
 ### J.K. Rowling s Agent Neil Blair Condemns Trans Rights Protest At Harry Potter And The Cursed Child
 Sat, 17 Oct 2026 08:43:47 +0000 — https://deadline.com/2026/10/jk-rowling-agent-protest-harry-potter-and-the-cursed-child-1237166312/
 
-EXCLUSIVE: J.K. Rowling s agent Neil Blair has claimed that a trans rights protest at the gala performance of Harry Potter and the Cursed Child put people at risk. During an event celebrating a shortened version of the West End stage show at the Palace Theatre on Thursday night, a number of protesters stormed the red [ ]
+EXCLUSIVE: J.K. Rowling s agent Neil Blair has claimed that a trans rights protest at a gala performance of Harry Potter and the Cursed Child put people at risk. During an event celebrating a shortened version of the West End stage show at the Palace Theatre on Thursday night, a number of protesters stormed the red [ ]
 
 ### Anthony Scaramucci Reacts To Katie Zacharia s White House Tenure Being Shorter Than His: Records Are Made To Be Broken
 Sat, 17 Oct 2026 03:38:34 +0000 — https://deadline.com/2026/10/anthony-scaramucci-katie-zacharia-trump-press-secretary-1237166304/
@@ -155,16 +165,6 @@ Penélope Cruz had been a muse to Los Javis — the moniker for Spanish filmmake
 Fri, 16 Oct 2026 22:00:00 +0000 — https://deadline.com/2026/10/crystal-lake-gwendolyn-sundstrom-killer-twist-1237158527/
 
 SPOILER ALERT: This post contains details about Peacock s series Crystal Lake. While Crystal Lake revisits several familiar locals from the Friday the 13th franchise, Gwendolyn Sundstrom brings a fresh role to the slasher prequel series. Now available to stream on Peacock, Sundstrom told Deadline that Jason Voorhees (Callum Vinson) childhood friend Grace has been her [ ]
-
-### Street Fighter Socking $30M, You Can See Everything Beaming 2nd Best Opening For Documentary At $12M Friday Box Office Update
-Fri, 16 Oct 2026 21:39:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
-
-FRIDAY PM UPDATE: Street Fighter is currently coming in at the lower end of expectations with a $30M opening after a $12.5M Friday (including previews) at 3,575 theaters, which includes previews. Hopefully Saturday can keep it together with family traffic. Note, the only MLB playoff game this weekend is between Tampa Bay and the Cleveland [ ]
-
-### Francis Lawrence To Direct Sci-Fi Film Red Rising For Paramount
-Fri, 16 Oct 2026 21:18:47 +0000 — https://deadline.com/2026/10/red-rising-movie-francis-lawrence-to-direct-paramount-1237165870/
-
-Paramount has acquired film rights to Pierce Brown s New York Times bestselling sci-fi book series Red Rising, enlisting Francis Lawrence to direct an adaptation of the first installment, Deadline can confirm. Justin Rhodes, a writer-producer with credits like Terminator: Dark Fate and the Prime Video series Secret Level, will write the script. Lawrence and Cameron [ ]
 
 ## befores & afters
 
@@ -289,53 +289,53 @@ James Cameron congratulated Marvel and Avengers: Endgame for once again surpassi
 
 ## Collider
 
-### Gerard Butler's $100M Sci-Fi Flop Officially Becomes a Streaming Smash Hit
-Sat, 17 Oct 2026 08:40:18 GMT — https://collider.com/gerard-butler-sci-fi-greenland-2-migration-streaming-success-hbo-max-october-2026/
+### Ridley Scott-Inspired Sci-Fi Thriller Officially Gets Streaming Redemption
+Sat, 17 Oct 2026 13:15:14 GMT — https://collider.com/underwater-streaming-success-prime-video-october-2026/
 
-In the last 25 years, Gerard Butler has smashed onto the scenes as one of the most iconic action stars of all time, but not all of his movies have been massive successes. Last year, Butler did star in the highest-grossing movie of his entire career with the live-action adaptation of How to Train Your Dragon . The sequel to the film is already on deck to be released in 2027, so it wouldn’t be surprising if it takes the crown from the original with even more box office glory. Butler struggled at the box office a few years ago with the debut of Den of Thieves 2: Pantera , which went on to become one of the most-watched movies of the year on Netflix after failing to even gross $60 million at the box office against a $40 million budget.
+The Alien franchise may be stuck in limbo (again), but that isn't going to stop filmmakers inspired by the series from creating their own homages. In the last decade, movies such as The Cloverfield Paradox , Life , and Annihilation have experienced varying degrees of success and failure. Meanwhile, the original franchise has hit a roadblock after being revived on the big screen by Fede Álvarez 's Alien: Romulus , and on television by Noah Hawley 's Alien: Earth . Ridley Scott , who directed the original 1979 classic and two subsequent prequels, has expressed indifference toward Romulus , suggesting that he wants to reclaim the reins of the series. However, Scott's recent track record hasn't been all that inspiring. While fans wait for official word on where the series is headed next, they seem to be checking out another entry in the long line of Alien-inspired movies at home.
 
-### Steven Spielberg’s $604M Sci-Fi Sensation Is Officially Leaving HBO Max
-Sat, 17 Oct 2026 08:20:14 GMT — https://collider.com/tom-cruise-steven-spielberg-war-of-the-worlds-leaving-hbo-max-november-2026/
+### 7 Adult Animated Shows Where Every Episode Is a Masterpiece
+Sat, 17 Oct 2026 13:04:14 GMT — https://collider.com/best-adult-animated-shows-every-episode-masterpiece/
 
-Director Steven Spielberg made a long-awaited return to the sci-fi genre this year with Disclosure Day , an original movie that revolves around Spielberg's long-held obsession with extraterrestrials. The movie didn't exactly break out at the box office, grossing roughly half as much globally as his previous sci-fi movie, Ready Player One . Spielberg entered the new millennium with three sci-fi films, all of which were critically and commercially successful. However, in recent years, the filmmaker has had a difficult time drawing crowds to theaters. While Disclosure Day makes an attempt to redeem itself on Peacock — it's currently the streamer's number-one title — his highest-grossing sci-fi film of the 21st century is on borrowed time on HBO Max.
+It's rare enough to run into an animated show for adults that's genuinely great from start to finish, but to find one that's not only great, but that doesn't even have a single episode that isn't arguably an absolute masterpiece? Now, that is a rarity that makes such series absolute must-see gems for anyone who loves adult animation . Thankfully, over the course of history, this precious phenomenon has occurred not only once, but on seven particularly noteworthy occasions.
 
-### Austin Abrams’ ‘Whalefall’ Is Much More Practical Than You Think It Is
-Sat, 17 Oct 2026 08:10:14 GMT — https://collider.com/whalefall-josh-brolin-heartbeat-austin-abrams-brian-duffield/
+### Marvel Officially Confirms the Winter Soldier's Death
+Sat, 17 Oct 2026 12:49:29 GMT — https://collider.com/bucky-barnes-death-winter-soldier-marvel-comics/
 
-With movies like The Odyssey and Avengers: Doomsday set for release this year, Brian Duffield ’s survival thriller, Whalefall , lurked just beneath the surface. Now, this leviathan of a feature, with an ensemble cast led by Austin Abrams and Josh Brolin , is ready to swallow audiences up in its breathtaking cinematography, practical effects, and unbelievable premise.
+Sebastian Stan ’s Bucky Barnes has become one of the Marvel Cinematic Universe’s most familiar faces , but the movies have only covered a fraction of his comic book history. He’s carried Captain America’s shield, led the Thunderbolts , and spent years trying to build a life after the Winter Soldier. His friendship with Steve Rogers may be his best-known relationship, but there’s plenty for Marvel to draw from beyond another reunion.
 
-### Pokémon Officially Debuts Its Creepy New Ghost Type for a Limited Time
-Sat, 17 Oct 2026 08:00:14 GMT — https://collider.com/pokemon-go-bramblin-debut-fall-marathon-buddy-trek-2026/
+### Ridley Scott's Greatest Movie Franchise Ever Made Is Making a Comeback on Netflix
+Sat, 17 Oct 2026 12:46:14 GMT — https://collider.com/ridley-scotts-greatest-movie-franchise-coming-back-to-netflix-gladiator/
 
-Pokémon Scarlet and Violet introduced some unsettling additions to the Pokédex , even by the franchise’s standards. Paldea’s wildlife includes creatures whose appearances give very little indication of the stories attached to them. Its Ghost types continue a long Pokémon tradition of putting something disturbing behind a design that could otherwise pass for harmless .
+Few films have remained as such a strong cultural touchstone as that of Ridley Scott ’s 2000 brutal historical epic, Gladiator . The highly decorated, carefully crafted film lives in infamy, tirelessly withstanding the test of time over decades and decades of film history. Perhaps it’s due in part to the killer performances from powerhouses like Joaquine Phoenix and Russell Crowe , or maybe it can be chalked up entirely to the expert hands of director Ridley Scott, Whatever it may be 26 years after the film’s release, the franchise is finally returning to Netflix . Thus, pushing its infamy even further, as the next generation of film fanatics is introduced to the historical film that defines the genre.
 
-### Clint Eastwood Goes Full John Wick in This Epic 116-Minute Action Thriller
-Sat, 17 Oct 2026 04:08:14 GMT — https://collider.com/clint-eastwood-gran-torino-john-wick-streaming-october-2026/
+### Ariana Grande's Crowd-Pleasing Record Breaker Officially Takes Over the World
+Sat, 17 Oct 2026 12:45:15 GMT — https://collider.com/ariana-grande-wicked-streaming-hit-prime-video-october-2026/
 
-Keanu Reeves’ performance as John Wick was seen as a later-career reinvention for the actor, who was 50 at the time of the first film’s release. However, he’s practically a child compared to Clint Eastwood , who was 78 when he played a man taking on local criminals in the thriller Gran Torino . The star also directed the movie, which continued his run of playing tough characters over 50 years since his acting debut. At a time when revenge thrillers were big business at the box office, Eastwood found a way to turn that craze into a late-career highlight.
+Ariana Grande continues her recent run as a Hollywood favorite by joining the cast of the latest legacy sequel to hit 2026 theaters. The pop star joins Robert De Niro , Ben Stiller , Owen Wilson , Teri Polo , Blythe Danner , Skyler Gisondo , and Beanie Feldstein in Focker-in-Law , the long-awaited fourth film in the Fockers franchise. The film hits theaters on November 25, 2026, and follows Greg's son Henry as he introduces a strong-willed woman into the circle of trust .
 
-### ‘Crystal Lake’ Officially Rewrites ‘Friday the 13th’s Most Iconic Scene
-Sat, 17 Oct 2026 03:48:14 GMT — https://collider.com/crystal-lake-series-rewrites-friday-the-13th-opening-kill-scene/
+### Matt Damon’s Near-Perfect Sci-Fi Thriller Is Officially a 100-Day Streaming Superhit
+Sat, 17 Oct 2026 12:30:14 GMT — https://collider.com/matt-damon-the-martian-streaming-success-october-2026/
 
-Editor's note: The below contains spoilers for Crystal Lake.
+2026 has been a record-shattering year for Matt Damon , who has starred in huge movies on streaming and in theaters. At the beginning of the year, Damon took his talents to Netflix to team up with his long-time creative partner and friend, Ben Affleck , for The Rip . The Miami-set crime thriller pulled over 100 million views during its initial viewing period on Netflix, which was enough to make it one of the most-watched films of 2026 on the platform. Damon also reunited with director Christopher Nolan on his new blockbuster historical epic, The Odyssey , which recently sailed past $1.5 billion at the global box office. Damon is being eyed for yet another Oscar nomination for his performance as Odysseus in the film, and it could be the first time ever he takes home the award for his performance.
 
-### Forget Narnia, C.S. Lewis’ Best Book Trilogy Masterfully Combines Sci-Fi and Fantasy
-Sat, 17 Oct 2026 03:09:14 GMT — https://collider.com/cs-lewis-ransom-trilogy-sci-fi-fantasy/
+### 10 Fantasy Movies That Are Fun From Start to Finish
+Sat, 17 Oct 2026 12:29:15 GMT — https://collider.com/fantasy-movies-fun-start-to-finish/
 
-When C.S. Lewis comes to mind , more often than not, you're likely to start thinking about The Chronicles of Narnia . The fantasy series is his most beloved work of fiction for a reason, spawning not only a very successful literary series but also a fan-favorite movie trilogy that might not have reached the same heights of success as Harry Potter , but it was an important part of the 2000s nonetheless.
+Fantasy movies are among the oldest examples of cinema. The genre was already beloved for its ability to tell imaginative stories that turn the mundane into the magical, and cinema allowed this to be fully realized thanks to special effects and elaborately constructed sets and animatronics. As technology has improved, it has allowed filmmakers to become more experimental, leading to more and more fantasy movies gracing the big screen.
 
-### The 10 Best Netflix Original Comedy Shows, Ranked
-Sat, 17 Oct 2026 02:44:14 GMT — https://collider.com/best-netflix-original-comedy-series-ranked/
+### 5 Perfectly Moody Grunge Songs for Autumn
+Sat, 17 Oct 2026 12:20:14 GMT — https://collider.com/grunge-alternative-rock-autumn/
 
-Netflix has easily proven itself to be the titan of the streaming world, having completely revolutionized how television and film are consumed daily. While many other streaming services have come up in the wake of Netflix's massive success, few have been able to stand their ground with the original masters of streaming, thanks in part to Netflix's extensive catalog of original content. Of all the different types and genres of content that Netflix has released, its original comedy series have easily been some of its strongest work.
+Autumn lends itself to the moody, poetic introspection of grunge music . Both the season and the genre are beautiful and magical – but with an undeniably bone-chilling dark side. 'Tis the season for the musical stylings of timeless alternative rock bands such as Nirvana , The Cranberries , and Pearl Jam . This list features five unforgettable songs that embody the feeling of fall – both the good and the bad – and ease listeners into the growing darkness during this ephemeral time of the year.
 
-### 10 Books That Have Too Many Movie Adaptations
-Sat, 17 Oct 2026 02:22:14 GMT — https://collider.com/books-that-have-too-many-movie-adaptations/
+### The 10 Best Hard Sci-Fi Movies in Film History
+Sat, 17 Oct 2026 12:14:15 GMT — https://collider.com/best-hard-sci-fi-movies-film-history/
 
-You may have heard the popular saying "if it ain't broke, don't fix it." Basically, it means you shouldn't waste time trying to tweak and perfect something that's completely fine as it is. It's perhaps debatable, but maybe this sentiment should be circulated throughout Hollywood more.
+The wonder of science fiction is the story's ability to take audiences places they never imagined they could go. From traveling through time to explorations through deep space, the genre's place in cinema has remained highly sought after. In movie history, some of the most beloved films have been narratives that are implausible, yet some of the greatest movies are rooted in hard science.
 
-### ‘Fire Country’s Newest Star Teases What’s Next for CJ in Season 5
-Sat, 17 Oct 2026 02:00:25 GMT — https://collider.com/fire-country-season-5-episode-2-olivia-thirlby/
+### 5 Near-Perfect Miniseries That Hooked Us in the First 5 Minutes
+Sat, 17 Oct 2026 12:05:14 GMT — https://collider.com/near-perfect-miniseries-instantly-hooked/
 
-Editor's note: The following contains spoilers for Fire Country Season 5, Episode 2.
+Miniseries do not have the luxury of taking several episodes to get interesting. The format gives storytellers a handful of hours to tell a complete story, which means that they need to hook the audience in five minutes , or it’s game over. However, a great opening is only half the battle.
 

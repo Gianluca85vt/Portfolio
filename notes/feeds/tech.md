@@ -1,6 +1,16 @@
-# Tech — harvested 2026-10-17T08:47:54.257Z
+# Tech — harvested 2026-10-17T13:55:40.767Z
 
 ## Ars Technica
+
+### Science says your boss should talk less in meetings
+Sat, 17 Oct 2026 11:15:11 +0000 — https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/
+
+Close to 1 billion meetings take place each day around the world. CEOs spend nearly three-quarters of their workdays in meetings. Planning for and spearheading meetings eats up the lion’s share of managers’ time. In much of the industrialized world, meetings are both the metronomes and menaces of people’s working lives. Given the enormous time spent in workplace meetings, do we know what they accomplish or how to make them as worthwhile as possible? For decades, the answer was… not really. Meetings weren’t a particularly accessible subject of study. But that has changed. Once a tiny niche area, “meeting science” is a growing specialization among organizational and social psychologists. The field is accelerating as archived virtual meetings provide vast swaths of data. And it is providing a fascinating window into human behavior. Meeting to talk helps fulfill basic human needs to connect , communicate, and cooperate. People have long come together—in caves, fields, market squares, and town halls—to get something done, share ideas, get on the same page, or just to remark on the weather. But meeting scientists define their subject as gatherings of people “with some goal or structure to the event,” says organizational psychologist Liana Kreamer of the Florida Institute of Technology, who coauthored a review of over three decades of meeting science in the 2026 Annual Review of Organizational Psychology and Organizational Behavior . Read full article Comments ]]>
+
+### Why BioWare's Neverwinter Nights still has thousands of active players
+Sat, 17 Oct 2026 11:00:21 +0000 — https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/
+
+Neverwinter Nights was made by the studio that produced seminal RPGs Baldur's Gate , Star Wars: Knights of the Old Republic , Mass Effect , and Dragon Age . It sold well and was critically acclaimed at launch. Yet, somehow, it has not been canonized in most gamers' minds over the decades the same way the games that came before and after it were. Nonetheless, more than two decades later, it still has a tight-knit and surprisingly active community that none of those other games can rival. I think that's partly because it was a completely different beast. Read full article Comments ]]>
 
 ### OpenAI models hacked a crypto wallet and breached more websites
 Fri, 16 Oct 2026 20:59:01 +0000 — https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/
@@ -52,17 +62,27 @@ Fri, 16 Oct 2026 12:00:05 +0000 — https://arstechnica.com/reviews/2026/10/the-
 
 Over the past week, the laptop Microsoft sent me has been summarizing books and movies, generating images from my imagination, and running a 70-billion-parameter AI model that would be a stretch to fit on most laptops. It also played AAA games at a speed and fidelity I would have thought impossible on an ARM system just a year ago. Microsoft wants to sell you one computer for all of your needs, and for once that doesn't feel like total marketing fluff. Mostly. Microsoft is throwing both arms around the new Nvidia RTX Spark platform with the Surface Laptop Ultra—and setting its sights on the would-be MacBook Pro buyer, or as the company called it, "a high performance audience." The bet is that rather than a gaming desktop for fun and a development laptop for work, buyers will pay more for one machine that does both. The Surface Laptop Ultra arrives at a strange time in personal computing. Recent industry numbers showed a 20 percent drop in total PC shipments year over year in the third quarter of 2026. That's not just consumer purchasing either—that's across the board. Between the RAMpocalypse that has exploded consumer prices and an industry fixated on enterprise money, there hasn't been much new hardware to excite PC enthusiasts. Read full article Comments ]]>
 
-### Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer
-Fri, 16 Oct 2026 11:00:53 +0000 — https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/
-
-Welcome to Edition 9.15 of the Rocket Report! The launch I'm most looking forward to in the next few weeks is that of Japan's Martian Moons Exploration (MMX) mission. MMX is one of the marquee space science missions launching this year, and it's set to leave Earth as soon as Monday (US time) aboard a Japanese H3 rocket. The spacecraft will visit Phobos and Deimos, the two asteroid-like moons of Mars, deploying a rover and collecting specimens for return to Earth in 2031. Exploration at its finest. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Reflect Orbital looks to India for launch capacity . California-based Reflect Orbital, the startup attempting to offer sunlight on-demand with in-space mirrors, announced the purchase of two launches Wednesday from Indian launcher Skyroot Aerospace, Payload Space reports . One of the launches will use Skyroot's Vikram-1 rocket, which became the first privately developed Indian rocket to reach orbit in July. The other will fly on an upgraded rocket called the Vikram-1U. Read full article Comments ]]>
-
-### Blue Origin is going all in on the New Glenn rocket
-Fri, 16 Oct 2026 10:00:54 +0000 — https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/
-
-Blue Origin announced a major expansion of its already considerable Florida launch facilities on Friday morning with the intent of eventually flying more than 100 rockets a year from there. The company said it would add two launch pads for the New Glenn rocket, in addition to two already under construction at Cape Canaveral. The company is also investing heavily in a new manufacturing facility that will produce up to 150 upper stages for a larger variant of the New Glenn rocket. The company also plans to procure two additional landing ships to catch and return the first stage of the New Glenn rocket (it currently has one, named Jacklyn ). Finally, Blue Origin said it would add a new customer integration facility, built in conjunction with the US Space Force, that will feature four payload bays to process multiple missions at the same time. Read full article Comments ]]>
-
 ## The Verge
+
+### Websites are closing their doors to AI agents
+2026-10-17T09:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web
+
+Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't play nice? In recent weeks, users of services like Meta's Muse, xAI's Grok, OpenAI's Dots, and Instinct have reported blocks preventing their AI agents from performing tasks across top websites. Yelp told TechCrunch that it only allows AI agents that pay for its data licensing program, while Delta Air Lines is preventing them from booking ticket … Read the full story at The Verge. ]]>
+
+### Bose’s new wired earbuds are simple in the best way
+2026-10-17T09:00:00-04:00 — https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review
+
+Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of decline. Part of the resurgence can be tied to the fact that they're cool now with younger generations - following the revival of tape decks and vinyl. Celebrities have been spotted wearing them , and there's even an Instagram account that follows the trend. Wired earbuds have real benefits. They don't need a battery, so they'll last longer than wireless ones that eventually die, and it's a lot ha … Read the full story at The Verge. ]]>
+
+### Apple’s HomeView is just the latest threat to online recipe writers
+2026-10-17T08:00:00-04:00 — https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting
+
+The HomeView can simplify online recipe formatting into easy-to-follow steps. | Image: Apple When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen table, helping the family check their calendars, send messages, and pull up a French toast recipe in seconds, with simple, step-by-step instructions. The HomeView is just the latest in a long line of websites, browser extensions, and smart home gadgets with the same promise: that it can take an online recipe and strip it down to the essenti … Read the full story at The Verge. ]]>
+
+### It’s a dream week for tech docs
+2026-10-17T08:00:00-04:00 — https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer
+
+Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Marc Andreessen and the future of math and Mike Tomlin and Citizens United , reminiscing about the heyday of MySpace , sending this article to everyone as an apology for my bad texting, listening to the Pet Shop Boys' new Alan Turing album and Dwarkesh Patel's thoughts on AI , barely keeping myself from preordering an iPhone Duo , asking a lot of questio … Read the full story at The Verge. ]]>
 
 ### All the news about the iPhone Duo
 2026-10-16T19:36:26-04:00 — https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements
@@ -94,27 +114,57 @@ Apple’s Home Collection, codeveloped with partners, is part of the company’s
 
 The new Apple TV 4K will be available in November. | Image: The Verge Earlier this week, Apple announced its new Apple TV 4K , which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discounting Apple’s new smart display for the first time. Right now, you can preorder the latest Apple TV 4K ahead of its November 13th release date for $289.99 ($9 off) at Amazon . Yes, it’s a tiny discount, but every little bit helps given the higher price tag. Apple TV 4K (2026) Where to Buy: $299 $289.99 at Amazon Powered by the new A19 chip, Apple’s latest streaming device now features support for Siri AI out of the box, which is coming to older Apple TV 4K models via a software update. Unlike its predecessors, though, the new model features far-field microphones so you can quickly make hands-free requests. You can, for example, ask for recommendations, like nature documentaries available on Apple TV, or ask questions about what you’re watching. Siri AI can also understand personal context, too, so long as you have an iPhone or iPad connected to your account that supports Apple Intelligence. Apple has made a few other welcome upgrades, though — as my colleague John Higgins points out — not as many as some may have expected. While Apple skipped features we’d hope to see on a $300 streamer, like audio passthrough and support for 120fps output, it’s nice that the S
 
-### Apple s HomeView has an app problem
-2026-10-16T11:38:17-04:00 — https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast
-
-It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like a perfect place to run a bunch of apps. And yet the HomeView is relying almost entirely on CarPlay . What gives here? On this episode of The Vergecast , David and Nilay try to make sense of the HomeView's app situation, and why Apple would choose not to make its home hub into its own app platform. After that, they talk about the latest Gemini model and whether building the best model matters if yo … Read the full story at The Verge. ]]>
-
-### Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades
-2026-10-16T11:08:38-04:00 — https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus
-
-Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a "reworked industrial design" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plus are able to play Nintendo and Sega Genesis cartridges using an FPGA processor that perfectly recreates the functionality of Nintendo and Sega's 16-bit consoles without the need for emulation. Although neither of the new consoles allows SNES or Genesis titles to be played in 4K like the Analogue 3D does with Nintendo 64 titles , the 1080p Super Nt and Mega Sg Plus add a USB-C port so you can po … Read the full story at The Verge. ]]>
-
-### A fake WhatsApp clone is showing up before the real version on the Play Store
-2026-10-16T11:02:23-04:00 — https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android
-
-After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a "sponsored" slot above the real version . As reported earlier by Android Authority , the WhatsApp dupe has racked up over 500,000 downloads and, at the time of writing, its Play Store listing is still live . Google did not immediately respond to a request for comment. The WhatsApp clone is from a developer going by "Agment Assets sallu" who doesn't currently have anything else listed on the Play Store. Their listing for the WhatsApp impostor has the same icon, screenshots, and text as the real version, but … Read the full story at The Verge. ]]>
-
-### A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
-2026-10-16T11:00:00-04:00 — https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions
-
-Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new "superchip." RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed . Sean Hollister has been testing a 64GB version of the Asus … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Sandisk’s 512GB Switch 2-ready microSD Express card is a steal for $98 during sale — rare tech deal arrives to beat the storage shortage
+Sat, 17 Oct 2026 13:39:06 +0000 — https://www.tomshardware.com/pc-components/sandisks-512gb-switch-2-ready-microsd-express-card-is-a-steal-for-usd98-during-sale-rare-tech-deal-arrives-to-beat-the-storage-shortage
+
+With the ongoing DRAM and NAND memory crisis, finding a good storage deal has become increasingly difficult. However, we found a solid offer for anyone looking to expand storage on their Nintendo Switch 2. The SanDisk 512GB GamePlay microSD Express card is currently $98 at Walmart, well below its regular price of over $120. It is also one of the lowest prices we’ve seen for this card in recent months, making it a particularly good time to pick one up. Check out this deal on Walmart The SanDisk GamePlay microSD Express card is officially licensed for the Nintendo Switch 2. It uses a PCIe interface and the NVMe protocol to deliver read speeds up to 880 MB/s, write speeds up to 650 MB/s, and sustained writes of 220 MB/s. This makes it significantly faster than traditional microSD cards and fully compatible with the Switch 2, since older microSD cards cannot be used to store or play games. 512GB GamePlay microSD Express card: was $120 now $98 This microSD Express card from SanDisk, with 512GB, is a great way to increase the storage on your Nintendo Switch 2. It delivers read speeds up to 880 MB/s and write speeds up to 650 MB/s, with sustained write speeds of 220 MB/s. View Deal SanDisk claims the card is built to withstand tough conditions, with protection against water, extreme temperatures, humidity, drops, shocks, magnets, X-rays, and wear and tear. It also includes a special ThermAdapt feature that helps keep devices from overheating, with a specially designed enclosure and 
+
+### AI lab offers free plumbing and HVAC repairs across three cities to train AI robots
+Sat, 17 Oct 2026 13:21:20 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning
+
+An AI lab that specializes in gathering real-world data wants to partner with homeowners to record how skilled laborers do their jobs to train AI robots. HUMXN said it will subsidize plumbing, electrical, HVAC, air-duct cleaning, and carpet cleaning, allowing people who need these services to get them for free in exchange for letting someone in with “wearable capture technology” work inside their home. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent “The next generation of AI is going to need more than text and images from the internet. Robots need to understand how skilled people interact with the physical world. Home-service technicians perform millions of highly technical tasks every day. We are creating a way for homeowners and service companies to benefit financially from the value of that expertise,” HUMXN founder Thomas Unise said. He also added, “There are millions of skilled workers performing incredibly complex tasks every day, but very little of that expertise exists in a format that AI systems can learn from. We want to build the infrastructure that connects that knowledge with the companies bui
+
+### This week on Tom's Hardware Premium: October 17, 2026
+Sat, 17 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-17-2026-packaging-roadmaps-chinese-dgx-spark-rival-emerges-and-digging-into-asmls-earnings
+
+This week, we've published a swath of news and features over on Tom's Hardware Premium . So, if you're not subscribed yet and wondering what you might be missing out on, we've got you covered. To read any of the articles listed here, be sure to arm yourself with a subscription to get access. First up, we dug into Intel's EMIB and Foveros packaging roadmaps, as they continue to mature, and found new customers looking to cash in on building a more sophisticated offering. Intel's ultimate goal? To build system-in-packages the size of just 12 reticles using both EMIB and Foveros Direct 3D. We map out how the company plans to get there in our exhaustive report. Analyzing Intel's EMIB and Foveros advanced packaging roadmaps — how Intel plans to scale chips in every direction Over the past month or so, we saw the debut of DLSS 5 and Multi Frame Generation on older graphics cards. Both features are officially locked down to Blackwell-based GPUs only, but amidst spiraling prices and the curious disappearance of the RTX 5090 from store shelves, modders have taken it upon themselves to port these newer features to older GPU architectures. We had the opportunity to sit down with two such modders to learn more about how both Multi-Frame Generation and DLSS 5's neural rendering capabilities made it over to older GPUs. Meet the modders porting ringfenced DLSS features to older GPUs — how DLSS 5 and Multi-Frame Generation were unlocked for older architectures (Image credit: Future) Earlier, 
+
+### Leap seconds being retired next year to avoid wreaking havoc on computer systems
+Sat, 17 Oct 2026 12:40:00 +0000 — https://www.tomshardware.com/tech-industry/international-measurement-organization-to-retire-leap-seconds-next-year-to-avoid-wreaking-havoc-on-computer-systems-group-makes-move-to-simplify-atomic-time-tracking
+
+The International Bureau of Weights and Measures (BIPM), which maintains the International System of Units (SI), has voted to expedite the retirement of the leap second, moving forward the date from 2035 to May 20, 2027, an adjustment that could wreak havoc on computer systems, which expect a consistent 60 seconds every minute. The leap second is occasionally added to Coordinated Universal Time (UTC) to ensure that it remains in-sync with the Earth’s rotation. Our planet’s movement isn’t a constant one revolution every 24 hours owing to forces applied by the atmosphere, the oceans, its core, and even the Moon, and according to BIPM [ PDF ], these changes mean a 30% probability of needing a “negative leap second” by 2035. A positive leap second adds an extra second in the year that it’s applied — for example, clocks went to 23:59:60 on Dec. 31, 2016, before switching to 00:00:00 on Jan. 1, 2017. This could spell trouble for machines that haven’t been updated to accommodate this, especially as leap seconds aren’t applied at a constant scale, meaning programmers cannot pre-program events like these, unlike leap years, which usually happen every four years. What’s more concerning is that the opposite of a positive leap second has never been done before. “A negative leap second has not previously been applied, and it is considered to pose a high risk of causing anomalies and disruption to critical infrastructures that are largely unprepared,” the BIPM said. It also estimated that 
+
+### Taiwan targets illicit AI server exports to China with five-year prison terms
+Sat, 17 Oct 2026 12:20:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid
+
+Taiwan is expanding its list of controlled exports to include AI servers and the latest chips in a move to align its policies with the U.S.’s trade bans. Bloomberg reports that after the export controls take effect, anyone caught smuggling these items will be criminally charged under the Foreign Trade Act, which carries a penalty of up to five years in prison and/or a fine of around $92,500. “Going forward, some of our measures on controlled items will correspond to American ones because we have made quite some commitments in the Agreement on Reciprocal Trade,” Taiwan Minister of Economic Affairs Kung Ming-hsin said. The two parties signed the trade deal earlier this year, which saw the U.S. cutting tariffs on Taiwanese goods down to 15% in exchange for direct investments in the U.S. tech industry, among others. The U.S. has long been trying to stamp out the smuggling of advanced Nvidia chips into China. One of the biggest cases that U.S. authorities have prosecuted so far includes three Super Micro employees, including its co-founder Yih-Shyan “Wally” Liaw, who are accused of smuggling $2.5 billion worth of AI servers . A few months after this revelation, Taiwanese authorities raided Super Micro’s Taipei offices in connection with the Nvidia B300 smuggling probe, which eventually led to the indictment of nine individuals related to the case. Since Taiwan doesn’t treat AI chip exports to China as a crime before this new set of export controls is enacted, people violating the 
+
+### Crafty OpenAI agent willingly stole crypto from an account it didn't own to complete a task during test
+Sat, 17 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-agent-took-eth-from-another-account-without-authorization-justified-stealing-in-its-chain-of-thought
+
+OpenAI recently released a misalignment report on its GPT5.6-Sol coding agent after it stole cryptocurrency from an account it didn’t own. It didn’t have enough funds for the smart contracts needed to execute its tasks, so it wrote a script that looked for accounts with public seed phrases that had enough funds to pay the gas fees, finished its task, and didn’t report that it took funds from an account it wasn’t assigned to without authorization. Thankfully, this all happened on the Sepolia test network, which uses Sepolia ETH, simulated ETH in a simulated Ethereum network for cryptocurrency app development; it doesn’t actually have any monetary value. The report states, “The assignment asked it to update the trading calculator and database behavior, and to replace placeholder contract addresses with working deployments on Sepolia.” The final task required the agent to deploy smart contracts, a task that required gas fees paid in Sepolia ETH. It wasn’t supplied with a funded wallet, nor was it permitted to use funds from another account it found. Either way, the agent was determined to complete its task and wrote a script to look for common developer recovery phrases and check the balances of the accounts, finding 362 addresses, with one having enough Sepolia ETH to deploy the contract. The CoT (chain of thought) even admitted: “Private key public, funds could be stolen anytime. [...] We can deploy!” After that CoT, it didn’t immediately spend the funds to complete its task; 
+
+### Game decompilation hub freezes leaderboard after AI turns progress into a hollow numbers game amid explosion of 'AI slop'
+Sat, 17 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/game-decompilation-tracker-decomp-dev-shuts-its-public-leaderboard-saying-ai-has-broken-the-community-its-creator-blames-forks-that-use-ai-to-finish-other-teams-projects-and-races-to-ship-rough-pc-ports
+
+The decomp.dev community that tracks and centralizes game decompilation progress is shutting down its public index and leaderboard, claiming in a site update that the acceleration of AI has damaged the decompilation community. The creator, who goes by @encounter, points to abuses related to AI usage, such as AI helping forks “finish” others’ projects and a general attitude of rushing to complete PC ports, often with little regard to quality. Simply banning AI-assisted projects is a difficult task, as not all of them have the same standards, and @encounter feels it shouldn’t be the role of one hobbyist to decide what does and doesn’t stay on the leaderboard. The decision was made because AI greatly speeds up decompilation “in a significant way,” especially with human guidance, but misuse of the technology has broken the community aspect. AI has made the progress percentages on decomp.dev easier to push up. As a result, the site’s index and leaderboard are now “causing more harm than good,” as the competitive spirit has been corrupted. The scene has become “a hollow numbers game” where people throw AI usage at things “to make number go up.” (Image credit: Future) The site was created in 2024 “as a way to centralize matching decompilation progress” and to grow a community around it. Each project page shows game progress with its history. The goal of matching decompilation is to have hand-written source code that could compile back to the same machine code as the original game . 
+
+### Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open
+Sat, 17 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography
+
+The Xbox 360 has been cracked open multiple times over the years, and almost every time Microsoft's updates plugged whichever hole let hackers through. The first method was modded DVD firmware in 2006, a hypervisor hack followed in 2007, and a wiring hack exposing JTAG debugging ports was revealed in 2009. The longest-lasting physical hack was 2011's CPU force-reset exploit. That maneuver needed specialized hardware along with a voltage-glitching chip, but an enterprising techie showed how it can be performed nowadays with the assistance of a Raspberry Pi Pico, costing all of $4 (or about 5€ / £5). The crack marks the culmination of a nine-year effort by the modder. To get the elephant out of the room, yes, just last week the PeerPressure Xbox 360 persistent soft-mod was released . But we're here to talk signals and wires. The aforementioned reset exploit involves sending a teeny weeny tiny signal directly into the CPU's reset pin. You'd think this would do what it says on the label, but what happens instead is that the CPU executes the current instruction incorrectly . Naturally, someone figured out how to leverage that to run any code on the CPU, thus completely bypassing Microsoft's impressive and frankly rather effective layers of cryptography within the console. Sending said signal for an effective hack, though, requires spectacularly precise timing with a resolution down to nanoseconds, and glitch-chips may even require several attempts to get a successful "latch." Josh
+
+### US Army to use 3D-printed rocket motors for low-cost cruise missiles
+Sat, 17 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/3d-printing/us-army-to-use-3d-printed-rocket-motors-for-low-cost-cruise-missiles-additive-manufacturing-company-secures-deal-to-build-rocket-engines-for-the-arsenal-of-freedom
+
+X-Bow Systems, a solid rocket motor (SRM) manufacturer specializing in additive manufacturing (AM), has secured a deal with Leidos to develop and build rocket boosters for the U.S. Army’s Low-Cost Containerized Munition (LCCM) project. According to 3D Printing Industry , the LCCM is one of the Department of War’s programs under the “Arsenal of Freedom” initiative, which aims to rebuild the United States’ defense industrial base. “Modern conflict is decided by how many rounds you can put downrange, not how exquisite each one is,” X-Bow founder and CEO Jason Hundley said. He also added that collaborating with Leidos would allow it to “turn out combat-ready rocket motors at production scale, fast.” Even though X-Bow Systems is a relatively new company, having been founded in 2016, it has already successfully produced over 2,100 combat-ready rocket motors. This means that it has the experience and expertise to produce the rocket engines in the numbers that the U.S. Army requires. While conventional manufacturing methods still offer several advantages over 3D printing, the latter is still more effective when dealing with the complex geometries that some SRMs require. It’s also a faster solution when you need to iterate designs multiple times, which is why X-Bow can create and build new designs in a matter of days, instead of the months or years that it takes traditional defense contractors to prototype and test rocket motors. Other companies have been experimenting and working wit
+
+### ASML's employee-only High-NA EUV Lego kit gets an open 810-piece fan replica
+Sat, 17 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/employee-exclusive-asml-lego-set-now-available-on-rebrickable-custom-creation-modifies-original-version-to-add-more-details-now-requires-810-parts
+
+ASML launched a Lego kit version of the TWINSCAN EXE:5000 , the world’s first High-NA EUV machine, in December 2024. Since ASML only sells products like these to employees, the company canceled orders from non-employees, making the kit even more desirable for collectors. Current eBay listings show a Buy It Now price between $500 and $700, which is significantly higher than the $230 that the company asks for on the official website. However, X user @lithos_graphein shared a recreation of the kit available on Rebrickable , which added some tasteful modifications. The ASML high-NA EUV Lego Set is extremely rare and only available to employees from the company store. But there are directions and a full 800-piece parts list on rebrickable. It's not exactly what ASML offers, but the modifications are tasteful. Many of these bricks are hard to source, so I made my own version. I do a tool install every Christmas over my fireplace. It's almost that magical time of year again.https://t.co/EzDlwvfh50 October 11, 2026 “A friend of mine fell in love with the ASML employee-exclusive Lego TWINSCAN EXE:5000 set and asked me to recreate it. While the original Lego version already looked impressive, I made some modifications to better capture the details of the real machine,” NightHawk11991 said in the description of the MOC (My Own Creation). “Using photos my friend took of the actual equipment, I designed this custom MOC to enhance its accuracy. I also added some interior details, including
 
 ### This could be your last chance to grab an RTX 5090
 Fri, 16 Oct 2026 17:04:44 +0000 — https://www.tomshardware.com/desktops/gaming-pcs/this-could-be-your-last-chance-to-grab-an-rtx-5090-how-to-secure-nvidias-top-rtx-gpu-as-rumors-of-discontinuation-swirl
@@ -126,57 +176,32 @@ Fri, 16 Oct 2026 16:30:00 +0000 — https://www.tomshardware.com/tech-industry/s
 
 Being unable to procure EUV litho tools from ASML, China must develop such systems locally, so from time to time we learn about an EUV-related 'breakthrough' in China that will turn into an actual EUV scanner over the following several years. This week, Chinese startup Langdao Silex demonstrated a prototype extreme ultraviolet (EUV) light source with over 15W of output power, 90% domestic components, and decent uptime. The company will need another three to five years to commercialize its technology, reports TrendForce, citing various sources. Yet, a light source alone does not make an EUV scanner. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined An LPP EUV source from China Langdao Silex, which was established in 2024 by Tsinghua University's Gas Discharge Plasma Laboratory alumni, demonstrated its EUV light source prototype at the 26 th China International Industry Fair in Shanghai, for obvious reasons, without lighting it up. Just like modern light sources from ASML, the company's low-power FlintNano LPP-OXXO system uses laser-produced plasma (LPP) technology that produces EUV radiation by bombarding tiny heated metal droplets with high-energy laser pulses to create extremely hot plasma. The system features a 1
 
-### Gun-rights activist unveils world's first 'AI-made' 3D-printed firearm — .22 caliber handgun created by an 'AI that can generate guns' called GatGPT
-Fri, 16 Oct 2026 16:20:41 +0000 — https://www.tomshardware.com/3d-printing/gun-rights-activist-unveils-worlds-first-ai-made-3d-printed-firearm-22-caliber-handgun-created-by-an-ai-that-can-generate-guns-called-gatgpt
-
-Gun rights activist Cody Wilson, known for creating the world's first 3D-printed firearm over a decade ago, has unveiled a new creation he claims is "the first AI-made gun." Dubbed the WASP, the weapon is 3D-printed and was designed by an artificial intelligence model he has creatively named 'GatGPT,' The Verge reports. The report describes the WASP as "little more than a pistol barrel attached to a spring-loaded plastic box" that closely resembles another 3D-printed, single-shot weapon made by Wilson known as Liberator. As you can see from the image below, the weapon faintly resembles a regular firearm, but boasts a very strange grip and somewhat unconventional design. (Image credit: Defense Distributed) Wilson claims not to have simply made an AI-generated gun, but rather "an AI that can generate guns." Not simply one 3D printed creation, Wilson claims to have created a custom AI gunsmith model he calls GatGPT. According to the report, the model has been trained on DEFCAD's (the world's biggest online repo of digital guns) gun file library and can even help creators pick out parts for their builds. The story is a seemingly significant development in the proliferation of "ghost guns," homemade firearms that don't have serial numbers, making them much more difficult to track and regulate. Wilson claims firearm access is "a fundamental human right." Interestingly, the report reveals that the WASP was designed simply by way of a conversation with the AI model, a polite way of s
-
-### Nvidia RTX Spark devices are now officially on sale, secure the Surface Laptop Ultra or other RTX Spark laptops here
-Fri, 16 Oct 2026 15:38:45 +0000 — https://www.tomshardware.com/laptops/nvidia-rtx-spark-devices-are-now-officially-on-sale-secure-the-surface-laptop-ultra-or-other-rtx-spark-laptops-here-starting-at-usd2-599-where-to-buy-pricing-and-availability-revealed-on-several-models
-
-Nvidia's RTX Spark is now generally available for immediate shipment at multiple retailers. Orders for RTX Spark from brands like Asus, Microsoft, Lenovo, HP, and Dell are live now, including the new Surface Laptop Ultra . Additional devices will be available post-launch, including small form factor desktops. Further below, you'll find the full list of all available models in detail, but we also have more general links here: Order RTX Spark devices at Best Buy Order RTX Spark devices at B&H Order Surface Laptop Ultra at Microsoft Best Buy has a limited lineup of devices to start, ranging from the Asus ProArt P14 with 24GB of memory for $2,599 up to the Surface Laptop Ultra with 48GB of memory for $3,999. If you want to scale up the RTX Spark's maximum of 128GB of memory, you'll need to shop elsewhere. Nvidia RTX Spark 128GB and 64GB laptop orders ProArt P16 RTX Spark: $4399.99 The Asus ProArt P16 is a 16-inch laptop with the RTX Spark chip, which includes the 20-core Grace CPU and a Blackwell GPU, along with up to 128GB of unified memory. View Deal Asus has the ProArt P16 available with either 64GB or 128GB of unified memory directly from its web store, starting at $4,499.99 for the 64GB configuration. If you upgrade to 128GB of unified memory, the laptop comes in at $6,999.99 with 2TB of storage. Lenovo Pro 9n Nvidia: $2999.99 The Lenovo Pro 9n comes with the 18-core N1X processor paired with 32GB of LPDDR5X-9400 and a 15.3-inch 2560x1600 OLED panel that runs at a blistering
-
-### New York rep announces game ownership bill that would require consumer ownership rather than sale of licenses
-Fri, 16 Oct 2026 13:51:32 +0000 — https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends
-
-Rep. Ritchie Torres of New York's 15th congressional district has introduced the Power To The Players Act . This new legislation aims to protect consumers by directing the FTC to establish regulations on game ownership to curb anti-consumer business practices. "Under the bill, buying a video game would give the consumer ownership of the game rather than a license to play it," the release says. "Games with online functionality would also be required to provide an offline mode before the servers supporting them are shut down." Games having an expiration date despite being more expensive than ever has been scrutinized by players all over the world, along with aggressive monetization schemes within the games themselves. Rep. Ritchie Torres isn’t the first to fight for gamers, as Pennsylvania state senator John Kane also recently introduced the Protect Our Games Act , requiring publishers to provide an offline mode, community servers, or a 25% minimum refund. Players want to be able to enjoy their games even if the publisher decides to stop supporting the game, but Sony doesn’t think the players own their games and that they have the right to pull the rug from under them. Sony’s lawyers even recently said in a defense in an ongoing class action lawsuit that clicking on the “purchase” button would obviously not lead the consumer to think that they were acquiring a durable right to use the game instead of a revocable license; basically a one-time rent fee that Sony could take away a
-
-### Gigabyte X870 Aorus Infinity Motherboard Review: limited-edition, designed for extreme overclocking, but pricey for X870
-Fri, 16 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/motherboards/gigabyte-x870-aorus-infinity-motherboard-review
-
-At Computex 2026, we saw Gigabyte’s concept X870E Aorus Infinity Next motherboard using that incredible-looking space-age material for VRM cooling, along with something more practical: the X870 Aorus Infinity, a production board, not a concept. The Infinity is made for overclockers. Just look at the right edge: All those buttons and voltage read points make pushing the limits even easier. It sports a two-DIMM design, with the DRAM slots above the socket, prioritizing speed over capacity. Priced at an eye-opening $799.99 , it's far from cheap (it is a 40th-anniversary limited-edition board), even for the enthusiast X870E platform, but it offers a wide range of features that work for nearly everyone. As far as specifications go, the Aorus Infinity is well-equipped for an X870 board. You get eight total USB ports on the rear IO (one USB4), three M.2 sockets (one PCIe 5.0), and four SATA ports for storage, fast networking with 5 GbE and Wi-Fi 7 (320 MHz), and a quality last-gen flagship-class audio codec. And of course, there are all of the features designed for overclocking, including robust power delivery and the Overclocking kit, with several buttons and voltage read points, to take some of the complications of extreme overclocking down a notch. Gigabyte also lists support for a staggering DDR5-11400(OC), but it needs manual tweaking, specialized BIOS fine-tuning, and the right hardware (likely an APU with an excellent IMC). On the performance front, the X870 Aorus Infinity de
-
-### Googlebooks are as poorly timed as Valve’s Steam Machine, and may suffer a similar fate
-Fri, 16 Oct 2026 12:30:00 +0000 — https://www.tomshardware.com/laptops/googlebooks-are-as-poorly-timed-as-valves-steam-machine-and-may-suffer-a-similar-fate
-
-It’s been a busy year for laptops. Apple’s value-priced MacBook Neo caused a major shakeup in the budget space, forcing Windows device makers to respond with their own premium , affordable offerings . Microsoft nixed its original 16GB requirement for AI PCs, ushering in a slew of new 8GB Wildcat Lake options , and further muddied the waters of its Copilot branding after vowing to improve performance on 8GB Windows PCs . The driving force behind all of this is, of course, is the roughly five-fold increase in RAM costs in the past year, driven by AI hyperscaler demand. That’s also why Valve delayed the Steam Machine by roughly six months, eventually forcing its launch price above $1,000. That completely negated the value proposition that made the Steam Deck a success for so long. And I think Google’s new laptops are in a similarly tough spot, for many of the same reasons. The new Googlebook laptop platform – an AI-focused reimagining of its successful Chromebook platform, complete with its own 16GB RAM requirement and prices that (apart from a limited-time $899 offer from Acer) start at $999. Models from Lenovo and Asus even stretch into MacBook Air pricing territory. But, like Valve’s gaming hardware, Google’s previous laptop success has hinged primarily on affordability. Chromebooks launched in 2011, with three models all priced around $500, and Acer again undercut its competition at $349. There have been “high-end” Chromebooks over the years, but the vast majority have remai
-
-### Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC
-Fri, 16 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review
-
-It's been a few years since we've seen a Surface focused on performance. With Nvidia's entry into mobile SoCs, Microsoft is one of several hardware partners that have developed an ultra-premium PC designed around the RTX Spark . The Surface Laptop Ultra is the most beautiful laptop Surface has ever produced. The screen is gorgeous. The port selection is strong, and the metal chassis feels luxurious. It's heavy, but that's the price of cooling an SoC designed to run AI models. This is also one of the first Windows on Arm laptops that isn't using a Qualcomm chip. It benefits greatly here from years of work by Microsoft and Qualcomm, and hopefully Nvidia's involvement raises the bar for everyone. Windows on Arm works better here than ever before. And yet, this system is expensive. If you want to run mobile AI workloads on the go, you will see, the Surface Laptop Ultra is a serious contender. But if you're just a Windows power user, you won't get a ton out of RTX Spark besides better software and gaming compatibility than previous Arm-based laptops. This is a lovely laptop waiting for Windows 11 to catch up to it. Design of the Microsoft Surface Laptop Ultra The Surface Laptop Ultra is, without a doubt, the nicest system that Microsoft has ever built. The company has made some nice designs across both its Surface Pro and Laptop lines, but the Laptop Ultra really is something else. Tom's Hardware Tom's Hardware Tom's Hardware The Ultra very much looks like Surface Laptops of old, 
-
-### Taiwan raising $4 billion to build industrial park in Texas to support US chipmaking supply chain
-Fri, 16 Oct 2026 11:57:18 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/taiwan-raising-usd4-billion-to-build-industrial-park-in-texas-to-support-us-chipmaking-supply-chain-project-to-support-countless-small-manufacturers-crucial-to-tsmc-foxconn-supply-chain
-
-Taiwan is raising at least $4 billion through the Taiwan Electrical and Electronic Manufacturers’ Association to build an industrial park in Texas. According to Bloomberg , the site is designed to support the countless smaller manufacturers that major manufacturers like TSMC and Foxconn rely on. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined “We are going to establish a long-term, sustainable supply chain there that can also be joined by American firms and local workers, and not just Taiwanese companies,” Taiwan Minister of Economic Affairs Kung Ming-hsin said. Major Taiwanese companies are more than capable of spending the billions of dollars needed to set up shop in the U.S. TSMC, for example, has already spent $165 billion to put up its Arizona site, and has committed a further $100 billion to build four more 2nm fabs. However, they also rely on several smaller manufacturers that do not have the financial capability to expand operations into the U.S. independently. Nvidia CEO Jensen Huang has even recognized some of these companies in a keynote in Taipei earlier this year, nothing the crucial part that these smaller companies play in the global AI supply chain. Support for these businesses will not be limited
-
-### Epic introduces an improved version of anti-cheat for Linux
-Fri, 16 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/pc-gaming/epic-introduces-an-improved-version-of-anti-cheat-for-linux-eac-linux-v2-will-finally-allow-linux-gamers-to-play-fortnite
-
-Epic Games says that it’s working on an update for its anti-cheat solution for Linux that would close the gap in capabilities with the Windows version of Easy Anti-Cheat. The company said that EAC Linux V2 will use existing Linux features to make it easier for distribution maintainers to meet these requirements by default, which should allow more Linux gamers to play competitive titles without needing to make changes to their current setup, but with the trade-off of forced adherence to certain security measures that the Linux community often avoids. EAC Linux V2 currently has the following requirements: Signed Kernel and Kernel Modules, TPM 2.0, Secure Boot, Measured Boot, Input-Output Memory Management Unit (IOMMU), Kernel Lockdown Integrity Mode, Kexec Disabled, and Linux Security Module BPF. The company says that it expects to iterate on these requirements over time, and that it’s looking to work with developers and distribution maintainers to refine these requirements. Using these features means that EAC Linux V2 will not need a kernel driver like the Windows implementation of anti-cheat, although it may require some distro maintainers to effect a configuration change to work with EAC Linux V2. As for Linux players using an EAC-Linux-V2-compatible game and distro, they need to install an anti-cheat systemd service that only runs alongside a protected game. Once they quit the protected title, the anti-cheat service would also end its process. Some of the distros the EAC Li
-
-### Experiment shows liquid metal TIM doesn’t dry out; it turns solid
-Fri, 16 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/cooling/experiment-shows-liquid-metal-tim-doesnt-dry-out-it-turns-solid-two-year-electron-microscope-test-finds-gallium-bonds-with-copper-coolers-and-nickel-plating-keeps-the-layer-about-10-times-thinner
-
-YouTuber hardware enthusiast and Thermal Grizzly boss der8auer tested a two-year-old liquid metal thermal interface material (TIM) application with an electron microscope in his new video , discovering that it doesn’t dry out. Instead, the gallium bonds with the copper in a reaction to form a solid compound. On copper, that layer’s heat conduction performance is about one-quarter of the bare metal’s, and nickel plating keeps it about 10 times thinner. His test showed the TIM as liquid after one hour, no liquid visible with crystals everywhere at the two-month mark, and then unchanged after two years. “After a total of two years, this honestly did not change further,” he said. The test relied on storing the setup in a vacuum or a nitrogen-filled box between sessions to avoid oxidation. The TIM in question is an alloy of gallium and indium, often including tin, which is liquid at room temperature (Thermal Grizzly sells its own as Conductonaut); gallium melts at about 30 degrees Celsius, with the gallium-indium-tin mix melting at only 11 degrees. Improving cooling at the interface bottleneck is becoming a real issue as heat per surface area continues to rise. His examples are the RTX 5090 and RTX 5080, which he says have “twice” and “three times” the power density of the 8800 GTX. How the liquid metal reacts depends on the cooler material. With aluminum, the gallium travels along the grain boundaries once the oxide layer is broken, and this weakens the metal. His demo on a scrap
-
-### Corsair's Vengeance RGB DDR5 32GB memory receives a $108 price cut
-Fri, 16 Oct 2026 10:55:27 +0000 — https://www.tomshardware.com/pc-components/ddr5/corsairs-vengeance-rgb-ddr5-32gb-memory-receives-a-usd108-price-cut-the-cheapest-ddr5-5600-kit-available-to-buy-right-now
-
-Are you looking to buy RAM for an upgrade or an existing PC? You've no doubt seen the news about the extortionate price rises on RAM and storage, thanks to the ongoing AI boom ruining the component market for PC enthusiasts; well, today, we have some slight light in the darkness, with a $108 price cut on some DDR5 memory from Corsair. You can pick up 32GB of Corsair Vengeance RGB RAM (DDR5-5600) for $409 direct from Corsair. I've checked against our own price tracking info and used various other online resources to confirm that this is indeed the cheapest available to purchase memory kit with these speeds. ● Check out this deal at Corsair This 32GB kit comprises two 16GB matched memory sticks, both with RGB lighting running along the spine of the heat shroud. The Corsair Vengeance RGB RAM is DDR5 with speeds of 5600 MT/s and a CAS latency of 40. This kit comes with Intel XMP profiles that can be selected in the BIOS. We can't compare prices of RAM now to those of even a year ago. That's just unrealistic in the current AI economic climate, and whether you love or hate AI, it's not going anywhere soon; the rollouts of large data centers and manufacturers focusing resources on profit-heavy AI component production will continue for the foreseeable future. Vengeance RGB DDR5 32GB (2 x 16GB) 5600: was $517.99 now $409.99 Corsair's Vengeance RGB kit consists of 2x 16GB matched sticks for 32GB total of DDR5 5600 memory, along with timing speeds that include a CAS latency of CL40. Vie
-
 ## Phoronix
+
+### Linux Lands Fix for Rare, Varying SMP Boot Hangs Affecting Kernels Since 2024
+Sat, 17 Oct 2026 06:54:33 -0400 — https://www.phoronix.com/news/Linux-7.3-KThreads-NBCON
+
+Among the flurry of last minute patch activity ahead of tomorrow's presumed Linux 7.3 stable kernel release is a fix for addressing some rare hangs at boot time. The reports varied but ultimately tracked down to a kernel change made two years ago...
+
+### GNOME s New Local/Cloud AI Chat App Gains More Features
+Sat, 17 Oct 2026 06:39:25 -0400 — https://www.phoronix.com/news/GNOME-Moose-0.6-AI
+
+Coming about the past few months has been Moose as a GNOME-aligned AI chat application built around GTK4 and libadwaita. It began as a local AI chat app for the GNOME desktop and grew to support cloud AI services as well. This past week marked the latest feature release for Moose...
+
+### Linux 7.3 Lands Last-Minute Fixes For Samsung 990 PRO & 990 EVO Plus SSDs
+Sat, 17 Oct 2026 06:15:12 -0400 — https://www.phoronix.com/news/Linux-7.3-Samsung-990-Immediate
+
+Ahead of the Linux 7.3 stable kernel expected to be released tomorrow, last minute workarounds were merged for the Samsung 990 PRO and Samsung 990 EVO Plus NVMe solid state drives...
+
+### KDE Plasma 6.9 To Debut New Weather Widget & On-Screen Keyboard
+Sat, 17 Oct 2026 06:01:15 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.9-Weather-Keyboard
+
+With KDE Plasma 6.8 released earlier this week, KDE developers have begun working on more feature activity toward Plasma 6.9...
+
+### Ubuntu Touch 24.04-2.1 Brings New Hardware Support & Important Security Fix
+Sat, 17 Oct 2026 05:49:26 -0400 — https://www.phoronix.com/news/Ubuntu-Touch-24.04-2.1
+
+Ubuntu Touch 24.04-2.1 was released on Friday as the latest update to this community-maintained tablet/smartphone Ubuntu Linux platform. Ubuntu Touch 24.04-1.5 was also released as a maintenance update for the prior series...
 
 ### Wine 11.20 Released With CD-ROM Support Change
 Fri, 16 Oct 2026 20:44:06 -0400 — https://www.phoronix.com/news/Wine-11.20-Released
@@ -213,32 +238,17 @@ Fri, 16 Oct 2026 09:20:22 -0400 — https://www.phoronix.com/news/AI-Starling-De
 
 Starling, the open-source desktop environment written in Swift and with its own Wayland compositor too and written largely via Claude Code, has now rolled out its own AI-generated office suite...
 
-### Fedora 46 Looking At Moving To RPM v6 Package Format
-Fri, 16 Oct 2026 09:03:26 -0400 — https://www.phoronix.com/news/Fedora-46-RPM-v6
-
-The RPM v4 packaging format has been used by Red Hat Enterprise Linux and Fedora and its derivatives for more than two decades. With next year's Fedora 46 release, Fedora Linux may finally transition to the modern RPM v6 packaging format...
-
-### AI Resurrects AVX-512 Support For Mesa s LLVMpipe Software Driver
-Fri, 16 Oct 2026 06:28:51 -0400 — https://www.phoronix.com/news/LLVMpipe-AVX-512-MR
-
-With pending code for Mesa, the LLVMpipe software-based Gallium3D/OpenGL driver could soon become faster on modern systems that support AVX-512. That's assuming the AI/LLVM-generated code is all in order...
-
-### Linux 7.4 To Enable Intel Instruction Timeout For Fending Off TDX VM DoS Attacks
-Fri, 16 Oct 2026 06:13:51 -0400 — https://www.phoronix.com/news/Intel-Instruction-Timeout-Linux
-
-Linux 7.4 is enabling support for a new Intel CPU feature for providing safety against possible denial of service attacks using Trust Domain Extensions "TDX" VMs. The new feature is Intel Instruction Timeout and previously in-development known as Notify VM Exit...
-
-### Linux 7.3 Squeezes Even More Performance Out Of The AMD Threadripper PRO 9995WX
-Fri, 16 Oct 2026 05:22:01 -0400 — https://www.phoronix.com/news/Linux-7.3-Threadripper-9995WX
-
-With the Linux 7.3 kernel due out for release on Sunday, I've continued running more benchmarks recently of this forthcoming kernel version and it looks great. In my Linux 7.3 testing of the Git state it's been looking great in testing on a variety of hardware shown across multiple systems. Recently I decided to try out this new kernel code on the 96-core AMD Ryzen Threadripper PRO 9995WX workstation...
-
-### Intel LLM-Scaler-vLLM PV 1.5 Brings Big Improvements
-Fri, 16 Oct 2026 05:04:22 -0400 — https://www.phoronix.com/news/Intel-LLM-Scaler-vLLM-PV-1.5
-
-Intel software engineers today released the latest version of LLM-Scaler-vLLM PV 1.5, their containerized Docker stack providing a convenient AI/LLM experience atop Intel Arc Graphics hardware and born out of their Project Battlematrix initiative...
-
 ## The Register
+
+### Cybercrims go beyond stealing data to attack physical building systems
+Sat, 17 Oct 2026 13:30:00 +0200 — https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677
+
+Late Sunday night, a still-unknown cybercriminal or group hacked thousands of remote-controlled refrigeration systems across hundreds of French grocery stores, spiking temperatures, spoiling food, and sparking fires. This is part of an ongoing trend of attacking physical systems that can do damage in the real world. In August, a ransomware attack disrupted building-management systems at a Canadian hospital, affecting door access controls, central HVAC monitoring, and the issuing of staff access cards. And three years ago, cyberattacks hit Las Vegas casinos, causing slot machines to go dark, preventing payment kiosks and ATMs from spitting out cash, and locking guests out of their rooms when the electronic keys stopped working. Not all digital intrusions remain in cyberspace, and attackers don’t need to encrypt files and steal data to cause chaos. Hitting physical systems often produces more severe consequences - and turns up the heat on executives to pay an extortion demand. “There was one gig where the customer was refusing to pay, and so the threat actor was like, ‘Hold my beer, have fun getting into your offices,’ and locked everybody out,” Tim Beasley, a senior incident response consultant at Semperis, told The Register. Beasley won’t name the customer, or provide any incriminating information, but said the incident response involved police smashing glass in addition to his team recovering compromised data. “The cops had to break in, and literally get into the building, b
+
+### Amazon wants you to Bee-lieve wearable AI can recall it all for you
+Sat, 17 Oct 2026 11:00:00 +0200 — https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569
+
+Amazon wants to ensure you have a personal AI that you can carry with you anywhere, listening in on your conversations so it can remind you of key details – and give you personalized shopping recommendations, of course. The global online bazaar has unveiled two new AI-based products from Bee, a startup in wearable devices that it acquired last year in a deal said to be worth $300 million. Bee’s original product for Amazon was tried out and sort of given approval by friend of The Register Corey Quinn, Chief Cloud Economist at Duckbill, earlier this year. One new gizmo, Bee Frontier, is designed to be worn like a watch or one of those fitness trackers, although to our mind it looks more like you are wearing a doorbell. The other, Bee Eclipse, is a slimline and lightweight device about the size of a credit card that attaches to the back of your phone magnetically, like a limpet. Both are intended to listen in to your conversations and help you remember important details, like when you are meeting your friend for a pint later and at which hospitality outlet. The devices take note of the details you might otherwise forget, and then turn them into useful conversation summaries, to-dos and reminders, Amazon says. The pair of devices feature a single button to turn on or off, and a visible indicator that lights up when one is listening in and its AI is summarizing the conversation. When enabled, the eavesdropper gathers context from your conversations to provide insights and recommen
 
 ### Get in the bin! UK Space Agency wants public to name its debris removal mission
 Sat, 17 Oct 2026 09:29:00 +0200 — https://www.theregister.com/science/2026/10/17/get-in-the-bin-uk-space-agency-wants-public-to-name-its-debris-removal-mission/5303555
@@ -290,17 +300,57 @@ Fri, 16 Oct 2026 16:30:00 +0200 — https://www.theregister.com/cyber-crime/2026
 
 The FBI is once again warning US citizens to be on the lookout for the scams that are so often rife around election season. With November’s midterms fast approaching, the FBI said scammers are known to use the names, imagery, and slogans of high-profile candidates for a range of frauds. These are often related to making donations and selling merchandise, but can also be geared toward stealing personal data for use in follow-on scams. And of course, more recently, fraudsters’ efforts can be all the more convincing given the rise in AI use and deepfake technology, which can also be used to more accurately imitate the likenesses of candidates and other officials. Campaign investment pool schemes are among the four big frauds the FBI wants the public to watch out for over the next few weeks. These involve scammers convincing their marks to pay into a campaign pool, which ostensibly pays out to all of those who donated after the candidate wins. More commonly, these types of pooled investment scams are based on collective investments into stocks and other appreciating assets. The FBI did not provide details about these campaign pools’ investment incentives or how victims are supposedly able to increase their stake by donating to the cause, but did say that no genuine campaign donations appreciate over time. Another common donation-based scam to be wary of is the one that convinces victims to fund a fake political action committee (PAC), one that collects supporters’ cash and promis
 
-### Attack on BAE-managed system disrupts US bankruptcy courts
-Fri, 16 Oct 2026 15:29:00 +0200 — https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487
-
-The US' bankruptcy courts are currently down owing to what officials are calling a “cybersecurity incident.” The Administrative Office of the US Courts said the websites and systems that support the Bankruptcy Noticing Center (BNC), which manages electronic comms related to bankruptcy cases, were pulled offline while the vendor investigates. BAE Systems runs the affected systems and websites on behalf of the Federal Judiciary, and is “working to restore operations,” according to an announcement by the US Courts on Thursday. “As a result of the incident, all access to the BNC systems and websites that BAE operates on behalf of the judiciary and the related bankruptcy noticing process are unavailable at this time, including bnc.uscourts.gov, bankruptcynotices.uscourts.gov, notices.uscourts.gov, and the National Creditor Registration Service," it said. “The incident has also halted the BNC’s production and distribution of bankruptcy notices for bankruptcy courts.” While the public notice was published on Thursday, the issues affecting the BNC systems began a few days earlier, on October 9, according to the Bankruptcy Court of the Eastern District of Texas. Alongside its own announcement, the same court published a general order indicating that for any case filed on or after September 14 with an active motion to stay, that delay would be extended by an additional 30 days. The court said it will continue to accept filings, open cases, and process documents, but said there may be a
-
-### British watchdog seeks tougher terms around Microsoft's dominance of business software
-Fri, 16 Oct 2026 14:44:16 +0200 — https://www.theregister.com/software/2026/10/16/british-watchdog-seeks-tougher-terms-around-microsofts-dominance-of-business-software/5303520
-
-The UK's competition watchdog wants to designate Microsoft with strategic market status (SMS) in business software, allowing the regulator it to intervene to level the playing field, and says it is considering other areas for investigation. Regulators around the world are watching to see what the UK decides in this case, with bodies such as the US Federal Trade Commission (FTC) and the European Commission mulling similar actions. The Competition and Markets Authority (CMA) is opening a consultation on whether to tag the Redmond software giant with strategic market status in respect of its portfolio of business software applications. This follows an investigation the regulator started back in May into Microsoft’s software portfolio including Word, Excel, Outlook, PowerPoint and Teams, plus its security, server and operating systems. The watchdog is also probing whether Microsoft enjoys a position of “substantial and entrenched market power” through the suite of software that could be seen as stifling competition and harming buyer choice. It lays out its proposed decision in a document [PDF] and is inviting comments that must be submitted by November 13. The CMA will make its final decision by February 13, 2027. Bargain spotter The CMA makes it clear the company holds a strong position in each of the five areas it investigated (personal computer operating systems, productivity software suites, security software, server operating systems and relational database management system
-
 ## Engadget
+
+### Verizon will charge you $10 a month for iPhone Handoff
+Sat, 17 Oct 2026 13:45:16 +0000 — https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/
+
+iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.
+
+### Why Xiaomi phones have so many ads (and how to block them)
+Sat, 17 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2284023/xiaomi-phone-why-so-many-ads/
+
+Xiaomi phone users know these phones have too many ads, and the reason is very simple. Learn how to remove them so they're not a hassle anymore.
+
+### Microsoft really doesn't want you to buy Office — here's a great free alternative
+Sat, 17 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2283984/microsoft-doesnt-want-you-to-buy-office-free-alternative/
+
+Microsoft Office used to be a suite you could simply buy and it'd just work. Now, it's largely trapped behind a subscription. Here are some great free options.
+
+### How to create iPhone Shortcuts with Apple Intelligence (and why you should)
+Sat, 17 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/
+
+When it works, it works!
+
+### These common charging habits could be degrading your EV battery
+Sat, 17 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2283982/common-changing-habits-degrading-ev-battery/
+
+EVs, with their enormous batteries, can suffer if they're charged in the wrong way. Here's what you should keep in mind when you next juice your vehicle.
+
+### Apple updates App Store rules to ensure it doesn't offer AI nudify apps
+Sat, 17 Oct 2026 12:35:56 +0000 — https://www.engadget.com/2289567/apple-updates-app-store-rules-ai-nudify-apps/
+
+Apple has tightened the App Store's rules against AI-generated nonconsensual intimate imagery.
+
+### Is the Google Fitbit Air waterproof?
+Sat, 17 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2283981/how-long-google-fitbit-air-be-in-water-waterproof/
+
+No, but you can still swim with it!
+
+### How to check your Ethernet cable's speed
+Sat, 17 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2283972/how-to-check-ethernet-cable-speed/
+
+Understand the speeds your Ethernet cable can transmit at help you diagnose where the slowdowns on your network are happening.
+
+### More than Just Storage: 8 Ways To Repurpose Your Old USB Flash Drive
+Sat, 17 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2285456/ways-to-repurpose-old-usb-flash-drive/
+
+It's time to do something with that drawer full of old USB flash drives. Breathe new life into unused tech with simple, useful tricks spanning an array of uses.
+
+### Double Fine's first post-Xbox title, first-person Soulslikes and other new indie games worth checking out
+Sat, 17 Oct 2026 11:30:00 +0000 — https://www.engadget.com/2289293/double-fine-first-post-xbox-title-first-person-soulslikes-and-other-new-indie-games/
+
+There were a host of indie game showcases this week, so we're dig into some of the best announcements from them.
 
 ### The Tesla Roadster should go into production in 2028, but don't get your hopes up
 Sat, 17 Oct 2026 01:50:50 +0000 — https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/
@@ -311,56 +361,6 @@ I drive upside down on the boulevard of broken dreams.
 Fri, 16 Oct 2026 20:50:28 +0000 — https://www.engadget.com/2289307/flying-tesla-roadster-lockheed-martin-mokv-technology-comparison/
 
 Thrusters are as good at flipping cars as they are at hunting ballistic missiles.
-
-### Analogue returns to the 16-bit era with the Mega Sg+ and Super Nt+
-Fri, 16 Oct 2026 17:03:29 +0000 — https://www.engadget.com/2288966/analogue-returns-to-the-16-bit-era-with-the-mega-sg-and-super-nt/
-
-Dust off your old Sega Genesis and Super Nintendo cartridges.
-
-### If memory shortages last, tech companies should offer cheap battery replacements
-Fri, 16 Oct 2026 16:32:00 +0000 — https://www.engadget.com/2288908/if-memory-shortages-last-tech-companies-should-offer-cheap-battery-replacements/
-
-If a company like Apple could offer $29 batteries before, it can do so again.
-
-### MapQuest will now show you where Flock cameras are in your neighborhood
-Fri, 16 Oct 2026 14:12:29 +0000 — https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/
-
-You can see the locations of known outdoor surveillance cameras in the MapQuest app.
-
-### Technics EAH-A1000 review: Superior sound and excellent ANC in a premium package
-Fri, 16 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2288638/technics-eah-a1000-review/
-
-Technics' flagship over-ear wireless headphones are light on compromises, but enter a competitive market.
-
-### An OpenAI research agent 'stole' test Ethereum to finish a coding task
-Fri, 16 Oct 2026 12:50:24 +0000 — https://www.engadget.com/2288645/an-openai-test-agent-stole-test-ethereum-to-finish-a-coding-task/
-
-An OpenAI research model hit a nebulous milestone today by pilfering test Ethereum tokens.
-
-### Steam Achievement Sets will stop DLCs from ruining your 100 percent record
-Fri, 16 Oct 2026 11:54:54 +0000 — https://www.engadget.com/2288624/steam-achievement-sets-protect-100-percent-record-from-dlcs/
-
-Steam has launched Achievement Sets in beta.
-
-### ChatGPT can now look at your Chrome tabs to do tasks for you
-Fri, 16 Oct 2026 10:06:15 +0000 — https://www.engadget.com/2288580/open-ai-updates-chatgpt-extension-for-chrome/
-
-The ChatGPT browser extension lets you compare information from your open tabs.
-
-### Apple's $2,000 iPhone Duo goes on pre-order today at 8AM ET
-Fri, 16 Oct 2026 09:36:05 +0000 — https://www.engadget.com/2288565/apple-iphone-duo-pre-orders-open-today/
-
-The Apple Store is down ahead of pre-orders for the first folding iPhone.
-
-### Gmail's Live AI search feature arrives for Google AI subscribers
-Fri, 16 Oct 2026 08:31:48 +0000 — https://www.engadget.com/2288545/gmail-live-ai-search-feature-arrives-for-google-ai-subscribers/
-
-Gmail's search can be frustrating and basic, but Google is finally smartening it up for AI plan subscribers.
-
-### Relive Tesla's ridiculous(ly fun) Roadster stunt show
-Fri, 16 Oct 2026 02:24:52 +0000 — https://www.engadget.com/2288448/relive-tesla-ridiculously-fun-roadster-stunt-show/
-
-Tesla's Roadster event was pretty exciting, to say the least.
 
 ## TechCrunch
 
