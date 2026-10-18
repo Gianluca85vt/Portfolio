@@ -39,7 +39,6 @@ artistView:
   misses:
     - "Character art: reviewers describing a thin enemy roster is an asset-budget signature, and it costs most in a genre whose loop is re-reading the same wind-up until you own it."
     - "Performance: launch bugs on a game built around a timing window are not cosmetic. A dropped frame inside the parry is a death the player cannot attribute to themselves."
-draft: true
 ---
 
 A soulslike asks you to read a wind-up. Which arm, which arc, how many frames
