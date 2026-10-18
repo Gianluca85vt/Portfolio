@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-17T18:49:43.480Z
+# Manga — harvested 2026-10-18T09:04:33.281Z
 
 ## Anime News Network
+
+### Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover, Aoashi Anime
+Sun, 18 Oct 2026 03:08:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948
+
+<cite>Black Clover</cite> English dub starts streaming on Saturday, <cite>Aoashi</cite> on Sunday
+
+### Voice Actor Nichika Ōmori Announces 1st Pregnancy
+Sat, 17 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-17/voice-actor-nichika-omori-announces-1st-pregnancy/.242850
+
+Ōmori made the announcement with her husband Yunomi as a birthday surprise
 
 ### Octopath Traveler 1 & 2 Game Review
 Sat, 17 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/octopath-traveler-1-and-2/.242702
@@ -52,16 +62,6 @@ Sat, 17 Oct 2026 01:31:42 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Hakusensha serialized shōjo manga from 2009 to 2018
 
-### Peow2 Licenses Jyoshikohei, Alien 9, Phantom Core Manga
-Sat, 17 Oct 2026 01:08:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/peow2-licenses-jyoshikohei-alien-9-phantom-core-manga/.242932
-
-Company to release all 3 manga next year
-
-### Japan Actors Union Develops Guidelines for Generative AI Use
-Fri, 16 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861
-
-Dragon Ball cast members discuss how generative AI affects them in press conference
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
@@ -108,11 +108,6 @@ Fri, 16 Oct 2026 09:14:07 GMT — https://animecorner.me/ave-mujica-prima-aurora
 
 Ave Mujica prima aurora movie revealed its second trailer on Friday. The movie is&hellip;
 
-### Interview: We Asked Captain Tsubasa's Creator Who the Real Tsubasa Is
-Fri, 16 Oct 2026 08:59:03 GMT — https://animecorner.me/interview-yoichi-takahashi/
-
-Yoichi Takahashi, the man who taught Japan to love football sat down with us&hellip;
-
 ## MyAnimeList News
 
 ### Manga Shiawase Kanako no Koroshiya Seikatsu Gets TV Anime in Spring 2027
@@ -120,24 +115,19 @@ Fri, 16 Oct 2026 08:13:08 -0700 — https://myanimelist.net/news/74827326?_locat
 
 Production company TOHO animation opened an official website for a television anime adaptation of Toshiya Wakabayashi s Shiawase Kanako no Koroshiya Seikatsu (Happy Kanako s Killer Life) manga on Saturday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series will premiere in April 2027. Cast Kanako Nishino: Hana Tamegai (The iDOLM@STER Cinderella Girls: U149) Sakurai: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Shachou: Junichi Suwab...
 
-### Kizuguchi to Houtai Reveals Main Cast, Teaser Promo
-Fri, 16 Oct 2026 00:28:30 -0700 — https://myanimelist.net/news/74826432?_location=rss
-
-The official website for the television anime adaptation of Nanai Umihoshi s Kizuguchi to Houtai (Wound and Bandage) manga revealed the main cast, a theme visual (pictured), and teaser promotional video on Friday. The anime series will premiere on January 9, 2027 at 11:00 p.m. on AT-X, followed by ABC TV and TV Asahi on the ANiMAZiNG programming block. Voice actors Hisako Kanemoto (Jaku-Chara Tomozaki-kun) and Chikahiro Kobayashi (Beastars) are starring as Riyo Washizu and Gou Kiritani, res...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Otaku x Gal Volume 3 Review
+Sun, 18 Oct 2026 09:00:35 +0000 — https://animeuknews.net/2026/10/otaku-x-gal-volume-3-review/
+
+Otakura is becoming quite popular with his classmates, which leaves Narumi feeling jealous, despite how much time they've been spending together. Will she finally figure out that she has feelings for him?
+
 ### Ping Pong Review
 Sat, 17 Oct 2026 09:00:03 +0000 — https://animeuknews.net/2026/10/ping-pong-review/
 
 Best friends and rivals, Peco and Smile compete to be the best at table tennis. But their approaches to the game couldn't be more different...
-
-### The Record of Fantastical Nomenclature Volume 1 Review
-Fri, 16 Oct 2026 09:00:46 +0000 — https://animeuknews.net/2026/10/the-record-of-fantastical-nomenclature-volume-1-review/
-
-An artist with the ability to see invisible creatures and a self-proclaimed alien author combine their talents to research the Obscura in this new supernatural series.
 

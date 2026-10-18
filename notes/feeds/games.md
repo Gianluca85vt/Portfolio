@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-17T18:49:43.480Z
+# Games — harvested 2026-10-18T09:04:33.281Z
 
 ## Eurogamer
+
+### In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons
+Sun, 18 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug
+
+"Let me be honest from the start: nobody was waiting for this. The world has many needs, and a Game Boy cartridge with no game inside it was not high on the list." So begins Dr Marcel Pflug's explanation for one of the most unexpected projects I've come across in a while: a Game Boy reference museum that isn't just a Game Boy reference museum; it's one that works on a Game Boy cartridge . Read more
 
 ### Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake
 Sat, 17 Oct 2026 18:28:40 +0000 — https://www.eurogamer.net/vampire-the-masquerade-bloodlines-remaster-rumour
@@ -57,11 +62,6 @@ Fri, 16 Oct 2026 13:41:05 +0000 — https://www.eurogamer.net/wardogs-driver-xp-
 
 The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more
 
-### CD Projekt Red says its mysterious Hadar game is its "biggest project to date", but even after "several good years" it's seemingly a long way off
-Fri, 16 Oct 2026 11:09:05 +0000 — https://www.eurogamer.net/cd-projekt-red-project-hadar-sirius-witcher
-
-CD Projekt Red has described its mysterious new game, which is currently known by its codename Hadar, as its "biggest project to date", revealing it's taken "several good years" to reach its current state, and it's still not even in pre-production. Read more
-
 ## GamesIndustry.biz
 
 ### A hardware market freeze could transform the industry forever | Opinion
@@ -94,16 +94,31 @@ Fri, 16 Oct 2026 09:27:33 +0000 — https://www.gamesindustry.biz/fishlabs-annou
 
 German developer Fishlabs has announced workforce reductions impacting its development and support teams. Read more
 
-### Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it "falls short of both your expectations and our own standards"
-Fri, 16 Oct 2026 08:22:20 +0000 — https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards
-
-Sega and Creative Assembly have temporarily withdrawn Total War: Shogun 2 &ndash; Complete Edition from sale in response to concerns about AI upscaling and other performance issues. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### I Don t Think We re Seeing It Here : GTA 6 Launch Trailer Not Using PS5 s New QSSR Upscaler
+Sun, 18 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler
+
+"That's quite extravagant". Sony introduced QSSR earlier this month , bringing a version of the PS5 Pro’s acclaimed PSSR upscaler to base PS5 hardware. While the technology is currently only incorporated into first-party titles Marvel’s Wolverine and Ghost of Yotei , it will be made available to third-party devs as well, with many speculating its introduction may have been timed specifically to coincide with GTA 6 . Read the full article on pushsquare.com
+
+### PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring
+Sat, 17 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring
+
+And it could get worse yet. In an impossible economy, upended by AI’s stranglehold on computing components, all hopes of the PS6 launching at a palatable price point appear to be dwindling by the day. It’s been interesting following the commentary of KeplerL2 on NeoGAF , a renowned hardware leaker who purportedly has insight into Sony’s next-gen plans. Read the full article on pushsquare.com
+
+### Guide: These 35+ PS5 and PS Plus Games Are Coming Out Next Week (19th-25th October)
+Sat, 17 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-next-week-19th-25th-october
+
+Call of Duty: Modern Warfare 4! Final Fantasy Resonance! BeamNG.drive! Between all the new releases and PS Plus update, PS5 owners have an eye-watering 35+ new games to look forward to next week. This includes some real major titles like Call of Duty: Modern Warfare 4 , although you can already play its campaign in Early Access if you’re so inclined. Read the full article on pushsquare.com
+
+### Feature: Going Platinum: Stray Is Probably the Only Game I ve Speedran for a Trophy
+Sat, 17 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/features/going-platinum-stray-is-probably-the-only-game-ive-speedran-for-a-trophy
+
+Speed of the puma. Platinum Trophy #39: Stray Date Earned: 23rd July 2022 Read the full article on pushsquare.com
 
 ### Poll: Are You Hyped for October s 9 New PS Plus Games?
 Sat, 17 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-hyped-for-octobers-9-new-ps-plus-games
@@ -145,26 +160,6 @@ Fri, 16 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-
 
 "I’m most definitely playing on a PS5". Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time. The manufacturer has paid handsomely to have its console closely associated with Rockstar’s upcoming open world game, and the launch trailer is packed with PlayStation iconography, including a short statement which says the game ‘ Plays Best on PS5 ’. Read the full article on pushsquare.com
 
-### Game First, Then Movie : Ed Boon Responds to Street Fighter vs Mortal Kombat Crossover Pitch
-Fri, 16 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/game-first-then-movie-ed-boon-responds-to-street-fighter-vs-mortal-kombat-crossover-pitch
-
-Street Fighter movie cast think it would be "sick". For millions of fighting game fans around the world, Street Fighter vs Mortal Kombat has been the dream match-up since the 90s. And actor Noah Centineo, who plays Ken in Paramount’s latest live action Street Fighter movie, says he’d love to see some kind of crossover on the big screen. Read the full article on pushsquare.com
-
-### Video: I Built the PS1 LEGO Set, and Nearly Lost My Mind
-Fri, 16 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/features/video-i-built-the-ps1-lego-set-and-nearly-lost-my-mind
-
-Bricking it. PlayStation recently sent me the PS1 LEGO set, which is made up of a whopping 1,911 pieces. I’ve never actually built a large LEGO set before; in fact, the last time I dabbled in LEGO was probably making some rubbish house in primary school, 20-something years ago. This LEGO set faithfully recreates the 1994 console, with a full analogue stick-less controller and a working lid that reveals two sliding dioramas of Ape Escape and Gran Turismo . Read the full article on pushsquare.com
-
-### Stuntman: Hollywood Looks Like a Blast in New Knight Rider Gameplay Trailer
-Fri, 16 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/news/2026/10/stuntman-hollywood-looks-like-a-blast-in-new-knight-rider-gameplay-trailer
-
-The whole KITT and caboodle. I'm living for the return of racing and driving games that are going against the grain, and next year's Stuntman: Hollywood is absolutely part of that conversation. It's looking really fun in this new gameplay trailer. It's focused on showcasing the sort of stunts you'll be pulling off in its Knight Rider -themed stages, letting you get behind the wheel of KITT: Read the full article on pushsquare.com
-
-### GTA 6 Cars Appear in Real Life as Part of Insane Miami Marketing Push
-Fri, 16 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/news/2026/10/gta-6-cars-appear-in-real-life-as-part-of-insane-miami-marketing-push
-
-Vice City is real now. It was obvious already, but with an outrageous marketing push behind it, GTA 6 is clearly going to be absolutely massive when it arrives next month. The hotly anticipated open world action game is scheduled for 19th November, 2026, and Rockstar Games and parent company Take-Two are going all-out with a marketing campaign that's overtaking Miami, Florida, gradually turning it into a real-life Vice City. Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
@@ -196,64 +191,69 @@ Fri, 16 Oct 2026 09:35:08 +0000 — https://www.videogameschronicle.com/news/foo
 
 The title known as 'Assassin's Creed Destiny' was allegedly cancelled by Ubisoft… Source
 
-### COD Modern Warfare 4 will close this chapter and launch a new one for the series, Activision says
-Fri, 16 Oct 2026 08:53:47 +0000 — https://www.videogameschronicle.com/news/cod-modern-warfare-4-will-close-this-chapter-and-launch-a-new-one-for-the-series-activision-says/
-
-The Call of Duty game may not be a Black Ops or Modern Warfare… Source
-
 ## Polygon
 
-### The Zelda: Ocarina of Time Remake Sounds Meaningfully Better Than the Original
-Sat, 17 Oct 2026 18:00:18 GMT — https://www.polygon.com/switchboard-zelda-ocarina-of-time-previews/
+### The 10 Best Horror Books of All Time According to Goodreads, Ranked
+Sun, 18 Oct 2026 09:00:18 GMT — https://www.polygon.com/10-best-horror-books-ranked-goodreads/
 
-Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+Horror is an extremely broad genre, spanning supernatural tales and stories of mundane but twisted killers. It can be tinged with romance, fused with sci-fi , or focused on mystery. Everyone has their own fears, so choosing the most effective horror novels is a daunting task. We’ve turned to the wisdom of the crowd by consulting Goodreads, whose millions of members have rated the books that keep them up at night, and it turns out they really like Stephen King. Here’s a ranked list of the top 10 books they chose and why you should read them this spooky season.
 
-### The 8 Best Castlevania Games, Ranked
-Sat, 17 Oct 2026 16:01:19 GMT — https://www.polygon.com/best-castlevania-games-ranked/
+### Stephen King and Stanley Kubrick's Near-Perfect Psychological Thriller Is Officially Back on Streaming
+Sun, 18 Oct 2026 08:00:19 GMT — https://www.polygon.com/stephen-king-the-shining-on-hbo-max/
 
-Castlevania is one of the most beloved franchises in video game history, despite a period of 13 years when we didn’t see a new installment until the launch of Castlevania: Belmont’s Curse earlier this week.
+Stephen King is a vocal guy. The Master of Horror has published over 65 novels and novellas, countless short stories, and five nonfiction books since the mid-’70s. The hype that surrounds him is well deserved. King is the kind of writer who appeals to everyone, whether you’re a genre enthusiast or a literary snob. His work has been adapted into TV shows and films, and he’s never afraid to voice his complaints and praise in equal measure. But there’s one adaptational grudge that towers above all.
 
-### D&D’s Arcana Unleashed Officially Fixes One of the Game’s Most Frustrating Problems
-Sat, 17 Oct 2026 16:01:19 GMT — https://www.polygon.com/dnd-arcana-unleashed-evolving-magic-items/
+### 60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie
+Sun, 18 Oct 2026 06:28:18 GMT — https://www.polygon.com/peanuts-best-charlie-brown-quote-ever/
 
-Unfortunately for Kellnor, Azuredge demands that its wielder remain virtuous, so sharing a wielder with an evil sword was non-negotiable.
+Lucy’s quote, “Happiness is a warm puppy,” is another great one that touches on life’s simple joys on a really deep level. But to determine the best quote ever uttered by Charlie Brown, I didn't want accidental brilliance, I wanted something that he understands as much as the audience does. Something where he’s telling you who he is with complete self awareness. I wanted the character's philosophy on life. To me, that’s the difference between a brilliant Charlie Brown quote and brilliant Charles Schulz quote, if that makes sense.
 
-### True Detective Season 5 to feature the best starring duo since Matthew McConaughey and Woody Harrelson
-Sat, 17 Oct 2026 15:48:31 GMT — https://www.polygon.com/true-detective-season-5-casting/
+### Every Major Game Releasing in November That Isn’t GTA 6
+Sun, 18 Oct 2026 04:00:23 GMT — https://www.polygon.com/november-2026-game-releases/
 
-True Detective fans just got some exciting news: two of the main cast members and the setting of the show's fifth season have been revealed. The casting announcements are especially exciting, as it has been confirmed that Nicolas Cage and Antonio Banderas will star as the headlining duo in Season 5.
+For millions of gamers, November is all about one video game: Grand Theft Auto 6 . Rockstar’s much-anticipated open-world crime game is likely to spark a cultural moment that we haven’t seen in games since Animal Crossing: New Horizons in 2020. While that’s exciting, it’s also bound to leave players who don’t care about GTA a little bored considering that so many developers have moved their games out of November entirely to avoid getting lost in the storm.
 
-### US Representative Introduces Plan To Preserve Digital Game Ownership
-Sat, 17 Oct 2026 15:30:47 GMT — https://www.polygon.com/power-to-the-players-act-ritchie-torres/
+### 42 Years Later, the Definitive Sci-Fi Action Thriller is Free to Watch on YouTube
+Sun, 18 Oct 2026 03:00:19 GMT — https://www.polygon.com/the-terminator-1984-free-on-youtube/
 
-United States Representative Ritchie Torres will introduce the Power To The Players Act . This legislation is being made to support consumers' rights in a way that grants gamers ownership of their digital games. If successful, the Federal Trade Commission could then establish regulations to prevent companies from delisting games, shutting down servers early in a game's life, and easily revoking digital licenses.
+Terminator 2: Judgment Day is the rare sequel where just about everybody likes it better than the original. That’s for good reason. The 1991 sci-fi action thriller redefined the blockbuster with a relentlessly exciting story, mind-blowing special effects, and the superstar presence of Arnold Schwarzenegger. The movie is so good it often outshines its predecessor, which also redefined the action thriller in the 1980s and is still exhilarating to watch for an entirely different reason than its sequel.
 
-### 22 Years Ago, One Perfect Twist Changed TV's Greatest Sci-Fi Series Forever
-Sat, 17 Oct 2026 15:00:19 GMT — https://www.polygon.com/lost-walkabout-locke-twist-22-anniversary/
+### GTA: San Andreas’ Bigfoot myth is a classic urban legend
+Sun, 18 Oct 2026 01:00:18 GMT — https://www.polygon.com/gta-san-andreas-bigfoot-myth/
 
-At the time, Lindelof was discussing his new series, Lost — which just four episodes in, had pulled off a mind-blowing twist arguably on the same level as The Sixth Sense . For its first few episodes, Lost seems like an ambitious survival drama with a dash of horror. Oceanic Flight 815 crashes on a seemingly deserted tropical island. Its survivors contend with dwindling supplies, a rampaging monster, an inexplicable polar bear, and the unfortunate realization that rescuers are probably searching a thousand miles away from where they actually crashed.
+There is a Bigfoot in Grand Theft Auto: San Andreas — at least, that's what I and many others believed. Some time after the game had been released, the rumour about the new Rockstar game featuring the legendary creature spread across the internet. I remember learning about this "secret monster" from an older guy. Then I told some boys from my classroom the cool rumor I had heard about in that game our parents didn't want us to play. Word of mouth and low-resolution images shared through dial-up internet connections made GTA: San Andreas an exciting mystery.
 
-### Star Wars Zero Company Finally Makes Starting A New Campaign Worth It
-Sat, 17 Oct 2026 14:54:09 GMT — https://www.polygon.com/star-wars-zero-company-second-patch-reaction/
+### Game of Thrones Prequel The Mad King Officially Returns in 2027
+Sun, 18 Oct 2026 00:44:23 GMT — https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/
 
-I've been waiting for a reason to start a new playthrough of Star Wars Zero Company ever since I beat the game in early September. EA and Bit Reactor have finally given me a reason to come back to the game, as Patch 1.2 added a lot of new gameplay settings that will allow me to tweak my next playthrough's difficulty to my liking.
+The Mad King lives. The Royal Shakespeare Company's sold-out stage production of Game of Thrones: The Mad King closed in Stratford-upon-Avon in September, but it's not the end for the spinoff of George R.R. Martin's prequel to Game of Thrones .
 
-### Analogue Brings Back Its Perfect SNES And Sega Genesis Replacements
-Sat, 17 Oct 2026 14:34:21 GMT — https://www.polygon.com/analogue-super-nt-mega-sg-return/
+### 44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Back on Streaming
+Sun, 18 Oct 2026 00:00:18 GMT — https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-on-hbo-max/
 
-As original hardware ages, playing retro games becomes less practical for many reasons. Analogue strives to keep retro games alive by providing modern hardware capable of running games that are decades old. It did so with the launch of the Super Nt and Mega Sg in 2017 and 2019, respectively. If you missed out on these systems back then, you now have another chance to acquire them with the release of their upgraded versions: the Super Nt+ and the Mega Sg+.
+Poltergeist , which is currently available to stream on HBO Max, follows an ordinary suburban family who begin to experience strange things in their home. Furniture and toys move on their own, a glass of milk shatters out of nowhere, and the youngest child in the family, five-year-old Carol Anne (Heather O'Rourke), begins to communicate with beings through the television. At first these events are dismissed, but during a thunderstorm one night, a tree outside the windows of the kids’ room crashes in and snatches the boy. Then, a portal opens in their closet, sucking Carol Anne into another dimension. With help from some paranormal investigators, the family tries everything to bring her back.
 
-### 2026 Has Been a Surprisingly Excellent Year for Shooters
-Sat, 17 Oct 2026 14:30:19 GMT — https://www.polygon.com/2026-year-in-shooters/
+### 8 Most Disappointing Switch Games, Ranked
+Sat, 17 Oct 2026 23:00:18 GMT — https://www.polygon.com/most-disappointing-switch-games-ranked/
 
-All the way back in January, it seemed like 2026 might be a rough year for fans of shooters. Highguard ’s launch and almost immediate delaunch created an anxiety around the genre that was hard to shake. Scrutiny around Marathon in the lead-up to its launch doubled that uncertainty, leaving some to wonder if the shooter genre — at least in its trusty live-service form — was going out of fashion.
+They say that happiness equals reality minus expectations, and, unfortunately for these eight Switch games, reality landed nowhere near what was expected. It’s hard to blame the critical and community reception for some of them, but not all of them are bad. Some just aren’t what people were hoping they would be. So we’ve ranked them by the size of the gap between promise and result, from the mild letdowns to the ones that stung most or didn’t justify for the cost. Consider this your reminder to check your expectations at the door.
 
-### Whalefall Isn't Really About a Whale, Says Josh Brolin
-Sat, 17 Oct 2026 14:00:18 GMT — https://www.polygon.com/whalefall-interview-josh-brolin-austin-abrams-brian-duffield-daniel-krause/
+### Pokémon Go Minior Shower schedule
+Sat, 17 Oct 2026 21:01:18 GMT — https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/
 
-While at New York Comic Con 2026, a week before the film’s release, Polygon caught up with stars Josh Brolin and Austin Abrams, as well as Kraus and Duffield, to talk about the biggest challenges of bringing this book to the big screen, as well as what the movie is really about.
+The meteor Pokémon, Minior , is making its Pokémon Go debut with its many colorful cores, but it'll only be available during real-life meteor showers. You'll want to keep your eyes peeled for these little critters during these rare moments throughout the year, and keep an extra watchful eye in the evening, as these will appear more frequently. To assist with this, we've put together a Minior schedule, so you know exactly when to look out for these.
 
 ## PC Gamer
+
+### Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up
+Sat, 17 Oct 2026 21:52:34 +0000 — https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/
+
+This one is thin , man, but it has to do with one of my favorite games of all time , while the circumstances of the rumor are just kind of neat and weird, even if it turns out to be nothing. User Few_Interview8222 on the Vampire: The Masquerade - Bloodlines subreddit reported back from a Genitorturers show in Brooklyn, New York. Partway through the set, the band supposedly told the crowd that a VtMB remake is happening. I haven't found any corroborating accounts of Few_Interview8222's story, but Genitorturers undeniably played at Brooklyn's The Meadows as part of their "Live + Lewd Tour" on October 15, which puts them in the right place at the right time. We've reached out to both rights-holder Activision (one of several, it's complicated) and Genitorturers' representation, and will update this story if we hear back. Why would an industrial metal band started in Orlando in 1986 have this information? In addition to a killer score by Rik Schaffer , Bloodlines featured wonderfully era-appropriate licensed tracks from metal bands⁠—they were mostly used as diegetic music in the nightclubs and bars of Los Angeles. The Genitorturers track Lecher Bitch was the pitch-perfect theme of The Last Round, a downtown LA dive bar frequented by the Anarch faction of vampires. What if they're wrong? Multiple commenters on the Reddit thread point out that this could have been a confused, untimely, misinterpreted, or all of the above reference to last year's Vampire: The Masquerade - Bloodlines 
+
+### Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo
+Sat, 17 Oct 2026 19:30:53 +0000 — https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/
+
+At a glance: Qualcomm gets $2 from Arm in the Delaware jury's decision, part of a yearslong licensing dispute between the two. Yahoo Finance puts their market caps at $210 billion and $243 billion respectively. Qualcomm alleges bad faith action by Arm over tech licensed by the former company from the latter. Qualcomm won $1 on its allegations of Arm withholding contractually obligated support on the licensed tech, and $1 on allegations Arm interfered with a deal between Qualcomm and Meta. Still undecided: Does Qualcomm get a 5-year pause on licensing payments to Arm, which could total in the billions of dollars? Reuters reported on the mystifying reward, which makes much more sense in the context of a broader legal battle between Qualcomm and Arm. The two companies are each behind some of the most widely-used processors in the world: Qualcomm's Snapdragon CPUs can be found in most non-Apple smartphones. Arm's titular architecture, meanwhile, is the basis of the Snapdragon CPU, and there are rumblings the future of desktop computing belongs to Arm and not the x86 architecture we've defaulted to for so long. The Delaware jury found that Arm breached a licensing agreement with Qualcomm, failing to provide patches and support for designs Qualcomm had licensed. The jury also ruled in favor of Qualcomm's allegation that Arm strategically leaked information to Bloomberg News that delayed a deal between Qualcomm and Meta in 2024. The jury sided with Arm over Qualcomm on five other co
 
 ### 'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm
 Sat, 17 Oct 2026 18:34:02 +0000 — https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/
@@ -265,15 +265,15 @@ Sat, 17 Oct 2026 18:00:00 +0000 — https://www.pcgamer.com/games/strategy/to-he
 
 I heard it on the wireless: election fever is sweeping America. The world's loudest democracy is headed to the ballot box to vote in its next slate of soda jerks and Chevrolets and whatever else it is they have over there. It's all very exciting. Can I help? Yes. I've already solved my own country's politics , now it's time to help the benighted and backward people of places like "Connecticut" and "the Oklahoma Panhandle"—fantasy names from a land beyond knowing. People love it when foreigners tell them how to do their own domestic politics, and especially when they have as robust a methodology as I have: a copy of Crusader Kings 3 and most of the DLC. Using Paradox's premier 1066 simulator, I will ascertain the best way to remove a burrowed-in leader from power. Which real-life figure is this a videogame analogue for? Don't worry about it, don't email me about it, and don't launch a cruise missile at my house. Don't email me about how the midterms don't choose the president either. I don't know what those words mean. King of New York I first had to create an accurate, 11th-century simulacrum of an American president. None of CK3's historical rulers quite fit the bill, so I decided to create a ruler from scratch. I created an 80-year-old lecher named Wenzel and put him in charge of the Holy Roman Empire. His defining trait was 'lunatic'. (Image credit: Paradox) So that was sorted. Next, I needed a position from which to actually act in the world. I needed to be someone who co
 
-### Discussion time: Do you think zone chats in MMOs are forces for good, or evil?
-Sat, 17 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/
-
-Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. Ah, zone chats in MMOs—trade and general chats, /shouts and /yells. Intended as a way to render the social glue that binds these videogames together, they are often instead a tableau for (and I say this somewhat affectionately) absolute lunacy, pock-marked with some of the most vile verbiage you'll see online. Take, for instance, the time-honoured tradition of "Barrens Chat" in World of Warcraft. Combine a big zone that spans around 10-15 levels along with proximity to a major city, and you get a certain kind of verbal hooliganry that, in my journeys through WoW: Forever, I was actually pretty nostalgic for. I mean, sure, the Chuck Norris jokes have gotten a smidge old. But while collecting Zhevra Hoofs, I would find myself possessed to ask Barrens Chat philosophical questions, and while I never received much in the way of wisdom, responses were always entertaining. I'm not so fond of trade chat, though, which—at least on the horde side of things—has mostly been dominated by a bot by the name of Margrave Tyrael . Who, I kid you not, was literally sitting there for days spitting out the same automated messages, questioning why Blizzard was 
-
 ### Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year
 Sat, 17 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/gaming-industry/surprising-no-one-wizards-of-the-coast-doesnt-intend-to-voluntarily-recognize-union-efforts-for-the-second-time-this-year/
 
 Per the United Wizards of the Coast Union (UWOTC-CWA) account on X, WoTC is acting in an entirely unsurprising manner: "Yesterday, Wizards informed us that it doesn’t intend to voluntarily recognize the D&D or Studio X units of our union ahead of a vote. We remain committed to creating a workplace focused on wellness, transparency, and collaboration by winning our coming election." A union composed of employees from the Magic: The Gathering Arena team unionised back in June of this year , giving WoTC until May to formally recognise it. Obviously, it didn't. Later in the same month, WoTC sent physical letters to members of the company encouraging them not to go through with it on the vote—and while WoTC did technically adhere to the The National Labor Relations Act, it did also not-so-subtly imply that its current benefits would be "on the bargaining table for both parties to negotiate". These letters were also allegedly accompanied by daily emails to employees. Basically, it should not come as a surprise that Wizards isn't intending to recognize the full United Wizards of the Coast Union—a coalition now formed of members in both the D&D team and Studio X (Magic: The Gathering's creative staff)—either. In a statement sent to Wargamer , and circulated to employees before that, WoTC stated it was not a fan in the ways it is legally allowed to do so. That being, lots of circular talk about how everyone has the right to unionise: "We are best able to keep building great games and 
+
+### Discussion time: Do you think zone chats in MMOs are forces for good, or evil?
+Sat, 17 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/discussion-time-do-you-think-zone-chats-in-mmos-are-forces-for-good-or-evil/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. Ah, zone chats in MMOs—trade and general chats, /shouts and /yells. Intended as a way to render the social glue that binds these videogames together, they are often instead a tableau for (and I say this somewhat affectionately) absolute lunacy, pock-marked with some of the most vile verbiage you'll see online. Take, for instance, the time-honoured tradition of "Barrens Chat" in World of Warcraft. Combine a big zone that spans around 10-15 levels along with proximity to a major city, and you get a certain kind of verbal hooliganry that, in my journeys through WoW: Forever, I was actually pretty nostalgic for. I mean, sure, the Chuck Norris jokes have gotten a smidge old. But while collecting Zhevra Hoofs, I would find myself possessed to ask Barrens Chat philosophical questions, and while I never received much in the way of wisdom, responses were always entertaining. I'm not so fond of trade chat, though, which—at least on the horde side of things—has mostly been dominated by a bot by the name of Margrave Tyrael . Who, I kid you not, was literally sitting there for days spitting out the same automated messages, questioning why Blizzard was 
 
 ### This game about grinding mute lumps of shapeless flesh has made me realise I've been hornswoggled by capitalism
 Sat, 17 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/horror/this-game-about-grinding-mute-lumps-of-shapeless-flesh-has-made-me-realise-ive-been-hornswoggled-by-capitalism/
@@ -305,16 +305,6 @@ Fri, 16 Oct 2026 23:53:11 +0000 — https://www.pcgamer.com/software/ai/tech-fou
 
 Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders this week after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, which is known for homelessness and open drug use. "San Francisco couldn't fix the Tenderloin," Biojout said in a now-deleted X post on October 13. "So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets." He noted that he'd already made $300 from in-game ads. The game, called Tenderloin Night Shift, had players shoot "zombies" that, according to reports from the SF Chronicle and KRON4 news , included a "folded" fentanyl addict and a Black security guard. Speaking to the Chronicle, Jennifer Friedenbach, executive director of the SF Coalition on Homelessness, said that Biojout was "monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents of the poorest neighborhood in San Francisco." In a correspondence with the paper, Biojout said that he had not intended to "provoke or to depict shooting real people" and that the game also included tech workers as characters. Tenderloin Night Shift appears to have been removed from NanoCorp's website. Although Biojout deleted his X post, the discourse that ensued remains. "You made a game about shooting people in active addiction," said another tech founder. "These are human beings, not zombies. show me the positive side of this - i'm probabl
 
-### The Cyberpunk 2077 movie won't be 'a film adaptation of the game,' CD Projekt chief says
-Fri, 16 Oct 2026 22:02:23 +0000 — https://www.pcgamer.com/movies-tv/the-cyberpunk-2077-movie-wont-be-a-film-adaptation-of-the-game-cd-projekt-chief-says/
-
-We learned last week that a Cyberpunk 2077 movie is in the works , an announcement I used mainly to talk about a completely different cyberpunk movie starring Keanu Reeves as a guy named Johnny who's having a bad week. Now we've got a bit more insight into what CD Projekt Red has in mind for the film, and it's possible that a guy named Johnny may not be involved at all. "Our contract with Anonymous Content expired, and in the meantime, an opportunity arose to establish cooperation with Paramount Pictures," co-CEO Michał Nowakowski told Polish PAP Biznes ( Google translated ), referring to the Cyberpunk 2077 "live action project" that was announced in 2023 and ultimately went nowhere. "We decided that we would conduct a live-action Cyberpunk project in a new formula. "At this point, we can only say that we definitely don't want to make a film adaptation of the game. We want to tell a story in the world of Cyberpunk, but it won't be a one-to-one translation of the game's story." I loved Cyberpunk 2077, and the fact that it featured two Hollywood stars in central roles might make it seem like a natural fit for a direct translation. But I think avoiding that approach is the wiser move: V's story has been told, and trying to replicate it on film only invites unflattering comparisons and criticism. And it's not as though the world of Night City is short of other stories to tell, after all, nor would it be difficult to indirectly tie it to the game through references or cameos, if t
-
-### I haven't wanted to 100% a game in a long time, but…
-Fri, 16 Oct 2026 20:07:29 +0000 — https://www.pcgamer.com/games/sim/i-havent-wanted-to-100-percent-a-game-in-a-long-time-but/
-
-What's it take for a game to snare me? Over the Hill is a co-op (or singleplayer!) offroading adventure that launched on Steam this week , and even just playing a bit of it has made me determined not to just play more but to 100% it. That's a feeling I haven't had about a game in a while. Here's what my brief excursion into Over the Hill has already shown me: A beautiful open world Weather conditions and a day/night cycle Sweet-looking vehicles Challenging driving physics Secrets to find Cosmetics to collect Vehicle upgrades to unlock Wildlife to photograph I'll be honest, it's the last one that really got me to commit to hundred-percenting it. I was driving slowly along up a bumpy trail, stopping occasionally to pull my little Jeep up a hill with my winch, when I suddenly heard the familiar croak of a raven. I zoomed out my view and eventually spotted the bird flapping over the trees nearby. I switched to camera mode and took a picture of it. Nice. (Image credit: Funselektor Labs Inc.) But a moment later I saw the flash of something slinking through the tall grass near my Jeep, and after following it with my camera for about a minute, it finally stepped out into full view. A coyote! I photographed it as well, and decided right then I was going to find and document every single animal in the game. And I'm enjoying driving around in Over the Hill so much, I think I'm gonna do it all: find every point of interest, unlock every vehicle and cosmetic, acquire every upgrade, and tr
-
 ## GameSpot
 
 ### All The Records GTA 6 Will Break, We Think
@@ -325,7 +315,7 @@ After years of development and perhaps more hype than for any game, GTA 6 is set
 ### You Can Play WoW: Forever For Free Next Week (But There s A Catch)
 Fri, 16 Oct 2026 18:45:44 +0000 — https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/
 
-World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want to pay $60 for beta access a chance to see what all the hype is about. Blizzard announced a WoW: Forever stress test will begin October 19 at 2 PM PT/ 5 PM ET, with no WoW subscription or beta access needed to play. The goal is to put the game's servers through their paces ahead of launch. "This is a highly valuable event, since you'll participate in our discovering of issues that would have otherwise happened on launch day," Blizzard said in a post announcing the stress test. https://www.youtube.com/watch?v=dvueCoFTkCk&t To install the test, players will need the Battle.net launcher installed and an account. After selecting WoW: Forever from the list of games, players can select to install the stress test under the "Game Version" drop-down menu. There is, however, a catch. The stress test will only run for a "few hours," according to Blizzard. Exactly how long the test will last is still unclear. Blizzard said the test window "may end earlier or run later as needed." During the time that the stress test is live, the game's closed beta will be offline, but will return following the conclusion of the test. All characters made during the stress test will be deleted once the test is over. It's not much, but for those who wanted to at least dabble in WoW: Forever without having to buy the $60 Skyborne Epic
+Update: Following publication, Blizzard announced the stress test will actually occur on October 21, instead of October 19 as previously announced. This article has been updated. World of Warcraft: Forever's beta will be free for a limited time next week, giving players who want to check out the new version of Blizzard's old-school MMORPG but don't want to pay $60 for beta access a chance to see what all the hype is about. Blizzard announced a WoW: Forever stress test will begin October 21 at 2 PM PT/ 5 PM ET, with no WoW subscription or beta access needed to play. The goal is to put the game's servers through their paces ahead of launch. "This is a highly valuable event, since you'll participate in our discovering of issues that would have otherwise happened on launch day," Blizzard said in a post announcing the stress test. https://www.youtube.com/watch?v=dvueCoFTkCk&t To install the test, players will need the Battle.net launcher installed and an account. After selecting WoW: Forever from the list of games, players can select to install the stress test under the "Game Version" drop-down menu. There is, however, a catch. The stress test will only run for a "few hours," according to Blizzard. Exactly how long the test will last is still unclear. Blizzard said the test window "may end earlier or run later as needed." During the time that the stress test is live, the game's closed beta will be offline, but will return following the conclusion of the test. All characters made d
 
 ### This Espresso Machine Can Run Doom
 Fri, 16 Oct 2026 18:28:36 +0000 — https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/
@@ -379,6 +369,21 @@ Ken Kutaragi, the former PlayStation executive known colloquially as the "Father
 
 ## Rock Paper Shotgun
 
+### Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world
+Sat, 17 Oct 2026 21:50:37 +0000 — https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world
+
+Picture this. You're me, and you boot up the demo for Rain98, an incredibly blue-looking, rainy visual novel set in Tokyo, 1998, about a woman who refers to herself as the Angolmois, a world-ending reference to the predictions of good ole Nostradamus. At one point you have to light this woman's cigarette in a lightly stylish sequence. You get to a bit where you're asked to put your name in, and you put it in because like its predecessors, this is surely a self-insert kind of situation. Only you get a Steam achievement for getting a game over for putting your name in. Rude! But curious, so you, and of course I mean I, pressed on. Read more
+
+### Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original
+Sat, 17 Oct 2026 20:29:12 +0000 — https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original
+
+Peter Molyneux feels like a man who can never die. He's just sort of always been there, and seems like he always will be, making some kind of game where you can hypothetically do what you want, never quite living up to expectations. But hey, he's Peter Molyneux, what else would you expect? The complicated icon is still ticking away at his latest, Masters of Albion , but in a recent interview, he spoke of one of his old classics, Black & White , and the idea of a third entry in the series (and the fact that there might be something newish on the way). Read more
+
+### RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo
+Sat, 17 Oct 2026 19:07:41 +0000 — https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo
+
+With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself. Trailblazers: Into The March is one such game, having introduced itself to us earlier this year, a mishmash of the aforementioned colony sim, Nausicaa, Moebius , Andrei Tarkovski, Jeff Vandermeer, and FTL: Faster Than Light by Edwin's measure. And now you don't just have to look at its trailers, because there's a demo for you to have a go at. Read more
+
 ### As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games
 Sat, 17 Oct 2026 17:04:18 +0000 — https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games
 
@@ -423,19 +428,4 @@ Psychic Software have announced The Lich Wars, a standalone prequel for their wi
 Fri, 16 Oct 2026 15:15:40 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move
 
 Since the existence of plans for a Cyberpunk 2077 live-action adaptation from devs CD Projekt Red and Paramount Pictures was revealed last week, I've been hoping it won't take the form of porting V's tale from the game to the big screen. Such a thing wouldn't necessarily be terrible, but I like my game adaptations a bit more on the original story side of things, as Cyberpunk tie-in anime series Edgerunners has been. The good news is that one of CD Projekt Red's big bosses has now confirmed that this adaptation won't be beat-for-beat retelling of 'Honey, there's a Keanu in my brain'. Read more
-
-### Penguin Colony review - the least expected Soulslike you'll play, and a cracking parody of Lovecraftian empires
-Fri, 16 Oct 2026 15:15:00 +0000 — https://www.rockpapershotgun.com/penguin-colony-review-the-least-expected-soulslike-youll-play-and-a-cracking-parody-of-lovecraftian-empires
-
-Penguin Colony is probably the best pisstake of Lovecraft and Lovecraftian horror I've played. It's the best because it places Lovecraft's universe at a creaturely remove, amplifying its absurdity without having to drop any punchlines. Entering a ravaged polar campsite, I advance among burning tents and uniformed corpses to a pioneer seated on a crate, who is busily sawing his own face off. Ice and snow shrill overhead and Lenval Brown's narration rumbles in my bones, speaking of eldritch relics and unquenchable ambitions, of "queer creatures" and inexplicable deaths, of madness and glory, of "scientific explanations" and empires from other dimensions. I consider all this, and say: Fnaaarp. Read more
-
-### The pleasures of Double Fine's Thank You Bus Driver are not in the destination, nor the journey, but in slapping my disobedient passengers
-Fri, 16 Oct 2026 14:38:59 +0000 — https://www.rockpapershotgun.com/the-pleasures-of-double-fines-thank-you-bus-driver-are-not-in-the-destination-nor-the-journey-but-in-slapping-my-disobedient-passengers
-
-Showing some gratitude is the least these scribbly wretches can do. The passengers in Thank You Bus Driver &ndash; Double Fine&rsquo;s new comedy public transport sim &ndash; are almost invariably rowdy, entitled hypocrites, happy to sully my single-decker by picking their toes and bellowing down their phones, while only ever being seconds away from a strop if another traveller does the same. Still, here I am, locked in symbiotic misery with them, desperate to choke down the scraps of acknowledgement they&rsquo;ll spare for arriving at their stop in good time. I hate them. Please love me. Read more
-
-### Ubisoft were working on a second Assassin's Creed game set in Qin Dynasty China, if this allegedly leaked footage is to be believed
-Fri, 16 Oct 2026 12:02:35 +0000 — https://www.rockpapershotgun.com/ubisoft-were-working-on-a-second-assassins-creed-game-set-in-qin-dynasty-china-if-this-allegedly-leaked-footage-is-to-be-believed
-
-Footage alleged to show a prototype of a cancelled Assassin&rsquo;s Creed game in action has popped up online. The game, it's claimed, was set in ancient China, went by the working title Assassin&rsquo;s Creed Destiny, and was a separate project to Chinese-set mobile game Assassin&rsquo;s Creed Jade. Instead, from the sounds of it Destiny would have been a game aimed at PC and consoles. Read more
 

@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-17T18:49:43.480Z
+# Tech — harvested 2026-10-18T09:04:33.281Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ Over the past week, the laptop Microsoft sent me has been summarizing books and 
 
 ## The Verge
 
+### TikTok bans Musk documentary account
+2026-10-17T15:32:23-04:00 — https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary
+
+Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Photo by ANGELA WEISS/AFP via Getty Images) | AFP via Getty Images Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter , the film's distributor, Bleecker Street, was informed Friday afternoon that a "permanent suspension" was imminent. Bleecker Street has not yet responded to a request for comment from The Verge . While TikTok has no official affiliation with Elon Musk, part owner Larry Ellison appears in the film via a text message offering to help Musk fund his Twitter purchase. Last month, YouTube, Meta, X, and TikTok all face … Read the full story at The Verge. ]]>
+
 ### Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast
 2026-10-17T13:00:00-04:00 — https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance
 
@@ -109,12 +114,12 @@ Bose has me thinking I’m in my 20s again with its wired earbuds. After Apple c
 
 The HomeView can simplify online recipe formatting into easy-to-follow steps. | Image: Apple When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart display sits in the center of the chaos on the kitchen table, helping the family check their calendars, send messages, and pull up a French toast recipe in seconds, with simple, step-by-step instructions. The HomeView is just the latest in a long line of websites, browser extensions, and smart home gadgets with the same promise: that it can take an online recipe and strip it down to the essenti … Read the full story at The Verge. ]]>
 
-### It’s a dream week for tech docs
-2026-10-17T08:00:00-04:00 — https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer
-
-Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Marc Andreessen and the future of math and Mike Tomlin and Citizens United , reminiscing about the heyday of MySpace , sending this article to everyone as an apology for my bad texting, listening to the Pet Shop Boys' new Alan Turing album and Dwarkesh Patel's thoughts on AI , barely keeping myself from preordering an iPhone Duo , asking a lot of questio … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own
+Sat, 17 Oct 2026 20:30:58 +0000 — https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own
+
+This one will be short and sweet. So remember how there are apparently no more RTX 5090s available most anywhere, even though Nvidia's Senior Vice President just said that the company definitely hasn't stopped making them? If you had been saving up for Nvidia's greatest card, there's still hope for you. Best Buy has an MSI Infinite ZS in stock with an RTX 5090 ensconced within for $7,599 , making for roughly $5,300 for the RTX 5090 and $2,300 for the rest of the PC. Yes, over five grand is definitely a lot to ask for a graphics card, but it's worth ponying up the cash if you want the best gaming card in recent years (and likely future, too). Besides, it's not like these will be in stock anytime soon (if ever), and they were commanding $7,500 or more in stores before they vanished. Infinite ZS Gaming Prebuilt w/ RTX 5090: was $7799 now $7599 The MSI Infinite ZS prebuilt with a Nvidia RTX 5090 and a Ryzen 9950X3D CPU is probably one of the last few chances of getting ahold of the mighty GPU for anything resembling an acceptable price. View Deal The rest of the PC around the humongous card is equally powerful. The Ryzen 9 9950X3D ($670) is probably the best desktop CPU in the current market, offering a high core count of 16 cores and 32 threads, fast clocks with a 5.7 GHz turbo speed, and 128 MB of cache. It'll run games and heavy applications with equal aplomb. That chip sits atop an MSI B840-VC motherboard ($250 est.) with PCIe 5.0 support thanks to its AMD B840 chipset. An MS
 
 ### HyperX Cloud Alpha Air Review: Open-back and budget-friendly
 Sat, 17 Oct 2026 15:40:00 +0000 — https://www.tomshardware.com/peripherals/gaming-headsets/hyperx-cloud-alpha-air-review
@@ -171,12 +176,17 @@ Sat, 17 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/video-games/ret
 
 The decomp.dev community that tracks and centralizes game decompilation progress is shutting down its public index and leaderboard, claiming in a site update that the acceleration of AI has damaged the decompilation community. The creator, who goes by @encounter, points to abuses related to AI usage, such as AI helping forks “finish” others’ projects and a general attitude of rushing to complete PC ports, often with little regard to quality. Simply banning AI-assisted projects is a difficult task, as not all of them have the same standards, and @encounter feels it shouldn’t be the role of one hobbyist to decide what does and doesn’t stay on the leaderboard. The decision was made because AI greatly speeds up decompilation “in a significant way,” especially with human guidance, but misuse of the technology has broken the community aspect. AI has made the progress percentages on decomp.dev easier to push up. As a result, the site’s index and leaderboard are now “causing more harm than good,” as the competitive spirit has been corrupted. The scene has become “a hollow numbers game” where people throw AI usage at things “to make number go up.” (Image credit: Future) The site was created in 2024 “as a way to centralize matching decompilation progress” and to grow a community around it. Each project page shows game progress with its history. The goal of matching decompilation is to have hand-written source code that could compile back to the same machine code as the original game . 
 
-### Modder finishes nine-year Xbox 360 voltage glitch mod with a $4 microcontroller, cracks the console open
-Sat, 17 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/modder-finishes-nine-year-xbox-360-voltage-glitch-mod-with-a-usd4-microcontroller-cracks-the-console-open-tiny-microcontroller-dumps-nand-and-flashes-timing-files-to-bypass-cpu-cryptography
-
-The Xbox 360 has been cracked open multiple times over the years, and almost every time Microsoft's updates plugged whichever hole let hackers through. The first method was modded DVD firmware in 2006, a hypervisor hack followed in 2007, and a wiring hack exposing JTAG debugging ports was revealed in 2009. The longest-lasting physical hack was 2011's CPU force-reset exploit. That maneuver needed specialized hardware along with a voltage-glitching chip, but an enterprising techie showed how it can be performed nowadays with the assistance of a Raspberry Pi Pico, costing all of $4 (or about 5€ / £5). The crack marks the culmination of a nine-year effort by the modder. To get the elephant out of the room, yes, just last week the PeerPressure Xbox 360 persistent soft-mod was released . But we're here to talk signals and wires. The aforementioned reset exploit involves sending a teeny weeny tiny signal directly into the CPU's reset pin. You'd think this would do what it says on the label, but what happens instead is that the CPU executes the current instruction incorrectly . Naturally, someone figured out how to leverage that to run any code on the CPU, thus completely bypassing Microsoft's impressive and frankly rather effective layers of cryptography within the console. Sending said signal for an effective hack, though, requires spectacularly precise timing with a resolution down to nanoseconds, and glitch-chips may even require several attempts to get a successful "latch." Josh
-
 ## Phoronix
+
+### Synchronous Queues For VirtIO-FS Show Huge Performance Potential
+Sat, 17 Oct 2026 20:55:35 -0400 — https://www.phoronix.com/news/Synchronous-VirtIO-FS
+
+VirtIO-FS as the shared file-system for transferring data between guest VMs to/from a host server is showing some promising performance results with pending code for allowing synchronous queues rather than always being asynchronous...
+
+### ReactOS Can Now Be Installed & Used With Its NTFS Driver
+Sat, 17 Oct 2026 18:01:16 -0400 — https://www.phoronix.com/news/ReactOS-NTFS-Driver
+
+The ReactOS open-source operating system has seen its NTFS file-system driver mature to the point that it can be finally used for installing and using ReactOS with it. NTFS formatting support is also finally now possible with this driver too...
 
 ### MeshXFS: AI Adapts XFS Into A Clustered File-System
 Sat, 17 Oct 2026 13:02:40 -0400 — https://www.phoronix.com/news/MeshXFS-XFS-Clustered
@@ -228,17 +238,12 @@ Fri, 16 Oct 2026 14:17:47 -0400 — https://www.phoronix.com/news/Linux-7.3-Best
 
 The Linux 7.3 kernel is slated to be officially released on Sunday, 18 October, barring any last minute issues from coming about. With that said, here's a reminder about some of the most exciting features to look forward to in this next kernel version...
 
-### After 23 Years, Longtime Linux Developer To "Step Back For A While"
-Fri, 16 Oct 2026 11:40:27 -0400 — https://www.phoronix.com/news/Darrick-Wong-Step-Back-23-Years
-
-Longtime Linux kernel engineer Darrick Wong who stepped down as the XFS file-system maintainer in 2023 is now taking a step back from his other Linux kernel development roles after working on the kernel the past 23 years...
-
-### Intel Xeon 6980P Granite Rapids Performance On Linux Over The Past Year
-Fri, 16 Oct 2026 10:24:33 -0400 — https://www.phoronix.com/review/intel-xeon-granite-rapids-ubuntu-2610
-
-It s been nearly one year since receiving the Gigabyte R284-A92-AAL1 2U Granite Rapids server platform for continuing my testing of the flagship Xeon 6980P processors. Curious how the Xeon 6980P 2P performance has evolved on Linux since then, I ran some benchmarks on the newly-released Ubuntu Server 26.10 against the tests carried out last year on Ubuntu 25.10 with the same hardware.
-
 ## The Register
+
+### Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance
+Sun, 18 Oct 2026 10:09:00 +0200 — https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109
+
+The Windows command line is a marvelous thing, beloved by administrators, but not quite so welcome when you're trying to get a parcel out of a locker. Today's example of Windows behaving badly comes from Ireland and one of the nation's OOHPod postal lockers. An eagle-eyed Register reader, trying to retrieve a parcel, found the locker screen instead teasing a command prompt. For the uninitiated, OOHPod is a service where people retrieve and deposit goods in lockers. Scan your ID (or enter it on a touch screen) and the appropriate locker door springs open and the item (or items) can be retrieved. This all works, assuming whatever is running behind the scenes isn't having a bit of a moment, as our reader experienced. Instead of a welcoming display on the locker's screen, our reader found a blank screen and what looked suspiciously like a minimized command-line window. "I tapped to maximize the window," they told us, "and a sudden command prompt appeared immediately afterward." A command prompt? More like an open invitation for mischief for the average Register reader. After all, while ordinary customers might have been flustered, this was surely an opportunity to teach the engineers who allowed it a lesson. Perhaps a cheeky FORMAT, or possibly the creation of a truly cursed batch file? Or something worse? This is surely what the comment section is made for. Unfortunately (or fortunately, depending on your perspective), no pop-up keyboard appeared for our reader to unleash havoc 
 
 ### Cybercrims go beyond stealing data to attack physical building systems
 Sat, 17 Oct 2026 13:30:00 +0200 — https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677
@@ -295,12 +300,57 @@ Fri, 16 Oct 2026 17:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/1
 
 The next 200-megawatt data center permitted in your county probably won't look like the buildings you remember from a decade ago. It will occupy the footprint of two or three football fields and draw more power than most nearby industrial parks combined. It will also likely trigger a town hall meeting before the first pad is poured. That collision between AI-driven demand and physical reality is what NTT Global Data Centers set out to quantify in its new AI Stress Test Report. The report models three growth trajectories through 2030 and stress-tests each against the constraints operators hit, such as land availability, water consumption, specialized labor and more. The middle (baseline) scenario projects annual demand growth of about 23 percent, which pencils out to roughly $3.8 trillion of additional investment in digital infrastructure. Ramp to the accelerated case and the figure climbs to $5.7 trillion. Bruno Berti, CTO at NTT Global Data Centers, notes that he has watched the size envelope stretch beyond recognition. "We used to build ten-megawatt buildings, smaller buildings, to support some of these applications," says Berti. "But now we're building buildings that are hundreds of megawatts, double the size, sizes of two, maybe sometimes three football fields." Why permitting became the choke point Ask most operators what will bottleneck AI infrastructure and you'll hear GPUs, transformers, switchgear. NTT Global Data Centers’ stress test suggests something more mundane:
 
-### Uncle Scam Wants You … to cough up your cash and personal data, FBI warns ahead of midterms
-Fri, 16 Oct 2026 16:30:00 +0200 — https://www.theregister.com/cyber-crime/2026/10/16/uncle-scam-wants-you-to-cough-up-your-cash-and-personal-data-fbi-warns-ahead-of-midterms/5303512
-
-The FBI is once again warning US citizens to be on the lookout for the scams that are so often rife around election season. With November’s midterms fast approaching, the FBI said scammers are known to use the names, imagery, and slogans of high-profile candidates for a range of frauds. These are often related to making donations and selling merchandise, but can also be geared toward stealing personal data for use in follow-on scams. And of course, more recently, fraudsters’ efforts can be all the more convincing given the rise in AI use and deepfake technology, which can also be used to more accurately imitate the likenesses of candidates and other officials. Campaign investment pool schemes are among the four big frauds the FBI wants the public to watch out for over the next few weeks. These involve scammers convincing their marks to pay into a campaign pool, which ostensibly pays out to all of those who donated after the candidate wins. More commonly, these types of pooled investment scams are based on collective investments into stocks and other appreciating assets. The FBI did not provide details about these campaign pools’ investment incentives or how victims are supposedly able to increase their stake by donating to the cause, but did say that no genuine campaign donations appreciate over time. Another common donation-based scam to be wary of is the one that convinces victims to fund a fake political action committee (PAC), one that collects supporters’ cash and promis
-
 ## Engadget
+
+### You don't have to turn off your phone to switch SIM cards (but you probably should)
+Sun, 18 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/
+
+Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.
+
+### What to check if your Nintendo Switch 2 isn't connecting to the TV
+Sun, 18 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/
+
+Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.
+
+### OpenAI is building a humanoid robot, but the body isn't the real challenge
+Sat, 17 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/
+
+OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.
+
+### These Samsung Galaxy tablets are in their last year of software support
+Sat, 17 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/
+
+Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it.
+
+### Why your Wi-Fi speeds can drop in the evening, and what to do about it
+Sat, 17 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/
+
+Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.
+
+### How to keep your smart home running even if the internet goes down
+Sat, 17 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/
+
+Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?
+
+### Why it's important to monitor your PC's background processes
+Sat, 17 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/
+
+What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.
+
+### Don't throw away your old PlayStation — Do this instead
+Sat, 17 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2284423/dont-throw-away-old-playstation-do-this-instead/
+
+Older PlayStations may be past their prime, but there are several ways you can make use of these consoles.
+
+### The Tesla Roadster is far from the first car to use fans for downforce
+Sat, 17 Oct 2026 21:20:21 +0000 — https://www.engadget.com/2289646/tesla-roadster-not-first-car-use-fans-for-downforce/
+
+Here are some of the other, older vehicles that use fans for downforce like the Tesla Roadster does.
+
+### Leaked gameplay purports to show a canceled Assassin's Creed game set in ancient China
+Sat, 17 Oct 2026 19:22:17 +0000 — https://www.engadget.com/2289636/leaked-gameplay-purports-to-show-a-canceled-assassins-creed-game-set-in-ancient-china/
+
+At least there's still Assassin's Creed Jade to look forward to.
 
 ### Android Auto can be used outside of your car: Here's how
 Sat, 17 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2284102/how-android-auto-used-outside-of-car/
@@ -312,59 +362,24 @@ Sat, 17 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2283986/whats-actua
 
 Android phone running out of space? Here's why and what you can do to get rid of old files.
 
-### iPhone Duo shipping estimates have already been pushed back to 2027
-Sat, 17 Oct 2026 18:12:35 +0000 — https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/
-
-Apple called the early demand "nothing short of extraordinary."
-
-### You might be surprised by how much the Slate truck can carry
-Sat, 17 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2289615/slate-truck-how-much-can-carry/
-
-Don't underestimate this compact pickup.
-
-### What does the yellow light on your Alexa device mean and how do you clear it?
-Sat, 17 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2284036/amazon-alexa-device-yellow-light-meaning/
-
-Don't panic if your Amazon Echo is flashing a yellow light. Here's what that color means, how to clear it and how to tweak your Alexa notification settings.
-
-### Anbernic's RG DDS is almost double the price of the original Nintendo 3DS
-Sat, 17 Oct 2026 16:15:11 +0000 — https://www.engadget.com/2289602/anbernics-rg-dds-is-almost-double-the-price-of-the-original-nintendo-3ds/
-
-The premium handheld is expected to start shipping in December.
-
-### This Samsung Galaxy feature can protect you from untrustworthy apps
-Sat, 17 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2284034/samsung-galaxy-feature-protects-from-untrustworth-apps-auto-blocker/
-
-Samsung's Auto Blocker protects your Galaxy phone from security threats, but it does have drawbacks. Here's what it does and when you might want to turn it off.
-
-### Why are some locations blurred out on Google Maps?
-Sat, 17 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2284032/why-some-places-blurry-google-maps/
-
-When using Google Maps, it isn't rare to see blurred locations. Why does this happen? The answer is simple, and it has everything to do with security.
-
-### Common problems with Amazon Alexa and how to fix them
-Sat, 17 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/
-
-Amazon Alexa is a very useful gadget to have at home, but it isn't exempt from having some issues. Fortunately, troubleshooting is easy as pie.
-
-### Should you have both Ethernet and Wi-Fi for your home?
-Sat, 17 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2284029/both-ethernet-and-wifi-for-home/
-
-Ethernet will keep your devices connecting online in record time, while Wi-Fi keeps them untethered. But how well can they both work together?
-
-### How many watts should your Bluetooth speaker have?
-Sat, 17 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2284027/how-many-watts-bluetooth-speaker-need/
-
-If you're confused by Bluetooth speaker wattage, here's what those numbers actually mean. Spoiler: more wattage doesn't necessarily mean a louder speaker.
-
-### Verizon will charge you $10 a month for iPhone Handoff
-Sat, 17 Oct 2026 13:45:16 +0000 — https://www.engadget.com/2289578/verizon-10-a-month-iphone-handoff/
-
-iPhone Handoff, which lets you share the same number on two devices, will cost you $10 a month on Verizon.
-
 ## TechCrunch
 
-### Replit is no longer working with Anthropic, CEO says
+### Meta removes language that raised scraping and AI training concerns
+Sat, 17 Oct 2026 21:31:32 +0000 — https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
+
+A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.
+
+### TikTok permanently bans ‘Musk’ documentary advertising account
+Sat, 17 Oct 2026 20:55:52 +0000 — https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/
+
+A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.
+
+### Anthropic says its workforce has become less junior and is spending more time in meetings
+Sat, 17 Oct 2026 20:21:19 +0000 — https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/
+
+The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.
+
+### Replit makes OpenAI its default over Anthropic, CEO says
 Sat, 17 Oct 2026 18:48:08 +0000 — https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/
 
 Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.
@@ -408,19 +423,4 @@ According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scie
 Fri, 16 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/
 
 Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.
-
-### In You Can See Everything, Elizabeth Holmes meets her equal in comedian Nathan Fielder
-Fri, 16 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/
-
-Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.
-
-### Jev is Vercel s fastest-adopted AI model ever
-Fri, 16 Oct 2026 15:33:49 +0000 — https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/
-
-The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
-
-### Mark Wahlberg on using AI in film the right way and being open to an AI clone carrying on his legacy
-Fri, 16 Oct 2026 14:26:51 +0000 — https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/
-
-Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used "to enhance what you're doing."
 
