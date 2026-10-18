@@ -1,6 +1,11 @@
-# Manga — harvested 2026-10-18T14:09:21.934Z
+# Manga — harvested 2026-10-18T18:56:20.879Z
 
 ## Anime News Network
+
+### Mushoku Tensei: Jobless Reincarnation Volumes 1-3 Light Novel Review
+Sun, 18 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-1-3-light-novel/.242609
+
+This isn’t more lazy isekai power fantasy slop where characters pull up videogame-esque stat screens out of thin air and solve all of their problems by leveling up.
 
 ### Kokamumo's Null-Meta Manga Gets TV Anime in 2027
 Sun, 18 Oct 2026 08:07:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952
@@ -57,16 +62,16 @@ Sat, 17 Oct 2026 05:31:32 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Yume & company invited to "Venus Jamboree" with world's top idols
 
-### Stranger Than Heaven Game Streams Story Trailer for 1st Act 'Kokura'
-Sat, 17 Oct 2026 03:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/stranger-than-heaven-game-streams-story-trailer-for-1st-act-kokura/.242936
-
-Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Witch Hat Atelier Ranks 8th Among Manga on BookWalker for Summer 2026
+Sun, 18 Oct 2026 17:58:39 GMT — https://animecorner.me/witch-hat-atelier-ranks-8th-among-manga-on-bookwalker-for-summer-2026/
+
+Witch Hat Atelier ranked eighth among manga on BookWalker in the United States during&hellip;
 
 ### Love Live! Hasunosora Anime Reveals Key Visual, Additional Voice Cast
 Sun, 18 Oct 2026 13:23:32 GMT — https://animecorner.me/love-live-hasunosora-anime-reveals-key-visual-additional-voice-cast/
@@ -93,22 +98,12 @@ Sat, 17 Oct 2026 00:59:37 GMT — https://animecorner.me/interview-mappa-ceo-man
 
 To celebrate the 15th anniversary of Studio MAPPA, Manabu Otsuka, MAPPA's CEO and president,&hellip;
 
-### Happy Kanako’s Killer Life TV Anime Adaptation Officially Announced for April 2027
-Fri, 16 Oct 2026 15:09:50 GMT — https://animecorner.me/happy-kanakos-killer-life-tv-anime-adaptation-officially-announced-for-april-2027/
-
-Toshiya Wakabayashi’s Happy Kanako’s Killer Life is officially getting a TV anime adaptation in April 2027, as announced by TOHO animation.
-
 ## MyAnimeList News
 
 ### Manga NullMeta Gets TV Anime in 2027
 Sun, 18 Oct 2026 05:21:03 -0700 — https://myanimelist.net/news/74833036?_location=rss
 
 Production company Aniplex opened an official website for a television anime adaptation of Kokamumo s NullMeta manga on Sunday, revealing the main staff, a teaser visual (pictured right), and a celebratory illustration (pictured above) drawn by the author. Animation studio Soigne, known for Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina Fully Blossoms When Drunk) and Mono, is producing the anime, set to premiere in 2027. Staff Director: Kai Ikarashi (Tengoku Daimakyou episode d...
-
-### Manga Shiawase Kanako no Koroshiya Seikatsu Gets TV Anime in Spring 2027
-Fri, 16 Oct 2026 08:13:08 -0700 — https://myanimelist.net/news/74827326?_location=rss
-
-Production company TOHO animation opened an official website for a television anime adaptation of Toshiya Wakabayashi s Shiawase Kanako no Koroshiya Seikatsu (Happy Kanako s Killer Life) manga on Saturday, revealing the main cast, staff, a teaser visual (pictured), and teaser promotional video. The anime series will premiere in April 2027. Cast Kanako Nishino: Hana Tamegai (The iDOLM@STER Cinderella Girls: U149) Sakurai: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Shachou: Junichi Suwab...
 
 ## Otaku USA
 

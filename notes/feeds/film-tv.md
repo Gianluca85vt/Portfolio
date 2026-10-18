@@ -1,110 +1,155 @@
-# Film & TV — harvested 2026-10-18T14:09:21.934Z
+# Film & TV — harvested 2026-10-18T18:56:20.879Z
 
 ## Variety
 
-### NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)
-Sun, 18 Oct 2026 13:15:00 +0000 — https://variety.com/2026/sports/news/nfl-celebrity-guest-cheerleaders-atsuko-okatsuka-la-rams-1236915556/
+### Taylor Swift Fires Up Academy Gala With Four Songs in Her First Band Performance Since the Eras Tour
+Sun, 18 Oct 2026 18:05:24 +0000 — https://variety.com/2026/film/news/taylor-swift-performance-academy-gala-five-songs-1236915817/
 
-It’s just before halftime of the Los Angeles Rams’ Monday Night Football matchup with the Buffalo Bills, and comedian Atsuko Okatsuka is standing in the tunnel, hyping herself up. In less than a minute, the comedian, actress and native Angeleno will strut onto the field at SoFi Stadium to perform with the Rams cheerleaders. Okatsuka [ ]
+Taylor Swift got some of the old gang back together for her first full-band performance since the Eras Tour, delivering a four-song set to a black-tie audience Saturday night at the Academy Museum 6th Annual Gala. Conan O Brien introduced her by saying, “It’s an insane, unprecedented honor to introduce a cherished member of our little [ ]
 
-### Sergei Loznitsa’s ‘Imperium’ Wins Best Film at BFI London Film Festival
-Sun, 18 Oct 2026 13:00:00 +0000 — https://variety.com/2026/film/festivals/sergei-loznitsa-imperium-best-film-london-film-festival-1236915621/
+### Woodstock Film Festival Names Jessica Edwards as Executive Director
+Sun, 18 Oct 2026 18:00:00 +0000 — https://variety.com/2026/film/news/woodstock-film-festival-jessica-edwards-executive-director-1236915828/
 
-Sergei Loznitsa’s “Imperium,” which revisits the Soviet Union of the early 1970s through footage shot by Italian cameramen, has won the best film award at the 70th BFI London Film Festival competition. The prizes were unveiled Sunday as the festival drew to a close. The competition jury was led by filmmaker Sam Pollard, whose credits [ ]
+Jessica Edwards has been named the new executive director of the Woodstock Film Festival, the organization announced Sunday as the 27th annual festival came to a close. Edwards will take over the role from Meira Blaustein, the festival s co-founder. “I have had the pleasure of working with Jessica at the Woodstock Film Festival over the [ ]
 
-### James Austin Johnson s Trump Stops by SNL U.K. for Meeting With Burnham and Zelenskyy: You Don t Have One Guy Who Can Play Trump?
-Sun, 18 Oct 2026 09:23:42 +0000 — https://variety.com/2026/tv/global/snl-uk-james-austin-johnson-trump-surprise-cold-open-1236915603/
+### Aran Murphy on Playing an Angry Young Man in ‘Youth’ and ‘War’ — and His Father Cillian’s Influence
+Sun, 18 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/
 
-Donald Trump made his first appearance on SNL U.K., courtesy of SNL cast member James Austin Johnson. Saturday night s cold open recreated U.K. Prime Minister Andy Burnham (George Fouracres) meeting with Ukraine s President Zelenskyy (Freddie Meredith) to reaffirm Britain s support in their war with Russia. We need America to restore the Starlink internet. Without it, [ ]
+Aran Murphy is having quite a month, as he co-stars on not one, but two HBO shows — “Youth” and “War” — and plays one of the leads of Taika Waititi s dystopian film “Klara and the Sun,” set to be released on Oct. 23. But if you think you ve seen the 19-year-old actor before, it [ ]
 
-### SNL U.K. Weekend Update Takes Jab at Shane Gillis: You Stupid F ing C ’
-Sun, 18 Oct 2026 08:45:26 +0000 — https://variety.com/2026/tv/global/snl-uk-shane-gillis-monologue-weekend-update-1236915579/
+### Charli xcx Brings Out Chappell Roan for ‘Boom Clap’ at Los Angeles Concert
+Sun, 18 Oct 2026 17:53:29 +0000 — https://variety.com/2026/music/news/chappell-roan-charli-xcx-boom-clap-los-angeles-1236915831/
 
-SNL U.K. didn t hold back from criticizing its American counterpart on Saturday night s Weekend Update, roasting Shane Gillis controversial hosting appearance. After cracking jokes about everything from U.S. President Donald Trump s recently fired press secretary to ridiculous claims that King Charles might be Muslim, co-host Ania Magliano turned her attention to Gillis. The comedian caused [ ]
+As anyone who’s seen her in concert knows, Charli xcx is usually laser-focused on her current material and rarely looks back for more than a couple of songs. But she made an exception on Saturday night at the Kia Forum in Los Angeles, when she performed her 2014 breakthrough hit “Boom Clap” (for the first [ ]
 
-### Roger Deakins on Instinct, Experience and Not Knowing What Is a Cinematographer: I Still Can’t Answer That’
-Sun, 18 Oct 2026 08:38:00 +0000 — https://variety.com/2026/artisans/global/roger-deakins-instinct-experience-not-knowing-1236914679/
+### Cindy Crawford, Rande Gerber and Kaia Gerber Remember Presley Gerber as a Sweet, Beautiful Soul : We Love You Forever
+Sun, 18 Oct 2026 17:52:24 +0000 — https://variety.com/2026/digital/news/cindy-crawford-rande-kaia-gerber-remember-presley-gerber-1236870915/
 
-Walking through Turin with his wife and creative partner James Ellis Deakins, Roger Deakins found himself thinking about Giorgio de Chirico. The Italian painter, one of his favorites, had drawn inspiration from the city’s vast squares, long arcades and unusual arrangements of light and shadow. Deakins was noticing the relationship for himself. It’s characteristic of [ ]
+Cindy Crawford, Rande Gerber and Kaia Gerber took to social media on Sunday to remember their son and brother Presley Gerber, who died in September at the age of 27. We are beyond heartbroken to lose our beloved son and brother. We feel so blessed to have had Presley in our lives for 27 years, [ ]
 
-### Ryan Gosling’s Zero-G Stunts on ‘Project Hail Mary’ Broken Down by the Space Epic’s VFX Supervisors
-Sun, 18 Oct 2026 07:28:23 +0000 — https://variety.com/2026/film/global/ryan-gosling-zero-g-stunts-in-project-hail-mary-explained-1236915066/
+### CBS News Correspondent Jan Crawford Apologizes for Post on Abdul El-Sayed That Sparked Social-Media Ire
+Sun, 18 Oct 2026 17:51:35 +0000 — https://variety.com/2026/tv/news/cbs-news-jan-crawford-apologizes-abdul-el-sayed-post-1236915791/
 
-For Oscar-winning VFX supervisor Paul Lambert Lambert, of all the huge challenges presented by Ryan Gosling space epic “Project Hail Mary,” the most daunting was creating convincing zero gravity. “Zero-G was probably my personal biggest concern going into the movie,” he said at View Conference in Turin, Italy, drilling down on its VFX. “We tried [ ]
+CBS News veteran Jan Crawford usually has the delicate task of covering the U.S. Supreme Court and the ways in which its decisions affect American lives and policies. On Sunday, however, Crawford was the one being judged. Crawford, who joined CBS News in 2009, posted a note following a town hall meeting held Saturday night [ ]
 
-### Academy Museum Gala 2026 Red Carpet: Taylor Swift, Inde Navarrette, Kate Hudson and More
-Sun, 18 Oct 2026 01:30:47 +0000 — https://variety.com/gallery/academy-museum-gala-2026-red-carpet-photos/
+### Jaime Pressly Defends ‘Mom’ Co-Stars as ‘Beautifully Flawed’ After Creator Chuck Lorre Revealed His ‘Reluctance to Hire’ Anna Faris
+Sun, 18 Oct 2026 17:23:50 +0000 — https://variety.com/2026/tv/news/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1236915780/
 
-The red carpet at the Academy Museum Gala is now open. Once again, the event is proving to be one of Hollywood’s most glamorous A-list nights of the year. Among those expected to walk the carpet are Taylor Swift, Connor Storrie, Jessica Biel and Justin Timberlake, Kim Kardashian, Jacob Elordi, Kendall Jenner, Eva Longoria, Salma [ ]
+Jaime Pressly has joined former “Mom” co-star Anna Faris in responding to show co-creator Chuck Lorre’s professional criticism. In his recent memoir “Sitcom,” Lorre wrote that he “was, in fact, right” to be hesitant to cast Faris as the lead character, Christy Plunkett. Pressly, who joined the CBS sitcom in its second season as recovering [ ]
 
-### Quentin Tarantino Confirms He s ‘Written a Script’ for His Tenth Film, But Won’t Pursue It Yet Because He Wants to ‘Live a Little’
-Sat, 17 Oct 2026 23:59:24 +0000 — https://variety.com/2026/film/news/quentin-tarantino-confirms-script-for-tenth-film-1236915169/
+### Box Office: La Bola Negra Scores $277,500 From Four Theaters as Netflix Reports Grosses for First Time Ever
+Sun, 18 Oct 2026 17:12:54 +0000 — https://variety.com/2026/film/news/la-bola-negra-box-office-netflix-reports-grosses-1236915765/
 
-Quentin Tarantino has long said he’ll be retiring after his tenth feature film, but fans shouldn’t worry yet. While the “Pulp Fiction” director confirmed he’d finished penning the script for his final project, he won’t be getting much further with it until his newly opened play, “The Popinjay Cavalier,” closes. Tarantino made the statement on [ ]
+In a major shift in the theatrical tides, Netflix has reported box office grosses for the first time ever. The streamer s awards hopeful La Bola Negra scored $277,500 from just four theaters, averaging $69,375 per location. Those ticket sales are notable as the second-highest screen average ever for a non-English language film behind 2019 s Parasite, [ ]
 
-### James McAvoy Says ‘Split’ Is The Only Film That ‘Really Consistently Pays Me’
-Sat, 17 Oct 2026 23:21:55 +0000 — https://variety.com/2026/film/news/james-mcavoy-split-only-film-that-consistently-pays-me-1236915162/
+### Georgina Cates, ‘An Awfully Big Adventure’ and ‘2point4 Children’ Actress, Dies at 51
+Sun, 18 Oct 2026 17:01:39 +0000 — https://variety.com/2026/film/news/georgina-cates-dead-awfully-big-adventure-2point4-children-1236915784/
 
-James McAvoy has starred in films including “Speak No Evil,” “Atonement” and “X-Men: First Class,” but he recently revealed the “only” film he still consistently receives residuals from is M. Night Shyamalan’s 2016 horror “Split.” “You get the odd check for, you know, a couple 100 quid here or sometimes you get checks for, like, [ ]
+Georgina Cates, the British actress who appeared in films including “An Awfully Big Adventure” and the TV series “2point4 Children,” has died. She was 51. Cates’s death was announced by her daughter, Naiia, on Instagram in June, though it had not been reported until now. “My beautiful, free-spirited mom lived a hard life and still [ ]
 
-### Here s Where to Buy New York Knicks Home Opener Tickets at Madison Square Garden Online
-Sat, 17 Oct 2026 23:03:54 +0000 — https://variety.com/2026/shopping/news/new-york-knicks-home-opener-2026-msg-tickets-buy-online-1236874638/
+### Box Office: You Can See Everything Stuns With $15 Million Debut, Street Fighter Leads With $31 Million
+Sun, 18 Oct 2026 15:05:10 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/
 
-With the start of the NBA only a few days away, the hottest ticket in New York City is to the Knicks home opener at Madison Square Garden on Tuesday, Oct. 20. Since winning the NBA Finals against the San Antonio Spurs back in June, the Knicks have become the toast of New York with [ ]
+You Can See Everything accomplished a true box office feat, becoming the rare must-see documentary on the big screen. Director Nathan Fielder and Lance Oppenheim s much-hyped look at Elizabeth Holmes has generated a massive $15 million from just 855 theaters. Those ticket sales were enough for second place behind another newcomer, Paramount s video game adaptation [ ]
 
 ## The Hollywood Reporter
 
-### Imperium, Concrete Land and 9 Temples to Heaven Win BFI London Film Festival Awards
-Sun, 18 Oct 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-lff-2026-awards-winners-imperium-concrete-land-1236734344/
+### Cindy Crawford Breaks Her Silence on Son Presley Gerber’s Death: A Sweet, Beautiful Soul
+Sun, 18 Oct 2026 18:08:13 +0000 — https://www.hollywoodreporter.com/news/general-news/cindy-crawford-tribute-son-presley-gerber-dead-1236734874/
 
-'Aman' was honored in the short film competition, while LFF special mentions went to 'Queer Edward II,' 'MASC' and 'Daughters of the Late Colonel'
+Presley died in September at age 27.
 
-### What Belongs to Others Wins Top Warsaw Film Festival Award
-Sun, 18 Oct 2026 09:10:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-2026-awards-winners-what-belongs-to-others-1236734712/
+### Betty McGuire, Actress on Broadway and ‘Growing Pains,’ Dies at 100
+Sun, 18 Oct 2026 17:20:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856/
 
-Cai Chengjie was named best director for 'Suzhou Quartet,' while 'Agia' was honored with the Competition 1-2 award at the 42nd edition of the Polish festival.
+She worked alongside Ethel Merman, Bea Arthur and Susan Hayward on the stage, was Joanna Kerns’ mom on the ABC sitcom and played a nun in ‘Up in Smoke.’
 
-### South Africa s Oscar Entry Variations on a Theme Was Written With Microsoft Excel
-Sun, 18 Oct 2026 07:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/
+### Inside Tubi’s Plan to Build an R.L. Stine Cinematic Universe
+Sun, 18 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/tubi-r-l-stine-pumpkinhead-2-the-babysitter-strategy-1236730062/
 
-Plus, an Estonian composer also has something to do with the film’s musical vibes, co-writer and co-director Devon Delmar shared with THR at the BFI London Film Festival.
+The children’s horror author, along with filmmaker Jem Garrard and Tubi’s VP of Original Scripted Content Josh Van Houdt on bringing 'Pumpkinhead' and its sequel to the screen, and the streamer's future with 'Afraid of Clowns' and 'The Babysitter.'
 
-### Academy Museum Gala: Taylor Swift, Sabrina Carpenter, Jennifer Hudson, Connor Storrie, More Stars Walk the Carpet
-Sun, 18 Oct 2026 01:59:54 +0000 — https://www.hollywoodreporter.com/gallery/taylor-swift-anna-kendrick-photos-academy-museum-gala-2026-1236734470/
+### You Can See Everything Triumphs With $15M as Street Fighter Wins Weekend
+Sun, 18 Oct 2026 16:04:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312/
 
-Inde Navarrette, Colman Domingo, Teyana Taylor, Anna Kendrick, Rami Malek, Jamie Lee Curtis, Jacob Elordi, Adrien Brody, Mikey Madison, Chase Infiniti, Mark Hamill, Kate Hudson, Sofia Vergara, Seth Rogen, Pamela Anderson, Naomi Ackie, Charlize Theron, Alexa Demie, Mia Goth, Cailee Spaeny, Mckenna Grace, Zoey Deutch and Kristen Wiig were also in attendance at the star-studded event.
+A24's Elizabeth Holmes documentary had audiences pumped, notching 2,000 sellout screenings and becoming the highest-grossing title in two decades for a release under 1,000 theaters.
 
-### Gene Schwam, Hollywood Publicist to Elvis Presley, Judy Garland and Julie Andrews, Dies at 96
-Sat, 17 Oct 2026 23:35:28 +0000 — https://www.hollywoodreporter.com/movies/movie-news/gene-schwam-dead-publicist-elvis-judy-garland-julie-andrews-1236734445/
+### R.J. Mitte s Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé)
+Sun, 18 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-family-interview-death-suicide-prevention-1236734202/
 
-Schwam died Friday in Los Angeles following a brief illness.
+"I’m taking one step at a time," Dyna Mitte said hours after her son's Celebration of Life ceremony. She opened up on his childhood, recent issues and his true legacy. "He was the light of my life."
 
-### Miley Cyrus Returns to the Stage With Emotional and Cathartic Hollywood Bowl Show
-Sat, 17 Oct 2026 23:17:39 +0000 — https://www.hollywoodreporter.com/music/music-news/miley-cyrus-live-hollywood-bowl-2026-night-1-highlights-1236734276/
+### Georgina Cates, ‘An Awfully Big Adventure’ and ‘Clay Pigeons’ Actress, Dies at 51
+Sun, 18 Oct 2026 15:48:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/georgina-cates-dead-awfully-big-adventure-skeet-ulrich-1236734334/
 
-The 33-year-old played her first major concert in four years Friday night for the first of two shows at the iconic L.A. venue.
+The Englishwoman started out on the BBC sitcom ‘2point4 Children’ and also appeared in ‘Illuminata’ and ‘Jackass: Bad Grandpa.’
 
-### The Diplomat U.K. Prime Minister on the Operatic Way He Learned of His Shocking Season 4 Storyline
-Sat, 17 Oct 2026 23:11:46 +0000 — https://www.hollywoodreporter.com/tv/tv-news/the-diplomat-trowbridge-resigns-rory-kinnear-interview-1236734442/
+### Taylor Swift, Charlize Theron, Colman Domingo and Many More Stars Help Academy Museum Gala Raise Over $14M
+Sun, 18 Oct 2026 15:31:15 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-stars-academy-museum-gala-raise-14m-1236734684/
 
-Showrunner Debora Cahn and actor Rory Kinnear break down the realistic reasons for the Netflix series' latest political shakeup, which plays out amid a surreal episode replete with hallucinations, costumes and an aria.
+The A-list event — which has become a major stop on the Oscar campaign trail — took over L.A. on Saturday night, with Swift performing four songs.
 
-### Harry Styles Debuts Unreleased Song at MSG to Honor Liam Payne on Second Death Anniversary
-Sat, 17 Oct 2026 21:07:57 +0000 — https://www.hollywoodreporter.com/music/music-news/harry-styles-unreleased-song-honor-liam-payne-anniversary-1236734395/
+### Tim O’Donnell, Veteran Sitcom Writer, Producer and Director, Dies at 77
+Sun, 18 Oct 2026 15:28:52 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tim-odonnell-dead-growing-pains-clueless-daves-world-1236734794/
 
-The pair were former bandmates of One Direction from 2010 to 2016.
+He worked on ‘Growing Pains,’ ‘Clueless,‘ ‘Dave’s World,’ ‘Uncle Buck,’ ‘Home Free,’ ‘Phil of the Future’ and more.
 
-### Ari Emanuel Pitches Brother Rahm as Centrist Democratic President and Says He Isn t Too Worried About AI: It Doesn t Have Taste
-Sat, 17 Oct 2026 20:44:15 +0000 — https://www.hollywoodreporter.com/business/business-news/ari-emanuel-pitches-brother-rahm-president-ai-has-no-taste-1236734288/
+### Jesse Eisenberg Relives Kieran Culkin Woes Making A Real Pain and Says His Next Project Is a TV Show
+Sun, 18 Oct 2026 14:28:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-kieran-culkin-real-pain-debut-film-london-1236734749/
 
-In a conversation with Tina Brown in London, the super-agent discussed his memoirs, why the UFC was his hardest deal and how live sports can provide "common ground" in a politically divided world.
+Producer Emma Stone had to chaperone Culkin on the plane to Poland because Eisenberg didn't know if he was going to show: "She sent me a video of him going through customs saying, 'We are here.'"
 
-### Carrot Top Breaks Silence After Suicide Attempt and Hospitalization as Comedian Preps Return to Stage
-Sat, 17 Oct 2026 19:41:21 +0000 — https://www.hollywoodreporter.com/news/general-news/carrot-top-suicide-attempt-hospitalization-luxor-residency-1236734402/
+### The Best-Dressed Stars at the Academy Museum Gala, Including Inde Navarrette and Taylor Swift
+Sun, 18 Oct 2026 14:27:52 +0000 — https://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-academy-museum-gala-2026-1236734403/
 
-“I’m truly overwhelmed by the outpouring of love, support, prayers, and well wishes I’ve received over the past couple of weeks," wrote Scott Thompson, who will be back on stage at Luxor Las Vegas Oct. 19.
+Taylor Swift in Dior, Sabrina Carpenter in Giorgio Armani Privé and Colman Domingo in custom Valentino were among the night's wow moments in style.
 
 ## Deadline
+
+### How A24 Spurred A Meme Craze Got The Many To Watch You Can See Everything : Documentary Opens To $15M Milestone
+Sun, 18 Oct 2026 18:50:39 +0000 — https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129/
+
+Less than two months ago, the public didn t even know that a Nathan Fielder co-directed and starring documentary which followed controversial Theranos founder Elizabeth Holmes even existed. And here we are with A24 having cracked the code on Gen Z again with an awesome $15M opening; 2,000-plus sellouts, and lines around the block for the [ ]
+
+### Woodstock Film Festival Names Jessica Edwards Executive Director, Announces 2026 Maverick Award Winners — Full List
+Sun, 18 Oct 2026 18:50:12 +0000 — https://deadline.com/2026/10/woodstock-film-festival-jessica-edwards-executive-director-1237167150/
+
+The 27th Woodstock Film Festival has concluded with the announcement of its Maverick Award winners and a new executive director. On Sunday, the festival named Jessica Edwards as its new executive director, taking over for co-founder Meira Blaustein, as Kelly O’Sullivan and Alex Thompson s Mouse won Best Narrative Feature during Sunday s awards brunch. To call [ ]
+
+### Tom Arnold Denies Chuck Lorre s Claim That He Made Writers Put His Name On Roseanne Scripts: Never
+Sun, 18 Oct 2026 17:44:39 +0000 — https://deadline.com/2026/10/tom-arnold-denies-chuck-lorre-claim-roseanne-scripts-1237167120/
+
+As Chuck Lorre s memoir continues to make the rounds, Tom Arnold is the latest sitcom actor to respond to criticisms of himself in the book. Following Lorre s claim in Sitcom that writers on Roseanne (1988- 97) were told to put Tom s name on the front page [of scripts]—­as if Tom had written them, Arnold emphasized that [ ]
+
+### ‘Dreadline Express’ Game Developer David Konecny Talks Stressful Player Choice The Art Of Building A Psychological Horror
+Sun, 18 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/dreadline-express-video-game-interview-david-konecny-1237166952/
+
+For Czech developer David Konecny, Dreadline Express brings together a lifelong fascination with trains, psychological horror, and stories shaped by difficult choices. His debut game takes players aboard a train at the end of the world, where a distinctive card-based system lets them explore the lives of its varied passengers and see how their stories [ ]
+
+### Street Fighter Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans Global Box Office Update
+Sun, 18 Oct 2026 16:59:27 +0000 — https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/
+
+With the Nathan Fielder and Elizabeth Holmes documentary craze currently a stateside thing, Paramount/Legendary/Capcom s Street Fighter was the ringleader at the worldwide weekend B.O. with a $51.1M global opening. Of that $20.1M came from 65 markets with the lionshare stateside with $31M. Again, this is several kicks up from what Street Fighter did in its [ ]
+
+### Curtain Up: ‘La Bola Negra’ Shines As Netflix Shares Grosses In Historic First Specialty Box Office
+Sun, 18 Oct 2026 16:46:26 +0000 — https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/
+
+UPDATED with Once Upon A Time In Harlem, Musk, more: Netflix s Spanish drama La Bola Negra debuted to $277.5k on four screens – these numbers coming directly from the giant streamer Sunday in its first ever official box office grosses. The TIFF audience award-winner saw $108.3k Friday and $84.6k on Saturday leading into a strong [ ]
+
+### Georgina Cates Dead: BBC Star Clay Pigeons Actress Was 51
+Sun, 18 Oct 2026 16:38:18 +0000 — https://deadline.com/2026/10/georgina-cates-dead-bbc-1237167085/
+
+Georgina Cates, the actress known for her roles in Clay Pigeons (1998) and several BBC projects, has died. She was 51. On Saturday, BBC s 2point4 Children creator Andrew Marshall announced Cates passing, years after her breakout role as Jenny Porter on the sitcom when she was 16 years old. She had reportedly died in May, [ ]
+
+### Monday Night Friction? ESPN NFL Broadcasters Joe Buck Troy Aikman Have Noisy Start To Super Bowl Year
+Sun, 18 Oct 2026 15:43:56 +0000 — https://deadline.com/2026/10/nfl-espn-joe-buck-troy-aikman-monday-night-1237166923/
+
+NFL announcing duo Joe Buck and Troy Aikman, who helped revive Monday Night Football after moving to ESPN in 2022, now find themselves at the center of one of the NFL s dishiest off-field dramas. Money, as usual, is seen as the root cause. Buck last month agreed to a contract renewal with ESPN parent Disney, [ ]
+
+### Street Fighter Socks $31M, You Can See Everything Has 2,000+ Sellouts With $15M Docu Milestone Sunday Update
+Sun, 18 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
+
+SUNDAY AM Writethru after Saturday update: It s a healthy third weekend at the October box office even with a bellyflop in 20th Century Studio s $60M Whalefall in the mix which is only swallowing a $8M opening. Paramount/Legendary/Capcom s Street Fighter is doing what it s supposed to do with a $31M start, largely pulling in an older [ ]
 
 ### London Film Festival: Sergei Loznitsa’s ‘Imperium’ Sompot Chidgasornpongse’s ‘9 Temples To Heaven’ Among Big Winners — Full List
 Sun, 18 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/london-film-festival-award-winners-2026-1237166918/
@@ -121,59 +166,24 @@ Sun, 18 Oct 2026 00:29:09 +0000 — https://deadline.com/2026/10/james-mcavoy-pi
 
 After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about young Picard that was titled Mutiny On the Stargazer, noting that he nearly made the limited series. That [ ]
 
-### Jaime Pressly Defends Mom Co-Stars As Beautifully Flawed After Chuck Lorre Memoir: Incredible Cast Of Women
-Sat, 17 Oct 2026 23:49:14 +0000 — https://deadline.com/2026/10/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1237166522/
-
-After Anna Faris responded to Mom co-creator Chuck Lorre s professional criticisms, Jaime Pressly has chimed in. The actress, who played recovering addict Jill Kendall on the CBS sitcom, defended her co-stars as an incredible cast of women after Lorre wrote in his memoir Sitcom that he was, in fact, right about his reluctance to cast [ ]
-
-### Clive Barker Teases Hellraiser: Revival Video Game Has Reignited Many Ideas For Film Franchise: Planning To Keep My Fingers In That Pie
-Sat, 17 Oct 2026 23:25:29 +0000 — https://deadline.com/2026/10/clive-barker-hellraiser-revival-reignited-ideas-film-franchise-1237166512/
-
-Nearly 40 years after first opening the Lament Configuration on screen, Clive Barker is ready to explore pain and pleasure again in the Hellraiser film franchise. With the recent release of the Saber Interactive s Hellraiser: Revival video game, the writer/director of the original 1987 horror movie, which was based on his own book, teased that [ ]
-
-### Paul McCartney Was Concerned Paul Mescal Is Markedly Shorter Than The Beatles Co-Stars
-Sat, 17 Oct 2026 22:53:21 +0000 — https://deadline.com/2026/10/paul-mccartney-concerned-paul-mescal-markedly-shorter-beatles-1237166503/
-
-As Beatles fans are transported back to Abbey Road for Sam Mendes upcoming biopic, Paul McCartney has some thoughts on the casting. The Beatles alum said he was concerned that Paul Mescal looks markedly shorter compared to his co-stars, and he even reached out to Mendes about it, but doesn t know how the director is [ ]
-
-### Donald Trump Finally Arrives On SNL UK In Job Swap Cold Open With Andy Burnham Volodymyr Zelenskyy
-Sat, 17 Oct 2026 21:23:27 +0000 — https://deadline.com/2026/10/snl-uk-donald-trump-first-time-andy-burnham-zelensky-1237166466/
-
-Donald Trump has spent some time in the UK these past few years but tonight he finally made his debut on Saturday Night Live UK. James Austin Johnson brought his POTUS to Sky’s hit UK version of the NBC show in a job swap cold open alongside Andy Burnham (George Fouracres) and Volodymyr Zelenskyy (Freddie [ ]
-
-### Street Fighter s Orville Peck Tried To Orchestrate Kylie Minogue Cameo: Guys, I Can Text Her
-Sat, 17 Oct 2026 21:06:20 +0000 — https://deadline.com/2026/10/street-fighter-orville-peck-tried-kylie-minogue-cameo-1237166445/
-
-More than 30 years later after she blew away Street Fighter fans as bazooka-toting Cammy, Kylie Minogue nearly returned for a cameo in the latest feature adaptation. The 2x Grammy-winning Australian pop icon s friend and collaborator Orville Peck, who stars as Vega in the newly released Paramount video game movie, revealed that he was trying [ ]
-
-### Dancing With The Stars Suspends Val Chmerkovskiy For TikTok Referencing Will Smith Oscar Moment; Dancer Responds, Instinct Was To Defend My Wife
-Sat, 17 Oct 2026 19:30:02 +0000 — https://deadline.com/2026/10/val-chmerkovskiy-dancing-with-the-stars-suspension-1237166428/
-
-UDPATED with Chmerkovskiy response: Val Chmerkovskiy is being suspended from Dancing with the Stars for a week after he posted a controversial TikTok message that seemed to reference Will Smith s 2022 Oscar slap. In a statement released today, producer BBC Studios said, The well-being of everyone who works on Dancing with the Stars is non-negotiable. [ ]
-
-### Miley Cyrus Tearfully Remembers Dolly Parton At Hollywood Bowl Concert, Performs Jolene
-Sat, 17 Oct 2026 18:26:36 +0000 — https://deadline.com/2026/10/miley-cyrus-dolly-parton-jolene-hollywood-bowl-1237166419/
-
-Miley Cyrus delivered a teary tribute to her godmother Dolly Parton at the Hollywood Bowl last night, sitting on the edge of the stage and lamenting the fact that she d only got to see the country music icon perform just once at that very venue. “I only got to see Dolly Parton live in concert [ ]
-
-### Harry Styles Pays Tribute To Liam Payne With New Song At Madison Square Garden Concert
-Sat, 17 Oct 2026 17:04:25 +0000 — https://deadline.com/2026/10/harry-styles-liam-payne-madison-square-garden-1237166392/
-
-Harry Styles paid tribute last night to his late One Direction bandmate Liam Payne by performing an unreleased acoustic song titled What Is Enough from the stage of Madison Square Garden. The sold-out performance came on the two-year anniversary of Payne s death at 31 from a fall from a balcony at the CasaSur Palermo Hotel [ ]
-
-### Pro Wrestler Benjamin Satterley Cause Of Death Determined
-Sat, 17 Oct 2026 16:08:58 +0000 — https://deadline.com/2026/10/benjamin-satterley-cause-of-death-1237166368/
-
-Champion professional wrestler Benjamin Satterley died last month at 40 of bronchial asthma, Chicago s Cook County Medical Examiner’s Office has determined. The death was classified as natural. The cause of death was first reported by The New York Post and has been confirmed by other media outlets. Satterley, who over the years wrestled for AEW [ ]
-
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
 
+### La Bola Negra Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History
+Sun, 18 Oct 2026 15:02:25 +0000 — https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/
+
+Welcome to the exciting world of box office reporting, Ted Sarandos!
+
+### How Titmouse Animation Gave ‘Street Fighter’ Its Secret Sauce
+Sun, 18 Oct 2026 14:30:39 +0000 — https://www.indiewire.com/features/animation/street-fighter-2026-animation-titmouse-chris-prynoski-1235222676/
+
+Studio co-founder Chris Prynoski told IndieWire about crafting the ‘90s anime-inspired flashback sequences for the video game adaptation.
+
 ### You Can See Everything Opens to a Staggering $15 Million, Securing A24 s Place as Hollywood s Hottest Brand
-Sun, 18 Oct 2026 13:47:28 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-openning-a24-hollywoods-hottest-brand-1235222446/
+Sun, 18 Oct 2026 13:47:28 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446/
 
 Audiences rushed to theaters as Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary arrived shrouded in secrecy.
 
@@ -207,32 +217,37 @@ Fri, 16 Oct 2026 21:43:11 +0000 — https://www.indiewire.com/news/festivals/jul
 
 Joined by Moore, the star of his latest film “The Debut,” filmmaker Jesse Eisenberg revealed to the Middleburg Film Festival audience that every scene used is his leads' "first and second take."
 
-### Fall Festival Movies Sold So Far: Niki Byrne s Chase Infiniti-Starring College Drama The Julia Set Goes to SPC
-Fri, 16 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/news/festivals/fall-festival-movies-sold-so-far-babies-ink-elsinore-1235213179/
-
-Infiniti stars in the TIFF premiere as a math genius whose future is threatened by an overbearing (and academically jealous) new love interest.
-
-### The Costumes of Sense and Sensibility Are a Love Letter to Stealing Your Sister s Clothes
-Fri, 16 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/craft/sense-and-sensibility-costumes-sisters-who-steal-1235222259/
-
-Costume designer Grace Snell tells IndieWire about the modern and timeless influences that shaped the Dashwood family's wardrobe.
-
-### Alex Gibney on How a CGI Avatar Helped Simulate the Elon Musk Interview He Could Never Get
-Fri, 16 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/
-
-The Oscar-winning documentary filmmaker joins IndieWire's "Screen Talk" podcast to discuss his "Musk," who the film had to leave out, and how the production team simulated an interview with the uber-wealthy tech bro.
-
-### Is Meme Casting a Viable Hollywood Marketing Strategy?
-Fri, 16 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/features/commentary/street-fighter-meme-casting-marketing-strategy-1235222185/
-
-Paramount's new "Street Fighter" reboot is generating as much hype for its eclectic cast as its IP. Its box-office success might be a case study in marketing through WTF casting.
-
-### As the Major Fall Film Festivals Wrap, the Oscar Race Goes Regional
-Fri, 16 Oct 2026 15:45:00 +0000 — https://www.indiewire.com/news/festivals/2026-fall-film-fests-regional-middleburg-1235222345/
-
-Regional festivals, like the just-opened Middleburg Film Festival, attract top awards contenders — and the pundits who cover them.
-
 ## The Wrap
+
+### Cindy Crawford Shares Emotional Tribute to Son Presley Gerber: A Sweet, Beautiful Soul
+Sun, 18 Oct 2026 18:21:37 +0000 — https://www.thewrap.com/culture-lifestyle/culture/cindy-crawford-breaks-silence-son-presley-gerber-death/
+
+Cindy Crawford broke her silence on the passing of her son, Presley Gerber, in an emotional Instagram post on Sunday, memorializing the 27-year-old model as a sweet and beautiful soul. We are beyond heartbroken to lose our beloved son and brother, Crawford shared in a family statement. We feel so blessed to have had Presley in our lives for 27 years. He is a sweet, beautiful soul who loved and is loved, now and forever. We are so proud of how he showed up in the world, with kindness and vulnerability. We are grateful for the outpouring of love and support from so many who know and love our family and even strangers who feel our pain. Til we meet again our sweet boy. Read the post in full below: View this post on Instagram A post shared by Cindy Crawford (@cindycrawford) Gerber died at the age of 27 on Sept. 20 while receiving treatment at a rehabilitation facility. Following his death, police officials shared that Gerber’s passing was being investigated as a possible overdose. “On September 20, 2026, at approximately 9:35 a.m., Santa Monica Police Department officers responded to a report of a possible overdose in the 1000 block of Berkeley Street,” the SMPD noted in a statement to media. “Upon arrival, officers located an adult male who was deceased. The Los Angeles County Department of Medical Examiner has identified the individual as Presley Gerber, 27.” Gerber had previously opened up about his mental health and addiction struggles on social media in 2025. In one December
+
+### SNL UK Flames Shane Gillis With an F-Bomb After His Controversial Hosting Gig
+Sun, 18 Oct 2026 17:59:35 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-uk-roasts-shane-gillis/
+
+Saturday Night Live UK poked fun at its sister series in the U.S. on Saturday, flaming last week s host Shane Gillis for the controversial jokes he made about women and for dropping an f-bomb live on air. Fittingly, the British program s Weekend Update co-anchor Ania Magliano threw an f-bomb to the Tires star right back. Last week on ‘SNL,’ comedian Shane Gillis also caused controversy by dropping the f-bomb, she said. Oh Shane, you’re not allowed to say that you stupid f king c t. The line was not censored out of Sky One s live telecast on Saturday because British television follows a 9:00 p.m. watershed rule, meaning adult content and profanity are legally permitted on air after that time. It wasn t the only dig SNL UK took at Gillis. The f-bomb was preceded by a sweet human interest story being flipped on its head by Gillis own jokes about women s sportswear making them look like whores. A ride operator at Munich Oktoberfest was praised for giving out free cycling shorts to female riders, Magliano said. Wearing the gym shorts will protect women from being up-skirted, but it does make them vulnerable to something much worse. At that, she pulled up an image of Gillis opening the Oct. 10 episode of Saturday Night Live with his controversial monologue. Watch the who Weekend Update segment below: ‘SNL’ (UK) takes a jab at Shane Gillis following his controversial ‘SNL’ (US) monologue. pic.twitter.com/7YoZHs5PrA &mdash; Pop Base (@PopBase) October 17, 2026 Gillis come under fire 
+
+### Academy Museum Gala 2026: All the A-List Red Carpet Arrivals, From Taylor Swift to Charlize Theron
+Sun, 18 Oct 2026 16:55:04 +0000 — https://www.thewrap.com/industry-news/awards/academy-museum-gala-2026-photo-gallery-taylor-swift/
+
+The sixth annual Academy Museum Gala brought Hollywood stars together Saturday at the Academy Museum of Motion Pictures in Los Angeles, raising funds for the institution’s exhibitions, screenings and educational programs. This year’s honorees were Charlize Theron, who received the Icon Award; filmmaker and composer John Carpenter, who received the Luminary Award; and Colman Domingo, who received the Vantage Award. The gala was co-chaired by Tom Ford, Robert Rodriguez, Steven Spielberg and Kate Capshaw and presented in partnership with Rolex. Taylor Swift was also on hand to perform during the evening. The red carpet drew a mix of actors, musicians and other entertainment industry figures, including Sabrina Carpenter, Ana de Armas, Jacob Elordi, Colin Farrell, Kendall Jenner, Hailey Bieber, Kim Kardashian, Demi Moore, Andrew Garfield, Mikey Madison and Kate Hudson. The event has become a prominent fixture on Hollywood’s fall calendar, combining a fundraising celebration of cinema with a showcase for designers and stylists ahead of awards season. The Academy Museum Gala supports the museum’s mission to celebrate and preserve cinema through exhibitions, public screenings and educational initiatives. This year’s event continued the annual tradition of recognizing artists whose work has shaped filmmaking while bringing together prominent names from across the entertainment industry. See the best red carpet looks from the 2026 Academy Museum Gala below. (Photo by Frazer Harrison/Wi
+
+### The 3 Best New Movies to Watch on Hulu This Week
+Sun, 18 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-new-movies-to-watch-on-hulu-this-week-october-18-24/
+
+If you re settling in for some streaming this week, there s a decent chance you re looking for something spooky as October breezes by (or swelters on, depending on where you live) toward Halloween. Fortunately, this week s new Hulu releases bring a pair of 2025 horror debuts, so you re covered on that front. And if you re not a horror person at all, you can look ahead and start getting ready for one of the year s biggest releases with the entire Hunger Games franchise now available to watch on Hulu. Check out the best new movies to stream on Hulu this week below. Rachel Zegler as Lucy Gray Baird in The Hunger Games: The Ballad of Songbirds and Snakes. (Photo Credit: Murray Close Lionsgate) The Hunger Games Franchise If you want to get caught up before Sunrise on the Reaping hits theaters, now s the time, and the good news for Hulu subscribers is that all five Hunger Games movies arrived on the platform on Oct. 14. From the original 2012 film to the 2023 Snow-centric prequel, The Ballad of Songbirds and Snakes, the Hunger Games franchise has remained consistently great ok, except for 2014 s Mockingjay Part 1, a casualty of the unfortunate decision to split the final book into two parts when the first half of that book is famously a bleak slog. That aside, these films are a fantastic adaptation of Suzanne Collins generational YA series, each installment finding a new path to examine warfare and propaganda while delivering unforgettable characters and one knockout ensemble cast 
+
+### Street Fighter Leads Box Office With $51 Million Global Opening as Whalefall Gets Beached With $17.5 Million
+Sun, 18 Oct 2026 15:32:17 +0000 — https://www.thewrap.com/creative-content/movies/street-fighter-leads-box-office-51-million/
+
+Paramount/Legendary s Street Fighter has brought in a fair amount of gamers to theaters this weekend, leading the box office with a $31 million domestic/$51 million global opening. That s a middling start for this $82 million co-production between Legendary and Street Fighter publishers Capcom, which has arrived at Paramount as part of a new distribution deal with Legendary. But the big question mark hanging over the video game film is whether it will be able to draw interest outside of its core audience or if it will be frontloaded like fellow fighting game adaptation Mortal Kombat II earlier this year. There are signs that the weeks ahead might be the latter, as the film has a B- on CinemaScore the same as the 1994 Street Fighter film starring Jean Claude Van Damme and Rotten Tomatoes scores of 40% critics and 80% audience. For comparison, MK II had a B and 86% audience RT score. That might not be enough for Street Fighter as it prepares to compete next weekend against Warner Bros./DC s Clayface, which is hoping to bring in both comic book fans and general horror fans. Social media buzz for the film from advance screenings has been strong, raising hopes for DC after the big-budget misfire of Supergirl. But at least Street Fighter is earning a solid opening. The same can t be said for 20th Century Studios survival thriller Whalefall, which features Resident Evil breakout star Austin Abrams as a scuba diver who gets swallowed by a whale. Despite generally positive reception, 
+
+### You Can See Everything Earns Largest Doc Opening in 13 Years With $15 Million at Indie Box Office
+Sun, 18 Oct 2026 14:31:47 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-earns-largest-doc-opening-since-2013/
+
+It s a historic weekend for indie films at the box office as A24 s You Can See Everything has broken through the industry-wide malaise that has plagued documentaries for the past five years with an estimated $15 million opening weekend from just 855 locations, taking the No. 2 spot on the weekend charts with a per theater average of $17,543. Riding off the back of unanimous critical acclaim and sky-high audience scores, Lance Oppenheim and Nathan Fielder s mind-bending look inside the private life of convicted Theranos founder Elizabeth Holmes has earned the highest opening weekend for any documentary since at least 2013, topping the $7.1 million of Amazon MGM s MAGA doc Melania, which opened with more than double the screen count of YCSE at 1,778 locations this past February. That screen count, combined with the overwhelming demand for the film in major cities, has led to more than 2,000 sellout screenings as of Sunday morning, according to A24. It has also come with spectacular audience scores on PostTrak with 92% of audiences surveyed giving the film the highest rating of definite recommend. That is territory usually reserved for faith-based films and tops the scores of other smash box office hits this year like The Odyssey, which earned a definite recommend score of 81%. Where this opening ranks in documentary box office history depends on whether you count concert films, which generally are able to mine a larger core audience than other types of docs. For all docs, You C
 
 ### Jaime Pressly Calls ‘Mom’ Co-Stars an ‘Incredible Cast of Women’ After Chuck Lorre’s Anna Faris Comments
 Sun, 18 Oct 2026 00:23:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/jaime-pressly-defends-mom-co-stars-chuck-lorres-anna-faris-comments/
@@ -254,85 +269,55 @@ Sat, 17 Oct 2026 20:51:47 +0000 — https://www.thewrap.com/creative-content/mus
 
 Harry Styles performed an unreleased song he wrote in honor of his late friend and former One Direction bandmate Liam Payne during his concert at Madison Square Garden on Friday. The singer was performing at MSG as part of his “Together, Together” residency, which runs from Aug. 26 through Oct. 31. Oct. 16 also marked the second anniversary of Payne’s death . Being here, I feel incredibly lucky to get to play these shows here in New York. This building means a lot to me, as I said, and I feel incredibly proud when I get to look up there and see my name up there from last year,” he said. “And there are so many people in my life, friends and people that I’ve worked with, that I wouldn’t have been able to do this without. And two years ago today, I lost one of those friends. It’s sad. I’m sure a lot of you have been through similar things. I hope you haven’t.” “I’m gonna play you a song that I wrote for my friend about two years ago, if that’s all right with you, he continued. This is ‘What Is Enough. ” You can listen yourself in the video below. Harry Styles performs an unreleased song he wrote for Liam Payne at his show at Madison Square Garden. pic.twitter.com/NL8Y6PP5Sq &mdash; Pop Crave (@PopCrave) October 17, 2026 Payne died in October 2024 after falling from the balcony of his Buenos Aires hotel. He was 31. The singer fell from the third-floor balcony of the CasaSur Palermo hotel. The musician died from “multiple traumas” that caused both “internal and external hemorrhage
 
-### The 3 Best Movies to Watch on Paramount+ This Week
-Sat, 17 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/3-best-movies-paramount-plus-this-week-oct-17/
-
-What shall we watch this week on Paramount+? Well, we re getting ever closer to Halloween, and there s plenty of movies in that realm you could go to. But if you re looking for something a little outside spooky season this week, this is the place to be. We ve got one recommendation to scratch that itch, don t worry. But otherwise, we re going for camp and fun right now. We could all use a feel-good evening, couldn t we? Here are the three best movies to watch on Paramount+ this week. Warner Bros. We re the Millers There is simply never a bad time to watch We re the Millers. Janine Teagues (Quinta Brunson) proved exactly that in Abbott Elementary, even if her movie choice did ultimately get upended. We re the Millers stars Jason Sudeikis , Jennifer Aniston, Emma Roberts and Will Poulter as a fake family, posing as the perfect nuclear unit in order to smuggle drugs into the country. David (Sudeikis) quickly realizes that happy families in RVs are almost always just waved through at the border, prompting the whole charade. But, along the way, they evolve into as real a family unit as they can be, in the most hilarious ways. They also meet another family, played by Kathryn Hahn, Nick Offerman and Molly C. Quinn, and things only get better. We re the Millers is an easy yes, every single time. Paramount Pictures Hansel & Gretel: Witch Hunters Listen, if you re not sold on the basic premise here, I m not sure what else could convince you. Hansel & Gretel: Witch Hunters stars Jeremy 
-
-### ‘Musk’ Documentary’s TikTok Account ‘Permanently Suspended’ as Film Hits Theaters
-Sat, 17 Oct 2026 19:59:21 +0000 — https://www.thewrap.com/creative-content/movies/musk-documentarys-tiktok-account-permanently-suspended/
-
-The TikTok account for Bleecker Street’s documentary “ Musk ” has been “permanently suspended” just as the film was set to expand nationwide this weekend, representatives for the independent distributor told TheWrap. According to the representatives, Bleecker Street was notified by TikTok on Friday afternoon that the suspension was forthcoming, and the account was subsequently removed from the platform. The suspension comes as several major platforms have refused to promote director Alex Gibney’s four-hour documentary about Elon Musk’s life and rise to power, including Musk-owned X, where Musk himself has attacked the film. YouTube and Meta, which owns Facebook and Instagram, previously refused to run ads for “Musk” but reversed course after public pressure. TikTok claims that the “Musk” account, which had amassed more than 10,000 followers before its removal, violated the platform’s rules on political content, though the company did not specify which rules were violated or how the account had breached them. Running 235 minutes, including an intermission, “Musk” delves into Musk’s personal life and rise to financial and political power, including his time in the Trump administration, when he oversaw sweeping cuts to the federal workforce and foreign aid spending. The film also features interviews with Musk’s former romantic partners and wives, including Ashley St. Clair, who describes the world’s richest man as a “nuke.” While TikTok is not owned by Musk, it is linked to fell
-
-### DWTS Suspends Val Chmerkovskiy for One-Week Following Controversial TikTok Comments Toward Carrie Ann Inaba
-Sat, 17 Oct 2026 19:46:49 +0000 — https://www.thewrap.com/media-platforms/tv/dwts-suspends-val-chmerkovskiy-following-controversial-tiktok-comments/
-
-“Dancing With the Stars” is pulling pro dancer Val Chmerkovskiy from next week’s show following remarks he made about judge Carrie Ann Inaba. He will be suspended for one week. On Wednesday, Chmerkovskiy posted a TikTok referencing Will Smith’s infamous 2022 Oscars slap in response to Inaba’s criticism of his wife, Jenna Johnson, who is also a pro dancer on the ABC reality show. “The well-being of everyone who works on ‘Dancing with the Stars’ is non-negotiable. Val’s social media post was inappropriate and does not reflect the values or standards expected of anyone connected with the show,” BBC Studios said in a statement on Saturday. “As a result, he will not participate in next week’s show.” Following news of his suspension, Chmerkovskiy shared a statement with media. In a moment where my instinct was to defend my wife, I made a poor decision to reference a meme to keep my wife’s name; out of the conversation, without stopping to think through what else that reference could imply, which was genuinely never my intention, he said. Carrie Ann certainly didn’t deserve to get caught in the middle of my bad judgment, and I hate that she was. He continued: The last thing I want is to become a distraction from an important week or from the incredible work my dance partner Jenna Dewan is putting in. Please send Carrie Ann, Jenna, and the whole DWTS family lots of love during Dedication Night. I’ll be watching and cheering everyone on!! Representatives for Inaba did not immediately 
-
-### Melissa Gilbert Shares Cryptic Post After Husband Timothy Busfield’s Child Sexual Abuse Charges Are Dismissed
-Sat, 17 Oct 2026 19:04:41 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/melissa-gilbert-cryptic-post-timothy-busfields-charges-dismissed/
-
-Following the dismissal of her husband Timothy Busfield’s sexual abuse charges , Melissa Gilbert shared a cryptic post on Instagram that appeared to reference the court’s decision. The “Little House on the Prairie” actress shared a photo on Instagram Friday featuring a quote from “Willy Wonka & the Chocolate Factory”: “So shines a good deed in a weary world.” She also shared a link to The New York Times’ report on the dismissal in her Instagram Stories. View this post on Instagram A post shared by Melissa E. Gilbert (@melissagilbertofficial) Busfield, who pleaded not guilty to four felony counts of criminal sexual contact with a minor in February, repeatedly denied any wrongdoing in the case. A warrant for Busfield’s arrest was issued Jan. 9 following allegations that he had inappropriate sexual contact with two 11-year-old boys while working as director and executive producer on “The Cleaning Lady” in October 2022 and September 2023. He surrendered to authorities Jan. 13. New Mexico Judge Joseph Montano ruled Friday that the case should be dismissed because the prosecuting attorney did not “act in a fair and impartial manner.” “The prosecuting attorney failed to act in a fair and impartial manner, including the failure to properly instruct the grand jury on the law for calling witnesses and in instructing the grand jurors on a procedure that effectively withheld requested witnesses,” Montano wrote. In doing so, the grand jury proceedings were conducted in a manner that viola
-
-### Miley Cyrus Tearfully Honors Dolly Parton at LA Concert: ‘I Feel Her More Than Ever
-Sat, 17 Oct 2026 17:55:34 +0000 — https://www.thewrap.com/creative-content/music/miley-cyrus-honors-dolly-parton-at-la-concert/
-
-During her first full-length concert in nearly four years, Miley Cyrus took the stage at the Hollywood Bowl on Friday and teared up as she paid tribute to her late godmother, Dolly Parton. Cyrus, who is playing two sold-out shows at the iconic Los Angeles venue following the release of her September album “Bass Persuades,” shared memories of Parton. She told the audience that she was partly inspired to choose the Hollywood Bowl because it was the only place she had seen Parton in concert. “I only got to see Dolly Parton live in concert one time in my entire life and it was here,” she said. “I spend a lot of time backstage and if she had it her way, when she was playing a show, I’d be standing right beside her in a matching costume. And so, when I was coming to the show at the Bowl to see her, I said, ‘You know, I would love a night where I could just experience you.’ Avant de performer Jolene, Miley a pleuré et a également expliqué l’importance de Dolly Parton dans sa vie, et ce depuis son enfance. Elle rêvait de performer au Hollywood Bowl car c’est là qu’elle a vu Dolly en concert pour la seule et unique fois. pic.twitter.com/5hYJ1LcBmT &mdash; Miley Cyrus France (@MileySource_FR) October 17, 2026 Apparently, Parton couldn’t help herself. During her set, she told the crowd that Cyrus was in the audience and proceeded to sing “Best of Both Worlds,” the title track from Cyrus’ show “Hannah Montana.” As Cyrus explained, the move “defeated the entire purpose” of her trying to b
-
-### ‘Crystal Lake’ Showrunner Brad Caleb Kane on Some of the Series’ Most Controversial Changes
-Sat, 17 Oct 2026 17:30:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/crystal-lake-peacock-changes-explained-brad-caleb-kane/
-
-Just when you thought it was safe to be a promiscuous camp counselor at a ramshackle summer camp … “Crystal Lake” is here. The new “Friday the 13th” prequel series from A24 has arrived on Peacock, just in time for spooky season. It follows Linda Cardellini’s Pamela Voorhees, who is dealing with the drowning of her young son Jason at the summer camp where she works. But what starts as an exploration of a mother’s grief in the face of unimaginable tragedy soon spirals out into something much, much bigger… TheWrap spoke with showrunner Brad Caleb Kane, who took over the series after Bryan Fuller and Jim Danger Gray had initially developed the project, about some of the bigger and more controversial aspects of the series. Obviously huge spoilers below , do not read until you’ve finished the entire series. If not, you’ll likely be drowned in the chilly waters of Crystal Lake. Pam doesn’t kill the counselors This is something that is really shocking and odd — in a moment lifted directly from Sean S. Cunningham’s original “Friday the 13th,” we get a POV shot of someone killing the two counselors that were responsible for Jason’s drowning. This is what starts the original film and is, arguably, one of the more iconic images from that movie. All of this makes the reveal in “Crystal Lake” — that it wasn’t Pam who killed the counselors but rather a young girl named Grace (Gwendolyn Sundstrom) who has taken LSD with some local hippies. (Yes, these are actual plotlines.) Grace, you see, w
-
 ## Collider
 
-### Steven Spielberg’s New Sci-Fi Epic Is Officially Still the #1 Movie on Peacock
-Sun, 18 Oct 2026 14:01:14 GMT — https://collider.com/steven-spielberg-disclosure-day-peacock-top-movie-october-2026/
+### 5 Greatest Books of the Last 40 Years, Ranked
+Sun, 18 Oct 2026 18:50:14 GMT — https://collider.com/best-books-last-40-years-ranked/
 
-It has been suggested in the past that Christopher Nolan expects no friendly fire before and after the release of his movies. These details emerged when Nolan famously severed ties with Warner Bros. and signed a deal with Universal to release Oppenheimer . The partnership began with a bang, as Oppenheimer wildly exceeded box-office projections and earned the coveted Best Picture honor at the Oscars. It also won Nolan his first-ever Best Director Academy Award. Unsurprisingly, he stuck with Universal for the release of The Odyssey , which has emerged as his highest-grossing film, with nearly $1.8 billion worldwide. However, Universal released another summer tentpole directed by an A-lister just six weeks before The Odyssey . The movie in question didn't live up to expectations, and ultimately wasn't a factor when The Odyssey debuted in mid-July.
+Books have a way of capturing the world as it changes , preserving stories and experiences that might otherwise go unheard. Over the past four decades, society has undergone immense evolution, from shifting social norms to the growing influence of globalization and technology. As people across the globe become more connected, literature has opened the door to perspectives that were once overlooked.
 
-### 8 Fantasy Movies That Give The Lord of the Rings a Run for Its Money
-Sun, 18 Oct 2026 13:56:15 GMT — https://collider.com/fantasy-movies-rival-the-lord-of-the-rings/
+### ‘SNL UK’ Officially Delivers a Brutal Takedown of ‘Saturday Night Live’s Shane Gillis
+Sun, 18 Oct 2026 18:48:52 GMT — https://collider.com/snl-uk-saturday-night-live-ania-magliano-shane-gillis-joke-opinion/
 
-There's no way around it: Peter Jackson 's Lord of the Rings trilogy consists of what may very likely be the three greatest fantasy movies in the history of cinema. That is not, however, a universally accepted fact. Though it's undeniable that it's the most universally praised fantasy movie trilogy in film history, there are a few particularly exceptional movies from the same genre which very reasonably give Jackson's adaptation of J. R. R. Tolkien 's legendary novel a run for its money.
+If there’s one thing Saturday Night Live knows how to do, it’s stir up controversy. While Shane Gillis dropped an F-bomb during the October 10 episode, it wasn’t just the four-letter curse word that sparked upset. In the comedian’s opening monologue, Gillis remarked that women now dress “like whores” at the gym , followed by a grossly graphic description of their shorts. Meanwhile, across the pond, the team at SNL UK , who have never been shy about saying what’s on their minds , made sure they had their own take on the matter.
 
-### Chris Pratt’s ‘Reacher’ Replacement Officially Returns After 4-Year Wait
-Sun, 18 Oct 2026 13:16:15 GMT — https://collider.com/the-terminal-list-chris-pratt-prime-video-release-date-october-2026/
+### Every Mike Flanagan TV Show, Ranked
+Sun, 18 Oct 2026 18:33:15 GMT — https://collider.com/mike-flanagan-shows-ranked/
 
-It's been an eventful few weeks for fans of streaming potboilers, with the third season of Lioness and the fourth season of Reacher having been released back-to-back. There was also Neagley , the long-awaited Reacher spin-off that premiered to excellent reviews and terrific viewership in September. And this past week saw the return of heavy hitters such as Tulsa King and The Diplomat . The streak will continue in a few days, when Prime Video welcomes back one of its hottest hits — a show that has been off the air for a Larry David -period of time. The series originally premiered in 2022, the same year as Reacher . But while Reacher has already concluded four full seasons, the companion piece has yet to deliver its sophomore season.
+Few filmmakers are as committed to making high-quality horror for both the big and small screen as Mike Flanagan . While many of his projects are adaptations, Flanagan uses the source material as a jumping-off point to make something hauntingly familiar yet unmistakably his own. Frequently using and subverting genre conventions, Flanagan's character-first approach has helped birth some of the most memorable limited series of the last decade .
 
-### ‘The Diplomat’s Season 4 Finale Made This Star Throw His Script Across the Room (Again)
-Sun, 18 Oct 2026 13:13:14 GMT — https://collider.com/the-diplomat-season-4-finale-cliffhanger-ato-essandoh-ali-ahn/
+### Denis Villeneuve Officially Reveals How ‘Dune: Part Three’ Changes Everything
+Sun, 18 Oct 2026 18:30:15 GMT — https://collider.com/denis-villeneuve-dune-part-3-changes/
 
-Editor’s note: This interview contains spoilers for The Diplomat Season 4.
+Director Denis Villeneuve has given us some amazing movies across multiple genres. Be it thrillers like Prisoners and Sicario or taking forward Ridley Scott ’s cyberpunk franchise with Blade Runner 2049 . The director’s vision, character-driven narratives , and distinct storytelling keep fans glued to their seats. Perhaps he is best known for his work in the sci-fi genre. After the success of the first Dune film, the director became a global sensation, with fans around the world waiting for the next installment.
 
-### HBO Max Officially Says Goodbye to Matt Damon's Best Picture-Winning Crime Masterpiece
-Sun, 18 Oct 2026 12:46:15 GMT — https://collider.com/matt-damon-the-departed-leaving-hbo-max-november-2026/
+### Love of Your Life: Exhaustion Drew the Cast Closer | Collider BTS
+Sun, 18 Oct 2026 18:15:15 GMT — https://collider.com/video/love-of-your-life-exhaustion-drew-the-cast-closer-collider-bts/
 
-Having starred in the biggest movie of his career this past summer, Matt Damon has set an incredibly high benchmark for himself. Damon has continued to level up in each of the four decades of his professional career, starting with Good Will Hunting , continuing with the Jason Bourne trilogy and The Martian , and most recently, delivering the record-breaking blockbuster The Odyssey . Directed by Christopher Nolan , the epic historical fantasy film shattered all expectations to gross more than $1.7 billion worldwide. It's a shoo-in for Oscars consideration, and a major contender for a Best Picture nomination. Damon, of course, has starred in a Best Picture winner more than once. In 2023, he played a pivotal role in Nolan's Oppenheimer . Now, one of his most acclaimed movies is about to be removed from its streaming home, leaving audiences with not much time to check it out.
+Margaret Qualley, Aaron Pierre, and director Rachel Morrison reveal how a crucial emotional scene in Love of Your Life had to be filmed in just 28 minutes before the sun disappeared.
 
-### Ridley Scott's Spy Thriller Is Officially a 75-Day Streaming Sensation
-Sun, 18 Oct 2026 12:30:15 GMT — https://collider.com/ridley-scott-prime-target-apple-tv-streaming-success-75-days-october-2026/
+### 'Five Nights at Freddy's Officially Returns for New Halloween Release
+Sun, 18 Oct 2026 18:00:14 GMT — https://collider.com/five-nights-at-freddys-into-the-pit-free-amazon-prime-october-2026/
 
-2026 hasn’t exactly been a benchmark year for Ridley Scott , but one show you didn’t realize he was attached to is proving its staying power on streaming charts. After almost 10 years away from the world of sci-fi, Ridley Scott officially returned to the genre earlier this year for the premiere of The Dog Stars — it had been since 2017’s Alien: Covenant since Scott last directed a sci-fi movie. However, The Dog Stars didn’t even manage to eke out $30 million at the box office, and it left theaters as one of Ridley Scott’s lowest-grossing movies in history. Ridley Scott fans were also dealt a blow when it was announced that one of his well-liked shows on Apple TV, Dope Thief , would not be coming back for another season . That isn’t the only show Scott has done with the streamer, though.
+A ball pit is an impressively horrible place to put a time machine. Even before anything supernatural happens, disappearing beneath one at a rundown pizzeria sounds like a decision someone should stop immediately. Five Nights at Freddy’s : Into the Pit takes that childhood attraction and supplies a much worse reason to stay out.
 
-### The 9 Best Movies About Cyber Warfare, Ranked
-Sun, 18 Oct 2026 12:27:14 GMT — https://collider.com/best-movies-cyber-warfare-ranked/
+### After 'Widow's Bay,' Matthew Rhys' 2-Part Crime Thriller Saga Officially Deserves To Be Revisited
+Sun, 18 Oct 2026 17:58:15 GMT — https://collider.com/matthew-rhys-crime-thriller-perry-mason-deserves-revisit-widows-bay/
 
-Once a far-fetched sci-fi concept, now a piercing anxiety of the modern world. The idea of cyber warfare is a sign of the times , a reflection on the vulnerability that has come with our reliance on computers and the internet to manage everything from day-to-day activities to essential governmental structures. While movies revolving around the concept of cyber conflict have been sparse, the pictures that do probe the question with compelling foresight and gripping angst.
+Matthew Rhys has long been one of Hollywood's most compelling actors. After career-defining performances in Brothers & Sisters and The Americans , Rhys has continued to work steadily. At this year's Emmys, Rhys set a new record , becoming the first to win two Lead Actor awards in one night, for his work in Netflix's The Beast in Me and Apple TV's runaway hit, Widow's Bay . But there's actually one overlooked thriller series that also showcases Rhys' immense talent , and it still deserves to be binged.
 
-### 7 Near-Perfect 'Far Side' Halloween Comics Everyone Forgot About
-Sun, 18 Oct 2026 12:21:14 GMT — https://collider.com/far-side-halloween-comics-near-perfect-forgotten/
+### Seth Rogen’s $98M Sci-Fi Adventure Is Officially Leaving Streaming
+Sun, 18 Oct 2026 17:30:14 GMT — https://collider.com/seth-rogen-sci-fi-paul-leaving-peacock-november-2026/
 
-There has never been another comic strip like The Far Side . From 1980-1995, Gary Larson used just one panel to say so much. With often dark humor, the cartoonist took twisted satirical jabs at modern society. He was well known for doing this by taking something well known and turning it on its head.
+Before algorithms began informing creative decisions in the world of filmmaking, studios would rely on intuition and judgment to bring together the best-suited actors, directors, and other artists for projects. In the 2000s, Judd Apatow was arguably among the most successful producers in Hollywood, having contributed to the rise of stars such as Seth Rogen , Bill Hader , and Jason Segel . Across the pond in the United Kingdom, director Edgar Wright was having a similar cultural impact with his cult classic Cornetto Trilogy , starring Simon Pegg and Nick Frost . Around 2010, someone made the genius decision to bring these two worlds together, while appealing to the growing fanboy population awakened by hits such as Iron Man and The Dark Knight .
 
-### 6 Most Universally Loved Books Released Since 2010, Ranked
-Sun, 18 Oct 2026 12:18:15 GMT — https://collider.com/most-universally-loved-books-since-2010-ranked/
+### The 7 Best Martial Arts Movies Released Since 2020, Ranked
+Sun, 18 Oct 2026 16:41:15 GMT — https://collider.com/best-martial-arts-movies-since-2020-ranked/
 
-There is a very specific kind of reader who finishes a book and immediately starts recruiting. Not recommending. Recruiting. They text three people. They bring it up at dinner. They start saying things like, “Just get to chapter four,” as if they are personally responsible for the author’s sales numbers. I trust that behavior more than bestseller stickers.
+I have watched perfectly choreographed fights that I cannot remember a single thing about. Beautiful kicks, elaborate camera movements, somebody getting thrown through an expensive-looking window. Five minutes later, nothing. Meanwhile, I can remember the exact expression on a character's face before a fight from a movie I watched years ago. I've started to suspect that my favorite martial arts sequences are actually acting scenes which teach you something about the character instead.
 
-### Jason Statham and Tom Cruise's Neo-Noir Hit Officially Loses Its Streaming Home
-Sun, 18 Oct 2026 12:00:15 GMT — https://collider.com/tom-cruise-jason-statham-collateral-leaving-peacock-november-2026/
+### Tom Hardy's Near-Perfect True Crime Thriller Officially Resurfaces as a Free Streaming Hit
+Sun, 18 Oct 2026 16:30:15 GMT — https://collider.com/tom-hardy-lawless-streaming-free-pluto-tv-october-2026/
 
-Tom Cruise doesn't play antagonists too often, and given the commercial performance of Digger , he will probably think twice before playing one again. Directed by the two-time Oscar winner Alejandro G. Iñárritu , Digger is projected to lose around $250 million for Warner Bros., making it one of the biggest box-office bombs in history. The political satire opened to divisive reviews, but has already shown signs of becoming a future cult classic. The last time that Cruise played something of a villain was in the 2008 comedy Tropic Thunder , for which he received a Golden Globe nomination in the Best Supporting Actor category. However, Cruise's most memorable heel turn came around two decades ago, in a neo-noir thriller that's currently streaming on Peacock in the United States, but only for a little while longer.
+2026 has quietly been a massive year for Tom Hardy , despite him only starring in one new project. The age-old saying goes something like “there’s no such thing as bad publicity,” and although Hardy came under the microscope earlier this year, it all worked out for the best. News broke back earlier in the summer that Hardy had been fired from his role as Harry Da Souza in MobLand , but considering he had already filmed all of his Season 2 scenes, this firing wouldn’t take place until Season 3. This report has since been debunked and not only has Paramount confirmed that Hardy will return in Season 3 , the studio has even doubled down and renewed MobLand for Season 3 while Season 2 continues to dominate watchlists around the world.
 

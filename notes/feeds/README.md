@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-18T14:09:21.934Z
+# Source feeds — harvested 2026-10-18T18:56:20.879Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -8,12 +8,6 @@ own feed: headline, link, date, and their summary.
 > links to the same publication, which is one source read twice. If only
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
-
-## Broadcasts in the feeds
-
-Already aired, so a round-up rather than a preview:
-
-- Polygon — America's Dominance in The Game Awards Is Officially Over
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -25,8 +19,8 @@ Already aired, so a round-up rather than a preview:
 
 Both quotas are being met. Write whatever the day deserves.
 
-- **Manga and anime** — on track. 2 articles since the last one; quota is one in 6. 13 in the archive of 242.
-- **Film & TV** — on track. 1 article since the last one; quota is one in 8, never worse than one in 10. 22 in the archive of 242.
+- **Manga and anime** — on track. 3 articles since the last one; quota is one in 6. 13 in the archive of 243.
+- **Film & TV** — on track. 2 articles since the last one; quota is one in 8, never worse than one in 10. 22 in the archive of 243.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +29,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 69 items
-- [Tech](tech.md) — 79 items
-- [3D](3d.md) — 8 items
+- [Games](games.md) — 53 items
+- [Tech](tech.md) — 70 items
+- [3D](3d.md) — 4 items
 - [AI](ai.md) — 1 items
-- [Manga](manga.md) — 22 items
-- [Film & TV](film-tv.md) — 64 items
+- [Manga](manga.md) — 21 items
+- [Film & TV](film-tv.md) — 61 items
 
-Total: 243 items.
+Total: 210 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

@@ -1,6 +1,11 @@
-# Tech — harvested 2026-10-18T14:09:21.934Z
+# Tech — harvested 2026-10-18T18:56:20.879Z
 
 ## Ars Technica
+
+### Anthropic gives outside AI watchdog “employee-like” access
+Sun, 18 Oct 2026 16:25:19 +0000 — https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/
+
+Anthropic has granted external evaluators “employee-like access” to assess the risks of its models, following through on a commitment to increase safeguards over concerns the technology could run catastrophically out of control. METR, a nonprofit that has worked with leading labs including OpenAI, Anthropic, Google and Meta, now has a team embedded in the Claude maker’s office with access to its hardware and internal systems. A greater role for third-party evaluators is among the main concrete steps the labs have proposed in response to rising concern about the dangers more capable AI systems could pose to the economy, cyber security and humanity at large. Read full article Comments ]]>
 
 ### Science says your boss should talk less in meetings
 Sat, 17 Oct 2026 11:15:11 +0000 — https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/
@@ -32,22 +37,22 @@ Fri, 16 Oct 2026 19:11:50 +0000 — https://arstechnica.com/gadgets/2026/10/ray-
 
 Some Ray-Ban Meta smart glasses were recording people’s conversations without the wearer knowing. The recordings occurred without users saying the prompt phrase (“Hey, Meta”), in a bug that Meta says has been fixed. This week, some users reported online that their Ray-Ban Metas were recording without their consent. A person going by Kindly-Audience-137 on Reddit, for example, said this happened to them across three Meta Ray-Bans and that they had the “Respond without Hey Meta” setting turned off. The person said the Meta AI app “saves audio recordings and text transcripts of these conversations in my conversation history.” “I believe this deserves a serious technical investigation. Customers should not have to wonder whether their private conversations are being captured when they have not intentionally activated their glasses’ AI assistant,” the Reddit user said. Read full article Comments ]]>
 
-### RFK Jr. proposes FDA look the other way on unproven peptides, report says
-Fri, 16 Oct 2026 17:05:59 +0000 — https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/
-
-Under Health Secretary Robert F. Kennedy Jr., the Food and Drug Administration is moving forward with plans to ease access to unproven peptide drugs that are popular among members of Kennedy's Make America Healthy Again movement—despite FDA staff scientists finding that the drugs have not been sufficiently studied to establish safety and efficacy and may cause harms. The FDA submitted an "Interim Access Policy" on peptides for review by the White House, according to a filing notice posted on an Office of Management and Budget website. The posting does not provide information on the proposed policy. But people familiar with the proposal told The Associated Press that it would give the FDA "enforcement discretion" on certain peptide drugs. This would allow the agency to choose not to enforce current restrictions on peptides and provide an assurance to specialty pharmacies eager to start making them that they will not be targeted by the agency. The Department of Health and Human Services, which oversees the FDA, did not respond to a request for comment from Ars Technica. Read full article Comments ]]>
-
-### Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees
-Fri, 16 Oct 2026 15:41:00 +0000 — https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/
-
-Legal experts are sounding alarms that Meta will soon update its commercial terms to require business accounts to allow Meta to train AI on their linked website content, not just their social media posts. Kicking in on October 30, the TOS update won’t allow businesses to opt out, instead suggesting that businesses stop using Meta services if they won’t agree to let Meta bots freely crawl their linked content. As Nieman Lab reported Thursday, this will affect all business accounts but is particularly shocking for news publishers who could perhaps charge Meta millions in licensing fees to continually access their articles for AI training. Currently news organizations are fighting a battle with OpenAI over whether such training without licensing is fair use, and Meta's terms seemingly risk granting it sweeping permissions, no matter which way the court leans. Read full article Comments ]]>
-
-### Polymarket saw $600 million in election trades after the elections were over
-Fri, 16 Oct 2026 14:19:22 +0000 — https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/
-
-Prediction market boosters often tout the platforms as barometers of public opinion, or even “truth machines” offering a clearer picture of where things are headed than polling or other data. In 2024, for example, Kalshi beat many pollsters in forecasting the outcome of the US presidential race. But their trading activity can also tell more perplexing stories. Two global election markets on Polymarket’s offshore platform , for instance, generated over $600 million in trading volume, far more than most political markets typically attract. Most of the activity took place buying and selling contracts tied to long-shot candidates who ultimately did not win. This summer, Ethiopian Prime Minister Abiy Ahmed’s Prosperity Party cruised to victory in federal elections, winning 438 parliamentary seats and paving the way for him to serve another five-year term. The closest competitor won 13 seats. On prediction markets, trading volume—the total value of contracts bought and sold—typically tracks roughly with the odds of a given outcome; frontrunners attract far more volume than long shots. But in this case, the trading patterns deviated sharply from the norm. Just $173,000 was wagered on Ahmed winning, compared to more than $41 million traded on his chief of staff, Shimelis Abdisa, becoming the country’s next leader. Altogether, the volume traded added up to over $285 million, nearly all on losing candidates. Read full article Comments ]]>
-
 ## The Verge
+
+### A woman was arrested in Philly for blocking a delivery robot
+2026-10-18T14:28:10-04:00 — https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot
+
+Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 "I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by standing in front of them and preventing them from going forward." Police responded to the scene and asked Marvin to move out of the robot's way. When she refused, they placed her in cuffs and arrested her. The incident was captured on video and has now garnered considerable media attention. The delivery robots have become a common sight on the … Read the full story at The Verge. ]]>
+
+### Video game ownership bill introduced in Congress
+2026-10-18T12:27:51-04:00 — https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act
+
+Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for it, rather than a licensing agreement. It's increasingly common for games sold to require a connection to a server. Meaning that when a company decides to shut down those servers, the games often become unplayable. Rep. Torres singles out NBA 2K25 as a recent example. 2K will be delisting the game from storefronts at the end of the month and shutting down its servers on … Read the full story at The Verge. ]]>
+
+### Lenovo’s fast, comfy SteamOS handheld is hundreds off
+2026-10-18T11:00:00-04:00 — https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale
+
+The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double the RAM and storage (32GB and 1TB, respectively), not to mention a slightly faster processor in the Ryzen Z1 Extreme. At $999.99, its current discounted price at Best Buy , it’s worth considering if you’re deciding on a handheld. The Legion Go S is not as powerful as the $1,299.99 Asus ROG Xbox Ally X20 that just launched, which has the Z2 Extreme and a OLED screen, but it’s no slouch, either. Lenovo Legion Go S with SteamOS (Z1 Extreme) Where to Buy: $1579.99 $999.99 at Best Buy This model launched with Windows 11 and the Ryzen Z2 Go. Despite being a newer chip, it’s less powerful than the Z1 Extreme in the discounted model. SteamOS and the faster internals within this configuration will provide a better experience. Check out my colleague Sean Hollister’s review of multiple configs of the Go S, and see how it stacks up in his benchmarks. ]]>
 
 ### J Mascis has nothing better to do
 2026-10-18T10:00:00-04:00 — https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview
@@ -84,22 +89,22 @@ Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade
 
 Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe , a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful, ultra-fast-charging electric people-hauler. The AMG GT SUV (say that five times fast) marks the first time in the performance brand's 59-year history that it has developed a full-size SUV entirely in-house from the ground up. Scheduled to hit the US next summer, the new EV is built on Merc's high-performance AMG.EA architecture to combine sports-car handling with full-s … Read the full story at The Verge. ]]>
 
-### Elon Musk settles lawsuits over $1 million voter giveaway
-2026-10-17T12:39:44-04:00 — https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway
-
-In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now agreed to settle the two lawsuits filed in Austin, Texas, though the details of the settlement have not been made public. The plaintiffs claim that when Musk announced the sweepstakes, he falsely claimed the prizes would be awarded randomly. Philadelphia's District Attorney sued to stop the giveaway , claiming that Musk was running an illegal lottery. During a hearing, … Read the full story at The Verge. ]]>
-
-### Meta removes language that may have allowed it to scrape news sites
-2026-10-17T11:04:36-04:00 — https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites
-
-After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page : … Meta may use any content from such domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of, the Meta Company Products, services, and features provided under these Commercial Terms and any other applicable supplemental terms. Many, including Neiman Lab and James Grimmelmann, a professor of digital and information law at Cornell, interpreted it as an … Read the full story at The Verge. ]]>
-
-### Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update
-2026-10-17T11:00:00-04:00 — https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale
-
-Pikmin preparing to do battle with a Bulborb | Image: Nintendo If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual price. This version of the game follows the same puzzle formula as previous titles in the series, but adds in a dog companion for an extra layer of complexity and action, and dives deeper into the dark undertones previous games hinted at. Pikmin 4 Where to Buy: $59.99 $39.88 at Walmart Nintendo recently announced a Switch 2 version of Pikmin 4 will launch on November 12th, 2026. That version features polished visuals, adds in voice commands for your dog companion, plus a new mode called Dandori Academy that adds extra challenges over time. You’ll be able to upgrade to that version for just $10, saving you $20 total over buying the $69.99 Switch 2 Edition outright. Read our Pikmin 4 review . ]]>
-
 ## Tom's Hardware
+
+### Modder brings full Nvidia DLSS 5 suite to three generations of AMD gaming GPUs
+Sun, 18 Oct 2026 16:03:01 +0000 — https://www.tomshardware.com/pc-components/gpus/amd-cards-now-run-all-dlss-features-thanks-to-one-developers-project-plans-to-match-native-nvidia-gpu-performance
+
+The DLSS-NR project on AMD by Daniel Blanco was first released on September 3, 2026, bringing DLSS 5 Neural Rendering to Radeon GPUs; in the latest 0.8.0 update, however, it makes all the main DLSS features available, featuring DLSS SR, Frame Generation, Ray Regeneration, and the newest DLSS NR model, along with more performance improvements. While AMD has equivalents for most DLSS features like FSR upscaling, frame generation, ray regeneration, and anti-lag, it’s not as commonly supported by most games compared to Nvidia’s offerings. Even if players could use the AMD equivalent features, Neural Rendering is one that AMD just doesn’t have an equivalent for yet, which is why mods like DLSS-NR on AMD were made. Daniel Blanco wanted to fill the gap with NR in its initial release, but in the latest update, he added all the DLSS features: DLSS Ray Reconstruction, Super Resolution 4.5, Frame Generation, and the latest 310.9.16 improved Neural Rendering build that we covered recently with modders using it on unsupported games . Interestingly, the update notes say it includes FSR 4.1.1 upscaling; AMD GPUs already use FSR, but having FSR 4.1.1 specifically gives the mod a consistent version of FSR to work with, instead of having to be compatible with the various implementations of FSR in different scenarios. The mod currently supports three generations of Radeon GPUs: RX 9000, 7000, and 6000 (RDNA4, 3, and 2, respectively), in any DirectX 12 game that uses FSR, DLSS, or XeSS. You can 
+
+### Anycubic's award-winning 3D printer hits all-time low pricing
+Sun, 18 Oct 2026 15:24:22 +0000 — https://www.tomshardware.com/3d-printing/anycubics-award-winning-3d-printer-hits-all-time-low-pricing-kobra-x-is-an-excellent-entry-level-four-color-printer-thats-now-just-usd299-99-for-amazon-prime-members
+
+Anycubic's Kobra X Multicolor 3D Printer is at the lowest price it's ever been since reaching retail availability. Prime members who head over to the Anycubic store on Amazon can now snag this well-reviewed device for just $299.99 for a limited time. The 17% or $60 off its MSRP makes the Kobra X a bargain, as it was highly praised as a contender in the entry-level four-color printer category by our reviewer earlier this year. It even won a coveted Tom's Hardware Editor's Choice award. Check out this Anycubic Kobra X 3D printer deal on Amazon Though it may appear to be a Bambu Lab A1 clone at first glance, we praised the Kobra X for its multimaterial system, the ACE Gen 2, which is built directly into the toolhead. This is a great timesaver for prints with lots of color changes, and we calculated that on a four-color print with 776 color swaps, the Kobra X was a shocking 10 hours faster than the rival A1, despite similar printing speeds. Kobra X Multicolor 3D Printer: was $359 now $299 All-time low price The Kobra X delivers fast, affordable multicolor printing without a complicated external AMS or premium price tag. It features a 260 x 260 x 260mm (10.23 x 10.23 x 10.23-inch) build volume, automatic + Z bed leveling, and a color touch screen. View Deal The Anycubic Kobra X Multicolor 3D printer was launched earlier this year, with consumer shipments starting in late March / early April. We reviewed it in February and gave it a great score for its innovative ACE Gen 2 system, 
+
+### F-22 Raptor pilot successfully demonstrates command of 'wingman' fighter drone in simulated combat
+Sun, 18 Oct 2026 15:02:19 +0000 — https://www.tomshardware.com/tech-industry/drones/f-22-raptor-pilot-successfully-demonstrates-command-of-wingman-fighter-drone-in-simulated-combat-anduril-yfq-44a-fury-test-advances-usafs-program-to-integrate-uncrewed-aircraft-into-fighter-squadrons
+
+The U.S. Air Force has just successfully conducted an airborne test where an F-22 Raptor pilot directed an Anduril YFQ-44A Fury drone during simulated combat. According to The Defense Watch , the fighter pilot gave tactical commands to the autonomous wingman, which then interpreted them into a series of tasks and flight maneuvers to achieve the desired outcome. The successful test is part of the USAF’s Collaborative Combat Aircraft (CCA), which seeks to integrate drones into fighter squadrons. These uncrewed aircraft must be able to respond to the fighter pilot’s tactical commands and then operate autonomously, though. That’s because fighter pilots already have a heavy workload — flying their own aircraft, managing sensor data, threat assessment, and weapons release decisions — so requiring them to manually fly a drone is next to impossible. Command integration means that the F-22 Raptor pilot could assign the Fury drone a specific tactical task, like monitoring for and engaging enemy air defenses, while they focus on the primary mission, such as taking out enemy fighters. This does not mean that the USAF can start deploying drones alongside fighter jets in frontline squadrons, though. Successful command integration is just the first of several hurdles that the program must go through before it can achieve operational status. The program needs to determine the limits of the drone’s tactical autonomy, safe flight control, and weapons authorization, all of which are separate fu
 
 ### Cinebench world record that stood for 12 years gets toppled
 Sun, 18 Oct 2026 14:02:53 +0000 — https://www.tomshardware.com/pc-components/overclocking/cinebench-world-record-that-stood-for-12-years-gets-toppled-oc-expert-scores-10-8cb-in-cinebench-r11-5-using-an-intel-core-i5-4670k-at-6-3-ghz
@@ -116,7 +121,7 @@ Sun, 18 Oct 2026 13:24:23 +0000 — https://www.tomshardware.com/pc-components/g
 
 A Brazilian electronics and IT distributor, Oderço, has gone on Instagram after failing to find answers about a missing shipment of RTX 5090 GPUs worth around $470,000 or R$2,500,000. According to its Instagram post [machine translated], the company has never faced an experience like this in its 38-year history. It was expecting two pallets of Zotac RTX 5090 GPUs at Guarulhos International Airport in São Paulo, which supposedly arrived there but then disappeared. The company has not provided any details, like the shipment’s arrival date or any tracking numbers, but claims that there hasn’t been any official response regarding its shipment inquiries. Because of this, the company went on the social media platform pleading for answers. A post shared by Oderço (@odercodistribuidora) A photo posted by RTX 5090s are currently in short supply across the world, with the top-tier card disappearing from online retailers in the middle of September. There have been rumors that Nvidia has ceased production of the GPU to focus on more expensive professional AI cards, although it insists otherwise . Still, it doesn’t help that the flagship GPU is marked “not carried” in Micro Center’s online retail store , making it insanely difficult to find one of the best gaming GPUs you can buy today. We don’t have any idea how many GPUs are missing, as the distributor only mentioned two pallets’ worth of RTX 5090s. A Zotac Gaming GeForce RTX 5090 , which goes for around $8,000 on Amazon presently, is 
 
-### Chip fab engineering game goes viral in Taiwan
+### Web-based chip fab engineering game goes viral in Taiwan
 Sun, 18 Oct 2026 12:50:33 +0000 — https://www.tomshardware.com/video-games/pc-gaming/chip-fab-engineering-game-goes-viral-in-taiwan-realistic-and-stressful-simulation-is-basically-a-horror-game-say-some-players
 
 A new 3D web game where you live "A Day in the Life of a Semiconductor Wafer Factory Worker" has gone viral in Taiwan, where it was developed. Available in Chinese, English, and Japanese, Fab24hr is a work simulator where you play one of several semiconductor engineer roles in a blocky isometric 3D factory. Though the graphics might look basic, Taiwan’s TVBS news says that the game is so realistic that it resonates with fab workers but not always in a good way – some have likened it to "a horror game" or "prison" [machine translation]. Fab24hr Fab24hr Fab24hr Fab24hr Fab24hr If you head over to the Fab24hr site, the game UI loads pretty quickly and you are asked to input a character name and ‘Clock in.’ Then two game modes are presented. You can play the main story, dubbed ‘The life of a chip’ where you character works through 12 chapters shepherding a hearing-aid chip from the R&D line into the hands of an end user. In this mode your blocky fab worker character will simulate dealing with equipment failures, process anomalies, and production progress emergencies. You might also have to file reports about operational errors. Apparently there are three endings to this 12-chapter game, depending on your progress and decisions. Another game mode is called ‘A day in the fab.’ Here you pick a factory location and role. For example, you can choose to be a Process Engineer. Your day started with the ETCH-03 semiconductor tool breaking, and “everyone is waiting for you to say what tim
@@ -145,21 +150,6 @@ More than 300 local data center construction moratoriums haven’t had a massive
 Sun, 18 Oct 2026 11:25:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model
 
 Anthropic is quietly lobbying for an AI safety bill that will allow the government to block an AI model’s release only if it poses a risk of causing $1 billion in damages or killing or injuring more than 50 people. According to Politico , an independent third party registered with the Department of Commerce would periodically evaluate the lab and its AI models. It also noted that the lab may pay the evaluators, but only if the payment does not affect their independence. “This bill represents the proposals outlined in Anthropic’s Advanced AI Framework, which we have been advocating for with federal and state lawmakers since June,” an Anthropic spokesperson told the publication. “These are sensible policies we believe Congress should act on.” The bill says the risk should come from the potential creation or release of a bioweapon, AI-powered or -enabled cyberattacks, or an AI lab losing control of an AI model or agents. If there is a chance that any of these events are about to happen, it requires the evaluator to report it to the department within 72 hours, after which the department would have to bring all the evidence in front of a federal judge in the District Court for the District of Columbia, who would then determine if the model release should be halted or not. However, the proposed law also notes that no other department, agency, or officer in the U.S. can order an AI lab to stop releasing its model, except the Commerce Department. Talk about AI safety has been growing
-
-### Researchers train AI to detect concealed handguns using Wi-Fi signals
-Sun, 18 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-train-ai-to-detect-concealed-handguns-using-wi-fi-signals-open-source-wifirenet-achieves-precision-detection-on-older-802-11a-standard-by-analyzing-how-weapons-distort-wireless-signals
-
-A group of AI researchers at the Swedish Defense Research Agency (FOI) has developed an AI system that can identify concealed handguns using Wi-Fi signals, offering a non-intrusive alternative to visible cameras and cumbersome metal detectors. Detailed in a paper posted on arXiv Wi-Fi on October 13, the system, called WiFireNet, analyzes channel state information from how an object distorts ambient Wi-Fi signals. The full system comprises a Wi-Fi transmitter, a Wi-Fi receiver, and the WiFireNet AI. When ordinary Wi-Fi signals encounter an object in their path, they penetrate and bounce off in ways specific to that object, based on its shape, orientation, and material. This data, the channel state information, can be analyzed to identify the object with high accuracy. Security researchers previously disclosed a technique that lets ordinary Wi-Fi routers identify people with 99.5% accuracy . To build the WiFireNet system, the researchers first created a dataset, dubbed the WiFire Dataset, by simultaneously recording RGB footage and the reflected Wi-Fi signals of people walking around with objects ranging from phones to handguns. The researchers then trained a deep learning model on the massive dataset, using video clips to match the visuals of a concealed handgun with its specific Wi-Fi signature, or channel state information. To ensure the system could specifically distinguish a handgun from everyday items of similar shape or material, the researchers trained it on recordings 
-
-### DJI’s first battery-swapping dock gets drones recharged and back in the air in under 45 seconds
-Sun, 18 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/drones/djis-first-battery-swapping-dock-gets-drones-recharged-and-back-in-the-air-in-under-45-seconds-but-dock-4-has-no-fcc-clearance-for-u-s-sale
-
-DJI has delivered a battery-swapping drone dock, the Dock 4, with an automated 25-second swap this week, according to a company press release . The dock bypasses the normal recharging process, which would take about 30 minutes, and DJI promises a turnaround of under 45 seconds from landing to takeoff. The drone-in-a-box solution is the first of its type by the company, although not in the industry, and is aimed at applications like emergency response but is not FCC-authorized or for sale in the U.S. The company emphasizes the safety angle, pitching the Dock 4 as a “dock-as-a-first-responder (DFR)” solution. Its product page calls it “Always There, Always Ready.” Swapping the battery takes less than half a minute, and the drone is back in the air within 45 seconds of landing. The dock also charges two 925 g battery packs, rated at 260 Wh for 400 cycles, at once, estimated to take 27 minutes to get each from 15% to 95%. (Image credit: DJI) The packs also double as backup power, rated at about 4.5 hours each, in sequence. Additionally, with at least two packs loaded, the dock is able to continue swapping even when grid power is lost, although backup power doesn’t charge the packs. This configuration should enable a drone to handle back-to-back calls even in less-than-ideal circumstances. The new dock, 66 kg bare, also has the same 400 x 400 mm mounting holes as the Dock 3, but it only works with the Matrice 5TD drone and requires the DJI O4 Ground Station. The Matrice 5TD drone 
-
-### Flock camera locations revealed on MapQuest’s new Surveillance Layer
-Sun, 18 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/software/maps/flock-camera-locations-revealed-on-mapquests-new-surveillance-layer-users-can-now-see-placement-and-direction-of-known-license-plate-readers-from-multiple-companies
-
-MapQuest, a long-time online mapping and navigation service that predates Google Maps, just released an app update that added a new Surveillance Layer. The company said on Bluesky that it plots the locations of known license plate readers on the map and that it covers devices from Flock, as well as other companies like Motorola Solutions (Vigilant), Genetec, Axis Communications, Axon, Leonardo (ELSAG), Neology, Rekor, PlateSmart, Ubicquia, Verkada, and other brands. The Roads Have Eyes! 👁️Turn on the Surveillance Layer in Map Options to see known license plate readers from Flock Safety, Motorola Solutions (Vigilant), Genetec, Axis Communications, Axon, Leonardo (ELSAG), Neology, Rekor, PlateSmart, Ubicquia, Verkada, and other outdoor surveillance cameras. — @mapquest.com ( @mapquest.com.bsky.social ) 2026-10-18T02:31:11.890Z It’s unclear how the app developers found all this data, but it is similar to the Flock Surveillance Map that one security researcher built using Flock’s own data. Beyond showing each camera's location, it also indicates the direction it faces, allowing anyone who doesn't want to be captured by an automatic license plate recognition (ALPR) system to avoid known cameras, if possible. While cities and police forces argue that systems like these help keep people safe by making it easier to track potential criminals, many people say that they’re a massive invasion of privacy, citing multiple incidents of police officers abusing the system and administrative 
 
 ## Phoronix
 
@@ -265,89 +255,79 @@ Fri, 16 Oct 2026 22:00:42 +0200 — https://www.theregister.com/ai-and-ml/2026/1
 
 Businesses using Facebook commercially may want to think twice about what information they share online. At the end of the month, Meta plans to introduce terms that would authorize it to collect content from websites associated with its business customers and use it to train AI models or otherwise improve its products. The ad biz has revised its commercial terms of service, and the new contractual language takes effect on October 30, 2026. There are at least a million businesses using the company's AI agents in WhatsApp and Messenger, to say nothing of other services like Instagram, Facebook, its widely used advertising service, or its less widely used business suite. As noted by Nieman Lab, almost every news publisher has at least one Meta business account. Meta defines business customers as those "using ads or marketing messages, selling or listing products, developing apps, creating or using a product catalog, managing a Page, managing a Group for business purposes, using any business product, such as Ads Manager or Meta Business Suite." The added language grants Meta the right to use automated software with created credentials to scrape customer content and use it for the enhancement of its products, including AI models. You authorize us (or any entity acting on our behalf) to use automated software (such as web scrapers, bots, robots, spiders, crawlers, and user agents) and create test credentials to access, index, cache, analyze, collect, retrieve, or crawl the domains,
 
-### Ubuntu Stonking Stingray swims into spotlight with pre-release kernel
-Fri, 16 Oct 2026 18:27:59 +0200 — https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580
-
-The latest interim release of Ubuntu is here, complete with kernel 7.3 – even though it isn't officially out yet. It also includes a new speech-to-text system that is intriguing but not fully useful. Ubuntu 26.10 "Stonking Stingray" arrived on time. This is just a couple of weeks after the beta version that we looked at earlier this month, suggesting that the team didn’t encounter any show-stopper bugs. The faster kernel release cycle that Canonical adopted in 2024 has slightly bitten them this time around: the Linux kernel’s new faster AI-boosted release cycle means that 7.2 is relatively old now, but 7.3 isn’t quite ready yet; at the time of writing, it’s on Release Candidate 7 – but Canonical has jumped the gun and used it anyway. So, the release version of Ubuntu 26.10 comes with a pre-release kernel, and machines will get updated to the completed 7.3 as soon as it’s available. We tried the default GNOME edition, with GNOME 51. It looks identical to the beta version. The most visible difference in this release is in the window-tiling assistant, which now displays a Windows-like transient pop-up box offering various tiled arrangements when you drag a window to the edge of the screen. The Myna speech-to-text tool, whose announcement we covered back in June, is now available – albeit as a technology preview. We tested the beta on an old ThinkPad, and while the pre-release OS ran perfectly, Myna didn't work. (Incidentally, after switching to a non-GPU LLM, it does work in the
-
-### New online tool will check lawyers' sloppy AI-written briefs since they can't seem to be bothered
-Fri, 16 Oct 2026 18:08:35 +0200 — https://www.theregister.com/ai-and-ml/2026/10/16/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs-since-they-cant-seem-to-be-bothered/5303589
-
-For lawyers who love to use AI to write legal briefs, there's just one problem: bots hallucinate and make things up. Fortunately, a new tool, CiteProof, promises to crawl over briefs and filings for fabricated case citations and misquoted court opinions before they result in sanctions, fines, or just plain embarrassing dressing downs from a judge. This is hardly a new problem, with lawyers relying on AI to do their work for several years with predictably horrible results. Even if GPT-4 was capable of passing a bar exam in 2023, that doesn’t mean it wasn’t hallucinating case law. OpenAI models aren’t alone in getting lawyers in trouble, either - Claude was actually thrown under the bus by Anthropic’s own lawyers last year when defending the company from a music publishing copyright lawsuit. A declaration in the case from an Anthropic data scientist contained a pair of Claude-formatted citations that pointed to improper records, and lawyers didn’t catch it in review. The lawyers blamed Claude for the issue. Stories of AI hallucinations winding up in legal briefs are everywhere nowadays, and have had serious consequences beyond professional rebukes: A Georgia court decision was even vacated last year after a court order was found to contain fictional citations. In short, AI and the legal world, which demands precision and accuracy, don’t always mix, so a fact checker that can do a better job than apparently absent-minded human reviewers is needed. CiteProof wants to be that fact
-
-### Networking problems after the October 2026 Windows update? NTLM might be to blame
-Fri, 16 Oct 2026 17:30:00 +0200 — https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503
-
-The October 2026 Windows security update may break networking for some customers who are still clinging to long-deprecated NTLMv1 security. A seemingly minor change in the update could have major implications for administrators and enterprises that haven't fully moved away from the legacy technology. Before the October 2026 update, Windows permitted NTLMv1-derived credentials for Single Sign-On and generated warning events. After the update, requests to use NTLMv1-derived credentials are blocked. It comes down to the BlockNtlmSSO registry value. If it hasn't been set, Windows will now use Enforce mode (1) instead of Audit mode (0), thus blocking requests and potentially impacting Wi-Fi, Ethernet, and VPN authentication, and therefore connections. The update does not set the value of BlockNtlmSSO, and administrators can set it to 0 to temporarily allow NTLMv1-derived Single Sign-On credentials. However, Microsoft noted, "Using Audit mode reduces the protection provided by Enforce mode and should only be considered as a scoped, temporary security exception." To be clear, this is not a bug and is by design. The addition of NTLM to the deprecation list occurred in 2024, and Microsoft added audit logs for NTLMv1 usage in late August 2025. The Windows giant has made no secret of its desire to ditch the legacy technology, stating in 2023, "Our end goal is eliminating the need to use NTLM at all." The problem is NTLM's longevity. It appeared in 1993 with Windows NT 3.1, and removing 
-
-### NTT Global Data Centers weighs the price tag of not building fast enough
-Fri, 16 Oct 2026 17:00:00 +0200 — https://www.theregister.com/ai-and-ml/2026/10/16/sponsored-global-data-centers-weighs-the-price-tag-of-not-building-fast-enough/5303402
-
-The next 200-megawatt data center permitted in your county probably won't look like the buildings you remember from a decade ago. It will occupy the footprint of two or three football fields and draw more power than most nearby industrial parks combined. It will also likely trigger a town hall meeting before the first pad is poured. That collision between AI-driven demand and physical reality is what NTT Global Data Centers set out to quantify in its new AI Stress Test Report. The report models three growth trajectories through 2030 and stress-tests each against the constraints operators hit, such as land availability, water consumption, specialized labor and more. The middle (baseline) scenario projects annual demand growth of about 23 percent, which pencils out to roughly $3.8 trillion of additional investment in digital infrastructure. Ramp to the accelerated case and the figure climbs to $5.7 trillion. Bruno Berti, CTO at NTT Global Data Centers, notes that he has watched the size envelope stretch beyond recognition. "We used to build ten-megawatt buildings, smaller buildings, to support some of these applications," says Berti. "But now we're building buildings that are hundreds of megawatts, double the size, sizes of two, maybe sometimes three football fields." Why permitting became the choke point Ask most operators what will bottleneck AI infrastructure and you'll hear GPUs, transformers, switchgear. NTT Global Data Centers’ stress test suggests something more mundane:
-
 ## Engadget
+
+### What is the star button for on your Roku remote?
+Sun, 18 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2286582/roku-remote-star-button-what-for/
+
+While the Roku remote doesn't have confusing colors or weird symbols, the star button can confuse some folks at first.
+
+### Here's how the Slate truck gets software updates without built-in infotainment
+Sun, 18 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/
+
+Basically, it's on you.
+
+### From the Royole FlexPai to the iPhone Duo: How the modern foldable phone has evolved
+Sun, 18 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/
+
+Apple's iPhone Duo likely forecasts a shift in the market toward foldables becoming more common. But it took a while to get here.
+
+### Should you limit your FPS in games? Here's when it makes sense
+Sun, 18 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2286478/limit-frames-per-second-gaming-when-makes-sense/
+
+While it's natural to want to get as many fps from your rig as possible, there are reasons to limit frame output from your GPU.
+
+### TikTok reportedly bans ads for Musk documentary before its wider US release
+Sun, 18 Oct 2026 16:42:15 +0000 — https://www.engadget.com/2289782/tiktok-reportedly-bans-ads-for-musk-documentary-before-its-wider-us-release/
+
+The platform attributed the decision to "political content that goes against its policy."
+
+### How to fix scaling and app size issues on your Samsung Galaxy Z Fold 8
+Sun, 18 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/
+
+If you have trouble getting apps to scale properly on your foldable, read on.
+
+### Flat Ethernet cables probably aren't the answer to your home networking problem
+Sun, 18 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2286349/flat-ethernet-cable-not-answer-home-networking-issues/
+
+For the most reliable performance, round Ethernet cables are generally superior.
+
+### The reason why your drive shows less storage than you paid for
+Sun, 18 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2286322/why-new-drive-shows-less-storage/
+
+Despite showing the storage amount on the box or the spec sheet, your new device might not actually hold as much as it states. Here are the reasons why.
+
+### iOS 27's new CarPlay features are great, but only these iPhones can actually use them
+Sun, 18 Oct 2026 14:45:00 +0000 — https://www.engadget.com/2286246/ios-27-carplay-features-not-available-older-iphones/
+
+With the release of iOS 27, car owners with CarPlay support can enjoy lots of cool new features. However, not all iPhone models are able to support them all.
+
+### The reason your Amazon Alexa devices are always listening
+Sun, 18 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2285849/reason-amazon-alexa-devices-always-listening/
+
+Alexa devices have microphones that are always listening, but what does Amazon do with that data? It's up to you.
+
+### These 6 retro sites let you relive the glory days of 2000s Flash games
+Sun, 18 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2285729/where-to-play-2000s-retro-flash-games/
+
+Flash hasn't been around for over half a decade, but thanks to archivists, you can still enjoy this era of the internet.
 
 ### Your smart TV has one big problem: It's tracking what you watch
 Sun, 18 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2285490/one-problem-smart-tv-tracking-what-you-watch/
 
 If you don't want your TV manufacturer to know everything you watch, here's what to do about it.
 
-### How to use your Windows PC to make and receive phone calls
-Sun, 18 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2285327/how-to-use-windows-pc-make-receive-phone-calls/
-
-Windows 11 can connect to your phone to make calls, letting you manage them in one place instead of picking up your phone.
-
-### Why it's important to avoid plugging in a damaged external hard drive
-Sun, 18 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2285211/why-its-important-to-avoid-plugging-in-damaged-hard-drive/
-
-External hard drives are sensitive, and what seems like a minor drop can cause major damage that should be checked by a professional.
-
-### Why are internet upload speeds so much slower than download speeds?
-Sun, 18 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2285208/why-internet-upload-speeds-slower-download-comparison/
-
-Uploading data tends to be much slower than downloading, and it turns out there's a very good explanation for it.
-
-### Why you might not want to join two Ethernet cables (and what you should do instead)
-Sun, 18 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2285141/ethernet-cables-why-not-join-two-what-do-instead/
-
-Joining two Ethernet cables together with a coupler is rare, but when your cords are suddenly too short, there are better options to extend your network.
-
-### You don't have to turn off your phone to switch SIM cards (but you probably should)
-Sun, 18 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2285099/why-turn-off-phone-remove-sim-card-explained/
-
-Swapping SIM cards isn't something you'll do all the time, but when it does come up, you should do it carefully.
-
-### What to check if your Nintendo Switch 2 isn't connecting to the TV
-Sun, 18 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2285088/nintendo-switch-2-not-connecting-to-tv-what-check/
-
-Your Nintendo Switch 2 is made to project its display to a TV. If it's not working, there are some things you should check.
-
-### OpenAI is building a humanoid robot, but the body isn't the real challenge
-Sat, 17 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/
-
-OpenAI CEO Sam Altman wants a humanoid that can operate in a world designed for people, though the CEO says a robot 'brain' is a much bigger challenge.
-
-### These Samsung Galaxy tablets are in their last year of software support
-Sat, 17 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2284679/samsung-galaxy-tablets-last-year-software-support/
-
-Samsung's latest software update commitment for its tablets is great, but older devices can't take advantage of it.
-
-### Why your Wi-Fi speeds can drop in the evening, and what to do about it
-Sat, 17 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2284612/wifi-speeds-drop-evening-reason-why/
-
-Everyone getting online at the same time can slam the network, but working around these slowdowns is possible with a few tricks.
-
-### How to keep your smart home running even if the internet goes down
-Sat, 17 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2284525/how-to-keep-smart-home-running-internet-goes-down/
-
-Smart home products most often harness Wi-Fi to function. But what can you do if you lose internet frequently?
-
-### Why it's important to monitor your PC's background processes
-Sat, 17 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2284465/why-its-important-to-monitor-pc-background-processes/
-
-What your PC is doing in the background doesn't need to be a mystery. Learn about what's happening and how to spot when something looks wrong.
-
 ## TechCrunch
+
+### Disney agrees to hire the majority of Character.AI’s workforce
+Sun, 18 Oct 2026 16:30:00 +0000 — https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/
+
+After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said that Disney had agreed to acquire some of its assets for $20 million. A legal [ ]
+
+### TechCrunch Mobility: Rivian s next act
+Sun, 18 Oct 2026 16:05:00 +0000 — https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 ### Meta removes language that raised scraping and AI training concerns
 Sat, 17 Oct 2026 21:31:32 +0000 — https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/
@@ -383,29 +363,4 @@ Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE
 Fri, 16 Oct 2026 19:40:00 +0000 — https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/
 
 The 2026 Porsche Macan Turbo EV is a two-row crossover with 630 horsepower and a 100-kilowatt-hour battery.
-
-### India becomes the latest country to report rogue AI agent activity
-Fri, 16 Oct 2026 17:52:24 +0000 — https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/
-
-The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.
-
-### An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
-Fri, 16 Oct 2026 16:30:00 +0000 — https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/
-
-Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs counter to those who believe that robotics, powered by a general foundation model, is about to have [ ]
-
-### Waymo s robotaxis are headed to Canada
-Fri, 16 Oct 2026 16:06:38 +0000 — https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/
-
-The company will start off by testing its self-driving vehicles on Toronto's streets.
-
-### Elorian’s first AI model wants to reason with images, not just about them
-Fri, 16 Oct 2026 16:01:37 +0000 — https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/
-
-According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.
-
-### Tressfecta wants to make hair braiding a less arduous task for hairstylists
-Fri, 16 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/
-
-Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.
 
