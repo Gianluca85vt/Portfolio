@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-18T09:04:33.281Z
+# Source feeds — harvested 2026-10-18T14:09:21.934Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,7 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
-- GamesIndustry.biz — Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US
+- Polygon — America's Dominance in The Game Awards Is Officially Over
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -35,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Games](games.md) — 81 items
-- [Tech](tech.md) — 82 items
-- [3D](3d.md) — 10 items
+- [Games](games.md) — 69 items
+- [Tech](tech.md) — 79 items
+- [3D](3d.md) — 8 items
 - [AI](ai.md) — 1 items
-- [Manga](manga.md) — 23 items
+- [Manga](manga.md) — 22 items
 - [Film & TV](film-tv.md) — 64 items
 
-Total: 261 items.
+Total: 243 items.
 
 Feeds that did not answer: VentureBeat AI (HTTP 429).

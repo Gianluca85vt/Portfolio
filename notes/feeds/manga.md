@@ -1,6 +1,21 @@
-# Manga — harvested 2026-10-18T09:04:33.281Z
+# Manga — harvested 2026-10-18T14:09:21.934Z
 
 ## Anime News Network
+
+### Kokamumo's Null-Meta Manga Gets TV Anime in 2027
+Sun, 18 Oct 2026 08:07:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952
+
+<cite>Cyberpunk: Edgerunners 2's</cite> Kai Ikarashi directs anime based on slice-of-life comedy manga
+
+### Arc System Works Opens New Studio Takumi on November 2
+Sun, 18 Oct 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/arc-system-works-opens-new-studio-takumi-on-november-2/.242951
+
+New studio to work in new fighting game selected for Japanese government's "IP360" subsidy project
+
+### Kaiju Decode: The Ring of Aidara Anime Reveals Teaser Trailer, 2027 Debut
+Sun, 18 Oct 2026 05:00:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/kaiju-decode-the-ring-of-aidara-anime-reveals-teaser-trailer-2027-debut/.242953
+
+Anime's new teaser visual also revealed
 
 ### Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover, Aoashi Anime
 Sun, 18 Oct 2026 03:08:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948
@@ -47,26 +62,21 @@ Sat, 17 Oct 2026 03:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Game launches on January 15 for Xbox Series X|S, PlayStation 5, PC via Steam
 
-### Bleach: Thousand-Year Blood War - The Calamity Anime Streams 'Last' Promo Video
-Sat, 17 Oct 2026 02:51:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/bleach-thousand-year-blood-war-the-calamity-anime-streams-last-promo-video/.242935
-
-Episodes 49, 50 air on October 19, 26
-
-### OceanVeil to Add 19 Anime Titles from Media Blasters
-Sat, 17 Oct 2026 01:54:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934
-
-<cite>Magical Witch Punie-chan, CODE-E, EIken, Gakuen Heaven</cite>, more to stream on service
-
-### Comikey Adds Mato Kauta's The Wolf King's Bride Manga
-Sat, 17 Oct 2026 01:31:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/comikey-adds-mato-kauta-the-wolf-king-bride-manga/.242933
-
-Hakusensha serialized shōjo manga from 2009 to 2018
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Love Live! Hasunosora Anime Reveals Key Visual, Additional Voice Cast
+Sun, 18 Oct 2026 13:23:32 GMT — https://animecorner.me/love-live-hasunosora-anime-reveals-key-visual-additional-voice-cast/
+
+The previously announced Love Live! Hasunosora Girls’ High School Idol Club anime revealed a&hellip;
+
+### BLEACH: Thousand-Year Blood War Episode 49 Preview, Staff, and Synopsis Revealed
+Sun, 18 Oct 2026 11:08:03 GMT — https://animecorner.me/bleach-thousand-year-blood-war-episode-49-preview-staff-and-synopsis-revealed/
+
+BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episode 9 (Episode&hellip;
 
 ### Black Clover Season 2 Reveals Devil Union Asta Character Visual
 Sat, 17 Oct 2026 15:15:36 GMT — https://animecorner.me/black-clover-season-2-reveals-devil-union-asta-character-visual/
@@ -88,27 +98,12 @@ Fri, 16 Oct 2026 15:09:50 GMT — https://animecorner.me/happy-kanakos-killer-li
 
 Toshiya Wakabayashi’s Happy Kanako’s Killer Life is officially getting a TV anime adaptation in April 2027, as announced by TOHO animation.
 
-### Fall 2026 Anime Rankings – Week 2
-Fri, 16 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-2/
-
-Even the Student Council Has Its Holes! wins again in Fall 2026 Week 2, followed by Firefly Wedding and STEEL BALL RUN.
-
-### Love Live! Nijigasaki High School Idol Club Final Chapter Movie Reveals Trailer, February 5 2027 Premiere
-Fri, 16 Oct 2026 12:23:14 GMT — https://animecorner.me/love-live-nijigasaki-high-school-idol-club-final-chapter-movie-reveals-trailer-february-5-2027-premiere/
-
-The last part of the trilogy, Love Live! Nijigasaki High School Idol Club Final&hellip;
-
-### Bleach: Thousand-Year Blood War Reveals The Last Trailer Ahead of Final 2 New Episodes
-Fri, 16 Oct 2026 11:21:11 GMT — https://animecorner.me/bleach-thousand-year-blood-war-reveals-the-last-trailer-ahead-of-final-2-new-episodes/
-
-BLEACH: Thousand-Year Blood War has released a new 'the last' trailer ahead of the anime’s final two episodes coming soon.
-
-### Ave Mujica prima aurora Movie Reveals 2nd Trailer
-Fri, 16 Oct 2026 09:14:07 GMT — https://animecorner.me/ave-mujica-prima-aurora-movie-reveals-2nd-trailer/
-
-Ave Mujica prima aurora movie revealed its second trailer on Friday. The movie is&hellip;
-
 ## MyAnimeList News
+
+### Manga NullMeta Gets TV Anime in 2027
+Sun, 18 Oct 2026 05:21:03 -0700 — https://myanimelist.net/news/74833036?_location=rss
+
+Production company Aniplex opened an official website for a television anime adaptation of Kokamumo s NullMeta manga on Sunday, revealing the main staff, a teaser visual (pictured right), and a celebratory illustration (pictured above) drawn by the author. Animation studio Soigne, known for Kamiina Botan, Yoeru Sugata wa Yuri no Hana (Botan Kamiina Fully Blossoms When Drunk) and Mono, is producing the anime, set to premiere in 2027. Staff Director: Kai Ikarashi (Tengoku Daimakyou episode d...
 
 ### Manga Shiawase Kanako no Koroshiya Seikatsu Gets TV Anime in Spring 2027
 Fri, 16 Oct 2026 08:13:08 -0700 — https://myanimelist.net/news/74827326?_location=rss

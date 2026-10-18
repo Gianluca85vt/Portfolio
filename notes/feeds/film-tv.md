@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-10-18T09:04:33.281Z
+# Film & TV — harvested 2026-10-18T14:09:21.934Z
 
 ## Variety
+
+### NFL Introduces Celebrity Guest Cheerleaders: On the Sidelines With Comedian Atsuko Okatsuka and the L.A. Rams (EXCLUSIVE)
+Sun, 18 Oct 2026 13:15:00 +0000 — https://variety.com/2026/sports/news/nfl-celebrity-guest-cheerleaders-atsuko-okatsuka-la-rams-1236915556/
+
+It’s just before halftime of the Los Angeles Rams’ Monday Night Football matchup with the Buffalo Bills, and comedian Atsuko Okatsuka is standing in the tunnel, hyping herself up. In less than a minute, the comedian, actress and native Angeleno will strut onto the field at SoFi Stadium to perform with the Rams cheerleaders. Okatsuka [ ]
+
+### Sergei Loznitsa’s ‘Imperium’ Wins Best Film at BFI London Film Festival
+Sun, 18 Oct 2026 13:00:00 +0000 — https://variety.com/2026/film/festivals/sergei-loznitsa-imperium-best-film-london-film-festival-1236915621/
+
+Sergei Loznitsa’s “Imperium,” which revisits the Soviet Union of the early 1970s through footage shot by Italian cameramen, has won the best film award at the 70th BFI London Film Festival competition. The prizes were unveiled Sunday as the festival drew to a close. The competition jury was led by filmmaker Sam Pollard, whose credits [ ]
+
+### James Austin Johnson s Trump Stops by SNL U.K. for Meeting With Burnham and Zelenskyy: You Don t Have One Guy Who Can Play Trump?
+Sun, 18 Oct 2026 09:23:42 +0000 — https://variety.com/2026/tv/global/snl-uk-james-austin-johnson-trump-surprise-cold-open-1236915603/
+
+Donald Trump made his first appearance on SNL U.K., courtesy of SNL cast member James Austin Johnson. Saturday night s cold open recreated U.K. Prime Minister Andy Burnham (George Fouracres) meeting with Ukraine s President Zelenskyy (Freddie Meredith) to reaffirm Britain s support in their war with Russia. We need America to restore the Starlink internet. Without it, [ ]
 
 ### SNL U.K. Weekend Update Takes Jab at Shane Gillis: You Stupid F ing C ’
 Sun, 18 Oct 2026 08:45:26 +0000 — https://variety.com/2026/tv/global/snl-uk-shane-gillis-monologue-weekend-update-1236915579/
@@ -37,22 +52,17 @@ Sat, 17 Oct 2026 23:03:54 +0000 — https://variety.com/2026/shopping/news/new-y
 
 With the start of the NBA only a few days away, the hottest ticket in New York City is to the Knicks home opener at Madison Square Garden on Tuesday, Oct. 20. Since winning the NBA Finals against the San Antonio Spurs back in June, the Knicks have become the toast of New York with [ ]
 
-### Here s Where to Watch Sebastian Fundora vs. Ermal Hadribeaj Title Boxing Match Live Online for Free
-Sat, 17 Oct 2026 21:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-fundora-vs-hadribeaj-boxing-live-online-free-1236909640/
-
-This weekend, boxing promoters Premier Boxing Champions travels to Las Vegas for prime title bout between two world-class fighters. American southpaw Sebastian Fundora defends his WBC super welterweight championship belt against Albanian fighter Ermal Hadribeaj. The title bout is scheduled for 12 rounds. On Saturday, Oct. 17, Fundora (24-1-1) vs. Hadribeaj (23-0-1) takes place at [ ]
-
-### Paul Bettany Says He and Johnny Depp ‘Hadn’t Spoken’ in Years When Their Texts Were Read During Libel Trial: ‘I Was Being Painted As This Close Friend’
-Sat, 17 Oct 2026 20:48:39 +0000 — https://variety.com/2026/film/news/paul-bettany-johnny-depp-hadnt-spoken-in-years-libel-trial-1236915108/
-
-Paul Bettany opened up in a recent interview with The Times about the public’s misconception of his relationship with Johnny Depp after text messages between the two actors were used in court during Depp’s libel lawsuit against The Sun. “I hadn’t spoken to Johnny in years when that happened and I haven’t spoken to him [ ]
-
-### Klara and the Sun Review: There s No Life — Intelligent, Artificial or Otherwise — in Taika Waititi s Calamitous Android Fantasy
-Sat, 17 Oct 2026 20:45:01 +0000 — https://variety.com/2026/film/news/klara-and-the-sun-review-1236914992/
-
-Adapting a solemnly complex, questioning novel as a cockeyed child s-eye comedy worked once before for Taika Waititi — which is to say that Jojo Rabbit, his crass, mawkish anti-hate satire about a Hitler Youth member s personal and political awakening, won him an Oscar and grossed nearly $100 million, in spite of its manifold artistic and [ ]
-
 ## The Hollywood Reporter
+
+### Imperium, Concrete Land and 9 Temples to Heaven Win BFI London Film Festival Awards
+Sun, 18 Oct 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/bfi-lff-2026-awards-winners-imperium-concrete-land-1236734344/
+
+'Aman' was honored in the short film competition, while LFF special mentions went to 'Queer Edward II,' 'MASC' and 'Daughters of the Late Colonel'
+
+### What Belongs to Others Wins Top Warsaw Film Festival Award
+Sun, 18 Oct 2026 09:10:02 +0000 — https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-2026-awards-winners-what-belongs-to-others-1236734712/
+
+Cai Chengjie was named best director for 'Suzhou Quartet,' while 'Agia' was honored with the Competition 1-2 award at the 42nd edition of the Polish festival.
 
 ### South Africa s Oscar Entry Variations on a Theme Was Written With Microsoft Excel
 Sun, 18 Oct 2026 07:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/oscars-2027-south-africa-film-variations-on-a-theme-excel-1236734314/
@@ -94,17 +104,17 @@ Sat, 17 Oct 2026 19:41:21 +0000 — https://www.hollywoodreporter.com/news/gener
 
 “I’m truly overwhelmed by the outpouring of love, support, prayers, and well wishes I’ve received over the past couple of weeks," wrote Scott Thompson, who will be back on stage at Luxor Las Vegas Oct. 19.
 
-### Val Chmerkovskiy Ousted From Next DWTS Episode Amid Will Smith Oscars Slap Reference, Jenna Dewan to Dance With Alan Bersten
-Sat, 17 Oct 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/val-booted-dwts-will-smith-oscars-slap-jenna-dewan-alan-bersten-1236734379/
-
-“The well-being of everyone who works on 'Dancing With the Stars' is non-negotiable. Val’s social media post was inappropriate and does not reflect the values or standards expected of anyone connected with the show. As a result, he will not participate in next week’s show," BBC Studios said in a statement.
-
-### 9-1-1: Nashville Pays Tribute to Chad Lowe s Daughter Fiona After Her Death at 13
-Sat, 17 Oct 2026 18:51:27 +0000 — https://www.hollywoodreporter.com/tv/tv-news/9-1-1-nashville-tribute-chad-lowe-daughter-death-1236734354/
-
-The ABC drama honored Fiona Lowe, the executive producer and director's daughter, with an onscreen tribute at the end of its season two premiere.
-
 ## Deadline
+
+### London Film Festival: Sergei Loznitsa’s ‘Imperium’ Sompot Chidgasornpongse’s ‘9 Temples To Heaven’ Among Big Winners — Full List
+Sun, 18 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/london-film-festival-award-winners-2026-1237166918/
+
+Ukrainian filmmaker Sergei Loznitsa’s latest feature Imperium has won the Best Film Award in the Official Competition at this year’s London Film Festival. The winners were announced this afternoon, the last day of the LFF. The LFF Official Competition jury was led by documentary filmmaker Sam Pollard. Discussing why they chose Imperium, the jury described [ ]
+
+### El Gouna Unveils Third Cohort Of CineGouna Emerge Program s Rising Stars
+Sun, 18 Oct 2026 12:01:00 +0000 — https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/
+
+EXCLUSIVE: Egypt’s El Gouna Film Festival has announced the third cohort of emerging talents from across the Arab world selected for its Rising Stars program. They are Egyptian director Abdallah Dnewar, Saudi Arabian writer-director Razan AlSoghayer, Palestinian filmmaker Omar Rammal, Palestinian Jordanian director-producer Asmahan Bkerat and Syrian DoP, editor and director Rama Abdi. Launched in [ ]
 
 ### James McAvoy Pitched Star Trek Series About Young Picard, Jokes All I Really Want To Do Is Play Young Patrick Stewart
 Sun, 18 Oct 2026 00:29:09 +0000 — https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/
@@ -156,21 +166,16 @@ Sat, 17 Oct 2026 16:08:58 +0000 — https://deadline.com/2026/10/benjamin-satter
 
 Champion professional wrestler Benjamin Satterley died last month at 40 of bronchial asthma, Chicago s Cook County Medical Examiner’s Office has determined. The death was classified as natural. The cause of death was first reported by The New York Post and has been confirmed by other media outlets. Satterley, who over the years wrestled for AEW [ ]
 
-### Street Fighter Socks $31M, You Can See Everything Has Lines Around The Block With $12M+ Docu Milestone Saturday Update
-Sat, 17 Oct 2026 15:01:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
-
-SATURDAY AM: It s a healthy third weekend at the October box office even with a bellyflop in 20th Century Studio s $60M Whalefall in the mix which is only swallowing a $7.5M opening. Paramount/Legendary/Capcom s Street Fighter is doing what it s supposed to do with a $31M start, largely pulling in an older dude demo over 35 [ ]
-
-### Michael Forest Dies: Actor In Roger Corman B-Movies, Star Trek s Apollo Was 97
-Sat, 17 Oct 2026 13:42:52 +0000 — https://deadline.com/2026/10/michael-forest-dead-1237166329/
-
-Michael Forest, a prolific and longtime character actor who appeared in the B movies of Roger Corman, lent his voice to numerous anime projects and guest starred in scores of TV series from The Adventures of Rin Tin Tin, The Twilight Zone and The Dick Van Dyke Show to Silk Stalkings, daytime soaps and a [ ]
-
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### You Can See Everything Opens to a Staggering $15 Million, Securing A24 s Place as Hollywood s Hottest Brand
+Sun, 18 Oct 2026 13:47:28 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-openning-a24-hollywoods-hottest-brand-1235222446/
+
+Audiences rushed to theaters as Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary arrived shrouded in secrecy.
 
 ### Dirty Dancing Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby s Next Chapter
 Sun, 18 Oct 2026 01:29:20 +0000 — https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/
@@ -227,11 +232,6 @@ Fri, 16 Oct 2026 15:45:00 +0000 — https://www.indiewire.com/news/festivals/202
 
 Regional festivals, like the just-opened Middleburg Film Festival, attract top awards contenders — and the pundits who cover them.
 
-### You Can See Everything, A24 s Elizabeth Holmes Documentary, Scores an Impressive $1.75 Million in Thursday Previews
-Fri, 16 Oct 2026 15:04:29 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-a24-elizabeth-holmes-previews-gross-1235222385/
-
-Nathan Fielder and Lance Oppeheim's look at the Theranos founder appears to be resonating with audiences as it looks at a $7 million to $8 million opening.
-
 ## The Wrap
 
 ### Jaime Pressly Calls ‘Mom’ Co-Stars an ‘Incredible Cast of Women’ After Chuck Lorre’s Anna Faris Comments
@@ -286,53 +286,53 @@ Just when you thought it was safe to be a promiscuous camp counselor at a ramsha
 
 ## Collider
 
-### Prime Video’s New Sci-Fi-Inspired Rom-Com Is Officially No. 1 on Streaming
-Sun, 18 Oct 2026 09:00:15 GMT — https://collider.com/the-love-hypothesis-streaming-hit-prime-video-october-2026/
+### Steven Spielberg’s New Sci-Fi Epic Is Officially Still the #1 Movie on Peacock
+Sun, 18 Oct 2026 14:01:14 GMT — https://collider.com/steven-spielberg-disclosure-day-peacock-top-movie-october-2026/
 
-Lovers of romance on TV should be subscribers to Prime Video. The streamer has made a name for itself as the home of some of the best modern romance stories, especially those that originated as novels. This includes an indulgent adaptation of Elle Kennedy's Off Campus books, Carley Fortune's Every Summer After , and, of course, an adaptation of the Jenny Han trilogy The Summer I Turned Pretty , which is one of the most popular Prime Video shows of all time.
+It has been suggested in the past that Christopher Nolan expects no friendly fire before and after the release of his movies. These details emerged when Nolan famously severed ties with Warner Bros. and signed a deal with Universal to release Oppenheimer . The partnership began with a bang, as Oppenheimer wildly exceeded box-office projections and earned the coveted Best Picture honor at the Oscars. It also won Nolan his first-ever Best Director Academy Award. Unsurprisingly, he stuck with Universal for the release of The Odyssey , which has emerged as his highest-grossing film, with nearly $1.8 billion worldwide. However, Universal released another summer tentpole directed by an A-lister just six weeks before The Odyssey . The movie in question didn't live up to expectations, and ultimately wasn't a factor when The Odyssey debuted in mid-July.
 
-### Before ‘Superman,’ James Gunn Made a Gritty Sci-Fi Thriller That's Officially Leaving Streaming
-Sun, 18 Oct 2026 08:40:15 GMT — https://collider.com/james-gunn-horror-brightburn-leaving-peacock-november-2026/
+### 8 Fantasy Movies That Give The Lord of the Rings a Run for Its Money
+Sun, 18 Oct 2026 13:56:15 GMT — https://collider.com/fantasy-movies-rival-the-lord-of-the-rings/
 
-Before he took over DC Studios as the co-CEO and directed a Superman reboot that espoused kindness and humanity, James Gunn produced a dark take on the character's mythos. The movie embodied every cynical idea that one could have about Superman. Instead of portraying the archetype as a beacon of hope, the movie depicted him as a Carrie White-like figure who becomes violent because of childhood alienation and bullying. The movie was released to mixed reviews and mediocre box-office reception in 2019, serving as a bridge between Zack Snyder 's divisive Man of Steel and Gunn's own colorful Superman . It's now streaming on Peacock, but only for a little while longer.
+There's no way around it: Peter Jackson 's Lord of the Rings trilogy consists of what may very likely be the three greatest fantasy movies in the history of cinema. That is not, however, a universally accepted fact. Though it's undeniable that it's the most universally praised fantasy movie trilogy in film history, there are a few particularly exceptional movies from the same genre which very reasonably give Jackson's adaptation of J. R. R. Tolkien 's legendary novel a run for its money.
 
-### ‘The Purge’ Is Officially Returning in 2027 With a New Nightmare
-Sun, 18 Oct 2026 08:20:14 GMT — https://collider.com/the-purge-new-comic-2027-blumhouse-idw-dark/
+### Chris Pratt’s ‘Reacher’ Replacement Officially Returns After 4-Year Wait
+Sun, 18 Oct 2026 13:16:15 GMT — https://collider.com/the-terminal-list-chris-pratt-prime-video-release-date-october-2026/
 
-The first The Purge movie kept its nightmare inside a wealthy family’s home. Ethan Hawke and Lena Headey played parents whose expensive security system was supposed to protect them during America’s annual night of legalized crime, until helping someone outside made their house a target. The sequels opened the doors and showed just how much worse things could get for people who couldn’t afford that protection.
+It's been an eventful few weeks for fans of streaming potboilers, with the third season of Lioness and the fourth season of Reacher having been released back-to-back. There was also Neagley , the long-awaited Reacher spin-off that premiered to excellent reviews and terrific viewership in September. And this past week saw the return of heavy hitters such as Tulsa King and The Diplomat . The streak will continue in a few days, when Prime Video welcomes back one of its hottest hits — a show that has been off the air for a Larry David -period of time. The series originally premiered in 2022, the same year as Reacher . But while Reacher has already concluded four full seasons, the companion piece has yet to deliver its sophomore season.
 
-### Ridley Scott’s 131-Minute Horror Sequel Is Officially Leaving Streaming
-Sun, 18 Oct 2026 08:00:15 GMT — https://collider.com/ridley-scott-horror-hannibal-leaving-peacock-november-2026/
+### ‘The Diplomat’s Season 4 Finale Made This Star Throw His Script Across the Room (Again)
+Sun, 18 Oct 2026 13:13:14 GMT — https://collider.com/the-diplomat-season-4-finale-cliffhanger-ato-essandoh-ali-ahn/
 
-A sequel that seemed too transgressive for the director of one of the most thematically gruesome movies ever made was a cakewalk for Ridley Scott . The filmmaker was working on Gladiator when a producer pitched him the project, and he immediately signed on, as did the Oscar-winning star of the original. However, one key member of the original's cast refused to return, and her role was recast. The movie was ultimately deemed inferior to the original, but it was a major box-office hit. It's now streaming on Peacock in the United States, but not for much longer.
+Editor’s note: This interview contains spoilers for The Diplomat Season 4.
 
-### 5 Netflix Thriller Shows Where Every Episode Is a Masterpiece
-Sun, 18 Oct 2026 03:22:15 GMT — https://collider.com/netflix-thriller-shows-every-episode-masterpiece/
+### HBO Max Officially Says Goodbye to Matt Damon's Best Picture-Winning Crime Masterpiece
+Sun, 18 Oct 2026 12:46:15 GMT — https://collider.com/matt-damon-the-departed-leaving-hbo-max-november-2026/
 
-The best thriller shows aren't necessarily the ones with the most plot twists, but the ones that continue to linger in audiences' minds even after they stop watching. Netflix is a powerhouse of original shows, and thrillers happen to be one of the platform's fortes . Whether it's an action thriller or a crime thriller, Netflix's assortment of shows has not only been the talk of fans but has also earned prestigious awards, including Emmys and SAG Awards .
+Having starred in the biggest movie of his career this past summer, Matt Damon has set an incredibly high benchmark for himself. Damon has continued to level up in each of the four decades of his professional career, starting with Good Will Hunting , continuing with the Jason Bourne trilogy and The Martian , and most recently, delivering the record-breaking blockbuster The Odyssey . Directed by Christopher Nolan , the epic historical fantasy film shattered all expectations to gross more than $1.7 billion worldwide. It's a shoo-in for Oscars consideration, and a major contender for a Best Picture nomination. Damon, of course, has starred in a Best Picture winner more than once. In 2023, he played a pivotal role in Nolan's Oppenheimer . Now, one of his most acclaimed movies is about to be removed from its streaming home, leaving audiences with not much time to check it out.
 
-### 13 Years Later, Prime Video’s Twisty Mystery Thriller Hits Harder Than Ever
-Sun, 18 Oct 2026 03:07:14 GMT — https://collider.com/prime-video-now-you-see-me-mystery-thriller/
+### Ridley Scott's Spy Thriller Is Officially a 75-Day Streaming Sensation
+Sun, 18 Oct 2026 12:30:15 GMT — https://collider.com/ridley-scott-prime-target-apple-tv-streaming-success-75-days-october-2026/
 
-A good mystery has three core components. There's the hook: a murder that takes place on a speeding train, or a group of strangers trapped in a house by someone willing to pick them off one by one. Then there are the twists: the obvious suspect ends up dead, or someone previously labeled innocent comes under suspicion. And then there's the reveal, which pulls all the pieces together. Some great mystery movies have come out in the last few years , particularly Rian Johnson 's Knives Out trilogy, but one takes things to the next level .
+2026 hasn’t exactly been a benchmark year for Ridley Scott , but one show you didn’t realize he was attached to is proving its staying power on streaming charts. After almost 10 years away from the world of sci-fi, Ridley Scott officially returned to the genre earlier this year for the premiere of The Dog Stars — it had been since 2017’s Alien: Covenant since Scott last directed a sci-fi movie. However, The Dog Stars didn’t even manage to eke out $30 million at the box office, and it left theaters as one of Ridley Scott’s lowest-grossing movies in history. Ridley Scott fans were also dealt a blow when it was announced that one of his well-liked shows on Apple TV, Dope Thief , would not be coming back for another season . That isn’t the only show Scott has done with the streamer, though.
 
-### 10 Great Books Recommended by Barack Obama
-Sun, 18 Oct 2026 02:22:15 GMT — https://collider.com/great-books-recommended-by-barack-obama/
+### The 9 Best Movies About Cyber Warfare, Ranked
+Sun, 18 Oct 2026 12:27:14 GMT — https://collider.com/best-movies-cyber-warfare-ranked/
 
-It's no secret that Barack Obama is a big reader. It has become a tradition for the former president to publish an annual list of his favorite new books. He has recommended dozens of great reads over the years, including insightful non-fiction books like The Great Experiment by Yascha Mounk and Patrick Keefe 's Say Nothing: A True Story of Murder and Memory in Northern Ireland .
+Once a far-fetched sci-fi concept, now a piercing anxiety of the modern world. The idea of cyber warfare is a sign of the times , a reflection on the vulnerability that has come with our reliance on computers and the internet to manage everything from day-to-day activities to essential governmental structures. While movies revolving around the concept of cyber conflict have been sparse, the pictures that do probe the question with compelling foresight and gripping angst.
 
-### 10 Essential Sitcoms That Belong on Every Fan's Bucket List
-Sun, 18 Oct 2026 02:03:14 GMT — https://collider.com/essential-sitcoms-bucket-list/
+### 7 Near-Perfect 'Far Side' Halloween Comics Everyone Forgot About
+Sun, 18 Oct 2026 12:21:14 GMT — https://collider.com/far-side-halloween-comics-near-perfect-forgotten/
 
-A show should be considered an "essential sitcom " if someone says "what do you mean you've never seen it?" when you disclose that you haven't. These are the shows that fans assume the entire world has watched . It's almost a certainty that if you quote lines from these shows, at least someone in a nearby radius will pick up on the reference.
+There has never been another comic strip like The Far Side . From 1980-1995, Gary Larson used just one panel to say so much. With often dark humor, the cartoonist took twisted satirical jabs at modern society. He was well known for doing this by taking something well known and turning it on its head.
 
-### The Perfect 'Gilmore Girls' Cast if the Series Were Made in 2026
-Sun, 18 Oct 2026 01:33:14 GMT — https://collider.com/gilmore-girls-cast-made-today-2026/
+### 6 Most Universally Loved Books Released Since 2010, Ranked
+Sun, 18 Oct 2026 12:18:15 GMT — https://collider.com/most-universally-loved-books-since-2010-ranked/
 
-It's been more than a quarter-century since Gilmore Girls made its debut on The WB . The comedy-drama from Amy Sherman-Palladino told the story of Lorelai and Rory Gilmore, a mother-daughter duo living in the idyllic hamlet of Stars Hollow, Connecticut . Starring Lauren Graham and Alexis Bledel , the seven-season series was so beloved that the original cast came back together for a four-part Netflix revival, Gilmore Girls: A Year in the Life .
+There is a very specific kind of reader who finishes a book and immediately starts recruiting. Not recommending. Recruiting. They text three people. They bring it up at dinner. They start saying things like, “Just get to chapter four,” as if they are personally responsible for the author’s sales numbers. I trust that behavior more than bestseller stickers.
 
-### 'Twin Peaks' Meets 'X-Files' in Disney+'s 2-Part Mystery Series Surging the Streaming Charts
-Sun, 18 Oct 2026 01:01:15 GMT — https://collider.com/gravity-falls-disney-twin-peaks-meets-x-files-streaming/
+### Jason Statham and Tom Cruise's Neo-Noir Hit Officially Loses Its Streaming Home
+Sun, 18 Oct 2026 12:00:15 GMT — https://collider.com/tom-cruise-jason-statham-collateral-leaving-peacock-november-2026/
 
-One of the best Disney animated series of all time is surging up the streaming television charts on FlixPatrol once again, and it's easy to see why. The unparalleled animated saga , Gravity Falls , ended its original run just over 10 years ago. 14 years after the series originally debuted on the Disney Channel in 2012, Alex Hirsch's epic show remains a bona fide classic that everyone should revisit on Disney+ .
+Tom Cruise doesn't play antagonists too often, and given the commercial performance of Digger , he will probably think twice before playing one again. Directed by the two-time Oscar winner Alejandro G. Iñárritu , Digger is projected to lose around $250 million for Warner Bros., making it one of the biggest box-office bombs in history. The political satire opened to divisive reviews, but has already shown signs of becoming a future cult classic. The last time that Cruise played something of a villain was in the 2008 comedy Tropic Thunder , for which he received a Golden Globe nomination in the Best Supporting Actor category. However, Cruise's most memorable heel turn came around two decades ago, in a neo-noir thriller that's currently streaming on Peacock in the United States, but only for a little while longer.
 

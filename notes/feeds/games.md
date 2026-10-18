@@ -1,4 +1,4 @@
-# Games — harvested 2026-10-18T09:04:33.281Z
+# Games — harvested 2026-10-18T14:09:21.934Z
 
 ## Eurogamer
 
@@ -52,16 +52,6 @@ Fri, 16 Oct 2026 15:04:58 +0000 — https://www.eurogamer.net/galaxies-showcase-
 
 You can smell it in the air can't you? The chill in your nostrils and the earthy whiff as leaves fall and the sun departs for another year. Yes, autumn is here, meaning we're teetering on the cavernous hole of near-nothingness as the entire games industry gives GTA 6 the widest berth imaginable. But that doesn't mean there isn't stuff to be excited about, of course. And the latest edition of the Galaxies Showcase has chucked a few more things onto the 'ooooh intriguing!' pile. Actually, quite a lot of things given its nearly two-hour runtime; but while you can watch the full thing in its entirety if you've got the time, we've also picked out a few of the announcements that especially caught our eyes and highlighted them below. Was all this really just an excuse for Connor to enthuse about penguins? Perhaps! Read more
 
-### Fortnite is coming to Linux so we may soon be able to play it and other games like Apex Legends on Steam Deck and Steam Machine
-Fri, 16 Oct 2026 13:46:23 +0000 — https://www.eurogamer.net/fortnite-linux-easy-anti-cheat-big-development
-
-Epic Games is officially working on bringing its battle royale shooter Fortnite to Linux. The announcement was tucked away at the bottom of Epic's widely mocked blog post revealing the new, "vibe-coded" Epic Games Store, which is also coming to Linux. Read more
-
-### Wardogs devs rush to fix XP exploit allowing players to quickly unlock tanks and stomp competition on Season 2's first day
-Fri, 16 Oct 2026 13:41:05 +0000 — https://www.eurogamer.net/wardogs-driver-xp-exploit-season-2-tanks
-
-The launch of a new live season is hard, and subtle changes to a game can have massive consequences when players get their hands on it. Wardogs proved this true with the launch of its second season this week, as players were able to unlock tanks on day one. Read more
-
 ## GamesIndustry.biz
 
 ### A hardware market freeze could transform the industry forever | Opinion
@@ -73,26 +63,6 @@ Right about now is the moment when the console business should be getting one he
 Fri, 16 Oct 2026 14:30:00 +0000 — https://www.gamesindustry.biz/how-star-wars-galactic-racer-kept-the-core-team-small-and-sustainable-through-distributed-development
 
 Matt Webster, CEO of Fuse Games, is "thrilled" with the critical reception to Star Wars: Galactic Racer, which is currently sitting on a Metacritic score of 88 for the PS5 version. Speaking to GamesIndustry.biz at Game Republic New Horizons this week, he says it "felt like we had something good", but you "never really know" how a game will land. Read more
-
-### Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US
-Fri, 16 Oct 2026 12:44:48 +0000 — https://www.gamesindustry.biz/gamescom-asia-x-thailand-game-show-2026-announces-four-additional-pavilions-from-indonesia-japan-malaysia-and-the-us
-
-Gamescom Asia x Thailand Game Show 2026 has announced four additional pavilions, bringing its total to 20 from 12 markets across Asia, Europe, and North America. Read more
-
-### The Netflix series Drive to Survive inspired Star Wars: Galactic Racer
-Fri, 16 Oct 2026 12:26:23 +0000 — https://www.gamesindustry.biz/the-netflix-series-drive-to-survive-inspired-star-wars-galactic-racer
-
-Matt Webster, the head of Star Wars: Galactic Racer developer Fuse Games, has said that the Netflix series Drive to Survive was an inspiration for the game right from the start. Read more
-
-### Game Republic New Horizons 2026 attendance grew 78% to over 461 visitors
-Fri, 16 Oct 2026 10:10:06 +0000 — https://www.gamesindustry.biz/game-republic-new-horizons-2026-attendance-grew-76-to-over-461-visitors
-
-Attendance at Game Republic New Horizons 2026 rose by 78% year-over-year, from 259 to 461 visitors. Read more
-
-### Fishlabs announces layoffs due to "changing project requirements," development and support teams affected
-Fri, 16 Oct 2026 09:27:33 +0000 — https://www.gamesindustry.biz/fishlabs-announces-layoffs-due-to-changing-project-requirements-development-and-support-teams-affected
-
-German developer Fishlabs has announced workforce reductions impacting its development and support teams. Read more
 
 ## VG247
 
@@ -150,48 +120,53 @@ Fri, 16 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/over-1
 
 Coming to PS5 next week. Dawnwalker developer Rebel Wolves has revealed a new PS5 patch for the RPG arriving next week will be packing more than 1,100 "improvements and fixes", and an infographic highlights the biggest ones. This is the major update the studio teased last month, where it spoke of an easier difficulty setting and some tweaks to combat and controls. The enhancements have indeed made it into patch 1.1, which goes live at some point next week. Read the full article on pushsquare.com
 
-### Sony Has Caused Friction Between It and PlayStation Fans Over Disc Mess, Says PS1, PS2, PS3 Creator
-Fri, 16 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/sony-has-caused-friction-between-it-and-playstation-fans-over-disc-mess-says-ps1-ps2-ps3-creator
-
-Kutaragi understands both sides of the argument. The general sentiment surrounding PlayStation from hardcore players is at a real low point, spurred mostly by the firm's decision to stop making disc-based copies of PlayStation games from January 2028 onwards. It has gotten to the point where fairly innocuous pieces of news , that would usually just come and go, are attracting the ire of PlayStation fans — the brand can't do anything right at the moment, in some people's eyes. Read the full article on pushsquare.com
-
-### Sony s Multi-Million Dollar GTA 6 PS5 Marketing Strategy Is Already Working
-Fri, 16 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-multi-million-dollar-gta-6-ps5-marketing-strategy-is-already-working
-
-"I’m most definitely playing on a PS5". Sony’s unprecedented multi-million dollar GTA 6 PS5 marketing push is already reaping dividends. A short reaction video published by juggernaut streamer IShowSpeed shows the platform holder’s approach working in real time. The manufacturer has paid handsomely to have its console closely associated with Rockstar’s upcoming open world game, and the launch trailer is packed with PlayStation iconography, including a short statement which says the game ‘ Plays Best on PS5 ’. Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
 
-### Ken Kutaragi ‘understands’ why PlayStation fans don’t want to give up physical games
-Fri, 16 Oct 2026 11:59:45 +0000 — https://www.videogameschronicle.com/news/ken-kutaragi-understands-why-playstation-fans-dont-want-to-give-up-physical-games/
+### Konami boss says AI can’t replace the human chemistry behind great games
+Sun, 18 Oct 2026 12:46:39 +0000 — https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/
 
-'Father of PlayStation' suggests game companies need to change sentiment around digital ownership… Source
+Konami president argues creators matter more than AI for making innovative games… Source
 
-### Podcast: Zelda: Ocarina of Time remake impressions a chat with Control Resonant actor
-Fri, 16 Oct 2026 11:42:41 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-zelda-ocarina-of-time-remake-impressions-a-chat-with-control-resonant-actor/
+### PlayStation 6 s memory costs alone exceed $680 per console, it s claimed
+Sun, 18 Oct 2026 12:10:55 +0000 — https://www.videogameschronicle.com/news/playstation-6s-memory-costs-alone-exceed-680-per-console-its-claimed/
 
-Control Resonant's Frankie Kevich joins the show! Source
+Hardware insider suggests next-gen costs could well cost more than $1,000… Source
 
-### Former Overwatch director Jeff Kaplan says he hasn t played or searched for it since leaving Blizzard five years ago
-Fri, 16 Oct 2026 11:40:42 +0000 — https://www.videogameschronicle.com/news/former-overwatch-director-jeff-kaplan-says-he-hasnt-played-or-searched-for-it-since-leaving-blizzard-five-years-ago/
+### Samson developer Liquid Swords is facing bankruptcy
+Sun, 18 Oct 2026 11:17:34 +0000 — https://www.videogameschronicle.com/news/samson-developer-liquid-swords-is-facing-bankruptcy/
 
-Kaplan says he has a "healthy separation" where Overwatch is no longer part of his life… Source
-
-### Steam is introducing Achievement Sets, designed to improve the achievement earning experience
-Fri, 16 Oct 2026 10:42:54 +0000 — https://www.videogameschronicle.com/news/steam-is-introducing-achievement-sets-designed-to-improve-the-achievement-earning-experience/
-
-Developers can now split up achievements and introduce seasonal ones… Source
-
-### Footage from a reportedly cancelled Assassin s Creed game set in China has leaked
-Fri, 16 Oct 2026 09:35:08 +0000 — https://www.videogameschronicle.com/news/footage-from-a-reportedly-cancelled-assassins-creed-game-set-in-china-has-leaked/
-
-The title known as 'Assassin's Creed Destiny' was allegedly cancelled by Ubisoft… Source
+The studio behind open-world game has reportedly been declared bankrupt after months of unpaid developer wages… Source
 
 ## Polygon
+
+### 11 Years Later, Dragon Ball Super: Beerus Finally Nails Akira Toriyama's Original Vision
+Sun, 18 Oct 2026 14:00:18 GMT — https://www.polygon.com/dragon-ball-super-beerus-finally-respects-toriyamas-vision/
+
+I’ll be the first to admit I wasn’t particularly excited about Dragon Ball Super: Beerus . When the remake of Dragon Ball Super was first announced, I struggled to see the point of revisiting a story that had already been told once in Dragon Ball Z: Battle of Gods and then again in the original 2015 television run. Sure, the promise of refreshed animation was exciting, but it didn’t feel like that was enough to justify starting from scratch for a third time, especially when major manga milestones like the Galactic Patrol Prisoner arc and Moro have yet to receive their due on-screen.
+
+### Jessica Rothe Officially Confirms Return Plans for Hit Time-Loop Thriller Trilogy
+Sun, 18 Oct 2026 13:00:18 GMT — https://www.polygon.com/happy-death-day-3-jessica-rothe-scream-queen/
+
+Fortunately, Happy Death Day is.
+
+### America's Dominance in The Game Awards Is Officially Over
+Sun, 18 Oct 2026 12:00:18 GMT — https://www.polygon.com/the-game-awards-goty-jury-usa/
+
+This week, as well as confirming details such as the eligibility cutoff date (yes, as predicted, Grand Theft Auto 6 sneaks in just under the wire ), The Game Awards has revealed the composition of the 2026 jury . And the biggest change is the dramatically reduced presence of U.S. media.
+
+### 13 Years Ago, Rockstar Suffered a Leak Worse Than GTA 6
+Sun, 18 Oct 2026 11:00:18 GMT — https://www.polygon.com/gta-5-leak-gta-6-reddit-vine-reactions-ban-sony-rockstar-response/
+
+What could possibly be worse than footage of the world's most anticipated video game leaking onto the internet early , in an unfinished state? Easy. A game with a similar cultural footprint becoming playable ahead of its release. It seems unthinkable now in the age of Denuvo, but this exact nightmare scenario happened for Rockstar ahead of the release of Grand Theft Auto 5 .
+
+### Before Dark Souls, FromSoftware’s Forgotten PS1 Horror Game Was a Haunting Exercise in Empathy
+Sun, 18 Oct 2026 10:00:18 GMT — https://www.polygon.com/fromsoftware-echo-night-ps1/
+
+To trace FromSoftware’s history is to uncover a lineage written in cold sweat. While the studio is celebrated today for unforgiving action RPGs like Dark Souls and Elden Ring , its DNA is deeply rooted in games that feel born of a fever dream. FromSoft’s darker legacy lives in games like Kuon , a masterclass in Japanese folklore and survival horror, and Shadow Tower , a claustrophobic dungeon crawler that turns every dark alcove into a deadly trap. Even Eternal Ring — not to be confused with its blockbuster sibling Elden Ring — radiates that signature, unsettling aura that makes exploring FromSoftware’s later worlds so intoxicating.
 
 ### The 10 Best Horror Books of All Time According to Goodreads, Ranked
 Sun, 18 Oct 2026 09:00:18 GMT — https://www.polygon.com/10-best-horror-books-ranked-goodreads/
@@ -218,32 +193,22 @@ Sun, 18 Oct 2026 03:00:19 GMT — https://www.polygon.com/the-terminator-1984-fr
 
 Terminator 2: Judgment Day is the rare sequel where just about everybody likes it better than the original. That’s for good reason. The 1991 sci-fi action thriller redefined the blockbuster with a relentlessly exciting story, mind-blowing special effects, and the superstar presence of Arnold Schwarzenegger. The movie is so good it often outshines its predecessor, which also redefined the action thriller in the 1980s and is still exhilarating to watch for an entirely different reason than its sequel.
 
-### GTA: San Andreas’ Bigfoot myth is a classic urban legend
-Sun, 18 Oct 2026 01:00:18 GMT — https://www.polygon.com/gta-san-andreas-bigfoot-myth/
-
-There is a Bigfoot in Grand Theft Auto: San Andreas — at least, that's what I and many others believed. Some time after the game had been released, the rumour about the new Rockstar game featuring the legendary creature spread across the internet. I remember learning about this "secret monster" from an older guy. Then I told some boys from my classroom the cool rumor I had heard about in that game our parents didn't want us to play. Word of mouth and low-resolution images shared through dial-up internet connections made GTA: San Andreas an exciting mystery.
-
-### Game of Thrones Prequel The Mad King Officially Returns in 2027
-Sun, 18 Oct 2026 00:44:23 GMT — https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/
-
-The Mad King lives. The Royal Shakespeare Company's sold-out stage production of Game of Thrones: The Mad King closed in Stratford-upon-Avon in September, but it's not the end for the spinoff of George R.R. Martin's prequel to Game of Thrones .
-
-### 44 Years Later, Steven Spielberg's Scariest Movie of All Time Is Officially Back on Streaming
-Sun, 18 Oct 2026 00:00:18 GMT — https://www.polygon.com/poltergeist-tobe-hooper-steven-spielberg-on-hbo-max/
-
-Poltergeist , which is currently available to stream on HBO Max, follows an ordinary suburban family who begin to experience strange things in their home. Furniture and toys move on their own, a glass of milk shatters out of nowhere, and the youngest child in the family, five-year-old Carol Anne (Heather O'Rourke), begins to communicate with beings through the television. At first these events are dismissed, but during a thunderstorm one night, a tree outside the windows of the kids’ room crashes in and snatches the boy. Then, a portal opens in their closet, sucking Carol Anne into another dimension. With help from some paranormal investigators, the family tries everything to bring her back.
-
-### 8 Most Disappointing Switch Games, Ranked
-Sat, 17 Oct 2026 23:00:18 GMT — https://www.polygon.com/most-disappointing-switch-games-ranked/
-
-They say that happiness equals reality minus expectations, and, unfortunately for these eight Switch games, reality landed nowhere near what was expected. It’s hard to blame the critical and community reception for some of them, but not all of them are bad. Some just aren’t what people were hoping they would be. So we’ve ranked them by the size of the gap between promise and result, from the mild letdowns to the ones that stung most or didn’t justify for the cost. Consider this your reminder to check your expectations at the door.
-
-### Pokémon Go Minior Shower schedule
-Sat, 17 Oct 2026 21:01:18 GMT — https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/
-
-The meteor Pokémon, Minior , is making its Pokémon Go debut with its many colorful cores, but it'll only be available during real-life meteor showers. You'll want to keep your eyes peeled for these little critters during these rare moments throughout the year, and keep an extra watchful eye in the evening, as these will appear more frequently. To assist with this, we've put together a Minior schedule, so you know exactly when to look out for these.
-
 ## PC Gamer
+
+### Clive Barker says he's 'genuinely astonished' by Hellraiser: Revival: 'I'm proud as f**k at the end result'
+Sun, 18 Oct 2026 12:41:50 +0000 — https://www.pcgamer.com/games/horror/clive-barker-says-hes-genuinely-astonished-by-hellraiser-revival-im-proud-as-f-k-at-the-end-result/
+
+Hellraiser: Revival's commitment to being both gnarly and horny has already been thoroughly documented, with PC Gamer's Wes Fenlon describing it as " nasty nasty" in his preview . This uncompromising attitude to both gore and kink went down well with fans, but it has also been celebrated by Hellraiser's creator, Clive Barker. In an interview with horror site Dread Central (via FRVR ), Barker admitted that he had concerns about the project going into it, but was thoroughly impressed by the final product. "I'm proud as f**k at the end result," he said. "I was fearful at one point that the game would be overly censored, but I'm genuinely astonished by how far they've been able to push it." Barker, who worked closely with developer Saber Interactive to shape Revival's world and to advise on the game's story, reckons that Saber Interactive's work on the game is a prime example of how to approach adapting a license. "I think what was achieved in the game is a wake-up call to anyone who's been involved in the making of a franchise like Hellraiser," the author and director explained. Barker reclaimed the American franchise rights to Hellraiser several years ago, and Hellraiser: Revival is written as a legacy sequel that ignores the trajectory of the films after Hellraiser 2. "There are many of the Hellraiser movies that were made by the Weinstein brothers that were created simply to hold onto the rights," Barker explained, pointing out that "less and less" money was spent on those fi
+
+### Outlast designer says that one playtester was so upset by the horror series they 'ran out of the studio to go cry outside' and didn't return
+Sun, 18 Oct 2026 11:18:11 +0000 — https://www.pcgamer.com/games/horror/outlast-designer-says-that-one-playtester-was-so-upset-by-the-horror-series-they-ran-out-of-the-studio-to-go-cry-outside-and-didnt-return/
+
+Red Barrels' Outlast series has long held a reputation for pushing the envelope further than most horror games, with depictions of violence, gore and nudity that can be shocking even within a medium well versed in delivering scares. But it isn't just audiences who have found the studio's games shocking beyond the virtual horror norm. As co-founder Phillipe Morin recently revealed, there have been numerous instances where people in and around the studio have found working with the material frightening to the point of being traumatic. In a chat with Gamespot , Morin discussed the studio's unflinching approach to horror, explaining that it wasn't a deliberate attempt to court controversy, and was simply a "personal preference" on Morin and the other co-founders' behalf. "We didn't start like 'Oh, we've got to make the goriest game out there'" Morin explained. "It was just, 'we're making a horror game, so obviously we'll make it gory. I remember even the scriptwriter early on was saying, 'There's never too much blood.'" Nonetheless, the intense and graphic nature of Outlast' horror has proved triggering within the studio. During the interview, Morin recalls one incident involving an individual associated with Red Barrels—possibly an employee, though Morin doesn't state this explicitly. "We started pushing and pushing, and you know, I remember there was a playtest, and somebody, after a couple of hours, basically ran out of the studio to go cry outside." Apparently, this person ne
+
+### Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months
+Sun, 18 Oct 2026 09:50:29 +0000 — https://www.pcgamer.com/gaming-industry/liquid-swords-developer-of-open-city-crime-sim-samson-has-gone-bankrupt-following-staff-claims-that-they-havent-been-paid-in-two-months/
+
+Liquid Swords, the developer behind Samson , has gone bankrupt just six months after its run-based open-city crime sim was released. As reported by Breakit (via Rock, Paper, Shotgun ), a bankruptcy order was issued against the Swedish developer on October 12. According to Breakit, Liquid Swords' staff—around 30 employees—have gone unpaid for at least two months, and it was those employees who petitioned to have the company declared bankrupt. Liquid Swords was founded in 2020 by Christofer Sundberg, who previously co-founded Just Cause developer Avalanche Studios and co-directed that series' first game. Samson was Liquid Swords' debut title, an open city-crime sim with a distinctive run-based structure, where you play a getaway driver attempting to pay back an enormous mob debt by any means necessary. Samson was a difficult project for Sundberg and Liquid Swords. The studio initially intended for it to be a much larger action RPG. But the studio struggled to find a publisher for Samson, with one publisher rejecting Liquid Swords on five occasions. Last year, Liquid Swords ran into funding trouble, laying off half its team as a result. It also radically adjusted how Samson plays—which is how the run-based structure emerged. Upon its release in April this year, Samson received mixed reviews, with unfavourable (and somewhat unfair) comparisons to Grand Theft Auto being compounded by bugs and technical issues. In the months since, Liquid Swords has attempted to buff out Samson's v
 
 ### Metal band Genitorturers allegedly claims a Vampire: The Masquerade - Bloodlines remake is coming, getting a dozen crusty nerds way too worked up
 Sat, 17 Oct 2026 21:52:34 +0000 — https://www.pcgamer.com/games/rpg/metal-band-genitorturers-allegedly-claims-a-vampire-the-masquerade-bloodlines-remake-is-coming-getting-a-dozen-crusty-nerds-way-too-worked-up/
@@ -290,22 +255,12 @@ Sat, 17 Oct 2026 13:53:20 +0000 — https://www.pcgamer.com/games/rpg/the-blood-
 
 I've nothing against games that feature simulated animal petting, but it's never been something I've considered buying a game specifically for. Sure, it's nice when your character can stroke a virtual dog or fuss with a clump of polygons shaped like a cat, but it rarely amounts to more than a canned animation. That said, I am suddenly more tempted to shell out on The Blood of Dawnwalker , as Rebel Wolves has announced that the next update to its vampire RPG will introduce "directional animal petting". The Blood of Dawnwalker already features a directional combat system in the vein of Kingdom Come: Deliverance . And this system lies at the heart of the animal petting being added to version 1.1 of the vampire RPG—according to an update the developer posted on X : "What happens when you merge a directional combat system with an ability to pet dogs and cats?" Rebel Wolves asked. "Directional. Animal. Petting." Sadly, Rebel Wolves didn't provide any further detail about this system. But it did offer plenty of insight into what else is coming with update 1.1. Aside from being able to stroke cats at different angles, perhaps the most significant addition is a new Story mode. This will feature an "additional combat assist" for players who aren't interested in mastering the game's swordplay, letting them focus mainly on enjoying the narrative and making decisions. It's worth noting this will not replace the existing Story mode outright. That difficulty setting will still exist, but un
 
-### Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'
-Sat, 17 Oct 2026 12:04:00 +0000 — https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/
-
-The developer of an upcoming horror drinking game has cancelled plans for a public Steam demo in favour of private preview sessions, citing concerns that AI vibe coders might use the demo's content to clone the game. Drunken Goddess Reflux is a "shot glass Russian roulette" drinking game where players square off against an anime demon girl who loves you but also kind of wants to murder you (which sounds like a standard relationship to me), with the goal of getting your girl-frenemy so blotto that she barfs up her soul. Frankly, it doesn't sound like my cup of tequila, although there is a mechanic where the rules of the game grow weirder and wilder the more alcohol you imbibe—which sounds neat. Regardless, developer Alliance Arts planned to release a Steam demo on October 19, but in a post on X (via Rock, Paper, Shotgun ), the studio explained this is no longer the case. Instead, the studio will host "closed online play sessions for a limited number of participants." "We sincerely apologize for the short notice," Alliance Arts added, before explaining its reasoning behind the demo's cancellation. Apparently, the demo would have come with "some restrictions on posting and streaming gameplay videos", which Alliance Arts decided it wouldn't be able to properly manage. On top of this, however, the devs are also worried the demo will be exploited to create AI-coded clones. "We're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation
-
-### Funcom is laying off yet more developers as it pivots to supporting Dune: Awakening and Conan Exiles
-Sat, 17 Oct 2026 10:32:05 +0000 — https://www.pcgamer.com/gaming-industry/funcom-is-laying-off-yet-more-developers-as-it-pivots-to-supporting-dune-awakening-and-conan-exiles/
-
-Funcom, the developer behind Dune: Awakening and Conan Exiles , has announced a restructuring process that will result in layoffs at the company, and that current CEO Rui Casais will leave Funcom once the reorganisation is complete. The decision comes after a shift in direction at Funcom, whereby the studio will focus wholly on supporting its existing survival RPGs. In a statement (via GamesIndustry.biz ) Casais said that Dune: Awakening was "the biggest project we have ever undertaken, requiring many years of significant development resources across our studios". He continued that "moving from full production into long-term post-launch development and operations requires a different organisation. "While we would have wanted everyone who helped build Dune: Awakening to continue with us, we cannot sustain the size and structure required during peak development as we move into this next phase. My focus now is ensuring the process is as supportive as possible for everyone affected, and to treat our colleagues with the respect and transparency they deserve." Dune: Awakening was a big hit for Funcom when it was released in June last year, with the survival MMO shifting a million copies in two weeks to become the fastest-selling game in the Norwegian developer's history. Despite this initial success, however, the longer-term performance of the game is harder to gauge. In the months following release, Awakening's player counts dropped substantially , with the game's PvP elements and
-
-### Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood
-Fri, 16 Oct 2026 23:53:11 +0000 — https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/
-
-Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders this week after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, which is known for homelessness and open drug use. "San Francisco couldn't fix the Tenderloin," Biojout said in a now-deleted X post on October 13. "So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets." He noted that he'd already made $300 from in-game ads. The game, called Tenderloin Night Shift, had players shoot "zombies" that, according to reports from the SF Chronicle and KRON4 news , included a "folded" fentanyl addict and a Black security guard. Speaking to the Chronicle, Jennifer Friedenbach, executive director of the SF Coalition on Homelessness, said that Biojout was "monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents of the poorest neighborhood in San Francisco." In a correspondence with the paper, Biojout said that he had not intended to "provoke or to depict shooting real people" and that the game also included tech workers as characters. Tenderloin Night Shift appears to have been removed from NanoCorp's website. Although Biojout deleted his X post, the discourse that ensued remains. "You made a game about shooting people in active addiction," said another tech founder. "These are human beings, not zombies. show me the positive side of this - i'm probabl
-
 ## GameSpot
+
+### Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch
+Sun, 18 Oct 2026 12:00:00 +0000 — https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/
+
+Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro horror with live-action sequences that will make your goosebumps bump, and you can get it cheaper than ever right now. As the best horror games continue to push for more realistic visuals and immersive experiences, Tenebris Somnia’s twist on the genre combines old-school cool with movie-like cutscenes. It’s both jarring and original, and that’s exactly what makes for excellent horror. I want to be constantly surprised, and Tenebris Somnia makes its pixelated 2D threats even more menacing when you see live-action versions of the monsters. Inspired by classics that scared us silly, like Resident Evil and Silent Hill, Tenebris Somnia has a deceptively simple premise. You play as Julia, who finds herself in a parallel universe while visiting her ex-boyfriend and is relentlessly hunted by nightmares that, well, aren’t exactly figments of her imagination. (To be honest, visiting an ex sounds like a nightmarish experience on its own. Ba-dum, tsss.) https://www.youtube.com/watch?v=A_fQ_gNddbo Co-created by Andrés Borghi and Tobías Rusjan with Saibot Studios, and published by New Blood Interactive, the studio behind Ultrakill, Blood West, and Gloomwood, Tenebris Somnia’s style is fittingly i
 
 ### All The Records GTA 6 Will Break, We Think
 Fri, 16 Oct 2026 20:27:22 +0000 — https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/
@@ -352,22 +307,12 @@ Fri, 16 Oct 2026 15:07:49 +0000 — https://www.gamespot.com/articles/next-red-d
 
 Citi, the investment bank and financial services company, has released a note about GTA 6 and Rockstar, and included in the brief is a line about what Rockstar could release next--a new Red Dead game. The company said in its memo that, if Rockstar is telling the truth that GTA 6 did not in fact cost $1.5 billion to make , then the studio may be able to get a new Red Dead game out sooner than anyone might have imagined. Citi said a new Red Dead game releasing in 2027 or 2028 "may not be unreasonable," according to Yahoo Finance . A scene from Red Dead Redemption II. The bank might be saying this, but it would be incredibly shocking, for a number of reasons, if a new Red Dead game releases as soon as next year. There are historically years between major Rockstar releases, and even longer gaps between entries in the same series. For example, Red Dead Redemption launched in 2010, followed by GTA 5 in 2013, then Red Dead Redemption II in 2018, and now GTA 6 in 2026. Another notable element to consider is how Rockstar makes games today. The company tried to develop GTA 6 and Red Dead Redemption II concurrently, and if it was able to pull it off, Rockstar claimed it would have been able to release GTA 6 years earlier . However, Rockstar deemed this too ambitious, with studio head Rob Nelson opting to reassign staff from GTA 6 to Red Dead Redemption II to help get it out the door. At one point in time, developed multiple games concurrently across offices, but now, Rockstar’s network 
 
-### This Anime Stalker Russian Roulette Game Is Afraid AI Copycats Will Steal Its Ideas
-Fri, 16 Oct 2026 13:52:33 +0000 — https://www.gamespot.com/articles/this-anime-stalker-russian-roulette-game-is-afraid-ai-copycats-will-steal-its-ideas/
-
-Developers have dealt with copycat games for many years, but generative AI has made it easier than ever to whip up a clone, and that problem has grown in recent years. The developer behind Drunken Goddess Reflux is aware of this, and out of fear that its anime Russian roulette game could be the victim of a cash-grab imitation, it has announced that it has canceled its upcoming public demo. Instead, Alliance Arts will hold closed online play sessions for a limited number of players. https://youtu.be/SRFDW2Pm9nk "We sincerely apologize for the short notice to everyone who was looking forward to it," the developer wrote online . "We're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools, and that such works could be released before our launch." Alliance Arts is also concerned that it can't properly manage restrictions on posting and streaming content from the game, and it'll instead hand out demo keys and collect feedback for the game through its group Discord. The studio's fears aren't unwarranted, with the upcoming Needle in a Haystack being a prime example of Steam's copycat problem. After the game was announced in August and a clip of its purposefully tedious gameplay went viral--you genuinely are just looking for a needle in a haystack--clones quickly popped up online. A quick search on Steam reveals several games all with a similar theme, and these have been released within weeks of eac
-
-### Big Walk Won t Come To Xbox Until Microsoft Is No Longer A BDS Boycott Target
-Fri, 16 Oct 2026 13:32:33 +0000 — https://www.gamespot.com/articles/big-walk-wont-come-to-xbox-until-microsoft-is-no-longer-a-bds-boycott-target/
-
-Big Walk has been a critical hit since it launched a few months ago on PC and PS5, but one major platform where you won't find it is Xbox Series X|S. That's no accident: Developer House House said its decision not to release the game on Xbox was a show of support for the Palestinian-led Boycott, Divestment, Sanctions (BDS) movement. "It has always been our intention for Big Walk to be played by groups of friends, and we know that keeping the game off Xbox runs counter to those intentions," House House wrote in a statement. "This decision means that some people will miss out on playing Big Walk with their friends, and we understand the disappointment we’re causing. We are disappointed too. We would love for people to be able to play the game on Xbox, but not until Microsoft and/or Xbox have been removed as BDS boycott targets. We’ve made this decision with the belief that meaningful change can be made in the world, that coordinated collective action can confront even the most powerful interests, and that one day, Palestine will be free." Microsoft became a priority target of the BDS initiative due to the contracts it had with the Israeli government and military. BDS has called for a boycott of the company, and by extension, all Xbox games, hardware, and subscriptions. In response to the announcement by House House, The Palestinian BDS movement wrote in a statement (via People Makes Games' Chris Bratt ) that it "wholeheartedly" supports the developers decision and that it encou
-
-### Killing PS5 Discs Just Makes Sense, Even If It Angers People, Former PlayStation Exec Says
-Fri, 16 Oct 2026 13:30:39 +0000 — https://www.gamespot.com/articles/killing-ps5-discs-just-makes-sense-even-if-it-angers-people-former-playstation-exec-says/
-
-Ken Kutaragi, the former PlayStation executive known colloquially as the "Father of PlayStation," has reacted to the ongoing debate and discussion about physical games in the wake of Sony's announcement that it will end support for PS5 game discs in 2028. Speaking to VGC , Kutaragi said he understands that people think they "own" games when they buy them physically. However, he said, "Nobody thinks [physical media] is necessary for a networked device like a smartphone, for example, because people feel that they will keep their content." He went on to say that he "really" does understand why some people are upset about PlayStation's decision to end discs. After all, Sony continues to sell millions and millions of physical games annually , and in some regions, sales of new games on PS5 are more than 50% physical . However, as many others have said and data shows, consumers are increasingly leaning toward digital, and that trend is only expected to continue. "I don’t think it’s economically reasonable [to continue to support discs]. Maybe it’s a mentality issue," he said. For its part, Sony said ending support for physical discs is a "natural direction" for the company as it adapts to consumer trends. One expert believes Sony killing discs is really about profitability and control . https://www.youtube.com/watch?v=4FatSqS3VYY Kutaragi went on to say he understands that PlayStation's teams now include people who came from "outside," including people from streaming companies throu
-
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 18 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-832
+
+Sundays are for firing up Twine again and thinking you know what, if this swanky IF plotter had been around when I was an undergraduate, I might have preserved all my exam revision notes in text adventure form. I still have two, reassuringly heavy boxes of tabbed and colour-coded index cards that you could plausibly lay out to form a maze, navigable by compass commands. Head down the western corridor from Middle English to the Renaissance, and &ndash; ah, bollocks, you have been eaten by a Grue. Surely somebody's thought of this, in the decade and change since Twine was released? I mean, we already have 3D museum exhibits extracted from Wikipedia . Sundays are also for heading to the allotment and getting annoyed with the tomato plants, who have decided to go bonkers right at the end of the growing season. I thought you were done, pesky nightshades. I thought I could leave you alone for the rest of the year. Finally, Sundays are for sharing good criticism, like the below. Read more
 
 ### Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world
 Sat, 17 Oct 2026 21:50:37 +0000 — https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world
@@ -423,9 +368,4 @@ Quick! Hit left scratch ear! Hit down rub belly! Slap right bum pats! Annnnd you
 Fri, 16 Oct 2026 15:45:00 +0000 — https://www.rockpapershotgun.com/the-creator-of-last-years-cult-hit-rpg-the-necromancers-tale-is-back-with-the-lich-wars-a-storybook-rpg-that-follows-30-years-of-undead-botheration
 
 Psychic Software have announced The Lich Wars, a standalone prequel for their widely acclaimed RPG The Necromancer's Tale. Widely acclaimed by me , anyway. I'm pretty wide, these days &ndash; the local Morrisons keeps doing discounts on 80-biccy packets of bourbon creams. I liked The Necromancer's Tale specifically for how it wove a whole RPG around the narrative dynamics of a single RPG class, with players performing rituals in each chapter to develop their morbid spellcraft, while managing the suspicions of nearby townsfolk. I also really loved its choose-your-own-adventure prologue . The Lich Wars sort of spins the prologue out into a full game. Read more
-
-### Cyberpunk 2077 movie "won't be a one-to-one translation of the game's story", CD Projekt Red boss confirms, and boy do I think that's the right move
-Fri, 16 Oct 2026 15:15:40 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077-movie-wont-be-a-one-to-one-translation-of-the-games-story-cd-projekt-red-boss-confirms-and-boy-do-i-think-thats-the-right-move
-
-Since the existence of plans for a Cyberpunk 2077 live-action adaptation from devs CD Projekt Red and Paramount Pictures was revealed last week, I've been hoping it won't take the form of porting V's tale from the game to the big screen. Such a thing wouldn't necessarily be terrible, but I like my game adaptations a bit more on the original story side of things, as Cyberpunk tie-in anime series Edgerunners has been. The good news is that one of CD Projekt Red's big bosses has now confirmed that this adaptation won't be beat-for-beat retelling of 'Honey, there's a Keanu in my brain'. Read more
 
