@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Pipeline: nobody has said how Night City is being built this time. Season one's city read as drawn plates with digital camera moves over them, and whether any of CD PROJEKT RED's geometry feeds that is unconfirmed."
     - "Art direction: the trailers lean hard on gore and chrome in close-up, which is where hand-drawn work looks most expensive and also where a schedule hides. The test is the wide shots nobody cuts into a trailer."
-draft: true
 ---
 
 *Cyberpunk: Edgerunners 2* arrives on Netflix on 20 October — tomorrow, midnight
