@@ -35,7 +35,6 @@ artistView:
   misses:
     - "Level design: the semi-open mission is the stretch reviewers single out as slack, which is what happens when a streamed kit has to hold attention the way a hand-built corridor does."
     - "Replay value: several reviewers note how little there is to return to after six to nine hours, so the most expensive art in the game gets seen once."
-draft: true
 ---
 
 Reviews for Modern Warfare 4 went up on 16 October, a week before the game
