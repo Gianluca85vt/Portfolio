@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Edgerunners 2: episode 6's director runs it all">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <rect width="1200" height="900" fill="#18011F" opacity="0.45"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6" fill="#C8891B" opacity="0.95">CYBERPUNK: EDGERUNNERS 2</text>
+  <text x="90" y="310" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">10 at once</text>
+  <text x="90" y="400" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#FFFFFF" opacity="0.9">20 October, Netflix</text>
+  <text x="90" y="490" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#FFFFFF" opacity="0.75">Kai Ikarashi — episode 6 to series director</text>
+  <rect x="90" y="540" width="260" height="5" fill="#C8891B"/>
+</svg>
