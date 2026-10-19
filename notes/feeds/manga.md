@@ -1,72 +1,82 @@
-# Manga — harvested 2026-10-19T10:17:06.577Z
+# Manga — harvested 2026-10-19T17:09:33.649Z
 
 ## Anime News Network
 
-### Kanon, Air, Clannad, Heaven Burns Red's Jun Maeda in Palliative Care for Pharyngeal Cancer
-Mon, 19 Oct 2026 04:38:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/kanon-air-clannad-heaven-burns-red-jun-maeda-in-palliative-care-for-pharyngeal-cancer/.242983
+### Ranma ½ Season 3 ‒ Episodes 1-3
+Mon, 19 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/ranma-season-3/episodes-1-3/.242965
 
-Maeda has completed work on 1st 6 chapters of <cite>Heaven Burns Red</cite>, working on original music project
+I wish the happy couple an eternity of tentacly intimacy far beneath the sea, and far from our TV screens.
 
-### Cygames States Uma Musume: Pretty Derby Franchise's U.S. Concerts May Be Canceled Due to Visa Issues
-Mon, 19 Oct 2026 03:25:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/cygames-states-uma-musume-pretty-derby-franchise-u.s-concerts-may-be-canceled-due-to-visa-issues/.242979
+### Lezhin Ent. to Launch AI Character Chat Service Teaz in Korea
+Mon, 19 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/lezhin-ent-to-launch-ai-character-chat-service-teaz-in-korea/.242947
 
-L.A. concerts scheduled for October 22-23; final decision whether to hold concerts or not to be announced by Monday night
+Teaz will allow users to interact directly with characters from original series published on Lezhin Comics, Bomtoon
 
-### New Live-Action Street Fighter Film Opens at #1 in the U.S., Earns US$51 Million Globally
-Mon, 19 Oct 2026 00:07:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/new-live-action-street-fighter-film-opens-at-no.1-in-the-u.s-earns-usd51-million-globally/.242960
+### Silent Hill: Townfall Game Review
+Mon, 19 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc-playsation-5/silent-hill/townfall/.242692
 
-Film earned estimated US$31 million in the U.S., US$20.1 million in 65 markets overseas
+What makes <i>Townfall</i> such an excellent <i>Silent Hill</i> game is the way that it blends the mundane tragedies of small-town life with the otherworldly trauma that is choking St. Amelia to death.
 
-### Anime Studio Felix Film Edits Job Listing That Encouraged Generative AI
-Sun, 18 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-18/anime-studio-felix-film-edits-job-listing-that-encouraged-generative-ai/.242957
+### #I'm Looking For a Zombie ‒ Episodes 1-3
+Mon, 19 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episodes-1-3/.242978
 
-Felix Film has not decided to use "generative AI for images in the studio, but we are studying its potential future use”
+The biggest problem with <i>#I'm Looking for a Zombie</i> is that I genuinely don't know what tone it's trying to go for.
 
-### Tsugumi Project Anime Reveals 1st 3 Cast Members
-Sun, 18 Oct 2026 23:43:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/tsugumi-project-anime-reveals-1st-3-cast-members/.242967
+### EST N8 Picks Up Korean-Animated Film Pilgrims for Worldwide Sales
+Mon, 19 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/est-n8-picks-up-korean-animated-film-pilgrims-for-worldwide-sales/.242974
 
-Masaaki Mizunaka, Haruki Ishiya, Misaki Watada cast in TV anime
+<i>Japan Sinks: 2020's </i> Pyoungkang Heo directs film starring Hyang-gi Kim, Ji-hu Park, Joo-young Lee
 
-### Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut
-Sun, 18 Oct 2026 21:09:46 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958
+### Welsh & Shedar Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5
+Mon, 19 Oct 2026 11:05:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987
 
-New visuals for 106th class characters also unveiled
+English dub stars Daniel J. McLean, Kevin Garcia, Marissa Lenti, more
 
-### Mushoku Tensei: Jobless Reincarnation Volumes 1-3 Light Novel Review
-Sun, 18 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-1-3-light-novel/.242609
+### Manga UP! Global Adds Lily of the High Seas, Killer's Familia, The Imperial Court's Floral Stylist, 3 More Manga
+Mon, 19 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/manga-up-global-adds-lily-of-the-high-seas-killer-familia-the-imperial-court-floral-stylist-3-more-/.242985
 
-This isn’t more lazy isekai power fantasy slop where characters pull up videogame-esque stat screens out of thin air and solve all of their problems by leveling up.
+Service also adds: <cite>I Became a Saint to Support My Idol!</cite>, <cite>The Abandoned Tamer Signs a Deal With a Devilishly Beautiful Dragon</cite>, <cite>After Getting the Crap Skill "Poison Immunity," I Ate the Toxic Meat of a Dead SSS-Rank Monster and Awakened an OP Ability</cite>
 
-### Kokamumo's Null-Meta Manga Gets TV Anime in 2027
-Sun, 18 Oct 2026 08:07:09 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/kokamumo-null-meta-manga-gets-tv-anime-in-2027/.242952
+### Comic CMOA Service Remains Suspended After Confirmed Unauthorized External Access
+Mon, 19 Oct 2026 10:40:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/comic-cmoa-service-remains-suspended-after-confirmed-unauthorized-external-access/.242977
 
-<cite>Cyberpunk: Edgerunners 2's</cite> Kai Ikarashi directs anime based on slice-of-life comedy manga
+Service suspended since Thursday
 
-### Arc System Works Opens New Studio Takumi on November 2
-Sun, 18 Oct 2026 06:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/arc-system-works-opens-new-studio-takumi-on-november-2/.242951
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episodes 1-4
+Mon, 19 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episodes-1-4/.242945
 
-New studio to work in new fighting game selected for Japanese government's "IP360" subsidy project
+Blemishes aside, <i>Steel Ball Run</i> continues to be excellent, and I’m so glad that <i>JoJo</i> Fridays can once again be a psychologically load-bearing part of my week.
 
-### Kaiju Decode: The Ring of Aidara Anime Reveals Teaser Trailer, 2027 Debut
-Sun, 18 Oct 2026 05:00:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/kaiju-decode-the-ring-of-aidara-anime-reveals-teaser-trailer-2027-debut/.242953
+### Rakuten Viki, Imaginus to Debut AI-Assisted Korean-Animated Series The Painted Soul on October 21
+Mon, 19 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/rakuten-viki-imaginus-to-debut-ai-assisted-korean-animated-series-the-painted-soul-on-october-21/.242971
 
-Anime's new teaser visual also revealed
+Rakuten Viki plans to add more animated content in the future
 
-### Crunchyroll Reveals English Dub Cast, Staff for 2nd Seasons of Black Clover, Aoashi Anime
-Sun, 18 Oct 2026 03:08:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/crunchyroll-reveals-english-dub-cast-staff-for-2nd-seasons-of-black-clover-aoashi-anime/.242948
+### The Apothecary Diaries Season 3 ‒ Episodes 49-51
+Mon, 19 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episodes-49-51/.242923
 
-<cite>Black Clover</cite> English dub starts streaming on Saturday, <cite>Aoashi</cite> on Sunday
+Only three episodes in and Maomao is already facing dual scourges.
 
-### Voice Actor Nichika Ōmori Announces 1st Pregnancy
-Sat, 17 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-17/voice-actor-nichika-omori-announces-1st-pregnancy/.242850
+### Your Fall 2026 Anime Daily Streaming Reviews
+Mon, 19 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/site-news/2026-10-19/your-fall-2026-anime-daily-streaming-reviews/.242925
 
-Ōmori made the announcement with her husband Yunomi as a birthday surprise
+While the highest-anticipated shows were easy to guess, everything else was a crapshoot.
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Bleach: Thousand-Year Blood War Reveals Final Battle Visual Ahead of Last Anime Episode
+Mon, 19 Oct 2026 15:36:54 GMT — https://animecorner.me/bleach-thousand-year-blood-war-reveals-final-battle-visual-ahead-of-last-anime-episode/
+
+BLEACH: Thousand-Year Blood War revealed a new "THE STORIES VISUAL - Final Battle" visual following the premiere of Episode 49, “THE BLADE.”
+
+### Cyberpunk: Edgerunners 2 Reveals Global Release Times, All Episodes to Drop at Once on October 20
+Mon, 19 Oct 2026 11:01:44 GMT — https://animecorner.me/cyberpunk-edgerunners-2-reveals-global-release-times-all-episodes-to-drop-at-once-on-october-20/
+
+CYBERPUNK: EDGERUNNERS 2 has revealed its global release schedule, with all episodes set to premiere at once on October 20.
 
 ### Witch Hat Atelier Ranks 8th Among Manga on BookWalker for Summer 2026
 Sun, 18 Oct 2026 17:58:39 GMT — https://animecorner.me/witch-hat-atelier-ranks-8th-among-manga-on-bookwalker-for-summer-2026/
@@ -83,17 +93,12 @@ Sun, 18 Oct 2026 11:08:03 GMT — https://animecorner.me/bleach-thousand-year-bl
 
 BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episode 9 (Episode&hellip;
 
-### Black Clover Season 2 Reveals Devil Union Asta Character Visual
-Sat, 17 Oct 2026 15:15:36 GMT — https://animecorner.me/black-clover-season-2-reveals-devil-union-asta-character-visual/
-
-Black Clover Season 2 has released a new Devil Union Asta charactel visual following the premiere of Episode 3 on October 17.
-
-### BanG Dream! Releases "God's Blood" from Ave Mujica prima aurora
-Sat, 17 Oct 2026 14:38:58 GMT — https://animecorner.me/bang-dream-releases-gods-blood-from-ave-mujica-prima-aurora/
-
-BanG Dream! released a short video of Ave Mujica's new song "God's Blood" from&hellip;
-
 ## MyAnimeList News
+
+### Hametsu no Oukoku Creator Launches New Manga
+Mon, 19 Oct 2026 05:37:03 -0700 — https://myanimelist.net/news/74836586?_location=rss
+
+The 46th issue of Weekly Shounen Champion magazine announced on October 15 that manga creator yoruhashi will launch a new manga, titled Tatarigatachi: Dochakushin Geigeki Gakuin (Curse Shape: Native God Interception Academy), in the magazine next issue, scheduled for an October 22 release. yoruhashi is best known for Hametsu no Oukoku (The Kingdoms of Ruin), which ran in monthly Comic Garden magazine from April 2019 to June 9. The 15th and final volume went on sale on July 9. Seven Seas Entertai...
 
 ### Toratsugumi: Tsugumi Project Announces Main Cast
 Sun, 18 Oct 2026 19:46:26 -0700 — https://myanimelist.net/news/74835366?_location=rss
