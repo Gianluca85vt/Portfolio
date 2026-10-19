@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHO SETS THE VOLUME</text>
+  <text x="120" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#F4F1F6">THIRTY YEARS</text>
+  <text x="1040" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#BE4C00">NOW</text>
+  <line x1="980" y1="184" x2="980" y2="604" stroke="rgba(244,241,246,0.2)" stroke-width="2"/>
+  <text x="120" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Consoles bought DRAM in bulk</text>
+  <text x="1040" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">AI build-outs buy it in bulk</text>
+  <text x="120" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Price curve fell for everyone</text>
+  <text x="1040" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Price curve rises for everyone</text>
+  <text x="120" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Games set the volume</text>
+  <text x="1040" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Games are a rounding error</text>
+  <text x="120" y="694" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="600" fill="#B600A8">TrendForce: AI heading for close to a fifth of global DRAM wafer capacity. IDC: no relief before the end of 2027.</text>
+</svg>

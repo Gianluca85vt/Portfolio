@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">TOP GEFORCE, MEMORY IN GB</text>
+  <text x="120" y="286" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">GTX 1080 Ti</text>
+  <rect x="120" y="300" width="453.75" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="599.75" y="336" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">11GB</text>
+  <text x="120" y="436" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">RTX 3090 / 4090</text>
+  <rect x="120" y="450" width="990" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1136" y="486" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">24GB</text>
+  <text x="120" y="586" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">RTX 5090</text>
+  <rect x="120" y="600" width="1320" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1466" y="636" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">32GB</text>
+  <text x="120" y="736" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Next top GeForce</text>
+  <rect x="120" y="750" width="990" height="46" rx="4" fill="url(#accent)"/>
+  <text x="1136" y="786" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="#F4F1F6">24GB?</text>
+  <text x="120" y="940" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" fill="rgba(244,241,246,0.45)">The last bar is a leak. Three hardware leakers describe a factory notice; Nvidia has confirmed nothing and has denied this shape of story before.</text>
+</svg>

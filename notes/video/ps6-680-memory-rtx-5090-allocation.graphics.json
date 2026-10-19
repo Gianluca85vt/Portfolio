@@ -1,0 +1,55 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "the-bill", "kind": "bars", "title": "WHAT THE NEXT CONSOLE COSTS",
+    "rows": [
+      { "label": "PS6 memory + storage", "value": 680, "display": "$680+" },
+      { "label": "PS6 bill of materials", "value": 760, "display": "~$760" },
+      { "label": "Feared PS6 price", "value": 1000, "display": "$1,000+" }
+    ],
+    "note": "Leaker KeplerL2, carried by VGC and Eurogamer, 18 Oct 2026. Sony has announced no console, no spec and no price. Treat every figure as a claim." },
+
+  { "id": "the-ceiling", "kind": "bars", "title": "TOP GEFORCE, MEMORY IN GB",
+    "rows": [
+      { "label": "GTX 1080 Ti", "value": 11, "display": "11GB" },
+      { "label": "RTX 3090 / 4090", "value": 24, "display": "24GB" },
+      { "label": "RTX 5090", "value": 32, "display": "32GB" },
+      { "label": "Next top GeForce", "value": 24, "display": "24GB?" }
+    ],
+    "note": "The last bar is a leak. Three hardware leakers describe a factory notice; Nvidia has confirmed nothing and has denied this shape of story before." },
+
+  { "id": "one-week", "kind": "beats", "title": "SEVEN DAYS",
+    "items": ["PS6 $680", "5090 pulled", "24GB ceiling", "DLSS eats VRAM"],
+    "note": "Four reports, one allocation argument underneath all of them." },
+
+  { "id": "slope-and-wall", "kind": "compare", "title": "SLOPE AND WALL",
+    "left": "Every other budget", "right": "Memory",
+    "rows": [
+      ["Costs you a percentage", "Costs you the whole render"],
+      ["You pick the trade-off", "There is no trade-off"],
+      ["Degrades gracefully", "Crawls over PCIe, or dies"],
+      ["An artist decides it", "Purchasing decides it"]
+    ],
+    "note": "Why 32GB to 24GB is not a 25% story." },
+
+  { "id": "set-before-us", "kind": "timeline", "title": "WHERE THE NUMBER COMES FROM",
+    "stages": ["DRAM contract", "Target spec", "Concept", "Model", "Texture", "Light", "Ship"],
+    "markAt": 0, "markLabel": "Settled without us",
+    "note": "The memory budget an art team builds against is fixed before anyone opens a file." },
+
+  { "id": "the-subsidy", "kind": "compare", "title": "WHO SETS THE VOLUME",
+    "left": "Thirty years", "right": "Now",
+    "rows": [
+      ["Consoles bought DRAM in bulk", "AI build-outs buy it in bulk"],
+      ["Price curve fell for everyone", "Price curve rises for everyone"],
+      ["Games set the volume", "Games are a rounding error"]
+    ],
+    "note": "TrendForce: AI heading for close to a fifth of global DRAM wafer capacity. IDC: no relief before the end of 2027." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "The hardest constraint in our whole pipeline was settled in a room with nobody from games in it.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]
