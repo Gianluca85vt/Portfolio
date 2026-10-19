@@ -1,50 +1,50 @@
 {
-  "updated": "2026-10-12",
+  "updated": "2026-10-19",
   "search": {
-    "from": "2026-09-12",
-    "to": "2026-10-09",
-    "impressions": 3906,
-    "clicks": 60,
+    "from": "2026-09-19",
+    "to": "2026-10-16",
+    "impressions": 4462,
+    "clicks": 59,
     "position": 9.3,
     "queries": [
       "paintbridge krita",
-      "painterly shadows blender",
-      "downtown generator blender",
       "duke nukem 3d dlss 5",
       "immersion blender for photographers",
+      "painterly shadows blender",
+      "hellraiser revival ray tracing",
       "silent hill townfall frame generation",
+      "downtown generator blender",
+      "gears of war e day megalights",
       "unreal engine 6",
       "blender krita bridge",
-      "gears of war e day megalights",
       "goldeneye decomp",
-      "blender feather generator",
+      "blender 5.3 dispersion",
       "blender geometry nodes feathers",
       "blender krita texture paint",
       "cinema 4d 2026.4",
-      "dlss 5 cost scaler",
-      "goldeneye 007 decompilation",
       "krita blender plugin",
       "quadify blender",
-      "tyflow car rig",
       "fire emblem fortune's weave review",
       "is it the end of the game after coronation? dawnwalker",
-      "valheim 1.0 review",
-      "elden ring tarnished edition grass",
-      "valheim ps5 review",
-      "wardogs size",
-      "gpu module",
+      "valheim review",
+      "transport fever 3 mods",
+      "ace combat 8 900 meaning",
+      "end of abyss opencritic",
+      "framework laptop 16 rtx 5070 module price images release date",
       "silent hill townfall stuttering",
       "well dweller review",
-      "star wars zero company camera",
-      "the blood of dawnwalker 30 day timer"
+      "orbitals frame rate",
+      "the blood of dawnwalker 30 day timer",
+      "wardogs size",
+      "zerply closing"
     ],
     "countries": [
       {
         "name": "United States",
-        "share": 18
+        "share": 16
       },
       {
-        "name": "Germany",
+        "name": "Japan",
         "share": 6
       },
       {
@@ -52,24 +52,24 @@
         "share": 5
       },
       {
-        "name": "Japan",
+        "name": "Italy",
         "share": 5
       },
       {
-        "name": "United Kingdom",
-        "share": 5
+        "name": "Russia",
+        "share": 4
       },
       {
-        "name": "India",
+        "name": "Germany",
         "share": 4
       }
     ]
   },
   "archive": {
-    "articles": 235,
-    "craft": 94,
-    "reviews": 33
+    "articles": 245,
+    "craft": 98,
+    "reviews": 36
   },
   "newsletter": null,
-  "bluesky": 21
+  "bluesky": 31
 }
