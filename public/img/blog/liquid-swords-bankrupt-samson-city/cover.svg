@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Liquid Swords bankrupt, Samson's city up for sale">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g font-family="Helvetica Neue, Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="80" y="150" font-size="34" opacity="0.72" letter-spacing="6">GAMES — 19 OCTOBER 2026</text>
+    <text x="80" y="330" font-size="190" font-weight="700">12 Oct</text>
+    <text x="80" y="420" font-size="52" font-weight="600" opacity="0.95">Stockholm declares Liquid Swords bankrupt</text>
+    <text x="80" y="492" font-size="40" opacity="0.78">~30 staff unpaid since August</text>
+  </g>
+</svg>
