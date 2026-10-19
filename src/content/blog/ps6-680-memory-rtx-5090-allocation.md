@@ -18,7 +18,6 @@ sources:
     url: https://www.trendforce.com/news/2025/12/26/news-ai-reportedly-to-consume-20-of-global-dram-wafer-capacity-in-2026
 artistView:
   take: "Every other number on a spec sheet is a dial an artist can turn — fewer casters, a shorter LOD chain, one less bounce. Memory is the only one that is a yes or a no, which is why a memory shortage does not make the work slower, it makes some of the work impossible and the rest of it a negotiation. This week the shortage arrived on the authoring machine and the target platform in the same breath, and games were not the bidder that set the price of either."
-draft: true
 ---
 
 We've stopped buying memory. We're being handed what's left of it, which is a
