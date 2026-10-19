@@ -1,176 +1,181 @@
-# Film & TV — harvested 2026-10-18T18:56:20.879Z
+# Film & TV — harvested 2026-10-19T10:17:06.577Z
 
 ## Variety
 
-### Taylor Swift Fires Up Academy Gala With Four Songs in Her First Band Performance Since the Eras Tour
-Sun, 18 Oct 2026 18:05:24 +0000 — https://variety.com/2026/film/news/taylor-swift-performance-academy-gala-five-songs-1236915817/
+### Ju Ji-hoon, Choo Young-woo Return for Netflix’s ‘The Trauma Code: Heroes on Call’ Seasons 2 and 3
+Mon, 19 Oct 2026 09:40:23 +0000 — https://variety.com/2026/tv/news/ju-ji-hoon-choo-young-woo-trauma-code-seasons-2-3-netflix-1236916275/
 
-Taylor Swift got some of the old gang back together for her first full-band performance since the Eras Tour, delivering a four-song set to a black-tie audience Saturday night at the Academy Museum 6th Annual Gala. Conan O Brien introduced her by saying, “It’s an insane, unprecedented honor to introduce a cherished member of our little [ ]
+Netflix is bringing back Korean medical drama “The Trauma Code: Heroes on Call” for two more rounds, with the streamer confirming that Seasons 2 and 3 are in production. In 2025, the show’s first season made the Top 10 charts in 63 countries and reached No. 1 in 18 of them. Ju Ji-hoon (“Kingdom”) is [ ]
 
-### Woodstock Film Festival Names Jessica Edwards as Executive Director
-Sun, 18 Oct 2026 18:00:00 +0000 — https://variety.com/2026/film/news/woodstock-film-festival-jessica-edwards-executive-director-1236915828/
+### The Secret Agent Director Kleber Mendonça Filho to Be Patron of Marrakech Film Festival’s Atlas Workshops
+Mon, 19 Oct 2026 09:23:10 +0000 — https://variety.com/2026/film/global/kleber-mendonca-filho-marrakech-atlas-workshops-1236915626/
 
-Jessica Edwards has been named the new executive director of the Woodstock Film Festival, the organization announced Sunday as the 27th annual festival came to a close. Edwards will take over the role from Meira Blaustein, the festival s co-founder. “I have had the pleasure of working with Jessica at the Woodstock Film Festival over the [ ]
+Brazilian filmmaker Kleber Mendonça Filho, best known for “The Secret Agent,” will be the patron – serving as a mentor to the filmmakers of the 9th edition of the Atlas Workshops, the Marrakech Film Festival’s professional platform dedicated to the development of Moroccan, Arab and African cinema, which takes place from Nov. 22 to [ ]
 
-### Aran Murphy on Playing an Angry Young Man in ‘Youth’ and ‘War’ — and His Father Cillian’s Influence
-Sun, 18 Oct 2026 18:00:00 +0000 — https://variety.com/2026/tv/news/aran-murphy-youth-war-and-cillian-murphy-influence-1236909378/
+### Selena Gomez Reveals Vaping Nicotine Changed Her Voice: ‘It’s Not Worth It’
+Mon, 19 Oct 2026 09:20:32 +0000 — https://variety.com/2026/tv/news/elena-gomez-vaping-nicotine-changed-voice-1236916270/
 
-Aran Murphy is having quite a month, as he co-stars on not one, but two HBO shows — “Youth” and “War” — and plays one of the leads of Taika Waititi s dystopian film “Klara and the Sun,” set to be released on Oct. 23. But if you think you ve seen the 19-year-old actor before, it [ ]
+Selena Gomez said heavy nicotine vaping has changed her voice, and told fans she has now quit the habit. The singer, actor and Rare Beauty founder, 34, spoke about it in a video of roughly a minute posted to her Instagram Story on Sunday. “I m not going to be able to change my voice,” Gomez [ ]
 
-### Charli xcx Brings Out Chappell Roan for ‘Boom Clap’ at Los Angeles Concert
-Sun, 18 Oct 2026 17:53:29 +0000 — https://variety.com/2026/music/news/chappell-roan-charli-xcx-boom-clap-los-angeles-1236915831/
+### Seventeen s Jeonghan and Joshua Find Their JxJ Duo Sound on Dreamscape’: ‘Right in the Middle Between Strong and Subtle’ (EXCLUSIVE)
+Mon, 19 Oct 2026 09:01:00 +0000 — https://variety.com/2026/music/news/seventeen-jeonghan-joshua-jxj-debut-dreamscape-1236915561/
 
-As anyone who’s seen her in concert knows, Charli xcx is usually laser-focused on her current material and rarely looks back for more than a couple of songs. But she made an exception on Saturday night at the Kia Forum in Los Angeles, when she performed her 2014 breakthrough hit “Boom Clap” (for the first [ ]
+For more than a decade, Seventeen’s Jeonghan and Joshua have shared the spotlight with 11 bandmates in one of K-pop’s best-selling groups. Now they get it to themselves with “Dreamscape,” their first album as the duo JxJ. The record is also Jeonghan’s first new music since he completed South Korea’s mandatory military service this summer. [ ]
 
-### Cindy Crawford, Rande Gerber and Kaia Gerber Remember Presley Gerber as a Sweet, Beautiful Soul : We Love You Forever
-Sun, 18 Oct 2026 17:52:24 +0000 — https://variety.com/2026/digital/news/cindy-crawford-rande-kaia-gerber-remember-presley-gerber-1236870915/
+### Psychological Horror ‘Henry’s Ebb,’ Starring Widow s Bay s Kingston Rumi Southwick, Boarded by Bridge Independent (EXCLUSIVE)
+Mon, 19 Oct 2026 09:00:00 +0000 — https://variety.com/2026/film/global/henrys-ebb-kingston-rumi-southwick-bridge-independent-1236914656/
 
-Cindy Crawford, Rande Gerber and Kaia Gerber took to social media on Sunday to remember their son and brother Presley Gerber, who died in September at the age of 27. We are beyond heartbroken to lose our beloved son and brother. We feel so blessed to have had Presley in our lives for 27 years, [ ]
+Bridge Independent has boarded psychological horror film Henry’s Ebb, which stars Kingston Rumi Southwick, one of the stars of Widow’s Bay. The film makes its world premiere at the Tallinn Black Nights Film Festival. Henry’s Ebb, written and directed by Thomas Mendolia in his feature debut, also stars Banks Repeta ( The Black Phone ), Ashley Shelton [ ]
 
-### CBS News Correspondent Jan Crawford Apologizes for Post on Abdul El-Sayed That Sparked Social-Media Ire
-Sun, 18 Oct 2026 17:51:35 +0000 — https://variety.com/2026/tv/news/cbs-news-jan-crawford-apologizes-abdul-el-sayed-post-1236915791/
+### Rajinikanth’s Jailer 2 Ranks No. 2 at Global Box Office as Street Fighter Leads
+Mon, 19 Oct 2026 08:41:49 +0000 — https://variety.com/2026/film/box-office/rajinikanth-jailer-2-no-2-global-box-office-1236916220/
 
-CBS News veteran Jan Crawford usually has the delicate task of covering the U.S. Supreme Court and the ways in which its decisions affect American lives and policies. On Sunday, however, Crawford was the one being judged. Crawford, who joined CBS News in 2009, posted a note following a town hall meeting held Saturday night [ ]
+Indian superstar Rajinikanth’s Tamil-language action comedy “Jailer 2” was the second-biggest film in the world over the Oct. 16–18 weekend, grossing $31.2 million, according to Rentrak estimates. Only Paramount’s “Street Fighter,” with $51.1 million, earned more. The Nelson Dilipkumar-directed sequel opened in India on, Oct. 15, and grossed an estimated INR224 crore ($23.5 million) across [ ]
 
-### Jaime Pressly Defends ‘Mom’ Co-Stars as ‘Beautifully Flawed’ After Creator Chuck Lorre Revealed His ‘Reluctance to Hire’ Anna Faris
-Sun, 18 Oct 2026 17:23:50 +0000 — https://variety.com/2026/tv/news/jaime-pressly-defends-mom-co-stars-chuck-lorre-memoir-1236915780/
+### Barry Loser Animated Series, Based on Bestselling U.K. Children s Books, Finds Italian Partners Ahead of Rome s MIA Market (EXCLUSIVE)
+Mon, 19 Oct 2026 08:30:00 +0000 — https://variety.com/2026/tv/global/barry-loser-animated-series-italian-partners-mia-1236915571/
 
-Jaime Pressly has joined former “Mom” co-star Anna Faris in responding to show co-creator Chuck Lorre’s professional criticism. In his recent memoir “Sitcom,” Lorre wrote that he “was, in fact, right” to be hesitant to cast Faris as the lead character, Christy Plunkett. Pressly, who joined the CBS sitcom in its second season as recovering [ ]
+“Barry Loser,” the award-winning, million-selling children’s book series from creator Jim Smith, is being adapted into an animated series by the U.K.’s Big Little Fish Television and Italian co-producer Frog Head. It’s one of the projects that will be pitched to industry reps during the newly launched Animation Series Gap-Financing Market at Rome’s MIA Market. [ ]
 
-### Box Office: La Bola Negra Scores $277,500 From Four Theaters as Netflix Reports Grosses for First Time Ever
-Sun, 18 Oct 2026 17:12:54 +0000 — https://variety.com/2026/film/news/la-bola-negra-box-office-netflix-reports-grosses-1236915765/
+### Tallinn Baltic Event: New Movie From Darko Lungulov and Ernestas Jankauskas, Plus Titles Directed by Rising Talents Josh Trigg, Marina Palacio and Many More
+Mon, 19 Oct 2026 08:28:21 +0000 — https://variety.com/2026/film/global/industrytallinn-baltic-event-works-in-progress-1236916209/
 
-In a major shift in the theatrical tides, Netflix has reported box office grosses for the first time ever. The streamer s awards hopeful La Bola Negra scored $277,500 from just four theaters, averaging $69,375 per location. Those ticket sales are notable as the second-highest screen average ever for a non-English language film behind 2019 s Parasite, [ ]
+Tribeca-winning helmer Darko Lungulov, behind Serbia’s Oscar candidate “Here and There,” and Lithuania’s Ernestas Jankauskas (“Troll Farm,” “I Am Fine, Thanks,” “Sasha Was Here ) are among a handful of seasoned filmmakers set to pitch their works in progress at Tallinn’s Baltic Event industry showcase Nov. 19, next to a swathe of exciting new voices. Those [ ]
 
-### Georgina Cates, ‘An Awfully Big Adventure’ and ‘2point4 Children’ Actress, Dies at 51
-Sun, 18 Oct 2026 17:01:39 +0000 — https://variety.com/2026/film/news/georgina-cates-dead-awfully-big-adventure-2point4-children-1236915784/
+### ‘Train to Busan’ Director Yeon Sang-ho’s ‘Paradise Lost’ Clinches 118-Country Sales Ahead of Hawai‘i Festival U.S. Bow
+Mon, 19 Oct 2026 07:20:07 +0000 — https://variety.com/2026/film/news/yeon-sang-ho-paradise-lost-sold-118-countries-hawaii-1236916204/
 
-Georgina Cates, the British actress who appeared in films including “An Awfully Big Adventure” and the TV series “2point4 Children,” has died. She was 51. Cates’s death was announced by her daughter, Naiia, on Instagram in June, though it had not been reported until now. “My beautiful, free-spirited mom lived a hard life and still [ ]
+“Paradise Lost,” the new psychological thriller by “Train to Busan” filmmaker Yeon Sang-ho, has been sold to 118 countries and will have its U.S. premiere at the 46th Hawai‘i International Film Festival. It will play in the Spotlight on Korea section on Nov. 1 and 4. CJ ENM, which is handling international sales, said overseas [ ]
 
-### Box Office: You Can See Everything Stuns With $15 Million Debut, Street Fighter Leads With $31 Million
-Sun, 18 Oct 2026 15:05:10 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-box-office-nathan-fielder-elizabeth-holmes-huge-start-1236915640/
+### Busan Winner Ria, Arvin Belarmino s Folk-Punk Debut, Boards Lights On (EXCLUSIVE)
+Mon, 19 Oct 2026 07:02:36 +0000 — https://variety.com/2026/film/news/busan-winner-ria-arvin-belarmino-punk-debut-lights-on-1236916195/
 
-You Can See Everything accomplished a true box office feat, becoming the rare must-see documentary on the big screen. Director Nathan Fielder and Lance Oppenheim s much-hyped look at Elizabeth Holmes has generated a massive $15 million from just 855 theaters. Those ticket sales were enough for second place behind another newcomer, Paramount s video game adaptation [ ]
+“Ria,” Philippines filmmaker Arvin Belarmino’s debut feature about a young woman from the folk-punk scene who takes on a property developer to save her home, has been picked up by international sales company Lights On following its world premiere at the Busan International Film Festival. The film picked up the Heart of Eurasia Award after [ ]
 
 ## The Hollywood Reporter
 
-### Cindy Crawford Breaks Her Silence on Son Presley Gerber’s Death: A Sweet, Beautiful Soul
+### European Producers Must Get Bigger to Compete, Says EU Policy Chief: We Must Invest in Companies
+Mon, 19 Oct 2026 09:40:51 +0000 — https://www.hollywoodreporter.com/tv/tv-news/european-producers-eu-chief-1236735171/
+
+The comments by Giuseppe Abbamonte, director for media policy for the European Commission, at the MIA Market in Rome came amid calls for ways foreign players can help finance local films and TV series.
+
+### My Notes on Mars, Moonglow and The Secret Lives of Baba Segi’s Wives : LFF Tea With Filmmakers
+Mon, 19 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/my-notes-on-mars-moonglow-lff-2026-tea-with-filmmakers-1236735137/
+
+THR caught up with some writers and directors during BFI London Film Festival-organized meet-ups.
+
+### Apu is Back! Veteran Voice Actor Sunil Malhotra Revives The Simpsons Character After Nearly 10 Years
+Mon, 19 Oct 2026 08:55:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news/apu-sunil-malhotra-rthe-simpsons-hank-azaria-1236735125/
+
+The 'The Legend of Korra' and 'The Legend of Vox Machina' actor takes over the role from Hank Azaria, who dropped the character following the release of the 2017 documentary 'The Problem With Apu.'
+
+### ‘Other Desert Cities’ Theater Review: Julia Louis-Dreyfus, Ed Harris and Allison Janney Fail to Make a Once-Timely Play Relevant Again
+Mon, 19 Oct 2026 04:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/other-desert-cities-theater-review-julia-louis-dreyfus-1236734079/
+
+Lily Rabe and Joe Keery also star in the Broadway revival of Jon Robin Baitz’s lauded 2011 play about politics, family and regret.
+
+### The Six Things You Don t See In You Can See Everything
+Mon, 19 Oct 2026 03:09:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/you-can-see-everything-what-happens-holmes-billy-showtimes-1236735112/
+
+Now that you’ve witnessed something, let us illuminate some other things.
+
+### Victoria s Secret Fashion Show: See Red Carpet and Backstage Photos of Models, Megan Thee Stallion and Kobe Bryant s Daughter
+Mon, 19 Oct 2026 00:48:58 +0000 — https://www.hollywoodreporter.com/gallery/victorias-secret-fashion-show-2026-red-carpet-backstage-photos-models-1236735003/
+
+The fashion brand brought its iconic runway show to Sony Pictures Studios in L.A. where stars Nicole Kidman, Tate McRae, Victoria Monét, Tinashe, Law Roach and Dylan Sprouse watched models like Gigi Hadid, Anok Yai, Alex Consani, Adriana Lima and Alessandra Ambrosio strut their stuff.
+
+### Less Red Carpet, More Love of Cinema : The Warsaw Int l Film Festival Wants to Be a Destination for Discovery
+Mon, 19 Oct 2026 00:03:18 +0000 — https://www.hollywoodreporter.com/movies/movie-news/warsaw-film-festival-wiff-focus-on-cinema-love-discovery-1236733189/
+
+Festival director Joanna Szymańska-Szcześniak and program director Bartek Pulcyn see more room for growth without the glitz and glam: "Our focus is firmly on the quality of the films."
+
+### Jesse Eisenberg Reveals TV Show Details as The Debut Closes a Star-Studded London Film Festival
+Sun, 18 Oct 2026 22:24:36 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-tv-show-debut-london-film-festival-julianne-1236734918/
+
+Eisenberg and lead actress Julianne Moore gushed over one another ahead of the well-received screening — and the filmmaker also told THR what his upcoming TV series is about.
+
+### Young Miko Gets Flirty With L.A. During Her Late Checkout Tour
+Sun, 18 Oct 2026 19:34:06 +0000 — https://www.hollywoodreporter.com/music/music-news/young-miko-la-concert-late-checkout-tour-highlights-1236734751/
+
+The Puerto Rican rapper and singer performed her sophomore album, 'Do Not Disturb,' as well as several other hits to a sold-out crowd at Inglewood’s Intuit Dome Saturday night.
+
+### Cindy Crawford, Kaia Gerber Break Their Silence on Presley Gerber’s Death: A Sweet, Beautiful Soul
 Sun, 18 Oct 2026 18:08:13 +0000 — https://www.hollywoodreporter.com/news/general-news/cindy-crawford-tribute-son-presley-gerber-dead-1236734874/
 
-Presley died in September at age 27.
-
-### Betty McGuire, Actress on Broadway and ‘Growing Pains,’ Dies at 100
-Sun, 18 Oct 2026 17:20:25 +0000 — https://www.hollywoodreporter.com/tv/tv-news/betty-mcguire-dead-growing-pains-broadway-1236734856/
-
-She worked alongside Ethel Merman, Bea Arthur and Susan Hayward on the stage, was Joanna Kerns’ mom on the ABC sitcom and played a nun in ‘Up in Smoke.’
-
-### Inside Tubi’s Plan to Build an R.L. Stine Cinematic Universe
-Sun, 18 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/tubi-r-l-stine-pumpkinhead-2-the-babysitter-strategy-1236730062/
-
-The children’s horror author, along with filmmaker Jem Garrard and Tubi’s VP of Original Scripted Content Josh Van Houdt on bringing 'Pumpkinhead' and its sequel to the screen, and the streamer's future with 'Afraid of Clowns' and 'The Babysitter.'
-
-### You Can See Everything Triumphs With $15M as Street Fighter Wins Weekend
-Sun, 18 Oct 2026 16:04:19 +0000 — https://www.hollywoodreporter.com/movies/movie-news/street-fighter-box-office-you-can-see-everything-whalefall-1236734312/
-
-A24's Elizabeth Holmes documentary had audiences pumped, notching 2,000 sellout screenings and becoming the highest-grossing title in two decades for a release under 1,000 theaters.
-
-### R.J. Mitte s Mother Opens Up About His Tragic Passing to Help Other Families (While Clarifying Speculation About His Finances, Career and Fiancé)
-Sun, 18 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/news/general-news/r-j-mitte-mother-family-interview-death-suicide-prevention-1236734202/
-
-"I’m taking one step at a time," Dyna Mitte said hours after her son's Celebration of Life ceremony. She opened up on his childhood, recent issues and his true legacy. "He was the light of my life."
-
-### Georgina Cates, ‘An Awfully Big Adventure’ and ‘Clay Pigeons’ Actress, Dies at 51
-Sun, 18 Oct 2026 15:48:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/georgina-cates-dead-awfully-big-adventure-skeet-ulrich-1236734334/
-
-The Englishwoman started out on the BBC sitcom ‘2point4 Children’ and also appeared in ‘Illuminata’ and ‘Jackass: Bad Grandpa.’
-
-### Taylor Swift, Charlize Theron, Colman Domingo and Many More Stars Help Academy Museum Gala Raise Over $14M
-Sun, 18 Oct 2026 15:31:15 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/taylor-swift-stars-academy-museum-gala-raise-14m-1236734684/
-
-The A-list event — which has become a major stop on the Oscar campaign trail — took over L.A. on Saturday night, with Swift performing four songs.
-
-### Tim O’Donnell, Veteran Sitcom Writer, Producer and Director, Dies at 77
-Sun, 18 Oct 2026 15:28:52 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tim-odonnell-dead-growing-pains-clueless-daves-world-1236734794/
-
-He worked on ‘Growing Pains,’ ‘Clueless,‘ ‘Dave’s World,’ ‘Uncle Buck,’ ‘Home Free,’ ‘Phil of the Future’ and more.
-
-### Jesse Eisenberg Relives Kieran Culkin Woes Making A Real Pain and Says His Next Project Is a TV Show
-Sun, 18 Oct 2026 14:28:44 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jesse-eisenberg-kieran-culkin-real-pain-debut-film-london-1236734749/
-
-Producer Emma Stone had to chaperone Culkin on the plane to Poland because Eisenberg didn't know if he was going to show: "She sent me a video of him going through customs saying, 'We are here.'"
-
-### The Best-Dressed Stars at the Academy Museum Gala, Including Inde Navarrette and Taylor Swift
-Sun, 18 Oct 2026 14:27:52 +0000 — https://www.hollywoodreporter.com/lifestyle/style/best-dressed-stars-academy-museum-gala-2026-1236734403/
-
-Taylor Swift in Dior, Sabrina Carpenter in Giorgio Armani Privé and Colman Domingo in custom Valentino were among the night's wow moments in style.
+Crawford's son Presley died in September at age 27.
 
 ## Deadline
 
-### How A24 Spurred A Meme Craze Got The Many To Watch You Can See Everything : Documentary Opens To $15M Milestone
-Sun, 18 Oct 2026 18:50:39 +0000 — https://deadline.com/2026/10/you-can-see-everything-box-office-elizabeth-holmes-1237167129/
+### Huw Edwards Drama For Skydance UK Network 5 Being Probed By Ofcom
+Mon, 19 Oct 2026 09:52:03 +0000 — https://deadline.com/2026/10/huw-edwards-5-drama-ofcom-investigation-power-downfall-1237167389/
 
-Less than two months ago, the public didn t even know that a Nathan Fielder co-directed and starring documentary which followed controversial Theranos founder Elizabeth Holmes even existed. And here we are with A24 having cracked the code on Gen Z again with an awesome $15M opening; 2,000-plus sellouts, and lines around the block for the [ ]
+Power: The Downfall of Huw Edwards is being probed by Ofcom over fairness and privacy. An investigation has been launched into the two-part series for Skydance UK network 5 under the fairness and privacy section of the regulator s Broadcasting Code. No more detail was forthcoming. We are investigating a fairness and privacy complaint about this [ ]
 
-### Woodstock Film Festival Names Jessica Edwards Executive Director, Announces 2026 Maverick Award Winners — Full List
-Sun, 18 Oct 2026 18:50:12 +0000 — https://deadline.com/2026/10/woodstock-film-festival-jessica-edwards-executive-director-1237167150/
+### Tall Tales Murder’ Scores New International Deals As Season 2 Takes Shape
+Mon, 19 Oct 2026 09:29:53 +0000 — https://deadline.com/2026/10/tall-tales-and-murder-international-season-2-chris-addison-1237167375/
 
-The 27th Woodstock Film Festival has concluded with the announcement of its Maverick Award winners and a new executive director. On Sunday, the festival named Jessica Edwards as its new executive director, taking over for co-founder Meira Blaustein, as Kelly O’Sullivan and Alex Thompson s Mouse won Best Narrative Feature during Sunday s awards brunch. To call [ ]
+EXCLUSIVE: Crime caper Tall Tales Murder has racked up more international sales as the team behind the show turn their attention to Season 2. The series bowed on RTÉ in Ireland last month to critical acclaim, and it will soon be on the BBC in the UK. Filmin has now nabbed the Avalon-distributed show [ ]
 
-### Tom Arnold Denies Chuck Lorre s Claim That He Made Writers Put His Name On Roseanne Scripts: Never
-Sun, 18 Oct 2026 17:44:39 +0000 — https://deadline.com/2026/10/tom-arnold-denies-chuck-lorre-claim-roseanne-scripts-1237167120/
+### Kleber Mendonça Filho To Mentor Marrakech s Atlas Workshops As 30-Project Selection Unveiled
+Mon, 19 Oct 2026 09:18:27 +0000 — https://deadline.com/2026/10/kleber-mendonca-filho-marrakech-atlas-workshops-selection-1237167193/
 
-As Chuck Lorre s memoir continues to make the rounds, Tom Arnold is the latest sitcom actor to respond to criticisms of himself in the book. Following Lorre s claim in Sitcom that writers on Roseanne (1988- 97) were told to put Tom s name on the front page [of scripts]—­as if Tom had written them, Arnold emphasized that [ ]
+The Atlas Workshops, Marrakech Film Festival’s project development platform, has named Brazilian director Kleber Mendonça Filho as the patron of its 9th edition and unveiled the 30 projects invited to participate. The award-winning The Secret Agent filmmaker follows in the footsteps of Cristian Mungiu and Jeff Nichols, in a role which will see him mentor [ ]
 
-### ‘Dreadline Express’ Game Developer David Konecny Talks Stressful Player Choice The Art Of Building A Psychological Horror
-Sun, 18 Oct 2026 17:00:00 +0000 — https://deadline.com/2026/10/dreadline-express-video-game-interview-david-konecny-1237166952/
+### The Celebrity Traitors : BBC Says It s Categorically Untrue James Acaster Made Complaint About Co-Stars Macho Banter
+Mon, 19 Oct 2026 09:09:05 +0000 — https://deadline.com/2026/10/the-celebrity-traitors-bbc-denies-james-acaster-complaint-1237167366/
 
-For Czech developer David Konecny, Dreadline Express brings together a lifelong fascination with trains, psychological horror, and stories shaped by difficult choices. His debut game takes players aboard a train at the end of the world, where a distinctive card-based system lets them explore the lives of its varied passengers and see how their stories [ ]
+The BBC has firmly denied that James Acaster complained about the behavior of fellow comedians, Rob Beckett and Romesh Ranganathan, during The Celebrity Traitors. The Mail on Sunday reported over the weekend that Acaster, who starred in Ghostbusters: Frozen Empire, raised his concerns with producers at Studio Lambert after he became uncomfortable with the macho [ ]
 
-### Street Fighter Rings Up No. 1 $51M+ WW Opening, Largely Driven By Fans Global Box Office Update
-Sun, 18 Oct 2026 16:59:27 +0000 — https://deadline.com/2026/10/box-office-global-street-fighter-1237167021/
+### Sue Perkins Exploring ADHD Diagnosis For First Time In Audible Podcast Attention, Please! Tales From A Distracted Mind
+Mon, 19 Oct 2026 09:05:22 +0000 — https://deadline.com/2026/10/sue-perkins-exploring-adhd-diagnosis-podcast-audible-1237167368/
 
-With the Nathan Fielder and Elizabeth Holmes documentary craze currently a stateside thing, Paramount/Legendary/Capcom s Street Fighter was the ringleader at the worldwide weekend B.O. with a $51.1M global opening. Of that $20.1M came from 65 markets with the lionshare stateside with $31M. Again, this is several kicks up from what Street Fighter did in its [ ]
+EXCLUSIVE: Former Great British Bake Off host Sue Perkins is exploring her late-in-life ADHD diagnosis for the first time in an Audible podcast. Perkins was diagnosed with ADHD just a few years ago, in her 50s, and says she has since been on a journey. Landing today, Attention, Please! Tales From a Distracted Mind will [ ]
 
-### Curtain Up: ‘La Bola Negra’ Shines As Netflix Shares Grosses In Historic First Specialty Box Office
-Sun, 18 Oct 2026 16:46:26 +0000 — https://deadline.com/2026/10/indie-film-box-office-la-bola-negra-shines-netflix-shares-grosses-1237167026/
+### Other Desert Cities Review: Julia Louis-Dreyfus Gets Seriously Funny For Broadway Debut
+Mon, 19 Oct 2026 04:00:00 +0000 — https://deadline.com/2026/10/other-desert-cities-broadway-review-julia-louis-dreyfus-1237165682/
 
-UPDATED with Once Upon A Time In Harlem, Musk, more: Netflix s Spanish drama La Bola Negra debuted to $277.5k on four screens – these numbers coming directly from the giant streamer Sunday in its first ever official box office grosses. The TIFF audience award-winner saw $108.3k Friday and $84.6k on Saturday leading into a strong [ ]
+It s hard to imagine any secrets or hints of repressed trauma surviving long in the glare of Palm Springs sunshine that keeps things bright in the airy, open-floor, large windowed home of the moneyed family at the center of Jon Robin Baitz Other Desert Cities, but survive those secrets do, at least until they don t. [ ]
 
-### Georgina Cates Dead: BBC Star Clay Pigeons Actress Was 51
-Sun, 18 Oct 2026 16:38:18 +0000 — https://deadline.com/2026/10/georgina-cates-dead-bbc-1237167085/
+### Jason Sudeikis Gives Update On Potential Ted Lasso Seasons 5 6
+Mon, 19 Oct 2026 03:30:23 +0000 — https://deadline.com/2026/10/ted-lasso-seasons-5-6-jason-sudeikis-comments-1237167324/
 
-Georgina Cates, the actress known for her roles in Clay Pigeons (1998) and several BBC projects, has died. She was 51. On Saturday, BBC s 2point4 Children creator Andrew Marshall announced Cates passing, years after her breakout role as Jenny Porter on the sitcom when she was 16 years old. She had reportedly died in May, [ ]
+Never count Ted Lasso out. After all, show co-creator Jason Sudeikis thought the series would end with Season 3. Then came Season 4. Sudeikis held forth recently on the podcast Talk Easy with Sam Fragoso about the prospects for Seasons 5 and 6. Sudeikis indicated he “would like to” do more seasons but, he said, [ ]
 
-### Monday Night Friction? ESPN NFL Broadcasters Joe Buck Troy Aikman Have Noisy Start To Super Bowl Year
-Sun, 18 Oct 2026 15:43:56 +0000 — https://deadline.com/2026/10/nfl-espn-joe-buck-troy-aikman-monday-night-1237166923/
+### Yeon Sang-ho’s ‘Paradise Lost’ Sells To 118 Territories; Sets U.S. Premiere At Hawaii International Film Festival
+Mon, 19 Oct 2026 02:18:36 +0000 — https://deadline.com/2026/10/yeon-sang-ho-paradise-lost-cj-enm-well-go-usa-hawaii-1237167275/
 
-NFL announcing duo Joe Buck and Troy Aikman, who helped revive Monday Night Football after moving to ESPN in 2022, now find themselves at the center of one of the NFL s dishiest off-field dramas. Money, as usual, is seen as the root cause. Buck last month agreed to a contract renewal with ESPN parent Disney, [ ]
+Korea’s CJ ENM has sold Paradise Lost, the psychological thriller from Train To Busan director Yeon Sang-ho, to 118 countries worldwide, including Twin for Japan, The Jokers Films for France, and Well Go USA for North America. The film is also set to receive its US premiere in the Spotlight on Korea section of this [ ]
 
-### Street Fighter Socks $31M, You Can See Everything Has 2,000+ Sellouts With $15M Docu Milestone Sunday Update
-Sun, 18 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/box-office-street-fighter-you-can-see-everything-1237159320/
+### The New Apu Makes His Debut Tonight On The Simpsons
+Mon, 19 Oct 2026 02:16:52 +0000 — https://deadline.com/2026/10/simpsons-new-apu-actor-1237167332/
 
-SUNDAY AM Writethru after Saturday update: It s a healthy third weekend at the October box office even with a bellyflop in 20th Century Studio s $60M Whalefall in the mix which is only swallowing a $8M opening. Paramount/Legendary/Capcom s Street Fighter is doing what it s supposed to do with a $31M start, largely pulling in an older [ ]
+Apu has found his voice again on The Simpsons. Hank Azaria voiced the character for close to 30 years until a 2017 documentary ignited a backlash over how the character represented South Asians. Since then, the fan favorite has been seen on the show, but not heard. Until now. Tonight s episode, The Revengening, is a [ ]
 
-### London Film Festival: Sergei Loznitsa’s ‘Imperium’ Sompot Chidgasornpongse’s ‘9 Temples To Heaven’ Among Big Winners — Full List
-Sun, 18 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/london-film-festival-award-winners-2026-1237166918/
+### Ju Ji-hoon Choo Young-woo Return To The Trauma Code: Heroes On Call With Seasons 2 3 In Production At Netflix
+Mon, 19 Oct 2026 00:00:00 +0000 — https://deadline.com/2026/10/trauma-code-heroes-on-call-netflix-seasons-2-3-confirmed-1237165650/
 
-Ukrainian filmmaker Sergei Loznitsa’s latest feature Imperium has won the Best Film Award in the Official Competition at this year’s London Film Festival. The winners were announced this afternoon, the last day of the LFF. The LFF Official Competition jury was led by documentary filmmaker Sam Pollard. Discussing why they chose Imperium, the jury described [ ]
+The Trauma Code: Heroes on Call will be back in the emergency room for Seasons 2 and 3. The Korean Netflix drama series has gone into production on the second and third runs of the show, with stars Ju Ji-hoon (Kingdom) and Choo Young-woo (The Tale of Lady Ok) returning. Also back in the cast [ ]
 
-### El Gouna Unveils Third Cohort Of CineGouna Emerge Program s Rising Stars
-Sun, 18 Oct 2026 12:01:00 +0000 — https://deadline.com/2026/10/el-gouna-cinegouna-emerge-2026-rising-stars-1237166913/
+### SNL UK Takes Aim At Shane Gillis On Weekend Update : You Stupid F*cking C*nt
+Sun, 18 Oct 2026 21:14:08 +0000 — https://deadline.com/2026/10/snl-uk-takes-aim-shane-gillis-weekend-update-1237167181/
 
-EXCLUSIVE: Egypt’s El Gouna Film Festival has announced the third cohort of emerging talents from across the Arab world selected for its Rising Stars program. They are Egyptian director Abdallah Dnewar, Saudi Arabian writer-director Razan AlSoghayer, Palestinian filmmaker Omar Rammal, Palestinian Jordanian director-producer Asmahan Bkerat and Syrian DoP, editor and director Rama Abdi. Launched in [ ]
+While Saturday Night Live was off this weekend, its British counterpart pulled no punches in criticizing last week s episode of the U.S. sketch comedy show. On Satuday, SNL UK s Weekend Update co-host Ania Magliano ended the segment with a joke about Shane Gillis, following his complaint during last weekend s SNL opening monologue that women just [ ]
 
-### James McAvoy Pitched Star Trek Series About Young Picard, Jokes All I Really Want To Do Is Play Young Patrick Stewart
-Sun, 18 Oct 2026 00:29:09 +0000 — https://deadline.com/2026/10/james-mcavoy-pitched-star-trek-series-young-picard-1237166532/
+### Betty McGuire Dies: Broadway Actress Growing Pains Guest Star Was 100
+Sun, 18 Oct 2026 20:48:34 +0000 — https://deadline.com/2026/10/betty-mcguire-dead-1237167173/
 
-After putting in his tenure in the X-Men franchise, James McAvoy had his sights set on another iconic character originated by Patrick Stewart. The Golden Globe nominee recently revealed that he pitched a Star Trek series about young Picard that was titled Mutiny On the Stargazer, noting that he nearly made the limited series. That [ ]
+Betty McGuire, the Broadway actress who also appeared on the ABC sitcom Growing Pains, has died. She was 100. On Sunday, McGuire s rep confirmed that the actress died of natural causes on Thursday, Oct. 8 at the Motion Picture Television Country House and Hospital in Woodland Hills. Born in Bridgeport, Connecticut, McGuire made her [ ]
 
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Léa Seydoux Became Fearless After the Controversies of ‘Blue Is the Warmest Color’ — She’s Doing It Again with ‘Gentle Monster’
+Sun, 18 Oct 2026 21:23:00 +0000 — https://www.indiewire.com/awards/consider-this/lea-seydoux-blue-is-the-warmest-color-gentle-monster-1235222558/
+
+Marie Kreutzer's "Gentle Monster" is yet another example of how Seydoux explores the dark side of the human psyche. It could land her an Oscar nomination.
 
 ### La Bola Negra Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History
 Sun, 18 Oct 2026 15:02:25 +0000 — https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/
@@ -207,17 +212,47 @@ Sat, 17 Oct 2026 14:54:59 +0000 — https://www.indiewire.com/news/festivals/set
 
 “You could put 10 movies on the screen. If this was one of them, the specificity of it is what would make you instantly recognize it," said Rogen of the IFC animated film he produced.
 
-### Can AI Make a Sci-Fi Series for $38,000? Artlist’s ‘The Arc’ Puts It to the Test
-Fri, 16 Oct 2026 22:35:10 +0000 — https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/
-
-Your scientists were so preoccupied with whether they could that they didn't stop to think about whether they should.
-
-### Julianne Moore and Paul Giamatti Were So Perfect in The Debut That They Cut Shooting Time Short
-Fri, 16 Oct 2026 21:43:11 +0000 — https://www.indiewire.com/news/festivals/julianne-moore-paul-giamatti-perfect-takes-the-debut-1235222468/
-
-Joined by Moore, the star of his latest film “The Debut,” filmmaker Jesse Eisenberg revealed to the Middleburg Film Festival audience that every scene used is his leads' "first and second take."
-
 ## The Wrap
+
+### Other Desert Cities Broadway Review: Julia Louis-Dreyfus Brings Biting Levity to Her Main Stem Debut
+Mon, 19 Oct 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/theater/other-desert-cities-broadway-review-julia-louis-dreyfus-allison-janney/
+
+Shortly after the Broadway premiere of Jon Robin Baitz’s “Other Desert Cities” in 2011, I interviewed one of its stars about playing the doyenne of a famous, albeit fictitious, Republican family living in Palm Springs. Stockard Channing told me that her character, Polly Wyeth, carried a two-ton weight on her shoulders from the moment she stepped on stage. In other words, Polly and her actor-turned-ambassador husband Lyman (then played by Stacey Keach) harbored a very big secret that they had disclosed to no one else, not even their “two children.” One of those children has to remind Polly, early in “Other Desert Cities,” that she actually has three children, not just two. The secret regarding that third child is Polly and Lyman s two-ton weight. The first Broadway revival of Baitz’s great play opened Sunday at the Hudson Theatre, and in her Broadway debut, Julia Louis-Dreyfus does not bring the weight of that secret to her performance. Where Channing’s Polly possessed gravitas, Louis-Dreyfus’ Polly emerges as brittle to the touch. Her performance reminded me of something Edith Wharton wrote in “The Age of Innocence” about her character May Welland (Winona Ryder in the 1993 film): “The world of her youth had fallen into pieces and rebuilt itself without her ever noticing. This hard, bright blindness ” The difference between May and Polly, of course, is that what happens to Baitz’s character takes place in middle age when her oldest child, a political radical, bombs an army rec
+
+### Oscars International Race Shatters Record With 105 Entries
+Sun, 18 Oct 2026 23:58:09 +0000 — https://www.thewrap.com/industry-news/awards/oscars-international-race-shatters-record-with-105-entries/
+
+The Oscars Best International Feature Film category has broken its record for the number of submissions, assigning 105 different films to voters who have volunteered to cast ballots in the first round of voting. That marks the first time submissions have ever hit triple digits, and it blows past the old record of 93 eligible films, which was set in 2020. For the past three years, the number of qualifying films has been in the mid-to-high 80s. But this year’s slate includes the first-ever submissions from Cyprus, El Salvador and Rwanda, the first in 29 years from the Democratic Republic of the Congo and the first in 17 years from Sri Lanka. The record total was also aided by a change in the longtime Academy rule that restricted the category to one film per country. For the first time, additional films could qualify by winning the top award at one of six different film festivals: Sundance, which qualified both narrative and documentary winners, and Berlin, Cannes, Venice, Toronto and Busan, which qualified the winner of their top prize. (Of the seven films that qualified via film festivals, three were also submitted by their countries of origin.) The list of films below is not the official final list, which will be released before shortlist voting begins in December. But on Friday, the Academy emailed members who had opted to vote in the category, assigning each member to one of nine different groups. TheWrap acquired all of the lists, in which each group was given 11 or 12 fil
+
+### The 3 Best Movies to Watch on Prime Video This Week
+Sun, 18 Oct 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/movies/the-3-best-movies-to-watch-on-prime-video-this-week-october-18-24/
+
+We re just about two weeks away from Halloween now, how s your seasonal watchlist coming along? Feeling like you need some help? It can be hard to get out of the rut your algorithm can create for you. Maybe it s suggesting the same four movies over and over that yes, you like, but maybe don t want to watch right now. Maybe it s suggesting some baffling choices. So, if you re looking for recommendations from someone human, rather than your algorithm, you re in the right spot. Here are the three best movies to watch on Prime Video this week. Buffy the Vampire Slayer Sarah Michelle Gellar may be the Buffy that everyone thinks of when they think of Buffy the Vampire Slayer, but she wasn t actually the first one. That honor falls to Kristy Swanson, who played the hunter in the 1992 film. Buffy is just a vapid high school cheerleader, who suddenly learns it s her destiny to hunt and kill vampires. You can imagine how that news goes over with someone like her. Nonetheless, she is trained, and embraces her duty. The film is written by Joss Whedon, but quickly left the project, as he was unhappy with the direction the studio took it. As a result, he went on to create the Gellar-starring TV series. So, not only can you celebrate the spooky season with this movie, but you can compare it side by side with the show and see where things deviated from the plan, which is always interesting. Down With Love Meanwhile, if you re looking for lighter fare this week, you can head to Peyton Reed s 
+
+### ‘The Diplomat’ Season 4 Finale: Keri Russell and Rufus Sewell Break Down That Explosive Ending
+Sun, 18 Oct 2026 22:56:20 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-diplomat-season-4-ending-keri-russell-rufus-sewell-interview/
+
+For most of “The Diplomat” Season 4, Keri Rusell’s Kate Wyler is at odds with Allison Janney’s Grace Penn over a directive given by the president that Kate believes would kickstart a nuclear war. Kate exhausts all her options as she attempts to make Grace change her mind, and even lies about following orders to threaten U.S. warships to the new British Prime Minister (Jodie Whittaker), but ultimately, she’s unsuccessful, instead running the relationship with Grace ragged and wearing down her husband and VP, Hal (Rufus Sewell). But just when Hal begins to realize Kate might be right, Kate insists he keep quiet, realizing the continued opposition could cost him his job. “She’s so willing to put herself out there against Hal … in front of the president, say ‘you re wrong … this is the truth. I ll be the truth-teller,’ and is completely shut down — [Hal] isn t ready at that moment,” Russell told TheWrap. “Yet when she s told that the sacrifice will be Hal, you stand by your person … which is shocking, but it s just a knee jerk. Those are your people, and you take care of your people.” But even with that awareness, Kate knows Grace is in the wrong with her call, especially when she removes Stuart (Ato Essandoh) from his post for sharing his concerns about the foreign policy move in an official government network meant for dissent. So, the next day, Kate makes the striking move to resign as ambassador in front of the G7, removing her badge in front of Grace, Hal and other major pla
+
+### What Will Oscar Voters Think of That Wacky Elizabeth Holmes Documentary?
+Sun, 18 Oct 2026 22:18:15 +0000 — https://www.thewrap.com/industry-news/awards/oscar-chances-you-can-see-everything/
+
+Nathan Fielder and Lance Oppenheim’s bonkers Elizabeth Holmes documentary “You Can See Everything” was the talk of the Telluride Film Festival when it premiered as a secret screening on Sept. 6. It grabbed headlines with two different trailers released since then, causing body-language experts to weigh in on the meaning of Holmes’ unnerving grin and big, unblinking eyes. Before it was even released, it had whipped up more buzz than any other fall movie, with the possible exception of that other wacky two-and-a-half-hour-plus flick with a ginormous twist, “Digger.” And now the A24 film has hit theaters and scored a $15 million opening weekend, the top-grossing documentary opening in 13 years . But will that mean a damn thing to awards voters this season? As with a lot of questions raised by “You Can See Everything,” the most accurate answer is probably another question: Who the hell knows? The film is deliberately, gloriously confounding, a sort-of documentary in which you can trust neither the subject of the film nor the person telling the story. Elizabeth Holmes is a cipher, Nathan Fielder is a cipher, and the whole thing bobs and weaves and delights in keeping the viewers and maybe even participants questioning everything. And now that the grosses are big, the reviews are raves and the buzz is still buzzy, “You Can See Everything” could conceivably be a contender in lots of different Oscar categories this season. So let’s take a look at them one-by-one. Best Documentary Fea
+
+### Jason Sudeikis Predicts Lorne Michaels SNL Replacement Is Down to These Famous Alum
+Sun, 18 Oct 2026 20:34:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/jason-sudeikis-predicts-snl-lorne-michaels-replacement-tina-fey-seth-meyers/
+
+Especially in the two years since Saturday Night Live celebrated its legacy with a 50-year anniversary special, one question has loomed over the iconic sketch comedy series: Who will replace creator and producer Lorne Michaels for the next 50? Michaels, 81, hasn t formally acknowledged any retirement is in the works, but that hasn t stopped fans of the NBC stalwart and SNL alum alike from speculating who might be up for the gig. Jason Sudeikis, who joined the writers room in 2003 before becoming a cast member 2005-2013, sat with Sam Fragoso for his Talk Easy podcast on Sunday, and he opened up about who he thinks should carry Michaels baton next. One suggestion even brought a tear to his eye when asked point blank if he thinks the job is Tina Fey s for the taking. Pretty neat. It is, man. She s, I mean, I d be dying. I mean, who would be mad about that? Sudeikis said, adding that he hopes she would do it and that the thought genuinely makes him feel good. I think it s neat. It makes me feel good, he said. Same kind of thing, with, you know, stuff where it s like, Oh I m almost near tears thinking about it ? That s usually a good sign. I think that s beautiful. I think that s a beautiful idea. Now, that s not enough of a reason for Tina to do it. Watch the full interview below: Sudeikis also reflected on whether or not SNL could even survive without Michaels calling the shots, pointing to the five years in 1980-1985 that he was not involved in the program and it still aired wi
+
+### CBS News Jan Crawford Apologizes for Anti-Abdul El-Sayed Tweet That Broke News Standards
+Sun, 18 Oct 2026 19:01:09 +0000 — https://www.thewrap.com/media-platforms/journalism/cbs-news-jan-crawford-apologizes-for-anti-abdul-el-sayed-tweet-that-broke-news-standards/
+
+CBS News chief legal correspondent Jan Crawford apologized for a since-deleted tweet criticizing Abdul El-Sayed in a manner she disclosed was a violation of the network s news standards. Earlier, I tweeted a video from an Abdul El-Sayed town hall. I deleted that tweet because it was a violation of CBS News standards. I apologize, Crawford wrote in a Sunday morning X post . The deleted post in question was Crawford resharing a video from El-Sayed s official account, but siding with Tommy, the town hall attendee who asked the Michigan senatorial candidate to disavow the Muslim Brotherhood. Tommy, thank you, Crawford wrote, per a screenshot that continued circulating Sunday. I had to watch this twice to catch Dr. Abdul El-Sayed’s nanosecond ‘yeah absolutely’ response. His subsequent uninterrupted three-minute diatribe proving your exact point is the kind of spectacular self-own most people only dream about triggering. Congrats. Watch the full town hall interaction with Tommy and El-Sayed in the video post below: This is Tommy. Tommy had a question about my allegiances. Listen to the end to hear about his. pic.twitter.com/p09eMtsh0x &mdash; Dr. Abdul El-Sayed (@AbdulElSayed) October 18, 2026 In the moment from a Saturday town hall in Michigan, El-Sayed s response to disavowing the Muslim Brotherhood, which Tommy cited as a terrorist organization, was roundly applauded by supporters online after the Senate hopeful centered the religious freedoms enshrined in the U.S. Constitution.
+
+### The 8 Definitive Stephen King Adaptations You Need to Watch
+Sun, 18 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/definitive-stephen-king-movies-shows-adaptations-to-watch/
+
+Stephen King s most famous works have been adapted over and over since his first published novel – but which of those with multiple takes is worth the watch? The king of horror has written some classic novels and short stories that have been turned into equally classic movies and TV. It first happened when Brian De Palma adapted King s first novel Carrie in the 70s and since then some of his biggest – both figuratively and literally – books have gotten the big-screen treatment more than once. But with so many takes on these iconic stories, which include The Shining, It and more, it can be a daunting prospect but we re here to help. These are the definitive King adaptations to watch. Sissy Spacek in Carrie. (Credit: Silver Screen Collection/Getty Images) Carrie Options: Carrie (1976), Carrie (2002), Carrie (2013) Carrie (2026 Series) The Pick: Carrie (1976) The fact that King famously threw out the manuscript for “Carrie,” only for his wife to fish it out of the trash and encourage him to keep going, makes for one of the great stories about the author. That the book became the first of his prolific career AND spawned an adaptation that earned two Academy Award nominations makes the story even better. Brian De Palma truly knocked it out of the park with his 1976 adaptation of “Carrie,” and a lot of that came down to the stellar casting. Sissy Spacek, as the titular character, and Piper Laurie, as her religious nightmare of a mother, Margaret, both earned Oscar nominations for t
 
 ### Cindy Crawford Shares Emotional Tribute to Son Presley Gerber: A Sweet, Beautiful Soul
 Sun, 18 Oct 2026 18:21:37 +0000 — https://www.thewrap.com/culture-lifestyle/culture/cindy-crawford-breaks-silence-son-presley-gerber-death/
@@ -229,95 +264,55 @@ Sun, 18 Oct 2026 17:59:35 +0000 — https://www.thewrap.com/creative-content/tv-
 
 Saturday Night Live UK poked fun at its sister series in the U.S. on Saturday, flaming last week s host Shane Gillis for the controversial jokes he made about women and for dropping an f-bomb live on air. Fittingly, the British program s Weekend Update co-anchor Ania Magliano threw an f-bomb to the Tires star right back. Last week on ‘SNL,’ comedian Shane Gillis also caused controversy by dropping the f-bomb, she said. Oh Shane, you’re not allowed to say that you stupid f king c t. The line was not censored out of Sky One s live telecast on Saturday because British television follows a 9:00 p.m. watershed rule, meaning adult content and profanity are legally permitted on air after that time. It wasn t the only dig SNL UK took at Gillis. The f-bomb was preceded by a sweet human interest story being flipped on its head by Gillis own jokes about women s sportswear making them look like whores. A ride operator at Munich Oktoberfest was praised for giving out free cycling shorts to female riders, Magliano said. Wearing the gym shorts will protect women from being up-skirted, but it does make them vulnerable to something much worse. At that, she pulled up an image of Gillis opening the Oct. 10 episode of Saturday Night Live with his controversial monologue. Watch the who Weekend Update segment below: ‘SNL’ (UK) takes a jab at Shane Gillis following his controversial ‘SNL’ (US) monologue. pic.twitter.com/7YoZHs5PrA &mdash; Pop Base (@PopBase) October 17, 2026 Gillis come under fire 
 
-### Academy Museum Gala 2026: All the A-List Red Carpet Arrivals, From Taylor Swift to Charlize Theron
-Sun, 18 Oct 2026 16:55:04 +0000 — https://www.thewrap.com/industry-news/awards/academy-museum-gala-2026-photo-gallery-taylor-swift/
-
-The sixth annual Academy Museum Gala brought Hollywood stars together Saturday at the Academy Museum of Motion Pictures in Los Angeles, raising funds for the institution’s exhibitions, screenings and educational programs. This year’s honorees were Charlize Theron, who received the Icon Award; filmmaker and composer John Carpenter, who received the Luminary Award; and Colman Domingo, who received the Vantage Award. The gala was co-chaired by Tom Ford, Robert Rodriguez, Steven Spielberg and Kate Capshaw and presented in partnership with Rolex. Taylor Swift was also on hand to perform during the evening. The red carpet drew a mix of actors, musicians and other entertainment industry figures, including Sabrina Carpenter, Ana de Armas, Jacob Elordi, Colin Farrell, Kendall Jenner, Hailey Bieber, Kim Kardashian, Demi Moore, Andrew Garfield, Mikey Madison and Kate Hudson. The event has become a prominent fixture on Hollywood’s fall calendar, combining a fundraising celebration of cinema with a showcase for designers and stylists ahead of awards season. The Academy Museum Gala supports the museum’s mission to celebrate and preserve cinema through exhibitions, public screenings and educational initiatives. This year’s event continued the annual tradition of recognizing artists whose work has shaped filmmaking while bringing together prominent names from across the entertainment industry. See the best red carpet looks from the 2026 Academy Museum Gala below. (Photo by Frazer Harrison/Wi
-
-### The 3 Best New Movies to Watch on Hulu This Week
-Sun, 18 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/movies/best-new-movies-to-watch-on-hulu-this-week-october-18-24/
-
-If you re settling in for some streaming this week, there s a decent chance you re looking for something spooky as October breezes by (or swelters on, depending on where you live) toward Halloween. Fortunately, this week s new Hulu releases bring a pair of 2025 horror debuts, so you re covered on that front. And if you re not a horror person at all, you can look ahead and start getting ready for one of the year s biggest releases with the entire Hunger Games franchise now available to watch on Hulu. Check out the best new movies to stream on Hulu this week below. Rachel Zegler as Lucy Gray Baird in The Hunger Games: The Ballad of Songbirds and Snakes. (Photo Credit: Murray Close Lionsgate) The Hunger Games Franchise If you want to get caught up before Sunrise on the Reaping hits theaters, now s the time, and the good news for Hulu subscribers is that all five Hunger Games movies arrived on the platform on Oct. 14. From the original 2012 film to the 2023 Snow-centric prequel, The Ballad of Songbirds and Snakes, the Hunger Games franchise has remained consistently great ok, except for 2014 s Mockingjay Part 1, a casualty of the unfortunate decision to split the final book into two parts when the first half of that book is famously a bleak slog. That aside, these films are a fantastic adaptation of Suzanne Collins generational YA series, each installment finding a new path to examine warfare and propaganda while delivering unforgettable characters and one knockout ensemble cast 
-
-### Street Fighter Leads Box Office With $51 Million Global Opening as Whalefall Gets Beached With $17.5 Million
-Sun, 18 Oct 2026 15:32:17 +0000 — https://www.thewrap.com/creative-content/movies/street-fighter-leads-box-office-51-million/
-
-Paramount/Legendary s Street Fighter has brought in a fair amount of gamers to theaters this weekend, leading the box office with a $31 million domestic/$51 million global opening. That s a middling start for this $82 million co-production between Legendary and Street Fighter publishers Capcom, which has arrived at Paramount as part of a new distribution deal with Legendary. But the big question mark hanging over the video game film is whether it will be able to draw interest outside of its core audience or if it will be frontloaded like fellow fighting game adaptation Mortal Kombat II earlier this year. There are signs that the weeks ahead might be the latter, as the film has a B- on CinemaScore the same as the 1994 Street Fighter film starring Jean Claude Van Damme and Rotten Tomatoes scores of 40% critics and 80% audience. For comparison, MK II had a B and 86% audience RT score. That might not be enough for Street Fighter as it prepares to compete next weekend against Warner Bros./DC s Clayface, which is hoping to bring in both comic book fans and general horror fans. Social media buzz for the film from advance screenings has been strong, raising hopes for DC after the big-budget misfire of Supergirl. But at least Street Fighter is earning a solid opening. The same can t be said for 20th Century Studios survival thriller Whalefall, which features Resident Evil breakout star Austin Abrams as a scuba diver who gets swallowed by a whale. Despite generally positive reception, 
-
-### You Can See Everything Earns Largest Doc Opening in 13 Years With $15 Million at Indie Box Office
-Sun, 18 Oct 2026 14:31:47 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-earns-largest-doc-opening-since-2013/
-
-It s a historic weekend for indie films at the box office as A24 s You Can See Everything has broken through the industry-wide malaise that has plagued documentaries for the past five years with an estimated $15 million opening weekend from just 855 locations, taking the No. 2 spot on the weekend charts with a per theater average of $17,543. Riding off the back of unanimous critical acclaim and sky-high audience scores, Lance Oppenheim and Nathan Fielder s mind-bending look inside the private life of convicted Theranos founder Elizabeth Holmes has earned the highest opening weekend for any documentary since at least 2013, topping the $7.1 million of Amazon MGM s MAGA doc Melania, which opened with more than double the screen count of YCSE at 1,778 locations this past February. That screen count, combined with the overwhelming demand for the film in major cities, has led to more than 2,000 sellout screenings as of Sunday morning, according to A24. It has also come with spectacular audience scores on PostTrak with 92% of audiences surveyed giving the film the highest rating of definite recommend. That is territory usually reserved for faith-based films and tops the scores of other smash box office hits this year like The Odyssey, which earned a definite recommend score of 81%. Where this opening ranks in documentary box office history depends on whether you count concert films, which generally are able to mine a larger core audience than other types of docs. For all docs, You C
-
-### Jaime Pressly Calls ‘Mom’ Co-Stars an ‘Incredible Cast of Women’ After Chuck Lorre’s Anna Faris Comments
-Sun, 18 Oct 2026 00:23:55 +0000 — https://www.thewrap.com/creative-content/tv-shows/jaime-pressly-defends-mom-co-stars-chuck-lorres-anna-faris-comments/
-
-After Chuck Lorre critiqued Anna Faris’ casting on his CBS sitcom “Mom,” Jaime Pressly reflected on her experience on the show, calling her co-stars an “incredible cast of women.” Pressly joined “Mom” in its second season, which premiered in October 2014, playing Jill Kendall, a wealthy, self-absorbed divorcee and recovering alcoholic who turns to Christy Plunkett (Faris) for help maintaining her sobriety. Pressly initially appeared in a recurring role before being promoted to series regular for Season 3, which began in 2015. “I was there for seven years, but there [were] eight seasons,” Pressly told E! News in an interview published Saturday. “I came on in the second season, but I had seven wonderful years of working with an incredible crew and an incredible cast of women, who were, all of us, just as beautifully flawed as our characters on the show were.” She continued, “And I think I just really thoroughly enjoyed being able to go to work with girlfriends every day. All of us of a certain age, it was nice. It was refreshing.” The comments follow the release of Lorre’s memoir “Sitcom” earlier this week, in which he shared that he had been reluctant to cast Faris in the comedy. He added that he felt his reservations were justified when Faris exited the show in 2020 after seven seasons. “I initially said no. I wasn’t sure Anna would be appropriate for this kind of material,” Lorre wrote. “Then I thought about how badly I’d bungled my working relationship with Charlie Sheen.” 
-
-### No Kings Instagram Account Disappears Amid Nationwide Trump Protests
-Sat, 17 Oct 2026 23:48:31 +0000 — https://www.thewrap.com/media-platforms/politics/no-kings-instagram-account-disappears-amid-nationwide-trump-protests/
-
-During a day of nationwide protests against President Donald Trump and efforts to mobilize early voters, Meta appeared to suspend the main Instagram account for the No Kings Coalition . MS NOW’s Antonia Hylton first reported the news Saturday after a spokesperson for the organzation told the outlet that the account had disappeared and administrators had lost access at the peak of the coalition’s national day of action, around 1:30 p.m. EDT. Later that day, Ezra Levin, co-founder and co-executive director of Indivisible, one of the leading organizations behind the No Kings movement, said on MeidasTouch that the account had been suspended for about 90 minutes. “In the middle of that joyful experience at the protest locally, I got word from my team that Mark Zuckerberg’s Meta had suspended the Instagram account for the No Kings Coalition, he said. They suspended it. We didn’t have access to it. We couldn’t post to it. Nobody could go to the page. That was for about an hour-and-a-half, during the height of the mobilization while people were still getting their No Kings protests together. As I talk to you, there are people still pulling their No Kings protests together, but we can’t access the account now.” EXCLUSIVE: No Kings organizer Ezra Levin is SOUNDING THE ALARM after Meta suspended the movement’s Instagram account during massive nationwide protests. LEVIN: “This is strikingly reminiscent of what we saw in Brazil… We might be seeing something similar from Meta in our… pic.t
-
-### Carrot Top Breaks Silence on Suicide Attempt, Plans to Return to Comedy
-Sat, 17 Oct 2026 22:34:18 +0000 — https://www.thewrap.com/culture-lifestyle/culture/carrot-top-breaks-silence-on-suicide-attempt-plans-to-return-to-comedy/
-
-Comedian Carrot Top broke his silence nearly a month after attempting to take his own life. The comedian, whose real name is Scott Thompson, took to Instagram on Saturday to thank fans for their support following his suicide attempt and subsequent hospitalization. “I’m truly overwhelmed by the outpouring of love, support, prayers, and well wishes I’ve received over the past couple of weeks. Every message, text, and kind thought has meant more to me than you know,” he wrote. “While I haven’t been able to respond to everyone individually, please know that I’ve felt your love and appreciate each and every one of you from the bottom of my heart. Thank you for being there for me during this time. It truly means the world to me!” The caption ended with a note that his comedy show at the Luxor Hotel & Casino in Las Vegas would return on Monday, Oct. 19. He has been performing there since 2005. In fact, Thompson has one of the longest-running residencies in Las Vegas. View this post on Instagram A post shared by Scott Thompson (@carrottoplive) Fans and famous faces flooded the comments section. Comedian Jay Mohr wrote, “LOVE LOVE LOVE,” while actress Hannah Einbinder simply wrote, “Love you Scott.” On Sept. 18, TMZ reported that 61-year-old Thompson had been rushed to the hospital in Las Vegas, resulting in the cancellation of his evening performance at the Luxor hotel. The outlet reported that Thompson had attempted suicide that day. While speaking with TheWrap, Thompson’s represent
-
-### Listen to the Unreleased Song Harry Styles Wrote for Liam Payne
-Sat, 17 Oct 2026 20:51:47 +0000 — https://www.thewrap.com/creative-content/music/harry-styles-unreleased-song-for-liam-payne/
-
-Harry Styles performed an unreleased song he wrote in honor of his late friend and former One Direction bandmate Liam Payne during his concert at Madison Square Garden on Friday. The singer was performing at MSG as part of his “Together, Together” residency, which runs from Aug. 26 through Oct. 31. Oct. 16 also marked the second anniversary of Payne’s death . Being here, I feel incredibly lucky to get to play these shows here in New York. This building means a lot to me, as I said, and I feel incredibly proud when I get to look up there and see my name up there from last year,” he said. “And there are so many people in my life, friends and people that I’ve worked with, that I wouldn’t have been able to do this without. And two years ago today, I lost one of those friends. It’s sad. I’m sure a lot of you have been through similar things. I hope you haven’t.” “I’m gonna play you a song that I wrote for my friend about two years ago, if that’s all right with you, he continued. This is ‘What Is Enough. ” You can listen yourself in the video below. Harry Styles performs an unreleased song he wrote for Liam Payne at his show at Madison Square Garden. pic.twitter.com/NL8Y6PP5Sq &mdash; Pop Crave (@PopCrave) October 17, 2026 Payne died in October 2024 after falling from the balcony of his Buenos Aires hotel. He was 31. The singer fell from the third-floor balcony of the CasaSur Palermo hotel. The musician died from “multiple traumas” that caused both “internal and external hemorrhage
-
 ## Collider
 
-### 5 Greatest Books of the Last 40 Years, Ranked
-Sun, 18 Oct 2026 18:50:14 GMT — https://collider.com/best-books-last-40-years-ranked/
+### 'Outlander's Andrew Gower Officially Teases Gustaffson’s “Finest Work Yet” [Exclusive]
+Mon, 19 Oct 2026 10:00:15 GMT — https://collider.com/andrew-gower-gustaffson-second-album-2027-new-movie/
 
-Books have a way of capturing the world as it changes , preserving stories and experiences that might otherwise go unheard. Over the past four decades, society has undergone immense evolution, from shifting social norms to the growing influence of globalization and technology. As people across the globe become more connected, literature has opened the door to perspectives that were once overlooked.
+Early last year, Outlander star Andrew Gower ’s band Gustaffson debuted their first album, Black & White Movie , to critical acclaim. Now, nearly eighteen months later, they’re back on the tour circuit as they gear up for the launch of their yet-to-be-announced second album in 2027. In preparation for its release, Gower and Gustaffson are looking back at a trio of tracks from the elbow -produced album with brand-new acoustic versions.
 
-### ‘SNL UK’ Officially Delivers a Brutal Takedown of ‘Saturday Night Live’s Shane Gillis
-Sun, 18 Oct 2026 18:48:52 GMT — https://collider.com/snl-uk-saturday-night-live-ania-magliano-shane-gillis-joke-opinion/
+### Amazon Prime Officially Unleashes a New Vampire Nightmare for Halloween
+Mon, 19 Oct 2026 09:30:14 GMT — https://collider.com/vampire-the-masquerade-swansong-free-amazon-prime-october-2026/
 
-If there’s one thing Saturday Night Live knows how to do, it’s stir up controversy. While Shane Gillis dropped an F-bomb during the October 10 episode, it wasn’t just the four-letter curse word that sparked upset. In the comedian’s opening monologue, Gillis remarked that women now dress “like whores” at the gym , followed by a grossly graphic description of their shorts. Meanwhile, across the pond, the team at SNL UK , who have never been shy about saying what’s on their minds , made sure they had their own take on the matter.
+Picking a Halloween game usually starts with deciding how much stress the evening needs. Sometimes the answer is a monster chasing someone down a hallway, but a supernatural mystery can be just as appropriate when the plan is to settle in for several hours. Vampires are particularly well suited to that assignment , especially when everyone involved has something to hide.
 
-### Every Mike Flanagan TV Show, Ranked
-Sun, 18 Oct 2026 18:33:15 GMT — https://collider.com/mike-flanagan-shows-ranked/
+### The 15 Saddest Animated Shows, Ranked
+Mon, 19 Oct 2026 09:11:14 GMT — https://collider.com/sad-animated-shows-ranked/
 
-Few filmmakers are as committed to making high-quality horror for both the big and small screen as Mike Flanagan . While many of his projects are adaptations, Flanagan uses the source material as a jumping-off point to make something hauntingly familiar yet unmistakably his own. Frequently using and subverting genre conventions, Flanagan's character-first approach has helped birth some of the most memorable limited series of the last decade .
+Animation is one of the most powerful kinds of media that movies and television have to offer. As a storytelling device that's pretty much visually limitless, it has allowed artists throughout the years to craft some of the most imaginative and expansive TV shows ever made. Likewise, its unique visual capabilities allow animation to deliver some of the most emotionally hard-hitting narratives that the small screen is able to contain.
 
-### Denis Villeneuve Officially Reveals How ‘Dune: Part Three’ Changes Everything
-Sun, 18 Oct 2026 18:30:15 GMT — https://collider.com/denis-villeneuve-dune-part-3-changes/
+### Alan Ritchson's ‘Reacher’ Officially Fights Its Way Back Up the Streaming Charts After Season 5 News
+Mon, 19 Oct 2026 09:00:14 GMT — https://collider.com/alan-ritchson-reacher-streaming-success-prime-video-october-2026-renewal/
 
-Director Denis Villeneuve has given us some amazing movies across multiple genres. Be it thrillers like Prisoners and Sicario or taking forward Ridley Scott ’s cyberpunk franchise with Blade Runner 2049 . The director’s vision, character-driven narratives , and distinct storytelling keep fans glued to their seats. Perhaps he is best known for his work in the sci-fi genre. After the success of the first Dune film, the director became a global sensation, with fans around the world waiting for the next installment.
+10 years ago, Alan Ritchson was mostly known as Thad Castle from Blue Mountain State , but he’s now widely regarded as one of the biggest action stars of all time. Earlier this year, Ritchson starred in one of the most successful Netflix movies of the year, the sci-fi thriller War Machine , which did well enough to crack the all-time Netflix top 10. Ritchson has also featured in not one, but two new action movies this year with Motor City (co-starring Shailene Woodley ) and Runner (co-starring Owen Wilson ), and while neither film dazzled at the box office, they’ve both gone on to become hits on streaming. Despite all these new action movies, Ritchson’s rise to stardom can all be traced back to his role in Prime Video ’s Reacher , which is inspired by the novels of Lee Child .
 
-### Love of Your Life: Exhaustion Drew the Cast Closer | Collider BTS
-Sun, 18 Oct 2026 18:15:15 GMT — https://collider.com/video/love-of-your-life-exhaustion-drew-the-cast-closer-collider-bts/
+### ‘The Simpsons’ Officially Fixed Its Biggest Mistake With the Return of This Character
+Mon, 19 Oct 2026 04:50:36 GMT — https://collider.com/the-simpsons-season-38-the-revengening-recast-apu-sunil-malhotra/
 
-Margaret Qualley, Aaron Pierre, and director Rachel Morrison reveal how a crucial emotional scene in Love of Your Life had to be filmed in just 28 minutes before the sun disappeared.
+Editor’s Note: The following contains spoilers for The Simpsons, Season 38, Episode 3 For almost a decade, The Simpsons struggled with one of its most beloved characters, Apu Nahasapeemapetilon, voiced by actor Hank Azaria . As one of Springfield’s favorite neighbors, the Kwik-E-Mart owner faced mounting criticism for a stereotypical portrayal of Indian Americans and was consequently pushed into the background. Although he continued to appear occasionally and was seen in numerous frames of the series with other side characters, Apu suddenly became voiceless after 2017 . But that finally changed in Sunday night’s Season 38 episode, “Treehouse of Horror Presents: The Revengening.”
 
-### 'Five Nights at Freddy's Officially Returns for New Halloween Release
-Sun, 18 Oct 2026 18:00:14 GMT — https://collider.com/five-nights-at-freddys-into-the-pit-free-amazon-prime-october-2026/
+### Star Trek’s So-Bad-It’s-Good 46-Minute Episode Is Still the Perfect Gothic Horror Watch
+Mon, 19 Oct 2026 04:00:18 GMT — https://collider.com/gates-mcfadden-star-trek-next-generation-sub-rosa-episode/
 
-A ball pit is an impressively horrible place to put a time machine. Even before anything supernatural happens, disappearing beneath one at a rundown pizzeria sounds like a decision someone should stop immediately. Five Nights at Freddy’s : Into the Pit takes that childhood attraction and supplies a much worse reason to stay out.
+“So bad it’s good” is, in many ways, a genre unto itself. Film largely dominates, best exemplified by the likes of Plan 9 from Outer Space and Troll 2 , but there have been TV series like Riverdale or Baywatch , the latter of which is being rebooted on Fox in 2027 . Every once in a while, even the most well-respected series have an episode or two that fall into the category. Buffy the Vampire Slayer , for one, had Season 4's "Beer Bad," where an enchanted beer turns characters into cavemen. There's also a Season 7 episode of Star Trek: The Next Generation that any fan of "so bad it's good" fare needs to see .
 
-### After 'Widow's Bay,' Matthew Rhys' 2-Part Crime Thriller Saga Officially Deserves To Be Revisited
-Sun, 18 Oct 2026 17:58:15 GMT — https://collider.com/matthew-rhys-crime-thriller-perry-mason-deserves-revisit-widows-bay/
+### 7 Western Shows Where Every Episode Is a Masterpiece
+Mon, 19 Oct 2026 03:39:15 GMT — https://collider.com/western-shows-every-episode-masterpiece/
 
-Matthew Rhys has long been one of Hollywood's most compelling actors. After career-defining performances in Brothers & Sisters and The Americans , Rhys has continued to work steadily. At this year's Emmys, Rhys set a new record , becoming the first to win two Lead Actor awards in one night, for his work in Netflix's The Beast in Me and Apple TV's runaway hit, Widow's Bay . But there's actually one overlooked thriller series that also showcases Rhys' immense talent , and it still deserves to be binged.
+Westerns have been a fixture on the small screen since the earliest years of television, though they’ve waxed and waned in popularity over the years. With the arrival of Yellowstone , the genre received a 21st-century revival that has spawned numerous shows spanning the drama, comedy, crime, and thriller subgenres, many of which have proven both popular and impactful. Collectively, these shows have proven that Western television is here to stay.
 
-### Seth Rogen’s $98M Sci-Fi Adventure Is Officially Leaving Streaming
-Sun, 18 Oct 2026 17:30:14 GMT — https://collider.com/seth-rogen-sci-fi-paul-leaving-peacock-november-2026/
+### 'Tombstone' Changed Doc Holliday’s Actual Quote and Made Val Kilmer’s Scene Even Better
+Mon, 19 Oct 2026 03:22:53 GMT — https://collider.com/tombstone-val-kilmer-real-life-doc-holliday-quote/
 
-Before algorithms began informing creative decisions in the world of filmmaking, studios would rely on intuition and judgment to bring together the best-suited actors, directors, and other artists for projects. In the 2000s, Judd Apatow was arguably among the most successful producers in Hollywood, having contributed to the rise of stars such as Seth Rogen , Bill Hader , and Jason Segel . Across the pond in the United Kingdom, director Edgar Wright was having a similar cultural impact with his cult classic Cornetto Trilogy , starring Simon Pegg and Nick Frost . Around 2010, someone made the genius decision to bring these two worlds together, while appealing to the growing fanboy population awakened by hits such as Iron Man and The Dark Knight .
+Tombstone is simply one of the greatest Westerns ever made. There’s no question about it. From the dynamic characters and the witty dialogue to the incredibly well-paced action sequences and historical accuracy (well, some of the time), the picture is just a masterclass in filmmaking, particularly of the Western genre. Whether you love the film for Kurt Russell 's ability to drive the narrative forward or the countless one-liners that cannot be beat, there's a clear reason that Tombstone continues to find an audience over 30 years later . But there is one line that the late Val Kilmer 's Doc Holliday speaks in the film that is slightly changed from the history books — and believe it or not, the movie does it far better.
 
-### The 7 Best Martial Arts Movies Released Since 2020, Ranked
-Sun, 18 Oct 2026 16:41:15 GMT — https://collider.com/best-martial-arts-movies-since-2020-ranked/
+### 10 Miniseries That Are Better Because They Never Got a Season 2
+Mon, 19 Oct 2026 02:23:15 GMT — https://collider.com/miniseries-better-without-season-2/
 
-I have watched perfectly choreographed fights that I cannot remember a single thing about. Beautiful kicks, elaborate camera movements, somebody getting thrown through an expensive-looking window. Five minutes later, nothing. Meanwhile, I can remember the exact expression on a character's face before a fight from a movie I watched years ago. I've started to suspect that my favorite martial arts sequences are actually acting scenes which teach you something about the character instead.
+In many ways, the art of making a great miniseries is to leave the audience wanting more. The art of securing a lasting legacy for a miniseries can reside in resistance, as fans and critics alike call for more despite the story running its course. Of course, not every limited series made has shown such resolve, and it has resulted in many shows that thrived with their first, self-contained season only to lose the plot as they try to expand the narrative.
 
-### Tom Hardy's Near-Perfect True Crime Thriller Officially Resurfaces as a Free Streaming Hit
-Sun, 18 Oct 2026 16:30:15 GMT — https://collider.com/tom-hardy-lawless-streaming-free-pluto-tv-october-2026/
+### 'Tracker' Officially Changes Up Colter Shaw for the First Time Since Season 2 | Review
+Mon, 19 Oct 2026 02:00:25 GMT — https://collider.com/tracker-season-4-episode-3-review-colter-love-interest/
 
-2026 has quietly been a massive year for Tom Hardy , despite him only starring in one new project. The age-old saying goes something like “there’s no such thing as bad publicity,” and although Hardy came under the microscope earlier this year, it all worked out for the best. News broke back earlier in the summer that Hardy had been fired from his role as Harry Da Souza in MobLand , but considering he had already filmed all of his Season 2 scenes, this firing wouldn’t take place until Season 3. This report has since been debunked and not only has Paramount confirmed that Hardy will return in Season 3 , the studio has even doubled down and renewed MobLand for Season 3 while Season 2 continues to dominate watchlists around the world.
+Tracker returns this week with a brand new Colter Shaw ( Justin Hartley ) adventure as our lone wolf hero heads out to cowboy country to find out what happened to a local Texan. That's the basic plot of "Original Parts," anyway, but this week's episode also gives something a try that we haven't really seen on the show since the second season — giving Colter a real love interest. The CBS drama picks up some steam as several plotlines tease where the rest of Season 4 may go ...
 

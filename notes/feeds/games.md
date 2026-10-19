@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-18T18:56:20.879Z
+# Games — harvested 2026-10-19T10:17:06.577Z
 
 ## Eurogamer
+
+### Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history
+Mon, 19 Oct 2026 08:36:43 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating
+
+It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC , but the final game may have turned things around - so far, at least. Read more
 
 ### Battlefield 6 devs to fix "Secuty" skin typo, but five-pistol outfit was intentional
 Sun, 18 Oct 2026 17:37:38 +0000 — https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond
@@ -52,25 +57,48 @@ Sat, 17 Oct 2026 11:18:21 +0000 — https://www.eurogamer.net/blood-of-dawnwalke
 
 Update 1.1 for The Blood of Dawnwalker will add a new Story mode with additional combat assist, a potion that lets you forget your abilities and master new ones, and the ability to pet dogs and cats. Read more
 
-### Art of Rally follow-up Over the Hill's biggest success is finding a way to be a driving game that asks you to take it slow
-Sat, 17 Oct 2026 09:00:00 +0000 — https://www.eurogamer.net/over-the-hill-now-playing
-
-I'd nearly forgotten Over the Hill's predecessor, Art of Rally , was a racing game. But that's not meant as a slight. It's just that, for all the happy hours I poured into it, I don't recall doing a single race. Instead, it was the aimless meandering, the soothing rhythms of exploration and absent-minded collectible hunting in its free-roam mode that held me transfixed. So the fact Over the Hill completely jettisons the racing stuff and leans entirely into the meditative bit - it even starts with a golden Buddha statue running you through the basics, which probably tells you everything you need to know - is exactly my kind of thing. Read more
-
-### What we've been playing - "I simply didn't know if a first-person shooter could work as a Soulslike"
-Sat, 17 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-plaing-guns-of-eschaton-ftl-marvel-cosmic-invasion
-
-Hello and welcome back to our regular feature where we write a little about the games we've been playing. This week, Connor plays a classic, and ticks it off his bucket list; Sherif isn't sure about a first-person shooter foray into Soulslikes; Matt visits a South Pacific island volcano and Jim Henson's Labyrinth, all in one game; and Bertie discovers that playing D&D with kids is enormously entertaining. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Activision QA United-CWA union vote to authorise strike, claims publisher has "failed to bargain in good faith over key issues"
+Mon, 19 Oct 2026 10:13:55 +0000 — https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues
+
+Members of the Activision Quality Assurance United-CWA (AQAU-CWA) union have voted to authorise a strike if necessary, claiming Activision has "failed to bargain in good faith over key issues" in negotiations for a first contract. Read more
+
+### New Croatian conference Splitscreen wants to keep "that half-holiday, half-work feeling" of Reboot Develop
+Mon, 19 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop
+
+A new Croatian development conference is aiming to fill the gap left by the recently-deceased and much-cherished Reboot Develop, which ended this year with the organiser being served with a bankruptcy order . The "no-stress" Splitscreen , which takes place in the Croatian capital on April 20&ndash;22, 2027, has been created by a new team, but seeks to capture the same spirit that made its forebear a popular destination for the global industry. Read more
+
+### Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months
+Mon, 19 Oct 2026 08:43:25 +0000 — https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months
+
+Samson developer Liquid Swords has filed for bankruptcy after employees reportedly went unpaid for two months. Read more
+
+### The AI state of play: AI laws and game development
+Mon, 19 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development
+
+Game studios have a lot to navigate when it comes to AI use. Generative AI is increasingly becoming embedded in the game development process, and at the same time, the laws, regulations, and guidelines surrounding it are on the rise. Each landmark case brings with it new nuances around how AI should and could be adopted. Read more
+
+### UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly
+Mon, 19 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly
+
+UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accreditation Service, enabling studios across the UK games industry to use AI lawfully and responsibly. Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player s Choice Sale
+Mon, 19 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/features/last-chance-to-buy-these-60plus-ps5-ps4-games-in-the-ps-store-players-choice-sale
+
+PS5 and PS4 games going cheap we recommend. PS Store's latest offer is the Player's Choice sale, and it's almost finished, running until 21st October 2026. As always, there are thousands of PS5 and PS4 games going cheap, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
+
+### Street Fighter Movie Cracks Over $50M at Box Office in Opening Weekend
+Sun, 18 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/street-fighter-movie-cracks-over-usd50m-at-box-office-in-opening-weekend
+
+Round two soon? There had been some concern over whether audiences would show up for the new live action Street Fighter movie, but it managed to top the worldwide box office this weekend with a $51.1 million international haul. While optimists had been hoping for a number closer to $70 million, unless ticket sales fall off a cliff over the coming weeks, this is a decent result for the film, which was made on an $82 million budget, according to Deadline . Read the full article on pushsquare.com
 
 ### I Don t Think We re Seeing It Here : GTA 6 Launch Trailer Not Using PS5 s New QSSR Upscaler
 Sun, 18 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler
@@ -97,21 +125,21 @@ Sat, 17 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/features/poll-are-y
 
 Plus or minus? 9 new games are coming to PS Plus Extra and Premium this month, but are you actually happy with what's on offer? That's what we're here to find out, as always. So, starting with Extra, we've got what I think is a fairly big deal for the mid-tier subscription: Mafia: The Old Country . Read the full article on pushsquare.com
 
-### PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote
-Sat, 17 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote
-
-Massive news. I can’t stop laughing at Atelier Karia’s new gameplay mechanic. You may recall, back when the newest entry in Gust’s long-running apothecary franchise was revealed , that eating would comprise a big part of the gameplay. Read the full article on pushsquare.com
-
-### Talking Point: What Are You Playing This Weekend? - Issue 654
-Fri, 16 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-654
-
-Scrib doon. The days are getting shorter and the cooler weather is easing in — at least here in the UK. Fortunately there are about a bazillion games to play. Here's what's keeping us busy. Graham Banas Now that Control: Resonant has a disc version, I no longer have to pretend like it hasn't released yet. So that's going to be my weekend. I'll be spending it with my favourite developer and I wouldn't have it any other way! Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Someone has used computational analysis to decide what Mario 64 s infamous plaque says, and it s not L is Real 2401
+Mon, 19 Oct 2026 10:14:46 +0000 — https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/
+
+Millions of tests were run to find the closest possible match… Source
+
+### Call of Duty: Modern Warfare 4 pays tribute to late COD co-creator and Infinity Ward co-founder Vince Zampella
+Mon, 19 Oct 2026 08:48:49 +0000 — https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/
+
+Zampella worked on COD up to 2009, and was in charge of rival series Battlefield when he died… Source
 
 ### Konami boss says AI can’t replace the human chemistry behind great games
 Sun, 18 Oct 2026 12:46:39 +0000 — https://www.videogameschronicle.com/news/konami-boss-says-ai-cant-replace-the-human-chemistry-behind-great-games/
@@ -130,64 +158,72 @@ The studio behind open-world game has reportedly been declared bankrupt after mo
 
 ## Polygon
 
-### 36 Years Later, Robert De Niro's Greatest Gangster Movie Quote Is Still One of a Kind
-Sun, 18 Oct 2026 18:00:18 GMT — https://www.polygon.com/robert-de-niro-best-gangster-movie-quote-goodfellas/
+### One of 2026's Best Horror Movies Is Officially Headed to Netflix Soon
+Mon, 19 Oct 2026 10:00:32 GMT — https://www.polygon.com/obsession-netflix-streaming-release-date/
 
-Few actors have done more to shape the modern cinematic gangster than Robert De Niro . Across decades of mob dramas, he's played men who command respect through intimidation, calculation, and a religious devotion to the rules of their world. From The Godfather to The Irishman , De Niro's proven himself one of the most popular leading men to handle some of the worst gangsters on the silver screen, including Al Capone, Vito Corleone, Frank Costello , David “Noodles” Aaronson, James Burke, and plenty more.
+Obsession 's theatrical run is over, which means fans who want to experience the 2026 horror hit again, or maybe for the first time, have to look to digital platforms to watch it. In November, director Curry Barker's Obsession will make its debut on Netflix, which is bound to spark another surge of discussion about the horror film.
 
-### 8 Mass Effect Replay Ideas That Make the Trilogy Feel Brand-New
-Sun, 18 Oct 2026 17:00:18 GMT — https://www.polygon.com/mass-effect-challenge-runs/
+### 28 Years Ago, a Near-Perfect Zombie Thriller Resurrected a Beloved Franchise From the Dead
+Mon, 19 Oct 2026 10:00:18 GMT — https://www.polygon.com/scooby-doo-zombie-thriller-halloween/
 
-Every replay of the Mass Effect games tends to start with a promise: this time, you’ll do things differently. Then Shepard makes the same speech, you bring the same squad, and you’re right back where you started. BioWare’s Mass Effect Legendary Edition , the remastered trilogy released in May 2021, makes starting over easy. But the best replay value is in changing the rules. Swap the class you always play, tank a choice on purpose, or finish the whole thing with one gun. These eight runs each come with their own mission parameters. And this time, maybe you’ll really do things differently.
+For the past few years, Scooby-Doo media has been met with either cool indifference (e.g., Scooby-Doo and Guess Who ?) or outright hostility ( Velma ). So fans of the lovable hound and Mystery Incorporated are likely hedging their bets that Netflix’s upcoming 2027 adaptation, Scooby-Doo: Origins , will bring something new and exciting to the franchise.
 
-### Drunken Goddess Reflux Devs Cancel Steam Next Fest Demo Over AI Clone Concerns
-Sun, 18 Oct 2026 16:48:39 GMT — https://www.polygon.com/drunken-goddess-reflux-demo-canceled/
+### 9 Years Later, The Simpsons' Controversial Character Officially Returns
+Mon, 19 Oct 2026 08:54:07 GMT — https://www.polygon.com/the-simpsons-apu-returns-sunil-malhotra-hank-azaria/
 
-Drunken Goddess Reflux is an upcoming indie game where players must survive a night of drinking with a beautiful anime demon, Russian Roulette-style. It's certainly a unique concept, and the game has already amassed over 25,000 wishlists on Steam . While the game was supposed to have a demo during Steam Next Fest, the developers decided to cancel the demo's release at the last minute so the game wouldn't instigate a wave of generative AI-developed clones.
+In January 2020, Hank Azaria stepped down from voicing one of the most iconic characters on The Simpsons , Kwik-E-Mart owner Apu Nahasapeemapetilon. The actor and the show's writers agreed that the portrayal of Apu was charged with racial stereotypes, and they apologized while the character and his family were quietly moved to the background of the show. On Oct. 18, 2026, in the season 38 episode "The Revengening," Apu officially returned to The Simpsons with a new voice actor.
 
-### Street Fighter Fails To Match Resident Evil's Opening Weekend Box Office Success
-Sun, 18 Oct 2026 16:14:05 GMT — https://www.polygon.com/street-fighter-opening-weekend-box-office/
+### Tom Cruise's 10/10 War Action Epic Is About to Say Goodbye to HBO Max
+Mon, 19 Oct 2026 08:00:19 GMT — https://www.polygon.com/tom-cruise-the-last-samurai-leaving-hbo-max-october-2026/
 
-Looking at the fall slate of blockbuster films, I was most interested in finding out whether Resident Evil or Street Fighter would have the bigger opening weekend. We now have our answer: Street Fighter grossed about half of what Resident Evil did in its first weekend .
+Tom Cruise has built a career out of playing larger-than-life characters, but some of his best performances are when he delves into the more vulnerable people beneath the movie-star bravado. Days of Thunder filters the story of a hotshot NASCAR driver through the humbling process of learning to trust someone, while Jerry Maguire finds a sports agent in the throes of learning that success means little without genuine human connection. Even Tropic Thunder , for all its outrageous comedy, gives Cruise room to disappear into a grotesque Hollywood executive whose insecurities are as ridiculous as his explosive temper. And Alejandro González Iñárritu’s Digger gives Cruise one of his most fascinating character studies yet as an oil tycoon with a brazen plan to save the world.
 
-### 13 Years Ago, 'The Legend of Korra' Finally Answered the Biggest Avatar Mystery
-Sun, 18 Oct 2026 16:00:17 GMT — https://www.polygon.com/avatar-legend-of-korra-beginnings-origin-story/
+### Netflix's Sci-Fi Cyberpunk Sleeper Hit Becomes a True Masterpiece in Stellar New Season
+Mon, 19 Oct 2026 07:01:18 GMT — https://www.polygon.com/cyberpunk-edgerunners-2-review/
 
-Then, at a dire point midway through Legend of Korra season 2 when the South Pole spirit portal was opened, plunging the water tribes into civil war, Korra is swallowed by a massive dark spirit while at sea. She loses her memory. So much of each Avatar’s journey has been about reconnecting with their past selves, using their memories, shared knowledge, and skills accumulated over thousands of years. But perhaps for the first time ever, Korra is the only one who must go all the way back to the very beginning.
+Across 10 episodes, director Kai Ikarashi and the teams at CD Projekt Red and Studio Trigger deliver another spectacular collision of corporate cruelty, dangerous technology, and people pushing themselves past their limits. The ingredients are familiar, sometimes a little too much. But an extraordinary ensemble and the relationships that develop among its members make this return to Night City richer, more rewarding, and downright better.
 
-### Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI
-Sun, 18 Oct 2026 15:43:33 GMT — https://www.polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development/
+### The Best 'Peanuts' Great Pumpkin Comic Strip Came Out 2 Years Before the Famous TV Special
+Mon, 19 Oct 2026 04:00:26 GMT — https://www.polygon.com/peanuts-best-great-pumpkin-comic-strip-linus/
 
-Tim Sweeney, the CEO of Fortnite and Unreal Engine devleoper Epic Games, has repeatedly supported the use of AI in video game development. His stance has been controversial, considering that many gamers and developers are anti-AI . Nevertheless, he continues to defend it, arguing that AI coding has become significantly better in the past year and will usher in a "golden age of gaming."
+### 31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic
+Mon, 19 Oct 2026 03:00:18 GMT — https://www.polygon.com/calvin-hobbes-halloween/
 
-### Deathstroke Actor Reveals Scrapped Batman Film Would've Featured Batgirl And A Shocking Death
-Sun, 18 Oct 2026 15:30:16 GMT — https://www.polygon.com/ben-affleck-batman-movie-plot-details/
+On a Halloween reread of Bill Watterson's Calvin and Hobbes , one of its more remarkable qualities is that it usually doesn't bother with that. There are a few seasonal strips and arcs scattered across its nine-year run, sure, and Calvin's struggle with staying good before Christmas is an annual tradition. But as a whole, C&H is less concerned with the holiday calendar than one might expect, particularly in its late, post- sabbatical era.
 
-While rumors about the plot of Ben Affleck's scrapped Batman film have circulated for years, Deathstroke actor Joe Manganiello finally revealed more details about its story in his new memoir, Bloodlines .
+### Pokémon Officially Returns to Galar in 2027 for New Release
+Mon, 19 Oct 2026 02:51:19 GMT — https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/
 
-### D&D's New Arcana Unleashed Feats Are Breaking the Game, but There's an Easy Fix
-Sun, 18 Oct 2026 15:00:19 GMT — https://www.polygon.com/dnd-arcana-unleashed-adept-feats-broken-fix-dungeons-dragons/
+Disney and Pokémon are teaming up for a new streaming series coming to Disney Plus in 2027. Disney and The Pokémon Company announced Friday that the stop-motion animated adventure series Pokémon Tales: The Misadventures of Sirfetch'd & Pichu is now slated to debut on Disney XD and to stream exclusively on Disney Plus in 2027.
 
-Dungeons & Dragons ’ latest book, Arcana Unleashed , introduced a cornucopia of new options for players who enjoy keeping track of spell slots more than hitting monsters with a sword. Between new subclasses, spells, magical items, and factions, there is enough in Unleashed Arcana to keep even the most ambitious spellcaster entertained for a long time.
+### 10 NES Games That Are Still Worth Playing From Start to Finish
+Mon, 19 Oct 2026 02:34:47 GMT — https://www.polygon.com/best-nes-games/
 
-### A Remaster Of The Best Shrek Game Ever Just Leaked
-Sun, 18 Oct 2026 14:57:20 GMT — https://www.polygon.com/shrek-2-remastered-leak/
+On Oct. 18, 1985, Nintendo released the Nintendo Entertainment System in North America alongside a limited selection of games like Super Mario Bros. and Excitebike . Within a few years, it had a library of hundreds of titles, proving that rumors of the video game industry’s death throughout the early ‘80s were greatly exaggerated. Today, many of those early games feel like antiques. They’re not nearly as memorable as they once were, with so many generations of newer software to choose from. But there are some that still deserve your attention, even now. Here are 10 NES games that are still worth playing from start to finish.
 
-With Shrek 5 less than a year away, DreamWorks' flagship ogre is making his way back into gaming. Shrek and friends made their way into Brawlhalla earlier this year, and now a remaster of the great Shrek 2 tie-in game has leaked, courtesy of an early Xbox Store page listing.
+### 9 Best DLCs That Were Even Better Than the Base Game
+Mon, 19 Oct 2026 02:24:58 GMT — https://www.polygon.com/best-dlcs-video-games/
 
-### Forza Horizon Is No Longer the King of Video Game Road Trips
-Sun, 18 Oct 2026 14:30:18 GMT — https://www.polygon.com/american-truck-simulator-road-trip-forza-horizon/
-
-This is an activity I treasure. I love road trips , both in real life and in games. I love them to the extent that I mapped out and built a guide to the best scenic drives across every Forza Horizon game . But still, there's an unreality to the Forza road trip experience that bothers me.
+Even the wildest DLC needs a solid game to swerve away from, or the swerve doesn’t land. Every base game with excellent DLC is strong enough to stand on its own. That’s the common DNA: studios that had built something sturdy enough to trust it, confident enough to hand players a portal to hell, an alien hive-mind under a suburban cul-de-sac, or a crown that makes you ruler of an entire realm of madness — and bet that players would play anyway. For these nine DLCs, that confidence turned out to be well-placed. Here are the best DLCs of all time that took their main story and had the confidence to dream up wild new experiences for dedicated players. Each of these nine game expansions took a big swing, and has been remembered for that creativity ever since.
 
 ## PC Gamer
+
+### Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up
+Mon, 19 Oct 2026 03:00:45 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/
+
+We are drowning in shit. Steam Next Fest, which kicks off tomorrow, currently has 8,011 matches on its press preview landing page. That's roughly double the amount of demos featured in Steam's June 2026 Next Fest. In June 2022, Next Fest boasted just over a thousand demos. The vast majority of these demos will be meritless slop. And I daresay many of them—though I have no way to confirm—didn't exist as concepts before October. If you use social media, especially X, you've probably noticed an explosion of terrible clones and vibe coded mash-ups this month. You can largely thank Anthropic's new 5.5 update to its Claude Opus model for that, which offers massive efficiency gains for vibe coders. It's also been widely used to decompile commercial games and, maybe most famously, jailbreak the PS5. It definitely feels like we've crossed a threshold this month. On October 10, the creator of Escape the Walls , an incremental punching game which itself uses AI to "increase the speed of creating the game", posted in-progress footage from the game on X . Prophetically, a user replied: "You have exactly 7 hours before someone makes this on Roblox and gets 20x your revenue". (Image credit: Roblox) Right now, on October 19, there are at least seven Roblox clones of Escape the Walls. A competing studio had the audacity to tweet their own clone to the original game's creator. "Our Steam page is live too!" they posted. "Nothing wrong with friendly competition!" Leaving aside the fact that Esca
+
+### 23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare
+Sun, 18 Oct 2026 22:36:22 +0000 — https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/
+
+Volume.art is a nice, free, cool thing on the internet, and I just think that's something worth celebrating these days. The microgame collection sees you manipulating volume sliders through various abstracted, surprising, and very funny ways. It starts strong with "A man named Bow" by Alice Bottino, which kinda reminds me of the Smash Bros Home Run Contest minigame, at least as far as you're winding up to send something from the left side of the screen to the right. You drag back on the mouse to aim a bow and arrow, attempting to land it a set distance (and corresponding volume level) away. Some of my favorite entries came from Lunacid developer Akuma Kira, like "What's This About," a riff on the criminally-maligned Elder Scrolls Oblivion persuasion pie minigame. You've got to reach a set likability level with a Gamebryo-perfect lumpy potato man, while also accounting for a game-accurate slow decay in persuasiveness as you rapidly cycle between cruelty, honesty, humor, and sucking up. If I hadn't known about the Oblivion gag going in, it probably would have been my favorite entry⁠—"What's This About" features fairly prominently in volume.art's promo on social media. Surprise and delight is a big part of this thing, and from here there be, uh, spoilers? I guess? The Volume.art team The Volume.art team The Volume.art team The Volume.art team The Volume.art team The Volume.art team "Ctrl+Alt+Date" by Iodine really did something for me: It's a loving little parody of dating games
 
 ### Dark Souls 2 dataminer shows off massive prototype coliseum level from early development
 Sun, 18 Oct 2026 18:48:42 +0000 — https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/
 
 At a glance The rough prototype looks to have been binned early in development, and it's largely avoided discussion before Doneda's work. Some portions appear to have been part of an interconnected area, others are likely different versions of the same concept. It may have been related to what became the Undead Crypt in the final game. Doneda uses Elden Ring Nightreign to load in and explore what remains of the levels. The files contain a coliseum zone, mines, a strange underground tower (potentially a sequence of arenas, like Nightreign's DLC?), and a crypt portion. Doneda , the dataminer who showed off the unused levels, has been proving a genuine authority on Dark Souls 2 in particular. Previously, they made a Nightreign-compatible version of Dark Souls 2's Eleum Loyce . Doneda has also shown off a tantalizingly ambitious early version of Dark Souls 2's The Gutter. In hindsight, the entire pre-Sekiro Souls series (perhaps sans-Bloodborne) seems defined by difficult, rushed development cycles. Hidetaka Miyazaki took over Demon's Souls partway through as development foundered, and the final game was missing an entire archstone world. Dark Souls has its rougher, less beloved back half, particularly Lost Izalith. Dark Souls 3, though far more consistent than the prior games, had a striking world state system completely struck from it at some point. Even among that field, Dark Souls 2 had it rough: Wunderkind Miyazaki was completely focused on Bloodborne, DS2 attempted a divisi
 
-### Leaked AI safety bill from Anthropic only requires government intervention if 50+ deaths or $1 billion are on the line
+### Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk
 Sun, 18 Oct 2026 18:44:11 +0000 — https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/
 
 Politico recently reported on a confidential draft of a proposed AI safety bill from Anthropic, the company behind Claude LLMs (via Tom's Hardware ). The bill, which has been pitched to US lawmakers, would let the government crack down on a given AI model "only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people. The risk must stem from the creation or release of a biological weapon, the model evading its developer’s controls or a cyberattack." That article pointed out similarities between these proposals and those used in California's AI legislation , and shares a quote from a spokesperson for the company. "This bill represents the proposals outlined in Anthropic’s Advanced AI Framework, which we have been advocating for with federal and state lawmakers since June," they said, calling "sensible policies we believe Congress should act on." Notably, it has been posited that AI magnates leverage warnings of theoretical, wide-reaching catastrophe to manufacture consent for their self-regulation and expansion while doing little to address the harm AI is already doing (both broadly within industries like the one this website revolves around and directly with regards to human psychology ). Just earlier this year, Anthropic's safety lead quit with a note that "the world is in peril" —and just last week, OpenAI was accused by eight US states' attorney generals of ignoring its own safety warnings for the 
@@ -232,27 +268,12 @@ Sat, 17 Oct 2026 21:52:34 +0000 — https://www.pcgamer.com/games/rpg/metal-band
 
 Original Story: This one is thin , man, but it has to do with one of my favorite games of all time , while the circumstances of the rumor are just kind of neat and weird, even if it turns out to be nothing. User Few_Interview8222 on the Vampire: The Masquerade - Bloodlines subreddit reported back from a Genitorturers show in Brooklyn, New York. Partway through the set, the band supposedly told the crowd that a VtMB remake is happening. Genitorturers played at Brooklyn's The Meadows as part of their "Live + Lewd Tour" on October 15. We've reached out to both rights-holder Activision (one of several, it's complicated) and Genitorturers' representation, and will update this story if we hear back. Why would an industrial metal band started in Orlando in 1986 have this information? In addition to a killer score by Rik Schaffer , Bloodlines featured wonderfully era-appropriate licensed tracks from metal bands⁠—they were mostly used as diegetic music in the nightclubs and bars of Los Angeles. The Genitorturers track Lecher Bitch was the pitch-perfect theme of The Last Round, a downtown LA dive bar frequented by the Anarch faction of vampires. What if they're wrong? Multiple commenters on the Reddit thread point out that this could have been a confused, untimely, misinterpreted, or all of the above reference to last year's Vampire: The Masquerade - Bloodlines 2 . It's the sort of almost-but-not-quite thing you might expect from an artist with tangential awareness of a secondary fanba
 
-### Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo
-Sat, 17 Oct 2026 19:30:53 +0000 — https://www.pcgamer.com/gaming-industry/qualcomm-wins-usd2-legal-decision-against-fellow-tech-giant-arm-and-thats-not-a-typo/
-
-At a glance: Qualcomm gets $2 from Arm in the Delaware jury's decision, part of a yearslong licensing dispute between the two. Yahoo Finance puts their market caps at $210 billion and $243 billion respectively. Qualcomm alleges bad faith action by Arm over tech licensed by the former company from the latter. Qualcomm won $1 on its allegations of Arm withholding contractually obligated support on the licensed tech, and $1 on allegations Arm interfered with a deal between Qualcomm and Meta. Still undecided: Does Qualcomm get a 5-year pause on licensing payments to Arm, which could total in the billions of dollars? Reuters reported on the mystifying reward, which makes much more sense in the context of a broader legal battle between Qualcomm and Arm. The two companies are each behind some of the most widely-used processors in the world: Qualcomm's Snapdragon CPUs can be found in most non-Apple smartphones. Arm's titular architecture, meanwhile, is the basis of the Snapdragon CPU, and there are rumblings the future of desktop computing belongs to Arm and not the x86 architecture we've defaulted to for so long. The Delaware jury found that Arm breached a licensing agreement with Qualcomm, failing to provide patches and support for designs Qualcomm had licensed. The jury also ruled in favor of Qualcomm's allegation that Arm strategically leaked information to Bloomberg News that delayed a deal between Qualcomm and Meta in 2024. The jury sided with Arm over Qualcomm on five other co
-
-### 'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm
-Sat, 17 Oct 2026 18:34:02 +0000 — https://www.pcgamer.com/games/racing/i-am-overwhelmed-and-overstimulated-the-actor-behind-star-wars-galactic-racers-biddy-blas-is-scribbing-doon-all-your-enthusiasm/
-
-Every time I check in on Star Wars, there's a new stupid little creature (colloquially known as a Glup Shitto) everyone's into. The latest of these is Biddy Blas, a braggadocious pod racer and mama's boy who stands out for his shrill Huttese quips. "Ding dong pookie, ding dong," he crows. "Scrib doon!" If you love that, here's a video of him doing a little victory dance. Biddy Blas victory dance https://t.co/aVIAOzSMpE October 14, 2026 If you hate that, here's a video of him dying in a fireball. Oh my God I killed Biddy Blas, I'm so sorry wawa 😭 https://t.co/tNVYHbDxGp October 15, 2026 He's become the subject of meme after meme and people generally like the little brat. The voice actor for Biddy Blas, a British wrestler named Richard Summers-Calvert, has responded to all the love—and as you might guess, he basically looks like the opposite of Biddy Blas. All the attention has left him "overwhelmed and overstimulated," as he said in a video he shared on X , and he's hoping to show up for new fans of the Shitto du jour at cons and the like. In a follow-up video , he said he had some "good news" that he wasn't ready to announce just yet, and thanked all the Biddy-heads for the doors a sudden spotlight like this opens. "I know you're doing it for Biddy. I know you're doing it for him. But I benefit from him as well … I appreciate all the love. And hate, and frustration." It is a racing game, after all. This all seems like further proof that the true heart of Star Wars has never 
-
 ## GameSpot
 
 ### Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch
 Sun, 18 Oct 2026 12:00:00 +0000 — https://www.gamespot.com/articles/tenebris-somnia-blends-2d-visuals-with-live-action-horror-scenes-and-its-already-on-sale-at-launch/
 
 Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro horror with live-action sequences that will make your goosebumps bump, and you can get it cheaper than ever right now. As the best horror games continue to push for more realistic visuals and immersive experiences, Tenebris Somnia’s twist on the genre combines old-school cool with movie-like cutscenes. It’s both jarring and original, and that’s exactly what makes for excellent horror. I want to be constantly surprised, and Tenebris Somnia makes its pixelated 2D threats even more menacing when you see live-action versions of the monsters. Inspired by classics that scared us silly, like Resident Evil and Silent Hill, Tenebris Somnia has a deceptively simple premise. You play as Julia, who finds herself in a parallel universe while visiting her ex-boyfriend and is relentlessly hunted by nightmares that, well, aren’t exactly figments of her imagination. (To be honest, visiting an ex sounds like a nightmarish experience on its own. Ba-dum, tsss.) https://www.youtube.com/watch?v=A_fQ_gNddbo Co-created by Andrés Borghi and Tobías Rusjan with Saibot Studios, and published by New Blood Interactive, the studio behind Ultrakill, Blood West, and Gloomwood, Tenebris Somnia’s style is fittingly i
-
-### All The Records GTA 6 Will Break, We Think
-Fri, 16 Oct 2026 20:27:22 +0000 — https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/
-
-After years of development and perhaps more hype than for any game, GTA 6 is set for release on November 19 for PS5 and Xbox Series X|S. Predicting that it will be an enormous success commercially is perhaps one of the safest bets anyone could make. But just how big will the launch be? And what records could GTA 6 beat if it delivers? Lucia and Jason in GTA 6. The records The last GTA game, 2013's GTA 5, was a huge hit right out of the gate. It brought in $800 million in revenue over its first 24 hours and $1 billion in its first three days . Even a decade later, the game remains a sales juggernaut, eclipsing 230 million copies sold and counting . Rockstar's latest game, 2018's Red Dead Redemption II, launched with $725 million in revenue over its opening weekend . It's gone on to sell more than 87 million copies, making it one of the top five best-selling games ever . Outside of Rockstar, Bethesda's 2015 RPG Fallout 4 had a gigantic launch, shipping 12 million copies for launch day alone , generating sales in excess of $750 million. So to sum up, here are the records that GTA 6 is expected to surpass: GTA 5: $800 million in 24 hours and $1 billion in three days Red Dead Redemption II: $725 million over its first weekend Fallout 4: $750 million on launch day GTA 6 has enormous shoes to fill to match and surpass Rockstar's previous games and Fallout 4. But if Sensor Tower's data that projects 25 million preorders by launch is correct--or even close--then it should have no prob
 
 ## Rock Paper Shotgun
 
@@ -285,9 +306,4 @@ I've taken a habit, recently, to proclaim my desire to explode in lieu of anythi
 Sat, 17 Oct 2026 15:58:54 +0000 — https://www.rockpapershotgun.com/oh-dear-half-a-year-after-launching-samson-swedish-developer-liquid-swords-have-filed-for-bankruptcy
 
 Earlier this year, Swedish developer Liquid Swords released Samson , a GTA-ish, open world beat 'em up about dealing with debt, driving sturdy but battered cars, and saving your sister. It wasn't received all that well, including by us, notably because it was quite broken . While subsequent patches did seek to address those issues, it doesn't seem like it was quite enough, as the developer has gone bankrupt. Read more
-
-### What are we all playing this weekend?
-Sat, 17 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-404
-
-Saturday's are for having your mind read. Or, at least, this Saturday is because I'm seeing Derren Brown's new show. I'm a little self-conscious about it, not because I'm worried the mentalist will hypnotise me and make me profess a false love for consoles over PC games but because my partner and her family have never seen me at a magic (or magic adjacent show). Reader, I am an awful audience member for conjurors, illusionists, and psychics. Read more
 

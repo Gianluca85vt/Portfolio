@@ -1,6 +1,36 @@
-# Manga — harvested 2026-10-18T18:56:20.879Z
+# Manga — harvested 2026-10-19T10:17:06.577Z
 
 ## Anime News Network
+
+### Kanon, Air, Clannad, Heaven Burns Red's Jun Maeda in Palliative Care for Pharyngeal Cancer
+Mon, 19 Oct 2026 04:38:36 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/kanon-air-clannad-heaven-burns-red-jun-maeda-in-palliative-care-for-pharyngeal-cancer/.242983
+
+Maeda has completed work on 1st 6 chapters of <cite>Heaven Burns Red</cite>, working on original music project
+
+### Cygames States Uma Musume: Pretty Derby Franchise's U.S. Concerts May Be Canceled Due to Visa Issues
+Mon, 19 Oct 2026 03:25:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/cygames-states-uma-musume-pretty-derby-franchise-u.s-concerts-may-be-canceled-due-to-visa-issues/.242979
+
+L.A. concerts scheduled for October 22-23; final decision whether to hold concerts or not to be announced by Monday night
+
+### New Live-Action Street Fighter Film Opens at #1 in the U.S., Earns US$51 Million Globally
+Mon, 19 Oct 2026 00:07:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/new-live-action-street-fighter-film-opens-at-no.1-in-the-u.s-earns-usd51-million-globally/.242960
+
+Film earned estimated US$31 million in the U.S., US$20.1 million in 65 markets overseas
+
+### Anime Studio Felix Film Edits Job Listing That Encouraged Generative AI
+Sun, 18 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-18/anime-studio-felix-film-edits-job-listing-that-encouraged-generative-ai/.242957
+
+Felix Film has not decided to use "generative AI for images in the studio, but we are studying its potential future use”
+
+### Tsugumi Project Anime Reveals 1st 3 Cast Members
+Sun, 18 Oct 2026 23:43:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/tsugumi-project-anime-reveals-1st-3-cast-members/.242967
+
+Masaaki Mizunaka, Haruki Ishiya, Misaki Watada cast in TV anime
+
+### Love Live! Hasu no Sora Jōgakuin School Idol Club TV Anime Unveils 7-Episode Run, January 10 Debut
+Sun, 18 Oct 2026 21:09:46 -0400 — https://www.animenewsnetwork.com/news/2026-10-18/love-live-hasu-no-sora-jogakuin-school-idol-club-tv-anime-unveils-7-episode-run-january-10-debut/.242958
+
+New visuals for 106th class characters also unveiled
 
 ### Mushoku Tensei: Jobless Reincarnation Volumes 1-3 Light Novel Review
 Sun, 18 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/mushoku-tensei/jobless-reincarnation-volumes-1-3-light-novel/.242609
@@ -31,36 +61,6 @@ Sun, 18 Oct 2026 03:08:56 -0400 — https://www.animenewsnetwork.com/news/2026-1
 Sat, 17 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-17/voice-actor-nichika-omori-announces-1st-pregnancy/.242850
 
 Ōmori made the announcement with her husband Yunomi as a birthday surprise
-
-### Octopath Traveler 1 & 2 Game Review
-Sat, 17 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-2/octopath-traveler-1-and-2/.242702
-
-Square Enix’s experimental RPGs <i>Octopath Traveler I</i> and <i>II</i> are now on Nintendo Switch 2, but is the short-story format and split narrative style all it’s cracked up to be?
-
-### Japan's Video Game Rankings, October 5-11
-Sat, 17 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/japan-video-game-rankings-october-5-11/.242888
-
-<cite>Kingdom Hearts Collection</cite> Switch 2 version debuts at #1, <cite>Ace Combat 8</cite> ranks at #3
-
-### Bringing the 'Art of Manga' to the Brooklyn Museum
-Sat, 17 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-17/bringing-the-art-of-manga-to-the-brooklyn-museum/.242455
-
-Curator Rousmaniere said, “What Brooklyn has done is really highlighted each of the artists in their own individual fashion, really beautifully spacing it out, and I think it's the most immersive format they could have done.”
-
-### We Are Aliens Film Wins Sitges Film Festival's Anima't Award
-Sat, 17 Oct 2026 08:16:17 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/we-are-aliens-film-wins-sitges-film-festival-animat-award/.242938
-
-Kōhei Kadowaki is youngest Japanese director to win award in Spain's Catalonia
-
-### Japanese Animation TV Ranking, October 5-11
-Sat, 17 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/japanese-animation-tv-ranking-october-5-11/.242889
-
-<cite>The Vermilion Mask</cite> debuts with 3.1% rating, <cite>Dragon Ball Super: Beerus</cite> with 2.8% rating
-
-### Aikatsu Stars 10th Anniversary Film's Trailer Unveils Theme Song, January 22 Debut
-Sat, 17 Oct 2026 05:31:32 -0400 — https://www.animenewsnetwork.com/news/2026-10-17/aikatsu-stars-10th-anniversary-film-trailer-unveils-theme-song-january-22-debut/.242937
-
-Yume & company invited to "Venus Jamboree" with world's top idols
 
 ## Crunchyroll News
 
@@ -93,12 +93,12 @@ Sat, 17 Oct 2026 14:38:58 GMT — https://animecorner.me/bang-dream-releases-god
 
 BanG Dream! released a short video of Ave Mujica's new song "God's Blood" from&hellip;
 
-### Interview: MAPPA President & CEO Manabu Otsuka and Director Kaori Makita on the Studio's 15th Anniversary and Growth
-Sat, 17 Oct 2026 00:59:37 GMT — https://animecorner.me/interview-mappa-ceo-manabu-otsuka-and-director-kaori-makita-on-the-studios-15th-anniversary-and-growth/
-
-To celebrate the 15th anniversary of Studio MAPPA, Manabu Otsuka, MAPPA's CEO and president,&hellip;
-
 ## MyAnimeList News
+
+### Toratsugumi: Tsugumi Project Announces Main Cast
+Sun, 18 Oct 2026 19:46:26 -0700 — https://myanimelist.net/news/74835366?_location=rss
+
+The official X account for the television anime adaptation of ippatu s Toratsugumi: Tsugumi Project manga announced the main cast on Monday. Cast Leone: Masaaki Mizunaka (Isekai Maou to Shoukan Shoujo no Dorei Majutsu) Tsugumi: Misaki Watada (Uma Musume: Pretty Derby) Dudu: Haruki Ishiya (Hibike! Euphonium) Ippatu originally published the action survival manga in France through publisher Ki-oon in July 2019. Kodansha began serializing the manga in its Weekly Young Magazine from January 2021...
 
 ### Manga NullMeta Gets TV Anime in 2027
 Sun, 18 Oct 2026 05:21:03 -0700 — https://myanimelist.net/news/74833036?_location=rss
@@ -111,13 +111,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### From Bureaucrat to Villainess: My Dad s Been Reincarnated! Collection Review
+Mon, 19 Oct 2026 09:00:23 +0000 — https://animeuknews.net/2026/10/from-bureaucrat-to-villainess-my-dads-been-reincarnated-collection-review/
+
+When a middle-aged salaryman wakes up after an accident to find he’s now the golden-haired daughter of a duke at magic academy, how is he going to survive? What’s more, he’s the villainess!
+
 ### Otaku x Gal Volume 3 Review
 Sun, 18 Oct 2026 09:00:35 +0000 — https://animeuknews.net/2026/10/otaku-x-gal-volume-3-review/
 
 Otakura is becoming quite popular with his classmates, which leaves Narumi feeling jealous, despite how much time they've been spending together. Will she finally figure out that she has feelings for him?
-
-### Ping Pong Review
-Sat, 17 Oct 2026 09:00:03 +0000 — https://animeuknews.net/2026/10/ping-pong-review/
-
-Best friends and rivals, Peco and Smile compete to be the best at table tennis. But their approaches to the game couldn't be more different...
 
