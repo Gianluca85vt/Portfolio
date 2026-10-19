@@ -21,7 +21,6 @@ artistView:
   misses:
     - "Mission scripting: reviewers describe triggers that never fire and stages that never advance. That is the failure mode of a team short of the headcount a final pass needs."
     - "Economy design: losing an in-game day's earnings on a failed mission is the kind of balancing decision that normally dies in playtesting, which suggests there was not much playtesting left to kill it."
-draft: true
 ---
 
 Twenty-eight critics reviewed Samson after it shipped in April, and most of
