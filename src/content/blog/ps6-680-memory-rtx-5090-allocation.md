@@ -72,8 +72,6 @@ has gone with it. A scene a gigabyte over can lose a large fraction of its
 speed, because what got pushed out is what's being touched constantly. A memory
 ceiling is a wall. The wall is where your ambition for the shot stops.
 
-[[ANEDDOTO: a time a scene went past the memory ceiling — what had to come out of it, what the fix cost in hours, and whether anyone looking at the final frame could tell]]
-
 Which is why 32 falling to 24 costs more than eight gigabytes. Eight gigabytes
 is a 4K set on your hero assets, or the sim cache for a medium effect, or the
 headroom that lets you keep working in the viewport while something renders
@@ -91,8 +89,6 @@ why every freelancer I know who renders on a GPU either owns one or wanted one.
 Take it out and the ladder is a consumer card and an invoice. Nothing between
 them. The thing you're asked to buy on the far side of the gap isn't priced for
 a person; it's priced for a company that bills the render.
-
-[[ANEDDOTO: specifying or paying for a render machine — the budget, what got cut to make it fit, and what he'd buy now that the 5090 is going]]
 
 And look where the 5090 is going. The same silicon, sold into a market that
 pays more for it. There's no villain in that; it's what any of us would do with
