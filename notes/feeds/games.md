@@ -1,6 +1,31 @@
-# Games — harvested 2026-10-19T17:09:33.649Z
+# Games — harvested 2026-10-20T09:37:35.357Z
 
 ## Eurogamer
+
+### Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring "every possible option"
+Tue, 20 Oct 2026 09:00:11 +0000 — https://www.eurogamer.net/umamusume-pretty-derby-la-concert-cancelled-visa-issues
+
+The developers of Umamusume: Pretty Derby have announced a sudden cancellation of an upcoming LA concert, laying the blame on an inability to receive the proper visas despite exploring "every possible option". Read more
+
+### "This act is intended to demonstrate solidarity with Palestine" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel
+Tue, 20 Oct 2026 08:49:14 +0000 — https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine
+
+Origame Digital, the studio behind 2020's critically acclaimed Umurangi Generation , has just released a new game but banned it from being sold in Israel. Read more
+
+### Moonlighter dev delays Steam playtest for its "Tower Defensevania" ReVamp over concerns that AI copycats might clone it before launch
+Mon, 19 Oct 2026 19:54:06 +0000 — https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats
+
+Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over "games being reverse-engineered, cloned and published before the original is even out." Read more
+
+### Final Fantasy 7 Revelation's Hard Mode is available from the start this time, so you won't need to replay the mammoth RPG to get to the good stuff
+Mon, 19 Oct 2026 18:27:17 +0000 — https://www.eurogamer.net/final-fantasy-7-revelation-hard-mode-start-replay-rpg
+
+Final Fantasy 7 Revelation will let players access Hard Mode from the very beginning of the journey, unlike FF7 Remake and Rebirth, which made folks roll credits before unlocking the tougher difficulty option. Read more
+
+### Arc Raiders player numbers hit a six-month high following the release of the extraction shooter's huge Frozen Trails update
+Mon, 19 Oct 2026 17:22:27 +0000 — https://www.eurogamer.net/arc-raiders-frozen-trails-player-numbers-six-month-high
+
+Arc Raiders is still going strong almost a year after finding viral success, and it's all thanks to Embark Studios' one-two-punch strategy of launching a huge new update, Frozen Trails, to coincide with a free weekend. Read more
 
 ### PlayStation founder Ken Kutaragi says discs became "metaphor for 'owning' games", and that upset at their discontinuation is a "mentality issue"
 Mon, 19 Oct 2026 16:07:22 +0000 — https://www.eurogamer.net/ken-kutaragi-playstation-discs
@@ -37,32 +62,17 @@ Mon, 19 Oct 2026 11:00:50 +0000 — https://www.eurogamer.net/call-of-duty-next-
 
 Next year's Call of Duty game will not be part of any of the franchise's existing sub-series. In an interview with The Game Business , Activision confirmed it's finally ready to create a new sub-series. Read more
 
-### Dune: Awakening studio faces layoffs as it restructures following console release
-Mon, 19 Oct 2026 10:47:29 +0000 — https://www.eurogamer.net/funcom-dune-awakening-layoffs-restructuring
-
-Norwegian developer Funcom, creator of Dune: Awakening and Conan Exiles - and many other games - is entering a period of restructuring and bracing for layoffs as a result. You may remember the company making a similar move this time last year , months after the initial PC release of Dune: Awakening. Read more
-
-### Steam Next Fest 2026 has more than double the number of demos than last year, but how much of it is generative 'AI slop'?
-Mon, 19 Oct 2026 10:43:26 +0000 — https://www.eurogamer.net/steam-next-fest-2026-over-double
-
-Steam Next Fest 2026 starts today, offering PC players a chance to get their hands on a staggering number of playable demos. With the full count coming to more than double last year's event, concerns about generative AI 'slop', plagiarism, and discoverability are circulating Read more
-
-### Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history
-Mon, 19 Oct 2026 08:36:43 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating
-
-It may be hard to believe, given all the Call of Duty: Modern 4 pre-launch community drama and the beta's lower-than-expected numbers on PC , but the final game may have turned things around - so far, at least. Read more
-
-### Battlefield 6 devs to fix "Secuty" skin typo, but five-pistol outfit was intentional
-Sun, 18 Oct 2026 17:37:38 +0000 — https://www.eurogamer.net/battlefield-6-secuty-typo-five-pistol-skin-devs-respond
-
-Battlefield Studios has responded after fans accused it of using AI to generate cosmetics after spotting a "Secuty" typo on a Battlefield 6 Season 5 skin. Read more
-
-### The PS6's memory and storage alone reportedly cost more than $680
-Sun, 18 Oct 2026 17:10:29 +0000 — https://www.eurogamer.net/ps6-ram-nand-costs-over-680-keplerl2
-
-The PS6's memory and storage reportedly cost more than $680 between them. Read more
-
 ## GamesIndustry.biz
+
+### GDC Festival of Gaming 2027 moves to four-day format to "create a higher quality, more focused and valuable experience"
+Tue, 20 Oct 2026 08:37:14 +0000 — https://www.gamesindustry.biz/gdc-festival-of-gaming-2027-moves-to-four-day-format-to-create-a-higher-quality-more-focused-and-valuable-experience
+
+GDC Festival of Gaming will shift to a four-day format for its 2027 edition, taking place Monday through Thursday, March 1 to March 4. Read more
+
+### PEGI begins moving existing digital-only games with loot boxes up to a 16 rating
+Mon, 19 Oct 2026 19:12:21 +0000 — https://www.gamesindustry.biz/pegi-begins-moving-existing-digital-only-games-with-loot-boxes-up-to-a-16-rating
+
+Existing digital-only games that include paid random items, such as loot boxes, are being re-rated PEGI 16 if they currently carry a PEGI 3, 7, or 12 rating. Read more
 
 ### Wizards of the Coast declines to voluntarily recognize D&D and Studio X union drive
 Mon, 19 Oct 2026 16:36:11 +0000 — https://www.gamesindustry.biz/wizards-of-the-coast-declines-to-voluntarily-recognize-dd-and-studio-x-union-drive
@@ -84,10 +94,10 @@ Mon, 19 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/new-croatian-c
 
 A new Croatian development conference is aiming to fill the gap left by the recently-deceased and much-cherished Reboot Develop, which ended this year with the organiser being served with a bankruptcy order . The "no-stress" Splitscreen , which takes place in the Croatian capital on April 20&ndash;22, 2027, has been created by a new team, but seeks to capture the same spirit that made its forebear a popular destination for the global industry. Read more
 
-### Samson studio Liquid Swords files for bankruptcy, staff reportedly unpaid for two months
+### Liquid Swords CEO confirms studio closure following bankruptcy proceedings
 Mon, 19 Oct 2026 08:43:25 +0000 — https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months
 
-Samson developer Liquid Swords has filed for bankruptcy after employees reportedly went unpaid for two months. Read more
+Update, October 20, 2026: Liquid Swords CEO Christofer Sundberg has confirmed the closure of the studio after filing for bankruptcy. Read more
 
 ### The AI state of play: AI laws and game development
 Mon, 19 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development
@@ -104,6 +114,31 @@ UKIE has partnered with law firm Sheridans to provide an AI Compliance and Accre
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### 5 October 2026 PS Plus Extra, Premium Games Available to Download Now
+Tue, 20 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/5-october-2026-ps-plus-extra-premium-games-available-to-download-now
+
+Or the full lineup if you're outside the UK, USA, and Japan. Today's the day for your monthly PS Plus Extra and PS Plus Premium update to come into force, with the October 2026 refresh bringing nine new additions. Obviously, because Sony is experimenting with the rollout of these games, how many you gain access to today depends on where you live. The vast majority of countries get the complete selection today, but if you're in the UK, USA, or Japan, it's only the following five games: Read the full article on pushsquare.com
+
+### Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre
+Mon, 19 Oct 2026 22:00:00 GMT — https://www.pushsquare.com/reviews/ps5/stupid-never-dies
+
+Basket case. With a scribblecore aesthetic and a story so unhinged it’d make even Suda51 smile, Stupid Never Dies is not your average roguelite. I think that’s important, because this debut action effort from Japanese dev GPTRACK50 is entering a genre that’s quickly becoming overstuffed with options. Read the full article on pushsquare.com
+
+### PSVR2 Darling Synth Riders Dances Away with a Spooky Free Song for Halloween
+Mon, 19 Oct 2026 21:45:00 GMT — https://www.pushsquare.com/news/2026/10/psvr2-darling-synth-riders-dances-away-with-a-spooky-free-song-for-halloween
+
+Can't find a better price than free. In what's become something of a tradition for PSVR2 rhythm darling Synth Riders , the looming arrival of Halloween means Kluge Interactive is giving the game an update with a free new song. This year, the song in question is ' Lord & Master ' by Apashe. A bassy cinematic track, this veers back a little closer to the original vibe that Synth Riders had back when it launched, which is a most welcome return. Read the full article on pushsquare.com
+
+### Could Sony s Bungie Build the Next Star Wars Battlefront Game?
+Mon, 19 Oct 2026 18:45:00 GMT — https://www.pushsquare.com/news/2026/10/could-sonys-bungie-build-the-next-star-wars-battlefront-game
+
+Skywalkers. While dev Bungie massages Marathon and revives Destiny 2’s cut content, it could be in talks to take on a new project. According to rumourmonger Quarterman – as revealed by Giant Bomb’s Jeff Grubb during his Game Mess Mornings podcast – the Sony studio may be under consideration to continue the Star Wars Battlefront franchise. Read the full article on pushsquare.com
+
+### Poll: Would You Pay $1,000 for a PS6?
+Mon, 19 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/features/poll-would-you-pay-usd1000-for-a-ps6
+
+Testing the waters. So, it's looking increasingly likely that the PS6 will cost a significant sum of money. A report that spread far and wide over the weekend claims that continually soaring component costs will put Sony in a very difficult position as far as next-gen console launches go. Read the full article on pushsquare.com
 
 ### In Time for Halloween, Directive 8020 Adds Online Multiplayer in Major Update on PS5
 Mon, 19 Oct 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/10/in-time-for-halloween-directive-8020-adds-online-multiplayer-in-major-update-on-ps5
@@ -140,36 +175,24 @@ Mon, 19 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/gooner
 
 But only in Europe for now. Zenless Zone Zero’s age rating has increased on the PS5 in Europe, from PEGI 12 to PEGI 16. The change is likely to reflect the current content in the game, although there’s been no alterations in the US (where it’s rated Teen) or on the App Store (where it’s 13+). Read the full article on pushsquare.com
 
-### Snoop Dogg and Singing Are All Over Stranger Than Heaven s Act 1 Deep Dive Trailer
-Mon, 19 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/snoop-dogg-and-singing-are-all-over-stranger-than-heavens-act-1-deep-dive-trailer
-
-See the PS5 game set its opening scenes. One of 2027's weirdest yet most intriguing releases, Stranger Than Heaven from Yakuza team RGG Studio, has shared a deep dive into the PS5 game's first act, explaining what the opening hours of the experience will entail. With the game split across five different eras (1915, 1929, 1943, 1951, and 1965), this trailer explores act one, set in Kokura during 1915. As the YouTube description sets up: "In this trailer, discover the events that lead Makoto Daito to sneak aboard the ship of a man named Orpheus, and the harsh realities and life-changing encounters that await him once arriving in the city of Kokura, Japan." Read the full article on pushsquare.com
-
-### Star Wars Games Primed to Continue Hot Streak with Surprise Titles
-Mon, 19 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/star-wars-games-primed-to-continue-hot-streak-with-surprise-titles
-
-More to come, Lucasfilm teases. Games set in the Star Wars universe are on a roll right now, with recent releases Zero Company and Galactic Racer both launching to critical acclaim. Neither focusing on Jedi or the traditional action-adventure experience, they are a good representation of recent quotes from Lucasfilm executive Douglas Reilly. The vice president of the company shared (via The Game Business ) Lucasfilm has expanded the sort of developers it'll listen to and accept pitches from that want to make Star Wars games. Read the full article on pushsquare.com
-
-### Saros Massive Zenith Update Is Available Now on PS5, Free for All Players
-Mon, 19 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/saros-massive-zenith-update-is-available-now-on-ps5-free-for-all-players
-
-Boss rush! New Game+! More! Developer Housemarque has just released the Zenith update for Saros , expanding the PS5 shooter with brand new content and features, and it's available now for free. Weighing in at 3.5 GB, the update brings the game to version 2.0, and it contains various exciting new ways to engage with the roguelite third-person shooter — especially for those that have already completed the campaign. Read the full article on pushsquare.com
-
-### Rumour: AAA Assassin s Creed Game Set in China Was Cancelled Just Last Year
-Mon, 19 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-aaa-assassins-creed-game-set-in-china-was-cancelled-just-last-year
-
-It was Destiny. Assassin's Creed was on track to bring its trademark brand of stealth-action to China via a brand new AAA title — but it seems as though the project was cancelled before it could really take off. According to a report from MP1st , the game was called Assassin's Creed Destiny, and it was set in 206 BCE — several years after Assassin's Creed Jade, the free-to-play mobile release that's currently in development. Read the full article on pushsquare.com
-
-### Guide: These 35+ PS5 and PS Plus Games Are Coming Out This Week (19th-25th October)
-Mon, 19 Oct 2026 11:30:00 GMT — https://www.pushsquare.com/guides/these-35plus-ps5-and-ps-plus-games-are-coming-out-this-week-19th-25th-october
-
-Call of Duty: Modern Warfare 4! Final Fantasy Resonance! BeamNG.drive! Between all the new releases and PS Plus update, PS5 owners have an eye-watering 35+ new games to look forward to this week. This includes some real major titles like Call of Duty: Modern Warfare 4 , although you can already play its campaign in Early Access if you’re so inclined. Read the full article on pushsquare.com
-
 ## Game Developer
 
-_Nothing in the last 48 hours._
+### RocketWerkz' C# framework 'BRUTAL' is now available to all developers
+Mon, 19 Oct 2026 20:57:38 GMT — https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers
+
+Developers who want to complete control over their game's code have a new framework to lean on.
+
+### Moonlighter developer delays public playtest of next game over concerns of AI cloning
+Mon, 19 Oct 2026 17:08:14 GMT — https://www.gamedeveloper.com/programming/moonlighter-developer-delays-public-playtest-of-next-game-over-concerns-of-ai-cloning
+
+Digital Sun Games is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.
 
 ## VGC
+
+### DICE and Bungie are reportedly both interested in developing Star Wars Battlefront 3
+Tue, 20 Oct 2026 08:58:02 +0000 — https://www.videogameschronicle.com/news/dice-and-bungie-are-reportedly-both-interested-in-developing-star-wars-battlefront-3/
+
+Both studios are preparing to pitch to Disney to take on the project, it' Source
 
 ### Star Wars: Galactic Racer boss on DLC and the remarkable rise of Biddy Blas
 Mon, 19 Oct 2026 15:19:51 +0000 — https://www.videogameschronicle.com/features/star-wars-galactic-racer-boss-on-dlc-and-the-remarkable-rise-of-biddy-blas/
@@ -218,57 +241,82 @@ The studio behind open-world game has reportedly been declared bankrupt after mo
 
 ## Polygon
 
-### Star Trek Actor Breaks Silence on Starfleet Academy's Cancellation
-Mon, 19 Oct 2026 16:51:18 GMT — https://www.polygon.com/star-trek-starfleet-academy-robert-picardo-why-show-canceled/
+### 5 Best Halloween 'Peanuts' Comics That Don't Involve the Great Pumpkin
+Tue, 20 Oct 2026 08:00:22 GMT — https://www.polygon.com/peanuts-charlie-brown-best-halloween-strips/
 
-Star Trek 's immediate future doesn’t look particularly bright. The two remaining Star Trek series, Strange New Worlds and Starfleet Academy , are both ending soon with nothing else in the immediate pipeline. To make matters worse, Star Trek rights holder Paramount just merged with Warner Bros., raising questions about how much attention the series will get under this new megabrand (which now has to pay off $86.8 billion in debt).
+Halloween in Charles Schulz's Peanuts frequently meant it was time for another run at the Great Pumpkin . This running gag, introduced in 1959, was sort of like Schulz's answer to Samuel Beckett's Waiting for Godot . Linus van Pelt spent every Halloween for almost 40 years waiting for the Great Pumpkin to arrive, and he never did.
 
-### Star Wars Book Officially Solves Luke Skywalker's Most Iconic Mystery
-Mon, 19 Oct 2026 16:00:16 GMT — https://www.polygon.com/star-wars-star-pilots-chris-kempshall-luke-skywalker/
+### 3 Video Games Where Your Choices Actually Make a Difference
+Tue, 20 Oct 2026 00:34:42 GMT — https://www.polygon.com/best-games-choices-impact/
 
-Every Star Wars fan knows how it felt to watch Luke Skywalker strap into his X-wing and take on the Empire in his first run-in with the Death Star. Fans felt fear, excitement, and then utter euphoria when he pulled off that all-important shot, kickstarting one of the Rebellion's first major victories with a massive bang.
+This year's open-world RPG The Blood of Dawnwalker and its myriad choices got me thinking: What does it really mean for your choices to matter in a video game? Typically, we think it's a good use of branching narratives when you have a properly big, dramatic effect on how things play out or when you have hundreds of endings. Just look at how so much attention on Baldur's Gate 3 focused on its endings or, years before, how everyone tended to ignore the smaller ways the Mass Effect trilogy changed across three games in favor of looking at the restrictive outcomes in Mass Effect 3 .
 
-### Pokémon Skateboards Officially Launch, and Scalpers Are Already Buying Them Up
-Mon, 19 Oct 2026 15:40:28 GMT — https://www.polygon.com/pokemon-skateboard-santa-cruz-restock-shape-prices-charizard-eevee/
+### 'Red Dead Redemption' 2 Mod Is 'Shadow of Mordor' Meets the Wild West
+Mon, 19 Oct 2026 23:12:52 GMT — https://www.polygon.com/red-dead-redemption-2-nemesis-system-mod-shadow-of-mordor/
 
-Oct. 17 marked the release of Santa Cruz skateboard blind bags containing illustrated decks of some of the Pokémon Trading Card Game's best art. Classic cards like the base-set Charizard and more modern cards like the " Moonbreon " from Evolving Skies are randomly packaged in these new products. If that sounds cool to you, here's the bad news: You're probably not going to find any of these in a store.
+The Lord of the Rings games Middle-earth: Shadow of Mordor and Shadow of War introduced the Nemesis system, a mechanic that makes enemy orcs remember encounters with the player, develop rivalries and return seeking revenge. The system helped set the games apart by turning random encounters into personal vendettas that could evolve over time.
 
-### Lord of the Rings Director Says He’s Finally Making His Tintin Sequel
-Mon, 19 Oct 2026 15:34:50 GMT — https://www.polygon.com/tintin-update-peter-hackson-lord-of-the-rings/
+### 8 Classic PlayStation Adventure Games that are Barely Playable Today
+Mon, 19 Oct 2026 23:01:17 GMT — https://www.polygon.com/classic-playstation-adventure-games-unplayable-today/
 
-Tintin fans have been in the wilderness for quite some time. After the Steven Spielberg-directed The Adventures of Tintin hit theaters in 2011, Spielberg and producer Peter Jackson confirmed that a sequel was on the way. This follow-up was originally promised for sometime in 2014 or 2015, with Jackson directing. Needless to say, that didn’t happen.
+If you’ve ever watched someone play an old PlayStation game and wondered why their character keeps spinning around in circles, congratulations, you’ve already met tank controls. If you’re unfamiliar, here’s your quick introduction: With tank controls, pressing up moves your character forward in whatever direction they’re facing, and pressing left or right only rotates them, so with the stick alone, you can’t sidestep or turn on a dime. That’s manageable in a hallway. It’s much less so when you’re sneaking past a guard, lining up a shot, or timing a leap across a pit, which is why the same scheme caused trouble in just about every genre during the PS1 era. These eight classic games are the hardest to go back to, whether the culprit is tank controls or something else entirely.
 
-### Where to find penny buns in Enshrouded
-Mon, 19 Oct 2026 15:30:22 GMT — https://www.polygon.com/enshrouded-penny-buns-how-to-get/
+### Modern Warfare 4 Is Legitimately a Top-5 Call of Duty Campaign
+Mon, 19 Oct 2026 22:15:56 GMT — https://www.polygon.com/mw4-modern-warfare-4-call-duty-campaign-review/
 
-To find penny buns in Enshrouded , you must take a foraging trip to a particular area. Chances are you've already been there but missed these small, brown mushrooms — if there's one crafting ingredient in Enshrouded that's easy to find but even easier to overlook, it's penny buns.
+Infinity Ward has long been the Call of Duty studio to rely on for single-player campaigns. The original Call of Duty 4: Modern Warfare and Modern Warfare 2 are still the best in the whole series, and the reboot got off to a strong start with Call of Duty: Modern Warfare in 2019. Despite a slightly underwhelming runtime, Modern Warfare 4 , the latest, is up there with the very best of them.
 
-### Xbox Game Pass Is Officially Losing One of the Best Star Wars Games of All Time This Month
-Mon, 19 Oct 2026 15:23:09 GMT — https://www.polygon.com/xbox-game-pass-october-2026-leaving-star-wars-skywalker-saga-double-fine/
+### Stupid Never Dies Is Easily the Worst Game of 2026
+Mon, 19 Oct 2026 22:00:17 GMT — https://www.polygon.com/stupid-never-dies-review/
 
-As October comes to a close and leaves fall from the trees, Xbox Game Pass is shedding more titles as a sign that this month is almost up. Xbox has revealed the second wave of titles leaving the subscription service on Oct. 31 (spooky), and while the list may be short, it has some absolute bangers you'll want to check out while you can.
+Dated doesn’t begin to describe the debut action RPG from GPTRACK50, a new studio founded by former Capcom producer Hiroyuki Kobayashi. Style points only count for so much in a downright regressive action game that’s saddled with a supremely uncomfortable story, a repetitive faux-roguelike hook, and unresponsive combat that wastes some good RPG depth. It’s the kind of game I might have loved as a kid with a low bar for quality, and one that I’d have to make a lot of excuses for loving as an adult who knows better.
 
-### Avengers Star Officially Clarifies His Huge Doomsday Spoiler
-Mon, 19 Oct 2026 15:09:29 GMT — https://www.polygon.com/avengers-doomsday-tony-stark-david-harbour-red-guardian/
+### Street Fighter Officially Sets a New Franchise Box Office Record
+Mon, 19 Oct 2026 21:31:57 GMT — https://www.polygon.com/street-fighter-movie-2026-box-office-success/
 
-Ever since Robert Downey Jr. was announced to be playing Doctor Doom in December's Avengers: Doomsday , Marvel fans have wondered how the film would handle this in the context of the multiverse. Would Victor von Doom be a variant of Tony Stark, the character Downey played for over a decade? Would he never take off his mask, meaning Avengers like Steve Rogers and Thor wouldn't have to address how their new enemy suspiciously looks a lot like their old friend?
+For nearly 40 years and across six mainline entries — plus dozens of spinoffs and rereleases — Street Fighter has been one of gaming's most enduring franchises. But adaptations of the magical martial arts source material have proven tricky, with previous attempts garnering mixed reception from fans and critics.
 
-### Hugh Jackman's R-rated Action Thriller Soars to No. 1 on Streaming
-Mon, 19 Oct 2026 14:27:42 GMT — https://www.polygon.com/the-death-of-robin-hood-streaming-success-hbo-max/
+### New Pokémon Release Finally Lets You Play As Team Rocket
+Mon, 19 Oct 2026 20:53:22 GMT — https://www.polygon.com/new-pokemon-game-team-rocket-evolved-what-is-trailer-release/
 
-After playing Hollywood's live-action Wolverine for 24 years, Hugh Jackman has become a reliable box-office draw. His most recent run as hot-headed mutant James "Logan" Howlett — 2024's Deadpool & Wolverine — grossed more than $1.3 billion worldwide. While Jackman is heavily identified with his longtime X-Men role, he's had hits beyond superhero cinema: The Prestige , The Greatest Showman , and this year's The Sheep Detectives .
+Becoming the best that ever was? Boring. You've already played the plucky hero in Pokémon games — now, with a new upcoming game, you'll finally get to play as the villainous Team Rocket.
 
-### Taika Waititi's Star Wars Movie Gets Disappointing Update
-Mon, 19 Oct 2026 14:14:55 GMT — https://www.polygon.com/star-wars-taika-waititi-movie-on-ice/
+### Star Wars Battlefront 3: Bungie Rumored as New Developer
+Mon, 19 Oct 2026 20:33:08 GMT — https://www.polygon.com/star-wars-battlefront-3-rumor-bungie-dice-disney/
 
-Taika Waititi's newest film Klara and the Sun is out on Friday, but, based on its initial reception ( 25% on Rotten Tomatoes ), its time in the sun may not be long. One Waititi project that may never see the light of day is his long-gestating Star Wars film. Waititi recently gave an update on the movie, telling Inverse it's "on ice."
+There's a new and potentially exciting disturbance in the Force: Disney reportedly wants a new Star Wars Battlefront game, and it's eyeing two potential developers to tackle the project. One of those choices is unsurprising, while the other is supposedly Halo, Destiny, and Marathon studio Bungie. If true, long-suffering Star Wars shooter fans might finally get the Battlefront 3 they've wanted for more than 20 years.
 
-### Saros' Biggest Update Yet Officially Gets Release Date and Full Details
-Mon, 19 Oct 2026 14:11:41 GMT — https://www.polygon.com/saros-zenith-update-accessibility-boss-rush-release-date/
+### D&D’s Dark Sun Creator Reveals Why the Controversial Setting Is ‘Not Political’
+Mon, 19 Oct 2026 20:00:16 GMT — https://www.polygon.com/dnd-dungeons-dragons-dark-sun-creator-original-setting-political-interview-dragon-kings/
 
-The bullet-hell roguelike Saros is getting its first major update. Saros: Zenith brings a host of new features and modes intended to make the game more accessible to newcomers while giving veterans more to do. Best of all, it’s free, and it’s out today.
+Dungeons & Dragons made good use of the concept of a multiverse before it became so obnoxious in entertainment. Every game of D&D can take place in a different world; many Dungeon Masters have fun creating their own, but for those who lack the time or inclination, there are plenty of settings to choose from. Ed Greenwood’s Forgotten Realms and Gary Gygax’s Greyhawk are usually considered the “classic” D&D settings, as they deliver on that flavor of fantasy that players expect from the game. But there are also more unusual choices that take D&D’s high fantasy premise in a whole different direction.
 
 ## PC Gamer
+
+### The best Enshrouded base locations for picturesque vistas or strategic strongholds
+Tue, 20 Oct 2026 05:36:16 +0000 — https://www.pcgamer.com/games/survival-crafting/enshrouded-base-locations/
+
+When it comes to Enshrouded base locations, Embervale real estate has no bad options, but I tend to favor scenic waterfront properties over any strategic positioning. The world has plenty of fast travel points, so I don't suffer much from my form-over-function choices, though I do appreciate conveniently placed mines or higher elevations to get a good running jump with the glider. After hundreds of hours base hopping all over Embervale, my map is packed with markers highlighting my favorite spots, so I might as well share them. Here are some of the best base locations I've found in Enshrouded 1.0. Springlands Springlands map Map of Springlands base locations. (Image credit: Keen Games) Fort Kelvin (Image credit: Keen Games) 🏘️ Pre-built town for renovating Fort Kelvin sits on the Springlands' northern border, near Revelwood and just west of the Pillars of Creation. It's a sprawling abandoned town with a central square, underground tunnels, and even its own pre-built tower. Restoring the whole place is a massive undertaking, but it's a lovely fixer-upper if you're willing to put in the work. Pondside ruins (Image credit: Keen Games) 🌳Empty lot for building This little pond just west of Fort Kelvin is a personal favorite, and I almost always wind up building something here in every world. I love the island in the middle of the water, so I spend a lot of time fixing up the pier and expanding it. Just be careful building near the path. Enemy patrols occasionally pass through, a
+
+### Moonlighter studio won't host a public playtest of its next game due to rampant AI-led cloning: 'We know we're not the only developers feeling this way'
+Mon, 19 Oct 2026 23:33:09 +0000 — https://www.pcgamer.com/gaming-industry/moonlighter-studio-wont-host-a-public-playtest-of-its-next-game-due-to-rampant-ai-led-cloning-we-know-were-not-the-only-developers-feeling-this-way/
+
+The studio behind the Moonlighter series has announced it will no longer host a public playtest for its forthcoming roguelike due to fears it will be "reverse-engineered, cloned and published". The move comes as a surge in rapidly vibe coded clones floods Steam, Roblox and mobile app stores in the aftermath of Claude Opus 5.5. "With launch still months away, sharing a build with tens of thousands of players feels like too big a risk," Digital Sun Games' marketing manager Israel Mallén told PC Gamer. The game under discussion is ReVamp , a "tower defensevania" roguelike due for release in March 2027. "We know we're not the only developers feeling this way, and the more this is talked about, the more likely platforms are to step in." In its public announcement Digital Sun Games was fairly blunt. "We've been concerned by recent news of games being reverse-engineered, cloned and published before the original is even out. With launch still months away, a large public build of ReVamp felt like too big a risk." Last week the studio behind Drunken Goddess Reflux canceled plans to roll out a public demo for Steam Next Fest due to similar fears. "We're concerned the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools, and that such works could be released before launch," a spokesperson for the studio wrote. Opus 5.5 has proven hugely disruptive to the games industry. It has aided several high profile game decompiles, 
+
+### Star Wars Zero Company adds new difficulty options that can bring it closer to XCOM
+Mon, 19 Oct 2026 21:47:17 +0000 — https://www.pcgamer.com/games/strategy/star-wars-zero-company-adds-new-difficulty-options-that-can-bring-it-closer-to-xcom/
+
+Star Wars Zero Company's 1.2 patch introduces a new granular difficulty system in addition to the usual bugfixes and tweaks. These new options exist alongside the original difficulty levels (easy, normal, hard, ironman beskarboy etc.), and home in on more creative/tactical tweaks, rather than just beefing up enemies. The highlights: You can remove the injury system, so downed operatives are instantly killed. Alternatively, you can lower the injury allowance before permadeath, and/or add a risk of death to getting downed. The patch allows you to lower or eliminate health scaling, so operatives are more fragile by the end of the game. It also allows you to restrict the respec function by degrees, removing class and even weapon swapping. I like these options a lot: They're sharp, targeted changes that make Zero Company harder by restricting your options, forcing you to think and play more creatively. The game's normal, default difficulty, with all of these modifiers added, represents a more interesting challenge to me than the shipped hard mode, and I think my first replay will mix in a few of them. These options remind me of survival mode in an RPG, or skulls in Halo⁠—creative difficulty options that eschew ballooning enemy health bars just make me excited. Zero Company goes down a lot smoother than the XCOMs of old (which much of the Bit Reactor team worked on). That smoothness isn't necessarily a bad thing, and I thought Zero Company already had a reasonable skill ceiling wit
+
+### Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'
+Mon, 19 Oct 2026 21:46:23 +0000 — https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/
+
+We've had two Star Wars games in 2026, both of them quite good and neither of them quite what you might expect from the Star Wars mould: Zero Company , an XCOM-style tactics game, and Galactic Racer , an arcade racing game but Star Wars. And the success of those games means we may see more like them—which is to say, more offbeat Star Wars games from smaller-scale studios—in the future. Both Zero Company and Galactic Racer were developed by independent studios—Bit Reactor and Fuse Games, respectively—and that "very much is part of the strategy," Lucasfilm Games vice president Douglas Reilly told The Game Business . "Obviously, huge triple-A games like Battlefront are always going to be an essential part of the strategy," Reilly said. "But one of the great things about Star Wars is it has all kinds of other opportunities to tell stories in different genres. "The goal has been to find the best partner who makes that experience come alive inside the galaxy far, far away. And it doesn’t have to always be triple-A, sometimes it can be double-A, and it’s really about the experience that we’re delivering and the fantasy we’re fulfilling." That's a real shift in Disney's approach to making Star Wars games. Disney acquired Lucasfilm in 2012 and shuttered its games division the following year; not long after that, it signed a 10-year deal with Electronic Arts , granting it exclusive rights to make Star Wars games. That deal was not especially fruitful, and Ubisoft's big-budget Star Wars
+
+### Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'
+Mon, 19 Oct 2026 20:44:12 +0000 — https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/
+
+Xbox senior business strategy manager Brandon Stirrup is tired of pussyfooting around about AI: In a thread on X his week, he said that he wants the world to know that Xbox uses it, that he thinks everyone should be using it, and that he believes so strongly in the cause that he's willing to "take the hit" for saying so. He has since deleted his X account. A source at Xbox tells PC Gamer that Stirrup opted to deactivate the account because of the volume of replies he was receiving. Stirrup kicked off his thread on October 18 with a simple message saying he'd "vibe coded a bad but improvable game" over two days, although he only "actively" worked on it for about three hours. "I’m telling you I tried it and it’s true…anyone can build a game." After saying that developers and studios who aren't incorporating AI into their strategies are "planning for a fake future," Stirrup went all in. "Look if I'm fired tomorrow it will be because I told you the truth that nobody wants you to know. You can make a game with a simple prompt and yes you can make custom, tailored games. Everything you want in a game is right there for the taking, for better or worse," he wrote. "I'm happy to take the hit if it means hundreds at Xbox can stop pretending that they're not using AI. It's time to accept and move forward." After calling out the game industry and gamers alike for their reluctance to accept "reality," Stirrup stated explicitly that Xbox is "using AI" and then added, "My goal is to get thi
 
 ### I have added completely realistic Uber driving to Grand Theft Auto 5
 Mon, 19 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/grand-theft-auto/i-have-added-completely-realistic-uber-driving-to-grand-theft-auto-5/
@@ -305,32 +353,22 @@ Mon, 19 Oct 2026 11:12:36 +0000 — https://www.pcgamer.com/hardware/graphics-ca
 
 Rumours have been circulating as of late that Nvidia has halted production of its flagship RTX 5090 graphics card , in favour of moving the GB202 silicon towards RTX Pro data center GPUs instead. However, Jeff Fisher, the senior vice president of Nvidia's GeForce business unit, has denied its demise at an event in Taipei. "The supply chain (capacity) is indeed somewhat constrained, but Nvidia is doing everything it can to get the product on the market," says Fisher (via 4Gamers ). "Although there are other variants of the RTX 5090 (chip), production has not been discontinued, and Nvidia will continue to ship, which is very important." However, the card has disappeared from Nvidia's official US marketplace , and has reached near-unobtanium levels elsewhere. We've stopped tracking the card on our best GPU deals page in recent months, as the only listings we can find have ludicrous prices from third-party sellers. It appears we have another Schrödinger's graphics card situation to contend with. On the one hand, a (very) senior Nvidia official reportedly says the card is still a-go. Taiwanese outlet CNA quotes Fisher as saying "it's not true" in regards to the ceased production rumours, although this is via machine translation. On the other hand, while GB202 silicon for consumer RTX 5090 cards may still be under production in some form or fashion, the finished GPUs themselves seem to have gone AWOL. If even Nvidia itself isn't listing them, it's difficult to imagine where meaning
 
-### Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too
-Mon, 19 Oct 2026 10:29:15 +0000 — https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/
-
-@news.com.au ♬ original sound - News.com.au ]]>
-
-### Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up
-Mon, 19 Oct 2026 03:00:45 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/
-
-We are drowning in shit. Steam Next Fest, which kicks off tomorrow, currently has 8,011 matches on its press preview landing page. That's roughly double the amount of demos featured in Steam's June 2026 Next Fest. In June 2022, Next Fest boasted just over a thousand demos. The vast majority of these demos will be meritless slop. And I daresay many of them—though I have no way to confirm—didn't exist as concepts before October. If you use social media, especially X, you've probably noticed an explosion of terrible clones and vibe coded mash-ups this month. You can largely thank Anthropic's new 5.5 update to its Claude Opus model for that, which offers massive efficiency gains for vibe coders. It's also been widely used to decompile commercial games and, maybe most famously, jailbreak the PS5. It definitely feels like we've crossed a threshold this month. On October 10, the creator of Escape the Walls , an incremental punching game which itself uses AI to "increase the speed of creating the game", posted in-progress footage from the game on X . Prophetically, a user replied: "You have exactly 7 hours before someone makes this on Roblox and gets 20x your revenue". (Image credit: Roblox) Right now, on October 19, there are at least seven Roblox clones of Escape the Walls. A competing studio had the audacity to tweet their own clone to the original game's creator. "Our Steam page is live too!" they posted. "Nothing wrong with friendly competition!" Leaving aside the fact that Esca
-
-### 23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare
-Sun, 18 Oct 2026 22:36:22 +0000 — https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/
-
-Volume.art is a nice, free, cool thing on the internet, and I just think that's something worth celebrating these days. The microgame collection sees you manipulating volume sliders through various abstracted, surprising, and very funny ways. It starts strong with "A man named Bow" by Alice Bottino, which kinda reminds me of the Smash Bros Home Run Contest minigame, at least as far as you're winding up to send something from the left side of the screen to the right. You drag back on the mouse to aim a bow and arrow, attempting to land it a set distance (and corresponding volume level) away. Some of my favorite entries came from Lunacid developer Akuma Kira, like "What's This About," a riff on the criminally-maligned Elder Scrolls Oblivion persuasion pie minigame. You've got to reach a set likability level with a Gamebryo-perfect lumpy potato man, while also accounting for a game-accurate slow decay in persuasiveness as you rapidly cycle between cruelty, honesty, humor, and sucking up. If I hadn't known about the Oblivion gag going in, it probably would have been my favorite entry⁠—"What's This About" features fairly prominently in volume.art's promo on social media. Surprise and delight is a big part of this thing, and from here there be, uh, spoilers? I guess? The Volume.art team The Volume.art team The Volume.art team The Volume.art team The Volume.art team The Volume.art team "Ctrl+Alt+Date" by Iodine really did something for me: It's a loving little parody of dating games
-
-### Dark Souls 2 dataminer shows off massive prototype coliseum level from early development
-Sun, 18 Oct 2026 18:48:42 +0000 — https://www.pcgamer.com/games/dark-souls/dark-souls-2-dataminer-shows-off-massive-prototype-coliseum-level-from-early-development/
-
-At a glance The rough prototype looks to have been binned early in development, and it's largely avoided discussion before Doneda's work. Some portions appear to have been part of an interconnected area, others are likely different versions of the same concept. It may have been related to what became the Undead Crypt in the final game. Doneda uses Elden Ring Nightreign to load in and explore what remains of the levels. The files contain a coliseum zone, mines, a strange underground tower (potentially a sequence of arenas, like Nightreign's DLC?), and a crypt portion. Doneda , the dataminer who showed off the unused levels, has been proving a genuine authority on Dark Souls 2 in particular. Previously, they made a Nightreign-compatible version of Dark Souls 2's Eleum Loyce . Doneda has also shown off a tantalizingly ambitious early version of Dark Souls 2's The Gutter. In hindsight, the entire pre-Sekiro Souls series (perhaps sans-Bloodborne) seems defined by difficult, rushed development cycles. Hidetaka Miyazaki took over Demon's Souls partway through as development foundered, and the final game was missing an entire archstone world. Dark Souls has its rougher, less beloved back half, particularly Lost Izalith. Dark Souls 3, though far more consistent than the prior games, had a striking world state system completely struck from it at some point. Even among that field, Dark Souls 2 had it rough: Wunderkind Miyazaki was completely focused on Bloodborne, DS2 attempted a divisi
-
-### Leaked AI safety bill from Anthropic only requires government intervention if 50+ injuries or $1 billion are at risk
-Sun, 18 Oct 2026 18:44:11 +0000 — https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/
-
-Politico recently reported on a confidential draft of a proposed AI safety bill from Anthropic, the company behind Claude LLMs (via Tom's Hardware ). The bill, which has been pitched to US lawmakers, would let the government crack down on a given AI model "only if it poses a foreseeable, imminent risk of more than $1 billion in damages, or of killing or seriously injuring more than 50 people. The risk must stem from the creation or release of a biological weapon, the model evading its developer’s controls or a cyberattack." That article pointed out similarities between these proposals and those used in California's AI legislation , and shares a quote from a spokesperson for the company. "This bill represents the proposals outlined in Anthropic’s Advanced AI Framework, which we have been advocating for with federal and state lawmakers since June," they said, calling "sensible policies we believe Congress should act on." Notably, it has been posited that AI magnates leverage warnings of theoretical, wide-reaching catastrophe to manufacture consent for their self-regulation and expansion while doing little to address the harm AI is already doing (both broadly within industries like the one this website revolves around and directly with regards to human psychology ). Just earlier this year, Anthropic's safety lead quit with a note that "the world is in peril" —and just last week, OpenAI was accused by eight US states' attorney generals of ignoring its own safety warnings for the 
-
 ## GameSpot
+
+### WoW: Forever Is Soaring, But Midnight Is Struggling
+Mon, 19 Oct 2026 19:21:39 +0000 — https://www.gamespot.com/articles/wow-forever-is-soaring-but-midnight-is-struggling/
+
+World of Warcraft : Forever is riding high thanks to its popular beta and upcoming launch, but retail WoW's Midnight expansion feels like it's in a state of crisis by comparison. The two different versions of WoW couldn't be in more different places. Forever seems to be extremely popular, with Blizzard developers commenting how its beta is breaking records . Blizzard itself has also been more communicative regarding Forever than ever before, with weekly podcasts diving into community topics, forum posts addressing various issues, and frequent updates addressing balance problems and bugs. Midnight seems to be in the opposite corner. Its latest content update, patch 12.1.5, went live October 13. In addition to new story quests that continue the expansion's main narrative, it added a new single-boss raid and a long-teased mega delve (officially called a labyrinth) that gives solo-focused players an almost raid-like experience. https://www.youtube.com/watch?v=phxy5Gat_Gs Unfortunately, the patch was released in a bug-riddled state. The Kindo'jan labyrinth, arguably the patch's biggest feature, saw players running into issue after issue. Some players complained about not earning credit for boss kills and being unable to collect rewards. One particularly nasty bug had players falling through the floor of the labyrinth's final boss arena, making it so the labyrinth couldn't be completed. Other players cited issues with delve companion Valeera dying too quickly or failing to do prope
+
+### You Don t Need An Expensive Console Or High-End PC To Play Call Of Duty: Modern Warfare 4
+Mon, 19 Oct 2026 19:11:06 +0000 — https://www.gamespot.com/articles/you-dont-need-an-expensive-console-or-high-end-pc-to-play-call-of-duty-modern-warfare-4/
+
+Call of Duty: Modern Warfare 4 releases this week, and with gaming consoles and capable PC rigs now more expensive than ever, you might be wondering if there is another way to play. Thankfully, there is, but there are a few things you need to know before jumping in. How to play MW4 without a console or PC With Game Pass: Modern Warfare 4 is not included with Xbox Game Pass this year, but if you're a subscriber you can leverage the "stream your own game" program to play it that way, after purchasing it outright. This isn't locked away to any specific tier of Game Pass, either. You can subscribe to Game Pass Essential, Premium, or Ultimate to stream MW4. MW4 launches on October 23. With GeForce Now: Nvidia's streaming service, GeForce Now, will be another way to play Modern Warfare 4 without any expensive hardware like a new console or high-end PC. Or at least we think so. Nvidia hasn't outright confirmed this, but people are playing the campaign early access via GeForce Now , so it stands to reason that it will be officially supported at launch for everyone. After buying the game outright, you'll be able to stream MW4 on GeForce Now by subscribing to one of the platform's membership tiers. GeForce Now has multiple tiers, including a free ad-supported membership. There are also $10/month and $20/month tiers with no ads and higher-fidelity experiences. There are also day passes available. For more, check out the GeForce Now website . Pros and cons of streaming Before subscribing
+
+### This LA Noire Spinoff Idea Sounds Incredible
+Mon, 19 Oct 2026 17:47:18 +0000 — https://www.gamespot.com/articles/this-la-noire-spinoff-idea-sounds-incredible/
+
+British actor Rahul Kohli (Saros, Midnight Mass) has a pitch for a new L.A. Noire game, and it sounds pretty great. Speaking to BAFTA Games , Kohli said he would like to see the franchise return with a spinoff that takes players through different time periods, as a cop, as they investigate different crimes. One such setting could be Victorian England, with a storyline focused on hunting down Jack the Ripper, Kohli said. Another could take players to the '80s in California as they pursue the Night Stalker, the actor added. "We could jump around and be a cop in different times. I would be down for that," Kohli said. "I loved it. I adored L.A. Noire." Mad Men's Aaron Staton as Cole Phelps in L.A. Noire. In particular, Kohli said he was a big fan of developer Team Bondi's facial-capture system which created lifelike expressions in the game, down to granular details like how a person’s eyebrows might move. In a game where players had to read people's facial expressions, this was a big deal, and one can only imagine how much further the technology could go today. However, Kohli said he wants a new L.A. Noire game with the same tech and the same engine. "I want that. I don't want an improvement to it. That was part of the charm," he said. https://twitter.com/BAFTAGames/status/2112216181440745623 L.A. Noire was released in 2011. It never got a sequel, and its developer, Team Bondi, later disbanded. A virtual reality game, L.A. Noire: The VR Case Files, was released in 2017. Earlier t
 
 ### Mr. Beast s Call Of Duty: MW4 DMZ Video Pays $1 Million To The Winner, Watch It Here
 Mon, 19 Oct 2026 13:28:09 +0000 — https://www.gamespot.com/articles/mr-beast-teases-a-huge-call-of-duty-video-focused-on-dmz-with-real-life-content-creators/
@@ -365,7 +403,7 @@ Battlefield Studios has released a statement regarding Battlefield 6 after playe
 ### After 16 Years, Chill Sci-Fi Game Faraway Has A Release Date
 Mon, 19 Oct 2026 13:00:00 +0000 — https://www.gamespot.com/articles/after-16-years-chill-sci-fi-game-faraway-has-a-release-date/
 
-After more than a decade of development, developer Steph Thirion's chill sci-fi game has a release date of locked in. GameSpot can exclusively reveal that Faraway will launch on November 5 for PC, PS5, Xbox Series X|S, and Switch consoles. See on Steam Designed to be a tour of the cosmos that you can play with just one button, Faraway was first announced all the way back in 2010, and it follows a shooting star on its journey across the cosmos. Billed as an endless procedurally generated arcade game, the goal is to create constellations on your trek across the stars, using their gravity to slingshot your way to new destinations and keep your cosmic traveler fueled up for the trials that lie ahead of it. Every run starts from zero, while the universe around you is generated in real time based on your overall performance. As you become more skilled, you'll pick up speed, points, and travel to increasingly difficult regions of the universe. The game also includes 16 handcrafted puzzle stages where you'll have to think out of the galactic box, and it's aiming to be a relaxing mix of discovery, replayability, and long-term mastery. Faraway is being published by Annapurna Interactive, a company that has made a name for itself by focusing on games with a strong artistic vision . It also published Road Trip earlier this month (a road trip and redemption driving game), and last month saw the release of the critically acclaimed Silent Hill: Townfall . Looking ahead, the label will also 
+After more than a decade of development, developer Steph Thirion's chill sci-fi game has a release date of locked in. GameSpot can exclusively reveal that Faraway will launch on November 5 for PC, PS5, Xbox Series X|S, and Switch consoles. See on Steam Designed to be a tour of the cosmos that you can play with just one button, Faraway was first announced all the way back in 2010, and it follows a shooting star on its journey across the cosmos. Billed as an endless procedurally generated arcade game, the goal is to create constellations on your trek across the stars, using their gravity to slingshot your way to new destinations and keep your cosmic traveler fueled up for the trials that lie ahead of it. Every run starts from zero, while the universe around you is generated in real time based on your overall performance. As you become more skilled, you'll pick up speed, points, and travel to increasingly difficult regions of the universe. The game also includes 16 handcrafted puzzle stages where you'll have to think out of the galactic box, and it's aiming to be a relaxing mix of discovery, replayability, and long-term mastery. Faraway is being published by Annapurna Interactive, a company that has made a name for itself by focusing on games with a strong artistic vision . It also published Forever Ago and last month saw the release of the critically acclaimed Silent Hill: Townfall . Looking ahead, the label will also publish games like the fantasy adventure Demi and the Fractu
 
 ### Xbox Game Pass Is Losing 8 More Games In October
 Mon, 19 Oct 2026 10:22:22 +0000 — https://www.gamespot.com/articles/xbox-game-pass-is-losing-8-more-games-in-october/
@@ -378,6 +416,11 @@ Sun, 18 Oct 2026 12:00:00 +0000 — https://www.gamespot.com/articles/tenebris-s
 Horror games live or die by their scares and tension. If the player isn’t uncomfortable guiding a character through dreadful situations, well, you may as well be playing an action-adventure game (don’t mention the first Uncharted’s final act, please). Tenebris Somnia blends the discomfort of retro horror with live-action sequences that will make your goosebumps bump, and you can get it cheaper than ever right now. As the best horror games continue to push for more realistic visuals and immersive experiences, Tenebris Somnia’s twist on the genre combines old-school cool with movie-like cutscenes. It’s both jarring and original, and that’s exactly what makes for excellent horror. I want to be constantly surprised, and Tenebris Somnia makes its pixelated 2D threats even more menacing when you see live-action versions of the monsters. Inspired by classics that scared us silly, like Resident Evil and Silent Hill, Tenebris Somnia has a deceptively simple premise. You play as Julia, who finds herself in a parallel universe while visiting her ex-boyfriend and is relentlessly hunted by nightmares that, well, aren’t exactly figments of her imagination. (To be honest, visiting an ex sounds like a nightmarish experience on its own. Ba-dum, tsss.) https://www.youtube.com/watch?v=A_fQ_gNddbo Co-created by Andrés Borghi and Tobías Rusjan with Saibot Studios, and published by New Blood Interactive, the studio behind Ultrakill, Blood West, and Gloomwood, Tenebris Somnia’s style is fittingly i
 
 ## Rock Paper Shotgun
+
+### Helldivers 2's GameGuard cheat policing "wasn't as effective as it could have been", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods
+Tue, 20 Oct 2026 09:32:27 +0000 — https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods
+
+Helldivers 2 , a game that still appears to be missing in action from Steam here in the UK, is switching anti-cheat software. Developers Arrowhead are keen to tighten up security and crack down on the use of cheat mods that can influence the bug-slaying experience of folks beyond the person who's installed them. Read more
 
 ### "Too big a risk": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to "keep strengthening protections for original work"
 Mon, 19 Oct 2026 17:02:28 +0000 — https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work
@@ -423,19 +466,4 @@ Rumours of Troika classic Vampire: The Masquerade - Bloodlines potentially getti
 Sun, 18 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-832
 
 Sundays are for firing up Twine again and thinking you know what, if this swanky IF plotter had been around when I was an undergraduate, I might have preserved all my exam revision notes in text adventure form. I still have two, reassuringly heavy boxes of tabbed and colour-coded index cards that you could plausibly lay out to form a maze, navigable by compass commands. Head down the western corridor from Middle English to the Renaissance, and &ndash; ah, bollocks, you have been eaten by a Grue. Surely somebody's thought of this, in the decade and change since Twine was released? I mean, we already have 3D museum exhibits extracted from Wikipedia . Sundays are also for heading to the allotment and getting annoyed with the tomato plants, who have decided to go bonkers right at the end of the growing season. I thought you were done, pesky nightshades. I thought I could leave you alone for the rest of the year. Finally, Sundays are for sharing good criticism, like the below. Read more
-
-### Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world
-Sat, 17 Oct 2026 21:50:37 +0000 — https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world
-
-Picture this. You're me, and you boot up the demo for Rain98, an incredibly blue-looking, rainy visual novel set in Tokyo, 1998, about a woman who refers to herself as the Angolmois, a world-ending reference to the predictions of good ole Nostradamus. At one point you have to light this woman's cigarette in a lightly stylish sequence. You get to a bit where you're asked to put your name in, and you put it in because like its predecessors, this is surely a self-insert kind of situation. Only you get a Steam achievement for getting a game over for putting your name in. Rude! But curious, so you, and of course I mean I, pressed on. Read more
-
-### Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original
-Sat, 17 Oct 2026 20:29:12 +0000 — https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original
-
-Peter Molyneux feels like a man who can never die. He's just sort of always been there, and seems like he always will be, making some kind of game where you can hypothetically do what you want, never quite living up to expectations. But hey, he's Peter Molyneux, what else would you expect? The complicated icon is still ticking away at his latest, Masters of Albion , but in a recent interview, he spoke of one of his old classics, Black & White , and the idea of a third entry in the series (and the fact that there might be something newish on the way). Read more
-
-### RimWorld meets Moebius-esque roguelite colony sim Trailblazers: Into The March welcomes you aboard its hulking landships with a chonky-sounding demo
-Sat, 17 Oct 2026 19:07:41 +0000 — https://www.rockpapershotgun.com/rimworld-meets-moebius-esque-roguelite-colony-sim-trailblazers-into-the-march-welcomes-you-aboard-its-hulking-landships-with-a-chonky-sounding-demo
-
-With the devs behind RimWorld gearing up for their next game with a recent engine switch , it'd be entirely fair if you were hankering for something new (if still familiar enough) yourself. Trailblazers: Into The March is one such game, having introduced itself to us earlier this year, a mishmash of the aforementioned colony sim, Nausicaa, Moebius , Andrei Tarkovski, Jeff Vandermeer, and FTL: Faster Than Light by Edwin's measure. And now you don't just have to look at its trailers, because there's a demo for you to have a go at. Read more
 

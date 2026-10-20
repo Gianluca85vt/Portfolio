@@ -1,72 +1,77 @@
-# Manga — harvested 2026-10-19T17:09:33.649Z
+# Manga — harvested 2026-10-20T09:37:35.357Z
 
 ## Anime News Network
 
-### Ranma ½ Season 3 ‒ Episodes 1-3
-Mon, 19 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/ranma-season-3/episodes-1-3/.242965
+### Screen, Voice Actor Hiroshi Tsuchida Dies at 54
+Tue, 20 Oct 2026 03:38:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/screen-voice-actor-hiroshi-tsuchida-dies-at-54/.243009
 
-I wish the happy couple an eternity of tentacly intimacy far beneath the sea, and far from our TV screens.
+Tsuchida died on October 11 due to heart failure
 
-### Lezhin Ent. to Launch AI Character Chat Service Teaz in Korea
-Mon, 19 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/lezhin-ent-to-launch-ai-character-chat-service-teaz-in-korea/.242947
+### Cygames Cancels Uma Musume: Pretty Derby Franchise's U.S. Concerts Due to Visa Issues
+Tue, 20 Oct 2026 01:05:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/cygames-cancels-uma-musume-pretty-derby-franchise-u.s-concerts-due-to-visa-issues/.243012
 
-Teaz will allow users to interact directly with characters from original series published on Lezhin Comics, Bomtoon
+Staff could not obtain U.S. visas for L.A. concerts slated for October 22-23
 
-### Silent Hill: Townfall Game Review
-Mon, 19 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/game/pc-playsation-5/silent-hill/townfall/.242692
+### Pierrot Films Animates Yona of the Dawn Anime's Sequel
+Tue, 20 Oct 2026 00:14:46 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/pierrot-films-animates-yona-of-the-dawn-anime-sequel/.243008
 
-What makes <i>Townfall</i> such an excellent <i>Silent Hill</i> game is the way that it blends the mundane tragedies of small-town life with the otherworldly trauma that is choking St. Amelia to death.
+Anime sequel announced when manga ended last December
 
-### #I'm Looking For a Zombie ‒ Episodes 1-3
-Mon, 19 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/im-looking-for-a-zombie/episodes-1-3/.242978
+### Madoka Magia x Witch on the Holy Night Crossover Art Unveiled
+Mon, 19 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-19/madoka-magia-x-witch-on-the-holy-night-crossover-art-unveiled/.242836
 
-The biggest problem with <i>#I'm Looking for a Zombie</i> is that I genuinely don't know what tone it's trying to go for.
+Magical girls meet a different kind of witch
 
-### EST N8 Picks Up Korean-Animated Film Pilgrims for Worldwide Sales
-Mon, 19 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/est-n8-picks-up-korean-animated-film-pilgrims-for-worldwide-sales/.242974
+### Haruhi Suzumiya's Real-Life School Opens to Public 1 Last Time
+Mon, 19 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-19/haruhi-suzumiya-real-life-school-opens-to-public-1-last-time/.242966
 
-<i>Japan Sinks: 2020's </i> Pyoungkang Heo directs film starring Hyang-gi Kim, Ji-hu Park, Joo-young Lee
+"North High School" gets new name after merger with another school next spring
 
-### Welsh & Shedar Anime's Trailer Reveals English/French Dubs' Debut on YouTube on November 5
-Mon, 19 Oct 2026 11:05:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/welsh-and-shedar-anime-trailer-reveals-english-french-dubs-debut-on-youtube-on-november-5/.242987
+### Fukakōryoku no I Love You Manga Gets Live-Action Film Next March
+Mon, 19 Oct 2026 21:10:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/fukakoryoku-no-i-love-you-manga-gets-live-action-film-next-march/.242999
 
-English dub stars Daniel J. McLean, Kevin Garcia, Marissa Lenti, more
+Kōta Nomura, Juri Kōsaka star in film
 
-### Manga UP! Global Adds Lily of the High Seas, Killer's Familia, The Imperial Court's Floral Stylist, 3 More Manga
-Mon, 19 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/manga-up-global-adds-lily-of-the-high-seas-killer-familia-the-imperial-court-floral-stylist-3-more-/.242985
+### TMS Entertainment to Stream Lupin III vs. Detective Conan Film, 4th Collection of Detective Conan Anime
+Mon, 19 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/tms-entertainment-to-stream-lupin-iii-vs-detective-conan-film-4th-collection-of-detective-conan-/.242994
 
-Service also adds: <cite>I Became a Saint to Support My Idol!</cite>, <cite>The Abandoned Tamer Signs a Deal With a Devilishly Beautiful Dragon</cite>, <cite>After Getting the Crap Skill "Poison Immunity," I Ate the Toxic Meat of a Dead SSS-Rank Monster and Awakened an OP Ability</cite>
+Crossover film streams on YouTube on October 24; more <cite>Detective Conan</cite> episodes stream on November 1
 
-### Comic CMOA Service Remains Suspended After Confirmed Unauthorized External Access
-Mon, 19 Oct 2026 10:40:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/comic-cmoa-service-remains-suspended-after-confirmed-unauthorized-external-access/.242977
+### Netflix Replaces Chief Content Officer, Lays Off About 1,000 Employees
+Mon, 19 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/netflix-replaces-chief-content-officer-lays-off-about-1000-employees/.242992
 
-Service suspended since Thursday
+Former Disney/Fox executive Peter Rice replaces Bela Bajaria as CCO
 
-### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episodes 1-4
-Mon, 19 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episodes-1-4/.242945
+### Firefly Wedding ‒ Episodes 1-2
+Mon, 19 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/firefly-wedding/episodes-1-2/.242989
 
-Blemishes aside, <i>Steel Ball Run</i> continues to be excellent, and I’m so glad that <i>JoJo</i> Fridays can once again be a psychologically load-bearing part of my week.
+The dynamic that played out between Satoko and Goto over the next two episodes absolutely fascinated me.
 
-### Rakuten Viki, Imaginus to Debut AI-Assisted Korean-Animated Series The Painted Soul on October 21
-Mon, 19 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/rakuten-viki-imaginus-to-debut-ai-assisted-korean-animated-series-the-painted-soul-on-october-21/.242971
+### From Far Away ‒ Episodes 1-3
+Mon, 19 Oct 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/from-far-away/episodes-1-3/.242991
 
-Rakuten Viki plans to add more animated content in the future
+Noriko has shown herself to be someone with a stout heart.
 
-### The Apothecary Diaries Season 3 ‒ Episodes 49-51
-Mon, 19 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episodes-49-51/.242923
+### Actor Michael Forest Dies at 97
+Mon, 19 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-19/actor-michael-forest-dies-at-97/.242990
 
-Only three episodes in and Maomao is already facing dual scourges.
+Forest had roles in <cite>Star Trek</cite>, <cite>Ghost in the Shell: Stand Alone Complex</cite>, <cite>The Big O</cite>
 
-### Your Fall 2026 Anime Daily Streaming Reviews
-Mon, 19 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/site-news/2026-10-19/your-fall-2026-anime-daily-streaming-reviews/.242925
+### The Ramparts of Ice Season 2 ‒ Episodes 15-17
+Mon, 19 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/the-ramparts-of-ice-season-2/episodes-15-17/.242980
 
-While the highest-anticipated shows were easy to guess, everything else was a crapshoot.
+I wish some adults in real life talked to each other the way that some of these characters did.
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Just Like Mona Lisa Author Tsumuji Yoshimura, SHAFT's CEO Mitsutoshi Kubota, and CyberAgent Producer Manami Kabashima on the Anime Adaptation
+Tue, 20 Oct 2026 02:08:15 GMT — https://animecorner.me/interview-just-like-mona-lisa-author-tsumuji-yoshimura-shafts-ceo-mitsutoshi-kubota-and-cyberagent-producer-manami-kabashima-on-the-anime-adaptation/
+
+During their visit to the German convention AnimagiC, we had the opportunity to talk&hellip;
 
 ### Bleach: Thousand-Year Blood War Reveals Final Battle Visual Ahead of Last Anime Episode
 Mon, 19 Oct 2026 15:36:54 GMT — https://animecorner.me/bleach-thousand-year-blood-war-reveals-final-battle-visual-ahead-of-last-anime-episode/
@@ -95,6 +100,16 @@ BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episo
 
 ## MyAnimeList News
 
+### Visual Novel Creator Jun Maeda Diagnosed with Pharyngeal Cancer
+Mon, 19 Oct 2026 21:36:16 -0700 — https://myanimelist.net/news/74839395?_location=rss
+
+Jun Maeda, the acclaimed writer and composer known for visual novels such as Kanon, Air, Clannad, and Little Busters!, has been diagnosed with pharyngeal cancer. Visual Arts/Key announced the news on Monday, revealing that Maeda has opted to forgo active treatment in favor of palliative care so he can conserve his strength and continue his creative work. According to the company s announcement, Maeda began experiencing throat discomfort in early spring, with swelling and pain becoming more...
+
+### Magi Creator Shinobu Ohtaka Begins New Manga Geek Crown
+Mon, 19 Oct 2026 19:26:58 -0700 — https://myanimelist.net/news/74839154?_location=rss
+
+The official X account of Magazine Pocket announced on Tuesday that Shinobu Ohtaka will begin serializing a new manga, titled Geek Crown (Geek and Crown), on the platform on October 27. Geek Crown is described as a military fantasy in which the protagonist must expose a traitorous officer lurking within a royal succession war. Ohtaka is best known for the fantasy adventure manga Magi (Magi: The Labyrinth of Magic), which ran in Shounen Sunday from June 2009 to October 2017. Shogakukan published...
+
 ### Hametsu no Oukoku Creator Launches New Manga
 Mon, 19 Oct 2026 05:37:03 -0700 — https://myanimelist.net/news/74836586?_location=rss
 
@@ -116,13 +131,13 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
+### Gantz:G Omnibus Review
+Tue, 20 Oct 2026 09:00:04 +0000 — https://animeuknews.net/2026/10/gantzg-omnibus-review/
+
+When high-school students find themselves assigned to play deadly games for a chance of survival, they need to utilize all their wits and skills to make it through the night...
+
 ### From Bureaucrat to Villainess: My Dad s Been Reincarnated! Collection Review
 Mon, 19 Oct 2026 09:00:23 +0000 — https://animeuknews.net/2026/10/from-bureaucrat-to-villainess-my-dads-been-reincarnated-collection-review/
 
 When a middle-aged salaryman wakes up after an accident to find he’s now the golden-haired daughter of a duke at magic academy, how is he going to survive? What’s more, he’s the villainess!
-
-### Otaku x Gal Volume 3 Review
-Sun, 18 Oct 2026 09:00:35 +0000 — https://animeuknews.net/2026/10/otaku-x-gal-volume-3-review/
-
-Otakura is becoming quite popular with his classmates, which leaves Narumi feeling jealous, despite how much time they've been spending together. Will she finally figure out that she has feelings for him?
 

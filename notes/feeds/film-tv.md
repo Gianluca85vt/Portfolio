@@ -1,176 +1,219 @@
-# Film & TV — harvested 2026-10-19T17:09:33.649Z
+# Film & TV — harvested 2026-10-20T09:37:35.357Z
 
 ## Variety
 
-### Agents and Indie Producers Argue Incentives Alone Won t Fix Hollywood s Ills
-Mon, 19 Oct 2026 17:04:50 +0000 — https://variety.com/2026/film/news/agents-indie-producers-fin-syn-incentives-1236914193/
+### Goodbye Julia Director on Reaching for Wider Audiences in Sudanese Period Drama About Love September Laws (EXCLUSIVE)
+Tue, 20 Oct 2026 09:00:00 +0000 — https://variety.com/2026/film/global/goodbye-julia-sudanese-about-love-and-september-laws-1236916213/
 
-It doesn t mean much to anyone under 45, but for older folks in Hollywood, the term “fin-syn” evokes a golden age of mansions, yacht parties and cutting-edge TV. The FCC s “financial interest and syndication” rules forced TV networks to buy shows from superproducers like Norman Lear and Grant Tinker rather than making them in-house. And [ ]
+Sudanese filmmaker Mohamed Kordofani, whose debut feature “Goodbye Julia” premiered in Cannes’ Un Certain Regard sidebar, has attracted a raft of partners for his follow-up “About Love September Laws,” which he’ll be taking to Rome’s MIA Market, running from Oct. 19-23. Produced by Klozium Studios, the production outfit he launched in 2020 with “Goodbye [ ]
 
-### Collage, a New Management and Investment Company, Launches as a Bridge Between AI-First Studios and Hollywood (EXCLUSIVE)
-Mon, 19 Oct 2026 17:04:01 +0000 — https://variety.com/2026/biz/news/collage-new-management-company-launches-bridge-ai-hollywood-1236916512/
+### ‘Big Boys Don’t Cry’ Director Muhammad Mustapha Talks Masculinity Ahead of El Gouna Premiere: ‘The Only Emotion Men Are Allowed to Express Is Anger’
+Tue, 20 Oct 2026 08:45:00 +0000 — https://variety.com/2026/film/global/big-boys-dont-cry-muhammad-mustapha-el-gouna-1236916813/
 
-As Hollywood continues to navigate the plethora of questions surrounding AI and its place in the industry, one former talent agent hopes to be the link between everyone involved. Enter Collage, a new management and investment company aimed at helping AI-first production companies navigate the Hollywood pipeline. Founded in July by former UTA agent Dante [ ]
+Egyptian filmmaker Muhammad Mustapha’s “Big Boys Don’t Cry” follows a group of Cairo bodybuilders and nightclub bouncers, offering a view into how men understand and perform masculinity. The documentary, which had its world premiere in the Feature Documentary Competition at Egypt’s El Gouna Film Festival, grew out of Mustapha’s curiosity about this particular group of [ ]
 
-### Sony Pictures Television Hires Lauren Glaubach, Former YouTube and Pinterest Exec, to Lead Digital and Social Distribution Strategy
-Mon, 19 Oct 2026 17:00:00 +0000 — https://variety.com/2026/tv/news/sony-pictures-television-lauren-glaubach-youtube-1236916562/
+### Percy Jackson Stars Will Attend Lucca Comics, Seeking to Get Up Close and Personal With Their Fans, Geek Meet s Film and TV Chief Says
+Tue, 20 Oct 2026 08:30:00 +0000 — https://variety.com/2026/film/global/percy-jackson-lucca-comics-1236914648/
 
-Sony Pictures Television hired Lauren Glaubach, a former YouTube and Pinterest content exec, in the newly created role of executive vice president, distribution, digital and social platforms. Glaubach will head up Sony Pictures Entertainment’s continued expansion across YouTube and other digital platforms, reporting to Jason Spivak and Paul Littmann, presidents of distribution and networks at [ ]
+When Percy Jackson series stars Walker Scobell, Leah Sava Jeffries and Aryan Simhadri make the trek to Italy’s Lucca Comics and Games Festival in late October – to unveil unseen footage ahead of the Nov. 20 release of Season 3 of Percy Jackson and the Olympians – they will travel to a unique geek meet [ ]
 
-### Ticketmaster Goes All-In on AI, Names Ex-Amazon Exec as Chief Technology Officer
-Mon, 19 Oct 2026 16:00:00 +0000 — https://variety.com/2026/biz/news/ticketmaster-all-in-ai-amazon-exec-chief-technology-officer-1236914016/
+### ‘Line of Duty’ Director Douglas Mackinnon Preps Edinburgh-Set Paramedic Drama ‘BurnTime,’ Builds Slate at Rugged Island Films (EXCLUSIVE)
+Tue, 20 Oct 2026 08:20:00 +0000 — https://variety.com/2026/tv/global/douglas-mackinnon-burntime-rugged-island-films-1236917192/
 
-Bot attacks have plagued Ticketmaster for years, so to combat it, the ticketing service is shaking up its executive ranks and going all-in on AI. Ticketmaster has hired Jim Freeman as its chief technology officer, filling a slot left vacant since February after its London-based chief technology officer, Carlos Alvarez-Coch, departed ahead of a deposition [ ]
+“Line of Duty” and “Good Omens” director Douglas Mackinnon is prepping an Edinburgh-set paramedic drama that’s part of a growing slate at his recently launched production outfit Rugged Island Films. Mackinnon will be presenting the series in the Drama Co-Production Forum at Rome’s MIA Market, which runs Oct. 19 – 23. “BurnTime” is a 6 [ ]
 
-### Egyptian Star Mona Zaki Reflects on Three Decades of Reinvention as El Gouna Honors Her Career: ‘Art Is About Freedom’
-Mon, 19 Oct 2026 16:00:00 +0000 — https://variety.com/2026/film/global/mona-zaki-el-gouna-career-award-reinvention-1236916298/
+### Lilly, Starring Patricia Clarkson, to Open London s Women and the World Intl. Film Festival
+Tue, 20 Oct 2026 08:15:00 +0000 — https://variety.com/2026/film/global/lilly-women-and-the-world-international-film-festival-1236914693/
 
-The 9th edition of El Gouna Film Festival (Oct. 15-23) may be celebrating Mona Zaki’s past, but the Egyptian film star is far more interested in what she’s yet to do. Honored with the festival’s Career Achievement Award at the opening ceremony, Zaki, who has already built a career spanning more than three decades, hasn’t [ ]
+Rachel Feldman s Lilly, starring Patricia Clarkson, will open the third edition of the Women and the World International Film Festival, which runs in London from Nov. 5-12. Highlights of the program, which puts women’s authorship at its center, include the world premiere of Sigrid Andrea P. Bernardo s Laya, alongside premieres of Marina Kunarova s The Nomad s [ ]
 
-### Hannah Waddingham to Receive Crystal Award at Women in Film Honors (EXCLUSIVE)
-Mon, 19 Oct 2026 16:00:00 +0000 — https://variety.com/2026/scene/columns/hannah-waddingham-crystal-award-tv-women-in-film-wif-honors-1236915019/
+### Merged Banijay, All3Media Entity Sets Top Brass Comprised of Banijay Execs
+Tue, 20 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/banijay-all3media-merger-senior-team-1236916656/
 
-Hannah Waddingham will receive the Crystal Award for Advocacy in TV at this year’s WIF Honors. The Emmy-winning “Ted Lasso” star will be presented with the honor at the organization’s 2026 gala on Nov. 5 at the Beverly Hilton in Beverly Hills. “Hannah Waddingham’s career reflects the spirit of the Crystal Award for Advocacy in [ ]
+The newly-merged Banijay/All3Media entity, officially now known as Banijay Entertainment, has unveiled its senior leadership team. Joining CEO Marco Bassetti, deputy CEO Jane Turton and Banijay Rights CEO Cathy Payne on the executive team will be Fred Balmary as chief business officer, Nicolas Chazarain as chief legal officer, Thomas Gousset as chief finance officer and [ ]
 
-### Rosie O Donnell and Kristin Chenoweth Join Dance Moms Parody Musical Reading (EXCLUSIVE)
-Mon, 19 Oct 2026 15:45:00 +0000 — https://variety.com/2026/legit/columns/rosie-odonnell-kristin-chenoweth-dance-moms-parody-musical-reading-1236916332/
+### Oz Creator Tom Fontana to Showrun Vatican Drama Series Based on The Devil s Business Book as Fabel Entertainment Scores Rights (EXCLUSIVE)
+Tue, 20 Oct 2026 08:00:00 +0000 — https://variety.com/2026/tv/global/tom-fontana-vatican-series-devils-business-book-1236916539/
 
-Rosie O’Donnell and Kristin Chenoweth have joined the cast for a reading of “The Pyramid: An Unauthorized ‘Dance Moms’ Musical.” O’Donnell is said to be playing embattled instructor and series star Abby Lee Miller while Tony winner Chenoweth will take on the role of Cathy Nesbitt-Stein, a fellow instructor who quit the reality show after [ ]
+Oz creator Tom Fontana is set to create and showrun a new Vatican drama series based on Emanuele Midolo’s forthcoming novel The Devil s Business after Fabel Entertainment scored book rights. The Devil s Business — which is set to publish via Century in June 2028 — centers on Archbishop Paul Marcinkus, the American clergyman known as [ ]
 
-### Dan Lin Out as Netflix Film Chief
-Mon, 19 Oct 2026 15:25:06 +0000 — https://variety.com/2026/film/news/dan-lin-exits-netflix-film-chief-1236913606/
+### Comedy Raging Moms, About Four Women Breaking Free in Midlife, Picked Up by Picture Tree (EXCLUSIVE)
+Tue, 20 Oct 2026 08:00:00 +0000 — https://variety.com/2026/film/global/raging-moms-picture-tree-1236914345/
 
-Dan Lin has been dismissed as Netflix s head of film after almost three years, multiple sources tell Variety. Even if expected, it s a significant shoe to drop following a layoff bloodbath last week at the streamer. Roughly 1,000 employees got the chop, capped by the shock firing of chief content Bela Bajaria. Lin was let [ ]
+Berlin-based Picture Tree International has boarded international sales on “Raging Moms” (Komplizinnen), an ensemble comedy from the production company behind successes like “Weekend Rebels,” “Welcome to Germany,” “Never Look Away” and “The Lives of Others.” PTI will screen the film as a market premiere for buyers at the upcoming American Film Market, with Leonine Studios [ ]
 
-### Christiane Amanpour to Exit CNN in June After 43 Years
-Mon, 19 Oct 2026 15:16:14 +0000 — https://variety.com/2026/tv/news/christiane-amanpour-cnn-exit-june-1236916503/
+### AI Could ‘Absolutely’ Replace Human Actors, CEO of Generative AI Startup Runway Says at Italy s View Conference: It s Already Happening in a Way
+Tue, 20 Oct 2026 07:39:21 +0000 — https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/
 
-Christiane Amanpour, who parlayed a job as a news assistant on CNN s foreign desk into a years-long globe-trotting assignment for the news giant, plans to step away from the media company in June. “After many months of thought and a few sleepless nights, I have decided to separate from CNN, my partner of 43 fantastic [ ]
+Durng a fireside chat entitled Every Pixel Will Be Generated at Turin s View Conference, an audience member asked Cristóbal Valenzuela, the co-CEO of generative AI startup Runway, whether AI could eventually replace human actors. “Yeah, absolutely. I think it’s already happening in a way,” he replied, going on to describe AI as “a new medium [ ]
 
-### ‘Smallville’ at 25: Tom Welling and Michael Rosenbaum on Clark Kent and Lex Luthor’s Origin Story, the Journey to Superman and That Final Moment
-Mon, 19 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/smallville-25th-anniversary-tom-welling-michael-rosenbaum-superman-origin-story-1236914450/
+### Human-AI Indian Music Label Raagverse Launches With ‘Janaa Hai Toh Jao’ (EXCLUSIVE)
+Tue, 20 Oct 2026 05:30:00 +0000 — https://variety.com/2026/music/news/human-ai-music-label-raagverse-launches-janaa-hai-toh-jao-1236916309/
 
-A little more than 25 years ago, on Oct. 16, 2021, “Smallville” premiered on The WB. Created by Alfred Gough and Miles Millar, and based on the DC Comics character, the show set out to do something that’s now common practice but was then novel: tell the origin story of an iconic character, enriching the [ ]
+Raagverse, a new Indian music label that pairs human songwriting with AI production tools, will release its first album, “Janaa Hai Toh Jao,” on Oct. 20. The label is the latest venture from Amita Madhvani, CEO of Equinox Virtual, which she co-founded with Ram Madhvani. Equinox Virtual is the arm of Equinox Films and Ram [ ]
 
 ## The Hollywood Reporter
 
-### Upgraded 2 : Camila Mendes to Return as Star and Producer for Sequel From Gulfstream, Honor Role (Exclusive)
-Mon, 19 Oct 2026 17:08:30 +0000 — https://www.hollywoodreporter.com/movies/movie-news/upgraded-2-camila-mendes-star-producer-amazon-mgm-sequel-1236735310/
+### Lex Julia Is a Post-#MeToo Suspense Drama Unfolding on an Island (Exclusive Tallinn Trailer)
+Tue, 20 Oct 2026 07:20:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tallinn-2026-poff-film-trailer-lex-julia-rape-survivor-metoo-1236735425/
 
-Becca Gleason helms the follow-up to the 2024 rom-com feature that starred Mendes as an auction house intern.
+Laura Hyppönen's film with Rea Lest, Christian Hillborg and Jessica Grabowsky, which will also screen at Mar del Plata, explores the conflicting experiences of a rape victim, the alleged perpetrator and his wife.
 
-### Nathan Fielder Didn’t Want to Be on Camera Until Elizabeth Holmes, Billy Evans Changed His Mind
-Mon, 19 Oct 2026 17:00:10 +0000 — https://www.hollywoodreporter.com/movies/movie-news/nathan-fielder-elizabeth-holmes-you-can-see-everything-1236735363/
+### Ann Hornaday, Longtime Washington Post Film Critic, Dies at 66
+Tue, 20 Oct 2026 04:01:41 +0000 — https://www.hollywoodreporter.com/news/general-news/ann-hornaday-washington-post-film-critic-dead-at-66-1236735969/
 
-The 'You Can See Everything' co-director on how he was persuaded to be on screen.
+Hornaday was the author of the 2017 book 'Talking Pictures: How to Watch Movies.'
 
-### UTA Expands Creator Leadership Team (Exclusive)
-Mon, 19 Oct 2026 16:30:00 +0000 — https://www.hollywoodreporter.com/business/business-news/uta-expands-creator-leadership-team-1236733911/
+### Mariah Carey $20 Million Defamation Lawsuit Over Memoir Dismissed
+Tue, 20 Oct 2026 03:22:51 +0000 — https://www.hollywoodreporter.com/music/music-news/mariah-carey-brother-defamation-lawsuit-dismissed-1236735960/
 
-The agency has elevated seven in its creators division, which tripled its revenue over the last five years.
+Morgan Carey first filed his lawsuit in 2021 over his sister's bestselling memoir 'The Meaning of Mariah Carey.'
 
-### Miley Cyrus on Hollywood Bowl Show Criticism: Will Not Stand Any Question About Where My Heart Is
-Mon, 19 Oct 2026 16:23:55 +0000 — https://www.hollywoodreporter.com/music/music-news/miley-cyrus-hollywood-bowl-concert-criticism-1236735335/
+### Star Wars -Themed Super Bowl Altcast Joins Disney s Big Game Lineup
+Tue, 20 Oct 2026 02:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/star-wars-super-bowl-altcast-disney-plus-1236735682/
 
-Cyrus took a few minutes during the second of her sold-out comeback concerts to address critiques that had surfaced following Friday's show.
+The latest installment of the animated 'Funday Football' telecasts will run alongside several other alternate presentations of the game.
 
-### Foo Fighters, Weezer, Sublime Join KROQ’s 2026 Almost Acoustic Christmas Lineup
-Mon, 19 Oct 2026 15:55:48 +0000 — https://www.hollywoodreporter.com/music/music-news/kroq-2026-almost-acoustic-christmas-lineup-foo-fighters-1236735352/
+### Dwayne Johnson and Benny Safdie s Lizard Music Sets Holiday 2027 Release From Amazon MGM
+Tue, 20 Oct 2026 01:29:55 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lizard-music-dwayne-johnson-benny-safdie-release-amazon-mgm-1236735915/
 
-Interpol, Joyce Manor, Julia Wolf, Almost Monday and The Linda Lindas also will be headliners on the 35th edition of the annual event.
+Safdie helms the feature from his own script that adapts Daniel Pinkwater's novel.
 
-### Carrie Star Alison Thornton Knows Exactly How You Feel About Her Polarizing Character
-Mon, 19 Oct 2026 15:45:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/carrie-alison-thornton-chris-character-christine-theory-1236728300/
+### Disney Names Carol Choi President of Asia-Pacific as Luke Kang Retires
+Tue, 20 Oct 2026 00:31:50 +0000 — https://www.hollywoodreporter.com/business/business-news/disney-carol-choi-president-asia-pacific-luke-kang-retires-1236735912/
 
-Some viewers want to hug Chris Hargensen; others cheered her death. The actress, who says she loves the debate over her character in Mike Flanagan's take on Stephen King's classic, breaks down her tragic spiral.
+The 20-year Disney veteran will take over Dec. 1, overseeing the entertainment giant’s studios, streaming, original content and consumer products businesses across the growing region.
 
-### Netflix Film Head Dan Lin Out
-Mon, 19 Oct 2026 15:38:33 +0000 — https://www.hollywoodreporter.com/movies/movie-news/netflix-film-head-dan-lin-out-1236733802/
+### Phony Review: Connie Britton and Sam Nivola Lead Hulu s Likably Quirky and Beguiling Paranoid Mystery Series
+Tue, 20 Oct 2026 00:27:03 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/phony-review-connie-britton-sam-nivola-hulu-1236735722/
 
-Lin exits the streamer after the ousting of chief content officer Bela Bajaria, among other top staffers.
+A high school student survives a car accident but begins to suspect that his mother is an imposter in Nick Paley's eight-episode dramedy.
 
-### CNN Shocker: Christiane Amanpour to Exit News Channel Next Year
-Mon, 19 Oct 2026 15:26:35 +0000 — https://www.hollywoodreporter.com/tv/tv-news/christiane-amanpour-to-exit-cnn-1236735334/
+### How to Stream San Antonio Spurs 2026-27 NBA Season Games With DAZN
+Mon, 19 Oct 2026 23:55:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/stream-san-antonio-spurs-2026-27-nba-games-dazn-free-trial-1236735846/
 
-The journalist has been with CNN for 43 years, becoming one of its most high-profile anchors and correspondents.
+The regular season officially kicks off on Tuesday, Oct. 20.
 
-### Fox Sports Soccer Announcer John Strong Is the New Voice of the Westminster Dog Show (Exclusive)
-Mon, 19 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/john-strong-new-play-by-play-voice-westminster-dog-show-1236735245/
+### Fox Corp. Top Lawyer Adam Ciongoli Stepping Down
+Mon, 19 Oct 2026 23:44:13 +0000 — https://www.hollywoodreporter.com/business/business-news/fox-corp-top-lawyer-adam-ciongoli-stepping-down-1236735886/
 
-Strong succeeds Michael J. LaFave after 25 years.
+Ciongoli, who will continue as a special advisor, helped steer the company through several lawsuits involving allegations of election falsehoods. Nicholas Trutanich will take over as general counsel.
 
-### Slow Horses Season 7 Casts Varada Sethu, Tuppence Middleton, Joshua McGuire
-Mon, 19 Oct 2026 14:31:45 +0000 — https://www.hollywoodreporter.com/tv/tv-news/slow-horses-season-7-varada-sethu-tuppence-joshua-mcguire-1236735280/
+### Dwayne Johnson Reveals Jumanji: Open World New Look Ahead of Holiday Release: One Final Game
+Mon, 19 Oct 2026 23:31:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jumanji-open-world-poster-dwayne-johnson-jack-black-release-1236735778/
 
-The next installment is adapted from the 'Bad Actors' novel in Mick Herron's popular 'Slough House' book series.
+Jack Black, Kevin Hart and Karen Gillan also reprise their roles for Jake Kasdan's final installment in the Sony trilogy that hits theaters this December.
 
 ## Deadline
 
-### Sony Pictures Television Names Lauren Glaubach EVP Distribution, Digital Social Platforms
-Mon, 19 Oct 2026 17:00:02 +0000 — https://deadline.com/2026/10/sony-pictures-tv-lauren-glaubach-evp-distribution-digital-1237167712/
+### Ex-MTV Worker Didn t Report Alleged Russell Brand Rape Because Media Industry Protects Its Own
+Tue, 20 Oct 2026 08:38:15 +0000 — https://deadline.com/2026/10/mtv-russell-brand-feared-seen-trouble-rape-claim-1237168361/
 
-Sony Pictures Television has tapped Lauren Glaubach for the newly created role of EVP, Distribution, Digital and Social Platforms. Reporting to Jason Spivak and Paul Littmann, Presidents of Distribution Networks, SPT, Glaubach will help drive Sony Pictures Entertainment’s continued expansion across YouTube and digital platform for both film and television content, while building connections [ ]
+Editor’s note: This story contains details of alleged sexual offenses that some readers may find distressing. A former MTV employee has said she didn t initially report her allegation of rape against Russell Brand because she feared being seen as trouble. Giving evidence at Brand s trial at London s Southwark Crown Court on Monday, the woman alleged [ ]
 
-### Tom Holland And Drew Pearce Team On Sony Thriller Penthouse With Billy17 And Point Of No Return Producing
-Mon, 19 Oct 2026 16:45:00 +0000 — https://deadline.com/2026/10/drew-pearce-tom-holland-penthouse-sony-1237167106/
+### Former A24 Docs Chief Joins Oasis: Don t Look Back In Anger Outfit Magna Studios
+Tue, 20 Oct 2026 08:30:00 +0000 — https://deadline.com/2026/10/a24-docs-chief-nicole-stott-magna-studios-oasis-anger-1237168380/
 
-EXCLUSIVE: Sony Pictures has pre-emptively bought Penthouse, an original idea by Drew Pearce, with Tom Holland’s production company Billy17 and Pearce s Point Of No Return producing. The film is being developed as a starring vehicle for Holland. Pearce (The Thomas Crown Affair, The Fall Guy, Iron Man 3) will be writing the script, with Holland [ ]
+Former A24 docs chief Nicole Stott has joined Magna Studios, the production outfit behind Oasis: Don t Look Back in Anger. Stott becomes an executive producer in Magna s non-fiction division and will collaborate closely with SVP, Non-Fiction, Oliver Calleja, Creative Director Louis Mole, and the wider team across Magna’s documentary features and limited series. A24 shuttered [ ]
 
-### Steven Crowder Files Trademark Lawsuit Against CNN And Jubilee Over Use Of Change My Mind In James Talarico Town Hall
-Mon, 19 Oct 2026 16:38:59 +0000 — https://deadline.com/2026/10/steven-crowder-cnn-lawsuit-james-talarico-town-hall-1237167648/
+### Banijay Entertainment Confirms Post-Merger Leadership Structure
+Tue, 20 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/banijay-entertainment-post-merger-leadership-structure-1237168373/
 
-Conservative comedian and commentator Steven Crowder has filed a trademark infringement lawsuit against CNN and co-producer Jubilee Media, claiming that their recent town hall with James Talarico was an unauthorized use of his Change My Mind format. In the lawsuit, filed in U.S. District Court in Fort Worth, TX, Crowder s LWC IP claimed that the [ ]
+The newly-minted Banijay Entertainment has set out its senior leadership team following the merger with All3Media. The Survivor and The Traitors company had already installed RedBird IMI CEO Jeff Zucker as Chairman, Marco Bassetti as CEO and Jane Turton as Deputy CEO, and today confirmed the next tier of management in an internal note to [ ]
 
-### Ashley Avis Helming Film Adaptation Of Joanne Greenberg s I Never Promised You A Rose Garden
-Mon, 19 Oct 2026 16:35:56 +0000 — https://deadline.com/2026/10/ashley-avis-to-direct-i-never-promised-you-a-rose-garden-1237167672/
+### Soccer YouTuber Eman SV2 Launches Creator Company
+Tue, 20 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/eman-sv2-football-youtuber-frenzy-creator-company-1237167538/
 
-EXCLUSIVE: After a decade-long effort to secure the film rights to I Never Promised You a Rose Garden —Joanne Greenberg’s classic 1964 novel, which she calls “one of the most arresting and authentic explorations of mental illness ever written — Ashley Avis has done it. The rising filmmaker, whose credits include Disney+’s Black Beauty, will [ ]
+EXCLUSIVE: Soccer YouTuber Eman SV2, whose channel has 6 million subscribers, is launching a creator company. Eman SV2, whose real name is Eman Balogun (no relation to American soccer star Folarin Balogun), is opening Frenzy, which he said will operate in content, commerce and live experiences. The company launches in a few days time and [ ]
 
-### Armie Hammer Wraps Under-The-Radar Action-Thriller Tokyo Blitz , Film Heads To AFM For Sales
-Mon, 19 Oct 2026 16:33:20 +0000 — https://deadline.com/2026/10/armie-hammer-wraps-movie-tokyo-blitz-afm-sales-1237167569/
+### Marco Bassetti Says Banijay Has Spent $1.1B On Creativity In Four Years But Warns U.S. Giants Must Reward European Producers
+Tue, 20 Oct 2026 07:22:11 +0000 — https://deadline.com/2026/10/marco-bassetti-mia-market-1237167415/
 
-EXCLUSIVE: Armie Hammer is starring in under-the-radar action-thriller Tokyo Blitz, which recently wrapped in Los Angeles. This marks the Call Me By Your Name and The Social Network actor’s first announced project since his controversial Citizen Vigilante film caused a stir this summer after getting the backing of Elon Musk. Hammer continues to rebuild after [ ]
+Banijay Entertainment CEO Marco Bassetti has revealed a €1B ($1.1B) spend on creativity over the past four years, but warned of trouble ahead if Hollywood studios don t provide better rewards for European producers. The Italian-born exec outlined the spend, which is a significant outlay for an independent producer, during a session at Rome s MIA Market, [ ]
 
-### Sony Wins Rights In Host Of International Territories To A24’s You Can See Everything Primetime
-Mon, 19 Oct 2026 16:16:10 +0000 — https://deadline.com/2026/10/sony-wins-rights-to-a24s-you-can-see-everything-primetime-1237167448/
+### This City Is Ours Renewed For Season 3 At BBC
+Tue, 20 Oct 2026 07:00:00 +0000 — https://deadline.com/2026/10/this-city-is-ours-renewed-season-3-bbc-1237167718/
 
-EXCLUSIVE: In a competitive situation, Sony Pictures Worldwide Acquisitions has acquired rights in a host of international markets to A24’s awards season movies You Can See Everything and Primetime. Nathan Fielder and Lance Oppenheim s Elizabeth Holmes doc You Can See Everything made its North American debut this weekend with a historic opening, ranking among the [ ]
+Hit BBC gangster drama This City is Ours has been greenlit for a third season before the second has even aired. The series kicks off Season 2 this Sunday but it appears the BBC is keen for it to become a long-running returner. AMC+ shows Season 1 in the U.S. Stephen Butchard s This City is [ ]
 
-### New York Comedy Festival Sets 2026 Creators To Watch Lineup
-Mon, 19 Oct 2026 16:07:23 +0000 — https://deadline.com/2026/10/new-york-comedy-festival-creators-to-watch-2026-unveiled-1237167539/
+### Michael Douglas Asked To Be Killed Off Marvel s Ant-Man : They Wouldn t Let Me
+Tue, 20 Oct 2026 03:45:15 +0000 — https://deadline.com/2026/10/michael-douglas-killed-off-marvel-ant-man-1237168330/
 
-EXCLUSIVE: The New York Comedy Festival has set the lineup for its fifth annual Creators to Watch Showcase, taking place at Asylum NYC in Gramercy on Saturday, November 14 at 7pm. The lineup includes Austin Nasso, Carly Stanton, Caroline Hanes, Caroline Portu, Charles Hsu, Dan Yang, Jourdain Fisher, Karly Sargent, Max Manticof, Mike Lenczewski, Mitsy [ ]
+If Michael Douglas had his way, he would ve left the Marvel Cinematic Universe after starring in 2015 s Ant-Man and its sequel. In a new interview, the actor got real about his time in the MCU and asked the studio to kill off his character. I would have been killed off after the second one, but [ ]
 
-### Patrick Schwarzenegger Leslie Grace To Star In AGC Crime-Thriller The Journeyman
-Mon, 19 Oct 2026 16:05:32 +0000 — https://deadline.com/2026/10/patrick-schwarzenegger-leslie-grace-cast-in-the-journeyman-1237167554/
+### Star Wars Headed To Super Bowl LXI For Animated Altcast On Disney+, Disney Channel and Disney XD
+Tue, 20 Oct 2026 03:10:51 +0000 — https://deadline.com/2026/10/star-wars-super-bowl-2027-altcast-disney-nfl-1237168321/
 
-EXCLUSIVE: Patrick Schwarzenegger (The White Lotus) will star as a down-on-his-luck tennis pro who is drawn into the dark world of match-fixing to make ends meet for his family in crime-thriller The Journeyman. Leslie Grace (In the Heights) will co-star as his fiercely loyal fiancée. Ángel Manuel Soto (Wrecking Crew) will direct from a script [ ]
+Characters from A Galaxy Far, Far Away are headed to Super Bowl LXI as ESPN, Lucasfilm and the NFL team up for a Star Wars alternative telecast. On Sunday, February 14, Disney+, Disney Channel, and Disney XD will air an alternate telecast featuring iconic characters from across the Lucasfilm franchise alongside the AFC and NFC champions, including [ ]
 
-### Abbott Elementary s Janelle James Sets Debut Hour Stand-Up Special With Netflix
-Mon, 19 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/janelle-james-comedy-special-netflix-how-romantic-1237165684/
+### Quinta Brunson Shares Update On Betty Boop Film Development: The Story Will Be Unlike Anything Anyone Expects
+Tue, 20 Oct 2026 02:10:03 +0000 — https://deadline.com/2026/10/quinta-brunson-update-betty-boop-film-1237168312/
 
-EXCLUSIVE: Janelle James, the Abbott Elementary scene-stealer, has announced her debut hour-long stand-up special, How Romantic, which is set to premiere globally on Netflix on November 10. In the hour, James covers everything from body counts and bank accounts to why women should wrestle men. She wrote, performed and exec produced it, with Matt Schuler [ ]
+Quinta Brunson is sharing an update on the Betty Boop film she is developing and starring in. While appearing on Good Morning America, the Abbott Elementary creator and star teased that she is creating a really incredible movie and is still in process right now, so she couldn t share many details. I think the story will be unlike [ ]
 
-### Mary-Louise Parker Joins Julia Garner, Lewis Pullman Maddie Hasson In Apple TV s Guilty Creatures
-Mon, 19 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/mary-louise-parker-guilty-creatures-apple-series-cast-1237166105/
+### Awards Go To ‘Mayilaa,’ ‘The Gymnasts Of Fisherman Colony’ And More At Seattle’s Tasveer film Festival
+Tue, 20 Oct 2026 00:43:53 +0000 — https://deadline.com/2026/10/2026-tasveer-film-festival-awards-1237168277/
 
-EXCLUSIVE: Mary-Louise Parker (Weeds, Elsbeth) has been tapped for a recurring role in Apple TV‘s thriller drama Guilty Creatures, starring and executive produced by Julia Garner. In addition to Garner, she joins previously announced Lewis Pullman and Maddie Hasson in the series, from director Craig Gillespie, showrunner Stuart Zicherman and Tomorrow Studios. Character details are [ ]
+The Tasveer Film Festival in Seattle has wrapped its 21st edition with the announcement of awards in multiple categories. Mayilaa, a drama directed by Semmalar Annam, won the Jury Award for Best Feature Narrative. The film starring P. Melody Dorcas, Geetha Kailasam, Shudar Kodi, and Sathya Maruthani tells a mother-daughter tale of “a novice saleswoman [ ]
 
-### Alfonso Gomez-Rejon To Direct Roberto Aguirre-Sacasa s New Disney+ Series Afterlife With Archie
-Mon, 19 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/alfonso-gomez-rejon-direct-series-afterlife-with-archie-1237167556/
+### Disney Appoints Carol Choi As Asia Pacific President Following Luke Kang s Retirement
+Tue, 20 Oct 2026 00:25:29 +0000 — https://deadline.com/2026/10/disney-carol-choi-luke-kang-asia-pacific-1237168258/
 
-EXCLUSIVE: Alfonso Gomez-Rejon (Me and Earl and the Dying Girl, Hunters) will direct the pilot of Afterlife with Archie, which was greenlit for a TV series adaptation on Disney+ in July. Gomez-Rejon will also direct the second episode and will serve as executive producer of the episodes. Based on the bestselling comic book series by [ ]
+The Walt Disney Company said that Carol Choi, currently Executive Vice President of Disney Asia Pacific, will succeed Luke Kang as President, APAC following his decision to retire after 16 years with the company. In her new role, effective December 1, Choi will lead Disney Entertainment’s portfolio of businesses across Asia Pacific including studios, Disney+, [ ]
 
-### Edward Berger Says Movie Biz Needed Netflix To Wake Up But Studios Can Now Inspire The Streamer
-Mon, 19 Oct 2026 15:48:22 +0000 — https://deadline.com/2026/10/edward-berger-netflix-hollywood-studios-1237167413/
+### Rita Wilson Teases Return In Lena Dunham s Girls Revival On HBO: I Would Do Anything For Her
+Tue, 20 Oct 2026 00:15:05 +0000 — https://deadline.com/2026/10/rita-wilson-return-lena-dunham-girls-revival-hbo-1237168250/
 
-The movie business needed Netflix to wake up , according to Edward Berger, but the Oscar-winning All Quiet on the Western Front director predicted it could be the Hollywood studios inspiring the streaming service in years to come. Speaking today during a fireside chat at the MIA Market in Rome, Berger offered an assessment of how [ ]
+Rita Wilson says she would do anything for Lena Dunham after confirming the Girls revival. HBO and Dunham announced the comedy would return for five episodes in 2027, and Wilson teased she would reprise her role. That is what I’m hearing, so I don’t think Lena would be lying about that, Wilson told People about [ ]
 
 ## befores & afters
 
-_Nothing in the last 48 hours._
+### Digital Domain s VFX breakdown for Disclosure Day is here
+Mon, 19 Oct 2026 17:42:03 +0000 — https://beforesandafters.com/2026/10/20/digital-domains-vfx-breakdown-for-disclosure-day-is-here/
+
+Go behind the scenes of the train scene, aliens and more. The post Digital Domain s VFX breakdown for Disclosure Day is here appeared first on befores & afters .
 
 ## IndieWire
+
+### RIP Ann Hornaday, a Newspaper Film Critic Survivor
+Tue, 20 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/news/obituary/ann-hornaday-dead-washington-post-film-critic-1235222901/
+
+She was among the few women critics when she started out in 1995, and was the reviewer for the Washington Post for 23 years.
+
+### Curry Barker on Why Gen Z Loves Going to the Movies: It s Social Interaction, but You re Not Expected to Talk to Anyone
+Tue, 20 Oct 2026 00:38:26 +0000 — https://www.indiewire.com/news/events/watch-curry-barker-indiewire-future-of-filmmaking-summit-1235222847/
+
+The 'Obsession' director accepted IndieWire's Future of Filmmaking Award at our Los Angeles summit, where he discussed his whirlwind year and his advice for young directors.
+
+### No One Left to Fire: Ted Sarandos Is Feeling the Heat as Netflix Struggles
+Mon, 19 Oct 2026 22:39:29 +0000 — https://www.indiewire.com/news/analysis/ted-sarandos-no-one-else-fire-netflix-co-ceo-analysis-1235222834/
+
+With Bela Bajaria and Dan Lin both out and the stock price below $70, all eyes are on what Sarandos will do to right the ship again.
+
+### Ken Russell s The Devils Use Sets Unlike Any Other Period Film
+Mon, 19 Oct 2026 21:30:00 +0000 — https://www.indiewire.com/features/craft/ken-russell-the-devils-restoration-derek-jarman-sets-1235222226/
+
+Production designer Derek Jarman's sets in "The Devils," now gloriously restored, help make the past happen over and over again — now.
+
+### The Cast of the New Sense and Sensibility Is Just as Good as in the Beloved 1995 Version
+Mon, 19 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/features/commentary/cast-new-sense-and-sensibility-versus-1995-version-1235222792/
+
+Director Georgia Oakley opens up about Daisy Edgar-Jones, Esmé Creed-Miles, Caitríona Balfe, and more in making the newest Jane Austen adaptation.
+
+### American Film Market Will Rethink Networking Through Partnership with Indie Creator Platform Callo
+Mon, 19 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/news/business/american-film-market-networking-callo-partnership-1235222250/
+
+Exclusive: AFM will offer badge holders access to the operating system to enable filmmakers to more easily connect with buyers, financiers, and sales agents.
+
+### Jon Stewart Extends Weekly Daily Show Hosting Gig Through 2028
+Mon, 19 Oct 2026 18:30:00 +0000 — https://www.indiewire.com/news/breaking-news/jon-stewart-keep-hosting-the-daily-show-through-2028-1235222796/
+
+Stewart will continue to host the show on Monday nights, with a rotating cast of correspondents handling the rest of the week, for the remainder of Trump's second term.
+
+### How Abel Ferrara and Joe Delia Made ‘Ms. 45’ a Grindhouse Classic, from Stealing Coppola s Sound Effects to David Bowie s Praise
+Mon, 19 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/features/interviews/abel-ferrara-ms-45-composer-joe-delia-interview-1235222519/
+
+The director and composer look back on their exploitation classic as Delia prepares to perform the score live at a 45th-anniversary screening at the Southampton Playhouse.
 
 ### ‘You Can See Everything’: Nathan Fielder Was So Skeptical He Could Break New Ground in Elizabeth Holmes Story, He Negotiated a Kill Switch with A24
 Mon, 19 Oct 2026 16:50:01 +0000 — https://www.indiewire.com/features/podcast/you-can-see-everything-how-documentary-came-together-1235222750/
@@ -192,142 +235,107 @@ Mon, 19 Oct 2026 15:06:34 +0000 — https://www.indiewire.com/news/festivals/beh
 
 Composer Lukas Frank called Tony Gilroy's version of the “Behemoth!" original song “Your God Is Sleeping” a "’70s protest song." “It wasn't that lame,” joked the director at the Middleburg Film Festival.
 
-### Léa Seydoux Became Fearless After the Controversies of ‘Blue Is the Warmest Color’ — She’s Doing It Again with ‘Gentle Monster’
-Sun, 18 Oct 2026 21:23:00 +0000 — https://www.indiewire.com/awards/consider-this/lea-seydoux-blue-is-the-warmest-color-gentle-monster-1235222558/
-
-Marie Kreutzer's "Gentle Monster" is yet another example of how Seydoux explores the dark side of the human psyche. It could land her an Oscar nomination.
-
-### La Bola Negra Earns $277,500 in Limited Release as Netflix Reports Box Office Results for the First Time in History
-Sun, 18 Oct 2026 15:02:25 +0000 — https://www.indiewire.com/news/box-office/la-bola-negra-earns-limited-release-netflix-reports-box-office-1235222671/
-
-Welcome to the exciting world of box office reporting, Ted Sarandos!
-
-### How Titmouse Animation Gave ‘Street Fighter’ Its Secret Sauce
-Sun, 18 Oct 2026 14:30:39 +0000 — https://www.indiewire.com/features/animation/street-fighter-2026-animation-titmouse-chris-prynoski-1235222676/
-
-Studio co-founder Chris Prynoski told IndieWire about crafting the ‘90s anime-inspired flashback sequences for the video game adaptation.
-
-### You Can See Everything Opens to a Staggering $15 Million, Securing A24 s Place as Hollywood s Hottest Brand
-Sun, 18 Oct 2026 13:47:28 +0000 — https://www.indiewire.com/news/box-office/you-can-see-everything-record-breaking-opening-a24-hollywoods-hottest-brand-1235222446/
-
-Audiences rushed to theaters as Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary arrived shrouded in secrecy.
-
-### Dirty Dancing Sequel Will Honor Patrick Swayze, as Producers Work with Jennifer Grey to Write Baby s Next Chapter
-Sun, 18 Oct 2026 01:29:20 +0000 — https://www.indiewire.com/news/events/dirty-dancing-2-honor-patrick-swayze-baby-90s-1235222530/
-
-Producer Nina Jacobson also revealed why "Crazy Rich Asians" is getting an HBO series instead of a movie sequel at IndieWire's Future of Filmmaking Summit.
-
-### Bill Hader Always Wanted to Direct a Film — His Divorce, SNL, and Kiyoshi Kurosawa Helped Him Finally Build They Know
-Sat, 17 Oct 2026 21:43:45 +0000 — https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/
-
-The "Barry" creator revealed details about his upcoming horror film at IndieWire's Future of Filmmaking 2026 Summit presented by AT T in Los Angeles on Saturday.
-
-### John Wilson’s Next Documentary Will Reportedly Show Audiences ‘How to’ Tour Like Harry Styles
-Sat, 17 Oct 2026 19:44:28 +0000 — https://www.indiewire.com/news/breaking-news/john-wilson-documentary-harry-styles-tour-1235222552/
-
-Hot off the success of his feature debut “The History of Concrete,” the beloved documentarian has turned his camera onto the pop star and his recent tour.
-
 ## The Wrap
 
-### Sony Pictures TV Hires Lauren Glaubach as EVP Distribution, Digital and Social Platforms
-Mon, 19 Oct 2026 17:00:19 +0000 — https://www.thewrap.com/creative-content/tv-shows/sony-pictures-tv-lauren-glaubach-evp-distribution-digital-social-platforms/
+### Jimmy Fallon Takes Aim at Melania Trump, Stuns Tonight Show Crowd While Recapping Katie Zacharia s Firing
+Tue, 20 Oct 2026 05:20:05 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-melania-trump-jab-katie-zacharia-recap-tonight-show-monologue/
 
-Sony Pictures Television has hired Pinterest executive Lauren Glaubach as the company s EVP of distribution, digital and social platforms. In the newly created role, Glaubach will drive Sony s expansion across YouTube and digital platforms, finding new opportunities on digital for the studio s film and TV content to engage with audience and grow revenue. She will report to presidents of distribution and networks Jason Spivak and Paul Littmann. Glaubach s hiring comes as Sony Pictures Television s digital business has expanded to include a YouTube edition of Jeopardy! as well as Reading Rainbow on YouTube. The company also inked a partnership with professor Brian Cox to develop premium original content for global digital audiences. As she leads Sony Pictures’ global strategy on social and digital platforms, Glaubach will be responsible for spearheading a comprehensive growth and monetization strategy. “Lauren has spent her career working at the intersection of content, platforms, and audiences, and has a proven track record of building and growing digital businesses,” Spivak and Littmann said. “We’re very pleased to have her join SPT and are excited about what we can accomplish together.” “The ways audiences engage with entertainment continue to evolve, creating meaningful opportunities to extend the reach and impact of the stories and franchises they love,” Glaubach said. “I’m excited to join Sony Pictures and work with this talented team to develop digital experiences that m
+Jimmy Fallon stunned his “Tonight Show” audience with a jab at first lady Melania Trump while recapping White House Press Secretary Katie Zacharia ’s firing. During Monday s monologue for The Tonight Show, the late night host touched on the short-lived tenure of Zacharia as President Donald Trump s press secretary. The midterm elections are just 15 days away. Yeah, that s not a lot of time. That s only three White House press secretaries from now, Fallon started off Monday s monologue. Yeah, everyone s talking about this, President Trump fired his new press secretary, Katie Zacharia, after just five days on the job . It s not good when the edible arrangement you got on your first day is still edible on your last day. He added: Meanwhile, Kimberly Guilfoyle was like, Hey, thanks for changing the subject. She spent just five days in the White House. On the bright side, Melania was like, That s five more than me.' The Tonight Show crowd didn t appear to love that last dig at the first lady, as Fallon s studio audience could be heard laughing, groaning and gasping all at once. However, the comedian quickly moved on from the jab, instead zeroing in on FBI Director Kash Patel. Five days. Kash Patel was like, Damn, I ve had hangovers last longer than that, Fallon further quipped. The Tonight Show host then read aloud the job application for the next press secretary hopeful, prompting plenty of laughs from the audience. Of course, now Trump needs a new press secretary, and we got to 
 
-### Elizabeth Holmes Called Nathan Fielder the Day Before You Can See Everything Hit Theaters
-Mon, 19 Oct 2026 16:08:00 +0000 — https://www.thewrap.com/creative-content/movies/elizabeth-holmes-called-nathan-fielder-you-can-see-everything-trust/
+### Mariah Carey Prevails in Brother’s $20 Million Memoir Lawsuit
+Tue, 20 Oct 2026 04:27:10 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/mariah-carey-brother-20-million-memoir-lawsuit-dismissed/
 
-A24’s “You Can See Everything” is the most talked-about documentary in years . The film, which sees Nathan Fielder move in with disgraced Theranos CEO Elizabeth Holmes and her family shortly before she is scheduled to begin an 11-year prison sentence, racked up $15 million in its opening weekend and it’s seemingly all anybody can discuss at the moment. And in a new interview with Wired, Fielder, who directed the film (with Lance Oppenheim) discussed his last conversation with Holmes, shortly before the movie opened. Fielder said that the week before the interview, he had seen that he had missed a call from Holmes’ prison. She called him back. “I saw on the thing, it says: You re receiving a call from Elizabeth Holmes . And I have not heard from her. She has not called me in over six months. I have not heard from her in any way. But I missed the calls, and then as I was looking at my phone, a third call came in from the same number,” Fielder explained. She had mentioned at some point that you can’t call back the number, you have to pick it up. Fielder answered the phone. “I said, ‘Hey, how s it going?’ She asked how I was doing. I asked her if she had seen any stuff about the film coming out and how she felt about it all. She told me that she had seen some stuff, but most things she just isn t seeing, so she s heard things, but she hasn t really read anything. And then, at the end, she said to me— I trust you,’” Fielder said. Fielder said that they talked about some other stuf
+Mariah Carey scored a major legal victory in her five-year legal battle with her brother Morgan Carey, whose lawsuit alleging the singer defamed him in her memoir, “The Meaning of Mariah Carey,” was dismissed. In Hon. Leslie A. Stroth’s ruling, which was issued Monday and obtained by TheWrap, the New York State Supreme Court justice found that the pop star’s brother failed to prove that the “All I Want for Christmas” singer acted with “actual malice” with her memoir claims. As we previously reported , Carey’s brother first filed the lawsuit over her memoir in May 2021, where he claimed that the singer had damaged his reputation by depicting him as a violent man and a “sometimes” drug dealer. “[Morgan Carey] brings this action more in sorrow and disappointment in his sister’s betrayals and malicious falsehoods than in anger at them, the filing stated at the time. He is by no means envious of his sister’s enormous artistic and personal success, has enjoyed his own successes both professional and personal, and has always wished her well. Carey’s brother then claimed that the alleged damages caused by the bestselling book “exceed[ed] $20 million.” “Plaintiff has not sufficiently pleaded actual malice on the part of [Mariah],” Justice Stroth wrote on Monday. “Plaintiff fails to provide any proof that [Mariah] made such statements with knowledge of their falsity or with reckless disregard for the truth. While plaintiff alleges that [Mariah] demonstrates ill will towards her brother
 
-### Netflix Film Chief Dan Lin Out at Streamer
-Mon, 19 Oct 2026 15:32:53 +0000 — https://www.thewrap.com/creative-content/movies/netflix-film-chief-dan-lin-out/
+### Jon Stewart Dares ‘Daily Show’ Crowd to ‘Cancel Me’ After Biting Dig at US Voters
+Tue, 20 Oct 2026 03:50:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-daily-show-cancel-me-call-us-voter-dig/
 
-Dan Lin is out at Netflix, completing a total shakeup of the content leadership at the mega streamer, TheWrap has learned. Lin s exit comes on the heels of Chief Content Officer Bela Bajaria exiting last week right after laying off 6% of its staff. She was replaced by respected veteran Peter Rice, who will now oversee content strategy for the streamer amidst growth woes. Netflix declined to comment. Lin, a successful producer behind films like the It franchise and The LEGO Movie series, was hired to run Netflix Film in 2024 after the exit of Scott Stuber. Lin s tenure marked a shift away from the more prestige and big-spending swings of Stuber, which ranged from Oscar winners like Roma, The Irishman and Frankenstein to pricey flops like the Russo Brothers The Electric State and Zack Snyder s Rebel Moon films. The news comes after Netflix Film VP Doug Belgrad, who served as Lin s right-hand man, was also let go at the streamer as part of its company-wide layoffs . Lin took over as the new Netflix Film Chief in April 2024 , replacing Scott Stuber, with a mandate to spend less on fewer, better movies. Known for being blunt, he reorganized the film division by genre and pushed for more comedies, romantic comedies and book adaptations. He also held a hard line on theatrical releases, which did him no favors with A-list talent. As recently as June, Lin told The New York Times that Netflix won’t work with filmmakers who insist on a theatrical-first release. Netflix greenlit roughly 
+Jon Stewart dared his “Daily Show” audience to “cancel” him after a biting joke at the expense of U.S. voters. During Monday s monologue for The Daily Show , Stewart touched on the riots in France, which saw demonstrators voicing concern for cost of living and fuel prices caused by the Iran War. Holy s t. In France, they ve burned down an entire city because of a war they didn t start and aren t even any part of, Stewart said while recapping the events. And here, in the country that started the war, we re not even sure we re going to get to take back the House. He added: I mean, we re so mad about this war, we might vote. As the Daily Show editors cut to an image of the fire-filled protest in France, Stewart doubled down on his criticism. Our country happens to be flame retardant – or one of those two words, Stewart quipped as his studio audience erupted into laughter and applause. Stewart briefly walked back the comment, telling his in-studio crowd, I wouldn t even encourage that. Honestly, even I would cancel me for that one. This prompted another round of laughter from Stewart s audience, signaling the comedian to move on to his next talking point: the U.S.-Russia energy deal. Specifically, Stewart recapped how Trump struck an energy ceasefire with Ukraine and Russia, only for Russian President Vladimir Putin to strike a power plant in Kharkiv hours later. Well, luckily, just one month ago, Trump signed into law the Lindsey O. Graham – I don t want to tell you what the O s
 
-### Christiane Amanpour to Leave CNN After 43 Years
-Mon, 19 Oct 2026 15:18:08 +0000 — https://www.thewrap.com/media-platforms/journalism/christiane-amanpour-leaving-cnn-after-43-years/
+### ‘Star Wars’ Animated Alternate Telecast Set for 2027 Super Bowl
+Tue, 20 Oct 2026 02:52:31 +0000 — https://www.thewrap.com/culture-lifestyle/sports/star-wars-alternate-telecast-2027-super-bowl/
 
-Christiane Amanpour is leaving CNN after 43 years, the network s longtime chief international anchor announced Monday. After many months of thought and a few sleepless nights, I have decided to separate from CNN, my partner of 43 fantastic years! Amanpour said in a statement provided to TheWrap. Amanpour, 68, will end her daily CNN and PBS programs at the end of 2026 before shifting to a weekly show on CNN International through May 2027. She will continue working with the network through June, bringing to a close a career that helped establish CNN s reputation for international reporting. CNN chairman Mark Thompson confirmed the departure in a memo to staffers Monday, saying he and Amanpour had discussed her decision for several months. Like so many CNNers who will hear the news today, I m very sorry to see her go, but I ve come to accept that this is the right time for her, both personally and professionally, Thompson wrote in the memo, obtained by TheWrap. Thompson called Amanpour one of the most trusted and beloved journalists anywhere and said CNN would celebrate her contributions before her departure. Amanpour s departure comes less than two weeks after David Ellison s Skydance completed its acquisition of Warner Bros. Discovery, bringing CNN and CBS News under the same corporate umbrella. Thompson has remained in charge of CNN under the new ownership, which has raised questions about the network s editorial direction and independence. Amanpour joined CNN in 1983 as a ne
+ESPN, Lucasfilm, Disney and the NFL will present an animated alternate telecast of Super Bowl LXI set in the “Star Wars” galaxy and featuring characters from across the franchise, including original 1977 cast member Anthony Daniels reprising his role as C-3PO. The upcoming telecast, dubbed Star Wars Funday Football, will stream live on Disney+ and the ESPN App, as well as air on Disney Channel and Disney XD on Feb. 14, 2027. The telecast will give fans of all ages a new way to experience ESPN’s Super Bowl production. What does this alterna-cast mean for the big game? The Star Wars animated telecast will recreate every play of Super Bowl LXI in real time, transforming players on the field into animated avatars, while Star Wars characters join the action subbing in during key moments and various Easter eggs appearing throughout the game, per an announcement from the NFL . ESPN s Star Wars Funday Football will be produced with data visualization technology from Sony’s Beyond Sports, which will transform live gameplay into animation in real time by combining player tracking data from the NFL’s Next Gen Stats and Sony’s Hawk-Eye Innovations optical tracking. ESPN teased what s to come for the telecast with a social media video Monday evening, which showed C-3PO and R2-D2 discussing their plans for the upcoming Super Bowl. Watch the clip below. In a galaxy far, far away … Star Wars Funday Football is coming to Super Bowl LXI! Feb. 14 | Disney+, Disney Channel, Disney XD and the ESP
 
-### Trump Accuses Fox News of Trying Too Hard to Be Politically Correct in Truth Social Tirade
-Mon, 19 Oct 2026 14:34:22 +0000 — https://www.thewrap.com/media-platforms/politics/trump-fox-news-politically-correct-democrat-vs-republican/
+### Indiana Democrat Admits to Drinking Before Viral Interview: I Had 3 Beers
+Tue, 20 Oct 2026 01:43:13 +0000 — https://www.thewrap.com/media-platforms/politics/viral-indiana-candidate-jaime-west-admits-drinking-before-interview/
 
-It seems as though Fox News may have lost President Donald Trump for good, because he s once again calling the network out for going against his agenda. Fox spends more time defending Dumocrats, and putting on their views versus their Republican opponent, than at any time in the History of FoxNews [sic], he wrote early Monday morning on Truth Social . It’s ridiculous! FoxNews is trying too hard to be Politically Correct! Watch my big Kansas Rally today on RSBN. Great early coverage! Instead, Trump wants his loyal voters to tune into Right Side Broadcasting Network, Joe Seales far-right conservative offering on Rumble and YouTube. This is just the latest screed from the commander-in-chief about what used to be his favorite news network. Earlier this month, he similarly questioned Fox News for avoiding coverage of a rally in Ohio. “Who makes these decisions at Fox News? Probably the same loser that fired the great Maria Bartiromo because she complained about not being allowed to cover ‘TRUMP,’” he wrote. “Cover our ‘happenings,’ and not the opposition to Greatness for America, or Fox News will soon have the ratings of FAKE NEWS CNN or MSNOW (MSDNC). Remember, Fox tried this act once before, and almost went out of business (and always right before an election!). That can happen again!” “Why does FoxNews [sic] always put Chuck Schumer, Hakeem Jeffries, Jessica Tarlov, and every Democrat on, saying bad things about the Republican Party and, of course, me?” Trump further asked in S
+Jaime West, the Democratic candidate for Fayette County Council District 4 who went viral for a slurred television interview in which she vowed to fire “all Republicans,” has admitted to drinking “a couple beers” before appearing on camera. West appeared on Piers Morgan Uncensored Monday, where she was asked point-blank by host Piers Morgan if she had consumed any alcohol before sitting down for the interview on the local Indiana outlet TV3. I m going to be completely straight with you, a lot of people assumed you might have had a drink before you did that interview, Morgan said to West. Did you? West quickly copped to drinking before the sit down, noting, I had a Coors Light. I had a beer. After Morgan pressed West to clarify whether she had one beer or more, she responded, Maybe a couple I was nervous, okay?! I get it. We ve all had a drink when we re nervous, Morgan countered. Here s your chance to be completely honest and transparent. How many beers did you have? Alright, three, she admitted. What do you want me to say, man? I had three beers. However, West defended that she was not that intoxicated for the sit down, claiming she knew what she was talking about when it came to Indiana politics. At this moment, Morgan asked West whether she had imbibed before their interview. Have you had any beers before this interview? he asked. No, she responded. You re completely sober? Morgan questioned again. West s answer? Yep. Morgan then asked West whether she regretted some of he
 
-### Sacha Baron Cohen Defends His Characters Borat and Ali G as a Way to Expose Hate and Bigotry
-Mon, 19 Oct 2026 13:48:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/sacha-baron-cohen-defends-ali-g-borat-racism-claims/
+### Ann Hornaday, Chief Film Critic at the Washington Post, Dies at 66
+Tue, 20 Oct 2026 00:59:53 +0000 — https://www.thewrap.com/creative-content/movies/ann-hornaday-dies-obit-washington-post-film-critic/
 
-Who is Ali G? To answer that question, you have to start with Sacha Baron Cohen. The comedian joined 60 Minutes for an in-depth interview with Ariel Levy on Sunday night, wherein he explained his viewpoint on his more controversial mockumentary characters Borat, Bruno and Ali G , who often trick unsuspecting people into revealing more than they d probably care to on camera. I think a lot of the times, they re not making fools of themselves. I think a lot of those in the Ali G interviews they come across well, actually. I think it s the same with Borat, he said of his participants. There s a huge amount of stuff you don t see, which is us behind the scenes looking at who we ll interview going: Not them, not them.' Borat is, again, a funny character, Cohen added. But he also shows the kindness of people as well, who are so nice to him, but also can expose, you know, the layer of hate and bigotry below the surface that people normally wouldn t go on air and show.” His comments come after controversy surrounding his upcoming directorial debut Ali G: Who Iz I?, which has faced accusations of racism. Some U.K. watchdog activists have even urged theaters not to screen the social satire. “There have been reportings that this film is racist. We have seen it, and sadly, it is not,” Borat says in the film s second teaser trailer, seemingly addressing these concerns. This new movie follows 2002 s Ali G Indahouse, with Cohen s characters also popping up in projects like The 11 O Clock Sho
+Ann Hornaday, the longtime Washington Post film critic has died, according to the Post. She was 66. The Pulitzer Prize finalist succumbed to glioblastoma, a form of brain cancer, on Sunday, her husband Dennis Greenia told her longtime employer. Over her 20 year career, she wrote hundreds of reviews for the Washington Post and was a Pulitzer Prize finalist in 2008. “For many years, Post readers were blessed by Ann’s informed, insightful, warm, accessible and totally unique voice,” Washington Post Executive Editor Matt Murray said in a statement . “Reading her work was like talking with a close — if much more knowledgeable — friend.” She was an early supporter of filmmakers, including Ryan Coogler, Greta Gerwig, Alexander Payne and Tom McCarthy. She was also a regular reviewer on “PBS NewsHour.” Hornaday considered “The Hurt Locker” the best film she ever reviewed, and her review of “There Will Be Blood” was part of her Pulitzer finalist submission. In 2017, she published “Talking Pictures,” a guide to watching movies. She recently finished a book about the making of “All the President’s Men,” which is tentatively slated for release in 2028. Hornaday joined the Post in 2002 after serving as film critic at the Austin American-Statesman and the Baltimore Sun. Prior to that, she freelanced in New York for a number of outlets, including the New York Times and Premiere. She also spent two years at Ms. Magazine as Gloria Steinem’s personal assistant. Hornaday took a buyout and left t
 
-### Israeli Police Arrest 10 in Probe Into Beating of Washington Post Photographer
-Mon, 19 Oct 2026 13:15:44 +0000 — https://www.thewrap.com/media-platforms/journalism/israeli-police-arrest-10-washington-post-photographer-heidi-levine/
+### Fox Legal Chief Adam Ciongoli Sets Exit, Nicholas Trutanich to Be General Counsel
+Tue, 20 Oct 2026 00:04:49 +0000 — https://www.thewrap.com/industry-news/business/fox-legal-chief-adam-ciongoli-exits-nicholas-trutanich-promoted-general-counsel/
 
-Israeli police arrested 10 people Monday as part of an investigation into violence that included the beating of Washington Post photographer Heidi Levine while she was reporting in the occupied West Bank. The arrests follow an attack that left Levine, a longtime photojournalist, with serious injuries and prompted calls from the Washington Post and U.S. officials for accountability. Police did not identify the suspects or say which, if any, were directly involved in Levine’s assault, according to the Washington Post . Levine was attacked Friday while covering a Palestinian olive harvest near the West Bank village of Abu Falah. Witnesses said masked Israeli settlers knocked her to the ground, repeatedly kicked her and beat her with sticks despite her wearing protective gear clearly identifying her as press. She suffered broken ribs and vertebrae and underwent surgery on a badly injured finger. Washington Post executive editor Matt Murray condemned the assault and called for a thorough investigation. Levine has spent decades covering conflicts across the Middle East and elsewhere, including the wars in Iraq, Afghanistan and Ukraine. U.S. Ambassador to Israel Mike Huckabee called the attack a “despicable act of terror” and said those responsible “should spend YRS in prison.” He said the U.S. had called for a full investigation, arrests and prosecution. Monday’s arrests were part of a wider investigation into violence over the weekend that also included an attack on European diplo
+Adam Ciongoli, Fox Corporation’s chief legal and policy officer, is stepping down from his role in December, the company shared on Monday. Ciongoli, who stepped into the executive role back in 2023 , will not be renewing his contract with the company and will exit his position Dec. 1. Ciongoli will then transition into a special advisor position, serving through June 2028. Additionally, Nicholas Trutanich, who currently serves as executive vice president and principal deputy general counsel, will be promoted to general counsel upon Ciongoli’s Dec. 1 departure. Trutanich will report to executive chair and CEO Lachlan Murdoch. I d like to thank Adam for his many immense contributions over the last three years, Murdoch said in a statement Monday. I deeply appreciate his service to FOX and am grateful that he will continue to serve FOX as a special advisor.” He added: “Nick Trutanich has been a critical member of the FOX team since joining the Company five years ago and will bring deep legal, litigation and compliance experience to this expanded role. We look forward to Nick s leadership.” Ciongoli shared his own statement, noting it had been “a privilege and an honor to be a part of the FOX family,” adding, “and I have especially valued my relationships with Lachlan and our talented colleagues.” He noted that he looked “forward to continuing to work with Lachlan and FOX as a special advisor to help this great company in its continued successes. On his new general counsel role, T
 
-### AI Is Paying for News, but at What Price?
-Mon, 19 Oct 2026 13:15:00 +0000 — https://www.thewrap.com/media-platforms/journalism/cnn-google-ai-partnership-explained/
+### Dana Carvey Doesn’t ‘Understand the Kerfuffle’ Over Shane Gillis’ ‘Whores’ Joke: ‘Did I Just Get Canceled?’
+Mon, 19 Oct 2026 23:46:54 +0000 — https://www.thewrap.com/creative-content/tv-shows/dana-carvey-shane-gillis-snl-whores-joke-david-spade/
 
-Welcome back to The Media Front. CNN spent years relying on Google to help audiences find its journalism. Now, the news network has struck a deal to get paid when the search giant uses more of that reporting in its artificial intelligence products. CNN announced the multiyear agreement Thursday , joining Axios, the Financial Times and other publishers in Google s expanding News AI program. More than 400 publications worldwide are participating, according to Google, which is compensating them for expanded content rights. For publishers, it s a potentially valuable new revenue stream. But getting paid for journalism doesn t necessarily mean gaining more control over how readers find it. And developments elsewhere this week showed that news organizations and technology companies remain far apart over who gets to decide how that journalism is used. On Friday, the News/Media Alliance challenged changes to Meta s commercial terms , arguing that the language could allow the company to collect material from news websites for AI training without permission or payment. Meta disputed that interpretation and has since removed the contested wording, according to The Verge . Earlier in the week, more than 40 publishers , including The New York Times, The Economist and Agence France-Presse, joined the Standards for Publisher Usage Rights coalition, which is developing ways to track and control AI companies use of their work. The group now has more than 80 members across over 20 countries. T
+Dana Carvey became the latest Saturday Night Live figure to weigh in on host Shane Gillis controversial joke about women s athletic wear on Sunday, saying that he didn t understand the kerfuffle because the comedian wasn t being serious. I just didn’t understand the kerfuffle only because to me, I just saw it as what we call, I’ll just say it, a joke! When you say jokes, you’re not literally saying ‘women are whores,’ you are literally joking, Carvey said on the latest episode of his Fly on the Wall podcast with co-host David Spade. Isn’t that kind of the idea? No? Did I just get canceled? Carvey added that he d bet the joke in question destroyed in comedy clubs before Gillis performed it from the SNL stage as part of his Oct. 10 monologue, but explained that the sketch series Studio 8H was not the right place for it. Most of the audience is young women, so I think maybe that was not — it is very highly dressed up young women is the majority of the audience at ‘SNL,’ Carvey said, hypothesizing why the bit landed with a thud. Gillis come under fire this week after his guest hosting gig on “SNL,” a program that previously fired him before he broke big on his own. He received blowback for a joke about women at the gym dressing like “whores.” “I haven’t been to the gym in so long, I didn’t know women just dress like whores now,” Gillis quipped. He added: “Look, I’m sorry, there’s no other way to describe [it]. Have you seen it? I’ve seen it. The shorts. Have you seen the shorts? 
 
-### How SAG-AFTRA Is Dragging Hollywood Into the Vertical Microdrama Boom
-Mon, 19 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/microdramas-verticals-changes-with-sag-aftra-agreement/
+### Rita Wilson Says She s Reprising Girls Role for Lena Dunham s Reunion Series: I Would Do Anything for Her
+Mon, 19 Oct 2026 23:31:26 +0000 — https://www.thewrap.com/creative-content/tv-shows/rita-wilson-returns-girls-reunion/
 
-For the rapidly evolving microseries medium, what a difference a year — and an agreement with SAG-AFTRA — makes. Prior to the union s independent Verticals Agreement, which marked its one-year anniversary last week, microseries lived up to their reputation for being swiftly assembled shoestring-budget affairs featuring fresh-faced, low-paid talent. Now, James Franco, Mario Lopez and Taye Diggs are just some of the names headlining the medium. The shift reflects a broader evolution in the microdrama business, which has grown from a largely nonunion model popularized in China into a production ecosystem increasingly intersecting with Hollywood. SAG-AFTRA s independent Verticals Agreement helped open the door for producers to hire union performers for the format s notoriously small-scale productions. They ve also brought some structure and legitimacy to the medium. Productions now offer minimum salaries, overtime pay and even health care benefits. Bigger-name talent is now more open to verticals thanks to the protections the agreement brings. While SAG-approved productions still represent a fraction of the hundreds of microseries produced each year, the union told TheWrap that they have signed off on dozens of productions with the agreement, though a spokesperson would not specify the exact number. Independent production company Knockout Shorts has produced five SAG productions, and Snow Story Productions has produced hundreds of verticals but just three union projects. Platform
+Rita Wilson teased a potential return as Evie Michaels in HBO’s “Girls” revival, which is set to begin filming next summer. Series creator Lena Dunham announced that she would bring back her HBO comedy hit for a limited five-episode run last week with all four of the original girls returning. The Sleepless in Seattle actress played Allison Williams mother on the show. Wilson hinted that she had been privy to conversations with Dunham about returning to the show. “That is what I’m hearing, so I don’t think Lena would be lying about that, Wilson told People . “I know Lena’s got to be cooking up something very good.” “Lena is one of the most talented people I’ve ever worked with. I would do anything for her,” she said. “I would bend over backward. And then I love Allison Williams who, you know, I was lucky enough to play her mom.” Ten years after the HBO series following the twentysomethings ended, the series is set to begin production in summer 2027. Judd Apatow will return to executive produce the series. Notably, Jenni Konner, who was an executive producer and co-showrunner on the HBO series, will not be back. The reunion will bring back the original four girls, Dunham as Hannah Horvath, Williams as Marnie Michaels, Jemima Kirke as Jessa Johansson and Zosia Mamet as Shoshanna Shapiro. Andrew Rannells, who played Hannah s ex-boyfriend Elijah, will also return. No word on whether Adam Driver, Christopher Abbott or Alex Karpovsky will make an appearance in the limited run. Right
 
-### Other Desert Cities Broadway Review: Julia Louis-Dreyfus Brings Biting Levity to Her Main Stem Debut
-Mon, 19 Oct 2026 04:00:00 +0000 — https://www.thewrap.com/creative-content/theater/other-desert-cities-broadway-review-julia-louis-dreyfus-allison-janney/
+### GOP Sues 11 TV Stations to Block Democrats Hope Florida Ad, Threatens Criminal Charges
+Mon, 19 Oct 2026 22:33:24 +0000 — https://www.thewrap.com/industry-news/public-policy-legal/florida-gop-sues-tv-stations-democratic-ad-hope-florida/
 
-Shortly after the Broadway premiere of Jon Robin Baitz’s “Other Desert Cities” in 2011, I interviewed one of its stars about playing the doyenne of a famous, albeit fictitious, Republican family living in Palm Springs. Stockard Channing told me that her character, Polly Wyeth, carried a two-ton weight on her shoulders from the moment she stepped on stage. In other words, Polly and her actor-turned-ambassador husband Lyman (then played by Stacey Keach) harbored a very big secret that they had disclosed to no one else, not even their “two children.” One of those children has to remind Polly, early in “Other Desert Cities,” that she actually has three children, not just two. The secret regarding that third child is Polly and Lyman s two-ton weight. The first Broadway revival of Baitz’s great play opened Sunday at the Hudson Theatre, and in her Broadway debut, Julia Louis-Dreyfus does not bring the weight of that secret to her performance. Where Channing’s Polly possessed gravitas, Louis-Dreyfus’ Polly emerges as brittle to the touch. Her performance reminded me of something Edith Wharton wrote in “The Age of Innocence” about her character May Welland (Winona Ryder in the 1993 film): “The world of her youth had fallen into pieces and rebuilt itself without her ever noticing. This hard, bright blindness ” The difference between May and Polly, of course, is that what happens to Baitz’s character takes place in middle age when her oldest child, a political radical, bombs an army rec
+The Republican Party of Florida has sued the owners of 11 television stations to block a Democratic campaign ad about the Hope Florida scandal, threatening broadcasters with criminal prosecution if they air material from a leaked grand jury report. The lawsuit, filed Friday in Highlands County , names the Florida Democratic Party, three statewide Democratic candidates and station owners in the Orlando and Tampa Bay markets, including ABC, CBS, NBC and Fox affiliates. Republicans argue that an Oct. 7 court ruling ordering the grand jury report removed from court records makes broadcasting its contents illegal. Press freedom groups say the lawsuit threatens broadcasters First Amendment rights. The 30-second ad, paid for by the Florida Democratic Party, references a grand jury s finding that $10 million from a Medicaid-related settlement was improperly diverted for political purposes, a conclusion later rejected by a Florida appeals court. The money went through the Hope Florida Foundation and two nonprofits before reaching a political committee headed by James Uthmeier, then Gov. Ron DeSantis chief-of-staff and now Florida s attorney general. The grand jury did not indict anyone, citing insufficient evidence. In its Oct. 7 ruling , a Florida appeals court found that the grand jury had exceeded its authority by accusing individuals of wrongdoing without bringing charges. The court also rejected its legal conclusion that the $10 million had been misappropriated and ordered the re
 
 ## Collider
 
-### ‘Slow Horses’ Season 6 Officially Reaches the End of an Era in Finale Sneak Peek [Exclusive]
-Mon, 19 Oct 2026 17:00:13 GMT — https://collider.com/slow-horses-season-6-finale-sneak-peek-gary-oldman/
+### Taylor Sheridan’s Spy Thriller Dominates Paramount+ Despite No Season 4 News
+Tue, 20 Oct 2026 09:30:12 GMT — https://collider.com/taylor-sheridan-lioness-streaming-success-paramount-plus-october-2026/
 
-For all the conspiracies and assassination attempts in Slow Horses , some of its most uncomfortable encounters happen when Jackson Lamb has to speak to someone outside the intelligence service. Gary Oldman ’s veteran spy has little patience for the people he works with , and even less incentive to behave himself around anyone else. Watching him enter a perfectly respectable home comes with the immediate concern that somebody is going to regret letting him through the door.
+Taylor Sheridan has stayed busy this year with several new TV shows on Paramount Plus, but there’s one that isn’t backing down, despite stiff competition. Sheridan is now a few years removed from the Yellowstone series finale, and although most fans would agree that Yellowstone is the show that helped put him on the map, Sheridan was around writing movies long before he even penned an episode of the Kevin Costner -led Western epic. Back in 2015, Sheridan wrote the script for the legendary neo-Western crime thriller, Sicario , and he even returned three years later to write the sequel, Sicario: Day of the Soldado . News broke a few weeks ago that most of the original Sicario crew is returning for a new sequel, Sicario 3 , but Taylor Sheridan is reportedly not writing or directing the new movie, which is expected to film in 2027.
 
-### ‘Sherlock’ Star Martin Freeman Officially Returns With New Murder Mystery [Exclusive]
-Mon, 19 Oct 2026 17:00:13 GMT — https://collider.com/flavia-girl-detective-trailer-martin-freeman/
+### Ridley Scott’s Sci-Fi Masterpiece Is Quietly Surging Before 8-Part Sequel Series
+Tue, 20 Oct 2026 09:00:12 GMT — https://collider.com/ridley-scott-blade-runner-2049-streaming-success-october-2026/
 
-Season 4 of Sherlock is almost certainly never happening , but Martin Freeman , who starred as John Watson, has just found himself in another mystery. He stars in Flavia: Girl Detective , a new mystery thriller that is set to be released in theaters later this year. Collider is proud to exclusively present the first trailer for the film, which will premiere on December 4.
+Ridley Scott finally returned to the sci-fi genre earlier this year with The Dog Stars , but despite it being his first sci-fi film in almost 10 years, there wasn’t much demand for the movie. Scott enlisted some major stars, including Josh Brolin , Jacob Elordi , and even Margaret Qualley to headline The Dog Stars , but the film didn’t even scrounge together $30 million at the box office before leaving theaters as one of Scott’s lowest-grossing films. Fans of Ridley Scott’s movie won’t have to wait long to see if he will find box office redemption, though, as he’s officially returning to the big screen next year for a remake of Treasure Island starring Hugh Jackman . Hugh Grant and Owen Cooper also star in the film, and Adolescence scribe Jack Thorne penned the script for Scott’s new pirate epic.
 
-### Before 'Game of Thrones,' HBO Cancelled Its Most Ambitious 24-Episode Fantasy
-Mon, 19 Oct 2026 16:27:12 GMT — https://collider.com/game-of-thrones-replacement-series-carnivale-hbo-fantasy-cancelled/
+### The 25 Best Comedies of the 2020s So Far, Ranked
+Tue, 20 Oct 2026 08:58:12 GMT — https://collider.com/best-comedy-movies-2020s-ranked/
 
-HBO is home to a lot of different fantasy shows, including Game of Thrones and its multiple spin-offs, True Blood , and His Dark Materials . Years before Game of Thrones , however, HBO canceled one of its most ambitious fantasy shows before its story could fully unfold . Created by Daniel Knauf , Carnivàle blended magic, mystery, and menace into a compelling story. It was a show that lasted only two seasons due to declining viewership and critics' growing frustration with its densely layered narrative; that's a shame, given that Carnivàle had so much more to offer.
+For as long as cinema has been a mainstay in culture and society, comedy movies have been the perfect avenue for film to bring joy and laughter to audiences worldwide. Some of the most recognized and well-known movies of all time are comedy films, with every filmmaking era having its standout picks of amazing comedies that define the era. The 2020s have already proven to be another great decade for comedy, with many hilarious and iconic films already released.
 
-### Only 10 Sci-Fi Movies From the '80s Are Truly Perfect From Start to Finish
-Mon, 19 Oct 2026 16:11:12 GMT — https://collider.com/80s-sci-fi-movies-perfect-start-to-finish/
+### Netflix's Upcoming Fantasy Series Is the Game of Thrones Replacement You've Been Waiting For
+Tue, 20 Oct 2026 08:30:12 GMT — https://collider.com/netflix-magicians-nephew-game-of-thrones-replacement/
 
-While science fiction has long been one of the most celebrated and popular genres of filmmaking, no single era stands out more than the 1980s for what it accomplished for the genre. Each year of the 80s had its own standout sci-fi experiences, ranging from sequels and remakes of beloved films to groundbreaking new films that became franchises of their own. Many of the greatest and most recognizable names in sci-fi either got their start or were at their peak within this legendary decade.
+Game of Thrones burned fast and bright for HBO, but as with all good things, it had to come to an end. The series ushered in a new era for television, creating a mainstream fantasy show that brought viewers in droves. The beginning years were the gold standard for narrative television, until they weren’t. The series also has one of the infamous finales of all time, earning an unfortunate black mark. The age of Game of Thrones has ended. Now it is the time of Narnia.
 
-### Lilly Wachowski’s New Witchcraft Series Officially Returns With Episode 6 This Week [Exclusive]
-Mon, 19 Oct 2026 16:00:12 GMT — https://collider.com/cassie-workman-is-witchy-af-sneak-peek/
+### 'Clayface' Director Confirms James Gunn Gave Him Complete Freedom To Reinvent Gotham
+Tue, 20 Oct 2026 08:30:12 GMT — https://collider.com/clayface-dcu-gotham-city-director-james-watkins/
 
-Summer has turned to fall, and Halloween decorations are starting to pop up everywhere, so it must be the season of the witch. That means it's the perfect time to check in with the new comedy docu-series Cassie Workman Is Witchy AF , an irreverent look at the history of black magic, executive produced by The Matrix director Lilly Wachowski and ETCH. Before this week's new episode drops, Collider is proud to exclusively present a preview sneak peek.
+Clayface isn’t just an origin story for one of Batman’s most infamous villains, but our very first look at DCU’s Gotham City . Originally penned by horror master Mike Flanagan , this body horror was adopted and adapted by director James Watkins ( Speak No Evil ) and screenwriter Hossein Amini ( Drive ) to explore the heartbreaking story behind Clayface’s gruesome transformation, and is the first feature in James Gunn and Peter Safran ’s cinematic universe to establish the world with “no mandates at all.”
 
-### Chris Pratt’s Prime Video Action Hit Officially Drops Sneak Peek Ahead of 8-Part Release [Exclusive]
-Mon, 19 Oct 2026 16:00:12 GMT — https://collider.com/chris-pratt-the-terminal-list-season-2-sneak-peek/
+### Netflix Officially Redeems One of 2026's Biggest Box Office Bombs
+Tue, 20 Oct 2026 04:42:12 GMT — https://collider.com/netflix-redeems-box-office-bomb-the-breadwinner/
 
-Chris Pratt has been booked and busy in 2026, and it all goes back to his first feature film of the year, Mercy . Pratt teamed up with Rebecca Ferguson for the AI sci-fi thriller that grossed over $50 million at the box office before becoming one of the year's most-watched movies on Prime Video . Pratt returned to box office glory thanks to his role as Mario in The Super Mario Galaxy Movie (co-starring Anya Taylor-Joy ), which was also the first film of 2026 to reach the fabled $1 billion milestone at the global box office. Near the end of November, Pratt is set to team up with Linda Cardellini for a new military thriller/action comedy, Way of the Warrior Kid , in which he stars as a Navy SEAL who teaches his young nephew to find his inner strength.
+In case the world needed a reminder that the job title 'stay at home mom' is one of the most underappreciated and undervalued careers in existence, a near dud, feel-good comedy The Breadwinner attempted to serve as a refresher. Starring Nate Bergatze and This is Us star Mandy Moore , the film captures a picture-perfect family attempting to grapple with a once-in-lifetime opportunity, and a consequent mom and dad role swap. Despite the cliché plot, depicting a father who realizes he doesn't know how to be a father after being a father for over a decade, the film earned a surprising second life on Netflix after its initially negative response.
 
-### 15 Years Later, 'Game of Thrones' Greatest Episode Is Still the Best Hour in TV History
-Mon, 19 Oct 2026 15:27:14 GMT — https://collider.com/game-of-thrones-best-episode-baelor-ned-stark-death/
+### 10 Netflix Adventure Shows Where Every Episode Is a Masterpiece
+Tue, 20 Oct 2026 04:18:12 GMT — https://collider.com/netflix-adventure-shows-every-episode-masterpiece/
 
-Seven years after its series finale, HBO's Game of Thrones remains one of television's most well-known shows and has even inspired an ever-growing franchise . When it comes to naming the flagship series' best-ever episode, every fan has an opinion, with popular choices including "The Rains of Castamere" and "Battle of the Bastards." However, Game of Thrones delivered one unforgettable episode before either of those installments .
+Netflix 's lengthy library is home to quite a few incredible adventure shows that offer viewers the chance to follow unforgettable characters, explore extraordinary worlds, and discover hidden mysteries. With boundless magical kingdoms, supernatural creatures, dangerous landscapes, and thrilling quests, the platform has quite the mighty list of stories that capture the excitement of a great adventure .
 
-### ‘Tales From the Crypt’ Publisher Officially Returns With New Valentine’s Horror [Exclusive]
-Mon, 19 Oct 2026 15:00:14 GMT — https://collider.com/tortured-hearts-2-horror-romance-release-announcement-covers/
+### Tolkien Calls This the Most Tragic Moment in The Lord of the Rings
+Tue, 20 Oct 2026 04:14:12 GMT — https://collider.com/j-r-r-tolkien-lord-of-the-rings-most-tragic-moment-gollum/
 
-Romance stories, at their core, are often sweet and ultimately satisfying looks into the development of a relationship and the ups and downs of a couple in love. When horror gets in the mix, though, things can go dangerously wrong . From the rom-com slasher Heart Eyes to the chilling Swedish vampire flick, Let the Right One In , the subgenre can swing from tender to terrifying while not losing what makes both genres so beloved. For the lovesick and heartbroken, though, EC's Tortured Hearts anthology turns love into pain with twist-filled, brutal stories from a bevy of writers across the comics world.
+The Lord of the Rings remains beloved today for its sprawling, epic take on the fantasy genre full of earnest characters and clear distinctions between good and evil. Even when there is some moral grey, J.R.R. Tolkien finds clever ways to correct his sprawling cast of iconic characters throughout the three-part novel trilogy by revealing the heart beneath.
 
-### WEBTOON Officially Unleashes a Terrifying New Villain Upon Gotham City in New DC Horror Comic
-Mon, 19 Oct 2026 13:00:14 GMT — https://collider.com/gotham-by-daylight-preview-webtoon-dc-horror-comic/
+### 26 Years Later, the Greatest Action Epic Quote Still Officially Defines the Genre
+Tue, 20 Oct 2026 04:05:12 GMT — https://collider.com/gladiator-ridley-scott-best-quote-epic-film-russell-crowe/
 
-WEBTOON had many stories to share at New York Comic Con earlier this month. The premier international webcomic platform hosted multiple panels at the annual pop culture event, offering a look at the future of some of its biggest titles and partnerships over the next year, particularly its collaborations with fellow comic giants, Marvel and DC . That includes a handful of new Marvel Comics being reworked for the episodic webtoon format, like the 2015 Spider-Gwen run and Akira Aoki 's manga adaptation of Star Wars: Rebels , as well as a pair of new stories set in Gotham City. One of those is the much-anticipated fifth season of the slice-of-life series Batman: Wayne Family Adventures , while the other, releasing today, tells a horror story centered on the average people who choose to live in the locale.
+Think of your favorite lines in action history – “I’ll be back”, “Yippee ki yay”, “This is Sparta”, and more have become landmark moments in the genre. They'll be quoted for years to come, and made the actors who said them immortal parts of cinema history. One quote, however, stands above the rest, and it comes from Ridley Scott’s 2000 Oscar winner Gladiator . One speech given by Russell Crowe was the high point of his most memorable performance, and went on to become one of the most celebrated moments in cinema. Over a quarter of a century on from the scene, it remains utterly spellbinding.
 
-### 7 Best Martial Arts Movies Released Since 2010, Ranked
-Mon, 19 Oct 2026 12:29:14 GMT — https://collider.com/the-7-best-martial-arts-movies-released-since-2010-ranked/
+### Chris Pratt's 'The Terminal List' Officially Refuses To Back Down With an Action-Packed Season 2 | Review
+Tue, 20 Oct 2026 04:00:14 GMT — https://collider.com/the-terminal-list-season-2-review-chris-pratt-prime-video/
 
-There is a particular kind of person I desperately want to watch a great martial arts movie with . Somebody who thinks the fighting is just there to interrupt the story. I want them to see two men spend an entire duel deciding whether they can bring themselves to kill each other. I want them to notice a fighter's expression when he realizes his opponent is considerably better than he expected.
+It's been four years since The Terminal List first took Prime Video by storm; since then, fans have been waiting patiently for the return of Chris Pratt 's James Reece. Last year's prequel, The Terminal List: Dark Wolf , held viewers over for a while, but the flagship series has finally returned — and brought plenty of action with it. After his life was shattered by shadowy government forces, Reece took it upon himself to avenge his family and his unit as the lone survivor of a targeted attack. While Season 1 adapted the novel of the same name by former Navy SEAL-turned-author Jack Carr , Season 2 infuses its sequel, True Believer , with timely geopolitical commentary and setup for the future that make this action-thriller more vibrant and conspiratorial than eve r.
 
