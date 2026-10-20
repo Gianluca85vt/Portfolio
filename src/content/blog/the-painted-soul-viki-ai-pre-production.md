@@ -65,9 +65,18 @@ than the release claims.
 
 There is one place to go and look. Viki put a teaser up on 13 October, on
 [its own page for the series](https://www.viki.com/videos/1273562v-trailer-1),
-and until the premiere that is the whole visual record — no press stills, no
-production gallery, no technique breakdown. A streamer with a pipeline question
-hanging over its first animated commission has put out a teaser and a synopsis.
+and that teaser plus the handout art that went out with the announcement is the
+whole visual record until the premiere. Go hunting for more and you come back
+with the same two files as everybody else. No episode stills. No production
+gallery, no named partner studio, no technique breakdown.
+
+Key art is the last place to look for an answer about technique anyway. It gets
+illustrated on its own terms, often by a different hand from the one drawing the
+show, and it is built to sell a mood at thumbnail size on a shelf of competing
+thumbnails. Series have shipped behind a beautiful poster with animation on
+threes waiting underneath it. So a streamer with a pipeline question hanging
+over its first animated commission has answered with a teaser, a synopsis and a
+poster.
 
 The gap between a studio's description of its own work and the label the
 internet puts on it runs in both directions. Amplitude shot a *Humankind 2*
