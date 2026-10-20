@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-20T15:21:51.724Z
+# Manga — harvested 2026-10-20T20:07:59.745Z
 
 ## Anime News Network
+
+### Psyren ‒ Episodes 1-3
+Tue, 20 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/review/psyren/episodes-1-3/.243032
+
+In spite of its glaring production problems, part of me still can't help but be excited to finally see <i>Psyren</i> animated, even if it's not in the most ideal state.
+
+### Live-Action Look Back Film Screens in N. American Theaters on December 30
+Tue, 20 Oct 2026 15:00:04 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/live-action-look-back-film-screens-in-n-american-theaters-on-december-30/.243034
+
+GKIDS screens film nationwide in theaters on January 15
+
+### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episodes 1-3
+Tue, 20 Oct 2026 14:30:00 -0400 — https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episodes-1-3/.243026
+
+Yes, this is about two people talking. But as they talk, they both grow and find new things to like about themselves and each other.
+
+### Murciélago TV Anime's Teaser Trailer Reveals Cast
+Tue, 20 Oct 2026 14:23:37 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/murcielago-tv-anime-teaser-trailer-reveals-cast/.243033
+
+Hitomi Ueda, Minori Suzuki, Sumire Uesaka star in January 2027 anime
+
+### Demon Lord 2099 Novels End With 6th Volume
+Tue, 20 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/demon-lord-2099-novels-end-with-6th-volume/.243031
+
+Daigo Murasaki, Kureta debuted light novels in January 2021
+
+### Even the Student Council Has Its Holes! ‒ Episodes 1-3
+Tue, 20 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episodes-1-3/.243011
+
+This is a fundamentally fun work of harem smut with a keen eye for the art of cartooning, and it uses those powers to enhance both the comedy and horniness at its heart.
+
+### Black Clover Season 2 ‒ Episodes 171-173
+Tue, 20 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/black-clover-season-2/episodes-171-173/.243007
+
+This is a pile of shonen slop served al dente, and I mean that as a compliment.
+
+### Compile Heart's Villion:Code Game Launches in West on January 26
+Tue, 20 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/daily-briefs/2026-10-20/compile-heart-villion-code-game-launches-in-west-on-january-26/.243029
+
+Idea Factory International announced on Tuesday that it will release Villion:Code, developer Compile Heart's new school RPG, in the West for Nintendo Switch...
+
+### Pandora Hearts Manga Gets 3rd Stage Musical
+Tue, 20 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/pandora-hearts-manga-gets-3rd-stage-musical/.243027
+
+<cite>PandoraHearts Retrace III -Reverse corte-</cite> runs in Tokyo in September 2027, Osaka in October 2027
+
+### Romelia War Chronicle ‒ Episodes 1-3
+Tue, 20 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/romelia-war-chronicle/episodes-1-3/.243001
+
+Nobody can deny that this woman was born to lead her men into the hellfire of battle...
+
+### Culdcept Begins Game's Trailer Reveals PC Release on October 28
+Tue, 20 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/culdcept-begins-game-trailer-reveals-pc-release-on-october-28/.243024
+
+Game debuted for Switch 2, Switch on July 16
 
 ### Overgeared ‒ Episodes 1-4
 Tue, 20 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/overgeared/episodes-1-4/.243004
 
 <i>Overgeared</i> is proving to be a surprisingly solid action comedy, and while not every joke lands, it's nailing them well enough to make this show more than the sum of its parts.
-
-### Manta Opens Platform to Independent Creators, Launches Program for Users Who Unlocked Episodes on Tapas to Rebuild Library on Platform
-Tue, 20 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/manta-opens-platform-to-independent-creators-launches-program-for-users-who-unlocked-episodes-on-/.242949
-
-New initiative aims to help independent creators reach new audiences, build fan communities
-
-### This Week in Anime - Romance Beneath the Autumn Skies
-Tue, 20 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-20/.242981
-
-There's not quite as much love in the air this fall, but Chris and Lucas do their best to find it.
-
-### Ys VIII: Lacrimosa Of Dana Game Gets Switch 2 Release on February 25
-Tue, 20 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/ys-viii-lacrimosa-of-dana-game-gets-switch-2-release-on-february-25/.243023
-
-Switch 2 version features 120 fps, co-op via GameShare
-
-### Blue Box Season 2 ‒ Episodes 1-3
-Tue, 20 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/blue-box-season-2/episodes-1-3/.243000
-
-Matsuoka is a combination of “too hot to pretend that he isn't” and “too selfish and stupid to stop pathologically weaponizing his hotness against every other person that he meets.
-
-### OceanVeil to Stream Korean-Animated Boys-Love Series One-Room TA on November 13
-Tue, 20 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/oceanveil-to-stream-korean-animated-boys-love-series-one-room-ta-on-november-13/.242976
-
-Series follows university student who confesses to graduate teaching assistant, begins dating him
-
-### The Iceblade Sorcerer Shall Rule the World Light Novels' 10th Volume Teases Finale
-Tue, 20 Oct 2026 09:00:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/the-iceblade-sorcerer-shall-rule-the-world-light-novels-10th-volume-teases-finale/.243002
-
-10th volume out on December 2
-
-### Final Fantasy Resonance Game Review
-Tue, 20 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-playstation-5-windows-and-xbox-series-x/s/final-fantasy-resonance/.242843
-
-I enjoyed every second of my time with it, and for me, <cite>Final Fantasy Resonance</cite> really is an adventure for the ages.
-
-### Crunchyroll Reveals The Detective Is Already Dead Season 2's English Dub Cast, Staff, Debut Date
-Tue, 20 Oct 2026 08:54:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/crunchyroll-reveals-the-detective-is-already-dead-season-2-english-dub-cast-staff-debut-date/.243014
-
-Crunchyroll also adds more anime music videos
-
-### Wuxiaworld Founder Buys Back Web Fiction Platform From Tapas
-Tue, 20 Oct 2026 08:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/wuxiaworld-founder-buys-back-web-fiction-platform-from-tapas/.242970
-
-Deal was finalized shortly before Kakao Ent. announced that Tapas will shut down on March 31, 2027
-
-### Haikyu!! ALL Challengers Training Simulation Mobile Game Streams New Video
-Tue, 20 Oct 2026 07:48:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/haikyu-all-challengers-training-simulation-mobile-game-streams-new-video/.243020
-
-Game's main visual also revealed
-
-### Screen, Voice Actor Hiroshi Tsuchida Dies at 54
-Tue, 20 Oct 2026 03:38:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-20/screen-voice-actor-hiroshi-tsuchida-dies-at-54/.243009
-
-Tsuchida died on October 11 due to heart failure
 
 ## Crunchyroll News
 
@@ -83,12 +83,17 @@ Mon, 19 Oct 2026 11:01:44 GMT — https://animecorner.me/cyberpunk-edgerunners-2
 
 CYBERPUNK: EDGERUNNERS 2 has revealed its global release schedule, with all episodes set to premiere at once on October 20.
 
-### Witch Hat Atelier Ranks 8th Among Manga on BookWalker for Summer 2026
-Sun, 18 Oct 2026 17:58:39 GMT — https://animecorner.me/witch-hat-atelier-ranks-8th-among-manga-on-bookwalker-for-summer-2026/
-
-Witch Hat Atelier ranked eighth among manga on BookWalker in the United States during&hellip;
-
 ## MyAnimeList News
+
+### Murciélago Reveals Main Cast, Additional Staff, Second Teaser, Winter 2027 Debut
+Tue, 20 Oct 2026 11:20:03 -0700 — https://myanimelist.net/news/74841491?_location=rss
+
+The official website for the television anime adaptation of Kana Yoshimura s Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday. The anime series will premiere on Tokyo MX, Kansai TV, and BS11 in January 2027. Cast Kuroko Koumori: Hitomi Ueda (Raise wa Tanin ga Ii) Hinako Tozakura: Minori Suzuki (Macross &Delta;) Chiyo Yanaoka: Sumire Uesaka (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) Staff Assistant Director:...
+
+### Shingeki no Kyojin Voice Actor Hiroshi Tsuchida Dies at 54
+Tue, 20 Oct 2026 08:30:59 -0700 — https://myanimelist.net/news/74840663?_location=rss
+
+Voice actor Hiroshi Tsuchida, best known for Grisha Yeager in Shingeki no Kyojin (Attack on Titan) and Daikichi Kawachi in Usagi Drop (Bunny Drop), died on October 11 of heart failure. He was 54. His agency, 81 Produce, announced the news on Tuesday, noting that the funeral was held privately for family members only, at the family&rsquo;s request. Born in Tokyo in February 1972, Tsuchida graduated from Tokyo Metropolitan Bunkyo High School and trained for two years with the Touhai theater compan...
 
 ### Light Novel Maou 2099 Concludes with 6th Volume
 Tue, 20 Oct 2026 04:38:08 -0700 — https://myanimelist.net/news/74840116?_location=rss
@@ -120,6 +125,11 @@ The official X account for the television anime adaptation of ippatu s Toratsugu
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### How Secure Is Your Access To Your Digital Titles? A Japanese Cyberattack Sounds the Alarm!
+Tue, 20 Oct 2026 20:00:57 +0000 — https://animeuknews.net/2026/10/how-secure-is-your-access-to-your-digital-titles-a-japanese-cyberattack-sounds-the-alarm/
+
+As one of Japan's biggest cloud firms is hit with a cyberattack, eBook readers are given a grim reminder of the accessability of their books in situations like this.
 
 ### Gantz:G Omnibus Review
 Tue, 20 Oct 2026 09:00:04 +0000 — https://animeuknews.net/2026/10/gantzg-omnibus-review/
