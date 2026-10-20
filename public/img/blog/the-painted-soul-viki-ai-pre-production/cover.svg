@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="The Painted Soul: the AI is in pre-production">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.62" stop-color="#3B1A22"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <g font-family="Inter, Helvetica Neue, Arial, sans-serif">
+    <text x="80" y="128" fill="#C8891B" font-size="30" font-weight="700" letter-spacing="7">MANGA &amp; ANIME</text>
+    <text x="80" y="268" fill="#FFFFFF" font-size="118" font-weight="800">PRE-</text>
+    <text x="80" y="386" fill="#FFFFFF" font-size="118" font-weight="800">PRODUCTION</text>
+    <text x="80" y="470" fill="#F2D9A4" font-size="44" font-weight="500">is where the AI credit sits</text>
+    <rect x="80" y="528" width="150" height="5" fill="#C8891B"/>
+    <text x="80" y="606" fill="#E8DCE6" font-size="33" font-weight="400">The Painted Soul &#183; Rakuten Viki &#215; Imaginus</text>
+    <text x="80" y="656" fill="#B9A6B6" font-size="29" font-weight="400">10 episodes, 21 October 2026</text>
+  </g>
+</svg>
