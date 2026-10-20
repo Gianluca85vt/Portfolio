@@ -11,6 +11,8 @@ sources:
     url: https://www.animenewsnetwork.com/news/2026-10-19/rakuten-viki-imaginus-to-debut-ai-assisted-korean-animated-series-the-painted-soul-on-october-21/.242971
   - outlet: VentureSquare
     url: https://www.venturesquare.net/en/1119041/
+  - outlet: Variety
+    url: https://variety.com/2026/tv/news/ai-assisted-animated-kdrama-the-painted-soul-rakuten-viki-launch-1236906258/
 artistView:
   take: "A press release that says AI touched the concept and the storytelling has told you where the risk was acceptable. Pre-production is the cheapest place in any pipeline to be wrong, because being wrong there costs a conversation and being wrong in animation costs the schedule. What nobody has said is how the ten episodes were made, and that is the part I would want on the record."
   works:
@@ -60,6 +62,12 @@ threes reads nothing like cel-shaded 3D, and a viewer clocks the difference in
 four seconds even if they could not name it. Headlines have already compressed
 all of this into "AI-assisted Korean-animated series," which is a good deal more
 than the release claims.
+
+There is one place to go and look. Viki put a teaser up on 13 October, on
+[its own page for the series](https://www.viki.com/videos/1273562v-trailer-1),
+and until the premiere that is the whole visual record — no press stills, no
+production gallery, no technique breakdown. A streamer with a pipeline question
+hanging over its first animated commission has put out a teaser and a synopsis.
 
 The gap between a studio's description of its own work and the label the
 internet puts on it runs in both directions. Amplitude shot a *Humankind 2*

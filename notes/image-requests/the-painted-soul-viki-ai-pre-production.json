@@ -1,0 +1,7 @@
+{
+  "slug": "the-painted-soul-viki-ai-pre-production",
+  "urls": [],
+  "credit": "Imaginus / Rakuten Viki",
+  "comparison": false,
+  "note": "Artwork searched again on 20 October against Gianluca's revision request, and no direct image URL could be verified from this sandbox. What the search did establish, so nobody repeats it: the official assets exist in three places and all three are unreachable here. (1) The PR Newswire release of 9 October, id 302903505, syndicated at morningstar.com/news/pr-newswire/20261009sf67796 — wire releases carry their multimedia on mma.prnewswire.com, but that asset id is an opaque hash and cannot be derived. (2) viki.com/videos/1273562v-trailer-1, the official trailer page, and viki.com/tv/41671c-the-painted-soul, the series page with the key art; Viki's CDN paths are hashed. (3) Rakuten's own press centre, which states it sends HD images on request for editorial use — that is the one route that would actually produce a licensed still, and it needs a human to ask. prnewswire.com, viki.com, imaginus.co.kr, rakuteninternational.com, youtube.com and i.ytimg.com all return 403 at the proxy or fail DNS, so none of this can be resolved from a scheduled run. No steamAppId: not a game. No youtubeId: the teaser went up on Viki's own site on 13 October and on Viki's X account on 12 October, and no YouTube upload is indexed anywhere, so there is no id to confirm and none has been guessed. DO NOT PUBLISH on the SVG cover. Real artwork is still outstanding and this is the second run to hit the same wall."
+}
