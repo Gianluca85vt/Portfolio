@@ -28,3 +28,7 @@ To finish: get the `mma.prnewswire.com/media/<id>/...jpg` asset id off the 9
 October release, or the key-art URL off Viki's series page, into
 `notes/image-requests/the-painted-soul-viki-ai-pre-production.json`. Cover is
 still the drawn SVG until then.
+
+## 2026-10-20T14:19:16.268Z
+
+Search for and artwork
