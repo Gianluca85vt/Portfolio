@@ -3,7 +3,7 @@ title: "Wildwood: the longest stop-motion film ever made"
 date: 2026-10-21
 category: Film & TV
 excerpt: Laika's Wildwood runs 131 minutes and opens 23 October. Critics agree the craft lands. The split is over the story, and the schedule explains why.
-cover: /img/blog/wildwood-longest-stop-motion-131-minutes/cover.svg
+cover: /img/blog/wildwood-longest-stop-motion-131-minutes/shot-01.jpg
 sources:
   - outlet: Variety
     url: https://variety.com/2026/film/reviews/wildwood-review-1236908019/
