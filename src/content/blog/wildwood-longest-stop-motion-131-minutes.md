@@ -20,7 +20,6 @@ artistView:
     - "Animation: reviewers call the flight work astonishing in a medium where a bird in the air means a rig holding a puppet still between exposures."
   misses:
     - "Story structure: the complaint across the split reviews is pacing and familiarity, which is what happens when the board has to be frozen before a two-year shoot begins."
-draft: true
 ---
 
 Wildwood opens in American cinemas this Friday, 23 October, after premiering at
