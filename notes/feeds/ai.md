@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-21T15:36:35.944Z
+# AI — harvested 2026-10-21T20:21:16.394Z
 
 ## OpenAI
+
+### How AT&T is rethinking in-house legal work with OpenAI
+Wed, 21 Oct 2026 17:00:00 GMT — https://openai.com/index/att-legal
+
+AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
 
 ### OpenAI models are coming to Google Cloud
 Wed, 21 Oct 2026 12:00:00 GMT — https://openai.com/index/openai-models-google-cloud
@@ -27,6 +32,11 @@ Wed, 21 Oct 2026 07:00:00 GMT — https://openai.com/index/building-chatgpt-ad-s
 
 Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
 
+### Democratic governance of frontier AI, part II: Empowering cyber defenders
+Wed, 21 Oct 2026 00:00:00 GMT — https://openai.com/index/empowering-cyber-defenders
+
+OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
+
 ### Franchisee reconciles cash in 94% less time with ChatGPT Work
 Tue, 20 Oct 2026 10:00:00 GMT — https://openai.com/index/ted-taylor-restaurant
 
@@ -44,11 +54,17 @@ OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life science
 
 ## Hugging Face
 
+### NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required
+Wed, 21 Oct 2026 18:26:30 GMT — https://huggingface.co/blog/nvidia/kumo-relational
+
+### How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications
+Wed, 21 Oct 2026 17:35:36 GMT — https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization
+
+### Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.
+Wed, 21 Oct 2026 16:04:43 GMT — https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
+
 ### Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
 Wed, 21 Oct 2026 14:58:18 GMT — https://huggingface.co/blog/ibm-granite/granite-speech-5
-
-### NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability
-Wed, 21 Oct 2026 12:51:24 GMT — https://huggingface.co/blog/nvidia/kumo-forecast
 
 ### FairStress: A deeper evaluation of fairness in LLM decision-making
 Tue, 20 Oct 2026 16:09:19 GMT — https://huggingface.co/blog/allenai/fairstress
