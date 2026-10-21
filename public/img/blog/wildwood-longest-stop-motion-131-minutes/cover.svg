@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Wildwood: 131 minutes, the longest stop-motion feature">
+  <defs>
+    <linearGradient id="bgWL" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#241A45"/>
+      <stop offset="100%" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgWL)"/>
+
+  <!-- a film strip: one frame shot per exposure -->
+  <g opacity="0.22">
+    <rect x="0" y="690" width="1200" height="150" fill="#000000"/>
+    <g fill="#FFFFFF" fill-opacity="0.5">
+      <rect x="30" y="706" width="26" height="22" rx="4"/>
+      <rect x="130" y="706" width="26" height="22" rx="4"/>
+      <rect x="230" y="706" width="26" height="22" rx="4"/>
+      <rect x="330" y="706" width="26" height="22" rx="4"/>
+      <rect x="430" y="706" width="26" height="22" rx="4"/>
+      <rect x="530" y="706" width="26" height="22" rx="4"/>
+      <rect x="630" y="706" width="26" height="22" rx="4"/>
+      <rect x="730" y="706" width="26" height="22" rx="4"/>
+      <rect x="830" y="706" width="26" height="22" rx="4"/>
+      <rect x="930" y="706" width="26" height="22" rx="4"/>
+      <rect x="1030" y="706" width="26" height="22" rx="4"/>
+      <rect x="1130" y="706" width="26" height="22" rx="4"/>
+      <rect x="30" y="802" width="26" height="22" rx="4"/>
+      <rect x="130" y="802" width="26" height="22" rx="4"/>
+      <rect x="230" y="802" width="26" height="22" rx="4"/>
+      <rect x="330" y="802" width="26" height="22" rx="4"/>
+      <rect x="430" y="802" width="26" height="22" rx="4"/>
+      <rect x="530" y="802" width="26" height="22" rx="4"/>
+      <rect x="630" y="802" width="26" height="22" rx="4"/>
+      <rect x="730" y="802" width="26" height="22" rx="4"/>
+      <rect x="830" y="802" width="26" height="22" rx="4"/>
+      <rect x="930" y="802" width="26" height="22" rx="4"/>
+      <rect x="1030" y="802" width="26" height="22" rx="4"/>
+      <rect x="1130" y="802" width="26" height="22" rx="4"/>
+    </g>
+  </g>
+
+  <text x="80" y="170" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#C9B8FF" letter-spacing="6">LAIKA · WILDWOOD</text>
+
+  <text x="80" y="360" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">131 min</text>
+
+  <text x="80" y="440" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#FFFFFF" fill-opacity="0.92">the longest stop-motion feature ever released</text>
+
+  <text x="80" y="530" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#C9B8FF">about 188,000 frames, shot one at a time</text>
+  <text x="80" y="590" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#C9B8FF">roughly 3 seconds per animator, per week</text>
+</svg>
