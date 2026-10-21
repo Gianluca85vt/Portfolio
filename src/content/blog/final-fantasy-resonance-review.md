@@ -41,7 +41,6 @@ artistView:
   misses:
     - "Pacing: reviewers across the whole range of scores land on a dry story, the high ones included. An arc written for episodic delivery carries a rhythm that one 25-hour purchase exposes."
     - "Environments: HD-2D dioramas read beautifully in stills and flatten the moment the camera cannot orbit. Nothing in the footage suggests Resonance solves that. It works inside the limit instead."
-draft: true
 ---
 
 Nine scored verdicts are in for Final Fantasy Resonance, a day before it
