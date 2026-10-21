@@ -19,7 +19,6 @@ artistView:
     - "Production design: putting the AI work at concept and story keeps it upstream of every irreversible decision. Nothing generated there has to survive into a frame, which is the one place in a ten-episode schedule where a bad idea is still free."
   misses:
     - "Pipeline: the release names the director and the studio and stops. Whether the series is 2D, cel-shaded 3D, or a mix is unstated, and for an animated show the technique is the production. One line would have answered it."
-draft: true
 ---
 
 The sentence worth reading twice sits a long way down a press release dated
