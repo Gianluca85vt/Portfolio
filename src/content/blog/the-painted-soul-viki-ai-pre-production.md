@@ -3,7 +3,7 @@ title: "The Painted Soul: the AI is in pre-production"
 date: 2026-10-20
 category: Manga
 excerpt: Rakuten Viki's animated K-drama premieres 21 October. Its press release puts AI in the concept and the storytelling, and says nothing about the animation.
-cover: /img/blog/the-painted-soul-viki-ai-pre-production/cover.svg
+cover: /img/blog/the-painted-soul-viki-ai-pre-production/shot-01.jpg
 sources:
   - outlet: PR Newswire (Rakuten Viki release)
     url: https://www.prnewswire.com/news-releases/rakuten-viki-and-imaginus-to-co-produce-new-animated-k-drama-the-painted-soul-302903505.html
@@ -42,6 +42,11 @@ summary going around came from the release and how much came from somebody
 watching the teaser.
 
 ## Where the AI sits
+
+<figure>
+  <img src="/img/blog/the-painted-soul-viki-ai-pre-production/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Shin Yun-bok, <em>A Beautiful Woman</em>, c. 1800 — public domain, via Wikimedia Commons. A stand-in: the production has released only a teaser and a poster.</figcaption>
+</figure>
 
 Concept and storytelling is the front of the pipeline, and it is the part of a
 production where being wrong is survivable. A character who does not work on a
