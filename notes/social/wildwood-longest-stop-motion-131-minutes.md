@@ -29,8 +29,8 @@ footage.
 
 Which is exactly where the reviews have landed. Craft praise is unanimous —
 Empire calls the animation astonishing, Variety calls it a spectacular formal
-achievement. The split is over pacing and familiarity, with IndieWire and the
-Associated Press both arguing the technology outruns the story. A CG feature
+achievement. The split is over pacing and familiarity, with IndieWire and a
+syndicated wire review both arguing the technology outruns the story. A CG feature
 screens its reels, decides act two drags, and re-boards it. Twice, if needed.
 Laika got one go at that call, in pre-production, and then spent two years
 committing to it.

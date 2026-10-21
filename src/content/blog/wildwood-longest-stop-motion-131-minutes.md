@@ -91,7 +91,7 @@ story elements abound.
 
 Then the split. IndieWire's reading is that the film is the antidote to the worst
 trends in mainstream animation and still gets lost somewhere between reality and
-imagination, lacking the magic of Laika's best. The Associated Press went
+imagination, lacking the magic of Laika's best. A syndicated wire review went
 further, arguing the technology outstrips the story and that enormously
 labour-intensive world-building has been spent on only slightly tweaking fairy
 tale conventions.
@@ -105,7 +105,8 @@ reviews.
 Worth flagging, because I quoted some of them myself. Back in August the
 reporting around the trailer had Wildwood at
 [120 built sets and 231 practical puppets](/blog/wildwood-laika-120-practical-sets/).
-The AP's review this month cites 132 sets and 230 hand-controlled puppets. Nobody
+A syndicated wire review this month cites 132 sets and 230 hand-controlled
+puppets. Nobody
 is lying; set counts move as locations get split or combined, and "puppet" means
 different things depending on whether you count the stunt doubles and
 scale variants. I have not found a figure from Laika itself that settles it, so
