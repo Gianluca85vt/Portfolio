@@ -37,7 +37,7 @@ thing on the sheet.
     <img src="/img/blog/wildwood-longest-stop-motion-131-minutes/video-thumb.jpg" loading="lazy" width="1440" height="810" alt="Still from Laika's Wildwood featurette" />
     <span class="play" aria-hidden="true"></span>
   </button>
-  <figcaption>Laika's own behind-the-scenes featurette on the Avian Principality, the bird realm. The studio has put out several of these; this is the one that spends most of its time on how the thing was built.</figcaption>
+  <figcaption>Laika's own behind-the-scenes featurette on the Avian Principality, the bird realm, and the source of the frames illustrating this piece. The studio has put out several of these; this is the one that spends most of its time on how the thing was built.</figcaption>
 </figure>
 
 ## What 131 minutes of stop-motion costs
