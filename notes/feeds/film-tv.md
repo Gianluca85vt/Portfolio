@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-20T20:07:59.745Z
+# Film & TV — harvested 2026-10-21T09:37:59.687Z
 
 ## Variety
 
-### Keanu Reeves in Talks to Star in James Wan s ‘The Gangster, The Cop, The Devil’ at Paramount
-Tue, 20 Oct 2026 19:48:02 +0000 — https://variety.com/2026/film/news/keanu-reeves-james-wan-gangster-cop-devil-paramount-1236917945/
+### ‘Industry,’ ‘Doctor Who’ Producer Jane Tranter on Resisting Trends, Centering Women and Telling Stories About ‘People Being Accepted for Who They Choose to Be’
+Wed, 21 Oct 2026 08:38:12 +0000 — https://variety.com/2026/tv/global/jane-tranter-mia-rome-1236918447/
 
-Keanu Reeves is in talks to team with James Wan for the filmmaker s latest project, “The Gangster, The Cop, The Devil” at Paramount Pictures. The Paramount Pictures movie reimagines the 2019 Korean action-crime thriller starring Don Lee (also known as Ma Dong-seok), who is attached to reprise his role opposite Reeves. The original film — [ ]
+“Industry” and “Doctor Who” producer Jane Tranter has made a career of going against the grain, and at Rome’s MIA Market on Tuesday, she told European producers that the only way to survive in uncertain times is to “go in the opposite direction of everyone else’s traffic.” “If everyone else is zigging, you zag. Because [ ]
 
-### Andy Cohen Celebrates 20 Years of ‘Real Housewives’ With New Book Featuring 600 Never-Before-Seen Photos and Behind-the-Scenes Stories
-Tue, 20 Oct 2026 19:44:15 +0000 — https://variety.com/2026/shopping/news/andy-cohen-bravo-book-real-housewives-20-year-anniversary-1236917946/
+### ‘Father’s House,’ Starring David Dencik and Trine-Dyrholm, Picked Up by DR Sales Ahead of Tallinn Competition
+Wed, 21 Oct 2026 07:19:28 +0000 — https://variety.com/2026/film/global/trine-dyrholm-david-dencik-dr-sales-religious-sect-1236918444/
 
-Andy Cohen has spent two decades presiding over some of reality television&#x2019;s most memorable confrontations. Now, he&#x2019;s opening up his personal archives. The Bravo host and executive producer is marking the 20th anniversary of the &#x201C;Real Housewives&#x201D; franchise with a new book, &#x201C;Andy&#x2019;s Bravo Scrapbook: Twenty Years Behind the Scenes of the Real Housewives and [ ]
+Copenhagen-based DR Sales, the international distributor of Oscar-winning doc “Mr Nobody Against Putin” and Sundance winner “A New Kind of Wilderness, has boarded Denmark’s “Father’s House,” starring David Dencik (“No Time to Die,” “The Chestnut Man”) and Trine Dyrholm (“The Danish Woman,” “Queen of Hearts”). Selected for the Tallinn Black Nights Film Festival international documentary [ ]
 
-### Dwayne Johnson Transforms Into a 70-Year-Old Man in Shocking Lizard Music Set Photos
-Tue, 20 Oct 2026 19:13:56 +0000 — https://variety.com/2026/film/news/dwayne-johnson-70-year-old-man-lizard-music-photos-1236917894/
+### Pirates of the Caribbean Secret Cinema Immersive Stage Show Casts George Maguire as Jack Sparrow, Extends London Run
+Wed, 21 Oct 2026 07:00:00 +0000 — https://variety.com/2026/theater/news/pirates-of-the-caribbean-secret-cinema-jack-sparrow-1236918148/
 
-Move over, Mark Kerr, and make way for the Chicken Man. Dwayne Johnson was spotted in Brooklyn on Tuesday shooting his new movie Lizard Music from director Benny Safdie. Like with his previous collaboration with the Uncut Gems director, 2025 s The Smashing Machine, Johnson has gone through a serious prosthetic transformation. This time around, instead [ ]
+Olivier winner George Maguire will play Captain Jack Sparrow in “Disney’s Pirates of the Caribbean: The Immersive Adventure,” the London stage production from Secret Cinema and TodayTix. Phil Daniels, known for “Quadrophenia,” “EastEnders” and Blur’s “Parklife,” will play Captain Barbossa. Lily Blunsom is Elizabeth Swann, Harrison Wilde is Will Turner and Gleanne Purcell-Brown is Anamaria. [ ]
 
-### Lioness Season 3 Closes With 9.7 Million Viewers in Seven Days, a Series High and the No. 5 Paramount+ Finale Ever
-Tue, 20 Oct 2026 19:00:00 +0000 — https://variety.com/2026/tv/news/lioness-season-3-finale-ratings-viewers-1236917872/
+### Thai Pop Star Jeff Satur Signs With Universal Music Southeast Asia, Sets 2027 Album and World Tour
+Wed, 21 Oct 2026 06:44:50 +0000 — https://variety.com/2026/music/news/thai-pop-star-jeff-satur-universal-music-1236918438/
 
-Lioness showed strong audience growth throughout its third season and ended on a high note: The finale reached 9.7 million viewers in its first seven days of availability. That total marks not only the most-watched episode in the series history, but the No. 5 most-watched finale of all time compared to other Paramount+ originals. Additionally, [ ]
+Thai singer-songwriter and actor Jeff Satur, whose music has passed 2 billion streams, has signed with Universal Music Southeast Asia (UM SEA), the regional division of Universal Music Group, as he pushes to take T-pop to a global audience. The first major release under the new deal will be Satur’s second studio album, slated for [ ]
 
-### Elizabeth Holmes Mania: You Can See Everything Drives 186% Viewership Spike for Amanda Seyfried s The Dropout (EXCLUSIVE)
-Tue, 20 Oct 2026 19:00:00 +0000 — https://variety.com/2026/film/news/you-can-see-everything-boosts-dropout-ratings-hulu-seyfried-1236917676/
+### Julia Stiles Bawled Before Heath Ledger Tribute, Breaks Down ‘10 Things I Hate About You Cast Reunion on Dancing With the Stars
+Wed, 21 Oct 2026 04:05:00 +0000 — https://variety.com/2026/film/news/julia-stiles-10-things-i-hate-about-you-reunion-heath-ledger-tribute-dwts-1236916762/
 
-The Dropout, Hulu s 2022 limited series in which Amanda Seyfried plays Elizabeth Holmes, has seen a massive audience spike due to the buzz surrounding A24 s new Holmes documentary You Can See Everything. Viewership of The Dropout jumped by 186% in September compared to the month before, driven by the Sept. 6 announcement that You Can [ ]
+Julia Stiles paid tribute to the late Heath Ledger on Tuesday night s episode of Dancing With the Stars. During Dedication Night, she performed a contemporary routine with her partner Ezra Sosa to Can t Take My Eyes Off You ; in the 1999 film 10 Things I Hate About You, Ledger s character, Patrick, sang the Frankie Valli [ ]
 
-### Robert Downey Jr. Signs On as Pitchman for Snap s $2,200 Specs AR Glasses
-Tue, 20 Oct 2026 18:52:39 +0000 — https://variety.com/2026/digital/news/robert-downey-jr-pitchman-snap-specs-ar-glasses-1236917815/
+### ‘Young Sheldon’ Star Iain Armitage Says He Was the ‘Most Happy’ About the Show Ending: I Wasn’t ‘Going Home and Crying All Day’
+Wed, 21 Oct 2026 04:02:29 +0000 — https://variety.com/2026/tv/news/young-sheldon-iain-armitage-show-ending-1236918379/
 
-Robert Downey Jr., whose famous portrayal of Marvel s Iron Man had him decked out with a variety of high-tech gadgetry, is donning Snap s Specs augmented-reality glasses in a new role as lead spokesman for the devices. Downey Jr. s partnership with Specs kicked off with a collection of original episodes featuring him showing off the tech [ ]
+“Young Sheldon” actor Iain Armitage might’ve become a star thanks to the hit CBS sitcom, but when it came time to call it quits on the seven-season series in 2024, he admits he was the cast member “the most happy about the show ending.” In an interview featured in Jessica Radloff’s oral history, “Young Sheldon: [ ]
 
-### Starz Gets Back on Verizon Fios After New Carriage Pact
-Tue, 20 Oct 2026 18:31:00 +0000 — https://variety.com/2026/tv/news/starz-verizon-fios-carriage-pact-1236917862/
+### Leica and Formula 1 Team Up on $9,950 Camera Inspired by the Racetrack (Featuring Exclusive F1 Photo Setting)
+Wed, 21 Oct 2026 03:00:00 +0000 — https://variety.com/2026/shopping/news/leica-formula-1-camera-shop-online-1236916678/
 
-The cable network Starz and its ancillary properties are available once again on Verizon s Fios service following an interruption in service due to a battle over the terms of a new contract. Starz said on Tuesday that all of its networks and on-demand services were back on Verizon. The Starz services went dark in late [ ]
+Formula 1 s luxury ambitions are extending to the camera business. Leica is the latest high-end brand to get in on the sport s growing cultural cachet, teaming up with Formula 1 on a new licensing deal that will see the German camera maker release a $9,950 special-edition camera inspired by the racetrack. The Leica Q3 43 [ ]
 
-### Marc Jacobs and Disney Reunite for Mickey Mouse Ski Collection, Featuring Retro Winter Gear for Kids
-Tue, 20 Oct 2026 18:30:52 +0000 — https://variety.com/2026/shopping/news/marc-jacobs-disney-reunite-mickey-mouse-ski-collection-shop-1236917865/
+### ‘Billions’ and ‘John Wick 3’ Star Asia Kate Dillon Says Acting Jobs Have ‘Diminished’ and They re in Need of Customer Service Work
+Wed, 21 Oct 2026 02:37:12 +0000 — https://variety.com/2026/tv/news/billions-john-wick-3-asia-kate-dillon-jobs-diminished-customer-service-1236918269/
 
-Marc Jacobs is taking Mickey Mouse to the mountains for his latest Disney collaboration, a 20-piece childrenswear collection that borrows from the aesthetics of vintage ski clubs. The collection, which launches Tuesday, Oct. 20, features puffer jackets, sweatshirts, T-shirts and accessories covered in retro mountain illustrations, ski passes and playful Mickey Mouse graphics. There are [ ]
+Asia Kate Dillon, who starred in shows like “Orange Is the New Black” and “Billions,” took to social media on Tuesday to share that they are looking for service work after their acting work “has all but diminished” after eleven years in the industry. Dillon began their statement by going through previous service jobs they’ve [ ]
 
-### Lionsgate Stock Jumps on Report Legendary Entertainment Has Submitted New Takeover Offer
-Tue, 20 Oct 2026 18:10:08 +0000 — https://variety.com/2026/film/news/lionsgate-stock-legendary-entertainment-acquisition-offer-1236917824/
+### Park Min-young, Yook Sung-jae, Go Soo Lead Prime Video Korean Office Romance Nine to Six
+Wed, 21 Oct 2026 02:18:57 +0000 — https://variety.com/2026/tv/news/park-min-young-yook-sung-jae-prime-video-korean-office-romance-nine-to-six-1236918266/
 
-Is Lionsgate a long-rumored acquisition target going to find a buyer this time? Production company Legendary Entertainment has revived its bid to acquire Lionsgate, according to a Bloomberg report. Shares of Lionsgate popped more than 15% Tuesday on the report, pushing the company s market cap to $3.6 billion. Legendary submitted a takeover offer [ ]
+Park Min-young, the star of “Marry My Husband,” will lead “Nine to Six,” a Korean office romance. Yook Sung-jae of K-pop group BtoB and Go Soo co-star in the 12-episode series. Park plays Kang Yi-ji, a senior manager on the legal team at a company called Chronic Motors. Logical and driven, Yi-ji has carved out [ ]
 
-### David Fincher Cut 60 Pages of Tarantino s Cliff Booth Script: The First Draft Was 230 Pages. It Was Essentially Two Movies
-Tue, 20 Oct 2026 18:04:05 +0000 — https://variety.com/2026/film/news/david-fincher-cut-tarantino-cliff-booth-script-60-pages-1236917825/
+### Netflix Chiefs Concede That Slowdown in U.S. Viewing Sparked the Content Leadership Shakeup: We re Focusing on Execution, Ted Sarandos Says
+Wed, 21 Oct 2026 00:40:11 +0000 — https://variety.com/2026/tv/news/netflix-slowdown-u-s-viewing-shakeup-bela-bajaria-dan-lin-1236918124/
 
-David Fincher cut roughly 60 pages from Quentin Tarantino s original screenplay for “The Further Mis-Adventures of Cliff Booth,” the upcoming “Once Upon a Time… in Hollywood” follow-up starring Brad Pitt. “The first draft I read was 230 pages. It was essentially two movies,” Fincher told Empire in a new joint interview with Tarantino. The film, [ ]
+Netflix co-CEOs Ted Sarandos and Greg Peters nodded to slowdown in U.S. viewing and ad sales that spurred the radical shake-up of the streamer s content leadership during Tuesday s conversation with Wall Street analysts after its third-quarter earnings release. Sarandos and Peters had to address the situation that led to the dramatic decision to oust chief [ ]
 
 ## The Hollywood Reporter
 
-### Broadway Box Office: Julia Louis-Dreyfus Other Desert Cities, Billy Crystal s 860, A Few Good Men See Strong Momentum
-Tue, 20 Oct 2026 20:07:13 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/broadway-box-office-julia-louis-dreyfus-other-desert-cities-billy-crystal-1236736628/
+### Hiam Abbass to Receive European Achievement in World Cinema Award
+Wed, 21 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/hiam-abbass-to-receive-european-achievement-in-world-cinema-award-1236737102/
 
-Billy Crystal’s solo show '860' brought in an impressive $1.3 million across seven shows.
+The Palestinian actress, whose credits include 'Paradise Now,' 'The Visitor,' 'Succession' and 'Palestine 36,' will be honored at the 39th European Film Awards in Athens in January.
 
-### American Horror Story Scores Season 14 Renewal at FX
-Tue, 20 Oct 2026 20:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/american-horror-story-renewed-season-14-fx-1236736606/
+### Camel Racing, a Sect and Workplace Democracy: Tallinn Fest Sets Docs Lineup, Special Screenings
+Wed, 21 Oct 2026 07:57:41 +0000 — https://www.hollywoodreporter.com/movies/movie-news/poff-2026-tallinn-black-nights-docs-special-screenings-program-1236736652/
 
-The pickup comes after a strong ratings performance from the show's current run.
+The 30th edition of the Estonian festival also unveils Stephen Frears' 'Dangerous Liaisons' and Tim Blake Nelson's 'The Life and Deaths of Wilson Shedd' among its latest program additions.
 
-### Publicist Emily Vespa Exits Kovert Creative and Joins Birch Public Relations
-Tue, 20 Oct 2026 19:34:54 +0000 — https://www.hollywoodreporter.com/news/general-news/birch-public-relations-emily-vespa-client-list-1236735833/
+### Great Lakes Creative Producers Lab Unveils Cohort of 15 Film Producers From Seven African Countries
+Wed, 21 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/great-lakes-creative-producers-lab-africa-film-producers-2026-1236736677/
 
-Her talent roster includes D’Pharaoh Woon-A-Tai, Adam Pally, Ed Weeks, Zarna Garg, Brandon Kyle Goodman and Fiona Dourif.
+"The strongest industry will be built by producers who work across borders, and the Great Lakes Creative Producers Lab is a catalyst for that."
 
-### Josh Hartnett on Finding (and Shedding) His Below Accent, and the Car Accident That Nearly Derailed Production
-Tue, 20 Oct 2026 19:31:32 +0000 — https://www.hollywoodreporter.com/tv/tv-features/josh-hartnett-below-interview-widows-bay-car-crash-season-2-1236730830/
+### James Bond Auction: Daniel Craig s Skyfall Suit, Ana de Armas No Time to Die Dress Hitting Block
+Wed, 21 Oct 2026 02:50:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-bond-auction-daniel-craig-skyfall-suit-ana-de-armas-1236737020/
 
-Hartnett tells The Hollywood Reporter the 'Widow's Bay' comparisons created "a little bit of a scary situation," but then he saw the trailer: "Oh, thank God."
+Propstore's 007 online auction features 400 lots that span every single film from the iconic franchise.
 
-### Keanu Reeves in Talks to Star in James Wan s The Gangster, The Cop, The Devil (Exclusive)
-Tue, 20 Oct 2026 19:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/keanu-reeves-james-wan-the-gangster-the-cop-the-devil-1236736550/
+### Julia Stiles Reunites With 10 Things I Hate About You Cast to Honor Heath Ledger on DWTS
+Wed, 21 Oct 2026 02:43:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/julia-stiles-reunites-10-things-i-hate-about-you-cast-heath-ledger-dwts-1236737039/
 
-Paramount Pictures is reimagining the 2019 Korean action crime thriller.
+Stiles and her pro partner Ezra Sosa danced to "Can't Take My Eyes Off You" during Tuesday's show.
 
-### David Fincher Says He Cut 60 Pages from Quentin Tarantino s Cliff Booth Script
-Tue, 20 Oct 2026 19:26:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-fincher-quentin-tarantino-cliff-booth-netflix-1236736502/
+### Tyler Cameron Reveals He s Going to Be a Girl Dad on Dancing With the Stars
+Wed, 21 Oct 2026 02:31:48 +0000 — https://www.hollywoodreporter.com/tv/tv-news/tyler-cameron-tate-madden-pregnant-dancing-with-the-stars-1236737022/
 
-The director wasn't shy about discarding some of Tarantino's work on Netflix's 'Once Upon a Time in Hollywood' sequel.
+The reality star and his fiancée, Tate Madden, announced on Tuesday night's episode that they were expecting their first child.
 
-### The Diplomat Team on the Real World Inspirations for Season 4 s Authoritarian Behavior and What s Next After Dramatic G7 Scene
-Tue, 20 Oct 2026 19:22:41 +0000 — https://www.hollywoodreporter.com/tv/tv-features/the-diplomat-season-four-ending-explained-interviews-1236736452/
+### F1 United States GP Guide: Last-Minute Race Tickets and Austin s Hottest New Openings
+Wed, 21 Oct 2026 01:49:21 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/f1-united-states-grand-prix-2026-tickets-austin-hotels-food-1236736738/
 
-The showrunner and cast speak about what last-minute moves mean for the couples at the heart of the Netflix series, which has yet to be renewed for season five, and how much an early-season scare affects foreign-policy decisions.
+Where to stay, what to eat and how to still secure tickets to race weekend.
 
-### Dan Lin Was Fired for Being Dan Lin
-Tue, 20 Oct 2026 18:54:34 +0000 — https://www.hollywoodreporter.com/movies/movie-news/why-netflix-fired-dan-lin-1236736313/
+### Comedy Trio Please Don t Destroy Take Their Act to J.Crew for New Suiting Campaign
+Wed, 21 Oct 2026 00:47:01 +0000 — https://www.hollywoodreporter.com/lifestyle/style/comedy-trio-please-dont-destroy-jcrew-suit-campaign-1236736846/
 
-Netflix wanted a blunt communicator who could rightsize budgets. Until it didn't.
+The campaign makes use of their talents beyond being just pretty faces: "We take suiting seriously" pairs still photography shot by Luke Gilford with a comedy short penned by the trio and Brady Lees.
 
-### Amazon MGM Sets Julie Rapaport, Alana Mayo as Co-Heads of Film, Production and Development
-Tue, 20 Oct 2026 18:53:28 +0000 — https://www.hollywoodreporter.com/business/business-news/amazon-mgm-studios-julie-rapaport-alana-mayo-1236736458/
+### Lance Oppenheim Bribed Robert Pattinson With 200 Zyn Canisters to Star in Primetime
+Wed, 21 Oct 2026 00:15:51 +0000 — https://www.hollywoodreporter.com/movies/movie-news/lance-oppenheim-bribed-robert-pattinson-zyn-star-primetime-1236736866/
 
-Each will oversee half of the studio's annual 30-feature slate and report to film boss Courtenay Valenti in a reorganization.
+The actor eventually agreed to portray Chris Hansen in the film, which chronicles the intense production, ethical dilemmas and media sensationalism behind 'To Catch a Predator.'
 
-### The Secret Lives of Mormon Wives: Orange County Trailer Sets the Stage for a New MomTok
-Tue, 20 Oct 2026 18:45:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/watch-secret-lives-mormon-wives-orange-county-trailer-1236736456/
+### Disney+ Sets Japanese Horror Anthology Series ‘Night Tales Club’ With Kiyoshi Kurosawa, Takayuki Yamada
+Wed, 21 Oct 2026 00:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/disney-japanese-horror-series-night-tales-club-1236735982/
 
-The spinoff stars Jen Affleck, Aspyn Ovard, Ashleigh Pease, Avery Woods, Bobbi Althoff, Jordan McClanahan, Madison Bontempo, McCall DaPron and Salomé Andre.
+The six-part supernatural mystery series, based on stories by Japanese horror author Ichi Sawamura, will feature episodes directed by the filmmakers behind ‘Cure,’ ‘Ju-on’ and ‘Gannibal.’
 
 ## Deadline
 
-### American Horror Story Renewed For Season 14 At FX
-Tue, 20 Oct 2026 20:00:00 +0000 — https://deadline.com/2026/10/american-horror-story-renewed-season-14-fx-1237168879/
+### Hiam Abbass To Receive Honorary European Film Academy Award
+Wed, 21 Oct 2026 09:24:25 +0000 — https://deadline.com/2026/10/hiam-abbass-honorary-european-film-academy-award-1237169520/
 
-There is more American Horror Story in our future. A week ahead of the Season 13 finale, FX announced it has renewed Ryan Murphy and Brad Falchuk s anthology series for a 14th season. The renewal follows AHS: 13 s biggest streaming premiere ever. The debut episode landed on Nielsen s Streaming Top 10 charts and repped Murphy s [ ]
+Hiam Abbass is set to receive the European Film Academy’s honorary award for European Achievement in World Cinema. Abbass will be handed the award at the 39th European Film Awards on 16 January 2027 in Athens. She will be the ceremony’s honorary guest. Abbass was born in Nazareth, the child of a Palestinian family that [ ]
 
-### In NBA First, Atlanta Hawks Full Regular Season To Stream On Prime Video In Parallel With Local TV
-Tue, 20 Oct 2026 19:46:10 +0000 — https://deadline.com/2026/10/nba-atlanta-hawks-full-regular-season-streaming-on-prime-video-1237168885/
+### Kari Skogland To Direct Vigilante Crime Thriller ‘Vigilant’ From Severance Star Ólafur Darri Ólafsson
+Wed, 21 Oct 2026 09:03:12 +0000 — https://deadline.com/2026/10/kari-skogland-direct-vigilant-series-olafur-darri-olafsson-1237169507/
 
-In a first for an NBA team, the Atlanta Hawks will stream their full regular season (apart from nationally broadcast games) on Amazon Prime Video in simulcasts with local broadcast TV. The streamer will have the digital exclusive for 74 games of the full 82 on the schedule, with local broadcast group Gray Media airing [ ]
+EXCLUSIVE: Kari Skogland will direct Vigilant, a vigilante crime thriller based on a Skúli Sigurðsson novel and adapted for TV by Severance star Ólafur Darri Ólafsson. The project is a big-ticket European co-production and has been greenlit by Icelandic production company ACT4 alongside German broadcaster ZDF and its distribution division ZDF Studios. Iceland s Siminn is [ ]
 
-### Liongate Stock Jumps On Report Of Takeover Offer By Legendary
-Tue, 20 Oct 2026 19:38:10 +0000 — https://deadline.com/2026/10/liongate-stock-jumps-takeover-offer-legendary-1237168877/
+### J. A. Bayona, Javier Bardem Laurent Bouzereau Partner On Movistar Plus+ Doc About Life Of Legendary Spanish Cinematographer Néstor Almendros
+Wed, 21 Oct 2026 08:30:00 +0000 — https://deadline.com/2026/10/nestor-almendros-doc-j-a-bayona-javier-bardem-1237169499/
 
-Shares of Lionsgate surged more than 15% in afternoon trade on a report the company had received a takeover offer from Legendary Entertainment, which has been kicking the tires of the standalone studio for months. Deadline reported Legendary s interest in June of 2025 after Lionsgate Studios split with Starz. In a report today, Bloomberg said [ ]
+EXCLUSIVE: Production begins this week on Néstor, a feature documentary about the life and legacy of the legendary Spanish cinematographer Néstor Almendros. Almendros is one of the most important figures in Spanish and European film history. His credits as a DoP included big Hollywood titles such as Kramer vs. Kramer, The Blue Lagoon, and Terrence [ ]
 
-### Keanu Reeves Circling James Wan s The Gangster, The Cop, The Devil At Paramount
-Tue, 20 Oct 2026 19:35:00 +0000 — https://deadline.com/2026/10/keanu-reeves-the-gangster-the-cop-the-devil-james-wan-1237168725/
+### Prime Video Adds Sony LIV To Indian Offer
+Wed, 21 Oct 2026 08:21:16 +0000 — https://deadline.com/2026/10/prime-video-adds-sony-liv-india-1237169498/
 
-In March, Paramount revealed James Wan s onboarding to direct a reimagining of South Korean crime actioner The Gangster, The Cop, The Devil for the studio. The project continues to gain steam as Deadline has confirmed Keanu Reeves has entered talks to star. Details about Wan s take on the material and the role to be played [ ]
+Sony LIV is joining Prime Video s Indian service as an add-on subscription. The subscription streaming service, which caters for the Indian diaspora, will be offered at ₹399 ($4.22) a month or ₹1,499 a year. Sony LIV will bring a slate of more than 450 movies, 300 shows, live sports and an on-demand library. Originals include [ ]
 
-### Bob Iger Reflects On Challenges Of His Disney CEO Comeback In New Memoir One Last Time
-Tue, 20 Oct 2026 19:14:07 +0000 — https://deadline.com/2026/10/bob-iger-new-book-one-last-time-disney-1237168842/
+### Ex-Disney, NBCU Bloomberg TV Execs Among New Advisory Board At Storyboarding Platform Pzaz
+Wed, 21 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/pzaz-advisory-board-disney-nbcu-netflix-execs-1237168388/
 
-Penguin Random House has unveiled Bob Iger’s upcoming book One Last Time: Managing Crisis and Building Resilience at Disney, out March 1, calling it “an inspiring candid memoir of leadership in times of adversity.” The book by the former two-time Disney CEO and author of The Ride of a Lifetime (2019), written with Dan Schwerin, [ ]
+EXCLUSIVE: Former Disney, NBCUniversal and Bloomberg TV execs have formed part of a new advisory board at storyboarding and previsualisation platform Pzaz. Paul Robinson, Rose Stacey, Lindsey Oliver, Jonathan Levi and Weerada Sucharitkul have been named to board, as part of a plan to expand Pzaz internationally across North America, EMEA and Asia Pacific. Pzaz, [ ]
 
-### Starz Is Back On Verizon Fios As Carriage Dispute Settled
-Tue, 20 Oct 2026 18:26:54 +0000 — https://deadline.com/2026/10/starz-verizon-fios-settle-carriage-fight-1237168822/
+### The BBC MHz Choice Board Sweden s Latest Wallander Series
+Wed, 21 Oct 2026 07:48:04 +0000 — https://deadline.com/2026/10/wallander-series-bbc-mhz-choice-1237169490/
 
-Starz and Verizon have inked a deal that restores all Starz channels, Starz On Demand and the Starz app to Verizon Fios. Starz programming includes the full Power Universe and upcoming Power: Origins; drama Fightland; every episode of Outlander and the series’ prequel Outlander: Blood of my Blood; as well as the upcoming season of [ ]
+EXCLUSIVE: Wallander, the latest series featuring the titular detective, has landed homes in the UK and North America. The BBC has picked up UK rights to the Swedish crime drama, with MHz Choice becoming the buyer in the U.S. and Canada. Distributor Banijay Rights has also shopped the TV4 series to NPO in the Netherlands, [ ]
 
-### Amazon MGM Studios Elevates Julie Rapaport Alana Mayo In Film Division Reorg
-Tue, 20 Oct 2026 18:13:15 +0000 — https://deadline.com/2026/10/amazon-mgm-studios-julie-rapaport-alana-mayo-film-heads-1237168808/
+### Paul Greengrass Says He Was Offered A ‘James Bond’ Film After Directing ‘Bourne Supremacy’
+Wed, 21 Oct 2026 07:47:28 +0000 — https://deadline.com/2026/10/paul-greengrass-james-bond-bourne-supremacy-1237168459/
 
-Amazon MGM Studios is revamping its film division, with Julie Rapaport and Alana Mayo each being tapped as as Head of Film, Production Development. Both will report to Courtenay Valenti, Head of Film, Streaming and Theatrical at Amazon MGM. Valenti revealed the restructuring Tuesday and sent a note to staff. Julie and Alana will [ ]
+Paul Greengrass is known for directing several editions in Universal’s Jason Bourne series. But the filmmaker has said he was once offered the opportunity to decamp and direct a rival James Bond film. “They asked me after I did Bourne Supremacy,” Greengrass told The Rest Is Classified podcast. Greengrass, however, quickly clarified that he would [ ]
 
-### Everything We Know About The Gilded Age Season 4 So Far
-Tue, 20 Oct 2026 18:06:20 +0000 — https://deadline.com/feature/the-gilded-age-season-4-news-updates-everything-we-know-1236748421/
+### Charli Xcx Cancels Tour Date In Arizona: It Breaks Me That I Can t Be With You
+Wed, 21 Oct 2026 03:30:05 +0000 — https://deadline.com/2026/10/charli-xcx-cancels-tour-date-arizona-1237169428/
 
-The culture clash will continue in Season 4 of Julian Fellowes HBO period drama The Gilded Age, based on the turn-of-the-century time period in America that lasted between 1870 and 1900. Some familiar faces have been promoted to series regulars since Season 3, and some new faces are joining the cast to play big-name historical [ ]
+Charli Xcx is canceling her penultimate Music, Fashion, Film Tour date in the U.S. as she battles sickness. The singer took to social media to confirm she won t perform at the Desert Diamond Arena in Glendale, Arizona, because she s not feeling well. I have been fighting sickness throughout this run of shows and have now [ ]
 
-### Christopher Nolan’s The Prestige Sets 20th Anniversary Re-Release For 2027
-Tue, 20 Oct 2026 17:51:29 +0000 — https://deadline.com/2026/10/the-prestige-rerelease-2027-christopher-nolan-1237168795/
+### 10 Things I Hate About You Cast Reunites To Honor Heath Ledger With Julia Stiles On Dancing With The Stars
+Wed, 21 Oct 2026 02:17:45 +0000 — https://deadline.com/2026/10/10-things-i-hate-about-you-cast-reunites-dwts-heath-ledger-1237169282/
 
-Christopher Nolan’s thriller The Prestige will to return theaters on January 29, 2027, in celebration of the film’s 20th anniversary. Walt Disney Studios will re-release the film that stars Hugh Jackman, Christian Bale, Michael Caine and Scarlett Johansson, and features the late David Bowie as physicist Nikola Tesla. The re-release will give audiences the chance [ ]
+In a dance dedicated to the late Heath Ledger, Julia Stiles reunited with much of the cast of the 1999 film 10 Things I Hate About You during Tuesday night s episode of Dancing with the Stars. Stiles told her partner Ezra Sosa that she had always admired his lust for life and wanted to replicate [ ]
 
-### Jay-Z Looks To Have Picked Jay-Z To Headline 2027 Super Bowl Halftime Show
-Tue, 20 Oct 2026 17:35:04 +0000 — https://deadline.com/2026/10/jay-z-super-bowl-halftime-show-2027-1237168702/
+### Dancing With The Stars Recap: Dedication Night Features A Lot Of Tears 10 Things I Hate About You Cast Reunion
+Wed, 21 Oct 2026 02:01:29 +0000 — https://deadline.com/2026/10/dancing-with-the-stars-season-35-recap-dedication-night-1237168767/
 
-Jay-Z, whose Roc Nation is the organizer behind the Apple Music Super Bowl Halftime Show, will be the headliner for the 2027 event at Los Angeles SoFi Stadium, a music industry insider has confirmed to Deadline. The rap superstar and 25-time Grammy winner has been in the news being in the middle of the global [ ]
+SPOILER ALERT! This post contains details from this week s episode of Dancing with the Stars. It s Dedication Night in the ballroom, so grab your tissues. Tuesday night s episode of Dancing with the Stars featured the remaining 10 celebrity contestants and their pro partners perform routines dedicated to someone important in the former s life. There are [ ]
 
-### Haley Friedman Joins Linden Entertainment As Senior Digital Talent Manager
-Tue, 20 Oct 2026 17:30:57 +0000 — https://deadline.com/2026/10/haley-friedman-joins-linden-entertainment-1237168782/
+### David Fincher Scrapped 60 Pages Of Tarantino s Cliff Booth Script: It Was Essentially Two Movies
+Wed, 21 Oct 2026 00:19:01 +0000 — https://deadline.com/2026/10/david-fincher-cut-tarantino-cliff-booth-script-1237169234/
 
-EXCLUSIVE: Haley Friedman has joined Linden Entertainment as Senior Digital Talent Manager. Brought in to help Linden build out its digital division, Friedman will target new brand opportunities for the firm s existing roster while identifying creators, both established and emerging, who would be a fit for the company. She brings over longtime clients Haley Baylee [ ]
+David Fincher directed The Further Mis-Adventures of Cliff Booth, the Once Upon a Time in Hollywood follow-up written by Quentin Tarantino and starring Brad Pitt. With Tarantino penning the script, Fincher had to make some sacrifices and cut 60 pages. The first draft I read was 230 pages. It was essentially two movies, Fincher told Empire in a [ ]
 
-### Sundance Institute Appoints Tracy Brady As Chief Marketing, Brand And Communications Officer
-Tue, 20 Oct 2026 17:30:00 +0000 — https://deadline.com/2026/10/tracy-brady-joins-sundance-institute-marketing-communications-1237168709/
+### Disney+ Opens Supernatural Thriller Series Night Tales Club In Japan; Watch The Teaser
+Wed, 21 Oct 2026 00:00:00 +0000 — https://deadline.com/2026/10/disney-plus-night-tales-club-japan-watch-teaser-trailer-1237168358/
 
-Tracy Brady has been appointed to the role of Chief Marketing, Brand and Communications Officer at the Sundance Institute. Brady will lead marketing and communications strategy for the organization across all of its initiatives. Based in Boulder, she ll be tasked with unifying its messaging and public presence during times of change and ensuring that Sundance s [ ]
+Disney+ s latest Japanese original is supernatural thriller series Night Tales Club. A teaser trailer has dropped for the show, which follows a successful businessman, Hojo, obsessed with the inexplicable who turns his attention to solving life’s biggest mysteries, unleashing all manner of bizarre horrors. Six-part series will launch in January 2027 and is based on [ ]
 
 ## befores & afters
+
+### Watch Framestore s VFX breakdown for East of Eden
+Wed, 21 Oct 2026 07:06:30 +0000 — https://beforesandafters.com/2026/10/21/watch-framestores-vfx-breakdown-for-east-of-eden/
+
+Behind the scenes. The post Watch Framestore s VFX breakdown for East of Eden appeared first on befores & afters .
 
 ### Digital Domain s VFX breakdown for Disclosure Day is here
 Mon, 19 Oct 2026 17:42:03 +0000 — https://beforesandafters.com/2026/10/20/digital-domains-vfx-breakdown-for-disclosure-day-is-here/
@@ -174,6 +179,16 @@ Mon, 19 Oct 2026 17:42:03 +0000 — https://beforesandafters.com/2026/10/20/digi
 Go behind the scenes of the train scene, aliens and more. The post Digital Domain s VFX breakdown for Disclosure Day is here appeared first on befores & afters .
 
 ## IndieWire
+
+### After ‘You Can See Everything,’ What’s Next for ‘The Rehearsal’?
+Tue, 20 Oct 2026 22:00:00 +0000 — https://www.indiewire.com/features/craft/you-can-see-everything-the-rehearsal-nathan-fielder-1235222895/
+
+For "You Can See Everything," Nathan learned it from watching Nathan.
+
+### Possible Love Trailer: Two Families Are Divided by a Documentary in Netflix Oscar Hopeful
+Tue, 20 Oct 2026 21:00:00 +0000 — https://www.indiewire.com/news/trailers/possible-love-second-trailer-netflix-1235223020/
+
+Lee Chang-dong's latest heartbreaker opens in select theaters this Friday before streaming on November 13.
 
 ### Wildwood Review: Laika s Epic Stop-Motion Wonder Lacks the Magic of the Studio s Best Movies
 Tue, 20 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/wildwood-movie-review-laika-1235221279/
@@ -183,7 +198,7 @@ Tue, 20 Oct 2026 19:00:00 +0000 — https://www.indiewire.com/criticism/movies/w
 ### The Costumes Are Why Your Mother Your Mother Your Mother Is a Movie Unlike Any Other
 Tue, 20 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/features/craft/your-mother-your-mother-your-mother-costumes-mahershala-ali-1235221475/
 
-Costume designer Deirdra Gowan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.
+Costume designer Deirdra Govan tells IndieWire about how meticulous research and cultural love led to costumes as expressive as they are beautiful.
 
 ### Alden Ehrenreich Has a Lot of Opinions About His Career — and About Steve Urkel
 Tue, 20 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/features/interviews/alden-ehrenreich-opinions-career-talent-for-murder-1235217284/
@@ -225,117 +240,107 @@ Tue, 20 Oct 2026 01:00:00 +0000 — https://www.indiewire.com/news/obituary/ann-
 
 She was among the few women critics when she started out in 1995, and was the reviewer for the Washington Post for 23 years.
 
-### Curry Barker on Why Gen Z Loves Going to the Movies: It s Social Interaction, but You re Not Expected to Talk to Anyone
-Tue, 20 Oct 2026 00:38:26 +0000 — https://www.indiewire.com/news/events/watch-curry-barker-indiewire-future-of-filmmaking-summit-1235222847/
-
-The 'Obsession' director accepted IndieWire's Future of Filmmaking Award at our Los Angeles summit, where he discussed his whirlwind year and his advice for young directors.
-
-### No One Left to Fire: Ted Sarandos Is Feeling the Heat as Netflix Struggles
-Mon, 19 Oct 2026 22:39:29 +0000 — https://www.indiewire.com/news/analysis/ted-sarandos-no-one-else-fire-netflix-co-ceo-analysis-1235222834/
-
-With Bela Bajaria and Dan Lin both out and the stock price below $70, all eyes are on what Sarandos will do to right the ship again.
-
 ## The Wrap
 
-### American Horror Story Scores Early Season 14 Renewal at FX and Hulu
-Tue, 20 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/media-platforms/tv/american-horror-story-season-14-renewed-fx-hulu/
+### Jimmy Fallon Mocks Trump’s ‘Really, Really Desperate’ Midterm Campaign Blitz
+Wed, 21 Oct 2026 04:51:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-mocks-trump-desperate-midterm-campaign-blitz/
 
-American Horror Story received an early Season 14 renewal from FX and Hulu on Tuesday, just weeks after the all-star 13 premiere. The campy horror series returned for Season 13 on Sept. 24 with a stacked cast of returning AHS favorites. This season also scored the series biggest streaming premiere to date. The theme for Season 14 and details about the cast have yet to be announced. Previous seasons include Murder House, Coven, Asylum and Freak Show, just to name a few. Season 13 brought back stars Sarah Paulson, Evan Peters, Angela Bassett, Kathy Bates, Emma Roberts, Billie Lourd, Gabourey Sidibe, Leslie Grossman, Joey Pollari and Jessica Lange. Additional cast included Avantika, Jamie Brewer, Elle Chapman, Berto Colon, Alex Consani, Frances Conroy, Mat Fraser, Seth Gabel, Orlando Jones, Paul Anthony Kelly, John Carroll Lynch, Tig Notaro, Madelaine Petsch, Fedor Steer, Mena Suvari, Zach Villa, John Waters and more. AHS:13 will air its 11th and 12th episodes Thursday ahead of the highly anticipated season finale on Thursday, Oct. 29 just in time for Halloween. Season 13 broke records for the series and emerged on Nielsen s Streaming Top 10 charts. It was also Murphy’s largest launch ever on Hulu and Disney+. Ryan Murphy co-created AHS with fellow EP Brad Falchuk in 2011 for FX. AHS: 13 is also executive produced by Ned Martel and Charlie Carver, Eric Kovtun, Nissa Diederich, Scott Robertson, Tanase Popa, Crystle Roberson Dorsey, Jennifer Salt and Tim Minear. The series is prod
+Jimmy Fallon came out swinging against Donald Trump during Tuesday s monologue for The Tonight Show, mocking everything from the president s approval rating to his midterm campaign blitz. Fallon notably got a big reaction from his studio audience after he referred to Trump as an orange [thing] that [keeps] getting slammed while discussing updates ahead of the midterm elections. President Trump is in the news, Fallon said. That s right, Trump and the Republicans continue to struggle in the polls. And the midterm elections are now officially two weeks away. Yep, it s 14 days until the election and 15 days until Trump claims it was rigged. He added: How does your family celebrate the midterms? Do you watch Trump meltdown on election night or wait until the next morning? Either way, it s exciting. As Fallon continued, he touched on Trump s record-low approval rating, joking that the president s staffers refer to the numbers as fun sized this time of year. I think Trump is running out of ideas, Fallon went on. First he offered people $5,000 and today he said, If you vote Republican, you can be my press secretary . It s five days at the White House. Why not? It s a good gig. Fallon then joked that Trump is trying everything ahead of the midterms and amid his low approval numbers. He just asked Nathan Fielder to make a documentary about him called, You Can See Everything But the Epstein Files.' You can tell Trump is worried about the midterms, because he s currently on a nationwide 
 
-### Keanu Reeves in Talks to Join The Gangster, The Cop, The Devil at Paramount
-Tue, 20 Oct 2026 19:59:08 +0000 — https://www.thewrap.com/culture-lifestyle/culture/keanu-reeves-the-gangster-the-cop-the-devil-james-wan-paramount/
+### Michael Kosta Briefly Pauses ‘Daily Show’ Monologue as Crowd Erupts Over Trump Dig
+Wed, 21 Oct 2026 03:52:21 +0000 — https://www.thewrap.com/creative-content/tv-shows/michael-kosta-daily-show-monologue-paused-audience-applause-trump-dig/
 
-Keanu Reeves is in talkss to star in Paramount Pictures’ reimagining of “The Gangster, The Cop, The Devil” opposite Don Lee (aka Ma Dong-seok), who is attached to reprise his role from the original critically acclaimed South Korean film, The Wrap has learned. James Wan is set to direct and produce alongside Michael Clear and Jason Blum via Blumhouse Atomic Monster, Lee via Big Punch Global, Sylvester Stallone and D. Matt Geller via Balboa Productions, and Chris S. Lee via B&C Group. Eric Pearson wrote the latest script, based on previous drafts by Shay Hatten and Brian Helgeland. The original film screened at the Cannes Film Festival in 2019. According to the Hollywood Reporter, which first reported the new s, the film tells of a police officer and a crime boss who reluctantly team-up to track down a serial killer. With each having their own motives to capture the killer, double-crosses and cat-and-mouse games ensue, along with a heaping helping of police versus criminals and gang versus gang action. Lorenzo di Bonaventura has come on board to produce. Helgeland and Billy Acumen will executive produce. More to come The post Keanu Reeves in Talks to Join The Gangster, The Cop, The Devil at Paramount appeared first on TheWrap .
+Michael Kosta briefly paused his monologue on Tuesday’s episode of “ The Daily Show ” after the studio audience erupted in applause over a jab at President Donald Trump. After weighing in on Jaime West , the Democratic candidate for Fayette County Council District 4 who went viral for a slurred television interview, Kosta told his audience he was moving on to someone who is not drunk but somehow equally incoherent. He then named dropped Trump, prompting the Daily Show crowd to break out into cheers and a round of applause. After basking in the praised for a handful of seconds, Kosta added: They re clapping for the truth. Kosta then moved on to why he mentioned Trump in the first place. With the midterms in the homestretch, he s also been holding daily rallies in support of embattled Republican candidates, he said. And lately, he s hit upon a very interesting observation about many of these men. The Daily Show editors cut to a compilation of Trump s many rally appearances, where he repeatedly commented on the attractiveness of the male GOP candidates. Yes, you live your truth, Donald. OK? Kosta responded. It doesn t matter what anyone says. You find a man with a nice, tight ass and take him dancing in your big gay ballroom. Do it. Once more, Kosta s studio audience erupted into a round of applause. But Kosta didn t stop there. MAGA, if you re upset by this, you are the ones who love Trump because he says whatever he s thinking. But that s a double-edged sword, he continued. Be
 
-### Netflix’s ‘In Waves’ Trailer Teases Touching, True-Life Romance
-Tue, 20 Oct 2026 19:42:04 +0000 — https://www.thewrap.com/creative-content/movies/in-waves-new-trailer-netflix-animation/
+### Kenan Thompson Bemoans Shane Gillis’ Controversial ‘SNL’ Monologue Overshadowing the Episode’s Positives
+Wed, 21 Oct 2026 02:44:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/kenan-thompson-weighs-in-shane-gillis-snl-monologue-controversy/
 
-You will get lost “In Waves.” The animated feature, directed by Phuong Mai Nguyen and based on the graphic memoir by AJ Dungo, is a touching and beautiful true-life tale, full of tragedy and triumph. One of the very best animated movies of the year, it debuts in select theaters on Nov. 27 before arriving on Netflix on Dec. 11. And the brand-new trailer, which you can watch below, gives you a taste of what to come. Netflix’s official synopsis reads: “Set against the sun-soaked surf culture of Southern California, ‘In Waves,’ based on a true story, explores the joy of finding your soulmate, the courage it takes to live life to the fullest, and the enduring power of love to shape who we become and what we leave behind.” Will Sharpe and Stephanie Hsu lead the voice cast. Utilizing a painterly animation style that is still very much computer-based, “In Waves” tells a story that is both deeply personal and unflinchingly universal. The depth of the movie lies in its ability to weave this story of love and loss and braid it through a number of other compelling lenses – among them the history of surfing and a hangdog, California coming-of-age story. In a year full of exemplary animated features, “In Waves” is definitely one of the medium’s greatest accomplishments. “In Waves” debuted at Cannes, where it earned strong reviews, and has appeared in several of the fall festivals as well. Our critic said it was a “work of indie animation.” “But for all the virtuoso hand-drawn animation, at
+Kenan Thompson weighed in on the controversy surrounding “Saturday Night Live” host Shane Gillis’ monologue, lamenting that the drama has “overshadowed” the episode’s positives. During an appearance at the Axios Media Trends Live summit in New York City on Tuesday, Thompson, who is in his 23rd season on “SNL” and is the show’s longest-tenured cast member, addressed the backlash Gillis faced for joking in his monologue that women at the gym “just dress like whores now.” Yeah, I know Shane. And I don t know him to be, you know, a mean person necessarily, Thompson said. But, if he were to come back [to the show], I’m sure we would have a conversation of like, How do you think that went? Like a little kid. I would just sit him down and be like, So what do you think we could change there, pal? And just figure it out. As Thompson went on, he said it was just finding the balance of allowing creative liberties and being mindful of harmful words. However, Thompson appeared to indicate that he felt the public was spending more time focusing on Gillis word choice instead of on actual episode highlights. Everybody’s focusing in on this one specific word. Or one specific part of the monologue, he said. And then, the rest of the monologue, or even the rest of the show, is getting overshadowed. Like, Grace [Reiter], one of our newest cast members, had a phenomenal show. It s sad, because nobody is even talking about it. He added: Even Rosalía is even kind of getting overshadowed, because we
 
-### Starz Programming Restored on Verizon Fios
-Tue, 20 Oct 2026 19:30:23 +0000 — https://www.thewrap.com/industry-news/business/starz-verizon-fios-programming-restored-carriage-deal/
+### ‘DWTS’ Week 6: Tyler Cameron Honors Late Mom, Reveals Pregnancy With Fiancée in Emotional Dedication Dance
+Wed, 21 Oct 2026 02:02:25 +0000 — https://www.thewrap.com/creative-content/tv-shows/dancing-with-the-stars-week-6-elimination-dedication-night/
 
-Starz programming has been restored on Verizon Fios after the two companies reached a new carriage deal. “We are pleased to have reached a mutually beneficial agreement that brings Starz’s premium programming to Verizon Fios customers,” Starz Networks president Alison Hoffman said in a statement. We remain committed to delivering bold storytelling for women and underrepresented audiences and to serving viewers who value our distinctive programming.” The deal ends a programming blackout that began on Oct. 1 after the two sides were unable to reach a new agreement before the expiration of their previous contract. At the time, Hoffman had accused Verizon of being unproductive in progressing towards a mutually beneficial outcome. Verizon responded at the time by saying it remained actively engaged in constructive discussions, adding that using public warnings to create concern among subscribers is an unnecessary pressure tactic.” The distribution agreement, which covers all Starz channels, Starz on Demand and the Starz app, gives subscribers access to programming including the full Power Universe and upcoming Power: Origins, the drama series Fightland, Outlander and prequel Outlander: Blood of my Blood, the upcoming season of P-Valley, S.W.A.T. Exiles,” and the thriller “Tip Toe.” Starz also offers movies including Michael, the Jason Statham-led thriller Shelter, the Jake Gyllenhaal, Henry Cavill and Eiza González-led thriller In the Grey and the Paul Rudd and Nick Jonas-led musi
+The Dancing With the Stars Season 35 cast brought the ballroom to tears on several occasions with an emotional Dedication Night. After a week of criticism and negativity from the dance competition show s fanbase, Tuesday turned the energy around. The 10 remaining couples took to the dance floor to deliver moving performances, honoring the influential people and places that have shaped them with former pro Kym Johnson joining as a guest judge. This week contestants honored their parents, spouses and even one person s home country. The emotional night did not conclude with an elimination, instead, the show celebrated the couples hard work. Next week, with guest judge Shirley Ballas in the ballroom, two couples will be sent home. The Bachelorette star Tyler Cameron wowed the audience with his contemporary routine to Supermarket Flowers by Ed Sheeran in honor of his late mother. His mom passed in 2020 from an unexpected brain aneurysm. He said that one of the hardest parts of losing her was the fact that she would never meet his future wife, Tate. I think my mom put Tate in my life for sure, he said between tears in his package. His fiancée joined the duo in dancing and, in a voiceover, announced that she was carrying their future child. Before they got their scores, host Alfonso Ribeiro revealed that the couple would be having a girl. Ezra Frech opened the competition with a bang with his contemporary to “Bloodline” by Mon Rovia, dedicated to his mom. Bahar Soomekh appeared in f
 
-### Trump Pledges $400 Million to Help GOP Win Midterms as Political Ad Spending Soars
-Tue, 20 Oct 2026 19:17:10 +0000 — https://www.thewrap.com/media-platforms/politics/trump-400-million-midterm-political-ad-spending/
+### Versant CEO Says Buying Skydance Cable Networks Is Probably Not in Our Short-Term Future
+Wed, 21 Oct 2026 00:35:23 +0000 — https://www.thewrap.com/industry-news/deals-ma/versant-ceo-says-they-will-not-buy-skydance-cable-networks/
 
-President Donald Trump said that he has spent or plans to spend more than $400 million to help Republicans win the midterm elections, including on political advertising, as both parties pour billions into television and digital campaigns ahead of Nov. 3. In a Truth Social post Tuesday, Trump said more than $300 million has already gone toward Advertising, Direct and Indirect Voter Contact, Rallies, Rally Arenas, Telerallies, Get Out the Vote Programs, Election Integrity, and more. Because of my belief in the Republican Party, and all of our Policies and Principles, and especially after witnessing what is taking place in France, and other locations throughout Europe, I am pleased to announce that, having to do with the Most Important Midterm Elections in… pic.twitter.com/2ntB0YRiKz &mdash; Commentary Donald J. Trump Truth Social Posts On X (@TrumpTruthOnX) October 20, 2026 Trump did not specify how much was spent on advertising alone or whether the money came from his personal funds or MAGA Inc., his main super PAC. The spending figures have not been independently verified. The announcement comes amid a surge in political advertising ahead of the midterms. Republicans have spent or reserved approximately $2.2 billion in advertising across federal, state and local races since Sept. 1, compared with $1.8 billion by Democrats, according to the Associated Press . Outside groups have also become major players in the advertising blitz, spending more than $1.2 billion in competitive 
+Versant CEO Mark Lazarus said that the company, which was spun off by Comcast and NBCUniversal earlier this year, is not interested in buying other cable networks. “Buying more cable assets on a large scale would prolong our life but not necessarily make our life better because we would still have the secular decline,” the CEO said Tuesday at the Axios Media Trends Live conference. “Might there be some interest in another vertical that we could create around a pay television business? Yes, but just buying big networks or a bunch of networks that don’t necessarily change our trajectory is probably not in our short-term future.” Versant took on a large chunk of NBCU s cable networks in the spinoff, including networks such as MS NOW, CNBC, USA and Syfy. The company also manages digital properties, including Fandango and Golf Now. The CEO said the company is instead more focused on diversifying its revenue in adjacent businesses that are incredibly powerful consumer branded networks as an amplifier and create bigger businesses, like golf. Earlier this month, Paramount and Warner Bros. Discovery merged to form Skydance and created a media giant with more than 50 cable networks. The company claimed that they are not interested in selling its networks but planned to pay down their debt and invest in other avenues. When asked specifically about Comcast’s plan to spin out NBCUniversal and whether Versant would ever consider reuniting with the media giant NBCU down the road, Lazarus di
 
-### Ana Navarro Snaps at The View Co-Hosts for Joking About Trump Dinner: This Is Not Funny
-Tue, 20 Oct 2026 19:10:37 +0000 — https://www.thewrap.com/creative-content/tv-shows/ana-navarro-the-view-co-hosts-trump-dinner-joke/
+### White House Won’t Deny Trump Is Eyeing Press Briefing Room for Indoor Pool
+Tue, 20 Oct 2026 23:35:32 +0000 — https://www.thewrap.com/media-platforms/politics/white-house-does-not-deny-trump-eyeing-press-briefing-room-for-indoor-pool/
 
-Ana Navarro snapped at her fellow hosts of The View on Tuesday for making light of the idea of going to a dinner hosted by Donald Trump. The topic came up after people like Stephen A. Smith, Kid Rock and Bill Maher have dined with the president as of late. A number of the ABC hosts pondered whether or not they would accept an invitation to eat with Trump. Alyssa Farah Griffin who used to work for Trump s comms team before siding against the president admitted she s been called a loser, a clown and many other things by Trump, but would still entertain the invitation. Sara Haines also said she s still waiting for her invite to arrive despite Trump not knowing her name. No way in hell I would want to break bread or be in the same room with a man whose administration is hunting Latinos,” Navarro answered. The View host referenced the ongoing immigration raids being done across the country by ICE, so when Haines cracked a joke that the two wouldn t be having a Lady and the Tramp -style dinner if she got the invite (which got a laugh from Griffin), Navarro snapped back that this shouldn t be a laughing matter. “No, but, listen, stop, this is not funny!” Navarro said. “I know that he’s seen the polls of Latinos going against him, that he’s lost 50 points of support with Latinos, and his administration has doubled down on their cruelty. She added: You think I’m going to go share a meal with that man? Haines and Griffin pushed back a bit, with the first citing Navarro taking Senator T
+The White House did not deny a Tuesday report that Donald Trump is considering replacing the press briefing room with an indoor pool, with Communications Director Steven Cheung saying “all options remain on the table.” “America is rightly distrustful of the fake news media because they fabricate stories based off lies and sources who are not even privy to any type of information,” Cheung said in a statement to The New York Times. “All options remain on the table, and we will make an announcement when appropriate.” Cheung s comments coincided with a Times report from Maggie Haberman and Jonathan Swan, which claimed the president talked about moving the press corps from the James S. Brady Press Briefing Room during one of his final meetings with then-Press Secretary Karoline Leavitt. Per the outlet, Trump had assured Leavitt it would be her last legacy, but the president s suggestion did not move forward at the time. However, this was allegedly not the first time Trump had floated the idea to Leavitt during his second term in the White House. According to the Times, Trump had told aides that he hoped to bring back the indoor pool built by former president Franklin D. Roosevelt, potentially relocating the press corps to the Eisenhower Executive Office Building. The indoor pool had been converted into the press room in 1970 under President Richard Nixon. Trump appeared to signal his pool plans back in September, when he took to Truth Social and posted a side-by-side image of the 
 
-### Below Stays Atop Netflix TV Top 10 With 21 Million Views as The Diplomat Returns Even
-Tue, 20 Oct 2026 19:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/below-netflix-ratings-viewership-the-diplomat-season-4/
+### Denzel Washington Teams With Christopher McQuarrie for Thriller at Amazon MGM, United Artists
+Tue, 20 Oct 2026 22:29:43 +0000 — https://www.thewrap.com/creative-content/movies/christopher-mcquarrie-denzel-washington-movie-amazon-mgm-studios-ua/
 
-Below is proving to be a TV hit for Netflix when it needs it the most. The Canadian monster mystery drama starring Josh Hartnett held onto the top spot in the streamer s English TV list with 21.2 million views in its second week, the highest viewership for a Canadian original title on the streamer ever. It follows a strong debut week for the series, which debuted to 17 million views. It also came as Netflix s Emmy darling The Diplomat returned for its critically-acclaimed fourth season to 4.8 million views after four days, even with its debut week performance for Season 3. That took the No. 5 spot on the list, with limited series East of Eden landing at No. 2 with 6.2 million views. The Florence Pugh-led series has accumulated 25.3 million views throughout its run so far across three weeks of viewing, and driven a 156% global increase in first-time listeners for the audiobook on Spotify. Netflix s documentary arm was responsible for two top five series, with Instadocs: AI Gone Wild, which investigates the breach of AI platform Hugging Face, scoring the No. 3 spot with 5.1 million views while Mike Tyson docuseries Tyson took the No. 4 spot also with 5.1 million views. Love Is Blind also returned with its Boston installment this week to 3.6 million views, landing as the No. 6 most-watched show on the English-language TV list. On the film side, Animals continued its domination of the film list gathering 30.8 million views, rising from its initial viewership of 23.8 million. Tyle
+Amazon MGM Studios and Scott Stuber’s United Artists (UA) have greenlit an untitled thriller directed by Christopher McQuarrie that will star two-time Academy Award winner Denzel Washington, The Wrap has learned. The film will be released in theaters on Oct. 1, 2027. The script was written by Scott Barkan and Gregg Zehentner ( Into the Dark, Edge of Fear ). The official logline for the project is as follows: A former police detective serving a life sentence is diagnosed with terminal brain cancer. Granted compassionate release with six months to live, he returns home to the estranged daughter he left behind and a grandson he never knew existed. He only wants to make amends and forget his dark past. But his dark past has not forgotten him. McQuarrie will produce alongside Heather McQuarrie; Stuber and Nick Nesbitt for United Artists; Joseph Restaino for Hungry Bull Productions; Reza Moheet and Norman Aladjem for Mainstay Entertainment; and Katia Washington and Tommy Harper. Hungry Bull Productions’ Tony Stopperan, Mainstay Entertainment’s Tim Honigman and Joe Guest will serve as executive producers. Most recently, Washington made his long-awaited return to the stage in “Othello,” alongside Jake Gyllenhaal, and starred in “Highest 2 Lowest,” directed by Spike Lee. Up next, he will star alongside Robert Pattinson and Daisy Edgar-Jones in Netflix’s “The Take” (formerly titled “Here Comes the Flood”). The film is slated for release in 2027. Washington is repped by WME. McQuarrie i
 
-### You Can See Everything Bests Street Fighter as Top Movie at Monday Box Office
-Tue, 20 Oct 2026 18:38:20 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-tops-monday-box-office/
+### White House Reporter Fires Back After Trump Warns Him He ‘Better Be Careful’ in Oval Office Exchange
+Tue, 20 Oct 2026 22:09:54 +0000 — https://www.thewrap.com/media-platforms/politics/donald-trump-snaps-white-house-reporter-andrew-feinberg-responds/
 
-Don t look now, but the No. 1 movie at the box office on Monday was a documentary. Amidst wild audience acclaim and online discourse, A24 s You Can See Everything edged out Paramount/Legendary s Street Fighter to take the top spot on the weekday charts. Street Fighter, which took No. 1 this past weekend with a $31 million domestic opening, made a decent $2 million on Monday according to theatrical sources. But You Can See Everything, which has a fraction of the screens of Street Fighter with 855 locations, has edged it out for $2.57 million. With rave reviews since its surprise Telluride Film Festival premiere, You Can See Everything is set by next weekend to pass the Fred Rogers doc Won t You Be My Neighbor? as the highest grossing documentary of the past 10 years and will soon pass scripted indie hits like fellow A24 release The Invite, which grossed $26.1 million this past summer. In fact, You Can See Everything has earned a higher first Monday than director Lance Oppenheim s other A24 release this fall, Primetime, which made $1.7 million after earning an $18.8 million opening from 2,874 locations. With You Can See Everything set to expand after scoring thousands of sellout screenings, there s no telling how far this film could leg out with the buzz that it has. According to an audience poll provided by sources at A24, a big reason why the festival buzz around this doc has transferred to the wider populace is because of the presence of Nathan Fielder, who has built up a fa
+Andrew Feinberg, the White House correspondent for The Independent, hit back at Donald Trump on Tuesday after the president singled him out during an Oval Office gaggle with reporters earlier in the day. While taking questions from the White House press corps in the Oval Office, Trump zeroed in on Feinberg, snapping, Listen to you. Hey I don t know who the hell you are, but you better be careful. As the awkward moment between the journalist and Trump went viral, Feinberg took to X to issue a response to the president s comment. I had told him exactly who I was not five minutes before this exchange, he wrote. Feinberg s response prompted additional reactions, with many questioning the president s cognitive abilities. This is total disinhibition, one X user responded. He is not fit for office. Another chimed in with, He has dementia. Media needs to report it. A third wrote , Short term memory does fade as one ages I had told him exactly who I was not five minutes before this exchange. https://t.co/HvJIqGW9vn &mdash; Andrew Feinberg (@AndrewFeinberg) October 20, 2026 Trump has repeatedly dismissed concerns about his cognitive health. Following his May physical examination, White House physician Sean Barbabella said the president remained in excellent health, citing strong neurological and overall physical function. Trump has repeatedly lashed out at reporters during his second term, including Kaitlan Collins, Rachel Scott, Libbey Dean and Nancy Cordes. He has also targeted journ
 
-### David Fincher Says Tarantino s First Draft of Cliff Booth Was So Long It Was Essentially 2 Movies
-Tue, 20 Oct 2026 18:24:26 +0000 — https://www.thewrap.com/creative-content/movies/david-fincher-mis-adventures-of-cliff-booth-tarantino-script-length/
+### You Can See Everything Would Have Looked Much Different Without Emma Stone s Help
+Tue, 20 Oct 2026 21:40:42 +0000 — https://www.thewrap.com/creative-content/movies/you-can-see-everything-emma-stone-nathan-fielder/
 
-Director David Fincher has revealed that Quentin Tarantino s original script for this year s The Further Mis-Adventures of Cliff Booth was so long it was essentially two movies. Fincher and Tarantino sat down with Empire for their first-ever joint interview about their forthcoming Once Upon a Time in Hollywood sequel, which Fincher directed from a Tarantino-penned screenplay. The new film, a loose follow-up to Tarantino s Oscar-winning 2019 dramedy, catches back up with Brad Pitt s Cliff Booth as he works as a Hollywood fixer in 1977. Pitt is back, reprising the role that netted him an Oscar for Best Supporting Actor in 2020. The first draft I read was 230 pages. It was essentially two movies, Fincher told Empire of Tarantino s original Cliff Booth script. Fincher purportedly cut 60 pages from that draft, explaining, Somewhere in there was the Venn diagram of what Brad wanted to do, what I want to do, what Quentin wanted to do. Not want to do , but the areas we would focus on. Cliff Booth represents a rare union between two distinct, acclaimed filmmakers. Tarantino and Fincher have never worked together before, but they both have made movies with Pitt. Now, they have come together to make a film that, despite featuring a number of Once Upon a Time in Hollywood characters, will be very different from its parent movie. For starters, Tarantino says viewers should not expect Cliff Booth to have the same laidback feel as Once Upon a Time. I don’t think of it as a hangout movie at 
+You Can See Everything would have felt and looked very different without Emma Stone s help. In a new interview with Vulture , director Lance Oppenheim recounted that getting (spoiler) Amanda Seyfried involved in the film wouldn t have happened without Stone. At a little over the halfway point of the film, Nathan Fielder heads to Seyfried s home to show her clips of his month living with Theranos founder Elizabeth Holmes and her husband Billy. Things take a particularly uncomfortable turn when Seyfried is forced to watch clips of Holmes seeing The Dropout – the Hulu show where Seyfried played the Theranos founder during her rise and fall. All that and what came after was largely due to Stone. At the end of the film, the two-time Academy Award winner was mentioned in the Special Thanks section of the credits. Initially, most people assumed the help came because the actress and Fielder were friends and had previously worked together on the Showtime TV series The Curse. Oppenheim revealed that she actually helped set up the introduction between the filmmakers and Seyfried. Oppenheim said initially all he was hoping for was to show Seyfried the footage they shot and hope her reaction led to “a deeper understanding of what we’d made.” That changed when The Dropout star admitted to wanting to play Holmes again. From then on, the back half of the film becomes more more like Fielder s HBO series The Rehearsal as Seyfried plays Holmes in a number of reenactments after the real woman is
 
-### Amazon MGM Studios Names Julie Rapaport and Alana Mayo as Head of Film, Production Development
-Tue, 20 Oct 2026 18:05:27 +0000 — https://www.thewrap.com/creative-content/movies/julie-rapaport-alana-mayo-head-of-film-production-development-amazon-mgm-studios/
+### Netflix s Theatrical Strategy ‘Has Evolved,’ Ted Sarandos Says
+Tue, 20 Oct 2026 21:37:17 +0000 — https://www.thewrap.com/creative-content/movies/netflix-theatrical-strategy-changes-ted-sarandos-explains/
 
-Julie Rapaport and Alana Mayo will each serve as head of film, production and development at Amazon MGM Studios, Courtenay Valenti, the studio’s head of film, streaming and theatrical, announced in a memo Tuesday. The duo will each oversee approximately half of the company’s film slate, managing roughly 15 films per year. They will “also partner closely with marketing, content strategy, finance, public relations, theatrical distribution and Prime Video programming to align creative, business, and financial decisions across the film team,” Valenti wrote. Read Valenti s memo in full below: Hi team, I am excited to share an important evolution of our Amazon MGM Film Studio. Our output now spans more than 30 films a year across theatrical and streaming — growth that reflects the trust our studio has built with the creative community and the extraordinary work of our team. To match that scale and drive even greater creative output, I am pleased to announce that Julie Rapaport and Alana Mayo will each serve as Head of Film, Production & Development, reporting to me. Julie and Alana will each oversee approximately half of our film slate — spanning all genres across theatrical and streaming — with each managing roughly 15 films per year. It’s important to note that we are not creating separate pods or siloed teams, as our senior production & development team members will all work with both Julie and Alana across the entire slate, regardless of specific reporting lines. Julie and Alan
+Ted Sarandos, Netflix’s co-CEO, clarified the streaming giant’s attitudes towards theatrical exhibition during Tuesday’s 2026 Q3 earnings call. He emphasized that family films will likely get the widest releases, while other movies will remain having more limited rollouts. Sarandos began by stressing that Netflix is still “a streaming-first business.” “This is our core. But we consider, every time we have a new film – the film itself, the audience for the film and the filmmaker when we re trying to come up with the release plan,” Sarandos said. 2026 will see the release of “about 30 films” theatrically, which is “pretty much” what Netflix did last year. “And each one of these have their own bespoke release pattern,” Sarandos said. Most of the theatrical releases are limited releases, mostly to qualify for awards, where the films will play in a handful of theaters (some owned by Netflix) for a couple of weeks before the same movie winds up on Netflix. But not always. “We start off by looking at the projects we have, asking ourselves, How do we best serve movie lovers ?” Sarandos said. He acknowledged that “many of our members” want to see those movies in a theater, which leads Netflix leadership to ask, “How do we do it without actually harming the view value to Netflix?” Sarandos pointed to the 47-day window that the streamer is giving “La Bola Negra,” the historical epic from Javier Ambrossi and Javier Calvo ahead of its debut on Netflix and a smaller theatrical release for 
 
 ## Collider
 
-### Keanu Reeves Officially Finds the Perfect 'John Wick' Replacement With New Crime Thriller
-Tue, 20 Oct 2026 20:04:35 GMT — https://collider.com/keanu-reeves-cast-the-gangster-the-cop-the-devil-reboot/
+### Every 'The Diplomat' Season 4 Character, Ranked
+Wed, 21 Oct 2026 09:34:12 GMT — https://collider.com/the-diplomat-season-4-characters-ranked/
 
-Keanu Reeves may have one last outing as John Wick on his upcoming slate of films, but he's now in talks for a remake of one the most intriguing thrillers to come out of South Korea in the past decade. What's more, he's teaming up with one of the original movie's stars and a blockbuster director.
+This article contains spoilers for The Diplomat Season 4.
 
-### 9 Medical Dramas Where Every Episode Is a Masterpiece, Ranked
-Tue, 20 Oct 2026 19:44:12 GMT — https://collider.com/medical-dramas-every-episode-masterpiece-ranked/
+### The 15 Strongest Horror Movie Villains of All Time, Ranked
+Wed, 21 Oct 2026 09:24:12 GMT — https://collider.com/horror-movie-villains-ranked-power/
 
-Medical dramas are one of those genres you put on for the intensity. There's nothing quite like those fast-paced, urgent scenes when a patient comes in with a gunshot wound, an impalement, or some weird, unexplained symptoms. It's all fiction, of course, but the idea that this is what a real hospital sometimes looks like, maybe always looks like, raises the stakes.
+The strongest villains are often the ones fans love the most. Since the dawn of cinema, many iconic movie antagonists have been shown to be incredibly powerful and relentless. The stronger they were, the more audiences recognized and enjoyed them. Horror, in particular, is home to some of the more formidable villains in movie history.
 
-### 'Reacher' Creator Eyes Up Tom Cruise-Era Character for Next Prime Video Spin-Off [Exclusive]
-Tue, 20 Oct 2026 19:30:12 GMT — https://collider.com/reacher-potential-spin-off-susan-turner-lee-andrew-child/
+### Chris Pratt’s Official ‘Reacher’ Replacement Surges on Prime Video 4 Years Later
+Wed, 21 Oct 2026 09:00:12 GMT — https://collider.com/chris-pratt-the-terminal-list-season-2-streaming-success-prime-video-october-2026/
 
-Jack Reacher has never been particularly interested in putting down roots, but that hasn't stopped the people he's encountered over the years from becoming increasingly important to his world. Prime Video's Reacher has already expanded beyond Alan Ritchson 's wandering former military policeman with the spin-off series Neagley , starring Maria Sten . Now the man who created the character believes another familiar face could be next in line for their own spin-off.
+2026 has been another successful year for Chris Pratt , but it’s all been building to his biggest new release of the year. Pratt took his talents to Amazon MGM for the debut of the new sci-fi thriller, Mercy , which co-stars Rebecca Ferguson . Pratt and Ferguson’s combined star power wasn’t enough to help the film overcome poor reviews, though, and it managed only $54 million at the global box office against a $60 million budget. Mercy did go on to become one of the most-watched movies of the year on Prime Video . Pratt swiftly found box office redemption thanks to the premiere of The Super Mario Galaxy Movie , which was the first feature film of 2026 to reach $1 billion at the box office. It’s far from Pratt’s first movie to reach this milestone, though, thanks to the Guardians of the Galaxy movies and the Jurassic World franchise.
 
-### The 10 Greatest Sci-Fi Book Quotes of the Last 25 Years, Ranked
-Tue, 20 Oct 2026 19:23:12 GMT — https://collider.com/best-sci-fi-book-quotes-last-25-years-ranked/
+### 'Slow Horses' Star Reacts to the Season 6 Finale's Action-Packed Beach Battle
+Wed, 21 Oct 2026 07:00:12 GMT — https://collider.com/slow-horses-season-6-finale-flyte-death-ruth-bradley/
 
-Warning: Spoilers for all books discussed!
+Editor's note: The below interview contains major spoilers for the Slow Horses Season 6 finale.
 
-### 'Marshals' Is Officially Taking Over Taylor Sheridan’s Most Confusing 'Yellowstone' Storyline
-Tue, 20 Oct 2026 19:21:12 GMT — https://collider.com/marshals-season-2-taylor-sheridan-yellowstone-kayce-vision-meaning/
+### 22 Years Later, the Best Book Quote in Modern Sci-Fi Still Packs a Punch
+Wed, 21 Oct 2026 04:07:12 GMT — https://collider.com/cloud-atlas-best-quote-sci-fi-still-hits-2026/
 
-Ever since we first met Kayce Dutton ( Luke Grimes ), the former SEAL-turned-cowboy has been torn between two worlds. Though born into an American cattle dynasty, he was soon pulled onto the nearby Broken Rock reservation by his wife Monica ( Kelsey Asbille ), becoming a bridge between two worlds. That was his role on Yellowstone , and it's a part he continues to play on Marshals . Never has this been more apparent than in the cryptic and confusing visions he has seen up until now , visions that continue to direct his path in Season 2 of his CBS spin-off.
+Science fiction is one of the best genres for complex, introspective examinations of human nature. Although ostensibly concerned with the future of humanity and all the technological possibilities that can come with it, sci-fi is, at its core, about our ever-changing relationship with the world around us. The genre thrives on studies about the human psyche clashing against accelerated change , and how we as a species evolve as a consequence.
 
-### Cyberpunk Edgerunners 2: David's What-If Inspired Weak's Tragedy | Collider BTS
-Tue, 20 Oct 2026 18:15:12 GMT — https://collider.com/video/cyberpunk-edgerunners-2-david-s-what-if-inspired-weak-s-tragedy-collider-bts/
+### 'John Wick's Best Line Is Still the Greatest Quote in Franchise History
+Wed, 21 Oct 2026 03:26:13 GMT — https://collider.com/john-wick-best-quote-action-movie-keanu-reeves/
 
-What if David Martinez had survived the events of Cyberpunk: Edgerunners? That question helped inspire one of the central characters in Netflix's Cyberpunk: Edgerunners 2, according to co-creator and showrunner Bartosz Sztybor.
+In 2014, after a number of flops, Keanu Reeves revived his career with the epic action-thriller John Wick . The film's simple premise —Reeves' eponymous retired hitman is grieving his beloved wife ( Bridget Moynahan ), when his treasured Ford Mustang is stolen and the son of a Russian mob boss kills the puppy, leading him on a bloody path of vengeance — didn't necessarily suggest the massive international blockbuster the franchise would become. But the film itself does, particularly in a single line in which Wick finally declares that he's "back." It's time to unpack one of the greatest lines in action movie history .
 
-### The 10 Most Hopeless TV Shows of All Time, Ranked
-Tue, 20 Oct 2026 18:03:13 GMT — https://collider.com/most-hopeless-tv-shows-all-time-ranked/
+### 'VisionQuest’s Ruaridh Mollica Answers Every Burning Question After That Pivotal Episode 4 Gala
+Wed, 21 Oct 2026 03:00:13 GMT — https://collider.com/visionquest-episode-3-4-ruaridh-mollica-tommy-maximoff-disney-plus/
 
-The concept of a comfort show is a pretty widely-known one, and it does feel safe to say that comfort shows are probably more popular – again, as a concept – than comfort movies, books, or albums. That can come down to certain TV shows being easy to watch at one’s own pace, be it binging or doing one episode at a time, and because TV shows that run for seasons can have characters who you come to feel like you know incredibly well.
+This interview contains spoilers for VisionQuest Episodes 3 and 4.
 
-### Star Trek Officially Unites Kirk, Picard, Sisko, and More in Massive New Release
-Tue, 20 Oct 2026 18:00:12 GMT — https://collider.com/star-trek-60th-anniversary-magic-the-gathering-cards-images/
+### Netflix Is Officially Removing the Best Batman Movie Ever
+Wed, 21 Oct 2026 02:45:12 GMT — https://collider.com/christopher-nolan-batman-begins-leaving-netflix-november-2026/
 
-Star Trek celebrates its 60th anniversary this year, marking six decades since its first episode, " The Man Trap ," aired on NBC. Since then, it's spun off a galaxy of TV series, movies, and merchandise. Now, Star Trek is bringing together some of its most iconic characters like Captains Kirk, Sisko, Picard, and more for a massive new crossover release.
+The early 2000s were a golden era for superhero filmmaking , even though the genre truly took off only around a decade later. It was after the turn of the century that Bryan Singer delivered X-Men , Sam Raimi made Spider-Man , and Christopher Nolan released Batman Begins . The three movies offered distinct, director-driven spins on the superhero genre, which had previously experienced moments of success with the classic Superman movie starring Christopher Reeve and Tim Burton ’s Batman and Batman Returns . There can be no doubt that Nolan’s The Dark Knight trilogy changed not only how the world views superhero films, but also how Hollywood makes tentpoles. The trilogy is currently streaming on Netflix in the United Kingdom, but not for much longer.
 
-### 6 Most Amazing Marvel Video Games of All Time, Ranked
-Tue, 20 Oct 2026 17:52:12 GMT — https://collider.com/most-amazing-marvel-video-games-all-time-ranked/
+### DC’s R-Rated Batman Spin-Off Officially Takes Over Theaters in 3 Days
+Wed, 21 Oct 2026 02:31:12 GMT — https://collider.com/dc-horror-clayface-release-date-october-2026/
 
-Superheroes don't just have a chokehold on movies and television. They reign over the likes of video games, too, and have for quite some time. Superhero movies have been making gamers happy since 1978, starting with the release of DC Comics' Superman for the Atari 2600. Marvel Comics has been bringing its characters to life since 1982, with its title, Spider-Man , also for the Atari 2600.
+When James Gunn and Peter Safran announced the initial DCU slate, they imagined a cinematic universe that would span a wide range of genres , from the typical superhero action to comedy, fantasy, sci-fi, crime, and, of course, horror. The exact titles that make up the universe have changed, but the blueprint remains the same, with Creature Commandos providing early animated action followed by the tentpoles Superman and Supergirl , a second season of the comedic Peacemaker , and the True Detective -inspired Lanterns . Other ideas, like The People v. Gorilla Grodd and Man of Tomorrow , have come together depending on audience reaction and creators who want to get involved with the universe. One such idea came from horror maestro Mike Flanagan — Clayface .
 
-### ‘9-1-1’ Season 10 Officially Proves It’s the King of Thursday Nights
-Tue, 20 Oct 2026 17:34:54 GMT — https://collider.com/9-1-1-season-10-premiere-ratings-abc/
+### HBO Max Officially Revives One of the Best Sci-Fi Shows of the 21st Century
+Wed, 21 Oct 2026 02:15:13 GMT — https://collider.com/orphan-black-streaming-hbo-max-peacock-october-2026/
 
-ABC 's fan-favorite procedural 9-1-1 is back for its tenth season, and the show as ambitious as ever. The season premiere set up the latest multi-episode emergency after first responders and LA residents realized something was wrong. It turned out to be the beginning of a volcanic eruption, and the episode captured the growing dread and tension as everyone tried to figure out what was happening and what to do. The episode aired on October 15 as ABC's entire fall schedule finally returned.
+The 21st century has given audiences a wealth of sci-fi shows that have stood the test of time. From classics like Battlestar Galactica and The Twilight Zone to more modern favorites like The Expanse and The X-Files , the genre has consistently captivated audiences across generations. The rise of streaming has flooded the market with diverse options as platforms compete to create the next sci-fi classic. HBO Max, in particular, has made its mark on the genre with acclaimed offerings such as Westworld , Station Eleven , and Raised by Wolves . Now the streamer is expanding its sci-fi library with an underrated modern classic.
 

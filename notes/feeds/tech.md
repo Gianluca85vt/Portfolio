@@ -1,118 +1,118 @@
-# Tech — harvested 2026-10-20T20:07:59.745Z
+# Tech — harvested 2026-10-21T09:37:59.687Z
 
 ## Ars Technica
 
-### Polestar tries to quantify what it’s like to drive a performance car
-Tue, 20 Oct 2026 14:53:07 +0000 — https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/
+### PHP warns it plans to release 2 emergency patches imminently
+Wed, 21 Oct 2026 02:12:18 +0000 — https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/
 
-The human desire to go fast is old, dating back at least as far as the first time some adventurous Yamnaya saw a horse on the Pontic-Caspian steppe and thought, “I bet if I jumped on that thing’s back, it would be faster than walking.” A thousand years later, someone else invented the wheel—and the chariot—and humanity was ready to roll. Now, about five millennia since that first horseback ride, equestrianism is mostly a leisure activity, and we drive cars, propelled by motors with more power than an entire herd of beasts could muster. Acceleration, top speed, and lap times are the usual ways we quantify that performance, and performance electric vehicles are currently in an arms race to see which one can hit 60 mph in the least amount of time. But measuring a car’s performance is easy—all you need is a stopwatch and a track. How about measuring the effect of car performance on the driver? That’s a question Polestar is trying to answer with researchers at the University of Oxford. Read full article Comments ]]>
+Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. Waiting for PHP2Shell “All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available,” the advisory stated. “We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild.” Read full article Comments ]]>
 
-### Meta Muse exposes users' personal and business secrets when they share conversations
-Tue, 20 Oct 2026 12:33:13 +0000 — https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/
+### Merging SpaceX and Tesla would be a "good idea," Musk says
+Tue, 20 Oct 2026 22:04:54 +0000 — https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/
 
-Muse, the new general-purpose AI agent from Meta, can expose sensitive information when users share conversations through web links, researchers reported Monday. In response to questions from Ars about the behavior, Meta said it's suspending the sharing feature while the company reviews it and considers making changes. Like many online services, Muse has allowed users to share searches, conversations, images, and similar content with other people. Such share features usually involve clicking an option to create a unique URL that anyone can use to load a page hosting the content. To keep potentially sensitive information from being accessible to unintended people, the URLs typically contain a long sequence of text that can’t be easily guessed. A single query is all that's required Muse, which Meta CEO Mark Zuckerberg said last month was “built from the ground up for privacy and security,” seems to take the same precautions. But a central design decision for constructing URLs has made the links easy to discover. As a result, researchers from security firm Claroc said they were able to enumerate 6,800 links Muse users created for sharing conversations with others. After opening a few hundred of them, the researchers found information that was clearly not intended to be publicly available, including: Read full article Comments ]]>
+Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla. "Do I think it would be a good idea? Yes," Musk said of a potential merger. He was speaking during a question-and-answer period as part of SpaceX's third-quarter earnings call. Musk said, ultimately, it not his decision. "But at the end of the day the shareholders have to be supportive of this." Musk's talk of a merger comes after a busy year in which SpaceX already acquired Musk's artificial intelligence firm, xAI, in February. In June, SpaceX went public with the largest initial public offering on record. Read full article Comments ]]>
 
-### Visiting Slate’s first showroom as its $25,000 electric truck nears production
-Tue, 20 Oct 2026 11:00:16 +0000 — https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/
+### Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies
+Tue, 20 Oct 2026 21:44:34 +0000 — https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/
 
-As I sat in the cab of the pickup truck and manually rolled down the windows, I closed my eyes and, for the briefest moment, flashed back to opening the windows on a cold, winter day in my dad’s 1975 Ford Ranger to let more cigarette smoke escape. I opened my eyes and looked through the windshield at a wall in the Slate Customer Experience Center studded with bright color chips. Last week, in a former Tesla store staffed by some former Tesla employees, Slate opened its first showroom. Located in the Fulton Market District just northwest of the Chicago Loop, the Slate Experience Center is a place for would-be buyers to poke around a prototype, check out customization options, buy some Slate merch, and even preorder a new Slate Truck with a $300 deposit. Designed for the American obsession with pickup trucks, the Slate Truck is a bare-bones electric pickup truck retailing for $24,950 . It sports plastic panels, a minimalist interior design sensibility, actual window winders, and a projected range of 205 miles. Ars went for a ride in a Slate Truck over the summer , but we haven't had a chance to shop for one. So I stopped by the Slate Experience Center so I could, er, experience the Slate. Read full article Comments ]]>
+Police in Guinea-Bissau raided the offices of Danish researchers on Monday, seizing doses of hepatitis B vaccine intended for a vaccine trial for newborns. International health experts have called the trial " unethical ," but anti-vaccine Health Secretary Robert F. Kennedy Jr. has attempted to fund it with US taxpayer dollars. Under Kennedy, the US Centers for Disease Control and Prevention announced in December that it had awarded the Danish researchers—led by married couple Peter Aaby and Christine Stabell Benn of Bandim Health Project— an unsolicited $1.6 million grant to run the trial . Aaby and Stabell Benn are controversial vaccine researchers who claim vaccines cause overlooked harms. They have been repeatedly praised by Kennedy, but are currently under investigation for alleged scientific misconduct by Danish authorities. Plans for the trial were halted in January as widespread condemnation erupted over the trial's design, which would potentially expose thousands of newborns in the country to hepatitis B, risking a lifelong infection that can lead to liver cirrhosis, cancer, and premature death. Outrage flared again after a Rolling Stone story earlier this month claimed the CDC set aside another $1.6 million in funding in late September and planned to move forward with the trial. Read full article Comments ]]>
 
-### Japan launches mission to bring home a piece of the Martian moon Phobos
-Tue, 20 Oct 2026 05:59:56 +0000 — https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/
+### Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix
+Tue, 20 Oct 2026 21:14:33 +0000 — https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/
 
-Japan launched a $578 million mission Monday on a five-year expedition to land on the largest moon of Mars and retrieve samples for return to Earth, a daring international project that could yield new insights into the formation of the Solar System. The robotic Martian Moons eXploration mission, known as MMX, lifted off at 3:41 pm EDT Monday (4:41 am Japan Standard Time Tuesday) from Tanegashima Space Center in southern Japan. The MMX spacecraft rode into orbit atop a 207-foot-tall (63-meter) H3 rocket, Japan's flagship launch vehicle. The rocket assigned to MMX debuted a new souped-up configuration with four strap-on solid rocket boosters, full-throttle main engines, and an extended payload shroud to accommodate the demands of Japan's heaviest and most ambitious interplanetary mission to date. Read full article Comments ]]>
+We haven't heard many details about Microsoft's upcoming "Project Helix" gaming hardware since the company announced it in March as a device that will "play your Xbox and PC games." In a new wide-ranging profile of Xbox CEO Asha Sharma , though, Fortune alludes to a dual release strategy for upcoming Microsoft gaming hardware, with "a next-generation handheld device" planned by the end of next year and a 2028 holiday season console release that could cost between $1,200 and $1,800. That future console price range is based on what has "internally been projected" at the company, according to Fortune. But the price for consumers could come down if "Microsoft decides to subsidize the cost," the outlet says, as many console makers have done in the past . While a $1,200 starting price would be historically high for the game console market, even accounting for inflation , it also reflects a new normal: The slowdown in Moore's Law and AI-driven component shortages mean cutting-edge gaming hardware just isn't as cheap as it used to be. This year, the Steam Machine broke the $1,000 starting price , while the 2-year-old technology in the PlayStation 5 Pro is now going for $900 , and the 6-year-old Xbox Series X now starts at $750 . Read full article Comments ]]>
 
-### Pennsylvania issues alert on congenital measles—something US hasn't seen for decades
-Mon, 19 Oct 2026 22:44:26 +0000 — https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/
+### JustWatch, which tackles streaming fragmentation, launches own streaming service
+Tue, 20 Oct 2026 20:20:12 +0000 — https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/
 
-Pennsylvania's health department issued a health alert Monday as cases of measles in pregnancy and, in turn, cases of congenital measles have continued to increase. Before the current outbreak—which continues to rage across the state—congenital measles cases hadn't been seen in decades, the department noted in its advisory. The alert included detailed clinical guidance for managing measles exposures and cases during pregnancy as well as cases in newborns. Many doctors have never seen such cases in their careers given the decades of successful use of the measles, mumps, and rubella (MMR) vaccine. But now, with vaccination rates slipping nationwide, the highly infectious virus is better able to get footholds in communities and spread rapidly through under-vaccinated pockets, as is happening in Pennsylvania. As of October 19, Pennsylvania had reported 1,286 measles cases this year across 42 counties. Of those, 247 have been hospitalized, and six people have reportedly died (though the latest reported death is still pending an investigation by the state health department before it is added to the state tally). Read full article Comments ]]>
+Since launching in 2015, JustWatch has helped people navigate the growing number of streaming services by providing a guide on where to find movies they want to stream. Now JustWatch has its own streaming service and wants people to subscribe. Launched today, JustWatch TV offers some movies available for free with ads that aren’t free on any other streaming service, including Green Room (2015), Locke (2013), and Sing Sing (2023). Other free movies include Fiddlin ’ (2018 ), Friday the 13th (1980), and Hotel Mumbai (2018). I could play movies available for free on JustWatch TV without creating an account. JustWatch TV also has movies you can rent. Read full article Comments ]]>
 
-### Russian spacecraft maneuvers in "extreme proximity" to satellite used by Ukraine
-Mon, 19 Oct 2026 20:54:17 +0000 — https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/
+### Meta drops the word "train" from its commercial TOS after AI backlash
+Tue, 20 Oct 2026 20:07:58 +0000 — https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/
 
-A Russian military satellite maneuvered in "extreme proximity" of a commercial Earth-imaging satellite in recent days in the first known example an unsanctioned rendezvous in low-Earth orbit, according to orbital intelligence company LeoLabs. The Russian spacecraft, Kosmos 2612, "conducted a deliberate series of maneuvers toward ICEYE-X36, a US-operated commercial imaging satellite," LeoLabs said. "Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36. It then maneuvered around ICEYE-X36, remained nearby for an extended period, and then began moving away." US military officials and independent analysts have tracked Kosmos 2612 since its April launch on a Soyuz rocket from a spaceport in northern Russia. Within weeks, it became apparent that at least four of the six satellites from that launch were stalking ICEYE-X36 after they adjusted orbits to line up with the orbit of the ICEYE spacecraft. Read full article Comments ]]>
+Hoping to quell criticism, Meta has dropped the word “train” from its “streamlined” commercial terms of service that kick in on October 30. Last week, Meta faced backlash after legal experts warned that the tech giant’s sweeping new commercial terms of service seemed to give Meta permission to endlessly scrape websites linked on business pages. Talking to Nieman Lab, experts suggested that Meta could possibly use the policy to avoid millions in licensing fees from news organizations by requiring all business users to share a wealth of AI training data simply for running a business page. A Meta spokesperson confirmed that Meta did not alert users to the changed language following backlash. This potentially only adds to confusion ahead of the policy rollout. In response to backlash, Meta's spokesperson provided a statement to Ars, acknowledging Nieman Lab's initial report but not its follow-up report reiterating experts' concerns: Read full article Comments ]]>
 
-### Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says
-Mon, 19 Oct 2026 20:21:53 +0000 — https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/
+### Gemini's Personal Intelligence is coming to cars
+Tue, 20 Oct 2026 20:00:33 +0000 — https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/
 
-On Monday, a court granted the US government's request to deny release of a former OpenAI engineer accused of bugging a top-secret conference room to steal the frontier lab’s secrets. In a court filing Sunday, US attorney Craig Missakian argued that Abdulrahman Alfozan must continue to be detained while the US makes its case that Alfozan brazenly spied on OpenAI, either for his own personal business gain or to benefit the Kingdom of Saudi Arabia. Evidence showed that Alfozan had been chatting with a member of the KSA royal family on WhatsApp, while pursuing opportunities to permanently move back to Saudi Arabia during the country's biggest AI push yet, the government argued. Shortly before his arrest, the FBI found he accessed a folder called "Saudi Gov Docs" on his iPhone, where he also allegedly stored photos of a second bug he planted in the offices. Read full article Comments ]]>
+Google kicked off 2026 with the addition of Personal Intelligence to Gemini, allowing its AI to pull in more of your data to formulate answers. It started as a paid feature but eventually came to all Gemini users. However, this feature wasn't available in the car until now. Google is rolling out Personal Intelligence to Android Auto and Google Built-in, and it is still, thankfully, an optional feature. As Google points out , a generative AI's outputs are better "when it knows the world and knows you," which is correct in an uncomfortable sort of way. The more context you can provide to a model, the better the output will be at the end of the token shuffle. Since Google has so much of your data already, it sees Personal Intelligence as a differentiator versus other AI systems. You don't have to provide the AI context because it already has it from apps like Gmail and Calendar. Personal Intelligence is beginning its rollout in Android Auto today, and it will come to vehicles with Google built-in in the next few months. As an aside, "Google built-in" is questionable branding, but it refers to cars that run Google software in the infotainment system rather than projecting an interface from your phone. Very few vehicles have Google built-in, but Google often releases new car features on them first. This time, it's the other way around. Read full article Comments ]]>
 
-### Batteries help reduce emissions, but how do we reduce their emissions?
-Mon, 19 Oct 2026 20:03:55 +0000 — https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/
+### OpenBSD 8.0 arrives with security record still intact
+Tue, 20 Oct 2026 19:57:18 +0000 — https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/
 
-The first order of business for the energy transition is electrifying applications like vehicles and heating and making sure that the electricity that powers them is made using renewables. But once the dominant slices of the emissions pie have shrunk, other categories with less potential to reduce emissions become important. A new study led by Haiwei Zhou at the University of Melbourne focused on the emissions associated with making lithium-ion batteries, which many parts of the energy transition rely on. Those emissions aren’t zero, so as we use more and more batteries, that number will grow. Right now, the researchers estimate that these emissions only account for 0.18 percent of annual greenhouse gas releases, but they could increase by a factor of 10 or more by 2050. Avoiding production There are a number of ways to reduce the emissions required to make a battery. Some elements used in various lithium-ion battery chemistries are more energy-intensive to mine and refine than others. The battery manufacturing process involves many steps that could be made more energy-efficient. And then there’s recycling, which can put battery materials back into the loop while requiring much less energy than mining. Read full article Comments ]]>
+OpenBSD 8.0 is here, marking the project's 61st release and continuing its schedule of semiannual releases dating back to 1996. What started more than 30 years ago as a fork of NetBSD has grown into one of the most security-conscious operating systems in active development. In a post to the project's announcements mailing list, OpenBSD founder Theo de Raadt highlights a host of improvements included with the latest version and writes that the project remains "proud of OpenBSD's record of more than thirty years with only two remote holes in the default install." The latest OpenBSD version brings new features and improvements across the board. These changes, particularly the new Intel Arc support and expanded virtual address space, should improve compatibility with modern graphics cards and allow the system to map more than 4GB of VRAM . Some of the major updates noted in the release newsletter are as follows: Added support for Intel Arc A-Series (DG2/Alchemist) graphics cards. 512GB kernel virtual address space on AMD64, up from 4GB, allowing VRAM mapping above 4GB. Added hibernation support for ARM64 systems. A new RPKI -to-router daemon: rtrd(8) . RISC-V improvements including kernel support for the 'V' vector extension and support for Advanced Interrupt Architecture. Wireless network driver additions and improvements, including 802.11n and 40 MHz channels for the qwx(4) wireless driver . Added support for up to 64 virtual CPUs per guest virtual machine. Security and interna
 
-### PSA: Patch your Plex media server before someone hacks it
-Mon, 19 Oct 2026 19:39:19 +0000 — https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/
+### The Internet goes on high alert after discovery of 8 compromised TLS certs
+Tue, 20 Oct 2026 19:47:35 +0000 — https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/
 
-Recently fixed vulnerabilities in the Plex Media Server are under active exploitation in attacks that, when successful, install malware, including cryptominers and residential proxy apps, a researcher said. Plex fixed four vulnerabilities at the start of last month. Three weeks later, published CVE designations revealed five vulnerabilities, with one of them carrying a severity rating of 8.6 out of 10. A researcher last week revealed an exploit that chained four of them together to achieve remote code execution of the device running a vulnerable Plex version. The researcher named the chain "Plex2Shell." Complex exploit chain The new details allowed a separate researcher to create a honeypot that could track attempts in the wild to exploit the vulnerability chain. Within a day, the researcher began seeing active scanning of the simulated Plex server and eventually successful attempts to infect devices. So far, successful attacks are installing two payloads. One is a cryptominer, which uses the device to mine cryptocurrency and deposit it into a wallet controlled by the attacker. The other payload is residential proxy software, which allows people to anonymize their Internet activity (much of it illegal) by connecting to the infected box and then using it to send the user’s traffic to a final destination. Read full article Comments ]]>
+Security personnel around the world are on high alert Tuesday following the discovery of eight TLS certificates with private keys so weak they could allow anyone to mint trusted browser and app credentials for any site on the Internet. As of late morning Tuesday, browser makers and some major apps and programming languages had blocked all eight of the intermediate certificates. There are no reports of certificate transparency logs, which track the issuance of all browser-trusted certificates, showing the compromised keys being used maliciously. The threat remains far from over, however, because it will be hard and time-consuming to update other key parts of the Internet, such as Linux distributions and embedded and Internet of Things devices. One word: bonkers The eight intermediate certificates belong to India-based certificate authority eMudhra Limited. An informal advisory published to emudhra.we-have-a-problem.com over on Tuesday posted the message “We have a problem here - Wayne.” The words were digitally signed using the private key of one of the eMudhra certificates. With proof that the reporting party had control of the key, defenders scrambled because the same key could be used to sign unauthorized certificates that would be trusted by millions of servers worldwide. Read full article Comments ]]>
 
-### Startup taps underwater volcano as energy source in "proof point" test
-Mon, 19 Oct 2026 19:27:24 +0000 — https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/
+### TP-Link tries to appease Trump admin with pledge to assemble routers in US
+Tue, 20 Oct 2026 19:25:14 +0000 — https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/
 
-The world’s first demonstration of a subsea geothermal power plant has taken place near an active underwater volcano almost a mile below the ocean surface. It generated less than 10 seconds of net-positive electricity but showed the technical feasibility of tapping another form of renewable energy underwater. The three-week test deployment of the 3-ton prototype power plant took place at the Axial Seamount in the northeast Pacific Ocean in September. Endurance Energy, the Seattle-based startup behind the effort, aims to eventually commercialize subsea geothermal power for Pacific island nations and other customers looking for alternatives to importing expensive fossil fuels. “The deep ocean gives us unlimited cold seawater for cooling, and its weight keeps the system and the well pressurized, so our plants can be compact,” said Andrew Redd , founder and CEO of Endurance Energy, in an email to Ars. Read full article Comments ]]>
+TP-Link yesterday announced plans to assemble Wi-Fi routers in the US, as the company attempts to get the Trump administration's approval to sell its newest routers to American consumers. The timing is uncertain, as TP-Link's press release said it expects US-based assembly to begin "as early as" 2027. TP-Link's application to sell new routers in the US could be rejected by the Trump administration or remain pending long enough to push the US-based assembly to 2028. "Pending US regulatory approval, TP-Link expects domestic assembly of its groundbreaking Wi-Fi 8 home networking product line to begin as early as next year," the company said. TP-Link said it signed a Letter of Intent with US company Keytronic, which agreed "to become a primary domestic manufacturing partner for TP-Link, supporting assembly of the company’s advanced networking portfolio in Corinth, Mississippi." Read full article Comments ]]>
 
-### ReactOS reaches major milestone with NTFS install support
-Mon, 19 Oct 2026 18:30:56 +0000 — https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/
+### Does anyone actually want to win the medium-lift race in the United States?
+Tue, 20 Oct 2026 19:13:31 +0000 — https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/
 
-Open source Windows alternative ReactOS has reached a major milestone: The operating system can now be installed directly onto an NTFS drive partition. As reported by Phoronix , the move to NTFS clears a long-standing hurdle for the project and brings it one step closer to finally reaching beta. Prior to this latest announcement, ReactOS required users to keep a FAT32 partition for installations. A proprietary Microsoft-developed filesystem, NTFS can trace its roots back through the Windows NT family lineage starting in 1993 with Windows NT 3.1. The variant introduced with Windows XP in 2001 remains the standard used by most Windows systems today. With ReactOS's stated goal of reaching binary compatibility with Windows Server 2003, being confined to FAT32 partitions was a practical barrier to clear on the way to reproducing the Windows environment. However, users looking to hop off the Windows train shouldn't be grabbing their bags just yet. ReactOS wrote that the new driver still "lacks caching (which causes inferior performance), journaling and security support." So while the new driver is here, even the most intrepid of OS tinkerers should tread carefully. The ReactOS team warned in its announcement on X that there are still "potentially undiscovered bugs." Read full article Comments ]]>
+It has been 13 years since the debut of a new medium-lift rocket in the United States, the Antares vehicle developed by Orbital Sciences Corporation. The initial 100-series variant of the Antares rocket was kind of a hot mess. The rocket used old Soviet engines built during the era when Apollo astronauts were landing on the Moon. Decades later, in the 1990s, Aerojet acquired the engines and refurbished them for a rocket that would launch in the 2010s. Predictably, on the fifth launch of an Antares rocket in 2014, it exploded. The Antares vehicle is the last of a dying breed of medium-lift rockets—defined as having a lift capacity of 2 to 20 metric tons—in the United States. Nearly a decade and a half later there is a new generation of medium-lift vehicles coming online, and they are starkly different from Antares, which had not just Russian engines but a core stage manufactured in Ukraine. Read full article Comments ]]>
 
-### AI game clones are making indie developers afraid to show their work
-Mon, 19 Oct 2026 16:59:22 +0000 — https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/
+### Ukraine’s drone rescue of wounded soldier puts much touted idea into practice
+Tue, 20 Oct 2026 18:22:54 +0000 — https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/
 
-Since its earliest days, the video game industry has been built on developers creating clones of competing games , with varying levels of originality and varying levels of enforcement from game platforms . Now, though, AI coding tools are making that cloning process so efficient that many developers are getting extremely cautious about sharing their early work too widely. Developer Alliance Arts highlighted this trend over the weekend, delaying the launch of a planned public demo for its demon-themed Russian Roulette drinking game Drunken Goddess Reflux , which had been set to go live with today's launch of Steam Next Fest . In a post on social media Friday evening , the Alliance Arts team wrote that, in addition to concerns about managing streaming restrictions, "we're concerned that the demo's content could be used to quickly imitate or replicate the game's presentation and gameplay with AI or other tools and that such works could be released before our launch." Read full article Comments ]]>
+Ukraine’s unprecedented drone rescue of a wounded soldier from the battlefield has shown once again how battlefield necessity can spur innovation. The operation was revealed just days after separate Ukrainian drones designed for casualty evacuation were deployed for frontline testing—taking a step beyond the US military’s decades of experimentation with similar concepts. The drone evacuation of the injured soldier took place at an undisclosed time and place on the frontline where the presence of Russian drones and landmines made it impractical to send in a wheeled ground robot , according to The Kyiv Independent . On October 19, Ukraine’s Army shared a video of the drone evacuation, showing the wounded soldier securing himself in a harness suspended beneath a heavy hexacopter drone with six rotors before being flown to safety. “This is a historic event, the next stage of evacuating the wounded, which we will all come to,” said Napalm, a programmer of the 92nd separate assault brigade's unmanned ground systems company, who went by his callsign per Ukrainian military practice, in a statement. “Now the serious systematic work begins, so that such missions are carried out constantly.” Read full article Comments ]]>
 
 ## The Verge
 
-### Logitech’s refurbished G Pro X2 Superstrike is 35 percent off
-2026-10-20T16:00:00-04:00 — https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale
+### YouTube might be testing hiding the dislike button
+2026-10-20T20:00:56-04:00 — https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu
 
-Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished through Logitech’s official eBay store for $131.74 (usually $179.99), and for even less with the code PROXPRODUCTS15 applied at checkout. It drops the price to just under $117. Logitech G Pro X2 Superstrike Where to Buy: $179.99 $117 at eBay (refurb, w/ code PROXPRODUCTS15) The G Pro X2 Superstrike came out earlier this year, and I went hands-on with it. Logitech’s companion software lets you customize the intensity of the haptics, from an extra punchy click to one that’s barely there (you can also turn the click feel off completely, but that felt a bit strange). The mouse also supports rapid trigger, and when used together with haptics, it lowers the click latency compared to other mice that have mechanical switches. The company followed up recently with the X3 Superstrike , though its differences may not matter much to those who aren’t competitive gamers. The X3 features a more responsive sensor, better battery life, and improved weight distribution. There are some other somewhat small changes to the specs. That said, none of these improvements makes the X2 feel obsolete, and Logitech is continuing to support and sell the mouse. So, if you want to give it a try, 
+YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google . At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared an image of the dislike button being absent for them. Right now, for me, the dislike button sits right next to the like button under a video. Moving it to a submenu would make it considerably more of an effort to access, meaning that fewer people would likely use it. YouTube keeps on getting worse… First the dislike counter got removed, then the button got removed on YouTube Shorts, now the disli … Read the full story at The Verge. ]]>
 
-### DJI’s Osmo Pocket 3 vlogging camera is a good deal at under $400
-2026-10-20T15:09:35-04:00 — https://www.theverge.com/gadgets/1014456/dji-osmo-pocket-3-switch-sports-resort-deal-sale
+### Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
+2026-10-20T19:04:19-04:00 — https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed
 
-DJI’s Osmo Pocket 3 is a big upgrade from your phone’s video quality. | Image: The Verge If you’re the kind of person who likes to document everything, either for professional and/or personal reasons, and your phone’s camera isn’t cutting it, you might be considering a dedicated vlogging camera. The DJI Osmo Pocket 3 is discounted to $395 (usually $499) at a variety of retailers, including Amazon , Best Buy , and B&H Photo . The large 1-inch sensor is mounted to a built-in gimbal that offers smooth, stable movement, letting you take impressive videos of your travels, activities, or daily routine. The built-in screen helps you frame shots and check footage on the go without pulling out your phone. DJI Osmo Pocket 3 The Pocket 3 features a 1-inch CMOS sensor, three built-in microphones, and a 2-inch rotatable screen. If you’re unhappy with the video your phone captures, DJI’s compact cam makes it easy to get high-quality, stabilized footage, whether you’re vlogging your adventures or filming a wedding. Read our impressions . Where to Buy: $499 $395 at Amazon $499 $395 at Best Buy $499 $395 at B&H Photo The Pocket 3, like its name implies, is compact enough to easily slide into a pocket or small bag, yet still manages to take high quality video. The results are often compared to pricier dedicated mirrorless digital cameras, delivered without the fuss of tweaking exposure or heavy post-processing. It’s capable of shooting up to 4K at 120 frames per second, and while it has built-
+On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian , the judge wrote that over the past year, Ann had failed to appear for an independent medical examination or meet other deadlines despite warnings that it would result in the case being dismissed. When the case was filed last year, a statement shared by Sam Altman, his mother, and his brothers said, "Annie has made deeply hurtful and entirely untrue claims about our family, and especially Sam… All of these claim … Read the full story at The Verge. ]]>
 
-### Xbox CEO is reportedly planning three more rounds of layoffs
-2026-10-20T15:06:40-04:00 — https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs
+### Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program
+2026-10-20T18:20:11-04:00 — https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers
 
-Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune . In July, as part of an organizational "reset," Sharma announced planned layoffs affecting 3,200 staffers over the course of Microsoft's 2027 fiscal year, including 1,600 cuts at that time, and in September, Microsoft laid off around 260 employees . Sharma's changes have also included letting Double Fine and Compulsion Games become independent again, though Senua developer Ninja Theory may close. The report also touches on speculation that Xbox may be spun off or sold, and Judson Althoff, the CEO of Microsoft's commerci … Read the full story at The Verge. ]]>
+Influencer Nick Shirley listens as US President Donald Trump makes an announcement on fraud in the Oval Office of the White House in Washington, DC, on October 20, 2026. (Photo by Jim WATSON / AFP via Getty Images) | AFP via Getty Images Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley published a viral video alleging fraud at daycares in Minnesota that were operated by members of the local Somali community. Shirley lingered in parking lots and asked to enter childcare centers, taking refusals as evidence that the centers weren't actually caring for children. The video quickly went viral, triggering a massive governmental response: Federal immigration agents descended on the … Read the full story at The Verge. ]]>
 
-### Amazon is phasing out Fire HD tablets, but not without some big discounts first
-2026-10-20T15:00:00-04:00 — https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale
+### Google’s more personalized Gemini AI is heading to your car
+2026-10-20T18:11:34-04:00 — https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto
 
-The Fire HD 10 offers a sharper, larger screen than its smaller siblings. | Image: Amazon Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets . While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic deal on the ad-supported Amazon Fire HD 10 . It has dropped to a new low of $72.99 ($82 off) at Amazon . While it’s far from the fastest tablet out there, it’s a solid option for watching movies, reading books, or browsing the web. And, it’ll continue to get security updates. Amazon Fire HD 10 (2023) Where to Buy: $139.99 $72.99 at Amazon (32GB, with ads) The Fire HD 10 is one of the nicer models in Amazon’s budget-friendly Fire lineup, and at its current price, is actually slightly cheaper than the Fire HD 8. The Fire HD 10 offers a spacious, sharper 10.1-inch 1080p display that makes watching shows and reading more enjoyable than on the Fire HD 8’s smaller, lower-res screen. It also offers better front-facing cameras for video calls and up to 13 hours of battery life, so you don’t need to worry about it dying during long road trips or flights. If the 32GB of built-in storage isn’t enough, there’s a microSD card slot for expanding it up to 1TB, so you can download more apps, movies, shows, and books for offline use. Plus, Amazon’s tablet has a 3.5mm headphone jack — something you won’t find on newer iPads. If you’re really into smart assistants, the Fire HD 1
+Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. As an example, Google says you can ask Gemini about your flight status if you're driving to the airport. The AI assistant can pull your flight details from a confirmation message in Gmail and then use that information to look up the status. You can also ask Gemini to "take me to my doctor's appointment" instead of pulling up directions manually, or ask it to "find the car wash from the photo I t … Read the full story at The Verge. ]]>
 
-### JustWatch now streams TV shows and movies, too
-2026-10-20T14:56:50-04:00 — https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental
+### Tesla and SpaceX are discussing a possible merger, Musk says
+2026-10-20T17:30:24-04:00 — https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees
 
-After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today. The new streaming service offers an ad-supported free subscription, an ad-free paid subscription, and movie rentals with content from 30 global partners. The streaming service is accessible through JustWatch's existing mobile apps and its website and is currently available in 12 markets including the US, Canada, France, Italy, Australia, and the UK. Content providers include Bleecker Street, Cineverse, Fremantle, New … Read the full story at The Verge. ]]>
+Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday . Musk, who serves as CEO of both companies, said the special committees were formed at the request of shareholders and consist of independent directors (though he did not name them). He also noted that he is not a member of either committee, nor involved in any of the discussions. "Because I'm a conflicted party, I can't actually be in the discussions of the special committees," Musk said. "So it's an odd kabuki dance where two groups of people are talking and I can't be in the conversation. … Read the full story at The Verge. ]]>
 
-### Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028
-2026-10-20T14:45:39-04:00 — https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor
+### SpaceX will try catching Starship and its booster for first time, Musk says
+2026-10-20T17:02:53-04:00 — https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says
 
-Microsoft is reportedly planning to launch an Xbox "next-generation handheld device" for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report from Fortune . The report doesn't make it clear whether the handheld would be made by a manufacturer like Asus, or by Microsoft itself. Xbox teamed up with Asus for its Xbox Ally devices, which ran a modified version of Windows 11 with an Xbox mode enabled. Xbox CEO Asha Sharma has also described Project Helix as a " family of devices ," suggesting that Microsoft's next Xbox console may not be just one piece of … Read the full story at The Verge. ]]>
+SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in history an orbital launch vehicle has been fully recovered. "This is a profound technology milestone in the history of civilization consciousness," he said during the company's third quarter earnings report Tuesday . But he also allowed for the possibility of a failure. "Success is not guaranteed on these first flights, but I'd say it's more likely than not that this succeeds next flight," Musk sa … Read the full story at The Verge. ]]>
 
-### Can you see everything?
-2026-10-20T14:30:00-04:00 — https://www.theverge.com/policy/1014687/fielder-holmes-you-can-see-everything
+### Netflix is telling investors not to worry, even though you re watching less and less
+2026-10-20T16:52:07-04:00 — https://www.theverge.com/streaming/1014826/netflix-earnings-q3-2026-viewing-time
 
-What are we looking at, and who wants us to see it? | Image: A24 This review contains spoilers. I have heard it said that of all the drugs, fame is the most addictive. For Elizabeth Holmes, at least, I am willing to believe that is true. It is the only explanation for You Can See Everything , a movie that is, at its core, about several varieties of manipulation. Holmes, as the CEO of Theranos, was a business-world celebrity : a woman who'd built a private company valued at $9 billion around a miniaturized blood testing platform that supposedly let people test just a drop of blood for a variety of ailments. She had a deal with Walgreens, speaking gigs, a New Yorker profile, a cover story in Fortune ; Fox Ne … Read the full story at The Verge. ]]>
+Netflix is making monetization a top priority amid reports of falling viewing time. As part of its third-quarter earnings report on Tuesday , Netflix lists improvements to monetization as one of its main focuses going forward, alongside efforts to boost entertainment value and leverage new technology. The streaming giant doesn't say exactly how it plans to improve its monetization, but the company notes that these goals will help Netflix "create member value that lets us occasionally raise prices, and increase advertiser demand." Netflix also highlighted plans to push further into original titles, live events, and third-party programming as … Read the full story at The Verge. ]]>
 
-### Meta pauses Muse sharing after researchers find AI chats on the web
-2026-10-20T14:07:34-04:00 — https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats
+### Snap is paying Robert Downey Jr. to do the Iron Man thing
+2026-10-20T16:32:09-04:00 — https://www.theverge.com/tech/1014869/snap-specs-robert-downey-jr
 
-Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica . In a report published this week , researchers at the security firm Claroc say they found more than 6,800 Muse links through public DNS records. "People have the ability to share specific Muse artifacts, which creates a page that can be accessed by those with the link," Muse spokesperson Tracy Clayton says in an emailed statement to The Verge . "However, we've paused this functionality while we review this report and consider changes to how these links can be dis … Read the full story at The Verge. ]]>
+Snap has a new brand ambassador for its Specs AR glasses: Iron Man actor Robert Downey Jr. The company has brought on Downey as Specs' "Chief Customer Experience Officer" and has published several videos featuring Downey showcasing the capabilities of the new glasses, including as a tool to get help with a putt , practice art , and watch a private video of an MMA match in bed. In one video , he also dumps the contents of a box labeled "AI glasses" into a trash bin - a shot at Meta's popular smart glasses. As part of the partnership, Downey will "work alongside the SPECS team to explore how augmented reality can improve the way people live and … Read the full story at The Verge. ]]>
 
-### The $20,000 Voxel bot will help you find misplaced things around your home
-2026-10-20T13:49:55-04:00 — https://www.theverge.com/tech/1014533/tuesday-labs-voxel-series-1-home-robot-reservation
+### SpaceX says big AI growth fueled revenue jump
+2026-10-20T16:26:58-04:00 — https://www.theverge.com/science/1014150/spacex-q3-2026-earnings
 
-Tuesday Labs , a New York City-based robotics lab and design studio, has opened reservations for Voxel, its new bi-pedal robot designed to learn and take over routine tasks throughout your home. Similar to other robots like Weave Robotics' Issac 1 that are designed for household chores beyond mopping or vacuuming floors, Voxel features a pair of highly-articulated arms and an advanced vision system. If you're interested in bringing home what Tuesday Labs describes as a "droid butler" you can reserve one now for $200 while full pricing is expected to be around $20,000 when Voxel ships sometime in 2028. The model available for preorder is know … Read the full story at The Verge. ]]>
+SpaceX announced revenues of $14.6 billion in its Q3 earnings on Tuesday , which it says was a growth of 161 percent year-over-year "fueled by our Super Intelligence (SI) segment and accelerated growth in Connectivity." While its Space division posted a $7 million loss in income from operations, its Connectivity group posted income from operations $2.4 billion and its SI group posted $431 million. The company's so-called "SI" business saw revenues of $7.6 billion, which were up 830 percent year-over-year, "primarily driven" by "the activation of new cloud services agreements, the acquisition of Cursor, and increased Grok adoption across ente … Read the full story at The Verge. ]]>
 
-### Chrome will now show a warning before you visit ‘suspicious’ sites
-2026-10-20T13:00:00-04:00 — https://www.theverge.com/tech/1014446/google-chrome-suspicious-website-warning
+### Oura adds two new cardiovascular health tracking features to its smart rings
+2026-10-20T16:26:04-04:00 — https://www.theverge.com/tech/1014712/oura-smart-rings-track-cardio-effort-vo2-max-cardiovascular
 
-If you know for sure that a website flagged as suspicious is actually safe, you can mark it as such. | Image: Google Google is launching a new browser safety feature for Chrome that aims to keep you better informed about how malicious a website might be before you open it. The new suspicious site warnings, available when Chrome's Enhanced Protection is on, build on a similar two-stage system introduced for Chrome file downloads in 2024 , which provides visually different notifications for blocked files based on whether they're determined to be "suspicious" or "dangerous." For the Chrome site warnings, the feature will flag a website as suspicious if it detects that it has similar qualities to other sites associated with phishing, malware, and scams. Google … Read the full story at The Verge. ]]>
+Oura is introducing two new cardiovascular-focused health tracking features to its smart rings designed to help users better understand the effect regular workouts and exercise are having on their long-term health, and whether they need to ramp it up or dial things down. Cardio Effort and automatic VO2 Max (previously known as Cardio Capacity ) are available for the Oura Ring Gen 3 and later models , but only to users with an active Oura membership . Instead of measuring how fast or far a user went during a run or bike ride, or metrics like calories burned, Cardio Effort measures how hard their cardiovascular system was working during exercise … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,16 @@ Intel has asked the Federal Communications Commission (FCC) to make an exception
 
 ## Phoronix
 
+### Dynamic PAMT Merged For Linux 7.4 To Help Intel Servers Save Precious RAM
+Tue, 20 Oct 2026 20:26:59 -0400 — https://www.phoronix.com/news/Linux-74-Intel-TDX-Dynamic-PAMT
+
+Dynamic PAMT has made it for Linux 7.4! Dynamic PAMT is a new feature for reducing memory overhead on Intel TDX servers where there may not be many concurrent virtual machines occupying a majority of the system. In today's world with high memory prices and tight availability, Dynamic PAMT provides nice memory overhead reduction for modern Intel Xeon servers...
+
+### COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling
+Tue, 20 Oct 2026 18:32:12 -0400 — https://www.phoronix.com/news/COSMIC-Epoch-1.11
+
+System76 developers just released COSMIC Epoch 1.11 as the newest point release to their Rust-written open-source desktop environment catering to their in-house Pop!_OS Linux distribution...
+
 ### Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4
 Tue, 20 Oct 2026 13:05:28 -0400 — https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming
 
@@ -221,24 +231,44 @@ The Omarchy Linux distribution to date has been centered on x86_64 support for t
 ### Linux 7.4 Adding New Emulation Function While Some Old CPUs May Soon Be Phased Out
 Tue, 20 Oct 2026 06:32:23 -0400 — https://www.phoronix.com/news/Linux-7.4-Two-Byte-CMPXCHG
 
-Linux 7.4 is seeing a new emulation function added for cmpxchg() for compare and exchange. This is being done so that two-byte cmpxchg() can be used in common Linux kernel code that is already natively supported on newer CPU architectures. The pull request notes though that some old CPU architectures might no longer be supported by the Linux kernel moving ahead...
+Linux 7.4 is seeing a new emulation function added for cmpxchg() for compare and exchange. This is being done so that two-byte cmpxchg() can be used in common Linux kernel code that is already natively supported on newer CPU architectures. The pull request notes though that some old systems might no longer be supported by the Linux kernel moving ahead...
 
 ### 17k Lines Of New Rust Kernel Code Heading Into Linux 7.4
 Tue, 20 Oct 2026 06:04:57 -0400 — https://www.phoronix.com/news/Linux-7.4-Rust
 
 Miguel Ojeda sent out his pull request of the new Rust kernel code slated for introduction in Linux 7.4. It's a big one this round due to updating the Zerocopy vendored library plus updating other Rust crates for the kernel...
 
-### OpenBSD 8.0 Released With Intel Arc A-Series, Other Hardware Improvements
-Tue, 20 Oct 2026 05:44:40 -0400 — https://www.phoronix.com/news/OpenBSD-8.0-Released
-
-Theo de Raadt released OpenBSD 8.0 today as the 61st release of this BSD operating system...
-
-### AMD GAIA 0.25 Brings Several Improvements For Local AI Agents On Ryzen AI
-Mon, 19 Oct 2026 20:25:41 -0400 — https://www.phoronix.com/news/AMD-GAIA-0.25-Released
-
-AMD GAIA 0.25 is out this week as the latest feature release for this open-source project that began as "Generative AI Is Awesome" and is now going on a tag line of "AMD's open-source agent factory" in building/using local AI agents on AMD Ryzen AI hardware...
-
 ## The Register
+
+### Happiness is the next AI KPI if Oxford boffins have their way
+Wed, 21 Oct 2026 09:15:00 +0000 — https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253
+
+Mass unemployment, boiling the planet, and human extinction within a decade: the dystopian visions of AI are well rehearsed. Academics now argue that EU policymakers should ensure the taxpayers helping to fund the tech get something back, a “happiness dividend.” Researchers at the Oxford Internet Institute (OII), led by Professor Sandra Wachter, say citizens who are inadvertently helping to create the next generation of tech billionaires need more than promises that AI will boost economic growth and fatten corporate profits. Their paper, " Optimising for happiness in EU technology policy to repay public subsidies for AI ," published in the Royal Society Open Science, notes that the public backs AI development through funding, tax breaks, and access to land, water, energy, infrastructure, and data. On data, most people have no say in the matter. Creative work, social media posts, and user interactions have all been swept up to train frontier models, spurring a stream of lawsuits . The OII team proposes happiness as a third goal for AI heavyweights, alongside economic growth and risk mitigation. “Making technology less harmful is not the same as making it socially beneficial,” the researchers told us. What makes people happy? The researchers point to relatedness, competence, and autonomy, all of which some uses of AI could undermine. Chatbots that mimic human emotion may erode the value people place on real human connection. Heavy reliance on AI could dull skills . AI influence
+
+### MPs urge UK government to play venture capitalist with taxpayer-funded tech
+Wed, 21 Oct 2026 08:30:00 +0000 — https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212
+
+Britain is funding the next generation of tech companies without making sure taxpayers get a slice of the action, MPs have warned. In a new report shared with The Register ahead of publication, the Public Accounts Committee (PAC) has accused UK Research and Innovation (UKRI) of being overly cautious about protecting taxpayers' interests. Rather than simply handing out grants, MPs want UKRI to consider taking equity stakes in more of the businesses it backs, giving the public a chance to cash in when those companies succeed. According to the Department for Science, Innovation and Technology (DSIT), UK universities produce more spinouts and patents per pound of research funding than their US counterparts. But Britain is less adept at cashing in on its inventions. British startups still struggle to attract the investment needed to grow without moving overseas, while universities have a patchy record when it comes to exploiting their intellectual property. UKRI, meanwhile, has been reluctant to impose tougher conditions on the research it funds, arguing that doing so could discourage companies from growing. “This approach is far too cautious and we urge the Department to do much more to recover taxpayer's money when a successful company exploits research which the taxpayer, via UKRI, has paid for," the PAC said. It wants UKRI to review its standard funding terms, including whether it should take equity stakes in more companies benefiting from public money. Sir Geoffrey Clifton-Br
+
+### Nervous ISPs replace Chrome as strange consumers of DNS resources
+Wed, 21 Oct 2026 03:16:37 +0000 — https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344
+
+Google has fixed the flaws in the Chromium browser engine that saw it poll DNS root servers, but ISPs who seem to have odd views about resilience now emerged as a new source of probably-well-meaning overconsumption of internet resources. ICANN’s office of the Chief Technology Officer delivered that view on Monday during the governance org’s annual conference in Bali, Indonesia, in a session that shared recent data from its Identifier Technology Health Indicators (ITHI) research program which monitors the security, stability and resilience of the domain name system. ICANN principal technologist Maud Durand opened with a discussion of “Chromiods” the odd flaw in Chrome that meant well-meaning efforts to avoid a form of DNS hijacking caused the browser to generate about half of all DNS root server traffic during the year 2020. Given Chrome’s enormous prevalence, that traffic was unwelcome. ICANN, plus other internetworking and governance stakeholders, told Google to sort it out. Durand said the Chocolate Factory gradually did. ICANN has kept measuring the impact Chrome makes and Durand shared the graph below which shows the browser’s share of DNS root server traffic falling from 45 percent to one percent today. Or as Durand described it, “in the noise.” ICANN has now detected a new source of odd DNS traffic: ISPs that use multiple DNS servers for every one of their customers’ requests. “Every single DNS query is sent three times: to Google, to Cloudflare, and to another DNS reso
+
+### Indian certification authority eMudhra’s private keys compromised – one of them was the number ‘4’
+Tue, 20 Oct 2026 22:57:44 +0000 — https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312
+
+Tragically simple private keys used by a certification authority based in India have been compromised, meaning the 60-million-plus certs it has issued can’t be trusted and necessitating a massive clean-up job. The CA of concern in this case is called eMudhra, which boasts of having issued over 60 million digital certificates to help usher in a world of digital trust. The company has instead panicked the world. News of the company’s errors appeared on Tuesday in a post by Dennis Jackson, a member of Mozilla’s cryptography engineering team. “On Saturday, October 17, at 20:06 UTC, Mozilla received a report from a community member that private keys associated with eight eMudhra intermediate certificates had been compromised,” he wrote . “These keys could allow attackers to issue fraudulent HTTPS certificates for websites they do not control.” Or as Cloudflare put it , “an attacker can create a forged certificate for any domain and use it to impersonate servers to intercept or modify traffic.” Jackson has since elaborated on the incident and the response, which has thankfully seen Mozilla, Chrome, and Apple remediate the issue so their browsers won’t rely on the certificates – at least after users install an update. He also reports that eMudhra has revoked the certs, and lists many FOSS projects that have issued updates that mean they won’t recognize certs from eMudhra. That’s welcome, but sadly certs signed with these private keys are still out there and many services rely on the
+
+### Auto tech startup claims it traced hack attempt back to rival's IP address
+Tue, 20 Oct 2026 22:00:46 +0000 — https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281
+
+An automotive tech startup claims that its IT systems were attacked by individuals trying to steal its driving model, and that those attacks came from an IP address associated with a rival in the space. The tech startup, IQ.Lvbs, described the alleged security incident in a recent blog post . On October 3, IQ.Lvbs introduced the private beta of NovaSpark , the first model for the company's IQ.Pilot app, in the Comma.ai Discord channel. They put it in that channel because the model requires the use of Comma.ai's camera hardware, which is built for self-driving vehicles. From there, things got weird. "From October 7 to 14, we faced repeated attempts to steal NovaSpark, access users’ devices and private driving files, and exploit our sign-in system," the IQ.Lvbs blog post claims. "The first requests came from an IP assigned to Comma.ai Inc." In addition, on October 8 – shortly after the alleged attacks began – somebody banned IQ.Lvbs' team from the Comma.ai Discord channel. Posts on the IQ.Pilot Discord channel indicate that individuals doing private beta testing for IQ.Lvbs have also been banned from that channel. One of the three people involved in IQ.Lvbs, a UI/UX designer who asked to be identified only as "Cat," speculated to The Register about the reasons for the alleged hack and Discord ban. "Our model, NovaSpark, is a good deal ahead of Comma's latest small and large models, which directly threatens their core business of making AI models good enough to sell their hardwa
+
+### Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure
+Tue, 20 Oct 2026 20:39:42 +0000 — https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269
+
+More than 11 percent of the GPUs at Meta’s Prometheus supercluster in New Albany, Ohio, are either dead or sitting idle waiting to step in when the next drops out, Zuckercorp revealed this week. The massive pool of redundant GPUs is just one of several measures the hyperscaler has taken to keep its AI training runs on track. Prometheus is among Meta's largest compute deployments to date. Powered by Nvidia's Grace Blackwell and (soon) Vera Rubin rack systems, Meta says the supercluster will eventually scale to a gigawatt of capacity spanning about a million accelerators. But as anyone who has worked on a large scale compute cluster understands, whether for LLM training or traditional HPC workloads, more chips inevitably means more problems. In an eight-GPU node, the chance of having a GPU fail is relatively low. In a 100,000-GPU cluster, failures are unavoidable. Meta is building something that's 10x larger and requires distributed training runs across multiple datacenters. Keeping the entire thing humming long enough to reach the next checkpoint becomes a major headache. In a blog post published this week, Meta offered a unique look at the work it's done to keep failures from derailing the development of models like Muse Spark or its most recent release Muse Wonder. Idle GPUs are the cost of continuity When Meta began the first phase of its Prometheus deployment in New Albany, the company says, it was experiencing roughly 1,000 interruptions per day for every 8,000 GPUs. Inte
 
 ### Palo Alto's firewall OS has been under attack from multiple ransomware groups since June
 Tue, 20 Oct 2026 17:33:26 +0000 — https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226
@@ -270,106 +300,106 @@ Tue, 20 Oct 2026 14:43:00 +0000 — https://www.theregister.com/software/2026/10
 
 Enterprises say nearly a third of their software budgets goes on upgrades, migrations, and licensing changes they wouldn't have chosen, according to research suggesting that keeping vendors happy has become an expensive business. The study , conducted by Censuswide for software support provider Origina and published with Thinkers50, surveyed 2,018 senior IT decision-makers in the US and UK. Respondents put the average share at 28 percent. And customers aren't necessarily getting anything better for their money. Some 95 percent of respondents said they had paid for at least one vendor-driven change in the past three years despite expecting worse reliability, performance, or value. The most recent vendor-driven change cost respondents' organizations an average of $12.87 million. Origina calls this the "software tax," but unlike most taxes, it comes with the added pleasure of potentially making your IT systems worse. The costs don't stop at software either. According to the survey, 91 percent of respondents said their organizations had retired working hardware in the past three years to meet software support deadlines, sacrificing an estimated 1.65 years of remaining useful life on average. Then there's the small matter of finding people to carry out all these supposedly essential changes. Some 84 percent said experienced engineers were regularly diverted from other projects to handle vendor-driven upgrades and migrations. That leaves less time for the work businesses actually w
 
-### HPE to launch AI straight to the Moon
-Tue, 20 Oct 2026 14:00:00 +0000 — https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983
-
-Forget space datacenters. Before the end of the year, HPE will have AI running on the Moon. This isn’t some exec’s loony fantasy either. HPE has been building orbital compute platforms for the International Space Station (ISS) for years. Now, it’s sending its fourth-gen Spaceborne Computer to the Moon aboard Astrolab’s Flex Lunar Innovation Platform (FLIP) lunar rover. Part of NASA’s Commercial Lunar Payload Services (CLPS) program, the rover is set to be deployed near the Moon’s south pole by the Voyager Technologies Griffin-1 lander later this year. Assuming a safe landing on the surface, FLIP will serve as a test bed for a range of emerging technologies including HPE’s latest space-faring compute platform. Specifically, Spaceborne Computer 4, which for the sake of brevity we’ll just call SBC4, will carry out a number of AI and HPC-centric experiments during the rover’s year long mission on the lunar pole. What we know about SBC4 so far The actual silicon powering SBC4 is still a bit of a mystery. We’re told the reason for the secrecy largely comes down to the high-risk nature of the mission. If the hardware fails, HPE’s compute partner doesn’t want their name tied to it. No guts but for the glory, we suppose, though Kioxia doesn't seem too worried. What we do know is that it is equipped with a low-power central processing unit, a graphics processor, and will be equipped with a pair of mirrored Kioxia SSDs totaling 1 TB of capacity. That said, while it'll be among the most 
-
-### 'Password1' and a forgotten test account land Welsh outfits in hot water
-Tue, 20 Oct 2026 13:35:00 +0000 — https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139
-
-A test account protected by "Password1" helped an intruder steal personal data relating to 3,300 people, mostly children, in a ransomware attack that has drawn regulatory rebukes for two Welsh organizations. The Information Commission's Office (ICO) issued reprimands rather than fines to Ogi Networks Limited (ONL) and the Local Government Data Unit – Wales, also known as Data Cymru. According to the ICO, altnet ONL provided server and connectivity infrastructure, licensing, and support to Data Cymru, which helps public bodies across Wales make effective use of data. On November 1, 2024, Data Cymru suffered a ransomware attack after a miscreant exploited a test account called Test2 to infiltrate its network and encrypt 182.7 GB of data housed in a file server and an internal database server. "Before deploying the ransomware, the threat actor exfiltrated 42 GB of data from a primary domain controller, a file server and an SQL server," the ICO said on Tuesday in its reprimand of ONL [PDF]. ONL told the ICO it created the test account on January 13, 2012, during its initial project for Data Cymru. "ONL confirmed that the creation of the 'Test2' account was likely intended to test user account access before migrating 'real' users to its services," the ICO said. "When it was created, the 'Test2' account was given the password of 'Password1'." The ICO cited Bitwarden's password strength tool, which rated "Password1" as "very weak" and estimated a cracking time of less than a second.
-
-### Google Cloud says a 'power event' caused today's outage
-Tue, 20 Oct 2026 12:49:56 +0000 — https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160
-
-UPDATED Google Cloud has blamed a “power event” for taking down multiple online products for customers in Western Europe, and is pledging to restore normal service within the hour. The unplanned downtime for customers began at 0608 UTC when europe-west-2-b, one of three local availability zones in the London region, started playing up. According to an update on its status page , Google Cloud said at 1158 UTC that full recovery workloads should be “completed, tentatively” by 1300 UTC. Customers can expect another update at that point, with Google either giving the thumbs up, thumbs sideways or having to admit engineers are still working on a fix. Services that went AWOL included BigQuery Data TransferService, Cloud Filestore, Cloud Run, Google App Engine, Google Cloud NetApp Volumes, Google Kubernetes Engine, and Managed Service for Apache Kafka. So what caused online services to melt at customers including Lloyds Bank, HSBC, Royal Mail, Rightmove, DPD, BT, Screwfix and Revolut? Power. "A power event caused an outage within europe-west2-b zone. The power event is mitigated. We are seeing the recovery of services and are prioritizing the recovery of existing workloads.Customers may not be able to yet create new workloads." The Register has asked Google for further elucidation but it said the only information is available on the status page. The "fragility" of the cloud model is again on display, Dr Amro Al-Said Ahmad , a lecturer in computer science at Keele University told The
-
-### Bullhorn sees red after cyberattack knocks recruitment platform offline
-Tue, 20 Oct 2026 12:15:00 +0000 — https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114
-
-Bullhorn is the latest tech giant finding itself on the wrong end of a cyberattack, forcing the recruitment software provider to shut down its platform while it investigates. The US-based company, which serves more than 10,000 customers worldwide, says its systems are now back online in the UK, US, and Australia. Unfortunately for customers hoping to get back to work, online doesn't necessarily mean working. In its latest status update, published on Tuesday , Bullhorn confirmed that some users were still struggling with single sign-on (SSO), password resets, and customizations, while several products continued to report degraded performance. Things started going sideways on Friday, October 16, when Bullhorn flagged problems getting job postings onto Indeed. By the following morning, the platform was suffering a full-blown outage, and Bullhorn confirmed later that day that it was dealing with something rather more serious than a technical hiccup. "We have detected a cyber incident on the Bullhorn Platform. We have temporarily disabled access to our systems in order to contain the activity while we investigate further," the company said, noting that it had roped in cybersecurity specialists from CrowdStrike to help investigate the attack and restore its services. For recruitment agencies using Bullhorn, the outage meant losing access to candidate records, job applications, placements and, in some cases, the systems used to get people paid. Services began returning on Monday, bu
-
-### Microsoft admits that Always On VPN problems were not fixed in the October Security Update
-Tue, 20 Oct 2026 11:30:00 +0000 — https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063
-
-Microsoft has been forced to admit that the Always On VPN glitch – which it said it had fixed in an update on October 13 – was not actually fixed after all. We've all been there. You fix that bug, or tweak the configuration setting, and you're pleased with yourself, but it turns out it didn't take, and you have to send the "er, about that fix" follow-up email of shame. The same has happened to Microsoft. After proudly declaring the problem resolved as part of its last security update , the company had to roll back its triumphant trumpeting to a sad little parp from a clown's horn in the message WI1482218: "This disclosure was mistakenly updated to Resolved status on October 13, 2026. We have returned its status to Mitigated. "We apologize for any inconvenience or confusion." The bug in question concerns the operating system's Always On VPN functionality, a useful bit of code that quietly opens a VPN connection in the background without tiresome prompts for authentication. It dates back to Windows 10, and Microsoft alerted administrators to problems after the September 2026 Windows security update inadvertently broke it. The issue affects Windows 11 versions from 24H2 through 26H2. The problem could occur when the VPN was set to try a different connection method if the initial connection failed (Microsoft gave the example of using automatic protocol selection with IKEv2 and SSTP). According to Microsoft: "Affected VPN connections might remain in a 'Connecting' state or repeate
-
-### Whitehall shuts the front door on digital ID but leaves the back open
-Tue, 20 Oct 2026 10:45:00 +0000 — https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100
-
-Britain's national digital ID scheme may be dead, but Whitehall appears to have forgotten to tell the infrastructure. Despite the government scrapping its controversial plans , officials told MPs on Monday that work continues on GOV.UK One Login, digital wallets, and a growing collection of digital credentials designed to help people prove who they are. The abandoned scheme was one of Keir Starmer's flagship policies, originally pitched as a compulsory digital ID card to crack down on illegal working. Privacy campaigners weren't impressed, warning of surveillance and government overreach, and ministers eventually made it voluntary before Andy Burnham, decided to bin the whole thing. But scrapping the scheme hasn't dented Whitehall's digital identity ambitions. Officials told MPs this week that more than 80 types of documents are earmarked for the government's digital wallet, including proof of benefits, driving test certificates, and Disclosure and Barring Service (DBS) certificates. That's quite a lot of paperwork for something that's supposedly dead. The revelations came during a Public Accounts Committee hearing on Monday, where MPs wanted to know what exactly had been scrapped. "But is it not the case, based on the answers you've given us this afternoon, that the infrastructure of digital ID in the public sector is still being pursued?" asked Sarah Green, Liberal Democrat MP for Chesham and Amersham. Susannah Storey, DCMS permanent secretary, was keen to draw a line betwe
-
 ## Engadget
 
-### Meta suspends Muse chats sharing feature after it left private details exposed
-Tue, 20 Oct 2026 20:00:43 +0000 — https://www.engadget.com/2292281/meta-suspends-muse-chats-sharing-feature-after-it-left-private-details-exposed/
+### Subaru is dropping gas cars for EVs in Europe by the end of 2027
+Wed, 21 Oct 2026 09:14:00 +0000 — https://www.engadget.com/2292610/subaru-is-dropping-gas-cars-for-evs-in-europe-by-the-end-of-2027/
 
-Researchers accessed 6,800 shared conversations with the AI agent, including internal company documents.
+Subaru will halt the sale of gas-powered vehicles in favor of an all-electric lineup in Europe no later than 2027.
 
-### Google brings Gemini Personal Intelligence to Android Auto
-Tue, 20 Oct 2026 20:00:00 +0000 — https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/
+### SpaceX and Tesla are exploring a possible merger
+Wed, 21 Oct 2026 08:40:59 +0000 — https://www.engadget.com/2292594/spacex-tesla-exploring-possible-merger/
 
-In the coming months, the feature will also roll out to cars with Google built-in.
+SpaceX and Tesla have formed special committees to discuss a merger, but Elon Musk says it's not a certainty.
 
-### Employees warned TikTok about child exploitation, court documents show
-Tue, 20 Oct 2026 19:25:38 +0000 — https://www.engadget.com/2292225/employees-warned-tiktok-about-child-exploitation-court-documents-show/
+### How much power can a 1kW wind turbine produce for your home?
+Wed, 21 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2289290/wind-turbine-for-home-1kw-power/
 
-The company is facing hundreds of lawsuits over its record on safety.
+A 1 kW wind turbine can help with your electric bill, but the wind determines how much.
 
-### How long can you expect your original Steam Deck to last?
-Tue, 20 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2289277/how-long-steam-deck-last-lifespan-support/
+### What can you use your Apple Watch Ultra 4 action button for?
+Tue, 20 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2289282/apple-watch-ultra-4-action-button-uses-explained/
 
-The original Steam Deck has been around for a while, but unless you only play the heaviest games, it should be great for some time more.
+Here's what your Apple Watch Ultra 4 action button can really do, from launching workouts and retracing routes to controlling smart home devices with one tap.
 
-### AMD is bringing its next-gen FSR 4.1 upscaling tech to Xbox
-Tue, 20 Oct 2026 18:17:00 +0000 — https://www.engadget.com/2292103/amd-is-bringing-its-next-gen-fsr-41-upscaling-tech-to-xbox/
+### Oura Ring can track new stats related to cardio fitness
+Tue, 20 Oct 2026 23:00:10 +0000 — https://www.engadget.com/2292447/oura-ring-can-track-new-stats-related-to-cardio-fitness/
 
-Coming soon to the X/S and Ally devices.
+Oura has updated its smart rings with new cardio fitness-related metrics, including VO2 Max estimates.
 
-### How often should you restart your Apple Watch?
-Tue, 20 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2288986/how-often-should-restart-apple-watch/
+### Five things you should know before buying the iPhone Duo
+Tue, 20 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2289279/things-know-before-buying-iphone-duo/
 
-Your Apple Watch doesn't need frequent restarts like a computer, but you might still want to shut down when something's off.
+From software limitations to the pre-sale deals, here's what you need to know ahead of the iPhone Duo launch.
 
-### Spotify is dancing around its AI 'slop and spam' problem
-Tue, 20 Oct 2026 17:11:26 +0000 — https://www.engadget.com/2291954/spotify-is-dancing-around-its-ai-slop-and-spam-problem/
+### Fitbit Edge vs. Fitbit Inspire 3: How these Google fitness trackers compare
+Tue, 20 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2289183/fitbit-edge-vs-inspire-3-google-fitness-tracker-comparison/
 
-The company said it removed 50 million such tracks from recommendations, but hasn't necessarily wiped them entirely.
+Google's latest tracker is a middle ground between a simple tracker and full smartwatch.
 
-### Don't put your phone in the TSA bin — do this instead
-Tue, 20 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2288969/why-shouldnt-put-phone-tsa-bin/
+### The next Xbox might cost $1,800, report says
+Tue, 20 Oct 2026 22:01:23 +0000 — https://www.engadget.com/2292408/the-next-xbox-might-cost-1800-report-says/
 
-Let's be honest, TSA bins are just gross.
+Microsoft is targeting a 2028 release for its next-gen Xbox, which could be incredibly expensive, according to details reported in a profile with Xbox's CEO.
 
-### You can build your own mechanical keyboard, but is it worth the price?
-Tue, 20 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2288961/build-keyboard-why-worth-it/
+### What to expect at Apple's 'Pro and Tell' event on October 28
+Tue, 20 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/
 
-If you have both the time and money, building a keyboard can be a fun hobby.
+From the first touchscreen MacBook to an OLED iPad mini, here's everything Apple is expected to announce next week.
 
-### 5 ways to make your old iPhone feel faster
-Tue, 20 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2288921/ways-make-old-iphone-feel-faster/
+### The latest PlayStation firmware may have already been cracked ahead of GTA 6
+Tue, 20 Oct 2026 21:30:57 +0000 — https://www.engadget.com/2292388/playstation-5-hackers-crack-gta-6-firmware/
 
-Your iPhone will slow down over time, but some changes can help it run at its best for longer.
+Hackers aren't giving up at cracking the Playstation 5's latest firmware as evidenced by a new video showing an apparent kernel exploit.
 
-### Perplexity makes it easier to run AI workflows entirely on your own Mac
-Tue, 20 Oct 2026 15:42:45 +0000 — https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/
+### ChatGPT now lets you lock sensitive chats behind a PIN
+Tue, 20 Oct 2026 21:05:00 +0000 — https://www.engadget.com/2292365/chatgpt-now-lets-you-lock-sensitive-chats-behind-a-pin/
 
-A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.
+OpenAI has introduced a new locked chats feature to protect users' more sensitive conversations with ChatGPT.
 
-### 5 CarPlay navigation apps you should be using instead of Apple Maps
-Tue, 20 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2288748/carplay-navigation-apps-should-be-using-not-apple-maps/
+### Judge tosses sexual abuse lawsuit from Sam Altman's sister
+Tue, 20 Oct 2026 20:53:25 +0000 — https://www.engadget.com/2292346/judge-tosses-sexual-abuse-lawsuit-from-sam-altmans-sister/
 
-Alternative GPS apps for CarPlay can provide better routing, real-time alerts, weather condition info and much more.
+A lawsuit brought by the OpenAI CEO's sister was dismissed after Anne Altman refused a medical exam.
 
 ## TechCrunch
+
+### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+Tue, 20 Oct 2026 23:01:23 +0000 — https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/
+
+The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
+
+### SpaceX and Tesla boards form special committees to review merger
+Tue, 20 Oct 2026 22:57:57 +0000 — https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/
+
+Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.
+
+### Hugging Face CEO warns that Netflix s OpenAI hack documentary isn t accurate
+Tue, 20 Oct 2026 22:24:02 +0000 — https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/
+
+Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
+
+### Anthropic’s cloud partnerships are getting messy
+Tue, 20 Oct 2026 21:25:22 +0000 — https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/
+
+Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.
+
+### SpaceX s AI business is beating expectations
+Tue, 20 Oct 2026 20:40:41 +0000 — https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/
+
+SpaceX hit profitability in the third quarter, with net income of $4.4 billion. AI was the engine.
+
+### OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+Tue, 20 Oct 2026 20:35:10 +0000 — https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/
+
+OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.
 
 ### Google is bringing a more personal version of its Gemini AI assistant to your car
 Tue, 20 Oct 2026 20:00:00 +0000 — https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/
 
 Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.
 
-### GM to close Detroit battery assembly plant, but not for reasons you might think
+### GM to close Detroit battery-assembly plant, but not for reasons you might think
 Tue, 20 Oct 2026 19:32:43 +0000 — https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/
 
 GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.
@@ -387,40 +417,10 @@ The company says the feature is designed for situations where users might be dis
 ### Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
 Tue, 20 Oct 2026 17:55:12 +0000 — https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/
 
-The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.
+Eric Schmidt’s fortune is about to get even bigger.
 
-### Meta s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps
+### Meta s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps
 Tue, 20 Oct 2026 17:12:48 +0000 — https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/
 
-Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.
-
-### Ex-Nvidia-turned-VC Amulya Vishwanath: Physical AI is in it s LEGO era
-Tue, 20 Oct 2026 16:20:06 +0000 — https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/
-
-It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.
-
-### Streaming guide JustWatch becomes a streamer itself
-Tue, 20 Oct 2026 16:01:24 +0000 — https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/
-
-JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.
-
-### Plants can speak using electricity, so this startup built an AI model to decipher their language
-Tue, 20 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/
-
-Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.
-
-### TikTok staff raised child safety concerns, but executives reportedly failed to act
-Tue, 20 Oct 2026 15:03:41 +0000 — https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/
-
-Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.
-
-### Figma co-founder Dylan Field thinks MCP is not a perfect protocol
-Tue, 20 Oct 2026 14:13:32 +0000 — https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/
-
-Figma said it plans to support as many standards as possible without exposing all of its data.
-
-### SpaceX alum s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation
-Tue, 20 Oct 2026 13:17:36 +0000 — https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/
-
-Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.
+New data also shows Muse is retaining users at higher rates than its AI rivals.
 

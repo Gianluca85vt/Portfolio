@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-20T20:07:59.745Z
+# Games — harvested 2026-10-21T09:37:59.687Z
 
 ## Eurogamer
+
+### Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues
+Wed, 21 Oct 2026 09:21:49 +0000 — https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea
+
+Physical disc-based copies of Resident Evil: Requiem on PlayStation consoles may have been more popular than all versions of the game on Xbox, a new report has found, while unearthing a trove of other statistics about physical sales. Read more
+
+### Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028
+Wed, 21 Oct 2026 08:40:37 +0000 — https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price
+
+The price of Xbox's next generation console, codename Project Helix, may be higher than many of us expected. Helix, which is reportedly going to ship as two devices, is estimated to cost close to $2,000. Read more
 
 ### Ex-Call of Duty designer "who survived the crunch" in order to launch Black Ops 1 & 2 calls out executives "raking it in" from sales of remasters
 Tue, 20 Oct 2026 15:45:04 +0000 — https://www.eurogamer.net/call-of-duty-black-ops-1-2-re-release-controversy
@@ -52,17 +62,17 @@ Tue, 20 Oct 2026 09:00:11 +0000 — https://www.eurogamer.net/umamusume-pretty-d
 
 The developers of Umamusume: Pretty Derby have announced a sudden cancellation of an upcoming LA concert, laying the blame on an inability to receive the proper visas despite exploring "every possible option". Read more
 
-### "This act is intended to demonstrate solidarity with Palestine" - Umurangi Generation studio blocks new game Penguin Colony from being sold in Israel
-Tue, 20 Oct 2026 08:49:14 +0000 — https://www.eurogamer.net/umurangi-generation-studio-blocks-penguin-colony-sale-in-isreal-pro-palestine
-
-Origame Digital, the studio behind 2020's critically acclaimed Umurangi Generation , has just released a new game but banned it from being sold in Israel. Read more
-
-### Moonlighter dev delays Steam playtest for its "Tower Defensevania" ReVamp over concerns that AI copycats might clone it before launch
-Mon, 19 Oct 2026 19:54:06 +0000 — https://www.eurogamer.net/moonlighter-dev-steam-playtest-revamp-ai-copycats
-
-Digital Sun - the indie studio behind moreish roguelike Moonlighter and moody RTS Cataclismo - has delayed a planned Steam playtest for its next game, ReVamp, citing concerns over "games being reverse-engineered, cloned and published before the original is even out." Read more
-
 ## GamesIndustry.biz
+
+### Vivrato: 97% of studio leaders use AI in some form during development in EU and North America
+Wed, 21 Oct 2026 08:40:54 +0000 — https://www.gamesindustry.biz/vivrato-97-of-studio-leaders-use-ai-in-some-form-during-development-in-eu-and-north-america
+
+97% of studio leaders have used AI in some form during development, with 94% having used AI in at least one of the nine production stages. Read more
+
+### Demystifying unions: What games leaders need to know
+Wed, 21 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know
+
+If you run a video games company, working with unions is rapidly becoming an inevitability rather than a possibility. Read more
 
 ### Griffin Gaming Partners and Entertainment 360 launch new company to support video game adaptations for film and TV
 Tue, 20 Oct 2026 13:00:45 +0000 — https://www.gamesindustry.biz/griffin-gaming-partners-and-entertainment-360-launch-new-company-to-support-video-game-adaptations-for-film-and-tv
@@ -109,26 +119,41 @@ Mon, 19 Oct 2026 10:13:55 +0000 — https://www.gamesindustry.biz/activision-qa-
 
 Members of the Activision Quality Assurance United-CWA (AQAU-CWA) union have voted to authorise a strike if necessary, claiming Activision has "failed to bargain in good faith over key issues" in negotiations for a first contract. Read more
 
-### New Croatian conference Splitscreen wants to keep "that half-holiday, half-work feeling" of Reboot Develop
-Mon, 19 Oct 2026 09:00:00 +0000 — https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop
-
-A new Croatian development conference is aiming to fill the gap left by the recently-deceased and much-cherished Reboot Develop, which ended this year with the organiser being served with a bankruptcy order . The "no-stress" Splitscreen , which takes place in the Croatian capital on April 20&ndash;22, 2027, has been created by a new team, but seeks to capture the same spirit that made its forebear a popular destination for the global industry. Read more
-
-### Liquid Swords CEO confirms studio closure following bankruptcy proceedings
-Mon, 19 Oct 2026 08:43:25 +0000 — https://www.gamesindustry.biz/samson-studio-liquid-swords-files-for-bankruptcy-staff-reportedly-unpaid-for-two-months
-
-Update, October 20, 2026: Liquid Swords CEO Christofer Sundberg has confirmed the closure of the studio after filing for bankruptcy. Read more
-
-### The AI state of play: AI laws and game development
-Mon, 19 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development
-
-Game studios have a lot to navigate when it comes to AI use. Generative AI is increasingly becoming embedded in the game development process, and at the same time, the laws, regulations, and guidelines surrounding it are on the rise. Each landmark case brings with it new nuances around how AI should and could be adopted. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PS5 Firmware Update 26.07-14.20.00 Available to Download Now
+Wed, 21 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now
+
+What does version 26.07-14.20.00 do? Sony has today pushed live a new PS5 firmware patch that updates the console to version number 26.07-14.20.00. The new firmware is live now, so you should be prompted to download it shortly. As per the official PlayStation website , the single patch note for update 26.07-14.20.00 is as follows: Read the full article on pushsquare.com
+
+### Crimson Desert Reveals Just How Big Its PS5 DLC Really Is in New Trailer
+Wed, 21 Oct 2026 08:45:00 GMT — https://www.pushsquare.com/news/2026/10/crimson-desert-reveals-just-how-big-its-ps5-dlc-really-is-in-new-trailer
+
+Get a full overview of Charting the Unknown. Crimson Desert studio Pearl Abyss doesn't do things by halves; it's demonstrated how it's the literal embodiment of the phrase "go big or go home" in the video game industry. After a stupidly large base game and an absurd amount of post-launch patches, the developer is delivering its biggest update yet in the Charting the Unknown expansion. A fresh overview trailer teases what to expect from the big DLC, covering everything from the new story quests to extra features. Check it out above. Read the full article on pushsquare.com
+
+### Guide: All PS Plus Games Available Now
+Wed, 21 Oct 2026 08:00:00 GMT — https://www.pushsquare.com/guides/all-ps-plus-games-available-now
+
+Every PS Plus game, updated in one place. We’re tracking every PS Plus game available now, so you always know exactly what’s included in your tier of Sony’s subscription service. This page lists all current PS Plus Essential , PS Plus Extra , and PS Plus Premium games across PS5 and PS4 , alongside upcoming additions and confirmed expiry dates – so you never miss out. Read the full article on pushsquare.com
+
+### Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January
+Tue, 20 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january
+
+The cuts continue. Xbox’s unprecedented job cuts will continue this month, November, and January, according to a fresh Fortune article, focusing on CEO Asha Sharma. In yet another executive profile, reporter Sebastian Herrera reveals that Sharma has slashed 1,868 jobs so far, with 3,200 total planned. It sounds like we’ll get more news about what some of those will entail in the coming days. Read the full article on pushsquare.com
+
+### Acclaimed Low-Poly Horror Mouthwashing Spits Out a PS5 Release Next Week
+Tue, 20 Oct 2026 20:45:00 GMT — https://www.pushsquare.com/news/2026/10/acclaimed-low-poly-horror-mouthwashing-spits-out-a-ps5-release-next-week
+
+Just in time for Halloween. Gritty low-poly horror Mouthwashing was first announced for the PS5 all the way back in January 2025, but it’ll finally make its debut on Sony’s system next week. Out on 29th October, the critically acclaimed fear-fest follows the “dying crew of a shipwrecked space freighter”. Read the full article on pushsquare.com
+
+### Shrek 2 Remastered Takes PS5 to a Nostalgic Era of Gaming This November
+Tue, 20 Oct 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november
+
+It's so ogre. Back when basically every movie got a tie-in game, Shrek 2 released on PS2, and it's fondly remembered by fans despite its rough edges. Well, if you want to feel all nostalgic, here's some good news: the co-op brawler is making its grand return in Shrek 2 Remastered. Read the full article on pushsquare.com
 
 ### Worried About PS6 Price? Next Xbox Could Be as Much as $1,800
 Tue, 20 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/news/2026/10/worried-about-ps6-price-next-xbox-could-be-as-much-as-usd1800
@@ -160,36 +185,6 @@ Tue, 20 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/campai
 
 Shoot to thrill. Call of Duty: Modern Warfare 4 is enjoying some really positive word of mouth right now. The game's campaign is playable early, and it's attracting thousands of satisfied reviews on Steam, where the title currently sits at a 'Very Positive' rating. Read the full article on pushsquare.com
 
-### The Best Dead Space Can Get Now Is a Crossover in a Different Game
-Tue, 20 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/news/2026/10/the-best-dead-space-can-get-now-is-a-crossover-in-a-different-game
-
-Now a multiplayer event in Battlefield 6. If you want the newest content from the Dead Space universe, you won't be booting up the latest PS5 creation starring Isaac Clarke — you'll actually just be playing Battlefield 6 . The shooter has a new time-limited event that starts today and runs until 10th November 2026, all themed around Dead Space. This is a PvE version of the Battlefield mode Rush, and it features "environments, weapons, cosmetics and even gameplay mechanics adapted from" the survival horror series. Development was led by EA Motive, which developed the most recent PS5 remake of the first entry. Read the full article on pushsquare.com
-
-### A New PlayStation Promo Suggests Sony s Bought the Kena IP from Ember Lab
-Tue, 20 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/a-new-playstation-promo-suggests-sonys-bought-the-kena-ip-from-ember-lab
-
-Is it true? Sony recently released a new promotional sizzle reel trailer, starring Thai performer and PlayStation ambassador Lisa. There's not much to write home about on first appearance; the video goes through several current and upcoming PS Studios titles, such as Marvel Tokon: Fighting Souls , God of War Laufey , and Kena: Scars of Kosmora . Read the full article on pushsquare.com
-
-### Cyberpunk 2077 PS5 Patch 2.5 Leaks, Get the Big Details and Updates Here
-Tue, 20 Oct 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/10/cyberpunk-2077-ps5-patch-2-5-leaks-get-the-big-details-and-updates-here
-
-Full reveal in REDstream coming Wednesday. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and tomorrow it will have a REDstream to share what's in store. The blog post teases "cyberware customization, a new dual-wielding playstyle, and more". Presumably, it will all link into the TV series in some way. Read the full article on pushsquare.com
-
-### Mortal Shell 2 Gets Even Better in Big Free Content Patch, Live Now on PS5
-Tue, 20 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/mortal-shell-2-gets-even-better-in-big-free-content-patch-live-now-on-ps5
-
-15 new dungeons, 10 extra tarstones, and more. Cold Symmetry has announced and launched a new Mortal Shell 2 update all at once that enhances the Souls-like with more content, items, and base game tweaks. The free patch is out now on PS5. Dubbed the Rotten Autumn update, the trailer above teases what's in store, but for a complete rundown, here are the big additions to the game: Read the full article on pushsquare.com
-
-### 11 PS Plus Extra Game Removals for November 2026 Confirmed
-Tue, 20 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/11-ps-plus-extra-game-removals-for-november-2026-confirmed
-
-Rockstar drops PS Plus support again. This month's PS Plus Extra and PS Plus Premium game update is now live for PS5, PS4 players (or some of it is, if you are in the UK, USA, or Japan), which means it's time to learn what titles will be taken off the service in November 2026. We already know that GTA 5 is leaving PS Plus Extra, as per a message from Sony, but the full list has now been shared in the Last Chance to Play section. Read the full article on pushsquare.com
-
-### PS Store Must Copy Steam If PC Players Campaign Against AI Content Succeeds
-Tue, 20 Oct 2026 13:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps-store-must-copy-steam-if-pc-players-campaign-against-ai-content-succeeds
-
-Steam Next Fest is a disaster. There's currently a huge push for an all-encompassing Steam filter that would allow users to disqualify any game that uses AI-generated assets from their search results. The campaign, which is underway across all of the usual social media platforms like Reddit, X (formerly Twitter), and Discord, has gained serious momentum because of this year's Steam Next Fest, which began yesterday, on the 19th October. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Fuse Games CEO breaks down codev framework for Star Wars: Galactic Racer
@@ -218,6 +213,16 @@ Mon, 19 Oct 2026 17:08:14 GMT — https://www.gamedeveloper.com/programming/moon
 Digital Sun Games is narrowing its early testing of ReVamp to its Discord community following fears of generative AI-enabled cloning.
 
 ## VGC
+
+### Kojima says walking simulator comments about Death Stranding prove social media can form hivemind narratives
+Wed, 21 Oct 2026 09:10:36 +0000 — https://www.videogameschronicle.com/news/kojima-says-walking-simulator-comments-about-death-stranding-prove-social-media-can-form-hivemind-narratives/
+
+He finds it "scary" that people may one day never confront differing opinions… Source
+
+### Is Control Resonant teasing Alan Wake 3? Resonant s director explains Remedy easter egg
+Wed, 21 Oct 2026 09:01:08 +0000 — https://www.videogameschronicle.com/news/is-control-resonant-teasing-alan-wake-3-resonants-director-explains-remedy-easter-egg/
+
+Control Resonant's director explains the cameo from Remedy's other protagonist… Source
 
 ### EA Sports is officially reviving its Fight Night boxing series
 Tue, 20 Oct 2026 19:58:57 +0000 — https://www.videogameschronicle.com/news/ea-sports-is-officially-reviving-its-fight-night-boxing-series/
@@ -259,69 +264,89 @@ Tue, 20 Oct 2026 11:06:04 +0000 — https://www.videogameschronicle.com/news/fan
 
 RoboCop: Rogue City headlines Fanatical’s latest Build Your Own Killer Bundle… Source
 
-### VGC took its first live show to Glasgow and what a night it was
-Tue, 20 Oct 2026 10:53:32 +0000 — https://www.videogameschronicle.com/news/vgc-took-its-first-live-show-to-glasgow-and-what-a-night-it-was/
-
-VGC Live brought our community together for the first time… Source
-
-### ReVamp developer cancels public playtest in case AI users reverse engineer it and publish a clone first
-Tue, 20 Oct 2026 10:16:50 +0000 — https://www.videogameschronicle.com/news/revamp-developer-cancels-public-playtest-in-case-ai-users-reverse-engineer-it-and-publish-a-clone-first/
-
-With launch still months away, a large public build felt like too big a risk" Source
-
 ## Polygon
 
-### Fallout 4: FEVer Dreams Gets Official Surprise Release
-Tue, 20 Oct 2026 19:16:02 GMT — https://www.polygon.com/fallout-4-fever-dreams-what-is-bethesda-rpg-release/
+### 17 Years Later, Johnny Depp’s Overlooked Action Crime Thriller Is Officially Free on YouTube
+Wed, 21 Oct 2026 09:00:18 GMT — https://www.polygon.com/public-enemies-free-on-youtube/
 
-Bethesda just gave everyone a solid reason to boot up Fallout 4 again — even if you've already racked up hundreds of hours in the post-apocalyptic RPG and its many expansions. A new release brings back Courtenay Taylor and Brian T. Delaney, the original actors who voiced Fallout 4 's protagonists. This new adventure won't be like anything else you've encountered in the wasteland, though.
+Based on Bryan Burrough’s nonfiction book of the same name, Michael Mann’s Public Enemies puts Depp in the shoes of John Dillinger, one of the most prolific bank robbers in American history, set during his final few months of thieving in 1934. As he wreaks havoc across the Midwest, Dillenger attempts to stay one step ahead of Melvin Purvis (Christian Bale), a ruthless federal agent tasked with finally bringing him justice. With a proven track record of bringing crime epics to life, from Miami Vice to Heat , Mann captures a transformative moment when the relationship between criminals, the public, and the authorities was rapidly shifting. Dillinger became a symbol of defiance during the Great Depression, when banks were the furthest thing from beloved institutions, while the newly empowered FBI was working to establish itself as a formidable national force. The film’s historical scope is narrower than Burrough’s sprawling account of America’s crime wave, but that focus gives Mann room to explore the mythology surrounding one particularly charismatic outlaw.
 
-### A New DC Green Lantern Has Officially Been Unveiled
-Tue, 20 Oct 2026 19:03:36 GMT — https://www.polygon.com/green-lantern-doomed-cosmos-elseworlds-series-announced-dc-comics/
+### All 'Stranded' keypad puzzle codes in Modern Warfare 4
+Wed, 21 Oct 2026 08:16:40 GMT — https://www.polygon.com/mw4-modern-warfare-4-stranded-keypad-puzzle-code-locations/
 
-HBO's Lanterns may have just ended with no second season in sight yet , but Green Lantern fans still have a promising new interpretation of the classic DC hero to look forward to. DC Comics announced Green Lantern: Doomed Cosmos on Tuesday, a miniseries with a unique take on the Green Lantern corps.
+There are eight keypad puzzle codes to solve during "Stranded" in Call of Duty: Modern Warfare 4 , but figuring out the number puzzles isn't easy. Inside each one, you'll find valuable supplies and equipment that will help you take down the three mandatory objectives, so it's worth exploring the entirety of this open-world section before tackling the bunker, jamming station, and SAM site.
 
-### New Cheaper PS5 Officially Available for Pre-Order Now
-Tue, 20 Oct 2026 18:31:44 GMT — https://www.polygon.com/ps5-midnight-edition-preorders-open-now-japan/
+### Marvel Officially Made the Saddest Death in MCU History More Tragic With Just 1 Sentence
+Wed, 21 Oct 2026 03:00:19 GMT — https://www.polygon.com/visionquest-episode-3-explained-friday-avengers-endgame-tony-stark-death/
 
-With the cost of a PlayStation 5 going up and up in price since the console's launch in 2020, late adopters are looking at a $599 entry-level price if they want to play Grand Theft Auto 6 on PS5 this November. While the current generation of consoles is bucking the trend that dedicated gaming devices typically go down in price over time — thanks a lot, generative AI speculation! — Sony is offering some small amount of relief to one market with a new PlayStation 5 console that costs around $350.
+In Avengers: Infinity War , when Dr. Strange (Benedict Cumberbatch) and a variety of other heroes are awaiting Thanos’ arrival on Titan, Strange uses the Time Stone to look into alternate futures to see the possible results of the impending conflict. Star Lord (Chris Pratt) asks Strange how many futures he looked into, and Strange replies, “14,000,605.” Then Iron Man (Robert Downey Jr.) asks how many of those resulted in their victory. Strange, looking deep into Stark’s eyes, says, “One.”
 
-### Marvel Rivals Officially Brings Avengers: Endgame's Final Fight to Life
-Tue, 20 Oct 2026 18:13:03 GMT — https://www.polygon.com/marvel-rivals-50-player-pve-avengers-endgame/
+### Phineas Horton? Disney Just Officially Made a Forgotten Marvel Legend Into MCU Canon
+Wed, 21 Oct 2026 02:45:18 GMT — https://www.polygon.com/visionquest-original-human-torch-phineas-horton-explainer/
 
-Thanos has his work cut out for him. NetEase just revealed the first gameplay footage of Marvel Rivals ’ new “Path to Doomsday - Avengers: Endgame ” PvE mode, and it features a whopping 50 players taking on the Mad Titan at once. Heroes like Captain America and Iron Man face off against Thanos’ legion, as the big bad swings a massive dual-bladed sword that can instantly kill his foes. The scene loosely recreates the final battle scene in Avengers: Endgame , as the forces of good and evil clash on a desolate landscape next to a destroyed Avengers Tower. In practice, the mode looks a bit like a multiplayer version of Dynasty Warriors.
+During episode four of VisionQuest , old-school Marvel Comics fans got the name drop to end all name drops.
 
-### Magic: The Gathering Star Trek Shakes Up Commander With 2 Bold New Mechanics
-Tue, 20 Oct 2026 18:01:07 GMT — https://www.polygon.com/magic-star-trek-commander-mechanics/
+### 'VisionQuest' Episode 4 Ending Explained: Who Is Jocasta?
+Wed, 21 Oct 2026 02:31:18 GMT — https://www.polygon.com/visionquest-jocasta-explained-marvel-comics/
 
-Wizards of the Coast began releasing preconstructed Commander decks each year starting in 2011, but ended the Commander series in 2019. New decks have instead rolled out alongside some of its major Magic: The Gathering set releases. While these decks have provided plenty of powerful cards, they haven’t changed with the format with new keyworded mechanics like Lieutenant , which was added in Commander 2014, or Eminence , which debuted in Commander 2017. That’s changing in November, when the Star Trek Universes Beyond set will add two new Commander-specific mechanics.
+While the first two episodes of VisionQuest focus on Vision (Paul Bettany) being pursued by the bounty hunter Paladin (Todd Stashwick), the two episodes released on Oct. 20 introduce a new threat. Both Paladin and Vision cross paths with another synthezoid who has deep roots in Marvel Comics , though the show has given the character a very different backstory and motivation. If you’re looking for answers after episode 4’s cliffhanger, here’s what we know about Jocasta (T'Nia Miller) and what she’s up to.
 
-### Magic: The Gathering Star Trek Officially Adds a New Way to Lose the Game
-Tue, 20 Oct 2026 18:00:17 GMT — https://www.polygon.com/kobayashi-maru-magic-star-trek/
+### Forget ‘Carrie,’ Mike Flanagan’s Best Netflix Miniseries Is a Masterpiece From Start to Finish
+Wed, 21 Oct 2026 01:30:18 GMT — https://www.polygon.com/midnight-mass-vs-carrie-mike-mike-flanagan/
 
-The vast majority of Magic: The Gathering games end when one player is reduced to zero life, though some players love to build decks around the more unusual ways to achieve victory. You can empty your opponent’s deck, infect them with poison counters, or try to fulfill the win conditions of cards like Simic Ascendancy or Doctor Doom, Unrivaled . Next month, the Star Trek Universes Beyond set will introduce a whole new way to lose based on one of James T. Kirk’s most famous stories.
+Long before he was at the helm of the Prime Video adaptation of Stephen King's Carrie, Mike Flanagan made waves for himself with his trilogy of Netflix TV miniseries . His ability to helm works that combine horror and genuine human exploration. Recently, The Fall of the House of Usher reimagined classic Edgar Allan Poe tales to terrifying success, with each episode adapting a different story.
 
-### 'Final Fantasy 7 Remake' Leads New Wave of Xbox Game Pass Additions
-Tue, 20 Oct 2026 17:59:21 GMT — https://www.polygon.com/xbox-game-pass-new-games-october-2026-final-fantasy-7-remake/
+### Red Rising Is Officially Returning In 2027
+Wed, 21 Oct 2026 01:00:18 GMT — https://www.polygon.com/red-rising-digital-edition-2027-release/
 
-Xbox Game Pass subscribers have another batch of games to look forward to as Microsoft expands its subscription library with new releases and older favorites. The latest wave includes everything from supernatural mysteries and online RPGs to a remastered tower-defense classic, with several games arriving for Xbox fans before the end of October.
+In the early 2010s, The Hunger Games captivated a generation, and in its wake came another dystopian tale set in the stars. Red Rising , a six-book saga by author Pierce Brown, traded the death-match arena for Mars, where a rigid, color-coded class system dictates daily life on the Red Planet. "Golds" are the most elite nenbers of Mars society, and they rule over the other colored classes, including the lowest class, "Reds." Much like Katniss Everdeen became the face of a revolution in The Hunger Games , Darrow, a lowborn "Red" miner, becomes the face of Red Rising's revolution.
 
-### Zelda: Ocarina of Time Remake File Size Officially Confirmed
-Tue, 20 Oct 2026 17:54:55 GMT — https://www.polygon.com/legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-file-size/
+### Shrek 2 Remastered Officially Announced With Must-See GTA 6-inspired Trailer
+Tue, 20 Oct 2026 23:05:59 GMT — https://www.polygon.com/shrek-2-remastered-release-date-trailer-online-co-op/
 
-When the original Nintendo 64 version of The Legend of Zelda: Ocarina of Time was released in 1998, the entire game fit on a 32 MB cartridge. The upcoming Nintendo Switch 2 remake does not; in fact, the updated version of the classic game is over 800 times larger. That's according to the recently revealed file size for the remake, so you should start clearing some storage space.
+Rockstar Games has spent years building hype for Grand Theft Auto 6 , with every trailer and update becoming a major event for fans. But what if that same dramatic treatment was applied to a very different kind of video game? One starring a certain green ogre , perhaps?
 
-### Star Wars Is Throwing Its Own Super Bowl, with an Original Cast Member Returning
-Tue, 20 Oct 2026 17:51:31 GMT — https://www.polygon.com/disney-star-wars-super-bowl-2027-animated/
+### Henry Cavill’s Upcoming Sci-Fi Space Opera Series Writer Admits It's Been ‘Brutally Difficult’
+Tue, 20 Oct 2026 23:02:14 GMT — https://www.polygon.com/mike-flanagan-henry-cavill-warhammer-40k-tv-show/
 
-If you've ever found yourself watching an NFL game and thought, "This would be so much better with lightsabers and Stormtroopers," then do I have some spectacular news specifically for you. On Tuesday, Disney announced it will broadcast a Star Wars -themed real-time animated telecast of Super Bowl LXI in February.
+Mike Flanagan has spent years bringing some of horror's most beloved stories to the screen, from Stephen King's Doctor Sleep to Netflix's The Haunting of Hill House . His latest King adaptation, Carrie , has earned rave reviews and is dominating streaming on Prime Video, but the filmmaker's next major undertaking might be his most daunting yet: bringing the sprawling science-fiction universe of Warhammer 40,000 to live action.
 
-### Christopher Nolan’s The Prestige Sets Surprise Return to Theaters
-Tue, 20 Oct 2026 17:47:28 GMT — https://www.polygon.com/christopher-nolan-the-prestige-theaters-release-date-2027/
+### 20 Best Board Wipes in Magic: The Gathering
+Tue, 20 Oct 2026 21:52:55 GMT — https://www.polygon.com/best-board-wipes-magic-gathering-mtg/
 
-Christopher Nolan has spent the past decade turning original films into major box-office events, from the mind-bending sci-fi thriller Tenet to the Oscar-winning biographical drama Oppenheimer . His latest blockbuster, The Odyssey , has continued that streak, bringing Homer’s ancient epic to theaters this summer.
+While early sweepers simply destroyed everything in sight, decades of card design have led to a fascinating variety of board wipe functionality. Modern alternatives often bypass indestructible keywords and death triggers using non-targeting exile effects or mass toughness penalties like -X/-X. Other variations leverage cost-reduction mechanics, instant-speed mass bouncing, or modular options, allowing players to turn a seemingly symmetrical effect into a devastating advantage.
 
 ## PC Gamer
+
+### In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered
+Wed, 21 Oct 2026 02:08:18 +0000 — https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/
+
+Shrek 2 Remastered is coming out in November, it has been announced. I wasn't aware there was a Shrek 2 game for PS2, the OG Xbox, GameCube and PC, probably because in 2004 I was too busy thinking about all the other games coming out. You know, stuff like Half-Life 2, World of Warcraft, Halo 2, Metal Gear Solid 3, Grand Theft Auto: San Andreas and Wings of Power: WWII Heavy Bombers and Jets. But Shrek 2 does indeed exist, though contemporary reviews don't point to it necessarily justifying that existence. "You know folks, this game is pretty bad," wrote Nintendo World Report. "Shrek 2 is harmless, inoffensive, middle-of-the-road action for young children," Eurogamer wrote with superlative diplomacy. IGN gave it a 7 even though the reviewer "dreaded" playing it. It's a 3D platformer, kinda, though it has some interesting features. You can switch between four characters on the go, which clearly inspired Rockstar during the making of GTA 5. It supports local and online co-op for up to four players, which is probably the best way to play it (the original only supported local). There are eleven levels, and apparently they're all quite varied, adopting various moments in the film with aplomb. It appears to be a port of the PS2 version. The PC version of Shrek 2 was quite different to the console versions, a fact that has caused a bit of fuss in the Steam forums, though a contemporary review from Gamespot notes that "the PC version undercuts that [PS2] title with poor visuals, rough
+
+### EA Sports FC 27 gets a PEGI 16 rating in Europe because of loot boxes
+Tue, 20 Oct 2026 21:56:37 +0000 — https://www.pcgamer.com/gaming-industry/ea-sports-fc-27-gets-a-pegi-16-rating-in-europe-because-of-loot-boxes/
+
+European game rating agency PEGI has begun increasing its age ratings for games that contain "paid random items," a process that's seeing games initially rated as low as PEGI 3—suitable for all age groups—bounced directly to PEGI 16. Word of the change came from Connor Hindle, policy manager of the UK's Games Rating Authority. "Since June, newly submitted games have been assessed against an expanded set of criteria within the PEGI rating framework, including new criteria relating to interactive risks," Hindle wrote on LinkedIn (via GamesIndustry ). "As the UK administrator of PEGI, the Games Rating Authority has now begun applying these updated criteria to selected existing digital products." These changes were announced in March , and are part of PEGI's new "interactive risk categories" that include "purchases of in-game content, paid random items, communication features, and features that incentivise players to continue playing." The new categories reflect the ways we view videogames have changed: While rating systems like PEGI and ESRB were initially created over concerns about violence and sex in videogames, the real dangers turned out to be much more insidious. As a result, any game with loot boxes is now rated PEGI 16 by default, and that's led to some serious upjumps: EA Sports FC 25, for instance, is rated PEGI 3, as are previous games in the series, but FC 27 is PEGI 16: The former game has "no rating issues," but the newer one has a detailed breakdown of the various
+
+### 'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo
+Tue, 20 Oct 2026 21:34:35 +0000 — https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/
+
+Moonlighter and Cataclismo studio Digital Sun Games announced yesterday that it had canceled plans to release a wide public playtest of its forthcoming "tower defensevania" roguelike ReVamp . The reason? The rollout of a more powerful AI model in Anthropic's Claude Opus 5.5 has led to a surge in hastily turned around clones and decompiles, resulting in thousands of cheap and nasty products flooding Steam and Roblox. The studio doesn't want people to decompile and steal ReVamp's code. It also wants to prevent opportunists rapidly vibe coding a clone that would hit the market well in advance of ReVamp's March 2027 release date. While clones have obviously existed forever, for a studio to worry that its concept—and its code —may be pilfered and turned around within days is unprecedented. Digital Sun Games is not the only studio to cancel a demo due to these anxieties. Digital Sun Games' marketing manager, Israel Mallén, reached out earlier this week to alert me to the demo's cancellation. I shot back a few more questions to get a sense of what the current situation is for a small but experienced dev team. Scaling a "large playtest" down to a smaller, even more private one must come with marketing / exposure setbacks, right? Yes, it affects us a lot, mostly in terms of how many people we can actually reach. We had tens of thousands of people signed up for the original Steam playtest. Moving it to Discord means we're looking at a playtest of a few hundred people at best, since we'
+
+### My favorite indie roguelike action RPG is tempting me to come back with a transformative new update inspired by Diablo seasons
+Tue, 20 Oct 2026 20:59:12 +0000 — https://www.pcgamer.com/games/rpg/my-favorite-indie-roguelike-action-rpg-is-tempting-me-to-come-back-with-a-transformative-new-update-inspired-by-diablo-seasons/
+
+Hell Clock, one of my favorite indie roguelike action RPGs in the last few years, found a way to take the appeal of limited-time Diablo seasons and make them permanent—no FOMO involved. Its "Journeys" work much like Diablo and Path of Exile's seasons/leagues by transforming a normal run through the game with new toys to play with, but they won't disappear after a few months. The newest Journey, the Journey of Miracles, is now freely available for anyone who owns the game. With the Journey of Miracles toggled on, you'll be able to earn powerful buffs for each run whenever you find a statue and survive the juiced up combat encounters they unleash. Some of these Divine Blessings you can grab are absurdly strong, like one that gives you the benefits of a Shrine (eg, extra movement speed, bonus XP gain, etc) by simply drinking a potion. There's a full list of what each one grants you on the Steam page , and I can tell some of them are designed to enable builds that weren't possible before. Hell Clock isn't quite your typical action RPG. You can equip gear, but the bulk of your character's power comes from their Relics. Every Relic gives you stat bonuses and many of them come with unique effects that change how your abilities work. The Journey of Miracles will introduce several new Relics to the game, some of which bend existing builds in a new direction. I was a fan of the Relic that let me cover the screen in lightning bolts, but I see a new one that juices up their damage in exc
+
+### The studio behind Life is Strange, Jusant, and Lost Records: Bloom & Rage is desperately struggling to stay afloat
+Tue, 20 Oct 2026 20:43:59 +0000 — https://www.pcgamer.com/gaming-industry/the-studio-behind-life-is-strange-jusant-and-lost-records-bloom-and-rage-is-desperately-struggling-to-stay-afloat/
+
+Things seem to have gone from bad to worse for Don't Nod, the developer of the first two Life is Strange games as well as Jusant, Banishers: Ghosts of New Eden, Lost Records, and Aphelion. A month after saying it might not have enough cash to get through January 2027 and that up to 90 people were at risk of being laid off, the studio has begun "safeguard proceedings" aimed at buying it time while it tries to get its financial situation sorted. Don't Nod has been struggling since 2024, after both Jusant and Banishers: Ghosts of New Eden, despite being well-received by players and critics, sold " well below expectations ." Work on two new games was put on hold and layoffs followed in 2025, but despite achieving "significant milestones" in its restructuring plan, the studio is still in trouble. "The videogame industry continues to face an exceptionally challenging environment, marked in particular by highly selective access to financing," Don't Nod CEO and Chairman Oskar Guilbert said in a financial update . "In this context, our current cash position does not allow us to adequately secure all the financing requirements associated with our operations and projects." Thus the opening of the safeguard proceedings, which Guilbert said "is a proactive, protection measure ... intended to provide the necessary framework and time to build a sustainable solution, while continuing our operations and preserving the value of our assets, our projects and our expertise." Safeguard proceedings
+
+### After talking to Capcom, I'm a lot more optimistic about Onimusha 3 getting a remaster
+Tue, 20 Oct 2026 20:34:43 +0000 — https://www.pcgamer.com/games/action/after-talking-to-capcom-im-a-lot-more-optimistic-about-onimusha-3-getting-a-remaster/
+
+Capcom now makes the majority of its money on PC and "expects this ratio to continue increasing," it said in a report earlier this year—a shift that's been in the works ever since 2018's release of Monster Hunter: World sold approximately three trillion copies. These days Capcom releases a healthy mix of new big budget games and remasters from its back catalog that have never been on PC, like Dead Rising and both Onimusha and Onimusha 2 . The third game in the PlayStation 2 samurai series, co-starring French actor Jean Reno, has always seemed like a bit of a longshot for a remaster given the likely licensing costs and complications around his likeness. But now I have a feeling it's going to happen. At the end of an interview focused on the series' first new entry in decades, Way of the Sword , I asked Capcom if its sales success has led to new discussions internally about rereleasing 2004's Onimusha 3 or 2006's Onimusha: Dawn of Dreams. And I got a more straightforward answer than I was expecting. "As series producer, from my position, seeing the reaction to the game and the excitement around it, definitely makes me feel that it would be great to release remasters of Onimusha 3 and Onimusha: Dawn of Dreams," said producer Akihito Kadowaki. That's not a commitment, of course. Maybe it means nothing at all! But in my experience interviewing Japanese developers, they are usually cautious, caveating statements about unannounced projects with phrases like ' while we can't say anyt
 
 ### Founder of bankrupt Samson studio mulls how to use AI for his next attempt: 'Cutting corners in game development has a habit of coming back to bite you in the ass'
 Tue, 20 Oct 2026 18:43:15 +0000 — https://www.pcgamer.com/gaming-industry/founder-of-bankrupt-samson-studio-mulls-how-to-use-ai-for-his-next-attempt-cutting-corners-in-game-development-has-a-habit-of-coming-back-to-bite-you-in-the-ass/
@@ -352,36 +377,6 @@ If you don't talk to me about the price, I will tell you the Asus ProArt P16 is 
 Tue, 20 Oct 2026 16:01:15 +0000 — https://www.pcgamer.com/hardware/graphics-cards/dlss-swapper-now-lets-you-update-all-your-upscalers-in-multiple-games-at-once-adds-nvidias-new-frame-generation-preset-c/
 
 DLSS Swapper just became even more useful, as the upscaler-switching software has rolled out a bulk DLL swapping feature in the latest update. Version 1.2.7.0 adds a Bulk Swap button to the top right hand menu. Click on it, and you can select multiple games (or all of them) from your libraries at once, before individually selecting your upscaling version preferences in one handy menu (via Techpowerup ). Hit apply, and they all get updated at the same time. There are many different iterations of DLSS, FSR, and XeSS to choose from, including separate frame generation options and individual upscaler presets. And should a change cause issues, your games can be restored to their original DLLs and preset settings en masse, too. It's the little things in life, isn't it? This update also adds DLSS Frame Generation Preset C , which is the new beta version that is supposed to significantly boost performance in exchange for a slight drop in visual fidelity. Up to 35% on an RTX 5060, supposedly. I've had some odd visual results when messing around with different upscaler versions in certain games ( Crimson Desert , I'm looking at you), so the option to easily roll back changes either individually or all at once is a welcome one. I might have a mess around with Preset C later, though, just to see if I can gain a few frames. A word of warning. DLSS Swapper points out on first boot that messing around with game files could cause some anti-cheat software to flag the changes, so it's probably
-
-### I have neither the budget nor the inclination for a crystal encrusted RTX 5090, but Galax is releasing one anyway
-Tue, 20 Oct 2026 15:25:03 +0000 — https://www.pcgamer.com/hardware/graphics-cards/i-have-neither-the-budget-nor-the-inclination-for-a-crystal-encrusted-rtx-5090-but-galax-is-releasing-one-anyway/
-
-Nvidia's RTX 5090 GPU has become particularly elusive lately. In light of swirling rumours, Nvidia promises the 5090 isn't dead but constrained supply and runaway pricing has made it a tough card to track down. So, amidst all of this, what does Palit-owned hardware manufacturer Galax do? Tease a gem-studded edition of the RTX 5090. The GeForce RTX 5090 Hall of Fame Edition was technically already teased back during Computex, though folks thought this showfloor piece was alluding to a whole new GPU generation at the time . Now, we know this special edition is actually current gen and will feature a GPU shroud encrusted with Swarovski crystals (via Techpowerup ). No price has yet been announced ahead of this exceptionally extra card's slated October 22 release date. With how much a standard RTX 5090 costs, odds are that those planning to scoop this shiny GPU will need very deep pockets indeed. For context, we've stopped including the RTX 5090 in the graphics card price watch , as our Dave notes the card is 'unavailable' from many reputable retailers. Our Jacob notes that the card can be found in places like Newegg's Marketplace for upwards of $9,000 . Those stones are far from the only Extra feature about this special edition GPU. Like many of Galax's other offerings, it'll be available in a striking white. This card will also enjoy dual 12V-2×6 power connectors, much like other Hall of Fame editions. That'll offer a beefy amount of power headroom. Anyway, I enjoy aesthetic har
-
-### Of course a new Edgerunners series means a new Cyberpunk 2077 patch
-Tue, 20 Oct 2026 14:46:51 +0000 — https://www.pcgamer.com/games/rpg/of-course-a-new-edgerunners-series-means-a-new-cyberpunk-2077-patch/
-
-A new series of Cyberpunk: Edgerunners will drop on Netflix today and you know what that means: the nation of Poland has again conspired to make us all very sad . Something else it means: CDPR's devs have been preparing a new patch for Cyberpunk 2077 (the videogame). Announced today , the details of Cyberpunk's 2.5 patch will drop tomorrow, the 21st of October, before the update itself releases on the 22nd. Is it Cyberpunk 2077's actual, true, proper, pinky-swear final patch? No, and given the fact that The Witcher 3 just got a remaster 11 years after release, I'm not sure such a thing is possible. Anyway, not much in the way of detail there in the patch's announcement post, I suppose, meaning we all have to wait til CDPR furnishes us with the deets in tomorrow's stream? Well, for the most part, yes, but the studio did drop some information about the patch's contents in the announcement post. Specifically, that the patch would contain new stuff in the way of cyberware customisation and "a new dual-wielding playstyle." Which is fairly eyebrow raising. Cyberware customisation I'm not especially concerned about, though it's presumably good news for people who loved tinkering with the customisation on their cars after earlier patches introduced that feature. But a new dual-wielding playstyle? That'll get me to sit upright. If you've forgotten (or if, as god intended, you've only played the game wielding a katana and quickhacks), Cyberpunk 2077 didn't let you properly dual wield g
-
-### I accidentally severed my finger with a butter knife as I panicked in a messed-up game of Five Finger Fillet
-Tue, 20 Oct 2026 14:46:45 +0000 — https://www.pcgamer.com/games/roguelike/i-accidentally-severed-my-finger-with-a-butter-knife-as-i-panicked-in-a-messed-up-game-of-five-finger-fillet/
-
-Five Finger Fillet is, like many things, undoubtedly a creation fuelled by medieval bozos with too much time on their hands and booze in their bodies. Grab a knife and stab it between your fingers? For fun? Definitely the invention of an alcohol-addled mind. It is also something I am unbelievably rubbish at, as someone with mediocre hand-eye coordination and a tendency to get the shakies. So it should come as no surprise that, given 20 minutes to stab between my digits 500 times, it took embarrassingly little time for me to slice my ring finger clean off with a butter knife. Not in real life, mind. I'm not that stupid. I'm talking about 500 Finger Fillet, a roguelite spin which shackles your (not real) wrist to a table while a pointy (or in my case, rather blunt) instrument attached to a rickety crane hovers over you, frantically twitching around while you slam a button and hope it doesn't come down onto your precious flesh. All while a maniacal teddy bear head watches your every move. (Image credit: DEADBODY Games) The game isn't totally demented in its demands, at least. It splits up those 500 stabs into tidy rounds of 50 stabs apiece—this is where the roguelite stuff comes in—with a breather halfway through and an opportunity to buy items. There's medication to help manage your pain meter when you inevitably slice yourself open a little, tablets to recuperate lost blood, and rings that can offer stat boosts or keep your precious pinky safe from being severed entirely. When
-
-### Microsoft won't like this open source project to get Game Pass working on SteamOS and Linux, but I think it's pretty neat
-Tue, 20 Oct 2026 14:45:35 +0000 — https://www.pcgamer.com/software/microsoft-wont-like-this-open-source-project-to-get-game-pass-working-on-steamos-and-linux-but-i-think-its-pretty-neat/
-
-It wasn't long ago that Linux gaming was considered fairly niche—but given that Windows 11 is unpopular with many, it seems that not a day goes by without something regarding the switch to Linux hitting my newsfeed. Not to mention the continuing updates to Valve's Arch-based SteamOS. Now my attention has been drawn to the Xodus Nexus , an experimental open-source project that aims to allow Linux and SteamOS users to access PC Game Pass. This includes the ability to browse, install, and launch games via a very familiar interface, complete with cloud save support. That's for supported games only, of course, but the GitHub page has a big long list of them. From Gears of War: E-Day , to Minecraft for Windows, to Halo: Campaign Evolved , there sure are some big hitters that are already supported by the open-source platform. The readme describes the project as "An Xbox-inspired launcher built on Xodus , using our patched Nexus backend and Nexus runtime. Browse the store, install games you own or can access through a subscription, and play with one shared runtime." The whole system seems to be in an experimental test phase at the moment, and the controller navigation looks to be a work in progress, too. However, games can be added to Steam as non-Steam-game shortcuts, and Xbox achievements have been added in the latest update, alongside many other features. 🚨 PC GAME PASS is now being made playable on Linux and SteamOS through an unofficial open-source project called Xodus Nexus. �
-
-### I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price
-Tue, 20 Oct 2026 13:43:57 +0000 — https://www.pcgamer.com/hardware/vr-hardware/im-not-sure-if-the-steam-frame-hits-any-corners-in-this-bouncing-screensaver-but-maybe-if-i-watch-long-enough-the-headset-will-come-down-in-price/
-
-I made a Steam Frame screensaver from r/SteamFrame As a PlayStation VR2 player previously, I've been admiring the wireless ways of Valve's Stream Frame from afar ever since it launched back in September. I don't know about you but the $1,059 starting price still puts the VR headset a bit outside of my budget. However, Reddit user Kebakent just shared a short video of a small project they're working on that may soften that blow. It's a Windows screensaver, but hear me out on my vision at least. The understated project features artwork of the Steam Frame headset and its two controllers bouncing around the screen (though so far I've not spotted any of these perfectly hitting the corners ). So here's my broke girl vision: If I click on the short video in the Reddit post, make it fullscreen, and get real close to my monitor, I can pretend I already have a Steam Frame, but I'm choosing not to actively play with it. As I watch the headset twirl around the void, I can instead pretend my good poltergeist friend is having the time of their afterlife. Okay, fine—I admit that's not going to fool any Steam Frame-less VR head. Still, it's never not neat to see the Valve hardware community bring its homebrew energy (I'm still very partial to this custom Steam Deck boot animation styled after the Scrubs intro ). If you are a so-called Steam Frame subreddit 'Sooner ', you can download this Windows screensaver yourself from GitHub here . "Object size, movement speed, rotation speed, and bright
-
-### Amnesia: The Dark Descent's co-founder explained the 'the dynamic of Steam' to Red Barrels after Outlast's sales slowed down
-Tue, 20 Oct 2026 12:44:51 +0000 — https://www.pcgamer.com/games/horror/amnesia-the-dark-descents-co-founder-explained-the-the-dynamic-of-steam-to-red-barrels-after-outlasts-sales-slowed-down/
-
-Three of the most influential games from my childhood were Pokémon HeartGold, Amnesia: The Dark Descent , and Outlast . Knowing this, you could probably piece together the kind of person I have become—let's just say it explains a lot. So it brought a smile to my face when I learned that without one of these influential games, I wouldn't have had the other—no, Pokémon HeartGold has nothing to do with anything—it's actually Amnesia which helped bring Outlast to the world. Red Barrels, the Outlast devs, already discussed how difficult it was to pitch Outlast to publishers in an interview with GameSpot . But they also mentioned how Amnesia: The Dark Descent was something of a lodestar for the team. (Image credit: Red Barrels) Not only did the success of Amnesia reassure Red Barrels that there was in fact a market for the kind of game they were trying to make, but the fact that no one else had really tried to ride its coattails meant there was a space left wide open for them. Some of the Red Barrels devs even sat in on a conference talk where Frictional Games co-founder Thomas Grip revealed that Amnesia: The Dark Descent sold an impressive 400,000 copies in its first year. This quickly became Outlast's goalpost. But when sales for Outlast began to die down, Red Barrels co-founder Morin decided to reach out to Grip for some advice in how to navigate the changing tides of Steam: “He explained to us the dynamic of Steam, and when you do promotion, it spikes back up, [then] goes back 
 
 ## GameSpot
 
@@ -447,6 +442,26 @@ Activision recently released ports of 2010's Call of Duty: Black Ops and 2012's 
 
 ## Rock Paper Shotgun
 
+### MSI Claw 8 EX AI+ review - superlative playing power with familiar Windows handheld caveats
+Wed, 21 Oct 2026 08:40:01 +0000 — https://www.rockpapershotgun.com/msi-claw-8-ex-ai-plus-review
+
+Welcome to my review of the MSI Claw 8 EX AI+, a handheld PC that went on sale four months ago. And if you think that&rsquo;s bad, tell it to the 2025-spec Lenovo Legion Go 2 I&rsquo;ve left, neglected and unappraised, in the dusty heights of my utility cupboard. Read more
+
+### Subnautica 2's next major update adds "the scariest region we've ever done", together with frog mechs and a very welcome tweak for dashing
+Wed, 21 Oct 2026 08:07:06 +0000 — https://www.rockpapershotgun.com/subnautica-2s-next-major-update-adds-the-scariest-region-weve-ever-done-together-with-frog-mechs-and-a-very-welcome-tweak-for-dashing
+
+Bracingly moist open world survival game Subnautica 2 is embarking on the "voyage to early access 2.0" - this being developer Unknown Worlds' excitable term for the next round of updates, which will include a new region, creature, and Tadpole chassis, plus some tweaks for biomods and creature behaviour. I like Subnautica 2 and am happy that Unknown Worlds appear to be enjoying some stability, after all the firings and ChatGPT-abetted lawyer-wrestling over publisher earn-outs, but I really hate "early access 2.0". I know other teams use nomenclature like this, but seriously, what even is time any more? You can't make a sequel to something you haven't finished! It's 8.30 in the morning, Unknown Worlds, and I already have a migraine. Let's hurry on to the talk of spooky new regions. Read more
+
+### Reel out garbage from a flooded planet and make number go up as satisfyingly as you can in the incremental fishing game Selkie's Salvage&Co.
+Tue, 20 Oct 2026 21:52:27 +0000 — https://www.rockpapershotgun.com/reel-out-garbage-from-a-flooded-planet-and-make-number-go-up-as-satisfyingly-as-you-can-in-the-incremental-fishing-game-selkies-salvageco
+
+The wonderful thing about video games is that they can take something that is, quite frankly, terrible, and turn it into an experience where you can't help but think "just five more minutes." Incremental games often have that effect, and Selkie's Salvage&Co. is no different in that regard, it's just the funny thing is that it is essentially a game about taking your rubbish out. Read more
+
+### I have seen the future of sports games and it is called just volleyball
+Tue, 20 Oct 2026 20:32:47 +0000 — https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball
+
+Earlier this year, I embarked on a pivotal journey, one that I'm sure upon finishing will change me for good: I started watching Haikyu!! It's my first sports anime (when you're a chubby little muffin like I was, you take more interest in Not Moving over Sports), an abscess in the lexicon of genres I've dipped my toes into, one I'm rectifying after all these years. And friends, it's good eatin'. I even, incredibly briefly, floated the idea of taking up volleyball. Yet now I don't have to, and it's all thanks to a delightful, incredibly Wii Sports coded game called just volleyball. Read more
+
 ### Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill
 Tue, 20 Oct 2026 19:15:42 +0000 — https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill
 
@@ -486,24 +501,4 @@ Umamusume: Pretty Derby has turned out to be one of the most popular games in th
 Tue, 20 Oct 2026 11:00:28 +0000 — https://www.rockpapershotgun.com/abiotic-factors-second-year-of-updates-confirmed-to-include-official-mod-support-and-a-dlc-taking-science-to-the-tropics
 
 Following its 1.0 release last July, Half Life-esque sci-fi survival game Abiotic Factor has been having a pretty good run of post-early access updates. That run of is set to continue through to 2027, as developers Deep Field have announced the game's year two roadmap including full support for community mods, a winter update with smaller additions, and the previously teased paid DLC, Entropic Break. Read more
-
-### Penguin Colony is not messing around with its statement on the Palestinian genocide, banning sale in Israel and calling out the games industry in-game
-Tue, 20 Oct 2026 10:27:07 +0000 — https://www.rockpapershotgun.com/penguin-colony-is-not-messing-around-with-its-statement-on-the-palestinian-genocide-banning-sale-in-israel-and-calling-out-the-games-industry-in-game
-
-You might remember 2021's Umurangi Generation , developed by M&amacr;ori studio Origame Digital. It placed its focus on its first-person photography system as much as its very direct anti-colonial and anti-neoliberal criticism, stemming partly from the Australian government's mishandling of COVID and the bushfires that spread across the country in 2020. Origame's second game, the newly-released Penguin Colony , is just as direct in its anti-colonial theming, with its target being the ongoing Palestinian genocide by Israel, and the games industry at large for its silence. Read more
-
-### Helldivers 2's GameGuard cheat policing "wasn't as effective as it could have been", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods
-Tue, 20 Oct 2026 09:32:27 +0000 — https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods
-
-Helldivers 2 , a game that still appears to be missing in action from Steam here in the UK, is switching anti-cheat software. Developers Arrowhead are keen to tighten up security and crack down on the use of cheat mods that can influence the bug-slaying experience of folks beyond the person who's installed them. Read more
-
-### "Too big a risk": Moonlighter devs delay new game's demo for fear of genAI cloning, calling on platforms to "keep strengthening protections for original work"
-Mon, 19 Oct 2026 17:02:28 +0000 — https://www.rockpapershotgun.com/too-big-a-risk-moonlighter-devs-delay-new-games-demo-for-fear-of-genai-cloning-calling-on-platforms-to-keep-strengthening-protections-for-original-work
-
-Moonlighter and Cataclismo developers Digital Sun Games have postponed a public Steam playtest for their new game ReVamp , for fear of people using generative AI to clone their work before release. Read more
-
-### "I was a real anglophile": A Canadian's obsession with Viz magazine is why Grand Theft Auto: London's streets are covered in dogs' eggs
-Mon, 19 Oct 2026 16:30:00 +0000 — https://www.rockpapershotgun.com/i-was-a-real-anglophile-a-canadians-obsession-with-viz-magazine-is-why-grand-theft-auto-londons-streets-are-covered-in-dogs-eggs
-
-The Grand Theft Auto games have a long history of being made by developers who live far from their source material. The original game and its mainline sequels have all been led by Rockstar North, housed in a decidedly not US-based Edinburgh. But, even when it came to a comparatively local GTA mission pack set in London, the team chose instead to ask their newly acquired Canadian team to handle the development work. It didn't matter that only a few people on the team had actually been to London before. Yet, that distance, as proven across the series grants the developers a more incisive view of a place, one that focuses more on a setting's cultural rendering than its reality. As evidenced by Grand Theft Auto: London's dog shit. Read more
 

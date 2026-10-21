@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-20T20:07:59.745Z
+# AI — harvested 2026-10-21T09:37:59.687Z
 
 ## OpenAI
 
@@ -6,6 +6,11 @@
 Tue, 20 Oct 2026 10:00:00 GMT — https://openai.com/index/ted-taylor-restaurant
 
 An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.
+
+### Terminal X matches senior investor judgment 88.6% with GPT-6.1
+Tue, 20 Oct 2026 07:00:00 GMT — https://openai.com/index/terminal-x
+
+Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6.1 Sol.
 
 ### OpenAI acquires Orchestra Bio
 Tue, 20 Oct 2026 00:00:00 GMT — https://openai.com/index/openai-to-acquire-orchestra-bio
@@ -36,9 +41,6 @@ Tue, 20 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/anylanguagemodel-1
 
 ### MPS in PyTorch 2.15
 Tue, 20 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/mps-pytorch-2-15
-
-### TorchNeuron: running HF models on AWS Trainium is easier than ever
-Mon, 19 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/hf-torchneuron
 
 ## Google DeepMind
 
