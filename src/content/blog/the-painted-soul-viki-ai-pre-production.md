@@ -74,7 +74,12 @@ Key art is the last place to look for an answer about technique anyway. It gets
 illustrated on its own terms, often by a different hand from the one drawing the
 show, and it is built to sell a mood at thumbnail size on a shelf of competing
 thumbnails. Series have shipped behind a beautiful poster with animation on
-threes waiting underneath it. So a streamer with a pipeline question hanging
+threes waiting underneath it. Which is why the picture at the top of this
+piece is a two-hundred-year-old painting rather than a frame from the show:
+Shin Yun-bok's *A Beautiful Woman*, public domain, standing in for artwork the
+production has not released. It is the right century and the right craft, and it
+says as little about how these ten episodes were animated as the official poster
+does. So a streamer with a pipeline question hanging
 over its first animated commission has answered with a teaser, a synopsis and a
 poster.
 
