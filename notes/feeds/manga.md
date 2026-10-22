@@ -1,72 +1,77 @@
-# Manga — harvested 2026-10-22T09:37:41.405Z
+# Manga — harvested 2026-10-22T15:39:00.904Z
 
 ## Anime News Network
 
-### Crunchyroll Streams English Dub for 'The Prince of Tennis: Two Samurais, The First Game,' The Prince of Tennis: A Gift from Atobe Films
-Thu, 22 Oct 2026 04:46:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100
+### Exclusive: Nakama Press Licenses Uoto's 100 Meters Manga for Release in 2027
+Thu, 22 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-manga-for-release-in-2027/.243056
 
-Service added 2005 films on October 15
+Nakama Press also licensed Buichi Terasawa's <cite>Goku Midnight Eye</cite> for release next year
 
-### Seven Seas Licenses Sagrada Reset Novel; Two Cats and a Dog, The Mercenary Bomber Explodes All Cheaters Manga
-Thu, 22 Oct 2026 03:53:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/seven-seas-licenses-sagrada-reset-novel-two-cats-and-a-dog-the-mercenary-bomber-explodes-all-/.243080
+### Capcom Confirms Data Breach of Over 11 Million User Accounts
+Thu, 22 Oct 2026 10:51:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110
 
-Also licensed: <cite>Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World</cite> audiobook, <cite>Miotsukushi: Backdoor Channels</cite> manga
+Third party had unauthorized access to Capcom ID service starting on October 19
 
-### Anime World Offers Condolences After Screen, Voice Actor Hiroshi Tsuchida's Death, Part II
-Wed, 21 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-screen-voice-actor-hiroshi-tsuchida-death-part-ii/.243077
+### Suikoden: The Anime ‒ Episodes 1-3
+Thu, 22 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/suikoden-the-anime/episodes-1-3/.243091
 
-Creators, artists, & fans came together for their farewells
+Most critical of all is that the <i>Suikoden</i> anime reminds me of anime and gaming from the days of yore.
 
-### The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members
-Wed, 21 Oct 2026 23:38:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088
+### This Week in Anime - The Legacy of Sayo Yamamoto
+Thu, 22 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-22/.243060
 
-Naomi Shindō, Atsushi Ono, Ai Kayano, Yurie Funato voice Country of Long Nights' royalty
+Now that Coop has finally watched <i>Yuri!!! on Ice</i>, they and Sylvia dive into Sayo Yamamoto 's series.
 
-### Anime World Offers Condolences After Actor Hiroshi Tsuchida's Death, Part I
-Wed, 21 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-actor-hiroshi-tsuchida-death-part-i/.243070
+### Magical Girl Raising Project Restart ‒ Episodes 1-3
+Thu, 22 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episodes-1-3/.243090
 
-Colleagues remember him from his Super Sentai roots to his prolific voice-acing years
+When it comes down to it, <cite>Magical Girl Raising Project Restart</cite> is built around one thing: unintended consequences.
 
-### Live-Action My Sister's Boyfriend Film's Trailer Unveils Song by timelesz
-Wed, 21 Oct 2026 22:21:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/live-action-my-sister-boyfriend-film-trailer-unveils-song-by-timelesz/.243083
+### Reincarnated as a Sword Season 2 ‒ Episodes 1-4
+Thu, 22 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episodes-1-4/.243086
 
-timelesz performs theme song "Hontō no Koto o Iu to" for December 4 film
+For all my complaining about other, low-effort isekai, I couldn't then turn around and criticize this one for trying too hard
 
-### Cygames to Reimburse Travel, Lodging for Canceled Uma Musume Concerts
-Wed, 21 Oct 2026 20:55:21 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/cygames-to-reimburse-travel-lodging-for-canceled-uma-musume-concerts/.243082
+### The Apothecary Diaries Film's New Trailer Unveils Kenshi Yonezu's Theme Song
+Thu, 22 Oct 2026 08:29:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/the-apothecary-diaries-film-new-trailer-unveils-kenshi-yonezu-theme-song/.243109
 
-Cygames to cover cancellation fees for those who planned to go, expenses who already left to LA
+New visual, character chart, details on creator Hyuganatsu's new stories also unveiled
 
-### FuRyu Previews Crymelight Game's Battles in New Trailer
-Wed, 21 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/furyu-previews-crymelight-game-battles-in-new-trailer/.243079
+### Muv-Luv Alternative's Schwarzesmarken Games Get Steam Release
+Thu, 22 Oct 2026 08:27:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/muv-luv-alternative-schwarzesmarken-games-get-steam-release/.243107
 
-Game launches for Switch 2, PS5, PC via Steam on November 5
+<cite>Schwarzesmarken Kōketsu no Monshō</cite>, <cite>Schwarzesmarken Junkyōsha-tachi</cite> to launch with planned Japanese, English, Chinese language support
 
-### Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel
-Wed, 21 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041
+### Gyakusatsu Kigen Manga Gets Animated Promotional Video
+Thu, 22 Oct 2026 07:29:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/gyakusatsu-kigen-manga-gets-animated-promotional-video/.243087
 
-Manga launched on Tuesday
+Sōma Saitō narrates video storyboarded by <cite>My Happy Marriage</cite> director Takehiro Kubota
 
-### Rin Shimokawa's 'Godmother' Manga from Young Magazine US Starts Seralization on November 18
-Wed, 21 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/rin-shimokawa-godmother-manga-from-young-magazine-us-starts-seralization-on-november-18/.243046
+### Bless TV Anime Casts Tarusuke Shingaki; Crunchyroll to Stream Series
+Thu, 22 Oct 2026 07:17:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/bless-tv-anime-casts-tarusuke-shingaki-crunchyroll-to-stream-series/.243105
 
-Original 1-shot debuted in special Young Magazine US English issue
+Shingaki voices Hikaru Oya in series debuting in January
 
-### One Piece Grand Gourmet: A Simulated Feast Game Review
-Wed, 21 Oct 2026 13:17:47 -0400 — https://www.animenewsnetwork.com/review/game/nintendo-switch-nintendo-switch-2-pc-via-steam-ios-and-android/one-piece-grand-gourmet/a-simulated-/.242984
+### Crunchyroll Reveals English Dub Cast, Staff Members, for The World's Strongest Witch Anime
+Thu, 22 Oct 2026 06:56:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-reveals-english-dub-cast-staff-members-for-the-world-strongest-witch-anime/.243103
 
-When you hear <i>One Piece</i>, I bet you think “retro-themed restaurant simulator RPG,” right? No? Well, maybe you should!
+1st English dub episode streamed on Wednesday
 
-### Interview: Adding a New Ending to STEINS;GATE
-Wed, 21 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-21/adding-a-new-ending-to-steins-gate/.242400
+### Game Developer enish Announces Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero Game for Release in 2027
+Thu, 22 Oct 2026 06:35:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/game-developer-enish-announces-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-game-/.243104
 
-<cite>STEINS;GATE RE:BOOT</cite> Producer Tatsuya Matsubara and Scenario Writer Naotaka Hayashi speak on the game's new ending, it's origins, and other potential additions they decided not to pursue.
+New game with original story cooperation by creator Fujino Ōmori planned for release on iOS, Android, PC inside, outside Japan
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Apothecary Diaries Movie Reveals New Trailer, Key Visual, and Kenshi Yonezu Theme Song
+Thu, 22 Oct 2026 12:21:09 GMT — https://animecorner.me/the-apothecary-diaries-movie-reveals-new-trailer-key-visual-and-kenshi-yonezu-theme-song/
+
+The Apothecary Diaries the Movie: The Late Lady’s Treasure revealed a new trailer and a main visual ahead of its December 11 premiere in Japan.
 
 ### BanG Dream! Releases Ave Mujica prima aurora Movie Commercial Featuring "Baddy Baddy"
 Thu, 22 Oct 2026 03:27:21 GMT — https://animecorner.me/bang-dream-releases-ave-mujica-prima-aurora-movie-commercial-featuring-baddy-baddy/
@@ -95,6 +100,16 @@ The previously announced MURCIÉLAGO anime revealed a new visual and trailer, al
 
 ## MyAnimeList News
 
+### Manga Uruwashi no Yoi no Tsuki Ends in Next Chapter
+Thu, 22 Oct 2026 05:51:17 -0700 — https://myanimelist.net/news/74846841?_location=rss
+
+The official X (formerly Twitter) account of Desert magazine announced on Thursday that Mika Yamamori s Uruwashi no Yoi no Tsuki (In the Clear Moonlit Dusk) manga will end with its next chapter. The 45th and final chapter is scheduled to be released in the December 2026 issue of Desert magazine on October 23. Yamamori launched the school romance manga in Desert magazine in July 2020. Kodansha released the 11th volume on September 11. The manga has a cumulative 8.2 million copies of its volu...
+
+### Psyren Announces Additional Cast Pair
+Thu, 22 Oct 2026 04:10:21 -0700 — https://myanimelist.net/news/74846620?_location=rss
+
+The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro s Psyren manga announced a pair of additional cast on Thursday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Reiko Suzuki (Versailles no Bara) and Ayumu Murase (Chainsaw Man) are joining the cast as Elmore Tenjuin and Van Tenjuin, respectively. Katsumi Ono (Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu) is directing the anime...
+
 ### Seibetsu "Mona Lisa" no Kimi e. Unveils Additional Cast, Staff, Ending Theme, First Promo, 2027 Debut
 Tue, 20 Oct 2026 21:10:10 -0700 — https://myanimelist.net/news/74843217?_location=rss
 
@@ -109,16 +124,6 @@ The official website for the Ghost: Yoru no Hate original anime movie announced 
 Tue, 20 Oct 2026 11:20:03 -0700 — https://myanimelist.net/news/74841491?_location=rss
 
 The official website for the television anime adaptation of Kana Yoshimura s Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday. The anime series will premiere on Tokyo MX, Kansai TV, and BS11 in January 2027. Cast Kuroko Koumori: Hitomi Ueda (Raise wa Tanin ga Ii) Hinako Tozakura: Minori Suzuki (Macross &Delta;) Chiyo Yanaoka: Sumire Uesaka (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) Staff Assistant Director:...
-
-### Shingeki no Kyojin Voice Actor Hiroshi Tsuchida Dies at 54
-Tue, 20 Oct 2026 08:30:59 -0700 — https://myanimelist.net/news/74840663?_location=rss
-
-Voice actor Hiroshi Tsuchida, best known for Grisha Yeager in Shingeki no Kyojin (Attack on Titan) and Daikichi Kawachi in Usagi Drop (Bunny Drop), died on October 11 of heart failure. He was 54. His agency, 81 Produce, announced the news on Tuesday, noting that the funeral was held privately for family members only, at the family&rsquo;s request. Born in Tokyo in February 1972, Tsuchida graduated from Tokyo Metropolitan Bunkyo High School and trained for two years with the Touhai theater compan...
-
-### Light Novel Maou 2099 Concludes with 6th Volume
-Tue, 20 Oct 2026 04:38:08 -0700 — https://myanimelist.net/news/74840116?_location=rss
-
-The official X (formerly Twitter) account of Kadokawa s Fantasia Bunko label announced on Tuesday that Daigo Murasaki s Maou 2099 (Demon Lord 2099) light novel will end with its sixth volume. Murasaki won the Grand Prize at the 33rd Fantasia Taisho with the title Ken to Maou no Cyberpunk in 2020. He renamed the work to Maou 2099 and began publishing it under the Fujimi Fantasia Bunko label in January 2021, featuring illustrations by Kureta (Ishura). Kadokawa published the fifth volume...
 
 ## Otaku USA
 

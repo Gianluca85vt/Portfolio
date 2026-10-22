@@ -1,172 +1,177 @@
-# Film & TV — harvested 2026-10-22T09:37:41.405Z
+# Film & TV — harvested 2026-10-22T15:39:00.904Z
 
 ## Variety
 
-### Pirate Mo and the Legend of the Red Ruby Sails to More Than 50 Countries Ahead of AFM Premiere as Teaser Debuts (EXCLUSIVE)
-Thu, 22 Oct 2026 09:00:00 +0000 — https://variety.com/2026/film/global/pirate-mo-and-the-legend-of-the-red-ruby-afm-sales-1236919467/
+### Kacey Musgraves to Release New 16-Song Album, ‘Middle of Nowhere Vol. 2: Tex Mex Tapes’
+Thu, 22 Oct 2026 15:29:26 +0000 — https://variety.com/2026/music/news/kacey-musgraves-middle-of-nowhere-vol-2-tex-mex-tapes-1236921504/
 
-Sales company The Playmaker Munich has closed further territory deals on animated family adventure film “Pirate Mo and the Legend of the Red Ruby” ahead of the American Film Market, where it will have its market premiere. The film has now sold to more than 50 countries. Variety is debuting the teaser (below). The latest [ ]
+Kacey Musgraves will release a 16-song album of all-new material titled “Middle of Nowhere Vol. 2: Tex Mex Tapes” on January 15, 2027 via Lost Highway Records — just eight months after the release of Vol. 1. According to the announcement, the album picks up where Vol. 1 left off, “expanding on themes of solitude, [ ]
 
-### Sebastian Koch, Toni Servillo Set for Oscar Winner Gabriele Salvatores Chess-World Noir The Lüneburg Variation (EXCLUSIVE)
-Thu, 22 Oct 2026 08:15:34 +0000 — https://variety.com/2026/film/global/sebastian-koch-oscar-gabriele-salvatores-1236918664/
+### Dispatch Developer Sets Live Concert Event to Celebrate Hit Indie Game s One-Year Anniversary, 5 Million Copies Sold (EXCLUSIVE)
+Thu, 22 Oct 2026 15:25:22 +0000 — https://variety.com/2026/gaming/news/dispatch-adhoc-5-million-copies-sold-live-concert-1236908475/
 
-Sebastian Koch, star of Oscar-winning German film “The Lives of Others,” and Toni Servillo, protagonist of Italy’s Oscar winner “The Great Beauty,” are set to topline “The Lüneburg Variation,” a noir based in the world of chess, directed by Gabriele Salvatores. Salvatores – himself also winner of an Oscar for Mediterraneo – has started shooting [ ]
+It s been one year since indie game developer AdHoc Studio launched its now-hit episodic narrative superhero adventure game Dispatch and in that time the game has sold more than 5 million copies. Now, the team behind the title (which has doubled in size since last October) has decided to celebrate its digital win in [ ]
 
-### The History Boys Returns to London West End After 20 Years, With Nicholas Hytner Back Directing Alan Bennett’s Play
-Thu, 22 Oct 2026 08:00:00 +0000 — https://variety.com/2026/theater/news/the-history-boys-london-west-end-20-years-1236919388/
+### Trump Says Google CEO Rejected His Request to Rename Atlantic Ocean on Google Maps
+Thu, 22 Oct 2026 15:23:07 +0000 — https://variety.com/2026/digital/news/trump-rename-atlantic-ocean-google-ceo-rejected-request-1236921493/
 
-Alan Bennett’s “The History Boys” is going back to London’s West End after a 20-year absence. Nicholas Hytner returns to the National Theatre production he first staged in 2004, which later went to Broadway and won six Tony Awards there. Set in 1980s Britain, the comedy follows eight pupils at a Sheffield boys’ grammar school. [ ]
+President Donald Trump, who has already renamed two bodies of water after America, said he would like to redub the Atlantic Ocean as well but that the CEO of Google pushed back on the idea. At a rally at Clemson University in South Carolina Tuesday evening, Trump told the crowd, So we have a [ ]
 
-### Mother Bhumi, Rehana Maryam Noor and The Tourist Producers Head to Indonesia’s JAFF Market for New Exchange Program
-Thu, 22 Oct 2026 07:23:21 +0000 — https://variety.com/2026/film/markets-festivals/mother-bhumi-producer-jaff-market-exchange-1236919480/
+### FIFA Opens Bids for 2030 World Cup U.S. Media Rights With Option For 2034
+Thu, 22 Oct 2026 15:15:00 +0000 — https://variety.com/2026/tv/news/fifa-world-cup-u-s-media-rights-bidding-2030-2034-1236920483/
 
-Producers behind Fan Bingbing s Mother Bhumi, Cannes Un Certain Regard title “Rehana Maryam Noor” and BBC One and Stan drama “The Tourist” are among 14 picks for the debut Producers Exchange at Indonesia’s JAFF Market, which will hold its third edition Nov. 28-30 in Yogyakarta. The market runs alongside the Jogja-Netpac Asian Film Festival (JAFF) [ ]
+The next FIFA World Cup is years away but one game is already afoot. The international governing body behind the popular global tournament is opening the bidding process for rights to the event for 2030 in the U.S. and Puerto Rico, and will offer an option for interesting parties to also try and secure [ ]
 
-### Netflix, Bengali Streamer Hoichoi Partner to Bring Series to Hindi, Tamil and Telugu Audiences
-Thu, 22 Oct 2026 07:03:43 +0000 — https://variety.com/2026/tv/news/netflix-hoichoi-partner-bengali-series-hindi-tamil-telugu-1236919476/
+### The True Cost of Corporate Dominance in the Music Industry (Guest Post)
+Thu, 22 Oct 2026 15:00:54 +0000 — https://variety.com/2026/music/opinion/corporate-dominance-music-industry-guest-post-1236918871/
 
-Every series Bengali streamer Hoichoi launches over the next two years will get Hindi, Tamil and Telugu-language versions streaming exclusively on Netflix, under a partnership the two companies unveiled in Mumbai on Thursday. New titles will arrive on Netflix in the three languages at the same time as their Bengali debut on Hoichoi. The first [ ]
+Rev. Moose is founder of Marauder, which helps companies, organizations, and government entities develop strategies and in-person events that drive change and foster growth within the independent music sector. An industry veteran with experience in artist development, marketing, advocacy, non-profit management, and international program development, he is the founding and emeritus executive director of the [ ]
 
-### Indonesia Drafts New Film Law as Jakarta, Home to Four Netflix Productions, Courts International Shoots (EXCLUSIVE)
-Thu, 22 Oct 2026 06:48:49 +0000 — https://variety.com/2026/film/news/indonesia-drafts-film-law-jakarta-courts-netflix-global-shoots-1236919468/
+### Ali G: Who Iz I? Review: Sacha Baron Cohen Brings Back His Cretinous Fake OG Talk-Show Host, Only Now Ali G Is the Film s Political Subject. A Mistake, Innit?
+Thu, 22 Oct 2026 15:00:39 +0000 — https://variety.com/2026/film/reviews/ali-g-who-iz-i-review-sacha-baron-cohen-1236918623/
 
-Indonesia’s film agency is helping draft a revised Film Law that would reshape its powers, while Jakarta, where Netflix now has four titles in production, is working to become a regional film hub. Fauzan Zidni, chair of the Indonesian Film Agency (BPI), tells Variety the first draft, prepared with the Ministry of Culture, has taken [ ]
+By turning Ali G into the doofus antihero of his own absurdist saga, "Who Iz I?" essentially becomes Sacha Baron Cohen’s version of a "Saturday Night Live" movie, like "MacGruber" or "Stuart Saves His Family" or "A Night at the Roxbury." The film has scattered funny moments, but it’s dawdling and cumbersome and far less relevant than it thinks.
 
-### Chris Pratt Confirms Star-Lord Will Return to the MCU, Says ‘Hard Action’ Has Been Taken to Make It Happen
-Thu, 22 Oct 2026 04:37:15 +0000 — https://variety.com/2026/film/news/chris-pratt-star-lord-mcu-1236919455/
+### Carrie Renewed for Season 2 at Amazon
+Thu, 22 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/carrie-renewed-season-2-amazon-1236920319/
 
-Good news, “Guardians of the Galaxy” fans. Chris Pratt, who has played superhero Star-Lord across six films, recently confirmed that his character will return to the MCU and that the studio has already taken “hard action” to make it happen. “I have a great relationship with Kevin [Feige] and Lou [D’Esposito], and there have been [ ]
+Carrie, Amazon Prime Video s series adaptation of Stephen King s famous 1974 novel of the same name, has been renewed for a second season that will go beyond the events of the book. Per the official series description, Misfit high-schooler Carrie White (Summer H. Howell) has spent her life hidden away inside the walls of her [ ]
 
-### Dolly Parton CMA Tribute: Sabrina Carpenter, Julia Roberts, Oprah and More Remember the Country Icon as the Great Unifier
-Thu, 22 Oct 2026 03:41:08 +0000 — https://variety.com/2026/music/news/cmas-celebration-of-dolly-parton-1236919337/
+### Dungeon Crawler Carl Comic Book Series Launching in January (EXCLUSIVE)
+Thu, 22 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/dungeon-crawler-carl-comic-book-series-1236917840/
 
-Sabrina Carpenter, Julia Roberts and Oprah were among the stars who paid tribute to Dolly Parton during the Country Music Association’s celebration of the late country icon Wednesday night. Oprah, who appeared in a pre-recorded video at the beginning of the broadcast, shared what Dolly meant to her. “We re both Tennessee girls, and she represented [ ]
+New achievement! Dungeon Crawler Carl is getting a comic series! The popular fantasy, LitRPG books by author Matt Dinniman will receive an ongoing comic book series from Vault Comics. The double-sized, 48-page first issue will launch in comic book stores beginning in January 2027. The following issues will be released monthly. The new comic will [ ]
 
-### John Anderson, Country Hall of Famer Whose Hits Included Seminole Wind and ‘Swingin’,’ Dies at 71
-Thu, 22 Oct 2026 02:08:03 +0000 — https://variety.com/2026/music/people-news/john-anderson-dead-seminole-wind-swingin-die-1236919387/
+### The Gilded Age Team on Paramount Merger Parallels and Going From Budget Cuts to a Season 3 Breakout: You’re Part of a Very Fortunate Minority
+Thu, 22 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/features/the-gilded-age-season-4-cast-creator-popularity-1236910185/
 
-John Anderson, the country Hall of Famer behind hits like “Seminole Wind” and “Swingin , has died. He was 71. Anderson’s death was announced by his family across his social media accounts on Wednesday. No cause of death or further information was noted. “It is with the heaviest of hearts that we share the passing of [ ]
+When The Gilded Age premiered in 2022, the reception was warm enough. The HBO costume drama marked creator Julian Fellowes’ highly anticipated follow-up to “Downton Abbey,” bringing his eye for aristocratic quirks across the Atlantic and delivering the requisite dose of upstairs-downstairs intrigue. But the low-stakes pleasures of selecting silverware and competing opera houses could [ ]
 
-### ‘Petal Dance’ Director Ishikawa Hiroshi Ends 13-Year Feature Hiatus With The Blue We Touch (EXCLUSIVE)
-Thu, 22 Oct 2026 01:28:39 +0000 — https://variety.com/2026/film/markets-festivals/petal-dance-director-blue-we-touch-1236919383/
+### Wiz Khalifa Signs With 10K Projects (EXCLUSIVE)
+Thu, 22 Oct 2026 14:49:59 +0000 — https://variety.com/2026/music/news/wiz-khalifa-signs-10k-projects-1236920998/
 
-Japanese filmmaker Ishikawa Hiroshi, whose credits include “Tokyo.sora,” “Su-ki-da.” and “Petal Dance,” is back with his first feature in 13 years. His new film, “the blue we touch” (original title: “Awo no Jo”), is in post-production and will be released in Japan in 2027 by Bitters End, which unveiled the project ahead of the Tokyo [ ]
+Multiplatinum rapper Wiz Khalifa has signed with 10K Projects and will release his new single “The Calm,” via the label this evening. The deal sees Khalifa returning to the Warner Music Group family and reunite with his close friend and former project manager, Marsha St. Hubert, who is now co-president of 10K Projects. The rapper [ ]
 
 ## The Hollywood Reporter
 
-### Musk’ and ‘You Can See Everything Show How Tell-All Docs Break Through Amid Industry Woes: MIA
-Thu, 22 Oct 2026 09:22:00 +0000 — https://www.hollywoodreporter.com/business/business-news/you-can-see-everything-docs-1236737993/
+### ‘Wildwood’ Director Travis Knight on Spending 16 Years to Create His Stop-Motion “Masterpiece”
+Thu, 22 Oct 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/wildwood-director-travis-knight-films-journey-interview-1236736246/
 
-Films like A24's buzzy Elizabeth Holmes documentary that pull the curtain back on fame and tabloid scandals are what’s working in global markets, the MIA Market in Rome heard on Thursday.
+The filmmaker and Nike scion poured untold millions into his critically acclaimed "grand experiment." But he knows the real test is yet to come.
 
-### White Lotus Breakout Adam DiMarco Attached to Star in Dark Ocean, Glassriver s First Feature (Exclusive)
-Thu, 22 Oct 2026 09:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/white-lotus-star-adam-dimarco-dark-ocean-film-iceland-canada-1236737418/
+### Sylvester Stallone Defends AI: It s Happening, Go With It Or Be Trampled
+Thu, 22 Oct 2026 15:25:37 +0000 — https://www.hollywoodreporter.com/movies/movie-news/sylvester-stallone-defends-ai-1236738168/
 
-The Canadian joins Baltasar Kormákur and Ólafur Darri Ólafsson on the film set in the "hyper-masculine world" of a trawler, which will be directed by Balvin Z, the co-owner of the Icelandic production company.
+The 80-year-old actor says the industry needs to embrace AI usage: "Here to stay."
 
-### Canal+ Touts Les Mis, Shaun the Sheep, Pressure Box Office, Warns of Impact of French VAT Proposal
-Thu, 22 Oct 2026 08:40:00 +0000 — https://www.hollywoodreporter.com/business/business-news/canal-plus-touts-les-miserables-shaun-the-sheep-france-vat-1236737989/
+### Carrie Renewed for Second Season at Prime Video
+Thu, 22 Oct 2026 15:00:08 +0000 — https://www.hollywoodreporter.com/tv/tv-news/carrie-renewed-season-2-prime-video-1236738163/
 
-“2026 is shaping up to be a landmark year for StudioCanal," CEO Maxime Saada says.
+The story doesn't end at the prom.
 
-### Nobody Wants This Season 3 Review: Kristen Bell and Adam Brody s Netflix Romance Levels Up but Can t Ditch Old Habits
-Thu, 22 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/nobody-wants-this-season-3-review-netflix-adam-brody-1236737074/
+### Ali G: Who Iz I? Review: Sacha Baron Cohen Reprises Iconic Role, Yielding Equal Parts Belly Laughs and Boredom
+Thu, 22 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-reviews/ali-g-who-iz-i-review-sacha-baron-cohen-1236736219/
 
-Justine Lupe, Timothy Simons and Jackie Tohn also return, as the central couple — a rabbi and a former agnostic preparing to convert to Judaism — take a big step forward in their relationship.
+The comedian brings back the controversial character for his first big-screen appearance since 2002's 'Ali G Indahouse.'
 
-### Why David Krumholtz Was Absent From 10 Things I Hate About You Reunion on DWTS
-Thu, 22 Oct 2026 01:49:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/david-krumholtz-absent-10-things-i-hate-about-you-reunion-dwts-1236737892/
+### James Bond Screen Tests to Happen This Weekend: Finalists Emerge for Next 007 Movie
+Thu, 22 Oct 2026 14:39:14 +0000 — https://www.hollywoodreporter.com/movies/movie-news/james-bond-screen-tests-callum-turner-jack-lowden-1236728317/
 
-Stiles and her pro partner Ezra Sosa danced to “Can't Take My Eyes Off You” to honor Heath Ledger.
+The marathon to fit into the tux is nearing its end.
 
-### DM My Rep! The Top Lawyers, Managers and Agents Driving the Creator Economy
-Thu, 22 Oct 2026 01:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/top-lawyers-managers-agents-representing-creators-1236736394/
+### Chuck Lorre Talks David Ellison Optimism, Scientology and the Perks (Really!) of Working for Roseanne Barr
+Thu, 22 Oct 2026 14:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-features/chuck-lorre-interview-david-ellison-roseanne-barr-1236737584/
 
-MrBeast, Ms. Rachel and the world’s top creators rely on these power players to propel their careers beyond phone screens.
+A week after publishing memoir 'Sitcom,' the comedy writer reveals hopes for Warner Bros' new ownership and skirts the 'Roseanne' writing credit debate by saying all were better for working there — even if "it might have crushed their soul in the process."
 
-### Gap and Victoria Beckham Are Running Back Their Sold-Out Collab: How to Shop the Fall Drop Early
-Thu, 22 Oct 2026 00:26:29 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/gap-victoria-beckham-fall-2026-second-collab-release-prices-1236737831/
+### Ben Silverman Still Doesn’t Want a Job — But He s Busier Than Ever
+Thu, 22 Oct 2026 13:45:45 +0000 — https://www.hollywoodreporter.com/business/business-news/ben-silverman-propagate-tv-docs-1236737224/
 
-The 37-piece fall/winter 2026 collection marks the duo's second limited-edition launch.
+He walked away from NBC with a stomachache and never looked back. Now his indie shop is juggling Fox’s ‘Best Medicine,’ a Ben Stiller-Benicio Del Toro comedy and a buzzy doc on Sam Bankman-Fried.
 
-### Street Fighter Director Kitao Sakurai Built a Career by Embracing the Ridiculous
-Wed, 21 Oct 2026 22:33:51 +0000 — https://www.hollywoodreporter.com/movies/movie-features/street-fighter-director-kitao-sakurai-ending-sequel-1236737763/
+### Doc Maker Rocky Mudaliar Signs With Verve (Exclusive)
+Thu, 22 Oct 2026 13:35:19 +0000 — https://www.hollywoodreporter.com/business/business-news/rocky-mudaliar-verve-1236738014/
 
-Sakurai helped launch ‘The Eric Andre Show’ in the 2010s, a building block that has now led to a big-budget video game movie.
+His Abrupt Entertainment produced the celebrity documentary ‘Funny Money: The Dane Cook Story,' about the comedian and his family's stunning financial betrayal.
 
-### LA Art Show Unveils Plans for 2027 Event
-Wed, 21 Oct 2026 22:32:26 +0000 — https://www.hollywoodreporter.com/lifestyle/arts/la-art-show-2027-event-tickets-exhibitor-schedule-1236737771/
+### A Search for His Biological Father Led to a Top Podcast — and an Endorsement From Ira Glass
+Thu, 22 Oct 2026 13:31:25 +0000 — https://www.hollywoodreporter.com/business/digital/sayre-quevedo-podcast-reaching-out-ira-glass-1236737522/
 
-The long-running art show will post up in Los Angeles Convention Center's West Hall for its 32nd run from Jan. 6-10, with works from more than 90 exhibitors, and a new charity partner and ticket platform.
+In 'Reaching Out,' Sayre Quevedo has "invented something completely new," according to Glass.
 
-### Obsession Star Inde Navarrette Says Meeting Nikki Scare Actor at Halloween Horror Nights Was Surreal
-Wed, 21 Oct 2026 22:13:58 +0000 — https://www.hollywoodreporter.com/movies/movie-news/obsession-inde-navarrette-nikki-halloween-horror-nights-1236737517/
+### Italy s Movie and TV Spending Drops Amid Tax Incentive Uncertainty
+Thu, 22 Oct 2026 13:21:47 +0000 — https://www.hollywoodreporter.com/business/business-news/italian-content-investment-2025-1236738051/
 
-"She didn’t break. She was really committed," the 25-year-old actress tells The Hollywood Reporter.
+The country’s audiovisual sector saw its first inwards investment drop since 2018, the 8th annual APA report revealed at the MIA Market in Rome.
 
 ## Deadline
 
-### TV Festival Unveils Dates, Venues Advisory Chair For First-Ever Greater Manchester Edition
-Thu, 22 Oct 2026 09:29:34 +0000 — https://deadline.com/2026/10/greater-manchester-tv-festival-dates-venue-wayne-garvie-chair-1237170489/
+### Lucy Fry Amanda Brugel Join Jensen Ackles In MGM+ Crime Thriller Rules Of Prey
+Thu, 22 Oct 2026 15:30:00 +0000 — https://deadline.com/2026/10/lucy-fry-amanda-brugel-rules-of-prey-series-mgm-plus-1237170286/
 
-The UK s biggest TV Festival has revealed the dates it will officially launch in Greater Manchester for the first time, with Sony international productions boss Wayne Garvie aboard as advisory chair. The TV Festival will move one week back from its traditional Edinburgh slot to the week after the August Bank Holiday from Tuesday August [ ]
+EXCLUSIVE: Lucy Fry (Bright, Godfather of Harlem) and Amanda Brugel (The Handmaid s Tale, The Testaments) are set as series regulars opposite Jensen Ackles in MGM+ s crime thriller series Rules of Prey. Created by Bruce Terris (DTF St. Louis), based on the first novel in John Sandford’s Prey book series, the series follows Lucas Davenport (Ackles), [ ]
 
-### The Day : First Look At Minnie Driver As Hostage Negotiator In Paramount+ Drama The Day
-Thu, 22 Oct 2026 09:00:00 +0000 — https://deadline.com/2026/10/the-day-first-look-minnie-driver-paramount-plus-drama-1237170466/
+### YA Vampire Adaptation House Of Night Gets New Director, Casting Underway Shoot Eyed For Early 2027
+Thu, 22 Oct 2026 15:30:00 +0000 — https://deadline.com/2026/10/house-of-night-vampire-books-adaptation-new-director-1237170642/
 
-EXCLUSIVE: Here s a first look at Minnie Driver as a hostage negotiator in Paramount+ s tense heist thriller The Day. We ve got a batch of images for the eight-part British drama, which is based on 2018 Belgian series De Dag and alos stars the likes of Luca Pasqualino and Louisa Harland. The Day unfolds across a [ ]
+EXCLUSIVE: The first big screen adaptation of House of Night, the popular YA fantasy romance book series by P.C. Cast and Kristin Cast, has a new director in the shape of Johanna Watts. A long-time collaborator of the film s producer Davis Films, Watts previously directed the short Career Girl and is currently in post-production on [ ]
 
-### Paul Mescal, Daisy Edgar-Jones Jessie Buckley Among Signatories Of Open Letter Supporting Sally Rooney After UK Book Ban
-Thu, 22 Oct 2026 08:41:03 +0000 — https://deadline.com/2026/10/paul-mescal-daisy-edgar-jones-sally-rooney-uk-book-ban-1237170480/
+### Game Of Pets : Animated Pic Based On Bad Guys Author s Book Series In Works With Rideback, Foundation Media Amazon MGM Studios
+Thu, 22 Oct 2026 15:21:42 +0000 — https://deadline.com/2026/10/game-of-pets-movie-aaron-blabey-1237170179/
 
-Paul Mescal and Daisy Edgar-Jones have signed an open letter in support of their Normal People scribe Sally Rooney. Earlier this month, it was confirmed that Rooney’s books would be withdrawn from sale in the UK over her support of the banned protest group Palestine Action. Palestine Action is a pro-Palestinian direct action group that [ ]
+EXCLUSIVE: An animated feature of Aaron Blabey s middle-grade book series, Game of Pets, is being let off the leash as Lilo Stitch producer Rideback and Foundation Media Partners are teaming to bring the IP to the big screen for Amazon MGM Studios. A New York Times bestseller, Game of Pets: The Boy Who Knew [ ]
 
-### Harry Potter Production Accounts Reveal Clue About Budget For HBO Series
-Thu, 22 Oct 2026 08:28:36 +0000 — https://deadline.com/2026/10/harry-potter-accounts-clue-about-budget-hbo-series-1237170454/
+### Edinburgh Film Festival Genre Title Snapshot Gets North American Deal
+Thu, 22 Oct 2026 15:08:53 +0000 — https://deadline.com/2026/10/edinburgh-film-festival-genre-title-snapshot-gets-us-deal-1237170692/
 
-Harry Potter is on course to be among the most expensive series ever made by HBO. A source familiar with the adaptation of J.K. Rowling s beloved books confirmed that the Potter series will rank alongside the final season of Game of Thrones and The Last of Us, as production accounts provided a clue about the [ ]
+EXCLUSIVE: UK and France-based sales firm Alief has struck a deal with U.S. distributor Dark Star Pictures for North American distribution rights to Snapshot, the UK found-footage horror film which debuted at the Edinburgh Film Festival earlier this year. Director Joseph Archer s film, starring Tom Stourton, who co-wrote and starred in the 2021 feature All [ ]
 
-### Billy Porter, Leslie Jones Phoebe Robinson To Front Places, Dahlingz! Podcast From Acast
-Thu, 22 Oct 2026 08:00:00 +0000 — https://deadline.com/2026/10/billy-porter-leslie-jones-phoebe-robinson-places-dahlingz-1237170446/
+### Gossip Goblin s AI Sci-Fi Film Gods Don t Give Gifts Heads To AFM Market For Sales With AGC
+Thu, 22 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/gossip-goblin-gods-dont-give-gifts-heads-to-afm-sales-1237170580/
 
-EXCLUSIVE: Billy Porter, Leslie Jones and Phoebe Robinson are launching a comedy podcast exploring live performance. The 48-part weekly comedy series, Places, Dahlingz!, will see theater icon Porter, theater critic Jones and theater convert and comedian Robinson sitting down with Broadway stars such as Shoshana Bean, Ariana DeBose and Renée Elise Goldsberry. Billed as part [ ]
+AGC International, the sales and distribution arm of Stuart Ford’s AGC Studios, is adding Gods Don’t Give Gifts to its distribution slate and will introduce the feature length AI-generated sci-fi epic to buyers at the American Film Market. The feature debut from creator and YouTuber Zack London (aka Gossip Goblin) has been lined up as [ ]
 
-### Canal+ Making Progress In Opposing French VAT Hike That It Says Would Force Subs Increases Cuts
-Thu, 22 Oct 2026 07:58:18 +0000 — https://deadline.com/2026/10/canal-plus-progress-french-vat-hike-q3-results-1237170452/
+### Ali G: Who Iz I? Review: Sacha Baron Cohen s Signature Prankster Returns In Outrageous Form With Something To Offend Everyone
+Thu, 22 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/ali-g-who-iz-i-review-sacha-baron-cohen-1237170014/
 
-Canal+ has made progress in opposing a controversial proposal in France that would double the VAT rate on TV subscriptions from 10% to 20%. Delivering a Q3 trading update, the French major said it has support from cinema organisations, federations and leagues and will continue fighting the rate increase tooth and nail. The Group has [ ]
+After I saw Sacha Baron Cohen s latest mind-bending comedy Ali G: Who Iz I?, I immediately thought that this movie is proof there should be a brand new Oscar category created, for Best Clearances. The fact that there is someone out there who could actually get all the real unsuspecting morons who participated in this [ ]
 
-### BBC Merges TV Audio Commissioning Teams Amid Plan To Cut 100 Content Roles
-Thu, 22 Oct 2026 06:32:32 +0000 — https://deadline.com/2026/10/bbc-merge-tv-audio-teams-cut-100-content-roles-1237170424/
+### Carrie Renewed For Season 2 By Prime Video
+Thu, 22 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/carrie-renewed-season-2-prime-video-1237170430/
 
-EXCLUSIVE: The BBC will merge TV and audio commissioning teams across comedy and other genres amid plans to close around 100 roles in its content unit. In an internal memo earlier this week, BBC content chief Kate Phillips told colleagues that her department will make tough choices to support the corporation s belt-tightening. Phillips announced that [ ]
+Mike Flanagan is now two-thirds of the way on the three-season arc he had envisioned for Carrie. Prime Video has renewed Flanagan s adaptation of Stephen King s horror classic for a second season. The pickup comes two weeks after Carrie s eight-episode first season was released on Oct. 7 to strong reviews and extends the perfect streak [ ]
 
-### David Krumholtz Explains Why He Missed 10 Things I Hate About You Reunion On DWTS : Love Them All
-Thu, 22 Oct 2026 03:53:48 +0000 — https://deadline.com/2026/10/david-krumholtz-missed-10-things-i-hate-about-you-reunion-dwts-1237170408/
+### Final James Bond Screen Tests To Take Place Over Next Week As Amazon Nears Naming The Next 007 The Dish
+Thu, 22 Oct 2026 14:29:19 +0000 — https://deadline.com/2026/10/james-bond-screen-tests-names-1237170401/
 
-As Julia Stiles paid tribute to Heath Ledger on Dancing with the Stars, one 10 Things I Hate About You star was unable to attend the televised reunion. Following Tuesday s Dedication Night on Season 35 of the ABC dance competition show, David Krumholtz explained why he was not able to join his co-stars in supporting [ ]
+EXCLUSIVE: The process to find out the next James Bond has been long and thorough, but all signs are pointing to the search hitting the homestretch as Amazon MGM Studios is setting its final auditions over the next week. Sources tell Deadline that screen tests for the Bond role could begin as early as Friday [ ]
 
-### EA Cuts Around 400 Jobs, Shuts Down BioWare
-Thu, 22 Oct 2026 03:23:05 +0000 — https://deadline.com/2026/10/ea-cuts-400-jobs-shuts-down-bioware-1237170402/
+### Matt Friend Joins Prime Video s Thursday Night Football Postgame Show With The Friend Zone
+Thu, 22 Oct 2026 14:28:00 +0000 — https://deadline.com/2026/10/matt-friend-prime-video-thursday-night-football-postgame-1237170159/
 
-After going private in August, Electronic Arts (EA) is cutting about 3% of its staff and shutting down video game developer BioWare. On Wednesday, EA reportedly notified employees in an email that the company would be laying off around 400 people, including about 50 at BioWare, as the company focuses on more lucrative projects, according [ ]
+Matt Friend will be bringing some humor to Prime Video s Thursday Night Football postgame show. The comedian and impressionist has joined the show s TNF Nightcap as a recurring contributor in a new comedy segment, The Friend Zone with Matt Friend, Prime Video announced Thursday. The segment will kick off October 22 following the Patriots vs. [ ]
 
-### Sara Bareilles Is Still Holding Out For A Girls5eva Movie: We d Do It In A Heartbeat
-Thu, 22 Oct 2026 02:27:45 +0000 — https://deadline.com/2026/10/sara-bareilles-still-holding-out-girls5eva-movie-1237170385/
+### JJ Watt Named Lead Analyst For ‘NFL On CBS’
+Thu, 22 Oct 2026 14:20:43 +0000 — https://deadline.com/2026/10/jj-watt-named-lead-analyst-nfl-on-cbs-1237170604/
 
-Although Girls5eva was cut short after three seasons, Sara Bareilles still has some Big P*ssy Energy to work out with her inner Fledge Mulholland. The 2x Grammy winner recently admitted she s still holding out for a movie adaptation of the Peacock/Netflix series, which ran for three seasons from 2021 to 2024, noting that she and [ ]
+CBS Sports announcer JJ Watt has been named lead analyst for the NFL on CBS in a new multi-year agreement. The announcement made Thursday by David Berson, Chairman, Global Sports Group, Skydance, calls for Watt to continue to call the network’s top games alongside Jim Nantz and Tracy Wolfson as CBS Sports’ lead NFL announce [ ]
 
-### 860 Broadway Review: Billy Crystal Remembers The Stuff Of Life And Loss
-Thu, 22 Oct 2026 02:00:00 +0000 — https://deadline.com/2026/10/billy-crystal-860-broadway-review-1237168548/
+### Bianna Golodryga Says She Is Leaving CNN After Nine Years
+Thu, 22 Oct 2026 14:18:48 +0000 — https://deadline.com/2026/10/bianna-golodryga-to-leave-cnn-1237170594/
 
-Billy Crystal s career, from his catch-a-rising-star stand-up days of the 1970s, his groundbreaking role as TV s first regular-cast gay character on the sitcom Soap and through his years as both a top Hollywood director and what many consider the greatest host in Oscar history, gets a fine, funny and emotional telling in 860, Crystal s new [ ]
+Bianna Golodryga, who has been an anchor and senior global affairs analyst for CNN, said that she is departing the network after nine years. She posted on X, After nine wonderful years at CNN, I’ve decided to leave for an opportunity that I couldn’t pass up. I’m grateful for the experiences, friendships and support from [ ]
 
-### White House Correspondents Association Decries Trump Team s Retaliation After POTUS Lashes Out At Reporter
-Thu, 22 Oct 2026 00:48:05 +0000 — https://deadline.com/2026/10/trump-retaliation-white-house-correspondent-1237170293/
+### Brian Selznick’s Rome-Set Queer YA Romance ‘Run Away With Me’ Set For Feature Adaptation With Gianni Nunnari Producing
+Thu, 22 Oct 2026 14:17:03 +0000 — https://deadline.com/2026/10/queer-ya-romance-run-away-with-me-film-adaptation-1237170591/
 
-UPDATED: White House Correspondents Association President Jacqui Heinrich said that the Trump administration was engaged in retaliation by blocking a journalist s access because the president was upset over his questions. Heinrich, senior White House correspondent for Fox News, said in a statement on Wednesday, The White House Correspondents Association strongly objects to the decision to [ ]
+EXCLUSIVE: Hollywood vet and Italian native Gianni Nunnari, producer on movies including the 300 franchise, Immortals, and From Dusk Til Dawn, is bringing Brian Selznick’s (The Invention of Hugo Cabret) young adult novel Run Away With Me to the screen, with Selznick adapting his own novel. Rome-born Nunnari, an exec producer on The Departed and [ ]
 
 ## befores & afters
+
+### How the Dykstraflex changed VFX
+Thu, 22 Oct 2026 13:44:05 +0000 — https://beforesandafters.com/2026/10/23/how-the-dykstraflex-changed-vfx/
+
+The importance of ILM s ​Dykstraflex to the making of A New Hope, and to filmmaking. This episode is sponsored by fxphd . Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post How the Dykstraflex changed VFX appeared first on befores & afters .
 
 ### Watch Framestore s VFX breakdown for East of Eden
 Wed, 21 Oct 2026 07:06:30 +0000 — https://beforesandafters.com/2026/10/21/watch-framestores-vfx-breakdown-for-east-of-eden/
@@ -174,6 +179,26 @@ Wed, 21 Oct 2026 07:06:30 +0000 — https://beforesandafters.com/2026/10/21/watc
 Behind the scenes. The post Watch Framestore s VFX breakdown for East of Eden appeared first on befores & afters .
 
 ## IndieWire
+
+### Blue Film : How the Controversial Camboy Drama Was Produced for Just $100,000
+Thu, 22 Oct 2026 15:15:00 +0000 — https://www.indiewire.com/news/business/blue-film-camboy-pedophile-drama-produced-100k-controversy-1235221618/
+
+The story of a sex worker and his john was too hot for major film festivals, but thanks to its microbudget, it's a box-office success.
+
+### Nobody Wants This Season 3 Review: Netflix s Fizzy Rom-Com Puts the Pop (and Pain) Back Into Modern Love
+Thu, 22 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/criticism/shows/nobody-wants-this-season-3-review-netflix-rom-com-kristen-bell-1235222949/
+
+Long-billed as the series' "champagne" season, the Adam Brody- and Kristen Bell-starring comedy goes down easy. Well, mostly.
+
+### A Talent for Murder Review: Helen Mirren and Alden Ehrenreich Face Off in This Punchy Twist on Patricia Highsmith
+Thu, 22 Oct 2026 14:00:00 +0000 — https://www.indiewire.com/criticism/movies/a-talent-for-murder-review-helen-mirren-alden-ehrenreich-1235213279/
+
+Anton Corbijn directs the pair in a two-hander with real bite, as adapted by Joanna Murray-Smith from her devilish play "Switzerland."
+
+### Is Fan Fiction Really the Next Frontier in IP?
+Thu, 22 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentary/fan-fiction-next-frontier-hollywood-ip-1235222853/
+
+Fan fiction is so hot right now. At least, that’s what everyone says.
 
 ### When VFX and Practical Sets Work Together, Sometimes You Invent New Cameras
 Wed, 21 Oct 2026 22:30:00 +0000 — https://www.indiewire.com/features/craft/whalefall-production-designer-ramsey-avery-interview-1235222681/
@@ -215,127 +240,107 @@ Wed, 21 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/news/general-news/
 
 Exclusive: One of the most expensive films ever produced in Japan, the '90s Christmas feature had its theatrical release cut short after its director was arrested for cocaine smuggling.
 
-### Watch Ava Duvernay Explain Why the 14th Amendment Is So Much More Than Birthright Citizenship
-Wed, 21 Oct 2026 16:15:00 +0000 — https://www.indiewire.com/news/events/watch-ava-duvernay-discuss-14th-indiewire-art-of-the-doc-1235223105/
-
-At IndieWire's Art of the Doc event, the "13th" director explained why her Netflix follow-up contained much more than she initially expected.
-
-### Gen Z Feels Doomed Watching AI, but Gen Alpha Feels Differently
-Wed, 21 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/news/general-news/gen-z-doomed-watching-ai-gen-alpha-feels-differently-study-1235223093/
-
-Over 30 percent of young people feel either "doomed" or "scared" when watching AI-generated content, but a study found notable differences in age groups.
-
-### A New Australian Horror Import Imagines ‘Obsession’ from a Very Different Perspective
-Wed, 21 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/features/commentary/the-only-one-australian-horror-obsession-1235222861/
-
-Film critic, author, and horror expert Alexandra Heller-Nicholas writes about taking her teenage son to see “The Only One,” and reigniting some classic Aussie horror hits and enduring societal questions in the process.
-
-### Sinner Supper Club, a Gay Mumblegore Ghost Story, Sells to Factory 25
-Wed, 21 Oct 2026 14:30:00 +0000 — https://www.indiewire.com/news/general-news/sinner-supper-club-gay-ghost-story-sells-factory-25-1235223137/
-
-Shot in six days on an iPhone, the film will premiere at NewFest.
-
 ## The Wrap
 
-### Jimmy Fallon Gets Big Crowd Reaction After Mocking Trump’s ‘Ass’ Comment About GOP Senator
-Thu, 22 Oct 2026 05:03:01 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-tonight-show-reaction-mocks-trump-ass-comment-gop-senator/
+### White House Pulls Reporter From Trump Press Pool After Oval Office Clash
+Thu, 22 Oct 2026 15:31:44 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-white-house-pulls-andrew-feinberg-independent-press-pool/
 
-Jimmy Fallon got a big reaction from his “ Tonight Show ” audience after mocking President Donald Trump for repeatedly complimenting Sen. Jon Husted’s backside at campaign rallies. Well, guys, the midterm elections are less than two weeks away, Fallon kicked off his Wednesday night monologue. Yeah. And last night President Trump held a rally in North Carolina, and he got a little off topic describing the physical appearance of Ohio Senator Jon Husted. The Tonight Show editors then cut to footage of the rally, where Trump could be seen telling the crowd that he was studying Husted s body and praising his ass. As the clip came to a close, Fallon appeared to stand in disbelief, allowing his studio audience to take a moment to process what they had just watched. Fallon made shocked faces as the audience members erupted into a mix of applause, groans and laughter. Fallon then ripped a pointed jab directed at the president, noting, Trump was like, Welp, one poll just went up. Fallon clearly used poll as a double entendre for Trump s privates, while also poking fun at the president s approval rating hitting a record low of 31%. The Tonight Show crowd appeared to enjoy the NSFW zinger, however, with the crowd exploding into cheers as the house band played some encouraging music. Fallon then threw out another crowd-pleasing dig, quipping, Honestly, it s nice to see that Trump can make men just as uncomfortable as women. As his studio audience cheered, whistled and applauded at this co
+The White House removed The Independent s Andrew Feinberg from President Donald Trump s traveling press pool on Thursday, two days after Trump berated the reporter during a tense Oval Office exchange. Feinberg was scheduled to cover Trump s trip to Sioux City, Iowa, but was informed Wednesday that he would no longer serve as the designated print pool reporter, according to Semafor s Max Tani . The White House Correspondents Association condemned the decision as retaliation amid a separate legal fight over the administration s restrictions on press access. The White House Correspondents Association strongly objects to the decision to restrict a journalist s coverage simply because the president didn t care for their questioning, WHCA President Jacqui Heinrich said in a Wednesday statement . That is retaliation, Heinrich added. The American public s right to an independent press depends on reporters being able to do their jobs without fear that challenging the president will cut off their access. The decision followed a contentious exchange Tuesday , when Feinberg questioned Trump about a proposed administration program offering financial rewards to whistleblowers who expose government fraud. Vice President JD Vance accused Feinberg of asking a fundamentally dishonest question, while Trump warned the reporter, I don t know who the hell you are, but you better be careful. Later, when Feinberg attempted to ask another question about Trump s golf courses, the president told him to
 
-### Electronic Arts to Cut 400 Jobs, Shutter Development Studio BioWare
-Thu, 22 Oct 2026 04:02:20 +0000 — https://www.thewrap.com/industry-news/business/electronic-arts-cut-400-jobs-shutter-bioware/
+### Ali G: Who Iz I? Review: Sacha Baron Cohen s Schtick Is Old in Unfunny, Unsurprising New Film
+Thu, 22 Oct 2026 15:21:00 +0000 — https://www.thewrap.com/creative-content/movies/ali-g-who-iz-i-review-sacha-baron-cohens-schtick-is-old-in-unfunny-unsurprising-new-film/
 
-Electronic Arts, the video game company also known as EA, is set to lay off hundreds of staff members and shutter its development studio BioWare. The company will cut about 400 jobs, an estimated 3% of its workforce, according to a Wednesday report from Bloomberg . It’s said 50 of those positions come from the shut down BioWare studio. In a memo to staff, obtained by the outlet, Chief Operating Officer David Tinson and Chief Studios Officer/President Cam Weber explained to employees that they had “taken a hard look at our business” over the last several months. The executives shared that projects will be cut, including the slated “Mass Effect” game, which had been in early development at BioWare. The company noted that it planned to keep investing in sports and action-adventure games, highlighting “Apex Legends” as an example. “Across our portfolio, we’re making deliberate choices to align talent and investments where we see the greatest opportunities for players and long-term growth,” Tinson and Weber wrote. In response to the update, a BioWare spokesperson wrote, “For more than 30 years, BioWare has been more than a studio. It has been a home for storytellers, developers, and the players who brought our worlds to life. The statement then spotlighted their successful projects, including “Baldur’s Gate,” “Neverwinter Nights,” “Star Wars: Knights of the Old Republic,” “Dragon Age,” “Mass Effect” and “Anthem.” “Now, after more than three decades of shared adventures, BioWare is
+Whenever the jacob’s ladder of social media discourse loops around to discuss classic comedies — think “Blazing Saddles” on “National Lampoon’s Animal House” — there’s always an agonized strain of hand-wringing insisting that movies like that couldn’t be made now. The reasons invariably run the ideological gamut, some ascribing their absence to risk-averse studio execs and others blaming cancel culture run amuck. But the truth is that the bar is simply much, much higher today for genuine transgression than it was 10 or 20 or 50 years ago. Take, for example, the work of Sacha Baron Cohen, whose latest film, “Ali G: Who Iz I?,” revives his character from the early 2000s to middling results. Cohen has delivered third-rail comedy for more than 25 years, breaking through with “Da Ali G Show” in 2000 and exploding in popularity with “Borat,” which celebrates its 20th anniversary in November. Returning to Ali G for his directorial debut, Cohen attempts to confront the fact that he’s simply too well known to easily navigate public spaces in the way he did in those earlier projects. But even acknowledging that immediate hurdle, watching him try to recreate the same magic a quarter of a century and a radically changed culture later is a dispiriting and painfully humorless affair — not because he or his characters failed to change with the times, but because what’s funny and what’s risky in real life has long since outpaced the comedian’s imagination. Picking up where last he left off, 
 
-### John Anderson, Country Hall of Fame Singer, Dies at 71
-Thu, 22 Oct 2026 03:05:54 +0000 — https://www.thewrap.com/creative-content/music/john-anderson-dies-country-hall-of-fame-singer/
+### J.J. Watt Nabs Permanent NFL On CBS Lead Analyst Spot After Tony Romo’s Exit
+Thu, 22 Oct 2026 15:11:34 +0000 — https://www.thewrap.com/culture-lifestyle/sports/jj-watt-nfl-on-cbs-lead-analyst-spot-after-tony-romo/
 
-John Anderson, a Country Hall of Fame inductee known for the hits Seminole Wind, Straight Tequila Night, Black Sheep and Swingin,' died on Wednesday. He was 71. Anderson s family confirmed his passing on Instagram Wednesday evening, writing, It is with the heaviest of hearts that we share the passing of our beloved husband, father, grandfather and best friend. A cause of death was not immediately shared. To the world, he was a gifted country music singer whose voice and songs touched countless lives, the statement continued. To us, he was so much more. He was the heart of our family, the one who made us laugh, loved us fiercely and made every ordinary moment feel special. We are completely heartbroken. Read the family s full statement below. View this post on Instagram A post shared by John Anderson (@johnanderson) Anderson’s almost five-decade career boasted 20 Top Ten Country hits, with five of those anthems reaching the very top of the charts. As we mentioned, Seminole Wind, Straight Tequila Night, Black Sheep and Swingin’” were Anderson’s most prominent hits. However, the country legend also found success with his songs “Wild and Blue” and “Money in the Bank.” Anderson released 22 studio albums throughout his career, with his most recent LP, “Years,” having been released in 2020. Anderson was tapped as a Country Music Hall of Fame inductee in 2024 – 10 years after he joined the Nashville Songwriters Hall of Fame. Prior to all of this, he was honored with the Academy of Co
+J.J. Watt has scored a permanent role as Lead Analyst for NFL On CBS following Tony Romo’s exit, the network announced on Thursday. The multi-year agreement will see the former football player continue working with Jim Nantz and Tracy Wolfson after joining the team atop the 2026 season. I am incredibly honored and grateful to have the opportunity to represent CBS Sports and all of the fantastic people who make this place so special, Watt shared in a statement. From the brotherhood of The NFL Today to my crews calling games, I couldn t ask for better teammates alongside me on this television journey. I am thankful to David Berson for his leadership, vision and trust. I love this job and can t wait to see ya Sunday with Jim and Tracy and many more Sundays to come! I ve had a front-row seat to JJ s growth as a top-tier broadcaster, watching him tackle this role just like he did his hall-of-fame playing career, added David Berson, Chairman of Skydance s Global Sports Group. He s insightful, entertaining, passionate, meticulous in his preparation and the ultimate teammate. He has a unique ability to see things and communicate to fans of all levels. We are thrilled to have him leading our NFL coverage. Watt first joined CBS Sports in 2023 as a studio analyst for The NFL Today and began calling games in 2025. His promotion comes three weeks after fellow NFL veteran Romo left the network after nine years following his July OWI arrest. “CBS Sports and Tony Romo have mutually agreed to
 
-### Ilhan Omar Says Family Must Move Amid Death Threats After Federal Raid
-Thu, 22 Oct 2026 02:48:36 +0000 — https://www.thewrap.com/media-platforms/politics/ilhan-omar-says-family-must-move-amid-death-threats-after-federal-raid/
+### Carrie Scores Season 2 Renewal at Prime Video
+Thu, 22 Oct 2026 15:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/carrie-renewed-season-2-prime-video/
 
-Rep. Ilhan Omar (D-Minn.) said she plans to move her family to a new home after receiving death threats following a federal raid tied to an immigration fraud investigation. “Obviously, I can’t continue to live there, the congresswoman told MS NOW s Chris Hayes in her first interview since the raid. Because our address has been public and with the death threats that I deal with, it’s no longer going to be feasible to be in that house and have my kids visiting off and on, having people track them. Elsewhere in the interview, Omar recounted the events of the raid, sharing that she was woken up at 6 a.m. on Oct. 12 with federal agents surrounding her home in Washington, D.C. Per the congresswoman, the agents presented her with the warrant before moving “room by room” and eventually taking custody of 17 personal items, including her phone, her daughter’s phone, her husband’s notebooks and more. The Trump administration is investigating whether false statements were made about her age by her father when she obtained U.S. citizenship in 2000. She had emigrated from Somalia to the U.S. with her family. I’m ok. Make no mistake: this is an attempt to target political enemies and weaponize federal law enforcement, Omar wrote on X in the aftermath of the raid. For ten years, Trump has targeted me with baseless lies and smear campaigns. This is just the latest escalation in his campaign of political intimidation. I will not be silenced. She expressed a similar sentiment in her sit down wi
+Carrie may not be the most popular girl in high school, but she s a hit on Prime Video. The streamer renewed the supernatural horror series from Mike Flanagan on Thursday morning. Flanagan will return to showrun the critically acclaimed series. He also executive produces alongside Stephen King, the horror legend and author of the original novel of the same name. Right after its debut on Oct. 7, Carrie was the No. 1 most-watched title on Prime Video in over 105 countries worldwide. The Prime Video adaptation modernizes King s iconic story, bringing Carrie White to the 2020s. Homeschooled her entire life, the series starts with Carrie s (Summer H. Howell) first days in high school. But during an age when school shooting drills are the norm and cyber bullying is common, her mother s (Samantha Sloyan) warnings about the evils of the world feel more rational than previous versions of this tale. All of the major beats from the original Carrie story are part of Flanagan s adaptation, including Carrie grappling with her powers, the Prom scene and her complicated relationship with her mother. But this new take also has several new twists that hint Carrie may not be as alone as she believes. Carrie is connecting with both longtime Stephen King fans and a new generation altogether — including young adults and international audiences, with particular strength among female viewers, said Peter Friedlander, head of global television for Amazon MGM Studios. It speaks to the enduring power of
 
-### ‘860’ Broadway Review: Billy Crystal Loses His Home but Not His Gift to Make Us Laugh
-Thu, 22 Oct 2026 02:00:00 +0000 — https://www.thewrap.com/creative-content/theater/860-broadway-review-billy-crystal/
+### The Daily Show Mocks Trump s $50 Million Bribe Scandal: Inflation Really Is Getting Bad!
+Thu, 22 Oct 2026 14:55:12 +0000 — https://www.thewrap.com/culture-lifestyle/culture/daily-show-trump-julio-herrera-bribe-pete-hegseth-video/
 
-Billy Crystal has a thing for numbers when it comes to his one-man shows on Broadway. Back in 2004, he made his debut there with “700 Sundays,” the numeral a reference to how many weekends the young Billy spent with his father, Jack, before he passed away when the future comedy star was only 15 years old. For his follow-up one-man show, coming more than two decades later, Crystal is even more elliptic. “860,” which opened Wednesday at the Imperial Theatre, refers to the address at Chautauqua Boulevard in the Pacific Palisades that went up in flames on Jan. 7, 2025, in the Los Angeles wildfires. If you were expecting a comedy, Crystal delivers something else in the first few minutes of “860.” He puts us in the middle of that apocalypse when he and his wife, Janice, fled for their lives on that otherwise beautiful California winter s day. The stage set, by Scott Pask, is a detailed replication of Crystal’s study at 860 Chautauqua, filled with photos, awards and other memorabilia that will soon be just that, a memory. Scott Ellis directs, and he, Pask and Crystal don’t leave that beloved study intact for long. Soon, the stage is filled with images of an inferno (brilliant video design by Hana S. Kim and Kylee Loera). The Tony Awards have nominated Ellis nine times for his direction of Broadway shows, usually musicals or big ensemble dramas like “Twelve Angry Men.” A 10th nomination for Ellis might be the charm, because “860,” despite being a one-man show, plays like a big opera 
+Daily Show host Ronny Chieng mocked the Trump administration for its latest corruption scandal, reacting to reports that the president gave out a pardon in exchange for $50 million by joking, Inflation really is getting bad! Chieng kicked things off Wednesday night with a string of jokes made at the expense of Vice President JD Vance. Trump s second-in-command insisted recently that the entire Trump administration wholeheartedly rejects pay-for-play schemes and anybody getting rich off of their connections to the government. In response, all Chieng could do was sarcastically laugh. Maybe JD is right. When have you seen allegations of corruption in the Trump administration? he asked. There was his ambassador to Greece and his crypto deals, his IRS slush fund, his son s wedding party, his son-in-law s real estate deals. But those were weeks ago! When have you ever seen corruption allegations this morning? That question was met with the latest reports surrounding Venezuelan billionaire Julio Herrera Velutini. The banker reportedly wanted some felony bribery charges wiped from his record, which prompted his family to hire Alina Habba, the lawyer and former legal spokesperson for President Trump. Habba was reportedly paid $50 million for a job at a new company with no public profile. Weeks later, Trump gave Herrera a full and unconditional pardon. $50 million for one pardon? Inflation really is getting bad! Chieng joked. Wow, what a way to get out of bribery — by doing more briber
 
-### White House Correspondents’ Association Accuses Trump Admin of Retaliation After Clash With Reporter
-Thu, 22 Oct 2026 01:57:10 +0000 — https://www.thewrap.com/media-platforms/journalism/white-house-correspondents-association-accuses-trump-retaliation-andrew-feinberg-access-blocked/
+### Bianna Golodryga Leaving CNN for New Opportunity
+Thu, 22 Oct 2026 14:26:05 +0000 — https://www.thewrap.com/media-platforms/journalism/bianna-golodryga-leaving-cnn/
 
-The White House Correspondents’ Association condemned the Trump administration after The Independent’s Andrew Feinberg was reportedly blocked from serving as print pooler following an Oval Office clash with the president . The White House Correspondents Association strongly objects to the decision to restrict a journalist’s coverage simply because the president didn’t care for their questioning, Jacqui Heinrich, a Fox News correspondent and WHCA president, wrote on X Wednesday evening. That is retaliation. The American public s right to an independent press depends on reporters being able to do their jobs without fear that challenging the president will cut off their access. A representative for the White House did not immediately respond to TheWrap s request for comment. Heinrich s statement followed a report from Semafor s Max Tani , who reported Wednesday evening that Feinberg had confirmed to him that, without explanation, the White House said he would no longer serve as the print pooler for Trump s upcoming trip. The last-minute change followed a tense exchange between Feinberg and the president on Tuesday, in which Trump told the journalist: Listen to you. Hey … I don’t know who the hell you are, but you better be careful. He later referred to Feinberg as a sick person for his questions. Feinberg had asked Trump a question about his Fraud Whistleblower Incentive Program, highlighting how the False Claims Act was already in place. Feinberg later hit back at the president
+Bianna Golodryga is leaving CNN, becoming the second prominent international news anchor to announce her departure from the network this week. Golodryga, who co-anchors CNN International s One World alongside Zain Asher, announced her exit Thursday , saying she was leaving for an opportunity that I couldn t pass up. Her final day at CNN will be Friday, when she will sign off on air, a person familiar with the plans confirmed to TheWrap. Asher will remain an anchor of One World. Her departure comes just three days after longtime CNN chief international anchor Christiane Amanpour announced she would be leaving the network after 43 years . Amanpour plans to end her daily CNN and PBS programs at the end of 2026 before transitioning to a weekly CNN International show through May 2027. She will officially depart the network in June. Golodryga joined CNN full-time in 2019 as a senior global affairs analyst and fill-in anchor before becoming co-anchor of One World in September 2023 . The move was part of a broader overhaul of CNN International s weekday lineup ahead of the 2024 presidential election, with the program expanding its focus on U.S. politics and global affairs. During her time at CNN, Golodryga covered major international developments, including Russia s invasion of Ukraine, and frequently filled in for Amanpour. Born in the former Soviet Union, she immigrated to the United States as a child and has drawn on her background in her reporting on international affairs. Before
 
-### Trump Again Attacks Kaitlan Collins as a Dummy, Low IQ Person for Russian Sanctions Question
-Thu, 22 Oct 2026 00:14:19 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-attacks-kaitlan-collins-cnn-russian-sanctions-question/
+### Heated Rivalry Is Heading to Theaters Ahead of Season 2
+Thu, 22 Oct 2026 13:26:28 +0000 — https://www.thewrap.com/media-platforms/tv/heated-rivalry-in-theaters-season-1-recap-regal/
 
-President Donald Trump snapped at CNN s Kaitlan Collins again as she pressed him on why he waived Russian sanctions. The White House correspondent asked if the waived sanctions were tied to the release of an American detained in Russia. Trump argued that easing sanctions was specifically part of smoothing over negotiations to end Russia’s war against Ukraine “We were in the midst of negotiating (Hubbard’s release), and a lot of stupid people said, and people that don’t know how life works, they said, ‘Why aren’t you putting Russian sanctions,’ and all this, in the midst of a negotiation to try and get a long-term hostage back from Russia,” he said. So you did give something? Collins pressed. You don’t know anything. You’re fake news CNN, the president replied. Later in the exchange, Collins asked specifically if the president lifted the sanctions in exchange for Hubbard s release. Trump snapped at the CNN journalist, slewing more insults her way. You don’t know what you’re talking about. You’re a low-IQ person. You’re a dummy, and you work for CNN, he said. We re getting him back because of me. President Trump is directly tying waiving Russian sanctions to the release of the freed American Stephen Hubbard, despite denying he gave anything to Putin. pic.twitter.com/TUxcvodPuF &mdash; Kaitlan Collins (@kaitlancollins) October 21, 2026 This is the latest time Trump has insulted Collins for asking him direct questions on the press line. Following the White House s ban of MS NOW, 
+Heated Rivalry will soon be heating up the big screen when Regal recaps the first six episodes of Season 1 in theaters next month ahead of the Season 2 premiere in Spring 2027. For a limited release from Nov. 6-30, Regal Cinemas and Sphere Abacus will air the Crave series first six episodes in pairs for just $9.99 each, the companies announced on Thursday. “When a series connects with audiences the way ‘Heated Rivalry’ has, we look for ways to bring it to the big screen and give fans a reason to experience it together,” Brooks LeBoeuf, SVP of U.S. content at Regal, said in a statement. “Nearly a year after its premiere, we’re proud to work with our partners to turn a season fans have watched again and again into a true theatrical event. It’s a chance to celebrate the story, its creators and its performances before Season 2 arrives in 2027.” “‘Heated Rivalry’ is a global phenomenon creating a rush of social media and press activity wherever it lands,” added Hana Palmer, executive director of global distribution and partnerships at Sphere Abacus. “We’re very excited to give audiences the opportunity to watch the drama unfold on big screens in North America, the U.K., Australia and New Zealand.” The screenings across more than 650 theaters will also include pre-show welcome content from the cast and crew, in addition to two specialty cocktails with Summer in Montreal and Russians Don’t Blush. Pre-sale tickets are available now . Heated Rivalry became an international hit last wi
 
-### Chris Pratt Says Marvel Has Taken Hard Action on Star-Lord s Return
-Wed, 21 Oct 2026 23:12:11 +0000 — https://www.thewrap.com/creative-content/movies/chris-pratt-says-marvel-taken-action-star-lord-return/
+### Specialty Streamers Are Building Momentum by Tapping Niche Interests and Superserving Fandoms
+Thu, 22 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/specialty-streaming-services-growth-outlook-challenges-analysis/
 
-Chris Pratt said that Marvel Studios has taken hard action on Peter Quill/Star-Lord s return to the MCU. “I have a great relationship with Kevin [Feige] and Lou [D’Esposito], and there have been ongoing conversations about how we make good on that promise and also hard action taken to make sure that we make good on that promise,” Pratt told The Bingeworthy podcast while promoting the second season of “The Terminal List.” He added: “So yeah, you’ll see Star-Lord again, which is very exciting, but I’m not at liberty to say when that’s going to be, but he’s not going anywhere.” Marvel Studios declined to comment. At the end of “Guardians of the Galaxy Vol. 3,” the film’s post-credits tag made it explicitly clear that “The Legendary Star-Lord Will Return.” The end of the film saw the original Guardians go in several different directions, however. Peter notably headed back to Earth to find his grandpa; Mantis left in an effort to find some independence and get to know herself as an individual; Gamora went back to her new Ravager family; Nebula and Drax basically became the co-presidents of Knowhere; and Rocket took over as the Guardians team leader, working alongside the new members. The movie s final message was certainly eye-catching, as “The Legendary Star-Lord” is actually the name of a short-lived comic run written by Sam Humphries with art by Paco Medina and released in 2015. It followed Quill and his adventures after he left the Guardians of the Galaxy. Though, where Star-L
+While Netflix and other major Hollywood streamers have programmed their services to offer something for everyone, a group of smaller players has carved out their own path with more limited, more highly specific niches of interest. Rather than challenging their premium counterparts, these specialty streamers focus on being everything to someone with complementary offerings that superserve a fandom. Among the most notable are Sony’s anime-focused Crunchyroll, Amazon’s movie-centric MGM+, BBC’s British TV haven BritBox, Jon Erwin’s Christian entertainment-centric Wonder Project, Roku’s budget-friendly and nostalgia-focused ad-free streamer Howdy and AMC Global Media’s AMC+. While individually smaller than heavyweights like Netflix and Disney+, these services collectively draw a significant audience. In the second quarter, total specialty SVOD subscriptions grew 14% year over year to 42 million across 31 services – more than double premium SVOD’s 6% year over year growth, according to the research firm Antenna . “Specialty SVODs have done a good job of highlighting what they re really great at,” Roku Subscriptions, Partnerships and Corporate Development President Gil Fuchsberg told TheWrap. “You always know what you re going to get and that distinction is helping drive a lot of the growth here.” Despite their outsized growth, specialty streamers still only make up a 13% share of all SVOD subscriptions tracked by Antenna and face the same challenges as the rest of the industry: co
 
-### Can a ‘Glee’ Reboot Really Work in 2026?
-Wed, 21 Oct 2026 23:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/glee-reboot-revival-can-it-work-disney-hulu/
+### Peacock’s Profitability Streak, World Cup, Christopher Nolan’s ‘The Odyssey’ Lift NBCUniversal Ahead of Spinoff
+Thu, 22 Oct 2026 11:40:52 +0000 — https://www.thewrap.com/industry-news/business/comcast-earnings-q3-2026/
 
-After several weeks of teasing, Ryan Murphy received a green light to reboot “Glee” for a new generation. The musical dramedy that ran on Fox for six seasons and 121 episodes from 2009 to 2015 will return to our screens, this time via Disney+ and Hulu. Murphy said he had been in touch with around 10 of the original cast members, and that they all had a lot of questions, but they all were very enthusiastic about the idea. Reviving the series only 11 years after its end seems premature, but in the reboot era, there is no such thing as “too soon.” Still, “Glee” is a show with a torrid legacy, one infamous enough to justify a docuseries about its dark side. Even before it became the subject of dozens of clickbaity “most cursed show on TV” headlines, it was considered a prime example of wasted potential and shark-jumping lunacy. Can you even reboot a show like this in 2026? Jane Lynch and Matthew Morrison in Glee. (Fox) It’s easy to forget now, but “Glee” really was that big of a deal. Its premiere was a ratings smash, and the first season received 19 Emmy nominations. The first half of the season boasted some of the most caustic comedy on network TV ever. Set in a middling high school in Lima, Ohio, the show followed the establishment of a glee club where a ragtag group of misfits, weirdos, jocks and theater nerds squabbled and bonded over song. It could be saccharine but it also had the nerve to take on topics like homophobia, bullying and sex. The characters were broad stereoty
+Comcast posted revenue of $29.29 billion and an adjusted profit of $1.07 cents per share, compared to revenue of $29.22 billion and a profit of 99 cents per share expected by Wall Street analysts, per Yahoo Finance The quarterly results come as the Brian Roberts-owned media conglomerate remains on track to spin off NBCUniversal and Sky into a separate, publicly traded company next year Comcast shares climbed more than 2% on Thursday following the results Ahead of its spinoff from Comcast, NBCUniversal s streaming and studios businesses continued to show strength, with a second consecutive quarterly profit at Peacock boosted by the World Cup and a whopping 76% increase in theatrical revenue driven by Christopher Nolan s The Odyssey, Illumination s Minions & Monsters and indie breakout Obsession. But those gains were weighed down by continued softness in the theme parks business, as well as an ongoing downturn in Comcast s broadband and video division, which faces irrational competition. Though the Brian Roberts-owned media conglomerate beat Wall Street expectations, its overall adjusted profit slid 7.3% to $3.8 billion, or $1.07 per share, and revenue tumbled 6.1% to $29.3 million. In response to its continued challenges in broadband and video, Comcast plans to restructure the division, which will include an unspecified number of layoffs. The reorganization will result in a charge of over $1 billion in the fourth quarter. Its the latest company to shake up its workforce, follo
 
-### Jon Stewart Admits He’s in a ‘Dark Hole Over Midterm Elections, Says Polling Is Always So Wrong
-Wed, 21 Oct 2026 22:58:23 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-admits-dark-hole-midterm-elections-decries-polling/
+### Spotify Hits 306 Million Premium Subscribers as Revenue Grows 16%
+Thu, 22 Oct 2026 11:26:09 +0000 — https://www.thewrap.com/creative-content/music/spotify-earnings-q3-2026/
 
-Jon Stewart reflected on the state of the midterms race two weeks out from Election Day, and admitted on The Weekly Show podcast Wednesday that he s in a dark hole about it all. Later adding that the polling is always so f ked and so wrong, the Daily Show host and comedian railed against the Republican Party and expressed revulsion for their slate of nominees. Not a one of them that deserves to be reelected, he said. “I’m in a little bit of a dark hole about the election, Stewart said in a segment at the end of Wednesday s episode where he and producers Brittany Mehmedovic and Gillian Spear respond to audience questions. In the sense that, will there be any price to pay for the Republican Party in general for acquiescing to the abject recklessness and megalomaniacal instincts of this guy that’s more interested in building ballrooms and monuments than making measured decisions and getting us into a reckless war and just throwing out impulsive tariffs that drive costs up? Like, will there be any — is there anything that can happen?” In regards to the GOP s slate of nominees running in swing states like Michigan and Texas Wednesday s Weekly Show episode fittingly showcased an interview with Democratic nominee Dr. Abdul El-Sayed Stewart flamed them for their passivity in the face of recklessness. Full stop. Mehmedovic and Spear carried a flame for optimism, though. Spear shared an anecdote from an undisclosed diner in Middle America where she overheard a conversation in which a m
+Spotify s year-over-year revenue increased 16% to hit €5 billion, and diluted earnings per share came in at €2.48 Wall Street was expecting earnings of €2.84 per share and revenue of €4.98 billion Monthly active users grew 11% to hit 788 million, and Premium subscribers grew 9% to hit 306 million Spotify reported third-quarter results that were slightly better than Wall Street expectations, with revenue of €5.0 billion narrowly beating estimates of €4.98 billion in the period. Both overall subscribers and Premium subscribers also saw notable lifts. Monthly active users for the quarter came in at 788 million, an increase from the 777 million MAUs the company reported last quarter. That lift was also in line with Spotify s expectations. However, the company s 9% increase in Premium subscribers surpassed expectations and was driven by quarter-over-quarter growth in Latin America, Europe, North America and the rest of the world. Spotify also offered a glimpse into the global breakdown of its free versus paying subscribers. In Sweden, which is the company s first and most established market, 50% of Spotify consumers pay for the streaming service. In the U.K. and Germany, about 20-25% pay for the service, and in Latin America that figure is around 11%. Overall, about 4% of Spotify s global audience pays for the streamer. When we went public in 2018, we had 71 million [paying] subscribers. Since then, every single year, we ve been adding 25 million subs or more, and this year, we ex
 
 ## Collider
 
-### Dwayne Johnson’s Franchise-Ending Sci-Fi Flop Officially Says Goodbye to Netflix
-Thu, 22 Oct 2026 09:30:15 GMT — https://collider.com/dwayne-johnson-black-adam-leaving-netflix-november-2026/
+### Prime Video Officially Decides Fate of Mike Flanagan’s New Stephen King Series
+Thu, 22 Oct 2026 15:16:52 GMT — https://collider.com/carrie-season-2-renewed-prime-video/
 
-Dwayne Johnson is one of the few actors who have successfully transitioned from WWE superstar to blockbuster star. Over his long , illustrious career, he's played a variety of roles, from an action hero and a tooth fairy to a scorpion king, and even a dramatic turn in last year’s Benny Safdie -directed The Smashing Machine . He's also been part of some of the best franchises, including The Fast and the Furious , The Mummy , and more.
+Nobody has ever needed a fresh start more than Carrie White . Unfortunately, being a teenager with telekinetic powers tends to make an already miserable high school experience considerably more complicated. Mike Flanagan brought Stephen King ’s most famous prom queen back to the screen this month, with Summer H. Howell stepping into a role that comes with some very bloodstained shoes to fill.
 
-### After Apu, ‘The Simpsons’ Quietly Revived a Banned-Episode Character 35 Years Later
-Thu, 22 Oct 2026 09:13:15 GMT — https://collider.com/the-simpsons-treehouse-of-horror-michael-jackson-character-return/
+### ‘Godzilla Minus Zero’ Is a Rare Sequel Better Than the Original | Review
+Thu, 22 Oct 2026 15:14:27 GMT — https://collider.com/godzilla-minus-zero-review/
 
-Editor's Note: The following contains spoilers for The Simpsons "Treehouse of Horror Presents: The Revengening." After 35 years, The Simpsons has quietly brought back a character tied to one of its most controversial episodes. In Sunday night's Season 38 Halloween special, "Treehouse of Horror Presents: The Revengening," where Apu Nahasapeemapetilon's return was officially announced , Leon Kompowsky makes a brief appearance on the Island of Forgotten Garbage, where Springfield's discarded people and possessions wind up. The cameo is easy to miss, but the character has a complicated history: Leon was originally voiced by Michael Jackson in 1991's "Stark Raving Dad," an episode removed from circulation in 2019.
+Even in a winter film season featuring a new Avengers movie and the conclusion of the Dune franchise, Godzilla Minus Zero is a title that sticks out in the calendar of many cinema fans. 2023’s Godzilla Minus One took the long-running Japanese series back to its roots, setting the film in post-World War II Japan and centering its human stories around the traumas experienced in combat. It became the most successful entry in the franchise’s history, winning an Oscar for its special effects (the first Godzilla movie to do so) and reigniting fascination around the iconic monster. As director Takashi Yamazaki returns with his highly anticipated sequel, can he repeat his kaiju-sized success?
 
-### Matt Damon’s Pandemic Thriller Officially Becomes a Global Hit on HBO Max
-Thu, 22 Oct 2026 09:00:15 GMT — https://collider.com/steven-soderbergh-matt-damon-contagion-streaming-success-hbo-max-october-2026/
+### John Grisham's 'The Rainmaker' Returns With a Game-Changing Revelation in Season 2 Sneak Peek [Exclusive]
+Thu, 22 Oct 2026 15:00:15 GMT — https://collider.com/the-rainmaker-season-2-episode-2-sneak-peek-milo-callaghan/
 
-Timelessness makes a movie a classic ; some are instantly deemed a force of nature, like Citizen Kane , The Wizard of Oz , The Godfather , and more. And then there are movies that earn "classic" status over time, like The Shawshank Redemption , Blade Runner , which audiences initially panned but built a massive underground sci-fi cult following on home video, or The Coen brothers ’ The Big Lebowski , which got its due years later.
+It's been over a year since hotshot young lawyer Rudy Baylor first took over screens, and yet, The Rainmaker is still riding high on USA Network. Season 2 premiered last week and immediately shot the legal drama adaptation of John Grisham 's novel back into the stratosphere , challenging the likes of Reacher and Neagley on Prime Video's viewership charts. After a colossal first run that racked up a staggering 16 million total viewers and became the biggest series launch for the network in seven years, it's fair to say everyone still wants more of Rudy's services in the courtroom. Coincidentally, that's exactly where Milo Callaghan 's character found himself upon his return.
 
-### ‘The Terminal List’ Star Breaks Down Katie’s Most Intense Season 2 Scene and Possible Return
-Thu, 22 Oct 2026 09:00:15 GMT — https://collider.com/the-terminal-list-season-2-katie-fate-constance-wu/
+### Ethan Hawke Unveils His Eerie New Art Bell-Inspired Passion Project With 'Sinister' and 'The Black Phone' Team [Exclusive]
+Thu, 22 Oct 2026 15:00:15 GMT — https://collider.com/midnight-radio-ethan-hawke-scott-derrickson-c-robert-cargill-preview/
 
-Editor's note: The following contains major spoilers for The Terminal List Season 2.
+The trio of Ethan Hawke , Scott Derrickson , and C. Robert Cargill have been making people scream for over a decade now, from the original Sinister to last year's icy Black Phone 2 . Each of their collaborations has thrived by mixing the naturally horrifying with the supernatural , exploring disturbing Super 8 snuff films with dark secrets and taking on a serial killer whose young victims still make calls from beyond the grave. All three have now reunited for a chilling new passion project that feels right up the same alley while throwing back to a style of horror that doesn't exist in quite the way it used to. Better yet, Collider is excited to bring our readers the first listen.
 
-### 'Nobody Wants This' Season 3 Has Already Learned From Its Season 2 Mistakes | Review
-Thu, 22 Oct 2026 07:01:15 GMT — https://collider.com/nobody-wants-this-season-3-review-netflix/
+### 'The Love Hypothesis' Author Officially Reveals What's Next With New Audio Book Preview [Exclusive]
+Thu, 22 Oct 2026 14:00:15 GMT — https://collider.com/ali-hazelwood-bad-in-bed-audible-exclusive-preview/
 
-Whenever there are debates about whether the rom-com is back, recent shows like Nobody Wants This are proof that the genre is thriving on streaming. Loosely based on Erin Foster 's life, the Netflix series stars Kristen Bell as a relationship podcaster who falls in love with a rabbi, Noah ( Adam Brody ). On paper, this premise doesn't stand out, but thanks to Bell and Brody's chemistry and an emphasis on healthy communication, Nobody Wants This became a breakout hit . It's also one of the few Netflix shows that has maintained a consistent release schedule, with a new season releasing every year since its debut two years ago.
+For many, Ali Hazelwood has rapidly become the Queen of Contemporary Romance in literature these days because of her skill at depicting complicated relationships, irresistible chemistry and characters who fall in love despite themselves while discovering that, yes, love is more difficult than they anticipated. Thanks to her books, from The Love Hypothesis to Deep End , her fandom has grown enormously , but her newest release is taking a different approach to romance. Because it's not just about finding the perfect partner, it's about discovering what makes you happy in the first place.
 
-### Forget ‘Street Fighter,’ This Underrated Video Game Reboot Is a Streaming Sensation
-Thu, 22 Oct 2026 04:55:14 GMT — https://collider.com/street-fighter-tomb-raider-2018-netflix-streaming-sensation/
+### Sacha Baron Cohen Officially Resurrects Another of His Most Infamous Characters in Directorial Debut [Exclusive]
+Thu, 22 Oct 2026 14:00:15 GMT — https://collider.com/ali-g-who-iz-i-sneak-peek-sacha-baron-cohen-erran-morad/
 
-Last week, another video game reboot made a splash, with Street Fighter taking the number one spot at the box office. It's a surprising outcome, given that Street Fighter received mostly mixed reviews. Most critics, including Collider's Aidan Kelley , noted that while Street Fighter captures the over-the-top fights and signature moves that make the original video games so iconic, it stumbles with certain casting choices and the story . But while Street Fighter may have punched its way to a box-office victory, another video game adaptation is currently capturing audience attention on Netflix .
+Ali G is officially returning to a much different world 20 years after his last on-screen appearance. Sacha Baron Cohen has kept his controversial white poseur, once hailed as one of Channel 4 's greatest television characters for his time on The 11 O'Clock Show and Da Ali G Show , tucked away for a while now. Yet, like Borat Sagdiyev before him , the character has been shockingly brought out of retirement to help tackle the issues of today that most frighten and disturb the British comedian in Ali G: Who Iz I . However, he's not alone among Cohen's characters in his big return to theaters.
 
-### 'Chicago Fire' Has To Bring Back This Fan-Favorite Character for Its 300th Episode
-Thu, 22 Oct 2026 04:06:14 GMT — https://collider.com/chicago-fire-300th-episode-wallace-boden/
+### ‘Law & Order: SVU’ Made One Mistake It Could Never Fully Undo
+Thu, 22 Oct 2026 13:14:14 GMT — https://collider.com/law-order-svu-stabler-benson-relationship/
 
-The big brother of One Chicago, Chicago Fire , is quickly approaching its 300th episode, a significant milestone in the history of the franchise. According to Hanako Greensmith , who plays Violet, the creative team is crafting an unforgettable, massive episode, filled with moments that are "haunting and exciting and thrilling." Greensmith also made mention that the episode will include characters not seen on the show in a little while , which she believes will "invite a lot of heartwarming material." The why of their return is easy to ascertain, given how the episode will serve as the last for original cast member Joe Miñoso , and his beloved character Joe Cruz by extension. The who , however, is wide open for debate , and while any former member of Firehouse 51 would be a welcome sight, one fan favorite character in particular needs to be there: CFD Deputy Commissioner (and former 51 chief) Wallace Boden (Eamonn Walker) .
+For 12 seasons, Olivia Benson and Elliot Stabler were the beating heart of Law & Order: SVU . From the moment the duo stepped into frame in the pilot, arriving at a brutal crime scene in the pouring rain, it was clear they would become the focal point of a series defined as much by their partnership as by the cases they investigated. Their relationship was forged through years of unwavering loyalty, shared trauma, and emotional intimacy, until Stabler's abrupt departure brought it to an unexpected end. While SVU eventually addressed the pain, the show has never dealt with the lasting damage caused by a decade of silence between its two central characters .
 
-### 72 Years Later, Aragorn's Best Quote Perfectly Captures What The Lord of the Rings Is All About
-Thu, 22 Oct 2026 04:05:14 GMT — https://collider.com/lord-of-the-rings-aragorn-best-quote-perfect/
+### 'Slow Horses' Star Breaks Down Her Brutal Finale Showdown With Jack Lowden
+Thu, 22 Oct 2026 13:00:15 GMT — https://collider.com/slow-horses-season-6-finale-jane-death-jack-lowden-fight-myanna-buring/
 
-72 years after its debut, J. R. R. Tolkien 's The Lord of the Rings is still the greatest fantasy epic ever written . The book, which has come to represent the entire genre and become a clear before-and-after in its history, remains a beloved and universally acclaimed work that has inspired countless artists and established the blueprint followed, imitated, and subverted by nearly everyone with an interest in fantasy.
+Editor's note: The below interview contains major spoilers for the Slow Horses Season 6 finale.
 
-### Netflix’s 2-Part “Unfilmable” Adaptation Is the Best Epic on Streaming
-Thu, 22 Oct 2026 03:15:14 GMT — https://collider.com/one-hundred-years-of-solitude-netflix-adaptation-best-epic-streaming/
+### Amanda Seyfried's Emmy-Winning Miniseries Just Hit a Major Streaming Milestone
+Thu, 22 Oct 2026 12:46:14 GMT — https://collider.com/the-dropout-amanda-seyfried-hulu-miniseries-streaming-resurgence/
 
-Television is in a golden age of adaptation. With streamers looking for familiar IP and known quantities to capture audiences, it’s no surprise that many are choosing to mine popular books and video games for material. What’s exciting is how many of them are doing it so well .
+The rise and fall of Elizabeth Holmes and her company, Theranos, is one of the stranger stories of the 21st century , given that she successfully deceived members of the media, politicians, and patients around the world into believing that an invention that was too good to be true actually worked. Although retelling events already covered extensively within journalistic reports and documentaries risked being opportunistic, Holmes’ dramatic ostracization and legal consequences had the makings of a great story begging to be adapted.
 
-### Guy Ritchie’s 97-Minute Action Thriller Resurfaces To Become a Streaming Hit
-Thu, 22 Oct 2026 03:03:14 GMT — https://collider.com/guy-ritchie-in-the-grey-henry-cavill-streaming-hit-starz-october-2026/
+### The 20 Most Underrated Horror Movies of the 2020s So Far, Ranked
+Thu, 22 Oct 2026 12:32:14 GMT — https://collider.com/horror-movies-2020s-underrated-ranked/
 
-Despite a muted theatrical rollout, Guy Ritchie’s In the Grey has found an entirely new audience on streaming, rapidly becoming one of the most-watched action titles worldwide and topping the most-streamed movies list on Starz for over a month. Featuring the dynamite duo of Jake Gyllenhaal and Henry Cavill , entertaining action, and a director who knows how to deliver cinematic spectacle, the movie is the perfect candidate for streaming stardom thanks to a tone that doesn’t take itself too seriously and characters you’ll be delighted to spend some time with.
+Horror has been a staple of the medium of film for over a century, with the genre acting as a perfect avenue for creative visionaries and experimental works of art that simply aren't possible in any other genre. This trend has effectively continued into the 2020s with a high number of exceptional and widely acclaimed horror titles, from massive blockbusters like Smile and A Quiet Place Part II to critical darlings like I Saw the TV Glow and Evil Dead Rise .
 

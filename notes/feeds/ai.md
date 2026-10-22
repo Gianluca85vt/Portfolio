@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-22T09:37:41.405Z
+# AI — harvested 2026-10-22T15:39:00.904Z
 
 ## OpenAI
+
+### What FDE means at OpenAI
+Thu, 22 Oct 2026 06:00:00 GMT — https://openai.com/index/forward-deployed-engineering-means
+
+What forward deployed engineering means at OpenAI
 
 ### How AT&T is rethinking in-house legal work with OpenAI
 Wed, 21 Oct 2026 17:00:00 GMT — https://openai.com/index/att-legal
@@ -47,11 +52,6 @@ Wed, 21 Oct 2026 00:00:00 GMT — https://openai.com/index/empowering-cyber-defe
 
 OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
 
-### Franchisee reconciles cash in 94% less time with ChatGPT Work
-Tue, 20 Oct 2026 10:00:00 GMT — https://openai.com/index/ted-taylor-restaurant
-
-An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.
-
 ## Hugging Face
 
 ### Ensemble forecasting with IBM Granite time-series models
@@ -74,7 +74,10 @@ Tue, 20 Oct 2026 16:09:19 GMT — https://huggingface.co/blog/allenai/fairstress
 
 ## Google DeepMind
 
-_Nothing in the last 48 hours._
+### Beyond tree cover: mapping the world’s forest types
+Thu, 22 Oct 2026 14:30:24 +0000 — https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/
+
+A global map categorizing every 10-meter patch of land on Earth into distinct forest types.
 
 ## VentureBeat AI
 
