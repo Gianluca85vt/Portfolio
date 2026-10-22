@@ -43,6 +43,11 @@ poly, the rays fire inward from that shell, and the fan goes away.
 
 ## The part that was tedious
 
+<figure>
+  <img src="/img/blog/substance-painter-12-2-cage-painting/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Adobe, via the official Substance 3D Painter Steam page</figcaption>
+</figure>
+
 Two options, until this week. Set a single global cage distance and live with
 it, or author a cage mesh somewhere else and import it.
 
