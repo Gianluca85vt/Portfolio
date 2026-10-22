@@ -66,7 +66,6 @@ artistView:
     - "Targeting: multiple reviewers describe no lock-on, and healing that requires biting a specific enemy. A heal gated behind a precise hit, in a game with no lock-on, is a combat loop fighting its own camera."
     - "Encounter design: aerial enemies come up again and again as the frustration point, which is the classic symptom of a ground-tuned camera and a melee moveset asked to cover a vertical axis they were not built for."
     - "Run structure: a deterioration timer on top of a roguelite loop means the pacing pressure never lets up, and the reviews that call it a chore almost all point here."
-draft: true
 ---
 
 ScreenRant's review of *Stupid Never Dies* gives it 4 out of 10, and breaks
