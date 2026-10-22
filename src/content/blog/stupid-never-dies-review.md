@@ -84,6 +84,11 @@ OpenCritic has 70 from 43 critics with 55 percent recommending; Metacritic has
 
 ## Who made it
 
+<figure>
+  <img src="/img/blog/stupid-never-dies-review/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>GPTRACK50 Inc., via the official Stupid Never Dies Steam page</figcaption>
+</figure>
+
 GPTRACK50 was founded by Hiroyuki Kobayashi, who produced *Devil May Cry*,
 *Dragon's Dogma* and *Resident Evil 4* during a long run at Capcom. This is the
 studio's first game, out 21 October on PS5 and PC at $49.99, and the team
