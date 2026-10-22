@@ -44,6 +44,11 @@ unrelated reason.
 
 ## Two nines and a patch nobody could defer
 
+<figure>
+  <img src="/img/blog/cmoa-manga-plus-down-no-offline-copy/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Kodansha head office, Otowa, Bunkyo, Tokyo. Photo by Lombroso, via Wikimedia Commons</figcaption>
+</figure>
+
 PHP shipped 8.5.12, 8.4.27, 8.3.36 and 8.2.35 on 21 October, fixing
 CVE-2026-109618 and CVE-2026-109619. The security industry has already named
 the pair PHP2Shell. Both are rated 9.2 under CVSS 4.0, and both allow code
