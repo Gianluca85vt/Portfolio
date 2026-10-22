@@ -16,7 +16,6 @@ artistView:
     - "Art direction: the high-saturation, hard-stylised look divided people, but it was a coherent decision carried the whole way through the game rather than a compromise between two targets."
   misses:
     - "Faces: the character pipeline sat a step behind the environments it stood in, and in a dialogue-led RPG that gap lands on every conversation."
-draft: true
 ---
 
 Four hundred jobs went at EA on 21 October. Around fifty of them were at
