@@ -3,7 +3,7 @@ title: "BioWare shut down, next Mass Effect cancelled"
 date: 2026-10-22
 category: Games
 excerpt: EA closed BioWare on 21 October and ended early work on the next Mass Effect. Only about 50 of the 400 jobs cut were at the studio, which tells you plenty.
-cover: /img/blog/bioware-shut-down-mass-effect-cancelled/cover.svg
+cover: /img/blog/bioware-shut-down-mass-effect-cancelled/shot-01.jpg
 sources:
   - outlet: VGC
     url: https://www.videogameschronicle.com/news/ea-is-closing-bioware-and-cancelling-the-next-mass-effect/
@@ -36,6 +36,11 @@ looking back over thirty years, which is exactly what it is. EA has not said
 whether anyone will be offered a seat at another studio.
 
 ## Where the money goes instead
+
+<figure>
+  <img src="/img/blog/bioware-shut-down-mass-effect-cancelled/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>BioWare / Electronic Arts, via the official Dragon Age: The Veilguard Steam page</figcaption>
+</figure>
 
 EA was specific about that part. Sports. Apex Legends. Battlefield. The next
 Star Wars Jedi game. Iron Man.
