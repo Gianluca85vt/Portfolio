@@ -6,6 +6,8 @@ excerpt: EA's Saudi-led buyout closed at $210 a share on 4 August. Nine days lat
 cover: /img/blog/ea-goes-private/cover.svg
 ---
 
+> **Update, 22 October 2026.** This happened. EA closed BioWare on 21 October and ended early development on the next Mass Effect, as part of around 400 job cuts across the company. [What the closure costs, and what it says about funding single-player RPGs](/blog/bioware-shut-down-mass-effect-cancelled/).
+
 Electronic Arts stopped being a public company on **4 August 2026**. A consortium led
 by Saudi Arabia's Public Investment Fund, alongside Silver Lake and Jared Kushner's
 Affinity Partners, closed a **$55 billion** buyout at $210 cash per share — the
