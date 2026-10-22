@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Substance 3D Painter 12.2 paints the baking cage">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2A1133"/>
+      <stop offset="1" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+
+  <!-- the low poly, and the cage shell offset around it -->
+  <g fill="none" stroke="#BE4C00" stroke-opacity="0.30" stroke-width="3" stroke-dasharray="10 8">
+    <polygon points="985,70 1108,142 1108,286 985,358 862,286 862,142"/>
+  </g>
+  <g fill="none" stroke="#BE4C00" stroke-opacity="0.75" stroke-width="3">
+    <polygon points="985,124 1062,169 1062,259 985,304 908,259 908,169"/>
+  </g>
+  <g stroke="#BE4C00" stroke-opacity="0.55" stroke-width="2">
+    <line x1="985" y1="70" x2="985" y2="124"/>
+    <line x1="1108" y1="142" x2="1062" y2="169"/>
+    <line x1="1108" y1="286" x2="1062" y2="259"/>
+    <line x1="985" y1="358" x2="985" y2="304"/>
+    <line x1="862" y1="286" x2="908" y2="259"/>
+    <line x1="862" y1="142" x2="908" y2="169"/>
+  </g>
+
+  <text x="90" y="185" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#BE4C00" letter-spacing="3">SUBSTANCE 3D PAINTER 12.2</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="126" font-weight="bold" fill="#FFFFFF">Paint the</text>
+  <text x="90" y="455" font-family="Helvetica, Arial, sans-serif" font-size="126" font-weight="bold" fill="#FFFFFF">baking cage</text>
+  <text x="90" y="545" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#FFFFFF" fill-opacity="0.72">Per pixel, or per sub-object with Polygon Fill.</text>
+  <text x="90" y="600" font-family="Helvetica, Arial, sans-serif" font-size="38" fill="#FFFFFF" fill-opacity="0.72">No custom-cage FBX, no round trip through Maya.</text>
+  <text x="90" y="835" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#FFFFFF" fill-opacity="0.45">backdrop — gianlucascattarella.it</text>
+</svg>

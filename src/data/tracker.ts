@@ -35,6 +35,28 @@ export type TrackedRelease = {
 
 export const tracker: TrackedRelease[] = [
   {
+    tool: 'Substance 3D Painter',
+    maker: 'Adobe',
+    version: '12.2',
+    status: 'stable',
+    date: '2026-10-21',
+    changed: [
+      'The baking cage distance can be painted directly onto the low-poly mesh, per pixel with a brush or across a whole sub-object with Polygon Fill, instead of only a global distance or an imported cage mesh.',
+      'Polygon Fill gains Rectangular Marquee, Polygon Loop and Partial Polygon Loop selection modes, plus a Visible Polygons Only option that stops a rectangular drag selecting through to the far side of the mesh.',
+      'Order Independent Transparency improves viewport rendering where low-opacity materials such as glass and ice overlap; a Texture Set Highlighter lights up the geometry belonging to a set on hover.',
+    ],
+    watch: [
+      'The painted cage is a Painter asset and does not travel in an FBX, so pipelines that bake in Marmoset Toolbag, xNormal or an in-house baker get none of it.',
+      'A painted cage is stored against the UV layout rather than the topology, so re-unwrapping an asset displaces the offsets.',
+      'As of 22 October only 80.lv had covered the release, and the Texture Set Highlighter appears in that write-up alone.',
+    ],
+    piece: '/blog/substance-painter-12-2-cage-painting/',
+    sources: [
+      { label: '80.lv', url: 'https://80.lv/articles/substance-3d-painter-12-2-lets-artists-paint-baking-cages-directly-on-models/' },
+      { label: 'Adobe Experience League', url: 'https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/release-notes/version-12-1' },
+    ],
+  },
+  {
     tool: 'RizomUV',
     maker: 'Rizom-Lab',
     version: '2027.0',
