@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-21T20:21:16.394Z
+# Games — harvested 2026-10-22T09:37:41.405Z
 
 ## Eurogamer
+
+### Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99
+Thu, 22 Oct 2026 09:10:43 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed
+
+Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99. Read more
+
+### Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn
+Thu, 22 Oct 2026 08:40:15 +0000 — https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report
+
+A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more
 
 ### EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: "We're the number one publisher in Western HD gaming"
 Wed, 21 Oct 2026 19:01:46 +0000 — https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs
@@ -52,17 +62,17 @@ Wed, 21 Oct 2026 12:22:55 +0000 — https://www.eurogamer.net/dawn-of-war-4-bloo
 
 Right, let's get one important thing out of the way first: I've played a fair bit more of Dawn of War 4 's main campaign, after my initial impressions of a single mission last year , and I think it is very good . The action is as screen-filling as ever, the Orks are a delight, and the combat director, which sees individual combatants lock onto each other with bespoke animations when groups fight in melee, remains a genuine feat of RTS engineering. I'll have much more to say on that front soon, though I'd like a little more time with it first. Read more
 
-### Even Call of Duty has a parry now and it's kind of brilliant - but do we need it in every game?
-Wed, 21 Oct 2026 11:22:21 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-parry-melee-best-moments
-
-I, for my sins, enjoy parry mechanics. I use 'parry slop' lovingly as a shorthand to refer to action games I want to play which feature parrying as a predominant mechanic. I am also a Call of Duty campaign enjoyer, and those games rarely feature any melee combat, let alone something as advanced as parrying. So, to say I was genuinely surprised to see Modern Warfare 4 bring the two together would be an understatement. Read more
-
-### Here's our second wave of Xbox Game Pass games for October 2026
-Wed, 21 Oct 2026 11:11:19 +0000 — https://www.eurogamer.net/xbox-game-pass-list-october-2026
-
-Microsoft has revealed the second batch of games coming to Xbox Game Pass this month, and there are few genuine corkers, including the console debuts of The S&eacute;ance of Blake Manor and Mouthwashing , and the addition of Final Fantasy 7 Remake Intergrade - which only arrived on Xbox earlier this year. Read more
-
 ## GamesIndustry.biz
+
+### Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours
+Thu, 22 Oct 2026 09:14:16 +0000 — https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours
+
+Xbox has revealed the pricing for the cloud gaming limits on Game Pass, announced last month . Read more
+
+### Fortnite returns to iOS in Australia after court rules Apple violated competition law
+Thu, 22 Oct 2026 08:08:08 +0000 — https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law
+
+Fortnite has returned to iOS in Australia after a court decision ruled that Apple must open iOS to third-party app stores after finding it violated competition law. Read more
 
 ### BioWare is closing after 30 years
 Wed, 21 Oct 2026 17:55:20 +0000 — https://www.gamesindustry.biz/bioware-is-closing-after-30-years
@@ -114,21 +124,26 @@ Tue, 20 Oct 2026 12:30:00 +0000 — https://www.gamesindustry.biz/players-want-t
 
 In August, Mattel announced it was forming Mattel Game Studios , a new global development organisation with a focus on making games based on its own IP. Read more
 
-### Japan Actors Union announces guidelines addressing unauthorised use of generative AI to replicate voice performances
-Tue, 20 Oct 2026 10:42:26 +0000 — https://www.gamesindustry.biz/japan-actors-union-announces-guidelines-addressing-unauthorised-use-of-generative-ai-for-voice-acting
-
-The Japan Actors Union has announced new guidelines to address the unauthorised use of generative AI to replicate voice performances. Read more
-
-### Sensor Tower data shows the yawning gap between GTA 6 and everything else
-Tue, 20 Oct 2026 10:00:57 +0000 — https://www.gamesindustry.biz/sensor-tower-data-shows-the-yawning-gap-between-gta-6-and-everything-else
-
-An analysis from Sensor Tower shows just how far ahead GTA 6 is in terms of preorders when compared with some of the biggest AAA games of the past six years. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed
+Thu, 22 Oct 2026 08:30:00 GMT — https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed
+
+Own it on a PS5 disc next year. S-GAME has announced a physical version of Phantom Blade Zero will be available next year. The developer shared the news as a stinger at the end of its new launch trailer, with the full title launch via digital means coming next week, 29th October 2026. Check it out above. When the physical launch rolls around, there'll be three editions to choose from: Standard Edition, Deluxe Edition, and an Ultimate Edition with a collectible steel case. Currently, the base game costs £54.99 / $59.99 digitally, while the Deluxe Edition is an extra £10 / $10, so I'd expect similar pricing for the boxed copies. Read the full article on pushsquare.com
+
+### Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee
+Thu, 22 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee
+
+An all-time low for an all-time great. If you’ve never played Fumito Ueda’s iconic Shadow of the Colossus , you really have no excuse now: Bluepoint’s brilliant PS4 remake of the PS2 all-timer currently costs less than a frothy coffee. The game’s 75% off in the US , making it just $4.99; in the UK it’s an even-better 88% off, meaning you can expect to pay just £3.59. No PS Plus membership is required to unlock these deals. Read the full article on pushsquare.com
+
+### All PS Plus Deluxe Members in Korea Get a Free Upgrade as Cloud Streaming Arrives
+Wed, 21 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/all-ps-plus-deluxe-members-in-korea-get-a-free-upgrade-as-cloud-streaming-arrives
+
+From Deluxe to Premium. I think Sony’s commitment to cloud gaming remains a footer for most PlayStation enthusiasts, but its PS Plus Premium solution is actually pretty good. Based on my own experiences, the image quality and latency is up there with the best services from the likes of Nvidia, and most games support it now – either ones in your digital game library or part of the PS Plus catalogue. Read the full article on pushsquare.com
 
 ### Sony s Revamped PS5 Pulse Headset Launches Alongside GTA 6, on 19th November
 Wed, 21 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-revamped-ps5-pulse-headset-launches-alongside-gta-6-on-19th-november
@@ -175,21 +190,6 @@ Wed, 21 Oct 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/10/cyberp
 
 Get the full list of updates and changes here. CD Projekt Red has announced it's got yet another Cyberpunk 2077 patch on the way, this time in collaboration with the second season of its anime TV show spin-off, Edgerunners . The developer will update the RPG to version 2.5 on 22nd October 2026, and tomorrow it will have a REDstream to share what's in store. The blog post teases "cyberware customization, a new dual-wielding playstyle, and more". Presumably, it will all link into the TV series in some way. Read the full article on pushsquare.com
 
-### Sony Said Xbox Game Pass Isn t Sustainable, Now It Seems the Gravy Train Is Almost Over
-Wed, 21 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/sony-said-xbox-game-pass-isnt-sustainable-now-it-seems-the-gravy-train-is-almost-over
-
-Sweeping changes to Microsoft subscription in 2027. Sony’s been criticised for a lot this generation, but to its credit it looks like it’ll be proved correct about Xbox Game Pass . It feels like a long time ago now, but I remember at the start of the PS5 era, the manufacturer was under intense pressure to follow Microsoft’s business model. Read the full article on pushsquare.com
-
-### Feature: 40+ PS5, PS4 Games to Buy in PS Store s Planet of the Deals Sale
-Wed, 21 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/features/40plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale
-
-Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, running from now until 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
-
-### Fans Have Done What SEGA s Scared to Do: Remaster the Craziest Yakuza Game
-Wed, 21 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/fans-have-done-what-segas-scared-to-do-remaster-the-craziest-yakuza-game
-
-Not-so-Dead Souls. If you're at all familiar with Yakuza: Dead Souls , then congratulations, you're a True Fan (capitalised) of SEGA's long-running series. Unfortunately, the frankly insane spin-off, which sees series protagonist Kiryu and his pals shoot their way through a zombie-plagued Kamurocho, has been firmly locked to the PS3 ever since it was released back in 2012. Criminal. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development
@@ -212,12 +212,12 @@ Tue, 20 Oct 2026 15:10:33 GMT — https://www.gamedeveloper.com/business/griffin
 
 A prominent game industry fund and Hollywood talent agency are teaming up to adapt games for TV and film.
 
-### RocketWerkz' C# framework 'BRUTAL' is now available to all developers
-Mon, 19 Oct 2026 20:57:38 GMT — https://www.gamedeveloper.com/programming/rocketwerkz-c-framework-brutal-is-now-available-for-all-developers
-
-Developers who want to complete control over their game's code have a new framework to lean on.
-
 ## VGC
+
+### Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important
+Thu, 22 Oct 2026 09:17:50 +0000 — https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/
+
+The Smash Bros and Kirby creator worries most games are becoming imitations of existing titles… Source
 
 ### Many staff gone from Skate studio Full Circle as part of EA layoffs
 Wed, 21 Oct 2026 18:58:50 +0000 — https://www.videogameschronicle.com/news/many-staff-gone-from-skate-studio-full-circle-as-part-of-ea-layoffs/
@@ -264,64 +264,94 @@ Wed, 21 Oct 2026 11:38:46 +0000 — https://www.videogameschronicle.com/news/foo
 
 Players will be able to try FM27 for free for 5 days later this month… Source
 
-### EA Sports FC and Pokémon Go age ratings bumped to 16 in PEGI loot box crackdown
-Wed, 21 Oct 2026 10:44:00 +0000 — https://www.videogameschronicle.com/news/ea-sports-fc-and-pokemon-go-age-ratings-bumped-to-16-in-pegi-loot-box-crackdown/
-
-The European body has begun raising age ratings to 16 for games with loot boxes… Source
-
 ## Polygon
 
-### Major Skyrim Update Officially Comes to 'Elder Scrolls Online'
-Wed, 21 Oct 2026 20:10:26 GMT — https://www.polygon.com/elder-scrolls-online-skyrim-update-free-dlc/
+### ‘Avatar: Seven Havens’ Producer Drops a Huge Clue About Korra and the Cataclysm
+Thu, 22 Oct 2026 08:00:18 GMT — https://www.polygon.com/avatar-seven-havens-korra-and-the-cataclysm/
 
-Skyrim is calling once again. The Elder Scrolls Online has officially launched Season Two: Echoes of Skyrim , bringing players back to the fan-favorite region with a fresh batch of content, including previously paid DLC that is now free for everyone who owns the base game.
+Every Avatar inherits the problems of their predecessor. That’s not altogether surprising, since each Avatar spends their life wielding all four elements to bring peace to the world and shaping it according to their own unique vision, then dying… only to be reincarnated into somebody else.
 
-### 8 Fallout 4 Replay Ideas to Make the Commonwealth Feel Brand New
-Wed, 21 Oct 2026 20:00:17 GMT — https://www.polygon.com/fallout-4-replay-ideas/
+### All party members in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-party-members-location-how-to-unlock/
 
-What do you do when you want to play Fallout 4 again, but you already know how that first firefight in Concord goes, and how every fight after it ends? You’re not alone: One Reddit user with more than 1,000 hours in the game asked the same thing after trying every build and mod they could think of. Hundreds of hours in, even a world this big can start to feel like a to-do list — another settlement under attack, another warehouse full of raiders, another supply run. Once you’re running the Minutemen, Preston Garvey’s quests do start cycling back through places you’ve already cleared.
+Meeting new party members in Final Fantasy Resonance is part of the journey. As in other games in the series, you start with only a few characters who team up to go on an adventure, but as they progress, they make friends who join the group. Although you can only use up to four characters in combat, unlocking all available party members broadens your strategic options.
 
-### Does 'Clayface' Have a Post-Credits Scene? Here's Your Spoiler Free Answer
-Wed, 21 Oct 2026 19:30:17 GMT — https://www.polygon.com/clayface-post-credits-scene-no-spoilers-guide/
+### All unlockable Visions in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-visions-locations-how-to-unlock/
 
-Based on a story by horror heavyweight Mike Flanagan and directed by James Watkins, Clayface is the latest entry in James Gunn's and Peter Safran's DC Universe , which kicked off with Superman in 2025 and has continued on somewhat unevenly since. Like 2019's Joker , this is a movie about a Batman villain, but without Batman in it.
+Visions in Final Fantasy Resonance are the material form of memories of heroes, either from the world where the story takes place or from other dimensions. While most of them are protagonists from other Final Fantasy games, there are a few original characters in the roster as well. Unlocking Visions is crucial to creating the perfect builds for each character.
 
-### 'Fallout 4' Is Officially Making A Comeback A Decade After Release
-Wed, 21 Oct 2026 19:23:32 GMT — https://www.polygon.com/fallout-4-dlc-expansion-fever-dreams-fathomless-command-overdrive-what-are/
+### Where to find all ancient equipment in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-ancient-equipment-upgrade-locations/
 
-Bethesda just gave everyone a few good reasons to boot up Fallout 4 again — even if you've already racked up hundreds of hours in the post-apocalyptic RPG and its many expansions. A fresh trio of must-play releases pushes the series into totally new territory.
+As you progress further in Final Fantasy Resonance , you'll start stumbling upon ancient items , whether they're types of armor or weapons. At first, their stats will be laughably low (literally sitting at one for their respective stats), but certainly there's more to these equips that meets the eye. Yes! You can upgrade the ancient items into some of the best equips in the game , provided you can take on a few tough enemies.
 
-### Diablo: Unbound Officially Announced for 2027 Release
-Wed, 21 Oct 2026 19:14:05 GMT — https://www.polygon.com/diablo-unbound-announcement-blizzard-glass-cannon-games/
+### How to find Mysidia in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-mysidia-location-how-to-find/
 
-Just weeks after the surprise reveal of Diablo 5 at BlizzCon 2026 , Blizzard Entertainment has another Diablo adventure in the works: a "dungeon battler" titled Diablo: Unbound . Developed by Glass Cannon Unplugged, the new Diablo board game was revealed Wednesday during Spiel Essen, the largest board game event in the world.
+Finding Mysidia , the Magiapolis, is part of Final Fantasy Resonance 's campaign. As you start Chapter 5, "Scars of Time," Rainn and his group must go to the legendary city, but no one knows its location. So, your goal is to locate Mysidia using the power of technology — and some patience.
 
-### James Gunn's Genre-Bending New Superhero Movie Is a Total Disaster
-Wed, 21 Oct 2026 19:00:17 GMT — https://www.polygon.com/clayface-dc-2026-review/
+### Where to find and use Adamantite in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-adamantite-use-locations-weapons/
 
-You know those so-so superhero movies where the villain is kind of dull and two-dimensional, but you can get through it because you like the hero so much? Think of Iron Man 2 or Thor: The Dark World or something like that. Now imagine one of those movies without the beloved superhero, and you’ll have a pretty good idea of what it’s like watching DC ’s terrible new Clayface movie, which tells an underwhelming story filled with uninteresting characters.
+Adamantite is a key item in Final Fantasy Resonance that you can find in mid- and end-game areas. The game doesn't explicitly tell you how to use these items, but with the help of a master weaponsmith, you can trade them to make powerful equipment for your party members.
 
-### DC Reveals Big Wonder Woman Plans for 2027
-Wed, 21 Oct 2026 18:36:56 GMT — https://www.polygon.com/wonder-woman-new-comic-authors-film-update/
+### How to get Sephiroth's Vision in Final Fantasy Resonance
+Thu, 22 Oct 2026 04:01:17 GMT — https://www.polygon.com/final-fantasy-resonance-sephiroth-vision-where-to-find-boss-fight/
 
-Next year will be huge for one member of DC's Trinity, and we aren't talking about Superman . DC is calling 2027 the " Year of Wonder ," which will be an "unforgettable year of stories from celebrated comic book creators." With Tom King and Daniel Sampere’s somewhat controversial Wonder Woman run coming to an end in December , we finally know what’s next for the character in the short term.
+As you play Final Fantasy Resonance , you may be wondering where Sephiroth's Vision is. You can see it in the menu, greyed out, and certainly the iconic antagonist from Final Fantasy 7 wouldn't just be found in a shrine like the rest of the Visions from other games. Well, you're right. Sephiroth is somewhat hidden, though to unlock him, you'll need to actually defeat him as a boss.
 
-### Stranger Than Heaven Lead Says the Game Is More Serious Than Past Yakuza Games
-Wed, 21 Oct 2026 18:27:20 GMT — https://www.polygon.com/stranger-than-heaven-director-comedy-funny/
+### The 10 best alchemy cards in Magic: The Gathering, ranked
+Wed, 21 Oct 2026 22:59:28 GMT — https://www.polygon.com/best-alchemy-cards-magic-gathering-mgt/
 
-Stranger Than Heaven is Ryu Ga Gotoku Studio's most ambitious action-adventure game yet, following protagonist Makoto Daito's life in five Japanese cities over the course of five decades. I came away from a recent half-day preview of the game impressed by its lush urban environments as well as its compelling depiction of an evolving society. But having played most of RGG's Yakuza and Like a Dragon games, I did find myself wondering if Stranger Than Heaven would also incorporate their distinctive (and delightful!) sense of humor.
+Love it or hate it, Alchemy fundamentally expanded Magic ’s mechanical lexicon. It proved a digital platform that could just as easily test ideas physically impossible on cardboard as much as it simulated paper play. Drafting the Power Nine from thin air, altering card stats permanently across zones, and directly patching first-player win-rate disparities horrified MTG purists, yet it also gave digital players a hyper-evolving metagame that embraced software's speed.
 
-### Life Is Strange Creator Officially Comments on State of Upcoming TV Adaptation
-Wed, 21 Oct 2026 18:03:57 GMT — https://www.polygon.com/life-is-strange-game-creator-praises-amazon-tv-show/
+### Baldur’s Gate 3 Returns With New Official Sequel Series
+Wed, 21 Oct 2026 22:09:17 GMT — https://www.polygon.com/baldurs-gate-3-sequel-series-hbo-streaming/
 
-Following the news that filming has wrapped on Amazon's upcoming Life is Strange adaptation , the show has received a major endorsement from the original game 's staff. Michel Koch, co-creator and director of the 2015 game, recently visited the set and came away with only glowing things to say about the new take on the beloved story.
+Baldur's Gate 3 remains one of gaming's most enduring Dungeons & Dragons role-playing games of all time, thanks to its memorable characters, branching story and deep player choice, and extremely generous support from developer Larian Studios. While Larian isn't working on the next Baldur's Gate game — the studio is focusing on a different project, Divinity — the story of Baldur's Gate 3 will continue across multiple new formats.
 
-### BioWare Officially Shutting Down and New Mass Effect Canceled
-Wed, 21 Oct 2026 17:23:18 GMT — https://www.polygon.com/ea-bioware-closure-mass-efffect-5-canceled/
+### Demon Slayer: Infinity Castle 2 Rumored Release Date Discovered
+Wed, 21 Oct 2026 21:08:13 GMT — https://www.polygon.com/demon-slayer-infinity-castle-2-movie-release-date-2027/
 
-Electronic Arts is making big cuts, including laying off staff and shutting down storied developer BioWare, the studio behind the Mass Effect and Dragon Age franchises. The closure of BioWare means that the next Mass Effect game, colloquially known as Mass Effect 5 , which was announced in 2020 , has been canceled.
+While there are still a few months to go before 2026 ends, anime fans know that they have to wait until 2027 for the biggest franchises to release their next blockbusters. At the top of most watchlists is Demon Slayer: Infinity Castle 2 , the sequel to the highest-grossing anime movie of all time, which still does not have a confirmed release window.
 
 ## PC Gamer
+
+### Cooler Master HAF II 500 review
+Thu, 22 Oct 2026 08:48:50 +0000 — https://www.pcgamer.com/hardware/pc-cases/cooler-master-haf-ii-500-review/
+
+I first spotted the HAF II 500 at Cooler Master's HQ in Taiwan. It wasn't the case that first caught my eye then, it was the massive fan on a stand in front of it. A spinning goliath measuring a mighty 220 mm, of which there are not one, but two stuffed in the front of the HAF II 500. If you want more airflow over your core components—you got it. The HAF II is more wind tunnel than computer chassis. Those large fans drive an immense amount of airflow over the motherboard, GPU, VRM and anything else caught in their backdraft. It reminds me of the Havn BF 360 in many ways—another PC case that focuses on airflow, albeit with 180 mm fans—right down to the scoop in the front to keep cool air flowing towards the graphics card. They're similarly wide, too. The HAF II 500 is not just a big beast. It's got the brawn and the brains. There's a space-saving fan hub smartly integrated into the rear of the case, alongside ample cable management options. The front includes a couple ways to keep your build looking tidy, too, including a dual-GPU support bracket and sliding cable management cover. At $200 / £250 , these fans and extra features come at a high cost. That's one of few points against this case, but it's a big one. It's a prime choice for anyone worried about overheating components, but for most, a more affordable PC case will suffice nearly as well. Buy if… ✅ You want all the airflow: This thing is mighty for airflow, courtesy of three Mighty40 fans. Two 220 mm in the front, one 
+
+### The next Mass Effect would have had 'a level of autonomy and choice that no other game has been able to match', according to BioWare veteran
+Thu, 22 Oct 2026 01:14:40 +0000 — https://www.pcgamer.com/games/mass-effect/the-next-mass-effect-would-have-had-a-level-of-autonomy-and-choice-that-no-other-game-has-been-able-to-match-according-to-bioware-veteran/
+
+A developer working on Mass Effect 4 has spoken up about BioWare's plans for the now-canceled RPG. Tony de Waal was cinematic supervisor at the now shuttered studio. He joined the team "29+ years ago", left for a spell shortly after the launch of Mass Effect 2, and then returned in 2021 to work on Dragon Age: The Veilguard. According to de Waal, there were "50-ish" people working on Mass Effect 4 before the studio closure. "I was one of the lucky ones who stayed with BioWare to start on the next Mass Effect [after The Veilguard], where I believe we were making something special: a level of autonomy and choice that no other game has been able to match," de Waal wrote on LinkedIn. "We saw what Larian and CD Projekt were bringing to the table with their latest offerings, and started down a path to bring Mass Effect to the next level while remaining true to the Trilogy." De Waal also described some of the challenges BioWare faced during the development of The Veilguard, which was the studio's second project made using EA and DICE's Frostbite engine. "It was a herculean effort that tested the limits of even my workaholic mindset, and I'm proud of the level of polish we were able to pull off in the Frostbite engine. "Seriously, you have no idea the craziness going on under the hood of that game to make a variable player character work across 3+ hours of cinematics, and the number of conditions to account for in the scenes towards the end of the game." BioWare's closure comes as par
+
+### Can you identify the horror game by its horrors?
+Thu, 22 Oct 2026 01:09:04 +0000 — https://www.pcgamer.com/games/can-you-identify-the-horror-game-by-its-horrors/
+
+You'd think someone who still screams at the sight of the Tomb Raider T-Rex wouldn't be so into horror games, but I can't help myself; I love 'em. I'm always down for a good inhuman gurgle or unnatural skitter across the floor. Creature with too many eyeballs? Sign me up. Inordinate number of hands? I'm on my way. More quizzes! (Image credit: Future) Want to keep testing your knowledge of gaming trivia? We've got loads more PC Gamer quizzes , on everything from healthbars to weird currencies to absurd patch notes. That enthusiasm for terror is why I have the nervous system of a small woodland creature, but also why I can rattle off a list of favorite ghosts and ghouls like they're important historical figures. It's the perfect special interest for a PC Gamer quiz, so today I'm asking: How many horror games can you identify from a screenshot of one of their resident monstrosities? You've got 12 minutes to face your fears and name as many games as you can from a glimpse of their ghosts, ghouls, and other unspeakable horrors. Let us know how you did in the comments, and then tell us about some of your favorite nightmare encounters. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### Holy crap, they're making Serious Sam: The Third Encounter
+Thu, 22 Oct 2026 00:12:03 +0000 — https://www.pcgamer.com/games/fps/holy-crap-theyre-making-serious-sam-the-third-encounter/
+
+It took almost 25 years to happen, but Serious Sam: The Third Encounter is finally, actually happening. Croteam and Devolver Digital revealed today that a proper new game in the Serious Sam series is now in the early stages of development. Serious Sam: The Third Encounter will actually be the seventh mainline game in the series, thanks to its oddball naming scheme and twisted timeline. Here's how the whole thing breaks down: Serious Sam: The First Encounter (2001) Serious Sam: The Second Encounter (2002) Serious Sam 2 (2005) Serious Sam 3: BFE (2011) Serious Sam 4 (2020) Serious Sam: Siberian Mayhem (2022) I won't pretend to understand this messy continuity, except that each game is sort of a chapter in the story of Serious Sam, which honestly isn't so much a 'story' as it is an excuse to shoot friggin' huge numbers of guys and make the occasional phone call to an all-conquering intergalactic menace named Mental. That said, Croteam wants everyone to know that The Third Encounter picks up where The Second Encounter left off, so I hope you were paying attention to how it wrapped up 24 years ago: "Not a side story. A true continuation. This time Sam is going to strike Mental's Horde at its heart, and he’s deadly serious about it." What matters, though, is that this is seriously Serious Sam: "The only thing standing between you and thousands of enemies is your weapon, and the only thing that matters is who pulls the trigger first." That's what I'm here for, baby. I can't help won
+
+### Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'
+Wed, 21 Oct 2026 22:26:41 +0000 — https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/
+
+On October 20, the CEO for "AI storytelling" company Nura Studios posted a now-deleted tribute to Amanita Design's 2009 cult classic Machinarium. I saw a glimpse of the video while it was still live and it was undeniably AI generated, but that probably goes without saying given its provenance. It wasn't good, but then: Amanita Design is one of the most visually distinctive studios in the world. The Czech-based team is also among the most assertive, if its response to Nura Studios' video is anything to go by. "The audacity to feed Machinarium assets to AI, make AI slop animations, and call it a love letter…," the studio tweeted of the AI tribute. "Love letters are supposed to be handwritten. This looks disgusting and has nothing to do with us or our craft." Ouch. Under these circumstances a studio would normally politely ignore the clumsy advances of a mob like Nura Studios, whose mission is "to empower creators with a human-led AI platform to bring high-quality stories to life", and whose website looks like this: (Image credit: Nura Studios) So it's gratifying to see Amanita push back. Nura Studios CEO Sylvio Drouin did show remorse. "We are so sorry for the post we did," Drouin tweeted. "We thought it was an homage to your amazing work and I already deleted the posts, again please accept our sincere apologies." Amanita Design has yet to publicly accept the apology. Its next game, Machinarium 2 , was announced earlier this month. ]]>
+
+### CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'
+Wed, 21 Oct 2026 21:43:06 +0000 — https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/
+
+BioWare was a legendary studio, and its shocking closure today has inspired numerous tributes from fans and fellow game developers alike. One of the most notable came from CD Projekt joint CEO Michał Nowakowski, who credited the studio for the big role it played in bringing The Witcher to life. It's hard to overstate the impact BioWare had on computer RPGs, from effectively resurrecting the genre in the 1990s with Baldur's Gate through the creation of Neverwinter Nights, Knights of the Old Republic, Dragon Age, and Mass Effect. But less well known, outside of RPG fan circles at least, is that its influence goes far beyond that. CD Projekt, which is arguably the contemporary equivalent of BioWare, literally got started with BioWare games. The relationship began when CD Projekt approached BioWare and Interplay about localizing Baldur's Gate for Poland; it got the gig, and the Polish release became a major hit. A subsequent deal to localize Baldur's Gate: Dark Alliance fell apart when Interplay did, but CD Projekt's relationship with BioWare held firm. "Bioware has been a massive part of CDPR history," Nowakowski wrote on X. "We befriended them when localizing and selling Baldur’s Gate games in Poland, Czech, and Slovakia. And later they were great help when lending us their engine for Witcher 1, sharing their wisdom and even giving us a spot at their booth at E3." Bioware has been a massive part of CDPR history. We befriended them when localizing and selling Baldur’s Gate games
+
+### Modern Warfare 4 players declare 'broken' on DMZ perk that lets you self-revive after full death
+Wed, 21 Oct 2026 21:36:47 +0000 — https://www.pcgamer.com/games/call-of-duty/modern-warfare-4-players-declare-broken-on-dmz-perk-that-lets-you-self-revive-after-full-death/
+
+Call of Duty: Modern Warfare 4's big extraction mode DMZ has been out for one day, so it's a bit early to make sweeping declarations about balance, but even I'm raising an eyebrow at an operator trait that the internet is already calling broken. That's "broken" in the "so overpowered it shouldn't exist" way, not the "literally doesn't work way," though when you see Possum in action, it does give the impression of a bug. Possum: Allows a self revive into last stand from death, storing health to maximum, once per match (Image credit: Activision Blizzard) As someone who's been around the extraction shooter block, it's a very powerful trump card. It doesn't take that long to get, either: If you beeline straight to it on the Warfighter skill tree, you can do it in a handful of matches. To be clear, this is not the same as reviving yourself during the DBNO (down but not out) state, which anyone can do from level 1: Possum means you can be a cold, dead, lootable body, and then suddenly spring back to life. I'm not surprised folks are panicky about the prospect of playing around lobbies full of Possum players. There's already one clip circulating (per xFleXy_ on X) of someone fully killing a player, turning their back to fight other nearby enemies, then getting shot in the back by the guy they just killed. Umm I kill & finish the guy in the white skin and then he suddenly pops up and kills me??? @InfinityWard @CallofDutyCM https://t.co/XFrgD6MRCI October 20, 2026 That's the nightmare
 
 ### It gives me great nerdly joy that the Next Fest demo on Steam's 100 most-played games list is a shopkeeping sim
 Wed, 21 Oct 2026 20:06:33 +0000 — https://www.pcgamer.com/games/sim/it-gives-me-great-nerdly-joy-that-the-next-fest-demo-on-steams-100-most-played-games-list-is-a-shopkeeping-sim/
@@ -341,49 +371,19 @@ Following the shocking closure of legendary RPG studio BioWare , Electronic Arts
 ### RIP BioWare: EA has shut down the legendary RPG developer
 Wed, 21 Oct 2026 17:16:53 +0000 — https://www.pcgamer.com/gaming-industry/rip-bioware-ea-has-shut-down-the-legendary-rpg-developer/
 
-BioWare is closing, and the next Mass Effect game is cancelled. The legendary RPG studio was founded in 1995 by doctors Ray Muzyka, Greg Zeschuk and Augustine Yip, and was responsible for a number of classics, including the original Baldur's Gate games , Neverwinter Nights, Jade Empire, Star Wars: Knights of the Old Republic, and more recently, the Dragon Age and Mass Effect series. https://t.co/TicSujMWps October 21, 2026 "What generations of BioWare built together is something to celebrate and remember," said the studio in a statement published on social media. "These games became so much more because you played them, debated your choices, fell in love with the characters, and made these worlds your own." After establishing itself in the PC gaming canon in the '90s and early 2000s, BioWare was acquired by Electronic Arts in 2007, and became a mainstream RPG powerhouse with the release of the Mass Effect trilogy and first Dragon Age games. A 2017 follow-up to the Mass Effect trilogy, Andromeda, wasn't as well-received as the first three games and the studio's detour into live service shooters, Anthem, failed to catch on. Anthem is widely considered one of the great management blunders of the live service gold rush, and its servers were finally shut down for good earlier this year. BioWare's most recent game, 2024's Dragon Age: The Veilguard , "underperformed," according to EA. Last year, it was announced that EA would be acquired by a consortium made up of Saudi Arabia's Pub
+BioWare is closing, and the next Mass Effect game is cancelled. The legendary RPG studio was founded in 1995 by doctors Ray Muzyka, Greg Zeschuk and Augustine Yip, and was responsible for a number of classics, including the original Baldur's Gate games , Neverwinter Nights, Jade Empire, Star Wars: Knights of the Old Republic, and more recently, the Dragon Age and Mass Effect series. https://t.co/TicSujMWps October 21, 2026 "What generations of BioWare built together is something to celebrate and remember," said the studio in a statement published on social media. "These games became so much more because you played them, debated your choices, fell in love with the characters, and made these worlds your own." After establishing itself in the PC gaming canon in the '90s and early 2000s, BioWare was acquired by Electronic Arts in 2007, and became a mainstream RPG powerhouse with the release of the Mass Effect trilogy and first Dragon Age games. A 2017 follow-up to the Mass Effect trilogy, Andromeda, wasn't as well-received as the originals, and the studio's 2019 detour into live service shooters, Anthem, failed to catch on. Anthem is widely considered one of the great management blunders of the live service gold rush, and its servers were finally shut down for good earlier this year. BioWare's most recent game, 2024's Dragon Age: The Veilguard , also "underperformed," according to EA. Last year, it was announced that EA would be acquired by a consortium made up of Saudi Arabia's 
 
-### Nearly $1 million worth of PSA-graded Pokémon and other TCG have been stolen right outside PSA's headquarters
+### Nearly $1 million worth of PSA-graded Pokémon and other trading cards have been stolen right outside PSA's headquarters
 Wed, 21 Oct 2026 16:41:42 +0000 — https://www.pcgamer.com/gaming-industry/nearly-usd1-million-worth-of-psa-graded-pokemon-and-other-tcg-have-been-stolen-right-outside-psas-headquarters/
 
-I don't send my Pokémon cards off to PSA to get graded. I'm too emotionally attached to my cards to ever sell them, so paying the hefty fee for grading doesn't really make sense for me, plus I'm a naturally anxious person. So when I heard the latest news of almost $1 million worth of TCG being stolen right outside PSA's headquarters my position was cemented. Police in Santa Ana, California have confirmed the theft of an estimated $963,000 worth of TCG after several card collectors were notified that a truck carrying their collections had been burglarised back in mid-October. (Image credit: The Pokémon Company) "The pallets contained various trading cards, including, but not limited to, sports cards and Pokémon cards," the SAPD explained to The Athletic . "The exact value of the stolen items has not yet been determined, pending further investigation. The investigation remains ongoing. Anyone with information regarding this incident is encouraged to contact the Santa Ana Police Department." But what exactly happened, and how did two pallets holding around 100 packages get stolen? Well, according to reports a FedEx driver left their truck unattended outside PSA's Santa Ana office for around 60 to 90 minutes. This left enough time for the thieves to break off the lock to the truck and make away with all the packages. (Image credit: The Pokémon Company) FedEx released a statement to ABC7 reassuring customers that "the security of our customers' shipments is a top priority, and we 
-
-### GOG taken offline for maintenance in wake of PHP security emergency
-Wed, 21 Oct 2026 16:20:08 +0000 — https://www.pcgamer.com/software/security/gog-taken-offline-for-maintenance-in-wake-of-php-security-emergency/
-
-We're back online. Thanks for your patience! Your DRM-free library is right where you left it 💜 — @gog.com ( @gog.com.bsky.social ) 2026-10-21T19:28:09.139Z Original story: The reveal of critical vulnerabilities affecting the PHP scripting language used in web development have led a number of major websites and services to go offline today as a precaution while they apply security fixes. DRM-free game store GOG announced at 8 am Pacific that its site and launcher, GOG Galaxy, would be offline for "a couple of hours" for maintenance. The company did not say the cause, but it is not hard to speculate. We’re temporarily taking GOG offline for maintenance for a couple of hours. GOG GALAXY will also be offline during this time. We apologize for the inconvenience and appreciate your patience! October 21, 2026 Numerous other outages are being reported this morning as security teams scramble to protect their websites and services. The government of Finland took down websites as a precaution, for instance, and (perhaps less importantly) we're hearing from players that Final Fantasy 14 login servers are down. ]]>
-
-### US government leaks the best GTA 6 promo yet: Pißwasser is real
-Wed, 21 Oct 2026 16:12:33 +0000 — https://www.pcgamer.com/games/grand-theft-auto/us-government-leaks-the-best-gta-6-promo-yet-pisswasser-is-real/
-
-Now this is a marketing campaign I can get behind: It looks very much like Rockstar is teaming up with Florida-based brewery Tripping Animals Brewing to bring a trio of Grand Theft Auto 6 -themed beers into the real world. That's right— Pißwasser is finally real. The discovery was made by Grand Theft Auto site GTAVice.net , which found labels for Pißwasser, Patriot, and No Mames Vice City—a re-branding of Tripping Animals' No Mames Lager—in the US Alcohol and Tobacco Tax and Trade Bureau database . Sure enough, they're in there, although I had to use Hopgrail to dig up the labels: The No Mames Vice City label was approved on October 9, while the Pißwasser and Patriot labels followed on October 15. So what's in the cans? NO MAMES VICE CITY (Image credit: Rockstar/Tripping Animals Brewing) 6% ABV American lager This looks to be a re-brand of Tripping Animals' No Mames beer, so here's what the brewery's website has to say about it: "Bright gold and effortlessly crisp, No Mames blends flaked corn and traditional malts for a smooth, dry lager with subtle floral hops and a hint of sweetness. Clean, crushable, and brewed for easy drinking, anytime." Patriot and Pißwasser are not yet on the Tripping Animals site, so for those we will go with what we can pull from the TTB database, which frankly isn't much: PATRIOT BEER (Image credit: Rockstar/Tripping Animals Brewing) 4.2% ABV American lager A very American lager, the GTA Fandom Wiki says Patriot Beer is possibly inspired by Sam Adam
-
-### Black Friday gaming mouse deals
-Wed, 21 Oct 2026 16:11:02 +0000 — https://www.pcgamer.com/hardware/gaming-mice/black-friday-gaming-mouse-deals/
-
-Black Friday is on its way and, while I wouldn't expect to see graphics cards dropping below MSRP or memory suddenly becoming a sensibly priced, I am feeling rather more positive about the posibility of genuine Black Friday gaming mouse deals cropping up. We've had a slew of new mice over the past year, and that means last years still-excellent rodents may well be on sale for a song over the November period. Here's hoping. 👉 All our favorite Black Friday PC gaming deals 👈 We're PC gamers, so the best gaming mice are our bread and butter. We spend a lot of time through the year testing the latest mice and the latest tech, so check out our guide to get an idea of what might be the right one for you. In the meantime, though, there are lots of tempting options below. Where to find the best Black Friday gaming mice deals Amazon: All the gaming mice you could ever want Walmart: Speedy gaming mice, superb savings Best Buy: Big name meeces with big value discounts Newegg: Big savings on big brand gaming mice PC Gamer has reviewed 1336 PC gaming goodies since 2020 Latest Reviews Score Reader view " width="100%" height="140" style="border: none; width: 100%; max-width: 1024px; margin: 0 auto; display: block; background: transparent; transition: height 0.3s ease-out;" title="PC Gamer Gaming Mice Widget"> Black Friday gaming mouse deals G203 | Wired: was $34.99 now $26.99 This rodent is perfect as a starter or low-budget option, with a list of useful features like 6 programmable button
-
-### Don't get hit with the BIOS update hammer for COD MW4 like my colleagues - here's how to ensure you can play multiplayer and DMZ
-Wed, 21 Oct 2026 15:55:30 +0000 — https://www.pcgamer.com/games/call-of-duty/dont-get-hit-with-the-bios-update-hammer-for-cod-mw4-like-my-colleagues-heres-how-to-ensure-you-can-play-multiplayer-and-dmz/
-
-If you're itching to get your pupils up against Call of Duty: Modern Warfare 4 on PC at launch on Friday, you should probably double-check your system is up to date. We've already had a couple of colleagues here flung against the wall of requirements with the new COD, requiring a BIOS update to play online. That's because Activision explains that both TPM 2.0 and Secure Boot are required to play any online game mode (multiplayer or DMZ). More specifically, though, you must have a new enough version of PTT (Platform Trust Technology) for Intel systems, and fTPM (Firmware Trusted Platform Module) for AMD ones. Secure Boot and TPM requirements themselves are part of the toolkit that many modern online games use to keep cheaters out. We've seen requirements for both , for instance, to play Battlefield 6. Secure Boot is what gives your firmware and kernel themselves signatures to ensure they are legit, and the TPM helps verify that everything boots up in order with no extra, malicious software or firmware thrust into the boot process. Intel PTT and AMD fTPM are implementations of TPM. The key confusion with COD MW4 is that just having Secure Boot and TPM 2.0 doesn't seem to be enough on its own—old versions of PTT or fTPM won't work. Activision says that, for Intel systems , if your TPM version is some form of 302.1.2.X or 303.1.2.X (where X can be anything), your motherboard may require a firmware update. For AMD ones , 3.X.0.X versions aren't compatible and will require a firmwa
-
-### AMD has shipped FSR 4.1 early for RX 6000 graphics cards, and it's coming to Ryzen APUs, Vulkan, and Xbox too
-Wed, 21 Oct 2026 15:35:07 +0000 — https://www.pcgamer.com/hardware/graphics-cards/amd-has-shipped-fsr-4-1-early-for-rx-6000-graphics-cards-and-its-coming-to-ryzen-apus-vulkan-and-xbox-too/
-
-If you are rocking an AMD graphics card or AMD laptop/handheld, there's good news. Not only will AMD be adding FSR 4.1 support to APUs and Xbox products in the future, but as of this week, it's also been added to Radeon RX 6000-series graphics cards. FSR is effectively AMD's answer to Nvidia's DLSS upscaling solution, and the latest generation (which has been supported on RX 7000-series cards since earlier this year ) offers performance and quality increases. RX 6000-series support was originally planned for 2027, but this week's announcement also declared that FSR 4.1 will be coming to all Gorgon Halo and Strix Halo chips for mini desktops and mobile workstations, all Gorgon and Strix Halo Ryzen 9 laptop chips, and all Z2 Extreme and Z2A handheld chips. AMD also announced FSR 4.1 would be coming to Xbox, and will be optimised for Asus ROG Xbox handhelds (though one might assume that based on Z2A and Z2E support). Jack Huynh, the SVP & GM of Computing & Graphics at AMD, took to X to talk a little bit more about it , announcing that AMD powers "over a billion gaming devices around the world" and that "we're still building". Huynh says FSR Redstone is now in over 400 games on Radeon 9000-series graphics cards, and that Ray Regeneration (a denoiser like DLSS's Ray Reconstruction) is coming to more games. FSR 4 will be coming to Vulkan, too. Think of Vulkan like a non-proprietary version of Microsoft's API, DirectX 12. This is what Linux machines use (including the Steam Deck), a
-
-### 'You've taken us free cash flow negative as a company, so congratulations': Amazon has plenty of Nvidia GPUs, but not enough energy to power its AI boom
-Wed, 21 Oct 2026 15:09:46 +0000 — https://www.pcgamer.com/software/ai/youve-taken-us-free-cash-flow-negative-as-a-company-so-congratulations-amazon-has-plenty-of-nvidia-gpus-but-not-enough-energy-to-power-its-ai-boom/
-
-Nvidia's RTX 5090 GPU is 'unavailable' from many reputable retailers, approaching an asking price of $9,000 if you happen to track one down on Newegg's marketplace of resellers of dubious virtue. The AI boom is at least in part to blame for this, encouraging team green to shift production resources away from consumer hardware. However, business customers like Amazon are running into logistical issues that just add insult to injury for PC gamers left out in the cold. Amazon Web Services took delivery of approximately $5 billion of Nvidia GB300 racks in August alone, according to an email seen by Business Insider . Reportedly, the cloud company has also accepted $3 billion worth of hardware each month since. The kicker is that, despite having all of this kit lined up to install in its data centres, AWS does not yet have enough energy to power everything. This is one reason AWS's free cash flow dropped from $53 billion in Q2 of 2024 , to $7.6 billion during Q2 2026 . Free cash flow is now in the red according to a leaked recording of an internal staff meeting last month; AWS CFO John Felton joked to the executive leading the company's AI infrastructure, Prasad Kalyanaraman, "You've taken us free cash flow negative as a company, so congratulations." This friendly joke can only hide so much pain though. Obviously, AWS is no stranger to building data centres, but at this speed and scale, the company is having to juggle multiple different infrastructure timelines amid a whole lot of
-
-### I've played 2 of Dawn of War 4's campaigns, and they're everything I hoped they'd be
-Wed, 21 Oct 2026 12:00:00 +0000 — https://www.pcgamer.com/games/rts/ive-played-2-of-dawn-of-war-4s-campaigns-and-theyre-everything-i-hoped-theyd-be/
-
-An RTS is only as good as its campaign. Sure, it's the competitive multiplayer side of things that gives these games their long tail—StarCraft 2 has been the dominant RTS for 16 years for this very reason—but the bulk of initial players will first be seduced by the promise of a killer singleplayer romp. In this regard, Warhammer 40,000: Dawn of War 4 has the juice. I've had a couple of weeks to play around with two of the four campaigns—orks and Adeptus Mechanicus—along with the shorter, two-mission prologue featuring the Astra Militarum, and I've been able to set aside my fear that we'd be getting a repeat of Dawn of War 3's issues. Folks, I am loving these campaigns. Lads, lads lads (Image credit: Deep Silver) Out of the prologue, I signed up with the orks. The greenskins are a good first pick, not just because this campaign comes first in the chronology, but because it's the most straightforward faction. Their units and buildings are the cheapest in the game, and it only takes a few minutes to recruit a basic army right out of the gate. If you just want to smash shit up, the orks are your guys. This is not to say that you'll be steamrolling everything. You can lose that army even quicker than you recruited it if you just charge in blind. Orks might not be the brightest xenos in the universe, but their ruthlessness and rage is tempered by low cunning—something the campaign narrative leans into. If you want to make the most out of your green tide of devastation, you'll want 
+I don't send my Pokémon cards off to PSA to get graded. I'm too emotionally attached to my cards to ever sell them, so paying the hefty fee for grading doesn't really make sense for me, plus I'm a naturally anxious person. So when I heard the latest news of almost $1 million worth of TCG being stolen right outside PSA's headquarters my position was cemented. Police in Santa Ana, California have confirmed the theft of an estimated $963,000 worth of TCG after several card collectors were notified that a truck carrying their collections had been burglarised in mid-October. (Image credit: The Pokémon Company) "The pallets contained various trading cards, including, but not limited to, sports cards and Pokémon cards," the SAPD explained to The Athletic . "The exact value of the stolen items has not yet been determined, pending further investigation. The investigation remains ongoing. Anyone with information regarding this incident is encouraged to contact the Santa Ana Police Department." According to reports, a FedEx driver left their truck unattended outside of the Santa Ana office of PSA, a collectibles grading company, for around 60 to 90 minutes. This left enough time for the thieves to break off the lock to the truck and make away with all the packages. (Image credit: The Pokémon Company) FedEx released a statement to ABC7 reassuring customers that "the security of our customers' shipments is a top priority, and we are working with local law enforcement in their investigatio
 
 ## GameSpot
+
+### EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened
+Wed, 21 Oct 2026 18:20:23 +0000 — https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/
+
+When EA was acquired by Saudi Arabia's Public Investment Fund, many expected major changes at the gaming company, including layoffs and game cancellations, among other shakeups. Now, those have begun, with EA on October 21 confirming a series of significant changes impacting the people and teams that worked on many storied franchises. EA also teased some of what's to come in the future, including a joint project between Respawn and DICE. Here's a rundown of all the big EA news today. Layoffs EA said in a statement that it made the "difficult" choice to lay off staff, and Bloomberg reported that the cuts will impact about 400 people. Affected staffers will be treated with "care and respect," EA said, and some impacted employees may have a chance to get a different job within EA. Alongside the BioWare closure noted below, staff at Ripple Effect (Battlefield), Maxis (The Sims), and Full Circle (Skate) have been impacted, as noted by Vertical Slice . BioWare closes and new Mass Effect axed BioWare, the esteemed Canadian developer founded 30+ years ago, is shutting down. The studio employed fewer than 100 people, Bloomberg reported, and the team was working on the next Mass Effect. That game is now canceled. "BioWare is a legendary studio that helped define the role-playing genre, and we do not take this decision lightly," EA said. Developers at BioWare had feared their jobs were at risk after PIF announced that it would buy EA. BioWare is known, in part, for making pro-diversity 
 
 ### Star Wars Battlefront 3 Reportedly In Development By EA s Top Shooter Studios
 Wed, 21 Oct 2026 19:16:31 +0000 — https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/
@@ -395,15 +395,10 @@ Wed, 21 Oct 2026 19:10:33 +0000 — https://www.gamespot.com/articles/xbox-cloud
 
 Microsoft has revealed how much it will charge people for using the Xbox Cloud Gaming service without a Game Pass membership. Right now, this is available only to Xbox Insiders, but that's a free program that anyone can join . Also notable is that the prices below are described as "introductory launch pricing," and that wording suggests the prices may change in the future. Microsoft is calling these "cloud playtime packs." Cloud playtime packs pricing: 10 hours for $4 25 hours for $8 50 hours for $12 Anyone who buys these cloud playtime packs will get access to cloud gaming without ads and with perks like shorter wait times and higher-quality streaming. These packs will be available to more people starting in November. A version of Xbox cloud gaming with ads is also available to Xbox Insiders without a Game Pass membership. As for those who do have a Game Pass membership, changes are coming to cloud gaming in November . Microsoft will put limits on how many hours per month people can use the service, and then allow people to pay more to unlock more time. Below is a breakdown of how many hours you’ll get included with the tier of Game Pass you’re subscribed to: Game Pass Ultimate: 15 hours Game Pass Premium: 10 hours Game Pass Essential: 5 hours Microsoft said it understands this is a “meaningful change,” especially for those who use the cloud regularly for gaming. However, the company said it estimates that these changes will impact about 4% of Game Pass subscribers, though t
 
-### EA Cancels New Mass Effect, Pauses New Sims Game, And All The Other Big EA News That Just Happened
-Wed, 21 Oct 2026 18:20:23 +0000 — https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/
-
-When EA was acquired by Saudi Arabia's Public Investment Fund, many expected major changes at the gaming company, including layoffs and game cancellations, among other shakeups. Now, those have begun, with EA on October 21 confirming a series of significant changes impacting the people and teams that worked on many storied franchises. EA also teased some of what's to come in the future, including a joint project between Respawn and DICE. Here's a rundown of all the big EA news today. Layoffs EA said in a statement that it made the "difficult" choice to lay off staff, and Bloomberg reported that the cuts will impact about 400 people. Affected staffers will be treated with "care and respect," EA said, and some impacted employees may have a chance to get a different job within EA. BioWare closes and new Mass Effect axed BioWare, the esteemed Canadian developer founded 30+ years ago, is shutting down. The studio employed fewer than 100 people, Bloomberg reported, and the team was working on the next Mass Effect. That game is now canceled. "BioWare is a legendary studio that helped define the role-playing genre, and we do not take this decision lightly," EA said. Developers at BioWare had feared their jobs were at risk after PIF announced that it would buy EA. BioWare is known, in part, for making pro-diversity games featuring inclusive storytelling and characters. https://www.youtube.com/watch?v=Lg-Ctg6k_Ao Longtime BioWare writer Patrick Weekes, who was laid off in 2025, specula
-
 ### EA Shuts Down Dragon Age, Mass Effect Studio BioWare
 Wed, 21 Oct 2026 17:12:53 +0000 — https://www.gamespot.com/articles/ea-shuts-down-dragon-age-mass-effect-studio-bioware/
 
-Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere. In a new Bloomberg report , a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest round of layoffs. Bioware posted a statement to X , confirming that it's shutting down and thanking everyone for their support over the studio's lifetime. It's quite a sad day. https://twitter.com/bioware/status/2112953618093535510 "There is nothing easy about writing these words," BioWare said. "Our focus right now is on our incredibly talented team who put their hearts into these games, and supporting one another through this transition. What generations of BioWare built together is something to celebrate and remember. These games became so much more because you played them, debated your choices, fell in love with the characters, and made these worlds your own." According to a staff letter sent out on Wednesday that Bloomberg viewed, EA chief operating officer David Tinson and chief studios officer Cam Weber explained that the company took a "hard look" at its business over the last several months. This resulted in some projects getting canceled, including the next Mass Effect game-- which was in early development at BioWare --as well as a planned game in The Sims franchise codenamed Project Lotus. Instead, the resources allocated to that title will be diverted to something else current
+Publisher Electronic Arts is planning to shut down legendary RPG studio BioWare, laying off about 50 employees at the studio alongside 350 more elsewhere. In a new Bloomberg report , a person familiar with the matter said a total of 3% of EA's overall company has been affected by this latest round of layoffs . BioWare posted a statement to X , confirming that it's shutting down and thanking everyone for their support over the studio's lifetime. It's quite a sad day. https://twitter.com/bioware/status/2112953618093535510 "There is nothing easy about writing these words," BioWare said. "Our focus right now is on our incredibly talented team who put their hearts into these games, and supporting one another through this transition. What generations of BioWare built together is something to celebrate and remember. These games became so much more because you played them, debated your choices, fell in love with the characters, and made these worlds your own." In a staff letter sent out on Wednesday that has now been shared by the company, EA chief operating officer David Tinson and chief studios officer Cam Weber explained that the company took a "hard look" at its business over the last several months. This resulted in some projects getting canceled, including the next Mass Effect game-- which was in early development at BioWare --as well as a planned game in The Sims franchise codenamed Project Lotus. Instead, the resources allocated to that title will be diverted to something els
 
 ### Rayman Legends Retold s New Baguette Costumes Are A Tip Of The Beret To Expedition 33
 Wed, 21 Oct 2026 18:02:00 +0000 — https://www.gamespot.com/articles/rayman-legends-retold-new-baguette-costumes-are-a-tip-of-the-beret-to-expedition-33/
@@ -447,12 +442,17 @@ The world of Diablo will expand over the next couple of years with a new video g
 
 ## Rock Paper Shotgun
 
+### EA is shutting down RPG veteran Bioware "to align talent and investments where we see the greatest opportunities for players and long-term growth"
+Thu, 22 Oct 2026 06:56:00 +0000 — https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth
+
+Venerable RPG studio Bioware announced on it is shutting down after more than 30 years of making RPGs. The studio is responsible for making the original Baldur's Gate , Neverwinter Nights , Star Wars: Knights of the Old Republic , Dragon Age , Mass Effect , and Anthem. As part of the announcement Bioware also say that "development on the next Mass Effect project is ending." Read more
+
 ### Cyberpunk 2077's Edgerunners 2 update adds two new quests, handgun dual wielding and the ability to pimp your mantis blades
 Wed, 21 Oct 2026 16:09:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-edgerunners-2-update-adds-two-new-quests-handgun-dual-wielding-and-the-ability-to-pimp-your-mantis-blades
 
 A beefy new Cyberpunk 2077 update arrives tomorrow, October 22nd, fresh on the heels of the second series of the Cyberpunk Edgerunners anime which dropped earlier this week. It's dubbed update 2.5 and delivers an Edgerunners 2-themed quest alongside a heap of other additions. Read more
 
-### A puzzle game where you must avoid the doing the most awkward of things: facing someone while riding an elevator
+### A puzzle game where you must avoid doing the most awkward of things: facing someone while riding an elevator
 Wed, 21 Oct 2026 15:29:11 +0000 — https://www.rockpapershotgun.com/a-puzzle-game-where-you-must-avoid-the-doing-the-most-awkward-of-things-facing-someone-while-riding-an-elevator
 
 You know when you follow someone into the elevator and when they turn around to face the doors, you choose to stand still and instead meet their eyes? No, of course you don't. Everyone knows that when you're in a lift you don't under any circumstances face other people in the lift unless you know them and you're already in a conversation. Just yesterday I got into the lift with someone I sit one desk over from in the office. I dutifully looked at my phone the entire time until we were safely out of the building. Well, in the puzzle game How To Ride Elevators Like A Human you play a helpful alien who saves people who have accidentally ended up in the dreadful situation of facing one another. Each short puzzle takes place in a compact lift where one (or several) humans are starting at each other. Using your small UFO's tractor beam, you must pick up and relocate the passengers until no one is making eyes at anyone else. You may well recognise this as a sokoban-style puzzle game, but, despite retreading familiar ground, I'm a big fan of this extraterrestrial framing. Even if I have an ulterior motive for sharing this game... Read more
@@ -501,9 +501,4 @@ The wonderful thing about video games is that they can take something that is, q
 Tue, 20 Oct 2026 20:32:47 +0000 — https://www.rockpapershotgun.com/i-have-seen-the-future-of-sports-games-and-it-is-called-just-volleyball
 
 Earlier this year, I embarked on a pivotal journey, one that I'm sure upon finishing will change me for good: I started watching Haikyu!! It's my first sports anime (when you're a chubby little muffin like I was, you take more interest in Not Moving over Sports), an abscess in the lexicon of genres I've dipped my toes into, one I'm rectifying after all these years. And friends, it's good eatin'. I even, incredibly briefly, floated the idea of taking up volleyball. Yet now I don't have to, and it's all thanks to a delightful, incredibly Wii Sports coded game called just volleyball. Read more
-
-### Dig through an infested planet with your giant drill-city and try not to die while you do it in the roguelite city-builder CitaDrill
-Tue, 20 Oct 2026 19:15:42 +0000 — https://www.rockpapershotgun.com/dig-through-an-infested-planet-with-your-giant-drill-city-and-try-not-to-die-while-you-do-it-in-the-roguelite-city-builder-citadrill
-
-You've heard of the drill that will pierce the heavens, so introducing: the drill that is attached to an entire city that will pierce the earth. That's the concept for CitaDrill, a roguelite city-builder where the city is encased in a big ole dome, a larger than life drill attached to its base that you dig through an infested planet. It's a lot, of course, but it's got some lush pixel art and a demo you can try out for yourself as part of this Steam Next Fest, too. Read more
 

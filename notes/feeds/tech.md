@@ -1,6 +1,56 @@
-# Tech — harvested 2026-10-21T20:21:16.394Z
+# Tech — harvested 2026-10-22T09:37:41.405Z
 
 ## Ars Technica
+
+### FCC chair warns media not to run the "fake polls" Trump keeps complaining about
+Wed, 21 Oct 2026 22:17:50 +0000 — https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/
+
+Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing "fake polls," amplifying one of the many complaints that President Trump has regularly made about the news media. Carr's post on X said, "Many journalists and broadcasters have been amplifying or airing these Polls without regard to basic journalistic ethics and without informing the public that those Polls lack a scientific, accurate, or even real basis... Broadcasters are advised to avoid engaging in News Distortions or running Broadcast Hoaxes by airing Polls that would violate their regulatory obligations." Carr urged broadcasters to "provide their viewers with additional context and information about Polls they have covered." In fact, one small polling outfit was exposed as a hoax this week, and a similar incident occurred in August. News outlets have reported on these hoaxes, providing the very "context" that Carr said is needed. Read full article Comments ]]>
+
+### Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought
+Wed, 21 Oct 2026 22:06:07 +0000 — https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
+
+In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to "purchase cloud playtime hours through the Xbox Store and stream eligible games they own on supported devices." Today, Microsoft rolled out those a la carte Cloud Playtime purchases to Xbox Insiders, with prices that might be a bit galling for players who have already purchased these streamable games. The "introductory launch pricing" for Xbox's Cloud Playtime purchases is as follows: 10 hours for $4 (~$0.40/hour) 25 hours for $8 (~$0.32/hour) 50 hours for $12 (~$0.24/hour) Purchased playtime "remains available until it’s used," Microsoft writes, so you don't have to worry about your 50-hour purchase expiring before you can use it fully. Read full article Comments ]]>
+
+### Enterprises keep buying software upgrades that IT thinks will make things worse
+Wed, 21 Oct 2026 21:48:52 +0000 — https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/
+
+Enterprise-sized businesses spend, on average, 28 percent of their software budgets on unwanted upgrades, migrations, and licensing changes. Often, those firms' IT heads think those changes are detrimental. Those results are according to a survey of 2,018 chief information officers and senior IT decision-makers at companies with at least 10,000 employees that Origina commissioned for its report, “ The Software Tax .” About half of the respondents (1,011) are from the US, and the rest are from the United Kingdom. All respondents worked at companies with at least $1 billion in annual revenue. Keep in mind that Origina provides maintenance for various enterprise software. Its report points to independent software maintenance as a way for IT leaders to regain control over software budgets, illustrating its potential bias. A third-party research consultancy, Censuswide , conducted the survey. Read full article Comments ]]>
+
+### Tesla profits drop 43% in Q3
+Wed, 21 Oct 2026 21:35:07 +0000 — https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/
+
+Tesla published its third-quarter 2026 financial results this afternoon. Earlier in October, it reported its sales and deliveries for the three-month period, selling fewer cars than in the same quarter in 2025 , yet it still beat analyst projections. Now we can see how those sales translate to the bottom line. Tesla brought in $28 billion in revenue in Q3, almost the same as in 2025. Automotive revenues were $20.6 billion, a 3 percent decrease year over year. Perhaps more troubling is the decline in revenue from solar panels and storage batteries—this line of business had been growing, but for Q3 revenue fell 16 percent year over year to $2.9 billion. Services and other revenues, though, which include parts and Supercharger use, grew by a third to $4.6 billion. But the company—like the rest of us—has seen its expenses go up. Operating expenses rose by 39 percent to $4.8 billion, dropping the company’s operating margin to just 2.6 percent; in Q3 2025, Tesla’s margin was 5.8 percent. Net profit fell to $787 million, down 43 percent year over year. What’s more, capital expenditures were up by 110 percent to $4.7 billion, and free cash flow was down 62 percent to $1.5 billion. Read full article Comments ]]>
+
+### The new human-crafted Apple Music brand matters in an AI world
+Wed, 21 Oct 2026 19:44:40 +0000 — https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/
+
+Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, I’ll stop noticing it, and life will go on. As such, I wouldn’t normally find an obvious rebrand like this notable, much less feel like I had much to say about it. But then I happened to catch Apple’s behind-the-scenes video in my YouTube recommendations, and I realized I did have thoughts. Read full article Comments ]]>
+
+### RIP BioWare: EA shuts down storied RPG studio after over three decades
+Wed, 21 Oct 2026 19:12:16 +0000 — https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/
+
+The legendary studio behind series like Mass Effect , Dragon Age , Neverwinter Nights , and Star Wars: Knights of the Old Republic is no more. BioWare announced via social media Wednesday afternoon that "after more than three decades of shared adventures, BioWare is closing and early development on the next Mass Effect project is ending." The official announcement was posted mere minutes after a Bloomberg report detailed 400 job cuts across BioWare parent company Electronic Arts, including 50 at BioWare, based on reports from "a person familiar with the company's plans." "Across our portfolio, we’re making deliberate choices to align talent and investments where we see the greatest opportunities for players and long-term growth," EA executives wrote in a message to staff, according to Bloomberg. Read full article Comments ]]>
+
+### OpenAI's latest AI models are coming to Google Cloud and Antigravity
+Wed, 21 Oct 2026 18:51:42 +0000 — https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
+
+Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you'll have more options. OpenAI and Google have come to an arrangement that will see the former's frontier models arrive in Google Cloud services. Perhaps more importantly, GPT models will soon appear in Antigravity, Google's agent-powered coding tool. For enterprise customers and AI enthusiasts, OpenAI's latest model will appear in Google's "Model Garden" in the coming weeks, adding to its 200-plus options. The garden already offers access to Google's Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Anthropic's Claude AI has also been available for some time. Google says it's now the only large cloud provider offering access to all three leading closed LLMs. While OpenAI notes that Microsoft continues to be its primary cloud partner, the full suite of current GPT 6 and 6.1 models—Astra, Sol, and Luna—will launch on Google Cloud. Astra will naturally cost the most to run, but Google's system supports dynamically moving workloads between LLMs based on performance, latency, and efficiency. Read full article Comments ]]>
+
+### Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump
+Wed, 21 Oct 2026 18:35:38 +0000 — https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/
+
+A Wall Street Journal report said SpaceX CEO Elon Musk ordered the Starlink throttling that blindsided Ukraine's air assault forces last week, despite Musk's claim that all decisions on the military version of Starlink are made by the US military and President Trump. Trump denied ordering the restrictions. While Musk may have spoken to Trump and administration officials before the decision, The Wall Street Journal reported yesterday that Musk made the final call. The decision came after both Musk and Trump criticized Ukraine for attacking Russian diesel refineries. "Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in Kyiv and confusion inside the Trump administration," the WSJ wrote, citing unnamed US officials and people familiar with the matter. The report said that "Musk capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network... rendering some offensive drones and interceptor drones virtually useless." Read full article Comments ]]>
+
+### Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits
+Wed, 21 Oct 2026 18:20:40 +0000 — https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/
+
+Elon Musk’s SpaceXAI is stuck facing a lawsuit over alleged data center pollution after Donald Trump failed to convince a judge that his Environmental Protection Agency (EPA) has complete control over all Clean Air Act lawsuits and can dismiss any suit at whim. Soon after unpermitted gas turbines were discovered powering Musk’s giant Colossus data center in Memphis, Tennessee, the NAACP sued . Its lawsuit sought an injunction requiring xAI (which, following a merger , is known now as SpaceXAI) to use the best available pollution control technology when operating the turbines and ordering penalties up to $124,426 per day per violation. Without such remedies, the turbines risked drastically spiking pollution in already vulnerable neighborhoods housing predominantly Black communities nearby, the NAACP argued. To block the lawsuit, Trump tried to intervene, arguing that the EPA had the power to unilaterally dismiss lawsuits any time the president decides against enforcing the Clean Air Act. According to Trump, it would supposedly “not serve the public interest” if citizens were allowed to seek massive civil penalties to punish polluting AI firms that were trying to get data centers operational as fast as possible to support Trump’s AI Action Plan . Read full article Comments ]]>
+
+### Does opting out of smart TV tracking work? Research finds “suspicious” traffic.
+Wed, 21 Oct 2026 18:00:37 +0000 — https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/
+
+Smart TVs running operating systems from Samsung, Vizio, and Roku continue sending data to automatic content recognition (ACR) endpoints after users opt out of tracking in the devices’ settings, according to research published on Monday. The paper from Northeastern University researchers points to potential privacy violations from some of the biggest TV brands. ACR captures video screenshots or audio clips from smart TVs and sends the data to remote servers, where it's used for things like measuring content viewership and serving targeted ads. The paper, "Watching the Watchers: Privacy Analysis of US Smart TV Automatic Content Recognition," examined eight smart TV OSes across 12 smart TVs from 10 manufacturers (Amazon, Hisense, LG, Roku, Samsung, Sony, Supersonic, TCL, Vizio, and Westinghouse) to examine when smart TVs use ACR and how effective opting out of user tracking is. Read full article Comments ]]>
 
 ### SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase
 Wed, 21 Oct 2026 16:46:19 +0000 — https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/
@@ -12,109 +62,64 @@ Wed, 21 Oct 2026 15:14:07 +0000 — https://arstechnica.com/ai/2026/10/the-15-bi
 
 Nearly two-thirds of US doctors are turning to an AI-powered search engine to make patient decisions, propelling a little-known tech startup to a $15 billion valuation while prompting a debate over the future of patient care. Miami-based OpenEvidence, founded by serial entrepreneur Daniel Nadler in 2022, said that many of America’s 1 million physicians processed more than 42 million prompts last month. Doctors are using the company’s chatbot to scour medical journals and clinical guidelines to help diagnose and treat patients. The ads-powered platform has grown largely by word of mouth, penetrating a sector where few tools have seen similar traction. “We’re the first viral consumer internet app in healthcare,” Nadler told the FT in an interview. Read full article Comments ]]>
 
-### Review: Carrie is a triumphant remix with one major flaw
-Wed, 21 Oct 2026 11:19:12 +0000 — https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/
-
-Carrie White, the telekinetic prom queen from hell, is one of the most beloved horror icons in popular culture. First introduced in Stephen King's 1974 novel, Carrie , the character was immortalized in director Brian De Palma's 1976 adaptation, widely regarded as one of the best horror films of all time. It's certainly one of the best King adaptations. So Mike Flanagan faced a massive challenge when he signed on to create an eight-episode miniseries for Prime Video based on the book, released just in time to mark the 50th anniversary of de Palma's film. I was among the skeptics who questioned why a Carrie miniseries was even necessary, although as a diehard Flanagan fan ("Flana-fan"?), I was willing to give him the benefit of the doubt. If anyone has an affinity for smartly adapting horror in general, and King's work in particular, it's Flanagan. And you know what? With one (very big) exception, Flanagan pulls it off, giving us a richly textured version of the story that is as much about kindness and lost innocence as bloody, vengeful rage—although we get plenty of the latter, too. (Many spoilers below for the novel and the 1976 film , but there are no major reveals for the new series until after the second gallery. We'll give you a heads-up when we get there.) Read full article Comments ]]>
-
-### The past, present, and future share a show floor at Pinball Expo 2026
-Wed, 21 Oct 2026 11:00:04 +0000 — https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/
-
-It's October in the Midwest, which means it's time for the pinball world to descend on a convention center in Chicagoland for the annual Pinball Expo. Once thought to be an entertainment sector slowly bleeding out, pinball has come back in a big way in recent years. I visited one of Chicago's last old-school manufacturers before heading down the road to see what's new in the silver-ball universe. Behind the silver ball Hundreds gathered on a brisk fall Friday morning outside Stern Pinball's headquarters in Elk Grove, Illinois, waiting to enter a Wonka-like wonder factory where piles of raw parts become licensed creations from Jaws to the brand-new Fallout . Stern invited me to tour its offices and factory floor before heading off to the convention in nearby Schaumburg, Illinois. An early-morning line begins to form outside of Stern HQ as buses of Pinball Expo attendees arrive for tours. As I stood with my tour group in Stern Pinball's HQ lobby, mouth agape at the dozens of machines lining the walls, we were greeted by the man himself, Gary Stern, who gave us some background on the company's 40-year history. After a stop at Gary's podium, we were ushered to the factory floor entrance, where Stern employee and legendary game designer George Gomez briefed us on the tour rules and answered questions. According to Gomez, "at any given time, Stern controls 90 percent of the current pinball market, and everybody else splits the rest." Read full article Comments ]]>
-
-### PHP warns it plans to release 2 emergency patches imminently
-Wed, 21 Oct 2026 02:12:18 +0000 — https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/
-
-Website admins, brace yourselves. Fixes for what are believed to be uncommonly severe vulnerabilities are scheduled to drop in a little more than 12 hours for PHP, a programming language that powers websites and Web applications everywhere. PHP maintainers said Monday that they planned to release patches for two vulnerabilities, both with severity ratings of 9.2 out of a possible 10. Waiting for PHP2Shell “All PHP users are encouraged to prepare now so they can upgrade as soon as the release is available,” the advisory stated. “We reserve the right to release earlier should details of either vulnerability become public, or should evidence of active exploitation appear in the wild.” Read full article Comments ]]>
-
-### Merging SpaceX and Tesla would be a "good idea," Musk says
-Tue, 20 Oct 2026 22:04:54 +0000 — https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/
-
-Elon Musk said Tuesday that he would like to see the consolidation of his business empire by formally merging his two largest companies, SpaceX and Tesla. "Do I think it would be a good idea? Yes," Musk said of a potential merger. He was speaking during a question-and-answer period as part of SpaceX's third-quarter earnings call. Musk said, ultimately, it not his decision. "But at the end of the day the shareholders have to be supportive of this." Musk's talk of a merger comes after a busy year in which SpaceX already acquired Musk's artificial intelligence firm, xAI, in February. In June, SpaceX went public with the largest initial public offering on record. Read full article Comments ]]>
-
-### Cops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies
-Tue, 20 Oct 2026 21:44:34 +0000 — https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/
-
-Police in Guinea-Bissau raided the offices of Danish researchers on Monday, seizing doses of hepatitis B vaccine intended for a vaccine trial for newborns. International health experts have called the trial " unethical ," but anti-vaccine Health Secretary Robert F. Kennedy Jr. has attempted to fund it with US taxpayer dollars. Under Kennedy, the US Centers for Disease Control and Prevention announced in December that it had awarded the Danish researchers—led by married couple Peter Aaby and Christine Stabell Benn of Bandim Health Project— an unsolicited $1.6 million grant to run the trial . Aaby and Stabell Benn are controversial vaccine researchers who claim vaccines cause overlooked harms. They have been repeatedly praised by Kennedy but are currently under investigation by Danish authorities for alleged scientific misconduct. Plans for the trial were halted in January as widespread condemnation erupted over the trial's design, which would potentially expose thousands of newborns in the country to hepatitis B, risking a lifelong infection that can lead to liver cirrhosis, cancer, and premature death. Outrage flared again after a Rolling Stone story earlier this month claimed the CDC set aside another $1.6 million in funding in late September and planned to move forward with the trial. Read full article Comments ]]>
-
-### Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix
-Tue, 20 Oct 2026 21:14:33 +0000 — https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/
-
-We haven't heard many details about Microsoft's upcoming "Project Helix" gaming hardware since the company announced it in March as a device that will "play your Xbox and PC games." In a new wide-ranging profile of Xbox CEO Asha Sharma , though, Fortune alludes to a dual release strategy for upcoming Microsoft gaming hardware, with "a next-generation handheld device" planned by the end of next year and a 2028 holiday season console release that could cost between $1,200 and $1,800. That future console price range is based on what has "internally been projected" at the company, according to Fortune. But the price for consumers could come down if "Microsoft decides to subsidize the cost," the outlet says, as many console makers have done in the past . While a $1,200 starting price would be historically high for the game console market, even accounting for inflation , it also reflects a new normal: The slowdown in Moore's Law and AI-driven component shortages means cutting-edge gaming hardware just isn't as cheap as it used to be. This year, the Steam Machine broke the $1,000 starting price , while the 2-year-old technology in the PlayStation 5 Pro is now going for $900 , and the 6-year-old Xbox Series X now starts at $750 . Read full article Comments ]]>
-
-### JustWatch, which tackles streaming fragmentation, launches own streaming service
-Tue, 20 Oct 2026 20:20:12 +0000 — https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/
-
-Since launching in 2015, JustWatch has helped people navigate the growing number of streaming services by providing a guide on where to find movies they want to stream. Now JustWatch has its own streaming service and wants people to subscribe. Launched today, JustWatch TV offers some movies available for free with ads that aren’t free on any other streaming service, including Green Room (2015), Locke (2013), and Sing Sing (2023). Other free movies include Fiddlin ’ (2018 ), Friday the 13th (1980), and Hotel Mumbai (2018). I could play movies available for free on JustWatch TV without creating an account. JustWatch TV also has movies you can rent. Read full article Comments ]]>
-
-### Meta drops the word "train" from its commercial TOS after AI backlash
-Tue, 20 Oct 2026 20:07:58 +0000 — https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/
-
-Hoping to quell criticism, Meta has dropped the word “train” from its “streamlined” commercial terms of service that kick in on October 30. Last week, Meta faced backlash after legal experts warned that the tech giant’s sweeping new commercial terms of service seemed to give Meta permission to endlessly scrape websites linked on business pages. Talking to Nieman Lab, experts suggested that Meta could possibly use the policy to avoid millions in licensing fees from news organizations by requiring all business users to share a wealth of AI training data simply for running a business page. A Meta spokesperson confirmed that Meta did not alert users to the changed language following backlash. This potentially only adds to confusion ahead of the policy rollout. In response to backlash, Meta's spokesperson provided a statement to Ars, acknowledging Nieman Lab's initial report but not its follow-up report reiterating experts' concerns: Read full article Comments ]]>
-
-### Gemini's Personal Intelligence is coming to cars
-Tue, 20 Oct 2026 20:00:33 +0000 — https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/
-
-Google kicked off 2026 with the addition of Personal Intelligence to Gemini, allowing its AI to pull in more of your data to formulate answers. It started as a paid feature but eventually came to all Gemini users. However, this feature wasn't available in the car until now. Google is rolling out Personal Intelligence to Android Auto and Google Built-in, and it is still, thankfully, an optional feature. As Google points out , a generative AI's outputs are better "when it knows the world and knows you," which is correct in an uncomfortable sort of way. The more context you can provide to a model, the better the output will be at the end of the token shuffle. Since Google has so much of your data already, it sees Personal Intelligence as a differentiator versus other AI systems. You don't have to provide the AI context because it already has it from apps like Gmail and Calendar. Personal Intelligence is beginning its rollout in Android Auto today, and it will come to vehicles with Google built-in in the next few months. As an aside, "Google built-in" is questionable branding, but it refers to cars that run Google software in the infotainment system rather than projecting an interface from your phone. Very few vehicles have Google built-in, but Google often releases new car features on them first. This time, it's the other way around. Read full article Comments ]]>
-
-### OpenBSD 8.0 arrives with security record still intact
-Tue, 20 Oct 2026 19:57:18 +0000 — https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/
-
-OpenBSD 8.0 is here, marking the project's 61st release and continuing its schedule of semiannual releases dating back to 1996. What started more than 30 years ago as a fork of NetBSD has grown into one of the most security-conscious operating systems in active development. In a post to the project's announcements mailing list, OpenBSD founder Theo de Raadt highlights a host of improvements included with the latest version and writes that the project remains "proud of OpenBSD's record of more than thirty years with only two remote holes in the default install." The latest OpenBSD version brings new features and improvements across the board. These changes, particularly the new Intel Arc support and expanded virtual address space, should improve compatibility with modern graphics cards and allow the system to map more than 4GB of VRAM . Some of the major updates noted in the release newsletter are as follows: Added support for Intel Arc A-Series (DG2/Alchemist) graphics cards. 512GB kernel virtual address space on AMD64, up from 4GB, allowing VRAM mapping above 4GB. Added hibernation support for ARM64 systems. A new RPKI -to-router daemon: rtrd(8) . RISC-V improvements including kernel support for the 'V' vector extension and support for Advanced Interrupt Architecture. Wireless network driver additions and improvements, including 802.11n and 40 MHz channels for the qwx(4) wireless driver . Added support for up to 64 virtual CPUs per guest virtual machine. Security and interna
-
 ## The Verge
+
+### YouTube says it isn’t testing hiding the dislike button
+2026-10-21T19:46:45-04:00 — https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos
+
+On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wednesday statement to The Verge , confirmed that YouTube is "not testing hiding the dislike button on YouTube for users." However, YouTube is introducing a new UI for creators on their uploaded videos where the dislike button will be moved. Here's the full statement, from spokesperson Kimberly Taylor: We are not testing hiding the dislike button on YouTube for users. We're introducing a new UI for … Read the full story at The Verge. ]]>
+
+### Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?
+2026-10-21T19:36:31-04:00 — https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings
+
+For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet . During today's third-quarter earnings call, the company finally gave itself a deadline. According to Tesla VP for Autonomous Driving Ashok Elluswamy, Tesla owners will be able to add their own vehicles to the company's robotaxi fleet in the second quarter of 2027. Here's his exact quote (emphasis ours): Like I mentioned earlier, the software for Cybercabs and Model Y is the same. And pretty soon we'll be able to release the same software as part of the V15 relea … Read the full story at The Verge. ]]>
+
+### Data centers could erase decades of air quality gains
+2026-10-21T18:33:44-04:00 — https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report
+
+A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous amount of electricity. How developers and utilities meet that demand - with gas turbines or renewable energy - will determine just how dirty things will get. So far, though, things are looking grim. Tech companies and data center developers are devising new ways to get enough electricity, including building out their own power sources. But if all planned data center projects were to plug into … Read the full story at The Verge. ]]>
+
+### Meta to create a new class of shares to fund AI push
+2026-10-21T17:30:02-04:00 — https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings
+
+Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday , the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027. "The scale of investment required to compete, sustain growth, expand infrastructure, and pursue new strategic initiatives amidst the AI transformation taking place in the industry is significant," Meta says in the press release. Susan Li, Meta's chief financial officer, added during an earnings call that the new class of shares will "expand our funding tools and gi … Read the full story at The Verge. ]]>
+
+### New York’s first microdrama film festival searches for its audience
+2026-10-21T16:49:07-04:00 — https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals
+
+Actors Taye Diggs, Autumn Federici, Gary Entin, Troy Brookins, Edmund Entin and Eric Guilmette attend the world premiere of Microhouse Films and Lifetime's Reunion Island during the ALZA Festival. | Getty Images for Lifetime. It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival . Founded by former Tribeca Festival chief operating officer Pete Torres, Alza, which took place October 16th through 18th, was billed as a showcase for the "the creativity, innovation, and growing cultural impact of stories made for the vertical screen." The festival featured a selection of microdrama and film premieres as well as industry-focused panels with executives who all seemed to genuinely beli … Read the full story at The Verge. ]]>
+
+### Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement
+2026-10-21T16:46:56-04:00 — https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement
+
+Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday , which says Meta's income from operations would have been $22.89 billion without the settlement. In August, Meta agreed to pay $17.1 billion to settle a massive nationwide lawsuit that claimed the company harmed children by making its social media platforms "addictive" by design. It will also only pay $5.3 billion of this amount if YouTube and TikTok implement stricter settings and safeguards for kids, which Meta also agreed to as par … Read the full story at The Verge. ]]>
+
+### PHP: The three letters that shut down sites all over the internet today
+2026-10-21T16:36:56-04:00 — https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026
+
+Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia , and the blog where the bar around the corner posts pictures of people's dogs. The "critical vulnerabilities" were discovered in the PHP programming language, which underpins much of the internet, including any site built on WordPress. But it's far bigger than that. Some Dutch and Finnish government agencies took their sites down as a precaution. The NSA Cybersecurity account on X recommended that organizations take their systems offline if "an immediate update is not feasible," as did the UK's National Cyber Security Center . Even Pok&eacute;mon Home and Pok&eacute;mon C … Read the full story at The Verge. ]]>
+
+### Flying Roadsters can’t lift Tesla’s flat Q3 revenues
+2026-10-21T16:22:31-04:00 — https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger
+
+As the smoke clears from its outrageous Roadster demo , Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended in September 2026. Revenues were flat, while profits dropped 4 percent compared to the third quarter of 2025 , when the company earned $1.4 billion in net income on $28.1 billion in revenue. Tesla's revenue came in above Wall Street expectations of $27.9 billion, according to data compiled by LSEG . Tesla's own company-compiled expectations predicted Q3 revenues of $28.3 billion. The earnings … Read the full story at The Verge. ]]>
+
+### Bose acquires Skullcandy to help it reach a wider audience
+2026-10-21T16:15:00-04:00 — https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers
+
+Bose announced today it has acquired Skullcandy. Although the two companies are competitors in the consumer audio space, Skullcandy recently partnered with its new owner to bring several of Bose's audio technologies - including its head-tracking spatial audio and excellent active noise cancellation (ANC) - to products like the Skullcandy Crusher 1080 ANC headphones and Method 360 ANC earbuds . Specific details about the deal weren't shared, but according to a news release, Bose plans to keep Skullcandy a separate brand that will become part of its premium consumer audio business. Skullcandy will remain based in Park City, Utah, where it was … Read the full story at The Verge. ]]>
 
 ### Airbnb bans making guests do dishes and take out the trash
 2026-10-21T15:54:00-04:00 — https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update
 
 Checking out of your next Airbnb might be less of a hassle now that the company is banning hosts from including time-consuming chores in their house rules. Airbnb's updated house rules policy , which starts with reservations booked on or after November 20th, says hosts can't ask guests to "complete tasks that require significant effort or time, or would typically be performed by a cleaner." According to Airbnb, that includes: Dishes: Guests shouldn't be asked to wash and put away dishes, but you can ask them to put used dishes in the sink. Laundry: Guests shouldn't be asked to remove sheets from the bed or start a load of laundry, but yo … Read the full story at The Verge. ]]>
 
-### Anthropic takes on Muse with Claude Duet, its new AI agent
-2026-10-21T15:53:20-04:00 — https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent
-
-Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a "research preview," according to Anthropic , and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is built around Claude Opus 5.5. Here's Anthropic's description of what it can do: Each morning, it sends you a short brief on the most important items across your connected apps. Throughout the day, it keeps tabs on those apps and messages you only when something needs your attention. You can also hand it tasks of a … Read the full story at The Verge. ]]>
-
-### Walmart is inviting AI agents to shop for you
-2026-10-21T15:30:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents
-
-Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which blocked Perplexity's shopping agent and Meta's Muse AI assistant . But Walmart is opening its doors to AI shoppers - as long as they follow the retailer's rules. It has outlined a set of terms for agents, saying that "agents must not take actions beyond what the shopper intends" and cannot change a customer's payment method. Agents also can only … Read the full story at The Verge. ]]>
-
-### Meta ordered to pay $25 billion in penalties over the Cambridge Analytica scandal
-2026-10-21T15:02:49-04:00 — https://www.theverge.com/policy/1015782/meta-new-mexico-cambridge-analytica-penalty
-
-Mark Zuckerberg. | Image: Cath Virginia / The Verge, Getty Images The Cambridge Analytica scandal has come back to haunt Meta after a New Mexico judge ordered it to pay $25 billion in penalties for more than 43 million violations of the state's unfair practices law. The ruling marks the biggest legal hit Meta has taken this year, even as it's faced several other losses or settlements. A New Mexico jury ruled in September that Meta misled consumers over how it protected their data and prevented misinformation and hate speech on its platforms. The case stemmed from a 2021 complaint in the wake of the revelations a few years earlier that UK political consultancy Cambridge Analytica harvested data from millio … Read the full story at The Verge. ]]>
-
-### Cyberpunk 2077 s update for Edgerunners 2 brings mods to PS5, Switch 2, and Xbox
-2026-10-21T14:39:52-04:00 — https://www.theverge.com/games/1015755/cyberpunk-2077-2-5-edgerunners-mods-dual-wield
-
-Cyberpunk 2077 is getting a big new 2.5 update that, among other features, brings cross-platform mod support to consoles and content inspired by the new season of the Cyberpunk: Edgerunners anime on Netflix. There's a lot to unpack in the full patch notes . The Edgerunners -specific content includes a new side quest, a gear set based on the character Weak Kingsley, and a new radio station that plays Cyberpunk: Edgerunners music. Even if you haven't seen the show, the update also adds a Double Trouble perk option that allows dual-wielding of pistols and revolvers, plus a Richard Night-guided tour of the city side quest, and access to a … Read the full story at The Verge. ]]>
-
-### Xbox mandates a four-day return to office
-2026-10-21T14:31:15-04:00 — https://www.theverge.com/report/1015733/xbox-return-to-office-policy-four-days
-
-Microsoft asked its employees to return to the office three days per week last year , and it's now upping this requirement to four days a week for most Xbox employees. An internal memo, seen by The Verge , describes the change as a "need to create more opportunities for people to work together" after feedback from Xbox employees. "Starting February 1st, 2027, Xbox employees in Puget Sound who live within 50 commuting miles of Studio D are required to work from the office a minimum of four days a week," says Jacinda Chislum Pearson, Xbox chief people officer, in the internal memo. "We have thousands of Xbox employees within commuting distance … Read the full story at The Verge. ]]>
-
-### Star Wars Zero Company is a must-play strategy game at 20 percent off
-2026-10-21T14:30:00-04:00 — https://www.theverge.com/gadgets/1015624/star-wars-zero-company-deal-sale
-
-Zero Company will have you teaming up with some unlikely new allies. | Image: EA and Disney If you’ve been curious about Star Wars Zero Company , the XCOM -like strategy game set in the Star Wars universe, Amazon has both the PlayStation 5 and Xbox Series S/X physical editions on sale for $47.99 and $49.99, respectively. The game usually sells for $59.99. While I’m not usually enthused by turn-based strategy games, I’ve been impressed enough with the story and characters to keep playing, and any fan who’s familiar with the world surrounding the battles should make the experience more immersive. Star Wars Zero Company Where to Buy: $59.99 $47.99 at Amazon There’s a surprising depth here, as well, with branching story missions that have consequences, and higher difficulty modes that punish you more severely for mistakes. The character creator is impressive, too, with a huge number of unlockable outfits and accessories, as well as classic alien races from the movies and cartoons. Plus, isn’t it every Star Wars fan’s dream to lead a crew of rag-tag heroes into battle against Droidekas and outlaws? ]]>
-
-### Will TP-Link really make routers in the US? Here’s what it told us
-2026-10-21T14:00:00-04:00 — https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview
-
-A TP-Link Wi-Fi 8 router. | Image: TP-Link TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers , but can't bring them here because of President Donald Trump's foreign router ban . Even though competitors Netgear and Asus make their routers in Asia, they've mysteriously obtained blanket waivers for all their new gear ; perhaps because of alleged ties to China , TP-Link hasn't managed to get such a waiver yet. But TP-Link is willing to do something those companies weren't - to invest nearly $1 billion to make routers in the United States , creating "hundreds of high-paying re … Read the full story at The Verge. ]]>
-
-### GM promises smarter cars, faster updates, and autonomous dry-cleaning runs
-2026-10-21T14:00:00-04:00 — https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av
-
-A vehicle is welded by robot arms as it goes through the assembly line at the General Motors Lansing Delta Township Assembly Plant March 10, 2010 in Lansing, Michigan. | Photo: Getty Images General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI. That was the pitch today, when GM hosted its tech-focused Forward event to unveil a wide-ranging slate of EV, autonomous vehicle, and AI initiatives - all aimed at fending off the rising threat of tech-heavy Chinese automakers. The promises are big: GM claims it will use AI to cut vehicle development times in half, introduce compute units up to 40 times more powerful than its current hardware, … Read the full story at The Verge. ]]>
-
-### Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours
-2026-10-21T14:00:00-04:00 — https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing
-
-Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is revealing today that bundles will start at $3.99 for 10 hours of cloud playtime. Xbox Insiders who don't have a Game Pass subscription will be able to start purchasing cloud playtime today, ahead of a broader rollout next month. Insiders can access "introductory" launch pricing bundles: 10 hours for $3.99 25 hours for $7.99 50 hours for $11.99 All of these cloud hours will include ad-fre … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### 480,000 phishing emails sent from a PC hidden behind a fridge in a Japanese hotel room
+Thu, 22 Oct 2026 09:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/480-000-phishing-emails-sent-from-a-pc-hidden-behind-a-fridge-in-a-japanese-hotel-room-chinese-couple-arrested-over-fraud-operation-leaching-hotel-wi-fi
+
+A computer, found hidden behind a fridge in a Japanese hotel room, was responsible for sending around 480,000 phishing emails, Hackread reports. The computer was placed there by a Chinese couple who lived locally, and the pair have now been arrested for both the hidden phishing PC and a separate slew of purchases that were made using stolen credit card details. Ye Jiafeng, 39, and his wife, Shen Qi, 39, now face multiple charges including fraudulent obstruction of business and trespass as well as computer fraud. The scam began on 15 May, 2025, when Ye connected the computer to hotel Wi-Fi and then hid it behind a fridge. There it stayed, sending around 480,000 emails. When it was discovered, the machine had around 2.4 million email addresses, presumably just waiting to be phished. The emails claimed to be from credit card companies and sent unsuspecting recipients to fake websites in an attempt to capture their credit card information. It's believed that the computer was administered remotely, allowing it to remain in situ without any in-person maintenance required. Ultimately, the computer would likely have remained in place if the recipient of one of the phishing emails hadn't reached out to the hotel. The hotel's IP address was found in metadata linked to the messages, and staff discovered the computer before reporting it to the police. Police are still investigating whether the two scammers were the brains of the operation or simply working for someone else. While phishin
 
 ### Intel installs production tools at Fab 62 in Arizona, provides updates on Ohio chip fab
 Wed, 21 Oct 2026 19:35:53 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/intel-installs-production-tools-at-fab-62-in-arizona-provides-updates-on-ohio-chip-fab-confirms-high-na-euv-for-high-volume-manufacturing-in-2028
@@ -171,12 +176,17 @@ Wed, 21 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/peripherals/hea
 
 "Best gaming headset for audiophiles" is one of the categories on our list of best gaming headsets , and it's easy to look at that and wonder if you shouldn't be looking at just audiophile headsets to begin with. Headsets are mainly about audio, after all, and it does seem to logically follow that audiophile headsets would have the best audio (I mean, it's in the name). Well, not so fast. Headsets are mainly about audio, but that doesn't mean that the "objectively" best-sounding headset by audiophile standards translates to the best-sounding headset by gaming standards. Nor does it mean that you should choose your gaming headset based on audio quality at the expense of everything else. Audiophile headsets , including headphones, are primarily designed around one thing: audio fidelity. In other words, they're designed and tuned to reproduce audio exactly as it was recorded, which is exactly as the artist heard it when they were recording it, and is therefore exactly as the artist intended for it to be heard. This doesn't necessarily mean it's going to sound amazing to everyone. In fact, to many people it will probably sound somewhat underwhelming, but it's really the only objective way we have of measuring what makes audio "good," since how something sounds depends largely on individual listeners' preferences. Gaming headsets, on the other hand, are designed around... well, everything else. This doesn't mean they ignore audio fidelity completely, but it tends to not be the pri
 
-### Micron's Taiwan union will launch a one-day strike this week, threatening memory production
-Wed, 21 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/dram/microns-taiwan-union-will-launch-a-one-day-strike-this-week-threatening-round-the-clock-fab-operations-workers-demand-concrete-terms-for-2026-bonus-and-clearer-profit-sharing-arrangements
-
-Micron faces a one-day labor stoppage at its Taoyuan operations in Taiwan on October 22, Reuters reports. Micron's employees are striking for concrete terms for this year's bonus and a clearer mechanism for sharing the company's future profits. The strike's teeth come from the resultant financial impact on Micron's operations, as semiconductor fabs are supposed to operate around the clock. The scheduled protest comes amid strong demand for memory chips and will have a minor impact on Micron's memory output. The Taoyuan union wants Micron to present a specific proposal for this year's additional employee bonus and establish a transparent formula for distributing a portion of future profits. Previous negotiations between the company and the union ended unsuccessfully in September, which prompted employees to approve industrial action in early October. Nonetheless, the union stresses that the October 22 strike is intended to pressure Micron into reaching an agreement rather than terminate negotiations. The union is prepared to conclude a deal if the company presents terms acceptable to employees across its Taiwanese operations. Go deeper with TH Premium: Memory (Image credit: SK Hynix) AI data centers are swallowing the world's memory and storage supply Samsung debuts three next-generation memory technologies for AI data centers The future of DRAM: From DDR5 to future ICs High-bandwidth memory roadmap Inside the history of DRAM price-fixing lawsuits The situation could become mo
-
 ## Phoronix
+
+### Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process
+Wed, 21 Oct 2026 20:52:38 -0400 — https://www.phoronix.com/news/Linux-7.4-Kbuild
+
+There are notable patches by Arm engineer Lorenzo Stoakes that have begun landing in Linux 7.4 for speeding up the Linux kernel build process. This work can provide some significant reductions in the Linux kernel build time...
+
+### Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4
+Wed, 21 Oct 2026 17:11:58 -0400 — https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux
+
+Linus Torvalds continues with his recent uptick in kernel patches himself, assisted in part by AI with Claude Code. Merged today was removing the historical and unsafe __get_user() and __put_user() kernel functions...
 
 ### Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 & RISC-V
 Wed, 21 Oct 2026 16:11:03 -0400 — https://www.phoronix.com/news/Linux-7.4-Crypto-Library
@@ -228,17 +238,57 @@ Tue, 20 Oct 2026 20:26:59 -0400 — https://www.phoronix.com/news/Linux-74-Intel
 
 Dynamic PAMT has made it for Linux 7.4! Dynamic PAMT is a new feature for reducing memory overhead on Intel TDX servers where there may not be many concurrent virtual machines occupying a majority of the system. In today's world with high memory prices and tight availability, Dynamic PAMT provides nice memory overhead reduction for modern Intel Xeon servers...
 
-### COSMIC Epoch 1.11 Released With Wayland xdg-dialog-v1, Better Multi-GPU Handling
-Tue, 20 Oct 2026 18:32:12 -0400 — https://www.phoronix.com/news/COSMIC-Epoch-1.11
-
-System76 developers just released COSMIC Epoch 1.11 as the newest point release to their Rust-written open-source desktop environment catering to their in-house Pop!_OS Linux distribution...
-
-### Improved Performance & Resource Usage For XFS Checksumming With Linux 7.4
-Tue, 20 Oct 2026 13:05:28 -0400 — https://www.phoronix.com/news/Linux-7.4-XFS-Checksumming
-
-Among the many VFS pull requests merged as the initial material for the in-development Linux 7.4, the VFS IOmap pull introduced lazy bounce buffering for checksummed reads. This improvement is benefiting checksumming on XFS with improved performance and lower resource usage...
-
 ## The Register
+
+### UK government hasn't the foggiest how much it's spending on digital transformation
+Thu, 22 Oct 2026 09:15:00 +0000 — https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662
+
+The UK government says its finance systems cannot produce consistent annual figures showing how much departments and public bodies spend on digital transformation. The Science and Technology Committee's June report warned that spending was fragmented and the government lacked a clear plan for a digital state. The UK public sector spends more than £26 billion annually on digital technology, but that broad estimate does not provide a comparable departmental breakdown. Responding to the committee, the government agreed with the "intent to publish annual data on digital and data-driven spending" but said it did not "believe this is currently practicable." Existing finance systems could not "provide consistent, reliable and comparable data across departments." "The government is open to this as a direction of travel and will work with HM Treasury to consider how this could be developed over time," the response said. Committee chair Dame Chi Onwurah, who is due to address Parliament on Thirsday, said: "There's no shortage of hype about how technology can improve public services and reduce costs. Yet, frustratingly, the government cannot provide a clear picture of how much is being spent on digital transformation across departments and public bodies. "At a time when ministers are asking taxpayers to fund significant investment in technology, it's concerning that they cannot show where the money is going or how value for money is being measured. This must be addressed as a matter of 
+
+### Vendors asking forward deployed engineers to make good on trillion-dollar AI bet
+Thu, 22 Oct 2026 08:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366
+
+During a flight on Marc Benioff’s private jet last year, the Salesforce CEO apparently subjected his company’s senior execs to a four-hour montage of Palantir CEO Alex Karp holding forth on the value of forward-deployed engineers (FDEs). The experience — which might have led anyone else to seek the emergency exit — was a lesson for Michael Spencer, Salesforce veep for finance and strategy, about the value of FDEs in boosting sales at Palantir, whose mantra is "land and expand." He shared the anecdote with the Deutsche Bank 2026 Technology Conference in August, just as the FDE boom was reaching fever pitch. For the uninitiated, vendors send FDEs to clients without tying them to a project . Effectively consultants-without-portfolio, they are expected to build something valuable, at speed, using their technology. The term is not new — Palantir claimed to have come up with it in 2007 — but the explosive growth of investment in FDEs, and their attachment to AI implementation, provokes questions about the benefits and risks involved for tech buyers. Earlier this month, AWS announced a $1 billion investment in a new Forward Deployed Engineering unit which aims to help customers build and deploy AI systems. AI poster-child Anthropic has also announced a $100 million investment in training FDEs. SAP, Salesforce and Workday — in partnership with Accenture — are heavily invested in the idea too. Salaries are on a commensurate upward trajectory. According to Levels.fyi’s Forward Deployed
+
+### Why the immediate future of liquid cooling is hybrid
+Thu, 22 Oct 2026 08:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795
+
+From training massive language models to powering nonstop inference , AI is fundamentally rewriting the rules of data center thermal management. AI workloads are characteristically less predictable and significantly more power-dense than traditional operations. As a result, deploying liquid cooling is no longer an experimental consideration. It has become absolute table stakes for handling AI and high-performance computing (HPC) demands. The industry conversation has shifted rapidly from “if or when” to how quickly organizations can deploy and scale. Here is a look at how AI is driving the shift toward high-density thermal management , the operational realities of adopting these systems, why the near future belongs to hybrid environments, and how data center operators can successfully navigate the transition. AI Workloads Push Densities Beyond Air Alone: The Hybrid Era Historically, traditional cooling methods were sufficient for enterprise workloads. However, air cooling remains viable and efficient only up to approximately 20 to 40 kW per rack. Today’s GPU-accelerated AI racks commonly operate between 40 kW and well over 100 kW, with next-generation systems expected to push toward 200 kW or more. This GPU-driven density has made air-only cooling strategies fundamentally impractical for cutting-edge infrastructure. This extreme concentration of heat generation challenges traditional airflow-based architectures, demanding a transformation in AI data center cooling. In the ong
+
+### Certification authority eMudhra defends its laughably weak private keys
+Thu, 22 Oct 2026 06:38:14 +0000 — https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647
+
+Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re coming to this one late, news broke yesterday that private keys the company used to sign certs were beyond weak: one was literally just the number “4,” and several others were short strings of easily guessed two-or-three-digit numbers. It’s easy to deduce the value of those keys, which makes it possible to forge certs and impersonate websites or other resources. That’s gold for scammers, phishers, and other miscreants. The entire infosec industry has pointed that out, urged swift adoption of better certs, and lamented the fact that implementing replacements will be a long and thankless task. eMudhra’s statement about the incident says it generated keys during “a Key Generation Ceremony (KGC) held on April 30, 2025, using FIPS 140-2 Level 3 Hardware Security Modules (HSMs).” Such hardware is the standard kit for the job and should in theory produce nicely complex keys and store them securely. But something went wrong. “A flaw in the KGC caused a wrap/unwrap step to produce a second set of weak keys alongside the original strong keys,” the statement claims. “The weak keys were the ones published to the browser root stores. eMudhra is working to establish the root cause.” The company then gets a tad defensive. “These roots and issuing CAs have gone through independent 
+
+### IBM CEO says open weight models are now irresistibly good and cheap on-prem
+Thu, 22 Oct 2026 04:26:39 +0000 — https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640
+
+IBM CEO Arvind Krishna has told investors that open weight models now make brilliant sense for on-prem enterprise use. Speaking on the company’s Q3 earnings call, Krishna said that in 2024 closed frontier models were plainly superior to open alternatives. “If you ran some assessment, some benchmark, and it was broad-based, not narrow, the top model might score a 70, and the open model might score a 20 or a 30.” “In late 2025, we began to see that gap shrink, where maybe the gap was not 70 to 20 or 30, it was 70 to 50,” he continued. The CEO said open weight models currently deliver “anywhere from 25 percent to 10 percent of the token cost of the frontier models. That is very attractive given that they’re now 90 percent as effective.” “It’s a simple question for any enterprise. Would you like something that’s 10 percent of the cost if it’s 90 percent as good as the best, or do you want to pay that 10 times higher cost?” Krishna thinks businesses will most often choose not to incur the higher costs. “Then the question is: how many tasks require that? I would tell you some do, but the vast majority, summarizing an email, examining a contract, answering a customer call, composing an email, all of those can be done as well with the much cheaper answer.” The CEO said those numbers mean IBM is seeing booming interest in on-prem AI infrastructure. While he thinks most businesses can build useful AI infrastructure in just two or three racks, he feels many will struggle to get it runni
+
+### Philippine government suspends top tech official for alleged misconduct
+Thu, 22 Oct 2026 03:04:20 +0000 — https://www.theregister.com/public-sector/2026/10/22/philippine-government-suspends-top-tech-official-for-alleged-misconduct/5304633
+
+The Philippines government’s Ombudsman has suspended a senior Department of Information and Communications Technology (DICT) official over allegations he assigned government contracts to a company he founded and continued to hold a stake in. The Ombudsman announced the suspension yesterday and named Undersecretary for E-Government David L. Almirol as the individual of concern, after considering “administrative complaints of Grave Misconduct, Conduct Prejudicial to the Best Interest of the Service and violation of … the Code of Conduct and Ethical Standards for Public Officials and Employees.” “In ordering the preventive suspension, the Ombudsman found strong evidence supporting the administrative charges against Almirol,” according to its announcement of the suspension. Almirol founded a company called Multisys Technologies Corporation that offers software development services, plus packaged products. After over a decade as the company’s CEO, Almirol in 2022 joined DICT at the request of President Ferdinand Marcos Jr., to work on improving e-government services. The Ombudsman alleged that between 2023 and 2025 DICT awarded at least eight contracts valued at over ₱1.5 billion ($24 million) to entities linked with Multisys. The contracts covered information and communications technology consultancy, e-government application deployment, web-based messaging services, cloud infrastructure, data center colocation and software subscriptions. Evidence of those transactions is apparen
+
+### To help world gorge on GPUs, Nvidia brings cash bucket to fatten wafer-thin supply chain
+Thu, 22 Oct 2026 00:54:33 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/to-help-world-gorge-on-gpus-nvidia-brings-cash-bucket-to-fatten-wafer-thin-supply-chain/5304623
+
+Nvidia has decided that its future prospects rest on an improved silicon substrate and packing supply chain, so has dipped into its giant pile of cash to ensure it can get the parts it needs by ensuring its suppliers have the resources needed to play their small part in keeping the flow of GPUs and AI processors strong. It’s not unusual for manufacturers to invest in their suppliers, because it helps to create certainty and spread financial risk. For those deals to be announced at a major tech company’s conference – as Nvidia did at its Berlin GTC gabfest – is somewhat novel, suggesting the company feels the need to show investors it is working to ensure it can meet demand for its products, and that demand will persist for years. Several of Nvidia’s announcements pertained to silicon substrates, aka wafers. Whatever you call them, they’re blank, round, silicon slabs onto which chipmakers etch circuits. They’re made by companies that sell to foundries like TSMC and Intel, which then turn them into chips of various flavours. At GTC Berlin, Nvidia CEO Jensen Huang observed that demand for AI hardware is vast, but that “Capacity is the constraint.” Specifically, capacity for activities like building substrates, advanced silicon packaging, testing, and creating optical connectors. Big Green therefore plans to increase substrate capacity for its products by 2.5x over the next three years. To make that happen, Nvidia has added Samsung’s Electro-Mechanics business unit to its substra
+
+### PHP blames supply chain security biz Chainguard for putting huge chunks of the web at risk
+Wed, 21 Oct 2026 23:02:57 +0000 — https://www.theregister.com/security/2026/10/22/php-blames-supply-chain-security-biz-chainguard-for-putting-huge-chunks-of-the-web-at-risk/5304611
+
+PHP developers have accused software supply chain security shop Chainguard of effectively revealing critical bugs in the open-source scripting language ahead of a planned official disclosure. On Wednesday, just hours after releasing emergency patches for the two bugs collectively called PHP2shell, PHP maintainers published a blog about how the vulnerabilities were found and fixed. They credited researchers at Calif, OpenAI, and Wiz with finding the security holes between August and September. All three companies have said they used AI models to find the vulnerabilities, which are now tracked as CVE-2026-109618 and CVE-2026-109619, and can allow an unauthenticated attacker to execute code on servers running PHP. This is especially serious because PHP powers huge chunks of the public web. It also adds a dose of irony to the “leak and disrupted disclosure” part of the blog, which blames Chainguard - a company that aims to secure software supply chains by hardening open source code - for the messy disclosure. The trouble, according to PHP developers, started on Tuesday around 15:00 UTC, when “two CVE IDs began circulating on online forums and social media,” along with incorrect information about the release time and CVSS severity rating. At that point, no technical details leaked. The rumors, however, prompted PHP maintainers to warn people in advance about the critical flaws, and move the planned disclosure forward a day, from Thursday to Wednesday. “Distributors were still pack
+
+### OpenClaw creator says he spent $10 million in tokens last month
+Wed, 21 Oct 2026 20:40:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573
+
+Peter Steinberger, member of technical staff at OpenAI and the creator of OpenClaw, estimates that he spent around $10 million in tokens running AI workloads last month. But don't feel bad for him, because it's all coming out of investors' pockets. He made this admission at the Cloudflare Connect 2026 conference in San Francisco on Wednesday, in a conversation with Cloudflare CTO Dane Knecht. Knecht previously observed that Steinberger has acknowledged having "a virtually unlimited token budget, which not all of us in the room have." Responding to the audible surprise rising from the audience, Steinberger added, "What people don't always understand is not all of that is useful." That only amplified the murmuring, perhaps not the effect he had been after. Meanwhile, his employer, OpenAI, is reportedly trying to " accelerate funding " ahead of rival Anthropic's expected IPO. Steinberger's subsequent musing about his preferred way of working failed to recognize Knecht's acknowledgement of financial limitations. "I feel like the main challenge a lot of people still have is that our infrastructure structure hasn't really caught up yet," Steinberger said. "Like why is this still using my computer? Shouldn't this all be in the cloud?" Apart from the privacy and compliance implications of relying on cloud-based AI, cost remains a consideration for anyone not setting venture funds alight. Cloud-hosted agents can be expensive. Shouldn't this all run locally? Pointing to the OpenClaw pr
+
+### Reach new heights of laziness by burning tokens to let an AI tap your smartphone screen for you
+Wed, 21 Oct 2026 20:13:33 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567
+
+Why use your smartphone when AI can do it for you? We’ve reached a new level of AI inanity with the launch of Opposable , a tool that taps, swipes, and types on Android phones and controls iPhones through a companion computer, sparing users the apparent burden of operating their own devices. If you don't want to update a calendar event, start a timer, or enable dark mode, you can apparently use an AI agent app on your computer (any client that supports MCP will do) to have Opposable do the thing for you on a connected phone. You could just do it on your computer, of course, but that’d require actually using your hands - like it’s some sort of baby’s toy . Lame. Opposable describes the purpose of its app as being to “give your AI thumbs” that allow an agent to open apps, read the screen, tap, and type, all while signed in to a device as the person too lazy to use a super-convenient technology themselves. As described in a blog post published by its creators Wednesday, Opposable's developers explain that its Android implementation uses accessibility services to inspect the screen, while screenshots provide visual input for an AI model. The model then decodes the images and figures out where it needs to tap on the screen in order to do whatever its user asked of it. The visual processing is handled by a vision-language model known as GUI-Owl 1.5 2B, running through llama.cpp, while tasks can be handled by either a paired desktop AI agent or an on-device agent that works without 
 
 ### Nvidia woos wary Europeans with more open weights models
 Wed, 21 Oct 2026 19:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552
@@ -250,57 +300,47 @@ Wed, 21 Oct 2026 18:22:20 +0000 — https://www.theregister.com/security/2026/10
 
 Unknown crims compromised LiteLLM's release process on Wednesday, distributing a malicious version (1.107.0) containing malware designed to steal cloud and AI credentials and a remote access trojan (RAT) capable of executing arbitrary code on infected machines through PyPI and Docker registries. PyPI quarantined the trojanized version of the popular open source AI gateway within hours, and the Docker image (litellm/litellm:1.107.0) was removed from both Docker Hub and GHCR soon after - but anyone who ran the compromised package on any platform should assume their secrets have been stolen. “Check for /tmp/.pc_once_* (the exfil has already fired if this file exists) and /tmp/remote_code_loader.lock (the C2 daemon ran or is still running if this file exists),” advised Aikido Security malware hunter Ilyas Makari. “The same applies to anyone who ran the official Docker image litellm/litellm:1.107.0 , or pulled it via the latest , main-latest , or main-stable tags.” The most recent safe version is v1.106.2. While it’s too early to tell the scale of this latest LiteLLM supply chain attack – an earlier LiteLLM compromise in March potentially exposed more than 2,500 organizations and 434,000 CI/CD pipelines worldwide, according to CloudSEK – make sure to take these measures seriously, and check environments for any indicators of compromise. Aikido, Google’s Wiz cloud security biz, and supply-chain security provider Socket have all published extensive threat-hunting and mitigation inst
 
-### AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself
-Wed, 21 Oct 2026 17:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466
-
-More than half of CIOs are likely to miss their AI-related ROI targets next year, according to Forrester. The analyst firm's State Of AI Survey 2026 found that 45 percent of AI decision-makers need positive ROI within a year to consider their investments successful. Some tech leaders will get better at tying AI spend to planned returns. However, Forrester expects success to be confined to isolated use cases rather than whole programs, which won't be enough. “As with prior emerging technologies, organizational structures, processes, and ways of working need to change to drive measurable, firmwide results with AI,” the report says. Only 22 percent of AI decision-makers report a positive AI impact on EBITDA (earnings before income tax, depreciation and amortization) over the past 12 months. “This mismatch between the investment into technology adoption and organizational change will delay the realization of heightened ROI targets,” the report adds. The money will keep flowing through IT budgets regardless. In its Technology & Security Predictions, Forrester claimed AI will account for 20 percent of all business technology spend next year. Sharyn Leaver, chief research officer at Forrester, said that will increase the pressure on leaders to prove AI's value while keeping costs, infrastructure, and risk under control. “At the same time, emerging technologies, geopolitical pressures, and the growing use of AI across technology operations will introduce new complexities and potentia
-
-### Signal bug could keep your mic - and camera - on after hangup
-Wed, 21 Oct 2026 17:00:58 +0000 — https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528
-
-Make sure you don’t say anything mean or secret after hanging up a call on Signal, as a bug in the encrypted messaging app’s calling library could prevent a call from ending properly, potentially leaving audio and possibly video active. The vulnerability, CVE-2026-113380 , was published by MITRE on Tuesday and given a CVSS score of 9.3, marking it as a critical issue in Signal’s open-source RingRTC library in every single version before 2.72.0. That update was pushed out last month, but the vulnerability wasn’t made public until now. RingRTC is Signal’s own calling library built on top of WebRTC , a technology introduced in 2011 that has since become widely used for voice and video communication over the internet. RingRTC provides Signal-specific calling functionality using WebRTC, which already encrypts media traffic, but that isn't stopping RingRTC from failing to hang up calls in certain conditions, according to the CVE report. What’s happening is, in essence, a denial-of-service attack on RingRTC’s finite state machine (FSM) event queue, which handles events involved in managing calls. If one of the people on the call saturates the FSM queue with requests, it can become overwhelmed and fail to process a hangup request, preventing the call from terminating properly. The vulnerability is classified as CWE-754 , or improper checking for unusual or exceptional conditions, according to a report posted to GitHub. A conceptual proof of concept is available in the GitHub report l
-
-### OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine
-Wed, 21 Oct 2026 15:45:00 +0000 — https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430
-
-OpenBSD 8.0 brings bigger virtual machines, graphics improvements, and another helping of AI mockery. The round version number doesn't signal a radical break with its predecessors. OpenBSD 8.0 is the 61st release of the project. Developer Bryan Steele posted a highlights rundown on Mastodon. Wireless improvements include updates to the qwx driver for Qualcomm Wi-Fi 6 hardware. Its VMM/VMD hypervisor now supports multiprocessor VMs with up to 64 virtual CPUs in each guest. The kernel virtual memory address space on x86-64 is now 512 GB, up from 4 GB, allowing for GPUs with large amounts of VRAM. On Arm64 machines, OpenBSD supports hibernation, and on both x86-64 and Arm64 it can use CPU AES instructions for faster encrypted swap. Component upgrades include OpenSSH 10.6 and LibreSSL 4.4.0, and the DRM graphics driver stack from Linux 6.18. The default C compiler is Clang/LLVM 22, including for the SPARC64 edition – but at the cost of dropping support for the Loongson architecture. The list of errata is short, with just four fixes – but then, version 8.0 is very new. Just days before this release, there was a high-profile OpenBSD issue: Calif's "Big Fish" research describes a decades-old shared-memory bug chained with a separate kernel flaw to gain local root access. Both were fixed in OpenBSD 7.9 , through errata 026 and 018 respectively. Project leader Theo de Raadt forked OpenBSD from NetBSD 1.0 in 1995, and the first release of the new OS was OpenBSD 1.2 in July 1996 – so ve
-
-### PHP devs publish critical bug fix as site owners warned: Pull 'em offline if you're unpatched
-Wed, 21 Oct 2026 15:08:51 +0000 — https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519
-
-PHP developers have released emergency updates for two critical vulnerabilities after cybersecurity authorities warned organizations to patch immediately or consider taking exposed applications offline. PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35 address CVE-2026-109618 and CVE-2026-109619, which can allow unauthenticated remote code execution. The project's developers urged users to update immediately . All PHP installations serving web requests are potentially affected, including deployments using PHP-FPM, Apache's mod_php, php-cgi, FrankenPHP, and LiteSpeed, the developers said. "We consider the risk highest for mod_php, with a demonstrated exploit where an unauthenticated request can trigger the attack before any application code runs." Jake Knott, head of threat intelligence at watchTowr, said: "As expected, watchTowr Intel is already observing in-the-wild exploitation of the latest PHP vulnerabilities, with a variety of vibecoded PoCs already hitting our sensors featuring a variety of 'php2shell' User-Agents. Whilst nobody has been successful to date, we don't expect that will last long." "Where immediate patching is not feasible, organizations should consider isolating internet-facing applications from public networks until a fix is available," CERT-EU said in an advisory issued ahead of the patches. The body lists both vulnerabilities with CVSS scores of 9.2. Finnish government services and websites belonging to the Dutch parliament, cybersecurity authorities, and data pro
-
-### Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision
-Wed, 21 Oct 2026 15:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472
-
-Cute robots stole the show at Nvidia's GTC keynote in Berlin, where Jensen Huang pitched a future powered by AI agents – and, naturally, plenty of his company's hardware. The Nvidia chief remained his usual ebullient self despite environmental protesters interrupting his presentation at Berlin's tent-shaped Tempodrom. "Why don't you clean up your act?" they demanded, holding up banners that partially obscured the presentation screen behind Huang. "All important issues, but let me get through my keynote," he joked, adding: "I'll talk to you guys later," as security swiftly removed them. Huang was discussing Vera Rubin systems before unveiling DSX POD, a reference design for factory-built, containerized AI infrastructure . DSX POD combines seven liquid-cooled Vera Rubin compute racks using Nvidia's Spectrum-X networking. Partners will cable, integrate, and test the systems in modular containers before delivery, with availability expected in early 2027. Nvidia claims deployment could shrink from six months to as little as 14 days at a prepared site. That excludes the not insignificant matter of getting power, connectivity, and other site infrastructure ready first. He was keen to add that Vera Rubin systems are designed for closed-loop liquid cooling with coolant temperatures up to 45°C, while outdoor dry coolers release heat into the air without needing to evaporate water. "At 2 gigawatts, DSX can save 54 million litres of water a day," Huang claimed, perhaps thinking of those 
-
-### OneDrive gives Macs a million things to keep in sync
-Wed, 21 Oct 2026 13:27:00 +0000 — https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442
-
-Microsoft is raising OneDrive's supported macOS sync limit to one million items, matching Windows, alongside new Copilot features, sharing controls, and an admin command-line tool. The macOS preview is scheduled for the Insiders ring this month, with general availability targeted for June 2027. Eligible devices must meet hardware and configuration requirements; others retain the existing 300,000-item supported limit. "This increase is intended to help organizations with large OneDrive and SharePoint libraries sync more content reliably across devices," Microsoft said. However, sync performance may suffer for large numbers of read-only files or accounts under legal hold. "We are actively working to improve performance and reliability for these scenarios," Microsoft said. Microsoft's cull of OneDrive's File Explorer shortcuts wasn't a retreat from AI. Its latest announcement gives Copilot more to do. The assistant can now be asked to analyze across files (for example, selecting several spreadsheets and getting the bot to come up with charts and graphs), told to organize folders, or save a repeated workflow as a personal skill in a Markdown file. There is also a Prompt Gallery to save the user from having to come up with their own ideas. Perhaps most interesting is the addition of "Hero Links," designed to end the proliferation of links to files and folders in OneDrive as permission needs change. The feature provides one link per file and folder by default, with permissions that
-
-### AI cuts coding time, but it's also filling open source's inbox with crap
-Wed, 21 Oct 2026 12:43:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389
-
-Generative AI is saving open source developers time while giving maintainers more rubbish to sift through, according to a Linux Foundation survey. Respondents estimated that a quarter of incoming pull requests – proposed code changes – were low-quality "AI slop." Open source projects have spent the past year grappling with AI-generated contributions, useful vulnerability discoveries, false positives, and duplicate reports. Linus Torvalds has warmed to the tools , while remaining critical of low-quality submissions. The foundation argues that projects need clearer policies and better tools to handle the influx. Almost three-quarters (71 percent) of maintainers reckon GenAI has lowered the barriers to contributing to open source, but just over half (53 percent) disagree that the technology has improved community trust. Respondents estimated that AI cut code-authoring time by 52 percent on average. But for highly complex tasks, 21 percent reported taking longer. Then there is governance. Only 35 percent of projects have a formal policy permitting GenAI use, while 32 percent have no policy and no plans for one, leaving expectations unclear across much of the community. Hilary Carter, SVP of Research at the Linux Foundation, said: "Open source projects need to design for a growing AI-generated contributor base, not simply react to it. That means setting clear expectations for GenAI, putting responsibility for testing and disclosure on contributors and giving maintainers better too
-
-### AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers
-Wed, 21 Oct 2026 12:00:00 +0000 — https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297
-
-When it comes to cyberattacks that shut down power grids, drinking-water systems, and other critical infrastructure, AI doesn’t – yet – turn script kiddies into sophisticated, nation-state attackers. But “the potential is there,” according to operational technology (OT) security experts. "One thing that we've relied on for years is security by obscurity when it comes to utilities," said Steve Swick, former chief information security officer at American Electric Power. " The knowledge needed to do some of that stuff is getting less likely to be necessary," Swick added during a media panel ahead of the publication of Frenos' State of AI in Security report. AI makes it easier and faster for human attackers to target critical infrastructure , gain access to utilities and manufacturing plants, and perform OT system reconnaissance. “Basic access can recon documentation, and distill through that documentation very quickly to find out critical design features of your plant and facility,” said Paul Shaver, head of OT at Armadin, during the panel. “I can download the manual for almost any automation controller, parse through that very quickly, and come up with ways that I can exploit a dedicated feature of something that was not secure by design.” Armadin is Kevin Mandia’s new security startup that uses swarms of autonomous AI agents to simulate real-world cyberattacks . Prior to joining Armadin, Shaver spent six years as the global OT practice leader at Mandia’s earlier company, Mandi
-
-### Nvidia <span data-lab-text_size_desktop="42" class="t42">picks OpenShell to </span>tame AI gents
-Wed, 21 Oct 2026 11:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319
-
-Nvidia has proposed a new way to keep corporate AI agents in line. Nvidia on Wednesday introduced its OpenShell Reference Architecture . Based on the company's OpenShell secure runtime, It's a recipe for creating, operating, observing, and policing AI agents using OpenShell on Nvidia hardware. "Nvidia created OpenShell to give agents the freedom to do useful work within clearly defined boundaries — contained, monitored and under control," CEO Jensen Huang said in a canned statement. "With the OpenShell Reference Architecture, agents can think on Rubin, act on Vera and be governed on BlueField." AI agents are touted as a powerful automation technology. The reality is that they can be unruly, as demonstrated by security testing OpenAI and Anthropic conducted, during which their models exceeded their remit and attacked third-party organizations. Developers of existing agents, like Claude Code, Codex, OpenClaw, and OpenCode, therefore include controls that limit access to tools like curl and bash. Devs also create sandboxes to isolate an agentic process from the host, so that if agents go awry they're contained. OpenShell sits a level above that with a runtime that extends sandboxing to govern gateway-brokered credentials, identity and policy boundaries, and (eventually) routing and workflows too. At least mostly – OpenShell still has a few open security-related issues listed on GitHub. To implement OpenShell, organizations need Nvidia hardware. The company's blueprint calls for 
-
-### Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks
-Wed, 21 Oct 2026 11:30:00 +0000 — https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303
-
-Datacenters are taking too long to bring online to fill the demand of the AI boom. So starting in 2027, Nvidia and its partners will offer its Vera Rubin rack systems fully plumbed, wired, and ready for deployment in modular bit barns. The containers, which Nvidia calls DSX pods, were unveiled at GTC Berlin this week and are essentially the datacenter equivalent of a trailer home. Built by partners like HPE, Dell, Schneider Electric, and others, each DSX pod will come fully furnished with all the compute, interconnects, electrical, and plumbing a growing AI factory might need. Just drop the pod on a prepared datacenter site, hook up power, networking, and cooling, and you'll be churning out tokens and raking in profit in no time. Or that's Nvidia's sales pitch anyway. Inside the 28 metric ton containers you'll find seven Vera Rubin NVL72 racks packing 504 GPUs and 252 Vera CPUs. GPUzilla says the pods will cut datacenter deployment times from six months to as little as two weeks because it will validate every fitting, cable, and component before it leaves the factory. The idea being if there is something wrong, it'll get caught there rather than after customers have gone through the trouble of hooking everything up. And just like a trailer home, Nvidia's DSX pods will be entirely customizable. Prefer HPE over Dell, or Eaton over Schneider? No problem, Nvidia has roped all its buddies into building these compute containers. And if you ever need more compute, just add another t
-
 ## Engadget
+
+### Tesla plans to start selling Cybercabs by the end of the year
+Thu, 22 Oct 2026 08:52:48 +0000 — https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/
+
+Tesla wants to sell Cybercabs to other transport companies before the year ends.
+
+### Fortnite is back on Apple's Australian App Store following court ruling
+Thu, 22 Oct 2026 08:18:58 +0000 — https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/
+
+Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.
+
+### Mark Zuckerberg says Meta is 'entering a new phase' with Muse
+Wed, 21 Oct 2026 22:36:03 +0000 — https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/
+
+Zuckerberg expects the agent will generate more revenue per user than the company's apps.
+
+### Bose buys audio rival Skullcandy
+Wed, 21 Oct 2026 22:19:48 +0000 — https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/
+
+Bose sees the company as a way to reach a wider audience.
+
+### Airbnb bans hosts from making you do the dishes
+Wed, 21 Oct 2026 22:04:32 +0000 — https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/
+
+Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.
+
+### Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots
+Wed, 21 Oct 2026 21:03:19 +0000 — https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/
+
+Anthropic subscribers in the US can join a waitlist to try the company's new agent.
+
+### Government websites in the EU and Canada taken offline over PHP vulnerability
+Wed, 21 Oct 2026 20:56:47 +0000 — https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/
+
+All websites using PHP should update to the latest security patch.
+
+### Meta ordered to cough up $25 billion in New Mexico privacy case
+Wed, 21 Oct 2026 20:43:17 +0000 — https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/
+
+The case stemmed from the nearly decade-old Cambridge Analytica scandal.
 
 ### Xbox is previewing paid cloud gaming for players without Game Pass
 Wed, 21 Oct 2026 19:52:50 +0000 — https://www.engadget.com/2293519/xbox-is-previewing-paid-cloud-gaming-for-players-without-game-pass/
@@ -322,105 +362,65 @@ Wed, 21 Oct 2026 16:09:48 +0000 — https://www.engadget.com/2293077/sonys-plays
 
 Pre-orders open on October 29.
 
-### Supernatural's VR exercise app has relaunched on Meta VR headsets
-Wed, 21 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2293056/supernaturals-vr-exercise-app-has-relaunched-on-meta-vr-headsets/
-
-It's in early access and subscriptions cost $20 per month or $200 each year.
-
-### Oppo Find X10 Pro Max hands-on: Triple 200-megapixel cameras but few surprises
-Wed, 21 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/
-
-Trying to fill a OnePlus-shaped hole, Oppo plays it a little safe.
-
-### Now you can chat with Gemini while using Google Maps through CarPlay
-Wed, 21 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2292912/now-you-can-chat-with-gemini-while-using-google-maps-through-carplay/
-
-Just tap the new Gemini icon to get started.
-
-### A permanent Pokémon store will open in London, with more locations outside Asia to follow
-Wed, 21 Oct 2026 14:20:47 +0000 — https://www.engadget.com/2292884/a-permanent-pokmon-store-will-open-in-london-with-more-locations-outside-asia-to-follow/
-
-The new retail location is set to open by 2029.
-
-### Stranger Than Heaven builds its identity as Like A Dragon's more relentless spin-off
-Wed, 21 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2292538/stranger-than-heaven-identity-like-a-dragon-relentless-spin-off/
-
-We played several hours of Sega's next big crime-thriller, and so far the Like a Dragon series is getting its most bold entry to date.
-
-### How to spot a white label gadget, and why that's important
-Wed, 21 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2292707/how-to-spot-a-white-label-gadget/
-
-Sometimes the same product is sold under multiple brands, which means you might not be getting the best gear.
-
-### Here's how SpaceX plans to catch Starship's upper stage for the first time
-Wed, 21 Oct 2026 12:19:58 +0000 — https://www.engadget.com/2292685/heres-how-spacex-plans-to-catch-starships-upper-stage-for-the-first-time/
-
-SpaceX has released a demo showing how it intends to catch Starship's upper stage, which could happen as soon as next month.
-
-### Apple iPhone Duo review: A first-class foldable
-Wed, 21 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2292333/apple-iphone-duo-review/
-
-Even though it's heavy and expensive, Apple's first foldable handset is a treat for iPhone users unwilling to switch to Android.
-
 ## TechCrunch
+
+### Tesla says it will start selling Cybercabs by end of year
+Thu, 22 Oct 2026 00:17:54 +0000 — https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/
+
+Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [ ]
+
+### Blackstone s Jas Khaira says fears over AI-buildout debt are overblown
+Wed, 21 Oct 2026 22:51:22 +0000 — https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+
+Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+
+### Meta wants to pay for its broad AI buildout with a newly created class of stock
+Wed, 21 Oct 2026 22:45:34 +0000 — https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/
+
+The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+
+### Airbnb limits chores for guests, sparking backlash from hosts
+Wed, 21 Oct 2026 22:16:05 +0000 — https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/
+
+Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
+
+### TechCrunch Founder Summit 2026: Everything you need to know
+Wed, 21 Oct 2026 21:16:20 +0000 — https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/
+
+TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.
+
+### Meta says Muse has over 10M users, with shopping a top activity
+Wed, 21 Oct 2026 21:14:19 +0000 — https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/
+
+Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.
+
+### Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation
+Wed, 21 Oct 2026 20:57:40 +0000 — https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/
+
+Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models "without ingesting half the internet."
+
+### Tesla starts Optimus robot production in California as profit falls 43%
+Wed, 21 Oct 2026 20:33:09 +0000 — https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/
+
+Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.
+
+### Recursive launches Flint, a laptop coding model it says was largely built by AI
+Wed, 21 Oct 2026 20:27:41 +0000 — https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/
+
+Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.
 
 ### Automattic begins layoffs following board upheaval and executive departures
 Wed, 21 Oct 2026 20:15:00 +0000 — https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/
 
-Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve its finances.
+Sources say more cuts could follow as the company looks to improve its finances.
 
 ### GM is betting compute and AI will help it compete with Chinese automakers
 Wed, 21 Oct 2026 19:52:20 +0000 — https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/
 
 To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.
 
-### Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal
+### Meta ordered to pay $25B in case related to Cambridge Analytica scandal
 Wed, 21 Oct 2026 19:42:32 +0000 — https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/
 
 The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.
-
-### While Amazon blocks AI agents, Walmart rolls out the welcome mat
-Wed, 21 Oct 2026 19:30:00 +0000 — https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/
-
-As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.
-
-### The internet is having a very bad cybersecurity day
-Wed, 21 Oct 2026 19:03:28 +0000 — https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/
-
-From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.
-
-### Legal AI startup Legora raises $550M Series E at $8.8B valuation
-Wed, 21 Oct 2026 18:51:56 +0000 — https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/
-
-Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.
-
-### GM is giving OnStar an AI makeover
-Wed, 21 Oct 2026 18:00:00 +0000 — https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/
-
-It's one of the biggest overhauls ever to the 30-year-old connected car product.
-
-### PHP armageddon: OpenAI, Google s Wiz find ancient holes, panicking the internet
-Wed, 21 Oct 2026 17:59:12 +0000 — https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/
-
-This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.
-
-### Blacksmith hits unicorn valuation after Sequoia leads Series C
-Wed, 21 Oct 2026 17:18:27 +0000 — https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/
-
-Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.
-
-### Waymo starts offering rides at the Las Vegas airport
-Wed, 21 Oct 2026 16:59:44 +0000 — https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/
-
-Pickups and dropoffs will happen at dedicated "autonomous vehicle zones" at Terminal 1 and Terminal 3.
-
-### Foursquare co-founder says equity holders saw no returns from the company s acquisition
-Wed, 21 Oct 2026 14:03:11 +0000 — https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/
-
-Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.
-
-### AI promises productivity, but for managers, it s mostly a headache for now
-Wed, 21 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/
-
-More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.
 

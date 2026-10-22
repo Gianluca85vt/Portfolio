@@ -1,6 +1,46 @@
-# Manga — harvested 2026-10-21T20:21:16.394Z
+# Manga — harvested 2026-10-22T09:37:41.405Z
 
 ## Anime News Network
+
+### Crunchyroll Streams English Dub for 'The Prince of Tennis: Two Samurais, The First Game,' The Prince of Tennis: A Gift from Atobe Films
+Thu, 22 Oct 2026 04:46:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100
+
+Service added 2005 films on October 15
+
+### Seven Seas Licenses Sagrada Reset Novel; Two Cats and a Dog, The Mercenary Bomber Explodes All Cheaters Manga
+Thu, 22 Oct 2026 03:53:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/seven-seas-licenses-sagrada-reset-novel-two-cats-and-a-dog-the-mercenary-bomber-explodes-all-/.243080
+
+Also licensed: <cite>Venus Mission: I Was an Assassin-for-Hire Who Died, Now I'm Hunting Heroes in Another World</cite> audiobook, <cite>Miotsukushi: Backdoor Channels</cite> manga
+
+### Anime World Offers Condolences After Screen, Voice Actor Hiroshi Tsuchida's Death, Part II
+Wed, 21 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-screen-voice-actor-hiroshi-tsuchida-death-part-ii/.243077
+
+Creators, artists, & fans came together for their farewells
+
+### The Seven Knights of the Marronnier Kingdom Anime Reveals 4 Cast Members
+Wed, 21 Oct 2026 23:38:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/the-seven-knights-of-the-marronnier-kingdom-anime-reveals-4-cast-members/.243088
+
+Naomi Shindō, Atsushi Ono, Ai Kayano, Yurie Funato voice Country of Long Nights' royalty
+
+### Anime World Offers Condolences After Actor Hiroshi Tsuchida's Death, Part I
+Wed, 21 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-actor-hiroshi-tsuchida-death-part-i/.243070
+
+Colleagues remember him from his Super Sentai roots to his prolific voice-acing years
+
+### Live-Action My Sister's Boyfriend Film's Trailer Unveils Song by timelesz
+Wed, 21 Oct 2026 22:21:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/live-action-my-sister-boyfriend-film-trailer-unveils-song-by-timelesz/.243083
+
+timelesz performs theme song "Hontō no Koto o Iu to" for December 4 film
+
+### Cygames to Reimburse Travel, Lodging for Canceled Uma Musume Concerts
+Wed, 21 Oct 2026 20:55:21 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/cygames-to-reimburse-travel-lodging-for-canceled-uma-musume-concerts/.243082
+
+Cygames to cover cancellation fees for those who planned to go, expenses who already left to LA
+
+### FuRyu Previews Crymelight Game's Battles in New Trailer
+Wed, 21 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/furyu-previews-crymelight-game-battles-in-new-trailer/.243079
+
+Game launches for Switch 2, PS5, PC via Steam on November 5
 
 ### Nao Emoto Launches Manga of Mokuyōbi ni wa Cocoa o Novel
 Wed, 21 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/nao-emoto-launches-manga-of-mokuyobi-ni-wa-cocoa-o-novel/.243041
@@ -22,51 +62,16 @@ Wed, 21 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/interview/2
 
 <cite>STEINS;GATE RE:BOOT</cite> Producer Tatsuya Matsubara and Scenario Writer Naotaka Hayashi speak on the game's new ending, it's origins, and other potential additions they decided not to pursue.
 
-### Magic Knight Rayearth, Sasaki and Peeps 2nd Season Anime Reveal English Dub Debuts, Casts
-Wed, 21 Oct 2026 12:31:44 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/magic-knight-rayearth-sasaki-and-peeps-2nd-season-anime-reveal-english-dub-debuts-casts/.243074
-
-Both dubs debut on Wednesday
-
-### The Apothecary Diaries: The False Imperial Brother Mystery Game's Trailer Reveals March 18 Release
-Wed, 21 Oct 2026 12:01:06 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/the-apothecary-diaries-the-false-imperial-brother-mystery-game-trailer-reveals-march-18-release/.243072
-
-Video previews mysteries, concoctions, investigations
-
-### Reborn as a Space Mercenary Volume 1-2 Light Novel Review
-Wed, 21 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/reborn-as-a-space-mercenary-volume-1-2-light-novel/.242454
-
-<i>Reborn as a Space Mercenary</i> consistently assumes that ticking boxes off the generic power fantasy checklist without craft or care is enough to spin something worth savoring.
-
-### Singer AKINO Graduates from bless4; Band Changes Name to 'bless∞(Forever)'
-Wed, 21 Oct 2026 11:35:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/singer-akino-graduates-from-bless4-band-changes-name-to-bless/.243069
-
-AKINO to perform in final graduation performance with band on December 21
-
-### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 9
-Wed, 21 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-9/.243044
-
-Finally being at the precipice of <i>Thousand-Year Blood War</i>'s ending after all this time is a strange feeling.
-
-### Nia Liston: The Merciless Maiden ‒ Episodes 1-3
-Wed, 21 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episodes-1-3/.243059
-
-I do not think this is going to be for everyone, but if you’re curious enough about the title to read this review, you should definitely check it out.
-
-### Steins;Gate and Beyond: The Complete Science Adventure Series Anime Timeline
-Wed, 21 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/feature/2026-10-21/steins-gate-and-beyond-the-complete-science-adventure-series-anime-timeline/.240948
-
-It can be confusing figuring out when all these anime take place—especially once time travel is brought into the equation.
-
-### A-DO Manga to End on November 18
-Wed, 21 Oct 2026 08:53:49 -0400 — https://www.animenewsnetwork.com/news/2026-10-21/a-do-manga-to-end-on-november-18/.243043
-
-Jaku Amano to publish final chapter in Monthly Young Magazine's December issue
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### BanG Dream! Releases Ave Mujica prima aurora Movie Commercial Featuring "Baddy Baddy"
+Thu, 22 Oct 2026 03:27:21 GMT — https://animecorner.me/bang-dream-releases-ave-mujica-prima-aurora-movie-commercial-featuring-baddy-baddy/
+
+BanG Dream! released a 30-second commercial for the Ave Mujica prima aurora anime movie&hellip;
 
 ### Magazine Pocket, K MANGA, MANGA Plus and More Enter Emergency Maintenance Due to Critical PHP Security Flaws
 Wed, 21 Oct 2026 18:40:05 GMT — https://animecorner.me/magazine-pocket-k-manga-manga-plus-and-more-enter-emergency-maintenance-due-to-critical-php-security-flaws/
@@ -87,11 +92,6 @@ Just Like Mona Lisa anime revealed a main visual along with a teaser trailer&hel
 Tue, 20 Oct 2026 23:39:14 GMT — https://animecorner.me/murcielago-anime-reveals-new-visual-trailer-main-cast/
 
 The previously announced MURCIÉLAGO anime revealed a new visual and trailer, along with three&hellip;
-
-### Interview: Just Like Mona Lisa Author Tsumuji Yoshimura, SHAFT's CEO Mitsutoshi Kubota, and CyberAgent Producer Manami Kabashima on the Anime Adaptation
-Tue, 20 Oct 2026 02:08:15 GMT — https://animecorner.me/interview-just-like-mona-lisa-author-tsumuji-yoshimura-shafts-ceo-mitsutoshi-kubota-and-cyberagent-producer-manami-kabashima-on-the-anime-adaptation/
-
-During their visit to the German convention AnimagiC, we had the opportunity to talk&hellip;
 
 ## MyAnimeList News
 
@@ -120,16 +120,6 @@ Tue, 20 Oct 2026 04:38:08 -0700 — https://myanimelist.net/news/74840116?_locat
 
 The official X (formerly Twitter) account of Kadokawa s Fantasia Bunko label announced on Tuesday that Daigo Murasaki s Maou 2099 (Demon Lord 2099) light novel will end with its sixth volume. Murasaki won the Grand Prize at the 33rd Fantasia Taisho with the title Ken to Maou no Cyberpunk in 2020. He renamed the work to Maou 2099 and began publishing it under the Fujimi Fantasia Bunko label in January 2021, featuring illustrations by Kureta (Ishura). Kadokawa published the fifth volume...
 
-### Visual Novel Creator Jun Maeda Diagnosed with Pharyngeal Cancer
-Mon, 19 Oct 2026 21:36:16 -0700 — https://myanimelist.net/news/74839395?_location=rss
-
-Jun Maeda, the acclaimed writer and composer known for visual novels such as Kanon, Air, Clannad, and Little Busters!, has been diagnosed with pharyngeal cancer. Visual Arts/Key announced the news on Monday, revealing that Maeda has opted to forgo active treatment in favor of palliative care so he can conserve his strength and continue his creative work. According to the company s announcement, Maeda began experiencing throat discomfort in early spring, with swelling and pain becoming more...
-
-### Magi Creator Shinobu Ohtaka Begins New Manga Geek Crown
-Mon, 19 Oct 2026 19:26:58 -0700 — https://myanimelist.net/news/74839154?_location=rss
-
-The official X account of Magazine Pocket announced on Tuesday that Shinobu Ohtaka will begin serializing a new manga, titled Geek Crown (Geek and Crown), on the platform on October 27. Geek Crown is described as a military fantasy in which the protagonist must expose a traitorous officer lurking within a royal succession war. Ohtaka is best known for the fantasy adventure manga Magi (Magi: The Labyrinth of Magic), which ran in Shounen Sunday from June 2009 to October 2017. Shogakukan published...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -145,9 +135,4 @@ Vampires, dem-dolls, ‘bad’ girls, childhood friends… plenty of manga recom
 Tue, 20 Oct 2026 20:00:57 +0000 — https://animeuknews.net/2026/10/how-secure-is-your-access-to-your-digital-titles-a-japanese-cyberattack-sounds-the-alarm/
 
 As one of Japan's biggest cloud firms is hit with a cyberattack, eBook readers are given a grim reminder of the accessability of their books in situations like this.
-
-### Gantz:G Omnibus Review
-Tue, 20 Oct 2026 09:00:04 +0000 — https://animeuknews.net/2026/10/gantzg-omnibus-review/
-
-When high-school students find themselves assigned to play deadly games for a chance of survival, they need to utilize all their wits and skills to make it through the night...
 
