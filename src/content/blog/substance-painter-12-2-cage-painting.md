@@ -19,7 +19,6 @@ artistView:
     - "Portability: a cage painted in Painter is a Painter asset. Studios whose bake authority is Marmoset Toolbag, xNormal or an in-house baker get none of this, and the mesh-cage round trip stays exactly where it was."
     - "Fragility: a mesh cage is tied to topology, a painted cage is tied to the UV layout. Re-unwrap the asset and the offsets no longer sit where you put them — different exposure, not less of it."
     - "Verification: the Texture Set Highlighter appears in one write-up and not yet in release notes anybody outside Adobe has read end to end, so treat the smaller items as described rather than confirmed."
-draft: true
 ---
 
 So far 80.lv is the only outlet with this release, so the 12.2 feature list below
