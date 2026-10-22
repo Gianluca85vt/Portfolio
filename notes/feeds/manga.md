@@ -1,11 +1,46 @@
-# Manga — harvested 2026-10-22T15:39:00.904Z
+# Manga — harvested 2026-10-22T20:17:31.817Z
 
 ## Anime News Network
 
-### Exclusive: Nakama Press Licenses Uoto's 100 Meters Manga for Release in 2027
-Thu, 22 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-manga-for-release-in-2027/.243056
+### Firefly Wedding TV Anime Reveals English Dub Cast, October 23 Debut
+Thu, 22 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-reveals-english-dub-cast-october-23-debut/.243116
 
-Nakama Press also licensed Buichi Terasawa's <cite>Goku Midnight Eye</cite> for release next year
+Rowan Gilvie, Kieran Flitton, more star in dub on Friday
+
+### Fatal Fury City of the Wolves Streams Animated Trailer for Tokyo Revengers DLC Characters Mikey, Draken
+Thu, 22 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/fatal-fury-city-of-the-wolves-streams-animated-trailer-for-tokyo-revengers-dlc-characters-mikey-/.243114
+
+Both crossover characters launch alongside Switch 2 version on Thursday
+
+### Firefly Wedding TV Anime Casts Kazuyuki Okitsu
+Thu, 22 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113
+
+Kazuyuki Okitsu plays Eishin Nitobe
+
+### Psyren TV Anime Casts Reiko Suzuki, Ayumu Murase
+Thu, 22 Oct 2026 12:55:48 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/psyren-tv-anime-casts-reiko-suzuki-ayumu-murase/.243111
+
+Series casts Suzuki as Elmore, Murase as Van
+
+### Yoroi-Shinden Samurai Troopers Episodes 13-24 Anime Series Review
+Thu, 22 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/yoroi-shinden-samurai-troopers/episodes-13-24/.242569
+
+<i>Yoroi-Shinden Samurai Troopers</i> is such a hurricane of sacrificial swerves that it's virtually impossible to talk about without addressing its shallow fixation on offing its cast.
+
+### Yūichirō Momose, Hina Hinata's Bagudan Manga Ends on November 24
+Thu, 22 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/yuichiro-momose-hina-hinata-bagudan-manga-ends-on-november-24/.243066
+
+Reverse harem comedy manga launched on March 24
+
+### Takopi's Original Sin Compilation Film's Trailer Reveals Theme Song
+Thu, 22 Oct 2026 11:36:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112
+
+Tele returns to perform theme song for November 27 film
+
+### Exclusive: Nakama Press Licenses Uoto's 100 Meters, Goku Midnight Eye Manga for Release in 2027
+Thu, 22 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-goku-midnight-eye-manga-for-release-in-2027/.243056
+
+Nakama Press also revealed new release date for <cite>Samurai Pizza Cats</cite> comic
 
 ### Capcom Confirms Data Breach of Over 11 Million User Accounts
 Thu, 22 Oct 2026 10:51:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110
@@ -27,46 +62,16 @@ Thu, 22 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/magi
 
 When it comes down to it, <cite>Magical Girl Raising Project Restart</cite> is built around one thing: unintended consequences.
 
-### Reincarnated as a Sword Season 2 ‒ Episodes 1-4
-Thu, 22 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/reincarnated-as-a-sword-season-2/episodes-1-4/.243086
-
-For all my complaining about other, low-effort isekai, I couldn't then turn around and criticize this one for trying too hard
-
-### The Apothecary Diaries Film's New Trailer Unveils Kenshi Yonezu's Theme Song
-Thu, 22 Oct 2026 08:29:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/the-apothecary-diaries-film-new-trailer-unveils-kenshi-yonezu-theme-song/.243109
-
-New visual, character chart, details on creator Hyuganatsu's new stories also unveiled
-
-### Muv-Luv Alternative's Schwarzesmarken Games Get Steam Release
-Thu, 22 Oct 2026 08:27:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/muv-luv-alternative-schwarzesmarken-games-get-steam-release/.243107
-
-<cite>Schwarzesmarken Kōketsu no Monshō</cite>, <cite>Schwarzesmarken Junkyōsha-tachi</cite> to launch with planned Japanese, English, Chinese language support
-
-### Gyakusatsu Kigen Manga Gets Animated Promotional Video
-Thu, 22 Oct 2026 07:29:03 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/gyakusatsu-kigen-manga-gets-animated-promotional-video/.243087
-
-Sōma Saitō narrates video storyboarded by <cite>My Happy Marriage</cite> director Takehiro Kubota
-
-### Bless TV Anime Casts Tarusuke Shingaki; Crunchyroll to Stream Series
-Thu, 22 Oct 2026 07:17:25 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/bless-tv-anime-casts-tarusuke-shingaki-crunchyroll-to-stream-series/.243105
-
-Shingaki voices Hikaru Oya in series debuting in January
-
-### Crunchyroll Reveals English Dub Cast, Staff Members, for The World's Strongest Witch Anime
-Thu, 22 Oct 2026 06:56:11 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-reveals-english-dub-cast-staff-members-for-the-world-strongest-witch-anime/.243103
-
-1st English dub episode streamed on Wednesday
-
-### Game Developer enish Announces Is It Wrong to Try to Pick Up Girls in a Dungeon? Frontier Zero Game for Release in 2027
-Thu, 22 Oct 2026 06:35:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/game-developer-enish-announces-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-game-/.243104
-
-New game with original story cooperation by creator Fujino Ōmori planned for release on iOS, Android, PC inside, outside Japan
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Black Clover's ONE OR EIGHT to Perform in Manila
+Thu, 22 Oct 2026 17:06:02 GMT — https://animecorner.me/black-clovers-one-or-eight-to-perform-in-manila/
+
+Rising Japanese boy group ONE OR EIGHT is ready to take off with their&hellip;
 
 ### The Apothecary Diaries Movie Reveals New Trailer, Key Visual, and Kenshi Yonezu Theme Song
 Thu, 22 Oct 2026 12:21:09 GMT — https://animecorner.me/the-apothecary-diaries-movie-reveals-new-trailer-key-visual-and-kenshi-yonezu-theme-song/
@@ -120,11 +125,6 @@ Tue, 20 Oct 2026 17:43:12 -0700 — https://myanimelist.net/news/74842607?_locat
 
 The official website for the Ghost: Yoru no Hate original anime movie announced three additional cast members on Wednesday. The movie is scheduled to open in Japanese theaters on February 11, 2027. The movie was previewed at Sitges Film Festival on October 9 and at Animation Is Film Festival on October 17. Cast Moby Dick: Kenjirou Tsuda (Jujutsu Kaisen) Karate: Hiroki Yasumoto (Koukaku Kidoutai (TV)) Itou: Hiroshi Kamiya (Shingeki no Kyojin) Shingo Natsume (One Punch Man) directes and pens the...
 
-### Murciélago Reveals Main Cast, Additional Staff, Second Teaser, Winter 2027 Debut
-Tue, 20 Oct 2026 11:20:03 -0700 — https://myanimelist.net/news/74841491?_location=rss
-
-The official website for the television anime adaptation of Kana Yoshimura s Murci&eacute;lago manga revealed main cast, additional staff, a teaser visual, and a second teaser promo on Wednesday. The anime series will premiere on Tokyo MX, Kansai TV, and BS11 in January 2027. Cast Kuroko Koumori: Hitomi Ueda (Raise wa Tanin ga Ii) Hinako Tozakura: Minori Suzuki (Macross &Delta;) Chiyo Yanaoka: Sumire Uesaka (Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san) Staff Assistant Director:...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
@@ -135,9 +135,4 @@ _Nothing in the last 48 hours._
 Wed, 21 Oct 2026 09:00:12 +0000 — https://animeuknews.net/2026/10/from-our-tbr-pile-october-2026/
 
 Vampires, dem-dolls, ‘bad’ girls, childhood friends… plenty of manga recommendations from our reviewers to keep readers engrossed this October.
-
-### How Secure Is Your Access To Your Digital Titles? A Japanese Cyberattack Sounds the Alarm!
-Tue, 20 Oct 2026 20:00:57 +0000 — https://animeuknews.net/2026/10/how-secure-is-your-access-to-your-digital-titles-a-japanese-cyberattack-sounds-the-alarm/
-
-As one of Japan's biggest cloud firms is hit with a cyberattack, eBook readers are given a grim reminder of the accessability of their books in situations like this.
 

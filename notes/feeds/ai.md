@@ -1,11 +1,21 @@
-# AI — harvested 2026-10-22T15:39:00.904Z
+# AI — harvested 2026-10-22T20:17:31.817Z
 
 ## OpenAI
+
+### Build more responsive apps with the Decisions API
+Thu, 22 Oct 2026 19:00:00 GMT — https://openai.com/index/decisions-api
+
+Fast, focused, low-cost decisions for any application.
 
 ### What FDE means at OpenAI
 Thu, 22 Oct 2026 06:00:00 GMT — https://openai.com/index/forward-deployed-engineering-means
 
 What forward deployed engineering means at OpenAI
+
+### Uber brings ChatGPT Work to all employees with OpenAI
+Thu, 22 Oct 2026 00:00:00 GMT — https://openai.com/index/uber-chatgpt-work-rollout
+
+Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.
 
 ### How AT&T is rethinking in-house legal work with OpenAI
 Wed, 21 Oct 2026 17:00:00 GMT — https://openai.com/index/att-legal
@@ -54,6 +64,9 @@ OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, str
 
 ## Hugging Face
 
+### OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
+Thu, 22 Oct 2026 16:11:31 GMT — https://huggingface.co/blog/allenai/olmoearth-v1-3
+
 ### Ensemble forecasting with IBM Granite time-series models
 Thu, 22 Oct 2026 07:51:31 GMT — https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 
@@ -68,9 +81,6 @@ Wed, 21 Oct 2026 16:04:43 GMT — https://huggingface.co/blog/amazon/profiling-t
 
 ### Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
 Wed, 21 Oct 2026 14:58:18 GMT — https://huggingface.co/blog/ibm-granite/granite-speech-5
-
-### FairStress: A deeper evaluation of fairness in LLM decision-making
-Tue, 20 Oct 2026 16:09:19 GMT — https://huggingface.co/blog/allenai/fairstress
 
 ## Google DeepMind
 

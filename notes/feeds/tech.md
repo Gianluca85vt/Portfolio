@@ -1,6 +1,56 @@
-# Tech — harvested 2026-10-22T15:39:00.904Z
+# Tech — harvested 2026-10-22T20:17:31.817Z
 
 ## Ars Technica
+
+### Meet the 2026 winner of Nikon's Small World photomicrography contest
+Thu, 22 Oct 2026 19:34:40 +0000 — https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
+
+A 25-year-old German experimental photographer has won the 2026 Nikon Small World photomicrography competition with a striking image of droplets of ink being deposited on paper by an inkjet printer. Ole Bielfeldt beat out 1,802 other entries hailing from 69 different countries. Bielfeldt became interested in photomicrography during the COVID-19 lockdown after discovering an old microscope in his parents' attic. He figured out how to build an adaptor out of a tube and some wood to connect the microscope to his father's camera and taught himself the art through trial and error, building custom tools as needed. He documents how he captures transformative images of everyday objects with behind-the-scenes videos posted to macrofying , his photography and videography brand. It was Bielfeldt's curiosity about the inner workings of inkjet printers that inspired his winning entry, but capturing the action of ink drops being deposited on paper was a challenge, given that the process happens so quickly. The droplets, for instance, moved faster than the camera's shutter speed. Bielfeldt's solution was to deconstruct the printer so that the paper moved under a stationary (rather than moving) printhead, and then take the image in a dark room, using a flash to serve as the shutter, thereby freezing the ink drops mid-air. There was no need for pricey equipment. Bielfeldt does not use AI in his images, preferring to rely on traditional techniques. Read full article Comments ]]>
+
+### "Disillusioned" MAHA leader quits as Trump admin's food agenda spoils: Report
+Thu, 22 Oct 2026 19:04:06 +0000 — https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/
+
+Calley Means—a top ally to anti-vaccine Health Secretary Robert F. Kennedy Jr. and a co-author of the so-called "MAHA bible"—resigned from his role in the Trump administration Thursday, reportedly in frustration over delays to food policy changes sought by the Make America Healthy Again movement. "I am resigning from the White House with tremendous respect for President Trump and Bobby Kennedy," Means wrote in a social media post this afternoon . "It was an honor to advocate for MAHA moms in the administration and steer policies like Dietary Guidelines reform, psychedelic reform, removing soda from SNAP, removing food dyes, GRAS reform, and overhauling government food procurement." His post did not provide a reason for his departure. Means served as a senior advisor to Kennedy. Read full article Comments ]]>
+
+### Electric or gas? BMW goes both ways with new 2027 X5 and iX5.
+Thu, 22 Oct 2026 19:01:23 +0000 — https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/
+
+BMW provided flights from Washington, DC, to Los Angeles and accommodation so Ars could drive the new X5 and iX5, as well as a refreshed i7 (which you can read about soon). Ars does not accept paid editorial content. When we first drove BMW’s first Neue Klasse model, the iX3 , it quickly revealed that BMW knows how to make a good electric vehicle. A clean-sheet design, it featured the automaker’s sixth-generation electric powertrain , a completely reimagined dashboard, and powerful computers to run the whole show. Now, much of that technology is being ported over to the larger X5 line. But BMW knows not all its customers are ready to go electric, especially in the US, so it’s sticking with its powertrain-agnostic CLAR platform, as used in cars as diverse as the large 7 Series and the new gasoline 3 Series. Which means in addition to the all-electric iX5, there are also mild hybrid and plug-in hybrid X5s available, and in time, even a hydrogen-powered option. For now, as I’ll explain, I think the EV is the pick of the bunch. Get used to it, because this is what BMW SUV kidney grilles look like from now on. Credit: BMW If you looked very carefully you'd see this was an iX5 because there's no exhausts. Of course, reading the badge is probably easier. Credit: BMW Pick your power The most conventional option is the X5 40 xDrive, powered by a 3.0 L turbocharged inline six-cylinder engine that generates 394 hp (294 kW) and 428 lb-ft (580 Nm). The 48 V mild hybrid system can contribu
+
+### Samsung all but confirms iPhone Duo is goosing Galaxy Z8 sales
+Thu, 22 Oct 2026 18:49:14 +0000 — https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/
+
+Android-powered foldable phones have been available for years, but most people never paid attention to them. As predicted, that could be changing now that Apple has entered the folding phone market with the iPhone Duo . Analysts have speculated that Samsung's Z8 foldables were seeing a boost from the iPhone announcement, and now Samsung has seemingly confirmed that. In a new blog post , Samsung UK crows that the company's 2026 foldable lineup is moving much faster than last year's models. Compared to the Galaxy Z Fold 7, combined European sales for the Galaxy Z Fold 8 and Galaxy Z Fold 8 Ultra are up 45 percent. Samsung isn't talking about Z Flip 8 sales, but it previously noted that its larger foldables made up about 80 percent of foldable purchases. We can assume any increase there is not impressive enough to mention. The reason for flat Z Flip sales may simply be that Apple didn't release a flip phone. Unsurprisingly, Samsung doesn't mention Apple or the iPhone Duo in its press release. However, it does say that search volume for the Z8 series across Europe spiked 460 percent the week of September 6 to 12. And guess what was announced on September 9? Yep, the iPhone Duo. Z Fold 8 search volume across the entire month of September (when the phones launched) was up 260 percent. Read full article Comments ]]>
+
+### US official: Russia's stalker satellite sure looks like an orbital weapon
+Thu, 22 Oct 2026 18:29:39 +0000 — https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/
+
+Four years ago, a senior official in Russia's foreign ministry painted a bullseye on commercial satellite networks that assist Ukraine in its fight against invading Russian military forces. On Wednesday, several days after a Russian military spacecraft moved within striking distance of one of those commercial satellites, the same Russian diplomat assured the world there's no reason to worry. There's a sharp incongruity in those statements from Konstantin Vorontsov, deputy head of Russia's delegation to the United Nations. Vorontsov's comments Wednesday in the UN General Assembly's First Committee came moments after a US official called attention to recent maneuvers by Kosmos 2612 , a Russian military craft that approached a US-registered commercial satellite some 340 miles (550 kilometers) above Earth. Read full article Comments ]]>
+
+### Meta shocked by $25B fine after N.M. refused to join multistate settlement
+Thu, 22 Oct 2026 17:04:31 +0000 — https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/
+
+Meta must pay $25 billion to New Mexico after a jury found the tech giant guilty of nearly 44 million violations of state consumer protection laws. The largest fine to ever hit Meta came after New Mexico Attorney General Raúl Torrez declined to join an $18 billion settlement Meta reached earlier this year with attorneys general in nearly all states. In his opinion Wednesday, US district court judge Francis J. Mathew said there was no “bright line rule” for determining the appropriate penalty for Meta's repeated and willful deception of users since 2010 about their “control of data, third-party data misuse, misinformation, hate speech, and equal enforcement.” Read full article Comments ]]>
+
+### US-backed vaccine trial on babies canceled after international outcry
+Thu, 22 Oct 2026 16:37:00 +0000 — https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/
+
+Government officials in Guinea-Bissau have formally rejected a clinical trial that would be run by Danish researchers and funded by the US to look for alleged nonspecific harms from the newborn dose of the hepatitis B vaccine. The vaccine dose is currently recommended globally for all newborns and has been used safely and effectively for decades. In an email to Ars Technica, one of the trial's lead researchers, Christine Stabell Benn of Bandim Health Project and the University of Southern Denmark, said that Guinea-Bissau's Council of Ministers "formally reaffirmed its non-acceptance of the study on 16 October." The revelation that the study was formally rejected last week comes after news on Monday that judicial police in Guinea-Bissau raided Bandim Health's offices and seized vaccines . Stabell Benn highlighted that the police search came after the trial was rejected. Read full article Comments ]]>
+
+### This emulator reimagines Nintendo’s Virtual Boy with a full color display
+Thu, 22 Oct 2026 15:59:40 +0000 — https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/
+
+Last year, we reported on Red Viper , a Virtual Boy emulator that added a splash of Super Game Boy-style color to Nintendo's famously failed red-on-black "portable" 3D headset from the '90s. Now, a new emulation experiment, VBoy Color , has taken the concept to a higher level, using a tile-based palette system that allows for many more distinct colors in each individual Virtual Boy frame. Rather than simply replacing the Virtual Boy's four shades of red with four different colors, VBoy Color's readme files explain how the emulator's game-specific Color Packs can assign a distinct four-color palette to each 8x8 tile in a Virtual Boy scene. That means the emulator can differentiate between green pipes, grey platforms, and red brick wall in Mario Clash , for instance, even though all those in-game objects share the same overlapping red hues in the original game. The Game Boy Color-esque results feel like being transported into an alternate history where Nintendo invested in a full-color display rather than cheaper red LEDs for the Virtual Boy hardware. The increased contrast between differently colored elements is particularly welcome in games like Jack Bros. or Vertical Force , where the original red-on-red display often makes it hard to differentiate the player-character from busy red background elements. Read full article Comments ]]>
+
+### Hackers got a four-day head start on epic PHP2Shell vulnerability
+Thu, 22 Oct 2026 15:25:02 +0000 — https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/
+
+Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems. The world’s largest cloud computing provider on Wednesday said it had identified an attempt by hackers to exploit the bug four days before the weakness was disclosed to the public. Amazon added the flaws were “now being broadly exploited in the wild.” Read full article Comments ]]>
+
+### Sauron recruits his future Ringwraiths in Rings of Power S3 trailer
+Thu, 22 Oct 2026 14:22:31 +0000 — https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/
+
+Lord of the Rings: The Rings of Power returns next month for its third season. Prime Video unveiled a teaser earlier this year at San Diego Comic-Con, but we haven't heard much about the new season otherwise. We now have the official full trailer, and it's jam-packed with a rising Sauron, who is intent on conquering Middle-Earth with his army of Orcs—with the fractured opposition of elves, dwarves, and men scrambling to figure out how best to stop him. We also meet the human men who will become the Ringwraiths; the showrunners have dubbed them the Nazgnagol ("Rings-servant"). (Some spoilers for the first two seasons below.) Prime Video made a major investment in The Rings of Power when it acquired the rights to the source material from the Tolkien estate, even committing to multiple seasons upfront. S3 is set seven years after the events of S2 and opens when the war between the elves and Sauron is at its height. Per the official synopsis: Read full article Comments ]]>
 
 ### Forget "Malaise 2.0," GM says it's still all-in on EVs and autonomy
 Thu, 22 Oct 2026 13:04:32 +0000 — https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/
@@ -12,109 +62,64 @@ Thu, 22 Oct 2026 11:30:33 +0000 — https://arstechnica.com/information-technolo
 
 Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday. The hijacking began in late August, when, according to Tor volunteers , the attacker used a valid password that had been reused to gain access to a Tor management server. The attacker then installed Ebury , a backdoor written for Linux that was discovered 12 years ago. Mysteries remain Then the attacker connected from the management server to a second Tor server, called Switzerland2, through SSH, using an RSA key that, for unknown reasons, investigators couldn’t find among Switzerland2’s authorized keys. With administrative control of Switzerland2, the attackers installed Ebury there as well. Finally, the attacker reconfigured settings on two exit nodes that Switzerland2 hosted. Read full article Comments ]]>
 
-### UN says we're going to blow past 1.5º warming, offers a "now what?" answer
-Thu, 22 Oct 2026 11:15:36 +0000 — https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/
-
-In 2015, all but two countries agreed to make an effort to keep global temperatures from reaching 1.5° C above pre-industrial readings. Since then, most of the world has largely treated what they signed on to as aspirational, and one of the largest emitters (the US) has alternately withdrawn and recommitted to the agreement. Meanwhile, the planet has responded as expected to steadily rising carbon emissions and appears to be practically at the 1.5° limit. On Wednesday, for the first time, the United Nations Environmental Programme (UNEP) acknowledged that reality , and conceded that the goal of keeping warming below 1.5° was no longer a viable one. Instead, its new goalposts focus on keeping both how long we exceed that limit and how much we exceed it by, at a minimum. Doing that will require both dramatic emissions cuts now and the removal of hundreds of gigatonnes of carbon dioxide from the atmosphere before the century is out. Bowing to the inevitable Depending on which baseline you use to establish pre-industrial temperatures, as well as which reconstruction of global temperatures you rely on, the world has either gotten very close to, or already exceeded the 1.5° milestone. The current El Niño event, which appears exceptionally strong, will almost certainly mean that we've gone over it no matter which records you choose. Read full article Comments ]]>
-
-### FCC chair warns media not to run the "fake polls" Trump keeps complaining about
-Wed, 21 Oct 2026 22:17:50 +0000 — https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/
-
-Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing "fake polls," amplifying one of the many complaints that President Trump has regularly made about the news media. Carr's post on X said, "Many journalists and broadcasters have been amplifying or airing these Polls without regard to basic journalistic ethics and without informing the public that those Polls lack a scientific, accurate, or even real basis... Broadcasters are advised to avoid engaging in News Distortions or running Broadcast Hoaxes by airing Polls that would violate their regulatory obligations." Carr urged broadcasters to "provide their viewers with additional context and information about Polls they have covered." In fact, one small polling outfit was exposed as a hoax this week, and a similar incident occurred in August. News outlets have reported on these hoaxes, providing the very "context" that Carr said is needed. Read full article Comments ]]>
-
-### Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought
-Wed, 21 Oct 2026 22:06:07 +0000 — https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/
-
-In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to "purchase cloud playtime hours through the Xbox Store and stream eligible games they own on supported devices." Today, Microsoft rolled out those a la carte Cloud Playtime purchases to Xbox Insiders, with prices that might be a bit galling for players who have already purchased these streamable games. The "introductory launch pricing" for Xbox's Cloud Playtime purchases is as follows: 10 hours for $4 (~$0.40/hour) 25 hours for $8 (~$0.32/hour) 50 hours for $12 (~$0.24/hour) Purchased playtime "remains available until it’s used," Microsoft writes, so you don't have to worry about your 50-hour purchase expiring before you can use it fully. Read full article Comments ]]>
-
-### Enterprises keep buying software upgrades that IT thinks will make things worse
-Wed, 21 Oct 2026 21:48:52 +0000 — https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/
-
-Enterprise-sized businesses spend, on average, 28 percent of their software budgets on unwanted upgrades, migrations, and licensing changes. Often, those firms' IT heads think those changes are detrimental. Those results are according to a survey of 2,018 chief information officers and senior IT decision-makers at companies with at least 10,000 employees that Origina commissioned for its report, “ The Software Tax .” About half of the respondents (1,011) are from the US, and the rest are from the United Kingdom. All respondents worked at companies with at least $1 billion in annual revenue. Keep in mind that Origina provides maintenance for various enterprise software. Its report points to independent software maintenance as a way for IT leaders to regain control over software budgets, illustrating its potential bias. A third-party research consultancy, Censuswide , conducted the survey. Read full article Comments ]]>
-
-### Tesla profits drop 43% in Q3
-Wed, 21 Oct 2026 21:35:07 +0000 — https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/
-
-Tesla published its third-quarter 2026 financial results this afternoon. Earlier in October, it reported its sales and deliveries for the three-month period, selling fewer cars than in the same quarter in 2025 , yet it still beat analyst projections. Now we can see how those sales translate to the bottom line. Tesla brought in $28 billion in revenue in Q3, almost the same as in 2025. Automotive revenues were $20.6 billion, a 3 percent decrease year over year. Perhaps more troubling is the decline in revenue from solar panels and storage batteries—this line of business had been growing, but for Q3 revenue fell 16 percent year over year to $2.9 billion. Services and other revenues, though, which include parts and Supercharger use, grew by a third to $4.6 billion. But the company—like the rest of us—has seen its expenses go up. Operating expenses rose by 39 percent to $4.8 billion, dropping the company’s operating margin to just 2.6 percent; in Q3 2025, Tesla’s margin was 5.8 percent. Net profit fell to $787 million, down 43 percent year over year. What’s more, capital expenditures were up by 110 percent to $4.7 billion, and free cash flow was down 62 percent to $1.5 billion. Read full article Comments ]]>
-
-### The new human-crafted Apple Music brand matters in an AI world
-Wed, 21 Oct 2026 19:44:40 +0000 — https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/
-
-Apple just revealed a new brand identity for Apple Music, with the expected turn to Liquid Glass. I’m not much of a fan of their new design language in general; this is where I admit that I’m still running MacOS Sequoia and have grumpy things to say about rounded corner radii and text legibility. It’s just a trend, it will pass, and at some point I’ll probably cave and upgrade when it starts actually affecting my ability to get work done, or more importantly get security updates. Once I adjust, I’ll stop noticing it, and life will go on. As such, I wouldn’t normally find an obvious rebrand like this notable, much less feel like I had much to say about it. But then I happened to catch Apple’s behind-the-scenes video in my YouTube recommendations, and I realized I did have thoughts. Read full article Comments ]]>
-
-### RIP BioWare: EA shuts down storied RPG studio after over three decades
-Wed, 21 Oct 2026 19:12:16 +0000 — https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/
-
-The legendary studio behind series like Mass Effect , Dragon Age , Neverwinter Nights , and Star Wars: Knights of the Old Republic is no more. BioWare announced via social media Wednesday afternoon that "after more than three decades of shared adventures, BioWare is closing and early development on the next Mass Effect project is ending." The official announcement was posted mere minutes after a Bloomberg report detailed 400 job cuts across BioWare parent company Electronic Arts, including 50 at BioWare, based on reports from "a person familiar with the company's plans." "Across our portfolio, we’re making deliberate choices to align talent and investments where we see the greatest opportunities for players and long-term growth," EA executives wrote in a message to staff, according to Bloomberg. Read full article Comments ]]>
-
-### OpenAI's latest AI models are coming to Google Cloud and Antigravity
-Wed, 21 Oct 2026 18:51:42 +0000 — https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/
-
-Google would certainly prefer that everyone used its Gemini models with Google Cloud services, but soon, you'll have more options. OpenAI and Google have come to an arrangement that will see the former's frontier models arrive in Google Cloud services. Perhaps more importantly, GPT models will soon appear in Antigravity, Google's agent-powered coding tool. For enterprise customers and AI enthusiasts, OpenAI's latest model will appear in Google's "Model Garden" in the coming weeks, adding to its 200-plus options. The garden already offers access to Google's Gemini models, as well as an assortment of open models like Mistral, Llama, and Gemma. Anthropic's Claude AI has also been available for some time. Google says it's now the only large cloud provider offering access to all three leading closed LLMs. While OpenAI notes that Microsoft continues to be its primary cloud partner, the full suite of current GPT 6 and 6.1 models—Astra, Sol, and Luna—will launch on Google Cloud. Astra will naturally cost the most to run, but Google's system supports dynamically moving workloads between LLMs based on performance, latency, and efficiency. Read full article Comments ]]>
-
-### Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump
-Wed, 21 Oct 2026 18:35:38 +0000 — https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/
-
-A Wall Street Journal report said SpaceX CEO Elon Musk ordered the Starlink throttling that blindsided Ukraine's air assault forces last week, despite Musk's claim that all decisions on the military version of Starlink are made by the US military and President Trump. Trump denied ordering the restrictions. While Musk may have spoken to Trump and administration officials before the decision, The Wall Street Journal reported yesterday that Musk made the final call. The decision came after both Musk and Trump criticized Ukraine for attacking Russian diesel refineries. "Elon Musk ordered the slowdown of a military-grade version of Starlink relied on by Ukraine, a decision that sparked panic in Kyiv and confusion inside the Trump administration," the WSJ wrote, citing unnamed US officials and people familiar with the matter. The report said that "Musk capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network... rendering some offensive drones and interceptor drones virtually useless." Read full article Comments ]]>
-
-### Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits
-Wed, 21 Oct 2026 18:20:40 +0000 — https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/
-
-Elon Musk’s SpaceXAI is stuck facing a lawsuit over alleged data center pollution after Donald Trump failed to convince a judge that his Environmental Protection Agency (EPA) has complete control over all Clean Air Act lawsuits and can dismiss any suit at whim. Soon after unpermitted gas turbines were discovered powering Musk’s giant Colossus data center in Memphis, Tennessee, the NAACP sued . Its lawsuit sought an injunction requiring xAI (which, following a merger , is known now as SpaceXAI) to use the best available pollution control technology when operating the turbines and ordering penalties up to $124,426 per day per violation. Without such remedies, the turbines risked drastically spiking pollution in already vulnerable neighborhoods housing predominantly Black communities nearby, the NAACP argued. To block the lawsuit, Trump tried to intervene, arguing that the EPA had the power to unilaterally dismiss lawsuits any time the president decides against enforcing the Clean Air Act. According to Trump, it would supposedly “not serve the public interest” if citizens were allowed to seek massive civil penalties to punish polluting AI firms that were trying to get data centers operational as fast as possible to support Trump’s AI Action Plan . Read full article Comments ]]>
-
 ## The Verge
 
-### Apple’s Magic Keyboards for iPad are about half off, with a small catch
-2026-10-22T11:14:20-04:00 — https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale
+### Sure, let’s smoosh SpaceX and Tesla together, who cares
+2026-10-22T15:45:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari
 
-You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot . I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’t eligible for AppleCare. That said, Woot says they’re in “pristine condition, with essentially no visible signs of use.” If you’re still interested, the savings should be worth it. The most affordable option is the Magic Keyboard for the 13-inch iPad Air (M2, M3, M4 versions supported). Originally $319, and selling for that price at most retailers, you can nab one in white for just $129 . Apple Magic Keyboard for iPad Air (M4, M5) Where to Buy: $269 at Amazon (11-inch) $319 $129 at Woot (13-inch) Woot also has the Magic Keyboard in black for the 11-inch iPad Pro (M4 and M5 editions) and the 13-inch Pro supporting the same configurations. Those cost $159 and $199 , respectively, which is well over $100 off. Apple Magic Keyboard Case for iPad Pro (M4, M5) Where to Buy: $289 $159 at Woot (11-inch) $349 $199 at Woot (13-inch) Each Magic Keyboard essentially turns your iPad into a MacBook, of sorts, complete with a trackpad, aluminum design, and a function row of keys. It magnetically attaches to the back of your iPad, and gets power via its pogo pins, keeping the tablet’s USB-C port free for you to plug in accessories. The keyboard accessory features a USB-C port in its cantilevered double-hinged design for charging your iPad (this 
+Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips , but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or "spread the light of consciousness," as he put it in this week's SpaceX earnings call (and earlier S-1). Now, a reasonably informed person knows that we don't have the technology - or, frankly, even the raw information to build the technology - in order to support human life in space. … Read the full story at The Verge. ]]>
 
-### PHP: The three little letters wreaking havoc across the web
-2026-10-22T11:12:27-04:00 — https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down
+### Teenage Engineering launched an instrument amp with a ton of built-in effects
+2026-10-22T15:44:51-04:00 — https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp
 
-Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger . By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular sites and platforms, including DeviantArt and 4Chan, which were temporarily shut down after the vulnerabilities were disclosed. Even governments weren t immune. But it s not as simple as updating a few servers. The vulnerability exists in every version of PHP dating back roughly 20 years, many of which are no longer supported. That means some older sites and services that are no longer actively maintained are at risk, leaving them with little option but to permanently shut down. Here s all the latest developments in what security firm Wiz has called “among the most severe vulnerabilities discovered … in software history.” The Internet Archive was briefly forced offline because of PHP. Two old-school Japanese mobile games are shutting down over the PHP exploit. The PHP2Shell exploit hit Cloudflare hard. PHP: The three letters that shut down sites all over the internet today GPT‑5.6 Sol was used to identify critical PHP flaw. A critical PHP vulnerability may take websites down today ]]>
+It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35 , a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to it via Bluetooth and connect multiple EP-35s together over Bluetooth using Auracast . If you have them paired in stereo, tilting a unit to the left or right sets it to the appropriate stereo channel, which is pretty neat. There are separate effects processors for guitar and vocals, though you have limite … Read the full story at The Verge. ]]>
 
-### You could just get a refurbished Samsung phone on Amazon
-2026-10-22T10:55:29-04:00 — https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon
+### Republican politicians have embraced anti-Indian racism — and it’s costing them votes
+2026-10-22T15:15:00-04:00 — https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas
 
-I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones . Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warranty. They currently start at $489 for the Galaxy S24 FE with 128GB of storage, significantly less than its $649 launch price, or $699 for the current-gen S26 FE. I got that exact same phone in August after cracking the screen on my Nothing CMF Phone 1. But my used 128GB Galaxy S24 FE cost $329 on Back Market, over $100 less than the certified renewed one Samsung is offering. I've gone with preowne … Read the full story at The Verge. ]]>
+Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted for Texas Democratic Senate candidate James Talarico, and he publicly urged others to do the same. Bhatt, whose father is a small-business owner, tells The Verge he was initially drawn to the Republican Party due to its economic principles. "The strong belief in individual liberty and limited … Read the full story at The Verge. ]]>
 
-### Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off
-2026-10-22T10:41:02-04:00 — https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale
+### Google tells Android users to update as parts of Canada adopt permanent daylight saving time
+2026-10-22T15:13:42-04:00 — https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada
 
-I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days . If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting their camera-equipped bird feeders for a limited time. Right now, you can buy Coolfy’s Aura Smart Bird Feeder for $149.90 ($140 off) , or the Birdfy Feeder from Amazon or Birdfy for $109.99 ($90 off). You can also add a solar panel to the latter for an extra $20 from Birdfy, or grab both the panel and lifetime AI-powered bird identification from Amazon or Birdfy for $149.99 ($110 off). Aura Smart Bird Feeder Where to Buy: $289.9 $149.9 at Coolfly Birdfy Feeder Where to Buy: $199.99 $109.99 at Amazon (non-solar) $219.99 $129.99 at Birdfy (solar-powered) $259.99 $149.99 at Birdfy (solar-powered with lifetime AI) My colleague Jennifer Pattison Tuohy called the Aura Smart Bird Feeder an impressive package, praising its large seed hopper, exceptional battery life, and dual solar panels. She also liked its unique side-mounted camera, which provides a more natural, wider view of birds than many other smart feeders. It can capture up to 2.5K video with a 150-degree field of view and offers full-color night vision, cloud and local storage, and AI-powered identification of more than 10,000 bird species, all without a subscription. Birdfy’s feeder offers many of the same perks for less, including 2K video, night vision, and AI-powered identification of more than 6,000 bird
+As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July , there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this year, Google has shared some suggested fixes if Android devices are showing the incorrect time when clocks aren't turned back an hour there on November 1st. In an announcement shared to the Android community help forums , Google suggests a simple fix for Canadians experiencing issues as a result … Read the full story at The Verge. ]]>
 
-### Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold
-2026-10-22T10:24:49-04:00 — https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china
+### Discord now formats Markdown previews right
+2026-10-22T14:58:19-04:00 — https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels
 
-The design of widescreen folding phones like the Samsung Galaxy Z Fold 8 , Huawei Pura X View , and now the iPhone Duo , is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpad Cool X Wide has a much wider screen than what's typically seen in non-folding phones. The screen real estate is more on par with what you get from a tiny tablet , or what the iPhone Duo and Galaxy Z Fold 8 offer when closed, minus huge price tags , budget-stressing repair costs , and inevitable screen creases . The Coolpad Cool X Wide is now available for preorder through JD.com in China for 999 C … Read the full story at The Verge. ]]>
+Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with "a bunch of symbols," according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects on the platform. "When you upload a Markdown (.md) file, you'll now see the file rendered all nice and neat and pretty instead of with a bunch of symbols," Discord says . "This includes tables, formatting, all that good stuff. Totally great for when you're doing a casual Sunday-night sharing READ … Read the full story at The Verge. ]]>
 
-### Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption
-2026-10-22T10:00:00-04:00 — https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation
+### The new Fire TV Stick 4K is already half off
+2026-10-22T14:43:57-04:00 — https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale
 
-Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ever since publishing an essay in late August titled “The turbulent AI era is here. The choices we make now are critical.” In his piece, Gates ratcheted up his rhetoric around AI safety, writing that “even under the best circumstances, the transition to this new AI era will be one of the most turbulent times in human history.” In interviews since , Gates has called AI “the most dangerous thing that humans have ever gone near,” and that AI “makes nuclear weapons look like nothing.” It is clear he does not think the current policy response from the White House, or the lack of coordinated efforts from the AI industry itself, is sufficient to combat this threat. Verge subscribers, don t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here . Not a subscriber? You can sign up here . So I wanted to know: Is Bill Gates an AI doomer? I also had a series of questions downstream from what he’s been arguing about AI. How can we ever hope to control AI, and align it to humanity, if we can’t even agree on what it is and whether it’s conscious ? How would you even technically construct a solution to alignment that could be enforced, not just for closed-source models but open-source ones, too? Bill gave us a big chunk of his time to dig
+Despite being announced just a few weeks ago , both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power connection, meaning it can draw all the juice it needs from the USB port on your TV. It supports 4K at up to 60fps, with HDR10 Plus for higher contrast, although it’s worth noting that it doesn’t allow for side-loading apps like some older models. Amazon Fire TV Stick 4K (2026) Where to Buy: $59.99 $29.99 at Amazon $59.99 $29.99 at Best Buy Amazon updated the Fire TV OS earlier this year with a redesigned UI, closer Alexa Plus integration, and various improvements to the mobile app, all of which are supported on the new hardware. You’ll also get a revamped remote, which features a new asymmetrical design with a rounded bottom and buttons with a more tactile feel. For connectivity, the Fire TV Stick 4K has Bluetooth 5.3 and Wi-Fi 6. ]]>
 
-### Apple will label apps that are ‘Made for iPhone Duo’
-2026-10-22T09:20:37-04:00 — https://www.theverge.com/tech/1016526/apple-made-for-iphone-duo-badge-app-store
+### Refurbished PS5 consoles include second controller for an extra $18
+2026-10-22T14:38:50-04:00 — https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle
 
-Apple is rolling out a new badge in the App Store to indicate whether an app is optimized for its new foldable. The new "Made for iPhone Duo" badge will appear across apps and games that work with the device's extra screen real estate. Though Apple doesn't include an image of what this badge might look like, it highlighted some of the ways apps are taking advantage of the Duo's inner and outer screens. Netflix, for example, will display shows and movies that take up the whole inner display, while allowing you to watch its feed of short-form clips on the outside. Amazon's Prime Video will let you watch shows and movies with the Duo partially … Read the full story at The Verge. ]]>
+A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI ’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because company has a new limited-time bundle. Through this page , you can select either a refurbished digital or disc-based console for $499 or $549, respectively, and add a refurbished DualSense to your order that’s $40 off its usual price. For instance, a white DualSense tacks just $18 to your total, while one of the fancier colors, like sterling silver, adds $23. It’s an affordable way to stock up to cover a two-player household. The refurbished controller also includes a one-year warranty. Sony PlayStation 5 slim (refurbished) Where to Buy: $558 $518 at Sony (digital, with refurb DualSense) $608 $568 at Sony (disc, with refurb DualSense) One thing to note about the refurbished consoles is that they include a 1TB SSD. Sony’s digital edition console at stores is currently equipped with 825GB of built-in storage (the disc edition still has 1TB), so it’s nice that this version includes a little extra space for games. Like all PlayStation 5 consoles, these support PCIe 4.0 M.2 SSDs equipped with heatsinks for extra storage, though like RAM, those are pretty pricey at the moment. ]]>
 
-### The Atari VCS saga will come to an end next year when its software store closes
-2026-10-22T09:17:59-04:00 — https://www.theverge.com/tech/1016481/atari-vcs-console-shutting-down-software-store-2027
+### Delta can turn the iPhone Duo into your favorite folding handheld
+2026-10-22T14:30:00-04:00 — https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update
 
-Following a decade long saga of delays, name changes , and Atari having to assure backers of a crowdfunding campaign that its retro console wasn't doomed , the Atari VCS platform is being retired early next year. On February 1st, 2027, the Atari VCS software store is shutting down, according to an announcement posted to the Atari Club Discord and shared by Tom's Hardware . With a design loosely inspired by the original Atari 2600 - minus a cartridge slot - the VCS was a Linux-based, AMD-powered mini PC that could emulate a large collection of pre-loaded classic Atari games, but its functionality could be expanded through an online software sto … Read the full story at The Verge. ]]>
+The Duo has a Nintendo DS-like shape anyway, so Delta 2.0 is running with it. | Image: Riley Testut The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pok&eacute;mon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo is an obvious standout here - if you looked at Apple's flagship foldable and wondered how well it could emulate Nintendo DS games , this update was made with you in mind. Delta app creator Riley Testut told The Verge that Delta 2.0 optimizes controller skins for "every pose in both portrait and lands … Read the full story at The Verge. ]]>
 
-### Insta360 launches a cheaper version of its wireless mics with color screens
-2026-10-22T09:00:00-04:00 — https://www.theverge.com/tech/1015371/insta360-mic-wireless-microphone-color-e-ink-screen
+### In Meta’s version of the future, I’ll have my Muse call your Muse
+2026-10-22T14:15:00-04:00 — https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network
 
-Following the launch of its wireless Mic Pro system last May featuring built-in color E Ink screens for custom branding and an array of three microphones to emulate different pickup patterns, Insta360 has announced a cheaper alternative that skips a few features many content creators might not miss. The new Insta360 Mic sits between the company's Mic Pro and the budget-friendly Mic Air , which uses much smaller screenless transmitters. While the Mic Pro is priced at $329.99 for a kit that includes two microphone transmitters, one wireless receiver, and a charging case, the Insta360 Mic costs $249.99 for a similar bundle. Insta360 sells the m … Read the full story at The Verge. ]]>
+Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? Actually, don't answer that. The more urgent question coming off Meta's quarterly earnings call Wednesday night is more likely to be: "Is he?" Zuckerberg is staking Meta's future on Muse, the personal AI agent it released to the general public last month. It's early days, but Zuckerberg told investors on Wednesday's call that he s … Read the full story at The Verge. ]]>
 
-### Birdbuddy’s Nook is a compact smart bird feeder for small spaces and budgets
-2026-10-22T09:00:00-04:00 — https://www.theverge.com/tech/1015659/birdbuddy-smart-bird-feeder-2k-camera-home-nook-ai-identification
+### Mass Effect 5 trailer leaks following BioWare shutdown
+2026-10-22T14:14:24-04:00 — https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea
 
-Birdbuddy is finally launching the new smart bird feeders it originally announced at CES 2026 earlier this year, but with new names. The Birdbuddy 2 Mini is now called the Birdbuddy Nook, and it is designed to be a smaller and more affordable option the company describes as its "most accessible smart bird feeder yet." The flagship Birdbuddy 2 has been renamed the Birdbuddy Home and delivers upgrades like a redesigned camera with a wider field of view and integrated solar panels. Both models are now available through Birdbuddy's online store while some configurations will be available at other retailers later this month. The Birdbuddy Nook s … Read the full story at The Verge. ]]>
+Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today . The trailer features "in-engine footage" and uses "pre-production assets," according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation with a mysterious Asari character that sidles up to him at a bar, including a flashback to a fight that looks like modern-day version of the gameplay from the original trilogy. It all feels very Mass Effect , with humans and aliens species mingling together, cuts to brief action sequences, and … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### GPUs from stolen $470,000 Nvidia RTX 5090 shipment at Brazil airport appear for sale online, identified by serial numbers
+Thu, 22 Oct 2026 16:18:47 +0000 — https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment
+
+Following reports over the weekend that an Nvidia RTX 5090 shipment worth $470,000 was stolen from a Brazilian airport , a contraband graphics card linked to the shipment has shown up for sale online. Brazilian media also reports that the police and airport authorities have identified three employees thought to have been involved in the heist, according to GMC . (Machine translated) Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC According to the report, Guarulhos International Airport has issued a statement confirming that "The investigation of the facts is the responsibility of the competent authorities to clarify the circumstances of what happened." A Brazilian TV news network appears to have identified one of the cards, a Zotac Gaming RTX 5090 for sale on the online marketplace OLX for over $6,000. Quite unfortunately, the reseller uploaded clear pictures of the card's serial number, linking it to the missing haul of graphics cards. Per the report, there is no information to identify the seller, and the listing appears to have since been taken down. However, police information reported by the outlet does reveal a chain of events and some possible suspects in the case. The shipment, imported from the United States and thought to
 
 ### Sony Japan marks last standalone 4K Blu-ray player as ‘Discontinued’
 Thu, 22 Oct 2026 14:04:08 +0000 — https://www.tomshardware.com/tech-industry/sony-japan-marks-last-standalone-4k-blu-ray-player-as-discontinued-playstation-5-now-the-only-blu-ray-player-left-in-sonys-lineup
@@ -171,12 +176,22 @@ Thu, 22 Oct 2026 10:59:58 +0000 — https://www.tomshardware.com/pc-components/s
 
 There are a host of great laptop deals at Best Buy at the moment, but one of my favorites today is this fantastic $950 saving on an RTX 5070-powered Alienware 16X Aurora gaming laptop with OLED display for $1,949.99 . A significant drop in price from the original $2,899.99 list price. A great choice for a gaming laptop that also doubles as a competent computer for work and studying. The combination of powerful graphics, CPU, and gorgeous display will bring your games and media to life. ● Grab this SSD deal at Best Buy The Alienware 16X Aurora is a premium gaming laptop with a Core Ultra 9 290HX processor, a high-performance CPU featuring 24 cores and a boost clock speed of up to 5.5GHz. This is one of Intel's top laptop processors and an excellent gaming CPU. For the graphics, this model of the 16X Aurora uses Nvidia's GeForce RTX 5070 Laptop GPU, which is an excellent choice not only for powering your games to life, but also for getting the most out of the Aurora’s crisp 16-inch OLED 2560x1600-pixel display. Having an OLED screen means the 16X Aurora will have an insanely low gray-to-gray response time of just 0.03ms, excellent for super smooth motion when gaming, plus the display sports a rapid refresh rate of 240Hz and a maximum screen brightness of 500 nits. Oh, and of course, amazing contrast, inky blacks, and eye-popping color representation. Finishing up on what major components are inside this model of the Alienware 16X Aurora, we have 16GB of DDR5-5600 MT/s memory an
 
-### Save $238 on this 9800X3D combo deal with 32GB DDR5 that lets you start a 4K gaming PC build for just over $1,000
-Thu, 22 Oct 2026 10:32:09 +0000 — https://www.tomshardware.com/pc-components/save-usd238-on-this-9800x3d-combo-deal-with-32gb-ddr5-that-lets-you-start-a-4k-gaming-pc-build-for-just-over-usd1-000-newegg-bundle-ships-this-powerhouse-amd-cpu-with-a-gigabyte-x870e-am5-motherboard-and-a-free-240mm-aio-cooler
-
-Building a new gaming PC, especially one fit for 4K gameplay, isn't cheap at the moment. PC hardware prices have shot up over the last year, with RAM, SSDs, and new graphics cards all becoming extremely expensive. Still, if you're thinking about building a new rig or upgrading your existing one, you'll want to consider this Newegg combo deal that combines the formidable AMD Ryzen 7 9800X3D with 32GB DDR5 and a Gigabyte X870E motherboard for just $1,029.99 right now. ● Check out this deal at Newegg This kit means you'll save $238.99 by buying these components together compared to picking them up separately. That doesn't include the freebies you get with this deal, either, with a Cooler Master Elite Liquid Cooler 240 CPU AIO included for free, worth $79.99, along with a copy of Onimusha: Way of the Sword , worth $69.99. This kit gives you the bare bones you'll need for your next 4K gaming PC. The extra savings, whether it's the $238.99 on the three parts here, or the full $388.97 if you include the freebies, will give you spare cash that you can put towards other parts for your build, whether that's a GPU, case, or any peripherals you need. Ryzen 7 9800X3D, 32GB G.Skill Trident Z5 NeoX RGB DDR5-6000 RAM, Gigabyte X870E Aorus Elite WiFi7 Ice Motherboard: was $1268.98 now $1029.99 This seriously capable Newegg combo brings together the powerhouse AMD Ryzen 7 9800X3D, still one of the fastest CPUs for gaming that you can buy, with 32GB of G.Skill Trident Z5 NeoX RGB DDR5-6000 RAM 
-
 ## Phoronix
+
+### AI Helping To Improve Linux s AMD Zen CPU Microarchitecture Detection
+Thu, 22 Oct 2026 15:21:54 -0400 — https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection
+
+A request for comments (RFC) was sent out last night on the Linux kernel mailing list in seeking to clean-up the AMD Zen microarchitecture detection within the kernel. This is for enhancing the kernel where there are code paths specific to a certain generation of AMD Zen processors or select generations such as Zen 3 through Zen 5 CPUs. AI was leveraged in helping to clean-up this AMD Zen code in the Linux kernel...
+
+### Modular s MAX Source Code Now Fully Opened, Under New MAX License
+Thu, 22 Oct 2026 14:32:34 -0400 — https://www.phoronix.com/news/Modular-MAX-Complete-Open
+
+Back in August Modular's Mojo language was open-sourced following the acquisition of Chris Lattner's company by Qualcomm. The latest achievement now out of the company is their MAX software being fully opened up with the entire source tree available...
+
+### Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference
+Thu, 22 Oct 2026 11:42:11 -0400 — https://www.phoronix.com/news/Linux-7.4
+
+The scheduler updates have been merged for the in-development Linux 7.4 kernel to deliver several nice scheduling enhancements...
 
 ### x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection
 Thu, 22 Oct 2026 09:22:56 -0400 — https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks
@@ -223,22 +238,22 @@ Wed, 21 Oct 2026 16:11:03 -0400 — https://www.phoronix.com/news/Linux-7.4-Cryp
 
 The latest Linux kernel cryptographic subsystem performance work carried out by Google engineer Eric Biggers is migrating x86/x86_64 and RISC-V optimized implementations of different AES modes into the lib/crypto kernel crypto library to enjoy faster performance there...
 
-### Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks
-Wed, 21 Oct 2026 10:50:41 -0400 — https://www.phoronix.com/review/snapdragon-x2-linux
-
-For your viewing pleasure today are the first Linux benchmarks of the Qualcomm Snapdragon X2 Elite Extreme on Linux using the new Ubuntu 26.10 X1E Concept ISO for Snapdragon X laptop support on Linux. The Snapdragon X2 Elite Extreme flagship SoC is tested within the ASUS Zenbook A16 UX3607OA laptop.
-
-### PHP Updates Released For Two Critical Code Execution Vulnerabilities
-Wed, 21 Oct 2026 09:43:31 -0400 — https://www.phoronix.com/news/PHP-New-Critical-CVEs-October
-
-PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 were just released to fix two critical vulnerabilities that can allow for unauthenticated remote code execution. Server administrators are advised to update immediately...
-
-### AMD Working On Ryzen Overclocking Driver For Linux
-Wed, 21 Oct 2026 08:24:13 -0400 — https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux
-
-AMD recently published patches for the Linux kernel to implement AOD, an AMD Overclocking driver for Ryzen processors. Linux enthusiasts have long sought an official AMD Ryzen CPU overclocking driver for Linux akin to Ryzen Master on Windows and it's finally coming, at least from the kernel driver perspective...
-
 ## The Register
+
+### Max-severity GitLab bug allows remote code execution over 12 years of releases
+Thu, 22 Oct 2026 17:36:30 +0000 — https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854
+
+GitLab on Wednesday patched a maximum-severity flaw that could allow unauthenticated attackers to execute arbitrary code on self-managed servers under certain conditions. Affected software releases date back a full 12 years - so upgrade to a fixed version now. The integer overflow bug, tracked as CVE-2026-110264 , affects regular-expression compilation in GitLab Community Edition (CE) and Enterprise Edition (EE), including versions dating back to GitLab 7.0, released in June 2014. The flaw, “under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression,” the vendor said in its release notes. GitLab released fixes in versions 19.5.1, 19.4.3, and 19.3.6, and backported the patch to versions 19.2.9, 19.1.9, 19.0.10, and 18.11.13. The vendor “strongly recommends” that all organizations running vulnerable software upgrade to a fixed version “as soon as possible.” GitLab-managed infrastructure, including GitLab.com and GitLab Dedicated, remains patched, and the vendor also released two threat detections ( here and here ) for customers with self-managed instances. Bug hunter Johan Carlsson reported the vulnerability through GitLab’s HackerOne bug bounty program. “For organizations running self-managed GitLab infrastructure, the potential impact is severe,” warned threat-detection firm SOC Prime. “GitLab repositories frequently contain source code, CI/CD
+
+### Disgraced Indian cert issuer leaves the cert issuing business
+Thu, 22 Oct 2026 16:58:25 +0000 — https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848
+
+After embarrassing reports revealed weak private keys, one of which was just a single digit, Indian certification authority eMudhra has decided to take the L and get out of the global SSL/TLS cert game entirely. eMudhra announced Thursday that it was abandoning that arm of its business. Sure, the intense scrutiny heaped on the company was a factor, but the firm also argued that growing compliance costs and competition from free certificate providers had made the business increasingly difficult to justify. “Global SSL/TLS is a small part of eMudhra’s business contributing to about 1 percent of the global revenue,” the company explained, noting that free SSL/TLS cert issuance from large firms and increased compliance and data sovereignty requirements have made it a minor part of the firm’s operation, and one that doesn’t merit so much bad press. “The level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” eMudhra explained. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” An argument could be made that, even if SSL/TLS accounts for just 1 percent of its global revenue, a private CA key with a value of 4 still deserves a thorough public shaming. It’s only been two days since eMudhra’s weak private keys were exposed in public reports , following a report to Mozilla on October 17, an
+
+### PHP2Shell puts dozens of UK government services out of service
+Thu, 22 Oct 2026 16:05:53 +0000 — https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840
+
+The PHP2Shell security fiasco has forced 32 UK government services offline and left another four partially unavailable as Whitehall scrambles to patch the critical vulnerabilities wreaking havoc across the web. The figures were disclosed in the House of Lords on Thursday, where tech minister Baroness Lloyd of Effra outlined the disruption following the discovery of two critical flaws in PHP . "Currently, the information I have is that 32 government services are unavailable and four are partially unavailable," Lloyd told peers. "That has resulted largely from precautionary measures taken to protect systems while security updates and mitigations are applied." "We are working very carefully with departments to restore the services safely and securely following that remediation activity," she added. Whitehall has not published a full list of affected services, although the Office for Budget Responsibility (OBR) is among those known to have taken their websites offline, rather inconveniently with next week's Budget looming. Peers also raised reports of disruption affecting the DVLA and police services. Britain isn't alone in pulling the plug. Government websites in Germany, France, Belgium, Finland, and the Netherlands have also been taken offline as a precaution, along with Australia's own cybersecurity agency website. Across the Atlantic, the NSA has urged organizations to patch or disconnect vulnerable systems, although the US government has not publicly confirmed any website s
 
 ### Apple App Store review process hits a traffic jam
 Thu, 22 Oct 2026 15:02:00 +0000 — https://www.theregister.com/applications/2026/10/22/apple-app-store-review-process-hits-a-traffic-jam/5304802
@@ -285,22 +300,57 @@ Thu, 22 Oct 2026 09:15:00 +0000 — https://www.theregister.com/public-sector/20
 
 The UK government says its finance systems cannot produce consistent annual figures showing how much departments and public bodies spend on digital transformation. The Science and Technology Committee's June report warned that spending was fragmented and the government lacked a clear plan for a digital state. The UK public sector spends more than £26 billion annually on digital technology, but that broad estimate does not provide a comparable departmental breakdown. Responding to the committee, the government agreed with the "intent to publish annual data on digital and data-driven spending" but said it did not "believe this is currently practicable." Existing finance systems could not "provide consistent, reliable and comparable data across departments." "The government is open to this as a direction of travel and will work with HM Treasury to consider how this could be developed over time," the response said. Committee chair Dame Chi Onwurah, who is due to address Parliament on Thirsday, said: "There's no shortage of hype about how technology can improve public services and reduce costs. Yet, frustratingly, the government cannot provide a clear picture of how much is being spent on digital transformation across departments and public bodies. "At a time when ministers are asking taxpayers to fund significant investment in technology, it's concerning that they cannot show where the money is going or how value for money is being measured. This must be addressed as a matter of 
 
-### Vendors asking forward deployed engineers to make good on trillion-dollar AI bet
-Thu, 22 Oct 2026 08:30:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/vendors-asking-forward-deployed-engineers-to-make-good-on-trillion-dollar-ai-bet/5304366
-
-During a flight on Marc Benioff’s private jet last year, the Salesforce CEO apparently subjected his company’s senior execs to a four-hour montage of Palantir CEO Alex Karp holding forth on the value of forward-deployed engineers (FDEs). The experience — which might have led anyone else to seek the emergency exit — was a lesson for Michael Spencer, Salesforce veep for finance and strategy, about the value of FDEs in boosting sales at Palantir, whose mantra is "land and expand." He shared the anecdote with the Deutsche Bank 2026 Technology Conference in August, just as the FDE boom was reaching fever pitch. For the uninitiated, vendors send FDEs to clients without tying them to a project . Effectively consultants-without-portfolio, they are expected to build something valuable, at speed, using their technology. The term is not new — Palantir claimed to have come up with it in 2007 — but the explosive growth of investment in FDEs, and their attachment to AI implementation, provokes questions about the benefits and risks involved for tech buyers. Earlier this month, AWS announced a $1 billion investment in a new Forward Deployed Engineering unit which aims to help customers build and deploy AI systems. AI poster-child Anthropic has also announced a $100 million investment in training FDEs. SAP, Salesforce and Workday — in partnership with Accenture — are heavily invested in the idea too. Salaries are on a commensurate upward trajectory. According to Levels.fyi’s Forward Deployed
-
-### Why the immediate future of liquid cooling is hybrid
-Thu, 22 Oct 2026 08:00:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/partner-content-why-the-immediate-future-of-liquid-cooling-is-hybrid/5303795
-
-From training massive language models to powering nonstop inference , AI is fundamentally rewriting the rules of data center thermal management. AI workloads are characteristically less predictable and significantly more power-dense than traditional operations. As a result, deploying liquid cooling is no longer an experimental consideration. It has become absolute table stakes for handling AI and high-performance computing (HPC) demands. The industry conversation has shifted rapidly from “if or when” to how quickly organizations can deploy and scale. Here is a look at how AI is driving the shift toward high-density thermal management , the operational realities of adopting these systems, why the near future belongs to hybrid environments, and how data center operators can successfully navigate the transition. AI Workloads Push Densities Beyond Air Alone: The Hybrid Era Historically, traditional cooling methods were sufficient for enterprise workloads. However, air cooling remains viable and efficient only up to approximately 20 to 40 kW per rack. Today’s GPU-accelerated AI racks commonly operate between 40 kW and well over 100 kW, with next-generation systems expected to push toward 200 kW or more. This GPU-driven density has made air-only cooling strategies fundamentally impractical for cutting-edge infrastructure. This extreme concentration of heat generation challenges traditional airflow-based architectures, demanding a transformation in AI data center cooling. In the ong
-
-### Certification authority eMudhra defends its laughably weak private keys
-Thu, 22 Oct 2026 06:38:14 +0000 — https://www.theregister.com/security/2026/10/22/certification-authority-emudhra-defends-its-laughably-weak-private-keys/5304647
-
-Indian certification authority eMudhra has defended the laughably weak private keys it used to sign some digital certificates it issued, and suggested others should share the blame for the incident. In case you’re coming to this one late, news broke yesterday that private keys the company used to sign certs were beyond weak: one was literally just the number “4,” and several others were short strings of easily guessed two-or-three-digit numbers. It’s easy to deduce the value of those keys, which makes it possible to forge certs and impersonate websites or other resources. That’s gold for scammers, phishers, and other miscreants. The entire infosec industry has pointed that out, urged swift adoption of better certs, and lamented the fact that implementing replacements will be a long and thankless task. eMudhra’s statement about the incident says it generated keys during “a Key Generation Ceremony (KGC) held on April 30, 2025, using FIPS 140-2 Level 3 Hardware Security Modules (HSMs).” Such hardware is the standard kit for the job and should in theory produce nicely complex keys and store them securely. But something went wrong. “A flaw in the KGC caused a wrap/unwrap step to produce a second set of weak keys alongside the original strong keys,” the statement claims. “The weak keys were the ones published to the browser root stores. eMudhra is working to establish the root cause.” The company then gets a tad defensive. “These roots and issuing CAs have gone through independent 
-
 ## Engadget
+
+### Rhode Island sues Meta over its approach to scam ads
+Thu, 22 Oct 2026 20:05:26 +0000 — https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/
+
+It's the first state to sue the social media company on these allegations.
+
+### The trailer for Mass Effect 5 has leaked and unfortunately it looks good
+Thu, 22 Oct 2026 19:55:13 +0000 — https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/
+
+'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.
+
+### 2027 BMW iX5 first drive: You'll love the range, but maybe not the look
+Thu, 22 Oct 2026 19:01:00 +0000 — https://www.engadget.com/2291166/2027-bmw-ix5-first-drive/
+
+BMW's latest EV will do over 450 miles on a charge and even close its own doors.
+
+### Daft Punk is getting an official Lego set
+Thu, 22 Oct 2026 18:59:09 +0000 — https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/
+
+A fan-built model of the Alive tour pyramid got the green light to become a real product.
+
+### The Browser Company is officially killing Arc on December 22
+Thu, 22 Oct 2026 18:52:43 +0000 — https://www.engadget.com/2294643/the-browser-company-is-officially-killing-arc-on-december-22/
+
+The organization is prioritizing an AI browser called Dia.
+
+### Bluesky adds iPad support in latest feature update
+Thu, 22 Oct 2026 18:26:03 +0000 — https://www.engadget.com/2294583/bluesky-adds-ipad-support-in-latest-feature-update/
+
+Profile links to third-party platforms have also arrived on the social network.
+
+### Amazon rebrands Kindle Unlimited to Kindle+
+Thu, 22 Oct 2026 18:10:00 +0000 — https://www.engadget.com/2294533/amazon-rebrands-kindle-unlimited-to-kindle/
+
+The service still offers a library of books, magazines and comics, and now includes a larger selection of audiobooks.
+
+### Unauthorized AI agents are reportedly already accessing US bank accounts
+Thu, 22 Oct 2026 18:02:04 +0000 — https://www.engadget.com/2294523/unauthorized-ai-agents-are-reportedly-already-accessing-us-bank-accounts/
+
+Sources at several banks have indicated that they have been taking actions independent of user instructions.
+
+### Sundar Pichai (allegedly) draws the line at oceans
+Thu, 22 Oct 2026 16:22:50 +0000 — https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/
+
+President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps.
+
+### PC shipments are in the toilet, plunging over 20 percent from last year
+Thu, 22 Oct 2026 15:56:26 +0000 — https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/
+
+This could reach 27 percent throughout the end of 2026 as prices continue to rise.
 
 ### iPhone Duo's next-gen prototypes are trying to cram in Face ID
 Thu, 22 Oct 2026 14:06:33 +0000 — https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/
@@ -312,115 +362,65 @@ Thu, 22 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2292288/insta360-mi
 
 In an ocean of boring microphones, Insta360's Mic adds a (customizable) pop of color.
 
-### Roku's Pro Series LX OLED TVs are now available on Amazon
-Thu, 22 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2293840/roku-pro-series-lx-oled-tvs-at-amazon/
-
-Roku has released its Pro Series LX OLED TVs, which are now available on Amazon in 55 and 65-inch variants.
-
-### 1Password will let you hand your data security over to your preferred AI agent
-Thu, 22 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2293844/1password-opens-up-ai-agents-muse-dots-grok/
-
-If you're willing to let AI book or buy things on your behalf, 1Password just made that easier.
-
-### Insta360 adds expandable storage to its new e-ink wireless mics
-Thu, 22 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2283528/insta360-adds-expandable-storage-to-its-e-ink-wireless-mics/
-
-Insta360 has a new wireless mic that combines some features of its existing 'pro' mics with a cheaper price.
-
-### Tesla plans to start selling Cybercabs by the end of the year
-Thu, 22 Oct 2026 08:52:48 +0000 — https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/
-
-Tesla wants to sell Cybercabs to other transport companies before the year ends.
-
-### Fortnite is coming back to Apple's Australian App Store following court ruling
-Thu, 22 Oct 2026 08:18:58 +0000 — https://www.engadget.com/2293801/fortnite-is-back-on-apple-australian-app-store-following-court-ruling/
-
-Fortnite is back on the App Store in Australia after a federal court ordered Apple to open its iOS ecosystem up to competition.
-
-### Mark Zuckerberg says Meta is 'entering a new phase' with Muse
-Wed, 21 Oct 2026 22:36:03 +0000 — https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/
-
-Zuckerberg expects the agent will generate more revenue per user than the company's apps.
-
-### Bose buys audio rival Skullcandy
-Wed, 21 Oct 2026 22:19:48 +0000 — https://www.engadget.com/2293698/bose-buys-audio-rival-skullcandy/
-
-Bose sees the company as a way to reach a wider audience.
-
-### Airbnb bans hosts from making you do the dishes
-Wed, 21 Oct 2026 22:04:32 +0000 — https://www.engadget.com/2293690/airbnb-bans-hosts-from-making-you-do-the-dishes/
-
-Any chores that a cleaner might do are no longer deemed reasonable requests for visitors.
-
-### Claude Duet is Anthropic's answer to Meta Muse and OpenAI Dots
-Wed, 21 Oct 2026 21:03:19 +0000 — https://www.engadget.com/2293646/claude-duet-is-anthropics-answer-to-meta-muse-and-openai-dots/
-
-Anthropic subscribers in the US can join a waitlist to try the company's new agent.
-
-### Government websites in the EU and Canada taken offline over PHP vulnerability
-Wed, 21 Oct 2026 20:56:47 +0000 — https://www.engadget.com/2293625/government-websites-in-the-eu-and-canada-taken-offline-over-php-vulnerability/
-
-All websites using PHP should update to the latest security patch.
-
 ## TechCrunch
 
-### Spotify confirms Family Plan crackdown, but calls it a routine improvement
-Thu, 22 Oct 2026 15:24:32 +0000 — https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/
+### Arc browser sunsets December 22 as The Browser Company doubles down on Dia
+Thu, 22 Oct 2026 20:01:51 +0000 — https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/
 
-Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a "crackdown," just a routine improvement.
+Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.
 
-### Investors break down how founders can raise a Series A today
-Thu, 22 Oct 2026 15:15:00 +0000 — https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/
+### The secret to fast startup growth isn t early sales, top names in tech say
+Thu, 22 Oct 2026 20:00:00 +0000 — https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/
 
-Raising a Series A these days isn't so simple — top investors break down what founders need to know now.
+At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
 
-### Spotify s current AI bet is about being the music service that agents choose
-Thu, 22 Oct 2026 15:03:58 +0000 — https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/
+### 1Password launches a way for AI agents to log in on your behalf without seeing your password
+Thu, 22 Oct 2026 19:07:09 +0000 — https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
 
-Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.
+The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
 
-### Fusion startup Helion is developing new semiconductors that could double output of its power plants
-Thu, 22 Oct 2026 14:59:28 +0000 — https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/
+### Canva releases its first image generation model
+Thu, 22 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
 
-Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.
+Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.
 
-### Developer platform Railway urges all users to revoke secret keys after cyberattack
-Thu, 22 Oct 2026 14:03:00 +0000 — https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/
+### OpenAI makes its Jev competitor widely available as decision model competition heats up
+Thu, 22 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
 
-The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.
+OpenAI is launching its decision model to the world. Can it compete with the original Jev?
 
-### Claude Duet app is Anthropic s bet on agents
-Thu, 22 Oct 2026 13:53:26 +0000 — https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/
+### Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’
+Thu, 22 Oct 2026 18:43:53 +0000 — https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
 
-Claude Duet is available through waitlist for Pro and Max plan users
+Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.
 
-### Nirva raises $33M for a pendant that only listens to you
-Thu, 22 Oct 2026 13:26:52 +0000 — https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/
+### Former OpenAI science lead launches Warp Science to automate wet labs with robots
+Thu, 22 Oct 2026 18:38:47 +0000 — https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
 
-Nirva will ship its $249 ambient AI pendant by the end of the year.
+Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.
 
-### DeepSeek reportedly raises $15B days after US restrictions
-Thu, 22 Oct 2026 13:11:13 +0000 — https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/
+### Elon Musk made a $1 billion investment in Skydance, report says
+Thu, 22 Oct 2026 17:36:38 +0000 — https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/
 
-DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.
+The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.
 
-### Tesla says it will start selling Cybercabs by end of year
-Thu, 22 Oct 2026 00:17:54 +0000 — https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/
+### Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise
+Thu, 22 Oct 2026 16:47:17 +0000 — https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
 
-Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and other traditional controls. During the company s third-quarter earnings call, Lars Moravy, vice president of engineering at Tesla, [ ]
+Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.
 
-### Blackstone s Jas Khaira says fears over AI-buildout debt are overblown
-Wed, 21 Oct 2026 22:51:22 +0000 — https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/
+### TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements
+Thu, 22 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/
 
-Blackstone’s AI head on why the PE giant isn't panicked by market jitters.
+Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.
 
-### Meta wants to pay for its broad AI buildout with a newly created class of stock
-Wed, 21 Oct 2026 22:45:34 +0000 — https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/
+### Uber puts all 30,000 employees on ChatGPT Work
+Thu, 22 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
 
-The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.
+The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.
 
-### Airbnb limits chores for guests, sparking backlash from hosts
-Wed, 21 Oct 2026 22:16:05 +0000 — https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/
+### Tesla is prepping a Cybercab onslaught
+Thu, 22 Oct 2026 15:44:39 +0000 — https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/
 
-Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.
+The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.
 
