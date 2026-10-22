@@ -20,7 +20,6 @@ artistView:
   misses:
     - "Architecture: there is no degraded mode. A manga app that streams tiled, wrapped page images on demand has no local cache worth the name, so a patch window and a breach both present to the reader as an empty bookshelf."
     - "Communication: Cmoa has been dark since 15 October with no reopening date, which is the part a reader can neither plan around nor appeal."
-draft: true
 ---
 
 Comic Cmoa has been offline for a week.
