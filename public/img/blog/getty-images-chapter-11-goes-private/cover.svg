@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Getty Images files Chapter 11, $533m to go private">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="140" fill="#ffffff" opacity="0.72" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6">GETTY IMAGES</text>
+  <text x="90" y="315" fill="#ffffff" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700">$533m</text>
+  <text x="90" y="392" fill="#ffffff" opacity="0.88" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="600">buys the whole company,</text>
+  <text x="90" y="452" fill="#ffffff" opacity="0.88" font-family="Helvetica, Arial, sans-serif" font-size="42" font-weight="600">and takes it private.</text>
+  <text x="90" y="560" fill="#ffffff" opacity="0.62" font-family="Helvetica, Arial, sans-serif" font-size="30">Chapter 11, Delaware, 21 October 2026</text>
+  <text x="90" y="604" fill="#ffffff" opacity="0.62" font-family="Helvetica, Arial, sans-serif" font-size="30">Hearing 14 December. Contributors keep being paid.</text>
+</svg>
