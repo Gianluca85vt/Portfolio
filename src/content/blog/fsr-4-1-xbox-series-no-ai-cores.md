@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Artefacts: reviewers testing the RDNA 3 build report more shimmer than Redstone on foliage edges and thin geometry — railings, wires, grass. Those are exactly the assets an environment artist cannot avoid putting on screen."
     - "Pipeline: nothing is injected at system level on console, so the back catalogue only gets this if someone reopens a shipped project and patches it. Most of those teams have moved on."
-draft: true
 ---
 
 The Xbox Series X and Series S are RDNA 2 machines. They were taped out before
