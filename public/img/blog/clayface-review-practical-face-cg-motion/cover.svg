@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Clayface review: nine verdicts average 6">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#7A3B12"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#E8C9A0" letter-spacing="6">CLAYFACE — FILM &amp; TV</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">6</text>
+  <text x="90" y="410" font-family="Helvetica, Arial, sans-serif" font-size="46" fill="#FFFFFF">nine verdicts, 4 to 8</text>
+  <text x="90" y="480" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8C9A0">the makeup beats the melting</text>
+</svg>
