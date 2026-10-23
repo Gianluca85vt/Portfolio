@@ -31,6 +31,11 @@ on a six-year-old console.
 
 ## Where the inference goes
 
+<figure>
+  <img src="/img/blog/fsr-4-1-xbox-series-no-ai-cores/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Xbox Series X console, via Wikimedia Commons</figcaption>
+</figure>
+
 On a desktop RDNA 4 card, FSR 4.1 runs its model in FP8 on hardware built to do
 that. On RDNA 2 and RDNA 3 there is no FP8, so AMD built a separate INT8 version
 that executes on the general-purpose shader units. The same units that are
