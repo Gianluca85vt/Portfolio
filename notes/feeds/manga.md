@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-23T15:27:42.711Z
+# Manga — harvested 2026-10-23T20:04:45.433Z
 
 ## Anime News Network
+
+### Horror Collector Anime Reveals English Dub Cast, October 24 Debut
+Fri, 23 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149
+
+1st episode stars Brandon Allan Majella, Larry Brantley, Rebecca Danae, more on Saturday
+
+### Scriptwriter Toyoto Kogisu Dies at 69
+Fri, 23 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/scriptwriter-toyoto-kogisu-dies-at-69/.243147
+
+Kogisu wrote several episodes for <cite>Detective Conan</cite> anime
+
+### Shigeru Miyamoto Becomes 1st Game Creator to be Honored With Japan's Order of Culture Award
+Fri, 23 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/shigeru-miyamoto-becomes-1st-game-creator-to-be-honored-with-japan-order-of-culture-award/.243145
+
+Emperor to present Nintendo's <cite>Mario/Zelda</cite> creator with prestigious award on November 3
+
+### Seven Seas Licenses Secret Relationships Webtoon for Print Release in August 2027
+Fri, 23 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/seven-seas-licenses-secret-relationships-webtoon-for-print-release-in-august-2027/.243126
+
+Story follows man who grew up in poverty, works hard to secure his financial future
+
+### Street Fighter Live-Action Film Review
+Fri, 23 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/street-fighter/live-action-film/.242955
+
+A fine leading turn from Andrew Koji, an excellent soundtrack, and gorgeously animated flashbacks grapple with truly baffling creative choices.
 
 ### Korean-Animated Film Your Letter Begins Streaming on Crunchyroll
 Fri, 23 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127
@@ -37,36 +62,26 @@ Fri, 23 Oct 2026 07:59:15 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 New part debuts in January 2027
 
-### FX Fighter Kurumi-chan ‒ Episodes 1-4
-Fri, 23 Oct 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episodes-1-4/.243121
-
-I can stop any time. I can stop any time.
-
-### Science Saru's The Ghost in the Shell Gets New Anime Project
-Fri, 23 Oct 2026 07:04:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/science-saru-the-ghost-in-the-shell-gets-new-anime-project/.243138
-
-Science SARU's series debuted on July 7, aired for 10 episodes
-
-### New Pokémon x Hatsune Miku Music Video Returns to Games' Roots
-Fri, 23 Oct 2026 05:45:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-23/new-pokemon-x-hatsune-miku-music-video-returns-to-games-roots/.243108
-
-Do you remember your first encounter with the legendary video games?
-
-### Shōya Ishige Joins Cast of Wound & Bandage TV Anime
-Fri, 23 Oct 2026 04:55:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137
-
-Ishige voices Ginsuke Hatobane in series debuting on January 9
-
-### New Votoms Anime Films' Teaser Reveals Theme Song
-Fri, 23 Oct 2026 03:23:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/new-votoms-anime-films-teaser-reveals-theme-song/.243123
-
-Mika Nakashima performs theme song "Na mo Naki Shijin no Yō ni" for November 20 film
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Black Clover Season 2 Episode 4 Preview Teases Nacht Fighting Two Supreme Devils
+Fri, 23 Oct 2026 19:48:24 GMT — https://animecorner.me/black-clover-season-2-episode-4-preview-teases-nacht-fighting-two-supreme-devils/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 4 (Episode 174 overall) ahead of its October 24 premiere.
+
+### CosMeet 2026 Returns to Okada This October 24-25
+Fri, 23 Oct 2026 16:50:20 GMT — https://animecorner.me/cosmeet-2026-returns-to-okada-this-october-24-25/
+
+CosMeet 2026 "Shimmering Sapphire" is set to take place on October 24-25 at the&hellip;
+
+### Ave Mujica Releases "BADDY BADDY" Music Video
+Fri, 23 Oct 2026 15:50:48 GMT — https://animecorner.me/ave-mujica-releases-baddy-baddy-music-video/
+
+Ave Mujica released a music video for one of their latest songs, "BADDY BADDY"&hellip;
 
 ### Cyberpunk: Edgerunners 2 Original Score and Soundtrack Albums Released
 Fri, 23 Oct 2026 14:28:54 GMT — https://animecorner.me/cyberpunk-edgerunners-2-original-score-and-soundtrack-albums-released/
@@ -112,16 +127,6 @@ Rising Japanese boy group ONE OR EIGHT is ready to take off with their&hellip;
 Thu, 22 Oct 2026 12:21:09 GMT — https://animecorner.me/the-apothecary-diaries-movie-reveals-new-trailer-key-visual-and-kenshi-yonezu-theme-song/
 
 The Apothecary Diaries the Movie: The Late Lady’s Treasure revealed a new trailer and a main visual ahead of its December 11 premiere in Japan.
-
-### BanG Dream! Releases Ave Mujica prima aurora Movie Commercial Featuring "Baddy Baddy"
-Thu, 22 Oct 2026 03:27:21 GMT — https://animecorner.me/bang-dream-releases-ave-mujica-prima-aurora-movie-commercial-featuring-baddy-baddy/
-
-BanG Dream! released a 30-second commercial for the Ave Mujica prima aurora anime movie&hellip;
-
-### Magazine Pocket, K MANGA, MANGA Plus and More Enter Emergency Maintenance Due to Critical PHP Security Flaws
-Wed, 21 Oct 2026 18:40:05 GMT — https://animecorner.me/magazine-pocket-k-manga-manga-plus-and-more-enter-emergency-maintenance-due-to-critical-php-security-flaws/
-
-Several major manga and digital publishing platforms entered emergency maintenance on October 21 as&hellip;
 
 ## MyAnimeList News
 

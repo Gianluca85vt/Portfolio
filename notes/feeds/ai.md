@@ -1,6 +1,16 @@
-# AI — harvested 2026-10-23T15:27:42.711Z
+# AI — harvested 2026-10-23T20:04:45.433Z
 
 ## OpenAI
+
+### Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+Fri, 23 Oct 2026 17:00:00 GMT — https://openai.com/index/scaling-storage-one-billion-users-part-two
+
+Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
+
+### Securing our frontier model training environment
+Fri, 23 Oct 2026 10:00:00 GMT — https://openai.com/index/securing-our-frontier-model-training-environment
+
+OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
 
 ### OpenAI and Poland’s NASK partner to advance AI safety and security
 Fri, 23 Oct 2026 00:00:00 GMT — https://openai.com/index/openai-nask-ai-safety-security-partnership
@@ -22,11 +32,6 @@ Thu, 22 Oct 2026 00:00:00 GMT — https://openai.com/index/uber-chatgpt-work-rol
 
 Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.
 
-### How AT&T is rethinking in-house legal work with OpenAI
-Wed, 21 Oct 2026 17:00:00 GMT — https://openai.com/index/att-legal
-
-AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.
-
 ### Broad access through consistent standards
 Wed, 21 Oct 2026 21:00:00 GMT — https://openai.com/index/broad-access-through-consistent-standards
 
@@ -34,26 +39,17 @@ How OpenAI works with distribution partners to uphold consistent safeguards, sup
 
 ## Hugging Face
 
+### LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
+Fri, 23 Oct 2026 16:15:50 GMT — https://huggingface.co/blog/allenai/litpivot
+
 ### Does Your Model Run on AWS Trainium? Look It Up
 Fri, 23 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/torch-neuronx-model-support
 
 ### Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
 Thu, 22 Oct 2026 22:24:34 GMT — https://huggingface.co/blog/microsoft/thinkingbox-training
 
-### OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
-Thu, 22 Oct 2026 16:11:31 GMT — https://huggingface.co/blog/allenai/olmoearth-v1-3
-
 ### Ensemble forecasting with IBM Granite time-series models
 Thu, 22 Oct 2026 07:51:31 GMT — https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
-
-### NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required
-Wed, 21 Oct 2026 18:26:30 GMT — https://huggingface.co/blog/nvidia/kumo-relational
-
-### How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications
-Wed, 21 Oct 2026 17:35:36 GMT — https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization
-
-### Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.
-Wed, 21 Oct 2026 16:04:43 GMT — https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
 
 ## Google DeepMind
 

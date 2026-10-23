@@ -18,9 +18,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-| Title | Publisher | Release | Away | Reviews from | Price |
-|---|---|---|---|---|---|
-| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | today | 2026-10-22 | €29.99 |
+_Nothing inside three days._
 
 ## Further out, within 14 days
 
@@ -31,7 +29,7 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ---
 
-*1500 upcoming titles scanned, 1289 with a firm date inside
-14 days, 3 above the price line. Titles showing
+*1500 upcoming titles scanned, 1281 with a firm date inside
+14 days, 2 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

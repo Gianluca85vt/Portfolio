@@ -1,11 +1,36 @@
-# Tech — harvested 2026-10-23T15:27:42.711Z
+# Tech — harvested 2026-10-23T20:04:45.433Z
 
 ## Ars Technica
+
+### Crows can evaluate visual info twice as fast as mammals
+Fri, 23 Oct 2026 17:32:58 +0000 — https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/
+
+Much of what we know about how a brain makes decisions comes from studying monkeys watching dots. In a task known as a random-dot-motion task, a cloud of flickering specks drifts weakly in one direction while the subject tries to determine whether—and in which direction— it’s moving. The task has shown that in the primate neocortex, neurons gather visual evidence over time, with their firing rates climbing until they cross a threshold, when the animal commits to a decision. But avian brains don’t have a neocortex, so it wasn’t obvious how they made similar decisions. “This was the big question,” said Andreas Nieder, a neurobiologist at the University of Tübingen. “How [would] a differently organized avian brain encode decisions?” Read full article Comments ]]>
+
+### Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs
+Fri, 23 Oct 2026 17:18:31 +0000 — https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
+
+US chip champion Intel was so confused by the US government ban on foreign-made robots that it requested and received a waiver “out of an abundance of caution.” The tech company wanted to make sure that it could continue using certain robotic vehicles in its US chip fabs. The uncertainty surrounding the Federal Communications Commission ban on certain foreign-made robots was revealed in the agency’s decision to grant Intel’s waiver request. On October 22, the FCC published its order allowing Intel to continue using the foreign-made robots in US semiconductor manufacturing facilities for a period of one year. The robots in question are automated guided vehicles operating on “tracks or predefined paths” while often requiring operator oversight, according to Intel’s website. They help to move materials and items around within warehouses and factory floors. Read full article Comments ]]>
+
+### RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns
+Fri, 23 Oct 2026 16:58:39 +0000 — https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/
+
+At a recent meeting of the board that oversees the National Institutes of Health's Clinical Center Research Hospital, chair Jack Leslie opened with cheerful introductions and gregarious chatter—then diverted from the agenda of the regularly scheduled meeting. He spent the next six minutes delivering a pointed rebuke of Health Secretary Robert F. Kennedy, warning that his anti-vaccine activities could tarnish the venerable hospital, often called the "house of hope" for patients with rare conditions or those who have exhausted all other options. Leslie took issue with a recent stunt Kennedy had pulled at the hospital, which involved making a surprise appearance for a ribbon-cutting ceremony to open his signature vaccine injury clinic . The ceremony included a panel with people claiming to have been injured by vaccines. They sat behind placards reading "vaccine injured" and spoke with Kennedy and other high-ranking Trump administration officials. Leslie prefaced his comments by noting that some might prefer he not speak out against Kennedy's efforts. "But I think that that would be a failing as an advisory board if we were silent," he said. Leslie also noted that he has no concerns about studying potential injuries from vaccines. "Serious reactions are rare, but real," he said, and people who believe they've been injured should "be taken seriously." Read full article Comments ]]>
+
+### Knicks sent employees fake offer of championship rings in phishing test: Report
+Fri, 23 Oct 2026 16:51:59 +0000 — https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/
+
+The New York Knicks organization sent employees a phishing email promising free championship rings in a test of its staff's ability to detect scams, The New York Times reported yesterday. “Congratulations, your Employee Championship Ring is here,” the email sent in late September said, instructing employees to click a link to make a selection from two ring designs. Madison Square Garden employees who clicked that link "were forced to attend a mandatory cybersecurity class to help satisfy some of [owner James] Dolan’s growing cybersecurity concerns," the report said, citing team sources. Dolan is the owner of the Knicks, the New York Rangers, and Madison Square Garden. It's common for corporations to send phishing emails to find out which employees don't pay attention to clues that an email is a scam. A cybersecurity-test email often appears to be from the company itself but includes telltale signs of phishing. For example, Ars Technica owner Condé Nast sends phishing-test messages from email addresses with a misspelled domain, "condenest.com." Read full article Comments ]]>
+
+### Everybody panic: A Valve developer said "HLX" in public
+Fri, 23 Oct 2026 16:35:00 +0000 — https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/
+
+Gamers still hoping against hope for a true follow-up to Half-Life 2 (after so, so many years ) may remember last year's flurry of speculation that Half-Life 3 was finally nearing completion . Amid all those rumors, though, we never got any official sign from anyone inside Valve that a Half-Life project was currently in development. That changed this week thanks to an apparent slip-up during a panel at GameSoundCon , an industry conference devoted to "the art, technology, and business of game audio." In a panel devoted to Valve's use of open audio engines (captured in this Vimeo clip ), Valve composer and audio artist Mike Morasky let an interesting string of three letters slip while talking about the way the company implements high dynamic range (HDR) audio: Our HDR system is basically that's one of the three pieces that come together to make an HDR that you can easily optimize. And in fact, I think Deadlock has their own version of HDR. HLX has its own version , so on and so forth [emphasis added]. "HLX," of course, has been widely reported as the internal code name for Valve's next Half-Life project. The codename has shown up in Valve engine code since at least 2024 , but it has never been referenced in public by a Valve employee until now (though Morasky was responsible for a close call in an interview last year). Read full article Comments ]]>
 
 ### The reactor meant to showcase nuclear’s comeback keeps hitting problems
 Fri, 23 Oct 2026 13:43:21 +0000 — https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/
 
-US regulators have issued a warning to a nuclear project critical to Donald Trump’s efforts to revive the industry, after a contractor fell into a reactor cavity and a bundle of fuel rods nearly tipped over during refuelling. The US Nuclear Regulatory Commission told Holtec International, a company racing to reopen a shuttered reactor at the Palisades nuclear power plant in Michigan, to address a “chilled work environment” that has made staff hesitant to raise safety concerns without fear of retaliation. The warning has prompted concerns among critics that financial and political pressures to revitalise nuclear power as an answer to booming AI-driven energy demand are increasing risks of accidents. Read full article Comments ]]>
+US regulators have issued a warning to a nuclear project critical to Donald Trump’s efforts to revive the industry, after a contractor fell into a reactor cavity and a bundle of fuel rods nearly tipped over during refueling. The US Nuclear Regulatory Commission told Holtec International, a company racing to reopen a shuttered reactor at the Palisades nuclear power plant in Michigan, to address a “chilled work environment” that has made staff hesitant to raise safety concerns without fear of retaliation. The warning has prompted concerns among critics that financial and political pressures to revitalize nuclear power as an answer to booming AI-driven energy demand are increasing risks of accidents. Read full article Comments ]]>
 
 ### Ukraine learns to fight without Starlink as Musk plays politics with satellites
 Fri, 23 Oct 2026 11:30:22 +0000 — https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/
@@ -37,32 +62,47 @@ Thu, 22 Oct 2026 21:52:31 +0000 — https://arstechnica.com/space/2026/10/latest
 
 NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like it is trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. The general response from NASA has typically been, 'We don't know for sure, so we're not going to say.' In 2023, for example, the then-director of NASA's Human Landing System, Lisa Watson-Morgan, told Ars , "We have a general idea, but I’m reluctant to say exactly what that is." Read full article Comments ]]>
 
-### Comcast loses more customers, claims other ISPs' cheap prices are "irrational"
-Thu, 22 Oct 2026 21:07:09 +0000 — https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/
-
-Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from fixed wireless providers and from fiber providers in parts of its cable territory. "Fixed wireless remains aggressive and continues to take share, while fiber construction remains elevated, with pockets of irrational pricing and promotional activity," Comcast co-CEO Mike Cavanagh said today in an earnings call . Read full article Comments ]]>
-
-### Disgraced eMudhra drops out of TLS business after using cert private key of 4
-Thu, 22 Oct 2026 20:17:52 +0000 — https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/
-
-eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments ]]>
-
-### Leaked Mass Effect: Universe trailer gives a taste of what we're all missing
-Thu, 22 Oct 2026 19:59:37 +0000 — https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/
-
-Those mourning yesterday's shuttering of highly praised and influential developer BioWare also had to deal with the cancellation of the next Mass Effect game, which was first teased back in 2020 . Today, we got our best look at what that game could have been with a short, leaked trailer for Mass Effect: Universe . In the roughly two-minute montage—which describes itself as "in-engine footage from our small team" that "uses our pre-production assets"—an ex-military officer wearing an N7 trenchcoat (similar to the one seen in that 2020 teaser) encounters an Asari at a bar. He talks of his frustration with military life—"by the time you put out one fire, another had already started"—before discussing his new line of work "stopping [the fires] before they start" and "making the choices no one else is willing to make. Going where others are afraid to go." Mass Effect: Universe Trailer by u/Random_Hyabusa_Ninja in masseffect Read full article Comments ]]>
-
-### Ink droplets in motion snag top prize in Nikon Small World contest
-Thu, 22 Oct 2026 19:34:40 +0000 — https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
-
-A 25-year-old German experimental photographer has won the 2026 Nikon Small World photomicrography competition with a striking image of droplets of ink being deposited on paper by an inkjet printer. Ole Bielfeldt beat out 1,802 other entries hailing from 69 different countries. Bielfeldt became interested in photomicrography during the COVID-19 lockdown after discovering an old microscope in his parents' attic. He figured out how to build an adaptor out of a tube and some wood to connect the microscope to his father's camera and taught himself the art through trial and error, building custom tools as needed. He documents how he captures transformative images of everyday objects with behind-the-scenes videos posted to macrofying , his photography and videography brand. It was Bielfeldt's curiosity about the inner workings of inkjet printers that inspired his winning entry, but capturing the action of ink drops being deposited on paper was a challenge, given that the process happens so quickly. The droplets, for instance, moved faster than the camera's shutter speed. Bielfeldt's solution was to deconstruct the printer so that the paper moved under a stationary (rather than moving) printhead, and then take the image in a dark room, using a flash to serve as the shutter, thereby freezing the ink drops mid-air. There was no need for pricey equipment. Bielfeldt does not use AI in his images, preferring to rely on traditional techniques. Read full article Comments ]]>
-
-### "Disillusioned" MAHA leader quits as Trump admin's food agenda spoils: Report
-Thu, 22 Oct 2026 19:04:06 +0000 — https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/
-
-Calley Means—a top ally to anti-vaccine Health Secretary Robert F. Kennedy Jr. and a co-author of the so-called "MAHA bible"—resigned from his role in the Trump administration Thursday, reportedly in frustration over delays to food policy changes sought by the Make America Healthy Again movement. "I am resigning from the White House with tremendous respect for President Trump and Bobby Kennedy," Means wrote in a social media post this afternoon . "It was an honor to advocate for MAHA moms in the administration and steer policies like Dietary Guidelines reform, psychedelic reform, removing soda from SNAP, removing food dyes, GRAS reform, and overhauling government food procurement." His post did not provide a reason for his departure. Means served as a senior advisor to Kennedy. Read full article Comments ]]>
-
 ## The Verge
+
+### Abandoned Popcorn Time apps had to be disabled to prevent a zombie army
+2026-10-23T15:35:15-04:00 — https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided
+
+Remember Popcorn Time , the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years , but the "Netflix of Piracy" software is still installed on millions of devices that are just waiting to join a bot army. Researchers at Eye Security found the updater for a Popcorn Time fork called "Time4Popcorn" still running on tons of Windows, macOS, and Android devices located around the world, phoning home to now-abandoned web domains over unencrypted HTTP and running an outdated, insecure version of Chrome. Eye Security's Niels Teus … Read the full story at The Verge. ]]>
+
+### Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
+2026-10-23T15:32:39-04:00 — https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+
+Jack Dorsey's Block announced an AI model called Dessa that's trained "from scratch on nothing but human conversation," and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take this one , for example, shared by Dessa lead Ragavan Thurairatnam. The conversation between the model and the speaker does have a mostly natural back and forth (though for some reason, the model initially mistakes the speaker for somebody named "Ronaldo"). We made the first AI model you can have a realistic conversation with that was trained entirely on speech! Dessa is a full-duplex speech-to-sp … Read the full story at The Verge. ]]>
+
+### Soundcore’s latest noise-crushing headphones are on sale for a new low price
+2026-10-23T14:43:30-04:00 — https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale
+
+The Space 2 comes in multiple colors, including an attractive seafoam green. | Photo: Amelia Holowaty Krales / The Verge My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the Soundcore Space 2 are currently on sale at Amazon , Best Buy , and Walmart in all three colors for an all-time low of $106.49 ($23 off), making them even easier to recommend. Soundcore Space 2 Where to Buy: $129.99 $106.49 at Amazon $129.99 $106.49 at Walmart $129.99 $106.49 at Best Buy The Space 2 builds on the original with improved active noise cancellation, particularly when it comes to the low-frequency sounds associated with trains and airplane engines. They also deliver more accurate sound performance thanks to various design upgrades, while retaining many of the same features that made the Sound One sound so good for the price, including support for high-resolution LDAC audio. You also still get access to HearID 3.0, which lets you personalize the sound by listening to a series of samples and adjusting accordingly. Battery life is another welcome improvement. The Space 2 can last up to 50 hours with ANC enabled or 70 hours with it switched off, up from 40 and 55 hours, respectively, on the original. And when your battery dies, you can still use the equipped 3.5mm jack for wired listeni
+
+### Fi’s GPS-equipped dog trackers are on sale for 30 percent off
+2026-10-23T13:55:03-04:00 — https://www.theverge.com/gadgets/1017196/fi-ultra-gps-dog-tracker-kirby-air-riders-deal-sale
+
+If your dog or cat is prone to getting lost, or you frequently go on adventures together, you can save 30 percent on Fi pet trackers through October 25th when you enter coupon code SCARY at checkout. The sale includes several satellite-connected trackers, including the Fi Ultra GPS we previously tested , which is down to $209.30 after the discount. That effectively brings it down to its original launch price. The IP68-rated Fi Ultra is fully waterproof, even in saltwater, and lasts up to five days, depending on how active your dog is. The accessory — which conveniently attaches to your dog’s collar or harness — uses a combination of LTE, GPS, and Starlink satellite coverage to track your dog’s current location and recent history, even in cellular dead zones; it can also send noise and vibration alerts to catch your canine’s attention. Fi Ultra dog tracker The Fi Ultra is the first dog tracker to combine T-Satellite with Starlink, GPS, and LTE connectivity to help you find your lost dog anywhere. Where to Buy: $299 $209.3 at Fi (with code SCARY) We spent time with the Fi Ultra earlier this year, testing it in a remote location in South Carolina. While the tracking was precise, the two- or three-minute update interval could be problematic for fast dogs, and it drained the battery quickly in Lost Mode (we barely got two days on a full charge). It’s also fairly sizable, making it a better fit for larger pups. Unsurprisingly, you’ll need an active subscription to use the Fi Ultra’
+
+### Elon Musk’s dangerous grip on outer space
+2026-10-23T13:35:15-04:00 — https://www.theverge.com/science/1017443/spacex-starlink-ukraine-elon-musk-monopoly
+
+Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure and leading to a reported two deaths and at least 17 injuries . The Ukrainian military reported receiving no advance warning about the Starshield speed restriction. But Ukrainian President Volodymyr Zelenskyy said it was a direct message from the US amid rising tensions b … Read the full story at The Verge. ]]>
+
+### The iPhone Duo should have been an iPad
+2026-10-23T13:00:18-04:00 — https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast
+
+We gave the iPhone Duo a 7 /10 . But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast , David and Nilay debate whether the Duo deserved the score it got, and try to work through how this device might change over time. Is the outer screen, as Daring Fireball's John Gruber suggested, the worst iPhone ever ? Would it be a better product if it started as an iPad rather than an iPhone? Would we feel differently about this thing if it were simply called the iPad Du … Read the full story at The Verge. ]]>
+
+### Now Google says it might use your Gmail and Google Photos data to target ads
+2026-10-23T12:52:55-04:00 — https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
+
+Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority , adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, "unless you choose to make data from these services available to other Google services that support personalized ads." That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools … Read the full story at The Verge. ]]>
+
+### The first broken iPhone Duos are here
+2026-10-23T12:37:03-04:00 — https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
+
+The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright line (or lines) across the right side of the display. Here's how one user in Australia described what happened to their phone: Had my iPhone Duo for about six hours and had probably opened it fewer than 20 times. I was showing it to a friend, and as I opened it, I felt something around the internal hinge, underneath the screen. As I cont … Read the full story at The Verge. ]]>
 
 ### Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights
 2026-10-23T11:24:45-04:00 — https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss
@@ -72,49 +112,19 @@ After years of debating how driverless cars should tell the world no one is at t
 ### SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites
 2026-10-23T11:16:24-04:00 — https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier
 
-SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg . Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access to half of the 158,500 cell towers currently operational in the US, according to Reuters . When asked about a potential partnership with SpaceX, Amazon, or other satellite services during an earnings call on Wednesday , Crown Castle CEO Chris Hillabrant said, "I don't think I want to get into customer-specific detail, but y … Read the full story at The Verge. ]]>
-
-### Meta delays new business terms after publisher pushback on AI scraping
-2026-10-23T10:47:41-04:00 — https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping
-
-Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company . In a statement to The Verge , Meta spokesperson Daniel Roberts says the terms will go into effect on November 20th "to allow more time for us to explain to our partners and stakeholders what's changing and what's not." The business terms , which were originally supposed to go into effect on October 30th, appeared to give Meta permission to freely scrape the new sites that use its platforms, while using the material for AI training. Though Meta u … Read the full story at The Verge. ]]>
-
-### The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera
-2026-10-23T10:42:46-04:00 — https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade
-
-Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades including an improved sensor, an articulating LCD display, and longer battery life. But this time around Sigma is only claiming its new FP2 is the "world's smallest" full-frame shooter as those upgrades have increased its body-only weight by about six grams. The Sigma FP2 will be available on November 11th and starts at $2,199 for the camera body alone. For $2,749 you can bundle it with Sigma's upgraded EVF-21 viewfinder featuring a 5.76 mill … Read the full story at The Verge. ]]>
-
-### Our best tips for using the iPhone Duo
-2026-10-23T10:00:00-04:00 — https://www.theverge.com/tech/1017157/iphone-duo-tips-touch-id-magsafe
-
-It’s been a long time since we had to rethink how to use an iPhone. | Photo: Amelia Holowaty Krales / The Verge The Duo is an entirely new kind of iPhone, so it comes with a bit of a learning curve. That's a wild thing to imagine, since the iPhone has had very few fundamental changes since its inception. But the Duo is built different. If you won the preorder lottery and managed to get your hands on one today, you'll see what that means. You'll laugh, you'll cry, you'll lose track of the volume buttons as you turn the thing around. We've learned a few tricks over the past week of flipping and folding the Duo as much as we could. Here are our favorite tips and hacks for newly minted Duo owners. You can set orientation lock on each screen independent … Read the full story at The Verge. ]]>
-
-### Apple revives the original iPod as an Apple Music easter egg
-2026-10-23T09:58:43-04:00 — https://www.theverge.com/entertainment/1017413/apple-music-ipod-404-page
-
-If you've been feeling nostalgic for your old iPod, you can head over to Apple Music's 404 page to listen to music on a virtual recreation of the first-generation iPod. The hidden iPod was spotted by users on social media on Friday. It's appropriately stocked with music from the early 2000s, like Coldplay's "Viva La Vida" or Gorillaz's "Feel Good Inc." The iPod seems to pop up on any non-existent Apple Music page, so you can find it by just adding a string of random letters after the main Apple Music URL. theres a hidden fully functional ipod as a 404 page on apple music https://t.co/vLYpnkHG4x pic.twitter.com/0cSz4SF1kp - Kian (@kianworl … Read the full story at The Verge. ]]>
-
-### People are vibe coding their way to better TVs
-2026-10-23T09:00:00-04:00 — https://www.theverge.com/tech/1016116/vibe-coding-tv-os
-
-Just imagine… a nice, clean homescreen with no ads, thanks to Claude. | Image: cleanyourtv Vibe coding has reached TVs. Social media is awash with posts from people using LLMs and open-source tools to remove ads and tracking, trim bloat so the OS runs faster, and even completely change the look and organization of their homescreens. While a lot of it is fun - one user turned their TV homescreen into a Pok&eacute;mon town - I think there's a level of frustration behind it, too. And TV companies should take notice. Vibe coded my parents' TV this afternoon! It was showing a sponsored ad before you could even get to Netflix. Gave Claude Code the model number, it found the TV on wifi, removed 25 Xiaomi packages and wrote a new launcher. Looks … Read the full story at The Verge. ]]>
-
-### Netflix can’t fire its way out of this downward spiral
-2026-10-23T09:00:00-04:00 — https://www.theverge.com/streaming/1017304/netflix-layoffs-bela-bajaria-peter-rice-dan-lin-doug-belgrad
-
-Netflix co-CEO Ted Sarandos. | Photo by Noam Galai/Getty Images Netflix co-CEOs Ted Sarandos and Greg Peters assured investors this week that they have nothing to be concerned about. Sure, the company was going to lay off 1,000 employees , downsizing its product, tech, and legal departments , and was ousting its chief content officer , film chairman , and film vice president . But it had also hired a new COO - "one of the most effective at-scale operators in the entertainment industry," Sarandos said - to turn things around. Though executive shake-ups aren't uncommon, having so many of them back to back would send a concerning message even in the best of circumstances. With Netflix, however, the situation lo … Read the full story at The Verge. ]]>
-
-### Brick’s new app blocker is designed for bedtime doomscrolling
-2026-10-23T08:50:17-04:00 — https://www.theverge.com/gadgets/1017383/brick-night-app-blocker-gadget-bluetooth-launch
-
-The Brick Night is considerably bigger then the OG Brick, and more than double the price. | Image: Brick Brick, the company behind the $59 gadget that blocks you from using apps on your phone, has launched a new device that's designed to help you cut back on doomscrolling in bed. The $129 Brick Night introduces a location-based element: instead of requiring you to tap your phone against the device, like the OG Brick , this version uses Bluetooth to automatically kick in when you enter your bedroom (or any other room you put it in). The Brick Night uses two CR2477 batteries, and you can set a location zone of up to 25 feet x 25 feet. Both this and the Brick allow you to select specific apps to block instead of rendering your entire phone inacces … Read the full story at The Verge. ]]>
-
-### Retro gaming is being overrun with AI
-2026-10-23T08:00:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port
-
-Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser , Wind Waker on the iPhone , Super Smash Bros. in mixed reality . Over the past month or so, these kinds of unexpected projects have gone viral with incredible frequency thanks to new AI tools, as hobbyists take apart games and then rebuild them for new platforms. But while AI has supercharged the pace of these ports, it's also tearing apart tight-knit communities dedicated to preserving games. Decomps and recomps - shorthand for decompile and recompile - are a form of reverse engineering that involves breaking a game down to … Read the full story at The Verge. ]]>
+SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg . Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access to half of the 158,500 cell towers currently operational in the US, according to Reuters . When asked about a potential partnership with SpaceX, Amazon, or other satellite services during an earnings call on Wednesday , Crown Castle CEO Chris Hillabrant said, "I don't think I want to get into customer-specific detail, but you can … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
+
+### Razer Basilisk V4 Pro Review: Tried and true and now with AI
+Fri, 23 Oct 2026 16:00:00 +0000 — https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review
+
+Razer has been updating its gaming mouse lineup systematically over the past two years, and it's finally the Basilisk's turn to get a real update. The last update we saw to the Basilisk line was the Basilisk V3 Pro 35K in October 2024, which was basically just the Basilisk V3 Pro with a new sensor. The Basilisk isn't Razer's most popular gaming mouse line, but it is the more versatile, all-rounder line for people who aren't chasing performance above all else. The Basilisk V4 Pro maintains the general design of its predecessor — a contoured, right-handed gaming mouse with bright RGB lighting and a handful of extra buttons, for the serious gamer who isn't trying to break esports records. It features Razer's newest Focus Pro 50K optical sensor, gen-4 optical mouse switches, and up to an 8,000 Hz polling rate, plus multiple forms of connectivity and up to 200 hours of battery life (over 2.4GHz at 1,000 Hz). It is admittedly pricey, like all of Razer's flagship mice, at $169.99 for both colorways (black and white), and it launched with Razer's Mouse Dock V2 Pro — which is sold separately for $69.99. Design and Comfort of the Basilisk V4 Pro Following in the footsteps of its other recent next-gen mouse launches, Razer has kept the design of the Basilisk V4 Pro largely the same. The Basilisk V4 Pro has basically the same size and shape as its predecessor — it has a right-handed ergonomic shape with a contoured thumb rest and a hump that sits slightly back and to the left. It has lar
+
+### Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance
+Fri, 23 Oct 2026 15:32:05 +0000 — https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed
+
+Micron's next-generation 3D NAND, which will enter mass production in 2H 2027, is set to offer three significant advantages: it will double storage density, increase I/O performance by 50% compared to the company's current-generation NAND memory, and decrease power consumption, the company revealed at an event this week. To achieve these aggressive goals, Micron plans to take a page from YMTC's book and adopt wafer-on-wafer bonding. Meanwhile, Micron is also developing new materials and denser memory cell architectures to extend 3D NAND scaling beyond G11. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps "We had mentioned we will bring in wafer-on-wafer bonding technology at the right time when it’s cost-effective, and it brings in capability that is important for the product specs at the time, and this is the right timing for that technology," said Scott DeBoer, president and chief technology and products officer at Micron, during the company's event this week. "So this G11 technology is the world's most advanced NAND. It will ramp in the second half of next year, [and] it is based on wafer-on-wafer bonding technology." G11: Over 400 layers and wafer bonding Micron's G11 3D NAND represents a substantial advancement over its current G9 (N160) gen
 
 ### Solidigm confirms plans to build a fab in the US, abandons IPO plans
 Fri, 23 Oct 2026 15:21:16 +0000 — https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given
@@ -166,17 +176,17 @@ Fri, 23 Oct 2026 11:45:00 +0000 — https://www.tomshardware.com/tech-industry/u
 
 The UK government has outlined a set of plans for new powers and penalties to help it protect UK undersea cables during national security emergencies, the BBC reports . It follows reports that Russia is using commercial fishing trawlers to map undersea cables , with 500 incidents of Russian boats loitering above cables in the last four and a half years. In a policy paper shared this week , the British government noted that the UK is "highly dependent" on undersea infrastructure owned by private sector companies. While the report notes that connectivity is "resilient," with "faults rarely causing noticeable disruption to data or energy availability," it's still "vulnerable to damage from accidents and potential sabotage." As a result, the UK is consulting on changes to legislation to try and address these risks, especially as the "threats to the homeland from state actors are increasing" and "critical national infrastructure, including undersea cables and pipelines... continue to be a target." The changes proposed include new criminal offenses. These include causing a security compromise to critical undersea infrastructure, capturing both physical and non-physical interference, including remote electronic interference, cyber activity and certain preparatory conduct directed at compromising infrastructure. There would also be further offenses linked to obstructing repairs and failing to preserve evidence, when requested. With these new offenses, the UK government is threatening
 
-### US banks scramble to restrict AI agent activity
-Fri, 23 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/us-banks-scramble-to-restrict-ai-agent-activity-agents-detected-accessing-customer-accounts-or-even-attempting-to-make-transactions-in-breach-of-policy
-
-A new report claims that major U.S. banks have now detected AI agents accessing customer accounts, and that some are even attempting to make transactions. Axios reports that it’s hard to differentiate between an actual human and an unauthorized bot, which is why some institutions, including Morgan Stanley, Bank of America, JPMorgan, and Wells Fargo, are blocking the technology and changing their terms of service to account for this. While an AI agent or AI assistant can access an account with a user’s permission and through the use of their login credentials, this often goes against bank policy that requires users to maintain control of their account and not share it with anyone else. One of the fears that executives have is when an AI agent with login access takes unauthorized steps, like spending money or moving funds around without the explicit instructions of the account owner. There have even been situations where an AI agent called the bank directly and took actions independent of direct user command. Even though it wasn’t explicitly told to do that transaction, it considered it a crucial step to accomplish the task assigned to it. One hypothetical example of this is when a user tells an AI agent to purchase an item but gives it a credit card with no available limit. The AI agent could then have accessed the user’s bank account to move some funds from whatever account it sees that has available funds to then effect the transaction, even if the user did not explicitly te
-
-### Consultant comes clean for sparking worldwide panic by accidentally breaking the PHP vulnerability embargo
-Fri, 23 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/devastated-forum-user-who-accidentally-broke-the-php-news-embargo-comes-clean-user-says-they-were-unaware-of-disclosure-restrictions-move-clearly-backfired-in-a-pretty-wild-fashion
-
-A Hacker News user who shared news about the recent PHP vulnerabilities revealed by ChatGPT Sol before an embargo, which they claimed to be unaware of, has taken to the platform to apologize for the post. According to petecooper , they shared the CVEs because they wanted to alert others who follow the four-week PHP release cycle about the importance and urgency of the matter, but they weren’t aware of the news blackout that went with the two identified vulnerabilities. The user said they have "No connection or affiliation to any of the organisations involved." Noting, "I am a self-employed consultant for my day job, and a solo founder of a mental health non-profit on the side." Petecooper's original post about the vulnerability was among the first to break the NDA, though they claim they were unaware. “I posted here about the then-upcoming PHP RCEs related to CVE-2026-109618 & CVE-2026-109619. I appreciate this has had considerable knock-on effects with the schedule for co-ordinated disclosure, and created additional workload. I am truly sorry. I take full responsibility for my actions,” petecooper wrote on the platform. “It was not remotely my intention to cause any of the subsequent side effects. At the time of posting, I didn’t know about any embargo. My contact had told me there was no embargo, and her contact had told her the same thing.” CVE-2026-109618 and CVE-2026-109619 are two critical vulnerabilities, both scored at 9.2. It seemed that the PHP Foundation planned fo
-
 ## Phoronix
+
+### HPFS Is The Latest File-System Slated For Removal On Linux
+Fri, 23 Oct 2026 12:27:08 -0400 — https://www.phoronix.com/news/HPFS-For-Linux-Removal
+
+HPFS is the latest file-system driver for the Linux kernel facing removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...
+
+### Borealis: Asahi Linux s Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding
+Fri, 23 Oct 2026 12:00:38 -0400 — https://www.phoronix.com/news/Borealis-Vulkan-Driver
+
+Seeing a Vulkan API driver pull request this morning for introducing a new "Borealis" driver ID caught me by surprise as it was the first time I was hearing of such a driver. It turns out to be a fork of the Asahi Linux project's HoneyKrisp driver in Mesa for Apple Silicon hardware...
 
 ### oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations
 Fri, 23 Oct 2026 10:12:33 -0400 — https://www.phoronix.com/news/oneDNN-3.14-Released
@@ -228,17 +238,17 @@ Thu, 22 Oct 2026 20:38:20 -0400 — https://www.phoronix.com/news/Linux-7.4-Work
 
 Adding to all the exciting performance optimizations and other improvements for Linux 7.4 is an exciting workqueue improvement. It's not too often getting to talk about "10 to 100 times faster" software improvements...
 
-### Fedora 45 Hits A Second NO-GO: Not Releasing Until November
-Thu, 22 Oct 2026 17:20:50 -0400 — https://www.phoronix.com/news/Fedora-45-Second-NO-GO
-
-Fedora 45 wasn't released this week as its ideal early release target due to not having a release candidate build in time for last week's Go/No-Go meeting. At today's Go/No-Go meeting, Fedora 45 was delayed by at least one more week due to open blocker bugs...
-
-### AI Helping To Improve Linux s AMD Zen CPU Microarchitecture Detection
-Thu, 22 Oct 2026 15:21:54 -0400 — https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection
-
-A request for comments (RFC) was sent out last night on the Linux kernel mailing list in seeking to clean-up the AMD Zen microarchitecture detection within the kernel. This is for enhancing the kernel where there are code paths specific to a certain generation of AMD Zen processors or select generations such as Zen 3 through Zen 5 CPUs. AI was leveraged in helping to clean-up this AMD Zen code in the Linux kernel...
-
 ## The Register
+
+### AI models think humans are a bunch of amoral sheep
+Fri, 23 Oct 2026 16:26:13 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123
+
+If you've ever wondered what the bots think of us puny humans, you'll be disappointed in the answer. An AI ranking outfit asked 12 different LLMs about people, and every single one agreed: We’re not as rational and intelligent as we think. “A person is smart,” Tommy Lee Jones’ Kay opines in the 1997 movie Men in Black. “People are dumb, panicky dangerous animals,” he goes on to argue, and that seems to be what a dozen models from ten AI labs in three countries also believe about humanity, according to AI analytics firm ModelCompare. ModelCompare, which usually evaluates and ranks LLMs on their ability to perform various tasks, this week instead decided to ask what those AI models thought about us meatbags, and every single one gave a similar answer at least once: We're lemmings who would rather agree with the group than seek truth or remain logically consistent in our thinking. Ouch. “Humans are more devoted to belonging than to truth, and intelligence mostly makes their excuses more impressive,” GPT-6.1 Sol said in one case. “Humans don't have beliefs; they have memberships — nearly every conviction a person holds was issued by their tribe as a loyalty test, and the feeling of ‘I reasoned my way here’ is the price of admission,” Kimi K3 stated. “Humans use moral language mainly to police rivals and excuse allies, not to constrain themselves,” argued Grok. Each model (GPT-6.1 Sol, GPT-6 Astra, Gemini 4 Argon, DeepSeek V4 Pro, Kimi K3, Qwen3.8 2.4T A95B, Muse Spark Open, Grok 
+
+### Michigan prof creates Python-like Jac language for AI agents
+Fri, 23 Oct 2026 15:46:19 +0000 — https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110
+
+Most programming languages were written for human programmers, but that's about to change. University of Michigan professor Jason Mars has developed an academically ambitious language called Jac , and a runtime called Jaseci, that treats AI and AI agents as first-class entities. Mars demonstrated the language and runtime in a talk at the All Things Open conference, held in Raleigh, North Carolina, this week. The tools we use to create software – everything from programming languages to build toolchains – were made for human consumption. They were created before generative AI and are ill-fitted to understand agentic needs. Currently, agents are drowning in polyglot complexity, he argued. "We're not using these tools anymore. We're using the agents, and the agents are using those tools. So I don't want new tools, but I want tools [for] my agents," he told the audience. One big hungry language In his talk, Mars cited Jarred Sumner, creator of the Bun framework, who spent $165,000 in Anthropic tokens to convert Bun’s Zig code into Rust earlier this year using a pre-release version of Mythos. Mard argued the heavy expense wasn't so much because the job itself was complicated; it was because everything had to be translated between two human-centered programming languages. “Mythos is supposed to hack into our nuclear reactors and take over the planet like Skynet, but it can't translate Bun to Rust unless you spend $165,000,” he noted. In Mars’s theory, Jac is a new type of programmi
 
 ### Arc browser on its way out as makers suggest an alternative
 Fri, 23 Oct 2026 15:22:00 +0000 — https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114
@@ -290,17 +300,17 @@ Fri, 23 Oct 2026 05:26:00 +0000 — https://www.theregister.com/personal-tech/20
 
 Energy can be hard to find on Friday mornings, which is why The Register uses them to offer a fresh instalment of On Call – the reader-contributed column that shares your hopefully empowering tech support stories. This week, meet a reader we’ll Regomize as “Lachlan,” who told us he once did tech support for a senior exec who had a side hustle writing essays for Japanese university students attending UK universities. The exec asked Lachlan for help diagnosing a sudden inability to send or receive email, an obvious hindrance to the side hustle. This story took place in the dialup age, so Lachlan sensibly assumed that the exec’s modem was misbehaving. “I checked the network settings, nothing wrong there,” he told On Call. Next, he checked the cables, and if the line the modem used had a dial tone. Again, all was well. “At this point I decided to make sure the device was correctly installed in Windows Device Manager,” Lachlan wrote. “I had a lot of experience in the dark arts of serial communications and there was an option in the advanced settings in Device Manager to send a series of low level AT commands to the modem, which would return responses.” He ran the tests, and Windows reported that the modem was in the pink of health. With all that done, Lachlan decided the time had come to replace the modem. “When I opened the PC, I got a faint whiff of that unmistakable scorched PCB smell,” he wrote. “By looking at the modem you couldn’t normally see if any of the chips were faulty
 
-### PHP2Shell exploit bypasses protections designed to stop remote code execution
-Thu, 22 Oct 2026 20:37:52 +0000 — https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883
-
-Researchers have developed a new exploit that shows how even Address Space Layout Randomization (ASLR) on an x86-64 server cannot stop the PHP2Shell vulnerability. VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack. The team told us that it’s a “significant advance” because up until now, ASLR has been a major barrier to exploiting PHP2Shell on real-world servers. They don't expect that to hold, though. “Adversaries are clearly spending time (and tokens) on this bug,” Spencer McIntyre, director of exploit development at VulnCheck, told The Register . The PHP2Shell mess grew even bigger on Thursday amid reports of attackers abusing the security flaws days before they were disclosed and UK government websites proactively going dark. Vulncheck's exploit targets CVE-2026-109618 , a critical, out-of-memory corruption bug that leads to remote code execution (RCE) in PHP, and part of the PHP2Shell pair alongside CVE-2026-109619 . The PHP Foundation officially disclosed and issued patches for both on Wednesday. Overnight, VulnCheck researchers developed what they believe is the first known exploit to achieve remote code execution on ASLR-enabled x86-64 systems with PHP's recommended production configuration. ASLR is a built-in defense against memory-corruption bugs – like PHP2Shell – that randomly arranges memory locations of a program's key data areas. By scrambli
-
-### Human receives AI-designed virus for the first time
-Thu, 22 Oct 2026 20:31:39 +0000 — https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874
-
-Researchers have administered AI-designed, bacteria-targeting viruses to a person in what they claim is a first, but don’t press them for results: They’re not ready to say how it went quite yet. Radical Numerics, a San Francisco-based AI lab developing AI models for bioscience, announced the treatment this week, claiming it marks the first time a cocktail containing AI-designed bacteriophages has been administered to a human patient under a compassionate-use arrangement. These aren’t just any viruses, mind you: Omnii-1, the AI model publicly unveiled by Radical Numerics this week, was used to design viable bacteriophages, a type of virus that specifically infects bacteria. Therapeutic use of phages isn’t novel in and of itself, with the bacteria-targeting viruses being sought as an alternative to combat the rise of antimicrobial-resistant bacteria that are increasingly rendering antibiotics ineffective . Phages have a number of potential advantages over antibiotics, most notably their ability to target specific bacterial strains – a big plus when it comes to sparing beneficial gut bacteria that can be affected by broad-spectrum antibiotics. AI has already shown promise in speeding up phage engineering, as we reported last year when a group of researchers from Stanford University and the Arc Institute created AI-designed phages that targeted E. coli bacteria. The phages, designed using the genetic sequence of a well-studied natural E. coli phage, included several variants that
-
 ## Engadget
+
+### Meta is charging government and nonprofit pages to post links on Facebook
+Fri, 23 Oct 2026 16:09:39 +0000 — https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/
+
+The new restrictions are a test which is explicitly not supposed to impact these entities.
+
+### Apple Music has a fun Easter egg for the iPod's 25th anniversary
+Fri, 23 Oct 2026 15:47:03 +0000 — https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/
+
+Time to dust off the click wheel.
 
 ### Greece enacts social media ban for kids under 15
 Fri, 23 Oct 2026 13:12:47 +0000 — https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/
@@ -352,32 +362,52 @@ Thu, 22 Oct 2026 19:55:13 +0000 — https://www.engadget.com/2294768/the-trailer
 
 'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.
 
-### 2027 BMW iX5 first drive: You'll love the range, but maybe not the look
-Thu, 22 Oct 2026 19:01:00 +0000 — https://www.engadget.com/2291166/2027-bmw-ix5-first-drive/
-
-BMW's latest EV will do over 450 miles on a charge and even close its own doors.
-
-### Daft Punk is getting an official Lego set
-Thu, 22 Oct 2026 18:59:09 +0000 — https://www.engadget.com/2294668/daft-punk-is-getting-an-official-lego-set/
-
-A fan-built model of the Alive tour pyramid got the green light to become a real product.
-
 ## TechCrunch
+
+### TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now
+Fri, 23 Oct 2026 20:03:14 +0000 — https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/
+
+TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.
+
+### Carta and NewView partner, hoping to entice more startups to let employees sell shares early
+Fri, 23 Oct 2026 19:25:13 +0000 — https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/
+
+A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.
+
+### From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
+Fri, 23 Oct 2026 19:06:23 +0000 — https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/
+
+Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside traditional startup hubs.
+
+### Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels
+Fri, 23 Oct 2026 16:26:29 +0000 — https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/
+
+Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.
+
+### Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors
+Fri, 23 Oct 2026 16:20:28 +0000 — https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/
+
+Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
+
+### What some of Anthropic’s backers are reportedly worth before its IPO
+Fri, 23 Oct 2026 16:02:43 +0000 — https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/
+
+Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
 
 ### Lab testing giant Quest Diagnostics confirms patients personal and health data was compromised during breach
 Fri, 23 Oct 2026 15:00:09 +0000 — https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/
 
 Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.
 
-### Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback
+### Oura sues rival Ultrahuman again, threatening its US smart ring comeback
 Fri, 23 Oct 2026 04:22:57 +0000 — https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
 
 Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
 
-### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia
+### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
 Fri, 23 Oct 2026 04:00:00 +0000 — https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
 
-inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
+The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
 
 ### Left alone with nothing to do, AI agents started playing
 Fri, 23 Oct 2026 00:45:37 +0000 — https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
@@ -393,34 +423,4 @@ A newly launched stock class being offered was partially engineered to help Meta
 Thu, 22 Oct 2026 23:15:00 +0000 — https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
 
 Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
-
-### As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier
-Thu, 22 Oct 2026 22:34:54 +0000 — https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/
-
-The digital asset unit, helmed by Chris Dixon, broadens its scope.
-
-### OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
-Thu, 22 Oct 2026 22:08:24 +0000 — https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
-
-Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
-
-### Rivian buys world model startup to accelerate self-driving ambitions
-Thu, 22 Oct 2026 21:05:05 +0000 — https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/
-
-Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
-
-### Arc browser sunsets December 22 as The Browser Company doubles down on Dia
-Thu, 22 Oct 2026 20:01:51 +0000 — https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/
-
-Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.
-
-### The secret to fast startup growth isn t early sales, top names in tech say
-Thu, 22 Oct 2026 20:00:00 +0000 — https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/
-
-At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
-
-### 1Password launches a way for AI agents to log in on your behalf without seeing your password
-Thu, 22 Oct 2026 19:07:09 +0000 — https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
-
-The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.
 
