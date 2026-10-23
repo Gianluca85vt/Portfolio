@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="600" letter-spacing="6" fill="#D7E2EA" fill-opacity="0.55">FSR 4.1 ON XBOX SERIES X|S</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="186" font-weight="700" fill="#D7E2EA">NO MATRIX</text>
+  <text x="90" y="470" font-family="Helvetica, Arial, sans-serif" font-size="186" font-weight="700" fill="#D7E2EA">UNITS</text>
+  <text x="90" y="570" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#D7E2EA" fill-opacity="0.78">The inference runs on the shader cores</text>
+  <text x="90" y="632" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#D7E2EA" fill-opacity="0.78">that were already shading your pixels.</text>
+</svg>
