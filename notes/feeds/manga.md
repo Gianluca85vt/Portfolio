@@ -1,72 +1,102 @@
-# Manga — harvested 2026-10-23T09:33:54.077Z
+# Manga — harvested 2026-10-23T15:27:42.711Z
 
 ## Anime News Network
+
+### Korean-Animated Film Your Letter Begins Streaming on Crunchyroll
+Fri, 23 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127
+
+Film screened in U.S., Canada through Crunchyroll Anime Nights on August 17
+
+### Manhwa-Based Live-Action Series The Blue Road Releases Teaser Trailer Ahead of November 20 Premiere
+Fri, 23 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/manhwa-based-live-action-series-the-blue-road-releases-teaser-trailer-ahead-of-november-20-premiere/.243124
+
+Seok-gu Son, Eita Nagayama star in series based on 2002 Korean-Japanese collaborative comic
+
+### This Week in Games - Seasons of Books and Keys, and Bloody Roars and Expensive Consoles
+Fri, 23 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-23/seasons-of-books-and-keys-and-bloody-roars-and-expensive-consoles/.243003
+
+Hold on to your old consoles, because the new ones are going to cost a <i>lot</i>. Plus Jean-Karlo digs into the demo of upcoming VN <i>Seasons of Books and Keys</i>!
+
+### Kazumi Yamashita's Twisted Sisters Manga Ends With 11th Volume
+Fri, 23 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/kazumi-yamashita-twisted-sisters-manga-ends-with-11th-volume/.243120
+
+11th volume ships in early spring
+
+### Interview: What We Know About Mobile Suit Gundam RG XARX-ZERO with Director Kenji Kamiyama
+Fri, 23 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-23/what-we-know-about-mobile-suit-gundam-rg-xarx-zero-with-director-kenji-kamiyama/.242526
+
+The man tackled <cite>Blade Runner, Ghost in the Shell, The Lord of the Rings</cite>, and now <cite>Gundam</cite>.
+
+### The World's Strongest Witch ‒ Episodes 1-3
+Fri, 23 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episodes-1-3/.243142
+
+Between an “I took an arrow to the knee” gag and Souls game inspired strats, <i>The World's Strongest Witch</i> is very clearly informed by the culture and experience of online gamers.
+
+### Though I am an Inept Villainess Anime's 2nd Part Streams Teaser Video
+Fri, 23 Oct 2026 07:59:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/though-i-am-an-inept-villainess-anime-2nd-part-streams-teaser-video/.243140
+
+New part debuts in January 2027
+
+### FX Fighter Kurumi-chan ‒ Episodes 1-4
+Fri, 23 Oct 2026 07:30:00 -0400 — https://www.animenewsnetwork.com/review/fx-fighter-kurumi-chan/episodes-1-4/.243121
+
+I can stop any time. I can stop any time.
+
+### Science Saru's The Ghost in the Shell Gets New Anime Project
+Fri, 23 Oct 2026 07:04:59 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/science-saru-the-ghost-in-the-shell-gets-new-anime-project/.243138
+
+Science SARU's series debuted on July 7, aired for 10 episodes
+
+### New Pokémon x Hatsune Miku Music Video Returns to Games' Roots
+Fri, 23 Oct 2026 05:45:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-23/new-pokemon-x-hatsune-miku-music-video-returns-to-games-roots/.243108
+
+Do you remember your first encounter with the legendary video games?
+
+### Shōya Ishige Joins Cast of Wound & Bandage TV Anime
+Fri, 23 Oct 2026 04:55:57 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/shoya-ishige-joins-cast-of-wound-and-bandage-tv-anime/.243137
+
+Ishige voices Ginsuke Hatobane in series debuting on January 9
 
 ### New Votoms Anime Films' Teaser Reveals Theme Song
 Fri, 23 Oct 2026 03:23:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/new-votoms-anime-films-teaser-reveals-theme-song/.243123
 
 Mika Nakashima performs theme song "Na mo Naki Shijin no Yō ni" for November 20 film
 
-### Made in Abyss: Mezameru Shinpi Anime Film Reveals 4 Cast Members
-Fri, 23 Oct 2026 02:59:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/made-in-abyss-mezameru-shinpi-anime-film-reveals-4-cast-members/.243122
-
-Nana Mizuki, Akeno Watanabe, Shunsuke Takeuchi, Nao Tōyama, Yume Miyamoto star in film
-
-### Hideo Kojima Reprises Cyberpunk 2077 Character in Edgerunners 2
-Thu, 22 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-22/hideo-kojima-reprises-cyberpunk-2077-character-in-edgerunners-2/.243062
-
-Kojima voices Hideyoshi Oshima in video game & anime
-
-### Frequent Ghibli Collaborator Joe Hisaishi Named LA Philharmonic's Composer-in-Residence
-Thu, 22 Oct 2026 21:56:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/frequent-ghibli-collaborator-joe-hisaishi-named-la-philharmonic-composer-in-residence/.243119
-
-Orchestra's new post is part of 5-year artistic partnership, involves composing new works
-
-### Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume
-Thu, 22 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/kumo-kagyu-moscow-2160-manga-listed-to-end-with-5th-volume/.243081
-
-Series debuted in December 2022
-
-### K Manga Adds Shinobu Ohtaka's Geekrown Manga
-Thu, 22 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115
-
-<cite>Magi</cite> creator's new manga launches on service on October 26
-
-### Firefly Wedding TV Anime Reveals English Dub Cast, October 23 Debut
-Thu, 22 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-reveals-english-dub-cast-october-23-debut/.243116
-
-Rowan Gilvie, Kieran Flitton, more star in dub on Friday
-
-### Fatal Fury City of the Wolves Streams Animated Trailer for Tokyo Revengers DLC Characters Mikey, Draken
-Thu, 22 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/fatal-fury-city-of-the-wolves-streams-animated-trailer-for-tokyo-revengers-dlc-characters-mikey-/.243114
-
-Both crossover characters launch alongside Switch 2 version on Thursday
-
-### Firefly Wedding TV Anime Casts Kazuyuki Okitsu
-Thu, 22 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-casts-kazuyuki-okitsu/.243113
-
-Kazuyuki Okitsu plays Eishin Nitobe
-
-### Psyren TV Anime Casts Reiko Suzuki, Ayumu Murase
-Thu, 22 Oct 2026 12:55:48 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/psyren-tv-anime-casts-reiko-suzuki-ayumu-murase/.243111
-
-Series casts Suzuki as Elmore, Murase as Van
-
-### Yoroi-Shinden Samurai Troopers Episodes 13-24 Anime Series Review
-Thu, 22 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/yoroi-shinden-samurai-troopers/episodes-13-24/.242569
-
-<i>Yoroi-Shinden Samurai Troopers</i> is such a hurricane of sacrificial swerves that it's virtually impossible to talk about without addressing its shallow fixation on offing its cast.
-
-### Yūichirō Momose, Hina Hinata's Bagudan Manga Ends on November 24
-Thu, 22 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/yuichiro-momose-hina-hinata-bagudan-manga-ends-on-november-24/.243066
-
-Reverse harem comedy manga launched on March 24
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Cyberpunk: Edgerunners 2 Original Score and Soundtrack Albums Released
+Fri, 23 Oct 2026 14:28:54 GMT — https://animecorner.me/cyberpunk-edgerunners-2-original-score-and-soundtrack-albums-released/
+
+CYBERPUNK: EDGERUNNERS 2 has released two official music albums following the anime’s Netflix debut on October 20, 2026.
+
+### Takopi’s Original Sin Movie Reveals Main Trailer With New Scenes, Key Visual and Tele Theme Song
+Fri, 23 Oct 2026 13:34:36 GMT — https://animecorner.me/takopis-original-sin-movie-reveals-main-trailer-with-new-scenes-key-visual-and-tele-theme-song/
+
+Takopi’s Original Sin -Thank You, See You Tomorrow- movie revealed a new key visual and main trailer ahead of its November 27 premiere in Japan.
+
+### BLEACH Mirrors High Surpasses 1 Million Pre-Registrations Worldwide, New Launch Rewards Unlocked
+Fri, 23 Oct 2026 13:34:32 GMT — https://animecorner.me/bleach-mirrors-high-surpasses-1-million-pre-registrations-worldwide-new-launch-rewards-unlocked/
+
+Bandai Namco Entertainment has announced that BLEACH Mirrors High has surpassed 1 million pre-registrations&hellip;
+
+### Fall 2026 Anime Rankings – Week 3
+Fri, 23 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-3/
+
+The third weekly poll for the Fall 2026 anime season has concluded, and BLEACH:&hellip;
+
+### Ghost in the Shell New Anime Project by Science SARU Announced
+Fri, 23 Oct 2026 12:06:31 GMT — https://animecorner.me/ghost-in-the-shell-new-anime-project-by-science-saru-announced/
+
+A new Ghost in the Shell anime project has officially entered production, with Science SARU once again handling the animation.
+
+### Made in Abyss Theatrical Series Part 2 Announced, New Key Visual Revealed
+Fri, 23 Oct 2026 11:35:38 GMT — https://animecorner.me/made-in-abyss-theatrical-series-part-2-announced-new-key-visual-revealed/
+
+The second installment in the new Made in Abyss theatrical series is officially in production, continuing the story after the first film.
 
 ### Cosplay Trackside Returns to Santa Anita Park on October 24 & 25
 Fri, 23 Oct 2026 03:21:45 GMT — https://animecorner.me/cosplay-trackside-returns-to-santa-anita-park-on-october-24-25/
@@ -93,12 +123,12 @@ Wed, 21 Oct 2026 18:40:05 GMT — https://animecorner.me/magazine-pocket-k-manga
 
 Several major manga and digital publishing platforms entered emergency maintenance on October 21 as&hellip;
 
-### Cyberpunk Edgerunners 2 Review: Great Anime, Impossible Expectations
-Wed, 21 Oct 2026 11:40:55 GMT — https://animecorner.me/cyberpunk-edgerunners-2-review-great-anime-impossible-expectations/
-
-CYBERPUNK: EDGERUNNERS 2 is an incredible anime from start to finish, but it doesn't quite live up to Season 1's expectations.
-
 ## MyAnimeList News
+
+### New Ghost in the Shell Anime Project in Production
+Fri, 23 Oct 2026 04:44:38 -0700 — https://myanimelist.net/news/74850349?_location=rss
+
+The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (pictured). Animation studio Science SARU will be producing the new anime project. Produced by Science SARU, the 10-episode season adapting Masamune Shirow s sci-fi action manga premiered in Summer 2026. Amazon Prime Video streamed the anime with subtitles and dubs in multiple languages. The latest ins...
 
 ### Made in Abyss: Mezameru Shinpi Movie Second Part Announced
 Thu, 22 Oct 2026 20:43:18 -0700 — https://myanimelist.net/news/74849312?_location=rss
@@ -120,6 +150,11 @@ The official X (formerly Twitter) account for the television anime adaptation of
 _Nothing in the last 48 hours._
 
 ## Anime UK News
+
+### Crunchyroll reveals UK Home Entertainment Release Schedule November-December 2026
+Fri, 23 Oct 2026 10:15:43 +0000 — https://animeuknews.net/2026/10/crunchyroll-reveals-uk-home-entertainment-release-schedule-november-december-2026/
+
+Titles include Ghost in the Shell 4K, The Apothecary Diaries Season 1 and Overlord Season 4 On SteelBook® Blu-ray™ from November.
 
 ### Wandering Cat s Cage Review
 Fri, 23 Oct 2026 09:00:15 +0000 — https://animeuknews.net/2026/10/wandering-cats-cage-review/

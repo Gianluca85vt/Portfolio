@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-23T09:33:54.077Z
+# Games — harvested 2026-10-23T15:27:42.711Z
 
 ## Eurogamer
+
+### "Why the f**k would they add a perk like that?" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive
+Fri, 23 Oct 2026 14:55:40 +0000 — https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke
+
+Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game - but already players are up in arms over a particular trait that allows competitors to revive themselves after being killed. Read more
+
+### Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more
+Fri, 23 Oct 2026 12:43:22 +0000 — https://www.eurogamer.net/half-life-3-developer-references-codename-public
+
+It's been 19 years since the release of Half-Life 2 : Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continues. And following a swell of reports suggesting Half-Life 3 isn't just real, its development is well underway, a Valve developer has gone and sent the internet a-chatter all over again by publicly, albeit accidentally, referencing its codename during a livestream. Read more
+
+### Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone
+Fri, 23 Oct 2026 12:33:45 +0000 — https://www.eurogamer.net/phantom-blade-zero-hit-not-out
+
+Chinese action game Phantom Blade Zero already appears to be outperforming massive games like Gears of War: E-Day and Control Resonant on Steam, despite still being days from release. Read more
 
 ### Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare
 Fri, 23 Oct 2026 09:11:49 +0000 — https://www.eurogamer.net/mass-effect-universe-trailer-leak-real
@@ -47,22 +62,32 @@ Thu, 22 Oct 2026 09:10:43 +0000 — https://www.eurogamer.net/xbox-cloud-gaming-
 
 Microsoft has revealed how much its Xbox cloud gaming service is going to cost, with 50 hours of stream-time selling for an introductory price of $11.99. Read more
 
-### Star Wars: Battlefront 3 reportedly being co-developed by Battlefield studio DICE and Apex Legends studio Respawn
-Thu, 22 Oct 2026 08:40:15 +0000 — https://www.eurogamer.net/star-wars-battlefront-3-developer-respawn-dice-report
-
-A new Star Wars: Battlefront game is reportedly in the works, and it's said to have Apex Legends and Star Wars Jedi studio Respawn working on it, as well as Battlefield and Battlefront developer DICE. Read more
-
-### EA cancels unannounced The Sims project, trims the Skate team and reportedly plans to lay off 400 workers: "We're the number one publisher in Western HD gaming"
-Wed, 21 Oct 2026 19:01:46 +0000 — https://www.eurogamer.net/ea-cancels-sims-skate-400-layoffs
-
-Not only is EA closing down BioWare and cancelling the next Mass Effect - Electronic Arts has now announced a heap of drastic changes that include cutting 400 jobs across the company, pausing development on a project connected to The Sims, and bringing together Respawn and DICE. Read more
-
-### BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout
-Wed, 21 Oct 2026 17:55:57 +0000 — https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled
-
-After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more
-
 ## GamesIndustry.biz
+
+### BioWare's end is a tragically familiar tale | Opinion
+Fri, 23 Oct 2026 15:04:13 +0000 — https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
+
+After the past five years of seemingly endless closures, cancellations, and restructures, after the tens of thousands of layoffs that the industry has endured like a relentless drumbeat, you'd think that we'd all have grown some pretty thick skin. How much can one more bad news story really hurt? Read more
+
+### GameMaker to make its "next-generation runtime" GMRT free for commercial use in January 2027
+Fri, 23 Oct 2026 13:52:52 +0000 — https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027
+
+2D-centric engine GameMaker is making its "next-generation runtime" GMRT free for commercial use from January 1, 2027. Read more
+
+### Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award
+Fri, 23 Oct 2026 13:06:01 +0000 — https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award
+
+Nintendo's Shigeru Miyamoto will be the first game developer to receive Japan's Order of Culture award. Read more
+
+### Capcom affected by data breach, over 11.7m Capcom ID accounts compromised
+Fri, 23 Oct 2026 11:05:20 +0000 — https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised
+
+Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts. Read more
+
+### Call of Duty: Modern Warfare 4 | Critical Consensus
+Fri, 23 Oct 2026 09:59:48 +0000 — https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus
+
+Activision has a lot riding on Call of Duty: Modern Warfare 4. Last year's entry, Black Ops 7, was poorly received by critics and players, and third-party tracking data suggested the game significantly underperformed compared to other entries in the series. Read more
 
 ### Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop
 Fri, 23 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop
@@ -99,36 +124,41 @@ Thu, 22 Oct 2026 08:08:08 +0000 — https://www.gamesindustry.biz/fortnite-retur
 
 Fortnite is returning to iOS in Australia after a court decision ruled that Apple must open iOS to third-party app stores after finding it violated competition law. Read more
 
-### BioWare is closing after 30 years
-Wed, 21 Oct 2026 17:55:20 +0000 — https://www.gamesindustry.biz/bioware-is-closing-after-30-years
-
-Mass Effect and Dragon Age developer BioWare is closing after more than 30 years, and early development on the next Mass Effect project is ending. Read more
-
-### AMD's FSR 4.1 upscaling is coming to Xbox Series X|S
-Wed, 21 Oct 2026 17:39:13 +0000 — https://www.gamesindustry.biz/amds-fsr-41-upscaling-is-coming-to-xbox-series-xs
-
-Microsoft and AMD have announced that AMD's FSR 4.1 upscaling technology is coming to Xbox Series X|S consoles. Read more
-
-### How to run an indie game studio: Part 4, Setting (and hitting) quarterly rocks
-Wed, 21 Oct 2026 14:00:00 +0000 — https://www.gamesindustry.biz/how-to-run-an-indie-game-studio-part-4-setting-and-hitting-quarterly-rocks
-
-Previously in this series, we've defined your studio purpose , set clear goals for the future , and looked at how to catch and solve the problems that get in the way . This week, we're tackling one of the crucial tools for managing the work that needs to happen to hit your goals. Read more
-
-### Project Helix reportedly launching in late 2028, projected to cost between $1,200 and $1,800
-Wed, 21 Oct 2026 13:38:47 +0000 — https://www.gamesindustry.biz/project-helix-reportedly-launching-in-late-2028-projected-to-cost-between-1200-and-1800
-
-Project Helix is reportedly launching in the 2028 holiday season and is projected to cost between $1,200 and $1,800. Read more
-
-### Indies and original IP blew up in 2026
-Wed, 21 Oct 2026 11:39:48 +0000 — https://www.gamesindustry.biz/indies-and-original-ip-blew-up-in-2026
-
-Research by Sensor Tower &ndash; done at the request of GamesIndustry.biz &ndash; shows that indies and original IP made up a much higher proportion of the biggest PC and console games of 2026 when compared with 2025. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Helldivers 3? Not Unless It s Very Different from Helldivers 2, Says Arrowhead
+Fri, 23 Oct 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead
+
+Players are "keeping the game alive". One of the more successful recent attempts at a live service game is Helldivers 2 , published by Sony and developed by Arrowhead Studios. It seems the latter is in no rush to follow it up with a Helldivers 3. Speaking to Rock Paper Shotgun , chief creative officer Johan Pilestedt says a third game in the co-op shooter series would only get made if it's very different from the current game, or if players simply stopped showing up. Read the full article on pushsquare.com
+
+### Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here s What the Critics Are Saying
+Fri, 23 Oct 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying
+
+Back to Akihabara. I’ve not had a chance to finish reading STEINS;GATE RE:BOOT yet, and considering how busy my current work schedule is, I think I’m going to put it down for now and concede defeat. (I do intend to get back to it at some point.) However, I still wanted to get something up on the site about this visual novel, which is a second re-release of the 2009 time traveller tale, developed by MAGES. Read the full article on pushsquare.com
+
+### AC Black Flag Rescyned Wants You to Play It Again in New Game Plus Patch Next Week
+Fri, 23 Oct 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/10/ac-black-flag-rescyned-wants-you-to-play-it-again-in-new-game-plus-patch-next-week
+
+There and back again. If you've got the urge to replay Assassin's Creed: Black Flag Resynced a few months on from your original playthrough in the summer, then Ubisoft has the perfect PS5 update for you: a New Game Plus mode is coming next week. This has been a long time coming for PS5 players, as fans have been asking for a proper campaign replay option since day one, basically, back in July. From next week, they'll have their wish. Read the full article on pushsquare.com
+
+### We re Victims of Xbox s Change in Strategy : Dishonored Dev Has Weeks to Save Itself
+Fri, 23 Oct 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself
+
+Blames Microsoft for "incoherent" decision making. While the future of former Xbox first-party devs like Double Fine and Undead Labs has already been determined, it’s been a while since we heard word from Arkane Lyon , the studio behind the acclaimed Dishonored games. Now an article by Le Monde (paywalled) gives an insight into the struggles of the French studio, as it races to find a buyer before a 13th November deadline. Read the full article on pushsquare.com
+
+### Call of Duty: Modern Warfare 4 s Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far
+Fri, 23 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far
+
+"Worst Call of Duty ever". Call of Duty: Modern Warfare 4 is officially available for everyone, after a complicated release rollout which saw the campaign unlock for some last week and extraction mode DMZ for others on Tuesday. Feeling bullish, Infinity Ward opened up the competitive multiplayer suite earlier than expected overnight , which means you can play the full game now. Our review will follow in the coming days. Read the full article on pushsquare.com
+
+### Thai Rapper Lisa s Tarantino Music Video Squeezes in PS5 Product Placement
+Fri, 23 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/thai-rapper-lisas-tarantino-music-video-squeezes-in-ps5-product-placement
+
+"Death Proof, I do all my own stunts". Blackpink star Lisa released her highly anticipated new Press Play EP overnight, alongside latest single Tarantino . And as expected, the PlayStation global ambassador squeezed in a PS5 reference towards the end of the music video. Read the full article on pushsquare.com
 
 ### Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game
 Thu, 22 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game
@@ -160,36 +190,6 @@ Thu, 22 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-
 
 It's gonna be big. PC and mobile undoubtedly rule the gaming market in China, but Sony is putting up an impressive fight. Earlier in the generation, it built a successful campaign around console exclusive Black Myth: Wukong , and now it’s poised to repeat the feat with next week’s Phantom Blade Zero . Read the full article on pushsquare.com
 
-### Dispatch PS5 Marks First Anniversary with New Commentary, Storyboard Modes
-Thu, 22 Oct 2026 16:15:00 GMT — https://www.pushsquare.com/news/2026/10/dispatch-ps5-marks-first-anniversary-with-new-commentary-storyboard-modes
-
-Free for Deluxe Edition owners. PS5 story game Dispatch turns one year old today, 22nd October 2026. Happy birthday to Dispatch! To celebrate the occasion, Adhoc Studio has released new DLC that adds new commentary and storyboard modes to the experience. Anyone who owns the Deluxe Edition of Dispatch gets the content for free, while base game owners can pay $10.99 to access it. That content should be available now. Read the full article on pushsquare.com
-
-### Alice in Wonderland Roguelite Is Free to Try on PS5 Now
-Thu, 22 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/alice-in-wonderland-roguelite-is-free-to-try-on-ps5-now
-
-Give it a go. Regular readers will know I’m pretty Alice in Wonderland obsessed, so I’ve been keeping a keen eye on CRYMELIGHT . This is the latest bishoujo effort from dev FuRyu, and I actually went hands-on with it at Gamescom . I was impressed how dense and interesting it all was. Read the full article on pushsquare.com
-
-### Feature: These 20 PS5, PS4 Exclusives Are Cheaper Than Ever on PS Store
-Thu, 22 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/features/these-20-ps5-ps4-exclusives-are-cheaper-than-ever-on-ps-store
-
-PS Studios games slash prices. As is always the case, the PS Store has a sale on right now — but it seems Sony has been feeling extra generous, as many of its first-party games are currently at their lowest ever prices. In the Planet of the Deals sale , running from now until 4th November 2026, a number of Sony-published titles are at their deepest discounts to date. Read the full article on pushsquare.com
-
-### Star Wars: Galactic Racer Doubles Online Party Size in First Major PS5 Update
-Thu, 22 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/star-wars-galactic-racer-doubles-online-party-size-in-first-major-ps5-update
-
-Even more friendly. Developer Fuse Games has pushed a new game update for Star Wars: Galactic Racer, and it makes a much-requested improvement to the game's online multiplayer. As promised a while ago, the studio has doubled the size of parties you can form with friends; with this new update installed, you're able to party up with groups of up to six players, rather than just three. Read the full article on pushsquare.com
-
-### PS5 Exclusive Marvel s Wolverine Is Sony s Biggest Launch Since Helldivers 2
-Thu, 22 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-exclusive-marvels-wolverine-is-sonys-biggest-launch-since-helldivers-2
-
-Gone berserk. Marvel's Wolverine has clearly done well for itself in terms of sales, with new data from PS Store charts as well as Circana painting a very positive picture. The recent superhero action title from Insomniac Games launched last month exclusively for PS5, and in terms of the PS Store, it was September's number one game in North America, coming in second place on the European chart. Read the full article on pushsquare.com
-
-### PS5 Beats Switch 2 in Strongest US Sales Month Since May 2025
-Thu, 22 Oct 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/10/ps5-beats-switch-2-in-strongest-us-sales-month-since-may-2025
-
-On the back of the blackout. Consumers responded to social media’s big PS5 blackout campaign by rewarding Sony with its best US dollar share of the hardware market since May 2025, as the price hiked console outsold the Switch 2 in units and dollar sales in September. Unit sales of the PS5 increased 22% year-over-year, while the Xbox Series X|S dropped another 27% and Switch 2 fell 14%. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### Opinion: Why words matter when we prioritize 'core teams' in game development
@@ -209,6 +209,41 @@ EA is reportedly laying off 400 employees, 50 of whom were the remaining staffer
 
 ## VGC
 
+### Podcast: Mass Effect 4 has been cancelled as EA closes BioWare
+Fri, 23 Oct 2026 15:26:27 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-mass-effect-4-has-been-cancelled-as-ea-closes-bioware/
+
+Plus: A Pokemon store is coming to London… Source
+
+### Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it s claimed
+Fri, 23 Oct 2026 15:26:11 +0000 — https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/
+
+Xbox is now said to be pursuing smaller deals… Source
+
+### Arkane has until November to find a buyer or face closure, it s claimed
+Fri, 23 Oct 2026 15:25:53 +0000 — https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/
+
+The studio's next game, Blade, was announced in 2023… Source
+
+### Fanatical Halloween bundle gives you Prey, Doom 1 2, and Evil Within 1 2 for $11.66
+Fri, 23 Oct 2026 13:16:55 +0000 — https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/
+
+Bethesda games headline Fanatical’s Build Your Own Frightmare Bundle… Source
+
+### Stupid Never Dies review: Capcom veterans resurrect the PS3 era with a quirky, off-beat action game
+Fri, 23 Oct 2026 12:56:02 +0000 — https://www.videogameschronicle.com/review/stupid-never-dies-review/
+
+While it won't break any doors down, what's here could be a cult classic in the making… Source
+
+### FF Resonance: Beat Citrine Pot enemies
+Fri, 23 Oct 2026 10:08:56 +0000 — https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/
+
+How to beat the Pot enemies quickly and easily in Final Fantasy Resonance… Source
+
+### Shigeru Miyamoto explains why AI won t make human creativity obsolete
+Fri, 23 Oct 2026 09:45:13 +0000 — https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/
+
+Mario and Zelda creator argues that rise of AI could make creators even more important… Source
+
 ### Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games
 Fri, 23 Oct 2026 09:15:07 +0000 — https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/
 
@@ -224,94 +259,99 @@ Fri, 23 Oct 2026 08:33:27 +0000 — https://www.videogameschronicle.com/news/thr
 
 Mole Mania, Avenging Spirit and Revenge of the ‘Gator are all available next week… Source
 
-### Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down
-Thu, 22 Oct 2026 18:45:56 +0000 — https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/
-
-A trailer for the cancelled Mass Effect 5 has now leaked online… Source
-
-### Atari is ending support for its 2021 VCS console, will release a Homebrew App to let players keep making and adding games
-Thu, 22 Oct 2026 15:25:46 +0000 — https://www.videogameschronicle.com/news/atari-is-ending-support-for-its-2021-vcs-console-will-release-a-homebrew-app-to-let-players-keep-making-and-adding-games/
-
-The stylish part console, part PC hybrid never really took off… Source
-
-### Beyond Good Evil 2 is still in pre-production after 18 years as its vision keeps changing, report claims
-Thu, 22 Oct 2026 14:46:04 +0000 — https://www.videogameschronicle.com/news/beyond-good-evil-2-is-still-in-pre-production-after-18-years-as-its-vision-keeps-changing-report-claims/
-
-Staff are reportedly concerned that Ubisoft may finally pull the plug one day… Source
-
-### Wolverine was US s best-selling game in September, with PS5 sales up 43%
-Thu, 22 Oct 2026 13:59:29 +0000 — https://www.videogameschronicle.com/news/wolverine-was-uss-best-selling-game-in-september-with-ps5-sales-up-43/
-
-Wolverine topped sales as PS5 revenue rose 43%, while Xbox fell to an all-time low… Source
-
-### Rockstar is quietly transforming the real Miami into GTA 6’s Vice City
-Thu, 22 Oct 2026 13:04:33 +0000 — https://www.videogameschronicle.com/news/rockstar-is-quietly-transforming-the-real-miami-into-gta-6s-vice-city/
-
-GTA 6’s in-universe branding, restaurants, cars, and more have been spotted around Miami… Source
-
-### Nintendo Switch Sports Resort: Archery Secret Target locations
-Thu, 22 Oct 2026 12:45:16 +0000 — https://www.videogameschronicle.com/guide/nintendo-switch-sports-resort-archery-secret-target-locations/
-
-Here’s how to hit all 12 Secret Targets in the Archery event in Switch Sports Resort… Source
-
-### DICE and Respawn are teaming up for Star Wars: Battlefront 3
-Thu, 22 Oct 2026 12:00:37 +0000 — https://www.videogameschronicle.com/news/dice-and-respawn-are-teaming-up-for-star-wars-battlefront-3/
-
-New report claims the two EA studios have been tasked with working on a new Battlefront… Source
-
 ## Polygon
 
-### 'Avatar: Seven Havens' Episode 9 Ending Explained: Everything We Learned About the Havens
-Fri, 23 Oct 2026 08:30:18 GMT — https://www.polygon.com/avatar-seven-havens-finally-revealed-more-info-about-the-other-havens/
+### Every Sport in Nintendo Switch Sports Resort, Ranked From Worst to Best
+Fri, 23 Oct 2026 15:00:20 GMT — https://www.polygon.com/nintgendo-switch-sports-resort-minigames-ranked/
 
-Yet that’s exactly what Chancellor Kayoko (Jennifer Sun Bell) does at the end of episode 6 when she sends out an emergency radio transmission: “This is Ellora calling any and all Havens,” she says. “We need you.”
+Nintendo Switch Sports Resort is out now, and it features a wealth of content to dig into. It features 12 main sports, and many of them come with different modes. Combine that with a smart approach to a single-player “campaign” and some lovely open-island exploration, and you’ve got the series’ best collection of motion-controlled minigames yet.
 
-### 5 'Solo Leveling' Characters Who Deserved So Much Better
-Fri, 23 Oct 2026 08:05:19 GMT — https://www.polygon.com/5-solo-leveling-characters-who-deserved-better-storylines/
+### Lord of the Rings Stars to Reunite for Netflix's The Gentlemen
+Fri, 23 Oct 2026 14:50:55 GMT — https://www.polygon.com/netflix-the-gentlemen-season-3-casting-lord-of-the-rings-orlando-bloom-elijah-wood/
 
-Jin-woo starts out as a weak E-Rank hunter trapped in a seemingly endless struggle to survive. Before long, though, he becomes an unstoppable force. His progression feels steady and earned, and his efforts to uncover the source of his abilities take him through a series of unforgettable fights.
+Production is now underway for the third season of Netflix's The Gentlemen , and with it comes a host of new casting announcements. Guy Ritchie's action-comedy-crime drama starring Theo James is adding a host of famous faces, including not one but two members of The Fellowship of the Ring .
 
-### 27 Years Later, Linus' Final 'Peanuts' Quote Is a Brilliant Comic Strip Callback
-Fri, 23 Oct 2026 08:00:19 GMT — https://www.polygon.com/linus-last-appearance-peanuts/
+### Genshin Impact version 7.2 livestream codes
+Fri, 23 Oct 2026 14:39:49 GMT — https://www.polygon.com/genshin-impact-version-7-2-livestream-codes-redeem/
 
-Charles Schulz's Peanuts , for whatever reason, has one of the more dedicated fan communities on the internet. The Peanuts Fandom wiki is an invaluable resource for anything you might want to know about the strip, from obscure characters to running jokes to the gang’s unofficial cameo appearances in later media like Family Guy . While Peanuts itself has been the subject of broad academic discussion since the end of its original run, its wiki has that dense block of exhaustive well-organized trivia that you only really get from dedicated fans. (They probably ought to get the Peanuts wiki off of Fandom at some point.)
+Hoyoverse just wrapped up the Genshin Impact version 7.2 preview livestream, showing off all sorts of details about the upcoming patch. Most importantly, there were several codes that award Primogems and other rewards shown during the stream. Our Genshin Impact 7.2 livestream code list provides you with the three stream codes for rewards and explains how to redeem them.
 
-### Anya Taylor-Joy’s breakout movie gave horror a different kind of female lead
-Fri, 23 Oct 2026 07:26:19 GMT — https://www.polygon.com/anya-taylor-joy-the-witch-free-streaming-october-2026/
+### What time are the Fortnitemares power hours in Fortnite Chapter 7 Season 4?
+Fri, 23 Oct 2026 14:16:10 GMT — https://www.polygon.com/fortnite-chapter-7-season-4-power-hours-what-time/
 
-Anya Taylor-Joy has established herself as one of her era's most versatile actors. At 30, she's built a career across film and television , appearing in franchises like Super Mario and Mad Max , along with winning a Golden Globe for her role in The Queen’s Gambit . Earlier this year, she starred in the Apple TV series Lucky and will also play a major role in the cinematic event that is Dune: Part Three . Taylor-Joy is one of the few modern stars who comfortably fit the movie-star label, and it all began with her career-defining breakout role, which turned the final girl trope on its head — a girl who survives not by fighting, but by giving in.
+Fortnitemares power hours are happening in Fortnite Chapter 7 Season 4 on Saturday, Oct. 24 . During this set of power hours, the drop rate for community-designed sprites will be increased, so if you still need those for your collection, you'll want to drop in during this event.
 
-### 8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New
-Thu, 22 Oct 2026 23:00:19 GMT — https://www.polygon.com/cyberpunk-2077-replay-ideas/
+### Mass Effect Spiritual Successor Officially Reveals Redesigned Protagonist
+Fri, 23 Oct 2026 14:05:22 GMT — https://www.polygon.com/exodus-sci-fi-rpg-mass-effect-protagonist-redesign-revealed/
 
-V is running out of time. That’s the premise of Cyberpunk 2077 : a stolen chip is slowly rewriting their mind. The only way out of this particular predicament ushers V through a cast of fixers, rock stars, and corporate killers who all want something from you. And yet, despite those bewildering stakes, there’s a decent chance you spent most of your time in the game clearing gigs, scanning NCPD crime scenes, and wandering Night City’s neon alleys. Then the credits rolled and, within moments, you were back at the character creator.
+When Exodus was first announced, it was positioned as a sprawling sci-fi RPG that could fill the void left by Mass Effect 's extended absence. This week, that became even more relevant following Electronic Arts' announcement that Mass Effect developer BioWare was being shut down and the next game in the series was canceled.
 
-### 'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For
-Thu, 22 Oct 2026 22:19:07 GMT — https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/
+### 5 Sci-Fi Books That Are A Masterclass In Prose Writing
+Fri, 23 Oct 2026 14:00:19 GMT — https://www.polygon.com/sci-fi-books-masterclass-prose/
 
-If fans were already sad about BioWare closing down , they're shattered after watching the leaked trailer for Mass Effect Universe . Sure, the trailer was short and a little cheesy — but it could have also signaled a return to form for the stagnant franchise. And at the heart of every good Mass Effect game is a crew of characters that you get to know as the adventure unfolds.
+Although most good sci-fi books boast well-written prose, some stand out for several reasons. Take Time of Changes by Robert Silverberg, which is set in a world that forbids expressions of individuality, leading to a narrator who deliberately rebels by using terms like “I” or “me” repeatedly. Conversely, some books simply feature beautiful prose without any narrative gimmicks, elevating them to must-reads. Without further ado, here are five sci-fi books that are a masterclass in prose.
 
-### Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip
-Thu, 22 Oct 2026 21:16:28 GMT — https://www.polygon.com/valve-half-life-3-hlx/
+### Which chapter should you choose first in DMZ in Modern Warfare 4?
+Fri, 23 Oct 2026 13:49:33 GMT — https://www.polygon.com/mw4-modern-warfare-4-dmz-chapters-which-first/
 
-It's been two decades since we last checked in on Gordon Freeman in Half-Life 2: Episode Two , with the promise of a third Half-Life game languishing for an absurdly long time. In the intervening years, Valve has neither confirmed nor denied a third mainline Half-Life game, though the secretive studio is rumored to have canceled at least one attempt to make Half-Life 3 . Surprisingly, there's fresh evidence of a new Half-Life game directly from Valve, though the person revealing that information seemingly didn't intend to.
+Once you've completed the tutorial and the first page of orders, you'll be asked to choose one of three DMZ chapters in Call of Duty: Modern Warfare 4 . The game tells you that the ones you don't choose will be available to you later on, so you're not locked out of them entirely, but it does mean you should prioritize the chapter that will offer you the best rewards.
 
-### 'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe
-Thu, 22 Oct 2026 21:00:19 GMT — https://www.polygon.com/clayface-joker-easter-eggs/
+### How to get and use fulton drop markers in DMZ in Modern Warfare 4
+Fri, 23 Oct 2026 13:33:33 GMT — https://www.polygon.com/mw4-modern-warfare-4-dmz-fulton-drop-markers-how-to-use/
 
-Back in the summer of 2025, Clayface was filming in Liverpool. Photos from the set revealed a reference to another, far more famous Batman villain. One featured a wall with graffiti on it, and among the different tags was one that read “The Jokers.” That led to some speculation about Joker’s presence in the DC Universe ’s Gotham.
+Fulton drop markers in Call of Duty: Modern Warfare 4's DMZ mode are essentially portable exfil points. They're categorized as ultra loot though, which is the rarest tier in the game, making them extremely hard to get your hands on. Some players have them early, however, thanks to the deluxe edition of the game granting them via a survival starter kit.
 
-### Everything We Know About the PS6, Sony’s Next-Gen Console
-Thu, 22 Oct 2026 20:12:31 GMT — https://www.polygon.com/ps6-playstation-6-release-date-price/
+### How to place a transmitter on top of two radio towers in DMZ in Modern Warfare 4
+Fri, 23 Oct 2026 13:12:41 GMT — https://www.polygon.com/mw4-modern-warfare-4-dmz-transmitter-radio-towers/
 
-If it doesn’t feel like it’s time to start thinking about the PlayStation 6 yet, it’s because lengthening game development times have slowed the pace of new releases for PS5, because initial take-up of the console was slowed by supply issues, and because the COVID-19 pandemic distorted everyone’s sense of time. But the time is upon us all the same.
+One early Call of Duty: Modern Warfare 4 DMZ mission asks you to place a transmitter on top of two radio towers , for the "Triangulation" order during the first part of the "Underground" chapter. This is as far from underground as you can get though, because you need to scale two radio towers to complete this objective.
 
-### Everything We Know About Project Helix, the Next Xbox
-Thu, 22 Oct 2026 20:12:23 GMT — https://www.polygon.com/next-xbox-console-release-date-price-project-helix/
+### 6 Best Upcoming Steam Games Worth Adding to Your Wishlist
+Fri, 23 Oct 2026 13:00:19 GMT — https://www.polygon.com/steam-wishlister-oct-23/
 
-The results have been chaotic: a leadership change, mass layoffs, the closure and divestment of several studios. Console exclusivity for first-party was seemingly abandoned, but is now (partially) back on the menu. Game Pass is in flux, with multiple changes in bundling and pricing strategy, and more on the way. Microsoft has finally solved the drought of first-party games that plagued it during the Xbox One era and the first years of the Xbox Series — but, ironically, it seems to have nowhere useful to put all those games.
+While the world is waiting for Grand Theft Auto 6 with bated breath, indie developers are using October as a good excuse to highlight their upcoming games while there’s still air in the room. We highlighted games from the Triple-i Initiative showcase in last week’s Wishlister , but this week, we’re backing up to bring you some gems from LudoNarraCon.
 
 ## PC Gamer
+
+### In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice
+Fri, 23 Oct 2026 14:55:41 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/
+
+Writing (and reading) about PC hardware news at the moment can be downright depressing. Massive price rises. AI everywhere. Disappearing graphics cards . It's just a bit much, you know? So come and bask in something deliciously old school with me: the release of a good-looking new product you might be able to buy without selling a kidney. Philips says its new 36M4C5500P display is the world's first 36-inch gaming monitor with a 260 Hz refresh rate . Lovely. This ultrawide's got a curved, 1500R VA panel. Oooooh. A 3440 x 1440 resolution. Ahhhh. And an overclockable refresh rate that makes sense for casual and competitive gamers alike. Stone the crows and call the fire department, it actually looks pretty decent. Sure, VA panel tech is nothing fancy. And many a curved ultrawide has passed the doors of PC Gamer Towers over the past few years. But a 36-inch panel size is something interesting, filling the gap between your standard 34-inch ultrawides and the more desk-dominating, 39-inch-and-up models. The specs aren't exactly earth-shattering , but I'm hoping they might push it towards the more affordable end of the market. It's got Display HDR400 certification, dual HDMI 2.1 and DisplayPort 1.4 connectivity, and a tilting stand. Everything you might reasonably need. There's no word on pricing yet, but I've got my fingers crossed. (Image credit: Philips Evnia) I even thought we'd make it through the press release without a mention of AI, but no, this display has "AI-enhanced gami
+
+### LG UltraGear Evo 52G930B Evo gaming monitor review
+Fri, 23 Oct 2026 14:31:50 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/
+
+Can you have too much of a mediocre thing? If I was being unkind, that's the challenge I'd make to the new LG UltraGear Evo 52G930B . What we are talking about here, people, is a monumental 52-inch 5K2K gaming monitor. But it's based on an old-school VA panel. Yep, not OLED. Not IPS. It doesn't even have mini-LED local dimming. It's just a huge, high-res, VA panel. At 52 inches, it's so big and so expensive it immediately poses another problem. Why wouldn't you just buy a 4K TV? After all, this LG clocks in at $1,699 or £1,499, which buys you an awful lot of 4K TV here in late 2026. That kind of money puts you in reach of OLED TVs up to around 65 inches. And, like I said, the LG UltraGear Evo 52G930B isn't actually that well specced save for its size and resolution. LG UltraGear Evo 52G930B specs Screen size 52-inch Resolution 5,120 x 2,160 Brightness 400 nits SDR, 600 nits HDR Response time 1 ms Refresh rate 240 Hz HDR DisplayHDR 600 (no local dimming) Features VA panel, 2x HDMI 2.1, DisplayPort 2.1, USB-C with 90 W PD, USB hub, 3.5mm audio Price $1,699 | £1,499 Buy if... ✅ You want the ultimate in big-screen immersion: 52 inches in an ultrawide format, plus 5K2K resolution, makes for a genuinely cinematic experience. Do not buy if... ❌ You're expecting OLED speed and contrast: This LG has an old-school VA panel and the response and lighting control is miles behind OLED. There is a counter argument in favour of this huge 52-inch ultrawide beast, and it goes something like th
+
+### Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain
+Fri, 23 Oct 2026 13:36:34 +0000 — https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/
+
+According to hardware outlet ChannelGate , the wholesale spot prices of several RTX 50-series graphics cards are on the rise once again in China, which is an ominous indicator for consumer pricing worldwide. The 16 GB RTX 5080 is said to have increased by around 2000 CNY, which equates to around $300, while the RTX 5070 Ti has seen an increase of around 600 CNY ($90). In the RTX 5080's case, that puts the current wholesale spot price at around 14,500-15,000 yuan, which equates to a truly stunning $2,171-$2,246 range when converted to US dollars. Retail graphics card pricing has already gone bananas in recent months, with US prices surging to hitherto unthinkable levels. The cheapest RTX 5080 we can currently find is a wallet-aching $1,850 , while a mere $70 separates the RTX 5050, RTX 5060, and RTX 5060 Ti 8 GB on our GPU deals page. Yes, that means the cheapest RTX 5050 we can currently find is $400 . That's a silly price for Nvidia's slowest gaming GPU of the current generation. While the 16 GB RTX 5080 has seen the largest jump in price so far (exacerbated by its reported discontinuation in favour of a 24 GB version ), ChannelGate also says that Asus has just updated its pricing policy across the stack . (Image credit: Future) This amounts to a 1000 yuan ($150) increase for the RTX 5080 16 GB, a 200 yuan ($30) increase for the RTX 5070 Ti, RTX 5070, and RTX 5060 Ti 16 GB, and a 100-300 yuan increase for all AMD cards. While some of those increases may seem small, they're a
+
+### Vote now: The Mammoth Tank and Priest go head-to-head to determine the best RTS unit of all time
+Fri, 23 Oct 2026 13:16:54 +0000 — https://www.pcgamer.com/games/rts/vote-now-the-mammoth-tank-and-priest-go-head-to-head-to-determine-the-best-rts-unit-of-all-time/
+
+Our month-long RTS tournament is coming to an end. We started with a shortlist of 16 units , and now we're down to the final two—both of which were determined by your votes. This is what democracy is all about, folks! Determining what RTS unit has the right to call itself the greatest unit of all time. It's been an emotional journey. Dreams shattered. Friendships ruined. Drug tests performed on a member of the clergy. But this is important, worthwhile work. But let's stop faffing around and get stuck in. The final bracket (Image credit: BracketHQ) Well, it looks like my prediction from last week did not come to pass. A tragedy! (Image credit: Future) With the humble Peon failing to return from the dead, I was left with only one of my original picks in the running: the unstoppable Pride of Hiigara from Homeworld 2. As it turns out, it's actually quite stoppable. The indomitable Mammoth Tank from Red Alert gave it a beating, winning with 60% of the votes. I will gracefully accept this defeat. I mean c'mon, the Mammoth Tank is a legend. Could it realistically destroy a mothership that can spit out a fleet of capital ships? Probably not! But this tournament is not determining which unit would win in a fight. "The best" can mean a lot of different things, and there's no denying the Mammoth Tank is awesome. I do, however, take umbrage with the Priest defeating the Super Star Destroyer. 70% of the votes! This is madness. That wololo-ing thief has no honour. But even though this outc
+
+### All Genshin Impact 7.2 livestream codes
+Fri, 23 Oct 2026 12:04:33 +0000 — https://www.pcgamer.com/games/rpg/genshin-impact-codes-7-2-livestream/
+
+The Genshin Impact 7.2 livestream codes have arrived, providing a bit of bonus currency to use when wishing on the new characters coming in this version. For those who don't know, Hoyoverse runs a livestream every six weeks for its games, showing off the new content coming with the update, but as an added sweetener, it also provides three livestream codes. Banner wise it looks like we have electro character, Mitya, and also electro, Valeriy. As usual, I'll put the codes down below as they drop during the stream. Make sure to redeem them asap, since livestream codes usually expire within a day or so. Genshin Impact codes: All current livestream Primogems HourOfRuin - 100 Primogems and 10 Mystic Enhancement Ore ExpertMitya - 100 Primogems and five Hero’s Wit PhotoTime - 100 Primogems and 50,000 Mora How to redeem Genshin Impact codes You'll need to reach Adventure Rank 10 to redeem your Genshin livestream codes, but this is relatively easy to achieve if you've just started playing. Once done, there are two methods to claim your codes. The first is through the game: Launch Genshin Impact Open the in-game menu Select Settings and then Account Click Redeem Now and paste a code into the box Claim your Primogems from the in-game mailbox Or you can redeem codes online through the redemption website: Navigate to the Genshin Impact code redemption website Enter your info and select character region Place a code in the box and click redeem Grab your rewards via the in-game mailbox 2026 
+
+### Stolen RTX 5090 from Brazilian airport forklift heist reportedly turns up on second hand market for $6,400, but the rest remain AWOL
+Fri, 23 Oct 2026 10:42:31 +0000 — https://www.pcgamer.com/hardware/graphics-cards/stolen-rtx-5090-from-brazilian-airport-forklift-heist-reportedly-turns-up-on-second-hand-market-for-usd6-400-but-the-rest-remain-awol/
+
+I reported on a missing shipment of RTX 5090s earlier this week, with two pallets worth of the highly-prized graphics cards presumably stolen from a Brazilian airport. Now new details of what looks to be a heist have emerged, and one of the GPUs has reportedly ended up on a second-hand marketplace. GMC Online reports that Brazilian news channel Jornal da Band spotted the graphics card for sale on OLX, an online marketplace for used wares. The serial number of the card is said to match one of the missing units, with the price set at R$32,000, equivalent to around $6,400 (via Videocardz ). The broadcaster has revealed new information on the missing cards, said to be obtained from a Brazilian police report. According to the outlet, two outsourced forklift operators removed the pallets from an airport warehouse on September 21, while a third employee allegedly helped to move them through electronic security controls. The shipment of GPUs belongs to Brazilian electronics distributer Oderço. The CEO of the Oderço Group, Oderço Matos, has previously spoken on the company's Instagram account about the missing GPUs, calling for more clarification from the authorities as to what exactly happened to the company's cargo. GMC Online reports that Guarulhos International Airport has responded to the outlet, confirming that it had notified the authorities of the incident and is now in contact with the importer's representative. (Image credit: Future) Representatives from the airport say the 
+
+### I've tested every graphics setting in Call of Duty: Modern Warfare 4—tweak these four options for the best performance
+Fri, 23 Oct 2026 10:29:20 +0000 — https://www.pcgamer.com/games/call-of-duty/ive-tested-every-graphics-setting-in-call-of-duty-modern-warfare-4-tweak-these-four-options-for-the-best-performance/
+
+I'm not usually one for all these fancy graphics; give me more frames, at all costs. But when I booted up Call of Duty: Modern Warfare 4 , I have to admit, I was a little reluctant to sacrifice too much in the visual department. Because the game is, indeed, gorgeous despite being a little glitchy with texture pop-ins and flickering in DMZ mode. A more tailored approach was needed. So, I set about testing every single graphics setting in the game, one by one, to see which ones have the biggest impact, and I found there are four main settings to tweak. First things first, though, if you just want to get up and going and you're using a mid-range PC, whack it on the Balanced preset, and you'll be fine. If you're using a high-end rig, then you should be fine setting it to the Ultra preset. Note: All performance figures were calculated by doing the same 30-second run in-game, on Mission 4 of the campaign. I kept all movements and actions as similar as possible in each run I performed. Preset performance comparison Comparing game performance at different graphical presets at 1440p, using an RX 9070 XT, Ryzen 7 7800X3D, and 32 GB of DDR5 RAM. Call of Duty: Modern Warfare 4 Avg fps 1% low fps Minimum preset 146 119 Basic preset 137 114 Balanced preset 133 109 Ultra preset 107 85 Extreme preset 97 75 0 37.5 75 112.5 150 Call of Duty: Modern Warfare 4 Data Product Value Minimum preset 146 Avg fps, 119 1% low fps Basic preset 137 Avg fps, 114 1% low fps Balanced preset 133 Avg fps, 109 1
+
+### Asus ROG Rapture GT-BN98 router review
+Fri, 23 Oct 2026 09:53:57 +0000 — https://www.pcgamer.com/hardware/networking/asus-rog-rapture-gt-bn98-review/
+
+We’re not surprised that Asus has delivered the first Wi-Fi 8 router. The company has been ruling the router roost recently and notably broke the 3,000 Mbps transfer-rate barrier with its AI-enhanced, ROG Rapture GT-BE19000AI Wi-Fi 7 gaming router. That’s old hat now that its functionally-identical Wi-Fi 8 sibling, the Asus ROG Rapture GT-BN98 Pro , is here. Or is it? Wi-Fi 8 (also known as 802.11bn) is expected to be officially ratified in late 2028. By the time you read this, at least four routers will have hit the market, but no laptops (or other devices) are in sight. But, that shouldn’t matter. We've spent some time in the last year testing top-tier Wi-Fi 7 set-ups, and seeing they can be faster than some 10 Gbps wired connections, so why do we need another Wi-Fi generation? However, unlike previous generations, Wi-Fi 8 isn’t about delivering more speed, it’s about delivering a more-reliable signal (including more-robust uploading), to new and old devices alike, in crowded Wi-Fi environments, over greater distances, in real-world environments. GT-BN98 Specs Network standard WiFi 8 (802.11bn) (Draft) Speed Wi-Fi 24.43 Mbps Operating frequency 2.4 GHz, 5 GHz, 6 GHz Connectivity 1× 10 Gbps WAN/LAN, 1× 2.5 Gbps WAN/LAN, 1× 10 Gbps LAN, 3× 2.5 Gbps LAN, USB 3.2 Gen 1, USB 2.0 Features Quad-Core CPU w/ NPU, parental controls, edge security controls, game acceleration, Docker, Portainer, AiQoS, multi-SSID, Alexa and Google voice assistants Dimensions 350.41 x 350.41 x 220.6 mm 
 
 ### A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches
 Fri, 23 Oct 2026 09:26:40 +0000 — https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/
@@ -333,47 +373,32 @@ Thu, 22 Oct 2026 21:39:30 +0000 — https://www.pcgamer.com/software/ai/epic-ann
 
 Unreal Engine maker Epic Games is running a game jam in November with thousands of dollars in prizes up for grabs. Contrary to so many art contests which ban the use of AI, participants in Epic's event are highly encouraged to use AI. The theme of the 2026 Epic AI MegaJam will be revealed on November 11, and participating individuals and teams will then have from November 12–15 to produce their games with the help of AI tools. Some will work in-person at a San Francisco event space, and there will be daily livestreams with progress updates. The winners in three categories will each receive $7,500, with smaller cash prizes for second and third place winners, as well as additional categories like "best team." Also on the table are "Development Continuation Grants of up to $50,000 per team." Epic extended the invitation with a reference to The Matrix's 'red pill' scene, presenting red-pilled AI-driven development as an opportunity to "ship awesome games in a weekend," while old-fashioned blue-pilled development would have you "wait months to prototype." The hand offering the red pill features an extra finger, a reference to the common mistake made by AI image generators. The choice follows a recent pattern from Epic of aloofness and defiance directed at AI critics. Last week, the company referred to its new Epic Games Store launcher as "vibe coded," sending the message that it's not ashamed to rely heavily on AI for software development. Vibe your way to 50K. The 2026 Epic AI Me
 
-### Canadian politician calls on government to help BioWare employees buy the studio and run it themselves
-Thu, 22 Oct 2026 21:26:29 +0000 — https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/
-
-The closure of BioWare is a tremendous loss, not just for gamers but for Canada: The Edmonton-based studio was named one of the country's best places to work multiple times over the years, even after the Electronic Arts acquisition that ultimately spelled its doom. It's not entirely surprising, then, that its shutdown caught the attention of one of the country's top politicians, who had some harsh words for Electronic Arts about it. "This is private equity, this is what it does. Buy up businesses, run them into the ground, and rip them apart for short-term profit," Avi Lewis, leader of the New Democratic Party—traditionally Canada's third-largest political party, although it's run aground a bit over the past several years—wrote on social media. "The developers at BioWare know how to run the studio. They know how to make the games we all love. They should be given the first opportunity—and the federal support—to buy it and run it themselves. And if we want to avoid the Mass Effect effect in Canada, we should be keeping private equity out, not welcoming it in." The NDP are a center-left party, although the ol' Overton window has resulted in a more centrist style in recent years—a drift Lewis was elected specifically to correct. He's been fairly forceful on that front, speaking out in support of anti-fascist causes and calling for the nationalization of vital industries in Canada that have been swallowed up by larger international interests. Predictably, that led some of his fol
-
-### Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud
-Thu, 22 Oct 2026 20:16:39 +0000 — https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/
-
-Get ready to start talking about Half-Life 3 again, folks, because it's that time of year: Winter is closing in, The Game Awards are coming, and somebody at Valve said "HLX." HLX, for those who haven't been following along, is a rumored codename for Half-Life 3, or Half-Life something, the near-mythical new Half-Life game that Valve may or may not be working on. It first appeared in early 2024 as part of a data string inside a Counter-Strike 2 update that bore a very strong resemblance to "HLVR," Valve's codename for Half-Life: Alyx—a revelation that had PC Gamer contributor Rick Lane "vibrating with excitement." Sadly for Rick, nothing came of it: No new Half-Life game, 3 or otherwise, followed, and HLX was filed away with all the other myriad Half-Life 3 rumors, hoaxes, and leaks . That is, until Valve composer and audio artist Mike Morasky brought it up completely out of the blue during a GameSoundCon panel on "Valve's Approach to an Open and Flexible Audio Engine." In response to a question about managing voice counts—essentially the maximum number of sounds that can play simultaneously—Morasky touched on some of the variables involved, before mentioning the role played by Valve's HDR system in optimizing audio. "Deadlock has their own version of HDR," Morasky says. "HLX has its own version, and so on and so forth." We have the first mention of HLX by a Valve employee.HLX files today. I'm working as quickly as I can. https://t.co/LhFBNOP1CU October 22, 2026 Adding fuel to
-
-### How to dual wield in Cyberpunk 2077
-Thu, 22 Oct 2026 19:35:48 +0000 — https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/
-
-(Image credit: CD Projekt) You can now dual wield certain weapons in Cyberpunk 2077 thanks to its Edgerunners 2.5 patch, though sadly it's limited to revolvers and pistols from the power category, which you can either use dual-wielded, or mix and match if you want to have multiple iconics at once. First, though, you need to unlock the Double Trouble perk in the Cool tree at 9. There are also four subsidiary perks, which improve your dual-wielding proficiency. There are a few important things to remember: Dual-wielded iconics will retain their abilities and effects. Dual wielding two weapons will make them weaker, though this is somewhat mitigated via Double Trouble's other perks. Either way, using two iconic power pistols and revolvers adds a lot of potential in terms of comboing effects and running and gunning your way through Night City's mean streets 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### How to get King's outfit in Cyberpunk 2077
-Thu, 22 Oct 2026 19:32:18 +0000 — https://www.pcgamer.com/games/rpg/cyberpunk-2077-king-outfit-clampdown-edgerunners/
-
-You'll get a message from Wakako with the quest after you complete The Heist and do two gigs for her CD Projekt Speak to King at BuryGer and accept the job CD Projekt Enter the prison CD Projekt When directed, head to the bathroom and interact with the duffel bag CD Projekt Coronation is the name of King's iconic Tech Revolver CD Projekt Though perhaps not the most memorable of Edgerunners 2's characters, Weak Kingsley, or "The King" has the best drip, including his spectacles and crown-emblazoned coat. No wonder, then, that Cyberpunk 2077 added the new Clampdown quest that lets you get his outfit and gigantic hand cannon in the Edgerunners 2.5 update, similar to how it did for David's jacket and Rebecca's Shotgun for season one. To complete this quest, you need to: Complete The Heist, two gigs for Wakako, and then wait for her message, starting the Clampdown quest. Read the message, head to the meeting at BuryGer diner and speak to King, accepting the job. Go to the prison. When directed, head to the bathroom and interact with the duffle bag under the bench. The quest will continue, but you'll have King's iconic Coronation Tech Revolver, plus his full outfit, including the glasses. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
-
-### Future Capcom games will have Onimusha to thank for RE Engine's gnarly dismemberments
-Thu, 22 Oct 2026 19:18:23 +0000 — https://www.pcgamer.com/games/action/future-capcom-games-will-have-onimusha-to-thank-for-re-engines-gnarly-dismemberments/
-
-Onimusha: Way of the Sword has received universal praise for its combat animations, which somehow manage to look natural and fluid no matter what angle or direction hero Miyamoto Musashi has to swing his sword to parry an incoming blow. In a post-launch interview, I asked Capcom how—beyond doing a ton of work across Onimusha's lengthy development—they managed to raise the bar for this sort of action game. "Starting the project six years ago, we felt it was important to have that detail to sell the power and the excitement of the action, so it's something we really focused on," said director Satoru Nihei. "Even at that starting point, we knew it was something that Capcom, as a company, have as a great strength: We have a lot of assets and tech available to us that allow us to create these varieties of actions. That's something we really felt we could leverage to make the game really stand out that a lot of other places can't really copy. On top of producing a lot of animations and motion capture, we have to give a lot of credit to the programmers for taking that data and putting it in a form that we can have them make these very smooth transitions, with these physics-based calculations, to go from one animation to another. It was a big team effort in getting the animations to look how they do." PC Gamer actually got a behind-the-scenes look at that process when we traveled to Osaka this summer to see Onimusha: Way of the Sword wrapping up development. The effort put into Onimu
-
-### 'No other studio in the world did it better' than BioWare at its peak, says former Dragon Age lead writer David Gaider
-Thu, 22 Oct 2026 17:57:26 +0000 — https://www.pcgamer.com/games/dragon-age/no-other-studio-in-the-world-did-it-better-than-bioware-at-its-peak-says-former-dragon-age-lead-writer-david-gaider/
-
-After EA's announcement this week, PC Gamer reached out to BioWare veteran David Gaider to ask for his reflection on the closure and his memories of the studio. Gaider joined BioWare in 1999 to work on Baldur's Gate 2: Shadows of Amn and went on to be lead writer on the early Dragon Age games, leaving BioWare in 2016 and co-founding Summerfall Studios in 2019. Gaider on BioWare (Image credit: BioWare) The loss of a legacy hurts ]]>
-
-### Splash Damage acquired this studio just 3 months after laying off a bunch of people—now it's laying them off, too
-Thu, 22 Oct 2026 17:34:04 +0000 — https://www.pcgamer.com/gaming-industry/splash-damage-acquired-this-studio-just-3-months-after-laying-off-a-bunch-of-people-now-its-laying-them-off-too/
-
-The closure of BioWare and layoff of roughly 400 people at Electronic Arts is being rightly excoriated as an example of the corrosive effects of capital on pretty much everything good. But that same sort of thing happens, maybe more often than we'd like to think, on smaller scales, too. Case in point: Gamepires, creator of open-world survival game Scum , which announced last week that it's putting people out of work. The bad news came via an unattributed message posted on X : "A difficult decision has been made to reduce the size of the Gamepires team, which means saying goodbye to colleagues who've helped shape Scum and the studio. This step is necessary to help Gamepires adapt to challenging market conditions and long-term sustainability." (Image credit: Gamepires) It's all very bloodless and generic—the sort of statement that could've come from just about any game studio making layoffs over the past six months or so. What makes this particular case feel so egregious, though, is that Gamepires was acquired by Splash Damage Group , in a deal backed by Emona Capital, just eight months ago. And that acquisition was made just three months after Splash Damage made major layoffs of its own, so it could "remain agile and adaptable in what has been a very challenging market." And those layoffs came just two months after Splash Damage was acquired by then-unnamed private equity investors . Splash Damage hasn't released a game since Gears Tactics in 2020: Its planned next big thing, 
-
-### Someone leaked a Mass Effect 5 trailer and now I feel even worse, because it looks really good
-Thu, 22 Oct 2026 16:56:08 +0000 — https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/
-
-The day after the closure of BioWare and cancellation of the next Mass Effect game, a purported trailer for Mass Effect: Universe has surfaced on Reddit. The authenticity of the trailer is unknown at this point, but at the very least it sure looks legit. Straight to it, here's the video: Mass Effect: Universe Trailer from r/masseffect Man, that looks like Mass Effect—and sounds like it, too. The music is right, and at least two PC Gamer employees are pretty sure that's Liara's actual voice. Shepard's out, but the new guy seems suitably Shepard-like, although I can't help but notice the absence of the N7 logo on his uniform. Maybe the new guy was meant to be a rawer, rougher kind of troubleshooter—more of a housecleaner than a world-saver—or perhaps the ascent to the rank was meant to be part of the character's progression, which would've been cool. There are no obvious AI telltales here, at least none that I can see, and adding to the trailer's "real deal" potential, a redditor claiming to be an EA employee said yesterday that a trailer for the new game had been produced and suggested that it was not as early in the development process as was widely believed. Not long after the trailer came to light, Jason Schreier of Bloomberg said on Bluesky that it is indeed real, and that BioWare had been working on the game until its closure. Whatever the case—and we're still working on verifying its provenance—the trailer is also just the right blend of sexy, violent, and corny: Even if
-
 ## GameSpot
+
+### Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies
+Fri, 23 Oct 2026 14:35:44 +0000 — https://www.gamespot.com/articles/xbox-wanted-a-gargantuan-paycheck-to-partner-with-netflix-on-tv-and-movies/
+
+Video game adaptations are all the rage right now, with movie and TV projects in various stages of development, and Netflix is looking to strike while the proverbial IP iron is hot. The streaming giant already has a deal in place with Microsoft to develop a Gears of War movie , and it's looking to grab more Xbox IP to build new franchises. The only problem? Microsoft's price tag was reportedly quite a bit more than Netflix was willing to pay. That's according to entertainment journalist Matthew Belloni, who wrote in a Puck News report that Netflix had offered Microsoft $500 million for seven years to exclusively license Xbox titles for film and TV. Xbox CEO Asha Sharma and the brand's business affairs team countered by demanding $800 million, prompting Netflix to rescind the offer. https://www.youtube.com/watch?v=zzqGbNaOROA While Netflix has declined to comment on the report, Xbox told Belloni it had received "record-breaking interest" in its IP and still values Netflix as a partner on upcoming projects. Belloni added that Xbox is now "pursuing smaller deals with more partners," like the Diablo animated series under development at Netflix, another season of Fallout at Prime Video, the Call of Duty movie at Paramount, and a sequel to A Minecraft Movie at Warner Bros. Pictures. Xbox is also expanding its multimedia ambitions; earlier this month, it announced Xbox XP . This new arm of the company, devoted to movies, TV, merchandise, theme parks, and live events, will be headed 
+
+### Cancelling Mass Effect And Closing BioWare Was An Obvious Thing For EA To Do, Experts Say
+Fri, 23 Oct 2026 14:33:45 +0000 — https://www.gamespot.com/articles/cancelling-mass-effect-and-closing-bioware-was-an-obvious-thing-for-ea-to-do-experts-say/
+
+Electronic Arts just confirmed a major shakeup that included the closure of BioWare and cancellation of its upcoming Mass Effect game. Closing the studio and cancelling the project was a horrible thing for the people who worked there and fans who enjoy BioWare games and were looking forward to the next Mass Effect . But taking that action was no surprise whatsoever from a business sense. Video game analyst Joost Van Dreunen told IGN that EA needed to make drastic cuts to service the $18 billion in debt that it has taken on due to the leveraged structure of its sale to Saudi Arabia's PIF, Silver Lake, and Affinity. Interest payments alone on that debt are about $1.8 billion annually, which exceeds how much money EA makes in annual EBITDA ($1.5 billion). Van Dreunen said BioWare getting shut down was "entirely predictable and precisely what a leveraged buyout looks like once the deal closes." "In that context, a 50-person team working on a game that is years from launch is the easiest line to cut, regardless of its legacy,” van Dreunen said. Piers Harding-Rolls of Ampere Analysis, meanwhile, said the closure of BioWare is "emotive" for people who loved BioWare and its 30-year legacy of making popular and well-liked RPGs, but the math just didn't math. Dragon Age: The Veilguard failed to meet sales expectations , and Mass Effect: Andromeda and Anthem were commercial disappointments, too. This contributed to an environment where EA management would look to kill the studio outrigh
+
+### Control Resonant s Unsettling Board Dialogue Is Carefully Crafted Gibberish
+Fri, 23 Oct 2026 13:30:35 +0000 — https://www.gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish/
+
+Just what is The Board in Control Resonant ? While we still have plenty of questions about the otherworldly entity that accompanies players on their trip across Manhattan, one thing we do know is that it's loud, incomprehensible, and you can't understand what it's saying without subtitles. Some players are convinced The Board is saying something specific if you listen closely, but according to developer Remedy Entertainment, it's a little audio trick that makes you hear what you want to hear. In an upcoming interview with GameSpot, audio lead Lucas Pierrot explained that The Board speaks "gibberish," making the character open to interpretation. https://www.youtube.com/watch?v=f1LEHPr8e_o "An important part of the design is that The Board is basically gibberish, not affiliated to any language," Pierrot said. "So, when you hear a word, you tend to hear what you want to hear … and that’s pretty neat in terms of audio design, as players can fulfill their fantasies. You want to hear The Board praising you for performing an Execution? You can! Maybe you hear them saying 'Absolute cinema, Combo!' et cetera, but if you prefer to think they’re arrogant and only feel disdain for slaying a weak enemy … you can hear that too!" Pierrot explained that The Board has a partial language in place, so players can perceive a sense of intelligence from it. That structure allows The Board to feel "scary, unsettling, or even funny sometimes," and the one rule governing its audio design is "the puls
+
+### Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4
+Fri, 23 Oct 2026 13:05:52 +0000 — https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4/
+
+When a big new first-party game comes to Xbox, Microsoft is known to put up big, annoying takeover ads, and that trend continues this year with the launch of Call of Duty: Modern Warfare 4. Things are a little different, and more annoying, this year. People who booted up their Xbox today, the day of MW4's release, noticed that not only is there a big MW4 takeover ad, but the ad even hijacks your custom background. Windows Central was the first to report on this. It is possible to toggle this off, thankfully, as people online quickly discovered . Players can head to Settings > General > Personalization > My Background , then uncheck "Show event-themed backgrounds." People were not happy about this, and particularly how the takeover this time totally removes the custom background you might have had to force you to see a giant ad for a game you might not even be interested in. https://twitter.com/CockneyCharmer/status/2113500029222527214 https://twitter.com/JamesHalliday94/status/2113491521018409219 Ads on Xbox are only going to become more widespread from here. Right now, people on Xbox can test a free, ad-supported version of Xbox Cloud Gaming , and a lot of people think that's very gross. Xbox's new chief strategy officer, Matthew Ball, is a big believer in cramming more ads into gaming to help with the "two-sided problem" of modern gaming. Development costs for many games are now “way too high,” and consumers do not want to pay more, Ball said. Something has got to give, and
+
+### Final Fantasy Resonance Lets You Take A Five-Minute Single Turn, And It s Glorious
+Fri, 23 Oct 2026 11:38:04 +0000 — https://www.gamespot.com/articles/final-fantasy-resonance-lets-you-take-a-five-minute-single-turn-and-its-glorious/
+
+As if there weren't enough games in October to tempt you, Final Fantasy Resonance is a pretty tempting offer for anyone looking to play an old-school JRPG that features an A-team of Final Fantasy guest characters. It also puts its own twist on Square Enix's HD-2D gameplay formula, as you can break past the barriers of traditional turn-based combat and take down even the spongiest of enemies--if you know how to properly set up all the moves you'll do. Play your cards right, and you can leave your team to dish out some tremendous damage for several minutes while you go brew yourself a fresh cup of coffee. So what's happening here? To be fair, this is some real high-level gameplay, as GameSpot's video producer Max Blumenthal pushes gameplay mechanics like Visions, multi-action stacking, and ability carry-over skills to their absolute limits. Instead of relying on basic, single-command inputs, you've got hyper-optimized builds that allow a player to chain together a seemingly endless loop of actions, follow-ups, and staggered states on an enemy. https://youtu.be/Zp8zyWrVUTY This is all thanks to the ability for the main characters to inherit and carry over abilities learned from different Visions, stacking multiple low-cost learned skills on a single character, triggering automatic follow-up attacks and status procs, delaying enemy turns, and utilizing heavy-hitting signature Resonance attacks to make the most of staggered states on enemies. In a nutshell, a lot is at play here, 
 
 ### After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look
 Thu, 22 Oct 2026 21:37:24 +0000 — https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/
@@ -410,32 +435,32 @@ Thu, 22 Oct 2026 18:14:08 +0000 — https://www.gamespot.com/articles/gears-of-w
 
 Multiple new reports claim that the budget for Gears of War: E-Day was $500 million. Both Kotaku and Chris Dring of The Game Business reported today, with Kotaku's report saying the number does not include marketing costs. Jez Corden of Windows Central added that the $500 million figure is not wrong, but his own sources aren't able to say definitively if that number covers the game's budget alone, or the game's budget plus additional costs related to running the development studio, The Coalition. https://www.youtube.com/shorts/Bn4cMZamNA4 Whatever the case, the consensus seems to be that E-Day was an expensive game to produce, and the game's early sales results do not seem very impressive. The game reportedly sold 230,000 copies across Xbox and PC , but that doesn't tell the whole story since the game is included with Xbox Game Pass . Further data shows that the game reached nearly 2 million people out of the gate, and that number is sure to grow over time. Game Pass is a juggernaut for Microsoft and Xbox, with its recurring revenue from subscriptions generating almost $5 billion annually based on the latest data. A $500 million development budget for E-Day would represent 10% of that annual revenue from Game Pass. Industry expert Mike Futter reacted to Kotaku's report about E-Day's $500 million budget, saying, "Exclusivity on console games simply does not make sense right now," even if the development budget was half of that. E-Day was expected to release on PS5, and Microso
 
-### EA Could Sell BioWare s IP As It Looks To Tackle Its Massive Debt, Former Studio Boss Says
-Thu, 22 Oct 2026 17:34:21 +0000 — https://www.gamespot.com/articles/ea-could-sell-bioware-ip-as-it-looks-to-tackle-its-massive-debt-former-boss-says/
-
-It's a grim week for developers and fans, with EA announcing that it is shutting down Mass Effect and Dragon Age studio BioWare. EA said that after deciding not to pursue development on a new Mass Effect, it would shut down the studio as part of company-wide restructuring plans that will result in roughly 400 employees being let go. But should EA sit on the IP that BioWare was responsible for and let it gather dust? Former BioWare executive producer Mark Darrah has suggested they could go up for sale as it works off some of its $55 billion debt. "Remember BioWare, 100% owned by EA," Darrah said on his YouTube channel. “EA owns all the IP. They own Dragon Age, they own Mass Effect, they own Jade Empire. That doesn’t change the situation. Now, here’s nobody working on a game, or games, within the EA organization, and chances are there never will be, which might make them more likely to sell off those IP. But it might also make them more likely to just try to forget that they ever existed and bury them in the vault. I think we still are going to have to wait a little bit before we see if EA has any interest in selling off some of its dormant IP. Right now, they seem to be in cost-control mode. They might start into a revenue-generation mode where selling IP might be more desirable." https://youtu.be/2T8KlKPa2Y0 Earlier this year, former Dragon Age lead writer David Gaider also spoke about the franchise and said he believed it was dead after the poor commercial performance of Dra
-
-### WoW: Forever Is Getting A New Server Option By Popular Demand
-Thu, 22 Oct 2026 17:24:13 +0000 — https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/
-
-World of Warcraft: Forever players are getting a fourth server "ruleset" option for launch: role-playing-player vs. player, or RP-PvP for short. Blizzard announced the news on social media , stating the server would be open for name reservations starting on October 27. It joins three other rulesets for players to choose from, with options for PvE, PvP, and roleplaying. Yet another server ruleset, Hardcore (aka permadeath), is set to be added before Spring 2027. The addition of a RP-PvP server is good news for the game's community, who have been vocal about wanting to see it added as an option. RP-PvP servers have been included in past versions of WoW Classic and WoW. https://twitter.com/Warcraft/status/2113291795576537230?s=20 Having another PvP server option has taken on new importance given Blizzard's server approach for Forever. Rather than multiple different servers for each ruleset, Blizzard instead opted for what is essentially one massive server for each. That means prior to now there was only one PvP server, and unsurprisingly, it's that server where much of the game's streamer population and their audiences will be playing. One of those streamers is the controversial Asmongold, whose Alliance guild, Olympus, currently numbers over 74,000 players on Forever's beta. Many WoW Classic players would rather avoid streamer drama and Asmongold's army disrupting their experience, but didn't have anywhere else to go if they were committed to playing on a PvP server. Now, with 
-
-### Soccer Star Erling Haaland Is A Call Of Duty Camper, And I Really Hate It
-Thu, 22 Oct 2026 17:21:00 +0000 — https://www.gamespot.com/articles/soccer-star-erling-haaland-is-a-call-of-duty-camper-and-i-really-hate-it/
-
-There's nothing worse than running around a Call of Duty map, clicking heads and feeling awesome, then getting your head blown off out of nowhere, watching the killcam, and seeing that it was a camper. Apparently, that camper could've been Manchester City striker Erling Haaland because he's been a camper his whole life. In an October 21 video on his YouTube channel , the Norwegian soccer superstar was 1-v-1-ing English rapper Harrison "Aitch" Armstrong in Modern Warfare 4 . Very early in the video, Aitch asks how Haaland tends to play CoD games. Haaland came through with some honesty. https://www.youtube.com/watch?v=dy3Ore5MT3o&t=38s "You know what, and this is a bit embarrassing to say, but I've been a camper my whole life," Haaland told Aitch. "I'm that guy that you hate. [I'll] probably get some hate now, but it is what it is." Well, you know what, Haaland? You are the guy that I hate, and I'm not sorry about it. Camping has always been a controversial tactic in CoD games. The idea that someone would sit in a corner, often with a high-powered sniper like the DSR 50 in CoD: Black Ops or the M40A3 in CoD4: Modern Warfare , and pick targets off one by one always seemed counterintuitive to the fast-paced nature of CoD games. Sure, it provides better accuracy, but camping eliminates the skill involved with gunplay and instead produces boring matches as campers wait around for enemies to shoot. Modern Warfare 4 doesn't officially launch until October 23, and the official subredd
-
-### Dispatch Is Coming To Mobile In December, With Its First Four Episodes Free
-Thu, 22 Oct 2026 16:15:00 +0000 — https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/
-
-Ahead of its first anniversary, Dispatch developer AdHoc has revealed a big (and free) update for the deluxe edition of the superhero workplace-dramedy. Available now on all platforms where the deluxe edition is available, two new behind-the-scenes modes are being added to Dispatch. Dispatch is also getting a mobile release for Android and iOS, a live concert in Los Angeles, and more. The first one, Commentary, adds over 16 hours of cast and crew commentary across two tracks. Different choices made in the game will unlock different commentary, and the cast commentary track features Aaron Paul, Laura Bailey, Erin Yvette, and more of the cast. Storyboard will give players the ability to experience the entire game through the original storyboard animatics. This mode will show how the game was developed, with a closer look at how AdHoc developed the scenes, performances, and visual storytelling behind Dispatch. You can even double up on modes and enable the commentary tracks over Storyboard mode. https://www.youtube.com/watch?v=siM80qE5Y8E "Dispatch was only possible because of folks who believed in it enough to show up and do their best work. In our industry, it's often really hard to showcase those people and how the development process actually works, but fortunately our game is very weird and specific and affords us some unique opportunities," said Nick Herman, Co-Creative Director on Dispatch and COO of AdHoc Studio, in a press release. "So for the fans who made Dispatch a p
-
-### Battlefield 1 s Jack Lowden Is One Of The Finalists For New James Bond, Apparently
-Thu, 22 Oct 2026 15:38:56 +0000 — https://www.gamespot.com/articles/battlefield-1s-jack-lowden-is-one-of-the-finalists-for-new-james-bond-apparently/
-
-As rumored , it appears that actor Jack Lowden, who played Lawrence of Arabia in EA's Battlefield 1, is a finalist to play James Bond. According to Deadline , "final auditions" for the role will take place over the next week, and the process will include screen tests. At least four actors are coming in to test, the report said, including Lowden, Callum Turner (Masters of the Air), and Josh O'Connor (Disclosure Day). The fourth remains a mystery, but The Insneider said it could be Jacob Elordi . According to The Hollywood Reporter , Elordi is not testing, and neither is Jack O'Connell from Sinners. Many expect the casting process for James Bond to do finalized relatively soon, with an official announcement coming before the end of the year. In May this year, Bond movie production company Amazon MGM Studios said the search for the next James Bond actor was underway and that the film studio would not comment on the casting process. Lowden is Scottish, and he would become just the second Scottish person to play James Bond, following Sean Connery. The character James Bond from the Ian Fleming book series is also Scottish. Fans have been waiting a long time for the next James Bond movie, as the latest entry, No Time To Die, was released in 2021. However, it was expected to release much sooner, but had three delays due in part to COVID. Daniel Craig played James Bond in five 007 films, and wrapped up his run with No Time To Die. Amazon MGM Studios bought the franchise and reportedly
-
 ## Rock Paper Shotgun
+
+### Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters
+Fri, 23 Oct 2026 15:09:45 +0000 — https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters
+
+While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck. Then came the closure of BioWare , layoffs across other EA studios , further depressing genAI revelations , allegations of antisemitism at indie gaming events , a big Capcom data breach , and yet more worrying tidyings about Arkane . I rescind my earlier observation: I would like to be a worm. A happy little worm, tunnelling after golden apples in the moist and forgiving earth, where there are no emails or press releases at all. The only thing I have to worry about down here is my butt growing so big I get stuck behind it. And also getting chopped in half by sliding doors, but it turns out this may actually help with the first problem. See for yourself - video below. Read more
+
+### Arkane survival negotiations reportedly seeing "several forms of takeover" considered ahead of November deadline, as Marvel's Blade production nears end
+Fri, 23 Oct 2026 14:43:20 +0000 — https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end
+
+Negotiations over the future of Dishonored and Deathloop developers Arkane Lyon are reportedly seeing "several forms of takeover" considered as a November deadline looms for the divorce Xbox set in motion back in July . French law makes the process of shuttering or chucking away studios a lot harder for companies like Microsoft than it is elsewhere in the world, hence Arkane's fate still being up in the air while production work on Marvel's Blade nears completion according to the report. Read more
+
+### Helldivers 3 "only makes sense" if it’s so unlike Helldivers 2 "that both games can exist side by side", says Arrowhead boss, discussing their new prototype game
+Fri, 23 Oct 2026 12:20:39 +0000 — https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game
+
+Arrowhead Game Studios will only make a Helldivers 3 if it's lightyears apart in style from Helldivers 2 , or if Helldivers 2's playercount falls through the floor. This is my takeaway, at least, from a recent chat with Johan Pilestedt, chief creative officer, in which Pilestedt touched briefly on the studio's next unannounced game, while assuring me that there are still no plans for a Helldiver threequel. Read more
+
+### Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises
+Fri, 23 Oct 2026 11:27:06 +0000 — https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises
+
+Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX. In an industry rife with acronyms, what's so special about this one? Well, it's a rumoured codename for the next entry in the aforementioned series about a man with a crowbar, for one. Read more
+
+### "What if Larian had shut down after Divine Divinity?": Star Trek Online exec scorns publishers who close teams like BioWare in favour of "AAA veteran" start-ups and AI "magic beans"
+Fri, 23 Oct 2026 10:51:01 +0000 — https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans
+
+Breaking up established game development teams in favour of "AAA veteran" start-ups and "magic bean" technologies is like "setting fire to millions of dollars of property and equipment", in the words of Star Trek Online executive producer Thomas Marrone. He thinks it's "wildly irresponsible and self-sabotaging", and that videogame company shareholders should be absolutely furious about it. Marrone's comments come in response to EA closing BioWare yesterday , but he takes aim at closures and layoffs across the industry. He notes that many of the most successful teams owe their accomplishments to lessons learned from screw-ups, and suggests that if big game publishers just want "number to go up", they should get out of the game-making trade and pour all their cash into investment funds. Read more
 
 ### Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get "janky and wildly overpowered"
 Fri, 23 Oct 2026 09:30:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered
@@ -471,29 +496,4 @@ Life... is strength. The gears of this world are tuned for a quick death. Doomit
 Thu, 22 Oct 2026 16:01:24 +0000 — https://www.rockpapershotgun.com/captivating-cosmic-megastructure-adventure-game-hypnos-leaves-early-access-next-week-offering-up-a-world-im-desperate-to-dig-into-further
 
 I just love me a megastructure, I do. I'm not entirely sure why, to be honest. My best guess is that growing up in a major city with concrete pillars looming over me higher into the sky than I care to take notice of, perhaps even threatening me, left me with a sense of awe towards that which exists at a scale I can't really comprehend. With that, I was quite quickly hooked on whatever Hypnos was putting down, even if when I first had a go at it I couldn't quite tell you what was going on . And now, after a stint in early access, the eldritch "megastructure fever dream," is launching into 1.0 in just a week's time! Read more
-
-### Xbox reportedly mandate four days a week in office for staff close to Microsoft's Washington HQ, up from three day requirement brought in last year
-Thu, 22 Oct 2026 14:53:43 +0000 — https://www.rockpapershotgun.com/xbox-reportedly-mandate-four-days-a-week-in-office-for-staff-close-to-microsofts-washington-hq-up-from-three-day-requirement-brought-in-last-year
-
-Xbox have reportedly informed staff that, from the start of February 2027, those within commuting distance of Microsoft's Washington base will have to come into the office four days a week. This follows the mandating of three days in office last year, and comes as the company are looking at cutting more staff as part of ongoing efforts to eventually get rid of 3200 people in multi-round mass layoffs . Read more
-
-### "It just seemed arbitrary, and not very smart": EA was never a responsible owner for Bioware, but the developer never seemed to learn from their mistakes
-Thu, 22 Oct 2026 13:33:16 +0000 — https://www.rockpapershotgun.com/it-just-seemed-arbitrary-and-not-very-smart-ea-was-never-a-responsible-owner-for-bioware-but-the-developer-never-seemed-to-learn-from-their-mistakes
-
-19 years after buying Bioware, Electronic Arts have closed the veteran RPG developer . But as saddening as this is, bringing an end to series such as Dragon Age and Mass Effect , EA have never had an easy relationship with the studio. Looking through old interviews with developers who worked across Baldur's Gate , Neverwinter Nights , Star Wars: Knights of the Old Republic , Dragon Age, Mass Effect, and Anthem, the corporation immediately changed the atmosphere of the studio and never seemed to understand what exactly they had bought, or even why. However, another thread of the conversations is that from project to project, Bioware repeated the same mistakes, getting years into projects before working out what they were trying to make. Sometimes they could pull an exceptional game out of this mess, but other times it led to costly missteps like Anthem. Read more
-
-### Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails
-Thu, 22 Oct 2026 12:00:00 +0000 — https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails
-
-Resident Evil , Street Fighter, and Monster Hunter publishers Capcom have revealed that a data breach has seen a third-party gain access to information associated with more than 11 million Capcom ID accounts. "Suspicious activity" around the service, required to play online in the likes of Street Fighter 6 , was initially noticed on October 19th according to Capcom, who have spent the past couple of days taking measures to contain and combat the problem. Read more
-
-### "We made a very difficult decision": Australian indie showcase Freeplay reject antisemitism claims after delisting a Jewish sponsor who was allegedly accused of being a "zionist"
-Thu, 22 Oct 2026 11:30:06 +0000 — https://www.rockpapershotgun.com/we-made-a-very-difficult-decision-australian-indie-showcase-freeplay-reject-antisemitism-claims-after-delisting-a-jewish-sponsor-who-was-allegedly-accused-of-being-a-zionist
-
-The organisers of Australian independent games showcase Parallels have rejected accusations of "prejudice" and say they've received "violent threats", after a Jewish developer had her sponsorship of the event refunded. The developer in question is Wren Brier, creative director at Witch Beam. She claims an unnamed speaker booked for the event has accused her of being a "zionist", following an article about her work from an Australian Jewish publication. Read more
-
-### While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs
-Thu, 22 Oct 2026 10:30:00 +0000 — https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs
-
-Apparently the clich&eacute; "when it rains, it pours" also applies to corporate feculence. In addition to shutting down storied RPG makers BioWare , EA are reportedly cutting staff at The Sims developers Maxis, as well as Skate studio Full Circle and Battlefield 6 co-devs Ripple Effect. Read more
 

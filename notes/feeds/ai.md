@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-23T09:33:54.077Z
+# AI — harvested 2026-10-23T15:27:42.711Z
 
 ## OpenAI
 
@@ -32,17 +32,10 @@ Wed, 21 Oct 2026 21:00:00 GMT — https://openai.com/index/broad-access-through-
 
 How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
 
-### OpenAI models are coming to Google Cloud
-Wed, 21 Oct 2026 12:00:00 GMT — https://openai.com/index/openai-models-google-cloud
-
-OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
-
-### ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
-Wed, 21 Oct 2026 13:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-26-new-countries
-
-From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
-
 ## Hugging Face
+
+### Does Your Model Run on AWS Trainium? Look It Up
+Fri, 23 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/torch-neuronx-model-support
 
 ### Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
 Thu, 22 Oct 2026 22:24:34 GMT — https://huggingface.co/blog/microsoft/thinkingbox-training
@@ -61,9 +54,6 @@ Wed, 21 Oct 2026 17:35:36 GMT — https://huggingface.co/blog/Dharma-AI/vocabx-v
 
 ### Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.
 Wed, 21 Oct 2026 16:04:43 GMT — https://huggingface.co/blog/amazon/profiling-torchneuron-part-1
-
-### Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster
-Wed, 21 Oct 2026 14:58:18 GMT — https://huggingface.co/blog/ibm-granite/granite-speech-5
 
 ## Google DeepMind
 
