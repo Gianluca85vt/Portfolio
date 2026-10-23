@@ -43,7 +43,6 @@ artistView:
   misses:
     - "Simulation: clay needs viscosity, surface tension and self-collision to sell a melt, and several reviewers describe the digital passes as a visible step down from the makeup beside them."
     - "Compositing: the handoff frames, where a lit appliance becomes a simulated one, are the shots nobody had time to finish, and they are the ones being singled out."
-draft: true
 ---
 
 Nine scored verdicts, averaged, come to **6**. The range runs from 4 to 8 —
