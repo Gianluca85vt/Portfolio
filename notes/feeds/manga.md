@@ -1,6 +1,36 @@
-# Manga — harvested 2026-10-22T20:17:31.817Z
+# Manga — harvested 2026-10-23T09:33:54.077Z
 
 ## Anime News Network
+
+### New Votoms Anime Films' Teaser Reveals Theme Song
+Fri, 23 Oct 2026 03:23:27 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/new-votoms-anime-films-teaser-reveals-theme-song/.243123
+
+Mika Nakashima performs theme song "Na mo Naki Shijin no Yō ni" for November 20 film
+
+### Made in Abyss: Mezameru Shinpi Anime Film Reveals 4 Cast Members
+Fri, 23 Oct 2026 02:59:42 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/made-in-abyss-mezameru-shinpi-anime-film-reveals-4-cast-members/.243122
+
+Nana Mizuki, Akeno Watanabe, Shunsuke Takeuchi, Nao Tōyama, Yume Miyamoto star in film
+
+### Hideo Kojima Reprises Cyberpunk 2077 Character in Edgerunners 2
+Thu, 22 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-22/hideo-kojima-reprises-cyberpunk-2077-character-in-edgerunners-2/.243062
+
+Kojima voices Hideyoshi Oshima in video game & anime
+
+### Frequent Ghibli Collaborator Joe Hisaishi Named LA Philharmonic's Composer-in-Residence
+Thu, 22 Oct 2026 21:56:47 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/frequent-ghibli-collaborator-joe-hisaishi-named-la-philharmonic-composer-in-residence/.243119
+
+Orchestra's new post is part of 5-year artistic partnership, involves composing new works
+
+### Kumo Kagyu's Moscow 2160 Manga Listed to End With 5th Volume
+Thu, 22 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/kumo-kagyu-moscow-2160-manga-listed-to-end-with-5th-volume/.243081
+
+Series debuted in December 2022
+
+### K Manga Adds Shinobu Ohtaka's Geekrown Manga
+Thu, 22 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/k-manga-adds-shinobu-ohtaka-geekrown-manga/.243115
+
+<cite>Magi</cite> creator's new manga launches on service on October 26
 
 ### Firefly Wedding TV Anime Reveals English Dub Cast, October 23 Debut
 Thu, 22 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/firefly-wedding-tv-anime-reveals-english-dub-cast-october-23-debut/.243116
@@ -32,41 +62,16 @@ Thu, 22 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Reverse harem comedy manga launched on March 24
 
-### Takopi's Original Sin Compilation Film's Trailer Reveals Theme Song
-Thu, 22 Oct 2026 11:36:18 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112
-
-Tele returns to perform theme song for November 27 film
-
-### Exclusive: Nakama Press Licenses Uoto's 100 Meters, Goku Midnight Eye Manga for Release in 2027
-Thu, 22 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-goku-midnight-eye-manga-for-release-in-2027/.243056
-
-Nakama Press also revealed new release date for <cite>Samurai Pizza Cats</cite> comic
-
-### Capcom Confirms Data Breach of Over 11 Million User Accounts
-Thu, 22 Oct 2026 10:51:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110
-
-Third party had unauthorized access to Capcom ID service starting on October 19
-
-### Suikoden: The Anime ‒ Episodes 1-3
-Thu, 22 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/suikoden-the-anime/episodes-1-3/.243091
-
-Most critical of all is that the <i>Suikoden</i> anime reminds me of anime and gaming from the days of yore.
-
-### This Week in Anime - The Legacy of Sayo Yamamoto
-Thu, 22 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-22/.243060
-
-Now that Coop has finally watched <i>Yuri!!! on Ice</i>, they and Sylvia dive into Sayo Yamamoto 's series.
-
-### Magical Girl Raising Project Restart ‒ Episodes 1-3
-Thu, 22 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/magical-girl-raising-project-restart/episodes-1-3/.243090
-
-When it comes down to it, <cite>Magical Girl Raising Project Restart</cite> is built around one thing: unintended consequences.
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Cosplay Trackside Returns to Santa Anita Park on October 24 & 25
+Fri, 23 Oct 2026 03:21:45 GMT — https://animecorner.me/cosplay-trackside-returns-to-santa-anita-park-on-october-24-25/
+
+Cosplay Trackside, an Umamusume-themed cosplay meetup, returns to Santa Anita Park in Arcadia, California,&hellip;
 
 ### Black Clover's ONE OR EIGHT to Perform in Manila
 Thu, 22 Oct 2026 17:06:02 GMT — https://animecorner.me/black-clovers-one-or-eight-to-perform-in-manila/
@@ -93,17 +98,12 @@ Wed, 21 Oct 2026 11:40:55 GMT — https://animecorner.me/cyberpunk-edgerunners-2
 
 CYBERPUNK: EDGERUNNERS 2 is an incredible anime from start to finish, but it doesn't quite live up to Season 1's expectations.
 
-### Just Like Mona Lisa Anime Reveals Main Visual, Trailer, Additional Cast, Ending Theme Song Artist
-Wed, 21 Oct 2026 04:33:42 GMT — https://animecorner.me/just-like-mona-lisa-anime-reveals-main-visual-trailer-additional-cast-ending-theme-song-artist/
-
-Just Like Mona Lisa anime revealed a main visual along with a teaser trailer&hellip;
-
-### MURCIÉLAGO Anime Reveals New Visual, Trailer, Main Cast
-Tue, 20 Oct 2026 23:39:14 GMT — https://animecorner.me/murcielago-anime-reveals-new-visual-trailer-main-cast/
-
-The previously announced MURCIÉLAGO anime revealed a new visual and trailer, along with three&hellip;
-
 ## MyAnimeList News
+
+### Made in Abyss: Mezameru Shinpi Movie Second Part Announced
+Thu, 22 Oct 2026 20:43:18 -0700 — https://myanimelist.net/news/74849312?_location=rss
+
+The official website of the Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery) movie announced the production of a second part on Friday, as well as five additional cast and a second key visual (pictured) for the first movie. The first part premiered in Japan on Friday. Cast Srajo: Nana Mizuki (Boruto: Naruto Next Generations) Nishagora: Akino Watanabe (Free! Dive to the Future) Yataramar: Shunsuke Takeuchi (Ao Ashi) Sherumi: Nao Touyama (Kanojo, Okarishimasu) Menae: Yume Miyamoto...
 
 ### Manga Uruwashi no Yoi no Tsuki Ends in Next Chapter
 Thu, 22 Oct 2026 05:51:17 -0700 — https://myanimelist.net/news/74846841?_location=rss
@@ -115,24 +115,14 @@ Thu, 22 Oct 2026 04:10:21 -0700 — https://myanimelist.net/news/74846620?_locat
 
 The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro s Psyren manga announced a pair of additional cast on Thursday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Reiko Suzuki (Versailles no Bara) and Ayumu Murase (Chainsaw Man) are joining the cast as Elmore Tenjuin and Van Tenjuin, respectively. Katsumi Ono (Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu) is directing the anime...
 
-### Seibetsu "Mona Lisa" no Kimi e. Unveils Additional Cast, Staff, Ending Theme, First Promo, 2027 Debut
-Tue, 20 Oct 2026 21:10:10 -0700 — https://myanimelist.net/news/74843217?_location=rss
-
-The official website for the television anime adaptation of Tsumuji Yoshimura s Seibetsu "Mona Lisa" no Kimi e. (Just Like Mona Lisa) manga unveiled additional cast, staff, a key visual (pictured right), the ending theme, and first promotional video on Wednesday. The anime series will premiere in 2027. Cast Yoshino Aoyama (Bocchi the Rock!) Nobuhiko Okamoto (Sousou no Frieren) Daisuke Sakuma (Kill Ao) Chiharu (22/7) Kakeru Hatano (Tamon-kun Ima Docchi!?) Haruna Mikawa (Ore dake L...
-
-### Ghost: Yoru no Hate Announces Additional Cast
-Tue, 20 Oct 2026 17:43:12 -0700 — https://myanimelist.net/news/74842607?_location=rss
-
-The official website for the Ghost: Yoru no Hate original anime movie announced three additional cast members on Wednesday. The movie is scheduled to open in Japanese theaters on February 11, 2027. The movie was previewed at Sitges Film Festival on October 9 and at Animation Is Film Festival on October 17. Cast Moby Dick: Kenjirou Tsuda (Jujutsu Kaisen) Karate: Hiroki Yasumoto (Koukaku Kidoutai (TV)) Itou: Hiroshi Kamiya (Shingeki no Kyojin) Shingo Natsume (One Punch Man) directes and pens the...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### From Our TBR Pile… October 2026
-Wed, 21 Oct 2026 09:00:12 +0000 — https://animeuknews.net/2026/10/from-our-tbr-pile-october-2026/
+### Wandering Cat s Cage Review
+Fri, 23 Oct 2026 09:00:15 +0000 — https://animeuknews.net/2026/10/wandering-cats-cage-review/
 
-Vampires, dem-dolls, ‘bad’ girls, childhood friends… plenty of manga recommendations from our reviewers to keep readers engrossed this October.
+From Takumigraphics comes an omnibus edition of an Akane Torikai manga that offers a look at a future where reproduction is harshly managed and men are dying out.
 

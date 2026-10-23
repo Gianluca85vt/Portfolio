@@ -1,8 +1,38 @@
-# Tech — harvested 2026-10-22T20:17:31.817Z
+# Tech — harvested 2026-10-23T09:33:54.077Z
 
 ## Ars Technica
 
-### Meet the 2026 winner of Nikon's Small World photomicrography contest
+### Switch 2 security takes a hit as hackers unlock homebrew access
+Thu, 22 Oct 2026 22:25:33 +0000 — https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/
+
+A security researcher has demonstrated a software-only partial jailbreak of the Switch 2, gaining "userland" access that he says "lets us run homebrew, reverse engineer and mod Switch 2 games, back up save files off the Switch, and access most of the Switch 2’s peripherals through MMIO." The hack relies on the original Switch version of SmileBasic 4 , the latest in a long-running series of programming environments and interpreters that run on Nintendo hardware. The so-called "tethered" hack also requires access to a macOS or Linux PC on the same network to run a node.js package that helps enable privileged system access. Researcher Sammy Hajhamid writes that he used OpenAI's Codex to poke at SmileBasic's language interpreter, using a custom harness that could send USB commands to the system and view results via HDMI (as well as power cycling via a Bluetooth light switch flipping device). After "substantial effort for ~2 weeks," that harness discovered a 32-bit integer overflow that occurs when removing items from an array in SmileBasic. That error gives access to an array pointer, which in turn allows read and write access to portions of system memory. Read full article Comments ]]>
+
+### Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
+Thu, 22 Oct 2026 22:12:19 +0000 — https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/
+
+Personalized mRNA vaccines against melanoma—the deadliest form of skin cancer—reduced the risk of death or recurrence by 42 percent compared to standard treatment in a late-stage trial, pharmaceutical partners Merck and Moderna announced Thursday . The results are a significant advance in melanoma treatment; Merck and Moderna are already engaging with regulatory authorities to get the vaccine approved. More broadly, the vaccine's success bolsters hope that mRNA vaccines and individualized cancer-targeting medicines offer a new paradigm for cancer therapies. "From the beginning, we believed mRNA technology could make it possible to develop cancer treatments uniquely matched to each patient’s tumor," Moderna CEO Stéphane Bancel said in a statement. The trial results "mark a defining moment for that vision and show what’s possible when we rethink how medicines are made." They also "reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer," he said. Read full article Comments ]]>
+
+### Latest estimate for Starship launches required to support a Moon landing? 22.
+Thu, 22 Oct 2026 21:52:31 +0000 — https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/
+
+NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like they are trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. The general response from NASA has typically been, 'We don't know for sure, so we're not going to say.' In 2023, for example, the then-director of NASA's Human Landing System, Lisa Watson-Morgan, told Ars , "We have a general idea, but I’m reluctant to say exactly what that is." Read full article Comments ]]>
+
+### Comcast loses more customers, claims other ISPs' cheap prices are "irrational"
+Thu, 22 Oct 2026 21:07:09 +0000 — https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/
+
+Comcast reportedly plans significant job cuts in its cable division as the firm continues to lose residential broadband and TV customers. Comcast lost 144,000 residential broadband customers in Q3 2026, up from a 91,000-customer loss in the same quarter a year ago, the company said in its earnings report today. Comcast historically capitalized on a lack of competition for high-speed wired broadband. But now it faces stronger competition from fixed wireless providers and from fiber providers in parts of its cable territory. "Fixed wireless remains aggressive and continues to take share, while fiber construction remains elevated, with pockets of irrational pricing and promotional activity," Comcast co-CEO Mike Cavanagh said today in an earnings call . Read full article Comments ]]>
+
+### Disgraced eMudhra drops out of TLS business after using cert private key of 4
+Thu, 22 Oct 2026 20:17:52 +0000 — https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/
+
+eMudhra, the certificate authority that issued eight intermediate TLS credentials so weak that anyone could mint certificates for any website or mail server—one had a private encryption key of just 4—said it’s getting out of the business. V. Srinivasan, chairman of India-based eMudhra Limited, cited increasing costs and complexities of compliance requirements—paired with the business generating just 1 percent of its revenue. He also said that the emergence of organizations providing TLS certificates free of charge further reduced returns on investment when compared to other products and services the company offers. Don't let the door hit you on the butt “However, the level of social media amplification around this incident has brought scrutiny that is out of proportion to SSL/TLS’s place in our business,” the company continued in a Thursday post. “In view of this, after detailed deliberations our board has concluded that withdrawing from global SSL/TLS is the right decision for eMudhra and its shareholders.” Read full article Comments ]]>
+
+### Leaked Mass Effect: Universe trailer gives a taste of what we're all missing
+Thu, 22 Oct 2026 19:59:37 +0000 — https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/
+
+Those mourning yesterday's shuttering of highly praised and influential developer BioWare also had to deal with the cancellation of the next Mass Effect game, which was first teased back in 2020 . Today, we got our best look at what that game could have been with a short, leaked trailer for Mass Effect: Universe . In the roughly two-minute montage—which describes itself as "in-engine footage from our small team" that "uses our pre-production assets"—an ex-military officer wearing an N7 trenchcoat (similar to the one seen in that 2020 teaser) encounters an Asari at a bar. He talks of his frustration with military life—"by the time you put out one fire, another had already started"—before discussing his new line of work "stopping [the fires] before they start" and "making the choices no one else is willing to make. Going where others are afraid to go." Mass Effect: Universe Trailer by u/Random_Hyabusa_Ninja in masseffect Read full article Comments ]]>
+
+### Ink droplets in motion snag top prize in Nikon Small World contest
 Thu, 22 Oct 2026 19:34:40 +0000 — https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/
 
 A 25-year-old German experimental photographer has won the 2026 Nikon Small World photomicrography competition with a striking image of droplets of ink being deposited on paper by an inkjet printer. Ole Bielfeldt beat out 1,802 other entries hailing from 69 different countries. Bielfeldt became interested in photomicrography during the COVID-19 lockdown after discovering an old microscope in his parents' attic. He figured out how to build an adaptor out of a tube and some wood to connect the microscope to his father's camera and taught himself the art through trial and error, building custom tools as needed. He documents how he captures transformative images of everyday objects with behind-the-scenes videos posted to macrofying , his photography and videography brand. It was Bielfeldt's curiosity about the inner workings of inkjet printers that inspired his winning entry, but capturing the action of ink drops being deposited on paper was a challenge, given that the process happens so quickly. The droplets, for instance, moved faster than the camera's shutter speed. Bielfeldt's solution was to deconstruct the printer so that the paper moved under a stationary (rather than moving) printhead, and then take the image in a dark room, using a flash to serve as the shutter, thereby freezing the ink drops mid-air. There was no need for pricey equipment. Bielfeldt does not use AI in his images, preferring to rely on traditional techniques. Read full article Comments ]]>
@@ -32,89 +62,64 @@ Thu, 22 Oct 2026 17:04:31 +0000 — https://arstechnica.com/tech-policy/2026/10/
 
 Meta must pay $25 billion to New Mexico after a jury found the tech giant guilty of nearly 44 million violations of state consumer protection laws. The largest fine to ever hit Meta came after New Mexico Attorney General Raúl Torrez declined to join an $18 billion settlement Meta reached earlier this year with attorneys general in nearly all states. In his opinion Wednesday, US district court judge Francis J. Mathew said there was no “bright line rule” for determining the appropriate penalty for Meta's repeated and willful deception of users since 2010 about their “control of data, third-party data misuse, misinformation, hate speech, and equal enforcement.” Read full article Comments ]]>
 
-### US-backed vaccine trial on babies canceled after international outcry
-Thu, 22 Oct 2026 16:37:00 +0000 — https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/
-
-Government officials in Guinea-Bissau have formally rejected a clinical trial that would be run by Danish researchers and funded by the US to look for alleged nonspecific harms from the newborn dose of the hepatitis B vaccine. The vaccine dose is currently recommended globally for all newborns and has been used safely and effectively for decades. In an email to Ars Technica, one of the trial's lead researchers, Christine Stabell Benn of Bandim Health Project and the University of Southern Denmark, said that Guinea-Bissau's Council of Ministers "formally reaffirmed its non-acceptance of the study on 16 October." The revelation that the study was formally rejected last week comes after news on Monday that judicial police in Guinea-Bissau raided Bandim Health's offices and seized vaccines . Stabell Benn highlighted that the police search came after the trial was rejected. Read full article Comments ]]>
-
-### This emulator reimagines Nintendo’s Virtual Boy with a full color display
-Thu, 22 Oct 2026 15:59:40 +0000 — https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/
-
-Last year, we reported on Red Viper , a Virtual Boy emulator that added a splash of Super Game Boy-style color to Nintendo's famously failed red-on-black "portable" 3D headset from the '90s. Now, a new emulation experiment, VBoy Color , has taken the concept to a higher level, using a tile-based palette system that allows for many more distinct colors in each individual Virtual Boy frame. Rather than simply replacing the Virtual Boy's four shades of red with four different colors, VBoy Color's readme files explain how the emulator's game-specific Color Packs can assign a distinct four-color palette to each 8x8 tile in a Virtual Boy scene. That means the emulator can differentiate between green pipes, grey platforms, and red brick wall in Mario Clash , for instance, even though all those in-game objects share the same overlapping red hues in the original game. The Game Boy Color-esque results feel like being transported into an alternate history where Nintendo invested in a full-color display rather than cheaper red LEDs for the Virtual Boy hardware. The increased contrast between differently colored elements is particularly welcome in games like Jack Bros. or Vertical Force , where the original red-on-red display often makes it hard to differentiate the player-character from busy red background elements. Read full article Comments ]]>
-
-### Hackers got a four-day head start on epic PHP2Shell vulnerability
-Thu, 22 Oct 2026 15:25:02 +0000 — https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/
-
-Amazon has warned that vulnerabilities in a programming language that underpins much of the Internet, discovered using AI tools, are being “broadly exploited” as governments and companies rush to secure their systems. The world’s largest cloud computing provider on Wednesday said it had identified an attempt by hackers to exploit the bug four days before the weakness was disclosed to the public. Amazon added the flaws were “now being broadly exploited in the wild.” Read full article Comments ]]>
-
-### Sauron recruits his future Ringwraiths in Rings of Power S3 trailer
-Thu, 22 Oct 2026 14:22:31 +0000 — https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/
-
-Lord of the Rings: The Rings of Power returns next month for its third season. Prime Video unveiled a teaser earlier this year at San Diego Comic-Con, but we haven't heard much about the new season otherwise. We now have the official full trailer, and it's jam-packed with a rising Sauron, who is intent on conquering Middle-Earth with his army of Orcs—with the fractured opposition of elves, dwarves, and men scrambling to figure out how best to stop him. We also meet the human men who will become the Ringwraiths; the showrunners have dubbed them the Nazgnagol ("Rings-servant"). (Some spoilers for the first two seasons below.) Prime Video made a major investment in The Rings of Power when it acquired the rights to the source material from the Tolkien estate, even committing to multiple seasons upfront. S3 is set seven years after the events of S2 and opens when the war between the elves and Sauron is at its height. Per the official synopsis: Read full article Comments ]]>
-
-### Forget "Malaise 2.0," GM says it's still all-in on EVs and autonomy
-Thu, 22 Oct 2026 13:04:32 +0000 — https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/
-
-GM provided flights from Detroit to New York and accommodation so Ars could attend the GM Future event. Ars does not accept paid editorial content. It’s easy to criticize US automakers and their tepid approach to electric vehicles under the current administration and the expiration of the EV tax credit . It’s also easy to look at the rest of the world's embrace of EVs and wonder if the US is entering a “Malaise 2.0” era. Which is why GM wants the world to know that it is still focused on its end goals of electrification, autonomy, and improving vehicle quality while reducing development time. At this year’s GM Forward event, company executives announced that its hands-off, eyes-off Super Cruise technology will expand across the lineup and be available on nearly every vehicle. This will include the pickup trucks and the crossovers, and not just the Escalade IQ that it was announced for last year. Sterling Anderson, GM’s head of product, said the company is testing this technology to the tune of 1 million miles (1.6 million km) a month in both the virtual and real world. The goal is that not only would the vehicle be able to take you places, but it could go and do things for you. Read full article Comments ]]>
-
-### 333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email
-Thu, 22 Oct 2026 11:30:33 +0000 — https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/
-
-Unknown hackers hijacked more than 300 Tor exit nodes and reconfigured them to favor unencrypted email traffic and redirect SSH connections through servers they controlled, a researcher reported Tuesday. The hijacking began in late August, when, according to Tor volunteers , the attacker used a valid password that had been reused to gain access to a Tor management server. The attacker then installed Ebury , a backdoor written for Linux that was discovered 12 years ago. Mysteries remain Then the attacker connected from the management server to a second Tor server, called Switzerland2, through SSH, using an RSA key that, for unknown reasons, investigators couldn’t find among Switzerland2’s authorized keys. With administrative control of Switzerland2, the attackers installed Ebury there as well. Finally, the attacker reconfigured settings on two exit nodes that Switzerland2 hosted. Read full article Comments ]]>
-
 ## The Verge
+
+### Etsy is cracking down on AI slop listings
+2026-10-22T20:09:58-04:00 — https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing
+
+Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that "many active buyers say they can't tell which items involve AI-generated content" and that sellers are "concerned about your work appearing alongside items that use AI in misleading ways," spurring the new policies and restrictions. Under the new policies, every listing must include "at least one unedited photo of the actual item against a real background," and all photos must "accurately represent the item a buyer will receive." The photos that aren't the first one can be edited with softw … Read the full story at The Verge. ]]>
+
+### Spotify says yes, it is busting people for using Family Plan sharing too widely
+2026-10-22T19:02:43-04:00 — https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes
+
+Spotify co-CEO Alex Norstr&ouml;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a question about the "crackdown," he called it a "routine improvement" instead: This is not as much a crackdown as it is actually a routine improvement of our verification methods for our Family Plan. Family Plan has existed for a long while. It has been around for, I think it is now close to 12, 13 years in Spotify history, and it makes up a pretty signi … Read the full story at The Verge. ]]>
+
+### The next-gen Xbox won’t cost you $1,800. It can’t. Can it?
+2026-10-22T19:00:00-04:00 — https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial
+
+An Xbox Elite controller. | Photo by Antonio G. Di Benedetto / The Verge Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft knows people won't pay that much. It couldn't possibly charge that much money if it wants next gen to be a success. "I wouldn't release it at all," former Microsoft exec Mike Ybarra recently said . My third thought: Didn't Microsoft already say out loud that it knows people won't pay that much? Didn't old Xbox boss Phil Spencer say "We're no … Read the full story at The Verge. ]]>
+
+### Canva’s first AI image model plans designs before generating them
+2026-10-22T17:51:25-04:00 — https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model
+
+Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft , uses a two-stage architecture that allows it to plan a design before generating an image, allowing for "greater precision, consistency and control," according to an announcement on Thursday . Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios. In addition to generating social media posts and marketing content, it's also supposed to create realistic scenes, digital art, environmental imagery, and more. The model's two-stage sy … Read the full story at The Verge. ]]>
+
+### PC shipments dropped over 20 percent in Q3 due to RAM price hikes
+2026-10-22T17:30:39-04:00 — https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram
+
+Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low . Counterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026 , PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs , and chips from Intel , AMD , and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis . C … Read the full story at The Verge. ]]>
+
+### Fall 2026 earnings watch
+2026-10-22T17:15:16-04:00 — https://www.theverge.com/tech/1016506/fall-2026-earnings-watch
+
+Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies go next. Sure, let’s smoosh SpaceX and Tesla together, who cares Just because Tesla’s Optimus is in production doesn’t mean it’s actually ready In Meta’s version of the future, I’ll have my Muse call your Muse Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen? Meta to create a new class of shares to fund AI push Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement Not even flying Roadsters can lift Tesla’s flat Q3 revenues Tesla and SpaceX are discussing a possible merger, Musk says SpaceX will try catching Starship and its booster for first time, Musk says Netflix is telling investors not to worry, even though you re watching less and less SpaceX says big AI growth fueled revenue jump ]]>
+
+### Meta s AI could still scrape news sites, legal experts say
+2026-10-22T16:32:05-04:00 — https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns
+
+Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. "This does nothing to restrict the 'associated with your products or services' [language] that would let Meta scrape entire sites," James Grimmelmann, a professor of digital and information law at Cornell Law School, tells Nieman Lab . Initially, Meta's new terms for business accounts appeared to give the company permission to train its AI on news sites. The terms, which go into effect October 30th, stated that Meta "may use any … Read the full story at The Verge. ]]>
+
+### Meta turns Muse sharing back on
+2026-10-22T16:24:04-04:00 — https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts
+
+Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at Claroc reported earlier this week that Muse the web addresses for shared conversations from Muse were named after a conversation's title and written into public DNS. Ars Technica said Tuesday that Meta paused the sharing feature after it reached out about what was going on. In a post today on X, Meta's David Singleton says that "The underlying is … Read the full story at The Verge. ]]>
+
+### The FCC is beginning to block gadgets with ‘foreign surveillance chips’
+2026-10-22T16:23:48-04:00 — https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole
+
+On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security . Today, it's exercising that power for the first time, blocking two gadgets because they contain "foreign surveillance chips," the FCC claims . The agency doesn't say which specific gadgets it blocked, and it didn't immediately respond to our request for comment, but it does name the "surveillance chip": it's a HiVision Hi3516CV610 UHD Smart Vision SoC , a chip that turns a raw camera sensor into a home security camera, a dashcam, or the like. It's often s … Read the full story at The Verge. ]]>
 
 ### Sure, let’s smoosh SpaceX and Tesla together, who cares
 2026-10-22T15:45:00-04:00 — https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari
 
 Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips , but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree to which you believe Elon Musk about wanting to go to Mars, or "spread the light of consciousness," as he put it in this week's SpaceX earnings call (and earlier S-1). Now, a reasonably informed person knows that we don't have the technology - or, frankly, even the raw information to build the technology - in order to support human life in space. … Read the full story at The Verge. ]]>
 
-### Teenage Engineering launched an instrument amp with a ton of built-in effects
-2026-10-22T15:44:51-04:00 — https://www.theverge.com/gadgets/1017022/teenage-engineering-ep-35-instrument-amp
-
-It looks exactly like what you’d expect a Teenage Engineering guitar amp to look like. | Image: Teenage Engineering Teenage Engineering is branching out into instrument amps with the previously leaked EP-35 , a multi-input, multi-instrument, battery-powered amp with built-in effects. The back of the unit has a line-in port, as well as a 1/4-inch guitar input and an XLR input for mics, including mics that require phantom power. You can also stream audio to it via Bluetooth and connect multiple EP-35s together over Bluetooth using Auracast . If you have them paired in stereo, tilting a unit to the left or right sets it to the appropriate stereo channel, which is pretty neat. There are separate effects processors for guitar and vocals, though you have limite … Read the full story at The Verge. ]]>
-
-### Republican politicians have embraced anti-Indian racism — and it’s costing them votes
-2026-10-22T15:15:00-04:00 — https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas
-
-Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, like many other Republicans, celebrated in 2024. But this week, Bhatt did something unexpected: He voted for Texas Democratic Senate candidate James Talarico, and he publicly urged others to do the same. Bhatt, whose father is a small-business owner, tells The Verge he was initially drawn to the Republican Party due to its economic principles. "The strong belief in individual liberty and limited … Read the full story at The Verge. ]]>
-
-### Google tells Android users to update as parts of Canada adopt permanent daylight saving time
-2026-10-22T15:13:42-04:00 — https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada
-
-As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July , there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following the Canadian provinces of British Columbia and Manitoba permanently switching to daylight saving this year, Google has shared some suggested fixes if Android devices are showing the incorrect time when clocks aren't turned back an hour there on November 1st. In an announcement shared to the Android community help forums , Google suggests a simple fix for Canadians experiencing issues as a result … Read the full story at The Verge. ]]>
-
-### Discord now formats Markdown previews right
-2026-10-22T14:58:19-04:00 — https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels
-
-Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with "a bunch of symbols," according to the company. LLMs and AI agents often rely on Markdown files for instructions and context, so these improved previews could be helpful for people sharing information about AI projects on the platform. "When you upload a Markdown (.md) file, you'll now see the file rendered all nice and neat and pretty instead of with a bunch of symbols," Discord says . "This includes tables, formatting, all that good stuff. Totally great for when you're doing a casual Sunday-night sharing READ … Read the full story at The Verge. ]]>
-
-### The new Fire TV Stick 4K is already half off
-2026-10-22T14:43:57-04:00 — https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale
-
-Despite being announced just a few weeks ago , both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stick 4K no longer requires a separate power connection, meaning it can draw all the juice it needs from the USB port on your TV. It supports 4K at up to 60fps, with HDR10 Plus for higher contrast, although it’s worth noting that it doesn’t allow for side-loading apps like some older models. Amazon Fire TV Stick 4K (2026) Where to Buy: $59.99 $29.99 at Amazon $59.99 $29.99 at Best Buy Amazon updated the Fire TV OS earlier this year with a redesigned UI, closer Alexa Plus integration, and various improvements to the mobile app, all of which are supported on the new hardware. You’ll also get a revamped remote, which features a new asymmetrical design with a rounded bottom and buttons with a more tactile feel. For connectivity, the Fire TV Stick 4K has Bluetooth 5.3 and Wi-Fi 6. ]]>
-
-### Refurbished PS5 consoles include second controller for an extra $18
-2026-10-22T14:38:50-04:00 — https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle
-
-A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI ’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warranty? It’s a great time to consider one because company has a new limited-time bundle. Through this page , you can select either a refurbished digital or disc-based console for $499 or $549, respectively, and add a refurbished DualSense to your order that’s $40 off its usual price. For instance, a white DualSense tacks just $18 to your total, while one of the fancier colors, like sterling silver, adds $23. It’s an affordable way to stock up to cover a two-player household. The refurbished controller also includes a one-year warranty. Sony PlayStation 5 slim (refurbished) Where to Buy: $558 $518 at Sony (digital, with refurb DualSense) $608 $568 at Sony (disc, with refurb DualSense) One thing to note about the refurbished consoles is that they include a 1TB SSD. Sony’s digital edition console at stores is currently equipped with 825GB of built-in storage (the disc edition still has 1TB), so it’s nice that this version includes a little extra space for games. Like all PlayStation 5 consoles, these support PCIe 4.0 M.2 SSDs equipped with heatsinks for extra storage, though like RAM, those are pretty pricey at the moment. ]]>
-
-### Delta can turn the iPhone Duo into your favorite folding handheld
-2026-10-22T14:30:00-04:00 — https://www.theverge.com/games/1016524/delta-2-version-ios-duo-gaming-emulator-update
-
-The Duo has a Nintendo DS-like shape anyway, so Delta 2.0 is running with it. | Image: Riley Testut The Delta gaming emulator has been upgraded with a plethora of new goodies and support updates, which includes optimizing it for Apple's iPhone Duo. Delta 2.0 also introduces Sega Genesis games, animated controller skins, custom Pok&eacute;mon DLC experiences, and a new UI that was built around supporting Liquid Glass. Adding support for the iPhone Duo is an obvious standout here - if you looked at Apple's flagship foldable and wondered how well it could emulate Nintendo DS games , this update was made with you in mind. Delta app creator Riley Testut told The Verge that Delta 2.0 optimizes controller skins for "every pose in both portrait and lands … Read the full story at The Verge. ]]>
-
-### In Meta’s version of the future, I’ll have my Muse call your Muse
-2026-10-22T14:15:00-04:00 — https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network
-
-Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping for us, working for us, talking to other people's AI agents for us. Are humans ready for this very specific and unrelenting vision of a life in which we communicate primarily through bot proxies? Actually, don't answer that. The more urgent question coming off Meta's quarterly earnings call Wednesday night is more likely to be: "Is he?" Zuckerberg is staking Meta's future on Muse, the personal AI agent it released to the general public last month. It's early days, but Zuckerberg told investors on Wednesday's call that he s … Read the full story at The Verge. ]]>
-
-### Mass Effect 5 trailer leaks following BioWare shutdown
-2026-10-22T14:14:24-04:00 — https://www.theverge.com/games/1016932/mass-effect-5-universe-trailer-leak-bioware-ea
-
-Yesterday, EA shut down BioWare and canceled the studio's new Mass Effect game in development, but a trailer apparently representing the game was published on Reddit today . The trailer features "in-engine footage" and uses "pre-production assets," according to a message at the beginning of the video. The video focuses on an ex-soldier in a conversation with a mysterious Asari character that sidles up to him at a bar, including a flashback to a fight that looks like modern-day version of the gameplay from the original trilogy. It all feels very Mass Effect , with humans and aliens species mingling together, cuts to brief action sequences, and … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### The original Apple iPod debuted 25 years ago today
+Fri, 23 Oct 2026 09:20:00 +0000 — https://www.tomshardware.com/tech-industry/the-original-apple-ipod-debuted-25-years-ago-today-steve-jobs-usd399-device-fit-1-000-songs-into-a-package-the-size-of-a-deck-of-cards-with-5-gigabytes-of-storage
+
+On this day in 2001, Apple CEO Steve Jobs unveiled the original iPod. He began the presentation by teasing “a breakthrough digital device that’s not a Mac.” Ultimately, the iPod that was revealed that day became a pocket-sized digital music player phenomenon, and would be many gadget fans' favorite always-carry device before smartphones matured enough to make such things redundant. The key claim iPod launched with was that it could put your entire music library in your pocket for $399. In October 2001, when the iPod launched, Steve Jobs had successfully steered Apple beyond the beige into the Mac OS X era, with iBooks and iMacs well established. A revival of the Cupertino company's fortunes was well underway, with these iDevices doing well among consumers – at a difficult time, not long after the dot-com bubble burst. Jobs predicted that the “Mac could become the center of your digital lifestyle.” It would do so as a hub uniting digital cameras, digital camcorders, DVD players – and the portable music player. Apple decided to go down this avenue as everyone loves music and it’s a huge target market, without a market leader, reasoned the CEO. Small companies like Creative and Sonic Blue, and the much larger Sony, already had portable digital music players, acknowledged Jobs. However, “none of them has really found the recipe yet, for digital music,” he told the crowd at the iPod unveiling. At the time of Apple’s iPod announcement, there were four mainstream portable digital mu
 
 ### GPUs from stolen $470,000 Nvidia RTX 5090 shipment at Brazil airport appear for sale online, identified by serial numbers
 Thu, 22 Oct 2026 16:18:47 +0000 — https://www.tomshardware.com/pc-components/gpus/gpus-from-nvidia-rtx-5090-stolen-usd470-000-shipment-from-brazil-airport-appear-for-sale-online-identified-by-serial-numbers-three-employees-identified-by-police-helped-steal-equipment
@@ -171,12 +176,17 @@ Thu, 22 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/s
 
 In a world where SSDs with up to 256TB capacity are about to enter the scene to compete against hard disk drives that store over 40TB, magnetic tape storage may seem archaic. However, the 25-year-old Linear Tape-Open (LTO) format continues to evolve at a rather impressive pace. The current LTO-10 generation stores up to 40TB of uncompressed data per cartridge, while HPE, IBM, and Quantum — the companies behind the LTO Program — now envision LTO-14 cartridges with up to 365TB of native capacity. But capacity is not the only advantage of LTO. In fact, the consortium has deliberately slowed its capacity roadmap in a bid to prioritize reliability, cost per terabyte, and manageable backup and recovery times over the previous goal of doubling capacity with every generation. LTO began in 2000 with the LTO-1 format, which stored just 100GB of data natively and transferred it at 20 MB/s. Since then, capacity increased to 200GB with LTO-2, 400GB with LTO-3, 800GB with LTO-4, 1.5TB with LTO-5, 2.5TB with LTO-6, 6TB with LTO-7, 12TB with LTO-8, and 18TB with LTO-9. The original LTO-10 media introduced in 2025 increased native capacity to 30TB, whereas an extended-length LTO-10 cartridge announced later increased it further to 40TB. LTO cartridge capacity has increased by a factor of 400 in about 25 years without changing the form-factor itself. For comparison, the capacity of 3.5-inch hard drives increased by roughly 585 times over the same period, from around 75GB in 2000 to as much as 
 
-### Best Buy has slashed $950 off this gorgeous Alienware 16X Aurora gaming laptop with OLED display
-Thu, 22 Oct 2026 10:59:58 +0000 — https://www.tomshardware.com/pc-components/ssds/best-buy-has-slashed-usd950-off-this-gorgeous-alienware-16x-aurora-gaming-laptop-with-oled-display-33-percent-price-reduction-on-arrow-lake-laptop-with-rtx-5070
-
-There are a host of great laptop deals at Best Buy at the moment, but one of my favorites today is this fantastic $950 saving on an RTX 5070-powered Alienware 16X Aurora gaming laptop with OLED display for $1,949.99 . A significant drop in price from the original $2,899.99 list price. A great choice for a gaming laptop that also doubles as a competent computer for work and studying. The combination of powerful graphics, CPU, and gorgeous display will bring your games and media to life. ● Grab this SSD deal at Best Buy The Alienware 16X Aurora is a premium gaming laptop with a Core Ultra 9 290HX processor, a high-performance CPU featuring 24 cores and a boost clock speed of up to 5.5GHz. This is one of Intel's top laptop processors and an excellent gaming CPU. For the graphics, this model of the 16X Aurora uses Nvidia's GeForce RTX 5070 Laptop GPU, which is an excellent choice not only for powering your games to life, but also for getting the most out of the Aurora’s crisp 16-inch OLED 2560x1600-pixel display. Having an OLED screen means the 16X Aurora will have an insanely low gray-to-gray response time of just 0.03ms, excellent for super smooth motion when gaming, plus the display sports a rapid refresh rate of 240Hz and a maximum screen brightness of 500 nits. Oh, and of course, amazing contrast, inky blacks, and eye-popping color representation. Finishing up on what major components are inside this model of the Alienware 16X Aurora, we have 16GB of DDR5-5600 MT/s memory an
-
 ## Phoronix
+
+### Linux 7.4 Workqueue Changes Bring A "10 To 100 Times Faster" Optimization
+Thu, 22 Oct 2026 20:38:20 -0400 — https://www.phoronix.com/news/Linux-7.4-Workqueue
+
+Adding to all the exciting performance optimizations and other improvements for Linux 7.4 is an exciting workqueue improvement. It's not too often getting to talk about "10 to 100 times faster" software improvements...
+
+### Fedora 45 Hits A Second NO-GO: Not Releasing Until November
+Thu, 22 Oct 2026 17:20:50 -0400 — https://www.phoronix.com/news/Fedora-45-Second-NO-GO
+
+Fedora 45 wasn't released this week as its ideal early release target due to not having a release candidate build in time for last week's Go/No-Go meeting. At today's Go/No-Go meeting, Fedora 45 was delayed by at least one more week due to open blocker bugs...
 
 ### AI Helping To Improve Linux s AMD Zen CPU Microarchitecture Detection
 Thu, 22 Oct 2026 15:21:54 -0400 — https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection
@@ -228,17 +238,42 @@ Wed, 21 Oct 2026 20:52:38 -0400 — https://www.phoronix.com/news/Linux-7.4-Kbui
 
 There are notable patches by Arm engineer Lorenzo Stoakes that have begun landing in Linux 7.4 for speeding up the Linux kernel build process. This work can provide some significant reductions in the Linux kernel build time...
 
-### Linus Torvalds Eliminates Unsafe __get_user() & __put_user() Functions In Linux 7.4
-Wed, 21 Oct 2026 17:11:58 -0400 — https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux
-
-Linus Torvalds continues with his recent uptick in kernel patches himself, assisted in part by AI with Claude Code. Merged today was removing the historical and unsafe __get_user() and __put_user() kernel functions...
-
-### Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 & RISC-V
-Wed, 21 Oct 2026 16:11:03 -0400 — https://www.phoronix.com/news/Linux-7.4-Crypto-Library
-
-The latest Linux kernel cryptographic subsystem performance work carried out by Google engineer Eric Biggers is migrating x86/x86_64 and RISC-V optimized implementations of different AES modes into the lib/crypto kernel crypto library to enjoy faster performance there...
-
 ## The Register
+
+### UK threatens subsea cable saboteurs with 14 years behind bars
+Fri, 23 Oct 2026 09:29:00 +0000 — https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794
+
+Britain is threatening subsea cable saboteurs with up to 14 years in prison and unlimited fines, having apparently decided that Victorian-era laws aren't quite up to the job of keeping Russian submarines away from critical infrastructure. The government on Thursday set out plans to overhaul legislation dating back to 1885 and introduce tougher penalties for damaging the underwater cables and pipelines that keep Britain's internet and energy supplies running. According to Whitehall, subsea cables carry around 99 percent of the UK's international data traffic, while underwater pipelines account for 74 percent of its gas supply. Yet much of this infrastructure is protected by laws written when the telegraph was cutting-edge technology. The Submarine Telegraph Act 1885 originally imposed a £100 maximum fine for damaging a cable through culpable negligence. That might have been a reasonable deterrent back then, but it's unlikely to give today's would-be saboteurs much pause. Under the proposals, those who intentionally damage critical subsea energy or telecoms infrastructure could face up to 14 years behind bars. The proposals also set tougher penalties, including unlimited fines, for reckless or negligent damage. Subsea telecoms operators would face new legal duties to identify and manage security risks, while ministers would gain powers to direct companies and cable repair providers to take action where necessary and proportionate to protect national security. The government als
+
+### Beware the claw: Do you want to win the bunny or reboot Android?
+Fri, 23 Oct 2026 08:30:00 +0000 — https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172
+
+Today's victim of the bork fairy is a claw machine that even Android seems to have rejected for its alleged unfairness. And Google, as we all know, is all about fairness. Eagle-eyed Register reader Scott spotted the stricken machine in an arcade adjacent to a roller rink, a place our reader visited with a friend and described as "something my currently bruised body reminds me I hadn't done for about 20 years." We assume they were talking about roller-skating, and not the exertions of accompanying their pal. The machine itself is a recent iteration of the infamous claw machine, which has spent a century emptying players' pockets in exchange for frustration and the very occasional reward of tat. Infamously, the devices are sometimes rigged so the claw's strength varies between turns, and in several parts of the world, gambling laws cover the machines. However, the only gambling to be done here is on whether or not Android will boot. Like so many players in the past, the machine has lost this bet, and an Android Recovery Console is on show. We're not sure who lennie022 is – perhaps a user or perhaps some corporate account – but the words "release-keys" probably don't belong on top of the device. They're unlikely to entice any everyday players to part with cash. The usual recovery menu is hidden thanks to the dimensions of the screen. If something like this comes up on a mobile device, the volume up and down buttons tend to be used for navigation. In this case, the joystick is pr
+
+### Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation
+Fri, 23 Oct 2026 07:29:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912
+
+The Agentic AI Foundation (AAIF) has been entrusted with stewardship of four additional AI projects in the hope of broadening the set of vendor-neutral tools for making AI agents. The AAIF was founded in December 2025 under the auspices of the Linux Foundation as a vendor-neutral organization for the benefit of AI companies more interested in riding a tide that lifts all boats than making waves. It launched with three projects under its supervision: Model Context Protocol (MCP), goose, and AGENTS.md. With the four new adoptees, there are now 10 projects sheltering under the AAIF's wings. The donor organizations – Alibaba, Anthropic, Hugging Face, and OpenAI – have handed over control of OpenSandbox, Agent Skills, OpenEnv, and Open Responses respectively. Each of these projects provides functions that developers of AI agents – which typically combine models, tools, and a task loop – may find helpful. And having a more or less agreed-upon blueprint for implementation tends to make deployment easier and more predictable, at least until your AI agent unexpectedly ransacks some third-party organization. OpenSandbox provides a way to constrain or sandbox the capabilities of AI agents using various client SDKs, tools, protocols, lifecycle hooks, container runtimes, and assorted in-sandbox execution components. Agent Skills outlines a format for text descriptions that guide AI agents through specified tasks more effectively. It provides context that helps agents accomplish their goal
+
+### Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise
+Fri, 23 Oct 2026 05:26:00 +0000 — https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375
+
+Energy can be hard to find on Friday mornings, which is why The Register uses them to offer a fresh instalment of On Call – the reader-contributed column that shares your hopefully empowering tech support stories. This week, meet a reader we’ll Regomize as “Lachlan,” who told us he once did tech support for a senior exec who had a side hustle writing essays for Japanese university students attending UK universities. The exec asked Lachlan for help diagnosing a sudden inability to send or receive email, an obvious hindrance to the side hustle. This story took place in the dialup age, so Lachlan sensibly assumed that the exec’s modem was misbehaving. “I checked the network settings, nothing wrong there,” he told On Call. Next, he checked the cables, and if the line the modem used had a dial tone. Again, all was well. “At this point I decided to make sure the device was correctly installed in Windows Device Manager,” Lachlan wrote. “I had a lot of experience in the dark arts of serial communications and there was an option in the advanced settings in Device Manager to send a series of low level AT commands to the modem, which would return responses.” He ran the tests, and Windows reported that the modem was in the pink of health. With all that done, Lachlan decided the time had come to replace the modem. “When I opened the PC, I got a faint whiff of that unmistakable scorched PCB smell,” he wrote. “By looking at the modem you couldn’t normally see if any of the chips were faulty
+
+### PHP2Shell exploit bypasses protections designed to stop remote code execution
+Thu, 22 Oct 2026 20:37:52 +0000 — https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883
+
+Researchers have developed a new exploit that shows how even Address Space Layout Randomization (ASLR) on an x86-64 server cannot stop the PHP2Shell vulnerability. VulnCheck, which made it available to only the company’s Initial Access Intelligence customers, also warned that threat actors are using AI to find even more ways to attack. The team told us that it’s a “significant advance” because up until now, ASLR has been a major barrier to exploiting PHP2Shell on real-world servers. They don't expect that to hold, though. “Adversaries are clearly spending time (and tokens) on this bug,” Spencer McIntyre, director of exploit development at VulnCheck, told The Register . The PHP2Shell mess grew even bigger on Thursday amid reports of attackers abusing the security flaws days before they were disclosed and UK government websites proactively going dark. Vulncheck's exploit targets CVE-2026-109618 , a critical, out-of-memory corruption bug that leads to remote code execution (RCE) in PHP, and part of the PHP2Shell pair alongside CVE-2026-109619 . The PHP Foundation officially disclosed and issued patches for both on Wednesday. Overnight, VulnCheck researchers developed what they believe is the first known exploit to achieve remote code execution on ASLR-enabled x86-64 systems with PHP's recommended production configuration. ASLR is a built-in defense against memory-corruption bugs – like PHP2Shell – that randomly arranges memory locations of a program's key data areas. By scrambli
+
+### Human receives AI-designed virus for the first time
+Thu, 22 Oct 2026 20:31:39 +0000 — https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874
+
+Researchers have administered AI-designed, bacteria-targeting viruses to a person in what they claim is a first, but don’t press them for results: They’re not ready to say how it went quite yet. Radical Numerics, a San Francisco-based AI lab developing AI models for bioscience, announced the treatment this week, claiming it marks the first time a cocktail containing AI-designed bacteriophages has been administered to a human patient under a compassionate-use arrangement. These aren’t just any viruses, mind you: Omnii-1, the AI model publicly unveiled by Radical Numerics this week, was used to design viable bacteriophages, a type of virus that specifically infects bacteria. Therapeutic use of phages isn’t novel in and of itself, with the bacteria-targeting viruses being sought as an alternative to combat the rise of antimicrobial-resistant bacteria that are increasingly rendering antibiotics ineffective . Phages have a number of potential advantages over antibiotics, most notably their ability to target specific bacterial strains – a big plus when it comes to sparing beneficial gut bacteria that can be affected by broad-spectrum antibiotics. AI has already shown promise in speeding up phage engineering, as we reported last year when a group of researchers from Stanford University and the Arc Institute created AI-designed phages that targeted E. coli bacteria. The phages, designed using the genetic sequence of a well-studied natural E. coli phage, included several variants that
+
+### Backdoored robot tries its hand at finger chopping and cat cooking
+Thu, 22 Oct 2026 19:57:59 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870
+
+Researchers affiliated with Binghamton University in New York have demonstrated the dangers of poisoned LLMs in physical AI by getting them to generate instructions for robots to cut a model hand or put a cat on a stove in a simulation. Fortunately, they also have a potential defense. A team of researchers – Mohaiminul Al Nahian, Zainab Altaweel, David Reitano, Sabbir Ahmed, Shiqi Zhang, and Adnan Siraj Rakin – devised a multi-trigger trojan attack that targets robotic task planning. The technique, dubbed MuTRAP , is described in two papers presented at the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems. MuTRAP, short for Multi-trigger TRojans Attacking Robot Task Planning Systems, starts by injecting a backdoor into an LLM using a set of parameters for domain-specific fine-tuning – a common training step to equip a generalist model with specific skills. The opportunity to do so arises within the model supply chain, a risk that has been noted in the machine learning community by many academic researchers as far back as 2006 . "Since many robotics companies don't train their own LLMs, they might end up using a model that has been trained by a third party, who either has domain expertise (e.g., kitchen or warehouse) or resources (GPUs) to train the model, making the attack scenario practical and concerning," said Adnan Siraj Rakin, assistant professor at Binghamton, in a statement to the university news service. "It should raise awareness in the AI and
 
 ### Max-severity GitLab bug allows remote code execution over 12 years of releases
 Thu, 22 Oct 2026 17:36:30 +0000 — https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854
@@ -265,42 +300,22 @@ Thu, 22 Oct 2026 15:00:00 +0000 — https://www.theregister.com/security/2026/10
 
 In a world full of cyber risk, account takeover has emerged as one of the most insidious of all threats. If an attacker can successfully compromise a legitimate email account, they are then able to pose as a trusted individual or organization without triggering any warnings. Traditional email security will see nothing wrong. From there the threat actor can pick their moment to cause havoc with objectives that range from stealing money, expropriating sensitive data and propagating catastrophic malware. Serious financial loss and a damaged corporate reputation are commonplace outcomes. The typical account takeover lifecycle starts with the bad guys obtaining credentials, usually through the medium of phishing. Generative AI (GenAI) has made it easy for an attacker to trick an unwary individual into giving away login data, perhaps by posing as a colleague or other trusted party or by encouraging them to enter confidential information on a fake login page. You might expect, once a legitimate identity has been successfully compromised, that all hell would immediately break loose. These days the typical account takeover artist is more stealthy and sinister than that, in no rush to act at this early stage since no alarm bells have been triggered. Most will take their time to test out and verify their stolen login data, and see where it might take them. “Conventionally attackers would take over an account and immediately start firing off spam and phishing,” says Dave Baggett, SVP Cyb
 
-### Singapore boffins weave a GUI into fabric, and it's machine washable too
-Thu, 22 Oct 2026 14:09:01 +0000 — https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785
-
-Researchers in Singapore have developed an electronic fabric they claim can be woven into garments to create a new form of graphical user interface (GUI), for people who find retrieving a device from their pocket too much effort. The development could lead - at some point - to a "future in which clothing functions as a pervasive, multimodal human–computer interface," according to the study published in peer-reviewed science journal Nature this week. The paper shows someone interacting with computing devices using the sleeve of a wool sweater (no jokes about the Windows ugly sweater please, this is serious). The researchers, led by Singapore National University research engineer Fu Heng, claim this is a big leap forward. “This fiber-centric approach shifts wearable electronics from flexible panels toward truly textile-native architectures, laying the groundwork for fabrics that visualize, sense, communicate and compute as naturally as the garments they inhabit,” the paper says. The researchers claim to have developed a scalable process to make millimeter-thick fibers. Using lasers to strip the insulation from specific spots on the thin copper wires, they attached light-emitting chips to the exposed sections, creating electrical connections to the chips. Thousands of chips were connected to the wires with extreme precision using this process. The fibers were then fed into a transparent plastic tube, and made pressure-sensitive by adding two strips of a compressible, conductive 
-
-### Nvidia's Huang: Don't mention the AI-pocalypse
-Thu, 22 Oct 2026 13:01:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743
-
-Jensen Huang wants the world to stop fretting about AI and start building with it. At Nvidia's GTC event in Berlin, he dismissed predictions of human extinction, defended AI's job prospects, and pitched a $4,000 computer as the family robot. The Nvidia chief's relentless optimism occasionally gave way to irritation during a question-and-answer session. "If we don't describe a future worthy to be part of, then we're not going to lead people there," he said. "We have to describe a future worthy of creating. We have to describe a future not of fear, but of optimism. Who wants to create a future that's worse than today's? We don't have to work hard to create a future worse than today. We just let it happen, isn't that right?" Huang said that we still have to ask the hard questions about safety and jobs, but "it's important, of course, that we don't make it up. It is not helpful in describing an optimistic future when you say that it will be the end of the human civilization. First of all, it's not true. It's made up. I know it gets headlines," he said, dismissing such stories as clickbait. When asked if AI really makes people more productive, he explained that there are two ways to think about that: either it helps you do the same old thing more efficiently, or it helps you do things you couldn't before. "Most of engineering, most of design, has to do with exploring options. Try, experiment, try and experiment, iterate, experiment, iterate," he said. "What's the best combination?
-
-### Hackers pile on PHP2Shell as AWS reveals attacks began before disclosure
-Thu, 22 Oct 2026 12:15:00 +0000 — https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749
-
-Attackers are hammering servers with millions of attempts to exploit the critical PHP2Shell vulnerabilities , with Amazon revealing that someone was already going after the flaws four days before they were publicly disclosed. Cloudflare says it has recorded a staggering increase in attacks targeting the two vulnerabilities, tracked as CVE-2026-109618 and CVE-2026-109619, since details began circulating earlier this week. According to Cloudflare CEO Matthew Prince , the company spotted thousands of exploitation attempts in the 10 hours before the vulnerabilities were publicly announced. That figure jumped to tens of thousands within 45 minutes of disclosure, hundreds of thousands within two hours, and has since climbed into the millions. And the attackers aren't simply recycling the same exploit. Cloudflare said it has seen miscreants tweaking their payloads in an attempt to sneak past its web application firewall (WAF) protections, apparently using feedback from blocked requests to work out what might get through. Security outfit Hadrian also sounded the alarm on October 21, reporting that PHP2Shell was being "exploited in the wild at scale." "Most of the attacks we observe abuse PHP's session upload-progress path, and we expect more exploit paths to appear before and after the fix ships," the company warned. More worrying, some attackers appear to have started before the vulnerabilities were even public knowledge. Amazon Threat Intelligence says it detected an attempt to exp
-
-### Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants
-Thu, 22 Oct 2026 11:28:00 +0000 — https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687
-
-China-aligned attackers used AI agents and compromised ConnectWise application credentials to target more than 2,250 Microsoft 365 tenants, Microsoft says. The Windows giant revealed this week that the attackers, tracked as Storm-0940, used an open source AI penetration-testing tool called ARTEX to automate attacks against Microsoft 365 environments. In some cases, they went from picking a target to gaining privileged cloud access in less than three hours. The findings shed more light on the ConnectWise security incident , which saw the IT management vendor pull the plug on its Cloud Backup, SaaS Security, and Cloud Management services after discovering unauthorized access to application identities. ConnectWise didn't initially identify who was responsible, but Microsoft has now pointed the finger at Storm-0940, a China-linked espionage crew that's been operating since at least 2021. The group has traditionally relied on the usual tricks, including password spraying and exploiting internet-facing applications, but this time it used AI to do some of the heavy lifting. ARTEX is an open source penetration-testing framework written in Go that uses AI agents to automate everything from reconnaissance and vulnerability discovery to credential attacks and data theft. Microsoft says Storm-0940 began using it as early as September to target organizations worldwide, including government agencies, defense contractors, banks, manufacturers, and tech firms. Between October 10 and 14, the 
-
-### Veteran ESA probe rolls out welcome mat for Japan's Phobos mission
-Thu, 22 Oct 2026 10:45:27 +0000 — https://www.theregister.com/science/2026/10/22/veteran-esa-probe-rolls-out-welcome-mat-for-japans-phobos-mission/5304684
-
-Japan's mission to the Martian moon Phobos launched this week, with a veteran European probe expected to be waiting when it arrives. JAXA, Japan's space agency, confirmed that the Martian Moons eXploration (MMX) spacecraft launched aboard an H3 rocket on October 19 at 19:41 UTC – October 20 in Japan. On October 21, it said that initial critical operations, including solar array deployment, were complete. Equipment checks will follow as the spacecraft prepares for its outbound cruise. The probe is due to reach Mars in 2027, deploy the Idefix rover on Phobos, and attempt one or two landings on the moon itself. The rover is named after the dog from the Asterix comics. Scientists plan to collect about 10 g of material from Phobos and send it to Earth, with a return planned for 2031. The European Space Agency (ESA) is supporting the trip with Mars Express (MEX), which has orbited Mars since 2003. A former team member told The Register that plans include joint observations and imaging of MMX's landing site. MEX's latest mission extension runs to 2029, covering MMX's expected arrival. The former team member described it as definitely the last – before adding that "the first 'last ever extension' was in about 2007." Discussions about another "last ever extension" could begin in 2028 or 2029, with support for MMX and the Rosalind Franklin rover among the potential reasons to keep MEX going. Funding and scientific returns would determine the outcome. A software update announced in May 
-
-### IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall
-Thu, 22 Oct 2026 10:00:00 +0000 — https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592
-
-Welcome back to PWNED, the column where we talk about companies and organizations that leave the doors wide open to attackers. This week’s sad story involves a major American pharmacy chain that couldn’t fill a prescription for password security. Have a story about someone leaving a gaping hole in their network? Share it with us at pwned@sitpub.com . Anonymity is available upon request. Our tale comes courtesy of red team and pen testing specialist Dahvid Schloss, who currently serves as COO of Suzu Labs , a cybersecurity company that boasts “we break your systems before adversaries do.” Over a career spanning more than 15 years, Schloss has assessed the security of numerous businesses, including a large US pharmacy retailer that he asked us not to name. He wasn’t asked to break in, just to do an audit on all of the org’s corporate switches, routers, and firewalls. “So, I come across this firewall,” Schloss said. “That is an edge firewall, meaning this is what touches the internet. This part will add its enable password, which is the term Cisco uses for administrator. It had the enable password as 'password.' Just p-a-s-s-w-o-r-d.” As Schloss noted, the enable command on Cisco devices allows the user to gain administrative rights to the firewall, controlling network traffic. If someone connected to that firewall, either via SSH or through an exploit, and got normal user privileges, they could then elevate those privileges to admin and do something like shut off all traffic fr
-
-### UK government hasn't the foggiest how much it's spending on digital transformation
-Thu, 22 Oct 2026 09:15:00 +0000 — https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662
-
-The UK government says its finance systems cannot produce consistent annual figures showing how much departments and public bodies spend on digital transformation. The Science and Technology Committee's June report warned that spending was fragmented and the government lacked a clear plan for a digital state. The UK public sector spends more than £26 billion annually on digital technology, but that broad estimate does not provide a comparable departmental breakdown. Responding to the committee, the government agreed with the "intent to publish annual data on digital and data-driven spending" but said it did not "believe this is currently practicable." Existing finance systems could not "provide consistent, reliable and comparable data across departments." "The government is open to this as a direction of travel and will work with HM Treasury to consider how this could be developed over time," the response said. Committee chair Dame Chi Onwurah, who is due to address Parliament on Thirsday, said: "There's no shortage of hype about how technology can improve public services and reduce costs. Yet, frustratingly, the government cannot provide a clear picture of how much is being spent on digital transformation across departments and public bodies. "At a time when ministers are asking taxpayers to fund significant investment in technology, it's concerning that they cannot show where the money is going or how value for money is being measured. This must be addressed as a matter of 
-
 ## Engadget
+
+### A startup called Warhound is genetically engineering dogs for the military
+Fri, 23 Oct 2026 09:01:01 +0000 — https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/
+
+Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.
+
+### A new subscription service promises an evolving collection of 'bold and bizarre' indie games
+Thu, 22 Oct 2026 20:57:17 +0000 — https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/
+
+Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.
+
+### Spotify's Family plan QR code could cost you Premium access
+Thu, 22 Oct 2026 20:19:19 +0000 — https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/
+
+Spotify is trying to make some Premium Family members prove they live at the same address.
 
 ### Rhode Island sues Meta over its approach to scam ads
 Thu, 22 Oct 2026 20:05:26 +0000 — https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/
@@ -347,22 +362,47 @@ Thu, 22 Oct 2026 16:22:50 +0000 — https://www.engadget.com/2294319/sundar-pich
 
 President Trump claimed that the Google CEO refused to rename the Atlantic Ocean in Maps.
 
-### PC shipments are in the toilet, plunging over 20 percent from last year
-Thu, 22 Oct 2026 15:56:26 +0000 — https://www.engadget.com/2294257/pc-shipments-are-in-the-toilet-plunging-over-20-percent-from-last-year/
-
-This could reach 27 percent throughout the end of 2026 as prices continue to rise.
-
-### iPhone Duo's next-gen prototypes are trying to cram in Face ID
-Thu, 22 Oct 2026 14:06:33 +0000 — https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/
-
-Apple's first foldable phone opted for a feature it replaced on most iPhone models nearly 10 years ago.
-
-### Insta360 Mic review: A midrange mic kit that's anything but boring
-Thu, 22 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2292288/insta360-mic-review/
-
-In an ocean of boring microphones, Insta360's Mic adds a (customizable) pop of color.
-
 ## TechCrunch
+
+### Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback
+Fri, 23 Oct 2026 04:22:57 +0000 — https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
+
+Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
+
+### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia
+Fri, 23 Oct 2026 04:00:00 +0000 — https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
+
+inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
+
+### Left alone with nothing to do, AI agents started playing
+Fri, 23 Oct 2026 00:45:37 +0000 — https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
+
+MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
+
+### Mark Zuckerberg s creative plan to pay California’s proposed billionaire tax without losing control of Meta
+Thu, 22 Oct 2026 23:50:41 +0000 — https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/
+
+A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
+
+### Warhound raises $200M to engineer war dogs and arm them with Anduril gear
+Thu, 22 Oct 2026 23:15:00 +0000 — https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
+
+Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
+
+### As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier
+Thu, 22 Oct 2026 22:34:54 +0000 — https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/
+
+The digital asset unit, helmed by Chris Dixon, broadens its scope.
+
+### OpenAI working on new $30B raise at $1.25T valuation ahead of IPO
+Thu, 22 Oct 2026 22:08:24 +0000 — https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/
+
+Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.
+
+### Rivian buys world model startup to accelerate self-driving ambitions
+Thu, 22 Oct 2026 21:05:05 +0000 — https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/
+
+Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.
 
 ### Arc browser sunsets December 22 as The Browser Company doubles down on Dia
 Thu, 22 Oct 2026 20:01:51 +0000 — https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/
@@ -372,7 +412,7 @@ Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite
 ### The secret to fast startup growth isn t early sales, top names in tech say
 Thu, 22 Oct 2026 20:00:00 +0000 — https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/
 
-At this year’s Disrupt, Lovable GTM lead Luke Arno, Polska’s Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
+At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.
 
 ### 1Password launches a way for AI agents to log in on your behalf without seeing your password
 Thu, 22 Oct 2026 19:07:09 +0000 — https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/
@@ -383,44 +423,4 @@ The new feature allows agents to log into a customer's personal accounts while s
 Thu, 22 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/
 
 Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.
-
-### OpenAI makes its Jev competitor widely available as decision model competition heats up
-Thu, 22 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/
-
-OpenAI is launching its decision model to the world. Can it compete with the original Jev?
-
-### Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’
-Thu, 22 Oct 2026 18:43:53 +0000 — https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/
-
-Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.
-
-### Former OpenAI science lead launches Warp Science to automate wet labs with robots
-Thu, 22 Oct 2026 18:38:47 +0000 — https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/
-
-Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.
-
-### Elon Musk made a $1 billion investment in Skydance, report says
-Thu, 22 Oct 2026 17:36:38 +0000 — https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/
-
-The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.
-
-### Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise
-Thu, 22 Oct 2026 16:47:17 +0000 — https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/
-
-Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.
-
-### TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements
-Thu, 22 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/
-
-Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.
-
-### Uber puts all 30,000 employees on ChatGPT Work
-Thu, 22 Oct 2026 16:00:00 +0000 — https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/
-
-The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.
-
-### Tesla is prepping a Cybercab onslaught
-Thu, 22 Oct 2026 15:44:39 +0000 — https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/
-
-The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.
 

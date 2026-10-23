@@ -1,6 +1,11 @@
-# Games — harvested 2026-10-22T20:17:31.817Z
+# Games — harvested 2026-10-23T09:33:54.077Z
 
 ## Eurogamer
+
+### Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare
+Fri, 23 Oct 2026 09:11:49 +0000 — https://www.eurogamer.net/mass-effect-universe-trailer-leak-real
+
+An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake. Read more
 
 ### Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated
 Thu, 22 Oct 2026 17:00:49 +0000 — https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games
@@ -57,12 +62,12 @@ Wed, 21 Oct 2026 17:55:57 +0000 — https://www.eurogamer.net/bioware-closing-do
 
 After over three decades of iconic RPGs, developer BioWare is closing down and its in-development Mass Effect game is no more. The move comes just months after corporate owner EA was bought out by a group of investment firms for $55 billion. Read more
 
-### First-person Soulslike Valor Mortis is already making a profit after seven days, despite launching against some stiff competition
-Wed, 21 Oct 2026 16:43:42 +0000 — https://www.eurogamer.net/soulslike-valor-mortis-making-profit-seven-days
-
-Developer One More Level is wall-running toward another big success with its recently-released first-person Soulslike, Valor Mortis, which has already broken even after its first week. Read more
-
 ## GamesIndustry.biz
+
+### Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop
+Fri, 23 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop
+
+A new episode of the still-somewhat-irregular GamesIndustry.biz podcast features a fireside chat with Rebecca Lautner, CBO at Landfall Games, recorded at Game Republic New Horizons . In conversation with features editor Lewis Packwood, Lautner says that even though Peak has now sold more than 23 million units, the developer is keen to move on to something else. Read more
 
 ### "It was crushing how hard it was" – The chaotic development of Dispatch, and what AdHoc Studio plans next
 Thu, 22 Oct 2026 16:15:00 +0000 — https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next
@@ -119,16 +124,16 @@ Wed, 21 Oct 2026 11:39:48 +0000 — https://www.gamesindustry.biz/indies-and-ori
 
 Research by Sensor Tower &ndash; done at the request of GamesIndustry.biz &ndash; shows that indies and original IP made up a much higher proportion of the biggest PC and console games of 2026 when compared with 2025. Read more
 
-### Games like Call of Duty and EA Sports FC most at risk of losing players during GTA 6 launch, according to new data
-Wed, 21 Oct 2026 10:53:35 +0000 — https://www.gamesindustry.biz/games-like-call-of-duty-and-ea-sports-fc-most-at-risk-of-losing-players-during-gta-6-launch-according-to-new-data
-
-New data shows that competitive shooters and sports games are most at risk of losing players to Grand Theft Auto 6 during its launch next month. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game
+Thu, 22 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game
+
+"We were making a great game". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN earlier today that a new trailer for the game had been created internally. Read the full article on pushsquare.com
 
 ### Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make
 Thu, 22 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make
@@ -149,11 +154,6 @@ Calls them "the future to maintaining growth and momentum". Saber Interactive's 
 Thu, 22 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/features/is-cyberpunk-2077-patch-2-5-worth-returning-to-night-city-for
 
 The huge Edgerunners 2 update. CD Projekt Red shocked everyone when it announced that a major new Cyberpunk 2077 update would be dropping around the same time as the Edgerunners 2 anime. While I imagine some fans might have expected a small surprise to coincide with the show, the scale of Patch 2.5 is pretty crazy — it's far bigger than it ever needed to be. Read the full article on pushsquare.com
-
-### Mass Effect 5 Trailer Allegedly Leaks Following BioWare Closure
-Thu, 22 Oct 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/10/mass-effect-5-trailer-allegedly-leaks-following-bioware-closure
-
-"We were making a great game". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN earlier today that a new trailer for the game had been created internally. Read the full article on pushsquare.com
 
 ### Sony s Marketing the Hell Out of PS5 Console Exclusive Phantom Blade Zero in China
 Thu, 22 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-marketing-the-hell-out-of-ps5-console-exclusive-phantom-blade-zero-in-china
@@ -192,6 +192,11 @@ On the back of the blackout. Consumers responded to social media’s big PS5 bla
 
 ## Game Developer
 
+### Opinion: Why words matter when we prioritize 'core teams' in game development
+Thu, 22 Oct 2026 20:33:50 GMT — https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs
+
+How we describe game development will inevitably shape our processes.
+
 ### VR pioneer Owlchemy Labs jumps to XR for its next release
 Thu, 22 Oct 2026 14:37:37 GMT — https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release
 
@@ -203,6 +208,21 @@ Wed, 21 Oct 2026 18:57:37 GMT — https://www.gamedeveloper.com/business/ea-clos
 EA is reportedly laying off 400 employees, 50 of whom were the remaining staffers at BioWare.
 
 ## VGC
+
+### Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games
+Fri, 23 Oct 2026 09:15:07 +0000 — https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/
+
+The company brought them on board to work on quests professionally… Source
+
+### Half-Life 3 speculation grows as Valve developer mentions HLX during stage panel
+Fri, 23 Oct 2026 08:44:30 +0000 — https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/
+
+Valve music designer Mike Morasky mentioned 'HLX' during a GameSoundCon panel… Source
+
+### Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto
+Fri, 23 Oct 2026 08:33:27 +0000 — https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/
+
+Mole Mania, Avenging Spirit and Revenge of the ‘Gator are all available next week… Source
 
 ### Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down
 Thu, 22 Oct 2026 18:45:56 +0000 — https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/
@@ -239,22 +259,47 @@ Thu, 22 Oct 2026 12:00:37 +0000 — https://www.videogameschronicle.com/news/dic
 
 New report claims the two EA studios have been tasked with working on a new Battlefront… Source
 
-### Mass Effect TV series still in production despite BioWare closure, as game director writes: At least I can play GTA 6
-Thu, 22 Oct 2026 11:06:04 +0000 — https://www.videogameschronicle.com/news/mass-effect-tv-series-still-in-production-despite-bioware-closure-as-game-director-writes-at-least-i-can-play-gta-6/
-
-Amazon's Mass Effect series is reportedly unaffected by this week's game cancellation… Source
-
-### COD MW4 Campaign: All codes for safes, keypads, and lockboxes
-Thu, 22 Oct 2026 11:00:21 +0000 — https://www.videogameschronicle.com/guide/cod-mw4-campaign-all-codes-for-safes-doors-and-lockboxes/
-
-All codes you need to find optional items in Call of Duty: Modern Warfare 4's Campaign… Source
-
-### Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected
-Thu, 22 Oct 2026 09:45:28 +0000 — https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/
-
-Around 200 passwords were changed as a result of the breach… Source
-
 ## Polygon
+
+### 'Avatar: Seven Havens' Episode 9 Ending Explained: Everything We Learned About the Havens
+Fri, 23 Oct 2026 08:30:18 GMT — https://www.polygon.com/avatar-seven-havens-finally-revealed-more-info-about-the-other-havens/
+
+Yet that’s exactly what Chancellor Kayoko (Jennifer Sun Bell) does at the end of episode 6 when she sends out an emergency radio transmission: “This is Ellora calling any and all Havens,” she says. “We need you.”
+
+### 5 'Solo Leveling' Characters Who Deserved So Much Better
+Fri, 23 Oct 2026 08:05:19 GMT — https://www.polygon.com/5-solo-leveling-characters-who-deserved-better-storylines/
+
+Jin-woo starts out as a weak E-Rank hunter trapped in a seemingly endless struggle to survive. Before long, though, he becomes an unstoppable force. His progression feels steady and earned, and his efforts to uncover the source of his abilities take him through a series of unforgettable fights.
+
+### 27 Years Later, Linus' Final 'Peanuts' Quote Is a Brilliant Comic Strip Callback
+Fri, 23 Oct 2026 08:00:19 GMT — https://www.polygon.com/linus-last-appearance-peanuts/
+
+Charles Schulz's Peanuts , for whatever reason, has one of the more dedicated fan communities on the internet. The Peanuts Fandom wiki is an invaluable resource for anything you might want to know about the strip, from obscure characters to running jokes to the gang’s unofficial cameo appearances in later media like Family Guy . While Peanuts itself has been the subject of broad academic discussion since the end of its original run, its wiki has that dense block of exhaustive well-organized trivia that you only really get from dedicated fans. (They probably ought to get the Peanuts wiki off of Fandom at some point.)
+
+### Anya Taylor-Joy’s breakout movie gave horror a different kind of female lead
+Fri, 23 Oct 2026 07:26:19 GMT — https://www.polygon.com/anya-taylor-joy-the-witch-free-streaming-october-2026/
+
+Anya Taylor-Joy has established herself as one of her era's most versatile actors. At 30, she's built a career across film and television , appearing in franchises like Super Mario and Mad Max , along with winning a Golden Globe for her role in The Queen’s Gambit . Earlier this year, she starred in the Apple TV series Lucky and will also play a major role in the cinematic event that is Dune: Part Three . Taylor-Joy is one of the few modern stars who comfortably fit the movie-star label, and it all began with her career-defining breakout role, which turned the final girl trope on its head — a girl who survives not by fighting, but by giving in.
+
+### 8 Cyberpunk 2077 Replay Ideas to Make Night City Feel Brand New
+Thu, 22 Oct 2026 23:00:19 GMT — https://www.polygon.com/cyberpunk-2077-replay-ideas/
+
+V is running out of time. That’s the premise of Cyberpunk 2077 : a stolen chip is slowly rewriting their mind. The only way out of this particular predicament ushers V through a cast of fixers, rock stars, and corporate killers who all want something from you. And yet, despite those bewildering stakes, there’s a decent chance you spent most of your time in the game clearing gigs, scanning NCPD crime scenes, and wandering Night City’s neon alleys. Then the credits rolled and, within moments, you were back at the character creator.
+
+### 'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For
+Thu, 22 Oct 2026 22:19:07 GMT — https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/
+
+If fans were already sad about BioWare closing down , they're shattered after watching the leaked trailer for Mass Effect Universe . Sure, the trailer was short and a little cheesy — but it could have also signaled a return to form for the stagnant franchise. And at the heart of every good Mass Effect game is a crew of characters that you get to know as the adventure unfolds.
+
+### Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip
+Thu, 22 Oct 2026 21:16:28 GMT — https://www.polygon.com/valve-half-life-3-hlx/
+
+It's been two decades since we last checked in on Gordon Freeman in Half-Life 2: Episode Two , with the promise of a third Half-Life game languishing for an absurdly long time. In the intervening years, Valve has neither confirmed nor denied a third mainline Half-Life game, though the secretive studio is rumored to have canceled at least one attempt to make Half-Life 3 . Surprisingly, there's fresh evidence of a new Half-Life game directly from Valve, though the person revealing that information seemingly didn't intend to.
+
+### 'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe
+Thu, 22 Oct 2026 21:00:19 GMT — https://www.polygon.com/clayface-joker-easter-eggs/
+
+Back in the summer of 2025, Clayface was filming in Liverpool. Photos from the set revealed a reference to another, far more famous Batman villain. One featured a wall with graffiti on it, and among the different tags was one that read “The Jokers.” That led to some speculation about Joker’s presence in the DC Universe ’s Gotham.
 
 ### Everything We Know About the PS6, Sony’s Next-Gen Console
 Thu, 22 Oct 2026 20:12:31 GMT — https://www.polygon.com/ps6-playstation-6-release-date-price/
@@ -266,47 +311,37 @@ Thu, 22 Oct 2026 20:12:23 GMT — https://www.polygon.com/next-xbox-console-rele
 
 The results have been chaotic: a leadership change, mass layoffs, the closure and divestment of several studios. Console exclusivity for first-party was seemingly abandoned, but is now (partially) back on the menu. Game Pass is in flux, with multiple changes in bundling and pricing strategy, and more on the way. Microsoft has finally solved the drought of first-party games that plagued it during the Xbox One era and the first years of the Xbox Series — but, ironically, it seems to have nowhere useful to put all those games.
 
-### 'Avatar: Seven Havens' Producers Provide a Suspicious Answer About the Anomaly
-Thu, 22 Oct 2026 20:01:19 GMT — https://www.polygon.com/avatar-seven-havens-producers-interview-anomaly-vaatu-connection/
-
-Ever since a mysterious diamond-shaped entity rose out of the ground in one of the Avatar: Seven Havens trailers, curious fans have pointed out how much it resembles Vaatu , the spirit of darkness and chaos at the heart of the Avatar franchise ’s cosmology.
-
-### Sid Meier's Civilization games: the oral history
-Thu, 22 Oct 2026 20:00:32 GMT — https://www.polygon.com/civilization-games-oral-history/
-
-Sid Meier (Creator of Civilization, co-founder of MicroProse and Firaxis): I was always playing with toys as a child. I remember spreading my blocks and soldiers and ships over the living room floor until my mom said, “Somebody’s coming over — you gotta clean up!” And I had an interest in history; I read about airplanes and ships, pirates, for example. As I got a little older, I got into board games and strategy games. This was all before computers appeared. When computers appeared, my first computer was the Atari 800. Whoa, I can make my own game s. That was super cool.
-
-### BioWare Deserved Better
-Thu, 22 Oct 2026 19:29:36 GMT — https://www.polygon.com/bioware-farewell-mass-effect-dragon-age-baldurs-gate/
-
-The writing may have been on the wall, but that didn’t make the news any easier to stomach.
-
-### Jenna Ortega's New Sci-Fi Movie Turns Compelling AI Drama Into One Big Joke
-Thu, 22 Oct 2026 19:00:19 GMT — https://www.polygon.com/klara-and-the-sun-review/
-
-Maybe it’s a sign of a more jaded world or a less capable film , but with Klara and the Sun , I found myself wishing for restraint. Don’t make the obvious joke; don’t encourage another weird face-off between actors. A dramatic scene depicting a robot’s devotion to humanity would land better if we could sit with it without a giggle break. But no such luck.
-
-### Lego Confirms Incredible Daft Punk Set for Official Release
-Thu, 22 Oct 2026 18:55:13 GMT — https://www.polygon.com/lego-daft-punk-ideas-set-movie/
-
-Lego is officially teaming up with Daft Punk for new "products, content and brand experiences," the toymaker announced Thursday. While Daft Punk (the musical act) split up in 2021, Daft Punk (the brand and trademark) lives on. As part of a new partnership between The Lego Group and the French electronic music duo, a Daft Punk Lego set originally designed by a fan will be released as an official product. But that's apparently just the start of what the brands have in store.
-
-### You Can Try World of Warcraft: Forever for Free, but There’s a Catch
-Thu, 22 Oct 2026 18:46:09 GMT — https://www.polygon.com/world-of-warcraft-forever-free-stress-test/
-
-The hype surrounding World of Warcraft: Forever is building ahead of its full launch next month, and Blizzard is giving everyone a chance to jump in for free. Just don't expect a smooth ride.
-
-### Forgotten Pokémon Card Collection Goes for $2 Million
-Thu, 22 Oct 2026 17:55:55 GMT — https://www.polygon.com/pokemon-card-forgotten-collection-millionaire-auction/
-
-The Pokémon TCG collector scene has taken off in recent years, with particularly sought-after cards fetching obscene prices . However, despite its reputation as a niche space for hardcore collectors, the latest winner of the Pokémon sweepstakes doesn’t fit the usual profile. A British retiree just became a millionaire after auctioning off his forgotten Pokémon card collection, which had been gathering dust in his attic.
-
-### Blood of Dawnwalker’s Massive Update Is Finally Here and the Full List of Changes Is Wild
-Thu, 22 Oct 2026 17:43:33 GMT — https://www.polygon.com/blood-of-dawnwalker-update-1-1-released-patch-notes/
-
-Just over a month after first revealing that it was working on a substantial post-release patch for The Blood of Dawnwalker , developer Rebel Wolves has released update 1.1. The long-awaited overhaul of the vampire RPG brings new features, system improvements, and the only thing that ever really matters in a video game: the ability to pet animals.
-
 ## PC Gamer
+
+### A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches
+Fri, 23 Oct 2026 09:26:40 +0000 — https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/
+
+If you're an enlightened sort, who has sought out the sunny uplands of a Linux operating system for your gaming rig in these exciting days of almost seamless game compatibility, then you might want to have a think about migrating your OS onto a beta branch for a while. A list of as-yet unpatched Linux kernel vulnerabilities has been sent out to a public mailing list by accident, and some of these issues score as high as 9 on the CVSS security-scare-o-meter. The incident was reported by Phoronix yesterday, where Michael Larabel noted that overnight several new vulnerability reports had gone to a public rather than private security mailing list. The reports had seemingly come from Trend Micro's Zero Day Initiative—an initiative set up to promote extended vulnerability reporting (.pdf warning) with a bug bounty system extending to a group of external researchers. I guess sometimes a group can be too extended. Anyways, the list of vulnerabilities was jumped on by what Phoronix calls Linux's second-in-command, Greg Kroah-Hartman, who maintains the stable branch of the kernel. Kroah-Hartman responded to each of the reports individually asking them to fix their submission process. Mostly because none of these vulnerabilities have been patched on the main kernel yet, and remain open to attack. And those attack vectors have just been made public. Eep. The more positive news, however, is that some of the cases are undergoing testing or are at least queued in beta or '-next' branches. S
+
+### My GOTY is $7 and has 253 Steam reviews
+Thu, 22 Oct 2026 22:29:10 +0000 — https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/
+
+Fast-paced. 3D Platformer. Parkour. First-Person. Racing. Those are the tags affixed to the Steam page for Stuntboost , a game that I've had trouble summing up with a clean label when asked about it. Stuntboost is a skateboarding game that sometimes features a car, a platformer with a speedometer, an ode to those shrunken bedroom maps popularized by early FPS modders. It's also, quite easily, my favorite game of 2026 so far. Yet, Stuntboost could've easily slipped under my radar. It's been out for a month and hasn't made a big splash on Steam—it's rated "Very Positive" with 253 reviews. I only found it through a friend's recommendation, and even then, the art style didn't immediately suggest it was my thing. Stunboost's toy fingerboards and cardboard circuits give the impression of a chill, Hot Wheels-adjacent racer your child could enjoy, but unless that child is accomplished with a mouse and keyboard, that ain't happening. This is the only skateboarding game with a warning that suggests you play with a mouse, and it's immediately obvious why. Once you learn a few techniques, Stuntboost looks like this: And this. And this. Despite its choice of vehicles, this thing's for FPS movement sickos—an exercise in precision camera control and first-person platforming. It's essentially a three button game (jump, crouch, grind) about gaining and maintaining speed. Many of its tracks are non-linear obstacle courses that ask you to find your own way across, and the devs actively encourag
+
+### A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang
+Thu, 22 Oct 2026 22:22:04 +0000 — https://www.pcgamer.com/games/fallout/a-new-fallout-4-mod-adds-an-entire-town-but-more-importantly-it-lets-you-join-a-gang/
+
+There's nothing I like more in a Fallout game then stumbling across some weird little settlement filled with oddball characters. So when I saw that this mod for Fallout 4 added a whole new town called Detour that's built on top of an overpass near Bedford Station, that was an instant download. Better yet, the mod features new quests and over a dozen new characters voiced by real people—no AI was used! But there's something better than that , even. I was delighted to discover that the town of Detour has its own gang . It's a small gang, sure: the overpass Detour is built on isn't particularly big and the town itself is pretty tiny, so there's not a whole lot of room for different factions to spring up. But that doesn't stop the members of the Detour Degens from occupying one little corner of the town where they hang out in matching jackets, smoking cigs, chugging from beer bottles, and looking tough. Sort of. Look, the Detour Degens are no Tunnel Snakes, that's for sure. But they live on an overpass. They're doing their best. There are a few different types of missions you can do to raise your reputation with the town of Detour, and besides helping out the sheriff with bounties and recovering stolen goods for a few of the merchants, you can also get in good with the gang. The two members of the Degens I met told me that the third member, their leader, was locked up and they wanted me to spring him. Yeah, there's a total of three members of the gang. Like I said, they're doing 
+
+### Epic announces game jam where you have to use AI, then walks back the requirement
+Thu, 22 Oct 2026 21:39:30 +0000 — https://www.pcgamer.com/software/ai/epic-announces-game-jam-where-you-have-to-use-ai/
+
+Unreal Engine maker Epic Games is running a game jam in November with thousands of dollars in prizes up for grabs. Contrary to so many art contests which ban the use of AI, participants in Epic's event are highly encouraged to use AI. The theme of the 2026 Epic AI MegaJam will be revealed on November 11, and participating individuals and teams will then have from November 12–15 to produce their games with the help of AI tools. Some will work in-person at a San Francisco event space, and there will be daily livestreams with progress updates. The winners in three categories will each receive $7,500, with smaller cash prizes for second and third place winners, as well as additional categories like "best team." Also on the table are "Development Continuation Grants of up to $50,000 per team." Epic extended the invitation with a reference to The Matrix's 'red pill' scene, presenting red-pilled AI-driven development as an opportunity to "ship awesome games in a weekend," while old-fashioned blue-pilled development would have you "wait months to prototype." The hand offering the red pill features an extra finger, a reference to the common mistake made by AI image generators. The choice follows a recent pattern from Epic of aloofness and defiance directed at AI critics. Last week, the company referred to its new Epic Games Store launcher as "vibe coded," sending the message that it's not ashamed to rely heavily on AI for software development. Vibe your way to 50K. The 2026 Epic AI Me
+
+### Canadian politician calls on government to help BioWare employees buy the studio and run it themselves
+Thu, 22 Oct 2026 21:26:29 +0000 — https://www.pcgamer.com/games/mass-effect/canadian-politician-calls-on-government-to-help-bioware-employees-buy-the-studio-and-run-it-themselves/
+
+The closure of BioWare is a tremendous loss, not just for gamers but for Canada: The Edmonton-based studio was named one of the country's best places to work multiple times over the years, even after the Electronic Arts acquisition that ultimately spelled its doom. It's not entirely surprising, then, that its shutdown caught the attention of one of the country's top politicians, who had some harsh words for Electronic Arts about it. "This is private equity, this is what it does. Buy up businesses, run them into the ground, and rip them apart for short-term profit," Avi Lewis, leader of the New Democratic Party—traditionally Canada's third-largest political party, although it's run aground a bit over the past several years—wrote on social media. "The developers at BioWare know how to run the studio. They know how to make the games we all love. They should be given the first opportunity—and the federal support—to buy it and run it themselves. And if we want to avoid the Mass Effect effect in Canada, we should be keeping private equity out, not welcoming it in." The NDP are a center-left party, although the ol' Overton window has resulted in a more centrist style in recent years—a drift Lewis was elected specifically to correct. He's been fairly forceful on that front, speaking out in support of anti-fascist causes and calling for the nationalization of vital industries in Canada that have been swallowed up by larger international interests. Predictably, that led some of his fol
+
+### Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud
+Thu, 22 Oct 2026 20:16:39 +0000 — https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/
+
+Get ready to start talking about Half-Life 3 again, folks, because it's that time of year: Winter is closing in, The Game Awards are coming, and somebody at Valve said "HLX." HLX, for those who haven't been following along, is a rumored codename for Half-Life 3, or Half-Life something, the near-mythical new Half-Life game that Valve may or may not be working on. It first appeared in early 2024 as part of a data string inside a Counter-Strike 2 update that bore a very strong resemblance to "HLVR," Valve's codename for Half-Life: Alyx—a revelation that had PC Gamer contributor Rick Lane "vibrating with excitement." Sadly for Rick, nothing came of it: No new Half-Life game, 3 or otherwise, followed, and HLX was filed away with all the other myriad Half-Life 3 rumors, hoaxes, and leaks . That is, until Valve composer and audio artist Mike Morasky brought it up completely out of the blue during a GameSoundCon panel on "Valve's Approach to an Open and Flexible Audio Engine." In response to a question about managing voice counts—essentially the maximum number of sounds that can play simultaneously—Morasky touched on some of the variables involved, before mentioning the role played by Valve's HDR system in optimizing audio. "Deadlock has their own version of HDR," Morasky says. "HLX has its own version, and so on and so forth." We have the first mention of HLX by a Valve employee.HLX files today. I'm working as quickly as I can. https://t.co/LhFBNOP1CU October 22, 2026 Adding fuel to
 
 ### How to dual wield in Cyberpunk 2077
 Thu, 22 Oct 2026 19:35:48 +0000 — https://www.pcgamer.com/games/rpg/how-to-dual-wield-in-cyberpunk-2077/
@@ -338,42 +373,17 @@ Thu, 22 Oct 2026 16:56:08 +0000 — https://www.pcgamer.com/games/mass-effect/so
 
 The day after the closure of BioWare and cancellation of the next Mass Effect game, a purported trailer for Mass Effect: Universe has surfaced on Reddit. The authenticity of the trailer is unknown at this point, but at the very least it sure looks legit. Straight to it, here's the video: Mass Effect: Universe Trailer from r/masseffect Man, that looks like Mass Effect—and sounds like it, too. The music is right, and at least two PC Gamer employees are pretty sure that's Liara's actual voice. Shepard's out, but the new guy seems suitably Shepard-like, although I can't help but notice the absence of the N7 logo on his uniform. Maybe the new guy was meant to be a rawer, rougher kind of troubleshooter—more of a housecleaner than a world-saver—or perhaps the ascent to the rank was meant to be part of the character's progression, which would've been cool. There are no obvious AI telltales here, at least none that I can see, and adding to the trailer's "real deal" potential, a redditor claiming to be an EA employee said yesterday that a trailer for the new game had been produced and suggested that it was not as early in the development process as was widely believed. Not long after the trailer came to light, Jason Schreier of Bloomberg said on Bluesky that it is indeed real, and that BioWare had been working on the game until its closure. Whatever the case—and we're still working on verifying its provenance—the trailer is also just the right blend of sexy, violent, and corny: Even if
 
-### I've never seen a laptop cooler come with its own comic strip before, but it still hasn't convinced me this noisy beast is worth $50
-Thu, 22 Oct 2026 16:37:07 +0000 — https://www.pcgamer.com/hardware/cooling/ive-never-seen-a-laptop-cooler-come-with-its-own-comic-strip-before-but-it-still-hasnt-convinced-me-this-noisy-beast-is-worth-usd50/
-
-Budget Win or Recycle Bin? (Image credit: Future) Andy Edser is a man with a mission. It's a mission he didn't sign up for, or even want, but I'm his boss so he has to do what I say. And I'm making him test a ton of different cheap tech I might find on Amazon, AliExpress, TikTok Shop, or down the back of my sofa. Out of nowhere it will appear on his doorstep with no warning, and he has no choice but to use whatever it is like his life depends on it. Because it does. I find myself charmed (and perhaps a little perturbed) by the little black envelope included with this Klim Everest laptop cooling pad. Inside you get a set of shiny stickers, a warranty card, and, err.. a comic strip depicting the fictional process that begins when you order one. "Your product was carefully retrieved from our inventory with sterilized anti-bacterial gloves and placed on a satin silk cushion," the first panel explains. "The party we organized to celebrate your order lasted three days." Okay, that's something I've never seen before. And I'll be honest, the sarcastic comic endears me to the product more than it should. I could do without the last panel, though, which says: "If you feel like it, send us a photo of you (or your pet) and we'll send you a printable version of this comic strip with your photo on it." (Image credit: Future) A step too far, I feel. Anyway, the pad itself is a very sizable unit, designed to cool laptops from 14 to 17.3-inches in size and powered by a USB Type-A port. Atop i
-
-### 'We probably sold millions of boards because of that game, and it was magnificent': 3dfx cofounder gives Quake a 'great deal of credit for our overall success'
-Thu, 22 Oct 2026 16:34:54 +0000 — https://www.pcgamer.com/hardware/graphics-cards/we-probably-sold-millions-of-boards-because-of-that-game-and-it-was-magnificent-3dfx-cofounder-gives-quake-a-great-deal-of-credit-for-our-overall-success/
-
-If you care about retro PC gaming hardware, there's a good chance you've heard of the now-defunct 3dfx. And if you know 3dfx, there's an even better chance you've heard of the 3dfx Voodoo graphics card. Well, according to one of its founders, its success is owed at least in part to the legendary shooter Quake. Ross Smith recently spoke to our friends at Club386 in celebration of the first 3dfx Voodoo turning 30 years old, and he talks about the 'Quake effect'. Effectively, though Quake launched in June 1996, it didn't get GLQuake, which allowed for 3D hardware acceleration, until the start of 1997. John Carmack reportedly reached out to 3dfx, which then worked on an API called MiniGL that could run the game. In its implementation, 3dfx cards could then run the game at a better resolution in greater detail with a wider range of colours. Smith says, "I would certainly give id, John, and Quake a great deal of credit for our overall success—we probably sold millions of boards because of that game, and it was magnificent. That’s the last game I’ve gone all the way to the end on, and I was exhausted after doing that. It was well crafted, beautiful, dark." It makes sense why developers would want to work with the likes of 3dfx because better compatibility makes their games look better. And a developer is more likely to sell a game if it can wow an audience. (Image credit: Fritzchens Fritz) This symbiotic relationship was key to 3dfx development at the start. 3dfx reportedly reached 
-
-### Ex-BioWare boss and Mass Effect director Casey Hudson says he'll 'forever be grateful' for his time at the studio: 'Its legacy will live on'
-Thu, 22 Oct 2026 16:24:11 +0000 — https://www.pcgamer.com/gaming-industry/ex-bioware-boss-and-mass-effect-director-casey-hudson-says-hell-forever-be-grateful-for-his-time-at-the-studio-its-legacy-will-live-on/
-
-Yesterday, EA announced that it's closing BioWare , the studio behind beloved RPG franchises like the original Baldur's Gate games, Star Wars: Knights of the Old Republic, Mass Effect, and Dragon Age. Alongside BioWare's closure—and the cancelling of its next Mass Effect project—EA is reportedly laying off around 400 people in an effort to "align talent and investment" in the wake of its record-breaking private equity buyout . While recent years have brought no shortage of high profile studio closings and game cancellations, the news of BioWare's shuttering has prompted an outpouring of sympathies and frustrations from the fans, fellow developers, and former studio staff. Among those mourners is former BioWare game director and ex-general manager Casey Hudson, who reacted to the news on X to say that BioWare's influence will continue even if the studio itself doesn't. This is sad news on multiple fronts - for those of us who worked there, for our friends and colleagues at BioWare who are impacted, and for fans who were looking forward to the next Mass Effect adventure. I started my career at BioWare and will forever be grateful to the founders, Greg and Ray, for inviting me to join in BioWare's legendary journey. Its legacy will live on through those who were part of it and continue to create games through a passion for unforgettable stories, worlds and characters. October 21, 2026 "This is sad news on multiple fronts—for those of us who worked there, for our friends and coll
-
-### Clive Barker's Hellraiser: Revival review–Rough around the edges
-Thu, 22 Oct 2026 15:50:04 +0000 — https://www.pcgamer.com/games/horror/clive-barkers-hellraiser-revival-review/
-
-Need to know What is it? A singleplayer action horror game based on Clive Barker's Hellraiser. Release date October 8, 2026 Expect to pay $40 / £35 Developer Saber Interactive Publisher Saber Interactive Reviewed on RTX 3070, Core AMD Ryzen 5 5600G, 16GB RAM Multiplayer No Steam Deck Playable Link Steam Bloody hell, that monster with the metal stakes for arms and legs is quick. No matter how fast I run or how well I hide it'll be right where it needs to be, on time and ready to impale me. Don't get me wrong, I actually quite like coming face to face with a de-fleshed monster— especially when it looks this cool—but I'm not a fan of being funneled into the same set pieces over and over again. Clive Barker's Hellraiser: Revival does a lot of things right; its body horror and gore is top tier and some of the puzzles really grew on me towards the end. But its action and horror didn't manage to hit the same highs no matter how many grotesque monsters it threw at me. (Image credit: Saber Interactive) I played Hellraiser on its standard setting—I find it's a good way to get a baseline—and while I didn't have a massive problem with how easy that was, I didn't gel with how inconsistent the fights were and how, ultimately, nothing I did mattered. Take the final fight scene with our aforementioned monster with stakes for arms and legs, otherwise known as Charlotte, for example. After being chased through the cult's HQ and the woods she finally cornered me in a clearing in the woods. I us
-
-### I've been waiting to see a pixel bounce into a perfect corner since childhood and finally this Next Fest Demo delivered it
-Thu, 22 Oct 2026 15:25:08 +0000 — https://www.pcgamer.com/games/adventure/ive-been-waiting-to-see-a-pixel-bounce-into-a-perfect-corner-since-childhood-and-finally-this-next-fest-demo-delivered-it/
-
-It all started in primary school, when the teacher would wheel in an old box of a TV and fumble around for ten minutes trying to get a vaguely educational program onto the screen. These were the moments when my class was perhaps the most engaged, as the DVD player fell asleep and the screensaver kicked in: the logo began bouncing around the screen, ever-avoiding the corner sweet spot. Finally I've been able to experience the sheer joy of watching the logo bounce perfectly off the corner with 10 Million Pixels and its Steam Next Fest demo. (Image credit: Battle Lab) It starts off simple enough: Among the millions of 2D pixels there's a small gap. You launch a ball and watch as it starts bouncing off the walls slowly whittling down the health of each pixel until it's destroyed, giving you a point. You use these points to buy more balls to launch into the ever growing hole. But that's not all, come on now. Scattered around the map are pink gems power-ups and if you manage to carve a path to them and actually get a ball to bounce into it then you can use them to either power up your balls or unlock different kinds. You can make them faster, do more damage, or even allow you to reuse an existing ball. I started out with the basic orange ball, then went on to the toxic green ball that deals escalating tic damage to the pixel block it hits. After that I got the blue ball which is slightly quicker, and then the pink ball which is even speedier. The final ball in the demo is the light
-
-### EA has reportedly put DICE and Respawn to work on a new Star Wars: Battlefront game
-Thu, 22 Oct 2026 15:23:33 +0000 — https://www.pcgamer.com/games/fps/ea-has-reportedly-put-dice-and-respawn-to-work-on-a-new-star-wars-battlefront-game/
-
-In spite of a bloodletting that saw the end of BioWare —a lion in winter, sure, but still a studio with a rich legacy—and around 400 employees laid off, EA seemingly still has videogame irons in the fire. Per a report from Variety , the corporation is working on a new Battlefront game, said to be in the hands of Respawn and DICE. This is not officially confirmed, of course. In its gore-flecked letter to staff and rubber-neckers in the wake of yesterday's BioWare news, EA only said that its future involved "bringing together our Respawn and DICE studios to collaborate on a future project." This, it boasted, would allow it to "balance our resources, and leverage the technology to deliver a shooter portfolio that unlocks growth." Which certainly gets me excited about things to come. Nevertheless, multiple sources tell Variety that the "future project" is, indeed, a third Battlefront. Which is probably a good idea, in all fairness. I don't think either of the previous two modern Battlefront games have quite lit the world on fire—in fact, the second one's lootboxes were so bad it sparked an uproar that made it all the way to the Belgian Gambling Commission —but the notion of a big boisterous shooter filled with Star Wars stuff feels like something that could be pretty cool, right? And hey, Respawn's done a good job on those Star Wars Jedi games to the point that we all now go around referring to them as the 'Star Wars Jedi' games like that's not an absurdly bad name. Meanwhile, DI
-
 ## GameSpot
+
+### After The BioWare Shutdown, Mass Effect Spiritual Successor Exodus Gets A New Look
+Thu, 22 Oct 2026 21:37:24 +0000 — https://www.gamespot.com/articles/after-the-bioware-shutdown-mass-effect-spiritual-successor-exodus-gets-a-new-look/
+
+In the wake of the news that EA has closed down BioWare and ended development on Mass Effect 5 , Archetype Entertainment—co-founded by former BioWare devs Chad Robertson, James Ohlen, and Drew Karpyshyn—has given players a brand-new look at its upcoming title, a very Mass-Effecty sci-fi RPG called Exodus . Specifically, Archetype has revealed a visual rework of its male player-character model. When GameSpot previewed Exodus in late August, the male version of protagonist Jun Aslan could be seen sporting a five-o'-clock shadow and very different bone structure. Now, he has a whole new face. In a new video uploaded to Archetype's YouTube channel today, Archetype general manager Chad Robertson showed off male-Jun's new look, which he explained is a result of player feedback. https://www.youtube.com/watch?v=InxJpKrYQAE "We've seen your conversations and feedback over the last few months around our male Jun character model," Robertson said. "We've been listening, and we take that feedback seriously. We've continued to refine Jun as we've worked on him and the rest of the game." Archetype hasn't yet revealed Jun's female character model, but the devs say her reveal is on the way. "Is FemJun on your mind?" a new post on the official Exodus website asks. "Ours too! And we’re happy to say yes, she’s coming... soon™. We’ve got something special cooking for her reveal, and we think it’ll be worth the wait." Exodus launches on April 7, 2027 and is available to wishlist now on the PlaySta
 
 ### GTA 6 s New TV Trailer Is A Bit Different, See It For Yourself
 Thu, 22 Oct 2026 19:52:26 +0000 — https://www.gamespot.com/articles/gta-6s-new-tv-trailer-is-a-bit-different-see-it-for-yourself/
 
-GTA 6 's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely. For starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia from the launch trailer . While the shower scenes are gone in this edit, the new TV spot has a slightly longer shots of an airplane sequence and another with Jason and Lucia standing next to their car. Jason playfully nudges Lucia, and in the TV spot, she nearly topples to the ground. The Xbox logo was also removed, presumably due to Rockstar's reported promotional deal with Sony. You can check out the comparison below. https://twitter.com/GTAVI_Countdown/status/2112897438885245268 A 90-second version, meanwhile, includes the shower scenes, along with the slightly longer sequences seen in the 30-second version. If you saw these TV spots recently, you might not have even noticed any of these changes, but GTA 6 fan accounts are extremely dedicated and never miss anything. https://twitter.com/mnm345x/status/2113001090245664971 GTA 6 launches on November 19 for PS5 and, yes, Xbox Series X|S, even though the TV ads for the game don't tell you that. Rockstar's marketing push for the game also includes real-life Burger Shot and Cluckin' Bell restaurants where you can buy GTA-branded food . In other GTA 6 news, it was recently reported that preorders are pacing significantly ahead of any 
+GTA 6 's marketing push is ramping up substantially, and that includes with TV commercials. Eagled-eyes fans have discovered that the new GTA 6 TV spots actually contain some extended sequences, but just barely. For starters, a 30-second TV spot cuts out the steamy shower scenes with Jason and Lucia from the launch trailer . While the shower scenes are gone in this edit, the new TV spot has a slightly longer shots of an airplane sequence and another with Jason and Lucia standing next to their car. Jason playfully nudges Lucia, and in the TV spot, she nearly topples to the ground. The Xbox logo was also removed, presumably due to Rockstar's reported promotional deal with Sony. You can check out the comparison below ( via IGN ). https://twitter.com/GTAVI_Countdown/status/2112897438885245268 A 90-second version, meanwhile, includes the shower scenes, along with the slightly longer sequences seen in the 30-second version. If you saw these TV spots recently, you might not have even noticed any of these changes, but GTA 6 fan accounts are extremely dedicated and never miss anything. https://twitter.com/mnm345x/status/2113001090245664971 GTA 6 launches on November 19 for PS5 and, yes, Xbox Series X|S, even though the TV ads for the game don't tell you that. Rockstar's marketing push for the game also includes real-life Burger Shot and Cluckin' Bell restaurants where you can buy GTA-branded food . In other GTA 6 news, it was recently reported that preorders are pacing significantly a
 
 ### I’m Getting Very Worried About Skate Following EA Layoffs
 Thu, 22 Oct 2026 19:49:22 +0000 — https://www.gamespot.com/articles/im-getting-very-worried-about-skate-following-ea-layoffs/
@@ -425,12 +435,22 @@ Thu, 22 Oct 2026 15:38:56 +0000 — https://www.gamespot.com/articles/battlefiel
 
 As rumored , it appears that actor Jack Lowden, who played Lawrence of Arabia in EA's Battlefield 1, is a finalist to play James Bond. According to Deadline , "final auditions" for the role will take place over the next week, and the process will include screen tests. At least four actors are coming in to test, the report said, including Lowden, Callum Turner (Masters of the Air), and Josh O'Connor (Disclosure Day). The fourth remains a mystery, but The Insneider said it could be Jacob Elordi . According to The Hollywood Reporter , Elordi is not testing, and neither is Jack O'Connell from Sinners. Many expect the casting process for James Bond to do finalized relatively soon, with an official announcement coming before the end of the year. In May this year, Bond movie production company Amazon MGM Studios said the search for the next James Bond actor was underway and that the film studio would not comment on the casting process. Lowden is Scottish, and he would become just the second Scottish person to play James Bond, following Sean Connery. The character James Bond from the Ian Fleming book series is also Scottish. Fans have been waiting a long time for the next James Bond movie, as the latest entry, No Time To Die, was released in 2021. However, it was expected to release much sooner, but had three delays due in part to COVID. Daniel Craig played James Bond in five 007 films, and wrapped up his run with No Time To Die. Amazon MGM Studios bought the franchise and reportedly
 
-### Katana Zero DLC Is Still Coming, And It’s Apparently Freakin’ Huge Now
-Thu, 22 Oct 2026 15:28:46 +0000 — https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/
-
-It's been a minute since we've heard anything about Askiisoft's samurai platformer Katana Zero , but the developer has re-re-reconfirmed that, yes, the DLC is still on the way--and it's big . Like, so big Askiisoft is basically calling it a sequel. In a Bluesky post on October 22 , Justin Stander of Askiisoft announced that the Katana Zero DLC has grown even bigger than when we last heard-- which was in March 2021 . It's apparently now "the size of a full sequel" and comes with a soundtrack of over 30 new songs. There's no release date or anything else outside of this confirmation, but at least it's still coming. https://bsky.app/profile/askiisoft.bsky.social/post/3myhvlfbbv22b This is wonderful news for any fan of the 2019 side-scrolling samurai platformer, though a release date would be better. It's starting to feel like Team Cherry's Hollow Knight: Silksong , what with how often Askiisoft confirms the DLC is coming but doesn't say exactly when. After all, the last time we heard about the project was in April 2025 , when Askiisoft said it's "still coming" and "still free." This is no shade, of course. I'd just like to play the DLC already. Katana Zero launched in April 2019. A neo-noir action-platformer, you play sword-wielding amnesiac assassin Subject Zero as you converse with a psychiatrist in between deflecting bullets and slashing bodies. It's an interesting amalgam of political intrigue, side-scrolling hack-and-slash gameplay, time-bending mechanics, and nightmare seq
-
 ## Rock Paper Shotgun
+
+### Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get "janky and wildly overpowered"
+Fri, 23 Oct 2026 09:30:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered
+
+It was only ever going to be a matter of time, but I'm still surprised just how quickly Cyberpunk 2077 modders have taken pistol dual wielding mechanic the RPG's Edgerunners 2 update has just added in, and opened it up to include any gun Night City has to offer. Yep, twinning shotguns, assault rifles, sniper rifles, or any combo of those is now possible. Though, you'll have to make peace with the fact enemies will struggle to match your firepower. Read more
+
+### A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely
+Thu, 22 Oct 2026 21:50:40 +0000 — https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely
+
+We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not talking about a lack of big, bold ideas, in fact there might be too many of those. I more mean that there are aspects to life that often go uncovered in games. For example, when was the last time you saw a game about a workers strike? Citizen Sleeper 2 has one questline about such a thing, but it's just what the entire game is about. A Line Held Tight, a mecha visual novel about a sci-fi miner's strike, may bridge that gap. Read more
+
+### Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now
+Thu, 22 Oct 2026 20:36:04 +0000 — https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now
+
+Virtue and a Sledgehammer looks like a satisfying game. There is perhaps no more wonderfully chunky and impact frame friendly a weapon than the reliable sledgehammer, and when put into a game with a description like, "Most people resort to therapy. But you chose the brave option. A sledgehammer," then of course I have to give it a look. Unfortunately, I still have to wait a week to check out the full thing. Fortunately, a prologue to the game just dropped for free that offers a tantalising, and quite different, experience. Read more
 
 ### An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play
 Thu, 22 Oct 2026 17:45:41 +0000 — https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play
@@ -476,19 +496,4 @@ The organisers of Australian independent games showcase Parallels have rejected 
 Thu, 22 Oct 2026 10:30:00 +0000 — https://www.rockpapershotgun.com/while-ea-shuts-down-bioware-developers-of-the-sims-skate-and-battlefield-say-theyve-also-lost-their-jobs
 
 Apparently the clich&eacute; "when it rains, it pours" also applies to corporate feculence. In addition to shutting down storied RPG makers BioWare , EA are reportedly cutting staff at The Sims developers Maxis, as well as Skate studio Full Circle and Battlefield 6 co-devs Ripple Effect. Read more
-
-### Mass Effect 5 was aiming to offer a "level of autonomy and choice" that could vault it into orbit with Larian and CD Projekt's top RPGs, former dev says post-cancellation
-Thu, 22 Oct 2026 09:49:44 +0000 — https://www.rockpapershotgun.com/mass-effect-5-was-aiming-to-offer-a-level-of-autonomy-and-choice-that-could-vault-it-into-orbit-with-larian-and-cd-projekts-top-rpgs-former-dev-says-post-cancellation
-
-Following EA's decision to shut down BioWare , the game that would've been the fifth entry in the Mass Effect series is being dumped out of an airlock, never to become a finished article that'll reach players hands as its creators envisioned. The larger tragedy is, of course, the job losses and the closure of a studio with a legacy befitting RPG royalty, but it's still sad that next Mass Effect will never come out, and some of the folks who worked on it have begun offering some insight into what the team were hoping to accomplish. Read more
-
-### EA is shutting down RPG veteran Bioware "to align talent and investments where we see the greatest opportunities for players and long-term growth"
-Thu, 22 Oct 2026 06:56:00 +0000 — https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth
-
-Venerable RPG studio Bioware announced on it is shutting down after more than 30 years of making RPGs. The studio is responsible for making the original Baldur's Gate , Neverwinter Nights , Star Wars: Knights of the Old Republic , Dragon Age , Mass Effect , and Anthem. As part of the announcement Bioware also say that "development on the next Mass Effect project is ending." Read more
-
-### Cyberpunk 2077's Edgerunners 2 update adds two new quests, handgun dual wielding and the ability to pimp your mantis blades
-Wed, 21 Oct 2026 16:09:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-edgerunners-2-update-adds-two-new-quests-handgun-dual-wielding-and-the-ability-to-pimp-your-mantis-blades
-
-A beefy new Cyberpunk 2077 update arrives tomorrow, October 22nd, fresh on the heels of the second series of the Cyberpunk Edgerunners anime which dropped earlier this week. It's dubbed update 2.5 and delivers an Edgerunners 2-themed quest alongside a heap of other additions. Read more
 

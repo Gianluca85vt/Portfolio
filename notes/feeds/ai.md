@@ -1,6 +1,11 @@
-# AI — harvested 2026-10-22T20:17:31.817Z
+# AI — harvested 2026-10-23T09:33:54.077Z
 
 ## OpenAI
+
+### OpenAI and Poland’s NASK partner to advance AI safety and security
+Fri, 23 Oct 2026 00:00:00 GMT — https://openai.com/index/openai-nask-ai-safety-security-partnership
+
+OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.
 
 ### Build more responsive apps with the Decisions API
 Thu, 22 Oct 2026 19:00:00 GMT — https://openai.com/index/decisions-api
@@ -32,37 +37,15 @@ Wed, 21 Oct 2026 12:00:00 GMT — https://openai.com/index/openai-models-google-
 
 OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.
 
-### Patch the Planet: global response coordination as agents uncover critical vulnerabilities
-Wed, 21 Oct 2026 07:00:00 GMT — https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities
-
-Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.
-
 ### ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform
 Wed, 21 Oct 2026 13:00:00 GMT — https://openai.com/index/chatgpt-ads-expands-26-new-countries
 
 From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.
 
-### Using thousands of AI agents to uncover new leads in biological data
-Wed, 21 Oct 2026 04:50:00 GMT — https://openai.com/index/scaling-ai-research-for-complex-biological-data
-
-See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.
-
-### Cloudflare links vulnerability discovery to defense with OpenAI
-Wed, 21 Oct 2026 00:00:00 GMT — https://openai.com/index/cloudflare-cyber
-
-Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.
-
-### How we built ChatGPT’s novel ad stack for user trust and relevance
-Wed, 21 Oct 2026 07:00:00 GMT — https://openai.com/index/building-chatgpt-ad-stack
-
-Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.
-
-### Democratic governance of frontier AI, part II: Empowering cyber defenders
-Wed, 21 Oct 2026 00:00:00 GMT — https://openai.com/index/empowering-cyber-defenders
-
-OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.
-
 ## Hugging Face
+
+### Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
+Thu, 22 Oct 2026 22:24:34 GMT — https://huggingface.co/blog/microsoft/thinkingbox-training
 
 ### OlmoEarth v1.3: State-of-the-art embeddings for the whole planet
 Thu, 22 Oct 2026 16:11:31 GMT — https://huggingface.co/blog/allenai/olmoearth-v1-3

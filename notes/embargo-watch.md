@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-22
+# Review radar — updated 2026-10-23
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -20,19 +20,18 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Call of Duty®: Modern Warfare® 4 | Activision | 2026-10-22 | today | 2026-10-21 | €69.99 |
-| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | 1d | 2026-10-22 | €29.99 |
+| Warrior Cats: Clans of the Forest | Trailmark Games | 2026-10-23 | today | 2026-10-22 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Farming Simulator 25: Beans & Alpacas Expansion | GIANTS Software | 2026-10-27 | 5d | 2026-10-26 | €29.99 |
-| Phantom Blade Zero | S-GAME Publishing | 2026-10-28 | 6d | 2026-10-27 | €59.99 |
+| Farming Simulator 25: Beans & Alpacas Expansion | GIANTS Software | 2026-10-27 | 4d | 2026-10-26 | €29.99 |
+| Phantom Blade Zero | S-GAME Publishing | 2026-10-28 | 5d | 2026-10-27 | €59.99 |
 
 ---
 
-*1500 upcoming titles scanned, 1377 with a firm date inside
-14 days, 4 above the price line. Titles showing
+*1500 upcoming titles scanned, 1316 with a firm date inside
+14 days, 3 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
