@@ -1,6 +1,16 @@
-# Tech — harvested 2026-10-24T09:06:57.837Z
+# Tech — harvested 2026-10-24T14:07:14.967Z
 
 ## Ars Technica
+
+### A 1,000-mile cloud on Mars may reveal physics never seen in nature
+Sat, 24 Oct 2026 11:50:28 +0000 — https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/
+
+Every morning during the Martian spring and summer, a thin and extremely long cloud emerges, only to disappear again. The wispy formation appears near the volcano Arsia Mons and gradually elongates until it reaches over 1,000 miles—about the distance from New York to Kansas City as the crow flies—before dissipating. This cycle then repeats for several months. Since it was first recorded by a probe in 2018, scientists have been unable to find a plausible explanation for the existence of this cloud, often referred to as the Arsia Mons Elongated Cloud (AMEC). Until now. Recently, researchers successfully modeled the cloud’s formation for the first time, their results suggesting that it may be driven by a physical process that has never been directly observed in any planet's atmosphere. "We found that we needed to include some exotic physics… physics that, while included in textbooks, is treated as theoretical and usually thought not to happen in nature. It certainly hasn’t been seen in action before," Jorge Hernández-Bernal, a planetary scientist at Paris’ Sorbonne Université and lead author of the study, said in a press release . "Once we included this physics in our simulations, the AMEC emerged just as we hoped.” Read full article Comments ]]>
+
+### Ice sheet expansion may have started 2,000 years ago, but we canceled that
+Sat, 24 Oct 2026 11:00:09 +0000 — https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/
+
+Barnes Ice Cap sits on the central plateau of Baffin Island, in the Canadian Arctic. It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets, which at its peak buried most of Canada under two miles of ice and locked away around 80 meters of sea level. That remnant has now yielded direct physical evidence that ice sheets might have reversed their retreat and started to grow again thousands of years ago. In a recent Science study, researchers show that the Laurentide reached its smallest size about 3,600 years ago, then started re-expanding roughly 2,000 years ago, which the team interprets as the opening move of the next glaciation. Apparently, this brand-new ice age was on its way until about 1960, when human-caused climate warming reversed it. Frozen to the bed “Barnes is the last remaining piece of one of the domes of the Laurentide Ice Sheet,” says Nicolás Young, a geologist at Columbia University's Lamont-Doherty Earth Observatory and lead author of the study. As that enormous dome thinned through the Holocene, its margin withdrew up onto Baffin Island, and what's left today is the deflated core of something that was once two miles thick. The reason Barnes can testify about its own history, Young explains, comes down to the temperature at its base. Read full article Comments ]]>
 
 ### NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
 Fri, 23 Oct 2026 22:48:25 +0000 — https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/
@@ -52,17 +62,22 @@ Fri, 23 Oct 2026 16:35:00 +0000 — https://arstechnica.com/gaming/2026/10/every
 
 Gamers still hoping against hope for a true follow-up to Half-Life 2 (after so, so many years ) may remember last year's flurry of speculation that Half-Life 3 was finally nearing completion . Amid all those rumors, though, we never got any official sign from anyone inside Valve that a Half-Life project was currently in development. That changed this week thanks to an apparent slip-up during a panel at GameSoundCon , an industry conference devoted to "the art, technology, and business of game audio." In a panel devoted to Valve's use of open audio engines (captured in this Vimeo clip ), Valve composer and audio artist Mike Morasky let an interesting string of three letters slip while talking about the way the company implements high dynamic range (HDR) audio: Our HDR system is basically that's one of the three pieces that come together to make an HDR that you can easily optimize. And in fact, I think Deadlock has their own version of HDR. HLX has its own version , so on and so forth [emphasis added]. "HLX," of course, has been widely reported as the internal code name for Valve's next Half-Life project. The codename has shown up in Valve engine code since at least 2024 , but it has never been referenced in public by a Valve employee until now (though Morasky was responsible for a close call in an interview last year). Read full article Comments ]]>
 
-### The reactor meant to showcase nuclear’s comeback keeps hitting problems
-Fri, 23 Oct 2026 13:43:21 +0000 — https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/
-
-US regulators have issued a warning to a nuclear project critical to Donald Trump’s efforts to revive the industry, after a contractor fell into a reactor cavity and a bundle of fuel rods nearly tipped over during refueling. The US Nuclear Regulatory Commission told Holtec International, a company racing to reopen a shuttered reactor at the Palisades nuclear power plant in Michigan, to address a “chilled work environment” that has made staff hesitant to raise safety concerns without fear of retaliation. The warning has prompted concerns among critics that financial and political pressures to revitalize nuclear power as an answer to booming AI-driven energy demand are increasing risks of accidents. Read full article Comments ]]>
-
-### Ukraine learns to fight without Starlink as Musk plays politics with satellites
-Fri, 23 Oct 2026 11:30:22 +0000 — https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/
-
-Elon Musk’s Starlink satellite service has played a pivotal role in supporting Ukraine’s successful resistance to Russia’s full-scale invasion for years. But with Starlink having become increasingly unreliable due to Musk’s political inclinations and the latest surprise disruptions to service in Ukraine, the Ukrainians and Europe as a whole are now facing urgent questions about how to move forward without it. As the world’s largest communications satellite network, Starlink can typically support high-speed Internet and data streams for any user or vehicle equipped with a relatively compact Starlink terminal. This has enabled Ukraine to maintain vital communications for both civilian purposes and military operations—and has also expanded the Ukrainian military’s capability to remotely control or provide guidance to drones used in both air defense against Russian attacks and for striking back at Russian targets. “Starlink currently offers some of the best satellite coverage available, with virtually no competitors when you consider the combination of cost, availability, and ease of use,” according to the head of hardware R&D at the Ukrainian defense company BlueBird Tech , who provided comments to Ars anonymously for security reasons. “In practical terms, the main limitation is the need to position the antenna so it can receive signals from the satellites.” Read full article Comments ]]>
-
 ## The Verge
+
+### Lee Chang Dong ponders the ethics of the camera
+2026-10-24T08:30:00-04:00 — https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview
+
+Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor or religion or compressed modernity , that uniquely Korean affliction, without feeling didactic. A different kind of movie would have captured the heat of that labor struggle. Possible Love picks up with the characters in the aftermath, a murkier time that defies easy understanding. The film opens with an epigraph: "Thou shall not covet." What foll … Read the full story at The Verge. ]]>
+
+### Laika has spent 20 years building up to Wildwood
+2026-10-24T08:00:00-04:00 — https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika
+
+Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot , worked on sequences in The Godfather and Titanic , and directed a few episodes of Twin Peaks . Even still, nothing could quite prepare him for his first stop-motion project: working as the cinematographer on Wildwood , the latest release from Coraline studio Laika . While he knew that stop-motion was a long and involved process, he was still surprised by just how much work went into these movies. "When I started I thought it was one thing, and then I quickly found out that it was another thing … Read the full story at The Verge. ]]>
+
+### It’s time to find a new browser
+2026-10-24T08:00:00-04:00 — https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer
+
+Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Demis Hassabis and computer chips and permafrost , enjoying the first episodes of Machine Gods , filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password , making tiny documents with Tiny Little O … Read the full story at The Verge. ]]>
 
 ### Xbox’s first chief operating officer is out after just a few months
 2026-10-23T17:39:26-04:00 — https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure
@@ -99,84 +114,94 @@ If your dog or cat is prone to getting lost, or you frequently go on adventures 
 
 Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure and leading to a reported two deaths and at least 17 injuries . The Ukrainian military reported receiving no advance warning about the Starshield speed restriction. But Ukrainian President Volodymyr Zelenskyy said it was a direct message from the US amid rising tensions b … Read the full story at The Verge. ]]>
 
-### The iPhone Duo should have been an iPad
-2026-10-23T13:00:18-04:00 — https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast
-
-We gave the iPhone Duo a 7 /10 . But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a big, new idea about the most popular smartphone in history. On this episode of The Vergecast , David and Nilay debate whether the Duo deserved the score it got, and try to work through how this device might change over time. Is the outer screen, as Daring Fireball's John Gruber suggested, the worst iPhone ever ? Would it be a better product if it started as an iPad rather than an iPhone? Would we feel differently about this thing if it were simply called the iPad Du … Read the full story at The Verge. ]]>
-
-### Now Google says it might use your Gmail and Google Photos data to target ads
-2026-10-23T12:52:55-04:00 — https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update
-
-Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, spotted by Android Authority , adds an exception to its promise about not using your Drive, Gmail, or Google Photos for personalized ads. While the previous version simply said it wouldn't do that, as of October 16th, Google has added the line, "unless you choose to make data from these services available to other Google services that support personalized ads." That means anyone who has connected their Drive, Gmail, or Google Photos to AI Mode and other Search tools … Read the full story at The Verge. ]]>
-
-### The first broken iPhone Duos are here
-2026-10-23T12:37:03-04:00 — https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
-
-The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright line (or lines) across the right side of the display. Here's how one user in Australia described what happened to their phone: Had my iPhone Duo for about six hours and had probably opened it fewer than 20 times. I was showing it to a friend, and as I opened it, I felt something around the internal hinge, underneath the screen. As I cont … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400
+Sat, 24 Oct 2026 13:58:40 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400
+
+For anyone looking to buy a premium gaming laptop with an OLED display, the Acer Predator Helios Neo 16S AI is worth considering. The laptop is currently on sale at Best Buy for a limited time for $2,224.99 , saving you $550 off its original price of $2,774.99. The discount also applies to the higher-end 32GB RAM model, available for $2,399.99 , saving $800 off its original price of $3,199.99. Check out the 16GB model deal at Best Buy Check out the 32GB model deal at Best Buy The Acer Predator Helios Neo 16S AI is a fairly thin gaming laptop with a maximum thickness of just 18.9 mm. The laptop features a 16-inch OLED panel with QHD+ (2560 x 1600) resolution and a 16:10 aspect ratio, giving you more vertical screen space. It also offers a fast 240 Hz refresh rate, plus support for G-Sync, VESA True Black HDR500, and 100% DCI-P3 color gamut coverage. Gamers looking for a premium laptop with a vibrant OLED display and high-end graphics can grab the Acer Predator Helios Neo 16S AI at a reduced price, with the RTX 5070 Ti-equipped machine starting at $2,224.99 and the 32GB RAM model dropping to $2,399.99. View Deal Despite its thin profile, the laptop is claimed to deliver desktop-class performance thanks to Intel’s top-of-the-line Core Ultra 9 290HX Plus processor, which features 24 cores and boost clock speeds of up to 5.5 GHz. Handling the graphics is Nvidia’s RTX 5070 Ti laptop GPU with 12GB of GDDR7 memory, offering the benefits of the Blackwell architecture, including DLSS 4
+
+### Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator
+Sat, 24 Oct 2026 13:42:41 +0000 — https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them
+
+Proton AG, which provides privacy-focused services like Proton Mail and Proton VPN, has decided to host the Flock camera map that security researcher Joshua Michael built from leaked Flock data . While the original Flock Surveillance Map is still available online, its creator is facing legal threats from the company, especially after Flock sent the researcher a cease-and-desist letter. In addition, Michael’s website is accessible only from within the U.S., requiring users outside the country to use a VPN to access it. By contrast, Proton’s Flock camera map is easily accessible worldwide. Its location in Switzerland also makes it a little more complicated for the surveillance company to take legal action. Its move to preserve Michael’s work also follows the company’s privacy ethos. (Image credit: Proton) “You have a right to know who’s recording you when you leave home, especially when a private company controls the data and it’s unclear how law enforcement uses that information,” the company said. “This map lets you search by ZIP code to see where Flock’s license plate readers are located. Use it [to] make informed decisions about how you move through your own area and whether you need to reach out to your municipal leaders.” Flock and other automatic license plate recognition (ALPR) cameras are at the center of the privacy debate between law enforcement and citizens. While the former argues these machines help make communities safer , many of the latter worry about the techn
+
+### Edifier Hecate G2000 Pro Review: Clear and Colorful
+Sat, 24 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review
+
+Why settle for ordinary when you can spice up your gaming setup with a pair of unique-looking RGB-laden desktop PC speakers ? Edifier’s Hecate G2000 Pro speakers instantly stand out in both looks and sound, with the small desktop 2.0 speakers outputting a much larger soundstage than their size would have you believe. These versatile speakers are enjoyable for both gaming and music listening, and offer good value with plenty of connectivity options. Design of the Edifier Hecate G2000 Pro The design of the Edifier Hecate G2000 Pro 2.0 system has a different speaker design that I haven't really seen before: A squished and elongated hexagonal shape, with a clear, see-through speaker enclosure and bright RGB lighting. They look unique and modern, maybe even a little futuristic — and while I’m not a fan of the overuse of RGB lighting in general, I like them. (You can also easily turn the lighting off, so you aren’t left stuck with distracting flashing lights 24/7.) Both speakers aim the sound toward your ears with a 10° tilted angle built into the shape of the speaker, so there's no need for any angled desktop speaker pads or stands. Tom's Hardware Tom's Hardware The right speaker contains all the tech, with controls on the top of the speaker — four rubberized silicone buttons — and power and connectivity options on the rear. The two speakers are connected by a hardwired 1.5-meter braided cord, which is plenty of length for most desk sizes. Large rubber feet on the bottom of the sp
+
+### This week on Tom's Hardware Premium: October 24, 2026
+Sat, 24 Oct 2026 12:25:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark
+
+We're back with another weekly roundup, containing everything that we've published on Tom's Hardware Premium this past week. From a brand-new type of SSD to reasons why buying that expensive audiophile-grade headset might not be the wisest idea for gaming, and much more. To read any of the articles featured in this roundup, be sure to subscribe to unlock access. TP-Link’s alleged ties to China have drawn scrutiny from regulators, even though the company says it split from its Chinese parent company back in 2024. With the FCC’s ban on foreign-made consumer routers in place, it has pledged nearly $1 billion in U.S. R&D and manufacturing, and has also signed a letter of intent with Key Tronic to assemble its Wi-Fi 8 routers in Mississippi, hoping to win approval. We chronicle the saga of keeping those routers off U.S. shelves, and how TP-Link hopes that Key Tronic will once again unlock the U.S. market for the networking firm. TP-Link proposes $1 billion US Wi-Fi router manufacturing alliance with Key Tronic — potential deal seeks to end ongoing saga blocking its Wi-Fi 8 products from American homes (Image credit: Future) Last week saw the release of Nvidia's RTX Spark platform, with a brand-new high-end Microsoft Surface Laptop Ultra in tow. However, despite the device's focus on running local AI workloads and inference, it can be a capable gaming machine. There's just one thing getting in its way: a 3:2, 3270x2180 display that demands a lot out of the relatively humble Blackwe
+
+### Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes
+Sat, 24 Oct 2026 12:06:43 +0000 — https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum
+
+A Steam Frame user asked for the ability to use an external optical drive with their headset, and Valve added the feature a day after one of its developers saw the post. Aiodensghost wrote the post in the Steam Frame General Discussions forum , saying that they wanted to watch a movie on the road and install abandonware from 2006 on their device, with Valve developer gaberowe responding a day after. “I wanted to use my Steam Frame to be able to watch a movie on the road and thought it was no big deal to use the detachable disc drive I had on my computer,” Aiodensghost said on Oct. 18. “Turns out that the Frame cannot power the player and even if it could, it lacks the drivers to read a disc. Valve, this not only killed my ability to watch a movie, [but it also] killed my ability to install my abandonware from 2006. You don’t sell NFS Carbon anymore, and while I have the disc, the Frame isn’t able to read it.” Just a day later, gaberowe responded with, “We will look into this. Thanks for alerting us.” The Valve developer then proceeded to add the feature in under 10 minutes, pushing commit b68e4a1 to the deckard-linux-no-oopsies GitHub repository, which is described as “the Linux kernel sources used in SteamOS ARM for the Steam Frame.” While this does not automatically mean that the Steam Frame will get optical drive support in the next update, this development shows that Valve developers take gamers’ requests seriously. More enterprising users who can’t wait for the feature c
+
+### Use your 3D printer to customize this new Stage Tour guitar PC controller
+Sat, 24 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/peripherals/controllers-gamepads/use-your-3d-printer-to-customize-this-new-stage-tour-guitar-controller-drakongs-infinakore-fender-telecaster-peripheral-is-a-modders-dream
+
+It's been over 20 years since the first Guitar Hero arrived on the gaming scene in 2005 and catapulted music rhythm games to the top of the charts. This was followed by multiple Guitar Hero iterations and competition from rival rhythm games such as Rock Band , and even Clone Hero on the PC. Now, in 2026, band-based rhythm games are due to make a return with the imminent release of Stage Tour from developer RedOctane Games. This brings new opportunities for brand-new music peripherals, and one interesting entry with a unique spin is the InfinaKore Fender Telecaster guitar controller from manufacturer Drakong, which will retail for an MSRP of $129.99 / €129.99 / £119.99 . This new controller has a modular design to let creative users fully customize the guitar to their own look and feel, and even 3D-Print their own parts. Preorder the InfinaKore Guitar Controller at Amazon The premise of open-source and customizable peripherals isn't a new one, but it certainly does make this new guitar controller from Californian-based peripheral maker Drakong (Part of HyperKin) interesting. Being able to take the core of this guitar controller and modify the shape, size, and color of the body and head by 3D printing your ideas or community designs will allow you to instantly transform this controller into something else. (Image credit: Drakong) Apart from the customization aspects of the InfinaKore controller, the guitar peripheral hosts the latest tech, with the top frets using low-profile K
+
+### Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects
+Sat, 24 Oct 2026 11:35:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals
+
+Texas has suspended the construction permits of 17 data center projects and disabled a web portal that automated filing for new permits after it was discovered that they were still being issued a month after calls for the process to be paused. Governor Greg Abbott asked for new permits to be halted in September 2026, but watchdog groups FracTracker Alliance and Public Citizen both published reports detailing more than two dozen permits issued to Texas data center projects, reports 404 Media . Now, the portal that previously automatically authorized permits is unavailable. “TCEQ’s electronic filing application used for automatic authorizations has been temporarily shut down to ensure all applications are reviewed by agency staff to determine if they are related to data centers," a message on the website reads. The portal, called STEERS, is used to rubber-stamp construction approvals. But despite Governor Abbott's call for no new permits to be approved, it seems that nobody thought to take STEERS offline. Sam Law, a researcher at FracTracker, says that it's been happily approving new projects, including those for OpenAI and Amazon that went through the system earlier this week. All 17 of the suspended permits are for stormwater construction, a process that sees construction companies raise and level the ground. It's also a process that is a vital part of the approval process for all construction projects in Texas. Governor Abbot put the brakes on 1,800 data center projects whil
+
+### Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers
+Sat, 24 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block
+
+If you are wondering why the GeForce RTX 5090 , despite being one of the best graphics cards , has evaporated from retail shelves, the answer lies in China’s industrial conversion factories. A newly surfaced video reveals the staggering scale of the country’s grey-market AI operations, showing industrial workshops dismantling brand-new GeForce RTX 5090 graphics cards to repurpose them for the AI boom. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC So, what exactly is a GeForce RTX 5090 doing in China when the graphics card is not even officially available there? The answer is simple. They are there to be transformed into AI workhorses. The recently leaked footage offers a glimpse inside these Chinese workshops, where skilled technicians meticulously desolder the pricey flagship’s GB202 silicon and GDDR7 memory chips. They then transplant the components into a dual-slot blower design tailored for server use. The GeForce RTX 5090 blower graphics cards will ultimately end up in high-density server racks where they will become the backbone of massive AI compute clusters. The scale and efficiency of these operations are impressive, with production lines converting shipments of brand-new GeForce RTX 5090 graphics cards, from Nvidia's cu
+
+### Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range
+Sat, 24 Oct 2026 10:25:00 +0000 — https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics
+
+Ukraine's military intelligence agency GUR released details of a new 3D-printed Russian cruise missile that was first deployed around September and October of this year. The missile is faster than traditional weapons, hitting speeds of 500mph, and has a range of over 700 miles. According to Business Insider , these cruise missiles, called “Filin,” are more affordable than the traditional Kh-101 cruise missile that costs more than $2,000,000 per launch. This is why some fear that these weapons would be used by the Russian military in “missile spam” tactics against Kyiv to overwhelm its air defenses. Russia’s invasion of Ukraine, which was originally planned to last just a few weeks, has turned into a multi-year war of attrition. This has made the frontlines a costly effort for both man and machine, which is why both sides are looking for more cost-efficient ways to conduct warfare. While drones have seen widespread use in this conflict, they’re relatively slow and are easier to shoot down. The Geran-5, which has been known to disintegrate in flight , could only hit a maximum speed of 270 mph, while the Filin can reportedly hit speeds of 500 mph and has a range of 745 miles. While this still isn’t as fast as modern fighter jets like the F-16 Fighting Falcon, the increased top speed could make it that much harder for Ukrainian air defenses to deal with the threat. The GUR said that the Filin has a carbon and fiberglass fuselage, while also featuring some 3D-printed parts. It als
+
+### YouTuber escapes the modern AI tech market by recreating his 1996 PC
+Sat, 24 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness
+
+These days, it's exceedingly difficult not to be jaded and weary about the tech market. Memory, graphics cards, and now storage are becoming impossible to obtain; there's basically no new consumer hardware being released; and there's AI everywhere. Technology YouTuber TrashBench (TB), too, is tired and was harkening back to the halcyon days when everything was fresh and straightforward — so he went back in time with a retro build. More specifically, he recreated a facsimile of the first machine his parents bought him in 1996 when he was a wee lad, to play The Need for Speed: Special Edition — a PC-improved version of the first ever game in the series. According to the man, it was thanks to this machine that he fell in love with computers in general. TB kicked things off with an Intel Pentium MMX 200 MHz CPU sitting atop an Epox Pronix EP-P55-BT motherboard, boasting what was at the time a new, fresh, convenient ZIF (Zero Insertion Force) socket. This motherboard popped up during the RAM transition from SIMM to DIMM, which is why you'll see two slots of each on the top. 32 MB of RAM went right in, a generous amount for the year. Funnily enough, the CPU barely needed cooling, which is why a simple 40-mm fan suffices, although anyone who's lived through this era will tell you that those were guaranteed to start whining after just a few months of heavy usage. There is no case cooling, as it's just not needed. However, he did need to correctly set the motherboard's jumpers, as suc
+
+### Rare archival footage tours the CompUSA NYC store in November 2000
+Sat, 24 Oct 2026 09:40:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/rare-archival-footage-tours-the-compusa-nyc-store-in-november-2000-soak-up-some-y2k-pentium-iii-athlon-powerpc-windows-me-chunky-laptop-and-bulging-crt-nostalgia-in-glorious-360p
+
+A video purported to be “authentic, original 360p footage captured inside a CompUSA retail store in New York City” has been shared on YouTube, allowing retro computing fans to step back in time to November 2000. This was the Windows Me , Pentium III, and Athlon era, dominated by computers constructed using a lot of translucent plastics and beige boxes already a distant memory. However, computer stores like this bulged with displays and fast-selling stock before internet shopping would start to eat many of these businesses away. The video reveals a nostalgic CompUSA, greeted by a wall of CRT monitors . The store looks crowded and almost chaotic with peripherals, PCs, and devices - and boxes filling a lot of space in the aisles. The first item is a noteworthy trio of laptops. It looks like three stylish Sony VAIO machines in a line. In the center of this display is probably the most interesting device from the time, which we believe to be a Sony VAIO C1 Series ‘PictureBook’ PCG-C1VN subnotebook. Searches indicate this device was powered by the Transmeta Crusoe TM5600 processor running at 600 MHz, supported by 128MB of SDRAM, and a 12GB HDD. The tiny form factor, weighing in at around 2.2 pounds (1kg), was built around an 8.9-inch TFT display of 1024 x 480 pixels. It also had a dGPU, an ATI Rage Mobility with 8MB dedicated VRAM. Above this trio of laptops, there's a spec card for one of the larger laptops available in store. Squinting at the 360p video, it appears the unnamed po
 
 ### Razer Basilisk V4 Pro Review: Tried and true and now with AI
 Fri, 23 Oct 2026 16:00:00 +0000 — https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review
 
 Razer has been updating its gaming mouse lineup systematically over the past two years, and it's finally the Basilisk's turn to get a real update. The last update we saw to the Basilisk line was the Basilisk V3 Pro 35K in October 2024, which was basically just the Basilisk V3 Pro with a new sensor. The Basilisk isn't Razer's most popular gaming mouse line, but it is the more versatile, all-rounder line for people who aren't chasing performance above all else. The Basilisk V4 Pro maintains the general design of its predecessor — a contoured, right-handed gaming mouse with bright RGB lighting and a handful of extra buttons, for the serious gamer who isn't trying to break esports records. It features Razer's newest Focus Pro 50K optical sensor, gen-4 optical mouse switches, and up to an 8,000 Hz polling rate, plus multiple forms of connectivity and up to 200 hours of battery life (over 2.4GHz at 1,000 Hz). It is admittedly pricey, like all of Razer's flagship mice, at $169.99 for both colorways (black and white), and it launched with Razer's Mouse Dock V2 Pro — which is sold separately for $69.99. Design and Comfort of the Basilisk V4 Pro Following in the footsteps of its other recent next-gen mouse launches, Razer has kept the design of the Basilisk V4 Pro largely the same. The Basilisk V4 Pro has basically the same size and shape as its predecessor — it has a right-handed ergonomic shape with a contoured thumb rest and a hump that sits slightly back and to the left. It has lar
 
-### Micron's next-generation 3D NAND to double bit density with over 400 layers, offering extreme performance
-Fri, 23 Oct 2026 15:32:05 +0000 — https://www.tomshardware.com/pc-components/ssds/microns-next-generation-3d-nand-to-double-bit-density-with-over-400-layers-offering-extreme-performance-g11-3d-nand-promises-42-gb-mm2-and-5-400-mt-s-interface-speed
-
-Micron's next-generation 3D NAND, which will enter mass production in 2H 2027, is set to offer three significant advantages: it will double storage density, increase I/O performance by 50% compared to the company's current-generation NAND memory, and decrease power consumption, the company revealed at an event this week. To achieve these aggressive goals, Micron plans to take a page from YMTC's book and adopt wafer-on-wafer bonding. Meanwhile, Micron is also developing new materials and denser memory cell architectures to extend 3D NAND scaling beyond G11. Tom's Hardware Premium Roadmaps (Image credit: Future) Leading-edge foundry roadmaps Nvidia Enterprise GPU and CPU roadmap AMD's Enterprise GPU and CPU roadmap Intel's roadmaps examined — 14A, Nova Lake, Diamond Rapids & AI accelerator push Co-Packaged Optics (CPO) foundry roadmaps "We had mentioned we will bring in wafer-on-wafer bonding technology at the right time when it’s cost-effective, and it brings in capability that is important for the product specs at the time, and this is the right timing for that technology," said Scott DeBoer, president and chief technology and products officer at Micron, during the company's event this week. "So this G11 technology is the world's most advanced NAND. It will ramp in the second half of next year, [and] it is based on wafer-on-wafer bonding technology." G11: Over 400 layers and wafer bonding Micron's G11 3D NAND represents a substantial advancement over its current G9 (N160) gen
-
-### Solidigm confirms plans to build a fab in the US, abandons IPO plans
-Fri, 23 Oct 2026 15:21:16 +0000 — https://www.tomshardware.com/pc-components/ssds/solidigm-confirms-plans-to-build-a-fab-in-the-us-abandons-ipo-plans-unfavorable-stock-market-conditions-and-semiconductor-share-price-trends-reasons-given
-
-SK hynix early on Friday announced that it had decided to abandon plans for a potential initial public offering (IPO) of Solidigm, its U.S.-based enterprise SSD subsidiary, citing unfavorable stock market conditions and semiconductor share price trends. At the same time, SK hynix confirmed it plans to build a new fab for Solidigm in the U.S. to address growing demand for enterprise SSDs. Although an IPO could have helped finance a new fab in the U.S., SK hynix claims that its subsidiary’s expansion remains a priority. Go deeper with TH Premium: Chipmaking (Image credit: tsmc) Analyzing TSMC's fab expansion roadmap — multi-fab N2 ramp, CoWoS, SoIC, and uncorking bottlenecks Leading-edge foundry roadmaps for TSMC, Intel, and Samsung ASML's roadmap for chipmaking lithography tools examined Chinese chipmaking tool roadmaps examined Solidigm specializes in high-capacity data center SSDs based on floating gate 3D QLC NAND memory. As AI infrastructure deployments accelerate, demand for high-capacity storage increases, whereas Solidigm's existing manufacturing capacity is barely sufficient to address its projected needs. Consequently, SK hynix believes that Solidigm requires additional production facilities in the U.S., although it has yet to disclose the planned fab's capacity, investment requirements, or construction schedule. Such a facility could also strengthen SK hynix's American manufacturing footprint, which is important, given the current environment and on-shoring trends. S
-
-### Gigabyte Z890M Aorus Elite WiFi7 Motherboard Review: Icy-white SFF board offers full-size features for Intel
-Fri, 23 Oct 2026 15:00:00 +0000 — https://www.tomshardware.com/pc-components/motherboards/gigabyte-z890m-aorus-elite-wifi7-motherboard-review
-
-The latest board to land on our test bench is a small-form-factor Intel option, the Gigabyte Z890M Aorus Elite Wifi7 Ice. This Micro ATX motherboard costs only $209 on Amazon and packs most of the ATX version's features into a smaller package. The board is optimized for Intel’s Core Ultra 200S Plus processors and pairs best with Micro ATX chassis, but its best feature is its looks. It’s one of the better-looking Micro ATX options, especially if you’re looking for a white-themed build. The Z890M Aorus Elite offers three M.2 sockets (2x PCIe 5.0) and four SATA ports for storage, 2.5 GbE and Wi-Fi 7 (160 Hz) for networking, and a basic audio solution. The rear IO delivers nine USB ports total, including one 40 Gbps Type-C port (with DisplayPort capability). All of that is typical fare for the form factor. You also get two full-length PCIe slots (one reinforced) and heatsinks covering all M.2 sockets, giving the board a more premium look than its direct competition. It also adds two RGB lighting zones, one by the VRMs on the left and the other under the chipset heatsink, adding glow to your chassis. Overall, performance in our testing was average, with the board doing well in some tests and slightly below average in others. For gamers, it performed well in our 3DMark tests and in real games. In short, there’s nothing to worry about from a performance standpoint. The Z890M Aorus Elite also supports AI features, including AI Perfdrive, which offers customizable BIOS performance pre
-
-### OLED on a budget, save $50 now on the Acer Predator XB27OU at Best Buy
-Fri, 23 Oct 2026 14:00:00 +0000 — https://www.tomshardware.com/monitors/gaming-monitors/oled-on-a-budget-save-usd50-now-on-the-acer-predator-xb27ou-at-best-buy-only-usd329-for-a-stunning-qd-oled-gaming-monitor-with-a-superfast-240hz-refresh-rate
-
-If you've been thinking about making the transition from an IPS monitor to an OLED display to upgrade your gaming setup, today's deal is a great way to pick up a new QD-OLED screen for a great price. Save $50 at Best Buy on Acer's 27-inch Predator XB27OU QD-OLED gaming monitor, now only $329.99 , a great price for onboarding the latest technology into your gaming setup. Experience gorgeous inky blacks and eye-popping colors with the amazing contrast offered by QD-OLED displays, perfect for accentuating your favorite games. ● Grab this Monitor deal at Best Buy The Acer Predator XB27OU has a max resolution of 2,560 x 1,440 pixels; it's a QHD (2K) display that's superb for a mid-range gaming PC where the graphics card shouldn't struggle too much to meet the frame rate and resolution requirements. It has a very fast 240Hz refresh rate for seamless gaming, and thanks to the OLED tech, the gray-to-gray response time is a staggeringly low 0.03ms, giving your games very smooth motion and avoiding ghosting compared to slower monitors. This monitor also fully supports AMD's FreeSync Premium tech, so you can match the refresh rate of the monitor to the frame rate of your games to eliminate screen tearing completely, for a much better gaming experience. Predator XB27OU 27-inch QD-OLED Gaming Monitor: was $379.99 now $329.99 This Acer Predator XB27OU display features a gorgeous 26.5-inch QD-OLED panel with a crisp 2,560 x 1,440 resolution. A super-low 0.03 ms response time and 240Hz refre
-
-### Amazon bows to local backlash over AI data centers, scraps plans to build four new facilities in Northern Virginia
-Fri, 23 Oct 2026 13:36:50 +0000 — https://www.tomshardware.com/tech-industry/data-centers/amazon-bows-to-local-backlash-over-ai-data-centers-scraps-plans-to-build-four-new-facilities-in-northern-virginia-site-to-be-repurposed-for-mixed-use-and-residential-development
-
-Amazon will no longer build four new data centers on the site of the George Washington University's campus in Loudoun County, just outside of D.C., and will instead repurpose the majority of the 122-acre space for mixed-use and residential development following significant pushback from the local community. It will also donate 25 acres of the property to Loudoun County to be used for a community arts center and new recreational facility. On top of all that, it'll even give $5 million to the county's fund for housing, reports The Washington Post . Go deeper with TH Premium: Taiwan, trade, and tariffs (Image credit: tsmc) While the U.S. flip-flops on chip sanctions, China is building its own chip supply market The state of China's decade-long semiconductor push Huawei Ascend NPU roadmap examined China's CXMT targets 30% DRAM memory market share by 2030 with sixth mega-fab China's latest round of rare-earth export controls explained That's quite the turnaround compared to plans to build in a county that is already dubbed "Data Center Alley" because it has the largest concentration of data centers on the planet. But residents' concerns about the noise generated by such data centers and the incredible amount of power that they require to function have seen the county's approach to new data center buildouts change of late. Amazon first submitted its proposal to build the new facilities in July, and Loudoun County Board of Supervisors Chair Phyllis J. Randall and Amazon met in Septe
-
-### China can make advanced chips without EUV, but the bill keeps growing
-Fri, 23 Oct 2026 13:30:00 +0000 — https://www.tomshardware.com/tech-industry/semiconductors/china-can-make-advanced-chips-without-euv-but-the-bill-keeps-growing-duv-multiple-patterning-means-bigger-dies-lower-yields-and-longer-manufacturing-times
-
-Export controls have kept ASML's most advanced EUV lithography machines out of China. Instead, the country's chipmaking industry has relied on less-capable deep ultraviolet (DUV) lithography machines. By using multiple exposures on critical chip layers, these older machines are still capable of producing performant silicon. However, as multiple patterns are applied there are more chances for defects, longer manufacturing times, and higher bills. We spoke to experts like Chris Mack, co-founder and CTO of semiconductor firm Fractilia , to find out how much further DUV can go. For years, extreme ultraviolet (EUV) lithography has been seen as China’s biggest choke point in the country’s attempts to build cutting-edge chips. The machines, made exclusively by Dutch manufacturer ASML, use 13.5nm-wavelength light to print some of the most intricate features found on modern processors. Sales of ASML’s EUV systems are subject to export restrictions , forcing Chinese manufacturers to squeeze ever more out of older deep ultraviolet, or DUV, lithography instead. The EUV gap alone between China and the West is at least half a decade , according to some analysts. But even without access to EUV machines, China has gotten surprisingly far in recreating what it offers through existing technology. Teardowns of Huawei’s Mate 60 Pro in 2023 found the phone’s Kirin 9000S processor had been made by SMIC using a second-generation 7nm-class manufacturing process without EUV. More recently, analysis o
-
-### Bambu Lab teases its mysterious H3C tool changer 3D printer
-Fri, 23 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/3d-printing/bambu-lab-teases-its-mysterious-h3c-tool-changer-3d-printer-features-nine-tools-and-a-drop-down-rack-slated-for-november-3-launch
-
-Bambu Lab’s long-anticipated tool changer will launch on November 3rd. Dubbed the H3C , the 3D printer has 9 tools held by a Vortex-like rack mounted on the front of the chamber. Tool changers are the wave of the future, as they can switch colors faster and with less waste than Bambu Lab’s current AMS system. Unfortunately, most of the information about the new 3D printer is shrouded in secrecy, but there are plenty of details that are already public knowledge. Bambu Lab is quite proud of this latest engineering feat, which you can see in the video below, and I’ll admit, I’m pretty impressed, too. (Image credit: Bambu Lab) Here’s what we can confirm about the H3C: It is a member of the H-line of flagship printers, which includes the H2S, H2D, and H2C. As you can imagine, it is most similar to its namesake, the H2C , which is a 7-tool induction-heated “nozzle swapper” with a motorized Vortex rack to hold tools not in use. The H2C is one of the larger Bambu Lab machines, with a 330 x 320 x 325mm build volume. The 11-second-long teaser video shows the tool rack dropping down, along with a satisfying metallic snick. As you might imagine, tool heads that are stored above the build plate are not going to get in your way when you’re watching that first layer go down. This is an annoying problem with the Bondtech INDX system , which we reviewed paired up with a Prusa CORE One, which forces you to peer through the tool rack to see what's going on inside the printer. Visibility on the 
-
-### Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network
-Fri, 23 Oct 2026 12:26:23 +0000 — https://www.tomshardware.com/tech-industry/data-centers/illegal-nvidia-blackwell-ultra-b300-gpus-found-inside-state-owned-china-telecoms-network-nvidia-says-chip-smuggling-a-drop-in-the-bucket-insists-smuggling-remains-a-nonfactor
-
-Lava, an Israeli security firm, says that it has been able to identify 32 Nvidia Blackwell Ultra B300 chips within the network of China Telecom, a state-owned company that provides telecommunications services within the country. These same chips have already been barred from export by U.S. export controls, a report by The Information notes, which begs the question of how they have turned up in a Chinese data center. Such chips can only be sold to whitelisted buyers who agree not to export them to sanctioned parties, including those in China. However, banning companies from buying Nvidia's high-performance GPUs and AI data center chips hasn't always worked. In 2025, it was reported that Chinese companies smuggled $1 billion worth of Nvidia AI chips into the country in three months. At the time, the B200 chips were the most sought-after, but some distributors were already gearing up to sell B300-series chips when they became available. While the latest finding shows that the proliferation of export-controlled chips into China continues to be an issue, Nvidia has downplayed the report but didn't deny the findings. "Governments, researchers, and media have all found insignificant diversion of controlled US products, less than one half of one percent in recent court cases — a drop in the bucket compared to the ocean of domestic compute China already has," an Nvidia spokesperson told Tom's Hardware. "With tens of millions of GPUs in service in approved countries, this report again 
-
-### FCC issues first bans under new chip-level rule
-Fri, 23 Oct 2026 12:15:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/fcc-bans-first-two-devices-from-the-us-under-new-chip-level-rule-huawei-subsidiary-chip-boasts-face-detection-algorithm
-
-The FCC recently imposed a new rule allowing it to ban devices based on the internal chips instead of basing bans on individual products or brands, thus closing the loophole of rebranded products with parts from Chinese manufacturers on US export restriction lists. Using this new rule, the FCC has banned two devices from being sold and marketed in the US for the first time: a dashboard camera and a wireless video transmitter. As reported by The Verge, these devices were banned due to the HiSilicon Smart Vision SoC (System on a Chip) they contain, which features built-in detection algorithms for faces. HiSilicon is a subsidiary of Huawei, and the firm and its subsidiaries are on the FCC’s Covered List of entities that pose a risk to US national security. The Hi3516CV610 UHD Smart Vision is an SoC for surveillance and camera products. The SoC is meant to be used for things like vehicle dashcams and wireless CCTV systems; fully equipped with WiFi, Ethernet, video encoding chips, an Arm Cortex-A7, and an NPU (Neural Processing Unit) for AI features. The NPU is what the FCC is concerned about, explaining that it is a device that contains logic-bearing “smart” components produced by entities on the Covered List. (Image credit: HiSilicon) On the SoC’s data sheet, the Intelligent Video Engine (IVE) uses the NPU that runs a built-in dedicated multimodal large model and transformer feature acceleration. The transformer feature acceleration allows the AI model to understand the relation
-
-### Deepseek's latest AI model is smarter than ever, but its low running costs come at a price
-Fri, 23 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/deepseeks-latest-ai-model-is-smarter-than-ever-but-its-low-running-costs-come-at-a-price-open-weight-model-is-fit-for-agentic-workloads-but-is-more-prone-to-hallucination-than-proprietary-competitors
-
-Deepseek just upgraded its V4.1 Flash open-weight model to revision 1017. What looks like a mere point revision may actually be a significant step forward in model efficiency. On the product page , Deepseek uses the slogan "wish-driven programming made real," a likely reference to the colloquial "vibe coding," implying the model is a good fit for open-ended tasks with broad descriptions. However, while the model is indeed cheap and scores well, it can be hallucination-prone. LLMs are roughly divided into two categories: closed commercial efforts from frontier labs, whose models are expensive to run but deliver excellent results, and Chinese open-weight competitors that broadly exchange reliability for a much cheaper running cost, particularly for long-running agentic tasks. Deepseek V4.1 Flash (DSF) is a Mixture-of-Experts (MoE) model with 552B total parameters, 16B of which are active during runs. The model is multimodal, accepts both text and images as inputs, and its context window length measures the now-standard 1 million tokens. According to Deepseek's internal benchmarks, the model slots in neatly between GPT-5.6 Sol and Claude Opus 5, even beating Anthropic's LLM in task tests. That's already a strong showing, but this latest revision of DSF shines in the performance-per-task base and token efficiency. The upgrade from V4 Flash to V4.1 Flash significantly slashed hardware requirements, with V4.1 using only one-quarter of the HBM and one-eighth of SSD storage for its K
-
-### UK proposes 14-year prison sentences for undersea cable saboteurs amid Russian trawler threats
-Fri, 23 Oct 2026 11:45:00 +0000 — https://www.tomshardware.com/tech-industry/uk-proposes-14-year-prison-sentences-for-undersea-cable-saboteurs-amid-russian-trawler-threats-government-responds-to-growing-threats-with-new-criminal-offences-and-emergency-powers-to-shut-down-services
-
-The UK government has outlined a set of plans for new powers and penalties to help it protect UK undersea cables during national security emergencies, the BBC reports . It follows reports that Russia is using commercial fishing trawlers to map undersea cables , with 500 incidents of Russian boats loitering above cables in the last four and a half years. In a policy paper shared this week , the British government noted that the UK is "highly dependent" on undersea infrastructure owned by private sector companies. While the report notes that connectivity is "resilient," with "faults rarely causing noticeable disruption to data or energy availability," it's still "vulnerable to damage from accidents and potential sabotage." As a result, the UK is consulting on changes to legislation to try and address these risks, especially as the "threats to the homeland from state actors are increasing" and "critical national infrastructure, including undersea cables and pipelines... continue to be a target." The changes proposed include new criminal offenses. These include causing a security compromise to critical undersea infrastructure, capturing both physical and non-physical interference, including remote electronic interference, cyber activity and certain preparatory conduct directed at compromising infrastructure. There would also be further offenses linked to obstructing repairs and failing to preserve evidence, when requested. With these new offenses, the UK government is threatening
-
 ## Phoronix
+
+### Linux s Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms
+Sat, 24 Oct 2026 09:00:00 -0400 — https://www.phoronix.com/news/Linux-7.4-memblock
+
+Sent out today for the Linux 7.4 kernel were a set of memblock improvements. Most notable is a performance optimization within mm/memblock.c that implements the kernel's early boot-time physical memory allocator that is used prior to the bring-up of the full page allocator...
+
+### systemd Merges Support For Rust Programs
+Sat, 24 Oct 2026 07:11:00 -0400 — https://www.phoronix.com/news/systemd-Merges-Rust-Programs
+
+As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C...
+
+### 539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON
+Sat, 24 Oct 2026 07:05:56 -0400 — https://www.phoronix.com/news/Linux-7.4-MM
+
+Andrew Morton sent out the big set of memory management "MM" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...
+
+### Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default
+Sat, 24 Oct 2026 06:12:15 -0400 — https://www.phoronix.com/news/Wild-0.11-Released
+
+Wild 0.11 is out as the latest feature release of this very fast linker currently targeting Linux systems and focused on iterative development...
+
+### Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features
+Sat, 24 Oct 2026 06:00:00 -0400 — https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers
+
+Merged overnight were all the Direct Rendering Manager (DRM) driver updates consisting of many kernel graphics/display driver improvements. Arguably most exciting with these updates for Linux 7.4 is the AMD Radeon (AMDGPU) driver seeing HDMI 2.1 FRL enabled by default along with other HDMI 2.1 features...
 
 ### KDE Plasma 6.9 Stabilizes KWin s Wayland Picture-In-Picture Support
 Fri, 23 Oct 2026 20:56:16 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP
@@ -213,32 +238,17 @@ Fri, 23 Oct 2026 09:51:29 -0400 — https://www.phoronix.com/news/Linux-7.4-Powe
 
 The power management subsystem updates were merged this week for Linux 7.4 along with the related ACPI and thermal control updates too...
 
-### OpenSSL 4.1 Released With More AVX-512 Optimizations
-Fri, 23 Oct 2026 09:11:40 -0400 — https://www.phoronix.com/news/OpenSSL-4.1-Released
-
-OpenSSL 4.1 stable is out today with new AVX-512 optimizations, other performance improvements, and finally retiring Windows on Itanium and Windows CE support...
-
-### Linux 7.4 Brings Hibernation Improvement For Helping Meet Energy Certifications
-Fri, 23 Oct 2026 08:44:01 -0400 — https://www.phoronix.com/news/Linux-7.4-PCI
-
-The PCI/PCIe subsystem improvements have been merged for the ongoing Linux 7.4 merge window...
-
-### Vulkan 1.4.366 Released With SMPTE ST 2094-50 HDR Support
-Fri, 23 Oct 2026 07:45:54 -0400 — https://www.phoronix.com/news/Vulkan-1.4.366
-
-Vulkan 1.4.366 is out and representing the past two weeks of specification fixes, clarifications, and one new Vulkan API extension...
-
-### FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC
-Fri, 23 Oct 2026 06:20:46 -0400 — https://www.phoronix.com/news/FFmpeg-9.1-Releasing
-
-The release dance is underway for FFmpeg 9.1 as the newest feature release for this widely-used open-source multimedia library...
-
-### Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve
-Fri, 23 Oct 2026 06:09:10 -0400 — https://www.phoronix.com/news/Linux-7.4-HID
-
-The HID subsystem updates have been merged for the Linux 7.4 kernel that included a few new drivers...
-
 ## The Register
+
+### Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds
+Sat, 24 Oct 2026 13:02:00 +0000 — https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215
+
+Threat actors built an AI agent designed to hijack exposed AI models to run autonomous attacks, with instructions allowing it to carry out up to 100,000 steps without human approval. The Symantec Threat Hunter Team uncovered the agent's full instruction set over the summer, trapping it in an AI honeypot, and thus giving the researchers a comprehensive view into how the operators built the attack tool and what it could do. The captured instructions showed a single attack agent designed to scan the entire internet for endpoints that accept OpenAI-style requests without authentication - or that accept a stolen key - and then to exploit several common web frameworks, along with carrying out dozens of illicit actions. These include database theft, credential and secret harvesting, remote code execution, and cryptocurrency mining. In creating the agent, the operators built a malicious loop that they called “Skynet mode” that would scan for targets, infect them, deploy miners, and reinfect hosts. In total, the humans designed the AI agent to run unattended for up to 100,000 steps. “The jailbreak layers were largely off-the-shelf,” Symantec threat hunter Priti More told The Register . “Nothing in the individual techniques is new. What stands out is that someone wired them into a single agent that hands the planning to a borrowed model and runs for up to 100,000 steps without a human.” Plus, as More pointed out, the attacks create two sets of victims. “The owner of the exposed endpoin
+
+### Raspberry Pi Desktop proves old PCs aren't past it
+Sat, 24 Oct 2026 11:30:00 +0000 — https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676
+
+One of the most frequently asked questions of Linux folks is "what's the best lightweight distro for an old PC?" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop . Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. It has performed splendidly. If you fancy dipping a tentative toe into Linux, but you only have a relatively old low-spec PC spare to try it on, this is ideal. This is a modern OS: it's a 2.6 GB download, and it uses about 8 GB of disk space when installed. It will be a bit too much for a 25-year-old PC that was intended for Windows XP, but if you have an old PC from the Windows Vista era to hand, that should do. The splash screen calls it "PiOS 6.3," just as on Arm-based Raspberry Pi hardware. Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page . Back in 2023, the PiOS got a new Debian 12-based version , which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE. Sadly, the PC version didn't get upgraded. Two years later – so, almost exactly a year ago – we got a Debian 13-based PiOS 6 . The PC version still didn't get upgraded. Now the PC edition has finally caught up with Debian 13. It's very similar to September's Pi
 
 ### OpenAI disables internet access during model training while Anthropic issues another mea culpa
 Fri, 23 Oct 2026 22:36:11 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238
@@ -290,17 +300,57 @@ Fri, 23 Oct 2026 11:31:00 +0000 — https://www.theregister.com/columnists/2026/
 
 Linus Torvalds is embracing AI to write Linux kernel code, and some people are having fits. He has a message for them. So do I. Roy Schestowitz, editor of Tux Machines, summed up his reaction to the news as " Linus Torvalds Turns to Slop . " In the podcast Pivot to AI , podcaster David Gerard agreed: "Linux kernel goes full AI slop code." Meanwhile, in the Tom's Hardware comments section, commenter "LordVile" wrote: " This is a publicity stunt from his AI overlords [The Linux Foundation] who pay his wage." They followed this by saying this is the "same reason he's flipped-flopped on AI." I've known Linus for a few decades, and I don't take his use of AI as evidence that he's suddenly abandoned his standards. And the very idea that he'd do anything he didn't want to do with Linux on behalf of the Linux Foundation, or anyone else, is ludicrous. I get it, though. There are reasons to be suspicious of AI. I've written about many of them. For instance, AI model collapse , which happens when AI engines learn from other AI models and their ties to the truth fray. It's a very real problem. Not, mind you, that LLMs find the grist for their answer mills from very reliable sources in the first place. Even when AI gets good data, as it does in programming, its owners pay little to no attention to the copyrights and licenses protecting the open source code it picked up its coding tricks from. As for paying for the information it runs on, please! The very idea that Big AI must pay writers,
 
-### BOFH: I talked to Claude and he says you're an idiot
-Fri, 23 Oct 2026 10:27:00 +0000 — https://www.theregister.com/bofh/2026/10/23/bofh-i-talked-to-claude-and-he-says-youre-an-idiot/5304921
-
-Working in the same place for what feels like millennia can have its benefits, however working for the same place for what seems like millennia carrying over all the benefits of your original contract can be even better than that. Some of those benefits are, admittedly, useless to me. I'm unlikely to avail myself of the Company-reimbursed landline (that all on-call personnel are entitled to), and I won't be needing the 2400bps modem or the VT100 for after hours support. The one month pregnancy leave is also off the cards. What is in play, however, as the PFY has recently discovered, is accumulated sick leave. It appears that we've been racking up two weeks a year to a point that I now have sufficient sick leave to safely get leprosy. Obviously, I'm not going to exercise that particular option, but both the PFY and I have been considering roads not taken in recent times... ... "Ahh... Just, um, following up on your recent, uh, illnesses." The Boss asks uneasily. "Oh yes?" I ask. "This, uh, acute bronchitis a few Fridays back." "Oh yeah, it was terrible," I lie. "Hacking cough, not pleasant at all. I was wheezing like a coal-fired Trabant." "And that particular illness lasted... a single day?" "Apparently," I say. "All good now though." "And Stephen. He had acute... otitis media around the same time." "The ear thing?" I respond. "Yes, apparently it really affected his balance." "Okay, fair enough. But then you had acute sinusitis on the Monday? And Stephen had asthma on the Tue
-
-### UK threatens subsea cable saboteurs with 14 years behind bars
-Fri, 23 Oct 2026 09:29:00 +0000 — https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794
-
-Britain is threatening subsea cable saboteurs with up to 14 years in prison and unlimited fines, having apparently decided that Victorian-era laws aren't quite up to the job of keeping Russian submarines away from critical infrastructure. The government on Thursday set out plans to overhaul legislation dating back to 1885 and introduce tougher penalties for damaging the underwater cables and pipelines that keep Britain's internet and energy supplies running. According to Whitehall, subsea cables carry around 99 percent of the UK's international data traffic, while underwater pipelines account for 74 percent of its gas supply. Yet much of this infrastructure is protected by laws written when the telegraph was cutting-edge technology. The Submarine Telegraph Act 1885 originally imposed a £100 maximum fine for damaging a cable through culpable negligence. That might have been a reasonable deterrent back then, but it's unlikely to give today's would-be saboteurs much pause. Under the proposals, those who intentionally damage critical subsea energy or telecoms infrastructure could face up to 14 years behind bars. The proposals also set tougher penalties, including unlimited fines, for reckless or negligent damage. Subsea telecoms operators would face new legal duties to identify and manage security risks, while ministers would gain powers to direct companies and cable repair providers to take action where necessary and proportionate to protect national security. The government als
-
 ## Engadget
+
+### The MacBook Neo uses an iPhone chip, and it's just good enough
+Sat, 24 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/
+
+The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.
+
+### How to get better iPhone battery life without closing any apps
+Sat, 24 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2290702/get-better-iphone-battery-life-without-closing-apps/
+
+Apple has added a host of battery-management features to the iPhone over the years.
+
+### The beneficial purpose of 'IQ' on your Anker chargers
+Sat, 24 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2290640/anker-charger-iq-meaning-purpose/
+
+Anker's PowerIQ technology helps identify and charge your devices more efficiently.
+
+### Which services can you safely disable to improve PC gaming?
+Sat, 24 Oct 2026 13:00:00 +0000 — https://www.engadget.com/2290638/which-windows-background-services-safely-disable-improve-pc-gaming/
+
+A lot of what Windows does out of the box isn't essential, and can waste your computer's power when you're trying to game.
+
+### How to improve your PC's airflow for better cooling
+Sat, 24 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2290489/how-to-improve-pc-airflow-better-cooling/
+
+Here's how to think about your PC's fans.
+
+### How long is too long for an HDMI cable?
+Sat, 24 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2290438/how-long-should-hdmi-cable-be-maximum-length/
+
+An HDMI cable doesn't have an exact usable length, but shorter is always better for more complex uses.
+
+### 'Father of the PlayStation' Ken Kutaragi sides with Sony on the physical discs debate
+Sat, 24 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2294585/ken-kutaragi-father-of-playstation-sides-with-sony-physical-games/
+
+The debate about Sony's plan to stop making physical PS5 discs has raged since this summer.
+
+### Engadget review recap: iPhone Duo, Rivian R2 and more
+Sat, 24 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2295366/engadget-review-recap-iphone-duo-rivian-r2-and-more/
+
+A roundup of recent reviews from Engadget.
+
+### Peak on consoles, hockey roguelites and other new indie games worth checking out
+Sat, 24 Oct 2026 11:30:00 +0000 — https://www.engadget.com/2295856/peak-on-consoles-hockey-roguelites-and-other-new-indie-games-worth-checking-out/
+
+Steam Next Fest means there are a lot of weird new games in our indie gaming roundup this week.
+
+### Meta is delaying its controversial new business terms amid scraping concerns
+Sat, 24 Oct 2026 10:18:15 +0000 — https://www.engadget.com/2296124/meta-delaying-controversial-business-terms-scraping-concerns/
+
+Meta drew flak for an upcoming change to its business terms that would allow it to scrape business accounts' content for AI training.
 
 ### OpenAI says it's cutting off internet access for frontier model training
 Fri, 23 Oct 2026 22:37:02 +0000 — https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/
@@ -312,57 +362,12 @@ Fri, 23 Oct 2026 16:09:39 +0000 — https://www.engadget.com/2295422/meta-is-cha
 
 The new restrictions are a test which is explicitly not supposed to impact these entities.
 
-### Apple Music has a fun Easter egg for the iPod's 25th anniversary
-Fri, 23 Oct 2026 15:47:03 +0000 — https://www.engadget.com/2295392/apple-music-has-a-fun-easter-egg-for-the-ipods-25th-anniversary/
-
-Time to dust off the click wheel.
-
-### Greece enacts social media ban for kids under 15
-Fri, 23 Oct 2026 13:12:47 +0000 — https://www.engadget.com/2295143/greece-enacts-social-media-ban-for-kids-under-15/
-
-Greece has passed a social media ban for kids under 15 after after announcing the measure earlier this year.
-
-### ASUS ProArt P16 review: A sleek showcase for NVIDIA's RTX Spark
-Fri, 23 Oct 2026 12:00:00 +0000 — https://www.engadget.com/2294849/asus-proart-p16-rtx-spark-review/
-
-NVIDIA's RTX Spark platform is off to a good start, but the ProArt P16 is really only meant for AI fanatics.
-
-### GuliKit TT Pro review: The ideal Switch 2 controller for players on the go
-Fri, 23 Oct 2026 11:30:00 +0000 — https://www.engadget.com/2294411/gulikit-tt-pro-review/
-
-A protective case and an accessory box make it easy to travel with the TT Pro.
-
-### Tesla says it will no longer release the Cybertruck in Australia and New Zealand
-Fri, 23 Oct 2026 11:26:04 +0000 — https://www.engadget.com/2295058/tesla-will-not-release-cybertruck-in-australia-and-new-zealand/
-
-People who reserved the Cybertruck in Australia and New Zealand will soon get a refund, because Tesla now won't release it there.
-
-### Oura sues Ultrahuman (again) to block its latest smart ring from the US market
-Fri, 23 Oct 2026 09:59:15 +0000 — https://www.engadget.com/2295042/oura-sues-ultrahuman-yet-again-ring-pro/
-
-Oura has sued Ultrahuman again in a Texas federal court over its latest product, the Ring Pro.
-
-### A startup called Warhound is genetically engineering dogs for the military
-Fri, 23 Oct 2026 09:01:01 +0000 — https://www.engadget.com/2295033/warhound-genetically-engineering-dogs-military/
-
-Warhound is genetically engineering dogs for the military, law enforcement and first responder operations.
-
-### A new subscription service promises an evolving collection of 'bold and bizarre' indie games
-Thu, 22 Oct 2026 20:57:17 +0000 — https://www.engadget.com/2294854/a-new-subscription-service-promises-an-evolving-collection-of-bold-and-bizarre-indie-games/
-
-Publisher Pantaloon says the Playbill won't feature games that use generative AI in any way.
-
-### Spotify's Family plan QR code could cost you Premium access
-Thu, 22 Oct 2026 20:19:19 +0000 — https://www.engadget.com/2294799/spotify-family-plan-qr-code-cost-premium-access/
-
-Spotify is trying to make some Premium Family members prove they live at the same address.
-
-### Rhode Island sues Meta over its approach to scam ads
-Thu, 22 Oct 2026 20:05:26 +0000 — https://www.engadget.com/2294778/rhode-island-sues-meta-over-its-approach-to-scam-ads/
-
-It's the first state to sue the social media company on these allegations.
-
 ## TechCrunch
+
+### Here are the top AI agents that can live in your text messages
+Sat, 24 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
+
+We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
 
 ### Startups don t need to go viral to win customers
 Fri, 23 Oct 2026 23:07:45 +0000 — https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
@@ -418,9 +423,4 @@ Early-stage and follow-on investors in the AI lab are already sitting on major p
 Fri, 23 Oct 2026 15:00:09 +0000 — https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/
 
 Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.
-
-### Oura sues rival Ultrahuman again, threatening its US smart ring comeback
-Fri, 23 Oct 2026 04:22:57 +0000 — https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
-
-Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
 

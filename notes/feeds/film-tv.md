@@ -1,6 +1,31 @@
-# Film & TV — harvested 2026-10-24T09:06:57.837Z
+# Film & TV — harvested 2026-10-24T14:07:14.967Z
 
 ## Variety
+
+### Dalton Smith vs. Alberto Puello Livestream: Here’s Where to Watch the WBC Junior Welterweight Title Boxing Match Online
+Sat, 24 Oct 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-smith-vs-puello-boxing-live-online-1236918582/
+
+In a title fight, promoter Matchroom Boxing sets up in England for an elite match between two prime boxers. In the main event, English boxer Dalton Smith defends his WBC junior welterweight championship title belts against Dominican Alberto Puello. It s a scheduled for 12 rounds. On Saturday, Oct. 24, Smith (19-0-0) vs. Puello (25-1-0) takes [ ]
+
+### Love Language Review: Chloë Grace Moretz Sells Words of Affirmation in an Old-School Romcom With Gen-Z Trappings
+Sat, 24 Oct 2026 13:43:51 +0000 — https://variety.com/2026/film/reviews/love-language-review-1236930209/
+
+Much has been written on the new dating politics practiced by Gen-Z — more progressive socially, more conservative sexually, if you believe the hot takes, which you probably shouldn t. Either way, that sensibility has yet to trickle down to mainstream portrayals of Zoomer romance on screen, which remain largely beholden to templates established by previous [ ]
+
+### Morelia Film Festival Prizes: ‘Six Months in a Pink and Blue Building,’ an Expression of Pure, Unbound Beauty, Wins Top ‘Ojo’ Award
+Sat, 24 Oct 2026 12:52:22 +0000 — https://variety.com/2026/film/global/morelia-film-festival-prizes-pink-and-blue-building-1236929888/
+
+Bruno Santamaría Razo’s fiction debut “Six Months in a Pink and Blue Building”(“Seis meses en el edificio rosa con azul”) has clinched the top Ojo award at the 24th Morelia Film Festival (FICM), which wraps Oct. 25. Hailed by Variety as a “lush, poetic film rooted in memories,” it became the first Mexican feature to [ ]
+
+### El Gouna Takeaways: Safe Exit Wins Top Prize, Arab TV Seeks New Talent and Egyptian Filmmakers Push Boundaries
+Sat, 24 Oct 2026 10:23:00 +0000 — https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/
+
+Egypt’s El Gouna Film Festival wrapped its ninth edition Friday after nine days of screenings, industry activity and a closing night that spread its top prizes across the Middle East and beyond. Mohammed Hammad’s “Safe Exit,” a psychological drama about a young Coptic security guard in Cairo confronting trauma rooted in religious violence, won the [ ]
+
+### UFC 333 Livestream: Here s How to Watch Volkanovski vs. Evloev Online for Free
+Sat, 24 Oct 2026 10:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-333-volkanovski-vs-evloev-live-online-free-1236917590/
+
+After Natalia Silva defended Wang Cong in an unanimous decision to win the UFC Women’s Flyweight Championship during UFC 332 in early October, the Ultimate Fighting Championship travels from Salt Lake City to Abu Dhabi for UFC 333. For the main event, Australian Alexander Volkanovski (28-4-0) defends his UFC Featherweight Championship belt against Russian fighter [ ]
 
 ### Jay-Z Brings Out Blue Ivy Carter, DJ Khaled and John Legend During the First of Two Nights at Los Angeles SoFi Stadium
 Sat, 24 Oct 2026 08:42:12 +0000 — https://variety.com/2026/music/news/jay-z-brings-out-blue-ivy-dj-khaled-scarface-sofi-stadium-1236930075/
@@ -27,32 +52,12 @@ Sat, 24 Oct 2026 02:27:40 +0000 — https://variety.com/2026/tv/news/bill-maher-
 
 Bill Maher appears to be on good terms with Trumpworld. The 70-year-old HBO host joined Kid Rock and Stephen A. Smith as President Trump’s White House dinner guests earlier this month, and, following the dinner, Trump intimated to reporters that Maher’s criticisms of him on his late-night program are mostly bluster, and he “likes me [ ]
 
-### Kartik Aaryan’s Captain India Set Amid Houthi Conflict in Yemen (EXCLUSIVE)
-Sat, 24 Oct 2026 02:26:30 +0000 — https://variety.com/2026/film/news/kartik-aaryan-captain-india-houthi-conflict-yemen-1236930090/
-
-Kartik Aaryan’s upcoming action drama “Captain India” is set amid the Houthi conflict in Yemen, Variety understands. The film marks Aaryan’s first turn as a pilot. Shimit Amin directs the project, which is based on a real humanitarian evacuation. Aaryan’s character leads the rescue effort. That conflict is central to the story and adds a [ ]
-
-### Ken Atchity, The Meg Producer and Literary Agent, Dies at 82
-Sat, 24 Oct 2026 00:59:59 +0000 — https://variety.com/2026/film/people-news/ken-atchity-dead-the-meg-1236930069/
-
-Kenneth Atchity, The Meg producer and literary agent, died on Monday. He was 82. Across his career as a literary manager, producer and writer, Atchity produced more than 30 films; wrote over 20 books; negotiated publishing and entertainment deals; and published hundreds of additional titles through his own imprint, Story Merchant Books. In addition to [ ]
-
-### Sacha Baron Cohen Says Donald Trump Has ‘Elements of Brilliance’ and ‘We Were Too Easy to Dismiss Him as a Nincompoop’
-Fri, 23 Oct 2026 22:18:01 +0000 — https://variety.com/2026/film/news/sacha-baron-cohen-donald-trump-brilliance-nincompoop-ali-g-1236930008/
-
-20 years after retiring Ali G, Sacha Baron Cohen has dusted off his tracksuit collection and reprised the character for “Ali G: Who Iz I?,” now open in theaters before coming to Amazon Prime Oct. 30. The comedian first brought Ali G to audiences at the turn of the century with “Da Ali G Show,” [ ]
-
-### Sandra Hüller Joins Avengers: Doomsday in Cameo Role
-Fri, 23 Oct 2026 22:02:10 +0000 — https://variety.com/2026/film/news/sandra-huller-avengers-doomsday-cameo-role-1236930032/
-
-Oscar nominee Sandra Hüller will make a cameo in Marvel s Avengers: Doomsday. News of Hüller s top-secret role comes as directors Anthony and Joe Russo are in post-production on the project, ahead of its Dec. 18 release date. The superhero movie is already stuffed to the gills with award-winning actors and massive movie stars, including Chris [ ]
-
-### Law Order: SVU Sets Stephanie March to Return as Alexandra Cabot
-Fri, 23 Oct 2026 20:30:00 +0000 — https://variety.com/2026/tv/news/law-order-svu-stephanie-march-return-alexandra-cabot-1236929966/
-
-Assistant district attorney Alexandra Cabot is back. Stephanie March will appear in the ninth episode of Law Order: Special Victims Unit Season 28 to reprise the role she has played in more than 100 episodes. March was a member of the main Special Victims Unit cast from Season 2 in 2000 to Season 5 [ ]
-
 ## The Hollywood Reporter
+
+### Quentin Tarantino Shows Off First 17 Minutes of Cliff Booth and Explains Decision to Revive Character
+Sat, 24 Oct 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509/
+
+The director surprised AFI Fest with a first look at the follow-up, following a screening of 'Once Upon a Time in Hollywood.'
 
 ### Hannah Einbinder Says Speaking Out for Palestine Is the Bare Minimum
 Sat, 24 Oct 2026 02:12:59 +0000 — https://www.hollywoodreporter.com/news/general-news/hannah-einbinder-palestine-support-bare-minimum-1236739491/
@@ -99,12 +104,12 @@ Fri, 23 Oct 2026 22:02:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 Fellow first-year shows 'NCIS: New York' and 'Eternally Yours' also post sizable gains.
 
-### Nobody Wants This Season 3 Explained: Does Joanne Finally Convert to Judaism? What Happens to Morgan and Sasha?
-Fri, 23 Oct 2026 21:49:01 +0000 — https://www.hollywoodreporter.com/tv/tv-features/nobody-wants-this-season-3-ending-explained-joanne-noah-1236737869/
-
-Here's a breakdown of the Netflix rom-com's biggest moments in its third season. Spoilers ahead...
-
 ## Deadline
+
+### Anika Rashaun Dies: Real World , The Challenge Alum Was 34
+Sat, 24 Oct 2026 13:08:57 +0000 — https://deadline.com/2026/10/anika-rashaun-dead-1237172312/
+
+Anika Rashaun, the Reality TV star who appeared and competed on MTV s The Real World and The Challenge and later became a professional matchmaker, advice columnist and dating coach, died October 1 of breast cancer. She was 34. Rashaun s death was announced by friends on social media. Cyndi Rich wrote on Facebook, Anika shined so [ ]
 
 ### Inside The BBC Cuts: Painful Service Closures Begin, But Worse Could Be To Come
 Sat, 24 Oct 2026 09:02:09 +0000 — https://deadline.com/2026/10/inside-bbc-cuts-painful-closures-begin-worse-to-come-1237169573/
@@ -161,19 +166,16 @@ Fri, 23 Oct 2026 22:15:37 +0000 — https://deadline.com/2026/10/crazy-rich-asia
 
 After eight years, Constance Wu is reuniting with the Young family for the Crazy Rich Asians HBO sequel series. On Friday, the Golden Globe nominee teased the really funny script from the 2018 film s co-writer Adele Lim, revealing the filming is taking place in New York City for the one-hour drama series, which got a [ ]
 
-### Aaron Guzikowski Tapped To Pen New Alien Movie For 20th, Scott Free
-Fri, 23 Oct 2026 21:57:05 +0000 — https://deadline.com/2026/10/new-alien-movie-aaron-guzikowski-writing-20th-1237172102/
-
-Aaron Guzikowski, creator of the Scott Free-produced HBO Max sci-fi series Raised by Wolves, is scripting a new Alien movie for 20th Century Studios, Deadline can confirm. Not much else is known about the project at this stage, including whether it would follow up the most recent installment, 2024 s Alien: Romulus. It s described as being [ ]
-
 ## befores & afters
 
-### How the Dykstraflex changed VFX
-Thu, 22 Oct 2026 13:44:05 +0000 — https://beforesandafters.com/2026/10/23/how-the-dykstraflex-changed-vfx/
-
-The importance of ILM s ​Dykstraflex to the making of A New Hope, and to filmmaking. This episode is sponsored by fxphd . Buy WOAH! Great Moments in Effects History Vol. 1 by Ian Failes at Amazon in PRINT and on KINDLE: https://amzn.to/4xpXmqo Get early access to these videos at the befores & afters Patreon on the VFX Bonus Access tier: https://www.patreon.com/c/beforesandafters/membership Want to sponsor a weekly video? Send Ian an email: beforesandafters@gmail.com Music by Matt Estela: https://soundcloud.com/cgwiki The post How the Dykstraflex changed VFX appeared first on befores & afters .
+_Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Quentin Tarantino Surprises Fans with an Early Look at The Further Mis-Adventures of Cliff Booth
+Sat, 24 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/
+
+Tarantino introduced the first 17 minutes of his upcoming collaboration with David Fincher after an AFI Fest screening of "Once Upon a Time...in Hollywood."
 
 ### Color Book Director David Fortune Used Ice Cold Showers to Practice His AT T Untold Stories Award Pitch — Watch
 Fri, 23 Oct 2026 21:56:27 +0000 — https://www.indiewire.com/news/events/att-award-winner-david-fortune-future-of-filmmaking-summit-1235223494/
@@ -230,11 +232,6 @@ Fri, 23 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/features/podcast/c
 
 Daniel Pemberton joins IndieWire's "Screen Talk" to chat scores in four movies, including "Ink" and "The Drama."
 
-### Wicker Review: Olivia Colman Rides Alexander Skarsgård s Wood in Bawdy Sex Fantasy About Hysterically Horny Villagers
-Fri, 23 Oct 2026 15:30:01 +0000 — https://www.indiewire.com/criticism/movies/wicker-review-olivia-colman-alexander-skarsgard-1235175039/
-
-Eleanor Wilson and Alex Huston Fischer's second feature is a kooky sex-crazed folk tale in search of a greater purpose beyond its premise, but Colman and Skarsgård prove irresistibly weird and wonderful.
-
 ## The Wrap
 
 ### Quentin Tarantino Surprises AFI Fest Audience by Unveiling 17 Minutes of Cliff Booth
@@ -289,53 +286,53 @@ HBO s investment in the upcoming Harry Potter TV series puts its budget in the s
 
 ## Collider
 
-### Christopher Nolan's Best Crime Thriller Officially Leaves Netflix
-Sat, 24 Oct 2026 09:00:17 GMT — https://collider.com/christopher-nolan-the-dark-knight-leaving-netflix-november-2026/
+### Disney’s Biggest Box Office Bomb of 2026 Officially Begins Its Streaming Redemption Arc
+Sat, 24 Oct 2026 14:00:15 GMT — https://collider.com/moana-2026-disney-plus-streaming-box-office-redemption/
 
-This summer, Christopher Nolan pulled off a feat that seemed incredible even for someone as accomplished as him. With The Odyssey , he delivered the highest-grossing hit of his career, both domestically and worldwide. This is saying something, because Nolan is known for his blockbuster movies. In fact, it was his sheer popularity among audiences that propelled the 2023 biographical thriller Oppenheimer to nearly $1 billion at the global box office. Did you know that Oppenheimer was roughly $100 million shy of becoming Nolan’s highest-grossing film? The Odyssey pulled it off this past summer, and then some. The fantasy epic has grossed nearly $1.8 billion worldwide, easily overtaking Nolan’s biggest hits, including every film in the celebrated The Dark Knight Trilogy .
+While 2026 has offered up several unexpected blockbusters — look no further than the summer's two horror breakouts, Obsession and Backrooms — there have been a handful of underperformers as well. Amazon MGM released the blockbuster Project Hail Mary , but the studio also watched Masters of the Universe crash and burn with less than $120 million worldwide against a reported budget of $175 million. Warner Bros. has had a notoriously difficult year, with major flops such as Supergirl drawing intense negative buzz after grossing around $125 million worldwide against a reported budget of more than $180 million. More recently, the studio's ambitious political satire Digger emerged as one of the biggest bombs of all time, with a projected final haul of under $50 million against a reported budget of $180 million. And then there's Disney. The studio had two massive underperformers this year, one of which has already failed to redeem itself on streaming. Now, it's the other film's turn to try and save face.
 
-### Quentin Tarantino’s 165-Minute Western Masterpiece Is Officially Streaming on Prime Video
-Sat, 24 Oct 2026 08:40:15 GMT — https://collider.com/quentin-tarantino-django-unchained-streaming-prime-video-october-2026/
+### The 8 Most Fun YA Books of All Time, Ranked
+Sat, 24 Oct 2026 13:41:15 GMT — https://collider.com/most-fun-ya-books-all-time-ranked/
 
-The last few years have been quiet for Quentin Tarantino after he last directed a movie in 2019, but this is all going to change soon with the launch of his next film in IMAX this November. Tarantino has only directed nine movies in his career, which is significantly less than some of the other filmmakers in his generation, but he’s won two Oscars and been nominated for several more. Tarantino recently guided Brad Pitt to the best performance of his career in Once Upon a Time… in Hollywood , which grossed over $400 million at the box office against a $90 million budget — this budget is relatively modest for as many stars that appear in the film. Pitt will return to his Oscar-winning role later this year in The Further Mis-Adventures of Cliff Booth .
+The best YA books speak directly to their audience's concerns and feelings , while still serving up compelling plots and memorable characters, perhaps even alternate realities or speculative futures. They're accessible without ever talking down to the reader.
 
-### Sylvester Stallone Officially Confirms Why ‘Tulsa King’ Had To Kill Off [SPOILER]
-Sat, 24 Oct 2026 08:39:15 GMT — https://collider.com/sylvester-stallone-tulsa-king-season-4-character-deaths/
+### Henry Cavill and Guy Ritchie’s Biggest Box-Office Bomb Officially Hits 40-Day Winning Streak
+Sat, 24 Oct 2026 13:15:51 GMT — https://collider.com/in-the-grey-henry-cavill-guy-ritchie-streaming-success-40-days/
 
-[Editor's Note: The following contains spoilers for Tulsa King Season 4, Episodes 1 and 2]
+Apart from Alan Ritchson , who has emerged as a bona fide streaming-era star thanks to Prime Video's Reacher , if there's one person who can be counted on to draw audiences for streamers, it's director Guy Ritchie . The irony is that he hasn't had a theatrical hit in five years. The most recent movie he directed that did well at the box office is Wrath of Man , which served as a long-awaited reunion between him and his old partner-in-crime, Jason Statham . Wrath of Man was released in 2021, grossing more than $100 million at the worldwide box office against a reported budget of $40 million. Since then, Ritchie has directed numerous mid-budget movies for theaters, but none of them have broken even at the box office, let alone turned a profit. The latest is an action-thriller entirely in Ritchie's wheelhouse. The movie drastically underpeformed in theaters earlier this year, but like so many of Ritchie's recent movies, has turned out to be a major home-video hit.
 
-### Netflix Officially Pulls Zack Snyder's Action Fantasy From Its Library
-Sat, 24 Oct 2026 08:20:15 GMT — https://collider.com/zack-snyder-sci-fi-fantasy-sucker-punch-leaving-netflix-november-2026/
+### Curry Barker Officially Reveals the ‘Obsession’ Detail He Couldn’t Afford to Fix [Exclusive]
+Sat, 24 Oct 2026 13:15:15 GMT — https://collider.com/obsession-curry-barker-car-scenes-budget/
 
-After a brief detour into the festival circuit with the passion project The Last Photograph , director Zack Snyder is gearing up to return to franchise filmmaking with a remake of Escape from New York . Snyder has spent the majority of his career working with pre-established properties, at least when he isn’t devising his own. In recent years, he has worked on a string of big-budget projects with Netflix, with mixed results. Both the franchises he was meant to oversee — Army of the Dead and Rebel Moon — were abandoned due to regime changes and unremarkable performance. The filmmaker had a similar experience during his stint at Warner Bros. Interestingly, the biggest box-office underperformer from his WB era is currently streaming on Netflix, but only for a little while longer.
+There’s a good chance that anyone revisiting Obsession is paying considerably more attention to Nikki than to little details in the background, like the scenery outside a car window. That’s understandable. But the next time you watch Curry Barker ’s horror movie, the buildings might deserve a little attention, too.
 
-### Tom Holland’s ‘Spider-Man’ Sequel Officially Becomes a Global Apple TV Hit
-Sat, 24 Oct 2026 08:00:14 GMT — https://collider.com/spider-man-far-from-home-apple-tv-streaming-hit-october-2026/
+### 'Wicked' Officially Sets New 2027 Release With Elphaba and Glinda [Exclusive]
+Sat, 24 Oct 2026 13:00:15 GMT — https://collider.com/wicked-for-good-elphaba-glinda-paul-tazewell-mattel-dolls-images/
 
-Apple TV has an impressive catalog of movies. For a long time, these movies were all Apple projects, such as Joseph Kosinski 's fast-paced blockbuster F1 , which became Apple Original Film's highest-grossing theatrical release of all time with a $633 million box office haul worldwide . But not long after F1 won the Best Sound prize at the 98th Academy Awards ceremony earlier this year, Apple TV shook things up by adding non-original, licensed third-party movies to its catalog on a rotating basis.
+There’s a lot a witch can say with the right dress. For Elphaba, an imposing silhouette can keep the world at a distance , while Glinda has never needed much encouragement to make an entrance in pink. Put their wardrobes beside each other, though, and there’s another story woven into the fabric : the friendship that changes them both.
 
-### This Masterpiece From Brandon Sanderson's Cosmere Has the Best Third Act in Fantasy Books
-Sat, 24 Oct 2026 04:05:14 GMT — https://collider.com/mistborn-hero-of-ages-brandon-sanderson-fantasy-book-best-third-act/
+### Netflix’s ‘Cyberpunk’ Universe Is Officially Back With a New Release
+Sat, 24 Oct 2026 12:45:15 GMT — https://collider.com/cyberpunk-edgerunners-2-netflix-new-10-episode-series/
 
-When it comes to writing a story, few things are more difficult to nail than the ending . It's not easy to wrap up a story in a way that leaves audiences feeling satisfied. It's hard enough with a stand-alone novel, but it's even more challenging with a multi-volume saga, especially the kind that the fantasy genre tends to lend itself to. Still, a lot of successful fantasy sagas have done well for themselves. One ending stands above the rest , and it comes from Brandon Sanderson 's Cosmere universe.
+Night City is one of the worst places imaginable to live in, we need to be honest. Especially if you've got ambitions of living a long and happy life, after all. When you're surrounded by darkness on all sides, you need to turn your group of desperate mercenaries into one of science fiction's most unforgettable crews if you want to make it. And the bonus is that it includes spectacular action, heartbreak and — prepare the meme voice — emotional damage! Now, while the original story came to a rather painful conclusion, Night City has never been short of people willing to risk everything for a shot at becoming a legend.
 
-### One of the Decade's Greatest Thriller Shows Officially Lands on a New Streamer
-Sat, 24 Oct 2026 03:58:14 GMT — https://collider.com/from-tv-series-netflix-new-streaming-home-october-2026/
+### The 10 Most Rewatchable Fantasy Movies of the 2000s, Ranked
+Sat, 24 Oct 2026 12:33:15 GMT — https://collider.com/rewatchable-fantasy-movies-2000s-ranked/
 
-One of the greatest horror thriller series of the decade has finally arrived on Netflix — just in time for Halloween — but there's a catch. Although the MGM+ hit From is currently in production on its fifth and final season, only the first three seasons are available to stream on Netflix . Yet even 30 episodes are more than enough to deliver a taste of this exceptional series, making now the perfect time to add this spooky and suspenseful series to your queue.
+The fantasy genre has been through many ups and downs in cinema. In the 1980s, there was a golden age of fantasy films beloved for their impressive practical effects and dark atmosphere, but this style faded during the 1990s. Then, in 2001, Harry Potter and the Philosopher's Stone and The Lord of the Rings: The Fellowship of the Ring hit theaters, spawning a new age of fantasy in their image.
 
-### 'House of the Dragon's Long History Behind Vhagar Explained
-Sat, 24 Oct 2026 03:41:15 GMT — https://collider.com/house-of-the-dragon-vhagar-history-explained/
+### Jamie Lee Curtis and Téa Leoni Confess What They Got “Very Competitive” About on the ‘Newlyweds’ Set
+Sat, 24 Oct 2026 12:31:15 GMT — https://collider.com/newlyweds-nbc-jamie-lee-curtis-tea-leoni-tim-daly/
 
-House of the Dragon 's fanbase has seen quite a bit of Vhagar, the oldest and strongest dragon alive in Westeros. She instills fear in her enemies and isn't above ignoring her rider when she sees fit (or simply disappearing for large periods of time). We've seen two riders claim her so far, but Vhagar has had quite a tumultuous history well before the Dance of the Dragons in the lore of the world. This old girl has earned her stripes and seen her share of warfare.
+Over a decade after they first met (and fell in love!) on political drama Madam Secretary, Téa Leoni and Tim Daly are reuniting once again — this time, for a more comedic project in the form of Newlyweds , where they play eccentric widow Jeanie and pragmatic divorcee James who marry after a whirlwind romance . Leoni is best known for projects in the late ‘90s and early 2000s, including Bad Boys , Jurassic Park III , and Family Man , the latter of which won her a Saturn Award, while Daly’s resume includes everything from the sitcom Wings to guest-starring in The Sopranos — a performance which earned him an Emmy nomination.
 
-### 9 Years Later, Taylor Sheridan's Best Thriller Quote Beats Anything He Ever Did On 'Yellowstone'
-Sat, 24 Oct 2026 03:09:14 GMT — https://collider.com/taylor-sheridan-wind-river-quote-better-than-yellowstone/
+### Arnold Schwarzenegger’s $440M Sci-Fi Reboot Is Officially Leaving Free Streaming
+Sat, 24 Oct 2026 12:30:15 GMT — https://collider.com/arnold-schwarzenegger-terminator-genisys-leaving-tubi-november-2026/
 
-Taylor Sheridan ’s second act was one far different from the first. After leaving the fan-favorite series, Sons of Anarchy , in his role as Deputy Hale, he went on to create one of the most recognizable crime dramas of the decade. Yellowstone ushered in a new age where neo-Westerns took over pop culture . The saga of the Dutton family premiered in 2018 on the Paramount Channel and had everything going for it.
+One of the longest-running film franchises in history is currently in limbo, following two failed reboot attempts in one decade. The latest attempt was made in 2019 and marketed as a long-awaited homecoming for the franchise's creator. However, past endorsements made by the illustrious filmmaker about earlier installments dampened the impact of his return. The movie bombed at the box office despite having received mostly positive reviews, leading its star to declare that the series, at least in its current form, had outstayed its welcome. This wasn't the first time that the star expressed dismay about how one of the franchise's films had turned out. He previously admitted a 2015 movie in the series entered production with a subpar script; the film in question is currently streaming for free in the United States, but only for a little while longer.
 
-### Catherine Zeta-Jones' 'The Mummy' Replacement Is Officially Back on Streaming
-Sat, 24 Oct 2026 03:09:14 GMT — https://collider.com/catherine-zeta-jones-the-phantom-the-mummy-streaming-october-2026/
+### 10 Modern Horror Movies That Are 10/10 Masterpieces
+Sat, 24 Oct 2026 12:29:15 GMT — https://collider.com/modern-horror-movies-perfect-masterpieces/
 
-Before the debut of the MCU and DC Studios' new DC Universe, Billy Zane of Titanic and Zoolander fame starred in a big-budget live-action adaptation of the world's first costumed comic strip superhero, The Phantom . Based on the iconic comic strip of the same name, The Phantom stands out as a fun and very underrated action-adventure story , evoking the style of fan-favorite action movies like The Mummy , starring Brendan Fraser , or Steven Spielberg's Indiana Jones . It’s time to unpack this underrated comic book superhero epic.
+Horror has always been a massively celebrated genre of filmmaking, with countless classics from each era helping build up the stature and legacy that the genre has today. However, the genre has been on a truly special hot streak as of late , with so many exceptional horror films not only delivering on the potential of the genre, but also finding massive success and beginning to be truly celebrated by general audiences. For a genre that was once one of the biggest taboos of the industry, it feels nice that it's finally being taken seriously as works of cinematic art.
 

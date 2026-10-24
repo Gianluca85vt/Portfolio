@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-24T09:06:57.837Z
+# Manga — harvested 2026-10-24T14:07:14.967Z
 
 ## Anime News Network
+
+### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 5
+Sat, 24 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-5/.243160
+
+With the berating thematic heart of <i> Steel Ball Run</i> now laid bare, the race can really begin and I feel so lucky to be alive at a time when I can experience this story in this way.
+
+### Love Live! x Space Battleship Yamato Crossover Art Unveiled
+Sat, 24 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-24/love-live-x-space-battleship-yamato-crossover-art-unveiled/.243154
+
+Has the crew of the legendary space battleship become school idols?
 
 ### Kaiju No. 8 Anime's 'Conclusion Arc' Revealed as Film Opening in 2027
 Sat, 24 Oct 2026 03:01:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/kaiju-no-8-anime-conclusion-arc-revealed-as-film-opening-in-2027/.243156
@@ -52,21 +62,21 @@ Fri, 23 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Film screened in U.S., Canada through Crunchyroll Anime Nights on August 17
 
-### Manhwa-Based Live-Action Series The Blue Road Releases Teaser Trailer Ahead of November 20 Premiere
-Fri, 23 Oct 2026 10:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/manhwa-based-live-action-series-the-blue-road-releases-teaser-trailer-ahead-of-november-20-premiere/.243124
-
-Seok-gu Son, Eita Nagayama star in series based on 2002 Korean-Japanese collaborative comic
-
-### This Week in Games - Seasons of Books and Keys, and Bloody Roars and Expensive Consoles
-Fri, 23 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-23/seasons-of-books-and-keys-and-bloody-roars-and-expensive-consoles/.243003
-
-Hold on to your old consoles, because the new ones are going to cost a <i>lot</i>. Plus Jean-Karlo digs into the demo of upcoming VN <i>Seasons of Books and Keys</i>!
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Though I Am an Inept Villainess Cour 2 Reveals Teaser Trailer Ahead of January 2027 Debut
+Sat, 24 Oct 2026 09:20:53 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-teaser-trailer-ahead-of-january-2027-debut/
+
+Though I Am an Inept Villainess anime has released a teaser trailer for its second cour, which will begin airing in January 2027.
+
+### Kaiju No. 8 Final Movie Announced for 2027 as Anime Conclusion
+Sat, 24 Oct 2026 09:16:17 GMT — https://animecorner.me/kaiju-no-8-final-movie-announced-for-2027-as-anime-conclusion/
+
+Kaiju No. 8: The Movie will officially conclude the series as a theatrical film set for release in 2027, bringing the anime series to its final chapter.
 
 ### Black Clover Season 2 Episode 4 Preview Teases Nacht Fighting Two Supreme Devils
 Fri, 23 Oct 2026 19:48:24 GMT — https://animecorner.me/black-clover-season-2-episode-4-preview-teases-nacht-fighting-two-supreme-devils/
@@ -118,16 +128,6 @@ Fri, 23 Oct 2026 03:21:45 GMT — https://animecorner.me/cosplay-trackside-retur
 
 Cosplay Trackside, an Umamusume-themed cosplay meetup, returns to Santa Anita Park in Arcadia, California,&hellip;
 
-### Black Clover's ONE OR EIGHT to Perform in Manila
-Thu, 22 Oct 2026 17:06:02 GMT — https://animecorner.me/black-clovers-one-or-eight-to-perform-in-manila/
-
-Rising Japanese boy group ONE OR EIGHT is ready to take off with their&hellip;
-
-### The Apothecary Diaries Movie Reveals New Trailer, Key Visual, and Kenshi Yonezu Theme Song
-Thu, 22 Oct 2026 12:21:09 GMT — https://animecorner.me/the-apothecary-diaries-movie-reveals-new-trailer-key-visual-and-kenshi-yonezu-theme-song/
-
-The Apothecary Diaries the Movie: The Late Lady’s Treasure revealed a new trailer and a main visual ahead of its December 11 premiere in Japan.
-
 ## MyAnimeList News
 
 ### New Ghost in the Shell Anime Project in Production
@@ -140,21 +140,19 @@ Thu, 22 Oct 2026 20:43:18 -0700 — https://myanimelist.net/news/74849312?_locat
 
 The official website of the Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery) movie announced the production of a second part on Friday, as well as five additional cast and a second key visual (pictured) for the first movie. The first part premiered in Japan on Friday. Cast Srajo: Nana Mizuki (Boruto: Naruto Next Generations) Nishagora: Akino Watanabe (Free! Dive to the Future) Yataramar: Shunsuke Takeuchi (Ao Ashi) Sherumi: Nao Touyama (Kanojo, Okarishimasu) Menae: Yume Miyamoto...
 
-### Manga Uruwashi no Yoi no Tsuki Ends in Next Chapter
-Thu, 22 Oct 2026 05:51:17 -0700 — https://myanimelist.net/news/74846841?_location=rss
-
-The official X (formerly Twitter) account of Desert magazine announced on Thursday that Mika Yamamori s Uruwashi no Yoi no Tsuki (In the Clear Moonlit Dusk) manga will end with its next chapter. The 45th and final chapter is scheduled to be released in the December 2026 issue of Desert magazine on October 23. Yamamori launched the school romance manga in Desert magazine in July 2020. Kodansha released the 11th volume on September 11. The manga has a cumulative 8.2 million copies of its volu...
-
-### Psyren Announces Additional Cast Pair
-Thu, 22 Oct 2026 04:10:21 -0700 — https://myanimelist.net/news/74846620?_location=rss
-
-The official X (formerly Twitter) account for the television anime adaptation of Toshiaki Iwashiro s Psyren manga announced a pair of additional cast on Thursday. The anime series premiered on October 5 at 11.00 p.m. on Tokyo MX, followed by BS11 and Sun TV. Voice actors Reiko Suzuki (Versailles no Bara) and Ayumu Murase (Chainsaw Man) are joining the cast as Elmore Tenjuin and Van Tenjuin, respectively. Katsumi Ono (Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu) is directing the anime...
-
 ## Otaku USA
 
 _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-_Feed unavailable: HTTP 500_
+### Crunchyroll reveals UK Home Entertainment Release Schedule November-December 2026
+Fri, 23 Oct 2026 10:15:43 +0000 — https://animeuknews.net/2026/10/crunchyroll-reveals-uk-home-entertainment-release-schedule-november-december-2026/
+
+Titles include Ghost in the Shell 4K, The Apothecary Diaries Season 1 and Overlord Season 4 On SteelBook® Blu-ray™ from November.
+
+### Wandering Cat s Cage Review
+Fri, 23 Oct 2026 09:00:15 +0000 — https://animeuknews.net/2026/10/wandering-cats-cage-review/
+
+From Takumigraphics comes an omnibus edition of an Akane Torikai manga that offers a look at a future where reproduction is harshly managed and men are dying out.
 

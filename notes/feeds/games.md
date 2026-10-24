@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-24T09:06:57.837Z
+# Games — harvested 2026-10-24T14:07:14.967Z
 
 ## Eurogamer
+
+### Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January
+Sat, 24 Oct 2026 13:30:30 +0000 — https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date
+
+Prime Video's Fallout reality competition, Fallout Shelter : The Experiment, will premiere on 13th January 2027. Read more
+
+### Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job
+Sat, 24 Oct 2026 12:57:17 +0000 — https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft
+
+Helen Chiang, Xbox&rsquo;s first-ever chief operating officer (COO), is leaving Microsoft just three months after taking the job. Read more
 
 ### What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth"
 Sat, 24 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort
@@ -52,16 +62,6 @@ Thu, 22 Oct 2026 17:00:49 +0000 — https://www.eurogamer.net/smash-bros-masahir
 
 Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated. Read more
 
-### Farewell BioWare, you inspired so many of us, and you deserved so much better than this
-Thu, 22 Oct 2026 16:45:25 +0000 — https://www.eurogamer.net/farewell-bioware-closed-ea
-
-Oof. I expected this day to come but the news has left me winded nonetheless; BioWare, the creator of so many beloved role-playing series and games - Mass Effect , Dragon Age, Baldur's Gate , Star Wars: Knights of the Old Republic - has been closed. EA decided it had no place for it under its new Saudi and private investment ownership . So Mass Effect 5 has been canned, and a studio that helped shape an industry and popularise role-playing games over the course of 31 years is no more. Read more
-
-### Final Fantasy 14, Umamusume: Pretty Derby, and more impacted as PHP vulnerability outages hit games around the globe
-Thu, 22 Oct 2026 14:11:14 +0000 — https://www.eurogamer.net/video-games-down-php-vulnerability
-
-Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more
-
 ## GamesIndustry.biz
 
 ### BioWare's end is a tragically familiar tale | Opinion
@@ -99,31 +99,16 @@ Thu, 22 Oct 2026 16:15:00 +0000 — https://www.gamesindustry.biz/it-was-crushin
 
 Today marks the one-year anniversary of the release of the first episode of Dispatch from AdHoc Studio, which went on to become one of the biggest surprise successes of 2025. Last November, the studio said Dispatch was on track to beat its three-year sales target after just three months . Read more
 
-### Marvel's Wolverine leads US September charts, achieves highest monthly dollar sales for a Sony-published title since Helldivers 2
-Thu, 22 Oct 2026 13:00:08 +0000 — https://www.gamesindustry.biz/marvels-wolverine-leads-us-september-charts-achieves-highest-monthly-dollar-sales-for-a-sony-published-title-since-helldivers-2
-
-Marvel's Wolverine led US game sales in September, achieving the highest monthly dollar sales for a Sony-published title since Helldivers 2. Read more
-
-### Report explores how Roblox can maintain older players as it becomes most-played game by total hours in H1 2026
-Thu, 22 Oct 2026 11:00:00 +0000 — https://www.gamesindustry.biz/report-explores-how-roblox-can-maintain-older-players-as-it-becomes-most-played-game-by-total-hours-in-h1-2026
-
-Roblox generated 4.05 billion hours of playtime across PC and console in H1 2026, making it the most-played game by total hours. Read more
-
-### How Pantaloon is curating an "evolving library of bold and bizarre games" with its new subscription service
-Thu, 22 Oct 2026 11:00:00 +0000 — https://www.gamesindustry.biz/how-pantaloon-is-curating-an-evolving-library-of-bold-and-bizarre-games-with-its-new-subscription-service
-
-Over recent years, more and more companies have moved away from the traditional publishing model and set their sights on indie curation. Read more
-
-### Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours
-Thu, 22 Oct 2026 09:14:16 +0000 — https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours
-
-Xbox has revealed the pricing for the cloud gaming limits on Game Pass, announced last month . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)
+Sat, 24 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november
+
+Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked next week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade Zero , from Chinese dev S-GAME. Read the full article on pushsquare.com
 
 ### Talking Point: What Are You Playing This Weekend? - Issue 655
 Fri, 23 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655
@@ -179,11 +164,6 @@ Fri, 23 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/thai-r
 Thu, 22 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game
 
 "We were making a great game". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN earlier today that a new trailer for the game had been created internally. Read the full article on pushsquare.com
-
-### Gears of War: E-Day, Cancelled Last-Minute for PS5, May Have Cost Half a Billion to Make
-Thu, 22 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make
-
-Fenix down. Gears of War: E-Day may be one of the most expensive games ever made, making Microsoft’s decision to cancel an almost-complete PS5 version of the game even more bemusing. Kotaku started the speculation earlier today when it cited sources who claim the third-person shooter cost an eye-watering $500 million to create. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -256,6 +236,46 @@ Mole Mania, Avenging Spirit and Revenge of the ‘Gator are all available next w
 
 ## Polygon
 
+### 'Wildwood' Is a "Risky" Movie — Just Like 'Coraline' Was 20 Years Ago
+Sat, 24 Oct 2026 14:00:18 GMT — https://www.polygon.com/wildwood-coraline-interview/
+
+What was the last thing you did that took 16 years to accomplish? No shame — but director Travis Knight has a different level of persistence than most of us.
+
+### Aaron Paul Originally Had A Much More Important Role In Clayface
+Sat, 24 Oct 2026 13:45:48 GMT — https://www.polygon.com/clayface-aaron-paul-cameo-explained/
+
+Clayface hit theaters this weekend, but one actor's role turned out to be smaller than expected. We knew Aaron Paul would be in the DC horror flick prior to its release, but in the final film, he cameos in just one scene. In a recent interview, director James Watkins revealed that Aaron Paul had a bigger role in Clayface that was mostly cut out of the theatrical release.
+
+### Nintendo Is Still Being Wildly Underestimated
+Sat, 24 Oct 2026 13:00:18 GMT — https://www.polygon.com/switchboard-nintendo-switch-sports-resort/
+
+Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+
+### 5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best
+Sat, 24 Oct 2026 12:00:19 GMT — https://www.polygon.com/metroid-dread-5-year-retrospective/
+
+Five years after its release, Metroid Dread still occupies a permanent space in my brain. Samus Aran’s nightmarish escape from a robot-infested abyss successfully revitalized the dormant Metroid series in 2021 by delivering a tightly designed Metroidvania full of challenging battles. There’s so much that’s still vivid in my memory now, but there’s one moment I have come back to time and time again: that ending.
+
+### Fallout Day 2026: Every Big Announcement from Bethesda’s Fan Event
+Sat, 24 Oct 2026 11:50:18 GMT — https://www.polygon.com/fallout-day-2026-announcements-roundup/
+
+Fallout Day, the annual celebration of all things Fallout , spanned a full five days in 2026, starting with a day dedicated to its community on Monday. Publisher Bethesda Softworks focused on giveaways, spotlights, and game announcements, making it clear that Bethesda has a lot in store for Fallout fans over the coming days, weeks, and months. The event came to an end on Friday, after a week-long series of announcements and celebrations in honor of Fallout, Bethesda's beloved post-apocalyptic franchise.
+
+### Game of Thrones’ Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube
+Sat, 24 Oct 2026 11:01:19 GMT — https://www.polygon.com/game-of-thrones-replacement-critical-role/
+
+If you’re looking for epic fantasy amid a whirlwind of politics and skulduggery, you’ll find little better than George R.R. Martin’s phenomenal Game of Thrones franchise. Whether it’s Game of Thrones, A Knight of the Seven Kingdoms , or House of the Dragon , the TV adaptations are a fantastic watch, with powerful, star-studded casts and insightful, in-depth worldbuilding woven expertly into the narrative.
+
+### 'Super Mario' Creator Breaks Down The Problem With AI Perfectly
+Sat, 24 Oct 2026 10:13:19 GMT — https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/
+
+Shigeru Miyamoto, one of the key figures behind monumental Nintendo franchises like The Legend of Zelda and Super Mario , recently received recognition from the government of Japan typically reserved for artists, athletes, and Nobel Prize winners. The Ministry of Education, Culture, Sports, Science and Technology declared Miyamoto a recipient of the 2026 Order of Culture award — and the resulting press conference for the accolade is a remarkable reflection of a gaming legend.
+
+### 13 Years Later, 'Adventure Time's Scariest Episode Is Still a 10-Minute Masterpiece
+Sat, 24 Oct 2026 10:00:18 GMT — https://www.polygon.com/adventure-time-scariest-episode-simon-and-marcy/
+
+Don't believe me? Do yourself a favor and watch the greatest (and scariest) episode of Adventure Time in the show's 10-year run : “Simon & Marcy.”
+
 ### Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability
 Sat, 24 Oct 2026 09:05:18 GMT — https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/
 
@@ -266,47 +286,22 @@ Sat, 24 Oct 2026 09:00:21 GMT — https://www.polygon.com/best-far-side-comics-w
 
 One of the best possible recipes for comedy is to have incredibly dumb characters written by incredibly smart people. Homer Simpson, for example, has often been written by Harvard-educated writers staffed at The Simpsons . Fry on Futurama is the same kind of character, as is Michael Scott from The Office , and basically every character on It’s Always Sunny in Philadelphia .
 
-### 12 Years Ago, 'Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst
-Sat, 24 Oct 2026 08:05:18 GMT — https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-episode-analysis/
-
-Doctor Who has never shied away from showing the Doctor at his worst . In “A Good Man Goes to War,” Eleven (Matt Smith) realizes that his choices have made him nearly as monstrous as his enemies. In “The Waters of Mars,” Ten (David Tennant) is still reeling from the loss of his most recent companion, Donna Noble (Catherine Tate), and determined to win for once. He uses his power over time to save people whose deaths are fixed points in history, consequences be damned. It’s a genuinely shocking, villainous moment for the Time Lord.
-
-### 50 Years Later, the Best War Series of All Time Is Still Unlike Anything Else on TV
-Sat, 24 Oct 2026 08:00:18 GMT — https://www.polygon.com/mash-tv-series-retrospective/
-
-When Robert Altman's M*A*S*H arrived in theaters in 1970, its irreverent approach to the Korean War was unlike anything audiences had seen before. The film followed army surgeons who used practical jokes, alcohol, and a disregard for military authority to maintain their sanity while treating the wounded. Two years later, CBS adapted the film into a television series that retained its anarchic spirit but accomplished something the movie couldn't: It gave audiences time to get to know these characters.
-
-### J.J. Abrams’ Best Original Sci-Fi Movie Officially Finds a New Home on Streaming
-Sat, 24 Oct 2026 04:00:21 GMT — https://www.polygon.com/cloverfield-jj-abrams-streaming-peacock-paramount-plus-pluto-tv/
-
-In early 2006, J.J. Abrams was in the midst of a generational run. Alias was about to end, Lost had become a cultural phenomenon, and Abrams was traveling the world promoting his directorial debut with Mission: Impossible 3 . Somehow, Abrams was just getting started.
-
-### The Witcher's Geralt Officially Returns for New Adventure
-Sat, 24 Oct 2026 00:43:18 GMT — https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/
-
-The Witcher fans have had a lot to look forward to, like a remaster of The Witcher 3 , the Songs of the Past expansion , and The Witcher 4 , expected sometime in 2028 . Those fans probably know by now that their favorite monster-hunting games are based on an iconic book series (as is the Netflix show ), and they'll be glad to learn that author Andrzej Sapkowski has more up his sleeve.
-
-### Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years
-Fri, 23 Oct 2026 23:33:18 GMT — https://www.polygon.com/darkwing-duck-reboot-disney-plus/
-
-Disney is apparently still rummaging around in its animation vault, and this time it’s pulled out a duck who has spent the last 35 years waiting for another chance to fight a bunch of extremely ridiculous villains. Darkwing Duck is officially returning in a brand-new series for Disney Plus, Disney has confirmed.
-
-### 7 Classic JRPGs That Are So Good They Never Need a Remake
-Fri, 23 Oct 2026 22:19:03 GMT — https://www.polygon.com/best-classic-jrpgs-no-remake/
-
-Remakes, remasters, and reimaginings are all the rage right now in video games. For the last several years, studios the world over have crafted new and vastly improved versions of all-time classic games, ranging from faithful modernizations like Capcom’s Resident Evil 4 remake to Square Enix’s wildly ambitious and expanded Final Fantasy 7 Remake trilogy . While plenty of older games benefit from a modern glow-up, others don’t need a lot of alterations to shine bright decades later.
-
-### Every Marvel Post-Credits Scene That Went Nowhere (So Far)
-Fri, 23 Oct 2026 22:16:19 GMT — https://www.polygon.com/marvel-movies-tv-shows-post-credits-scenes-teases/
-
-Once the Infinity Saga wrapped with 2019’s Spider-Man: Far From Home , Marvel had to find a new central organizing factor, a way to give all the crossovers , cataclysmic conflicts , and multiverse mayhem some meaning. That process has been bumpy , and it’s left Marvel with a lot of loose ends, hints, and promises of sagas to come, which have become difficult to keep track of.
-
-### An '80s Cult Horror-Comedy Becomes a Global Streaming Hit on HBO Max
-Fri, 23 Oct 2026 21:00:49 GMT — https://www.polygon.com/gremlins-hbo-max-streaming-success-october-2026/
-
-There was a time when horror movies weren't afraid to get a little weird. The 1980s gave us everything from the surreal nightmares of A Nightmare on Elm Street to the gooey, creature-filled chaos of The Blob . It was an era when filmmakers could mix practical-effects gore, genuinely unsettling monsters, and a healthy dose of absurdity without worrying too much about fitting into a single genre.
-
 ## PC Gamer
+
+### Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'
+Sat, 24 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/
+
+The death of BioWare has provoked a whole lot of tributes, memorialisation, and plain old nostalgia as all sorts of people come together to remember the bangers the erstwhile king of RPGs put out in its prime. CD Projekt Red , imsim founding father Warren Spector , and we here at PCG have all been trading BioWare memories (and sometimes lamenting the influence of EA, which acquired the studio back in 2007). But the BioWare classics were big enough bangers to transcend videogames in their influence. Over on Bluesky , award-winning sci-fi and fantasy writer Nora Jemisin (better known as NK Jemisin) has been mourning the studio too. "RIP Bioware. The [Mass Effect] and [Dragon Age] games were a literal inspiration, and I can't count how many times I've replayed my faves," Jemisin wrote. "I made lifelong friends on ME3 Multiplayer. I still think Jennifer Hepler is the best game writer I've seen, and Jennifer Hale's the best VA." Hepler was a long-time Dragon Age writer who " was pretty much in charge of the dwarf origin story " in Origins, and also shaped much of the setting's dwarven culture in general. Jennifer Hale, meanwhile, is Jennifer Hale: Dynaheir, Mazzy Fentan, Bastila Shan, the female Commander Shepard, and plenty else. Many people, myself included, first became aware of Hale through her contributions to BioWare's RPGs. "Watching what's happening to the game industry [right now] is so frustrating," Jemisin continued. "It was the goose that laid the golden eggs, guys. Al
+
+### After 14 years of development, Factorio's final major update is out now
+Sat, 24 Oct 2026 12:10:44 +0000 — https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/
+
+The whistle has blown. The belts have stopped. The furnace is silent and cold. After 14 years of continual development, Factorio has received its final major update. Developer Wube Software revealed that update 2.1 would be the last significant patch for its genre-defining factory building sim back in May, with the team deciding the game had "reached a good place to conclude active game development". The decision comes two years after Wube released Factorio's remarkable Space Age expansion , which lets players take their industrialisation efforts into the stars and across four wildly different alien planets. If you were hoping Wube might sign off on Factorio on a similarly spectacular note, you may be disappointed. In its latest Friday Facts blog, the developer reiterates that 2.1 "isn't about new planets, enemies or research trees," and instead delivers "a big collection of quality of life, small features, polish, and the things we wanted to for 2.0 but didn't have time for." This doesn't mean 2.1 has nothing of interest, however. Quite the opposite. The primary changes revolve around the space logistics introduced by Space Age, with Wube making it easier to ferry goods up into space and between planets. Rockets, for instance, can now carry multiple different items rather than just one thing, making it considerably easier to get space platforms built. On top of that, platforms can also transfer items between one another in orbit and automatically import items from all availa
+
+### Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet
+Sat, 24 Oct 2026 11:09:10 +0000 — https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/
+
+I'm beginning to wonder whether Star Wars Galaxies Restoration can still be considered accurately named, given the community-driven revival project has gone so far beyond keeping SOE's 2003 MMO up and running. Previous updates have already added huge features like a new Jedi system and a galactic civil war . Now, the latest patch overhauls numerous aspects of the game, including a massive upgrade to its visuals. Star Wars Galaxies Restoration: A New Dawn differs slightly from those previous updates. Where earlier patches have centred around one big new feature, A New Dawn is composed of various ideas suggested by members of the Restoration team. "We've expanded our team, adding 13 new team members to our project" the Restoration team wrote in a press release. "We asked everyone: work on something that they loved about Galaxies, and showcase that to the world." This approach has produced an array of changes both large and small. The headline update is a game client upgrade that adds support for DirectX 12. This enables a bunch of snazzy graphical enhancements, including volumetric fog, clouds and atmosphere, a new water shader, greatly improved terrain distances, and support for upscaling tech like DLSS, FSR, and XeSS. Beyond these visual changes, two major features of Galaxies have been overhauled. The first of these is the planet Kashyyyk, home to the Wookiees. The forest planet—which was the setting for Galaxies' second expansion Revenge of the Wookiees—has been given "new 
 
 ### Why private equity acquisitions like the one that just claimed BioWare are so dreaded
 Fri, 23 Oct 2026 22:46:50 +0000 — https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/
@@ -352,21 +347,6 @@ Early BioWare (Image credit: BioWare) Star Wars: Knights of the Old Republic (Im
 Fri, 23 Oct 2026 16:47:44 +0000 — https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/
 
 I have never really thought much about gemstones or minerals, which is weird considering one of my all-time favourite games is Minecraft, in which I spend a bulk of my time strip-mining. But Abyssal Lapidary has made me realise that there is so much more to the dirt than just coal. In the demo for Abyssal Lapidary I got to begin my stint as a lapidarist, someone who cuts, shapes, grinds, and polishes minerals to make pretty gemstones. The only problem is, like I said before, I don't really know stones. (Image credit: LightWorm) Abyssal Lapidary doesn't exactly drop you in the deep end but it does expect you to pick up with the art of making and selling gemstones rather quickly. My first step was searching around the rather large house I'd found myself in which was apparently part of a declining business but it seemed rather nice; it even had a balcony. Most of the doors downstairs were locked, part of the later progression of the game, the few things I did have access to included a station for fixing tools, breaking rocks, and a booth to talk to customers. Throughout the day people will turn up to my humble business either looking to buy some precious gemstones or selling minerals and rocks that I can mine into. There's also a guy looking for mysterious artefacts, someone trying to give me a loan (suspicious), and a nice lady selling tea. I'm not 100% sure about what the tea does yet but I buy it anyways. (Image credit: LightWorm) The rest of my day was spent sitting at my de
-
-### Upcoming Mass Effect-like Exodus himbo-fies protagonist after fans complain about his face
-Fri, 23 Oct 2026 16:27:52 +0000 — https://www.pcgamer.com/games/rpg/upcoming-mass-effect-like-exodus-himbo-fies-protagonist-after-fans-complain-about-his-face/
-
-Archetype Entertainment has unveiled a new look for the protagonist of Exodus, its upcoming sci-fi RPG. We at PCG didn't love Jun Aslan's original face, but it sounds like there was more widespread discontent over his supposedly homely mug. After a brief intro by studio GM Chad Robertson, we got a brief cinematic trailer of the new Jun⁠—with a little cameo by Matthew McConaughey, in case you forgot he's lending his voice to this game. And, I mean, yeah: Jun's a real prettyboy now. My man's looking like an industry plant. Cheekbones that could cut glass. Previously, Jun was, perhaps, a little schlubbier, but only really by the standards of showbiz. I contend that he realistically could have been someone's workplace crush. He was an LA 6.5, but a Chicago 9. Prettier than most people you know, I'd wager. I didn't love Jun's original look, but I figured, hey, it's an RPG. I'll just mess with the sliders. But it sounds like we're restricted to one face per sex in Exodus, based on the new trailer's description: "You can play Jun Aslan as male or female, and options like hairstyles, hair color, facial hair, and tattoos let you add your own personal touch." That sounds reminiscent of the facial presets from Baldur's Gate 3, but with only two characters instead of that game's two dozen or so. I like making a cutie pie RPG character as much as the next guy, but now that he's gone, I find something endearing about the way Jun looked before he got his work done. You were beautiful just t
-
-### Call of Duty: Modern Warfare 4 actually runs pretty smoothly with Activision's 'recommended' RTX 3060 Ti graphics card, and here are the settings I use to get the best performance from it
-Fri, 23 Oct 2026 16:13:25 +0000 — https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4-actually-runs-pretty-smoothly-with-activisions-recommended-rtx-3060-ti-graphics-card-and-here-are-the-settings-i-use-to-get-the-best-performance-from-it/
-
-I've been having a grand old time playing Call of Duty: Modern Warfare 4 with an RX 9070 XT , but there'll be plenty of people wanting to run the game on older hardware. So, I decided to dust off my old and much-beloved workhorse, the RTX 3060 Ti , and see how it does in the new Activision shooter. I've been quite pleasantly surprised by the results. Which is good news, considering Activision lists this graphics card, alongside the AMD RX 6600 XT and Intel Arc B580, as the 'recommended' ones to "run at 90 fps in multiplayer on High graphics settings." I've found this actually pans out, provided you're at 1080p or are fine enabling Quality upscaling at 1440p. RTX 3060 Ti performance in COD: MW4 (Image credit: Activision) As you can see from the chart below, at 1440p native, the game struggles to reach this 90 fps target even on the Minimum preset. And as I noted in my general performance overview —which, by the way, you should read if you want to know which specific settings to alter to improve your frame rate—the Balanced preset offers the best bang for your buck by far, as going up to Ultra lowers your frame rate significantly. COD MW4 preset performance - 1440p - RTX 3060 Ti Frame rates were taken at 1440p native, using an RTX 3060 Ti, Ryzen 7 7800X3D, and 32 GB of DDR5 RAM. Call of Duty: Modern Warfare 4 Avg fps 1% low fps Minimum 70 59 Basic 66 59 Balanced 64 56 Ultra 48 43 Extreme 43 36 0 20 40 60 80 Call of Duty: Modern Warfare 4 Data Product Value Minimum 70 Avg fps, 5
-
-### AMD says the re-release of the Ryzen 7 5800X3D was 'like a final gift to our loyal [AM4] users' and it was CEO Dr. Lisa Su who first came up with the idea
-Fri, 23 Oct 2026 16:11:07 +0000 — https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/
-
-I was genuinely surprised by the re-release of the AMD Ryzen 7 5800X3D earlier this year. A chip I thought long dead was back in 10th Anniversary form, after a resurrection process AMD's David McAfee described as " very hard, actually " to our Dave at Computex 2026. Now AMD's Travis Kirsch has spoken to Japanese outlet Tech+ about more of the thinking behind the re-release, and it seems the idea started at the very top. "Originally, several years ago, I believe Lisa [Su, AMD CEO] was one of the people who suggested reviving the Ryzen 7 5800X3D." "It was like a final gift to our loyal users who had used our AM4 for almost 10 years, giving them one last chance to upgrade their PCs using DDR4 systems," Kirsch continues. "However, this required restarting the production lines, which took some time. In short, this was planned before the changes in the memory market occurred, and it was not considered as a solution to the DDR5 shortage." That may be the case, but the timing still worked out pretty well for AMD. DDR5 prices had been surging since October 2025, while the chip's eventual release date of June 25, 2026 put it right in the middle of a difficult year for PC gamers. Many of whom may well have been looking to upgrade older, AM4 rigs without making the switch to the DDR5-only AM5 socket. Kirsch was also asked about the current shipment ratio of AM4 to AM5 processors. "I cannot give you the exact ratio," he says. "But I can say that AM4, which supports DDR4, remains very stro
 
 ## GameSpot
 
@@ -432,6 +412,11 @@ When a big new first-party game comes to Xbox, Microsoft is known to put up big,
 
 ## Rock Paper Shotgun
 
+### Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op
+Sat, 24 Oct 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op
+
+Ah, come on, it was fine. Better than fine. We can argue for another fourteen years about whether BioWare should have redone the ending or not, but Mass Effect 3 was really a compendium of endings, a ludicrously ambitious wrapping-up of dozens of plot threads, character arcs, and running gags. Even if you can point to other RPGs that, on an individual basis, are more branching and reactive, Mass Effect 3's largely successful closing of a galaxy's worth of choose-your-own adventure books - filled in and followed across three evolving instalments - showed an audacity and grandiosity that no other three-part series had matched before. Or, at least on that scale, has pulled off since. Read more
+
 ### What are we all playing this weekend?
 Sat, 24 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405
 
@@ -486,9 +471,4 @@ Breaking up established game development teams in favour of "AAA veteran" start-
 Fri, 23 Oct 2026 09:30:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered
 
 It was only ever going to be a matter of time, but I'm still surprised just how quickly Cyberpunk 2077 modders have taken pistol dual wielding mechanic the RPG's Edgerunners 2 update has just added in, and opened it up to include any gun Night City has to offer. Yep, twinning shotguns, assault rifles, sniper rifles, or any combo of those is now possible. Though, you'll have to make peace with the fact enemies will struggle to match your firepower. Read more
-
-### A Line Held Tight is a charcoal visual novel about a miner's strike in the 32nd century and choosing your relationships wisely
-Thu, 22 Oct 2026 21:50:40 +0000 — https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely
-
-We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not talking about a lack of big, bold ideas, in fact there might be too many of those. I more mean that there are aspects to life that often go uncovered in games. For example, when was the last time you saw a game about a workers strike? Citizen Sleeper 2 has one questline about such a thing, but it's just what the entire game is about. A Line Held Tight, a mecha visual novel about a sci-fi miner's strike, may bridge that gap. Read more
 
