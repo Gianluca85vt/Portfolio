@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-23T20:04:45.433Z
+# AI — harvested 2026-10-24T09:06:57.837Z
 
 ## OpenAI
 
@@ -22,21 +22,6 @@ Thu, 22 Oct 2026 19:00:00 GMT — https://openai.com/index/decisions-api
 
 Fast, focused, low-cost decisions for any application.
 
-### What FDE means at OpenAI
-Thu, 22 Oct 2026 06:00:00 GMT — https://openai.com/index/forward-deployed-engineering-means
-
-What forward deployed engineering means at OpenAI
-
-### Uber brings ChatGPT Work to all employees with OpenAI
-Thu, 22 Oct 2026 00:00:00 GMT — https://openai.com/index/uber-chatgpt-work-rollout
-
-Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.
-
-### Broad access through consistent standards
-Wed, 21 Oct 2026 21:00:00 GMT — https://openai.com/index/broad-access-through-consistent-standards
-
-How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.
-
 ## Hugging Face
 
 ### LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
@@ -47,9 +32,6 @@ Fri, 23 Oct 2026 00:00:00 GMT — https://huggingface.co/blog/torch-neuronx-mode
 
 ### Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox
 Thu, 22 Oct 2026 22:24:34 GMT — https://huggingface.co/blog/microsoft/thinkingbox-training
-
-### Ensemble forecasting with IBM Granite time-series models
-Thu, 22 Oct 2026 07:51:31 GMT — https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1
 
 ## Google DeepMind
 

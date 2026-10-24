@@ -1,4 +1,4 @@
-# Review radar — updated 2026-10-23
+# Review radar — updated 2026-10-24
 
 Built by `scripts/harvest-embargoes.mjs` from Steam's upcoming releases,
 sorted by date and filtered to titles priced at €25 or more. That price line is
@@ -18,18 +18,19 @@ Games only. Film and television still come from `notes/feeds/film-tv.md`.
 
 ## Reviews expected within three days
 
-_Nothing inside three days._
+| Title | Publisher | Release | Away | Reviews from | Price |
+|---|---|---|---|---|---|
+| Farming Simulator 25: Beans & Alpacas Expansion | GIANTS Software | 2026-10-27 | 3d | 2026-10-26 | €29.99 |
 
 ## Further out, within 14 days
 
 | Title | Publisher | Release | Away | Reviews from | Price |
 |---|---|---|---|---|---|
-| Farming Simulator 25: Beans & Alpacas Expansion | GIANTS Software | 2026-10-27 | 4d | 2026-10-26 | €29.99 |
-| Phantom Blade Zero | S-GAME Publishing | 2026-10-28 | 5d | 2026-10-27 | €59.99 |
+| Phantom Blade Zero | S-GAME Publishing | 2026-10-28 | 4d | 2026-10-27 | €59.99 |
 
 ---
 
-*1500 upcoming titles scanned, 1281 with a firm date inside
+*1450 upcoming titles scanned, 1277 with a firm date inside
 14 days, 2 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*

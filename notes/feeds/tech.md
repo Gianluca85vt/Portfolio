@@ -1,6 +1,31 @@
-# Tech — harvested 2026-10-23T20:04:45.433Z
+# Tech — harvested 2026-10-24T09:06:57.837Z
 
 ## Ars Technica
+
+### NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
+Fri, 23 Oct 2026 22:48:25 +0000 — https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/
+
+During a lengthy news conference on Friday, NASA provided a detailed overview of how it plans to return astronauts to the lunar surface as soon as 2028 as part of its Artemis Program. Although much of the information behind these plans has been previously reported at Ars Technica and elsewhere, this marked the first time NASA has laid them out in detail and acknowledged some substantial changes in the architecture. Most notably, for SpaceX's Starship vehicle, the revised plan calls for the Orion spacecraft to dock with the Starship lunar lander in high-Earth orbit before transiting to the Moon. And for Blue Origin, the mission architecture includes four launches of the New Glenn rocket, but no spacecraft-to-spacecraft refuelings. Additionally, the Blue Origin plans allows for the possibility of its Blue Moon lander rendezvousing with Orion in low-Lunar orbit. Read full article Comments ]]>
+
+### Hegseth warns prediction market bets warp military judgment, endanger troops
+Fri, 23 Oct 2026 20:28:43 +0000 — https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/
+
+Defense Secretary Pete Hegseth issued a memo warning military personnel against using nonpublic information to make bets on prediction markets, saying the wagers could give important clues to enemy countries. "Do Not Compromise Military Operations for Personal Financial Gain," said the subject line of an October 20 memo published yesterday by CBS News . Hegseth's memo was sent to senior Pentagon leadership, Combatant Command leaders, and Defense Department field activity directors. Hegseth wrote: Read full article Comments ]]>
+
+### Updated Google privacy policy says your Gmail might be used for advertising
+Fri, 23 Oct 2026 20:19:55 +0000 — https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/
+
+Using Google's products and services has always been fundamentally precarious—doing so gives the world's largest advertising company a lot of juicy personal data. Google has long said it won't use the sensitive data from products like Gmail, Drive, and Photos for ad personalization, but a change to the company's privacy policy appears to dismantle that firewall. On October 16, Google issued an update to its privacy policy , spotted by Android Authority . The ad personalization section used to include a clear limit on data from certain apps. "We don’t show you personalized ads based on your content from Drive, Gmail, or Photos," the document said. Now, Google has updated it with the following language. Updated language on when your sensitive data might inform ads. Credit: Google This equivocation opens the door to using data from apps like Gmail and Photos in ads when it's shared with other Google services, and it just so happens Google has a mechanism for doing that, with Personal Intelligence. The company released Personal Intelligence in early 2026 , allowing users to hand data from multiple apps to Google AI products. The idea is that the added context from your existing data will lead to better AI answers, but it's also proving to be a privacy minefield. Read full article Comments ]]>
+
+### Inside the Pentagon, the pressure is on to find a home for a new spaceport
+Fri, 23 Oct 2026 19:33:58 +0000 — https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/
+
+Leaders in the US Space Force would like to have a new spaceport up and running in four years, adding a third heavy-lift launch site to relieve pressure from bases in Florida and California that have shot rockets into orbit for nearly 70 years. The obvious problem with that ambition is 2030 is four years away, and Pentagon officials have not determined where the new spaceport should go or how to acquire land for it. Air Force Secretary Troy Meink first mentioned the service's search for a third launch base in May. A congressionally mandated study of the Space Force's launch infrastructure identified the need for "another site that's capable of heavy and super heavy launch capability," Meink said in a House Armed Services Committee hearing. Read full article Comments ]]>
+
+### Spotify ramps up policy enforcement on family plans
+Fri, 23 Oct 2026 19:20:27 +0000 — https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/
+
+As reported by Music Business Worldwide , Spotify appears to be stepping up enforcement of existing policies regarding Family and Duo subscription plans by requiring users to scan a QR code in person on the plan manager's device in order to maintain access to it. Those who fail to scan the address verification QR code within seven days will see their account demoted to the free tier and be barred from joining any other Duo or Family plan for 12 months. Spotify's QR code plan enforcement. Credit: Spotify Spotify's support documentation verifies the policy after users on Reddit began posting reports of receiving the QR prompt. The enforcement stems from Spotify's requirement that family plan members reside at the same address—a seemingly reasonable policy in concept. But what if you have a child away in college, a spouse who works on the road, or any number of other circumstances that might see families separated by physical distance? The policy could extend beyond friend groups looking to save a buck, affecting actual families who thought they were using the program as intended. Goldman Sachs analysts, in their October 15 Music in the Air: 10 Years On report, made available by HITS Daily Double , estimate that "a meaningful share of family plan users are not actual household members, but rather friends sharing a plan to reduce costs." The report goes on to add, "We see additional monetization upside from tightening household verification on multi-user plans. Most family plans 
 
 ### Crows can evaluate visual info twice as fast as mammals
 Fri, 23 Oct 2026 17:32:58 +0000 — https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/
@@ -37,32 +62,17 @@ Fri, 23 Oct 2026 11:30:22 +0000 — https://arstechnica.com/gadgets/2026/10/ukra
 
 Elon Musk’s Starlink satellite service has played a pivotal role in supporting Ukraine’s successful resistance to Russia’s full-scale invasion for years. But with Starlink having become increasingly unreliable due to Musk’s political inclinations and the latest surprise disruptions to service in Ukraine, the Ukrainians and Europe as a whole are now facing urgent questions about how to move forward without it. As the world’s largest communications satellite network, Starlink can typically support high-speed Internet and data streams for any user or vehicle equipped with a relatively compact Starlink terminal. This has enabled Ukraine to maintain vital communications for both civilian purposes and military operations—and has also expanded the Ukrainian military’s capability to remotely control or provide guidance to drones used in both air defense against Russian attacks and for striking back at Russian targets. “Starlink currently offers some of the best satellite coverage available, with virtually no competitors when you consider the combination of cost, availability, and ease of use,” according to the head of hardware R&D at the Ukrainian defense company BlueBird Tech , who provided comments to Ars anonymously for security reasons. “In practical terms, the main limitation is the need to position the antenna so it can receive signals from the satellites.” Read full article Comments ]]>
 
-### Review: Crystal Lake suffers a bit from its obsession with Pam Voorhees
-Fri, 23 Oct 2026 11:15:03 +0000 — https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/
-
-Peacock series Crystal Lake doesn’t feel like a Friday the 13th movie when you first press play, even though it’s set up to be a prequel to the original film. (This review includes spoilers of the original Friday the 13th movie but avoids major Crystal Lake spoilers.) Instead, Crystal Lake strives to build a drama that’s half homage, half uncharted territory, while giving a long-awaited backstory to Pamela Voorhees. The original villain in the first film, Pam Voorhees, shocked audiences in 1980 by popping up out of nowhere in the midst of a brutal camp counselor killing spree, then confronting the final girl with a Norman Bates-like delivery of the movie’s chilling tagline, “Kill her, mommy,” using the voice of her drowned son, Jason. Betsy Palmer as Pam Voorhees in Friday the 13th . Credit: via Paramount Pictures Linda Cardellini as Pam Voorhees in Crystal Lake. Credit: via Peacock Although the hockey-masked killer, Jason Voorhees, became the horror icon at the center of the franchise, his mom, Pam, continued to fascinate fans, who knew very little about her. Beheaded in the first film after just 13 minutes onscreen, her spirit would occasionally appear in later films, but the original actor, Betsy Palmer, who portrayed Pam refused to return, largely because the character has no depth. Read full article Comments ]]>
-
-### Rocket Report: SpaceX says no thanks to military launches; Spanish rocket nearly ready
-Fri, 23 Oct 2026 11:00:57 +0000 — https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/
-
-Welcome to Edition 9.16 of the Rocket Report! Lots of SpaceX-related news this week including a couple of Thursday shockers. In one story, the company told the US Space Force thanks, but no thanks after being offered three military launch contracts. Then, on the civil space side of things, SpaceX's Starship may required up to 22 refuelings to support a lunar landing, a NASA safety panel said. As always, we welcome reader submissions , and if you don't want to miss an issue, please subscribe using the box below (the form will not appear on AMP-enabled versions of the site). Each report will include information on small-, medium-, and heavy-lift rockets as well as a quick look ahead at the next three launches on the calendar. Miura 5 getting closer to launch . PLD Space says its Miura 5 rocket, due to undertake its inaugural launch next year, is nearing final integration, Aviation Week reports . The rocket is one of three Miura 5s the company has already manufactured, with the other two designed to qualify key system elements, CEO Raúl Torres said in an October 19 program update. PLD Space now targets a first flight of the small-lift vehicle before mid-2027. Read full article Comments ]]>
-
-### Switch 2 security takes a hit as hackers unlock homebrew access
-Thu, 22 Oct 2026 22:25:33 +0000 — https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/
-
-A security researcher has demonstrated a software-only partial jailbreak of the Switch 2, gaining "userland" access that he says "lets us run homebrew, reverse engineer and mod Switch 2 games, back up save files off the Switch, and access most of the Switch 2’s peripherals through MMIO." The hack relies on the original Switch version of SmileBasic 4 , the latest in a long-running series of programming environments and interpreters that run on Nintendo hardware. The so-called "tethered" hack also requires access to a macOS or Linux PC on the same network to run a node.js package that helps enable privileged system access. Researcher Sammy Hajhamid writes that he used OpenAI's Codex to poke at SmileBasic's language interpreter, using a custom harness that could send USB commands to the system and view results via HDMI (as well as power cycling via a Bluetooth light switch flipping device). After "substantial effort for ~2 weeks," that harness discovered a 32-bit integer overflow that occurs when removing items from an array in SmileBasic. That error gives access to an array pointer, which in turn allows read-and-write access to portions of system memory. Read full article Comments ]]>
-
-### Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
-Thu, 22 Oct 2026 22:12:19 +0000 — https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/
-
-Personalized mRNA vaccines against melanoma—the deadliest form of skin cancer—reduced the risk of death or recurrence by 42 percent compared to standard treatment in a late-stage trial, pharmaceutical partners Merck and Moderna announced Thursday . The results are a significant advance in melanoma treatment; Merck and Moderna are already engaging with regulatory authorities to get the vaccine approved. More broadly, the vaccine's success bolsters hope that mRNA vaccines and individualized cancer-targeting medicines offer a new paradigm for cancer therapies. "From the beginning, we believed mRNA technology could make it possible to develop cancer treatments uniquely matched to each patient’s tumor," Moderna CEO Stéphane Bancel said in a statement. The trial results "mark a defining moment for that vision and show what’s possible when we rethink how medicines are made." They also "reinforce our conviction that mRNA has the potential to fundamentally change how we treat cancer," he said. Read full article Comments ]]>
-
-### Latest estimate for Starship launches required to support a Moon landing? 22.
-Thu, 22 Oct 2026 21:52:31 +0000 — https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/
-
-NASA does not have, nor want, nuclear weapons. But when it comes to a particular metric that is part of the Artemis Program to land people on the Moon, NASA guards a particular number like it is trying to prevent outsiders from cracking nuclear codes. I am speaking of the number of Starship launches required to fuel a Starship-based lunar lander in low-Earth orbit such that it can fly out to the Moon, land there, and return to lunar orbit. This number has been a moving target over the years. The general response from NASA has typically been, 'We don't know for sure, so we're not going to say.' In 2023, for example, the then-director of NASA's Human Landing System, Lisa Watson-Morgan, told Ars , "We have a general idea, but I’m reluctant to say exactly what that is." Read full article Comments ]]>
-
 ## The Verge
+
+### Xbox’s first chief operating officer is out after just a few months
+2026-10-23T17:39:26-04:00 — https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure
+
+Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge. ]]>
+
+### OpenAI now trains its frontier AI models with no internet access
+2026-10-23T17:11:07-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
+
+OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday , OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier AI models in September , after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies , or swarm obscure websites . On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte … Read the full story at The Verge. ]]>
 
 ### Abandoned Popcorn Time apps had to be disabled to prevent a zombie army
 2026-10-23T15:35:15-04:00 — https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided
@@ -103,16 +113,6 @@ Google has updated its privacy policy in a way that could mean you'll start seei
 2026-10-23T12:37:03-04:00 — https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen
 
 The iPhone Duo officially goes on sale today, but a few units already have broken screens. According to posts on Reddit about the affected units, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inner screen along the hinge and a strange bright line (or lines) across the right side of the display. Here's how one user in Australia described what happened to their phone: Had my iPhone Duo for about six hours and had probably opened it fewer than 20 times. I was showing it to a friend, and as I opened it, I felt something around the internal hinge, underneath the screen. As I cont … Read the full story at The Verge. ]]>
-
-### Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights
-2026-10-23T11:24:45-04:00 — https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss
-
-After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released proposed changes to Federal Motor Vehicle Safety Standard (FMVSS) No. 108 , specifically rewriting the rules to fit autonomous vehicles. It's a mix of cutting red tape for human-free designs and standardizing how robotaxis communicate with the world around them - starting with a distinctive blue-green light. NHTSA is proposing cyan-colored marker lamps "to clearly and consistently signal to law e … Read the full story at The Verge. ]]>
-
-### SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites
-2026-10-23T11:16:24-04:00 — https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier
-
-SpaceX plans to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg . Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of the nation's largest cell tower owners. The move would give SpaceX access to half of the 158,500 cell towers currently operational in the US, according to Reuters . When asked about a potential partnership with SpaceX, Amazon, or other satellite services during an earnings call on Wednesday , Crown Castle CEO Chris Hillabrant said, "I don't think I want to get into customer-specific detail, but you can … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,10 +178,25 @@ The UK government has outlined a set of plans for new powers and penalties to he
 
 ## Phoronix
 
-### HPFS Is The Latest File-System Slated For Removal On Linux
+### KDE Plasma 6.9 Stabilizes KWin s Wayland Picture-In-Picture Support
+Fri, 23 Oct 2026 20:56:16 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP
+
+With the wonderful KDE Plasma 6.8 having shipped just more than one week ago, KDE developers are beginning to go heavy on new features for Plasma 6.9...
+
+### OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading
+Fri, 23 Oct 2026 19:15:47 -0400 — https://www.phoronix.com/news/OBS-Studio-33.0
+
+OBS Studio 33.0 is out tonight as the latest major update to this popular open-source and cross-platform video recording and live streaming application...
+
+### Linux 7.4 Merges Slab Updates With A Nice Performance Improvement
+Fri, 23 Oct 2026 16:27:50 -0400 — https://www.phoronix.com/news/Linux-7.4-Slab-Updates
+
+The slab pull request was just merged for Linux 7.4. For end users nothing too incredibly exciting but there is one change that does yield a 24% throughput improvement in a benchmark exercising the kernel's memory management subsystem...
+
+### HPFS Is The Latest File-System Facing Possible Removal On Linux
 Fri, 23 Oct 2026 12:27:08 -0400 — https://www.phoronix.com/news/HPFS-For-Linux-Removal
 
-HPFS is the latest file-system driver for the Linux kernel facing removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...
+HPFS is the latest file-system driver for the Linux kernel facing possible removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...
 
 ### Borealis: Asahi Linux s Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding
 Fri, 23 Oct 2026 12:00:38 -0400 — https://www.phoronix.com/news/Borealis-Vulkan-Driver
@@ -223,22 +238,22 @@ Fri, 23 Oct 2026 06:09:10 -0400 — https://www.phoronix.com/news/Linux-7.4-HID
 
 The HID subsystem updates have been merged for the Linux 7.4 kernel that included a few new drivers...
 
-### LibreSSL 4.4 Released With Faster SHA3, Bug Fixes
-Fri, 23 Oct 2026 05:55:46 -0400 — https://www.phoronix.com/news/LibreSSL-4.4-Released
-
-LibreSSL 4.4 released on Thursday as the newest release of this decade-old OpenSSL fork maintained by OpenBSD developers...
-
-### Linux 7.4 Fixes AMD CPU TLB Size Reporting For Zen 5 & Newer
-Fri, 23 Oct 2026 05:47:39 -0400 — https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size
-
-As a follow-up to the article in September about a Linux patch for fixing under-reported AMD Zen 5 TLB sizes, that work is now merged for the Linux 7.4 kernel...
-
-### Linux 7.4 Workqueue Changes Bring A "10 To 100 Times Faster" Optimization
-Thu, 22 Oct 2026 20:38:20 -0400 — https://www.phoronix.com/news/Linux-7.4-Workqueue
-
-Adding to all the exciting performance optimizations and other improvements for Linux 7.4 is an exciting workqueue improvement. It's not too often getting to talk about "10 to 100 times faster" software improvements...
-
 ## The Register
+
+### OpenAI disables internet access during model training while Anthropic issues another mea culpa
+Fri, 23 Oct 2026 22:36:11 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238
+
+OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date. "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the company said in a blog post . "We've implemented this policy and will maintain it until advances in these safeguards justify broader internet access." The denial of network service follows a report from safety evaluation partners METR and Redwood Research that found OpenAI's security and monitoring measures over the summer to be porous and ineffective . OpenAI said it has since "substantially hardened the security of our research environments" and has implemented new controls covering its infrastructure with the help of its cloud service providers. And the company claims these measures recently helped contain a September 20 incident in which an internal research model exploited a DNS misconfiguration to gain access to the internet. "Although we contained the incident, it exposed weaknesses that required further work," the company said. "We paused training and evaluation of our most capable models and used that pause to further harden our infrastructure, strengthen our monitoring, and improve the systems that automatically stop runs when we detect activity that poses a serious risk." Meanwhile, over at Ant
+
+### There's a third PHP2Shell bug, but it won't get an emergency fix
+Fri, 23 Oct 2026 20:04:40 +0000 — https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208
+
+As the PHP2Shell chaos continues, researchers have found a third PHP vulnerability that could allow attackers to take over websites or remotely run malware on vulnerable systems. But this one won’t receive an emergency fix. The PHP Foundation on Friday told The Register that it has reserved a CVE identifier (CVE-2026-115560) for a third RCE flaw to go with the first two that comprise PHP2Shell, and it will release a full advisory and fixed software with the next regular PHP release. CVE-2026-115560 “requires a very unlikely combination of configuration and specific PHP application code, which we do not expect to occur in practical use of PHP,” Elizabeth Barron, executive director of the PHP Foundation, told The Register . “The issue can be mitigated with a configuration setting. So for the moment the PHP Security Team has only published an informational advisory on the PHP website, explaining exactly this situation.” The informational advisory, published on Friday, suggests that users “set session.upload_progress.enabled=0 until the next regular bugfix release, to fully protect from an unlikely RCE vector.” These unlikely RCE attacks require an application to set “ session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start() .” Additionally, the session upload progress feature must be enabled. This setup, according to the PHP Foundation, is unlikely in real-world applications, 
+
+### Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack
+Fri, 23 Oct 2026 19:14:57 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200
+
+An independent evaluation of OpenAI's internal misalignment monitoring system revealed that the system was not fit for purpose during a period when the company's bots were breaking into model-hosting platform Hugging Face. The safeguards weren't nearly strong enough. "The METR and Redwood employees discovered a number of novel vulnerabilities in the asynchronous internal misalignment monitoring system as it existed on and before July 21st," said evaluation partners METR and Redwood Research in a report released on Thursday. The system, since improved according to OpenAI, was intended to monitor AI agent behavior. But as described by METR and Redwood Research, its monitoring capability was incomplete and could be bypassed by the agents it was supposed to monitor. Bypassing the system wasn't always necessary because it wasn't always operative. Monitoring was suspended, for example, during compaction events. Compaction is a process by which AI models condense the data in their context window to make room for further input. And between May and July 2026, about 10 percent of eligible internal Codex traffic went unmonitored during compaction, according to the report. That gap was theoretically large enough to allow AI agents to postpone monitoring indefinitely: agents could further suppress monitoring by continuing to take actions without returning control to the user. "At the time of the exercise, the monitoring system triggered when agents returned control to the user, so during 
 
 ### AI models think humans are a bunch of amoral sheep
 Fri, 23 Oct 2026 16:26:13 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123
@@ -285,22 +300,12 @@ Fri, 23 Oct 2026 09:29:00 +0000 — https://www.theregister.com/networks/2026/10
 
 Britain is threatening subsea cable saboteurs with up to 14 years in prison and unlimited fines, having apparently decided that Victorian-era laws aren't quite up to the job of keeping Russian submarines away from critical infrastructure. The government on Thursday set out plans to overhaul legislation dating back to 1885 and introduce tougher penalties for damaging the underwater cables and pipelines that keep Britain's internet and energy supplies running. According to Whitehall, subsea cables carry around 99 percent of the UK's international data traffic, while underwater pipelines account for 74 percent of its gas supply. Yet much of this infrastructure is protected by laws written when the telegraph was cutting-edge technology. The Submarine Telegraph Act 1885 originally imposed a £100 maximum fine for damaging a cable through culpable negligence. That might have been a reasonable deterrent back then, but it's unlikely to give today's would-be saboteurs much pause. Under the proposals, those who intentionally damage critical subsea energy or telecoms infrastructure could face up to 14 years behind bars. The proposals also set tougher penalties, including unlimited fines, for reckless or negligent damage. Subsea telecoms operators would face new legal duties to identify and manage security risks, while ministers would gain powers to direct companies and cable repair providers to take action where necessary and proportionate to protect national security. The government als
 
-### Beware the claw: Do you want to win the bunny or reboot Android?
-Fri, 23 Oct 2026 08:30:00 +0000 — https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172
-
-Today's victim of the bork fairy is a claw machine that even Android seems to have rejected for its alleged unfairness. And Google, as we all know, is all about fairness. Eagle-eyed Register reader Scott spotted the stricken machine in an arcade adjacent to a roller rink, a place our reader visited with a friend and described as "something my currently bruised body reminds me I hadn't done for about 20 years." We assume they were talking about roller-skating, and not the exertions of accompanying their pal. The machine itself is a recent iteration of the infamous claw machine, which has spent a century emptying players' pockets in exchange for frustration and the very occasional reward of tat. Infamously, the devices are sometimes rigged so the claw's strength varies between turns, and in several parts of the world, gambling laws cover the machines. However, the only gambling to be done here is on whether or not Android will boot. Like so many players in the past, the machine has lost this bet, and an Android Recovery Console is on show. We're not sure who lennie022 is – perhaps a user or perhaps some corporate account – but the words "release-keys" probably don't belong on top of the device. They're unlikely to entice any everyday players to part with cash. The usual recovery menu is hidden thanks to the dimensions of the screen. If something like this comes up on a mobile device, the volume up and down buttons tend to be used for navigation. In this case, the joystick is pr
-
-### Vendor-affiliated AI agent tech gets adopted by friendly, funded foundation
-Fri, 23 Oct 2026 07:29:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912
-
-The Agentic AI Foundation (AAIF) has been entrusted with stewardship of four additional AI projects in the hope of broadening the set of vendor-neutral tools for making AI agents. The AAIF was founded in December 2025 under the auspices of the Linux Foundation as a vendor-neutral organization for the benefit of AI companies more interested in riding a tide that lifts all boats than making waves. It launched with three projects under its supervision: Model Context Protocol (MCP), goose, and AGENTS.md. With the four new adoptees, there are now 10 projects sheltering under the AAIF's wings. The donor organizations – Alibaba, Anthropic, Hugging Face, and OpenAI – have handed over control of OpenSandbox, Agent Skills, OpenEnv, and Open Responses respectively. Each of these projects provides functions that developers of AI agents – which typically combine models, tools, and a task loop – may find helpful. And having a more or less agreed-upon blueprint for implementation tends to make deployment easier and more predictable, at least until your AI agent unexpectedly ransacks some third-party organization. OpenSandbox provides a way to constrain or sandbox the capabilities of AI agents using various client SDKs, tools, protocols, lifecycle hooks, container runtimes, and assorted in-sandbox execution components. Agent Skills outlines a format for text descriptions that guide AI agents through specified tasks more effectively. It provides context that helps agents accomplish their goal
-
-### Windows said modem worked fine. That unmistakable scorched electronics smell suggested otherwise
-Fri, 23 Oct 2026 05:26:00 +0000 — https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375
-
-Energy can be hard to find on Friday mornings, which is why The Register uses them to offer a fresh instalment of On Call – the reader-contributed column that shares your hopefully empowering tech support stories. This week, meet a reader we’ll Regomize as “Lachlan,” who told us he once did tech support for a senior exec who had a side hustle writing essays for Japanese university students attending UK universities. The exec asked Lachlan for help diagnosing a sudden inability to send or receive email, an obvious hindrance to the side hustle. This story took place in the dialup age, so Lachlan sensibly assumed that the exec’s modem was misbehaving. “I checked the network settings, nothing wrong there,” he told On Call. Next, he checked the cables, and if the line the modem used had a dial tone. Again, all was well. “At this point I decided to make sure the device was correctly installed in Windows Device Manager,” Lachlan wrote. “I had a lot of experience in the dark arts of serial communications and there was an option in the advanced settings in Device Manager to send a series of low level AT commands to the modem, which would return responses.” He ran the tests, and Windows reported that the modem was in the pink of health. With all that done, Lachlan decided the time had come to replace the modem. “When I opened the PC, I got a faint whiff of that unmistakable scorched PCB smell,” he wrote. “By looking at the modem you couldn’t normally see if any of the chips were faulty
-
 ## Engadget
+
+### OpenAI says it's cutting off internet access for frontier model training
+Fri, 23 Oct 2026 22:37:02 +0000 — https://www.engadget.com/2296019/openai-says-its-cutting-off-internet-access-for-frontier-model-training/
+
+OpenAI says it will no longer allow frontier models to access the internet during training in an effort to put in new safety measures after a series of incidents.
 
 ### Meta is charging government and nonprofit pages to post links on Facebook
 Fri, 23 Oct 2026 16:09:39 +0000 — https://www.engadget.com/2295422/meta-is-charging-government-and-nonprofit-pages-to-post-links-on-facebook/
@@ -357,12 +362,27 @@ Thu, 22 Oct 2026 20:05:26 +0000 — https://www.engadget.com/2294778/rhode-islan
 
 It's the first state to sue the social media company on these allegations.
 
-### The trailer for Mass Effect 5 has leaked and unfortunately it looks good
-Thu, 22 Oct 2026 19:55:13 +0000 — https://www.engadget.com/2294768/the-trailer-for-mass-effect-5-has-leaked-and-unfortunately-it-looks-good/
-
-'Mass Effect: Universe' looks like it would have focused on a new protagonist and series favorite Liara T'Soni.
-
 ## TechCrunch
+
+### Startups don t need to go viral to win customers
+Fri, 23 Oct 2026 23:07:45 +0000 — https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
+
+At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
+
+### OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+Fri, 23 Oct 2026 23:05:49 +0000 — https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
+
+OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
+
+### Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
+Fri, 23 Oct 2026 21:59:19 +0000 — https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
+
+The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
+
+### VCs, Superhuman Mail founder share red flags about product-market fit
+Fri, 23 Oct 2026 20:57:13 +0000 — https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/
+
+Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
 
 ### TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now
 Fri, 23 Oct 2026 20:03:14 +0000 — https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/
@@ -389,7 +409,7 @@ Fri, 23 Oct 2026 16:20:28 +0000 — https://techcrunch.com/2026/10/23/commonweal
 
 Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.
 
-### What some of Anthropic’s backers are reportedly worth before its IPO
+### What some of Anthropic’s backers are worth before its IPO
 Fri, 23 Oct 2026 16:02:43 +0000 — https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/
 
 Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.
@@ -403,24 +423,4 @@ Quest is the latest in a series of healthcare technology companies that have bee
 Fri, 23 Oct 2026 04:22:57 +0000 — https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/
 
 Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
-
-### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
-Fri, 23 Oct 2026 04:00:00 +0000 — https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/
-
-The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
-
-### Left alone with nothing to do, AI agents started playing
-Fri, 23 Oct 2026 00:45:37 +0000 — https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/
-
-MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
-
-### Mark Zuckerberg s creative plan to pay California’s proposed billionaire tax without losing control of Meta
-Thu, 22 Oct 2026 23:50:41 +0000 — https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/
-
-A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
-
-### Warhound raises $200M to engineer war dogs and arm them with Anduril gear
-Thu, 22 Oct 2026 23:15:00 +0000 — https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/
-
-Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
 

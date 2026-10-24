@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-23T20:04:45.433Z
+# Games — harvested 2026-10-24T09:06:57.837Z
 
 ## Eurogamer
+
+### What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth"
+Sat, 24 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort
+
+Hello, it is me, your regular weekend host Mertie and I am here once again to guide you gently into Saturday with our usual feature What We've Been Playing, where we write a little about the games we've been, yes, playing. This week, Bertie - before fleeing for a well-deserved break and leaving me with the keys to the place - runs a one-on-one D&D game; Connor plays with his Moon Flesh in Warframe , and I've been serenely gallivanting over yonder hills. Read more
+
+### Nintendo's Shigeru Miyamoto says even if gen-AI "were to eventually handle everything, there will always be a role left" for human designers
+Fri, 23 Oct 2026 20:12:34 +0000 — https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai
+
+Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent. Read more
 
 ### With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal
 Fri, 23 Oct 2026 18:38:57 +0000 — https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights
@@ -51,16 +61,6 @@ Oof. I expected this day to come but the news has left me winded nonetheless; Bi
 Thu, 22 Oct 2026 14:11:14 +0000 — https://www.eurogamer.net/video-games-down-php-vulnerability
 
 Multiple games - including Final Fantasy 14 and Umamusume: Pretty Derby - have faced outages and other issues following this week's discovery of a serious PHP vulnerability. Read more
-
-### BioWare's cancelled Mass Effect game would've learned from Baldur's Gate 3 and The Witcher to deliver "a level of autonomy and choice that no other game has"
-Thu, 22 Oct 2026 13:35:34 +0000 — https://www.eurogamer.net/cancelled-mass-effect-bioware-unprecedented-levels-of-autonomy
-
-EA has closed its longtime studio partner BioWare , the iconic development house behind Mass Effect and Dragon Age, impacting around 50 staff who were in pre-production on the next Mass Effect game. In the aftermath of EA's decision, one of those affected has shared a little about the project, claiming it would have featured unprecedented levels of player freedom and choice reactivity. Read more
-
-### Despite its mixed reception, Marvel's Wolverine was September's top-selling new game in the US, making Sony launch revenues it hasn't seen since Helldivers 2
-Thu, 22 Oct 2026 13:22:52 +0000 — https://www.eurogamer.net/marvels-wolverine-top-seling-september-us-circana
-
-Marvel's Wolverine may not have had the best critical reception , but that clearly didn't discourage consumers. The action-adventure from Marvel's Spider-Man studio Insomniac has topped US video game sales in September, despite releasing exactly halfway through the month. Read more
 
 ## GamesIndustry.biz
 
@@ -119,16 +119,16 @@ Thu, 22 Oct 2026 09:14:16 +0000 — https://www.gamesindustry.biz/xbox-reveals-p
 
 Xbox has revealed the pricing for the cloud gaming limits on Game Pass, announced last month . Read more
 
-### Fortnite returns to iOS in Australia after court rules Apple violated competition law
-Thu, 22 Oct 2026 08:08:08 +0000 — https://www.gamesindustry.biz/fortnite-returns-to-ios-in-australia-after-court-rules-apple-violated-competition-law
-
-Fortnite is returning to iOS in Australia after a court decision ruled that Apple must open iOS to third-party app stores after finding it violated competition law. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Talking Point: What Are You Playing This Weekend? - Issue 655
+Fri, 23 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655
+
+Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4 . It's been a couple of years since I last dove into a Call of Duty, so hopefully this one is worth it! Read the full article on pushsquare.com
 
 ### What a Loss for All of Us : Boss of Baldur s Gate 3 Maker Reacts to BioWare Closure
 Fri, 23 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure
@@ -184,11 +184,6 @@ Thu, 22 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/leaked
 Thu, 22 Oct 2026 19:30:00 GMT — https://www.pushsquare.com/news/2026/10/gears-of-war-e-day-cancelled-last-minute-for-ps5-may-have-cost-half-a-billion-to-make
 
 Fenix down. Gears of War: E-Day may be one of the most expensive games ever made, making Microsoft’s decision to cancel an almost-complete PS5 version of the game even more bemusing. Kotaku started the speculation earlier today when it cited sources who claim the third-person shooter cost an eye-watering $500 million to create. Read the full article on pushsquare.com
-
-### Promising Sci-Fi RPG Exodus Changes Its Main Character s Face After Fan Criticism
-Thu, 22 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/promising-sci-fi-rpg-exodus-changes-its-main-characters-face-after-fan-criticism
-
-Mugged. It's still a good six months or so until Exodus releases on PS5, so developer Archetype Entertainment's got plenty of time to tweak its Mass Effect -style RPG. And that's exactly what it's done with the game's main character, Jun. Read the full article on pushsquare.com
 
 ## Game Developer
 
@@ -261,57 +256,77 @@ Mole Mania, Avenging Spirit and Revenge of the ‘Gator are all available next w
 
 ## Polygon
 
-### 8 New TV Shows to Watch This Weekend on Netflix, HBO, and Hulu (October 23-25)
-Fri, 23 Oct 2026 20:01:19 GMT — https://www.polygon.com/new-tv-shows-streaming-this-weekend-netflix-october-23-25/
+### Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability
+Sat, 24 Oct 2026 09:05:18 GMT — https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/
 
-Happy weekend! It’s a slow week for TV releases. Over the past month, shows like Carrie , Crystal Lake , and VisionQuest dropped, keeping many viewers busy. But things are picking up soon. In the coming months, we’ll have the return of the final season of Yellowjackets, the third season of The Lord of the Rings: The Rings of Power , and more.
+A number of major websites and services went offline earlier this week thanks to a massive PHP security vulnerability . One such service was Final Fantasy 14 . That posed a major problem for plants. You see, Square Enix's MMO has a number of systems on real-world timers that continue regardless of whether a player is logged in. Those unlucky enough to be locked out of the game during the PHP issue were left fearing that their gardens would wither and die. Thankfully, the community stepped in.
 
-### Esper locations in Final Fantasy Resonance
-Fri, 23 Oct 2026 18:51:59 GMT — https://www.polygon.com/final-fantasy-resonance-esper-locations/
+### 7 Hilarious ‘Far Side’ Comics With the Worst Puns
+Sat, 24 Oct 2026 09:00:21 GMT — https://www.polygon.com/best-far-side-comics-with-terrible-puns/
 
-Final Fantasy Resonance 's Espers give Fina an extra edge in combat, or sometimes they're just convenient decoys to bait the enemy into attacking them and not your party. However you use them, Espers are definitely worth the MP it costs to summon them. You have to put in some extra work to obtain them, though. Espers are tucked away in different spots around Resonance 's world, and you have to find and often fight them before Fina can use their powers.
+One of the best possible recipes for comedy is to have incredibly dumb characters written by incredibly smart people. Homer Simpson, for example, has often been written by Harvard-educated writers staffed at The Simpsons . Fry on Futurama is the same kind of character, as is Michael Scott from The Office , and basically every character on It’s Always Sunny in Philadelphia .
 
-### Mass Effect 5 Pitched as 'John Wick and James Bond' in Space, Report Says
-Fri, 23 Oct 2026 18:34:46 GMT — https://www.polygon.com/mass-effect-5-leaked-plot-details-john-wick-james-bond-in-space/
+### 12 Years Ago, 'Doctor Who's Most Unhinged Episode Revealed the Doctor at His Worst
+Sat, 24 Oct 2026 08:05:18 GMT — https://www.polygon.com/doctor-who-the-caretaker-peter-capaldi-12th-doctor-episode-analysis/
 
-More details keep emerging about Mass Effect: Universe , the planned fifth mainline entry in the Mass Effect franchise that BioWare was developing before EA closed the studio on Wednesday. EA laid off BioWare staff and canceled what fans have long called Mass Effect 5 . An internal trailer using pre-production assets emerged the next day, offering fans a look at what could have been, including potentially the series' first male Quarian squadmate .
+Doctor Who has never shied away from showing the Doctor at his worst . In “A Good Man Goes to War,” Eleven (Matt Smith) realizes that his choices have made him nearly as monstrous as his enemies. In “The Waters of Mars,” Ten (David Tennant) is still reeling from the loss of his most recent companion, Donna Noble (Catherine Tate), and determined to win for once. He uses his power over time to save people whose deaths are fixed points in history, consequences be damned. It’s a genuinely shocking, villainous moment for the Time Lord.
 
-### Best Visions to use in Final Fantasy Resonance
-Fri, 23 Oct 2026 18:27:34 GMT — https://www.polygon.com/final-fantasy-resonance-best-visions/
+### 50 Years Later, the Best War Series of All Time Is Still Unlike Anything Else on TV
+Sat, 24 Oct 2026 08:00:18 GMT — https://www.polygon.com/mash-tv-series-retrospective/
 
-There's so many to choose from that deciding on the best Visions in Final Fantasy Resonance often feels more than a little overwhelming. While every Vision has something that makes them worth using in certain circumstances, there is a set of them that excels in practically every situation. And you can find most of them early in the game, too.
+When Robert Altman's M*A*S*H arrived in theaters in 1970, its irreverent approach to the Korean War was unlike anything audiences had seen before. The film followed army surgeons who used practical jokes, alcohol, and a disregard for military authority to maintain their sanity while treating the wounded. Two years later, CBS adapted the film into a television series that retained its anarchic spirit but accomplished something the movie couldn't: It gave audiences time to get to know these characters.
 
-### The 25 Best Nintendo Switch 2 Games in 2026
-Fri, 23 Oct 2026 18:07:16 GMT — https://www.polygon.com/best-switch-2-games-nintendo/
+### J.J. Abrams’ Best Original Sci-Fi Movie Officially Finds a New Home on Streaming
+Sat, 24 Oct 2026 04:00:21 GMT — https://www.polygon.com/cloverfield-jj-abrams-streaming-peacock-paramount-plus-pluto-tv/
 
-That's in addition to stellar third-party support, with almost unanimous buy-in from indies and several big publishers going all-in on porting their biggest titles to Switch 2 — notably Square Enix, with the Final Fantasy 7 series, and Capcom, with Resident Evil, Onimusha, Pragmata, and more coming.
+In early 2006, J.J. Abrams was in the midst of a generational run. Alias was about to end, Lost had become a cultural phenomenon, and Abrams was traveling the world promoting his directorial debut with Mission: Impossible 3 . Somehow, Abrams was just getting started.
 
-### All 23 BioWare Games, Ranked
-Fri, 23 Oct 2026 18:00:20 GMT — https://www.polygon.com/bioware-games-ranked/
+### The Witcher's Geralt Officially Returns for New Adventure
+Sat, 24 Oct 2026 00:43:18 GMT — https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/
 
-Every great BioWare story starts the same way: You gather a party. For thirty years, the studio gave us companions we’d follow anywhere, choices that kept us up at night, and worlds we didn’t want to leave, from Candlekeep to the Citadel to Thedas. On Oct. 21, EA announced it’s closing BioWare , so we’ve ranked all 23 of its games — including remasters and mobile and browser spin-offs (but not expansions) — from worst to best. Grab your party. We’ll start with the footnotes and work our way up to the legends.
+The Witcher fans have had a lot to look forward to, like a remaster of The Witcher 3 , the Songs of the Past expansion , and The Witcher 4 , expected sometime in 2028 . Those fans probably know by now that their favorite monster-hunting games are based on an iconic book series (as is the Netflix show ), and they'll be glad to learn that author Andrzej Sapkowski has more up his sleeve.
 
-### 4 Years Ago, 'Doctor Who’s Biggest Failure Was Just the Beginning of the End
-Fri, 23 Oct 2026 18:00:20 GMT — https://www.polygon.com/doctor-who-the-power-of-the-doctor-failed-jodie-whittaker-4th-anniversary/
+### Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years
+Fri, 23 Oct 2026 23:33:18 GMT — https://www.polygon.com/darkwing-duck-reboot-disney-plus/
 
-As the longest-running sci-fi show in history, Doctor Who has always placed a tremendous responsibility on whoever takes on the role of the Doctor. For Jodie Whittaker, who debuted as the Thirteenth Doctor in 2017, that responsibility carried extra weight: she was the first woman to play the Doctor, a milestone that immediately stirred up the internet’s worst grifters.
+Disney is apparently still rummaging around in its animation vault, and this time it’s pulled out a duck who has spent the last 35 years waiting for another chance to fight a bunch of extremely ridiculous villains. Darkwing Duck is officially returning in a brand-new series for Disney Plus, Disney has confirmed.
 
-### Taylor Sheridan's Call of Duty Adaptation Will Have 'Soul,' Director Says
-Fri, 23 Oct 2026 17:59:57 GMT — https://www.polygon.com/call-of-duty-taylor-sheridan-movie-peter-berg/
+### 7 Classic JRPGs That Are So Good They Never Need a Remake
+Fri, 23 Oct 2026 22:19:03 GMT — https://www.polygon.com/best-classic-jrpgs-no-remake/
 
-Before creating the sprawling Yellowstone franchise and dad-drama series Landman for Paramount, writer Taylor Sheridan cut his teeth on cinematic action thrillers like Sicario , Hell or High Water , and Without Remorse , the latter of which is based on Tom Clancy's Rainbow Six precursor. Sheridan's next big project is an adaptation of Activision's Call of Duty franchise, and he's teaming up with a director who's perfect to tackle the project: Peter Berg, the director behind modern military movies The Kingdom and Lone Survivor .
+Remakes, remasters, and reimaginings are all the rage right now in video games. For the last several years, studios the world over have crafted new and vastly improved versions of all-time classic games, ranging from faithful modernizations like Capcom’s Resident Evil 4 remake to Square Enix’s wildly ambitious and expanded Final Fantasy 7 Remake trilogy . While plenty of older games benefit from a modern glow-up, others don’t need a lot of alterations to shine bright decades later.
 
-### The 25 Best Games on Xbox Game Pass in 2026
-Fri, 23 Oct 2026 17:59:21 GMT — https://www.polygon.com/best-game-pass-games-xbox/
+### Every Marvel Post-Credits Scene That Went Nowhere (So Far)
+Fri, 23 Oct 2026 22:16:19 GMT — https://www.polygon.com/marvel-movies-tv-shows-post-credits-scenes-teases/
 
-After a huge 2025, which saw the addition of the likes of Clair Obscur: Expedition 33 and Hollow Knight: Silksong , 2026 has been a bit quieter for the service. But there have been some monster back-catalog additions, including CD Projekt's Cyberpunk 2077 and a huge tranche of Ubisoft games, plus a few notable day-one drops, including Forza Horizon 6 and Halo: Campaign Evolved .
+Once the Infinity Saga wrapped with 2019’s Spider-Man: Far From Home , Marvel had to find a new central organizing factor, a way to give all the crossovers , cataclysmic conflicts , and multiverse mayhem some meaning. That process has been bumpy , and it’s left Marvel with a lot of loose ends, hints, and promises of sagas to come, which have become difficult to keep track of.
 
-### Where to find the Netshin Tech Complex in DMZ in Modern Warfare 4
-Fri, 23 Oct 2026 17:35:07 GMT — https://www.polygon.com/mw4-modern-warfare-4-netshin-tech-complex-location/
+### An '80s Cult Horror-Comedy Becomes a Global Streaming Hit on HBO Max
+Fri, 23 Oct 2026 21:00:49 GMT — https://www.polygon.com/gremlins-hbo-max-streaming-success-october-2026/
 
-The Netshin Tech Complex in DMZ in Call of Duty: Modern Warfare 4 is one of the most fortified areas in the game, and for good reason. It contains plenty of high-tier loot, will usually have a lieutenant inside, often has commanders in the general vicinity, and you'll even need to go here for missions at one point.
+There was a time when horror movies weren't afraid to get a little weird. The 1980s gave us everything from the surreal nightmares of A Nightmare on Elm Street to the gooey, creature-filled chaos of The Blob . It was an era when filmmakers could mix practical-effects gore, genuinely unsettling monsters, and a healthy dose of absurdity without worrying too much about fitting into a single genre.
 
 ## PC Gamer
+
+### Why private equity acquisitions like the one that just claimed BioWare are so dreaded
+Fri, 23 Oct 2026 22:46:50 +0000 — https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/
+
+The closure of BioWare has not come as a huge surprise. The LGBTQ-inclusive developer of Mass Effect and Dragon Age, which hadn't managed to transmute development mayhem into sales success and whose games aren't ideal environments for loot boxes, did not seem likely to be admired by its new owners, Saudi Arabia and Trump son-in-law Jared Kushner. Employees at the legendary RPG studio started working on their resumes as soon as the acquisition was announced. But even if BioWare's new owners had been miscellaneous investors rather than Saudi royalty, the outlook would not have been good: This is what private equity does. Public companies are of course plenty capable of blowing things up all on their own. EA's pre-acquisition attempt to turn BioWare into a live-service shooter studio was one of the great missteps of the live service goldrush, and Microsoft's pursuit of shareholder value has led to thousands of layoffs and numerous game cancellations. But there is a particular, systematic way that leveraged private equity acquisitions consume companies rather than nurturing them. In the wake of BioWare's closure and 400 layoffs across EA, we have updated our previously-reported overview of the process that has led to the demise of a number of game studios and other companies. How private equity acquisitions work Ostensibly, the goal of a private equity acquisition is to optimize the bought-out company's performance for long-term returns, tapping underutilized potential—like EA's 
+
+### Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1
+Fri, 23 Oct 2026 21:58:50 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/
+
+Electronic Arts shuttered BioWare earlier this week, and that sucked. A concept trailer for the Mass Effect game the studio had in development subsequently leaked , and that made everyone feel even worse because—keeping in mind that it was an early-development concept piece—it looked really good. YouTuber Dantics has now revealed more about what BioWare was actually working on, which he claims to be aware of because he was part of the Mass Effect community council, meaning he "saw what BioWare was building, and provided feedback during development." We haven't directly confirmed Dantics' role on the council, although others on social media have vouched for him, and BioWare community councils are definitely a real thing: The studio has referenced them in past updates , and they can also be seen in credits for games including Mass Effect: Legendary Edition and Dragon Age: The Veilguard . Members of the ME5 council aren't known, but Mass Effect veteran Michael Gamble, the project lead on the next game, follows Dantics on X. So, suitably caveated: Dantics said in a post on X that the next Mass Effect game was set 600 years after the Reaper War, and would put players in the role of a customizable N7 agent who would be "a cross between John Wick and James Bond." The galaxy in this future timeline was divided into three major factions: Humans, Batarians, Krogan, and others in one alliance, the "Council Races"—Asari, Salarians, and Turians—forming the second bloc, and the Geth emergi
+
+### Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'
+Fri, 23 Oct 2026 21:43:44 +0000 — https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/
+
+One of the big topics of conversation around Onimusha: Way of the Sword when it released last month—and even before that, when Capcom first put out a demo of the game—was whether it was too easy. Viral clips of early game enemies standing around doing nothing gave the impression of a woefully easy game for action fans coming from the likes of Sekiro, Nioh or Ninja Gaiden. Once I played the full game, I found those fears mostly unfounded , but it's true that Onimusha's basic enemies pose little threat compared to its bosses, and mostly serve as fodder for you to cut through as you explore. Way of the Sword's harder difficulty option being locked behind beating the campaign didn't necessarily endear the game to hardcore action players, either, so I'm not shocked that one of the most popular downloads on the game's Nexusmods page is one that amps up enemy aggression . But I still mostly loved Onimusha , and didn't find myself craving the brutal difficulty of Sekiro or Nioh while I was playing it. With more than a month of hindsight to see how players have studied the blade, Capcom also seems pretty happy with the level of challenge it settled on. "We've been looking at the data that comes back from people playing, so we can see where people are struggling and how they're progressing through the game. What we've seen in the trends in the data is that it's close to what we set out to achieve, in terms of difficulty," director Satoru Nihei said in an interview with PC Gamer. Nihei 
+
+### Time could be running out for Arkane
+Fri, 23 Oct 2026 20:07:21 +0000 — https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/
+
+Arkane Lyon may soon be facing closure, according to a new report by French site Le Monde , which says a deadline to find a buyer for the studio will land on November 13, at which point Microsoft could close the studio outright. Microsoft has since extended that deadline by a month, however, so it can continue to pursue alternative options. Arkane Lyon was caught up in this year's vortex of Xbox layoffs, announced in July , which will see roughly 3,200 people put out of work. Xbox also dumped four studios: Double Fine , Compulsion Games , and Undead Labs all went independent (and almost immediately laid off large numbers of employees) while Hellblade developer Ninja Theory appears to be closing outright. Because Arkane is based in France, Xbox couldn't just drop the hammer on it. Instead, it began a legally-required consultation process "to review potential strategic options." The Le Monde report says that on July 16, 10 days after the Xbox layoffs were announced, Arkane management informed employees that Xbox intended to close the studio. France's " Florange Law ," however, requires companies with more than 1,000 employees who want to close a facility to undertake a search for a buyer first. The deadline for that requirement in Arkane's case is November 13, after which Xbox will presumably be free to close the studio. That option is definitely on the table: The Le Monde report says documents signed in July and published on a French government website on August 10 specificall
 
 ### It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?
 Fri, 23 Oct 2026 19:37:16 +0000 — https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/
@@ -326,7 +341,7 @@ Excitement over the Total War: Shogun 2 remaster turned to a very different emot
 ### 'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem
 Fri, 23 Oct 2026 19:24:34 +0000 — https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/
 
-If you spent much time online this week, you likely noticed how it briefly felt like the end of days as government websites, game marketplaces , and furry image boards alike were pulled offline in a scramble to address newly-discovered security vulnerabilities in PHP—a scripting language used by roughly 70% of the world's websites, according to some estimates . It was a harrowing incident, revealing flaws in foundational internet infrastructure that might have turned some of the most popular web destinations into attack vectors. And in an interview with Reuters, Cloudflare CEO Matthew Prince says we should expect to see similar episodes on a regular basis in the years ahead as LLM technologies accelerate the discovery of exploitable security vulnerabilities. Prince said that Cloudflare—a major cloud networking and cybersecurity provider that a massive number of websites relies on—is aware of "a bunch of additional severe vulnerabilities that are present in other pieces of critical software" like those that triggered the PHP panic earlier this week. And as both cybersecurity experts and bad actors task LLMs with identifying previously unrecognized weaknesses in the core technologies of the internet, there will likely be more to follow. "I think we're going to have a couple years where every single week it's going to feel like the sky is falling," Prince said. Previously, the rate at which exploitable flaws in software could be identified was limited by the finite number of exp
+If you spent much time online this week, you likely noticed how it briefly felt like the end of days as government websites, game marketplaces , and furry image boards alike were pulled offline in a scramble to address newly-discovered security vulnerabilities in PHP—a scripting language used by roughly 70% of the world's websites, according to some estimates . It was a harrowing incident, revealing flaws in foundational internet infrastructure that might have turned some of the most popular web destinations into attack vectors. And in an interview with Reuters, Cloudflare CEO Matthew Prince says we should expect to see similar episodes on a regular basis in the years ahead as LLM technologies accelerate the discovery of exploitable security vulnerabilities. Prince said that Cloudflare—a major cloud networking and cybersecurity provider that a number of websites rely on—is aware of "a bunch of additional severe vulnerabilities that are present in other pieces of critical software" like those that triggered the PHP panic earlier this week. And as both cybersecurity experts and bad actors task LLMs with identifying previously unrecognized weaknesses in the core technologies of the internet, there will likely be more to follow. "I think we're going to have a couple years where every single week it's going to feel like the sky is falling," Prince said. Previously, the rate at which exploitable flaws in software could be identified was limited by the finite number of experts able 
 
 ### 'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry
 Fri, 23 Oct 2026 17:56:29 +0000 — https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/
@@ -352,26 +367,6 @@ I've been having a grand old time playing Call of Duty: Modern Warfare 4 with an
 Fri, 23 Oct 2026 16:11:07 +0000 — https://www.pcgamer.com/hardware/processors/amd-says-the-re-release-of-the-ryzen-7-5800x3d-was-like-a-final-gift-to-our-loyal-am4-users-and-it-was-ceo-dr-lisa-su-who-first-came-up-with-the-idea/
 
 I was genuinely surprised by the re-release of the AMD Ryzen 7 5800X3D earlier this year. A chip I thought long dead was back in 10th Anniversary form, after a resurrection process AMD's David McAfee described as " very hard, actually " to our Dave at Computex 2026. Now AMD's Travis Kirsch has spoken to Japanese outlet Tech+ about more of the thinking behind the re-release, and it seems the idea started at the very top. "Originally, several years ago, I believe Lisa [Su, AMD CEO] was one of the people who suggested reviving the Ryzen 7 5800X3D." "It was like a final gift to our loyal users who had used our AM4 for almost 10 years, giving them one last chance to upgrade their PCs using DDR4 systems," Kirsch continues. "However, this required restarting the production lines, which took some time. In short, this was planned before the changes in the memory market occurred, and it was not considered as a solution to the DDR5 shortage." That may be the case, but the timing still worked out pretty well for AMD. DDR5 prices had been surging since October 2025, while the chip's eventual release date of June 25, 2026 put it right in the middle of a difficult year for PC gamers. Many of whom may well have been looking to upgrade older, AM4 rigs without making the switch to the DDR5-only AM5 socket. Kirsch was also asked about the current shipment ratio of AM4 to AM5 processors. "I cannot give you the exact ratio," he says. "But I can say that AM4, which supports DDR4, remains very stro
-
-### AMD says its working on FSR's frame pacing issues, but there's still conspicuously no mention of Multi Frame Generation
-Fri, 23 Oct 2026 16:04:04 +0000 — https://www.pcgamer.com/hardware/graphics-cards/amd-says-its-working-on-fsrs-frame-pacing-issues-but-theres-still-conspicuously-no-mention-of-multi-frame-generation/
-
-Whether you dismiss it as 'fake frames' or embrace the tech as a real game changer, frame generation has fast become a headlining act of this GPU generation. We've since discovered that not all frame gen (FG) tech is created equal, but AMD has promised to address a key criticism of its own FSR FG. Earlier this week, AMD's Jack Huynh announced that FSR 4.1 would be shipping early to RX 6000 graphics cards , though that wasn't all. Huynh also announced that improvements to FSR's frame pacing were on the way, too . Personally, I'm more familiar with Nvidia's approach to FG—especially after unlocking Multi Frame Gen on my RTX 4070 Super earlier this year. AMD's FSR has often been criticised for how it struggles with frame pacing in comparison. Ie, you may have lots of frames , but not every one of them is displayed for a consistent amount of time, making for gameplay that's a different flavour of choppy. The issue can affect frames both traditionally rendered and generated, and it's been a stumbling block since at least FSR 3. For example, CD Projekt noted gamers may experience micro stutter back when Cyberpunk 2077 got official support for the tech in 2024. As recently as August this year, Hardware Unboxed's testing demonstrated that pacing is still an issue in games that support both FSR 3.1 and FSR 4 (via Videocardz ). It's good to hear that AMD is focusing on this issue, but without a solid timeline or a list of hardware set to enjoy these frame pacing improvements, this week
-
-### In a rare instance of good news, Philips has announced the world's first 36-inch, 260 Hz gaming monitor. So that's nice
-Fri, 23 Oct 2026 14:55:41 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/in-a-rare-instance-of-good-news-philips-has-announced-the-worlds-first-36-inch-260-hz-gaming-monitor-so-thats-nice/
-
-Writing (and reading) about PC hardware news at the moment can be downright depressing. Massive price rises. AI everywhere. Disappearing graphics cards . It's just a bit much, you know? So come and bask in something deliciously old school with me: the release of a good-looking new product you might be able to buy without selling a kidney. Philips says its new 36M4C5500P display is the world's first 36-inch gaming monitor with a 260 Hz refresh rate . Lovely. This ultrawide's got a curved, 1500R VA panel. Oooooh. A 3440 x 1440 resolution. Ahhhh. And an overclockable refresh rate that makes sense for casual and competitive gamers alike. Stone the crows and call the fire department, it actually looks pretty decent. Sure, VA panel tech is nothing fancy. And many a curved ultrawide has passed the doors of PC Gamer Towers over the past few years. But a 36-inch panel size is something interesting, filling the gap between your standard 34-inch ultrawides and the more desk-dominating, 39-inch-and-up models. The specs aren't exactly earth-shattering , but I'm hoping they might push it towards the more affordable end of the market. It's got Display HDR400 certification, dual HDMI 2.1 and DisplayPort 1.4 connectivity, and a tilting stand. Everything you might reasonably need. There's no word on pricing yet, but I've got my fingers crossed. (Image credit: Philips Evnia) I even thought we'd make it through the press release without a mention of AI, but no, this display has "AI-enhanced gami
-
-### LG UltraGear Evo 52G930B Evo gaming monitor review
-Fri, 23 Oct 2026 14:31:50 +0000 — https://www.pcgamer.com/hardware/gaming-monitors/lg-ultragear-evo-52g930b-review/
-
-Can you have too much of a mediocre thing? If I was being unkind, that's the challenge I'd make to the new LG UltraGear Evo 52G930B . What we are talking about here, people, is a monumental 52-inch 5K2K gaming monitor. But it's based on an old-school VA panel. Yep, not OLED. Not IPS. It doesn't even have mini-LED local dimming. It's just a huge, high-res, VA panel. At 52 inches, it's so big and so expensive it immediately poses another problem. Why wouldn't you just buy a 4K TV? After all, this LG clocks in at $1,699 or £1,499, which buys you an awful lot of 4K TV here in late 2026. That kind of money puts you in reach of OLED TVs up to around 65 inches. And, like I said, the LG UltraGear Evo 52G930B isn't actually that well specced save for its size and resolution. LG UltraGear Evo 52G930B specs Screen size 52-inch Resolution 5,120 x 2,160 Brightness 400 nits SDR, 600 nits HDR Response time 1 ms Refresh rate 240 Hz HDR DisplayHDR 600 (no local dimming) Features VA panel, 2x HDMI 2.1, DisplayPort 2.1, USB-C with 90 W PD, USB hub, 3.5mm audio Price $1,699 | £1,499 Buy if... ✅ You want the ultimate in big-screen immersion: 52 inches in an ultrawide format, plus 5K2K resolution, makes for a genuinely cinematic experience. Do not buy if... ❌ You're expecting OLED speed and contrast: This LG has an old-school VA panel and the response and lighting control is miles behind OLED. There is a counter argument in favour of this huge 52-inch ultrawide beast, and it goes something like th
-
-### Graphics card wholesale prices are on the rise once again in China, so it's time to brace yourself for even more GPU pricing pain
-Fri, 23 Oct 2026 13:36:34 +0000 — https://www.pcgamer.com/hardware/graphics-cards/graphics-card-wholesale-prices-are-on-the-rise-once-again-in-china-so-its-time-to-brace-yourself-for-even-more-gpu-pricing-pain/
-
-According to hardware outlet ChannelGate , the wholesale spot prices of several RTX 50-series graphics cards are on the rise once again in China, which is an ominous indicator for consumer pricing worldwide. The 16 GB RTX 5080 is said to have increased by around 2000 CNY, which equates to around $300, while the RTX 5070 Ti has seen an increase of around 600 CNY ($90). In the RTX 5080's case, that puts the current wholesale spot price at around 14,500-15,000 yuan, which equates to a truly stunning $2,171-$2,246 range when converted to US dollars. Retail graphics card pricing has already gone bananas in recent months, with US prices surging to hitherto unthinkable levels. The cheapest RTX 5080 we can currently find is a wallet-aching $1,850 , while a mere $70 separates the RTX 5050, RTX 5060, and RTX 5060 Ti 8 GB on our GPU deals page. Yes, that means the cheapest RTX 5050 we can currently find is $400 . That's a silly price for Nvidia's slowest gaming GPU of the current generation. While the 16 GB RTX 5080 has seen the largest jump in price so far (exacerbated by its reported discontinuation in favour of a 24 GB version ), ChannelGate also says that Asus has just updated its pricing policy across the stack . (Image credit: Future) This amounts to a 1000 yuan ($150) increase for the RTX 5080 16 GB, a 200 yuan ($30) increase for the RTX 5070 Ti, RTX 5070, and RTX 5060 Ti 16 GB, and a 100-300 yuan increase for all AMD cards. While some of those increases may seem small, they're a
 
 ## GameSpot
 
@@ -437,6 +432,11 @@ When a big new first-party game comes to Xbox, Microsoft is known to put up big,
 
 ## Rock Paper Shotgun
 
+### What are we all playing this weekend?
+Sat, 24 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405
+
+After months of umming ahhing over paint colours, covering our living room wall in little swatches of testers, we've finally got exasperated with the entire process selected Cherry Caramel. I would be clearing out the living room to start painting today, but, honestly, after the surprise DIY of an exploded sink yesterday, maybe what's called for is some gaming. Nothing to do with either piping, water levels, or interior design. Sorry, Pipemania, Bioshock, and House Flipper . Enough about my exploded sink, though, he's what everyone else is up to this weekend. Read more
+
 ### Factorio's final major update has rolled off the assembly line, adding "the things we wanted to do for 2.0 but didn't have time for"
 Fri, 23 Oct 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for
 
@@ -491,9 +491,4 @@ It was only ever going to be a matter of time, but I'm still surprised just how 
 Thu, 22 Oct 2026 21:50:40 +0000 — https://www.rockpapershotgun.com/a-line-held-tight-is-a-charcoal-visual-novel-about-a-miners-strike-in-the-32nd-century-and-choosing-your-relationships-wisely
 
 We've had about roughly four decades of games as we generally know them now, and yet somehow, so often their stories feel so limited in scope. I'm not talking about a lack of big, bold ideas, in fact there might be too many of those. I more mean that there are aspects to life that often go uncovered in games. For example, when was the last time you saw a game about a workers strike? Citizen Sleeper 2 has one questline about such a thing, but it's just what the entire game is about. A Line Held Tight, a mecha visual novel about a sci-fi miner's strike, may bridge that gap. Read more
-
-### Robot smashing catharsis game Virtue and a Sledgehammer is out next week, but there's an experimental visual novella prologue you can play right now
-Thu, 22 Oct 2026 20:36:04 +0000 — https://www.rockpapershotgun.com/robot-smashing-catharsis-game-virtue-and-a-sledgehammer-is-out-next-week-but-theres-an-experimental-visual-novella-prologue-you-can-play-right-now
-
-Virtue and a Sledgehammer looks like a satisfying game. There is perhaps no more wonderfully chunky and impact frame friendly a weapon than the reliable sledgehammer, and when put into a game with a description like, "Most people resort to therapy. But you chose the brave option. A sledgehammer," then of course I have to give it a look. Unfortunately, I still have to wait a week to check out the full thing. Fortunately, a prologue to the game just dropped for free that offers a tantalising, and quite different, experience. Read more
 

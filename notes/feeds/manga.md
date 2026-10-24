@@ -1,6 +1,26 @@
-# Manga — harvested 2026-10-23T20:04:45.433Z
+# Manga — harvested 2026-10-24T09:06:57.837Z
 
 ## Anime News Network
+
+### Kaiju No. 8 Anime's 'Conclusion Arc' Revealed as Film Opening in 2027
+Sat, 24 Oct 2026 03:01:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/kaiju-no-8-anime-conclusion-arc-revealed-as-film-opening-in-2027/.243156
+
+Shigeyuki Miya returns to direct the film at Production I.G
+
+### Bandai Namco Cross Store & The Gundam Base's Mall of America Openings Rescheduled
+Fri, 23 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-23/bandai-namco-cross-store-and-the-gundam-base-mall-of-america-openings-rescheduled/.243139
+
+New opening date at Minneapolis is October 30
+
+### LOVELYZ's Ye-in Jeong Joins The Trauma Code: Heroes on Call Seasons 2-3
+Fri, 23 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/lovelyz-ye-in-jeong-joins-the-trauma-code-heroes-on-call-seasons-2-3/.243125
+
+Jeong replaces Ha-young, who left following controversy over allegations that her great-grandfather collaborated with Japanese colonial authorities
+
+### North American Anime, Manga Releases, October 18-24
+Fri, 23 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/north-american-anime-manga-releases-october-18-24/.242997
+
+<cite>Reincarnated As A Dragon Hatchling</cite> anime; <cite>The Apothecary Diaries: Maomao's Notes on the Inner Palace, The Mandalorian, My Dress-Up Darling XOXO!</cite> manga ship
 
 ### Horror Collector Anime Reveals English Dub Cast, October 24 Debut
 Fri, 23 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149
@@ -12,7 +32,7 @@ Fri, 23 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Kogisu wrote several episodes for <cite>Detective Conan</cite> anime
 
-### Shigeru Miyamoto Becomes 1st Game Creator to be Honored With Japan's Order of Culture Award
+### Shigeru Miyamoto Becomes 1st Game Creator to be Honored With Japan's Order of Culture Award (Updated)
 Fri, 23 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/shigeru-miyamoto-becomes-1st-game-creator-to-be-honored-with-japan-order-of-culture-award/.243145
 
 Emperor to present Nintendo's <cite>Mario/Zelda</cite> creator with prestigious award on November 3
@@ -41,26 +61,6 @@ Seok-gu Son, Eita Nagayama star in series based on 2002 Korean-Japanese collabor
 Fri, 23 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-games/2026-10-23/seasons-of-books-and-keys-and-bloody-roars-and-expensive-consoles/.243003
 
 Hold on to your old consoles, because the new ones are going to cost a <i>lot</i>. Plus Jean-Karlo digs into the demo of upcoming VN <i>Seasons of Books and Keys</i>!
-
-### Kazumi Yamashita's Twisted Sisters Manga Ends With 11th Volume
-Fri, 23 Oct 2026 09:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/kazumi-yamashita-twisted-sisters-manga-ends-with-11th-volume/.243120
-
-11th volume ships in early spring
-
-### Interview: What We Know About Mobile Suit Gundam RG XARX-ZERO with Director Kenji Kamiyama
-Fri, 23 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/interview/2026-10-23/what-we-know-about-mobile-suit-gundam-rg-xarx-zero-with-director-kenji-kamiyama/.242526
-
-The man tackled <cite>Blade Runner, Ghost in the Shell, The Lord of the Rings</cite>, and now <cite>Gundam</cite>.
-
-### The World's Strongest Witch ‒ Episodes 1-3
-Fri, 23 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/the-world-strongest-witch/episodes-1-3/.243142
-
-Between an “I took an arrow to the knee” gag and Souls game inspired strats, <i>The World's Strongest Witch</i> is very clearly informed by the culture and experience of online gamers.
-
-### Though I am an Inept Villainess Anime's 2nd Part Streams Teaser Video
-Fri, 23 Oct 2026 07:59:15 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/though-i-am-an-inept-villainess-anime-2nd-part-streams-teaser-video/.243140
-
-New part debuts in January 2027
 
 ## Crunchyroll News
 
@@ -156,13 +156,5 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### Crunchyroll reveals UK Home Entertainment Release Schedule November-December 2026
-Fri, 23 Oct 2026 10:15:43 +0000 — https://animeuknews.net/2026/10/crunchyroll-reveals-uk-home-entertainment-release-schedule-november-december-2026/
-
-Titles include Ghost in the Shell 4K, The Apothecary Diaries Season 1 and Overlord Season 4 On SteelBook® Blu-ray™ from November.
-
-### Wandering Cat s Cage Review
-Fri, 23 Oct 2026 09:00:15 +0000 — https://animeuknews.net/2026/10/wandering-cats-cage-review/
-
-From Takumigraphics comes an omnibus edition of an Akane Torikai manga that offers a look at a future where reproduction is harshly managed and men are dying out.
+_Feed unavailable: HTTP 500_
 
