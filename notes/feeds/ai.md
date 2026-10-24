@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-24T14:07:14.967Z
+# AI — harvested 2026-10-24T18:59:40.812Z
 
 ## OpenAI
 
@@ -35,10 +35,7 @@ Thu, 22 Oct 2026 22:24:34 GMT — https://huggingface.co/blog/microsoft/thinking
 
 ## Google DeepMind
 
-### Beyond tree cover: mapping the world’s forest types
-Thu, 22 Oct 2026 14:30:24 +0000 — https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/
-
-A global map categorizing every 10-meter patch of land on Earth into distinct forest types.
+_Nothing in the last 48 hours._
 
 ## VentureBeat AI
 

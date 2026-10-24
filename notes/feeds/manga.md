@@ -1,6 +1,16 @@
-# Manga — harvested 2026-10-24T14:07:14.967Z
+# Manga — harvested 2026-10-24T18:59:40.812Z
 
 ## Anime News Network
+
+### ghost – end of night Anime Movie Review
+Sat, 24 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/ghost-end-of-night/anime-movie/.243016
+
+The director of <i>Sonny Boy</i> asks, “What if Haruhi Suzumiya had an emo phase?”
+
+### The Apothecary Diaries Season 3 ‒ Episode 52
+Sat, 24 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-52/.243161
+
+Right now Maomao's got bigger bugs to fry than romance.
 
 ### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 5
 Sat, 24 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-5/.243160
@@ -51,16 +61,6 @@ Emperor to present Nintendo's <cite>Mario/Zelda</cite> creator with prestigious 
 Fri, 23 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/seven-seas-licenses-secret-relationships-webtoon-for-print-release-in-august-2027/.243126
 
 Story follows man who grew up in poverty, works hard to secure his financial future
-
-### Street Fighter Live-Action Film Review
-Fri, 23 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/street-fighter/live-action-film/.242955
-
-A fine leading turn from Andrew Koji, an excellent soundtrack, and gorgeously animated flashbacks grapple with truly baffling creative choices.
-
-### Korean-Animated Film Your Letter Begins Streaming on Crunchyroll
-Fri, 23 Oct 2026 11:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/korean-animated-film-your-letter-begins-streaming-on-crunchyroll/.243127
-
-Film screened in U.S., Canada through Crunchyroll Anime Nights on August 17
 
 ## Crunchyroll News
 
@@ -146,13 +146,5 @@ _Nothing in the last 48 hours._
 
 ## Anime UK News
 
-### Crunchyroll reveals UK Home Entertainment Release Schedule November-December 2026
-Fri, 23 Oct 2026 10:15:43 +0000 — https://animeuknews.net/2026/10/crunchyroll-reveals-uk-home-entertainment-release-schedule-november-december-2026/
-
-Titles include Ghost in the Shell 4K, The Apothecary Diaries Season 1 and Overlord Season 4 On SteelBook® Blu-ray™ from November.
-
-### Wandering Cat s Cage Review
-Fri, 23 Oct 2026 09:00:15 +0000 — https://animeuknews.net/2026/10/wandering-cats-cage-review/
-
-From Takumigraphics comes an omnibus edition of an Akane Torikai manga that offers a look at a future where reproduction is harshly managed and men are dying out.
+_Feed unavailable: HTTP 403_
 

@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-10-24T14:07:14.967Z
+# Film & TV — harvested 2026-10-24T18:59:40.812Z
 
 ## Variety
+
+### Horror Fans, Rejoice: FilmQuest Breakout The Crawling Is the Gutsy Alien Freakout of Your Dreams
+Sat, 24 Oct 2026 18:48:55 +0000 — https://variety.com/2026/film/columns/the-crawling-alien-movie-1236930222/
+
+For writer and director Christian Everhard, “The Crawling” began as a late-night thought experiment. While on vacation with a girlfriend at an isolated cabin, he woke up in the middle of the night, his mind racing. As a horror fan, he started thinking about the scariest worst-case scenario. Could a dangerous local break into the [ ]
+
+### Billy Corgan Says He’s Stood by Marilyn Manson Despite Sex Abuse Claims Because He ‘Didn’t Feel He Was Guilty : I Don t Want the World to Tell Me Who My Friends Are’
+Sat, 24 Oct 2026 18:38:59 +0000 — https://variety.com/2026/music/news/smashing-pumpkins-billy-corgan-marilyn-manson-lawsuits-1236930317/
+
+Billy Corgan remains steadfast in his relationship with close friend and longtime colleague Marilyn Manson, despite a series of sexual misconduct and domestic violence lawsuits that have been filed against Manson throughout the years. When asked about the friendship on a recent episode of the New York Times’ “Popcast” podcast, the Smashing Pumpkins frontman responded [ ]
+
+### Sylvester Stallone Says Daughter’s ‘Tulsa King’ Casting is ‘Of Course’ Nepotism: ‘Obviously We Let Them Have Every Advantage’
+Sat, 24 Oct 2026 17:28:02 +0000 — https://variety.com/2026/tv/news/sylvester-stallone-tulsa-king-nepotism-1236930287/
+
+Sylvester Stallone has heard the nepotism allegations, and frankly, he doesn’t care. Stallone’s real-life daughter, Scarlet Rose Stallone, co-stars with him as Spencer in “Tulsa King,” and takes on a larger role in the family business and on-screen for Season 4. Recently, Stallone acknowledged his daughter’s privilege and criticized people’s complaints about her casting. “First [ ]
+
+### The Surprise Guest in You Can See Everything Could Win an Oscar. Should They?
+Sat, 24 Oct 2026 17:00:00 +0000 — https://variety.com/2026/film/columns/amanda-seyfried-you-can-see-everything-oscar-1236916757/
+
+SPOILER ALERT: This article contains spoilers for You Can See Everything, now playing in theaters. The question that’s consumed the awards-pundit class since “You Can See Everything” exploded into theaters last week is whether Amanda Seyfried, the unlikely linchpin of this hybrid documentary, can be nominated for or win an acting Oscar. A24 is planning [ ]
+
+### New York s AMC Kips Bay Theater Closes on Jan. 3; CEO Says AMC Wants to Stay but NYU Langone Wants Us Gone
+Sat, 24 Oct 2026 16:41:51 +0000 — https://variety.com/2026/film/news/amc-kips-bay-closing-date-ceo-adam-aron-1236930275/
+
+AMC CEO Adam Aron has spoken out on the closure of New York City s popular AMC Kips Bay 15 movie theater, which will shutter on Jan. 3. Aron wrote a letter to the Kips Bay community and addressed how the nearby hospital NYU Langone, which plans to grow its medical facility, has not engaged with [ ]
+
+### Box Office: ‘Clayface’ Lands at No. 1 with $10.4 Million Debut, ‘You Can See Everything’ Adds $6.14 Million on Friday
+Sat, 24 Oct 2026 15:44:43 +0000 — https://variety.com/2026/film/box-office/box-office-clayface-you-can-see-everything-wildwood-wicker-1236930256/
+
+Clayface might have been a considerably nicher choice for a feature film than DC s “Supergirl” and “Superman,” but that didn’t stop audiences from showing out to catch the Batman supervillain s gory, nightmare-inducing origin story at the box office this weekend. The new release generated $10.4 million from 3,458 North American theaters on Friday, taking the [ ]
+
+### Andrew Garfield and Gabrielle Union Attend Ferragamo Dinner in Beverly Hills and More Red Carpet Photos: October 2026
+Sat, 24 Oct 2026 15:30:38 +0000 — https://variety.com/gallery/red-carpet-celebrity-photos/
+
+October began with Ben Affleck and Kerry Washington premiering “Animals,” their new political thriller about a Los Angeles mayoral candidate (Affleck) whose family is thrust into an unimaginable situation involving their son and housekeeper and her undocumented immigrant boyfriend. The following day, the Critics Choice Association hosted its sixth annual Celebración of Cinema Television [ ]
+
+### Quentin Tarantino Surprises Fans With 17 Minutes of ‘The Further Mis-Adventures of Cliff Booth’ at AFI Fest
+Sat, 24 Oct 2026 14:47:44 +0000 — https://variety.com/2026/film/news/quentin-tarantino-further-mis-adventures-of-cliff-booth-preview-1236930220/
+
+Quentin Tarantino surprised audiences on Friday night at AFI Fest when he shared the first 17 minutes of “The Further Mis-Adventures of Cliff Booth.” Tarantino made a special appearance at the TCL Chinese Theatre in Hollywood, following a screening of “Once Upon a Time … In Hollywood.” Following the Q A moderated by Rotten Tomatoes’ Jacqueline [ ]
 
 ### Dalton Smith vs. Alberto Puello Livestream: Here’s Where to Watch the WBC Junior Welterweight Title Boxing Match Online
 Sat, 24 Oct 2026 14:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-smith-vs-puello-boxing-live-online-1236918582/
@@ -12,47 +52,42 @@ Sat, 24 Oct 2026 13:43:51 +0000 — https://variety.com/2026/film/reviews/love-l
 
 Much has been written on the new dating politics practiced by Gen-Z — more progressive socially, more conservative sexually, if you believe the hot takes, which you probably shouldn t. Either way, that sensibility has yet to trickle down to mainstream portrayals of Zoomer romance on screen, which remain largely beholden to templates established by previous [ ]
 
-### Morelia Film Festival Prizes: ‘Six Months in a Pink and Blue Building,’ an Expression of Pure, Unbound Beauty, Wins Top ‘Ojo’ Award
-Sat, 24 Oct 2026 12:52:22 +0000 — https://variety.com/2026/film/global/morelia-film-festival-prizes-pink-and-blue-building-1236929888/
-
-Bruno Santamaría Razo’s fiction debut “Six Months in a Pink and Blue Building”(“Seis meses en el edificio rosa con azul”) has clinched the top Ojo award at the 24th Morelia Film Festival (FICM), which wraps Oct. 25. Hailed by Variety as a “lush, poetic film rooted in memories,” it became the first Mexican feature to [ ]
-
-### El Gouna Takeaways: Safe Exit Wins Top Prize, Arab TV Seeks New Talent and Egyptian Filmmakers Push Boundaries
-Sat, 24 Oct 2026 10:23:00 +0000 — https://variety.com/2026/film/global/el-gouna-film-festival-2026-five-takeaways-cinegouna-1236930192/
-
-Egypt’s El Gouna Film Festival wrapped its ninth edition Friday after nine days of screenings, industry activity and a closing night that spread its top prizes across the Middle East and beyond. Mohammed Hammad’s “Safe Exit,” a psychological drama about a young Coptic security guard in Cairo confronting trauma rooted in religious violence, won the [ ]
-
-### UFC 333 Livestream: Here s How to Watch Volkanovski vs. Evloev Online for Free
-Sat, 24 Oct 2026 10:00:00 +0000 — https://variety.com/2026/shopping/news/how-to-watch-ufc-333-volkanovski-vs-evloev-live-online-free-1236917590/
-
-After Natalia Silva defended Wang Cong in an unanimous decision to win the UFC Women’s Flyweight Championship during UFC 332 in early October, the Ultimate Fighting Championship travels from Salt Lake City to Abu Dhabi for UFC 333. For the main event, Australian Alexander Volkanovski (28-4-0) defends his UFC Featherweight Championship belt against Russian fighter [ ]
-
-### Jay-Z Brings Out Blue Ivy Carter, DJ Khaled and John Legend During the First of Two Nights at Los Angeles SoFi Stadium
-Sat, 24 Oct 2026 08:42:12 +0000 — https://variety.com/2026/music/news/jay-z-brings-out-blue-ivy-dj-khaled-scarface-sofi-stadium-1236930075/
-
-Can I take you to my home for a second? asked Jay-Z as he led into Empire State of Mind during the first of two headlining shows at Inglewood, California s SoFi Stadium. Thus, he did, as he d been doing for the past hour-and-a-half, bringing Brooklyn to Los Angeles as he traced the corners of his [ ]
-
-### Kore-eda Hirokazu Explains Why He Never Films Children Crying – and What Ken Loach and Hou Hsiao-hsien Taught Him
-Sat, 24 Oct 2026 08:40:11 +0000 — https://variety.com/2026/film/festivals/kore-eda-hirokazu-why-never-films-children-crying-1236930180/
-
-Japanese auteur Kore-eda Hirokazu, whose films are known for their natural performances from child actors, said there is one thing he has decided never to put on screen: a child crying. “It’s not that I can’t, or that it’s difficult. I don’t shoot it,” the Japanese director said at an In Conversation event at the [ ]
-
-### Impulso Morelia: Tatiana Huezo’s ‘Galerna’ Takes Top José María Riba Award, With Homeboys Another Key Winner
-Sat, 24 Oct 2026 08:33:02 +0000 — https://variety.com/2026/film/global/impulso-morelia-galerna-tatiana-huezo-top-prize-1236922084/
-
-“Galerna,” a fiction feature from Mexico’s Tatiana Huezo, has snagged the top prize at Impulso Morelia, the pix-in-post industry section of the 10-day Morelia Film Festival, which wraps Oct. 25. The José Maria Riba Award, presented by Cinépolis Distribution and Profest 2026, bestows $14,740. (250,000 pesos) toward outstanding post-production needs and/or promotional activities. Only her [ ]
-
-### Vino G. Bastian, Pevita Pearce, Faradina Mufti, Indra Jegel Lead Miracle in Cell No. 7 Director Lee Hwan-kyung’s Indonesian Father-Son Drama Gasigogi (EXCLUSIVE)
-Sat, 24 Oct 2026 07:00:00 +0000 — https://variety.com/2026/film/news/vino-g-bastian-pevita-pearce-faradina-mufti-gasigogi-1236930103/
-
-Korean filmmaker Lee Hwan-kyung, director of “Miracle in Cell No. 7,” has assembled an Indonesian ensemble led by Vino G. Bastian, Pevita Pearce, Faradina Mufti and Indra Jegel for “Gasigogi,” a father-son drama now in production with Falcon Pictures. The film follows Jiwa, a father who sacrifices everything in a fight to save Juna, his [ ]
-
-### Bill Maher’s Embarrassing Karoline Leavitt Interview on ‘Real Time’
-Sat, 24 Oct 2026 02:27:40 +0000 — https://variety.com/2026/tv/news/bill-maher-karoline-leavitt-interview-trump-real-time-hbo-1236930093/
-
-Bill Maher appears to be on good terms with Trumpworld. The 70-year-old HBO host joined Kid Rock and Stephen A. Smith as President Trump’s White House dinner guests earlier this month, and, following the dinner, Trump intimated to reporters that Maher’s criticisms of him on his late-night program are mostly bluster, and he “likes me [ ]
-
 ## The Hollywood Reporter
+
+### UFC 333 Livestream: Where to Watch Volkanovski vs. Evloev Main Card
+Sat, 24 Oct 2026 18:58:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-333-volkanovski-evloev-live-stream-free-1236739560/
+
+The event is taking place at Etihad Arena in Abu Dhabi. Here's how to watch online, including for free.
+
+### Billy Corgan Defends Marilyn Manson Friendship Despite Sexual Assault Claims Against Manson: I Didn t Feel That He Was Guilty
+Sat, 24 Oct 2026 18:44:21 +0000 — https://www.hollywoodreporter.com/music/music-news/billy-corgan-defends-marilyn-manson-friendship-didnt-feel-guilty-1236739561/
+
+The Smashing Pumpkins frontman reflected on his 30-year relationship with the shock rocker, whose wife's twin sister is married to the Pumpkins' James Iha. "I don’t want the world to tell me who my friends are and who I should associate with,” he said. "In some cases I knew personal things behind the scenes that are not in the public sphere."
+
+### Jay-Z s Victory Lap Continues as He Brings Out Blue Ivy Carter, John Legend, DJ Khaled for SoFi Stadium Opening Night
+Sat, 24 Oct 2026 17:03:46 +0000 — https://www.hollywoodreporter.com/music/music-news/jay-z-sofi-stadium-night-one-recap-1236737877/
+
+The rapper also brought out Scarface as a special guest for the first of two much anticipated L.A. shows on Friday night.
+
+### Online Comedians Are Making a Mint Mocking Wall Street
+Sat, 24 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/online-comedians-mocking-wall-street-corporate-culture-1236736301/
+
+Hedge fund jerks and private equity bros are being pilloried by popular creator comedians — and the finance world is laughing along.
+
+### Lowden, Turner or a Dark Horse: One James Bond Casting Test Has Nothing to Do With Acting
+Sat, 24 Oct 2026 16:48:40 +0000 — https://www.hollywoodreporter.com/movies/movie-features/james-bond-casting-test-lowden-turner-1236739203/
+
+There are some not-so-secret behind-the-scenes qualities that Bond producers are looking for.
+
+### You Can See Everything Eyes $20M Second Weekend as Clayface Leads Box Office
+Sat, 24 Oct 2026 15:56:55 +0000 — https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/
+
+Newcomer 'Wildwood' will likely occupy third place for the frame that also sees the arrivals of 'Wicker' and 'Klara and the Sun.'
+
+### Bill Murray Is Generally OK Giving You a Bill Murray Moment
+Sat, 24 Oct 2026 14:15:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/bill-murray-interview-a-course-called-ireland-tom-coyne-1236738922/
+
+"If you're living correctly, it's not a burden," Murray tells The Hollywood Reporter ahead of his and Tom Coyne's new Paramount golf/travel series.
 
 ### Quentin Tarantino Shows Off First 17 Minutes of Cliff Booth and Explains Decision to Revive Character
 Sat, 24 Oct 2026 13:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/quentin-tarantino-cliff-booth-revive-character-afi-fest-1236739509/
@@ -69,42 +104,32 @@ Fri, 23 Oct 2026 23:53:36 +0000 — https://www.hollywoodreporter.com/movies/mov
 
 The character nearly lost a finger before the creative team and Capcom reached a compromise on an alternative outcome.
 
-### Nick Reiner s Push for Release of Trust Money to Be Decided by Mediator
-Fri, 23 Oct 2026 23:26:22 +0000 — https://www.hollywoodreporter.com/news/general-news/nick-reiner-trust-money-release-decided-mediator-1236739448/
-
-Lawyers for the trust have maintained that Reiner can't access the funds because of the so-called slayer statute, which bars people from receiving an inheritance from those they kill.
-
-### Ken Atchity, Producer on ‘Joe Somebody’ and ‘The Meg,’ Dies at 82
-Fri, 23 Oct 2026 23:12:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ken-atchity-dead-joe-somebody-the-meg-producer-1236739449/
-
-The author and literary manager also worked on Maggie Gyllenhaal’s ‘Hysteria’ and Angelina Jolie’s ‘Life or Something Like It.’
-
-### Crawl 2 Adds Sarah Niles, Ray Panthaki and 3 More Ahead of 2027 Paramount Release (Exclusive)
-Fri, 23 Oct 2026 22:51:39 +0000 — https://www.hollywoodreporter.com/movies/movie-news/crawl-2-sarah-niles-ray-panthaki-flula-borg-sequel-1236739368/
-
-Flula Borg, Richard Brake and Charley Palmer Rothwell also star in Alexandre Aja's follow-up to the 2019 horror film.
-
-### Marysa Maslansky, Founder of the Renowned Visages Photo Agency, Dies at 82
-Fri, 23 Oct 2026 22:44:17 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/marysa-maslansky-dead-visages-photo-agency-herb-ritts-1236739352/
-
-Her clients included Herb Ritts, Mary Ellen Mark, George Hurrell, Paul Jasmin and William Claxton.
-
-### Ethan Klein Says He s Working to Urgently Remove My Ownership, Financial Stakes From H3 Podcast After Wife Hila Klein Reveals His Affair
-Fri, 23 Oct 2026 22:05:50 +0000 — https://www.hollywoodreporter.com/business/digital/ethan-klein-remove-ownership-h3-podcast-hila-affair-1236739381/
-
-"We are all shocked, angry, and heartbroken to learn about Ethan’s ongoing affair. As soon as we found out, we all agreed: we would not continue working with Ethan involved or profiting in any way," the crew behind the podcast shared in an Instagram statement.
-
-### Chappell Roan Enlists PinkPantheress to Close Out Super Graphic Spectacular Fundraising Shows
-Fri, 23 Oct 2026 22:03:07 +0000 — https://www.hollywoodreporter.com/music/music-news/chappell-roan-super-graphic-spectacular-fundraising-show-1236738829/
-
-The 28-year-old pop star gathered performers across two nights for the special event, which she closed out 70-minute headlining set.
-
-### TV Ratings: Cupertino and Line of Fire More than Double in Delayed Viewing
-Fri, 23 Oct 2026 22:02:02 +0000 — https://www.hollywoodreporter.com/tv/tv-news/cupertino-line-of-fire-multi-platform-ratings-1236738447/
-
-Fellow first-year shows 'NCIS: New York' and 'Eternally Yours' also post sizable gains.
-
 ## Deadline
+
+### Sylvester Stallone On Casting Daughter In Tulsa King : Of Course It’s Nepotism, You Idiot
+Sat, 24 Oct 2026 18:03:45 +0000 — https://deadline.com/2026/10/sylvester-stallone-tulsa-king-nepotism-1237172381/
+
+An interview with Sylvester Stallone from October 16 is going viral thanks to some candid comments the Tulsa King actor made about the casting of his daughter Scarlet Rose Stallone. Stallone has a blunt message to naysayers: “Of course it’s nepotism, you idiot. The subject came up as Stallone was reflecting on comments he s heard [ ]
+
+### Ric Flair Latest Health Update: Ex-Wrestler Wears Eye Patch In Message Reassuring Fans I Am Focused On My Healing And Recovery
+Sat, 24 Oct 2026 17:25:00 +0000 — https://deadline.com/2026/10/ric-flair-health-update-1237172323/
+
+UPDATE: Former pro wrestler Ric Flair is reassuring fans that he is focused on healing and recovery as he recuperates from a fall in Florida yesterday. In the new update, Flair, wearing an eye patch, thanks concerned fans as well as the Tampa General Hospital staff and doctors that put up with me until 4:30am. [ ]
+
+### AMC Theatres Wants NYC s Endangered Kips Bay Multiplex To Remain But Decision Not Ours To Make ; Scheduled Closing Date Announced
+Sat, 24 Oct 2026 16:50:06 +0000 — https://deadline.com/2026/10/amc-theatres-kips-bay-multiplex-1237172359/
+
+AMC Theatres CEO Adam Aron has issued an open letter to New York City residents reiterating the company s desire to continue operating its longstanding Kips Bay 15 multiplex in the Manhattan neighborhood of that name, but concedes the decision is not AMC s to make. Neighbors of the Kips Bay-Murray Hill section of Manhattan along Second [ ]
+
+### BravoCon 2027 Sets Dates For Return To Las Vegas
+Sat, 24 Oct 2026 15:45:00 +0000 — https://deadline.com/2026/10/bravocon-2027-dates-las-vegas-1237172140/
+
+Bravo has set the dates for BravoCon 2027 as the fan event returns to Las Vegas from October 22-24, 2027. The weekend event will take place at the Caesars Forum, where it has been held for the past two cycles. This marks the 5th BravoCon experience and brings the Bravoverse to life with a weekend [ ]
+
+### Clayface Takes Shape As No. 1 With $24M+; You Can See Everything Wowing With Possible $20M Second Weekend Box Office Update
+Sat, 24 Oct 2026 15:06:00 +0000 — https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/
+
+UPDATED SATURDAY AM: Clayface wants it to be known that no matter how many googly eyes memes that Elizabeth Holmes and Nathan Fielder put out there, the weekend is his to lord. The James Watkins directed DC movie filed a better than expected Friday/previews of $10.4M, which is now pointing to a $24M-$25M opening, another [ ]
 
 ### Anika Rashaun Dies: Real World , The Challenge Alum Was 34
 Sat, 24 Oct 2026 13:08:57 +0000 — https://deadline.com/2026/10/anika-rashaun-dead-1237172312/
@@ -141,36 +166,16 @@ Sat, 24 Oct 2026 01:01:53 +0000 — https://deadline.com/2026/10/avengers-doomsd
 
 As the World Series got underway, MCU fans were treated to a new sneak peek at Avengers: Doomsday, premiering Dec. 18. During Friday s Game 1, the MLB and the MCU teamed up for a special preview of the upcoming movie, in which Pedro Pascal s Mister Fantastic takes the mound for the ceremonial first pitch to [ ]
 
-### Awards Season Heats Up With ‘The Only Living Pickpocket In New York,’ ‘Fatherland’ More Specialty Preview
-Sat, 24 Oct 2026 00:30:00 +0000 — https://deadline.com/2026/10/indie-films-opening-only-living-pickpocket-in-new-york-wicker-1237171300/
-
-The weekend feels awards-y with John Turturro tugging the heartstrings in The Only Living Pickpocket in New York, Olivia Colman (Wicker) and Helen Mirren (A Talent For Murder) in the house, and Hans Zischler and Sandra Hüller playing Thomas Mann and his daughter on a road trip (Fatherland). The A24 You Can See Everything phenomenon [ ]
-
-### Everything We Know About Universal s Miami Vice 85 Movie So Far
-Sat, 24 Oct 2026 00:16:09 +0000 — https://deadline.com/feature/miami-vice-85-movie-news-updates-1237172205/
-
-Universal has a new Miami Vice film in the works with a cast that grows more star-studded by the day. Preceded by Michael Mann’s 1980s TV series, the dynamic duo of James “Sonny” Crockett and Ricardo Tubbs will reunite once more. Titled Miami Vice ’85, the film will be shot for Imax. For everything we [ ]
-
-### All The Songs In ‘Klara And The Sun’: Violent Femmes More
-Fri, 23 Oct 2026 23:34:51 +0000 — https://deadline.com/2026/10/klara-and-the-sun-songs-soundtrack-chopin-vivaldi-1237172171/
-
-Taika Waititi’s Klara and the Sun, based on the book by Kazuo Ishiguro, stars Jenna Ortega as the titular robotic Artificial Friend. The film follows Klara as she wishes for a charge or owner to claim her from the Friend Store, where she gets a limited amount of time in the front alcove to show [ ]
-
-### Clayface Takes Shape As No. 1 With $23M-$25M; You Can See Everything s Wild Ride Continues With $19M Box Office Update
-Fri, 23 Oct 2026 23:31:00 +0000 — https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/
-
-UPDATED FRIDAY PM: Right now, Warner Bros/DC s R-rated Clayface is puffing its chest with a $9.5 million Friday (including previews) and an estimated $23M-$25M opening weekend at 3,458 theaters. If that comes to be it s a solid start in the vicinity of other mid-October genre movies like Smile ($22.6M opening) and last year s Black Phone [ ]
-
-### Crazy Rich Asians Star Constance Wu Teases Really Funny HBO Series Filming In NYC
-Fri, 23 Oct 2026 22:15:37 +0000 — https://deadline.com/2026/10/crazy-rich-asians-constance-wu-teases-funny-hbo-series-1237172108/
-
-After eight years, Constance Wu is reuniting with the Young family for the Crazy Rich Asians HBO sequel series. On Friday, the Golden Globe nominee teased the really funny script from the 2018 film s co-writer Adele Lim, revealing the filming is taking place in New York City for the one-hour drama series, which got a [ ]
-
 ## befores & afters
 
 _Nothing in the last 48 hours._
 
 ## IndieWire
+
+### Watch the Buddy Team Explain How They Made the World Fall in Love with a Murderous Unicorn
+Sat, 24 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/
+
+At IndieWire's Future of Filmmaking Summit, "Buddy" producer Tracy Rosenblum, co-writer Jamie King, and Roadside Attractions head of digital marketing Melissa Yerou unpacked the formula behind one of 2026's breakout hits.
 
 ### Quentin Tarantino Surprises Fans with an Early Look at The Further Mis-Adventures of Cliff Booth
 Sat, 24 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/
@@ -227,17 +232,47 @@ Fri, 23 Oct 2026 16:30:00 +0000 — https://www.indiewire.com/criticism/movies/t
 
 Produced under Rian Johnson’s T-Street banner, writer/director Noah Segan's New York picture breathes new life into the subgenre.
 
-### Daniel Pemberton on Scoring Without a Map, from Project Hail Mary to David Byrne and Elon Musk
-Fri, 23 Oct 2026 16:00:00 +0000 — https://www.indiewire.com/features/podcast/composer-daniel-pemberton-project-hail-mary-musk-interview-1235223543/
-
-Daniel Pemberton joins IndieWire's "Screen Talk" to chat scores in four movies, including "Ink" and "The Drama."
-
 ## The Wrap
+
+### Jenna Ortega Is Unlearning Disney Channel Media Training to Set ‘Better Boundaries’
+Sat, 24 Oct 2026 18:35:14 +0000 — https://www.thewrap.com/creative-content/tv-shows/jenna-ortega-disney-channel-media-training-boundaries/
+
+Jenna Ortega admitted she s working on setting better boundaries with the public after following Disney Channel s media training guidance early in her career. “When I was young, and I was on Disney Channel, they took us to media training, right?” Ortega told Happy Sad Confused host Josh Horowitz. “And they told us, you know, ‘Every time someone meets you, it’s probably the only time they’re ever going to interact with you, like that’s a very special moment in their lives. So just be aware of that.’” Ortega, who starred on Disney Channel s Stuck in the Middle between 2016 and 2018, then jokingly added: No pressure! As Ortega went on, she confessed that this advice has never left me, adding, And sometimes I try to give myself grace, and I’m trying to have better boundaries. Namely, Ortega, who reached A-list fame with her starring roles in Netflix s Wednesday and the 2020s Scream revival, shared she was no longer agreeing to photos with any person on the street. “So maybe if I feel like it’s not so safe of a situation or maybe I don’t want to stop and agree to take a photo with a random grown man,” Ortega said. “Kids and things like that, of course. It is a lot though. And, again, it’s sweet. Some of the interactions are so sweet, and then some of them are a little bit more embarrassing or aggressive or mean. And it’s hard to know what the balance is. But you just… I do what I can.” Watch her full interview below. This is not the first time Ortega has reflected on the struggles
+
+### 3 Best Movies to Stream on Paramount+ This Week
+Sat, 24 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-to-watch-on-paramount-plus-this-week-oct-24/
+
+It s peak Spooky Season, which means it s also peak cuddle up on the couch with a great movie and a cozy blanket season. Paramount+ has a bevy of great choices whatever your mood, but for our curated selection of good movies to stream on Paramount+ this week we ve got two very different horror movies and a sword-and-sandals epic. Yes indeed, all three are sure to hit the sweet spot, but it depends on your mood. Want a goofy but still scary horror movie to enjoy with friends or a significant other? We got you. Want a really scary horror movie that you ve probably never seen? We ve also got you there. Want to extend your obsession with Greek mythology after seeing The Odyssey this summer? Yep, got you there too. These are our picks for the best movies to stream on Paramount+ this week. Drag Me to Hell Universal Pictures Here’s a fun Spooky Season pick: Sam Raimi’s 2009 film “Drag Me to Hell” is scary, but it’s fun scary. Alison Lohman plays a bank loan officer who, after denying an old woman a bank loan, gets cursed by her. It turns out she just denied a bank loan to a gypsy. Big mistake. Huge . What ensues is a goopy, hellish spiral as her life turns upside down, all leading up to one of the best horror movie endings of all time. Watch with friends and a big bucket of popcorn. Troy Eric Bana and Orlando Bloom in Troy (Warner Bros.) If “The Odyssey” got you interested in Greek mythology, 2004’s “Troy” — which Christopher Nolan was at one point supposed to direct — is a nice wat
+
+### Jared Kushner’s Lawyer Demands Vanity Fair Pull Book Excerpt Over ‘False and Defamatory Allegations’
+Sat, 24 Oct 2026 17:52:19 +0000 — https://www.thewrap.com/media-platforms/journalism/jared-kushner-lawyer-demands-vanity-fair-book-excerpt-removed/
+
+Chad Mizelle, an attorney representing Jared Kushner , demanded that Vanity Fair take down a recently published book excerpt alleging that President Donald Trump’s son-in-law had access to secret foreign bank accounts during his first term. We formally put Vanity Fair and Condé Nast on notice regarding the false and defamatory allegations published about our client, Jared Kushner, Mizelle wrote in a statement on X Saturday morning. Serious questions are now being raised about the credibility of this reporting, including by independent journalists. He continued: Despite repeated requests, the author has failed to produce a single bank statement, wire transfer record, account number or other verifiable evidence supporting these extraordinary accusations. As Mizelle went on, he claimed that they have seen no indication that Vanity Fair conducted any independent verification of these claims before publishing them. We call on Vanity Fair to clarify publicly whether it independently verified these allegations and, if so, what evidence supports them. Or did it simply republish the author’s claims without conducting its own fact-checking? he concluded. We have demanded that Vanity Fair remove the article and preserve all records relating to its reporting, fact-checking, editorial review and publication. Mizelle also attached the letter he sent to Vanity Fair over the article in-question, which claimed the outlet has exposed itself to serious legal risk by sharing the excerpt from inv
+
+### Queeney Todd: The Demon Bottom of Fleet Street Off Broadway Review: How Dare They Do This to Sondheim
+Sat, 24 Oct 2026 17:04:01 +0000 — https://www.thewrap.com/creative-content/reviews/queeney-todd-the-demon-bottom-of-fleet-street-off-broadway-review/
+
+What has Cole Escola wrought with his “Oh, Mary!”? After he trashed Abe Lincoln, turning him into a hungry queer, the flood gates have opened to go after other sacred icons. “Slam Frank” recently opened, giving the finger to Anne Frank. And now comes “Queeney Todd: The Demon Bottom of Fleet Street,” which opened Thursday at the Judson Memorial Church under the auspices of the Heartbeat Opera. An assassinated president is one thing, a Holocaust victim another. But now even Stephen Sondheim isn’t off limits?! In this hysterically funny send-up of “Sweeney Todd,” the title character here is an insatiable submissive queer who gets ticked off one night when he has lined up a troop of tops on Grindr to service him and then gets stood up by all of them! Making matters worse, he prepped himself, and those meds are expensive! Queeney Todd (Nathaniel Sullivan), unlike Sweeney, doesn’t intend to kill anyone. When he runs into Mrs. Lovedick (Matt Dengler), the owner of a failing sex shop, she sings “The Worst Thighs in London.” Being gay, Queeney has no problem resisting her meager charms. Mrs. Lovedick, hoping that he ll eventually change his mind, rents him an apartment, and it is here that Queeney finally gets lucky one night. A trick (Imara Miles) actually shows up, and when Queeney starts to shave his privates, thinking it will make him look younger, he accidentally castrates the guy. Always in search of new kinks, Mrs. Lovedick gets the idea to expand her sex shop to offer flesh-an
+
+### Bill Clinton’s Trump Takedown Has the Internet Cheering: ‘Old Bubba Got Bangers’
+Sat, 24 Oct 2026 16:50:48 +0000 — https://www.thewrap.com/media-platforms/politics/bill-clinton-trump-dig-rose-garden-overhaul-social-media-reactions/
+
+Former President Bill Clinton found himself going viral Saturday morning, days after he lobbed a pointed dig at Donald Trump for overhauling the White House Rose Garden. Namely, on Tuesday, Clinton swung by Florida to stump for gubernatorial candidate David Jolly, marking his first midterm-election appearance. And it was certainly a memorable one, as the former president took a moment to rip a zinger in Trump s direction. I think Congress made a mistake not protesting turning the Rose Garden into what looks like the entrance to Liberace s bathroom, Clinton said, prompting a round of laughter from the crowd. However, the response online was even greater. On Saturday, Fox & Friends Weekend touched on Clinton s jab, resulting in the quip getting snipped and spread widely online. It s safe to say the internet had a field day. Bill Clinton: "I think Congress made a mistake not protesting turning the Rose Garden into what looks like the entrance to Liberace's bathroom" pic.twitter.com/9fokHCa8zV &mdash; Aaron Rupar (@atrupar) October 24, 2026 99 mph fastball right on the outside corner, praised one X user in response to the joke. Another chimed in with , Old Bubba got bangers. A third wrote , Bill Clinton was 100% right about Donald Trump s makeover of the Rose Garden This actually applies to all of Trump s makeovers in the White House. A fourth sounded off , 10/10 zinger right there. Though, some spoke out in defense of late singer Liberace, noting it was wrong to smear [his] memo
+
+### Newlyweds Episode Release Schedule: When Do New Episodes Air?
+Sat, 24 Oct 2026 15:52:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/newlyweds-episode-release-schedule-nbc/
+
+NBC is welcoming another real-life couple into the sitcom community with Téa Leoni and Tim Daly-led Newlyweds. Leoni stars as Jeanie, a free-spirited woman, who marries James (Daly), a buttoned-up professor, after a whirlwind courtship. James only has eyes for Jeanie, but quickly learns that loving her means learning to love her sprawling, eccentric world of friends and family and vice versa, per the official logline. Jamie Lee Curtis, who co-created the show, also stars as James quirky ex-wife. Get all the details on Newlyweds below. When does “Newlyweds” premiere? The series premiere of Newlyweds debuts on Friday, Oct. 23 at 8:30 p.m. ET/PT on NBC. What time do new episodes air? New episodes of Newlyweds air 8:30 ET/PT on NBC, after new episodes of Happy s Place drop at 8 p.m. ET/PT. Where are the episodes streaming? Episodes will stream on Peacock the day after their NBC debut. When are new episodes coming out? Newlyweds debuts new episodes Fridays on NBC. Here’s the release schedule so far: Season 1, Episode 1: “Pilot” — Oct. 23 Season 1, Episode 2: My Place or Yours — Oct. 30 Season 1, Episode 3 — Oct. 18 Has Newlyweds been renewed for Season 2? No decision on Season 2 has been made by NBC yet. Who stars in “Newlyweds?” In addition to Leoni, Daly and Curtis, Newlyweds stars Emma Meisel, Ignacio Diaz-Silverio, Bill O’Neill and Al Madrigal. The post Newlyweds Episode Release Schedule: When Do New Episodes Air? appeared first on TheWrap .
+
+### Clayface Leads Box Office as You Can See Everything Rises 28% From Its Opening Weekend
+Sat, 24 Oct 2026 15:05:23 +0000 — https://www.thewrap.com/culture-lifestyle/culture/clayface-you-can-see-everything-saturday-box-office/
+
+While there s no single film with huge grosses at the box office this weekend, there s still plenty of success to be found as Warner Bros./DC Studios Clayface leads the way with a $10.4 million opening day while A24 s You Can See Everything has risen 28% from its opening weekend after a nationwide expansion. Clayface is currently estimated for a $24 million domestic opening from 3,458 locations, a respectable start against its reported $40 million budget. While the film is set to be a domestic-leaning performer with lower overseas numbers like last year s DC hit Superman, it is enjoying strong reception in the U.S. with a 76% critics and 93% audience score on Rotten Tomatoes along with an A- on CinemaScore. That reception should allow Clayface to hold strong through Halloween and beyond and turn it into a modest mid-budget theatrical success for Warner Bros., which will be some relief for that studio after an extremely difficult 2026 with busts like Digger, Supergirl, and Practical Magic 2. Now under Skydance ownership, Warner will look to turn the page in the coming months with movies like The Cat in the Hat and the highly anticipated Dune: Part Three. Meanwhile, You Can See Everything is now the highest grossing documentary of the past decade by a rapidly growing margin, having expanded from 855 to 2,655 locations in its second weekend and grossing an estimated $20 million. That will bring the much-talked-about documentary about Elizabeth Holmes to an excellent domestic tot
 
 ### Quentin Tarantino Surprises AFI Fest Audience by Unveiling 17 Minutes of Cliff Booth
 Sat, 24 Oct 2026 07:29:05 +0000 — https://www.thewrap.com/creative-content/movies/quentin-tarantino-unveils-cliff-booth-footage/
 
-The crowd that filled the TCL Chinese Theatre in Hollywood on Friday night expected to see Quentin Tarantino s 2019 hit Once Upon a Time in Hollywood with a post-screening conversation with Tarantino. They got both of those things, but the writer-director gave the room a big surprise at the end of the Q&A when he said, I could talk more about The Further Mis-Adventures of Cliff Booth or I could show you the first 17 minutes. He chose the later option, showing an alternately talky and explosive stretch of the film, which was written by Tarantino and directed by David Fincher, and which will be released by Netflix on Nov. 25. Warning: Some minor spoilers ahead for The Further Mis-Adventures of Cliff Booth. In the footage, Brad Pitt returns to his Oscar-winning role as the title character, a stuntman and assistant to Leonardo DiCaprio s movie and TV star Rick Dalton. Opening titles set the film in June 1977, eight years after the first film, with Cliff Booth having seemingly left his days as a stuntman behind. Instead, he works as a manager at the New Beverly Cinema, the iconic Los Angeles arthouse theater that Tarantino himself purchased in 2007. The footage opens with an extended strip-club sequence from the movie that is playing at the New Bev: Soul Brothers Die Hard, featuring Yahya Abdul-Mateen II as Roderick Hot Rod Harrison. Cliff recites lines along with the movie as he mans the projection booth and refills RC Cola canisters for the theater. Cliff then calls his father, 
+The crowd that filled the TCL Chinese Theatre in Hollywood on Friday night expected to see Quentin Tarantino s 2019 hit Once Upon a Time in Hollywood with a post-screening conversation with Tarantino. They got both of those things, but the writer-director gave the room a big surprise at the end of the Q&A when he said, I could talk more about The Further Mis-Adventures of Cliff Booth or I could show you the first 17 minutes. He chose the later option, showing an alternately talky and explosive stretch of the film, which was written by Tarantino and directed by David Fincher, and which will be released by Netflix on Nov. 25. In the footage, Brad Pitt returns to his Oscar-winning role as the title character, a stuntman and assistant to Leonardo DiCaprio s movie and TV star Rick Dalton. Though, Booth seems to be in a different place in his life at the start of this movie. There are also new players to feature, as Yahya Abdul-Mateen II, Scott Caan and Elizabeth Debicki also appear in the follow-up film. The new footage certainly captured the hangout vibe of Tarantino s Oscar-winning 2019 predecessor. After sitting to rewatch Once Upon a Time in Hollywood with the crowd, Tarantino reiterated his opinion that it s the film of his that he would most like to rewatch again and again specifically due to this more plot-light atmosphere though he admitted that the AFI Fest screening was the first time he d ever seen the movie in IMAX. I like that you re just hanging out with them, he sai
 
 ### RJ Mitte’s Sister Pens Poignant Tribute to Late Breaking Bad Star: ‘Lost My Other Half’
 Sat, 24 Oct 2026 04:57:30 +0000 — https://www.thewrap.com/culture-lifestyle/culture/rj-mitte-sister-tribute/
@@ -249,90 +284,55 @@ Sat, 24 Oct 2026 03:56:58 +0000 — https://www.thewrap.com/creative-content/mus
 
 Pro Silver Star Ltd., the owner of the Dallas Cowboys Cheerleaders brand, took legal action against My Chemical Romance after the band featured gun-wielding backup dancers dressed in DCC-style uniforms during a Hollywood Bowl concert. In new legal documents, obtained and viewed by TheWrap, the company requested a temporary restraining order and a temporary injunction against My Chemical Romance, accusing the rock band of degrading the DCC brand with the lookalike concert costumes. On Oct. 21, 2026, Defendants staged The Black Parade, a theatrical concert production set in a fictional dictatorship and featuring pyrotechnics and armed conflict, the filing stated. As part of that production, female performers took to the stage in the DCC Uniform—and then armed themselves with rifles in a staged firefight, only to be depicted being shot. The document continued: Audience members and online commentators understandably believed that the performers were the real Dallas Cowboys Cheerleaders and said so in social media posts that continue to circulate. Per the Pro Silver Star s legal team, the DCC owners reached out to My Chemical Romance and requested that they cease using the uniforms in their performances. Silver Star is not litigious, and it takes no issue with MCR’s music, its artistic ambitions, or any message Defendants seek to convey, the filing said. Silver Star does not ask Defendants to change their setlist, narrative, politics, choreography, or even their decision to put gu
 
-### Bill Maher Shrugs Off Criticism For Meeting With Trump Again: I Like These Dinners
-Sat, 24 Oct 2026 02:59:12 +0000 — https://www.thewrap.com/creative-content/tv-shows/bill-maher-defends-second-trump-dinner/
-
-Bill Maher defended his decision to dine with President Donald Trump again despite their frequent clashes, admitting that he “like[s] these dinners.” It s just a little odd that Trump keeps gushing about men s bodies and how handsome they are, and their jawlines, and their asses, their physiques. I m a little hurt, he said during his Real Time monologue Friday evening. I was there for dinner for four hours last week. Not a peep. Yeah, I did it again, bitches. I know, I m the bad guy because I go and say face-to-face to the man the things you write in articles that he ll never read, Maher continued. You know what? F k you. I like these dinners. As Maher went on, he noted that there was something thrilling about being announced when you re in the White House, joking that he was called the president 7 o clock low ratings dummy appointment. But the dinner went on for four hours, slightly longer than the press secretary hired last week, he said. I met her. She seems nice. I feel bad for her. They threw her in the deep end, but still, I lasted longer on prom night. Per Maher, the dinner was lengthy due to the fact that he had a lot to bitch about. We talked about a lot of things: Supreme Court, ICE shootings, pulling SkyLink down, abandoning the Afghans who helped us during the war, Maher shared. Hegseth is dragging you down, sir. You know, I mean, when you say Obama s not a centrist, your racism is showing. Please don t name the ocean after yourself. What else? Maher confessed tha
-
-### Karoline Leavitt Confirms Trump Is ‘Flirting’ With the Idea of Turning Press Briefing Room Into a Pool
-Sat, 24 Oct 2026 02:25:25 +0000 — https://www.thewrap.com/creative-content/tv-shows/karoline-leavitt-confirms-trump-swimming-pool-press-briefing-room-plan/
-
-Karoline Leavitt confirmed that Donald Trump is flirting with the idea of turning the White House press briefing room into a pool . During a Friday appearance on HBO s Real Time With Bill Maher, the former White House Press Secretary addressed recent reports regarding a potential renovation of the James S. Brady Press Briefing Room, confirming that the idea has been on the president s mind. So, I see now he wants to get rid of the press pool in the White House and make it into an actual swimming pool, host Bill Maher grilled Leavitt Friday evening. Did you see that? Yes, I have seen it, Leavitt responded. Look, it was a swimming pool at one time. In fact, if you go down the stairs, underneath where the briefing room is, you can actually see the tile from where the pool used to be. She added: So, he just maybe wants to restore it to all of its glory. I don t know if he ll do it, but he s been flirting with [the idea]. Maher admitted he wasn t too rattled at the idea of Trump undertaking the additional renovation project, sharing he didn t give a s t about the uproar surrounding the president s ballroom project. I like the ballroom. America does need a ballroom, Maher said. It s the United States of America. We re not having dinner in the grass. Leavitt s comments about the briefing room come three days after the New York Times reported that Trump talked on more than one occasion about reverting the space back into a swimming pool. Per the report, the president discussed moving
-
-### ‘Avengers: Doomsday’ Teaser Falls Flat After Promise of a New Look: ‘That’s It??’
-Sat, 24 Oct 2026 01:35:38 +0000 — https://www.thewrap.com/creative-content/movies/avengers-doomsday-teaser-social-media-reactions/
-
-Marvel fans were left underwhelmed after the studio dropped a new teaser for “Avengers: Doomsday” during Game 1 of the World Series, offering only a few glimpses of new footage. In the sneak peek, Pedro Pascal’s Mister Fantastic took the mound for a ceremonial first pitch, before the video cut to commentary from a number of MLB players. The teaser also showed glimpses of Chris Evans return as Steve Rogers, as well as the destruction to come from Robert Downey Jr. s Doctor Doom. Other notable MCU figures spotted in the clip were Chris Hemsworth s Thor, Letitia Wright s Black Panther, Paul Rudd s Ant-Man and Anthony Mackie s Captain America. There didn t seem to be any big reveals, despite the fact the MLB teased earlier on Thursday that the first Tampa Bay Rays vs. Milwaukee Brewers World Series game would feature “ an exclusive preview of Avengers: Doomsday, ” indicating there may be something big to tune in for. Yet, as fans quickly pointed out, the World Series spot seemed to show more of the same, prompting mixed reactions from fans. New look at ‘AVENGERS: DOOMSDAY’. In theaters on December 18. pic.twitter.com/JLQMBqxgEW &mdash; Pop Base (@PopBase) October 24, 2026 I had to watch 3 innings of f king BASEBALL for this s t, wrote one frustrated fan on X. Another chimed in with, oh so like 3 new seconds lol. A third commented , All of that just for like 10 seconds of new footage. A different fan noted , sooo 1 new scene … barely, while another bluntly wrote , THAT‘S IT??? How
-
-### Elizabeth Holmes Whistleblower Says Nathan Fielder ‘Chose to Ignore the Truth’ to Make a Better Movie
-Sat, 24 Oct 2026 00:31:15 +0000 — https://www.thewrap.com/creative-content/movies/elizabeth-holmes-whistleblower-claims-nathan-fielder-ignores-truth/
-
-The Theranos whistleblower believes Nathan Fielder’s documentary about Elizabeth Holmes deliberately omitted key facts about the founder’s history of deception to make for a more compelling film. “You Can See Everything” follows the Theranos founder in the weeks leading up to her prison sentence for defrauding investors in her blood-testing company. Citizen McCain host Meghan McCain said that she felt like Holmes was portrayed as a more sympathetic figure than she was comfortable with, citing the use of her children and breast feeding in the documentary. Tyler Shultz argued that it was intentional for Fielder s more artistic style of documentary filmmaking. It would not have been an interesting film if he just took her to the slaughterhouse, which would have been easy to do, the whistleblower said. He said the film’s central question was whether Holmes is a liar, but argued that a broader examination of the facts would have made it easy to establish her history of intentional deception. In the film, Fielder asks Holmes directly whether she has ever told a lie, even a small fib. She says she does not believe she has. There are so many instances of her just blatantly lying where it would just kind ruin the film, Shultz argued. So to make an interesting film, they chose to ignore the truth. Shultz revealed to McCain that this documentary has brought Holmes back into the zeitgeist much more than even Hulu s 2022 series The Dropout, in which Amanda Seyfried played the Theranos fou
-
-### Aaron Paul s Blink-And-You ll-Miss-It Clayface Cameo, Explained
-Sat, 24 Oct 2026 00:30:44 +0000 — https://www.thewrap.com/creative-content/movies/aaron-paul-clayface-cameo-explained/
-
-Warning: This article contains spoilers for Clayface. If you didn t catch Aaron Paul s cameo in Clayface , we don t blame you. News broke earlier this year that the Breaking Bad star would appear in James Watkins DCU-set horror movie, which tells the origin story of the Batman villain Clayface (in this film, Matt Hagen, played by Tom Rhys Harries). Not much was known about who Paul would play in the film, penned by Mike Flanagan and Hossein Amini — though some fans went as far as to speculate that Paul would be playing Bruce Wayne himself in the larger DCU. In the end, Paul didn t play Batman. In fact, most of his appearance ended up on the cutting room floor. Instead, Paul appeared for about one second as Jimmy One Nut Hagen, the father of Matt Hagen, as Matt uses his clay powers to transform into his dad to scare some mobsters during a club-set fight scene near the end of the film. Watkins confirmed to Entertainment Weekly that Paul originally had a more significant role as Jimmy, portraying Matt s abusive father in a series of flashbacks. These scene were cut out of the final film, focusing it further on Matt s story and only briefly alluding to his father and history. “In terms of trying to figure out the character, it was, How much is Matt defined by his past and how much is he an everyman? ” Watkins told EW. “At one point, we were looking at it and thinking, Is it the ‘sins of the father’? But actually, as we worked on the script, I thought that notion of revenge was mo
-
-### Sylvester Stallone Gets Blunt About Casting Daughter on Tulsa King : Of Course It s Nepotism, You Idiot
-Sat, 24 Oct 2026 00:22:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/sylvester-stallone-casts-daughter-tulsa-king-nepotism/
-
-Sylvester Stallone got refreshingly candid about casting daughter Scarlet Rose in his Paramount+ drama Tulsa King, admitting that her hiring was nepotism at work but he emphasized that every parent should strive to do the same for their children. “First they go, ‘Nepotism is terrible,’” he told USA Today in an interview earlier this month. “I said, ‘Oh please, you’re not a good parent if you haven’t performed a little nepotism. Then obviously you don’t care about your kids, because they come first.’” Of course it’s nepotism, you idiot, he added. That’s why we’re parents. We want the best for our children. So obviously we let them have every advantage. Rose has appeared in 22 episodes of Tulsa King over its four seasons, co-starring as Spencer, a local barista who s scooped up by crime kingpin Dwight “The General” Manfredi (Stallone), who helps her get a job caring for horses at a ranch. In Season 4, her role expands as she becomes more involved in Dwight’s criminal operation. Of working with her screen icon dad, Rose has expressed that Tulsa King completely changed their relationship. “Before, he was working constantly, so getting to work together for once is just an amazing opportunity,” the 24-year-old told People earlier this month, adding, “We’ve grown as friends. We’ve really become friends. We really got to know one another and really respect each other throughout this whole process, through the ups and downs.” And based on his own unfiltered comments, Stallone, who als
-
-### HBO s Harry Potter Kicks Off With Over $200 Million Investment
-Sat, 24 Oct 2026 00:16:20 +0000 — https://www.thewrap.com/creative-content/tv-shows/harry-potter-hbo-tv-show-budget/
-
-HBO s investment in the upcoming Harry Potter TV series puts its budget in the same bracket as some of the network s priciest shows, with the initial cost for the series to date starting off around $200 million. According to earnings filings from the HBO-owned Plum Jam Productions, which produces the Harry Potter series, revenue hit £130.6 million (nearly $175 million) in 2025, when the series began production at Warner Bros. Studios Leavesden. The companies revenue in 2024, when preparations began for the series, was £18.4 million (about $25 million), putting the budget for the show s setup — which is aiming for a seven-season run to portray one J.K. Rowling Harry Potter book per season — around £150 million, or just over $200 million. The figures from the filing might not demonstrate the full costs associated with production, given that the company — which exists to assist with filming reimbursements in the U.K. — has been associated with previous productions, including The Nevers, when it took on the name Roundabout Productions. HBO declined comment. But, despite the elevated numbers — the first movie worked on a $125 million budget — an individual familiar with the matter told TheWrap that episodic budgets are on par with HBO s world-building shows like Game of Thrones spinoff House of the Dragon and The Last of Us. The final season of GOT reportedly cost about $15 million per episode, while House of the Dragon has been valued at $15-$20 million and Last of Us at $10-$15 
-
 ## Collider
 
-### Disney’s Biggest Box Office Bomb of 2026 Officially Begins Its Streaming Redemption Arc
-Sat, 24 Oct 2026 14:00:15 GMT — https://collider.com/moana-2026-disney-plus-streaming-box-office-redemption/
+### The 6 Best Al Pacino Gangster Movies, Ranked
+Sat, 24 Oct 2026 18:53:15 GMT — https://collider.com/best-al-pacino-gangster-movies-ranked/
 
-While 2026 has offered up several unexpected blockbusters — look no further than the summer's two horror breakouts, Obsession and Backrooms — there have been a handful of underperformers as well. Amazon MGM released the blockbuster Project Hail Mary , but the studio also watched Masters of the Universe crash and burn with less than $120 million worldwide against a reported budget of $175 million. Warner Bros. has had a notoriously difficult year, with major flops such as Supergirl drawing intense negative buzz after grossing around $125 million worldwide against a reported budget of more than $180 million. More recently, the studio's ambitious political satire Digger emerged as one of the biggest bombs of all time, with a projected final haul of under $50 million against a reported budget of $180 million. And then there's Disney. The studio had two massive underperformers this year, one of which has already failed to redeem itself on streaming. Now, it's the other film's turn to try and save face.
+Al Pacino might have won an Oscar for a movie that didn’t have anything to do with organized crime ( Scent of a Woman , somehow, if you were wondering), but it’s that kind of movie he’s most often associated with, and for good reason. Actually, a little more broadly, he’s been in a ton of crime movies, not all of them really being gangster films, necessarily, because Heat is more of a heist movie than a gangster one, and the same goes for Dog Day Afternoon (though in the former, he’s trying to stop a bank robbery, while in the latter, he’s struggling to pull one off).
 
-### The 8 Most Fun YA Books of All Time, Ranked
-Sat, 24 Oct 2026 13:41:15 GMT — https://collider.com/most-fun-ya-books-all-time-ranked/
+### '9-1-1' Officially Confirms Its Season 10 Buck Replacement
+Sat, 24 Oct 2026 18:38:15 GMT — https://collider.com/9-1-1-season-10-buck-replacement-harry-parallels/
 
-The best YA books speak directly to their audience's concerns and feelings , while still serving up compelling plots and memorable characters, perhaps even alternate realities or speculative futures. They're accessible without ever talking down to the reader.
+Now, 10 seasons in, one of the most rewarding parts of 9-1-1 has been Buck's ( Oliver Stark ) character arc. Buck started out in the pilot episode as a probie with unearned confidence who had a disregard for the rules and a lack of impulse control. Through his personal relationships with the rest of the 118 and his experiences on the job, though, Buck grew into a self-assured firefighter who approaches his job with care.
 
-### Henry Cavill and Guy Ritchie’s Biggest Box-Office Bomb Officially Hits 40-Day Winning Streak
-Sat, 24 Oct 2026 13:15:51 GMT — https://collider.com/in-the-grey-henry-cavill-guy-ritchie-streaming-success-40-days/
+### Netflix’s Acclaimed Political Thriller Officially Returns for Season 4
+Sat, 24 Oct 2026 18:30:15 GMT — https://collider.com/the-diplomat-season-4-netflix-streaming-october-2026/
 
-Apart from Alan Ritchson , who has emerged as a bona fide streaming-era star thanks to Prime Video's Reacher , if there's one person who can be counted on to draw audiences for streamers, it's director Guy Ritchie . The irony is that he hasn't had a theatrical hit in five years. The most recent movie he directed that did well at the box office is Wrath of Man , which served as a long-awaited reunion between him and his old partner-in-crime, Jason Statham . Wrath of Man was released in 2021, grossing more than $100 million at the worldwide box office against a reported budget of $40 million. Since then, Ritchie has directed numerous mid-budget movies for theaters, but none of them have broken even at the box office, let alone turned a profit. The latest is an action-thriller entirely in Ritchie's wheelhouse. The movie drastically underpeformed in theaters earlier this year, but like so many of Ritchie's recent movies, has turned out to be a major home-video hit.
+Netflix has become the home of some of the most prestigious dramas in streaming today. And when you combine U.S.-UK politics with high-stakes, contemporary turmoil about the transcendence and the torture of long-term relationships, it's something that is so agonizingly good to watch and none of us can get enough of it.
 
-### Curry Barker Officially Reveals the ‘Obsession’ Detail He Couldn’t Afford to Fix [Exclusive]
-Sat, 24 Oct 2026 13:15:15 GMT — https://collider.com/obsession-curry-barker-car-scenes-budget/
+### 'Mare of Easttown' Meets 'Wind River' in Amanda Seyfried’s 8-Part Thriller Masterpiece
+Sat, 24 Oct 2026 18:27:15 GMT — https://collider.com/long-bright-river-amanda-seyfried-crime-thriller-masterpiece/
 
-There’s a good chance that anyone revisiting Obsession is paying considerably more attention to Nikki than to little details in the background, like the scenery outside a car window. That’s understandable. But the next time you watch Curry Barker ’s horror movie, the buildings might deserve a little attention, too.
+Stop me if you've heard this one before: a murder mystery , a location so drearily symbolic it counts as a non-sentient character, and a damaged detective forced to confront her demons before she can bring the culprit to justice. Although viewers receive these trademark tropes from Peacock's severely underrated miniseries Long Bright River , the 2025 crime drama's archetypes double as a sleight of hand disguising its unconventional objective .
 
-### 'Wicked' Officially Sets New 2027 Release With Elphaba and Glinda [Exclusive]
-Sat, 24 Oct 2026 13:00:15 GMT — https://collider.com/wicked-for-good-elphaba-glinda-paul-tazewell-mattel-dolls-images/
+### The Only Living Pickpocket: Unscripted NYC Moments Made the Film Feel Real | Collider BTS
+Sat, 24 Oct 2026 18:15:15 GMT — https://collider.com/video/the-only-living-pickpocket-unscripted-nyc-moments-made-the-film-feel-real-collider-bts/
 
-There’s a lot a witch can say with the right dress. For Elphaba, an imposing silhouette can keep the world at a distance , while Glinda has never needed much encouragement to make an entrance in pink. Put their wardrobes beside each other, though, and there’s another story woven into the fabric : the friendship that changes them both.
+Filming The Only Living Pickpocket in New York meant taking John Turturro onto real New York City subway trains, shooting without permits, and hoping the police wouldn't shut everything down. But when two officers approached the production, what happened next was pure New York.
 
-### Netflix’s ‘Cyberpunk’ Universe Is Officially Back With a New Release
-Sat, 24 Oct 2026 12:45:15 GMT — https://collider.com/cyberpunk-edgerunners-2-netflix-new-10-episode-series/
+### 'The Lincoln Lawyer' Star's 149-Minute Legal Thriller Officially Leaves Netflix
+Sat, 24 Oct 2026 18:00:15 GMT — https://collider.com/matthew-mcconaughey-legal-thriller-a-time-to-kill-leaving-netflix-november-2026/
 
-Night City is one of the worst places imaginable to live in, we need to be honest. Especially if you've got ambitions of living a long and happy life, after all. When you're surrounded by darkness on all sides, you need to turn your group of desperate mercenaries into one of science fiction's most unforgettable crews if you want to make it. And the bonus is that it includes spectacular action, heartbreak and — prepare the meme voice — emotional damage! Now, while the original story came to a rather painful conclusion, Night City has never been short of people willing to risk everything for a shot at becoming a legend.
+With Practical Magic 2 now available to stream at home and The Rainmaker having recently returned with a second season, perhaps it's the perfect time to revisit a Sandra Bullock - John Grisham collab. Bullock starred in a hit Grisham adaptation three decades ago, and the movie in question is currently streaming on Netflix in the United Kingdom, but only for a little while longer. The film was released during a particularly successful streak for Grisham adaptations , which ended not long afterward with a couple of high-profile box-office underperformers. With The Rainmaker having fueled a resurgence for Grisham's brand of legal thriller storytelling — it's currently among the most-watched shows on several PVOD platforms — some of his film adaptations are just waiting to be discovered by a new generation.
 
-### The 10 Most Rewatchable Fantasy Movies of the 2000s, Ranked
-Sat, 24 Oct 2026 12:33:15 GMT — https://collider.com/rewatchable-fantasy-movies-2000s-ranked/
+### 7 Western Books That Are Perfect From Beginning to End
+Sat, 24 Oct 2026 17:57:14 GMT — https://collider.com/western-books-perfect-beginning-to-end/
 
-The fantasy genre has been through many ups and downs in cinema. In the 1980s, there was a golden age of fantasy films beloved for their impressive practical effects and dark atmosphere, but this style faded during the 1990s. Then, in 2001, Harry Potter and the Philosopher's Stone and The Lord of the Rings: The Fellowship of the Ring hit theaters, spawning a new age of fantasy in their image.
+You've been following these people for a hundred pages, and you're beginning to question their judgment. One can't keep his mouth shut. Another seems to regard every disagreement as a reason to reach for his gun. And somebody has made a promise you know he can't possibly keep. But you just can't stop reading — through breakfast, through lunch, through dinner. You're not just anticipating the next bevy of bullets to fly; you've grown attached to them, swilling all their agony and hope until both are swishing around in your gut. So when they saddle up again, you're up for the next ride. You'd follow these fools just about anywhere.
 
-### Jamie Lee Curtis and Téa Leoni Confess What They Got “Very Competitive” About on the ‘Newlyweds’ Set
-Sat, 24 Oct 2026 12:31:15 GMT — https://collider.com/newlyweds-nbc-jamie-lee-curtis-tea-leoni-tim-daly/
+### CBS’ New Vampire Series Is Still Hiding One Character’s Biggest Power [Exclusive]
+Sat, 24 Oct 2026 17:30:15 GMT — https://collider.com/eternally-yours-jaren-lewison-max-vampire-powers/
 
-Over a decade after they first met (and fell in love!) on political drama Madam Secretary, Téa Leoni and Tim Daly are reuniting once again — this time, for a more comedic project in the form of Newlyweds , where they play eccentric widow Jeanie and pragmatic divorcee James who marry after a whirlwind romance . Leoni is best known for projects in the late ‘90s and early 2000s, including Bad Boys , Jurassic Park III , and Family Man , the latter of which won her a Saturn Award, while Daly’s resume includes everything from the sitcom Wings to guest-starring in The Sopranos — a performance which earned him an Emmy nomination.
+The new CBS series Eternally Yours brings vampires to Seattle and explores the love that Charles ( Ed Weeks ) and his wife, Liz ( Allegra Edwards ), have somewhere deep down after their marriage has grown stale after 500 years together. Like many vampire stories before it, Eternally Yours plays with the idea of what a vampire is capable of, including how their abilities differ between vampires. At New York Comic Con, the cast spoke with Collider about the new show, powers, and what could potentially happen in the future for its characters.
 
-### Arnold Schwarzenegger’s $440M Sci-Fi Reboot Is Officially Leaving Free Streaming
-Sat, 24 Oct 2026 12:30:15 GMT — https://collider.com/arnold-schwarzenegger-terminator-genisys-leaving-tubi-november-2026/
+### 10 Greatest TV Jump Scares of All Time, Ranked
+Sat, 24 Oct 2026 17:19:15 GMT — https://collider.com/greatest-tv-jump-scares-all-time-ranked/
 
-One of the longest-running film franchises in history is currently in limbo, following two failed reboot attempts in one decade. The latest attempt was made in 2019 and marketed as a long-awaited homecoming for the franchise's creator. However, past endorsements made by the illustrious filmmaker about earlier installments dampened the impact of his return. The movie bombed at the box office despite having received mostly positive reviews, leading its star to declare that the series, at least in its current form, had outstayed its welcome. This wasn't the first time that the star expressed dismay about how one of the franchise's films had turned out. He previously admitted a 2015 movie in the series entered production with a subpar script; the film in question is currently streaming for free in the United States, but only for a little while longer.
+Spoiler Alert: This list contains spoilers for multiple TV shows. Jump scares have become so ingrained in the horror genre that it's hard to imagine the genre without them. They're crucial, in a sense. They provide the quick burst of adrenaline that makes your heart race, and for a second, you feel like you're inside the story, instead of only being a spectator. The larger scenes housing them have a different kind of power , though, because they can also carry genuine emotional weight.
 
-### 10 Modern Horror Movies That Are 10/10 Masterpieces
-Sat, 24 Oct 2026 12:29:15 GMT — https://collider.com/modern-horror-movies-perfect-masterpieces/
+### 10 Gripping Detective Shows Where Every Episode Is a Puzzle
+Sat, 24 Oct 2026 17:12:15 GMT — https://collider.com/gripping-detective-shows-every-episode-puzzle/
 
-Horror has always been a massively celebrated genre of filmmaking, with countless classics from each era helping build up the stature and legacy that the genre has today. However, the genre has been on a truly special hot streak as of late , with so many exceptional horror films not only delivering on the potential of the genre, but also finding massive success and beginning to be truly celebrated by general audiences. For a genre that was once one of the biggest taboos of the industry, it feels nice that it's finally being taken seriously as works of cinematic art.
+Audiences love being able to follow along with mysteries on the small screen, and the best way to ensure that they aren’t ahead of the story being told is to tell it from the perspective of someone who is well-versed in solving cases. Drama shows tend to work best when their characters are somewhat competent, and thus it should come as no surprise that detective shows have been popular since the inception of the medium.
 

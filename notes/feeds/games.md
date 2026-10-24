@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-24T14:07:14.967Z
+# Games — harvested 2026-10-24T18:59:40.812Z
 
 ## Eurogamer
+
+### Stalker 2's next update has already leaked
+Sat, 24 Oct 2026 18:08:22 +0000 — https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak
+
+PlayStation Asia has reportedly leaked details of an unannounced update coming to Stalker 2: Heart of Chornobyl , 2.1, next week. Read more
+
+### FBI investigating theft of more than 6000 PSA-graded trading cards, including almost 3000 Pokémon cards
+Sat, 24 Oct 2026 17:17:53 +0000 — https://www.eurogamer.net/fbi-investigates-psa-graded-card-theft-pokemon
+
+The FBI and Santa Ana police are investigating the theft of 6451 PSA-graded cards, including nearly 3000 Pok&eacute;mon cards, from a FedEx truck in California. Read more
+
+### Mass Effect Universe "looked incredible" says creator who claims he advised BioWare
+Sat, 24 Oct 2026 14:26:27 +0000 — https://www.eurogamer.net/mass-effect-universe-details-dantics-claims
+
+A content creator who claims to have served on a BioWare community council has shared alleged details about the cancelled next Mass Effect game, titled Mass Effect Universe. Read more
 
 ### Prime Video's Fallout reality competition Fallout Shelter: The Experiment premieres in January
 Sat, 24 Oct 2026 13:30:30 +0000 — https://www.eurogamer.net/fallout-shelter-the-experiment-prime-video-release-date
@@ -10,7 +25,7 @@ Prime Video's Fallout reality competition, Fallout Shelter : The Experiment, wil
 ### Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job
 Sat, 24 Oct 2026 12:57:17 +0000 — https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft
 
-Helen Chiang, Xbox&rsquo;s first-ever chief operating officer (COO), is leaving Microsoft just three months after taking the job. Read more
+UPDATE 6.00pm (UK): In a formal statement, Xbox told Eurogamer: "We don't discuss individual personnel matters. We're grateful for Helen's years of service and wish her well". Read more
 
 ### What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth"
 Sat, 24 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort
@@ -47,21 +62,6 @@ Fri, 23 Oct 2026 12:43:22 +0000 — https://www.eurogamer.net/half-life-3-develo
 
 It's been 19 years since the release of Half-Life 2 : Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continues. And following a swell of reports suggesting Half-Life 3 isn't just real, its development is well underway, a Valve developer has gone and sent the internet a-chatter all over again by publicly, albeit accidentally, referencing its codename during a livestream. Read more
 
-### Phantom Blade Zero isn't even out yet, but it could be 'one of the year's breakout hits' as it shifts half a million copies on Steam alone
-Fri, 23 Oct 2026 12:33:45 +0000 — https://www.eurogamer.net/phantom-blade-zero-hit-not-out
-
-Chinese action game Phantom Blade Zero already appears to be outperforming massive games like Gears of War: E-Day and Control Resonant on Steam, despite still being days from release. Read more
-
-### Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare
-Fri, 23 Oct 2026 09:11:49 +0000 — https://www.eurogamer.net/mass-effect-universe-trailer-leak-real
-
-An internal trailer for the cancelled Mass Effect game that was in-development at BioWare prior to its closure this week has appeared online. It's confirmed to be real, too, amid some initial suspicions it may have been an AI generated fake. Read more
-
-### Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated
-Thu, 22 Oct 2026 17:00:49 +0000 — https://www.eurogamer.net/smash-bros-masahiro-sakurai-generative-ai-unoriginal-games
-
-Masahiro Sakurai has spoken about the pitfalls of generative AI use in game development, saying that while he believes the technology will result in a surge of unoriginal video games, human creativity - such as that shown by designers like Ico's Fumito Ueda - can't be replicated. Read more
-
 ## GamesIndustry.biz
 
 ### BioWare's end is a tragically familiar tale | Opinion
@@ -94,16 +94,26 @@ Fri, 23 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/podcast-landfa
 
 A new episode of the still-somewhat-irregular GamesIndustry.biz podcast features a fireside chat with Rebecca Lautner, CBO at Landfall Games, recorded at Game Republic New Horizons . In conversation with features editor Lewis Packwood, Lautner says that even though Peak has now sold more than 23 million units, the developer is keen to move on to something else. Read more
 
-### "It was crushing how hard it was" – The chaotic development of Dispatch, and what AdHoc Studio plans next
-Thu, 22 Oct 2026 16:15:00 +0000 — https://www.gamesindustry.biz/it-was-crushing-how-hard-it-was-the-chaotic-development-of-dispatch-and-what-adhoc-studio-plans-next
-
-Today marks the one-year anniversary of the release of the first episode of Dispatch from AdHoc Studio, which went on to become one of the biggest surprise successes of 2025. Last November, the studio said Dispatch was on track to beat its three-year sales target after just three months . Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### PS5 s Release Schedule Is Insane Next Week, and It s Just Added Another Must-Play
+Sat, 24 Oct 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play
+
+How about a survival horror RPG? Putting together next week’s PS5 releases , I was utterly flabbergasted by the number of truly great games on the way. But not long after I completed my guide, Devolver Digital added another title to the list: the acclaimed survival horror and RPG mash-up Look Outside which is launching on 30th October. Read the full article on pushsquare.com
+
+### Sony s New Walkman Is a Real Status Symbol, with a $6,000 Price Point to Match
+Sat, 24 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-new-walkman-is-a-real-status-symbol-with-a-usd6000-price-point-to-match
+
+Sound good? Aside from PlayStation, it’s probably fair to say the Walkman is Sony’s most iconic product. The portable music player has declined in importance as the world has embraced smartphones, but the Japanese giant does continue to manufacture them for legacy purposes. Read the full article on pushsquare.com
+
+### Feature: Star Wars: Galactic Racer Is the Blueprint for a New Burnout, and I Need It to Happen
+Sat, 24 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/features/star-wars-galactic-racer-is-the-blueprint-for-a-new-burnout-and-i-need-it-to-happen
+
+Lit Fuse. Hello. I'm a Burnout psycho, and I've been playing Star Wars: Galactic Racer — the best Burnout game since Paradise . Obviously, it isn't technically related to Criterion Games' arcade racing series at all, but as has been pointed out many times already, Galactic Racer has Burnout in its blood. You can feel it pulsing through every part of the game. Read the full article on pushsquare.com
 
 ### Guide: These 45+ PS5 and PS Plus Games Are Coming Out Next Week (26th-1st November)
 Sat, 24 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-45plus-ps5-and-ps-plus-games-are-coming-out-next-week-26th-1st-november
@@ -150,21 +160,6 @@ Fri, 23 Oct 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/10/ac-bla
 
 There and back again. If you've got the urge to replay Assassin's Creed: Black Flag Resynced a few months on from your original playthrough in the summer, then Ubisoft has the perfect PS5 update for you: a New Game Plus mode is coming next week. This has been a long time coming for PS5 players, as fans have been asking for a proper campaign replay option since day one, basically, back in July. From next week, they'll have their wish. Read the full article on pushsquare.com
 
-### Call of Duty: Modern Warfare 4 s Multiplayer Unlocked Early, But Feedback Has Been Brutal So Far
-Fri, 23 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/call-of-duty-modern-warfare-4s-multiplayer-unlocked-early-but-feedback-has-been-brutal-so-far
-
-"Worst Call of Duty ever". Call of Duty: Modern Warfare 4 is officially available for everyone, after a complicated release rollout which saw the campaign unlock for some last week and extraction mode DMZ for others on Tuesday. Feeling bullish, Infinity Ward opened up the competitive multiplayer suite earlier than expected overnight , which means you can play the full game now. Our review will follow in the coming days. Read the full article on pushsquare.com
-
-### Thai Rapper Lisa s Tarantino Music Video Squeezes in PS5 Product Placement
-Fri, 23 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/thai-rapper-lisas-tarantino-music-video-squeezes-in-ps5-product-placement
-
-"Death Proof, I do all my own stunts". Blackpink star Lisa released her highly anticipated new Press Play EP overnight, alongside latest single Tarantino . And as expected, the PlayStation global ambassador squeezed in a PS5 reference towards the end of the music video. Read the full article on pushsquare.com
-
-### Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game
-Thu, 22 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game
-
-"We were making a great game". A Mass Effect 5 trailer, made using “pre-production assets”, appears to have leaked on Reddit following dev BioWare’s closure this week . While it’s difficult to corroborate the validity of the footage, it does not initially appear to be AI. It was also reported by IGN earlier today that a new trailer for the game had been created internally. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GameMaker's GMRT runtime will soon be free for all developers
@@ -177,12 +172,12 @@ Thu, 22 Oct 2026 20:33:50 GMT — https://www.gamedeveloper.com/production/opini
 
 How we describe game development will inevitably shape our processes.
 
-### VR pioneer Owlchemy Labs jumps to XR for its next release
-Thu, 22 Oct 2026 14:37:37 GMT — https://www.gamedeveloper.com/extended-reality/vr-pioneer-owlchemy-labs-pivots-to-xr-for-its-next-release
-
-Owlchemy Labs' new game Hyper Visor will be a launch title for HTC's XREAL Aura headset.
-
 ## VGC
+
+### A free, officially licensed game based on classic UK children s TV show Knightmare is in development
+Sat, 24 Oct 2026 17:55:53 +0000 — https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/
+
+The point-and-click game includes voice acting by the original cast… Source
 
 ### Podcast: Mass Effect 4 has been cancelled as EA closes BioWare
 Fri, 23 Oct 2026 15:26:27 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-mass-effect-4-has-been-cancelled-as-ea-closes-bioware/
@@ -229,64 +224,104 @@ Fri, 23 Oct 2026 08:44:30 +0000 — https://www.videogameschronicle.com/news/hal
 
 Valve music designer Mike Morasky mentioned 'HLX' during a GameSoundCon panel… Source
 
-### Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto
-Fri, 23 Oct 2026 08:33:27 +0000 — https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/
-
-Mole Mania, Avenging Spirit and Revenge of the ‘Gator are all available next week… Source
-
 ## Polygon
 
-### 'Wildwood' Is a "Risky" Movie — Just Like 'Coraline' Was 20 Years Ago
-Sat, 24 Oct 2026 14:00:18 GMT — https://www.polygon.com/wildwood-coraline-interview/
+### Commander Shepard Voice Actors Call for Action to Save Mass Effect
+Sat, 24 Oct 2026 18:22:49 GMT — https://www.polygon.com/mass-effect-universe-canceled-jennifer-hale-mark-meer-support-petition/
 
-What was the last thing you did that took 16 years to accomplish? No shame — but director Travis Knight has a different level of persistence than most of us.
+News of BioWare shutting down and the development of Mass Effect Universe ending hit fans hard this week. The community is coming together on a large scale in an attempt to save the beloved sci-fi action role-playing game's future. The latest high-profile supporters, Jennifer Hale and Mark Meer, the original voice actors for Commander Shephard, have joined the fight to keep Mass Effect alive and round up more fan support.
 
-### Aaron Paul Originally Had A Much More Important Role In Clayface
-Sat, 24 Oct 2026 13:45:48 GMT — https://www.polygon.com/clayface-aaron-paul-cameo-explained/
+### Hulu Officially Bringing Back 2000s Fan-Favorite Crime Drama
+Sat, 24 Oct 2026 18:05:55 GMT — https://www.polygon.com/prison-break-reboot-black-creek-hulu/
 
-Clayface hit theaters this weekend, but one actor's role turned out to be smaller than expected. We knew Aaron Paul would be in the DC horror flick prior to its release, but in the final film, he cameos in just one scene. In a recent interview, director James Watkins revealed that Aaron Paul had a bigger role in Clayface that was mostly cut out of the theatrical release.
+One of Fox’s most popular TV shows of all time is coming back under Disney . Hulu revealed a first look at Prison Break: Black Creek , a spinoff series set in the same universe as the original. The revival series of the early aughts crime drama series is now in production and is “coming soon” to Hulu and Disney Plus.
 
-### Nintendo Is Still Being Wildly Underestimated
-Sat, 24 Oct 2026 13:00:18 GMT — https://www.polygon.com/switchboard-nintendo-switch-sports-resort/
+### 3 Final Fantasy Games to Play if You Loved FF Resonance
+Sat, 24 Oct 2026 18:00:18 GMT — https://www.polygon.com/final-fantasy-games-like-ff-resonance/
 
-Switchboard is Polygon's weekly newsletter for all things Nintendo, sent on Thursdays and published on the site on Saturdays. You can subscribe here .
+The first HD-2D game in Square Enix's long-running RPG series, Final Fantasy Resonance , has finally arrived on consoles and Windows PC. Resonance is a love letter to the franchise, and it's jam-packed with cameos and references to Final Fantasy heroes old and new. Once you've had your fill of this new adventure, you might find yourself itching to revisit the olden days — or dive into a newer installment you may have missed. Here are three games that comprise a mini Final Fantasy retrospective, spanning the various phases of the franchise's history.
 
-### 5 Years Later, Metroid Dread’s Perfect Ending Is Still One of Nintendo’s Best
-Sat, 24 Oct 2026 12:00:19 GMT — https://www.polygon.com/metroid-dread-5-year-retrospective/
+### The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos
+Sat, 24 Oct 2026 17:22:30 GMT — https://www.polygon.com/steam-next-fest-october-2026-most-played-games/
 
-Five years after its release, Metroid Dread still occupies a permanent space in my brain. Samus Aran’s nightmarish escape from a robot-infested abyss successfully revitalized the dormant Metroid series in 2021 by delivering a tightly designed Metroidvania full of challenging battles. There’s so much that’s still vivid in my memory now, but there’s one moment I have come back to time and time again: that ending.
+Steam Next Fest is currently in full swing, and developers big and small have released new demos so players can discover their upcoming games. While the event runs through Oct. 26, Valve has already revealed to Polygon what the 20 most popular demos out of the 8,000+ games featured are. Multiplayer games dominate the list as friendslop continues to pull big numbers on Steam, as do a couple of shopkeeping sims. In descending order, these are the most-played games of Oct. 2026's crowded Steam Next Fest .
 
-### Fallout Day 2026: Every Big Announcement from Bethesda’s Fan Event
-Sat, 24 Oct 2026 11:50:18 GMT — https://www.polygon.com/fallout-day-2026-announcements-roundup/
+### Stephen King's 10 Best Villains of All Time, Ranked
+Sat, 24 Oct 2026 16:01:20 GMT — https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/
 
-Fallout Day, the annual celebration of all things Fallout , spanned a full five days in 2026, starting with a day dedicated to its community on Monday. Publisher Bethesda Softworks focused on giveaways, spotlights, and game announcements, making it clear that Bethesda has a lot in store for Fallout fans over the coming days, weeks, and months. The event came to an end on Friday, after a week-long series of announcements and celebrations in honor of Fallout, Bethesda's beloved post-apocalyptic franchise.
+Stephen King has many novels, novellas, and short stories in his vault, from deeply vivid and memorable epics to narratives that inspired Academy Award-winning movies . One of the hallmarks of his writing is his ability to create truly memorable villains, whether they’re human or creatures from another world.
 
-### Game of Thrones’ Perfect Replacement is a 100+ Hours Fantasy Series that's Free on YouTube
-Sat, 24 Oct 2026 11:01:19 GMT — https://www.polygon.com/game-of-thrones-replacement-critical-role/
+### 5 Hardest Platformers Ever Made, Ranked by Difficulty
+Sat, 24 Oct 2026 16:01:20 GMT — https://www.polygon.com/5-hardest-platformers-ever-ranked/
 
-If you’re looking for epic fantasy amid a whirlwind of politics and skulduggery, you’ll find little better than George R.R. Martin’s phenomenal Game of Thrones franchise. Whether it’s Game of Thrones, A Knight of the Seven Kingdoms , or House of the Dragon , the TV adaptations are a fantastic watch, with powerful, star-studded casts and insightful, in-depth worldbuilding woven expertly into the narrative.
+Platform games have an undeniable innocence. Since the days of Super Mario Bros. , they've embodied the escapist joy that people associate with the medium. It's hard not to be charmed by the colorful aesthetics, creative styles, and beautifully simple gameplay. Sure, plenty of other genres have emerged over the years, but none have captured the easygoing appeal of running and jumping over obstacles. That pure sense of fun makes platformers the ultimate gaming comfort food . On the other hand, not every bite is so sweet.
 
-### 'Super Mario' Creator Breaks Down The Problem With AI Perfectly
-Sat, 24 Oct 2026 10:13:19 GMT — https://www.polygon.com/super-mario-bros-shigeru-miyamoto-ai-order-culture-japan-award-nintendo/
+### Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games
+Sat, 24 Oct 2026 15:20:31 GMT — https://www.polygon.com/steam-personal-calendar-wide-release/
 
-Shigeru Miyamoto, one of the key figures behind monumental Nintendo franchises like The Legend of Zelda and Super Mario , recently received recognition from the government of Japan typically reserved for artists, athletes, and Nobel Prize winners. The Ministry of Education, Culture, Sports, Science and Technology declared Miyamoto a recipient of the 2026 Order of Culture award — and the resulting press conference for the accolade is a remarkable reflection of a gaming legend.
+The latest Steam update added a new way for it to recommend new or imminently released games to players. This new Personal Calendar feature will likely have an impact on game discoverability going forward.
 
-### 13 Years Later, 'Adventure Time's Scariest Episode Is Still a 10-Minute Masterpiece
-Sat, 24 Oct 2026 10:00:18 GMT — https://www.polygon.com/adventure-time-scariest-episode-simon-and-marcy/
+### Dead by Daylight Is Losing Another Horror Icon
+Sat, 24 Oct 2026 15:17:05 GMT — https://www.polygon.com/dead-by-daylight-chucky-removed/
 
-Don't believe me? Do yourself a favor and watch the greatest (and scariest) episode of Adventure Time in the show's 10-year run : “Simon & Marcy.”
+Just a few days before Halloween, developer Behaviour Interactive had an unfortunate announcement to make regarding Dead by Daylight . In November, the game's Chucky Chapter will be removed from the multiplayer horror game, giving players a few weeks to decide if they want to acquire Chucky content before it's gone.
 
-### Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability
-Sat, 24 Oct 2026 09:05:18 GMT — https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/
+### One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies
+Sat, 24 Oct 2026 15:00:18 GMT — https://www.polygon.com/zero-parades-mass-effect-2-comparison/
 
-A number of major websites and services went offline earlier this week thanks to a massive PHP security vulnerability . One such service was Final Fantasy 14 . That posed a major problem for plants. You see, Square Enix's MMO has a number of systems on real-world timers that continue regardless of whether a player is logged in. Those unlucky enough to be locked out of the game during the PHP issue were left fearing that their gardens would wither and die. Thankfully, the community stepped in.
+This week's news that EA was shutting down Mass Effect developer BioWare and canceling the next game in the series was a blow to the industry. It was made all the worse when a leaked trailer for the game, known as Mass Effect: Universe , showed exactly what we would all be missing: Mass Effect meets James Bond . That sure is an enticing pitch, and while BioWare will never be able to deliver on what the trailer teased, that also describes one of this year's best games.
 
-### 7 Hilarious ‘Far Side’ Comics With the Worst Puns
-Sat, 24 Oct 2026 09:00:21 GMT — https://www.polygon.com/best-far-side-comics-with-terrible-puns/
+### Xbox's First-Ever COO Is Already Leaving After A Few Months
+Sat, 24 Oct 2026 14:34:52 GMT — https://www.polygon.com/xbox-loses-coo/
 
-One of the best possible recipes for comedy is to have incredibly dumb characters written by incredibly smart people. Homer Simpson, for example, has often been written by Harvard-educated writers staffed at The Simpsons . Fry on Futurama is the same kind of character, as is Michael Scott from The Office , and basically every character on It’s Always Sunny in Philadelphia .
+Just a couple of months after being instated as Xbox's first-ever Chief Operating Officer, Helen Chiang has left the company. Her departure reinforces just how much of a whirlwind year 2026 has been for Xbox leadership , as the company continually attempts to reinvent itself before the start of the next generation of consoles.
 
 ## PC Gamer
+
+### Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges
+Sat, 24 Oct 2026 18:10:01 +0000 — https://www.pcgamer.com/games/horror/penguin-colony-review/
+
+Need to know What is it? Lovecraftian horror through the eyes of a penguin. Release date October 16, 2026 Expect to pay $15 / £13 Developer Origame Digital Publisher Fellow Traveller Reviewed on RX 9070 XT, Core i5 12600K, 32 GB RAM, Steam Deck Multiplayer No Steam Deck Verified Link Steam Penguin Colony is a work of cosmic horror that I would recommend to anyone with even a passing interest in scares from the beyond , even though its unique penguin platforming can be frustrating to wrangle. It's a radical recontextualization of an H.P. Lovecraft classic with a clear affection for the writer's storytelling, but also scathing contempt for his racism. For my money, it's not October without a weird-ass new indie horror game leaving a lasting impression on me, and Penguin Colony has satisfied my annual craving. You are a penguin witnessing the events of the Lovecraft story, At the Mountains of Madness. Your powers are honk, slide, swim, and hop. Rather than being limited to a specific bird, you are able to possess any penguin you come across, theoretically using different species' abilities to tackle different movement challenges. Aside from using little baby penguins to squeeze into tight spaces, I was almost exclusively a Rockhopper main: Their impressive vertical jump was a boon in many areas. They shoulda hooped instead of investigating The Strange. The GOAT, PC Gamer Tales from The Hard Drive host Lenval Brown, narrates the adventure from the perspective of a customarily neu
+
+### BioWare's incredible legacy will continue as long as there are RPGs
+Sat, 24 Oct 2026 18:00:00 +0000 — https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/
+
+Dungeon Master (Image credit: Future) For my column this week I was going to write about climbing all over monsters in Dragon Dogma 2's chilly Dark Arisen expansion, but then EA decided to finally murder BioWare after years of slowly poisoning it. So sadly I am pivoting to this eulogy. It's hard to discuss BioWare's demise without detailing the corporate meddling that led to one of gaming's most celebrated and enduring studios getting the axe. BioWare made mistakes, undeniably, but the buck stops at the executives who gutted its teams and never understood, for instance, the popularity of Dragon Age. But things are bleak enough and you know all this already. So instead, I want to celebrate BioWare's impressive impact, which will continue for as long as studios are designing RPGs. Even if BioWare ceased to exist after its incredible run of Infinity Engine games, it would still be considered an icon. Baldur's Gate was, for so many people, the CRPG, defining an era of roleplaying games and echoing across the decades. We're still talking about it, and studios are still designing games built on that old foundation. Owlcat, Obsidian, Larian—three of the biggest RPG studios of the current era have all dipped into that well. Without BioWare we'd not have the Pathfinder CRPGs, Pillars of Eternity or Tyranny, and Baldur's Gate 3 certainly wouldn't exist. (Image credit: BioWare) Obsidian as we know it would likely be a very different studio without BioWare, if it existed at all. It forme
+
+### Now it's over, WoW: Forever's beta has left me with just one fear—its endgame
+Sat, 24 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/
+
+Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. World of Warcraft: Forever 's beta has just ended, and I'm basically sold, for now. I've had such a good time, in fact, that I dipped at around level 26 on my warrior (and 16 on a Shaman) because I didn't want to spoil or burn myself out before the full thing releases in November and I am consumed in a quest-drunk fugue. But there is one thing that's rattling around in the back of my mind: This version of WoW is designed to be played perpetually (so in MMO terms, for about 10-20 years, give or take) at the level cap. There won't be any expansions, and the game will continue to expand horizontally. Which leaves a major question hanging over its endgame. Now, collecting a few interviews together, we've seen a smidge of what that'll look like. In an interview with SkillUp , associate production director Clay Stone contrasts overtly horizontal progression systems (such as the Legacy tree) and gear, which he notes "our intention very much is to try to limit the amount of power progression as we release each raid tier." Speaking to IGN Nordic , lead game designer Tim Jones says that "we're not going to make a Tier 2 raid without making the loot 
+
+### New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims
+Sat, 24 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/
+
+Fans of Deus Ex, Dishonored and Gloomwood like to roll the words 'immersive sim' around their mouths as often as possible, savouring the fond associations with first-person drawer-rifling and guilt-ridden murder. Yet there's something like consensus emerging among the makers of these games: it's really hard to sell an immersive sim while calling it by its name. "Is it a good marketing term? No," says New Blood Interactive CEO Dave Oshry. "It sucks. It's awful." (Image credit: New Blood) New Blood was first known for its boomer shooters, namely Dusk and Ultrakill , but has sunk years into two early access imsims, the well-regarded Gloomwood and Fallen Aces . Oshry likes to joke that he's "dumping all the money into immersive sims so we can go broke like the great studios that came before us, like Looking Glass." Yet he'd never heard the term immersive sim until Gloomwood lead Dillon Rogers started work on his Thief-and-Resi-riffing open world. "He's like, 'That's what these are called'. I'm like, 'I have never heard that before in my life. What the fuck are you talking about?'" Oshry wasn't new to the genre. He'd grown up adoring Deus Ex and Thief. "But Thief was a stealth game," he protests. "I called it a stealth game. Deus Ex I called an FPS-RPG because it was an FPS, but it was an RPG. You had points that you put in stuff. That's what an RPG is, like Diablo." (Image credit: New Blood) Of course, ploughing points into skills and traits is something that's proliferated acros
+
+### The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover
+Sat, 24 Oct 2026 15:46:15 +0000 — https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/
+
+It seems like there's a new slightly-humorous-for-its-incongruity collab between game devs every other week at this point, and the latest in this sacred lineage is a team-up between Super Meat Boy 3D and Mouse: P.I. For Hire. The latter game's titular mouse detective has been squished into a cube-like shape and sent to navigate a hellish labyrinth full of sawblades for the rest of his miserable existence. Oh, and the screen goes all black-and-white when you play as him, just like the FPS he comes from. This might all seem downstream of cynical money devourers like Fortnite, but at least these games share something in both being indie(ish) cartoony pastiches with a gore-slick twist. Besides, Meat Boy is an OG when it comes to invasions of strangers' videogames. You could play as him in the Bit.Trip games, and in turn CommanderVideo cameoed in Super Meat Boy. If you're too Gen A to understand a single word I just said about the halcyon days of 2010s indie gaming, that's okay. I'll just go lay down and die. But if you want to jump up and die, spectacularly and repeatedly, that's what Super Meat Boy 3D is for. PC Gamer Australian Editor Shaun Prescott wasn't exactly head over heels for it in his impressions —he said it had "no vibe," lacking the skeezy-yet-tasteful tastelessness of Edmund McMillen's touch—but still felt pretty good as far its running and jumping and exploding were concerned. Seems like that's enough for some, as the game currently sits at a Very Positive rating o
+
+### Japan Actors Union pushes for heavy restrictions on AI copying dead actors
+Sat, 24 Oct 2026 15:33:23 +0000 — https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/
+
+The Japan Actors Union, an org consisting of around 2,600 actors and voice actors, recently announced a series of measures to protect the rights of performers in the industry with regard to generative AI (reported in English via Automaton Media ). It's been a hot topic both in Japan and here in the west, with Leon Kennedy actor Nick Apostolides arguing AI voice acting was something of an oxymoron: "AI can speak lines, but there's nothing human behind it," he said . Rather than a full-on ban or tight regulation, the union's proposed guidelines push for consent at "every stage." Companies would have to disclose when an actor's voice will be used for training, and they would also be required to negotiate compensation with actors. In other words, agreeing to have your voice generated for a short-form advertisement or whatever would be like licensing your likeness to go on a cereal box. These consent guidelines would also apply to AI-translated performances, and in a more restrictive way to the mimicry of deceased actors, such as Tupac's controversial "appearance" in the upcoming Stranger Than Heaven. The guidelines would ban using AI to copy a dead actor's voice unless consent had been obtained prior to their death. They would also require consent from the actor's living family, estate, or other administrative org, as well as royalty payments to those parties. "It protects the dignity, honor, and legacy of deceased performers from commercial exploitation," said the union (auto-tr
+
+### Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024
+Sat, 24 Oct 2026 15:10:00 +0000 — https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/
+
+Cozy games on Google The past five years of search demand on Google for cozy games, relaxing games, and casual games. Google Trends Interestingly, the resurgence of "casual games" is even more pronounced at a worldwide view. Google Trends First let's check back in on the same Google Search data I pulled in 2023 to compare how much we, the audience, are actually seeking cozy games. We're looking at the past five years or search interest for the terms: cozy games, relaxing games, and casual games. The main term "cozy games" is twice as popular as it was in 2023 when I identified the surprising spike the phrase had already experienced between 2020 and 2023. Google doesn't share raw search volume so this is all relative, not absolute, but it's still clear evidence that the interest in cozy games has continued to explode. What is surprising to me is the comeback for the phrase "casual games." It's one we used a lot in the late twenty-teens but was eclipsed by "cozy" around 2022. Anecdotally, I think "casual" suffered from also being pejorative and may have fallen away in favor of the more positive tone "cozy." They aren't exactly interchangeable terms, but it's interesting to see casual make such a sharp comeback this year, which may mean some cozy gamers are reclaiming it. Cozy games on Steam (Image credit: Steam, Pounce Light) Okay, then what about the supply of cozy games? Yeah, that's gone up too. Year "Cozy" tagged games on Steam 2024 389 2025 650 2026 (so far) 1,341 This isn
+
+### The best feature in the original Alan Wake is an absence: the man has no reticle
+Sat, 24 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/
+
+Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . There's a recurring motif in Alan Wake which isn't played for laughs, yet is pretty funny nonetheless. Whenever the alcoholic FBI agent has a chance to peacefully capture our fugitive novelist, he blows it by firing his service pistol wildly through the air. The local police chief tells him to cool his jets; the late night radio host wants to know what's the matter with him. But Agent Nightingale can't help himself. It's as if the pressure of having a target in his sights is simply too much. He flips the board, all the pieces fly everywhere, and Alan Wake is lost amid the trees. "I'll get you yet," Nightingale hollers into the dark. "Even if it kills me, y'hear me HP Lovecraft?" (Image credit: Remedy) Wake, meanwhile, remains impervious to the man's vendetta. "I'd fallen off so many cliffs it was ridiculous," he thinks to himself as he slides on his arse down a steep embankment, escaping Nightingale's clutches once again. It's all a little embarrassing. But I do sympathise with the humiliated drunk behind the badge. There's something about aiming a gun in Bright Falls that messes with your head and gets the better 
+
+### 'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'
+Sat, 24 Oct 2026 14:30:20 +0000 — https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/
+
+Well, here's a headscratcher. Paolo Pedercini, developer of Future? No Thanks! recently admitted to using generative AI in his ecosocialist satire while also referring to the technology as "a technofascist, anti-human and anti-art project." Now, the developer has removed several AI generated voice lines from the game, following a backlash to his use of the very technology which the game lampoons. You might remember Future? No Thanks! from another recent controversy, whereupon the game was briefly delayed after Steam held up its release while it reviewed some fleeting nudity in the game. Pedercini—who also goes by Mollieindustria—received considerable support during that debacle. But the reaction to Future? No Thanks' AI use has been rather less supportive, prompting Pedercini to rework the game and respond to the backlash. Pedercini originally revealed his AI use in a blog post (via Rock, Paper, Shotgun ). Apparently, the game contained several voice lines generated using text-to-speech, which Pedercini claimed, "used to be an uncontroversial technology and an early application of neural networks" before "AI bros started commercializing AI voices". Alongside this, the game also includes "a tiny fraction" of AI generated code, which Pedercini said he used for things like "fixing a shader I didn't write which broke after an update" as well as "finishing touches and minor debugging." In this blog, Pedercini defended his AI use by pointing out that Future? No Thanks! "satirizes g
 
 ### Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'
 Sat, 24 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/
@@ -302,51 +337,6 @@ The whistle has blown. The belts have stopped. The furnace is silent and cold. A
 Sat, 24 Oct 2026 11:09:10 +0000 — https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/
 
 I'm beginning to wonder whether Star Wars Galaxies Restoration can still be considered accurately named, given the community-driven revival project has gone so far beyond keeping SOE's 2003 MMO up and running. Previous updates have already added huge features like a new Jedi system and a galactic civil war . Now, the latest patch overhauls numerous aspects of the game, including a massive upgrade to its visuals. Star Wars Galaxies Restoration: A New Dawn differs slightly from those previous updates. Where earlier patches have centred around one big new feature, A New Dawn is composed of various ideas suggested by members of the Restoration team. "We've expanded our team, adding 13 new team members to our project" the Restoration team wrote in a press release. "We asked everyone: work on something that they loved about Galaxies, and showcase that to the world." This approach has produced an array of changes both large and small. The headline update is a game client upgrade that adds support for DirectX 12. This enables a bunch of snazzy graphical enhancements, including volumetric fog, clouds and atmosphere, a new water shader, greatly improved terrain distances, and support for upscaling tech like DLSS, FSR, and XeSS. Beyond these visual changes, two major features of Galaxies have been overhauled. The first of these is the planet Kashyyyk, home to the Wookiees. The forest planet—which was the setting for Galaxies' second expansion Revenge of the Wookiees—has been given "new 
-
-### Why private equity acquisitions like the one that just claimed BioWare are so dreaded
-Fri, 23 Oct 2026 22:46:50 +0000 — https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/
-
-The closure of BioWare has not come as a huge surprise. The LGBTQ-inclusive developer of Mass Effect and Dragon Age, which hadn't managed to transmute development mayhem into sales success and whose games aren't ideal environments for loot boxes, did not seem likely to be admired by its new owners, Saudi Arabia and Trump son-in-law Jared Kushner. Employees at the legendary RPG studio started working on their resumes as soon as the acquisition was announced. But even if BioWare's new owners had been miscellaneous investors rather than Saudi royalty, the outlook would not have been good: This is what private equity does. Public companies are of course plenty capable of blowing things up all on their own. EA's pre-acquisition attempt to turn BioWare into a live-service shooter studio was one of the great missteps of the live service goldrush, and Microsoft's pursuit of shareholder value has led to thousands of layoffs and numerous game cancellations. But there is a particular, systematic way that leveraged private equity acquisitions consume companies rather than nurturing them. In the wake of BioWare's closure and 400 layoffs across EA, we have updated our previously-reported overview of the process that has led to the demise of a number of game studios and other companies. How private equity acquisitions work Ostensibly, the goal of a private equity acquisition is to optimize the bought-out company's performance for long-term returns, tapping underutilized potential—like EA's 
-
-### Mass Effect 5 was set in a 'galactic Cold War,' new leak claims, and all 3 endings were wrapped into 1
-Fri, 23 Oct 2026 21:58:50 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-5-was-set-in-a-galactic-cold-war-new-leak-claims-and-all-3-endings-were-wrapped-into-1/
-
-Electronic Arts shuttered BioWare earlier this week, and that sucked. A concept trailer for the Mass Effect game the studio had in development subsequently leaked , and that made everyone feel even worse because—keeping in mind that it was an early-development concept piece—it looked really good. YouTuber Dantics has now revealed more about what BioWare was actually working on, which he claims to be aware of because he was part of the Mass Effect community council, meaning he "saw what BioWare was building, and provided feedback during development." We haven't directly confirmed Dantics' role on the council, although others on social media have vouched for him, and BioWare community councils are definitely a real thing: The studio has referenced them in past updates , and they can also be seen in credits for games including Mass Effect: Legendary Edition and Dragon Age: The Veilguard . Members of the ME5 council aren't known, but Mass Effect veteran Michael Gamble, the project lead on the next game, follows Dantics on X. So, suitably caveated: Dantics said in a post on X that the next Mass Effect game was set 600 years after the Reaper War, and would put players in the role of a customizable N7 agent who would be "a cross between John Wick and James Bond." The galaxy in this future timeline was divided into three major factions: Humans, Batarians, Krogan, and others in one alliance, the "Council Races"—Asari, Salarians, and Turians—forming the second bloc, and the Geth emergi
-
-### Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'
-Fri, 23 Oct 2026 21:43:44 +0000 — https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/
-
-One of the big topics of conversation around Onimusha: Way of the Sword when it released last month—and even before that, when Capcom first put out a demo of the game—was whether it was too easy. Viral clips of early game enemies standing around doing nothing gave the impression of a woefully easy game for action fans coming from the likes of Sekiro, Nioh or Ninja Gaiden. Once I played the full game, I found those fears mostly unfounded , but it's true that Onimusha's basic enemies pose little threat compared to its bosses, and mostly serve as fodder for you to cut through as you explore. Way of the Sword's harder difficulty option being locked behind beating the campaign didn't necessarily endear the game to hardcore action players, either, so I'm not shocked that one of the most popular downloads on the game's Nexusmods page is one that amps up enemy aggression . But I still mostly loved Onimusha , and didn't find myself craving the brutal difficulty of Sekiro or Nioh while I was playing it. With more than a month of hindsight to see how players have studied the blade, Capcom also seems pretty happy with the level of challenge it settled on. "We've been looking at the data that comes back from people playing, so we can see where people are struggling and how they're progressing through the game. What we've seen in the trends in the data is that it's close to what we set out to achieve, in terms of difficulty," director Satoru Nihei said in an interview with PC Gamer. Nihei 
-
-### Time could be running out for Arkane
-Fri, 23 Oct 2026 20:07:21 +0000 — https://www.pcgamer.com/gaming-industry/time-could-be-running-out-for-arkane/
-
-Arkane Lyon may soon be facing closure, according to a new report by French site Le Monde , which says a deadline to find a buyer for the studio will land on November 13, at which point Microsoft could close the studio outright. Microsoft has since extended that deadline by a month, however, so it can continue to pursue alternative options. Arkane Lyon was caught up in this year's vortex of Xbox layoffs, announced in July , which will see roughly 3,200 people put out of work. Xbox also dumped four studios: Double Fine , Compulsion Games , and Undead Labs all went independent (and almost immediately laid off large numbers of employees) while Hellblade developer Ninja Theory appears to be closing outright. Because Arkane is based in France, Xbox couldn't just drop the hammer on it. Instead, it began a legally-required consultation process "to review potential strategic options." The Le Monde report says that on July 16, 10 days after the Xbox layoffs were announced, Arkane management informed employees that Xbox intended to close the studio. France's " Florange Law ," however, requires companies with more than 1,000 employees who want to close a facility to undertake a search for a buyer first. The deadline for that requirement in Arkane's case is November 13, after which Xbox will presumably be free to close the studio. That option is definitely on the table: The Le Monde report says documents signed in July and published on a French government website on August 10 specificall
-
-### It's our new daily game fixation and we all stink at it: Can you guess how much used cars cost?
-Fri, 23 Oct 2026 19:37:16 +0000 — https://www.pcgamer.com/games/puzzle/its-our-new-daily-game-fixation-and-we-all-stink-at-it-can-you-guess-how-much-used-cars-cost/
-
-I'm always on the lookout for a new daily game I can play on my phone because, quite honestly, I'll do just about anything to delay getting out of bed for just a few more minutes in the morning. If you're into games like Wordle but are looking for an interesting new twist, here's a pitch: Wordle, but it's about pricing used cars Congratulations on your new job at The Daily Lowball , a used car lot where you have to prove to your boss that you know how much second-hand vehicles are worth. Each day in the puzzle, you're served up five real cars complete with photos and stats: the make and model, what year it's from, how many miles it's got on it, and how much it sold for when it was new. Then you enter a guess how much you think each used car was sold for on the date shown. You're graded from A-F on your guesses by your virtual boss, and if you want to keep your daily streak intact, you'd better be accurate. Perform poorly enough on any given day, or string a few bad days together, and you're fired—you'll have to start your streak over. It's an easy game to grasp but boy, we here at PC Gamer sure stink at it. My first day on the lot wasn't so smooth after I completely misjudged the resale price of a 2014 Audi Allroad Quattro and utterly biffed my guess on a cherry red 2005 Dodge Neon SRT-4. I did a little better on the 2008 Mercury Grand Marquis and the 2001 Porsche Boxter, and actually nailed the 2001 GMC Yukon. That gave me a C average for the day, so at least my streak has b
-
-### Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'
-Fri, 23 Oct 2026 19:35:17 +0000 — https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/
-
-Excitement over the Total War: Shogun 2 remaster turned to a very different emotion when it launched and turned out to be quite bad —so bad that Sega pulled it from sale just a couple days later. Now, Roger Collum, vice president of Total War at developer Creative Assembly, has posted an update on the situation in the Total War subreddit (via RPS ), saying that the studio, like the fans, are "angry and disappointed" about the state of the game—which he says is not really CA's fault. "This was not a Creative Assembly developed game," Collum wrote. "It wasn’t subject to our same internal reviews and quality assurance. We took our eyes off its external development, with all our teams focused on our next big projects. However, whatever the development arrangements, Total War is our franchise and our name is on it. "The studio is full of craft people who care deeply about the experiences we give to our players. Shogun 2—CE did not meet that bar. We have to own that and we have to fix it." Collum also addressed complaints about the apparent use of generative AI in the remaster, saying that Creative Assembly is a "craft studio," and that while it uses AI tools for tasks like "analysis, debugging, or speedy prototyping," it does not use generative AI to create in-game assets. "We demand the same of any external developers we work with," he wrote. "The situation with Shogun 2: Complete Edition is being investigated." Collum didn't name the external developer of the Shogun 2 remaster, 
-
-### 'Every single week it's going to feel like the sky is falling': Cloudflare CEO says strap in for 'a couple years' of AI-powered internet security mayhem
-Fri, 23 Oct 2026 19:24:34 +0000 — https://www.pcgamer.com/software/security/every-single-week-its-going-to-feel-like-the-sky-is-falling-cloudflare-ceo-says-strap-in-for-a-couple-years-of-ai-powered-internet-security-mayhem/
-
-If you spent much time online this week, you likely noticed how it briefly felt like the end of days as government websites, game marketplaces , and furry image boards alike were pulled offline in a scramble to address newly-discovered security vulnerabilities in PHP—a scripting language used by roughly 70% of the world's websites, according to some estimates . It was a harrowing incident, revealing flaws in foundational internet infrastructure that might have turned some of the most popular web destinations into attack vectors. And in an interview with Reuters, Cloudflare CEO Matthew Prince says we should expect to see similar episodes on a regular basis in the years ahead as LLM technologies accelerate the discovery of exploitable security vulnerabilities. Prince said that Cloudflare—a major cloud networking and cybersecurity provider that a number of websites rely on—is aware of "a bunch of additional severe vulnerabilities that are present in other pieces of critical software" like those that triggered the PHP panic earlier this week. And as both cybersecurity experts and bad actors task LLMs with identifying previously unrecognized weaknesses in the core technologies of the internet, there will likely be more to follow. "I think we're going to have a couple years where every single week it's going to feel like the sky is falling," Prince said. Previously, the rate at which exploitable flaws in software could be identified was limited by the finite number of experts able 
-
-### 'I'm forever grateful to BioWare': 16 game developers share the moment a BioWare game inspired them to join the industry
-Fri, 23 Oct 2026 17:56:29 +0000 — https://www.pcgamer.com/gaming-industry/im-forever-grateful-to-bioware-16-game-developers-share-the-moment-a-bioware-game-inspired-them-to-join-the-industry/
-
-Early BioWare (Image credit: BioWare) Star Wars: Knights of the Old Republic (Image credit: BioWare) Dragon Age (Image credit: BioWare) Mass Effect (Image credit: Electronic Arts) (Image credit: EA) ]]>
-
-### Abyssal Lapidary is making the social media rounds and I can confirm cutting gemstones is just as satisfying as it looks
-Fri, 23 Oct 2026 16:47:44 +0000 — https://www.pcgamer.com/games/sim/abyssal-lapidary-is-making-the-social-media-rounds-and-i-can-confirm-cutting-gemstones-is-just-as-satisfying-as-it-looks/
-
-I have never really thought much about gemstones or minerals, which is weird considering one of my all-time favourite games is Minecraft, in which I spend a bulk of my time strip-mining. But Abyssal Lapidary has made me realise that there is so much more to the dirt than just coal. In the demo for Abyssal Lapidary I got to begin my stint as a lapidarist, someone who cuts, shapes, grinds, and polishes minerals to make pretty gemstones. The only problem is, like I said before, I don't really know stones. (Image credit: LightWorm) Abyssal Lapidary doesn't exactly drop you in the deep end but it does expect you to pick up with the art of making and selling gemstones rather quickly. My first step was searching around the rather large house I'd found myself in which was apparently part of a declining business but it seemed rather nice; it even had a balcony. Most of the doors downstairs were locked, part of the later progression of the game, the few things I did have access to included a station for fixing tools, breaking rocks, and a booth to talk to customers. Throughout the day people will turn up to my humble business either looking to buy some precious gemstones or selling minerals and rocks that I can mine into. There's also a guy looking for mysterious artefacts, someone trying to give me a loan (suspicious), and a nice lady selling tea. I'm not 100% sure about what the tea does yet but I buy it anyways. (Image credit: LightWorm) The rest of my day was spent sitting at my de
 
 ## GameSpot
 
@@ -412,6 +402,21 @@ When a big new first-party game comes to Xbox, Microsoft is known to put up big,
 
 ## Rock Paper Shotgun
 
+### HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week
+Sat, 24 Oct 2026 18:58:26 +0000 — https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week
+
+Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, don't it? Admittedly there's a chance you've not heard of it, that be the way of things in this algorithmically dominated world, but allow me to tell you about its big, scary world and the strange camera you're equipped with to capture all the sights it holds. Read more
+
+### Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features
+Sat, 24 Oct 2026 17:03:55 +0000 — https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features
+
+Since launch back in May of this year, life sim Paralives appears to have been trucking along nicely, with the dev team offering up fairly regular updates with all sorts of tweaks big and small. Certainly confidence-inspiring for an early access game, especially one as systems-driven as it is. And now, the Paralives team have outlined their plans for the game's first major update, which seem very catered to improving the core experience. Read more
+
+### I've got egg on my face because Steam's Personal Calendar feature has apparently been a test this whole time and is only now actually a fully fledged component
+Sat, 24 Oct 2026 15:57:33 +0000 — https://www.rockpapershotgun.com/ive-got-egg-on-my-face-because-steams-personal-calendar-feature-has-apparently-been-a-test-this-whole-time-and-is-only-now-actually-a-fully-fledged-component
+
+I'll be honest folks: I didn't know that Steam's Personal Calendar feature was still technically in testing. I've been using it here and there to keep track of what's come out recently or what's coming out imminently, and have generally found it to be fairly reflective of the kinds of games I was interested in. It just worked! Yet lo and behold, a post from Valve went out yesterday announcing that the feature has launched out of Steam Labs "and is considered a full feature of the Steam Store." Read more
+
 ### Mass Effect 3 ending discourse ignored the RPG's scale, ambition, and exuberance, including that of its oddly great co-op
 Sat, 24 Oct 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op
 
@@ -456,19 +461,4 @@ Negotiations over the future of Dishonored and Deathloop developers Arkane Lyon 
 Fri, 23 Oct 2026 12:20:39 +0000 — https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game
 
 Arrowhead Game Studios will only make a Helldivers 3 if it's lightyears apart in style from Helldivers 2 , or if Helldivers 2's playercount falls through the floor. This is my takeaway, at least, from a recent chat with Johan Pilestedt, chief creative officer, in which Pilestedt touched briefly on the studio's next unannounced game, while assuring me that there are still no plans for a Helldiver threequel. Read more
-
-### Half-Life 3 speculation reignited by Valve dev mentioning three sweet little rumored codenamey letters amid technical chat about video game noises
-Fri, 23 Oct 2026 11:27:06 +0000 — https://www.rockpapershotgun.com/half-life-3-speculation-reignited-by-valve-dev-mentioning-three-sweet-little-rumored-codenamey-letters-amid-technical-chat-about-video-game-noises
-
-Wake up. There's Half-Life 3 chatter occurring again. This time because, about an hour into a panel about sounds in video games, a Valve composer has uttered three eyebrow-raising letters. HLX. In an industry rife with acronyms, what's so special about this one? Well, it's a rumoured codename for the next entry in the aforementioned series about a man with a crowbar, for one. Read more
-
-### "What if Larian had shut down after Divine Divinity?": Star Trek Online exec scorns publishers who close teams like BioWare in favour of "AAA veteran" start-ups and AI "magic beans"
-Fri, 23 Oct 2026 10:51:01 +0000 — https://www.rockpapershotgun.com/what-if-larian-had-shut-down-after-divine-divinity-star-trek-online-exec-scorns-publishers-who-close-teams-like-bioware-in-favour-of-aaa-veteran-start-ups-and-ai-magic-beans
-
-Breaking up established game development teams in favour of "AAA veteran" start-ups and "magic bean" technologies is like "setting fire to millions of dollars of property and equipment", in the words of Star Trek Online executive producer Thomas Marrone. He thinks it's "wildly irresponsible and self-sabotaging", and that videogame company shareholders should be absolutely furious about it. Marrone's comments come in response to EA closing BioWare yesterday , but he takes aim at closures and layoffs across the industry. He notes that many of the most successful teams owe their accomplishments to lessons learned from screw-ups, and suggests that if big game publishers just want "number to go up", they should get out of the game-making trade and pour all their cash into investment funds. Read more
-
-### Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get "janky and wildly overpowered"
-Fri, 23 Oct 2026 09:30:58 +0000 — https://www.rockpapershotgun.com/cyberpunk-2077s-new-dual-wielding-has-already-been-modded-to-include-shotguns-and-rifles-provided-youre-down-to-get-janky-and-wildly-overpowered
-
-It was only ever going to be a matter of time, but I'm still surprised just how quickly Cyberpunk 2077 modders have taken pistol dual wielding mechanic the RPG's Edgerunners 2 update has just added in, and opened it up to include any gun Night City has to offer. Yep, twinning shotguns, assault rifles, sniper rifles, or any combo of those is now possible. Though, you'll have to make peace with the fact enemies will struggle to match your firepower. Read more
 
