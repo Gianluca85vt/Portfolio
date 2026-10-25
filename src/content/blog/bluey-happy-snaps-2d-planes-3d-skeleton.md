@@ -16,7 +16,6 @@ artistView:
     - "Pipeline: skinning flat planes to a real skeleton in Control Rig keeps animators working in 3D space, so a studio staffed with 3D animators did not have to retrain as 2D ones."
   misses:
     - "Animation: reviewers describe characters facing the camera rather than whoever they are speaking to in cutscenes, which is where a billboarded cast shows its seams most plainly."
-draft: true
 ---
 
 Most of the deeper pipeline detail below comes from a single interview, 80
