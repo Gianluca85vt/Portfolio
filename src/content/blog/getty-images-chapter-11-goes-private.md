@@ -15,7 +15,6 @@ sources:
     url: https://www.ctvnews.ca/sci-tech/article/stability-ai-largely-wins-uk-court-battle-against-getty-images-over-copyright-and-trademark/
 artistView:
   take: "A stock library is production infrastructure, not a shop — it is where the reference comes from, where cleared editorial imagery comes from, and where the indemnity comes from that lets a studio ship an asset derived from a photograph. That infrastructure is about to be owned by two private parties who will never again have to file a quarterly explanation of what they are doing with it."
-draft: true
 ---
 
 Getty Images filed for Chapter 11 on 21 October 2026, in the US Bankruptcy
