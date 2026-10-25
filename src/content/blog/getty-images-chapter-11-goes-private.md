@@ -3,7 +3,7 @@ title: "Getty Images Chapter 11: $533m to go private"
 date: 2026-10-23
 category: 3D
 excerpt: Getty filed on 21 October to clear $500m of debt and hand ownership to the Getty family and Koch. The library keeps selling and contributors still get paid.
-cover: /img/blog/getty-images-chapter-11-goes-private/cover.svg
+cover: /img/blog/getty-images-chapter-11-goes-private/shot-01.jpg
 sources:
   - outlet: PetaPixel
     url: https://petapixel.com/2026/10/22/getty-seeks-court-approval-for-bankruptcy-restructuring-plan/
@@ -82,6 +82,11 @@ be doing it from a weaker position and with a smaller budget.
 This is the part that touches the desk. Getty and iStock are not where anyone
 sources hero art, and a 3D artist who says "I don't use stock" usually means
 they don't buy illustrations. The library does three other jobs:
+
+<figure>
+  <img src="/img/blog/getty-images-chapter-11-goes-private/shot-02.jpg" loading="lazy" alt="A Getty Images building in London" />
+  <figcaption>Getty Images premises in London. Photograph via Wikimedia Commons, CC BY-SA.</figcaption>
+</figure>
 
 - **Reference.** The rust pattern on a specific kind of ship hull, the way a
   particular café in a particular city is actually lit, what a 1970s switchgear
