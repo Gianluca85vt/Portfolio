@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Bluey's Happy Snaps: 2D planes on a 3D skeleton">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#5A2410"/>
+      <stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#g)"/>
+  <g fill="#FFFFFF" font-family="Helvetica, Arial, sans-serif">
+    <text x="80" y="150" font-size="34" opacity="0.72" letter-spacing="3">3D PIPELINE</text>
+    <text x="80" y="330" font-size="190" font-weight="700">45&#176;</text>
+    <text x="80" y="415" font-size="52" font-weight="600">steps, seven to eight rigs</text>
+    <text x="80" y="492" font-size="40" opacity="0.82">per character</text>
+  </g>
+  <g stroke="#FFFFFF" stroke-width="3" opacity="0.5" fill="none">
+    <circle cx="980" cy="300" r="130"/>
+    <line x1="980" y1="170" x2="980" y2="430"/>
+    <line x1="850" y1="300" x2="1110" y2="300"/>
+    <line x1="888" y1="208" x2="1072" y2="392"/>
+    <line x1="1072" y1="208" x2="888" y2="392"/>
+  </g>
+</svg>
