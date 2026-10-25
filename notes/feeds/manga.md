@@ -1,6 +1,36 @@
-# Manga — harvested 2026-10-24T18:59:40.812Z
+# Manga — harvested 2026-10-25T09:24:32.726Z
 
 ## Anime News Network
+
+### Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer
+Sun, 25 Oct 2026 05:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178
+
+Key visual also revealed ahead of new season's January 2027 debut
+
+### Nigozyu Plans to End The Detective Is Already Dead Novels in 15th Volume
+Sun, 25 Oct 2026 03:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/nigozyu-plans-to-end-the-detective-is-already-dead-novels-in-15th-volume/.243168
+
+Light novel series debuted in November 2019
+
+### Japan Honors Director Rintarō as Person of Cultural Merit
+Sun, 25 Oct 2026 02:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/japan-honors-director-rintaro-as-person-of-cultural-merit/.243158
+
+Director is among 20 honorees in 2026
+
+### Crunchyroll Reveals English Dub Casts for Full Clearing Another World Under a Goddess with Zero Believers, 2 More Anime
+Sun, 25 Oct 2026 01:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/crunchyroll-reveals-english-dub-casts-for-full-clearing-another-world-under-a-goddess-with-zero-/.243169
+
+Service also streams dubs for <cite>The Prince of Tennis II U-17 World Cup: Final Member Selection Match</cite>, <cite>The Iceblade Sorcerer Shall Rule the World II</cite>
+
+### Land of the Lustrous' Haruko Ichikawa Launches New Manga Cosmic Mimimi
+Sun, 25 Oct 2026 00:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/land-of-the-lustrous-haruko-ichikawa-launches-new-manga-cosmic-mimimi/.243167
+
+"Neo kawaii sci-fi" series debuts on November 25
+
+### Tougen Anki: Nikko Kegon Falls Arc Anime Gets English Dub on Crunchyroll
+Sat, 24 Oct 2026 22:55:41 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166
+
+1st 2 episodes of new season with dub available now
 
 ### ghost – end of night Anime Movie Review
 Sat, 24 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/ghost-end-of-night/anime-movie/.243016
@@ -32,41 +62,16 @@ Fri, 23 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/20
 
 New opening date at Minneapolis is October 30
 
-### LOVELYZ's Ye-in Jeong Joins The Trauma Code: Heroes on Call Seasons 2-3
-Fri, 23 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/lovelyz-ye-in-jeong-joins-the-trauma-code-heroes-on-call-seasons-2-3/.243125
-
-Jeong replaces Ha-young, who left following controversy over allegations that her great-grandfather collaborated with Japanese colonial authorities
-
-### North American Anime, Manga Releases, October 18-24
-Fri, 23 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/north-american-anime-manga-releases-october-18-24/.242997
-
-<cite>Reincarnated As A Dragon Hatchling</cite> anime; <cite>The Apothecary Diaries: Maomao's Notes on the Inner Palace, The Mandalorian, My Dress-Up Darling XOXO!</cite> manga ship
-
-### Horror Collector Anime Reveals English Dub Cast, October 24 Debut
-Fri, 23 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/horror-collector-anime-reveals-english-dub-cast-october-24-debut/.243149
-
-1st episode stars Brandon Allan Majella, Larry Brantley, Rebecca Danae, more on Saturday
-
-### Scriptwriter Toyoto Kogisu Dies at 69
-Fri, 23 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/scriptwriter-toyoto-kogisu-dies-at-69/.243147
-
-Kogisu wrote several episodes for <cite>Detective Conan</cite> anime
-
-### Shigeru Miyamoto Becomes 1st Game Creator to be Honored With Japan's Order of Culture Award (Updated)
-Fri, 23 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/shigeru-miyamoto-becomes-1st-game-creator-to-be-honored-with-japan-order-of-culture-award/.243145
-
-Emperor to present Nintendo's <cite>Mario/Zelda</cite> creator with prestigious award on November 3
-
-### Seven Seas Licenses Secret Relationships Webtoon for Print Release in August 2027
-Fri, 23 Oct 2026 12:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-23/seven-seas-licenses-secret-relationships-webtoon-for-print-release-in-august-2027/.243126
-
-Story follows man who grew up in poverty, works hard to secure his financial future
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Genshin Impact Version 7.2 Unites Teyvat's Seven Nations Against Looming Annihilation
+Sun, 25 Oct 2026 01:43:48 GMT — https://animecorner.me/genshin-impact-version-7-2-unites-teyvats-seven-nations-against-looming-annihilation/
+
+Genshin Impact Version 7.2, "Hour of Ruin," will arrive on November 4. As the&hellip;
 
 ### Though I Am an Inept Villainess Cour 2 Reveals Teaser Trailer Ahead of January 2027 Debut
 Sat, 24 Oct 2026 09:20:53 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-teaser-trailer-ahead-of-january-2027-debut/
@@ -123,22 +128,12 @@ Fri, 23 Oct 2026 11:35:38 GMT — https://animecorner.me/made-in-abyss-theatrica
 
 The second installment in the new Made in Abyss theatrical series is officially in production, continuing the story after the first film.
 
-### Cosplay Trackside Returns to Santa Anita Park on October 24 & 25
-Fri, 23 Oct 2026 03:21:45 GMT — https://animecorner.me/cosplay-trackside-returns-to-santa-anita-park-on-october-24-25/
-
-Cosplay Trackside, an Umamusume-themed cosplay meetup, returns to Santa Anita Park in Arcadia, California,&hellip;
-
 ## MyAnimeList News
 
 ### New Ghost in the Shell Anime Project in Production
 Fri, 23 Oct 2026 04:44:38 -0700 — https://myanimelist.net/news/74850349?_location=rss
 
 The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (pictured). Animation studio Science SARU will be producing the new anime project. Produced by Science SARU, the 10-episode season adapting Masamune Shirow s sci-fi action manga premiered in Summer 2026. Amazon Prime Video streamed the anime with subtitles and dubs in multiple languages. The latest ins...
-
-### Made in Abyss: Mezameru Shinpi Movie Second Part Announced
-Thu, 22 Oct 2026 20:43:18 -0700 — https://myanimelist.net/news/74849312?_location=rss
-
-The official website of the Made in Abyss: Mezameru Shinpi (Made in Abyss: Awakening Mystery) movie announced the production of a second part on Friday, as well as five additional cast and a second key visual (pictured) for the first movie. The first part premiered in Japan on Friday. Cast Srajo: Nana Mizuki (Boruto: Naruto Next Generations) Nishagora: Akino Watanabe (Free! Dive to the Future) Yataramar: Shunsuke Takeuchi (Ao Ashi) Sherumi: Nao Touyama (Kanojo, Okarishimasu) Menae: Yume Miyamoto...
 
 ## Otaku USA
 

@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-24T18:59:40.812Z
+# Tech — harvested 2026-10-25T09:24:32.726Z
 
 ## Ars Technica
 
@@ -64,6 +64,11 @@ Gamers still hoping against hope for a true follow-up to Half-Life 2 (after so, 
 
 ## The Verge
 
+### Blue Planet III is keeping the rough edges in the age of AI
+2026-10-24T17:29:12-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
+
+BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all. Executive Producer Elizabeth White told The Guardian in the past, "the amount of plankton and things" floating in the water would have caused them to cut a shot. Or "we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough … Read the full story at The Verge. ]]>
+
 ### Pennsylvania will require labels on AI-generated ads
 2026-10-24T14:32:21-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
 
@@ -108,11 +113,6 @@ Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge -ies
 2026-10-23T17:39:26-04:00 — https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure
 
 Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge. ]]>
-
-### OpenAI now trains its frontier AI models with no internet access
-2026-10-23T17:11:07-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet
-
-OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday , OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content "without risk of affecting external systems." OpenAI paused training its frontier AI models in September , after disclosing several incidents in which its AI agents broke out of their testing environments to hack third-party companies and government agencies , or swarm obscure websites . On October 1st, OpenAI resumed reinforcement learning training and internal inference with tighte … Read the full story at The Verge. ]]>
 
 ## Tom's Hardware
 
@@ -178,6 +178,16 @@ Razer has been updating its gaming mouse lineup systematically over the past two
 
 ## Phoronix
 
+### Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support
+Sat, 24 Oct 2026 20:42:28 -0400 — https://www.phoronix.com/news/Linux-7.4-Block
+
+The Linux 7.4 block/storage and IO_uring updates were merged today for the ongoing merge window. With the breadth of Linux hardware support, the pull request varies from fixes to Linux's floppy driver to enabling support for NVMe storage on Apple M4 devices...
+
+### SteamOS 3.9.5 Released With Linux 7.2 Kernel, KDE Plasma 6.7 Desktop & Other Updates
+Sat, 24 Oct 2026 14:54:10 -0400 — https://www.phoronix.com/news/SteamOS-3.9.5
+
+On Friday Valve released SteamOS 3.9.5 as their first stable release in the SteamOS 3.9 series. This brings all the great improvements previously available in preview form with many package updates and other enhancements...
+
 ### Linux s Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms
 Sat, 24 Oct 2026 09:00:00 -0400 — https://www.phoronix.com/news/Linux-7.4-memblock
 
@@ -228,17 +238,12 @@ Fri, 23 Oct 2026 12:00:38 -0400 — https://www.phoronix.com/news/Borealis-Vulka
 
 Seeing a Vulkan API driver pull request this morning for introducing a new "Borealis" driver ID caught me by surprise as it was the first time I was hearing of such a driver. It turns out to be a fork of the Asahi Linux project's HoneyKrisp driver in Mesa for Apple Silicon hardware...
 
-### oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations
-Fri, 23 Oct 2026 10:12:33 -0400 — https://www.phoronix.com/news/oneDNN-3.14-Released
-
-The UXL Foundation announced today the release of oneDNN 3.14 as the latest feature update to this library providing optimized deep learning operations for software like PyTorch, TensorFlow, OpenVINO, and others. While oneDNN began as an Intel software project, making this version notable is beginning to see AMD Zen CPU optimizations land in oneDNN proper...
-
-### Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 & Intel Rugged Panther Lake
-Fri, 23 Oct 2026 09:51:29 -0400 — https://www.phoronix.com/news/Linux-7.4-Power-Management
-
-The power management subsystem updates were merged this week for Linux 7.4 along with the related ACPI and thermal control updates too...
-
 ## The Register
+
+### <span data-lab-italic_desktop="italic" class="italic m-italic">Reg</span> readers land on 'Binface' as name for UK space cleanup mission
+Sun, 25 Oct 2026 09:00:00 +0000 — https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144
+
+The UK Space Agency asked for names for its Active Debris Removal Mission, and, of course, the Register readership didn't disappoint. The Active Debris Removal Mission , led by ClearSpace UK and intended to remove a pair of UK-registered satellites from Low Earth Orbit (thus demonstrating Blighty's prowess when it comes to orbital litter picking), needs a name. Let's face it, Active Debris Removal Mission hardly rolls off the tongue and, while engineers have long found ways to make meaning from acronyms (this writer has always been rather fond of PICNIC – Problem In Chair, Not In Computer), the UK Space Agency decided it needed a proper name. What could possibly go wrong? After all, it's not as if the great British public has form when it comes to picking interesting names (as the infamous Boaty McBoatface debacle demonstrated). SpaceyMcSpaceFace and Binny McBinFace therefore took an early lead in voting (for our American readers, a bin is a word for a trash can). Other suggestions included a reference to the long-running British game show, 3-2-1, with "Dusty Bin". Dusty Bin was the show's booby prize, and it's good to know that some people are at least as old as this writer. Another, clearly inspired by our own PARIS and LOHAN, was SHART – Satellite Harvesting And Re-entry Tug, and there was the delightful Project TIDY (Targeted Intervention for Debris in the Yard), which sounds a little too much like it might win. We at The Register tend to steer clear of politics if possib
 
 ### Autonomous attack agent in 'Skynet mode' hijacks other models to carry out its evil deeds
 Sat, 24 Oct 2026 13:02:00 +0000 — https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215
@@ -295,12 +300,47 @@ Fri, 23 Oct 2026 12:29:00 +0000 — https://www.theregister.com/science/2026/10/
 
 NASA's safety watchdog, the Aerospace Safety Advisory Panel (ASAP), had good news and bad news for the space agency, and SpaceX boss Elon Musk quickly disagreed with some of it. Musk disputed the reported suggestion that approximately 22 launches might be needed to support a landing by the Human Landing System (HLS) variant of Starship on the Moon. "That's way too high," Musk responded on X. "Actual number will be more like 6 to 8." The US lunar landers being developed for Artemis require refueling in space, meaning additional launches to deliver propellant before astronauts can head to the surface. During Apollo, a single Saturn V launch was enough to send a fully fueled Lunar Module to the Moon. The problem is demonstrating reliable transfers of cryogenic propellant between spacecraft at the scale these heavier, more complex landers require. Apollo's Lunar Module used hypergolic propellants instead. To date, SpaceX has managed one Starship test flight to orbit. Many more will undoubtedly follow, but if the launch figure cited by the panel is accurate, Musk's rocketeers face a challenging road ahead. Even with the rescoping that made Artemis III a low Earth orbit demonstration of lunar technologies from Blue Origin and SpaceX in 2027, the Artemis program remains ambitious, particularly considering the desire to get humans on the lunar surface before President Trump leaves office. ASAP praised Artemis II and NASA's new administrator, Jared Isaacman, but raised concerns about 
 
-### Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches
-Fri, 23 Oct 2026 11:31:00 +0000 — https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357
-
-Linus Torvalds is embracing AI to write Linux kernel code, and some people are having fits. He has a message for them. So do I. Roy Schestowitz, editor of Tux Machines, summed up his reaction to the news as " Linus Torvalds Turns to Slop . " In the podcast Pivot to AI , podcaster David Gerard agreed: "Linux kernel goes full AI slop code." Meanwhile, in the Tom's Hardware comments section, commenter "LordVile" wrote: " This is a publicity stunt from his AI overlords [The Linux Foundation] who pay his wage." They followed this by saying this is the "same reason he's flipped-flopped on AI." I've known Linus for a few decades, and I don't take his use of AI as evidence that he's suddenly abandoned his standards. And the very idea that he'd do anything he didn't want to do with Linux on behalf of the Linux Foundation, or anyone else, is ludicrous. I get it, though. There are reasons to be suspicious of AI. I've written about many of them. For instance, AI model collapse , which happens when AI engines learn from other AI models and their ties to the truth fray. It's a very real problem. Not, mind you, that LLMs find the grist for their answer mills from very reliable sources in the first place. Even when AI gets good data, as it does in programming, its owners pay little to no attention to the copyrights and licenses protecting the open source code it picked up its coding tricks from. As for paying for the information it runs on, please! The very idea that Big AI must pay writers,
-
 ## Engadget
+
+### Here's what you need to know before buying a wireless CarPlay adapter
+Sun, 25 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/
+
+Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.
+
+### What is the cheapest new gaming console you can buy in 2026?
+Sun, 25 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/
+
+Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.
+
+### How to extend the battery life of your Apple AirTags
+Sat, 24 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/
+
+An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.
+
+### Common mistakes you should avoid when setting up your home network
+Sat, 24 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/
+
+Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.
+
+### Why your EV battery still loses charge while it's parked
+Sat, 24 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/
+
+Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.
+
+### What kind of cooling system do EV batteries use and how does it work?
+Sat, 24 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/
+
+Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.
+
+### What are the different types of digital wallets?
+Sat, 24 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2292582/different-types-digital-wallet-explained/
+
+Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.
+
+### The pros and cons of using an eSIM over a physical SIM card
+Sat, 24 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/
+
+eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.
 
 ### Google is quietly linking your phone number to other Android accounts
 Sat, 24 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/
@@ -322,47 +362,22 @@ Sat, 24 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2296222/xbox-game-p
 
 Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.
 
-### Capcom confirms data breach that affected 11.7 million users
-Sat, 24 Oct 2026 16:40:45 +0000 — https://www.engadget.com/2296218/capcom-confirms-data-breach-that-affected-117-million-users/
-
-Capcom ID is still available to use, but users may see more phishing scam emails.
-
-### There's a chance your PlayStation 5 is plugged into the wrong HDMI port
-Sat, 24 Oct 2026 16:30:00 +0000 — https://www.engadget.com/2291739/chance-playstation-5-plugged-into-wrong-hdmi-port/
-
-Your PS5 will look great plugged into any HDMI port on a modern TV, but only some unlock its full suite of display features.
-
-### The UK is investing $134 million into an AI Biosecurity Lab
-Sat, 24 Oct 2026 16:11:53 +0000 — https://www.engadget.com/2296211/the-uk-is-investing-134-million-into-an-ai-biosecurity-lab/
-
-The UK has established the AI Biosecurity Lab, which will help it detect biological threats and develop vaccines with AI.
-
-### Your smart TV's Wi-Fi is probably faster than its Ethernet, but speed isn't everything
-Sat, 24 Oct 2026 16:00:00 +0000 — https://www.engadget.com/2291599/smart-tv-wifi-faster-than-ethernet-speed-isnt-everything/
-
-You might have never thought to use Ethernet with your TV, but it's not speed that's worth connecting for.
-
-### What is Theater Mode on your Apple Watch and when should you use it?
-Sat, 24 Oct 2026 15:30:00 +0000 — https://www.engadget.com/2291533/what-is-theater-mode-on-apple-watch/
-
-There are various ways to silence your Apple Watch when you need to lock in. Theater Mode doesn't quite go as far as Do Not Disturb, but it's still very useful.
-
-### Here's how to test a CR2032 battery to see if it's good
-Sat, 24 Oct 2026 15:00:00 +0000 — https://www.engadget.com/2291408/how-to-test-cr2032-battery-see-if-good/
-
-CR2032 batteries are found in a lot of gadgets around your home. They're easy to test when they run low, especially if you have the appropriate devices.
-
-### Why your Ring camera is still useful without a subscription
-Sat, 24 Oct 2026 14:30:00 +0000 — https://www.engadget.com/2291366/why-ring-camera-useful-without-subscription/
-
-Modern smart home cameras and security systems put a lot of features behind a subscription. Here are a few reasons why you don't always need to pay.
-
-### The MacBook Neo uses an iPhone chip, and it's just good enough
-Sat, 24 Oct 2026 14:00:00 +0000 — https://www.engadget.com/2290733/macbook-neo-a18-pro-chip-performance/
-
-The MacBook Neo had to make some compromises to meet its price point. And as long as you're aware of them, it offers a solid value.
-
 ## TechCrunch
+
+### Starlink seems to be working normally again in Ukraine
+Sat, 24 Oct 2026 20:46:34 +0000 — https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/
+
+Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.
+
+### Will AI expose the rickety infrastructure of the internet?
+Sat, 24 Oct 2026 20:15:33 +0000 — https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/
+
+The moment you realize the internet is "held together by glue and dreams."
+
+### The AI graveyard: a running list of projects and startups that didn t make it
+Sat, 24 Oct 2026 19:00:00 +0000 — https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/
+
+From Apple's repeatedly delayed Siri AI to OpenAI's messy "super app" launch, here's a look at the AI projects that shut down or missed expectations.
 
 ### Instacart reportedly discussed selling itself with DoorDash and Uber
 Sat, 24 Oct 2026 16:30:00 +0000 — https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/
@@ -408,19 +423,4 @@ At TechCrunch Disrupt last week, two founders and a VC discussed how to not just
 Fri, 23 Oct 2026 23:05:49 +0000 — https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
 
 OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
-
-### Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
-Fri, 23 Oct 2026 21:59:19 +0000 — https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/
-
-The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a "nap," and summersaulted on voice command.
-
-### VCs, Superhuman Mail founder share red flags about product-market fit
-Fri, 23 Oct 2026 20:57:13 +0000 — https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/
-
-Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.
-
-### TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now
-Fri, 23 Oct 2026 20:03:14 +0000 — https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/
-
-TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.
 

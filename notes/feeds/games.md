@@ -1,4 +1,4 @@
-# Games — harvested 2026-10-24T18:59:40.812Z
+# Games — harvested 2026-10-25T09:24:32.726Z
 
 ## Eurogamer
 
@@ -89,11 +89,6 @@ Fri, 23 Oct 2026 09:59:48 +0000 — https://www.gamesindustry.biz/call-of-duty-m
 
 Activision has a lot riding on Call of Duty: Modern Warfare 4. Last year's entry, Black Ops 7, was poorly received by critics and players, and third-party tracking data suggested the game significantly underperformed compared to other entries in the series. Read more
 
-### Podcast: Landfall's Rebecca Lautner on Peak's 23 million sales and looking past friendslop
-Fri, 23 Oct 2026 08:00:00 +0000 — https://www.gamesindustry.biz/podcast-landfalls-rebecca-lautner-on-peaks-23-million-sales-and-looking-past-friendslop
-
-A new episode of the still-somewhat-irregular GamesIndustry.biz podcast features a fireside chat with Rebecca Lautner, CBO at Landfall Games, recorded at Game Republic New Horizons . In conversation with features editor Lewis Packwood, Lautner says that even though Peak has now sold more than 23 million units, the developer is keen to move on to something else. Read more
-
 ## VG247
 
 _Nothing in the last 48 hours._
@@ -167,11 +162,6 @@ Fri, 23 Oct 2026 17:51:14 GMT — https://www.gamedeveloper.com/programming/game
 
 GameMaker's GMRT runtime will be free to use for all developers starting in 2027.
 
-### Opinion: Why words matter when we prioritize 'core teams' in game development
-Thu, 22 Oct 2026 20:33:50 GMT — https://www.gamedeveloper.com/production/opinion-why-prioritizing-success-of-core-teams-risks-devaluing-other-devs
-
-How we describe game development will inevitably shape our processes.
-
 ## VGC
 
 ### A free, officially licensed game based on classic UK children s TV show Knightmare is in development
@@ -214,69 +204,64 @@ Fri, 23 Oct 2026 09:45:13 +0000 — https://www.videogameschronicle.com/news/shi
 
 Mario and Zelda creator argues that rise of AI could make creators even more important… Source
 
-### Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games
-Fri, 23 Oct 2026 09:15:07 +0000 — https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/
-
-The company brought them on board to work on quests professionally… Source
-
-### Half-Life 3 speculation grows as Valve developer mentions HLX during stage panel
-Fri, 23 Oct 2026 08:44:30 +0000 — https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/
-
-Valve music designer Mike Morasky mentioned 'HLX' during a GameSoundCon panel… Source
-
 ## Polygon
 
-### Commander Shepard Voice Actors Call for Action to Save Mass Effect
-Sat, 24 Oct 2026 18:22:49 GMT — https://www.polygon.com/mass-effect-universe-canceled-jennifer-hale-mark-meer-support-petition/
+### 5 Near-Perfect Psychological Thriller Movies Streaming for Free
+Sun, 25 Oct 2026 08:54:46 GMT — https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/
 
-News of BioWare shutting down and the development of Mass Effect Universe ending hit fans hard this week. The community is coming together on a large scale in an attempt to save the beloved sci-fi action role-playing game's future. The latest high-profile supporters, Jennifer Hale and Mark Meer, the original voice actors for Commander Shephard, have joined the fight to keep Mass Effect alive and round up more fan support.
+Psychological thrillers trigger a fight-or-flight response within a controlled environment and entertain us at the same time. Interpersonal relationships become the source of anxiety, as there’s more at stake than someone’s physical safety — their very sanity is on the line. The novelty of great psychological thrillers like Rear Window (1954), Memento (2000), or Mulholland Drive (2001) does not wear off after a first watch. There’s more to glean than suspense or twist, as catharsis is an integral part of the experience. Unfortunately, all those movies are locked up behind various streaming service subscriptions (if they're available to stream at all).
 
-### Hulu Officially Bringing Back 2000s Fan-Favorite Crime Drama
-Sat, 24 Oct 2026 18:05:55 GMT — https://www.polygon.com/prison-break-reboot-black-creek-hulu/
+### 23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History
+Sun, 25 Oct 2026 08:08:18 GMT — https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/
 
-One of Fox’s most popular TV shows of all time is coming back under Disney . Hulu revealed a first look at Prison Break: Black Creek , a spinoff series set in the same universe as the original. The revival series of the early aughts crime drama series is now in production and is “coming soon” to Hulu and Disney Plus.
+Buffy ’s writers gave Spike some of the show’s sharpest one-liners — who could forget “Out. For. A. Walk. Bitch.”? But his best line comes in the series finale, “Chosen.” It’s the natural culmination of a character pulled between heroism and selfishness for most of his life, and it captures the complicated truth of his relationship with Buffy.
 
-### 3 Final Fantasy Games to Play if You Loved FF Resonance
-Sat, 24 Oct 2026 18:00:18 GMT — https://www.polygon.com/final-fantasy-games-like-ff-resonance/
+### 61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History
+Sun, 25 Oct 2026 08:00:18 GMT — https://www.polygon.com/paul-atreides-best-dune-quote/
 
-The first HD-2D game in Square Enix's long-running RPG series, Final Fantasy Resonance , has finally arrived on consoles and Windows PC. Resonance is a love letter to the franchise, and it's jam-packed with cameos and references to Final Fantasy heroes old and new. Once you've had your fill of this new adventure, you might find yourself itching to revisit the olden days — or dive into a newer installment you may have missed. Here are three games that comprise a mini Final Fantasy retrospective, spanning the various phases of the franchise's history.
+That said, the phenomenal success of Denis Villeneuve’s Dune movies proves that the impossible is always within reach. So far, Villeneuve’s adaptation has captured the sheer scale of the books and also made some meaningful changes to the source material. This version of Paul Atreides (Timothée Chalamet) begins his journey with a hesitant vulnerability that feels more intense than in the books. This is also why his turn as a self-proclaimed messiah feels more ominous and devastating in Dune: Part Two .
 
-### The 20 Most-Played Steam Next Fest Demos Features Troublemaking Students, Farting Hippos
-Sat, 24 Oct 2026 17:22:30 GMT — https://www.polygon.com/steam-next-fest-october-2026-most-played-games/
+### Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube
+Sun, 25 Oct 2026 04:01:20 GMT — https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/
 
-Steam Next Fest is currently in full swing, and developers big and small have released new demos so players can discover their upcoming games. While the event runs through Oct. 26, Valve has already revealed to Polygon what the 20 most popular demos out of the 8,000+ games featured are. Multiplayer games dominate the list as friendslop continues to pull big numbers on Steam, as do a couple of shopkeeping sims. In descending order, these are the most-played games of Oct. 2026's crowded Steam Next Fest .
+H.G. Wells' The War of the Worlds is a punchline now, and it's Amazon's fault. At time of writing, the newest adaptation of The War of the Worlds is a "screenlife" movie from 2025 that’s a frontrunner for the worst film of the 21st century.
 
-### Stephen King's 10 Best Villains of All Time, Ranked
-Sat, 24 Oct 2026 16:01:20 GMT — https://www.polygon.com/stephen-kings-best-villains-of-all-time-ranked/
+### 58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History
+Sun, 25 Oct 2026 01:20:18 GMT — https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/
 
-Stephen King has many novels, novellas, and short stories in his vault, from deeply vivid and memorable epics to narratives that inspired Academy Award-winning movies . One of the hallmarks of his writing is his ability to create truly memorable villains, whether they’re human or creatures from another world.
+Certain lines of dialogue become so famous they almost stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context. The words have long since transcended their original context.
 
-### 5 Hardest Platformers Ever Made, Ranked by Difficulty
-Sat, 24 Oct 2026 16:01:20 GMT — https://www.polygon.com/5-hardest-platformers-ever-ranked/
+### Jean-Claude Van Damme's First Action Classic is Streaming for Free
+Sun, 25 Oct 2026 01:00:18 GMT — https://www.polygon.com/bloodsport-free-youtube/
 
-Platform games have an undeniable innocence. Since the days of Super Mario Bros. , they've embodied the escapist joy that people associate with the medium. It's hard not to be charmed by the colorful aesthetics, creative styles, and beautifully simple gameplay. Sure, plenty of other genres have emerged over the years, but none have captured the easygoing appeal of running and jumping over obstacles. That pure sense of fun makes platformers the ultimate gaming comfort food . On the other hand, not every bite is so sweet.
+Jean-Claude Van Damme gets a bad rap. Due to when he got famous and the sorts of movies that he usually makes, JCVD often gets lumped in with other B-tier '80s action stars like Steven Seagal and Chuck Norris , which does Van Damme a disservice.
 
-### Steam Officially Rolls Out A Calendar Feature To Directly Recommend New Games
-Sat, 24 Oct 2026 15:20:31 GMT — https://www.polygon.com/steam-personal-calendar-wide-release/
+### 5 Most Perfect 1980s Games That Nobody Remembers
+Sun, 25 Oct 2026 00:53:58 GMT — https://www.polygon.com/best-forgotten-1980s-games/
 
-The latest Steam update added a new way for it to recommend new or imminently released games to players. This new Personal Calendar feature will likely have an impact on game discoverability going forward.
+The 1980s wasn't the decade video games were born; the origins of the medium go back a further 20 years, through the likes of Spacewar! and Pong . But it was in the 1980s that video games grew up, exploding in popularity and complexity and establishing many of their defining stars. It was the decade that gave us Mario and Zelda, Pac-Man, Final Fantasy, Prince of Persia, and SimCity. But it also gave us some much more obscure titles that have since fallen by the wayside. Here are five fantastic '80s games that might have been forgotten, but still have something to teach us.
 
-### Dead by Daylight Is Losing Another Horror Icon
-Sat, 24 Oct 2026 15:17:05 GMT — https://www.polygon.com/dead-by-daylight-chucky-removed/
+### The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't
+Sun, 25 Oct 2026 00:39:16 GMT — https://www.polygon.com/kingdom-hearts-4-worlds-theories/
 
-Just a few days before Halloween, developer Behaviour Interactive had an unfortunate announcement to make regarding Dead by Daylight . In November, the game's Chucky Chapter will be removed from the multiplayer horror game, giving players a few weeks to decide if they want to acquire Chucky content before it's gone.
+Traditions like a heartfelt romp through 100 Acre Wood with Winnie the Pooh and friends feel mandatory, but beyond those, there’s no telling where Sora might fly his Gummi Ship in Kingdom Hearts 4 — if he has a Gummi Ship at all.
 
-### One of 2026’s Best-Rated Games Is Basically Mass Effect With Spies
-Sat, 24 Oct 2026 15:00:18 GMT — https://www.polygon.com/zero-parades-mass-effect-2-comparison/
+### Every Legend of Zelda Movie Character and Cast Member Confirmed So Far
+Sun, 25 Oct 2026 00:30:15 GMT — https://www.polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf/
 
-This week's news that EA was shutting down Mass Effect developer BioWare and canceling the next game in the series was a blow to the industry. It was made all the worse when a leaked trailer for the game, known as Mass Effect: Universe , showed exactly what we would all be missing: Mass Effect meets James Bond . That sure is an enticing pitch, and while BioWare will never be able to deliver on what the trailer teased, that also describes one of this year's best games.
+Nintendo is attempting something it hasn't done in more than 30 years : make a live-action adaptation of its video games. The Legend of Zelda from Sony Pictures and Nintendo is slated for release in April 2027, bringing the fantasy role-playing game franchise to life in a way never seen before. (Well, except for that one Japanese commercial for The Legend of Zelda: A Link to the Past with a rappin' Link.)
 
-### Xbox's First-Ever COO Is Already Leaving After A Few Months
-Sat, 24 Oct 2026 14:34:52 GMT — https://www.polygon.com/xbox-loses-coo/
+### Johnny Depp's 96-Minute Stephen King Thriller Is an Underrated Gem on Streaming
+Sat, 24 Oct 2026 22:18:18 GMT — https://www.polygon.com/johnny-depp-secret-window-stephen-king-streaming-hbo-max-october-2026/
 
-Just a couple of months after being instated as Xbox's first-ever Chief Operating Officer, Helen Chiang has left the company. Her departure reinforces just how much of a whirlwind year 2026 has been for Xbox leadership , as the company continually attempts to reinvent itself before the start of the next generation of consoles.
+Stephen King has spent decades turning our worst nightmares into some of Hollywood's most memorable horror movies . From supernatural terror to small-town nightmares, the author's work continues to inspire filmmakers, with a fresh wave of adaptations bringing his stories to new audiences.
 
 ## PC Gamer
+
+### Top Xbox exec promoted in brand 'reset' leaves after 3 months in role
+Sat, 24 Oct 2026 18:58:24 +0000 — https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/
+
+As reported by The Verge , Xbox Chief Operating Officer Helen Chiang is leaving the company after three months in the role⁠—though Chiang had previously been a Microsoft employee for 21 years. Xbox had not previously operated with a COO in its hierarchy, and the role was created as part of CEO Asha Sharma's controversial brand "reset." Sharma announced the personnel change in an October 23 internal memo, and did not offer an explanation for Chiang's departure. "Her immediate responsibilities are being split up between other Xbox leaders for now," Sharma wrote. "We'll share more on COO leadership as plans are finalized." Microsoft shared a boilerplate statement on the departure to Eurogamer : "We don't discuss individual personnel matters. We're grateful for Helen's years of service and wish her well." However, an anonymous source within Microsoft also told Eurogamer that Chiang was "terminated for policy violations." According to Sharma's original reset announcement, the COO was tasked "with end-to-end P&L [profit and loss] responsibility across content, hardware, platform, and services." Given Xbox's current focus on cost-cutting and maximizing revenue, that sounds like a fairly key role in Sharma's project. It's hard to imagine Chiang's departure having any significant impact on Xbox's strategy or its execution, but it hardly inspires confidence to see such a quick turnaround in an executive-level position, particularly given the overall instability and uncertainty at Xbox.
 
 ### Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges
 Sat, 24 Oct 2026 18:10:01 +0000 — https://www.pcgamer.com/games/horror/penguin-colony-review/
@@ -332,11 +317,6 @@ The death of BioWare has provoked a whole lot of tributes, memorialisation, and 
 Sat, 24 Oct 2026 12:10:44 +0000 — https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/
 
 The whistle has blown. The belts have stopped. The furnace is silent and cold. After 14 years of continual development, Factorio has received its final major update. Developer Wube Software revealed that update 2.1 would be the last significant patch for its genre-defining factory building sim back in May, with the team deciding the game had "reached a good place to conclude active game development". The decision comes two years after Wube released Factorio's remarkable Space Age expansion , which lets players take their industrialisation efforts into the stars and across four wildly different alien planets. If you were hoping Wube might sign off on Factorio on a similarly spectacular note, you may be disappointed. In its latest Friday Facts blog, the developer reiterates that 2.1 "isn't about new planets, enemies or research trees," and instead delivers "a big collection of quality of life, small features, polish, and the things we wanted to for 2.0 but didn't have time for." This doesn't mean 2.1 has nothing of interest, however. Quite the opposite. The primary changes revolve around the space logistics introduced by Space Age, with Wube making it easier to ferry goods up into space and between planets. Rockets, for instance, can now carry multiple different items rather than just one thing, making it considerably easier to get space platforms built. On top of that, platforms can also transfer items between one another in orbit and automatically import items from all availa
-
-### Star Wars Galaxies' Restoration project just received another massive update, including a huge visual upgrade and an overhaul to the Wookiees' home planet
-Sat, 24 Oct 2026 11:09:10 +0000 — https://www.pcgamer.com/games/mmo/star-wars-galaxies-just-got-another-massive-update-thanks-to-its-community-restoration-project-including-a-huge-visual-upgrade-and-a-refurb-to-the-wookiees-home-planet/
-
-I'm beginning to wonder whether Star Wars Galaxies Restoration can still be considered accurately named, given the community-driven revival project has gone so far beyond keeping SOE's 2003 MMO up and running. Previous updates have already added huge features like a new Jedi system and a galactic civil war . Now, the latest patch overhauls numerous aspects of the game, including a massive upgrade to its visuals. Star Wars Galaxies Restoration: A New Dawn differs slightly from those previous updates. Where earlier patches have centred around one big new feature, A New Dawn is composed of various ideas suggested by members of the Restoration team. "We've expanded our team, adding 13 new team members to our project" the Restoration team wrote in a press release. "We asked everyone: work on something that they loved about Galaxies, and showcase that to the world." This approach has produced an array of changes both large and small. The headline update is a game client upgrade that adds support for DirectX 12. This enables a bunch of snazzy graphical enhancements, including volumetric fog, clouds and atmosphere, a new water shader, greatly improved terrain distances, and support for upscaling tech like DLSS, FSR, and XeSS. Beyond these visual changes, two major features of Galaxies have been overhauled. The first of these is the planet Kashyyyk, home to the Wookiees. The forest planet—which was the setting for Galaxies' second expansion Revenge of the Wookiees—has been given "new 
 
 ## GameSpot
 
@@ -402,6 +382,16 @@ When a big new first-party game comes to Xbox, Microsoft is known to put up big,
 
 ## Rock Paper Shotgun
 
+### Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil
+Sat, 24 Oct 2026 21:52:00 +0000 — https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil
+
+I have no particular thoughts on what the afterlife may look like, namely because if there is one, and I'm allowed to hang out in it, I don't want to be disappointed. What if I have the expectation that it's a hedonistic paradise and am met with only having a guy named Gary who only eats cheese sandwiches for company? How embarrassing! No, I'll leave the imagining to others on this particular front. Doing so bears some ripe fruit for me occasionally, too, as is the case today with Abelina, a surreal platformer about a man who died and finds himself tending to gardens and carving masks and trying "not to think about what this place might really be." Read more
+
+### "System Shock and Deus Ex, they were RPGs. People called them RPGs": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one
+Sat, 24 Oct 2026 20:29:27 +0000 — https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one
+
+You know, I think at this point in my life there is a non-zero chance I will die before anyone is able to settle comfortably on what defines an immersive sim. I'm not going to even try to! The idea is too annoying and I'm sure someone will disagree with some aspect of it. And if you ask New Blood boss Dave Oshry, when it comes to trying to flog an immersive sim, it's probably best to not even refer to it as one. Read more
+
 ### HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week
 Sat, 24 Oct 2026 18:58:26 +0000 — https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week
 
@@ -451,14 +441,4 @@ Last week, Creative Assembly and Sega pulled Total War: Shogun 2's remastered Co
 Fri, 23 Oct 2026 15:09:45 +0000 — https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters
 
 While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck. Then came the closure of BioWare , layoffs across other EA studios , further depressing genAI revelations , allegations of antisemitism at indie gaming events , a big Capcom data breach , and yet more worrying tidyings about Arkane . I rescind my earlier observation: I would like to be a worm. A happy little worm, tunnelling after golden apples in the moist and forgiving earth, where there are no emails or press releases at all. The only thing I have to worry about down here is my butt growing so big I get stuck behind it. And also getting chopped in half by sliding doors, but it turns out this may actually help with the first problem. See for yourself - video below. Read more
-
-### Arkane survival negotiations reportedly seeing "several forms of takeover" considered ahead of November deadline, as Marvel's Blade production nears end
-Fri, 23 Oct 2026 14:43:20 +0000 — https://www.rockpapershotgun.com/arkane-survival-negotiations-reportedly-seeing-several-forms-of-takeover-considered-ahead-of-november-deadline-as-marvels-blade-production-nears-end
-
-Negotiations over the future of Dishonored and Deathloop developers Arkane Lyon are reportedly seeing "several forms of takeover" considered as a November deadline looms for the divorce Xbox set in motion back in July . French law makes the process of shuttering or chucking away studios a lot harder for companies like Microsoft than it is elsewhere in the world, hence Arkane's fate still being up in the air while production work on Marvel's Blade nears completion according to the report. Read more
-
-### Helldivers 3 "only makes sense" if it’s so unlike Helldivers 2 "that both games can exist side by side", says Arrowhead boss, discussing their new prototype game
-Fri, 23 Oct 2026 12:20:39 +0000 — https://www.rockpapershotgun.com/helldivers-3-only-makes-sense-if-its-so-unlike-helldivers-2-that-both-games-can-exist-side-by-side-says-arrowhead-boss-discussing-their-new-prototype-game
-
-Arrowhead Game Studios will only make a Helldivers 3 if it's lightyears apart in style from Helldivers 2 , or if Helldivers 2's playercount falls through the floor. This is my takeaway, at least, from a recent chat with Johan Pilestedt, chief creative officer, in which Pilestedt touched briefly on the studio's next unannounced game, while assuring me that there are still no plans for a Helldiver threequel. Read more
 
