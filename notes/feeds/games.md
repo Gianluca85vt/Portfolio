@@ -1,6 +1,16 @@
-# Games — harvested 2026-10-25T09:24:32.726Z
+# Games — harvested 2026-10-25T14:33:58.906Z
 
 ## Eurogamer
+
+### An officially licensed Knightmare game, based on the British TV show, is coming next year
+Sun, 25 Oct 2026 14:32:00 +0000 — https://www.eurogamer.net/knightmare-game-free-pc-original-cast
+
+A free point-and-click adventure based on Knightmare, the cult ITV children's show, is in development. Read more
+
+### Cyberpunk: Edgerunners Season 2 is more than a retread of Netflix's beloved first season - it's a story that truly understands what it means to exist in Night City
+Sun, 25 Oct 2026 10:00:00 +0000 — https://www.eurogamer.net/cyberpunk-edgerunners-season-2-major-theme
+
+Last night, I sat down with a greasy pizza and a few bottles of beer and braced myself for 10 episodes of heartbreak. Cyberpunk: Edgerunners' second season is out, and it follows in the footsteps of Studio Trigger's beloved, and tragic, debut . My expectations were way off. Read more
 
 ### Stalker 2's next update has already leaked
 Sat, 24 Oct 2026 18:08:22 +0000 — https://www.eurogamer.net/stalker-2-update-2-1-zone-lookout-playstation-asia-leak
@@ -52,42 +62,12 @@ Fri, 23 Oct 2026 17:19:50 +0000 — https://www.eurogamer.net/mass-effect-battle
 
 After EA's sudden shutdown of developer BioWare , upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6 . Read more
 
-### "Why the f**k would they add a perk like that?" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive
-Fri, 23 Oct 2026 14:55:40 +0000 — https://www.eurogamer.net/modern-warfare-4-dmz-playing-possum-perk-broke
-
-Modern Warfare 4's DMZ extraction shooter mode has only been out for two days - and only for those who pre-ordered the game - but already players are up in arms over a particular trait that allows competitors to revive themselves after being killed. Read more
-
-### Half-Life 3 is back in the news again as Valve developer accidentally sort-of references it in public, reigniting hope once more
-Fri, 23 Oct 2026 12:43:22 +0000 — https://www.eurogamer.net/half-life-3-developer-references-codename-public
-
-It's been 19 years since the release of Half-Life 2 : Episode 2, and yet the ceaseless clamour for a Valve game with a number '3' in its title continues. And following a swell of reports suggesting Half-Life 3 isn't just real, its development is well underway, a Valve developer has gone and sent the internet a-chatter all over again by publicly, albeit accidentally, referencing its codename during a livestream. Read more
-
 ## GamesIndustry.biz
 
 ### BioWare's end is a tragically familiar tale | Opinion
 Fri, 23 Oct 2026 15:04:13 +0000 — https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
 
 After the past five years of seemingly endless closures, cancellations, and restructures, after the tens of thousands of layoffs that the industry has endured like a relentless drumbeat, you'd think that we'd all have grown some pretty thick skin. How much can one more bad news story really hurt? Read more
-
-### GameMaker to make its "next-generation runtime" GMRT free for commercial use in January 2027
-Fri, 23 Oct 2026 13:52:52 +0000 — https://www.gamesindustry.biz/gamemaker-to-make-its-next-generation-runtime-gmrt-free-for-commercial-use-in-january-2027
-
-2D-centric engine GameMaker is making its "next-generation runtime" GMRT free for commercial use from January 1, 2027. Read more
-
-### Nintendo veteran Shigeru Miyamoto to receive Japan's Order of Culture award
-Fri, 23 Oct 2026 13:06:01 +0000 — https://www.gamesindustry.biz/nintendo-veteran-shigeru-miyamoto-to-receive-japans-order-of-culture-award
-
-Nintendo's Shigeru Miyamoto will be the first game developer to receive Japan's Order of Culture award. Read more
-
-### Capcom affected by data breach, over 11.7m Capcom ID accounts compromised
-Fri, 23 Oct 2026 11:05:20 +0000 — https://www.gamesindustry.biz/capcom-affected-by-data-breach-over-117m-capcom-id-accounts-compromised
-
-Capcom has been hit by a data breach that affected over 11.7 million Capcom ID accounts. Read more
-
-### Call of Duty: Modern Warfare 4 | Critical Consensus
-Fri, 23 Oct 2026 09:59:48 +0000 — https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-critical-consensus
-
-Activision has a lot riding on Call of Duty: Modern Warfare 4. Last year's entry, Black Ops 7, was poorly received by critics and players, and third-party tracking data suggested the game significantly underperformed compared to other entries in the series. Read more
 
 ## VG247
 
@@ -150,11 +130,6 @@ Fri, 23 Oct 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/10/round-
 
 Back to Akihabara. I’ve not had a chance to finish reading STEINS;GATE RE:BOOT yet, and considering how busy my current work schedule is, I think I’m going to put it down for now and concede defeat. (I do intend to get back to it at some point.) However, I still wanted to get something up on the site about this visual novel, which is a second re-release of the 2009 time traveller tale, developed by MAGES. Read the full article on pushsquare.com
 
-### AC Black Flag Rescyned Wants You to Play It Again in New Game Plus Patch Next Week
-Fri, 23 Oct 2026 14:15:00 GMT — https://www.pushsquare.com/news/2026/10/ac-black-flag-rescyned-wants-you-to-play-it-again-in-new-game-plus-patch-next-week
-
-There and back again. If you've got the urge to replay Assassin's Creed: Black Flag Resynced a few months on from your original playthrough in the summer, then Ubisoft has the perfect PS5 update for you: a New Game Plus mode is coming next week. This has been a long time coming for PS5 players, as fans have been asking for a proper campaign replay option since day one, basically, back in July. From next week, they'll have their wish. Read the full article on pushsquare.com
-
 ## Game Developer
 
 ### GameMaker's GMRT runtime will soon be free for all developers
@@ -169,7 +144,7 @@ Sat, 24 Oct 2026 17:55:53 +0000 — https://www.videogameschronicle.com/news/a-f
 
 The point-and-click game includes voice acting by the original cast… Source
 
-### Podcast: Mass Effect 4 has been cancelled as EA closes BioWare
+### Podcast: With BioWare closed, what s left of the studios we grew up with?
 Fri, 23 Oct 2026 15:26:27 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-mass-effect-4-has-been-cancelled-as-ea-closes-bioware/
 
 Plus: A Pokemon store is coming to London… Source
@@ -184,27 +159,47 @@ Fri, 23 Oct 2026 15:25:53 +0000 — https://www.videogameschronicle.com/news/ark
 
 The studio's next game, Blade, was announced in 2023… Source
 
-### Fanatical Halloween bundle gives you Prey, Doom 1 2, and Evil Within 1 2 for $11.66
-Fri, 23 Oct 2026 13:16:55 +0000 — https://www.videogameschronicle.com/news/fanatical-halloween-bundle-gives-you-prey-doom-1-2-and-evil-within-1-2-for-11-66/
-
-Bethesda games headline Fanatical’s Build Your Own Frightmare Bundle… Source
-
-### Stupid Never Dies review: Capcom veterans resurrect the PS3 era with a quirky, off-beat action game
-Fri, 23 Oct 2026 12:56:02 +0000 — https://www.videogameschronicle.com/review/stupid-never-dies-review/
-
-While it won't break any doors down, what's here could be a cult classic in the making… Source
-
-### FF Resonance: Beat Citrine Pot enemies
-Fri, 23 Oct 2026 10:08:56 +0000 — https://www.videogameschronicle.com/guide/ff-resonance-beat-citrine-pot-enemies/
-
-How to beat the Pot enemies quickly and easily in Final Fantasy Resonance… Source
-
-### Shigeru Miyamoto explains why AI won t make human creativity obsolete
-Fri, 23 Oct 2026 09:45:13 +0000 — https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/
-
-Mario and Zelda creator argues that rise of AI could make creators even more important… Source
-
 ## Polygon
+
+### Elden Ring Has Quietly Become A24's Most Expensive Movie Yet
+Sun, 25 Oct 2026 14:10:43 GMT — https://www.polygon.com/elden-ring-movie-budget/
+
+It's been a while since we've gotten any official updates on A24's Elden Ring movie , but a new report has revealed that the film has a massive budget. Elden Ring is certainly more expensive than any other movie the Backrooms studio has made before, so it'll be A24's first true blockbuster.
+
+### The Most Broken D&D Item Keeps Ruining Games. Here Are 3 Ways to Fix It
+Sun, 25 Oct 2026 14:00:18 GMT — https://www.polygon.com/dnd-most-broken-item-potion-healing-fix-dungeons-dragons/
+
+Magic items are an important component of the Dungeons & Dragons experience; collecting and using wondrous artifacts is a given in a role-playing game of heroic fantasy. This is why, in D&D, every character class has access to magic items , starting at the very first level. However, one of these items is so powerful that it can easily turn the game’s balance upside down.
+
+### Steve Rogers Wields Mjolnir in the Latest Avengers: Doomsday Trailer
+Sun, 25 Oct 2026 13:43:26 GMT — https://www.polygon.com/avengers-doomsday-mjolnir-trailer/
+
+A new trailer for Avengers: Doomsday dropped on Oct. 24. While it's not very long, it shows a surprising amount of new footage rather than rehashing clips we've already seen. In particular, it has some great moments featuring Captain America (all three of them).
+
+### GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years
+Sun, 25 Oct 2026 13:00:18 GMT — https://www.polygon.com/gta-san-andreas-retrospective/
+
+With the imminent release of Grand Theft Auto 6 , I decided it was time to revisit what was probably the biggest game of my childhood: Grand Theft Auto: San Andreas . In 2005, GTA: San Andreas was one of the first four games I bought for the PlayStation 2, alongside Final Fantasy X , Kingdom Hearts , and Devil May Cry 3 . Since I can no longer enjoy that version of the game I played so many times as a kid, I picked up the Grand Theft Auto: The Trilogy — Definitive Edition , which includes San Andreas , on Steam and booted up the game.
+
+### Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation
+Sun, 25 Oct 2026 12:05:18 GMT — https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/
+
+The original side-scrolling Super Mario Bros. is widely considered to be one of the best games of all time, and the list of reasons justifying that assertion is long. The NES game made Nintendo into a household name, and Mario into a media icon as recognizable as Mickey Mouse. The 1985 video game helped bring games into the mainstream, and it defined platforming as a video game genre. Super Mario Bros. remains one of the best-selling games of all time. Yet if you ask series creator Shigeru Miyamoto, none of these things truly capture SMB 's biggest contribution to the world of video games.
+
+### BioWare's Closure Is Just the Tip of the Iceberg
+Sun, 25 Oct 2026 12:00:18 GMT — https://www.polygon.com/patch-notes-bioware-closure/
+
+We're in the middle of an outpouring of mourning for the studio, and for the Mass Effect Universe we never got . BioWare's talented developers will hopefully all go on to great things elsewhere, and many already have. (Who's looking forward to Exodus ?) Maybe Mass Effect and Dragon Age will return; in this age of zombie IP, it seems a safe bet that they will. What's really lost at a moment like this, though, is institutional knowledge and culture, the malleable but enduring practices and principles that survive the departure of founders and team leads and are nurtured by new hands. It's a terrible loss.
+
+### 9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid
+Sun, 25 Oct 2026 11:00:18 GMT — https://www.polygon.com/best-nerdy-kid-far-side-comics/
+
+One of the biggest differences between The Far Side and most other comic strips is that The Far Side doesn’t have a recurring cast of characters. Charles Schulz’s Peanuts , for example, had Charlie Brown, Linus, Lucy, Snoopy, and the rest of the gang, while Jim Davis’ Garfield has Garfield, Odie, Jon, and a handful of other recurring characters. But Gary Larson’s The Far Side , with its non-sequitur, single-panel jokes, didn’t have regular characters, or at least not really .
+
+### Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic
+Sun, 25 Oct 2026 10:00:18 GMT — https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/
+
+We are 10 minutes into The Abominable Dr. Phibes , and nobody has spoken a word. Robert Fuest’s 1971 horror film is a surreal, kitsch, and intentionally funny murder-museum of a movie. But it's also dreamlike and deeply strange in a way that lingers after you've watched it.
 
 ### 5 Near-Perfect Psychological Thriller Movies Streaming for Free
 Sun, 25 Oct 2026 08:54:46 GMT — https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/
@@ -216,47 +211,17 @@ Sun, 25 Oct 2026 08:08:18 GMT — https://www.polygon.com/buffy-vampire-slayer-b
 
 Buffy ’s writers gave Spike some of the show’s sharpest one-liners — who could forget “Out. For. A. Walk. Bitch.”? But his best line comes in the series finale, “Chosen.” It’s the natural culmination of a character pulled between heroism and selfishness for most of his life, and it captures the complicated truth of his relationship with Buffy.
 
-### 61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History
-Sun, 25 Oct 2026 08:00:18 GMT — https://www.polygon.com/paul-atreides-best-dune-quote/
-
-That said, the phenomenal success of Denis Villeneuve’s Dune movies proves that the impossible is always within reach. So far, Villeneuve’s adaptation has captured the sheer scale of the books and also made some meaningful changes to the source material. This version of Paul Atreides (Timothée Chalamet) begins his journey with a hesitant vulnerability that feels more intense than in the books. This is also why his turn as a self-proclaimed messiah feels more ominous and devastating in Dune: Part Two .
-
-### Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube
-Sun, 25 Oct 2026 04:01:20 GMT — https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/
-
-H.G. Wells' The War of the Worlds is a punchline now, and it's Amazon's fault. At time of writing, the newest adaptation of The War of the Worlds is a "screenlife" movie from 2025 that’s a frontrunner for the worst film of the 21st century.
-
-### 58 Years Later, Captain Kirk's Best Star Trek Quote Is the Greatest Line in Sci-Fi History
-Sun, 25 Oct 2026 01:20:18 GMT — https://www.polygon.com/best-star-trek-original-series-quote-captain-kirk/
-
-Certain lines of dialogue become so famous they almost stop belonging to the movies and TV shows that produced them. “May the Force be with you.” “I’ll be back.” “You're gonna need a bigger boat.” You don't need to know the context. The words have long since transcended their original context.
-
-### Jean-Claude Van Damme's First Action Classic is Streaming for Free
-Sun, 25 Oct 2026 01:00:18 GMT — https://www.polygon.com/bloodsport-free-youtube/
-
-Jean-Claude Van Damme gets a bad rap. Due to when he got famous and the sorts of movies that he usually makes, JCVD often gets lumped in with other B-tier '80s action stars like Steven Seagal and Chuck Norris , which does Van Damme a disservice.
-
-### 5 Most Perfect 1980s Games That Nobody Remembers
-Sun, 25 Oct 2026 00:53:58 GMT — https://www.polygon.com/best-forgotten-1980s-games/
-
-The 1980s wasn't the decade video games were born; the origins of the medium go back a further 20 years, through the likes of Spacewar! and Pong . But it was in the 1980s that video games grew up, exploding in popularity and complexity and establishing many of their defining stars. It was the decade that gave us Mario and Zelda, Pac-Man, Final Fantasy, Prince of Persia, and SimCity. But it also gave us some much more obscure titles that have since fallen by the wayside. Here are five fantastic '80s games that might have been forgotten, but still have something to teach us.
-
-### The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't
-Sun, 25 Oct 2026 00:39:16 GMT — https://www.polygon.com/kingdom-hearts-4-worlds-theories/
-
-Traditions like a heartfelt romp through 100 Acre Wood with Winnie the Pooh and friends feel mandatory, but beyond those, there’s no telling where Sora might fly his Gummi Ship in Kingdom Hearts 4 — if he has a Gummi Ship at all.
-
-### Every Legend of Zelda Movie Character and Cast Member Confirmed So Far
-Sun, 25 Oct 2026 00:30:15 GMT — https://www.polygon.com/the-legend-of-zelda-2027-movie-cast-link-zelda-ganondorf/
-
-Nintendo is attempting something it hasn't done in more than 30 years : make a live-action adaptation of its video games. The Legend of Zelda from Sony Pictures and Nintendo is slated for release in April 2027, bringing the fantasy role-playing game franchise to life in a way never seen before. (Well, except for that one Japanese commercial for The Legend of Zelda: A Link to the Past with a rappin' Link.)
-
-### Johnny Depp's 96-Minute Stephen King Thriller Is an Underrated Gem on Streaming
-Sat, 24 Oct 2026 22:18:18 GMT — https://www.polygon.com/johnny-depp-secret-window-stephen-king-streaming-hbo-max-october-2026/
-
-Stephen King has spent decades turning our worst nightmares into some of Hollywood's most memorable horror movies . From supernatural terror to small-town nightmares, the author's work continues to inspire filmmakers, with a fresh wave of adaptations bringing his stories to new audiences.
-
 ## PC Gamer
+
+### Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'
+Sun, 25 Oct 2026 13:20:37 +0000 — https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/
+
+The development and release of Civilization 7 has been a rollercoaster for both fans of the series and developer Firaxis. The most recent entry in the long-running 4X series shipped with an age-transition mechanic where players would switch between civilisations at multiple points during a game. It was a radical design shift that divided the community, received well by some players, but going down like a glass of cold sick with others. Earlier this year, Firaxis introduced an update to Civilization 7 that made age transitions optional and reimplemented the traditional, single-civ mode of play. Yet according to Firaxis, this was not a decision the studio made easily, and was particularly tough for creative director Ed Beach. This was revealed in an expansive oral history of Civilization by Polygon , which charts the trajectory of the series game by game. The roots of Civilization 7, it seems, were in a long-held frustration of series' creator Sid Meier: "I was always frustrated by playing a Civ game and having a civilization with one period of time, where I had special abilities and special powers," Meier explains. "And for the rest of history I would just play sort of as a vanilla Civ where I didn't have anything unique about what I was doing." This idea was carried forward by Beach, who made it a central feature of Civ 7. "I know, just as a fan of history, that all civilizations have a long lineage where the came from Rome, or they came from Greece, or they came from an Afri
+
+### Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director
+Sun, 25 Oct 2026 12:01:33 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/
+
+The more information that dribbles out from BioWare's cancelled Mass Effect game, the sadder I feel about the whole sorry situation. We've already seen an in-engine trailer that introduced a new protagonist and reintroduced Liara T'Soni, and we've heard that the game was set in a 'galactic Cold War' that combined all three of Mass Effect 3 's possible endings. Now, it seems the new Mass Effect would also have had a sophisticated system for dealing with the choices players made in the original trilogy. This is according to Mass Effect's Franchise Technical Director Romain Toutain, who ran a Twitch stream during which he provided commentary on the recently leaked trailer, offering some insight into the game that trailer was supposed to reveal (via Kotaku ). Although the stream was in French, a clip was posted on Bluesky by user @loustica-lucia, who added English subtitles to Toutain's commentary. During his stream, Toutain mentions that BioWare was working on a novel way to account for the many choices players made while playing the Mass Effect trilogy, pointing out that "all of the choices made in the first Mass Effect games were taking into account." Indeed, this is partly the reason behind the cancelled successor's name as shown in the leaked internal trailer. "One of the reasons why it was called Mass Effect Universe is that you had so many choices that you could plug your saves together to create parallel universes." Toutain quickly clarifies that his explanation is "to ke
 
 ### Top Xbox exec promoted in brand 'reset' leaves after 3 months in role
 Sat, 24 Oct 2026 18:58:24 +0000 — https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/
@@ -308,16 +273,6 @@ Sat, 24 Oct 2026 14:30:20 +0000 — https://www.pcgamer.com/gaming-industry/game
 
 Well, here's a headscratcher. Paolo Pedercini, developer of Future? No Thanks! recently admitted to using generative AI in his ecosocialist satire while also referring to the technology as "a technofascist, anti-human and anti-art project." Now, the developer has removed several AI generated voice lines from the game, following a backlash to his use of the very technology which the game lampoons. You might remember Future? No Thanks! from another recent controversy, whereupon the game was briefly delayed after Steam held up its release while it reviewed some fleeting nudity in the game. Pedercini—who also goes by Mollieindustria—received considerable support during that debacle. But the reaction to Future? No Thanks' AI use has been rather less supportive, prompting Pedercini to rework the game and respond to the backlash. Pedercini originally revealed his AI use in a blog post (via Rock, Paper, Shotgun ). Apparently, the game contained several voice lines generated using text-to-speech, which Pedercini claimed, "used to be an uncontroversial technology and an early application of neural networks" before "AI bros started commercializing AI voices". Alongside this, the game also includes "a tiny fraction" of AI generated code, which Pedercini said he used for things like "fixing a shader I didn't write which broke after an update" as well as "finishing touches and minor debugging." In this blog, Pedercini defended his AI use by pointing out that Future? No Thanks! "satirizes g
 
-### Award-winning sci-fi author NK Jemisin joins BioWare's mourners and scorns a broken industry for killing geese that 'laid the golden eggs'
-Sat, 24 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/gaming-industry/award-winning-sci-fi-author-nk-jemisin-joins-biowares-mourners-and-scorns-a-broken-industry-for-killing-geese-that-laid-the-golden-eggs/
-
-The death of BioWare has provoked a whole lot of tributes, memorialisation, and plain old nostalgia as all sorts of people come together to remember the bangers the erstwhile king of RPGs put out in its prime. CD Projekt Red , imsim founding father Warren Spector , and we here at PCG have all been trading BioWare memories (and sometimes lamenting the influence of EA, which acquired the studio back in 2007). But the BioWare classics were big enough bangers to transcend videogames in their influence. Over on Bluesky , award-winning sci-fi and fantasy writer Nora Jemisin (better known as NK Jemisin) has been mourning the studio too. "RIP Bioware. The [Mass Effect] and [Dragon Age] games were a literal inspiration, and I can't count how many times I've replayed my faves," Jemisin wrote. "I made lifelong friends on ME3 Multiplayer. I still think Jennifer Hepler is the best game writer I've seen, and Jennifer Hale's the best VA." Hepler was a long-time Dragon Age writer who " was pretty much in charge of the dwarf origin story " in Origins, and also shaped much of the setting's dwarven culture in general. Jennifer Hale, meanwhile, is Jennifer Hale: Dynaheir, Mazzy Fentan, Bastila Shan, the female Commander Shepard, and plenty else. Many people, myself included, first became aware of Hale through her contributions to BioWare's RPGs. "Watching what's happening to the game industry [right now] is so frustrating," Jemisin continued. "It was the goose that laid the golden eggs, guys. Al
-
-### After 14 years of development, Factorio's final major update is out now
-Sat, 24 Oct 2026 12:10:44 +0000 — https://www.pcgamer.com/games/survival-crafting/after-14-years-of-development-factorios-final-major-update-is-out-now/
-
-The whistle has blown. The belts have stopped. The furnace is silent and cold. After 14 years of continual development, Factorio has received its final major update. Developer Wube Software revealed that update 2.1 would be the last significant patch for its genre-defining factory building sim back in May, with the team deciding the game had "reached a good place to conclude active game development". The decision comes two years after Wube released Factorio's remarkable Space Age expansion , which lets players take their industrialisation efforts into the stars and across four wildly different alien planets. If you were hoping Wube might sign off on Factorio on a similarly spectacular note, you may be disappointed. In its latest Friday Facts blog, the developer reiterates that 2.1 "isn't about new planets, enemies or research trees," and instead delivers "a big collection of quality of life, small features, polish, and the things we wanted to for 2.0 but didn't have time for." This doesn't mean 2.1 has nothing of interest, however. Quite the opposite. The primary changes revolve around the space logistics introduced by Space Age, with Wube making it easier to ferry goods up into space and between planets. Rockets, for instance, can now carry multiple different items rather than just one thing, making it considerably easier to get space platforms built. On top of that, platforms can also transfer items between one another in orbit and automatically import items from all availa
-
 ## GameSpot
 
 ### Call Of Duty: Modern Warfare 4 s First DLC Is Out Now, Honors A Real Soldier Who Sustained Gruesome Injuries
@@ -365,22 +320,12 @@ Fri, 23 Oct 2026 14:35:44 +0000 — https://www.gamespot.com/articles/xbox-wante
 
 Video game adaptations are all the rage right now, with movie and TV projects in various stages of development, and Netflix is looking to strike while the proverbial IP iron is hot. The streaming giant already has a deal in place with Microsoft to develop a Gears of War movie , and it's looking to grab more Xbox IP to build new franchises. The only problem? Microsoft's price tag was reportedly quite a bit more than Netflix was willing to pay. That's according to entertainment journalist Matthew Belloni, who wrote in a Puck News report that Netflix had offered Microsoft $500 million for seven years to exclusively license Xbox titles for film and TV. Xbox CEO Asha Sharma and the brand's business affairs team countered by demanding $800 million, prompting Netflix to rescind the offer. https://www.youtube.com/watch?v=zzqGbNaOROA While Netflix has declined to comment on the report, Xbox told Belloni it had received "record-breaking interest" in its IP and still values Netflix as a partner on upcoming projects. Belloni added that Xbox is now "pursuing smaller deals with more partners," like the Diablo animated series under development at Netflix, another season of Fallout at Prime Video, the Call of Duty movie at Paramount, and a sequel to A Minecraft Movie at Warner Bros. Pictures. Xbox is also expanding its multimedia ambitions; earlier this month, it announced Xbox XP . This new arm of the company, devoted to movies, TV, merchandise, theme parks, and live events, will be headed 
 
-### Cancelling Mass Effect And Closing BioWare Was An Obvious Thing For EA To Do, Experts Say
-Fri, 23 Oct 2026 14:33:45 +0000 — https://www.gamespot.com/articles/cancelling-mass-effect-and-closing-bioware-was-an-obvious-thing-for-ea-to-do-experts-say/
-
-Electronic Arts just confirmed a major shakeup that included the closure of BioWare and cancellation of its upcoming Mass Effect game. Closing the studio and cancelling the project was a horrible thing for the people who worked there and fans who enjoy BioWare games and were looking forward to the next Mass Effect . But taking that action was no surprise whatsoever from a business sense. Video game analyst Joost Van Dreunen told IGN that EA needed to make drastic cuts to service the $18 billion in debt that it has taken on due to the leveraged structure of its sale to Saudi Arabia's PIF, Silver Lake, and Affinity. Interest payments alone on that debt are about $1.8 billion annually, which exceeds how much money EA makes in annual EBITDA ($1.5 billion). Van Dreunen said BioWare getting shut down was "entirely predictable and precisely what a leveraged buyout looks like once the deal closes." "In that context, a 50-person team working on a game that is years from launch is the easiest line to cut, regardless of its legacy,” van Dreunen said. Piers Harding-Rolls of Ampere Analysis, meanwhile, said the closure of BioWare is "emotive" for people who loved BioWare and its 30-year legacy of making popular and well-liked RPGs, but the math just didn't math. Dragon Age: The Veilguard failed to meet sales expectations , and Mass Effect: Andromeda and Anthem were commercial disappointments, too. This contributed to an environment where EA management would look to kill the studio outrigh
-
-### Control Resonant s Unsettling Board Dialogue Is Carefully Crafted Gibberish
-Fri, 23 Oct 2026 13:30:35 +0000 — https://www.gamespot.com/articles/control-resonant-unsettling-board-dialogue-is-carefully-crafted-gibberish/
-
-Just what is The Board in Control Resonant ? While we still have plenty of questions about the otherworldly entity that accompanies players on their trip across Manhattan, one thing we do know is that it's loud, incomprehensible, and you can't understand what it's saying without subtitles. Some players are convinced The Board is saying something specific if you listen closely, but according to developer Remedy Entertainment, it's a little audio trick that makes you hear what you want to hear. In an interview with GameSpot , audio lead Lucas Pierrot explained that The Board speaks "gibberish," making the character open to interpretation. https://www.youtube.com/watch?v=f1LEHPr8e_o "An important part of the design is that The Board is basically gibberish, not affiliated to any language," Pierrot said. "So, when you hear a word, you tend to hear what you want to hear … and that’s pretty neat in terms of audio design, as players can fulfill their fantasies. You want to hear The Board praising you for performing an Execution? You can! Maybe you hear them saying 'Absolute cinema, Combo!' et cetera, but if you prefer to think they’re arrogant and only feel disdain for slaying a weak enemy … you can hear that too!" Pierrot explained that The Board has a partial language in place, so players can perceive a sense of intelligence from it. That structure allows The Board to feel "scary, unsettling, or even funny sometimes," and the one rule governing its audio design is "the pulse," a "l
-
-### Call Of Duty Ads On Xbox Are Even More Annoying This Year With Modern Warfare 4
-Fri, 23 Oct 2026 13:05:52 +0000 — https://www.gamespot.com/articles/call-of-duty-ads-on-xbox-are-even-more-annoying-this-year-with-modern-warfare-4/
-
-When a big new first-party game comes to Xbox, Microsoft is known to put up big, annoying takeover ads, and that trend continues this year with the launch of Call of Duty: Modern Warfare 4. Things are a little different, and more annoying, this year. People who booted up their Xbox today, the day of MW4's release, noticed that not only is there a big MW4 takeover ad, but the ad even hijacks your custom background. Windows Central was the first to report on this. It is possible to toggle this off, thankfully, as people online quickly discovered . Players can head to Settings > General > Personalization > My Background , then uncheck "Show event-themed backgrounds." People were not happy about this, and particularly how the takeover this time totally removes the custom background you might have had to force you to see a giant ad for a game you might not even be interested in. https://twitter.com/CockneyCharmer/status/2113500029222527214 https://twitter.com/JamesHalliday94/status/2113491521018409219 Ads on Xbox are only going to become more widespread from here. Right now, people on Xbox can test a free, ad-supported version of Xbox Cloud Gaming , and a lot of people think that's very gross. Xbox's new chief strategy officer, Matthew Ball, is a big believer in cramming more ads into gaming to help with the "two-sided problem" of modern gaming. Development costs for many games are now “way too high,” and consumers do not want to pay more, Ball said. Something has got to give, and
-
 ## Rock Paper Shotgun
+
+### The Sunday Papers
+Sun, 25 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-833
+
+Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers post, I&rsquo;d have two nickels, which isn&rsquo;t a lot but it&rsquo;s weird than I&rsquo;m being paid in USD when I live in the United Kingdom. In that international spirit, here are some fine writings from around the globe. Read more
 
 ### Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil
 Sat, 24 Oct 2026 21:52:00 +0000 — https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil
@@ -436,9 +381,4 @@ Hope. It's in short supply at the moment. Regardless, I hope that something a Ca
 Fri, 23 Oct 2026 16:01:24 +0000 — https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster
 
 Last week, Creative Assembly and Sega pulled Total War: Shogun 2's remastered Complete Edition from Steam , after an avalanche of complaints about technical problems and some AI-generated art. Now, Total War vice president Roger Collum has written a personal apology, while pinning some of the blame on an unnamed external partner. He's also clarified Creative Assembly's stance on generative AI, conceding that the studio do use it to help with "analysis, debugging, or speedy prototyping", but that they're against using it to generate game assets and art. Read more
-
-### Woim is the earth-guzzling, self-bisecting sokoban pick-me-up I needed after a week of games industry disasters
-Fri, 23 Oct 2026 15:09:45 +0000 — https://www.rockpapershotgun.com/woim-is-the-earth-guzzling-self-bisecting-sokoban-pick-me-up-i-needed-after-a-week-of-games-industry-disasters
-
-While ladling city-builders into the Maw's feeding trough this week, I remarked that being a worm must really suck. Then came the closure of BioWare , layoffs across other EA studios , further depressing genAI revelations , allegations of antisemitism at indie gaming events , a big Capcom data breach , and yet more worrying tidyings about Arkane . I rescind my earlier observation: I would like to be a worm. A happy little worm, tunnelling after golden apples in the moist and forgiving earth, where there are no emails or press releases at all. The only thing I have to worry about down here is my butt growing so big I get stuck behind it. And also getting chopped in half by sliding doors, but it turns out this may actually help with the first problem. See for yourself - video below. Read more
 

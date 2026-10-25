@@ -1,6 +1,21 @@
-# Film & TV — harvested 2026-10-25T09:24:32.726Z
+# Film & TV — harvested 2026-10-25T14:33:58.906Z
 
 ## Variety
+
+### ESPN Taps Marvel s Vision to Boost ElClásico s Debut on ABC
+Sun, 25 Oct 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/espn-taps-marvel-vision-elclasico-debut-abc-1236930598/
+
+The Vision, the Marvel super-hero, must tackle two important missions on Sunday. Not only does the character have a new streaming series on Disney+ that needs promotion, but he s been tapped by Disney sibling ESPN to lend some pizzazz to Sunday s telecast of ElClásico, the fierce soccer match-up between Barcelona and Real Madrid, which is [ ]
+
+### A Court of Thorns and Roses Gets a Fittingly Sexy Fashion Collection Ahead of Sarah J. Maas s Latest Book
+Sun, 25 Oct 2026 13:43:16 +0000 — https://variety.com/2026/shopping/news/a-court-of-thorns-and-roses-for-love-and-lemons-collection-1236930606/
+
+In an age of endless brand partnerships and collaborations, it always feels good seeing a team-up that doesn t feel forced. Such is the case with For Love Lemons very sexy collaboration with A Court of Thorns and Roses a collection of corsetry, lace, romantic florals and embellished evening wear that just makes sense. [ ]
+
+### Serielizados Prizes: Hagai Levi’s ‘Etty and Astonishing ‘Killing a Bear’ Win Big as ‘El Observatorio Bags the Mind the Gap Pitch Prize
+Sun, 25 Oct 2026 10:38:47 +0000 — https://variety.com/2026/tv/global/serielizados-hagai-levi-etty-killing-a-bear-matar-a-un-oso-1236930579/
+
+Influential Israeli creator Hagai Levi (“The Affair,” “Scenes From a Marriage”) and prominent Spanish TV-making duo Jorge and Alberto Sánchez-Cabezudo (“La Zona”) won best international and national series at Barcelona’s Serielizados for Etty and Killing a Bear respectively. The prizes for Serielizados two competitive sections were announced Saturday night at a Serielizados awards ceremony. Both [ ]
 
 ### Egyptian Cinema Eyes Its Next Act as Industry Veterans Call for Better Scripts, Wider Distribution
 Sun, 25 Oct 2026 09:16:11 +0000 — https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/
@@ -36,21 +51,6 @@ The SAG-AFTRA board voted Saturday to extend the contract of Duncan Crabtree-Ire
 Sun, 25 Oct 2026 01:10:16 +0000 — https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/
 
 Anthony Ippolito had to do more than nail Sylvester Stallone’s signature voice to play him in “I Play Rocky.” He also had to transform his skinny physique to one with bulging muscles. “It had its moments for sure. I was being tested,” Ippolito told me Saturday at the AFI Fest “I Play Rocky” screening in [ ]
-
-### Nathan Fielder Negotiated a ‘Kill Switch’ on ‘You Can See Everything,’ Says Lance Oppenheim: ‘If We Didn’t Find Something, We Could Just Throw It All Away’
-Sun, 25 Oct 2026 00:01:48 +0000 — https://variety.com/2026/film/news/nathan-fielder-you-can-see-everything-lance-oppenheim-1236916862/
-
-“You Can See Everything” might be the buzziest film of the moment, but before the Elizabeth Holmes-focused documentary made it to theaters, co-director Lance Oppenheim has admitted that fellow director Nathan Fielder was so skeptical about being able to weave a unique enough narrative that he negotiated a “kill switch” with A24 before they began [ ]
-
-### ‘SNL U.K.’ Weekend Update Tackles Meghan Markle Dad Allegations, James Bond Auditions and ‘Glee’ Reboot
-Sat, 24 Oct 2026 22:11:59 +0000 — https://variety.com/2026/tv/global/snl-uk-weekend-update-meghan-markle-glee-1236930013/
-
-“Saturday Night Live U.K.’s” Weekend Update isn’t afraid to tackle the most controversial topics, as the show proved again this weekend when co-host Paddy Young directly referenced the allegations that emerged this past week regarding Meghan Markle’s father. “In royal news, it s been a big 24 hours for Meghan Markle, whose dad has been accused [ ]
-
-### Cynthia Erivo Plays Glinda in Nigerian Wicked Sketch on SNL U.K. : She Wants a BBL That Defies Gravity
-Sat, 24 Oct 2026 21:59:12 +0000 — https://variety.com/2026/tv/global/cynthia-erivo-glinda-nigerian-wicked-snl-uk-1236930402/
-
-Cynthia Erivo spoofed Wicked during her stint hosting SNL U.K., this time taking on the role of Glinda in Nigerian Wicked. Alongside Ayoade Bamgboye as Elphaba, Erivo — sporting a blonde wig and pink velour tracksuit — starred in a lo-fi, melodramatic version of the Oscar-nominated musical in which the two enemies-turned-friends go off to [ ]
 
 ## The Hollywood Reporter
 
@@ -175,6 +175,11 @@ Go behind the scenes. The post Watch Image Engine s VFX breakdown for The Mandal
 
 ## IndieWire
 
+### Box Office: A24 s You Can See Everything Scores Huge $19.5 Million Second Weekend
+Sun, 25 Oct 2026 13:48:18 +0000 — https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-huge-second-weekend-a24-1235223679/
+
+Nathan Fielder and Lance Oppenheim's twisty look at Elizabeth Holmes saw its grosses increase from its red-hot debut.
+
 ### Watch the Buddy Team Explain How They Made the World Fall in Love with a Murderous Unicorn
 Sat, 24 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/
 
@@ -230,11 +235,6 @@ Fri, 23 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/interview
 
 The Polish filmmaker, working in German with exquisite actors Sandra Hüller and August Diehl, tells IndieWire about finding resonant conflicts in his moving post-war Cannes hit that completes his black-and-white period trilogy.
 
-### The Only Living Pickpocket in New York Review: An Old School Thief Holds on in the Age of Apple Pay
-Fri, 23 Oct 2026 16:30:00 +0000 — https://www.indiewire.com/criticism/movies/the-only-living-pickpocket-in-new-york-review-john-turturro-1235176157/
-
-Produced under Rian Johnson’s T-Street banner, writer/director Noah Segan's New York picture breathes new life into the subgenre.
-
 ## The Wrap
 
 ### Emily Osment Asked for Intimacy Coordinator Over ‘Uncomfortable’ Age Gap With Co-Star on ‘Young Sheldon’
@@ -289,53 +289,53 @@ It s peak Spooky Season, which means it s also peak cuddle up on the couch with 
 
 ## Collider
 
-### Netflix Is Officially Removing Tom Hardy’s Divisive $1 Billion Epic
-Sun, 25 Oct 2026 09:20:15 GMT — https://collider.com/tom-hardy-superhero-epic-the-dark-knight-rises-leaving-netflix-november-2026/
+### Netflix Is Officially Removing Jake Gyllenhaal’s Disturbing Cult Classic Thriller
+Sun, 25 Oct 2026 14:30:15 GMT — https://collider.com/jake-gyllenhaal-nightcrawler-leaving-netflix-october-2026/
 
-This past summer, Christopher Nolan broke his personal box-office records with the fantasy epic The Odyssey . The movie grossed nearly $1.8 billion worldwide and received excellent reviews. It’s now considered a favorite in multiple Oscars categories. Nolan is coming off his first-ever Best Picture and Best Director wins at the Academy Awards, for the biographical thriller Oppenheimer . Released in 2023, Oppenheimer exceeded all expectations to gross nearly $1 billion worldwide. It also fell just $100 million short of becoming Nolan’s highest-grossing hit. Before The Odyssey , this title was held by The Dark Knight Rises , which is currently streaming in the United Kingdom on Netflix, but only for a little while longer.
+Jake Gyllenhaa l hasn't exactly had the best year when it comes to movies, with both The Bride! and In the Grey falling short of box-office expectations. The Bride! has shown few signs of life even on home video, although In the Grey has emerged as a solid streaming hit. Gyllenhaal has historically struggled to deliver breakout theatrical blockbusters as a leading man, but has found greater success on streaming, especially in recent years. He starred in the record-breaking Prime Video hit Road House and the Apple TV series Presumed Innocent . Additionally, several of his past movies have found larger audiences at home. One of his most admired films, a cult classic released in 2014, is currently streaming on Netflix in the United States, but only for a little while longer.
 
-### ‘Bosch’ Meets ‘The Wire’ in Walton Goggins’ 7-Part Crime Series Officially on Hulu
-Sun, 25 Oct 2026 09:00:15 GMT — https://collider.com/walton-goggins-the-shield-streaming-success-hulu-october-2026/
+### The 10 Best Stephen King Crime Books, Ranked
+Sun, 25 Oct 2026 14:09:15 GMT — https://collider.com/best-stephen-king-crime-books-ranked/
 
-Walton Goggins has exploded as a star in the last few years, but those who have been following his career for a while have known what he’s capable of for years. Goggins has been cast in one of the key supporting roles in the new Miami Vice movie coming to theaters in 2028, which will be led by Michael B. Jordan and Austin Butler . The first images of Goggins in the film surfaced online last week, and it appears director Joseph Kosinski ( Top Gun: Maverick , F1 ) has everything perfectly under control. Goggins has also accelerated his rise to stardom recently thanks to his role as The Ghoul in Fallout , and he’s already confirmed that he will return in the third season of the show, which will likely air sometime in 2027.
+Yes, yes. Horror. That’s what Stephen King writes a lot of, and that’s certainly the genre he got famous for writing in the first place, as early classics of his like Carrie , Salem’s Lot , and The Shining (the first three novels published under his own name) all show. And those three are just the beginning, with King’s 1970s and 1980s output being mostly horror-focused, with a few fantasy and sci-fi detours along the way.
 
-### Russell Crowe’s Beloved Historical Epic Officially Conquers Netflix
-Sun, 25 Oct 2026 08:41:15 GMT — https://collider.com/russell-crowe-gladiator-streaming-netflix-october-2026/
+### Netflix Is Officially Removing the Action-Thriller That Asks “What If Guy Ritchie Directed John Wick?”
+Sun, 25 Oct 2026 14:00:14 GMT — https://collider.com/mark-rylance-the-outfit-leaving-netflix-november-2026/
 
-There are very few movie moments more iconic than Russell Crowe standing in the middle of the Colosseum and demanding to know whether everybody is entertained, especially when the answer is so obviously yes. More than 25 years after Ridley Scott first brought Ancient Rome to life , audiences can finally revisit the movie that started it all without having to leave their sofas.
+Like fellow '90s breakout Quentin Tarantino , director Guy Ritchie has inspired an entire generation of filmmakers. Ritchie remains as popular as ever, having gracefully made the switch to streaming. He now has three successful shows to his name — Netflix's The Gentlemen , Paramount+'s MobLand , and Prime Video's Young Sherlock — in addition to several movies that have proven to be major hits at home despite underperforming at the box office. The popularity of Ritchie's work has also nudged audiences toward similar movies made by other directors. Now, one such film is about to be removed from Netflix, leaving audiences with just a week to check it out.
 
-### Microsoft's Next Xbox Could Officially Become Its Most Expensive Console of All Time
-Sun, 25 Oct 2026 08:20:15 GMT — https://collider.com/next-xbox-project-helix-price-1200-report/
+### 'The White Lotus' Season 4 Star Officially Teases Chris Messina's "Amazing" Performance
+Sun, 25 Oct 2026 13:42:00 GMT — https://collider.com/the-white-lotus-season-4-france-chris-messina-max-minghella/
 
-Buying a new console is already a substantial investment before games and accessories enter the picture. For Xbox players considering their next upgrade, the promise of better performance also comes with a practical question: How much will it cost to keep playing on Microsoft’s hardware? The company’s plans for its next generation suggest a more ambitious machine, but the potential price could make that decision considerably harder.
+Clayface has officially stormed into theaters just in time for Halloween, and the DCU's first proper dip into full-blown horror seems to be yielding results. Collider's Gabrielle Moss called director James Watkins ' new film "horrific to watch for all the right reasons" in her official review of the film , and that sentiment has been shared in the film's positive Certified Fresh Rotten Tomatoes score. Co-written by horror legend Mike Flanagan and starring Tom Rhys Harries , Naomie Ackie , and Max Minghella , Clayface brings the notorious Batman villain to the big screen for the first time ever as a terrifying body horror tragedy.
 
-### Disney+’s 10/10 Fantasy Miniseries With Zero Bad Episodes Officially Takes Over Streaming
-Sun, 25 Oct 2026 08:00:15 GMT — https://collider.com/agatha-all-along-disney-plus-streaming-success-october-2026/
+### 9 Most Campy Horror Movies From the Last 5 Years, Ranked
+Sun, 25 Oct 2026 13:31:15 GMT — https://collider.com/most-campy-horror-movies-last-5-years-ranked/
 
-Now is the perfect time to revisit this near-perfect fantasy miniseries as Halloween draws nearer. Spanning nine episodes, the masterpiece centers on an unfortunate witch who, after three years trapped under a magical spell, escapes with the help of a mysterious teenager who wants to face the legendary witches’ trials. Now without her magical powers , the freed witch and her teenage savior form a new coven to face the trials while contending with old enemies and seeking to regain her powers.
+Horror is a genre that can be many things, and although the legendary films are the ones that cause nightmares, there's a strong audience for the offbeat and campy entries. Campy isn't a mark of shame for horror; it's a term of endearment for anyone who grew up on '80s slashers where the plot took a backseat to fun escapism for an hour and a half.
 
-### 10 Best Horror Video Games of All Time, Ranked
-Sun, 25 Oct 2026 03:39:15 GMT — https://collider.com/best-horror-video-games-of-all-time-ranked/
+### Anne Hathaway’s Thriller Arrives at Home After Being Officially Removed From 1,100 Theaters
+Sun, 25 Oct 2026 13:30:15 GMT — https://collider.com/anne-hathaway-verity-digital-release-date-prime-video-october-2026/
 
-Horror as a genre has always been able to scratch a tantalizing itch in the form of literature or filmmaking, yet the genre arguably is at its absolute best in the playable medium that only video games can provide. Something about having the player actively in danger of the horrors presented, fighting for survival to continue with the story, raises the tension considerably, as there are genuine stakes that result in top-notch scares. While not perfect right out of the gate, horror gaming has evolved considerably over the years to the point where the best horror games are celebrated as some of the greatest horror experiences in any medium .
+After an unexpectedly short theatrical window, Amazon MGM's new psychological thriller will be released on the PVOD market this week. The movie debuted theatrically in early October, amid massive expectations. It did, after all, have the potential to become the new It Ends with Us or The Housemaid , which grossed $350 million and $400 million at the worldwide box office, respectively. Like It Ends with Us , the new Amazon movie is based on a Colleen Hoover bestseller — arguably her most well-known work. Her last two adaptations — Regretting You and Reminders of Him — were able to gross around $90 million each despite being based on less popular novels.
 
-### ‘High Potential’ Fans Missing Season 3 Have the Perfect Replacement on Peacock
-Sun, 25 Oct 2026 03:07:14 GMT — https://collider.com/abc-high-potential-season-3-replacement-fox-bones-peacock/
+### Inde Navarrette Reveals Why ‘Obsession’ Had to Be Her “Calling Card” [Exclusive]
+Sun, 25 Oct 2026 13:15:15 GMT — https://collider.com/obsession-inde-navarrette-nikki-performance/
 
-High Potential has been a breakout hit for ABC , even earning the coveted spot after the upcoming Super Bowl LXI . The procedural follows Morgan Gillory ( Kaitlin Olson ), a single mom with a photographic memory and a knack for relating to strangers, who becomes a consultant for the Los Angeles Police Department. She is paired with Daniel Sunjata ’s Detective Adam Karadec who has a by-the-book approach to crime solving. Based on the French series HPI: Haut Potentiel Intellectuel , it was developed for American audiences by Drew Goddard . There’s been yet another behind-the-scenes shake-up in its short history. Deadline reported Nora and Lilla Zuckerman will take over as showrunners in Season 3, replacing Todd Harthan . He previously took over the role after Rob Thomas ’ exit.
+Getting exactly what you wish for is rarely good news in a horror movie. In Curry Barker ’s Obsession , Bear ( Michael Johnston ) wishes for Nikki ( Inde Navarrette ) to love him more than anyone in the world, setting up a relationship neither of them is prepared for. The premise leaves plenty of room for frightening images, but it also puts an uncomfortable question underneath every interaction: What happens to the person whose feelings have been decided for them?
 
-### 10 Great Books To Read if You Love 'Gone Girl'
-Sun, 25 Oct 2026 02:22:14 GMT — https://collider.com/books-like-gone-girl/
+### Ridley Scott’s Post-Apocalyptic Sci-Fi Thriller Officially Arrives on Digital
+Sun, 25 Oct 2026 13:00:15 GMT — https://collider.com/the-dog-stars-digital-release-date-october-2026/
 
-Gillian Flynn 's Gone Girl was one of the biggest thrillers of the 2010s, conquering the bestseller lists and receiving rave reviews. The David Fincher movie adaptation with Ben Affleck and Rosamund Pike brought it even more attention, delivering one of the all-time best female villains in cinema. The book hooked millions of readers with its intricate plot, unreliable narrators, and portrait of domestic darkness, inspiring a lot of authors to riff on the same recipe.
+Weeks after ending its theatrical run, Ridley Scott 's latest film is set for a PVOD debut. The movie was released at the end of August, and had mostly wrapped up its box-office run by mid-September. It marks Scott's long-awaited return to the genre that he is most commonly associated with, arriving nearly a decade after the sci-fi horror film Alien: Covenant . A few weeks before the film's release, another legendary director made a sci-fi comeback with a movie that fell short of box-office expectations. But that film — Steven Spielberg 's Disclosure Day — seems like a blockbuster compared to Scott's new sci-fi flop.
 
-### 7 Book Series That Peaked With Their Last Entry
-Sun, 25 Oct 2026 02:20:14 GMT — https://collider.com/book-series-peaked-last-entry/
+### The 10 Worst Sequels in Film History
+Sun, 25 Oct 2026 12:56:15 GMT — https://collider.com/worst-movie-sequels/
 
-Ending a beloved book series is notoriously difficult . The longer readers spend with a world and its characters, the more expectations build around the finale, and even an otherwise excellent series can stumble when it's time to deliver long-delayed answers and cathartic goodbyes. Thus, it's no surprise that many beloved sagas end in at least a bit of disappointment.
+The first true feature-length movie sequel is widely considered by film historians to be 1916's The Fall of a Nation , a follow-up to the hyper-controversial D. W. Griffith classic The Birth of a Nation . However, it wasn't until around the 1970s, driven by the rise of blockbuster filmmaking following the release of Steven Spielberg 's Jaws in 1975, that sequels really started to become a widespread commercial trend in the movie industry.
 
-### 6 Most Exciting Mystery Movies of All Time, Ranked
-Sun, 25 Oct 2026 01:33:15 GMT — https://collider.com/most-exciting-mystery-movies-all-time-ranked/
+### 2026’s New R-Rated Horror Movie Officially Removed From Over 1,000 Theaters
+Sun, 25 Oct 2026 12:45:14 GMT — https://collider.com/crawlers-horror-movie-removed-from-1000-theaters/
 
-A great mystery movie turns the audience into an active participant and forces them to spend the entire runtime deciding who to trust and what information might prove to be important later on. That involvement is where the excitement comes from. Mystery movies live and die by this formula, and the best part is that finding the answers doesn’t make a movie less interesting.
+Spiders are the worst , let's just be up front about that. Sure, they eat flies who buzz around bothering us, they spin pretty webs, but they're creepy. The eight legs. All the eyes. They're weird looking, but we love weirdness, don't we? But what about when they're enormous, venomous, and apparently determined to make everybody's lives miserable? Exactly. Nightmare fuel. In fact, so effective are they at scaring people, they seem to have actually put off audiences from wanting to spend any time with them.
 

@@ -1,4 +1,4 @@
-# AI — harvested 2026-10-25T09:24:32.726Z
+# AI — harvested 2026-10-25T14:33:58.906Z
 
 ## OpenAI
 
@@ -6,11 +6,6 @@
 Fri, 23 Oct 2026 17:00:00 GMT — https://openai.com/index/scaling-storage-one-billion-users-part-two
 
 Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
-
-### Securing our frontier model training environment
-Fri, 23 Oct 2026 10:00:00 GMT — https://openai.com/index/securing-our-frontier-model-training-environment
-
-OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.
 
 ## Hugging Face
 

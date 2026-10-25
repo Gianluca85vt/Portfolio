@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-25T09:24:32.726Z
+# Tech — harvested 2026-10-25T14:33:58.906Z
 
 ## Ars Technica
 
@@ -64,6 +64,16 @@ Gamers still hoping against hope for a true follow-up to Half-Life 2 (after so, 
 
 ## The Verge
 
+### r/opensource just banned AI, non-English speakers, and more
+2026-10-25T09:25:32-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
+
+The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, "If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensource. AI, as it exists today, is incongruent to this Open Source community." The new rules have set off a firestorm in the comments, and even spurred the creation of a rival sub r/trueopensource . Moderator Wolvereness has waded into the comments to explain that there's nuance and room for selective enforcement, such as "software that incidentally has accessibility features that use AI," including … Read the full story at The Verge. ]]>
+
+### Google’s AI search changes upended online publishing
+2026-10-25T08:00:00-04:00 — https://www.theverge.com/column/1017983/google-ai-search-online-publishing
+
+This is The Stepback , a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth . The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here . How it started The digital publishing industry has relied on Google for a very long time. Many outlets spent time and money optimizing their webpages to show up at the top of the search engine, with the goal of getting readers to click on their articles or discover their websites for the first time. For years, the relationship between Google and publishers was largely reciprocal; online pub … Read the full story at The Verge. ]]>
+
 ### Blue Planet III is keeping the rough edges in the age of AI
 2026-10-24T17:29:12-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai
 
@@ -104,17 +114,57 @@ Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events
 
 Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot , worked on sequences in The Godfather and Titanic , and directed a few episodes of Twin Peaks . Even still, nothing could quite prepare him for his first stop-motion project: working as the cinematographer on Wildwood , the latest release from Coraline studio Laika . While he knew that stop-motion was a long and involved process, he was still surprised by just how much work went into these movies. "When I started I thought it was one thing, and then I quickly found out that it was another thing … Read the full story at The Verge. ]]>
 
-### It’s time to find a new browser
-2026-10-24T08:00:00-04:00 — https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer
-
-Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge -iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage .) This week, I've been reading about Demis Hassabis and computer chips and permafrost , enjoying the first episodes of Machine Gods , filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password , making tiny documents with Tiny Little O … Read the full story at The Verge. ]]>
-
-### Xbox’s first chief operating officer is out after just a few months
-2026-10-23T17:39:26-04:00 — https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure
-
-Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge . Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted to Xbox chief operating officer in July. Xbox CEO Asha Sharma announced Chiang's departure in a surprisingly short memo today. "Helen Chiang is leaving Microsoft today. I'm grateful for her years of service and wish her well," said Sharma. As Chiang is departing today, her immediate responsibilities are being split up between other Xbox leaders … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases
+Sun, 25 Oct 2026 14:05:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data
+
+Russia has lost another data center in its ongoing conflict with Ukraine after drones hit a government data center in the suburbs of Gorodets, some 230 miles east of the Kremlin and over 600 miles away from the frontlines. According to Data Center Dynamics (DCD) , the freshly drone damaged data center is operated by the Russian Ministry of Finance and was said to hold several state registries, including the Federal Taxation Service’s tax database. “The facility is one of two key data processing centers of the Federal Tax Service of Russia operating in a geo-distributed mode,” DCD reported, citing a Russian media outlet. “The damage to this facility could potentially affect the operation of state information systems of the Russian Federation.” Ukraine has targeted Russian data centers multiple times since the start of October, which it started doing after Moscow escalated the conflict by striking Ukrainian data centers . While the Russian finance ministry reportedly operates two other data centers — one at the Federal Data Processing Center in Dubna, Moscow Region, and another in Yerzovka, Volgograd Region — losing a third of its data centers could have a major impact on government services that it provides. A modern society’s reliance on digital services means that data centers are now critical infrastructure and have become major targets in conflict. Russia’s Yandex bot traffic collapsed after the Ukrainian drone strikes, but its disinformation bot network simply migrated to
+
+### Samsung's new 2TB 990 SSD is 38% off at Amazon today
+Sun, 25 Oct 2026 13:43:37 +0000 — https://www.tomshardware.com/pc-components/ssds/samsungs-new-2tb-990-ssd-is-38-percent-off-at-amazon-today-get-usd200-off-this-pcie-4-0-all-rounder-drive-for-a-limited-time
+
+While SSD pricing isn't quite as bad as what we see in the RAM market, buying more storage for your PC is still quite painful. Samsung recently released a new 'budget' version of its 990 M.2 SSD, and it just got a surprising $200 discount at Amazon. The 990 2TB SSD is now $329 instead of $529, offering a solid 38% saving . ● Grab this deal at Amazon The 990 SSD is an interesting product because it is one of the few SSDs released after the AI pricing crunch sent storage prices into orbit. As such, we know what Samsung thinks this drive is worth in the current climate, namely $529. While 2TB of storage would have been much cheaper a year ago, a 38% discount on a new SSD is not to be sniffed at, especially given all signs point to these drives getting more expensive, not cheaper, in the future. 990 2TB SSD: was $529.99 now $329.99 Save 38% on an M.2 Gen 4 SSD with up to 7,250/6,450 MB/s sequential read/write speeds. View Deal We reviewed this drive at launch last month and liked its full-fledged Gen 4 throughput, decent power consumption, and good all-around performance. The 990 is essentially a QLC-based 990 EVO Plus, featuring Samsung's PiccoloQ controller and V9 QLC Flash memory. As you can see from our testing data, it scores very close to the 990 EVO Plus in latency testing, while beating the 990 EVO drive in bandwidth and 3DMark overall score. Samsung Samsung Samsung This drive also scored well in our PS5 test, so this drive could serve as an expansion drive for your shiny
+
+### Nvidia discusses $2,000-per-GPU annual fee for software that 'runs agents on AI factories'
+Sun, 25 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/pc-components/gpus/nvidia-discusses-usd2-000-per-gpu-annual-software-fee-for-running-agents-on-ai-infrastructure-firm-already-charges-more-than-twice-that-amount-for-its-ai-enterprise-software-platform
+
+Nvidia CEO Jensen Huang has put the annual cost of licensing the company’s AI software at around $2,000 per GPU to 'run all the software that Nvidia provides that runs agents on these AI factories,' according to a recent video of the comments (below), a pricing model that could generate $50 billion over five years under a proposed scenario involving five million paid licenses outlined by FourWeekMBA . Huang discussed the pricing at GTC Berlin on October 22, where the company outlined its broader push to build an AI infrastructure business spanning chips, software and AI-agent security. “Software licensing will become increasingly a major part of our company’s business. The way that we license will be…for example, it’s about $2,000 per GPU per year to run all the software that Nvidia provides that runs agents on these AI factories,” said Huang. The numbers add up quickly. At $2,000 per GPU each year, Nvidia would bring in $10 billion annually if five million GPUs were covered by paid licenses. Over five years, that would amount to $50 billion, provided customers kept renewing their subscriptions. The catch, however, is that Nvidia has not disclosed how many GPUs could be covered by the proposed $2,000 fee, or whether that’s its standard price. It’s also unclear which software the license would cover, or if there is overlap between products. The distinction matters because Nvidia already charges for enterprise software. Its AI Enterprise platform is listed at $4,500 per GPU for
+
+### Jailbroken PS5s can now run Steam PC games
+Sun, 25 Oct 2026 12:40:11 +0000 — https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-steam-pc-games-you-can-now-sign-in-with-your-steam-account-and-install-games-from-your-library-directly-to-the-console
+
+Gamers can now experiment with playing their favorite Steam titles on a jailbroken PlayStation 5 . The game launcher is actually based on the Playden launcher designed for macOS and adapted for the PlayStation, allowing you to sign in with your Steam account and install games from your library directly to the console. Playden for PS5 is a GitHub project that lets you run Steam games on the console, notes VideoCardz . When you launch a game on Playden for PS5, it sets a private Windows environment and is run through prospero-win, which is a PS5 port of Wine . Note that the launcher itself does not run the game — instead it builds a separate PS5 app created for the game that you installed, allowing the Steam title to appear as a separate tile on the console’s home screen. Aside from that, its files, settings, and crashes are isolated from the launcher and other games. There’s also a separate runtime kit that handles Wine for PS5, the required graphics drivers, the Windows environment, and a template app shell for your games. While Playden for PS5 successfully launches Steam games, it does not necessarily mean a smooth start-to-end experience for every title. The creator notes that it’s still in the Alpha stage of development, with X user v7dt1 saying that even though they were able to launch a game, it eventually crashed. On the other hand, u/Cevap shared on the r/PS5_Jailbreak subreddit that they were able to play Portal through the launcher with no issues, except for the lack
+
+### Windows XP debuted 25 years ago today
+Sun, 25 Oct 2026 12:20:00 +0000 — https://www.tomshardware.com/software/windows/windows-xp-debuted-25-years-ago-today-microsofts-biggest-launch-since-95-was-its-first-consumer-os-to-remove-the-dos-underpinnings
+
+Windows XP became available at retailers for the first time on this day back in 2001. It was ushered in with Microsoft's largest and glitziest launch event since Windows 95 , but the bigger news was its delivery of an OS with modern underpinnings and features. Thankfully, it lived up to the hype and would ensure nearly 13 years of favor among enthusiasts, but that might be partly due to the failure of the unloved Vista. (Image credit: Microsoft Windows XP launch) The NYC launch event for Windows XP in 2001 was the centerpiece of a lavish $500 million campaign Microsoft had planned for the new OS. However, celebrations were somewhat muted due to the aftermath of 9/11. Microsoft actually dumped its intended ‘Prepare to Fly’ launch slogan for ‘Yes You Can’ for this obvious reason. Nevertheless, the launch was still a significant event and featured NYC Mayor Rudy Giuliani joining Bill Gates on stage. Gates framed the big launch as evidence that “New York is back and open for business.” There was also a free lunchtime concert in Bryant Park featuring Sting, followed by a Times Square NYC takeover. Meanwhile, retail stores like CompUSA , Circuit City, and Best Buy opened at midnight for eager tech beavers to grab a copy of Windows XP at its freshest. (Image credit: Microsoft Windows XP launch) At the launch presentation, Gates said that the debut of Windows XP represented the end of the era of MS-DOS , which had underpinned a UI or shell known as Windows for many years. For consume
+
+### New CD players keep launching, but a drive shortage could make them unfixable
+Sun, 25 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/peripherals/new-cd-players-keep-launching-but-a-drive-shortage-could-make-them-unfixable-almost-nobody-makes-the-drives-anymore
+
+Even as optical media sees a resurgence and new CD players hit the market , some optical drive and component manufacturers have ended production. As a result, PS Audio and Naim have halted production of their high-end CD players, raising questions about the maintenance and repairability of these new devices. Headphonesty says that of the eight new models, four are from Musical Fidelity, two from Marantz, and one each from Arcam and NAD. Musical Fidelity reportedly sources its key components from SUOS-HiFi, with three of its new models using SUOS disc mechanisms. In contrast, the fourth uses a SUOS-sourced servo but a tray-loading mechanism from an unnamed manufacturer. On the other hand, Marantz reportedly develops its drives in-house, though it’s unclear whether it also outsources production to a third party. As for the two remaining manufacturers, they did not reveal who made their optical drives. PS Audio had to end production of the PMG Super Audio CD Transport because D&M, Marantz’s parent company, has ceased external orders for its optical drives. Although the company bought D&M’s entire remaining stock, it wasn’t enough to keep production going. Naim faced the same issue with its Uniti Star—though it didn't name its optical drive supplier, it had to find an alternative when the manufacturer stopped production. Naim was evaluating a replacement manufacturer when it, too, stopped making the components the Uniti Star needed. While both companies retained some optical driv
+
+### OpenAI's isolated red-team agents built a hidden CPU cache channel to talk with no network or shared files
+Sun, 25 Oct 2026 11:30:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-isolated-red-team-ai-agents-built-a-hidden-cpu-cache-channel-to-talk-with-no-network-or-shared-files-exploited-cpu-cache-timing-to-bypass-microvm-sandboxes
+
+OpenAI’s AI agents built hidden channels to talk across walls put up between them in red-team tests, communicating by manipulating the CPU cache with no network link or shared file, according to a company blog post . The containment was intended to stop that kind of secret-swapping, but the agents found multiple ways around it when asked. Security researchers already showed that a covert cache channel can move data between cloud virtual machines (VMs); a hijacked agent on a shared cloud server could, in theory, exchange data on the same physical machine, and do so undetected by network monitoring. the interesting thing here is that the isolation wasn’t necessarily broken at the software level.the agents were running in separate vms with no permitted network or shared-file channel, but they still shared underlying hardware. and shared hardware means shared microarchitectural state. that’s enough to create a covert communication channel.you can isolate processes, restrict syscalls, block network access, and still have information leaking through timing differences.a pretty remarkable demonstration of why secure agent containment is such a difficult problem. October 24, 2026 The agents in question were set up in separate microVMs, on shared hosts, with OpenAI’s sandboxing software, and were asked to swap synthetic secrets without a network connection or shared writable files. One agent evicted select data from the CPU’s cache while another timed the reloading, enabling the two t
+
+### AMD CEO Lisa Su proposed bringing back the Ryzen 7 5800X3D, set plan in motion before DDR5 shortages
+Sun, 25 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/cpus/amd-ceo-lisa-su-proposed-bringing-back-the-ryzen-7-5800x3d-set-plan-in-motion-before-ddr5-shortages-am4-cpu-considered-a-final-gift-to-loyal-fans-of-the-decade-old-socket
+
+AMD Director of Client Product Management Travis Kirsch sat down with a Japanese publication to share the backstory of the AMD Ryzen 7 5800X3D and its relaunch this year. Kirsch told MyNavi Tech+ [machine translated] that AMD CEO Lisa Su was one of the proponents of bringing back the groundbreaking X3D processor that first debuted in April 2022. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent While some may think this was a simple relaunch of a four-year-old processor, the company had to do extensive re-engineering and update its manufacturing process with TSMC just to bring it back. The decision to relaunch it was well-timed, too. While the world is suffering from extremely high DDR5 memory prices when it finally arrived in the middle of 2026 , Kirsch said that “this was planned before changes in the memory market occurred, not as a countermeasure to DDR5 shortages,” and that it was “the final gift to local users who have used our AM4 for nearly a decade, offering systems that use DDR4 the last change to upgrade their PCs.” Beyond the Ryzen 7 5800X3D, the Japanese publication also touched on AMD’s value of
+
+### Nvidia eyes converting old nuclear plants into massive AI data centers
+Sun, 25 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch
+
+Nvidia is collaborating with German energy firm PreussenElektra GmbH (PEL) to explore converting old nuclear power plants into AI data centers. In an official announcement on October 21st, the U.S. chipmaker and the German firm entered a preliminary partnership to assess whether the latter's decommissioned nuclear power plant sites in Germany can be converted into high-performance AI data centers. The plan does not involve using nuclear power to power any future data centers. Instead, the project is focused on leveraging the existing power, water, and other infrastructure already present at the sites. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play “Our former power plant sites have valuable industrial infrastructure and offer opportunities for new, future-oriented uses. Together with NVIDIA, we intend to conduct a sound assessment of whether and how these conditions can be leveraged for AI factories. In doing so, we are combining the responsible reuse of our sites with new economic opportunities for the regions,” says Guido Knott, Chairman of PEL’s Management Board. The open-ended exploration will assess existing energy grid links, available land, and industrial infrastructure at the former nuclear sites to see 
+
+### Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads
+Sun, 25 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting
+
+Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting “weirdly targeted ads” on their Samsung TV and discovered privacy breaches. As they live-tweeted their discoveries, they found increasingly concerning code in the Tizen operating system, including detailed user telemetry from packet logging, audio categorization, screenshots, cross-device identification for ad tracking, and more, all designed to extract as much user information as possible to improve targeted ads. log4j posted on X that they were concerned with how specific the ads on their 2025 Samsung TV were. They decided to reverse-engineer the Tizen OS on their TV to see what it was doing—they “discovered PRIVACY HORROR,” log4j states, marking the start of subsequent posts sharing more concerning findings. i own a relatively new (2025) samsung tv.i kept getting weirdly targeted ads.i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.zero days it is. root shell on new samsung TVs!discovered PRIVACY HORROR. write up? https://t.co/EsxxCy1b6a October 21, 2026 The tester theorizes that Samsung TVs are so sluggish because they do a lot of post-processing of user data, including audio, screenshots, and AID (a cross-device tracking ID for ads), plus computer vision processing and models running on the TV. The hacker even found a region-specific convolutional neural network (an AI) that tracks user behavior, citing examples like what 
 
 ### Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400
 Sat, 24 Oct 2026 13:58:40 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400
@@ -126,57 +176,37 @@ Sat, 24 Oct 2026 13:42:41 +0000 — https://www.tomshardware.com/software/maps/p
 
 Proton AG, which provides privacy-focused services like Proton Mail and Proton VPN, has decided to host the Flock camera map that security researcher Joshua Michael built from leaked Flock data . While the original Flock Surveillance Map is still available online, its creator is facing legal threats from the company, especially after Flock sent the researcher a cease-and-desist letter. In addition, Michael’s website is accessible only from within the U.S., requiring users outside the country to use a VPN to access it. By contrast, Proton’s Flock camera map is easily accessible worldwide. Its location in Switzerland also makes it a little more complicated for the surveillance company to take legal action. Its move to preserve Michael’s work also follows the company’s privacy ethos. (Image credit: Proton) “You have a right to know who’s recording you when you leave home, especially when a private company controls the data and it’s unclear how law enforcement uses that information,” the company said. “This map lets you search by ZIP code to see where Flock’s license plate readers are located. Use it [to] make informed decisions about how you move through your own area and whether you need to reach out to your municipal leaders.” Flock and other automatic license plate recognition (ALPR) cameras are at the center of the privacy debate between law enforcement and citizens. While the former argues these machines help make communities safer , many of the latter worry about the techn
 
-### Edifier Hecate G2000 Pro Review: Clear and Colorful
-Sat, 24 Oct 2026 13:00:00 +0000 — https://www.tomshardware.com/speakers/edifier-hecate-g2000-pro-review
-
-Why settle for ordinary when you can spice up your gaming setup with a pair of unique-looking RGB-laden desktop PC speakers ? Edifier’s Hecate G2000 Pro speakers instantly stand out in both looks and sound, with the small desktop 2.0 speakers outputting a much larger soundstage than their size would have you believe. These versatile speakers are enjoyable for both gaming and music listening, and offer good value with plenty of connectivity options. Design of the Edifier Hecate G2000 Pro The design of the Edifier Hecate G2000 Pro 2.0 system has a different speaker design that I haven't really seen before: A squished and elongated hexagonal shape, with a clear, see-through speaker enclosure and bright RGB lighting. They look unique and modern, maybe even a little futuristic — and while I’m not a fan of the overuse of RGB lighting in general, I like them. (You can also easily turn the lighting off, so you aren’t left stuck with distracting flashing lights 24/7.) Both speakers aim the sound toward your ears with a 10° tilted angle built into the shape of the speaker, so there's no need for any angled desktop speaker pads or stands. Tom's Hardware Tom's Hardware The right speaker contains all the tech, with controls on the top of the speaker — four rubberized silicone buttons — and power and connectivity options on the rear. The two speakers are connected by a hardwired 1.5-meter braided cord, which is plenty of length for most desk sizes. Large rubber feet on the bottom of the sp
-
-### This week on Tom's Hardware Premium: October 24, 2026
-Sat, 24 Oct 2026 12:25:00 +0000 — https://www.tomshardware.com/tech-industry/this-week-on-toms-hardware-premium-october-24-2026-tp-links-fcc-saga-file-semantic-ssds-and-unlocking-better-gaming-performance-from-rtx-spark
-
-We're back with another weekly roundup, containing everything that we've published on Tom's Hardware Premium this past week. From a brand-new type of SSD to reasons why buying that expensive audiophile-grade headset might not be the wisest idea for gaming, and much more. To read any of the articles featured in this roundup, be sure to subscribe to unlock access. TP-Link’s alleged ties to China have drawn scrutiny from regulators, even though the company says it split from its Chinese parent company back in 2024. With the FCC’s ban on foreign-made consumer routers in place, it has pledged nearly $1 billion in U.S. R&D and manufacturing, and has also signed a letter of intent with Key Tronic to assemble its Wi-Fi 8 routers in Mississippi, hoping to win approval. We chronicle the saga of keeping those routers off U.S. shelves, and how TP-Link hopes that Key Tronic will once again unlock the U.S. market for the networking firm. TP-Link proposes $1 billion US Wi-Fi router manufacturing alliance with Key Tronic — potential deal seeks to end ongoing saga blocking its Wi-Fi 8 products from American homes (Image credit: Future) Last week saw the release of Nvidia's RTX Spark platform, with a brand-new high-end Microsoft Surface Laptop Ultra in tow. However, despite the device's focus on running local AI workloads and inference, it can be a capable gaming machine. There's just one thing getting in its way: a 3:2, 3270x2180 display that demands a lot out of the relatively humble Blackwe
-
-### Valve adds CD-ROM drive support to Steam Frame kernel, took less than ten minutes
-Sat, 24 Oct 2026 12:06:43 +0000 — https://www.tomshardware.com/virtual-reality/valve-adds-cd-rom-drive-support-to-steam-frame-kernel-took-less-than-ten-minutes-update-comes-one-day-after-user-requests-for-capability-in-the-steam-community-forum
-
-A Steam Frame user asked for the ability to use an external optical drive with their headset, and Valve added the feature a day after one of its developers saw the post. Aiodensghost wrote the post in the Steam Frame General Discussions forum , saying that they wanted to watch a movie on the road and install abandonware from 2006 on their device, with Valve developer gaberowe responding a day after. “I wanted to use my Steam Frame to be able to watch a movie on the road and thought it was no big deal to use the detachable disc drive I had on my computer,” Aiodensghost said on Oct. 18. “Turns out that the Frame cannot power the player and even if it could, it lacks the drivers to read a disc. Valve, this not only killed my ability to watch a movie, [but it also] killed my ability to install my abandonware from 2006. You don’t sell NFS Carbon anymore, and while I have the disc, the Frame isn’t able to read it.” Just a day later, gaberowe responded with, “We will look into this. Thanks for alerting us.” The Valve developer then proceeded to add the feature in under 10 minutes, pushing commit b68e4a1 to the deckard-linux-no-oopsies GitHub repository, which is described as “the Linux kernel sources used in SteamOS ARM for the Steam Frame.” While this does not automatically mean that the Steam Frame will get optical drive support in the next update, this development shows that Valve developers take gamers’ requests seriously. More enterprising users who can’t wait for the feature c
-
-### Use your 3D printer to customize this new Stage Tour guitar PC controller
-Sat, 24 Oct 2026 12:00:00 +0000 — https://www.tomshardware.com/peripherals/controllers-gamepads/use-your-3d-printer-to-customize-this-new-stage-tour-guitar-controller-drakongs-infinakore-fender-telecaster-peripheral-is-a-modders-dream
-
-It's been over 20 years since the first Guitar Hero arrived on the gaming scene in 2005 and catapulted music rhythm games to the top of the charts. This was followed by multiple Guitar Hero iterations and competition from rival rhythm games such as Rock Band , and even Clone Hero on the PC. Now, in 2026, band-based rhythm games are due to make a return with the imminent release of Stage Tour from developer RedOctane Games. This brings new opportunities for brand-new music peripherals, and one interesting entry with a unique spin is the InfinaKore Fender Telecaster guitar controller from manufacturer Drakong, which will retail for an MSRP of $129.99 / €129.99 / £119.99 . This new controller has a modular design to let creative users fully customize the guitar to their own look and feel, and even 3D-Print their own parts. Preorder the InfinaKore Guitar Controller at Amazon The premise of open-source and customizable peripherals isn't a new one, but it certainly does make this new guitar controller from Californian-based peripheral maker Drakong (Part of HyperKin) interesting. Being able to take the core of this guitar controller and modify the shape, size, and color of the body and head by 3D printing your ideas or community designs will allow you to instantly transform this controller into something else. (Image credit: Drakong) Apart from the customization aspects of the InfinaKore controller, the guitar peripheral hosts the latest tech, with the top frets using low-profile K
-
-### Texas has suspended 17 data center construction permits and shut down automated portal that rubber-stamped projects
-Sat, 24 Oct 2026 11:35:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/texas-has-suspended-17-data-center-construction-permits-and-shut-down-automated-portal-used-to-approve-them-site-was-left-running-for-a-month-after-greg-abbott-called-for-a-pause-on-approvals
-
-Texas has suspended the construction permits of 17 data center projects and disabled a web portal that automated filing for new permits after it was discovered that they were still being issued a month after calls for the process to be paused. Governor Greg Abbott asked for new permits to be halted in September 2026, but watchdog groups FracTracker Alliance and Public Citizen both published reports detailing more than two dozen permits issued to Texas data center projects, reports 404 Media . Now, the portal that previously automatically authorized permits is unavailable. “TCEQ’s electronic filing application used for automatic authorizations has been temporarily shut down to ensure all applications are reviewed by agency staff to determine if they are related to data centers," a message on the website reads. The portal, called STEERS, is used to rubber-stamp construction approvals. But despite Governor Abbott's call for no new permits to be approved, it seems that nobody thought to take STEERS offline. Sam Law, a researcher at FracTracker, says that it's been happily approving new projects, including those for OpenAI and Amazon that went through the system earlier this week. All 17 of the suspended permits are for stormwater construction, a process that sees construction companies raise and level the ground. It's also a process that is a vital part of the approval process for all construction projects in Texas. Governor Abbot put the brakes on 1,800 data center projects whil
-
-### Leaked video exposes how industrial-scale Chinese factories are dismantling RTX 5090s by the thousands to fuel AI servers
-Sat, 24 Oct 2026 11:15:00 +0000 — https://www.tomshardware.com/pc-components/gpus/leaked-video-exposes-how-chinese-factories-are-stripping-rtx-5090s-to-fuel-ai-custom-partner-cards-to-nvidia-founders-editions-on-the-chopping-block
-
-If you are wondering why the GeForce RTX 5090 , despite being one of the best graphics cards , has evaporated from retail shelves, the answer lies in China’s industrial conversion factories. A newly surfaced video reveals the staggering scale of the country’s grey-market AI operations, showing industrial workshops dismantling brand-new GeForce RTX 5090 graphics cards to repurpose them for the AI boom. Go deeper with TH Premium: GPUs (Image credit: Noctua) Desktop GPU Roadmap Nvidia's Enterprise GPU Roadmap Testing DirectStorage with GPU decompression The GeForce RTX 30-series upgrade matrix — does your Ampere GPU need an upgrade in 2026? Rubin in-depth The Stout Owl: The ultimate Noctua G2 PC So, what exactly is a GeForce RTX 5090 doing in China when the graphics card is not even officially available there? The answer is simple. They are there to be transformed into AI workhorses. The recently leaked footage offers a glimpse inside these Chinese workshops, where skilled technicians meticulously desolder the pricey flagship’s GB202 silicon and GDDR7 memory chips. They then transplant the components into a dual-slot blower design tailored for server use. The GeForce RTX 5090 blower graphics cards will ultimately end up in high-density server racks where they will become the backbone of massive AI compute clusters. The scale and efficiency of these operations are impressive, with production lines converting shipments of brand-new GeForce RTX 5090 graphics cards, from Nvidia's cu
-
-### Russia deploys 3D-printed cruise missiles with US electronics in Ukraine, can hit 500mph with a 745-mile range
-Sat, 24 Oct 2026 10:25:00 +0000 — https://www.tomshardware.com/3d-printing/russia-deploys-3d-printed-cruise-missiles-in-ukraine-can-hit-500mph-with-a-745-mile-range-fears-high-that-cheap-filin-missile-will-be-used-for-missile-spam-tactics
-
-Ukraine's military intelligence agency GUR released details of a new 3D-printed Russian cruise missile that was first deployed around September and October of this year. The missile is faster than traditional weapons, hitting speeds of 500mph, and has a range of over 700 miles. According to Business Insider , these cruise missiles, called “Filin,” are more affordable than the traditional Kh-101 cruise missile that costs more than $2,000,000 per launch. This is why some fear that these weapons would be used by the Russian military in “missile spam” tactics against Kyiv to overwhelm its air defenses. Russia’s invasion of Ukraine, which was originally planned to last just a few weeks, has turned into a multi-year war of attrition. This has made the frontlines a costly effort for both man and machine, which is why both sides are looking for more cost-efficient ways to conduct warfare. While drones have seen widespread use in this conflict, they’re relatively slow and are easier to shoot down. The Geran-5, which has been known to disintegrate in flight , could only hit a maximum speed of 270 mph, while the Filin can reportedly hit speeds of 500 mph and has a range of 745 miles. While this still isn’t as fast as modern fighter jets like the F-16 Fighting Falcon, the increased top speed could make it that much harder for Ukrainian air defenses to deal with the threat. The GUR said that the Filin has a carbon and fiberglass fuselage, while also featuring some 3D-printed parts. It als
-
-### YouTuber escapes the modern AI tech market by recreating his 1996 PC
-Sat, 24 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/exhaustion-with-tech-market-prompts-youtuber-to-remake-their-first-pc-1996-build-fueled-by-nostalgia-and-ai-weariness
-
-These days, it's exceedingly difficult not to be jaded and weary about the tech market. Memory, graphics cards, and now storage are becoming impossible to obtain; there's basically no new consumer hardware being released; and there's AI everywhere. Technology YouTuber TrashBench (TB), too, is tired and was harkening back to the halcyon days when everything was fresh and straightforward — so he went back in time with a retro build. More specifically, he recreated a facsimile of the first machine his parents bought him in 1996 when he was a wee lad, to play The Need for Speed: Special Edition — a PC-improved version of the first ever game in the series. According to the man, it was thanks to this machine that he fell in love with computers in general. TB kicked things off with an Intel Pentium MMX 200 MHz CPU sitting atop an Epox Pronix EP-P55-BT motherboard, boasting what was at the time a new, fresh, convenient ZIF (Zero Insertion Force) socket. This motherboard popped up during the RAM transition from SIMM to DIMM, which is why you'll see two slots of each on the top. 32 MB of RAM went right in, a generous amount for the year. Funnily enough, the CPU barely needed cooling, which is why a simple 40-mm fan suffices, although anyone who's lived through this era will tell you that those were guaranteed to start whining after just a few months of heavy usage. There is no case cooling, as it's just not needed. However, he did need to correctly set the motherboard's jumpers, as suc
-
-### Rare archival footage tours the CompUSA NYC store in November 2000
-Sat, 24 Oct 2026 09:40:00 +0000 — https://www.tomshardware.com/video-games/retro-gaming/rare-archival-footage-tours-the-compusa-nyc-store-in-november-2000-soak-up-some-y2k-pentium-iii-athlon-powerpc-windows-me-chunky-laptop-and-bulging-crt-nostalgia-in-glorious-360p
-
-A video purported to be “authentic, original 360p footage captured inside a CompUSA retail store in New York City” has been shared on YouTube, allowing retro computing fans to step back in time to November 2000. This was the Windows Me , Pentium III, and Athlon era, dominated by computers constructed using a lot of translucent plastics and beige boxes already a distant memory. However, computer stores like this bulged with displays and fast-selling stock before internet shopping would start to eat many of these businesses away. The video reveals a nostalgic CompUSA, greeted by a wall of CRT monitors . The store looks crowded and almost chaotic with peripherals, PCs, and devices - and boxes filling a lot of space in the aisles. The first item is a noteworthy trio of laptops. It looks like three stylish Sony VAIO machines in a line. In the center of this display is probably the most interesting device from the time, which we believe to be a Sony VAIO C1 Series ‘PictureBook’ PCG-C1VN subnotebook. Searches indicate this device was powered by the Transmeta Crusoe TM5600 processor running at 600 MHz, supported by 128MB of SDRAM, and a 12GB HDD. The tiny form factor, weighing in at around 2.2 pounds (1kg), was built around an 8.9-inch TFT display of 1024 x 480 pixels. It also had a dGPU, an ATI Rage Mobility with 8MB dedicated VRAM. Above this trio of laptops, there's a spec card for one of the larger laptops available in store. Squinting at the 360p video, it appears the unnamed po
-
-### Razer Basilisk V4 Pro Review: Tried and true and now with AI
-Fri, 23 Oct 2026 16:00:00 +0000 — https://www.tomshardware.com/peripherals/gaming-mice/razer-basilisk-v4-pro-review
-
-Razer has been updating its gaming mouse lineup systematically over the past two years, and it's finally the Basilisk's turn to get a real update. The last update we saw to the Basilisk line was the Basilisk V3 Pro 35K in October 2024, which was basically just the Basilisk V3 Pro with a new sensor. The Basilisk isn't Razer's most popular gaming mouse line, but it is the more versatile, all-rounder line for people who aren't chasing performance above all else. The Basilisk V4 Pro maintains the general design of its predecessor — a contoured, right-handed gaming mouse with bright RGB lighting and a handful of extra buttons, for the serious gamer who isn't trying to break esports records. It features Razer's newest Focus Pro 50K optical sensor, gen-4 optical mouse switches, and up to an 8,000 Hz polling rate, plus multiple forms of connectivity and up to 200 hours of battery life (over 2.4GHz at 1,000 Hz). It is admittedly pricey, like all of Razer's flagship mice, at $169.99 for both colorways (black and white), and it launched with Razer's Mouse Dock V2 Pro — which is sold separately for $69.99. Design and Comfort of the Basilisk V4 Pro Following in the footsteps of its other recent next-gen mouse launches, Razer has kept the design of the Basilisk V4 Pro largely the same. The Basilisk V4 Pro has basically the same size and shape as its predecessor — it has a right-handed ergonomic shape with a contoured thumb rest and a hump that sits slightly back and to the left. It has lar
-
 ## Phoronix
+
+### Linux 7.4 Sound Changes Merged: "The AI Flood Continues"
+Sun, 25 Oct 2026 10:01:55 -0400 — https://www.phoronix.com/news/Linux-7.4-Sound
+
+Linux sound subsystem maintainer Takashi Iwai of SUSE began the Linux 7.4 sound pull request by noting that "the AI flood continues" with there continuing to be a lot of new patches coming as a result of AI/LLM agents devising patches as well as uncovering new kernel bugs...
+
+### Cheap GameSir Nova Lite Gaming Controller Supported By Linux 7.4
+Sun, 25 Oct 2026 06:57:01 -0400 — https://www.phoronix.com/news/Linux-7.4-Input
+
+Following all the HID driver updates/additions in Linux 7.4, the input subsystem changes were merged this weekend for this new kernel version...
+
+### AV2 Video Codec Adoption Talked Up, SVT-AV2 Being Developed
+Sun, 25 Oct 2026 06:42:00 -0400 — https://www.phoronix.com/news/AV2-Adoption-Plus-SVT-AV2
+
+Back in May the AV2 v1.0 specification was released for this next-generaton, royalty-free video codec. This week the Alliance For Open Media issued a press release talking up the early adoption of AV2...
+
+### Realtek rtl8723bs Driver Deleted From Staging Area In Linux 7.4
+Sun, 25 Oct 2026 06:27:17 -0400 — https://www.phoronix.com/news/Linux-7.4-Staging
+
+After nearly a decade in the Linux kernel's staging area and being worked on by many different kernel developer newcomers, the Realtek rtl8723bs was deleted from the staging area. This comes as Realtek rtl8723bs was added onto the more mature RTW88 driver in the Linux networking subsystem...
+
+### AMD 600 Series Chipsets Now Have Temperature Monitoring Support On Linux
+Sun, 25 Oct 2026 06:14:00 -0400 — https://www.phoronix.com/news/AMD-600-Series-Linux-Temp
+
+With the Linux 7.4 kernel and also marked for back-porting to the v7.2 and v7.3 series is finally the ability to monitor temperature sensors on AMD 600 Series chipsets that launched alongside the Ryzen 7000 series processors...
+
+### Google s C Binder Driver Removed With Rust Binder Ready For "Few Billion Devices"
+Sun, 25 Oct 2026 05:59:30 -0400 — https://www.phoronix.com/news/Linux-7.4-Char-Misc
+
+Linus Torvalds merged the "char/misc" changes for the Linux 7.4 kernel driver on Saturday. Most notable this cycle for char/misc is what's being removed: Google's C-written Binder driver has left the kernel with the Rust-based modern Binder driver ready to take for the role of being used by all future Android devices...
 
 ### Linux 7.4 Block Updates Range From Floppy Disk Driver Fixes To Apple M4 NVMe Support
 Sat, 24 Oct 2026 20:42:28 -0400 — https://www.phoronix.com/news/Linux-7.4-Block
@@ -208,37 +238,12 @@ Sat, 24 Oct 2026 06:12:15 -0400 — https://www.phoronix.com/news/Wild-0.11-Rele
 
 Wild 0.11 is out as the latest feature release of this very fast linker currently targeting Linux systems and focused on iterative development...
 
-### Linux 7.4 Graphics Driver Changes Headlined By AMDGPU HDMI 2.1 Features
-Sat, 24 Oct 2026 06:00:00 -0400 — https://www.phoronix.com/news/Linux-7.4-Graphics-Drivers
-
-Merged overnight were all the Direct Rendering Manager (DRM) driver updates consisting of many kernel graphics/display driver improvements. Arguably most exciting with these updates for Linux 7.4 is the AMD Radeon (AMDGPU) driver seeing HDMI 2.1 FRL enabled by default along with other HDMI 2.1 features...
-
-### KDE Plasma 6.9 Stabilizes KWin s Wayland Picture-In-Picture Support
-Fri, 23 Oct 2026 20:56:16 -0400 — https://www.phoronix.com/news/KDE-Plasma-6.9-Wayland-PiP
-
-With the wonderful KDE Plasma 6.8 having shipped just more than one week ago, KDE developers are beginning to go heavy on new features for Plasma 6.9...
-
-### OBS Studio 33.0 Released With Massive Update To CEF, Improved Plugin Loading
-Fri, 23 Oct 2026 19:15:47 -0400 — https://www.phoronix.com/news/OBS-Studio-33.0
-
-OBS Studio 33.0 is out tonight as the latest major update to this popular open-source and cross-platform video recording and live streaming application...
-
-### Linux 7.4 Merges Slab Updates With A Nice Performance Improvement
-Fri, 23 Oct 2026 16:27:50 -0400 — https://www.phoronix.com/news/Linux-7.4-Slab-Updates
-
-The slab pull request was just merged for Linux 7.4. For end users nothing too incredibly exciting but there is one change that does yield a 24% throughput improvement in a benchmark exercising the kernel's memory management subsystem...
-
-### HPFS Is The Latest File-System Facing Possible Removal On Linux
-Fri, 23 Oct 2026 12:27:08 -0400 — https://www.phoronix.com/news/HPFS-For-Linux-Removal
-
-HPFS is the latest file-system driver for the Linux kernel facing possible removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...
-
-### Borealis: Asahi Linux s Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding
-Fri, 23 Oct 2026 12:00:38 -0400 — https://www.phoronix.com/news/Borealis-Vulkan-Driver
-
-Seeing a Vulkan API driver pull request this morning for introducing a new "Borealis" driver ID caught me by surprise as it was the first time I was hearing of such a driver. It turns out to be a fork of the Asahi Linux project's HoneyKrisp driver in Mesa for Apple Silicon hardware...
-
 ## The Register
+
+### Want to build a UK datacenter? Please hold while Whitehall transfers you
+Sun, 25 Oct 2026 10:39:00 +0000 — https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956
+
+Building a UK datacenter spans three government departments: one handles datacenter policy, another telecoms, and a third energy. MPs this week explored what Prime Minister Andy Burnham's summer reshuffle means for businesses navigating Whitehall. Liz Lloyd, parliamentary under-secretary of state, sits across two departments with a portfolio of responsibilities as long as a weekly shopping list. She explained to MPs this week that, following the decision to get rid of the Department for Science, Innovation and Technology (DSIT), liaison with the tech industry on datacenter construction fell to the Department for Business, Innovation, Science and Trade (BIST). Lloyd, who works across BIST and the Department for Digital, Culture, Media and Sport (DCMS), went on to explain that digital infrastructure sits within DCMS. Speaking to the House of Commons Science and Technology Committee, Lloyd acknowledged that some departmental responsibilities overlapped. "In terms of sector responsibilities, that is clear that technology, sorry, that telecom sits with DCMS and datacenters with BIST. When you're actually in an industry or you're trying to run a business, that that that is clear," the junior minister said. Any business trying to build a datacenter might also want to know how to get power to it. As far as The Register can figure out, that would be the Department for Energy and Net Zero. Planning permission rests with local government, although the overall policy lies with the Minist
 
 ### <span data-lab-italic_desktop="italic" class="italic m-italic">Reg</span> readers land on 'Binface' as name for UK space cleanup mission
 Sun, 25 Oct 2026 09:00:00 +0000 — https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144
@@ -290,17 +295,42 @@ Fri, 23 Oct 2026 14:35:00 +0000 — https://www.theregister.com/os-platforms/202
 
 SparkyOS is a novel distro from the folks behind SparkyLinux: it's a version of Arch that can you can use without installing it at all. SparkyOS is a new distro from the team behind the Debian-based SparkyLinux, but it's quite different. SparkyOS is based on Arch, and it runs entirely from USB. It's not a conventional live medium – this is a full local install, but shipped as an image of a USB key that you can boot and run. It comes with the Xfce desktop and an array of apps. The idea is that you can boot and run it on any x86-64 UEFI computer, entirely from a USB key, without touching the hard disk at all. This is quite different from its forerunner, which is a relatively conventional Debian-based distro, one which The Register has mentioned a few times over the years: first back in 2015 in a lightweight distro roundup , and more recently in 2024 when we praised its array of desktop environments . Earlier this year, we noted that the latest SparkyLinux featured a complete 32-bit edition , even though its parent distro has dropped its 32-bit x86 kernel . This is also not your typical live distro. Unless you're running on some Arm computer with nonstandard firmware, most Linux distros install from an image written to a USB pendrive, the same way that they did decades ago: in the noughties when they installed from a DVD, and back in the 20th century, when it was a CD instead. Most optical media use some form of the ISO standard 9660 filesystem , which is quite limited – despite
 
-### PubKeep picks up where Microsoft Publisher signs off
-Fri, 23 Oct 2026 13:34:00 +0000 — https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978
-
-Microsoft ended support for Publisher this month, but users with orphaned documents still have options. Support for perpetual versions ended on October 13, but those copies will keep working without further security updates, bug fixes, or technical support. Publisher left Microsoft 365 subscriptions on October 1, although existing installations may remain accessible until removal updates arrive. Those start reaching Current Channel devices in mid-November and Monthly Enterprise Channel devices in early December. Microsoft first let users know in 2024 that the venerable application would be scrapped, and the Windows behemoth offered little comfort to those who needed it. Microsoft suggested Word and PowerPoint as alternatives, but neither directly opens Publisher's .pub files. The Document Foundation, the organization behind LibreOffice, was quick to point users toward LibreOffice Draw , which uses the libmspub library to import Publisher files and can save them in OpenDocument Format (ODF). Other alternatives aim to recreate more of the Publisher experience. Adam Anderly, founder of Texas-based Saint Systems, created PubKeep to replace Microsoft's application. PubKeep is proprietary, with no plans to open source the code. But it doesn't require a subscription: a one-time payment of $99 buys the application. The application runs on Windows or macOS, and a lightweight browser version is available. It looks a lot like Publisher, and can handle files from Publisher 2000 through 2
-
-### Musk disputes NASA safety panel's lunar launch estimates
-Fri, 23 Oct 2026 12:29:00 +0000 — https://www.theregister.com/science/2026/10/23/musk-disputes-nasa-safety-panels-lunar-launch-estimates/5304961
-
-NASA's safety watchdog, the Aerospace Safety Advisory Panel (ASAP), had good news and bad news for the space agency, and SpaceX boss Elon Musk quickly disagreed with some of it. Musk disputed the reported suggestion that approximately 22 launches might be needed to support a landing by the Human Landing System (HLS) variant of Starship on the Moon. "That's way too high," Musk responded on X. "Actual number will be more like 6 to 8." The US lunar landers being developed for Artemis require refueling in space, meaning additional launches to deliver propellant before astronauts can head to the surface. During Apollo, a single Saturn V launch was enough to send a fully fueled Lunar Module to the Moon. The problem is demonstrating reliable transfers of cryogenic propellant between spacecraft at the scale these heavier, more complex landers require. Apollo's Lunar Module used hypergolic propellants instead. To date, SpaceX has managed one Starship test flight to orbit. Many more will undoubtedly follow, but if the launch figure cited by the panel is accurate, Musk's rocketeers face a challenging road ahead. Even with the rescoping that made Artemis III a low Earth orbit demonstration of lunar technologies from Blue Origin and SpaceX in 2027, the Artemis program remains ambitious, particularly considering the desire to get humans on the lunar surface before President Trump leaves office. ASAP praised Artemis II and NASA's new administrator, Jared Isaacman, but raised concerns about 
-
 ## Engadget
+
+### Why are earbuds usually cheaper than headphones?
+Sun, 25 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/
+
+Earbuds tend to be smaller and less complex to build than headphones.
+
+### Samsung probably isn't rebranding One UI as Galaxy OS
+Sun, 25 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/
+
+A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.
+
+### Quantum computers can get colder than deep space — Here's how they stay running
+Sun, 25 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/
+
+Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.
+
+### Don't throw away your old Chromebook (even if you're getting a Googlebook)
+Sun, 25 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/
+
+There's plenty an old Chromebook can do, even if it's not your main computer.
+
+### When AI glasses could be a worthy headphones replacement
+Sun, 25 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/
+
+Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.
+
+### Don't throw away your old speakers — Use them for your TV instead
+Sun, 25 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/
+
+Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.
+
+### Smart bulbs are easy to install, but this smart home upgrade is more inclusive
+Sun, 25 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/
+
+Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.
 
 ### Here's what you need to know before buying a wireless CarPlay adapter
 Sun, 25 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/
@@ -327,42 +357,12 @@ Sat, 24 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2292646/ev-battery-
 
 Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.
 
-### What kind of cooling system do EV batteries use and how does it work?
-Sat, 24 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2292606/ev-battery-cooling-system-how-works/
-
-Electric cars need incredibly large batteries that offer long driving ranges and charge quickly, but remain cool when under load. This is how they do so.
-
-### What are the different types of digital wallets?
-Sat, 24 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2292582/different-types-digital-wallet-explained/
-
-Digital wallets can completely remove the need to carry cards and cash, but there's a lot more to them than just your usual Apple, Samsung and Google offerings.
-
-### The pros and cons of using an eSIM over a physical SIM card
-Sat, 24 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2292112/using-esim-vs-physcial-sim-card-pros-and-cons/
-
-eSIMs are more convenient than physical SIM cards in many ways, but they aren't a 100 percent upgrade.
-
-### Google is quietly linking your phone number to other Android accounts
-Sat, 24 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2292018/google-quietly-linking-phone-number-to-android-accounts/
-
-Adding a new SIM to your phone links it to all Google accounts, and any new Google accounts you add all inherit your phone number.
-
-### Why the wires in your ethernet cables are twisted
-Sat, 24 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2294278/why-wires-in-ethernet-cable-twisted-explained/
-
-There's a good reason for that arrangement.
-
-### Steam rolls out Personal Calendar feature that constantly updates recommended games
-Sat, 24 Oct 2026 18:09:54 +0000 — https://www.engadget.com/2296237/steam-rolls-out-personal-calendar-feature-that-constantly-updates-recommended-games/
-
-You can try out the new feature on the Steam store's homepage.
-
-### Xbox Game Pass could let you pick which features you pay for
-Sat, 24 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2296222/xbox-game-pass-pick-which-features/
-
-Microsoft is reportedly planning to let subscribers build their own Game Pass bundle rather than pay for set tiers.
-
 ## TechCrunch
+
+### The hottest AI wearables and gadgets you should know about
+Sun, 25 Oct 2026 14:10:00 +0000 — https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/
+
+We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.
 
 ### Starlink seems to be working normally again in Ukraine
 Sat, 24 Oct 2026 20:46:34 +0000 — https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/
@@ -418,9 +418,4 @@ We created a list of the most notable AI agents that can live in your text messa
 Fri, 23 Oct 2026 23:07:45 +0000 — https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
 
 At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
-
-### OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
-Fri, 23 Oct 2026 23:05:49 +0000 — https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/
-
-OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.
 

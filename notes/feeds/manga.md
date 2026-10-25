@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-25T09:24:32.726Z
+# Manga — harvested 2026-10-25T14:33:58.906Z
 
 ## Anime News Network
+
+### Yen Press Licenses Cross-Dressing Villainess Cecilia Sylvie: Extra Round!, 'And Thus, the Wizard Noi Garené Became a Bride 100 Years Later,' 8 More Titles
+Sun, 25 Oct 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/yen-press-licenses-cross-dressing-villainess-cecilia-sylvie-extra-round-and-thus-the-wizard-noi-/.243162
+
+Also: <cite>Secret: Homicide Edition</cite>, <cite>About a Place in the Kinki Region</cite>, more
+
+### BanG Dream! It's MyGo!!!!! // Ave Mujica Anime's 2nd Teaser Unveils January 8 Debut
+Sun, 25 Oct 2026 08:33:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/bang-dream-its-mygo-ave-mujica-anime-2nd-teaser-unveils-january-8-debut/.243183
+
+Sequel TV anime to air in NTV's "Friday Anime Night" block
+
+### King's Proposal Anime Unveils 2027 Debut, Lead Cast, Teaser Visual
+Sun, 25 Oct 2026 07:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/king-proposal-anime-unveils-2027-debut-lead-cast-teaser-visual/.243165
+
+Rie Takahashi stars as Saika Kuozaki
+
+### Our Last Crusade or the Rise of a New World Anime Gets 3rd Season, Reveals Returning Cast & Staff
+Sun, 25 Oct 2026 06:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/our-last-crusade-or-the-rise-of-a-new-world-anime-gets-3rd-season-reveals-returning-cast-and-staff/.243175
+
+2nd season director Yuki Inaba, character designer Kaori Yoshikawa return for new season
+
+### Date A Live F Last Date Anime Reveals Film Format, March 26, 2027 Opening in Teaser Video
+Sun, 25 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174
+
+2 returning staff members also announced
 
 ### Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer
 Sun, 25 Oct 2026 05:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178
@@ -37,36 +62,41 @@ Sat, 24 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/ghos
 
 The director of <i>Sonny Boy</i> asks, “What if Haruhi Suzumiya had an emo phase?”
 
-### The Apothecary Diaries Season 3 ‒ Episode 52
-Sat, 24 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/the-apothecary-diaries-season-3/episode-52/.243161
-
-Right now Maomao's got bigger bugs to fry than romance.
-
-### STEEL BALL RUN JoJo's Bizarre Adventure ‒ Episode 5
-Sat, 24 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/steel-ball-run-jojo-bizarre-adventure/episode-5/.243160
-
-With the berating thematic heart of <i> Steel Ball Run</i> now laid bare, the race can really begin and I feel so lucky to be alive at a time when I can experience this story in this way.
-
-### Love Live! x Space Battleship Yamato Crossover Art Unveiled
-Sat, 24 Oct 2026 05:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-24/love-live-x-space-battleship-yamato-crossover-art-unveiled/.243154
-
-Has the crew of the legendary space battleship become school idols?
-
-### Kaiju No. 8 Anime's 'Conclusion Arc' Revealed as Film Opening in 2027
-Sat, 24 Oct 2026 03:01:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/kaiju-no-8-anime-conclusion-arc-revealed-as-film-opening-in-2027/.243156
-
-Shigeyuki Miya returns to direct the film at Production I.G
-
-### Bandai Namco Cross Store & The Gundam Base's Mall of America Openings Rescheduled
-Fri, 23 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-23/bandai-namco-cross-store-and-the-gundam-base-mall-of-america-openings-rescheduled/.243139
-
-New opening date at Minneapolis is October 30
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### King’s Proposal Anime Reveals Main Cast, Teaser Visual, 2027 Premiere Date
+Sun, 25 Oct 2026 12:50:29 GMT — https://animecorner.me/kings-proposal-anime-reveals-main-cast-teaser-visual-2027-premiere-date/
+
+The previously announced King's Proposal anime revealed its main cast, teaser visual, and a&hellip;
+
+### Our Last Crusade or the Rise of a New World Season 3 Officially Announced
+Sun, 25 Oct 2026 11:47:19 GMT — https://animecorner.me/our-last-crusade-or-the-rise-of-a-new-world-season-3-officially-announced/
+
+Our Last Crusade or the Rise of a New World Season 3 has officially been announced, with a teaser visual and new story intro revealed.
+
+### BLEACH: Thousand-Year Blood War Episode 50 (Finale) Preview, Staff, and Synopsis Revealed
+Sun, 25 Oct 2026 11:07:44 GMT — https://animecorner.me/bleach-thousand-year-blood-war-episode-50-finale-preview-staff-and-synopsis-revealed/
+
+BLEACH: Thousand-Year Blood War (TYBW) Part 4 has revealed the preview for Episode 10 (Episode 50 overall and anime finale).
+
+### Akane-banashi Season 2 Reveals New Visual, Trailer
+Sun, 25 Oct 2026 11:02:52 GMT — https://animecorner.me/akane-banashi-season-2-reveals-new-visual-trailer/
+
+Akane-banashi Season 2 revealed a new visual and trailer on Sunday. The sequel is&hellip;
+
+### MyGO and Ave Mujica Anime Sequel Reveals January 8 2027 Release Date
+Sun, 25 Oct 2026 10:53:37 GMT — https://animecorner.me/mygo-and-ave-mujica-anime-sequel-reveals-january-8-2027-release-date/
+
+The upcoming anime sequel to MyGO and Ave Mujica, titled MyGO and Ave MujicaMyGO&hellip;
+
+### Date A Live F Last Date Anime Film Key Visual and Trailer Revealed, Gets March 26, 2027 Premiere Date
+Sun, 25 Oct 2026 10:51:35 GMT — https://animecorner.me/date-a-live-f-last-date-anime-film-key-visual-and-trailer-revealed-gets-march-26-2027-premiere-date/
+
+DATE A LIVE F Last Date anime film revealed a new key visual and trailer, along with a March 26, 2027 theatrical release date in Japan.
 
 ### Genshin Impact Version 7.2 Unites Teyvat's Seven Nations Against Looming Annihilation
 Sun, 25 Oct 2026 01:43:48 GMT — https://animecorner.me/genshin-impact-version-7-2-unites-teyvats-seven-nations-against-looming-annihilation/
@@ -98,42 +128,22 @@ Fri, 23 Oct 2026 15:50:48 GMT — https://animecorner.me/ave-mujica-releases-bad
 
 Ave Mujica released a music video for one of their latest songs, "BADDY BADDY"&hellip;
 
-### Cyberpunk: Edgerunners 2 Original Score and Soundtrack Albums Released
-Fri, 23 Oct 2026 14:28:54 GMT — https://animecorner.me/cyberpunk-edgerunners-2-original-score-and-soundtrack-albums-released/
-
-CYBERPUNK: EDGERUNNERS 2 has released two official music albums following the anime’s Netflix debut on October 20, 2026.
-
-### Takopi’s Original Sin Movie Reveals Main Trailer With New Scenes, Key Visual and Tele Theme Song
-Fri, 23 Oct 2026 13:34:36 GMT — https://animecorner.me/takopis-original-sin-movie-reveals-main-trailer-with-new-scenes-key-visual-and-tele-theme-song/
-
-Takopi’s Original Sin -Thank You, See You Tomorrow- movie revealed a new key visual and main trailer ahead of its November 27 premiere in Japan.
-
-### BLEACH Mirrors High Surpasses 1 Million Pre-Registrations Worldwide, New Launch Rewards Unlocked
-Fri, 23 Oct 2026 13:34:32 GMT — https://animecorner.me/bleach-mirrors-high-surpasses-1-million-pre-registrations-worldwide-new-launch-rewards-unlocked/
-
-Bandai Namco Entertainment has announced that BLEACH Mirrors High has surpassed 1 million pre-registrations&hellip;
-
-### Fall 2026 Anime Rankings – Week 3
-Fri, 23 Oct 2026 12:30:00 GMT — https://animecorner.me/fall-2026-anime-rankings-week-3/
-
-The third weekly poll for the Fall 2026 anime season has concluded, and BLEACH:&hellip;
-
-### Ghost in the Shell New Anime Project by Science SARU Announced
-Fri, 23 Oct 2026 12:06:31 GMT — https://animecorner.me/ghost-in-the-shell-new-anime-project-by-science-saru-announced/
-
-A new Ghost in the Shell anime project has officially entered production, with Science SARU once again handling the animation.
-
-### Made in Abyss Theatrical Series Part 2 Announced, New Key Visual Revealed
-Fri, 23 Oct 2026 11:35:38 GMT — https://animecorner.me/made-in-abyss-theatrical-series-part-2-announced-new-key-visual-revealed/
-
-The second installment in the new Made in Abyss theatrical series is officially in production, continuing the story after the first film.
-
 ## MyAnimeList News
 
-### New Ghost in the Shell Anime Project in Production
-Fri, 23 Oct 2026 04:44:38 -0700 — https://myanimelist.net/news/74850349?_location=rss
+### Ousama no Propose Reveals Lead Cast, 2027 Debut
+Sun, 25 Oct 2026 04:54:50 -0700 — https://myanimelist.net/news/74861034?_location=rss
 
-The Dover Street Market Ginza Open House public event announced on Friday that a new Koukaku Kidoutai (The Ghost in the Shell) anime project is in production, revealing an announcement visual (pictured). Animation studio Science SARU will be producing the new anime project. Produced by Science SARU, the 10-episode season adapting Masamune Shirow s sci-fi action manga premiered in Summer 2026. Amazon Prime Video streamed the anime with subtitles and dubs in multiple languages. The latest ins...
+The Fantasia Bunko Daikanshasai 2026 event revealed the lead cast and a teaser visual (pictured) for the television anime adaptation of Koushi Tachibana s Ousama no Propose (King&rsquo;s Proposal) light novel on Sunday. The anime series will premiere in 2027. Rie Takahashi (Kono Subarashii Sekai ni Shukufuku wo!) is starring as the lead character Saika Kuozaki. Tachibana (Date A Live) began penning the action fantasy light novel with illustrations by Tsunako under Fujimi Fantasia Bunko impr...
+
+### Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 3 in Production
+Sun, 25 Oct 2026 03:30:02 -0700 — https://myanimelist.net/news/74860120?_location=rss
+
+The Fantasia Bunko Daikanshasai 2026 event announced a third season for the Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Our Last Crusade or the Rise of a New World) anime series on Sunday, revealing the main staff, cast, and a teaser visual (pictured). Staff Director, Series Composition: Yuki Inaba (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II) Character Design: Kaori Yoshikawa (Kaminaki Sekai no Kamisama Katsudou) Studio: Studio Palette, Silve...
+
+### Akane-banashi 2nd Season Reveals Additional Cast, Teaser Promo
+Sun, 25 Oct 2026 02:53:07 -0700 — https://myanimelist.net/news/74860669?_location=rss
+
+The special livestream presentation for the television anime adaptation of Yuuki Suenaga and Takamasa Moue s Akane-banashi manga revealed a pair of additional cast, key visual (pictured), and teaser promotional video for the second season on Sunday. The anime series will begin airing on the IMAnimation programming block on TV Asahi s 24 affiliate stations, as well as BS Asahi and other stations in January 2027. Voice actors Taku Yashiro (Fumetsu no Anata e) and Youji Ueda (Sousou no Fr...
 
 ## Otaku USA
 

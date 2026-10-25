@@ -29,7 +29,7 @@ _Nothing else dated in the window._
 
 ---
 
-*1500 upcoming titles scanned, 1280 with a firm date inside
+*1500 upcoming titles scanned, 1286 with a firm date inside
 14 days, 2 above the price line. Titles showing
 "Q4 2026" or "To be announced" are dropped: a quarter says nothing about when
 reviews arrive.*
