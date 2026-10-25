@@ -1,16 +1,12 @@
-# AI — harvested 2026-10-25T14:33:58.906Z
+# AI — harvested 2026-10-25T19:15:06.355Z
 
 ## OpenAI
 
-### Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
-Fri, 23 Oct 2026 17:00:00 GMT — https://openai.com/index/scaling-storage-one-billion-users-part-two
-
-Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.
+_Nothing in the last 48 hours._
 
 ## Hugging Face
 
-### LitPivot: Developing research ideas through dynamic contextualization within the literature landscape
-Fri, 23 Oct 2026 16:15:50 GMT — https://huggingface.co/blog/allenai/litpivot
+_Nothing in the last 48 hours._
 
 ## Google DeepMind
 

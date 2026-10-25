@@ -1,6 +1,46 @@
-# Film & TV — harvested 2026-10-25T14:33:58.906Z
+# Film & TV — harvested 2026-10-25T19:15:06.355Z
 
 ## Variety
+
+### Holland Taylor Says She Was ‘Never Paid Very Well’ on ‘Two and a Half Men’: ‘I Got Four Emmy Nominations, and They Never Gave Me a Raise’
+Sun, 25 Oct 2026 18:55:48 +0000 — https://variety.com/2026/tv/news/holland-taylor-left-two-and-a-half-men-1236930648/
+
+Holland Taylor is speaking out about why she didn’t renew her contract on “Two and a Half Men.” The actress spent six years as Evelyn Harper, the mother of Charlie (Charlie Sheen) and Alan (Jon Cryer), on the CBS sitcom. She recently revealed that part of the reason she left the show was due to [ ]
+
+### Man Arrested on ‘Miami Vice ‘85’ Brooklyn Set After Brandishing a Knife
+Sun, 25 Oct 2026 18:37:53 +0000 — https://variety.com/2026/film/news/miami-vice-85-man-arrested-on-set-1236930692/
+
+The Brooklyn set of “Miami Vice ‘85” was disrupted when a man was arrested after brandishing a knife around crew members on Friday. The man, whom the New York Police Department confirmed as 23-year-old Alex Perez of Brooklyn, was charged with menacing and criminal possession of a weapon after being arrested around 11 p.m. The [ ]
+
+### Elon Musk’s Grok Releases First AI-Generated Odyssey Episode, Months After Promising Historically Accurate Full-Length Film
+Sun, 25 Oct 2026 17:22:45 +0000 — https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/
+
+Months after Elon Musk promised that his AI tool Grok Imagine would create an entirely AI-generated, feature-length version of The Odyssey, the tech mogul has partially followed through on the claim. On Friday, the company shared the first 7-minute, AI-generated episode of the Odyssey series on X. The account also credited the “creative collaboration” to [ ]
+
+### DJ Pikachu: Pokémon Goes EDM With Lasers, Battles and Marshmello in 30th Anniversary Concert at Intuit Dome
+Sun, 25 Oct 2026 17:08:29 +0000 — https://variety.com/2026/digital/news/pokemon-marshmello-concert-30th-anniversary-1236930618/
+
+Gotta rave em all! Pokémon celebrated its 30th anniversary with an epic EDM concert at LA s Intuit Dome with DJs Marshmello and Alison Wonderland on Saturday night. Billed as Pokémon Night Out, the show mixed together the creatures from the popular video games and trading cards with the lasers, pyrotechnics and mind-blowing visuals of EDM [ ]
+
+### Jessica Biel Says ‘7th Heaven’ Reboot Will ‘Modernize’ the Show Now That TV Has ‘Less Limitations’: ‘We Were Very Careful About What Our Audience Wanted’
+Sun, 25 Oct 2026 16:14:43 +0000 — https://variety.com/2026/tv/news/jessica-biel-7th-heaven-reboot-producer-1236930631/
+
+Nearly 20 years since the conclusion of “7th Heaven,” and over a year since the news broke about its reboot, original star Jessica Biel is giving fans an update on the new iteration of the show, including how she plans to “modernize” it for today s audience and what she hopes to accomplish on set as [ ]
+
+### Box Office: You Can See Everything Scores $19.5 Million in Huge Second Weekend, Clayface Leads With $24 Million Debut
+Sun, 25 Oct 2026 15:13:28 +0000 — https://variety.com/2026/film/box-office/you-can-see-everything-box-office-huge-second-weekend-clayface-leads-1236930604/
+
+Just when you thought you d seen everything A three-hour documentary (in its second weekend of release) has earned almost as much as a new comic-book adaptation at the domestic box office. Although Warner Bros. and DC s R-rated Clayface was comfortably at No. 1 with $24 million from 3,458 North American theaters in its debut, A24 s [ ]
+
+### ‘The New Stanford Prison Experiment’ Creators Break Down Its Shocking Finale
+Sun, 25 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/the-new-stanford-prison-experiment-finale-shocker-netflix-1236930530/
+
+SPOILER ALERT: This story contains spoilers from “The New Stanford Prison Experiment,” now streaming on Netflix. “The New Stanford Prison Experiment” ends on a far more hopeful note than Stanford psychology professor Philip Zimbardo’s original 1971 trial. The first iteration of the Stanford prison experiment took 24 white male college students (save one Asian American) [ ]
+
+### Clayface Director James Watkins Explains That [SPOILER] Cameo, Introducing Gotham City to the DC Universe and All the Shape-Shifting Kills
+Sun, 25 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/news/clayface-batman-gotham-aaron-paul-cameo-1236921644/
+
+SPOILER ALERT: This article contains spoilers for “Clayface,” now playing in theaters. Batman fans will have to wait patiently for the next installment in Matt Reeves and Robert Pattinson s Caped Crusader saga, but they can get a peek at the rebooted DC Universe s Gotham City in “Clayface.” “Clayface” is an R-rated body horror that follows [ ]
 
 ### ESPN Taps Marvel s Vision to Boost ElClásico s Debut on ABC
 Sun, 25 Oct 2026 14:00:00 +0000 — https://variety.com/2026/tv/news/espn-taps-marvel-vision-elclasico-debut-abc-1236930598/
@@ -12,47 +52,37 @@ Sun, 25 Oct 2026 13:43:16 +0000 — https://variety.com/2026/shopping/news/a-cou
 
 In an age of endless brand partnerships and collaborations, it always feels good seeing a team-up that doesn t feel forced. Such is the case with For Love Lemons very sexy collaboration with A Court of Thorns and Roses a collection of corsetry, lace, romantic florals and embellished evening wear that just makes sense. [ ]
 
-### Serielizados Prizes: Hagai Levi’s ‘Etty and Astonishing ‘Killing a Bear’ Win Big as ‘El Observatorio Bags the Mind the Gap Pitch Prize
-Sun, 25 Oct 2026 10:38:47 +0000 — https://variety.com/2026/tv/global/serielizados-hagai-levi-etty-killing-a-bear-matar-a-un-oso-1236930579/
-
-Influential Israeli creator Hagai Levi (“The Affair,” “Scenes From a Marriage”) and prominent Spanish TV-making duo Jorge and Alberto Sánchez-Cabezudo (“La Zona”) won best international and national series at Barcelona’s Serielizados for Etty and Killing a Bear respectively. The prizes for Serielizados two competitive sections were announced Saturday night at a Serielizados awards ceremony. Both [ ]
-
-### Egyptian Cinema Eyes Its Next Act as Industry Veterans Call for Better Scripts, Wider Distribution
-Sun, 25 Oct 2026 09:16:11 +0000 — https://variety.com/2026/film/global/egyptian-cinema-el-gouna-film-industry-future-1236930557/
-
-As the ninth edition of El Gouna Film Festival wrapped in Egypt, the conversation among some of the country’s and region’s leading producers and filmmakers turned to what the industry needs to turn its wealth of talent into films that can find audiences both at home and abroad. Egyptian cinema once dominated film production across [ ]
-
-### Jay-Z Brings His Jay-Z 30 Concert Series to a Close in Los Angeles With Dr. Dre, Snoop Dogg and Too Short
-Sun, 25 Oct 2026 08:42:05 +0000 — https://variety.com/2026/music/news/jay-z-30-closer-dr-dre-snoop-dogg-los-angeles-sofi-stadium-1236930554/
-
-How does one measure their own legacy: In a series of shows, in the decades since a debut album, in an exhaustive eight-part docuseries breaking down the intricacies of rhymes laid down years ago? That seemed to be the existential question looming over Jay-Z 30, a yearlong celebration that began with a spectacular one-off headlining [ ]
-
-### Soccer Drama Forza, With AC Milan Great Alessandro Costacurta, Heads to Tokyo Market With EST N8 (EXCLUSIVE)
-Sun, 25 Oct 2026 03:32:14 +0000 — https://variety.com/2026/film/news/soccer-drama-forza-ac-milan-alessandro-costacurta-tokyo-market-est-n8-1236930538/
-
-“Forza,” Marco Balsamo’s soccer drama shot between Bali and Milan, has been picked up for international sales by EST N8, which will take the film to the Tokyo International Film Festival s TIFFCOM market (Oct. 28–30). Before that, it gets its first public screening on Oct. 25 at Jakarta Film Week. Balsamo’s first feature as director [ ]
-
-### KPop Demon Hunters, Squid Game Stars Fete Netflix s Korea Decade as Ted Sarandos Teases Tantara, All of Us Are Dead Season 2
-Sun, 25 Oct 2026 03:21:03 +0000 — https://variety.com/2026/tv/news/kpop-demon-hunters-squid-game-stars-netflix-korea-decade-1236930528/
-
-Stars of “Squid Game” and “KPop Demon Hunters” took the stage in Seoul on Oct. 24 as Netflix celebrated 10 years in Korea with a fan festival, where co-CEO Ted Sarandos previewed upcoming titles including “Tantara” and “All of Us Are Dead” Season 2. “Squid Game” was represented by Lee Jung-jae, Lee Byung-hun and Park [ ]
-
-### AI Firm Behind India’s ‘Mahabharat’ Series Turns to Indonesian Myth in Cross-Border IP Pact (EXCLUSIVE)
-Sun, 25 Oct 2026 02:30:00 +0000 — https://variety.com/2026/tv/news/ai-india-mahabharat-series-indonesian-myth-1236930485/
-
-The AI technology behind Star Plus and JioHotstar series “Mahabharat: Ek Dharmayudh” is headed to Indonesia. There, its developer Galleri5 and fellow Collective company Collective Studios’ Historyverse plan to create film and series properties drawn from the country’s myths and history. Historyverse, which handles original IP and studio work for Collective Artists Network, is partnering [ ]
-
-### SAG-AFTRA Extends Duncan Crabtree-Ireland s Contract and Adds CEO to Title
-Sun, 25 Oct 2026 01:20:54 +0000 — https://variety.com/2026/film/news/sag-aftra-duncan-crabtree-ireland-contract-extension-1236930503/
-
-The SAG-AFTRA board voted Saturday to extend the contract of Duncan Crabtree-Ireland, the union s national executive director, for four years and to add CEO to his title. Crabtree-Ireland s contract was set to expire in 2028, but will now run through June 20, 2032. The financial terms of the agreement were not disclosed. He was paid [ ]
-
-### I Play Rocky Star Anthony Ippolito on Becoming Sylvester Stallone and Acting With a Dog: He Wasn t a Huge Fan of Me
-Sun, 25 Oct 2026 01:10:16 +0000 — https://variety.com/2026/film/columns/i-play-rocky-anthony-ippolito-sylvester-stallone-dog-1236930482/
-
-Anthony Ippolito had to do more than nail Sylvester Stallone’s signature voice to play him in “I Play Rocky.” He also had to transform his skinny physique to one with bulging muscles. “It had its moments for sure. I was being tested,” Ippolito told me Saturday at the AFI Fest “I Play Rocky” screening in [ ]
-
 ## The Hollywood Reporter
+
+### Before ‘Obsession’ and ‘Backrooms,’ ‘Lights Out’ Blazed the Trail From YouTube to Studio Hit
+Sun, 25 Oct 2026 18:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/lights-out-blazed-trail-youtube-to-studio-1236736287/
+
+The horror short by Swedish director David F. Sandberg went viral 10 years ago thanks to a Reddit post that New Line turned into a blockbuster.
+
+### Mariana di Girólamo Takes a Ride on the “Wild” Side
+Sun, 25 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-features/mariana-di-girolamo-martin-mcdonagh-wild-horse-nine-1236736297/
+
+The Chilean actress makes the leap to English in Martin McDonagh’s ‘Wild Horse Nine’ — and may be riding it straight into awards season.
+
+### Miami Vice 85 : Man Arrested After Pulling Out Knife During Dispute on Brooklyn Set
+Sun, 25 Oct 2026 16:53:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/miami-vice-85-man-arrested-knife-dispute-brooklyn-set-1236739652/
+
+Alex Perez, 23, was charged with menacing and criminal possession of a weapon after the incident, in which no injuries were reported.
+
+### Clayface Rolls to $24M Box Office Opening as You Can See Everything Shines in Second Weekend
+Sun, 25 Oct 2026 16:06:11 +0000 — https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/
+
+A24's documentary about Elizabeth Holmes grossed 25 percent more in its sophomore frame than its first, while Laika's 'Wildwood' took third place.
+
+### Duncan Crabtree-Ireland Upped to CEO of SAG-AFTRA as Guild Extends His Contract
+Sun, 25 Oct 2026 15:19:43 +0000 — https://www.hollywoodreporter.com/business/business-news/duncan-crabtree-ireland-promoted-ceo-sag-aftra-contract-1236739654/
+
+Crabtree-Ireland will now lead the Hollywood union into 2032 and continue serving as its chief negotiator.
+
+### Former 60 Minutes Executive Producer Bill Owens Joins Creator Media Company Newpress
+Sun, 25 Oct 2026 14:35:28 +0000 — https://www.hollywoodreporter.com/business/digital/former-60-minutes-ep-bill-owens-joins-creator-newpress-1236739646/
+
+Owens will be EP of the new firm, which raised money from Emerson Collective and media veterans Jesse Angelo, David Leavy, Brent Montgomery and Patrick Steel.
 
 ### Anthropic Sued for Using Elvis Presley Music to Train AI Models
 Sun, 25 Oct 2026 02:22:41 +0000 — https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/
@@ -74,37 +104,27 @@ Sat, 24 Oct 2026 20:32:28 +0000 — https://www.hollywoodreporter.com/tv/tv-news
 
 The super featherweight unification bout between Emanuel Navarrete and O'Shaquie Foster takes place on Saturday, October 24 in San Antonio, Texas.
 
-### UFC 333 Livestream: Where to Watch Volkanovski vs. Evloev Main Card
-Sat, 24 Oct 2026 18:58:56 +0000 — https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-ufc-333-volkanovski-evloev-live-stream-free-1236739560/
-
-The event is taking place at Etihad Arena in Abu Dhabi. Here's how to watch online, including for free.
-
-### Billy Corgan Defends Marilyn Manson Friendship Despite Sexual Assault Claims Against Manson: I Didn t Feel That He Was Guilty
-Sat, 24 Oct 2026 18:44:21 +0000 — https://www.hollywoodreporter.com/music/music-news/billy-corgan-defends-marilyn-manson-friendship-didnt-feel-guilty-1236739561/
-
-The Smashing Pumpkins frontman reflected on his 30-year relationship with the shock rocker, whose wife's twin sister is married to the Pumpkins' James Iha. "I don’t want the world to tell me who my friends are and who I should associate with,” he said. "In some cases I knew personal things behind the scenes that are not in the public sphere."
-
-### Jay-Z s Victory Lap Continues as He Brings Out Blue Ivy Carter, John Legend, DJ Khaled for SoFi Stadium Opening Night
-Sat, 24 Oct 2026 17:03:46 +0000 — https://www.hollywoodreporter.com/music/music-news/jay-z-sofi-stadium-night-one-recap-1236737877/
-
-The rapper also brought out Scarface as a special guest for the first of two much anticipated L.A. shows on Friday night.
-
-### Online Comedians Are Making a Mint Mocking Wall Street
-Sat, 24 Oct 2026 17:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/online-comedians-mocking-wall-street-corporate-culture-1236736301/
-
-Hedge fund jerks and private equity bros are being pilloried by popular creator comedians — and the finance world is laughing along.
-
-### Lowden, Turner or a Dark Horse: One James Bond Casting Test Has Nothing to Do With Acting
-Sat, 24 Oct 2026 16:48:40 +0000 — https://www.hollywoodreporter.com/movies/movie-features/james-bond-casting-test-lowden-turner-1236739203/
-
-There are some not-so-secret behind-the-scenes qualities that Bond producers are looking for.
-
-### You Can See Everything Eyes $20M Second Weekend as Clayface Leads Box Office
-Sat, 24 Oct 2026 15:56:55 +0000 — https://www.hollywoodreporter.com/movies/movie-news/clayface-box-office-you-can-see-everything-wildwood-1236739530/
-
-Newcomer 'Wildwood' will likely occupy third place for the frame that also sees the arrivals of 'Wicker' and 'Klara and the Sun.'
-
 ## Deadline
+
+### Man Arrested On Miami Vice 85 Brooklyn Set After Threatening Crew With Butcher Knife
+Sun, 25 Oct 2026 18:48:36 +0000 — https://deadline.com/2026/10/man-arrested-miami-vice-85-brooklyn-set-butcher-knife-1237172783/
+
+Filming on Miami Vice 85 was disrupted on Friday night when a man threatened a member of the production with a butcher knife. According to an NYPD spokesperson, 23-year-old Alex Perez of Brooklyn was arrested at around 11:15pm on charges of menacing and criminal possession of a weapon after police were called to the vicinity [ ]
+
+### Hudson Williams Is Writing A Film, Getting Tripped Up Over Ex-Hockey Player Character
+Sun, 25 Oct 2026 18:24:49 +0000 — https://deadline.com/2026/10/hudson-williams-writing-film-ex-hockey-player-character-1237172776/
+
+In addition to Season 2 of Heated Rivalry, Hudson Williams is taking some inspiration from the ice for another future project. The actor recently admitted he s getting tripped up on a script he s writing, which includes a character who is an ex-hockey player, similar to his Ottowa Centaurs captain role Shane Hollander on Heated Rivalry. [ ]
+
+### Clayface Beams $43M WW Opening, Delivers Paramount-Warner Bros. Second No. 1 Weekend Win Since Merger Global Box Office
+Sun, 25 Oct 2026 18:15:35 +0000 — https://deadline.com/2026/10/box-office-global-clayface-1237172755/
+
+The newly combined Paramount-Warner Bros merger (aka Skydance) saw its second back-to-back No. 1 weekend win at the global box office with DC s Clayface which filed $43M WW. Is this the new norm? A continual weekend win by Skydance? Should the platinum studio Disney be worried? Even if A24 s You Can See Everything pops to [ ]
+
+### Clayface Scares Off Elizabeth Holmes Nathan Fielder From No. 1 With $24M; But You Can See Everything Still Widely Seen With Near Epic $20M Update
+Sun, 25 Oct 2026 15:07:00 +0000 — https://deadline.com/2026/10/box-office-clayface-you-can-see-everything-1237171500/
+
+SUNDAY AM: Elizabeth Holmes and Nathan Fielder couldn t draw enough blood to keep Clayface out of No. 1 as the lower-budget DC genre film flexed some muscle with a $24.5M opening, but the three-hour A24 documentary You Can See Everything remained widely seen with an excellent $19.5M second weekend, up 25%. Global start for Clayface [ ]
 
 ### Nobody Wants This Creator Erin Foster Has More Story To Tell With A Season 4, But Isn t Getting Too Attached
 Sun, 25 Oct 2026 02:34:00 +0000 — https://deadline.com/2026/10/nobody-wants-this-erin-foster-more-story-to-tell-season-4-1237172691/
@@ -146,26 +166,6 @@ Sat, 24 Oct 2026 21:00:00 +0000 — https://deadline.com/2026/10/these-summer-st
 
 EXCLUSIVE: With their Netflix comedy series Nobody Wants This launching its third season on Netflix this weekend, Erin and Sara Foster have lined up another series project, These Summer Storms. The drama based on Sarah MacLean s 2025 novel of the same name is in development at Hulu through 20th Television where the Fosters Fatigue Sisters [ ]
 
-### Sylvester Stallone On Casting Daughter In Tulsa King : Of Course It’s Nepotism, You Idiot
-Sat, 24 Oct 2026 18:03:45 +0000 — https://deadline.com/2026/10/sylvester-stallone-tulsa-king-nepotism-1237172381/
-
-An interview with Sylvester Stallone from October 16 is going viral thanks to some candid comments the Tulsa King actor made about the casting of his daughter Scarlet Rose Stallone. Stallone has a blunt message to naysayers: “Of course it’s nepotism, you idiot. The subject came up as Stallone was reflecting on comments he s heard [ ]
-
-### Ric Flair Latest Health Update: Ex-Wrestler Wears Eye Patch In Message Reassuring Fans I Am Focused On My Healing And Recovery
-Sat, 24 Oct 2026 17:25:00 +0000 — https://deadline.com/2026/10/ric-flair-health-update-1237172323/
-
-UPDATE: Former pro wrestler Ric Flair is reassuring fans that he is focused on healing and recovery as he recuperates from a fall in Florida yesterday. In the new update, Flair, wearing an eye patch, thanks concerned fans as well as the Tampa General Hospital staff and doctors that put up with me until 4:30am. [ ]
-
-### AMC Theatres Wants NYC s Endangered Kips Bay Multiplex To Remain But Decision Not Ours To Make ; Scheduled Closing Date Announced
-Sat, 24 Oct 2026 16:50:06 +0000 — https://deadline.com/2026/10/amc-theatres-kips-bay-multiplex-1237172359/
-
-AMC Theatres CEO Adam Aron has issued an open letter to New York City residents reiterating the company s desire to continue operating its longstanding Kips Bay 15 multiplex in the Manhattan neighborhood of that name, but concedes the decision is not AMC s to make. Neighbors of the Kips Bay-Murray Hill section of Manhattan along Second [ ]
-
-### BravoCon 2027 Sets Dates For Return To Las Vegas
-Sat, 24 Oct 2026 15:45:00 +0000 — https://deadline.com/2026/10/bravocon-2027-dates-las-vegas-1237172140/
-
-Bravo has set the dates for BravoCon 2027 as the fan event returns to Las Vegas from October 22-24, 2027. The weekend event will take place at the Caesars Forum, where it has been held for the past two cycles. This marks the 5th BravoCon experience and brings the Bravoverse to life with a weekend [ ]
-
 ## befores & afters
 
 ### Watch Image Engine s VFX breakdown for The Mandalorian Grogu
@@ -174,6 +174,11 @@ Sun, 25 Oct 2026 07:10:02 +0000 — https://beforesandafters.com/2026/10/25/watc
 Go behind the scenes. The post Watch Image Engine s VFX breakdown for The Mandalorian Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### Clayface Tops the Box Office with $24 Million. What Does It Signal About DC Studios Latest Reboot?
+Sun, 25 Oct 2026 16:36:38 +0000 — https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/
+
+James Gunn and Peter Safran were brought in to revitalize the comic book brand with mixed results.
 
 ### Box Office: A24 s You Can See Everything Scores Huge $19.5 Million Second Weekend
 Sun, 25 Oct 2026 13:48:18 +0000 — https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-huge-second-weekend-a24-1235223679/
@@ -210,32 +215,37 @@ Fri, 23 Oct 2026 20:00:00 +0000 — https://www.indiewire.com/features/podcast/m
 
 Sofia Coppola tells IndieWire what she learned seeing her career through her late mother's eyes by finishing Eleanor Coppola's "Making Marie Antoinette."
 
-### Watch Bill Hader Explain the Many Influences That Led to His First Film, They Know
-Fri, 23 Oct 2026 18:00:00 +0000 — https://www.indiewire.com/news/events/bill-hader-first-film-they-know-snl-divorce-1235222526/
-
-The "Barry" creator revealed details about his upcoming horror film at IndieWire's Future of Filmmaking 2026 Summit presented by AT T in Los Angeles on Saturday.
-
-### Yaga Review: Hudson Williams Creepy Dual Roles Can t Save a Witchy Mystery That s Not Creepy Enough
-Fri, 23 Oct 2026 17:30:00 +0000 — https://www.indiewire.com/criticism/shows/yaga-review-hudson-williams-amc-show-1235223464/
-
-A reimagining of the Baba Yaga myth (and her own play), Kat Sandler's AMC+ series follows a beat cop and a private investigator as they search a misty, mysterious coastal town for a powerful family's missing heir.
-
-### Will Wicker Be Black Bear s First Big Breakout?
-Fri, 23 Oct 2026 17:15:00 +0000 — https://www.indiewire.com/news/box-office/wicker-black-bear-breakout-box-office-erotic-drama-1235223545/
-
-It's a year since CEO Teddy Schwarzman embraced North American distribution with “Christy.” What has he learned?
-
-### Watch Phil Lord and Chris Miller Go Deep on Project Hail Mary Puppetry, Sandra Hüller s Karaoke, and Making People Cry About a Rock
-Fri, 23 Oct 2026 17:15:00 +0000 — https://www.indiewire.com/news/events/phil-lord-chris-miller-project-hail-mary-puppet-karaoke-1235222443/
-
-The co-directors offered a detailed production presentation as a keynote during IndieWire's Future of Filmmaking Summit in Los Angeles.
-
-### Pawel Pawlikowski s Historical Stunner Fatherland Is About Far More Than Thomas Mann — It s About Today s Own Fissures
-Fri, 23 Oct 2026 17:00:00 +0000 — https://www.indiewire.com/features/interviews/pawel-pawlikowski-fatherland-interview-cannes-1235194482/
-
-The Polish filmmaker, working in German with exquisite actors Sandra Hüller and August Diehl, tells IndieWire about finding resonant conflicts in his moving post-war Cannes hit that completes his black-and-white period trilogy.
-
 ## The Wrap
+
+### The 3 Best Movies Streaming Free on YouTube This Week
+Sun, 25 Oct 2026 19:06:26 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-free-on-youtube-this-week-oct-25-31/
+
+YouTube may not be known for its film library, but the platform has a surprisingly impressive collection of great movies that you can watch for free with ads. The streamer s best offerings right now include a thriller starring Harrison Ford that ranks as one of the actor s most impressive non-franchise efforts, as well as a revisionist historical drama directed by Clint Eastwood that is likely to change the way you see the entire Western genre. If neither of those movies appeals to you, YouTube also has a 2014 sci-fi blockbuster that features one of Tom Cruise s most playful and against-type performances. Here are the three best movies on YouTube you can stream for free right now. The Fugitive (Warner Bros.) The Fugitive (1993) A chase thriller for the ages, 1993 s The Fugitive is one of the best blockbusters of the 1990s. Based on the 1960 TV series of the same name, director Andrew Davis star-driven thriller follows an accomplished doctor (Harrison Ford) who is framed for the murder of his wife and sentenced to death only to escape police custody following a prison bus crash. As he attempts to clear his name and uncover the real identity of his wife s killer, he is pursued by a maniacally driven, relentless U.S. Deputy Marshal (Tommy Lee Jones). The Fugitive mines gold out of the clash between Ford s Richard Kimble and Jones Samuel Gerard, delivering an action movie that is as superficially entertaining as it is dramatically compelling. It effortlessly holds your attention 
+
+### SNL UK Jokes Pedophile Allegations Against Meghan Markle s Dad Show a Genuine Chance She s a Real Royal
+Sun, 25 Oct 2026 18:17:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-uk-meghan-markle-father-pedophile-allegations/
+
+Meghan Markle made headlines this week when news broke that her father allegedly keeps child abuse imagery in his home, and Saturday Night Live UK was quick to weigh in. On Saturday s installment of Weekend Update, hosts Paddy Young and Ania Magliano riffed on the allegations against Thomas Markle, joking that they simply mark the Duchess of Sussex s latest attempt to gain favorability in the U.K. In royal news, it’s been a big 24 hours for Meghan Markle, whose dad has been accused of being an alleged pedophile — in another pathetic attempt to win over the British public, Young joked, adding that her father, Thomas Markle, moved to the Philippines last year in a sure sign of his innocence. Magliano added that the allegations actually could mean Markle is a real royal. If the allegations about Meghan Markle’s father are true and he is a pedophile, there is a genuine chance Meghan could be considered royal, she said. Watch the clip from SNL UK below: Ania Magliano and Paddy Young with an update on the Markle's. #SNLUK pic.twitter.com/5iCxP2SxRX &mdash; Sky TV (@skytv) October 25, 2026 On Thursday, it was reported that Markle’s estranged father Thomas is under investigation over claims by his son alleging that he kept child abuse imagery in their shared home in the Philippines. Speaking with The Sun Thursday, Thomas Markle Jr. said he was “horrified” by what he had found and felt he had “no option” but to report his father to the local police. In a statement Friday, Meghan claim
+
+### Duncan Crabtree-Ireland Promoted to SAG-AFTRA CEO With 4-Year Contract Extension
+Sun, 25 Oct 2026 16:49:32 +0000 — https://www.thewrap.com/culture-lifestyle/culture/duncan-crabtree-ireland-promoted-to-sag-aftra-ceo/
+
+Duncan Crabtree-Ireland, national executive director of SAG-AFTRA, has been promoted to CEO with a contract extension through 2032 after the union s national board meeting on Saturday. 98% of the board voted to approve the promotion and contract extension, keeping the longtime union executive at the actors guild after guiding it through its 2023 strike alongside then-president Fran Drescher as its chief negotiator, a role that Crabtree-Ireland will also keep. His contract had previously been set to expire in 2028. “To battle giant global transnational corporations, we need expert leadership with a track record of successful bargaining and significant operational management expertise. That is Duncan,” SAG-AFTRA President Sean Astin said in a statement. “He is a powerful executive who has led our union at the bargaining table, in the halls of congress and in boardrooms and conference rooms across the industry and the world. We are thrilled to have guaranteed Duncan’s continued service to the members of SAG-AFTRA.” “Leading SAG-AFTRA’s staff is the honor of my career, and I’m grateful for the opportunity to keep doing this work,” added Crabtree-Ireland. “As we continue fighting for human creativity, the coming years will be crucial for charting the path forward. I intend to fight alongside our leadership to make sure our members control their image, likeness, voice, and destiny in the workplace, and that they are compensated fairly in the process. I thank President Astin, the na
+
+### ‘60 Minutes’ Vet Bill Owens Joins Newpress as Executive Producer in $12 Million Investment Round
+Sun, 25 Oct 2026 16:48:01 +0000 — https://www.thewrap.com/media-platforms/journalism/bill-owens-60-minutes-joins-newpress/
+
+Former “60 Minutes” executive producer Bill Owens has lined up his next venture, announcing Sunday he will join independent creator-led media company Newpress as executive producer in March 2027. The move comes in tandem with a $12 million investment round led by Emerson Collective and Glick Family Investments. Owens, who departed the CBS newsmagazine last spring, will begin his new role March 1, 2027, working with Newpress co-founders Johnny and Iz Harris to develop shows and expand the company’s reporting and production operations. The investment will fund Newpress’ expansion into new subjects and formats, the recruitment of journalists and creators and the development of new programming. The company, which currently reaches more than 15 million followers across its network, plans to launch two to four creator-led shows in the coming months, with technology, finance and economics among its initial areas of focus. Its longer-term goal is to build a network of 12 to 16 channels reaching 100 million followers across digital platforms. Emerson Collective Managing Director of Media Peter Lattman will join Newpress’ board, as will Patrick Steel, the former CEO of Politico. Other investors in the round include Jesse Angelo, CEO of Checker Media; David Leavy, former chief operating officer of CNN Worldwide; and Brent Montgomery, CEO of Wheelhouse Entertainment. They join existing investor Mark Rober, the science educator and founder of CrunchLabs. The investment marks Emerson Colle
+
+### MrBeast Lab Animated Series Returns With 8 New Episodes in November Exclusive
+Sun, 25 Oct 2026 16:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/mrbeast-lab-new-episodes-premiere-date-youtube/
+
+MrBeast is returning to animation. Eight new episodes of the animated adventure series “MrBeast Lab” will premiere on YouTube starting in November, TheWrap has exclusively learned. First released in 2025, “MrBeast Lab” began as a way for Jimmy Donaldson, aka MrBeast, and his company, Beast Industries, to test and learn about animation. The series’ first run of 10 three-minute shorts garnered more than 55 million views. The 2D animated series follows MrBeast, who brings together a team of beasts brought to life by Pandemonium, the living energy of creativity. By the end of the first batch of episodes, the series’ titular lab had been destroyed, and one of its characters had sacrificed himself as the evil Shroud grew more powerful. But not everything is as it appears. “With no Lab and the Shroud closing in, the team follows a signal that suggests Banana may not be gone,” a press release for the new episodes reads. Check out the trailer below: The episode episodes will bring the series runtime up to 100 minutes. New episodes will premiere Sundays on YouTube starting on Nov. 1. Here s the full schedule: Episode 1: Sunday, Nov. 1 Episode 2: Sunday, Nov. 8 Episode 3: Sunday, Nov. 15 Episode 4: Sunday, Nov. 22 Episode 5: Sunday, Nov. 29 Episode 6: Sunday, Dec. 6 Episode 7: Saturday, Dec. 12 Episode 8: Sunday, Dec. 13 MrBeast Labs is created by Donaldson with Ben Bjelajac and Michael Cruz serving as its showrunners. Bjelajac, Cruz, Jameel Saleem, Lillian Yu, Conor Hanney, Charley Fel
+
+### Clayface Earns $43 Million Global Box Office Launch As You Can See Everything Rises 23% in Second Weekend
+Sun, 25 Oct 2026 15:22:37 +0000 — https://www.thewrap.com/creative-content/movies/clayface-you-can-see-everything-box-office/
+
+Warner Bros. may finally have its first significant box office success in more than a year with DC Studios Clayface, which is off to a promising start with a $24 million domestic and $43 million global opening weekend. Unlike most comic book movies, this body horror film centered around one of Batman s foes is budgeted like a New Line horror film with a reported production spend of around $40 million. It s also getting strong audience reception with an A- on CinemaScore and 4.5/5 on PostTrak, putting it in position to have a strong second weekend hold as a Halloween offering and possibly leg out until November. It has been a very rough 2026 for Warner Bros. with high profile bombs like Supergirl and Digger, and even well received films like The End of Oak Street haven t moved the needle. To date, the studio has not released a film that has grossed more than $250 million worldwide this year. Clayface may not cross that threshold, but it should be a solid mid-budget success as Warner s first film released under Skydance ownership, leading into an end-of-year slate that includes The Cat in the Hat and the highly anticipated Dune: Part Three. In second place is A24 s You Can See Everything, which is on course to become one of the highest grossing documentaries of all time after an excellent $19.5 million second weekend that marks a 23% increase from its opening weekend after a nationwide expansion to 2,655 locations. With $45 million grossed domestically so far, You Can See Every
 
 ### Emily Osment Asked for Intimacy Coordinator Over ‘Uncomfortable’ Age Gap With Co-Star on ‘Young Sheldon’
 Sat, 24 Oct 2026 23:19:15 +0000 — https://www.thewrap.com/creative-content/tv-shows/emily-osment-intimacy-coordinator-young-sheldon-age-gap-montana-jordan/
@@ -257,85 +267,55 @@ Sat, 24 Oct 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/wha
 
 It s the big month of horror, and Prime Video has a bevy of options for folks who are wondering what to watch this Halloween. October is the month to mainline horror films, and in the process of setting up the binge, it can be hard to decide what goes on the list and what can wait. With the growing horror list on Prime Video, it can be even more difficult to pull the trigger on those choices. Luckily, there are some truly stellar films waiting to be watched or revisited from a Stephen King adaptation to perhaps the most iconic Halloween movie of all time you just have to find them. We found them for you. These are the seven horror movies on Prime Video you should check out in October 2026. Dimension/MGM/Lionsgate The Mist “The Mist” remains one of the best Stephen King adaptations ever put to screen. The story is simple: A creepy fog rolls into a small town and forces some residents into the local grocery store for shelter after they discover there are monsters hiding in the mist. Inside the locked-down store, a mini society of sorts forms among the surviving townspeople — and its breakdown is just as harrowing as the attempts to fend off the otherworldly monsters encroaching on the shelter. And what can we say about the ending? It’s a gut punch. The less you know about it going in, the better, but even if this is a rewatch, it s an ending that’s both hard to sit through but impossible to look away from. Vortex The Texas Chainsaw Massacre “The Texas Chainsaw Massacre” directo
 
-### Barack Obama Unleashes on Trump for ‘Home Renovations’ Fixation in 2nd Term: ‘He Should Be on HGTV’
-Sat, 24 Oct 2026 20:59:48 +0000 — https://www.thewrap.com/media-platforms/politics/barack-obama-roasts-trump-white-house-renovations/
-
-Former President Barack Obama suggested Donald Trump would be better suited for HGTV than the White House, given the president’s fixation on “home renovations.” During a midterm election rally in Ohio on Saturday, Obama took a moment to roast the current president s many renovation projects, including the controversial construction of the White House State Ballroom . So, when you go through the tally of promises, things have not worked out the way we might have expected, the former president told the crowd while stumping for Ohio Democratic candidates Amy Acton and Sherrod Brown. Although, I must say, I did expect it. Let s be honest, did anybody really think this guy in the White House right now is spending all that time thinking about these issues? As the rally attendees shouted out No! in response, Obama said: I don t know if you ve noticed, but he seems very focused on home renovations. He should be on HGTV. The guy s building a ballroom that s bigger than the White House, he continued. He s paved over the Rose Garden, put a helicopter pad on the South Lawn. Obama s design jabs didn t stop there, as the prominent Democrat also mocked Trump for his love of gold. There s gold everywhere. What s up with the gold? he ripped. He s got the White House looking like Saddam Hussein opened a Cheesecake Factory. Just gold everywhere. OBAMA: He's got the White House looking like Saddam Hussein opened a Cheesecake Factory. It's gold everywhere. pic.twitter.com/PhnamSY0Qy &mdash; Acyn 
-
-### Writers Guild Warns of Billionaire Media Control as ‘Musk’ Documentary Faces Alleged Censorship Campaign
-Sat, 24 Oct 2026 20:11:28 +0000 — https://www.thewrap.com/industry-news/labor-unions/writers-guild-defends-musk-documentary-amid-censorship-campaign/
-
-The Writers Guild warned against billionaire media control as the new Musk documentary allegedly faced an overt censorship campaign by tech platforms. In a joint statement released Saturday, the Writers Guild of America East and Writers Guild of America West spoke out in defense of members Alex Gibney and Michael J. Palmer s new documentary, praising the project as an in-depth examination of Elon Musk based on his own words and firsthand accounts of his actions. However, the WGA claimed the documentary faced censorship hurdles from tech platforms, given it was restricted from advertising on social media , including TikTok. Over the last several weeks, MUSK has been subject to an overt censorship campaign by tech platforms, the statement noted. Every major social media platform initially prohibited or restricted advertisements for the film. TikTok notified the film’s theatrical distributer, Bleecker Street, that advertising for the film was permanently banned the week prior to the film’s release and only rescinded the ban after its opening weekend. The statement continued: TikTok is controlled in the U.S. by Larry Ellison, who provided significant financial backing for his son David Ellison’s combination of Paramount-Warner Bros into Skydance Media, which owns HBO Max and holds the broadcast and streaming rights to MUSK. This week, Elon Musk announced he was invested nearly $1 billion in Skydance. As the WGA went on, they highlighted that a small handful of billionaires now ow
-
-### The 3 Best Movies to Stream on Peacock This Week
-Sat, 24 Oct 2026 20:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-on-peacock-this-week-oct-23-25/
-
-Peacock s film library currently includes one of the best action thrillers of the 2000s, which is anchored by a rare, villainous performance from its star, Tom Cruise. The streamer s other, best feature-length offerings include an endlessly rewarding sci-fi dramedy from The Royal Tenenbaums director Wes Anderson and a too-often-forgotten 2016 horror outing from Jennifer s Body filmmaker Karyn Kusama. Here are the three best movies on Peacock you can stream this week. Collateral (DreamWorks Pictures) Collateral (2004) One of the best films director Michael Mann has made, 2004 s Collateral is a high-octane, immensely entertaining thriller of surprising depth. Written by Stuart Beattie and directed by Mann, the film follows a Los Angeles cab driver (Jamie Foxx) who finds himself held hostage and forced to travel to multiple locations over the course of one night by a deranged hit man (Tom Cruise). At once propulsive and contemplative, Collateral tells its story of self-discovery and reinvention with elegance and style. It is one of the best-looking movies ever shot with digital cameras, and the film s second-act nightclub shootout ranks high among the greatest action sequences that both Mann and Cruise have ever been a part of. Asteroid City (Focus Features) Asteroid City (2023) A late-career masterpiece from writer-director Wes Anderson, 2023 s Asteroid City is a sci-fi dramedy that reveals more and more of itself every time you rewatch it. Set in the 1950s, the film depicts th
-
-### Billy Corgan Defends Staying Friends With Marilyn Manson After Sexual Abuse Allegations: ‘I Didn’t Feel He Was Guilty’
-Sat, 24 Oct 2026 19:20:57 +0000 — https://www.thewrap.com/creative-content/music/smashing-pumpkins-billy-corgan-defends-marilyn-manson-friendship/
-
-Billy Corgan defended his decision to remain friends with Marilyn Manson after the rocker was accused of sexual abuse, noting that he “didn t feel he was guilty” of the alleged crimes. The Smashing Pumpkins frontman addressed his friendship with the controversial rock star (whose real name is Brian Warner) during an appearance on the New York Times’ “Popcast” podcast, where he said it was important to him as a Christian to stand by your friends. “As a Christian person, you have to stand by your friends, but that doesn’t mean you don’t have an opinion, and that doesn’t mean you’re not critical,” he said. I m not here to adjudicate it. But, you know, the DA looked at the case for five years I knew personal things behind the scenes that are not in the public sphere. He added: I personally didn t feel that he was guilty of the things he was being charged with and ultimately the fact that the DA didn t pursue [it]. So, basically, the person that I knew and the way it all kind of went down, even though it was an elongated process, was commensurate with the person that I knew. Elsewhere in the interview, Corgan noted that he didn t feel the public had a right to dictate his friendships. “I don’t want the world to tell me who my friends are and who I should associate with, he said. That’s politically or socially. In Brian’s case, we have a relationship that goes back close to 30 years.” Corgan then highlighted that Manson’s wife, Lindsay Usich, has family ties to his band, The Smashi
-
-### Jenna Ortega Is Unlearning Disney Channel Media Training to Set ‘Better Boundaries’
-Sat, 24 Oct 2026 18:35:14 +0000 — https://www.thewrap.com/creative-content/tv-shows/jenna-ortega-disney-channel-media-training-boundaries/
-
-Jenna Ortega admitted she s working on setting better boundaries with the public after following Disney Channel s media training guidance early in her career. “When I was young, and I was on Disney Channel, they took us to media training, right?” Ortega told Happy Sad Confused host Josh Horowitz. “And they told us, you know, ‘Every time someone meets you, it’s probably the only time they’re ever going to interact with you, like that’s a very special moment in their lives. So just be aware of that.’” Ortega, who starred on Disney Channel s Stuck in the Middle between 2016 and 2018, then jokingly added: No pressure! As Ortega went on, she confessed that this advice has never left me, adding, And sometimes I try to give myself grace, and I’m trying to have better boundaries. Namely, Ortega, who reached A-list fame with her starring roles in Netflix s Wednesday and the 2020s Scream revival, shared she was no longer agreeing to photos with any person on the street. “So maybe if I feel like it’s not so safe of a situation or maybe I don’t want to stop and agree to take a photo with a random grown man,” Ortega said. “Kids and things like that, of course. It is a lot though. And, again, it’s sweet. Some of the interactions are so sweet, and then some of them are a little bit more embarrassing or aggressive or mean. And it’s hard to know what the balance is. But you just… I do what I can.” Watch her full interview below. This is not the first time Ortega has reflected on the struggles
-
-### 3 Best Movies to Stream on Paramount+ This Week
-Sat, 24 Oct 2026 18:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-to-watch-on-paramount-plus-this-week-oct-24/
-
-It s peak Spooky Season, which means it s also peak cuddle up on the couch with a great movie and a cozy blanket season. Paramount+ has a bevy of great choices whatever your mood, but for our curated selection of good movies to stream on Paramount+ this week we ve got two very different horror movies and a sword-and-sandals epic. Yes indeed, all three are sure to hit the sweet spot, but it depends on your mood. Want a goofy but still scary horror movie to enjoy with friends or a significant other? We got you. Want a really scary horror movie that you ve probably never seen? We ve also got you there. Want to extend your obsession with Greek mythology after seeing The Odyssey this summer? Yep, got you there too. These are our picks for the best movies to stream on Paramount+ this week. Drag Me to Hell Universal Pictures Here’s a fun Spooky Season pick: Sam Raimi’s 2009 film “Drag Me to Hell” is scary, but it’s fun scary. Alison Lohman plays a bank loan officer who, after denying an old woman a bank loan, gets cursed by her. It turns out she just denied a bank loan to a gypsy. Big mistake. Huge . What ensues is a goopy, hellish spiral as her life turns upside down, all leading up to one of the best horror movie endings of all time. Watch with friends and a big bucket of popcorn. Troy Eric Bana and Orlando Bloom in Troy (Warner Bros.) If “The Odyssey” got you interested in Greek mythology, 2004’s “Troy” — which Christopher Nolan was at one point supposed to direct — is a nice wat
-
 ## Collider
 
-### Netflix Is Officially Removing Jake Gyllenhaal’s Disturbing Cult Classic Thriller
-Sun, 25 Oct 2026 14:30:15 GMT — https://collider.com/jake-gyllenhaal-nightcrawler-leaving-netflix-october-2026/
+### 'Mayor of Kingstown' Star's R-Rated Fantasy Remake Officially Takes Over Paramount+
+Sun, 25 Oct 2026 19:00:14 GMT — https://collider.com/hansel-and-gretel-witch-hunters-streaming-hit-paramount-plus-october-2026/
 
-Jake Gyllenhaa l hasn't exactly had the best year when it comes to movies, with both The Bride! and In the Grey falling short of box-office expectations. The Bride! has shown few signs of life even on home video, although In the Grey has emerged as a solid streaming hit. Gyllenhaal has historically struggled to deliver breakout theatrical blockbusters as a leading man, but has found greater success on streaming, especially in recent years. He starred in the record-breaking Prime Video hit Road House and the Apple TV series Presumed Innocent . Additionally, several of his past movies have found larger audiences at home. One of his most admired films, a cult classic released in 2014, is currently streaming on Netflix in the United States, but only for a little while longer.
+Since Endgame , it's fair to say that the MCU has failed to live up to its previous heights. With the introduction of small-screen content, it's become harder than ever to keep up with the many branches of the main timeline . However, that might all be about to change as Marvel, Disney, and co. throw absolutely everything at their most ambitious movie yet: Avengers: Doomsday . Described by the Russo Brothers as a "complete reinvention" for the franchise, could this be the spark that ignites another all-conquering era for Earth's Mightiest Heroes?
 
-### The 10 Best Stephen King Crime Books, Ranked
-Sun, 25 Oct 2026 14:09:15 GMT — https://collider.com/best-stephen-king-crime-books-ranked/
+### 8 Perfect Netflix Thriller Movies That Hooked Us in the First 5 Minutes
+Sun, 25 Oct 2026 18:49:15 GMT — https://collider.com/perfect-netflix-thriller-movies-instantly-hooked/
 
-Yes, yes. Horror. That’s what Stephen King writes a lot of, and that’s certainly the genre he got famous for writing in the first place, as early classics of his like Carrie , Salem’s Lot , and The Shining (the first three novels published under his own name) all show. And those three are just the beginning, with King’s 1970s and 1980s output being mostly horror-focused, with a few fantasy and sci-fi detours along the way.
+Thrillers can take many forms and are a fantastically pliable genre. You can be dropped into immediate danger or slowly pulled into a story of complex characters and tension. While Netflix ’s original movies can range wildly from near-perfect to missed opportunity, its thrillers remain one of the streamer’s most consistent genres.
 
-### Netflix Is Officially Removing the Action-Thriller That Asks “What If Guy Ritchie Directed John Wick?”
-Sun, 25 Oct 2026 14:00:14 GMT — https://collider.com/mark-rylance-the-outfit-leaving-netflix-november-2026/
+### All 4 Seasons of 'The Diplomat,' Ranked
+Sun, 25 Oct 2026 18:33:15 GMT — https://collider.com/the-diplomat-netflix-seasons-ranked/
 
-Like fellow '90s breakout Quentin Tarantino , director Guy Ritchie has inspired an entire generation of filmmakers. Ritchie remains as popular as ever, having gracefully made the switch to streaming. He now has three successful shows to his name — Netflix's The Gentlemen , Paramount+'s MobLand , and Prime Video's Young Sherlock — in addition to several movies that have proven to be major hits at home despite underperforming at the box office. The popularity of Ritchie's work has also nudged audiences toward similar movies made by other directors. Now, one such film is about to be removed from Netflix, leaving audiences with just a week to check it out.
+Spoiler Alert: This list contains spoilers for The Diplomat Season 4. Netflix struck gold with its political thriller The Diplomat . Created by Debora Cahn , the series follows Kate Wyler ( Keri Russell ), a seasoned career diplomat for the United States who is abruptly appointed ambassador to the United Kingdom. As the political landscape shifts dramatically, Kate must navigate a chaotic profession and a complicated marriage to Hal Wyler ( Rufus Sewell ), a charismatic, manipulative former ambassador known for going rogue and pulling strings behind the scenes.
 
-### 'The White Lotus' Season 4 Star Officially Teases Chris Messina's "Amazing" Performance
-Sun, 25 Oct 2026 13:42:00 GMT — https://collider.com/the-white-lotus-season-4-france-chris-messina-max-minghella/
+### David Tennant’s Chilling 3-Part Crime Thriller Is Officially Leaving Netflix
+Sun, 25 Oct 2026 18:30:14 GMT — https://collider.com/des-david-tennant-mindhunter-replacement-leaving-netflix-november-2026/
 
-Clayface has officially stormed into theaters just in time for Halloween, and the DCU's first proper dip into full-blown horror seems to be yielding results. Collider's Gabrielle Moss called director James Watkins ' new film "horrific to watch for all the right reasons" in her official review of the film , and that sentiment has been shared in the film's positive Certified Fresh Rotten Tomatoes score. Co-written by horror legend Mike Flanagan and starring Tom Rhys Harries , Naomie Ackie , and Max Minghella , Clayface brings the notorious Batman villain to the big screen for the first time ever as a terrifying body horror tragedy.
+A few weeks ago, Netflix released the psychological drama film Unabomber , starring Russell Crowe and Jacob Tremblay . The movie received poor reviews, but emerged as a solid hit for the streamer and offered an alternative to fans of David Fincher ’s Mindhunter . Like that cult classic series, Unabomber examined the psychology of a mass murderer and relied heavily on dialogue scenes over moments of mayhem and violence. Fans looking for something with a similar vibe are in luck, as a critically acclaimed limited series is currently streaming on Netflix in the United Kingdom, but only for a little while longer.
 
-### 9 Most Campy Horror Movies From the Last 5 Years, Ranked
-Sun, 25 Oct 2026 13:31:15 GMT — https://collider.com/most-campy-horror-movies-last-5-years-ranked/
+### Treasure Island: 20 Years of Friendship Made Cruelty Harder | Set Stories
+Sun, 25 Oct 2026 18:16:15 GMT — https://collider.com/video/treasure-island-20-years-of-friendship-made-cruelty-harder-set-stories/
 
-Horror is a genre that can be many things, and although the legendary films are the ones that cause nightmares, there's a strong audience for the offbeat and campy entries. Campy isn't a mark of shame for horror; it's a term of endearment for anyone who grew up on '80s slashers where the plot took a backseat to fun escapism for an hour and a half.
+David Oyelowo went to extraordinary lengths to bring Long John Silver to life in Treasure Island, including a physically demanding transformation that took two months to recover from. Alongside Hayley Atwell, who plays Bess Hawkins, Oyelowo takes Collider behind the scenes of the 2026 television adaptation to discuss the practical effects, elaborate sets, and unexpected challenges of playing pirates.
 
-### Anne Hathaway’s Thriller Arrives at Home After Being Officially Removed From 1,100 Theaters
-Sun, 25 Oct 2026 13:30:15 GMT — https://collider.com/anne-hathaway-verity-digital-release-date-prime-video-october-2026/
+### Robert De Niro’s 170-Minute Crime Epic Is Officially on Netflix
+Sun, 25 Oct 2026 18:00:14 GMT — https://collider.com/michael-mann-crime-masterpiece-heat-streaming-netflix-october-2026/
 
-After an unexpectedly short theatrical window, Amazon MGM's new psychological thriller will be released on the PVOD market this week. The movie debuted theatrically in early October, amid massive expectations. It did, after all, have the potential to become the new It Ends with Us or The Housemaid , which grossed $350 million and $400 million at the worldwide box office, respectively. Like It Ends with Us , the new Amazon movie is based on a Colleen Hoover bestseller — arguably her most well-known work. Her last two adaptations — Regretting You and Reminders of Him — were able to gross around $90 million each despite being based on less popular novels.
+Los Angeles has never looked as dangerous, or sounded as loud, as it did when Michael Mann decided to host a shootout in the middle of the city back in 1995. Plopping Robert De Niro and Al Pacino into the middle of it all just added to the lore of the film. Now, more than 30 years later, with a long-awaited sequel finally moving forward, there's never been a better time to revisit one of the greatest crime movies ever made .
 
-### Inde Navarrette Reveals Why ‘Obsession’ Had to Be Her “Calling Card” [Exclusive]
-Sun, 25 Oct 2026 13:15:15 GMT — https://collider.com/obsession-inde-navarrette-nikki-performance/
+### BritBox's Hidden Gem 3-Season Crime Series Is Rewriting Its Original Formula With a 'Doctor Who' Star
+Sun, 25 Oct 2026 17:58:14 GMT — https://collider.com/time-britbox-season-3-formula-change-david-tennant/
 
-Getting exactly what you wish for is rarely good news in a horror movie. In Curry Barker ’s Obsession , Bear ( Michael Johnston ) wishes for Nikki ( Inde Navarrette ) to love him more than anyone in the world, setting up a relationship neither of them is prepared for. The premise leaves plenty of room for frightening images, but it also puts an uncomfortable question underneath every interaction: What happens to the person whose feelings have been decided for them?
+Crime dramas are a dime a dozen on television these days, from straightforward procedurals that follow familiar story beats to twistier psychological thrillers aimed at shocking audiences with violence or gore. Many are very good, but some are truly special — and, likely, you haven’t even heard of one of the best.
 
-### Ridley Scott’s Post-Apocalyptic Sci-Fi Thriller Officially Arrives on Digital
-Sun, 25 Oct 2026 13:00:15 GMT — https://collider.com/the-dog-stars-digital-release-date-october-2026/
+### 6 Upcoming HBO Shows, Ranked by Hype
+Sun, 25 Oct 2026 17:50:15 GMT — https://collider.com/upcoming-hbo-shows-ranked-hype/
 
-Weeks after ending its theatrical run, Ridley Scott 's latest film is set for a PVOD debut. The movie was released at the end of August, and had mostly wrapped up its box-office run by mid-September. It marks Scott's long-awaited return to the genre that he is most commonly associated with, arriving nearly a decade after the sci-fi horror film Alien: Covenant . A few weeks before the film's release, another legendary director made a sci-fi comeback with a movie that fell short of box-office expectations. But that film — Steven Spielberg 's Disclosure Day — seems like a blockbuster compared to Scott's new sci-fi flop.
+I have already argued with people about television episodes that nobody has actually seen. That's the embarrassing part of being genuinely obsessed with this stuff. A casting announcement arrives, somebody describes the premise of a new adaptation, or an actor casually mentions a particular storyline, and suddenly I'm defending creative decisions that haven't even been filmed. The disappointment could be enormous. Apparently, that possibility has never discouraged me.
 
-### The 10 Worst Sequels in Film History
-Sun, 25 Oct 2026 12:56:15 GMT — https://collider.com/worst-movie-sequels/
+### 29 Years Later, Lee Child Officially Steps Away From Writing Jack Reacher [Exclusive]
+Sun, 25 Oct 2026 17:30:15 GMT — https://collider.com/reacher-lee-child-confirms-departure-book-series/
 
-The first true feature-length movie sequel is widely considered by film historians to be 1916's The Fall of a Nation , a follow-up to the hyper-controversial D. W. Griffith classic The Birth of a Nation . However, it wasn't until around the 1970s, driven by the rise of blockbuster filmmaking following the release of Steven Spielberg 's Jaws in 1975, that sequels really started to become a widespread commercial trend in the movie industry.
+Jack Reacher has been wandering across America for nearly three decades, but the man who created him has finally decided to stop following him quite so closely. Lee Child introduced the former military policeman in 1997's Killing Floor , launching one of the most successful thriller franchises in publishing history. Now, with the release of Chain Reaction , the author has confirmed that he's stepped away from writing the novels, leaving his younger brother, Andrew Child , firmly in charge of Reacher 's literary future.
 
-### 2026’s New R-Rated Horror Movie Officially Removed From Over 1,000 Theaters
-Sun, 25 Oct 2026 12:45:14 GMT — https://collider.com/crawlers-horror-movie-removed-from-1000-theaters/
+### 10 Movies That Were Genuine Monocultural Events
+Sun, 25 Oct 2026 17:04:15 GMT — https://collider.com/movies-monocultural-events/
 
-Spiders are the worst , let's just be up front about that. Sure, they eat flies who buzz around bothering us, they spin pretty webs, but they're creepy. The eight legs. All the eyes. They're weird looking, but we love weirdness, don't we? But what about when they're enormous, venomous, and apparently determined to make everybody's lives miserable? Exactly. Nightmare fuel. In fact, so effective are they at scaring people, they seem to have actually put off audiences from wanting to spend any time with them.
+Every so often, a movie becomes more than just a movie. It becomes the thing that everyone in the world is talking about, the film people queue around the block to see, and the one that somehow manages to bring strangers together over a shared obsession. It may be due to its IP already having a built-in audience, but sometimes that isn't always the case.
 

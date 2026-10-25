@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-25T14:33:58.906Z
+# Games — harvested 2026-10-25T19:15:06.355Z
 
 ## Eurogamer
+
+### 187K+ fans call for EA to "Save Mass Effect"
+Sun, 25 Oct 2026 18:50:44 +0000 — https://www.eurogamer.net/save-mass-effect-petition
+
+A petition created to save BioWare's well-loved sci-fi RPG, Mass Effect , has topped 187,000 signatures. Read more
+
+### Call of Duty movie will explore the "cost of war", says director
+Sun, 25 Oct 2026 18:12:35 +0000 — https://www.eurogamer.net/call-of-duty-movie-cost-of-war
+
+The Call of Duty movie will explore "the cost of war" and probably won't be as graphically violent as director Peter Berg's upcoming Netflix film, The Mosquito Bowl. Read more
+
+### Elden Ring movie has a budget of nearly $200 million
+Sun, 25 Oct 2026 16:37:14 +0000 — https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million
+
+A24's live-action Elden Ring movie is reportedly set to cost almost $200 million, making it the most expensive film the studio has ever made. Read more
 
 ### An officially licensed Knightmare game, based on the British TV show, is coming next year
 Sun, 25 Oct 2026 14:32:00 +0000 — https://www.eurogamer.net/knightmare-game-free-pc-original-cast
@@ -47,33 +62,30 @@ Fri, 23 Oct 2026 20:12:34 +0000 — https://www.eurogamer.net/nintendo-shigeru-m
 
 Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent. Read more
 
-### With Minecraft and Diablo shows already on the way, Netflix reportedly offered Xbox $500m for a bigger film and TV deal
-Fri, 23 Oct 2026 18:38:57 +0000 — https://www.eurogamer.net/netflix-500m-xbox-film-tv-rights
-
-A deal between Netflix and Xbox has supposedly fallen through because of one minor quibble: Netflix wanted to adapt the console maker's games for $500m, not $800m. Read more
-
-### As devastating Xbox "reset" continues, Dishonored studio Arkane Lyon reportedly only has until November to find a new buyer before it's closed
-Fri, 23 Oct 2026 18:09:03 +0000 — https://www.eurogamer.net/xbox-layoffs-marvels-blade-arkane-lyon-closure
-
-After getting caught up in Xbox CEO Asha Sharma's devastating layoffs and cuts earlier this year, Arkane Lyon - the beloved immersive sim studio behind the likes of Dishonored and Deathloop - reportedly only has until November to find a buyer. If the search fails, it will be shut down. Read more
-
-### Mass Effect crossover items have seemingly been removed from Battlefield 6 following EA's sudden closure of BioWare
-Fri, 23 Oct 2026 17:19:50 +0000 — https://www.eurogamer.net/mass-effect-battlefield-6-crossover-bioware-closure
-
-After EA's sudden shutdown of developer BioWare , upcoming crossover items themed around Mass Effect appear to have been removed from Battlefield 6 . Read more
-
 ## GamesIndustry.biz
 
-### BioWare's end is a tragically familiar tale | Opinion
-Fri, 23 Oct 2026 15:04:13 +0000 — https://www.gamesindustry.biz/biowares-end-is-a-tragically-familiar-tale-opinion
-
-After the past five years of seemingly endless closures, cancellations, and restructures, after the tens of thousands of layoffs that the industry has endured like a relentless drumbeat, you'd think that we'd all have grown some pretty thick skin. How much can one more bad news story really hurt? Read more
+_Nothing in the last 48 hours._
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027
+Sun, 25 Oct 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027
+
+I see. Us Shenmue fans know a thing or two about waiting around, so it’s no real surprise to see Shenmue 3 Enhanced delayed. The PS5 re-release of Ys Net’s sequel – published by ININ – had been due out in 2026, but as the year has progressed, a postponement into 2027 always seemed inevitable. Read the full article on pushsquare.com
+
+### PS5 s War Against Jailbreaks Triggers Fresh Wave of Criticism
+Sun, 25 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5s-war-against-jailbreaks-triggers-fresh-wave-of-criticism
+
+But it's nothing new. Sony’s battle against PS5 jailbreaks is bringing a fresh wave of criticism, as it requires players to update their firmware in order to play certain games. The Japanese giant – already on thin ice online due to its decision to cease manufacturing discs – has been deploying updates at an increased rate , as it responds to hacks which have opened up its console. Read the full article on pushsquare.com
+
+### Feature: PS5 Answers Bleakest Month with a 22% Upswing in Sales
+Sun, 25 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/features/ps5-answers-bleakest-month-with-a-22percent-upswing-in-sales
+
+How much does the enthusiast discourse matter? I’ve been covering PlayStation since the early PS3 days, and aside from the PSN outage in 2011 , I can’t think of a worse month for the brand than September 2026. PS5’s public image was on the floor, with the ramifications of a widely publicised “ blackout ” campaign ongoing, the cancellation of Physint (and its subsequent adoption by Xbox ), a poorly received State of Play , and lower than expected reviews for Marvel’s Wolverine . Read the full article on pushsquare.com
 
 ### PS5 s Release Schedule Is Insane Next Week, and It s Just Added Another Must-Play
 Sat, 24 Oct 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/10/ps5s-release-schedule-is-insane-next-week-and-its-just-added-another-must-play
@@ -100,42 +112,9 @@ Fri, 23 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-po
 
 Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4 . It's been a couple of years since I last dove into a Call of Duty, so hopefully this one is worth it! Read the full article on pushsquare.com
 
-### What a Loss for All of Us : Boss of Baldur s Gate 3 Maker Reacts to BioWare Closure
-Fri, 23 Oct 2026 17:00:00 GMT — https://www.pushsquare.com/news/2026/10/what-a-loss-for-all-of-us-boss-of-baldurs-gate-3-maker-reacts-to-bioware-closure
-
-Larian Studios CEO shares his thoughts. Publisher EA shocked fans and industry veterans alike earlier this week with its 400-person layoff , notably including the closure of the legendary RPG studio, BioWare. Many people have shared their thoughts on the matter, with almost everybody lamenting the move from EA, but it's worth highlighting this commentary from Swen Vincke, CEO at fellow RPG developer Larian Studios. Read the full article on pushsquare.com
-
-### We re Victims of Xbox s Change in Strategy : Dishonored Dev Has Weeks to Save Itself
-Fri, 23 Oct 2026 16:30:00 GMT — https://www.pushsquare.com/news/2026/10/were-victims-of-xboxs-change-in-strategy-dishonored-dev-has-weeks-to-save-itself
-
-Update: Journalist says he'd be surprised if studio shuts down. While the future of former Xbox first-party devs like Double Fine and Undead Labs has already been determined, it’s been a while since we heard word from Arkane Lyon , the studio behind the acclaimed Dishonored games. Now an article by Le Monde (paywalled) gives an insight into the struggles of the French studio, as it races to find a buyer before a 13th November deadline. Read the full article on pushsquare.com
-
-### Poll: Are You Taking Time Off for GTA 6?
-Fri, 23 Oct 2026 16:00:00 GMT — https://www.pushsquare.com/features/poll-are-you-taking-time-off-for-gta-6
-
-USA set for a massive financial hit on 19th November. We're now less than a month away from the arrival of GTA 6 , and according to recent reporting , its launch day alone may cost America $1 billion. That's because an estimated 1.5 million workers are planning to take 19th November 2026 as a day off, allowing them to fully immerse themselves in Jason and Lucia's adventure throughout the day. Read the full article on pushsquare.com
-
-### Nearly 12 Million Capcom ID Accounts Affected in Huge Data Breach
-Fri, 23 Oct 2026 15:45:00 GMT — https://www.pushsquare.com/news/2026/10/nearly-12-million-capcom-id-accounts-affected-in-huge-data-breach
-
-"Capcom sincerely apologizes". Japanese publisher Capcom has released a statement regarding a recent data breach, which has resulted in the unauthorised access to nearly 12 million Capcom ID accounts. Capcom ID is a free unified account system that grants access to online play in certain Capcom games, enables cross-platform play, and more. If you've played a Capcom game in the last five years or so, you will almost certainly have an account. Read the full article on pushsquare.com
-
-### Helldivers 3? Not Unless It s Very Different from Helldivers 2, Says Arrowhead
-Fri, 23 Oct 2026 15:15:00 GMT — https://www.pushsquare.com/news/2026/10/helldivers-3-not-unless-its-very-different-from-helldivers-2-says-arrowhead
-
-Players are "keeping the game alive". One of the more successful recent attempts at a live service game is Helldivers 2 , published by Sony and developed by Arrowhead Studios. It seems the latter is in no rush to follow it up with a Helldivers 3. Speaking to Rock Paper Shotgun , chief creative officer Johan Pilestedt says a third game in the co-op shooter series would only get made if it's very different from the current game, or if players simply stopped showing up. Read the full article on pushsquare.com
-
-### Round Up: STEINS;GATE RE:BOOT PS5 Reviews - Here s What the Critics Are Saying
-Fri, 23 Oct 2026 14:45:00 GMT — https://www.pushsquare.com/news/2026/10/round-up-steinsgate-reboot-ps5-reviews-heres-what-the-critics-are-saying
-
-Back to Akihabara. I’ve not had a chance to finish reading STEINS;GATE RE:BOOT yet, and considering how busy my current work schedule is, I think I’m going to put it down for now and concede defeat. (I do intend to get back to it at some point.) However, I still wanted to get something up on the site about this visual novel, which is a second re-release of the 2009 time traveller tale, developed by MAGES. Read the full article on pushsquare.com
-
 ## Game Developer
 
-### GameMaker's GMRT runtime will soon be free for all developers
-Fri, 23 Oct 2026 17:51:14 GMT — https://www.gamedeveloper.com/programming/gamemaker-s-gmrt-runtime-will-soon-be-free-for-all-commercial-devs
-
-GameMaker's GMRT runtime will be free to use for all developers starting in 2027.
+_Nothing in the last 48 hours._
 
 ## VGC
 
@@ -144,22 +123,32 @@ Sat, 24 Oct 2026 17:55:53 +0000 — https://www.videogameschronicle.com/news/a-f
 
 The point-and-click game includes voice acting by the original cast… Source
 
-### Podcast: With BioWare closed, what s left of the studios we grew up with?
-Fri, 23 Oct 2026 15:26:27 +0000 — https://www.videogameschronicle.com/blog/podcast/podcast-mass-effect-4-has-been-cancelled-as-ea-closes-bioware/
-
-Plus: A Pokemon store is coming to London… Source
-
-### Xbox wanted $800 million from Netflix for 7 years of its biggest characters, it s claimed
-Fri, 23 Oct 2026 15:26:11 +0000 — https://www.videogameschronicle.com/news/xbox-wanted-800-million-from-netflix-for-7-years-of-its-biggest-characters-its-claimed/
-
-Xbox is now said to be pursuing smaller deals… Source
-
-### Arkane has until November to find a buyer or face closure, it s claimed
-Fri, 23 Oct 2026 15:25:53 +0000 — https://www.videogameschronicle.com/news/arkane-has-until-november-to-find-a-buyer-or-face-closure-its-claimed/
-
-The studio's next game, Blade, was announced in 2023… Source
-
 ## Polygon
+
+### 'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure
+Sun, 25 Oct 2026 17:00:18 GMT — https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/
+
+A young girl rides atop her trusted animal companion through the apocalyptic desert of her shattered world. What is she looking for? What happened to this world? Will she be the one to save it?
+
+### Clayface Gives Skydance Its Second Box Office Weekend Win In A Row
+Sun, 25 Oct 2026 16:02:01 GMT — https://www.polygon.com/clayface-opening-weekend-box-office/
+
+Initial estimates for Clayface's opening weekend box office are in, and the lower-budget horror film took the top spot with a $24.5 million gross. Its success means Skydance, the company created when Paramount and Warner Bros. merged, has topped the box office for two straight weeks.
+
+### Forza Might Actually Lose at The Game Awards for the First Time in a Decade
+Sun, 25 Oct 2026 16:00:18 GMT — https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/
+
+The Sports/Racing category has a number of almost inviolate rules, which are as follows:
+
+### Mass Effect Universe Director Reveals Canceled Game's Multiverse System
+Sun, 25 Oct 2026 15:38:08 GMT — https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/
+
+BioWare's canceled Mass Effect game would have been more than just one "universe."
+
+### Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027
+Sun, 25 Oct 2026 15:08:49 GMT — https://www.polygon.com/the-legend-of-california-delay/
+
+Former Overwatch developers Jeff Kaplan and Tim Ford are currently working on a survival game called The Legend of California at their new studio Kintsugiyama. While the game was previously slated for a Steam Early Access release in 2026, a new r/pcgaming Reddit AMA affirmed it has been pushed back to 2027.
 
 ### Elden Ring Has Quietly Become A24's Most Expensive Movie Yet
 Sun, 25 Oct 2026 14:10:43 GMT — https://www.polygon.com/elden-ring-movie-budget/
@@ -186,32 +175,47 @@ Sun, 25 Oct 2026 12:05:18 GMT — https://www.polygon.com/nintendo-super-mario-j
 
 The original side-scrolling Super Mario Bros. is widely considered to be one of the best games of all time, and the list of reasons justifying that assertion is long. The NES game made Nintendo into a household name, and Mario into a media icon as recognizable as Mickey Mouse. The 1985 video game helped bring games into the mainstream, and it defined platforming as a video game genre. Super Mario Bros. remains one of the best-selling games of all time. Yet if you ask series creator Shigeru Miyamoto, none of these things truly capture SMB 's biggest contribution to the world of video games.
 
-### BioWare's Closure Is Just the Tip of the Iceberg
-Sun, 25 Oct 2026 12:00:18 GMT — https://www.polygon.com/patch-notes-bioware-closure/
-
-We're in the middle of an outpouring of mourning for the studio, and for the Mass Effect Universe we never got . BioWare's talented developers will hopefully all go on to great things elsewhere, and many already have. (Who's looking forward to Exodus ?) Maybe Mass Effect and Dragon Age will return; in this age of zombie IP, it seems a safe bet that they will. What's really lost at a moment like this, though, is institutional knowledge and culture, the malleable but enduring practices and principles that survive the departure of founders and team leads and are nurtured by new hands. It's a terrible loss.
-
-### 9 Near-Perfect 'Far Side' Comics Starring the Nerdy Kid
-Sun, 25 Oct 2026 11:00:18 GMT — https://www.polygon.com/best-nerdy-kid-far-side-comics/
-
-One of the biggest differences between The Far Side and most other comic strips is that The Far Side doesn’t have a recurring cast of characters. Charles Schulz’s Peanuts , for example, had Charlie Brown, Linus, Lucy, Snoopy, and the rest of the gang, while Jim Davis’ Garfield has Garfield, Odie, Jon, and a handful of other recurring characters. But Gary Larson’s The Far Side , with its non-sequitur, single-panel jokes, didn’t have regular characters, or at least not really .
-
-### Vincent Price Is the Weirdest Serial Killer Ever in this '70s Cult Classic
-Sun, 25 Oct 2026 10:00:18 GMT — https://www.polygon.com/halloween-horror-what-to-watch-vincent-price-abominable-dr-phibes/
-
-We are 10 minutes into The Abominable Dr. Phibes , and nobody has spoken a word. Robert Fuest’s 1971 horror film is a surreal, kitsch, and intentionally funny murder-museum of a movie. But it's also dreamlike and deeply strange in a way that lingers after you've watched it.
-
-### 5 Near-Perfect Psychological Thriller Movies Streaming for Free
-Sun, 25 Oct 2026 08:54:46 GMT — https://www.polygon.com/best-psychological-thrillers-movies-streaming-free-online/
-
-Psychological thrillers trigger a fight-or-flight response within a controlled environment and entertain us at the same time. Interpersonal relationships become the source of anxiety, as there’s more at stake than someone’s physical safety — their very sanity is on the line. The novelty of great psychological thrillers like Rear Window (1954), Memento (2000), or Mulholland Drive (2001) does not wear off after a first watch. There’s more to glean than suspense or twist, as catharsis is an integral part of the experience. Unfortunately, all those movies are locked up behind various streaming service subscriptions (if they're available to stream at all).
-
-### 23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History
-Sun, 25 Oct 2026 08:08:18 GMT — https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/
-
-Buffy ’s writers gave Spike some of the show’s sharpest one-liners — who could forget “Out. For. A. Walk. Bitch.”? But his best line comes in the series finale, “Chosen.” It’s the natural culmination of a character pulled between heroism and selfishness for most of his life, and it captures the complicated truth of his relationship with Buffy.
-
 ## PC Gamer
+
+### 'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure
+Sun, 25 Oct 2026 18:24:00 +0000 — https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/
+
+Last week, the other shoe dropped for legendary RPG studio BioWare: shortly after EA's acquisition by Saudi Arabia's Public Investment Fund and investment firms Silver Lake and Affinity Partners, the gaming giant shut down BioWare and canceled Mass Effect 5. Fans have spent the intervening days combing through the detritus of the next game in the series' leaked remains , and some have even signed a change.org petition to save the series. Right now, that #SaveMassEffect petition has hit over 180,000 verified signatures. Notably it does not call for EA to walk back its decision to shut down BioWare. Instead, it's about keeping the Mass Effect series going: "We are urgently petitioning EA to take decisive action by committing to the continued development of Mass Effect," Joe Smith's plea reads. "Alternatively, EA could consider licensing the Mass Effect intellectual property to another studio that shares the passion and vision to keep it alive and allow it to flourish anew." Of course, EA is not beholden to the demands of a digital petition—the chances that this will inspire a revolution of the heart throughout the industry's C-suites are not high. One could argue that, if the publisher held the legacy of Mass Effect or, indeed, the computer RPG itself as a priority, it would not have shut down BioWare in the first place. But this petition has proven a lightning rod of enthusiasm for fans of the series, who are sharing their memories of the games along with their signatures. "Yo
+
+### The creator of our running RPG of the year weighs in on BioWare's closure: 'They were fundamental to the genre'
+Sun, 25 Oct 2026 18:23:41 +0000 — https://www.pcgamer.com/games/rpg/the-creator-of-our-running-rpg-of-the-year-weighs-in-on-biowares-closure-they-were-fundamental-to-the-genre/
+
+With the closure of RPG standby BioWare, we've been consulting the PC Gamer rolodex and reaching out to developers for their thoughts and reflections on the legendary studio. Lead SEO editor Lauren Morton spoke to 16 devs who joined this industry because of BioWare games . I was happy to hear back from Christoffer Bodegård, developer of our current RPG of the year frontrunner, Esoteric Ebb , on what BioWare meant to him. 2026 games : All the upcoming games Best PC games : Our all-time favorites Free PC games : Freebie fest Best FPS games : Finest gunplay Best RPGs : Grand adventures Best co-op games : Better together ]]>
+
+### Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious
+Sun, 25 Oct 2026 18:00:00 +0000 — https://www.pcgamer.com/games/moba/riot-resurrected-3-of-its-biggest-league-of-legends-pop-groups-but-only-one-emerged-victorious/
+
+Critical Hit (Image credit: Future) Welcome to Critical Hit , where I (or someone else on the PC Gamer team) celebrate and lament all things videogame music, audio design, and the ways our favourite games make our ears tingle. Despite my experience with League of Legends (the videogame) being incredibly minimal, I've spent years in admiration and awe at League of Legends (the music). Riot has found a real knack for taking its champs and turning them into bona fide popstars, rockstars, and hip-hop stars—bringing in talented and well-established artists across the globe and carving out a space in the mainstream music world with certified bangers fronted by fictional characters. Some might argue (it's me, I'm some) that Riot Music found the height of its success towards the end of the 2010s with the likes of K-pop girl group K/DA's Pop/Stars and hip-hop group True Damage and their song Giants. The former, in particular, made waves when it released—it topped charts and led to K/DA becoming the first K-pop girl group to be certified platinum. That's not to say it hasn't done anything good since, mind, as 2023 saw Riot convert six of its champs into the boyband Heartsteel, with a distinctly cheeky vibe. It makes it even more surprising, then, that Riot Music has barely done a thing with any group in the years since. K/DA returned in 2020 with a new look and new EP—which was a banger, by the way—but True Damage and Heartsteel were one-hit wonders, and K/DA has lain dormant for the l
+
+### Overwatch devs took one look at Jetpack Cat and Bastion's combo and went 'oh, that's a little scary'
+Sun, 25 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/fps/overwatch-devs-took-one-look-at-jetpack-cat-and-bastions-combo-and-went-oh-thats-a-little-scary/
+
+Almost a year ago now, Team 4 debuted a new kind of Overwatch , and as part of the huge spotlight we learned that the live service FPS would undergo a new cadence with yearly themes comprising several seasons. Five new heroes were also added straight away; Mizuki, Emre, Anran, Domina, and of course Jetpack Cat. Ahead of being added to the game, Overwatch's community was overjoyed to see Jetpack Cat, an adorable little ginger kitty in a flying mech—what's not to love? But sentiment quickly shifted after she took to the battlefield. Jetpack Cat broke the game with her new Apache helicopter meta which saw her haul Bastion high into the air so he could gun down the entire enemy team while in turret mode, it was truly horrific. (Image credit: Blizzard Entertainment) Who could've predicted that the adorable little cat would cause so much havoc? Well Team 4 had an inkling while Jetpack Cat was in the testing phase. "Internally we were like, 'oh, that's a little scary'," Associate Game Director Alec Dawson tells me. "We were play testing [Jetpack Cat and Bastion] a little bit. I think at one point it was also Jetpack Cat, Bastion, and Mercy. The full trio. It's like an even scarier helicopter." This Jetpack Cat meta became so strong that it dominated OWCS from the get go. I haven't seen a new hero utilised so heavily and quickly in Overwatch's esports scene for a long time, so it brought home just how busted this team-up was. Jetpack Cat would eventually undergo some reworks , for ex
+
+### Dark Souls 2 Seamless Co-op is the chillest way to play FromSoft's most frustrating game
+Sun, 25 Oct 2026 16:56:24 +0000 — https://www.pcgamer.com/games/dark-souls/dark-souls-2-seamless-co-op-is-the-chillest-way-to-play-fromsofts-most-frustrating-game/
+
+I have always been one of those pro-Dark Souls 2 revisionists , but man, they really chafe your hams on this one. Iron Keep, Shrine of Amana, Dragon Shrine: Mention these levels to even the most hardened Souls veteran, and they're liable to break into a cold sweat, flashing back to waves of frustrating, overlapping enemies rushing them down to ruin their day. That's not to mention the co-op first DLC zones that mercilessly brutalize the solo player. FromSoft is a longtime co-op innovator, but its focus has always been limited, diegetic systems meant to supplement solo play, not replace it. Enter legend modder Yui, whose Seamless Co-op series removes the speed bumps of FromSoft co-op, introducing shared story progress and a siloed system of servers and saves to protect your vanilla game progress from anticheat scrutiny. Even though Dark Souls 2 is rapidly approaching its 13th birthday, it is the most recent game to receive the Seamless Co-op treatment. Its mechanical weirdness and lower popularity compared to other entries may help explain why it's gone last. As a longtime fan of this strange, prickly game, I'm delighted to have found a new favorite way to play it⁠—one with way less trial and error, and way more laughs. I reunited with PCG contributor Tyler Colp and senior guides writer Sean Martin for this adventure. Together, our ka-tet burrowed its way to the maximum Depth Five difficulty of FromSoft's tied-for-most-frustrating game , Elden Ring Nightreign. By comparison, D
+
+### Jordan Thomas, director of BioShock 2, played Path of Exile for over 7,000 hours while working on co-op horror game The Blackout Club: 'I was essentially awake all the time'
+Sun, 25 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/gaming-industry/jordan-thomas-director-of-bioshock-2-played-path-of-exile-for-over-7-000-hours-while-working-on-co-op-horror-game-the-blackout-club-i-was-essentially-awake-all-the-time/
+
+Disk Cleanup (Image credit: Future) Welcome to Disk Cleanup , our regular weekend feature delving into the PCs of PC gaming luminaries. Come back every weekend to read a new interview, digging into the important questions, like "How tidy is your desktop?" and "What game will you never uninstall?" Jordan Thomas grew up during the shareware era of PC gaming, fed a steady diet of free game demos by his father. "This is embarrassing in a way, but the first one I remember connecting to enough to do drawings at school—and it's so immature—but it's old Commander Keen ," he says. "It was a quick segue from that into Wolfenstein and Quake . So weirdly, Commander Keen was a gateway drug into darker games that would then become my focus for a very long time." Indeed, Thomas' debut in the games industry was dark in the most literal sense, as he was hired by Ion Storm Austin to work on Thief: Deadly Shadows . There, Thomas built that game's most famous level, The Shalebridge Cradle . Following Ion Storm's closure, Thomas moved to Irrational, where he led the design of BioShock 's Fort Frolic before moving to 2K Marin and directing BioShock 2 . After working on BioShock Infinite , Thomas founded the indie studio Question, creating games like The Magic Circle , The Blackout Club , and South Park: Snow Day . Question's most recent game is The Killing Stone , a dark roguelike deckbuilder inspired by Shakespearean drama which has just launched out of early access. "It's set in the 17 th centur
+
+### 'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass
+Sun, 25 Oct 2026 15:26:00 +0000 — https://www.pcgamer.com/gaming-industry/this-is-the-bit-where-the-comet-hits-the-earth-and-the-dinosaurs-die-tim-sweeney-revisits-scathing-26-year-old-eulogy-for-beloved-studio-looking-glass/
+
+On May 24, 2000, Epic Games CEO Tim Sweeney shared a public statement (the specific platform or venue eludes me) on the closure of Looking Glass Studios, a canonical PC gaming institution and originator of the immersive sim genre ( maybe don't call it that, though ). The statement was resurfaced by immsim enthusiast account Sinnoware on Twitter, and Sweeney has since responded. Here's Sweeney's original statement from 2000 in full: Responding to the post's resurfacing, Sweeney stands by his assessment of this prior moment of studio closures and industry uncertainty: "Sometimes the creative magic that makes a game loved by some isn't accompanied by the economics of a viable business," he wrote. "Game businesses are businesses, and though one can invest in anticipation of future profit or growth, ultimately a company must earn enough to pay the bills. "This is a challenge all game makers face, and it's magnified during downturns. The solution? Make a great game, make it efficiently, and set the budget based on the size of the audience that will pay for it. Technology that helps achieve that is, in my opinion, good." A number of prominent industry figures took issue with Sweeney's take. Danny O'Dwyer of Noclip and Arkane co-founder Raphael Colantonio both emphasized the lingering artistic impact of Looking Glass. Gloomwood developer Dillon Rogers wrote Sweeney's statement off as "the mindset of an asshole CEO." I'm not particularly fond of Epic's games or Sweeney's ' metaverse '
+
+### This third-person mod for Deus Ex turns the classic immersive sim into Max Payne, introducing dual-wielding and shoot-dodging
+Sun, 25 Oct 2026 14:41:17 +0000 — https://www.pcgamer.com/games/sim/this-third-person-mod-for-deus-ex-turns-the-classic-immersive-sim-into-max-payne-introducing-dual-wielding-and-shoot-dodging/
+
+The idea of playing Deus Ex entirely in third person has always seemed like sacrilege to me. I like my immersive sims to be, well, immersive, to let me see the world through my character's eyes and interact with it up close and personal. Yet having just watched several videos of Deus Ex being played in third-person, I've realised that perhaps I wouldn't be so averse to experiencing Ion Storm's cyberpunk classic from a new perspective. Especially if that new perspective involves Max Payne -style bullet dodging. Over the last week or so, YouTuber dan2091 posted numerous videos of a WIP third-person mod for Deus Ex. Presumably, the mod is dan2091's own creation, though there's no information in the video's descriptions or the channel more generally to confirm this. In any case, the various clips demonstrate that there's more to the mod than a simple camera shift. One video shows a system that lets JC Denton wear different clothes , making the most of the player's ability to see their own character. Another video shows bespoke ladder climbing animations , while a third showcases a new dual-wielding system . The latter functions regardless of whether the player is in first-or-third person too, which is neat. What most caught my eye across the videos, however, is that JC is considerably nimbler in his third-person incarnation, able to both roll and shoot-dodge while blasting enemies with his dual pistols in a manner highly reminiscent of Max Payne. In fact, I'm pretty sure that tho
 
 ### Civilization 7's game changing update was 'personally challenging' for its creative director, as being able to play as a single faction 'wasn't part of the original vision'
 Sun, 25 Oct 2026 13:20:37 +0000 — https://www.pcgamer.com/games/strategy/civilization-7s-game-changing-update-was-personally-challenging-for-its-creative-director-as-being-able-to-play-as-a-single-civ-wasnt-part-of-the-original-vision/
@@ -233,92 +237,12 @@ Sat, 24 Oct 2026 18:10:01 +0000 — https://www.pcgamer.com/games/horror/penguin
 
 Need to know What is it? Lovecraftian horror through the eyes of a penguin. Release date October 16, 2026 Expect to pay $15 / £13 Developer Origame Digital Publisher Fellow Traveller Reviewed on RX 9070 XT, Core i5 12600K, 32 GB RAM, Steam Deck Multiplayer No Steam Deck Verified Link Steam Penguin Colony is a work of cosmic horror that I would recommend to anyone with even a passing interest in scares from the beyond , even though its unique penguin platforming can be frustrating to wrangle. It's a radical recontextualization of an H.P. Lovecraft classic with a clear affection for the writer's storytelling, but also scathing contempt for his racism. For my money, it's not October without a weird-ass new indie horror game leaving a lasting impression on me, and Penguin Colony has satisfied my annual craving. You are a penguin witnessing the events of the Lovecraft story, At the Mountains of Madness. Your powers are honk, slide, swim, and hop. Rather than being limited to a specific bird, you are able to possess any penguin you come across, theoretically using different species' abilities to tackle different movement challenges. Aside from using little baby penguins to squeeze into tight spaces, I was almost exclusively a Rockhopper main: Their impressive vertical jump was a boon in many areas. They shoulda hooped instead of investigating The Strange. The GOAT, PC Gamer Tales from The Hard Drive host Lenval Brown, narrates the adventure from the perspective of a customarily neu
 
-### BioWare's incredible legacy will continue as long as there are RPGs
-Sat, 24 Oct 2026 18:00:00 +0000 — https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/
-
-Dungeon Master (Image credit: Future) For my column this week I was going to write about climbing all over monsters in Dragon Dogma 2's chilly Dark Arisen expansion, but then EA decided to finally murder BioWare after years of slowly poisoning it. So sadly I am pivoting to this eulogy. It's hard to discuss BioWare's demise without detailing the corporate meddling that led to one of gaming's most celebrated and enduring studios getting the axe. BioWare made mistakes, undeniably, but the buck stops at the executives who gutted its teams and never understood, for instance, the popularity of Dragon Age. But things are bleak enough and you know all this already. So instead, I want to celebrate BioWare's impressive impact, which will continue for as long as studios are designing RPGs. Even if BioWare ceased to exist after its incredible run of Infinity Engine games, it would still be considered an icon. Baldur's Gate was, for so many people, the CRPG, defining an era of roleplaying games and echoing across the decades. We're still talking about it, and studios are still designing games built on that old foundation. Owlcat, Obsidian, Larian—three of the biggest RPG studios of the current era have all dipped into that well. Without BioWare we'd not have the Pathfinder CRPGs, Pillars of Eternity or Tyranny, and Baldur's Gate 3 certainly wouldn't exist. (Image credit: BioWare) Obsidian as we know it would likely be a very different studio without BioWare, if it existed at all. It forme
-
-### Now it's over, WoW: Forever's beta has left me with just one fear—its endgame
-Sat, 24 Oct 2026 17:00:00 +0000 — https://www.pcgamer.com/games/world-of-warcraft/now-its-over-wow-forevers-beta-has-left-me-with-just-one-fear-its-endgame/
-
-Terminally Online (Image credit: Future) This is Terminally Online : PC Gamer's very own MMO column. Every other week, I'll be sharing my thoughts on the genre, interviewing fellow MMO-heads like me, taking a deep-dive into mechanics we've all taken for granted, and, occasionally, bringing in guest writers to talk about their MMO of choice. World of Warcraft: Forever 's beta has just ended, and I'm basically sold, for now. I've had such a good time, in fact, that I dipped at around level 26 on my warrior (and 16 on a Shaman) because I didn't want to spoil or burn myself out before the full thing releases in November and I am consumed in a quest-drunk fugue. But there is one thing that's rattling around in the back of my mind: This version of WoW is designed to be played perpetually (so in MMO terms, for about 10-20 years, give or take) at the level cap. There won't be any expansions, and the game will continue to expand horizontally. Which leaves a major question hanging over its endgame. Now, collecting a few interviews together, we've seen a smidge of what that'll look like. In an interview with SkillUp , associate production director Clay Stone contrasts overtly horizontal progression systems (such as the Legacy tree) and gear, which he notes "our intention very much is to try to limit the amount of power progression as we release each raid tier." Speaking to IGN Nordic , lead game designer Tim Jones says that "we're not going to make a Tier 2 raid without making the loot 
-
-### New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims
-Sat, 24 Oct 2026 16:00:00 +0000 — https://www.pcgamer.com/games/sim/new-blood-ceo-confirms-it-the-worst-way-to-sell-immersive-sims-like-gloomwood-and-fallen-aces-is-to-call-them-immersive-sims/
-
-Fans of Deus Ex, Dishonored and Gloomwood like to roll the words 'immersive sim' around their mouths as often as possible, savouring the fond associations with first-person drawer-rifling and guilt-ridden murder. Yet there's something like consensus emerging among the makers of these games: it's really hard to sell an immersive sim while calling it by its name. "Is it a good marketing term? No," says New Blood Interactive CEO Dave Oshry. "It sucks. It's awful." (Image credit: New Blood) New Blood was first known for its boomer shooters, namely Dusk and Ultrakill , but has sunk years into two early access imsims, the well-regarded Gloomwood and Fallen Aces . Oshry likes to joke that he's "dumping all the money into immersive sims so we can go broke like the great studios that came before us, like Looking Glass." Yet he'd never heard the term immersive sim until Gloomwood lead Dillon Rogers started work on his Thief-and-Resi-riffing open world. "He's like, 'That's what these are called'. I'm like, 'I have never heard that before in my life. What the fuck are you talking about?'" Oshry wasn't new to the genre. He'd grown up adoring Deus Ex and Thief. "But Thief was a stealth game," he protests. "I called it a stealth game. Deus Ex I called an FPS-RPG because it was an FPS, but it was an RPG. You had points that you put in stuff. That's what an RPG is, like Diablo." (Image credit: New Blood) Of course, ploughing points into skills and traits is something that's proliferated acros
-
-### The mouse P.I. for hire from Mouse: P.I. For Hire joins the meat boy from Super Meat Boy 3D in gaming's latest indie crossover
-Sat, 24 Oct 2026 15:46:15 +0000 — https://www.pcgamer.com/games/action/the-mouse-p-i-for-hire-from-mouse-p-i-for-hire-joins-the-meat-boy-from-super-meat-boy-3d-in-gamings-latest-indie-crossover/
-
-It seems like there's a new slightly-humorous-for-its-incongruity collab between game devs every other week at this point, and the latest in this sacred lineage is a team-up between Super Meat Boy 3D and Mouse: P.I. For Hire. The latter game's titular mouse detective has been squished into a cube-like shape and sent to navigate a hellish labyrinth full of sawblades for the rest of his miserable existence. Oh, and the screen goes all black-and-white when you play as him, just like the FPS he comes from. This might all seem downstream of cynical money devourers like Fortnite, but at least these games share something in both being indie(ish) cartoony pastiches with a gore-slick twist. Besides, Meat Boy is an OG when it comes to invasions of strangers' videogames. You could play as him in the Bit.Trip games, and in turn CommanderVideo cameoed in Super Meat Boy. If you're too Gen A to understand a single word I just said about the halcyon days of 2010s indie gaming, that's okay. I'll just go lay down and die. But if you want to jump up and die, spectacularly and repeatedly, that's what Super Meat Boy 3D is for. PC Gamer Australian Editor Shaun Prescott wasn't exactly head over heels for it in his impressions —he said it had "no vibe," lacking the skeezy-yet-tasteful tastelessness of Edmund McMillen's touch—but still felt pretty good as far its running and jumping and exploding were concerned. Seems like that's enough for some, as the game currently sits at a Very Positive rating o
-
-### Japan Actors Union pushes for heavy restrictions on AI copying dead actors
-Sat, 24 Oct 2026 15:33:23 +0000 — https://www.pcgamer.com/software/ai/japan-actors-union-pushes-for-heavy-restrictions-on-ai-copying-dead-actors/
-
-The Japan Actors Union, an org consisting of around 2,600 actors and voice actors, recently announced a series of measures to protect the rights of performers in the industry with regard to generative AI (reported in English via Automaton Media ). It's been a hot topic both in Japan and here in the west, with Leon Kennedy actor Nick Apostolides arguing AI voice acting was something of an oxymoron: "AI can speak lines, but there's nothing human behind it," he said . Rather than a full-on ban or tight regulation, the union's proposed guidelines push for consent at "every stage." Companies would have to disclose when an actor's voice will be used for training, and they would also be required to negotiate compensation with actors. In other words, agreeing to have your voice generated for a short-form advertisement or whatever would be like licensing your likeness to go on a cereal box. These consent guidelines would also apply to AI-translated performances, and in a more restrictive way to the mimicry of deceased actors, such as Tupac's controversial "appearance" in the upcoming Stranger Than Heaven. The guidelines would ban using AI to copy a dead actor's voice unless consent had been obtained prior to their death. They would also require consent from the actor's living family, estate, or other administrative org, as well as royalty payments to those parties. "It protects the dignity, honor, and legacy of deceased performers from commercial exploitation," said the union (auto-tr
-
-### Are we in the cozy gaming gold rush era? 'Cozy' has grown over 250% on Steam and 200% in my inbox since 2024
-Sat, 24 Oct 2026 15:10:00 +0000 — https://www.pcgamer.com/games/life-sim/are-we-in-the-cozy-gaming-gold-rush-era-cozy-has-grown-over-250-percent-on-steam-and-200-percent-in-my-inbox-since-2024/
-
-Cozy games on Google The past five years of search demand on Google for cozy games, relaxing games, and casual games. Google Trends Interestingly, the resurgence of "casual games" is even more pronounced at a worldwide view. Google Trends First let's check back in on the same Google Search data I pulled in 2023 to compare how much we, the audience, are actually seeking cozy games. We're looking at the past five years or search interest for the terms: cozy games, relaxing games, and casual games. The main term "cozy games" is twice as popular as it was in 2023 when I identified the surprising spike the phrase had already experienced between 2020 and 2023. Google doesn't share raw search volume so this is all relative, not absolute, but it's still clear evidence that the interest in cozy games has continued to explode. What is surprising to me is the comeback for the phrase "casual games." It's one we used a lot in the late twenty-teens but was eclipsed by "cozy" around 2022. Anecdotally, I think "casual" suffered from also being pejorative and may have fallen away in favor of the more positive tone "cozy." They aren't exactly interchangeable terms, but it's interesting to see casual make such a sharp comeback this year, which may mean some cozy gamers are reclaiming it. Cozy games on Steam (Image credit: Steam, Pounce Light) Okay, then what about the supply of cozy games? Yeah, that's gone up too. Year "Cozy" tagged games on Steam 2024 389 2025 650 2026 (so far) 1,341 This isn
-
-### The best feature in the original Alan Wake is an absence: the man has no reticle
-Sat, 24 Oct 2026 15:00:00 +0000 — https://www.pcgamer.com/games/horror/the-best-feature-in-the-original-alan-wake-is-an-absence-the-man-has-no-reticle/
-
-Weird Weekend Weird Weekend is our regular Saturday column where we celebrate PC gaming oddities: peculiar games, strange bits of trivia, forgotten history. Pop back every weekend to find out what Jeremy, Josh and Rick have become obsessed with this time, whether it's the canon height of Thief's Garrett or that time someone in the Vatican pirated Football Manager . There's a recurring motif in Alan Wake which isn't played for laughs, yet is pretty funny nonetheless. Whenever the alcoholic FBI agent has a chance to peacefully capture our fugitive novelist, he blows it by firing his service pistol wildly through the air. The local police chief tells him to cool his jets; the late night radio host wants to know what's the matter with him. But Agent Nightingale can't help himself. It's as if the pressure of having a target in his sights is simply too much. He flips the board, all the pieces fly everywhere, and Alan Wake is lost amid the trees. "I'll get you yet," Nightingale hollers into the dark. "Even if it kills me, y'hear me HP Lovecraft?" (Image credit: Remedy) Wake, meanwhile, remains impervious to the man's vendetta. "I'd fallen off so many cliffs it was ridiculous," he thinks to himself as he slides on his arse down a steep embankment, escaping Nightingale's clutches once again. It's all a little embarrassing. But I do sympathise with the humiliated drunk behind the badge. There's something about aiming a gun in Bright Falls that messes with your head and gets the better 
-
-### 'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'
-Sat, 24 Oct 2026 14:30:20 +0000 — https://www.pcgamer.com/gaming-industry/game-development/i-drank-from-the-chalice-of-blood-indie-dev-scrubs-his-game-of-ai-generated-voice-lines-having-previously-described-the-technology-as-anti-human-and-anti-art/
-
-Well, here's a headscratcher. Paolo Pedercini, developer of Future? No Thanks! recently admitted to using generative AI in his ecosocialist satire while also referring to the technology as "a technofascist, anti-human and anti-art project." Now, the developer has removed several AI generated voice lines from the game, following a backlash to his use of the very technology which the game lampoons. You might remember Future? No Thanks! from another recent controversy, whereupon the game was briefly delayed after Steam held up its release while it reviewed some fleeting nudity in the game. Pedercini—who also goes by Mollieindustria—received considerable support during that debacle. But the reaction to Future? No Thanks' AI use has been rather less supportive, prompting Pedercini to rework the game and respond to the backlash. Pedercini originally revealed his AI use in a blog post (via Rock, Paper, Shotgun ). Apparently, the game contained several voice lines generated using text-to-speech, which Pedercini claimed, "used to be an uncontroversial technology and an early application of neural networks" before "AI bros started commercializing AI voices". Alongside this, the game also includes "a tiny fraction" of AI generated code, which Pedercini said he used for things like "fixing a shader I didn't write which broke after an update" as well as "finishing touches and minor debugging." In this blog, Pedercini defended his AI use by pointing out that Future? No Thanks! "satirizes g
-
 ## GameSpot
 
 ### Call Of Duty: Modern Warfare 4 s First DLC Is Out Now, Honors A Real Soldier Who Sustained Gruesome Injuries
 Fri, 23 Oct 2026 19:37:03 +0000 — https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/
 
 Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack , with proceeds going to Activision's charity that supports military veterans find new jobs after they leave the service. The CODE Valor Pack adds the real-life Medal of Honor recipient Kyle Carpenter to the game as a playable character. Carpenter was in Marjah, Afghanistan, when, on November 21, 2010, he put himself in front of a grenade to help save the life of his fellow Marine, Nick Eufrazio. Carpenter sustained serious injuries from the grenade blast. He was unconscious for five weeks, had his teeth stripped from his mouth, and lost an eye. He sustained numerous other life-threatening injuries in the blast. Carpenter received the Medal of Honor from President Barack Obama in 2014. At the ceremony, Obama said, "They found Kyle lying face down, directly over the blast area. His helmet was riddled with holes. His gear was melted. Part of his Kevlar vest was blown away. One of the doctors who treated him later said Kyle was, 'Literally wounded from the top of his head to his feet.'" Carpenter underwent brain surgery to remove shrapnel from his head. He had about 40 other surgeries to addresses his injuries, which included a collapsed lung, fractured fingers, and one arm that broke in more than 30 places. He had multiple skin grafts and now has a prosthetic eye, a new jaw, and
-
-### Shepard Actor Reacts To Leaked Mass Effect Trailer, Is Holding Hope The Game Will Live On
-Fri, 23 Oct 2026 18:01:01 +0000 — https://www.gamespot.com/articles/shepard-actor-reacts-to-leaked-mass-effect-trailer-is-holding-hope-the-game-will-live-on/
-
-Prolific and veteran gaming actor Jennifer Hale, who is known for voicing Commander Shepard in the Mass Effect series, has reacted to the closure of BioWare and the cancellation of the next game in the series. After footage of the new project, Mass Effect Universe , was released, Hale said , "It's extraordinary." She added: "I’m holding hope for magic to happen. This community and you incredible vevs deserve that and more." A "Save Mass Effect" Change.org petition was launched this week to urge EA to "take decisive action by committing to the continued development of Mass Effect." The petition has more than 65,000 signatures so far. All of BioWare's new releases in the past decade--Mass Effect: Andromeda, Anthem, and Dragon Age: The Veilguard--were commercial disappointments. Against that backdrop, closing the studio makes a lot of financial sense , but it's upsetting to the millions of Mass Effect fans who adore the franchise and want to see it continue. Based on insider reporting, the new Mass Effect game would have mixed covert ops with John Wick-inspired action , and that got a lot of people excited about what could have been. Composer Bear McCreary, who has done work for the God of War and Call of Duty franchises, reacted to BioWare's closure, too . Asked if the laid-off BioWare developers could take what they had and complete the project as a "spiritual successor" via crowdfunding, McCreary said it's a good idea but is probably unrealistic. "Man, I want to believe. But,
-
-### The Next Mass Effect Sounded Like John Wick In Space
-Fri, 23 Oct 2026 17:31:41 +0000 — https://www.gamespot.com/articles/the-next-mass-effect-sounded-like-john-wick-in-space/
-
-After news broke that EA would be shutting down BioWare , more details on the studio's in-development Mass Effect have begun to trickle out. A trailer for Mass Effect Universe hinted that the next game in the series would have a completely different tone, moving away from the galactic warfare that defined the first three games and toward covert ops, espionage, and the occasional barroom shootout. Gaming content creator and YouTuber Dantics has shed more light on the game, describing it as a Mass Effect game for the fans. Known for his lore videos, including several on Mass Effect, Dantics says he was part of a private "Mass Effect Council," a community feedback group of content creators who helped advise BioWare's small team. https://youtu.be/ZOWrTNazZxM Dantics says that Mass Effect Universe was set over 600 years after the Reaper War, and players would step into the boots of a customizable N7 agent. Players would also have a much smaller arsenal of weapons that would make them feel like a "cross between John Wick and James Bond," and they'd be working to take down a sinister force that was operating in the shadows of a galactic cold war. While Commander Shepard was a soldier, your N7 character was going to be an "agent" who would rely on cunning to get through encounters, but could apply pressure when needed--ballistic pressure, that is. Following the destruction of the relays at the end of the Reaper War, the fast-travel hubs had been rebuilt, and technology had advanced a
-
-### WoW: Forever s Divisive Layering Will See Major Improvements For Launch, Blizzard Says
-Fri, 23 Oct 2026 16:29:06 +0000 — https://www.gamespot.com/articles/wow-forevers-divisive-layering-will-see-major-improvements-for-launch-blizzard-says/
-
-World of Warcraft: Forever's layering system will receive some significant improvements for launch, according to a statement provided to GameSpot from Blizzard. Layering, for the uninitiated, is a behind-the-scenes system in WoW: Forever that essentially creates and runs new versions (or layers) of the world as needed, all running simultaneously on top of one another. According to Blizzard, players in WoW: Forever are assigned a layer based on various criteria, like familiar players and friends, language, and PvP balance. Grouping up with a player or friend who is on another layer will transport you to the same layer so you can interact. There are some pros to this system. It makes completing quests easier (since there's less competition for quests items and enemies) and the world far less crowded. It also helps performance, as anytime there are thousands of players in a concentrated area, like a capital city, the game can struggle to handle the load. Layering spreads those players out. It works wonders in modern WoW and has also been used to different degrees in various versions of WoW Classic in the past. https://www.reddit.com/r/classicwow/comments/1wwv8ed/i_get_invited_for_escort_quest_in_layer_1_after/ Unfortunately, there are also some huge downsides that have repeatedly surfaced over the course of the WoW: Forever beta. It doesn't take much searching on YouTube or Reddit to find countless instances of players complaining about layering. Leaving a group, crossing into a
-
-### Arkane Lyon Could Be Shut Down Within Weeks As Deadline To Find A Buyer Looms
-Fri, 23 Oct 2026 15:31:00 +0000 — https://www.gamespot.com/articles/arkane-lyon-could-be-shut-down-within-weeks-as-deadline-to-find-a-buyer-looms/
-
-It might be the end of the road for Marvel's Blade developer Arkane Lyon, as a new report says that the studio has until November 13 to find a buyer or face closure. Le Monde reported that while Microsoft had followed the procedure as laid out in Florange Law--French legislation that requires Microsoft to spend at least three months searching for a buyer for Arkane Lyon--negotiations were going "badly," and worker unions are currently attempting to buy more time to save jobs at the studio, which is currently still working on Marvel's Blade. The report says "several forms of takeover" are being considered, but the union's plans could include re-employing affected staff at other Xbox studios or taking Microsoft to court. According to IGN , development on Marvel's Blade was still on track for a new reveal in early 2027, followed by a Q4 2027 release. The game was originally revealed in December 2023 , but aside from a handful of concept art images since then, nothing else has been shown. Bloomberg reporter Jason Schreier also corroborated reports of "multiple paths" being explored and that he'd be surprised if the studio is shut down. https://www.youtube.com/watch?v=wB9ye56mSfk If Arkane Lyon is facing closure, it'll be the end of a studio that has been around for 27 years. Its first game was Arx Fatalis in 2002, and it followed that up with the release of Dark Messiah of Might and Magic (2006) and KarmaStar (2009). Since the 2010s, the studio has pumped out several hits like th
-
-### Battlefield 6 Reportedly Cancels Mass Effect Collab In Wake Of BioWare Closure
-Fri, 23 Oct 2026 15:48:29 +0000 — https://www.gamespot.com/articles/battlefield-6-reportedly-cancels-mass-effect-collab-in-wake-of-bioware-closure/
-
-Battlefield Studios is reportedly cancelling plans for a Mass Effect collaboration in Battlefield 6 in the wake of EA's decision to close BioWare and cancel the next game in the sci-fi series . Fans discovered various Mass Effect-themed cosmetics in Battlefield 6's files, with many speculating that they would be released in November, tied to the Mass Effect N7 Day holiday on November 7. Those cosmetics, which included Mass Effect-themed weapon charms and patches, have seemingly now been removed from Battlefield 6's in-game store prior to their general availability ( via Kotaku ). https://www.reddit.com/r/LowSodiumBattlefield/comments/1xcmb3o/the_seemingly_planned_bf6_x_mass_effect_pack_is/?utm_source=embedv2&utm_medium=post_embed&utm_content=post_title&embed_host_url=https%3A%2F%2Fkotaku.com%2Fbattlefield-6-mass-effect-cosmetics-n7-day-store-2000749091 If these Mass Effect-themed cosmetics were indeed real, getting yanked only makes sense, considering the blowback EA and Battlefield Studios would have faced for hawking new items based on a franchise that it just killed off. While this Mass Effect collab might not be going ahead, Battlefield 6 is currently hosting a crossover event with Dead Space . It might make financial sense to close BioWare and cancel the Mass Effect series, but fans are upset about the 30-year studio that blazed a trail for queer representation in games closing up shop. The closure of BioWare comes after EA was taken private by an investor consortium led
-
-### Finger Out How To Prep For GTA 6 With These Exercises
-Fri, 23 Oct 2026 15:39:56 +0000 — https://www.gamespot.com/articles/finger-out-how-to-prep-for-gta-6-with-these-exercises/
-
-We're just weeks away from Grand Theft Auto VI launching, and you might think you're set to spend hours upon hours in the open-world game right now. But PureGym asks if your body is actually ready like former Nintendo of America president Reggie Fils-Aime's --as well as your thumbs. With that in mind, the fitness company has shared three thumb workouts from personal trainer David Hope to help prep you for GTA VI. These exercises are meant as a warm-up before picking up your controller, by the way. The first is just tapping your thumb with each finger on the same hand, which as a personal aside, can be a good mindfulness technique, too. The next finger drill sees you spreading your hand out and making a five, then turning that into a fist with your thumb on the outside. Our added suggestion is to do spirit fingers between fists to look as ridiculous as possible. Last but not least, Hope recommends finger pushups, where you "press the fingertips of both hands on the floor and push pressure into your fingers," according to the press release. PureGym advises people to do these exercises 10 times each, as well as after a long session with GTA VI. "We warm up before a run or a gym session, so why not before a long gaming session? Your thumbs and hands are doing the heavy lifting, and the rest of your body is barely moving," Hope said. We want to offer up an alternative that could be more fun, and that's playing with a minifinger skateboard. Maybe the popularity has waned a ton over
-
-### GTA 6 Burgers Will Be Available In Florida Throughout The Year
-Fri, 23 Oct 2026 15:13:13 +0000 — https://www.gamespot.com/articles/gta-6-burgers-will-be-available-in-florida-throughout-the-year/
-
-Rockstar Games and the burger company Skinny Louie have announced a partnership to promote GTA 6 , during which its stores will convert to Burger Shots through the end of the year. Burger Shot is the Burger King parody in the world of GTA. People in South Florida can buy GTA 6 burgers at the Kaseya Center, and also every Skinny Louie location in Florida starting in early November. The campaign runs through December 31. The Burger Shot locations will serve a menu "straight out of Vice City"--and this includes smash burgers, fries, and drinks. People in South Florida can buy the GTA 6 burgers in store or have them delivered. In addition to Burger Shot, GTA's Cluckin' Bell fried chicken store is available IRL at the Kaseya Center. It's unknown if the Cluckin' Bell locations will be available outside the arena like the Burger Shots are. GTA 6's takeover of Miami also includes marketing efforts at local beaches and hotels. Some local lawmakers are pushing back, saying in that in agreeing to take Rockstar's money, the city is signing on to "depicting Miami like a murder capital." Other local lawmakers say it's just a video game.
-
-### Xbox Wanted A Gargantuan Paycheck To Partner With Netflix On TV And Movies
-Fri, 23 Oct 2026 14:35:44 +0000 — https://www.gamespot.com/articles/xbox-wanted-a-gargantuan-paycheck-to-partner-with-netflix-on-tv-and-movies/
-
-Video game adaptations are all the rage right now, with movie and TV projects in various stages of development, and Netflix is looking to strike while the proverbial IP iron is hot. The streaming giant already has a deal in place with Microsoft to develop a Gears of War movie , and it's looking to grab more Xbox IP to build new franchises. The only problem? Microsoft's price tag was reportedly quite a bit more than Netflix was willing to pay. That's according to entertainment journalist Matthew Belloni, who wrote in a Puck News report that Netflix had offered Microsoft $500 million for seven years to exclusively license Xbox titles for film and TV. Xbox CEO Asha Sharma and the brand's business affairs team countered by demanding $800 million, prompting Netflix to rescind the offer. https://www.youtube.com/watch?v=zzqGbNaOROA While Netflix has declined to comment on the report, Xbox told Belloni it had received "record-breaking interest" in its IP and still values Netflix as a partner on upcoming projects. Belloni added that Xbox is now "pursuing smaller deals with more partners," like the Diablo animated series under development at Netflix, another season of Fallout at Prime Video, the Call of Duty movie at Paramount, and a sequel to A Minecraft Movie at Warner Bros. Pictures. Xbox is also expanding its multimedia ambitions; earlier this month, it announced Xbox XP . This new arm of the company, devoted to movies, TV, merchandise, theme parks, and live events, will be headed 
 
 ## Rock Paper Shotgun
 
@@ -361,24 +285,4 @@ Ah, come on, it was fine. Better than fine. We can argue for another fourteen ye
 Sat, 24 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405
 
 After months of umming ahhing over paint colours, covering our living room wall in little swatches of testers, we've finally got exasperated with the entire process selected Cherry Caramel. I would be clearing out the living room to start painting today, but, honestly, after the surprise DIY of an exploded sink yesterday, maybe what's called for is some gaming. Nothing to do with either piping, water levels, or interior design. Sorry, Pipemania, Bioshock, and House Flipper . Enough about my exploded sink, though, he's what everyone else is up to this weekend. Read more
-
-### Factorio's final major update has rolled off the assembly line, adding "the things we wanted to do for 2.0 but didn't have time for"
-Fri, 23 Oct 2026 17:30:00 +0000 — https://www.rockpapershotgun.com/factorios-final-major-update-has-rolled-off-the-assembly-line-adding-the-things-we-wanted-to-do-for-20-but-didnt-have-time-for
-
-In one of the happier endings to occur in games this week, impossibly enormous resource management sim Factorio has just released its last-ever major update &ndash; version 2.1 &ndash; on its stable branch. As previously heads-upped by developers Wube Software, 2.1 doesn&rsquo;t make any big new additions to its planets or tech trees, but does sneak in more than 30 quality of life improvements and minor new features for both the base game and its Space Age expansion. Including, they say, "the things we wanted to do for 2.0 but didn't have time for." Nice to get a few final pieces out the door before it closes, eh. Read more
-
-### Future? No Thanks! dev removes AI-generated voices from game and offers refunds to players who feel "betrayed"
-Fri, 23 Oct 2026 17:26:32 +0000 — https://www.rockpapershotgun.com/future-no-thanks-dev-removes-ai-generated-voices-from-game-and-offers-refunds-to-players-who-feel-betrayed
-
-Open world ecosatire Future? No Thanks! has been updated to remove some AI-generated voices, after lead developer Paolo "Molleindustria" Pedercini belatedly disclosed his usage of the technology earlier this week. He's also offering to refund people over Paypal or Venmo if they "still feel betrayed" by this. Read more
-
-### BioWare staff "should be given the first opportunity and the federal support" to buy the studio and keep it running, says Canadian political party leader
-Fri, 23 Oct 2026 16:30:00 +0000 — https://www.rockpapershotgun.com/bioware-staff-should-be-given-the-first-opportunity-and-the-federal-support-to-buy-the-studio-and-keep-it-running-says-canadian-political-party-leader
-
-Hope. It's in short supply at the moment. Regardless, I hope that something a Canadian politician's proposed in a post scoring easy likeability points at the expense of EA's recently installed owners comes to pass, no matter how unlikely it is to do so at this point. Rather than being unceremoniuously shuttered , leaving the world staring down the barrel of a future without new games from a storied studio, BioWare should be handed over to its staff with backing from the Canadian government. Read more
-
-### "This was not a Creative Assembly developed game": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster
-Fri, 23 Oct 2026 16:01:24 +0000 — https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster
-
-Last week, Creative Assembly and Sega pulled Total War: Shogun 2's remastered Complete Edition from Steam , after an avalanche of complaints about technical problems and some AI-generated art. Now, Total War vice president Roger Collum has written a personal apology, while pinning some of the blame on an unnamed external partner. He's also clarified Creative Assembly's stance on generative AI, conceding that the studio do use it to help with "analysis, debugging, or speedy prototyping", but that they're against using it to generate game assets and art. Read more
 

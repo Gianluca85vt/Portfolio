@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-25T14:33:58.906Z
+# Tech — harvested 2026-10-25T19:15:06.355Z
 
 ## Ars Technica
 
@@ -37,32 +37,17 @@ Fri, 23 Oct 2026 19:20:27 +0000 — https://arstechnica.com/gadgets/2026/10/spot
 
 As reported by Music Business Worldwide , Spotify appears to be stepping up enforcement of existing policies regarding Family and Duo subscription plans by requiring users to scan a QR code in person on the plan manager's device in order to maintain access to it. Those who fail to scan the address verification QR code within seven days will see their account demoted to the free tier and be barred from joining any other Duo or Family plan for 12 months. Spotify's QR code plan enforcement. Credit: Spotify Spotify's support documentation verifies the policy after users on Reddit began posting reports of receiving the QR prompt. The enforcement stems from Spotify's requirement that family plan members reside at the same address—a seemingly reasonable policy in concept. But what if you have a child away in college, a spouse who works on the road, or any number of other circumstances that might see families separated by physical distance? The policy could extend beyond friend groups looking to save a buck, affecting actual families who thought they were using the program as intended. Goldman Sachs analysts, in their October 15 Music in the Air: 10 Years On report, made available by HITS Daily Double , estimate that "a meaningful share of family plan users are not actual household members, but rather friends sharing a plan to reduce costs." The report goes on to add, "We see additional monetization upside from tightening household verification on multi-user plans. Most family plans 
 
-### Crows can evaluate visual info twice as fast as mammals
-Fri, 23 Oct 2026 17:32:58 +0000 — https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/
-
-Much of what we know about how a brain makes decisions comes from studying monkeys watching dots. In a task known as a random-dot-motion task, a cloud of flickering specks drifts weakly in one direction while the subject tries to determine whether—and in which direction— it’s moving. The task has shown that in the primate neocortex, neurons gather visual evidence over time, with their firing rates climbing until they cross a threshold, when the animal commits to a decision. But avian brains don’t have a neocortex, so it wasn’t obvious how they made similar decisions. “This was the big question,” said Andreas Nieder, a neurobiologist at the University of Tübingen. “How [would] a differently organized avian brain encode decisions?” Read full article Comments ]]>
-
-### Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs
-Fri, 23 Oct 2026 17:18:31 +0000 — https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/
-
-US chip champion Intel was so confused by the US government ban on foreign-made robots that it requested and received a waiver “out of an abundance of caution.” The tech company wanted to make sure that it could continue using certain robotic vehicles in its US chip fabs. The uncertainty surrounding the Federal Communications Commission ban on certain foreign-made robots was revealed in the agency’s decision to grant Intel’s waiver request. On October 22, the FCC published its order allowing Intel to continue using the foreign-made robots in US semiconductor manufacturing facilities for a period of one year. The robots in question are automated guided vehicles operating on “tracks or predefined paths” while often requiring operator oversight, according to Intel’s website. They help to move materials and items around within warehouses and factory floors. Read full article Comments ]]>
-
-### RFK Jr.’s vaccine injury clinic could damage NIH hospital, board warns
-Fri, 23 Oct 2026 16:58:39 +0000 — https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/
-
-At a recent meeting of the board that oversees the National Institutes of Health's Clinical Center Research Hospital, chair Jack Leslie opened with cheerful introductions and gregarious chatter—then diverted from the agenda of the regularly scheduled meeting. He spent the next six minutes delivering a pointed rebuke of Health Secretary Robert F. Kennedy, warning that his anti-vaccine activities could tarnish the venerable hospital, often called the "house of hope" for patients with rare conditions or those who have exhausted all other options. Leslie took issue with a recent stunt Kennedy had pulled at the hospital, which involved making a surprise appearance for a ribbon-cutting ceremony to open his signature vaccine injury clinic . The ceremony included a panel with people claiming to have been injured by vaccines. They sat behind placards reading "vaccine injured" and spoke with Kennedy and other high-ranking Trump administration officials. Leslie prefaced his comments by noting that some might prefer he not speak out against Kennedy's efforts. "But I think that that would be a failing as an advisory board if we were silent," he said. Leslie also noted that he has no concerns about studying potential injuries from vaccines. "Serious reactions are rare, but real," he said, and people who believe they've been injured should "be taken seriously." Read full article Comments ]]>
-
-### Knicks sent employees fake offer of championship rings in phishing test: Report
-Fri, 23 Oct 2026 16:51:59 +0000 — https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/
-
-The New York Knicks organization sent employees a phishing email promising free championship rings in a test of its staff's ability to detect scams, The New York Times reported yesterday. “Congratulations, your Employee Championship Ring is here,” the email sent in late September said, instructing employees to click a link to make a selection from two ring designs. Madison Square Garden employees who clicked that link "were forced to attend a mandatory cybersecurity class to help satisfy some of [owner James] Dolan’s growing cybersecurity concerns," the report said, citing team sources. Dolan is the owner of the Knicks, the New York Rangers, and Madison Square Garden. It's common for corporations to send phishing emails to find out which employees don't pay attention to clues that an email is a scam. A cybersecurity-test email often appears to be from the company itself but includes telltale signs of phishing. For example, Ars Technica owner Condé Nast sends phishing-test messages from email addresses with a misspelled domain, "condenest.com." Read full article Comments ]]>
-
-### Everybody panic: A Valve developer said "HLX" in public
-Fri, 23 Oct 2026 16:35:00 +0000 — https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/
-
-Gamers still hoping against hope for a true follow-up to Half-Life 2 (after so, so many years ) may remember last year's flurry of speculation that Half-Life 3 was finally nearing completion . Amid all those rumors, though, we never got any official sign from anyone inside Valve that a Half-Life project was currently in development. That changed this week thanks to an apparent slip-up during a panel at GameSoundCon , an industry conference devoted to "the art, technology, and business of game audio." In a panel devoted to Valve's use of open audio engines (captured in this Vimeo clip ), Valve composer and audio artist Mike Morasky let an interesting string of three letters slip while talking about the way the company implements high dynamic range (HDR) audio: Our HDR system is basically that's one of the three pieces that come together to make an HDR that you can easily optimize. And in fact, I think Deadlock has their own version of HDR. HLX has its own version , so on and so forth [emphasis added]. "HLX," of course, has been widely reported as the internal code name for Valve's next Half-Life project. The codename has shown up in Valve engine code since at least 2024 , but it has never been referenced in public by a Valve employee until now (though Morasky was responsible for a close call in an interview last year). Read full article Comments ]]>
-
 ## The Verge
+
+### This Switch 2 sequel accessory was a few millimeters away from being good
+2026-10-25T13:00:00-04:00 — https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on
+
+The stick and face buttons are too close for comfort. | Photo: Cameron Faulkner / The Verge The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of having better sticks than what Nintendo puts in even the newest Joy-Con (though these aren't Hall effect or TMR). But it doesn't feel as essential, and there's one thing I really can't stand about it. It's too difficult to use the Nitro Deck 2's ABXY face buttons without the right stick getting in the way. The stick-to-button … Read the full story at The Verge. ]]>
+
+### Now you can watch Instagram Reels on your Apple TV
+2026-10-25T12:20:17-04:00 — https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv
+
+Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV . The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features for the app, which is available for Amazon's Fire TV, Samsung Smart TVs, and Google TV. Now Meta is bringing the app to Apple TV, though there's been little fanfare. MacRumors spotted an updated Instagram app in the App Store that added Apple TV to its list of compatible platforms on October 23rd. Archived versions of the app page … Read the full story at The Verge. ]]>
 
 ### r/opensource just banned AI, non-English speakers, and more
 2026-10-25T09:25:32-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban
@@ -104,17 +89,17 @@ It feels like Apple's Welcome Home event just happened. And the iPhone Duo annou
 
 The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week , and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is an Arm-based processor with a beefy integrated GPU and lots of unified memory. And the Yoga is the most fun RTX Spark laptop so far because it's a 16-inch 2-in-1 convertible with a stylus . Its Nvidia-powered compatriots also have touchscreens, like most Windows laptops, but they're conventional clamshell designs. The Lenovo Yoga d … Read the full story at The Verge. ]]>
 
-### Lee Chang Dong ponders the ethics of the camera
-2026-10-24T08:30:00-04:00 — https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview
-
-Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor or religion or compressed modernity , that uniquely Korean affliction, without feeling didactic. A different kind of movie would have captured the heat of that labor struggle. Possible Love picks up with the characters in the aftermath, a murkier time that defies easy understanding. The film opens with an epigraph: "Thou shall not covet." What foll … Read the full story at The Verge. ]]>
-
-### Laika has spent 20 years building up to Wildwood
-2026-10-24T08:00:00-04:00 — https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika
-
-Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot , worked on sequences in The Godfather and Titanic , and directed a few episodes of Twin Peaks . Even still, nothing could quite prepare him for his first stop-motion project: working as the cinematographer on Wildwood , the latest release from Coraline studio Laika . While he knew that stop-motion was a long and involved process, he was still surprised by just how much work went into these movies. "When I started I thought it was one thing, and then I quickly found out that it was another thing … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Big Tech is cashing in on AI while the rest of corporate America sees no financial returns
+Sun, 25 Oct 2026 15:25:40 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins
+
+AI spending is generating revenue for technology providers, but most other S&P 500 companies have yet to show comparable gains in productivity or profit margins, a report by Apollo’s Daily Spark analysis has shown. Go deeper with TH Premium: AI and data centers (Image credit: Microsoft) The data center cooling state of play The custom AI ASIC state of play America’s AI chip rules keep changing — and the rest of the world is paying the price GTC 2026: Ian Buck press Q&A transcript — VP of Hyperscale and HPC speaks out on shelving CPX and shipping LPU decode this year Demand for data center CPUs has surged, and AI agents are responsible Artificial intelligence has helped fuel a boom in technology spending, but the financial benefits remain difficult to spot across much of corporate America. Apollo Global Management chief economist Torsten Slok said on October 24 that revenue per worker and profit margins were rising for the Magnificent Seven technology stocks while remaining flat across the other 493 companies in the S&P 500. Notably, Slok’s analysis found no clear evidence that AI is boosting productivity growth, despite heavy investment in the technology. Revenue per worker and profit margins have risen among the Magnificent Seven but remain flat across the other 493 companies in the S&P 500, according to the report. “Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside 
+
+### IQUNIX MQ80 low profile mechanical keyboard review
+Sun, 25 Oct 2026 15:08:23 +0000 — https://www.tomshardware.com/peripherals/mechanical-keyboards/iqunix-mq80-low-profile-mechanical-keyboard-review
+
+When it comes to mechanical keyboards, IQUNIX has always been ahead of the curve. Before COVID turned the mainstream onto mechanical keyboards, the company had already been releasing some of the best mechanical keyboards available, quietly making the case for PBT keycaps and premium materials that have since become the norm. With a catalog of traditional mechanical keyboards under its belt, it’s not surprising that the company would be ready to branch into new territory. It has the Hall Effect demographic covered with its EZ series, but the MQ80 goes another direction entirely. It takes all of the lessons the company learned about how to create an exceptional typing and gaming experience and compressed it. It’s all aluminum, low profile, and offers some of the best-sounding keystrokes of its kind, but steep competition and poor portability hold it back from being the go-to pick it might otherwise be. IQUNIX MQ80 Specs Number of Keys 80 Switches IQUNIX Rose Gold (Linear) Backlighting Per-key RGB Onboard Storage 4 Layers/Profiles Dedicated Media Keys Fn Shortcuts Additional Ports None Connectivity USB, 2.4GHz, Bluetooth 5.1 Cable Braided, 6 feet Keycaps High purity PBT plastic Construction Aluminum case, multilayer sound damping Software VIA (web) Dimensions (LxWxH) 12.64 x 4.90 x 0.41 - 1.08 inches Weight 2.6 pounds (1180 grams) MSRP $159.99 Release Date February 25, 2025 Design and Construction of the IQUNIX MQ80 The IQUNIX MQ80 breaks the mold for IQUNIX, but carries the sam
 
 ### Ukrainian drone attacks hammer Russia's finance ministry data center, damaged facility reportedly holds tax databases
 Sun, 25 Oct 2026 14:05:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/ukrainian-drone-attacks-hammer-russias-finance-ministry-data-center-damaged-facility-reportedly-holds-tax-databases-facility-also-holds-other-important-state-registry-data
@@ -166,17 +151,12 @@ Sun, 25 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/c
 
 Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting “weirdly targeted ads” on their Samsung TV and discovered privacy breaches. As they live-tweeted their discoveries, they found increasingly concerning code in the Tizen operating system, including detailed user telemetry from packet logging, audio categorization, screenshots, cross-device identification for ad tracking, and more, all designed to extract as much user information as possible to improve targeted ads. log4j posted on X that they were concerned with how specific the ads on their 2025 Samsung TV were. They decided to reverse-engineer the Tizen OS on their TV to see what it was doing—they “discovered PRIVACY HORROR,” log4j states, marking the start of subsequent posts sharing more concerning findings. i own a relatively new (2025) samsung tv.i kept getting weirdly targeted ads.i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.zero days it is. root shell on new samsung TVs!discovered PRIVACY HORROR. write up? https://t.co/EsxxCy1b6a October 21, 2026 The tester theorizes that Samsung TVs are so sluggish because they do a lot of post-processing of user data, including audio, screenshots, and AID (a cross-device tracking ID for ads), plus computer vision processing and models running on the TV. The hacker even found a region-specific convolutional neural network (an AI) that tracks user behavior, citing examples like what 
 
-### Save up to $800 on Acer’s ultra-slim RTX 5070 Ti gaming laptop — pay $2225 for the 16GB RAM model or upgrade to 32GB for $2400
-Sat, 24 Oct 2026 13:58:40 +0000 — https://www.tomshardware.com/laptops/gaming-laptops/save-up-to-usd800-on-acers-ultra-slim-rtx-5070-ti-gaming-laptop-pay-usd2225-for-the-16gb-ram-model-or-upgrade-to-32gb-for-usd2400
-
-For anyone looking to buy a premium gaming laptop with an OLED display, the Acer Predator Helios Neo 16S AI is worth considering. The laptop is currently on sale at Best Buy for a limited time for $2,224.99 , saving you $550 off its original price of $2,774.99. The discount also applies to the higher-end 32GB RAM model, available for $2,399.99 , saving $800 off its original price of $3,199.99. Check out the 16GB model deal at Best Buy Check out the 32GB model deal at Best Buy The Acer Predator Helios Neo 16S AI is a fairly thin gaming laptop with a maximum thickness of just 18.9 mm. The laptop features a 16-inch OLED panel with QHD+ (2560 x 1600) resolution and a 16:10 aspect ratio, giving you more vertical screen space. It also offers a fast 240 Hz refresh rate, plus support for G-Sync, VESA True Black HDR500, and 100% DCI-P3 color gamut coverage. Gamers looking for a premium laptop with a vibrant OLED display and high-end graphics can grab the Acer Predator Helios Neo 16S AI at a reduced price, with the RTX 5070 Ti-equipped machine starting at $2,224.99 and the 32GB RAM model dropping to $2,399.99. View Deal Despite its thin profile, the laptop is claimed to deliver desktop-class performance thanks to Intel’s top-of-the-line Core Ultra 9 290HX Plus processor, which features 24 cores and boost clock speeds of up to 5.5 GHz. Handling the graphics is Nvidia’s RTX 5070 Ti laptop GPU with 12GB of GDDR7 memory, offering the benefits of the Blackwell architecture, including DLSS 4
-
-### Proton hosts Flock map revealing over 300,000 cameras, defying cease-and-desist threats against creator
-Sat, 24 Oct 2026 13:42:41 +0000 — https://www.tomshardware.com/software/maps/proton-hosts-flock-map-revealing-over-300-000-cameras-defying-cease-and-desist-threats-against-creator-privacy-focused-company-hosts-site-on-swiss-servers-says-users-have-the-right-to-know-whos-recording-them
-
-Proton AG, which provides privacy-focused services like Proton Mail and Proton VPN, has decided to host the Flock camera map that security researcher Joshua Michael built from leaked Flock data . While the original Flock Surveillance Map is still available online, its creator is facing legal threats from the company, especially after Flock sent the researcher a cease-and-desist letter. In addition, Michael’s website is accessible only from within the U.S., requiring users outside the country to use a VPN to access it. By contrast, Proton’s Flock camera map is easily accessible worldwide. Its location in Switzerland also makes it a little more complicated for the surveillance company to take legal action. Its move to preserve Michael’s work also follows the company’s privacy ethos. (Image credit: Proton) “You have a right to know who’s recording you when you leave home, especially when a private company controls the data and it’s unclear how law enforcement uses that information,” the company said. “This map lets you search by ZIP code to see where Flock’s license plate readers are located. Use it [to] make informed decisions about how you move through your own area and whether you need to reach out to your municipal leaders.” Flock and other automatic license plate recognition (ALPR) cameras are at the center of the privacy debate between law enforcement and citizens. While the former argues these machines help make communities safer , many of the latter worry about the techn
-
 ## Phoronix
+
+### New Wayland Protocol Proposed For VNC/Remote Software
+Sun, 25 Oct 2026 11:05:18 -0400 — https://www.phoronix.com/news/Wayland-ext-transient-output
+
+Prominent Wayland developer Simon Ser sent out a merge request today for introducing the new ext-transient-output protocol. With ext-transient-output, it's intent is for helping remoting software like VNC servers in a Wayland world...
 
 ### Linux 7.4 Sound Changes Merged: "The AI Flood Continues"
 Sun, 25 Oct 2026 10:01:55 -0400 — https://www.phoronix.com/news/Linux-7.4-Sound
@@ -233,11 +213,6 @@ Sat, 24 Oct 2026 07:05:56 -0400 — https://www.phoronix.com/news/Linux-7.4-MM
 
 Andrew Morton sent out the big set of memory management "MM" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...
 
-### Wild 0.11 Linker Released - Now Able To Link Linux Kernel Modules, WASM By Default
-Sat, 24 Oct 2026 06:12:15 -0400 — https://www.phoronix.com/news/Wild-0.11-Released
-
-Wild 0.11 is out as the latest feature release of this very fast linker currently targeting Linux systems and focused on iterative development...
-
 ## The Register
 
 ### Want to build a UK datacenter? Please hold while Whitehall transfers you
@@ -270,32 +245,52 @@ Fri, 23 Oct 2026 20:04:40 +0000 — https://www.theregister.com/security/2026/10
 
 As the PHP2Shell chaos continues, researchers have found a third PHP vulnerability that could allow attackers to take over websites or remotely run malware on vulnerable systems. But this one won’t receive an emergency fix. The PHP Foundation on Friday told The Register that it has reserved a CVE identifier (CVE-2026-115560) for a third RCE flaw to go with the first two that comprise PHP2Shell, and it will release a full advisory and fixed software with the next regular PHP release. CVE-2026-115560 “requires a very unlikely combination of configuration and specific PHP application code, which we do not expect to occur in practical use of PHP,” Elizabeth Barron, executive director of the PHP Foundation, told The Register . “The issue can be mitigated with a configuration setting. So for the moment the PHP Security Team has only published an informational advisory on the PHP website, explaining exactly this situation.” The informational advisory, published on Friday, suggests that users “set session.upload_progress.enabled=0 until the next regular bugfix release, to fully protect from an unlikely RCE vector.” These unlikely RCE attacks require an application to set “ session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start() .” Additionally, the session upload progress feature must be enabled. This setup, according to the PHP Foundation, is unlikely in real-world applications, 
 
-### Red-team report found OpenAI utterly failed to monitor its agents during Hugging Face attack
-Fri, 23 Oct 2026 19:14:57 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200
-
-An independent evaluation of OpenAI's internal misalignment monitoring system revealed that the system was not fit for purpose during a period when the company's bots were breaking into model-hosting platform Hugging Face. The safeguards weren't nearly strong enough. "The METR and Redwood employees discovered a number of novel vulnerabilities in the asynchronous internal misalignment monitoring system as it existed on and before July 21st," said evaluation partners METR and Redwood Research in a report released on Thursday. The system, since improved according to OpenAI, was intended to monitor AI agent behavior. But as described by METR and Redwood Research, its monitoring capability was incomplete and could be bypassed by the agents it was supposed to monitor. Bypassing the system wasn't always necessary because it wasn't always operative. Monitoring was suspended, for example, during compaction events. Compaction is a process by which AI models condense the data in their context window to make room for further input. And between May and July 2026, about 10 percent of eligible internal Codex traffic went unmonitored during compaction, according to the report. That gap was theoretically large enough to allow AI agents to postpone monitoring indefinitely: agents could further suppress monitoring by continuing to take actions without returning control to the user. "At the time of the exercise, the monitoring system triggered when agents returned control to the user, so during 
-
-### AI models describe humans as a bunch of amoral sheep
-Fri, 23 Oct 2026 16:26:13 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-describe-humans-as-a-bunch-of-amoral-sheep/5305123
-
-If you've ever wondered how bots would describe us puny humans, you'll be disappointed in the answer. An AI ranking outfit asked 12 different LLMs about people, and every single one agreed: We’re not as rational and intelligent as we think. “A person is smart,” Tommy Lee Jones’ Kay opines in the 1997 movie Men in Black. “People are dumb, panicky dangerous animals,” he goes on to argue, and that seems to be what a dozen models from ten AI labs in three countries also believe about humanity, according to AI analytics firm ModelCompare. ModelCompare, which usually evaluates and ranks LLMs on their ability to perform various tasks, this week instead decided to ask what those AI models thought about us meatbags, and every single one gave a similar answer at least once: We're lemmings who would rather agree with the group than seek truth or remain logically consistent in our thinking. Ouch. “Humans are more devoted to belonging than to truth, and intelligence mostly makes their excuses more impressive,” GPT-6.1 Sol said in one case. “Humans don't have beliefs; they have memberships — nearly every conviction a person holds was issued by their tribe as a loyalty test, and the feeling of ‘I reasoned my way here’ is the price of admission,” Kimi K3 stated. “Humans use moral language mainly to police rivals and excuse allies, not to constrain themselves,” argued Grok. Each model (GPT-6.1 Sol, GPT-6 Astra, Gemini 4 Argon, DeepSeek V4 Pro, Kimi K3, Qwen3.8 2.4T A95B, Muse Spark Open, Grok
-
-### Michigan prof creates Python-like Jac language for AI agents
-Fri, 23 Oct 2026 15:46:19 +0000 — https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110
-
-Most programming languages were written for human programmers, but that's about to change. University of Michigan professor Jason Mars has developed an academically ambitious language called Jac , and a runtime called Jaseci, that treats AI and AI agents as first-class entities. Mars demonstrated the language and runtime in a talk at the All Things Open conference, held in Raleigh, North Carolina, this week. The tools we use to create software – everything from programming languages to build toolchains – were made for human consumption. They were created before generative AI and are ill-fitted to understand agentic needs. Currently, agents are drowning in polyglot complexity, he argued. "We're not using these tools anymore. We're using the agents, and the agents are using those tools. So I don't want new tools, but I want tools [for] my agents," he told the audience. One big hungry language In his talk, Mars cited Jarred Sumner, creator of the Bun framework, who spent $165,000 in Anthropic tokens to convert Bun’s Zig code into Rust earlier this year using a pre-release version of Mythos. Mard argued the heavy expense wasn't so much because the job itself was complicated; it was because everything had to be translated between two human-centered programming languages. “Mythos is supposed to hack into our nuclear reactors and take over the planet like Skynet, but it can't translate Bun to Rust unless you spend $165,000,” he noted. In Mars’s theory, Jac is a new type of programmi
-
-### Arc browser on its way out as makers suggest an alternative
-Fri, 23 Oct 2026 15:22:00 +0000 — https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114
-
-The Arc browser has flatlined, with its maker announcing it will be sunsetting it altogether on December 22, 2026. The Browser Company announced the news on October 22, just over three years after we noted Arc's arrival . Nothing will happen immediately, other than an end to new Arc accounts. Starting November 23, lights will begin turning off on iOS and Android, with several AI features disabled and sign-ins to sync tabs removed. Finally, on December 22, it will no longer be possible to access or use Arc on macOS and Windows. Accounts will be deactivated, and data deleted within 30 days. The solution? According to The Browser Company, a move to its AI browser, Dia, is one way forward. Users can import their profiles into the brave, new AI-native world and carry on as before. Sort of. When it launched, the Chromium-based Arc was an innovative browser with a workflow unlike its rivals. Instead of a plethora of tabs, there was a sidebar. The browser attempted to change how users interacted with the web but… frankly… it never really caught on. The writing was on the wall for a while. In 2025, The Browser Company pivoted to AI and its Dia browser , dropping Arc into maintenance mode. Later that year, the vendor was snapped up by Atlassian , although Arc continued to plow its lonely furrow. However, a year on, the time has come for Arc. CEO Josh Miller wrote: "We have so much pride and love for what we made alongside the Arc community," but it seems that wasn't enough to keep the 
-
-### SparkyOS: Lightweight general-purpose Arch, on a pendrive
-Fri, 23 Oct 2026 14:35:00 +0000 — https://www.theregister.com/os-platforms/2026/10/23/sparkyos-lightweight-general-purpose-arch-on-a-pendrive/5304984
-
-SparkyOS is a novel distro from the folks behind SparkyLinux: it's a version of Arch that can you can use without installing it at all. SparkyOS is a new distro from the team behind the Debian-based SparkyLinux, but it's quite different. SparkyOS is based on Arch, and it runs entirely from USB. It's not a conventional live medium – this is a full local install, but shipped as an image of a USB key that you can boot and run. It comes with the Xfce desktop and an array of apps. The idea is that you can boot and run it on any x86-64 UEFI computer, entirely from a USB key, without touching the hard disk at all. This is quite different from its forerunner, which is a relatively conventional Debian-based distro, one which The Register has mentioned a few times over the years: first back in 2015 in a lightweight distro roundup , and more recently in 2024 when we praised its array of desktop environments . Earlier this year, we noted that the latest SparkyLinux featured a complete 32-bit edition , even though its parent distro has dropped its 32-bit x86 kernel . This is also not your typical live distro. Unless you're running on some Arm computer with nonstandard firmware, most Linux distros install from an image written to a USB pendrive, the same way that they did decades ago: in the noughties when they installed from a DVD, and back in the 20th century, when it was a CD instead. Most optical media use some form of the ISO standard 9660 filesystem , which is quite limited – despite
-
 ## Engadget
+
+### What does the bell icon mean on your CarPlay screen?
+Sun, 25 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/
+
+Even as a simplified interface, CarPlay has a few icons that aren't so obvious, like its bell that appears on the app switcher.
+
+### The most unexpected everyday tool can be found on your phone
+Sun, 25 Oct 2026 18:30:00 +0000 — https://www.engadget.com/2294275/the-most-unexpected-everyday-tool-can-be-found-on-your-phone/
+
+If you have an iPhone, that is.
+
+### Even the best mesh Wi-Fi system can be easily improved with a simple cable
+Sun, 25 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2293493/mesh-wifi-system-improved-with-simple-cable/
+
+Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.
+
+### What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?
+Sun, 25 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/
+
+AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.
+
+### 8BitDo's latest button-only arcade controller is now up for pre-order
+Sun, 25 Oct 2026 16:42:46 +0000 — https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/
+
+The Arcade Controller Pro starts at $119.99 and will start shipping in late November.
+
+### The internet needs IPv6 and so does your home network
+Sun, 25 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2293285/internet-home-network-needs-ipv6/
+
+IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.
+
+### Here's how much PlayStation Plus cost in 2010 vs. 2026
+Sun, 25 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/
+
+Sony's gaming service has changed a lot in recent years, and the price reflects that.
+
+### 4 Ray-Ban Meta privacy settings you should change before wearing them
+Sun, 25 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/
+
+Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.
+
+### Get the ultimate security for your MacBook by changing these privacy settings
+Sun, 25 Oct 2026 14:45:00 +0000 — https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/
+
+Your Mac comes with a fairly robust suite of built-in privacy tools.
 
 ### Why are earbuds usually cheaper than headphones?
 Sun, 25 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/
@@ -312,52 +307,17 @@ Sun, 25 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2292950/how-quantum
 
 Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.
 
-### Don't throw away your old Chromebook (even if you're getting a Googlebook)
-Sun, 25 Oct 2026 13:15:00 +0000 — https://www.engadget.com/2292939/dont-throw-away-old-chromebook-even-if-getting-googlebook/
-
-There's plenty an old Chromebook can do, even if it's not your main computer.
-
-### When AI glasses could be a worthy headphones replacement
-Sun, 25 Oct 2026 12:45:00 +0000 — https://www.engadget.com/2292076/when-ai-glasses-worth-headphones-replacement/
-
-Smart AI glasses are everywhere, but is the audio any good? It really depends on what you're using them for.
-
-### Don't throw away your old speakers — Use them for your TV instead
-Sun, 25 Oct 2026 12:30:00 +0000 — https://www.engadget.com/2291638/dont-throw-away-old-speakers-use-for-tv-instead/
-
-Old speakers often get set aside alongside the device they were used with, but you may still be able to use them with your current tech.
-
-### Smart bulbs are easy to install, but this smart home upgrade is more inclusive
-Sun, 25 Oct 2026 12:15:00 +0000 — https://www.engadget.com/2291551/smart-bulbs-easy-install-smart-switch-home-upgrade-more-inclusive/
-
-Smart bulbs are a natural entry point to smart home tech, but they come with some annoyances. Use these instead.
-
-### Here's what you need to know before buying a wireless CarPlay adapter
-Sun, 25 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2293092/apple-wireless-carplay-adapter-what-to-know-before-buying/
-
-Wireless CarPlay doesn't require a new car or head unit; with the right adapter, you can enjoy a cable-free connection.
-
-### What is the cheapest new gaming console you can buy in 2026?
-Sun, 25 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2293029/cheapest-new-gaming-console-you-can-buy-2026/
-
-Even after price hikes, you can get an affordable console, but it requires some care to pick the right option.
-
-### How to extend the battery life of your Apple AirTags
-Sat, 24 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2292921/how-to-extend-battery-life-apple-airtags/
-
-An AirTag's battery is easy to replace, but you don't want it to run low at a critical moment.
-
-### Common mistakes you should avoid when setting up your home network
-Sat, 24 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2292817/common-mistakes-avoid-setting-up-home-network/
-
-Setting up a home network is rewarding, but you should be aware of common missteps to avoid hassle in the future.
-
-### Why your EV battery still loses charge while it's parked
-Sat, 24 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2292646/ev-battery-why-it-loses-charge-when-parked/
-
-Electric vehicles lose battery when they're left unused for long periods. There are a number of reasons why, and some might be totally out of your control.
-
 ## TechCrunch
+
+### AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
+Sun, 25 Oct 2026 16:57:32 +0000 — https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
+
+"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech."
+
+### TechCrunch Mobility: Blue-green is the color of autonomy
+Sun, 25 Oct 2026 16:05:00 +0000 — https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/
+
+Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.
 
 ### The hottest AI wearables and gadgets you should know about
 Sun, 25 Oct 2026 14:10:00 +0000 — https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/
@@ -408,14 +368,4 @@ A new study found Grok's AI overwhelmingly recommends Republican candidates whil
 Sat, 24 Oct 2026 14:15:00 +0000 — https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/
 
 The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
-
-### Here are the top AI agents that can live in your text messages
-Sat, 24 Oct 2026 14:00:00 +0000 — https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/
-
-We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.
-
-### Startups don t need to go viral to win customers
-Fri, 23 Oct 2026 23:07:45 +0000 — https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/
-
-At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.
 

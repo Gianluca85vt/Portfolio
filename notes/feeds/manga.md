@@ -1,6 +1,11 @@
-# Manga — harvested 2026-10-25T14:33:58.906Z
+# Manga — harvested 2026-10-25T19:15:06.355Z
 
 ## Anime News Network
+
+### Cherry and Virgin Anime Movie Review
+Sun, 25 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/cherry-and-virgin-anime-movie/.243089
+
+This is the most honest depiction of otaku falling in love since Kio Shimoku’s <i>Genshiken</i>.”
 
 ### Yen Press Licenses Cross-Dressing Villainess Cecilia Sylvie: Extra Round!, 'And Thus, the Wizard Noi Garené Became a Bride 100 Years Later,' 8 More Titles
 Sun, 25 Oct 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/yen-press-licenses-cross-dressing-villainess-cecilia-sylvie-extra-round-and-thus-the-wizard-noi-/.243162
@@ -56,11 +61,6 @@ Sun, 25 Oct 2026 00:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 Sat, 24 Oct 2026 22:55:41 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166
 
 1st 2 episodes of new season with dub available now
-
-### ghost – end of night Anime Movie Review
-Sat, 24 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/ghost-end-of-night/anime-movie/.243016
-
-The director of <i>Sonny Boy</i> asks, “What if Haruhi Suzumiya had an emo phase?”
 
 ## Crunchyroll News
 
@@ -118,17 +118,12 @@ Fri, 23 Oct 2026 19:48:24 GMT — https://animecorner.me/black-clover-season-2-e
 
 Black Clover Season 2 has released preview images and synopsis for Episode 4 (Episode 174 overall) ahead of its October 24 premiere.
 
-### CosMeet 2026 Returns to Okada This October 24-25
-Fri, 23 Oct 2026 16:50:20 GMT — https://animecorner.me/cosmeet-2026-returns-to-okada-this-october-24-25/
-
-CosMeet 2026 "Shimmering Sapphire" is set to take place on October 24-25 at the&hellip;
-
-### Ave Mujica Releases "BADDY BADDY" Music Video
-Fri, 23 Oct 2026 15:50:48 GMT — https://animecorner.me/ave-mujica-releases-baddy-baddy-music-video/
-
-Ave Mujica released a music video for one of their latest songs, "BADDY BADDY"&hellip;
-
 ## MyAnimeList News
+
+### Houseki no Kuni Creator Launches New Manga
+Sun, 25 Oct 2026 09:56:41 -0700 — https://myanimelist.net/news/74862294?_location=rss
+
+The December 2026 issue of Monthly Afternoon magazine announced on Friday that manga creator Haruko Ichikawa will launch a new sci-fi manga, titled Cosmic Mimimi, in the magazine next issue, scheduled for a November 25 release. Haruko is best known for Houseki no Kuni (Land of the Lustrous), which ran in Monthly Afternoon magazine from October 2012 to April 2024. The 13th and final volume went on sale on November 2024. Kodansha USA licensed the manga in October 2016 and published the 13th volum...
 
 ### Ousama no Propose Reveals Lead Cast, 2027 Debut
 Sun, 25 Oct 2026 04:54:50 -0700 — https://myanimelist.net/news/74861034?_location=rss
