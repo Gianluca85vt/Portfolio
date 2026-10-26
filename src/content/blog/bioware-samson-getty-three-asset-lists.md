@@ -65,8 +65,6 @@ stopped scraping. None of that is in the files. It was in thirty people, and
 thirty people have gone to find other work while a court decides what the folder
 is worth.
 
-[[ANEDDOTO: a project where the environment work was finished and the thing around it was cancelled or shelved — what state you left it in, and whether anyone ever opened it again]]
-
 ## Twenty billion, borrowed
 
 Read the BioWare closure as a repayment schedule and it stops being mysterious.
@@ -95,8 +93,6 @@ team is a sunk cost.
 
 I understand why. I would probably sign it too. But read it as a document and
 it is 187,000 people agreeing that the file is the thing worth saving.
-
-[[ANEDDOTO: a time a decision taken a long way above you — a buyout, a reorg, a new target — landed on your schedule as extra work, and what it cost you that week]]
 
 ## The library stays open
 
@@ -140,8 +136,6 @@ institutional memory of how to point a camera at a puppet twenty-four times for
 every second. You cannot buy it. You cannot download it. If Laika went, the
 puppets would be lots in an auction and the capability would simply stop existing,
 visibly, in a way that a games liquidation manages to hide.
-
-[[ANEDDOTO: a piece of craft knowledge you carry that is not written down anywhere — something you only know because you broke it once — and what would happen to a project if you left]]
 
 ## What the folder is worth
 
