@@ -1,6 +1,21 @@
-# Games — harvested 2026-10-25T19:15:06.355Z
+# Games — harvested 2026-10-26T10:30:52.700Z
 
 ## Eurogamer
+
+### Call of Duty: Modern Warfare 4 players are calling for a PvE-only version of its DMZ mode - just like every extraction shooter before it
+Mon, 26 Oct 2026 09:56:30 +0000 — https://www.eurogamer.net/call-of-duty-modern-warfare-4-dmz-pve-petition
+
+Call of Duty: Modern Warfare 4 is officially out for all players, and its extraction shooter mode DMZ is looking to be particularly popular. And unsurprisingly, the mode's popularity has brought a longstanding player request back in the spotlight: many DMZ players have been asking developer Infinity Ward to provide a PvE-only variant of the extraction mode. Read more
+
+### Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back
+Mon, 26 Oct 2026 09:53:04 +0000 — https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support
+
+In the wake of EA's tragic shuttering of BioWare last week, a leader of one of Canada's New Democratic Party has spoken out about the perils of private equity, and said BioWare employees should be able to buy the studio with "federal support". Read more
+
+### Phantom Blade Zero review
+Mon, 26 Oct 2026 00:00:00 +0000 — https://www.eurogamer.net/phantom-blade-zero-review-1
+
+I wasn't around to witness the golden age of Martial Arts cinema, but there are moments in Phantom Blade Zero that make me feel as though I've tumbled through a crack in time onto the set of a kung fu film. There's one particular encounter that sticks in my mind. Approaching a group of enemies in a shaded valley, I slowly raise my sword, and the first enemy rushes at me. Fool. I perfectly parry the blow, performing a slow-motion somersault to land behind him and plant my sword firmly in his back. The next guy comes running in, and I kick him in the face while simultaneously stabbing the previous enemy in the throat. A third joins the fray - this one on horseback - so I boot him off his horse, and use his steed to trample his helpless friend into the dust. Then, at last, there is silence. Read more
 
 ### 187K+ fans call for EA to "Save Mass Effect"
 Sun, 25 Oct 2026 18:50:44 +0000 — https://www.eurogamer.net/save-mass-effect-petition
@@ -47,30 +62,33 @@ Sat, 24 Oct 2026 13:30:30 +0000 — https://www.eurogamer.net/fallout-shelter-th
 
 Prime Video's Fallout reality competition, Fallout Shelter : The Experiment, will premiere on 13th January 2027. Read more
 
-### Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job
-Sat, 24 Oct 2026 12:57:17 +0000 — https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft
-
-UPDATE 6.00pm (UK): In a formal statement, Xbox told Eurogamer: "We don't discuss individual personnel matters. We're grateful for Helen's years of service and wish her well". Read more
-
-### What we've been playing - "Shoving Moon Flesh into an alien grandma's mouth"
-Sat, 24 Oct 2026 07:00:00 +0000 — https://www.eurogamer.net/what-weve-been-playing-warframe-over-the-hill-switch-sports-resort
-
-Hello, it is me, your regular weekend host Mertie and I am here once again to guide you gently into Saturday with our usual feature What We've Been Playing, where we write a little about the games we've been, yes, playing. This week, Bertie - before fleeing for a well-deserved break and leaving me with the keys to the place - runs a one-on-one D&D game; Connor plays with his Moon Flesh in Warframe , and I've been serenely gallivanting over yonder hills. Read more
-
-### Nintendo's Shigeru Miyamoto says even if gen-AI "were to eventually handle everything, there will always be a role left" for human designers
-Fri, 23 Oct 2026 20:12:34 +0000 — https://www.eurogamer.net/nintendo-shigeru-miyamoto-gen-ai
-
-Legendary Nintendo developer Shigeru Miyamoto - who led development on classic games such as Super Mario 64 and The Legend of Zelda: Ocarina of Time - has argued that the rise of generative AI tools won't necessarily replace human talent. Read more
-
 ## GamesIndustry.biz
 
-_Nothing in the last 48 hours._
+### Shogun 2 – Complete Edition was "not a Creative Assembly developed game," says Total War VP after it was pulled amid generative AI concerns
+Mon, 26 Oct 2026 08:40:16 +0000 — https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns
+
+Creative Assembly has issued a statement regarding the use of generative AI in Total War: Shogun 2 &ndash; Complete Edition, which led to the game's removal from sale last week . Read more
 
 ## VG247
 
 _Nothing in the last 48 hours._
 
 ## Push Square
+
+### Feature: 50+ PS5, PS4 Games to Buy in PS Store s Planet of the Deals Sale (North America/Europe)
+Mon, 26 Oct 2026 10:00:00 GMT — https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope
+
+Recommended games going cheap. Planet of the Deals is the PS Store's latest sale, running until 4th November, 2026. As always, there are thousands of PS5 and PS4 games on offer, and that's an awful lot of potential purchases to scroll through. Read the full article on pushsquare.com
+
+### Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade
+Mon, 26 Oct 2026 09:30:00 GMT — https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade
+
+Now has until 13th December 2026. The deadline relating to Arkane Lyon's search for a new owner has been extended by one month, Microsoft confirmed. The developer and Microsoft previously set a cut-off point of 13th November 2026, but that has now been extended to 13th December, as per comments from a representative: "We have extended the consultation period by one additional month as we explore options, including finding a partner to support the studio through the development work still ahead," PC Gamer was told. Read the full article on pushsquare.com
+
+### Review: Phantom Blade Zero (PS5) - One of the Generation s Greatest Action Experiences
+Mon, 26 Oct 2026 00:00:00 GMT — https://www.pushsquare.com/reviews/ps5/phantom-blade-zero
+
+I got Soul but I'm not a Soulslike. Should you ever wonder what it might feel like to be the coolest person on the planet, then Phantom Blade Zero is utterly hell-bent on fulfilling that fantasy. The western debut from S-GAME makes a punchy, stylish, and deep combat system the nucleus of an adventure full of action and flair. It’s presented with a swagger that leans into pleasure, with an incredible game feel that lends every one of your moves an extreme degree of satisfaction. Read the full article on pushsquare.com
 
 ### Shenmue 3 Revival Postponed, as PS5 Re-Release Is Delayed to Early 2027
 Sun, 25 Oct 2026 18:30:00 GMT — https://www.pushsquare.com/news/2026/10/shenmue-3-revival-postponed-as-ps5-re-release-is-delayed-to-early-2027
@@ -107,16 +125,26 @@ Sat, 24 Oct 2026 11:00:00 GMT — https://www.pushsquare.com/guides/these-45plus
 
 Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked next week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade Zero , from Chinese dev S-GAME. Read the full article on pushsquare.com
 
-### Talking Point: What Are You Playing This Weekend? - Issue 655
-Fri, 23 Oct 2026 23:00:00 GMT — https://www.pushsquare.com/features/talking-point-what-are-you-playing-this-weekend-issue-655
-
-Wet and windy. The weather is miserable, guys. Like, truly miserable. I’m not going out this weekend unless I have to. I’m playing games. Aaron Bayne Not exactly what I was expecting, but I'll be spending this weekend with Modern Warfare 4 . It's been a couple of years since I last dove into a Call of Duty, so hopefully this one is worth it! Read the full article on pushsquare.com
-
 ## Game Developer
 
 _Nothing in the last 48 hours._
 
 ## VGC
+
+### Save Mass Effect petition cracks 200,000 signatures as fans plead for the series to continue
+Mon, 26 Oct 2026 10:28:31 +0000 — https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/
+
+EA announced last week that Mass Effect studio BioWare is closing… Source
+
+### Helldivers 3 isn t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says
+Mon, 26 Oct 2026 09:57:36 +0000 — https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/
+
+Making Helldivers 2 better every day makes way more sense than throwing away its momentum" Source
+
+### Phantom Blade Zero review: A damn good action game that shouldn’t be ignored
+Mon, 26 Oct 2026 00:00:34 +0000 — https://www.videogameschronicle.com/review/phantom-blade-zero-review/
+
+S-Game has crafted some of the fastest, most engaging combat of any action game, even if it' Source
 
 ### A free, officially licensed game based on classic UK children s TV show Knightmare is in development
 Sat, 24 Oct 2026 17:55:53 +0000 — https://www.videogameschronicle.com/news/a-free-officially-licensed-game-based-on-classic-uk-childrens-tv-show-knightmare-is-in-development/
@@ -125,57 +153,72 @@ The point-and-click game includes voice acting by the original cast… Source
 
 ## Polygon
 
-### 'Avatar: Seven Havens' Fans Need to Watch Disney’s Overlooked Apocalyptic Fantasy Adventure
-Sun, 25 Oct 2026 17:00:18 GMT — https://www.polygon.com/raya-and-the-last-dragon-perfect-disney-movie-for-avatar-seven-havens-fans/
+### Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon
+Mon, 26 Oct 2026 10:15:12 GMT — https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/
 
-A young girl rides atop her trusted animal companion through the apocalyptic desert of her shattered world. What is she looking for? What happened to this world? Will she be the one to save it?
+Fourth Wing went viral on BookTok in 2023, amassing fans all over the world. These thousands of avid readers are anticipating Amazon's adaptation of their favorite romantasy series . As more details come out, it's clear that it is close to leaving pre-production. Recent reports provide details about its filming window and location, allowing fans to speculate about the real-world location that will become Navarre and Basgiath War College.
 
-### Clayface Gives Skydance Its Second Box Office Weekend Win In A Row
-Sun, 25 Oct 2026 16:02:01 GMT — https://www.polygon.com/clayface-opening-weekend-box-office/
+### D&D's Japanese Rival Sword World Crowdfunding Raises Over $2 million in a Day
+Mon, 26 Oct 2026 09:59:38 GMT — https://www.polygon.com/sword-world-rpg-crowdfunding-backerkit-success/
 
-Initial estimates for Clayface's opening weekend box office are in, and the lower-budget horror film took the top spot with a $24.5 million gross. Its success means Skydance, the company created when Paramount and Warner Bros. merged, has topped the box office for two straight weeks.
+Japan's most popular fantasy tabletop role-playing game, Sword World RPG , is finally live on BackerKit with its first official English localization. Courtesy of Mugen Gaming, a company that specializes in localizing Japanese tabletop games, the Sword World RPG campaign is already off to a great start, raising over $2 million in one day.
 
-### Forza Might Actually Lose at The Game Awards for the First Time in a Decade
-Sun, 25 Oct 2026 16:00:18 GMT — https://www.polygon.com/game-awards-sports-racing-forza-star-wars-galactic-racer/
+### Beloved Bugs Bunny and Daffy Duck Voice Eric Bauza Passes Away at 46
+Mon, 26 Oct 2026 08:28:40 GMT — https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/
 
-The Sports/Racing category has a number of almost inviolate rules, which are as follows:
+On the evening of Oct. 25, it was announced that prolific, Emmy-winning voice actor Eric Bauza suddenly passed away at age 46 from hypertensive heart disease. A notice was posted to his Instagram reading:
 
-### Mass Effect Universe Director Reveals Canceled Game's Multiverse System
-Sun, 25 Oct 2026 15:38:08 GMT — https://www.polygon.com/mass-effect-universe-parallel-universe-timeline-system/
+### 10 Best 'Star Trek: Original Series' Episodes of All Time, Ranked
+Mon, 26 Oct 2026 08:00:18 GMT — https://www.polygon.com/best-star-trek-original-series-episodes-ranked/
 
-BioWare's canceled Mass Effect game would have been more than just one "universe."
+Ask 10 Star Trek fans to name the best episodes from The Original Series , and you're likely to get 10 completely different lists. Some will prioritize the writing, others the performances or the science-fiction concepts. And inevitably, somebody will argue that "The City on the Edge of Forever" belongs at No. 1. They might even be right.
 
-### Overwatch Co-Creator Pushes The Legend of California's Early Access Release To 2027
-Sun, 25 Oct 2026 15:08:49 GMT — https://www.polygon.com/the-legend-of-california-delay/
+### The 10 Best SNES Games to Play on Nintendo Switch Online
+Mon, 26 Oct 2026 02:44:34 GMT — https://www.polygon.com/best-snes-games-nintendo-switch-online-classics/
 
-Former Overwatch developers Jeff Kaplan and Tim Ford are currently working on a survival game called The Legend of California at their new studio Kintsugiyama. While the game was previously slated for a Steam Early Access release in 2026, a new r/pcgaming Reddit AMA affirmed it has been pushed back to 2027.
+The Super Nintendo Entertainment System has one of the finest game catalogs of any console ever released, and there's a strong selection of 77 games available on Nintendo Classics as part of Nintendo Switch Online. Sadly, most of the console's great third-party games aren't represented; you won't find Chrono Trigger , Final Fantasy 6 , or Street Fighter 2 Turbo on the service.
 
-### Elden Ring Has Quietly Become A24's Most Expensive Movie Yet
-Sun, 25 Oct 2026 14:10:43 GMT — https://www.polygon.com/elden-ring-movie-budget/
+### Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026
+Mon, 26 Oct 2026 00:56:40 GMT — https://www.polygon.com/phantom-blade-zero-review-roundup-score/
 
-It's been a while since we've gotten any official updates on A24's Elden Ring movie , but a new report has revealed that the film has a massive budget. Elden Ring is certainly more expensive than any other movie the Backrooms studio has made before, so it'll be A24's first true blockbuster.
+2026 officially has a new highest-rated game of the year. Reviews are in for Phantom Blade Zero , the Wuxia-inspired action game from S-Game, and they've solidified it as one of the best-reviewed games of 2026 — a feat that could help its chances at scoring a nomination for the 2026 Game Awards in December.
 
-### The Most Broken D&D Item Keeps Ruining Games. Here Are 3 Ways to Fix It
-Sun, 25 Oct 2026 14:00:18 GMT — https://www.polygon.com/dnd-most-broken-item-potion-healing-fix-dungeons-dragons/
+### Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse
+Mon, 26 Oct 2026 00:00:18 GMT — https://www.polygon.com/phantom-blade-zero-review/
 
-Magic items are an important component of the Dungeons & Dragons experience; collecting and using wondrous artifacts is a given in a role-playing game of heroic fantasy. This is why, in D&D, every character class has access to magic items , starting at the very first level. However, one of these items is so powerful that it can easily turn the game’s balance upside down.
+With games like Pragmata , 007 First Light, Beast of Reincarnation , and Onimusha: Way of the Sword , I’ve spent much of 2026 thinking about what makes a good action game. Is it about the challenge of performing extraordinary feats on the screen? Is it about fighting, and winning, excruciating battles against enemies that feel mathematically impossible to beat? Is it just about power fantasy?
 
-### Steve Rogers Wields Mjolnir in the Latest Avengers: Doomsday Trailer
-Sun, 25 Oct 2026 13:43:26 GMT — https://www.polygon.com/avengers-doomsday-mjolnir-trailer/
+### Stephen King's Hit Horror TV Series Officially Returning to HBO Max
+Sun, 25 Oct 2026 23:15:18 GMT — https://www.polygon.com/stephen-king-it-welcome-to-derry-season-2-renewal-hbo-max/
 
-A new trailer for Avengers: Doomsday dropped on Oct. 24. While it's not very long, it shows a surprising amount of new footage rather than rehashing clips we've already seen. In particular, it has some great moments featuring Captain America (all three of them).
+It’s been a pretty great year to be a horror fan. Obsession became one of 2026’s biggest surprise hits, Backrooms turned an internet nightmare into a box-office smash, and even smaller releases like Hokum found an audience. And now, one of the most iconic stories from horror legend Stephen King is getting another chapter. HBO has officially renewed It: Welcome to Derry for a second season, sending Pennywise and the cursed Maine town even further into the past.
 
-### GTA: San Andreas’ Most Frustrating MIssion Show How Far Rockstar Has Come in 22 Years
-Sun, 25 Oct 2026 13:00:18 GMT — https://www.polygon.com/gta-san-andreas-retrospective/
+### 27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube
+Sun, 25 Oct 2026 23:00:18 GMT — https://www.polygon.com/the-mummy-free-on-youtube/
 
-With the imminent release of Grand Theft Auto 6 , I decided it was time to revisit what was probably the biggest game of my childhood: Grand Theft Auto: San Andreas . In 2005, GTA: San Andreas was one of the first four games I bought for the PlayStation 2, alongside Final Fantasy X , Kingdom Hearts , and Devil May Cry 3 . Since I can no longer enjoy that version of the game I played so many times as a kid, I picked up the Grand Theft Auto: The Trilogy — Definitive Edition , which includes San Andreas , on Steam and booted up the game.
+No one really knows why a movie works. After a century of Hollywood, the industry is still trying to understand and adapt to an ever-evolving audience. As we enter an era of peak remake and IP-grab filmmaking, stories from decades ago have become the studios’ easiest bets to make money. It’s not fertile ground for creativity, but we movie fans have to take our wins where we can.
 
-### Nintendo Legend Reveals Super Mario Bros.' Most Surprising Innovation
-Sun, 25 Oct 2026 12:05:18 GMT — https://www.polygon.com/nintendo-super-mario-japan-award-biggest-series-innovation/
+### Sydney Sweeney's New Netflix Sci-Fi Space Epic Gets First Details
+Sun, 25 Oct 2026 21:52:18 GMT — https://www.polygon.com/gundam-movie-sydney-sweeney-netflix-story-details/
 
-The original side-scrolling Super Mario Bros. is widely considered to be one of the best games of all time, and the list of reasons justifying that assertion is long. The NES game made Nintendo into a household name, and Mario into a media icon as recognizable as Mickey Mouse. The 1985 video game helped bring games into the mainstream, and it defined platforming as a video game genre. Super Mario Bros. remains one of the best-selling games of all time. Yet if you ask series creator Shigeru Miyamoto, none of these things truly capture SMB 's biggest contribution to the world of video games.
+The live-action Gundam film has been in the works in some form or another since 2018. A director and cast have been announced, including high-profile names like Sydney Sweeney joining the project. Still, hard details on exactly what Netflix's live-action adaptation of the legendary mech anime series will look like have been almost non-existent.
 
 ## PC Gamer
+
+### Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'
+Mon, 26 Oct 2026 03:12:41 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/
+
+Valve's mandatory AI disclosures are once again at the centre of the discourse, mostly thanks to Epic Games CEO Tim Sweeney, who has long been vocally against them. The debate has been reheated in the same month Epic Games proudly announced it will pivot to "AI first" development on its forthcoming Star Wars and Marvel crossover. Then it announced an AI game jam, before walking back its requirement for AI to be used. But the true battleground has been on Elon Musk's X, where Sweeney's refocused his reticule on Steam. One of his most repeated notions this time around is that forcing developers to disclose AI use is inherently political. "Forcing developers to write a political statement to be used against them by the hate mob they're [Valve is] helping organize is abhorrent," he wrote on October 24 in response to some AI loving guy who works at an AI company. Later, to another user : "These AI statements are just as partisan as mandatory political essays or forcing developers to list their voting history to drive cancel campaigns and public struggle sessions." And then : "There is a real economic cost to Valve’s foray into forced political disclosures. Besides taking 30%, they’re also taking a potentially even larger fraction of developers’ revenue and livelihood by undermining their business with these AI hate campaigns." (Later, when a user wrote this is a "big opening for Epic if Valve doesn't figure this out", Sweeney replied "Yep!") On October 25 : "They [Valve] are burni
+
+### Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''
+Sun, 25 Oct 2026 20:49:51 +0000 — https://www.pcgamer.com/games/mass-effect/commander-shepard-actors-jennifer-hale-and-mark-meer-mourn-bioware-together-it-was-in-the-hands-of-ownership-that-may-not-have-understood-what-bioware-fully-is/
+
+As reported by IGN , veteran actors Jennifer Hale and Mark Meer, who voiced the female and male Commanders Shepard in Mass Effect, respectively, directly addressed fans of the series in an October 21 Instagram Live . The two reflected on BioWare, and commiserated over its tragic fate. Here are some highlights from each I pulled from the stream: Both actors' reactions strike me as so characteristic of their respective backgrounds: Hale is one of the voices of videogames (not to diminish Meer's own extensive resume). She jumped to BioWare's place in the industry and its current crisis. Meer, a standby of the Edmonton theater and improv scene, fixated on the closure's effects on this city he clearly loves. Both are 100% correct about the collective joy and meaning people found in BioWare's work. That's something private equity can't take from us ⁠—at least not with current technology. As for Hale's optimism regarding the rights and potential future of the franchise, well, I Want To Believe. Not to obnoxiously needle what seemed like an offhand idea, but I don't think Kickstarter's walking through that door. Aside from Double Fine's Broken Age and the utterly baffling case of Star Citizen, many gaming crowdfunding successes⁠—like Pillars of Eternity and Wasteland 2⁠—still required further, traditional investment to go gold. BioWare and/or its IP would be orders of magnitude more expensive. There's also precedent to look back on: EA has not done anything with Ultima in over 20 yea
+
+### Indies and non-sequels have exploded in the last year, and it's not all friendslop
+Sun, 25 Oct 2026 19:17:10 +0000 — https://www.pcgamer.com/gaming-industry/indies-and-non-sequels-have-exploded-in-the-last-year-and-its-not-all-friendslop/
+
+You'll never play every game. In fact, most people won't play most games—plenty of games release on Steam to approximately 0 user reviews, and last year, more than half of the 19,000 games that came out had fewer than 10. But that doesn't mean indies and anything else outside of the biggest blockbusters are all sent out to die. So far in 2026, all-original indies have been making waves. That insight comes courtesy of Sensor Tower (via GamesIndustry.biz ), which recently published an industry analysis report sharing some trends among the year's breakout hits. For reference, a breakout is defined in the study as a game which sold at least 500,000 units in its first 30 days. While ultimately based on estimates as not all publishers release sales numbers, the report is full of interesting tidbits. The most noteworthy findings in the report are thus: there were 76 breakouts between September 2025 and August 2026, up from the previous year's 55. Indie breakouts shot up from 13 to 33, making up 43% of the pack, and 35 of the breakouts were non-sequels—around 53%. 27 of those were made by indie studios. Nine of the indie breakouts were friendslop hits like Meccha Chameleon and RV There Yet?, while 18 were debuts in other genres, such as Escape From Duckov and Megabonk. Triple-A blockbusters have not really budged, according to the report. Last year they had 27 breakouts, this year they had 28 (notably, due to the methodology used, some huge games are excluded from this report: no fre
 
 ### 'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure
 Sun, 25 Oct 2026 18:24:00 +0000 — https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/
@@ -222,27 +265,9 @@ Sun, 25 Oct 2026 13:20:37 +0000 — https://www.pcgamer.com/games/strategy/civil
 
 The development and release of Civilization 7 has been a rollercoaster for both fans of the series and developer Firaxis. The most recent entry in the long-running 4X series shipped with an age-transition mechanic where players would switch between civilisations at multiple points during a game. It was a radical design shift that divided the community, received well by some players, but going down like a glass of cold sick with others. Earlier this year, Firaxis introduced an update to Civilization 7 that made age transitions optional and reimplemented the traditional, single-civ mode of play. Yet according to Firaxis, this was not a decision the studio made easily, and was particularly tough for creative director Ed Beach. This was revealed in an expansive oral history of Civilization by Polygon , which charts the trajectory of the series game by game. The roots of Civilization 7, it seems, were in a long-held frustration of series' creator Sid Meier: "I was always frustrated by playing a Civ game and having a civilization with one period of time, where I had special abilities and special powers," Meier explains. "And for the rest of history I would just play sort of as a vanilla Civ where I didn't have anything unique about what I was doing." This idea was carried forward by Beach, who made it a central feature of Civ 7. "I know, just as a fan of history, that all civilizations have a long lineage where the came from Rome, or they came from Greece, or they came from an Afri
 
-### Mass Effect 5 would have let players generate alternate timelines based on their choices in previous games, according to the series' technical director
-Sun, 25 Oct 2026 12:01:33 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-5-would-have-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-games-according-to-the-series-technical-director/
-
-The more information that dribbles out from BioWare's cancelled Mass Effect game, the sadder I feel about the whole sorry situation. We've already seen an in-engine trailer that introduced a new protagonist and reintroduced Liara T'Soni, and we've heard that the game was set in a 'galactic Cold War' that combined all three of Mass Effect 3 's possible endings. Now, it seems the new Mass Effect would also have had a sophisticated system for dealing with the choices players made in the original trilogy. This is according to Mass Effect's Franchise Technical Director Romain Toutain, who ran a Twitch stream during which he provided commentary on the recently leaked trailer, offering some insight into the game that trailer was supposed to reveal (via Kotaku ). Although the stream was in French, a clip was posted on Bluesky by user @loustica-lucia, who added English subtitles to Toutain's commentary. During his stream, Toutain mentions that BioWare was working on a novel way to account for the many choices players made while playing the Mass Effect trilogy, pointing out that "all of the choices made in the first Mass Effect games were taking into account." Indeed, this is partly the reason behind the cancelled successor's name as shown in the leaked internal trailer. "One of the reasons why it was called Mass Effect Universe is that you had so many choices that you could plug your saves together to create parallel universes." Toutain quickly clarifies that his explanation is "to ke
-
-### Top Xbox exec promoted in brand 'reset' leaves after 3 months in role
-Sat, 24 Oct 2026 18:58:24 +0000 — https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/
-
-As reported by The Verge , Xbox Chief Operating Officer Helen Chiang is leaving the company after three months in the role⁠—though Chiang had previously been a Microsoft employee for 21 years. Xbox had not previously operated with a COO in its hierarchy, and the role was created as part of CEO Asha Sharma's controversial brand "reset." Sharma announced the personnel change in an October 23 internal memo, and did not offer an explanation for Chiang's departure. "Her immediate responsibilities are being split up between other Xbox leaders for now," Sharma wrote. "We'll share more on COO leadership as plans are finalized." Microsoft shared a boilerplate statement on the departure to Eurogamer : "We don't discuss individual personnel matters. We're grateful for Helen's years of service and wish her well." However, an anonymous source within Microsoft also told Eurogamer that Chiang was "terminated for policy violations." According to Sharma's original reset announcement, the COO was tasked "with end-to-end P&L [profit and loss] responsibility across content, hardware, platform, and services." Given Xbox's current focus on cost-cutting and maximizing revenue, that sounds like a fairly key role in Sharma's project. It's hard to imagine Chiang's departure having any significant impact on Xbox's strategy or its execution, but it hardly inspires confidence to see such a quick turnaround in an executive-level position, particularly given the overall instability and uncertainty at Xbox.
-
-### Penguin Colony review: A daringly weird horror game whose atmosphere and surprises overcome its rough edges
-Sat, 24 Oct 2026 18:10:01 +0000 — https://www.pcgamer.com/games/horror/penguin-colony-review/
-
-Need to know What is it? Lovecraftian horror through the eyes of a penguin. Release date October 16, 2026 Expect to pay $15 / £13 Developer Origame Digital Publisher Fellow Traveller Reviewed on RX 9070 XT, Core i5 12600K, 32 GB RAM, Steam Deck Multiplayer No Steam Deck Verified Link Steam Penguin Colony is a work of cosmic horror that I would recommend to anyone with even a passing interest in scares from the beyond , even though its unique penguin platforming can be frustrating to wrangle. It's a radical recontextualization of an H.P. Lovecraft classic with a clear affection for the writer's storytelling, but also scathing contempt for his racism. For my money, it's not October without a weird-ass new indie horror game leaving a lasting impression on me, and Penguin Colony has satisfied my annual craving. You are a penguin witnessing the events of the Lovecraft story, At the Mountains of Madness. Your powers are honk, slide, swim, and hop. Rather than being limited to a specific bird, you are able to possess any penguin you come across, theoretically using different species' abilities to tackle different movement challenges. Aside from using little baby penguins to squeeze into tight spaces, I was almost exclusively a Rockhopper main: Their impressive vertical jump was a boon in many areas. They shoulda hooped instead of investigating The Strange. The GOAT, PC Gamer Tales from The Hard Drive host Lenval Brown, narrates the adventure from the perspective of a customarily neu
-
 ## GameSpot
 
-### Call Of Duty: Modern Warfare 4 s First DLC Is Out Now, Honors A Real Soldier Who Sustained Gruesome Injuries
-Fri, 23 Oct 2026 19:37:03 +0000 — https://www.gamespot.com/articles/call-of-duty-modern-warfare-4s-first-dlc-is-out-now-honors-a-real-soldier-who-sustained-gruesome-injuries/
-
-Call of Duty: Modern Warfare 4 released today, October 23, and the game's first DLC pack is available now. In keeping with Call of Duty tradition, the day-one DLC is a Call of Duty Endowment (CODE) pack , with proceeds going to Activision's charity that supports military veterans find new jobs after they leave the service. The CODE Valor Pack adds the real-life Medal of Honor recipient Kyle Carpenter to the game as a playable character. Carpenter was in Marjah, Afghanistan, when, on November 21, 2010, he put himself in front of a grenade to help save the life of his fellow Marine, Nick Eufrazio. Carpenter sustained serious injuries from the grenade blast. He was unconscious for five weeks, had his teeth stripped from his mouth, and lost an eye. He sustained numerous other life-threatening injuries in the blast. Carpenter received the Medal of Honor from President Barack Obama in 2014. At the ceremony, Obama said, "They found Kyle lying face down, directly over the blast area. His helmet was riddled with holes. His gear was melted. Part of his Kevlar vest was blown away. One of the doctors who treated him later said Kyle was, 'Literally wounded from the top of his head to his feet.'" Carpenter underwent brain surgery to remove shrapnel from his head. He had about 40 other surgeries to addresses his injuries, which included a collapsed lung, fractured fingers, and one arm that broke in more than 30 places. He had multiple skin grafts and now has a prosthetic eye, a new jaw, and
+_Nothing in the last 48 hours._
 
 ## Rock Paper Shotgun
 
@@ -280,9 +305,4 @@ I'll be honest folks: I didn't know that Steam's Personal Calendar feature was s
 Sat, 24 Oct 2026 14:00:00 +0000 — https://www.rockpapershotgun.com/mass-effect-3-ending-discourse-ignored-the-rpgs-scale-ambition-and-exuberance-including-that-of-its-oddly-great-co-op
 
 Ah, come on, it was fine. Better than fine. We can argue for another fourteen years about whether BioWare should have redone the ending or not, but Mass Effect 3 was really a compendium of endings, a ludicrously ambitious wrapping-up of dozens of plot threads, character arcs, and running gags. Even if you can point to other RPGs that, on an individual basis, are more branching and reactive, Mass Effect 3's largely successful closing of a galaxy's worth of choose-your-own adventure books - filled in and followed across three evolving instalments - showed an audacity and grandiosity that no other three-part series had matched before. Or, at least on that scale, has pulled off since. Read more
-
-### What are we all playing this weekend?
-Sat, 24 Oct 2026 07:00:00 +0000 — https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-405
-
-After months of umming ahhing over paint colours, covering our living room wall in little swatches of testers, we've finally got exasperated with the entire process selected Cherry Caramel. I would be clearing out the living room to start painting today, but, honestly, after the surprise DIY of an exploded sink yesterday, maybe what's called for is some gaming. Nothing to do with either piping, water levels, or interior design. Sorry, Pipemania, Bioshock, and House Flipper . Enough about my exploded sink, though, he's what everyone else is up to this weekend. Read more
 

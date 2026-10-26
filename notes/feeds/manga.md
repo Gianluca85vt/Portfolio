@@ -1,6 +1,31 @@
-# Manga — harvested 2026-10-25T19:15:06.355Z
+# Manga — harvested 2026-10-26T10:30:52.700Z
 
 ## Anime News Network
+
+### Goddess of Victory: Nikke Game Gets New Manga Adaptation
+Mon, 26 Oct 2026 00:03:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/goddess-of-victory-nikke-game-gets-new-manga-adaptation/.243164
+
+New series focused on Goddess squad launches in winter
+
+### Touhou Tabletop RPG Gensou Narratograph to Launch in English in 2027
+Sun, 25 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-25/touhou-tabletop-rpg-gensou-narratograph-to-launch-in-english-in-2027/.243170
+
+Play as one of 30 <i>Touhou Project</i> characters in “cozy slice-of-life bullet-hell” RPG
+
+### New Live-Action Street Fighter Film Drops to #4 in the U.S.
+Sun, 25 Oct 2026 23:27:07 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/new-live-action-street-fighter-film-drops-to-no.4-in-the-u.s/.243195
+
+Film earned estimated US$8.6 million in 2nd weekend, a 72.1% drop
+
+### Patlabor EZY Anime Gets Novelization in 2027
+Sun, 25 Oct 2026 23:17:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/patlabor-ezy-anime-gets-novelization-in-2027/.243181
+
+<cite>Maburaho</cite>, <cite>Kämpfer</cite> novels author Toshihiko Tsukiji writes adaptation
+
+### Rainy Day Serenade Manga Gets Spinoff Series in November
+Sun, 25 Oct 2026 22:25:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/rainy-day-serenade-manga-gets-spinoff-series-in-november/.243186
+
+<i>Namidaame to Serenade: Gaiden</i> launches on November 25
 
 ### Cherry and Virgin Anime Movie Review
 Sun, 25 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/cherry-and-virgin-anime-movie/.243089
@@ -37,36 +62,16 @@ Sun, 25 Oct 2026 05:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-1
 
 Key visual also revealed ahead of new season's January 2027 debut
 
-### Nigozyu Plans to End The Detective Is Already Dead Novels in 15th Volume
-Sun, 25 Oct 2026 03:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/nigozyu-plans-to-end-the-detective-is-already-dead-novels-in-15th-volume/.243168
-
-Light novel series debuted in November 2019
-
-### Japan Honors Director Rintarō as Person of Cultural Merit
-Sun, 25 Oct 2026 02:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/japan-honors-director-rintaro-as-person-of-cultural-merit/.243158
-
-Director is among 20 honorees in 2026
-
-### Crunchyroll Reveals English Dub Casts for Full Clearing Another World Under a Goddess with Zero Believers, 2 More Anime
-Sun, 25 Oct 2026 01:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/crunchyroll-reveals-english-dub-casts-for-full-clearing-another-world-under-a-goddess-with-zero-/.243169
-
-Service also streams dubs for <cite>The Prince of Tennis II U-17 World Cup: Final Member Selection Match</cite>, <cite>The Iceblade Sorcerer Shall Rule the World II</cite>
-
-### Land of the Lustrous' Haruko Ichikawa Launches New Manga Cosmic Mimimi
-Sun, 25 Oct 2026 00:15:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/land-of-the-lustrous-haruko-ichikawa-launches-new-manga-cosmic-mimimi/.243167
-
-"Neo kawaii sci-fi" series debuts on November 25
-
-### Tougen Anki: Nikko Kegon Falls Arc Anime Gets English Dub on Crunchyroll
-Sat, 24 Oct 2026 22:55:41 -0400 — https://www.animenewsnetwork.com/news/2026-10-24/tougen-anki-nikko-kegon-falls-arc-anime-gets-english-dub-on-crunchyroll/.243166
-
-1st 2 episodes of new season with dub available now
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### Interview: Corey Wilder at Anime Central
+Mon, 26 Oct 2026 02:59:04 GMT — https://animecorner.me/interview-corey-wilder-at-anime-central/
+
+Corey Wilder is a voice you've almost certainly heard and one you definitely should&hellip;
 
 ### King’s Proposal Anime Reveals Main Cast, Teaser Visual, 2027 Premiere Date
 Sun, 25 Oct 2026 12:50:29 GMT — https://animecorner.me/kings-proposal-anime-reveals-main-cast-teaser-visual-2027-premiere-date/
@@ -103,22 +108,12 @@ Sun, 25 Oct 2026 01:43:48 GMT — https://animecorner.me/genshin-impact-version-
 
 Genshin Impact Version 7.2, "Hour of Ruin," will arrive on November 4. As the&hellip;
 
-### Though I Am an Inept Villainess Cour 2 Reveals Teaser Trailer Ahead of January 2027 Debut
-Sat, 24 Oct 2026 09:20:53 GMT — https://animecorner.me/though-i-am-an-inept-villainess-cour-2-reveals-teaser-trailer-ahead-of-january-2027-debut/
-
-Though I Am an Inept Villainess anime has released a teaser trailer for its second cour, which will begin airing in January 2027.
-
-### Kaiju No. 8 Final Movie Announced for 2027 as Anime Conclusion
-Sat, 24 Oct 2026 09:16:17 GMT — https://animecorner.me/kaiju-no-8-final-movie-announced-for-2027-as-anime-conclusion/
-
-Kaiju No. 8: The Movie will officially conclude the series as a theatrical film set for release in 2027, bringing the anime series to its final chapter.
-
-### Black Clover Season 2 Episode 4 Preview Teases Nacht Fighting Two Supreme Devils
-Fri, 23 Oct 2026 19:48:24 GMT — https://animecorner.me/black-clover-season-2-episode-4-preview-teases-nacht-fighting-two-supreme-devils/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 4 (Episode 174 overall) ahead of its October 24 premiere.
-
 ## MyAnimeList News
+
+### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Unveils Additional Cast, Third Promo for Fujimiya Family Arc
+Mon, 26 Oct 2026 02:44:09 -0700 — https://myanimelist.net/news/74865718?_location=rss
+
+The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...
 
 ### Houseki no Kuni Creator Launches New Manga
 Sun, 25 Oct 2026 09:56:41 -0700 — https://myanimelist.net/news/74862294?_location=rss

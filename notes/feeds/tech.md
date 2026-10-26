@@ -1,4 +1,4 @@
-# Tech — harvested 2026-10-25T19:15:06.355Z
+# Tech — harvested 2026-10-26T10:30:52.700Z
 
 ## Ars Technica
 
@@ -12,32 +12,32 @@ Sat, 24 Oct 2026 11:00:09 +0000 — https://arstechnica.com/science/2026/10/ice-
 
 Barnes Ice Cap sits on the central plateau of Baffin Island, in the Canadian Arctic. It is the last surviving fragment of the Laurentide Ice Sheet, the largest of the Pleistocene ice sheets, which at its peak buried most of Canada under two miles of ice and locked away around 80 meters of sea level. That remnant has now yielded direct physical evidence that ice sheets might have reversed their retreat and started to grow again thousands of years ago. In a recent Science study, researchers show that the Laurentide reached its smallest size about 3,600 years ago, then started re-expanding roughly 2,000 years ago, which the team interprets as the opening move of the next glaciation. Apparently, this brand-new ice age was on its way until about 1960, when human-caused climate warming reversed it. Frozen to the bed “Barnes is the last remaining piece of one of the domes of the Laurentide Ice Sheet,” says Nicolás Young, a geologist at Columbia University's Lamont-Doherty Earth Observatory and lead author of the study. As that enormous dome thinned through the Holocene, its margin withdrew up onto Baffin Island, and what's left today is the deflated core of something that was once two miles thick. The reason Barnes can testify about its own history, Young explains, comes down to the temperature at its base. Read full article Comments ]]>
 
-### NASA updates lander plans for Moon landings, finally solves long-festering Orion issue
-Fri, 23 Oct 2026 22:48:25 +0000 — https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/
-
-During a lengthy news conference on Friday, NASA provided a detailed overview of how it plans to return astronauts to the lunar surface as soon as 2028 as part of its Artemis Program. Although much of the information behind these plans has been previously reported at Ars Technica and elsewhere, this marked the first time NASA has laid them out in detail and acknowledged some substantial changes in the architecture. Most notably, for SpaceX's Starship vehicle, the revised plan calls for the Orion spacecraft to dock with the Starship lunar lander in high-Earth orbit before transiting to the Moon. And for Blue Origin, the mission architecture includes four launches of the New Glenn rocket, but no spacecraft-to-spacecraft refuelings. Additionally, the Blue Origin plans allows for the possibility of its Blue Moon lander rendezvousing with Orion in low-Lunar orbit. Read full article Comments ]]>
-
-### Hegseth warns prediction market bets warp military judgment, endanger troops
-Fri, 23 Oct 2026 20:28:43 +0000 — https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/
-
-Defense Secretary Pete Hegseth issued a memo warning military personnel against using nonpublic information to make bets on prediction markets, saying the wagers could give important clues to enemy countries. "Do Not Compromise Military Operations for Personal Financial Gain," said the subject line of an October 20 memo published yesterday by CBS News . Hegseth's memo was sent to senior Pentagon leadership, Combatant Command leaders, and Defense Department field activity directors. Hegseth wrote: Read full article Comments ]]>
-
-### Updated Google privacy policy says your Gmail might be used for advertising
-Fri, 23 Oct 2026 20:19:55 +0000 — https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/
-
-Using Google's products and services has always been fundamentally precarious—doing so gives the world's largest advertising company a lot of juicy personal data. Google has long said it won't use the sensitive data from products like Gmail, Drive, and Photos for ad personalization, but a change to the company's privacy policy appears to dismantle that firewall. On October 16, Google issued an update to its privacy policy , spotted by Android Authority . The ad personalization section used to include a clear limit on data from certain apps. "We don’t show you personalized ads based on your content from Drive, Gmail, or Photos," the document said. Now, Google has updated it with the following language. Updated language on when your sensitive data might inform ads. Credit: Google This equivocation opens the door to using data from apps like Gmail and Photos in ads when it's shared with other Google services, and it just so happens Google has a mechanism for doing that, with Personal Intelligence. The company released Personal Intelligence in early 2026 , allowing users to hand data from multiple apps to Google AI products. The idea is that the added context from your existing data will lead to better AI answers, but it's also proving to be a privacy minefield. Read full article Comments ]]>
-
-### Inside the Pentagon, the pressure is on to find a home for a new spaceport
-Fri, 23 Oct 2026 19:33:58 +0000 — https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/
-
-Leaders in the US Space Force would like to have a new spaceport up and running in four years, adding a third heavy-lift launch site to relieve pressure from bases in Florida and California that have shot rockets into orbit for nearly 70 years. The obvious problem with that ambition is 2030 is four years away, and Pentagon officials have not determined where the new spaceport should go or how to acquire land for it. Air Force Secretary Troy Meink first mentioned the service's search for a third launch base in May. A congressionally mandated study of the Space Force's launch infrastructure identified the need for "another site that's capable of heavy and super heavy launch capability," Meink said in a House Armed Services Committee hearing. Read full article Comments ]]>
-
-### Spotify ramps up policy enforcement on family plans
-Fri, 23 Oct 2026 19:20:27 +0000 — https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/
-
-As reported by Music Business Worldwide , Spotify appears to be stepping up enforcement of existing policies regarding Family and Duo subscription plans by requiring users to scan a QR code in person on the plan manager's device in order to maintain access to it. Those who fail to scan the address verification QR code within seven days will see their account demoted to the free tier and be barred from joining any other Duo or Family plan for 12 months. Spotify's QR code plan enforcement. Credit: Spotify Spotify's support documentation verifies the policy after users on Reddit began posting reports of receiving the QR prompt. The enforcement stems from Spotify's requirement that family plan members reside at the same address—a seemingly reasonable policy in concept. But what if you have a child away in college, a spouse who works on the road, or any number of other circumstances that might see families separated by physical distance? The policy could extend beyond friend groups looking to save a buck, affecting actual families who thought they were using the program as intended. Goldman Sachs analysts, in their October 15 Music in the Air: 10 Years On report, made available by HITS Daily Double , estimate that "a meaningful share of family plan users are not actual household members, but rather friends sharing a plan to reduce costs." The report goes on to add, "We see additional monetization upside from tightening household verification on multi-user plans. Most family plans 
-
 ## The Verge
+
+### The city that fought Flock
+2026-10-26T06:00:00-04:00 — https://www.theverge.com/features/1017836/flock-huntington-west-virginia-surveillance-ballot-measure
+
+It was about to be a long night in Huntington, West Virginia. Mayor Patrick Farrell stood before 10 members of city council in a white dress shirt and dark blazer studded with an American flag pin. Behind him sat his constituents and residents from neighboring towns. Some had their arms crossed, while others held a steady glare in his direction. Less than a week before the July 13th meeting, a 33-year-old named Jackie Harper had been shot and killed in Huntington. It was the kind of crime Farrell had promised to get under control. But a breakthrough in the case just days after the killing suggested something promising to Farrell. Harper's s … Read the full story at The Verge. ]]>
+
+### iFixit s look inside the iPhone Duo may explain those broken screens and hinges
+2026-10-25T17:40:27-04:00 — https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge
+
+As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it's the best score the site has given to a foldable yet. The internal screen's matte nano-texture cover doesn't just make it more readable in bright sunlight; it also helps mask the crease by scattering reflections. When looking at the display under a microscope, iFixit also found oval-shaped subpixels arranged at various angles, which the site believes are design … Read the full story at The Verge. ]]>
+
+### Scott Walker’s The Drift will get under your skin
+2026-10-25T17:08:09-04:00 — https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review
+
+In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like "The Monster Mash" and John Carpenter's "Halloween Theme." Then there is the genuinely terrifying: Throbbing Gristle , The Body , or Scott Walker's The Drift . This 2006 album from the singer-songwriter is truly upsetting. On it, Walker explores death, disease, and tragedy. But not just from some abstract perspective. There are visceral descriptions of the hanging of Benito Mussolini and his mistress Clara Petacci. He sings about 9/11, his stillborn twin brother, and the Srebrenica genocide. Lyrically, it's about as dark as an album … Read the full story at The Verge. ]]>
+
+### A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate
+2026-10-25T16:16:19-04:00 — https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen
+
+Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack and break the screen . Tellingly, the cracks all seem to happen in the same place. YouTuber CuriousHagi was able to reproduce the cracked screen during some durability testing of the iPhone Duo. Then he pulled it apart to try and find the culprit. What he found is that the Duo's hinge is quite complex, consisting of a gear-like central hinge and two different types of linking hinges. The piec … Read the full story at The Verge. ]]>
+
+### Zen Browser is the Arc replacement I was looking for
+2026-10-25T15:24:50-04:00 — https://www.theverge.com/tech/1018275/zen-browser-arc-replacement
+
+Launcher-like pinned tabs, pop-over glance view, and more make Zen my go to browser. | Image: Zen Browser I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design . Atlassian bought the company last year and shifted its focus to developing Dia , its even more AI-focused browser. And soon enough, Arc will officially be no more , leaving dedicated users in a lurch. But I abandoned Arc quite some time ago for the Zen Browser and haven't really missed it. If you're willing to deal with some minor inconveniences, I think you'll find Zen is the Arc replacement you're looking for. Zen unabashedly rips off all the best bits of Arc. Visually, they'r … Read the full story at The Verge. ]]>
 
 ### This Switch 2 sequel accessory was a few millimeters away from being good
 2026-10-25T13:00:00-04:00 — https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on
@@ -64,32 +64,17 @@ This is The Stepback , a weekly newsletter breaking down one essential story fro
 
 BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished and seamless. To counter that, Blue Planet III goes warts and all. Executive Producer Elizabeth White told The Guardian in the past, "the amount of plankton and things" floating in the water would have caused them to cut a shot. Or "we might have framed out a boat or a buoy or gone: 'Oh, actually … the water conditions are not really good enough … Read the full story at The Verge. ]]>
 
-### Pennsylvania will require labels on AI-generated ads
-2026-10-24T14:32:21-04:00 — https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act
-
-On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that "has been significantly modified or generated by artificial intelligence" to include a label in the same format as the ad itself. That applies to TV commercials from multi-billion-dollar companies , as well as restaurants' ugly, crowded flyers about their wing specials. Pennsylvania is one of the first states to require disclosures on AI content. And it requires those labels regardless of where an ad … Read the full story at The Verge. ]]>
-
-### Fielded is obsessed with scammers and unhinged Japanese cyberpunk
-2026-10-24T11:00:00-04:00 — https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview
-
-Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&B. But from moment one, her take on the genre was restless, relentlessly playing with what R&B even means. Her first album, Ninety-Thirty-Thirty , includes songs heavily indebted to '80s synth-pop and features multiple saxophone solos. Boy Angel is a quirky electronic exploration with huge saw-wave synths, jittery percussion, and sky-high vocal stacks. While 2020's Demisexual Lovelace … Read the full story at The Verge. ]]>
-
-### LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday
-2026-10-24T11:00:00-04:00 — https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale
-
-LG’s C6 OLED TV is on sale in multiple sizes starting at $999.99 ($300 off). | Image: LG Black Friday is still over a month away, but if you re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale , letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-inch C6 for an all-time low of $999.99 ($400 off) , with Amazon and Best Buy matching said price. Other sizes are also discounted, including the 65-inch model, which is on sale for $1,399.99 ($300 off) from Amazon , Best Buy , and LG . If you purchase direct, you’ll also get a free Xbox Wireless Controller and a complimentary wall mount. LG C6 OLED TV Where to Buy: $1399.99 $999.99 at Amazon (55-inch) $1699.99 $1399.99 at Amazon (65-inch) $2499.99 $1999.99 at Amazon (77-inch) LG’s C6 OLED TV offers a few small but welcome upgrades over last year’s C5, including a faster Alpha 11 AI Gen3 processor designed to improve picture and sound quality, along with a brighter display. It also boasts a higher refresh rate of up to 165Hz for smoother gaming, up from 144Hz, while retaining four HDMI 2.1 ports and support for AMD FreeSync Premium and Nvidia G-Sync, the latter of which helps reduce unwanted screen tearing while gaming. Unsurprisingly, the C6 delivers the hallmarks of OLED technology, including inky blacks, vibrant color, and impressive contrast. Support for Dolby Vision and Dolby Atmos, meanwhile, he
-
-### What to expect from Apple’s ‘Pro and tell’ event
-2026-10-24T10:15:00-04:00 — https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro
-
-It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its " Pro and tell " event is scheduled for October 28th at 1PM ET in Los Angeles. While obviously nothing is confirmed yet, it sure seems like we're finally going to get that long-rumored touchscreen MacBook Pro. Beyond that? There could be an OLED update for the iPad Mini, plus M6 updates across other devices, following the M6 debut with the Mac Mini in August. A touchscreen MacBook Pro A MacBook Pro with an OLED t … Read the full story at The Verge. ]]>
-
-### I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop
-2026-10-24T10:00:00-04:00 — https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis
-
-The Lenovo Yoga 9n is a pricey workstation laptop, but being a 2-in-1 also makes it fun. | Photo: Antonio G. Di Benedetto / The Verge It looks like the long-rumored touchscreen MacBook might actually get announced next week , and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RTX Spark is an Arm-based processor with a beefy integrated GPU and lots of unified memory. And the Yoga is the most fun RTX Spark laptop so far because it's a 16-inch 2-in-1 convertible with a stylus . Its Nvidia-powered compatriots also have touchscreens, like most Windows laptops, but they're conventional clamshell designs. The Lenovo Yoga d … Read the full story at The Verge. ]]>
-
 ## Tom's Hardware
+
+### Reddit’s r/opensource bans AI-made and AI-focused projects, also bans non-English speakers
+Mon, 26 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers
+
+Reddit communities are increasingly tightening their rules around artificial intelligence, with some restricting AI-generated submissions and others limiting discussions about the technology. The latest crackdown comes from Reddit’s r/opensource community , whose moderators announced sweeping restrictions on October 24, banning projects built with AI, projects that use AI, and software intended for AI. The announcement has sparked backlash over its broad wording, with some developers saying AI-assisted coding does not automatically make a project low quality or any less open source. Notably, the new rules go beyond AI, with projects promoted in r/opensource now required to have been actively maintained for at least a year, have multiple contributors, maintain an existing community, and use an OSI-approved open-source license. Common student projects, such as note-taking apps and PDF viewers, are also excluded, while requests for maintainers or additional contributors are no longer permitted. The moderators also require Reddit accounts to be at least a year old and have a history of significant contributions. They warned that users who contact the moderators after attempting to post could face a permanent ban and a mute. The announcement takes a particularly hard line on AI-assisted development. “If it's obvious you're using AI in your project, we don't want it. Tokens are cheap, and we don't care how many you spent to make your amazing project,” the moderators wrote. The poli
+
+### Denmark’s bid to ditch Microsoft Office for open-source alternative Collabora collapses in under six months
+Mon, 26 Oct 2026 09:30:00 +0000 — https://www.tomshardware.com/software/microsoft-office/denmarks-bid-to-ditch-microsoft-office-for-open-source-alternative-collabora-collapses-in-under-six-months-employees-cite-issues-with-style-formatting-and-tracking-changes
+
+Denmark’s Ministry of Digitization, which has since been merged with other ministries and is now called the Ministry for Research, Education, and Digitization, has reportedly ended its experiment to replace Microsoft Office with an open-source alternative. According to Danish publication Computerworld [machine translated], the pilot project was launched in 2025 and involved 38 employees, all of whom would start using the British open-source Collabora office suite instead of Word, PowerPoint, and Excel. The experiment was initiated by the then Digitization Minister Caroline Stage, who wanted to reduce the country’s dependence on American technology. Denmark isn’t alone in moving away from U.S. software, with France and the Netherlands both taking steps to replace Microsoft Windows. However, it seemed that the experiment fizzled out less than six months after it started. It had reportedly ended by the time the Danish government called for an early election in February 2026, with some employees complaining about issues with style, paragraph formatting, blank pages, and challenges with tracking changes. But even though it’s been months since the experiment reportedly ended, Prof. Mikkel Flyberbom of the Copenhagen Business School complains that the project hasn’t been properly evaluated. “It’s a good idea to test alternatives in a pilot project,” the professor said in an email. “However, I wish that the ministry would take the opportunity to learn from the pilot project and share
 
 ### Big Tech is cashing in on AI while the rest of corporate America sees no financial returns
 Sun, 25 Oct 2026 15:25:40 +0000 — https://www.tomshardware.com/tech-industry/artificial-intelligence/big-tech-is-cashing-in-on-ai-while-the-rest-of-corporate-america-sees-no-financial-returns-report-outlines-how-rising-token-costs-threaten-to-squeeze-corporate-profit-margins
@@ -141,17 +126,22 @@ Sun, 25 Oct 2026 11:00:00 +0000 — https://www.tomshardware.com/pc-components/c
 
 AMD Director of Client Product Management Travis Kirsch sat down with a Japanese publication to share the backstory of the AMD Ryzen 7 5800X3D and its relaunch this year. Kirsch told MyNavi Tech+ [machine translated] that AMD CEO Lisa Su was one of the proponents of bringing back the groundbreaking X3D processor that first debuted in April 2022. Go deeper with TH Premium: CPU (Image credit: Tom's Hardware) Intel VP Robert Hallock sets Nova Lake expectations, teases return to Raptor Lake for DDR4 platforms CPU scaling with DLSS Intel's one-two punch plan in desktop CPUs is taking shape Benchmarking AMD's BC-250, offering Steam Machine-like performance at half the price AMD splits Zen 7 into three EPYC families for 2028 and starts selling server CPUs by the agent While some may think this was a simple relaunch of a four-year-old processor, the company had to do extensive re-engineering and update its manufacturing process with TSMC just to bring it back. The decision to relaunch it was well-timed, too. While the world is suffering from extremely high DDR5 memory prices when it finally arrived in the middle of 2026 , Kirsch said that “this was planned before changes in the memory market occurred, not as a countermeasure to DDR5 shortages,” and that it was “the final gift to local users who have used our AM4 for nearly a decade, offering systems that use DDR4 the last change to upgrade their PCs.” Beyond the Ryzen 7 5800X3D, the Japanese publication also touched on AMD’s value of
 
-### Nvidia eyes converting old nuclear plants into massive AI data centers
-Sun, 25 Oct 2026 10:30:00 +0000 — https://www.tomshardware.com/tech-industry/data-centers/nvidia-eyes-converting-old-nuclear-plants-into-massive-ai-data-centers-reusing-shut-down-german-energy-sites-could-reduce-the-cost-and-timeline-of-building-from-scratch
-
-Nvidia is collaborating with German energy firm PreussenElektra GmbH (PEL) to explore converting old nuclear power plants into AI data centers. In an official announcement on October 21st, the U.S. chipmaker and the German firm entered a preliminary partnership to assess whether the latter's decommissioned nuclear power plant sites in Germany can be converted into high-performance AI data centers. The plan does not involve using nuclear power to power any future data centers. Instead, the project is focused on leveraging the existing power, water, and other infrastructure already present at the sites. Go deeper with TH Premium: AI shortages (Image credit: Nvidia) AI data centers are swallowing the world's memory and storage supply Demand for data center CPUs has surged, and AI agents are responsible Chip scarcity assaults auto industry amid the worsening Nexperia and DRAM crisis The custom AI ASIC state of play “Our former power plant sites have valuable industrial infrastructure and offer opportunities for new, future-oriented uses. Together with NVIDIA, we intend to conduct a sound assessment of whether and how these conditions can be leveraged for AI factories. In doing so, we are combining the responsible reuse of our sites with new economic opportunities for the regions,” says Guido Knott, Chairman of PEL’s Management Board. The open-ended exploration will assess existing energy grid links, available land, and industrial infrastructure at the former nuclear sites to see 
-
-### Cybersecurity bounty hunter says Samsung TVs use AI to record audio and screenshots for ads
-Sun, 25 Oct 2026 10:00:00 +0000 — https://www.tomshardware.com/tech-industry/cyber-security/hacker-finds-own-samsung-tv-collecting-scary-amounts-of-user-information-and-gets-banned-by-openai-for-cyber-abuse-tv-runs-an-ai-model-that-collects-audio-screenshots-and-plenty-of-other-user-data-for-ad-targeting
-
-Reverse engineer and cybersecurity bounty hunter log4j recently found they were getting “weirdly targeted ads” on their Samsung TV and discovered privacy breaches. As they live-tweeted their discoveries, they found increasingly concerning code in the Tizen operating system, including detailed user telemetry from packet logging, audio categorization, screenshots, cross-device identification for ad tracking, and more, all designed to extract as much user information as possible to improve targeted ads. log4j posted on X that they were concerned with how specific the ads on their 2025 Samsung TV were. They decided to reverse-engineer the Tizen OS on their TV to see what it was doing—they “discovered PRIVACY HORROR,” log4j states, marking the start of subsequent posts sharing more concerning findings. i own a relatively new (2025) samsung tv.i kept getting weirdly targeted ads.i tried reversing the firmware but it was aes encrypted and no keys unless tear it apart and do uart/jtag magic.zero days it is. root shell on new samsung TVs!discovered PRIVACY HORROR. write up? https://t.co/EsxxCy1b6a October 21, 2026 The tester theorizes that Samsung TVs are so sluggish because they do a lot of post-processing of user data, including audio, screenshots, and AID (a cross-device tracking ID for ads), plus computer vision processing and models running on the TV. The hacker even found a region-specific convolutional neural network (an AI) that tracks user behavior, citing examples like what 
-
 ## Phoronix
+
+### Moxnox: NT-Like, POSIX-Compatible Hobby OS Running Atop Btrfs
+Mon, 26 Oct 2026 06:04:34 -0400 — https://www.phoronix.com/news/Moxnox-OS
+
+Open-source developer Mark Harmstone who is known for his work on developing a Btrfs file-system driver for Windows has spent the past few years working on a new hobby operating system. Moxnox is an HT-like, POSIX-compatible operating system...
+
+### EXT4 Lands Optional Buffered IOmap For Significant Performance Win With Large Writes
+Mon, 26 Oct 2026 05:53:55 -0400 — https://www.phoronix.com/news/Linux-7.4-EXT4
+
+The EXT4 file-system changes were merged Sunday night for the ongoing Linux 7.4 merge window. The headline feature of EXT4 in this new kernel version is opt-in support for buffered IOmap usage that can lead to "significant" performance improvements for large writes...
+
+### Redox OS Landed Nice Performance Improvements In September
+Sun, 25 Oct 2026 20:24:45 -0400 — https://www.phoronix.com/news/Redox-OS-September-2026
+
+The Rust-based open-source operating system Redox OS had a very eventful September as they outlined in a status update published this weekend...
 
 ### New Wayland Protocol Proposed For VNC/Remote Software
 Sun, 25 Oct 2026 11:05:18 -0400 — https://www.phoronix.com/news/Wayland-ext-transient-output
@@ -198,22 +188,37 @@ Sat, 24 Oct 2026 14:54:10 -0400 — https://www.phoronix.com/news/SteamOS-3.9.5
 
 On Friday Valve released SteamOS 3.9.5 as their first stable release in the SteamOS 3.9 series. This brings all the great improvements previously available in preview form with many package updates and other enhancements...
 
-### Linux s Early Boot-Time Physical Memory Allocator Sees Big Speed-Up: ~268s To ~50ms
-Sat, 24 Oct 2026 09:00:00 -0400 — https://www.phoronix.com/news/Linux-7.4-memblock
-
-Sent out today for the Linux 7.4 kernel were a set of memblock improvements. Most notable is a performance optimization within mm/memblock.c that implements the kernel's early boot-time physical memory allocator that is used prior to the bring-up of the full page allocator...
-
-### systemd Merges Support For Rust Programs
-Sat, 24 Oct 2026 07:11:00 -0400 — https://www.phoronix.com/news/systemd-Merges-Rust-Programs
-
-As of today in systemd Git it's now possible for the systemd programs to be written in the Rust programming language as an alternative to C...
-
-### 539 MM Patches Merged For Linux 7.4 From Optimizations To More DAMON
-Sat, 24 Oct 2026 07:05:56 -0400 — https://www.phoronix.com/news/Linux-7.4-MM
-
-Andrew Morton sent out the big set of memory management "MM" related patches for the Linux 7.4 merge window. This cycle it topped out at 539 total patches and a reviewed rate of 76%...
-
 ## The Register
+
+### Euro open source specialist proposes LLM gateway to ease token bills
+Mon, 26 Oct 2026 10:15:00 +0000 — https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170
+
+European open source database service provider Aiven says it has saved 80 percent of its AI token costs internally by moving to open-weight models and is building a gateway to help devs swap models in and out as required. The Finland-based company built its business on hosting and providing open-source databases as a service, and in the last couple of years has moved into machine learning. Speaking to The Register , Ville Lehto, Aiven’s VP of strategy, said that when dealing with open source AI infrastructure, it's not trivial to make something that can run across the different clouds. However, in giving its developers access to LLMs, the company wanted to manage its own token costs and control its "own destiny when it comes to AI usage." After a wave of debate around so-called token-maxxing, developers have generally become more interested in reducing their costs by using a mix of models, including cheaper Chinese alternatives to the Western frontier models, and open-weight models which come at a lower cost. Open-weight models have publicly released learned parameters, principally their weights and biases, and can be run locally or hosted at lower cost than the frontier models from OpenAI and Anthropic. Examples include the Llama Family from Meta, Qwen Family from Alibaba Cloud, China’s DeepSeek, Mistral AI’s Medium 3.5 and Devstral and, Google's Gemma. "When it comes to this token use, as we witnessed early on this year, there are a fraction of users that are absolutely hea
+
+### PHP2Shell is a warning shot for vulnerability disclosure
+Mon, 26 Oct 2026 09:38:00 +0000 — https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918
+
+The technical details of web server stacks are worth learning about. Preferably not from the TV news. Last week, knowing about PHP was a niche professional interest. This week, cab drivers have opinions. PHP is not the story; it's the illustration. There are good reasons that it has this most unfortunate of spotlights . It's very old, and it shows. Growing from roots in the mid-1990s, it has never suffered from the straitjacket of a specification, and while it has seen a lot of refactoring and modernization, it retains design elements from more than 20 years ago. PHP is emphatically not the only project where urgent demands for better performance, reliability, and features consume the resources needed to tidy up ugly internals that appear to work just fine. Until, one day, that technical debt falls due. There will be many more days like this. PHP's significance is that it isn't unique. The details don't matter that much, although this annotated comic book version is both fun and granular if you want to learn about it. Now the dynamics of AI-assisted cybersecurity are becoming clearer, defenders can use the tools to uncover dangerous flaws, but motivated and inventive attackers can use them too. Neither side has a monopoly on resources or ingenuity. The pace and scale of the conflict are growing so quickly that we have to look at how actual global warfare works to reconfigure. The most pertinent aspect of PHP2Shell is the people, not the machines. We know how the LLMs identifi
+
+### 'Let's just shove a bigger fan in there and see what happens'
+Mon, 26 Oct 2026 06:30:00 +0000 — https://www.theregister.com/systems/2026/10/26/lets-just-shove-a-bigger-fan-in-there-and-see-what-happens/5304654
+
+IT people are asked to cram a lot into a working week, which is why The Register tries to ease readers into Monday with a new instalment of “Who, Me?” – our reader-contributed column that shares your stories of office mistakes and escapes. This week, meet a reader we’ll Regomize as "Robert," who told us he worked for an outfit that scours newspapers and websites to find stories mentioning their clients. "We found key words in articles that customers were paying us to monitor for. We would then cut out the articles and send them to the customer," Robert explained. Sadly, business wasn't great. By the time Robert left it was almost bankrupt, and he gathers a fire sale ensued. That strained financial situation meant the company was very keen on keeping legacy hardware alive. "We had this one 2U pizza box server, and one of the three internal fans wore out," Robert explained. The server was so old no replacement was available. "So, we took the lid off and put a bigger fan on top of the component that needed the airflow," Robert confessed. The server couldn't tell the difference and kept working. Six months later, another internal fan broke. "The logical thing to do was to put another ill-fitted fan in/on the server to ensure that the airflow was good," Robert said. Again, the server didn’t have a problem with that. The server, which was an integral part of the company’s daily operations, was now operating with one original fan, no lid, and two non-standard fans precariously balan
+
+### Tesco replacing VMware with Proxmox in its stores and on the edge
+Mon, 26 Oct 2026 05:24:02 +0000 — https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281
+
+UK retail giant Tesco appears to have decided to replace VMware with Proxmox in its stores. A job ad for a new Head of Software Engineering: Edge Platform role says the gig involves leading “two major, interconnected engineering priorities: modernising Tesco’s edge virtualisation estate through the migration from VMware to Proxmox, and building a robust, scalable software-driven Edge Management Platform to provision, manage, monitor and maintain the retail edge estate throughout its lifecycle.” The stakes are high because the job ad says Tesco’s Edge Platform “provides the underlying computing environment and software capabilities that enable applications to run across our stores.” “Store technology must remain dependable despite connectivity disruptions, constrained local resources and the complexity of managing software and infrastructure changes across thousands of locations. Failures or poorly executed changes can directly affect store operations, colleague productivity and customer experience.” Whoever scores the job will “own the engineering strategy and execution of Tesco’s migration from VMware to Proxmox across the edge estate, delivering a secure, reliable and cost-effective alternative virtualisation platform” - and do it from Bengaluru, India. One KPI is “Safe and predictable migration from VMware to Proxmox, successful validation of required store configurations, reduced legacy dependencies and effective operational handover.” In case you came in late, Proxmox is
+
+### Work to protect DNS from quantum decryption attacks is speeding up
+Mon, 26 Oct 2026 04:08:23 +0000 — https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274
+
+Internet governance bodies are likely to accelerate work to prepare the domain name system (DNS) so it can remain secure once quantum computers can challenge conventional encryption. John Crain, ICANN’s chief technology officer, last week told The Register that he is aware of efforts within the organization, and at other internet governance bodies, to consider what happens once commercially available quantum computers become capable of easily deciphering encrypted information. Those machines theoretically pose a risk to DNSSEC, the Domain Name System Security Extensions that adapt PKI to the job of verifying the veracity of DNS records. The CTO said he’s aware of predictions that such computers could come online “at the turn of the decade” and that he has therefore changed his view of when the DNS needs to be made quantum safe. “If you asked me years ago, I would have said we probably need to be ready in ten years,” Crain said. “Now, maybe it's less than that. I don't know if it's three years or five, but it's probably not ten”. One way to quantum-proof DNSSEC is to use larger keys that even a quantum computer will struggle to crack. Doing so, however, runs into message size limits in the DNS. “If we go for larger key sizes, that means larger zones, larger packets, larger responses,” Crain said. It can also mean traffic being carried by multiple TCP packets, instead of the single UDP messages DNS prefers. Crain said ICANN, the IETF, and other internet governance bodies are aw
+
+### After threatening AI export bans, China allows DeepSeek to keep selling
+Mon, 26 Oct 2026 00:39:57 +0000 — https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267
+
+China has proposed to restrict export of some AI technologies but quickly moved to allow some of its champion companies to continue shipping their wares abroad. Beijing’s Ministry of Commerce announced the restrictions in mid-October by revising its Catalogue of Technologies Prohibited and Restricted from Export in China. The restrictions mean that Chinese companies must apply for a license to export their tech. New entrants on the list included “23 technologies related to large-scale models, intelligent agents, computing clusters, and information processing.” Tech issued under open source licenses is exempt from the restrictions. Last Friday, Chinese state media reported that two companies – named elsewhere as DeepSeek and MiniMax – received authorization to continue exports. Both companies are credible challengers to American AI vendors, so letting them sell their wares abroad meets China’s goals of creating export industries and enhancing its tech sector. The expanded Catalogue also gives Beijing the ability to stop exports of any AI it feels represents important sovereign capacity, such as tools that are potent bug-finders or have military uses. China is not alone in restricting exports of AI technology: the USA has imposed on-again, off-again, bans on sales of advanced GPUs to China. AI datacenter bubble wobbles in Australia If the AI datacenter building bubble bursts, two recent Australian incidents may prove instructive. The first took place on October 9, when a compan
 
 ### Want to build a UK datacenter? Please hold while Whitehall transfers you
 Sun, 25 Oct 2026 10:39:00 +0000 — https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956
@@ -235,17 +240,52 @@ Sat, 24 Oct 2026 11:30:00 +0000 — https://www.theregister.com/os-platforms/202
 
 One of the most frequently asked questions of Linux folks is "what's the best lightweight distro for an old PC?" The Reg FOSS desk's current answer is Raspberry Pi Desktop. A couple of weeks ago, we covered the news of a Trixie update for the Raspberry Pi Desktop . Since then, we've been putting it through its paces on a couple of the oldest, slowest machines in the FOSS desk stables. It has performed splendidly. If you fancy dipping a tentative toe into Linux, but you only have a relatively old low-spec PC spare to try it on, this is ideal. This is a modern OS: it's a 2.6 GB download, and it uses about 8 GB of disk space when installed. It will be a bit too much for a 25-year-old PC that was intended for Windows XP, but if you have an old PC from the Windows Vista era to hand, that should do. The splash screen calls it "PiOS 6.3," just as on Arm-based Raspberry Pi hardware. Here, though, we're testing Raspberry Pi Desktop: the x86-64 PC edition of the Debian-based system, available at the bottom of the downloads page . Back in 2023, the PiOS got a new Debian 12-based version , which included a new Wayland-based desktop – although it still looked almost identical to the old environment, based on X11, Openbox, and LXDE. Sadly, the PC version didn't get upgraded. Two years later – so, almost exactly a year ago – we got a Debian 13-based PiOS 6 . The PC version still didn't get upgraded. Now the PC edition has finally caught up with Debian 13. It's very similar to September's Pi
 
-### OpenAI disables internet access during model training while Anthropic issues another mea culpa
-Fri, 23 Oct 2026 22:36:11 +0000 — https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238
-
-OpenAI says it will deny internet access to the frontier models it is training, a move that underscores the inadequacy of safety measures undertaken to date. "Based on the current state of alignment research, monitoring systems, and the security of internet infrastructure, we believe the responsible approach is to conduct frontier model training with no internet access," the company said in a blog post . "We've implemented this policy and will maintain it until advances in these safeguards justify broader internet access." The denial of network service follows a report from safety evaluation partners METR and Redwood Research that found OpenAI's security and monitoring measures over the summer to be porous and ineffective . OpenAI said it has since "substantially hardened the security of our research environments" and has implemented new controls covering its infrastructure with the help of its cloud service providers. And the company claims these measures recently helped contain a September 20 incident in which an internal research model exploited a DNS misconfiguration to gain access to the internet. "Although we contained the incident, it exposed weaknesses that required further work," the company said. "We paused training and evaluation of our most capable models and used that pause to further harden our infrastructure, strengthen our monitoring, and improve the systems that automatically stop runs when we detect activity that poses a serious risk." Meanwhile, over at Ant
-
-### There's a third PHP2Shell bug, but it won't get an emergency fix
-Fri, 23 Oct 2026 20:04:40 +0000 — https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208
-
-As the PHP2Shell chaos continues, researchers have found a third PHP vulnerability that could allow attackers to take over websites or remotely run malware on vulnerable systems. But this one won’t receive an emergency fix. The PHP Foundation on Friday told The Register that it has reserved a CVE identifier (CVE-2026-115560) for a third RCE flaw to go with the first two that comprise PHP2Shell, and it will release a full advisory and fixed software with the next regular PHP release. CVE-2026-115560 “requires a very unlikely combination of configuration and specific PHP application code, which we do not expect to occur in practical use of PHP,” Elizabeth Barron, executive director of the PHP Foundation, told The Register . “The issue can be mitigated with a configuration setting. So for the moment the PHP Security Team has only published an informational advisory on the PHP website, explaining exactly this situation.” The informational advisory, published on Friday, suggests that users “set session.upload_progress.enabled=0 until the next regular bugfix release, to fully protect from an unlikely RCE vector.” These unlikely RCE attacks require an application to set “ session.serialize_handler to php_binary or php_serialize in its configuration and then switch it to php at runtime with ini_set() before calling session_start() .” Additionally, the session upload progress feature must be enabled. This setup, according to the PHP Foundation, is unlikely in real-world applications, 
-
 ## Engadget
+
+### iFixit's teardown of the iPhone Duo shows potential causes for cracked screens
+Mon, 26 Oct 2026 09:31:44 +0000 — https://www.engadget.com/2296498/ifixit-teardown-of-iphone-duo-shows-potential-causes-for-cracked-screens/
+
+iFixit's teardown of the iPhone Duo has arrived and it's especially interesting because of the device's complex folding display.
+
+### Fitbit Air vs. Whoop: Which screenless fitness tracker is better for you?
+Mon, 26 Oct 2026 00:30:00 +0000 — https://www.engadget.com/2294284/fitbit-air-vs-whoop-which-better-fitness-tracking-wearable-screen-less/
+
+How locked in do you want to be?
+
+### Can you run regular Ethernet cables outside?
+Mon, 26 Oct 2026 00:00:00 +0000 — https://www.engadget.com/2294283/ethernet-cables-use-outside-explained/
+
+Just because you can do something doesn't mean you should.
+
+### Which Android phone is the closest equivalent to the iPhone Duo?
+Sun, 25 Oct 2026 23:45:00 +0000 — https://www.engadget.com/2294282/android-phone-closest-equivalent-to-iphone-duo/
+
+Can we find the iPhone Duo's perfect Android match?
+
+### Why Google chrome is always using so much RAM
+Sun, 25 Oct 2026 23:30:00 +0000 — https://www.engadget.com/2294261/why-google-chrome-using-so-much-ram/
+
+Chrome is known for being a memory hog, but it may be more urban myth than reality. Here's how Google Chrome manages RAM.
+
+### Most Windows users are seriously underusing this powerful desktop feature
+Sun, 25 Oct 2026 23:00:00 +0000 — https://www.engadget.com/2294241/why-should-use-multiple-desktop-windows/
+
+Windows has an option to give you more working desktop space, but you might have overlooked it.
+
+### Does TSA actually allow AirTags in your luggage? Here's what the rules say
+Sun, 25 Oct 2026 22:45:00 +0000 — https://www.engadget.com/2294102/does-tsa-allow-airtags-in-luggage-what-rules-say/
+
+Airlines don't want you to put batteries in your checked luggage, but how does this affect tiny batteries like those in AirTags?
+
+### Don't throw away your old, unsupported Nest gadgets — Do this instead
+Sun, 25 Oct 2026 22:30:00 +0000 — https://www.engadget.com/2294122/dont-throw-away-your-old-unsupported-nest-gadgets/
+
+If you have a first- or second-generation Nest Learning Thermostat, you may be wondering if it's still worth having.
+
+### Your devices could be on the wrong Wi-Fi band, and it's slowing them down
+Sun, 25 Oct 2026 22:00:00 +0000 — https://www.engadget.com/2294022/devices-could-be-wrong-wifi-band-slowing-them-down/
+
+Your router has two or perhaps three bands, and choosing the right one for each device is vital for performance.
 
 ### What does the bell icon mean on your CarPlay screen?
 Sun, 25 Oct 2026 18:45:00 +0000 — https://www.engadget.com/2293911/what-bell-icon-means-carplay-announce-notifications-feature/
@@ -262,52 +302,22 @@ Sun, 25 Oct 2026 18:00:00 +0000 — https://www.engadget.com/2293493/mesh-wifi-s
 
 Mesh systems generally provide better Wi-Fi coverage than standalone routers, but you can make the mesh signal even stronger.
 
-### What features do you lose if you use Apple AirPods with a Samsung Galaxy phone?
-Sun, 25 Oct 2026 16:45:00 +0000 — https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/
-
-AirPods work with any Bluetooth device, but they lose almost all of Apple's fancy features.
-
-### 8BitDo's latest button-only arcade controller is now up for pre-order
-Sun, 25 Oct 2026 16:42:46 +0000 — https://www.engadget.com/2296362/8bitdos-latest-button-only-arcade-controller-is-now-up-for-preorder/
-
-The Arcade Controller Pro starts at $119.99 and will start shipping in late November.
-
-### The internet needs IPv6 and so does your home network
-Sun, 25 Oct 2026 16:15:00 +0000 — https://www.engadget.com/2293285/internet-home-network-needs-ipv6/
-
-IPv6 has more available addresses than we could ever hope to use, but not all devices are taking advantage yet.
-
-### Here's how much PlayStation Plus cost in 2010 vs. 2026
-Sun, 25 Oct 2026 15:45:00 +0000 — https://www.engadget.com/2293248/how-much-playstation-plus-cost-2010-vs-2026/
-
-Sony's gaming service has changed a lot in recent years, and the price reflects that.
-
-### 4 Ray-Ban Meta privacy settings you should change before wearing them
-Sun, 25 Oct 2026 15:15:00 +0000 — https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/
-
-Ray-Ban Meta smart glasses have rightly been criticized for the many ways they can violate people's privacy.
-
-### Get the ultimate security for your MacBook by changing these privacy settings
-Sun, 25 Oct 2026 14:45:00 +0000 — https://www.engadget.com/2293095/macbook-privacy-settings-change-immediately/
-
-Your Mac comes with a fairly robust suite of built-in privacy tools.
-
-### Why are earbuds usually cheaper than headphones?
-Sun, 25 Oct 2026 14:15:00 +0000 — https://www.engadget.com/2293014/why-earbuds-cheaper-than-headphones/
-
-Earbuds tend to be smaller and less complex to build than headphones.
-
-### Samsung probably isn't rebranding One UI as Galaxy OS
-Sun, 25 Oct 2026 13:45:00 +0000 — https://www.engadget.com/2292973/samsung-probably-not-rebranding-one-ui-as-galaxy-os/
-
-A bunch of recent rumors have suggested Samsung has some changes in store for its smartphone interface.
-
-### Quantum computers can get colder than deep space — Here's how they stay running
-Sun, 25 Oct 2026 13:30:00 +0000 — https://www.engadget.com/2292950/how-quantum-computer-stays-running-extreme-cold/
-
-Heat disrupts the accuracy of a quantum computer, so the computer needs to be kept as cold as possible. Which is extremely cold, it turns out.
-
 ## TechCrunch
+
+### The best apps for tracking your reading and discovering new books
+Mon, 26 Oct 2026 01:10:00 +0000 — https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/
+
+There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.
+
+### Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+Sun, 25 Oct 2026 21:31:16 +0000 — https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/
+
+The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.
+
+### ‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead
+Sun, 25 Oct 2026 20:20:08 +0000 — https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/
+
+"That's a 12-year-old view of the world."
 
 ### AI delivers ‘zero financial payoff’ to most companies, Apollo economist says
 Sun, 25 Oct 2026 16:57:32 +0000 — https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/
@@ -353,19 +363,4 @@ Block said that the voice model can run locally on a MacBook M4 Max
 Sat, 24 Oct 2026 15:30:00 +0000 — https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/
 
 Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.
-
-### These clever apps show off the iPhone Duo s potential
-Sat, 24 Oct 2026 15:00:00 +0000 — https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/
-
-From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.
-
-### Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
-Sat, 24 Oct 2026 15:00:00 +0000 — https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/
-
-A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.
-
-### The Boox Palma 2 Pro finally got me to stop reading on my phone
-Sat, 24 Oct 2026 14:15:00 +0000 — https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/
-
-The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.
 
