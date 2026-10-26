@@ -5,7 +5,6 @@ category: Editorial
 column: Architectures of the Void — the Monday editorial
 cover: /img/blog/editorial/cover.jpg
 excerpt: EA borrowed twenty billion dollars to buy itself and then went looking for seven hundred million a year in people. A Stockholm trustee is taking bids on a city nobody will finish. Every balance sheet this week kept the file and dispersed the hands.
-draft: true
 sources:
   - outlet: PC Gamer
     url: https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/
