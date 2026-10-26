@@ -62,6 +62,11 @@ clock has not ticked over yet.
 
 ## What nobody argues about
 
+<figure>
+  <img src="/img/blog/phantom-blade-zero-review/shot-02.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>S-GAME, via the official Phantom Blade Zero Steam page</figcaption>
+</figure>
+
 The combat. Across every verdict I read, the deflect-and-parry chain is the
 reason for the score, and GameSpot put the split in its own headline: the
 combat is so good you stop caring that the story makes no sense.
