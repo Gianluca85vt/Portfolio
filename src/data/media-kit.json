@@ -1,75 +1,75 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-26",
   "search": {
-    "from": "2026-09-19",
-    "to": "2026-10-16",
-    "impressions": 4462,
-    "clicks": 59,
-    "position": 9.3,
+    "from": "2026-09-26",
+    "to": "2026-10-23",
+    "impressions": 5402,
+    "clicks": 64,
+    "position": 8.9,
     "queries": [
       "paintbridge krita",
       "duke nukem 3d dlss 5",
       "immersion blender for photographers",
-      "painterly shadows blender",
+      "blender 5.3 dispersion",
+      "blender painterly shadows",
       "hellraiser revival ray tracing",
       "silent hill townfall frame generation",
-      "downtown generator blender",
       "gears of war e day megalights",
       "unreal engine 6",
+      "blender for photographers 2024",
       "blender krita bridge",
-      "goldeneye decomp",
-      "blender 5.3 dispersion",
+      "dlss 5 pass count",
       "blender geometry nodes feathers",
-      "blender krita texture paint",
       "cinema 4d 2026.4",
+      "downtown generator blender",
       "krita blender plugin",
       "quadify blender",
+      "wildwood frames per second",
       "fire emblem fortune's weave review",
       "is it the end of the game after coronation? dawnwalker",
-      "valheim review",
-      "transport fever 3 mods",
       "ace combat 8 900 meaning",
+      "how long is wildwood movie",
+      "wildwood production time",
       "end of abyss opencritic",
-      "framework laptop 16 rtx 5070 module price images release date",
+      "transport fever 3 mods",
+      "hypernova 60b",
+      "mobygames credits",
       "silent hill townfall stuttering",
-      "well dweller review",
-      "orbitals frame rate",
-      "the blood of dawnwalker 30 day timer",
-      "wardogs size",
-      "zerply closing"
+      "end of abyss metacritic",
+      "framework laptop 16 rtx 5070 module price images release date"
     ],
     "countries": [
       {
         "name": "United States",
-        "share": 16
+        "share": 20
       },
       {
-        "name": "Japan",
-        "share": 6
+        "name": "United Kingdom",
+        "share": 7
       },
       {
         "name": "Sweden",
-        "share": 5
+        "share": 4
       },
       {
         "name": "Italy",
-        "share": 5
+        "share": 4
       },
       {
         "name": "Russia",
         "share": 4
       },
       {
-        "name": "Germany",
+        "name": "Japan",
         "share": 4
       }
     ]
   },
   "archive": {
-    "articles": 245,
-    "craft": 98,
-    "reviews": 36
+    "articles": 260,
+    "craft": 102,
+    "reviews": 40
   },
   "newsletter": null,
-  "bluesky": 31
+  "bluesky": 41
 }
