@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Scheduling: a delay announced four weeks out, as the second change to one cour, says the buffer was gone well before anyone admitted it."
     - "Disclosure: 'quality improvements' names no department and no problem, so the people who absorbed the overtime stay invisible."
-draft: true
 ---
 
 On 12 September the production committee for *Bleach: Thousand-Year Blood War –
