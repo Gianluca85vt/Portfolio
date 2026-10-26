@@ -1,0 +1,45 @@
+[
+  { "id": "who-i-am", "kind": "lower",
+    "name": "Gianluca Scattarella",
+    "role": "3D Environment & Technical Artist",
+    "handle": "gianlucascattarella.it — Backdrop, every Monday" },
+
+  { "id": "three-inventories", "kind": "beats", "title": "Eleven days",
+    "items": ["BioWare closed", "Samson for sale", "Getty Ch. 11", "No team on any"],
+    "note": "EA closed BioWare 21 October. Liquid Swords declared bankrupt in Stockholm 12 October, bids on Samson open until month's end. Getty filed Chapter 11 in Delaware 21 October." },
+
+  { "id": "the-cut", "kind": "bars", "title": "What closing BioWare cost",
+    "rows": [
+      { "label": "Jobs cut across EA, 21 October", "value": 400, "display": "400" },
+      { "label": "Of those, at BioWare", "value": 50, "display": "~50" }
+    ],
+    "note": "EA was taken private for $55bn in August, around $20bn of it reported as borrowed, and has told investors it will find $700m a year in costs. The $20bn and $700m figures are reported, not confirmed by EA." },
+
+  { "id": "what-leaves", "kind": "compare", "title": "Bids close Saturday",
+    "left": "What the inventory lists",
+    "right": "What left with the people",
+    "rows": [
+      ["A city, set-dressed and lit", "Why the street bends there"],
+      ["Tuned vehicle handling", "The kerb raised 6cm to stop scraping"],
+      ["Mission scripts, unfinished", "Which triggers were never wired"]
+    ],
+    "note": "Samson shipped in April to 28 reviews, mostly negative, with the praise landing almost entirely on the environment art and the driving." },
+
+  { "id": "where-it-lives", "kind": "timeline", "title": "A city, end to end",
+    "stages": ["Brief", "Blockout", "Set dress", "Light", "Ship", "Liquidate", "Auction"],
+    "markAt": 6,
+    "markLabel": "The folder, on its own",
+    "note": "Every stage before the last happened inside about thirty people. Only the last one has a legal form." },
+
+  { "id": "the-frames", "kind": "bars", "title": "What cannot be auctioned",
+    "rows": [
+      { "label": "Wildwood at Laika's 4.3s/week target", "value": 1830, "display": "~1,830 wks" },
+      { "label": "Wildwood at Kubo's real 3s/week", "value": 2620, "display": "~2,620 wks" },
+      { "label": "Kubo, same arithmetic", "value": 1700, "display": "1,400-2,000" }
+    ],
+    "note": "My arithmetic, not Laika's: 131 minutes is about 188,000 exposures at 24fps, divided by Laika's stated throughput. Animator-weeks of shooting, not total production." },
+
+  { "id": "the-line", "kind": "statement",
+    "text": "The file is a photograph of a decision. It does not get you the next one.",
+    "attribution": "Architectures of the Void — the Monday editorial" }
+]

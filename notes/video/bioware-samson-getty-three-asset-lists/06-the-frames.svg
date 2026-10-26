@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHAT CANNOT BE AUCTIONED</text>
+  <text x="120" y="286" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Wildwood at Laika's 4.3s/week target</text>
+  <rect x="120" y="300" width="921.9847328244275" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1067.9847328244275" y="336" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">~1,830 wks</text>
+  <text x="120" y="436" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Wildwood at Kubo's real 3s/week</text>
+  <rect x="120" y="450" width="1320" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1466" y="486" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">~2,620 wks</text>
+  <text x="120" y="586" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Kubo, same arithmetic</text>
+  <rect x="120" y="600" width="856.4885496183206" height="46" rx="4" fill="url(#accent)"/>
+  <text x="1002.4885496183206" y="636" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="#F4F1F6">1,400-2,000</text>
+  <text x="120" y="790" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" fill="rgba(244,241,246,0.45)">My arithmetic, not Laika's: 131 minutes is about 188,000 exposures at 24fps, divided by Laika's stated throughput. Animator-weeks of shooting, not total production.</text>
+</svg>

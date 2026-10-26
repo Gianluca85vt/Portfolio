@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">BIDS CLOSE SATURDAY</text>
+  <text x="120" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#F4F1F6">WHAT THE INVENTORY LISTS</text>
+  <text x="1040" y="228" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="800" letter-spacing="6" fill="#BE4C00">WHAT LEFT WITH THE PEOPLE</text>
+  <line x1="980" y1="184" x2="980" y2="604" stroke="rgba(244,241,246,0.2)" stroke-width="2"/>
+  <text x="120" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">A city, set-dressed and lit</text>
+  <text x="1040" y="320" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Why the street bends there</text>
+  <text x="120" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Tuned vehicle handling</text>
+  <text x="1040" y="428" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">The kerb raised 6cm to stop scraping</text>
+  <text x="120" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="#F4F1F6">Mission scripts, unfinished</text>
+  <text x="1040" y="536" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" fill="rgba(244,241,246,0.55)">Which triggers were never wired</text>
+  <text x="120" y="694" font-family="Kanit, 'Arial Black', sans-serif" font-size="32" font-weight="600" fill="#B600A8">Samson shipped in April to 28 reviews, mostly negative, with the praise landing almost entirely on the environment art and the driving.</text>
+</svg>

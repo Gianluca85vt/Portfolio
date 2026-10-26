@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#B600A8"/><stop offset="100%" stop-color="#BE4C00"/>
+    </linearGradient>
+  </defs>
+  <text x="120" y="150" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" font-weight="600" letter-spacing="10" fill="#B600A8">WHAT CLOSING BIOWARE COST</text>
+  <text x="120" y="286" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Jobs cut across EA, 21 October</text>
+  <rect x="120" y="300" width="1320" height="46" rx="4" fill="rgba(244,241,246,0.22)"/>
+  <text x="1466" y="336" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="rgba(244,241,246,0.45)">400</text>
+  <text x="120" y="436" font-family="Kanit, 'Arial Black', sans-serif" font-size="34" font-weight="600" fill="#F4F1F6">Of those, at BioWare</text>
+  <rect x="120" y="450" width="165" height="46" rx="4" fill="url(#accent)"/>
+  <text x="311" y="486" font-family="Kanit, 'Arial Black', sans-serif" font-size="44" font-weight="800" fill="#F4F1F6">~50</text>
+  <text x="120" y="640" font-family="Kanit, 'Arial Black', sans-serif" font-size="30" fill="rgba(244,241,246,0.45)">EA was taken private for $55bn in August, around $20bn of it reported as borrowed, and has told investors it will find $700m a year in costs. The $20bn and $700m figures are reported, not confirmed by EA.</text>
+</svg>
