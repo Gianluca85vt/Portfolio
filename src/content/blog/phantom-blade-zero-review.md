@@ -41,7 +41,6 @@ artistView:
   misses:
     - "Performance: reviewers describe camera stutter on a 5080 while the average frame rate sits at 60. For a parry game the input-to-display path is the mechanic, not a graphics option."
     - "Scalability: the pre-release promise about weak hardware did not survive a Steam Deck, which usually means the scalability pass happened before the final content did."
-draft: true
 ---
 
 Nine scored verdicts, and the lowest sits four points below the highest. The
