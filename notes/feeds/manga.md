@@ -1,72 +1,92 @@
-# Manga — harvested 2026-10-26T10:30:52.700Z
+# Manga — harvested 2026-10-26T16:59:16.896Z
 
 ## Anime News Network
 
-### Goddess of Victory: Nikke Game Gets New Manga Adaptation
-Mon, 26 Oct 2026 00:03:40 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/goddess-of-victory-nikke-game-gets-new-manga-adaptation/.243164
+### Overgeared ‒ Episode 5
+Mon, 26 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/overgeared/episode-5/.243194
 
-New series focused on Goddess squad launches in winter
+<i>Satisfy</i> might not be a gatcha; that doesn't make Grid any more immune to the RNG of success rates.
 
-### Touhou Tabletop RPG Gensou Narratograph to Launch in English in 2027
-Sun, 25 Oct 2026 23:59:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-25/touhou-tabletop-rpg-gensou-narratograph-to-launch-in-english-in-2027/.243170
+### Heaven Official's Blessing Volumes 2-3 Manhua Review
+Mon, 26 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/heaven-official-blessing/volumes-2-3/.242864
 
-Play as one of 30 <i>Touhou Project</i> characters in “cozy slice-of-life bullet-hell” RPG
+The fact that this series has hardcover and paperback releases, a donghua adaptation, and a manhua should tell you something: a lot of people love this story.
 
-### New Live-Action Street Fighter Film Drops to #4 in the U.S.
-Sun, 25 Oct 2026 23:27:07 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/new-live-action-street-fighter-film-drops-to-no.4-in-the-u.s/.243195
+### Ranma ½ Season 3 ‒ Episode 4
+Mon, 26 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/ranma-season-3/episode-4/.243192
 
-Film earned estimated US$8.6 million in 2nd weekend, a 72.1% drop
+At least this version’s brisk pace adapts the entire tiresome thing into a single episode rather than stretching it out over more.
 
-### Patlabor EZY Anime Gets Novelization in 2027
-Sun, 25 Oct 2026 23:17:33 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/patlabor-ezy-anime-gets-novelization-in-2027/.243181
+### Yukari Kaneko's Hanarabeez Original Character Gets 3-Episode Short Anime
+Mon, 26 Oct 2026 11:20:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/yukari-kaneko-hanarabeez-original-character-gets-3-episode-short-anime/.243197
 
-<cite>Maburaho</cite>, <cite>Kämpfer</cite> novels author Toshihiko Tsukiji writes adaptation
+1st episode of short anime about teeth's daily life by animation studio DLE streamed on Monday
 
-### Rainy Day Serenade Manga Gets Spinoff Series in November
-Sun, 25 Oct 2026 22:25:05 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/rainy-day-serenade-manga-gets-spinoff-series-in-november/.243186
+### Be the Main Character of Your Own Story this Halloween with OOC: The Playable Anime
+Mon, 26 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/advertorial/2026-10-26/be-the-main-character-of-your-own-story-this-halloween-with-ooc-the-playable-anime/.243131
 
-<i>Namidaame to Serenade: Gaiden</i> launches on November 25
+Tired of reading stories with the same predictable outcomes? Do you get frustrated when characters never react how you might in a situation? OOC: The Playable Anime lets you take the story down any twists and turns you desire
 
-### Cherry and Virgin Anime Movie Review
-Sun, 25 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/cherry-and-virgin-anime-movie/.243089
+### Looney Tunes Voice Actor Eric Bauza Dies at 46
+Mon, 26 Oct 2026 10:46:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/looney-tunes-voice-actor-eric-bauza-dies-at-46/.243204
 
-This is the most honest depiction of otaku falling in love since Kio Shimoku’s <i>Genshiken</i>.”
+Bauza died due to hypertensive cardiovascular disease according to records
 
-### Yen Press Licenses Cross-Dressing Villainess Cecilia Sylvie: Extra Round!, 'And Thus, the Wizard Noi Garené Became a Bride 100 Years Later,' 8 More Titles
-Sun, 25 Oct 2026 08:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/yen-press-licenses-cross-dressing-villainess-cecilia-sylvie-extra-round-and-thus-the-wizard-noi-/.243162
+### Romelia War Chronicle ‒ Episode 4
+Mon, 26 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-4/.243188
 
-Also: <cite>Secret: Homicide Edition</cite>, <cite>About a Place in the Kinki Region</cite>, more
+Is Ray even truly cut out for the work of a mage, or does his (thankfully) metaphorical stat-sheet indicate that he's built for more defensive hacking and slashing?
 
-### BanG Dream! It's MyGo!!!!! // Ave Mujica Anime's 2nd Teaser Unveils January 8 Debut
-Sun, 25 Oct 2026 08:33:50 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/bang-dream-its-mygo-ave-mujica-anime-2nd-teaser-unveils-january-8-debut/.243183
+### The World's Strongest Witch Anime Casts Yukana, Azusa Tadokoro
+Mon, 26 Oct 2026 10:16:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/the-world-strongest-witch-anime-casts-yukana-azusa-tadokoro/.243196
 
-Sequel TV anime to air in NTV's "Friday Anime Night" block
+Both new cast members voice characters debuting on episode 4 on Wednesday
 
-### King's Proposal Anime Unveils 2027 Debut, Lead Cast, Teaser Visual
-Sun, 25 Oct 2026 07:45:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/king-proposal-anime-unveils-2027-debut-lead-cast-teaser-visual/.243165
+### Black Clover Season 2 ‒ Episode 174
+Mon, 26 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-174/.243176
 
-Rie Takahashi stars as Saika Kuozaki
+While I didn’t outright dislike this episode, I wish it packed a little more punch.
 
-### Our Last Crusade or the Rise of a New World Anime Gets 3rd Season, Reveals Returning Cast & Staff
-Sun, 25 Oct 2026 06:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/our-last-crusade-or-the-rise-of-a-new-world-anime-gets-3rd-season-reveals-returning-cast-and-staff/.243175
+### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3's 3rd Video Unveils New Arc, More Cast
+Mon, 26 Oct 2026 09:01:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-3rd-video-unveils-new-arc-more-cast/.243205
 
-2nd season director Yuki Inaba, character designer Kaori Yoshikawa return for new season
+"Fujimiya Family Arc" starts in episode 6 on November 1
 
-### Date A Live F Last Date Anime Reveals Film Format, March 26, 2027 Opening in Teaser Video
-Sun, 25 Oct 2026 06:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/date-a-live-f-last-date-anime-reveals-film-format-march-26-2027-opening-in-teaser-video/.243174
+### Fall 2026 Manga Guide
+Mon, 26 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/fall/manga/.240231
 
-2 returning staff members also announced
+It's the Fall 2026 Manga Guide! Come check out our reviewers' thoughts on the latest releases, including a stellar adaptation of Agatha Christie's <b>And Then There Were None</b>!
 
-### Akane-banashi Season 2 Anime Reveals More Cast, Teaser Trailer
-Sun, 25 Oct 2026 05:10:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-25/akane-banashi-season-2-anime-reveals-more-cast-teaser-trailer/.243178
+### The Eternal Fool's Words of Wisdom Anime Casts Minori Fujidera
+Mon, 26 Oct 2026 08:55:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/the-eternal-fool-words-of-wisdom-anime-casts-minori-fujidera/.243200
 
-Key visual also revealed ahead of new season's January 2027 debut
+Fujidera joins cast of January 2027 series as Rina
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### BLEACH Anime Ends 22-Year Run With Special Ending Movie After Thousand-Year Blood War Finale
+Mon, 26 Oct 2026 15:40:21 GMT — https://animecorner.me/bleach-anime-ends-22-year-run-with-special-ending-movie-after-thousand-year-blood-war-finale/
+
+BLEACH anime officially ended after a near 22-year run following the release of BLEACH: Thousand-Year Blood War - The Calamity Episode 50.
+
+### ONE OR EIGHT Brings the Energy to Manila with V8 Showcase 2026
+Mon, 26 Oct 2026 15:28:13 GMT — https://animecorner.me/one-or-eight-brings-the-energy-to-manila-with-v8-showcase-2026/
+
+On October 23, ONE OR EIGHT brought their high-energy music to Samsung Hall with&hellip;
+
+### The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure Anime Reveals Main Visual, Additional Cast
+Mon, 26 Oct 2026 12:15:42 GMT — https://animecorner.me/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure-anime-reveals-main-visual-additional-cast/
+
+The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure anime revealed a main&hellip;
+
+### Black Clover Season 2 Episode 5 Preview Teases Magna and Zora Action
+Mon, 26 Oct 2026 11:31:24 GMT — https://animecorner.me/black-clover-season-2-episode-5-preview-teases-magna-and-zora-action/
+
+Black Clover Season 2 has released preview images and synopsis for Episode 5 (Episode 175 overall) ahead of its October 31 premiere.
 
 ### Interview: Corey Wilder at Anime Central
 Mon, 26 Oct 2026 02:59:04 GMT — https://animecorner.me/interview-corey-wilder-at-anime-central/

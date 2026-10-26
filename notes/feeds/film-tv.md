@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-26T10:30:52.700Z
+# Film & TV — harvested 2026-10-26T16:59:16.896Z
 
 ## Variety
 
-### Trump Calls Bill Maher a Complete and Total Loser, Tells Him Don’t Call Anymore in Lengthy Truth Social Post
-Mon, 26 Oct 2026 10:25:36 +0000 — https://variety.com/2026/tv/news/trump-calls-bill-maher-complete-total-loser-truth-social-1236931052/
+### Instagram Is Testing Ability to Share Videos up to 90 Minutes Long and Launches on Apple TV — but Unlike YouTube, It s Still Not Going to Pay Creators
+Mon, 26 Oct 2026 16:57:28 +0000 — https://variety.com/2026/digital/news/instagram-videos-90-minutes-apple-tv-not-paying-creators-1236931293/
 
-President Donald Trump lashed out at Bill Maher in a 1,300-word Truth Social post on Sunday after tuning into Maher’s late-night show on HBO. “Let’s talk about this COMPLETE AND TOTAL LOSER, Bill Maher,” Trump wrote at the top of the post, a few days after the pair s second dinner together at the White House. [ ]
+Meta s Instagram is trying to make itself a place for longer-form entertainment content from digital creators, including testing out video lengths of up to 90 minutes and letting users watch Reels and more on Apple TV. The moves are meant to position Instagram as a bigger potential competitor to YouTube. But for now, Instagram is [ ]
 
-### VelociPastor 2 Leaves FilmQuest Audience Roaring, Celebrating Human-Made Films in an AI Era
-Mon, 26 Oct 2026 08:53:16 +0000 — https://variety.com/2026/film/festivals/velocipastor-2-filmquest-audience-laughter-1236930949/
+### Walter Koenig, Chekov on Original Star Trek, Dies at 90
+Mon, 26 Oct 2026 16:42:01 +0000 — https://variety.com/2026/film/news/walter-koenig-dead-chekov-star-trek-1236931312/
 
-Who knew that one of this year’s giddiest celebrations of filmmaking would be a movie where the stunt dummies are obvious, the dinosaur costumes are obviously homemade and you can literally see the strings on special effects shots? That s the joy of “VelociPastor 2,” the long-awaited sequel to 2017’s “The VelociPastor.” The first film was [ ]
+Walter Koenig, who memorably played Chekov in the original “Star Trek” series and seven “Star Trek” feature films, died Sunday in Los Angeles, Variety has confirmed. He was 90. His reps said in a statement, Today we mourn the passing of Walter Koenig, whose talent, warmth, and unforgettable performances left a lasting mark on generations [ ]
 
-### Animated Movie ‘Apple Cadabra – I Shrunk Myself’ Boarded by Epsilon Film (EXCLUSIVE)
-Mon, 26 Oct 2026 08:30:00 +0000 — https://variety.com/2026/film/global/apple-cadabra-i-shrunk-epsilon-film-1236931009/
+### Harry Styles Waltzes His Way Through Coming Up Roses Music Video
+Mon, 26 Oct 2026 16:25:52 +0000 — https://variety.com/2026/music/news/harry-styles-waltzes-coming-up-roses-music-video-1236931286/
 
-Epsilon Film has acquired worldwide rights to “Apple Cadabra – I Shrunk Myself,” an animated family adventure movie based on “Petronella Applesauce,” one of Germany’s most successful children’s book series. Epsilon Film will launch international sales on “Apple Cadabra – I Shrunk Myself” at the American Film Market, which runs Nov. 10-15 in Los Angeles, [ ]
+Harry Styles puts his waltzing skills to the test in the video for Coming Up Roses, the latest single to get the music video treatment from his fourth album Kiss All the Time. Disco, Occasionally. For the clip, Styles reunites with directing duo Bradley Pablo, who helmed the videos for Watermelon Sugar and Late [ ]
 
-### Tokyo Film Festival to Reassess Its Global Standing Ahead of 40th Edition, Says Director Hisamatsu Takeo
-Mon, 26 Oct 2026 07:28:12 +0000 — https://variety.com/2026/film/festivals/tokyo-film-festival-reassess-global-standing-40th-edition-1236930996/
+### Music Industry Moves: Mary J. Blige Sells Music Catalogs to Primary Wave; Stella Lefty Signs With Make Wake for Management; Boyz II Men Ink With Warner Records Nashville
+Mon, 26 Oct 2026 16:25:12 +0000 — https://variety.com/2026/music/news/mary-j-blige-sells-music-catalogs-primary-wave-1236931287/
 
-The Tokyo International Film Festival will review its 39th edition once it wraps and reassess where it stands on the international circuit before its 40th anniversary next year, festival director Hisamatsu Takeo says. “I believe the direction we establish through that process will also help define TIFF’s course for the next decade, leading up to [ ]
+Mary J. Blige has sold undisclosed shares of her publishing and recorded-music assets to Primary Wave Music, the company announced on Monday morning. Included in the deal are some of Blige’s greatest hits, including “Family Affair,’ “My Life,” “Mary Jane (All Night Long),” “You Bring Me Joy,” “Be Without You,” “I Can Love You,” and [ ]
 
-### Star Flops and Slowing Investment Help Explain China’s Thin Festival Presence, Says Tokyo Programming Director
-Mon, 26 Oct 2026 07:00:42 +0000 — https://variety.com/2026/film/festivals/star-flops-dent-china-festival-presence-tokyo-ichiyama-shozo-1236930989/
+### Amy Madigan Joins Cast of Paramount+ s Ascent With Viola Davis and Sam Heughan
+Mon, 26 Oct 2026 16:00:00 +0000 — https://variety.com/2026/tv/news/amy-madigan-cast-paramount-ascent-1236929987/
 
-Star-driven flops at the Chinese box office, slowing investment and a reportedly more complicated censorship process have a bearing on China’s low profile at international festivals this year, according to Ichiyama Shozo, programming director of the Tokyo International Film Festival. “In the past, casting a star in the leading role could guarantee a certain degree [ ]
+Oscar winner Amy Madigan (“Weapons”) has joined the cast of Paramount+ s upcoming drama thriller “Ascent.” She joins previously announced star/exec producer Viola Davis and star Sam Heughan. According to the streamer, Madigan will play “Rachel,” described as “a former executive at Ascent Ventures and Catriona’s (Davis) lifelong mentor.” The casting reunites Madigan with “Ascent” creator [ ]
 
-### Anime’s Pay Divide Runs Between Studios That Take Risks and Those That Don’t, Says Tokyo Festival Advisor
-Mon, 26 Oct 2026 06:42:07 +0000 — https://variety.com/2026/film/festivals/anime-pay-divide-studios-appetite-risk-tokyo-advisor-1236930984/
+### Madison Horror Game to Get Movie Adaptation From Story Kitchen
+Mon, 26 Oct 2026 16:00:00 +0000 — https://variety.com/2026/digital/news/madison-game-movie-adaptation-story-kitchen-1236930205/
 
-Japan’s anime industry is in better shape overall, but gaps in pay and conditions are opening up largely between studios prepared to put their own capital on the line and those that are not, according to Fujitsu Ryota, programming advisor for the Tokyo International Film Festival’s Animation section. “Given the high level of creativity demonstrated [ ]
+Pulse-pounding psychological horror game Madison is going to splash some blood on the silver screen. L.A.-based Story Kitchen, a production company specializing in game-to-movie adaptations, has inked a pact with Madison developer Bloodious Games to develop a feature film set in the world of the first-person horror title. Currently, there s no casting info for the [ ]
 
-### Family Dramas Dominate Tokyo Festival’s Asian Lineup Amid Geopolitical Volatility
-Mon, 26 Oct 2026 06:30:26 +0000 — https://variety.com/2026/film/festivals/family-dramas-tokyo-festival-asian-lineup-1236930979/
+### The Production Studio, Reimagined
+Mon, 26 Oct 2026 16:00:00 +0000 — https://variety.com/2026/biz/news/fields-studios-chicago-production-studio-reimagined-1236918208/
 
-Family relationships run through the Asian films that Tokyo International Film Festival programmer Ishizaka Kenji has picked for this year’s edition. “While it is hard to pinpoint an exact catalyst for this surge in family-driven drama, what is undeniable is that amidst today’s geopolitical volatility, these filmmakers share an instinctive urge to reexamine the smallest [ ]
+The film and television production industry has spent the past several years navigating real headwinds. Productions have followed cost savings overseas, technological innovation has evolved from a talking point to a daily reality on set and in the writers’ room and a widening field of state and international incentive packages has pushed some markets into [ ]
 
-### Tokyo Festival’s Women’s Empowerment Lineup Follows Those Who Fall Through the Cracks
-Mon, 26 Oct 2026 06:14:29 +0000 — https://variety.com/2026/film/festivals/tokyo-film-festival-womens-empowerment-section-belonging-shimizu-yu-1236930973/
+### Spirit Tasting, New Film From WNUF Halloween Special Creator Chris LaMartina, Revealed as Screening Roadshow Set (EXCLUSIVE)
+Mon, 26 Oct 2026 16:00:00 +0000 — https://variety.com/2026/film/news/spirit-tasting-movie-wnuf-halloween-special-creator-1236914595/
 
-People pushed to move, or left without anywhere to belong, through no fault of their own form the through-line of this year’s Women’s Empowerment section at the Tokyo International Film Festival, according to programmer Shimizu Yu, who also oversees the festival’s Youth strand. Now in its third year, the seven-film section includes Manuela Martelli’s “The [ ]
+The creator of the cult classic “WNUF Halloween Special” is back with another experimental seasonal project. Writer-director Chris LaMartina has announced “Spirit Tasting,” a spooky New Year’s Eve-themed film from Terror Vision Original Productions. Per the official synopsis, “A post-punk riff on The Monkey’s Paw, Chris LaMartina s Spirit Tasting follows three former punks (Sean Doherty, [ ]
 
-### Saiyaara Star Ahaan Panday and Sharvari’s Ali Abbas Zafar Romantic Action-Drama for Yash Raj Films Unveils Title (EXCLUSIVE)
-Mon, 26 Oct 2026 05:30:00 +0000 — https://variety.com/2026/film/news/saiyaara-star-ahaan-panday-sharvari-ali-abbas-zafar-film-title-1236930643/
+### Keanu Reeves to Star in Netflix Action Movie Maelstrom After Alan Ritchson Drops Out
+Mon, 26 Oct 2026 15:46:43 +0000 — https://variety.com/2026/film/news/keanu-reeves-maelstrom-netflix-alan-ritchson-drops-out-1236931242/
 
-Ali Abbas Zafar’s romantic action-drama pairing “Saiyaara” breakout Ahaan Panday with Sharvari will be called “Beparwah,” Yash Raj Films revealed Monday. The title reveal came exactly five months before the film opens worldwide in theaters on March 26, 2027, the Good Friday holiday. Aditya Chopra produces. “Beparwah” is the first time Panday and Sharvari have [ ]
+Keanu Reeves is set to star in the Netflix action movie Maelstrom after Reacher actor Alan Ritchson dropped out of the project. Carry-On filmmaker Jaume Collet-Serra is directing Maelstrom. It revolves around a Federal Marshal who is guarding the fiancée of an arms dealer who is seeking witness protection as she prepares to testify against [ ]
 
-### John Oliver Issues Urgent Warning Ahead of Midterms About the Republican Party’s Nazi Ties
-Mon, 26 Oct 2026 04:21:03 +0000 — https://variety.com/2026/tv/news/john-oliver-urgent-warning-midterm-elections-republicans-nazi-ties-1236930940/
+### ‘The Mandalorian and Grogu’ Gets Behind-the-Scenes Book Featuring Original Sketches, Concept Art and Cast Interviews
+Mon, 26 Oct 2026 15:29:09 +0000 — https://variety.com/2026/shopping/news/mandalorian-and-grogu-book-sketches-concept-art-buy-online-1236931239/
 
-John Oliver returned to the “Last Week Tonight” desk after a two-week absence and focused the entirety of Sunday night’s episode on a “worrying trend that’s been on the rise” amongst the Republican Party ahead of the Nov. 3 midterm elections — their apparent affinity for Nazis. There is Peter Oberacker, a Republican candidate for [ ]
+Star Wars fans are getting a closer look at how Din Djarin and Grogu made the jump from Disney+ to the big screen. The Art of Star Wars: The Mandalorian and Grogu, a new 256-page hardcover from Abrams Books, arrives Nov. 3, offering an inside look at the creative process behind Lucasfilm s latest theatrical release. [ ]
 
 ## The Hollywood Reporter
 
-### Tokyo Film Festival Kicks Off With Rain-Soaked Red Carpet, Japanese Stars and Godzilla 2 Anticipation
-Mon, 26 Oct 2026 10:30:04 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-opening-ceremony-1236739824/
+### Walter Koenig, the Russian Crewman Chekov on Star Trek, Dies at 90
+Mon, 26 Oct 2026 16:34:09 +0000 — https://www.hollywoodreporter.com/tv/tv-news/walter-koenig-dead-chekov-star-trek-russian-1236740088/
 
-‘Shōgun’ star Tadanobu Asano and Junichi Okada led the local celeb turnout, while Academy CEO Bill Kramer repped Hollywood and Japan's prime minister touted plans to boost overseas entertainment sales to $130 billion by 2033.
+He joined the TV series for the second season but had more to do on another acclaimed sci-fi program, 'Babylon 5.'
 
-### An Austrian Filmmaker Who Documented the L.A. Wildfires Hopes His Film Will Start Conversations
-Mon, 26 Oct 2026 10:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/la-wildfires-documentary-film-hopes-to-start-conversations-1236735312/
+### Donnie Darko : THR s 2001 Review
+Mon, 26 Oct 2026 16:12:26 +0000 — https://www.hollywoodreporter.com/movies/movie-news/donnie-darko-review-movie-2001-1236740027/
 
-Lukas Marxt's observational doc ' 1.5°C: Pyropolitics and the New World' premieres at DOK Leipzig and the Viennale before hitting IDFA. And like his other work, it took him into "an apocalyptic surrounding."
+On October 26, 2001, writer-director Richard Kelly's feature opened in theaters after its Sundance premiere.
 
-### All About the Money Doc Director Explains How She Updated Her Doc on Fergie Chambers and Her Concerns About That U.S. Extradition Request
-Mon, 26 Oct 2026 08:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/all-about-the-money-doc-fergie-chambers-us-extradition-request-1236735194/
+### Elon Musk s Anti-Woke AI The Odyssey Movie Ripped as Soulless Slop After Criticizing Nolan
+Mon, 26 Oct 2026 16:06:47 +0000 — https://www.hollywoodreporter.com/movies/movie-news/elon-musk-ai-the-odyssey-reviews-1236740003/
 
-Irish director Sinéad O’Shea is gearing up for much debate as the film comes into U.K. and Irish cinemas on Oct. 30 after its BFI London Film Festival run and before screening at DOC NYC in November.
+The tech titan's anti-woke Grok-fueled take on 'The Odyssey' gets called "zombie-like."
 
-### Ted Sarandos Swoops Into Seoul as Netflix Celebrates 10 Years in Korea
-Mon, 26 Oct 2026 06:05:45 +0000 — https://www.hollywoodreporter.com/business/business-news/ted-sarandos-seoul-netflix-10-years-korea-1236739801/
+### Zooey Deschanel on Holiday Plans, New Girl Cast Hangs and Bath Body Works Campaign
+Mon, 26 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/shopping/zooey-deschanel-bath-body-works-campaign-new-girl-reunion-1236737867/
 
-The streaming gaint's co-CEO joined stars from ‘Squid Game,’ ‘KPop Demon Hunters’ and other Korean hits for a two-day fan festival, while previewing buzzy upcoming titles like ‘Possible Love,’ ‘Tantara’ and ‘Solo Leveling.’
+The multi-talented performer gets in the holiday spirit with THR to talk about making cookies with her kids, itching for more indie films and the tense moment in town for talent: "I didn’t get into being an actor for the money. I got into it because I love it."
 
-### Donald Trump Attacks Bill Maher in Scathing, 1,318-Word Social Media Post: Complete and Total Loser
-Mon, 26 Oct 2026 05:02:55 +0000 — https://www.hollywoodreporter.com/tv/tv-news/donald-trump-attacks-bill-maher-truth-social-post-loser-1236739778/
+### Hulu s Rumored Clavicular Doc Is Actually a True Crime Series (Exclusive)
+Mon, 26 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hulu-looksmaxxing-docuseries-clavicular-exclusive-details-1236739892/
 
-The Truth Social post comes just days after the two had dinner at the White House.
+It's not just about Braden Peters after all — who knew? (We did.)
 
-### Eric Bauza, the Modern Voice of Bugs Bunny, Daffy Duck and Other Iconic Characters, Dies at 46
-Mon, 26 Oct 2026 04:05:27 +0000 — https://www.hollywoodreporter.com/movies/movie-news/eric-bauza-dead-voice-bugs-bunny-daffy-duck-looney-tunes-1236739767/
+### Robert Pattinson Calls Steven Soderbergh’s The Batman Part II Work Completely Selfless
+Mon, 26 Oct 2026 15:30:56 +0000 — https://www.hollywoodreporter.com/movies/movie-news/robert-pattinson-reacts-soderbergh-matt-reeves-batman-2-1236739981/
 
-In addition to multiple roles in the Looney Tunes films and shows including 'Coyote vs. Acme,' the Emmy-winning actor also voiced roles in 'Forgotten Island,' 'Muppet Babies' and 'Teenage Mutant Ninja Turtles,' among others.
+'The Batman' star weighs in on Soderbergh stepping in to help Matt Reeves finish directing the superhero film.
 
-### Fox News Hosts Sean Hannity and Ainsley Earhardt Are Married
-Sun, 25 Oct 2026 23:35:49 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/sean-hannity-ainsley-earhardt-married-fox-news-hosts-1236739744/
+### Sofia Franklyn on the Phone Calls That Ended Her Relationship With Alex Cooper
+Mon, 26 Oct 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/business/digital/sofia-franklyn-phone-call-relationship-alex-cooper-excerpt-1236736248/
 
-The couple wed Saturday with a slew of Fox News personalities and government officials in attendance; President Trump was at a pre-wedding ceremony at Mar-a-Lago the night before but did not attend the nuptials.
+In her new, no-holds-barred memoir ‘Daddy Issues,’ the podcaster is finally coming clean about her split from her ‘Call Her Daddy’ co-host — revealing the fateful conversations that proved to be the beginning of a betrayal.
 
-### A Peek Into SNL UK : Strict Security, Giddy Cynthia Erivo and Sometimes More a Party Than a TV Set
-Sun, 25 Oct 2026 21:56:25 +0000 — https://www.hollywoodreporter.com/tv/tv-features/snl-uk-cynthia-erivo-season-2-nigerian-wicked-tv-review-1236739710/
+### Ava DuVernay Defends Using AI in New Doc 14th
+Mon, 26 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/ava-duvernay-defends-using-ai-doc-14th-1236739774/
 
-With Amelia Dimoldenberg and Ike Barinholtz among the audience members at Saturday's lively — and impressively huge — season two finale, we wonder: Has the British spin-off finally found its groove?
+The director wants audiences to "make their decisions about how they feel" about the technology, which is used to bring to life some archival photos in the film.
 
-### Peggy King, Singer and George Gobel Show Star of Television s Golden Age, Dies at 96
-Sun, 25 Oct 2026 21:52:13 +0000 — https://www.hollywoodreporter.com/tv/tv-news/peggy-king-dead-singer-george-gobel-show-actress-1236739719/
+### Instagram Tests 90-Minute Horizontal Videos In Major Play for Podcasters and Creators
+Mon, 26 Oct 2026 15:00:00 +0000 — https://www.hollywoodreporter.com/business/digital/instagram-tests-90-minute-videos-podcasters-creators-1236739929/
 
-She also recorded several albums for Columbia Records and appeared in Vincente Minnelli’s 'The Bad and the Beautiful.'
+Select creators in the U.S. Monday and will be able to test out the new product, which could make the platform more of a destination for full video podcasts.
 
-### Young Sheldon Star Emily Osment Requested Intimacy Coordinator Over Age Gap With Montana Jordan: He Was a Baby!
-Sun, 25 Oct 2026 20:03:04 +0000 — https://www.hollywoodreporter.com/tv/tv-news/young-sheldon-emily-osment-requested-intimacy-coordinator-1236739707/
+### Bluey Soundtrack Gets the Box Set Treatment With New Collectible Vinyl Release
+Mon, 26 Oct 2026 14:51:55 +0000 — https://www.hollywoodreporter.com/music/music-news/bluey-songs-music-vinyl-album-box-set-soundtrack-buy-online-1236739638/
 
-The actress, who was 30 when she joined the CBS series, recalled feeling "uncomfortable" about the age difference between her and her 18-year-old onscreen love interest.
+The Amazon-exclusive set includes all four of the 'Bluey' albums pressed on colored vinyl for the first time.
 
 ## Deadline
 
-### BBC Pays $530,000 To Mr. Nobody Against Putin Exec Over Antisemitism Claims
-Mon, 26 Oct 2026 09:41:14 +0000 — https://deadline.com/2026/10/bbc-gives-lucie-kon-storyville-antisemitism-payout-1237172923/
+### Mia McKenna-Bruce Latest To Join Amazon MGM s Racing Romance Throttled
+Mon, 26 Oct 2026 16:54:01 +0000 — https://deadline.com/2026/10/mia-mckenna-bruce-joins-throttled-movie-amazon-1237177518/
 
-The BBC has paid £400,000 ($534,000) to one of the exec producers behind Oscar-winner Mr. Nobody Against Putin, who told The Telegraph she was the victim of antisemitism at the broadcaster. Lucie Kon was commissioning editor at documentary strand Storyville before leaving last year after several years in post. She told The Telegraph she was [ ]
+EXCLUSIVE: English actress Mia McKenna-Bruce (How to Have Sex) is the latest to join Throttled, the new Amazon MGM romance based on the first book in Lauren Asher s Dirty Air series. Joining the previously announced Nicole Wallace, Josh Heuston, and Julio Peña, McKenna-Bruce plays Sophie Mitchell, the daughter of a powerful figure in the racing [ ]
 
-### Disney+ Among Buyers For RTÉ BBC Drama ‘The Walsh Sisters’
-Mon, 26 Oct 2026 09:08:40 +0000 — https://deadline.com/2026/10/disney-plus-the-walsh-sisters-marian-keyes-rte-bbc-series-1237172919/
+### Duplass Brothers Make Show The Long Long Night Free On Spotify
+Mon, 26 Oct 2026 16:33:19 +0000 — https://deadline.com/2026/10/duplass-brothers-make-the-long-long-night-free-spotify-1237175335/
 
-EXCLUSIVE: Disney+ is among a raft of buyers for RTÉ and BBC comedy-drama The Walsh Sisters. Based on a book series from bestselling author Marian Keyes, Season 1 was Irish broadcaster RTÉ’s highest-rated drama of the past two years. The BBC and RTÉ have greenlit a Season 2 of the show, which is in production. [ ]
+EXCLUSIVE: Duplass Brothers Productions (DBP) is making its independently produced series The Long Long Night free to watch on Spotify (with ads for non-premium users). Starring Mark Duplass and his real-life childhood friend—actor and playwright Barrett O’Brien—the series follows two old friends in the aftermath of their misguided attempt to help the world by removing [ ]
 
-### Ted Sarandos Shrugs Off U.S. Troubles To Mark Netflix s 10 Years In Korea
-Mon, 26 Oct 2026 08:21:40 +0000 — https://deadline.com/2026/10/ted-sarandos-netflix-korea-ten-year-anniversary-1237172907/
+### Comedian Ron Funches Signs With Artists First
+Mon, 26 Oct 2026 16:30:00 +0000 — https://deadline.com/2026/10/ron-funches-signs-artists-first-1237171631/
 
-He might be under fire in the U.S., but Ted Sarandos was all smiles in Korea this weekend. The Netflix co-CEO took to the stage at an event in Seoul marking the streamer s tenth anniversary in Korea, from where the likes of Squid Game, Kpop Demon Hunters and Kingdom have come. Korea was one of [ ]
+EXCLUSIVE: Comedian, actor, and writer Ron Funches has taken on new management at Artists First. This comes ahead of the release of Eat Cookies Die, his second hour-long stand-up special, on the heels of Comedy Central s Giggle Fit in 2019. The new hour debuts on Gorilla Comedy+ on November 2nd before making its way [ ]
 
-### RisingJoy Signs International Distribution Pact With NTT DOCOMO
-Mon, 26 Oct 2026 06:23:00 +0000 — https://deadline.com/2026/10/risingjoy-ntt-docomo-studio-international-distribution-1237172884/
+### Janus Films Acquires Alfonso Cuarón’s ‘Y Tu Mamá También’ Ahead Of 25th Anniversary 4K Re-Release
+Mon, 26 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/y-tu-mama-tambien-25th-anniversary-4k-janus-films-1237172839/
 
-Singapore-based RisingJoy has signed a distribution pact with Japanese outfit NTT DOCOMO Studio Live. The deal, which was announced this afternoon, covers the international distribution of the Japanese company’s vertical content, including its anime slate. RisingJoy said NTT DOCOMO’s titles “may be licensed on a non-exclusive, title-by-title basis, with terms agreed separately for each [ ]
+EXCLUSIVE: Janus Films has acquired all rights in North America and the UK/Ireland to Alfonso Cuarón’s classic fourth feature, Y Tu Mamá También, which has been restored in 4K to mark the 25th anniversary of its premiere. The new 4K print will be released theatrically in the summer of 2027. Y Tu Mamá También launched [ ]
 
-### Eric Bauza Dies: Emmy-Winning Voice Of Bugs Bunny Daffy Duck Much More Was 46
-Mon, 26 Oct 2026 04:46:10 +0000 — https://deadline.com/2026/10/eric-bauza-dead-voice-of-bugs-bunny-1237172857/
+### Amy Madigan Joins Ascent TV Series At Paramount+
+Mon, 26 Oct 2026 16:00:00 +0000 — https://deadline.com/2026/10/amy-madigan-joins-ascent-viola-davis-paramount-plus-1237173167/
 
-He followed in the footsteps of giants like Mel Blanc. So said Channing Dungey, Chairman, Warner Bros. Television Group and US Networks tonight after the family of Eric Bauza announced the death of the most recent voice actor behind characters like Bugs Bunny and Daffy Duck, including in this year s much-loved Coyote vs. Acme. Bauza [ ]
+Weapons Amy Madigan will join Viola Davis and Sam Heughan in Ascent, Paramount+ s new thriller series from John Logan and Paramount Television Studios. Madigan s character is Rachel, a former executive at Ascent Ventures and lifelong mentor to Davis elite corporate fixer, Catriona. Production is slated for next year in Los Angeles. Set in the dangerous [ ]
 
-### James Gunn Claps Back At Critics Of Continuity In His DCU
-Mon, 26 Oct 2026 04:06:45 +0000 — https://deadline.com/2026/10/james-gunn-critics-continuity-in-dcu-1237172836/
+### Stoic To Launch AFM Sales On Holiday Comedy Unbearable Christmas With Alex Moffat, Julia Stiles, David Cross
+Mon, 26 Oct 2026 15:05:00 +0000 — https://deadline.com/2026/10/alex-moffat-julia-stiles-david-cross-film-sales-deal-afm-1237173086/
 
-With DC s Clayface in theaters this weekend and Marvel s Avengers: Doomsday barreling toward us, users online have been playing compare/contrast. One commenter apparently had questions about the connectivity between the projects in the DC Cinematic Universe being created by James Gunn and Peter Safran. Listing six recent projects Superman, the Peacemaker series, Supergirl, the [ ]
+EXCLUSIVE: Stoic has acquired international sales rights (excluding North America) for Unbearable Christmas, the holiday comedy starring SNL alum Alex Moffat, Julia Stiles, David Cross, Caroline Rhea, Mena Suvari, and Stephen Root. Stoic will officially launch sales for all available international territories at the upcoming American Film Market (AFM) in Los Angeles. The international launch [ ]
 
-### Donald Trump Posts 1,300+ Word Sunday Night Diatribe About Complete And Total Loser Bill Maher, Nine Days After Praising Their Great Dinner
-Mon, 26 Oct 2026 03:54:32 +0000 — https://deadline.com/2026/10/trump-bill-maher-loser-truth-social-post-1237172835/
+### MGM+ Greenlights The Black Tapes Horror Series Starring Nikolaj Coster-Waldau Based On Podcast
+Mon, 26 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/the-black-tapes-mgm-plus-nikolaj-coster-waldau-podcast-1237172180/
 
-Donald Trump posted more than 1,300 words slamming Bill Maher, just nine days after praising the great dinner he had at the White House with the Real Time host. Trump was upset over some of the jokes and comments that Maher made on Friday s show. Maher praised the Oct. 15 dinner too, at which they [ ]
+MGM+ is expanding its horror lineup with a series order to The Black Tapes, a supernatural investigation drama. Nikolaj Coster-Waldau stars in the eight-episode series based on the 2015 horror podcast of the same name created by Terry Miles and Paul Bae who are writers on the TV adaptation alongside John Rogers (Leverage). In The [ ]
 
-### Holland Taylor Reveals Why She Didn t Renew Her Two And A Half Men Contract
-Mon, 26 Oct 2026 02:31:28 +0000 — https://deadline.com/2026/10/why-holland-taylor-left-two-and-a-half-men-1237172825/
+### Robert Pattinson Says The Batman Part II Is Back Up And Running After Production Pause: I m Starting In A Couple Of Days
+Mon, 26 Oct 2026 14:45:23 +0000 — https://deadline.com/2026/10/robert-pattinson-says-the-batman-part-ii-is-filming-again-1237173078/
 
-At the time of his very public meltdown and split from Two and a Half Men, Charlie Sheen was one of sitcom TV’s highest-ever paid stars at a reported $1.8 million an episode. One of his co-stars let her contract lapse after Season 6 for very different reasons. Holland Taylor, who played the overbearing mother [ ]
+Following its brief pause while director Matt Reeves deals with a family issue, The Batman Part II star Robert Pattinson has confirmed that production is back up and running. I think they re in production already, Pattinson told Games Radar in a new interview. And I m starting in a couple of days. Steven Soderbergh has stepped [ ]
 
-### Young Sheldon s Emily Osment Reveals She Requested An Intimacy Coordinator For Teen Co-Star Montana Jordan: He Was A Baby!
-Mon, 26 Oct 2026 01:05:47 +0000 — https://deadline.com/2026/10/young-sheldon-emily-osment-intimacy-coordinator-montana-jordan-1237172813/
+### Nicola Coughlan s I Am Helen Trailer Shows Dark Side Of Modern Relationships As Toxic Masculinity Takes Its Toll
+Mon, 26 Oct 2026 14:09:32 +0000 — https://deadline.com/2026/10/nicola-coughlan-i-am-helen-channel-4-trailer-joe-cole-1237173061/
 
-When it comes to intimacy coordinators, Emily Osment was an early adopter. The Young Sheldon actress didn t want one for herself, but rather for her co-star, Montana Jordan. As they shot the show in the early part of the decade, the plot called for Jordan s Georgie Cooper to become romantically involved with Osment s Mandy McAllister. [ ]
+It s tough for blokes. You re made to be the bad guy. These are the words delivered to Joe Cole s character Steve by a masculine confidante in the trail for Nicola Coughlan and Dominic Savage s new Channel 4 show I Am Helen. The show is the latest in Savage s I Am anthology telling female stories, which [ ]
 
-### Wentworth: Halfway Home : Grace Chow Nadine Garner Among 9 Joining Cast; Watch Trailer
-Sun, 25 Oct 2026 22:00:00 +0000 — https://deadline.com/2026/10/wentworth-halfway-more-cast-watch-trailer-1237172892/
+### Brazil: Lula Wins Historic Fourth Presidential Term Beating Far-Right Challenger Flávio Bolsonaro
+Mon, 26 Oct 2026 13:06:38 +0000 — https://deadline.com/2026/10/brazil-lula-win-flavio-bolsonaro-1237173038/
 
-EXCLUSIVE: Nine more cast have joined Binge drama Wentworth: Halfway Home, which has also dropped a trailer a series of first-look images. Good Cop/Bad Cop actress Grace Chow, Nadine Garner (High Country: What Lies Beneath), Elaine Crombie (Invisible Boys), Sara West (Troppo), Claude Jabbour (Last King of The Cross), Daniel Henshall (Last Seen), Laura Gordon [ ]
+Brazilian president Luiz Inácio Lula da Silva staged a dramatic election comeback Sunday night, beating far-right challenger Flávio Bolsonaro to clinch a historic fourth term in office. Lula took 51.79% of the vote. The win makes the 80-year-old veteran the first Brazilian president since 1988 to win an election after losing the first round of [ ]
 
-### Amanda Seyfried Explains Turning Down Guardians Of The Galaxy For Family: Just Not For Me
-Sun, 25 Oct 2026 21:13:58 +0000 — https://deadline.com/2026/10/amanda-seyfried-turning-down-guardians-of-the-galaxy-1237172808/
+### Christiane Amanpour s The Ex Files Pod Adds Tina Brown As Co-Host For Season 2
+Mon, 26 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/christiane-amanpour-pod-the-ex-files-tina-brown-season-2-1237172950/
 
-After 12 years, three standalone movies and a holiday special, Amanda Seyfried appears to have no regrets turning down a Guardians of the Galaxy lead role. The Oscar nominee explained that the MCU role of Gamora was just not for me, noting she made the decision for my family to not take on the character, [ ]
+EXCLUSIVE: With legendary international anchor Christiane Amanpour set to depart CNN next year, Amanpour has been joined by a very special guest host for her The Ex Files podcast. Tina Brown is stepping into The Ex Files hosting shoes alongside Amanpour and her co-host and ex-husband Jamie Rubin. Unveiled last year by Global, the podcast [ ]
 
-### ‘NAZA Tops $1 Million With Neon, Solid Limited Expansion For ‘La Bola Negra’ Specialty Box Office
-Sun, 25 Oct 2026 19:31:12 +0000 — https://deadline.com/2026/10/indie-film-box-office-naza-neon-la-bola-negra-netflix-1237172763/
+### Russell Brand s Former Assistant Claims Women Came To Comedian s Flat For Sex All The Time But He Never Seemed Happy Afterwards
+Mon, 26 Oct 2026 12:35:20 +0000 — https://deadline.com/2026/10/russell-brand-trial-never-happy-after-sex-assistant-1237172972/
 
-Documentary NAZA, recently acquired by Neon mid-theatrical rollout, passed the $1 million mark this weekend. The Venice-premiering film, directed by Yuval Abraham and Rachel Szor (two of the Oscar winning directors of No Other Land) is eyeing $74.5k on 73 screens in week 4, for a cume of $1.07 million. Producer The Guardian had been [ ]
+Editor’s note: This story contains details of alleged sexual offenses that some readers may find distressing. A witness statement from Russell Brand’s former assistant has painted a picture of what it was like working for him in the noughties, as the Forgetting Sarah Marshall star s rape and sexual assault trial enters its third week. The [ ]
 
 ## befores & afters
 
@@ -174,6 +174,16 @@ Sun, 25 Oct 2026 07:10:02 +0000 — https://beforesandafters.com/2026/10/25/watc
 Go behind the scenes. The post Watch Image Engine s VFX breakdown for The Mandalorian Grogu appeared first on befores & afters .
 
 ## IndieWire
+
+### How The Only Living Pickpocket in New York Used Vintage Godfather Lenses to Capture NYC on Location
+Mon, 26 Oct 2026 15:38:44 +0000 — https://www.indiewire.com/features/craft/how-only-living-pickpocket-in-new-york-used-cinematography-1235223725/
+
+Cinematographer Sam Levy tells IndieWire about designing a throwback look for "The Only Living Pickpocket in New York" with help from special Gordon Willis lenses.
+
+### Queen at Sea Review: Juliette Binoche Guides Director Lance Hammer Back to Screens with a Searing Film About Dementia and Consent
+Mon, 26 Oct 2026 12:02:00 +0000 — https://www.indiewire.com/criticism/movies/queen-at-sea-review-juliette-binoche-1235178993/
+
+Binoche and Tom Courtenay star as the fraying family members (and therefore caretakers) of a dementia-addled woman whose time, memory, and function have run out.
 
 ### Clayface Tops the Box Office with $24 Million. What Does It Signal About DC Studios Latest Reboot?
 Sun, 25 Oct 2026 16:36:38 +0000 — https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/
@@ -185,117 +195,107 @@ Sun, 25 Oct 2026 13:48:18 +0000 — https://www.indiewire.com/news/box-office/bo
 
 Nathan Fielder and Lance Oppenheim's twisty look at Elizabeth Holmes saw its grosses increase from its red-hot debut.
 
-### Watch the Buddy Team Explain How They Made the World Fall in Love with a Murderous Unicorn
-Sat, 24 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/events/how-buddy-became-breakout-hit-future-of-filmmaking-summit-1235223665/
-
-At IndieWire's Future of Filmmaking Summit, "Buddy" producer Tracy Rosenblum, co-writer Jamie King, and Roadside Attractions head of digital marketing Melissa Yerou unpacked the formula behind one of 2026's breakout hits.
-
-### Quentin Tarantino Surprises Fans with an Early Look at The Further Mis-Adventures of Cliff Booth
-Sat, 24 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/news/festivals/quentin-tarantino-cliff-booth-surprise-afi-fest-1235223109/
-
-Tarantino introduced the first 17 minutes of his upcoming collaboration with David Fincher after an AFI Fest screening of "Once Upon a Time...in Hollywood."
-
 ## The Wrap
 
-### The 3 Best Movies to Stream on Prime Video This Week
-Mon, 26 Oct 2026 00:54:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-to-watch-on-prime-video-this-week-oct-24-30/
+### The View : Sunny Hostin Warns Bill Maher to Stop Criticizing Trump or He s Never Going to Get a Compliment About His Ass
+Mon, 26 Oct 2026 16:40:31 +0000 — https://www.thewrap.com/creative-content/tv-shows/the-view-sunny-hostin-warns-bill-maher-criticizing-trump/
 
-Looking for a good movie to watch on Prime Video? We’ve got you covered. Whether you’re looking for a great James Bond film, an adventure movie with a twist of magic (literally) or an insanely scary film, our picks for the best movies to watch on Prime Video this week run the gamut. Indeed, the whole James Bond franchise is streaming on Prime Video as of this month, but there’s one film in particular that would make for timely viewing as Amazon and director Denis Villeneuve are in the midst of final screen tests for the next 007. The final candidates include Jack Lowden (“Slow Horses”), Callum Turner (“Eternity”) and Josh O’Connor (“Challengers”), but of course there’s always the possibility that a dark horse candidate emerges. So as we wait with bated breath, pass the time with these three excellent films. Casino Royale Daniel Craig as James Bond in Casino Royale (Sony Pictures Releasing) Final tests are underway for the next James Bond actor, so what better time to revisit one of the best films in the entire franchise? “Casino Royale” reinvented the 007 series for the 21st century, with controversial choice Daniel Craig immediately making clear he would be one of the best Bond actors ever in this grounded, surprisingly emotional take on the classic spy. What makes this movie even more incredible is that it’s directed by Martin Campbell, who also directed another one of the Bond franchise’s best reboots in the Pierce Brosnan -led “GoldenEye.” All the Bond movies are streamin
+Bill Maher ticked off President Trump pretty good this weekend, after the Real Time host poked fun at the conversation topics during his dinner at the White House. So, on Monday morning, The View host Sunny Hostin had a warning for Maher. In Friday s episode of Real Time, Maher once again shrugged off criticisms about his latest visit to the White House, and detailed the conversations he had with the president during his four-hour dinner. Among them were discussions of the Supreme Court, ICE shootings, pulling SkyLink down, abandoning the Afghans who helped us during the war, Hegseth is dragging you down, sir, and a request not to name the ocean after yourself. The monologue earned a 1,300-word tirade from the president. I mean, if Maher keeps this up, he s never going get a compliment about his ass from Trump, Hostin joked. The ABC host was of course referring to Trump s praise of Nicki Minaj s rear end at a rally earlier this month. The compliment came just after the president also praised the butt of Sen. Jon Husted (R-Ohio). While the hosts of The View had a good laugh at Trump s fixation, it also deeply bummed out Ana Navarro. I cannot believe that Trump s closing message on an election that is so close in so many places is about asses, she lamented. Is about that how much money his buddies in the oil industry are making while people are paying much more on the in the pump. I can t believe that it s about the Muslim Brotherhood. That said, Navarro also wasn t all that su
 
-### Roy Wood Jr. Says He Understands Why JD Vance s Mom Sold Him for Percocets After VP s Amy Acton Diss
-Sun, 25 Oct 2026 22:23:46 +0000 — https://www.thewrap.com/creative-content/tv-shows/roy-wood-jr-jd-vance-mom-joke/
+### Robert Pattinson Is So Happy Steven Soderbergh Stepped In to Finish Filming The Batman: Part 2
+Mon, 26 Oct 2026 16:39:00 +0000 — https://www.thewrap.com/creative-content/movies/robert-pattinson-the-batman-2-steven-soderbergh-matt-reeves/
 
-Roy Wood Jr. didn t take too kindly to Vice President JD Vance standing by Ohio gubernatorial candidate Vivek Ramaswamy s attack ad against Democratic opponent Amy Acton this week. And considering the ad featured Acton s own estranged mother calling the politician a liar, Wood decided to take a jab at the VP s own mom. After awhile, you start to understand why JD Vance momma sold him for Percocets, right? the comedian posed while hosting Saturday s Have I Got News for You. The show s panelists, including Amber Ruffin and Michael Ian Black, were visibly startled by the barb and burst into laughter. The moment came as Wood broke down the week-long controversy, playing a clip from Ramaswamy s ad featuring Acton s estranged mom Donna Arthur, who lost custody of Acton and her brother in 1978 after stepfather Cledith Arthur was charged with sexually assaulting Acton. The Democrat has said she has not seen or been in contact with her mother since they were in a courtroom together in 1978, nearly 50 years ago. The ad was roundly condemned by Democrats and several Republicans this week for attacking a victim of sexual abuse in a way that was especially beyond the pale. MS NOW host Chris Hayes this week even called it “one of the most despicable things I’ve seen in politics.” Vance, meanwhile, defended the ad at a rally in Cincinatti on Wednesday. Now I don’t wannna be too mean, becausee when your’e mean to Amy Acton, she sics American media and of course the Democrat Party operatives 
+Robert Pattinson says he is so happy that Ocean s Eleven and Erin Brockovich director Steven Soderbergh has signed on to finish filming The Batman: Part II, calling the filmmaker s decision to do so incredibly generous. After years of development, filming officially began on The Batman: Part II in June in England and Scotland. However, production on the blockbuster was temporarily paused earlier this month when it was announced that writer-director Matt Reeves has been forced to step away to deal with an ongoing family issue. The pause left the sequel s future unclear until it was announced that Soderbergh would be stepping in to finish the film s principal photography phase for Reeves. I am so happy he s come on to help Matt, Pattinson told GamesRadar+ in an interview published Monday about Soderbergh s decision to help Reeves get The Batman: Part II across the finish line, adding, It s incredibly generous of him – and he s doing it in the loveliest way. It s completely selfless. I think Matt had put so much work into the script, and we re almost done, Pattinson said. So for someone to come in and say, I just want to help Matt do it; I want to do it in conjunction with him and just get it to the edit. And to have someone who s as talented as Steven doing it is great. Pattinson has been busy as of late promoting his latest film, You Can See Everything director Lance Oppenheim s To Catch a Predator drama Primetime. When he was asked by GamesRadar+ when filming for The Batman: 
 
-### The 9 Best Vampire Movies and TV Shows on Netflix Right Now
-Sun, 25 Oct 2026 21:00:00 +0000 — https://www.thewrap.com/creative-content/what-to-watch/vampire-movies-shows-streaming-on-netflix-now/
+### Walton Goggins Replaces Michael Caine in Muppet Christmas Carol Walmart Ad
+Mon, 26 Oct 2026 16:20:03 +0000 — https://www.thewrap.com/culture-lifestyle/culture/muppet-christmas-carol-walmart-ad-walton-goggins/
 
-Tis the season for foggy small towns, gloomy castles and the undead creatures of the night who call them. Halloween is just around the corner, which means it s time to get spooky, and for a lot of horror fans, that means it s time for some vampires. The iconic monster is one of humanity s most enduring nightmares, from a millennium of folklore from around the world to the earliest days of cinema to the swooning teen romances of the 90s and 00s. Whatever vampire vibe you re looking for, you ve got a good chance of finding a match on Netflix right now. The streamer has plenty of originals in the genre worth checking out, and they re also currently hosting some vampire essentials from AMC s Interview With the Vampire series to the Twilight movies. Jacob Anderson as Louis De Point Du Lac in Interview With the Vampire (AMC) Interview With the Vampire (2022) Let s start with the crème de la crème, AMC s extraordinary Interview With the Vampire series, which is not just the best vampire media of its time, but one of the best new shows of the 2020s so far. Developed and showrun by HBO s Perry Mason co-creator Rolin Jones (for its first three seasons, longtime series writer Hanna Moskovitch will take over as showrunner for the upcoming Queen of the Damned -centric season), Interview With the Vampire is a fearless, bold adaptation of Anne Rice s beloved Vampire Chronicles that channels the spirit of Rice s poetic, provocative novels while stepping into its own as a work all its own. Sa
+1992’s “The Muppet Christmas Carol” has become a yuletide classic in the years since it was released. The perennial favorite, originally put out by Disney in the tumultuous years following Jim Henson’s tragic death, regularly inspires new editions (including restoring the longer cut to Disney+ a few years ago) and refreshed merchandise lines (there’s a whole lot of new stuff on the Disney Store website and in the theme parks right now ). But there has never been an official follow-up or sequel … until now. The gang has been reunited for a new “Muppet Christmas Carol” ad for Walmart called “A Who Knew Carol.” All of your favorites are back – Kermit, Miss Piggy, Fozzie, Rizzo, Gonzo the Great and many more – along with new characters (Pepe the King Prawn, it’s good to see you) and, of course, a new Scrooge, in the form of Walton Goggins, the Walmart spokesman. (Michael Caine memorably played Scrooge in the original film. He is now 93 and is very retired.) Yes, that is also Stephanie Beatriz in the ad. Watch it below. The clip is set to the song “Scrooge,” written by Paul Williams for the original film, and the sets and costumes are extremely impressive. Hey, if you’re going to spend a bunch of money from a soulless corporate entity re-creating a holiday classic, why not go all out? (“Who knew?,” by the way, was a phrase used as part of a larger push to reconceptualize what Walmart is for most consumers. The tagline and accompanying strategy was rolled out last summer, with Gogg
 
-### The 3 Best Movies to Watch on Netflix This Week
-Sun, 25 Oct 2026 20:30:00 +0000 — https://www.thewrap.com/culture-lifestyle/culture/3-best-movies-to-watch-on-netflix-this-week-oct-25-31/
+### Anthropic Reveals $80.7 Billion Loss, $16.3 Billion in Revenue in IPO Filing
+Mon, 26 Oct 2026 16:01:28 +0000 — https://www.thewrap.com/industry-news/tech/anthropic-ipo-filing-80-billion-loss-revenue/
 
-Few weeks call for movie-watching quite as much as the week before Halloween, and if you re searching for something to stream on Netflix, sometimes it can be hard to find something worth the scroll in a sea of same-y new releases. Not to worry, we ve rounded up three movies on the platform (a couple of which are about to leave Netflix, mind you) that are worth checking out this week. Bride of Chucky Bride of Chucky (Universal Pictures) Netflix is currently home to a number of Chucky sequels (but frustratingly enough, not the original Child s Play movie, which you ll have to head to Prime Video, AMC+ or Philio for this month). There s plenty of great debate to be had around which is the best Child s Play sequel, considering it s one of the most consistent of the long-running horror franchises. But in terms of favorite, I ve got to give it to Bride of Chucky, the 1998 sequel that introduced Jennifer Tilly s now equally beloved horror icon, Tiffany. Directed by Freddy vs. Jason helmer Ronny Yu, Bride of Chucky is a playful, hyperstylized return to everybody s favorite killer doll at least until they met Tiffany. Crimson Peak Mia Wasikowska in Crimson Peak (Legendary/Universal) Guillermo del Toro s gorgeous haunted house movie Crimson Peak doesn t get its due. It s a stunning piece of practical movie-making and a rich, character-driven ghost story that s proudly born from a love of Gothic Romance. That means it s not the scariest ghost story in town, but it s a stunner, perhaps e
+Anthropic reported an $80.7 billion net loss in the first half of 2026 despite generating $16.3 billion in revenue, according to its initial public offering filing Monday, offering a detailed look at the finances of the company behind the Claude AI chatbot. The disclosure comes as Anthropic prepares to sell shares to the public for the first time in an IPO potentially worth more than $100 billion. Its ultimate value will depend on how investors weigh its rapid growth against the enormous cost of developing frontier artificial intelligence models. While demand for its technology is surging, the question is whether the company can turn that momentum into sustainable profit — and keep its red-hot growth trajectory. Revenue reached $16.29 billion in the six months ended June 30, up from $1.16 billion during the same period last year, according to the Securities and Exchange Commission filing . That s more than triple the $4.59 billion Anthropic generated during all of 2025. But the $80.7 billion loss doesn t mean Anthropic spent that much more than it brought in. Roughly $72.4 billion came from largely noncash accounting adjustments tied to the rising value of debt and other financial agreements that can be converted into company shares, rather than money the company actually spent, per Reuters . Its operating loss was considerably smaller, narrowing to $693 million from $2.1 billion a year earlier. Anthropic is also attracting a growing number of business customers. As of Sept. 
 
-### Trump White House Shares Nicki Minaj Audition Tape for Press Secretary: He s a Great Guy
-Sun, 25 Oct 2026 20:14:36 +0000 — https://www.thewrap.com/media-platforms/politics/nicki-minaj-trump-white-house-press-secretary/
+### Instagram Tests Out 90-Minute Horizontal Videos in Push for TV Viewing
+Mon, 26 Oct 2026 15:32:04 +0000 — https://www.thewrap.com/media-platforms/tv/instagram-90-minute-horizontal-videos-tv/
 
-President Donald Trump s White House Communications Director Steven Cheung cheekily teased Nicki Minaj as the adminstration s next press secreatry on Sunday, announcing the news on X alongside a video of him sitting and interviewing her for the gig. Lobbing a few softball questions the rapper s way from why is the economy growing? to is there anyone who works harder than President Trump? Cheung capped the video by saying that the job was hers. Ladies and gentlemen, I think we may have found the new White House Press Secretary! Cheung said. Minaj reshared the communications director s post with an American flag and a sweeting emoji. The video shows her in conversation with Cheung while sitting at a conference table on Air Force One. https://t.co/Rr8jdlbgVK &mdash; Nicki Minaj (@NICKIMINAJ) October 25, 2026 We have a president that understands economics, first of all, Minaj said, sharing what she made of the economy under Trump. You know, I said before that the president is naturally a business man. He s worked his way out of not having a dollar left in the bank. So if he can do that with himself and his own finances, surely he knows what to do with the country. He s very tough. He s tough. Internationally, he tells them what we need, not what they need. We re not going to be paying to kiss their ass, OK? They are going to pay us to be affiliated with the United States of a America. Cheung then asked if there was anyone who works harder than the president on the campaign trail,
+Instagram is giving creators the ability to upload longer horizontal videos on its platform, the company announced on Monday . Testing has been taking place with certain creators in Brazil and will be rolling out to select U.S. creators. The offering will let creators upload longform videos that are up to 90 minutes long. Instagram is all about connecting people over creativity, and creativity is so much more than just shortform video or just posts and carousels, Tessa Lyons, vice president of product at Instagram, said in a longform video announcing the news. She outlined that creators have been using Reels to creator shortform series, that they ve used clips on Reels to drive discovery to other content and that they re using Instagram Live. There s just so much different format now happening around creativity and storytelling on video that we want to make sure we re doing a good job of serving. This development is clearly part of a strategy to make the social media platform more competitive when it comes to longer form content. Back in June, the company announced Instagram for TV, an offering that lets users watch Instagram videos from the living room. The option launched last year for Samsung, Fire TV and Google TV in the U.S. and will launch on Apple TV this month. It also comes at a time when YouTube has been a dominant player in television for years. For the past three years, YouTube has reigned as the No. 1 most-watched streamer or channel on all of television. The pla
 
-### ‘Miami Vice ’85’: Man Arrested After Wielding Knife on Brooklyn Set
-Sun, 25 Oct 2026 19:29:46 +0000 — https://www.thewrap.com/creative-content/movies/miami-vice-85-arrest/
+### James Gunn Says DC Is Not Prioritizing Connectivity the Same Way Marvel Does
+Mon, 26 Oct 2026 15:11:06 +0000 — https://www.thewrap.com/creative-content/movies/james-gunn-dc-universe-connections-clayface-man-of-tomorrow/
 
-The crimes of Miami Vice 85 got a little more real on Friday after a man was arrested on the Brooklyn set after wielding a knife in a dispute with a crew member. Brooklyn resident Alex Perez, 23, was arrested around 11 p.m. following allegations he displayed a knife while arguing with a 42-year-old man, who reported the incident to the NYPD. The confrontation happened in the vicinity of Avenue N and McDonald Avenue. Footage from TMZ shows Perez being escorted off the set of the Universal Pictures production before brandishing a knife and allegedly threatening the crew member. “The individual was then taken into custody without incident, and the knife was recovered,” the NYPD said in a statement . TMZ noted the Friday arrest was not Perez s first run-in with the law; he reportedly has five prior arrests involving alleged gang-related activities, assault with a firearm and burglary. The film stars Michael B. Jordan and Austin Butler and is directed by Joseph Kosinski. The reboot project is on the popular 1980s TV series “Miami Vice” starring Don Johnson and Philip Michael Thomas as detectives working undercover in Miami. The show was groundbreaking for its use of popular music and drawing from the culture at the time, much of which was owed to director Michael Mann’s vision for the series. Universal sees “Miami Vice ’85” as a tentpole and has set the film for a May 19, 2028 release only in theaters. The project released its first look images earlier this month, with Jordan and 
+Coming off the release of Clayface this past weekend, DC Studios co-CEO James Gunn has made it clear that he is not building the DC Universe with the same vision of all-encompassing connectivity in mind that Marvel has used to shape its TV shows and films. On Threads , a comic book fan pushed back against another user who listed the DCU s first titles ( Superman, Peacemaker, Supergirl, Creature Commandos, Clayface and Lanterns ) and asked, What is this building towards?????? The responding DC fan argued, Gunn doesn t have to build towards anything if the individual pieces work on their own. Their comment caught the attention of the DC Studios chief, who admitted that he couldn t agree more with the fan s argument. Gunn went on to explain why he sees the DC Universe as having more in common with the Star Wars franchise than the Marvel Cinematic Universe. DCU is just an alternate universe; we can enter at any location or time and tell THAT story. I dislike the idea that individual stories aren t meaningful unless they lead to something else, Gunn wrote. People not understanding this is strange to me, because Star Wars has essentially been doing this for 50 years across movies, shows, games and books, admittedly without the tonal variety. Now, this doesn t mean there isn t connectivity, he continued. The Superman Saga starts with Superman and travels into Man of Tomorrow and onward, and contains many characters we ve introduced in other stories. But that doesn t mean those other
 
-### The 3 Best Movies Streaming Free on YouTube This Week
-Sun, 25 Oct 2026 19:06:26 +0000 — https://www.thewrap.com/creative-content/what-to-watch/best-movies-free-on-youtube-this-week-oct-25-31/
+### Tech News Outlet Rest of World Faces Shutdown After 6 Years
+Mon, 26 Oct 2026 14:48:53 +0000 — https://www.thewrap.com/media-platforms/journalism/rest-of-world-tech-news-outlet-shutdown/
 
-YouTube may not be known for its film library, but the platform has a surprisingly impressive collection of great movies that you can watch for free with ads. The streamer s best offerings right now include a thriller starring Harrison Ford that ranks as one of the actor s most impressive non-franchise efforts, as well as a revisionist historical drama directed by Clint Eastwood that is likely to change the way you see the entire Western genre. If neither of those movies appeals to you, YouTube also has a 2014 sci-fi blockbuster that features one of Tom Cruise s most playful and against-type performances. Here are the three best movies on YouTube you can stream for free right now. The Fugitive (Warner Bros.) The Fugitive (1993) A chase thriller for the ages, 1993 s The Fugitive is one of the best blockbusters of the 1990s. Based on the 1960 TV series of the same name, director Andrew Davis star-driven thriller follows an accomplished doctor (Harrison Ford) who is framed for the murder of his wife and sentenced to death only to escape police custody following a prison bus crash. As he attempts to clear his name and uncover the real identity of his wife s killer, he is pursued by a maniacally driven, relentless U.S. Deputy Marshal (Tommy Lee Jones). The Fugitive mines gold out of the clash between Ford s Richard Kimble and Jones Samuel Gerard, delivering an action movie that is as superficially entertaining as it is dramatically compelling. It effortlessly holds your attention 
+Rest of World, the nonprofit technology news outlet founded by Sophie Schmidt, plans to stop publishing independently in January unless it finds a new home, just six years after launching with a $60 million funding commitment. The publication, which focuses on technology s impact outside the Western world, has experienced a sharp decline in website traffic over the past 18 months, Semafor reported Sunday . Schmidt, the daughter of former Google CEO Eric Schmidt, has been exploring potential partnerships with larger institutions to keep the outlet operating. The threatened closure is particularly notable given Rest of World s financial backing and its mission to cover technology developments often overlooked by major U.S. news organizations. Its difficulties illustrate how even philanthropically funded publishers can struggle to sustain an audience. In a 2020 letter introducing the publication , Schmidt described its mission as documenting how technology was changing everyday life in places that received comparatively little attention from Western news outlets. Six years later, Schmidt told donors that Rest of World would cease publishing as a standalone entity at the end of January, according to New York Times media reporter Ben Mullin . Semafor reported that the publication has established a late-January wind-down date intended to allow employees to receive exit packages if efforts to secure a partner fall through. Rest of World deputy editor Rina Chandran acknowledged the p
 
-### SNL UK Jokes Pedophile Allegations Against Meghan Markle s Dad Show a Genuine Chance She s a Real Royal
-Sun, 25 Oct 2026 18:17:07 +0000 — https://www.thewrap.com/creative-content/tv-shows/snl-uk-meghan-markle-father-pedophile-allegations/
+### Eric Bauza, Looney Tunes Voice Actor for Bugs Bunny and Daffy Duck, Dies at 46
+Mon, 26 Oct 2026 14:32:56 +0000 — https://www.thewrap.com/creative-content/tv-shows/eric-bauza-dead-looney-tunes-voice-actor/
 
-Meghan Markle made headlines this week when news broke that her father allegedly keeps child abuse imagery in his home, and Saturday Night Live UK was quick to weigh in. On Saturday s installment of Weekend Update, hosts Paddy Young and Ania Magliano riffed on the allegations against Thomas Markle, joking that they simply mark the Duchess of Sussex s latest attempt to gain favorability in the U.K. In royal news, it’s been a big 24 hours for Meghan Markle, whose dad has been accused of being an alleged pedophile — in another pathetic attempt to win over the British public, Young joked, adding that her father, Thomas Markle, moved to the Philippines last year in a sure sign of his innocence. Magliano added that the allegations actually could mean Markle is a real royal. If the allegations about Meghan Markle’s father are true and he is a pedophile, there is a genuine chance Meghan could be considered royal, she said. Watch the clip from SNL UK below: Ania Magliano and Paddy Young with an update on the Markle's. #SNLUK pic.twitter.com/5iCxP2SxRX &mdash; Sky TV (@skytv) October 25, 2026 On Thursday, it was reported that Markle’s estranged father Thomas is under investigation over claims by his son alleging that he kept child abuse imagery in their shared home in the Philippines. Speaking with The Sun Thursday, Thomas Markle Jr. said he was “horrified” by what he had found and felt he had “no option” but to report his father to the local police. In a statement Friday, Meghan claim
+Eric Bauza, best known for his voice acting work on Looney Tunes, has died at the age of 46. The family of the Emmy-winning actor shared the news of his passing on Sunday in an Instagram post. Eric Bauza, Emmy Award-winning voice actor and the modern voice of iconic Looney Tunes characters Bugs Bunny and Daffy Duck, along with dozens of other beloved cartoon characters, has passed away suddenly. More details to come, the post read. According to TMZ, Bauza s cause of death was hypertensive cardiovascular disease, which is a heart condition that s tied to high blood pressure. Bauza died in his home. Bauza was a voice actor on Looney Tunes Cartoons from 2020 to 2024, where he voiced several iconic characters including Bugs Bunny, Daffy Duck, Tweety and Marvin the Martian. He also played Bugs Bunny in Bugs Bunny Builders and provided voice acting work on Teen Titans Go, The Adventures of Puss in Boots, Muppet Babies and Coyote vs. Acme. For his work on Looney Tunes Cartoons, Bugs Bunny Builders and Teen Titans Go! Bauza won three Children s and Family Emmy Awards. Eric Bauza was a unique voice talent who brought joy and laughter to millions around the world, Channing Dungey, chairman of Warner Bros. Television Group and U.S. Networks, said in a statement. He followed in the footsteps of giants like Mel Blanc. Eric said that carrying on the legendary legacy of the Looney Tunes was among the greatest honors of his life. In addition to his incredible talent, Eric was a treasured par
 
-### Duncan Crabtree-Ireland Promoted to SAG-AFTRA CEO With 4-Year Contract Extension
-Sun, 25 Oct 2026 16:49:32 +0000 — https://www.thewrap.com/culture-lifestyle/culture/duncan-crabtree-ireland-promoted-to-sag-aftra-ceo/
+### John Oliver Says Republican Party Is at a Crossroads Right Now Thanks to Rise of Right-Wing Extremism
+Mon, 26 Oct 2026 14:27:09 +0000 — https://www.thewrap.com/creative-content/tv-shows/john-oliver-republican-party-at-crossroads-with-extremism-nazis/
 
-Duncan Crabtree-Ireland, national executive director of SAG-AFTRA, has been promoted to CEO with a contract extension through 2032 after the union s national board meeting on Saturday. 98% of the board voted to approve the promotion and contract extension, keeping the longtime union executive at the actors guild after guiding it through its 2023 strike alongside then-president Fran Drescher as its chief negotiator, a role that Crabtree-Ireland will also keep. His contract had previously been set to expire in 2028. “To battle giant global transnational corporations, we need expert leadership with a track record of successful bargaining and significant operational management expertise. That is Duncan,” SAG-AFTRA President Sean Astin said in a statement. “He is a powerful executive who has led our union at the bargaining table, in the halls of congress and in boardrooms and conference rooms across the industry and the world. We are thrilled to have guaranteed Duncan’s continued service to the members of SAG-AFTRA.” “Leading SAG-AFTRA’s staff is the honor of my career, and I’m grateful for the opportunity to keep doing this work,” added Crabtree-Ireland. “As we continue fighting for human creativity, the coming years will be crucial for charting the path forward. I intend to fight alongside our leadership to make sure our members control their image, likeness, voice, and destiny in the workplace, and that they are compensated fairly in the process. I thank President Astin, the na
+As this year s midterms quickly approach, John Oliver issued an urgent warning on Sunday s episode of Last Week Tonight. According to the HBO host, the Republican party is currently at a crossroads, thanks to its open embrace of right-wing extremists in recent years. After a 2-week hiatus, Oliver returned to jump right into his main story: calling out how Nazis are seemingly infiltrating the GOP. The late night host recalled how Elon Musk apparently gave a Nazi salute to Trump supporters, Tucker Carlson platformed Nick Fuentes and more, but also called out several current candidates that concern him. That includes Peter Oberacker, a Republican candidate for New York’s 19 th congressional district, who once commemorated Veterans Day by posting a photo of his late grandfather who’d died fighting for Nazi Germany. He was even wearing his uniform in the photo, but Oberacker said it was simply the only photo he had of his grandfather. It does feel like the Republican Party has been getting way too comfortable with some, at best, Nazi-adjacent s t, Oliver said. Oliver offered the maximum benefit of the doubt for some dogwhistles, but couldn t ignore naked bigotry from others, including Senator Tommy Tuberville, Andy Ogle and Beau French. After offering a slew of even more examples, Oliver got blunt. Make no mistake, this party is at a crossroads right now, he said. Their current leader is, by the standards of both the constitution and even the most generous cardiologist, on his way
 
-### ‘60 Minutes’ Vet Bill Owens Joins Newpress as Executive Producer in $12 Million Investment Round
-Sun, 25 Oct 2026 16:48:01 +0000 — https://www.thewrap.com/media-platforms/journalism/bill-owens-60-minutes-joins-newpress/
+### Trump Tells Bill Maher Don t Call Anymore in 1,300-Word Rant Over Sleazebag Karoline Leavitt Interview
+Mon, 26 Oct 2026 13:21:53 +0000 — https://www.thewrap.com/media-platforms/politics/trump-bill-maher-white-house-dinners-karoline-leavitt-real-time/
 
-Former “60 Minutes” executive producer Bill Owens has lined up his next venture, announcing Sunday he will join independent creator-led media company Newpress as executive producer in March 2027. The move comes in tandem with a $12 million investment round led by Emerson Collective and Glick Family Investments. Owens, who departed the CBS newsmagazine last spring, will begin his new role March 1, 2027, working with Newpress co-founders Johnny and Iz Harris to develop shows and expand the company’s reporting and production operations. The investment will fund Newpress’ expansion into new subjects and formats, the recruitment of journalists and creators and the development of new programming. The company, which currently reaches more than 15 million followers across its network, plans to launch two to four creator-led shows in the coming months, with technology, finance and economics among its initial areas of focus. Its longer-term goal is to build a network of 12 to 16 channels reaching 100 million followers across digital platforms. Emerson Collective Managing Director of Media Peter Lattman will join Newpress’ board, as will Patrick Steel, the former CEO of Politico. Other investors in the round include Jesse Angelo, CEO of Checker Media; David Leavy, former chief operating officer of CNN Worldwide; and Brent Montgomery, CEO of Wheelhouse Entertainment. They join existing investor Mark Rober, the science educator and founder of CrunchLabs. The investment marks Emerson Colle
+President Donald Trump went on quite the tirade against Bill Maher over the weekend, telling the Real Time host to stop calling him for White House visits after his sleazebag interview with Karoline Leavitt on Friday. Let’s talk about this COMPLETE AND TOTAL LOSER, Bill Maher. He’s got a Low Rated Show on equally Low Rated HBO, which was once, long ago, a Network of Quality and Excitement — But that’s all gone. It’s not HOT anymore, Trump wrote Sunday on Truth Social . His 1,300-word rant further referred to the comedian as useless, a coward, fake news and much more following their second White House dinner together. When I have watched the show, which isn’t often, it always ends with dishonesty, about me at least, but, who cares? He doesn’t think it was a good thing to take the Nuclear Weapon away from Iran, which shows you that he is not very smart, Trump added, referencing recent CNN polls to prove his ratings. Bill Maher lied, but he lies about everything, and I believe he lied to me when I asked him, with all the applause and laughter he gets after almost everything he says, about things that aren’t funny or even any good, what Laughter Machine does he use? People can’t think he’s funny. I didn’t know Bill, he didn’t know me, and that was OK. The president also explained how Kid Rock and The Apprentice gofer Chuck LaBella arranged for the comedian to be invited to the White House in the first place back in 2025. His lengthy message also comes after sharing a second dinne
 
 ## Collider
 
-### The 6 Greatest Martial Arts Movies Released Since 2000, Ranked
-Mon, 26 Oct 2026 10:11:15 GMT — https://collider.com/greatest-martial-arts-movies-since-2000-ranked/
+### Forget 'Tulsa King,' This 7-Season Crime Series Deserves Another Look
+Mon, 26 Oct 2026 16:52:15 GMT — https://collider.com/tulsa-king-ray-donovan-paramount-plus-crime-thriller/
 
-I know a martial arts movie has got me when I stop admiring the technique and start worrying about the person using it. That shift is everything. A kick can be beautiful, a sword exchange can be technically flawless, and a stunt can make your jaw hit the floor, but if I do not care who gets back up, the whole thing eventually turns into choreography homework.
+Paramount+ owes much of its subscriber base to Taylor Sheridan . Starting with Yellowstone , Sheridan built a massive library of television shows, including The Mayor of Kingstown and Landman . The odd duck out might be Tulsa King , though it has less to do with Sylvester Stallone playing a hardened gangster and more with the series' reception. Over four seasons, Tulsa King has drawn mixed reviews and seen creative turnover, yet it continues on; it's even getting a spin-off later this year with Samuel L. Jackson 's Frisco King . Another Paramount+ series is a near-perfect crime thriller that will hook fans and non-fans of Tulsa King alike.
 
-### Ben Affleck’s New Crime Thriller Officially Holds Netflix’s No. 1 Spot for 2 Weeks
-Mon, 26 Oct 2026 10:00:15 GMT — https://collider.com/ben-affleck-animals-netflix-streaming-success-october-2026/
+### Netflix’s Intense Agatha Christie Mystery Takes Less Than 3 Hours to Binge
+Mon, 26 Oct 2026 16:49:24 GMT — https://collider.com/netflix-best-underrated-agatha-christie-series-seven-dials/
 
-This year has seen a lot of variety in Netflix's original movie releases . From sci-fi thrillers like War Machine and The Last House to crime thrillers like Apex and The Whisper Man , these movies have entertained viewers for weeks. The streamer has also released comedies and dramas, but viewers gravitate towards thrillers. And Netflix remains committed to releasing original movies weekly, with the latest being a star-studded crime thriller that has taken over the world. Like many Netflix movies , this one hasn't had the warmest reception from critics or fans. The consensus is almost unanimous that it is not the best movie , as shown by the 31% critics' score and the 37% audience score on Rotten Tomatoes .
+In 2023, actress Mia McKenna-Bruce moved viewers in her breakout role in the British indie film How to Have Sex . Her performance, which earned her the coveted EE Rising Star Award at the BAFTAs, set her up to be one of Hollywood's rising stars. So, of course, viewers were curious when she shifted from indie to Netflix in the platform's miniseries adaptation, Agatha Christie's Seven Dials , which premiered this past winter.
 
-### ‘Doctor Who’ Has the Perfect Answer to Its Biggest Doctor Problem
-Mon, 26 Oct 2026 09:58:15 GMT — https://collider.com/doctor-who-next-doctor-snl-uk-george-fouracres/
+### Quentin Tarantino’s 10/10 Crime Thriller Officially Pulled From Streaming
+Mon, 26 Oct 2026 16:45:15 GMT — https://collider.com/quentin-tarantino-pulp-fiction-removed-from-prime-video/
 
-Doctor Who is undergoing a major shake-up, as the 2025 season ended in a massive twist where Ncuti Gatwa 's 15th Doctor regenerated into a familiar face: Billie Piper , who previously played one of the Doctor's most stalwart companions, Rose Tyler. While Piper's surprise return sparked speculation about her becoming the next Doctor, her exact role remains unconfirmed. Former showrunner Russell T. Davies has since revealed that the regeneration twist was conceived amid uncertainty over the show's future.
+2026 is a huge year for Quentin Tarantino fans, especially those who have been waiting not-so-patiently since 2019 for news of his next movie. Tarantino is returning to the big screen soon with the release of The Further Mis-Adventures of Cliff Booth , the Once Upon a Time… in Hollywood sequel starring Brad Pitt . Leonardo DiCaprio is not expected to return as Rick Dalton in the film, but other stars like Timothy Olyphant are coming back with newcomers such as Yahya Abdul-Mateen II also tapped for key roles. Tarantino isn’t directing the film, but he did write the script and recruit David Fincher to direct, which all but guarantees that his signature style will be maintained. The Further Mis-Adventures of Cliff Booth is coming to IMAX in November before a wide release on Netflix in December.
 
-### Dwayne Johnson Officially Undergoes Shocking Transformation for New Movie
-Mon, 26 Oct 2026 09:30:15 GMT — https://collider.com/dwayne-johnson-lizard-music-benny-safdie-set-images/
+### ‘Reacher’ Star Alan Ritchson’s DC Return Officially Addressed [Exclusive]
+Mon, 26 Oct 2026 16:43:08 GMT — https://collider.com/alan-ritchson-dcu-role-potential/
 
-Dwayne Johnson underwent a physical transformation into mixed martial arts legend Mark Kerr for his last collaboration with director Benny Safdie , the biopic The Smashing Machine . Now, he's almost unrecognizable in Safdie's next movie, the fantasy family film Lizard Music . The first on-set images from the film have arrived, chronicling Johnson's performance as a septuagenarian street performer in the movie, which is slated to be released next Christmas.
+Alan Ritchson has rapidly become one of Hollywood's most in-demand stars, but that doesn't necessarily mean that he can just get every role he wants. That said, he's perhaps getting a bit closer to one of his dream jobs . The Reacher star has repeatedly expressed his interest in joining James Gunn and Peter Safran 's DC Universe , and now it seems like that goal is officially one step closer to becoming a reality for Ritchson.
 
-### Marvel's New 'Blade' Reboot Is Officially in Trouble
-Mon, 26 Oct 2026 09:00:15 GMT — https://collider.com/marvel-blade-video-game-cancellation-rumors-arkane-closure-november-13/
+### 'Star Trek’ Legend Walter Koenig Dead at 90
+Mon, 26 Oct 2026 16:42:14 GMT — https://collider.com/walter-koenig-dead-star-trek-chekov-90/
 
-The Daywalker can't catch a break these days. Two-time Oscar winner Mahershala Ali finally confirmed what was long expected this summer — the MCU's Blade movie would not be moving forward with him in the lead role. He hasn't minced words about his departure either, laying the blame squarely at Kevin Feige and Marvel Studios' feet for not moving on the project with him under contract. Marvel first introduced him as Eric Brooks all the way back in 2019 at San Diego Comic-Con, yet after years and years of delays , changing writers, and so on, it became clear that the union was never meant to be.
+Walter Koenig , the actor best known to generations of science fiction fans as Pavel Chekov on Star Trek: The Original Series , has died. Koenig would go on to appear in seven Star Trek movies, and many other science fiction productions. Koenig was 90.
 
-### 10 Great Video Games That Deserve More Credit Than They Get
-Mon, 26 Oct 2026 03:58:15 GMT — https://collider.com/best-video-games-deserve-more-credit/
+### Netflix Officially Replaces 'Reacher's Alan Ritchson in New ‘Die Hard’-Style Action Movie
+Mon, 26 Oct 2026 16:41:46 GMT — https://collider.com/maelstrom-keanu-reeves-replaces-alan-ritchson-netflix-action-movie/
 
-Video games are more popular than ever, and that is thanks to a dedicated community and the constant evolution of games themselves. From modern masterpieces like Red Dead Redemption 2 to classics such as Final Fantasy VII , this medium continues to grow and put out even more popular titles. However, in today's world, it is hard for games to simply be good, with many fans being disappointed when a game is a 7 or 8 out of 10.
+There are very few actors in Hollywood who are better at making bad guys regret their decisions than Keanu Reeves , and after spending more than a decade turning John Wick into one of the biggest action franchises around, he's preparing to do it all over again. But while the actor has become famous for fighting his way through entire armies of criminals, his latest project is going to make things considerably more difficult by throwing a massive hurricane into the mix. And he's stepping into the shoes of another action star who knows a thing or two about making people regret picking a fight with him.
 
-### ‘Smallville’ Star’s Forgotten 21-Episode Sci-Fi Reboot Deserves Your Next Binge
-Mon, 26 Oct 2026 03:24:14 GMT — https://collider.com/smallville-star-flash-gordon-forgotten-sci-fi-reboot/
+### New 'X Files' Replacement Series Officially Brings 'Game of Thrones' Star Back to TV
+Mon, 26 Oct 2026 16:33:37 GMT — https://collider.com/the-black-tapes-tv-series-nikolaj-coster-waldau-mgm-plus/
 
-In the early 2000s, there were plenty of one-and-done shows that came and went without much fanfare at all. But there's only one full-season television program that attempted to slow-burn the pulpy science fiction of yesteryear before trickling to an end with hardly any impact. The series in question? SyFy's often maligned take on Flash Gordon . Okay, if you’ve heard anything about this show you’re probably rolling your eyes. However, the Eric Johnson -led reboot isn’t as bad as it seems. Eventually, the series found its voice and became one of the most misunderstood sci-fi shows of the decade.
+MGM+ is reaching the end of an era with its horror hit From nearing its final chapter. Premiering back in 2022, the Lost -like series starring Harold Perrineau has grown from a hidden gem stashed within the smaller streaming service to easily one of its most recognizable properties, praised for its blend of terror and ever-unfolding mysteries. Season 5 has been announced as its last , and expectations are for it to premiere sometime next year . Before then, though, the platform has found its next macabre show that will look to fill that absence with a very X-Files -like premise.
 
-### Forget ‘The Wire,’ HBO’s Ambitious Crime Thriller Is Still One of Its Best 29 Years Later
-Mon, 26 Oct 2026 03:24:14 GMT — https://collider.com/the-wire-hbo-replacement-oz-series/
+### ‘The Social Reckoning’ Officially Removed From 2,000 Theaters
+Mon, 26 Oct 2026 16:30:15 GMT — https://collider.com/social-reckoning-box-office-bomb-removed-from-2000-theaters/
 
-HBO continues to be the premium network that keeps on giving. With recent entries such as The Pitt and the revolving door of Game of Thrones spin-offs , there is no shortage of entertainment. Since there have been decades of content that shows network television how it's done, it can be easy for some series to get lost in the shuffle. The shining example of HBO gems that should not be forgotten is the one that started it all .
+Audiences appear to have unfriended The Social Reckoning at the box office, following its drastic removal from 2,000 theaters this week. The movie, marketed as a follow-up to the 2010 classic The Social Network , underperformed in its first two weeks of release, causing Sony to put it out of its misery. Not only has the film fallen short of The Social Network 's box-office performance from 16 years ago, but it has also received mediocre reviews despite being pegged as an awards contender. Much was said about Jeremy Strong 's method-acting performance as Mark Zuckerberg in the film, but audiences were surprised to discover that Strong's screen time is rather limited.
 
-### 6 HBO Miniseries Endings That Are Genuine Masterpieces
-Mon, 26 Oct 2026 03:22:15 GMT — https://collider.com/hbo-miniseries-endings-masterpieces/
+### ‘Street Fighter’ Suffers Brutal 72% Box Office Collapse in Its Second Weekend
+Mon, 26 Oct 2026 16:15:15 GMT — https://collider.com/street-fighter-box-office-47-million/
 
-HBO has offered some of the best TV miniseries on television of the last 20+ years. From beginning to end, the best of the best keep you intrigued. You'd be hard-pressed to find anything to complain about when it comes to the stories. But the miniseries that really stand out are the ones that end so strongly that you feel a rush of relief wave over you. This isn't because it's over, not even because it's a satisfying happy ending. It's because the ending wrapped up the way it should . It's as if you're closing the final page of a book after finishing the last chapter and have time to think about what you just read or, in this case, watched.
+With fresh competition from DC's Clayface , which topped the domestic box office this past weekend with a $24 million haul, the reigning champion, Street Fighter , plummeted down the leaderboard. Street Fighter topped the weekend box office chart in its first weekend of release, grossing $30 million despite mediocre reviews . The video game adaptation had aimed to overtake this year's Mortal Kombat II , which grossed $38 million in its domestic debut and concluded its box office run with around $80 million in the bank. Mortal Kombat II is viewed as an underperformer, and as things stand, Street Fighter is destined to fall in the same bracket.
 
-### The 72 Best Movies on Netflix Right Now
-Mon, 26 Oct 2026 02:27:14 GMT — https://collider.com/best-movies-on-netflix-streaming/
+### Xbox Is Officially Removing the Biggest Star Wars Game Ever Made
+Mon, 26 Oct 2026 16:01:13 GMT — https://collider.com/lego-star-wars-skywalker-saga-leaving-xbox-game-pass-october-2026/
 
-Fall is finally here, and there's no better way to ring in the colder weather than by staying in and having a great movie night. As temperatures drop, the number of movies on Netflix only gets higher, from fan-favorite romances like Set It Up to recent additions like Sacrifice and Animals . Whether you're looking for something deep and thought-provoking or light for the whole family, there are a plethora of incredible films on Netflix.
+LEGO Star Wars : The Skywalker Saga gives players plenty of reasons to get distracted on the way to saving the galaxy. TT Games’ sprawling adventure turns all nine mainline movies into playable stories, with familiar planets inviting exploration between missions. Finishing the movies still leaves a considerable amount of Star Wars to work through, especially for anyone determined to unlock their favorite characters.
 
