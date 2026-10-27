@@ -19,7 +19,6 @@ artistView:
     - "Asset discipline: 142,000 unique parts, each tied to a frame of a specific shot, is a versioning problem before it is an art problem, and the studio appears not to have lost the thread of it."
   misses:
     - "Replacement animation: the technique carries a built-in tell, a micro-pop as one face swaps for the next and a seam where the face meets the skull, which is why the magnets and the cleanup pass exist at all."
-draft: true
 ---
 
 On *Coraline*, in 2009, Laika printed about 20,000 replacement faces and then
