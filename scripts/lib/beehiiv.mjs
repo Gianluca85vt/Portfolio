@@ -32,7 +32,8 @@ export async function newsletterStats() {
   const key = (process.env.BEEHIIV_API_KEY ?? '').trim();
   const pub = (process.env.BEEHIIV_PUBLICATION_ID ?? '').trim();
   if (!key || !pub) {
-    problem = 'mancano BEEHIIV_API_KEY o BEEHIIV_PUBLICATION_ID tra i segreti di GitHub';
+    const missing = [!key && 'BEEHIIV_API_KEY', !pub && 'BEEHIIV_PUBLICATION_ID'].filter(Boolean).join(' e ');
+    problem = `${missing} non ${missing.includes(' e ') ? 'arrivano' : 'arriva'} al workflow: su GitHub va salvato come "Repository secret" sotto Settings → Secrets and variables → Actions, con il nome esatto`;
     return null;
   }
 

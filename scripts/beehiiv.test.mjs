@@ -54,7 +54,7 @@ test('a refused key and a wrong ID say so, in words he can act on', async () => 
 test('missing secrets are named, and pasted whitespace is trimmed', async () => {
   delete process.env.BEEHIIV_API_KEY;
   assert.equal(await newsletterStats(), null);
-  assert.match(beehiivProblem(), /mancano/);
+  assert.match(beehiivProblem(), /BEEHIIV_API_KEY non arriva/);
 
   process.env.BEEHIIV_API_KEY = '  key-for-tests\n';
   process.env.BEEHIIV_PUBLICATION_ID = 'pub_abc \n';
