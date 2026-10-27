@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Scope: hotkeys and menus are the visible tenth of a DCC. Scene translation, render-farm behaviour and twenty years of plugins are the parts nobody rebuilds in a week, and nothing in the coverage claims he did."
     - "Verification: the .max loading and the 4x cold start are one artist's numbers on one machine, with nobody else having opened the same files. On a format with no public specification, that is the claim I would want checked first."
-draft: true
 ---
 
 Every studio has the argument. Somebody suggests Blender, somebody who has
