@@ -19,7 +19,6 @@ artistView:
     - "Modelling: a smooth, near-mannequin skull keeps the topology clean, so the model can be reused across a whole series without fighting it."
   misses:
     - "Faces: in close-up the 2017 trailer shows a mesh that cannot lie about anatomy the way a drawing can, and Orange has spent the years since redrawing faces by hand to get round it."
-draft: true
 ---
 
 Land of the Lustrous is the show people reach for when they want to argue that
