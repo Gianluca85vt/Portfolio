@@ -1,66 +1,66 @@
-# Manga — harvested 2026-10-26T16:59:16.896Z
+# Manga — harvested 2026-10-27T10:02:37.555Z
 
 ## Anime News Network
 
-### Overgeared ‒ Episode 5
-Mon, 26 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/overgeared/episode-5/.243194
+### Pokémon Unite Game Ends Service on March 23, 2027
+Tue, 27 Oct 2026 02:24:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239
 
-<i>Satisfy</i> might not be a gatcha; that doesn't make Grid any more immune to the RNG of success rates.
+Franchise's 1st strategic team-based battle game launched in 2021
 
-### Heaven Official's Blessing Volumes 2-3 Manhua Review
-Mon, 26 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/heaven-official-blessing/volumes-2-3/.242864
+### Ashita no Joe Creator Tetsuya Chiba Dies at 87
+Tue, 27 Oct 2026 00:02:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235
 
-The fact that this series has hardcover and paperback releases, a donghua adaptation, and a manhua should tell you something: a lot of people love this story.
+Best known for influential 1968-1973 boxing manga <cite>Ashita no Joe</cite>, anime adaptations
 
-### Ranma ½ Season 3 ‒ Episode 4
-Mon, 26 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/ranma-season-3/episode-4/.243192
+### Live-Action High School Family: Kokosei Kazoku Film's Clip Shows Festival Concert
+Mon, 26 Oct 2026 22:31:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/live-action-high-school-family-kokosei-kazoku-film-clip-shows-festival-concert/.243230
 
-At least this version’s brisk pace adapts the entire tiresome thing into a single episode rather than stretching it out over more.
+Clip features original song "Kizuna"
 
-### Yukari Kaneko's Hanarabeez Original Character Gets 3-Episode Short Anime
-Mon, 26 Oct 2026 11:20:10 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/yukari-kaneko-hanarabeez-original-character-gets-3-episode-short-anime/.243197
+### Sora Karin, Kentaro Harada Launch The Pit of Darkness Manga
+Mon, 26 Oct 2026 22:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/sora-karin-kentaro-harada-launch-the-pit-of-darkness-manga/.243193
 
-1st episode of short anime about teeth's daily life by animation studio DLE streamed on Monday
+Manga launched on Saturday
 
-### Be the Main Character of Your Own Story this Halloween with OOC: The Playable Anime
-Mon, 26 Oct 2026 11:00:00 -0400 — https://www.animenewsnetwork.com/advertorial/2026-10-26/be-the-main-character-of-your-own-story-this-halloween-with-ooc-the-playable-anime/.243131
+### Fortnite Game Teases One Piece Collaboration
+Mon, 26 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-26/fortnite-game-teases-one-piece-collaboration/.243202
 
-Tired of reading stories with the same predictable outcomes? Do you get frustrated when characters never react how you might in a situation? OOC: The Playable Anime lets you take the story down any twists and turns you desire
+Just before 1st official <cite>One Piece</cite> store in U.S. opens in Los Angeles
 
-### Looney Tunes Voice Actor Eric Bauza Dies at 46
-Mon, 26 Oct 2026 10:46:39 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/looney-tunes-voice-actor-eric-bauza-dies-at-46/.243204
+### Precure Franchise Gets Spinoff TV Anime Dual Shadow ~Precure Villain Heroines~
+Mon, 26 Oct 2026 20:35:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/precure-franchise-gets-spinoff-tv-anime-dual-shadow-~precure-villain-heroines~/.243229
 
-Bauza died due to hypertensive cardiovascular disease according to records
+Anime debuts in 2027 with original story, characters
 
-### Romelia War Chronicle ‒ Episode 4
-Mon, 26 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/romelia-war-chronicle/episode-4/.243188
+### Itsuwari no Kenta Manga Ends Next Chapter
+Mon, 26 Oct 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/itsuwari-no-kenta-manga-ends-next-chapter/.243213
 
-Is Ray even truly cut out for the work of a mage, or does his (thankfully) metaphorical stat-sheet indicate that he's built for more defensive hacking and slashing?
+Series debuted in December 2025
 
-### The World's Strongest Witch Anime Casts Yukana, Azusa Tadokoro
-Mon, 26 Oct 2026 10:16:56 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/the-world-strongest-witch-anime-casts-yukana-azusa-tadokoro/.243196
+### Uoyama's Kimi to Issho ni Kayoitai Manga Ends on November 13
+Mon, 26 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/uoyama-kimi-to-issho-ni-kayoitai-manga-ends-on-november-13/.243187
 
-Both new cast members voice characters debuting on episode 4 on Wednesday
+Series debuted in July 2025
 
-### Black Clover Season 2 ‒ Episode 174
-Mon, 26 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/black-clover-season-2/episode-174/.243176
+### Magical Girl Raising Project F2P Manga Spinoff Ends in 5th Volume
+Mon, 26 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/magical-girl-raising-project-f2p-manga-spinoff-ends-in-5th-volume/.243191
 
-While I didn’t outright dislike this episode, I wish it packed a little more punch.
+Manga launched in 2016, entered long hiatus from October 2017 until February 2026
 
-### 'As a Reincarnated Aristocrat, I'll Use My Appraisal Skill' Season 3's 3rd Video Unveils New Arc, More Cast
-Mon, 26 Oct 2026 09:01:28 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-season-3-3rd-video-unveils-new-arc-more-cast/.243205
+### Sho Yamazaki Launches New Manga with Fuyu Aoki
+Mon, 26 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/sho-yamazaki-launches-new-manga-with-fuyu-aoki/.243189
 
-"Fujimiya Family Arc" starts in episode 6 on November 1
+<cite>Shuran Reijō no Yarakashi: Seiryaku Kekkonmae Yakesake, Ki ga Tsuku to Reikokuna Konyakusha to Dragon no Hate no Naka</cite> debuts on October 30
 
-### Fall 2026 Manga Guide
-Mon, 26 Oct 2026 09:00:00 -0400 — https://www.animenewsnetwork.com/seasonal/2026/fall/manga/.240231
+### EAT-MAN The Over Order New Anime Gets Spinoff Manga Series
+Mon, 26 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/eat-man-the-over-order-new-anime-gets-spinoff-manga-series/.243206
 
-It's the Fall 2026 Manga Guide! Come check out our reviewers' thoughts on the latest releases, including a stellar adaptation of Agatha Christie's <b>And Then There Were None</b>!
+Akihito Yoshitomi to launch <cite>Desert-Dessert From EAT-MAN The Over Order</cite> manga on November 26
 
-### The Eternal Fool's Words of Wisdom Anime Casts Minori Fujidera
-Mon, 26 Oct 2026 08:55:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/the-eternal-fool-words-of-wisdom-anime-casts-minori-fujidera/.243200
+### Manga Mavericks Books Licenses Gago Hunters Manga
+Mon, 26 Oct 2026 15:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/manga-mavericks-books-licenses-gago-hunters-manga/.243216
 
-Fujidera joins cast of January 2027 series as Rina
+Company also unveils variant cover for <cite>Brothers of Japan</cite> manga
 
 ## Crunchyroll News
 
@@ -123,14 +123,19 @@ Sun, 25 Oct 2026 10:51:35 GMT — https://animecorner.me/date-a-live-f-last-date
 
 DATE A LIVE F Last Date anime film revealed a new key visual and trailer, along with a March 26, 2027 theatrical release date in Japan.
 
-### Genshin Impact Version 7.2 Unites Teyvat's Seven Nations Against Looming Annihilation
-Sun, 25 Oct 2026 01:43:48 GMT — https://animecorner.me/genshin-impact-version-7-2-unites-teyvats-seven-nations-against-looming-annihilation/
-
-Genshin Impact Version 7.2, "Hour of Ruin," will arrive on November 4. As the&hellip;
-
 ## MyAnimeList News
 
-### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Unveils Additional Cast, Third Promo for Fujimiya Family Arc
+### Phantom Busters Announces Main Cast, Staff
+Tue, 27 Oct 2026 02:39:46 -0700 — https://myanimelist.net/news/74870618?_location=rss
+
+The official website for the television anime adaptation of Shoco s Phantom Busters manga revealed the main cast, staff, and a teaser visual (pictured). The anime series will premiere in 2027. Cast Mogari Shishikuno: Nobuhiko Okamoto (Boku no Hero Academia) Eugene Korekishi: Natsuki Hanae (Kimetsu no Yaiba) Kaoru Kanzaki: Kouki Uchiyama (Horimiya) Koutarou Tamon: Ryouta Suzuki (Kaguya-sama wa Kokurasetai) Staff Director: Chika Nagaoka (Tamon-kun Ima Docchi!?) Character Design: Takahiro Kish...
+
+### Ashita no Joe Manga Artist Tetsuya Chiba Dies at 87
+Mon, 26 Oct 2026 21:57:02 -0700 — https://myanimelist.net/news/74869899?_location=rss
+
+Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fighting for Tomorrow) manga, died on October 27. He was 87. Born in Tokyo in January 1939, Chiba made his professional debut with Fukushuu no Semushi in 1956. Following the end of World War II, he returned to Japan with his family after spending childhood in Manchuria, northeastern China. Chiba drew manga for various magazines early in his career. In January 1967, he began drawing for Ikki Kajiwara s Ashita no Jo...
+
+### Tensei Kizoku, Kantei Skill de Nariagaru 3rd Season Unveils Additional Cast, Third Promo for "Fujimiya Family" Arc
 Mon, 26 Oct 2026 02:44:09 -0700 — https://myanimelist.net/news/74865718?_location=rss
 
 The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...
@@ -149,11 +154,6 @@ The Fantasia Bunko Daikanshasai 2026 event revealed the lead cast and a teaser v
 Sun, 25 Oct 2026 03:30:02 -0700 — https://myanimelist.net/news/74860120?_location=rss
 
 The Fantasia Bunko Daikanshasai 2026 event announced a third season for the Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen (Our Last Crusade or the Rise of a New World) anime series on Sunday, revealing the main staff, cast, and a teaser visual (pictured). Staff Director, Series Composition: Yuki Inaba (Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II) Character Design: Kaori Yoshikawa (Kaminaki Sekai no Kamisama Katsudou) Studio: Studio Palette, Silve...
-
-### Akane-banashi 2nd Season Reveals Additional Cast, Teaser Promo
-Sun, 25 Oct 2026 02:53:07 -0700 — https://myanimelist.net/news/74860669?_location=rss
-
-The special livestream presentation for the television anime adaptation of Yuuki Suenaga and Takamasa Moue s Akane-banashi manga revealed a pair of additional cast, key visual (pictured), and teaser promotional video for the second season on Sunday. The anime series will begin airing on the IMAnimation programming block on TV Asahi s 24 affiliate stations, as well as BS Asahi and other stations in January 2027. Voice actors Taku Yashiro (Fumetsu no Anata e) and Youji Ueda (Sousou no Fr...
 
 ## Otaku USA
 

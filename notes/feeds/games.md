@@ -1,6 +1,31 @@
-# Games — harvested 2026-10-26T16:59:16.896Z
+# Games — harvested 2026-10-27T10:02:37.555Z
 
 ## Eurogamer
+
+### AI fan wikis riddled with errors are muddying the waters of an already contested part of games culture
+Tue, 27 Oct 2026 10:00:41 +0000 — https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture
+
+Recently, I was writing a piece about Nighthawks and wanted to remind myself of some basic information about the companion characters. As I have a thousand times before, I put the question into Google and clicked the first result: the Nighthawks Wiki. Read more
+
+### Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more
+Tue, 27 Oct 2026 09:18:45 +0000 — https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update
+
+After a period of quiet and a few small updates , Ubisoft has unveiled a massive update coming today to Assassin's Creed Black Flag Resynced. This is the game's last major patch and it includes some long-requested features. Read more
+
+### Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards
+Mon, 26 Oct 2026 20:07:29 +0000 — https://www.eurogamer.net/mass-effect-fans-save-rpg-times-square
+
+Fans continue to rally around the 'Save Mass Effect ' movement, this time with a billboard at Times Square and more initiatives planned throughout the rest of the year. Read more
+
+### Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a "Voluntary Exit Offer" to 60,000 workers
+Mon, 26 Oct 2026 18:44:22 +0000 — https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000
+
+Xbox isn't the only Microsoft division looking to massively reduce worker headcounts. In fact, Microsoft has just announced a "Voluntary Exit Offer" that will essentially pay staff to move in front of any potential layoffs and voluntarily leave their jobs. Read more
+
+### Ghost of Yotei studio Sucker Punch reportedly lays off 26 developers "after carefully observing the challenges in the market"
+Mon, 26 Oct 2026 17:48:33 +0000 — https://www.eurogamer.net/ghost-of-yotei-sucker-punch-lays-off-developers
+
+Layoffs have reportedly hit Sucker Punch, the PlayStation-owned studio behind the Sly Cooper series, Infamous and last year's Ghost of Yotei . Read more
 
 ### The 13 scariest, spookiest video games you should play this Halloween
 Mon, 26 Oct 2026 15:29:45 +0000 — https://www.eurogamer.net/13-scariest-spookiest-video-games-this-halloween
@@ -37,32 +62,27 @@ Mon, 26 Oct 2026 09:56:30 +0000 — https://www.eurogamer.net/call-of-duty-moder
 
 Call of Duty: Modern Warfare 4 is officially out for all players, and its extraction shooter mode DMZ is looking to be particularly popular. And unsurprisingly, the mode's popularity has brought a longstanding player request back in the spotlight: many DMZ players have been asking developer Infinity Ward to provide a PvE-only variant of the extraction mode. Read more
 
-### Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back
-Mon, 26 Oct 2026 09:53:04 +0000 — https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support
-
-In the wake of EA's tragic shuttering of BioWare last week, a leader of one of Canada's New Democratic Party has spoken out about the perils of private equity, and said BioWare employees should be able to buy the studio with "federal support". Read more
-
-### Phantom Blade Zero review
-Mon, 26 Oct 2026 00:00:00 +0000 — https://www.eurogamer.net/phantom-blade-zero-review-1
-
-I wasn't around to witness the golden age of Martial Arts cinema, but there are moments in Phantom Blade Zero that make me feel as though I've tumbled through a crack in time onto the set of a kung fu film. There's one particular encounter that sticks in my mind. Approaching a group of enemies in a shaded valley, I slowly raise my sword, and the first enemy rushes at me. Fool. I perfectly parry the blow, performing a slow-motion somersault to land behind him and plant my sword firmly in his back. The next guy comes running in, and I kick him in the face while simultaneously stabbing the previous enemy in the throat. A third joins the fray - this one on horseback - so I boot him off his horse, and use his steed to trample his helpless friend into the dust. Then, at last, there is silence. Read more
-
-### 187K+ fans call for EA to "Save Mass Effect"
-Sun, 25 Oct 2026 18:50:44 +0000 — https://www.eurogamer.net/save-mass-effect-petition
-
-A petition created to save BioWare's well-loved sci-fi RPG, Mass Effect , has topped 187,000 signatures. Read more
-
-### Call of Duty movie will explore the "cost of war", says director
-Sun, 25 Oct 2026 18:12:35 +0000 — https://www.eurogamer.net/call-of-duty-movie-cost-of-war
-
-The Call of Duty movie will explore "the cost of war" and probably won't be as graphically violent as director Peter Berg's upcoming Netflix film, The Mosquito Bowl. Read more
-
-### Elden Ring movie has a budget of nearly $200 million
-Sun, 25 Oct 2026 16:37:14 +0000 — https://www.eurogamer.net/elden-ring-movie-a24-budget-200-million
-
-A24's live-action Elden Ring movie is reportedly set to cost almost $200 million, making it the most expensive film the studio has ever made. Read more
-
 ## GamesIndustry.biz
+
+### Xbox staff among up to 60,000 Microsoft employees offered voluntary exit
+Mon, 26 Oct 2026 21:34:00 +0000 — https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit
+
+Microsoft is offering voluntary exit to employees. Read more
+
+### Epic Games CEO calls Steam's AI disclosure policies "a political act"
+Mon, 26 Oct 2026 19:54:19 +0000 — https://www.gamesindustry.biz/epic-games-ceo-calls-steams-ai-disclosure-policies-a-political-act
+
+CEO of Epic Games, Tim Sweeney, has once again slammed Steam's AI disclosure policy, calling the company's position on AI disclosure "a political act". Read more
+
+### Auroch Digital lays off a quarter of its staff
+Mon, 26 Oct 2026 18:20:01 +0000 — https://www.gamesindustry.biz/auroch-digital-lays-off-a-quarter-of-its-staff
+
+Auroch Digital has laid off approximately a quarter of its staff. Read more
+
+### 223,000+ people sign petition to "save Mass Effect"
+Mon, 26 Oct 2026 18:05:17 +0000 — https://www.gamesindustry.biz/223000-people-sign-petition-to-save-mass-effect
+
+Over 223,000 people have signed a petition asking EA to "save Mass Effect." Read more
 
 ### Paris Games Biz showcased a guarded optimism in the face of turmoil, both locally and in the industry at large | Opinion
 Mon, 26 Oct 2026 16:33:59 +0000 — https://www.gamesindustry.biz/paris-games-biz-showcased-a-guarded-optimism-in-the-face-of-turmoil-locally-and-in-the-industry-at-large-opinion
@@ -100,6 +120,46 @@ _Nothing in the last 48 hours._
 
 ## Push Square
 
+### Final 3 PS Plus Extra Games for October 2026 Available to Download Now
+Tue, 27 Oct 2026 09:00:00 GMT — https://www.pushsquare.com/news/2026/10/final-3-ps-plus-extra-games-for-october-2026-available-to-download-now
+
+New additions for UK, USA, and Japan out now. For any PS Plus Extra subscribers in the UK, USA, and Japan, today marks the final drop of PS5 titles for October 2026. Everyone else in the world received access to the games last week, but Sony's experiment means select members have had to wait until today for the complete lineup. Read the full article on pushsquare.com
+
+### Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump
+Mon, 26 Oct 2026 21:30:00 GMT — https://www.pushsquare.com/news/2026/10/rare-insight-into-ps5-sales-pattern-reveals-significant-wolverine-bump
+
+Good job, bub. Circana sells its insight into US hardware sales, so it’s rare we get an actual glimpse into the PS5’s sales pattern quite like this. But analyst Mat Piscatella , who last week said Marvel’s Wolverine was the primary driver behind Sony’s console sales in September, has responded to the doubters with an actual graph. Read the full article on pushsquare.com
+
+### Sony s Been Quietly Introducing the Cast of Until Dawn 2 Ahead of Its PS5 Release Next Year
+Mon, 26 Oct 2026 21:00:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-been-quietly-introducing-the-cast-of-until-dawn-2-ahead-of-its-ps5-release-next-year
+
+Each one more punchable than the last. It’s a shame Until Dawn 2 couldn’t make it out in time for Halloween, but there’s no shortage of other games to play on the PS5 right now , is there? Sony is instead targeting a 28th January release date for the sequel, developed by first-party studio Firesprite. Read the full article on pushsquare.com
+
+### Rumour: Silent Hill 1 Remake Aiming for 2027 PS5 Release
+Mon, 26 Oct 2026 20:30:00 GMT — https://www.pushsquare.com/news/2026/10/rumour-silent-hill-1-remake-aiming-for-2027-ps5-release
+
+Voice cast members leaked. The remake of the PS1 survival horror classic Silent Hill is targeting a PS5 release in 2027, a new MP1st report claims. The website — which has proved increasingly reliable in the past 12 months — suggests Bloober Team and Konami are planning on putting out the remake next year. In addition, it claims that Gabrielle Fritz and Jade Matthew are part of the voice cast. Read the full article on pushsquare.com
+
+### Round Up: Phantom Blade Zero PS5 Reviews Are In, and It s Another Game of the Year Contender
+Mon, 26 Oct 2026 20:00:00 GMT — https://www.pushsquare.com/features/round-up-phantom-blade-zero-ps5-reviews-are-in-and-its-another-game-of-the-year-contender
+
+Weaponised fun. The first batch of reviews have arrived for Phantom Blade Zero , the console-exclusive PS5 action game from developer S-GAME. This is one of those titles that has always impressed whenever it's shown up, with super-expressive animation, sharp combat, and imaginative boss encounters. Read the full article on pushsquare.com
+
+### Marvel Cosmic Invasion s New DLC Adds Roguelike Mode Next Month on PS5
+Mon, 26 Oct 2026 19:00:00 GMT — https://www.pushsquare.com/news/2026/10/marvel-cosmic-invasions-new-dlc-adds-roguelike-mode-next-month-on-ps5
+
+Siege of Castle Doom dated. Dotemu and Tribute Games have finally revealed more details about the upcoming DLC for their retro-inspired beat-'em-up, Marvel Cosmic Invasion . Titled Siege of Castle Doom, the DLC pack is scheduled to launch for the PS5 and PS4 game on 10th November, 2026, as revealed in this new trailer: Read the full article on pushsquare.com
+
+### Capcom Says Onimusha: Way of the Sword Isn t Too Easy, and the Player Data Proves It
+Mon, 26 Oct 2026 18:00:00 GMT — https://www.pushsquare.com/news/2026/10/capcom-says-onimusha-way-of-the-sword-isnt-too-easy-and-the-player-data-proves-it
+
+Honed to perfection. Before its release, there was a lot of discussion around Onimusha: Way of the Sword's difficulty. Basically, some players argued that the game's demo was too easy. Enemies lacked aggression, and although Capcom promised a greater challenge in the full thing, not everyone was convinced. Read the full article on pushsquare.com
+
+### Hear About Assassin s Creed s Future This Week in Franchise Update
+Mon, 26 Oct 2026 17:30:00 GMT — https://www.pushsquare.com/news/2026/10/hear-about-assassins-creeds-future-this-week-in-franchise-update
+
+BF Resynced's New Game Plus update out tomorrow. Ubisoft will share an update on the future of the Assassin's Creed franchise later this week, in a Fall 2026 Update that is scheduled to go live on Thursday, 29th October 2026. In the broadcast, head of content Jean Guesdon will "share another update on what’s ahead for Assassin’s Creed. While there won’t be any major reveals, we want to keep you informed on the franchise’s progress." Read the full article on pushsquare.com
+
 ### Ghost of Yotei Dev Sucker Punch Hit with Layoffs as Leadership Eyes Next PlayStation Project
 Mon, 26 Oct 2026 16:45:00 GMT — https://www.pushsquare.com/news/2026/10/ghost-of-yotei-dev-sucker-punch-hit-with-layoffs-as-leadership-eyes-next-playstation-project
 
@@ -120,54 +180,34 @@ Mon, 26 Oct 2026 15:30:00 GMT — https://www.pushsquare.com/news/2026/10/save-m
 
 My favourite petition on the Citadel. Over 200,000 fans have signed an online petition to save Mass Effect . This movement began late last week, after BioWare's closure had been confirmed. The developer had been working on the next Mass Effect — seemingly codenamed Mass Effect Universe — but unsurprisingly, the project is now cancelled. Read the full article on pushsquare.com
 
-### Phantom Blade Zero PS5 Trophy List Revealed, Plot Your Way to Platinum Trophy Now
-Mon, 26 Oct 2026 15:00:00 GMT — https://www.pushsquare.com/news/2026/10/phantom-blade-zero-ps5-trophy-list-revealed-plot-your-way-to-platinum-trophy-now
-
-36 Trophies for PS5 action game. Scheduled to release on 29th October 2026, the Trophy list for Phantom Blade Zero has gone live on PS5. The full list is published on Exophase , revealing 36 Trophies — including a Platinum Trophy, of course — for players to unlock. With the launch just days away, I uploaded my Phantom Blade Zero PS5 review overnight, awarding it a 9/10 score and saying: "An intense and fast-paced combat system is the star, with so much variety backing it and incredible enemies to test it." Read the full article on pushsquare.com
-
-### Final Fantasy s 40th Anniversary Album Picks Just One Track from Each Main Game, and It ll Split Fan Opinion
-Mon, 26 Oct 2026 14:30:00 GMT — https://www.pushsquare.com/news/2026/10/final-fantasys-40th-anniversary-album-picks-just-one-track-from-each-main-game-and-itll-split-fan-opinion
-
-There can only be one. Square Enix has announced Final Fantasy 40th Anniversary: The Crystal Edition — a 16-track series-spanning album that's out in January. Hold on, 16 tracks? Is that all? Yep, it's made up of just one track per mainline Final Fantasy game. Read the full article on pushsquare.com
-
-### Round Up: Modern Warfare 4 Is the Highest-Rated Call of Duty in 15 Years
-Mon, 26 Oct 2026 14:00:00 GMT — https://www.pushsquare.com/features/round-up-modern-warfare-4-is-the-highest-rated-call-of-duty-in-15-years
-
-Reviews are in. This year's rendition of Call of Duty has arrived, and with it the first batch of reviews. It seems this might be one to pay attention to, as Call of Duty: Modern Warfare 4 is the highest-rated entry in the series in 15 years. With a Metascore of 86, it's the best-reviewed game in the long-running franchise since Call of Duty: Modern Warfare 3 (2011), which managed an 88 . Read the full article on pushsquare.com
-
-### Sony s PS6 Handheld May Be More Capable Than Every Other Device on the Market
-Mon, 26 Oct 2026 13:45:00 GMT — https://www.pushsquare.com/news/2026/10/sonys-ps6-handheld-may-be-more-capable-than-every-other-device-on-the-market
-
-"An exclusive of sorts" on AMD's cutting-edge architecture. There’s understandable concern about the price of next-gen hardware, and I think that’s undoubtedly going to dominate discussion around the PS6. But let’s not forget that Sony tends to make incredible consoles, and it’s going to be exciting to see what the Japanese giant achieves with its new devices. Read the full article on pushsquare.com
-
-### Tomb Raider s PS5 Remake Tipped to Be Just as Long as the PS1 Classic
-Mon, 26 Oct 2026 13:00:00 GMT — https://www.pushsquare.com/news/2026/10/tomb-raiders-ps5-remake-tipped-to-be-just-as-long-as-the-ps1-classic
-
-Spend roughly 15 hours as Lara Croft. When I was doing research for this article, I had it in my head the original Tomb Raider on PS1 was likely a maximum of eight hours long, like most action-adventure titles of the generation. To my surprise, though, checking How Long to Beat revealed it to be a meaty adventure at roughly 15 hours long! Read the full article on pushsquare.com
-
-### Guide: These 46+ PS5 and PS Plus Games Are Coming Out This Week (26th-1st November)
-Mon, 26 Oct 2026 12:45:00 GMT — https://www.pushsquare.com/guides/these-46plus-ps5-and-ps-plus-games-are-coming-out-this-week-26th-1st-november
-
-Phantom Blade Zero! The Wolf Among Us! STEINS;GATE! The PS5 release schedule is absolutely, utterly stacked this week – in fact, this is the biggest update I think I’ve put together since we started this series. There should be no guesses about the biggest new game: it’s unquestionably Phantom Blade Zero , from Chinese dev S-GAME. Read the full article on pushsquare.com
-
-### Amazon Prime Turns Fallout Shelter into a Competition TV Show
-Mon, 26 Oct 2026 12:30:00 GMT — https://www.pushsquare.com/news/2026/10/amazon-prime-turns-fallout-shelter-into-a-competition-tv-show
-
-Debuts on 13th January 2027. With its main Fallout TV series an absolute hit, with two seasons already under its belt, Amazon Prime is expanding its scope with another adaptation, this time of the management sim spin-off, Fallout Shelter . In that game, which eventually came to PS4, you took up the role of Overseer in a vault and looked after your citizens. You'd give them food, homes, power, and generally the best life possible while expanding the vault with new rooms and functions. Read the full article on pushsquare.com
-
-### EA Scrubbing Mass Effect from Other Games as Series Starts to Die Off
-Mon, 26 Oct 2026 12:00:00 GMT — https://www.pushsquare.com/news/2026/10/ea-scrubbing-mass-effect-from-other-games-as-series-starts-to-die-off
-
-Future cosmetics for Battlefield 6 event removed. Unless another studio receives the license or the IP is bought out entirely, it seems the Mass Effect series is no more. EA has cancelled the next entry in the RPG franchise and shut down the storied developer making it, BioWare. Now, the publisher is removing its name and branding from other titles , as it was supposedly set to feature in Battlefield 6 soon. Read the full article on pushsquare.com
-
 ## Game Developer
+
+### Xbox reportedly turned down a $500 million deal from Netflix to adapt its video game properties
+Mon, 26 Oct 2026 18:45:00 GMT — https://www.gamedeveloper.com/business/xbox-reportedly-turned-down-a-500-million-deal-from-netflix-for-adapting-gaming-properties
+
+A new report states that Netflix was looking to adapt a host of Xbox properties for a $500 million deal, but Xbox turned the streaming company down in hopes of upping the number.
 
 ### Xbox's first-ever COO is out after just three months
 Mon, 26 Oct 2026 16:24:59 GMT — https://www.gamedeveloper.com/console/xbox-coo-helen-chiang-leaves-role-shortly-after-its-creation
 
 Three months after the role was created, cited by Xbox CEO Asha Sharma as necessary to make Xbox less fragmented, the inaugural Xbox COO is leaving her position with little fanfare.
 
+### Obituary: Voice actor Eric Bauza has passed away at 46
+Mon, 26 Oct 2026 15:24:51 GMT — https://www.gamedeveloper.com/audio/obituary-voice-actor-eric-bauza-has-passed-away-at-46
+
+The voice behind Bugs Bunny, Daffy Duck, and a host of other well-loved characters has passed away suddenly at age 46.
+
 ## VGC
+
+### Pokémon s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed
+Tue, 27 Oct 2026 09:34:20 +0000 — https://www.videogameschronicle.com/news/pokemons-free-to-play-moba-pokemon-unite-is-shutting-down-the-pokemon-company-has-confirmed/
+
+Microtransactions and monthly Unite Club membership payments have ended as of today… Source
+
+### Grammy-winning composer uploads Mass Effect 5 music following cancellation news
+Mon, 26 Oct 2026 22:07:18 +0000 — https://www.videogameschronicle.com/news/grammy-winning-composer-uploads-mass-effect-5-music-following-cancellation-news/
+
+Austin Wintory made more than 20 minutes of Mass Effect 5 music in a pitch to BioWare… Source
 
 ### Ghost of Yotei studio Sucker Punch reportedly lays off more than two dozen staff as it prepares for its next project
 Mon, 26 Oct 2026 16:48:55 +0000 — https://www.videogameschronicle.com/news/ghost-of-yotei-studio-sucker-punch-reportedly-lays-off-more-than-two-dozen-staff-as-it-prepares-for-its-next-project/
@@ -209,131 +249,136 @@ Mon, 26 Oct 2026 11:29:36 +0000 — https://www.videogameschronicle.com/news/the
 
 Manni L. Perez smiled and didn't read out comments about Rockstar' Source
 
-### Save Mass Effect petition cracks 200,000 signatures as fans plead for the series to continue
-Mon, 26 Oct 2026 10:28:31 +0000 — https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/
-
-EA announced last week that Mass Effect studio BioWare is closing… Source
-
-### Helldivers 3 isn t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says
-Mon, 26 Oct 2026 09:57:36 +0000 — https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/
-
-Making Helldivers 2 better every day makes way more sense than throwing away its momentum" Source
-
 ## Polygon
 
-### Xbox Studio On Brink of Closure Gets More Time To Find a Home and Finish Marvel's Blade
-Mon, 26 Oct 2026 16:46:50 GMT — https://www.polygon.com/arkane-lyon-shutdown-delayed-dishonored-blade/
+### Adult Fairy Tales: The Best of the Best
+Tue, 27 Oct 2026 10:01:19 GMT — https://www.polygon.com/happily-never-after-adult-fairy-tales-week/
 
-The last few months at Xbox Studios have been a bloodbath. Microsoft announced in July that it would be cutting 3,200 jobs from its Xbox division in the coming year and has since made over 1,800 cuts. As part of those layoffs, Xbox also announced it would cut several beloved game studios. While Double Fine, Compulsion Games, and Undead Labs managed to buy back their independence from Xbox, it seems that Hellblade developer Ninja Theory will be shutting down .
+𝔒𝔫𝔠𝔢 𝔲𝔭𝔬𝔫 𝔞 𝔱𝔦𝔪𝔢, 𝔴𝔢 𝔴𝔢𝔯𝔢 𝔞𝔩𝔩 𝔠𝔥𝔦𝔩𝔡𝔯𝔢𝔫 𝔱𝔲𝔠𝔨𝔢𝔡 𝔟𝔢𝔫𝔢𝔞𝔱𝔥 𝔱𝔥𝔢 𝔠𝔬𝔳𝔢𝔯𝔰, 𝔩𝔬𝔰𝔦𝔫𝔤 𝔬𝔲𝔯𝔰𝔢𝔩𝔳𝔢𝔰 𝔦𝔫 𝔱𝔞𝔩𝔢𝔰 𝔬𝔣 𝔢𝔫𝔠𝔥𝔞𝔫𝔱𝔢𝔡 𝔣𝔬𝔯𝔢𝔰𝔱𝔰. 𝔒𝔯 𝔪𝔞𝔶𝔟𝔢 𝔴𝔢 𝔧𝔲𝔰𝔱 𝔴𝔞𝔱𝔠𝔥𝔢𝔡 𝔱𝔥𝔢 𝔇𝔦𝔰𝔫𝔢𝔶 𝔞𝔫𝔦𝔪𝔞𝔱𝔢𝔡 𝔳𝔢𝔯𝔰𝔦𝔬𝔫𝔰? 𝔈𝔦𝔱𝔥𝔢𝔯 𝔴𝔞𝔶, 𝔫𝔢𝔞𝔯𝔩𝔶 𝔢𝔳𝔢𝔯𝔶𝔬𝔫𝔢 𝔦𝔫 𝔱𝔥𝔦𝔰 𝔯𝔢𝔞𝔩𝔪 𝔬𝔣 𝔯𝔢𝔞𝔩𝔦𝔱𝔶 𝔥𝔞𝔰 𝔞 𝔪𝔢𝔪𝔬𝔯𝔶 𝔬𝔣 𝔣𝔞𝔩𝔩𝔦𝔫𝔤 𝔲𝔫𝔡𝔢𝔯 𝔞 𝔣𝔞𝔦𝔯𝔶 𝔱𝔞𝔩𝔢’𝔰 𝔰𝔭𝔢𝔩𝔩. 𝔈𝔳𝔢𝔫 𝔦𝔣 𝔶𝔬𝔲’𝔳𝔢 𝔫𝔢𝔳𝔢𝔯 𝔠𝔯𝔞𝔠𝔨𝔢𝔡 𝔬𝔭𝔢𝔫 𝔱𝔥𝔢 𝔅𝔯𝔬𝔱𝔥𝔢𝔯𝔰 𝔊𝔯𝔦𝔪𝔪 𝔬𝔯 ℌ𝔞𝔫𝔰 ℭ𝔥𝔯𝔦𝔰𝔱𝔦𝔞𝔫 𝔄𝔫𝔡𝔢𝔯𝔰𝔢𝔫, 𝔱𝔥𝔢𝔦𝔯 𝔰𝔱𝔬𝔯𝔦𝔢𝔰 𝔞𝔯𝔢 𝔴𝔬𝔳𝔢𝔫 𝔦𝔫𝔱𝔬 𝔱𝔥𝔢 𝔣𝔞𝔟𝔯𝔦𝔠 𝔬𝔣 𝔬𝔲𝔯 𝔦𝔪𝔞𝔤𝔦𝔫𝔞𝔱𝔦𝔬𝔫𝔰.
 
-### 'Public Access Afterworld' Is a Brilliant Mess That 'Camp Miasma' Fans Need to Read ASAP
-Mon, 26 Oct 2026 16:30:19 GMT — https://www.polygon.com/public-access-afterworld-book-review/
+### 7 Reasons FF7 Is the Ultimate Video Game Fairy Tale
+Tue, 27 Oct 2026 10:00:18 GMT — https://www.polygon.com/ff7-final-fantasy-7-fairy-tale/
 
-As a follower of Schoenbrun’s work, I can’t help but know so much about them. I know that they used to work as a film critic before directing and writing movies. I know that they’re trans, and that their work is in constant conversation with that identity. It has propelled them to become one of the most notable voices in indie cinema.
+When you think of a fairy tale, what comes to mind? A medieval European setting, with soaring castle spires, imposing forests, brave knights, and fair maidens?
 
-### Pokémon Pokopia DLC 2 Leaks Reveal New Pokémon and More
-Mon, 26 Oct 2026 16:00:10 GMT — https://www.polygon.com/pokemon-pokopia-dlc-2-new-lineup-leaked/
+### These Two Dark Fairytales Need to Unravel on Modern Consoles
+Tue, 27 Oct 2026 10:00:18 GMT — https://www.polygon.com/american-mcgee-alice-madness-returns-console-retrospective/
 
-Pokémon Pokopia offers new ways for players to interact with their favorite Pocket Monsters. Instead of capturing and battling Pokémon , players talk with them and build them homes. It's an early Nintendo Switch 2 hit, and, unsurprisingly, Pokémon Pokopia received a new DLC expansion over the summer. More DLC is on the way in 2026, and new leaks hint at what's to come.
+The world can be a cold and dangerous place. We think about its darkest parts as we wrap ourselves in blankets and find a comfy armchair near a roaring fireplace, much like our ancestors did. Also like our ancestors, we turn to stories to understand how to survive the darkness: Don’t trust tricksters with magical powers, avoid suspicious fruit, and never venture into the woods alone.
 
-### FBI Is Officially Investigating An Unprecedented Pokémon Card Heist
-Mon, 26 Oct 2026 15:46:54 GMT — https://www.polygon.com/pokemon-tcg-psa-card-grading-theft-fbi-fedex-truck-value/
+### Wildwood channels The Decemberists' folk fairytale legacy
+Tue, 27 Oct 2026 10:00:18 GMT — https://www.polygon.com/wildwood-decemberists-folk-fairytale-legacy/
 
-Earlier in October, authorities revealed that a FedEx truck reportedly containing nearly $1 million in cards graded by the Professional Sports Authenticator had suddenly gone missing. A couple of weeks later, the apparent theft of 6,451 slabs — many of which contained Pokémon cards — is being scrutinized by the Federal Bureau of Investigation.
+“I feel like when we were first coming up with the story, we were trying to really go for the early stuff — pull from folktale and fair ytale tropes,” Meloy tells Polygon. “I think there’s so many things in the movie that, because that was really the intent from the outset, was to create a fairy tale. Inevitably, it ends up like fantasy in the context of 2026, but that’s what we were shooting for.”
 
-### Square Enix Reveals Stunning New Final Fantasy 40th Anniversary Release
-Mon, 26 Oct 2026 15:31:14 GMT — https://www.polygon.com/final-fantasy-40th-anniversary-vinyl-cd-soundtrack-announced-track-list/
+### Godzilla Minus Zero Director's Upcoming Giant Robot Movie First Cast Members Revealed
+Tue, 27 Oct 2026 09:59:30 GMT — https://www.polygon.com/grandgear-yamazaki-cast-announcement-paul-giamatti-godzilla/
 
-Since the series' inception in 1987, music has always been an integral part of Final Fantasy . Across sixteen mainline entries and countless spin-offs, the iconic RPG franchise has used music to amplify emotional moments and stories. As part of ongoing 40th anniversary celebrations, Square Enix has announced a series-spanning soundtrack that already looks like a must-buy.
+Takashi Yamazaki's Godzilla Minus Zero is not out in cinemas yet, but fans of the Japanese director already have another movie to look forward to. Grandgear , a mech action movie and the director's first English-language production, was announced in 2024, and the first cast members have just been revealed.
 
-### Nintendo Switch 2 Hackers Made a Huge Breakthrough
-Mon, 26 Oct 2026 15:26:44 GMT — https://www.polygon.com/nintendo-switch-2-hackers-jailbreak-dumping-files-modding/
+### 9 Spooky 'Far Side' Comics That Are Perfect to Read Before Halloween
+Tue, 27 Oct 2026 08:00:17 GMT — https://www.polygon.com/best-far-side-halloween-classic-monsters/
 
-With recent advances in generative AI, video game hacking and piracy are advancing faster than ever, much to the chagrin of the game industry. As Sony scrambles to release new firmware updates in response to PS5 jailbreaking efforts , Nintendo hackers are finding similar success.
+During this time of year, all the classic monsters enjoy their annual resurgence. Vampires rise from their coffins, mummies emerge from their tombs, and witches fly in on their brooms to stalk the world of the living via decorations and costumes. Many people also enjoy horror marathons of the old Universal monster movies. Given the spirit of the season, I’ve decided to dig around for nine great Far Side comic strips featuring classic monsters.
 
-### Fortnite Reveals First Look at One Piece Content
-Mon, 26 Oct 2026 15:13:07 GMT — https://www.polygon.com/fortnite-one-piece-battle-pass-luffy-ace-skins-teaser/
+### 8 Most Entertaining Sci-Fi Books of the 21st Century That Are Impossible to Put Down
+Tue, 27 Oct 2026 04:52:17 GMT — https://www.polygon.com/most-fun-sci-fi-books-21st-century-so-far/
 
-For weeks, there have been rumors that One Piece would be the centerpiece of the next Fortnite season. There was no certainty, so fans were on the edge of their seats until the last second. It wasn't until this Sunday that Epic Games put them out of their misery and unveiled the One Piece crossover season. More teasers are starting to surface, giving players a first look at the One Piece skins coming to Fortnite .
+Science fiction writers imagine humanity's future in order to explore our present and past. The best sci-fi is a mix of cautionary tale and social commentary, but books about heady topics like artificial intelligence, alien encounters, and galaxy-spanning wars are often filled with dense explanations of theoretical technologies or complex political factions. It doesn't have to be that way. While dry and heavy sci-fi can be extremely rewarding to read, the genre also offers plenty of lighter options filled with humor and adventure. If you want some laughs in your future, check out these eight extremely fun sci-fi books that grapple with modern issues facing humanity in the 21st Century.
 
-### A Paranormal Activity Game Was Canceled Right Before Launch. Now It’s the Next P.T.
-Mon, 26 Oct 2026 15:00:20 GMT — https://www.polygon.com/paranormal-activity-canceled-playable-archive-interview/
+### Major 'Avatar: Seven Havens’ Korra Reveal May Be Hiding the Truth About the Cataclysm
+Tue, 27 Oct 2026 04:00:18 GMT — https://www.polygon.com/avatar-seven-havens-big-korra-reveal-feels-like-a-total-fakeout/
 
-Now five months later, the development horror story has one final twist. Clarke is releasing the game once known as Paranormal Activity: Threshold , or at least the prototype of it. Today, you can play Playable Archive for free, a reworked version of the cancelled game’s PAX East demo that removes all references to Paranormal Activity. As Clarke explained in a video interview with Polygon ahead of today’s release, it’s a rare preservation win in an industry where so many ill-fated projects are sent to the wood chipper.
+For more than two centuries, the world of Avatar: Seven Havens has remembered Korra as the Avatar who destroyed everything. Everybody from Ellora to New Ba Sing Se has grown up hearing that story, and episode 7 seemingly gives Pavi (Saheli Khan) and Nisha (Aishu Devan) them proof: They witness their predecessor in the Avatar State, tearing apart Republic City as spiritual energy whips through its burning streets.
 
-### Street Fighter Star Reveals Disappointment with Movie’s Ending
-Mon, 26 Oct 2026 14:54:07 GMT — https://www.polygon.com/street-fighter-chun-li-callina-liang-controversial-ending/
+### Phantom Blade Zero release time in your time zone
+Tue, 27 Oct 2026 02:01:21 GMT — https://www.polygon.com/phantom-blade-zero-release-time-when-edt-pdt/
 
-Street Fighter was released in theaters this October, and, unlike Capcom's other video game movie released this year, Resident Evil , it was not a bona fide hit. Street Fighter is messy and, at times, incoherent. However, it is a good time at the movies if all you want to see is beautiful people smack each other around while '90s hits play.
+S-Game's Phantom Blade Zero is a unique action game that lets you experience the Wuxia aesthetic and fight enemies as a true legendary swordmaster. The protagonist is Soul, a powerful member of the Order who has only 66 days to find a new heart. As he travels, Soul learns about a complex network of conspiracies.
 
-### Marvel Casts 'Game of Thrones' Star for New 'X-Men' Movie, Report Says
-Mon, 26 Oct 2026 14:08:38 GMT — https://www.polygon.com/x-men-beast-casting-peter-claffey-game-of-thrones/
+### 24 Years Later, Nintendo's Most Divisive Mario Game Is a Miracle on Switch 2
+Tue, 27 Oct 2026 01:06:52 GMT — https://www.polygon.com/super-mario-sunshine-nintendo-switch-online/
 
-While Avengers: Doomsday is the MCU’s next big event, many fans are already looking ahead to Marvel’s upcoming X-Men reboot. According to a report from Knight Edge Media , Peter Claffey has been cast as Beast in the 2028 X-Men film . Claffey is an Irish actor best known for his recent portrayal of Sir Duncan in HBO’s acclaimed A Knight of the Seven Kingdoms .
+I can’t remember what I had for lunch yesterday, but I still remember the day Super Mario Sunshine launched in 2002. It was a summer's day and I couldn’t wait to line up at the GameStop in the Natick Mall to pick up my pre-ordered copy. It was getting rave reviews — a 9.4 from IGN, a 9.75 from Game Informer, perfect marks from Nintendo Power! — so it felt like an instant classic. Players at the time seemed to agree, considering that the 3D platformer would go on to become the third best-selling GameCube game of all time. Everyone loved Super Mario Sunshine.
 
 ## PC Gamer
 
-### A whole host of Steam PC games can now run locally on a jailbroken PlayStation 5, including Portal, Left 4 Dead 2, and many more
-Mon, 26 Oct 2026 16:56:44 +0000 — https://www.pcgamer.com/hardware/a-whole-host-of-steam-pc-games-can-now-run-locally-on-a-jailbroken-playstation-5-including-portal-left-4-dead-2-and-many-more/
+### The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop
+Tue, 27 Oct 2026 00:18:15 +0000 — https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/
 
-What a time to be alive. Gamers are starting to play Steam games locally on jailbroken PlayStation 5 consoles, thanks to several projects that aim to bring PC gaming to the Sony-loving masses. One such project is Playden for PS5 , which was made publicly available earlier this month. The program functions as a Steam launcher, but also creates a private Windows environment via prospero-win, a port of Wine for PlayStation 5 (via Videocardz ). The software has support for up to Direct3D 11 through DXVK and Direct3D 12 games through VKD3D-Proton, and includes a separate runtime kit for the graphics drivers, along with specific app shells for the games themselves. "It downloads a game, prepares it, and hands it to a separate PS5 app made for that game. That app starts Wine with the game's settings," says the readme on the project's GitHub page. "Because each game is its own app, it has its own tile on the PS5 Home screen, and it is isolated: its files, settings and crashes stay inside it." Reddit user Cevap has posted a video of their jailbroken PS5 playing Portal locally . "Game runs as you expect," says Cevap. "Only issue being you can’t use a mouse cursor, nor can you press ESC to go to the options. Otherwise basic controls work. What an amazing project, thank you!" In the case of Playden for PS5, the GitHub page stresses that the software is in an early alpha state, so it's probably best not to expect too much from it at this stage. The compatible games list is pretty chonky, 
+Last week's Steam Next Fest had over 8,000 demos; now Valve has revealed the 50 most-played among them. The results aren't surprising: there's lots of friendsloppy casual co-op, incremental games continue to be popular, and players have by-and-large rejected games with overt generative AI use, with only four of the games among the 50 declaring AI use in development. Here are some other factoids: 7 incremental games, including 10 Million Pixels and Unharvest 15 lighthearted or comedic co-op games (aka friendslop) including Dude, Trust Me , Oar'Some Adventures , and Banana Airways 3 survival games including Frostrail , Never Be Alone and Arctic Drive 3 games that self-describe as "cozy" including Loftia 1 MMO in ArchAge Chronicles 1 haystack slop game Among all 50 of these games, the only entry published by a traditional "blockbuster" publisher was Tropico 7, a Ubisoft affair [Oops, it's actually a Kalypso Media affair]. Teach My Little Sister How To Drive was one of the four games with AI disclosures. It leans heavily on an LLM-powered NPC which apparently cost its developer over $1,000 a day . I'm not super surprised by the list, which you can find here , and which is topped by 1-6 player "asymmetric party game" Worst Class Ever . I'm not surprised because it really does capture the zeitgeist, but it's nevertheless pretty eye-opening when you compare it to the kinds of games that dominated the event only five years ago. For example, this Reddit thread lists highlights like No
 
-### Valve adds CD-ROM support to Steam Frame kernel less than ten minutes after saying it would look into it
-Mon, 26 Oct 2026 16:11:08 +0000 — https://www.pcgamer.com/hardware/vr-hardware/valve-adds-cd-rom-support-to-steam-frame-kernel-less-than-ten-minutes-after-saying-it-would-look-into-it/
+### World of Warcraft: Forever's last-minute patch transforms its bovines into racecars capable of zooming 60% faster than everyone else
+Mon, 26 Oct 2026 23:00:36 +0000 — https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forevers-last-minute-patch-transforms-its-bovines-into-racecars-capable-of-zooming-60-percent-faster-than-everyone-else/
 
-You can truly never anticipate how one might use their tech. After a Steam Frame owner asked why the VR headset didn't work with their detachable disc drive , Valve developer gaberow said they were looking into it—and patched in kernel support mere minutes later. As spotted by Tom's Hardware , AiodensGhost asked for the feature on October 18, gaberowe responded on October 19, then made the commit to the Steam Frame kernel in less than ten minutes. If you're wondering why someone would want CD-ROM support, AiodensGhost says, "I wanted to use my Steam Frame to be able to watch a movie on the road, and thought it was no big deal to use the detachable disc drive I had on my computer." They continue, "Turns out that the Frame cannot power the player and even if it could it lacks the drivers to read a disc. Valve, this not only killed my ability to watch a movie, IT KILLED MY ABILITY TO INSTALL MY ABANDONWARE FROM 2006. You don't sell NFS Carbon anymore." The mention of Need for Speed Carbon is interesting here, as it suggests one might opt to boot up a game on the Steam Frame from a CD-ROM drive, rather than streaming one from a library. Carbon is not officially on Steam (or any legal digital storefronts as far as I can see), so the only way to legally play some games on the Steam Frame would be via an old disc. (Image credit: Future) The Steam Frame does seem primarily built for use in VR games, but given its comfort and screen, it would make sense why one might enjoy it for 2D g
+The World of Warcraft: Forever min-maxers have been arguing about the pros and cons of each playable race since the throwback MMO was announced. It isn't enough to just pick whoever looks cool for some people. They need to know how the math works out so they don't spend a hundred hours leveling a character who will do 3% less damage than the others. Admittedly, WoW: Forever will be stuck in an era where unique racial abilities and traits mattered a lot more than they do in the modern version of the MMO. Some of them directly synergize with certain classes and others just make your life a lot easier for what will be a long journey. This is probably why Blizzard is still tweaking them a week from launch day. Despite trying to balance them evenly before, Blizzard is doubling down on some racials having clear advantages for certain classes over others. You can see how this looks in today's patch notes , but you won't be able to test anything out until the WoW: Forever goes live next week. Most of the changes fit that ethos: orcs, for example, won't have an increased critical strike chance but increased pet damage for warlocks and hunters. The skyborne, the new blue elves, had their absurdly powerful Read Leyline ability that makes them regenerate health and mana faster than anyone else cut in half. It's still good, but not broken good. And then there are the tauren, the bipedal bovines who have been in WoW since the beginning, who have apparently discovered nitrous oxide. Blizzar
 
-### 'I no longer think we’re going to be able to patch all bugs' says AI Pandora's box opener Sam Altman: 'We're going to have to completely switch the defense model'
-Mon, 26 Oct 2026 15:24:27 +0000 — https://www.pcgamer.com/software/ai/i-no-longer-think-were-going-to-be-able-to-patch-all-bugs-says-ai-pandoras-box-opener-sam-altman-were-going-to-have-to-completely-switch-the-defense-model/
+### One day before launch, ARPG Emberville gets delayed until 2027
+Mon, 26 Oct 2026 21:57:24 +0000 — https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/
 
-If you've watched as many Sam Altman interviews as I have, you'll know he's not shy when it comes to recounting a previously held opinion. Speaking at the Stanford Graduate School of Business last week , the OpenAI CEO spoke about AI safety, particularly in regards to cybersecurity. "The cybersecurity..." Altman begins, before pausing. "I don't even know a dramatic enough word to use... but the problem coming towards us is still something that we have not, as organizational leaders, or countries, or individuals taken seriously." "There was a moment earlier this year where... it was like the Mythos freak out, or whatever people called it, and I think things did get somewhat better. Like, people definitely patched some bugs," the OpenAI CEO continues. "But it was another one of these cases where people didn't really intuit the exponential." "I don't think most people said, okay, the models are going to get much smarter," says Altman. "They can probably find bugs, like crazy bugs, you know, bugs that are outside of the normal threat model of what we think a hacker can do. Largely speaking, I think most organizational leaders have somewhat moved on, and the models have kept going." "And I I no longer think we're going to be able to just patch all the bugs. I think we're going to have to completely switch the defense model to using the same technology for a new kind of defense shield." (Image credit: Kyle Grillot/Bloomberg via Getty Images) "I think it's a huge safety and security
+Literally one day before it was set to launch into early access, the pixel art action RPG Emberville has been delayed so the development team can incorporate feedback from the game's recent Steam Next Fest demo. Instead of rolling out on October 27 as planned, Emberville is now set to launch on January 7. "Many of you have played our Steam Next Fest demo and shared your feedback. This means a great deal to us, and we immediately started planning more improvements," developer Cygnus Cross wrote in a Steam update . "However, some of the improvements we want to make are systems changes that can't be done quickly. Reworking bow combat, for example, would take more time than we had prior to our Early Access release even though the team is working around the clock. "After carefully considering our options, we have decided to move the release date and include some essential improvements in the Early Access launch build." The last minute delay is particularly surprising given that Cygnus Cross reaffirmed the October 27 release just a week ago, with a " what to expect " post for potential players. That included information on Emberville's planned first early access update, which was meant to include the final boss of the first biome, controller support improvements, additional languages, and more, all within a month after the game's launch. There's no overlooking the looming specter of Grand Theft Auto 6 , which launches for consoles on November 19—an arrival that's caused no small am
 
-### Call of Duty's director explains that his film will be all about the 'consequence of war' and not just a shoot-'em-up
-Mon, 26 Oct 2026 15:12:54 +0000 — https://www.pcgamer.com/movies-tv/call-of-dutys-director-explains-that-his-film-will-be-all-about-the-consequence-of-war-and-not-just-a-shoot-em-up/
+### A free 'micro' horror game from the maker of The Mortuary Assistant is basically if PT was an episode of Law and Order
+Mon, 26 Oct 2026 21:47:58 +0000 — https://www.pcgamer.com/games/horror/a-free-micro-horror-game-from-the-maker-of-the-mortuary-assistant-is-basically-if-pt-was-an-episode-of-law-and-order/
 
-The Call of Duty movie officially became a thing earlier this year , and aside from making fans of Black Ops cry out in pain it promised "an authentic and exciting" take on the Modern Warfare games. Helmed by director Peter Berg who's known for films like Lone Survivor, Battleship, and The Mosquito Bowl, he's now explained a little more about what we can expect from this movie. "This is not just 'Hey, let’s shoot them all up and shoot popcorn!'", Bergs says in an interview with Comicbook . "There’s a soul underneath it, that I understand and [Call of Duty's co-writer and producer] Taylor Sheridan understands, [it's] not quite as graphically violent as Mosquito Bowl, but there will be a very strong soul, and consequence of war within the film, called 'duty.'" (Image credit: Infinity Ward) Modern Warfare is pretty generic, even for Call of Duty, but Berg insists that it's exactly what the film needs, specifically its characters: "Captain Price, and Soap, and Ghost, and Alex—these are complicated humans." I'm certainly intrigued to see how Berg goes about adapting these iconic characters and their stories for the silver screen although any actor will have something of a mountain to climb to win over hardcore fans. "These are not—and no disrespect—cartoon characters or comic books," Berg says. "These are very nuanced storylines; like, there’s a real soul to the Modern Warfare universe… And, yes, there’s violence, and there’s hardware, and equipment, and there's killing—but undern
+Halloween is almost upon us, and if you're looking for some suitably spooky videogame fun then allow me to direct your attention to Playable Archive , a free "micro psychological horror experience" from Darkstone Digital, the solo studio behind The Mortuary Assistant. As you might expect, given the title, Playable Archive bears a number of similarities to PT, the 2014 "playable teaser" for a cancelled game in the Silent Hill series. It takes place (almost) entirely within a single home, the situation starts slow and escalates quickly, and it's the product of a game that was ultimately cancelled and will never see the light of day. "Releasing Playable Archive is really exciting, and it feels like some form of personal healing," Darkstone Digital owner Brian Clarke said. "After working for so long on something I cared so much about, it felt wrong to leave it sitting on the shelf like some cursed item. "Although the full-scale game this demo was built for will never see the light of day and many pieces of it had to be left on the cutting room floor, I feel like it’s important to honor what was built. Immortalizing the project's memory with Playable Archive is my way of doing that while offering something new from me for horror fans this Halloween as I get to work on new projects." Presented by (Image credit: Torn Banner) This article is brought to you by No More Room in Hell 2 . I took Playable Archive for a spin, and it is creepy. I'm keeping things vague to avoid spoilers, but
 
-### Steam is broken: It's still up but some users can't log in
-Mon, 26 Oct 2026 14:57:12 +0000 — https://www.pcgamer.com/games/steam-is-broken-its-still-up-but-some-users-cant-log-in/
+### The developer of one of my favorite 2020s RPGs does it because of BioWare: 'Baldur's Gate 1 is the first game I truly loved'
+Mon, 26 Oct 2026 21:31:55 +0000 — https://www.pcgamer.com/games/baldurs-gate/the-developer-of-one-of-my-favorite-2020s-rpgs-does-it-because-of-bioware-baldurs-gate-1-is-the-first-game-i-truly-loved/
 
-If you're having trouble logging into Steam today, you're not alone: Significant numbers of users are reporting that they're stuck on a "loading user data" screen that's keeping them from logging into the platform. Despite the issue persisting for several hours now, it's not clear what the problem actually is. SteamDB's Steam Status page indicates that Steam is green across the board. Down Detector , on the other hand, shows that reports of trouble began rolling in around 6 am ET, and continue to grow. Threads on the Steam Support subreddit point to the same. Problem logging in to Steam from r/steamsupport Some redditors say they've been able to resolve the issue by closing Steam when the "loading user data" screen is displayed, then running it as an administrator; others say they've had no luck with that approach, however. A theory that the problem may be connected to purchasing and downloading games does seem solid, though: I was able to log in and out of Steam without issue on my own account until I bought and started installing a game for testing purposes. I appeared to be stuck, but after letting it sit for nearly five minutes, Steam did eventually load. My game downloads also appear to be working too. So maybe that's another strategy: have patience? I've reached out to Valve for more information and will update if I receive a reply, or when Steam starts working again, whichever comes first. In the meantime, if you run into the "loading user data" problem, let us know (a
+As part of our ongoing coverage and commemoration of the closure of BioWare, we've been reaching out to RPG developers to hear what the studio meant to them. Lead SEO editor Lauren Morton got in touch with 16 devs who owe their careers to the legendary RPG studio , and today I can share the words of another, Skald: Against the Black Priory lead developer Anders Lauridsen. I had a similar experience with BioWare RPGs as a substitute for tabletop growing up, lacking friends who were interested in the hobby until well into adulthood, and I'll wager that's not an uncommon experience. Hearing Lauridsen say there's a lot of BioWare DNA in Skald made me smile. The game's art recalls those clunkier RPGs the developer initially bounced off, but its mechanics and combat are Baldur's Gate and Fallout to the core. I also gotta say I feel less bad about my own lack of facility with earlier generations of CRPG after hearing that a developer like Lauridsen struggled with them at first. His enthusiasm is a heartening reminder that BioWare's legacy is more durable than EA's quarterly profits or private equity predation: The things we love about those games have dispersed into RPGs all over the world, and Skald is a perfect example of that. It has the tight, low-level focus of the original Baldur's Gate, but with a shocking inflection of cosmic horror , plus Larianesque reactive systems I never would have expected from a pixel art game⁠—Larian's own Swen Vincke is a fan of Skald himself . It's
 
-### I have jumped in WoW: Forever's beta 7738 times, roughly 135 jumps an hour, and if you'd like to find out if you beat me there's a stat tracker
-Mon, 26 Oct 2026 14:52:49 +0000 — https://www.pcgamer.com/games/world-of-warcraft/i-have-jumped-in-wow-forevers-beta-7738-times-roughly-135-jumps-an-hour-and-if-youd-like-to-find-out-if-you-beat-me-theres-a-stat-tracker/
+### Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'
+Mon, 26 Oct 2026 21:19:51 +0000 — https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/
 
-World of Warcraft: Forever 's beta is now closed, meaning I can no longer appreciate the pretty god rays in Ashenvale. To soothe this yawning ache in my soul, however, Blizzard has released a fun little stats tracker to tide me over with the knowledge that I apparently jump in MMOs way more than I thought I did. If you played the beta and sign in, you'll be given a full list of fun little stats including your hours played, where you spent the most time, what killed you the most and, crucially, how often you jumped. I jumped 7,738 times. And considering I played the beta for 57 hours (putting me in the 69th percentile—nice), that means I averaged around 135 jumps an hour, which is… honestly a lot more than I thought I'd jumped. Now of course, jumping is a time-honoured tradition. Even in a game with a /wave emote, simply jumping around someone to acknowledge that you see them is a far more efficient means of communication. It also makes you go faster when you're running somewhere. This is absolutely correct and not at all unsubstantiated, don't look it up. The enemy that killed me the most was the Silithid Swarmer in the southern barrens, which I'm going to chalk down to those bastards being a touch overtuned rather than any skill failing on my part (I do not know why the minions it summons have so much health). I'm also heartbroken to find out that I spent the lion's share of my time in The Barrens, presumably killing lions. If you know anything about the absurdity (and somet
+Composer Austin Wintory (Journey, Stray Gods, Assassin's Creed: Syndicate) just shared 20 minutes of music he wrote as a sort of audition/starting point for the score of Mass Effect 5, aka. Mass Effect: Universe. According to Wintory, he had been in "serious conversation" with BioWare and EA to provide the game's soundtrack. To be clear: This was not music that was 100% slated to appear in the game, but it sounds like Wintory was on the shortest of shortlists for the job. The effective EP is presented as "My Mass Effect 5 early musical drafts" and "Mass Effect: Universe, the music that might have been." Wintory wrote that he wanted to "surprise [EA and BioWare] with an elaborate production" in 2025, and that the music was recorded with "synths, vocals, and a large orchestra here in LA." Noting that he didn't have story details for the in-development game, Wintory came up with speculative themes and track titles based on the series' past. And I really don't know how to process that this thing whips ass . Wintory had a killer vision with the project: "My suggestion was to treat the original game's masterful Jack Wall / Sam Hulick score as a starting point," he wrote, "And to build on it from there with deeper use of physical, analog synths and a more tightly interwoven use of the orchestra. But a love letter first and foremost." God damn it . Mass Effect had great music throughout the series, but ME1's more synth-heavy approach has always been my favorite. Wintory still makes g
 
-### I've never felt worse for doing well in a videogame than in this intensely '90s citybuilder
-Mon, 26 Oct 2026 14:38:24 +0000 — https://www.pcgamer.com/games/sim/ive-never-felt-worse-for-doing-well-in-a-videogame-than-in-this-intensely-90s-citybuilder/
+### The best haunted card game since Inscryption is back with a new mystery only solitaire freaks can solve
+Mon, 26 Oct 2026 20:47:17 +0000 — https://www.pcgamer.com/games/card-games/the-best-haunted-card-game-since-inscryption-is-back-with-a-new-mystery-only-solitaire-freaks-can-solve/
 
-I think it's obvious and uncontroversial to say that the automobile is a tool of capital to subjugate the worker, to atomise them in their locomoting coffins and alienate them from their fellow human beings. It is bourgeois ideology made manifest: an expensive fantasy that you are separate from, free of, and superior to society. I'm not just saying this because I'm 33 years old and have no driving licence. That's actually very radical and, dare I say it, sexy of me. (Image credit: MicroProse) I am considering these weighty matters because of Car Park Capital , a recently early-accessed management sim and citybuilder that tasks you with putting an end to those familiar old plagues which never rest from menacing society: walkability, green spaces, and public transport. You are the lone force standing against urban comfort and livability, and your weapon is an ocean of asphalt. It's satire, yes, right down to the little anthropomorphic steering wheel who lives in the corner of your screen and implores you to flatten, pave, and homogenise the Earth. But it's also bloody good—an almost perfect aesthetic recreation of hallowed sims of yore: games like Theme Park, Rollercoaster Tycoon, and the like. It's transportive—which I suppose is appropriate—moving you back to the blocky polygonal worlds and sprite-based punters of a simpler, more '90s era. But it does not rest on its laurels. It's rather fun to dirty your hands in the business of buying up swathes of useful public land—filled
+The first new card I found in Forbidden Solitaire's new DLC The Discarded gave me the power to throw a card like a knife at whatever horror was trying to kill me. Although nothing warranted such a desperate move, I fear it won't be long before I find myself out of options now that I've seen the devilish new tricks the developers have dealt in the DLC's first hour. I'm lucky I just spent the last week playing through the base game because The Discarded offers no help: From the moment you double click the DLC executable on the game's '90s-inspired PC interface, you're on your own. It's not quite enough to understand how to play solitaire; you need to know how to play Forbidden Solitaire , a haunted version of the classic card game where you must change your approach based on the modified cards the developers throw at you. Some cards might be locked away until you play the right suits. Others might be surrounded by bones, requiring them to be played twice before leaving the board. Your deck will run out quickly if you don't strategize around these factors and try to knock off as many cards as you can in one turn. Thankfully, you can cheat… by jamming gems into your flesh. The eyeball in the wall that compels you to mutilate your hand for power is back. This time, you can even sear glyphs into your skin, too. Each unholy decoration gives you bonuses that can help tilt the balance in your favor, like an increased chance to deal extra damage during combat—oh yeah, there's combat . 
 
-### Phantom Blade Zero devs say the game needs 300 GB of free space for the pre-load process, alongside updated system requirements
-Mon, 26 Oct 2026 14:21:32 +0000 — https://www.pcgamer.com/hardware/phantom-blade-zero-devs-say-the-game-needs-300-gb-of-free-space-for-the-pre-load-process-alongside-updated-system-requirements/
+### Walter Koenig, Star Trek's Pavel Chekhov, has died
+Mon, 26 Oct 2026 20:19:38 +0000 — https://www.pcgamer.com/movies-tv/walter-koenig-star-treks-pavel-chekhov-has-died/
 
-Phantom Blade Zero , the upcoming action RPG from Chinese studio S-Game, is looking mighty impressive, and the Unreal Engine 5 game even has fairly modest system requirements too. Yet, according to the latest update from the devs, you will need quite a lot of room on your SSD if you plan on playing it. Taking to its X account, Phantom Blade Zero's developer gave some information before the launch date, October 28. The studio clarifies the game is a whopping 145 GB once installed, and you will need "at least 300 GB of free disk space for the pre-load process." That is a hefty install size, and a hefty amount of temporary space to keep free for the preload decompression, too. The studio also clarifies you need an SSD to play the game, and instructs users to download the latest graphics drivers ahead of the big day. The pre-load process starts on October 26. Phantom Blade Zero system requirements Minimum Recommended Processor Intel Core i7 8700K / AMD Ryzen 5 3600 Intel Core i5 10600K / AMD Ryzen 5 5600X Memory 16 GB 16 GB Graphics card Nvidia GeForce GTX 1660 6 GB / AMD Radeon RX 5500 XT 8 GB Nvidia GeForce RTX 3060 Ti 8 GB / AMD Radeon RX 6700 XT 12 GB Storage 145 GB (SSD required) 145 GB (SSD required) Notes Ray tracing and path tracing disabled / 1080p 30 fps with upscaling Ray tracing and path tracing disabled / 1440p 60 fps with upscaling The other system requirements aren't too bad, with an Intel Core i7 8700K or AMD Ryzen 5 3600 paired with an Nvidia GeForce GTX 1660 or 
+A Variety report says that Walter Koenig, known to the world as Star Trek's Russian hothead Pavel Chekhov, has died. Koenig's big break in show biz came in 1967, when he was cast as Chekhov in the second season of the original Star Trek series. He portrayed the character until the show's cancellation, and then through seven feature films; he had a particularly memorable scene in Star Trek 2: The Wrath of Khan, when a Ceti eel burrowed its way into his brain. Even now, it's pretty gnarly. The downside of that early-career fame is that Koenig was typecast, and acting roles following the end of the Star Trek series were sparse. He turned to screenwriting through the 1970s; ironically, while the character of Chekhov was not included in the Star Trek animated series that ran for two seasons after the live-action show was cancelled, he wrote the script for an animated series episode called The Infinite Vulcan, making him the first member of the cast to write an episode for the Star Trek franchise. But Koenig also played very much against type in at least one memorable role: Alfred Bester, a powerful Psi Corps officer in Babylon 5. Where Chekhov was brash, good-hearted, and a little naive, Bester was a charismatic, stone-cold villain with a talent for manipulation and complete indifference to human life. He was the sort of character who was born to chew scenery, but Koenig took a more understated approach that imbued Bester with real menace. It was a good bit of casting. Koenig also
 
-### The Golden Joystick Awards Ultimate Game of the Year voting is a-go, with games like Crimson Desert, The Blood of Dawnwalker, and Big Walk all on the docket
-Mon, 26 Oct 2026 14:00:00 +0000 — https://www.pcgamer.com/gaming-industry/events-conferences/the-golden-joystick-awards-ultimate-game-of-the-year-voting-is-a-go-with-games-like-crimson-desert-the-blood-of-dawnwalker-and-big-walk-all-on-the-docket/
+### The Regreening is a post-apocalyptic farm sim where you grow animal habitats instead of cash crops
+Mon, 26 Oct 2026 19:55:11 +0000 — https://www.pcgamer.com/games/life-sim/the-regreening-is-a-post-apocalyptic-farm-sim-where-you-grow-animal-habitats-instead-of-cash-crops/
 
-The Golden Joystick Awards' Ultimate Game of the Year voting is now open —celebrating its 44th consecutive year, the votes will remain open until 8 pm ET / 12 am GMT, October 30. It's a stacked roster of nominations this year—with some of our own favourites here at PC Gamer listed to take the crown. Here's an official list of the nominations: 007 First Light Big Walk CONTROL Resonant Crimson Desert Dispatch Forza Horizon 6 Phantom Blade: Zero Pokémon Pokopia PRAGMATA Resident Evil Requiem STAR WARS: Galactic Racer The Blood of Dawnwalker Speaking personally, it's a tough one for me to pick— Crimson Desert is maybe the most technically impressive in terms of scope, releasing with not only a billion systems but also receiving massive updates over the course of the year. So many, in fact, I'm sort of wondering when anyone else at Pearl Abyss is gonna take a break. Star Wars: Galactic Racer has devoured hours of my time, and I've been playing it so much I've developed a new callus on my thumb, whereas Dispatch was a short-but-sweet romp and one of my favourite superhero stories in recent memory. The awards will be hosted by Alix WIlton Regan, the new voice of Lara Croft (and also the female protagonists in Veilguard and Inquisition), as well as a bevy of special guest appearances. Regan says: "We’re celebrating the greatest games of the past 12 months—and, more importantly, the incredibly talented teams who made them happen. The people who put in thousands of hours creating virtu
+I love the standard farm sim formula. Becoming a titan of capitalism by hoeing rows of tomatoes by hand is great, but I've really been craving one that's about tending the environment that already exists instead of clear-cutting an entire forest to make way for my perfectly optimized agricultural vision. Some games have tried, but The Regreening, a demo I played in the current Steam Next Fest— launching on Steam on December 7—is the one that I've enjoyed the most. In The Regreening, you're revitalizing a post-apocalyptic landscape, replanting flora, and designing environments for animals to return to while making friends with godlike animal spirits. It's almost as much a tiny city-builder as a farm sim. I asked the developers at Positive Impact Games how they feel The Regreening fits into what's normally such a strictly formulaic genre and what it's doing that they weren't able to find in other farm sims. (Image credit: Positive Impact Games) Positive Impact Gameds Positive Impact Gameds Positive Impact Gameds Positive Impact Gameds ]]>
 
-### Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory
-Mon, 26 Oct 2026 12:28:15 +0000 — https://www.pcgamer.com/hardware/graphics-cards/leaked-video-shows-hundreds-possibly-thousands-of-brand-new-rtx-5090s-being-dismantled-for-ai-server-usage-in-chinese-factory/
+### Mass Effect fan group buys billboard in Times Square promoting petition to save series
+Mon, 26 Oct 2026 19:53:51 +0000 — https://www.pcgamer.com/games/mass-effect/mass-effect-fan-group-buys-billboard-in-times-square-promoting-petition-to-save-series/
 
-Consumer RTX 5090 stock in the US (and many other countries) seems to be virtually non-existent at the moment, despite Nvidia's claims that production is still ongoing . So, what's happening to all those brand new consumer cards? A leaked video reportedly taken from inside a Chinese factory may have the answer. Posted by HKEPC on X , the footage shows what appears to be a huge number of consumer RTX 5090 cards being dismantled en masse for AI server conversion (via Tom's Hardware ). 【太精彩了吧 😱】近日，社交媒體 X 上流出多段顯示卡改裝工場內部影片，可以看到大量 GeForce RTX 5090 頂級遊戲顯示卡並未流向一般消費級零售市場，而是被整批運往大型改裝工廠。廠內工人在具備完整流水線的作業環境下，進行大規模拆解與改裝，將原本針對電競設計的三風扇散熱架構全數替換為 Dual Slot 渦輪散熱器，以符合 AI 伺服器機箱的高密度排列需求。 https://t.co/2wzPmweU3s從曝光的工廠現場畫面可見，流水線工作枱上堆滿了來自各大廠商的 GeForce RTX 5090 零售彩盒包裝與全新裸卡，甚至連 NVIDIA 自家 GeForce RTX 5090 FE 也有。工人正以熟練的工序，迅速卸除原廠龐大的風扇與散熱鰭片模組，將完整的 PCB 電路板分離出來。隨後，GPU 與 VRAM 會被「吹」出來移植至另一片 PCB 上，再統一換裝上厚度僅有 2-Slot 的厚銅底座渦輪鼓風散熱系統。 改裝完畢後，廠方隨即將顯示卡送往專門的測試檢驗產線。在多組相連的開放式測試平台上，數十張已換裝渦輪散熱器的顯示卡正同步運行圖形效能負載與穩定性跑分測試，確保每張改裝後的繪圖卡皆能正常運作。通過嚴格檢測的顯示卡將被分層整齊陳列並重新裝箱，準備直接交付給相關客戶，流程非常專業。 傳統消費級高階顯示卡通常採用三風扇大型散熱設計，厚度普遍佔用 3 至 4 個插槽，且出風方向為機箱內部側吹，難以在 4U 伺服器或多卡並聯環境中並排安裝。換裝雙槽渦輪散熱系統後，散熱器能利用鼓風風扇將廢熱直接排出機箱後方，大幅提升多卡伺服器內部的散熱效率與空間相容性。 面對 AI 運算需求持續殷切，在算力緊缺的情況下，GeForce RTX 5090 遊戲顯示卡依然是 AI 算力市場的熱門替代品。目前，GeForce RTX 5090 售價已經被炒上接近一萬美元水平，這個價位遊戲玩家根本無力負擔。 October 23, 2026 Workers are shown dismantling the GPUs, removing their three-fan coolers and heatsinks, and stacking the PCBs for conversion to dual-slot cooler configurations suitable for AI server ra
+"We are Mass Effect," the fan group behind a currently 224,000 signature Change.org petition seeking to secure the series' future, has rented out digital billboard space in New York's Times Square to promote the effort. The group shared a video of the billboard in the wild on X, "The Everything App." Every hour at 35 minutes past the hour, the screen at 1560 Broadway shows a 15-second motion graphic message. Over a planetary vista reminiscent of Mass Effect 1's start screen, we get a distinctive N7 red stripe and the message "Keelah si'yah, #SaveMassEffect" in the series' go-to " Korataki " font. Yes, today is when I too learned that Mass Effect used a commercially-available font called "Korataki" for its logo and in-game text. I kinda want to write all my drafts in it now. 🚨 WE'RE IN TIMES SQUARE!Together with @kalaelizabeth, we've managed to get a #SaveMassEffect billboard up in Times Square, NYC, all day today!📍 1560 Broadway, above the Pelé store (Duffy Square)⏰ 15 seconds every hour at :35HOLD THE LINE! ❤️ https://t.co/wNP9Ak9Vh8 October 26, 2026 "Keelah si'yah" is a phrase from the Quarian language in the games. Continuing today's theme of new discoveries about a series I've spent, like, 1,000 hours playing over 20 years, I learned that this language is called "Khellish." The phrase means "by the homeworld I hope to find one day," not to be confused with "keelah se'lai " or "by the homeworld I hope to see one day." I was more familiar with the latter from the games. W
 
-### Korean police arrest cyberhacking gang reportedly led by self-taught hacker, who allegedly used AI to breach 60 firms and received a mere $210 in ransom
-Mon, 26 Oct 2026 12:00:52 +0000 — https://www.pcgamer.com/hardware/korean-police-arrest-cyberhacking-gang-reportedly-led-by-self-taught-hacker-who-allegedly-used-ai-to-breach-60-firms-and-received-a-mere-usd210-in-ransom/
+### CD Projekt marks the 19th anniversary of its first Witcher RPG with a tribute to BioWare: 'Their support helped turn our vision into Geralt’s first interactive adventure'
+Mon, 26 Oct 2026 19:05:30 +0000 — https://www.pcgamer.com/games/the-witcher/cd-projekt-marks-the-19th-anniversary-of-its-first-witcher-rpg-with-a-tribute-to-bioware-their-support-helped-turn-our-vision-into-geralts-first-interactive-adventure/
 
-As AI continues to get smarter, the schemes using it have often become more successful. However, one South Korean cyberhacking gang, reportedly led by a self-taught hacker using AI tools, doesn't seem to have made off with a king's ransom. Despite allegedly obtaining 8.2 million records and demanding 360,000,000 Won (around $271.77K) from victims, the gang is said to have ended up receiving 300,000 Won (around $210). This is according to Yonhap News Agency , Seoul Economic Daily , and The Chosun Daily , which corroborate reports. Altogether, the gang reportedly accessed files from over 90 firms, but 60 successful hits came from hacks using AI tools (a mixture of AI coding and an autonomous penetration testing system). The stolen data is said to have included customer information like names, registration numbers, phone numbers, and addresses. The cyberhacking gang is also said to have sent threatening emails to those affected, saying, "If the data breach becomes public, the company’s reputation will be damaged, and government fines may be imposed." Payment info was not caught up in these breaches, and South Korean police say stolen data has not yet made it onto the dark web. As noted by The Chosun Daily, police got to the ring fast, which might explain why only one small business appears to have paid the ransom fee. Police received a complaint from an affected company in June of this year, but the investigation officially started in August, leading to the arrest of seven indiv
+Today, October 26, is the 19 th anniversary of The Witcher, the groundbreaking RPG that introduced Geralt, and CD Projekt, to the world. To mark the moment, CD Projekt took to social to pay tribute to friends who made it all possible: BioWare. CD Projekt joint CEO Michał Nowakowski spoke warmly of BioWare last week in the immediate aftermath of the studio's shocking closure , crediting it as "a massive part of CDPR history." The Witcher was built on BioWare's Aurora engine, which it created for Neverwinter Nights, but BioWare did more than just share technology: It also worked to help bring the upstart Polish RPG to much wider attention. "19 years ago, an ambitious dream to bring an iconic book series into the world of video games came to life with the release of The Witcher. It was the start of an unforgettable path, which wouldn't have been possible without our friends at BioWare," CD Projekt wrote. "From lending us their Aurora Engine and sharing their knowledge, to giving us a spot at their booth at E3, their support helped turn our vision into Geralt’s first interactive adventure. Thank you to everyone who has walked the Path with us from the very beginning. Happy 19th anniversary, witchers!" 19 years ago, an ambitious dream to bring an iconic book series into the world of video games came to life with the release of The Witcher.It was the start of an unforgettable path, which wouldn't have been possible without our friends at BioWare. — @thewitcher.com ( @thewitcher.com
 
-### Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'
-Mon, 26 Oct 2026 03:12:41 +0000 — https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/
+### What to play this Halloween, plus last-minute costume ideas and spooky movie recommendations
+Mon, 26 Oct 2026 18:59:37 +0000 — https://www.pcgamer.com/games/horror/2026-halloween-horror-gaming-hub-recommendations/
 
-Valve's mandatory AI disclosures are once again at the centre of the discourse, mostly thanks to Epic Games CEO Tim Sweeney, who has long been vocally against them. The debate has been reheated in the same month Epic Games proudly announced it will pivot to "AI first" development on its forthcoming Star Wars and Marvel crossover. Then it announced an AI game jam, before walking back its requirement for AI to be used. But the true battleground has been on Elon Musk's X, where Sweeney's refocused his reticule on Steam. One of his most repeated notions this time around is that forcing developers to disclose AI use is inherently political. "Forcing developers to write a political statement to be used against them by the hate mob they're [Valve is] helping organize is abhorrent," he wrote on October 24 in response to some AI loving guy who works at an AI company. Later, to another user : "These AI statements are just as partisan as mandatory political essays or forcing developers to list their voting history to drive cancel campaigns and public struggle sessions." And then : "There is a real economic cost to Valve’s foray into forced political disclosures. Besides taking 30%, they’re also taking a potentially even larger fraction of developers’ revenue and livelihood by undermining their business with these AI hate campaigns." (Later, when a user wrote this is a "big opening for Epic if Valve doesn't figure this out", Sweeney replied "Yep!") On October 25 : "They [Valve] are burni
+Presented by (Image credit: Torn Banner) This article is brought to you by No More Room in Hell 2 . The ghouls and goblins are out, but you've heard enough about the US midterm elections already. Let's talk about something fun: Gruesome horror! Did you know? It's perfectly acceptable to buy Halloween candy and eat it all yourself while drowning out the plaintive knocking of trick-or-treaters with surround sound headphones. See below for a selection of horror game deals and lesser-known staff picks, plus a handful of scary movies we think you should put on your to-watch list. If you're making the effort to actually go out on Halloween, you'll also find a selection of last-minute costume ideas that'll have people saying "did you come up with this on your own?" in a way that suggests they'll lose respect for you if you say yes. Halloween deals A selection of deals from this week's Steam Scream Sale and beyond. Amnesia: The Bunker | $4.99 (80% off) on Steam and GOG Hunt: Showdown 1896 | $11.99 (60% off) on Steam No More Room in Hell 2 | $22.49 (20% off) on Steam The Outlast Trials | $11.99 (70% off) on Steam Grim Fandango Remastered | $2.24 (85% off) on Steam and GOG Resident Evil Requiem | $48.99 (30% off) on Steam Resident Evil Village | $9.99 (75% off) on Steam Sons of the Forest | $8.39 (72% off) on Steam Staff picks A selection of lesser-known horror games to check out this Halloween. Labyrinth of the Demon King ( Steam ) Gruesome, gnarly, first-person dungeon crawling amid 
 
 ## GameSpot
+
+### Here s Another Mass Effect 5 Leak To Break Your Heart
+Mon, 26 Oct 2026 23:31:44 +0000 — https://www.gamespot.com/articles/heres-another-mass-effect-5-leak-to-break-your-heart/
+
+If last week's mysterious Mass Effect: Universe trailer leak wasn't painful enough for you in the wake of BioWare's sudden closure , we've gotten yet another taste of The Game That Could Have Been, this time courtesy of award-winning video game composer Austin Wintory. Known for his beautiful and haunting soundtracks for games like Flow, Journey, ABZÛ , Aliens: Fireteam Elite, Sword of The Sea , John Wick Hex, and Hades II , Wintory was also evidently working on the Mass Effect: Universe soundtrack. From the sounds of things, EA and the now-defunct BioWare were considering having Wintory produce the game's OST. And thanks to Wintory, we at least know what the game might have sounded like. "Mass Effect was my ultimate white whale, my all-time dream project," Wintory wrote in a post on Bluesky . "For the last couple years I'd been in discussion with BioWare & EA to take on the project, and as part of that, I wrote close to 20 minutes of music to explore where the franchise can go next. May as well share it!" Wintory shared the music alongside an image that reads, "Mass Effect: Universe, the music that might have been." "So here you go," Wintory added in a follow-up post linking to a YouTube upload of the test-run tracks. "Thank you again to my friends at both BioWare and EA. To even dream in your sandbox was a privilege." The video features 20 minutes of Wintory's experimental score, featuring seven unique tracks and one remix. Text displayed within the video itself also reveal
+
+### WoW: Forever Just Got Another Major Racial Ability Shakeup Before Launch
+Mon, 26 Oct 2026 22:48:46 +0000 — https://www.gamespot.com/articles/wow-forever-just-got-a-major-racial-ability-shakeup-just-before-launch/
+
+World of Warcraft: Forever's release is just around the corner, but developer Blizzard is making one final pass at the game's racial abilities before launch in response to beta feedback. In a forum post , WoW community manager Kaivax posted a list of significant changes to many of each race's unique abilities that players expressed concerns about during Forever's beta. Those changes include tweaks to tauren, humans, orcs, dwarves, and Skyborne elves. "In taking a final pass on these, we've prioritized racial identity, which means that some races will naturally be slightly more effective than others at certain combat roles," Blizzard said. "In some places where we had replaced role or class-focused racials with generic ones, we're rolling those changes back." https://youtu.be/miSndSl23bI?si=kQoKkM4LGLofOsk- The exception to that mindset is weapon-specialization abilities, Blizzard said, which existed for humans and orcs both in WoW Classic and early on in Forever's beta and made each race more effective with specific types of weapons. "While those have a strong fantasy component to them, it is not healthy in the long run for future raid and dungeon loot tables to be evaluated through the lens of 'required' weapon types," Blizzard said. "At the same time, we're doing a tuning pass on some of the remaining passive bonuses to help ensure that they aren't skewing outcomes in a way that limits player preferences." Humans, widely viewed by the community as one of the most "optimal" 
+
+### Diablo 4 s War Plans Are Getting A Huge Upgrade In Season 16
+Mon, 26 Oct 2026 19:14:12 +0000 — https://www.gamespot.com/articles/diablo-4s-war-plans-are-getting-a-huge-upgrade-in-season-16/
+
+Diablo 4's War Plans system is getting a major upgrade in Season 16, giving players even more control over their endgame activities and rewards. Developer Blizzard introduced War Plans earlier this year as part of the game's second (and last) expansion , Lord of Hatred. It's an endgame system where players can essentially create a playlist of endgame activities, along the way ranking up those activities via a skill tree to make them even more rewarding. It was a welcome addition, but unfortunately only gave players minimal control over what activities would appear as part of their plans. Players could also only reroll their War Plans a limited number of times, meaning if you didn't like a particular activity, oftentimes you were stuck having to do it. All of that looks to be changing in Season 16 with the addition of a new meta-progression system called War Plans Tactics. By completing War Plan activities, players will be able to invest points into the tactics tree to make it so certain activities are more likely to appear and specific types of rewards will drop. How players reroll their War Plans is also changing, with a new currency called Marks of Wisdom that will cap at 20 and should let players reroll their plans more often. As detailed by Blizzard in a blog post ahead of the season arriving on the Diablo 4 public test realm October 27, players will be able to assign up to three points into each endgame activity and up to three points into different types of rewards. "Ea
 
 ### Why There Won t Be A Helldivers 3 Anytime Soon, If Ever
 Mon, 26 Oct 2026 15:29:15 +0000 — https://www.gamespot.com/articles/why-there-wont-be-a-helldivers-3-anytime-soon-if-ever/
@@ -377,6 +422,21 @@ Xbox's first-ever chief operating officer, Helen Chiang, has left the company af
 
 ## Rock Paper Shotgun
 
+### The GameMaker engine series behind Undertale, Hotline Miami and Spelunky is going free for commercial use on PC
+Mon, 26 Oct 2026 18:15:00 +0000 — https://www.rockpapershotgun.com/the-gamemaker-engine-series-behind-undertale-hotline-miami-and-spelunky-is-going-free-for-commercial-use-on-pc
+
+Here's some upbeat news to end the day on (unless one of the other awful people working here posts something diabolical, once I'm done) - you'll soon be able to publish games created using the latest GameMaker tools for free on PC alongside web and mobile. Read more
+
+### With Xbox cuts not done, Microsoft offer voluntary buyouts to around 60,000 workers across the company in latest attempt to get rid of staff
+Mon, 26 Oct 2026 17:40:40 +0000 — https://www.rockpapershotgun.com/with-xbox-cuts-not-done-microsoft-offer-voluntary-buyouts-to-around-60000-workers-across-the-company-in-latest-attempt-to-get-rid-of-staff
+
+Staff at Microsoft continue to recieve emails they'd probably rather not be getting. After telling some the other week of plans to mandate four days in the office starting in February and presiding over multiple rounds of layoffs at their gaming division Xbox, Microsoft are now offering volutary buyouts to 60,000, roughly 25% of their overall headcount. Read more
+
+### Steam's AI disclosures are akin to "forcing developers to list their voting history", says man who must hate seeing eggs virtue signal that they're free-range
+Mon, 26 Oct 2026 17:03:44 +0000 — https://www.rockpapershotgun.com/steams-ai-disclosures-are-akin-to-forcing-developers-to-list-their-voting-history-says-man-who-must-hate-seeing-eggs-virtue-signal-that-theyre-free-range
+
+How could someone do this to you, fruit, meat, and other foods on the shelves of this shop? You've been forced, in a horrific crime against the companies responsible for you, to reveal some details about how you were produced. No, this isn't reasonable information to offer a would-be purchaser, so that they can feel more comfortable and confident in knowing what they're about to spend their hard-earned money on. It's a bat signal for the anti-battery farming hate mobs and is robbing innocent food producers of their ability to rake in cash without having to reveal some basic info about their products. You might as well stick "mandatory political essays" on the packaging of frozen peas! Read more
+
 ### 220,000-signatory petition to "save Mass Effect" doesn't mention BioWare, suggests giving Mass Effect 5 to somebody else
 Mon, 26 Oct 2026 16:17:51 +0000 — https://www.rockpapershotgun.com/220000-signatory-petition-to-save-mass-effect-doesnt-mention-bioware-suggests-giving-mass-effect-5-to-somebody-else
 
@@ -406,29 +466,4 @@ One of my favourite hobbies is digging up older pieces of gaming tech or softwar
 Mon, 26 Oct 2026 11:02:57 +0000 — https://www.rockpapershotgun.com/mass-effect-5-was-named-universe-partly-because-it-let-players-generate-alternate-timelines-based-on-their-choices-in-previous-entries-technical-director-says
 
 In case you missed it, an internal trailer for the new Mass Effect game which BioWare were working on prior to EA shutting them down hit the net late last week. It offered a peek at what the studio were cooking with this new entry, dubbed Mass Effect Universe. According to its technical director, one of the reasons the game was given that name was that it had a system aimed at letting players form alternate timelines based on their choices in previous Mass Effects. Read more
-
-### The Sunday Papers
-Sun, 25 Oct 2026 10:00:00 +0000 — https://www.rockpapershotgun.com/the-sunday-papers-833
-
-Sundays are, again , for running taxi duty for relatives visiting from overseas. If I had a nickel for every time I had an early morning Gatwick run in tandem with a Sunday Papers post, I&rsquo;d have two nickels, which isn&rsquo;t a lot but it&rsquo;s weird than I&rsquo;m being paid in USD when I live in the United Kingdom. In that international spirit, here are some fine writings from around the globe. Read more
-
-### Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil
-Sat, 24 Oct 2026 21:52:00 +0000 — https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil
-
-I have no particular thoughts on what the afterlife may look like, namely because if there is one, and I'm allowed to hang out in it, I don't want to be disappointed. What if I have the expectation that it's a hedonistic paradise and am met with only having a guy named Gary who only eats cheese sandwiches for company? How embarrassing! No, I'll leave the imagining to others on this particular front. Doing so bears some ripe fruit for me occasionally, too, as is the case today with Abelina, a surreal platformer about a man who died and finds himself tending to gardens and carving masks and trying "not to think about what this place might really be." Read more
-
-### "System Shock and Deus Ex, they were RPGs. People called them RPGs": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one
-Sat, 24 Oct 2026 20:29:27 +0000 — https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one
-
-You know, I think at this point in my life there is a non-zero chance I will die before anyone is able to settle comfortably on what defines an immersive sim. I'm not going to even try to! The idea is too annoying and I'm sure someone will disagree with some aspect of it. And if you ask New Blood boss Dave Oshry, when it comes to trying to flog an immersive sim, it's probably best to not even refer to it as one. Read more
-
-### HELENA : Cloud District is a megastructure photography game laser targeted at my interests, and it's out next week
-Sat, 24 Oct 2026 18:58:26 +0000 — https://www.rockpapershotgun.com/helena-cloud-district-is-a-megastructure-photography-game-laser-targeted-at-my-interests-and-its-out-next-week
-
-Yes, I'm doing it, I'm writing about a megastructure game for the second time this week because come on, HELENA : Cloud District just looks stunning, don't it? Admittedly there's a chance you've not heard of it, that be the way of things in this algorithmically dominated world, but allow me to tell you about its big, scary world and the strange camera you're equipped with to capture all the sights it holds. Read more
-
-### Paralives' first major update slips to next year, but when it comes you can expect some pretty meaty improvements for all of its main features
-Sat, 24 Oct 2026 17:03:55 +0000 — https://www.rockpapershotgun.com/paralives-first-major-update-slips-to-next-year-but-when-it-comes-you-can-expect-some-pretty-meaty-improvements-for-all-of-its-main-features
-
-Since launch back in May of this year, life sim Paralives appears to have been trucking along nicely, with the dev team offering up fairly regular updates with all sorts of tweaks big and small. Certainly confidence-inspiring for an early access game, especially one as systems-driven as it is. And now, the Paralives team have outlined their plans for the game's first major update, which seem very catered to improving the core experience. Read more
 

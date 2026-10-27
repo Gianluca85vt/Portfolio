@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-26T16:59:16.896Z
+# Source feeds — harvested 2026-10-27T10:02:37.555Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -9,6 +9,12 @@ own feed: headline, link, date, and their summary.
 > one outlet has the story, write it, keep `draft: true`, and say so in
 > the first line of the body. See notes/article-voice.md.
 
+## Broadcasts in the feeds
+
+Already aired, so a round-up rather than a preview:
+
+- Eurogamer — Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards
+
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
 > round-up an hour after it ends. Directs, State of Play, Xbox showcases,
@@ -17,10 +23,10 @@ own feed: headline, link, date, and their summary.
 
 ## Editorial mix — what the archive owes
 
-**Write Manga and anime next.** 8 articles have gone out since the last one.
+**Write Film & TV next.** 7 articles have gone out since the last one.
 
-- **Manga and anime** — BROKEN. 8 articles since the last one; quota is one in 6. 16 in the archive of 260.
-- **Film & TV** — on track. 5 articles since the last one; quota is one in 8, never worse than one in 10. 24 in the archive of 260.
+- **Film & TV** — owed now. 7 articles since the last one; quota is one in 8, never worse than one in 10. 24 in the archive of 262.
+- **Manga and anime** — on track. 0 articles since the last one; quota is one in 6. 18 in the archive of 262.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -29,13 +35,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Manga](manga.md) **owed** — 29 items
-- [Games](games.md) — 82 items
-- [Tech](tech.md) — 73 items
-- [3D](3d.md) — 11 items
-- [AI](ai.md) — 1 items
-- [Film & TV](film-tv.md) — 57 items
+- [Film & TV](film-tv.md) **owed** — 65 items
+- [Games](games.md) — 89 items
+- [Tech](tech.md) — 82 items
+- [3D](3d.md) — 12 items
+- [AI](ai.md) — 7 items
+- [Manga](manga.md) — 29 items
 
-Total: 253 items.
+Total: 284 items.
 
-Feeds that did not answer: Anime UK News (HTTP 403), CGChannel (HTTP 403), VentureBeat AI (HTTP 429).
+Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429), Anime UK News (HTTP 403).
