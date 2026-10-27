@@ -17,7 +17,6 @@ artistView:
   misses:
     - "Capacity for content work: the roadmap's gains are aimed at HBM and at AI parts. Nothing on it says the 32GB consumer GPU gets cheap, and that is the number that decides whether a scene fits."
     - "Timing: 1δ lands in volume in the second half of 2027 at a mid-20% density gain. Against demand growing the way it is, a quarter more bits per wafer two years out is not relief."
-draft: true
 ---
 
 Scott DeBoer, Micron's president and chief technology and products officer,
