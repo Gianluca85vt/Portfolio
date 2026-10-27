@@ -82,6 +82,8 @@ export const prerender = false;
       .ghost { background: transparent; border: 1px solid var(--line-firm); border-radius: 999px;
                padding: 8px 15px; cursor: pointer; font-size: .74rem; }
       .ghost:hover { border-color: var(--accent); }
+      .ghost.danger { color: var(--bad); border-color: rgba(255, 92, 122, 0.45); }
+      .ghost.danger:hover { border-color: var(--bad); }
       .ghost.on { border-color: var(--accent); color: #fff; }
 
       main { padding: 20px; max-width: 1500px; margin: 0 auto; }
@@ -209,6 +211,7 @@ export const prerender = false;
               <span class="spacer"></span>
               <button class="ghost" id="save">Save draft</button>
               <button class="ghost" id="publish">Publish</button>
+              <button class="ghost danger hidden" id="discard">Delete draft</button>
               <span class="msg" id="msg" style="margin:0"></span>
             </div>
           </section>
@@ -253,6 +256,7 @@ export const prerender = false;
       let open = null;      // slug currently open
       let head = null;      // repo sha the open article was loaded at
       let pending = [];     // images staged for the next save
+      let role = '';        // the signed-in account's role; the server checks it again
 
       // ------------------------------------------------------------------ gate
       async function boot() {
@@ -440,6 +444,7 @@ export const prerender = false;
         all = body.articles ?? [];
         head = body.head;
         $('who').textContent = `${body.name} · ${body.role}`;
+        role = body.role;
         $('publish').classList.toggle('hidden', body.role !== 'admin');
         $('invite').classList.toggle('hidden', body.role !== 'admin');
         draw();
@@ -480,6 +485,7 @@ export const prerender = false;
         $('edit-title').textContent = slug;
         const draft = /^draft:\s*true\s*$/m.test(body.text);
         $('state').textContent = draft ? 'draft' : 'published';
+        $('discard').classList.toggle('hidden', !(draft && role === 'admin'));
         drawChips();
         render();
         draw();
@@ -493,6 +499,7 @@ export const prerender = false;
         $('slug').value = '';
         $('edit-title').textContent = 'New article';
         $('state').textContent = 'draft';
+        $('discard').classList.add('hidden');
         $('src').value =
           `---\ntitle: \ndate: ${today}\ncategory: Games\nexcerpt: \ncover: \ndraft: true\n---\n\n`;
         drawChips();
@@ -745,6 +752,27 @@ export const prerender = false;
         await load(slug);
       }
 
+      // Deletes the open draft with everything it brought: its images, its
+      // social kit, its image request. The server refuses a published article,
+      // so this can never take anything off the site.
+      async function discard() {
+        const slug = open;
+        if (!slug) return;
+        const title = all.find((a) => a.slug === slug)?.title ?? slug;
+        if (!confirm(`Delete the draft "${title}"?\n\nThe article and its images are removed from the repository. It never appeared on the site.`)) return;
+
+        $('discard').disabled = true;
+        const { ok, body } = await api('/api/cms/articles', {
+          method: 'POST',
+          body: JSON.stringify({ action: 'delete', slug }),
+        });
+        $('discard').disabled = false;
+        if (!ok) return say('msg', body.error ?? 'Could not delete it.', 'bad');
+        blank();
+        say('msg', `Deleted "${title}" (${body.removed} file${body.removed === 1 ? '' : 's'}).`, 'good');
+        await refresh();
+      }
+
       // ----------------------------------------------------------------- wire
       buildToolbar();
       $('src').addEventListener('input', render);
@@ -771,6 +799,7 @@ export const prerender = false;
       };
       $('save').onclick = save;
       $('publish').onclick = publish;
+      $('discard').onclick = discard;
       $('out').onclick = async () => {
         await api('/api/cms/auth', { method: 'POST', body: JSON.stringify({ action: 'logout' }) });
         location.reload();

@@ -1,7 +1,7 @@
 import type { APIRoute } from 'astro';
 import { readCmsSession } from '../../../lib/session';
 import { findEditorById } from '../../../lib/accounts';
-import { commitFiles, listArticles, readArticle, canCommit } from '../../../lib/repo';
+import { commitFiles, deleteDraft, listArticles, readArticle, canCommit } from '../../../lib/repo';
 import { publishRefusal } from '../../../lib/github';
 import type { FileWrite } from '../../../lib/repo';
 import type { Editor } from '../../../lib/accounts';
@@ -95,6 +95,18 @@ export const POST: APIRoute = async ({ request }) => {
   if (!SLUG.test(slug)) return json({ error: 'The address must be lowercase letters, numbers and hyphens.' }, 400);
 
   const author = { name: editor.display_name, email: editor.email };
+
+  /* --------------------------------------------------------------- delete */
+
+  // Admins only; deleteDraft refuses anything that is not a draft on main
+  // right now, so this can never take a live article off the site.
+  if (action === 'delete') {
+    if (editor.role !== 'admin') {
+      return json({ error: 'Only an admin can delete a draft.' }, 403);
+    }
+    const done = await deleteDraft(slug, author);
+    return 'error' in done ? json({ error: done.error }, done.status) : json({ ok: true, ...done });
+  }
 
   /* -------------------------------------------------------------- publish */
 

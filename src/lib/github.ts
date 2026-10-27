@@ -56,15 +56,6 @@ async function writeFile(path: string, text: string, sha: string, message: strin
   return res.ok;
 }
 
-export async function deleteFile(path: string, sha: string, message: string) {
-  const res = await fetch(`${API}/${path}`, {
-    method: 'DELETE',
-    headers: { ...headers(true), 'content-type': 'application/json' },
-    body: JSON.stringify({ message, sha }),
-  });
-  return res.ok;
-}
-
 export type PublishRefusal = { ok: false; why: string };
 
 /**
@@ -151,17 +142,6 @@ export async function publishDraft(slug: string): Promise<true | false | Publish
 
   const published = file.text.replace(/^draft:\s*true\s*\r?\n/m, '');
   return writeFile(path, published, file.sha, `Publish ${slug}`);
-}
-
-export async function discardDraft(slug: string) {
-  const path = `src/content/blog/${slug}.md`;
-  const file = await readFile(path);
-  if (!file) return false;
-  // Refuse to delete anything already live: this link must never be able to
-  // take a published article off the site.
-  if (!/^draft:\s*true\s*$/m.test(file.text)) return false;
-
-  return deleteFile(path, file.sha, `Discard draft ${slug}`);
 }
 
 /**

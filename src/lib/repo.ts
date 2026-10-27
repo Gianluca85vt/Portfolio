@@ -78,10 +78,18 @@ async function blobShaAt(path: string, ref: string): Promise<string | null> {
 export async function commitFiles(
   files: FileWrite[],
   message: string,
-  options: { author?: { name: string; email: string }; expectedHeadSha?: string } = {},
+  options: {
+    author?: { name: string; email: string };
+    expectedHeadSha?: string;
+    /** Paths to delete in the same commit. */
+    remove?: string[];
+    /** Which paths the lock checks; every written and removed path by default. */
+    lockPaths?: string[];
+  } = {},
 ): Promise<{ sha: string } | { error: string }> {
   if (!canCommit()) return { error: 'No GITHUB_TOKEN is configured, so nothing can be written.' };
-  if (!files.length) return { error: 'Nothing to commit.' };
+  const remove = (options.remove ?? []).map((p) => p.replace(/^\/+/, ''));
+  if (!files.length && !remove.length) return { error: 'Nothing to commit.' };
 
   try {
     const ref = await api(`/git/ref/heads/${BRANCH}`);
@@ -89,8 +97,9 @@ export async function commitFiles(
 
     if (options.expectedHeadSha && options.expectedHeadSha !== headSha) {
       const expected = options.expectedHeadSha;
+      const paths = options.lockPaths ?? [...files.map((f) => f.path), ...remove];
       const moved = await Promise.all(
-        files.map(async (f) => (await blobShaAt(f.path, expected)) !== (await blobShaAt(f.path, headSha))),
+        paths.map(async (p) => (await blobShaAt(p, expected)) !== (await blobShaAt(p, headSha))),
       );
       if (moved.some(Boolean)) {
         return {
@@ -114,9 +123,12 @@ export async function commitFiles(
       }),
     );
 
+    // A tree entry with a null sha removes that path from the base tree.
+    const removals = remove.map((path) => ({ path, mode: '100644', type: 'blob', sha: null }));
+
     const tree = await api('/git/trees', {
       method: 'POST',
-      body: JSON.stringify({ base_tree: headCommit.tree.sha, tree: blobs }),
+      body: JSON.stringify({ base_tree: headCommit.tree.sha, tree: [...blobs, ...removals] }),
     });
 
     const commit = await api('/git/commits', {
@@ -138,6 +150,74 @@ export async function commitFiles(
   } catch (err) {
     return { error: err instanceof Error ? err.message : 'The commit failed.' };
   }
+}
+
+/**
+ * Everything a draft brought with it, as paths that exist at `ref`: the
+ * article, its image folder (fetched shots, the drawn cover, the social card),
+ * and the notes the writer left beside it — the image request, the social kit,
+ * revision requests, and the Monday editorial's video script and plates.
+ * Deleting a draft takes all of it, so nothing is left pointing at an article
+ * that no longer exists.
+ */
+export async function draftFiles(slug: string, ref: string): Promise<string[]> {
+  const listDir = async (dir: string) => {
+    const res = await fetch(`${BASE}/contents/${dir}?ref=${encodeURIComponent(ref)}`, { headers: headers() });
+    if (res.status === 404) return [];
+    if (!res.ok) throw new Error(`GitHub ${res.status} listing ${dir}`);
+    const entries = (await res.json()) as { path: string; type: string }[];
+    return Array.isArray(entries) ? entries.filter((e) => e.type === 'file').map((e) => e.path) : [];
+  };
+  const single = [
+    `src/content/blog/${slug}.md`,
+    `notes/image-requests/${slug}.json`,
+    `notes/social/${slug}.md`,
+    `notes/linkedin/${slug}.md`,
+    `notes/revision-requests/${slug}.md`,
+    `notes/video/${slug}.script.md`,
+    `notes/video/${slug}.graphics.json`,
+  ];
+  const present = await Promise.all(single.map(async (p) => ((await blobShaAt(p, ref)) ? p : null)));
+  const [images, plates] = await Promise.all([listDir(`public/img/blog/${slug}`), listDir(`notes/video/${slug}`)]);
+  return [...present.filter((p): p is string => Boolean(p)), ...images, ...plates];
+}
+
+/**
+ * Deletes a draft and everything it brought (see draftFiles) in one commit.
+ * Used by the backend's Delete button and by the review email's Delete link.
+ *
+ * Drafts only, checked against the text on main right now rather than as the
+ * caller last saw it, and locked to that sha: a draft published in the seconds
+ * between reading and committing is refused, so this can never take a live
+ * article off the site. Not locked on the image folder, which the image
+ * workflow may add to in the meantime.
+ */
+export async function deleteDraft(
+  slug: string,
+  author?: { name: string; email: string },
+): Promise<{ removed: number; sha: string } | { error: string; status: number }> {
+  if (!canCommit()) return { error: 'No GITHUB_TOKEN is configured, so nothing can be written.', status: 503 };
+  const found = await readArticle(slug);
+  if ('error' in found) return { error: found.error, status: 404 };
+  if (!/^draft:\s*true\s*$/m.test(found.text)) {
+    return { error: 'That article is published. Only drafts can be deleted.', status: 409 };
+  }
+  if (!found.head) return { error: 'Could not read the repository. Try again in a moment.', status: 502 };
+
+  let paths: string[];
+  try {
+    paths = await draftFiles(slug, found.head);
+  } catch (err) {
+    return { error: err instanceof Error ? err.message : 'Could not list the draft’s files.', status: 502 };
+  }
+
+  const done = await commitFiles([], `Delete draft ${slug}`, {
+    author,
+    remove: paths,
+    expectedHeadSha: found.head,
+    lockPaths: [`src/content/blog/${slug}.md`],
+  });
+  return 'error' in done ? { error: done.error, status: 502 } : { removed: paths.length, sha: done.sha };
 }
 
 /** The sha the branch is currently at, for optimistic locking on save. */

@@ -1,6 +1,7 @@
 import type { APIRoute } from 'astro';
 import { signModeration, safeEqual } from '../../lib/notify';
-import { isDraft, publishDraft, discardDraft, requestRevision, canWrite } from '../../lib/github';
+import { isDraft, publishDraft, requestRevision, canWrite } from '../../lib/github';
+import { deleteDraft } from '../../lib/repo';
 import { esc } from '../../lib/html';
 
 export const prerender = false;
@@ -119,9 +120,12 @@ export const POST: APIRoute = async ({ request }) => {
   }
 
   if (action === 'reject') {
-    return (await discardDraft(slug))
-      ? page('Deleted', 'The draft is gone from the repository.')
-      : page('That did not work', 'GitHub refused the deletion. Try again in a moment.');
+    // The same deletion as the backend's button: the article and everything
+    // the writer left with it, images and social kit included.
+    const done = await deleteDraft(slug);
+    return 'error' in done
+      ? page('That did not work', `${esc(done.error)} Try again in a moment.`)
+      : page('Deleted', 'The draft and its images are gone from the repository.');
   }
 
   const instruction = String(form.get('instruction') ?? '').trim();
