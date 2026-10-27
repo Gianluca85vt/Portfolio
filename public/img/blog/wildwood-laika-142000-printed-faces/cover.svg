@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Wildwood: 142,000 printed faces">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0.65" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2A1550"/>
+      <stop offset="1" stop-color="#5B3FBF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="90" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="6" fill="#C9B6FF">LAIKA — WILDWOOD</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-size="190" font-weight="700" fill="#FFFFFF">142,000</text>
+  <text x="90" y="410" font-family="Helvetica, Arial, sans-serif" font-size="58" font-weight="500" fill="#E8DEFF">3D-printed faces</text>
+  <rect x="90" y="462" width="150" height="5" fill="#5B3FBF"/>
+  <text x="90" y="548" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#BCA8E8">Coraline had 20,000, each painted by hand</text>
+  <text x="90" y="610" font-family="Helvetica, Arial, sans-serif" font-size="40" font-weight="400" fill="#BCA8E8">$12.2m opening against a reported $100m</text>
+</svg>
