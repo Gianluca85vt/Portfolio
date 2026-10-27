@@ -14,7 +14,7 @@ import { readFile, readdir } from 'node:fs/promises';
 import { join } from 'node:path';
 import { accessToken, SCOPES } from './lib/google-token.mjs';
 import { assess, publishedArticles } from './editorial-mix.mjs';
-import { newsletterStats } from './lib/beehiiv.mjs';
+import { newsletterStats, beehiivProblem } from './lib/beehiiv.mjs';
 
 const SITE = 'https://www.gianlucascattarella.it/';
 
@@ -468,7 +468,8 @@ export async function growth() {
   } catch {
     bluesky = null;
   }
-  return { newsletter: await newsletterStats(), bluesky };
+  const newsletter = await newsletterStats();
+  return { newsletter, newsletterWhy: newsletter ? '' : beehiivProblem(), bluesky };
 }
 
 export async function gather(days = 4) {

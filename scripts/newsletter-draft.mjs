@@ -18,7 +18,7 @@ import { pathToFileURL } from 'node:url';
 import { writeFile } from 'node:fs/promises';
 import { loadArticles, romeDay, addDays, esc, SITE } from './lib/articles.mjs';
 import { mailHim } from './lib/mail.mjs';
-import { subscriberCount } from './lib/beehiiv.mjs';
+import { subscriberCount, beehiivProblem } from './lib/beehiiv.mjs';
 import { tagged } from '../src/lib/utm.ts';
 import { tracker } from '../src/data/tracker.ts';
 
@@ -96,7 +96,7 @@ function itemHtml(a, campaign, kicker) {
 }
 
 /** The issue itself, in English, plus his instructions above it in Italian. */
-export function renderIssue(issue, { subscribers = null } = {}) {
+export function renderIssue(issue, { subscribers = null, subscribersWhy = '' } = {}) {
   const campaign = `issue-${issue.to}`;
   const subs = subjects(issue);
   const preview = clip((issue.lead ?? issue.items[0])?.excerpt ?? '', 140);
@@ -104,7 +104,11 @@ export function renderIssue(issue, { subscribers = null } = {}) {
 
   const notes = `<div style="font-family:Arial,sans-serif;font-size:14px;line-height:1.5;color:#222;border:1px solid #ccc;border-radius:8px;padding:16px 18px;margin-bottom:28px;">
 <p style="margin:0 0 8px;"><strong>Bozza della newsletter di giovedì</strong> — pezzi pubblicati dal ${esc(issue.from)} al ${esc(issue.to)}.${
-    subscribers == null ? '' : ` Iscritti attivi oggi: <strong>${subscribers}</strong>.`
+    subscribers != null
+      ? ` Iscritti attivi oggi: <strong>${subscribers}</strong>.`
+      : subscribersWhy
+        ? ` Iscritti: non disponibili, ${esc(subscribersWhy)}.`
+        : ''
   }</p>
 <ol style="margin:0 0 10px 18px;padding:0;">
 <li>In beehiiv: <em>Start writing</em>, poi copia tutto quello che sta <strong>sotto la linea</strong> e incollalo nell'editor.</li>
@@ -172,7 +176,7 @@ async function main() {
     return;
   }
   const subscribers = await subscriberCount();
-  const { html, text } = renderIssue(issue, { subscribers });
+  const { html, text } = renderIssue(issue, { subscribers, subscribersWhy: beehiivProblem() });
   if (process.argv.includes('--print')) {
     await writeFile('newsletter-draft.html', `<!doctype html><meta charset="utf-8">${html}`);
     console.log('written to newsletter-draft.html');

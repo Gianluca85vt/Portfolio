@@ -114,7 +114,9 @@ export function planReading(d, todayIso) {
   const phase = PLAN.phases.find((p) => todayIso >= p.from && todayIso <= p.to) ?? PLAN.phases[PLAN.phases.length - 1];
 
   const now = [
-    subs == null ? 'iscritti non disponibili (servono le chiavi beehiiv nei segreti di GitHub)' : `${num(subs)} iscritti`,
+    subs == null
+      ? `iscritti non disponibili (${d.growth?.newsletterWhy || 'servono le chiavi beehiiv nei segreti di GitHub'})`
+      : `${num(subs)} iscritti`,
     nl?.openRate != null ? `apertura media ${num(nl.openRate, 1)}%` : '',
     users != null ? `${num(users, 1)} utenti al giorno in Analytics` : '',
     imps != null ? `${num(imps)} impressioni al giorno su Google` : '',
