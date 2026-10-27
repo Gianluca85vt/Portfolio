@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="3ds Max rebuilt on Blender in a week">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="0.55" stop-color="#2A1133"/>
+      <stop offset="1" stop-color="#E87D0D"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" letter-spacing="6" fill="#E87D0D">3D · PIPELINE</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="#FFFFFF">1 WEEK</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="52" font-weight="600" fill="#E8D8F0">3ds Max, rebuilt on Blender</text>
+  <text x="80" y="492" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E8D8F0" opacity="0.82">Hotkeys, quad menu, modifier stack</text>
+  <text x="80" y="562" font-family="Helvetica, Arial, sans-serif" font-size="36" fill="#E8D8F0" opacity="0.7">Cold start 14.8s vs 57.0s · one machine</text>
+  <rect x="80" y="610" width="150" height="5" fill="#E87D0D"/>
+</svg>
