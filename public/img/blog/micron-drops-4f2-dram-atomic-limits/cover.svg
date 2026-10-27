@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Micron drops the 4F squared DRAM cell and says DRAM is nearing atomic limits">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="55%" stop-color="#3B1060"/>
+      <stop offset="100%" stop-color="#7621B0"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C77DFF"/>
+      <stop offset="100%" stop-color="#EBD4FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#C77DFF" letter-spacing="6">MICRON · DRAM ROADMAP</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="210" font-weight="700" fill="url(#accent)">4F²</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="66" font-weight="700" fill="#FFFFFF">off the roadmap</text>
+  <text x="80" y="500" font-family="Helvetica, Arial, sans-serif" font-size="40" fill="#E6D2F5">after roughly twenty years of work</text>
+  <rect x="80" y="552" width="300" height="5" fill="#C77DFF"/>
+  <text x="80" y="640" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#FFFFFF">“DRAM is nearing atomic</text>
+  <text x="80" y="696" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#FFFFFF">limits at this point.”</text>
+  <text x="80" y="760" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#C9A8E0">Scott DeBoer, Micron CTO — 21 October 2026</text>
+</svg>
