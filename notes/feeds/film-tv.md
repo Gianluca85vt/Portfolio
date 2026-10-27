@@ -1,170 +1,170 @@
-# Film & TV — harvested 2026-10-27T10:02:37.555Z
+# Film & TV — harvested 2026-10-27T16:01:39.236Z
 
 ## Variety
 
-### ‘Tokyo Vice’ Producer, Netflix Executive Urge Changes to Japan’s Production Incentive at MPA Seminar as Government Readies Unified Content Body
-Tue, 27 Oct 2026 08:45:36 +0000 — https://variety.com/2026/film/festivals/tokyo-vice-producer-netflix-exec-urge-japan-incentive-reform-mpa-1236931907/
+### Danielle Harris Documentary Set About Her Career as a Child Star, Halloween Scream Queen (EXCLUSIVE)
+Tue, 27 Oct 2026 16:00:00 +0000 — https://variety.com/2026/film/news/danielle-harris-documentary-halloween-scream-queen-1236931111/
 
-“Tokyo Vice” producer Alex Boden and Netflix production policy director Deb Richards urged changes to Japan’s international production incentive at the Motion Picture Association’s annual seminar at the Tokyo International Film Festival, as the government prepares a new body to bring its scattered content-industry support under one roof. Boden, the London-based producer who spent almost [ ]
+Deranged Minds Entertainment has announced a feature-length doc on an iconic scream queen. Danielle Harris, the actress who was in four “Halloween” films and many more projects, is the subject of a new film about her life and career shot over the last three years. Per the official description, “Before she was old enough to [ ]
 
-### Netflix Docuseries The One About Matthew Perry Is a Tragic, Mournful Portrait of Addiction: TV Review
-Tue, 27 Oct 2026 07:01:00 +0000 — https://variety.com/2026/tv/reviews/the-one-about-matthew-perry-review-netflix-1236931448/
+### Joy Behar Returns to The View After Nearly a Month Away: I Dislocated My Shoulder and the Pain Was Worse Than Childbirth
+Tue, 27 Oct 2026 15:44:00 +0000 — https://variety.com/2026/tv/news/joy-behar-the-view-return-dislocated-shoulder-1236932092/
 
-There are not a lot of famous people in “The One About Matthew Perry.” None of the late actor’s “Friends” castmates sat for an interview for the three-part Netflix docuseries; neither did Perry’s longtime friend and “Simpsons” star Hank Azaria, who knew Perry as a striving young actor in L.A., or later collaborators like Bradley [ ]
+Joy Behar returned to The View on Tuesday after nearly a month away from the ABC talk show, revealing that a backstage fall left her with a dislocated shoulder and pain she described as worse than childbirth. The 84-year-old comedian, who last appeared on the show Sept. 30, received a standing ovation from the studio [ ]
 
-### Donnie Iris, Pittsburgh s Favorite Rocker, Who Scored Hits With the Jaggerz and as a Solo Artist, Dies at 83
-Tue, 27 Oct 2026 04:30:55 +0000 — https://variety.com/2026/music/obituaries-people-news/donnie-iris-dead-pittsburgh-rocker-jaggerz-rapper-ah-leah-1236931843/
+### Dave Jorgenson Jumped From Short-Form Video at The Washington Post to Long-Form Video on YouTube. Which Task is Harder?
+Tue, 27 Oct 2026 15:42:00 +0000 — https://variety.com/2026/tv/news/dave-jorgenson-video-washington-post-youtube-1236931962/
 
-Donnie Iris, regarded as Pittsburgh s biggest hometown rock hero for a six-decade career that included hit singles in the 1960s and 80s, died Monday at 83. He had been fighting bladder cancer for three years. Iris biggest chart success came as a member of the Jaggerz, who reached No. 2 on the Billboard Hot 100 [ ]
+Will a YouTube viewer spend more than half an hour trying to figure out if Ukraine’s attacks on Russian data centers have decimated an army of propaganda bots? Dave Jorgenson believes the answer is a resounding “Yes.” During a recent 32-minute-plus episode of his show, “What’s Your Source,” a joyful Jorgenson led followers through a [ ]
 
-### Mirzapur Tops a Decade of Indian Streaming as New Commissions Fall, IMDb Report Finds (EXCLUSIVE)
-Tue, 27 Oct 2026 04:30:00 +0000 — https://variety.com/2026/tv/news/mirzapur-indian-streaming-commissions-fall-imdb-report-1236931765/
+### Rick Caruso Stays in the L.A. Conversation With Memoir of a Life Spent Building Businesses and Handling Crises
+Tue, 27 Oct 2026 15:30:00 +0000 — https://variety.com/2026/biz/news/rick-caruso-memoir-breaking-new-ground-karen-bass-1236931601/
 
-Viewer interest in Indian shows on IMDb rose about 17-fold over the past decade, even as the number of new shows and seasons commissioned in the country has dropped for two straight years, according to a new IMDb study that traces the growth of Indian streaming through its most popular titles. 10 Years of Streaming [ ]
+Rick Caruso has remained one of L.A. s most prominent political figures, even after bowing out of a second run for mayor this year. Now the shopping center magnate is preparing to unveil a memoir, “Breaking New Ground,” which will offer behind-the-scenes political dealings and lessons from a life spent in the midst of civic crises. [ ]
 
-### Tokyo Jury President Rolf de Heer on FIAPF’s New A-List: It Matters a Great Deal to Some People, and Not at All to Others
-Tue, 27 Oct 2026 03:41:10 +0000 — https://variety.com/2026/film/festivals/tokyo-jury-chief-rolf-de-heer-fiapf-new-a-list-1236931842/
+### Sophia Bush on Choosing Experiences to Share in Her Book — and Which She Wrote About and Never Published
+Tue, 27 Oct 2026 15:25:00 +0000 — https://variety.com/2026/tv/news/sophia-bush-book-one-tree-hill-chicago-p-d-stories-1236931585/
 
-FIAPF’s decision to make A-list status official, with Tokyo among the 17 festivals named, is unlikely to change much about the event, according to the filmmaker leading its competition jury. Australian filmmaker Rolf de Heer, the director of “Bad Boy Bubby” and “Ten Canoes,” was asked at the 39th Tokyo International Film Festival’s jury press [ ]
+Sophia Bush didn t hold back while writing her new memoir, And I ll Tell You Mine. Although best known as an actress, Bush not only details the roles that made her famous, but also her childhood, her politics, her past and present personal relationships, and everything in between. There were things that I knew were very [ ]
 
-### Jon Stewart Trolls Trump’s Nicki Minaj Fixation After ‘Beautiful Ass’ Comment: ‘He’s Like Yogi Bear Floating Towards a Pie’
-Tue, 27 Oct 2026 03:39:24 +0000 — https://variety.com/2026/tv/news/jon-stewart-nicki-minaj-trump-daily-show-1236931839/
+### Charades Boards Basketball Drama Import From Cannes Alum Paul Shkordoff Ahead of AFM (EXCLUSIVE)
+Tue, 27 Oct 2026 15:17:21 +0000 — https://variety.com/2026/film/global/charades-basketball-drama-import-cannes-alum-paul-shkordoff-1236931082/
 
-On Monday night’s episode of “The Daily Show,” Jon Stewart trolled Donald Trump’s fixation on Nicki Minaj as the president’s odd remarks about the rapper s “beautiful ass” have been making the rounds across the internet. Stewart began the evening’s show by focusing on the midterm elections, and the issues that voters are, “for some reason,” [ ]
+Charades (“Club Kid”) has boarded “Import,” the debut feature film of Canadian director Paul Shkordoff, whose 2020 short “Benjamin, Benny, Ben” competed at Cannes. Set in the fiercely competitive world of European basketball, the movie was co-written by Frank Graziano (“Murina”) and Shkordoff. It s now in post-production. American professional basketball player Jawaun Daniels, who has [ ]
 
-### Ghosts: The Possession of Button House Scares Up U.K., Ireland Box Office Win
-Tue, 27 Oct 2026 03:28:11 +0000 — https://variety.com/2026/film/box-office/ghosts-the-possession-of-button-house-uk-ireland-box-office-1236931821/
+### Amelia Dimoldenberg s Final Chicken Shop Date Series to Screen in Theaters
+Tue, 27 Oct 2026 15:00:00 +0000 — https://variety.com/2026/film/global/amelia-dimoldenberg-final-chicken-shop-date-series-theaters-1236932009/
 
-Lionsgate U.K. s horror-comedy Ghosts: The Possession of Button House debuted at the summit of the U.K. and Ireland box office, collecting £2.4 million ($3.2 million) across its opening weekend. Warner Bros. DC horror thriller Clayface opened in second position with $2.6 million. Amazon MGM Studios comedy feature Ali G: Who Iz I? claimed third place, [ ]
+Amelia Dimoldenberg s Chicken Shop Date is coming to the big screen. To celebrate its final series after 12 years, Dimoldenberg is holding a one-night-only event on Nov. 24 at cinemas in the U.K., Ireland and Paris in collaboration with YouTube s Cine Club. All six episodes of the final series — which so far includes interviews [ ]
 
-### Taylor Swift, Inducted Into Nashville Songwriters Hall of Fame, Says There Is No Music Community Like This Music Community. I Know, I Checked All the Communities
-Tue, 27 Oct 2026 02:55:14 +0000 — https://variety.com/2026/music/news/taylor-swift-inducted-speech-nashville-songwriters-hall-fame-1236931794/
+### Sosie Bacon Joins Nikolaj Coster-Waldau in Black Tapes Series at MGM+
+Tue, 27 Oct 2026 15:00:00 +0000 — https://variety.com/2026/tv/news/sosie-bacon-nikolaj-coster-waldau-black-tapes-series-mgm-1236932042/
 
-Taylor Swift looked back on her earliest days crafting songs in Music City as she was inducted Monday into the Nashville Songwriters Hall of Fame, becoming its youngest member at 36. Swift was inducted by former tourmate Brad Paisley, whom she teased, and serenaded by Lainey Wilson, whom she praised, before launching into a lengthy [ ]
+Sosie Bacon is set for a lead role in the upcoming MGM+ series The Black Tapes, Variety has learned. Bacon will star in the series alongside previously announced cast member Nikolaj Coster-Waldau. As previously reported, the show is based on the hit horror podcast of the same name and will begin production on its eight-episode [ ]
 
-### Jay-Z to Perform at Apple Music 2027 Super Bowl Halftime Show
-Tue, 27 Oct 2026 01:50:39 +0000 — https://variety.com/2026/music/news/jay-z-to-perform-2027-super-bowl-halftime-show-1236876986/
+### Until the Day Ends Review: Two People Connect Across a Political Divide in a Striking Serbian Youth Drama
+Tue, 27 Oct 2026 14:44:05 +0000 — https://variety.com/2026/film/reviews/until-the-day-ends-review-1236931675/
 
-Jay-Z is slated to perform at the Apple Music Super Bowl LXI Halftime Show, taking place on Feb. 14, 2027, at SoFi Stadium in Inglewood, California. From Reasonable Doubt to standing on the Super Bowl Halftime stage, this has been a journey, said Jay-Z in a statement. Thirty years of music, work, and culture on [ ]
+Amid the turmoil of mass student protests in the streets of Belgrade, two young people are bonded by a rash act of rebellion, despite their outwardly incompatible ideologies. The premise of Serbian writer-director Jelena Maksimović s Until the Day Ends portends a tidy political parable — a sort of why can t we all get along homily [ ]
 
-### Searchlight Pictures Marketing EVP Michelle Hooper Exits Studio
-Tue, 27 Oct 2026 01:29:38 +0000 — https://variety.com/2026/film/news/searchlight-pictures-marketing-evp-michelle-hooper-exits-1236931776/
+### Netflix Grapples With Digital-Ad Squeeze Amid Widening Glut of Streaming Commercials
+Tue, 27 Oct 2026 14:40:00 +0000 — https://variety.com/2026/tv/news/netflix-streaming-ads-squeeze-greg-peters-ted-sarandos-1236931807/
 
-Michelle Hooper is leaving Searchlight Pictures as executive vice president of marketing after two decades with the company. Since joining in 2006, Hooper’s work on publicity, awards and creative marketing helped earn the studio nearly 200 Oscar nominations and more than 130 Golden Globe nominations. Of those 200, Searchlight took home 49 wins, including best [ ]
+Netflix blazed a path in the streaming era that many of its media rivals have tried to follow. As it has tried to navigate Madison Avenue, however, the company has found bumps in the road. The streaming giant last week rolled back its projections for advertising revenue, calling for $2.7 billion instead of $3 billion [ ]
 
 ## The Hollywood Reporter
 
-### Hilary Rosen Named BAFTA Chair
-Tue, 27 Oct 2026 09:58:48 +0000 — https://www.hollywoodreporter.com/business/business-news/hilary-rosen-named-bafta-chair-sara-putt-deputy-film-tv-1236740653/
+### Abbi Jacobson Signs With Anonymous Content (Exclusive)
+Tue, 27 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/business/business-news/abbi-jacobson-anonymous-content-1236740690/
 
-Formerly deputy chair of the Academy, Rosen replaces the outgoing Sara Putt.
+The co-creator and star of ‘Broad City and ‘A League of Their Own’ also has the third and final season of Lisa Kudrow’s ‘The Comeback’ for HBO on her dance card.
 
-### The One About Matthew Perry Review: Netflix s Intimate and Sincere but Overly Padded Docuseries
-Tue, 27 Oct 2026 07:01:00 +0000 — https://www.hollywoodreporter.com/tv/tv-reviews/the-one-about-matthew-perry-review-netflix-documentary-1236740422/
+### A Sense of Home Gala to Honor Co-Founders Georgie Smith and Melissa Goddard
+Tue, 27 Oct 2026 16:00:00 +0000 — https://www.hollywoodreporter.com/lifestyle/lifestyle-news/a-sense-of-home-gala-honor-georgie-smith-melissa-goddard-1236740257/
 
-Perry's sister Mia and various friends, former girlfriends and colleagues talk about the actor's genius and his demons in Mary Robertson's three-parter.
+Drew Scott will also be recognized at the Nov. 12 event, which supports the nonprofit's mission of preventing homelessness for youth aging out of foster care.
 
-### The Sukiyaki Phenomenon: The Song Behind the Tokyo Film Festival s Opening Movie
-Tue, 27 Oct 2026 05:38:20 +0000 — https://www.hollywoodreporter.com/music/music-features/sukiyaki-movie-explainer-1236738909/
+### Russell Brand Trial: Judge Reduces One Charge to Attempted Indecent Assault as Star Says I Led a Very Promiscuous Life
+Tue, 27 Oct 2026 15:50:29 +0000 — https://www.hollywoodreporter.com/news/general-news/russell-brand-trial-indecent-assault-charge-reduced-rape-1236740777/
 
-The origin story behind the infectious melody that captured hearts around the world as Japan returned to the international stage after World War II.
+"I had sexual encounters in countless locations and scenarios, often with people I had just met," said Brand, who denies the rape and sexual assault charges, in a police statement.
 
-### Tokyo: TIFFCOM Market Chief On Riding the Japanese IP Wave as Entertainment Landscape Shifts Due to AI
-Tue, 27 Oct 2026 04:51:17 +0000 — https://www.hollywoodreporter.com/business/business-news/tokyo-tiffcom-market-interview-kaori-ikeda-1236739634/
+### Amelia Dimoldenberg s Chicken Shop Date: The Final Series Will Hit Theaters for One Night Only
+Tue, 27 Oct 2026 15:48:07 +0000 — https://www.hollywoodreporter.com/movies/movie-news/amelia-dimoldenberg-chicken-shop-date-final-cinema-theaters-1236740694/
 
-With interest in Japanese culture at an all-time high, TIFFCOM managing director Kaori Ikeda says there is an opportunity to adapt IP beyond anime and manga.
+The show's final installment has been edited into a film, which will end with the last, unreleased 'Chicken Shop Date' episode.
 
-### Tokyo: Competition Jury Discusses Event s A-List Status, Fighting Over Favorite Films
-Tue, 27 Oct 2026 03:29:31 +0000 — https://www.hollywoodreporter.com/movies/movie-news/tokyo-film-festival-2026-jury-press-conference-1236740519/
+### Kordell Stewart Hopes His New HBO Documentary Lands Him in the NFL Hall of Fame
+Tue, 27 Oct 2026 15:45:36 +0000 — https://www.hollywoodreporter.com/tv/tv-features/kordell-stewart-new-hbo-documentary-1236740115/
 
-Jury president Rolf de Heer was joined by Yov Moor, Oh Jungwan, Makiko Watanabe and Alex C. Lo for a lively conversation.
+'Kordell Stewart: Slash Burn' from Skydance Sports tackles the gay rumor that the former Pittsburgh Steelers quarterback says derailed his career.
 
-### Jay-Z to Headline 2027 Super Bowl LXI Halftime Show
-Tue, 27 Oct 2026 01:54:13 +0000 — https://www.hollywoodreporter.com/music/music-news/jay-z-headline-2027-super-bowl-lxi-halftime-show-performer-1236697354/
+### Fair Play Doc About Olympic Gymnast Jordan Chiles Set for 2027 Release on Hulu, Disney+ (Exclusive)
+Tue, 27 Oct 2026 15:30:00 +0000 — https://www.hollywoodreporter.com/movies/movie-news/jordan-chiles-documentary-fair-play-olympics-andscape-1236740605/
 
-The billionaire rap icon already curates the Halftime Show through his company Roc Nation.
+Andscape is behind director Trishtan Williams' feature about the athlete who helped lead Team USA to Olympic gold in 2024.
 
-### Aaron Sorkin After The Social Reckoning : I m Very Worried That the Parts of Directing That I m Not Good at Are Those Parts That You Can t Learn
-Tue, 27 Oct 2026 01:54:08 +0000 — https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-social-reckoning-directing-doubts-few-good-men-1236740233/
+### Susan Saint James, ‘Name of the Game,’ ‘McMillan Wife’ and ‘Kate Allie’ Star, Dies at 80
+Tue, 27 Oct 2026 14:11:26 +0000 — https://www.hollywoodreporter.com/tv/tv-news/susan-saint-james-dead-mcmillan-and-wife-kate-allie-1236740719/
 
-In front of an audience at the Newport Beach Film Festival, the legendary writer turned embattled director discussed revisiting Facebook 16 years after 'The Social Network,' his thoughts about 'The West Wing' today ("I always want to rekindle the show") and re-writing 'A Few Good Men' 40 years after writing it — this time sober.
+The Emmy winner (and eight-time nominee) also worked in such films as ‘Love at First Bite,’ ‘How to Beat the High Cost of Living’ and ‘Carbon Copy.’
 
-### Proton VPN s Early Black Friday Sale Lets You Stream International TV for 75 Percent Off
-Tue, 27 Oct 2026 01:51:44 +0000 — https://www.hollywoodreporter.com/tv/tv-news/proton-vpn-deals-black-friday-2026-pricing-plans-discount-1236740491/
+### The NFL s Biggest Dramas This Season Are In the Broadcast Booth
+Tue, 27 Oct 2026 14:07:11 +0000 — https://www.hollywoodreporter.com/business/business-news/nfl-espn-drama-broadcast-booth-buck-aikman-1236739960/
 
-The service's best offer of the year lets users tune into BBC One, BBC iPlayer, Netflix UK and other global channels and streamers for a fraction of traditional retail.
+From Troy Aikman to Tony Romo, the on-air talent who function as the gateway to the game have become the story, much to the league's chagrin.
 
-### Macklemore Launches Sold-Out Free Palestine Tour in Dublin With Hozier, Kneecap and Ed Sheeran s Backing Band
-Tue, 27 Oct 2026 01:49:48 +0000 — https://www.hollywoodreporter.com/music/music-news/macklemore-free-palestine-tour-artists-ed-sheeran-backing-band-1236740531/
+### Babel : THR s 2006 Review
+Tue, 27 Oct 2026 13:16:49 +0000 — https://www.hollywoodreporter.com/movies/movie-news/babel-movie-review-2006-brad-pitt-1236740689/
 
-The event comes after the rapper was removed from Sheeran's tour last month for making "free Palestine" statements onstage.
+On Oct. 27, 2006, Paramount unveiled Alejandro González Iñárritu's drama in theaters following its premiere in competition at the Cannes Film Festival.
 
-### Neil Young Sues Trump for Using Rockin in the Free World at Rally: The Opposite of Everything Donald J. Trump Stands For
-Mon, 26 Oct 2026 23:45:29 +0000 — https://www.hollywoodreporter.com/music/music-news/neil-young-sues-trump-for-using-rockin-in-the-free-world-1236740459/
+### HBO s Harry Potter and the Philosopher s Stone Casts James and Lily Potter, Charlie Weasley
+Tue, 27 Oct 2026 12:00:00 +0000 — https://www.hollywoodreporter.com/tv/tv-news/hbo-harry-potter-philosophers-stone-cast-james-lily-potter-1236740639/
 
-Young's $10 million suit is the second time he's sued over Trump's use of the song, filing his first lawsuit against another Trump group back in 2020.
+The first season of Francesca Gardiner's TV adaptation arrives on Christmas Day.
 
 ## Deadline
 
-### ‘Tokyo Vice’ Producer Netflix APAC Production Affairs Chief Suggest Tweaks To Japan’s Support System: “Incentives Can Be Lower So Long As They’re Certain”
-Tue, 27 Oct 2026 09:39:28 +0000 — https://deadline.com/2026/10/japan-incentives-scheme-netflix-tokyo-vice-toho-tombo-1237205993/
+### Russell Brand Indecent Assault Charge Reduced By Judge: Trial Continues
+Tue, 27 Oct 2026 15:49:58 +0000 — https://deadline.com/2026/10/russell-brand-indecent-assault-charge-reduced-trial-continues-1237206104/
 
-Tokyo Vice producer Alex Boden and Netflix’s APAC Content Studio Production Affairs chief Debra Richards offered some thoughts on how Japan’s new IP360 incentives scheme could be improved to offer better support to international productions during an MPA seminar at the ongoing Tokyo International Film Festival. Introduced last year to replace the existing JLOX [ ]
+Editor’s note: This story contains details of alleged sexual offenses that some readers may find distressing. An indecent assault charge against Russell Brand has been reduced as the prosecution wraps its case at London s Southwark Crown Court. The judge told jurors there was insufficient evidence for the charge and it has instead been reduced to [ ]
 
-### BAFTA Names New Chair
-Tue, 27 Oct 2026 09:35:13 +0000 — https://deadline.com/2026/10/bafta-names-hilary-rosen-chair-uktv-sara-putt-1237206009/
+### A24 s Fantasy Epic Elden Ring Heads To AFM As The Biggest Movie Ever On Sale At A Market; Amazon Joins Pic Starring Kit Connor
+Tue, 27 Oct 2026 15:17:38 +0000 — https://deadline.com/2026/10/elden-ring-biggest-movie-on-sale-market-amazon-joins-a24-1237201368/
 
-BAFTA has a new chair. UKTV commissioning boss Hilary Rosen will succeed Sara Putt at the UK awards body after Putt s three-year term runs down. Rosen has been Deputy Chair for the past year and will be succeeded in that role by Ade Rawcliffe and Andrew Miller. Rosen is a well-regarded TV commissioner who has [ ]
+EXCLUSIVE: A24 s fantasy video game adaptation Elden Ring is heading to the American Film Market where it ll be the biggest-budget standalone project ever on sale at a film or TV market. We hear from sources the budget is being pegged between $175M-$200M, but closer to the latter, which takes the project beyond previous tentpoles that [ ]
 
-### Stephen Simon Cornwell Take On Chairmen Roles At Night Manager Producer The Ink Factory As Michele Wolkoff Upped To President
-Tue, 27 Oct 2026 09:00:00 +0000 — https://deadline.com/2026/10/the-ink-factory-cornwells-chairmen-wolkoff-upped-president-1237185488/
+### Jack Cressall Writing Camp Justice Pilot Based On John Ryan Book America s Trial: Torture And The 9/11 Case
+Tue, 27 Oct 2026 15:07:39 +0000 — https://deadline.com/2026/10/camp-justice-pilot-jack-cressall-writing-john-ryan-book-1237206055/
 
-EXCLUSIVE: Stephen and Simon Cornwell have taken on chairmen roles at their Night Manager indie The Ink Factory amid a wave of hires and promotions. The Cornwells, whose father was iconic British spy author John le Carré, have promoted Creative Director Michelle Wolkoff to President and Chief Creative Officer, while Ian Spence becomes Chief Financial [ ]
+EXCLUSIVE: The TV adaptation of John Ryan s non-fiction book America s Trial: Torture and the 9/11 Case now has a writer. British screenwriter Jack Cressall is writing a pilot for Camp Justice, which will be based on Ryan s non-fiction book from last year. Naomi Harvey from Golden Possum Productions has developed the book for TV and [ ]
 
-### Bill Kramer Says AMPAS Plans To Expand List Of Festivals That Can Serve As Qualifiers For The International Oscar Category
-Tue, 27 Oct 2026 05:39:51 +0000 — https://deadline.com/2026/10/bill-kramer-international-oscar-category-tokyo-1237205952/
+### Sosie Bacon Set As Co-Lead Alongside Nikolaj Coster-Waldau In MGM+ Series ‘The Black Tapes’
+Tue, 27 Oct 2026 15:00:00 +0000 — https://deadline.com/2026/10/sosie-bacon-mgm-plus-series-the-black-tapes-1237191989/
 
-The Academy of Motion Picture Arts and Sciences will expand the list of festivals that can serve as standalone qualifiers for the International Film Oscar category, AMPAS CEO Bill Kramer confirmed this morning during an interview with Deadline at the Tokyo Film Festival. Kramer, who has become a frequent fixture on the international festival circuit [ ]
+Sosie Bacon (Smile, Scarpetta) has been tapped as the female lead opposite Nikolaj Coster-Waldau in The Black Tapes, MGM+ s supernatural investigation drama series based on the 2015 horror podcast of the same name. In The Black Tapes, Dr. Richard Strand (Coster-Waldau), a brilliant psychiatrist with a mysterious past, teams with the obsessed, methodical physicist Alex [ ]
 
-### Rolf de Heer Fellow Tokyo Jury Members Talk Festival A-List Ratings, Co-Production How To Judge Films
-Tue, 27 Oct 2026 04:40:56 +0000 — https://deadline.com/2026/10/tokyo-film-festival-rolf-de-heer-festival-ratings-fiapf-1237205918/
+### Omar Sharif Jr. Sam Asghari Among Cast For Rom-Com Crazy Rich Arabs ; Filming Kicks Off November In LA
+Tue, 27 Oct 2026 14:47:34 +0000 — https://deadline.com/2026/10/sam-asghari-omar-sharif-jr-cast-crazy-rich-arabs-la-shoot-1237173040/
 
-Australian filmmaker Rolf de Heer, president of the competition jury at this year’s Tokyo International Film Festival, talked about the significance of ‘A-list’ ratings for film festivals at the jury press conference today. Tokyo has recently had its status as an A-list festival reaffirmed by the Fédération Internationale des Associations des Producteurs de Films (FIAPF), [ ]
+EXCLUSIVE: Indie rom-com movie Crazy Rich Arabs (no relation to WB s Crazy Rich Asians franchise) kicks off in LA next week with cast led by Omar Sharif Jr. (The Secret Scripture), Sam Asghari (Hacks), Aron Kader (Ramy), and Walid Chaya (The Blacklist: Redemption). The ensemble also features Kourosh Parsapour (In the Garden of Tulips), Lara [ ]
 
-### Ryan Gosling Zach Shields Duo Dead Man s Bones Returns With New Song Plus Music Video Starring Rain Spencer And Noah Jupe
-Tue, 27 Oct 2026 04:24:08 +0000 — https://deadline.com/2026/10/ryan-gosling-dead-mans-bones-new-song-music-video-1237194091/
+### Susan Saint James Dies: McMillan Wife , Kate Allie Actor Was 80
+Tue, 27 Oct 2026 13:56:40 +0000 — https://deadline.com/2026/10/susan-saint-james-dead-1237206072/
 
-Spooky season is about to reach its peak, and Ryan Gosling’s band Dead Man’s Bones are contributing to the holiday spirit this year with a new song and music video. The rock duo comprising Project Hail Mary star Gosling and Godzilla: The New Empire producer Zach Shields released their first and only self-titled album in [ ]
+Susan Saint James, the husky-voiced actress who starred in such popular TV series as McMillan Wife and Kate Allie, died Monday, October 26, of pancreatic cancer. She was 80. A rep for Saint James confirmed her death to People. Among her survivors are husband Dick Ebersol, the former President of NBC Sports and [ ]
 
-### Gilded Age Creator Julian Fellowes Calls HBO s Casey Bloys Our Protector Our Defender From Very Early Days During Season 4 Premiere
-Tue, 27 Oct 2026 03:55:26 +0000 — https://deadline.com/2026/10/gilded-age-julian-fellowes-hbo-casey-bloys-premiere-1237205924/
+### Matthew Perry Netflix Docuseries: Five Takeaways From Flimsy Look At Friends Star s Life Death
+Tue, 27 Oct 2026 13:48:42 +0000 — https://deadline.com/2026/10/matthew-perry-docuseries-takeaways-netflix-1237196343/
 
-Julian Fellowes attended The Gilded Age s Season 4 premiere at the Plaza Hotel in New York City, where he thanked Casey Bloys for believing in the series from the start. I have a special place in my heart for Casey Bloys, our protector, our gladiator, our defender from very, very early days, Fellowes said before [ ]
+SPOILER ALERT: The following article contains details about Netflix s The One About Matthew Perry docuseries. Let s be honest, Netflix s just debuted The One About Matthew Perry is mainly for the hardcore Friends fans. Having said that even the devotees of Rachel, Ross, Monica, Joey, Phoebe and Chandler might be disappointed as there s not much in [ ]
 
-### Jay Z Apple Make It Official! Hova s Headlining The Super Bowl Halftime Show
-Tue, 27 Oct 2026 01:59:00 +0000 — https://deadline.com/2026/10/jay-z-super-bowl-halftime-official-nfl-apple-1237205883/
+### Billy Crystal’s 860 Extends Broadway Run To February
+Tue, 27 Oct 2026 13:18:11 +0000 — https://deadline.com/2026/10/billy-crystal-860-broadway-closing-date-1237206061/
 
-Less than 48 hours after walking off stage at L.A. s Sofi Stadium this weekend, Jay Z has made it official. The hip hop icon and Roc Nation founder has picked himself to headline the Super Bowl LXI halftime show in the City of Angels. “From Reasonable Doubt to standing on the Super Bowl Halftime stage, [ ]
+Billy Crystal will stay on Broadway for a month longer than expected: He s extended the run of 860, his new solo play, by six weeks through Sunday, February 14, 2027. The limited-engagement production, which opened to favorable reviews on October 21, was originally set to close Sunday, January 3, 2027, but has been extended due [ ]
 
-### Neil Young Rocks Trump With $10M Suit Over Using That Free World Tune Again
-Tue, 27 Oct 2026 01:48:46 +0000 — https://deadline.com/2026/10/neil-young-sues-trump-copyright-1237205848/
+### Derek Vs Derek : British Rewilding Doc About Warring Neighbors Tests Its Unexpected Protagonists In All The Right Ways
+Tue, 27 Oct 2026 13:00:00 +0000 — https://deadline.com/2026/10/derek-vs-derek-adam-wishart-global-breakout-1237169592/
 
-Almost no one expects Donald Trump to keep his word, but unlike most, Neil Young ain t taking any crap from the former Apprentice host. Having repeatedly told Trump to keep his MAGA mitts off his classic Rockin in the Free World song, the 80-year-old Grandfather of Grunge took the poll struggling POTUS back to court [ ]
+Welcome to Global Breakouts, Deadline’s strand in which, each fortnight, we shine a spotlight on the TV shows and films killing it in their local territories. The industry is as globalized as it’s ever been, but breakout hits are appearing in pockets of the world all the time and it can be hard to keep [ ]
 
-### Netflix Taps Former Apple Exec Steve Wilson To Lead Podcast Acquisitions
-Tue, 27 Oct 2026 01:40:34 +0000 — https://deadline.com/2026/10/netflix-apple-exec-steve-wilson-podcast-acquisitions-1237205867/
+### Vantage Media Takes North American Rights To Pole-Dancing Drama ‘Exotic’ As Trailer Unveiled
+Tue, 27 Oct 2026 12:40:34 +0000 — https://deadline.com/2026/10/vantage-media-north-american-pole-dancing-exotic-trailer-unveiled-1237206051/
 
-Steve Wilson has been tapped to head Netflix s podcast division as it seeks new growth opportunities, Deadline has learned. The former Apple Podcasts executive has been contracted by the streamer to lead the company s podcast acquisitions. Wilson had spent 15 years at Apple, where he worked across editorial, partner relations, and marketing. He left in [ ]
+EXCLUSIVE: Vantage Media has acquired North American rights to Polish feature Exotic, about a woman’s journey toward self-discovery through pole dancing, ahead of its premiere at the Tallinn Black Nights Film Festival. The picture follows a writer whose quest to master pole dancing evolves into something far more profound when the process and community of [ ]
 
-### Milcho Manchevski Talks ‘Sister Brother Manhole Cover’, His Second Feature Of 2026 Exposing Corruption At Macedonia’s Film Agency — Tokyo
-Tue, 27 Oct 2026 00:48:10 +0000 — https://deadline.com/2026/10/milcho-manchevski-sister-brother-manhole-cover-tokyo-1237202859/
+### Meghan Markle To Co-Host Junior MasterChef Australia
+Tue, 27 Oct 2026 12:20:36 +0000 — https://deadline.com/2026/10/meghan-markle-junior-masterchef-australia-co-host-1237206038/
 
-This week, Macedonian filmmaker Milcho Manchevski returns with Sister Brother Manhole Cover, his second feature of the year, which screens in competition at the Tokyo Film Festival. Directed by Manchevski from a screenplay he also wrote, Sister Brother Manhole Cover follows siblings Malina and Viktor, who live on the outskirts of post-Communist Macedonia. They make [ ]
+She might not be set to appear in The Gentlemen, but Meghan Markle is headed for the Junior MasterChef kitchen. The Duchess of Sussex will be a special guest on Junior MasterChef Australia, the Network Ten version of Banijay s culinary cook-off series, and comes after an appearance on MasterChef Australia earlier this year. She will [ ]
 
-### Searchlight Pictures Marketing EVP Michelle Hooper Leaving Studio
-Tue, 27 Oct 2026 00:31:25 +0000 — https://deadline.com/2026/10/searchlight-michelle-hooper-leaving-1237202751/
+### 2026-27 Premiere Dates For New Returning Series On Broadcast, Streaming Cable
+Tue, 27 Oct 2026 12:00:00 +0000 — https://deadline.com/feature/2026-tv-premiere-dates-1236391902/
 
-EXCLUSIVE: We hear that Searchlight Pictures EVP of Marketing Michelle Hooper, who delivered the specialty label numerous Oscar nominations and wins during her two-decade tenure, is exiting. Hooper led publicity, awards and creative marketing operations, earning the studio 21 Best Picture Oscar nominations — including Best Picture winners Slumdog Millionaire, 12 Years a Slave, Birdman, [ ]
+Here is Deadline&#x2019;s annual list of premiere dates for new and returning TV series. Updated daily, the roster covers hundreds of broadcast, cable and streaming programs debuting in 2026 and early 2027, many still listed as TBA (to be announced). It includes series premieres, season debuts, shows returning from hiatus and some one-offs such as [ ]
 
 ## befores & afters
 
@@ -174,6 +174,16 @@ Tue, 27 Oct 2026 08:25:07 +0000 — https://beforesandafters.com/2026/10/27/on-t
 Timothee Chalamet and Denis Villeneuve on the set of Dune: Part Three in the Liwa Desert, Abu Dhabi. Copyright: © 2026 Warner Bros. Ent. All Rights Reserved. Photo Credit: Photo by Niko Tavernise The post On The Set Pic: Dune: Part Three appeared first on befores & afters .
 
 ## IndieWire
+
+### Luchino Visconti s Tragic, Beautiful Final Film L Innocente Restored in 4K — Watch the Trailer
+Tue, 27 Oct 2026 15:00:00 +0000 — https://www.indiewire.com/news/trailers/luchino-visconti-linnocente-4k-restoration-trailer-1235223886/
+
+The 1976 marital melodrama joins Visconti classics like "White Nights" and "Conversation Piece" in returning to theaters, restored.
+
+### How Two Rival Columnists Created Hollywood’s Gossip Machine — and Taught America to Worship Attention
+Tue, 27 Oct 2026 13:00:00 +0000 — https://www.indiewire.com/features/commentary/hollywood-whispers-excerpt-hedda-hopper-louella-parsons-1235223094/
+
+In this excerpt from her new book "Hollywood Whispers: The Untold Story of the Original Gossip Queens, Louella Parsons and Hedda Hopper," author Eileen Cope charts the origins of a legendary show business rivalry.
 
 ### Watch My Undesirable Friends Director Julia Loktev Recall the Week Russia Invaded Ukraine
 Tue, 27 Oct 2026 00:30:00 +0000 — https://www.indiewire.com/news/events/my-undesirable-friends-director-julia-loktev-art-of-the-doc-1235223867/
@@ -225,117 +235,107 @@ Mon, 26 Oct 2026 12:02:00 +0000 — https://www.indiewire.com/criticism/movies/q
 
 Binoche and Tom Courtenay star as the fraying family members (and therefore caretakers) of a dementia-addled woman whose time, memory, and function have run out.
 
-### Clayface Tops the Box Office with $24 Million. What Does It Signal About DC Studios Latest Reboot?
-Sun, 25 Oct 2026 16:36:38 +0000 — https://www.indiewire.com/news/box-office/clayface-tops-box-office-24-million-dc-studios-reboot-james-gunn-1235223683/
-
-James Gunn and Peter Safran were brought in to revitalize the comic book brand with mixed results.
-
-### Box Office: A24 s You Can See Everything Scores Huge $19.5 Million Second Weekend
-Sun, 25 Oct 2026 13:48:18 +0000 — https://www.indiewire.com/news/box-office/box-office-you-can-see-everything-huge-second-weekend-a24-1235223679/
-
-Nathan Fielder and Lance Oppenheim's twisty look at Elizabeth Holmes saw its grosses increase from its red-hot debut.
-
 ## The Wrap
 
-### Jon Stewart Is Thrown When Journalist Starts Interview With Jared Kushner s Denial: Am I in Trouble Now?
-Tue, 27 Oct 2026 05:39:21 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-reacts-as-journalist-starts-interview-with-jared-kushner-denial/
+### Jimmy Fallon Jokes Trump Thinks Midterms Are Still Far Away: That s One and a Half Press Secretaries From Now
+Tue, 27 Oct 2026 15:14:42 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-fallon-trump-midterms-press-secretary-joke/
 
-Jon Stewart was briefly taken aback during Monday s The Daily Show when his guest, Matthew Cole, kicked off their interview with a formal denial from Jared Kushner , who is the subject of the journalist s new book, Princes and Thieves . Oh, my God, did you bring questions for me? Stewart quipped as the sit down conversation kicked off. No, but I do have something out of fairness, before we begin, I want to read Mr. Kushner s lawyer s denial, part of it, Cole said as the studio audience broke out into laughter. No, [I m] serious. A baffled Stewart responded: You want to read it before we start? Is this a bit or is this real? Cole then assured Stewart and the crowd that this statement was very real, before taking a moment to read the lawyer s comments aloud. Mr. Kushner never accessed foreign accounts and always followed all rules and regulations, and only pursued goals that were in the best interest of the United States, as directed by the President of the United States, Cole shared, noting it was a statement he received from Kushner s camp. So I just want to get that out of the way, because it s important, no, it s important to note that Kushner unequivocally and emphatically denies everything in this book, he added. I mean, everything. Stewart then took a beat, staring intently at Cole before asking: Well, am I in trouble now? What the f k? What are you doing? Cole informed Stewart that he was good, giving the late night host the greenlight to move forward with their intervi
+This year s midterm elections are just a week away now, but according to Jimmy Fallon that s still a ways out at least by President Trump s measurements. To kick off his monologue on Monday night, the NBC host noted that the November midterms are just eight days away, before offering up the president s most likely response. President Trump was like, Wow, that s one and a half press secretaries from now!' Fallon joked. A long time. He was, of course, referring to the exceedingly short tenure of Katie Zacharia, who was fired from the position of White House Press Secretar y after just five days. Her run set a new record for the position, lasting fewer days than Anthony Scaramucci. That said, Trump is out on the campaign trail, hoping to boost Republican candidates on the ballot. But, Fallon joked, that s not going well either. Right now he s about as useful as Spirit Halloween on November 1st, he joked. You can tell Republicans are worried because earlier tonight Trump held a rally in the deep red state of Mississippi. The late night host then quipped that the possibility of Mississippi going blue in this year s election would be a truly shocking twist. It s strange. It s like hearing that a Cracker Barrel inside a Bass Pro Shop could go blue, you know what I m saying? Fallon joked. You can watch Jimmy Fallon s full monologue in the video above. The post Jimmy Fallon Jokes Trump Thinks Midterms Are Still Far Away: That s One and a Half Press Secretaries From Now appeared first 
 
-### Jimmy Kimmel Tries to Master the Gesture Trump Pulled While Ogling Nicki Minaj: ‘I’m Grossing Myself Out’
-Tue, 27 Oct 2026 04:51:35 +0000 — https://www.thewrap.com/creative-content/tv-shows/jimmy-kimmel-roasts-donald-trump-nicki-minaj-gesture/
+### Pluto TV Extends Double Feature Fridays Programming Through November With 8 More Movies
+Tue, 27 Oct 2026 15:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/pluto-tv-double-feature-fridays-november-movies/
 
-Jimmy Kimmel mocked Donald Trump’s lewd gesture after the president shouted out Nicki Minaj’s behind, attempting to recreate the viral moment. The comedian addressed the awkward exchange during Monday s monologue for Jimmy Kimmel Live! , where he roasted Trump for selecting the totally stable Nicki Minaj to stump with him in Port Huron, Mich. over the weekend. Trump has failed on every count, Kimmel sounded off. He s kept none of his promises. Not only has he made a mess of this country, he s made a mess of the whole world. And so, what do you do when your presidency crashes and burns and may very well take Congress down along with it? You make a phone call to the totally stable Nicki Minaj. Editors for Jimmy Kimmel Live! then cut to Trump s rally speech, in which he said looked at one hell of a beautiful ass before, referring to the famed rapper. That s hard to miss, Trump said as the crowd cheered. Stand up. That s hard to miss. Trump then licked his lips, punched the air and pursed his mouth – a move Kimmel attempted to recreate in his studio. After a couple tries and lots of laughter from the studio audience, Kimmel noted, Honestly, I m grossing myself out even doing it. Horny Donald is my least favorite Donald of all of them. Stand up, Nikki. Let s get a look at that big, beautiful badonkadonk on you, Kimmel said doing his best Trump impression. Listen, if anyone knows an ass that is difficult to miss, he added, as footage of Trump walking away played. I mean, this is an
+Pluto TV is doubling down on its Double Feature Fridays programming, with the free streamer revealing its weekly movie pairings for November on Tuesday. As we bid farewell to spooky season this weekend, Pluto TV is inviting viewers to enjoy a classic blockbuster along with a matching indie darling every Friday night next month. The upcoming offerings include: Nov. 6 — “Man on Fire” & “Hostile Takeover” Nov. 13 — “The Equalizer 2” & “Cleaner” Nov 20 — “Déjà Vu” & “The Wasp” Nov 27 — “Dreamgirls” & “Albany Road” Plus, additional pairs will be announced at a later date to bring Double Feature Fridays through to the end of 2026. The weekly event is hosted by “Entertainment Tonight” correspondent Emily Curl, with curated segments that feature rare archival footage, red carpet interviews and behind-the-scenes clips. “The stories behind a movie can be just as memorable as the movie itself,” Curl shared back in August. “Double Feature Fridays gives us the chance to bring those moments into the experience in a way that’s fun and unexpected, adding a new perspective to familiar favorites while introducing audiences to something new.” “We’re building Pluto TV into a weekly movie night destination,” Pluto TV SVP of Content Partnerships & Programming Will Gurman also noted at the time. “Double Feature Fridays pairs a film people already love with one they’re about to discover, then brings in ‘Entertainment Tonight’ to host the whole night — turning movie night into a ritual our viewers wo
 
-### Jon Stewart Stuns ‘Daily Show’ Crowd by Shouting Out Saudi Crown Prince That Invested in Skydance
-Tue, 27 Oct 2026 03:56:19 +0000 — https://www.thewrap.com/creative-content/tv-shows/jon-stewart-stuns-daily-show-crowd-saudi-crown-prince-skydance-joke/
+### Susan Saint James, Emmy-Winning Actress, Dies at 80
+Tue, 27 Oct 2026 13:59:00 +0000 — https://www.thewrap.com/media-platforms/tv/susan-saint-james-dead/
 
-Jon Stewart took his Daily Show audience by surprise by making a jab at one of parent company Skydance s major investors: Saudi Crown Prince Mohammed bin Salman Al Saud . The comedian touched on Al Saud s investment in Skydance during Monday s monologue for The Daily Show, where he called out Donald Trump s statements ahead of the midterm elections and highlighted how the president failed to deliver on countless campaign promises. Do you know when Trump ran in 2024 – do you remember what his message was? Stewart asked before footage played the following messaged: Kamala s for they, them. President Trump is for you. Oh, right. He was for you. But Trump never really told you who you was, did he? Stewart continued. Because my guess is, given the state of our economy, you might have foolishly thought that you meant you, the people. But after two years in office, it s clear who you turned out to be. You was actually them. Yeah, billionaires like Elon Musk. They ve done great. He was recently promoted to trillionaire. As Stewart went on, he called out how everyone from Jeff Bezos to Trump s own children have thrived in his second term, while everyday Americans have bemoaned gas and grocery prices. And by the way, Trump s family aren t the only yous, Stewart said. The Trump administration has treated inanimate objects more lavishly than the you he swore to represent. Turns out, the you is an it. He added: I mean, obviously, there were plenty of yous that he was never going to be for
+Susan Saint James, the Emmy-winning actress known for her roles in multiple hit 1970s and 80s television shows, has died. She was 80. The Name of the Game, McMillan & Wife and Kate & Allie star died Monday following a battle with pancreatic cancer, her family and a representative announced on Tuesday. Saint James team remembered her as “generous with her time and energy, which she valued more than money, and instinctively drawn to whoever needed lifting up. She taught her children to pause, be kind and look out for other people.” “She never met a stranger. Every person she met became the most important person in the room at that moment, from a fellow board member to the clerk at the shoe store, who usually walked away knowing her entire life story, they continued. Her defining act: weeks after losing her youngest son, Teddy, in the Nov. 28, 2004, plane crash, she delivered his eulogy as a note to each of her other children and her husband, giving them words to heal. Even in the deepest grief of her life, she put everyone else first. Days after the crash she sat with Tim Russert to thank the people who had reached out and to tell them the family was okay.” “She brought that same fire and positivity to everything that followed, and never lost it, their statement concluded. In addition to her 1969 Emmy win for supporting actress in a comedy, Saint James earned a further four nominations and a Golden Globe nod throughout her career. She also received a star on the Hollywood Walk 
 
-### Neil Young Sues Trump for $10 Million Over ‘Rockin’ in the Free World’ Usage – Again
-Tue, 27 Oct 2026 02:12:15 +0000 — https://www.thewrap.com/creative-content/music/neil-young-sues-trump-again-rally-song-rockin-in-the-free-world/
+### Seth Meyers Drags Trump s Pathetic Hope for a Second Nobel to Be Handed Out Just for Him
+Tue, 27 Oct 2026 13:54:14 +0000 — https://www.thewrap.com/culture-lifestyle/culture/seth-meyers-drags-trump-hope-nobel-peace-prize/
 
-Neil Young filed a $10 million lawsuit against Donald Trump’s political committee, alleging copyright infringement over the organization’s continued use of his song, “Rockin’ in the Free World,” at midterm election rallies. In the lawsuit, which was filed on Monday and obtained by TheWrap, Young’s camp highlighted how the unsanctioned use of “Rockin’ in the Free World” as the president’s walk-up tune violated the terms of a past settlement. As we previously reported in 2020 , Young and his publishing company, Silver Fiddle Music, filed a copyright infringement suit against Trump’s presidential campaign over the use of “Rockin in the Free World,” as well as “Devil s Sidewalk,” at rallies. The musician later dismissed the lawsuit in December 2020, but only after reaching a settlement with the Trump campaign – which included the promise that they would not use the song without the proper permission. Yet, Young accused Trump 47 Committee Inc. of doing just that in his new suit Monday, noting, “The Committee does not now have, and did not at the time of the Youngstown Rally or any other rally financed and conducted by the Committee, have a license or Young’s permission to play the Song at any public political event.” “‘Rockin’ in the Free World’ is a blistering anthem that contrasts the hollow promises of American political rhetoric with the harsh realities faced by the poor, homeless and forgotten,” the document added. “The lyrics paint vivid street-level portraits — a mother dis
+President Trump is still pretty upset that he wasn t awarded the Nobel Peace Prize this year, and admitted during a rally over the weekend that his immediate reaction was to ask if they give out two. And to Seth Meyers, that s just pathetic. Speaking to a crowd in Port Huron on Sunday, Trump recalled how the award this year was won by a woman that nobody ever heard of, and then revealed that his response was: What about me? Do they do two of them? By all appearances, he wasn t joking. Oh man, that s just pathetic, Meyers derided. I mean, I ve also wanted to win things, but I know when to take the loss. When they say And the Emmy goes to John Oliver, I don t turn to my wife and say, Maybe they ll do two?!' The late night host also had a good laugh at Trump s outrage that the Peace Prize went to a woman who isn t well-known. It s a peace prize. They don t have to give it to someone who s famous, Meyers reminded. It s for peace, not celebrity. You re acting like they gave PEOPLE s Sexiest Man Alive to Frank from Staten Island. Throughout the rest of the segment, Meyers largely dragged Trump and his allies for their closing messages to voters ahead of next week s midterms. Meanwhile, he was delighted by former president Barack Obama s campaign trail speeches, reiterating that My favorite Obama is stand-up Obama. You can watch Seth Meyers full A Closer Look segment in the video above. The post Seth Meyers Drags Trump s Pathetic Hope for a Second Nobel to Be Handed Out Just for Him
 
-### Jay-Z to Headline 2027 Super Bowl Halftime Show
-Tue, 27 Oct 2026 01:57:57 +0000 — https://www.thewrap.com/creative-content/music/jay-z-2027-super-bowl-halftime-show-headline/
+### Is DC s Clayface a Hit?
+Tue, 27 Oct 2026 13:32:06 +0000 — https://www.thewrap.com/creative-content/movies/is-clayface-dc-a-hit-box-office/
 
-Rap superstar Jay-Z, whose company Roc Nation produces the Apple Music Super Bowl LXI Halftime Show, will headline the 2027 musical interlude. The rapper, known for hits 99 Problems, Big Pimpin,' and Empire State of Mind, will take the stage at SoFi Stadium in Inglewood, Calif. on Sunday, Feb. 14, 2027 for Super Bowl LXI. The NFL confirmed Jay-Z as the halftime performer to the New York Times on Monday. “Thirty years of music, work and culture on the world’s biggest stage,” Jay-Z said in a statement to the outlet. “This run continues to be a dream come true.” Jay-Z s company Roc Nation took over producing the Super Bowl halftime show in 2019, producing performances that featured Shakira and Jennifer Lopez, The Weeknd, Rihanna, Kendrick Lamar and (most recently) Bad Bunny. However, the 2027 halftime show will mark the first time Jay-Z has performed midway through the big game. His wife, Grammy winner and chart-topper Beyoncé, has performed during the Super Bowl halftime show twice. She first took the stage in 2013, when she headlined the halftime show at the Mercedes-Benz Superdome in New Orleans, La. It was during this performance that she briefly reunited with her Destiny s Child bandmates Kelly Rowland and Michelle Williams. Beyoncé then appeared as a guest performer during Coldplay s headlining act in 2016, popping up for a surprise appearance at Super Bowl 50 in Santa Clara, Calif. Yet, as NFL Commissioner Roger Goodell told the Times, it was always the organization s hop
+DC s Clayface opened to $24 million at the box office this weekend. Is that good? Bad? Good enough? It s all of the above. James Gunn and Peter Safran s reboot of the DC universe got off to a good start with last year s Superman, which earned positive reviews and $619 million at the global box office against a $225 million budget. A solid launching pad. But then things hit the skids with this summer s Supergirl, which was not only a box office bomb (it grossed just $126 million worldwide against a $170 million+ budget), but also earned largely negative reviews (it has a 52% on Rotten Tomatoes). So a lot was riding on Clayface, and on the surface $24 million for a superhero movie isn t too hot — Supergirl opened to $37 million. But the key here is the budget. Gunn and Safran greenlit Clayface, a body horror movie about an actor whose skin literally starts melting and morphing like clay, at a budget around $40 million, which makes the path to profitability much more doable. Going in the Clayface is a hit column is the fact that the film earned an A- CinemaScore from audiences and a 4.5/5 on PostTrak, which bodes well for this coming Halloween weekend for folks looking for a good scary movie to watch for the holiday. Word of mouth won t tank this one like it did Supergirl. Given the box office struggles of the entire superhero genre over the last couple of years, it s very possible that Gunn and Safran s approach here proves fortuitous. A Marvel-like slate of two or three $250 m
 
-### Ex-Yahoo CEO Defends Using AI to Describe Her Daughter Amid Backlash, Says Tool ‘Blew Me Away’
-Tue, 27 Oct 2026 01:26:07 +0000 — https://www.thewrap.com/industry-news/tech/ex-yahoo-ceo-defends-using-ai-to-describe-daughter/
+### ‘The One About Matthew Perry’ Review: Touching Netflix Docuseries Is About Far More Than ‘Friends’
+Tue, 27 Oct 2026 13:30:00 +0000 — https://www.thewrap.com/creative-content/reviews/the-one-about-matthew-perry-netflix-documentary-review/
 
-Marissa Mayer, former CEO of Yahoo and founder of Dazzle AI , went viral on Sunday for sharing an anecdote about offloading an assignment for her daughter s birthday to her artificial intelligence tool. Now, Mayer has taken to social media to provide more context to the story, featured in The New York Times . To be clear, I didn’t use Dazzle because I was overwhelmed by making a slide, Mayer said. I used it because summing up your child in a few bullets feels laughably limiting. And, since our team had just gotten an early prototype running, I wanted to see what deeper threads it might find. The anecdote shared in the NYT states that Mayer was asked by her daughter s school to accomplish what felt like an impossible task (as the reporter put it): writing three bullet points for her daughter s birthday, summarizing what made her special. Mayer enlisted the help of Dazzle AI, which went through her photo library to come up with the bullet points. Dazzle blew me away, Mayer said on Monday. Not only did it distinguish Marielle from Sylvana, it surfaced forgotten kindergarten projects (like the snake denomizer and the sandcat playground ) and connected them to who Marielle is today. I combined Dazzle’s insights with a few of my own and showed the slide to @zackbogue. He was floored and asked how I remembered those details. I fessed up that the Dazzle prototype had found them, and we both marveled at what AI can unlock from our camera rolls. The bullet points that Dazzle came up wi
+Three weeks before winning his signature role as Chandler Bing in “Friends” and after several years of struggling to make a mark in Hollywood, actor Matthew Perry prayed, “God, you can do whatever you want to me; just please make me famous.” In retrospect, the prayer takes on a sobering irony. Fame was the answer Perry thought he wanted. Netflix’s three-part documentary, “The One About Matthew Perry,” spends its running time examining everything fame could — and couldn’t — solve. Perry died on Oct. 28, 2023 , at age 54, after the acute effects of ketamine caused him to lose consciousness and drown in the hot tub at his Los Angeles home. Rather than treating that tragedy as a final twist, the docuseries views it as the culmination of a decades-long struggle that saw Perry carom between addiction and recovery, and back again. Matthew Perry in The One About Matthew Perry. (Netflix) Premiering Tuesday, just before the third anniversary of his death, the project traces Perry’s journey from precocious teenager to breakout television star, sitcom icon and, ultimately, tragic figure. Across three hourlong episodes, it presents a life encompassing friendship, faith, ambition, service and a generosity seemingly at odds with the chaos of his private life. Built around testimony from Perry’s sister, Mia Perry Bowick, a small cadre of lifelong friends, former romantic partners and a number of professional collaborators, the series sometimes feels like a group of people trying to keep a co
 
-### Searchlight Pictures Marketing EVP Michelle Hooper Departs Studio
-Tue, 27 Oct 2026 01:03:18 +0000 — https://www.thewrap.com/creative-content/movies/searchlight-pictures-marketing-evp-michelle-hooper-exits/
+### Television Academy Launches PA Training Program for Los Angeles-Area Teens
+Tue, 27 Oct 2026 13:20:09 +0000 — https://www.thewrap.com/media-platforms/tv/television-academy-production-assistant-training-program-los-angeles/
 
-Searchlight Pictures EVP of Marketing Michelle Hooper is departing the specialty studio after a 20-year run, during which she oversaw the awards and marketing campaigns of 21 Best Picture Oscar-nominated films, five of which won the Academy s top prize. The first of those five wins for Hooper came in 2008 with Danny Boyle s Slumdog Millionaire and were followed with Steve McQueen s 12 Years a Slave, Alejandro Inarritu s Birdman, Guillermo Del Toro s The Shape of Water and Chloe Zhao s Nomadland. Other Oscar-nominated and winning films Hooper worked on include Little Miss Sunshine, 127 Hours, The Grand Budapest Hotel, The Favourite, Poor Things, and A Complete Unknown. Within Searchlight, Hooper was known as The Closer for her ability to make a major impact on Academy voters in the final weeks of an awards campaign. Prior to her two decades in the specialty film world at Searchlight, Hooper worked in television with four years as VP of Entertainment Publicity at Fox, where she worked on some of the network s biggest hit shows like The Simpsons, American Idol, 24, Family Guy and Arrested Development. Prior to that, she was Director of Entertainment Communications at CBS, where she worked on the publicity campaign for the inaugural season of Survivor in 2000, helping to launch one of the most successful reality shows of all time. Her final films at Searchlight include the upcoming Martin McDonagh dark comedy Wild Horse Nine and the Tony Gilroy music drama Behemoth! “She’s a stel
+The Television Academy is investing in the next generation of Hollywood s below-the-line talent with some help from Best Buy. That s because the Television Academy Foundation announced its Skill-Building and Career Readiness program on Tuesday, an after-school curriculum for Los Angeles-area teens that will prepare students for entry-level production assistant jobs with education from TV industry professionals. Opening doors to production jobs helps shape a more dynamic and representative entertainment industry, said Television Academy Board Governor Donny Hugo Herran, who also serves as the program s first instructor. “I’m proud to lead the inaugural Production Assistant Training program, supported by Best Buy’s generous grant, and to prepare aspiring crew members to help them thrive behind the scenes. We are thrilled to partner with Best Buy to offer this exceptional program to local underserved communities, Television Academy Foundation chair Tina Perry shared in a statement. This curriculum combines industry education, practical production training, professional mentorship and real-world exposure to help students build the knowledge, confidence and connections needed to begin exploring careers in television and entertainment. Based out of YMCAs in Boyle Heights and North Long Beach, the 10-week program will see students learn from PAs, production coordinators, assistant directors, production managers, producers, location managers and production accountants while also emba
 
-### Young Storytellers Nonprofit Launches Fund in Memory of TV Producer Jamie Tarses
-Tue, 27 Oct 2026 00:50:17 +0000 — https://www.thewrap.com/culture-lifestyle/culture/young-storytellers-nonprofit-jamie-tarses-fund/
+### Regional Sports Networks Feasted on Cable Fees. What Happens as They Dry Up?
+Tue, 27 Oct 2026 13:15:00 +0000 — https://www.thewrap.com/media-platforms/tv/regional-sports-networks-cable-decline-streaming-future/
 
-The Los Angeles nonprofit organization Young Storytellers has established a fund in honor of late television executive and producer Jamie Tarses . The fund will support the organization s programs in L.A. public schools, helping volunteer mentors work personally with students to help them write original scripts for professional actors to perform on stage. Jamie understood that the most powerful thing you can tell a young person is that their ideas deserve to be taken seriously, Jaylene Benggon Chung, managing director of Young Storytellers, said in a statement. She built that belief into this organization, and it is still at the center of everything we do. Because of this fund, the kids who come through our doors will keep feeling her generosity, whether or not they ever learn her name. Tarses, a longtime TV producer, started her career at Saturday Night Live, working as a talent executive before becoming a casting director for Lorimar Productions. In 1987, she went to NBC, where she helped develop such hit shows as Friends, Mad About You, Frasier and NewsRadio. 1996 saw Tarses become the first woman to lead a network entertainment division as she became president of ABC Entertainment, where she produced such shows as The Practice, Spin City and Sports Night. Some of Tarses independent productions include Mad Love, Happy Endings, Franklin & Bash and My Boys. Jamie was never happier than when she was helping writers tell their stories, her brother, Matt Tarses, co-creator of H
+As the World Series heads into Game 4 on Tuesday, Major League Baseball is enjoying its biggest national television spotlight of the year. But the business of showing its teams regular-season games back home is facing a much tougher financial reality. For decades, regional sports networks, or RSNs, have been the primary television home for local professional sports. Channels such as Boston s NESN and New York s MSG Networks pay teams for the rights to broadcast their games, then make money from advertising and fees paid by cable and satellite providers. Unlike national sports networks, they generally serve specific markets and carry games from just a handful of local teams. That business model is unraveling as households abandon traditional pay TV. Like other cable networks, RSNs are losing subscribers and distribution revenue. But their reliance on expensive rights agreements with a limited number of teams makes them especially vulnerable. Also, like other cable properties, they re trying to carve out a future with streaming, but so far that hasn t generated enough money to replace what RSNs are losing from traditional pay TV. Cutting costs alone isn t a growth strategy, and adding subscribers without a sustainable business model isn t enough either, NESN CEO David Wisnia told TheWrap. You need both. Some operators, including NESN, are cutting costs and expanding streaming while remaining profitable. Others, including the now-shuttered Main Street Sports Group, couldn t meet
 
-### Trump DOJ Accuses James Comey of Leaking Classified Intel to New York Times in New Charges
-Tue, 27 Oct 2026 00:33:57 +0000 — https://www.thewrap.com/media-platforms/journalism/trump-charges-james-comey-leaking-to-new-york-times/
+### Instagram Wants to Take On YouTube in Longform, but It Faces Serious Hurdles Analysis
+Tue, 27 Oct 2026 13:00:00 +0000 — https://www.thewrap.com/industry-news/tech/instagram-features-challenges-youtube-analysis/
 
-Federal prosecutors again accused James Comey of leaking national security information to the New York Times 10 years ago in a new batch of charges, according to court documents unsealed Monday . The former FBI director s legal team said that the charges have already been investigated twice but have not led to criminal charges. The recent case involved an Oct. 5, 2016 New York Times article that two different teams of prosecutors investigated during the first Trump administration. The court papers accused Comey of knowingly and willfully leaking national defense information to be “communicated, delivered and transmitted to a person not entitled to receive it” around Oct. 4 and Oct. 5 of that year. “Well they re back again. It would almost be funny if it weren’t such an appalling abuse of the Department of Justice, one that we cannot become numb to, Comey said in an Instagram video responding to the allegations. “I’m still innocent. I’m still not afraid of these people.” View this post on Instagram A post shared by James Comey (@comey) In September 2025, the Department of Justice used a person who was not actually a United States attorney to seek an indictment that was not actually shown to the grand jury, a statement from Comey s attorney Patrick Fitzgerald said. It charged Mr. Comey with crimes that he did not commit. That case was promptly and properly dismissed. Both times this case was investigated they ruled that no charges should be brought against anyone. His lawyers a
+First, YouTube came to shortform with YouTube Shorts, and now Instagram is hitting back by going longform. On Monday, the social media platform announced Features, an offering that will allow creators to upload horizontal videos that are up to 90 minutes long. It’s a move that has the potential to disrupt the current creator landscape. Features is clearly designed to be a YouTube competitor that keeps users on Instagram at a time when competition between platforms is brutal. Creators like NowThis use shortform platforms like Instagram Reels, TikTok or YouTube Shorts to drive viewers to the more lucrative YouTube. But with Features, Instagram hopes to cut out the middle man and follow in YouTube’s TV footsteps in the process. For the past three years, YouTube has reigned as the No. 1 most-watched streamer or channel on all of television, accounting for 15.8% of all TV usage in the U.S. during the month of August, according to Nielsen. That was more than twice Netflix’s viewership and amounted to more than all of The Walt Disney Company’s TV properties combined. Instagram believes it can take a cut of this business too. “It s very much about TV,” Adam Mosseri, head of Instagram, said on Monday during an interview with Colin Rosenblum and Samir Chaudry, the creators behind “Colin and Samir.” “You look at YouTube in the U.S. As best we can tell, their time spent on devices is flat, and all their growth is coming on TV. It s not about the time spent as much as the cultural relevan
 
-### Disney+ to Add Channel 4 Content in the UK, Ireland in Early 2027
-Mon, 26 Oct 2026 23:00:00 +0000 — https://www.thewrap.com/media-platforms/streaming/disney-plus-channel-4-content-partnership-uk-ireland-2027/
+### HBO’s ‘Harry Potter’ Series Finds Its Lily and James Potter
+Tue, 27 Oct 2026 12:00:00 +0000 — https://www.thewrap.com/creative-content/tv-shows/hbo-harry-potter-series-lily-james-potter-casting/
 
-Disney+ continues to expand its overseas partnerships with free-to-air broadcasters with a new deal that will bring Channel 4 content to the platform in the U.K. and Ireland starting in early 2027. The deal covers Channel 4 s linear HD channel and hundreds of hours of its scripted and unscripted on-demand content, including the Bella Ramsey-led drama Maya, , Denise Welch-led comedy Stepping Up and reality format Celebrity SAS: Who Dares Wins, as well as Big Mood, Tip Toe and 24 Hours in A&E. The Channel 4 shows will be available day and date on Disney+, with multiple being made available to the streaming service s subscribers at no extra cost. Channel 4 content will be available in a branded section featuring the same navigation and user experience as the rest of Disney+. The move comes as Disney+ plans to triple the number of local original series available on the platform over the next three years to drive new sign-ups internationally and reduce churn. It also comes ahead the streaming service’s transformation into Disney s “digital centerpiece,” with elements of that strategy rolling out starting in the spring. Disney s other content partnerships include France s M6 Group , Italy’s RAI , the U.K.’s ITVX , Sky in the U.K. and Ireland, Astro in Malaysia and TV Azteca in Mexico, Spain’s RTVE and Atresmedia, Germany’s ARD and ZDF and Portugal’s SIC. “Local broadcaster partnerships are very important as we build our content libraries and serve fans around the world. Channel 4 h
+Warning: Some spoilers for “Harry Potter and the Philosopher’s Stone lay ahead. HBO s Harry Potter series has found its Lily and James Potter in Domina actress Hannah Chinn and Broadchurch alum Jasper Talbot, the studio shared Tuesday. HBO officially revealed that Chinn and Talbot will be playing the late parents of the titular wizard in “ Harry Potter and the Philosopher’s Stone .” While Harry Potter s parents are killed off at the start of Philosopher’s Stone, they play a key part in the young wizard s journey at Hogwarts. Namely, Harry notably spots Lily and James in the Mirror of Erised – which is crucial to his fight against Voldemort. In addition to Chinn and Talbot, HBO also shared that Harry Gilby, best known for his work in the TV series The Last Kingdom and Boarders, will round out the Weasley family as Charlie Weasley, a dragonologist that works in Romania. On what fan can expected from the new Harry Potter adaptation, the logline teased: There is nothing special about Harry Potter or so his Aunt Petunia tells him. But when a mysterious letter of admission to Hogwarts School of Witchcraft and Wizardry arrives, it opens the door to a hidden world of magic, friendship and adventure. Yet behind Hogwarts’ enchanted walls lie dark secrets. Harry must find the courage to prove himself against the darkest wizard of all. The new series stars Dominic McLaughlin as Harry Potter, Arabella Stanton as Hermione Granger and Alastair Stout as Ron Weasley, with notable castings for
 
 ## Collider
 
-### Sylvester Stallone’s Legendary Action Franchise Officially Joins ‘Tulsa King’ on Streaming
-Tue, 27 Oct 2026 10:00:12 GMT — https://collider.com/rambo-movies-paramount-plus-streaming-november-1/
+### 9 Years Later, Ridley Scott Is Officially Returning to His Unfinished Alien Story
+Tue, 27 Oct 2026 16:00:12 GMT — https://collider.com/alien-covenant-ridley-scott-new-sequel-aaron-guzikowski/
 
-It’s not wrong to credit Sylvester Stallone for making every boy born in the '60s through the 1970s globally just a bit more rugged and survival-skilled. While Stallone has played in plenty of franchises brilliantly, even long into the 2000s ( Tulsa King , The Expendables, etc.), it was one of his earliest characters, John Rambo, that went on to become an unmatched archetype.
+Ridley Scott just can't help himself when it comes to returning to Alien and, if we're honest, we're always going to be curious about what he's got up his sleeve. After his last directorial sojourns to space and to visit his xenomorph buddies, we were left with far more questions than answers but now, nine years later, Scott is officially returning to the world he helped create.
 
-### Zach Cregger's Horror Masterpiece Officially Returns to Haunt Global Audience
-Tue, 27 Oct 2026 09:30:12 GMT — https://collider.com/weapons-netflix-top-10-zach-cregger-streaming-october-2026/
+### Forget 'The Winds of Winter,' George R. R. Martin's New Epic Fantasy Is Reportedly A24’s Most Expensive Movie Yet
+Tue, 27 Oct 2026 15:46:01 GMT — https://collider.com/george-rr-martin-elden-ring-a24-most-expensive-movie-budget/
 
-Director Zach Cregger has been getting plenty of attention from fans in recent years, and rightfully so. His growing body of work has impressed both fans and critics, and he did not disappoint with his highly anticipated project, Resident Evil , which came out this year. Not only did the adaptation garner critical acclaim, but it was also a box office hit, having earned $400 million worldwide at the time of writing. Cregger’s work is widely appreciated for its horror elements, wider themes of grief, isolation, and an underdog protagonist. Now fans are revisiting one of his most thrilling features that established him as a household name worldwide.
+Despite the lengthy delays for The Winds of Winter and A Dream of Spring , Game of Thrones mastermind George R. R. Martin is actually one of the most prolific creators around. Since 2011, he's been involved in three of the most successful television shows ever made, while also dipping his toe into screenwriting and penning numerous spin-off books and resources from A Song of Ice and Fire . But it's one of his most unexpected projects that might blow the rest of them away.
 
-### Forget 'Saving Private Ryan,' This World War II Movie Is a Masterpiece From Start to Finish
-Tue, 27 Oct 2026 09:10:12 GMT — https://collider.com/the-thin-red-line-saving-private-ryan-world-war-2-movie-masterpiece/
+### 'Glee' Star Leads a Chilling Group Therapy Session in Sneak Peek at New Horror Thriller
+Tue, 27 Oct 2026 15:01:12 GMT — https://collider.com/breeder-sneak-peek-dot-marie-jones/
 
-The 1999 Academy Awards, which celebrated the films of 1998, were a hotly contested race between the eventual winner, Shakespeare in Love and Saving Private Ryan , the presumed frontrunner throughout the season. But strange as it sounds, calling Steven Spielberg 's adventure epic the best film about or set during World War II is a shaky argument, since it isn't even the best WWII movie released in 1998. A poetic and more meditative look at war and its effect on its participants , The Thin Red Line combined the '90s cultural fascination towards the Greatest Generation with the uncompromising vision of Terrence Malick . Beautiful, haunting, and endlessly provoking, The Thin Red Line is a portrait of war that speaks directly to the soul.
+In 2026, horror belongs to the online creators. While Danny and Michael Philippou have led the charge over the last few years with back-to-back horror hits in Talk to Me and Bring Her Back , this year has seen YouTube giant Mark "Markiplier" Fischbach , The Backrooms creator Kane Parsons , and that's a bad idea channel co-creator Curry Barker launch their theatrical filmmaking careers with massive success. Another director whose origins trace back to the online video-sharing platform is now about to get his chance to shine with a disturbing, yet darkly hilarious film that's earned high marks on the festival circuit. At its center is a Glee star in her chilling first turn as a horror lead.
 
-### 8 Forgotten Xbox 360-Era Franchises That Deserve a Comeback
-Tue, 27 Oct 2026 09:08:12 GMT — https://collider.com/best-xbox-360-games-comeback/
+### Chris Pratt Officially Leaves ‘The Terminal List’ Behind With New Apple TV Action Thriller Trailer
+Tue, 27 Oct 2026 13:01:26 GMT — https://collider.com/chris-pratt-way-of-the-warrior-kid-apple-tv-trailer/
 
-The Xbox 360 era was a marvelous generation and the last time publishers regularly bet on strange, original ideas. Sadly, most of those bets never made it past the seventh console generation. Some of the most beloved shooters, action games, and RPGs of the Xbox 360 era have sat untouched for over a decade while their publishers and developers chased live service games and safer sequels.
+2026 has been a busy year for Chris Pratt , who has done more than enough to establish himself as one of the most formidable action stars in all of Hollywood. Pratt opened the year by teaming with Rebecca Ferguson for the AI-driven sci-fi thriller, Mercy , which grossed nearly $50 million at the box office before going on to become one of the most-watched movies of the entire year on Prime Video. He then starred in the first feature film of 2026 to hit $1 billion at the global box office, The Super Mario Galaxy Movie , which is also going strong on Peacock weeks after its streaming debut. Pratt can even be seen over on Prime Video reprising his role as James Reece in the long-awaited third season of The Terminal List , but he’s far from done with 2026.
 
-### Ryan Gosling's Space Adventure Officially Crowned a Modern Classic by Apple TV
-Tue, 27 Oct 2026 09:00:12 GMT — https://collider.com/project-hail-mary-streaming-chart-170-days-ryan-gosling/
+### Apple TV's 'Nocturne' Is a Solid Crime Thriller That Could've Been Even Better | Review
+Tue, 27 Oct 2026 13:01:17 GMT — https://collider.com/nocturne-apple-tv-review-liev-schreiber-stephen-graham-zazie-beetz/
 
-This year so far has seen some amazing movies across genres, be it horror like 28 Years Later: The Bone Temple , Obsession , or epics like Christopher Nolan ’s The Odyssey . In the superhero genre, Spider-Man: Brand New Day did a brilliant box office business and is now entertaining fans on PVOD. Alejandro González Iñárritu and Tom Cruise ’s Digger failed to bring the audience to the theatre but is being recognized for its messaging along with garnering critical praise.
+Dark, twisted crime dramas are a dime a dozen these days, especially on the small screen. Films like The Silence of the Lambs and Zodiac set the standard for these stories, while True Detective perfected the formula for television. Since HBO's landmark crime saga premiered, it feels like every network and streamer has tried desperately to hit the same high with its own thrillers (ironically, HBO has repeatedly been the closest). Many of these brooding, sometimes nightmarish detective stories have come along over the last 15 years or so, and most have failed to create any lasting legacy.
 
-### ‘The Terminal List’ Star Breaks Down the Season 2 Finale’s Intense Action and What’s Next for Raife
-Tue, 27 Oct 2026 09:00:12 GMT — https://collider.com/the-terminal-list-season-2-finale-raife-fate-tom-hopper/
+### New Jimmy Stewart WWII Biopic Officially Sets Early Release Date in Select Theaters
+Tue, 27 Oct 2026 13:00:12 GMT — https://collider.com/jimmy-biopic-early-bird-screenings-sneak-peek-november-1/
 
-Editor's note: The following contains major spoilers for The Terminal List Season 2.
+Horror movies are currently haunting theaters everywhere in anticipation of Halloween this weekend . However, just one week after the height of spooky season, one of the most hotly anticipated biopics of the year will hit the big screen and serve as a fitting kick-off to the run-up to the holiday season. Jimmy , starring Riverdale 's KJ Apa as silver screen legend and veteran Jimmy Stewart , officially debuts on November 6, bringing with it the untold story of how the It's a Wonderful Life star put his career on hold to serve his country. It comes on the heels of a very strong festival run, where critics have been showering Aaron Burns ' portrait of service, stardom, and sacrifice .
 
-### ‘The Terminal List’ Star Breaks Down the Brutal Episode 6 Face-Off Between Landry and Mo
-Tue, 27 Oct 2026 08:01:12 GMT — https://collider.com/the-terminal-list-season-2-landry-fate-luke-hemsworth/
+### Goodbye ‘Yellowstone,’ Netflix’s 6-Part Western Fixes Taylor Sheridan's Biggest Mistakes
+Tue, 27 Oct 2026 12:36:12 GMT — https://collider.com/longmire-netflix-western-fixes-taylor-sheridan-mistakes-native-americans/
 
-Editor's note: The following contains major spoilers for The Terminal List Season 2.
+If you're tired of the oversaturation of Taylor Sheridan -produced Western media and want something that goes beyond what Yellowstone was able to deliver, then we have some great news for you. Folks who have yet to embark on Longmire ought to give the neo-Western gem a try now that it can be found on both Prime Video and Paramount+. In addition to delivering some of the finest Wyoming-centric mysteries the on-screen genre has to offer, the A&E-turned-Netflix drama helped pave the way for further Native American representation on television .
 
-### The Best Book in Brandon Sanderson's Cosmere Is a Masterpiece in Worldbuilding
-Tue, 27 Oct 2026 04:14:12 GMT — https://collider.com/brandon-sanderson-best-cosmere-book-way-of-kings-masterpiece-worldbuilding/
+### Only 10 Horror Movies From the '90s Are Truly Perfect From Start to Finish
+Tue, 27 Oct 2026 12:27:12 GMT — https://collider.com/horror-movies-90s-perfect-start-to-finish/
 
-"Worldbuilding" is a word that gets thrown around a lot in the world of fantasy writing, mainly because it's one of the most important aspects of any story. It's more crucial in high fantasy stories, i.e., works that take place in worlds that are separate from our own and completely fictional. What worldbuilding effectively refers to is the process by which an author creates the history, lore, culture, and atmosphere of their world , and reflects it through their writing. Good worldbuilding is achieved not by dumping a bunch of info on the reader, but by allowing it to come out naturally as the story unfolds.
+Horror has always been a widely celebrated and diverse genre of filmmaking, with each era and decade having its own standout selections that have helped make the genre what it is today. However, there's something especially grand and special about the horror offerings of the 1990s , as there was this perfect mixture of prestigious award-winning films, exciting groundbreaking blockbusters, and intricately layered arthouse horror. Many of the best horror movies of the 90s have achieved substantial legacies as some of the most important and inspirational films the genre has to offer.
 
-### 41 Years Later, The Greatest Sci-Fi Adventure Quote Still Defines the Genre
-Tue, 27 Oct 2026 04:05:12 GMT — https://collider.com/back-to-the-future-best-quote-sci-fi-adventure-movie/
+### 10 '90s Books That Are Perfect From Cover to Cover
+Tue, 27 Oct 2026 12:27:12 GMT — https://collider.com/90s-books-perfect-cover-to-cover/
 
-After starting out as cheesy '50s and '60s B-movies, where a scientist sets off in some goofy-looking time machine, and gets stuck in a predictable past world where they have to fight monsters, time travel movies began to transform in the '70s and '80s with more sophisticated offerings like Time After Time and The Terminator . And then, 1985's Back to the Future arrived. Robert Zemeckis ' film took what audiences already knew about the subgenre and turned it on its head, with Michael J. Fox , Christopher Lloyd , and company creating an unforgettable comedy adventure like viewers had never seen before. Not only was Back to the Future the biggest box office hit of the year, but its final line hinted at what was to come for the franchise and beyond .
+The 1990s produced an almost ridiculous number of books that have since become modern classics . It was a diverse decade, capable of accommodating enormous postmodern experiments and compulsively readable thrillers , groundbreaking fantasy and intimate literary fiction.
 
-### 9 Years Later, Jon Hamm’s Near-Perfect Action Film is Still One of The Best Ever Made
-Tue, 27 Oct 2026 03:42:12 GMT — https://collider.com/jon-hamm-baby-driver-action-film/
+### ‘Daredevil’s Final Season Needs To Get One Important Part Right
+Tue, 27 Oct 2026 12:23:12 GMT — https://collider.com/daredevil-born-again-season-3-deborah-ann-woll-matt-karen-relationship/
 
-Action films are popular for a reason. They're fun to watch, full of impossible exploits, and present a world where characters can scale skyscrapers or jump off trains without fear. From Mission Impossible to Fall Guy , everyone has their own preferences for the action movies they watch. But when paired with a filmmaker's unique style and an emotional heart to the story, action films can transcend the genre and become something particularly special. Jon Hamm 's Baby Driver did just that and more.
+Next year marks the end of an era as Daredevil: Born Again enters its third and final season. This season has a lot to juggle, as Matt Murdock ( Charlie Cox ) struggles to survive in prison while the Defenders reunite . And of course, the question remains whether the seemingly eternal rivalry between Murdock and Wilson Fisk ( Vincent D'Onofrio ) has come to an end . However, if Born Again wants to end on the same strong note as the original Daredevil series, it needs to do justice to a key relationship , and one cast member just reminded fans how important it is.
 

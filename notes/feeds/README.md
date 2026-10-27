@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-27T10:02:37.555Z
+# Source feeds — harvested 2026-10-27T16:01:39.236Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -13,7 +13,10 @@ own feed: headline, link, date, and their summary.
 
 Already aired, so a round-up rather than a preview:
 
+- Eurogamer — Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long
 - Eurogamer — Mass Effect fans ramp up efforts to save BioWare's RPG series with a Times Square billboard and plans for more ads outside The Game Awards
+- VGC — Nintendo s next Indie World showcase will take place this week
+- GameSpot — Nintendo Announces Indie World Showcase For October 28
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -23,10 +26,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-**Write Film & TV next.** 7 articles have gone out since the last one.
+Both quotas are being met. Write whatever the day deserves.
 
-- **Film & TV** — owed now. 7 articles since the last one; quota is one in 8, never worse than one in 10. 24 in the archive of 262.
-- **Manga and anime** — on track. 0 articles since the last one; quota is one in 6. 18 in the archive of 262.
+- **Manga and anime** — on track. 2 articles since the last one; quota is one in 6. 18 in the archive of 264.
+- **Film & TV** — on track. 0 articles since the last one; quota is one in 8, never worse than one in 10. 25 in the archive of 264.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -35,13 +38,13 @@ silently skipping it.
 
 ## Feeds
 
-- [Film & TV](film-tv.md) **owed** — 65 items
-- [Games](games.md) — 89 items
+- [Games](games.md) — 97 items
 - [Tech](tech.md) — 82 items
-- [3D](3d.md) — 12 items
+- [3D](3d.md) — 13 items
 - [AI](ai.md) — 7 items
-- [Manga](manga.md) — 29 items
+- [Manga](manga.md) — 25 items
+- [Film & TV](film-tv.md) — 65 items
 
-Total: 284 items.
+Total: 289 items.
 
 Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429), Anime UK News (HTTP 403).
