@@ -1,6 +1,46 @@
-# Manga — harvested 2026-10-27T16:01:39.236Z
+# Manga — harvested 2026-10-27T20:58:10.770Z
 
 ## Anime News Network
+
+### Manga Barcelona to Host Junji Ito, Hyuganatsu, Nao Iwamoto, Sakaomi Yuzaki, Yudetamago, Taizan 5, Kore Yamazaki, Shoji Kawamori, More
+Tue, 27 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/manga-barcelona-to-host-junji-ito-hyuganatsu-nao-iwamoto-sakaomi-yuzaki-yudetamago-taizan-5-kore-/.243251
+
+Also: Kenny Ruiz, Risa Ebata, Keiichiro Saito, Yuichiro Fukushi, Reol, Lotus Juice, Ali, Nightmare, more
+
+### AniBiz Anime Licensing Platform Receives US$6 Million Investment From TBS, Toei Animation, TV Tokyo
+Tue, 27 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/anibiz-anime-licensing-platform-receives-usd6-million-investment-from-tbs-toei-animation-tv-tokyo/.243261
+
+Kun Gao's Nakama launched dedicated B2B marketplace for global anime industry AniBiz on July 2
+
+### Psyren ‒ Episode 4
+Tue, 27 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/psyren/episode-4/.243253
+
+My inner teenager is glad to see this show animated in however limited a capacity, but I‘m getting increasingly terrified the production is going to test the limits of my nostalgia.
+
+### Detective Conan Anime's 4th Collection of Episodes 'Clash of the Red and Black' Streams on Crunchyroll, Netflix on November 1
+Tue, 27 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/detective-conan-anime-4th-collection-of-episodes-clash-of-the-red-and-black-streams-on-crunchyroll-/.243257
+
+"Clash of the Red and Black" arc centers on FBI vs. Black Organization
+
+### Even the Student Council Has Its Holes! ‒ Episode 4
+Tue, 27 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/review/even-the-student-council-has-its-holes/episode-4/.243249
+
+Not content to rest on its ecchi anime laurels, the series also makes a sincere go at the girls band genre with a beautifully rendered singer-songwriter ditty from Koki.
+
+### GKIDS Releases cocoon Wartime Anime Digitally With Blu-ray Disc Release Shipping on January 19
+Tue, 27 Oct 2026 12:10:19 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/gkids-releases-cocoon-wartime-anime-digitally-with-blu-ray-disc-release-shipping-on-january-19/.243255
+
+Film launches digitally on Apple TV, Prime Video on Tuesday
+
+### Bleach Mirrors High Mobile Game's Opening Animation Trailer Reveals Theme Song, October 28 Launch
+Tue, 27 Oct 2026 12:00:35 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/bleach-mirrors-high-mobile-game-opening-animation-trailer-reveals-theme-song-october-28-launch/.243252
+
+suisoh performs theme song "CRITICAL" for iOS/Android game
+
+### DIGIMON BEATBREAK Episodes 38-49 Anime Series Review
+Tue, 27 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/digimon-beatbreak-episodes-38-49/anime-series/.242706
+
+Calling this show the <i>Digimon</i> franchise's most ambitious anime entry in quite a while would be an understatement.
 
 ### Blue Box Season 2 ‒ Episode 4
 Tue, 27 Oct 2026 11:30:00 -0400 — https://www.animenewsnetwork.com/review/blue-box-season-2/episode-4/.243228
@@ -22,51 +62,16 @@ Tue, 27 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/im-l
 
 This is the closest that the show got to making me feel any type of strong, genuine emotion.
 
-### Welcome to Demon School! Iruma-kun: IruMafia Edition TV Anime Reveals January 4 Debut, Returning Cast Members
-Tue, 27 Oct 2026 10:09:29 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/welcome-to-demon-school-iruma-kun-irumafia-edition-tv-anime-reveals-january-4-debut-returning-cast-/.243245
-
-Ayumu Murase, Ryōhei Kimura, Ayaka Asai, more return for spinoff series
-
-### This Week in Anime - A Horse in the Race
-Tue, 27 Oct 2026 10:00:00 -0400 — https://www.animenewsnetwork.com/this-week-in-anime/2026-10-27/.243201
-
-Politics are even coming for our horse girls now.
-
-### Hello, I Am a Witch and My Crush Wants Me to Make a Love Potion! ‒ Episode 4
-Tue, 27 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/hello-i-am-a-witch-and-my-crush-wants-me-to-make-a-love-potion/episode-4/.243218
-
-Although Harij never says that he likes Rose romantically, every twitch of his eye indicates that he wants to be the only man Rose is open with.
-
-### Firefly Wedding ‒ Episode 3
-Tue, 27 Oct 2026 08:30:00 -0400 — https://www.animenewsnetwork.com/review/firefly-wedding/episode-3/.243217
-
-Even when the story falls short, the production team makes artistic choices that keep me engrossed.
-
-### Shaman King's Hiroyuki Takei Designs Short Net Anime Mecha Samurai
-Tue, 27 Oct 2026 07:11:22 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/shaman-king-hiroyuki-takei-designs-short-net-anime-mecha-samurai/.243242
-
-TV Tokyo, Plott studio's anime to stream vertical shorts in November, main episodes next spring
-
-### Pokémon Unite Game Ends Service on March 23, 2027
-Tue, 27 Oct 2026 02:24:02 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/pokemon-unite-game-ends-service-on-march-23-2027/.243239
-
-Franchise's 1st strategic team-based battle game launched in 2021
-
-### Ashita no Joe Creator Tetsuya Chiba Dies at 87
-Tue, 27 Oct 2026 00:02:14 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/ashita-no-joe-creator-tetsuya-chiba-dies-at-87/.243235
-
-Best known for influential 1968-1973 boxing manga <cite>Ashita no Joe</cite>, anime adaptations
-
-### Live-Action High School Family: Kokosei Kazoku Film's Clip Shows Festival Concert
-Mon, 26 Oct 2026 22:31:23 -0400 — https://www.animenewsnetwork.com/news/2026-10-26/live-action-high-school-family-kokosei-kazoku-film-clip-shows-festival-concert/.243230
-
-Clip features original song "Kizuna"
-
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### CosMeet 2026 Celebrates Creativity and Glamour at Okada Manila
+Tue, 27 Oct 2026 17:49:42 GMT — https://animecorner.me/cosmeet-2026-celebrates-creativity-and-glamour-at-okada-manila/
+
+Cosplay conventions are often associated with busy exhibit halls, crowded walkways, and the excitement&hellip;
 
 ### Mugendai MewType Releases "mugamuchu" Music Video
 Tue, 27 Oct 2026 14:28:29 GMT — https://animecorner.me/mugendai-mewtype-releases-mugamuchu-music-video/
@@ -129,11 +134,6 @@ Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fi
 Mon, 26 Oct 2026 02:44:09 -0700 — https://myanimelist.net/news/74865718?_location=rss
 
 The official website for the television anime adaptation of Miraijin A s Tensei Kizoku, Kantei Skill de Nariagaru: Jakushou Ryouchi wo Uketsuida node, Yuushuu na Jinzai wo Fuyashiteitara, Saikyou Ryouchi ni Natteta (As a Reincarnated Aristocrat, I ll Use My Appraisal Skill to Rise in the World) light novel unveiled additional cast, a third key visual (pictured), and the third promotional video for the third season on Monday. The new arc is scheduled to premiere on November 1 at 11:30 p...
-
-### Houseki no Kuni Creator Launches New Manga
-Sun, 25 Oct 2026 09:56:41 -0700 — https://myanimelist.net/news/74862294?_location=rss
-
-The December 2026 issue of Monthly Afternoon magazine announced on Friday that manga creator Haruko Ichikawa will launch a new sci-fi manga, titled Cosmic Mimimi, in the magazine next issue, scheduled for a November 25 release. Haruko is best known for Houseki no Kuni (Land of the Lustrous), which ran in Monthly Afternoon magazine from October 2012 to April 2024. The 13th and final volume went on sale on November 2024. Kodansha USA licensed the manga in October 2016 and published the 13th volum...
 
 ## Otaku USA
 
