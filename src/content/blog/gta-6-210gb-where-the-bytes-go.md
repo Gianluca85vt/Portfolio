@@ -20,7 +20,6 @@ artistView:
     - "Packaging: the ten gigabytes Phantom Blade Zero saves on PS5 against its PC build is a clean demonstration of what one fixed GPU target and one hardware decompressor are worth."
   misses:
     - "Storage: asking for 300GB free to land a 145GB game is honest about how installers work and brutal on a console-sized drive. In-place and staged unpacking both exist, and almost nobody ships either."
-draft: true
 ---
 
 A tracker that watches the PlayStation Store's back end put Grand Theft Auto VI
