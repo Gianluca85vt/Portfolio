@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900" role="img" aria-label="Indie World showcase, 15:00 Italian time, fifteen minutes">
+  <defs>
+    <linearGradient id="bgIW" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18011F"/>
+      <stop offset="60%" stop-color="#6B122C"/>
+      <stop offset="100%" stop-color="#D6294E"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bgIW)"/>
+
+  <!-- two console outlines: the dual-target brief -->
+  <g fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="3">
+    <rect x="120" y="600" width="300" height="180" rx="18"/>
+    <rect x="470" y="575" width="360" height="205" rx="20"/>
+  </g>
+  <g stroke="#D6294E" stroke-opacity="0.45" stroke-width="2" fill="none">
+    <line x1="120" y1="690" x2="420" y2="690"/>
+    <line x1="470" y1="677" x2="830" y2="677"/>
+  </g>
+
+  <text x="90" y="200" font-family="Helvetica,Arial,sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">15:00</text>
+  <text x="90" y="300" font-family="Helvetica,Arial,sans-serif" font-size="64" font-weight="600" fill="#FFD2DC">Indie World, today</text>
+  <text x="90" y="378" font-family="Helvetica,Arial,sans-serif" font-size="40" fill="#FFFFFF" fill-opacity="0.78">~15 minutes &#183; Switch 2 and Switch</text>
+  <text x="90" y="440" font-family="Helvetica,Arial,sans-serif" font-size="34" fill="#FFFFFF" fill-opacity="0.55">Nintendo has named no games in advance</text>
+</svg>
