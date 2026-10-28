@@ -19,7 +19,6 @@ artistView:
   misses:
     - "Provenance: nothing in a MetaHuman asset records who performed the capture it was retargeted from. The format carries the motion and drops the person."
     - "Neck and shoulders: the faces have outrun the bodies under them, and in wide shots the join still reads as two separate pieces of work."
-draft: true
 ---
 
 On 27 October, in a reply on X, Tim Sweeney set out Epic's position on AI
