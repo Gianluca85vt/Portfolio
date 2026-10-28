@@ -24,6 +24,11 @@ That is the service part.
 
 ## Nintendo has named nothing
 
+<figure>
+  <img src="/img/blog/nintendo-indie-world-28-october-switch-2/shot-01.jpg" loading="lazy" width="1440" height="810" alt="" />
+  <figcaption>Nintendo Switch 2 and Nintendo Switch compared, via Wikimedia Commons</figcaption>
+</figure>
+
 No games, no dates, no prices. The announcement ran the standard sentence —
 roughly fifteen minutes of new announcements and updates on indie games coming
 to Nintendo Switch 2 and Nintendo Switch — and stopped. Any lineup you read this
