@@ -1,4 +1,4 @@
-# Source feeds — harvested 2026-10-28T10:49:01.657Z
+# Source feeds — harvested 2026-10-28T19:07:08.865Z
 
 Fetched by GitHub Actions, which is not behind the writer's egress proxy.
 One file per category. Each item is what the publisher syndicates in its
@@ -11,18 +11,12 @@ own feed: headline, link, date, and their summary.
 
 ## Broadcasts in the feeds
 
-**A preview is owed on this.** Write it before the show airs, with the start time in Italian time and the
-stream embedded, then the round-up an hour after it ends. See
-notes/event-coverage.md.
-
-- **GameSpot** — How To Watch The October Nintendo Indie World Showcase
-  https://www.gamespot.com/articles/nintendo-announces-indie-world-showcase-for-october-28/
-
 Already aired, so a round-up rather than a preview:
 
-- Eurogamer — Nintendo is hosting a new Indie World showcase tomorrow, featuring games for Switch and Switch 2, and it'll be 15 minutes long
 - GamesIndustry.biz — Gamescom Asia touts new records for international attendance and showfloor size
-- VGC — Nintendo s next Indie World showcase will take place this week
+- VGC — Here s all 23 games shown during Nintendo s latest Indie World presentation
+- GameSpot — Nintendo s Indie World Presentation Was Pretty Packed For A Short Show
+- GameSpot — Every October 2026 Nintendo Indie World Game You Can Play Right Now
 
 > **A dated showcase gets two articles, not one.** A preview before it
 > airs, carrying the stream link and the start time in Italian time, and a
@@ -32,10 +26,10 @@ Already aired, so a round-up rather than a preview:
 
 ## Editorial mix — what the archive owes
 
-Both quotas are being met. Write whatever the day deserves.
+**Write Manga and anime next.** 5 articles have gone out since the last one.
 
-- **Manga and anime** — on track. 3 articles since the last one; quota is one in 6. 18 in the archive of 266.
-- **Film & TV** — on track. 1 article since the last one; quota is one in 8, never worse than one in 10. 25 in the archive of 266.
+- **Manga and anime** — BROKEN. 5 articles since the last one; quota is one in 6. 18 in the archive of 268.
+- **Film & TV** — on track. 3 articles since the last one; quota is one in 8, never worse than one in 10. 25 in the archive of 268.
 
 The run is what counts, not the percentage: a burst last month does not
 excuse thirty in a row without one. If a category is owed and the feeds
@@ -44,13 +38,13 @@ silently skipping it.
 
 ## Feeds
 
+- [Manga](manga.md) **owed** — 24 items
 - [Games](games.md) — 101 items
 - [Tech](tech.md) — 82 items
 - [3D](3d.md) — 14 items
-- [AI](ai.md) — 10 items
-- [Manga](manga.md) — 25 items
+- [AI](ai.md) — 11 items
 - [Film & TV](film-tv.md) — 66 items
 
 Total: 298 items.
 
-Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429), Otaku USA (HTTP 520).
+Feeds that did not answer: CGChannel (HTTP 403), VentureBeat AI (HTTP 429).

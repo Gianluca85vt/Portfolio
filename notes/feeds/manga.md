@@ -1,72 +1,82 @@
-# Manga — harvested 2026-10-28T10:49:01.657Z
+# Manga — harvested 2026-10-28T19:07:08.865Z
 
 ## Anime News Network
 
-### Masaki Andō's Mojiponika! Manga Ends on November 25
-Tue, 27 Oct 2026 23:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/masaki-ando-mojiponika-manga-ends-on-november-25/.243238
+### Good Smile Company Announces Data Breach of Online Store
+Wed, 28 Oct 2026 14:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/good-smile-company-announces-data-breach-of-online-store/.243267
 
-Comedy manga launched in May 2025
+User info, order info, basic (but incomplete) credit card info were accessed
 
-### Yome ga Kuru Artist saku Launches New Kimi to Sakura no Hanataba wo Manga
-Tue, 27 Oct 2026 22:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/yome-ga-kuru-artist-saku-launches-new-kimi-to-sakura-no-hanataba-wo-manga/.243258
+### What Romance Tropes Saka Mikami Avoided With The Fragrant Flower Blooms With Dignity Manga
+Wed, 28 Oct 2026 13:35:01 -0400 — https://www.animenewsnetwork.com/interview/2026-10-28/what-romance-tropes-saka-mikami-avoided-with-the-fragrant-flower-blooms-with-dignity-manga/.243085
 
-<cite>Kimi to Sakura no Hanataba wo</cite> debuts on November 1
+While visiting Kodansha House during New York Comic Con weekend, Mikami shared one moment from the manga that shocked her, despite writing being the person who wrote it
 
-### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part I
-Tue, 27 Oct 2026 21:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-27/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-i/.243254
+### Bleach: Thousand-Year Blood War - The Calamity ‒ Episode 10
+Wed, 28 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/bleach-thousand-year-blood-war-the-calamity/episode-10/.243290
 
-Colleagues and publishers offer their respect to legendary manga creator of <cite>Ashita no Joe</cite>
+This was a great note for <i>Bleach</i> to end on, and I’m glad Pierrot Films made it the best it could possibly hope to be.
 
-### Eito Chida Launches New Hoshibarai no Chidori Manga
-Tue, 27 Oct 2026 20:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/eito-chida-launches-new-hoshibarai-no-chidori-manga/.243220
+### Bakudo Action Game's Trailer Reveals Switch 2 Version, 2027 Release
+Wed, 28 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/bakudo-action-game-trailer-reveals-switch-2-version-2027-release/.243289
 
-<cite>Hoshibarai no Chidori</cite> debuts on November 20
+Shueisha Games to release sci-fi action battle game for Switch 2, PC
 
-### Live-Action Sins of Kujo Film's New Trailer Unveils Theme Song
-Tue, 27 Oct 2026 19:44:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/live-action-sins-of-kujo-film-new-trailer-unveils-theme-song/.243264
+### Crunchyroll to Stream Mashle: Magic and Muscles Season 3 Anime
+Wed, 28 Oct 2026 12:30:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/crunchyroll-to-stream-mashle-magic-and-muscles-season-3-anime/.243281
 
-Hitsujibungaku performs "Dispel"
+3rd season debuts in January
 
-### We Are Aliens Film Wins Awards at Rome, Philadelphia Film Festivals
-Tue, 27 Oct 2026 19:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/we-are-aliens-film-wins-awards-at-rome-philadelphia-film-festivals/.243231
+### Detective Conan: The Counterfeit Crime Case of Ultra 30 Anime TV Special Review
+Wed, 28 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/review/detective-conan/the-counterfeit-crime-case-of-ultra-30/anime-tv-special/.242552
 
-New video showing film clip streams
+Unfortunately, this special is not befitting for the series' 30th anniversary.
 
-### Deadline: Takashi Yamazaki's Grandgear Film Casts Sam Nivola, Nico Parker
-Tue, 27 Oct 2026 18:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/deadline-takashi-yamazaki-grandgear-film-casts-sam-nivola-nico-parker/.243234
+### Anime World Offers Condolences After Manga Creator Tetsuya Chiba's Death, Part II
+Wed, 28 Oct 2026 12:00:00 -0400 — https://www.animenewsnetwork.com/interest/2026-10-28/anime-world-offers-condolences-after-manga-creator-tetsuya-chiba-death-part-ii/.243262
 
-Paul Giamatti also reportedly in talks to join cast
+Creators, artists, & fans came together for their farewells
 
-### Manga Mavericks Books, Omoi License Georgie Manga in English
-Tue, 27 Oct 2026 17:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/manga-mavericks-books-omoi-license-georgie-manga-in-english/.243227
+### Bandai Namco Announces Mobile Suit Gundam Battle Operation 3 Game for PS5, PC
+Wed, 28 Oct 2026 11:45:12 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/bandai-namco-announces-mobile-suit-gundam-battle-operation-3-game-for-ps5-pc/.243288
 
-Series launches digitally in spring 2027, in print in August 2027
+Trailer streamed for free-to-play team combat game
 
-### Manga Barcelona to Host Junji Ito, Hyuganatsu, Nao Iwamoto, Sakaomi Yuzaki, Yudetamago, Taizan 5, Kore Yamazaki, Shoji Kawamori, More
-Tue, 27 Oct 2026 16:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/manga-barcelona-to-host-junji-ito-hyuganatsu-nao-iwamoto-sakaomi-yuzaki-yudetamago-taizan-5-kore-/.243251
+### Cardfight!! Vanguard Announces New Veil Lift Anime, 2nd Season of Ghost Meets Gal Mini Anime
+Wed, 28 Oct 2026 11:00:55 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/cardfight-vanguard-announces-new-veil-lift-anime-2nd-season-of-ghost-meets-gal-mini-anime/.243287
 
-Also: Kenny Ruiz, Risa Ebata, Keiichiro Saito, Yuichiro Fukushi, Reol, Lotus Juice, Ali, Nightmare, more
+More details will be announced for <cite>Cardfight!! Vanguard Veil Lift</cite> on December 7
 
-### AniBiz Anime Licensing Platform Receives US$6 Million Investment From TBS, Toei Animation, TV Tokyo
-Tue, 27 Oct 2026 15:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/anibiz-anime-licensing-platform-receives-usd6-million-investment-from-tbs-toei-animation-tv-tokyo/.243261
+### A Certain Dark Item ‒ Episode 3
+Wed, 28 Oct 2026 10:30:00 -0400 — https://www.animenewsnetwork.com/review/a-certain-dark-item/episode-3/.243270
 
-Kun Gao's Nakama launched dedicated B2B marketplace for global anime industry AniBiz on July 2
+This time around, our heroes are clearly in the dark about the true nature of their job.
 
-### Psyren ‒ Episode 4
-Tue, 27 Oct 2026 13:30:00 -0400 — https://www.animenewsnetwork.com/review/psyren/episode-4/.243253
+### Nia Liston: The Merciless Maiden ‒ Episode 4
+Wed, 28 Oct 2026 09:30:00 -0400 — https://www.animenewsnetwork.com/review/nia-liston-the-merciless-maiden/episode-4/.243268
 
-My inner teenager is glad to see this show animated in however limited a capacity, but I‘m getting increasingly terrified the production is going to test the limits of my nostalgia.
+I’m confident that this show won’t find a mainstream audience, but <i>Nia Liston</i> is rapidly becoming an anime geared towards people who have my exact educational background.
 
-### Detective Conan Anime's 4th Collection of Episodes 'Clash of the Red and Black' Streams on Crunchyroll, Netflix on November 1
-Tue, 27 Oct 2026 13:00:00 -0400 — https://www.animenewsnetwork.com/news/2026-10-27/detective-conan-anime-4th-collection-of-episodes-clash-of-the-red-and-black-streams-on-crunchyroll-/.243257
+### Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe Game Launches on October 29
+Wed, 28 Oct 2026 08:44:31 -0400 — https://www.animenewsnetwork.com/news/2026-10-28/hatsune-miku-connecting-puzzle-tamagotori-deluxe-game-launches-on-october-29/.243224
 
-"Clash of the Red and Black" arc centers on FBI vs. Black Organization
+New edition includes original game, two DLC packs
 
 ## Crunchyroll News
 
 _Nothing in the last 48 hours._
 
 ## Anime Corner
+
+### The Greatest Magicmaster’s Retirement Plan Anime Unveils Tesfia Character Visual
+Wed, 28 Oct 2026 13:01:00 GMT — https://animecorner.me/the-greatest-magicmasters-retirement-plan-anime-unveils-tesfia-character-visual/
+
+The Greatest Magicmaster’s Retirement Plan anime unveiled a new visual featuring the character Tesfia&hellip;
+
+### Medaka Kuroiwa Is Impervious to My Charms Season 2 Reveals New Visual, Digest Video
+Wed, 28 Oct 2026 12:50:01 GMT — https://animecorner.me/medaka-kuroiwa-is-impervious-to-my-charms-season-2-reveals-new-visual-digest-video/
+
+The upcoming Medaka Kuroiwa Is Impervious to My Charms Season 2 revealed a new&hellip;
 
 ### Phantom Busters Anime Reveals First Teaser Visual, Main Staff and Cast
 Wed, 28 Oct 2026 00:19:02 GMT — https://animecorner.me/phantom-busters-anime-reveals-first-teaser-visual-main-staff-and-cast/
@@ -98,26 +108,6 @@ Tue, 27 Oct 2026 10:59:27 GMT — https://animecorner.me/welcome-to-demon-school
 
 The spin-off anime Welcome to Demon School! Iruma-kun: IruMafia Edition revealed the main visual, along with a January 4, 2027 premiere.
 
-### BLEACH Anime Ends 22-Year Run With Special Ending Movie After Thousand-Year Blood War Finale
-Mon, 26 Oct 2026 15:40:21 GMT — https://animecorner.me/bleach-anime-ends-22-year-run-with-special-ending-movie-after-thousand-year-blood-war-finale/
-
-BLEACH anime officially ended after a near 22-year run following the release of BLEACH: Thousand-Year Blood War - The Calamity Episode 50.
-
-### ONE OR EIGHT Brings the Energy to Manila with V8 Showcase 2026
-Mon, 26 Oct 2026 15:28:13 GMT — https://animecorner.me/one-or-eight-brings-the-energy-to-manila-with-v8-showcase-2026/
-
-On October 23, ONE OR EIGHT brought their high-energy music to Samsung Hall with&hellip;
-
-### The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure Anime Reveals Main Visual, Additional Cast
-Mon, 26 Oct 2026 12:15:42 GMT — https://animecorner.me/the-eternal-fools-words-of-wisdom-a-pawsitively-fantastic-adventure-anime-reveals-main-visual-additional-cast/
-
-The Eternal Fool's Words of Wisdom: A Pawsitively Fantastic Adventure anime revealed a main&hellip;
-
-### Black Clover Season 2 Episode 5 Preview Teases Magna and Zora Action
-Mon, 26 Oct 2026 11:31:24 GMT — https://animecorner.me/black-clover-season-2-episode-5-preview-teases-magna-and-zora-action/
-
-Black Clover Season 2 has released preview images and synopsis for Episode 5 (Episode 175 overall) ahead of its October 31 premiere.
-
 ## MyAnimeList News
 
 ### Mairimashita! Iruma-kun: If Episode of Mafia Announces Production Staff
@@ -137,9 +127,12 @@ Tetsuya Chiba, best known as the artist for the Ashita no Joe (Ashita no Joe: Fi
 
 ## Otaku USA
 
-_Feed unavailable: HTTP 520_
+_Nothing in the last 48 hours._
 
 ## Anime UK News
 
-_Nothing in the last 48 hours._
+### MASHLE: MAGIC AND MUSCLES Returns to Crunchyroll January 2027
+Wed, 28 Oct 2026 14:34:05 +0000 — https://animeuknews.net/2026/10/mashle-magic-and-muscles-returns-to-crunchyroll-january-2027/
+
+Mash is ready to flex his muscles once again in MASHLE: MAGIC AND MUSCLES The Tri-Magicathlon Divine Visionary Final Exam Arc!
 
