@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="Tetsuya Chiba, 1939 to 2026">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#18011F"/>
+      <stop offset="1" stop-color="#C8891B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <text x="80" y="150" font-family="Helvetica, Arial, sans-serif" font-size="34" fill="#F3E6D2" opacity="0.85" letter-spacing="6">TETSUYA CHIBA</text>
+  <text x="80" y="330" font-family="Helvetica, Arial, sans-serif" font-size="150" font-weight="700" fill="#FFFFFF">1939–2026</text>
+  <text x="80" y="420" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#F3E6D2" opacity="0.9">He put the punch in the frames</text>
+  <text x="80" y="476" font-family="Helvetica, Arial, sans-serif" font-size="44" fill="#F3E6D2" opacity="0.9">either side of the punch.</text>
+  <text x="80" y="560" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#F3E6D2" opacity="0.6">Ashita no Joe — Weekly Shōnen Magazine, 1968–1973</text>
+</svg>
