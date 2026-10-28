@@ -13,7 +13,6 @@ sources:
     url: https://www.videogameschronicle.com/news/nintendos-next-indie-world-showcase-will-take-place-this-week/
 artistView:
   take: "Every game in this reel has to run on a 2017 mobile chip and on Switch 2's Nvidia part, which is two art budgets for one release and punishing on a team of four. A thirty-second cut will not let you read frame pacing either, so the reel is good for silhouette, colour and art direction and very little past that."
-draft: true
 ---
 
 **15:00 Italian time** — 14:00 GMT, 7:00 PT, 10:00 ET, 23:00 JST. Nintendo bills
